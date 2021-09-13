@@ -1,0 +1,527 @@
+{
+    "1": {
+        "スラリン": "Smiles"
+    },
+    "2": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "3": {
+        "どらきち": "Vlad"
+    },
+    "4": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "5": {
+        "メッキー": "Kim"
+    },
+    "6": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "7": {
+        "スライム": "Slime"
+    },
+    "8": {
+        "clarity_nt_char_8": "clarity_nt_char_8"
+    },
+    "9": {
+        "ドラキー": "Dracky"
+    },
+    "10": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "11": {
+        "キメラ": "Chimaera"
+    },
+    "12": {
+        "プリズニャン": "Jailcat"
+    },
+    "13": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "14": {
+        "ホイミスライム": "Healslime"
+    },
+    "15": {
+        "ナスビナーラ": "Woebergine"
+    },
+    "16": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "17": {
+        "革命": "Revolt"
+    },
+    "18": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "19": {
+        "スライム革命": "Slime Revolt"
+    },
+    "20": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "21": {
+        "都落ち": "Fleeing"
+    },
+    "22": {
+        "反則あがり": "Foul Play"
+    },
+    "23": {
+        "階段": "Stairs"
+    },
+    "24": {
+        "clarity_nt_char_24": "clarity_nt_char_24"
+    },
+    "25": {
+        "数しば": ""
+    },
+    "26": {
+        "しばり": "Restraint"
+    },
+    "27": {
+        "なかまカード": "Party Card"
+    },
+    "28": {
+        "clarity_nt_char_28": "clarity_nt_char_28"
+    },
+    "29": {
+        "ジョーカー２枚": "2 Jokers"
+    },
+    "30": {
+        "スペ３返し": "Return 3 Spades"
+    },
+    "31": {
+        "５スキップ": "Skip 5"
+    },
+    "32": {
+        "７パサー": "Pass 7"
+    },
+    "33": {
+        "clarity_nt_char_33": "clarity_nt_char_33"
+    },
+    "34": {
+        "８斬り": "Cut 8"
+    },
+    "35": {
+        "９リバース": "Reverse 9"
+    },
+    "36": {
+        "10ステ": "Step 10"
+    },
+    "37": {
+        "clarity_nt_char_37": "clarity_nt_char_37"
+    },
+    "38": {
+        "11バック": "Back 11"
+    },
+    "39": {
+        "Ｑボンバー": "Q Bomber"
+    },
+    "40": {
+        "４枚以上　同時に出すと|強さが反転する": "Reverse strength if 4 or|more of the same played."
+    },
+    "41": {
+        "スライムが　８体集まると|強さが反転する": "Reverse strength when 8|or more Slimes gathered."
+    },
+    "42": {
+        "clarity_nt_char_42": "clarity_nt_char_42"
+    },
+    "43": {
+        "大富豪のプレイヤーが|大富豪になれないと|負けになる": ""
+    },
+    "44": {
+        "clarity_nt_char_44": "clarity_nt_char_44"
+    },
+    "45": {
+        "反則の対象となるカードで|あがると　負けになる": ""
+    },
+    "46": {
+        "同じスートなら　連続した|数字で　３枚以上同時に|カードを出せる": ""
+    },
+    "47": {
+        "clarity_nt_char_47": "clarity_nt_char_47"
+    },
+    "48": {
+        "場札に対して　連続した|数字を出すと　以降も|連続した数字でしばられる": ""
+    },
+    "49": {
+        "場札と同じスートで|カードを出すと　以降も|同じスートでしばられる": ""
+    },
+    "50": {
+        "時々　捨て札の中から|カードが１枚　起き上がり|手札の１枚と　交換できる": ""
+    },
+    "51": {
+        "clarity_nt_char_51": "clarity_nt_char_51"
+    },
+    "52": {
+        "ジョーカーを２枚に増やす": ""
+    },
+    "53": {
+        "clarity_nt_char_53": "clarity_nt_char_53"
+    },
+    "54": {
+        "場のジョーカー１枚に|スペードの３を出せる": ""
+    },
+    "55": {
+        "５を出した枚数分|順番を　スキップする": ""
+    },
+    "56": {
+        "７を出した枚数分|次のプレイヤーにカードを|渡すことができる": ""
+    },
+    "57": {
+        "clarity_nt_char_57": "clarity_nt_char_57"
+    },
+    "58": {
+        "８を出すと　場が流れる": ""
+    },
+    "59": {
+        "９を出すと　順番が|逆回りになる": ""
+    },
+    "60": {
+        "clarity_nt_char_60": "clarity_nt_char_60"
+    },
+    "61": {
+        "10を出した枚数分|手札からカードを　選んで|捨てることができる": ""
+    },
+    "62": {
+        "clarity_nt_char_62": "clarity_nt_char_62"
+    },
+    "63": {
+        "Ｊを出すと場が流れるまで|強さが反転する": ""
+    },
+    "64": {
+        "clarity_nt_char_64": "clarity_nt_char_64"
+    },
+    "65": {
+        "Ｑを出した枚数分|全員の手札の中から|選んだ数字を　吹き飛ばす": ""
+    },
+    "66": {
+        "はぐれメタル": "Liquid Metal Slime"
+    },
+    "67": {
+        "clarity_nt_char_67": "clarity_nt_char_67"
+    },
+    "68": {
+        "キングスライム": "King Slime"
+    },
+    "69": {
+        "キラーマシン": "Killing Machine"
+    },
+    "70": {
+        "clarity_nt_char_70": "clarity_nt_char_70"
+    },
+    "71": {
+        "ゴーレム": "Golem"
+    },
+    "72": {
+        "clarity_nt_char_72": "clarity_nt_char_72"
+    },
+    "73": {
+        "ドラゴン": "Green Dragon"
+    },
+    "74": {
+        "clarity_nt_char_74": "clarity_nt_char_74"
+    },
+    "75": {
+        "レグナード": "Regnad"
+    },
+    "76": {
+        "悪霊の神々": "Evil Spirit God"
+    },
+    "77": {
+        "勇者姫アンルシア": "Hero Princess Anlucia"
+    },
+    "78": {
+        "clarity_nt_char_78": "clarity_nt_char_78"
+    },
+    "79": {
+        "賢者ルシェンダ": "Sage Lushenda"
+    },
+    "80": {
+        "シオン": "Shion"
+    },
+    "81": {
+        "ユシュカ": "Yushka"
+    },
+    "82": {
+        "clarity_nt_char_82": "clarity_nt_char_82"
+    },
+    "83": {
+        "ヴァレリア": "Valeria"
+    },
+    "84": {
+        "アスバル": "Asbal"
+    },
+    "85": {
+        "clarity_nt_char_85": "clarity_nt_char_85"
+    },
+    "86": {
+        "イルーシャ": "Ilusha"
+    },
+    "87": {
+        "初段": "Dan 1"
+    },
+    "88": {
+        "clarity_nt_char_88": "clarity_nt_char_88"
+    },
+    "89": {
+        "二段": "Dan 2"
+    },
+    "90": {
+        "clarity_nt_char_90": "clarity_nt_char_90"
+    },
+    "91": {
+        "三段": "Dan 3"
+    },
+    "92": {
+        "clarity_nt_char_92": "clarity_nt_char_92"
+    },
+    "93": {
+        "四段": "Dan 4"
+    },
+    "94": {
+        "clarity_nt_char_94": "clarity_nt_char_94"
+    },
+    "95": {
+        "五段": "Dan 5"
+    },
+    "96": {
+        "clarity_nt_char_96": "clarity_nt_char_96"
+    },
+    "97": {
+        "六段": "Dan 6"
+    },
+    "98": {
+        "clarity_nt_char_98": "clarity_nt_char_98"
+    },
+    "99": {
+        "七段": "Dan 7"
+    },
+    "100": {
+        "clarity_nt_char_100": "clarity_nt_char_100"
+    },
+    "101": {
+        "八段": "Dan 8"
+    },
+    "102": {
+        "clarity_nt_char_102": "clarity_nt_char_102"
+    },
+    "103": {
+        "九段": "Dan 9"
+    },
+    "104": {
+        "clarity_nt_char_104": "clarity_nt_char_104"
+    },
+    "105": {
+        "十段": "Dan 10"
+    },
+    "106": {
+        "clarity_nt_char_106": "clarity_nt_char_106"
+    },
+    "107": {
+        "アンルシア": "Anlucia"
+    },
+    "108": {
+        "ルシェンダ": "Lushenda"
+    },
+    "109": {
+        "エンゼル＆アメリア": "Angel & Amelia"
+    },
+    "110": {
+        "ライバルズ": "Rivals"
+    },
+    "111": {
+        "十段強": ""
+    },
+    "112": {
+        "十段超": ""
+    },
+    "113": {
+        "マデサゴーラ": "Madesagora"
+    },
+    "114": {
+        "clarity_nt_char_114": "clarity_nt_char_114"
+    },
+    "115": {
+        "エルガドーラ": "Elgadra"
+    },
+    "116": {
+        "clarity_nt_char_116": "clarity_nt_char_116"
+    },
+    "117": {
+        "魔仙卿": "Mage Lord"
+    },
+    "118": {
+        "ペペロゴーラ": "Peperogola"
+    },
+    "119": {
+        "clarity_nt_char_119": "clarity_nt_char_119"
+    },
+    "120": {
+        "リンベリィ": "Linberry"
+    },
+    "121": {
+        "ベルトロ": "Bertro"
+    },
+    "122": {
+        "clarity_nt_char_122": "clarity_nt_char_122"
+    },
+    "123": {
+        "キラーパンサー": "Great Sabrecat"
+    },
+    "124": {
+        "ダークキング": "Dark King"
+    },
+    "125": {
+        "clarity_nt_char_125": "clarity_nt_char_125"
+    },
+    "126": {
+        "ナジーン": "Nazine"
+    },
+    "127": {
+        "clarity_nt_char_127": "clarity_nt_char_127"
+    },
+    "128": {
+        "Ｄ": "D"
+    },
+    "129": {
+        "Ｃ": "C"
+    },
+    "130": {
+        "Ｂ": "B"
+    },
+    "131": {
+        "Ａ": "A"
+    },
+    "132": {
+        "Ｓ": "S"
+    },
+    "133": {
+        "ふつうの背景": "Normal Background"
+    },
+    "134": {
+        "clarity_nt_char_134": "clarity_nt_char_134"
+    },
+    "135": {
+        "ふつうの背景・暗": "Dark Normal Background"
+    },
+    "136": {
+        "clarity_nt_char_136": "clarity_nt_char_136"
+    },
+    "137": {
+        "マデサゴーラの背景": "Madesagora Background"
+    },
+    "138": {
+        "お城の背景": "Castle Backgrnd"
+    },
+    "139": {
+        "トランプ柄の背景": "Card Pattern Background"
+    },
+    "140": {
+        "clarity_nt_char_140": "clarity_nt_char_140"
+    },
+    "141": {
+        "サイバーな背景": "Cyber Background"
+    },
+    "142": {
+        "からくさナスの背景": "Eggplant Background"
+    },
+    "143": {
+        "ももんじゃ": "Platypunk"
+    },
+    "144": {
+        "帝国三将軍": "3 Empire Gen."
+    },
+    "145": {
+        "パドレ": "Padre"
+    },
+    "146": {
+        "しましまネコの背景": "Candy Cat Background"
+    },
+    "147": {
+        "モーモンダイヤの背景": "Diamond Sanguini Background"
+    },
+    "148": {
+        "clarity_nt_char_148": "clarity_nt_char_148"
+    },
+    "149": {
+        "タコメット": "Octopot"
+    },
+    "150": {
+        "海冥主メイヴ": "Hades Squid"
+    },
+    "151": {
+        "clarity_nt_char_151": "clarity_nt_char_151"
+    },
+    "152": {
+        "盟友カミル": "Ally Kamil"
+    },
+    "153": {
+        "ヒューザ": "Huzer"
+    },
+    "154": {
+        "clarity_nt_char_154": "clarity_nt_char_154"
+    },
+    "155": {
+        "城主ダストン": "Lord Duston"
+    },
+    "156": {
+        "clarity_nt_char_156": "clarity_nt_char_156"
+    },
+    "157": {
+        "黄金のパラディン": "Golden Paladin"
+    },
+    "158": {
+        "clarity_nt_char_158": "clarity_nt_char_158"
+    },
+    "159": {
+        "ラグアス王子": ""
+    },
+    "160": {
+        "clarity_nt_char_160": "clarity_nt_char_160"
+    },
+    "161": {
+        "ファラス": "Faras"
+    },
+    "162": {
+        "clarity_nt_char_162": "clarity_nt_char_162"
+    },
+    "163": {
+        "カミル": "Kamil"
+    },
+    "164": {
+        "ダストン": "Duston"
+    },
+    "165": {
+        "clarity_nt_char_165": "clarity_nt_char_165"
+    },
+    "166": {
+        "黄金パラディン": ""
+    },
+    "167": {
+        "ラグアス": ""
+    },
+    "168": {
+        "clarity_nt_char_168": "clarity_nt_char_168"
+    },
+    "169": {
+        "魔勇者アンルシア": "Demon Hero Anlucia"
+    },
+    "170": {
+        "clarity_nt_char_170": "clarity_nt_char_170"
+    },
+    "171": {
+        "魔勇者": "Evil Hero"
+    },
+    "172": {
+        "エキゾチックボムの背景": ""
+    },
+    "173": {
+        "勇者姫の背景": ""
+    },
+    "174": {
+        "clarity_nt_char_174": "clarity_nt_char_174"
+    },
+    "175": {
+        "魔勇者の背景": ""
+    }
+}
