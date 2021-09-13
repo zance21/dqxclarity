@@ -1929,37 +1929,37 @@
         "ネコパンチ": "Cat Punch"
     },
     "644": {
-        "グルーミング": ""
+        "グルーミング": "Grooming"
     },
     "645": {
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "646": {
-        "バードカッター": ""
+        "バードカッター": "Bird Cutter"
     },
     "647": {
-        "バードスラッシュ": ""
+        "バードスラッシュ": "Bird Slash"
     },
     "648": {
         "clarity_nt_char_215": "clarity_nt_char_215"
     },
     "649": {
-        "魔道砲": ""
+        "魔道砲": "Magic Gun"
     },
     "650": {
-        "クイックチャージ": ""
+        "クイックチャージ": "Quick Charge"
     },
     "651": {
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "652": {
-        "バードスラッシュ+30": ""
+        "バードスラッシュ+30": "Bird Slash +30"
     },
     "653": {
-        "ぱたぱたボディ": ""
+        "ぱたぱたボディ": "Flappy Body"
     },
     "654": {
-        "魔道砲+200": ""
+        "魔道砲+200": "Magic Gun+200"
     },
     "655": {
         "常時みのまもり+80": "Resilience +80"
@@ -1974,10 +1974,10 @@
         "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "659": {
-        "クイックリペア": ""
+        "クイックリペア": "Quick Repair"
     },
     "660": {
-        "魔道集束砲": ""
+        "魔道集束砲": "Magic Focus Gun"
     },
     "661": {
         "おうえん": "Egg On"
@@ -1986,16 +1986,16 @@
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "663": {
-        "破竹の一撃": ""
+        "破竹の一撃": "Bamboo Blow"
     },
     "664": {
-        "さみだれ突き+20%": ""
+        "さみだれ突き+20%": "Multi Thrust +20%"
     },
     "665": {
         "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "666": {
-        "破竹の一撃+300": ""
+        "破竹の一撃+300": "Bamboo Blow +300"
     },
     "667": {
         "スクルト": "Kabuff"
@@ -2004,10 +2004,10 @@
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "669": {
-        "オートメンテナンス": ""
+        "オートメンテナンス": "Auto Maintenance"
     },
     "670": {
-        "行動時15%回復アップ": ""
+        "行動時15%回復アップ": "Recovery Up On Action 15%"
     },
     "671": {
         "一閃突き": "T. Thrust"
@@ -2016,22 +2016,22 @@
         "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "673": {
-        "オーバーヒート": ""
+        "オーバーヒート": "Overheat"
     },
     "674": {
-        "緊急メンテナンス": ""
+        "緊急メンテナンス": "Emergency Maintenance"
     },
     "675": {
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "676": {
-        "雷光さみだれ突き": ""
+        "雷光さみだれ突き": "Multi Lightning Strike"
     },
     "677": {
         "clarity_nt_char_224": "clarity_nt_char_224"
     },
     "678": {
-        "マホトラ踊り": ""
+        "マホトラ踊り": "Drain Magic Dance"
     },
     "679": {
         "clarity_nt_char_225": "clarity_nt_char_225"
@@ -2040,22 +2040,22 @@
         "ぬすむ": "Half-Inch"
     },
     "681": {
-        "宝石ジャグリング": ""
+        "宝石ジャグリング": "Jewel Juggling"
     },
     "682": {
         "clarity_nt_char_226": "clarity_nt_char_226"
     },
     "683": {
-        "ラッキーダンス": ""
+        "ラッキーダンス": "Lucky Dance"
     },
     "684": {
-        "ジュエリーボディ": ""
+        "ジュエリーボディ": "Jewelry Body"
     },
     "685": {
         "clarity_nt_char_227": "clarity_nt_char_227"
     },
     "686": {
-        "宝石ジャグリング+20": ""
+        "宝石ジャグリング+20": "Jewel Juggling +20"
     },
     "687": {
         "ルカナン": "Kasap"
@@ -2070,7 +2070,7 @@
         "clarity_nt_char_229": "clarity_nt_char_229"
     },
     "691": {
-        "くちふうじ踊り": ""
+        "くちふうじ踊り": "Silencing Dance"
     },
     "692": {
         "ディバインスペル": "Divine Intervention"
@@ -2079,19 +2079,19 @@
         "clarity_nt_char_230": "clarity_nt_char_230"
     },
     "694": {
-        "攻撃時10%でルカニ": ""
+        "攻撃時10%でルカニ": "Sap On Action 10%"
     },
     "695": {
         "clarity_nt_char_231": "clarity_nt_char_231"
     },
     "696": {
-        "攻撃時10%で幻惑": ""
+        "攻撃時10%で幻惑": "Blind On Action 10%"
     },
     "697": {
-        "みとれる+3%": ""
+        "みとれる+3%": "Enthrall +3%"
     },
     "698": {
-        "水系威力+5%": ""
+        "水系威力+5%": "Water Power +5%"
     },
     "699": {
         "ピンクタイフーン": "Pink Typhoon"
@@ -2106,7 +2106,7 @@
         "clarity_nt_char_233": "clarity_nt_char_233"
     },
     "703": {
-        "ビューティアップ": ""
+        "ビューティアップ": "Beauty Up"
     },
     "704": {
         "clarity_nt_char_234": "clarity_nt_char_234"
@@ -2262,7 +2262,7 @@
         "マジックソード": ""
     },
     "755": {
-        "いかずち": ""
+        "いかずち": "Lightning"
     },
     "756": {
         "clarity_nt_char_252": "clarity_nt_char_252"
