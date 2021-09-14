@@ -5595,7 +5595,7 @@
         "<pipipi_mid>|「ありゃりゃ。|　捧げている　アイテムは|　買い取れませんよ。|<br>|「他に　売っていただけるものは|　ありますかね？|<bw_break>": ""
     },
     "1866": {
-        "<speed=0>捧げているアイテムは　捨てられません！": ""
+        "<speed=0>捧げているアイテムは　捨てられません！": "<speed=0>You can't throw away an item you offered!"
     },
     "1867": {
         "clarity_nt_char_630": "clarity_nt_char_630"
