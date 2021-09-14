@@ -26382,7 +26382,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 守った。": ""
     },
     "8795": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに もうどくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned again!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに もうどくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was deeply poisoned!"
     },
     "8796": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに どくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was poisoned!"
@@ -30867,7 +30867,7 @@
         "呪文を|ふうじこめた！": ""
     },
     "10290": {
-        "もうどくをかけた！": "Poisoned again!"
+        "もうどくをかけた！": "Deeply poisoned!"
     },
     "10291": {
         "どくをかけた！": "Poisoned!"
