@@ -468,7 +468,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "157": {
-        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": ""
+        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": "....Me trained as priest. So can be priest.|Say what you need.|<ask><bw_break>"
     },
     "158": {
         "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": ""
