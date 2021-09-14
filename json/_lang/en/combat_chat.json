@@ -16698,13 +16698,13 @@
         "clarity_nt_char_1857": "clarity_nt_char_1857"
     },
     "5567": {
-        "ザオトーン": "No Zing"
+        "ザオトーン": "Seal Zing"
     },
     "5568": {
         "ダウン攻撃": ""
     },
     "5569": {
-        "ザオトーン・アビス": "No Zing Abyss"
+        "ザオトーン・アビス": "Seal Zing Abyss"
     },
     "5570": {
         "ゴーレム召喚": "Golem Summon"
@@ -28404,7 +28404,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まねまねが とけた！": ""
     },
     "9469": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ザオトーンが とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ザオトーンが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Seal Zing faded!"
     },
     "9470": {
         "clarity_nt_char_3152": "clarity_nt_char_3152"
@@ -32637,7 +32637,7 @@
         "clarity_nt_char_3622": "clarity_nt_char_3622"
     },
     "10880": {
-        "ザオトーンがとけた": ""
+        "ザオトーンがとけた": "Seal Zing faded."
     },
     "10881": {
         "変身がとけた": ""
