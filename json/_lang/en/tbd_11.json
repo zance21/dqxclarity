@@ -594,7 +594,7 @@
         "木目にそってけずると 威力が１.５倍！": ""
     },
     "199": {
-        "<%sL_SYOKUNIN_KIND>レベルが<%nL_RANK>にアップ！": ""
+        "<%sL_SYOKUNIN_KIND>レベルが<%nL_RANK>にアップ！": "<%sL_SYOKUNIN_KIND> is now level <%dL_RANK>!"
     },
     "200": {
         "clarity_nt_char_75": "clarity_nt_char_75"

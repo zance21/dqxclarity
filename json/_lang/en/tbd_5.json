@@ -423,7 +423,7 @@
         "clarity_nt_char_48": "clarity_nt_char_48"
     },
     "142": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>レベルが <%dL_RANK>にアップ！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>レベルが <%dL_RANK>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\e reached level <%dL_RANK> in <%sL_SYOKUNIN_KIND>!"
     },
     "143": {
         "<%sL_SYOKUNIN_KIND>で 錬金に失敗し <%sB_item>に|<%sL_RENKIN_TEXT>が付いた！": ""
