@@ -909,13 +909,13 @@
         "この　ふたりのキャラで　冒険の書を作ります。|よろしいですか？": ""
     },
     "304": {
-        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": "<speed=0>Please choose a sibling type.|<select_se_off>|Older Sister|Younger Sister|<select_end>|<close>"
+        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": "<speed=0>What are you to your sibling?|<select_se_off>|Older Sister|Younger Sister|<select_end>|<close>"
     },
     "305": {
         "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "306": {
-        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あに|おとうと|<select_end>|<close>": ""
+        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あに|おとうと|<select_end>|<close>": "<speed=0>What are you to your sibling?|<select_se_off>|Older Brother|Younger Brother|<select_end>|<close>"
     },
     "307": {
         "clarity_nt_char_106": "clarity_nt_char_106"
@@ -1026,7 +1026,7 @@
         "あなたの兄弟のキャラを作ります": "Create your sibling's character."
     },
     "343": {
-        "兄弟キャラの姿は　これで　よろしいですか？": ""
+        "兄弟キャラの姿は　これで　よろしいですか？": "Finalize your sibling's appearance?"
     },
     "344": {
         "<speed=0>どちらのキャラクターを　作り直しますか？<select_se_off>|あなたのキャラクター|兄弟キャラクター|<select_end>|<close>": ""
@@ -1122,7 +1122,7 @@
         "<speed=0><%sM_FreeText>": ""
     },
     "375": {
-        "あなたから見た関係は　何ですか？": "What is your relationship with your sibling?"
+        "あなたから見た関係は　何ですか？": "What are you to your sibling?"
     },
     "376": {
         "clarity_nt_char_129": "clarity_nt_char_129"
