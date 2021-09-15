@@ -903,7 +903,7 @@
         "<%sM_syokugyou>で　よろしいですか？": ""
     },
     "302": {
-        "あなたのキャラの姿は　これで　よろしいですか？": ""
+        "あなたのキャラの姿は　これで　よろしいですか？": "Finalize your character's appearance?"
     },
     "303": {
         "この　ふたりのキャラで　冒険の書を作ります。|よろしいですか？": ""
@@ -1134,7 +1134,7 @@
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "379": {
-        "あなたのキャラを　作ります": "Create your character"
+        "あなたのキャラを　作ります": "Create your character."
     },
     "380": {
         "<speed=0>スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "<speed=0>Stop allocating your skill points?<yesno 2><close>"
