@@ -909,7 +909,7 @@
         "この　ふたりのキャラで　冒険の書を作ります。|よろしいですか？": ""
     },
     "304": {
-        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": ""
+        "<speed=0>あなたから見た関係は　何ですか？|<select_se_off>|あね|いもうと|<select_end>|<close>": "<speed=0>Please choose a sibling type.|<select_se_off>|Older Sister|Younger Sister|<select_end>|<close>"
     },
     "305": {
         "clarity_nt_char_105": "clarity_nt_char_105"
