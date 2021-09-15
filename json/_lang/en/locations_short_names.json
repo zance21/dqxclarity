@@ -4221,7 +4221,7 @@
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "1408": {
-        "東の塔 入口": ""
+        "東の塔 入口": "E. Tower Entry"
     },
     "1409": {
         "clarity_nt_char_435": "clarity_nt_char_435"
@@ -4260,10 +4260,10 @@
         "clarity_nt_char_440": "clarity_nt_char_440"
     },
     "1421": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>東の塔-寝室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>東の塔-寝室": "<%sW_MAP_NAME><%sW_DELIMITER>E. Tower Bedroom"
     },
     "1422": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>東の塔-居間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>東の塔-居間": "<%sW_MAP_NAME><%sW_DELIMITER>E. Tower Room"
     },
     "1423": {
         "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-寝室": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Bedroom"
@@ -4410,7 +4410,7 @@
         "clarity_nt_char_455": "clarity_nt_char_455"
     },
     "1471": {
-        "東の塔": ""
+        "東の塔": "E. Tower"
     },
     "1472": {
         "<%sW_MAP_NAME><%sW_DELIMITER>樹天の連橋": "<%sW_MAP_NAME><%sW_DELIMITER>Heavenly Bridge"
