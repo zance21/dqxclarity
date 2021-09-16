@@ -2337,7 +2337,7 @@
         "フィッシングコンテスト　ランキングでの名前表示設定を　|『ないしょ』　に設定した。": ""
     },
     "780": {
-        "『<%sM_fish>』の最大サイズが　<%.1fM_CM>ｃｍ　に更新された！": ""
+        "『<%sM_fish>』の最大サイズが　<%.1fM_CM>ｃｍ　に更新された！": "The biggest size of \"<%sM_fish>\"|has been updated to <%.1fM_CM> cm!"
     },
     "781": {
         "clarity_nt_char_256": "clarity_nt_char_256"
