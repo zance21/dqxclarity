@@ -9,7 +9,7 @@
         "「<%sM_item>を|　おさかなコイン　<%nM_Num>枚と|　交換しますが　よろしいですか？|<yesno><break>": ""
     },
     "4": {
-        "<select_se_off>|さかなを選んで渡す|さかなを全て渡す|景品を交換する|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|さかなを選んで渡す|さかなを全て渡す|景品を交換する|説明を聞く|<select_end><break>": "<select_se_off>|Exchange Fish|Exchange All Fish|Prize Exchange|Explanation|<select_end><break>"
     },
     "5": {
         "「お持ちのさかなを　全部まとめて|　おさかなコイン　<%nM_Num>枚で|　引き取りますが　よろしいですか？|<yesno><break>": ""
