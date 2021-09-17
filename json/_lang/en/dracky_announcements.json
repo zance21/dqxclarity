@@ -1587,10 +1587,10 @@
         "毛皮に包まれた氷が すべて 解けてしまったようです": ""
     },
     "530": {
-        "条件が達成できなかったので バトルを終了します": ""
+        "条件が達成できなかったので バトルを終了します": "The battle ended due to failing the conditions."
     },
     "531": {
-        "制限時間を過ぎたので バトルを終了します": ""
+        "制限時間を過ぎたので バトルを終了します": "The battle will end due to time running out."
     },
     "532": {
         "clarity_nt_char_172": "clarity_nt_char_172"
