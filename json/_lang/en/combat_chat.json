@@ -23565,10 +23565,10 @@
         "clarity_nt_char_2620": "clarity_nt_char_2620"
     },
     "7856": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed returned to normal!"
     },
     "7857": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed increased slightly!"
     },
     "7858": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed increased by a lot!"
@@ -23577,10 +23577,10 @@
         "clarity_nt_char_2621": "clarity_nt_char_2621"
     },
     "7860": {
-        "周囲の味方の|ＭＰを一定時間|少しずつ回復": ""
+        "周囲の味方の|ＭＰを一定時間|少しずつ回復": "Nearby allies|will recover MP|over time."
     },
     "7861": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは からだがシビれて うごけない！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは からだがシビれて うごけない！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can't move because their body is numb!"
     },
     "7862": {
         "clarity_nt_char_2622": "clarity_nt_char_2622"
