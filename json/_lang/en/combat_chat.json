@@ -23538,7 +23538,7 @@
         "小さな光の爆発を|無数に発生させて|敵を選ばず攻撃": "Attacks an enemy|with small|light explosions."
     },
     "7847": {
-        "ゴールドを使って|リッチなダメージ|スパスタ専用特技": ""
+        "ゴールドを使って|リッチなダメージ|スパスタ専用特技": "Deals damage by|spending Gold.|That's rich!"
     },
     "7848": {
         "clarity_nt_char_2617": "clarity_nt_char_2617"
@@ -23556,10 +23556,10 @@
         "clarity_nt_char_2619": "clarity_nt_char_2619"
     },
     "7853": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が 少し さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed decreased slightly!"
     },
     "7854": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを シビれさせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを シビれさせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is paralyzed!"
     },
     "7855": {
         "clarity_nt_char_2620": "clarity_nt_char_2620"
