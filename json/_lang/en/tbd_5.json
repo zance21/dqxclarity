@@ -1110,7 +1110,7 @@
         "美容院で かおを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": ""
     },
     "371": {
-        "貯金箱から <%dM_gold> Gを 引き出した。": "Pulled out <%dM_gold> gold from piggy bank."
+        "貯金箱から <%dM_gold> Gを 引き出した。": "Removed <%dM_gold> gold from piggy bank."
     },
     "372": {
         "clarity_nt_char_117": "clarity_nt_char_117"
