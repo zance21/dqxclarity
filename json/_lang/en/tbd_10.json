@@ -156,7 +156,7 @@
         "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
     },
     "53": {
-        "立ちかた": "Stance"
+        "立ちかた": "Pose"
     },
     "54": {
         "clarity_nt_char_19": "clarity_nt_char_19"
