@@ -1269,7 +1269,7 @@
         "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
-        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": "<%sCAS_gambler> danced <%sCAS_action>!"
+        "<%sCAS_gambler>は|<%sCAS_action>を　おどった！": "<%sCAS_gambler> danced the <%sCAS_action>!"
     },
     "425": {
         "clarity_nt_char_425": "clarity_nt_char_425"
@@ -1335,7 +1335,7 @@
         "<%sCAS_monster>は|ぶきみに　ほほえんでいる": "<%sCAS_monster> is smiling creepily..."
     },
     "446": {
-        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": "<%sCAS_monster> danced <%sCAS_action>!"
+        "<%sCAS_monster>は|<%sCAS_action>を　おどった！": "<%sCAS_monster> danced the <%sCAS_action>!"
     },
     "447": {
         "clarity_nt_char_447": "clarity_nt_char_447"
