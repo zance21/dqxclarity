@@ -228,7 +228,7 @@
         "ビンゴを１０回プレイしたので|メタルビンゴチケットを　手に入れた！": ""
     },
     "77": {
-        "<speed=0>すごろく台がある。|まだ　遊べないようだ。": ""
+        "<speed=0>すごろく台がある。|まだ　遊べないようだ。": "<speed=0>It's a Sugoroku Table.|Seems you can't play just yet."
     },
     "78": {
         "カジノプレイチケットを　<%dM_Num2>枚　持っています。|３枚使って　すごろくを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
