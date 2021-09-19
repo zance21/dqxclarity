@@ -273,7 +273,7 @@
         "既に　パーティメンバーが|別のすごろく台に　座っています。|同じすごろく台に　座ってください。": ""
     },
     "92": {
-        "<color_yellow>|すごろく景品係ミミから|受け取っていない　アイテムがあるため|すごろくに　エントリーできません。|<color_white>": ""
+        "<color_yellow>|すごろく景品係ミミから|受け取っていない　アイテムがあるため|すごろくに　エントリーできません。|<color_white>": "<color_yellow>|There are items you have not yet received|from Prize Clerk Mimi, so you cannot play|Sugoroku.|<color_white>"
     },
     "93": {
         "既に　パーティメンバーが|すごろくに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　すごろくへのエントリーが|キャンセルされますが　よろしいですか？<yesno 2><close>": ""
