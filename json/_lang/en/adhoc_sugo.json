@@ -72,7 +72,7 @@
         "死んでいるため|レベルが　あがらなかった。": "Your level didn't increase because you|are dead."
     },
     "25": {
-        "<%sCAS_gambler>は|レベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> went from Level <%nCAS_before_level>|to Level <%nCAS_now_level>!"
+        "<%sCAS_gambler>は|レベル<%nCAS_before_level>から　レベル<%nCAS_now_level>にあがった！": "<%sCAS_gambler> went from Level <%dCAS_before_level>|to Level <%dCAS_now_level>!"
     },
     "26": {
         "なにも　かくとくできなかった。": "You couldn't receive anything."
