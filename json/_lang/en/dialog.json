@@ -3468,7 +3468,7 @@
         "clarity_nt_char_387": "clarity_nt_char_387"
     },
     "1157": {
-        "<speed=0>この仲間モンスターは|<%sM_item><%sM_plusnum>を　装備できない！": ""
+        "<speed=0>この仲間モンスターは|<%sM_item><%sM_plusnum>を　装備できない！": "<speed=0>This fellow monster cannot equip the|<%sM_item><%sM_plusnum>!"
     },
     "1158": {
         "clarity_nt_char_388": "clarity_nt_char_388"
