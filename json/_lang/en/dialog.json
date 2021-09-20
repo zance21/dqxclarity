@@ -204,10 +204,10 @@
         "<speed=0>ルーラストーンを　持っていない！": "<speed=0>Couldn't use the Zoomstone!"
     },
     "69": {
-        "<speed=0>そうびひんを　持っていない！": "<speed=0>I don't have any armor!"
+        "<speed=0>そうびひんを　持っていない！": "<speed=0>You don't have any armor!"
     },
     "70": {
-        "<speed=0>だいじなものを　持っていない！": "<speed=0>You don't have anything important!"
+        "<speed=0>だいじなものを　持っていない！": "<speed=0>You don't have any key items!"
     },
     "71": {
         "clarity_nt_char_21": "clarity_nt_char_21"
@@ -225,7 +225,7 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "76": {
-        "<speed=0>つかうものを　持っていない！": "<speed=0>I don't have anything to grab!"
+        "<speed=0>つかうものを　持っていない！": "<speed=0>You aren't carrying any items!"
     },
     "77": {
         "<speed=0>それを　捨てるなんて　とんでもない！": "<speed=0>You can't just throw that away!"
@@ -360,13 +360,13 @@
         "<speed=0>しかし　なにも　おこらなかった。": "<speed=0>But nothing happened."
     },
     "121": {
-        "<speed=0>いまは　サポート仲間を　仲間にしていません。": "<speed=0>I don't have any support|people on my team right now."
+        "<speed=0>いまは　サポート仲間を　仲間にしていません。": "<speed=0>You currently have no support party members."
     },
     "122": {
         "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？": "<speed=0>I've been invited to join <%sM_pc>. |Do you want to join <%sM_pc>'s party?"
     },
     "123": {
-        "<speed=0>いまは　はずせる仲間が　いません。": "<speed=0>I don't have any friends to remove right now."
+        "<speed=0>いまは　はずせる仲間が　いません。": "<speed=0>There aren't any members to remove."
     },
     "124": {
         "clarity_nt_char_39": "clarity_nt_char_39"
