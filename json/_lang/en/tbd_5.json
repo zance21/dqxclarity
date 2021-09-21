@@ -1083,13 +1083,13 @@
         "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into furniture storage."
     },
     "362": {
-        "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": ""
+        "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
     },
     "363": {
         "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "364": {
-        "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
+        "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into|house storage."
     },
     "365": {
         "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from storage."
@@ -1098,7 +1098,7 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "367": {
-        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "You took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage."
+        "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "Took out <%sL_ITEM_NAME><%sL_PLUSNUM> from the house storage."
     },
     "368": {
         "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "You took out <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> from the attic storage."
