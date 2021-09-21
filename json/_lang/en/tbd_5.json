@@ -1080,7 +1080,7 @@
         "clarity_nt_char_113": "clarity_nt_char_113"
     },
     "361": {
-        "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
+        "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into furniture storage."
     },
     "362": {
         "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": ""
