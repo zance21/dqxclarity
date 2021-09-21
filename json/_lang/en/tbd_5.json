@@ -600,7 +600,7 @@
         "clarity_nt_char_66": "clarity_nt_char_66"
     },
     "201": {
-        "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": ""
+        "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "Put <%dL_QUANTITY> <%sL_ITEM_NAME><%sL_PLUSNUM> into <%sL_OWNER>'s|furniture storage."
     },
     "202": {
         "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。": ""
