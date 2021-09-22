@@ -7695,7 +7695,7 @@
         "ビッグシールド": "Immense Defence"
     },
     "2566": {
-        "シールドバッシュ": "Shield Blast"
+        "シールドバッシュ": "Shield Bash"
     },
     "2567": {
         "clarity_nt_char_878": "clarity_nt_char_878"
@@ -16221,7 +16221,7 @@
         "clarity_nt_char_1811": "clarity_nt_char_1811"
     },
     "5408": {
-        "シールドブーメラン": "Shield Slicers"
+        "シールドブーメラン": "Shield Boomerang"
     },
     "5409": {
         "獄門クラッシュ": "Prison Crash"
@@ -22632,7 +22632,7 @@
         "clarity_nt_char_2516": "clarity_nt_char_2516"
     },
     "7545": {
-        "羅刹王の覇道": "Rakshasa's Mastery"
+        "羅刹王の覇道": "Fiend's Mastery"
     },
     "7546": {
         "clarity_nt_char_2517": "clarity_nt_char_2517"
@@ -35457,13 +35457,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 覇道の気合を 奮い立たせた！！|与えるダメージが アップした！|うける物理ダメージが 少なくなった！|ドラゴンビート状態になった！|ターンを消費しにくくなった！": ""
     },
     "11820": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 羅刹王の覇道が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Rakshasa Mastery faded!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 羅刹王の覇道が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fiend's Mastery faded!"
     },
     "11821": {
         "覇道の気合を|奮い立たせた！！": ""
     },
     "11822": {
-        "羅刹王の覇道の効果が|きえた！": "Rakshasa's Mastery|effect faded!"
+        "羅刹王の覇道の効果が|きえた！": "Fiend's Mastery|effect faded!"
     },
     "11823": {
         "闇の根源の呪縛が 疾風のごとく 駆け抜ける！": ""
