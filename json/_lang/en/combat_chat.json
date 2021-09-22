@@ -34266,7 +34266,7 @@
         "clarity_nt_char_3795": "clarity_nt_char_3795"
     },
     "11423": {
-        "アンサンブルメテオが 降り注いだ！": "Powerful Meteors have emerged from above!"
+        "アンサンブルメテオが 降り注いだ！": "Ensemble Meteors begin pouring down!"
     },
     "11424": {
         "ボス弱体用HP-20%": ""
@@ -35457,13 +35457,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 覇道の気合を 奮い立たせた！！|与えるダメージが アップした！|うける物理ダメージが 少なくなった！|ドラゴンビート状態になった！|ターンを消費しにくくなった！": ""
     },
     "11820": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 羅刹王の覇道が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 羅刹王の覇道が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Rakshasa Mastery faded!"
     },
     "11821": {
         "覇道の気合を|奮い立たせた！！": ""
     },
     "11822": {
-        "羅刹王の覇道の効果が|きえた！": ""
+        "羅刹王の覇道の効果が|きえた！": "Rakshasa's Mastery|effect faded!"
     },
     "11823": {
         "闇の根源の呪縛が 疾風のごとく 駆け抜ける！": ""
