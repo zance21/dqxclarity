@@ -780,7 +780,7 @@
         "clarity_nt_char_85": "clarity_nt_char_85"
     },
     "261": {
-        "---------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "---------------------------------- Current Real Time <%2nM_CW_hour>：<%02nM_CW_minute>"
+        "---------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "---------------------------------- Current Real Time <%2dM_CW_hour>:<%02dM_CW_minute>"
     },
     "262": {
         "clarity_nt_char_86": "clarity_nt_char_86"

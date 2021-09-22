@@ -63,7 +63,7 @@
         "通信エラーが発生しました。": "A communication error occurred."
     },
     "22": {
-        "------------------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "-------------------------------------------Current Real Time<%2nM_CW_hour>：<%02nM_CW_minute>"
+        "------------------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "-------------------------------------------Current Real Time <%2dM_CW_hour>:<%02dM_CW_minute>"
     },
     "23": {
         "コメントは　ありません。": "There is no comment."
