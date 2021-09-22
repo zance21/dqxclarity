@@ -1812,7 +1812,7 @@
         "「出品ですね。１品につき　出品料<%nL_FEE_PRICE>ゴールドと|　商品が売れた際には　手数料として|　売上金の<%nL_FEE>％をいただきますが　いいですか？|<yesno><break>": ""
     },
     "605": {
-        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": ""
+        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": "You can list <%dL_SYUPPIN> more items for|sale. What do you want to list?|<break>"
     },
     "606": {
         "「残念ですが　出品するには|　お金が足りないようです。|<bw_break>": ""
