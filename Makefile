@@ -7,13 +7,14 @@ release:
 	make clean
 	make build
 	move dist\dqxclarity.exe .
-	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex_dict.csv
+	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex_dict.csv clarity_dialog.db
 	python calculate_sha.py
 
 lint:
-	pylint --rcfile=.pylintrc setup.py
-	pylint --rcfile=.pylintrc main.py
-	pylint --rcfile=.pylintrc clarity.py
+	-pylint --rcfile=.pylintrc setup.py
+	-pylint --rcfile=.pylintrc main.py
+	-pylint --rcfile=.pylintrc clarity.py
+	-pylint --rcfile=.pylintrc dialog.py
 
 clean:
 	if exist "build\" rd /s/q "build\"
