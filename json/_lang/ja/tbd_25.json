@@ -3,7 +3,7 @@
     "<select_se_off>|買いたい|売りに出したい|出品したものを見る|やめる|<select_end><break>": "<select_se_off>|買いたい|売りに出したい|出品したものを見る|やめる|<select_end><break>"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "残り<%sL_ZANTIME>時間以内": "残り<%sL_ZANTIME>時間以内"
@@ -12,19 +12,19 @@
     "あと<%sL_ZANNUM>こ出品できる": "あと<%sL_ZANNUM>こ出品できる"
   },
   "5": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "6": {
     "<%sL_RECIPE>は|これいじょう持てません！": "<%sL_RECIPE>は|これいじょう持てません！"
   },
   "7": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "8": {
     "<%nL_HOUSE>　<%nL_TYOUME>丁目　<%nL_BANTI>番地": "<%nL_HOUSE>　<%nL_TYOUME>丁目　<%nL_BANTI>番地"
   },
   "9": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "<%nL_SYUPPIN_NUM_00>こ": "<%nL_SYUPPIN_NUM_00>こ"
@@ -78,7 +78,7 @@
     "「ライブ開発用の|　デバッグコマンドを　実行できます。|　実行したいコマンドを　選んで下さい。|<select>|調理じゅんび|テスト１|テスト２|テスト３|テスト４|テスト５|テスト６|テスト７|<select_end><break>": "「ライブ開発用の|　デバッグコマンドを　実行できます。|　実行したいコマンドを　選んで下さい。|<select>|調理じゅんび|テスト１|テスト２|テスト３|テスト４|テスト５|テスト６|テスト７|<select_end><break>"
   },
   "27": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "28": {
     "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！": "<pc>の釣りレベルが　<%dL_LEVEL>にあがった！"
@@ -87,19 +87,19 @@
     "釣りレベルが<%nL_LEVEL>にアップ！": "釣りレベルが<%nL_LEVEL>にアップ！"
   },
   "30": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
     "<%sL_FISH>の|キングサイズ釣った！": "<%sL_FISH>の|キングサイズ釣った！"
   },
   "32": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "33": {
     "さかなを引き寄せる力が　増えた！": "さかなを引き寄せる力が　増えた！"
   },
   "34": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "35": {
     "今日のまちかど情報": "今日のまちかど情報"
@@ -111,7 +111,7 @@
     "<%sM_syokunin>": "<%sM_syokunin>"
   },
   "38": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "39": {
     "<%sM_syokugyou>": "<%sM_syokugyou>"
@@ -123,7 +123,7 @@
     "<%dM_pose>": "<%dM_pose>"
   },
   "42": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
     "Lv<%n_lv>以上": "Lv<%n_lv>以上"
@@ -135,13 +135,13 @@
     "マデサゴーラ": "マデサゴーラ"
   },
   "46": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "47": {
     "スーパーVIPルーム": "スーパーVIPルーム"
   },
   "48": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "49": {
     "スーパーVIPテーブル": "スーパーVIPテーブル"
@@ -153,19 +153,19 @@
     "グハハハハハッ……！": "グハハハハハッ……！"
   },
   "52": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "53": {
     "見たか！　これが余のチカラよ！！": "見たか！　これが余のチカラよ！！"
   },
   "54": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "まだだ……。これで終わりではないぞ！": "まだだ……。これで終わりではないぞ！"
   },
   "56": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "57": {
     "<pc>は　釣りをやめた。": "<pc>は　釣りをやめた。"
@@ -174,13 +174,13 @@
     "ここに　旬のさかなは　いないようだ。": "ここに　旬のさかなは　いないようだ。"
   },
   "59": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "60": {
     "旬のさかなの　気配を感じる！": "旬のさかなの　気配を感じる！"
   },
   "61": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_61": "clarity_nt_char_61"
   },
   "62": {
     "<pipipi_high>|「ここは　○○○○○イベント限定の|　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「申し訳ありませんが　ゴルスラ会長から|　参加登録後に　ご利用になれますわ。": "<pipipi_high>|「ここは　○○○○○イベント限定の|　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「申し訳ありませんが　ゴルスラ会長から|　参加登録後に　ご利用になれますわ。"
@@ -189,13 +189,13 @@
     "チャージが完了すると|元気いっぱいになります": "チャージが完了すると|元気いっぱいになります"
   },
   "64": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "65": {
     "錬金釜を <%dM_00>人になでてもらうと|元気いっぱいになります": "錬金釜を <%dM_00>人になでてもらうと|元気いっぱいになります"
   },
   "66": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_66": "clarity_nt_char_66"
   },
   "67": {
     "チャージが完了すると|ふつうになります": "チャージが完了すると|ふつうになります"
@@ -204,25 +204,25 @@
     "チャージ時間が半分になります": "チャージ時間が半分になります"
   },
   "69": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
     "消費アイテム": "消費アイテム"
   },
   "71": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "素材": "素材"
   },
   "73": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
     "白紙のカード": "白紙のカード"
   },
   "75": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_75": "clarity_nt_char_75"
   },
   "76": {
     "メダル・カード": "メダル・カード"
@@ -231,7 +231,7 @@
     "全部": "全部"
   },
   "78": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "79": {
     "マデサゴーラ杯": "マデサゴーラ杯"
@@ -240,7 +240,7 @@
     "チームボード": "チームボード"
   },
   "81": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_81": "clarity_nt_char_81"
   },
   "82": {
     "チームフラッグ": "チームフラッグ"
@@ -249,7 +249,7 @@
     "チームホース": "チームホース"
   },
   "84": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "85": {
     "魔勇者杯": "魔勇者杯"

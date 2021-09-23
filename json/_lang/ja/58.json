@@ -3,19 +3,19 @@
     "メインカラー": "メインカラー"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "サイドカラー": "サイドカラー"
   },
   "4": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "5": {
     "ベースカラー": "ベースカラー"
   },
   "6": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "7": {
     "ふちどりライン": "ふちどりライン"
@@ -30,31 +30,31 @@
     "ふさ": "ふさ"
   },
   "11": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "12": {
     "ふちどりのもよう": "ふちどりのもよう"
   },
   "13": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "こしまき": "こしまき"
   },
   "15": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "16": {
     "エプロン": "エプロン"
   },
   "17": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "18": {
     "くつぞこ": "くつぞこ"
   },
   "19": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_19": "clarity_nt_char_19"
   },
   "20": {
     "ボタン": "ボタン"
@@ -69,7 +69,7 @@
     "ボーダー": "ボーダー"
   },
   "24": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
     "ボーダー１": "ボーダー１"
@@ -87,7 +87,7 @@
     "ラインカラー": "ラインカラー"
   },
   "30": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
     "パレオ": "パレオ"
@@ -96,7 +96,7 @@
     "花柄": "花柄"
   },
   "33": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "34": {
     "リボン": "リボン"
@@ -108,7 +108,7 @@
     "えりまき": "えりまき"
   },
   "37": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_37": "clarity_nt_char_37"
   },
   "38": {
     "布": "布"
@@ -123,13 +123,13 @@
     "ひざあて": "ひざあて"
   },
   "42": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
     "むねあて": "むねあて"
   },
   "44": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_44": "clarity_nt_char_44"
   },
   "45": {
     "レース": "レース"
@@ -138,7 +138,7 @@
     "花かざり": "花かざり"
   },
   "47": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_47": "clarity_nt_char_47"
   },
   "48": {
     "チェーンベルト": "チェーンベルト"
@@ -147,13 +147,13 @@
     "スカーフ": "スカーフ"
   },
   "50": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_50": "clarity_nt_char_50"
   },
   "51": {
     "リストカバー": "リストカバー"
   },
   "52": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "53": {
     "ネックレス": "ネックレス"
@@ -162,13 +162,13 @@
     "もよう１": "もよう１"
   },
   "55": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_55": "clarity_nt_char_55"
   },
   "56": {
     "もよう２": "もよう２"
   },
   "57": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_57": "clarity_nt_char_57"
   },
   "58": {
     "顔": "顔"
@@ -180,19 +180,19 @@
     "ウエストゴム": "ウエストゴム"
   },
   "61": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_61": "clarity_nt_char_61"
   },
   "62": {
     "マーク１": "マーク１"
   },
   "63": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "64": {
     "マーク２": "マーク２"
   },
   "65": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "66": {
     "皮ひも": "皮ひも"
@@ -210,25 +210,25 @@
     "トランプ": "トランプ"
   },
   "71": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "リボン　ふちどり": "リボン　ふちどり"
   },
   "73": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
     "バラ": "バラ"
   },
   "75": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_75": "clarity_nt_char_75"
   },
   "76": {
     "リボン　ひも": "リボン　ひも"
   },
   "77": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "78": {
     "ジュエルカラー": "ジュエルカラー"
@@ -240,19 +240,19 @@
     "グローブ": "グローブ"
   },
   "81": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
+    "clarity_nt_char_81": "clarity_nt_char_81"
   },
   "82": {
     "かざりのふちどり": "かざりのふちどり"
   },
   "83": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
+    "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "84": {
     "ワンポイント": "ワンポイント"
   },
   "85": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
+    "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "86": {
     "フリル": "フリル"
@@ -261,37 +261,37 @@
     "ニーハイソックス": "ニーハイソックス"
   },
   "88": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
+    "clarity_nt_char_88": "clarity_nt_char_88"
   },
   "89": {
     "ネッカチーフ": "ネッカチーフ"
   },
   "90": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
+    "clarity_nt_char_90": "clarity_nt_char_90"
   },
   "91": {
     "コックコート": "コックコート"
   },
   "92": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
+    "clarity_nt_char_92": "clarity_nt_char_92"
   },
   "93": {
     "ショルダーベルト": "ショルダーベルト"
   },
   "94": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
+    "clarity_nt_char_94": "clarity_nt_char_94"
   },
   "95": {
     "ヒップベルト": "ヒップベルト"
   },
   "96": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
+    "clarity_nt_char_96": "clarity_nt_char_96"
   },
   "97": {
     "レッグカバー": "レッグカバー"
   },
   "98": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
+    "clarity_nt_char_98": "clarity_nt_char_98"
   },
   "99": {
     "レザーのかざり": "レザーのかざり"
@@ -300,37 +300,37 @@
     "まえかけ": "まえかけ"
   },
   "101": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
+    "clarity_nt_char_101": "clarity_nt_char_101"
   },
   "102": {
     "ブラウス": "ブラウス"
   },
   "103": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+    "clarity_nt_char_103": "clarity_nt_char_103"
   },
   "104": {
     "マントの裏地": "マントの裏地"
   },
   "105": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
+    "clarity_nt_char_105": "clarity_nt_char_105"
   },
   "106": {
     "ビスチェ": "ビスチェ"
   },
   "107": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
+    "clarity_nt_char_107": "clarity_nt_char_107"
   },
   "108": {
     "フリンジ": "フリンジ"
   },
   "109": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
+    "clarity_nt_char_109": "clarity_nt_char_109"
   },
   "110": {
     "ぼうしカバー": "ぼうしカバー"
   },
   "111": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
+    "clarity_nt_char_111": "clarity_nt_char_111"
   },
   "112": {
     "ショートパンツ": "ショートパンツ"
@@ -339,7 +339,7 @@
     "羽型プロテクター": "羽型プロテクター"
   },
   "114": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
+    "clarity_nt_char_114": "clarity_nt_char_114"
   },
   "115": {
     "サイドビスチェ": "サイドビスチェ"
@@ -357,19 +357,19 @@
     "スカート": "スカート"
   },
   "120": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
+    "clarity_nt_char_120": "clarity_nt_char_120"
   },
   "121": {
     "ストール": "ストール"
   },
   "122": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
+    "clarity_nt_char_122": "clarity_nt_char_122"
   },
   "123": {
     "トップティアード": "トップティアード"
   },
   "124": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
+    "clarity_nt_char_124": "clarity_nt_char_124"
   },
   "125": {
     "イチゴ": "イチゴ"
@@ -378,19 +378,19 @@
     "つば": "つば"
   },
   "127": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
+    "clarity_nt_char_127": "clarity_nt_char_127"
   },
   "128": {
     "裏地": "裏地"
   },
   "129": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
+    "clarity_nt_char_129": "clarity_nt_char_129"
   },
   "130": {
     "むぎわら": "むぎわら"
   },
   "131": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
+    "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
     "布ひも": "布ひも"
@@ -408,19 +408,19 @@
     "くつ": "くつ"
   },
   "137": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
+    "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "138": {
     "セパレート１": "セパレート１"
   },
   "139": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
+    "clarity_nt_char_139": "clarity_nt_char_139"
   },
   "140": {
     "セパレート２": "セパレート２"
   },
   "141": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
+    "clarity_nt_char_141": "clarity_nt_char_141"
   },
   "142": {
     "サブカラー": "サブカラー"
@@ -429,19 +429,19 @@
     "プリント": "プリント"
   },
   "144": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
+    "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
     "Ｔシャツ": "Ｔシャツ"
   },
   "146": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
+    "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
     "宝石": "宝石"
   },
   "148": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
+    "clarity_nt_char_148": "clarity_nt_char_148"
   },
   "149": {
     "カバー": "カバー"
@@ -450,13 +450,13 @@
     "てぶくろ": "てぶくろ"
   },
   "151": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
+    "clarity_nt_char_151": "clarity_nt_char_151"
   },
   "152": {
     "インナー": "インナー"
   },
   "153": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
+    "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "154": {
     "ジャケット": "ジャケット"
@@ -465,49 +465,49 @@
     "けさ": "けさ"
   },
   "156": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
+    "clarity_nt_char_156": "clarity_nt_char_156"
   },
   "157": {
     "ハットバンド": "ハットバンド"
   },
   "158": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
+    "clarity_nt_char_158": "clarity_nt_char_158"
   },
   "159": {
     "ふちどりもよう１": "ふちどりもよう１"
   },
   "160": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
+    "clarity_nt_char_160": "clarity_nt_char_160"
   },
   "161": {
     "ふちどりもよう２": "ふちどりもよう２"
   },
   "162": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
+    "clarity_nt_char_162": "clarity_nt_char_162"
   },
   "163": {
     "ふちどりライン１": "ふちどりライン１"
   },
   "164": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
+    "clarity_nt_char_164": "clarity_nt_char_164"
   },
   "165": {
     "ふちどりライン２": "ふちどりライン２"
   },
   "166": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
+    "clarity_nt_char_166": "clarity_nt_char_166"
   },
   "167": {
     "おび": "おび"
   },
   "168": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
+    "clarity_nt_char_168": "clarity_nt_char_168"
   },
   "169": {
     "ヘッドバンド": "ヘッドバンド"
   },
   "170": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
+    "clarity_nt_char_170": "clarity_nt_char_170"
   },
   "171": {
     "ベスト": "ベスト"
@@ -516,7 +516,7 @@
     "タンクトップ": "タンクトップ"
   },
   "173": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
+    "clarity_nt_char_173": "clarity_nt_char_173"
   },
   "174": {
     "うろこ": "うろこ"
@@ -525,7 +525,7 @@
     "ふちどり": "ふちどり"
   },
   "176": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
+    "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
     "こし布": "こし布"
@@ -534,7 +534,7 @@
     "はちまき": "はちまき"
   },
   "179": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
+    "clarity_nt_char_179": "clarity_nt_char_179"
   },
   "180": {
     "トップ": "トップ"
@@ -546,7 +546,7 @@
     "生地": "生地"
   },
   "183": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
+    "clarity_nt_char_183": "clarity_nt_char_183"
   },
   "184": {
     "もよう": "もよう"
@@ -555,7 +555,7 @@
     "シューズ": "シューズ"
   },
   "186": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
+    "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
     "ホワイトブリム": "ホワイトブリム"
@@ -564,19 +564,19 @@
     "ハートの宝石": "ハートの宝石"
   },
   "189": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
+    "clarity_nt_char_189": "clarity_nt_char_189"
   },
   "190": {
     "レッグガード": "レッグガード"
   },
   "191": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
+    "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
     "そで　羽　しっぽ": "そで　羽　しっぽ"
   },
   "193": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
+    "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
     "タイツ": "タイツ"
@@ -585,7 +585,7 @@
     "ギザギザ": "ギザギザ"
   },
   "196": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
+    "clarity_nt_char_196": "clarity_nt_char_196"
   },
   "197": {
     "ギザギザ上": "ギザギザ上"
@@ -600,7 +600,7 @@
     "センター": "センター"
   },
   "201": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
+    "clarity_nt_char_201": "clarity_nt_char_201"
   },
   "202": {
     "バッジ": "バッジ"
@@ -621,7 +621,7 @@
     "フロント": "フロント"
   },
   "208": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
+    "clarity_nt_char_208": "clarity_nt_char_208"
   },
   "209": {
     "ぼうし": "ぼうし"
@@ -630,7 +630,7 @@
     "ベルトのふち": "ベルトのふち"
   },
   "211": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
+    "clarity_nt_char_211": "clarity_nt_char_211"
   },
   "212": {
     "フリルとトップ": "フリルとトップ"
@@ -642,7 +642,7 @@
     "ゴーグルのバンド": "ゴーグルのバンド"
   },
   "215": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
+    "clarity_nt_char_215": "clarity_nt_char_215"
   },
   "216": {
     "羽かざり前": "羽かざり前"
@@ -654,7 +654,7 @@
     "バイザー": "バイザー"
   },
   "219": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
+    "clarity_nt_char_219": "clarity_nt_char_219"
   },
   "220": {
     "かぶと": "かぶと"
@@ -663,31 +663,31 @@
     "ねじり１": "ねじり１"
   },
   "222": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
+    "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "223": {
     "ねじり２": "ねじり２"
   },
   "224": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
+    "clarity_nt_char_224": "clarity_nt_char_224"
   },
   "225": {
     "みずたま": "みずたま"
   },
   "226": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
+    "clarity_nt_char_226": "clarity_nt_char_226"
   },
   "227": {
     "しまもよう１": "しまもよう１"
   },
   "228": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
+    "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "229": {
     "しまもよう２": "しまもよう２"
   },
   "230": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
+    "clarity_nt_char_230": "clarity_nt_char_230"
   },
   "231": {
     "フード": "フード"
@@ -696,7 +696,7 @@
     "ほほあて": "ほほあて"
   },
   "233": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
+    "clarity_nt_char_233": "clarity_nt_char_233"
   },
   "234": {
     "はおり": "はおり"
@@ -708,13 +708,13 @@
     "ストライプ１": "ストライプ１"
   },
   "237": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
+    "clarity_nt_char_237": "clarity_nt_char_237"
   },
   "238": {
     "ストライプ２": "ストライプ２"
   },
   "239": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
+    "clarity_nt_char_239": "clarity_nt_char_239"
   },
   "240": {
     "ハット": "ハット"
@@ -723,7 +723,7 @@
     "手足": "手足"
   },
   "242": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
+    "clarity_nt_char_242": "clarity_nt_char_242"
   },
   "243": {
     "ファー": "ファー"
@@ -735,19 +735,19 @@
     "ヘッドガード": "ヘッドガード"
   },
   "246": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
+    "clarity_nt_char_246": "clarity_nt_char_246"
   },
   "247": {
     "パッチワーク": "パッチワーク"
   },
   "248": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
+    "clarity_nt_char_248": "clarity_nt_char_248"
   },
   "249": {
     "ハンドカバー": "ハンドカバー"
   },
   "250": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
+    "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "251": {
     "フロントカバー": "フロントカバー"
@@ -765,13 +765,13 @@
     "玉１": "玉１"
   },
   "256": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
+    "clarity_nt_char_256": "clarity_nt_char_256"
   },
   "257": {
     "玉２": "玉２"
   },
   "258": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
+    "clarity_nt_char_258": "clarity_nt_char_258"
   },
   "259": {
     "レンズ": "レンズ"
@@ -780,19 +780,19 @@
     "すねあて": "すねあて"
   },
   "261": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
+    "clarity_nt_char_261": "clarity_nt_char_261"
   },
   "262": {
     "ハイソックス": "ハイソックス"
   },
   "263": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
+    "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "264": {
     "ソックス": "ソックス"
   },
   "265": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
+    "clarity_nt_char_265": "clarity_nt_char_265"
   },
   "266": {
     "ポーチ": "ポーチ"
@@ -801,13 +801,13 @@
     "くつひも": "くつひも"
   },
   "268": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
+    "clarity_nt_char_268": "clarity_nt_char_268"
   },
   "269": {
     "サンダル": "サンダル"
   },
   "270": {
-    "clarity_nt_char_97": "clarity_nt_char_97"
+    "clarity_nt_char_270": "clarity_nt_char_270"
   },
   "271": {
     "インサイド": "インサイド"
@@ -816,7 +816,7 @@
     "アウトサイド": "アウトサイド"
   },
   "273": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
+    "clarity_nt_char_273": "clarity_nt_char_273"
   },
   "274": {
     "長そで": "長そで"
@@ -825,7 +825,7 @@
     "そで": "そで"
   },
   "276": {
-    "clarity_nt_char_99": "clarity_nt_char_99"
+    "clarity_nt_char_276": "clarity_nt_char_276"
   },
   "277": {
     "ラインカラー１": "ラインカラー１"
@@ -837,19 +837,19 @@
     "サブカラー１": "サブカラー１"
   },
   "280": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
+    "clarity_nt_char_280": "clarity_nt_char_280"
   },
   "281": {
     "サブカラー２": "サブカラー２"
   },
   "282": {
-    "clarity_nt_char_101": "clarity_nt_char_101"
+    "clarity_nt_char_282": "clarity_nt_char_282"
   },
   "283": {
     "アウター": "アウター"
   },
   "284": {
-    "clarity_nt_char_102": "clarity_nt_char_102"
+    "clarity_nt_char_284": "clarity_nt_char_284"
   },
   "285": {
     "ウエストポーチ": "ウエストポーチ"
@@ -858,7 +858,7 @@
     "ツノ": "ツノ"
   },
   "287": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
+    "clarity_nt_char_287": "clarity_nt_char_287"
   },
   "288": {
     "ストライプ": "ストライプ"
@@ -867,7 +867,7 @@
     "こしだれ": "こしだれ"
   },
   "290": {
-    "clarity_nt_char_104": "clarity_nt_char_104"
+    "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "291": {
     "ウエストベルト": "ウエストベルト"
@@ -876,13 +876,13 @@
     "フリル１": "フリル１"
   },
   "293": {
-    "clarity_nt_char_105": "clarity_nt_char_105"
+    "clarity_nt_char_293": "clarity_nt_char_293"
   },
   "294": {
     "フリル２": "フリル２"
   },
   "295": {
-    "clarity_nt_char_106": "clarity_nt_char_106"
+    "clarity_nt_char_295": "clarity_nt_char_295"
   },
   "296": {
     "セパレート": "セパレート"
@@ -891,19 +891,19 @@
     "バックル": "バックル"
   },
   "298": {
-    "clarity_nt_char_107": "clarity_nt_char_107"
+    "clarity_nt_char_298": "clarity_nt_char_298"
   },
   "299": {
     "ショルダーガード": "ショルダーガード"
   },
   "300": {
-    "clarity_nt_char_108": "clarity_nt_char_108"
+    "clarity_nt_char_300": "clarity_nt_char_300"
   },
   "301": {
     "足袋": "足袋"
   },
   "302": {
-    "clarity_nt_char_109": "clarity_nt_char_109"
+    "clarity_nt_char_302": "clarity_nt_char_302"
   },
   "303": {
     "サポーター": "サポーター"
@@ -912,7 +912,7 @@
     "バングル": "バングル"
   },
   "305": {
-    "clarity_nt_char_110": "clarity_nt_char_110"
+    "clarity_nt_char_305": "clarity_nt_char_305"
   },
   "306": {
     "メット": "メット"
@@ -921,19 +921,19 @@
     "こしあて": "こしあて"
   },
   "308": {
-    "clarity_nt_char_111": "clarity_nt_char_111"
+    "clarity_nt_char_308": "clarity_nt_char_308"
   },
   "309": {
     "くちの中": "くちの中"
   },
   "310": {
-    "clarity_nt_char_112": "clarity_nt_char_112"
+    "clarity_nt_char_310": "clarity_nt_char_310"
   },
   "311": {
     "フリル下": "フリル下"
   },
   "312": {
-    "clarity_nt_char_113": "clarity_nt_char_113"
+    "clarity_nt_char_312": "clarity_nt_char_312"
   },
   "313": {
     "つま先": "つま先"
@@ -942,13 +942,13 @@
     "ひも": "ひも"
   },
   "315": {
-    "clarity_nt_char_114": "clarity_nt_char_114"
+    "clarity_nt_char_315": "clarity_nt_char_315"
   },
   "316": {
     "ポンポン": "ポンポン"
   },
   "317": {
-    "clarity_nt_char_115": "clarity_nt_char_115"
+    "clarity_nt_char_317": "clarity_nt_char_317"
   },
   "318": {
     "タキシード": "タキシード"
@@ -957,7 +957,7 @@
     "くつした": "くつした"
   },
   "320": {
-    "clarity_nt_char_116": "clarity_nt_char_116"
+    "clarity_nt_char_320": "clarity_nt_char_320"
   },
   "321": {
     "花びら": "花びら"
@@ -969,7 +969,7 @@
     "てっぺん": "てっぺん"
   },
   "324": {
-    "clarity_nt_char_117": "clarity_nt_char_117"
+    "clarity_nt_char_324": "clarity_nt_char_324"
   },
   "325": {
     "よろい": "よろい"
@@ -978,13 +978,13 @@
     "かたあて": "かたあて"
   },
   "327": {
-    "clarity_nt_char_118": "clarity_nt_char_118"
+    "clarity_nt_char_327": "clarity_nt_char_327"
   },
   "328": {
     "トランプのもよう": "トランプのもよう"
   },
   "329": {
-    "clarity_nt_char_119": "clarity_nt_char_119"
+    "clarity_nt_char_329": "clarity_nt_char_329"
   },
   "330": {
     "メタル部分": "メタル部分"
@@ -993,13 +993,13 @@
     "チェーン": "チェーン"
   },
   "332": {
-    "clarity_nt_char_120": "clarity_nt_char_120"
+    "clarity_nt_char_332": "clarity_nt_char_332"
   },
   "333": {
     "チャーム": "チャーム"
   },
   "334": {
-    "clarity_nt_char_121": "clarity_nt_char_121"
+    "clarity_nt_char_334": "clarity_nt_char_334"
   },
   "335": {
     "こしまわり": "こしまわり"
@@ -1008,13 +1008,13 @@
     "中央部分": "中央部分"
   },
   "337": {
-    "clarity_nt_char_122": "clarity_nt_char_122"
+    "clarity_nt_char_337": "clarity_nt_char_337"
   },
   "338": {
     "丸もよう": "丸もよう"
   },
   "339": {
-    "clarity_nt_char_123": "clarity_nt_char_123"
+    "clarity_nt_char_339": "clarity_nt_char_339"
   },
   "340": {
     "メイン中央": "メイン中央"
@@ -1032,7 +1032,7 @@
     "さや": "さや"
   },
   "345": {
-    "clarity_nt_char_124": "clarity_nt_char_124"
+    "clarity_nt_char_345": "clarity_nt_char_345"
   },
   "346": {
     "弦": "弦"
@@ -1041,19 +1041,19 @@
     "木の部分": "木の部分"
   },
   "348": {
-    "clarity_nt_char_125": "clarity_nt_char_125"
+    "clarity_nt_char_348": "clarity_nt_char_348"
   },
   "349": {
     "Ｖマーク": "Ｖマーク"
   },
   "350": {
-    "clarity_nt_char_126": "clarity_nt_char_126"
+    "clarity_nt_char_350": "clarity_nt_char_350"
   },
   "351": {
     "結晶の先っぽ": "結晶の先っぽ"
   },
   "352": {
-    "clarity_nt_char_127": "clarity_nt_char_127"
+    "clarity_nt_char_352": "clarity_nt_char_352"
   },
   "353": {
     "刃": "刃"
@@ -1062,31 +1062,31 @@
     "刃の中央": "刃の中央"
   },
   "355": {
-    "clarity_nt_char_128": "clarity_nt_char_128"
+    "clarity_nt_char_355": "clarity_nt_char_355"
   },
   "356": {
     "刃先": "刃先"
   },
   "357": {
-    "clarity_nt_char_129": "clarity_nt_char_129"
+    "clarity_nt_char_357": "clarity_nt_char_357"
   },
   "358": {
     "刀身": "刀身"
   },
   "359": {
-    "clarity_nt_char_130": "clarity_nt_char_130"
+    "clarity_nt_char_359": "clarity_nt_char_359"
   },
   "360": {
     "矢先": "矢先"
   },
   "361": {
-    "clarity_nt_char_131": "clarity_nt_char_131"
+    "clarity_nt_char_361": "clarity_nt_char_361"
   },
   "362": {
     "矢羽": "矢羽"
   },
   "363": {
-    "clarity_nt_char_132": "clarity_nt_char_132"
+    "clarity_nt_char_363": "clarity_nt_char_363"
   },
   "364": {
     "矢先と矢羽": "矢先と矢羽"
@@ -1101,13 +1101,13 @@
     "木目": "木目"
   },
   "368": {
-    "clarity_nt_char_133": "clarity_nt_char_133"
+    "clarity_nt_char_368": "clarity_nt_char_368"
   },
   "369": {
     "横面": "横面"
   },
   "370": {
-    "clarity_nt_char_134": "clarity_nt_char_134"
+    "clarity_nt_char_370": "clarity_nt_char_370"
   },
   "371": {
     "かんむりの一部": "かんむりの一部"
@@ -1122,7 +1122,7 @@
     "フォーク": "フォーク"
   },
   "375": {
-    "clarity_nt_char_135": "clarity_nt_char_135"
+    "clarity_nt_char_375": "clarity_nt_char_375"
   },
   "376": {
     "羽": "羽"
@@ -1134,25 +1134,25 @@
     "ゴードンのヘッド": "ゴードンのヘッド"
   },
   "379": {
-    "clarity_nt_char_136": "clarity_nt_char_136"
+    "clarity_nt_char_379": "clarity_nt_char_379"
   },
   "380": {
     "クリスタル１": "クリスタル１"
   },
   "381": {
-    "clarity_nt_char_137": "clarity_nt_char_137"
+    "clarity_nt_char_381": "clarity_nt_char_381"
   },
   "382": {
     "クリスタル２": "クリスタル２"
   },
   "383": {
-    "clarity_nt_char_138": "clarity_nt_char_138"
+    "clarity_nt_char_383": "clarity_nt_char_383"
   },
   "384": {
     "トゲ": "トゲ"
   },
   "385": {
-    "clarity_nt_char_139": "clarity_nt_char_139"
+    "clarity_nt_char_385": "clarity_nt_char_385"
   },
   "386": {
     "グラス": "グラス"
@@ -1161,13 +1161,13 @@
     "フレーム": "フレーム"
   },
   "388": {
-    "clarity_nt_char_140": "clarity_nt_char_140"
+    "clarity_nt_char_388": "clarity_nt_char_388"
   },
   "389": {
     "ヒゲ": "ヒゲ"
   },
   "390": {
-    "clarity_nt_char_141": "clarity_nt_char_141"
+    "clarity_nt_char_390": "clarity_nt_char_390"
   },
   "391": {
     "鈴": "鈴"
@@ -1176,7 +1176,7 @@
     "クリーム": "クリーム"
   },
   "393": {
-    "clarity_nt_char_142": "clarity_nt_char_142"
+    "clarity_nt_char_393": "clarity_nt_char_393"
   },
   "394": {
     "ボディ部分": "ボディ部分"
@@ -1191,7 +1191,7 @@
     "柄の先端": "柄の先端"
   },
   "398": {
-    "clarity_nt_char_143": "clarity_nt_char_143"
+    "clarity_nt_char_398": "clarity_nt_char_398"
   },
   "399": {
     "かざりひも": "かざりひも"
@@ -1200,19 +1200,19 @@
     "右側": "右側"
   },
   "401": {
-    "clarity_nt_char_144": "clarity_nt_char_144"
+    "clarity_nt_char_401": "clarity_nt_char_401"
   },
   "402": {
     "左側": "左側"
   },
   "403": {
-    "clarity_nt_char_145": "clarity_nt_char_145"
+    "clarity_nt_char_403": "clarity_nt_char_403"
   },
   "404": {
     "竜の紋様": "竜の紋様"
   },
   "405": {
-    "clarity_nt_char_146": "clarity_nt_char_146"
+    "clarity_nt_char_405": "clarity_nt_char_405"
   },
   "406": {
     "枝": "枝"
@@ -1221,13 +1221,13 @@
     "リボンなど１": "リボンなど１"
   },
   "408": {
-    "clarity_nt_char_147": "clarity_nt_char_147"
+    "clarity_nt_char_408": "clarity_nt_char_408"
   },
   "409": {
     "リボンなど２": "リボンなど２"
   },
   "410": {
-    "clarity_nt_char_148": "clarity_nt_char_148"
+    "clarity_nt_char_410": "clarity_nt_char_410"
   },
   "411": {
     "しまもよう": "しまもよう"
@@ -1236,19 +1236,19 @@
     "しまとハート": "しまとハート"
   },
   "413": {
-    "clarity_nt_char_149": "clarity_nt_char_149"
+    "clarity_nt_char_413": "clarity_nt_char_413"
   },
   "414": {
     "ふち": "ふち"
   },
   "415": {
-    "clarity_nt_char_150": "clarity_nt_char_150"
+    "clarity_nt_char_415": "clarity_nt_char_415"
   },
   "416": {
     "もようと着物": "もようと着物"
   },
   "417": {
-    "clarity_nt_char_151": "clarity_nt_char_151"
+    "clarity_nt_char_417": "clarity_nt_char_417"
   },
   "418": {
     "花もようとおび": "花もようとおび"
@@ -1263,19 +1263,19 @@
     "たてがみ": "たてがみ"
   },
   "422": {
-    "clarity_nt_char_152": "clarity_nt_char_152"
+    "clarity_nt_char_422": "clarity_nt_char_422"
   },
   "423": {
     "シール１": "シール１"
   },
   "424": {
-    "clarity_nt_char_153": "clarity_nt_char_153"
+    "clarity_nt_char_424": "clarity_nt_char_424"
   },
   "425": {
     "シール２": "シール２"
   },
   "426": {
-    "clarity_nt_char_154": "clarity_nt_char_154"
+    "clarity_nt_char_426": "clarity_nt_char_426"
   },
   "427": {
     "かばん": "かばん"
@@ -1284,7 +1284,7 @@
     "フレアー": "フレアー"
   },
   "429": {
-    "clarity_nt_char_155": "clarity_nt_char_155"
+    "clarity_nt_char_429": "clarity_nt_char_429"
   },
   "430": {
     "フレアー１": "フレアー１"
@@ -1296,7 +1296,7 @@
     "フレアーなど": "フレアーなど"
   },
   "433": {
-    "clarity_nt_char_156": "clarity_nt_char_156"
+    "clarity_nt_char_433": "clarity_nt_char_433"
   },
   "434": {
     "フレアー１など": "フレアー１など"
@@ -1308,37 +1308,37 @@
     "中央部分の皮": "中央部分の皮"
   },
   "437": {
-    "clarity_nt_char_157": "clarity_nt_char_157"
+    "clarity_nt_char_437": "clarity_nt_char_437"
   },
   "438": {
     "両端の皮": "両端の皮"
   },
   "439": {
-    "clarity_nt_char_158": "clarity_nt_char_158"
+    "clarity_nt_char_439": "clarity_nt_char_439"
   },
   "440": {
     "ナイト部分１": "ナイト部分１"
   },
   "441": {
-    "clarity_nt_char_159": "clarity_nt_char_159"
+    "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "442": {
     "ナイト部分２": "ナイト部分２"
   },
   "443": {
-    "clarity_nt_char_160": "clarity_nt_char_160"
+    "clarity_nt_char_443": "clarity_nt_char_443"
   },
   "444": {
     "ライン１": "ライン１"
   },
   "445": {
-    "clarity_nt_char_161": "clarity_nt_char_161"
+    "clarity_nt_char_445": "clarity_nt_char_445"
   },
   "446": {
     "ライン２": "ライン２"
   },
   "447": {
-    "clarity_nt_char_162": "clarity_nt_char_162"
+    "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "448": {
     "ネイル": "ネイル"
@@ -1347,7 +1347,7 @@
     "カラー①": "カラー①"
   },
   "450": {
-    "clarity_nt_char_163": "clarity_nt_char_163"
+    "clarity_nt_char_450": "clarity_nt_char_450"
   },
   "451": {
     "カラー②": "カラー②"

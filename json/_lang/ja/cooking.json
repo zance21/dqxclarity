@@ -3,7 +3,7 @@
     "このまま焼く": "このまま焼く"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "具材ムーブ": "具材ムーブ"
@@ -12,19 +12,19 @@
     "ななめムーブ": "ななめムーブ"
   },
   "5": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "6": {
     "たて返し": "たて返し"
   },
   "7": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "8": {
     "よこ返し": "よこ返し"
   },
   "9": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "ダブルたて返し": "ダブルたて返し"
@@ -36,7 +36,7 @@
     "トップターン": "トップターン"
   },
   "13": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "まぜあわせ": "まぜあわせ"
@@ -48,25 +48,25 @@
     "半熱封じ": "半熱封じ"
   },
   "17": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "18": {
     "完熱封じ": "完熱封じ"
   },
   "19": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_19": "clarity_nt_char_19"
   },
   "20": {
     "強火焼き": "強火焼き"
   },
   "21": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "22": {
     "弱火焼き": "弱火焼き"
   },
   "23": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_23": "clarity_nt_char_23"
   },
   "24": {
     "ミラクルグリル": "ミラクルグリル"
@@ -84,19 +84,19 @@
     "必殺率　小アップ": "必殺率　小アップ"
   },
   "29": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "30": {
     "会心焼き": "会心焼き"
   },
   "31": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_31": "clarity_nt_char_31"
   },
   "32": {
     "焼き戻し": "焼き戻し"
   },
   "33": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "34": {
     "具材を動かさずに|このまま焼く": "具材を動かさずに|このまま焼く"
@@ -105,7 +105,7 @@
     "上下左右のマスに|具材を移動する": "上下左右のマスに|具材を移動する"
   },
   "36": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "37": {
     "ななめのマスに|具材を移動する": "ななめのマスに|具材を移動する"
@@ -114,13 +114,13 @@
     "縦２マスにある|上下の具材を|入れ替える": "縦２マスにある|上下の具材を|入れ替える"
   },
   "39": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "40": {
     "横２マスにある|左右の具材を|入れ替える": "横２マスにある|左右の具材を|入れ替える"
   },
   "41": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "42": {
     "縦横２マスにある|上下の具材を|入れ替える": "縦横２マスにある|上下の具材を|入れ替える"
@@ -144,7 +144,7 @@
     "対象の具材を|４ターンの間|焼けなくなる": "対象の具材を|４ターンの間|焼けなくなる"
   },
   "49": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_49": "clarity_nt_char_49"
   },
   "50": {
     "全てのマスを|４ターンの間|強い火力で焼く": "全てのマスを|４ターンの間|強い火力で焼く"
@@ -153,31 +153,31 @@
     "全てのマスを|４ターンの間|半分の火力で焼く": "全てのマスを|４ターンの間|半分の火力で焼く"
   },
   "52": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "53": {
     "対象の具材を|食べごろ状態まで|焼きあげる！": "対象の具材を|食べごろ状態まで|焼きあげる！"
   },
   "54": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ"
   },
   "56": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "57": {
     "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ"
   },
   "58": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_58": "clarity_nt_char_58"
   },
   "59": {
     "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ"
   },
   "60": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
     "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "おぼえてるだけで|必殺の出る確率が|少しだけアップ"
@@ -192,7 +192,7 @@
     "まれに集中力回復": "まれに集中力回復"
   },
   "65": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "66": {
     "おぼえてるだけで|まれに集中力が|回復する": "おぼえてるだけで|まれに集中力が|回復する"

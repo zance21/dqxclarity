@@ -3,13 +3,13 @@
     "ランガーオエリア": "ランガーオエリア"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "グレンエリア": "グレンエリア"
   },
   "4": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "5": {
     "ガートラントエリア": "ガートラントエリア"
@@ -21,13 +21,13 @@
     "ガタラエリア": "ガタラエリア"
   },
   "8": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_8": "clarity_nt_char_8"
   },
   "9": {
     "ドルワームエリア": "ドルワームエリア"
   },
   "10": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "11": {
     "ツスクルエリア": "ツスクルエリア"
@@ -42,13 +42,13 @@
     "プクレットエリア": "プクレットエリア"
   },
   "15": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "16": {
     "オルフェアエリア": "オルフェアエリア"
   },
   "17": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "18": {
     "メギストリスエリア": "メギストリスエリア"
@@ -57,13 +57,13 @@
     "レーンエリア": "レーンエリア"
   },
   "20": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "21": {
     "ジュレットエリア": "ジュレットエリア"
   },
   "22": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "23": {
     "ヴェリナードエリア": "ヴェリナードエリア"
@@ -72,7 +72,7 @@
     "ラッカランエリア": "ラッカランエリア"
   },
   "25": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "26": {
     "レンドアエリア": "レンドアエリア"
@@ -87,7 +87,7 @@
     "<%sW_REP_MAX_2ND_F>ココラタエリア": "<%sW_REP_MAX_2ND_F>ココラタエリア"
   },
   "30": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
     "<%sW_REP_MAX_2ND_F>グランゼドーラエリア": "<%sW_REP_MAX_2ND_F>グランゼドーラエリア"
@@ -96,7 +96,7 @@
     "<%sW_REP_MAX_2ND_F>メルサンディエリア": "<%sW_REP_MAX_2ND_F>メルサンディエリア"
   },
   "33": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "34": {
     "<%sW_REP_MAX_2ND_F>セレドエリア": "<%sW_REP_MAX_2ND_F>セレドエリア"
@@ -105,19 +105,19 @@
     "<%sW_REP_MAX_2ND_F>アラハギーロエリア": "<%sW_REP_MAX_2ND_F>アラハギーロエリア"
   },
   "36": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "37": {
     "<%sW_REP_MAX_2ND_F>エテーネエリア": "<%sW_REP_MAX_2ND_F>エテーネエリア"
   },
   "38": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "39": {
     "<%sW_REP_MAX_2ND_R>ココラタエリア": "<%sW_REP_MAX_2ND_R>ココラタエリア"
   },
   "40": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "41": {
     "<%sW_REP_MAX_2ND_R>グランゼドーラエリア": "<%sW_REP_MAX_2ND_R>グランゼドーラエリア"
@@ -126,7 +126,7 @@
     "<%sW_REP_MAX_2ND_R>メルサンディエリア": "<%sW_REP_MAX_2ND_R>メルサンディエリア"
   },
   "43": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
     "<%sW_REP_MAX_2ND_R>セレドエリア": "<%sW_REP_MAX_2ND_R>セレドエリア"
@@ -135,13 +135,13 @@
     "<%sW_REP_MAX_2ND_R>アラハギーロエリア": "<%sW_REP_MAX_2ND_R>アラハギーロエリア"
   },
   "46": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "47": {
     "<%sW_REP_MAX_2ND_R>エテーネエリア": "<%sW_REP_MAX_2ND_R>エテーネエリア"
   },
   "48": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "49": {
     "炎の領界エリア": "炎の領界エリア"
@@ -177,7 +177,7 @@
     "マイタウンエリア": "マイタウンエリア"
   },
   "60": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
     "大エテーネ島エリア": "大エテーネ島エリア"
@@ -198,19 +198,19 @@
     "ネクロデアエリア": "ネクロデアエリア"
   },
   "67": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_67": "clarity_nt_char_67"
   },
   "68": {
     "ゴーラエリア": "ゴーラエリア"
   },
   "69": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
     "デスディオエリア": "デスディオエリア"
   },
   "71": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "狭間の世界エリア": "狭間の世界エリア"

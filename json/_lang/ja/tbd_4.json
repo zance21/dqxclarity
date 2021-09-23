@@ -6,13 +6,13 @@
     "上下打ち": "上下打ち"
   },
   "3": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "4": {
     "４連打ち": "４連打ち"
   },
   "5": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "6": {
     "超４連打ち": "超４連打ち"
@@ -24,19 +24,19 @@
     "てかげん打ち": "てかげん打ち"
   },
   "9": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "２倍打ち": "２倍打ち"
   },
   "11": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "12": {
     "３倍打ち": "３倍打ち"
   },
   "13": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "ねらい打ち": "ねらい打ち"
@@ -45,7 +45,7 @@
     "火力上げ": "火力上げ"
   },
   "16": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_16": "clarity_nt_char_16"
   },
   "17": {
     "冷やし込み": "冷やし込み"
@@ -69,7 +69,7 @@
     "必殺率　小アップ": "必殺率　小アップ"
   },
   "24": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
     "熱風おろし": "熱風おろし"
@@ -81,25 +81,25 @@
     "ふつうのチカラで|１マスをたたく": "ふつうのチカラで|１マスをたたく"
   },
   "28": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_28": "clarity_nt_char_28"
   },
   "29": {
     "チカラ強く|上下２マスを|たたく": "チカラ強く|上下２マスを|たたく"
   },
   "30": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
     "チカラ強く|２ｘ２マスを|たたく": "チカラ強く|２ｘ２マスを|たたく"
   },
   "32": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "33": {
     "２倍のチカラで|２ｘ２マスを|たたく": "２倍のチカラで|２ｘ２マスを|たたく"
   },
   "34": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "35": {
     "チカラ強く|ななめ２マスを|たたく": "チカラ強く|ななめ２マスを|たたく"
@@ -123,7 +123,7 @@
     "温度を３００度|下降させ地金を|変化しにくくする": "温度を３００度|下降させ地金を|変化しにくくする"
   },
   "42": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
     "ランダムに|４マスをたたく": "ランダムに|４マスをたたく"
@@ -132,25 +132,25 @@
     "次のひと打ちが|必ず会心になる|鍛冶神の炎！": "次のひと打ちが|必ず会心になる|鍛冶神の炎！"
   },
   "45": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_45": "clarity_nt_char_45"
   },
   "46": {
     "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.1％アップ"
   },
   "47": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_47": "clarity_nt_char_47"
   },
   "48": {
     "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.2％アップ"
   },
   "49": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_49": "clarity_nt_char_49"
   },
   "50": {
     "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ": "おぼえてるだけで|会心の出る確率が|常に 0.3％アップ"
   },
   "51": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
     "おぼえてるだけで|必殺の出る確率が|少しだけアップ": "おぼえてるだけで|必殺の出る確率が|少しだけアップ"
@@ -159,7 +159,7 @@
     "地金の温度を|１５０度下げて|打つ強力な一撃": "地金の温度を|１５０度下げて|打つ強力な一撃"
   },
   "54": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "チカラ強く|上下２マスを|高い会心率で叩く": "チカラ強く|上下２マスを|高い会心率で叩く"
@@ -168,7 +168,7 @@
     "まれに集中力回復": "まれに集中力回復"
   },
   "57": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_57": "clarity_nt_char_57"
   },
   "58": {
     "おぼえてるだけで|まれに集中力が|回復する": "おぼえてるだけで|まれに集中力が|回復する"

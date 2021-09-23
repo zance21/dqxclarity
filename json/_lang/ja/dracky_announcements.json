@@ -15,7 +15,7 @@
     "郵便箱に 何か届いています。": "郵便箱に 何か届いています。"
   },
   "6": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "7": {
     "郵便箱に 何か届きました。": "郵便箱に 何か届きました。"
@@ -27,7 +27,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eの家に 入れるようになりました！": "\\s<%sC_PC>\\m<%sC_ID>\\eの家に 入れるようになりました！"
   },
   "10": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "11": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eの 取り引きへの返事がありませんでした"
@@ -36,7 +36,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから さそいの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eから さそいの返事がありませんでした"
   },
   "13": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから フレンドの返事がありませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eから フレンドの返事がありませんでした"
@@ -51,7 +51,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 取り引きを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 取り引きを 断られました"
   },
   "18": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "19": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに　チームの参加を断られました"
@@ -60,25 +60,25 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間のさそいを 断られました"
   },
   "21": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_21": "clarity_nt_char_21"
   },
   "22": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間に加わった！"
   },
   "23": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_23": "clarity_nt_char_23"
   },
   "24": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間を抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間を抜けました"
   },
   "25": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "26": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティを 解散しました"
   },
   "27": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "28": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！": "\\s<%sC_PC>\\m<%sC_ID>\\eが チームに加わりました！"
@@ -96,7 +96,7 @@
     "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです": "<%dC_MONTH>月<%dC_DAY>日<%dC_H>時<%dC_M>分頃から メンテナンスです"
   },
   "33": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "34": {
     "<%nC_MONTH>月<%nC_DAY>日<%nC_H>時<%nC_M>分で プレイ期間が切れます！": "<%nC_MONTH>月<%nC_DAY>日<%nC_H>時<%nC_M>分で プレイ期間が切れます！"
@@ -108,13 +108,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間 仲間に加わった！"
   },
   "37": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_37": "clarity_nt_char_37"
   },
   "38": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%dC_H>時間<%dC_M>分 仲間に加わった！"
   },
   "39": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "40": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった！": "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった！"
@@ -123,7 +123,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_M>分のびました"
   },
   "42": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました"
@@ -135,7 +135,7 @@
     "仲間の約束の時間が 終わりました": "仲間の約束の時間が 終わりました"
   },
   "46": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "47": {
     "クエスト「<%sC_QUEST>」は 期限切れです": "クエスト「<%sC_QUEST>」は 期限切れです"
@@ -147,13 +147,13 @@
     "<%sC_GM_INPUT>": "<%sC_GM_INPUT>"
   },
   "50": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_50": "clarity_nt_char_50"
   },
   "51": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eと フレンドに なりました！": "\\s<%sC_PC>\\m<%sC_ID>\\eと フレンドに なりました！"
   },
   "52": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "53": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに フレンド登録を断られました"
@@ -174,19 +174,19 @@
     "その拡張コントローラでは 遊べません": "その拡張コントローラでは 遊べません"
   },
   "59": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "60": {
     "Ｗiiリモコンの電池が 切れそうです": "Ｗiiリモコンの電池が 切れそうです"
   },
   "61": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_61": "clarity_nt_char_61"
   },
   "62": {
     "Ｗiiリモコンの電池が 本当に切れそうです！": "Ｗiiリモコンの電池が 本当に切れそうです！"
   },
   "63": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "64": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 仲間のさそいを 取り消しました"
@@ -198,7 +198,7 @@
     "今から<%nC_H>時間<%nC_M>分間 元気タイムです！": "今から<%nC_H>時間<%nC_M>分間 元気タイムです！"
   },
   "67": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_67": "clarity_nt_char_67"
   },
   "68": {
     "元気タイム終了まで あと<%nC_M>分です！": "元気タイム終了まで あと<%nC_M>分です！"
@@ -210,7 +210,7 @@
     "あと<%nC_M>分で へろへろタイムです。": "あと<%nC_M>分で へろへろタイムです。"
   },
   "71": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "今週は もう へろへろタイムです。": "今週は もう へろへろタイムです。"
@@ -219,7 +219,7 @@
     "へろへろタイマーが リセットされました！": "へろへろタイマーが リセットされました！"
   },
   "74": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_74": "clarity_nt_char_74"
   },
   "75": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに チームのさそいが 届きませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eに チームのさそいが 届きませんでした"
@@ -231,31 +231,31 @@
     "チームリーダー交代の返事が ありませんでした": "チームリーダー交代の返事が ありませんでした"
   },
   "78": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "79": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに チームリーダー交代を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに チームリーダー交代を断られました"
   },
   "80": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "81": {
     "チームリーダーが \\s<%sC_PC>\\m<%sC_ID>\\eに代わりました": "チームリーダーが \\s<%sC_PC>\\m<%sC_ID>\\eに代わりました"
   },
   "82": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_82": "clarity_nt_char_82"
   },
   "83": {
     "チームリーダーの交代が できませんでした": "チームリーダーの交代が できませんでした"
   },
   "84": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "85": {
     "チームのスローガンが 更新されました": "チームのスローガンが 更新されました"
   },
   "86": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_86": "clarity_nt_char_86"
   },
   "87": {
     "受け取れなかった チームのさそいがあります": "受け取れなかった チームのさそいがあります"
@@ -270,7 +270,7 @@
     "返事がいっぱいで 受け取れなかったナビがあります": "返事がいっぱいで 受け取れなかったナビがあります"
   },
   "91": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
+    "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "92": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした": "\\s<%sC_PC>\\m<%sC_ID>\\eのフレンドリストが いっぱいでした"
@@ -279,19 +279,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 仲間への参加を 断られました"
   },
   "94": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
+    "clarity_nt_char_94": "clarity_nt_char_94"
   },
   "95": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間に 入れませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間に 入れませんでした"
   },
   "96": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
+    "clarity_nt_char_96": "clarity_nt_char_96"
   },
   "97": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eへの さそいが 取り消されました": "\\s<%sC_PC>\\m<%sC_ID>\\eへの さそいが 取り消されました"
   },
   "98": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
+    "clarity_nt_char_98": "clarity_nt_char_98"
   },
   "99": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 取り引きを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 取り引きを 取り消しました"
@@ -312,13 +312,13 @@
     "チームの参加に 失敗しました": "チームの参加に 失敗しました"
   },
   "105": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
+    "clarity_nt_char_105": "clarity_nt_char_105"
   },
   "106": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eと 取り引きが できませんでした"
   },
   "107": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
+    "clarity_nt_char_107": "clarity_nt_char_107"
   },
   "108": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません": "\\s<%sC_PC>\\m<%sC_ID>\\eは チーム参加済みで さそえません"
@@ -330,7 +330,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 取り引きをキャンセルしました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 取り引きをキャンセルしました"
   },
   "111": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
+    "clarity_nt_char_111": "clarity_nt_char_111"
   },
   "112": {
     "サポート仲間が 待機中になりました": "サポート仲間が 待機中になりました"
@@ -339,7 +339,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！": "\\s<%sC_PC>\\m<%sC_ID>\\e とのダブルすれちがいを 達成しました！"
   },
   "114": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
+    "clarity_nt_char_114": "clarity_nt_char_114"
   },
   "115": {
     "郵便箱に <%dC_NUM>件の 新しいお届け物があります": "郵便箱に <%dC_NUM>件の 新しいお届け物があります"
@@ -348,7 +348,7 @@
     "郵便箱に \\s<%sC_PC>\\m<%sC_ID>\\eから 何か届きました！": "郵便箱に \\s<%sC_PC>\\m<%sC_ID>\\eから 何か届きました！"
   },
   "117": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
+    "clarity_nt_char_117": "clarity_nt_char_117"
   },
   "118": {
     "<%sC_MERCENARY>との 契約終了まで あと<%dC_M>分です": "<%sC_MERCENARY>との 契約終了まで あと<%dC_M>分です"
@@ -357,7 +357,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが ログインしました": "\\s<%sC_PC>\\m<%sC_ID>\\eが ログインしました"
   },
   "120": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
+    "clarity_nt_char_120": "clarity_nt_char_120"
   },
   "121": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが フレンド申し込みを 取り消しました"
@@ -366,13 +366,13 @@
     "異常な入力を検知しました。１分後に強制終了します": "異常な入力を検知しました。１分後に強制終了します"
   },
   "123": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+    "clarity_nt_char_123": "clarity_nt_char_123"
   },
   "124": {
     "<%sC_MERCENARY>との 契約終了まで あと<%dC_H>時間です": "<%sC_MERCENARY>との 契約終了まで あと<%dC_H>時間です"
   },
   "125": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
+    "clarity_nt_char_125": "clarity_nt_char_125"
   },
   "126": {
     "<%sC_MERCENARY>との 契約が終了しました": "<%sC_MERCENARY>との 契約が終了しました"
@@ -381,25 +381,25 @@
     "仲間になるお返事を 出そうとしている人がいます！": "仲間になるお返事を 出そうとしている人がいます！"
   },
   "128": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
+    "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
     "なかまの目的が 変更されました！": "なかまの目的が 変更されました！"
   },
   "130": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
+    "clarity_nt_char_130": "clarity_nt_char_130"
   },
   "131": {
     "キッズタイム終了まで あと<%dC_M>分です！": "キッズタイム終了まで あと<%dC_M>分です！"
   },
   "132": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
+    "clarity_nt_char_132": "clarity_nt_char_132"
   },
   "133": {
     "時間切れの前に 「冒険を中断する」を選択してください": "時間切れの前に 「冒険を中断する」を選択してください"
   },
   "134": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
+    "clarity_nt_char_134": "clarity_nt_char_134"
   },
   "135": {
     "キッズタイム終了です。ご利用ありがとうございました": "キッズタイム終了です。ご利用ありがとうございました"
@@ -408,13 +408,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 魔法の迷宮に さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 魔法の迷宮に さそわれました！"
   },
   "137": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
+    "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "138": {
     "超元気タイムが 終わりました": "超元気タイムが 終わりました"
   },
   "139": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
+    "clarity_nt_char_139": "clarity_nt_char_139"
   },
   "140": {
     "無効になった フレンド申請があります。": "無効になった フレンド申請があります。"
@@ -429,7 +429,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから なかま検索で 招待されました！"
   },
   "144": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
+    "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eへの返事を しませんでした"
@@ -438,7 +438,7 @@
     "この階から 魔物が いなくなりました": "この階から 魔物が いなくなりました"
   },
   "147": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
+    "clarity_nt_char_147": "clarity_nt_char_147"
   },
   "148": {
     "仲間の返事を 受け取れませんでした": "仲間の返事を 受け取れませんでした"
@@ -450,7 +450,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの 仲間へのさそいを 断りました": "\\s<%sC_PC>\\m<%sC_ID>\\eからの 仲間へのさそいを 断りました"
   },
   "151": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
+    "clarity_nt_char_151": "clarity_nt_char_151"
   },
   "152": {
     "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました！": "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました！"
@@ -459,25 +459,25 @@
     "フレンドの お誘いが あります！": "フレンドの お誘いが あります！"
   },
   "154": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
+    "clarity_nt_char_154": "clarity_nt_char_154"
   },
   "155": {
     "この階には あと<%dC_N1>匹 残っています": "この階には あと<%dC_N1>匹 残っています"
   },
   "156": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
+    "clarity_nt_char_156": "clarity_nt_char_156"
   },
   "157": {
     "<%dC_N1>分以内に次の階への出口に触れないと外に出ます": "<%dC_N1>分以内に次の階への出口に触れないと外に出ます"
   },
   "158": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
+    "clarity_nt_char_158": "clarity_nt_char_158"
   },
   "159": {
     "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました……": "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました……"
   },
   "160": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
+    "clarity_nt_char_160": "clarity_nt_char_160"
   },
   "161": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_ITEM>を 捧げた": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_ITEM>を 捧げた"
@@ -486,7 +486,7 @@
     "<%sC_PC>の復帰を <%dC_NUM>分 待ちます": "<%sC_PC>の復帰を <%dC_NUM>分 待ちます"
   },
   "163": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
+    "clarity_nt_char_163": "clarity_nt_char_163"
   },
   "164": {
     "特訓スタンプが <%dC_N1>個 貯まりました！": "特訓スタンプが <%dC_N1>個 貯まりました！"
@@ -495,7 +495,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが 迷宮へのさそいを　取り消した"
   },
   "166": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
+    "clarity_nt_char_166": "clarity_nt_char_166"
   },
   "167": {
     "迷宮へのさそいが 時間切れになりました": "迷宮へのさそいが 時間切れになりました"
@@ -504,13 +504,13 @@
     "合流が遅れているプレイヤーを <%dC_NUM>分 待ちます": "合流が遅れているプレイヤーを <%dC_NUM>分 待ちます"
   },
   "169": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
+    "clarity_nt_char_169": "clarity_nt_char_169"
   },
   "170": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーに なりました！": "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーに なりました！"
   },
   "171": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
+    "clarity_nt_char_171": "clarity_nt_char_171"
   },
   "172": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーから はずれました": "\\s<%sC_PC>\\m<%sC_ID>\\eが サブリーダーから はずれました"
@@ -522,7 +522,7 @@
     "GamePadのバッテリーが もう切れそうです！": "GamePadのバッテリーが もう切れそうです！"
   },
   "175": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
+    "clarity_nt_char_175": "clarity_nt_char_175"
   },
   "176": {
     "GamePadの接続が 切れました": "GamePadの接続が 切れました"
@@ -531,7 +531,7 @@
     "PROコントローラーのバッテリーが 少なくなりました": "PROコントローラーのバッテリーが 少なくなりました"
   },
   "178": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
+    "clarity_nt_char_178": "clarity_nt_char_178"
   },
   "179": {
     "PROコントローラーのバッテリーが もう切れそうです！": "PROコントローラーのバッテリーが もう切れそうです！"
@@ -540,7 +540,7 @@
     "PROコントローラーの接続が 切れました": "PROコントローラーの接続が 切れました"
   },
   "181": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
+    "clarity_nt_char_181": "clarity_nt_char_181"
   },
   "182": {
     "未対応のコントローラーでは 遊べません": "未対応のコントローラーでは 遊べません"
@@ -549,13 +549,13 @@
     "特典アイテムを コンシェルジュから 受け取れます": "特典アイテムを コンシェルジュから 受け取れます"
   },
   "184": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
+    "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
     "開始まで 残り<%dC_N1>秒": "開始まで 残り<%dC_N1>秒"
   },
   "186": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
+    "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
     "よーい スタート！": "よーい スタート！"
@@ -567,7 +567,7 @@
     "そこまで 終了！": "そこまで 終了！"
   },
   "190": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
+    "clarity_nt_char_190": "clarity_nt_char_190"
   },
   "191": {
     "チームクエスト『<%sC_QUEST>』達成！": "チームクエスト『<%sC_QUEST>』達成！"
@@ -576,13 +576,13 @@
     "<%sC_QUEST>クエストの 報告完了です!": "<%sC_QUEST>クエストの 報告完了です!"
   },
   "193": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
+    "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
     "おめでとうございます! チームレベルが <%dC_N1>になりました": "おめでとうございます! チームレベルが <%dC_N1>になりました"
   },
   "195": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
+    "clarity_nt_char_195": "clarity_nt_char_195"
   },
   "196": {
     "サポートスタッフから 返信がありました": "サポートスタッフから 返信がありました"
@@ -597,7 +597,7 @@
     "サブリーダーに なりました！": "サブリーダーに なりました！"
   },
   "200": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
+    "clarity_nt_char_200": "clarity_nt_char_200"
   },
   "201": {
     "サブリーダーから はずれました": "サブリーダーから はずれました"
@@ -606,7 +606,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから チャットルームに 招待されました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから チャットルームに 招待されました！"
   },
   "203": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
+    "clarity_nt_char_203": "clarity_nt_char_203"
   },
   "204": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに チャットルームの招待を断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに チャットルームの招待を断られました"
@@ -618,7 +618,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームに参加しました！": "\\s<%sC_PC>\\m<%sC_ID>\\eが \\s<%sC_PC2>\\m<%sC_ID2>\\eのルームに参加しました！"
   },
   "207": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
+    "clarity_nt_char_207": "clarity_nt_char_207"
   },
   "208": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが チャットルームを 解散しました"
@@ -633,13 +633,13 @@
     "招待者不在のため \\s<%sC_PC>\\m<%sC_ID>\\eのルームを 抜けました": "招待者不在のため \\s<%sC_PC>\\m<%sC_ID>\\eのルームを 抜けました"
   },
   "212": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
+    "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "213": {
     "『<%sC_TEAM>』に 入隊希望が 断られました": "『<%sC_TEAM>』に 入隊希望が 断られました"
   },
   "214": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
+    "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "215": {
     "チームへの 入隊希望が あります！": "チームへの 入隊希望が あります！"
@@ -648,7 +648,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 依頼書クエストに さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 依頼書クエストに さそわれました！"
   },
   "217": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
+    "clarity_nt_char_217": "clarity_nt_char_217"
   },
   "218": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eの ルームに参加しました！": "\\s<%sC_PC>\\m<%sC_ID>\\eの ルームに参加しました！"
@@ -669,25 +669,25 @@
     "パーティ同盟のさそいが 取り消されました": "パーティ同盟のさそいが 取り消されました"
   },
   "224": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
+    "clarity_nt_char_224": "clarity_nt_char_224"
   },
   "225": {
     "パーティ同盟のさそいが 時間切れになりました": "パーティ同盟のさそいが 時間切れになりました"
   },
   "226": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
+    "clarity_nt_char_226": "clarity_nt_char_226"
   },
   "227": {
     "パーティリーダーが いなくなりました": "パーティリーダーが いなくなりました"
   },
   "228": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
+    "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "229": {
     "闇の溢る世界から 外に出ます": "闇の溢る世界から 外に出ます"
   },
   "230": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
+    "clarity_nt_char_230": "clarity_nt_char_230"
   },
   "231": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eのパーティが そろいました": "\\s<%sC_PC>\\m<%sC_ID>\\eのパーティが そろいました"
@@ -696,31 +696,31 @@
     "依頼書クエストに さそわれています！": "依頼書クエストに さそわれています！"
   },
   "233": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
+    "clarity_nt_char_233": "clarity_nt_char_233"
   },
   "234": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 錬金の依頼を 申し込まれました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 錬金の依頼を 申し込まれました"
   },
   "235": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
+    "clarity_nt_char_235": "clarity_nt_char_235"
   },
   "236": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 錬金の依頼を 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 錬金の依頼を 取り消しました"
   },
   "237": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
+    "clarity_nt_char_237": "clarity_nt_char_237"
   },
   "238": {
     "ゲームパッドの接続が 切れました": "ゲームパッドの接続が 切れました"
   },
   "239": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
+    "clarity_nt_char_239": "clarity_nt_char_239"
   },
   "240": {
     "ドルボードの燃料が 切れました。": "ドルボードの燃料が 切れました。"
   },
   "241": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
+    "clarity_nt_char_241": "clarity_nt_char_241"
   },
   "242": {
     "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました………": "<%sC_MONSTER> <%dC_N1>匹討伐 達成しました………"
@@ -729,19 +729,19 @@
     "<%sC_QUEST>クエストを キャンセルしました": "<%sC_QUEST>クエストを キャンセルしました"
   },
   "244": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
+    "clarity_nt_char_244": "clarity_nt_char_244"
   },
   "245": {
     "コラーッ! 水着以外を着用して 海に入っては いかーん!": "コラーッ! 水着以外を着用して 海に入っては いかーん!"
   },
   "246": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
+    "clarity_nt_char_246": "clarity_nt_char_246"
   },
   "247": {
     "コラーッ！ 海開き前に 海に入っては いかーん！": "コラーッ！ 海開き前に 海に入っては いかーん！"
   },
   "248": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
+    "clarity_nt_char_248": "clarity_nt_char_248"
   },
   "249": {
     "新しい お宝が 流れてきたぞーっ！": "新しい お宝が 流れてきたぞーっ！"
@@ -750,19 +750,19 @@
     "お宝が 半分くらいに 減ってきたぞーっ！": "お宝が 半分くらいに 減ってきたぞーっ！"
   },
   "251": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
+    "clarity_nt_char_251": "clarity_nt_char_251"
   },
   "252": {
     "すべての お宝が なくなったぞーっ！": "すべての お宝が なくなったぞーっ！"
   },
   "253": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
+    "clarity_nt_char_253": "clarity_nt_char_253"
   },
   "254": {
     "あと<%dC_N1>日で 期限が切れる 運命のカードがあります！": "あと<%dC_N1>日で 期限が切れる 運命のカードがあります！"
   },
   "255": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
+    "clarity_nt_char_255": "clarity_nt_char_255"
   },
   "256": {
     "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！": "あと<%dC_N1>時間で 期限が切れる 運命のカードがあります！"
@@ -771,7 +771,7 @@
     "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！": "あと<%dC_N1>分で 期限が切れる 運命のカードがあります！"
   },
   "258": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
+    "clarity_nt_char_258": "clarity_nt_char_258"
   },
   "259": {
     "<%sC_ITEM>の期限が切れました": "<%sC_ITEM>の期限が切れました"
@@ -780,19 +780,19 @@
     "マップが消滅したため 外に出ます": "マップが消滅したため 外に出ます"
   },
   "261": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
+    "clarity_nt_char_261": "clarity_nt_char_261"
   },
   "262": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの 入隊希望が 取り消されました": "\\s<%sC_PC>\\m<%sC_ID>\\eからの 入隊希望が 取り消されました"
   },
   "263": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
+    "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "264": {
     "このマップは バトル開始から<%dC_M>分で消滅します": "このマップは バトル開始から<%dC_M>分で消滅します"
   },
   "265": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
+    "clarity_nt_char_265": "clarity_nt_char_265"
   },
   "266": {
     "ブラックリスト登録者が 同じテーブルに参加しました": "ブラックリスト登録者が 同じテーブルに参加しました"
@@ -801,13 +801,13 @@
     "カジノホールで ジャックポットが出ました！！": "カジノホールで ジャックポットが出ました！！"
   },
   "268": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
+    "clarity_nt_char_268": "clarity_nt_char_268"
   },
   "269": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの チームのさそいが取り消されました": "\\s<%sC_PC>\\m<%sC_ID>\\eからの チームのさそいが取り消されました"
   },
   "270": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
+    "clarity_nt_char_270": "clarity_nt_char_270"
   },
   "271": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を許可しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を許可しました"
@@ -816,7 +816,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を断りました": "\\s<%sC_PC>\\m<%sC_ID>\\eが  \\s<%sC_PC2>\\m<%sC_ID2>\\eの入隊を断りました"
   },
   "273": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
+    "clarity_nt_char_273": "clarity_nt_char_273"
   },
   "274": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 参加人数の上限で 入れませんでした": "\\s<%sC_PC>\\m<%sC_ID>\\eが 参加人数の上限で 入れませんでした"
@@ -831,7 +831,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから コロシアムに さそわれました！"
   },
   "278": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
+    "clarity_nt_char_278": "clarity_nt_char_278"
   },
   "279": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから対戦相手に指定されました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから対戦相手に指定されました！"
@@ -843,13 +843,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました": "\\s<%sC_PC>\\m<%sC_ID>\\eからの コロシアムのさそいを 断りました"
   },
   "282": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
+    "clarity_nt_char_282": "clarity_nt_char_282"
   },
   "283": {
     "対戦相手指定を断りました": "対戦相手指定を断りました"
   },
   "284": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
+    "clarity_nt_char_284": "clarity_nt_char_284"
   },
   "285": {
     "対戦の申し込みが 断られました": "対戦の申し込みが 断られました"
@@ -867,7 +867,7 @@
     "対戦のさそいが　時間切れになりました": "対戦のさそいが　時間切れになりました"
   },
   "290": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
+    "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "291": {
     "コロシアムに 行けませんでした": "コロシアムに 行けませんでした"
@@ -876,13 +876,13 @@
     "コロシアムの参加エントリーが 解除されました": "コロシアムの参加エントリーが 解除されました"
   },
   "293": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
+    "clarity_nt_char_293": "clarity_nt_char_293"
   },
   "294": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから チームに さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから チームに さそわれました！"
   },
   "295": {
-    "clarity_nt_char_97": "clarity_nt_char_97"
+    "clarity_nt_char_295": "clarity_nt_char_295"
   },
   "296": {
     "『<%sC_TEAM>』への入隊希望は期限切れです": "『<%sC_TEAM>』への入隊希望は期限切れです"
@@ -894,7 +894,7 @@
     "このゲームもベットしない場合 この席から離れます": "このゲームもベットしない場合 この席から離れます"
   },
   "299": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
+    "clarity_nt_char_299": "clarity_nt_char_299"
   },
   "300": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 同盟相手に さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 同盟相手に さそわれました！"
@@ -903,7 +903,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティ同盟のさそいを取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが パーティ同盟のさそいを取り消しました"
   },
   "302": {
-    "clarity_nt_char_99": "clarity_nt_char_99"
+    "clarity_nt_char_302": "clarity_nt_char_302"
   },
   "303": {
     "パーティ同盟のさそいを 断りました": "パーティ同盟のさそいを 断りました"
@@ -921,7 +921,7 @@
     "仲間モンスターが 待機中になりました": "仲間モンスターが 待機中になりました"
   },
   "308": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
+    "clarity_nt_char_308": "clarity_nt_char_308"
   },
   "309": {
     "サポート仲間と仲間モンスターが 待機中になりました": "サポート仲間と仲間モンスターが 待機中になりました"
@@ -930,7 +930,7 @@
     "まもなく スカウト中のモンスターが 去ります": "まもなく スカウト中のモンスターが 去ります"
   },
   "311": {
-    "clarity_nt_char_101": "clarity_nt_char_101"
+    "clarity_nt_char_311": "clarity_nt_char_311"
   },
   "312": {
     "パーティリーダー不在のため 戦闘を中断しました": "パーティリーダー不在のため 戦闘を中断しました"
@@ -939,13 +939,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eとの ふしぎなすれちがいを達成！": "\\s<%sC_PC>\\m<%sC_ID>\\eとの ふしぎなすれちがいを達成！"
   },
   "314": {
-    "clarity_nt_char_102": "clarity_nt_char_102"
+    "clarity_nt_char_314": "clarity_nt_char_314"
   },
   "315": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが あなたと ふしぎなすれちがいを達成！": "\\s<%sC_PC>\\m<%sC_ID>\\eが あなたと ふしぎなすれちがいを達成！"
   },
   "316": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
+    "clarity_nt_char_316": "clarity_nt_char_316"
   },
   "317": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！": "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！"
@@ -954,7 +954,7 @@
     "<%sC_MONSTER>との戦いにさそわれました！": "<%sC_MONSTER>との戦いにさそわれました！"
   },
   "319": {
-    "clarity_nt_char_104": "clarity_nt_char_104"
+    "clarity_nt_char_319": "clarity_nt_char_319"
   },
   "320": {
     "強モードボスとの戦いの誘いが 時間切れになりました": "強モードボスとの戦いの誘いが 時間切れになりました"
@@ -975,7 +975,7 @@
     "参加者に不正を検知したため 元のマップに戻ります": "参加者に不正を検知したため 元のマップに戻ります"
   },
   "326": {
-    "clarity_nt_char_105": "clarity_nt_char_105"
+    "clarity_nt_char_326": "clarity_nt_char_326"
   },
   "327": {
     "釣りチャレンジ スタート！": "釣りチャレンジ スタート！"
@@ -984,7 +984,7 @@
     "郵便箱がいっぱいです 郵便を受けとってください！": "郵便箱がいっぱいです 郵便を受けとってください！"
   },
   "329": {
-    "clarity_nt_char_106": "clarity_nt_char_106"
+    "clarity_nt_char_329": "clarity_nt_char_329"
   },
   "330": {
     "釣りチャレンジを 中断しました": "釣りチャレンジを 中断しました"
@@ -993,13 +993,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!"
   },
   "332": {
-    "clarity_nt_char_107": "clarity_nt_char_107"
+    "clarity_nt_char_332": "clarity_nt_char_332"
   },
   "333": {
     "スッパ党との戦いへの誘いが 時間切れになりました": "スッパ党との戦いへの誘いが 時間切れになりました"
   },
   "334": {
-    "clarity_nt_char_108": "clarity_nt_char_108"
+    "clarity_nt_char_334": "clarity_nt_char_334"
   },
   "335": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが スッパ党との戦いの誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが スッパ党との戦いの誘いを取り消した"
@@ -1008,31 +1008,31 @@
     "あと<%dC_S>秒 開始しない場合 この席から離れます": "あと<%dC_S>秒 開始しない場合 この席から離れます"
   },
   "337": {
-    "clarity_nt_char_109": "clarity_nt_char_109"
+    "clarity_nt_char_337": "clarity_nt_char_337"
   },
   "338": {
     "試練の門のボスとの戦いの誘いが 時間切れになりました": "試練の門のボスとの戦いの誘いが 時間切れになりました"
   },
   "339": {
-    "clarity_nt_char_110": "clarity_nt_char_110"
+    "clarity_nt_char_339": "clarity_nt_char_339"
   },
   "340": {
     "試練の門のボスとの戦いの誘いが 取り消されました": "試練の門のボスとの戦いの誘いが 取り消されました"
   },
   "341": {
-    "clarity_nt_char_111": "clarity_nt_char_111"
+    "clarity_nt_char_341": "clarity_nt_char_341"
   },
   "342": {
     "ふしぎな小箱が 使えるようになっています": "ふしぎな小箱が 使えるようになっています"
   },
   "343": {
-    "clarity_nt_char_112": "clarity_nt_char_112"
+    "clarity_nt_char_343": "clarity_nt_char_343"
   },
   "344": {
     "あと<%dC_N1>時間で 期限が切れる 緊急依頼書があります！": "あと<%dC_N1>時間で 期限が切れる 緊急依頼書があります！"
   },
   "345": {
-    "clarity_nt_char_113": "clarity_nt_char_113"
+    "clarity_nt_char_345": "clarity_nt_char_345"
   },
   "346": {
     "あと<%dC_N1>分で 期限が切れる 緊急依頼書があります！": "あと<%dC_N1>分で 期限が切れる 緊急依頼書があります！"
@@ -1047,13 +1047,13 @@
     "とある冒険者が あなたと ふしぎなすれちがいを達成！": "とある冒険者が あなたと ふしぎなすれちがいを達成！"
   },
   "350": {
-    "clarity_nt_char_114": "clarity_nt_char_114"
+    "clarity_nt_char_350": "clarity_nt_char_350"
   },
   "351": {
     "とある冒険者により ふしぎなすれちがいを達成！　": "とある冒険者により ふしぎなすれちがいを達成！　"
   },
   "352": {
-    "clarity_nt_char_115": "clarity_nt_char_115"
+    "clarity_nt_char_352": "clarity_nt_char_352"
   },
   "353": {
     "あと<%dC_N1>分で 始まります！": "あと<%dC_N1>分で 始まります！"
@@ -1062,19 +1062,19 @@
     "今から 知の祝祭の会場に移動します！": "今から 知の祝祭の会場に移動します！"
   },
   "355": {
-    "clarity_nt_char_116": "clarity_nt_char_116"
+    "clarity_nt_char_355": "clarity_nt_char_355"
   },
   "356": {
     "第<%dC_N1>問 開始！": "第<%dC_N1>問 開始！"
   },
   "357": {
-    "clarity_nt_char_117": "clarity_nt_char_117"
+    "clarity_nt_char_357": "clarity_nt_char_357"
   },
   "358": {
     "そこまで！ 第<%dC_N1>問 終了！": "そこまで！ 第<%dC_N1>問 終了！"
   },
   "359": {
-    "clarity_nt_char_118": "clarity_nt_char_118"
+    "clarity_nt_char_359": "clarity_nt_char_359"
   },
   "360": {
     "正解です！": "正解です！"
@@ -1083,19 +1083,19 @@
     "不正解です！": "不正解です！"
   },
   "362": {
-    "clarity_nt_char_119": "clarity_nt_char_119"
+    "clarity_nt_char_362": "clarity_nt_char_362"
   },
   "363": {
     "次に進むまで しばらくお待ちください": "次に進むまで しばらくお待ちください"
   },
   "364": {
-    "clarity_nt_char_120": "clarity_nt_char_120"
+    "clarity_nt_char_364": "clarity_nt_char_364"
   },
   "365": {
     "残り%d秒！": "残り%d秒！"
   },
   "366": {
-    "clarity_nt_char_121": "clarity_nt_char_121"
+    "clarity_nt_char_366": "clarity_nt_char_366"
   },
   "367": {
     "タイムアップ！": "タイムアップ！"
@@ -1113,7 +1113,7 @@
     "モーモンバザーの商品が 売れました！": "モーモンバザーの商品が 売れました！"
   },
   "372": {
-    "clarity_nt_char_122": "clarity_nt_char_122"
+    "clarity_nt_char_372": "clarity_nt_char_372"
   },
   "373": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから クイズバトルに さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから クイズバトルに さそわれました！"
@@ -1125,7 +1125,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが クイズバトルへのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが クイズバトルへのさそいを　取り消した"
   },
   "376": {
-    "clarity_nt_char_123": "clarity_nt_char_123"
+    "clarity_nt_char_376": "clarity_nt_char_376"
   },
   "377": {
     "他のプレイヤーを待っています 約1分お待ちください": "他のプレイヤーを待っています 約1分お待ちください"
@@ -1134,25 +1134,25 @@
     "参加者がそろわなかったため 元のマップに戻ります": "参加者がそろわなかったため 元のマップに戻ります"
   },
   "379": {
-    "clarity_nt_char_124": "clarity_nt_char_124"
+    "clarity_nt_char_379": "clarity_nt_char_379"
   },
   "380": {
     "オーグリード大陸カードの クエストを すべてクリア！": "オーグリード大陸カードの クエストを すべてクリア！"
   },
   "381": {
-    "clarity_nt_char_125": "clarity_nt_char_125"
+    "clarity_nt_char_381": "clarity_nt_char_381"
   },
   "382": {
     "ドワチャッカ大陸カードの クエストを すべてクリア！": "ドワチャッカ大陸カードの クエストを すべてクリア！"
   },
   "383": {
-    "clarity_nt_char_126": "clarity_nt_char_126"
+    "clarity_nt_char_383": "clarity_nt_char_383"
   },
   "384": {
     "エルトナ大陸カードの クエストを すべてクリア！": "エルトナ大陸カードの クエストを すべてクリア！"
   },
   "385": {
-    "clarity_nt_char_127": "clarity_nt_char_127"
+    "clarity_nt_char_385": "clarity_nt_char_385"
   },
   "386": {
     "ウェナ諸島カードの クエストを すべてクリア！": "ウェナ諸島カードの クエストを すべてクリア！"
@@ -1164,7 +1164,7 @@
     "レンダーシアカードの クエストを すべてクリア！": "レンダーシアカードの クエストを すべてクリア！"
   },
   "389": {
-    "clarity_nt_char_128": "clarity_nt_char_128"
+    "clarity_nt_char_389": "clarity_nt_char_389"
   },
   "390": {
     "レンダーシアⅡカードの クエストを すべてクリア！": "レンダーシアⅡカードの クエストを すべてクリア！"
@@ -1176,31 +1176,31 @@
     "練習問題 開始！": "練習問題 開始！"
   },
   "393": {
-    "clarity_nt_char_129": "clarity_nt_char_129"
+    "clarity_nt_char_393": "clarity_nt_char_393"
   },
   "394": {
     "そこまで！ 練習問題 終了！": "そこまで！ 練習問題 終了！"
   },
   "395": {
-    "clarity_nt_char_130": "clarity_nt_char_130"
+    "clarity_nt_char_395": "clarity_nt_char_395"
   },
   "396": {
     "最終問題 開始！": "最終問題 開始！"
   },
   "397": {
-    "clarity_nt_char_131": "clarity_nt_char_131"
+    "clarity_nt_char_397": "clarity_nt_char_397"
   },
   "398": {
     "そこまで！ 最終問題 終了！": "そこまで！ 最終問題 終了！"
   },
   "399": {
-    "clarity_nt_char_132": "clarity_nt_char_132"
+    "clarity_nt_char_399": "clarity_nt_char_399"
   },
   "400": {
     "のこり 約10秒です": "のこり 約10秒です"
   },
   "401": {
-    "clarity_nt_char_133": "clarity_nt_char_133"
+    "clarity_nt_char_401": "clarity_nt_char_401"
   },
   "402": {
     "パーティ同盟の相手が いなくなりました": "パーティ同盟の相手が いなくなりました"
@@ -1218,7 +1218,7 @@
     "知の祝祭への招待券を お持ちの上 お越しください": "知の祝祭への招待券を お持ちの上 お越しください"
   },
   "407": {
-    "clarity_nt_char_134": "clarity_nt_char_134"
+    "clarity_nt_char_407": "clarity_nt_char_407"
   },
   "408": {
     "エリア移動に時間がかかっております": "エリア移動に時間がかかっております"
@@ -1230,7 +1230,7 @@
     "！！！！！！との戦いに誘われました！": "！！！！！！との戦いに誘われました！"
   },
   "411": {
-    "clarity_nt_char_135": "clarity_nt_char_135"
+    "clarity_nt_char_411": "clarity_nt_char_411"
   },
   "412": {
     "<%sC_STR1>御一行様 <%sC_STR2>獲得で～す！": "<%sC_STR1>御一行様 <%sC_STR2>獲得で～す！"
@@ -1245,7 +1245,7 @@
     "残り時間が 30秒を切りました！": "残り時間が 30秒を切りました！"
   },
   "416": {
-    "clarity_nt_char_136": "clarity_nt_char_136"
+    "clarity_nt_char_416": "clarity_nt_char_416"
   },
   "417": {
     "参加者が変更されたため 元の場所に戻ります": "参加者が変更されたため 元の場所に戻ります"
@@ -1254,7 +1254,7 @@
     "錬金釜での錬金が 完了しました！": "錬金釜での錬金が 完了しました！"
   },
   "419": {
-    "clarity_nt_char_137": "clarity_nt_char_137"
+    "clarity_nt_char_419": "clarity_nt_char_419"
   },
   "420": {
     "錬金釜が元気になりました！": "錬金釜が元気になりました！"
@@ -1266,7 +1266,7 @@
     "制限時間内に 脱出してください！": "制限時間内に 脱出してください！"
   },
   "423": {
-    "clarity_nt_char_138": "clarity_nt_char_138"
+    "clarity_nt_char_423": "clarity_nt_char_423"
   },
   "424": {
     "あと15分で 知の祝祭を開催します": "あと15分で 知の祝祭を開催します"
@@ -1281,31 +1281,31 @@
     "錬金釜は あと2人になでてもらうと 元気になります!": "錬金釜は あと2人になでてもらうと 元気になります!"
   },
   "428": {
-    "clarity_nt_char_139": "clarity_nt_char_139"
+    "clarity_nt_char_428": "clarity_nt_char_428"
   },
   "429": {
     "錬金釜は あと1人になでてもらうと 元気になります!": "錬金釜は あと1人になでてもらうと 元気になります!"
   },
   "430": {
-    "clarity_nt_char_140": "clarity_nt_char_140"
+    "clarity_nt_char_430": "clarity_nt_char_430"
   },
   "431": {
     "錬金釜は 次の錬金から 元気いっぱいになります!": "錬金釜は 次の錬金から 元気いっぱいになります!"
   },
   "432": {
-    "clarity_nt_char_141": "clarity_nt_char_141"
+    "clarity_nt_char_432": "clarity_nt_char_432"
   },
   "433": {
     "達人のオーブが へろへろ状態から かいふくしました！": "達人のオーブが へろへろ状態から かいふくしました！"
   },
   "434": {
-    "clarity_nt_char_142": "clarity_nt_char_142"
+    "clarity_nt_char_434": "clarity_nt_char_434"
   },
   "435": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに バトルロードのさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに バトルロードのさそいを 断られました"
   },
   "436": {
-    "clarity_nt_char_143": "clarity_nt_char_143"
+    "clarity_nt_char_436": "clarity_nt_char_436"
   },
   "437": {
     "バトルロードのさそいを 断りました": "バトルロードのさそいを 断りました"
@@ -1314,19 +1314,19 @@
     "バトルロードのさそいが 取り消されました": "バトルロードのさそいが 取り消されました"
   },
   "439": {
-    "clarity_nt_char_144": "clarity_nt_char_144"
+    "clarity_nt_char_439": "clarity_nt_char_439"
   },
   "440": {
     "バトルロードのさそいが 時間切れになりました": "バトルロードのさそいが 時間切れになりました"
   },
   "441": {
-    "clarity_nt_char_145": "clarity_nt_char_145"
+    "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "442": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_MAP>へ降りました。": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_MAP>へ降りました。"
   },
   "443": {
-    "clarity_nt_char_146": "clarity_nt_char_146"
+    "clarity_nt_char_443": "clarity_nt_char_443"
   },
   "444": {
     "不思議の魔塔の攻略に さそわれました！": "不思議の魔塔の攻略に さそわれました！"
@@ -1341,7 +1341,7 @@
     "バトルの準備に失敗したため 元のマップに戻ります": "バトルの準備に失敗したため 元のマップに戻ります"
   },
   "448": {
-    "clarity_nt_char_147": "clarity_nt_char_147"
+    "clarity_nt_char_448": "clarity_nt_char_448"
   },
   "449": {
     "達人クエストを 達成しました！": "達人クエストを 達成しました！"
@@ -1362,19 +1362,19 @@
     "水着以外を着て 水の中に入ることは できません!": "水着以外を着て 水の中に入ることは できません!"
   },
   "455": {
-    "clarity_nt_char_148": "clarity_nt_char_148"
+    "clarity_nt_char_455": "clarity_nt_char_455"
   },
   "456": {
     "お越しください（今回は お試し開催です）": "お越しください（今回は お試し開催です）"
   },
   "457": {
-    "clarity_nt_char_149": "clarity_nt_char_149"
+    "clarity_nt_char_457": "clarity_nt_char_457"
   },
   "458": {
     "旅のコンシェルジュに ストーリー報酬が送られています": "旅のコンシェルジュに ストーリー報酬が送られています"
   },
   "459": {
-    "clarity_nt_char_150": "clarity_nt_char_150"
+    "clarity_nt_char_459": "clarity_nt_char_459"
   },
   "460": {
     "旅のコンシェルジュに ストーリー報酬が送られました": "旅のコンシェルジュに ストーリー報酬が送られました"
@@ -1383,25 +1383,25 @@
     "すごろくに さそわれました！": "すごろくに さそわれました！"
   },
   "462": {
-    "clarity_nt_char_151": "clarity_nt_char_151"
+    "clarity_nt_char_462": "clarity_nt_char_462"
   },
   "463": {
     "すごろくのさそいが 時間切れになりました": "すごろくのさそいが 時間切れになりました"
   },
   "464": {
-    "clarity_nt_char_152": "clarity_nt_char_152"
+    "clarity_nt_char_464": "clarity_nt_char_464"
   },
   "465": {
     "すごろくのさそいが 取り消されました": "すごろくのさそいが 取り消されました"
   },
   "466": {
-    "clarity_nt_char_153": "clarity_nt_char_153"
+    "clarity_nt_char_466": "clarity_nt_char_466"
   },
   "467": {
     "お宝の写真を なかまに見せました": "お宝の写真を なかまに見せました"
   },
   "468": {
-    "clarity_nt_char_154": "clarity_nt_char_154"
+    "clarity_nt_char_468": "clarity_nt_char_468"
   },
   "469": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝の写真を 見せてくれました": "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝の写真を 見せてくれました"
@@ -1416,25 +1416,25 @@
     "なかまが お宝の写真を 見せてくれました": "なかまが お宝の写真を 見せてくれました"
   },
   "473": {
-    "clarity_nt_char_155": "clarity_nt_char_155"
+    "clarity_nt_char_473": "clarity_nt_char_473"
   },
   "474": {
     "幻想画が マップに あらわれました！": "幻想画が マップに あらわれました！"
   },
   "475": {
-    "clarity_nt_char_156": "clarity_nt_char_156"
+    "clarity_nt_char_475": "clarity_nt_char_475"
   },
   "476": {
     "幻想画「一獲千金」が マップに あらわれました！": "幻想画「一獲千金」が マップに あらわれました！"
   },
   "477": {
-    "clarity_nt_char_157": "clarity_nt_char_157"
+    "clarity_nt_char_477": "clarity_nt_char_477"
   },
   "478": {
     "幻想画「一期一会」が マップに あらわれました！": "幻想画「一期一会」が マップに あらわれました！"
   },
   "479": {
-    "clarity_nt_char_158": "clarity_nt_char_158"
+    "clarity_nt_char_479": "clarity_nt_char_479"
   },
   "480": {
     "<%dC_DAY>日後 期限が切れる お宝の写真があります": "<%dC_DAY>日後 期限が切れる お宝の写真があります"
@@ -1446,13 +1446,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝を見つけました！": "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝を見つけました！"
   },
   "483": {
-    "clarity_nt_char_159": "clarity_nt_char_159"
+    "clarity_nt_char_483": "clarity_nt_char_483"
   },
   "484": {
     "この畑に お花の妖精が来ました！": "この畑に お花の妖精が来ました！"
   },
   "485": {
-    "clarity_nt_char_160": "clarity_nt_char_160"
+    "clarity_nt_char_485": "clarity_nt_char_485"
   },
   "486": {
     "次に植えたタネは 収穫量が２倍になります！": "次に植えたタネは 収穫量が２倍になります！"
@@ -1461,7 +1461,7 @@
     "協力バトルの期間を過ぎた為 バトルを中止しました": "協力バトルの期間を過ぎた為 バトルを中止しました"
   },
   "488": {
-    "clarity_nt_char_161": "clarity_nt_char_161"
+    "clarity_nt_char_488": "clarity_nt_char_488"
   },
   "489": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 幻想画バトルに さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 幻想画バトルに さそわれました！"
@@ -1473,7 +1473,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 幻想画バトルへのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが 幻想画バトルへのさそいを　取り消した"
   },
   "492": {
-    "clarity_nt_char_162": "clarity_nt_char_162"
+    "clarity_nt_char_492": "clarity_nt_char_492"
   },
   "493": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 雪夜の大広間の戦いに 誘われました!": "\\s<%sC_PC>\\m<%sC_ID>\\eから 雪夜の大広間の戦いに 誘われました!"
@@ -1500,7 +1500,7 @@
     "捧げた アイテムは キャンセルされました": "捧げた アイテムは キャンセルされました"
   },
   "501": {
-    "clarity_nt_char_163": "clarity_nt_char_163"
+    "clarity_nt_char_501": "clarity_nt_char_501"
   },
   "502": {
     "旅のコンシェルジュに イベント報酬が送られています": "旅のコンシェルジュに イベント報酬が送られています"
@@ -1509,7 +1509,7 @@
     "旅のコンシェルジュに イベント報酬が送られました": "旅のコンシェルジュに イベント報酬が送られました"
   },
   "504": {
-    "clarity_nt_char_164": "clarity_nt_char_164"
+    "clarity_nt_char_504": "clarity_nt_char_504"
   },
   "505": {
     "<%sC_ITEM>が無効のため 迷宮の外に出ます": "<%sC_ITEM>が無効のため 迷宮の外に出ます"
@@ -1518,25 +1518,25 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間参加希望がきた!": "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間参加希望がきた!"
   },
   "507": {
-    "clarity_nt_char_165": "clarity_nt_char_165"
+    "clarity_nt_char_507": "clarity_nt_char_507"
   },
   "508": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間に誘われた!": "\\s<%sC_PC>\\m<%sC_ID>\\eから<%sC_JOB>で仲間に誘われた!"
   },
   "509": {
-    "clarity_nt_char_166": "clarity_nt_char_166"
+    "clarity_nt_char_509": "clarity_nt_char_509"
   },
   "510": {
     "<%sC_JOB>で \\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった!": "<%sC_JOB>で \\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった!"
   },
   "511": {
-    "clarity_nt_char_167": "clarity_nt_char_167"
+    "clarity_nt_char_511": "clarity_nt_char_511"
   },
   "512": {
     "<%sC_JOB>で <%dC_M>分\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった!": "<%sC_JOB>で <%dC_M>分\\s<%sC_PC>\\m<%sC_ID>\\eの 仲間になった!"
   },
   "513": {
-    "clarity_nt_char_168": "clarity_nt_char_168"
+    "clarity_nt_char_513": "clarity_nt_char_513"
   },
   "514": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_JOB>で　仲間に加わった!": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sC_JOB>で　仲間に加わった!"
@@ -1551,7 +1551,7 @@
     "旅のコンシェルジュに 経験値が預けられました": "旅のコンシェルジュに 経験値が預けられました"
   },
   "518": {
-    "clarity_nt_char_169": "clarity_nt_char_169"
+    "clarity_nt_char_518": "clarity_nt_char_518"
   },
   "519": {
     "旅のコンシェルジュに 経験値が預けられています": "旅のコンシェルジュに 経験値が預けられています"
@@ -1560,7 +1560,7 @@
     "毛皮に包まれた氷が 熱で 解けはじめました！": "毛皮に包まれた氷が 熱で 解けはじめました！"
   },
   "521": {
-    "clarity_nt_char_170": "clarity_nt_char_170"
+    "clarity_nt_char_521": "clarity_nt_char_521"
   },
   "522": {
     "毛皮に包まれた氷が すこしずつ 解けています！": "毛皮に包まれた氷が すこしずつ 解けています！"
@@ -1581,7 +1581,7 @@
     "毛皮に包まれた氷が 解けつづけています！": "毛皮に包まれた氷が 解けつづけています！"
   },
   "528": {
-    "clarity_nt_char_171": "clarity_nt_char_171"
+    "clarity_nt_char_528": "clarity_nt_char_528"
   },
   "529": {
     "毛皮に包まれた氷が すべて 解けてしまったようです": "毛皮に包まれた氷が すべて 解けてしまったようです"
@@ -1593,7 +1593,7 @@
     "制限時間を過ぎたので バトルを終了します": "制限時間を過ぎたので バトルを終了します"
   },
   "532": {
-    "clarity_nt_char_172": "clarity_nt_char_172"
+    "clarity_nt_char_532": "clarity_nt_char_532"
   },
   "533": {
     "毛皮に包まれた氷は　今にも　すべて解けそうです！！": "毛皮に包まれた氷は　今にも　すべて解けそうです！！"
@@ -1602,7 +1602,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました"
   },
   "535": {
-    "clarity_nt_char_173": "clarity_nt_char_173"
+    "clarity_nt_char_535": "clarity_nt_char_535"
   },
   "536": {
     "封剣の門・一獄の誘いが取り消されました": "封剣の門・一獄の誘いが取り消されました"
@@ -1611,7 +1611,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・二獄の戦いに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・二獄の戦いに誘われました"
   },
   "538": {
-    "clarity_nt_char_174": "clarity_nt_char_174"
+    "clarity_nt_char_538": "clarity_nt_char_538"
   },
   "539": {
     "封剣の門・二獄の誘いが取り消されました": "封剣の門・二獄の誘いが取り消されました"
@@ -1620,7 +1620,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・三獄の戦いに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・三獄の戦いに誘われました"
   },
   "541": {
-    "clarity_nt_char_175": "clarity_nt_char_175"
+    "clarity_nt_char_541": "clarity_nt_char_541"
   },
   "542": {
     "封剣の門・三獄の誘いが取り消されました": "封剣の門・三獄の誘いが取り消されました"
@@ -1629,7 +1629,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました"
   },
   "544": {
-    "clarity_nt_char_176": "clarity_nt_char_176"
+    "clarity_nt_char_544": "clarity_nt_char_544"
   },
   "545": {
     "封剣の門・四獄の誘いが取り消されました": "封剣の門・四獄の誘いが取り消されました"
@@ -1638,7 +1638,7 @@
     "掘り出したお宝があと<%dC_N1>分で消えてしまいます": "掘り出したお宝があと<%dC_N1>分で消えてしまいます"
   },
   "547": {
-    "clarity_nt_char_177": "clarity_nt_char_177"
+    "clarity_nt_char_547": "clarity_nt_char_547"
   },
   "548": {
     "掘り出したお宝が消えてしまいました": "掘り出したお宝が消えてしまいました"
@@ -1647,7 +1647,7 @@
     "<%sC_PC>との すてきなめぐりあいを達成！": "<%sC_PC>との すてきなめぐりあいを達成！"
   },
   "550": {
-    "clarity_nt_char_178": "clarity_nt_char_178"
+    "clarity_nt_char_550": "clarity_nt_char_550"
   },
   "551": {
     "港町レンドア北の 特別郵便局員レチカに 会いにいこう！": "港町レンドア北の 特別郵便局員レチカに 会いにいこう！"
@@ -1659,7 +1659,7 @@
     "制限時間をすぎたので 達人クエストに失敗しました": "制限時間をすぎたので 達人クエストに失敗しました"
   },
   "554": {
-    "clarity_nt_char_179": "clarity_nt_char_179"
+    "clarity_nt_char_554": "clarity_nt_char_554"
   },
   "555": {
     "指定の職業がいないので 達人クエストに失敗しました": "指定の職業がいないので 達人クエストに失敗しました"
@@ -1668,25 +1668,25 @@
     "誰か 死んでしまったので 達人クエストに失敗しました": "誰か 死んでしまったので 達人クエストに失敗しました"
   },
   "557": {
-    "clarity_nt_char_180": "clarity_nt_char_180"
+    "clarity_nt_char_557": "clarity_nt_char_557"
   },
   "558": {
     "誰か どうぐを使用したので達人クエストに失敗しました": "誰か どうぐを使用したので達人クエストに失敗しました"
   },
   "559": {
-    "clarity_nt_char_181": "clarity_nt_char_181"
+    "clarity_nt_char_559": "clarity_nt_char_559"
   },
   "560": {
     "妖精の苗木に 5つの実がなり 収穫可能になりました！": "妖精の苗木に 5つの実がなり 収穫可能になりました！"
   },
   "561": {
-    "clarity_nt_char_182": "clarity_nt_char_182"
+    "clarity_nt_char_561": "clarity_nt_char_561"
   },
   "562": {
     "仲間のスライムのお手伝いを達成しました！": "仲間のスライムのお手伝いを達成しました！"
   },
   "563": {
-    "clarity_nt_char_183": "clarity_nt_char_183"
+    "clarity_nt_char_563": "clarity_nt_char_563"
   },
   "564": {
     "debug <%sC_STR>": "debug <%sC_STR>"
@@ -1704,19 +1704,19 @@
     "<%sC_STR> の参加者が集まりませんでした": "<%sC_STR> の参加者が集まりませんでした"
   },
   "569": {
-    "clarity_nt_char_184": "clarity_nt_char_184"
+    "clarity_nt_char_569": "clarity_nt_char_569"
   },
   "570": {
     "<%sC_STR> の参加に失敗しました": "<%sC_STR> の参加に失敗しました"
   },
   "571": {
-    "clarity_nt_char_185": "clarity_nt_char_185"
+    "clarity_nt_char_571": "clarity_nt_char_571"
   },
   "572": {
     "領界調査クエスト <%sC_STR> 討伐完了！": "領界調査クエスト <%sC_STR> 討伐完了！"
   },
   "573": {
-    "clarity_nt_char_186": "clarity_nt_char_186"
+    "clarity_nt_char_573": "clarity_nt_char_573"
   },
   "574": {
     "領界調査クエスト達成！ エジャルナに報告に行こう！": "領界調査クエスト達成！ エジャルナに報告に行こう！"
@@ -1725,13 +1725,13 @@
     "新しい 貝がらが 流れてきたぞーっ！": "新しい 貝がらが 流れてきたぞーっ！"
   },
   "576": {
-    "clarity_nt_char_187": "clarity_nt_char_187"
+    "clarity_nt_char_576": "clarity_nt_char_576"
   },
   "577": {
     "アクセサリー合成屋で 合成の続きを行ってください": "アクセサリー合成屋で 合成の続きを行ってください"
   },
   "578": {
-    "clarity_nt_char_188": "clarity_nt_char_188"
+    "clarity_nt_char_578": "clarity_nt_char_578"
   },
   "579": {
     "竜王の城の攻略に さそわれました！": "竜王の城の攻略に さそわれました！"
@@ -1749,7 +1749,7 @@
     "参加希望の方は 星獣の手紙に": "参加希望の方は 星獣の手紙に"
   },
   "584": {
-    "clarity_nt_char_189": "clarity_nt_char_189"
+    "clarity_nt_char_584": "clarity_nt_char_584"
   },
   "585": {
     "書かれた場所へ お越しください": "書かれた場所へ お越しください"
@@ -1782,13 +1782,13 @@
     "アストルティアラリーの ミッションを達成しました": "アストルティアラリーの ミッションを達成しました"
   },
   "595": {
-    "clarity_nt_char_190": "clarity_nt_char_190"
+    "clarity_nt_char_595": "clarity_nt_char_595"
   },
   "596": {
     "妖精アマリリスのもとに戻ると 収穫できるようです": "妖精アマリリスのもとに戻ると 収穫できるようです"
   },
   "597": {
-    "clarity_nt_char_191": "clarity_nt_char_191"
+    "clarity_nt_char_597": "clarity_nt_char_597"
   },
   "598": {
     "このマップの東から 星獣の気配がします": "このマップの東から 星獣の気配がします"
@@ -1806,31 +1806,31 @@
     "このマップの南東から 星獣の気配がします": "このマップの南東から 星獣の気配がします"
   },
   "603": {
-    "clarity_nt_char_192": "clarity_nt_char_192"
+    "clarity_nt_char_603": "clarity_nt_char_603"
   },
   "604": {
     "このマップの南西から 星獣の気配がします": "このマップの南西から 星獣の気配がします"
   },
   "605": {
-    "clarity_nt_char_193": "clarity_nt_char_193"
+    "clarity_nt_char_605": "clarity_nt_char_605"
   },
   "606": {
     "このマップの北東から 星獣の気配がします": "このマップの北東から 星獣の気配がします"
   },
   "607": {
-    "clarity_nt_char_194": "clarity_nt_char_194"
+    "clarity_nt_char_607": "clarity_nt_char_607"
   },
   "608": {
     "このマップの北西から 星獣の気配がします": "このマップの北西から 星獣の気配がします"
   },
   "609": {
-    "clarity_nt_char_195": "clarity_nt_char_195"
+    "clarity_nt_char_609": "clarity_nt_char_609"
   },
   "610": {
     "このマップの中央から 星獣の気配がします": "このマップの中央から 星獣の気配がします"
   },
   "611": {
-    "clarity_nt_char_196": "clarity_nt_char_196"
+    "clarity_nt_char_611": "clarity_nt_char_611"
   },
   "612": {
     "ラリー特別参加券が 使用されました": "ラリー特別参加券が 使用されました"
@@ -1845,31 +1845,31 @@
     "お知らせ機能が オフになりました": "お知らせ機能が オフになりました"
   },
   "616": {
-    "clarity_nt_char_197": "clarity_nt_char_197"
+    "clarity_nt_char_616": "clarity_nt_char_616"
   },
   "617": {
     "アストルティアラリーの ミッションが進行しました": "アストルティアラリーの ミッションが進行しました"
   },
   "618": {
-    "clarity_nt_char_198": "clarity_nt_char_198"
+    "clarity_nt_char_618": "clarity_nt_char_618"
   },
   "619": {
     "またの挑戦を お待ちしております": "またの挑戦を お待ちしております"
   },
   "620": {
-    "clarity_nt_char_199": "clarity_nt_char_199"
+    "clarity_nt_char_620": "clarity_nt_char_620"
   },
   "621": {
     "参加に失敗した メンバーがいます": "参加に失敗した メンバーがいます"
   },
   "622": {
-    "clarity_nt_char_200": "clarity_nt_char_200"
+    "clarity_nt_char_622": "clarity_nt_char_622"
   },
   "623": {
     "アスフェルド学園の新ストーリーが 始まりました！": "アスフェルド学園の新ストーリーが 始まりました！"
   },
   "624": {
-    "clarity_nt_char_201": "clarity_nt_char_201"
+    "clarity_nt_char_624": "clarity_nt_char_624"
   },
   "625": {
     "報酬が 旅のコンシェルジュに送られました！": "報酬が 旅のコンシェルジュに送られました！"
@@ -1878,13 +1878,13 @@
     "捧げたアイテムが無効のため 迷宮の外に出ます": "捧げたアイテムが無効のため 迷宮の外に出ます"
   },
   "627": {
-    "clarity_nt_char_202": "clarity_nt_char_202"
+    "clarity_nt_char_627": "clarity_nt_char_627"
   },
   "628": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 詩人の舞台での戦いに 誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 詩人の舞台での戦いに 誘われました"
   },
   "629": {
-    "clarity_nt_char_203": "clarity_nt_char_203"
+    "clarity_nt_char_629": "clarity_nt_char_629"
   },
   "630": {
     "詩人の舞台での戦いへの誘いが 時間切れになりました": "詩人の舞台での戦いへの誘いが 時間切れになりました"
@@ -1893,13 +1893,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 詩人の舞台での戦いの誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが 詩人の舞台での戦いの誘いを取り消した"
   },
   "632": {
-    "clarity_nt_char_204": "clarity_nt_char_204"
+    "clarity_nt_char_632": "clarity_nt_char_632"
   },
   "633": {
     "下駄箱に 何か届いているようです": "下駄箱に 何か届いているようです"
   },
   "634": {
-    "clarity_nt_char_205": "clarity_nt_char_205"
+    "clarity_nt_char_634": "clarity_nt_char_634"
   },
   "635": {
     "下駄箱に 運営サポートから お届け物があります": "下駄箱に 運営サポートから お届け物があります"
@@ -1908,13 +1908,13 @@
     "<%dC_N1>分以内に竜王に話しかけ同期しよう": "<%dC_N1>分以内に竜王に話しかけ同期しよう"
   },
   "637": {
-    "clarity_nt_char_206": "clarity_nt_char_206"
+    "clarity_nt_char_637": "clarity_nt_char_637"
   },
   "638": {
     "フウキのつばさの行き先に 自分の教室が 追加された！": "フウキのつばさの行き先に 自分の教室が 追加された！"
   },
   "639": {
-    "clarity_nt_char_207": "clarity_nt_char_207"
+    "clarity_nt_char_639": "clarity_nt_char_639"
   },
   "640": {
     "フウキのつばさの行き先に 友情の木が 追加された！": "フウキのつばさの行き先に 友情の木が 追加された！"
@@ -1923,25 +1923,25 @@
     "フウキのつばさの行き先に 購買部が 追加された！": "フウキのつばさの行き先に 購買部が 追加された！"
   },
   "642": {
-    "clarity_nt_char_208": "clarity_nt_char_208"
+    "clarity_nt_char_642": "clarity_nt_char_642"
   },
   "643": {
     "フウキのつばさの行き先に 第二本校舎が 追加された！": "フウキのつばさの行き先に 第二本校舎が 追加された！"
   },
   "644": {
-    "clarity_nt_char_209": "clarity_nt_char_209"
+    "clarity_nt_char_644": "clarity_nt_char_644"
   },
   "645": {
     "フウキの対策室に 行ってみよう！": "フウキの対策室に 行ってみよう！"
   },
   "646": {
-    "clarity_nt_char_210": "clarity_nt_char_210"
+    "clarity_nt_char_646": "clarity_nt_char_646"
   },
   "647": {
     "アスフェルド光章が 郵便箱に 送られました！": "アスフェルド光章が 郵便箱に 送られました！"
   },
   "648": {
-    "clarity_nt_char_211": "clarity_nt_char_211"
+    "clarity_nt_char_648": "clarity_nt_char_648"
   },
   "649": {
     "教練バトルに さそわれました！": "教練バトルに さそわれました！"
@@ -1950,13 +1950,13 @@
     "教練バトルの誘いが 時間切れになりました": "教練バトルの誘いが 時間切れになりました"
   },
   "651": {
-    "clarity_nt_char_212": "clarity_nt_char_212"
+    "clarity_nt_char_651": "clarity_nt_char_651"
   },
   "652": {
     "教練バトルの誘いが 取り消されました": "教練バトルの誘いが 取り消されました"
   },
   "653": {
-    "clarity_nt_char_213": "clarity_nt_char_213"
+    "clarity_nt_char_653": "clarity_nt_char_653"
   },
   "654": {
     "教練チケットを 実行委員に渡した！": "教練チケットを 実行委員に渡した！"
@@ -1965,7 +1965,7 @@
     "教練チケットが 実行委員から戻ってきた！": "教練チケットが 実行委員から戻ってきた！"
   },
   "656": {
-    "clarity_nt_char_214": "clarity_nt_char_214"
+    "clarity_nt_char_656": "clarity_nt_char_656"
   },
   "657": {
     "<%dC_N1>分以内に わたぼうに話しかけ同期しよう": "<%dC_N1>分以内に わたぼうに話しかけ同期しよう"
@@ -1974,19 +1974,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから バトルロードに誘われました"
   },
   "659": {
-    "clarity_nt_char_215": "clarity_nt_char_215"
+    "clarity_nt_char_659": "clarity_nt_char_659"
   },
   "660": {
     "イベントがタイムアウトしたため 次の場所へ移動します": "イベントがタイムアウトしたため 次の場所へ移動します"
   },
   "661": {
-    "clarity_nt_char_216": "clarity_nt_char_216"
+    "clarity_nt_char_661": "clarity_nt_char_661"
   },
   "662": {
     "部活強化週間にて <%sC_STR>部の課題が達成されました": "部活強化週間にて <%sC_STR>部の課題が達成されました"
   },
   "663": {
-    "clarity_nt_char_217": "clarity_nt_char_217"
+    "clarity_nt_char_663": "clarity_nt_char_663"
   },
   "664": {
     "チャレンジ「一定以上ダメージ」を達成！": "チャレンジ「一定以上ダメージ」を達成！"
@@ -1995,7 +1995,7 @@
     "イベント中のため チャットを受け付けませんでした": "イベント中のため チャットを受け付けませんでした"
   },
   "666": {
-    "clarity_nt_char_218": "clarity_nt_char_218"
+    "clarity_nt_char_666": "clarity_nt_char_666"
   },
   "667": {
     "どうぐチャレンジ失敗！": "どうぐチャレンジ失敗！"
@@ -2007,7 +2007,7 @@
     "<%sC_ITEM>が 郵便箱に 送られました！": "<%sC_ITEM>が 郵便箱に 送られました！"
   },
   "670": {
-    "clarity_nt_char_219": "clarity_nt_char_219"
+    "clarity_nt_char_670": "clarity_nt_char_670"
   },
   "671": {
     "幻の海トラシュカの航海に さそわれました！": "幻の海トラシュカの航海に さそわれました！"
@@ -2022,7 +2022,7 @@
     "神聖秘文の一部が判明したようです": "神聖秘文の一部が判明したようです"
   },
   "675": {
-    "clarity_nt_char_220": "clarity_nt_char_220"
+    "clarity_nt_char_675": "clarity_nt_char_675"
   },
   "676": {
     "だいじなものの万象流転の書をご確認ください": "だいじなものの万象流転の書をご確認ください"
@@ -2043,19 +2043,19 @@
     "ほれ こんな風にな！ こいつを拾うのが あんたの仕事だ！": "ほれ こんな風にな！ こいつを拾うのが あんたの仕事だ！"
   },
   "682": {
-    "clarity_nt_char_221": "clarity_nt_char_221"
+    "clarity_nt_char_682": "clarity_nt_char_682"
   },
   "683": {
     "夢中になって 海に落ちるんじゃねーぞー！": "夢中になって 海に落ちるんじゃねーぞー！"
   },
   "684": {
-    "clarity_nt_char_222": "clarity_nt_char_222"
+    "clarity_nt_char_684": "clarity_nt_char_684"
   },
   "685": {
     "ばくだん岩が現れたら 爆発する前に 離れろ！": "ばくだん岩が現れたら 爆発する前に 離れろ！"
   },
   "686": {
-    "clarity_nt_char_223": "clarity_nt_char_223"
+    "clarity_nt_char_686": "clarity_nt_char_686"
   },
   "687": {
     "甲板に落ちる影を よく見て 華麗にかわすんだ！": "甲板に落ちる影を よく見て 華麗にかわすんだ！"
@@ -2067,7 +2067,7 @@
     "無事で済んでも 身体が吹っ飛びやすくなるぞ！": "無事で済んでも 身体が吹っ飛びやすくなるぞ！"
   },
   "690": {
-    "clarity_nt_char_224": "clarity_nt_char_224"
+    "clarity_nt_char_690": "clarity_nt_char_690"
   },
   "691": {
     "浮き輪が現れたら 逃さず ゲットしろ！": "浮き輪が現れたら 逃さず ゲットしろ！"
@@ -2079,7 +2079,7 @@
     "さーて！ 説明は こんなもんで充分だ！ 終わりにするぞ！": "さーて！ 説明は こんなもんで充分だ！ 終わりにするぞ！"
   },
   "694": {
-    "clarity_nt_char_225": "clarity_nt_char_225"
+    "clarity_nt_char_694": "clarity_nt_char_694"
   },
   "695": {
     "バトル・ルネッサンスの準備が完了しました！": "バトル・ルネッサンスの準備が完了しました！"
@@ -2088,19 +2088,19 @@
     "野郎ども！！ この船は 幻の海トラシュカに到着した！": "野郎ども！！ この船は 幻の海トラシュカに到着した！"
   },
   "697": {
-    "clarity_nt_char_226": "clarity_nt_char_226"
+    "clarity_nt_char_697": "clarity_nt_char_697"
   },
   "698": {
     "価値のありそうな物を どんどん拾えーッ！": "価値のありそうな物を どんどん拾えーッ！"
   },
   "699": {
-    "clarity_nt_char_227": "clarity_nt_char_227"
+    "clarity_nt_char_699": "clarity_nt_char_699"
   },
   "700": {
     "ヤツらは種類によって 爆発の形がちがうようだぜ！": "ヤツらは種類によって 爆発の形がちがうようだぜ！"
   },
   "701": {
-    "clarity_nt_char_228": "clarity_nt_char_228"
+    "clarity_nt_char_701": "clarity_nt_char_701"
   },
   "702": {
     "マズイッ！ 空が荒れてきやがった！": "マズイッ！ 空が荒れてきやがった！"
@@ -2115,7 +2115,7 @@
     "このエリアで トレジャーズが 出現しました！": "このエリアで トレジャーズが 出現しました！"
   },
   "706": {
-    "clarity_nt_char_229": "clarity_nt_char_229"
+    "clarity_nt_char_706": "clarity_nt_char_706"
   },
   "707": {
     "これで すべての手がかりを解き明かしました": "これで すべての手がかりを解き明かしました"
@@ -2124,7 +2124,7 @@
     "万象流転の書の 神聖秘文が消えてしまいました": "万象流転の書の 神聖秘文が消えてしまいました"
   },
   "709": {
-    "clarity_nt_char_230": "clarity_nt_char_230"
+    "clarity_nt_char_709": "clarity_nt_char_709"
   },
   "710": {
     "他のプレイヤーが バトルを開始するのを待っています": "他のプレイヤーが バトルを開始するのを待っています"
@@ -2133,25 +2133,25 @@
     "日替わりクエスト達成！ 討伐隊員へ報告に行こう！": "日替わりクエスト達成！ 討伐隊員へ報告に行こう！"
   },
   "712": {
-    "clarity_nt_char_231": "clarity_nt_char_231"
+    "clarity_nt_char_712": "clarity_nt_char_712"
   },
   "713": {
     "週替わりクエスト達成！ 討伐隊員へ報告に行こう！": "週替わりクエスト達成！ 討伐隊員へ報告に行こう！"
   },
   "714": {
-    "clarity_nt_char_232": "clarity_nt_char_232"
+    "clarity_nt_char_714": "clarity_nt_char_714"
   },
   "715": {
     "ったく とんでもねえ嵐だったぜ……　": "ったく とんでもねえ嵐だったぜ……　"
   },
   "716": {
-    "clarity_nt_char_233": "clarity_nt_char_233"
+    "clarity_nt_char_716": "clarity_nt_char_716"
   },
   "717": {
     "よく耐えきってくれたな！ 上陸するぞォーーッ！！": "よく耐えきってくれたな！ 上陸するぞォーーッ！！"
   },
   "718": {
-    "clarity_nt_char_234": "clarity_nt_char_234"
+    "clarity_nt_char_718": "clarity_nt_char_718"
   },
   "719": {
     "ウェルカムギフトキャンペーン 開催中！": "ウェルカムギフトキャンペーン 開催中！"
@@ -2160,7 +2160,7 @@
     "町に入って ウェルカムスタンプを もらいましょう": "町に入って ウェルカムスタンプを もらいましょう"
   },
   "721": {
-    "clarity_nt_char_235": "clarity_nt_char_235"
+    "clarity_nt_char_721": "clarity_nt_char_721"
   },
   "722": {
     "12月31日まで ギフトの 受け取りができます": "12月31日まで ギフトの 受け取りができます"
@@ -2169,13 +2169,13 @@
     "ギフト係 リーフィーに 話しかけましょう": "ギフト係 リーフィーに 話しかけましょう"
   },
   "724": {
-    "clarity_nt_char_236": "clarity_nt_char_236"
+    "clarity_nt_char_724": "clarity_nt_char_724"
   },
   "725": {
     "隠れスライム大会に さそわれました！": "隠れスライム大会に さそわれました！"
   },
   "726": {
-    "clarity_nt_char_237": "clarity_nt_char_237"
+    "clarity_nt_char_726": "clarity_nt_char_726"
   },
   "727": {
     "隠れスライム大会の誘いが 時間切れになりました": "隠れスライム大会の誘いが 時間切れになりました"
@@ -2187,25 +2187,25 @@
     "ゾーマの城の攻略に さそわれました！": "ゾーマの城の攻略に さそわれました！"
   },
   "730": {
-    "clarity_nt_char_238": "clarity_nt_char_238"
+    "clarity_nt_char_730": "clarity_nt_char_730"
   },
   "731": {
     "ゾーマの城の誘いが 時間切れになりました": "ゾーマの城の誘いが 時間切れになりました"
   },
   "732": {
-    "clarity_nt_char_239": "clarity_nt_char_239"
+    "clarity_nt_char_732": "clarity_nt_char_732"
   },
   "733": {
     "ゾーマの城の誘いが 取り消されました": "ゾーマの城の誘いが 取り消されました"
   },
   "734": {
-    "clarity_nt_char_240": "clarity_nt_char_240"
+    "clarity_nt_char_734": "clarity_nt_char_734"
   },
   "735": {
     "みんなに魔法をかけてあげるデュ！ ボクを探してデュ！": "みんなに魔法をかけてあげるデュ！ ボクを探してデュ！"
   },
   "736": {
-    "clarity_nt_char_241": "clarity_nt_char_241"
+    "clarity_nt_char_736": "clarity_nt_char_736"
   },
   "737": {
     "残り９０秒！ フィーバータイムに突入だデュ～！": "残り９０秒！ フィーバータイムに突入だデュ～！"
@@ -2214,7 +2214,7 @@
     "<%sC_STR>に見つかったから 魔法をかけるデュ～！": "<%sC_STR>に見つかったから 魔法をかけるデュ～！"
   },
   "739": {
-    "clarity_nt_char_242": "clarity_nt_char_242"
+    "clarity_nt_char_739": "clarity_nt_char_739"
   },
   "740": {
     "<%sC_STR>": "<%sC_STR>"
@@ -2223,7 +2223,7 @@
     "<%dC_N1>分以内に ゾーマに話しかけ同期しよう": "<%dC_N1>分以内に ゾーマに話しかけ同期しよう"
   },
   "742": {
-    "clarity_nt_char_243": "clarity_nt_char_243"
+    "clarity_nt_char_742": "clarity_nt_char_742"
   },
   "743": {
     "<%dC_N1>分以内に酒場の扉に触れないと外に出ます": "<%dC_N1>分以内に酒場の扉に触れないと外に出ます"
@@ -2232,7 +2232,7 @@
     "<%sC_STR>の防衛戦に さそわれました！　": "<%sC_STR>の防衛戦に さそわれました！　"
   },
   "745": {
-    "clarity_nt_char_244": "clarity_nt_char_244"
+    "clarity_nt_char_745": "clarity_nt_char_745"
   },
   "746": {
     "？？？？？？の防衛戦に さそわれました！　": "？？？？？？の防衛戦に さそわれました！　"
@@ -2244,31 +2244,31 @@
     "防衛戦への誘いが 取り消されました　": "防衛戦への誘いが 取り消されました　"
   },
   "749": {
-    "clarity_nt_char_245": "clarity_nt_char_245"
+    "clarity_nt_char_749": "clarity_nt_char_749"
   },
   "750": {
     "マップの東から 敵軍が出現！ 警戒せよ！": "マップの東から 敵軍が出現！ 警戒せよ！"
   },
   "751": {
-    "clarity_nt_char_246": "clarity_nt_char_246"
+    "clarity_nt_char_751": "clarity_nt_char_751"
   },
   "752": {
     "マップの西から 敵軍が出現！ 警戒せよ！": "マップの西から 敵軍が出現！ 警戒せよ！"
   },
   "753": {
-    "clarity_nt_char_247": "clarity_nt_char_247"
+    "clarity_nt_char_753": "clarity_nt_char_753"
   },
   "754": {
     "橋の南側に 敵軍が出現！ 警戒せよ！": "橋の南側に 敵軍が出現！ 警戒せよ！"
   },
   "755": {
-    "clarity_nt_char_248": "clarity_nt_char_248"
+    "clarity_nt_char_755": "clarity_nt_char_755"
   },
   "756": {
     "橋の北側に 敵軍が出現！ 警戒せよ！": "橋の北側に 敵軍が出現！ 警戒せよ！"
   },
   "757": {
-    "clarity_nt_char_249": "clarity_nt_char_249"
+    "clarity_nt_char_757": "clarity_nt_char_757"
   },
   "758": {
     "大物 進行開始！ 大物への対処も忘れるな！": "大物 進行開始！ 大物への対処も忘れるな！"
@@ -2283,73 +2283,73 @@
     "残り１分！ あと少しだ！ 死ぬ気で守れ！": "残り１分！ あと少しだ！ 死ぬ気で守れ！"
   },
   "762": {
-    "clarity_nt_char_250": "clarity_nt_char_250"
+    "clarity_nt_char_762": "clarity_nt_char_762"
   },
   "763": {
     "橋の中央に 敵軍が出現！ 警戒せよ！": "橋の中央に 敵軍が出現！ 警戒せよ！"
   },
   "764": {
-    "clarity_nt_char_251": "clarity_nt_char_251"
+    "clarity_nt_char_764": "clarity_nt_char_764"
   },
   "765": {
     "南の砲台に 大砲の弾を届けましたよ！": "南の砲台に 大砲の弾を届けましたよ！"
   },
   "766": {
-    "clarity_nt_char_252": "clarity_nt_char_252"
+    "clarity_nt_char_766": "clarity_nt_char_766"
   },
   "767": {
     "北の砲台に 大砲の弾を届けましたよ！": "北の砲台に 大砲の弾を届けましたよ！"
   },
   "768": {
-    "clarity_nt_char_253": "clarity_nt_char_253"
+    "clarity_nt_char_768": "clarity_nt_char_768"
   },
   "769": {
     "橋の南側に 物資を届けましたよ！": "橋の南側に 物資を届けましたよ！"
   },
   "770": {
-    "clarity_nt_char_254": "clarity_nt_char_254"
+    "clarity_nt_char_770": "clarity_nt_char_770"
   },
   "771": {
     "橋の北側に 物資を届けましたよ！": "橋の北側に 物資を届けましたよ！"
   },
   "772": {
-    "clarity_nt_char_255": "clarity_nt_char_255"
+    "clarity_nt_char_772": "clarity_nt_char_772"
   },
   "773": {
     "マップの南東に 物資を届けたぞ！": "マップの南東に 物資を届けたぞ！"
   },
   "774": {
-    "clarity_nt_char_256": "clarity_nt_char_256"
+    "clarity_nt_char_774": "clarity_nt_char_774"
   },
   "775": {
     "マップの南西に 物資を届けたぞ！": "マップの南西に 物資を届けたぞ！"
   },
   "776": {
-    "clarity_nt_char_257": "clarity_nt_char_257"
+    "clarity_nt_char_776": "clarity_nt_char_776"
   },
   "777": {
     "マップの北東に 物資を届けたぞ！": "マップの北東に 物資を届けたぞ！"
   },
   "778": {
-    "clarity_nt_char_258": "clarity_nt_char_258"
+    "clarity_nt_char_778": "clarity_nt_char_778"
   },
   "779": {
     "マップの北西に 物資を届けたぞ！": "マップの北西に 物資を届けたぞ！"
   },
   "780": {
-    "clarity_nt_char_259": "clarity_nt_char_259"
+    "clarity_nt_char_780": "clarity_nt_char_780"
   },
   "781": {
     "橋の中央に 物資を届けたぞ！": "橋の中央に 物資を届けたぞ！"
   },
   "782": {
-    "clarity_nt_char_260": "clarity_nt_char_260"
+    "clarity_nt_char_782": "clarity_nt_char_782"
   },
   "783": {
     "カジノレイド祭りが <%dC_N1>分後に 開始されます": "カジノレイド祭りが <%dC_N1>分後に 開始されます"
   },
   "784": {
-    "clarity_nt_char_261": "clarity_nt_char_261"
+    "clarity_nt_char_784": "clarity_nt_char_784"
   },
   "785": {
     "プレイ中のポーカー スロット ルーレット　ビンゴは": "プレイ中のポーカー スロット ルーレット　ビンゴは"
@@ -2361,7 +2361,7 @@
     "いにしえのゼルメア地下１階の探索に さそわれました！": "いにしえのゼルメア地下１階の探索に さそわれました！"
   },
   "788": {
-    "clarity_nt_char_262": "clarity_nt_char_262"
+    "clarity_nt_char_788": "clarity_nt_char_788"
   },
   "789": {
     "ゼルメア探索の誘いが 時間切れになりました": "ゼルメア探索の誘いが 時間切れになりました"
@@ -2373,7 +2373,7 @@
     "他のプレイヤーがこの場所を調べるまで <%dC_N1>分待てます": "他のプレイヤーがこの場所を調べるまで <%dC_N1>分待てます"
   },
   "792": {
-    "clarity_nt_char_263": "clarity_nt_char_263"
+    "clarity_nt_char_792": "clarity_nt_char_792"
   },
   "793": {
     "ゲームが 中断されますので ご注意ください": "ゲームが 中断されますので ご注意ください"
@@ -2382,19 +2382,19 @@
     "闇朱の獣牙兵団の防衛戦に さそわれました！　": "闇朱の獣牙兵団の防衛戦に さそわれました！　"
   },
   "795": {
-    "clarity_nt_char_264": "clarity_nt_char_264"
+    "clarity_nt_char_795": "clarity_nt_char_795"
   },
   "796": {
     "紫炎の鉄機兵団の防衛戦に さそわれました！　": "紫炎の鉄機兵団の防衛戦に さそわれました！　"
   },
   "797": {
-    "clarity_nt_char_265": "clarity_nt_char_265"
+    "clarity_nt_char_797": "clarity_nt_char_797"
   },
   "798": {
     "深碧の造魔兵団の防衛戦に さそわれました！　": "深碧の造魔兵団の防衛戦に さそわれました！　"
   },
   "799": {
-    "clarity_nt_char_266": "clarity_nt_char_266"
+    "clarity_nt_char_799": "clarity_nt_char_799"
   },
   "800": {
     "あと1ターン入力がないと 元のマップに戻ります": "あと1ターン入力がないと 元のマップに戻ります"
@@ -2406,7 +2406,7 @@
     "<%nC_N1>つの条件を 達成しました": "<%nC_N1>つの条件を 達成しました"
   },
   "803": {
-    "clarity_nt_char_267": "clarity_nt_char_267"
+    "clarity_nt_char_803": "clarity_nt_char_803"
   },
   "804": {
     "第一の霊廟の謎を すべて解明しました！": "第一の霊廟の謎を すべて解明しました！"
@@ -2439,25 +2439,25 @@
     "秘密の宝物庫の謎を すべて解明しました！": "秘密の宝物庫の謎を すべて解明しました！"
   },
   "814": {
-    "clarity_nt_char_268": "clarity_nt_char_268"
+    "clarity_nt_char_814": "clarity_nt_char_814"
   },
   "815": {
     "2ターン入力がなかったので 元のマップに戻ります": "2ターン入力がなかったので 元のマップに戻ります"
   },
   "816": {
-    "clarity_nt_char_269": "clarity_nt_char_269"
+    "clarity_nt_char_816": "clarity_nt_char_816"
   },
   "817": {
     "霊廟に仕掛けられた謎を 解き明かせ！": "霊廟に仕掛けられた謎を 解き明かせ！"
   },
   "818": {
-    "clarity_nt_char_270": "clarity_nt_char_270"
+    "clarity_nt_char_818": "clarity_nt_char_818"
   },
   "819": {
     "現在の最高獲得スコアは <%dC_N1> Pデュ": "現在の最高獲得スコアは <%dC_N1> Pデュ"
   },
   "820": {
-    "clarity_nt_char_271": "clarity_nt_char_271"
+    "clarity_nt_char_820": "clarity_nt_char_820"
   },
   "821": {
     "ベスを５匹発見！ クイーンスライムが出現したデュ！": "ベスを５匹発見！ クイーンスライムが出現したデュ！"
@@ -2466,7 +2466,7 @@
     "スライムを５匹発見！ キングスライムが出現したデュ！": "スライムを５匹発見！ キングスライムが出現したデュ！"
   },
   "823": {
-    "clarity_nt_char_272": "clarity_nt_char_272"
+    "clarity_nt_char_823": "clarity_nt_char_823"
   },
   "824": {
     "ピラミッド秘密の宝物庫への道が 開かれました！": "ピラミッド秘密の宝物庫への道が 開かれました！"
@@ -2475,13 +2475,13 @@
     "秘密の宝物庫に仕掛けられた謎を 解き明かせ！": "秘密の宝物庫に仕掛けられた謎を 解き明かせ！"
   },
   "826": {
-    "clarity_nt_char_273": "clarity_nt_char_273"
+    "clarity_nt_char_826": "clarity_nt_char_826"
   },
   "827": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから バトエンに 誘われました!": "\\s<%sC_PC>\\m<%sC_ID>\\eから バトエンに 誘われました!"
   },
   "828": {
-    "clarity_nt_char_274": "clarity_nt_char_274"
+    "clarity_nt_char_828": "clarity_nt_char_828"
   },
   "829": {
     "バトエンの誘いが 時間切れになりました": "バトエンの誘いが 時間切れになりました"
@@ -2493,19 +2493,19 @@
     "ゼルメアの聖紋の使用者が入れなかったため 退出します": "ゼルメアの聖紋の使用者が入れなかったため 退出します"
   },
   "832": {
-    "clarity_nt_char_275": "clarity_nt_char_275"
+    "clarity_nt_char_832": "clarity_nt_char_832"
   },
   "833": {
     "進行エラーがあったため フロアの開始位置に戻りました": "進行エラーがあったため フロアの開始位置に戻りました"
   },
   "834": {
-    "clarity_nt_char_276": "clarity_nt_char_276"
+    "clarity_nt_char_834": "clarity_nt_char_834"
   },
   "835": {
     "<%dC_N1>分以内に次の階への扉に触れないと 外に出ます": "<%dC_N1>分以内に次の階への扉に触れないと 外に出ます"
   },
   "836": {
-    "clarity_nt_char_277": "clarity_nt_char_277"
+    "clarity_nt_char_836": "clarity_nt_char_836"
   },
   "837": {
     "蒼怨の屍獄兵団の防衛戦に さそわれました！": "蒼怨の屍獄兵団の防衛戦に さそわれました！"
@@ -2514,13 +2514,13 @@
     "逃走チームは 逃げるニャー！": "逃走チームは 逃げるニャー！"
   },
   "839": {
-    "clarity_nt_char_278": "clarity_nt_char_278"
+    "clarity_nt_char_839": "clarity_nt_char_839"
   },
   "840": {
     "追跡チーム スタートよ！": "追跡チーム スタートよ！"
   },
   "841": {
-    "clarity_nt_char_279": "clarity_nt_char_279"
+    "clarity_nt_char_841": "clarity_nt_char_841"
   },
   "842": {
     "のこり時間 1分！": "のこり時間 1分！"
@@ -2532,7 +2532,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 捕まっている仲間を 解放したニャー！": "\\s<%sC_PC>\\m<%sC_ID>\\eが 捕まっている仲間を 解放したニャー！"
   },
   "845": {
-    "clarity_nt_char_280": "clarity_nt_char_280"
+    "clarity_nt_char_845": "clarity_nt_char_845"
   },
   "846": {
     "\\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！ のこり<%dC_NUM>人ニャー！": "\\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！ のこり<%dC_NUM>人ニャー！"
@@ -2541,13 +2541,13 @@
     "最後のひとり \\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！": "最後のひとり \\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！"
   },
   "848": {
-    "clarity_nt_char_281": "clarity_nt_char_281"
+    "clarity_nt_char_848": "clarity_nt_char_848"
   },
   "849": {
     "真夜中プリズランに さそわれました！": "真夜中プリズランに さそわれました！"
   },
   "850": {
-    "clarity_nt_char_282": "clarity_nt_char_282"
+    "clarity_nt_char_850": "clarity_nt_char_850"
   },
   "851": {
     "真夜中プリズランのさそいが時間切れになりました": "真夜中プリズランのさそいが時間切れになりました"
@@ -2556,25 +2556,25 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが プリズランのさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが プリズランのさそいを 取り消しました"
   },
   "853": {
-    "clarity_nt_char_283": "clarity_nt_char_283"
+    "clarity_nt_char_853": "clarity_nt_char_853"
   },
   "854": {
     "追跡チームの千里眼！ 逃走者の現在地が バレたニャ！": "追跡チームの千里眼！ 逃走者の現在地が バレたニャ！"
   },
   "855": {
-    "clarity_nt_char_284": "clarity_nt_char_284"
+    "clarity_nt_char_855": "clarity_nt_char_855"
   },
   "856": {
     "逃走チームの千里眼！ 追跡者の現在地が 分かるニャ！": "逃走チームの千里眼！ 追跡者の現在地が 分かるニャ！"
   },
   "857": {
-    "clarity_nt_char_285": "clarity_nt_char_285"
+    "clarity_nt_char_857": "clarity_nt_char_857"
   },
   "858": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 一緒に遊ぶ仲間に さそわれました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 一緒に遊ぶ仲間に さそわれました！"
   },
   "859": {
-    "clarity_nt_char_286": "clarity_nt_char_286"
+    "clarity_nt_char_859": "clarity_nt_char_859"
   },
   "860": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 一緒に遊ぶさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 一緒に遊ぶさそいを 取り消しました"
@@ -2586,19 +2586,19 @@
     "一緒に遊ぶ仲間のさそいを 断りました": "一緒に遊ぶ仲間のさそいを 断りました"
   },
   "863": {
-    "clarity_nt_char_287": "clarity_nt_char_287"
+    "clarity_nt_char_863": "clarity_nt_char_863"
   },
   "864": {
     "プリズンキーで ロックが １つ解除されたニャー！": "プリズンキーで ロックが １つ解除されたニャー！"
   },
   "865": {
-    "clarity_nt_char_288": "clarity_nt_char_288"
+    "clarity_nt_char_865": "clarity_nt_char_865"
   },
   "866": {
     "あと1分で元の場所に戻ります 報酬を受け取りましょう": "あと1分で元の場所に戻ります 報酬を受け取りましょう"
   },
   "867": {
-    "clarity_nt_char_289": "clarity_nt_char_289"
+    "clarity_nt_char_867": "clarity_nt_char_867"
   },
   "868": {
     "結界前に 敵軍が出現！ 警戒せよ！": "結界前に 敵軍が出現！ 警戒せよ！"
@@ -2634,13 +2634,13 @@
     "世界調律クエスト <%sC_STR> 討伐完了！": "世界調律クエスト <%sC_STR> 討伐完了！"
   },
   "879": {
-    "clarity_nt_char_290": "clarity_nt_char_290"
+    "clarity_nt_char_879": "clarity_nt_char_879"
   },
   "880": {
     "世界調律クエスト達成！ 新エテーネの村で報告しよう！": "世界調律クエスト達成！ 新エテーネの村で報告しよう！"
   },
   "881": {
-    "clarity_nt_char_291": "clarity_nt_char_291"
+    "clarity_nt_char_881": "clarity_nt_char_881"
   },
   "882": {
     "エントリーをやめました": "エントリーをやめました"
@@ -2649,13 +2649,13 @@
     "あと<%dC_N1>分で スタートします": "あと<%dC_N1>分で スタートします"
   },
   "884": {
-    "clarity_nt_char_292": "clarity_nt_char_292"
+    "clarity_nt_char_884": "clarity_nt_char_884"
   },
   "885": {
     "スタートしました": "スタートしました"
   },
   "886": {
-    "clarity_nt_char_293": "clarity_nt_char_293"
+    "clarity_nt_char_886": "clarity_nt_char_886"
   },
   "887": {
     "タイムオーバー！　レース失格となります": "タイムオーバー！　レース失格となります"
@@ -2664,25 +2664,25 @@
     "レースを棄権しました": "レースを棄権しました"
   },
   "889": {
-    "clarity_nt_char_294": "clarity_nt_char_294"
+    "clarity_nt_char_889": "clarity_nt_char_889"
   },
   "890": {
     "中間地点を通過しました！ <%dC_N1>位／<%dC_N2>人": "中間地点を通過しました！ <%dC_N1>位／<%dC_N2>人"
   },
   "891": {
-    "clarity_nt_char_295": "clarity_nt_char_295"
+    "clarity_nt_char_891": "clarity_nt_char_891"
   },
   "892": {
     "ゴールしました おめでとう！": "ゴールしました おめでとう！"
   },
   "893": {
-    "clarity_nt_char_296": "clarity_nt_char_296"
+    "clarity_nt_char_893": "clarity_nt_char_893"
   },
   "894": {
     "スコア<%dC_N1>ｐ": "スコア<%dC_N1>ｐ"
   },
   "895": {
-    "clarity_nt_char_297": "clarity_nt_char_297"
+    "clarity_nt_char_895": "clarity_nt_char_895"
   },
   "896": {
     "世界調律クエスト <%sC_STR> 討伐完了……": "世界調律クエスト <%sC_STR> 討伐完了……"
@@ -2691,13 +2691,13 @@
     "<%sC_STR>とは　既に　すてきなめぐりあい済です！": "<%sC_STR>とは　既に　すてきなめぐりあい済です！"
   },
   "898": {
-    "clarity_nt_char_298": "clarity_nt_char_298"
+    "clarity_nt_char_898": "clarity_nt_char_898"
   },
   "899": {
     "いにしえのゼルメア地下５階の探索に さそわれました！": "いにしえのゼルメア地下５階の探索に さそわれました！"
   },
   "900": {
-    "clarity_nt_char_299": "clarity_nt_char_299"
+    "clarity_nt_char_900": "clarity_nt_char_900"
   },
   "901": {
     "いにしえのゼルメア地下10階の探索に さそわれました！": "いにしえのゼルメア地下10階の探索に さそわれました！"
@@ -2709,19 +2709,19 @@
     "ラストスパート！": "ラストスパート！"
   },
   "904": {
-    "clarity_nt_char_300": "clarity_nt_char_300"
+    "clarity_nt_char_904": "clarity_nt_char_904"
   },
   "905": {
     "ベストタイムを狙えそうです！": "ベストタイムを狙えそうです！"
   },
   "906": {
-    "clarity_nt_char_301": "clarity_nt_char_301"
+    "clarity_nt_char_906": "clarity_nt_char_906"
   },
   "907": {
     "まだまだベストタイムは狙えます！": "まだまだベストタイムは狙えます！"
   },
   "908": {
-    "clarity_nt_char_302": "clarity_nt_char_302"
+    "clarity_nt_char_908": "clarity_nt_char_908"
   },
   "909": {
     "パーティリーダーが 別の同期を開始しました": "パーティリーダーが 別の同期を開始しました"
@@ -2733,7 +2733,7 @@
     "あと<%dC_N1>秒で スタートします": "あと<%dC_N1>秒で スタートします"
   },
   "912": {
-    "clarity_nt_char_303": "clarity_nt_char_303"
+    "clarity_nt_char_912": "clarity_nt_char_912"
   },
   "913": {
     "約<%dC_N1>分以内にゴールしないと失格になります": "約<%dC_N1>分以内にゴールしないと失格になります"
@@ -2742,19 +2742,19 @@
     "邪神の宮殿 封剣の門・天獄の扉が開いた！": "邪神の宮殿 封剣の門・天獄の扉が開いた！"
   },
   "915": {
-    "clarity_nt_char_304": "clarity_nt_char_304"
+    "clarity_nt_char_915": "clarity_nt_char_915"
   },
   "916": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・天獄の戦いに誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・天獄の戦いに誘われました"
   },
   "917": {
-    "clarity_nt_char_305": "clarity_nt_char_305"
+    "clarity_nt_char_917": "clarity_nt_char_917"
   },
   "918": {
     "封剣の門・天獄の誘いを取り消した": "封剣の門・天獄の誘いを取り消した"
   },
   "919": {
-    "clarity_nt_char_306": "clarity_nt_char_306"
+    "clarity_nt_char_919": "clarity_nt_char_919"
   },
   "920": {
     "封剣の門・天獄の誘いが時間切れになりました": "封剣の門・天獄の誘いが時間切れになりました"
@@ -2769,7 +2769,7 @@
     "メレアーデの部屋へのお招きを 取り消しました": "メレアーデの部屋へのお招きを 取り消しました"
   },
   "924": {
-    "clarity_nt_char_307": "clarity_nt_char_307"
+    "clarity_nt_char_924": "clarity_nt_char_924"
   },
   "925": {
     "メレアーデの部屋に お招きできませんでした": "メレアーデの部屋に お招きできませんでした"
@@ -2778,19 +2778,19 @@
     "メレアーデの部屋から出たので お招きを取り消しました": "メレアーデの部屋から出たので お招きを取り消しました"
   },
   "927": {
-    "clarity_nt_char_308": "clarity_nt_char_308"
+    "clarity_nt_char_927": "clarity_nt_char_927"
   },
   "928": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから メレアーデのお部屋に招かれました!": "\\s<%sC_PC>\\m<%sC_ID>\\eから メレアーデのお部屋に招かれました!"
   },
   "929": {
-    "clarity_nt_char_309": "clarity_nt_char_309"
+    "clarity_nt_char_929": "clarity_nt_char_929"
   },
   "930": {
     "エテーネの村から出たので　お招きを取り消しました": "エテーネの村から出たので　お招きを取り消しました"
   },
   "931": {
-    "clarity_nt_char_310": "clarity_nt_char_310"
+    "clarity_nt_char_931": "clarity_nt_char_931"
   },
   "932": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが お招きを取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが お招きを取り消しました"
@@ -2802,7 +2802,7 @@
     "よく来たのう。まずはクリスタルを調べてみるのじゃ": "よく来たのう。まずはクリスタルを調べてみるのじゃ"
   },
   "935": {
-    "clarity_nt_char_311": "clarity_nt_char_311"
+    "clarity_nt_char_935": "clarity_nt_char_935"
   },
   "936": {
     "試合が始まるまで このクリスタルで転職ができるのじゃよ": "試合が始まるまで このクリスタルで転職ができるのじゃよ"
@@ -2811,7 +2811,7 @@
     "職業は好きなものを選ぶがよい": "職業は好きなものを選ぶがよい"
   },
   "938": {
-    "clarity_nt_char_312": "clarity_nt_char_312"
+    "clarity_nt_char_938": "clarity_nt_char_938"
   },
   "939": {
     "さぁ 階段を駆け上がってフィールドに向かうのじゃ！": "さぁ 階段を駆け上がってフィールドに向かうのじゃ！"
@@ -2832,7 +2832,7 @@
     "ジュエル納めをしてポイントを獲得するというわけじゃな": "ジュエル納めをしてポイントを獲得するというわけじゃな"
   },
   "945": {
-    "clarity_nt_char_313": "clarity_nt_char_313"
+    "clarity_nt_char_945": "clarity_nt_char_945"
   },
   "946": {
     "出来たかのう？次は真ん中のトライロックに向かうのじゃ！": "出来たかのう？次は真ん中のトライロックに向かうのじゃ！"
@@ -2847,13 +2847,13 @@
     "真ん中のトライロック付近に配置しておいたぞい": "真ん中のトライロック付近に配置しておいたぞい"
   },
   "950": {
-    "clarity_nt_char_314": "clarity_nt_char_314"
+    "clarity_nt_char_950": "clarity_nt_char_950"
   },
   "951": {
     "援軍玉を拾ったら 占領したトライロックで使うのじゃよ": "援軍玉を拾ったら 占領したトライロックで使うのじゃよ"
   },
   "952": {
-    "clarity_nt_char_315": "clarity_nt_char_315"
+    "clarity_nt_char_952": "clarity_nt_char_952"
   },
   "953": {
     "使えたかの？ゴーレムはトライロックを守ってくれるのじゃ": "使えたかの？ゴーレムはトライロックを守ってくれるのじゃ"
@@ -2862,13 +2862,13 @@
     "ふぉふぉふぉ 基本的な動きはこんなもんかのう": "ふぉふぉふぉ 基本的な動きはこんなもんかのう"
   },
   "955": {
-    "clarity_nt_char_316": "clarity_nt_char_316"
+    "clarity_nt_char_955": "clarity_nt_char_955"
   },
   "956": {
     "後は自由に動き回って 40ポイント貯めたら終わりじゃ": "後は自由に動き回って 40ポイント貯めたら終わりじゃ"
   },
   "957": {
-    "clarity_nt_char_317": "clarity_nt_char_317"
+    "clarity_nt_char_957": "clarity_nt_char_957"
   },
   "958": {
     "攻撃の練習用に ばくだん岩を配置しておいたぞい": "攻撃の練習用に ばくだん岩を配置しておいたぞい"
@@ -2877,7 +2877,7 @@
     "ジュエルを拾って トライロックに持ち帰るのじゃ！": "ジュエルを拾って トライロックに持ち帰るのじゃ！"
   },
   "960": {
-    "clarity_nt_char_318": "clarity_nt_char_318"
+    "clarity_nt_char_960": "clarity_nt_char_960"
   },
   "961": {
     "自陣に援軍玉が現れました！": "自陣に援軍玉が現れました！"
@@ -2889,25 +2889,25 @@
     "<%sC_STR>は エテーネの村にいないようでした": "<%sC_STR>は エテーネの村にいないようでした"
   },
   "964": {
-    "clarity_nt_char_319": "clarity_nt_char_319"
+    "clarity_nt_char_964": "clarity_nt_char_964"
   },
   "965": {
     "サーバー０９と１０で モンスターがざわついてる！": "サーバー０９と１０で モンスターがざわついてる！"
   },
   "966": {
-    "clarity_nt_char_320": "clarity_nt_char_320"
+    "clarity_nt_char_966": "clarity_nt_char_966"
   },
   "967": {
     "１０分後ぐらいから メタルーキー軍団が出るかも！": "１０分後ぐらいから メタルーキー軍団が出るかも！"
   },
   "968": {
-    "clarity_nt_char_321": "clarity_nt_char_321"
+    "clarity_nt_char_968": "clarity_nt_char_968"
   },
   "969": {
     "スケジュールは冒険者の広場の つよさ予報をチェック！": "スケジュールは冒険者の広場の つよさ予報をチェック！"
   },
   "970": {
-    "clarity_nt_char_322": "clarity_nt_char_322"
+    "clarity_nt_char_970": "clarity_nt_char_970"
   },
   "971": {
     "サーバー０９と１０に メタルーキー軍団が出現！": "サーバー０９と１０に メタルーキー軍団が出現！"
@@ -2916,19 +2916,19 @@
     "レベルアップのチャンス！ ガンガンバトルしよう！": "レベルアップのチャンス！ ガンガンバトルしよう！"
   },
   "973": {
-    "clarity_nt_char_323": "clarity_nt_char_323"
+    "clarity_nt_char_973": "clarity_nt_char_973"
   },
   "974": {
     "メタルーキー軍団は かえっていった！": "メタルーキー軍団は かえっていった！"
   },
   "975": {
-    "clarity_nt_char_324": "clarity_nt_char_324"
+    "clarity_nt_char_975": "clarity_nt_char_975"
   },
   "976": {
     "バトルトリニティの対抗戦に さそわれました！": "バトルトリニティの対抗戦に さそわれました！"
   },
   "977": {
-    "clarity_nt_char_325": "clarity_nt_char_325"
+    "clarity_nt_char_977": "clarity_nt_char_977"
   },
   "978": {
     "バトルトリニティの練習試合に さそわれました！": "バトルトリニティの練習試合に さそわれました！"
@@ -2940,43 +2940,43 @@
     "バトルトリニティの さそいが時間切れになりました": "バトルトリニティの さそいが時間切れになりました"
   },
   "981": {
-    "clarity_nt_char_326": "clarity_nt_char_326"
+    "clarity_nt_char_981": "clarity_nt_char_981"
   },
   "982": {
     "残り90秒です！": "残り90秒です！"
   },
   "983": {
-    "clarity_nt_char_327": "clarity_nt_char_327"
+    "clarity_nt_char_983": "clarity_nt_char_983"
   },
   "984": {
     "残り30秒です！": "残り30秒です！"
   },
   "985": {
-    "clarity_nt_char_328": "clarity_nt_char_328"
+    "clarity_nt_char_985": "clarity_nt_char_985"
   },
   "986": {
     "試合開始まで あと<%dC_N1>秒です": "試合開始まで あと<%dC_N1>秒です"
   },
   "987": {
-    "clarity_nt_char_329": "clarity_nt_char_329"
+    "clarity_nt_char_987": "clarity_nt_char_987"
   },
   "988": {
     "まもなく 試合が始まります！": "まもなく 試合が始まります！"
   },
   "989": {
-    "clarity_nt_char_330": "clarity_nt_char_330"
+    "clarity_nt_char_989": "clarity_nt_char_989"
   },
   "990": {
     "依頼書クエスト達成！ 討伐隊本部へ報告に行こう！": "依頼書クエスト達成！ 討伐隊本部へ報告に行こう！"
   },
   "991": {
-    "clarity_nt_char_331": "clarity_nt_char_331"
+    "clarity_nt_char_991": "clarity_nt_char_991"
   },
   "992": {
     "ふぉふぉ もうじき始まるぞよ": "ふぉふぉ もうじき始まるぞよ"
   },
   "993": {
-    "clarity_nt_char_332": "clarity_nt_char_332"
+    "clarity_nt_char_993": "clarity_nt_char_993"
   },
   "994": {
     "ジュエル納めは動くと中断されてしまうから注意じゃぞ": "ジュエル納めは動くと中断されてしまうから注意じゃぞ"
@@ -2985,7 +2985,7 @@
     "ジュエルを拾ってトライロックに納める 忘れるでないぞ": "ジュエルを拾ってトライロックに納める 忘れるでないぞ"
   },
   "996": {
-    "clarity_nt_char_333": "clarity_nt_char_333"
+    "clarity_nt_char_996": "clarity_nt_char_996"
   },
   "997": {
     "見事であったぞ さぁ旅の扉から戻ってくるのじゃ": "見事であったぞ さぁ旅の扉から戻ってくるのじゃ"
@@ -2997,37 +2997,37 @@
     "５分以内に ハヤノキの樹液をボンツォに届けよう！": "５分以内に ハヤノキの樹液をボンツォに届けよう！"
   },
   "1000": {
-    "clarity_nt_char_334": "clarity_nt_char_334"
+    "clarity_nt_char_1000": "clarity_nt_char_1000"
   },
   "1001": {
     "ハヤノキの樹液が 気化して 失われました……": "ハヤノキの樹液が 気化して 失われました……"
   },
   "1002": {
-    "clarity_nt_char_335": "clarity_nt_char_335"
+    "clarity_nt_char_1002": "clarity_nt_char_1002"
   },
   "1003": {
     "参加費１０万ポイントを 回収いたしました": "参加費１０万ポイントを 回収いたしました"
   },
   "1004": {
-    "clarity_nt_char_336": "clarity_nt_char_336"
+    "clarity_nt_char_1004": "clarity_nt_char_1004"
   },
   "1005": {
     "第三の霊廟と 第四の霊廟の 謎解きが始まったぜ！": "第三の霊廟と 第四の霊廟の 謎解きが始まったぜ！"
   },
   "1006": {
-    "clarity_nt_char_337": "clarity_nt_char_337"
+    "clarity_nt_char_1006": "clarity_nt_char_1006"
   },
   "1007": {
     "第五の霊廟と 第六の霊廟の 謎解きが始まったぜ！": "第五の霊廟と 第六の霊廟の 謎解きが始まったぜ！"
   },
   "1008": {
-    "clarity_nt_char_338": "clarity_nt_char_338"
+    "clarity_nt_char_1008": "clarity_nt_char_1008"
   },
   "1009": {
     "第七の霊廟と 第八の霊廟の 謎解きが始まったぜ！": "第七の霊廟と 第八の霊廟の 謎解きが始まったぜ！"
   },
   "1010": {
-    "clarity_nt_char_339": "clarity_nt_char_339"
+    "clarity_nt_char_1010": "clarity_nt_char_1010"
   },
   "1011": {
     "第九の霊廟の 謎解きが始まったぜ！": "第九の霊廟の 謎解きが始まったぜ！"
@@ -3036,7 +3036,7 @@
     "フィールドのどこかに はぐれモンスターが 出現しました！": "フィールドのどこかに はぐれモンスターが 出現しました！"
   },
   "1013": {
-    "clarity_nt_char_340": "clarity_nt_char_340"
+    "clarity_nt_char_1013": "clarity_nt_char_1013"
   },
   "1014": {
     "バトルが成立しなかったため 旅の扉が出現しました。": "バトルが成立しなかったため 旅の扉が出現しました。"
@@ -3045,19 +3045,19 @@
     "時間切れにより マップが消滅したため 外に出ます": "時間切れにより マップが消滅したため 外に出ます"
   },
   "1016": {
-    "clarity_nt_char_341": "clarity_nt_char_341"
+    "clarity_nt_char_1016": "clarity_nt_char_1016"
   },
   "1017": {
     "1月31日まで ギフトの 受け取りができます": "1月31日まで ギフトの 受け取りができます"
   },
   "1018": {
-    "clarity_nt_char_342": "clarity_nt_char_342"
+    "clarity_nt_char_1018": "clarity_nt_char_1018"
   },
   "1019": {
     "修練の心得による経験値・特訓アップ期間が終わりました": "修練の心得による経験値・特訓アップ期間が終わりました"
   },
   "1020": {
-    "clarity_nt_char_343": "clarity_nt_char_343"
+    "clarity_nt_char_1020": "clarity_nt_char_1020"
   },
   "1021": {
     "ありがとうキャンペーンは 終了いたしました": "ありがとうキャンペーンは 終了いたしました"
@@ -3072,31 +3072,31 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 一の災壇の挑戦に誘われました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 一の災壇の挑戦に誘われました！"
   },
   "1025": {
-    "clarity_nt_char_344": "clarity_nt_char_344"
+    "clarity_nt_char_1025": "clarity_nt_char_1025"
   },
   "1026": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 二の災壇の挑戦に誘われました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 二の災壇の挑戦に誘われました！"
   },
   "1027": {
-    "clarity_nt_char_345": "clarity_nt_char_345"
+    "clarity_nt_char_1027": "clarity_nt_char_1027"
   },
   "1028": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 三の災壇の挑戦に誘われました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 三の災壇の挑戦に誘われました！"
   },
   "1029": {
-    "clarity_nt_char_346": "clarity_nt_char_346"
+    "clarity_nt_char_1029": "clarity_nt_char_1029"
   },
   "1030": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 四の災壇の挑戦に誘われました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 四の災壇の挑戦に誘われました！"
   },
   "1031": {
-    "clarity_nt_char_347": "clarity_nt_char_347"
+    "clarity_nt_char_1031": "clarity_nt_char_1031"
   },
   "1032": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 五の災壇の挑戦に誘われました！": "\\s<%sC_PC>\\m<%sC_ID>\\eから 五の災壇の挑戦に誘われました！"
   },
   "1033": {
-    "clarity_nt_char_348": "clarity_nt_char_348"
+    "clarity_nt_char_1033": "clarity_nt_char_1033"
   },
   "1034": {
     "災壇に挑戦をする誘いを 断りました": "災壇に挑戦をする誘いを 断りました"
@@ -3105,7 +3105,7 @@
     "災壇に挑戦する誘いを 取り消しました": "災壇に挑戦する誘いを 取り消しました"
   },
   "1036": {
-    "clarity_nt_char_349": "clarity_nt_char_349"
+    "clarity_nt_char_1036": "clarity_nt_char_1036"
   },
   "1037": {
     "災壇に挑戦する誘いが 時間切れになりました": "災壇に挑戦する誘いが 時間切れになりました"
@@ -3117,13 +3117,13 @@
     "※サポート仲間は自動的に待機中になります。|※なかまコマンドでリーダーのサーバーに移動できます。": "※サポート仲間は自動的に待機中になります。|※なかまコマンドでリーダーのサーバーに移動できます。"
   },
   "1040": {
-    "clarity_nt_char_350": "clarity_nt_char_350"
+    "clarity_nt_char_1040": "clarity_nt_char_1040"
   },
   "1041": {
     "<%sC_PC_LUA>のチームに　入りますか？": "<%sC_PC_LUA>のチームに　入りますか？"
   },
   "1042": {
-    "clarity_nt_char_351": "clarity_nt_char_351"
+    "clarity_nt_char_1042": "clarity_nt_char_1042"
   },
   "1043": {
     "<%sC_PC>から フレンド登録を申し込まれました！": "<%sC_PC>から フレンド登録を申し込まれました！"
@@ -3135,19 +3135,19 @@
     "ゲームマスターとの会話を　開始しますか？": "ゲームマスターとの会話を　開始しますか？"
   },
   "1046": {
-    "clarity_nt_char_352": "clarity_nt_char_352"
+    "clarity_nt_char_1046": "clarity_nt_char_1046"
   },
   "1047": {
     "チーム『<%sC_TEAM>』の|リーダーを引き受けますか？": "チーム『<%sC_TEAM>』の|リーダーを引き受けますか？"
   },
   "1048": {
-    "clarity_nt_char_353": "clarity_nt_char_353"
+    "clarity_nt_char_1048": "clarity_nt_char_1048"
   },
   "1049": {
     "<%sC_PC_LUA>は　<%dC_H>時間だけなら|仲間になれるそうです。どうしますか？": "<%sC_PC_LUA>は　<%dC_H>時間だけなら|仲間になれるそうです。どうしますか？"
   },
   "1050": {
-    "clarity_nt_char_354": "clarity_nt_char_354"
+    "clarity_nt_char_1050": "clarity_nt_char_1050"
   },
   "1051": {
     "<%sC_PC_LUA>は　<%dC_M>分だけなら|仲間になれるそうです。どうしますか？": "<%sC_PC_LUA>は　<%dC_M>分だけなら|仲間になれるそうです。どうしますか？"
@@ -3159,7 +3159,7 @@
     "仲間でいる時間を　延長しますか？": "仲間でいる時間を　延長しますか？"
   },
   "1054": {
-    "clarity_nt_char_355": "clarity_nt_char_355"
+    "clarity_nt_char_1054": "clarity_nt_char_1054"
   },
   "1055": {
     "強制終了を　解除しますか？": "強制終了を　解除しますか？"
@@ -3174,7 +3174,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>": "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>"
   },
   "1059": {
-    "clarity_nt_char_356": "clarity_nt_char_356"
+    "clarity_nt_char_1059": "clarity_nt_char_1059"
   },
   "1060": {
     "<%sC_PC_LUA>から パーティ同盟に さそわれました！": "<%sC_PC_LUA>から パーティ同盟に さそわれました！"
@@ -3183,7 +3183,7 @@
     "<%sC_PC_LUA>から 錬金の依頼を 申し込まれました": "<%sC_PC_LUA>から 錬金の依頼を 申し込まれました"
   },
   "1062": {
-    "clarity_nt_char_357": "clarity_nt_char_357"
+    "clarity_nt_char_1062": "clarity_nt_char_1062"
   },
   "1063": {
     "コロシアムに参加しますか？": "コロシアムに参加しますか？"
@@ -3198,19 +3198,19 @@
     "スッパ党との戦いに 行きますか？": "スッパ党との戦いに 行きますか？"
   },
   "1067": {
-    "clarity_nt_char_358": "clarity_nt_char_358"
+    "clarity_nt_char_1067": "clarity_nt_char_1067"
   },
   "1068": {
     "クイズバトルに 行きますか？": "クイズバトルに 行きますか？"
   },
   "1069": {
-    "clarity_nt_char_359": "clarity_nt_char_359"
+    "clarity_nt_char_1069": "clarity_nt_char_1069"
   },
   "1070": {
     "バトルロードに参加しますか？": "バトルロードに参加しますか？"
   },
   "1071": {
-    "clarity_nt_char_360": "clarity_nt_char_360"
+    "clarity_nt_char_1071": "clarity_nt_char_1071"
   },
   "1072": {
     "<%sC_PC>さんと 同じ場所に降りますか？": "<%sC_PC>さんと 同じ場所に降りますか？"
@@ -3219,7 +3219,7 @@
     "不思議の魔塔に 行きますか？": "不思議の魔塔に 行きますか？"
   },
   "1074": {
-    "clarity_nt_char_361": "clarity_nt_char_361"
+    "clarity_nt_char_1074": "clarity_nt_char_1074"
   },
   "1075": {
     "すごろくに 参加しますか？": "すごろくに 参加しますか？"
@@ -3228,13 +3228,13 @@
     "幻想画バトルに 行きますか？": "幻想画バトルに 行きますか？"
   },
   "1077": {
-    "clarity_nt_char_362": "clarity_nt_char_362"
+    "clarity_nt_char_1077": "clarity_nt_char_1077"
   },
   "1078": {
     "雪夜の大広間に 行きますか？": "雪夜の大広間に 行きますか？"
   },
   "1079": {
-    "clarity_nt_char_363": "clarity_nt_char_363"
+    "clarity_nt_char_1079": "clarity_nt_char_1079"
   },
   "1080": {
     "参加を　許可しますか？": "参加を　許可しますか？"
@@ -3243,7 +3243,7 @@
     "<%sC_PC_LUA>のパーティに　参加しますか？": "<%sC_PC_LUA>のパーティに　参加しますか？"
   },
   "1082": {
-    "clarity_nt_char_364": "clarity_nt_char_364"
+    "clarity_nt_char_1082": "clarity_nt_char_1082"
   },
   "1083": {
     "<%sC_PC_LUA>から パーティ同盟に 誘われました": "<%sC_PC_LUA>から パーティ同盟に 誘われました"
@@ -3258,7 +3258,7 @@
     "竜王の城に 行きますか？": "竜王の城に 行きますか？"
   },
   "1087": {
-    "clarity_nt_char_365": "clarity_nt_char_365"
+    "clarity_nt_char_1087": "clarity_nt_char_1087"
   },
   "1088": {
     "詩人の舞台での戦いに 行きますか？": "詩人の舞台での戦いに 行きますか？"
@@ -3270,13 +3270,13 @@
     "パーティ同盟に 誘われました": "パーティ同盟に 誘われました"
   },
   "1091": {
-    "clarity_nt_char_366": "clarity_nt_char_366"
+    "clarity_nt_char_1091": "clarity_nt_char_1091"
   },
   "1092": {
     "幻の海トラシュカの航海に 参加しますか？": "幻の海トラシュカの航海に 参加しますか？"
   },
   "1093": {
-    "clarity_nt_char_367": "clarity_nt_char_367"
+    "clarity_nt_char_1093": "clarity_nt_char_1093"
   },
   "1094": {
     "隠れスライム大会に 参加しますか？": "隠れスライム大会に 参加しますか？"
@@ -3288,7 +3288,7 @@
     "<%sC_STR>の防衛戦に 参加しますか？": "<%sC_STR>の防衛戦に 参加しますか？"
   },
   "1097": {
-    "clarity_nt_char_368": "clarity_nt_char_368"
+    "clarity_nt_char_1097": "clarity_nt_char_1097"
   },
   "1098": {
     "？？？？？？の防衛戦に 参加しますか？": "？？？？？？の防衛戦に 参加しますか？"
@@ -3300,19 +3300,19 @@
     "闇朱の獣牙兵団の防衛戦に 参加しますか？": "闇朱の獣牙兵団の防衛戦に 参加しますか？"
   },
   "1101": {
-    "clarity_nt_char_369": "clarity_nt_char_369"
+    "clarity_nt_char_1101": "clarity_nt_char_1101"
   },
   "1102": {
     "紫炎の鉄機兵団の防衛戦に 参加しますか？": "紫炎の鉄機兵団の防衛戦に 参加しますか？"
   },
   "1103": {
-    "clarity_nt_char_370": "clarity_nt_char_370"
+    "clarity_nt_char_1103": "clarity_nt_char_1103"
   },
   "1104": {
     "深碧の造魔兵団の防衛戦に 参加しますか？": "深碧の造魔兵団の防衛戦に 参加しますか？"
   },
   "1105": {
-    "clarity_nt_char_371": "clarity_nt_char_371"
+    "clarity_nt_char_1105": "clarity_nt_char_1105"
   },
   "1106": {
     "バトエンに 参加しますか？": "バトエンに 参加しますか？"
@@ -3321,7 +3321,7 @@
     "蒼怨の屍獄兵団の防衛戦に 参加しますか？": "蒼怨の屍獄兵団の防衛戦に 参加しますか？"
   },
   "1108": {
-    "clarity_nt_char_372": "clarity_nt_char_372"
+    "clarity_nt_char_1108": "clarity_nt_char_1108"
   },
   "1109": {
     "真夜中プリズランに 参加しますか？": "真夜中プリズランに 参加しますか？"
@@ -3330,7 +3330,7 @@
     "<%sC_PC_LUA>から遊ぶ仲間に さそわれました！": "<%sC_PC_LUA>から遊ぶ仲間に さそわれました！"
   },
   "1111": {
-    "clarity_nt_char_373": "clarity_nt_char_373"
+    "clarity_nt_char_1111": "clarity_nt_char_1111"
   },
   "1112": {
     "パーティ同盟を組んで 航海に参加しますか？": "パーティ同盟を組んで 航海に参加しますか？"
@@ -3339,13 +3339,13 @@
     "メレアーデの部屋に　行きますか？": "メレアーデの部屋に　行きますか？"
   },
   "1114": {
-    "clarity_nt_char_374": "clarity_nt_char_374"
+    "clarity_nt_char_1114": "clarity_nt_char_1114"
   },
   "1115": {
     "銀甲の凶蟲兵団の防衛戦に 参加しますか？": "銀甲の凶蟲兵団の防衛戦に 参加しますか？"
   },
   "1116": {
-    "clarity_nt_char_375": "clarity_nt_char_375"
+    "clarity_nt_char_1116": "clarity_nt_char_1116"
   },
   "1117": {
     "バトルトリニティに 参加しますか？": "バトルトリニティに 参加しますか？"
@@ -3354,31 +3354,31 @@
     "一の災壇に 行きますか？": "一の災壇に 行きますか？"
   },
   "1119": {
-    "clarity_nt_char_376": "clarity_nt_char_376"
+    "clarity_nt_char_1119": "clarity_nt_char_1119"
   },
   "1120": {
     "二の災壇に 行きますか？": "二の災壇に 行きますか？"
   },
   "1121": {
-    "clarity_nt_char_377": "clarity_nt_char_377"
+    "clarity_nt_char_1121": "clarity_nt_char_1121"
   },
   "1122": {
     "三の災壇に 行きますか？": "三の災壇に 行きますか？"
   },
   "1123": {
-    "clarity_nt_char_378": "clarity_nt_char_378"
+    "clarity_nt_char_1123": "clarity_nt_char_1123"
   },
   "1124": {
     "四の災壇に 行きますか？": "四の災壇に 行きますか？"
   },
   "1125": {
-    "clarity_nt_char_379": "clarity_nt_char_379"
+    "clarity_nt_char_1125": "clarity_nt_char_1125"
   },
   "1126": {
     "五の災壇に 行きますか？": "五の災壇に 行きますか？"
   },
   "1127": {
-    "clarity_nt_char_380": "clarity_nt_char_380"
+    "clarity_nt_char_1127": "clarity_nt_char_1127"
   },
   "1128": {
     "取り引きをします。": "取り引きをします。"
@@ -3390,7 +3390,7 @@
     "チーム参加の　返事を送りました！": "チーム参加の　返事を送りました！"
   },
   "1131": {
-    "clarity_nt_char_381": "clarity_nt_char_381"
+    "clarity_nt_char_1131": "clarity_nt_char_1131"
   },
   "1132": {
     "<%sC_PC_LUA>に　フレンド登録ＯＫの|返事を送った！": "<%sC_PC_LUA>に　フレンド登録ＯＫの|返事を送った！"
@@ -3399,7 +3399,7 @@
     "しかし　パーティは　すでに解散していた！": "しかし　パーティは　すでに解散していた！"
   },
   "1134": {
-    "clarity_nt_char_382": "clarity_nt_char_382"
+    "clarity_nt_char_1134": "clarity_nt_char_1134"
   },
   "1135": {
     "チームリーダーを引き受ける返事を|送りました！": "チームリーダーを引き受ける返事を|送りました！"
@@ -3408,25 +3408,25 @@
     "<%sC_PC_LUA>への　さそいは|すでに　取り消されています。": "<%sC_PC_LUA>への　さそいは|すでに　取り消されています。"
   },
   "1137": {
-    "clarity_nt_char_383": "clarity_nt_char_383"
+    "clarity_nt_char_1137": "clarity_nt_char_1137"
   },
   "1138": {
     "目的を<%sC_leader>の目的と合わせました！": "目的を<%sC_leader>の目的と合わせました！"
   },
   "1139": {
-    "clarity_nt_char_384": "clarity_nt_char_384"
+    "clarity_nt_char_1139": "clarity_nt_char_1139"
   },
   "1140": {
     "<%sC_PC_LUA>（<%sC_ID>）とは|すでにフレンドになっています。": "<%sC_PC_LUA>（<%sC_ID>）とは|すでにフレンドになっています。"
   },
   "1141": {
-    "clarity_nt_char_385": "clarity_nt_char_385"
+    "clarity_nt_char_1141": "clarity_nt_char_1141"
   },
   "1142": {
     "<%sC_PC_LUA>の　さそいを断りました。": "<%sC_PC_LUA>の　さそいを断りました。"
   },
   "1143": {
-    "clarity_nt_char_386": "clarity_nt_char_386"
+    "clarity_nt_char_1143": "clarity_nt_char_1143"
   },
   "1144": {
     "依頼書クエストを　これ以上||受けることは　できません！　クエストリストから||依頼書クエストを　キャンセルしてください。": "依頼書クエストを　これ以上||受けることは　できません！　クエストリストから||依頼書クエストを　キャンセルしてください。"
@@ -3447,13 +3447,13 @@
     "バトルロードの　さそいを断った。": "バトルロードの　さそいを断った。"
   },
   "1150": {
-    "clarity_nt_char_387": "clarity_nt_char_387"
+    "clarity_nt_char_1150": "clarity_nt_char_1150"
   },
   "1151": {
     "ついていくのをあきらめました": "ついていくのをあきらめました"
   },
   "1152": {
-    "clarity_nt_char_388": "clarity_nt_char_388"
+    "clarity_nt_char_1152": "clarity_nt_char_1152"
   },
   "1153": {
     "他のメンバーの　返事を待っています。|遊びたいことリストから　参加を取りやめられます。": "他のメンバーの　返事を待っています。|遊びたいことリストから　参加を取りやめられます。"
@@ -3465,7 +3465,7 @@
     "隠れスライム大会の　さそいを断った。": "隠れスライム大会の　さそいを断った。"
   },
   "1156": {
-    "clarity_nt_char_389": "clarity_nt_char_389"
+    "clarity_nt_char_1156": "clarity_nt_char_1156"
   },
   "1157": {
     "<%sC_STR>の防衛戦の　さそいを断った。": "<%sC_STR>の防衛戦の　さそいを断った。"
@@ -3474,13 +3474,13 @@
     "？？？？？？の防衛戦の　さそいを断った。": "？？？？？？の防衛戦の　さそいを断った。"
   },
   "1159": {
-    "clarity_nt_char_390": "clarity_nt_char_390"
+    "clarity_nt_char_1159": "clarity_nt_char_1159"
   },
   "1160": {
     "いにしえのゼルメアの探索の　さそいを断った。": "いにしえのゼルメアの探索の　さそいを断った。"
   },
   "1161": {
-    "clarity_nt_char_391": "clarity_nt_char_391"
+    "clarity_nt_char_1161": "clarity_nt_char_1161"
   },
   "1162": {
     "闇朱の獣牙兵団の防衛戦の　さそいを断った。": "闇朱の獣牙兵団の防衛戦の　さそいを断った。"
@@ -3498,13 +3498,13 @@
     "真夜中プリズランの　さそいを断った。": "真夜中プリズランの　さそいを断った。"
   },
   "1167": {
-    "clarity_nt_char_392": "clarity_nt_char_392"
+    "clarity_nt_char_1167": "clarity_nt_char_1167"
   },
   "1168": {
     "メレアーデの部屋の　さそいを断った。": "メレアーデの部屋の　さそいを断った。"
   },
   "1169": {
-    "clarity_nt_char_393": "clarity_nt_char_393"
+    "clarity_nt_char_1169": "clarity_nt_char_1169"
   },
   "1170": {
     "銀甲の凶蟲兵団の防衛戦の　さそいを断った。": "銀甲の凶蟲兵団の防衛戦の　さそいを断った。"
@@ -3513,7 +3513,7 @@
     "バトルトリニティの　さそいを断った。": "バトルトリニティの　さそいを断った。"
   },
   "1172": {
-    "clarity_nt_char_394": "clarity_nt_char_394"
+    "clarity_nt_char_1172": "clarity_nt_char_1172"
   },
   "1173": {
     "一の災壇の挑戦の　さそいを断った。": "一の災壇の挑戦の　さそいを断った。"
@@ -3534,19 +3534,19 @@
     "取り引きを　断りました。": "取り引きを　断りました。"
   },
   "1179": {
-    "clarity_nt_char_395": "clarity_nt_char_395"
+    "clarity_nt_char_1179": "clarity_nt_char_1179"
   },
   "1180": {
     "仲間の人数が　４人以上になったので|仲間になれませんでした。": "仲間の人数が　４人以上になったので|仲間になれませんでした。"
   },
   "1181": {
-    "clarity_nt_char_396": "clarity_nt_char_396"
+    "clarity_nt_char_1181": "clarity_nt_char_1181"
   },
   "1182": {
     "チームの参加を　断りました。": "チームの参加を　断りました。"
   },
   "1183": {
-    "clarity_nt_char_397": "clarity_nt_char_397"
+    "clarity_nt_char_1183": "clarity_nt_char_1183"
   },
   "1184": {
     "<%sC_PC_LUA>を　フレンドリストに|登録しませんでした。": "<%sC_PC_LUA>を　フレンドリストに|登録しませんでした。"
@@ -3555,13 +3555,13 @@
     "仲間でいる時間を　延長できなかった！": "仲間でいる時間を　延長できなかった！"
   },
   "1186": {
-    "clarity_nt_char_398": "clarity_nt_char_398"
+    "clarity_nt_char_1186": "clarity_nt_char_1186"
   },
   "1187": {
     "チームリーダーの交代を　断りました。": "チームリーダーの交代を　断りました。"
   },
   "1188": {
-    "clarity_nt_char_399": "clarity_nt_char_399"
+    "clarity_nt_char_1188": "clarity_nt_char_1188"
   },
   "1189": {
     "<%sC_PC_LUA>（<%sC_ID>）の|フレンドリストが　いっぱいでした。": "<%sC_PC_LUA>（<%sC_ID>）の|フレンドリストが　いっぱいでした。"
@@ -3576,13 +3576,13 @@
     "<%sC_PC_LUA>が 遠すぎます。": "<%sC_PC_LUA>が 遠すぎます。"
   },
   "1193": {
-    "clarity_nt_char_400": "clarity_nt_char_400"
+    "clarity_nt_char_1193": "clarity_nt_char_1193"
   },
   "1194": {
     "既に　無効なさそいに　なっています。": "既に　無効なさそいに　なっています。"
   },
   "1195": {
-    "clarity_nt_char_401": "clarity_nt_char_401"
+    "clarity_nt_char_1195": "clarity_nt_char_1195"
   },
   "1196": {
     "ついていけませんでした": "ついていけませんでした"
@@ -3591,7 +3591,7 @@
     "今は　仲間に入ることが　できません。": "今は　仲間に入ることが　できません。"
   },
   "1198": {
-    "clarity_nt_char_402": "clarity_nt_char_402"
+    "clarity_nt_char_1198": "clarity_nt_char_1198"
   },
   "1199": {
     "取り引きは　キャンセルされました。": "取り引きは　キャンセルされました。"
@@ -3600,49 +3600,49 @@
     "戦闘中の人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。": "戦闘中の人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。"
   },
   "1201": {
-    "clarity_nt_char_403": "clarity_nt_char_403"
+    "clarity_nt_char_1201": "clarity_nt_char_1201"
   },
   "1202": {
     "チームが解散していたので|入れませんでした。": "チームが解散していたので|入れませんでした。"
   },
   "1203": {
-    "clarity_nt_char_404": "clarity_nt_char_404"
+    "clarity_nt_char_1203": "clarity_nt_char_1203"
   },
   "1204": {
     "フレンドリストが　いっぱいです！|これ以上　フレンド登録できません。": "フレンドリストが　いっぱいです！|これ以上　フレンド登録できません。"
   },
   "1205": {
-    "clarity_nt_char_405": "clarity_nt_char_405"
+    "clarity_nt_char_1205": "clarity_nt_char_1205"
   },
   "1206": {
     "仲間でいる時間を|<%dC_M>分延長しました。": "仲間でいる時間を|<%dC_M>分延長しました。"
   },
   "1207": {
-    "clarity_nt_char_406": "clarity_nt_char_406"
+    "clarity_nt_char_1207": "clarity_nt_char_1207"
   },
   "1208": {
     "<%sC_PC_LUA>が　仲間に加わった！": "<%sC_PC_LUA>が　仲間に加わった！"
   },
   "1209": {
-    "clarity_nt_char_407": "clarity_nt_char_407"
+    "clarity_nt_char_1209": "clarity_nt_char_1209"
   },
   "1210": {
     "<%sC_PC_LUA>（<%sC_ID>）からの|フレンドのさそいが　取り消されたため|登録できませんでした。": "<%sC_PC_LUA>（<%sC_ID>）からの|フレンドのさそいが　取り消されたため|登録できませんでした。"
   },
   "1211": {
-    "clarity_nt_char_408": "clarity_nt_char_408"
+    "clarity_nt_char_1211": "clarity_nt_char_1211"
   },
   "1212": {
     "人数が　いっぱいのため|チャットルームにの参加に　失敗しました。": "人数が　いっぱいのため|チャットルームにの参加に　失敗しました。"
   },
   "1213": {
-    "clarity_nt_char_409": "clarity_nt_char_409"
+    "clarity_nt_char_1213": "clarity_nt_char_1213"
   },
   "1214": {
     "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。|<me 74>": "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。|<me 74>"
   },
   "1215": {
-    "clarity_nt_char_410": "clarity_nt_char_410"
+    "clarity_nt_char_1215": "clarity_nt_char_1215"
   },
   "1216": {
     "<%sL_SYOKUNIN_TYPE>設備が 遠すぎます。": "<%sL_SYOKUNIN_TYPE>設備が 遠すぎます。"
@@ -3654,7 +3654,7 @@
     "ここでは　バトルロードに　参加できない。|街に戻り　空が見えるところに　いこう。": "ここでは　バトルロードに　参加できない。|街に戻り　空が見えるところに　いこう。"
   },
   "1219": {
-    "clarity_nt_char_411": "clarity_nt_char_411"
+    "clarity_nt_char_1219": "clarity_nt_char_1219"
   },
   "1220": {
     "他の冒険者が仲間にいると　参加できません。": "他の冒険者が仲間にいると　参加できません。"
@@ -3663,19 +3663,19 @@
     "ここでは　バトルロードに　参加できない。": "ここでは　バトルロードに　参加できない。"
   },
   "1222": {
-    "clarity_nt_char_412": "clarity_nt_char_412"
+    "clarity_nt_char_1222": "clarity_nt_char_1222"
   },
   "1223": {
     "もっと相手の近くで　返事をしてください。": "もっと相手の近くで　返事をしてください。"
   },
   "1224": {
-    "clarity_nt_char_413": "clarity_nt_char_413"
+    "clarity_nt_char_1224": "clarity_nt_char_1224"
   },
   "1225": {
     "既に　無効な　さそいになっています。": "既に　無効な　さそいになっています。"
   },
   "1226": {
-    "clarity_nt_char_414": "clarity_nt_char_414"
+    "clarity_nt_char_1226": "clarity_nt_char_1226"
   },
   "1227": {
     "<%sC_PC_LUA>（<%sC_ID>）は|ブラックリストに　登録されているので|フレンドになれない！": "<%sC_PC_LUA>（<%sC_ID>）は|ブラックリストに　登録されているので|フレンドになれない！"
@@ -3693,7 +3693,7 @@
     "錬金の依頼が キャンセルされました。": "錬金の依頼が キャンセルされました。"
   },
   "1232": {
-    "clarity_nt_char_415": "clarity_nt_char_415"
+    "clarity_nt_char_1232": "clarity_nt_char_1232"
   },
   "1233": {
     "参加しないことにしました。": "参加しないことにしました。"
@@ -3702,7 +3702,7 @@
     "パーティ専用エリアにいる人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。": "パーティ専用エリアにいる人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。"
   },
   "1235": {
-    "clarity_nt_char_416": "clarity_nt_char_416"
+    "clarity_nt_char_1235": "clarity_nt_char_1235"
   },
   "1236": {
     "既に　チームに参加しています。": "既に　チームに参加しています。"
@@ -3714,7 +3714,7 @@
     "今は　仲間を抜けることが　できない！": "今は　仲間を抜けることが　できない！"
   },
   "1239": {
-    "clarity_nt_char_417": "clarity_nt_char_417"
+    "clarity_nt_char_1239": "clarity_nt_char_1239"
   },
   "1240": {
     "同時に参加できる　チャットルーム数の|上限に達しています。": "同時に参加できる　チャットルーム数の|上限に達しています。"
@@ -3729,7 +3729,7 @@
     "処理に失敗しました。|時間を置いて　もう一度試してください。": "処理に失敗しました。|時間を置いて　もう一度試してください。"
   },
   "1244": {
-    "clarity_nt_char_418": "clarity_nt_char_418"
+    "clarity_nt_char_1244": "clarity_nt_char_1244"
   },
   "1245": {
     "相手が見つからなかったため|フレンド登録が　できませんでした。": "相手が見つからなかったため|フレンド登録が　できませんでした。"
@@ -3738,7 +3738,7 @@
     "仲間を　抜けました。": "仲間を　抜けました。"
   },
   "1247": {
-    "clarity_nt_char_419": "clarity_nt_char_419"
+    "clarity_nt_char_1247": "clarity_nt_char_1247"
   },
   "1248": {
     "<pc>の使える|<%sL_SYOKUNIN_TYPE>設備が　近くにないため|ここで　錬金はできません。": "<pc>の使える|<%sL_SYOKUNIN_TYPE>設備が　近くにないため|ここで　錬金はできません。"
@@ -3753,7 +3753,7 @@
     "！！！！！！との戦いに|行きますか？": "！！！！！！との戦いに|行きますか？"
   },
   "1252": {
-    "clarity_nt_char_420": "clarity_nt_char_420"
+    "clarity_nt_char_1252": "clarity_nt_char_1252"
   },
   "1253": {
     "封剣の門バトルに 行きますか？": "封剣の門バトルに 行きますか？"
@@ -3762,19 +3762,19 @@
     "バトルロードに 行きますか？": "バトルロードに 行きますか？"
   },
   "1255": {
-    "clarity_nt_char_421": "clarity_nt_char_421"
+    "clarity_nt_char_1255": "clarity_nt_char_1255"
   },
   "1256": {
     "幻の海トラシュカの航海に　参加しますか？": "幻の海トラシュカの航海に　参加しますか？"
   },
   "1257": {
-    "clarity_nt_char_422": "clarity_nt_char_422"
+    "clarity_nt_char_1257": "clarity_nt_char_1257"
   },
   "1258": {
     "<%sC_STR>の防衛戦に　参加しますか？": "<%sC_STR>の防衛戦に　参加しますか？"
   },
   "1259": {
-    "clarity_nt_char_423": "clarity_nt_char_423"
+    "clarity_nt_char_1259": "clarity_nt_char_1259"
   },
   "1260": {
     "？？？？？？の防衛戦に　参加しますか？": "？？？？？？の防衛戦に　参加しますか？"
@@ -3783,31 +3783,31 @@
     "いにしえのゼルメア探索に 参加しますか？": "いにしえのゼルメア探索に 参加しますか？"
   },
   "1262": {
-    "clarity_nt_char_424": "clarity_nt_char_424"
+    "clarity_nt_char_1262": "clarity_nt_char_1262"
   },
   "1263": {
     "闇朱の獣牙兵団の防衛戦に　参加しますか？": "闇朱の獣牙兵団の防衛戦に　参加しますか？"
   },
   "1264": {
-    "clarity_nt_char_425": "clarity_nt_char_425"
+    "clarity_nt_char_1264": "clarity_nt_char_1264"
   },
   "1265": {
     "紫炎の鉄機兵団の防衛戦に　参加しますか？": "紫炎の鉄機兵団の防衛戦に　参加しますか？"
   },
   "1266": {
-    "clarity_nt_char_426": "clarity_nt_char_426"
+    "clarity_nt_char_1266": "clarity_nt_char_1266"
   },
   "1267": {
     "深碧の造魔兵団の防衛戦に　参加しますか？": "深碧の造魔兵団の防衛戦に　参加しますか？"
   },
   "1268": {
-    "clarity_nt_char_427": "clarity_nt_char_427"
+    "clarity_nt_char_1268": "clarity_nt_char_1268"
   },
   "1269": {
     "蒼怨の屍獄兵団の防衛戦に　参加しますか？": "蒼怨の屍獄兵団の防衛戦に　参加しますか？"
   },
   "1270": {
-    "clarity_nt_char_428": "clarity_nt_char_428"
+    "clarity_nt_char_1270": "clarity_nt_char_1270"
   },
   "1271": {
     "真夜中プリズランに　参加しますか？": "真夜中プリズランに　参加しますか？"
@@ -3819,55 +3819,55 @@
     "銀甲の凶蟲兵団の防衛戦に　参加しますか？": "銀甲の凶蟲兵団の防衛戦に　参加しますか？"
   },
   "1274": {
-    "clarity_nt_char_429": "clarity_nt_char_429"
+    "clarity_nt_char_1274": "clarity_nt_char_1274"
   },
   "1275": {
     "一の災壇の挑戦に　参加しますか？": "一の災壇の挑戦に　参加しますか？"
   },
   "1276": {
-    "clarity_nt_char_430": "clarity_nt_char_430"
+    "clarity_nt_char_1276": "clarity_nt_char_1276"
   },
   "1277": {
     "二の災壇の挑戦に　参加しますか？": "二の災壇の挑戦に　参加しますか？"
   },
   "1278": {
-    "clarity_nt_char_431": "clarity_nt_char_431"
+    "clarity_nt_char_1278": "clarity_nt_char_1278"
   },
   "1279": {
     "三の災壇の挑戦に　参加しますか？": "三の災壇の挑戦に　参加しますか？"
   },
   "1280": {
-    "clarity_nt_char_432": "clarity_nt_char_432"
+    "clarity_nt_char_1280": "clarity_nt_char_1280"
   },
   "1281": {
     "四の災壇の挑戦に　参加しますか？": "四の災壇の挑戦に　参加しますか？"
   },
   "1282": {
-    "clarity_nt_char_433": "clarity_nt_char_433"
+    "clarity_nt_char_1282": "clarity_nt_char_1282"
   },
   "1283": {
     "五の災壇の挑戦に　参加しますか？": "五の災壇の挑戦に　参加しますか？"
   },
   "1284": {
-    "clarity_nt_char_434": "clarity_nt_char_434"
+    "clarity_nt_char_1284": "clarity_nt_char_1284"
   },
   "1285": {
     "<%sC_TIME>だけ　仲間に入ると|<%sC_leader>に　伝えました。": "<%sC_TIME>だけ　仲間に入ると|<%sC_leader>に　伝えました。"
   },
   "1286": {
-    "clarity_nt_char_435": "clarity_nt_char_435"
+    "clarity_nt_char_1286": "clarity_nt_char_1286"
   },
   "1287": {
     "目的を<%sC_leader>の目的と合わせますか？": "目的を<%sC_leader>の目的と合わせますか？"
   },
   "1288": {
-    "clarity_nt_char_436": "clarity_nt_char_436"
+    "clarity_nt_char_1288": "clarity_nt_char_1288"
   },
   "1289": {
     "仲間でいる時間を|どのくらい　延長しますか？": "仲間でいる時間を|どのくらい　延長しますか？"
   },
   "1290": {
-    "clarity_nt_char_437": "clarity_nt_char_437"
+    "clarity_nt_char_1290": "clarity_nt_char_1290"
   },
   "1291": {
     "この戦場には 防衛結界が ふたつ存在する！": "この戦場には 防衛結界が ふたつ存在する！"
@@ -3879,37 +3879,37 @@
     "もどりのつばさを支給しているので 役立ててくれ！": "もどりのつばさを支給しているので 役立ててくれ！"
   },
   "1294": {
-    "clarity_nt_char_438": "clarity_nt_char_438"
+    "clarity_nt_char_1294": "clarity_nt_char_1294"
   },
   "1295": {
     "戦場の北側に 敵軍が出現！ 警戒せよ！！": "戦場の北側に 敵軍が出現！ 警戒せよ！！"
   },
   "1296": {
-    "clarity_nt_char_439": "clarity_nt_char_439"
+    "clarity_nt_char_1296": "clarity_nt_char_1296"
   },
   "1297": {
     "戦場の南側に 敵軍が出現！ 警戒せよ！！": "戦場の南側に 敵軍が出現！ 警戒せよ！！"
   },
   "1298": {
-    "clarity_nt_char_440": "clarity_nt_char_440"
+    "clarity_nt_char_1298": "clarity_nt_char_1298"
   },
   "1299": {
     "中央付近の柱の間に 物資を届けましたよ！": "中央付近の柱の間に 物資を届けましたよ！"
   },
   "1300": {
-    "clarity_nt_char_441": "clarity_nt_char_441"
+    "clarity_nt_char_1300": "clarity_nt_char_1300"
   },
   "1301": {
     "東にある砲撃拠点に 物資を届けましたよ！": "東にある砲撃拠点に 物資を届けましたよ！"
   },
   "1302": {
-    "clarity_nt_char_442": "clarity_nt_char_442"
+    "clarity_nt_char_1302": "clarity_nt_char_1302"
   },
   "1303": {
     "東にある砲撃拠点に 大砲の弾を届けましたよ！": "東にある砲撃拠点に 大砲の弾を届けましたよ！"
   },
   "1304": {
-    "clarity_nt_char_443": "clarity_nt_char_443"
+    "clarity_nt_char_1304": "clarity_nt_char_1304"
   },
   "1305": {
     "翠煙の海妖兵団の防衛戦に さそわれました！": "翠煙の海妖兵団の防衛戦に さそわれました！"
@@ -3918,7 +3918,7 @@
     "翠煙の海妖兵団の防衛戦に 参加しますか？": "翠煙の海妖兵団の防衛戦に 参加しますか？"
   },
   "1307": {
-    "clarity_nt_char_444": "clarity_nt_char_444"
+    "clarity_nt_char_1307": "clarity_nt_char_1307"
   },
   "1308": {
     "翠煙の海妖兵団の防衛戦の　さそいを断った。": "翠煙の海妖兵団の防衛戦の　さそいを断った。"
@@ -3927,7 +3927,7 @@
     "翠煙の海妖兵団の防衛戦に　参加しますか？": "翠煙の海妖兵団の防衛戦に　参加しますか？"
   },
   "1310": {
-    "clarity_nt_char_445": "clarity_nt_char_445"
+    "clarity_nt_char_1310": "clarity_nt_char_1310"
   },
   "1311": {
     "そろそろ限界かな？ 逃げ道を作ってやろう！": "そろそろ限界かな？ 逃げ道を作ってやろう！"
@@ -3936,7 +3936,7 @@
     "ほぉ～ら解放したぞ 逃げるなら今だぞ！ ヒヒヒッ": "ほぉ～ら解放したぞ 逃げるなら今だぞ！ ヒヒヒッ"
   },
   "1313": {
-    "clarity_nt_char_446": "clarity_nt_char_446"
+    "clarity_nt_char_1313": "clarity_nt_char_1313"
   },
   "1314": {
     "よかろう……。俺様の本気を　見せてやるイェイ！": "よかろう……。俺様の本気を　見せてやるイェイ！"
@@ -3951,31 +3951,31 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが スボバへの誘いを 取り消した"
   },
   "1318": {
-    "clarity_nt_char_447": "clarity_nt_char_447"
+    "clarity_nt_char_1318": "clarity_nt_char_1318"
   },
   "1319": {
     "スボバに 参加しますか？": "スボバに 参加しますか？"
   },
   "1320": {
-    "clarity_nt_char_448": "clarity_nt_char_448"
+    "clarity_nt_char_1320": "clarity_nt_char_1320"
   },
   "1321": {
     "スコアをリセットしておいたぞ！ ヒヒヒッ": "スコアをリセットしておいたぞ！ ヒヒヒッ"
   },
   "1322": {
-    "clarity_nt_char_449": "clarity_nt_char_449"
+    "clarity_nt_char_1322": "clarity_nt_char_1322"
   },
   "1323": {
     "少し強いやつを追加してやろう！ ヒヒヒッ": "少し強いやつを追加してやろう！ ヒヒヒッ"
   },
   "1324": {
-    "clarity_nt_char_450": "clarity_nt_char_450"
+    "clarity_nt_char_1324": "clarity_nt_char_1324"
   },
   "1325": {
     "ほらほら さらに追加だ コイツを倒せるかな？": "ほらほら さらに追加だ コイツを倒せるかな？"
   },
   "1326": {
-    "clarity_nt_char_451": "clarity_nt_char_451"
+    "clarity_nt_char_1326": "clarity_nt_char_1326"
   },
   "1327": {
     "さらに追加だ！ 休むヒマはないぞ！": "さらに追加だ！ 休むヒマはないぞ！"
@@ -3999,13 +3999,13 @@
     "追加しま～す コイツは強いぞ！ ヒヒヒッ": "追加しま～す コイツは強いぞ！ ヒヒヒッ"
   },
   "1334": {
-    "clarity_nt_char_452": "clarity_nt_char_452"
+    "clarity_nt_char_1334": "clarity_nt_char_1334"
   },
   "1335": {
     "ここまでは想定通り！ だがコイツでどうかな？": "ここまでは想定通り！ だがコイツでどうかな？"
   },
   "1336": {
-    "clarity_nt_char_453": "clarity_nt_char_453"
+    "clarity_nt_char_1336": "clarity_nt_char_1336"
   },
   "1337": {
     "しぶといぞ！ だがコレで終わりだ！": "しぶといぞ！ だがコレで終わりだ！"
@@ -4014,13 +4014,13 @@
     "ここまでくるか普通？ ちょっと本気でいくぞ！": "ここまでくるか普通？ ちょっと本気でいくぞ！"
   },
   "1339": {
-    "clarity_nt_char_454": "clarity_nt_char_454"
+    "clarity_nt_char_1339": "clarity_nt_char_1339"
   },
   "1340": {
     "ムキー！ 今度こそ本気の本気だからな！ いけぇ！": "ムキー！ 今度こそ本気の本気だからな！ いけぇ！"
   },
   "1341": {
-    "clarity_nt_char_455": "clarity_nt_char_455"
+    "clarity_nt_char_1341": "clarity_nt_char_1341"
   },
   "1342": {
     "それでは そなたらの健闘を祈る！！": "それでは そなたらの健闘を祈る！！"
@@ -4038,7 +4038,7 @@
     "異星からの侵略軍の防衛戦に さそわれました！": "異星からの侵略軍の防衛戦に さそわれました！"
   },
   "1347": {
-    "clarity_nt_char_456": "clarity_nt_char_456"
+    "clarity_nt_char_1347": "clarity_nt_char_1347"
   },
   "1348": {
     "異星からの侵略軍の防衛戦に 参加しますか？": "異星からの侵略軍の防衛戦に 参加しますか？"
@@ -4047,7 +4047,7 @@
     "異星からの侵略軍の防衛戦の　さそいを断った。": "異星からの侵略軍の防衛戦の　さそいを断った。"
   },
   "1350": {
-    "clarity_nt_char_457": "clarity_nt_char_457"
+    "clarity_nt_char_1350": "clarity_nt_char_1350"
   },
   "1351": {
     "異星からの侵略軍の防衛戦に　参加しますか？": "異星からの侵略軍の防衛戦に　参加しますか？"
@@ -4056,13 +4056,13 @@
     "酒場前の中央広場に 物資を届けましたよ！": "酒場前の中央広場に 物資を届けましたよ！"
   },
   "1353": {
-    "clarity_nt_char_458": "clarity_nt_char_458"
+    "clarity_nt_char_1353": "clarity_nt_char_1353"
   },
   "1354": {
     "西にある桟橋の前に 物資を届けましたよ！": "西にある桟橋の前に 物資を届けましたよ！"
   },
   "1355": {
-    "clarity_nt_char_459": "clarity_nt_char_459"
+    "clarity_nt_char_1355": "clarity_nt_char_1355"
   },
   "1356": {
     "両者 そこまでだ……！": "両者 そこまでだ……！"
@@ -4074,13 +4074,13 @@
     "60秒後 退出を選んでいない仲間を置いて 退出します": "60秒後 退出を選んでいない仲間を置いて 退出します"
   },
   "1359": {
-    "clarity_nt_char_460": "clarity_nt_char_460"
+    "clarity_nt_char_1359": "clarity_nt_char_1359"
   },
   "1360": {
     "一緒に退出しなかった仲間は パーティから抜けます": "一緒に退出しなかった仲間は パーティから抜けます"
   },
   "1361": {
-    "clarity_nt_char_461": "clarity_nt_char_461"
+    "clarity_nt_char_1361": "clarity_nt_char_1361"
   },
   "1362": {
     "退出を選んでいない仲間を置いて 退出します": "退出を選んでいない仲間を置いて 退出します"
@@ -4098,7 +4098,7 @@
     "輝晶獣ゾルゾムとのバトルに誘われました！": "輝晶獣ゾルゾムとのバトルに誘われました！"
   },
   "1367": {
-    "clarity_nt_char_462": "clarity_nt_char_462"
+    "clarity_nt_char_1367": "clarity_nt_char_1367"
   },
   "1368": {
     "輝晶獣ゾルゾムとのバトルに 参加しますか？": "輝晶獣ゾルゾムとのバトルに 参加しますか？"
@@ -4107,7 +4107,7 @@
     "輝晶獣ゾルゾムとのバトルの　さそいを断った。": "輝晶獣ゾルゾムとのバトルの　さそいを断った。"
   },
   "1370": {
-    "clarity_nt_char_463": "clarity_nt_char_463"
+    "clarity_nt_char_1370": "clarity_nt_char_1370"
   },
   "1371": {
     "クローバーバッグに有効期限の近いアイテムがあります": "クローバーバッグに有効期限の近いアイテムがあります"
@@ -4116,7 +4116,7 @@
     "クローバーバッグに有効期限の切れたアイテムがあります": "クローバーバッグに有効期限の切れたアイテムがあります"
   },
   "1373": {
-    "clarity_nt_char_464": "clarity_nt_char_464"
+    "clarity_nt_char_1373": "clarity_nt_char_1373"
   },
   "1374": {
     "クローバーバッグにアイテムが追加されました": "クローバーバッグにアイテムが追加されました"
@@ -4128,13 +4128,13 @@
     "輝晶獣ボイボゥとのバトルに誘われました！": "輝晶獣ボイボゥとのバトルに誘われました！"
   },
   "1377": {
-    "clarity_nt_char_465": "clarity_nt_char_465"
+    "clarity_nt_char_1377": "clarity_nt_char_1377"
   },
   "1378": {
     "輝晶獣ドグドラとのバトルに誘われました！": "輝晶獣ドグドラとのバトルに誘われました！"
   },
   "1379": {
-    "clarity_nt_char_466": "clarity_nt_char_466"
+    "clarity_nt_char_1379": "clarity_nt_char_1379"
   },
   "1380": {
     "輝晶獣ボイボゥとのバトルに 参加しますか？": "輝晶獣ボイボゥとのバトルに 参加しますか？"
@@ -4158,19 +4158,19 @@
     "バトルに必要な素材を消費しました": "バトルに必要な素材を消費しました"
   },
   "1387": {
-    "clarity_nt_char_467": "clarity_nt_char_467"
+    "clarity_nt_char_1387": "clarity_nt_char_1387"
   },
   "1388": {
     "輝晶獣とのバトルの誘いを 断りました": "輝晶獣とのバトルの誘いを 断りました"
   },
   "1389": {
-    "clarity_nt_char_468": "clarity_nt_char_468"
+    "clarity_nt_char_1389": "clarity_nt_char_1389"
   },
   "1390": {
     "輝晶獣とのバトルの誘いを 取り消しました": "輝晶獣とのバトルの誘いを 取り消しました"
   },
   "1391": {
-    "clarity_nt_char_469": "clarity_nt_char_469"
+    "clarity_nt_char_1391": "clarity_nt_char_1391"
   },
   "1392": {
     "輝晶獣とのバトルの誘いが 時間切れになりました": "輝晶獣とのバトルの誘いが 時間切れになりました"
@@ -4185,7 +4185,7 @@
     "エンゼル出現中！　チャンスゲージが大きく貯まるデュ！": "エンゼル出現中！　チャンスゲージが大きく貯まるデュ！"
   },
   "1396": {
-    "clarity_nt_char_470": "clarity_nt_char_470"
+    "clarity_nt_char_1396": "clarity_nt_char_1396"
   },
   "1397": {
     "修練の心得の効果が もうすぐ切れます！": "修練の心得の効果が もうすぐ切れます！"
@@ -4194,13 +4194,13 @@
     "輝晶獣ボイボゥとのバトルの　さそいを断った。": "輝晶獣ボイボゥとのバトルの　さそいを断った。"
   },
   "1399": {
-    "clarity_nt_char_471": "clarity_nt_char_471"
+    "clarity_nt_char_1399": "clarity_nt_char_1399"
   },
   "1400": {
     "輝晶獣ドグドラとのバトルの　さそいを断った。": "輝晶獣ドグドラとのバトルの　さそいを断った。"
   },
   "1401": {
-    "clarity_nt_char_472": "clarity_nt_char_472"
+    "clarity_nt_char_1401": "clarity_nt_char_1401"
   },
   "1402": {
     "パーティリーダー不在のため マップの外に出ます": "パーティリーダー不在のため マップの外に出ます"
@@ -4212,7 +4212,7 @@
     "彩虹の粘塊兵団の防衛戦に 参加しますか？": "彩虹の粘塊兵団の防衛戦に 参加しますか？"
   },
   "1405": {
-    "clarity_nt_char_473": "clarity_nt_char_473"
+    "clarity_nt_char_1405": "clarity_nt_char_1405"
   },
   "1406": {
     "彩虹の粘塊兵団の防衛戦の　さそいを断った。": "彩虹の粘塊兵団の防衛戦の　さそいを断った。"
@@ -4224,7 +4224,7 @@
     "灰塵の竜鱗兵団の防衛戦に 参加しますか？": "灰塵の竜鱗兵団の防衛戦に 参加しますか？"
   },
   "1409": {
-    "clarity_nt_char_474": "clarity_nt_char_474"
+    "clarity_nt_char_1409": "clarity_nt_char_1409"
   },
   "1410": {
     "灰塵の竜鱗兵団の防衛戦の　さそいを断った。": "灰塵の竜鱗兵団の防衛戦の　さそいを断った。"
@@ -4233,7 +4233,7 @@
     "灰塵の竜鱗兵団の防衛戦に　参加しますか？": "灰塵の竜鱗兵団の防衛戦に　参加しますか？"
   },
   "1412": {
-    "clarity_nt_char_475": "clarity_nt_char_475"
+    "clarity_nt_char_1412": "clarity_nt_char_1412"
   },
   "1413": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!": "\\s<%sC_PC>\\m<%sC_ID>\\eから 大富豪に 誘われました!"
@@ -4242,25 +4242,25 @@
     "大富豪の誘いが 時間切れになりました": "大富豪の誘いが 時間切れになりました"
   },
   "1415": {
-    "clarity_nt_char_476": "clarity_nt_char_476"
+    "clarity_nt_char_1415": "clarity_nt_char_1415"
   },
   "1416": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪の誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪の誘いを取り消した"
   },
   "1417": {
-    "clarity_nt_char_477": "clarity_nt_char_477"
+    "clarity_nt_char_1417": "clarity_nt_char_1417"
   },
   "1418": {
     "大富豪に 参加しますか？": "大富豪に 参加しますか？"
   },
   "1419": {
-    "clarity_nt_char_478": "clarity_nt_char_478"
+    "clarity_nt_char_1419": "clarity_nt_char_1419"
   },
   "1420": {
     "イルーシャの絵が追加されました！": "イルーシャの絵が追加されました！"
   },
   "1421": {
-    "clarity_nt_char_479": "clarity_nt_char_479"
+    "clarity_nt_char_1421": "clarity_nt_char_1421"
   },
   "1422": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから 模擬戦に誘われました": "\\s<%sC_PC>\\m<%sC_ID>\\eから 模擬戦に誘われました"
@@ -4272,19 +4272,19 @@
     "砲台に 大砲の弾を届けましたよ！": "砲台に 大砲の弾を届けましたよ！"
   },
   "1425": {
-    "clarity_nt_char_480": "clarity_nt_char_480"
+    "clarity_nt_char_1425": "clarity_nt_char_1425"
   },
   "1426": {
     "アワウキ貝Ⅱが　浮き上がってきたようだ。": "アワウキ貝Ⅱが　浮き上がってきたようだ。"
   },
   "1427": {
-    "clarity_nt_char_481": "clarity_nt_char_481"
+    "clarity_nt_char_1427": "clarity_nt_char_1427"
   },
   "1428": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました": "\\s<%sC_PC>\\m<%sC_ID>\\eが 大富豪から抜けました"
   },
   "1429": {
-    "clarity_nt_char_482": "clarity_nt_char_482"
+    "clarity_nt_char_1429": "clarity_nt_char_1429"
   },
   "1430": {
     "いにしえのゼルメア地下20階の探索に さそわれました！": "いにしえのゼルメア地下20階の探索に さそわれました！"
@@ -4293,13 +4293,13 @@
     "彩虹の粘塊兵団の防衛戦に　参加しますか？": "彩虹の粘塊兵団の防衛戦に　参加しますか？"
   },
   "1432": {
-    "clarity_nt_char_483": "clarity_nt_char_483"
+    "clarity_nt_char_1432": "clarity_nt_char_1432"
   },
   "1433": {
     "護りの盾アンルシアが 戦闘を一時離脱しました": "護りの盾アンルシアが 戦闘を一時離脱しました"
   },
   "1434": {
-    "clarity_nt_char_484": "clarity_nt_char_484"
+    "clarity_nt_char_1434": "clarity_nt_char_1434"
   },
   "1435": {
     "エピソード依頼『<%sC_STR>』達成！": "エピソード依頼『<%sC_STR>』達成！"
@@ -4308,25 +4308,25 @@
     "まあまあだね。でもここから先はそうはいかないぞ！": "まあまあだね。でもここから先はそうはいかないぞ！"
   },
   "1437": {
-    "clarity_nt_char_485": "clarity_nt_char_485"
+    "clarity_nt_char_1437": "clarity_nt_char_1437"
   },
   "1438": {
     "魔界の本気ってのを見せてやる！ いけぇ！": "魔界の本気ってのを見せてやる！ いけぇ！"
   },
   "1439": {
-    "clarity_nt_char_486": "clarity_nt_char_486"
+    "clarity_nt_char_1439": "clarity_nt_char_1439"
   },
   "1440": {
     "さらに追加だ！ ここから先には進ませないぞ！": "さらに追加だ！ ここから先には進ませないぞ！"
   },
   "1441": {
-    "clarity_nt_char_487": "clarity_nt_char_487"
+    "clarity_nt_char_1441": "clarity_nt_char_1441"
   },
   "1442": {
     "何なんだおまえ強すぎでしょ！ あいつを倒せ！": "何なんだおまえ強すぎでしょ！ あいつを倒せ！"
   },
   "1443": {
-    "clarity_nt_char_488": "clarity_nt_char_488"
+    "clarity_nt_char_1443": "clarity_nt_char_1443"
   },
   "1444": {
     "認めたくない！ 絶対ここで終わらせる いけぇ！": "認めたくない！ 絶対ここで終わらせる いけぇ！"
@@ -4341,25 +4341,25 @@
     "模擬戦のエントリーが 解除されました": "模擬戦のエントリーが 解除されました"
   },
   "1448": {
-    "clarity_nt_char_489": "clarity_nt_char_489"
+    "clarity_nt_char_1448": "clarity_nt_char_1448"
   },
   "1449": {
     "お宝が流れてきたぞ！　ひろうんだー！": "お宝が流れてきたぞ！　ひろうんだー！"
   },
   "1450": {
-    "clarity_nt_char_490": "clarity_nt_char_490"
+    "clarity_nt_char_1450": "clarity_nt_char_1450"
   },
   "1451": {
     "お宝を持ってガテリア号に急いでくれ！": "お宝を持ってガテリア号に急いでくれ！"
   },
   "1452": {
-    "clarity_nt_char_491": "clarity_nt_char_491"
+    "clarity_nt_char_1452": "clarity_nt_char_1452"
   },
   "1453": {
     "パーツの近くまで転送する。移動に備えるんだ！": "パーツの近くまで転送する。移動に備えるんだ！"
   },
   "1454": {
-    "clarity_nt_char_492": "clarity_nt_char_492"
+    "clarity_nt_char_1454": "clarity_nt_char_1454"
   },
   "1455": {
     "修理に使うパーツをみんなで集めてくれ！": "修理に使うパーツをみんなで集めてくれ！"
@@ -4368,7 +4368,7 @@
     "お宝さがしの前に　まずは潜水艇の修理だ！": "お宝さがしの前に　まずは潜水艇の修理だ！"
   },
   "1457": {
-    "clarity_nt_char_493": "clarity_nt_char_493"
+    "clarity_nt_char_1457": "clarity_nt_char_1457"
   },
   "1458": {
     "海底探索ガテリア号に誘われました！": "海底探索ガテリア号に誘われました！"
@@ -4377,13 +4377,13 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが ガテリア号のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが ガテリア号のさそいを 取り消しました"
   },
   "1460": {
-    "clarity_nt_char_494": "clarity_nt_char_494"
+    "clarity_nt_char_1460": "clarity_nt_char_1460"
   },
   "1461": {
     "海底探索ガテリア号のさそいが時間切れになりました": "海底探索ガテリア号のさそいが時間切れになりました"
   },
   "1462": {
-    "clarity_nt_char_495": "clarity_nt_char_495"
+    "clarity_nt_char_1462": "clarity_nt_char_1462"
   },
   "1463": {
     "始まったら自分が担当するパーツを確認するんだ！": "始まったら自分が担当するパーツを確認するんだ！"
@@ -4395,7 +4395,7 @@
     "アビサルシャークの群れがきたぞ！": "アビサルシャークの群れがきたぞ！"
   },
   "1466": {
-    "clarity_nt_char_496": "clarity_nt_char_496"
+    "clarity_nt_char_1466": "clarity_nt_char_1466"
   },
   "1467": {
     "またまたアビサルシャークだ。注意しろ！": "またまたアビサルシャークだ。注意しろ！"
@@ -4404,7 +4404,7 @@
     "すごい数のアビサルシャークが来たぞ！": "すごい数のアビサルシャークが来たぞ！"
   },
   "1469": {
-    "clarity_nt_char_497": "clarity_nt_char_497"
+    "clarity_nt_char_1469": "clarity_nt_char_1469"
   },
   "1470": {
     "ガテリア号の近くにスタン弾をおいたぞ！": "ガテリア号の近くにスタン弾をおいたぞ！"
@@ -4416,25 +4416,25 @@
     "これが最後の群れだ。がんばってくれ！": "これが最後の群れだ。がんばってくれ！"
   },
   "1473": {
-    "clarity_nt_char_498": "clarity_nt_char_498"
+    "clarity_nt_char_1473": "clarity_nt_char_1473"
   },
   "1474": {
     "出発するぞ！　はやく戻ってくれ！": "出発するぞ！　はやく戻ってくれ！"
   },
   "1475": {
-    "clarity_nt_char_499": "clarity_nt_char_499"
+    "clarity_nt_char_1475": "clarity_nt_char_1475"
   },
   "1476": {
     "時間利用券の残り時間 あと<%dC_M>分です！": "時間利用券の残り時間 あと<%dC_M>分です！"
   },
   "1477": {
-    "clarity_nt_char_500": "clarity_nt_char_500"
+    "clarity_nt_char_1477": "clarity_nt_char_1477"
   },
   "1478": {
     "海底探索ガテリア号に 参加しますか？": "海底探索ガテリア号に 参加しますか？"
   },
   "1479": {
-    "clarity_nt_char_501": "clarity_nt_char_501"
+    "clarity_nt_char_1479": "clarity_nt_char_1479"
   },
   "1480": {
     "海底探索ガテリア号の　さそいを断った。": "海底探索ガテリア号の　さそいを断った。"
@@ -4443,49 +4443,49 @@
     "海底探索ガテリア号に　参加しますか？": "海底探索ガテリア号に　参加しますか？"
   },
   "1482": {
-    "clarity_nt_char_502": "clarity_nt_char_502"
+    "clarity_nt_char_1482": "clarity_nt_char_1482"
   },
   "1483": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに パーティ同盟のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに パーティ同盟のさそいを 断られました"
   },
   "1484": {
-    "clarity_nt_char_503": "clarity_nt_char_503"
+    "clarity_nt_char_1484": "clarity_nt_char_1484"
   },
   "1485": {
     "封剣の門・一獄の誘いが 断られました": "封剣の門・一獄の誘いが 断られました"
   },
   "1486": {
-    "clarity_nt_char_504": "clarity_nt_char_504"
+    "clarity_nt_char_1486": "clarity_nt_char_1486"
   },
   "1487": {
     "封剣の門・二獄の誘いが 断られました": "封剣の門・二獄の誘いが 断られました"
   },
   "1488": {
-    "clarity_nt_char_505": "clarity_nt_char_505"
+    "clarity_nt_char_1488": "clarity_nt_char_1488"
   },
   "1489": {
     "封剣の門・三獄の誘いが 断られました": "封剣の門・三獄の誘いが 断られました"
   },
   "1490": {
-    "clarity_nt_char_506": "clarity_nt_char_506"
+    "clarity_nt_char_1490": "clarity_nt_char_1490"
   },
   "1491": {
     "封剣の門・四獄の誘いが 断られました": "封剣の門・四獄の誘いが 断られました"
   },
   "1492": {
-    "clarity_nt_char_507": "clarity_nt_char_507"
+    "clarity_nt_char_1492": "clarity_nt_char_1492"
   },
   "1493": {
     "封剣の門・天獄の誘いが 断られました": "封剣の門・天獄の誘いが 断られました"
   },
   "1494": {
-    "clarity_nt_char_508": "clarity_nt_char_508"
+    "clarity_nt_char_1494": "clarity_nt_char_1494"
   },
   "1495": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 一緒に遊ぶさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 一緒に遊ぶさそいを 断られました"
   },
   "1496": {
-    "clarity_nt_char_509": "clarity_nt_char_509"
+    "clarity_nt_char_1496": "clarity_nt_char_1496"
   },
   "1497": {
     "対戦相手指定を断られました": "対戦相手指定を断られました"
@@ -4494,19 +4494,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 航海のさそいを 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 航海のさそいを 断られました"
   },
   "1499": {
-    "clarity_nt_char_510": "clarity_nt_char_510"
+    "clarity_nt_char_1499": "clarity_nt_char_1499"
   },
   "1500": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eが バトルロードのさそいを取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\eが バトルロードのさそいを取り消しました"
   },
   "1501": {
-    "clarity_nt_char_511": "clarity_nt_char_511"
+    "clarity_nt_char_1501": "clarity_nt_char_1501"
   },
   "1502": {
     "バトルトリニティのさそいが 断られました": "バトルトリニティのさそいが 断られました"
   },
   "1503": {
-    "clarity_nt_char_512": "clarity_nt_char_512"
+    "clarity_nt_char_1503": "clarity_nt_char_1503"
   },
   "1504": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 模擬戦を 断られました": "\\s<%sC_PC>\\m<%sC_ID>\\eに 模擬戦を 断られました"
@@ -4515,7 +4515,7 @@
     "ウォータースライダーに誘われました！": "ウォータースライダーに誘われました！"
   },
   "1506": {
-    "clarity_nt_char_513": "clarity_nt_char_513"
+    "clarity_nt_char_1506": "clarity_nt_char_1506"
   },
   "1507": {
     "ウォータースライダーに 参加しますか？": "ウォータースライダーに 参加しますか？"
@@ -4524,7 +4524,7 @@
     "ウォータースライダーの　さそいを断った。": "ウォータースライダーの　さそいを断った。"
   },
   "1509": {
-    "clarity_nt_char_514": "clarity_nt_char_514"
+    "clarity_nt_char_1509": "clarity_nt_char_1509"
   },
   "1510": {
     "フェスタ・インフェルノが 開催されました！": "フェスタ・インフェルノが 開催されました！"
@@ -4533,19 +4533,19 @@
     "常闇の竜レグナードとのバトルに誘われました!": "常闇の竜レグナードとのバトルに誘われました!"
   },
   "1512": {
-    "clarity_nt_char_515": "clarity_nt_char_515"
+    "clarity_nt_char_1512": "clarity_nt_char_1512"
   },
   "1513": {
     "合流に遅れている乗組員をもう少し待ってくれ！": "合流に遅れている乗組員をもう少し待ってくれ！"
   },
   "1514": {
-    "clarity_nt_char_516": "clarity_nt_char_516"
+    "clarity_nt_char_1514": "clarity_nt_char_1514"
   },
   "1515": {
     "ウォータースライダーへの誘いが 時間切れになりました": "ウォータースライダーへの誘いが 時間切れになりました"
   },
   "1516": {
-    "clarity_nt_char_517": "clarity_nt_char_517"
+    "clarity_nt_char_1516": "clarity_nt_char_1516"
   },
   "1517": {
     "ウォータースライダーへの誘いが 取り消されました　": "ウォータースライダーへの誘いが 取り消されました　"
@@ -4560,19 +4560,19 @@
     "冥骸魔レギルラッゾたちとのバトルに誘われました!": "冥骸魔レギルラッゾたちとのバトルに誘われました!"
   },
   "1521": {
-    "clarity_nt_char_518": "clarity_nt_char_518"
+    "clarity_nt_char_1521": "clarity_nt_char_1521"
   },
   "1522": {
     "紅殻魔スコルパイドとのバトルに誘われました!": "紅殻魔スコルパイドとのバトルに誘われました!"
   },
   "1523": {
-    "clarity_nt_char_519": "clarity_nt_char_519"
+    "clarity_nt_char_1523": "clarity_nt_char_1523"
   },
   "1524": {
     "翠将鬼ジェルザークとのバトルに誘われました!": "翠将鬼ジェルザークとのバトルに誘われました!"
   },
   "1525": {
-    "clarity_nt_char_520": "clarity_nt_char_520"
+    "clarity_nt_char_1525": "clarity_nt_char_1525"
   },
   "1526": {
     "剛獣鬼ガルドドンとのバトルに誘われました!": "剛獣鬼ガルドドンとのバトルに誘われました!"
@@ -4581,7 +4581,7 @@
     "邪蒼鎧デルメゼとのバトルに誘われました!": "邪蒼鎧デルメゼとのバトルに誘われました!"
   },
   "1528": {
-    "clarity_nt_char_521": "clarity_nt_char_521"
+    "clarity_nt_char_1528": "clarity_nt_char_1528"
   },
   "1529": {
     "羅刹王バラシュナとのバトルに誘われました!": "羅刹王バラシュナとのバトルに誘われました!"
@@ -4590,13 +4590,13 @@
     "フェスタ・インフェルノの誘いが 時間切れになりました": "フェスタ・インフェルノの誘いが 時間切れになりました"
   },
   "1531": {
-    "clarity_nt_char_522": "clarity_nt_char_522"
+    "clarity_nt_char_1531": "clarity_nt_char_1531"
   },
   "1532": {
     "フェスタ・インフェルノの誘いが 取り消されました": "フェスタ・インフェルノの誘いが 取り消されました"
   },
   "1533": {
-    "clarity_nt_char_523": "clarity_nt_char_523"
+    "clarity_nt_char_1533": "clarity_nt_char_1533"
   },
   "1534": {
     "<%dC_N1>分以内に赤柱に触れないと このマップから退出します": "<%dC_N1>分以内に赤柱に触れないと このマップから退出します"
@@ -4608,13 +4608,13 @@
     "ダークキングとのバトルに 参加しますか？": "ダークキングとのバトルに 参加しますか？"
   },
   "1537": {
-    "clarity_nt_char_524": "clarity_nt_char_524"
+    "clarity_nt_char_1537": "clarity_nt_char_1537"
   },
   "1538": {
     "海冥主メイヴとのバトルに 参加しますか？": "海冥主メイヴとのバトルに 参加しますか？"
   },
   "1539": {
-    "clarity_nt_char_525": "clarity_nt_char_525"
+    "clarity_nt_char_1539": "clarity_nt_char_1539"
   },
   "1540": {
     "冥骸魔レギルラッゾたちとのバトルに 参加しますか？": "冥骸魔レギルラッゾたちとのバトルに 参加しますか？"
@@ -4629,7 +4629,7 @@
     "剛獣鬼ガルドドンとのバトルに 参加しますか？": "剛獣鬼ガルドドンとのバトルに 参加しますか？"
   },
   "1544": {
-    "clarity_nt_char_526": "clarity_nt_char_526"
+    "clarity_nt_char_1544": "clarity_nt_char_1544"
   },
   "1545": {
     "邪蒼鎧デルメゼとのバトルに 参加しますか？": "邪蒼鎧デルメゼとのバトルに 参加しますか？"
@@ -4638,13 +4638,13 @@
     "羅刹王バラシュナとのバトルに 参加しますか？": "羅刹王バラシュナとのバトルに 参加しますか？"
   },
   "1547": {
-    "clarity_nt_char_527": "clarity_nt_char_527"
+    "clarity_nt_char_1547": "clarity_nt_char_1547"
   },
   "1548": {
     "常闇の竜レグナードに 参加しますか？": "常闇の竜レグナードに 参加しますか？"
   },
   "1549": {
-    "clarity_nt_char_528": "clarity_nt_char_528"
+    "clarity_nt_char_1549": "clarity_nt_char_1549"
   },
   "1550": {
     "ダークキングに 参加しますか？": "ダークキングに 参加しますか？"
@@ -4656,19 +4656,19 @@
     "冥骸魔レギルラッゾに 参加しますか？": "冥骸魔レギルラッゾに 参加しますか？"
   },
   "1553": {
-    "clarity_nt_char_529": "clarity_nt_char_529"
+    "clarity_nt_char_1553": "clarity_nt_char_1553"
   },
   "1554": {
     "紅殻魔スコルパイドに 参加しますか？": "紅殻魔スコルパイドに 参加しますか？"
   },
   "1555": {
-    "clarity_nt_char_530": "clarity_nt_char_530"
+    "clarity_nt_char_1555": "clarity_nt_char_1555"
   },
   "1556": {
     "翠将鬼ジェルザークに 参加しますか？": "翠将鬼ジェルザークに 参加しますか？"
   },
   "1557": {
-    "clarity_nt_char_531": "clarity_nt_char_531"
+    "clarity_nt_char_1557": "clarity_nt_char_1557"
   },
   "1558": {
     "剛獣鬼ガルドドンに 参加しますか？": "剛獣鬼ガルドドンに 参加しますか？"
@@ -4677,7 +4677,7 @@
     "邪蒼鎧デルメゼに 参加しますか？": "邪蒼鎧デルメゼに 参加しますか？"
   },
   "1560": {
-    "clarity_nt_char_532": "clarity_nt_char_532"
+    "clarity_nt_char_1560": "clarity_nt_char_1560"
   },
   "1561": {
     "羅刹王バラシュナに 参加しますか？": "羅刹王バラシュナに 参加しますか？"
@@ -4686,19 +4686,19 @@
     "<%dC_N1>分後 準備完了していない仲間は パーティから抜けます": "<%dC_N1>分後 準備完了していない仲間は パーティから抜けます"
   },
   "1563": {
-    "clarity_nt_char_533": "clarity_nt_char_533"
+    "clarity_nt_char_1563": "clarity_nt_char_1563"
   },
   "1564": {
     "配信禁止シーンに入ったので 配信中設定が解除されます": "配信禁止シーンに入ったので 配信中設定が解除されます"
   },
   "1565": {
-    "clarity_nt_char_534": "clarity_nt_char_534"
+    "clarity_nt_char_1565": "clarity_nt_char_1565"
   },
   "1566": {
     "すみやかに配信を停止してください": "すみやかに配信を停止してください"
   },
   "1567": {
-    "clarity_nt_char_535": "clarity_nt_char_535"
+    "clarity_nt_char_1567": "clarity_nt_char_1567"
   },
   "1568": {
     "配信OK以外のサーバーでは 配信中設定が解除されます": "配信OK以外のサーバーでは 配信中設定が解除されます"

@@ -3,7 +3,7 @@
     "チームからはずす": "チームからはずす"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "フレンドからはずす": "フレンドからはずす"
@@ -24,7 +24,7 @@
     "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>": "<speed=0><%sM_pc>を　フレンドから　はずして|よろしいですか？|<yesno 2><close>"
   },
   "9": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "名前をみる": "名前をみる"
@@ -36,13 +36,13 @@
     "送信エラー！<%sM_speaker>「<%sM_chat>…」": "送信エラー！<%sM_speaker>「<%sM_chat>…」"
   },
   "13": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "送信エラー！": "送信エラー！"
   },
   "15": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "16": {
     "まだ フレンドが いません": "まだ フレンドが いません"
@@ -51,13 +51,13 @@
     "まだ なかまが いません": "まだ なかまが いません"
   },
   "18": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "19": {
     "チームに 入っていません": "チームに 入っていません"
   },
   "20": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "21": {
     "通信エラーが発生しました。": "通信エラーが発生しました。"
@@ -69,7 +69,7 @@
     "コメントは　ありません。": "コメントは　ありません。"
   },
   "24": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
     "はなす": "はなす"
@@ -81,13 +81,13 @@
     "ストーリーリーダーにする": "ストーリーリーダーにする"
   },
   "28": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_28": "clarity_nt_char_28"
   },
   "29": {
     "<%sM_pc>の声は|まわりに聞こえないようだ": "<%sM_pc>の声は|まわりに聞こえないようだ"
   },
   "30": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_30": "clarity_nt_char_30"
   },
   "31": {
     "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>…」": "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>…」"
@@ -99,7 +99,7 @@
     "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>"
   },
   "34": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "35": {
     "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>"
@@ -108,25 +108,25 @@
     "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>」": "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>」"
   },
   "37": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_37": "clarity_nt_char_37"
   },
   "38": {
     "送信エラー！対象オフ": "送信エラー！対象オフ"
   },
   "39": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_39": "clarity_nt_char_39"
   },
   "40": {
     "送信エラー！対象不在": "送信エラー！対象不在"
   },
   "41": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "42": {
     "ログアウト中": "ログアウト中"
   },
   "43": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
     "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。": "<speed=0>『通知する』に　変更しました。|<%sM_pc>さんが　ログインしたときに|ナビメッセージで通知します。"
@@ -138,7 +138,7 @@
     "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。": "<speed=0>『通知しない』に　変更しました。|<%sM_pc>さんが　ログインしても|通知されません。"
   },
   "47": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_47": "clarity_nt_char_47"
   },
   "48": {
     "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>": "<speed=0><%sM_pc>さんが　ログインしたときに|ログインを　『通知する』から|『通知しない』に　変更しますか？|<yesno 1><close>"
@@ -147,19 +147,19 @@
     "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。": "<speed=0>ログイン通知設定の保存に失敗しました。|時間をおいて　再度お試しください。"
   },
   "50": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_50": "clarity_nt_char_50"
   },
   "51": {
     "<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>"
   },
   "52": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_52": "clarity_nt_char_52"
   },
   "53": {
     "自分のキャラ": "自分のキャラ"
   },
   "54": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>": "<speed=0><%sM_pc>は　別のサーバーにいます。|なかまコマンドの『サーバー移動』などで|同じサーバーに集まって　遊んでください。|<br>|<speed=0>仲間にさそい　相手の返事を待ちます。|<%sM_pc>を　仲間に　さそいますか？|<yesno 1><close>"
@@ -168,7 +168,7 @@
     "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>": "<speed=0><%sM_pc>を　サブリーダーから|はずしますか？|<yesno 1><close>"
   },
   "57": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_57": "clarity_nt_char_57"
   },
   "58": {
     "<speed=0><%sM_pc>を　サブリーダーにしました！": "<speed=0><%sM_pc>を　サブリーダーにしました！"
@@ -177,7 +177,7 @@
     "<speed=0><%sM_pc>を　サブリーダーからはずしました。": "<speed=0><%sM_pc>を　サブリーダーからはずしました。"
   },
   "60": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
     "<speed=0>サブリーダーの　説明です！|<br>|<speed=0>サブリーダーは　特別なチームの機能の使用を|リーダーから許された　特別なメンバーです。|サブリーダーの人数の制限は　ありません。|<br>|<speed=0>使える機能は　他プレイヤーのチームへの勧誘。|スローガンの変更。エンブレムのデザイン。|他のメンバーの　サブリーダー任命です。|<br>|他のメンバーを　サブリーダーに任命するには　|コミュニケーションウィンドウのチームリストで|相手を選び　『サブリーダーにする』です。|<br>|サブリーダーから　サブリーダーの権利を|解除できるのは　チームのリーダーのみです。|<br>|<speed=0>サブリーダーについての　説明は|チーム大使の『説明を聞く』からも|確認できます。": "<speed=0>サブリーダーの　説明です！|<br>|<speed=0>サブリーダーは　特別なチームの機能の使用を|リーダーから許された　特別なメンバーです。|サブリーダーの人数の制限は　ありません。|<br>|<speed=0>使える機能は　他プレイヤーのチームへの勧誘。|スローガンの変更。エンブレムのデザイン。|他のメンバーの　サブリーダー任命です。|<br>|他のメンバーを　サブリーダーに任命するには　|コミュニケーションウィンドウのチームリストで|相手を選び　『サブリーダーにする』です。|<br>|サブリーダーから　サブリーダーの権利を|解除できるのは　チームのリーダーのみです。|<br>|<speed=0>サブリーダーについての　説明は|チーム大使の『説明を聞く』からも|確認できます。"
@@ -186,19 +186,19 @@
     "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>": "<speed=0><%sM_pc>を　サブリーダーにしますか？|<yesno 1><close>"
   },
   "63": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "64": {
     "<speed=0><%sM_pc>を　サブリーダーに|できませんでした。|リーダー権限か　チーム所属を　ご確認ください。": "<speed=0><%sM_pc>を　サブリーダーに|できませんでした。|リーダー権限か　チーム所属を　ご確認ください。"
   },
   "65": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_65": "clarity_nt_char_65"
   },
   "66": {
     "<speed=0><%sM_pc>を　サブリーダーから|はずせませんでした。|リーダー権限か　チーム所属を　ご確認ください。": "<speed=0><%sM_pc>を　サブリーダーから|はずせませんでした。|リーダー権限か　チーム所属を　ご確認ください。"
   },
   "67": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_67": "clarity_nt_char_67"
   },
   "68": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。": "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストに追加した。"
@@ -207,7 +207,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。": "\\s<%sC_PC>\\m<%sC_ID>\\eを フレンドにさそいました。"
   },
   "70": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_70": "clarity_nt_char_70"
   },
   "71": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。": "\\s<%sC_PC>\\m<%sC_ID>\\eを チームにさそいました。"
@@ -225,13 +225,13 @@
     "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。": "旅人バザーに出品していた <%sM_item><%sM_plusnum>を 取りやめた。"
   },
   "76": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_76": "clarity_nt_char_76"
   },
   "77": {
     "旅人バザーに <%sM_item><%sM_plusnum>を <%dM_gold> Gで出品した！": "旅人バザーに <%sM_item><%sM_plusnum>を <%dM_gold> Gで出品した！"
   },
   "78": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "79": {
     "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！": "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！"
@@ -243,7 +243,7 @@
     "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "預かり所から <%sM_item><%sM_plusnum>を 取り出した。"
   },
   "82": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
+    "clarity_nt_char_82": "clarity_nt_char_82"
   },
   "83": {
     "預かり所に <%sM_item><%sM_plusnum>を 預けた。": "預かり所に <%sM_item><%sM_plusnum>を 預けた。"
@@ -261,7 +261,7 @@
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！": "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> Gで買った！"
   },
   "88": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
+    "clarity_nt_char_88": "clarity_nt_char_88"
   },
   "89": {
     "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！": "ちいさなメダル <%dL_medal>枚と <%sM_item>を 交換した！"
@@ -270,13 +270,13 @@
     "<%sL_shisetu>で <%sC_PC>たちに 手紙を送った。": "<%sL_shisetu>で <%sC_PC>たちに 手紙を送った。"
   },
   "91": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
+    "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "92": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに 手紙を送った。": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに 手紙を送った。"
   },
   "93": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
+    "clarity_nt_char_93": "clarity_nt_char_93"
   },
   "94": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を送った。": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を送った。"
@@ -285,7 +285,7 @@
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_gold> Gを送った。": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_gold> Gを送った。"
   },
   "96": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
+    "clarity_nt_char_96": "clarity_nt_char_96"
   },
   "97": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの手紙を受け取った！": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの手紙を受け取った！"
@@ -294,7 +294,7 @@
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を 受け取った！": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を 受け取った！"
   },
   "99": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
+    "clarity_nt_char_99": "clarity_nt_char_99"
   },
   "100": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%dM_gold> Gを 受け取った！": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%dM_gold> Gを 受け取った！"
@@ -303,7 +303,7 @@
     "美容院で 髪の色を <%sM_color>に変えた！": "美容院で 髪の色を <%sM_color>に変えた！"
   },
   "102": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
+    "clarity_nt_char_102": "clarity_nt_char_102"
   },
   "103": {
     "クエスト報酬で <%sM_item><%sM_plusnum>を 手に入れた！": "クエスト報酬で <%sM_item><%sM_plusnum>を 手に入れた！"
@@ -312,37 +312,37 @@
     "旅のコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "旅のコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！"
   },
   "105": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
+    "clarity_nt_char_105": "clarity_nt_char_105"
   },
   "106": {
     "旅のコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": "旅のコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！"
   },
   "107": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
+    "clarity_nt_char_107": "clarity_nt_char_107"
   },
   "108": {
     "旅のコンシェルジュで <%sM_item><%sM_plusnum>を 受け取った！": "旅のコンシェルジュで <%sM_item><%sM_plusnum>を 受け取った！"
   },
   "109": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
+    "clarity_nt_char_109": "clarity_nt_char_109"
   },
   "110": {
     "預かり所に <%dM_gold> Gを 預けた。": "預かり所に <%dM_gold> Gを 預けた。"
   },
   "111": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+    "clarity_nt_char_111": "clarity_nt_char_111"
   },
   "112": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eを 仲間にさそいました。": "\\s<%sC_PC>\\m<%sC_ID>\\eを 仲間にさそいました。"
   },
   "113": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
+    "clarity_nt_char_113": "clarity_nt_char_113"
   },
   "114": {
     "<%sM_item>を使って 手紙を書いた！": "<%sM_item>を使って 手紙を書いた！"
   },
   "115": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
+    "clarity_nt_char_115": "clarity_nt_char_115"
   },
   "116": {
     "<%sC_PC>は <%sM_item><%sM_plusnum>を 投げ捨てた！": "<%sC_PC>は <%sM_item><%sM_plusnum>を 投げ捨てた！"
@@ -354,7 +354,7 @@
     "預かり所から <%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "預かり所から <%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。"
   },
   "119": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
+    "clarity_nt_char_119": "clarity_nt_char_119"
   },
   "120": {
     "預かり所に <%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。": "預かり所に <%sM_item><%sM_plusnum>を <%dM_item_num>個 預けた。"
@@ -366,13 +366,13 @@
     "旅人バザーに出品していた <%sM_item><%sM_plusnum> <%dM_item_num>個を 取りやめた。": "旅人バザーに出品していた <%sM_item><%sM_plusnum> <%dM_item_num>個を 取りやめた。"
   },
   "123": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
+    "clarity_nt_char_123": "clarity_nt_char_123"
   },
   "124": {
     "旅人バザーに <%sM_item><%sM_plusnum>を <%dM_item_num>個 <%dM_gold> Gで出品した！": "旅人バザーに <%sM_item><%sM_plusnum>を <%dM_item_num>個 <%dM_gold> Gで出品した！"
   },
   "125": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
+    "clarity_nt_char_125": "clarity_nt_char_125"
   },
   "126": {
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> Gで買った！": "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> Gで買った！"
@@ -381,7 +381,7 @@
     "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> Gで売った！": "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> Gで売った！"
   },
   "128": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
+    "clarity_nt_char_128": "clarity_nt_char_128"
   },
   "129": {
     "<%sL_SYOKUNIN_KIND>で 使っていた|<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。": "<%sL_SYOKUNIN_KIND>で 使っていた|<%sL_SYOKUNIN_TOOL>は 限界がきて こわれてしまった……。"
@@ -390,7 +390,7 @@
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を <%dM_item_num>個 送った。": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_item><%sM_plusnum>を <%dM_item_num>個 送った。"
   },
   "131": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
+    "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
     "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！": "<%sL_shisetu>で <%sC_system>からの手紙を受け取った！"
@@ -399,19 +399,19 @@
     "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！"
   },
   "134": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
+    "clarity_nt_char_134": "clarity_nt_char_134"
   },
   "135": {
     "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を 受け取った！": "<%sL_shisetu>で <%sC_system>からの <%sM_item><%sM_plusnum>を 受け取った！"
   },
   "136": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
+    "clarity_nt_char_136": "clarity_nt_char_136"
   },
   "137": {
     "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！": "<%sL_shisetu>で \\s<%sC_PC>\\m<%sC_ID>\\eからの <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取った！"
   },
   "138": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
+    "clarity_nt_char_138": "clarity_nt_char_138"
   },
   "139": {
     "<%sL_shisetu>で <%sC_system>からの <%dM_gold> Gを 受け取った！": "<%sL_shisetu>で <%sC_system>からの <%dM_gold> Gを 受け取った！"
@@ -420,7 +420,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！"
   },
   "141": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
+    "clarity_nt_char_141": "clarity_nt_char_141"
   },
   "142": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>レベルが <%dL_RANK>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>レベルが <%dL_RANK>にアップ！"
@@ -429,13 +429,13 @@
     "<%sL_SYOKUNIN_KIND>で 錬金に失敗し <%sB_item>に|<%sL_RENKIN_TEXT>が付いた！": "<%sL_SYOKUNIN_KIND>で 錬金に失敗し <%sB_item>に|<%sL_RENKIN_TEXT>が付いた！"
   },
   "144": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
+    "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
     "<%sL_SYOKUNIN_KIND>で <%sB_item>が|<%sL_RENKIN_TEXT>で うめつくされた！": "<%sL_SYOKUNIN_KIND>で <%sB_item>が|<%sL_RENKIN_TEXT>で うめつくされた！"
   },
   "146": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
+    "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
     "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！": "<%sB_item>の <%sL_RENKIN_TEXT_1>が|<%sL_RENKIN_TEXT>に パワーアップした！"
@@ -444,7 +444,7 @@
     "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "自宅の屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。"
   },
   "149": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
+    "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "150": {
     "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。"
@@ -459,13 +459,13 @@
     "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。"
   },
   "154": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
+    "clarity_nt_char_154": "clarity_nt_char_154"
   },
   "155": {
     "自宅の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！": "自宅の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！"
   },
   "156": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
+    "clarity_nt_char_156": "clarity_nt_char_156"
   },
   "157": {
     "自宅の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": "自宅の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！"
@@ -495,7 +495,7 @@
     "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！": "<%sL_SYOKUNIN>の仕事をして <%sM_item><%sM_plusnum>を 手に入れた！"
   },
   "166": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
+    "clarity_nt_char_166": "clarity_nt_char_166"
   },
   "167": {
     "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！": "<%sL_SYOKUNIN>の仕事をして <%dL_GOLD> Gを 手に入れた！"
@@ -507,7 +507,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>になった！": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%sL_SYOKUNIN_KIND>になった！"
   },
   "170": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
+    "clarity_nt_char_170": "clarity_nt_char_170"
   },
   "171": {
     "酒場で サポート仲間の<%sC_PC>と 別れた。": "酒場で サポート仲間の<%sC_PC>と 別れた。"
@@ -519,7 +519,7 @@
     "<%sM_item>を 手に入れた！": "<%sM_item>を 手に入れた！"
   },
   "174": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
+    "clarity_nt_char_174": "clarity_nt_char_174"
   },
   "175": {
     "<%sM_item><%sM_plusnum>を 手に入れた！": "<%sM_item><%sM_plusnum>を 手に入れた！"
@@ -528,7 +528,7 @@
     "<%dM_gold> Gを 手に入れた！": "<%dM_gold> Gを 手に入れた！"
   },
   "177": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
+    "clarity_nt_char_177": "clarity_nt_char_177"
   },
   "178": {
     "<%sC_PC>は ちいさなメダルを <%dM_item_num>枚 手に入れた！": "<%sC_PC>は ちいさなメダルを <%dM_item_num>枚 手に入れた！"
@@ -537,7 +537,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストからはずした。": "\\s<%sC_PC>\\m<%sC_ID>\\eを ブラックリストからはずした。"
   },
   "180": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
+    "clarity_nt_char_180": "clarity_nt_char_180"
   },
   "181": {
     "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！": "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>の色を <%sL_PARTS_COLOR>に変えた！"
@@ -546,37 +546,37 @@
     "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！": "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を <%sL_PARTS_NAME>に変えた！"
   },
   "183": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
+    "clarity_nt_char_183": "clarity_nt_char_183"
   },
   "184": {
     "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で かみの色１を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
   },
   "185": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
+    "clarity_nt_char_185": "clarity_nt_char_185"
   },
   "186": {
     "ふくびきで 特等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": "ふくびきで 特等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！"
   },
   "187": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
+    "clarity_nt_char_187": "clarity_nt_char_187"
   },
   "188": {
     "ふくびきで 特等が当たって <%sM_item>を 手に入れた！": "ふくびきで 特等が当たって <%sM_item>を 手に入れた！"
   },
   "189": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
+    "clarity_nt_char_189": "clarity_nt_char_189"
   },
   "190": {
     "ふくびきで <%dM_num>等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！": "ふくびきで <%dM_num>等が当たって <%sM_item>を <%dM_item_num>個 手に入れた！"
   },
   "191": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
+    "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
     "ふくびきで <%dM_num>等が当たって <%sM_item>を 手に入れた！": "ふくびきで <%dM_num>等が当たって <%sM_item>を 手に入れた！"
   },
   "193": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
+    "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
     "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！": "<%sL_ITEM><%sL_PLUSNUM>から 汗と涙の結晶を <%dL_NUM>個 取りだした！"
@@ -591,13 +591,13 @@
     "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "<%sL_OWNER>の収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。"
   },
   "198": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
+    "clarity_nt_char_198": "clarity_nt_char_198"
   },
   "199": {
     "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。"
   },
   "200": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
+    "clarity_nt_char_200": "clarity_nt_char_200"
   },
   "201": {
     "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。"
@@ -606,7 +606,7 @@
     "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。": "<%sL_OWNER>の家の<%sL_CATEGORY_NAME>を はずした。"
   },
   "203": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
+    "clarity_nt_char_203": "clarity_nt_char_203"
   },
   "204": {
     "自宅の<%sL_CATEGORY_NAME>を はずした。": "自宅の<%sL_CATEGORY_NAME>を はずした。"
@@ -615,7 +615,7 @@
     "モーモンバザーから 売り上げ金 <%dL_GOLD> Gを 受け取った！": "モーモンバザーから 売り上げ金 <%dL_GOLD> Gを 受け取った！"
   },
   "206": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
+    "clarity_nt_char_206": "clarity_nt_char_206"
   },
   "207": {
     "モーモンバザーで <%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで販売！": "モーモンバザーで <%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで販売！"
@@ -624,7 +624,7 @@
     "モーモンバザーで販売していた <%sL_ITEM><%sL_PLUSNUM>を 取りやめた。": "モーモンバザーで販売していた <%sL_ITEM><%sL_PLUSNUM>を 取りやめた。"
   },
   "209": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
+    "clarity_nt_char_209": "clarity_nt_char_209"
   },
   "210": {
     "<%sL_OWNER>のモーモンバザーで |<%sL_ITEM><%sL_PLUSNUM>を <%dM_item_num>個 <%dL_NEDAN> Gで買った！": "<%sL_OWNER>のモーモンバザーで |<%sL_ITEM><%sL_PLUSNUM>を <%dM_item_num>個 <%dL_NEDAN> Gで買った！"
@@ -633,7 +633,7 @@
     "<%sL_OWNER>のモーモンバザーで|<%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで買った！": "<%sL_OWNER>のモーモンバザーで|<%sL_ITEM><%sL_PLUSNUM>を <%dL_NEDAN> Gで買った！"
   },
   "212": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
+    "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "213": {
     "送信エラー！非通知": "送信エラー！非通知"
@@ -642,7 +642,7 @@
     "<speed=0>相手のチーム所属の確認が　できませんでした。|相手がチームに所属しているか　ご確認のうえ|もう一度お試しください。": "<speed=0>相手のチーム所属の確認が　できませんでした。|相手がチームに所属しているか　ご確認のうえ|もう一度お試しください。"
   },
   "215": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
+    "clarity_nt_char_215": "clarity_nt_char_215"
   },
   "216": {
     "<speed=0>通信に失敗しました。|時間を置いて　もう一度お試しください。": "<speed=0>通信に失敗しました。|時間を置いて　もう一度お試しください。"
@@ -657,13 +657,13 @@
     "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>"
   },
   "220": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
+    "clarity_nt_char_220": "clarity_nt_char_220"
   },
   "221": {
     "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」": "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」"
   },
   "222": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
+    "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "223": {
     "美容院で かみがたを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で かみがたを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
@@ -672,13 +672,13 @@
     "美容院で <%sM_item>を使った！": "美容院で <%sM_item>を使った！"
   },
   "225": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
+    "clarity_nt_char_225": "clarity_nt_char_225"
   },
   "226": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの職人経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P"
   },
   "227": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
+    "clarity_nt_char_227": "clarity_nt_char_227"
   },
   "228": {
     "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！": "<%sL_OWNER>の畑に <%sL_ITEM>を 使った！"
@@ -693,13 +693,13 @@
     "<speed=0><%sM_pc>は　サブリーダーに　なっています。": "<speed=0><%sM_pc>は　サブリーダーに　なっています。"
   },
   "232": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
+    "clarity_nt_char_232": "clarity_nt_char_232"
   },
   "233": {
     "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 摘んだ！": "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 摘んだ！"
   },
   "234": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
+    "clarity_nt_char_234": "clarity_nt_char_234"
   },
   "235": {
     "<pc>の 日替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！": "<pc>の 日替わり討伐クエストの選択肢が <%dL_TOUBATU>つになった！"
@@ -711,13 +711,13 @@
     "<pc>の 名声レベルが <%dL_MEISEI_LEVEL>に あがった！": "<pc>の 名声レベルが <%dL_MEISEI_LEVEL>に あがった！"
   },
   "238": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
+    "clarity_nt_char_238": "clarity_nt_char_238"
   },
   "239": {
     "<%sC_PC>は <%sM_item>を 泣く泣く投げ捨てた……。": "<%sC_PC>は <%sM_item>を 泣く泣く投げ捨てた……。"
   },
   "240": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
+    "clarity_nt_char_240": "clarity_nt_char_240"
   },
   "241": {
     "宿屋で休んだ！": "宿屋で休んだ！"
@@ -732,13 +732,13 @@
     "<speed=0>ルームを解散すると　自分以外のプレイヤーが　|ルームから　はずされますが　よろしいですか？<yesno 2><close>": "<speed=0>ルームを解散すると　自分以外のプレイヤーが　|ルームから　はずされますが　よろしいですか？<yesno 2><close>"
   },
   "245": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
+    "clarity_nt_char_245": "clarity_nt_char_245"
   },
   "246": {
     "<speed=0>ルームの解散に　失敗しました。": "<speed=0>ルームの解散に　失敗しました。"
   },
   "247": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
+    "clarity_nt_char_247": "clarity_nt_char_247"
   },
   "248": {
     "<speed=0><%sM_pc>の　ルームから　抜けた！": "<speed=0><%sM_pc>の　ルームから　抜けた！"
@@ -747,25 +747,25 @@
     "<speed=0>ルームから　抜けられませんでした。": "<speed=0>ルームから　抜けられませんでした。"
   },
   "250": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
+    "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "251": {
     "<speed=0><%sM_pc>の　ルームから　抜けますか？|<yesno 1><close>": "<speed=0><%sM_pc>の　ルームから　抜けますか？|<yesno 1><close>"
   },
   "252": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
+    "clarity_nt_char_252": "clarity_nt_char_252"
   },
   "253": {
     "<speed=0>すでに　そのルームから　抜けています。": "<speed=0>すでに　そのルームから　抜けています。"
   },
   "254": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
+    "clarity_nt_char_254": "clarity_nt_char_254"
   },
   "255": {
     "<speed=0><%sM_pc>を　ルームから　はずした。": "<speed=0><%sM_pc>を　ルームから　はずした。"
   },
   "256": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
+    "clarity_nt_char_256": "clarity_nt_char_256"
   },
   "257": {
     "<speed=0><%sM_pc>を　ルームから　はずせませんでした。": "<speed=0><%sM_pc>を　ルームから　はずせませんでした。"
@@ -780,13 +780,13 @@
     "<speed=0><%sM_pc>を　<%sM_room>に　招待した！": "<speed=0><%sM_pc>を　<%sM_room>に　招待した！"
   },
   "261": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
+    "clarity_nt_char_261": "clarity_nt_char_261"
   },
   "262": {
     "<speed=0>そのチャットルームは　すでに　解散しています。": "<speed=0>そのチャットルームは　すでに　解散しています。"
   },
   "263": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
+    "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "264": {
     "<speed=0><%sM_pc>を　<%sM_room>に　招待しますか？|<yesno 1><close>": "<speed=0><%sM_pc>を　<%sM_room>に　招待しますか？|<yesno 1><close>"
@@ -798,13 +798,13 @@
     "<speed=0>ルーム参加人数が　いっぱいか|参加人数を　超える招待に　なるため|これ以上は　このルームに招待できません。": "<speed=0>ルーム参加人数が　いっぱいか|参加人数を　超える招待に　なるため|これ以上は　このルームに招待できません。"
   },
   "267": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
+    "clarity_nt_char_267": "clarity_nt_char_267"
   },
   "268": {
     "<speed=0>相手が　フレンドから　はずれているため|招待できませんでした。": "<speed=0>相手が　フレンドから　はずれているため|招待できませんでした。"
   },
   "269": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
+    "clarity_nt_char_269": "clarity_nt_char_269"
   },
   "270": {
     "<speed=0>チャットルームに　招待できませんでした。": "<speed=0>チャットルームに　招待できませんでした。"
@@ -813,13 +813,13 @@
     "<speed=0>どのチャットルームに　招待しますか？|<select>|<%sM_room><select_end><close>": "<speed=0>どのチャットルームに　招待しますか？|<select>|<%sM_room><select_end><close>"
   },
   "272": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
+    "clarity_nt_char_272": "clarity_nt_char_272"
   },
   "273": {
     "<speed=0><%sM_pc>は　すでに　そのルームに|参加しています。": "<speed=0><%sM_pc>は　すでに　そのルームに|参加しています。"
   },
   "274": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
+    "clarity_nt_char_274": "clarity_nt_char_274"
   },
   "275": {
     "<speed=0>画面右上に　チャット表示をするかの設定です。|現在　<%sM_room>は『チャットを表示しない』です。|『チャットを表示する』に　変更しますか？|<yesno 1><close>": "<speed=0>画面右上に　チャット表示をするかの設定です。|現在　<%sM_room>は『チャットを表示しない』です。|『チャットを表示する』に　変更しますか？|<yesno 1><close>"
@@ -834,7 +834,7 @@
     "美容院で めの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で めの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
   },
   "279": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
+    "clarity_nt_char_279": "clarity_nt_char_279"
   },
   "280": {
     "<speed=0><%sM_room>への　招待を取り消しました。": "<speed=0><%sM_room>への　招待を取り消しました。"
@@ -849,7 +849,7 @@
     "<speed=0><%sM_room>への招待を　取り消しますか？|<yesno 1><close>": "<speed=0><%sM_room>への招待を　取り消しますか？|<yesno 1><close>"
   },
   "284": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
+    "clarity_nt_char_284": "clarity_nt_char_284"
   },
   "285": {
     "<speed=0><%sM_pc>は　すでに　そのルームから|招待を受けています。": "<speed=0><%sM_pc>は　すでに　そのルームから|招待を受けています。"
@@ -867,13 +867,13 @@
     "<%sL_box>に届いた <%sM_item><%sM_plusnum>を 受け取らずに処分した。": "<%sL_box>に届いた <%sM_item><%sM_plusnum>を 受け取らずに処分した。"
   },
   "290": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
+    "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "291": {
     "<%sL_box>に届いた <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取らずに処分した。": "<%sL_box>に届いた <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取らずに処分した。"
   },
   "292": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
+    "clarity_nt_char_292": "clarity_nt_char_292"
   },
   "293": {
     "郵便局": "郵便局"
@@ -894,7 +894,7 @@
     "<speed=0>本当に　<%sM_pc>を　フレンドから|はずして　よろしいですか？|<yesno 2><close>": "<speed=0>本当に　<%sM_pc>を　フレンドから|はずして　よろしいですか？|<yesno 2><close>"
   },
   "299": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
+    "clarity_nt_char_299": "clarity_nt_char_299"
   },
   "300": {
     "<speed=0>どの　チャットルームへの　招待を|取り消しますか？|<select>|<%sM_room><select_end><close>": "<speed=0>どの　チャットルームへの　招待を|取り消しますか？|<select>|<%sM_room><select_end><close>"
@@ -912,7 +912,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を|<%sL_RENKIN_TEXT>に パワーアップしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sB_item>の <%sL_RENKIN_TEXT_1>を|<%sL_RENKIN_TEXT>に パワーアップしてくれた！"
   },
   "305": {
-    "clarity_nt_char_97": "clarity_nt_char_97"
+    "clarity_nt_char_305": "clarity_nt_char_305"
   },
   "306": {
     "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に|<%sL_RENKIN_TEXT>を うめつくした！": "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に|<%sL_RENKIN_TEXT>を うめつくした！"
@@ -921,7 +921,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を うめつくしてくれた！": "\\s<%sC_PC>\\m<%sC_ID>\\eが <%sL_SYOKUNIN_KIND>で <%sB_item>に|<%sL_RENKIN_TEXT>を うめつくしてくれた！"
   },
   "308": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
+    "clarity_nt_char_308": "clarity_nt_char_308"
   },
   "309": {
     "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に|<%sL_RENKIN_TEXT>を付けた……。": "<%sL_SYOKUNIN_KIND>で \\s<%sC_PC>\\m<%sC_ID>\\eの <%sB_item>に|<%sL_RENKIN_TEXT>を付けた……。"
@@ -936,13 +936,13 @@
     "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eに <%dL_GOLD> Gを払った！": "職人仕事のお礼として \\s<%sC_PC>\\m<%sC_ID>\\eに <%dL_GOLD> Gを払った！"
   },
   "313": {
-    "clarity_nt_char_99": "clarity_nt_char_99"
+    "clarity_nt_char_313": "clarity_nt_char_313"
   },
   "314": {
     "まだ 参加者が いません": "まだ 参加者が いません"
   },
   "315": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
+    "clarity_nt_char_315": "clarity_nt_char_315"
   },
   "316": {
     "まだ ルームが ありません": "まだ ルームが ありません"
@@ -954,7 +954,7 @@
     "<speed=0>同時に招待できる数の　上限に達しています。|相手の返答を待つか　『招待を取り消す』から|送信済みの招待を　取り消してください。": "<speed=0>同時に招待できる数の　上限に達しています。|相手の返答を待つか　『招待を取り消す』から|送信済みの招待を　取り消してください。"
   },
   "319": {
-    "clarity_nt_char_101": "clarity_nt_char_101"
+    "clarity_nt_char_319": "clarity_nt_char_319"
   },
   "320": {
     "美容院で はだの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で はだの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
@@ -963,13 +963,13 @@
     "<speed=0>ログイン状況表示設定が　『常にログアウト表示』|のため　チャットルームに　招待できません。|ログイン状況表示設定を　変更してください。": "<speed=0>ログイン状況表示設定が　『常にログアウト表示』|のため　チャットルームに　招待できません。|ログイン状況表示設定を　変更してください。"
   },
   "322": {
-    "clarity_nt_char_102": "clarity_nt_char_102"
+    "clarity_nt_char_322": "clarity_nt_char_322"
   },
   "323": {
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」": "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」"
   },
   "324": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
+    "clarity_nt_char_324": "clarity_nt_char_324"
   },
   "325": {
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」": "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」"
@@ -978,13 +978,13 @@
     "まわりにチャット不可": "まわりにチャット不可"
   },
   "327": {
-    "clarity_nt_char_104": "clarity_nt_char_104"
+    "clarity_nt_char_327": "clarity_nt_char_327"
   },
   "328": {
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>"
   },
   "329": {
-    "clarity_nt_char_105": "clarity_nt_char_105"
+    "clarity_nt_char_329": "clarity_nt_char_329"
   },
   "330": {
     "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>"
@@ -993,7 +993,7 @@
     "ドルセリンチャージ！": "ドルセリンチャージ！"
   },
   "332": {
-    "clarity_nt_char_106": "clarity_nt_char_106"
+    "clarity_nt_char_332": "clarity_nt_char_332"
   },
   "333": {
     "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！": "預かり所で 倉庫の名前を <%sL_STORAGE>から <%sL_STORAGE2>に 変えた！"
@@ -1008,13 +1008,13 @@
     "カジノコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "カジノコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！"
   },
   "337": {
-    "clarity_nt_char_107": "clarity_nt_char_107"
+    "clarity_nt_char_337": "clarity_nt_char_337"
   },
   "338": {
     "コインチケットと カジノコイン <%dL_casinocoin>枚を 交換した！": "コインチケットと カジノコイン <%dL_casinocoin>枚を 交換した！"
   },
   "339": {
-    "clarity_nt_char_108": "clarity_nt_char_108"
+    "clarity_nt_char_339": "clarity_nt_char_339"
   },
   "340": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_MEISEI> Pの名声値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_MEISEI> Pの名声値を かくとく！"
@@ -1026,7 +1026,7 @@
     "<%sL_HOUSYUU>を <%dL_NUM>個 手に入れた！": "<%sL_HOUSYUU>を <%dL_NUM>個 手に入れた！"
   },
   "343": {
-    "clarity_nt_char_109": "clarity_nt_char_109"
+    "clarity_nt_char_343": "clarity_nt_char_343"
   },
   "344": {
     "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。": "<%sM_item><%sM_plusnum>を <%dM_item_num>個 取り出した。"
@@ -1044,13 +1044,13 @@
     "お招きのつばさを <%dL_GOLD> Gで買った！": "お招きのつばさを <%dL_GOLD> Gで買った！"
   },
   "349": {
-    "clarity_nt_char_110": "clarity_nt_char_110"
+    "clarity_nt_char_349": "clarity_nt_char_349"
   },
   "350": {
     "<%sL_SYOKUNIN_KIND>で <%sM_item>を <%dL_CREATE_NUM>個作った！": "<%sL_SYOKUNIN_KIND>で <%sM_item>を <%dL_CREATE_NUM>個作った！"
   },
   "351": {
-    "clarity_nt_char_111": "clarity_nt_char_111"
+    "clarity_nt_char_351": "clarity_nt_char_351"
   },
   "352": {
     "きせかえドールに <%sM_item><%sM_plusnum> を 装備させた！": "きせかえドールに <%sM_item><%sM_plusnum> を 装備させた！"
@@ -1059,7 +1059,7 @@
     "きせかえドールに <%sM_item><%sM_plusnum>を 装備させた。": "きせかえドールに <%sM_item><%sM_plusnum>を 装備させた。"
   },
   "354": {
-    "clarity_nt_char_112": "clarity_nt_char_112"
+    "clarity_nt_char_354": "clarity_nt_char_354"
   },
   "355": {
     "きせかえドールの <%sM_item><%sM_plusnum>を はずした。": "きせかえドールの <%sM_item><%sM_plusnum>を はずした。"
@@ -1077,7 +1077,7 @@
     "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。"
   },
   "360": {
-    "clarity_nt_char_113": "clarity_nt_char_113"
+    "clarity_nt_char_360": "clarity_nt_char_360"
   },
   "361": {
     "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。"
@@ -1086,7 +1086,7 @@
     "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。"
   },
   "363": {
-    "clarity_nt_char_114": "clarity_nt_char_114"
+    "clarity_nt_char_363": "clarity_nt_char_363"
   },
   "364": {
     "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。": "屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個入れた。"
@@ -1095,7 +1095,7 @@
     "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "収納家具から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。"
   },
   "366": {
-    "clarity_nt_char_115": "clarity_nt_char_115"
+    "clarity_nt_char_366": "clarity_nt_char_366"
   },
   "367": {
     "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。": "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を 取り出した。"
@@ -1104,7 +1104,7 @@
     "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。": "屋根ウラ収納から <%sL_ITEM_NAME><%sL_PLUSNUM>を <%dL_QUANTITY>個取り出した。"
   },
   "369": {
-    "clarity_nt_char_116": "clarity_nt_char_116"
+    "clarity_nt_char_369": "clarity_nt_char_369"
   },
   "370": {
     "美容院で かおを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で かおを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
@@ -1113,7 +1113,7 @@
     "貯金箱から <%dM_gold> Gを 引き出した。": "貯金箱から <%dM_gold> Gを 引き出した。"
   },
   "372": {
-    "clarity_nt_char_117": "clarity_nt_char_117"
+    "clarity_nt_char_372": "clarity_nt_char_372"
   },
   "373": {
     "貯金箱に <%dM_gold> Gを 預けた。": "貯金箱に <%dM_gold> Gを 預けた。"
@@ -1122,13 +1122,13 @@
     "カジノコインを 手に入れた！": "カジノコインを 手に入れた！"
   },
   "375": {
-    "clarity_nt_char_118": "clarity_nt_char_118"
+    "clarity_nt_char_375": "clarity_nt_char_375"
   },
   "376": {
     "カジノコインを <%dL_casinocoin>枚 手に入れた！": "カジノコインを <%dL_casinocoin>枚 手に入れた！"
   },
   "377": {
-    "clarity_nt_char_119": "clarity_nt_char_119"
+    "clarity_nt_char_377": "clarity_nt_char_377"
   },
   "378": {
     "<%sM_hihou>を鑑定して <%sM_item>を 手に入れた！": "<%sM_hihou>を鑑定して <%sM_item>を 手に入れた！"
@@ -1140,7 +1140,7 @@
     "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を <%dL_NUM>個 受け取った！": "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を <%dL_NUM>個 受け取った！"
   },
   "381": {
-    "clarity_nt_char_120": "clarity_nt_char_120"
+    "clarity_nt_char_381": "clarity_nt_char_381"
   },
   "382": {
     "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を 受け取った！": "<%sL_MONSTERNAME> からのおくりもの|<%sL_ITEM>を 受け取った！"
@@ -1149,25 +1149,25 @@
     "旅のコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": "旅のコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！"
   },
   "384": {
-    "clarity_nt_char_121": "clarity_nt_char_121"
+    "clarity_nt_char_384": "clarity_nt_char_384"
   },
   "385": {
     "<%sM_monster>を 仲間に加えた！": "<%sM_monster>を 仲間に加えた！"
   },
   "386": {
-    "clarity_nt_char_122": "clarity_nt_char_122"
+    "clarity_nt_char_386": "clarity_nt_char_386"
   },
   "387": {
     "<%sM_otomo>を モンスター酒場に 預けた！": "<%sM_otomo>を モンスター酒場に 預けた！"
   },
   "388": {
-    "clarity_nt_char_123": "clarity_nt_char_123"
+    "clarity_nt_char_388": "clarity_nt_char_388"
   },
   "389": {
     "<%sM_monster>が 仲間になった！": "<%sM_monster>が 仲間になった！"
   },
   "390": {
-    "clarity_nt_char_124": "clarity_nt_char_124"
+    "clarity_nt_char_390": "clarity_nt_char_390"
   },
   "391": {
     "<%sM_monster>の名前を <%sM_monster_name>に 変更した！": "<%sM_monster>の名前を <%sM_monster_name>に 変更した！"
@@ -1200,7 +1200,7 @@
     "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！": "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！"
   },
   "401": {
-    "clarity_nt_char_125": "clarity_nt_char_125"
+    "clarity_nt_char_401": "clarity_nt_char_401"
   },
   "402": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！": "\\s<%sC_PC>\\m<%sC_ID>\\eは 釣りレベルが <%dL_LEVEL>にアップ！"
@@ -1209,19 +1209,19 @@
     "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！": "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！"
   },
   "404": {
-    "clarity_nt_char_126": "clarity_nt_char_126"
+    "clarity_nt_char_404": "clarity_nt_char_404"
   },
   "405": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！| → おうえんボーナス +<%dL_EXP_OUEN> P"
   },
   "406": {
-    "clarity_nt_char_127": "clarity_nt_char_127"
+    "clarity_nt_char_406": "clarity_nt_char_406"
   },
   "407": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_EXP> Pの釣り経験値を かくとく！"
   },
   "408": {
-    "clarity_nt_char_128": "clarity_nt_char_128"
+    "clarity_nt_char_408": "clarity_nt_char_408"
   },
   "409": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM><%sM_PLUSNUM>を 渡した！": "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM><%sM_PLUSNUM>を 渡した！"
@@ -1230,7 +1230,7 @@
     "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！": "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！"
   },
   "411": {
-    "clarity_nt_char_129": "clarity_nt_char_129"
+    "clarity_nt_char_411": "clarity_nt_char_411"
   },
   "412": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を <%dM_NUM>個 渡した！": "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を <%dM_NUM>個 渡した！"
@@ -1239,7 +1239,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を 渡した！": "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM>を 渡した！"
   },
   "414": {
-    "clarity_nt_char_130": "clarity_nt_char_130"
+    "clarity_nt_char_414": "clarity_nt_char_414"
   },
   "415": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_GOLD> G 渡した！": "\\s<%sC_PC>\\m<%sC_ID>\\eに <%dM_GOLD> G 渡した！"
@@ -1248,19 +1248,19 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM><%sM_PLUSNUM>を 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM><%sM_PLUSNUM>を 受け取った！"
   },
   "417": {
-    "clarity_nt_char_131": "clarity_nt_char_131"
+    "clarity_nt_char_417": "clarity_nt_char_417"
   },
   "418": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%dM_GOLD> G 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\eから <%dM_GOLD> G 受け取った！"
   },
   "419": {
-    "clarity_nt_char_132": "clarity_nt_char_132"
+    "clarity_nt_char_419": "clarity_nt_char_419"
   },
   "420": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を <%dM_NUM>個 受け取った！"
   },
   "421": {
-    "clarity_nt_char_133": "clarity_nt_char_133"
+    "clarity_nt_char_421": "clarity_nt_char_421"
   },
   "422": {
     "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を 受け取った！": "\\s<%sC_PC>\\m<%sC_ID>\\eから <%sM_ITEM>を 受け取った！"
@@ -1269,25 +1269,25 @@
     "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。": "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。"
   },
   "424": {
-    "clarity_nt_char_134": "clarity_nt_char_134"
+    "clarity_nt_char_424": "clarity_nt_char_424"
   },
   "425": {
     "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。（<%sM_SIZE>）": "<%.1fM_CM>ｃｍの <%sM_item>を 逃した。（<%sM_SIZE>）"
   },
   "426": {
-    "clarity_nt_char_135": "clarity_nt_char_135"
+    "clarity_nt_char_426": "clarity_nt_char_426"
   },
   "427": {
     "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！": "<%.1fM_CM>ｃｍの <%sM_item>を 釣り上げた！ <%sM_SIZE>！"
   },
   "428": {
-    "clarity_nt_char_136": "clarity_nt_char_136"
+    "clarity_nt_char_428": "clarity_nt_char_428"
   },
   "429": {
     "宝箱を 釣り上げた！": "宝箱を 釣り上げた！"
   },
   "430": {
-    "clarity_nt_char_137": "clarity_nt_char_137"
+    "clarity_nt_char_430": "clarity_nt_char_430"
   },
   "431": {
     "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを 選びなおした！": "<%sM_item>を <%nM_item_num>個消費し <%sM_otomo>のスキルを 選びなおした！"
@@ -1296,7 +1296,7 @@
     "自宅を チーム集会所に設定した。": "自宅を チーム集会所に設定した。"
   },
   "433": {
-    "clarity_nt_char_138": "clarity_nt_char_138"
+    "clarity_nt_char_433": "clarity_nt_char_433"
   },
   "434": {
     "自宅を チーム集会所から解除した。": "自宅を チーム集会所から解除した。"
@@ -1311,7 +1311,7 @@
     "使っていた<%sL_TOOL>は 限界がきて こわれてしまった……。": "使っていた<%sL_TOOL>は 限界がきて こわれてしまった……。"
   },
   "438": {
-    "clarity_nt_char_139": "clarity_nt_char_139"
+    "clarity_nt_char_438": "clarity_nt_char_438"
   },
   "439": {
     "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！": "おさかなコイン <%dM_POINT>枚と|<%sM_item>を 交換した！"
@@ -1320,25 +1320,25 @@
     "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！": "<%.1fM_CM>ｃｍの <%sM_item>（<%sM_SIZE>）と|おさかなコイン <%dL_COIN>枚を 交換した！"
   },
   "441": {
-    "clarity_nt_char_140": "clarity_nt_char_140"
+    "clarity_nt_char_441": "clarity_nt_char_441"
   },
   "442": {
     "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！": "<%.1fM_CM>ｃｍの <%sM_item>と|おさかなコイン <%dL_COIN>枚を 交換した！"
   },
   "443": {
-    "clarity_nt_char_141": "clarity_nt_char_141"
+    "clarity_nt_char_443": "clarity_nt_char_443"
   },
   "444": {
     "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！": "ちいさなメダル <%dL_medal>枚と <%sM_item> <%dL_NUM>個を 交換した！"
   },
   "445": {
-    "clarity_nt_char_142": "clarity_nt_char_142"
+    "clarity_nt_char_445": "clarity_nt_char_445"
   },
   "446": {
     "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！": "おさかなコイン <%dM_POINT>枚と|<%sM_item> <%dM_GET_NUM>個を 交換した！"
   },
   "447": {
-    "clarity_nt_char_143": "clarity_nt_char_143"
+    "clarity_nt_char_447": "clarity_nt_char_447"
   },
   "448": {
     "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！": "<%sL_OWNER>の畑から ふたつの<%sL_ITEM>を 収穫した！"
@@ -1347,13 +1347,13 @@
     "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "<%sL_OWNER>の畑から <%sL_ITEM>を 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！"
   },
   "450": {
-    "clarity_nt_char_144": "clarity_nt_char_144"
+    "clarity_nt_char_450": "clarity_nt_char_450"
   },
   "451": {
     "所持G <%dM_BEFORE_GOLD> G → <%dM_AFTER_GOLD> G": "所持G <%dM_BEFORE_GOLD> G → <%dM_AFTER_GOLD> G"
   },
   "452": {
-    "clarity_nt_char_145": "clarity_nt_char_145"
+    "clarity_nt_char_452": "clarity_nt_char_452"
   },
   "453": {
     "<%sM_monster>は <%dL_EXP> Pの経験値を かくとく！": "<%sM_monster>は <%dL_EXP> Pの経験値を かくとく！"
@@ -1371,19 +1371,19 @@
     "ドルボードのフォルムを <%sL_PRISM>に 変更した！": "ドルボードのフォルムを <%sL_PRISM>に 変更した！"
   },
   "458": {
-    "clarity_nt_char_146": "clarity_nt_char_146"
+    "clarity_nt_char_458": "clarity_nt_char_458"
   },
   "459": {
     "ドルボードのフォルムを 元に戻した！": "ドルボードのフォルムを 元に戻した！"
   },
   "460": {
-    "clarity_nt_char_147": "clarity_nt_char_147"
+    "clarity_nt_char_460": "clarity_nt_char_460"
   },
   "461": {
     "ドルボードに <%sL_PRISM>を 取り付けた！": "ドルボードに <%sL_PRISM>を 取り付けた！"
   },
   "462": {
-    "clarity_nt_char_148": "clarity_nt_char_148"
+    "clarity_nt_char_462": "clarity_nt_char_462"
   },
   "463": {
     "<%sM_monster2>を モンスター牧場に 送った！": "<%sM_monster2>を モンスター牧場に 送った！"
@@ -1392,19 +1392,19 @@
     "<%sM_monster2>を モンスター牧場から 呼び戻した！": "<%sM_monster2>を モンスター牧場から 呼び戻した！"
   },
   "465": {
-    "clarity_nt_char_149": "clarity_nt_char_149"
+    "clarity_nt_char_465": "clarity_nt_char_465"
   },
   "466": {
     "<%sM_monster>は レベル<%dL_LEVEL_OLD>から <%dL_LEVEL_NOW>に あがった！": "<%sM_monster>は レベル<%dL_LEVEL_OLD>から <%dL_LEVEL_NOW>に あがった！"
   },
   "467": {
-    "clarity_nt_char_150": "clarity_nt_char_150"
+    "clarity_nt_char_467": "clarity_nt_char_467"
   },
   "468": {
     "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！": "<%dL_SKILL_POINT> Pのスキルポイントを かくとく！"
   },
   "469": {
-    "clarity_nt_char_151": "clarity_nt_char_151"
+    "clarity_nt_char_469": "clarity_nt_char_469"
   },
   "470": {
     "お知らせ広場に　掲載している絵葉書を削除した！": "お知らせ広場に　掲載している絵葉書を削除した！"
@@ -1413,13 +1413,13 @@
     "お知らせ広場に　応募した絵葉書をキャンセルした！": "お知らせ広場に　応募した絵葉書をキャンセルした！"
   },
   "472": {
-    "clarity_nt_char_152": "clarity_nt_char_152"
+    "clarity_nt_char_472": "clarity_nt_char_472"
   },
   "473": {
     "お知らせ広場に　<%dL_GOLD_OUBO> Gで　絵葉書を応募した！": "お知らせ広場に　<%dL_GOLD_OUBO> Gで　絵葉書を応募した！"
   },
   "474": {
-    "clarity_nt_char_153": "clarity_nt_char_153"
+    "clarity_nt_char_474": "clarity_nt_char_474"
   },
   "475": {
     "お知らせ広場に　お知らせ優待券を使って　絵葉書を応募した！": "お知らせ広場に　お知らせ優待券を使って　絵葉書を応募した！"
@@ -1428,7 +1428,7 @@
     "特訓モードになった！": "特訓モードになった！"
   },
   "477": {
-    "clarity_nt_char_154": "clarity_nt_char_154"
+    "clarity_nt_char_477": "clarity_nt_char_477"
   },
   "478": {
     "特訓モードが 解除された！": "特訓モードが 解除された！"
@@ -1446,25 +1446,25 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_POINT> Pの釣りポイントを かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P": "\\s<%sC_PC>\\m<%sC_ID>\\eは <%dL_POINT> Pの釣りポイントを かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P"
   },
   "483": {
-    "clarity_nt_char_155": "clarity_nt_char_155"
+    "clarity_nt_char_483": "clarity_nt_char_483"
   },
   "484": {
     "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！": "プライベートコンシェルジュで サポートゴールド <%dM_gold> Gを 受け取った！"
   },
   "485": {
-    "clarity_nt_char_156": "clarity_nt_char_156"
+    "clarity_nt_char_485": "clarity_nt_char_485"
   },
   "486": {
     "プライベートコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！": "プライベートコンシェルジュで <%sL_ITEM>を <%dM_number>個 交換した！"
   },
   "487": {
-    "clarity_nt_char_157": "clarity_nt_char_157"
+    "clarity_nt_char_487": "clarity_nt_char_487"
   },
   "488": {
     "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！"
   },
   "489": {
-    "clarity_nt_char_158": "clarity_nt_char_158"
+    "clarity_nt_char_489": "clarity_nt_char_489"
   },
   "490": {
     "<%sL_HIRYU>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！": "<%sL_HIRYU>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！"
@@ -1485,7 +1485,7 @@
     "思い出アルバムへの保存に 失敗しました。": "思い出アルバムへの保存に 失敗しました。"
   },
   "496": {
-    "clarity_nt_char_159": "clarity_nt_char_159"
+    "clarity_nt_char_496": "clarity_nt_char_496"
   },
   "497": {
     "思い出アルバムに 写真を保存しました。": "思い出アルバムに 写真を保存しました。"
@@ -1500,7 +1500,7 @@
     "まとめ屋から <%sM_item>を <%dM_item_num>個 もらった！": "まとめ屋から <%sM_item>を <%dM_item_num>個 もらった！"
   },
   "501": {
-    "clarity_nt_char_160": "clarity_nt_char_160"
+    "clarity_nt_char_501": "clarity_nt_char_501"
   },
   "502": {
     "アイテム交換屋で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！": "アイテム交換屋で <%sM_item><%sM_plusnum>を <%dM_item_num>個 交換した！"
@@ -1512,13 +1512,13 @@
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>と <%sL_ACCE_ITEM_2><%sL_PLUSNUM_2>を合成した！"
   },
   "505": {
-    "clarity_nt_char_161": "clarity_nt_char_161"
+    "clarity_nt_char_505": "clarity_nt_char_505"
   },
   "506": {
     "自宅の家具・庭具を ロックした。": "自宅の家具・庭具を ロックした。"
   },
   "507": {
-    "clarity_nt_char_162": "clarity_nt_char_162"
+    "clarity_nt_char_507": "clarity_nt_char_507"
   },
   "508": {
     "自宅の家具・庭具の ロックを解除した。": "自宅の家具・庭具の ロックを解除した。"
@@ -1527,13 +1527,13 @@
     "<%sL_ITEM><%sL_PLUSNUM><%nL_ITEM_NUM>個を <%sL_KISEKI><%nL_GET_NUM>個に 変えた。": "<%sL_ITEM><%sL_PLUSNUM><%nL_ITEM_NUM>個を <%sL_KISEKI><%nL_GET_NUM>個に 変えた。"
   },
   "510": {
-    "clarity_nt_char_163": "clarity_nt_char_163"
+    "clarity_nt_char_510": "clarity_nt_char_510"
   },
   "511": {
     "サポートモンスターに　<%sM_monster>を　登録した": "サポートモンスターに　<%sM_monster>を　登録した"
   },
   "512": {
-    "clarity_nt_char_164": "clarity_nt_char_164"
+    "clarity_nt_char_512": "clarity_nt_char_512"
   },
   "513": {
     "バトルロードに登録している　そうびひんの　<%sM_item>を　はずした": "バトルロードに登録している　そうびひんの　<%sM_item>を　はずした"
@@ -1548,13 +1548,13 @@
     "バトルロードで 戦闘に勝利した！": "バトルロードで 戦闘に勝利した！"
   },
   "517": {
-    "clarity_nt_char_165": "clarity_nt_char_165"
+    "clarity_nt_char_517": "clarity_nt_char_517"
   },
   "518": {
     "バトルロード　戦闘開始！": "バトルロード　戦闘開始！"
   },
   "519": {
-    "clarity_nt_char_166": "clarity_nt_char_166"
+    "clarity_nt_char_519": "clarity_nt_char_519"
   },
   "520": {
     "バトルロードランクが　<%sC_rank>ランクに　あがった！": "バトルロードランクが　<%sC_rank>ランクに　あがった！"
@@ -1566,13 +1566,13 @@
     "バトルロードコインを <%dM_BTL_COIN>枚 かくとく！": "バトルロードコインを <%dM_BTL_COIN>枚 かくとく！"
   },
   "523": {
-    "clarity_nt_char_167": "clarity_nt_char_167"
+    "clarity_nt_char_523": "clarity_nt_char_523"
   },
   "524": {
     "<%sM_Badge>を　かくとく！": "<%sM_Badge>を　かくとく！"
   },
   "525": {
-    "clarity_nt_char_168": "clarity_nt_char_168"
+    "clarity_nt_char_525": "clarity_nt_char_525"
   },
   "526": {
     "<%sM_Badge2>を わたした！": "<%sM_Badge2>を わたした！"
@@ -1581,13 +1581,13 @@
     "バトルロードコイン <%dM_Num>枚と <%sM_item>を <%dL_KAUKAZU>こ 交換した！": "バトルロードコイン <%dM_Num>枚と <%sM_item>を <%dL_KAUKAZU>こ 交換した！"
   },
   "528": {
-    "clarity_nt_char_169": "clarity_nt_char_169"
+    "clarity_nt_char_528": "clarity_nt_char_528"
   },
   "529": {
     "<%sM_Badge>を <%dM_BadgeNum>こ 交換した！": "<%sM_Badge>を <%dM_BadgeNum>こ 交換した！"
   },
   "530": {
-    "clarity_nt_char_170": "clarity_nt_char_170"
+    "clarity_nt_char_530": "clarity_nt_char_530"
   },
   "531": {
     "バトルロードに登録している　そうびひんの　<%sM_item>を　更新した": "バトルロードに登録している　そうびひんの　<%sM_item>を　更新した"
@@ -1596,7 +1596,7 @@
     "バトルロードポイントを <%dM_num>P かくとく！": "バトルロードポイントを <%dM_num>P かくとく！"
   },
   "533": {
-    "clarity_nt_char_171": "clarity_nt_char_171"
+    "clarity_nt_char_533": "clarity_nt_char_533"
   },
   "534": {
     "<%sM_Badge2>を <%dM_BadgeNum>こ わたした！": "<%sM_Badge2>を <%dM_BadgeNum>こ わたした！"
@@ -1614,25 +1614,25 @@
     "プライベートコンシェルジュから <%sM_ITEM><%nM_NUM>個を 受け取った！": "プライベートコンシェルジュから <%sM_ITEM><%nM_NUM>個を 受け取った！"
   },
   "539": {
-    "clarity_nt_char_172": "clarity_nt_char_172"
+    "clarity_nt_char_539": "clarity_nt_char_539"
   },
   "540": {
     "プライベートコンシェルジュから <%sM_ITEM>を 受け取った！": "プライベートコンシェルジュから <%sM_ITEM>を 受け取った！"
   },
   "541": {
-    "clarity_nt_char_173": "clarity_nt_char_173"
+    "clarity_nt_char_541": "clarity_nt_char_541"
   },
   "542": {
     "<%sM_monster>は <%dM_point_num1>Pの なつき度スキルポイントを かくとく！": "<%sM_monster>は <%dM_point_num1>Pの なつき度スキルポイントを かくとく！"
   },
   "543": {
-    "clarity_nt_char_174": "clarity_nt_char_174"
+    "clarity_nt_char_543": "clarity_nt_char_543"
   },
   "544": {
     "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」"
   },
   "545": {
-    "clarity_nt_char_175": "clarity_nt_char_175"
+    "clarity_nt_char_545": "clarity_nt_char_545"
   },
   "546": {
     "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」": "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」"
@@ -1641,7 +1641,7 @@
     "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>"
   },
   "548": {
-    "clarity_nt_char_176": "clarity_nt_char_176"
+    "clarity_nt_char_548": "clarity_nt_char_548"
   },
   "549": {
     "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>"
@@ -1656,19 +1656,19 @@
     "なかまにチャット不可": "なかまにチャット不可"
   },
   "553": {
-    "clarity_nt_char_177": "clarity_nt_char_177"
+    "clarity_nt_char_553": "clarity_nt_char_553"
   },
   "554": {
     "フレンドチャット不可": "フレンドチャット不可"
   },
   "555": {
-    "clarity_nt_char_178": "clarity_nt_char_178"
+    "clarity_nt_char_555": "clarity_nt_char_555"
   },
   "556": {
     "おひねり特典として <%sM_ITEM>を <%d_NUM>こ 手に入れた！": "おひねり特典として <%sM_ITEM>を <%d_NUM>こ 手に入れた！"
   },
   "557": {
-    "clarity_nt_char_179": "clarity_nt_char_179"
+    "clarity_nt_char_557": "clarity_nt_char_557"
   },
   "558": {
     "<%sM_pc>の記事に <%dM_GOLD>ゴールド おひねりした！": "<%sM_pc>の記事に <%dM_GOLD>ゴールド おひねりした！"
@@ -1683,25 +1683,25 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。": "\\s<%sC_PC>\\m<%sC_ID>\\eが 遊びにきました。"
   },
   "562": {
-    "clarity_nt_char_180": "clarity_nt_char_180"
+    "clarity_nt_char_562": "clarity_nt_char_562"
   },
   "563": {
     "<%-9sM_point><%-18sM_item>[<%-20sM_flower1>][<%-20sM_flower2>]": "<%-9sM_point><%-18sM_item>[<%-20sM_flower1>][<%-20sM_flower2>]"
   },
   "564": {
-    "clarity_nt_char_181": "clarity_nt_char_181"
+    "clarity_nt_char_564": "clarity_nt_char_564"
   },
   "565": {
     "からだ上": "からだ上"
   },
   "566": {
-    "clarity_nt_char_182": "clarity_nt_char_182"
+    "clarity_nt_char_566": "clarity_nt_char_566"
   },
   "567": {
     "からだ下": "からだ下"
   },
   "568": {
-    "clarity_nt_char_183": "clarity_nt_char_183"
+    "clarity_nt_char_568": "clarity_nt_char_568"
   },
   "569": {
     "アタマ": "アタマ"
@@ -1713,25 +1713,25 @@
     "ひだりて": "ひだりて"
   },
   "572": {
-    "clarity_nt_char_184": "clarity_nt_char_184"
+    "clarity_nt_char_572": "clarity_nt_char_572"
   },
   "573": {
     "ウデ": "ウデ"
   },
   "574": {
-    "clarity_nt_char_185": "clarity_nt_char_185"
+    "clarity_nt_char_574": "clarity_nt_char_574"
   },
   "575": {
     "顔アクセ": "顔アクセ"
   },
   "576": {
-    "clarity_nt_char_186": "clarity_nt_char_186"
+    "clarity_nt_char_576": "clarity_nt_char_576"
   },
   "577": {
     "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 収穫した！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！"
   },
   "578": {
-    "clarity_nt_char_187": "clarity_nt_char_187"
+    "clarity_nt_char_578": "clarity_nt_char_578"
   },
   "579": {
     "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 摘んだ！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！": "<%sL_OWNER>の畑から <%sL_ITEM>を<%nL_NUM>こ 摘んだ！|所持数 <%nL_BEFORE_NUM>こ → <%nL_AFTER_NUM>こ になった！"
@@ -1746,7 +1746,7 @@
     "カジノコイン <%dL_casinocoin>枚と <%sM_item> <%dL_NUM>個を 交換した！": "カジノコイン <%dL_casinocoin>枚と <%sM_item> <%dL_NUM>個を 交換した！"
   },
   "583": {
-    "clarity_nt_char_188": "clarity_nt_char_188"
+    "clarity_nt_char_583": "clarity_nt_char_583"
   },
   "584": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！"
@@ -1755,7 +1755,7 @@
     "合成レベルが <%dL_RANK>に あがった！": "合成レベルが <%dL_RANK>に あがった！"
   },
   "586": {
-    "clarity_nt_char_189": "clarity_nt_char_189"
+    "clarity_nt_char_586": "clarity_nt_char_586"
   },
   "587": {
     "ラッキー合成！ 合成素材が なくならなかった！": "ラッキー合成！ 合成素材が なくならなかった！"
@@ -1764,13 +1764,13 @@
     "<%dL_EXP> Pの合成経験値を かくとく！": "<%dL_EXP> Pの合成経験値を かくとく！"
   },
   "589": {
-    "clarity_nt_char_190": "clarity_nt_char_190"
+    "clarity_nt_char_589": "clarity_nt_char_589"
   },
   "590": {
     "会心の合成！ 好きな効果を 付けられそうだ！": "会心の合成！ 好きな効果を 付けられそうだ！"
   },
   "591": {
-    "clarity_nt_char_191": "clarity_nt_char_191"
+    "clarity_nt_char_591": "clarity_nt_char_591"
   },
   "592": {
     "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！": "ちいさなメダル <%dL_medal>枚と|<%sM_item>（だいじなもの）を 交換した！"
@@ -1785,31 +1785,31 @@
     "合成手数料として <%dM_gold> Gを 支払った。": "合成手数料として <%dM_gold> Gを 支払った。"
   },
   "596": {
-    "clarity_nt_char_192": "clarity_nt_char_192"
+    "clarity_nt_char_596": "clarity_nt_char_596"
   },
   "597": {
     "<%sM_item>を <%dM_item_num>個 錬金釜に入れた！": "<%sM_item>を <%dM_item_num>個 錬金釜に入れた！"
   },
   "598": {
-    "clarity_nt_char_193": "clarity_nt_char_193"
+    "clarity_nt_char_598": "clarity_nt_char_598"
   },
   "599": {
     "<%sM_item>を 錬金釜に入れた！": "<%sM_item>を 錬金釜に入れた！"
   },
   "600": {
-    "clarity_nt_char_194": "clarity_nt_char_194"
+    "clarity_nt_char_600": "clarity_nt_char_600"
   },
   "601": {
     "錬金釜で 錬金を中断した": "錬金釜で 錬金を中断した"
   },
   "602": {
-    "clarity_nt_char_195": "clarity_nt_char_195"
+    "clarity_nt_char_602": "clarity_nt_char_602"
   },
   "603": {
     "錬金釜で 錬金を開始した": "錬金釜で 錬金を開始した"
   },
   "604": {
-    "clarity_nt_char_196": "clarity_nt_char_196"
+    "clarity_nt_char_604": "clarity_nt_char_604"
   },
   "605": {
     "<%sM_item>を 錬金釜で作成した！": "<%sM_item>を 錬金釜で作成した！"
@@ -1818,7 +1818,7 @@
     "錬金釜で 錬金が完了した": "錬金釜で 錬金が完了した"
   },
   "607": {
-    "clarity_nt_char_197": "clarity_nt_char_197"
+    "clarity_nt_char_607": "clarity_nt_char_607"
   },
   "608": {
     "<%sM_ITEM>を 鑑定した。": "<%sM_ITEM>を 鑑定した。"
@@ -1830,13 +1830,13 @@
     "家具＆庭具おきばに <%sL_ITEM>を 入れた。": "家具＆庭具おきばに <%sL_ITEM>を 入れた。"
   },
   "611": {
-    "clarity_nt_char_198": "clarity_nt_char_198"
+    "clarity_nt_char_611": "clarity_nt_char_611"
   },
   "612": {
     "家具＆庭具おきばから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": "家具＆庭具おきばから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。"
   },
   "613": {
-    "clarity_nt_char_199": "clarity_nt_char_199"
+    "clarity_nt_char_613": "clarity_nt_char_613"
   },
   "614": {
     "家具＆庭具おきばから <%sL_ITEM>を 取り出した。": "家具＆庭具おきばから <%sL_ITEM>を 取り出した。"
@@ -1848,19 +1848,19 @@
     "<%sL_OWNER>の畑に 水を　あげた！": "<%sL_OWNER>の畑に 水を　あげた！"
   },
   "617": {
-    "clarity_nt_char_200": "clarity_nt_char_200"
+    "clarity_nt_char_617": "clarity_nt_char_617"
   },
   "618": {
     "鑑定した石版を セットした。": "鑑定した石版を セットした。"
   },
   "619": {
-    "clarity_nt_char_201": "clarity_nt_char_201"
+    "clarity_nt_char_619": "clarity_nt_char_619"
   },
   "620": {
     "<pc>は 石版を鑑定して <%dM_NUM> P 手に入れた！": "<pc>は 石版を鑑定して <%dM_NUM> P 手に入れた！"
   },
   "621": {
-    "clarity_nt_char_202": "clarity_nt_char_202"
+    "clarity_nt_char_621": "clarity_nt_char_621"
   },
   "622": {
     "預けていた石版を すてた。": "預けていた石版を すてた。"
@@ -1869,7 +1869,7 @@
     "鑑定した石版を 預けた。": "鑑定した石版を 預けた。"
   },
   "624": {
-    "clarity_nt_char_203": "clarity_nt_char_203"
+    "clarity_nt_char_624": "clarity_nt_char_624"
   },
   "625": {
     "鑑定した　<%sM_SKILL>を 達人に預けた。": "鑑定した　<%sM_SKILL>を 達人に預けた。"
@@ -1881,7 +1881,7 @@
     "<%sL_KOUKA>が <%sL_KOUKA_2>に なった！": "<%sL_KOUKA>が <%sL_KOUKA_2>に なった！"
   },
   "628": {
-    "clarity_nt_char_204": "clarity_nt_char_204"
+    "clarity_nt_char_628": "clarity_nt_char_628"
   },
   "629": {
     "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！": "<%sL_OWNER>の畑の　作物をぬいて　やりなおした！"
@@ -1890,7 +1890,7 @@
     "<%sL_TOWN>のくじ屋で|くじを　1枚 <%dL_DEF_GOLD> Gで買った！": "<%sL_TOWN>のくじ屋で|くじを　1枚 <%dL_DEF_GOLD> Gで買った！"
   },
   "631": {
-    "clarity_nt_char_205": "clarity_nt_char_205"
+    "clarity_nt_char_631": "clarity_nt_char_631"
   },
   "632": {
     "アストルティア★ハッピーくじの参加賞　<%sL_SANKAITEM>を|<%dL_NUM>こ　手に入れた！": "アストルティア★ハッピーくじの参加賞　<%sL_SANKAITEM>を|<%dL_NUM>こ　手に入れた！"
@@ -1899,7 +1899,7 @@
     "アストルティア★ハッピーくじの当選金額　<%dL_GOLD> Gを　手に入れた！": "アストルティア★ハッピーくじの当選金額　<%dL_GOLD> Gを　手に入れた！"
   },
   "634": {
-    "clarity_nt_char_206": "clarity_nt_char_206"
+    "clarity_nt_char_634": "clarity_nt_char_634"
   },
   "635": {
     "くじケースが だいじなものに　追加された！": "くじケースが だいじなものに　追加された！"
@@ -1908,7 +1908,7 @@
     "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>にカラーリングした。": "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>にカラーリングした。"
   },
   "637": {
-    "clarity_nt_char_207": "clarity_nt_char_207"
+    "clarity_nt_char_637": "clarity_nt_char_637"
   },
   "638": {
     "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！": "<%sM_item>を <%dM_item_num>個 錬金釜から取り出した！"
@@ -1917,7 +1917,7 @@
     "強化屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 強化した！": "強化屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 強化した！"
   },
   "640": {
-    "clarity_nt_char_208": "clarity_nt_char_208"
+    "clarity_nt_char_640": "clarity_nt_char_640"
   },
   "641": {
     "不思議の魔塔の討伐報酬で|<%sM_item>を <%dM_item_num>個 手に入れた！": "不思議の魔塔の討伐報酬で|<%sM_item>を <%dM_item_num>個 手に入れた！"
@@ -1929,13 +1929,13 @@
     "錬金屋で <%sM_item><%sM_plusnum>の|錬金効果を 付け直した！": "錬金屋で <%sM_item><%sM_plusnum>の|錬金効果を 付け直した！"
   },
   "644": {
-    "clarity_nt_char_209": "clarity_nt_char_209"
+    "clarity_nt_char_644": "clarity_nt_char_644"
   },
   "645": {
     "変換屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 変換した！": "変換屋で <%sM_item><%sM_plusnum>を|<%sM_item2><%sM_plusnum2>に 変換した！"
   },
   "646": {
-    "clarity_nt_char_210": "clarity_nt_char_210"
+    "clarity_nt_char_646": "clarity_nt_char_646"
   },
   "647": {
     "錬金屋で <%sM_item><%sM_plusnum>に|<%sL_KOUKA>を 付けた！": "錬金屋で <%sM_item><%sM_plusnum>に|<%sL_KOUKA>を 付けた！"
@@ -1944,7 +1944,7 @@
     "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を 成長させた！": "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_GROW_KOUKA>を 成長させた！"
   },
   "649": {
-    "clarity_nt_char_211": "clarity_nt_char_211"
+    "clarity_nt_char_649": "clarity_nt_char_649"
   },
   "650": {
     "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！": "札強化屋で <%sL_WATASITA_ITEM><%sM_plusnum>の <%sL_ERASE_KOUKA>を 消した！"
@@ -1956,19 +1956,19 @@
     "錬金釜のフォルムを 元に戻した！": "錬金釜のフォルムを 元に戻した！"
   },
   "653": {
-    "clarity_nt_char_212": "clarity_nt_char_212"
+    "clarity_nt_char_653": "clarity_nt_char_653"
   },
   "654": {
     "錬金釜のフォルムを <%sL_PRISM>に 変更した！": "錬金釜のフォルムを <%sL_PRISM>に 変更した！"
   },
   "655": {
-    "clarity_nt_char_213": "clarity_nt_char_213"
+    "clarity_nt_char_655": "clarity_nt_char_655"
   },
   "656": {
     "錬金釜に <%sL_PRISM>を 取り付けた！": "錬金釜に <%sL_PRISM>を 取り付けた！"
   },
   "657": {
-    "clarity_nt_char_214": "clarity_nt_char_214"
+    "clarity_nt_char_657": "clarity_nt_char_657"
   },
   "658": {
     "<%sL_PRISM>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！|<%dL_GOLD> G支払った。": "<%sL_PRISM>の <%sL_SLOT>を|<%sL_C_COLOR>に カラーリングした！|<%dL_GOLD> G支払った。"
@@ -1977,7 +1977,7 @@
     "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って|<%sL_SEAL_KOUKA>を 封印した！": "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って|<%sL_SEAL_KOUKA>を 封印した！"
   },
   "660": {
-    "clarity_nt_char_215": "clarity_nt_char_215"
+    "clarity_nt_char_660": "clarity_nt_char_660"
   },
   "661": {
     "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って|<%sL_BELT_NAME>の効果の 封印状態を リセットした！|これまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！": "<%sL_KISEKI>を <%nL_POINT_NUM>個 使って|<%sL_BELT_NAME>の効果の 封印状態を リセットした！|これまで封印に使った <%sL_KISEKI> <%nL_GET_NUM>個が 戻ってきた！"
@@ -1986,7 +1986,7 @@
     "札強化屋から <%sL_GET_ITEM>を もらった！": "札強化屋から <%sL_GET_ITEM>を もらった！"
   },
   "663": {
-    "clarity_nt_char_216": "clarity_nt_char_216"
+    "clarity_nt_char_663": "clarity_nt_char_663"
   },
   "664": {
     "<pc>はエステラに <%sL_ITEM>を プレゼントした！": "<pc>はエステラに <%sL_ITEM>を プレゼントした！"
@@ -1998,25 +1998,25 @@
     "手数料として <%dM_gold> Gを 支払った。": "手数料として <%dM_gold> Gを 支払った。"
   },
   "667": {
-    "clarity_nt_char_217": "clarity_nt_char_217"
+    "clarity_nt_char_667": "clarity_nt_char_667"
   },
   "668": {
     "すべての職業が　特訓モードになった！": "すべての職業が　特訓モードになった！"
   },
   "669": {
-    "clarity_nt_char_218": "clarity_nt_char_218"
+    "clarity_nt_char_669": "clarity_nt_char_669"
   },
   "670": {
     "すべての職業の　特訓モードが解除された！": "すべての職業の　特訓モードが解除された！"
   },
   "671": {
-    "clarity_nt_char_219": "clarity_nt_char_219"
+    "clarity_nt_char_671": "clarity_nt_char_671"
   },
   "672": {
     "美容院で <%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！": "美容院で <%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！"
   },
   "673": {
-    "clarity_nt_char_220": "clarity_nt_char_220"
+    "clarity_nt_char_673": "clarity_nt_char_673"
   },
   "674": {
     "美容院で <%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": "美容院で <%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！"
@@ -2025,7 +2025,7 @@
     "美容院で <%sM_name>の かみの色１を|<%sM_old>から <%sM_new>に変えた！": "美容院で <%sM_name>の かみの色１を|<%sM_old>から <%sM_new>に変えた！"
   },
   "676": {
-    "clarity_nt_char_221": "clarity_nt_char_221"
+    "clarity_nt_char_676": "clarity_nt_char_676"
   },
   "677": {
     "美容院で <%sM_name>のかみがたを <%sM_old>から <%sM_new>に 変えた！": "美容院で <%sM_name>のかみがたを <%sM_old>から <%sM_new>に 変えた！"
@@ -2046,7 +2046,7 @@
     "達人クエストを　受けました。": "達人クエストを　受けました。"
   },
   "683": {
-    "clarity_nt_char_222": "clarity_nt_char_222"
+    "clarity_nt_char_683": "clarity_nt_char_683"
   },
   "684": {
     "宝珠ポイントを <%dM_NUM> P かくとく！": "宝珠ポイントを <%dM_NUM> P かくとく！"
@@ -2055,25 +2055,25 @@
     "<%sM_ELEMENT>の石版に 穴をあけた！": "<%sM_ELEMENT>の石版に 穴をあけた！"
   },
   "686": {
-    "clarity_nt_char_223": "clarity_nt_char_223"
+    "clarity_nt_char_686": "clarity_nt_char_686"
   },
   "687": {
     "<%sM_ELEMENT>の石版を 達人にわたした。": "<%sM_ELEMENT>の石版を 達人にわたした。"
   },
   "688": {
-    "clarity_nt_char_224": "clarity_nt_char_224"
+    "clarity_nt_char_688": "clarity_nt_char_688"
   },
   "689": {
     "<%sM_item>を <%dM_item_num>個 手に入れた！": "<%sM_item>を <%dM_item_num>個 手に入れた！"
   },
   "690": {
-    "clarity_nt_char_225": "clarity_nt_char_225"
+    "clarity_nt_char_690": "clarity_nt_char_690"
   },
   "691": {
     "<%sM_ELEMENT>の石版を セットし 元々セットされていた石版を失った。": "<%sM_ELEMENT>の石版を セットし 元々セットされていた石版を失った。"
   },
   "692": {
-    "clarity_nt_char_226": "clarity_nt_char_226"
+    "clarity_nt_char_692": "clarity_nt_char_692"
   },
   "693": {
     "立ちかたを　変更した！": "立ちかたを　変更した！"
@@ -2085,31 +2085,31 @@
     "<pc>は　お宝の写真を　交換した！": "<pc>は　お宝の写真を　交換した！"
   },
   "696": {
-    "clarity_nt_char_227": "clarity_nt_char_227"
+    "clarity_nt_char_696": "clarity_nt_char_696"
   },
   "697": {
     "<pc>は　お宝を発見した！": "<pc>は　お宝を発見した！"
   },
   "698": {
-    "clarity_nt_char_228": "clarity_nt_char_228"
+    "clarity_nt_char_698": "clarity_nt_char_698"
   },
   "699": {
     "<pc>は　新しいお宝の写真を　手に入れた！": "<pc>は　新しいお宝の写真を　手に入れた！"
   },
   "700": {
-    "clarity_nt_char_229": "clarity_nt_char_229"
+    "clarity_nt_char_700": "clarity_nt_char_700"
   },
   "701": {
     "いまの見た目を　コーデ名「<%sM_myset2>」で|マイセットに　登録した！": "いまの見た目を　コーデ名「<%sM_myset2>」で|マイセットに　登録した！"
   },
   "702": {
-    "clarity_nt_char_230": "clarity_nt_char_230"
+    "clarity_nt_char_702": "clarity_nt_char_702"
   },
   "703": {
     "マイコーデ「<%sM_myset>」のコーデ名を|「<%sM_myset2>」に　変更した！": "マイコーデ「<%sM_myset>」のコーデ名を|「<%sM_myset2>」に　変更した！"
   },
   "704": {
-    "clarity_nt_char_231": "clarity_nt_char_231"
+    "clarity_nt_char_704": "clarity_nt_char_704"
   },
   "705": {
     "一部の売上金を 正常に受け取れませんでした": "一部の売上金を 正常に受け取れませんでした"
@@ -2121,7 +2121,7 @@
     "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！": "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！"
   },
   "708": {
-    "clarity_nt_char_232": "clarity_nt_char_232"
+    "clarity_nt_char_708": "clarity_nt_char_708"
   },
   "709": {
     "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> フェルドで売った！": "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_URUKAZU>個 <%dL_SELL_PRICE> フェルドで売った！"
@@ -2130,13 +2130,13 @@
     "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> フェルドで売った！": "お店に <%sL_URITAI_ITEM><%sL_PLUSNUM>を <%dL_SELL_PRICE> フェルドで売った！"
   },
   "711": {
-    "clarity_nt_char_233": "clarity_nt_char_233"
+    "clarity_nt_char_711": "clarity_nt_char_711"
   },
   "712": {
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> フェルドで買った！": "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_KAUKAZU>個 <%dL_BUY_PRICE> フェルドで買った！"
   },
   "713": {
-    "clarity_nt_char_234": "clarity_nt_char_234"
+    "clarity_nt_char_713": "clarity_nt_char_713"
   },
   "714": {
     "アストルティア★ハッピーくじの当選景品|<%sL_KEIHINITEM>を　<%dL_NUM>こ　手に入れた！": "アストルティア★ハッピーくじの当選景品|<%sL_KEIHINITEM>を　<%dL_NUM>こ　手に入れた！"
@@ -2148,7 +2148,7 @@
     "<pc>は 友情の光を <%dM_NUM> P 手に入れた！": "<pc>は 友情の光を <%dM_NUM> P 手に入れた！"
   },
   "717": {
-    "clarity_nt_char_235": "clarity_nt_char_235"
+    "clarity_nt_char_717": "clarity_nt_char_717"
   },
   "718": {
     "<%sM_TRASH_SKILL>の書を 投げ捨てた！": "<%sM_TRASH_SKILL>の書を 投げ捨てた！"
@@ -2157,7 +2157,7 @@
     "<pc>は <%sB_ITEM>を <%nB_OPEN_NUM>個 開けた！": "<pc>は <%sB_ITEM>を <%nB_OPEN_NUM>個 開けた！"
   },
   "720": {
-    "clarity_nt_char_236": "clarity_nt_char_236"
+    "clarity_nt_char_720": "clarity_nt_char_720"
   },
   "721": {
     "<pc>は <%sB_ITEM>を 開けようとした！|<br>|これ以上　モンスタータロットを持ちきれないので 開けることができなかった！": "<pc>は <%sB_ITEM>を 開けようとした！|<br>|これ以上　モンスタータロットを持ちきれないので 開けることができなかった！"
@@ -2169,7 +2169,7 @@
     "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！": "ランク<%sB_TAROT_RARE>の タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 手に入れた！"
   },
   "724": {
-    "clarity_nt_char_237": "clarity_nt_char_237"
+    "clarity_nt_char_724": "clarity_nt_char_724"
   },
   "725": {
     "美容院で おおきさを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で おおきさを <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
@@ -2181,7 +2181,7 @@
     "<%sM_item><%sM_plusnum>に|<%sL_KOUKA>が 付いた！": "<%sM_item><%sM_plusnum>に|<%sL_KOUKA>が 付いた！"
   },
   "728": {
-    "clarity_nt_char_238": "clarity_nt_char_238"
+    "clarity_nt_char_728": "clarity_nt_char_728"
   },
   "729": {
     "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "美容院で <%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！"
@@ -2196,13 +2196,13 @@
     "<%sL_MAT_ITEM>　<%dL_NUM>個で　<%sL_ITEM><%sL_PLUSNUM>の|<%sL_RENKIN_BEFORE>の効果を|<%sL_RENKIN_AFTER>に強化した！": "<%sL_MAT_ITEM>　<%dL_NUM>個で　<%sL_ITEM><%sL_PLUSNUM>の|<%sL_RENKIN_BEFORE>の効果を|<%sL_RENKIN_AFTER>に強化した！"
   },
   "733": {
-    "clarity_nt_char_239": "clarity_nt_char_239"
+    "clarity_nt_char_733": "clarity_nt_char_733"
   },
   "734": {
     "<%sL_REGION>住宅村　<%nL_AREA>丁目|<%sL_DIVISION>　<%nL_BANTI>番地へ|バトンを届けよう！": "<%sL_REGION>住宅村　<%nL_AREA>丁目|<%sL_DIVISION>　<%nL_BANTI>番地へ|バトンを届けよう！"
   },
   "735": {
-    "clarity_nt_char_240": "clarity_nt_char_240"
+    "clarity_nt_char_735": "clarity_nt_char_735"
   },
   "736": {
     "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>を 合成した！": "<%sL_ACCE_ITEM><%sL_PLUSNUM_1>を 合成した！"
@@ -2214,7 +2214,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_race>種の <%sM_slime_name>": "\\s<%sC_PC>\\m<%sC_ID>\\e <%sM_slime_race>種の <%sM_slime_name>"
   },
   "739": {
-    "clarity_nt_char_241": "clarity_nt_char_241"
+    "clarity_nt_char_739": "clarity_nt_char_739"
   },
   "740": {
     "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！|<%dM_points2>Pから <%dM_points3>Pになった。": "<%sM_slime_name>は スライムレース勝利ポイントを <%sM_points>P かくとく！|<%dM_points2>Pから <%dM_points3>Pになった。"
@@ -2226,13 +2226,13 @@
     "<%sM_slime_name>は <%nM_tickets>回分のレース参加権を 受け取った！": "<%sM_slime_name>は <%nM_tickets>回分のレース参加権を 受け取った！"
   },
   "743": {
-    "clarity_nt_char_242": "clarity_nt_char_242"
+    "clarity_nt_char_743": "clarity_nt_char_743"
   },
   "744": {
     "<pc>は 予選参加権を 消費した。": "<pc>は 予選参加権を 消費した。"
   },
   "745": {
-    "clarity_nt_char_243": "clarity_nt_char_243"
+    "clarity_nt_char_745": "clarity_nt_char_745"
   },
   "746": {
     "スライムレースの <%sM_slime_name>は|<%sM_race>種の <%sM_color>色に きたえなおされた！": "スライムレースの <%sM_slime_name>は|<%sM_race>種の <%sM_color>色に きたえなおされた！"
@@ -2244,13 +2244,13 @@
     "プロフィール情報の取得に　失敗しました。": "プロフィール情報の取得に　失敗しました。"
   },
   "749": {
-    "clarity_nt_char_244": "clarity_nt_char_244"
+    "clarity_nt_char_749": "clarity_nt_char_749"
   },
   "750": {
     "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！": "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 合成に使った！"
   },
   "751": {
-    "clarity_nt_char_245": "clarity_nt_char_245"
+    "clarity_nt_char_751": "clarity_nt_char_751"
   },
   "752": {
     "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 投げ捨てた！": "タロット『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を 投げ捨てた！"
@@ -2262,19 +2262,19 @@
     "リザーブ": "リザーブ"
   },
   "755": {
-    "clarity_nt_char_246": "clarity_nt_char_246"
+    "clarity_nt_char_755": "clarity_nt_char_755"
   },
   "756": {
     "<%sM_HARON_NUM>：<%sM_TOKUGI_NUM>": "<%sM_HARON_NUM>：<%sM_TOKUGI_NUM>"
   },
   "757": {
-    "clarity_nt_char_247": "clarity_nt_char_247"
+    "clarity_nt_char_757": "clarity_nt_char_757"
   },
   "758": {
     "流星メダル <%dL_CPS_M_NUM>枚を使って|○○○が着られるようになった！": "流星メダル <%dL_CPS_M_NUM>枚を使って|○○○が着られるようになった！"
   },
   "759": {
-    "clarity_nt_char_248": "clarity_nt_char_248"
+    "clarity_nt_char_759": "clarity_nt_char_759"
   },
   "760": {
     "流星メダル <%dL_CPS_M_NUM>枚を使って|○○が着られるようになった！": "流星メダル <%dL_CPS_M_NUM>枚を使って|○○が着られるようになった！"
@@ -2283,13 +2283,13 @@
     "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 武道場の願いのかけらが <%sL_CPS_M_EFC>多く手に入るようになった！": "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 武道場の願いのかけらが <%sL_CPS_M_EFC>多く手に入るようになった！"
   },
   "762": {
-    "clarity_nt_char_249": "clarity_nt_char_249"
+    "clarity_nt_char_762": "clarity_nt_char_762"
   },
   "763": {
     "<%sM_item><%sM_plusnum>を <%sM_item2><%sM_plusnum2>に 進化させた！": "<%sM_item><%sM_plusnum>を <%sM_item2><%sM_plusnum2>に 進化させた！"
   },
   "764": {
-    "clarity_nt_char_250": "clarity_nt_char_250"
+    "clarity_nt_char_764": "clarity_nt_char_764"
   },
   "765": {
     "<%sM_SNPC>の　髪型が追加された！": "<%sM_SNPC>の　髪型が追加された！"
@@ -2304,13 +2304,13 @@
     "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！| → 購買部にある売り物が　<%sL_CPS_M_PSV> <%dM_num>％安く買えるようになった！": "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！| → 購買部にある売り物が　<%sL_CPS_M_PSV> <%dM_num>％安く買えるようになった！"
   },
   "769": {
-    "clarity_nt_char_251": "clarity_nt_char_251"
+    "clarity_nt_char_769": "clarity_nt_char_769"
   },
   "770": {
     "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 願いのかけらを持てる数が <%dM_num>個になった！": "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 願いのかけらを持てる数が <%dM_num>個になった！"
   },
   "771": {
-    "clarity_nt_char_252": "clarity_nt_char_252"
+    "clarity_nt_char_771": "clarity_nt_char_771"
   },
   "772": {
     "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 学園内でいつもより <%sL_CPS_M_EFC>速く移動できるようになった！": "流星メダル <%dL_CPS_M_NUM>枚で|『<%sL_CPS_M_WISH>』のルーンを刻んだ！|→ 学園内でいつもより <%sL_CPS_M_EFC>速く移動できるようになった！"
@@ -2319,19 +2319,19 @@
     "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！": "授業を受けて <%sL_TICKET_NAME>を <%nM_NUM>枚 消費した！"
   },
   "774": {
-    "clarity_nt_char_253": "clarity_nt_char_253"
+    "clarity_nt_char_774": "clarity_nt_char_774"
   },
   "775": {
     "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！": "<%sL_ITEM><%sL_PLUSNUM_3>に <%sL_KOUKA>が 付いた！"
   },
   "776": {
-    "clarity_nt_char_254": "clarity_nt_char_254"
+    "clarity_nt_char_776": "clarity_nt_char_776"
   },
   "777": {
     "<pc>は　<%sM_ryoukai>　<%sM_stage>の調査依頼を　受けた！": "<pc>は　<%sM_ryoukai>　<%sM_stage>の調査依頼を　受けた！"
   },
   "778": {
-    "clarity_nt_char_255": "clarity_nt_char_255"
+    "clarity_nt_char_778": "clarity_nt_char_778"
   },
   "779": {
     "フィッシングコンテスト　ランキングでの名前表示設定を　|『ないしょ』　に設定した。": "フィッシングコンテスト　ランキングでの名前表示設定を　|『ないしょ』　に設定した。"
@@ -2340,13 +2340,13 @@
     "『<%sM_fish>』の最大サイズが　<%.1fM_CM>ｃｍ　に更新された！": "『<%sM_fish>』の最大サイズが　<%.1fM_CM>ｃｍ　に更新された！"
   },
   "781": {
-    "clarity_nt_char_256": "clarity_nt_char_256"
+    "clarity_nt_char_781": "clarity_nt_char_781"
   },
   "782": {
     "フィッシングコンテスト　ランキングでの名前表示設定を|『公開する』　に設定した。": "フィッシングコンテスト　ランキングでの名前表示設定を|『公開する』　に設定した。"
   },
   "783": {
-    "clarity_nt_char_257": "clarity_nt_char_257"
+    "clarity_nt_char_783": "clarity_nt_char_783"
   },
   "784": {
     "部活強化週間の 課題の条件を みたした！|部活ポイント <%dL_BONUS_POINT> Pを 課題成功ボーナスとして 手に入れた！": "部活強化週間の 課題の条件を みたした！|部活ポイント <%dL_BONUS_POINT> Pを 課題成功ボーナスとして 手に入れた！"
@@ -2361,7 +2361,7 @@
     "<pc>は <%sL_CLUBSTR>部員になった。": "<pc>は <%sL_CLUBSTR>部員になった。"
   },
   "788": {
-    "clarity_nt_char_258": "clarity_nt_char_258"
+    "clarity_nt_char_788": "clarity_nt_char_788"
   },
   "789": {
     "強化週間チケットと お手伝いチケットの 残りが回収された。": "強化週間チケットと お手伝いチケットの 残りが回収された。"
@@ -2373,13 +2373,13 @@
     "部活強化週間の報酬として 部室の職人道具がランクアップした！": "部活強化週間の報酬として 部室の職人道具がランクアップした！"
   },
   "792": {
-    "clarity_nt_char_259": "clarity_nt_char_259"
+    "clarity_nt_char_792": "clarity_nt_char_792"
   },
   "793": {
     "部活強化週間の報酬として 部の設備利用券 <%dL_TICKET>枚を 手に入れた！": "部活強化週間の報酬として 部の設備利用券 <%dL_TICKET>枚を 手に入れた！"
   },
   "794": {
-    "clarity_nt_char_260": "clarity_nt_char_260"
+    "clarity_nt_char_794": "clarity_nt_char_794"
   },
   "795": {
     "部活強化週間の報酬として 部活ポイント <%dL_POINT> Pを 手に入れた！": "部活強化週間の報酬として 部活ポイント <%dL_POINT> Pを 手に入れた！"
@@ -2388,7 +2388,7 @@
     "お手伝いチケットを <%dL_HELP_NUM>枚 手に入れた！": "お手伝いチケットを <%dL_HELP_NUM>枚 手に入れた！"
   },
   "797": {
-    "clarity_nt_char_261": "clarity_nt_char_261"
+    "clarity_nt_char_797": "clarity_nt_char_797"
   },
   "798": {
     "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！": "強化週間チケットを <%dL_KYOKA_NUM>枚 手に入れた！"
@@ -2397,19 +2397,19 @@
     "<pc>は 部活強化週間に参加した！": "<pc>は 部活強化週間に参加した！"
   },
   "800": {
-    "clarity_nt_char_262": "clarity_nt_char_262"
+    "clarity_nt_char_800": "clarity_nt_char_800"
   },
   "801": {
     "死闘のグロリアを <%dM_NUM>枚 手に入れた！": "死闘のグロリアを <%dM_NUM>枚 手に入れた！"
   },
   "802": {
-    "clarity_nt_char_263": "clarity_nt_char_263"
+    "clarity_nt_char_802": "clarity_nt_char_802"
   },
   "803": {
     "<%sL_KOUKA>が|<%sL_KOUKA_2>に なった！": "<%sL_KOUKA>が|<%sL_KOUKA_2>に なった！"
   },
   "804": {
-    "clarity_nt_char_264": "clarity_nt_char_264"
+    "clarity_nt_char_804": "clarity_nt_char_804"
   },
   "805": {
     "仮装メイクの有効期間が <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分に延長された。": "仮装メイクの有効期間が <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分に延長された。"
@@ -2418,13 +2418,13 @@
     "<pc>は <%sL_ITEM>を <%dL_ITEM_NUM>個 使った！": "<pc>は <%sL_ITEM>を <%dL_ITEM_NUM>個 使った！"
   },
   "807": {
-    "clarity_nt_char_265": "clarity_nt_char_265"
+    "clarity_nt_char_807": "clarity_nt_char_807"
   },
   "808": {
     "友情の光を <%dM_POINT> P ささげて <%sM_item>を <%dM_GET_NUM>個 手に入れた！": "友情の光を <%dM_POINT> P ささげて <%sM_item>を <%dM_GET_NUM>個 手に入れた！"
   },
   "809": {
-    "clarity_nt_char_266": "clarity_nt_char_266"
+    "clarity_nt_char_809": "clarity_nt_char_809"
   },
   "810": {
     "友情の光を <%dM_POINT> P ささげて <%sM_item>を 手に入れた！": "友情の光を <%dM_POINT> P ささげて <%sM_item>を 手に入れた！"
@@ -2433,7 +2433,7 @@
     "部活ポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "部活ポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！"
   },
   "812": {
-    "clarity_nt_char_267": "clarity_nt_char_267"
+    "clarity_nt_char_812": "clarity_nt_char_812"
   },
   "813": {
     "部活ポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "部活ポイント <%dM_POINT> Pと <%sM_item>を 交換した！"
@@ -2442,7 +2442,7 @@
     "かさ": "かさ"
   },
   "815": {
-    "clarity_nt_char_268": "clarity_nt_char_268"
+    "clarity_nt_char_815": "clarity_nt_char_815"
   },
   "816": {
     "<pc>は 仮装メイクを落とした。": "<pc>は 仮装メイクを落とした。"
@@ -2454,19 +2454,19 @@
     "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item>は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。": "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item>は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。"
   },
   "819": {
-    "clarity_nt_char_269": "clarity_nt_char_269"
+    "clarity_nt_char_819": "clarity_nt_char_819"
   },
   "820": {
     "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item> <%dM_item_num>個は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。": "<%sC_PC>は <%sM_item>を手にとった。<br>|<%sM_item> <%dM_item_num>個は<%sC_PC>の手に　のったとたんに|おともなく　くずれさった。"
   },
   "821": {
-    "clarity_nt_char_270": "clarity_nt_char_270"
+    "clarity_nt_char_821": "clarity_nt_char_821"
   },
   "822": {
     "<%sL_OWNER>の畑の　花をぬいて　やりなおした！": "<%sL_OWNER>の畑の　花をぬいて　やりなおした！"
   },
   "823": {
-    "clarity_nt_char_271": "clarity_nt_char_271"
+    "clarity_nt_char_823": "clarity_nt_char_823"
   },
   "824": {
     "仮装メイクの有効期間は <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分です。": "仮装メイクの有効期間は <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分です。"
@@ -2475,7 +2475,7 @@
     "キュウサイポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "キュウサイポイント <%dM_POINT> Pと <%sM_item>を 交換した！"
   },
   "826": {
-    "clarity_nt_char_272": "clarity_nt_char_272"
+    "clarity_nt_char_826": "clarity_nt_char_826"
   },
   "827": {
     "キュウサイポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "キュウサイポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！"
@@ -2484,19 +2484,19 @@
     "<%-9sM_point><%-18sM_item>": "<%-9sM_point><%-18sM_item>"
   },
   "829": {
-    "clarity_nt_char_273": "clarity_nt_char_273"
+    "clarity_nt_char_829": "clarity_nt_char_829"
   },
   "830": {
     "（<%sM_place> から <%dM_num><%sM_unit>）": "（<%sM_place> から <%dM_num><%sM_unit>）"
   },
   "831": {
-    "clarity_nt_char_274": "clarity_nt_char_274"
+    "clarity_nt_char_831": "clarity_nt_char_831"
   },
   "832": {
     "<%sM_item>を おまとめぶくろに まとめた！": "<%sM_item>を おまとめぶくろに まとめた！"
   },
   "833": {
-    "clarity_nt_char_275": "clarity_nt_char_275"
+    "clarity_nt_char_833": "clarity_nt_char_833"
   },
   "834": {
     "<%sM_slime_name>は チャンピオンシップに 再挑戦することになった！": "<%sM_slime_name>は チャンピオンシップに 再挑戦することになった！"
@@ -2505,43 +2505,43 @@
     "<speed=0>『どこでもチャットＯＫにする』に変更しました。|どこでもチャット設定は　いつでも変更可能です。": "<speed=0>『どこでもチャットＯＫにする』に変更しました。|どこでもチャット設定は　いつでも変更可能です。"
   },
   "836": {
-    "clarity_nt_char_276": "clarity_nt_char_276"
+    "clarity_nt_char_836": "clarity_nt_char_836"
   },
   "837": {
     "<speed=0>『どこでもチャットＯＫを解除』に変更しました。|どこでもチャット設定は　いつでも変更可能です。": "<speed=0>『どこでもチャットＯＫを解除』に変更しました。|どこでもチャット設定は　いつでも変更可能です。"
   },
   "838": {
-    "clarity_nt_char_277": "clarity_nt_char_277"
+    "clarity_nt_char_838": "clarity_nt_char_838"
   },
   "839": {
     "<speed=0>チームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫを解除』です。|<br>|『どこでもチャットＯＫにする』に変更しますか？|※この設定は　チームリーダーが変更できます。|<yesno 1><close>": "<speed=0>チームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫを解除』です。|<br>|『どこでもチャットＯＫにする』に変更しますか？|※この設定は　チームリーダーが変更できます。|<yesno 1><close>"
   },
   "840": {
-    "clarity_nt_char_278": "clarity_nt_char_278"
+    "clarity_nt_char_840": "clarity_nt_char_840"
   },
   "841": {
     "<speed=0>チームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫにする』です。|<br>|『どこでもチャットＯＫを解除』に変更しますか？|※この設定は　チームリーダーが変更できます。|<yesno 1><close>": "<speed=0>チームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫにする』です。|<br>|『どこでもチャットＯＫを解除』に変更しますか？|※この設定は　チームリーダーが変更できます。|<yesno 1><close>"
   },
   "842": {
-    "clarity_nt_char_279": "clarity_nt_char_279"
+    "clarity_nt_char_842": "clarity_nt_char_842"
   },
   "843": {
     "<speed=0>ルームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫにする』です。|<br>|『どこでもチャットＯＫを解除』に変更しますか？|※この設定は自ルームのみ　変更できます。|<yesno 1><close>": "<speed=0>ルームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫにする』です。|<br>|『どこでもチャットＯＫを解除』に変更しますか？|※この設定は自ルームのみ　変更できます。|<yesno 1><close>"
   },
   "844": {
-    "clarity_nt_char_280": "clarity_nt_char_280"
+    "clarity_nt_char_844": "clarity_nt_char_844"
   },
   "845": {
     "<speed=0>ルームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫを解除』です。|<br>|『どこでもチャットＯＫにする』に変更しますか？|※この設定は自ルームのみ　変更できます。|<yesno 1><close>": "<speed=0>ルームチャットでの|『どこでもチャット』の機能を　設定します。|現在『どこでもチャットＯＫを解除』です。|<br>|『どこでもチャットＯＫにする』に変更しますか？|※この設定は自ルームのみ　変更できます。|<yesno 1><close>"
   },
   "846": {
-    "clarity_nt_char_281": "clarity_nt_char_281"
+    "clarity_nt_char_846": "clarity_nt_char_846"
   },
   "847": {
     "<speed=0>『どこでもチャット』の設定に失敗しました。|時間をおいて　再度お試しください。": "<speed=0>『どこでもチャット』の設定に失敗しました。|時間をおいて　再度お試しください。"
   },
   "848": {
-    "clarity_nt_char_282": "clarity_nt_char_282"
+    "clarity_nt_char_848": "clarity_nt_char_848"
   },
   "849": {
     "隠れスライムのポイント <%dM_POINT> Pと|<%sM_item> <%dM_GET_NUM>個を 交換した！": "隠れスライムのポイント <%dM_POINT> Pと|<%sM_item> <%dM_GET_NUM>個を 交換した！"
@@ -2550,7 +2550,7 @@
     "隠れスライムのポイント <%dM_POINT> Pと|<%sM_item>を 交換した！": "隠れスライムのポイント <%dM_POINT> Pと|<%sM_item>を 交換した！"
   },
   "851": {
-    "clarity_nt_char_283": "clarity_nt_char_283"
+    "clarity_nt_char_851": "clarity_nt_char_851"
   },
   "852": {
     "バトエンポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "バトエンポイント <%dM_POINT> Pと <%sM_item>を 交換した！"
@@ -2559,13 +2559,13 @@
     "バトエンポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "バトエンポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！"
   },
   "854": {
-    "clarity_nt_char_284": "clarity_nt_char_284"
+    "clarity_nt_char_854": "clarity_nt_char_854"
   },
   "855": {
     "<%sM_TOKEN>を <%dM_NUM><%sM_UNIT> 消費した。": "<%sM_TOKEN>を <%dM_NUM><%sM_UNIT> 消費した。"
   },
   "856": {
-    "clarity_nt_char_285": "clarity_nt_char_285"
+    "clarity_nt_char_856": "clarity_nt_char_856"
   },
   "857": {
     "スライムレースの報酬 <%sM_item> を <%nM_num>個 受け取った！": "スライムレースの報酬 <%sM_item> を <%nM_num>個 受け取った！"
@@ -2580,7 +2580,7 @@
     "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！": "お祭りコイン <%dL_casinocoin>枚を <%dL_BUY_PRICE> Gで買った！"
   },
   "861": {
-    "clarity_nt_char_286": "clarity_nt_char_286"
+    "clarity_nt_char_861": "clarity_nt_char_861"
   },
   "862": {
     "<pc>は <%sM_body>の体型に <%dM_gold> Gで 変えてもらった！": "<pc>は <%sM_body>の体型に <%dM_gold> Gで 変えてもらった！"
@@ -2589,7 +2589,7 @@
     "顔コーデ": "顔コーデ"
   },
   "864": {
-    "clarity_nt_char_287": "clarity_nt_char_287"
+    "clarity_nt_char_864": "clarity_nt_char_864"
   },
   "865": {
     "バトエンポイント <%dL_USE_POINT>Pを バトエンパック <%dL_PACK_NUM>個と 交換した。": "バトエンポイント <%dL_USE_POINT>Pを バトエンパック <%dL_PACK_NUM>個と 交換した。"
@@ -2598,37 +2598,37 @@
     "ダブリィコイン <%dL_USE_KPOINT>枚を キラバトエン <%dL_KIRA_NUM>本と 交換した。": "ダブリィコイン <%dL_USE_KPOINT>枚を キラバトエン <%dL_KIRA_NUM>本と 交換した。"
   },
   "867": {
-    "clarity_nt_char_288": "clarity_nt_char_288"
+    "clarity_nt_char_867": "clarity_nt_char_867"
   },
   "868": {
     "『<%sL_BATOEN_NAME>』のバトエンを 手に入れた！": "『<%sL_BATOEN_NAME>』のバトエンを 手に入れた！"
   },
   "869": {
-    "clarity_nt_char_289": "clarity_nt_char_289"
+    "clarity_nt_char_869": "clarity_nt_char_869"
   },
   "870": {
     "『<%sL_BATOEN_NAME>』のキラバトエンを 手に入れた！": "『<%sL_BATOEN_NAME>』のキラバトエンを 手に入れた！"
   },
   "871": {
-    "clarity_nt_char_290": "clarity_nt_char_290"
+    "clarity_nt_char_871": "clarity_nt_char_871"
   },
   "872": {
     "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！": "既に持っているので 代わりに <%dL_GET_KPOINT>枚のダブリィコインを 手に入れた！"
   },
   "873": {
-    "clarity_nt_char_291": "clarity_nt_char_291"
+    "clarity_nt_char_873": "clarity_nt_char_873"
   },
   "874": {
     "どうぐ消しゴム『<%sL_ERASER_NAME>』を 手に入れた！": "どうぐ消しゴム『<%sL_ERASER_NAME>』を 手に入れた！"
   },
   "875": {
-    "clarity_nt_char_292": "clarity_nt_char_292"
+    "clarity_nt_char_875": "clarity_nt_char_875"
   },
   "876": {
     "<%sL_RACE_NAME>のバトエンが 入手できるようになった！": "<%sL_RACE_NAME>のバトエンが 入手できるようになった！"
   },
   "877": {
-    "clarity_nt_char_293": "clarity_nt_char_293"
+    "clarity_nt_char_877": "clarity_nt_char_877"
   },
   "878": {
     "バトエンポイント <%dL_GET_POINT>Pを 手に入れた！": "バトエンポイント <%dL_GET_POINT>Pを 手に入れた！"
@@ -2637,7 +2637,7 @@
     "<pc>が <%sL_PLAYER_NAME>と バトエン開始！": "<pc>が <%sL_PLAYER_NAME>と バトエン開始！"
   },
   "880": {
-    "clarity_nt_char_294": "clarity_nt_char_294"
+    "clarity_nt_char_880": "clarity_nt_char_880"
   },
   "881": {
     "<pc>が バトエン開始！": "<pc>が バトエン開始！"
@@ -2658,7 +2658,7 @@
     " → 『<%sL_ACTION_NAME>』": " → 『<%sL_ACTION_NAME>』"
   },
   "887": {
-    "clarity_nt_char_295": "clarity_nt_char_295"
+    "clarity_nt_char_887": "clarity_nt_char_887"
   },
   "888": {
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>に <%dM_Damage_1>のダメージ！": " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>に <%dM_Damage_1>のダメージ！"
@@ -2676,7 +2676,7 @@
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は テンションが上がった！": " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は テンションが上がった！"
   },
   "893": {
-    "clarity_nt_char_296": "clarity_nt_char_296"
+    "clarity_nt_char_893": "clarity_nt_char_893"
   },
   "894": {
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の テンションが元に戻った！": " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の テンションが元に戻った！"
@@ -2685,7 +2685,7 @@
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。": " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。"
   },
   "896": {
-    "clarity_nt_char_297": "clarity_nt_char_297"
+    "clarity_nt_char_896": "clarity_nt_char_896"
   },
   "897": {
     "<%sL_PLAYER_NAME>に バトエンで勝利した！": "<%sL_PLAYER_NAME>に バトエンで勝利した！"
@@ -2700,7 +2700,7 @@
     "バトエンポイント <%dL_GET_POINT>Pを 獲得した！": "バトエンポイント <%dL_GET_POINT>Pを 獲得した！"
   },
   "901": {
-    "clarity_nt_char_298": "clarity_nt_char_298"
+    "clarity_nt_char_901": "clarity_nt_char_901"
   },
   "902": {
     "第<%dL_TURN_NUM>ターンの行動が終了！": "第<%dL_TURN_NUM>ターンの行動が終了！"
@@ -2715,13 +2715,13 @@
     "お祭りコイン <%dM_POINT>枚と <%sM_item>を 交換した！": "お祭りコイン <%dM_POINT>枚と <%sM_item>を 交換した！"
   },
   "906": {
-    "clarity_nt_char_299": "clarity_nt_char_299"
+    "clarity_nt_char_906": "clarity_nt_char_906"
   },
   "907": {
     "<%sM_item><%sM_plusnum>が封じられた 冥海の光玉を手に入れた！": "<%sM_item><%sM_plusnum>が封じられた 冥海の光玉を手に入れた！"
   },
   "908": {
-    "clarity_nt_char_300": "clarity_nt_char_300"
+    "clarity_nt_char_908": "clarity_nt_char_908"
   },
   "909": {
     "<%sM_TOKEN>を <%dM_NUM><%sM_UNIT> 手に入れた！": "<%sM_TOKEN>を <%dM_NUM><%sM_UNIT> 手に入れた！"
@@ -2730,7 +2730,7 @@
     " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>が 復活した！": " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>が 復活した！"
   },
   "911": {
-    "clarity_nt_char_301": "clarity_nt_char_301"
+    "clarity_nt_char_911": "clarity_nt_char_911"
   },
   "912": {
     "交換屋で <%sM_item><%sM_plusnum>を 交換した！": "交換屋で <%sM_item><%sM_plusnum>を 交換した！"
@@ -2745,7 +2745,7 @@
     "<%sL_MINION>　ついてクンを　旅の相棒にした！": "<%sL_MINION>　ついてクンを　旅の相棒にした！"
   },
   "916": {
-    "clarity_nt_char_302": "clarity_nt_char_302"
+    "clarity_nt_char_916": "clarity_nt_char_916"
   },
   "917": {
     "<%sL_MINION>　ついてクンの　連れ歩きをやめた！": "<%sL_MINION>　ついてクンの　連れ歩きをやめた！"
@@ -2754,7 +2754,7 @@
     "自宅の<%sL_PARTS_NAME>を 作成した！": "自宅の<%sL_PARTS_NAME>を 作成した！"
   },
   "919": {
-    "clarity_nt_char_303": "clarity_nt_char_303"
+    "clarity_nt_char_919": "clarity_nt_char_919"
   },
   "920": {
     "<%sL_OWNER>の家の<%sL_PARTS_NAME>を 作成した！": "<%sL_OWNER>の家の<%sL_PARTS_NAME>を 作成した！"
@@ -2763,25 +2763,25 @@
     "<%sM_item>　<%dM_item_num>個": "<%sM_item>　<%dM_item_num>個"
   },
   "922": {
-    "clarity_nt_char_304": "clarity_nt_char_304"
+    "clarity_nt_char_922": "clarity_nt_char_922"
   },
   "923": {
     "<%dM_gold> G": "<%dM_gold> G"
   },
   "924": {
-    "clarity_nt_char_305": "clarity_nt_char_305"
+    "clarity_nt_char_924": "clarity_nt_char_924"
   },
   "925": {
     "<%dM_gold> G 支払った。": "<%dM_gold> G 支払った。"
   },
   "926": {
-    "clarity_nt_char_306": "clarity_nt_char_306"
+    "clarity_nt_char_926": "clarity_nt_char_926"
   },
   "927": {
     "美容院で <%sM_name>のくちべにの色を <%sM_old>から <%sM_new>に変えた！": "美容院で <%sM_name>のくちべにの色を <%sM_old>から <%sM_new>に変えた！"
   },
   "928": {
-    "clarity_nt_char_307": "clarity_nt_char_307"
+    "clarity_nt_char_928": "clarity_nt_char_928"
   },
   "929": {
     "美容院で くちべにの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で くちべにの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
@@ -2790,7 +2790,7 @@
     "----【カラーリングメモ】----": "----【カラーリングメモ】----"
   },
   "931": {
-    "clarity_nt_char_308": "clarity_nt_char_308"
+    "clarity_nt_char_931": "clarity_nt_char_931"
   },
   "932": {
     "必要な素材             必要/  所持": "必要な素材             必要/  所持"
@@ -2799,7 +2799,7 @@
     "<%sM_00><%sM_gold> G": "<%sM_00><%sM_gold> G"
   },
   "934": {
-    "clarity_nt_char_309": "clarity_nt_char_309"
+    "clarity_nt_char_934": "clarity_nt_char_934"
   },
   "935": {
     "必要なゴールド": "必要なゴールド"
@@ -2808,13 +2808,13 @@
     "----------------------------": "----------------------------"
   },
   "937": {
-    "clarity_nt_char_310": "clarity_nt_char_310"
+    "clarity_nt_char_937": "clarity_nt_char_937"
   },
   "938": {
     "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ  (<%sM_04>こたりない)": "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ  (<%sM_04>こたりない)"
   },
   "939": {
-    "clarity_nt_char_311": "clarity_nt_char_311"
+    "clarity_nt_char_939": "clarity_nt_char_939"
   },
   "940": {
     "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ": "<%sM_item><%sM_00><%sM_01>こ/<%sM_02><%sM_03>こ"
@@ -2823,37 +2823,37 @@
     "カラー②": "カラー②"
   },
   "942": {
-    "clarity_nt_char_312": "clarity_nt_char_312"
+    "clarity_nt_char_942": "clarity_nt_char_942"
   },
   "943": {
     "カラー①": "カラー①"
   },
   "944": {
-    "clarity_nt_char_313": "clarity_nt_char_313"
+    "clarity_nt_char_944": "clarity_nt_char_944"
   },
   "945": {
     "<pc>は プリズランポイントを <%dM_points>P かくとく！": "<pc>は プリズランポイントを <%dM_points>P かくとく！"
   },
   "946": {
-    "clarity_nt_char_314": "clarity_nt_char_314"
+    "clarity_nt_char_946": "clarity_nt_char_946"
   },
   "947": {
     "ゲーム画面表示を 画質設定：<%sM_image> 描画速度：最高<%dM_fps>fps に設定しました。": "ゲーム画面表示を 画質設定：<%sM_image> 描画速度：最高<%dM_fps>fps に設定しました。"
   },
   "948": {
-    "clarity_nt_char_315": "clarity_nt_char_315"
+    "clarity_nt_char_948": "clarity_nt_char_948"
   },
   "949": {
     "一緒に遊ぶ仲間を選んだので プリズランポイントを かくとくできなかった。": "一緒に遊ぶ仲間を選んだので プリズランポイントを かくとくできなかった。"
   },
   "950": {
-    "clarity_nt_char_316": "clarity_nt_char_316"
+    "clarity_nt_char_950": "clarity_nt_char_950"
   },
   "951": {
     "(<%sM_text> <%dM_num> P)": "(<%sM_text> <%dM_num> P)"
   },
   "952": {
-    "clarity_nt_char_317": "clarity_nt_char_317"
+    "clarity_nt_char_952": "clarity_nt_char_952"
   },
   "953": {
     "<pc>は 真夜中プリズランで 勝利した！": "<pc>は 真夜中プリズランで 勝利した！"
@@ -2868,13 +2868,13 @@
     "プリズランポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "プリズランポイント <%dM_POINT> Pと <%sM_item>を 交換した！"
   },
   "957": {
-    "clarity_nt_char_318": "clarity_nt_char_318"
+    "clarity_nt_char_957": "clarity_nt_char_957"
   },
   "958": {
     "[<%sM_mvp>人]": "[<%sM_mvp>人]"
   },
   "959": {
-    "clarity_nt_char_319": "clarity_nt_char_319"
+    "clarity_nt_char_959": "clarity_nt_char_959"
   },
   "960": {
     "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>": "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>"
@@ -2883,13 +2883,13 @@
     "大会ランクが <%sL_PAST_GP_CLASS>から <%sL_NOW_GP_CLASS>になった！": "大会ランクが <%sL_PAST_GP_CLASS>から <%sL_NOW_GP_CLASS>になった！"
   },
   "962": {
-    "clarity_nt_char_320": "clarity_nt_char_320"
+    "clarity_nt_char_962": "clarity_nt_char_962"
   },
   "963": {
     "<%sL_PENCIL_NAME1>と|<%sL_PENCIL_NAME2>と|<%sL_PENCIL_NAME3>を 選んだ！": "<%sL_PENCIL_NAME1>と|<%sL_PENCIL_NAME2>と|<%sL_PENCIL_NAME3>を 選んだ！"
   },
   "964": {
-    "clarity_nt_char_321": "clarity_nt_char_321"
+    "clarity_nt_char_964": "clarity_nt_char_964"
   },
   "965": {
     "<pc>は 相手の<%sL_PENCIL_NAME> を使うチカラを封印した！": "<pc>は 相手の<%sL_PENCIL_NAME> を使うチカラを封印した！"
@@ -2898,19 +2898,19 @@
     "大会スコアが <%dL_GET_GP_POINT>P 減点されて <%dL_NOW_GP_POINT>P になった！": "大会スコアが <%dL_GET_GP_POINT>P 減点されて <%dL_NOW_GP_POINT>P になった！"
   },
   "967": {
-    "clarity_nt_char_322": "clarity_nt_char_322"
+    "clarity_nt_char_967": "clarity_nt_char_967"
   },
   "968": {
     "大会スコアが <%dL_GET_GP_POINT>P 加点されて <%dL_NOW_GP_POINT>P になった！": "大会スコアが <%dL_GET_GP_POINT>P 加点されて <%dL_NOW_GP_POINT>P になった！"
   },
   "969": {
-    "clarity_nt_char_323": "clarity_nt_char_323"
+    "clarity_nt_char_969": "clarity_nt_char_969"
   },
   "970": {
     "お月見だんご <%dM_POINT> 個と <%sM_item> <%dM_GET_NUM>個を 交換した！": "お月見だんご <%dM_POINT> 個と <%sM_item> <%dM_GET_NUM>個を 交換した！"
   },
   "971": {
-    "clarity_nt_char_324": "clarity_nt_char_324"
+    "clarity_nt_char_971": "clarity_nt_char_971"
   },
   "972": {
     "お月見だんご <%dM_POINT> 個と <%sM_item>を 交換した！": "お月見だんご <%dM_POINT> 個と <%sM_item>を 交換した！"
@@ -2919,19 +2919,19 @@
     "<pc>は <%sL_CLASS>ランクの報酬を受け取った！": "<pc>は <%sL_CLASS>ランクの報酬を受け取った！"
   },
   "974": {
-    "clarity_nt_char_325": "clarity_nt_char_325"
+    "clarity_nt_char_974": "clarity_nt_char_974"
   },
   "975": {
     "<pc>は <%sL_RULE>の<%dL_RANK>位の報酬を受け取った！": "<pc>は <%sL_RULE>の<%dL_RANK>位の報酬を受け取った！"
   },
   "976": {
-    "clarity_nt_char_326": "clarity_nt_char_326"
+    "clarity_nt_char_976": "clarity_nt_char_976"
   },
   "977": {
     "\\s<%sC_PC>\\m<%sC_ID>\\e「<%sM_chat>」": "\\s<%sC_PC>\\m<%sC_ID>\\e「<%sM_chat>」"
   },
   "978": {
-    "clarity_nt_char_327": "clarity_nt_char_327"
+    "clarity_nt_char_978": "clarity_nt_char_978"
   },
   "979": {
     "いまの宝珠ポイント　<%dM_HOUJUP_NUM>P|いまの石版ポイント　<%dM_SEKIBANP_NUM>P|達人に預けている全属性の石版| 6穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_6>枚 <%dM_HOUJUP_NUM6>P| 5穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_5>枚 <%dM_HOUJUP_NUM5>P| 4穴の石版 <%dM_HOUJUP1>P ×<%dM_SEKIBAN_4>枚 <%dM_HOUJUP_NUM4>P|変換後の宝珠ポイント合計　<%dM_HOUJUP_SUM>P": "いまの宝珠ポイント　<%dM_HOUJUP_NUM>P|いまの石版ポイント　<%dM_SEKIBANP_NUM>P|達人に預けている全属性の石版| 6穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_6>枚 <%dM_HOUJUP_NUM6>P| 5穴の石版 <%dM_HOUJUP5>P ×<%dM_SEKIBAN_5>枚 <%dM_HOUJUP_NUM5>P| 4穴の石版 <%dM_HOUJUP1>P ×<%dM_SEKIBAN_4>枚 <%dM_HOUJUP_NUM4>P|変換後の宝珠ポイント合計　<%dM_HOUJUP_SUM>P"
@@ -2943,7 +2943,7 @@
     "宝珠ポイントを <%dM_NUM> P つかって <%sM_SKILL>を 手に入れた！": "宝珠ポイントを <%dM_NUM> P つかって <%sM_SKILL>を 手に入れた！"
   },
   "982": {
-    "clarity_nt_char_328": "clarity_nt_char_328"
+    "clarity_nt_char_982": "clarity_nt_char_982"
   },
   "983": {
     "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版から　宝珠をはずした。": "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版から　宝珠をはずした。"
@@ -2952,13 +2952,13 @@
     "<pc>は　<%sM_ryoukai>　<%sM_stage>の調律依頼を　受けた！": "<pc>は　<%sM_ryoukai>　<%sM_stage>の調律依頼を　受けた！"
   },
   "985": {
-    "clarity_nt_char_329": "clarity_nt_char_329"
+    "clarity_nt_char_985": "clarity_nt_char_985"
   },
   "986": {
     "達人クエストを　クリアしました！": "達人クエストを　クリアしました！"
   },
   "987": {
-    "clarity_nt_char_330": "clarity_nt_char_330"
+    "clarity_nt_char_987": "clarity_nt_char_987"
   },
   "988": {
     "ジュエルポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "ジュエルポイント <%dM_POINT> Pと <%sM_item>を 交換した！"
@@ -2970,7 +2970,7 @@
     "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM>を 交換した！": "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM>を 交換した！"
   },
   "991": {
-    "clarity_nt_char_331": "clarity_nt_char_331"
+    "clarity_nt_char_991": "clarity_nt_char_991"
   },
   "992": {
     "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM> <%nL_GET_NUM>個を 交換した！": "覇者の心 <%nL_KOUKAN_NUM> 個と <%sL_GOODS_ITEM> <%nL_GET_NUM>個を 交換した！"
@@ -2982,7 +2982,7 @@
     "条件「<%sM_JOUKEN>」が発生！": "条件「<%sM_JOUKEN>」が発生！"
   },
   "995": {
-    "clarity_nt_char_332": "clarity_nt_char_332"
+    "clarity_nt_char_995": "clarity_nt_char_995"
   },
   "996": {
     "条件達成ボーナス！「<%sM_KYOUKA>」": "条件達成ボーナス！「<%sM_KYOUKA>」"
@@ -2994,7 +2994,7 @@
     "条件「<%sM_JOUKEN>」を達成！": "条件「<%sM_JOUKEN>」を達成！"
   },
   "999": {
-    "clarity_nt_char_333": "clarity_nt_char_333"
+    "clarity_nt_char_999": "clarity_nt_char_999"
   },
   "1000": {
     "<pc>は スライムレース勝利ポイントを　<%sM_points>P 消費した。|<%dM_points2>Pから <%dM_points3>Pになった。": "<pc>は スライムレース勝利ポイントを　<%sM_points>P 消費した。|<%dM_points2>Pから <%dM_points3>Pになった。"
@@ -3003,7 +3003,7 @@
     "<speed=0><speed=0>|自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！": "<speed=0><speed=0>|自分のパーティと　相手パーティが|全員　おなじ場所にいないと　誘えません！"
   },
   "1002": {
-    "clarity_nt_char_334": "clarity_nt_char_334"
+    "clarity_nt_char_1002": "clarity_nt_char_1002"
   },
   "1003": {
     "<speed=0>この場所では　これ以上|なかまに誘うことは　できません！": "<speed=0>この場所では　これ以上|なかまに誘うことは　できません！"
@@ -3015,7 +3015,7 @@
     "<speed=0>これ以上　なかまに誘うことは　できません！": "<speed=0>これ以上　なかまに誘うことは　できません！"
   },
   "1006": {
-    "clarity_nt_char_335": "clarity_nt_char_335"
+    "clarity_nt_char_1006": "clarity_nt_char_1006"
   },
   "1007": {
     "<pc>は　レベル<%dL_LEVEL_NOW>に　あがった！": "<pc>は　レベル<%dL_LEVEL_NOW>に　あがった！"
@@ -3027,13 +3027,13 @@
     "撃破玉のスタックが　<%dM_STACK>になった！": "撃破玉のスタックが　<%dM_STACK>になった！"
   },
   "1010": {
-    "clarity_nt_char_336": "clarity_nt_char_336"
+    "clarity_nt_char_1010": "clarity_nt_char_1010"
   },
   "1011": {
     "未鑑定の宝珠を <%dM_NUM> 個 達人にわたし 宝珠ポイントを かくとく！": "未鑑定の宝珠を <%dM_NUM> 個 達人にわたし 宝珠ポイントを かくとく！"
   },
   "1012": {
-    "clarity_nt_char_337": "clarity_nt_char_337"
+    "clarity_nt_char_1012": "clarity_nt_char_1012"
   },
   "1013": {
     "試合結果<br>|<%sL_CLUB_1> <%dM_CLUB_POINT_1>P<br>|<%sL_CLUB_2> <%dM_CLUB_POINT_2>P<br>|<%sL_CLUB_3> <%dM_CLUB_POINT_3>P": "試合結果<br>|<%sL_CLUB_1> <%dM_CLUB_POINT_1>P<br>|<%sL_CLUB_2> <%dM_CLUB_POINT_2>P<br>|<%sL_CLUB_3> <%dM_CLUB_POINT_3>P"
@@ -3045,7 +3045,7 @@
     "<%sL_MY_CLUB>で　<%sL_MY_RESULT>位　だった！": "<%sL_MY_CLUB>で　<%sL_MY_RESULT>位　だった！"
   },
   "1016": {
-    "clarity_nt_char_338": "clarity_nt_char_338"
+    "clarity_nt_char_1016": "clarity_nt_char_1016"
   },
   "1017": {
     "<%sL_GET_RECORD>を　達成した！": "<%sL_GET_RECORD>を　達成した！"
@@ -3054,7 +3054,7 @@
     "<%sL_GET_MEDAL>を　獲得した！": "<%sL_GET_MEDAL>を　獲得した！"
   },
   "1019": {
-    "clarity_nt_char_339": "clarity_nt_char_339"
+    "clarity_nt_char_1019": "clarity_nt_char_1019"
   },
   "1020": {
     "<%sL_MY_CLUB>の勝ち点を 1点手に入れた！": "<%sL_MY_CLUB>の勝ち点を 1点手に入れた！"
@@ -3069,7 +3069,7 @@
     "<pc>は　対抗戦の参加費として　<%dL_GOLD> G支払った！": "<pc>は　対抗戦の参加費として　<%dL_GOLD> G支払った！"
   },
   "1024": {
-    "clarity_nt_char_340": "clarity_nt_char_340"
+    "clarity_nt_char_1024": "clarity_nt_char_1024"
   },
   "1025": {
     "<pc>は　優勝賞金として　<%dM_gold> Gもらった！": "<pc>は　優勝賞金として　<%dM_gold> Gもらった！"
@@ -3078,7 +3078,7 @@
     "<%sL_MY_CLUB>で　引き分け　だった！": "<%sL_MY_CLUB>で　引き分け　だった！"
   },
   "1027": {
-    "clarity_nt_char_341": "clarity_nt_char_341"
+    "clarity_nt_char_1027": "clarity_nt_char_1027"
   },
   "1028": {
     "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が成功！": "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が成功！"
@@ -3093,13 +3093,13 @@
     "<%sM_slime_name_1>の　『<%sL_ACTION_1>』": "<%sM_slime_name_1>の　『<%sL_ACTION_1>』"
   },
   "1032": {
-    "clarity_nt_char_342": "clarity_nt_char_342"
+    "clarity_nt_char_1032": "clarity_nt_char_1032"
   },
   "1033": {
     "<%sM_slime_name_1>の　スーパージャンプ！！": "<%sM_slime_name_1>の　スーパージャンプ！！"
   },
   "1034": {
-    "clarity_nt_char_343": "clarity_nt_char_343"
+    "clarity_nt_char_1034": "clarity_nt_char_1034"
   },
   "1035": {
     "<%sM_slime_name_1>の　ジャンプ！": "<%sM_slime_name_1>の　ジャンプ！"
@@ -3111,13 +3111,13 @@
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！": "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『<%sL_ACTION_1>』で防いだ！"
   },
   "1038": {
-    "clarity_nt_char_344": "clarity_nt_char_344"
+    "clarity_nt_char_1038": "clarity_nt_char_1038"
   },
   "1039": {
     "<%sM_slime_name_1>は　ゴールした！": "<%sM_slime_name_1>は　ゴールした！"
   },
   "1040": {
-    "clarity_nt_char_345": "clarity_nt_char_345"
+    "clarity_nt_char_1040": "clarity_nt_char_1040"
   },
   "1041": {
     "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が失敗！": "→<%sM_slime_name_2>に　『<%sL_ACTION_1>』が失敗！"
@@ -3126,31 +3126,31 @@
     "→<%sM_slime_name_2>の　『マホカンタ』で　『<%sL_ACTION_2>』を　はねかえされた！": "→<%sM_slime_name_2>の　『マホカンタ』で　『<%sL_ACTION_2>』を　はねかえされた！"
   },
   "1043": {
-    "clarity_nt_char_346": "clarity_nt_char_346"
+    "clarity_nt_char_1043": "clarity_nt_char_1043"
   },
   "1044": {
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　くらった！": "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　くらった！"
   },
   "1045": {
-    "clarity_nt_char_347": "clarity_nt_char_347"
+    "clarity_nt_char_1045": "clarity_nt_char_1045"
   },
   "1046": {
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　かわした！": "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　かわした！"
   },
   "1047": {
-    "clarity_nt_char_348": "clarity_nt_char_348"
+    "clarity_nt_char_1047": "clarity_nt_char_1047"
   },
   "1048": {
     "→<%sM_slime_name_1>は　スタミナが切れてしまった！": "→<%sM_slime_name_1>は　スタミナが切れてしまった！"
   },
   "1049": {
-    "clarity_nt_char_349": "clarity_nt_char_349"
+    "clarity_nt_char_1049": "clarity_nt_char_1049"
   },
   "1050": {
     "美容院で かみの色２を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で かみの色２を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
   },
   "1051": {
-    "clarity_nt_char_350": "clarity_nt_char_350"
+    "clarity_nt_char_1051": "clarity_nt_char_1051"
   },
   "1052": {
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『ふわふわボディ』で　かわした！": "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『ふわふわボディ』で　かわした！"
@@ -3159,13 +3159,13 @@
     "美容院で <%sM_name>の かみの色２を|<%sM_old>から <%sM_new>に変えた！": "美容院で <%sM_name>の かみの色２を|<%sM_old>から <%sM_new>に変えた！"
   },
   "1054": {
-    "clarity_nt_char_351": "clarity_nt_char_351"
+    "clarity_nt_char_1054": "clarity_nt_char_1054"
   },
   "1055": {
     "『<%sM_fish>』の最小サイズが　<%.1fM_CM>ｃｍ　に更新された！": "『<%sM_fish>』の最小サイズが　<%.1fM_CM>ｃｍ　に更新された！"
   },
   "1056": {
-    "clarity_nt_char_352": "clarity_nt_char_352"
+    "clarity_nt_char_1056": "clarity_nt_char_1056"
   },
   "1057": {
     "<speed=0><%sM_dokokara>から|フレンド登録を　申し込まれました。": "<speed=0><%sM_dokokara>から|フレンド登録を　申し込まれました。"
@@ -3174,61 +3174,61 @@
     "試合の得点が　足りていないため<br>|貢献度を　獲得できませんでした。": "試合の得点が　足りていないため<br>|貢献度を　獲得できませんでした。"
   },
   "1059": {
-    "clarity_nt_char_353": "clarity_nt_char_353"
+    "clarity_nt_char_1059": "clarity_nt_char_1059"
   },
   "1060": {
     "－－": "－－"
   },
   "1061": {
-    "clarity_nt_char_354": "clarity_nt_char_354"
+    "clarity_nt_char_1061": "clarity_nt_char_1061"
   },
   "1062": {
     "失敗": "失敗"
   },
   "1063": {
-    "clarity_nt_char_355": "clarity_nt_char_355"
+    "clarity_nt_char_1063": "clarity_nt_char_1063"
   },
   "1064": {
     "達成": "達成"
   },
   "1065": {
-    "clarity_nt_char_356": "clarity_nt_char_356"
+    "clarity_nt_char_1065": "clarity_nt_char_1065"
   },
   "1066": {
     "封剣の門・天獄　条件達成結果": "封剣の門・天獄　条件達成結果"
   },
   "1067": {
-    "clarity_nt_char_357": "clarity_nt_char_357"
+    "clarity_nt_char_1067": "clarity_nt_char_1067"
   },
   "1068": {
     "［ <%sM_RESULT> ］<%sM_JOUKEN>": "［ <%sM_RESULT> ］<%sM_JOUKEN>"
   },
   "1069": {
-    "clarity_nt_char_358": "clarity_nt_char_358"
+    "clarity_nt_char_1069": "clarity_nt_char_1069"
   },
   "1070": {
     "-----【見た目装備メモ・素材】-----": "-----【見た目装備メモ・素材】-----"
   },
   "1071": {
-    "clarity_nt_char_359": "clarity_nt_char_359"
+    "clarity_nt_char_1071": "clarity_nt_char_1071"
   },
   "1072": {
     "----------------------------------": "----------------------------------"
   },
   "1073": {
-    "clarity_nt_char_360": "clarity_nt_char_360"
+    "clarity_nt_char_1073": "clarity_nt_char_1073"
   },
   "1074": {
     "<%-9sM_point><%-18sM_visual>[<%-20sM_flower1>][<%-20sM_flower2>]": "<%-9sM_point><%-18sM_visual>[<%-20sM_flower1>][<%-20sM_flower2>]"
   },
   "1075": {
-    "clarity_nt_char_361": "clarity_nt_char_361"
+    "clarity_nt_char_1075": "clarity_nt_char_1075"
   },
   "1076": {
     "<%-9sM_point><%-18sM_visual>": "<%-9sM_point><%-18sM_visual>"
   },
   "1077": {
-    "clarity_nt_char_362": "clarity_nt_char_362"
+    "clarity_nt_char_1077": "clarity_nt_char_1077"
   },
   "1078": {
     "顔アイコンの表情を 『<%sM_Facial>』に 変更した！": "顔アイコンの表情を 『<%sM_Facial>』に 変更した！"
@@ -3240,7 +3240,7 @@
     "<%sM_item>": "<%sM_item>"
   },
   "1081": {
-    "clarity_nt_char_363": "clarity_nt_char_363"
+    "clarity_nt_char_1081": "clarity_nt_char_1081"
   },
   "1082": {
     "　<%-20sM_material>×<%-2dM_use> 所持：<%-5dM_have> (倉庫：<%-5dM_have_souko>)": "　<%-20sM_material>×<%-2dM_use> 所持：<%-5dM_have> (倉庫：<%-5dM_have_souko>)"
@@ -3255,19 +3255,19 @@
     "<speed=0>入力したメモを　反映して　よろしいですか？<yesno><close>": "<speed=0>入力したメモを　反映して　よろしいですか？<yesno><close>"
   },
   "1086": {
-    "clarity_nt_char_364": "clarity_nt_char_364"
+    "clarity_nt_char_1086": "clarity_nt_char_1086"
   },
   "1087": {
     "<speed=0>入力したメモを取り消して　元に戻しますか？<yesno><close>": "<speed=0>入力したメモを取り消して　元に戻しますか？<yesno><close>"
   },
   "1088": {
-    "clarity_nt_char_365": "clarity_nt_char_365"
+    "clarity_nt_char_1088": "clarity_nt_char_1088"
   },
   "1089": {
     "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） ": "<%sM_CAPSULE_NAME>を　ヤクウに渡して|ダブリィポイントを　<%dM_CHANGE_POINT>P　もらった！（ <%dM_BEFORE_POINT>P→ <%dM_AFTER_POINT>P） "
   },
   "1090": {
-    "clarity_nt_char_366": "clarity_nt_char_366"
+    "clarity_nt_char_1090": "clarity_nt_char_1090"
   },
   "1091": {
     "土地管理人から　マイタウンを　<%dL_HSGTOWN_PRICE> Gで買った！": "土地管理人から　マイタウンを　<%dL_HSGTOWN_PRICE> Gで買った！"
@@ -3279,25 +3279,25 @@
     "<pc>は　ランクイン賞金として　<%dM_gold> Gもらった！": "<pc>は　ランクイン賞金として　<%dM_gold> Gもらった！"
   },
   "1094": {
-    "clarity_nt_char_367": "clarity_nt_char_367"
+    "clarity_nt_char_1094": "clarity_nt_char_1094"
   },
   "1095": {
     "<pc>は　優勝賞金と　ランクイン賞金として　<%dM_gold> Gもらった！": "<pc>は　優勝賞金と　ランクイン賞金として　<%dM_gold> Gもらった！"
   },
   "1096": {
-    "clarity_nt_char_368": "clarity_nt_char_368"
+    "clarity_nt_char_1096": "clarity_nt_char_1096"
   },
   "1097": {
     "<%sM_campaign><%nM_Giftday>日目の　ギフト": "<%sM_campaign><%nM_Giftday>日目の　ギフト"
   },
   "1098": {
-    "clarity_nt_char_369": "clarity_nt_char_369"
+    "clarity_nt_char_1098": "clarity_nt_char_1098"
   },
   "1099": {
     "<%sM_CAPSULE_NAME>を 手に入れた！": "<%sM_CAPSULE_NAME>を 手に入れた！"
   },
   "1100": {
-    "clarity_nt_char_370": "clarity_nt_char_370"
+    "clarity_nt_char_1100": "clarity_nt_char_1100"
   },
   "1101": {
     "一時預かりぶくろから <%sL_ITEM>を 取り出した。": "一時預かりぶくろから <%sL_ITEM>を 取り出した。"
@@ -3306,7 +3306,7 @@
     "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。": "一時預かりぶくろから <%sL_ITEM>を <%dL_QUANTITY>個取り出した。"
   },
   "1103": {
-    "clarity_nt_char_371": "clarity_nt_char_371"
+    "clarity_nt_char_1103": "clarity_nt_char_1103"
   },
   "1104": {
     "<%sL_ITEM> <%dL_UseNum>個を <%sL_ITEM2> <%dL_Num2>個と交換した！": "<%sL_ITEM> <%dL_UseNum>個を <%sL_ITEM2> <%dL_Num2>個と交換した！"
@@ -3315,19 +3315,19 @@
     "<%sL_REGION>住宅村 <%sL_DIVISION>を 住所にした！": "<%sL_REGION>住宅村 <%sL_DIVISION>を 住所にした！"
   },
   "1106": {
-    "clarity_nt_char_372": "clarity_nt_char_372"
+    "clarity_nt_char_1106": "clarity_nt_char_1106"
   },
   "1107": {
     "<%sL_REGION> <%sL_DIVISION>|<%dL_TOTI_BANGOU>番地の土地を 住所にした！": "<%sL_REGION> <%sL_DIVISION>|<%dL_TOTI_BANGOU>番地の土地を 住所にした！"
   },
   "1108": {
-    "clarity_nt_char_373": "clarity_nt_char_373"
+    "clarity_nt_char_1108": "clarity_nt_char_1108"
   },
   "1109": {
     "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。": "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。"
   },
   "1110": {
-    "clarity_nt_char_374": "clarity_nt_char_374"
+    "clarity_nt_char_1110": "clarity_nt_char_1110"
   },
   "1111": {
     "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>に カラーリングして|ツヤを <%sM_change_metal>に 変えた。": "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>を|<%sM_change_color>に カラーリングして|ツヤを <%sM_change_metal>に 変えた。"
@@ -3336,7 +3336,7 @@
     "美容院で しろめの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！": "美容院で しろめの色を <%sM_old>から <%sM_new>に <%dM_gold> Gで変えた！"
   },
   "1113": {
-    "clarity_nt_char_375": "clarity_nt_char_375"
+    "clarity_nt_char_1113": "clarity_nt_char_1113"
   },
   "1114": {
     "美容院で かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！": "美容院で かみの色１のツヤを <%sM_old>から <%sM_new>に変えた！"
@@ -3357,7 +3357,7 @@
     "-----【見た目装備メモ・ツヤ】-----": "-----【見た目装備メモ・ツヤ】-----"
   },
   "1120": {
-    "clarity_nt_char_376": "clarity_nt_char_376"
+    "clarity_nt_char_1120": "clarity_nt_char_1120"
   },
   "1121": {
     "<pc>の　性別が　変わった！": "<pc>の　性別が　変わった！"
@@ -3369,31 +3369,31 @@
     "<%-22sM_item><%2dM_01>こ/ <%3dM_02>こ  (<%dM_03>こたりない)": "<%-22sM_item><%2dM_01>こ/ <%3dM_02>こ  (<%dM_03>こたりない)"
   },
   "1124": {
-    "clarity_nt_char_377": "clarity_nt_char_377"
+    "clarity_nt_char_1124": "clarity_nt_char_1124"
   },
   "1125": {
     "必要な素材            必要/  所持": "必要な素材            必要/  所持"
   },
   "1126": {
-    "clarity_nt_char_378": "clarity_nt_char_378"
+    "clarity_nt_char_1126": "clarity_nt_char_1126"
   },
   "1127": {
     "-----【極致への道標・挑戦中課題】-----": "-----【極致への道標・挑戦中課題】-----"
   },
   "1128": {
-    "clarity_nt_char_379": "clarity_nt_char_379"
+    "clarity_nt_char_1128": "clarity_nt_char_1128"
   },
   "1129": {
     "--------------------------------------": "--------------------------------------"
   },
   "1130": {
-    "clarity_nt_char_380": "clarity_nt_char_380"
+    "clarity_nt_char_1130": "clarity_nt_char_1130"
   },
   "1131": {
     "名声Lv<%dM_clg_flv>以上　（現在：<%dM_now_flv>）": "名声Lv<%dM_clg_flv>以上　（現在：<%dM_now_flv>）"
   },
   "1132": {
-    "clarity_nt_char_381": "clarity_nt_char_381"
+    "clarity_nt_char_1132": "clarity_nt_char_1132"
   },
   "1133": {
     "職業：<%sL_clg_job>　（現在：<%sL_now_job>）": "職業：<%sL_clg_job>　（現在：<%sL_now_job>）"
@@ -3402,7 +3402,7 @@
     "Lv<%dM_clg_lv>以上　（現在：<%dM_now_lv>）": "Lv<%dM_clg_lv>以上　（現在：<%dM_now_lv>）"
   },
   "1135": {
-    "clarity_nt_char_382": "clarity_nt_char_382"
+    "clarity_nt_char_1135": "clarity_nt_char_1135"
   },
   "1136": {
     "<%sL_clg_sts><%dM_clg_prm>以上　（現在：<%dM_now_prm>）": "<%sL_clg_sts><%dM_clg_prm>以上　（現在：<%dM_now_prm>）"
@@ -3420,19 +3420,19 @@
     "-----【万魔の塔 <%sM_floor> スコア】-----": "-----【万魔の塔 <%sM_floor> スコア】-----"
   },
   "1141": {
-    "clarity_nt_char_383": "clarity_nt_char_383"
+    "clarity_nt_char_1141": "clarity_nt_char_1141"
   },
   "1142": {
     "<%-16sM_monster><%6dM_base_point>P×<%3dM_toubatsu>匹＝<%dM_toubatsu_score>P": "<%-16sM_monster><%6dM_base_point>P×<%3dM_toubatsu>匹＝<%dM_toubatsu_score>P"
   },
   "1143": {
-    "clarity_nt_char_384": "clarity_nt_char_384"
+    "clarity_nt_char_1143": "clarity_nt_char_1143"
   },
   "1144": {
     "今回のスコア：<%dM_sum_score>P ハイスコア更新！": "今回のスコア：<%dM_sum_score>P ハイスコア更新！"
   },
   "1145": {
-    "clarity_nt_char_385": "clarity_nt_char_385"
+    "clarity_nt_char_1145": "clarity_nt_char_1145"
   },
   "1146": {
     "スペシャルボーナス：スコア <%dM_bairitsu> ％アップ": "スペシャルボーナス：スコア <%dM_bairitsu> ％アップ"
@@ -3441,7 +3441,7 @@
     "ボーナス：<%sM_bonus>": "ボーナス：<%sM_bonus>"
   },
   "1148": {
-    "clarity_nt_char_386": "clarity_nt_char_386"
+    "clarity_nt_char_1148": "clarity_nt_char_1148"
   },
   "1149": {
     "ハイスコアの合計：<%dM_total_score>P": "ハイスコアの合計：<%dM_total_score>P"
@@ -3456,7 +3456,7 @@
     "→<%sM_slime_name_2>の　『マホターン』で　『<%sL_ACTION_2>』を　はねかえされた！": "→<%sM_slime_name_2>の　『マホターン』で　『<%sL_ACTION_2>』を　はねかえされた！"
   },
   "1153": {
-    "clarity_nt_char_387": "clarity_nt_char_387"
+    "clarity_nt_char_1153": "clarity_nt_char_1153"
   },
   "1154": {
     "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホターン』で　はねかえした！": "→<%sM_slime_name_2>の　『<%sL_ACTION_2>』を　『マホターン』で　はねかえした！"
@@ -3474,19 +3474,19 @@
     "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！": "<%sM_item><%sM_plusnum>の 冥海の光玉を 冒険者ジグロウに渡した！"
   },
   "1159": {
-    "clarity_nt_char_388": "clarity_nt_char_388"
+    "clarity_nt_char_1159": "clarity_nt_char_1159"
   },
   "1160": {
     "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "上位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！"
   },
   "1161": {
-    "clarity_nt_char_389": "clarity_nt_char_389"
+    "clarity_nt_char_1161": "clarity_nt_char_1161"
   },
   "1162": {
     "1位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！": "1位クラブに勝利し　<%sL_MY_CLUB>に　<%dL_Point>点の追加点が入った！"
   },
   "1163": {
-    "clarity_nt_char_390": "clarity_nt_char_390"
+    "clarity_nt_char_1163": "clarity_nt_char_1163"
   },
   "1164": {
     "美容院で <%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": "美容院で <%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！"
@@ -3495,13 +3495,13 @@
     "------【海底探索ガテリア号　リザルト】------": "------【海底探索ガテリア号　リザルト】------"
   },
   "1166": {
-    "clarity_nt_char_391": "clarity_nt_char_391"
+    "clarity_nt_char_1166": "clarity_nt_char_1166"
   },
   "1167": {
     "今回生き残ったなかま <%dM_total_seizonsya>人：<%dM_seizonsya_score>P": "今回生き残ったなかま <%dM_total_seizonsya>人：<%dM_seizonsya_score>P"
   },
   "1168": {
-    "clarity_nt_char_392": "clarity_nt_char_392"
+    "clarity_nt_char_1168": "clarity_nt_char_1168"
   },
   "1169": {
     "[収集品評価]": "[収集品評価]"
@@ -3513,19 +3513,19 @@
     "ねじ/<%dM_total_cou_neji>こ：<%dM_total_sco_neji>P": "ねじ/<%dM_total_cou_neji>こ：<%dM_total_sco_neji>P"
   },
   "1172": {
-    "clarity_nt_char_393": "clarity_nt_char_393"
+    "clarity_nt_char_1172": "clarity_nt_char_1172"
   },
   "1173": {
     "歯車/<%dM_total_cou_hagu>こ：<%dM_total_sco_hagu>P": "歯車/<%dM_total_cou_hagu>こ：<%dM_total_sco_hagu>P"
   },
   "1174": {
-    "clarity_nt_char_394": "clarity_nt_char_394"
+    "clarity_nt_char_1174": "clarity_nt_char_1174"
   },
   "1175": {
     "お宝/<%dM_total_cou_taka>こ：<%dM_total_sco_taka>P": "お宝/<%dM_total_cou_taka>こ：<%dM_total_sco_taka>P"
   },
   "1176": {
-    "clarity_nt_char_395": "clarity_nt_char_395"
+    "clarity_nt_char_1176": "clarity_nt_char_1176"
   },
   "1177": {
     "合計：<%dM_sum_score>P": "合計：<%dM_sum_score>P"
@@ -3534,7 +3534,7 @@
     "合計：<%dM_sum_score>P ハイスコア更新！": "合計：<%dM_sum_score>P ハイスコア更新！"
   },
   "1179": {
-    "clarity_nt_char_396": "clarity_nt_char_396"
+    "clarity_nt_char_1179": "clarity_nt_char_1179"
   },
   "1180": {
     "[プレイ評価]": "[プレイ評価]"
@@ -3543,7 +3543,7 @@
     "<%sM_play_hy_cou_sp>：<%sM_result_rank>": "<%sM_play_hy_cou_sp>：<%sM_result_rank>"
   },
   "1182": {
-    "clarity_nt_char_397": "clarity_nt_char_397"
+    "clarity_nt_char_1182": "clarity_nt_char_1182"
   },
   "1183": {
     "<%sM_play_hy_sp_zero>：<%sM_result_rank>": "<%sM_play_hy_sp_zero>：<%sM_result_rank>"
@@ -3552,55 +3552,55 @@
     "<%sM_play_hy_rescue>：<%sM_result_rank>": "<%sM_play_hy_rescue>：<%sM_result_rank>"
   },
   "1185": {
-    "clarity_nt_char_398": "clarity_nt_char_398"
+    "clarity_nt_char_1185": "clarity_nt_char_1185"
   },
   "1186": {
     "<%sM_play_hy_same>：<%sM_result_rank>": "<%sM_play_hy_same>：<%sM_result_rank>"
   },
   "1187": {
-    "clarity_nt_char_399": "clarity_nt_char_399"
+    "clarity_nt_char_1187": "clarity_nt_char_1187"
   },
   "1188": {
     "<%sM_play_hy_kurage>：<%sM_result_rank>": "<%sM_play_hy_kurage>：<%sM_result_rank>"
   },
   "1189": {
-    "clarity_nt_char_400": "clarity_nt_char_400"
+    "clarity_nt_char_1189": "clarity_nt_char_1189"
   },
   "1190": {
     "<%sM_play_hy_neji>：<%sM_result_rank>": "<%sM_play_hy_neji>：<%sM_result_rank>"
   },
   "1191": {
-    "clarity_nt_char_401": "clarity_nt_char_401"
+    "clarity_nt_char_1191": "clarity_nt_char_1191"
   },
   "1192": {
     "<%sM_play_hy_hagu>：<%sM_result_rank>": "<%sM_play_hy_hagu>：<%sM_result_rank>"
   },
   "1193": {
-    "clarity_nt_char_402": "clarity_nt_char_402"
+    "clarity_nt_char_1193": "clarity_nt_char_1193"
   },
   "1194": {
     "<%sM_play_hy_taka>：<%sM_result_rank>": "<%sM_play_hy_taka>：<%sM_result_rank>"
   },
   "1195": {
-    "clarity_nt_char_403": "clarity_nt_char_403"
+    "clarity_nt_char_1195": "clarity_nt_char_1195"
   },
   "1196": {
     "<%sM_play_hy_sougou>：<%sM_result_rank>": "<%sM_play_hy_sougou>：<%sM_result_rank>"
   },
   "1197": {
-    "clarity_nt_char_404": "clarity_nt_char_404"
+    "clarity_nt_char_1197": "clarity_nt_char_1197"
   },
   "1198": {
     "航海失敗": "航海失敗"
   },
   "1199": {
-    "clarity_nt_char_405": "clarity_nt_char_405"
+    "clarity_nt_char_1199": "clarity_nt_char_1199"
   },
   "1200": {
     "航海成功": "航海成功"
   },
   "1201": {
-    "clarity_nt_char_406": "clarity_nt_char_406"
+    "clarity_nt_char_1201": "clarity_nt_char_1201"
   },
   "1202": {
     "<%sM_item>を <%dM_item_num>個 消費した。": "<%sM_item>を <%dM_item_num>個 消費した。"
@@ -3612,7 +3612,7 @@
     "妖精の姿見の　おしゃレシピの登録が　解除された！": "妖精の姿見の　おしゃレシピの登録が　解除された！"
   },
   "1205": {
-    "clarity_nt_char_407": "clarity_nt_char_407"
+    "clarity_nt_char_1205": "clarity_nt_char_1205"
   },
   "1206": {
     "ベルト倉庫から <%sM_item><%sM_plusnum>を 取り出した。": "ベルト倉庫から <%sM_item><%sM_plusnum>を 取り出した。"
@@ -3621,7 +3621,7 @@
     "ベルト倉庫に <%sM_item><%sM_plusnum>を 預けた。": "ベルト倉庫に <%sM_item><%sM_plusnum>を 預けた。"
   },
   "1208": {
-    "clarity_nt_char_408": "clarity_nt_char_408"
+    "clarity_nt_char_1208": "clarity_nt_char_1208"
   },
   "1209": {
     "<pc>は<%sM_ITEM>を<%dM_NUM>個 渡した！": "<pc>は<%sM_ITEM>を<%dM_NUM>個 渡した！"
@@ -3636,7 +3636,7 @@
     "--------------【バトル結果】--------------<br>|勝ち         <%3dB_COLO_POINT> P  負け         <%3dB_COLO_POINT_2> P": "--------------【バトル結果】--------------<br>|勝ち         <%3dB_COLO_POINT> P  負け         <%3dB_COLO_POINT_2> P"
   },
   "1213": {
-    "clarity_nt_char_409": "clarity_nt_char_409"
+    "clarity_nt_char_1213": "clarity_nt_char_1213"
   },
   "1214": {
     "<%-12sC_PC> <%3dB_COLO_POINT> P  <%-12sC_PC2> <%3dB_COLO_POINT_2> P": "<%-12sC_PC> <%3dB_COLO_POINT> P  <%-12sC_PC2> <%3dB_COLO_POINT_2> P"
@@ -3645,7 +3645,7 @@
     "------------------------------------------": "------------------------------------------"
   },
   "1216": {
-    "clarity_nt_char_410": "clarity_nt_char_410"
+    "clarity_nt_char_1216": "clarity_nt_char_1216"
   },
   "1217": {
     "今回の獲得ギラムソウル：<%dM_giram_coin>こ": "今回の獲得ギラムソウル：<%dM_giram_coin>こ"
@@ -3660,13 +3660,13 @@
     "大富豪スタート！": "大富豪スタート！"
   },
   "1221": {
-    "clarity_nt_char_411": "clarity_nt_char_411"
+    "clarity_nt_char_1221": "clarity_nt_char_1221"
   },
   "1222": {
     "<%dL_game_count>ゲーム目開始": "<%dL_game_count>ゲーム目開始"
   },
   "1223": {
-    "clarity_nt_char_412": "clarity_nt_char_412"
+    "clarity_nt_char_1223": "clarity_nt_char_1223"
   },
   "1224": {
     "最終ゲーム開始": "最終ゲーム開始"
@@ -3675,7 +3675,7 @@
     "<%dL_game_count>ゲーム目終了": "<%dL_game_count>ゲーム目終了"
   },
   "1226": {
-    "clarity_nt_char_413": "clarity_nt_char_413"
+    "clarity_nt_char_1226": "clarity_nt_char_1226"
   },
   "1227": {
     "最終ゲーム終了": "最終ゲーム終了"
@@ -3690,7 +3690,7 @@
     "<%sL_name>はジョーカーを出した": "<%sL_name>はジョーカーを出した"
   },
   "1231": {
-    "clarity_nt_char_414": "clarity_nt_char_414"
+    "clarity_nt_char_1231": "clarity_nt_char_1231"
   },
   "1232": {
     "<%sL_name>は<%sL_card>を<%dL_num>枚出した": "<%sL_name>は<%sL_card>を<%dL_num>枚出した"
@@ -3702,7 +3702,7 @@
     "<%sL_name>はジョーカーを2枚出した": "<%sL_name>はジョーカーを2枚出した"
   },
   "1235": {
-    "clarity_nt_char_415": "clarity_nt_char_415"
+    "clarity_nt_char_1235": "clarity_nt_char_1235"
   },
   "1236": {
     "<%sL_name>は階段で<%sL_card_num>から<%dL_num>枚出した": "<%sL_name>は階段で<%sL_card_num>から<%dL_num>枚出した"
@@ -3720,7 +3720,7 @@
     "　→<%sL_name>は なかまカードと手札のカードを交換した": "　→<%sL_name>は なかまカードと手札のカードを交換した"
   },
   "1241": {
-    "clarity_nt_char_416": "clarity_nt_char_416"
+    "clarity_nt_char_1241": "clarity_nt_char_1241"
   },
   "1242": {
     "　→<%sL_name>の順番がスキップされた": "　→<%sL_name>の順番がスキップされた"
@@ -3732,7 +3732,7 @@
     "　→<%sL_name>は<%sL_name2>にカードを<%dL_num>枚渡した": "　→<%sL_name>は<%sL_name2>にカードを<%dL_num>枚渡した"
   },
   "1245": {
-    "clarity_nt_char_417": "clarity_nt_char_417"
+    "clarity_nt_char_1245": "clarity_nt_char_1245"
   },
   "1246": {
     "場が流れた": "場が流れた"
@@ -3750,13 +3750,13 @@
     "<%sL_name>は<%sL_class>になった": "<%sL_name>は<%sL_class>になった"
   },
   "1251": {
-    "clarity_nt_char_418": "clarity_nt_char_418"
+    "clarity_nt_char_1251": "clarity_nt_char_1251"
   },
   "1252": {
     "10": "10"
   },
   "1253": {
-    "clarity_nt_char_419": "clarity_nt_char_419"
+    "clarity_nt_char_1253": "clarity_nt_char_1253"
   },
   "1254": {
     "2": "2"
@@ -3795,7 +3795,7 @@
     "--------------【バトル結果】--------------<br>|引き分け     <%3dB_COLO_POINT> P  引き分け     <%3dB_COLO_POINT_2> P": "--------------【バトル結果】--------------<br>|引き分け     <%3dB_COLO_POINT> P  引き分け     <%3dB_COLO_POINT_2> P"
   },
   "1266": {
-    "clarity_nt_char_420": "clarity_nt_char_420"
+    "clarity_nt_char_1266": "clarity_nt_char_1266"
   },
   "1267": {
     "(参加者なし)": "(参加者なし)"
@@ -3804,19 +3804,19 @@
     "ランキングでの名前表示設定を　『ないしょ』　に設定した。": "ランキングでの名前表示設定を　『ないしょ』　に設定した。"
   },
   "1269": {
-    "clarity_nt_char_421": "clarity_nt_char_421"
+    "clarity_nt_char_1269": "clarity_nt_char_1269"
   },
   "1270": {
     "ランキングでの名前表示設定を　『公開する』　に設定した。": "ランキングでの名前表示設定を　『公開する』　に設定した。"
   },
   "1271": {
-    "clarity_nt_char_422": "clarity_nt_char_422"
+    "clarity_nt_char_1271": "clarity_nt_char_1271"
   },
   "1272": {
     "<%sL_card_suit>の<%sL_card_num>": "<%sL_card_suit>の<%sL_card_num>"
   },
   "1273": {
-    "clarity_nt_char_423": "clarity_nt_char_423"
+    "clarity_nt_char_1273": "clarity_nt_char_1273"
   },
   "1274": {
     "ジョーカー": "ジョーカー"
@@ -3825,7 +3825,7 @@
     "<%sL_name>はカードを出した": "<%sL_name>はカードを出した"
   },
   "1276": {
-    "clarity_nt_char_424": "clarity_nt_char_424"
+    "clarity_nt_char_1276": "clarity_nt_char_1276"
   },
   "1277": {
     "大貧民": "大貧民"
@@ -3837,13 +3837,13 @@
     "貧民": "貧民"
   },
   "1280": {
-    "clarity_nt_char_425": "clarity_nt_char_425"
+    "clarity_nt_char_1280": "clarity_nt_char_1280"
   },
   "1281": {
     "富豪": "富豪"
   },
   "1282": {
-    "clarity_nt_char_426": "clarity_nt_char_426"
+    "clarity_nt_char_1282": "clarity_nt_char_1282"
   },
   "1283": {
     "<%sL_rank>から <%sL_card>を受け取った": "<%sL_rank>から <%sL_card>を受け取った"
@@ -3852,7 +3852,7 @@
     "<%sL_rank>から <%sL_card>と <%sL_card2>を受け取った": "<%sL_rank>から <%sL_card>と <%sL_card2>を受け取った"
   },
   "1285": {
-    "clarity_nt_char_427": "clarity_nt_char_427"
+    "clarity_nt_char_1285": "clarity_nt_char_1285"
   },
   "1286": {
     "　→<%sL_name>から <%sL_card>を受け取った": "　→<%sL_name>から <%sL_card>を受け取った"
@@ -3870,7 +3870,7 @@
     "スペード": "スペード"
   },
   "1291": {
-    "clarity_nt_char_428": "clarity_nt_char_428"
+    "clarity_nt_char_1291": "clarity_nt_char_1291"
   },
   "1292": {
     "段位戦ポイントを　<%dL_rank_point>P 獲得した": "段位戦ポイントを　<%dL_rank_point>P 獲得した"
@@ -3879,19 +3879,19 @@
     "トランプポイントを　<%dL_rank_point>P 獲得した": "トランプポイントを　<%dL_rank_point>P 獲得した"
   },
   "1294": {
-    "clarity_nt_char_429": "clarity_nt_char_429"
+    "clarity_nt_char_1294": "clarity_nt_char_1294"
   },
   "1295": {
     "<%sL_rank>に 昇段した": "<%sL_rank>に 昇段した"
   },
   "1296": {
-    "clarity_nt_char_430": "clarity_nt_char_430"
+    "clarity_nt_char_1296": "clarity_nt_char_1296"
   },
   "1297": {
     "<%dL_rank>位：<%sL_name>": "<%dL_rank>位：<%sL_name>"
   },
   "1298": {
-    "clarity_nt_char_431": "clarity_nt_char_431"
+    "clarity_nt_char_1298": "clarity_nt_char_1298"
   },
   "1299": {
     "ジョーカーが出されて　あつまったスライムがすべて消えた": "ジョーカーが出されて　あつまったスライムがすべて消えた"
@@ -3900,7 +3900,7 @@
     "段位戦ポイントを　<%dL_rank_point>P 失った": "段位戦ポイントを　<%dL_rank_point>P 失った"
   },
   "1301": {
-    "clarity_nt_char_432": "clarity_nt_char_432"
+    "clarity_nt_char_1301": "clarity_nt_char_1301"
   },
   "1302": {
     "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！": "トランプポイント <%dL_POINT> Pを使って|<%sL_DAIHUGOU_FLAG>の絵柄を　手にいれた！"
@@ -3915,31 +3915,31 @@
     "万魔の塔で ギラムソウルを <%dM_giram_coin>こ 手に入れた！": "万魔の塔で ギラムソウルを <%dM_giram_coin>こ 手に入れた！"
   },
   "1306": {
-    "clarity_nt_char_433": "clarity_nt_char_433"
+    "clarity_nt_char_1306": "clarity_nt_char_1306"
   },
   "1307": {
     "革命返し": "革命返し"
   },
   "1308": {
-    "clarity_nt_char_434": "clarity_nt_char_434"
+    "clarity_nt_char_1308": "clarity_nt_char_1308"
   },
   "1309": {
     "スライム革命返し": "スライム革命返し"
   },
   "1310": {
-    "clarity_nt_char_435": "clarity_nt_char_435"
+    "clarity_nt_char_1310": "clarity_nt_char_1310"
   },
   "1311": {
     "<%sL_name>からスタート": "<%sL_name>からスタート"
   },
   "1312": {
-    "clarity_nt_char_436": "clarity_nt_char_436"
+    "clarity_nt_char_1312": "clarity_nt_char_1312"
   },
   "1313": {
     "最終結果": "最終結果"
   },
   "1314": {
-    "clarity_nt_char_437": "clarity_nt_char_437"
+    "clarity_nt_char_1314": "clarity_nt_char_1314"
   },
   "1315": {
     "<%dL_game_count>ゲーム目の結果": "<%dL_game_count>ゲーム目の結果"
@@ -3954,19 +3954,19 @@
     "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！": "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　<%dL_NUM>個　手にいれた！"
   },
   "1319": {
-    "clarity_nt_char_438": "clarity_nt_char_438"
+    "clarity_nt_char_1319": "clarity_nt_char_1319"
   },
   "1320": {
     "鑑定した宝珠から <%sM_SKILL>が開花した！": "鑑定した宝珠から <%sM_SKILL>が開花した！"
   },
   "1321": {
-    "clarity_nt_char_439": "clarity_nt_char_439"
+    "clarity_nt_char_1321": "clarity_nt_char_1321"
   },
   "1322": {
     "アイテムの効果で　制限時間が少し増えた！": "アイテムの効果で　制限時間が少し増えた！"
   },
   "1323": {
-    "clarity_nt_char_440": "clarity_nt_char_440"
+    "clarity_nt_char_1323": "clarity_nt_char_1323"
   },
   "1324": {
     "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）": "<%sM_CW_stamp>（スタンプ　<%sM_CW_pack_no>）"
@@ -3975,7 +3975,7 @@
     "<%-12sL_name>  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>": "<%-12sL_name>  <%-6sL_rank> (<%7dL_rank_point>P)  <%sL_trump_name>"
   },
   "1326": {
-    "clarity_nt_char_441": "clarity_nt_char_441"
+    "clarity_nt_char_1326": "clarity_nt_char_1326"
   },
   "1327": {
     "対戦相手      段位               使うトランプ": "対戦相手      段位               使うトランプ"
@@ -3984,7 +3984,7 @@
     "<%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のおおきさを <%sM_old>から <%sM_new>に 変えた！"
   },
   "1329": {
-    "clarity_nt_char_442": "clarity_nt_char_442"
+    "clarity_nt_char_1329": "clarity_nt_char_1329"
   },
   "1330": {
     "<%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のめの色を <%sM_old>から <%sM_new>に 変えた！"
@@ -3993,7 +3993,7 @@
     "<%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のかおを <%sM_old>から <%sM_new>に 変えた！"
   },
   "1332": {
-    "clarity_nt_char_443": "clarity_nt_char_443"
+    "clarity_nt_char_1332": "clarity_nt_char_1332"
   },
   "1333": {
     "<%sM_name>の かみの色１を|<%sM_old>から <%sM_new>に変えた！": "<%sM_name>の かみの色１を|<%sM_old>から <%sM_new>に変えた！"
@@ -4008,37 +4008,37 @@
     "<%sM_name>のかみがたを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のかみがたを <%sM_old>から <%sM_new>に 変えた！"
   },
   "1337": {
-    "clarity_nt_char_444": "clarity_nt_char_444"
+    "clarity_nt_char_1337": "clarity_nt_char_1337"
   },
   "1338": {
     "<%sM_name>の かみの色２のツヤを|<%sM_old>から <%sM_new>に変えた！": "<%sM_name>の かみの色２のツヤを|<%sM_old>から <%sM_new>に変えた！"
   },
   "1339": {
-    "clarity_nt_char_445": "clarity_nt_char_445"
+    "clarity_nt_char_1339": "clarity_nt_char_1339"
   },
   "1340": {
     "<%sM_name>の かみの色１のツヤを|<%sM_old>から <%sM_new>に変えた！": "<%sM_name>の かみの色１のツヤを|<%sM_old>から <%sM_new>に変えた！"
   },
   "1341": {
-    "clarity_nt_char_446": "clarity_nt_char_446"
+    "clarity_nt_char_1341": "clarity_nt_char_1341"
   },
   "1342": {
     "<%sM_name>のはだの色を <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のはだの色を <%sM_old>から <%sM_new>に 変えた！"
   },
   "1343": {
-    "clarity_nt_char_447": "clarity_nt_char_447"
+    "clarity_nt_char_1343": "clarity_nt_char_1343"
   },
   "1344": {
     "<%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！": "<%sM_name>のしろめの色を <%sM_old>から <%sM_new>に変えた！"
   },
   "1345": {
-    "clarity_nt_char_448": "clarity_nt_char_448"
+    "clarity_nt_char_1345": "clarity_nt_char_1345"
   },
   "1346": {
     "<%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！": "<%sM_name>のりんかくを <%sM_old>から <%sM_new>に 変えた！"
   },
   "1347": {
-    "clarity_nt_char_449": "clarity_nt_char_449"
+    "clarity_nt_char_1347": "clarity_nt_char_1347"
   },
   "1348": {
     "<%-12sL_name>  <%sL_trump_name>": "<%-12sL_name>  <%sL_trump_name>"
@@ -4047,13 +4047,13 @@
     "対戦相手      使うトランプ": "対戦相手      使うトランプ"
   },
   "1350": {
-    "clarity_nt_char_450": "clarity_nt_char_450"
+    "clarity_nt_char_1350": "clarity_nt_char_1350"
   },
   "1351": {
     "<%sL_rank>に 降段した": "<%sL_rank>に 降段した"
   },
   "1352": {
-    "clarity_nt_char_451": "clarity_nt_char_451"
+    "clarity_nt_char_1352": "clarity_nt_char_1352"
   },
   "1353": {
     "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった": "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減らなかった"
@@ -4077,7 +4077,7 @@
     "スタン弾が　ガテリア号の近くにおかれた！": "スタン弾が　ガテリア号の近くにおかれた！"
   },
   "1360": {
-    "clarity_nt_char_452": "clarity_nt_char_452"
+    "clarity_nt_char_1360": "clarity_nt_char_1360"
   },
   "1361": {
     "ピタリ賞のサイズ　<%.1fM_CM>ｃｍが　登録されました！": "ピタリ賞のサイズ　<%.1fM_CM>ｃｍが　登録されました！"
@@ -4086,7 +4086,7 @@
     "らくらくジョウロが だいじなものに　追加された！": "らくらくジョウロが だいじなものに　追加された！"
   },
   "1363": {
-    "clarity_nt_char_453": "clarity_nt_char_453"
+    "clarity_nt_char_1363": "clarity_nt_char_1363"
   },
   "1364": {
     "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！"
@@ -4095,7 +4095,7 @@
     "対戦相手      ランク             使うトランプ": "対戦相手      ランク             使うトランプ"
   },
   "1366": {
-    "clarity_nt_char_454": "clarity_nt_char_454"
+    "clarity_nt_char_1366": "clarity_nt_char_1366"
   },
   "1367": {
     "決定戦ポイントを　<%dL_rank_point>P 獲得した": "決定戦ポイントを　<%dL_rank_point>P 獲得した"
@@ -4107,7 +4107,7 @@
     "<%sM_CW_stamp>": "<%sM_CW_stamp>"
   },
   "1370": {
-    "clarity_nt_char_455": "clarity_nt_char_455"
+    "clarity_nt_char_1370": "clarity_nt_char_1370"
   },
   "1371": {
     "<%sM_speaker>【<%sM_chat>】": "<%sM_speaker>【<%sM_chat>】"
@@ -4122,19 +4122,19 @@
     "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>"
   },
   "1375": {
-    "clarity_nt_char_456": "clarity_nt_char_456"
+    "clarity_nt_char_1375": "clarity_nt_char_1375"
   },
   "1376": {
     "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】": "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】"
   },
   "1377": {
-    "clarity_nt_char_457": "clarity_nt_char_457"
+    "clarity_nt_char_1377": "clarity_nt_char_1377"
   },
   "1378": {
     "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>"
   },
   "1379": {
-    "clarity_nt_char_458": "clarity_nt_char_458"
+    "clarity_nt_char_1379": "clarity_nt_char_1379"
   },
   "1380": {
     "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>"
@@ -4143,7 +4143,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\e【<%sM_chat>】": "\\s<%sC_PC>\\m<%sC_ID>\\e【<%sM_chat>】"
   },
   "1382": {
-    "clarity_nt_char_459": "clarity_nt_char_459"
+    "clarity_nt_char_1382": "clarity_nt_char_1382"
   },
   "1383": {
     "バシっ娘へ <%dM_gold> Gを 支払った。": "バシっ娘へ <%dM_gold> Gを 支払った。"
@@ -4152,13 +4152,13 @@
     "決定戦ポイントを　<%dL_rank_point>P 失った": "決定戦ポイントを　<%dL_rank_point>P 失った"
   },
   "1385": {
-    "clarity_nt_char_460": "clarity_nt_char_460"
+    "clarity_nt_char_1385": "clarity_nt_char_1385"
   },
   "1386": {
     "電池/<%dM_total_cou_natto>こ：<%dM_total_sco_natto>P": "電池/<%dM_total_cou_natto>こ：<%dM_total_sco_natto>P"
   },
   "1387": {
-    "clarity_nt_char_461": "clarity_nt_char_461"
+    "clarity_nt_char_1387": "clarity_nt_char_1387"
   },
   "1388": {
     "スコアジュエル/<%dM_total_cou_bonus>こ：<%dM_total_sco_bonus>P": "スコアジュエル/<%dM_total_cou_bonus>こ：<%dM_total_sco_bonus>P"
@@ -4170,7 +4170,7 @@
     "<%sM_play_hy_yell>：<%sM_result_rank>": "<%sM_play_hy_yell>：<%sM_result_rank>"
   },
   "1391": {
-    "clarity_nt_char_462": "clarity_nt_char_462"
+    "clarity_nt_char_1391": "clarity_nt_char_1391"
   },
   "1392": {
     "第1フェーズのクリアタイム/<%dM_cou_time1>/：<%dM_total_sco_time1>P": "第1フェーズのクリアタイム/<%dM_cou_time1>/：<%dM_total_sco_time1>P"
@@ -4185,13 +4185,13 @@
     "敵をたおした/<%dM_cou_kill>体：<%dM_total_sco_kill>P": "敵をたおした/<%dM_cou_kill>体：<%dM_total_sco_kill>P"
   },
   "1396": {
-    "clarity_nt_char_463": "clarity_nt_char_463"
+    "clarity_nt_char_1396": "clarity_nt_char_1396"
   },
   "1397": {
     "エール回復 /<%dM_cou_yell>/：<%dM_total_sco_yell>P": "エール回復 /<%dM_cou_yell>/：<%dM_total_sco_yell>P"
   },
   "1398": {
-    "clarity_nt_char_464": "clarity_nt_char_464"
+    "clarity_nt_char_1398": "clarity_nt_char_1398"
   },
   "1399": {
     "お店で <%sL_KAITAI_ITEM><%dL_KAUKAZU>個を ボスコイン無料券<%dL_BUY_MURYOKEN>枚で 交換した！": "お店で <%sL_KAITAI_ITEM><%dL_KAUKAZU>個を ボスコイン無料券<%dL_BUY_MURYOKEN>枚で 交換した！"
@@ -4200,7 +4200,7 @@
     "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_MURYOKEN> 個で交換した！": "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_MURYOKEN> 個で交換した！"
   },
   "1401": {
-    "clarity_nt_char_465": "clarity_nt_char_465"
+    "clarity_nt_char_1401": "clarity_nt_char_1401"
   },
   "1402": {
     "スコアジュエルが　マップの外周に流れてきたようだ！": "スコアジュエルが　マップの外周に流れてきたようだ！"
@@ -4209,7 +4209,7 @@
     "ねじ,電池,歯車/<%dM_total_cou_allpa>こ：<%dM_total_sco_allpa>P": "ねじ,電池,歯車/<%dM_total_cou_allpa>こ：<%dM_total_sco_allpa>P"
   },
   "1404": {
-    "clarity_nt_char_466": "clarity_nt_char_466"
+    "clarity_nt_char_1404": "clarity_nt_char_1404"
   },
   "1405": {
     "継続特典係から <%sM_present>を 受け取った！": "継続特典係から <%sM_present>を 受け取った！"

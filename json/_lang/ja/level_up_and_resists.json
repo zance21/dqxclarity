@@ -3,13 +3,13 @@
     "武器": "武器"
   },
   "2": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "3": {
     "防具": "防具"
   },
   "4": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "5": {
     "職人どうぐ": "職人どうぐ"
@@ -21,19 +21,19 @@
     "素材": "素材"
   },
   "8": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_8": "clarity_nt_char_8"
   },
   "9": {
     "家具": "家具"
   },
   "10": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_10": "clarity_nt_char_10"
   },
   "11": {
     "レシピ帳": "レシピ帳"
   },
   "12": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "13": {
     "盾": "盾"
@@ -51,7 +51,7 @@
     "短剣": "短剣"
   },
   "18": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "19": {
     "スティック": "スティック"
@@ -63,13 +63,13 @@
     "ヤリ": "ヤリ"
   },
   "22": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "23": {
     "オノ": "オノ"
   },
   "24": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
     "棍": "棍"
@@ -78,19 +78,19 @@
     "ツメ": "ツメ"
   },
   "27": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_27": "clarity_nt_char_27"
   },
   "28": {
     "ムチ": "ムチ"
   },
   "29": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "30": {
     "ハンマー": "ハンマー"
   },
   "31": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_31": "clarity_nt_char_31"
   },
   "32": {
     "扇": "扇"
@@ -111,19 +111,19 @@
     "からだ上": "からだ上"
   },
   "38": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "39": {
     "ウデ": "ウデ"
   },
   "40": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_40": "clarity_nt_char_40"
   },
   "41": {
     "からだ下": "からだ下"
   },
   "42": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_42": "clarity_nt_char_42"
   },
   "43": {
     "足": "足"
@@ -135,7 +135,7 @@
     "鍛冶ハンマー": "鍛冶ハンマー"
   },
   "46": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "47": {
     "木工刀": "木工刀"
@@ -150,7 +150,7 @@
     "錬金ツボ": "錬金ツボ"
   },
   "51": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
     "ぜんぶ": "ぜんぶ"
@@ -159,13 +159,13 @@
     "消費アイテム": "消費アイテム"
   },
   "54": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "石系": "石系"
   },
   "56": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "57": {
     "植物系": "植物系"
@@ -174,7 +174,7 @@
     "モンスター系": "モンスター系"
   },
   "59": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "60": {
     "その他": "その他"
@@ -183,13 +183,13 @@
     "家キット": "家キット"
   },
   "62": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_62": "clarity_nt_char_62"
   },
   "63": {
     "収納": "収納"
   },
   "64": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "65": {
     "棚": "棚"
@@ -204,19 +204,19 @@
     "キッチン": "キッチン"
   },
   "69": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
     "バスタブ": "バスタブ"
   },
   "71": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "かべ": "かべ"
   },
   "73": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
     "職人せつび": "職人せつび"
@@ -225,37 +225,37 @@
     "武器鍛冶": "武器鍛冶"
   },
   "76": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_76": "clarity_nt_char_76"
   },
   "77": {
     "防具鍛冶": "防具鍛冶"
   },
   "78": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_78": "clarity_nt_char_78"
   },
   "79": {
     "道具鍛冶": "道具鍛冶"
   },
   "80": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
+    "clarity_nt_char_80": "clarity_nt_char_80"
   },
   "81": {
     "木工": "木工"
   },
   "82": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
+    "clarity_nt_char_82": "clarity_nt_char_82"
   },
   "83": {
     "さいほう": "さいほう"
   },
   "84": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
+    "clarity_nt_char_84": "clarity_nt_char_84"
   },
   "85": {
     "ツボ錬金": "ツボ錬金"
   },
   "86": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
+    "clarity_nt_char_86": "clarity_nt_char_86"
   },
   "87": {
     "ランプ錬金": "ランプ錬金"
@@ -267,7 +267,7 @@
     "しぐさ書": "しぐさ書"
   },
   "90": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
+    "clarity_nt_char_90": "clarity_nt_char_90"
   },
   "91": {
     "依頼書": "依頼書"
@@ -276,7 +276,7 @@
     "スカウトの書": "スカウトの書"
   },
   "93": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
+    "clarity_nt_char_93": "clarity_nt_char_93"
   },
   "94": {
     "まもの使い": "まもの使い"
@@ -291,7 +291,7 @@
     "調理": "調理"
   },
   "98": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
+    "clarity_nt_char_98": "clarity_nt_char_98"
   },
   "99": {
     "釣りどうぐ": "釣りどうぐ"
@@ -300,7 +300,7 @@
     "釣りざお": "釣りざお"
   },
   "101": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
+    "clarity_nt_char_101": "clarity_nt_char_101"
   },
   "102": {
     "ルアー": "ルアー"
@@ -309,13 +309,13 @@
     "照明・ランプ": "照明・ランプ"
   },
   "104": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
+    "clarity_nt_char_104": "clarity_nt_char_104"
   },
   "105": {
     "機能つき家具": "機能つき家具"
   },
   "106": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
+    "clarity_nt_char_106": "clarity_nt_char_106"
   },
   "107": {
     "像": "像"
@@ -324,43 +324,43 @@
     "いす": "いす"
   },
   "109": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+    "clarity_nt_char_109": "clarity_nt_char_109"
   },
   "110": {
     "ゆか": "ゆか"
   },
   "111": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
+    "clarity_nt_char_111": "clarity_nt_char_111"
   },
   "112": {
     "花・植物": "花・植物"
   },
   "113": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
+    "clarity_nt_char_113": "clarity_nt_char_113"
   },
   "114": {
     "像・人形": "像・人形"
   },
   "115": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
+    "clarity_nt_char_115": "clarity_nt_char_115"
   },
   "116": {
     "庭具": "庭具"
   },
   "117": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
+    "clarity_nt_char_117": "clarity_nt_char_117"
   },
   "118": {
     "料理": "料理"
   },
   "119": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
+    "clarity_nt_char_119": "clarity_nt_char_119"
   },
   "120": {
     "ドール書": "ドール書"
   },
   "121": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
+    "clarity_nt_char_121": "clarity_nt_char_121"
   },
   "122": {
     "壁かけ家具": "壁かけ家具"
@@ -369,7 +369,7 @@
     "人形": "人形"
   },
   "124": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
+    "clarity_nt_char_124": "clarity_nt_char_124"
   },
   "125": {
     "はしら": "はしら"
@@ -378,19 +378,19 @@
     "その他２": "その他２"
   },
   "127": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
+    "clarity_nt_char_127": "clarity_nt_char_127"
   },
   "128": {
     "オーグリード": "オーグリード"
   },
   "129": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
+    "clarity_nt_char_129": "clarity_nt_char_129"
   },
   "130": {
     "ドワチャッカ": "ドワチャッカ"
   },
   "131": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
+    "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
     "プクランド": "プクランド"
@@ -399,7 +399,7 @@
     "エルトナ": "エルトナ"
   },
   "134": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
+    "clarity_nt_char_134": "clarity_nt_char_134"
   },
   "135": {
     "ウェナ": "ウェナ"
@@ -408,7 +408,7 @@
     "レンダーシア": "レンダーシア"
   },
   "137": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
+    "clarity_nt_char_137": "clarity_nt_char_137"
   },
   "138": {
     "テスト": "テスト"
@@ -423,19 +423,19 @@
     "しゅび力": "しゅび力"
   },
   "142": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
+    "clarity_nt_char_142": "clarity_nt_char_142"
   },
   "143": {
     "きようさ": "きようさ"
   },
   "144": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
+    "clarity_nt_char_144": "clarity_nt_char_144"
   },
   "145": {
     "すばやさ": "すばやさ"
   },
   "146": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
+    "clarity_nt_char_146": "clarity_nt_char_146"
   },
   "147": {
     "おしゃれさ": "おしゃれさ"
@@ -444,25 +444,25 @@
     "こうげき魔力": "こうげき魔力"
   },
   "149": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
+    "clarity_nt_char_149": "clarity_nt_char_149"
   },
   "150": {
     "かいふく魔力": "かいふく魔力"
   },
   "151": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
+    "clarity_nt_char_151": "clarity_nt_char_151"
   },
   "152": {
     "さいだいＨＰ": "さいだいＨＰ"
   },
   "153": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
+    "clarity_nt_char_153": "clarity_nt_char_153"
   },
   "154": {
     "さいだいＭＰ": "さいだいＭＰ"
   },
   "155": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
+    "clarity_nt_char_155": "clarity_nt_char_155"
   },
   "156": {
     "おもさ": "おもさ"
@@ -483,7 +483,7 @@
     "呪文発動速度": "呪文発動速度"
   },
   "162": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
+    "clarity_nt_char_162": "clarity_nt_char_162"
   },
   "163": {
     "ＭＰ吸収率": "ＭＰ吸収率"
@@ -525,43 +525,43 @@
     "炎ダメージ ??%減": "炎ダメージ ??%減"
   },
   "176": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
+    "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
     "氷ダメージ ??%減": "氷ダメージ ??%減"
   },
   "178": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
+    "clarity_nt_char_178": "clarity_nt_char_178"
   },
   "179": {
     "風ダメージ ??%減": "風ダメージ ??%減"
   },
   "180": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
+    "clarity_nt_char_180": "clarity_nt_char_180"
   },
   "181": {
     "雷ダメージ ??%減": "雷ダメージ ??%減"
   },
   "182": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
+    "clarity_nt_char_182": "clarity_nt_char_182"
   },
   "183": {
     "土ダメージ ??%減": "土ダメージ ??%減"
   },
   "184": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
+    "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
     "闇ダメージ ??%減": "闇ダメージ ??%減"
   },
   "186": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
+    "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
     "光ダメージ ??%減": "光ダメージ ??%減"
   },
   "188": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
+    "clarity_nt_char_188": "clarity_nt_char_188"
   },
   "189": {
     "ＭＰ吸収ガード": "ＭＰ吸収ガード"
@@ -570,7 +570,7 @@
     "ＭＰ消費しない率": "ＭＰ消費しない率"
   },
   "191": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
+    "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
     "通常ドロップ率": "通常ドロップ率"
@@ -579,37 +579,37 @@
     "攻撃時 ??%でどく": "攻撃時 ??%でどく"
   },
   "194": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
+    "clarity_nt_char_194": "clarity_nt_char_194"
   },
   "195": {
     "攻撃時 ??%で眠り": "攻撃時 ??%で眠り"
   },
   "196": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
+    "clarity_nt_char_196": "clarity_nt_char_196"
   },
   "197": {
     "攻撃時 ??%でマヒ": "攻撃時 ??%でマヒ"
   },
   "198": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
+    "clarity_nt_char_198": "clarity_nt_char_198"
   },
   "199": {
     "攻撃時 ??%で混乱": "攻撃時 ??%で混乱"
   },
   "200": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
+    "clarity_nt_char_200": "clarity_nt_char_200"
   },
   "201": {
     "攻撃時 ??%で幻惑": "攻撃時 ??%で幻惑"
   },
   "202": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
+    "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "203": {
     "攻撃時 ??%で魅了": "攻撃時 ??%で魅了"
   },
   "204": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
+    "clarity_nt_char_204": "clarity_nt_char_204"
   },
   "205": {
     "攻撃時 ??%でマホトーン": "攻撃時 ??%でマホトーン"
@@ -618,7 +618,7 @@
     "攻撃時 ??%でヘナトス": "攻撃時 ??%でヘナトス"
   },
   "207": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
+    "clarity_nt_char_207": "clarity_nt_char_207"
   },
   "208": {
     "攻撃時 ??%でルカニ": "攻撃時 ??%でルカニ"
@@ -633,19 +633,19 @@
     "攻撃時 ??%でミスする": "攻撃時 ??%でミスする"
   },
   "212": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
+    "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "213": {
     "移動速度": "移動速度"
   },
   "214": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
+    "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "215": {
     "武器ガード率": "武器ガード率"
   },
   "216": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
+    "clarity_nt_char_216": "clarity_nt_char_216"
   },
   "217": {
     "呪文ぼうそう率": "呪文ぼうそう率"
@@ -654,7 +654,7 @@
     "おびえガード": "おびえガード"
   },
   "219": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
+    "clarity_nt_char_219": "clarity_nt_char_219"
   },
   "220": {
     "転びガード": "転びガード"
@@ -663,7 +663,7 @@
     "しばりガード": "しばりガード"
   },
   "222": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
+    "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "223": {
     "笑いガード": "笑いガード"
@@ -678,7 +678,7 @@
     "攻撃時 ??%で急所突き": "攻撃時 ??%で急所突き"
   },
   "227": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
+    "clarity_nt_char_227": "clarity_nt_char_227"
   },
   "228": {
     "開戦時 ??%で盾ガ率上昇": "開戦時 ??%で盾ガ率上昇"
@@ -696,7 +696,7 @@
     "開戦時 ??%でマホキテ": "開戦時 ??%でマホキテ"
   },
   "233": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
+    "clarity_nt_char_233": "clarity_nt_char_233"
   },
   "234": {
     "星天率": "星天率"
@@ -711,13 +711,13 @@
     "誠意": "誠意"
   },
   "238": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
+    "clarity_nt_char_238": "clarity_nt_char_238"
   },
   "239": {
     "愛情": "愛情"
   },
   "240": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
+    "clarity_nt_char_240": "clarity_nt_char_240"
   },
   "241": {
     "銀河の加護": "銀河の加護"
@@ -729,7 +729,7 @@
     "染色アイテム": "染色アイテム"
   },
   "244": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
+    "clarity_nt_char_244": "clarity_nt_char_244"
   },
   "245": {
     "鎌": "鎌"
@@ -738,13 +738,13 @@
     "プリズム": "プリズム"
   },
   "247": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
+    "clarity_nt_char_247": "clarity_nt_char_247"
   },
   "248": {
     "カプセル": "カプセル"
   },
   "249": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
+    "clarity_nt_char_249": "clarity_nt_char_249"
   },
   "250": {
     "箱": "箱"
@@ -753,13 +753,13 @@
     "花火": "花火"
   },
   "252": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
+    "clarity_nt_char_252": "clarity_nt_char_252"
   },
   "253": {
     "霊符": "霊符"
   },
   "254": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
+    "clarity_nt_char_254": "clarity_nt_char_254"
   },
   "255": {
     "武器鍛冶２": "武器鍛冶２"

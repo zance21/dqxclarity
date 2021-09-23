@@ -6,43 +6,43 @@
     "キャラ右移動": "キャラ右移動"
   },
   "3": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "4": {
     "キャラ左移動": "キャラ左移動"
   },
   "5": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "6": {
     "キャラ奥移動": "キャラ奥移動"
   },
   "7": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_7": "clarity_nt_char_7"
   },
   "8": {
     "カメラ右": "カメラ右"
   },
   "9": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "カメラ左": "カメラ左"
   },
   "11": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_11": "clarity_nt_char_11"
   },
   "12": {
     "カメラ下": "カメラ下"
   },
   "13": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "カメラ上": "カメラ上"
   },
   "15": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "16": {
     "ソフトウェアキーボード": "ソフトウェアキーボード"
@@ -69,10 +69,10 @@
     "もどる": "もどる"
   },
   "24": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_25": "clarity_nt_char_25"
   },
   "26": {
     "家具回転・時計回り": "家具回転・時計回り"
@@ -84,7 +84,7 @@
     "家具回転・反時計回り": "家具回転・反時計回り"
   },
   "29": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "30": {
     "コミュニケーション": "コミュニケーション"
@@ -93,25 +93,25 @@
     "カーソル上(ヌンチャク）": "カーソル上(ヌンチャク）"
   },
   "32": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_32": "clarity_nt_char_32"
   },
   "33": {
     "カーソル右(ヌンチャク）": "カーソル右(ヌンチャク）"
   },
   "34": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_34": "clarity_nt_char_34"
   },
   "35": {
     "カーソル左(ヌンチャク）": "カーソル左(ヌンチャク）"
   },
   "36": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_36": "clarity_nt_char_36"
   },
   "37": {
     "カーソル下（ヌンチャク）": "カーソル下（ヌンチャク）"
   },
   "38": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_38": "clarity_nt_char_38"
   },
   "39": {
     "カメラを後ろに": "カメラを後ろに"
@@ -126,7 +126,7 @@
     "ジャンプ": "ジャンプ"
   },
   "43": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
     "ソート": "ソート"
@@ -138,7 +138,7 @@
     "モデル・時計回り": "モデル・時計回り"
   },
   "47": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_47": "clarity_nt_char_47"
   },
   "48": {
     "カメラ・モデル・反時計回り": "カメラ・モデル・反時計回り"
@@ -150,7 +150,7 @@
     "カメラ・モデル・時計回り": "カメラ・モデル・時計回り"
   },
   "51": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
     "メニュー＆決定(特殊)": "メニュー＆決定(特殊)"
@@ -162,13 +162,13 @@
     "保存しないで終了": "保存しないで終了"
   },
   "55": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_55": "clarity_nt_char_55"
   },
   "56": {
     "保存して終了": "保存して終了"
   },
   "57": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_57": "clarity_nt_char_57"
   },
   "58": {
     "ファインダーモード": "ファインダーモード"
@@ -177,7 +177,7 @@
     "シャッターボタン": "シャッターボタン"
   },
   "60": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
     "しぐさ": "しぐさ"
@@ -186,7 +186,7 @@
     "ジャンプ(特殊)": "ジャンプ(特殊)"
   },
   "63": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_63": "clarity_nt_char_63"
   },
   "64": {
     "キャラ表示on/off": "キャラ表示on/off"
@@ -204,7 +204,7 @@
     "ズームアウト": "ズームアウト"
   },
   "69": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
     "スライド下": "スライド下"

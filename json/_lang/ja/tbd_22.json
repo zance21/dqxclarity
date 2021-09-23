@@ -6,7 +6,7 @@
     "ａボタン": "ａボタン"
   },
   "3": {
-    "clarity_nt_char_1": "clarity_nt_char_1"
+    "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "4": {
     "Ｌボタン、Ｒボタン": "Ｌボタン、Ｒボタン"
@@ -15,7 +15,7 @@
     "ｘボタン": "ｘボタン"
   },
   "6": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
+    "clarity_nt_char_6": "clarity_nt_char_6"
   },
   "7": {
     "マイナスセレクトボタン": "マイナスセレクトボタン"
@@ -24,7 +24,7 @@
     "ｙボタン": "ｙボタン"
   },
   "9": {
-    "clarity_nt_char_3": "clarity_nt_char_3"
+    "clarity_nt_char_9": "clarity_nt_char_9"
   },
   "10": {
     "ＺＲボタン": "ＺＲボタン"
@@ -36,19 +36,19 @@
     "プラススタートボタン": "プラススタートボタン"
   },
   "13": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_13": "clarity_nt_char_13"
   },
   "14": {
     "Ｌスティック": "Ｌスティック"
   },
   "15": {
-    "clarity_nt_char_5": "clarity_nt_char_5"
+    "clarity_nt_char_15": "clarity_nt_char_15"
   },
   "16": {
     "ｂボタン": "ｂボタン"
   },
   "17": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
+    "clarity_nt_char_17": "clarity_nt_char_17"
   },
   "18": {
     "ＺＬボタン": "ＺＬボタン"
@@ -57,7 +57,7 @@
     "２ボタン": "２ボタン"
   },
   "20": {
-    "clarity_nt_char_7": "clarity_nt_char_7"
+    "clarity_nt_char_20": "clarity_nt_char_20"
   },
   "21": {
     "マイナスボタン": "マイナスボタン"
@@ -69,13 +69,13 @@
     "Ｃボタン": "Ｃボタン"
   },
   "24": {
-    "clarity_nt_char_8": "clarity_nt_char_8"
+    "clarity_nt_char_24": "clarity_nt_char_24"
   },
   "25": {
     "１ボタン": "１ボタン"
   },
   "26": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
+    "clarity_nt_char_26": "clarity_nt_char_26"
   },
   "27": {
     "ヌンチャク振り": "ヌンチャク振り"
@@ -84,31 +84,31 @@
     "プラスボタン": "プラスボタン"
   },
   "29": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_29": "clarity_nt_char_29"
   },
   "30": {
     "Ｂボタン": "Ｂボタン"
   },
   "31": {
-    "clarity_nt_char_11": "clarity_nt_char_11"
+    "clarity_nt_char_31": "clarity_nt_char_31"
   },
   "32": {
     "Ａボタン": "Ａボタン"
   },
   "33": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_33": "clarity_nt_char_33"
   },
   "34": {
     "Ｚボタン": "Ｚボタン"
   },
   "35": {
-    "clarity_nt_char_13": "clarity_nt_char_13"
+    "clarity_nt_char_35": "clarity_nt_char_35"
   },
   "36": {
     "Ｒスティック": "Ｒスティック"
   },
   "37": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
+    "clarity_nt_char_37": "clarity_nt_char_37"
   },
   "38": {
     "Ｌボタン＋Ｒボタン同時押し": "Ｌボタン＋Ｒボタン同時押し"
@@ -120,13 +120,13 @@
     "Ｒボタン": "Ｒボタン"
   },
   "41": {
-    "clarity_nt_char_15": "clarity_nt_char_15"
+    "clarity_nt_char_41": "clarity_nt_char_41"
   },
   "42": {
     "ＺＲボタン長押し": "ＺＲボタン長押し"
   },
   "43": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
+    "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
     "２ボタン長押し": "２ボタン長押し"
@@ -135,13 +135,13 @@
     "Ｘボタン": "Ｘボタン"
   },
   "46": {
-    "clarity_nt_char_17": "clarity_nt_char_17"
+    "clarity_nt_char_46": "clarity_nt_char_46"
   },
   "47": {
     "Ｙボタン": "Ｙボタン"
   },
   "48": {
-    "clarity_nt_char_18": "clarity_nt_char_18"
+    "clarity_nt_char_48": "clarity_nt_char_48"
   },
   "49": {
     "いいえ": "いいえ"
@@ -150,7 +150,7 @@
     "はい": "はい"
   },
   "51": {
-    "clarity_nt_char_19": "clarity_nt_char_19"
+    "clarity_nt_char_51": "clarity_nt_char_51"
   },
   "52": {
     "[V]": "[V]"
@@ -159,13 +159,13 @@
     "Yボタン": "Yボタン"
   },
   "54": {
-    "clarity_nt_char_20": "clarity_nt_char_20"
+    "clarity_nt_char_54": "clarity_nt_char_54"
   },
   "55": {
     "Xボタン": "Xボタン"
   },
   "56": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_56": "clarity_nt_char_56"
   },
   "57": {
     "START": "START"
@@ -174,13 +174,13 @@
     "RT": "RT"
   },
   "59": {
-    "clarity_nt_char_22": "clarity_nt_char_22"
+    "clarity_nt_char_59": "clarity_nt_char_59"
   },
   "60": {
     "Rstick": "Rstick"
   },
   "61": {
-    "clarity_nt_char_23": "clarity_nt_char_23"
+    "clarity_nt_char_61": "clarity_nt_char_61"
   },
   "62": {
     "RBボタン": "RBボタン"
@@ -189,13 +189,13 @@
     "LT": "LT"
   },
   "64": {
-    "clarity_nt_char_24": "clarity_nt_char_24"
+    "clarity_nt_char_64": "clarity_nt_char_64"
   },
   "65": {
     "Lstick": "Lstick"
   },
   "66": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_66": "clarity_nt_char_66"
   },
   "67": {
     "LBボタン": "LBボタン"
@@ -204,73 +204,73 @@
     "方向キー": "方向キー"
   },
   "69": {
-    "clarity_nt_char_26": "clarity_nt_char_26"
+    "clarity_nt_char_69": "clarity_nt_char_69"
   },
   "70": {
     "BACK": "BACK"
   },
   "71": {
-    "clarity_nt_char_27": "clarity_nt_char_27"
+    "clarity_nt_char_71": "clarity_nt_char_71"
   },
   "72": {
     "Bボタン": "Bボタン"
   },
   "73": {
-    "clarity_nt_char_28": "clarity_nt_char_28"
+    "clarity_nt_char_73": "clarity_nt_char_73"
   },
   "74": {
     "Aボタン": "Aボタン"
   },
   "75": {
-    "clarity_nt_char_29": "clarity_nt_char_29"
+    "clarity_nt_char_75": "clarity_nt_char_75"
   },
   "76": {
     "9ボタン": "9ボタン"
   },
   "77": {
-    "clarity_nt_char_30": "clarity_nt_char_30"
+    "clarity_nt_char_77": "clarity_nt_char_77"
   },
   "78": {
     "8ボタン": "8ボタン"
   },
   "79": {
-    "clarity_nt_char_31": "clarity_nt_char_31"
+    "clarity_nt_char_79": "clarity_nt_char_79"
   },
   "80": {
     "7ボタン": "7ボタン"
   },
   "81": {
-    "clarity_nt_char_32": "clarity_nt_char_32"
+    "clarity_nt_char_81": "clarity_nt_char_81"
   },
   "82": {
     "6ボタン": "6ボタン"
   },
   "83": {
-    "clarity_nt_char_33": "clarity_nt_char_33"
+    "clarity_nt_char_83": "clarity_nt_char_83"
   },
   "84": {
     "5ボタン": "5ボタン"
   },
   "85": {
-    "clarity_nt_char_34": "clarity_nt_char_34"
+    "clarity_nt_char_85": "clarity_nt_char_85"
   },
   "86": {
     "4ボタン": "4ボタン"
   },
   "87": {
-    "clarity_nt_char_35": "clarity_nt_char_35"
+    "clarity_nt_char_87": "clarity_nt_char_87"
   },
   "88": {
     "3ボタン": "3ボタン"
   },
   "89": {
-    "clarity_nt_char_36": "clarity_nt_char_36"
+    "clarity_nt_char_89": "clarity_nt_char_89"
   },
   "90": {
     "2ボタン": "2ボタン"
   },
   "91": {
-    "clarity_nt_char_37": "clarity_nt_char_37"
+    "clarity_nt_char_91": "clarity_nt_char_91"
   },
   "92": {
     "16ボタン": "16ボタン"
@@ -297,7 +297,7 @@
     "1ボタン": "1ボタン"
   },
   "100": {
-    "clarity_nt_char_38": "clarity_nt_char_38"
+    "clarity_nt_char_100": "clarity_nt_char_100"
   },
   "101": {
     "[Z]": "[Z]"
@@ -360,49 +360,49 @@
     "[F9]": "[F9]"
   },
   "121": {
-    "clarity_nt_char_39": "clarity_nt_char_39"
+    "clarity_nt_char_121": "clarity_nt_char_121"
   },
   "122": {
     "[F8]": "[F8]"
   },
   "123": {
-    "clarity_nt_char_40": "clarity_nt_char_40"
+    "clarity_nt_char_123": "clarity_nt_char_123"
   },
   "124": {
     "[F7]": "[F7]"
   },
   "125": {
-    "clarity_nt_char_41": "clarity_nt_char_41"
+    "clarity_nt_char_125": "clarity_nt_char_125"
   },
   "126": {
     "[F6]": "[F6]"
   },
   "127": {
-    "clarity_nt_char_42": "clarity_nt_char_42"
+    "clarity_nt_char_127": "clarity_nt_char_127"
   },
   "128": {
     "[F5]": "[F5]"
   },
   "129": {
-    "clarity_nt_char_43": "clarity_nt_char_43"
+    "clarity_nt_char_129": "clarity_nt_char_129"
   },
   "130": {
     "[F4]": "[F4]"
   },
   "131": {
-    "clarity_nt_char_44": "clarity_nt_char_44"
+    "clarity_nt_char_131": "clarity_nt_char_131"
   },
   "132": {
     "[F3]": "[F3]"
   },
   "133": {
-    "clarity_nt_char_45": "clarity_nt_char_45"
+    "clarity_nt_char_133": "clarity_nt_char_133"
   },
   "134": {
     "[F2]": "[F2]"
   },
   "135": {
-    "clarity_nt_char_46": "clarity_nt_char_46"
+    "clarity_nt_char_135": "clarity_nt_char_135"
   },
   "136": {
     "[F12]": "[F12]"
@@ -417,7 +417,7 @@
     "[F1]": "[F1]"
   },
   "140": {
-    "clarity_nt_char_47": "clarity_nt_char_47"
+    "clarity_nt_char_140": "clarity_nt_char_140"
   },
   "141": {
     "[F]": "[F]"
@@ -495,13 +495,13 @@
     "[PgUp]": "[PgUp]"
   },
   "166": {
-    "clarity_nt_char_48": "clarity_nt_char_48"
+    "clarity_nt_char_166": "clarity_nt_char_166"
   },
   "167": {
     "[PgDn]": "[PgDn]"
   },
   "168": {
-    "clarity_nt_char_49": "clarity_nt_char_49"
+    "clarity_nt_char_168": "clarity_nt_char_168"
   },
   "169": {
     "[Pause]": "[Pause]"
@@ -513,25 +513,25 @@
     "[Num↑]": "[Num↑]"
   },
   "172": {
-    "clarity_nt_char_50": "clarity_nt_char_50"
+    "clarity_nt_char_172": "clarity_nt_char_172"
   },
   "173": {
     "[Num/]": "[Num/]"
   },
   "174": {
-    "clarity_nt_char_51": "clarity_nt_char_51"
+    "clarity_nt_char_174": "clarity_nt_char_174"
   },
   "175": {
     "[Num→]": "[Num→]"
   },
   "176": {
-    "clarity_nt_char_52": "clarity_nt_char_52"
+    "clarity_nt_char_176": "clarity_nt_char_176"
   },
   "177": {
     "[Num+]": "[Num+]"
   },
   "178": {
-    "clarity_nt_char_53": "clarity_nt_char_53"
+    "clarity_nt_char_178": "clarity_nt_char_178"
   },
   "179": {
     "[NumPgUp]": "[NumPgUp]"
@@ -543,19 +543,19 @@
     "[Num-]": "[Num-]"
   },
   "182": {
-    "clarity_nt_char_54": "clarity_nt_char_54"
+    "clarity_nt_char_182": "clarity_nt_char_182"
   },
   "183": {
     "[Num←]": "[Num←]"
   },
   "184": {
-    "clarity_nt_char_55": "clarity_nt_char_55"
+    "clarity_nt_char_184": "clarity_nt_char_184"
   },
   "185": {
     "[NumIns]": "[NumIns]"
   },
   "186": {
-    "clarity_nt_char_56": "clarity_nt_char_56"
+    "clarity_nt_char_186": "clarity_nt_char_186"
   },
   "187": {
     "[NumHome]": "[NumHome]"
@@ -564,19 +564,19 @@
     "[Num↓]": "[Num↓]"
   },
   "189": {
-    "clarity_nt_char_57": "clarity_nt_char_57"
+    "clarity_nt_char_189": "clarity_nt_char_189"
   },
   "190": {
     "[Num.]": "[Num.]"
   },
   "191": {
-    "clarity_nt_char_58": "clarity_nt_char_58"
+    "clarity_nt_char_191": "clarity_nt_char_191"
   },
   "192": {
     "[Num*]": "[Num*]"
   },
   "193": {
-    "clarity_nt_char_59": "clarity_nt_char_59"
+    "clarity_nt_char_193": "clarity_nt_char_193"
   },
   "194": {
     "[Ins]": "[Ins]"
@@ -585,7 +585,7 @@
     "[Home]": "[Home]"
   },
   "196": {
-    "clarity_nt_char_60": "clarity_nt_char_60"
+    "clarity_nt_char_196": "clarity_nt_char_196"
   },
   "197": {
     "[Esc]": "[Esc]"
@@ -603,7 +603,7 @@
     "[Ctrl]": "[Ctrl]"
   },
   "202": {
-    "clarity_nt_char_61": "clarity_nt_char_61"
+    "clarity_nt_char_202": "clarity_nt_char_202"
   },
   "203": {
     "[Alt]": "[Alt]"
@@ -615,79 +615,79 @@
     "ＺＬボタン長押し": "ＺＬボタン長押し"
   },
   "206": {
-    "clarity_nt_char_62": "clarity_nt_char_62"
+    "clarity_nt_char_206": "clarity_nt_char_206"
   },
   "207": {
     "[NumDel]": "[NumDel]"
   },
   "208": {
-    "clarity_nt_char_63": "clarity_nt_char_63"
+    "clarity_nt_char_208": "clarity_nt_char_208"
   },
   "209": {
     "[NumEnd]": "[NumEnd]"
   },
   "210": {
-    "clarity_nt_char_64": "clarity_nt_char_64"
+    "clarity_nt_char_210": "clarity_nt_char_210"
   },
   "211": {
     "[Num0]": "[Num0]"
   },
   "212": {
-    "clarity_nt_char_65": "clarity_nt_char_65"
+    "clarity_nt_char_212": "clarity_nt_char_212"
   },
   "213": {
     "[Num1]": "[Num1]"
   },
   "214": {
-    "clarity_nt_char_66": "clarity_nt_char_66"
+    "clarity_nt_char_214": "clarity_nt_char_214"
   },
   "215": {
     "[Num2]": "[Num2]"
   },
   "216": {
-    "clarity_nt_char_67": "clarity_nt_char_67"
+    "clarity_nt_char_216": "clarity_nt_char_216"
   },
   "217": {
     "[Num3]": "[Num3]"
   },
   "218": {
-    "clarity_nt_char_68": "clarity_nt_char_68"
+    "clarity_nt_char_218": "clarity_nt_char_218"
   },
   "219": {
     "[Num4]": "[Num4]"
   },
   "220": {
-    "clarity_nt_char_69": "clarity_nt_char_69"
+    "clarity_nt_char_220": "clarity_nt_char_220"
   },
   "221": {
     "[Num5]": "[Num5]"
   },
   "222": {
-    "clarity_nt_char_70": "clarity_nt_char_70"
+    "clarity_nt_char_222": "clarity_nt_char_222"
   },
   "223": {
     "[Num6]": "[Num6]"
   },
   "224": {
-    "clarity_nt_char_71": "clarity_nt_char_71"
+    "clarity_nt_char_224": "clarity_nt_char_224"
   },
   "225": {
     "[Num7]": "[Num7]"
   },
   "226": {
-    "clarity_nt_char_72": "clarity_nt_char_72"
+    "clarity_nt_char_226": "clarity_nt_char_226"
   },
   "227": {
     "[Num8]": "[Num8]"
   },
   "228": {
-    "clarity_nt_char_73": "clarity_nt_char_73"
+    "clarity_nt_char_228": "clarity_nt_char_228"
   },
   "229": {
     "[Num9]": "[Num9]"
   },
   "230": {
-    "clarity_nt_char_74": "clarity_nt_char_74"
+    "clarity_nt_char_230": "clarity_nt_char_230"
   },
   "231": {
     "長押し": "長押し"
@@ -699,13 +699,13 @@
     "十字ボタンの上下": "十字ボタンの上下"
   },
   "234": {
-    "clarity_nt_char_75": "clarity_nt_char_75"
+    "clarity_nt_char_234": "clarity_nt_char_234"
   },
   "235": {
     "[BS]": "[BS]"
   },
   "236": {
-    "clarity_nt_char_76": "clarity_nt_char_76"
+    "clarity_nt_char_236": "clarity_nt_char_236"
   },
   "237": {
     "眠れる勇者と導きの盟友": "眠れる勇者と導きの盟友"
@@ -717,19 +717,19 @@
     "Num3キー": "Num3キー"
   },
   "240": {
-    "clarity_nt_char_77": "clarity_nt_char_77"
+    "clarity_nt_char_240": "clarity_nt_char_240"
   },
   "241": {
     "Num1キー": "Num1キー"
   },
   "242": {
-    "clarity_nt_char_78": "clarity_nt_char_78"
+    "clarity_nt_char_242": "clarity_nt_char_242"
   },
   "243": {
     "Num.キー": "Num.キー"
   },
   "244": {
-    "clarity_nt_char_79": "clarity_nt_char_79"
+    "clarity_nt_char_244": "clarity_nt_char_244"
   },
   "245": {
     "ZRボタン": "ZRボタン"
@@ -741,19 +741,19 @@
     "SELECT": "SELECT"
   },
   "248": {
-    "clarity_nt_char_80": "clarity_nt_char_80"
+    "clarity_nt_char_248": "clarity_nt_char_248"
   },
   "249": {
     "Rボタン": "Rボタン"
   },
   "250": {
-    "clarity_nt_char_81": "clarity_nt_char_81"
+    "clarity_nt_char_250": "clarity_nt_char_250"
   },
   "251": {
     "Lボタン": "Lボタン"
   },
   "252": {
-    "clarity_nt_char_82": "clarity_nt_char_82"
+    "clarity_nt_char_252": "clarity_nt_char_252"
   },
   "253": {
     "スタートボタン": "スタートボタン"
@@ -765,25 +765,25 @@
     "Ｒスライドパッド": "Ｒスライドパッド"
   },
   "256": {
-    "clarity_nt_char_83": "clarity_nt_char_83"
+    "clarity_nt_char_256": "clarity_nt_char_256"
   },
   "257": {
     "Ｌスライドパッド": "Ｌスライドパッド"
   },
   "258": {
-    "clarity_nt_char_84": "clarity_nt_char_84"
+    "clarity_nt_char_258": "clarity_nt_char_258"
   },
   "259": {
     "Ｌボタン": "Ｌボタン"
   },
   "260": {
-    "clarity_nt_char_85": "clarity_nt_char_85"
+    "clarity_nt_char_260": "clarity_nt_char_260"
   },
   "261": {
     "---------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>": "---------------------------------- 現在のリアル時間 <%2nM_CW_hour>：<%02nM_CW_minute>"
   },
   "262": {
-    "clarity_nt_char_86": "clarity_nt_char_86"
+    "clarity_nt_char_262": "clarity_nt_char_262"
   },
   "263": {
     "<%sM_chat>…": "<%sM_chat>…"
@@ -795,13 +795,13 @@
     "Ｌスティックの上": "Ｌスティックの上"
   },
   "266": {
-    "clarity_nt_char_87": "clarity_nt_char_87"
+    "clarity_nt_char_266": "clarity_nt_char_266"
   },
   "267": {
     "Ｌスライドパッドの上": "Ｌスライドパッドの上"
   },
   "268": {
-    "clarity_nt_char_88": "clarity_nt_char_88"
+    "clarity_nt_char_268": "clarity_nt_char_268"
   },
   "269": {
     "コントロールスティックの上": "コントロールスティックの上"
@@ -810,7 +810,7 @@
     "Lstickの上": "Lstickの上"
   },
   "271": {
-    "clarity_nt_char_89": "clarity_nt_char_89"
+    "clarity_nt_char_271": "clarity_nt_char_271"
   },
   "272": {
     "Ｒ１ボタン": "Ｒ１ボタン"
@@ -819,7 +819,7 @@
     "○ボタン": "○ボタン"
   },
   "274": {
-    "clarity_nt_char_90": "clarity_nt_char_90"
+    "clarity_nt_char_274": "clarity_nt_char_274"
   },
   "275": {
     "Ｌ２ボタン": "Ｌ２ボタン"
@@ -828,7 +828,7 @@
     "△ボタン": "△ボタン"
   },
   "277": {
-    "clarity_nt_char_91": "clarity_nt_char_91"
+    "clarity_nt_char_277": "clarity_nt_char_277"
   },
   "278": {
     "タッチパッドボタン": "タッチパッドボタン"
@@ -837,7 +837,7 @@
     "Ｒ２ボタン長押し": "Ｒ２ボタン長押し"
   },
   "280": {
-    "clarity_nt_char_92": "clarity_nt_char_92"
+    "clarity_nt_char_280": "clarity_nt_char_280"
   },
   "281": {
     "Ｌ１ボタン、Ｒ１ボタン": "Ｌ１ボタン、Ｒ１ボタン"
@@ -846,13 +846,13 @@
     "Ｌ２ボタン長押し": "Ｌ２ボタン長押し"
   },
   "283": {
-    "clarity_nt_char_93": "clarity_nt_char_93"
+    "clarity_nt_char_283": "clarity_nt_char_283"
   },
   "284": {
     "□ボタン": "□ボタン"
   },
   "285": {
-    "clarity_nt_char_94": "clarity_nt_char_94"
+    "clarity_nt_char_285": "clarity_nt_char_285"
   },
   "286": {
     "Ｒ２ボタン": "Ｒ２ボタン"
@@ -861,19 +861,19 @@
     "ＯＰＴＩＯＮＳボタン": "ＯＰＴＩＯＮＳボタン"
   },
   "288": {
-    "clarity_nt_char_95": "clarity_nt_char_95"
+    "clarity_nt_char_288": "clarity_nt_char_288"
   },
   "289": {
     "左スティックの上": "左スティックの上"
   },
   "290": {
-    "clarity_nt_char_96": "clarity_nt_char_96"
+    "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "291": {
     "左スティック": "左スティック"
   },
   "292": {
-    "clarity_nt_char_97": "clarity_nt_char_97"
+    "clarity_nt_char_292": "clarity_nt_char_292"
   },
   "293": {
     "×ボタン": "×ボタン"
@@ -885,13 +885,13 @@
     "右スティック": "右スティック"
   },
   "296": {
-    "clarity_nt_char_98": "clarity_nt_char_98"
+    "clarity_nt_char_296": "clarity_nt_char_296"
   },
   "297": {
     "方向ボタンの上下": "方向ボタンの上下"
   },
   "298": {
-    "clarity_nt_char_99": "clarity_nt_char_99"
+    "clarity_nt_char_298": "clarity_nt_char_298"
   },
   "299": {
     "方向ボタン": "方向ボタン"
@@ -900,25 +900,25 @@
     "＋ボタン": "＋ボタン"
   },
   "301": {
-    "clarity_nt_char_100": "clarity_nt_char_100"
+    "clarity_nt_char_301": "clarity_nt_char_301"
   },
   "302": {
     "－ボタン": "－ボタン"
   },
   "303": {
-    "clarity_nt_char_101": "clarity_nt_char_101"
+    "clarity_nt_char_303": "clarity_nt_char_303"
   },
   "304": {
     "５０００年の旅路　遥かなる故郷へ": "５０００年の旅路　遥かなる故郷へ"
   },
   "305": {
-    "clarity_nt_char_102": "clarity_nt_char_102"
+    "clarity_nt_char_305": "clarity_nt_char_305"
   },
   "306": {
     "　ボタン": "　ボタン"
   },
   "307": {
-    "clarity_nt_char_103": "clarity_nt_char_103"
+    "clarity_nt_char_307": "clarity_nt_char_307"
   },
   "308": {
     "24ボタン": "24ボタン"
