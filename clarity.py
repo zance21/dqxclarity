@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 '''
 Functions used by main.py to perform various actions that manipulate memory.
 '''
@@ -17,7 +16,6 @@ import click
 import pymem
 import pandas as pd
 import requests
-from dialog import read_string
 
 INDEX_PATTERN = bytes.fromhex('49 4E 44 58 10 00 00 00')    # INDX block start
 TEXT_PATTERN = bytes.fromhex('54 45 58 54 10 00 00')        # TEXT block start
@@ -60,7 +58,7 @@ def address_scan(
         if found and multiple:
             index_pattern_list.append(found)
         elif found and not multiple:
-            return index_pattern_list.append(found)
+            return found
 
 def read_bytes(address, byte_count):
     '''Reads the given number of bytes starting at an address.'''
@@ -222,135 +220,144 @@ def translate():
 
     click.secho('Done. Continuing to scan for changes. Minimize this window and enjoy!', fg='green')
 
-def scan_for_ad_hoc_game_files(debug):
+def reverse_translate():
+    '''Translates the game back into Japanese.'''
+    instantiate('DQXGame.exe')
+
+    index_pattern_list = []
+    address_scan(HANDLE, INDEX_PATTERN, True, index_pattern_list = index_pattern_list)
+    data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
+
+    with alive_bar(len(__flatten(index_pattern_list)),
+                                title='Untranslating..',
+                                spinner='pulse',
+                                bar='bubbles',
+                                length=20) as increment_progress_bar:
+        for address in __flatten(index_pattern_list):
+            increment_progress_bar()
+            hex_result = __split_string_into_spaces(read_bytes(address, 64).hex().upper())
+            csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
+            if csv_result != []:
+                file = __parse_filename_from_csv_result(csv_result)
+
+                ja_hex_to_write = ''
+
+                data = __read_json_file(file, 'en')
+                for item in data:
+                    key = list(data[item].items())[0][0]
+                    if re.search('^clarity_nt_char', key):
+                        ja = '00'
+                    elif re.search('^clarity_ms_space', key):
+                        ja = '00e38080'
+                    else:
+                        ja = '00' + key.encode('utf-8').hex()
+
+                    ja = ja.replace('7c', '0a')
+                    ja = ja.replace('5c74', '09')
+                    ja_hex_to_write += ja
+
+                start_addr = jump_to_address(HANDLE, address, TEXT_PATTERN)
+                if start_addr:
+
+                    start_addr = start_addr + 14
+                    result = type(byte)
+                    while True:
+                        start_addr = start_addr + 1
+                        result = read_bytes(start_addr, 1)
+
+                        if result != b'\x00':
+                            start_addr = start_addr - 1
+                            break
+
+                    data = bytes.fromhex(ja_hex_to_write)
+                    pymem.memory.write_bytes(
+                        HANDLE, start_addr, data, len(data))
+
+def scan_for_ad_hoc_game_files():
     '''
     Continuously scans the DQXGame process for known addresses
     that are only loaded 'on demand'. Will pass the found
     address to translate().
     '''
     instantiate('DQXGame.exe')
-    print('Starting adhoc scanning.')
-    
-    while True:
-        index_pattern_list = []
-        address_scan(HANDLE, INDEX_PATTERN, True, index_pattern_list = index_pattern_list)
-        data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
 
-        for address in __flatten(index_pattern_list):  # pylint: disable=too-many-nested-blocks
-            hex_result = __split_string_into_spaces(read_bytes(address, 64).hex().upper())
-            csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
-            if csv_result != []:
-                file = __parse_filename_from_csv_result(csv_result)
-                if 'adhoc' in file:
-                    hex_to_write = bytes.fromhex(generate_hex(file))
-                    start_addr = jump_to_address(HANDLE, address, TEXT_PATTERN)
-                    if start_addr:
-                        start_addr = start_addr + 14
-                        result = type(byte)
-                        while True:
-                            start_addr = start_addr + 1
-                            result = read_bytes(start_addr, 1)
-                            if result != b'\x00':
-                                start_addr = start_addr - 1
-                                break
+    index_pattern_list = []
+    address_scan(HANDLE, INDEX_PATTERN, True, index_pattern_list = index_pattern_list)
+    data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
 
-                        pymem.memory.write_bytes(HANDLE, start_addr, hex_to_write, len(hex_to_write))
-                        if debug:
-                            print(f'Found adhoc file {file}')
+    for address in __flatten(index_pattern_list):  # pylint: disable=too-many-nested-blocks
+        hex_result = __split_string_into_spaces(read_bytes(address, 64).hex().upper())
+        csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
+        if csv_result != []:
+            file = __parse_filename_from_csv_result(csv_result)
+            if 'adhoc' in file:
+                hex_to_write = bytes.fromhex(generate_hex(file))
+                start_addr = jump_to_address(HANDLE, address, TEXT_PATTERN)
+                if start_addr:
+                    start_addr = start_addr + 14
+                    result = type(byte)
+                    while True:
+                        start_addr = start_addr + 1
+                        result = read_bytes(start_addr, 1)
+                        if result != b'\x00':
+                            start_addr = start_addr - 1
+                            break
 
-def scan_for_npc_names(debug):
+                    pymem.memory.write_bytes(HANDLE, start_addr, hex_to_write, len(hex_to_write))
+
+def scan_for_names(byte_pattern):
     '''
     Continuously scans the DQXGame process for known addresses
     that are related to a specific pattern to translate names.
     '''
     instantiate('DQXGame.exe')
-    
-    npc_data = __read_json_file('npc_names', 'en')
-    monster_data = __read_json_file('monsters', 'en')
-    
-    print('Starting name scanning.')
-    
-    while True:
-        byte_pattern = rb'[\x5C\x2C][\xBA\xCC]......\x68\xCC..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
-        index_pattern_list = []
-        address_scan(HANDLE, byte_pattern, True, index_pattern_list = index_pattern_list)
+    index_pattern_list = []
+    address_scan(HANDLE, byte_pattern, True, index_pattern_list = index_pattern_list)
 
-        if index_pattern_list == []:
+    for address in __flatten(index_pattern_list):
+        if byte_pattern.startswith(b'\x5C\xBA') and read_bytes(address - 1, 2).startswith(b'\x5C\xBA'):
+            data = __read_json_file('monsters', 'en')
+            name_addr = address + 11
+            end_addr = address + 11
+        elif byte_pattern.startswith(b'\x2C\xCC') and read_bytes(address, 2).startswith(b'\x2C\xCC'):
+            data = __read_json_file('npc_names', 'en')
+            name_addr = address + 12
+            end_addr = address + 12
+        else:
             continue
 
-        for address in __flatten(index_pattern_list):
-            if read_bytes(address, 2) == b'\x5C\xBA':
-                data = monster_data
-                name_addr = address + 12  # jump to name
-                end_addr = address + 12
-            elif read_bytes(address, 2) == b'\x2C\xCC':
-                data = npc_data
-                name_addr = address + 12  # jump to name
-                end_addr = address + 12
-            else:
-                continue
+        byte_codes = [
+            b'\xE3',
+            b'\xE4',
+            b'\xE5',
+            b'\xE6',
+            b'\xE7',
+            b'\xE8',
+            b'\xE9'
+        ]
 
-            name_hex = bytearray()
-            result = ''
-            while result != b'\x00':
-                result = read_bytes(end_addr, 1)
-                end_addr = end_addr + 1
-                if result == b'\x00':
-                    end_addr = end_addr - 1   # Remove the last 00
-                    bytes_to_write = end_addr - name_addr
-
-                name_hex += result
-
-            name_hex = name_hex.rstrip(b'\x00')
-            try:
-                name = name_hex.decode('utf-8')
-            except UnicodeDecodeError:
-                continue
-            for item in data:
-                key, value = list(data[item].items())[0]
-                if re.search(f'^{name}+$', key):
-                    if value:
-                        pymem.memory.write_bytes(HANDLE, name_addr, str.encode(value), bytes_to_write)
-                        if debug:
-                            print(f'{value} found.')
-
-def scan_for_player_names(debug):
-    '''
-    Continuously scans the DQXGame process for known addresses
-    that are related to a specific pattern to translate player names.
-    '''
-    instantiate('DQXGame.exe')
-
-    with open(f'json/player_names.json', 'r', encoding='utf-8') as json_data:
-        player_names = json.loads(json_data.read())
-
-    byte_pattern = rb'\x00\x00\x00\x00\x00[\x90\xBC]..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-    print('Starting player name scanning..')
-
-    while True:
-        player_pattern_list = []
-        address_scan(HANDLE, byte_pattern, True, index_pattern_list = player_pattern_list)
-        if player_pattern_list == []:
+        if read_bytes(name_addr, 1) not in byte_codes:
             continue
 
-        for address in __flatten(player_pattern_list): #17 
-            player_name_address = address + 17
-            try:
-                ja_player_name = read_string(player_name_address)
-            except UnicodeDecodeError:
-                continue
+        name_hex = bytearray()
+        while True:
+            result = read_bytes(end_addr, 1)
+            end_addr = end_addr + 1
+            if result == b'\x00':
+                end_addr = end_addr - 1   # Remove the last 00
+                bytes_to_write = end_addr - name_addr
+                break
 
-            for item in player_names:
-                key, value = list(player_names[item].items())[0]
-                if re.search(f'^{ja_player_name}+$', key):
-                    if value:
-                        # add bullet to beginning of name so it doesn't turn red, which would
-                        # indicate a GM name. Shows up in game as a space.
-                        player_bytes = b'\x04' + value.encode('utf-8') + b'\x00'
-                        pymem.memory.write_bytes(HANDLE, player_name_address, player_bytes, len(player_bytes))
-                        if debug:
-                            print(f'Replaced {key} with {value}')
+            name_hex += result
+
+        name = name_hex.decode('utf-8')
+        for item in data:
+            key, value = list(data[item].items())[0]
+            if re.search(f'^{name}+$', key):
+                if value:
+                    pymem.memory.write_bytes(HANDLE, name_addr, str.encode(value), bytes_to_write)
+                    print(f'{value} found.')
 
 def dump_all_game_files():  # pylint: disable=too-many-locals
     '''
@@ -375,7 +382,8 @@ def dump_all_game_files():  # pylint: disable=too-many-locals
     data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
 
     index_pattern_list = []
-    address_scan(HANDLE, INDEX_PATTERN, True, index_pattern_list = index_pattern_list)
+    address_scan(
+        HANDLE, INDEX_PATTERN, True, index_pattern_list = index_pattern_list)
 
     with alive_bar(len(__flatten(index_pattern_list)),
                                 title='Dumping..',
@@ -385,13 +393,14 @@ def dump_all_game_files():  # pylint: disable=too-many-locals
 
         for address in __flatten(index_pattern_list):
             bar()
-            
-            hex_result = __split_string_into_spaces(read_bytes(address, 64).hex().upper())
+
+            hex_result = __split_string_into_spaces(
+                            read_bytes(
+                                address, 64).hex().upper()
+                        )
             start_addr = jump_to_address(HANDLE, address, TEXT_PATTERN)
             if start_addr is not None:
-                end_addr = []
-                address_scan(HANDLE, END_PATTERN, False, index_pattern_list = end_addr, start_address = start_addr)
-                end_addr = end_addr[0]
+                end_addr = jump_to_address(HANDLE, start_addr, END_PATTERN)
                 if end_addr is not None:
                     bytes_to_read = end_addr - start_addr
 

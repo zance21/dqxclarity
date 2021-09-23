@@ -9,7 +9,7 @@
     "解答時間残り<%dW_T_SECOND>": "Answer Time <%dW_T_SECOND>"
   },
   "4": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
+    "clarity_nt_char_1": "clarity_nt_char_1"
   },
   "5": {
     "解答時間残り<%dW_T_SECOND>秒": "Answer Time <%dW_T_SECOND> sec."
@@ -27,13 +27,13 @@
     "制限時間残り<%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Time Left <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
   },
   "10": {
-    "clarity_nt_char_10": "clarity_nt_char_10"
+    "clarity_nt_char_2": "clarity_nt_char_2"
   },
   "11": {
     "願いのかけら <%dW_T_SECOND>こ": "Wish Fragments: <%dW_T_SECOND>"
   },
   "12": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
+    "clarity_nt_char_3": "clarity_nt_char_3"
   },
   "13": {
     "青い火が消えるまで残り<%dW_T_SECOND>": "Blue Fire Time Left <%dW_T_SECOND>"
@@ -60,7 +60,7 @@
     "グランプリ開始まで残り<%dW_T_MINUTE>分": "Grand Prix Starts In <%dW_T_MINUTE> min."
   },
   "21": {
-    "clarity_nt_char_21": "clarity_nt_char_21"
+    "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "22": {
     "練習開始まで残り<%dW_T_MINUTE>分": "Practice Starts In <%dW_T_MINUTE> min."
@@ -72,7 +72,7 @@
     "フィーバーまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Fever Until <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
   },
   "25": {
-    "clarity_nt_char_25": "clarity_nt_char_25"
+    "clarity_nt_char_5": "clarity_nt_char_5"
   },
   "26": {
     "タイムアップまで <%dW_T_M_MINUTE>分<%dW_T_M_SECOND>秒": "Time Up In <%dW_T_M_MINUTE> min. <%dW_T_M_SECOND> sec."
