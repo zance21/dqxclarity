@@ -1401,22 +1401,22 @@
         "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Spell/Skill Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "468": {
-        "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With Axe Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Axe Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "469": {
-        "オノ装備時　全ての攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "With Axe All Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "オノ装備時　全ての攻撃ダメージ +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "Axe All Attack Damage +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "470": {
         "clarity_nt_char_470": "clarity_nt_char_470"
     },
     "471": {
-        "ヤリ装備時　こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "With Spear M. Might +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
+        "ヤリ装備時　こうげき魔力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Spear M. Might +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
     },
     "472": {
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "474": {
         "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
@@ -2703,85 +2703,85 @@
         "両手杖装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Claymore Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "902": {
-        "ヤリ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "903": {
         "clarity_nt_char_903": "clarity_nt_char_903"
     },
     "904": {
-        "ヤリ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "905": {
         "clarity_nt_char_905": "clarity_nt_char_905"
     },
     "906": {
-        "ヤリ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "907": {
         "clarity_nt_char_907": "clarity_nt_char_907"
     },
     "908": {
-        "ヤリ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "909": {
         "clarity_nt_char_909": "clarity_nt_char_909"
     },
     "910": {
-        "ヤリ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "911": {
         "clarity_nt_char_911": "clarity_nt_char_911"
     },
     "912": {
-        "ヤリ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "913": {
         "clarity_nt_char_913": "clarity_nt_char_913"
     },
     "914": {
-        "ヤリ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Spear Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "ヤリ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "915": {
         "clarity_nt_char_915": "clarity_nt_char_915"
     },
     "916": {
-        "オノ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "917": {
         "clarity_nt_char_917": "clarity_nt_char_917"
     },
     "918": {
-        "オノ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "919": {
         "clarity_nt_char_919": "clarity_nt_char_919"
     },
     "920": {
-        "オノ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "921": {
         "clarity_nt_char_921": "clarity_nt_char_921"
     },
     "922": {
-        "オノ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "923": {
         "clarity_nt_char_923": "clarity_nt_char_923"
     },
     "924": {
-        "オノ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "925": {
         "clarity_nt_char_925": "clarity_nt_char_925"
     },
     "926": {
-        "オノ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "927": {
         "clarity_nt_char_927": "clarity_nt_char_927"
     },
     "928": {
-        "オノ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Axe Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "オノ装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Axe Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "929": {
         "clarity_nt_char_929": "clarity_nt_char_929"
@@ -6234,25 +6234,25 @@
         "clarity_nt_char_2078": "clarity_nt_char_2078"
     },
     "2079": {
-        "片手剣装備時　炎の攻撃ダメージ +？%": "With Sword Fire Attack Damage +?%"
+        "片手剣装備時　炎の攻撃ダメージ +？%": "Sword Fire Attack Damage +?%"
     },
     "2080": {
-        "片手剣装備時　氷の攻撃ダメージ +？%": "With Sword Ice Attack Damage +?%"
+        "片手剣装備時　氷の攻撃ダメージ +？%": "Sword Ice Attack Damage +?%"
     },
     "2081": {
-        "片手剣装備時　風の攻撃ダメージ +？%": "With Sword Wind Attack Damage +?%"
+        "片手剣装備時　風の攻撃ダメージ +？%": "Sword Wind Attack Damage +?%"
     },
     "2082": {
-        "片手剣装備時　雷の攻撃ダメージ +？%": "With Sword Thunder Attack Damage +?%"
+        "片手剣装備時　雷の攻撃ダメージ +？%": "Sword Thunder Attack Damage +?%"
     },
     "2083": {
-        "片手剣装備時　土の攻撃ダメージ +？%": "With Sword Earth Attack Damage +?%"
+        "片手剣装備時　土の攻撃ダメージ +？%": "Sword Earth Attack Damage +?%"
     },
     "2084": {
-        "片手剣装備時　闇の攻撃ダメージ +？%": "With Sword Dark Attack Damage +?%"
+        "片手剣装備時　闇の攻撃ダメージ +？%": "Sword Dark Attack Damage +?%"
     },
     "2085": {
-        "片手剣装備時　光の攻撃ダメージ +？%": "With Sword Light Attack Damage +?%"
+        "片手剣装備時　光の攻撃ダメージ +？%": "Sword Light Attack Damage +?%"
     },
     "2086": {
         "両手剣装備時　炎の攻撃ダメージ +？%": "Claymore Fire Attack Damage +?%"
@@ -6276,43 +6276,43 @@
         "両手剣装備時　光の攻撃ダメージ +？%": "Claymore Light Attack Damage +?%"
     },
     "2093": {
-        "短剣装備時　炎の攻撃ダメージ +？%": "With Dagger Fire Attack Damage +?%"
+        "短剣装備時　炎の攻撃ダメージ +？%": "Dagger Fire Attack Damage +?%"
     },
     "2094": {
         "clarity_nt_char_2094": "clarity_nt_char_2094"
     },
     "2095": {
-        "短剣装備時　氷の攻撃ダメージ +？%": "With Dagger Ice Attack Damage +?%"
+        "短剣装備時　氷の攻撃ダメージ +？%": "Dagger Ice Attack Damage +?%"
     },
     "2096": {
         "clarity_nt_char_2096": "clarity_nt_char_2096"
     },
     "2097": {
-        "短剣装備時　風の攻撃ダメージ +？%": "With Dagger Wind Attack Damage +?%"
+        "短剣装備時　風の攻撃ダメージ +？%": "Dagger Wind Attack Damage +?%"
     },
     "2098": {
         "clarity_nt_char_2098": "clarity_nt_char_2098"
     },
     "2099": {
-        "短剣装備時　雷の攻撃ダメージ +？%": "With Dagger Thunder Attack Damage +?%"
+        "短剣装備時　雷の攻撃ダメージ +？%": "Dagger Thunder Attack Damage +?%"
     },
     "2100": {
         "clarity_nt_char_2100": "clarity_nt_char_2100"
     },
     "2101": {
-        "短剣装備時　土の攻撃ダメージ +？%": "With Dagger Earth Attack Damage +?%"
+        "短剣装備時　土の攻撃ダメージ +？%": "Dagger Earth Attack Damage +?%"
     },
     "2102": {
         "clarity_nt_char_2102": "clarity_nt_char_2102"
     },
     "2103": {
-        "短剣装備時　闇の攻撃ダメージ +？%": "With Dagger Dark Attack Damage +?%"
+        "短剣装備時　闇の攻撃ダメージ +？%": "Dagger Dark Attack Damage +?%"
     },
     "2104": {
         "clarity_nt_char_2104": "clarity_nt_char_2104"
     },
     "2105": {
-        "短剣装備時　光の攻撃ダメージ +？%": "With Dagger Light Attack Damage +?%"
+        "短剣装備時　光の攻撃ダメージ +？%": "Dagger Light Attack Damage +?%"
     },
     "2106": {
         "clarity_nt_char_2106": "clarity_nt_char_2106"
@@ -6360,85 +6360,85 @@
         "両手杖装備時　光の攻撃ダメージ +？%": "With Staff Light Attack Damage +?%"
     },
     "2121": {
-        "ヤリ装備時　炎の攻撃ダメージ +？%": "With Spear Fire Attack Damage +?%"
+        "ヤリ装備時　炎の攻撃ダメージ +？%": "Spear Fire Attack Damage +?%"
     },
     "2122": {
         "clarity_nt_char_2122": "clarity_nt_char_2122"
     },
     "2123": {
-        "ヤリ装備時　氷の攻撃ダメージ +？%": "With Spear Ice Attack Damage +?%"
+        "ヤリ装備時　氷の攻撃ダメージ +？%": "Spear Ice Attack Damage +?%"
     },
     "2124": {
         "clarity_nt_char_2124": "clarity_nt_char_2124"
     },
     "2125": {
-        "ヤリ装備時　風の攻撃ダメージ +？%": "With Spear Wind Attack Damage +?%"
+        "ヤリ装備時　風の攻撃ダメージ +？%": "Spear Wind Attack Damage +?%"
     },
     "2126": {
         "clarity_nt_char_2126": "clarity_nt_char_2126"
     },
     "2127": {
-        "ヤリ装備時　雷の攻撃ダメージ +？%": "With Spear Thunder Attack Damage +?%"
+        "ヤリ装備時　雷の攻撃ダメージ +？%": "Spear Thunder Attack Damage +?%"
     },
     "2128": {
         "clarity_nt_char_2128": "clarity_nt_char_2128"
     },
     "2129": {
-        "ヤリ装備時　土の攻撃ダメージ +？%": "With Spear Earth Attack Damage +?%"
+        "ヤリ装備時　土の攻撃ダメージ +？%": "Spear Earth Attack Damage +?%"
     },
     "2130": {
         "clarity_nt_char_2130": "clarity_nt_char_2130"
     },
     "2131": {
-        "ヤリ装備時　闇の攻撃ダメージ +？%": "With Spear Dark Attack Damage +?%"
+        "ヤリ装備時　闇の攻撃ダメージ +？%": "Spear Dark Attack Damage +?%"
     },
     "2132": {
         "clarity_nt_char_2132": "clarity_nt_char_2132"
     },
     "2133": {
-        "ヤリ装備時　光の攻撃ダメージ +？%": "With Spear Light Attack Damage +?%"
+        "ヤリ装備時　光の攻撃ダメージ +？%": "Spear Light Attack Damage +?%"
     },
     "2134": {
         "clarity_nt_char_2134": "clarity_nt_char_2134"
     },
     "2135": {
-        "オノ装備時　炎の攻撃ダメージ +？%": "With Axe Fire Attack Damage +?%"
+        "オノ装備時　炎の攻撃ダメージ +？%": "Axe Fire Attack Damage +?%"
     },
     "2136": {
         "clarity_nt_char_2136": "clarity_nt_char_2136"
     },
     "2137": {
-        "オノ装備時　氷の攻撃ダメージ +？%": "With Axe Ice Attack Damage +?%"
+        "オノ装備時　氷の攻撃ダメージ +？%": "Axe Ice Attack Damage +?%"
     },
     "2138": {
         "clarity_nt_char_2138": "clarity_nt_char_2138"
     },
     "2139": {
-        "オノ装備時　風の攻撃ダメージ +？%": "With Axe Wind Attack Damage +?%"
+        "オノ装備時　風の攻撃ダメージ +？%": "Axe Wind Attack Damage +?%"
     },
     "2140": {
         "clarity_nt_char_2140": "clarity_nt_char_2140"
     },
     "2141": {
-        "オノ装備時　雷の攻撃ダメージ +？%": "With Axe Thunder Attack Damage +?%"
+        "オノ装備時　雷の攻撃ダメージ +？%": "Axe Thunder Attack Damage +?%"
     },
     "2142": {
         "clarity_nt_char_2142": "clarity_nt_char_2142"
     },
     "2143": {
-        "オノ装備時　土の攻撃ダメージ +？%": "With Axe Earth Attack Damage +?%"
+        "オノ装備時　土の攻撃ダメージ +？%": "Axe Earth Attack Damage +?%"
     },
     "2144": {
         "clarity_nt_char_2144": "clarity_nt_char_2144"
     },
     "2145": {
-        "オノ装備時　闇の攻撃ダメージ +？%": "With Axe Dark Attack Damage +?%"
+        "オノ装備時　闇の攻撃ダメージ +？%": "Axe Dark Attack Damage +?%"
     },
     "2146": {
         "clarity_nt_char_2146": "clarity_nt_char_2146"
     },
     "2147": {
-        "オノ装備時　光の攻撃ダメージ +？%": "With Axe Light Attack Damage +?%"
+        "オノ装備時　光の攻撃ダメージ +？%": "Axe Light Attack Damage +?%"
     },
     "2148": {
         "clarity_nt_char_2148": "clarity_nt_char_2148"
