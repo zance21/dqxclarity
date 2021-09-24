@@ -1395,10 +1395,10 @@
         "clarity_nt_char_465": "clarity_nt_char_465"
     },
     "466": {
-        "弓装備時　射程距離 +<%sB_renkin1>ｍ": "With Bow Range +<%sB_renkin1>m"
+        "弓装備時　射程距離 +<%sB_renkin1>ｍ": "Bow Range +<%sB_renkin1>m"
     },
     "467": {
-        "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Spell/Skill Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　呪文と特技の回復量 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Spell/Skill Recovery +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "468": {
         "オノ装備時　こうげき力 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>": "Axe Attack +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>"
@@ -2997,25 +2997,25 @@
         "clarity_nt_char_999": "clarity_nt_char_999"
     },
     "1000": {
-        "弓装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1001": {
-        "弓装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1002": {
-        "弓装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1003": {
-        "弓装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1004": {
-        "弓装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1005": {
-        "弓装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1006": {
-        "弓装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Bow Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "弓装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Bow Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "1007": {
         "勝利時に ＭＰ8～10回復": "Recover 8-10 MP After Battle"
@@ -6318,25 +6318,25 @@
         "clarity_nt_char_2106": "clarity_nt_char_2106"
     },
     "2107": {
-        "スティック装備時　炎の攻撃ダメージ +？%": "With Wand Fire Attack Damage +?%"
+        "スティック装備時　炎の攻撃ダメージ +？%": "Wand Fire Attack Damage +?%"
     },
     "2108": {
-        "スティック装備時　氷の攻撃ダメージ +？%": "With Wand Ice Attack Damage +?%"
+        "スティック装備時　氷の攻撃ダメージ +？%": "Wand Ice Attack Damage +?%"
     },
     "2109": {
-        "スティック装備時　風の攻撃ダメージ +？%": "With Wand Wind Attack Damage +?%"
+        "スティック装備時　風の攻撃ダメージ +？%": "Wand Wind Attack Damage +?%"
     },
     "2110": {
-        "スティック装備時　雷の攻撃ダメージ +？%": "With Wand Thunder Attack Damage +?%"
+        "スティック装備時　雷の攻撃ダメージ +？%": "Wand Thunder Attack Damage +?%"
     },
     "2111": {
-        "スティック装備時　土の攻撃ダメージ +？%": "With Wand Earth Attack Damage +?%"
+        "スティック装備時　土の攻撃ダメージ +？%": "Wand Earth Attack Damage +?%"
     },
     "2112": {
-        "スティック装備時　闇の攻撃ダメージ +？%": "With Wand Dark Attack Damage +?%"
+        "スティック装備時　闇の攻撃ダメージ +？%": "Wand Dark Attack Damage +?%"
     },
     "2113": {
-        "スティック装備時　光の攻撃ダメージ +？%": "With Wand Light Attack Damage +?%"
+        "スティック装備時　光の攻撃ダメージ +？%": "Wand Light Attack Damage +?%"
     },
     "2114": {
         "両手杖装備時　炎の攻撃ダメージ +？%": "With Staff Fire Attack Damage +?%"
@@ -6549,25 +6549,25 @@
         "clarity_nt_char_2183": "clarity_nt_char_2183"
     },
     "2184": {
-        "扇装備時　炎の攻撃ダメージ +？%": "With Fan Fire Attack Damage +?%"
+        "扇装備時　炎の攻撃ダメージ +？%": "Fan Fire Attack Damage +?%"
     },
     "2185": {
-        "扇装備時　氷の攻撃ダメージ +？%": "With Fan Ice Attack Damage +?%"
+        "扇装備時　氷の攻撃ダメージ +？%": "Fan Ice Attack Damage +?%"
     },
     "2186": {
-        "扇装備時　風の攻撃ダメージ +？%": "With Fan Wind Attack Damage +?%"
+        "扇装備時　風の攻撃ダメージ +？%": "Fan Wind Attack Damage +?%"
     },
     "2187": {
-        "扇装備時　雷の攻撃ダメージ +？%": "With Fan Thunder Attack Damage +?%"
+        "扇装備時　雷の攻撃ダメージ +？%": "Fan Thunder Attack Damage +?%"
     },
     "2188": {
-        "扇装備時　土の攻撃ダメージ +？%": "With Fan Earth Attack Damage +?%"
+        "扇装備時　土の攻撃ダメージ +？%": "Fan Earth Attack Damage +?%"
     },
     "2189": {
-        "扇装備時　闇の攻撃ダメージ +？%": "With Fan Dark Attack Damage +?%"
+        "扇装備時　闇の攻撃ダメージ +？%": "Fan Dark Attack Damage +?%"
     },
     "2190": {
-        "扇装備時　光の攻撃ダメージ +？%": "With Fan Light Attack Damage +?%"
+        "扇装備時　光の攻撃ダメージ +？%": "Fan Light Attack Damage +?%"
     },
     "2191": {
         "ムチ装備時　炎の攻撃ダメージ +？%": "Whip Fire Attack Damage +?%"
@@ -6612,46 +6612,46 @@
         "clarity_nt_char_2204": "clarity_nt_char_2204"
     },
     "2205": {
-        "ブーメラン装備時　炎の攻撃ダメージ +？%": "With Boomerang Fire Attack Damage +?%"
+        "ブーメラン装備時　炎の攻撃ダメージ +？%": "Boomerang Fire Attack Damage +?%"
     },
     "2206": {
-        "ブーメラン装備時　氷の攻撃ダメージ +？%": "With Boomerang Ice Attack Damage +?%"
+        "ブーメラン装備時　氷の攻撃ダメージ +？%": "Boomerang Ice Attack Damage +?%"
     },
     "2207": {
-        "ブーメラン装備時　風の攻撃ダメージ +？%": "With Boomerang Wind Attack Damage +?%"
+        "ブーメラン装備時　風の攻撃ダメージ +？%": "Boomerang Wind Attack Damage +?%"
     },
     "2208": {
-        "ブーメラン装備時　雷の攻撃ダメージ +？%": "With Boomerang Thunder Attack Damage +?%"
+        "ブーメラン装備時　雷の攻撃ダメージ +？%": "Boomerang Thunder Attack Damage +?%"
     },
     "2209": {
-        "ブーメラン装備時　土の攻撃ダメージ +？%": "With Boomerang Earth Attack Damage +?%"
+        "ブーメラン装備時　土の攻撃ダメージ +？%": "Boomerang Earth Attack Damage +?%"
     },
     "2210": {
-        "ブーメラン装備時　闇の攻撃ダメージ +？%": "With Boomerang Dark Attack Damage +?%"
+        "ブーメラン装備時　闇の攻撃ダメージ +？%": "Boomerang Dark Attack Damage +?%"
     },
     "2211": {
-        "ブーメラン装備時　光の攻撃ダメージ +？%": "With Boomerang Light Attack Damage +?%"
+        "ブーメラン装備時　光の攻撃ダメージ +？%": "Boomerang Light Attack Damage +?%"
     },
     "2212": {
-        "弓装備時　炎の攻撃ダメージ +？%": "With Bow Fire Attack Damage +?%"
+        "弓装備時　炎の攻撃ダメージ +？%": "Bow Fire Attack Damage +?%"
     },
     "2213": {
-        "弓装備時　氷の攻撃ダメージ +？%": "With Bow Ice Attack Damage +?%"
+        "弓装備時　氷の攻撃ダメージ +？%": "Bow Ice Attack Damage +?%"
     },
     "2214": {
-        "弓装備時　風の攻撃ダメージ +？%": "With Bow Wind Attack Damage +?%"
+        "弓装備時　風の攻撃ダメージ +？%": "Bow Wind Attack Damage +?%"
     },
     "2215": {
-        "弓装備時　雷の攻撃ダメージ +？%": "With Bow Thunder Attack Damage +?%"
+        "弓装備時　雷の攻撃ダメージ +？%": "Bow Thunder Attack Damage +?%"
     },
     "2216": {
-        "弓装備時　土の攻撃ダメージ +？%": "With Bow Earth Attack Damage +?%"
+        "弓装備時　土の攻撃ダメージ +？%": "Bow Earth Attack Damage +?%"
     },
     "2217": {
-        "弓装備時　闇の攻撃ダメージ +？%": "With Bow Dark Attack Damage +?%"
+        "弓装備時　闇の攻撃ダメージ +？%": "Bow Dark Attack Damage +?%"
     },
     "2218": {
-        "弓装備時　光の攻撃ダメージ +？%": "With Bow Light Attack Damage +?%"
+        "弓装備時　光の攻撃ダメージ +？%": "Bow Light Attack Damage +?%"
     },
     "2219": {
         "敵を倒すとＭＰを ？回復": "Recover ? MP On Enemy Defeat"
