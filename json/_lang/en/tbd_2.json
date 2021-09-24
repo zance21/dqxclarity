@@ -1317,7 +1317,7 @@
         "clarity_nt_char_439": "clarity_nt_char_439"
     },
     "440": {
-        "必殺チャージ率 +<%sB_renkin1>%（左手装備時無効）": "Special Charge Rate +<%sB_renkin1>% (R. Hand Only)"
+        "必殺チャージ率 +<%sB_renkin1>%（左手装備時無効）": "Special Charge Rate +<%sB_renkin1>% (R. H. Only)"
     },
     "441": {
         "clarity_nt_char_441": "clarity_nt_char_441"
@@ -1383,7 +1383,7 @@
         "clarity_nt_char_461": "clarity_nt_char_461"
     },
     "462": {
-        "右手に片手剣装備時　かいしん率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "R. Hand Sword Critical Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "右手に片手剣装備時　かいしん率 +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "R. H. Sword Critical Rate +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "463": {
         "clarity_nt_char_463": "clarity_nt_char_463"
@@ -2556,43 +2556,43 @@
         "clarity_nt_char_852": "clarity_nt_char_852"
     },
     "853": {
-        "右手に片手剣装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "854": {
         "clarity_nt_char_854": "clarity_nt_char_854"
     },
     "855": {
-        "右手に片手剣装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "856": {
         "clarity_nt_char_856": "clarity_nt_char_856"
     },
     "857": {
-        "右手に片手剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "858": {
         "clarity_nt_char_858": "clarity_nt_char_858"
     },
     "859": {
-        "右手に片手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "860": {
         "clarity_nt_char_860": "clarity_nt_char_860"
     },
     "861": {
-        "右手に片手剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "862": {
         "clarity_nt_char_862": "clarity_nt_char_862"
     },
     "863": {
-        "右手に片手剣装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "864": {
         "clarity_nt_char_864": "clarity_nt_char_864"
     },
     "865": {
-        "右手に片手剣装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Sword Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に片手剣装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Sword Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "866": {
         "clarity_nt_char_866": "clarity_nt_char_866"
@@ -2619,64 +2619,64 @@
         "両手剣装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Claymore Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "874": {
-        "右手に短剣装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "875": {
-        "右手に短剣装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "876": {
-        "右手に短剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "877": {
-        "右手に短剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "878": {
-        "右手に短剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "879": {
-        "右手に短剣装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "880": {
-        "右手に短剣装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Dagger Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に短剣装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Dagger Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "881": {
-        "右手にスティック時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "882": {
         "clarity_nt_char_882": "clarity_nt_char_882"
     },
     "883": {
-        "右手にスティック時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "884": {
         "clarity_nt_char_884": "clarity_nt_char_884"
     },
     "885": {
-        "右手にスティック時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "886": {
         "clarity_nt_char_886": "clarity_nt_char_886"
     },
     "887": {
-        "右手にスティック時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "888": {
         "clarity_nt_char_888": "clarity_nt_char_888"
     },
     "889": {
-        "右手にスティック時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "890": {
         "clarity_nt_char_890": "clarity_nt_char_890"
     },
     "891": {
-        "右手にスティック時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "892": {
         "clarity_nt_char_892": "clarity_nt_char_892"
     },
     "893": {
-        "右手にスティック時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Wand Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にスティック時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Wand Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "894": {
         "clarity_nt_char_894": "clarity_nt_char_894"
@@ -2787,25 +2787,25 @@
         "clarity_nt_char_929": "clarity_nt_char_929"
     },
     "930": {
-        "右手にハンマー時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "931": {
-        "右手にハンマー時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "932": {
-        "右手にハンマー時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "933": {
-        "右手にハンマー時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "934": {
-        "右手にハンマー時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "935": {
-        "右手にハンマー時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "936": {
-        "右手にハンマー時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Hammer Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にハンマー時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Hammer Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "937": {
         "棍装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "With Rod Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -2871,43 +2871,43 @@
         "clarity_nt_char_957": "clarity_nt_char_957"
     },
     "958": {
-        "右手に扇装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "959": {
         "clarity_nt_char_959": "clarity_nt_char_959"
     },
     "960": {
-        "右手に扇装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "961": {
         "clarity_nt_char_961": "clarity_nt_char_961"
     },
     "962": {
-        "右手に扇装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "963": {
         "clarity_nt_char_963": "clarity_nt_char_963"
     },
     "964": {
-        "右手に扇装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "965": {
         "clarity_nt_char_965": "clarity_nt_char_965"
     },
     "966": {
-        "右手に扇装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "967": {
         "clarity_nt_char_967": "clarity_nt_char_967"
     },
     "968": {
-        "右手に扇装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "969": {
         "clarity_nt_char_969": "clarity_nt_char_969"
     },
     "970": {
-        "右手に扇装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Fan Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手に扇装備時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Fan Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "971": {
         "clarity_nt_char_971": "clarity_nt_char_971"
@@ -2955,43 +2955,43 @@
         "clarity_nt_char_985": "clarity_nt_char_985"
     },
     "986": {
-        "右手にブーメラン時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　炎攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Fire Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "987": {
         "clarity_nt_char_987": "clarity_nt_char_987"
     },
     "988": {
-        "右手にブーメラン時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　氷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Ice Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "989": {
         "clarity_nt_char_989": "clarity_nt_char_989"
     },
     "990": {
-        "右手にブーメラン時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　風攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Wind Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "991": {
         "clarity_nt_char_991": "clarity_nt_char_991"
     },
     "992": {
-        "右手にブーメラン時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　雷攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Thunder Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "993": {
         "clarity_nt_char_993": "clarity_nt_char_993"
     },
     "994": {
-        "右手にブーメラン時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　土攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Earth Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "995": {
         "clarity_nt_char_995": "clarity_nt_char_995"
     },
     "996": {
-        "右手にブーメラン時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　闇攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Dark Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "997": {
         "clarity_nt_char_997": "clarity_nt_char_997"
     },
     "998": {
-        "右手にブーメラン時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. Hand Boomerang Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
+        "右手にブーメラン時　光攻撃ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "R. H. Boomerang Light Attack Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "999": {
         "clarity_nt_char_999": "clarity_nt_char_999"
