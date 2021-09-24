@@ -2175,7 +2175,7 @@
         "現在の環境では　冒険の書の|入れかえをすることができません。|<br>|冒険の書の　入れかえは|利用券が　有効なプラットフォームから|行うことができます。": "You can't replace the Adventure Log in the|current environment. |<br>|You can only replace the Adventure Log|from any platform where the ticket is valid."
     },
     "726": {
-        "未契約のプレイコースや|キャラクターが存在しない冒険の書は|選択することができません。": ""
+        "未契約のプレイコースや|キャラクターが存在しない冒険の書は|選択することができません。": "You cannot select an empty slot or a slot|outside of your current play course."
     },
     "727": {
         "冒険の書<%nNO1>と　冒険の書<%nNO2>を|いれかえました！": ""
