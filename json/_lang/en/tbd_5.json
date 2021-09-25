@@ -750,13 +750,13 @@
         "clarity_nt_char_250": "clarity_nt_char_250"
     },
     "251": {
-        "<speed=0><%sM_pc>の　ルームから　抜けますか？|<yesno 1><close>": ""
+        "<speed=0><%sM_pc>の　ルームから　抜けますか？|<yesno 1><close>": "<speed=0>Do you want to leave <%sM_pc>'s room?|<yesno 1><close>"
     },
     "252": {
         "clarity_nt_char_252": "clarity_nt_char_252"
     },
     "253": {
-        "<speed=0>すでに　そのルームから　抜けています。": ""
+        "<speed=0>すでに　そのルームから　抜けています。": "<speed=0>You've already left that room."
     },
     "254": {
         "clarity_nt_char_254": "clarity_nt_char_254"
