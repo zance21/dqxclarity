@@ -822,7 +822,7 @@
         "clarity_nt_char_274": "clarity_nt_char_274"
     },
     "275": {
-        "<speed=0>この内容で　封をします。よろしいですか？|<color_yellow>※一度　封をしても　『書いた手紙』から|　選ぶことで　書き直しができます。<color_white><yesno><break>": "<speed=0>The letter will be sealed. Is this okay?|<color_yellow>※You can still change it if you wish|under \"Written Letters\".<color_white><yesno><break>"
+        "<speed=0>この内容で　封をします。よろしいですか？|<color_yellow>※一度　封をしても　『書いた手紙』から|　選ぶことで　書き直しができます。<color_white><yesno><break>": "<speed=0>The letter will be sealed. Is this okay?|<color_yellow>※You can still change it if you wish|under \"Written Mail\".<color_white><yesno><break>"
     },
     "276": {
         "clarity_nt_char_276": "clarity_nt_char_276"
@@ -840,7 +840,7 @@
         "clarity_nt_char_280": "clarity_nt_char_280"
     },
     "281": {
-        "<speed=0><%sM_item>が　できました！|手紙は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|You can view it under \"Written Letters\"."
+        "<speed=0><%sM_item>が　できました！|手紙は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|You can view it under \"Written Mail\"."
     },
     "282": {
         "<speed=0>書くのを　やめました。": "<speed=0>Writing was cancelled."
@@ -1944,7 +1944,7 @@
         "<speed=0>もらった手紙を　持っていません。": ""
     },
     "649": {
-        "<speed=0>書いた手紙を　持っていません。": "<speed=0>You don't have any written letters."
+        "<speed=0>書いた手紙を　持っていません。": "<speed=0>You don't have any written mail."
     },
     "650": {
         "clarity_nt_char_650": "clarity_nt_char_650"
@@ -2595,7 +2595,7 @@
         "clarity_nt_char_865": "clarity_nt_char_865"
     },
     "866": {
-        "<speed=0><%sM_item>が　できました！|絵葉書は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|Postcards are viewable in \"Written Letters\"."
+        "<speed=0><%sM_item>が　できました！|絵葉書は　『書いた手紙』に入ります。": "<speed=0><%sM_item> is ready!|Postcards are viewable in \"Written Mail\"."
     },
     "867": {
         "clarity_nt_char_867": "clarity_nt_char_867"
