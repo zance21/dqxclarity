@@ -1443,7 +1443,7 @@
         "24時間以内で 期限が切れる お宝の写真があるようです": ""
     },
     "482": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝を見つけました！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが お宝を見つけました！": "\\s<%sC_PC>\\m<%sC_ID>\\e found the treasure!"
     },
     "483": {
         "clarity_nt_char_483": "clarity_nt_char_483"
