@@ -26937,7 +26937,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard!"
     },
     "8980": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Guardian's Star effect guarded a bad effect!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Guardian's Star effect stopped a bad effect!"
     },
     "8981": {
         "clarity_nt_char_8981": "clarity_nt_char_8981"
@@ -31119,7 +31119,7 @@
         "まもりのきりが|身代わりとなった！": ""
     },
     "10374": {
-        "キラキラポーンが|悪い効果をけした！": "Snap Crackle Poof|has a bad effect!"
+        "キラキラポーンが|悪い効果をけした！": "Snap Crackle Poof|stopped a bad effect!"
     },
     "10375": {
         "clarity_nt_char_10375": "clarity_nt_char_10375"
@@ -31224,7 +31224,7 @@
         "clarity_nt_char_10408": "clarity_nt_char_10408"
     },
     "10409": {
-        "弓聖の守り星が|悪い効果をけした！": ""
+        "弓聖の守り星が|悪い効果をけした！": "Guardian's Star|stopped a bad effect!"
     },
     "10410": {
         "ターン消費しなかった！": "Turn was not used!"
@@ -32109,7 +32109,7 @@
         "clarity_nt_char_10703": "clarity_nt_char_10703"
     },
     "10704": {
-        "弓聖の守り星が|きえた": ""
+        "弓聖の守り星が|きえた": "Guardian's Star|faded."
     },
     "10705": {
         "消費ＭＰ０の効果が|とけた": ""
