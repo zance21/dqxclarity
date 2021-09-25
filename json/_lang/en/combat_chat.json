@@ -24906,7 +24906,7 @@
         "clarity_nt_char_8302": "clarity_nt_char_8302"
     },
     "8303": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 キラキラポーンがかかるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 キラキラポーンがかかるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e had a battle start Snap Crackle Poof applied!"
     },
     "8304": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 ファイアフォースがかかるようになった！": ""
@@ -27273,7 +27273,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの まもりのきりが きえた。": ""
     },
     "9092": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの キラキラポーンが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの キラキラポーンが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Snap Crackle Poof faded."
     },
     "9093": {
         "clarity_nt_char_9093": "clarity_nt_char_9093"
@@ -27804,7 +27804,7 @@
         "clarity_nt_char_9268": "clarity_nt_char_9268"
     },
     "9269": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 キラキラポーンの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 キラキラポーンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Snap Crackle Poof effect faded!"
     },
     "9270": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ファイアフォースの効果が きえた！": ""
@@ -31119,7 +31119,7 @@
         "まもりのきりが|身代わりとなった！": ""
     },
     "10374": {
-        "キラキラポーンが|悪い効果をけした！": ""
+        "キラキラポーンが|悪い効果をけした！": "Snap Crackle Poof|has a bad effect!"
     },
     "10375": {
         "clarity_nt_char_10375": "clarity_nt_char_10375"
@@ -31446,7 +31446,7 @@
         "まもりのきりが|きえた": ""
     },
     "10483": {
-        "キラキラポーンが|きえた": ""
+        "キラキラポーンが|きえた": "Snap Crackle Poof|faded."
     },
     "10484": {
         "clarity_nt_char_10484": "clarity_nt_char_10484"
@@ -31968,7 +31968,7 @@
         "clarity_nt_char_10656": "clarity_nt_char_10656"
     },
     "10657": {
-        "開戦時キラキラポーンの|効果がきえた": ""
+        "開戦時キラキラポーンの|効果がきえた": "Battle start Snap|Crackle Poof faded."
     },
     "10658": {
         "clarity_nt_char_10658": "clarity_nt_char_10658"
