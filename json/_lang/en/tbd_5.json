@@ -741,10 +741,10 @@
         "clarity_nt_char_247": "clarity_nt_char_247"
     },
     "248": {
-        "<speed=0><%sM_pc>の　ルームから　抜けた！": ""
+        "<speed=0><%sM_pc>の　ルームから　抜けた！": "<speed=0>Left <%sM_pc>'s room!"
     },
     "249": {
-        "<speed=0>ルームから　抜けられませんでした。": ""
+        "<speed=0>ルームから　抜けられませんでした。": "<speed=0>You couldn't leave the room."
     },
     "250": {
         "clarity_nt_char_250": "clarity_nt_char_250"
