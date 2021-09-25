@@ -2223,7 +2223,7 @@
         "絆時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で主人に聖女の守り": ""
     },
     "742": {
-        "絆時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で主人に弓聖の守り星": ""
+        "絆時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で主人に弓聖の守り星": "Guardian Star When Bond <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "743": {
         "clarity_nt_char_743": "clarity_nt_char_743"
@@ -6036,7 +6036,7 @@
         "clarity_nt_char_2012": "clarity_nt_char_2012"
     },
     "2013": {
-        "絆時 ？%で主人に弓聖の守り星": ""
+        "絆時 ？%で主人に弓聖の守り星": "Guardian Star When Bond ?%"
     },
     "2014": {
         "絆時 ？%で主人にまもりのきり": ""
