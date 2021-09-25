@@ -26937,7 +26937,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard!"
     },
     "8980": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Guardian's Star effect guarded a bad effect!"
     },
     "8981": {
         "clarity_nt_char_8981": "clarity_nt_char_8981"
@@ -27930,7 +27930,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 2回行動の効果がきえた。": ""
     },
     "9311": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星が きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Guardian's Star faded."
     },
     "9312": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ消費0の効果が とけた！": ""
@@ -29583,7 +29583,7 @@
         "clarity_nt_char_9861": "clarity_nt_char_9861"
     },
     "9862": {
-        "弓聖の守り星を|受けた！": ""
+        "弓聖の守り星を|受けた！": "Gained Guardian's|Star!"
     },
     "9863": {
         "clarity_nt_char_9863": "clarity_nt_char_9863"
