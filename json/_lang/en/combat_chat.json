@@ -26874,7 +26874,7 @@
         "clarity_nt_char_8958": "clarity_nt_char_8958"
     },
     "8959": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spell Damage Guard!"
     },
     "8960": {
         "僧侶の証が光り \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
@@ -26934,7 +26934,7 @@
         "clarity_ms_space_8978": "clarity_ms_space_8978"
     },
     "8979": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Complete Damage Guard!"
     },
     "8980": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 弓聖の守り星効果が 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Guardian's Star effect stopped a bad effect!"
@@ -27036,7 +27036,7 @@
         "clarity_nt_char_9012": "clarity_nt_char_9012"
     },
     "9013": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎属性完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎属性完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fire Damage Guard!"
     },
     "9014": {
         "clarity_nt_char_9014": "clarity_nt_char_9014"
@@ -27285,7 +27285,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンバリアが きえた。": ""
     },
     "9096": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Critical Hit Guard faded."
     },
     "9097": {
         "clarity_nt_char_9097": "clarity_nt_char_9097"
@@ -27462,7 +27462,7 @@
         "clarity_nt_char_9154": "clarity_nt_char_9154"
     },
     "9155": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 打撃完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 打撃完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Physical Damage Guard faded."
     },
     "9156": {
         "clarity_nt_char_9156": "clarity_nt_char_9156"
@@ -27483,7 +27483,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 温泉効能のＨＰ回復が おわった！": ""
     },
     "9162": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spell Damage Guard faded."
     },
     "9163": {
         "clarity_nt_char_9163": "clarity_nt_char_9163"
@@ -27915,7 +27915,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 逆鱗のころもが きえた！": ""
     },
     "9306": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's complete damage guard faded."
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Complete Damage Guard faded."
     },
     "9307": {
         "clarity_nt_char_9307": "clarity_nt_char_9307"
