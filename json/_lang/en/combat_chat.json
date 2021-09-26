@@ -9186,10 +9186,10 @@
         "ビリビリバリア": ""
     },
     "3063": {
-        "打撃完全ガード": ""
+        "打撃完全ガード": "Physical Damage|Guard"
     },
     "3064": {
-        "呪文完全ガード": ""
+        "呪文完全ガード": "Spell Damage|Guard"
     },
     "3065": {
         "おこった顔": ""
@@ -24555,7 +24555,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 元気タイムになった！": ""
     },
     "8186": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 打撃完全ガードが はられた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 打撃完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Physical Damage Guard!"
     },
     "8187": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm increased!"
@@ -24594,7 +24594,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから お宝ゲット確定！！": ""
     },
     "8199": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪文完全ガードが はられた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪文完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Spell Damage Guard!"
     },
     "8200": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 最大ＨＰ大ダウンの 呪いにかかった！": ""
@@ -25056,7 +25056,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ピラミッドにかえられた！": ""
     },
     "8353": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージ完全ガードが はられた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージ完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Complete Damage Guard!"
     },
     "8354": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ドロヌーバに変化した！": ""
@@ -25836,7 +25836,7 @@
         "clarity_nt_char_8612": "clarity_nt_char_8612"
     },
     "8613": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎属性完全ガードが はられた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 炎属性完全ガードが はられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained a Fire Damage Guard!"
     },
     "8614": {
         "clarity_nt_char_8614": "clarity_nt_char_8614"
@@ -26814,7 +26814,7 @@
         "clarity_nt_char_8938": "clarity_nt_char_8938"
     },
     "8939": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Complete Guard!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Critical Hit Guard!"
     },
     "8940": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンガードに 守られた！": ""
@@ -26862,7 +26862,7 @@
         "clarity_nt_char_8954": "clarity_nt_char_8954"
     },
     "8955": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 打撃完全ガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 打撃完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Physical Damage Guard!"
     },
     "8956": {
         "聖女の守りで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "Alma Mater kept \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e alive!"
