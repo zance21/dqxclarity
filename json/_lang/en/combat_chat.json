@@ -24564,7 +24564,7 @@
         "clarity_nt_char_8188": "clarity_nt_char_8188"
     },
     "8189": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 聖女の守りを 受けた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 聖女の守りを 受けた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained Alma Mater!"
     },
     "8190": {
         "clarity_nt_char_8190": "clarity_nt_char_8190"
@@ -26865,7 +26865,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 打撃完全ガード！": ""
     },
     "8956": {
-        "聖女の守りで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
+        "聖女の守りで \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "Alma Mater kept \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e alive!"
     },
     "8957": {
         "ロザリオが光り \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": "The Rosary's light prevented \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e from dying!"
@@ -27468,7 +27468,7 @@
         "clarity_nt_char_9156": "clarity_nt_char_9156"
     },
     "9157": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 聖女の守りが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 聖女の守りが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Alma Mater faded."
     },
     "9158": {
         "clarity_nt_char_9158": "clarity_nt_char_9158"
@@ -35046,7 +35046,7 @@
         "clarity_nt_char_11682": "clarity_nt_char_11682"
     },
     "11683": {
-        "デスパワー１段階|消費で聖女の守り|呪文と回復も強化": "Grants a spell up|and revive after|death effect."
+        "デスパワー１段階|消費で聖女の守り|呪文と回復も強化": "Grants Spell Up/|Alma Mater. Costs|1 Death Power."
     },
     "11684": {
         "clarity_nt_char_11684": "clarity_nt_char_11684"
