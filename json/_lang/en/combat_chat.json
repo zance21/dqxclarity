@@ -28392,7 +28392,7 @@
         "clarity_nt_char_9464": "clarity_nt_char_9464"
     },
     "9465": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎属性完全ガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎属性完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fire Damage Guard faded."
     },
     "9466": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの あそぶの強化の効果が きえた！": ""
@@ -29043,7 +29043,7 @@
         "clarity_nt_char_9681": "clarity_nt_char_9681"
     },
     "9682": {
-        "打撃完全ガードが|はられた！": ""
+        "打撃完全ガードが|はられた！": "Gained Fire|Damage Guard!"
     },
     "9683": {
         "clarity_nt_char_9683": "clarity_nt_char_9683"
@@ -29073,7 +29073,7 @@
         "clarity_nt_char_9691": "clarity_nt_char_9691"
     },
     "9692": {
-        "呪文完全ガードが|はられた！": "Put up Complete|Spell Guard!"
+        "呪文完全ガードが|はられた！": "Gained Spell|Damage Guard!"
     },
     "9693": {
         "clarity_nt_char_9693": "clarity_nt_char_9693"
@@ -30246,7 +30246,7 @@
         "ふっとび距離が|４０％ふえた！": "Knockback distance|increased by 40%!"
     },
     "10083": {
-        "会心完全ガードを|受けた！": ""
+        "会心完全ガードを|受けた！": "Gained Critical|Hit Guard!"
     },
     "10084": {
         "エンゼルスライムが|見えるようになった！": ""
@@ -30378,7 +30378,7 @@
         "clarity_nt_char_10126": "clarity_nt_char_10126"
     },
     "10127": {
-        "炎属性完全ガードが|はられた！": ""
+        "炎属性完全ガードが|はられた！": "Gained Fire|Damage Guard!"
     },
     "10128": {
         "炎耐性があがった": "Fire resistance up"
@@ -31134,7 +31134,7 @@
         "clarity_nt_char_10378": "clarity_nt_char_10378"
     },
     "10379": {
-        "会心完全ガード！": "Complete Guard!"
+        "会心完全ガード！": "Critical Hit Guard!"
     },
     "10380": {
         "clarity_nt_char_10380": "clarity_nt_char_10380"
@@ -31152,7 +31152,7 @@
         "竜眼のチカラが|攻撃を無効化した！": ""
     },
     "10385": {
-        "打撃完全ガード！": ""
+        "打撃完全ガード！": "Physical Damage|Guard!"
     },
     "10386": {
         "clarity_nt_char_10386": "clarity_nt_char_10386"
@@ -31173,7 +31173,7 @@
         "clarity_nt_char_10391": "clarity_nt_char_10391"
     },
     "10392": {
-        "呪文完全ガード！": ""
+        "呪文完全ガード！": "Spell Damage|Guard!"
     },
     "10393": {
         "clarity_nt_char_10393": "clarity_nt_char_10393"
@@ -31284,7 +31284,7 @@
         "青の加護に|守られた！": ""
     },
     "10429": {
-        "完全ガード！": ""
+        "完全ガード！": "Complete Guard!"
     },
     "10430": {
         "clarity_nt_char_10430": "clarity_nt_char_10430"
