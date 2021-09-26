@@ -1608,7 +1608,7 @@
         "全職業ですばやさ+10": "Natural Agility +10"
     },
     "537": {
-        "どうぐ倍化術（専）": "Item Doubling Technique"
+        "どうぐ倍化術（専）": "Item Doubling Tech (EX)"
     },
     "538": {
         "全職業できようさ+10": "Natural Deftness +10"
@@ -1617,31 +1617,31 @@
         "磁界シールド（専）": "Magnetic Shield (EX)"
     },
     "540": {
-        "どうぐ範囲化術（専）": "Item Range Technique"
+        "どうぐ範囲化術（専）": "Item Range Tech (EX)"
     },
     "541": {
         "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "542": {
-        "メタル出現率アップ（専）": "Metal Appearance Rate Up"
+        "メタル出現率アップ（専）": "Metal Appearance Rate Up (EX)"
     },
     "543": {
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "メディカルデバイス（専）": "Medical Device"
+        "メディカルデバイス（専）": "Medical Device (EX)"
     },
     "545": {
         "clarity_nt_char_545": "clarity_nt_char_545"
     },
     "546": {
-        "どうぐ発動速度短縮（専）": "Faster Item Activation"
+        "どうぐ発動速度短縮（専）": "Faster Item Activation (EX)"
     },
     "547": {
         "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "548": {
-        "プラズマリムーバー（専）": "Plasma Remover"
+        "プラズマリムーバー（専）": "Plasma Remover (EX)"
     },
     "549": {
         "clarity_nt_char_549": "clarity_nt_char_549"
@@ -1650,10 +1650,10 @@
         "強化ガジェット零式": "Gadget Type-0"
     },
     "551": {
-        "もうどくブルース（専）": "Poisonous Blues"
+        "もうどくブルース（専）": "Poisonous Blues (EX)"
     },
     "552": {
-        "会心まいしんラップ（専）": "Confidence Rap"
+        "会心まいしんラップ（専）": "Confidence Rap (EX)"
     },
     "553": {
         "clarity_nt_char_553": "clarity_nt_char_553"
@@ -1665,13 +1665,13 @@
         "clarity_nt_char_555": "clarity_nt_char_555"
     },
     "556": {
-        "祈りのゴスペル（専）": "Gospel of Prayer"
+        "祈りのゴスペル（専）": "Gospel of Prayer (EX)"
     },
     "557": {
         "clarity_nt_char_557": "clarity_nt_char_557"
     },
     "558": {
-        "覚醒のアリア（専）": "Aria of Awakening"
+        "覚醒のアリア（専）": "Aria of Awakening (EX)"
     },
     "559": {
         "全職業でみりょく+10": "Natural Charm +10"
