@@ -378,10 +378,10 @@
         "カラに閉じこもった": ""
     },
     "127": {
-        "左ウデが|呪文完全ガードをはった！": ""
+        "左ウデが|呪文完全ガードをはった！": "Left Hand is fully|protected from spells!"
     },
     "128": {
-        "右ウデが|打撃完全ガードをはった！": ""
+        "右ウデが|打撃完全ガードをはった！": "Right Hand is fully|protected from spells!"
     },
     "129": {
         "みんなで楽しく|<%sB_ACTION>！": "Everybody have fun|with <%sB_ACTION>!"
@@ -9135,7 +9135,7 @@
         "ガードマスター": ""
     },
     "3046": {
-        "会心完全ガード": "All Critical Guard"
+        "会心完全ガード": "Critical Hit Guard"
     },
     "3047": {
         "かすみがくれ": ""
