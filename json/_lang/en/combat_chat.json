@@ -24792,7 +24792,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 転生モンスターに 会いやすくなった！": ""
     },
     "8265": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ＨＰリンクした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ＨＰリンクした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e linked HP!"
     },
     "8266": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ＭＰリンクした！": ""
@@ -27669,7 +27669,7 @@
         "clarity_nt_char_9223": "clarity_nt_char_9223"
     },
     "9224": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰリンクが きれた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰリンクが きれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP Link faded!"
     },
     "9225": {
         "clarity_nt_char_9225": "clarity_nt_char_9225"
