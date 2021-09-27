@@ -603,7 +603,7 @@
         "ま、まけないモグ！|ここから逆転するモグ！": ""
     },
     "202": {
-        "光エネルギーが|もとにもどった！": ""
+        "光エネルギーが|もとにもどった！": "Light energy|returned to normal!"
     },
     "203": {
         "clarity_nt_char_203": "clarity_nt_char_203"
@@ -3144,7 +3144,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの なかま呼び！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e calls for help!"
     },
     "1049": {
-        "光エネルギーが もとにもどった！": ""
+        "光エネルギーが もとにもどった！": "Light energy returned to normal!"
     },
     "1050": {
         "clarity_nt_char_1050": "clarity_nt_char_1050"
@@ -3603,7 +3603,7 @@
         "clarity_nt_char_1201": "clarity_nt_char_1201"
     },
     "1202": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！|<%sB_ACTOR>に 灼熱のエネルギーが 集まっていく！|ダメージを与えることで 止められそうだ……。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>！|<%sB_ACTOR>に 灼熱のエネルギーが 集まっていく！|ダメージを与えることで 止められそうだ……。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION>!|<%sB_ACTOR> is gathering burning energy!|Dealing enough damage may be able to stop it!"
     },
     "1203": {
         "clarity_nt_char_1203": "clarity_nt_char_1203"
