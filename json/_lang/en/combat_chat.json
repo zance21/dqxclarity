@@ -24450,7 +24450,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すばやく 呪文を となえられる！": ""
     },
     "8151": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 天使の守りを 受けた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 天使の守りを 受けた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained Goddess' Grace!"
     },
     "8152": {
         "clarity_nt_char_8152": "clarity_nt_char_8152"
@@ -24858,7 +24858,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのこうげき力と こうげき魔力が ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack and M. Might increased!"
     },
     "8287": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 天使の守りがかかるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 天使の守りがかかるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained Goddess' Grace at battle start!"
     },
     "8288": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった！": ""
@@ -27405,7 +27405,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 神の息吹が とけた！": ""
     },
     "9136": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 天使の守りが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 天使の守りが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Goddess' Grace faded."
     },
     "9137": {
         "clarity_nt_char_9137": "clarity_nt_char_9137"
@@ -27780,7 +27780,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの かくとくゴールドが もとにもどった。": ""
     },
     "9261": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 天使の守りの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 天使の守りの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Goddess' Grace effect faded!"
     },
     "9262": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ファランクスの効果が きえた！": ""
@@ -31584,7 +31584,7 @@
         "clarity_nt_char_10528": "clarity_nt_char_10528"
     },
     "10529": {
-        "天使の守りがきえた": ""
+        "天使の守りがきえた": "Goddess' Grace faded."
     },
     "10530": {
         "マホキテがきえた": ""
