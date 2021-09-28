@@ -33717,7 +33717,7 @@
         "しゅび力ダウン|効果時間延長！": "Defense down|effect extended!"
     },
     "11240": {
-        "コマンド間隔延長の|効果時間延長！": "Command interval lengthen|effect extended!"
+        "コマンド間隔延長の|効果時間延長！": "Command wait lengthen|effect extended!"
     },
     "11241": {
         "ブレス耐性ダウンの|効果時間延長！": "Breath resistance down|effect extended!"
@@ -33969,10 +33969,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度ダウンの 効果延長！": ""
     },
     "11324": {
-        "移動速度アップ|効果時間延長！": ""
+        "移動速度アップ|効果時間延長！": "Movement speed up|effect extended!"
     },
     "11325": {
-        "移動速度ダウン|効果時間延長！": ""
+        "移動速度ダウン|効果時間延長！": "Movement speed down|effect extended!"
     },
     "11326": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度を かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed decreased by a lot!"
