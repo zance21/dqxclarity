@@ -1683,7 +1683,7 @@
         "呪文や特技の|コマンド表示を|編集できます": "Edit which|spells and skills|to display."
     },
     "562": {
-        "<%sM_pc>は　同じチームのメンバーです。": ""
+        "<%sM_pc>は　同じチームのメンバーです。": "<%sM_pc> is already a member of your Team."
     },
     "563": {
         "<%sM_pc>を　チームに　誘えません。|すでに　リクエストを送っています。": ""
