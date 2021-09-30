@@ -12,7 +12,7 @@
         "すべての　お祭りコインを|カジノコイン　<%dc_CoinSpNum>枚に|交換した。|<se_nots System 7>": ""
     },
     "5": {
-        "<select_se_off>|ポーカーランキング|スロットランキング|ルーレットランキング|過去のランキング|報酬を見る|<select_end><break>": ""
+        "<select_se_off>|ポーカーランキング|スロットランキング|ルーレットランキング|過去のランキング|報酬を見る|<select_end><break>": "<select_se_off>|Poker Ranking|Slots Ranking|Roulette Ranking|Past Ranking|View Rewards|<select_end><break>"
     },
     "6": {
         "「ランキングを　見たいのかね？|<break>": ""
