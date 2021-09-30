@@ -3636,7 +3636,7 @@
         "攻撃時ＨＰ回復": "Recover HP on Attack"
     },
     "1213": {
-        "瀕死時身かわし率アップ": ""
+        "瀕死時身かわし率アップ": "Dodge Rate Up On Death"
     },
     "1214": {
         "ダメージでＨＰ回復": "Heal Damage As HP"
@@ -3651,7 +3651,7 @@
         "常時きようさ+20": "Deftness +20"
     },
     "1218": {
-        "開戦時50%ピオラ": ""
+        "開戦時50%ピオラ": "Accel Trigger 50%"
     },
     "1219": {
         "常時きようさ+30": "Deftness +30"
@@ -3669,7 +3669,7 @@
         "clarity_nt_char_1223": "clarity_nt_char_1223"
     },
     "1224": {
-        "開戦時50%天使の守り": ""
+        "開戦時50%天使の守り": "Goddess' Grace Trigger 50%"
     },
     "1225": {
         "開戦時50%キラキラポーン": "Snap Crackle Poof Trigger 50%"
@@ -3684,7 +3684,7 @@
         "clarity_nt_char_1228": "clarity_nt_char_1228"
     },
     "1229": {
-        "ブレスダメージ10%減": ""
+        "ブレスダメージ10%減": "Breath Resist 10%"
     },
     "1230": {
         "攻撃時ＨＰ回復Ⅱ": "Recover HP on Attack Ⅱ"
@@ -4260,13 +4260,13 @@
         "バイキルトの呪文を　おぼえた！": "You learned Oomphle!"
     },
     "1421": {
-        "行動時に　たまにピオラが|発動するようになった！": ""
+        "行動時に　たまにピオラが|発動するようになった！": "You will now sometimes gain Accel after using|an action!"
     },
     "1422": {
         "clarity_nt_char_1422": "clarity_nt_char_1422"
     },
     "1423": {
-        "スライムハートを　おぼえた！": ""
+        "スライムハートを　おぼえた！": "You learned Slime Heart!"
     },
     "1424": {
         "clarity_nt_char_1424": "clarity_nt_char_1424"
