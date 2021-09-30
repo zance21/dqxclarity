@@ -2139,7 +2139,7 @@
         "精神を集中している……": ""
     },
     "714": {
-        "<%sB_ACTOR>は|いなくなった。": ""
+        "<%sB_ACTOR>は|いなくなった。": "<%sB_ACTOR>|is gone."
     },
     "715": {
         "clarity_nt_char_715": "clarity_nt_char_715"
@@ -3387,7 +3387,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 使った！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e used <%sB_ACTION>!"
     },
     "1130": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは いなくなった。": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは いなくなった。": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e is gone."
     },
     "1131": {
         "clarity_nt_char_1131": "clarity_nt_char_1131"
@@ -3549,7 +3549,7 @@
         "clarity_nt_char_1183": "clarity_nt_char_1183"
     },
     "1184": {
-        "<%sB_ACTOR>の ＭＰが なくなった。": ""
+        "<%sB_ACTOR>の ＭＰが なくなった。": "<%sB_ACTOR>'s MP is gone."
     },
     "1185": {
         "お前の好きには させないキュ！": ""
@@ -23940,7 +23940,7 @@
         "clarity_nt_char_7980": "clarity_nt_char_7980"
     },
     "7981": {
-        "<%sB_TARGET>は 姿がみえなくなった！": ""
+        "<%sB_TARGET>は 姿がみえなくなった！": "<%sB_TARGET> can't be seen!"
     },
     "7982": {
         "clarity_nt_char_7982": "clarity_nt_char_7982"
