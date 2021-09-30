@@ -2904,7 +2904,7 @@
         "clarity_nt_char_968": "clarity_nt_char_968"
     },
     "969": {
-        "<speed=0>すでに　<%sM_pc>と同じサーバーにいるため|移動ができません。": ""
+        "<speed=0>すでに　<%sM_pc>と同じサーバーにいるため|移動ができません。": "<speed=0>You can't move since you're already on the|same server as <%sM_pc>."
     },
     "970": {
         "<speed=0>ここでは　七夕の短冊を使って願い事を書いたり|ほかの人が書いた短冊を　見ることができます。|<select>|短冊を飾る|ほかの人の短冊を見る|やめる|<select_end><close>": "<speed=0>Here you can write your own wish strips|and view wishes written by others.|<select>|Write a Wish|View Other Wishes|Cancel|<select_end><close>"

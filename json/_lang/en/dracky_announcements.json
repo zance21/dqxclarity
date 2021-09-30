@@ -4701,6 +4701,6 @@
         "clarity_nt_char_1567": "clarity_nt_char_1567"
     },
     "1568": {
-        "配信OK以外のサーバーでは 配信中設定が解除されます": ""
+        "配信OK以外のサーバーでは 配信中設定が解除されます": "Streaming cancelled on a non-\"Streaming OK\" server."
     }
 }
