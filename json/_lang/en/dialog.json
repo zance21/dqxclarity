@@ -1092,7 +1092,7 @@
         "clarity_nt_char_364": "clarity_nt_char_364"
     },
     "365": {
-        "<speed=0>全てのサポート仲間を　逃がすことで|戦闘を終わらせることができます。|あなたのサポート仲間を　逃がしますか？<yesno 2><close>": ""
+        "<speed=0>全てのサポート仲間を　逃がすことで|戦闘を終わらせることができます。|あなたのサポート仲間を　逃がしますか？<yesno 2><close>": "<speed=0>Do you want to end this battle by letting|your support party escape?<yesno 2><close>"
     },
     "366": {
         "<speed=0>他の仲間の判断を　待っています。<break>": "<speed=0>Waiting for decision of other members.<break>"
@@ -3765,7 +3765,7 @@
         "<speed=0>チームメンバーのかきおきメモが　ありません。": ""
     },
     "1256": {
-        "<speed=0><%sM_item>を　逃がしますか？<yesno2><close>": ""
+        "<speed=0><%sM_item>を　逃がしますか？<yesno2><close>": "<speed=0>Let the <%sM_item> go?<yesno2><close>"
     },
     "1257": {
         "<speed=0><%sM_item>を　逃がした！": "<speed=0><%sM_item> was let go!"
