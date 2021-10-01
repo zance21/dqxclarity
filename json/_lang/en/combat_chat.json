@@ -27765,7 +27765,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションブーストの効果が きえた！": ""
     },
     "9256": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰの回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰの回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP and MP recovery ended!"
     },
     "9257": {
         "clarity_nt_char_9257": "clarity_nt_char_9257"
@@ -27942,7 +27942,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージアップの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage taken up effect faded!"
     },
     "9315": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP recovery ended!"
     },
     "9316": {
         "clarity_nt_char_9316": "clarity_nt_char_9316"
@@ -31905,7 +31905,7 @@
         "姿がもとにもどった": ""
     },
     "10636": {
-        "達人の呼吸の|ＨＰ回復がおわった": ""
+        "達人の呼吸の|ＨＰ回復がおわった": "Master's Breath HP|recovery ended."
     },
     "10637": {
         "clarity_nt_char_10637": "clarity_nt_char_10637"
