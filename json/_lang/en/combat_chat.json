@@ -27297,13 +27297,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔力の息吹が おわった。": ""
     },
     "9100": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの いやしの雨のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの いやしの雨のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Right as Rain HP recovery ended!"
     },
     "9101": {
         "clarity_nt_char_9101": "clarity_nt_char_9101"
     },
     "9102": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リホイミのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リホイミのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Reheal HP recovery ended!"
     },
     "9103": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リベホイミのＨＰ回復が おわった！": ""
