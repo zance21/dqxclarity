@@ -1881,7 +1881,7 @@
         "clarity_nt_char_627": "clarity_nt_char_627"
     },
     "628": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 詩人の舞台での戦いに 誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 詩人の舞台での戦いに 誘われました": "Twilight Poet Stage battle invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "629": {
         "clarity_nt_char_629": "clarity_nt_char_629"
@@ -1890,7 +1890,7 @@
         "詩人の舞台での戦いへの誘いが 時間切れになりました": "Poet's Stage Battle invitation timed out."
     },
     "631": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが 詩人の舞台での戦いの誘いを取り消した": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが 詩人の舞台での戦いの誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the Twilight Poet Stage invitation."
     },
     "632": {
         "clarity_nt_char_632": "clarity_nt_char_632"
@@ -3261,7 +3261,7 @@
         "clarity_nt_char_1087": "clarity_nt_char_1087"
     },
     "1088": {
-        "詩人の舞台での戦いに 行きますか？": ""
+        "詩人の舞台での戦いに 行きますか？": "Go to the Twilight Poet Stage battle?"
     },
     "1089": {
         "教練バトルに 行きますか？": ""
