@@ -27306,13 +27306,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リホイミのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Reheal HP recovery ended!"
     },
     "9103": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リベホイミのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リベホイミのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Remidheal HP recovery faded!"
     },
     "9104": {
         "clarity_nt_char_9104": "clarity_nt_char_9104"
     },
     "9105": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リベホイムのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの リベホイムのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Remoreheal HP recovery ended!"
     },
     "9106": {
         "clarity_nt_char_9106": "clarity_nt_char_9106"
