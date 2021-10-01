@@ -11199,7 +11199,7 @@
         "マッスルポーズ・極": ""
     },
     "3734": {
-        "復元再生": ""
+        "復元再生": "Regrowth"
     },
     "3735": {
         "clarity_nt_char_3735": "clarity_nt_char_3735"
@@ -27999,7 +27999,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 聖騎士の堅陣が とけた！": ""
     },
     "9334": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 復元再生のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 復元再生のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Regrowth HP recovery ended!"
     },
     "9335": {
         "迷宮の主からの 金箱ドロップ効果が きえた！": ""
@@ -28014,7 +28014,7 @@
         "clarity_nt_char_9338": "clarity_nt_char_9338"
     },
     "9339": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マダンテのＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マダンテのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magic Burst MP recovery faded!"
     },
     "9340": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 ＨＰ回復が きえた！": ""
@@ -32169,7 +32169,7 @@
         "聖騎士の堅陣が|とけた": "Paladin's Bulwark|faded."
     },
     "10724": {
-        "復元再生の|ＨＰ回復がおわった": ""
+        "復元再生の|ＨＰ回復がおわった": "Regrowth HP|recovery ended."
     },
     "10725": {
         "迷宮の主からの|金箱ドロップ効果がきえた": ""
