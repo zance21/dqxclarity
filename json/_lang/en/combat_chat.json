@@ -28152,7 +28152,7 @@
         "clarity_nt_char_9384": "clarity_nt_char_9384"
     },
     "9385": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ポワポワダンスのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ポワポワダンスのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Gentle Dance HP recovery ended!"
     },
     "9386": {
         "clarity_nt_char_9386": "clarity_nt_char_9386"
@@ -28161,13 +28161,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 雪だるまから もどった！": ""
     },
     "9388": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの クイックリペアの回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの クイックリペアの回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Quick Repair recovery ended!"
     },
     "9389": {
         "clarity_nt_char_9389": "clarity_nt_char_9389"
     },
     "9390": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの クイックチャージの回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの クイックチャージの回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Quick Charge recovery ended!"
     },
     "9391": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雪がとけた。": ""
@@ -28176,7 +28176,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 興奮が おさまった！": ""
     },
     "9393": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マジカルヒールのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マジカルヒールのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magical Heal HP recovery ended!"
     },
     "9394": {
         "clarity_nt_char_9394": "clarity_nt_char_9394"
@@ -32184,7 +32184,7 @@
         "clarity_nt_char_10728": "clarity_nt_char_10728"
     },
     "10729": {
-        "マダンテの|ＭＰ回復がおわった": ""
+        "マダンテの|ＭＰ回復がおわった": "Magic Burst MP|recovery ended."
     },
     "10730": {
         "攻撃時ＨＰ回復が|きえた": ""
