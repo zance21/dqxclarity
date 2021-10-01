@@ -28260,13 +28260,13 @@
         "clarity_nt_char_9420": "clarity_nt_char_9420"
     },
     "9421": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 教皇のタロットのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 教皇のタロットのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Pope Tarot HP recovery ended!"
     },
     "9422": {
         "clarity_nt_char_9422": "clarity_nt_char_9422"
     },
     "9423": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 節制のタロットのＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 節制のタロットのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Temperance Tarot MP recovery ended!"
     },
     "9424": {
         "clarity_nt_char_9424": "clarity_nt_char_9424"
@@ -28284,7 +28284,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 貝殻の守護陣が とけた！": ""
     },
     "9429": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP and MP recovery ended!"
     },
     "9430": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文ぼうそう率が もとにもどった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell haywire rate back to normal."
@@ -28335,7 +28335,7 @@
         "clarity_nt_char_9445": "clarity_nt_char_9445"
     },
     "9446": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マジックルーレットのＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マジックルーレットのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magic Roulette MP recovery ended!"
     },
     "9447": {
         "clarity_nt_char_9447": "clarity_nt_char_9447"
