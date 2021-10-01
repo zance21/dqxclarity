@@ -27480,7 +27480,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 攻撃の対象に 選ばれるようになった。": ""
     },
     "9161": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 温泉効能のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 温泉効能のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's hot spring HP recovery ended!"
     },
     "9162": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文完全ガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spell Damage Guard faded."
@@ -27741,7 +27741,7 @@
         "clarity_nt_char_9247": "clarity_nt_char_9247"
     },
     "9248": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 達人の呼吸のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 達人の呼吸のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Master's Breath HP recovery ended!"
     },
     "9249": {
         "clarity_nt_char_9249": "clarity_nt_char_9249"
@@ -31647,7 +31647,7 @@
         "妖精たちのポルカの|回復がおわった": ""
     },
     "10550": {
-        "温泉効能の|ＨＰ回復がおわった": ""
+        "温泉効能の|ＨＰ回復がおわった": "Hot spring HP|recovery ended."
     },
     "10551": {
         "呪文完全ガードがきえた": "Spell Damage|Guard faded."
