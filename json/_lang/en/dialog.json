@@ -2550,7 +2550,7 @@
         "今　ドルセリンをチャージすると|満タンを超えた分が　ムダになりますが|よろしいですか？<yesno 2><close>": "If you use Dolsoline now, any remaining|fuel you had left over will be wasted.|Is this okay?<yesno 2><close>"
     },
     "851": {
-        "ドルボードから　降りますか？<yesno><close>": "Get off of your dolboard? <yesno> <close>"
+        "ドルボードから　降りますか？<yesno><close>": "<speed=0>Get off of your dolboard? <yesno> <close>"
     },
     "852": {
         "clarity_nt_char_852": "clarity_nt_char_852"
