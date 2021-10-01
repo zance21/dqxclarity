@@ -28449,7 +28449,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの チャージタイム発生しない効果が きえた。": ""
     },
     "9484": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハツラツ効果のＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ハツラツ効果のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Perky Effect HP recovery ended!"
     },
     "9485": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージ軽減の効果が きえた！": ""
@@ -32559,7 +32559,7 @@
         "clarity_nt_char_10853": "clarity_nt_char_10853"
     },
     "10854": {
-        "マジックルーレットの|ＭＰ回復がおわった": ""
+        "マジックルーレットの|ＭＰ回復がおわった": "Magic Roulette MP|recovery ended."
     },
     "10855": {
         "clarity_nt_char_10855": "clarity_nt_char_10855"
