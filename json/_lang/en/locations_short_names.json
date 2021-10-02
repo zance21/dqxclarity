@@ -2736,7 +2736,7 @@
         "clarity_nt_char_912": "clarity_nt_char_912"
     },
     "913": {
-        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Meadow"
+        "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>草原地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Meadow Area"
     },
     "914": {
         "clarity_nt_char_914": "clarity_nt_char_914"
@@ -2916,7 +2916,7 @@
         "clarity_nt_char_972": "clarity_nt_char_972"
     },
     "973": {
-        "ドルワーム水晶宮への道": ""
+        "ドルワーム水晶宮への道": "Path to Dolworm Crystal Palace"
     },
     "974": {
         "<%sW_MAP_NAME><%sW_DELIMITER>船着場": "<%sW_MAP_NAME><%sW_DELIMITER>Wharf"
@@ -3060,19 +3060,19 @@
         "雪原地区への道": "Road to Snow Area"
     },
     "1021": {
-        "草原地区への道": ""
+        "草原地区への道": "Road to Meadow Area"
     },
     "1022": {
         "雲上地区への道": "Road to Above Clouds"
     },
     "1023": {
-        "静かなる湿原地区への道": "Quiet Marshlands Road"
+        "静かなる湿原地区への道": "Road to Quiet Marshlands"
     },
     "1024": {
-        "のどかな農村地区への道": "Idyllic Village Road"
+        "のどかな農村地区への道": "Road to Idyllic Village"
     },
     "1025": {
-        "おごそかな林道地区への道": "Solemn Forest Road Way"
+        "おごそかな林道地区への道": "Road to Solemn Forest Road"
     },
     "1026": {
         "clarity_nt_char_1026": "clarity_nt_char_1026"
