@@ -28605,7 +28605,7 @@
         "clarity_nt_char_9535": "clarity_nt_char_9535"
     },
     "9536": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの いやしのメロディのＨＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの いやしのメロディのＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Healing Melody HP recovery ended!"
     },
     "9537": {
         "覚醒した！": ""
@@ -36090,7 +36090,7 @@
         "clarity_nt_char_12030": "clarity_nt_char_12030"
     },
     "12031": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 煉獄マダンテのＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 煉獄マダンテのＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Agony Magic Burst MP recovery ended!"
     },
     "12032": {
         "煉獄マダンテの|ＭＰ回復がおわった": ""
