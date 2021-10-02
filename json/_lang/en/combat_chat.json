@@ -28527,10 +28527,10 @@
         "clarity_nt_char_9509": "clarity_nt_char_9509"
     },
     "9510": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の導きの効果がおわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の導きの効果がおわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's commanded Spirit Guidance ended!"
     },
     "9511": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の守りの効果がおわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが命令した 死霊の守りの効果がおわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's commanded Spirit Defense ended!"
     },
     "9512": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔因細胞を落とすまじない効果が きえた！": ""
@@ -32847,7 +32847,7 @@
         "不滅のどうぐ最適術の|効果がきえた": ""
     },
     "10950": {
-        "いやしのメロディの|ＨＰ回復がおわった": ""
+        "いやしのメロディの|ＨＰ回復がおわった": "Healing Melody HP|recovery ended."
     },
     "10951": {
         "迷宮の主からの|極箱ドロップ効果がきえた": ""
