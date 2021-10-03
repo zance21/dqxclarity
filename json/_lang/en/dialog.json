@@ -8532,7 +8532,7 @@
         "clarity_nt_char_2844": "clarity_nt_char_2844"
     },
     "2845": {
-        "<%sL_REGION>　<%sL_DIVISION>|<%dL_AREA>丁目　<%sL_OWNER>|この場所に　移動しますか？<yesno 2><close>": ""
+        "<%sL_REGION>　<%sL_DIVISION>|<%dL_AREA>丁目　<%sL_OWNER>|この場所に　移動しますか？<yesno 2><close>": "<%sL_REGION>　<%sL_DIVISION>|Block <%dL_AREA>　<%sL_OWNER>|Move to this location?<yesno 2><close>"
     },
     "2846": {
         "clarity_nt_char_2846": "clarity_nt_char_2846"
