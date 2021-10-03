@@ -2265,7 +2265,7 @@
         "バージョン１『目覚めし五つの種族』は|冒険の旅立ちの物語です。|ゲームを最初から楽しみたい方に　おすすめです。|<br>|バージョン１『目覚めし五つの種族』から|始めても　よろしいですか？<yesno 2><break>": ""
     },
     "756": {
-        "本当に　最新バージョンから始めても|よろしいですか？|<color_yellow>過去バージョンは　クリアした状態で始まります。<color_White><yesno 2><break>": ""
+        "本当に　最新バージョンから始めても|よろしいですか？|<color_yellow>過去バージョンは　クリアした状態で始まります。<color_White><yesno 2><break>": "Begin the game at the latest Version?|<color_yellow>Previous Versions will be automatically|cleared.<color_White><yesno 2><break>"
     },
     "757": {
         "つぎに　どの物語から　冒険を始めるか|選ぶことができます。|始めたい　バージョンを選択してください。|<br>|バージョン１の『さいしょから』か|『バージョン５から』を　選択できます。|<color_yellow>キャラのつよさは　レベル１から始まります。<color_white><end>": ""
