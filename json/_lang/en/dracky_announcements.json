@@ -3687,10 +3687,10 @@
         "<%sC_PC_LUA>の提案を　断りました。": ""
     },
     "1230": {
-        "<%sC_PC_LUA>からの　さそいは|すでに　取り消されています。": ""
+        "<%sC_PC_LUA>からの　さそいは|すでに　取り消されています。": "<%sC_PC_LUA>'s invitation has already|been cancelled."
     },
     "1231": {
-        "錬金の依頼が キャンセルされました。": "Alchemy request was cancelled."
+        "錬金の依頼が キャンセルされました。": "The alchemy request was cancelled."
     },
     "1232": {
         "clarity_nt_char_1232": "clarity_nt_char_1232"
@@ -3720,7 +3720,7 @@
         "同時に参加できる　チャットルーム数の|上限に達しています。": ""
     },
     "1241": {
-        "職人仕事のお礼が 持ちきれません。": ""
+        "職人仕事のお礼が 持ちきれません。": "Thank you so much for the craftsmanship."
     },
     "1242": {
         "<%sC_leader>の　さそいを　断りました。": "Declined <%sC_leader>'s invitation."
