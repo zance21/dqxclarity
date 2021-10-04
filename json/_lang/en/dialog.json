@@ -4206,7 +4206,7 @@
         "clarity_nt_char_1402": "clarity_nt_char_1402"
     },
     "1403": {
-        "<speed=0>今のパーティ構成で|<%sM_monster>との　戦いに行きますが|よろしいですか？<yesno><close>": ""
+        "<speed=0>今のパーティ構成で|<%sM_monster>との　戦いに行きますが|よろしいですか？<yesno><close>": "<speed=0>Do you want to go to battle with|<%sM_monster> with your current party?<yesno><close>"
     },
     "1404": {
         "clarity_nt_char_1404": "clarity_nt_char_1404"
