@@ -1344,7 +1344,7 @@
         "<%sM_pc>は 天井に あたまをぶつけた。": "<%sM_pc> hit their head against the ceiling!"
     },
     "449": {
-        "<speed=0>仲間のＭＰが　足りない！": ""
+        "<speed=0>仲間のＭＰが　足りない！": "<speed=0>Party member doesn't have enough MP!"
     },
     "450": {
         "<speed=0>このクエストは　キャンセルすることが|できません。": "<speed=0>This quest cannot be cancelled."
