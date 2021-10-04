@@ -6837,7 +6837,7 @@
         "<speed=0>この同盟コンテンツは　今日の分を|すでに　強戦士の書でクリアしています。|時間を置いてから　再びお試しください。": ""
     },
     "2280": {
-        "<speed=0>今のパーティ構成で　マッチングを行い|<%sM_monster>との　戦いに行きますが|よろしいですか？<yesno><close>": ""
+        "<speed=0>今のパーティ構成で　マッチングを行い|<%sM_monster>との　戦いに行きますが|よろしいですか？<yesno><close>": "<speed=0>Do you want to match your current party with|other players and go to battle with|<%sM_monster>?<yesno><close>"
     },
     "2281": {
         "<speed=0>違う時代へ　移動することは　できません！": "<speed=0>You can't travel to a different time!"
