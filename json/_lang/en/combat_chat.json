@@ -21942,7 +21942,7 @@
         "clarity_nt_char_7314": "clarity_nt_char_7314"
     },
     "7315": {
-        "闇のころもか。勇者よ！|光のチカラ見せてみろ！": ""
+        "闇のころもか。勇者よ！|光のチカラ見せてみろ！": "Dark Cloak, I see. Hero!|Show me the light's power!"
     },
     "7316": {
         "ベホマラー準備": ""
@@ -23805,10 +23805,10 @@
         "clarity_nt_char_7935": "clarity_nt_char_7935"
     },
     "7936": {
-        "<%sB_TARGET>は 闇のころもを 身にまとった！！": ""
+        "<%sB_TARGET>は 闇のころもを 身にまとった！！": "<%sB_TARGET> was covered in a Dark Cloak!"
     },
     "7937": {
-        "<%sB_TARGET>の 闇のころもを 打ち消した！！": ""
+        "<%sB_TARGET>の 闇のころもを 打ち消した！！": "<%sB_TARGET>'s Dark Cloak was removed!!"
     },
     "7938": {
         "clarity_nt_char_7938": "clarity_nt_char_7938"
@@ -24732,13 +24732,13 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性が あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resistance up!"
     },
     "8245": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇のころもを 身にまとった！！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 闇のころもを 身にまとった！！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was covered in a Dark Cloak!!"
     },
     "8246": {
         "clarity_nt_char_8246": "clarity_nt_char_8246"
     },
     "8247": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇のころもを 打ち消した！！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇のころもを 打ち消した！！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Dark Cloak was removed!!"
     },
     "8248": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 氷耐性が さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resist down!"
