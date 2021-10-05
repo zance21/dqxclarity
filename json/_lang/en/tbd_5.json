@@ -987,7 +987,7 @@
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Public Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
     },
     "331": {
         "ドルセリンチャージ！": "Dolsoline Charge!"
@@ -1629,7 +1629,7 @@
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": ""
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>…\""
     },
     "545": {
         "clarity_nt_char_545": "clarity_nt_char_545"
