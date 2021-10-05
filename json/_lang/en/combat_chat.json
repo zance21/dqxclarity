@@ -26706,7 +26706,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e’s Attack increased by a lot!"
     },
     "8903": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\'s Defense increased by a lot!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense increased by a lot!"
     },
     "8904": {
         "clarity_nt_char_8904": "clarity_nt_char_8904"
