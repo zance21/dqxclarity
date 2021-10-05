@@ -1635,16 +1635,16 @@
         "clarity_nt_char_545": "clarity_nt_char_545"
     },
     "546": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」": ""
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>\""
     },
     "547": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
     },
     "548": {
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "549": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
     },
     "550": {
         "チームチャット不可": ""
