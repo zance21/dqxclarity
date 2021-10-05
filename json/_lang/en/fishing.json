@@ -606,13 +606,13 @@
         "何も起こらない": "Nothing happens"
     },
     "203": {
-        "さかなの行動時 時々 くいつき度が減らない": "When fish act, sometimes won't decrease the bite chance."
+        "さかなの行動時 時々 くいつき度が減らない": "Rarely keep bite rate on a fish action."
     },
     "204": {
-        "くいつき度がなくなった時 一度だけ復活": "Revive one time when biting chance reaches 0."
+        "くいつき度がなくなった時 一度だけ復活": "Revive one time when bite rate is 0."
     },
     "205": {
-        "魚行動で くいつき度が減った時 引き寄せる": "When fish act, attract when the bite chance goes down."
+        "魚行動で くいつき度が減った時 引き寄せる": "Pull fish in when bite rate decreases."
     },
     "206": {
         "さおをゆるめる": "Loosen Rod"
