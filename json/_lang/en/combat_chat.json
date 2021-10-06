@@ -30984,7 +30984,7 @@
         "clarity_nt_char_10328": "clarity_nt_char_10328"
     },
     "10329": {
-        "みりょくが|もとにもどった！": ""
+        "みりょくが|もとにもどった！": "Charm returned|to normal!"
     },
     "10330": {
         "clarity_nt_char_10330": "clarity_nt_char_10330"
@@ -32883,7 +32883,7 @@
         "clarity_nt_char_10961": "clarity_nt_char_10961"
     },
     "10962": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくアップの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくアップの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm Up effect extended!"
     },
     "10963": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さアップの 効果延長！": ""
@@ -33228,7 +33228,7 @@
         "clarity_nt_char_11076": "clarity_nt_char_11076"
     },
     "11077": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくダウンの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm Down effect extended!"
     },
     "11078": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性ダウンの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's breath resistance down effect extended!"
@@ -33411,7 +33411,7 @@
         "コマンド間隔短縮の|効果時間延長！": "Command interval shorten|effect extended!"
     },
     "11138": {
-        "みりょくアップ|効果時間延長！": ""
+        "みりょくアップ|効果時間延長！": "Charm Up effect|extended!"
     },
     "11139": {
         "重さアップ|効果時間延長！": ""
@@ -33870,7 +33870,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔を 少し 長くした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\'s command interval lengthened slightly!"
     },
     "11291": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくを 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくを 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm decreased by a little!"
     },
     "11292": {
         "clarity_nt_char_11292": "clarity_nt_char_11292"
@@ -33921,7 +33921,7 @@
         "コマンド間隔を|長くした！": "Command interval|increased!"
     },
     "11308": {
-        "みりょくをさげた！": ""
+        "みりょくをさげた！": "Charm decreased!"
     },
     "11309": {
         "重さが軽くした！": ""
