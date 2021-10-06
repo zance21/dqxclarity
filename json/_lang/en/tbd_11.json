@@ -225,7 +225,7 @@
         "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "76": {
-        "<pc>は　鉱脈をさがした！|<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
+        "<pc>は　鉱脈をさがした！|<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": "<pc> searched for veins!|Found <%dL_KOUMYAKU_NUM> <%sL_FIND_KOUMYAKU>!"
     },
     "77": {
         "clarity_nt_char_77": "clarity_nt_char_77"
