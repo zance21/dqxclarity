@@ -3333,7 +3333,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-訓練場": "<%sW_MAP_NAME><%sW_DELIMITER>Training 1F"
     },
     "1112": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-研究室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-研究室": "<%sW_MAP_NAME><%sW_DELIMITER>2F - Lab"
     },
     "1113": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-会議室": ""
@@ -5763,7 +5763,7 @@
         "孤島の修道院 入口": "Island Monastery Entry"
     },
     "1922": {
-        "風穴の研究室 入口": ""
+        "風穴の研究室 入口": "Wind Hole Lab Entry"
     },
     "1923": {
         "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ビンゴすごろくホール": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Bingo/Sugoroku Hall"
@@ -5787,7 +5787,7 @@
         "孤島の修道院 出口": "Island Monastery Exit"
     },
     "1930": {
-        "風穴の研究室 出口": ""
+        "風穴の研究室 出口": "Wind Hole Lab Exit"
     },
     "1931": {
         "<%sW_MAP_NAME><%sW_DELIMITER>「閉塞の窓辺」の展示室": "<%sW_MAP_NAME><%sW_DELIMITER> Blocked Windows Exhibit Room"
@@ -8526,7 +8526,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>事務棟-３階": "<%sW_MAP_NAME><%sW_DELIMITER>Off. Blg. 3F"
     },
     "2843": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>機密研究室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>機密研究室": "<%sW_MAP_NAME><%sW_DELIMITER>Secret Lab"
     },
     "2844": {
         "clarity_nt_char_2844": "clarity_nt_char_2844"
@@ -9444,10 +9444,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>冷眠室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Cold Room Entry"
     },
     "3149": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>研究室 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>研究室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Lab Entry"
     },
     "3150": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>研究室 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>研究室 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Lab Exit"
     },
     "3151": {
         "<%sW_MAP_NAME><%sW_DELIMITER>採掘場": ""
@@ -9921,7 +9921,7 @@
         "小型艇": "Tiny Boat"
     },
     "3308": {
-        "封鎖された研究室 出口": ""
+        "封鎖された研究室 出口": "Closed Laboratory Exit"
     },
     "3309": {
         "封鎖された研究室 入口": ""
