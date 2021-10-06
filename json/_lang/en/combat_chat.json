@@ -2700,7 +2700,7 @@
         "clarity_nt_char_900": "clarity_nt_char_900"
     },
     "901": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは おたからを さがした！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは おたからを さがした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e searched for treasure!"
     },
     "902": {
         "clarity_nt_char_902": "clarity_nt_char_902"
