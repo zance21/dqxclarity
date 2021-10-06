@@ -1041,7 +1041,7 @@
         "グランドインパクト　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Grand Impact　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "348": {
-        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
+        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Air Pollution{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "349": {
         "clarity_nt_char_349": "clarity_nt_char_349"
@@ -1317,7 +1317,7 @@
         "仲間をよんだ　　もう１回　右をふる": "Call Ally　Roll Right Side"
     },
     "440": {
-        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
+        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Air Pollution{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "441": {
         "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1326,7 +1326,7 @@
         "clarity_nt_char_442": "clarity_nt_char_442"
     },
     "443": {
-        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "{color=purple}Dark Fog{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
+        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "{color=purple}Air Pollution{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "444": {
         "ダブルアタック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Double Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
@@ -1950,7 +1950,7 @@
         "clarity_nt_char_650": "clarity_nt_char_650"
     },
     "651": {
-        "暗黒のきり！": "Dark Fog!"
+        "暗黒のきり！": "Air Pollution!"
     },
     "652": {
         "clarity_nt_char_652": "clarity_nt_char_652"
