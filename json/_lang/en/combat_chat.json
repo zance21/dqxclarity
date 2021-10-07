@@ -26760,7 +26760,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの カウンター！": ""
     },
     "8921": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光のカベが 呪文をはねかえした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光のカベが 呪文をはねかえした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's barrier of light reflected a spell!"
     },
     "8922": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おいかぜが 息をはねかえした！": ""
