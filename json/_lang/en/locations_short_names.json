@@ -4212,7 +4212,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>西の塔-居間": "<%sW_MAP_NAME><%sW_DELIMITER>W. Tower Room"
     },
     "1405": {
-        "勇者の橋 入口": ""
+        "勇者の橋 入口": "Hero Bridge Entry"
     },
     "1406": {
         "秘密の地下通廊 入口": ""
@@ -4317,7 +4317,7 @@
         "clarity_nt_char_1439": "clarity_nt_char_1439"
     },
     "1440": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>勇者の橋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>勇者の橋": "<%sW_MAP_NAME><%sW_DELIMITER>Hero Bridge"
     },
     "1441": {
         "テラスへの出口": "Exit to Terrace"
