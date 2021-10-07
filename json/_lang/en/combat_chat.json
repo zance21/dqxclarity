@@ -27237,7 +27237,7 @@
         "clarity_nt_char_9079": "clarity_nt_char_9079"
     },
     "9080": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホカンタが 消えた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホカンタが 消えた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Bounce was removed!"
     },
     "9081": {
         "clarity_nt_char_9081": "clarity_nt_char_9081"
@@ -31404,7 +31404,7 @@
         "マホトーンがとけた": ""
     },
     "10469": {
-        "マホカンタが消えた": ""
+        "マホカンタが消えた": "Bounce removed!"
     },
     "10470": {
         "おいかぜがとけた": ""
