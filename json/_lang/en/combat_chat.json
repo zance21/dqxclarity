@@ -4506,7 +4506,7 @@
         "clarity_nt_char_1502": "clarity_nt_char_1502"
     },
     "1503": {
-        "<%sB_ACTOR>は 神速の空間を作り出した！": ""
+        "<%sB_ACTOR>は 神速の空間を作り出した！": "<%sB_ACTOR> created a Godspeed Space!"
     },
     "1504": {
         "<%sB_ACTOR>から <%sB_TARGET>に ハロイーネ！": ""
@@ -5262,7 +5262,7 @@
         "clarity_nt_char_1754": "clarity_nt_char_1754"
     },
     "1755": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 神速の空間を作り出した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 神速の空間を作り出した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e created a Godspeed Space!"
     },
     "1756": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの エナジーがたまるようになった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e starts storing energy!"
@@ -18600,13 +18600,13 @@
         "招雷ドラミング": "Stormy Drumming"
     },
     "6201": {
-        "嵐撃シールド": ""
+        "嵐撃シールド": "Storm Shield"
     },
     "6202": {
         "clarity_nt_char_6202": "clarity_nt_char_6202"
     },
     "6203": {
-        "神速の空間": ""
+        "神速の空間": "Godspeed Space"
     },
     "6204": {
         "残影招来": ""
@@ -18651,7 +18651,7 @@
         "clarity_nt_char_6217": "clarity_nt_char_6217"
     },
     "6218": {
-        "激震スプラッシュ": ""
+        "激震スプラッシュ": "Earthquake Splash"
     },
     "6219": {
         "clarity_nt_char_6219": "clarity_nt_char_6219"
