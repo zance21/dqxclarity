@@ -24000,7 +24000,7 @@
         "clarity_nt_char_8000": "clarity_nt_char_8000"
     },
     "8001": {
-        "<%sB_ACTOR>が <%sB_TARGET>を 魅了した！": ""
+        "<%sB_ACTOR>が <%sB_TARGET>を 魅了した！": "<%sB_ACTOR> charmed <%sB_TARGET>!"
     },
     "8002": {
         "clarity_nt_char_8002": "clarity_nt_char_8002"
@@ -26400,7 +26400,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すばやく 呪文を となえられるようになった！": ""
     },
     "8801": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 魅了した！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを 魅了した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was charmed!"
     },
     "8802": {
         "clarity_nt_char_8802": "clarity_nt_char_8802"
@@ -30873,7 +30873,7 @@
         "どくをかけた！": "Poisoned!"
     },
     "10292": {
-        "魅了した！": ""
+        "魅了した！": "Charmed!"
     },
     "10293": {
         "呪いをかけた！": ""
@@ -33309,7 +33309,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに さらに どくを かけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was further poisoned!"
     },
     "11104": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 魅了した！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに 魅了した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was further charmed!"
     },
     "11105": {
         "clarity_nt_char_11105": "clarity_nt_char_11105"
@@ -33780,7 +33780,7 @@
         "さらに|どくをかけた！": "Further poisoned!"
     },
     "11261": {
-        "さらに魅了した！": ""
+        "さらに魅了した！": "Further charmed!"
     },
     "11262": {
         "clarity_nt_char_11262": "clarity_nt_char_11262"
