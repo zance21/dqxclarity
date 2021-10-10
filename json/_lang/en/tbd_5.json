@@ -2472,7 +2472,7 @@
         "仮装メイクの有効期間は <%dL_DAY>日 <%dL_HOUR>時間 <%dL_MIN>分です。": ""
     },
     "825": {
-        "キュウサイポイント <%dM_POINT> Pと <%sM_item>を 交換した！": ""
+        "キュウサイポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Res-Cu Points for|<%sM_item>!"
     },
     "826": {
         "clarity_nt_char_826": "clarity_nt_char_826"
