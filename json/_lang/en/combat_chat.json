@@ -23199,7 +23199,7 @@
         "周囲の敵に|太陽光をまとった|光の矢を５回放つ": ""
     },
     "7734": {
-        "ＨＰを回復しつつ|盾ガード時ＨＰが|回復する効果付与": ""
+        "ＨＰを回復しつつ|盾ガード時ＨＰが|回復する効果付与": "Recover HP over|time and when|you shield guard."
     },
     "7735": {
         "clarity_nt_char_7735": "clarity_nt_char_7735"
@@ -25962,7 +25962,7 @@
         "clarity_nt_char_8654": "clarity_nt_char_8654"
     },
     "8655": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾ガード時 ＨＰが回復するようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 盾ガード時 ＨＰが回復するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now restore HP on shield blocks!"
     },
     "8656": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 魔瘴のチカラで あばれだした！！": ""
@@ -28443,7 +28443,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 宝玉のころもが きえた。": ""
     },
     "9482": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盾ガード時 ＨＰ回復が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盾ガード時 ＨＰ回復が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP recovery on shield block returned to normal!"
     },
     "9483": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの チャージタイム発生しない効果が きえた。": ""
