@@ -6630,7 +6630,7 @@
         "clarity_nt_char_2210": "clarity_nt_char_2210"
     },
     "2211": {
-        "<speed=0>今日はすでに　<%sM_monster>との戦いを|クリア済みのため　キュウサイポイントを|得ることはできませんが　行きますか？<yesno><close>": ""
+        "<speed=0>今日はすでに　<%sM_monster>との戦いを|クリア済みのため　キュウサイポイントを|得ることはできませんが　行きますか？<yesno><close>": "<speed=0>You've already defeated <%sM_monster> today|and won't receive any Res-Cu Points. Do you|still want to battle them anyway?<yesno><close>"
     },
     "2212": {
         "文字の長さ": ""
