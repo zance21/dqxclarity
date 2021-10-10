@@ -28311,7 +28311,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゴールド消費0の効果が とけた！": ""
     },
     "9438": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knockback Guard effect faded!"
     },
     "9439": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの とくぎの発動速度が もとにもどった！": ""
@@ -32532,7 +32532,7 @@
         "消費ゴールド0の効果が|とけた": ""
     },
     "10845": {
-        "ふっとびガードの効果が|きえた！": ""
+        "ふっとびガードの効果が|きえた！": "Knockback Guard|effect faded!"
     },
     "10846": {
         "clarity_nt_char_10846": "clarity_nt_char_10846"
@@ -33150,7 +33150,7 @@
         "clarity_nt_char_11050": "clarity_nt_char_11050"
     },
     "11051": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knockback Guard effect extended!"
     },
     "11052": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 錯乱した！": ""
@@ -33642,7 +33642,7 @@
         "呪文ぼうそう率|アップの効果時間延長！": "Spell haywire rate up|effect time extended!"
     },
     "11215": {
-        "ふっとびガードの|効果時間延長！": ""
+        "ふっとびガードの|効果時間延長！": "Knockback Guard|effect extended!"
     },
     "11216": {
         "clarity_nt_char_11216": "clarity_nt_char_11216"
