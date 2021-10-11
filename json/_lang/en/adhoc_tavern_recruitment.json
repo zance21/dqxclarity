@@ -558,7 +558,7 @@
         "「それじゃあ　<%sM_pc>さんを呼んでくるから|　ちょっと待っててね……。|<break>": ""
     },
     "187": {
-        "「登録をやめるのか？|<yesno><break>": ""
+        "「登録をやめるのか？|<yesno><break>": "Cancel registration?|<yesno><break>"
     },
     "188": {
         "clarity_nt_char_188": "clarity_nt_char_188"
