@@ -27759,7 +27759,7 @@
         "clarity_nt_char_9253": "clarity_nt_char_9253"
     },
     "9254": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文詠唱速度が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文詠唱速度が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spellcasting speed returned to normal!"
     },
     "9255": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションブーストの効果が きえた！": ""
@@ -27771,7 +27771,7 @@
         "clarity_nt_char_9257": "clarity_nt_char_9257"
     },
     "9258": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と こうげき魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack/M. Might back to normal!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力と こうげき魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack/M. Might returned to normal!"
     },
     "9259": {
         "clarity_nt_char_9259": "clarity_nt_char_9259"
@@ -27864,7 +27864,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰの回復効果が おわった。": ""
     },
     "9289": {
-        "ゆめみの箱のドロップ率が もとにもどった！": ""
+        "ゆめみの箱のドロップ率が もとにもどった！": "Dream Box drop rate returned to normal!"
     },
     "9290": {
         "ゆめみの金箱出現効果が きえた！": ""
@@ -27873,7 +27873,7 @@
         "clarity_nt_char_9291": "clarity_nt_char_9291"
     },
     "9292": {
-        "ゆめみの箱の 勇気の輝き消費量が もとにもどった！": "Spark of Courage consumption of the Dream Box has restored!"
+        "ゆめみの箱の 勇気の輝き消費量が もとにもどった！": "Dream Box's Spark of Courage consumption returned to normal!"
     },
     "9293": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 テンションアップの効果が きえた！": ""
