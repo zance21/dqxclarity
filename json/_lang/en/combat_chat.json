@@ -26529,16 +26529,16 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm returned to normal!"
     },
     "8844": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Weight returned to normal!"
     },
     "8845": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレス耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e breath resistance returned to normal!"
     },
     "8846": {
         "clarity_nt_char_8846": "clarity_nt_char_8846"
     },
     "8847": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance returned to normal!"
     },
     "8848": {
         "clarity_nt_char_8848": "clarity_nt_char_8848"
@@ -26550,7 +26550,7 @@
         "clarity_nt_char_8850": "clarity_nt_char_8850"
     },
     "8851": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell recovery returned to normal!"
     },
     "8852": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは わらえなかった！": ""
@@ -26619,7 +26619,7 @@
         "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リンクできなかった。": ""
     },
     "8874": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/light resistance returned to normal!"
     },
     "8875": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 勇者の盾に守られた！": ""
@@ -27210,7 +27210,7 @@
         "clarity_nt_char_9070": "clarity_nt_char_9070"
     },
     "9071": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの カウンター率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの カウンター率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's counter rate returned to normal!"
     },
     "9072": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの シールドカウンターが とけた！": ""
@@ -27384,13 +27384,13 @@
         "clarity_nt_char_9128": "clarity_nt_char_9128"
     },
     "9129": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盾ガード率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盾ガード率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's shield block rate returned to normal!"
     },
     "9130": {
         "clarity_nt_char_9130": "clarity_nt_char_9130"
     },
     "9131": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 武器ガード率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 武器ガード率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's parry rate returned to normal!"
     },
     "9132": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ガード率が もとにもどった！": ""
