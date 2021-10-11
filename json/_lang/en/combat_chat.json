@@ -28230,7 +28230,7 @@
         "clarity_nt_char_9410": "clarity_nt_char_9410"
     },
     "9411": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの うけるダメージが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの うけるダメージが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage taken returned to normal!"
     },
     "9412": {
         "clarity_nt_char_9412": "clarity_nt_char_9412"
@@ -28239,7 +28239,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ビリビリが きえた。": ""
     },
     "9414": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 守備力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 守備力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense returned to normal!"
     },
     "9415": {
         "clarity_nt_char_9415": "clarity_nt_char_9415"
@@ -28251,7 +28251,7 @@
         "clarity_nt_char_9417": "clarity_nt_char_9417"
     },
     "9418": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すべての属性耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すべての属性耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's all attribute resistance returned to normal!"
     },
     "9419": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの アルカナ占いの効果が きえた！": ""
@@ -28272,7 +28272,7 @@
         "clarity_nt_char_9424": "clarity_nt_char_9424"
     },
     "9425": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ターンを消費が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ターンを消費が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's turn consumption returned to normal!"
     },
     "9426": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 守り星の祈りが きえた。": ""
@@ -28314,7 +28314,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ふっとびガードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knockback Guard effect faded!"
     },
     "9439": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの とくぎの発動速度が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの とくぎの発動速度が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's skill activation speed returned to normal!"
     },
     "9440": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃時 たまにテンションアップが きえた！": ""
@@ -28434,7 +28434,7 @@
         "clarity_nt_char_9478": "clarity_nt_char_9478"
     },
     "9479": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/thunder resistance returned to normal!"
     },
     "9480": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性が もとにもどった！": ""
