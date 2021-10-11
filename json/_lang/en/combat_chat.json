@@ -26520,13 +26520,13 @@
         "clarity_nt_char_8840": "clarity_nt_char_8840"
     },
     "8841": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Defense returned to normal!"
     },
     "8842": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval returned to normal!"
     },
     "8843": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みりょくが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Charm returned to normal!"
     },
     "8844": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 重さが もとにもどった！": ""
