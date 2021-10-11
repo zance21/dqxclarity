@@ -27552,10 +27552,10 @@
         "clarity_nt_char_9184": "clarity_nt_char_9184"
     },
     "9185": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの どうぐの効果が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの どうぐの効果が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's item effects returned to normal!"
     },
     "9186": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's resistance returned to normal!"
     },
     "9187": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ジャンプの時間が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's jump time returned to normal!"
@@ -27564,25 +27564,25 @@
         "clarity_nt_char_9188": "clarity_nt_char_9188"
     },
     "9189": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＭＰが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＭＰが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's maximum MP returned to normal!"
     },
     "9190": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの きようさが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの きようさが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Deftness returned to normal!"
     },
     "9191": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すばやさが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの すばやさが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Agility returned to normal!"
     },
     "9192": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おしゃれさが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おしゃれさが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Style returned to normal!"
     },
     "9193": {
         "clarity_nt_char_9193": "clarity_nt_char_9193"
     },
     "9194": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃魔力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 攻撃魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magical Might returned to normal!"
     },
     "9195": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 回復魔力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 回復魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magical Mending returned to normal!"
     },
     "9196": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おもさが もとにもどった！": ""
