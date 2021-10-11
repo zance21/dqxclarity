@@ -28437,7 +28437,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/thunder resistance returned to normal!"
     },
     "9480": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と風と闇の耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/wind/dark resistance returned to normal!"
     },
     "9481": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 宝玉のころもが きえた。": ""
@@ -30972,13 +30972,13 @@
         "こうげき力が|もとにもどった！": "Attack returned|to normal!"
     },
     "10325": {
-        "しゅび力が|もとにもどった！": "Defense has|returned to normal!"
+        "しゅび力が|もとにもどった！": "Defense returned|to normal!"
     },
     "10326": {
         "clarity_nt_char_10326": "clarity_nt_char_10326"
     },
     "10327": {
-        "コマンド間隔が|もとにもどった！": "Command interval|is back to normal!"
+        "コマンド間隔が|もとにもどった！": "Command interval|returned to normal!"
     },
     "10328": {
         "clarity_nt_char_10328": "clarity_nt_char_10328"
@@ -30990,7 +30990,7 @@
         "clarity_nt_char_10330": "clarity_nt_char_10330"
     },
     "10331": {
-        "重さがもとにもどった！": ""
+        "重さがもとにもどった！": "Weight returned|to normal!"
     },
     "10332": {
         "ブレス耐性が|もとにもどった！": "Breath resistance|returned to normal!"
@@ -31029,7 +31029,7 @@
         "辛域がとけた！": ""
     },
     "10344": {
-        "ふっとび距離が|もとにもどった！": "Knockback distance|back to normal!"
+        "ふっとび距離が|もとにもどった！": "Knockback distance|returned to normal!"
     },
     "10345": {
         "clarity_nt_char_10345": "clarity_nt_char_10345"
@@ -34479,7 +34479,7 @@
         "羅刹王バラシュナの ジャッジメントダーク！": "Evil Beast Barashna's Darkest Judgement!"
     },
     "11494": {
-        "ゆめみの箱の 心の輝き消費量が もとにもどった！": ""
+        "ゆめみの箱の 心の輝き消費量が もとにもどった！": "Dream Box Spark of Courage|usage back to normal!"
     },
     "11495": {
         "clarity_nt_char_11495": "clarity_nt_char_11495"
