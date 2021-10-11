@@ -27585,25 +27585,25 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 回復魔力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Magical Mending returned to normal!"
     },
     "9196": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おもさが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おもさが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Weight returned to normal!"
     },
     "9197": {
         "clarity_nt_char_9197": "clarity_nt_char_9197"
     },
     "9198": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの かいしん率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの かいしん率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's critical rate returned to normal!"
     },
     "9199": {
         "clarity_nt_char_9199": "clarity_nt_char_9199"
     },
     "9200": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire resistance returned to normal!"
     },
     "9201": {
         "clarity_nt_char_9201": "clarity_nt_char_9201"
     },
     "9202": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 氷耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ice resistance returned to normal!"
     },
     "9203": {
         "clarity_nt_char_9203": "clarity_nt_char_9203"
@@ -27690,31 +27690,31 @@
         "clarity_nt_char_9230": "clarity_nt_char_9230"
     },
     "9231": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind resistance returned to normal!"
     },
     "9232": {
         "clarity_nt_char_9232": "clarity_nt_char_9232"
     },
     "9233": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 雷耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's thunder resistance returned to normal!"
     },
     "9234": {
         "clarity_nt_char_9234": "clarity_nt_char_9234"
     },
     "9235": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 土耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 土耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's earth resistance returned to normal!"
     },
     "9236": {
         "clarity_nt_char_9236": "clarity_nt_char_9236"
     },
     "9237": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 闇耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dark resistance returned to normal!"
     },
     "9238": {
         "clarity_nt_char_9238": "clarity_nt_char_9238"
     },
     "9239": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 光耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's light resistance returned to normal!"
     },
     "9240": {
         "clarity_nt_char_9240": "clarity_nt_char_9240"
@@ -27732,10 +27732,10 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ブレスドガナッシュの効果が きえた。": ""
     },
     "9245": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常耐性が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 状態異常耐性が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's status effect resistance returned to normal!"
     },
     "9246": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 姿が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 姿が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's shape returned to normal!"
     },
     "9247": {
         "clarity_nt_char_9247": "clarity_nt_char_9247"
