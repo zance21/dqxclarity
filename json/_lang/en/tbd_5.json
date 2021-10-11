@@ -456,7 +456,7 @@
         "自宅の屋根ウラ収納に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "Put <%sL_ITEM_NAME><%sL_PLUSNUM> into house storage."
     },
     "153": {
-        "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": ""
+        "<%sL_OWNER>の収納家具に <%sL_ITEM_NAME><%sL_PLUSNUM>を 入れた。": "<%sL_OWNER> put in <%sL_ITEM_NAME><%sL_PLUSNUM> into storage."
     },
     "154": {
         "clarity_nt_char_154": "clarity_nt_char_154"
