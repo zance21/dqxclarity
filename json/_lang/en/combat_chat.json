@@ -27393,7 +27393,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 武器ガード率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's parry rate returned to normal!"
     },
     "9132": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ガード率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ガード率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's guard rate returned to normal!"
     },
     "9133": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ヘヴィチャージの効果が きえた！": ""
@@ -27507,7 +27507,7 @@
         "clarity_nt_char_9169": "clarity_nt_char_9169"
     },
     "9170": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みとれる率が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの みとれる率が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's enthrall rate returned to normal!"
     },
     "9171": {
         "clarity_nt_char_9171": "clarity_nt_char_9171"
@@ -27519,13 +27519,13 @@
         "clarity_nt_char_9173": "clarity_nt_char_9173"
     },
     "9174": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 能力が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 能力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's ability returned to normal!"
     },
     "9175": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's maximum HP returned to normal!"
     },
     "9176": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 大きさが もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 大きさが もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's size returned to normal!"
     },
     "9177": {
         "clarity_nt_char_9177": "clarity_nt_char_9177"
@@ -27546,7 +27546,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの バンジー効果が きえた！": ""
     },
     "9183": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの どうぐ効果範囲が もとにもどった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの どうぐ効果範囲が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's item effect range returned to normal!"
     },
     "9184": {
         "clarity_nt_char_9184": "clarity_nt_char_9184"
