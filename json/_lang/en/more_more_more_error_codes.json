@@ -84,7 +84,7 @@
         "エラーコード：<%sERRID>|　|サービスの利用を制限されているため|ログインできません。|正しい環境から　ご利用ください。": ""
     },
     "29": {
-        "エラーコード：<%sERRID>|　|現在　メンテナンス中のため　ログインできません。|　|『スクウェア・エニックスからのお知らせ』の|サーバー・メンテナンス情報を　ご確認ください。|　|＜ボタンを押すと　戻ります＞": "Error Code: <%sERRID>||The game is currently under maintenance|and you cannot log in. Please check the maintenance|schedule with the \"Square Enix Notices\".||(Press any button to continue)"
+        "エラーコード：<%sERRID>|　|現在　メンテナンス中のため　ログインできません。|　|『スクウェア・エニックスからのお知らせ』の|サーバー・メンテナンス情報を　ご確認ください。|　|＜ボタンを押すと　戻ります＞": "Error Code: <%sERRID>||The game is currently under maintenance|and you cannot log in. Please check the maintenance|schedule by viewing the \"Square Enix Notices\".||(Press any button to continue)"
     },
     "30": {
         "エラーコード：<%sERRID>|バージョンが一致しません。|一度タイトル画面に戻って　ドラゴンクエストⅩを|バージョンアップしてください。|　|　|　|　|　|＜ボタンを押すと　タイトルに戻ります＞": ""
@@ -204,7 +204,7 @@
         "このプレゼントは　すでに受け取っているため|もう一度　受け取ることはできません。|他のキャラを　選んでください。": "This present can only be received once per|character. Please select a different|character."
     },
     "69": {
-        "エラーコード：<%sERRID>|　|現在　メンテナンス中のため|この処理を行えません。|　|『スクウェア・エニックスからのお知らせ』の|サーバー・メンテナンス情報を　ご確認ください。|　|＜ボタンを押すと　ゲームを終了します＞": ""
+        "エラーコード：<%sERRID>|　|現在　メンテナンス中のため|この処理を行えません。|　|『スクウェア・エニックスからのお知らせ』の|サーバー・メンテナンス情報を　ご確認ください。|　|＜ボタンを押すと　ゲームを終了します＞": "Error Code: <%sERRID>||Unable to execute process due to maintenance.|Please check the maintenance|schedule by viewing the \"Square Enix Notices\".||(Press any button to continue)"
     },
     "70": {
         "エラーコード：<%sERRID>|　|追加パッケージ「眠れる勇者と導きの盟友」が|インストールされていません。|このマップに移動するには インストールしてから|もう一度　お試しください。|問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": ""
