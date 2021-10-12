@@ -14697,7 +14697,7 @@
         "clarity_nt_char_4899": "clarity_nt_char_4899"
     },
     "4900": {
-        "系統": ""
+        "系統": "Family"
     },
     "4901": {
         "clarity_nt_char_4901": "clarity_nt_char_4901"
@@ -14907,7 +14907,7 @@
         "clarity_nt_char_4969": "clarity_nt_char_4969"
     },
     "4970": {
-        "系統別": ""
+        "系統別": "By Family"
     },
     "4971": {
         "レア度別": ""
@@ -15141,7 +15141,7 @@
         "スペシャルバッジを見る": "View Special Badges"
     },
     "5048": {
-        "モンスター系統別に見る": ""
+        "モンスター系統別に見る": "View by Monster Family"
     },
     "5049": {
         "<%sM_item><%sM_rurastone><%sM_dot><%sM_sub>": ""
@@ -18558,7 +18558,7 @@
         "戦神効果の封印": "Effect Seal"
     },
     "6187": {
-        "系統：": ""
+        "系統：": "Family: "
     },
     "6188": {
         "<%sM_skill>": "<%sM_skill>"
@@ -18912,7 +18912,7 @@
         "clarity_nt_char_6304": "clarity_nt_char_6304"
     },
     "6305": {
-        "(系統：<%sM_skill>)": "(System: <%sM_skill>)"
+        "(系統：<%sM_skill>)": "(Family: <%sM_skill>)"
     },
     "6306": {
         "clarity_nt_char_6306": "clarity_nt_char_6306"
@@ -20550,7 +20550,7 @@
         "クエストの報酬": ""
     },
     "6851": {
-        "系統順に": ""
+        "系統順に": "By Family"
     },
     "6852": {
         "clarity_nt_char_6852": "clarity_nt_char_6852"
