@@ -3591,7 +3591,7 @@
         "<speed=0>このモンスターは　これ以上呼べない！": ""
     },
     "1198": {
-        "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": "<%sM_pc> learned how to recruit <%sM_monster>!"
+        "<%sM_pc>は <%sM_monster>を 仲間にする方法を 覚えた！": "<%sM_pc> learned how to recruit|<%sM_monster>!"
     },
     "1199": {
         "clarity_nt_char_1199": "clarity_nt_char_1199"
@@ -4470,7 +4470,7 @@
         "<speed=0>ここでは　さくせんを　変えられない！": "<speed=0>You can't change tactics here!"
     },
     "1491": {
-        "<%sM_action>を　おぼえる": "Learned <%sM_action>"
+        "<%sM_action>を　おぼえる": "Learn <%sM_action>"
     },
     "1492": {
         "clarity_nt_char_1492": "clarity_nt_char_1492"
