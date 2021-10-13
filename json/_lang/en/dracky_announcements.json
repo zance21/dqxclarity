@@ -2646,7 +2646,7 @@
         "エントリーをやめました": "Entry was cancelled."
     },
     "883": {
-        "あと<%dC_N1>分で スタートします": ""
+        "あと<%dC_N1>分で スタートします": "<%dC_N1> min. until race starts!"
     },
     "884": {
         "clarity_nt_char_884": "clarity_nt_char_884"
@@ -2730,7 +2730,7 @@
         "パーティリーダーが 解放の扉を選択しました": ""
     },
     "911": {
-        "あと<%dC_N1>秒で スタートします": ""
+        "あと<%dC_N1>秒で スタートします": "<%dC_N1> sec. until race starts!"
     },
     "912": {
         "clarity_nt_char_912": "clarity_nt_char_912"
