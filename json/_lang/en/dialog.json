@@ -3780,7 +3780,7 @@
         "clarity_nt_char_1260": "clarity_nt_char_1260"
     },
     "1261": {
-        "<speed=0>さかなを　持っていない！": ""
+        "<speed=0>さかなを　持っていない！": "<speed=0>You don't have any fish!"
     },
     "1262": {
         "<speed=0>取り付けるルアーを選んでください": "<speed=0>Please choose a lure to attach."
@@ -5805,7 +5805,7 @@
         "clarity_nt_char_1935": "clarity_nt_char_1935"
     },
     "1936": {
-        "<speed=0>スキルノートを　持っていない！": ""
+        "<speed=0>スキルノートを　持っていない！": "<speed=0>You don't have any Skill Books!"
     },
     "1937": {
         "clarity_nt_char_1937": "clarity_nt_char_1937"
@@ -6507,7 +6507,7 @@
         "登録された|モンスターで|バトルへ参加": "Go to battle with|your registered|monsters."
     },
     "2170": {
-        "変更できる　ドルボードを　持っていない！": ""
+        "変更できる　ドルボードを　持っていない！": "You don't own this type of dolboard!"
     },
     "2171": {
         "clarity_nt_char_2171": "clarity_nt_char_2171"
@@ -9393,7 +9393,7 @@
         "clarity_nt_char_3131": "clarity_nt_char_3131"
     },
     "3132": {
-        "<speed=0>設定できる　だいじなものを　持っていない！": ""
+        "<speed=0>設定できる　だいじなものを　持っていない！": "<speed=0>You don't have any Key Items to set!"
     },
     "3133": {
         "clarity_nt_char_3133": "clarity_nt_char_3133"
