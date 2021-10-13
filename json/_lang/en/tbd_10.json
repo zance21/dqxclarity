@@ -72,7 +72,7 @@
         "<speed=0><%sM_pc>は|<%sM_item>を　読んだ。": "<speed=0><%sM_pc> read the|<%sM_item>."
     },
     "25": {
-        "しかし　しぐさ「<%sM_item2>」は|すでにおぼえていた。": ""
+        "しかし　しぐさ「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Emote is already|learned!"
     },
     "26": {
         "clarity_nt_char_26": "clarity_nt_char_26"
@@ -150,7 +150,7 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "51": {
-        "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": ""
+        "しかし　<%sM_action>「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" <%sM_action> is already|learned!"
     },
     "52": {
         "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>!<se_nots System 7>|<br>|<%sM_item> disappeared in|a flash of light!"
@@ -267,7 +267,7 @@
         "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "90": {
-        "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": ""
+        "しかし　表情「<%sM_item2>」は|すでにおぼえていた。": "But the \"<%sM_item2>\" Face Expression is|already learned!"
     },
     "91": {
         "<%sM_pc>は 表情「<%sM_item2>」を おぼえた！": "<%sM_pc> learned the \"<%sM_item2>\"|facial expression!"
