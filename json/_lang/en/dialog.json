@@ -3942,13 +3942,13 @@
         "<speed=0>ここでは　<%sM_item>は|使えない！": "<speed=0>You can't use <%sM_item>|here!"
     },
     "1315": {
-        "<speed=0>チームメンバーへのかきおきメモを変更しました。": ""
+        "<speed=0>チームメンバーへのかきおきメモを変更しました。": "<speed=0>Changed the note that Team members are able|to see."
     },
     "1316": {
         "clarity_nt_char_1316": "clarity_nt_char_1316"
     },
     "1317": {
-        "<speed=0>フレンドへのかきおきメモを変更しました。": ""
+        "<speed=0>フレンドへのかきおきメモを変更しました。": "<speed=0>Changed the note that friends are able to see."
     },
     "1318": {
         "<speed=0><%sM_item>　<%.1fM_size>ｃｍ|入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0>Choose a fish to let go to take the|<%.1fM_size> cm <%sM_item>.<break>"
