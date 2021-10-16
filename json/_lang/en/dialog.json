@@ -4341,7 +4341,7 @@
         "clarity_nt_char_1447": "clarity_nt_char_1447"
     },
     "1448": {
-        "<speed=0>今週分はすでに討伐済みのため|<%sM_monster>との戦いに行くことは|できません。": ""
+        "<speed=0>今週分はすでに討伐済みのため|<%sM_monster>との戦いに行くことは|できません。": "<speed=0>You cannot battle with <%sM_monster>|because you've already defeated them for|this week."
     },
     "1449": {
         "clarity_nt_char_1449": "clarity_nt_char_1449"
