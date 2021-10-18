@@ -729,7 +729,7 @@
         "<speed=0>自分を　誘うことは　できません。": "<speed=0>You can't invite yourself."
     },
     "244": {
-        "<speed=0>入力した　名前と　キャラＩＤに|当てはまる人が　いませんでした。|名前と　キャラＩＤを　確認してください。": ""
+        "<speed=0>入力した　名前と　キャラＩＤに|当てはまる人が　いませんでした。|名前と　キャラＩＤを　確認してください。": "<speed=0>No players matched the supplied Player Name|and ID. Please check and try again."
     },
     "245": {
         "clarity_nt_char_245": "clarity_nt_char_245"
