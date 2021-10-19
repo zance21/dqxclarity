@@ -138,10 +138,10 @@
         "「あと<%nL_SYUPPIN>品　出品できるけど|　まだ　何か出品するかい？|<break>": ""
     },
     "47": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "48": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "49": {
         "「はい　どうぞっ。|<bw_break>": ""
@@ -225,7 +225,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": ""
     },
     "76": {
-        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": ""
+        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": "Many thanks! Do you want to equip it now?|<yesno 2><break>"
     },
     "77": {
         "「他に出品したい物は　ありますか？|<break>": ""
@@ -234,10 +234,10 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他の物も　出品しますか？|<break>": ""
     },
     "79": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "80": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "81": {
         "「お買い上げ　ありがとうございます！|<bw_break>": ""
@@ -330,7 +330,7 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他にも　出品したい物は　ございますか？|<break>": ""
     },
     "111": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "112": {
         "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
@@ -1380,10 +1380,10 @@
         "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|　出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には　変更料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I will now explain the Traveler's Bazaar.|The Traveler's Bazaar is a place where|adventurers can buy and sell their wares.|<br>|If you find the listing you were looking for,|you are able to purchase it immediately.|<br>|The listings are the same for all continents|and all servers.|<br>|All adventurers are welcome to submit items|for sale. But the number of items you can|submit is limited to 8.|<br>|Listing and re-pricing an item has a 10 gold|fee.|<br>|Please also note that you will be charged|a commission of 5% of the proceeds from each|sale.|<bw_break>"
     },
     "461": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "462": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "463": {
         "「では　確かに　お返しいたしました。|<bw_break>": ""
@@ -1779,16 +1779,16 @@
         "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": "Even if you equip this, you can use it as an|item during battle to use its special effect!|<bw_break>"
     },
     "594": {
-        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": ""
+        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": "Many thanks! Do you want to equip it now?|<yesno 2><break>"
     },
     "595": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "596": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": ""
     },
     "597": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "598": {
         "「お買い上げ　ありがとうございますっ！|<bw_break>": ""
