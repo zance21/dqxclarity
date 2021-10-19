@@ -210,10 +210,10 @@
         "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておきました。<bw_break>": ""
     },
     "71": {
-        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": ""
+        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
     },
     "72": {
-        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": ""
+        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
     },
     "73": {
         "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": ""
@@ -894,13 +894,13 @@
         "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": "<%sL_RULA_POINT>|has several locations that can be registered.|Which location do you want to register?<break>"
     },
     "299": {
-        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": ""
+        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
     },
     "300": {
         "「あら　それは　記憶された場所を|　変えることが　できないようですね。|　別の石を　お選びください。|<break>": ""
     },
     "301": {
-        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": ""
+        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
     },
     "302": {
         "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": ""
