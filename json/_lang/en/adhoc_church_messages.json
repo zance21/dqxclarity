@@ -606,7 +606,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
     },
     "203": {
-        "「……やめるか。|　他に　用事あるか？|<break>": ""
+        "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
     },
     "204": {
         "「……冒険　続けるか。|　他に　用事あるか？<break>": ""
@@ -762,7 +762,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "255": {
-        "「……やめるか。|　他に　用事あるか？|<break>": ""
+        "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
     },
     "256": {
         "「……冒険　続けるか。|　他に　用事あるか？<break>": ""
