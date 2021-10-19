@@ -279,13 +279,13 @@
         "「やめるのですね。|　他に　ほしい物は　ありますか？|<bw_break>": ""
     },
     "94": {
-        "「やめるのですね。|　では　他の物を出品しますか？|<break>": ""
+        "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
     },
     "95": {
-        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": ""
+        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": "You can list <%dL_SYUPPIN> more items for|sale. What do you want to list?|<break>"
     },
     "96": {
-        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": ""
+        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": "Even if you equip this, you can use it as an|item during battle to use its special effect!|<bw_break>"
     },
     "97": {
         "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
@@ -1776,7 +1776,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_SYOKUNIN>の方しか|　装備できませんが　よろしいですか？|<yesno><break>": ""
     },
     "593": {
-        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": ""
+        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": "Even if you equip this, you can use it as an|item during battle to use its special effect!|<bw_break>"
     },
     "594": {
         "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": ""
@@ -1881,7 +1881,7 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他の物も　出品しますか？|<break>": ""
     },
     "628": {
-        "「やめるのですね。|　では　他の物を出品しますか？|<break>": ""
+        "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
     },
     "629": {
         "「あれ？　お客さんは|　何も　出品してないようですね。|<bw_break>": ""
