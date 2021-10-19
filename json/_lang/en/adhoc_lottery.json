@@ -78,7 +78,7 @@
         "「ビッグなドリームをラックでお届け！|　アストルティア★ハッピーくじ屋です。|　ただいま　絶賛発売中です！<break>": ""
     },
     "27": {
-        "<select_se_off>|くじ券を買う|景品をみる|説明を聞く|やめる|<select_end><break>": ""
+        "<select_se_off>|くじ券を買う|景品をみる|説明を聞く|やめる|<select_end><break>": "<select_se_off>|Buy Ticket|View Prizes|Explanation|Quit|<select_end><break>"
     },
     "28": {
         "「いらっしゃいませ！　こちら|　ビッグなドリームをラックでお届け！|　アストルティア★ハッピーくじ屋です。|<bw_break>": ""
