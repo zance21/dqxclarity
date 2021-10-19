@@ -1761,7 +1761,7 @@
         "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "588": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|Only <%sL_RACE> can equip this. Is|that okay with you?|<yesno><break>"
     },
     "589": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": ""
