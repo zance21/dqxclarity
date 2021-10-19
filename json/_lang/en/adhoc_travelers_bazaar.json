@@ -1767,7 +1767,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|This can only be equipped by <%sL_GENDER>s,|is that all right?|<yesno><break>"
     },
     "590": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|This can't be equipped by your current|vocation, is that all right?|<yesno><break>"
     },
     "591": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんのレベルでは|　まだ装備できませんが　よろしいですか？|<yesno><break>": ""
