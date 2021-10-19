@@ -681,7 +681,7 @@
         "「おっと　残念だが|　出品料が払えないみたいだな。|<bw_break>": ""
     },
     "228": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "229": {
         "「じゃ　装備品について説明するね。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うんだよ。|<br>|「名前に　＋１とか　＋２とか付いてる|　装備品を　見たことない？　あれは|　その装備品に付いてる　錬金効果の数なんだ。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことだよ。攻撃力や守備力などの|　パラメータ強化の他　様々な種類があるんだ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかるから|　＋が付いてたら　チェックを忘れずに。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさだよ。|　<color_yellow>★<color_white>の数が多いほど　できのよい物だってことさ。|<br>|「できのよい装備品は　それだけでも効果が高いし|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じだから　とても重要だよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -1713,10 +1713,10 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "572": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "573": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "574": {
         "「いらっしゃいませ！|　旅人バザーへ　ようこそっ。|　今日は　どんなご用事ですか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What can I do for you today?|<break>"
