@@ -1764,7 +1764,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|Only <%sL_RACE> can equip this. Is|that okay with you?|<yesno><break>"
     },
     "589": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|This can only be equipped by <%sL_GENDER>s,|is that all right?|<yesno><break>"
     },
     "590": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": ""
