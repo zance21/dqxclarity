@@ -8373,7 +8373,7 @@
         "clarity_nt_char_2791": "clarity_nt_char_2791"
     },
     "2792": {
-        "<speed=0>どの説明を　見ますか？|<select>|空・時間|遠景|地景|やめる|<select_end>|<close>": ""
+        "<speed=0>どの説明を　見ますか？|<select>|空・時間|遠景|地景|やめる|<select_end>|<close>": "<speed=0>View which explanation?|<select>|Sky/Time|Distant|Ground|Quit|<select_end>|<close>"
     },
     "2793": {
         "<speed=0>|立ち位置を　移動させます。|どの人を　移動しますか？|<break>": ""
