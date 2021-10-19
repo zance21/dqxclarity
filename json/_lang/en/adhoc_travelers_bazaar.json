@@ -693,7 +693,7 @@
         "「あれ　残念だけど|　出品料を払えないみたいだね。|<bw_break>": ""
     },
     "232": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "233": {
         "「では　装備品について説明します。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うんですよ。|<br>|「名前に　＋１とか　＋２とか付いてる装備品を|　見たことがありますか？　あれは|　その装備品に付いてる　錬金効果の数なんです。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことです。攻撃力や守備力などの|　パラメータ強化の他　様々な種類がありますよ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかりますので|　しっかり　チェックしてくださいね。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。|　<color_yellow>★<color_white>の数が多いほど　できのよい物です。|<br>|「できのよい装備品は　それだけでも効果が高く|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じなので　とても重要なんですよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -705,7 +705,7 @@
         "「残念ですが　出品するには|　お金が足りないようです。|<bw_break>": ""
     },
     "236": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "237": {
         "「では　装備品について説明いたします。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うのです。|<br>|「名前に　＋１とか　＋２とか付いてる装備品を|　見たことがありますか？　あれは|　その装備品に付いてる　錬金効果の数なのです。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことです。攻撃力や守備力などの|　パラメータ強化の他　様々な種類がありますよ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかりますので|　しっかり　チェックしてくださいね。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。|　<color_yellow>★<color_white>の数が多いほど　できのよい物です。|<br>|「できのよい装備品は　それだけでも効果が高く|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じなので　とても重要ですよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -717,7 +717,7 @@
         "「申し訳ありませんが|　出品するには　お金が足りないようです。|<bw_break>": ""
     },
     "240": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "241": {
         "「おいおい　その額じゃ出品できないぜ。|　いくらで　出品するんだ？|<break>": ""
@@ -1497,7 +1497,7 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "500": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "501": {
         "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
