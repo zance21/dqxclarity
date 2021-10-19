@@ -8883,7 +8883,7 @@
         "clarity_nt_char_2961": "clarity_nt_char_2961"
     },
     "2962": {
-        "<speed=0>不思議な　チカラを　感じる石がある。|<select_se_off>|転職する|閃手を見る|やめる|<select_end>|<close>": ""
+        "<speed=0>不思議な　チカラを　感じる石がある。|<select_se_off>|転職する|閃手を見る|やめる|<select_end>|<close>": "<speed=0>There's a stone with a mysterious power here.|<select_se_off>|Change Job|View Flash Hand|Quit|<select_end>|<close>"
     },
     "2963": {
         "<speed=0>有効な　<%sM_item>を　もっていない！": ""
