@@ -255,7 +255,7 @@
         "「おっと　お客さん|　出品できる物を　何も|　持ってないようですね。|<bw_break>": ""
     },
     "86": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "87": {
         "「おや　それを買うには|　お金が　足りないようですね。|　他の物を　選んでください。|<bw_break>": ""
@@ -351,7 +351,7 @@
         "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": ""
     },
     "118": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "119": {
         "「申し訳ありませんが|　お金が　足りないようです。|　他の品物を　お選びくださいませ。|<bw_break>": "I'm sorry, but you do not have enough gold.|Please choose another item.|<bw_break>"
@@ -1758,7 +1758,7 @@
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": ""
     },
     "587": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "588": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": ""
