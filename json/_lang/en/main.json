@@ -25674,7 +25674,7 @@
         "clarity_nt_char_8558": "clarity_nt_char_8558"
     },
     "8559": {
-        "燭台の炎が　ゼルメアの聖紋に反応している。|<br>|この炎のチカラを　使うことで|今回の探索で　手に入る防具を限定できるようだ。|炎の中に　何が見える？|<select>|<%sM_PARTS_01>|<%sM_PARTS_02>|<%sM_PARTS_03>|<%sM_PARTS_04>|<%sM_PARTS_05>|やめる|<select_end>|<close>": ""
+        "燭台の炎が　ゼルメアの聖紋に反応している。|<br>|この炎のチカラを　使うことで|今回の探索で　手に入る防具を限定できるようだ。|炎の中に　何が見える？|<select>|<%sM_PARTS_01>|<%sM_PARTS_02>|<%sM_PARTS_03>|<%sM_PARTS_04>|<%sM_PARTS_05>|やめる|<select_end>|<close>": "The candlestick's flame is reacting to your|Zelmea Crests.|<br>|It seems the flame's power will allow you|to limit what kind of armor will appear.|What do you see inside the flame?|<select>|<%sM_PARTS_01>|<%sM_PARTS_02>|<%sM_PARTS_03>|<%sM_PARTS_04>|<%sM_PARTS_05>|Quit|<select_end>|<close>"
     },
     "8560": {
         "clarity_nt_char_8560": "clarity_nt_char_8560"
