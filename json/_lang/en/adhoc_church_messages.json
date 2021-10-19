@@ -219,7 +219,7 @@
         "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": "Understood. Now, place that Zoomstone deep|into your thoughts...|<break>"
     },
     "74": {
-        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": ""
+        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
     },
     "75": {
         "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": ""
@@ -759,7 +759,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
     },
     "254": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "255": {
         "「……やめるか。|　他に　用事あるか？|<break>": ""
@@ -918,7 +918,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
     },
     "307": {
-        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": ""
+        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
     },
     "308": {
         "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": ""
