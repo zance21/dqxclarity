@@ -69,7 +69,7 @@
         "<%sCAS_gambler>の　こうげき！|<%sCAS_monster>に　<%dCAS_damage>のダメージ！<auto_bw=3000><close>": ""
     },
     "24": {
-        "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": ""
+        "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": "Received <%dM_coin> Coins from fighting|in the Casino Raid!<auto_bw=3000><close>"
     },
     "25": {
         "持てるコインの限界を超えました。|これ以上　持てませんが　続けますか？<yesno_nc 2><close>": ""

@@ -33,7 +33,7 @@
         "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": ""
     },
     "12": {
-        "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": ""
+        "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": "Received <%dM_coin> Coins from fighting|in the Casino Raid!<auto_bw=3000><close>"
     },
     "13": {
         "ブラックリストに　登録されている人が|います。<br>|ここで　一緒に　遊びますか？<yesno_nc><close>": ""
