@@ -1503,7 +1503,7 @@
         "clarity_nt_char_501": "clarity_nt_char_501"
     },
     "502": {
-        "浜辺の洞くつ 入口": ""
+        "浜辺の洞くつ 入口": "Beach Cave Entry"
     },
     "503": {
         "<%sW_MAP_NAME><%sW_DELIMITER>真実の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Entrance to Truth"
@@ -1512,7 +1512,7 @@
         "clarity_nt_char_504": "clarity_nt_char_504"
     },
     "505": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>詩歌の間 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>詩歌の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Poetry Room Entry"
     },
     "506": {
         "clarity_nt_char_506": "clarity_nt_char_506"
@@ -3369,7 +3369,7 @@
         "clarity_nt_char_1123": "clarity_nt_char_1123"
     },
     "1124": {
-        "詩歌の間 出口": ""
+        "詩歌の間 出口": "Poetry Room Exit"
     },
     "1125": {
         "野獣の巣 出口": ""
