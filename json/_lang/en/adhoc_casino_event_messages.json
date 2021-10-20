@@ -27,7 +27,7 @@
         "<%sCAS_monster>を　倒した！<auto_bw=3000><close>": ""
     },
     "10": {
-        "カジノレイドを終了します。<auto_bw=3000><close>": ""
+        "カジノレイドを終了します。<auto_bw=3000><close>": "The Casino Raid is over.<auto_bw=3000><close>"
     },
     "11": {
         "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": ""
