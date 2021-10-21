@@ -171,7 +171,7 @@
         "「また　いつでも　来ておくれよっ！|<turn_end>": ""
     },
     "58": {
-        "「はい　いらっしゃい。|　旅人バザーだよ。|　今日は　どうするんだい？|<break>": ""
+        "「はい　いらっしゃい。|　旅人バザーだよ。|　今日は　どうするんだい？|<break>": "Yes, welcome.|This is the Traveler's Bazaar. What can I do|for you today?|<break>"
     },
     "59": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
