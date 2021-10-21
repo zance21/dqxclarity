@@ -234,7 +234,7 @@
         "さらに　<%sL_FIND_KOUMYAKU>を　<%nL_KOUMYAKU_NUM>こ見つけた！": ""
     },
     "79": {
-        "<%sL_RECIPE>|<%sL_QUALITY>ができた！": ""
+        "<%sL_RECIPE>|<%sL_QUALITY>ができた！": "<%sL_RECIPE>|<%sL_QUALITY> created!"
     },
     "80": {
         "さいほう": "Sewing"
