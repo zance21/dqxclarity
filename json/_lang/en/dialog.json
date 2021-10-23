@@ -6576,7 +6576,7 @@
         "clarity_nt_char_2192": "clarity_nt_char_2192"
     },
     "2193": {
-        "<speed=0>復活場所の　<%sM_add><%sM_point>へ|戻りますか？|鉄の金庫の効果で　ゴールドは　失いません。<yesno2><close>": ""
+        "<speed=0>復活場所の　<%sM_add><%sM_point>へ|戻りますか？|鉄の金庫の効果で　ゴールドは　失いません。<yesno2><close>": "<speed=0>Resurrect at <%sM_add><%sM_point>?|Your Iron Safe prevents you from losing any|Gold as a penalty.<yesno2><close>"
     },
     "2194": {
         "clarity_nt_char_2194": "clarity_nt_char_2194"
