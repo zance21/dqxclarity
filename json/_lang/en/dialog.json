@@ -1128,7 +1128,7 @@
         "clarity_nt_char_376": "clarity_nt_char_376"
     },
     "377": {
-        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": "<speed=0>Return to your resurrection spot at|<%sM_add><%sM_point>?<yesno2><close>"
     },
     "378": {
         "clarity_nt_char_378": "clarity_nt_char_378"
