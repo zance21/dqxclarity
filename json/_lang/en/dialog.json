@@ -1410,7 +1410,7 @@
         "clarity_nt_char_470": "clarity_nt_char_470"
     },
     "471": {
-        "<speed=0>復活場所の　<%sM_landaddress2><%sM_landaddress4>丁目へ戻ると|<%dM_gold> G　失います。|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？<yesno2><close>": ""
+        "<speed=0>復活場所の　<%sM_landaddress2><%sM_landaddress4>丁目へ戻ると|<%dM_gold> G　失います。|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？<yesno2><close>": "<speed=0>Resurrecting at <%sM_landaddress2> Block <%sM_landaddress4>|will cause you to lose <%dM_gold> G.|Return to <%sM_landaddress2> Block <%sM_landaddress4>? <yesno2><close>"
     },
     "472": {
         "clarity_nt_char_472": "clarity_nt_char_472"
