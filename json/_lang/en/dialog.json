@@ -1416,10 +1416,10 @@
         "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？|Lv10未満のため　ゴールドは　失いません。<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？|Lv10未満のため　ゴールドは　失いません。<yesno2><close>": "<speed=0>Resurrect at <%sM_landaddress2> Block <%sM_landaddress4>?|Since you are below level 10, you won't lose|any Gold as a penalty.<yesno2><close>"
     },
     "474": {
-        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻りますか？<yesno2><close>": "<speed=0>Resurrect at <%sM_landaddress2> Block <%sM_landaddress4>?<yesno2><close>"
     },
     "475": {
         "clarity_nt_char_475": "clarity_nt_char_475"
@@ -2814,13 +2814,13 @@
         "<speed=0>パーティリーダーのサーバーに　移動しますか？<yesno><close>": "<speed=0>Move to party leader's server?<yesno><close>"
     },
     "939": {
-        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻ります。|よろしいですか？<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻ります。|よろしいですか？<yesno2><close>": "<speed=0>Resurrect at <%sM_landaddress2> Block <%sM_landaddress4>?<yesno2><close>"
     },
     "940": {
         "clarity_nt_char_940": "clarity_nt_char_940"
     },
     "941": {
-        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻ります。|よろしいですか？<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_landaddress2><%sM_landaddress4>丁目に　戻ります。|よろしいですか？<yesno2><close>": "<speed=0>Resurrect at <%sM_landaddress2> Block <%sM_landaddress4>?<yesno2><close>"
     },
     "942": {
         "clarity_nt_char_942": "clarity_nt_char_942"
