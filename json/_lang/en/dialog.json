@@ -681,7 +681,7 @@
         "clarity_nt_char_227": "clarity_nt_char_227"
     },
     "228": {
-        "<speed=0>復活場所の　<%sM_add><%sM_point>へ戻ると|<%dM_gold> G　失います。|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": "<speed=0>Returning to <%sM_add><%sM_point> will|cause you to lose <%dM_gold>G.|Return to <%sM_add><%sM_point>? <yesno2><close>"
+        "<speed=0>復活場所の　<%sM_add><%sM_point>へ戻ると|<%dM_gold> G　失います。|<%sM_add><%sM_point>に　戻りますか？<yesno2><close>": "<speed=0>Resurrecting at <%sM_add><%sM_point>|will cause you to lose <%dM_gold> G.|Return to <%sM_add><%sM_point>? <yesno2><close>"
     },
     "229": {
         "clarity_nt_char_229": "clarity_nt_char_229"
