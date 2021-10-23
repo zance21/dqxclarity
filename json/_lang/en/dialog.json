@@ -1359,7 +1359,7 @@
         "clarity_nt_char_453": "clarity_nt_char_453"
     },
     "454": {
-        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻りますか？|Lv<%dM_LvPenalty>未満のため　ゴールドは　失いません。<yesno2><close>": ""
+        "<speed=0>復活場所の|<%sM_add><%sM_point>に　戻りますか？|Lv<%dM_LvPenalty>未満のため　ゴールドは　失いません。<yesno2><close>": "<speed=0>Resurrecting at <%sM_add><%sM_point>|will cause you to lose <%dM_gold> G.|Return to <%sM_add><%sM_point>? <yesno2><close>"
     },
     "455": {
         "clarity_nt_char_455": "clarity_nt_char_455"
