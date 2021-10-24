@@ -8829,7 +8829,7 @@
         "clarity_nt_char_2943": "clarity_nt_char_2943"
     },
     "2944": {
-        "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": "<speed=0><speed=0>The battle will not end unless the Manma|Tower is completely destroyed. Reduce|your support party's HP to 0?|<yesno 2><close>"
+        "<speed=0><speed=0>万魔の塔は　全滅しなければ|戦闘は終了できません。|サポート仲間の　HPを0にしますか？|<yesno 2><close>": "<speed=0><speed=0>The battle won't end unless the party is|wiped out. Reduce your support party's HP to 0?|<yesno 2><close>"
     },
     "2945": {
         "あきらめて|始覚の間に|もどります": ""
@@ -8841,10 +8841,10 @@
         "clarity_nt_char_2947": "clarity_nt_char_2947"
     },
     "2948": {
-        "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": "<speed=0>To use the matching function, first talk to|Gilam in the Manma Tower."
+        "<speed=0>このマッチングに参加するには万魔の塔にいる|ギラムに話しかける必要が　あります。": "<speed=0>To use the matching function, first talk to|Gilam in the Banma Tower."
     },
     "2949": {
-        "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": "<speed=0>To accept this invitation, you must first be|inside the Manma Tower."
+        "<speed=0>このマッチングの誘いを受けるには|万魔の塔に　行く必要があります。": "<speed=0>To accept this invitation, you must first be|inside the Banma Tower."
     },
     "2950": {
         "clarity_nt_char_2950": "clarity_nt_char_2950"
@@ -9186,7 +9186,7 @@
         "clarity_nt_char_3062": "clarity_nt_char_3062"
     },
     "3063": {
-        "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": "<speed=0>|Your Manma Tower ranking info is currently|set to <%sM_CURRENT_STATE>. Do you want to|set it to <%sM_INVERSE_STATE> instead?|<yesno2><close>"
+        "<speed=0>|現在　あなたの万魔の塔の情報は|ランキングで　<%sM_CURRENT_STATE>の状態になっています。|<%sM_INVERSE_STATE>の状態に　設定を変更しますか？|<yesno2><close>": "<speed=0>|Your Banma Tower ranking info is currently|set to <%sM_CURRENT_STATE>. Do you want to|set it to <%sM_INVERSE_STATE> instead?|<yesno2><close>"
     },
     "3064": {
         "clarity_nt_char_3064": "clarity_nt_char_3064"
