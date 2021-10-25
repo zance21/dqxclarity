@@ -612,7 +612,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>山頂に続く道": "<%sW_MAP_NAME><%sW_DELIMITER>Path to the Summit"
     },
     "205": {
-        "大祭壇の間 入口": "Altar Room Entrance"
+        "大祭壇の間 入口": "Altar Room Entry"
     },
     "206": {
         "clarity_nt_char_206": "clarity_nt_char_206"
@@ -7335,10 +7335,10 @@
         "静寂の泉 出口": ""
     },
     "2446": {
-        "浄月の間 入口": ""
+        "浄月の間 入口": "Fullmoon Hall Entry"
     },
     "2447": {
-        "浄月の間 出口": ""
+        "浄月の間 出口": "Fullmoon Hall Exit"
     },
     "2448": {
         "<%sW_MAP_NAME><%sW_DELIMITER>昇降の風穴": ""
@@ -7401,7 +7401,7 @@
         "楽園への扉": "Door to Utopia"
     },
     "2468": {
-        "守りの部屋 出口": "Room of Defense Entry"
+        "守りの部屋 出口": "Room of Defense Exit"
     },
     "2469": {
         "clarity_nt_char_2469": "clarity_nt_char_2469"
@@ -7413,7 +7413,7 @@
         "clarity_nt_char_2471": "clarity_nt_char_2471"
     },
     "2472": {
-        "守りの部屋 入口": "Room of Defense Exit"
+        "守りの部屋 入口": "Room of Defense Entry"
     },
     "2473": {
         "clarity_nt_char_2473": "clarity_nt_char_2473"
