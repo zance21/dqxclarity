@@ -7503,7 +7503,7 @@
         "clarity_nt_char_2501": "clarity_nt_char_2501"
     },
     "2502": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>スライムレースホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Slime Race Hall Entry"
     },
     "2503": {
         "天水の聖塔 出口": ""
@@ -7530,7 +7530,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ミノの間": "<%sW_MAP_NAME><%sW_DELIMITER>Mino's Room"
     },
     "2511": {
-        "ギアラの間 出口": ""
+        "ギアラの間 出口": "Giara Place Exit"
     },
     "2512": {
         "clarity_nt_char_2512": "clarity_nt_char_2512"
@@ -7542,7 +7542,7 @@
         "clarity_nt_char_2514": "clarity_nt_char_2514"
     },
     "2515": {
-        "ギアラの間 入口": ""
+        "ギアラの間 入口": "Giara Place Entry"
     },
     "2516": {
         "clarity_nt_char_2516": "clarity_nt_char_2516"
@@ -7617,7 +7617,7 @@
         "clarity_nt_char_2539": "clarity_nt_char_2539"
     },
     "2540": {
-        "ムストの町 入口": ""
+        "ムストの町 入口": "Town of Must Entry"
     },
     "2541": {
         "clarity_nt_char_2541": "clarity_nt_char_2541"
