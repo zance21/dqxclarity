@@ -2298,13 +2298,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>呻声の泉": ""
     },
     "767": {
-        "忘れられし王の間 入口": ""
+        "忘れられし王の間 入口": "Forgotten King's Room Entry"
     },
     "768": {
-        "砂だまりの間 入口": ""
+        "砂だまりの間 入口": "Inside Sand Pools Entry"
     },
     "769": {
-        "悪鬼の棲みか 入口": ""
+        "悪鬼の棲みか 入口": "Demon's Dwelling Entry"
     },
     "770": {
         "モガレの広間 入口": ""
@@ -2337,10 +2337,10 @@
         "clarity_nt_char_779": "clarity_nt_char_779"
     },
     "780": {
-        "忘れられし王の間 出口": ""
+        "忘れられし王の間 出口": "Forgotten King's Room Exit"
     },
     "781": {
-        "砂だまりの間 出口": ""
+        "砂だまりの間 出口": "Inside Sand Pools Exit"
     },
     "782": {
         "カルサドラの風穴 出口": "Wind Hole of Calsadora Exit"
@@ -2358,7 +2358,7 @@
         "流砂の隠れ家 出口": "Quicksand Lair Exit"
     },
     "787": {
-        "悪鬼の棲みか 出口": ""
+        "悪鬼の棲みか 出口": "Demon's Dwelling Exit"
     },
     "788": {
         "モガレの広間 出口": ""
@@ -9240,13 +9240,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>はざまの回廊": "<%sW_MAP_NAME><%sW_DELIMITER>Threshold Passage"
     },
     "3081": {
-        "古悪鬼の棲みか 出口": ""
+        "古悪鬼の棲みか 出口": "Old Demon's Dwelling Exit"
     },
     "3082": {
         "clarity_nt_char_3082": "clarity_nt_char_3082"
     },
     "3083": {
-        "古悪鬼の棲みか 入口": ""
+        "古悪鬼の棲みか 入口": "Old Demon's Dwelling Entry"
     },
     "3084": {
         "clarity_nt_char_3084": "clarity_nt_char_3084"
