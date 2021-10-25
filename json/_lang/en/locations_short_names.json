@@ -387,7 +387,7 @@
         "clarity_nt_char_129": "clarity_nt_char_129"
     },
     "130": {
-        "ラーディス王島への出口": ""
+        "ラーディス王島への出口": "Exit to King Ladis Island"
     },
     "131": {
         "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間 入口": ""
@@ -528,7 +528,7 @@
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "177": {
-        "秘密の部屋 出口": "Room of Secrets Exit"
+        "秘密の部屋 出口": "Secret Room Exit"
     },
     "178": {
         "clarity_nt_char_178": "clarity_nt_char_178"
@@ -1929,7 +1929,7 @@
         "clarity_nt_char_643": "clarity_nt_char_643"
     },
     "644": {
-        "グレゴールの洞くつ 入口": "Thaumaturge Cavern Entry"
+        "グレゴールの洞くつ 入口": "Gregor Cavern Entry"
     },
     "645": {
         "clarity_nt_char_645": "clarity_nt_char_645"
@@ -2034,7 +2034,7 @@
         "clarity_nt_char_678": "clarity_nt_char_678"
     },
     "679": {
-        "カムイラの穴 入口": "Kamira Hole Entry"
+        "カムイラの穴 入口": "Kamuira Hole Entry"
     },
     "680": {
         "カジノ": "Casino"
@@ -12033,10 +12033,10 @@
         "clarity_nt_char_4011": "clarity_nt_char_4011"
     },
     "4012": {
-        "秘密の小部屋 入口": ""
+        "秘密の小部屋 入口": "Secret Small Room Entry"
     },
     "4013": {
-        "秘密の小部屋 出口": ""
+        "秘密の小部屋 出口": "Secret Small Room Exit"
     },
     "4014": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ブルラトス 発着点": "<%sW_MAP_NAME><%sW_DELIMITER>Buratos' Landing Point"
