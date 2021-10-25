@@ -10617,19 +10617,19 @@
         "clarity_nt_char_3539": "clarity_nt_char_3539"
     },
     "3540": {
-        "採石場・最深部 入口": ""
+        "採石場・最深部 入口": "Quarry Deepest Level Entry"
     },
     "3541": {
         "clarity_nt_char_3541": "clarity_nt_char_3541"
     },
     "3542": {
-        "採石場・最深部 出口": ""
+        "採石場・最深部 出口": "Quarry Deepest Level Exit"
     },
     "3543": {
         "clarity_nt_char_3543": "clarity_nt_char_3543"
     },
     "3544": {
-        "ブラニック採石場 出口": ""
+        "ブラニック採石場 出口": "Branick Quarry Exit"
     },
     "3545": {
         "<%sW_MAP_NAME><%sW_DELIMITER>最深部": ""
@@ -10638,7 +10638,7 @@
         "clarity_nt_char_3546": "clarity_nt_char_3546"
     },
     "3547": {
-        "ブラニック採石場 入口": ""
+        "ブラニック採石場 入口": "Branick Quarry Entry"
     },
     "3548": {
         "<%sW_MAP_NAME><%sW_DELIMITER>宝物庫への通路": ""
@@ -10707,10 +10707,10 @@
         "clarity_nt_char_3569": "clarity_nt_char_3569"
     },
     "3570": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Alleyway Exit"
     },
     "3571": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>裏通り 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Alleyway Entry"
     },
     "3572": {
         "月明かりの家 入口": "Moonlit House Entry"
@@ -10722,13 +10722,13 @@
         "大甲虫の古巣 出口": ""
     },
     "3575": {
-        "真っ赤な洞くつ 出口": ""
+        "真っ赤な洞くつ 出口": "Bright Red Cave Exit"
     },
     "3576": {
         "clarity_nt_char_3576": "clarity_nt_char_3576"
     },
     "3577": {
-        "真っ赤な洞くつ 入口": ""
+        "真っ赤な洞くつ 入口": "Bright Red Cave Entry"
     },
     "3578": {
         "clarity_nt_char_3578": "clarity_nt_char_3578"
