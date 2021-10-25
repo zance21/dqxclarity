@@ -2055,7 +2055,7 @@
         "clarity_nt_char_685": "clarity_nt_char_685"
     },
     "686": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>娯楽島ラッカランへの出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>娯楽島ラッカランへの出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Luckland Island"
     },
     "687": {
         "メギストリスの都 入口": "City of Megistris Entry"
@@ -2139,7 +2139,7 @@
         "暗黒大樹のふもと 出口": "Foot of the Dark Tree Exit"
     },
     "714": {
-        "エルトナの聖地 出口": ""
+        "エルトナの聖地 出口": "Sanctuary of Eltona Exit"
     },
     "715": {
         "clarity_nt_char_715": "clarity_nt_char_715"
@@ -2580,10 +2580,10 @@
         "clarity_nt_char_860": "clarity_nt_char_860"
     },
     "861": {
-        "海獣の巣 入口": "S.Beast Nest Entry"
+        "海獣の巣 入口": "Marine Nest Entry"
     },
     "862": {
-        "海獣の巣 出口": "S.Beast Nest Exit"
+        "海獣の巣 出口": "Marine Nest Exit"
     },
     "863": {
         "静寂のほこら 出口": "Hollow of Silence Exit"
@@ -6564,7 +6564,7 @@
         "レンダーヒルズ地区": "Lender Hills District"
     },
     "2189": {
-        "娯楽島ラッカラン 入口": "Entrance to Luckland Island"
+        "娯楽島ラッカラン 入口": "Luckland Island Entry"
     },
     "2190": {
         "アラハギーロ王国": "Kingdom of Arahagiro"
