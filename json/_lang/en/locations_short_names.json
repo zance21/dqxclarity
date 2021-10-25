@@ -10212,7 +10212,7 @@
         "根源のほこら 出口": "Source Shrine Exit"
     },
     "3405": {
-        "魔選の儀礼場 出口": ""
+        "魔選の儀礼場 出口": "Ceremonial Hall Exit"
     },
     "3406": {
         "根源のほこら 入口": "Source Shrine Entry"
@@ -10221,13 +10221,13 @@
         "ジャディンの園への出口": "Exit to Jyadain Garden"
     },
     "3408": {
-        "魔選の儀礼場 入口": ""
+        "魔選の儀礼場 入口": "Ceremonial Hall Entry"
     },
     "3409": {
         "大審判の絶壁への道": ""
     },
     "3410": {
-        "ゴダ神殿への入口": ""
+        "ゴダ神殿への入口": "Entry to Goda Temple"
     },
     "3411": {
         "clarity_nt_char_3411": "clarity_nt_char_3411"
@@ -10275,7 +10275,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>魔選の儀礼場": "<%sW_MAP_NAME><%sW_DELIMITER>Ceremonial Hall"
     },
     "3426": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔選の儀礼場への通路": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔選の儀礼場への通路": "<%sW_MAP_NAME><%sW_DELIMITER>Passage to Ceremonial Hall"
     },
     "3427": {
         "<%sW_MAP_NAME><%sW_DELIMITER>謁見の間への通路": ""
@@ -10287,7 +10287,7 @@
         "月明かりの谷への道": "Road to Moonlit Valley"
     },
     "3430": {
-        "バルディスタ要塞 入口": ""
+        "バルディスタ要塞 入口": "Fortress Valdista Entry"
     },
     "3431": {
         "バルディスタ城 出口": "Valdista Castle Exit"
@@ -10296,7 +10296,7 @@
         "clarity_nt_char_3432": "clarity_nt_char_3432"
     },
     "3433": {
-        "バルディスタ要塞 出口": ""
+        "バルディスタ要塞 出口": "Fortress Valdista Exit"
     },
     "3434": {
         "バルディスタ城 入口": "Valdista Castle Entry"
