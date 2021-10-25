@@ -10533,13 +10533,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ベラストル家-大広間": "<%sW_MAP_NAME><%sW_DELIMITER>Belastre House - Great Hall"
     },
     "3512": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第３層・裏": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第３層・裏": "<%sW_MAP_NAME><%sW_DELIMITER>Demon Trials - Level 3 - Back"
     },
     "3513": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第２層・裏": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第２層・裏": "<%sW_MAP_NAME><%sW_DELIMITER>Demon Trials - Level 2 - Back"
     },
     "3514": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第１層・裏": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>魔の試練・第１層・裏": "<%sW_MAP_NAME><%sW_DELIMITER>Demon Trials - Level 1 - Back"
     },
     "3515": {
         "<%sW_MAP_NAME><%sW_DELIMITER>魔具庫": ""
@@ -10791,10 +10791,10 @@
         "審判の展望台 入口": "Trial Observatory Entry"
     },
     "3598": {
-        "魔の試練・第１層 出口": ""
+        "魔の試練・第１層 出口": "Demon Trials - Level 1 Exit"
     },
     "3599": {
-        "魔の試練・第１層 入口": ""
+        "魔の試練・第１層 入口": "Demon Trials - Level 1 Entry"
     },
     "3600": {
         "審判の展望台 出口": "Trial Observatory Exit"
