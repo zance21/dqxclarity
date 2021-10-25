@@ -183,7 +183,7 @@
         "このコーナーの誰かが　大当たり！<auto_bw=2500>|しかし　<pc>の|テンションは　上がらなかった…。<auto_bw=2500><close>": ""
     },
     "62": {
-        "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": ""
+        "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><br>|まわりの人の　テンションもアップした！<br>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！": "Nice hit!|<pc>'s tension got <%sCAS_tup_lv><br>|Nearby players also got a Tension Boost!<br>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!"
     },
     "63": {
         "大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|まわりの人の　テンションもアップした！<auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "Nice hit!|<pc>'s tension got <%sCAS_tup_lv><auto_br=2500>|Nearby players also got a Tension Boost!<auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
