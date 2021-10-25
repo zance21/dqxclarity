@@ -1224,7 +1224,7 @@
         "戒めの地 出口": "Caution Land Exit"
     },
     "409": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>厨房": "Kitchen"
+        "<%sW_MAP_NAME><%sW_DELIMITER>厨房": "<%sW_MAP_NAME>・Kitchen"
     },
     "410": {
         "<%sW_MAP_NAME><%sW_DELIMITER>訓練場": "<%sW_MAP_NAME><%sW_DELIMITER>Training"
