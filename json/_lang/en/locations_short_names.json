@@ -681,7 +681,7 @@
         "clarity_nt_char_227": "clarity_nt_char_227"
     },
     "228": {
-        "儀式の間 入口": ""
+        "儀式の間 入口": "Ritual Hall Entry"
     },
     "229": {
         "<%sW_MAP_NAME><%sW_DELIMITER>最上層": "<%sW_MAP_NAME><%sW_DELIMITER>Top Floor"
@@ -696,7 +696,7 @@
         "clarity_nt_char_232": "clarity_nt_char_232"
     },
     "233": {
-        "儀式の間 出口": ""
+        "儀式の間 出口": "Ritual Hall Exit"
     },
     "234": {
         "フォステイル広場 出口": "Fostail Square Exit"
@@ -738,13 +738,13 @@
         "ポポリアきのこ山への道": "Road to Popolia Mushroom Mtn."
     },
     "247": {
-        "オルッパ地下洞くつ 入口": ""
+        "オルッパ地下洞くつ 入口": "Orphea Underground Caves Entry"
     },
     "248": {
         "clarity_nt_char_248": "clarity_nt_char_248"
     },
     "249": {
-        "プーラのほら穴 入口": ""
+        "プーラのほら穴 入口": "Pura's Cave Entry"
     },
     "250": {
         "clarity_nt_char_250": "clarity_nt_char_250"
@@ -768,7 +768,7 @@
         "clarity_nt_char_256": "clarity_nt_char_256"
     },
     "257": {
-        "賢者の隠れ家 入口": ""
+        "賢者の隠れ家 入口": "Sage's Lair Entry"
     },
     "258": {
         "プクレット地方への道": "Road to Pukulet Region"
@@ -780,10 +780,10 @@
         "オルフェア地方東への道": "Road to Orphea Region East"
     },
     "261": {
-        "ポポラパの洞くつ 入口": ""
+        "ポポラパの洞くつ 入口": "Popolapa Cave Entry"
     },
     "262": {
-        "ペシュヤ地下空洞 入口": ""
+        "ペシュヤ地下空洞 入口": "Peshuya Underground Cave Entry"
     },
     "263": {
         "<%sW_MAP_NAME><%sW_DELIMITER>孤児院": "<%sW_MAP_NAME><%sW_DELIMITER>Orphanage"
@@ -2514,7 +2514,7 @@
         "ポポラパの最深部 出口": ""
     },
     "839": {
-        "プーラのほら穴 出口": ""
+        "プーラのほら穴 出口": "Pura's Cave Exit"
     },
     "840": {
         "clarity_nt_char_840": "clarity_nt_char_840"
