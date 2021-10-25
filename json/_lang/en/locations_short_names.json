@@ -930,7 +930,7 @@
         "静寂のほこら 入口": "Hollow of Silence Entry"
     },
     "311": {
-        "永遠の地下迷宮 入口": ""
+        "永遠の地下迷宮 入口": "Eternal Maze Entry"
     },
     "312": {
         "clarity_nt_char_312": "clarity_nt_char_312"
@@ -939,10 +939,10 @@
         "ヴァース山林地帯への道": "Road to Verse Mtn. Forest Area"
     },
     "314": {
-        "詩吟のほこら 入口": ""
+        "詩吟のほこら 入口": "Poetry Shrine Entry"
     },
     "315": {
-        "水環の間 入口": ""
+        "水環の間 入口": "W.Ring Room Entry"
     },
     "316": {
         "-": "-"
@@ -960,10 +960,10 @@
         "ザグバン丘陵への道": "Road to Zagban Hills"
     },
     "321": {
-        "戒めの地 入口": ""
+        "戒めの地 入口": "Caution Land Entry"
     },
     "322": {
-        "ザアグの洞門 入口": "Cave of Zaag Entrance"
+        "ザアグの洞門 入口": "Cave of Zaag Entry"
     },
     "323": {
         "ラニ大洞穴 入口": ""
@@ -1221,7 +1221,7 @@
         "clarity_nt_char_407": "clarity_nt_char_407"
     },
     "408": {
-        "戒めの地 出口": ""
+        "戒めの地 出口": "Caution Land Exit"
     },
     "409": {
         "<%sW_MAP_NAME><%sW_DELIMITER>厨房": "Kitchen"
@@ -2568,10 +2568,10 @@
         "無の空洞 出口": ""
     },
     "857": {
-        "水環の間 出口": ""
+        "水環の間 出口": "W.Ring Room Exit"
     },
     "858": {
-        "詩吟のほこら 出口": ""
+        "詩吟のほこら 出口": "Poetry Shrine Exit"
     },
     "859": {
         "心ふるえる場所 出口": ""
