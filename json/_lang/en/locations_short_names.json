@@ -858,7 +858,7 @@
         "clarity_nt_char_286": "clarity_nt_char_286"
     },
     "287": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室": "<%sW_MAP_NAME><%sW_DELIMITER>VIP Room"
     },
     "288": {
         "clarity_nt_char_288": "clarity_nt_char_288"
@@ -10920,13 +10920,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>地下への階段": "<%sW_MAP_NAME><%sW_DELIMITER>Basement Stairs"
     },
     "3641": {
-        "貴賓室 入口": ""
+        "貴賓室 入口": "VIP Room Entry"
     },
     "3642": {
         "clarity_nt_char_3642": "clarity_nt_char_3642"
     },
     "3643": {
-        "貴賓室 出口": ""
+        "貴賓室 出口": "VIP Room Exit"
     },
     "3644": {
         "clarity_nt_char_3644": "clarity_nt_char_3644"
@@ -11037,10 +11037,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ユシュカの部屋・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Yushka's Room Upper Level"
     },
     "3680": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室・下層": "<%sW_MAP_NAME><%sW_DELIMITER>VIP Room - Lower"
     },
     "3681": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>貴賓室・上層": "<%sW_MAP_NAME><%sW_DELIMITER>VIP Room - Upper"
     },
     "3682": {
         "血潮の浜辺への出口": "Exit to Bloody Beach"
