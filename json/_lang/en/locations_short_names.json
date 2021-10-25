@@ -3786,7 +3786,7 @@
         "町長の執務室 出口": "Mayor's Office Exit"
     },
     "1263": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>シガール町長の執務室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Mayor Sigal's Office Entrance"
+        "<%sW_MAP_NAME><%sW_DELIMITER>シガール町長の執務室 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Mayor Sigal's Office Entry"
     },
     "1264": {
         "clarity_nt_char_1264": "clarity_nt_char_1264"
@@ -3807,7 +3807,7 @@
         "clarity_nt_char_1269": "clarity_nt_char_1269"
     },
     "1270": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>ＶＩＰルーム 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>VIP Room Entry"
     },
     "1271": {
         "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 出口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall Exit"
@@ -3816,7 +3816,7 @@
         "clarity_nt_char_1272": "clarity_nt_char_1272"
     },
     "1273": {
-        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall Entrance"
+        "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>センターホール 入口": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Center Hall Entry"
     },
     "1274": {
         "clarity_nt_char_1274": "clarity_nt_char_1274"
