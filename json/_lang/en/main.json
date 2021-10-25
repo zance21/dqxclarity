@@ -12615,7 +12615,7 @@
         "clarity_nt_char_4205": "clarity_nt_char_4205"
     },
     "4206": {
-        "職業重複なし": ""
+        "職業重複なし": "Unique"
     },
     "4207": {
         "clarity_nt_char_4207": "clarity_nt_char_4207"
@@ -12630,7 +12630,7 @@
         "clarity_nt_char_4210": "clarity_nt_char_4210"
     },
     "4211": {
-        "<%sM_mon>　職業重複なし部門": "<%sM_mon> Undupl. occupation cat."
+        "<%sM_mon>　職業重複なし部門": "<%sM_mon> Unique Category"
     },
     "4212": {
         "clarity_nt_char_4212": "clarity_nt_char_4212"
@@ -26991,7 +26991,7 @@
         "他の災壇を見る": "View Other Platform"
     },
     "8998": {
-        "第<%sM_floor>の災壇　サポと1人で部門": ""
+        "第<%sM_floor>の災壇　サポと1人で部門": "Platform <%sM_floor>　Support Category"
     },
     "8999": {
         "clarity_nt_char_8999": "clarity_nt_char_8999"
@@ -27126,7 +27126,7 @@
         "<%sM_job> スキルふり直し": "<%sM_job> Skill Reassign"
     },
     "9043": {
-        "職業重複なし部門": ""
+        "職業重複なし部門": "Unique Category"
     },
     "9044": {
         "clarity_nt_char_9044": "clarity_nt_char_9044"
