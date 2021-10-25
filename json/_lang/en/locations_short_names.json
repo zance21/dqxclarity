@@ -9609,10 +9609,10 @@
         "宇宙船・立入禁止区画 入口": "Spacecraft - Restricted Area Entry"
     },
     "3204": {
-        "小型艇発着場 出口": ""
+        "小型艇発着場 出口": "Boat Landing Site Exit"
     },
     "3205": {
-        "小型艇発着場 入口": ""
+        "小型艇発着場 入口": "Boat Landing Site Entry"
     },
     "3206": {
         "アストルティア博物館 入口": "Astoltia Museum Entry"
@@ -9831,7 +9831,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>深度１６": ""
     },
     "3278": {
-        "小型艇発着場": "Small Landing Area"
+        "小型艇発着場": "Boat Landing Site"
     },
     "3279": {
         "clarity_nt_char_3279": "clarity_nt_char_3279"
