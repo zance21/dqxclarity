@@ -3642,7 +3642,7 @@
         "clarity_nt_char_1214": "clarity_nt_char_1214"
     },
     "1215": {
-        "ボロボロの指針書": "Tattered Time Guideline"
+        "ボロボロの指針書": "Tattered Guidebook"
     },
     "1216": {
         "clarity_nt_char_1216": "clarity_nt_char_1216"
@@ -11289,7 +11289,7 @@
         "<pc>は　カムシカを|そっと　なでてみた。|<br>|カムシカは　気持ちよさそうに|目を　つむっている。": ""
     },
     "3764": {
-        "<pc>は　ボロボロの指針書を|手に取って　開いてみようとした。|<br>|しかし　ひどく　いたんでおり|無理に開くと　本のページが|バラバラに　なってしまいそうだ……。": ""
+        "<pc>は　ボロボロの指針書を|手に取って　開いてみようとした。|<br>|しかし　ひどく　いたんでおり|無理に開くと　本のページが|バラバラに　なってしまいそうだ……。": "<pc> picked up the Tattered Guidebook and|tried opening it.|<br>|But the book is too damaged...if you try to|force it open, the pages will surely fall|apart..."
     },
     "3765": {
         "<pc>は　トキミタデの種子を|手に取って　ひと粒　なめてみた。|<br>|……クチの中が　やけに　ピリピリする！|軽々しく　食べるのは　やめておこう。": ""
@@ -13131,7 +13131,7 @@
         "clarity_nt_char_4377": "clarity_nt_char_4377"
     },
     "4378": {
-        "ボロボロのリボン": ""
+        "ボロボロのリボン": "Tattered Ribbon"
     },
     "4379": {
         "clarity_nt_char_4379": "clarity_nt_char_4379"
