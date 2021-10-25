@@ -9654,7 +9654,7 @@
         "パルミオの研究所 出口": "Palmio's Laboratory Exit"
     },
     "3219": {
-        "第二庁舎 出口": ""
+        "第二庁舎 出口": "Building 2 Exit"
     },
     "3220": {
         "<%sW_MAP_NAME><%sW_DELIMITER>内側": ""
@@ -9693,7 +9693,7 @@
         "上層へ": ""
     },
     "3232": {
-        "第二庁舎 入口": ""
+        "第二庁舎 入口": "Building 2 Entry"
     },
     "3233": {
         "<%sW_MAP_NAME><%sW_DELIMITER>高級宝飾店": ""
@@ -9921,10 +9921,10 @@
         "小型艇": "Tiny Boat"
     },
     "3308": {
-        "封鎖された研究室 出口": "Closed Laboratory Exit"
+        "封鎖された研究室 出口": "Sealed Laboratory Exit"
     },
     "3309": {
-        "封鎖された研究室 入口": "Closed Laboratory Entry"
+        "封鎖された研究室 入口": "Sealed Laboratory Entry"
     },
     "3310": {
         "ゴミ処理場 出口": "Garbage Plant Exit"
