@@ -9276,7 +9276,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>中央区域": "<%sW_MAP_NAME><%sW_DELIMITER>Central Zone"
     },
     "3093": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所": "<%sW_MAP_NAME><%sW_DELIMITER>Mgmt. Office"
     },
     "3094": {
         "clarity_nt_char_3094": "clarity_nt_char_3094"
@@ -9462,10 +9462,10 @@
         "clarity_nt_char_3154": "clarity_nt_char_3154"
     },
     "3155": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Mgmt. Office Exit"
     },
     "3156": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>管理事務所 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Mgmt. Office Entry"
     },
     "3157": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ガラクタ置き場": "<%sW_MAP_NAME><%sW_DELIMITER>Junk Storage"
@@ -9597,7 +9597,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>道具屋・レシピ屋": "<%sW_MAP_NAME><%sW_DELIMITER>Item/Recipe Shop"
     },
     "3200": {
-        "パルミオの研究所 入口": ""
+        "パルミオの研究所 入口": "Palmio's Laboratory Entry"
     },
     "3201": {
         "アストルティア博物館": "Astoltia Museum"
@@ -9651,7 +9651,7 @@
         "文字数オーバー": ""
     },
     "3218": {
-        "パルミオの研究所 出口": ""
+        "パルミオの研究所 出口": "Palmio's Laboratory Exit"
     },
     "3219": {
         "第二庁舎 出口": ""
