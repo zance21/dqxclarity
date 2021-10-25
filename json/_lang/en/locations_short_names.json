@@ -87,7 +87,7 @@
         "ガタラ原野への出口": "Exit to Gatara Fields"
     },
     "30": {
-        "亡都の地下堂 入口": ""
+        "亡都の地下堂 入口": "Lost City Underg. Entry"
     },
     "31": {
         "<%sW_MAP_NAME><%sW_DELIMITER>紋章前": "<%sW_MAP_NAME><%sW_DELIMITER>Crest"
@@ -102,7 +102,7 @@
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "35": {
-        "亡都の広間 入口": ""
+        "亡都の広間 入口": "L. City Square Entry"
     },
     "36": {
         "clarity_nt_char_36": "clarity_nt_char_36"
@@ -216,7 +216,7 @@
         "流砂の隠れ家 入口": "Quicksand Lair Entry"
     },
     "73": {
-        "熱砂洞 入口": ""
+        "熱砂洞 入口": "Sand Cave Entry"
     },
     "74": {
         "clarity_nt_char_74": "clarity_nt_char_74"
@@ -225,7 +225,7 @@
         "ゴブル砂漠西への道": "Road to Goble Desert West"
     },
     "76": {
-        "カルサドラ火山 入口": ""
+        "カルサドラ火山 入口": "Calsadora Volcano Entry"
     },
     "77": {
         "clarity_nt_char_77": "clarity_nt_char_77"
@@ -2349,7 +2349,7 @@
         "カルサドラ大空洞 出口": ""
     },
     "784": {
-        "熱砂洞 出口": ""
+        "熱砂洞 出口": "Sand Cave Exit"
     },
     "785": {
         "clarity_nt_char_785": "clarity_nt_char_785"
@@ -2370,7 +2370,7 @@
         "clarity_nt_char_790": "clarity_nt_char_790"
     },
     "791": {
-        "亡都の広間 出口": ""
+        "亡都の広間 出口": "L. City Square Exit"
     },
     "792": {
         "clarity_nt_char_792": "clarity_nt_char_792"
@@ -2670,7 +2670,7 @@
         "clarity_nt_char_890": "clarity_nt_char_890"
     },
     "891": {
-        "亡都の地下堂 出口": ""
+        "亡都の地下堂 出口": "Lost City Underg. Exit"
     },
     "892": {
         "<%sW_MAP_NAME><%sW_DELIMITER>素材屋・道具屋": "<%sW_MAP_NAME><%sW_DELIMITER>Mat. Shop/Item Shop"
