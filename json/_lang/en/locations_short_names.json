@@ -3849,7 +3849,7 @@
         "clarity_nt_char_1283": "clarity_nt_char_1283"
     },
     "1284": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間 出口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Inherit Hall Exit"
     },
     "1285": {
         "clarity_nt_char_1285": "clarity_nt_char_1285"
@@ -3858,7 +3858,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>選択の間": ""
     },
     "1287": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間": "<%sW_MAP_NAME><%sW_DELIMITER>Inherit Hall"
     },
     "1288": {
         "王者の座 出口": ""
@@ -3903,7 +3903,7 @@
         "clarity_nt_char_1301": "clarity_nt_char_1301"
     },
     "1302": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>継承の間 入口": "<%sW_MAP_NAME><%sW_DELIMITER>Inherit Hall Entry"
     },
     "1303": {
         "clarity_nt_char_1303": "clarity_nt_char_1303"
@@ -8862,7 +8862,7 @@
         "clarity_nt_char_2954": "clarity_nt_char_2954"
     },
     "2955": {
-        "継承の間 入口": ""
+        "継承の間 入口": "Inherit Hall Entry"
     },
     "2956": {
         "神儀の護堂 出口": ""
@@ -8871,7 +8871,7 @@
         "clarity_nt_char_2957": "clarity_nt_char_2957"
     },
     "2958": {
-        "継承の間 出口": ""
+        "継承の間 出口": "Inherit Hall Exit"
     },
     "2959": {
         "鍛竜の洞 出口": ""
