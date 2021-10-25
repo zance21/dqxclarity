@@ -5679,7 +5679,7 @@
         "<speed=0>|「<%sM_myset2>」というコーデ名で|登録しますか？|<yesno><close>": "<speed=0>|Register this glamour with the name|\"<%sM_myset2>\"?|<yesno><close>"
     },
     "1894": {
-        "<speed=0>|レンタル期限が切れたので|このレンタル衣装を　着ることはできません！": ""
+        "<speed=0>|レンタル期限が切れたので|このレンタル衣装を　着ることはできません！": "<speed=0>|This rental costume's rental period has|expired and can no longer be worn!"
     },
     "1895": {
         "clarity_nt_char_1895": "clarity_nt_char_1895"
@@ -9735,7 +9735,7 @@
         "<speed=0>|★マーク以外の装備で　登録を進めると|★マークの装備は　登録が解除されるので|ご注意ください。": "<speed=0>|Please note that if you register a new|equipment appearance, the ★ marked equipment|appearance will be overwritten."
     },
     "3246": {
-        "<speed=0>|レンタル衣装を着ていると　編集ができません！|一度　レンタル衣装を脱いでから|編集を選択してください。": ""
+        "<speed=0>|レンタル衣装を着ていると　編集ができません！|一度　レンタル衣装を脱いでから|編集を選択してください。": "<speed=0>|You cannot edit a glamour while wearing a|rental costume! Please remove it before trying|again."
     },
     "3247": {
         "<speed=0>|チームユニフォームを着ていると　編集が|できません！　一度　チームユニフォームを|脱いでから　編集を選択してください。": ""
