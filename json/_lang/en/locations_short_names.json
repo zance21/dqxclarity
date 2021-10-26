@@ -3354,10 +3354,10 @@
         "clarity_nt_char_1118": "clarity_nt_char_1118"
     },
     "1119": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-武器庫": "<%sW_MAP_NAME><%sW_DELIMITER>Armory 2F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-武器庫": "<%sW_MAP_NAME> 2F - Armory"
     },
     "1120": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-厨房": "2F Kitchen"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-厨房": "<%sW_MAP_NAME> 2F - Kitchen"
     },
     "1121": {
         "clarity_nt_char_1121": "clarity_nt_char_1121"
@@ -7236,7 +7236,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-美術室": ""
     },
     "2413": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-図書室": "<%sW_MAP_NAME><%sW_DELIMITER>2F Library"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-図書室": "<%sW_MAP_NAME> 2F - Library"
     },
     "2414": {
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-学園長室": ""
