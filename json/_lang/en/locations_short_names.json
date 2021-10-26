@@ -3324,7 +3324,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-救護室": "<%sW_MAP_NAME><%sW_DELIMITER>2F-Medical Room"
     },
     "1109": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階-客室": "3F Guest Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階-客室": "<%sW_MAP_NAME> 3F - Guest Room"
     },
     "1110": {
         "clarity_nt_char_1110": "clarity_nt_char_1110"
