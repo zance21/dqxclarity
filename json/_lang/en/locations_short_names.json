@@ -7980,7 +7980,7 @@
         "clarity_nt_char_2660": "clarity_nt_char_2660"
     },
     "2661": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階・通路": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階・通路": "<%sW_MAP_NAME> 3F - Passage"
     },
     "2662": {
         "clarity_nt_char_2662": "clarity_nt_char_2662"
@@ -10335,7 +10335,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>ガニャポン屋": "%sW_MAP_NAME><%sW_DELIMITER>Ganyapon Shop"
     },
     "3446": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>通路": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>通路": "<%sW_MAP_NAME> Passage"
     },
     "3447": {
         "<%sW_MYTOWN_NAME>(<%sW_MYTOWN_TOWN_ID>)": ""
