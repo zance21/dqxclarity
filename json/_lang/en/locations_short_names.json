@@ -327,7 +327,7 @@
         "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "110": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>防砂ダム": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>防砂ダム": "<%sW_MAP_NAME><%sW_DELIMITER>Sand Dam"
     },
     "111": {
         "<%sW_MAP_NAME><%sW_DELIMITER>ガラクタ城": "<%sW_MAP_NAME><%sW_DELIMITER>Junk Castle"
@@ -390,13 +390,13 @@
         "ラーディス王島への出口": "Exit to King Ladis Island"
     },
     "131": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間 入口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間 入口": "<%sW_MAP_NAME>Tuning Fork Room Entry"
     },
     "132": {
         "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "133": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間": "<%sW_MAP_NAME>Tuning Fork Room"
     },
     "134": {
         "<%sW_MAP_NAME><%sW_DELIMITER>倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>Supply"
