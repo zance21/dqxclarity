@@ -6525,13 +6525,13 @@
         "clarity_nt_char_2175": "clarity_nt_char_2175"
     },
     "2176": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 1 - Lower"
     },
     "2177": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 1 - Upper"
     },
     "2178": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・中層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第１層・中層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 1 - Middle"
     },
     "2179": {
         "<%sW_MAP_NAME><%sW_DELIMITER>第５層・下層": ""
@@ -6543,19 +6543,19 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第４層・下層": ""
     },
     "2182": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第４層・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第４層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 4 - Upper"
     },
     "2183": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第３層・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第３層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 3 - Lower"
     },
     "2184": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第３層・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第３層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 3 - Upper"
     },
     "2185": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Lower"
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 2 - Lower"
     },
     "2186": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Upper"
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 2 - Upper"
     },
     "2187": {
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Lender Hills District"
