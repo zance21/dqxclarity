@@ -10320,13 +10320,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>花畑": ""
     },
     "3441": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>頂上への道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>頂上への道": "<%sW_MAP_NAME><%sW_DELIMITER>Path to Peak"
     },
     "3442": {
         "clarity_nt_char_3442": "clarity_nt_char_3442"
     },
     "3443": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>中腹への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Middle"
+        "<%sW_MAP_NAME><%sW_DELIMITER>中腹への道": "<%sW_MAP_NAME><%sW_DELIMITER>Path to Halfway"
     },
     "3444": {
         "clarity_nt_char_3444": "clarity_nt_char_3444"
@@ -10776,13 +10776,13 @@
         "知の試練・第３層 入口": "Wisdom Trials - Level 3 Entry"
     },
     "3593": {
-        "中腹への道　入口": "Road to Middle Entry"
+        "中腹への道　入口": "Path to Halfway Entry"
     },
     "3594": {
         "clarity_nt_char_3594": "clarity_nt_char_3594"
     },
     "3595": {
-        "中腹への道　出口": "Road to Middle Exit"
+        "中腹への道　出口": "Path to Halfway Exit"
     },
     "3596": {
         "clarity_nt_char_3596": "clarity_nt_char_3596"
