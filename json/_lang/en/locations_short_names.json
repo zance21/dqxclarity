@@ -3336,7 +3336,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-研究室": "<%sW_MAP_NAME> 2F - Lab"
     },
     "1113": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階-会議室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階-会議室": "<%sW_MAP_NAME> 3F - Meeting Room"
     },
     "1114": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-宝物庫": ""
@@ -4437,7 +4437,7 @@
         "clarity_nt_char_1479": "clarity_nt_char_1479"
     },
     "1480": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>秘密会議室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>秘密会議室": "<%sW_MAP_NAME> Secret Meeting Room"
     },
     "1481": {
         "clarity_nt_char_1481": "clarity_nt_char_1481"
