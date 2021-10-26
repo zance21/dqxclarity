@@ -5997,7 +5997,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第２層-庭園": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Garden"
     },
     "2000": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-墓地": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層-墓地": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Graves"
     },
     "2001": {
         "休息の地": ""
@@ -6552,10 +6552,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第３層・上層": ""
     },
     "2185": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Lower"
     },
     "2186": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第２層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>2nd Level-Upper"
     },
     "2187": {
         "<%nW_INSTANCE_NO>丁目<%sW_DELIMITER>レンダーヒルズ地区": "Block <%dW_INSTANCE_NO><%sW_DELIMITER>Lender Hills District"
