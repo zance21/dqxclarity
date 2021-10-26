@@ -21,34 +21,34 @@
         "ザグビナ遺構 入口": "Zagbina Remains Entry"
     },
     "8": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階": "<%sW_MAP_NAME><%sW_DELIMITER>1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階": "<%sW_MAP_NAME> 1F"
     },
     "9": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階": "<%sW_MAP_NAME><%sW_DELIMITER>2F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階": "<%sW_MAP_NAME> 2F"
     },
     "10": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>３階": "<%sW_MAP_NAME><%sW_DELIMITER>3F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>３階": "<%sW_MAP_NAME> 3F"
     },
     "11": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>４階": "<%sW_MAP_NAME><%sW_DELIMITER>4F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>４階": "<%sW_MAP_NAME> 4F"
     },
     "12": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>５階": "<%sW_MAP_NAME><%sW_DELIMITER>5F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>５階": "<%sW_MAP_NAME> 5F"
     },
     "13": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>６階": "<%sW_MAP_NAME><%sW_DELIMITER>6F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>６階": "<%sW_MAP_NAME> 6F"
     },
     "14": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>７階": "<%sW_MAP_NAME><%sW_DELIMITER>7F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>７階": "<%sW_MAP_NAME> 7F"
     },
     "15": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>B1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下１階": "<%sW_MAP_NAME> B1F"
     },
     "16": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下２階": "<%sW_MAP_NAME><%sW_DELIMITER>B2F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下２階": "<%sW_MAP_NAME> B2F"
     },
     "17": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下３階": "<%sW_MAP_NAME><%sW_DELIMITER>B3F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下３階": "<%sW_MAP_NAME> B3F"
     },
     "18": {
         "<%sW_MAP_NAME><%sW_DELIMITER>中層": "<%sW_MAP_NAME><%sW_DELIMITER>Middle"
@@ -1089,7 +1089,7 @@
         "clarity_nt_char_363": "clarity_nt_char_363"
     },
     "364": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下４階": "<%sW_MAP_NAME><%sW_DELIMITER>B4F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下４階": "<%sW_MAP_NAME> B4F"
     },
     "365": {
         "<%sW_MAP_NAME><%sW_DELIMITER>": "<%sW_MAP_NAME><%sW_DELIMITER>"
@@ -3651,10 +3651,10 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>地上への出口": "<%sW_MAP_NAME><%sW_DELIMITER>Exit to Above"
     },
     "1218": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下５階": "<%sW_MAP_NAME><%sW_DELIMITER>B5F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下５階": "<%sW_MAP_NAME> B5F"
     },
     "1219": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下６階": "<%sW_MAP_NAME><%sW_DELIMITER>B6F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下６階": "<%sW_MAP_NAME> B6F"
     },
     "1220": {
         "<%sW_MAP_NAME><%sW_DELIMITER>地下７階": "<%sW_MAP_NAME><%sW_DELIMITER>B7F"
