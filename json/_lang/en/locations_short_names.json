@@ -5064,10 +5064,10 @@
         "<%sW_MAP_NAME><%nW_INSTANCE_NO><%sW_DELIMITER>３階-カジノテラス": "<%sW_MAP_NAME><%dW_INSTANCE_NO><%sW_DELIMITER>Casino Terrace 3F"
     },
     "1689": {
-        "王家の宝物庫 入口": "Royal Treasure H. Entry"
+        "王家の宝物庫 入口": "Royal Treasury Entry"
     },
     "1690": {
-        "王家の宝物庫 出口": "Royal Treasure H. Exit"
+        "王家の宝物庫 出口": "Royal Treasury Exit"
     },
     "1691": {
         "弔いの間 出口": "Burial Room Exit"
@@ -9069,7 +9069,7 @@
         "clarity_nt_char_3023": "clarity_nt_char_3023"
     },
     "3024": {
-        "秘密の宝物庫 出口": ""
+        "秘密の宝物庫 出口": "Secret Treasury Exit"
     },
     "3025": {
         "不死の魔王の間 入口": "Demon King Hall Entry"
@@ -10563,7 +10563,7 @@
         "ゼクレス城・地下 入口": "Zechres Castle - Below Entry"
     },
     "3522": {
-        "ゼクレス城・宝物庫 出口": "Zechres Castle - Treasure Exit"
+        "ゼクレス城・宝物庫 出口": "Zechres Castle - Treasury Exit"
     },
     "3523": {
         "clarity_nt_char_3523": "clarity_nt_char_3523"
