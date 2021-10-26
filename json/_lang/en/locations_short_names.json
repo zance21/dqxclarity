@@ -399,7 +399,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>音叉の間": "<%sW_MAP_NAME> Tuning Fork Room"
     },
     "134": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>Supply"
+        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫": "<%sW_MAP_NAME> Warehouse"
     },
     "135": {
         "<%sW_MAP_NAME><%sW_DELIMITER>兵士詰所": "<%sW_MAP_NAME> Soldier's Guardroom"
@@ -3585,7 +3585,7 @@
         "clarity_nt_char_1195": "clarity_nt_char_1195"
     },
     "1196": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-倉庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-倉庫": "<%sW_MAP_NAME> 1F - Warehouse"
     },
     "1197": {
         "clarity_nt_char_1197": "clarity_nt_char_1197"
@@ -3612,7 +3612,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-特等室": ""
     },
     "1205": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-倉庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-倉庫": "<%sW_MAP_NAME> 2F - Warehouse"
     },
     "1206": {
         "clarity_nt_char_1206": "clarity_nt_char_1206"
@@ -5250,7 +5250,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間・前室": "Unseen Room Chamber"
     },
     "1751": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "<%sW_MAP_NAME><%sW_DELIMITER>Storage"
+        "<%sW_MAP_NAME><%sW_DELIMITER>地下倉庫": "<%sW_MAP_NAME> Basement Warehouse"
     },
     "1752": {
         "<%sW_MAP_NAME><%sW_DELIMITER>開かずの間": "Unseen Room"
@@ -8166,10 +8166,10 @@
         "clarity_nt_char_2722": "clarity_nt_char_2722"
     },
     "2723": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第一倉庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第一倉庫": "<%sW_MAP_NAME> First Warehouse"
     },
     "2724": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第二倉庫": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第二倉庫": "<%sW_MAP_NAME> Second Warehouse"
     },
     "2725": {
         "キュララナ海岸": "Kyurarana Coast"
@@ -10848,13 +10848,13 @@
         "clarity_nt_char_3616": "clarity_nt_char_3616"
     },
     "3617": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫内": "<%sW_MAP_NAME><%sW_DELIMITER>Supply"
+        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫内": "<%sW_MAP_NAME> Warehouse"
     },
     "3618": {
         "clarity_nt_char_3618": "clarity_nt_char_3618"
     },
     "3619": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫前": "<%sW_MAP_NAME><%sW_DELIMITER>Supply"
+        "<%sW_MAP_NAME><%sW_DELIMITER>倉庫前": "<%sW_MAP_NAME> Warehouse"
     },
     "3620": {
         "clarity_nt_char_3620": "clarity_nt_char_3620"
