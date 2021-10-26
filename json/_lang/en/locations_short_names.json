@@ -6534,13 +6534,13 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>第１層・中層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 1 - Middle"
     },
     "2179": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第５層・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第５層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 5 - Lower"
     },
     "2180": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第５層・上層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第５層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 5 - Upper"
     },
     "2181": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第４層・下層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第４層・下層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 4 - Lower"
     },
     "2182": {
         "<%sW_MAP_NAME><%sW_DELIMITER>第４層・上層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 4 - Upper"
@@ -8052,19 +8052,19 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>始まりの理知": ""
     },
     "2685": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第一層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第一層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 1"
     },
     "2686": {
         "clarity_nt_char_2686": "clarity_nt_char_2686"
     },
     "2687": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第二層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第二層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 2"
     },
     "2688": {
         "clarity_nt_char_2688": "clarity_nt_char_2688"
     },
     "2689": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>第三層": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>第三層": "<%sW_MAP_NAME><%sW_DELIMITER>Layer 3"
     },
     "2690": {
         "clarity_nt_char_2690": "clarity_nt_char_2690"
