@@ -7104,7 +7104,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>家庭科室": ""
     },
     "2369": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>職員室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>職員室": "<%sW_MAP_NAME> Staff Room"
     },
     "2370": {
         "clarity_nt_char_2370": "clarity_nt_char_2370"
@@ -7245,7 +7245,7 @@
         "clarity_nt_char_2415": "clarity_nt_char_2415"
     },
     "2416": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-職員室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-職員室": "<%sW_MAP_NAME> 1F - Staff Room"
     },
     "2417": {
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-保健室": ""
