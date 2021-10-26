@@ -3591,7 +3591,7 @@
         "clarity_nt_char_1197": "clarity_nt_char_1197"
     },
     "1198": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>１階-二等室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>１階-二等室": "<%sW_MAP_NAME> 1F - 2nd Class Room"
     },
     "1199": {
         "<%sW_MAP_NAME><%sW_DELIMITER>１階-道具屋": ""
@@ -3609,7 +3609,7 @@
         "clarity_nt_char_1203": "clarity_nt_char_1203"
     },
     "1204": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-特等室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-特等室": "<%sW_MAP_NAME> 2F - Special Class Room"
     },
     "1205": {
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-倉庫": "<%sW_MAP_NAME> 2F - Warehouse"
@@ -3630,7 +3630,7 @@
         "clarity_nt_char_1210": "clarity_nt_char_1210"
     },
     "1211": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-一等室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-一等室": "<%sW_MAP_NAME> 2F - 1st Class Room"
     },
     "1212": {
         "<%sW_MAP_NAME><%sW_DELIMITER>甲板": "<%sW_MAP_NAME><%sW_DELIMITER>Deck"
