@@ -96,13 +96,13 @@
         "送信エラー！<%sM_speaker>「<%sM_chat>」": ""
     },
     "33": {
-        "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Send Error! Offline: <%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
     },
     "34": {
         "clarity_nt_char_34": "clarity_nt_char_34"
     },
     "35": {
-        "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
+        "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Send Error! Offline: <%sM_speaker> \"<%sM_chat>...\" ＞ <%sM_listener>"
     },
     "36": {
         "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>」": ""
@@ -111,7 +111,7 @@
         "clarity_nt_char_37": "clarity_nt_char_37"
     },
     "38": {
-        "送信エラー！対象オフ": "Send Error! Recipient Offline"
+        "送信エラー！対象オフ": "Send Error! Offline"
     },
     "39": {
         "clarity_nt_char_39": "clarity_nt_char_39"
