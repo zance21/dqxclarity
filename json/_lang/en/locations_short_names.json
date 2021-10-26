@@ -1140,7 +1140,7 @@
         "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "381": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>休憩室": "<%sW_MAP_NAME><%sW_DELIMITER>Restrooms"
+        "<%sW_MAP_NAME><%sW_DELIMITER>休憩室": "<%sW_MAP_NAME> Break Room"
     },
     "382": {
         "clarity_nt_char_382": "clarity_nt_char_382"
@@ -3318,7 +3318,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>３階-作戦室": "<%sW_MAP_NAME> 3F - War Room"
     },
     "1107": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>２階-休憩室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>２階-休憩室": "<%sW_MAP_NAME> 2F - Break Room"
     },
     "1108": {
         "<%sW_MAP_NAME><%sW_DELIMITER>２階-救護室": "<%sW_MAP_NAME> 2F - Medical Room"
