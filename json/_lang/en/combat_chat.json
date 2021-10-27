@@ -4509,7 +4509,7 @@
         "<%sB_ACTOR>は 神速の空間を作り出した！": "<%sB_ACTOR> created a Godspeed Space!"
     },
     "1504": {
-        "<%sB_ACTOR>から <%sB_TARGET>に ハロイーネ！": ""
+        "<%sB_ACTOR>から <%sB_TARGET>に ハロイーネ！": "Hello-ween from <%sB_ACTOR> to <%sB_TARGET>!"
     },
     "1505": {
         "clarity_nt_char_1505": "clarity_nt_char_1505"
@@ -18963,7 +18963,7 @@
         "clarity_nt_char_6321": "clarity_nt_char_6321"
     },
     "6322": {
-        "ハロイーネ": "Haloine"
+        "ハロイーネ": "Hello-ween"
     },
     "6323": {
         "飛びあがる": ""
