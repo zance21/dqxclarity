@@ -10332,7 +10332,7 @@
         "clarity_nt_char_3444": "clarity_nt_char_3444"
     },
     "3445": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ガニャポン屋": "%sW_MAP_NAME><%sW_DELIMITER>Ganyapon Shop"
+        "<%sW_MAP_NAME><%sW_DELIMITER>ガニャポン屋": "<%sW_MAP_NAME><%sW_DELIMITER>Ganyapon Shop"
     },
     "3446": {
         "<%sW_MAP_NAME><%sW_DELIMITER>通路": "<%sW_MAP_NAME> Passage"
@@ -11241,7 +11241,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>東翼": "<%sW_MAP_NAME><%sW_DELIMITER>E Wing"
     },
     "3748": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>控室": "Waiting Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>控室": "<%sW_MAP_NAME> Waiting Room"
     },
     "3749": {
         "玉座の間": "Throne Room"
