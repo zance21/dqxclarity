@@ -18423,7 +18423,7 @@
         "<%sBT_STORY_NAME>の|『<%sBT_AREA_NAME>』へ進みます。|よろしいですか？|<yesno><close>": "Go to <%sBT_STORY_NAME>'s|\"<%sBT_AREA_NAME>\". Are you sure?|<yesno><close>"
     },
     "6142": {
-        "手に入れたスキルノート": "Received Skill Notes"
+        "手に入れたスキルノート": "Received Skill Book"
     },
     "6143": {
         "おぼえるスキル": "Learn Skills"
@@ -20556,7 +20556,7 @@
         "clarity_nt_char_6852": "clarity_nt_char_6852"
     },
     "6853": {
-        "スキルノートをわたす": ""
+        "スキルノートをわたす": "Hand over skill book"
     },
     "6854": {
         "clarity_nt_char_6854": "clarity_nt_char_6854"
