@@ -5223,16 +5223,16 @@
         "clarity_nt_char_1741": "clarity_nt_char_1741"
     },
     "1742": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>浴室": "Bathroom"
+        "<%sW_MAP_NAME><%sW_DELIMITER>浴室": "<%sW_MAP_NAME> Bathroom"
     },
     "1743": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>大広間": "Great Hall"
+        "<%sW_MAP_NAME><%sW_DELIMITER>大広間": "<%sW_MAP_NAME> Great Hall"
     },
     "1744": {
         "clarity_nt_char_1744": "clarity_nt_char_1744"
     },
     "1745": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>空き部屋": "Vacant Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>空き部屋": "<%sW_MAP_NAME><%sW_DELIMITER>Vacant Room"
     },
     "1746": {
         "<%sW_MAP_NAME><%sW_DELIMITER>書斎": "Study"
