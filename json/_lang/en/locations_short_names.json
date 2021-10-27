@@ -4023,7 +4023,7 @@
         "海賊船": "PirateShp"
     },
     "1342": {
-        "<%sW_MAP_NAME>（<%sW_OMOIDE>）": ""
+        "<%sW_MAP_NAME>（<%sW_OMOIDE>）": "<%sW_MAP_NAME>（<%sW_OMOIDE>）"
     },
     "1343": {
         "clarity_nt_char_1343": "clarity_nt_char_1343"
@@ -4092,10 +4092,10 @@
         "C": "C"
     },
     "1365": {
-        "B": ""
+        "B": "B"
     },
     "1366": {
-        "A": ""
+        "A": "A"
     },
     "1367": {
         "ロヴォス高地への道": "Road to Rovos Highlands"
