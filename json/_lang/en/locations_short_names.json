@@ -8157,10 +8157,10 @@
         "精霊の間 出口": "Spirit Hall Exit"
     },
     "2720": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>吊るし拷問室": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>吊るし拷問室": "<%sW_MAP_NAME> Hanging Torture Chamber"
     },
     "2721": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>くしざし拷問室": "<%sW_MAP_NAME><%sW_DELIMITER>Torture Room"
+        "<%sW_MAP_NAME><%sW_DELIMITER>くしざし拷問室": "<%sW_MAP_NAME> Impaling Torture Chamber"
     },
     "2722": {
         "clarity_nt_char_2722": "clarity_nt_char_2722"
