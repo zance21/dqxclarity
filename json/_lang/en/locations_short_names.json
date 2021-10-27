@@ -8415,7 +8415,7 @@
         "clarity_nt_char_2805": "clarity_nt_char_2805"
     },
     "2806": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟": "<%sW_MAP_NAME> Manufacturing Building"
     },
     "2807": {
         "clarity_nt_char_2807": "clarity_nt_char_2807"
@@ -8499,10 +8499,10 @@
         "灯台のアジト 出口": "Lighthouse HQ Exit"
     },
     "2834": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-地下１階": "<%sW_MAP_NAME><%sW_DELIMITER>Mfg. Bldg B1F"
+        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-地下１階": "<%sW_MAP_NAME> Manufacturing Building - B1F"
     },
     "2835": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-１階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>生産棟-１階": "<%sW_MAP_NAME> Manufacturing Building - 1F"
     },
     "2836": {
         "<%sW_MAP_NAME><%sW_DELIMITER>研究棟-地下２階": "<%sW_MAP_NAME> Research Building - B2F"
