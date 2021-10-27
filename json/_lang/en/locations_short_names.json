@@ -8877,7 +8877,7 @@
         "鍛竜の洞 出口": "Forge D Cave Exit"
     },
     "2960": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>滅びの城門": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>滅びの城門": "<%sW_MAP_NAME><%sW_DELIMITER>Destroyed Gate"
     },
     "2961": {
         "clarity_nt_char_2961": "clarity_nt_char_2961"
@@ -8898,10 +8898,10 @@
         "clarity_nt_char_2966": "clarity_nt_char_2966"
     },
     "2967": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>死闘の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>死闘の間": "<%sW_MAP_NAME><%sW_DELIMITER>Death Room"
     },
     "2968": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>絶命の扉": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>絶命の扉": "<%sW_MAP_NAME><%sW_DELIMITER>Death Door"
     },
     "2969": {
         "鍛竜の洞": "Forge D Cave"
