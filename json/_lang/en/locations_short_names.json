@@ -9735,7 +9735,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>回復の泉": "<%sW_MAP_NAME><%sW_DELIMITER>Recov. Fntn"
     },
     "3246": {
-        "マイタウンID：<%04dW_FST_ID>－<%04dW_SEC_ID>": ""
+        "マイタウンID：<%04dW_FST_ID>－<%04dW_SEC_ID>": "My Town ID: <%04dW_FST_ID> - <%04dW_SEC_ID>"
     },
     "3247": {
         "<%sW_MAP_NAME><%sW_DELIMITER>３号観測小屋": "<%sW_MAP_NAME><%sW_DELIMITER>Observation Hut 3"
