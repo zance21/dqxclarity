@@ -11433,19 +11433,19 @@
         "石碑の間 出口": "Rock Epitaph Exit"
     },
     "3812": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>心層楼閣への道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>心層楼閣への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Mind Tower"
     },
     "3813": {
         "clarity_nt_char_3813": "clarity_nt_char_3813"
     },
     "3814": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>心層伽藍への道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>心層伽藍への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Mind Temple"
     },
     "3815": {
         "clarity_nt_char_3815": "clarity_nt_char_3815"
     },
     "3816": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>心層拝堂への道": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>心層拝堂への道": "<%sW_MAP_NAME><%sW_DELIMITER>Road to Mind Chapel"
     },
     "3817": {
         "clarity_nt_char_3817": "clarity_nt_char_3817"
@@ -11484,10 +11484,10 @@
         "哀惜の砂漠": "Sorrow Desert"
     },
     "3829": {
-        "心層楼閣<%sW_LV><%nW_AUTODUNG_LV>": ""
+        "心層楼閣<%sW_LV><%nW_AUTODUNG_LV>": "Mind Tower<%sW_LV><%nW_AUTODUNG_LV>"
     },
     "3830": {
-        "心層伽藍<%sW_LV><%nW_AUTODUNG_LV>": ""
+        "心層伽藍<%sW_LV><%nW_AUTODUNG_LV>": "Mind Temple<%sW_LV><%nW_AUTODUNG_LV>"
     },
     "3831": {
         "心層伽藍": "Mind Temple"
@@ -11496,7 +11496,7 @@
         "clarity_nt_char_3832": "clarity_nt_char_3832"
     },
     "3833": {
-        "心層拝堂<%sW_LV><%nW_AUTODUNG_LV>": ""
+        "心層拝堂<%sW_LV><%nW_AUTODUNG_LV>": "Mind Chapel<%sW_LV><%nW_AUTODUNG_LV>"
     },
     "3834": {
         "心層拝堂": "Mind Chapel"
