@@ -9648,7 +9648,7 @@
         "clarity_nt_char_3216": "clarity_nt_char_3216"
     },
     "3217": {
-        "文字数オーバー": ""
+        "文字数オーバー": "# of letters exceeded"
     },
     "3218": {
         "パルミオの研究所 出口": "Palmio's Laboratory Exit"
@@ -9657,10 +9657,10 @@
         "第二庁舎 出口": "Building 2 Exit"
     },
     "3220": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>内側": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>内側": "<%sW_MAP_NAME><%sW_DELIMITER>Inner"
     },
     "3221": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>外側": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>外側": "<%sW_MAP_NAME><%sW_DELIMITER>Outer"
     },
     "3222": {
         "<%sW_MAP_NAME><%sW_DELIMITER>温室内部": "<%sW_MAP_NAME><%sW_DELIMITER>Greenhouse"
