@@ -10317,7 +10317,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>工房地区": "<%sW_MAP_NAME><%sW_DELIMITER>Worker Area"
     },
     "3440": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>花畑": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>花畑": "<%sW_MAP_NAME><%sW_DELIMITER>Garden"
     },
     "3441": {
         "<%sW_MAP_NAME><%sW_DELIMITER>頂上への道": "<%sW_MAP_NAME><%sW_DELIMITER>Path to Peak"
@@ -10338,7 +10338,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>通路": "<%sW_MAP_NAME> Passage"
     },
     "3447": {
-        "<%sW_MYTOWN_NAME>(<%sW_MYTOWN_TOWN_ID>)": ""
+        "<%sW_MYTOWN_NAME>(<%sW_MYTOWN_TOWN_ID>)": "<%sW_MYTOWN_NAME>(<%sW_MYTOWN_TOWN_ID>)"
     },
     "3448": {
         "ゼクレス魔導国 入口": "Zechres Entry"
