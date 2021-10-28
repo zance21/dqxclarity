@@ -861,7 +861,7 @@
         "<speed=0>『チャット表示をしない』に　変更しました。|チャット表示の設定は　いつでも変更可能です。": ""
     },
     "288": {
-        "<%sL_box>に届いた <%dM_gold> Gを 受け取らずに処分した。": "Disposed of <%dM_gold> G from your <%sL_box>."
+        "<%sL_box>に届いた <%dM_gold> Gを 受け取らずに処分した。": "Disposed of <%dM_gold> G received in your <%sL_box>."
     },
     "289": {
         "<%sL_box>に届いた <%sM_item><%sM_plusnum>を 受け取らずに処分した。": "Disposed of <%sM_item><%sM_plusnum> received in your <%sL_box>."
@@ -870,7 +870,7 @@
         "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "291": {
-        "<%sL_box>に届いた <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取らずに処分した。": ""
+        "<%sL_box>に届いた <%sM_item><%sM_plusnum>を <%dM_item_num>個 受け取らずに処分した。": "Disposed of <%dM_item_num> <%sM_item><%sM_plusnum> received in your <%sL_box>."
     },
     "292": {
         "clarity_nt_char_292": "clarity_nt_char_292"
