@@ -9342,7 +9342,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>中央地区": "<%sW_MAP_NAME><%sW_DELIMITER>Central Area"
     },
     "3115": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>東地区": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>東地区": "<%sW_MAP_NAME><%sW_DELIMITER>East Area"
     },
     "3116": {
         "clarity_nt_char_3116": "clarity_nt_char_3116"
@@ -11937,7 +11937,7 @@
         "clarity_nt_char_3979": "clarity_nt_char_3979"
     },
     "3980": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>？？？階": "<%sW_MAP_NAME><%sW_DELIMITER>???F"
     },
     "3981": {
         "記憶の魔結晶": "Magic Mem. Crystal"
