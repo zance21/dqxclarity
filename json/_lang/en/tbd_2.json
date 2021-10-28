@@ -606,7 +606,7 @@
         "休みガード +100%": ""
     },
     "203": {
-        "見とれるガード +100%": ""
+        "見とれるガード +100%": "Surprise Guard +100%"
     },
     "204": {
         "ＭＰ吸収ガード +100%": "MP Absorb Guard +100%"
@@ -7905,7 +7905,7 @@
         "ＭＰ吸収ガード+<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%": "MP Absorb Guard +<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "2636": {
-        "見とれるガード +？%": ""
+        "見とれるガード +？%": "Surprise Guard +?%"
     },
     "2637": {
         "てなづけるを習得": "Learn Win Over"
