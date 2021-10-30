@@ -57,7 +57,7 @@
         "<left>←ザマ峠|<right>ゲルト海峡→|<center>ランドン山脈↓": "<left>←Zama Pass|<right>Gert Strait→|<center>Landon Mtns.↓"
     },
     "20": {
-        "<left>←ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→|<center>ザマ峠↓": ""
+        "<left>←ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→|<center>ザマ峠↓": "<left>←Gert Strait　Landon Mtns.|<right>Laga Lake Bridge→|<center>Zama Pass↓"
     },
     "21": {
         "<left>←ラガ湖上の吊り橋|<right>ザマ峠　ゲルト海峡　ランドン山脈→": ""
