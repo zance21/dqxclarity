@@ -99,13 +99,13 @@
         "<left>←ガートラント領|<right>入り江の集落→": "<left>←Gartlant Territory|<right>Cove Village→"
     },
     "34": {
-        "<center>↑入り江の集落|<right>ガートラント領→": ""
+        "<center>↑入り江の集落|<right>ガートラント領→": "<center>↑Cove Village|<right>Gartlant Territory→"
     },
     "35": {
-        "<left>←入り江の集落　ガートラント領": ""
+        "<left>←入り江の集落　ガートラント領": "<left>←Cove Village　Gartlant Territory"
     },
     "36": {
-        "<right>入り江の集落　ガートラント領→": ""
+        "<right>入り江の集落　ガートラント領→": "<right>Cove Village　Gartlant Territory→"
     },
     "37": {
         "<left>←狩人のほら穴|<center>入り江の集落　ガートラント領↓": ""
