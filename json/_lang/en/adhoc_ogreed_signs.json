@@ -111,10 +111,10 @@
         "<left>←狩人のほら穴|<center>入り江の集落　ガートラント領↓": "<left>←Hunter's Den|<center>Cove Village　Gartlant Territory↓"
     },
     "38": {
-        "<left>←入り江の集落　ガートラント領|<right>狩人のほら穴→": ""
+        "<left>←入り江の集落　ガートラント領|<right>狩人のほら穴→": "<left>←Cove Village　Gartlant Territory|<right>Hunter's Den→"
     },
     "39": {
-        "<left>←狩人のほら穴": ""
+        "<left>←狩人のほら穴": "<left>←Hunter's Den"
     },
     "40": {
         "<left>←古代オルセコ闘技場|<right>ガートラント領→": ""
