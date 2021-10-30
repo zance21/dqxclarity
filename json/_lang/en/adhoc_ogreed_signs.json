@@ -9,13 +9,13 @@
         "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side of it!|<end>"
     },
     "4": {
-        "<left>テスト用です。いずれ消します。": ""
+        "<left>テスト用です。いずれ消します。": "<left>It's for testing. I'll delete it eventually."
     },
     "5": {
-        "<center>↑ランガーオ山地": ""
+        "<center>↑ランガーオ山地": "<center>↑Langao Mountains"
     },
     "6": {
-        "<center>↑グレン領東": ""
+        "<center>↑グレン領東": "<center>↑Glen East"
     },
     "7": {
         "<center>↑ランドンフット": ""
