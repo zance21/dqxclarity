@@ -144,7 +144,7 @@
         "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": "<center>↑Glen West|<left>←Gert Strait|<right>Glen Castle　Lion Gate→"
     },
     "49": {
-        "<center>↑グレン城": ""
+        "<center>↑グレン城": "<center>↑Glen Castle"
     },
     "50": {
         "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": "<left>←Gert Strait|<center>Glen Castle　Glen West　Lion Gate"
@@ -153,13 +153,13 @@
         "<center>↑ゲルト海峡": "<center>↑Gert Strait"
     },
     "52": {
-        "<center>↑ベコン渓谷": ""
+        "<center>↑ベコン渓谷": "<center>↑Becon Valley"
     },
     "53": {
         "<center>↑グレン領西": "<center>↑Glen West"
     },
     "54": {
-        "<left>←入り江の集落|<center>ガートラント領↓": ""
+        "<left>←入り江の集落|<center>ガートラント領↓": "<left>←Cove Village|<center>Gartlant Territory↓"
     },
     "55": {
         "<center>↑入り江の集落|<center>ガートラント領↓": ""
@@ -399,7 +399,7 @@
         "<right>ベコン渓谷→|<center>グレン城↓": ""
     },
     "134": {
-        "<center>↑ベコン渓谷": ""
+        "<center>↑ベコン渓谷": "<center>↑Becon Valley"
     },
     "135": {
         "<left>丘の上に見えるのは　バグレアの教会跡地。|<left>今も　帰る場所がわからず　惑う少年たちの|<left>歌声が響く。用なき者は　決して近寄らぬこと。": ""
