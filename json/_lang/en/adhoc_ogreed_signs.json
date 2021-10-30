@@ -69,13 +69,13 @@
         "<center>↑ランドン山脈|<left>←ゲルト海峡|<right>ザマ峠→": "<center>↑Landon Mtns.|<left>←Gert Strait|<right>Zama Pass→"
     },
     "24": {
-        "<center>↑ザマ峠|<left>←ラガ湖上の吊り橋|<right>ゲルト海峡　ランドン山脈→": ""
+        "<center>↑ザマ峠|<left>←ラガ湖上の吊り橋|<right>ゲルト海峡　ランドン山脈→": "<center>↑Zama Pass|<left>←Laga Lake Bridge|<right>Gert Strait　Landon Mtns.→"
     },
     "25": {
-        "<left>←ザマ峠　ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→": ""
+        "<left>←ザマ峠　ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→": "<left>←Zama Pass　Gert Strait　Landon Mtns.|<right>Laga Lake Bridge→"
     },
     "26": {
-        "<left>←ガートラント領": ""
+        "<left>←ガートラント領": "<left>←Gartlant Territory"
     },
     "27": {
         "<left>オルセコ闘技場に散った　戦士たちの魂|<left>愛用の剣とともに　この剣岩のもとに眠る。": ""
@@ -87,7 +87,7 @@
         "<right>ガートラント領→": ""
     },
     "30": {
-        "<left>←ガートラント領": ""
+        "<left>←ガートラント領": "<left>←Gartlant Territory"
     },
     "31": {
         "<left>←入り江の集落|<right>ガートラント領→": ""
