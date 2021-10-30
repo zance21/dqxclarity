@@ -126,7 +126,7 @@
         "clarity_nt_char_42": "clarity_nt_char_42"
     },
     "43": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party participation up by <%dC_H> hr."
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party time extended <%dC_H> hr."
     },
     "44": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eの仲間参加が <%dC_H>時間<%dC_M>分のびました": "\\s<%sC_PC>\\m<%sC_ID>\\e's party participation up by <%dC_H> hr. <%dC_M> min."
