@@ -6,7 +6,7 @@
         "<center>獅子門|<end>": ""
     },
     "3": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side of it!|<end>"
     },
     "4": {
         "<left>テスト用です。いずれ消します。": ""
