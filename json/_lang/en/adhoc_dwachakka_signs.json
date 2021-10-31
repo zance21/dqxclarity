@@ -1,6 +1,6 @@
 {
     "1": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side of it!|<end>"
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "2": {
         "<left>ながめは　いかがでしたか？|<left>またのご来場を　お待ちしております。": ""
@@ -507,7 +507,7 @@
         "<left>ばくだん岩と　もみじこぞうと|<left>ガニラスが　ケンカをしたら　誰が勝つかな？|<right>ドルワームなぞなぞ愛好会": ""
     },
     "170": {
-        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
     },
     "171": {
         "<left>売店の　看板だ。": ""

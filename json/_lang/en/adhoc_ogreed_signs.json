@@ -6,7 +6,7 @@
         "<center>獅子門|<end>": "<center>Lion Gate|<end>"
     },
     "3": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side of it!|<end>"
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "4": {
         "<left>テスト用です。いずれ消します。": "<left>It's for testing. I'll delete it eventually."
@@ -522,7 +522,7 @@
         "<center>世界をつなぐ　夢の　かけ橋|<center>グレン城下町駅　建設中！|<center>関係者以外　立ち入り禁止": "<center>Dream bridge connecting the world|<center>Glen Castle Town Stop Under Construction!|<center>No entry except authorized personnel."
     },
     "175": {
-        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
     },
     "176": {
         "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": ""
