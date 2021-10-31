@@ -492,10 +492,10 @@
         "<left>←道なり　ランドン山脈|<right>ランドンクイナ生息地帯→": "<left>←Road to Landon Mtns.|<right>Apeckalypse Habitat→"
     },
     "165": {
-        "<left>←洞くつの先　ゲルト海峡|<center>道なり　ランドン山脈↓": ""
+        "<left>←洞くつの先　ゲルト海峡|<center>道なり　ランドン山脈↓": "<left>←Cave Front, Gert Strait|<center>Road to Landon Mtns.↓"
     },
     "166": {
-        "<center>↑道なり　ランドン山脈|<right>道から外れた先　荒野の集落→|<center>道なり　ゲルト海峡↓": ""
+        "<center>↑道なり　ランドン山脈|<right>道から外れた先　荒野の集落→|<center>道なり　ゲルト海峡↓": "<center>↑Road to Landon Mtns.|<right>Off Road to Wild Settlement→|<center>Road to Gert Strait↓"
     },
     "167": {
         "<center>↑道なり　ランドン山|<right>ランドンクイナ生息地帯→|<center>道なり　ゲルト海峡↓": ""
