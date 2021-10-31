@@ -228,13 +228,13 @@
         "<right>ギルザッド地方→|<center>バドリー岩石地帯↓": "<right>Gilzad Region→|<center>Budley Rock Zone↓"
     },
     "77": {
-        "<center>↑ガートラント城|<left>←バドリー岩石地帯": ""
+        "<center>↑ガートラント城|<left>←バドリー岩石地帯": "<center>↑Gartlant Castle|<left>←Budley Rock Zone"
     },
     "78": {
-        "<center>↑ガートラント城|<center>ギルザッド地方↓": ""
+        "<center>↑ガートラント城|<center>ギルザッド地方↓": "<center>↑Gartlant Castle|<center>Gilzad Region↓"
     },
     "79": {
-        "<center>↑バドリー岩石地帯": ""
+        "<center>↑バドリー岩石地帯": "<center>↑Budley Rock Zone"
     },
     "80": {
         "<left>←ザマ峠|<right>ガートラント城→": ""
@@ -261,7 +261,7 @@
         "<center>↑オルセコ高地|<left>←バドリー岩石地帯": ""
     },
     "88": {
-        "<center>↑バドリー岩石地帯": ""
+        "<center>↑バドリー岩石地帯": "<center>↑Budley Rock Zone"
     },
     "89": {
         "<center>↑ギルザッド地方|<right>バドリー岩石地帯→": ""
