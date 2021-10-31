@@ -339,7 +339,7 @@
         "<center>↑ザマ烽火台|<left>←博愛の碑|<center>ガートラント領↓": "<center>↑Zama Beacon|<left>←Love Statues|<center>Gartlant Territory↓"
     },
     "114": {
-        "<left>ザマ峠　五合目。|<left>このまま上ると　ザマ烽火台。": "<left>Zama Pass, 5th station.|<left>Continue going up to reach Zama Beacon."
+        "<left>ザマ峠　五合目。|<left>このまま上ると　ザマ烽火台。": "<left>Zama Pass, 5th station.|<left>Keep going up to reach Zama Beacon."
     },
     "115": {
         "<center>↑ザマ烽火台|<center>ガートラント領↓": "<center>↑Zama Beacon|<center>Gartlant Territory↓"
@@ -369,10 +369,10 @@
         "<center>↑ガートラント領|<right>博愛の碑→|<center>ザマ烽火台↓": "<center>↑Gartlant Territory|<right>Love Statues→|<center>Zama Beacon↓"
     },
     "124": {
-        "<left>ザマ峠　五合目。|<left>このまま下ると　ガートラント領。": ""
+        "<left>ザマ峠　五合目。|<left>このまま下ると　ガートラント領。": "<left>Zama Pass, 5th station.|<left>Keep going down to reach Gartlant Territory."
     },
     "125": {
-        "<center>↑ガートラント領|<center>ザマ烽火台↓": ""
+        "<center>↑ガートラント領|<center>ザマ烽火台↓": "<center>↑Gartlant Territory|<center>Zama Beacon↓"
     },
     "126": {
         "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": ""
