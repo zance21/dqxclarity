@@ -8298,7 +8298,7 @@
         "<speed=0>空の風景を　「<%sM_sky>」　に設定しました。": "<speed=0>The sky type has been changed to|\"<%sM_sky>\"."
     },
     "2767": {
-        "<speed=0>空の天気を　「<%sM_tenki>」　に設定しました。": ""
+        "<speed=0>空の天気を　「<%sM_tenki>」　に設定しました。": "<speed=0>The weather has been changed to|\"<%sM_tenki>\"."
     },
     "2768": {
         "<speed=0>マイタウンの中の　時間を　とめました。": ""
