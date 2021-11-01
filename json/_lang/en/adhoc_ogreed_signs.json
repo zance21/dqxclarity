@@ -747,7 +747,7 @@
         "<pc>は　石碑を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the stone monument.|But you're standing on the wrong side!|<end>"
     },
     "250": {
-        "こちらは　裏側だ。|<end>": ""
+        "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "251": {
         "<left>さびついた扉がある。|<left>この先には　何もなさそうだ。": ""
