@@ -6426,7 +6426,7 @@
         "<speed=0><%sM_otomo>は　死んでいるため|追加スキル変更は　できません！": ""
     },
     "2143": {
-        "<speed=0>マイコーデ「<%sM_myset>」と|マイコーデ「<%sM_myset2>」を|入れ替えた！": ""
+        "<speed=0>マイコーデ「<%sM_myset>」と|マイコーデ「<%sM_myset2>」を|入れ替えた！": "<speed=0>Glamour set \"<%sM_myset>\" has|been replaced with glamour set|\"<%sM_myset2>\"!"
     },
     "2144": {
         "clarity_nt_char_2144": "clarity_nt_char_2144"
@@ -7884,7 +7884,7 @@
         "clarity_nt_char_2628": "clarity_nt_char_2628"
     },
     "2629": {
-        "<speed=0>このさそいを受けるには|「<3rd_title>」の　ストーリーを|クリアしている必要が　あります。": ""
+        "<speed=0>このさそいを受けるには|「<3rd_title>」の　ストーリーを|クリアしている必要が　あります。": "<speed=0>To accept this invitation, you must have|first cleared the \"<3rd_title>\"|story."
     },
     "2630": {
         "<speed=0>このマッチングに参加するには|閃光の神殿にいる　仙龍トトゴンに話しかけて|説明を聞く必要が　あります。": ""
@@ -8292,10 +8292,10 @@
         "<speed=0>マイタウンの中の　時間を　とめますか？|<select 2>|とめる|とめない|<select_end>|<close>": ""
     },
     "2765": {
-        "<speed=0>「<%sM_kanban1>」　を　「<%sM_kanban2>」　に設定しました。": ""
+        "<speed=0>「<%sM_kanban1>」　を　「<%sM_kanban2>」　に設定しました。": "<speed=0>\"<%sM_kanban1>\" has been set to|\"<%sM_kanban2>\"."
     },
     "2766": {
-        "<speed=0>空の風景を　「<%sM_sky>」　に設定しました。": ""
+        "<speed=0>空の風景を　「<%sM_sky>」　に設定しました。": "<speed=0>The sky type has been changed to|\"<%sM_sky>\"."
     },
     "2767": {
         "<speed=0>空の天気を　「<%sM_tenki>」　に設定しました。": ""
