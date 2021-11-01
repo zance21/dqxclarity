@@ -12,7 +12,7 @@
         "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "5": {
-        "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": ""
+        "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "6": {
         "<left>←道なり　大審門": ""
