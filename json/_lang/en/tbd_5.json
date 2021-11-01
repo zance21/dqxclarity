@@ -90,10 +90,10 @@
         "clarity_nt_char_30": "clarity_nt_char_30"
     },
     "31": {
-        "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>…」": ""
+        "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>…」": "Send Error! No Target: <%sM_speaker> \"<%sM_chat>…\""
     },
     "32": {
-        "送信エラー！<%sM_speaker>「<%sM_chat>」": ""
+        "送信エラー！<%sM_speaker>「<%sM_chat>」": "Send Error! <%sM_speaker> \"<%sM_chat>\""
     },
     "33": {
         "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Send Error! Offline: <%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
