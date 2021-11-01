@@ -309,7 +309,7 @@
         "「<%sM_pc>を　仲間にするか？<break>": "Invite <%sM_pc> to your party?<break>"
     },
     "104": {
-        "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": ""
+        "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": "<%sM_pc>, hm? You want them in your|party?<yesno><break>"
     },
     "105": {
         "「<%sM_pc>さんね。|　お仲間にして　いいかしら？<break>": ""
