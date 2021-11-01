@@ -966,13 +966,13 @@
         "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "323": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」": ""
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>\""
     },
     "324": {
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "325": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」": ""
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>…\""
     },
     "326": {
         "まわりにチャット不可": ""
@@ -981,13 +981,13 @@
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>\"＞<%sM_listener>"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Public Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
     },
     "331": {
         "ドルセリンチャージ！": "Dolsoline Charge!"
