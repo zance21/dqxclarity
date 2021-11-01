@@ -750,7 +750,7 @@
         "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "251": {
-        "<left>さびついた扉がある。|<left>この先には　何もなさそうだ。": ""
+        "<left>さびついた扉がある。|<left>この先には　何もなさそうだ。": "<left>There is a rusty door.|<left>There doesn't seem to be anything past this point."
     },
     "252": {
         "<left>扉は　かたく　閉ざされている。": ""
