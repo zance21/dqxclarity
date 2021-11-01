@@ -309,7 +309,7 @@
         "<pc>は　看板を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "104": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "105": {
         "<left>駅の　看板だ。": ""
@@ -387,7 +387,7 @@
         "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "130": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "131": {
         "<left>駅の　看板だ。": ""

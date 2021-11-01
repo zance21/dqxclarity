@@ -96,7 +96,7 @@
         "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": ""
     },
     "33": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "34": {
         "<left>教会の　看板だ。": ""
@@ -117,7 +117,7 @@
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "40": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "41": {
         "<left>教会の　看板だ。": ""
