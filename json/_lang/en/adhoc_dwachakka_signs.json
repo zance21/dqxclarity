@@ -21,10 +21,10 @@
         "<center>―この先　凶悪魔物　出没注意！―|<center>どうしても進む場合は　私どもの店で　ご準備を！|<right>テント商人集団　スコーピオン商会": "<center>― Beware fiendish monsters ahead! ―|<center>If you must proceed, prepare at our shop!|<right>Tent merchants, Scorpion Company"
     },
     "8": {
-        "<center>↑カルデア山道": ""
+        "<center>↑カルデア山道": "<center>↑Chaldea Mtn. Road"
     },
     "9": {
-        "<center>↑オアシスの隊商宿|<left>←防砂ダム|<right>デマトード高地→": ""
+        "<center>↑オアシスの隊商宿|<left>←防砂ダム|<right>デマトード高地→": "<center>↑Oasis Caravan|<left>←Sand Dam|<right>Dematode Highlands→"
     },
     "10": {
         "<center>↑オアシスの隊商宿|<right>ゴブル砂漠西→|<center>ドルワーム王国↓": ""
@@ -165,7 +165,7 @@
         "<center>↑ウルベア地下遺跡": ""
     },
     "56": {
-        "<center>↑カルデア山道": ""
+        "<center>↑カルデア山道": "<center>↑Chaldea Mtn. Road"
     },
     "57": {
         "<center>↑岳都ガタラ": ""
