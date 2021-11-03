@@ -186,7 +186,7 @@
         "<speed=0>ついていける相手が　近くにいません。": "<speed=0>There's nobody nearby to follow."
     },
     "63": {
-        "<speed=0><%sM_action>を　使う相手が|近くにいない！": "<speed=0>There's no one nearby to use <%sM_action>!"
+        "<speed=0><%sM_action>を　使う相手が|近くにいない！": "<speed=0>There's no one nearby to use|<%sM_action>!"
     },
     "64": {
         "clarity_nt_char_64": "clarity_nt_char_64"
