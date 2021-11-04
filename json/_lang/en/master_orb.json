@@ -8472,7 +8472,7 @@
         "マジックルーレットの効果範囲が|０．３ｍ増える（魔法戦士専用）": "Magic Roulette range increased by 0.3m.|(ARM Only)"
     },
     "2825": {
-        "ファイアフォース中の炎耐性が２％増える": "Also raises fire resist by 2%."
+        "ファイアフォース中の炎耐性が２％増える": "Fire resist up 2% during Fire Fource."
     },
     "2826": {
         "アイスフォース中の氷耐性が２％増える": "Ice resist up 2% during Frost Fource."
@@ -8481,13 +8481,13 @@
         "clarity_nt_char_2827": "clarity_nt_char_2827"
     },
     "2828": {
-        "ストームフォース中の風雷耐性が２％増える": "Also raises wind/thunder resist by 2%."
+        "ストームフォース中の風雷耐性が２％増える": "Also raises wind/thunder resist by 2%|during Gale Fource."
     },
     "2829": {
         "clarity_nt_char_2829": "clarity_nt_char_2829"
     },
     "2830": {
-        "ダークフォース中の闇土耐性が２％増える": "Also raises dark/earth resist by 2%."
+        "ダークフォース中の闇土耐性が２％増える": "Raises dark/earth resist by 2%|during Funereal Fource."
     },
     "2831": {
         "ライトフォース中の光耐性が２％増える": "Also increases light resistance by 2%."
