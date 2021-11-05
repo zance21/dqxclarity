@@ -240,10 +240,10 @@
         "<center>↑ヘドロの沼地|<right>最果ての地下遺跡→": "<center>↑Sludge Swamp|<right>Deep Underground Ruins→"
     },
     "81": {
-        "<left>この先　王立研究院　未調査区域。|<left>多大な魔瘴が眠る可能性あり。注意されたし。": ""
+        "<left>この先　王立研究院　未調査区域。|<left>多大な魔瘴が眠る可能性あり。注意されたし。": "<left>Royal Research unresearched area ahead.|<left>A large amount of magic miasma may lie within.|<left>Be careful."
     },
     "82": {
-        "<center>↑カルデア山道|<center>モガリム街道↓": ""
+        "<center>↑カルデア山道|<center>モガリム街道↓": "<center>↑Chaldea Mtn. Road|<center>Mogarim Highway↓"
     },
     "83": {
         "<center>↑モガリム街道|<center>カルデア山道↓": ""
@@ -258,7 +258,7 @@
         "<center>↑モガリム街道|<center>カルデア山道↓": ""
     },
     "87": {
-        "<center>↑カルデア山道|<center>モガリム街道↓": ""
+        "<center>↑カルデア山道|<center>モガリム街道↓": "<center>↑Chaldea Mtn. Road|<center>Mogarim Highway↓"
     },
     "88": {
         "<left>←この先　ラニアッカ断層帯": ""
