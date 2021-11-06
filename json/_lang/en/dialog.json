@@ -6699,7 +6699,7 @@
         "clarity_nt_char_2233": "clarity_nt_char_2233"
     },
     "2234": {
-        "<speed=0>|キラキラの　取得数が上限に達したため|既定の時間が経過するまで　取得していない|キラキラが　表示されなくなります。|<br>|取得済みの　キラキラのうち|一番時間の短い　キラキラは　あと|<%dM_mm>分で　拾えるようになります。": ""
+        "<speed=0>|キラキラの　取得数が上限に達したため|既定の時間が経過するまで　取得していない|キラキラが　表示されなくなります。|<br>|取得済みの　キラキラのうち|一番時間の短い　キラキラは　あと|<%dM_mm>分で　拾えるようになります。": "<speed=0>|You've reached the limit of obtainable shiny|spots, so you will not see new shiny spots|on the ground for some time.|<br>|Please wait <%dM_mm> minutes to be able to see them|again."
     },
     "2235": {
         "clarity_nt_char_2235": "clarity_nt_char_2235"
@@ -9366,7 +9366,7 @@
         "clarity_nt_char_3122": "clarity_nt_char_3122"
     },
     "3123": {
-        "キラキラ海岸": ""
+        "キラキラ海岸": "Glittering Beach"
     },
     "3124": {
         "clarity_nt_char_3124": "clarity_nt_char_3124"
