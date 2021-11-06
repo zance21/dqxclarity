@@ -1320,7 +1320,7 @@
         "clarity_nt_char_440": "clarity_nt_char_440"
     },
     "441": {
-        "<speed=0>|フレンドの　説明です！|<br>|フレンドとは　キャラ同士をフレンド登録し|お互いのフレンドリストに　載せることで|専用の機能を　使えるようにするものです。|<br>|フレンドになれば　遠く離れた場所にいても|1対1でチャット（会話）ができたり　ゲーム内で|手紙のやりとりが　できるようになります。|<br>|ただし　未成年の方が　フレンドの機能を|使うには　保護者の方の同意が必要となります。|あなたは　未成年者ですか？|<yesno><break>": ""
+        "<speed=0>|フレンドの　説明です！|<br>|フレンドとは　キャラ同士をフレンド登録し|お互いのフレンドリストに　載せることで|専用の機能を　使えるようにするものです。|<br>|フレンドになれば　遠く離れた場所にいても|1対1でチャット（会話）ができたり　ゲーム内で|手紙のやりとりが　できるようになります。|<br>|ただし　未成年の方が　フレンドの機能を|使うには　保護者の方の同意が必要となります。|あなたは　未成年者ですか？|<yesno><break>": "<speed=0>|This will explain Friends!|<br>|You can register other players as friends,|which will then add them to your friends|list which has special functions.|<br>|As friends, you can privately message each|other one on one and send mail to one another,|no matter how far apart you are.|<br>|However, minors need the consent of their|parents to use the friend function. Are you|a minor?|<yesno><break>"
     },
     "442": {
         "clarity_nt_char_442": "clarity_nt_char_442"
