@@ -32904,7 +32904,7 @@
         "clarity_nt_char_10968": "clarity_nt_char_10968"
     },
     "10969": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復量増加の 効果延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復量増加の 効果延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell recovery up effect was extended!"
     },
     "10970": {
         "clarity_nt_char_10970": "clarity_nt_char_10970"
@@ -33735,7 +33735,7 @@
         "clarity_nt_char_11245": "clarity_nt_char_11245"
     },
     "11246": {
-        "呪文の回復量ダウン|効果時間延長！": ""
+        "呪文の回復量ダウン|効果時間延長！": "Spell recovery down|effect extended!"
     },
     "11247": {
         "さらに|シビれさせた！": ""
@@ -33891,7 +33891,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power decreased by a little!"
     },
     "11298": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力を 少し さげた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力を 少し さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's recovery spell power decreased a little!"
     },
     "11299": {
         "clarity_nt_char_11299": "clarity_nt_char_11299"
