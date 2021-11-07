@@ -4587,7 +4587,7 @@
         "かいしんの <%sB_ACTION>！": "Critical <%sB_ACTION>!"
     },
     "1530": {
-        "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには 何も おこらなかった！": ""
+        "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには 何も おこらなかった！": "But \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e wasn't affected!"
     },
     "1531": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰが <%dB_VALUE>回復した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e recovered <%dB_VALUE> MP!"
@@ -5379,7 +5379,7 @@
         "clarity_nt_char_1793": "clarity_nt_char_1793"
     },
     "1794": {
-        "<%sB_TARGET>には 何も おこらなかった！": ""
+        "<%sB_TARGET>には 何も おこらなかった！": "<%sB_TARGET> wasn't affected!"
     },
     "1795": {
         "clarity_nt_char_1795": "clarity_nt_char_1795"
