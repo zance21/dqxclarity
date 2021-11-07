@@ -26286,7 +26286,7 @@
         "clarity_nt_char_8762": "clarity_nt_char_8762"
     },
     "8763": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's recovery spell power decreased by a little!"
     },
     "8764": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\eに 怒った！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is angry at \\s<%sB_TARGET2>\\m<%sB_TARGET2_ID>\\e!"
@@ -26694,7 +26694,7 @@
         "clarity_nt_char_8898": "clarity_nt_char_8898"
     },
     "8899": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's recovery spell power increased by a little!"
     },
     "8900": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が 少し あがった！": ""
@@ -33435,7 +33435,7 @@
         "clarity_nt_char_11145": "clarity_nt_char_11145"
     },
     "11146": {
-        "呪文の回復量アップ|効果時間延長！": ""
+        "呪文の回復量アップ|効果時間延長！": "Spell recovery up|effect extended!"
     },
     "11147": {
         "さらに|からだがシビれた！": ""
