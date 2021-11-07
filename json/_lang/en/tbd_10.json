@@ -9,7 +9,7 @@
         "<%sL_PC>が <%sL_SYOKUNIN>で作った。": "<%sL_PC> made it with <%sL_SYOKUNIN>."
     },
     "4": {
-        "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": ""
+        "<%sL_PC>が <%sL_SYOKUNIN>で|<%sL_KOUKA>の効果を付けた。": "<%sL_PC> used <%sL_SYOKUNIN> to add|the effect of <%sL_KOUKA>."
     },
     "5": {
         "<%sL_PC>が <%sL_PLACE>の|お店で買った。": "<%sL_PC> bought it at a shop in|<%sL_PLACE>."
