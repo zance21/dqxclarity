@@ -5367,7 +5367,7 @@
         "<%sB_TARGET>は <%sB_ACTION>の罠を しかけた。": "<%sB_TARGET> trapped <%sB_ACTION>."
     },
     "1790": {
-        "リレミトゲートをしらべると ダンジョンから ぬけだせます。": "You can escape from the dungeon by using the Purple Gate."
+        "リレミトゲートをしらべると ダンジョンから ぬけだせます。": "Use the purple gate to exit the dungeon."
     },
     "1791": {
         "<%sB_ACTOR>は 何も 盗めなかった！": ""
@@ -6417,7 +6417,7 @@
         "しかし <%sB_TARGET>は 生き返らなかった！": ""
     },
     "2140": {
-        "リレミトゲートをしらべると ダンジョンから脱出できます。": "You can escape from the dungeon by using the Purple Gate."
+        "リレミトゲートをしらべると ダンジョンから脱出できます。": "Use the purple gate to exit the dungeon."
     },
     "2141": {
         "clarity_nt_char_2141": "clarity_nt_char_2141"
