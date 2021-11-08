@@ -102,7 +102,7 @@
         "<left>ここは　聖地パサラン団子山。|<left>ふもとに眠る　聖人パサラーンの遺志が|<left>邪悪を払う光となって　あふれています。": "<left>This is the Sacred Pasaran Dango Mountain.|<left>At the foot of the mountain, the will of saint|<left>Pasaran overflows with light to ward off evil."
     },
     "35": {
-        "<left>←ハニーレイク経由　チョッピ荒野|<right>聖地パサラン団子山経由　チョッピ荒野→": "<left>←Choppi Wilderness via Honey Lake|<right>Choppi Wilderness via Pasaran Dango Mntn.→"
+        "<left>←ハニーレイク経由　チョッピ荒野|<right>聖地パサラン団子山経由　チョッピ荒野→": "<left>←Choppi Wilderness via Honey Lake|<right>Choppi Wilderness via Pasaran Dango Mtn.→"
     },
     "36": {
         "<left>これより先　底なし穴あり。|<left>足元を確認の上　充分に注意されたし。": "<left>Bottomless pit ahead.|<left>Please check your footing and be very careful."
@@ -201,10 +201,10 @@
         "<center>↑プーラのほら穴": "<center>↑Pura's Cave"
     },
     "68": {
-        "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence is a dangerous area!|<left>Make sure you are prepared."
     },
     "69": {
-        "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence is a dangerous area!|<left>Make sure you are prepared."
     },
     "70": {
         "<center>↑ポーポラ地方|<center>オルフェアの町↓": "<center>↑Popola Region|<center>Orphea Village↓"
@@ -213,7 +213,7 @@
         "<center>↑オルフェアの町|<center>ポーポラ地方↓": "<center>↑Orphea Village|<center>Popola Region↓"
     },
     "72": {
-        "<center>↑ポポリアきのこ山": ""
+        "<center>↑ポポリアきのこ山": "<center>↑Popolia Mushroom Mtn."
     },
     "73": {
         "<center>↑ポーポラ地方|<right>プーラのほら穴→|<center>オルフェアの町↓": ""
