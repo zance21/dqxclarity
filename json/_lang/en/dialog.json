@@ -8397,7 +8397,7 @@
         "clarity_nt_char_2799": "clarity_nt_char_2799"
     },
     "2800": {
-        "<speed=0>このマイタウンに　入る権限が　ありません。": ""
+        "<speed=0>このマイタウンに　入る権限が　ありません。": "<speed=0>You do not have permission to enter|this My Town."
     },
     "2801": {
         "clarity_nt_char_2801": "clarity_nt_char_2801"
