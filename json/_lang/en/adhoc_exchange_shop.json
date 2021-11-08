@@ -6,7 +6,7 @@
         "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>|Is there anything else you'd like to exchange?|<break>"
     },
     "3": {
-        "「<%sL_KOUKAN_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
+        "「<%sL_KOUKAN_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange for|<%sL_KOUKAN_ITEM>?|<yesno><break>"
     },
     "4": {
         "「<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
