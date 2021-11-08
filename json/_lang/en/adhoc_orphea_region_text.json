@@ -228,10 +228,10 @@
         "<center>この先　危険地帯！|<center>凶悪な魔物が　多数　出現するので|<center>お気をつけください。": "<left>Dangerous area ahead!|<center>There's a lot of vicious monsters out there.|<center>Please be careful."
     },
     "77": {
-        "<center>↑　この先　フォステイル広場": ""
+        "<center>↑　この先　フォステイル広場": "<center>↑Fostail Square ahead"
     },
     "78": {
-        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": ""
+        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "<center>↑Megistris Territory|<center>Glitter Windmill Tower↓"
     },
     "79": {
         "<center>↑キラキラ大風車塔|<center>オルフェア地方西↓": ""
@@ -252,7 +252,7 @@
         "<center>↑オルフェア地方西|<center>キラキラ大風車塔↓": ""
     },
     "85": {
-        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": ""
+        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "<center>↑Megistris Territory|<center>Glitter Windmill Tower↓"
     },
     "86": {
         "<center>↑道なり　オルフェア地方東|<center>プクレット地方↓": ""
