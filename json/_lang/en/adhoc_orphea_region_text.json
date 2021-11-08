@@ -138,10 +138,10 @@
         "<left>←メギストリス領|<right>荒野の休息所→": "<left>←Megistris Territory|<right>Wilderness Retreat→"
     },
     "47": {
-        "<center>↑荒野の休息所|<left>←メギストリス領": ""
+        "<center>↑荒野の休息所|<left>←メギストリス領": "<center>↑Wilderness Retreat|<left>←Megistris Territory"
     },
     "48": {
-        "<center>↑チューザー地下空洞|<left>←メギストリス領|<right>荒野の休息所→": ""
+        "<center>↑チューザー地下空洞|<left>←メギストリス領|<right>荒野の休息所→": "<center>↑Chooser Underground Cavity|<left>←Megistris Territory|<right>Wilderness Retreat→"
     },
     "49": {
         "<left>奥に見えるのが　大蛇の巣。|<left>危険なので　柵の中に入ったりしないように。": ""
