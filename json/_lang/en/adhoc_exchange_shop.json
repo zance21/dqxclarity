@@ -1,9 +1,9 @@
 {
     "1": {
-        "「他に　交換したいものは　ありますか？|<break>": ""
+        "「他に　交換したいものは　ありますか？|<break>": "Is there anything else you'd like to exchange?|<break>"
     },
     "2": {
-        "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": ""
+        "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>|Is there anything else you'd like to exchange?|<break>"
     },
     "3": {
         "「<%sL_KOUKAN_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
