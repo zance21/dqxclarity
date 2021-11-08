@@ -936,7 +936,7 @@
         "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": ""
     },
     "313": {
-        "「ピピピ……　<%sL_KOUKAN_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": ""
+        "「ピピピ……　<%sL_KOUKAN_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": "Beep... beep... You do not have the required|items needed to exchange for|<%sL_KOUKAN_ITEM>.|<bw_break>"
     },
     "314": {
         "「<%sL_WATASU_ITEM><%sL_PLUSNUM>は|　ロックされているので　受け取れません。|<bw_break>": ""
@@ -951,7 +951,7 @@
         "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": ""
     },
     "318": {
-        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": ""
+        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Beep... beep... Please receive your|<%sL_KOUKAN_ITEM>|<end>"
     },
     "319": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": ""
