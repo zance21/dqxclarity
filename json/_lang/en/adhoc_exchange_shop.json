@@ -927,10 +927,10 @@
         "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": ""
     },
     "310": {
-        "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": ""
+        "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Beep...beep... equipment bag is full. Please|access again after reorganization.|<bw_break>"
     },
     "311": {
-        "「ピピピ……　どうぐかばんが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": ""
+        "「ピピピ……　どうぐかばんが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Beep...beep... item bag is full. Please|access again after reorganization.|<bw_break>"
     },
     "312": {
         "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": ""
