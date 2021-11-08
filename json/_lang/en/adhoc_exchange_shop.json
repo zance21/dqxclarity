@@ -501,7 +501,7 @@
         "「<%sL_WATASU_ITEM><%sL_PLUSNUM>は|　今　仲間モンスターが　装備してるようだガ|　本当に　それを　くれるのカ？|<yesno 2><break>": ""
     },
     "168": {
-        "「オレ　黄金のブローチ　ほしい。|　だが　探しても　見つかるの　破片ばかりダ。|<br>|「黄金のブローチ　オレに　くれるなら|　代わりに　ブローチの破片　分けてヤル。|<br>|「ブローチの破片は　ヴェリヌ……　ヴェリ……|　ナントカの街で　元の形に　戻せるそうダ。|　ニンゲンにとっても　悪い話じゃナイ。|<bw_break>": ""
+        "「オレ　黄金のブローチ　ほしい。|　だが　探しても　見つかるの　破片ばかりダ。|<br>|「黄金のブローチ　オレに　くれるなら|　代わりに　ブローチの破片　分けてヤル。|<br>|「ブローチの破片は　ヴェリヌ……　ヴェリ……|　ナントカの街で　元の形に　戻せるそうダ。|　ニンゲンにとっても　悪い話じゃナイ。|<bw_break>": "Me want Gold Brooch. But if look for it, only|get shards.|<br>|If give Golden Brooch, I separate into shards|instead.|<br>|Seem Brooch fragments can be restored|in Veri.... Vera.... some city. Not bad|deal for humans."
     },
     "169": {
         "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": ""
