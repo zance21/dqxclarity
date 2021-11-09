@@ -4221,7 +4221,7 @@
         "<%sL_ITEM>が　レプリカになった！": "Made of a replica of <%sL_ITEM>!"
     },
     "1408": {
-        "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": ""
+        "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": "<%sM_item> received <%dM_item_num><%sM_tani>!"
     },
     "1409": {
         "継続特典係で <%sM_item><%sM_plusnum>を 交換した！": ""
