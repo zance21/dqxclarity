@@ -2619,7 +2619,7 @@
         "clarity_nt_char_873": "clarity_nt_char_873"
     },
     "874": {
-        "どうぐ消しゴム『<%sL_ERASER_NAME>』を 手に入れた！": ""
+        "どうぐ消しゴム『<%sL_ERASER_NAME>』を 手に入れた！": "Received the \"<%sL_ERASER_NAME>\" Item Eraser!"
     },
     "875": {
         "clarity_nt_char_875": "clarity_nt_char_875"
@@ -2631,7 +2631,7 @@
         "clarity_nt_char_877": "clarity_nt_char_877"
     },
     "878": {
-        "バトエンポイント <%dL_GET_POINT>Pを 手に入れた！": "You received <%dL_GET_POINT> Batoen Points!"
+        "バトエンポイント <%dL_GET_POINT>Pを 手に入れた！": "Received <%dL_GET_POINT> Batoen Points!"
     },
     "879": {
         "<pc>が <%sL_PLAYER_NAME>と バトエン開始！": ""
