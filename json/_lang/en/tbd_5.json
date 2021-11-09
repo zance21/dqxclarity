@@ -1191,7 +1191,7 @@
         "モンスター酒場で <%sM_item>を <%nM_item_num>個 手に入れた！": ""
     },
     "398": {
-        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "You found <%dM_item_num> <%sM_item>s <%sM_plusnum>!"
+        "<%sM_item><%sM_plusnum>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>s <%sM_plusnum>!"
     },
     "399": {
         "釣りの仕事をして <%dL_EXP> Pの釣り経験値を かくとく！": ""
