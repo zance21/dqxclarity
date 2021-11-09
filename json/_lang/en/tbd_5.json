@@ -1197,7 +1197,7 @@
         "釣りの仕事をして <%dL_EXP> Pの釣り経験値を かくとく！": ""
     },
     "400": {
-        "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！": ""
+        "釣りの仕事をして おさかなコインを <%dL_COIN>枚 手に入れた！": "Received <%dL_COIN> Fishing Coins from a fishing|request!"
     },
     "401": {
         "clarity_nt_char_401": "clarity_nt_char_401"
@@ -1227,7 +1227,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eに <%sM_ITEM><%sM_PLUSNUM>を 渡した！": ""
     },
     "410": {
-        "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！": ""
+        "<%sM_hihou>を鑑定して <%sM_item>を <%dM_ItemNum>個 手に入れた！": "<%sM_hihou> was appraised and you received|<%dM_ItemNum> <%sM_item>!"
     },
     "411": {
         "clarity_nt_char_411": "clarity_nt_char_411"
@@ -1461,7 +1461,7 @@
         "clarity_nt_char_487": "clarity_nt_char_487"
     },
     "488": {
-        "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": ""
+        "プライベートコンシェルジュで <%sL_ITEM>を <%dL_ITEMNUM>枚 手に入れた！": "Received <%dL_ITEMNUM> <%sL_ITEM> from|your Private Concierge!"
     },
     "489": {
         "clarity_nt_char_489": "clarity_nt_char_489"
