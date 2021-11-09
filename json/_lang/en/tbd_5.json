@@ -2064,7 +2064,7 @@
         "clarity_nt_char_688": "clarity_nt_char_688"
     },
     "689": {
-        "<%sM_item>を <%dM_item_num>個 手に入れた！": "You found <%dM_item_num> <%sM_item>s!"
+        "<%sM_item>を <%dM_item_num>個 手に入れた！": "Received <%dM_item_num> <%sM_item>s!"
     },
     "690": {
         "clarity_nt_char_690": "clarity_nt_char_690"
@@ -2094,7 +2094,7 @@
         "clarity_nt_char_698": "clarity_nt_char_698"
     },
     "699": {
-        "<pc>は　新しいお宝の写真を　手に入れた！": ""
+        "<pc>は　新しいお宝の写真を　手に入れた！": "<pc> received a new Treasure Photo!"
     },
     "700": {
         "clarity_nt_char_700": "clarity_nt_char_700"
