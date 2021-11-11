@@ -519,7 +519,7 @@
         "<center>↑ランドンフット|<left>←頂上へ向かう場合は　こちら|<center>ゲルト海峡↓": "↑ Landonfoot|← This way to the peak|↓ Gert Strait"
     },
     "174": {
-        "<center>世界をつなぐ　夢の　かけ橋|<center>グレン城下町駅　建設中！|<center>関係者以外　立ち入り禁止": "<center>Dream bridge connecting the world|<center>Glen Castle Town Stop Under Construction!|<center>No entry except authorized personnel."
+        "<center>世界をつなぐ　夢の　かけ橋|<center>グレン城下町駅　建設中！|<center>関係者以外　立ち入り禁止": "            Dream bridge connecting the world|   Glen Castle Town Stop Under Construction!|     No entry except authorized personnel."
     },
     "175": {
         "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
@@ -735,7 +735,7 @@
         "<pc>は|積み石に記された　文字を読んだ。|<br>|<left>山頂を目指す旅人よ。|<left>険しき山道に　くじけることなかれ。|<left>この石が　そなたらに　ひと時の安息を与えん。": "You read the writing on the stone block.|<br>|<left>You are a traveler aiming for the summit.|<left>Don't be discouraged by the steep mountain|<left>path.This stone will let you rest a moment."
     },
     "246": {
-        "<pc>は|石碑に記された　文字を読んだ。|<bw_clear>|<center>ガートラント建国王　ラダ・ガート|<center>強きを尊び　古代オルセコ闘技場を再建せり。|<center>かの王　闘神として　炎の間に祀られるものなり。": "You read the words on the stone monument.|<bw_clear>|<center>Old Orseco Arena was rebuilt in honor of King|<center>Lada Gart, founder of Gartlant, who is|<center>enshrined in the fire room as the god of war."
+        "<pc>は|石碑に記された　文字を読んだ。|<bw_clear>|<center>ガートラント建国王　ラダ・ガート|<center>強きを尊び　古代オルセコ闘技場を再建せり。|<center>かの王　闘神として　炎の間に祀られるものなり。": "You read the words on the stone monument.|<bw_clear>|Old Orseco Arena was rebuilt in honor of King|Lada Gart, founder of Gartlant, who is|enshrined in the fire room as the god of war."
     },
     "247": {
         "<left>この先　恐ろしき魔物たちが　生息する地。|<left>最奥にある　ガラガの穴を目指すなら|<left>充分に備えて　進むべし。": "<left>Terrible monsters live beyond this point.|<left>If you want to get to Garaga Hole at the far|<left>end, you must be fully prepared."
@@ -768,19 +768,19 @@
         "<left>グレン領西の奥　崩れた教会の跡地で|<left>この世のものとは思えない　歌を聞いた……。|<left>と　掲示板のすみに　走り書きされている。": "<left>At this collapsed church in Glen West,|<left>you hear an otherworldly song...|<left>it's scribbled in the corner of this board."
     },
     "257": {
-        "<center>燃える鉄を打ち　剣となせ！|<center>武器鍛冶ギルドは　漢の生き様！|<right>武器鍛冶ギルド本部": "<center>Strike the burning iron and make a sword!|<center>The Weaponsmith Guild is a way of life!|<right>Weaponsmith Guild Headquarters"
+        "<center>燃える鉄を打ち　剣となせ！|<center>武器鍛冶ギルドは　漢の生き様！|<right>武器鍛冶ギルド本部": "  Strike the burning iron and make a sword!|   The Weaponsmith Guild is a way of life!|ー Weaponsmith Guild Headquarters"
     },
     "258": {
         "<left>集え　グレン城へ！|<left>果てなき荒野の続く　百戦の地が|<left>そなたの肉体を　鍛えあげよう。": "<left>Gather to Glen Castle!|<left>The endless wilderness of the land of a|<left>hundred battles will strengthen your body."
     },
     "259": {
-        "<center>眠れる勇気を　呼び覚ましたいツワモノよ！|<center>いざ　ゲルト海峡で　度胸試しだ！　|<right>ゲルト海峡商工会": "<center>I want to awaken your sleeping courage.|<center>Let's test our courage at the Gert Strait!|<right>Gert Strait Chamber of Commerce"
+        "<center>眠れる勇気を　呼び覚ましたいツワモノよ！|<center>いざ　ゲルト海峡で　度胸試しだ！　|<right>ゲルト海峡商工会": "   I want to awaken your sleeping courage.|  Let's test our courage at the Gert Strait!|ー Gert Strait Chamber of Commerce"
     },
     "260": {
         "<center>茶色の　とろけるボディに　つぶらな瞳。|<center>キュートな　あの子の名前は　チョコ神！|<center>気づけば　あなたも　夢中♪": ""
     },
     "261": {
-        "<center>ガートラント名所案内|<left>城の北にある　ザマ烽火台の煙は|<left>悪しきものを払うといわれ　お年寄りに人気です。": "<center>Gartlant Famous Place Guide|<left>The smoke from the Zama Beacon, located north|<left>of the castle, is said to ward off evil."
+        "<center>ガートラント名所案内|<left>城の北にある　ザマ烽火台の煙は|<left>悪しきものを払うといわれ　お年寄りに人気です。": "         Gartlant Famous Place Guide|<left>The smoke from the Zama Beacon, located north|<left>of the castle, is said to ward off evil."
     },
     "262": {
         "<left>大地の箱舟は　朝も夜も|<left>運休することなく　皆さまを|<left>目的地まで　ご案内いたします。": "<left>The Ark of the Earth will take you to your|<left>destination without stopping, morning or|<left>night."
@@ -792,7 +792,7 @@
         "<left><pc>は　掲示板を読んだ。|<left>しかし　字が豪快すぎて　読めない！": "<left>You tried to read the bulletin board.|<left>But the letters are too bold to read!"
     },
     "265": {
-        "<center>守りたい人がいる。|<center>失いたくない場所がある。|<right>ガートラント聖騎士団": "<center>There are people I want to protect.|<center>There are places I don't want to lose.|<right>Gartlant Holy Knight"
+        "<center>守りたい人がいる。|<center>失いたくない場所がある。|<right>ガートラント聖騎士団": "      There are people I want to protect.|    There are places I don't want to lose.|ー Gartlant Holy Knight"
     },
     "266": {
         "<left>ようこそ　ガートラント城へ！|<left>大地を育む　雄大な自然のごとく|<left>やさしき心の持ち主を　我が国は歓迎する。": "<left>Welcome to Gartlant Castle!|<left>Our nation welcomes those who have a heart as|<left>gentle as the majestic nature of the earth."
