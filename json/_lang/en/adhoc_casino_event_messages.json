@@ -267,16 +267,16 @@
         "<color_yellow>|すごろくは　パーティメンバーと|一緒に　遊ぶことができます。|パーティを組んで　すごろくを遊びましょう！|<color_white>": ""
     },
     "90": {
-        "パーティメンバーが|同じビンゴすごろくホールにいないため|すごろくを　遊ぶことができません。": ""
+        "パーティメンバーが|同じビンゴすごろくホールにいないため|すごろくを　遊ぶことができません。": "Your party members are not all in the same|Bingo/Sugoroku Hall as you, so you cannot|start a Sugoroku game."
     },
     "91": {
-        "既に　パーティメンバーが|別のすごろく台に　座っています。|同じすごろく台に　座ってください。": ""
+        "既に　パーティメンバーが|別のすごろく台に　座っています。|同じすごろく台に　座ってください。": "Your party members are sitting at a different|Sugoroku table than you. Please join them|at their table."
     },
     "92": {
         "<color_yellow>|すごろく景品係ミミから|受け取っていない　アイテムがあるため|すごろくに　エントリーできません。|<color_white>": "<color_yellow>|There are items you have not yet received|from Prize Clerk Mimi, so you cannot play|Sugoroku.|<color_white>"
     },
     "93": {
-        "既に　パーティメンバーが|すごろくに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　すごろくへのエントリーが|キャンセルされますが　よろしいですか？<yesno 2><close>": ""
+        "既に　パーティメンバーが|すごろくに　エントリーしています。|<br>|エントランスに　移動すると|パーティメンバーの　すごろくへのエントリーが|キャンセルされますが　よろしいですか？<yesno 2><close>": "Your party members have already entered|Sugoroku.|<br>|If you move to the entrance, their entry will|be cancelled. Is this okay?<yesno 2><close>"
     },
     "94": {
         "カジノレイドを　発生させました。|<%dM_coin>枚のコインが　当たりました。|<auto_bw=3000><close>": "Caused a Casino Raid.|Won <%dM_coin> coins.|<auto_bw=3000><close>"
@@ -306,7 +306,7 @@
         "不正な操作を　検知したので|すごろくを　中止しました。|パーティから　抜けました。": ""
     },
     "103": {
-        "ビンゴすごろくホールから|いなくなった　パーティメンバーがいます。|すごろくへのエントリーを　キャンセルしました。": ""
+        "ビンゴすごろくホールから|いなくなった　パーティメンバーがいます。|すごろくへのエントリーを　キャンセルしました。": "A party member has left the Bingo/Sugoroku|Hall. Their entry to Sugoroku has been|cancelled."
     },
     "104": {
         "遊びたいマップを　選んで下さい。": "Choose the map you want to play."

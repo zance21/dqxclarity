@@ -972,7 +972,7 @@
         "該当のルーラストーンは 新品の石に戻ります": ""
     },
     "325": {
-        "参加者に不正を検知したため 元のマップに戻ります": ""
+        "参加者に不正を検知したため 元のマップに戻ります": "Returning due to fraud being detected."
     },
     "326": {
         "clarity_nt_char_326": "clarity_nt_char_326"
@@ -1131,7 +1131,7 @@
         "他のプレイヤーを待っています 約1分お待ちください": "Waiting for other players, please wait 1 minute."
     },
     "378": {
-        "参加者がそろわなかったため 元のマップに戻ります": ""
+        "参加者がそろわなかったため 元のマップに戻ります": "Returning due to participants not being available."
     },
     "379": {
         "clarity_nt_char_379": "clarity_nt_char_379"
@@ -1338,7 +1338,7 @@
         "不思議の魔塔の誘いが 取り消されました": ""
     },
     "447": {
-        "バトルの準備に失敗したため 元のマップに戻ります": ""
+        "バトルの準備に失敗したため 元のマップに戻ります": "Battle preparation failed. Returning to last map."
     },
     "448": {
         "clarity_nt_char_448": "clarity_nt_char_448"
@@ -2397,7 +2397,7 @@
         "clarity_nt_char_799": "clarity_nt_char_799"
     },
     "800": {
-        "あと1ターン入力がないと 元のマップに戻ります": ""
+        "あと1ターン入力がないと 元のマップに戻ります": "Kicked after 1 more turn of inactivity."
     },
     "801": {
         "ひとつも条件を達成できませんでした……": ""
@@ -2442,7 +2442,7 @@
         "clarity_nt_char_814": "clarity_nt_char_814"
     },
     "815": {
-        "2ターン入力がなかったので 元のマップに戻ります": ""
+        "2ターン入力がなかったので 元のマップに戻ります": "You will be removed for inactivity for 2 turns."
     },
     "816": {
         "clarity_nt_char_816": "clarity_nt_char_816"

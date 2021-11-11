@@ -9903,7 +9903,7 @@
         "clarity_nt_char_3301": "clarity_nt_char_3301"
     },
     "3302": {
-        "戻す": ""
+        "戻す": "Back"
     },
     "3303": {
         "clarity_nt_char_3303": "clarity_nt_char_3303"
@@ -25047,10 +25047,10 @@
         "clarity_nt_char_8349": "clarity_nt_char_8349"
     },
     "8350": {
-        "戦闘中　順不同で発生する条件を　<%sM_num>つ達成せよ！": ""
+        "戦闘中　順不同で発生する条件を　<%sM_num>つ達成せよ！": "Clear <%sM_num> of the below objectives!"
     },
     "8351": {
-        "戦闘中　配られたどうぐ以外　使用できない": ""
+        "戦闘中　配られたどうぐ以外　使用できない": "Only items given for this battle can be used."
     },
     "8352": {
         "clarity_nt_char_8352": "clarity_nt_char_8352"
@@ -25569,10 +25569,10 @@
         "時間！": "Hours!"
     },
     "8524": {
-        "扉が閉じるまで": ""
+        "扉が閉じるまで": "Door Closes In"
     },
     "8525": {
-        "戦闘中　順不同で発生する条件を　３つ達成せよ！": ""
+        "戦闘中　順不同で発生する条件を　３つ達成せよ！": "Clear 3 of the below objectives!"
     },
     "8526": {
         "※マスターⅠのレースで　１着になると　とくぎの入れ替えができます。": ""
@@ -28104,25 +28104,25 @@
         "ベルト倉庫": "Belt Warehouse"
     },
     "9369": {
-        "選ぶ": "Choose"
+        "選ぶ": "Pick"
     },
     "9370": {
         "clarity_nt_char_9370": "clarity_nt_char_9370"
     },
     "9371": {
-        "パス": "Passes"
+        "パス": "Pass"
     },
     "9372": {
         "clarity_nt_char_9372": "clarity_nt_char_9372"
     },
     "9373": {
-        "<%nM_00>／<%nM_01>ゲーム": "<%nM_00>／<%nM_01> Game"
+        "<%nM_00>／<%nM_01>ゲーム": "Game <%dM_00>/<%dM_01>"
     },
     "9374": {
         "clarity_nt_char_9374": "clarity_nt_char_9374"
     },
     "9375": {
-        "出す": ""
+        "出す": "Put"
     },
     "9376": {
         "clarity_nt_char_9376": "clarity_nt_char_9376"
@@ -28353,7 +28353,7 @@
         "clarity_nt_char_9451": "clarity_nt_char_9451"
     },
     "9452": {
-        "場を見る": ""
+        "場を見る": "Board"
     },
     "9453": {
         "clarity_nt_char_9453": "clarity_nt_char_9453"
@@ -28842,7 +28842,7 @@
         "段位戦について": "About Rank Battle"
     },
     "9615": {
-        "カード交換": ""
+        "カード交換": "Card Swap"
     },
     "9616": {
         "他のプレイヤーの行動を待っています。": "Waiting for other players' actions."
