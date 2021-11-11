@@ -9066,7 +9066,7 @@
         "clarity_nt_char_3022": "clarity_nt_char_3022"
     },
     "3023": {
-        "<speed=0><%sM_item><%sM_plusnum>は|ドレスアップされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> has a glamour. Is it okay to|throw it away?<yesno2><close>"
+        "<speed=0><%sM_item><%sM_plusnum>は|ドレスアップされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> has a glamour.|Is it okay to throw it away?<yesno2><close>"
     },
     "3024": {
         "<speed=0><%sM_item><%sM_plusnum>は|カラーリングされていますが|本当に　捨ててもいいですか？<yesno2><close>": "<speed=0><%sM_item><%sM_plusnum> is dyed.|Are you sure you want to throw it away?<yesno2><close>"
