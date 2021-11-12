@@ -5265,7 +5265,7 @@
         "clarity_nt_char_1755": "clarity_nt_char_1755"
     },
     "1756": {
-        "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でテンション下げ": ""
+        "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でテンション下げ": "Tension Down On Attack <%+.1fB_renkin> (<%+.1fB_renkindiff>)%"
     },
     "1757": {
         "攻撃時 <%+.1fB_renkin>（<%+.1fB_renkindiff>）%でぶきみなひかり": ""
@@ -5778,7 +5778,7 @@
         "試合時のみダメージ +？%": "PvP Only Damage +?%"
     },
     "1927": {
-        "攻撃時 ？%でテンション下げ": "Tension Up On Attack ?%"
+        "攻撃時 ？%でテンション下げ": "Tension Down On Attack ?%"
     },
     "1928": {
         "clarity_nt_char_1928": "clarity_nt_char_1928"
@@ -6186,7 +6186,7 @@
         "呪文と特技の回復量？倍": "Spell & Skill Recovery ?x"
     },
     "2063": {
-        "たまに　ダメージを受けてテンションアップ": ""
+        "たまに　ダメージを受けてテンションアップ": "Rarely Gain Tension When Hit"
     },
     "2064": {
         "clarity_nt_char_2064": "clarity_nt_char_2064"
