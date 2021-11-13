@@ -11946,7 +11946,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>鉱山": "<%sW_MAP_NAME><%sW_DELIMITER>Mine"
     },
     "3983": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>果樹園": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>果樹園": "<%sW_MAP_NAME><%sW_DELIMITER>Orchard"
     },
     "3984": {
         "clarity_nt_char_3984": "clarity_nt_char_3984"
@@ -12390,7 +12390,7 @@
         "clarity_nt_char_4130": "clarity_nt_char_4130"
     },
     "4131": {
-        "ファボル鉱山 入口": ""
+        "ファボル鉱山 入口": "Fabol Mine Entry"
     },
     "4132": {
         "裁定の清堂 入口": ""
@@ -12405,7 +12405,7 @@
         "clarity_nt_char_4135": "clarity_nt_char_4135"
     },
     "4136": {
-        "ファボル鉱山 出口": ""
+        "ファボル鉱山 出口": "Fabol Mine Exit"
     },
     "4137": {
         "忘却の神殿 入口": ""
