@@ -24639,7 +24639,7 @@
         "clarity_nt_char_8213": "clarity_nt_char_8213"
     },
     "8214": {
-        "地下<%nM_FLOOR>階": "B<%nM_FLOOR>F"
+        "地下<%nM_FLOOR>階": "B<%dM_FLOOR>F"
     },
     "8215": {
         "clarity_nt_char_8215": "clarity_nt_char_8215"
@@ -32037,13 +32037,13 @@
         "虹のフェザーチップ": ""
     },
     "10680": {
-        "<%sM_floor>階": ""
+        "<%sM_floor>階": "<%sM_floor>F"
     },
     "10681": {
         "clarity_nt_char_10681": "clarity_nt_char_10681"
     },
     "10682": {
-        "[ 階数順 ]": ""
+        "[ 階数順 ]": "[ By Floor ]"
     },
     "10683": {
         "全員優先なし": ""
@@ -32085,7 +32085,7 @@
         "--/--": ""
     },
     "10696": {
-        "階数順に": ""
+        "階数順に": "By Floor"
     },
     "10697": {
         "clarity_nt_char_10697": "clarity_nt_char_10697"
@@ -32097,7 +32097,7 @@
         "clarity_nt_char_10699": "clarity_nt_char_10699"
     },
     "10700": {
-        "<%dM_floor>階": ""
+        "<%dM_floor>階": "<%dM_floor>F"
     },
     "10701": {
         "clarity_nt_char_10701": "clarity_nt_char_10701"
