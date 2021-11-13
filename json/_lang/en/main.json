@@ -14100,7 +14100,7 @@
         "clarity_nt_char_4700": "clarity_nt_char_4700"
     },
     "4701": {
-        "<%sM_gprank>ランク": "<%sM_gprank> Rank"
+        "<%sM_gprank>ランク": "Rank <%sM_gprank>"
     },
     "4702": {
         "（バトルグランプリ）": "(Battle Grand Prix)"
@@ -28440,7 +28440,7 @@
         "clarity_nt_char_9480": "clarity_nt_char_9480"
     },
     "9481": {
-        "ランク：": ""
+        "ランク：": "Rank:"
     },
     "9482": {
         "clarity_nt_char_9482": "clarity_nt_char_9482"
@@ -31911,7 +31911,7 @@
         "clarity_nt_char_10637": "clarity_nt_char_10637"
     },
     "10638": {
-        "ランク<%dM_rank>": ""
+        "ランク<%dM_rank>": "Rank <%dM_rank> "
     },
     "10639": {
         "素材をほしいものメモに登録": "Register in Wish List"
