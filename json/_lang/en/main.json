@@ -16701,7 +16701,7 @@
         "clarity_nt_char_5567": "clarity_nt_char_5567"
     },
     "5568": {
-        "（＋<%nM_bonus>）": ""
+        "（＋<%nM_bonus>）": "(+<%dM_bonus>)"
     },
     "5569": {
         "clarity_nt_char_5569": "clarity_nt_char_5569"
@@ -32448,10 +32448,10 @@
         "伝承アクセサリーを見る": "See Inheritance"
     },
     "10817": {
-        "合成後": ""
+        "合成後": "After"
     },
     "10818": {
-        "合成前": ""
+        "合成前": "Before"
     },
     "10819": {
         "[Lv<%dM_lv>/レベル上限値]": ""
