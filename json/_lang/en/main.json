@@ -1737,7 +1737,7 @@
         "配置コスト": ""
     },
     "580": {
-        "前階層コマンド": ""
+        "前階層コマンド": "Prev. Floor Command"
     },
     "581": {
         "きほん": "Base"
@@ -15036,7 +15036,7 @@
         "clarity_nt_char_5012": "clarity_nt_char_5012"
     },
     "5013": {
-        "地下<%nM_floor>階": "B<%nM_floor>F"
+        "地下<%nM_floor>階": "B<%dM_floor>F"
     },
     "5014": {
         "clarity_nt_char_5014": "clarity_nt_char_5014"
