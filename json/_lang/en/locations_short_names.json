@@ -6306,7 +6306,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・争覇の間": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Battle Hall"
     },
     "2103": {
-        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Rest Hall"
+        "<%sW_MAP_NAME><%sW_DELIMITER><%nW_AUTODUNG_FLOOR>階・休息の間": "<%sW_MAP_NAME><%sW_DELIMITER><%dW_AUTODUNG_FLOOR>F Rest Area"
     },
     "2104": {
         "デフェル荒野への出口": "Exit to Defel Wilderness"
@@ -12555,7 +12555,7 @@
         "clarity_nt_char_4185": "clarity_nt_char_4185"
     },
     "4186": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>休息の間": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>休息の間": "<%sW_MAP_NAME><%sW_DELIMITER>Rest Area"
     },
     "4187": {
         "<%sW_MAP_NAME><%sW_DELIMITER>命脈の中枢": ""
