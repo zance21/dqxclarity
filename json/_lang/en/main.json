@@ -15165,7 +15165,7 @@
         "clarity_nt_char_5055": "clarity_nt_char_5055"
     },
     "5056": {
-        "所持数：": "Stock:"
+        "所持数：": "Stock: "
     },
     "5057": {
         "clarity_nt_char_5057": "clarity_nt_char_5057"
@@ -26502,7 +26502,7 @@
         "--.--": ""
     },
     "8835": {
-        "所持数<%nM_num>こ": "Stock: <%nM_num>"
+        "所持数<%nM_num>こ": "Stock: <%dM_num>"
     },
     "8836": {
         "対抗戦エントリー済": ""
