@@ -15,10 +15,10 @@
         "「そうですか。それは残念でございます。|　ではまた　別の機会に　ご利用くださいませ。": ""
     },
     "6": {
-        "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<break>": ""
+        "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<break>": "However, I can only drop you off and that's|it. How far do you want to go?|<break>"
     },
     "7": {
-        "「<%sL_TIMEI>まで|　行かれるのですね。|　<%nL_GOLD>ゴールドになりますが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_TIMEI>まで|　行かれるのですね。|　<%nL_GOLD>ゴールドになりますが　よろしいですか？|<yesno><break>": "You want to go to <%sL_TIMEI>?|That will be <%dL_GOLD> Gold, is that okay?|<yesno><break>"
     },
     "8": {
         "この場所に　行ける条件を|満たしていないため　選べません。|<end>": ""
