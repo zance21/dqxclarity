@@ -141,16 +141,16 @@
         "「ここは転職を　つかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来るところだ。<br>|「転職を　希望するのか？<yesno><close>": ""
     },
     "48": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP and <%dL_GOLD> G|as a support companion."
     },
     "49": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s) and|<%dL_GOLD> G as a support companion."
     },
     "50": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s) and|<%dL_GOLD> G as a support companion."
     },
     "51": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP and <%dL_GOLD> G|as a support companion."
     },
     "52": {
         "なかまに　はいることができない！": ""
