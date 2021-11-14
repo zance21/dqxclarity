@@ -15,10 +15,10 @@
         "「じゃー　飛ばしちゃうからね！|　行くよっ！！<br>|「プラシー　バーシー　ルルルンポゥ|　世界の果てまで　ひとっとビュン！！<end>": "Then, get ready to soar! Here we go!<br>|Kaboom, Bazoom, zuzuzulo!|To anywhere in the world, you shall go!!<end>"
     },
     "6": {
-        "「今日はあと　<%sL_RULA_COUNT>回飛べるよ！|　どこに　飛びたい？<break>": ""
+        "「今日はあと　<%sL_RULA_COUNT>回飛べるよ！|　どこに　飛びたい？<break>": "You can fly <%sL_RULA_COUNT> more times today!|Where do you want to fly to?<break>"
     },
     "7": {
-        "「ルーラストーンで　あなたが登録できる場所なら|　１日<%sL_RULA_MAX>回まで　５０ゴールドで|　飛ばしちゃうよ！<bw_break>": ""
+        "「ルーラストーンで　あなたが登録できる場所なら|　１日<%sL_RULA_MAX>回まで　５０ゴールドで|　飛ばしちゃうよ！<bw_break>": "I can fly you to any place a Zoomstone can|register up to <%sL_RULA_MAX> times per day for 50 Gold!<bw_break>"
     },
     "8": {
         "「うふふっ。はじめまして。|　この場所で　バシルーラ屋を　はじめる|　バシっ娘　バンリィだよ。よろしくね！<br>|「バシルーラ屋はね　あなたが登録できる場所なら|　ルーラストーンに登録していなくても|　その場所に　飛ばしちゃえるんだよ！<br>|「でも　飛ばすのは　どこで飛んでも|　１日<%sL_RULA_MAX>回までなんだ。|　料金も　５０ゴールドもらうけど　いいよね！<br>|「バシルーラ屋は　バンリィのほかにもいるから|　もしよかったら　会いに行ってみてね。<br>|「じゃー　あらためて。<bw_break>": ""
