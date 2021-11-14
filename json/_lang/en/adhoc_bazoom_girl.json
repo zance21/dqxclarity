@@ -33,7 +33,7 @@
         "「飛ばす場所は　<%sL_TOBISAKI>|　でいい？<yesno><break>": "You want to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "12": {
-        "「やめるんだね。|　じゃー　どこに　飛びたい？<break>": ""
+        "「やめるんだね。|　じゃー　どこに　飛びたい？<break>": "You want to stop? Then, where do you want to|go?<break>"
     },
     "13": {
         "「うふふっ。あのね　今度|　バンリィのいとこも　メギストリスの都で|　バシルーラ屋をはじめたみたい。<br>|「どっちの　バシルーラ屋で飛んでも|　１日<%sL_RULA_MAX>回なのは　変わらないけど|　もしよかったら　会いに行ってみてね。<br>|「じゃー　あらためて。<bw_break>": ""
