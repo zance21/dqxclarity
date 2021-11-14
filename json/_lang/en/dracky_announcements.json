@@ -1488,7 +1488,7 @@
         "捧げた <%sC_ITEM>が 使用されました": "Offered <%sC_ITEM> was used."
     },
     "497": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sC_ITEM>は 戻ってきた": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sC_ITEM>は 戻ってきた": "\\s<%sC_PC>\\m<%sC_ID>\\e's <%sC_ITEM> was returned."
     },
     "498": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eの <%sC_ITEM>は 使用された": "\\s<%sC_PC>\\m<%sC_ID>\\e's <%sC_ITEM> was used."
