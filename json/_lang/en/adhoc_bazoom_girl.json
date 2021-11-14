@@ -27,10 +27,10 @@
         "「あれ　飛ばないの？|　ざんねん。|　また　バンリィに会いに来てね。<end>": "Huh? You don't want to fly? Too bad.|Come see me again sometime.<end>"
     },
     "10": {
-        "「あれ？　その大陸は　まだ行ってないみたい。|　行ったことのある場所から　選んでね。<bw_break>": ""
+        "「あれ？　その大陸は　まだ行ってないみたい。|　行ったことのある場所から　選んでね。<bw_break>": "Huh? It seems you have never been to that|continent before. You can only choose places|you've already been to.<bw_break>"
     },
     "11": {
-        "「飛ばす場所は　<%sL_TOBISAKI>|　でいい？<yesno><break>": ""
+        "「飛ばす場所は　<%sL_TOBISAKI>|　でいい？<yesno><break>": "You want to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "12": {
         "「やめるんだね。|　じゃー　どこに　飛びたい？<break>": ""
