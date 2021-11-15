@@ -60,7 +60,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "21": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": ""
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
     },
     "22": {
         "「美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
