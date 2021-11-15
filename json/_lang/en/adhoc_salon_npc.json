@@ -39,10 +39,10 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
     },
     "14": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
     },
     "15": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
     },
     "16": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
