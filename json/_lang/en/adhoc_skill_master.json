@@ -60,10 +60,10 @@
         "「おや……。<pc>さんは　スキルブックを|　お持ちでないようですね。|<br>|「スキルブックは　世界各地に散らばっています。　|　お持ちいただけたら　引き換えに|　<color_yellow>マスタースキルポイント<color_white>を授けましょう。|<br>|「……今回は　特別サービスです。|　そこの宝箱に１冊　保管してありますので|　取ってきていただけますか？": ""
     },
     "21": {
-        "<select_se_off>|マスタースキルを割り振る|スキルブックを渡す|いやしてもらう|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|マスタースキルを割り振る|スキルブックを渡す|いやしてもらう|説明を聞く|<select_end><break>": "<select_se_off>|Allocate Master Skills|Give Skill Books|Get Healed|Explanation|<select_end><break>"
     },
     "22": {
-        "本当に　スキルマスターに　|いやしてもらいますか？|<yesno><break>": ""
+        "本当に　スキルマスターに　|いやしてもらいますか？|<yesno><break>": "Do you really want the Skill Master to heal|you?|<yesno><break>"
     },
     "23": {
         "clarity_nt_char_23": "clarity_nt_char_23"
@@ -87,7 +87,7 @@
         "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "30": {
-        "「<%sM_job>の　マスタースキルを|　割り振るぞ。どのスキルに割り振るのだ？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振るぞ。どのスキルに割り振るのだ？|<break>": "I'll allocate the Master Skills of <%sM_job>.|Which skill line do you want to allocate?|<break>"
     },
     "31": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -99,7 +99,7 @@
         "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "35": {
         "clarity_nt_char_35": "clarity_nt_char_35"
