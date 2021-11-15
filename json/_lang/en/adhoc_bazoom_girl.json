@@ -162,10 +162,10 @@
         "「あれあれ　やめちゃうの～？|　それじゃあ　どこに　飛びたいのかな～？<break>": "Whoa, you wanna stop?|Well then, where do you wanna go?<break>"
     },
     "55": {
-        "「あれあれ～？　その場所は　今|　都合が悪いみたい。お金は返すから|　時間をおいて　また来てね～。<end>": ""
+        "「あれあれ～？　その場所は　今|　都合が悪いみたい。お金は返すから|　時間をおいて　また来てね～。<end>": "Whoa, that place? That seems like a bad idea|right now. I'll give you your money back.|Come back in a little while.<end>"
     },
     "56": {
-        "「あれあれ　今日は　もう飛んでるね～？|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回だよ。": ""
+        "「あれあれ　今日は　もう飛んでるね～？|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回だよ。": "Hey hey, haven't you already flown today?|You can only fly up to <%sL_RULA_MAX> times per day!"
     },
     "57": {
         "「あれあれ　お金が　足りないよ～？|　また　お金がある時に　来てね～。<end>": ""
