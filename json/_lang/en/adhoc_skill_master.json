@@ -27,7 +27,7 @@
         "「スキルブックは　世界各地に散らばっており|　そもそも　数える程しか　存在していない|　希少な物なのです。|<br>|「もし　スキルブックを　お持ちくだされば|　特別なスキルポイントである|　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": "Skill Books are scattered all around the|world, and are so rare that only a few exist.|<br>|If you bring me any Skill Books, I will give|you <color_yellow>Master Skill Points<color_white>."
     },
     "10": {
-        "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントです。|<br>|「割り振りと　振り直しは|　私か　あるいは　各地にいる神官が|　おこなうことができます。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに　記憶されます。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるので|　転職の際には　ご注意ください。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振りましょう。|<end>": ""
+        "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントです。|<br>|「割り振りと　振り直しは|　私か　あるいは　各地にいる神官が|　おこなうことができます。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに　記憶されます。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるので|　転職の際には　ご注意ください。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振りましょう。|<end>": "Master Skill Points are special skill points|that can be assigned per vocation, and can|be freely reassigned at will.|<br>|I can reallocate them for you, or you can|also do it at a priest in any region.|<br>|In addition, each skill line of a vocation|can have its own Master Skill Points assigned.|<br>|Be aware that even if multiple vocations|have the same skill lines, they still need to|be assigned independently, so be careful.|<br>|Make sure to not only allocate points in|your current vocations, but other vocations|as well.|<end>"
     },
     "11": {
         "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
