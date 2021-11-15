@@ -87,7 +87,7 @@
         "<%sL_TOBISAKI>に移動しますか？<yesno><break>": "Move to <%sL_TOBISAKI>?<yesno><break>"
     },
     "30": {
-        "どこに　移動しますか？<break>": ""
+        "どこに　移動しますか？<break>": "Where do you want to move to?<break>"
     },
     "31": {
         "対象マップへの移動に　失敗しました。|時間をおいて　再度お試しください。": ""
@@ -108,7 +108,7 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "37": {
-        "どこに　移動しますか？<break>": ""
+        "どこに　移動しますか？<break>": "Where do you want to move to?<break>"
     },
     "38": {
         "clarity_nt_char_38": "clarity_nt_char_38"
