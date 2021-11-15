@@ -36,13 +36,13 @@
         "「わしは　５つの理を学び|　おのれを究めんとする者たちを　導く者。|　人呼んで　達人である。|<br>|「ふむ……。おぬし　いい目をしておるな。|　今後も　はげむがよい。いつか　おぬしにも|　道を示すことになるかもしれんのう。|<end>": "I am one who learns the five principles, and|teaches those willing to learn them. I'm|what you call a Master.|<br>|Hmm.. you have a good eye. You should continue|to work hard. Maybe one day, I can show you|the way.|<end>"
     },
     "13": {
-        "「『達人クエスト』では|　週に一度　すべての冒険者に向けて|　５つのクエストを　提示する。|<br>|「おぬしは　その中から自分に適したものを|　ひとつだけ選んで　達成するのじゃ。|　仲間と協力しても　かまわんぞ。|<br>|「みごと　クエストを達成したあかつきには|　好きな属性の　宝珠を与えよう。|　ふるって　挑戦するがよい。|<bw_break>": ""
+        "「『達人クエスト』では|　週に一度　すべての冒険者に向けて|　５つのクエストを　提示する。|<br>|「おぬしは　その中から自分に適したものを|　ひとつだけ選んで　達成するのじゃ。|　仲間と協力しても　かまわんぞ。|<br>|「みごと　クエストを達成したあかつきには|　好きな属性の　宝珠を与えよう。|　ふるって　挑戦するがよい。|<bw_break>": "With \"Master Quests\", adventurers will be|presented with 5 quests each week.|<br>|You can choose only one, so choose which|suits you best. Also, you may complete it|with companions if you so wish.|<br>|After completing the quest, I will give you|jewels of the attribute of your choice. I hope|that you choose to take up this challenge.|<bw_break>"
     },
     "14": {
-        "今　受けている達人クエストを　キャンセルして|この達人クエストを　受けますか？|<yesno 2><close>": ""
+        "今　受けている達人クエストを　キャンセルして|この達人クエストを　受けますか？|<yesno 2><close>": "Would you like to cancel your currently|accepted Master Quest in order to accept a|new one?|<yesno 2><close>"
     },
     "15": {
-        "この達人クエストを　受けますか？|<yesno><close>": ""
+        "この達人クエストを　受けますか？|<yesno><close>": "Which quest will you accept?|<yesno><close>"
     },
     "16": {
         "「受注したクエストは　『さくせん』の|　『達人のオーブ』で　いつでも確認できるぞ。|　達成したら　また　ここに戻ってくるがよい。|<bw_break>": ""
