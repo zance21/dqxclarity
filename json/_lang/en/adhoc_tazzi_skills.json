@@ -30,7 +30,7 @@
         "「わかりました。|　<%nM_point>の　スキル枠に|　<%sM_skill>を　セットしますね。|<bw_break>": "Understood. I've set <%sM_skill>|in the <%dM_point>P skill slot.|<bw_break>"
     },
     "11": {
-        "<se_nots System 7>|「ふう……。　|　無事に　<pc>さんが|　新たなスキルを　おぼえることができました。|<br>|「他のスキルを　おぼえたいときは|　僕に　おまかせくだされば　いつでも|　おぼえなおすことが　できますよ。|<end>": ""
+        "<se_nots System 7>|「ふう……。　|　無事に　<pc>さんが|　新たなスキルを　おぼえることができました。|<br>|「他のスキルを　おぼえたいときは|　僕に　おまかせくだされば　いつでも|　おぼえなおすことが　できますよ。|<end>": "<se_nots System 7>|Whew...looks like you able to learn a new|skill safely.|<br>|If you'd like to learn any new skills,|please leave it to me anytime. You can|always re-learn skills, too.|<end>"
     },
     "12": {
         "「<pc>さん。|　新しいスキルを　おぼえるのでしたら|　いつでも　僕に　おまかせください。|<br>|「今日は　何を　ご希望ですか？|<break>": ""
