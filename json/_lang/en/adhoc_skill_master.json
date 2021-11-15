@@ -552,7 +552,7 @@
         "「どのスキルに　マスタースキルポイントを|　割り振りますか？|<end>": "Which skill line will you allocate Master|Skill points to?|<break>"
     },
     "185": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
     },
     "186": {
         "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
@@ -564,16 +564,16 @@
         "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
     },
     "189": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
     },
     "190": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
     },
     "191": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
     },
     "192": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
     },
     "193": {
         "「マスタースキルポイントの|　振り分けは　完了しました。|　さあ　お行きなさい。|<end>": ""
