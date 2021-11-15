@@ -63,7 +63,7 @@
         "「う…　お気に召さなかったのですね…|　やはり　<pc>さんに　お望みのスキルを|　選んでいただくのが　一番ですね。|<br>|「選んでいただいたスキルは　いつでも|　おぼえなおすことが　できますので|　色々ためしてみてください。|<bw_break>": "Oh... I'm sorry that you didn't like it...|After all, it's best for you to choose the|skills that you want, isn't it?|<br>|You can always re-learn skills, so please|try out the various skills.|<bw_break>"
     },
     "22": {
-        "「<pc>さん　僕から|　この「セット中のスキル」を　おすすめしますが|　いかがでしょうか？|<yesno 2><break>": ""
+        "「<pc>さん　僕から|　この「セット中のスキル」を　おすすめしますが|　いかがでしょうか？|<yesno 2><break>": "<if_woman>Ms.<else>Mr.<endif> <pc>, I recommend|this set of skills. How about it?|<yesno 2><break>"
     },
     "23": {
         "<color_yellow>スキル枠に　セットしたスキルは|「スキルふりわけ」から　スキルポイントを|振り分けることで　使用できます。|<end>": ""
