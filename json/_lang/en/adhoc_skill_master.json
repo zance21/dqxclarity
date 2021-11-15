@@ -54,7 +54,7 @@
         "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
     },
     "19": {
-        "「<pc>さんは　マスタースキルポイントを|　その身に宿していないようですね。|<br>|「まずは　スキルブックを手に入れて|　お持ちください。スキルブックと引き換えに|　マスタースキルポイントを　授けましょう。": ""
+        "「<pc>さんは　マスタースキルポイントを|　その身に宿していないようですね。|<br>|「まずは　スキルブックを手に入れて|　お持ちください。スキルブックと引き換えに|　マスタースキルポイントを　授けましょう。": "You seem to not have any Master Skill Points.|<br>|First, bring any Skill Books you find to me.|In exchange, I'll grant you Master Skill|Points."
     },
     "20": {
         "「おや……。<pc>さんは　スキルブックを|　お持ちでないようですね。|<br>|「スキルブックは　世界各地に散らばっています。　|　お持ちいただけたら　引き換えに|　<color_yellow>マスタースキルポイント<color_white>を授けましょう。|<br>|「……今回は　特別サービスです。|　そこの宝箱に１冊　保管してありますので|　取ってきていただけますか？": ""
