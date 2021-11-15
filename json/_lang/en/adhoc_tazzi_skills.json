@@ -15,7 +15,7 @@
         "「キャンセルすると　今　セットしている|　スキル枠の状態が　リセットされ|　元に戻ってしまいますが　よろしいでしょうか？|<yesno 2><break>": "If you cancel, any changes you've made will|be reset and returned to how it was. Is|that alright?|<yesno 2><break>"
     },
     "6": {
-        "「それでは　今　セットされている|　スキルを　新たに　おぼえて|　よろしいでしょうか？|<yesno><break>": ""
+        "「それでは　今　セットされている|　スキルを　新たに　おぼえて|　よろしいでしょうか？|<yesno><break>": "In that case, would you like to learn the|skills you currently have set?|<yesno><break>"
     },
     "7": {
         "「どのスキル枠に　セットしますか？|　セットする　スキル枠によって|　発揮される効果が　変わりますよ。|<break>": ""
