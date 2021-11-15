@@ -417,7 +417,7 @@
         "clarity_nt_char_139": "clarity_nt_char_139"
     },
     "140": {
-        "「<%sM_job>の　マスタースキルを|　割り振るのね。|　どのスキルに　割り振りたいのかしら？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振るのね。|　どのスキルに　割り振りたいのかしら？|<break>": "You want to allocate the Master Skills of|<%sM_job>? Which skill line do you want to|allocate?|<break>"
     },
     "141": {
         "clarity_nt_char_141": "clarity_nt_char_141"
@@ -429,7 +429,7 @@
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "144": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "145": {
         "clarity_nt_char_145": "clarity_nt_char_145"
