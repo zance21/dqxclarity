@@ -195,13 +195,13 @@
         "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_TOBISAKI>|　でいい？<yesno><break>": "You can fly as many times as you want to that|place! You're sure you want to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "66": {
-        "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいい？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいい？<yesno><break>": "You can fly as many times as you want to that|place! You're sure you want to fly to|<%sL_MAP_NAME>'s <%sL_TOBISAKI>?<yesno><break>"
     },
     "67": {
-        "「その場所なら　回数無制限で飛べるよ～！|　飛ばす場所は　<%sL_TOBISAKI>|　で　いいのかな～？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べるよ～！|　飛ばす場所は　<%sL_TOBISAKI>|　で　いいのかな～？<yesno><break>": "Fly to that place as many times as you want~!|So you wanna fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "68": {
-        "「その場所なら　回数無制限で飛べるよ～！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べるよ～！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": "Fly to that place as many times as you want~!|So you wanna fly to|<%sL_MAP_NAME>'s <%sL_TOBISAKI>?<yesno><break>"
     },
     "69": {
         "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": ""
