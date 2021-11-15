@@ -51,7 +51,7 @@
         "「他のスキルに　変えられるのですね。|　どのスキルから　おぼえますか？|<break>": "You can change your skills. Which skill do|you want to learn?|<break>"
     },
     "18": {
-        "「あっ　<pc>さんは　まだ|　このスキルを　セットされたことが|　ないようですね。|<br>|「もし　<pc>さんが　よろしければ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": ""
+        "「あっ　<pc>さんは　まだ|　このスキルを　セットされたことが|　ないようですね。|<br>|「もし　<pc>さんが　よろしければ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": "Ah, it seems like you haven't set this skill|yet. If you're okay with it, I can set the|recommended skills. Is that okay?|<yesno><break>"
     },
     "19": {
         "「わ　失礼しました！　<pc>さんなら|　ご自分で　スキルの選択も　できますよね。|　ぜひ　お好みのスキルを　お選びください！|<end>": ""
