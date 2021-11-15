@@ -18,10 +18,10 @@
         "「それでは　今　セットされている|　スキルを　新たに　おぼえて|　よろしいでしょうか？|<yesno><break>": "In that case, would you like to learn the|skills you currently have set?|<yesno><break>"
     },
     "7": {
-        "「どのスキル枠に　セットしますか？|　セットする　スキル枠によって|　発揮される効果が　変わりますよ。|<break>": ""
+        "「どのスキル枠に　セットしますか？|　セットする　スキル枠によって|　発揮される効果が　変わりますよ。|<break>": "Which skill slot would you like to set? The|skill's effect may be different depending|on which slot you choose for it.|<break>"
     },
     "8": {
-        "「考えなおすのですね。|　じっくり　お考えください。|<bw_break>": ""
+        "「考えなおすのですね。|　じっくり　お考えください。|<bw_break>": "So you're rethinking it, huh? Please, take|your time.|<bw_break>"
     },
     "9": {
         "「わかりました！|　<pc>さん　目をつぶってください。|　それでは　いきます！|<bw_break>": ""
