@@ -99,6 +99,6 @@
         "<se_nots System 7>|タッツィの　おすすめスキルを|セットしてもらった！|<bw_break>": "<se_nots System 7>|Tazzi's recommended skills have been set!|<bw_break>"
     },
     "34": {
-        "「あっ　<pc>さん。<%sM_skill_line>に|　その職業では　効果のないスキルが|　セットされているので　外しておきますね。|<br_break>": ""
+        "「あっ　<pc>さん。<%sM_skill_line>に|　その職業では　効果のないスキルが|　セットされているので　外しておきますね。|<br_break>": "Ah, <if_woman>Ms.<else>Mr.<endif> <pc>. <%sM_skill_line>|has skills that are ineffective in that|vocation, so I'll remove them for you.|<br_break>"
     }
 }
