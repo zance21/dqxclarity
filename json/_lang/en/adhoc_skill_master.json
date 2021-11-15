@@ -30,7 +30,7 @@
         "「マスタースキルポイントとは|　職業ごとに配分され　ポイントの振り直しも|　自由におこなえる　特別なスキルポイントです。|<br>|「割り振りと　振り直しは|　私か　あるいは　各地にいる神官が|　おこなうことができます。|<br>|「また　マスタースキルポイントは|　各職業が持つスキルごとに　記憶されます。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　異なるものになるので|　転職の際には　ご注意ください。|<br>|「スキルブックで　マスタースキルポイントを|　増やした後は　今の職業だけでなく　各職業にも|　そのポイントを　割り振りましょう。|<end>": "Master Skill Points are special skill points|that can be assigned per vocation, and can|be freely reassigned at will.|<br>|I can reallocate them for you, or you can|also do it at a priest in any region.|<br>|In addition, each skill line of a vocation|can have its own Master Skill Points assigned.|<br>|Be aware that even if multiple vocations|have the same skill lines, they still need to|be assigned independently, so be careful.|<br>|Make sure to not only allocate points in|your current vocations, but other vocations|as well.|<end>"
     },
     "11": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "12": {
         "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
