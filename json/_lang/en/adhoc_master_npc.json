@@ -45,7 +45,7 @@
         "この達人クエストを　受けますか？|<yesno><close>": "Which quest will you accept?|<yesno><close>"
     },
     "16": {
-        "「受注したクエストは　『さくせん』の|　『達人のオーブ』で　いつでも確認できるぞ。|　達成したら　また　ここに戻ってくるがよい。|<bw_break>": ""
+        "「受注したクエストは　『さくせん』の|　『達人のオーブ』で　いつでも確認できるぞ。|　達成したら　また　ここに戻ってくるがよい。|<bw_break>": "You can check your accepted quest under the|\"Master Orb\" menu in \"Misc.\". When you've|completed it, you should come back to me.|<bw_break>"
     },
     "17": {
         "「どうやら　達人クエストを達成したようじゃな！|　見事であるぞ　<pc>よ。|　さっそく　報酬を渡すとしようかの。|<bw_break>": ""
