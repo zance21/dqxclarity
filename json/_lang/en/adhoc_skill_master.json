@@ -18,10 +18,10 @@
         "<pc>は　マスタースキルポイントを|<%nc_point>Ｐ　手に入れた！|<me 71>": "<pc> received <%dc_point> Master Skill Point(s)!|<me 71>"
     },
     "7": {
-        "「これで　<pc>さんの身体に|　新たなる力が宿りました。|<br>|「マスタースキルポイントを　使用する際は|　私に話しかけ　『マスタースキルを割り振る』を|　選んでください。|<br>|「なお　マスタースキルポイントの　割り振りは|　私だけではなく　各地にいる神官も|　おこなうことが　できますよ。": ""
+        "「これで　<pc>さんの身体に|　新たなる力が宿りました。|<br>|「マスタースキルポイントを　使用する際は|　私に話しかけ　『マスタースキルを割り振る』を|　選んでください。|<br>|「なお　マスタースキルポイントの　割り振りは|　私だけではなく　各地にいる神官も|　おこなうことが　できますよ。": "You are now in the possession of a new kind|of power, <if_woman>Ms.<else>Mr.<endif> <pc>.|<br>|If you want to use your Master Skill Points,|talk to me and select \"Allocate Master|Skills\".|<br>|You can also allocate points at a priest|in any region."
     },
     "8": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "9": {
         "「スキルブックは　世界各地に散らばっており|　そもそも　数える程しか　存在していない|　希少な物なのです。|<br>|「もし　スキルブックを　お持ちくだされば|　特別なスキルポイントである|　<color_yellow>マスタースキルポイント<color_white>を　授けましょう。": ""
