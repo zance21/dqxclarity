@@ -204,10 +204,10 @@
         "「その場所なら　回数無制限で飛べるよ～！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": "Fly to that place as many times as you want~!|So you wanna fly to|<%sL_MAP_NAME>'s <%sL_TOBISAKI>?<yesno><break>"
     },
     "69": {
-        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": "You can fly as many times as you like to that|place. So the place you'd like to go is|<%sL_TOBISAKI>?<yesno><break>"
     },
     "70": {
-        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べます。|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": "You can fly as many times as you like to that|place. So the place you'd like to go is|<%sL_MAP_NAME>'s <%sL_TOBISAKI>?<yesno><break>"
     },
     "71": {
         "clarity_nt_char_71": "clarity_nt_char_71"
@@ -216,7 +216,7 @@
         "clarity_nt_char_72": "clarity_nt_char_72"
     },
     "73": {
-        "「今日はもう　回数制限のない場所しか|　飛べないよ！|　どこに　飛びたい？<break>": ""
+        "「今日はもう　回数制限のない場所しか|　飛べないよ！|　どこに　飛びたい？<break>": "You can only fly to places with no limit|today! Where do you want to fly to?<break>"
     },
     "74": {
         "「今日はもう　回数制限のない場所しか|　飛べないよ～。|　どこに　飛びたい～？<break>": ""
