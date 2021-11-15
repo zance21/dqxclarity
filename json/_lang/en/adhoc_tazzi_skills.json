@@ -69,7 +69,7 @@
         "<color_yellow>スキル枠に　セットしたスキルは|「スキルふりわけ」から　スキルポイントを|振り分けることで　使用できます。|<end>": "<color_yellow>Skills set in the skill slots can be used|by allocating points in your \"Skill Points\"|menu.|<end>"
     },
     "24": {
-        "<select_se_off>|スキルをおぼえる|一括でおまかせ|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|スキルをおぼえる|一括でおまかせ|説明を聞く|<select_end>|<break>": "<select_se_off>|Learn Skills|Recommend Skills|Explanation|<select_end>|<break>"
     },
     "25": {
         "「あっ　まだ　セットされていないスキルが|　あるようですね。|<br>|「よろしければ　空いているところだけ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": ""
