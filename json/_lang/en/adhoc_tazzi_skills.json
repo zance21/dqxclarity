@@ -54,10 +54,10 @@
         "「あっ　<pc>さんは　まだ|　このスキルを　セットされたことが|　ないようですね。|<br>|「もし　<pc>さんが　よろしければ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": "Ah, it seems like you haven't set this skill|yet. If you're okay with it, I can set the|recommended skills. Is that okay?|<yesno><break>"
     },
     "19": {
-        "「わ　失礼しました！　<pc>さんなら|　ご自分で　スキルの選択も　できますよね。|　ぜひ　お好みのスキルを　お選びください！|<end>": ""
+        "「わ　失礼しました！　<pc>さんなら|　ご自分で　スキルの選択も　できますよね。|　ぜひ　お好みのスキルを　お選びください！|<end>": "E...excuse me! Please, choose the skills that|you like best!|<end>"
     },
     "20": {
-        "「わかりました！|　それでは　僕に　おまかせください！|　えっと　このスキルと　このスキルで…|<bw_break>": ""
+        "「わかりました！|　それでは　僕に　おまかせください！|　えっと　このスキルと　このスキルで…|<bw_break>": "Understood! Just leave it to me! So we have|this skill, and that one there...|<bw_break>"
     },
     "21": {
         "「う…　お気に召さなかったのですね…|　やはり　<pc>さんに　お望みのスキルを|　選んでいただくのが　一番ですね。|<br>|「選んでいただいたスキルは　いつでも|　おぼえなおすことが　できますので|　色々ためしてみてください。|<bw_break>": ""
