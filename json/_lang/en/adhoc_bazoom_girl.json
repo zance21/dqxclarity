@@ -135,13 +135,13 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "46": {
-        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいい？<yesno><break>": ""
+        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいい？<yesno><break>": "You want to fly to <%sL_MAP_NAME>'s|<%sL_TOBISAKI>?<yesno><break>"
     },
     "47": {
-        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": ""
+        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいですか？<yesno><break>": "You want to fly to <%sL_MAP_NAME>'s|<%sL_TOBISAKI>?<yesno><break>"
     },
     "48": {
-        "<%sL_MAP_NAME>　の|<%sL_TOBISAKI>に移動しますか？<yesno><break>": ""
+        "<%sL_MAP_NAME>　の|<%sL_TOBISAKI>に移動しますか？<yesno><break>": "Do you want to move to <%sL_MAP_NAME>'s|<%sL_TOBISAKI>?<yesno><break>"
     },
     "49": {
         "「港町レンドアにいる　バンリィお姉さまと|　メギストリスの都にいる　いとこのランリィも|　バシルーラ屋をしてるんだよ～。<br>|「どこの　バシルーラ屋で飛んでも|　１日<%sL_RULA_MAX>回なのは　変わらないけど|　そっちも　利用してあげてね～。<br>|「それじゃあ　バシルーラ屋を始めるよ～。<bw_break>": ""
