@@ -48,10 +48,10 @@
         "「飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": "Is it okay to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "17": {
-        "「やめるのですね。|　では　どこに飛びます？<break>": ""
+        "「やめるのですね。|　では　どこに飛びます？<break>": "You wanna stop? Where would you like to fly,|then?<break>"
     },
     "18": {
-        "「その場所は　今　都合が悪いみたいです。|　お金は返しますので　少し時間をおいて|　また　試してくださいね。<end>": ""
+        "「その場所は　今　都合が悪いみたいです。|　お金は返しますので　少し時間をおいて|　また　試してくださいね。<end>": "It seems like you can't go to that place right|now. I'll give you your money back. Please|come back in a little while.<end>"
     },
     "19": {
         "「ごめんなさい。今日は　飛んでるみたいですね。|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回までです。": ""
