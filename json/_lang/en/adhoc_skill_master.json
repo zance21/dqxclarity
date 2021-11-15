@@ -588,18 +588,18 @@
         "「よし。マスタースキルポイントの|　振り分けは　完了した。|　さあ　行くがよい。|<end>": "Great. Master Skill Point allocation has been|completed. Now, you may go.|<end>"
     },
     "197": {
-        "「マスタースキルポイントの|　振り分けは　完了したわよ。|　ンフッ。また会いにきてね！|<end>": ""
+        "「マスタースキルポイントの|　振り分けは　完了したわよ。|　ンフッ。また会いにきてね！|<end>": "Master Skill Point allocation has now been|completed. Hm. Come again soon!|<end>"
     },
     "198": {
-        "「よし。マスタースキルポイントの|　振り分けは　完了した。|　さあ　行くがよい。|<end>": ""
+        "「よし。マスタースキルポイントの|　振り分けは　完了した。|　さあ　行くがよい。|<end>": "Great. Master Skill Point allocation has been|completed. Now, you may go.|<end>"
     },
     "199": {
-        "「マスタースキルポイントの|　振り分けは　完了しました。|　さあ　お行きなさい。|<end>": ""
+        "「マスタースキルポイントの|　振り分けは　完了しました。|　さあ　お行きなさい。|<end>": "Master Skill Point allocation has been|completed. Now, you may go.|<end>"
     },
     "200": {
         "clarity_nt_char_200": "clarity_nt_char_200"
     },
     "201": {
-        "「マスタースキルポイントを　割り振るのですね？|　ポイントは　各職業のスキルごとに覚えるため|　他職業には反映されないので　ご注意ください。|<end>": ""
+        "「マスタースキルポイントを　割り振るのですね？|　ポイントは　各職業のスキルごとに覚えるため|　他職業には反映されないので　ご注意ください。|<end>": "You want to allocate your Master Skill Points?|Please remember that the points allocated per|vocation and skill line are separate.|<end>"
     }
 }
