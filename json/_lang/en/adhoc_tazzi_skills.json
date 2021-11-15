@@ -84,7 +84,7 @@
         "「ふう……。　|　無事に　<pc>さんが|　新たなスキルを　おぼえることができました。|<br>|「他のスキルを　おぼえたいときは|　僕に　おまかせくだされば　いつでも|　おぼえなおすことが　できますよ。|<end>": "Whew...looks like you able to learn a new|skill safely.|<br>|If you'd like to learn any new skills,|please leave it to me anytime. You can|always re-learn skills, too.|<end>"
     },
     "29": {
-        "「ああっ　申し訳ありません。こちらのスキルは　|　<%sM_ShareSkillLine>の「<%sM_ShareSkill>」と|　一緒には　セットできないんです……。": ""
+        "「ああっ　申し訳ありません。こちらのスキルは　|　<%sM_ShareSkillLine>の「<%sM_ShareSkill>」と|　一緒には　セットできないんです……。": "Ahh, I apologize. But this skill can't be set|together with <%sM_ShareSkillLine>'s|\"<%sM_ShareSkill>\"..."
     },
     "30": {
         "「どのスキル枠に　セットしますか？|　こちらのスキルは　どのスキル枠にセットしても|　効果は　変わりませんよ。|<break>": ""
