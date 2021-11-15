@@ -54,7 +54,7 @@
         "「その場所は　今　都合が悪いみたいです。|　お金は返しますので　少し時間をおいて|　また　試してくださいね。<end>": "It seems like you can't go to that place right|now. I'll give you your money back. Please|come back in a little while.<end>"
     },
     "19": {
-        "「ごめんなさい。今日は　飛んでるみたいですね。|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回までです。": ""
+        "「ごめんなさい。今日は　飛んでるみたいですね。|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回までです。": "Sorry. You can't fly anymore today. You can|only fly up to <%sL_RULA_MAX> times per day."
     },
     "20": {
         "「お金が　足りないみたいです。|　また　お金がある時に来てくださいね。<end>": ""
