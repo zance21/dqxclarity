@@ -171,7 +171,7 @@
         "○PC○さんと　合流しますか？<yesno><close>": ""
     },
     "58": {
-        "<pipipi_off>サポート仲間として|何も　かくとくできなかった。|<end>": "<pipipi_off>As a support companion, you didn't earn anything.|<end>"
+        "<pipipi_off>サポート仲間として|何も　かくとくできなかった。|<end>": "<pipipi_off>As a support companion, you didn't|earn anything.|<end>"
     },
     "59": {
         "clarity_nt_char_59": "clarity_nt_char_59"
