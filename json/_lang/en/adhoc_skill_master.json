@@ -51,7 +51,7 @@
         "「何を　知りたいのでしょうか？|<break>": "What would you like to know?|<break>"
     },
     "18": {
-        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
     },
     "19": {
         "「<pc>さんは　マスタースキルポイントを|　その身に宿していないようですね。|<br>|「まずは　スキルブックを手に入れて|　お持ちください。スキルブックと引き換えに|　マスタースキルポイントを　授けましょう。": ""
