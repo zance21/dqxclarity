@@ -45,10 +45,10 @@
         "「僕が　<pc>さんの内に眠る|　スキルの可能性を　解放する|　お手伝いをさせていただきます。|<br>|「１６０以上のスキル枠に　<pc>さんが|　望むスキルを　自由に　おぼえることが|　できるように　なっています。|<br>|「ですが　スキルは　１６０以上の|　すべてのスキル枠に　セットしないと|　新たに　おぼえることが　できません……。|<br>|「そして　ひとつ　おぼえてほしいことが。|　同じスキルでも　どのスキル枠で|　おぼえるかによって　効果が変化するんです。|<br>|「スキルポイントの大きい枠で　おぼえると|　効果が　強く発揮されるかもしれません。|<br>|「今の　<pc>さんなら　どんなスキルも|　使いこなせる　つよさを　お持ちですので|　ぜひ　いろんなスキルを　試してみてください。|<br>|「あっ　言い忘れていましたが|　同じスキルは　重複して　おぼえることが|　できないので　注意してくださいね。|<bw_break>": "I will release the potential of skills that|lie within you, <pc>.|<br>|You can freely choose which skills you would|like to learn for 160P and above.|<br>|However, you must have a skill set in each|slot for 160P and above, or else you can't| learn any at all...|<br>|There's one important thing to remember.|A skill's effect may change depending on|which slot you choose to place it in.|<br>|If you place it in a high skill point slot,|its effect may become stronger.|<br>|As you are now, you have the strength to|learn any skill, so feel free to try out|any|skill that you like.|<br>|Ah, I forgot to mention that you can't|learn a skill more than once, so be sure to|remember that.|<bw_break>"
     },
     "16": {
-        "「他にも　何か　お望みですか？|<break>": ""
+        "「他にも　何か　お望みですか？|<break>": "Anything else you need?|<break>"
     },
     "17": {
-        "「他のスキルに　変えられるのですね。|　どのスキルから　おぼえますか？|<break>": ""
+        "「他のスキルに　変えられるのですね。|　どのスキルから　おぼえますか？|<break>": "You can change your skills. Which skill do|you want to learn?|<break>"
     },
     "18": {
         "「あっ　<pc>さんは　まだ|　このスキルを　セットされたことが|　ないようですね。|<br>|「もし　<pc>さんが　よろしければ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": ""
