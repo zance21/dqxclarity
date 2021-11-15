@@ -51,10 +51,10 @@
         "「どうやら　達人クエストを達成したようじゃな！|　見事であるぞ　<pc>よ。|　さっそく　報酬を渡すとしようかの。|<bw_break>": "It seems as if you've completed a Master|Quest! Wonderful job, <pc>. I'll give|you your reward right away.|<bw_break>"
     },
     "18": {
-        "「おぬしは　達人クエストを受注中のようじゃな。|　もし　挑戦するクエストを　変えたければ|　新たに　受けたいクエストを選ぶがよい。|<end>": ""
+        "「おぬしは　達人クエストを受注中のようじゃな。|　もし　挑戦するクエストを　変えたければ|　新たに　受けたいクエストを選ぶがよい。|<end>": "You seem to already have a Master Quest|accepted. If you'd like to change it, please|select a new one you'd like to challenge.|<end>"
     },
     "19": {
-        "「うむっ。それでは　<%sM_ELEMENT>を|　<%nM_NUM>こで　よいかの？|<yesno><close>": ""
+        "「うむっ。それでは　<%sM_ELEMENT>を|　<%nM_NUM>こで　よいかの？|<yesno><close>": "Mhm. Then <%dM_NUM> <%sM_ELEMENT> is|what you would like?|<yesno><close>"
     },
     "20": {
         "「では　受け取るがよい。|　おぬしの　さらなる飛躍に役立てることを|　祈っておるぞ。|<end>": ""
