@@ -42,10 +42,10 @@
         "「あ　ご存知かもしれませんが|　私のいとこも　港町レンドアで|　バシルーラ屋をしています。<br>|「どちらの　バシルーラ屋で飛んでも|　１日<%sL_RULA_MAX>回なのは　変わらないのですが|　行くことがありましたら　利用してみてください。<br>|「それでは　あらためまして…<bw_break>": ""
     },
     "15": {
-        "「やめるのですね　わかりました。|　また飛ぶ時は　会いに来てくださいね。<end>": ""
+        "「やめるのですね　わかりました。|　また飛ぶ時は　会いに来てくださいね。<end>": "Okay, understood. Please come to me when|you'd like to fly again.<end>"
     },
     "16": {
-        "「飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": ""
+        "「飛び先は　<%sL_TOBISAKI>|　でいいですか？<yesno><break>": "Is it okay to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "17": {
         "「やめるのですね。|　では　どこに飛びます？<break>": ""
