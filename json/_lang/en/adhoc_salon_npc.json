@@ -45,10 +45,10 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "16": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "17": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "18": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
@@ -57,7 +57,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
     },
     "20": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "21": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": ""
@@ -630,7 +630,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": ""
     },
     "211": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "212": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -744,7 +744,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": ""
     },
     "249": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "250": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -972,7 +972,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": ""
     },
     "325": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
     },
     "326": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
