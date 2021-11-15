@@ -147,16 +147,16 @@
         "「港町レンドアにいる　バンリィお姉さまと|　メギストリスの都にいる　いとこのランリィも|　バシルーラ屋をしてるんだよ～。<br>|「どこの　バシルーラ屋で飛んでも|　１日<%sL_RULA_MAX>回なのは　変わらないけど|　そっちも　利用してあげてね～。<br>|「それじゃあ　バシルーラ屋を始めるよ～。<bw_break>": ""
     },
     "50": {
-        "「え～　飛ぶの　やめちゃうの～？|　じゃあ　飛びたくなったら　また来てね～。<end>": ""
+        "「え～　飛ぶの　やめちゃうの～？|　じゃあ　飛びたくなったら　また来てね～。<end>": "Huh~? You're gonna stop flying? If you ever|wanna fly, make sure to come back~.<end>"
     },
     "51": {
         "「もう　知ってるかもだけど|　もっと　バシりたいって　みんなが言うから|　１日に使える回数を　増やすことにしたよ～。<br>|「これからは　１日<%sL_RULA_MAX>回まで　飛べるよ～。|　値段は同じだから　たくさん　飛んでね～。<br>|「それじゃあ　バシルーラ屋を始めるよ～。<bw_break>": ""
     },
     "52": {
-        "「飛ばす場所は　<%sL_TOBISAKI>|　で　いいのかな～？<yesno><break>": ""
+        "「飛ばす場所は　<%sL_TOBISAKI>|　で　いいのかな～？<yesno><break>": "<%sL_TOBISAKI> is the place|you wanna fly to?<yesno><break>"
     },
     "53": {
-        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": ""
+        "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": "<%sL_MAP_NAME>'s <%sL_TOBISAKI>|is the place you wanna fly to?<yesno><break>"
     },
     "54": {
         "「あれあれ　やめちゃうの～？|　それじゃあ　どこに　飛びたいのかな～？<break>": ""
