@@ -39,10 +39,10 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": ""
     },
     "14": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": ""
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "15": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": ""
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "16": {
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": ""
@@ -915,7 +915,7 @@
         "「<%sM_OWNER><%sM_SAMA>。これでは|　もとの姿と　同じのようなのです。|　もう一度　どんな姿か　お選びください。|<end>": ""
     },
     "306": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": ""
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "307": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": ""
@@ -1143,7 +1143,7 @@
         "「あら？　これじゃあ|　もとの姿と　同じみたいよ。|　もう一度　どんな姿か　選んでくれる？|<end>": ""
     },
     "382": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": ""
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "383": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": ""
