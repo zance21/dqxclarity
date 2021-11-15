@@ -114,10 +114,10 @@
         "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "39": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "40": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "41": {
         "clarity_nt_char_41": "clarity_nt_char_41"
@@ -153,7 +153,7 @@
         "clarity_nt_char_51": "clarity_nt_char_51"
     },
     "52": {
-        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
     },
     "53": {
         "clarity_nt_char_53": "clarity_nt_char_53"
@@ -165,7 +165,7 @@
         "clarity_nt_char_55": "clarity_nt_char_55"
     },
     "56": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "57": {
         "clarity_nt_char_57": "clarity_nt_char_57"
@@ -180,10 +180,10 @@
         "clarity_nt_char_60": "clarity_nt_char_60"
     },
     "61": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "62": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "63": {
         "clarity_nt_char_63": "clarity_nt_char_63"
@@ -219,7 +219,7 @@
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "74": {
-        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
     },
     "75": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -231,7 +231,7 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "78": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "79": {
         "clarity_nt_char_79": "clarity_nt_char_79"
@@ -246,10 +246,10 @@
         "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "83": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "84": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "85": {
         "clarity_nt_char_85": "clarity_nt_char_85"
@@ -285,7 +285,7 @@
         "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "96": {
-        "「<%sM_job>の　マスタースキルを|　割り振るぞ。どのスキルに割り振るのだ？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振るぞ。どのスキルに割り振るのだ？|<break>": "I'll allocate the Master Skills of <%sM_job>.|Which skill line do you want to allocate?|<break>"
     },
     "97": {
         "clarity_nt_char_97": "clarity_nt_char_97"
@@ -297,7 +297,7 @@
         "clarity_nt_char_99": "clarity_nt_char_99"
     },
     "100": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "101": {
         "clarity_nt_char_101": "clarity_nt_char_101"
@@ -312,10 +312,10 @@
         "clarity_nt_char_104": "clarity_nt_char_104"
     },
     "105": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "106": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "107": {
         "clarity_nt_char_107": "clarity_nt_char_107"
@@ -351,7 +351,7 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "118": {
-        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": ""
+        "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
     },
     "119": {
         "clarity_nt_char_119": "clarity_nt_char_119"
@@ -363,7 +363,7 @@
         "clarity_nt_char_121": "clarity_nt_char_121"
     },
     "122": {
-        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": ""
+        "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
     },
     "123": {
         "clarity_nt_char_123": "clarity_nt_char_123"
@@ -378,10 +378,10 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": ""
+        "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "128": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "129": {
         "clarity_nt_char_129": "clarity_nt_char_129"
