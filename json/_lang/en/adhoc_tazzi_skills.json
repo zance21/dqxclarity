@@ -24,10 +24,10 @@
         "「考えなおすのですね。|　じっくり　お考えください。|<bw_break>": "So you're rethinking it, huh? Please, take|your time.|<bw_break>"
     },
     "9": {
-        "「わかりました！|　<pc>さん　目をつぶってください。|　それでは　いきます！|<bw_break>": ""
+        "「わかりました！|　<pc>さん　目をつぶってください。|　それでは　いきます！|<bw_break>": "Understood! <if_woman>Ms.<else>Mr.<endif> <pc>,|please close your eyes. Let's go!|<bw_break>"
     },
     "10": {
-        "「わかりました。|　<%nM_point>の　スキル枠に|　<%sM_skill>を　セットしますね。|<bw_break>": ""
+        "「わかりました。|　<%nM_point>の　スキル枠に|　<%sM_skill>を　セットしますね。|<bw_break>": "Understood. I've set <%sM_skill>|in the <%dM_point>P skill slot.|<bw_break>"
     },
     "11": {
         "<se_nots System 7>|「ふう……。　|　無事に　<pc>さんが|　新たなスキルを　おぼえることができました。|<br>|「他のスキルを　おぼえたいときは|　僕に　おまかせくだされば　いつでも|　おぼえなおすことが　できますよ。|<end>": ""
