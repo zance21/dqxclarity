@@ -9,10 +9,10 @@
         "「<%sM_skill_line>の|　どんなスキルを　お望みでしょうか？|<break>": "Which skills would you like for|<%sM_skill_line>?|<break>"
     },
     "4": {
-        "「ああっ　申し訳ありません。|　スキル枠に　空きがある状態では|　おぼえることが　できないのです……。|<br>|「すべてのスキル枠に|　スキルを　セットしていただけますか？|<bw_break>": ""
+        "「ああっ　申し訳ありません。|　スキル枠に　空きがある状態では|　おぼえることが　できないのです……。|<br>|「すべてのスキル枠に|　スキルを　セットしていただけますか？|<bw_break>": "Ahh, I'm sorry. You can't learn any skills|while there are empty skills slots...|<br>|Do you want me to set a skill in every|skill slot?|<bw_break>"
     },
     "5": {
-        "「キャンセルすると　今　セットしている|　スキル枠の状態が　リセットされ|　元に戻ってしまいますが　よろしいでしょうか？|<yesno 2><break>": ""
+        "「キャンセルすると　今　セットしている|　スキル枠の状態が　リセットされ|　元に戻ってしまいますが　よろしいでしょうか？|<yesno 2><break>": "If you cancel, any changes you've made will|be reset and returned to how it was. Is|that alright?|<yesno 2><break>"
     },
     "6": {
         "「それでは　今　セットされている|　スキルを　新たに　おぼえて|　よろしいでしょうか？|<yesno><break>": ""
