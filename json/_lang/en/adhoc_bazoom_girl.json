@@ -57,10 +57,10 @@
         "「ごめんなさい。今日は　飛んでるみたいですね。|　どこから飛んでも　飛べるのは１日<%sL_RULA_MAX>回までです。": "Sorry. You can't fly anymore today. You can|only fly up to <%sL_RULA_MAX> times per day."
     },
     "20": {
-        "「お金が　足りないみたいです。|　また　お金がある時に来てくださいね。<end>": ""
+        "「お金が　足りないみたいです。|　また　お金がある時に来てくださいね。<end>": "Looks like you don't have enough money. Please|come back when you have the money.<end>"
     },
     "21": {
-        "「その大陸は　まだ行ってないみたいです。|　行ったことのある場所から　選んでくださいね。<bw_break>": ""
+        "「その大陸は　まだ行ってないみたいです。|　行ったことのある場所から　選んでくださいね。<bw_break>": "It looks like you can't go to that continent|yet. Please choose from the places you've|already visited before.<bw_break>"
     },
     "22": {
         "「それでは　行きます！<br>|「プラシー　バーシー　ルルルンポゥ|　世界の果てまで　ひとっとビュン！！<end>": "Then, let's go!<br>|Kaboom, Bazoom, zuzuzulo!|To anywhere in the world, you shall go!!<end>"
