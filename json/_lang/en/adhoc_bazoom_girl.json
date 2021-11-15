@@ -90,7 +90,7 @@
         "どこに　移動しますか？<break>": "Where do you want to move to?<break>"
     },
     "31": {
-        "対象マップへの移動に　失敗しました。|時間をおいて　再度お試しください。": ""
+        "対象マップへの移動に　失敗しました。|時間をおいて　再度お試しください。": "Failed to move to the target map. Please try|again later."
     },
     "32": {
         "clarity_nt_char_32": "clarity_nt_char_32"
