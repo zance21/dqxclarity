@@ -189,10 +189,10 @@
         "「ルーラストーンで　キミが登録できる場所なら|　１日<%sL_RULA_MAX>回まで　５０ゴールドで|　飛ばせるよ～。<bw_break>": "I can fly ya to any place you can register in|a Zoomstone <%sL_RULA_MAX> times a day for 50 Gold a pop.<bw_break>"
     },
     "64": {
-        "「それじゃあ　あらためて～。|　あたしは　バシっ娘の　ルンリィだよ～。|　バシルーラ屋として　がんばってみるよ～　。<br>|「バシルーラ屋は　キミが登録できる場所なら|　ルーラストーンに登録していなくても|　その場所に　飛ばすことが　できるんだよ～。<br>|「だけど　飛ばすのは　どこで飛んでも|　１日<%sL_RULA_MAX>回まで～。|　料金も　５０ゴールド　かかるからね～。<br>|「それじゃあ　バシルーラ屋を始めるよ～。<bw_break>": ""
+        "「それじゃあ　あらためて～。|　あたしは　バシっ娘の　ルンリィだよ～。|　バシルーラ屋として　がんばってみるよ～　。<br>|「バシルーラ屋は　キミが登録できる場所なら|　ルーラストーンに登録していなくても|　その場所に　飛ばすことが　できるんだよ～。<br>|「だけど　飛ばすのは　どこで飛んでも|　１日<%sL_RULA_MAX>回まで～。|　料金も　５０ゴールド　かかるからね～。<br>|「それじゃあ　バシルーラ屋を始めるよ～。<bw_break>": "Well, nice to meet you~|My name is Runry, and I'm a Bazoom Girl.|I'll do my best at this Bazoom Shop~<br>|The Bazoom Shop will let you fly to any place|ya can register as a Zoomstone.|<br>|Buuut, you can only fly <%sL_RULA_MAX> times a day, and|it's gonna cost ya 50 Gold each time.<br>|Well then, let the Bazoom Shop begin~!<bw_break>"
     },
     "65": {
-        "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_TOBISAKI>|　でいい？<yesno><break>": ""
+        "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_TOBISAKI>|　でいい？<yesno><break>": "You can fly as many times as you want to that|place! You're sure you want to fly to|<%sL_TOBISAKI>?<yesno><break>"
     },
     "66": {
         "「その場所なら　回数無制限で飛べるよ！|　飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいい？<yesno><break>": ""
