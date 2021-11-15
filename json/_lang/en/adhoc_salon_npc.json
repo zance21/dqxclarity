@@ -30,7 +30,7 @@
         "「準備中。|<end>": "In preparation.|<end>"
     },
     "11": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold|Is this okay?|<yesno><break>"
     },
     "12": {
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
@@ -615,7 +615,7 @@
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
     },
     "206": {
-        "「準備中。|<end>": ""
+        "「準備中。|<end>": "In preparation.|<end>"
     },
     "207": {
         "「じゃあ　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っててくださいね！　|<end>": ""
@@ -957,7 +957,7 @@
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
     },
     "320": {
-        "「準備中。|<end>": ""
+        "「準備中。|<end>": "In preparation.|<end>"
     },
     "321": {
         "「では　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　お待ちくださいね。　|<end>": ""
@@ -1185,7 +1185,7 @@
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
     },
     "396": {
-        "「準備中。|<end>": ""
+        "「準備中。|<end>": "In preparation.|<end>"
     },
     "397": {
         "「じゃあ　<%sM_OWNER>が　いない間に|　美容院に行って　変えてくるから|　楽しみにしてて！|<end>": ""
@@ -1299,7 +1299,7 @@
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
     },
     "434": {
-        "「準備中。|<end>": ""
+        "「準備中。|<end>": "In preparation.|<end>"
     },
     "435": {
         "「じゃあ　<%sM_OWNER>が　いない間に|　美容院に行って　変えてくるから|　ドキドキしててねー！|<end>": ""
@@ -1413,7 +1413,7 @@
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
     },
     "472": {
-        "「準備中。|<end>": ""
+        "「準備中。|<end>": "In preparation.|<end>"
     },
     "473": {
         "「じゃあ　<%sM_OWNER>が　いない間に|　美容院に行って　変えてくるから|　楽しみにしててほしいな。|<end>": ""
