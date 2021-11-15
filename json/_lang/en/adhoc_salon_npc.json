@@ -69,7 +69,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So, which hair color are we going to use? <end>\n"
     },
     "24": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "25": {
         "「美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "Felicia's Beauty Salon is|always waiting for you. Please come again.♪|<end>"
@@ -87,7 +87,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So, which hair color are we going to use? <end>"
     },
     "30": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "31": {
         "「美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "Felicia's Beauty Salon is|always waiting for you. Please come again.♪|<end>"
@@ -96,7 +96,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So, which hair color are we going to use? <end>"
     },
     "33": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "34": {
         "「美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "Felicia's Beauty Salon is|always waiting for you. Please come again.♪|<end>"
@@ -576,7 +576,7 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "193": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "194": {
         "「こちらで　よろしいでしょうか！|<yesno><break>": ""
@@ -804,7 +804,7 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "269": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "270": {
         "「こんなかんじで　いいのかー？|<yesno><break>": ""
@@ -918,7 +918,7 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "307": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "308": {
         "「こちらで　よろしいですか？|<yesno><break>": ""
@@ -1260,7 +1260,7 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "421": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "422": {
         "「こんなかんじで　いいのー？|<yesno><break>": ""
@@ -1374,7 +1374,7 @@
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
     },
     "459": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "460": {
         "「こんなかんじで　いいのかな？|<yesno><break>": ""
@@ -2421,7 +2421,7 @@
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
     },
     "808": {
-        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>. | This time it's a free service ♪ | Is this the right color for you? |<yesno><break>"
+        "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "809": {
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So, which hair color are we going to use? <end>"
