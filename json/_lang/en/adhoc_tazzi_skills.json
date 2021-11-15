@@ -66,7 +66,7 @@
         "「<pc>さん　僕から|　この「セット中のスキル」を　おすすめしますが|　いかがでしょうか？|<yesno 2><break>": "<if_woman>Ms.<else>Mr.<endif> <pc>, I recommend|this set of skills. How about it?|<yesno 2><break>"
     },
     "23": {
-        "<color_yellow>スキル枠に　セットしたスキルは|「スキルふりわけ」から　スキルポイントを|振り分けることで　使用できます。|<end>": ""
+        "<color_yellow>スキル枠に　セットしたスキルは|「スキルふりわけ」から　スキルポイントを|振り分けることで　使用できます。|<end>": "<color_yellow>Skills set in the skill slots can be used|by allocating points in your \"Skill Points\"|menu.|<end>"
     },
     "24": {
         "<select_se_off>|スキルをおぼえる|一括でおまかせ|説明を聞く|<select_end>|<break>": ""
