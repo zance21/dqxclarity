@@ -18,13 +18,13 @@
         "「他に　何か　聞きたいことはあるかの？|<break>": "Are there any other questions you'd like to|ask?|<break>"
     },
     "7": {
-        "「では　鑑定したい物を　選ぶがよい。|<break>": ""
+        "「では　鑑定したい物を　選ぶがよい。|<break>": "Then, choose the one you would like appraised.|<break>"
     },
     "8": {
-        "「おぬしは　鑑定の必要な　宝珠を|　持っていないようじゃな。|<bw_break>": ""
+        "「おぬしは　鑑定の必要な　宝珠を|　持っていないようじゃな。|<bw_break>": "It seems like you don't have any jewels that|can be appraised.|<bw_break>"
     },
     "9": {
-        "「他に　用は　あるかの？|<break>": ""
+        "「他に　用は　あるかの？|<break>": "Is there anything else I can do?|<break>"
     },
     "10": {
         "<pipipi_off>|<pc>は|炎の宝珠を　手に入れた！|<se_nots System 7><br>|<color_yellow>|さっそく　『さくせん』の『達人のオーブ』から|宝珠に　達人ポイントを注いでみましょう。|<br>|達人ポイントは　達人のオーブの|レベルを上げることで　増えていきます。|<end>": ""
