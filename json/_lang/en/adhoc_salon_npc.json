@@ -30,7 +30,7 @@
         "「準備中。|<end>": "In preparation.|<end>"
     },
     "11": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold|Is this okay?|<yesno><break>"
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold.|Is this okay?|<yesno><break>"
     },
     "12": {
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
