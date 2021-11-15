@@ -36,19 +36,19 @@
         "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "13": {
-        "<select_se_off>|マスタースキルを割り振る|スキルブックを渡す|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|マスタースキルを割り振る|スキルブックを渡す|説明を聞く|<select_end><break>": "<select_se_off>|Assign Master Skills|Give Skill Books|Explanation|<select_end><break>"
     },
     "14": {
-        "「本日は　どのようなご用でしょうか？|<break>": ""
+        "「本日は　どのようなご用でしょうか？|<break>": "What can I do for you today?|<break>"
     },
     "15": {
-        "「他に　ご用は　ありますか？|<break>": ""
+        "「他に　ご用は　ありますか？|<break>": "Is there anything else I can help with?|<break>"
     },
     "16": {
-        "<select_se_off>|スキルブックについて|マスタースキルポイントについて|<select_end><break>": ""
+        "<select_se_off>|スキルブックについて|マスタースキルポイントについて|<select_end><break>": "<select_se_off>|About Skill Books|About Master Skill Points|<select_end><break>"
     },
     "17": {
-        "「何を　知りたいのでしょうか？|<break>": ""
+        "「何を　知りたいのでしょうか？|<break>": "What would you like to know?|<break>"
     },
     "18": {
         "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": ""
