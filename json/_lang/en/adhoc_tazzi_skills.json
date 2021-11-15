@@ -72,7 +72,7 @@
         "<select_se_off>|スキルをおぼえる|一括でおまかせ|説明を聞く|<select_end>|<break>": "<select_se_off>|Learn Skills|Recommend Skills|Explanation|<select_end>|<break>"
     },
     "25": {
-        "「あっ　まだ　セットされていないスキルが|　あるようですね。|<br>|「よろしければ　空いているところだけ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": ""
+        "「あっ　まだ　セットされていないスキルが|　あるようですね。|<br>|「よろしければ　空いているところだけ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": "Ah, you seem to have some skills that haven't|been set yet.|<br>|If you don't mind, I can fill the empty slots|with the skills I recommend. How about it?|<yesno><break>"
     },
     "26": {
         "「僕に　おまかせして　いただけるなら|　まとめて一括で　スキルをセットすることも|　できますよ。|<br>|「もちろん　すでにセットしてある|　スキルについては　そのままの状態に|　しておきます。|<br>|「よろしければ　空いているところだけ|　僕が　おすすめするスキルを　まとめて|　セットいたしますが　いかがでしょうか？|<yesno><break>": ""
