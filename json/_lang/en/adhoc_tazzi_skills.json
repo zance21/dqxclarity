@@ -93,10 +93,10 @@
         "「わかりました。|　では　どの職業のスキルを　おぼえますか？|<break>": "Understood. Then, which vocation's skills|do you want to learn?|<break>"
     },
     "32": {
-        "「どのスキルから　おぼえますか？|<break>": ""
+        "「どのスキルから　おぼえますか？|<break>": "Which skill do you want to learn?|<break>"
     },
     "33": {
-        "<se_nots System 7>|タッツィの　おすすめスキルを|セットしてもらった！|<bw_break>": ""
+        "<se_nots System 7>|タッツィの　おすすめスキルを|セットしてもらった！|<bw_break>": "<se_nots System 7>|Tazzi's recommended skills have been set!|<bw_break>"
     },
     "34": {
         "「あっ　<pc>さん。<%sM_skill_line>に|　その職業では　効果のないスキルが|　セットされているので　外しておきますね。|<br_break>": ""
