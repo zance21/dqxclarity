@@ -573,7 +573,7 @@
         "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": ""
     },
     "192": {
-        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%nL_GOLD> gold| Is this okay? |<yesno><break>"
+        "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
     },
     "193": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
@@ -630,7 +630,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "211": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "212": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -744,7 +744,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "249": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "250": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -858,7 +858,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "287": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "288": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -972,7 +972,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "325": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "326": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -1086,7 +1086,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "363": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "364": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -1200,7 +1200,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "401": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "402": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -1314,7 +1314,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "439": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "440": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -1428,7 +1428,7 @@
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno> <break>"
     },
     "477": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "478": {
         "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
@@ -2454,7 +2454,7 @@
         "<pipipi_off><speed=0>|もとの姿と　同じです。|もう一度　どんな姿か　お選びください。|<end>": ""
     },
     "819": {
-        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold. | Will you choose what you want again? |<end>"
+        "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "820": {
         "<pipipi_off><speed=0>|もう一度　どのような姿がいいか　イメージして|お選びください。|<end>": ""
