@@ -33,7 +33,7 @@
         "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
     },
     "12": {
-        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": ""
+        "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
     },
     "13": {
         "<select_se_off>|マスタースキルを割り振る|スキルブックを渡す|説明を聞く|<select_end><break>": ""
