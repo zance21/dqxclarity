@@ -87,10 +87,10 @@
         "「ああっ　申し訳ありません。こちらのスキルは　|　<%sM_ShareSkillLine>の「<%sM_ShareSkill>」と|　一緒には　セットできないんです……。": "Ahh, I apologize. But this skill can't be set|together with <%sM_ShareSkillLine>'s|\"<%sM_ShareSkill>\"..."
     },
     "30": {
-        "「どのスキル枠に　セットしますか？|　こちらのスキルは　どのスキル枠にセットしても|　効果は　変わりませんよ。|<break>": ""
+        "「どのスキル枠に　セットしますか？|　こちらのスキルは　どのスキル枠にセットしても|　効果は　変わりませんよ。|<break>": "Which skill slot do you want to set? This|skill's effect will stay the same,|regardless of its slot.|<break>"
     },
     "31": {
-        "「わかりました。|　では　どの職業のスキルを　おぼえますか？|<break>": ""
+        "「わかりました。|　では　どの職業のスキルを　おぼえますか？|<break>": "Understood. Then, which vocation's skills|do you want to learn?|<break>"
     },
     "32": {
         "「どのスキルから　おぼえますか？|<break>": ""
