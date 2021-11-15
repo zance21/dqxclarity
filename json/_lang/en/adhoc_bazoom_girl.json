@@ -159,7 +159,7 @@
         "「飛び先は　<%sL_MAP_NAME>　の|　<%sL_TOBISAKI>　でいいかな～？<yesno><break>": "<%sL_MAP_NAME>'s <%sL_TOBISAKI>|is the place you wanna fly to?<yesno><break>"
     },
     "54": {
-        "「あれあれ　やめちゃうの～？|　それじゃあ　どこに　飛びたいのかな～？<break>": ""
+        "「あれあれ　やめちゃうの～？|　それじゃあ　どこに　飛びたいのかな～？<break>": "Whoa, you wanna stop?|Well then, where do you wanna go?<break>"
     },
     "55": {
         "「あれあれ～？　その場所は　今|　都合が悪いみたい。お金は返すから|　時間をおいて　また来てね～。<end>": ""
