@@ -60,7 +60,7 @@
     "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "21": {
-    "冒険の書を　選んでください。<break>": "Choose an Adventure Book.<break>"
+    "冒険の書を　選んでください。<break>": "Choose an Adventure Log.<break>"
   },
   "22": {
     "「ドラゴンクエストⅩ Wii U版」の|レジストレーションコードが　未登録のため|冒険の続きを　遊ぶことはできません。<br>|オンラインモードで　ログインして|レジストレーションコードを登録しますか？<yesno_nc><close>": ""
@@ -93,16 +93,16 @@
     "ソフト": ""
   },
   "32": {
-    "冒険の書の消去を　取りやめます。": "Cancelled Adventure Book deletion."
+    "冒険の書の消去を　取りやめます。": "Cancelled Adventure Log deletion."
   },
   "33": {
-    "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Book <%dNO> was deleted.<end>"
+    "冒険の書<%nNO>のデータを　消しました。<end>": "Data of Adventure Log <%dNO> was deleted.<end>"
   },
   "34": {
-    "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "You are about to delete Adventure Book <%dNO>|of <%sPCNAME> and <%sPCNAME2>.<br>|If you do this, this data will be|unrecoverable. Are you sure?<yesno 2><break>"
+    "冒険の書<%nNO>に保存されている|<%sPCNAME>と　<%sPCNAME2>の|すべての冒険の記録を消します。<br>|冒険の記録を消すと|<%sPCNAME>で　冒険ができなくなりますが|冒険の書<%nNO>を消しても　よろしいですか？<yesno 2><break>": "You are about to delete Adventure Log <%dNO>|of <%sPCNAME> and <%sPCNAME2>.<br>|If you do this, this data will be|unrecoverable. Are you sure?<yesno 2><break>"
   },
   "35": {
-    "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Book <%dNO>.|Are you sure?<yesno 2><break>"
+    "冒険の書<%nNO>に保存されている|<%sPCNAME>の　冒険の記録を消します。|よろしいですか？<yesno 2><break>": "This will delete the records of <%sPCNAME>|saved in Adventure Log <%dNO>.|Are you sure?<yesno 2><break>"
   },
   "36": {
     "あやまって消すのを防ぐため|以下の　確認番号を入れてください。|確認番号：<%sNUM><break>": "Please enter the following confirmation|number to prevent accidental deletion.|Confirmation Number: <%sNUM><break>"
@@ -117,19 +117,19 @@
     "（※削除予定）<bw_break>": "(*Plan to Delete)<bw_break>"
   },
   "40": {
-    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Book as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数が　残り０回のため|削除できません。<br>|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You cannot delete this Adventure Log as|there are 0 attempts remaining.<br>|This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "41": {
-    "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Book(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
+    "冒険の書を削除できる回数は　残り<%nCHAR_DEL_NUM>回です。|この回数は　毎月１日午前０時以降に|ログインしなおすと　一定量　回復します。<end>": "You have <%dCHAR_DEL_NUM> Adventure Log(s) left to delete. |This amount will reset by logging in|again after midnight on the first|day of the month.<end>"
   },
   "42": {
-    "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": "Couldn't retrieve number of Adventure Book|deletions remaining.<br>|Please wait a while and try again."
+    "冒険の書を削除できる　残り回数を|取得できませんでした。<br>|障害情報を　ご確認の上|少し時間を置いてから　もう一度|お試しください。<end>": "Couldn't retrieve number of Adventure Log|deletions remaining.<br>|Please wait a while and try again."
   },
   "43": {
-    "データを消す　冒険の書を　選んでください。<break>": "Please select an Adventure Book to erase.<break>"
+    "データを消す　冒険の書を　選んでください。<break>": "Please select an Adventure Log to erase.<break>"
   },
   "44": {
-    "冒険の書<%nNO>を消しています……。<break>": "Adventure Book <%dNO> was deleted...<break>"
+    "冒険の書<%nNO>を消しています……。<break>": "Adventure Log <%dNO> was deleted...<break>"
   },
   "45": {
     "緊急用０００": ""
@@ -231,13 +231,13 @@
     "　　 キャラクター未作成": "Character Not Created"
   },
   "78": {
-    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Book <%dNO>!"
+    "冒険の書<%nNO>に　<%sPCNAME>を登録しました！<end>": "<%sPCNAME> has been registered in Adventure Log <%dNO>!"
   },
   "79": {
-    "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Books!|Please delete one of your existing Adventure|Books first."
+    "これ以上　冒険の書を作れません！|新しく作りたい場合は　先に|いずれかの　冒険の書を消してください。<end>": "You can't create any more Adventure Logs!|Please delete one of your existing Adventure|Logs first."
   },
   "80": {
-    "新しい冒険の書を作るには　オフラインモードから|スタートする必要があります。<br>|<color_yellow>※オフラインモードの　「はじまりの冒険」は|　登録したプレイヤーで　一度　クリアしていれば|　スキップできます。<color_white><br>|オフラインモードを　スタートするために|今すぐ　ログアウトしますか？<yesno><break>": "To create a new Adventure Book, you must|first start from the offline mode.<br>|<color_yellow>*The offline mode Prologue can be skipped|after being cleared one time.<color_white><br>|Log out and start offline mode?<yesno><break>"
+    "新しい冒険の書を作るには　オフラインモードから|スタートする必要があります。<br>|<color_yellow>※オフラインモードの　「はじまりの冒険」は|　登録したプレイヤーで　一度　クリアしていれば|　スキップできます。<color_white><br>|オフラインモードを　スタートするために|今すぐ　ログアウトしますか？<yesno><break>": "To create a new Adventure Log, you must|first start from the offline mode.<br>|<color_yellow>*The offline mode Prologue can be skipped|after being cleared one time.<color_white><br>|Log out and start offline mode?<yesno><break>"
   },
   "81": {
     "何番の冒険の書に　キャラを作りますか？": ""
@@ -246,7 +246,7 @@
     "<%nDAY>日分": "<%dDAY> Days"
   },
   "83": {
-    "冒険の書<%nNUM>": "Adv. Book <%dNUM>"
+    "冒険の書<%nNUM>": "Adv. Log <%dNUM>"
   },
   "84": {
     "<%nCOURSE>キャラコース": "<%dCOURSE> Character Course"
@@ -363,7 +363,7 @@
     "冒険の書に記録しています……。|ソフトを終了しないでください。<break>": ""
   },
   "122": {
-    "冒険の書に記録しました！<end>": "Recorded in the Adventure Book!<end>"
+    "冒険の書に記録しました！<end>": "Recorded in the Adventure Log!<end>"
   },
   "123": {
     "システムデータを保存しています……。|ソフトを終了しないでください。<break>": ""
@@ -444,13 +444,13 @@
     "オンラインモードの　冒険の書<%nNO>でプレイ中の|『<%sPCNAME>』と『<%sPCNAME2>』のデータを|この<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>|オフラインモードのセーブデータは|引きつがれないため|『<%sPCNAME2>』の冒険は　最初からになります。<end>": ""
   },
   "149": {
-    "プレイコースが　変更されているため|冒険の書<%nNO>は　使えなくなりました。<end>": "Since the play course has changed,|Adventure Book <%dNO> cannot be used."
+    "プレイコースが　変更されているため|冒険の書<%nNO>は　使えなくなりました。<end>": "Since the play course has changed,|Adventure Log <%dNO> cannot be used."
   },
   "150": {
     "オンラインモードの　冒険の書<%nNO>でプレイ中の|『<%sPCNAME>』と『<%sPCNAME2>』のデータを|この<%sConsole>の　冒険の書<%nNO>に　保存しました。<br>|オフラインモードの　冒険の書<%nNO>の名前や容姿が|『<%sPCNAME2>』のものに　書き替わりました。|（ゲームの進行状況は　そのまま残っています）<end>": ""
   },
   "151": {
-    "冒険の書<%nNO>のキャラデータを|オンラインの世界に　反映させました！<me_60><end>": "Character data of Adventure Book <%dNO>|has been copied to the online world!<me_60><end>"
+    "冒険の書<%nNO>のキャラデータを|オンラインの世界に　反映させました！<me_60><end>": "Character data of Adventure Log <%dNO>|has been copied to the online world!<me_60><end>"
   },
   "152": {
     "オンラインの冒険の書<%nNO>が　消されています。|この<%sConsole>の　オフラインの冒険の書<%nNO>は|オンラインに反映されていない状態になりました。<end>": ""
@@ -462,16 +462,16 @@
     "<%sConsole>本体に保存されている|冒険の書<%nNO>のキャラは　オンラインの世界に|移動させられないデータでした。<br>|オフラインモードから　冒険の書<%nNO>を消して|キャラを　作りなおしてください。<end>": ""
   },
   "155": {
-    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
+    "『<%sPCNAME>』という名前のキャラは|現在　<%nNUM>名ほど　いるようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be about <%dNUM> players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%dNO>?<yesno><break>"
   },
   "156": {
-    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Book <%dNO>?<yesno><break>"
+    "『<%sPCNAME>』という名前のキャラは|今のところ　ひとりも　いないようです。|冒険の書<%nNO>のキャラ名は　これでよろしいですか？<yesno><break>": "There seems to be no other players|with the name \"<%sPCNAME>\".|Use this name for Adventure Log <%dNO>?<yesno><break>"
   },
   "157": {
-    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Book <%dNO>?<yesno><break>"
+    "冒険の書<%nNO>のキャラの名前は|『<%sPCNAME>』で　よろしいですか？<yesno><break>": "Use the name \"<%sPCNAME>\" for Adventure|Log <%dNO>?<yesno><break>"
   },
   "158": {
-    "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Book <%dNO> will be copied to the online|world.<end>"
+    "冒険の書<%nNO>に　保存されている|『<%sPCNAME>』のデータを|オンライン世界に　反映させます。<end>": "The data of \"<%sPCNAME>\" in Adventure|Log <%dNO> will be copied to the online|world.<end>"
   },
   "159": {
     "ログイン画面に　戻りますか？<yesno 2><break>": "Return to the login screen?<yesno 2><break>"
@@ -541,5 +541,14 @@
   },
   "181": {
     "Yahoo! JAPAN IDのパスワード変更は|ここでは行えません。|「Yahoo! JAPAN」のページで手続きしてください。<end>": ""
+  },
+  "182": {
+    "ドラゴンクエストⅩ　オフラインからの|引き継ぎ情報を　確認できませんでした。|<br>|ドラゴンクエストⅩ　オフラインの|Windows版　引き継ぎ専用ページにて|手続きが完了しているか　ご確認ください。<end>": ""
+  },
+  "183": {
+    "続いて　お手持ちの|『ドラゴンクエストⅩ　オンライン|引ぎ継ぎコード』を　入力します。|<br>|Windows版の場合　専用ページで|引き継ぎの手続きが必要となります。|http://<end>": ""
+  },
+  "184": {
+    "「ふっかつのじゅもん」では|ドラゴンクエストⅩ　オフラインから|一部データを引き継いで　始めることができます。|<br>|引き継いで　始めるには|ドラゴンクエストⅩ　オフライン内で|入手できる「ふっかつのじゅもん」に加えて|<br>|「目覚めし冒険者の広場」にある|引き継ぎ専用ページにて　手続きが必要となるため|事前の準備を　お願いします。<end>": ""
   }
 }

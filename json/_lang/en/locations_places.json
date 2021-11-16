@@ -537,13 +537,13 @@
     "clarity_nt_char_179": "clarity_nt_char_179"
   },
   "180": {
-    "灯火台": "Litehouse"
+    "灯火台": "Flame"
   },
   "181": {
     "カシャルの水門": "Kashal's Water Gate"
   },
   "182": {
-    "操作盤": "Board"
+    "操作盤": "Controls"
   },
   "183": {
     "水流": "Flow"
@@ -708,7 +708,7 @@
     "clarity_nt_char_236": "clarity_nt_char_236"
   },
   "237": {
-    "ブランコ": "Blanco"
+    "ブランコ": "Swing"
   },
   "238": {
     "clarity_nt_char_238": "clarity_nt_char_238"
@@ -864,7 +864,7 @@
     "自動販売機": "Vending Machine"
   },
   "289": {
-    "貨物箱": "Freight"
+    "貨物箱": "Cargo Box"
   },
   "290": {
     "鉄格子": "Grill"
@@ -943,5 +943,11 @@
   },
   "315": {
     "聖光の渦": "Holy Vortex"
+  },
+  "316": {
+    "clarity_nt_char_316": "clarity_nt_char_316"
+  },
+  "317": {
+    "転移の石碑": ""
   }
 }

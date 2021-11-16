@@ -294,7 +294,7 @@
         "何を　郵便ポストにいれますか？|<break>": ""
     },
     "99": {
-        "どちらを　確認しますか？|<break>": ""
+        "どちらを　確認しますか？|<break>": "Which do you want to check?|<break>"
     },
     "100": {
         "「何について　説明いたしましょうか？|<select_se_off>|もらった手紙について|書いた手紙について|送った手紙について|おもいで私書箱について|手紙の整理について|<select_end><break>": ""
@@ -1398,19 +1398,19 @@
         "「どちらを　ご覧になりますか？|<break>": ""
     },
     "467": {
-        "「<%sL_SENDER_NAME>から届いた|　手紙を　処分したぜ。|<bw_break>": ""
+        "「<%sL_SENDER_NAME>から届いた|　手紙を　処分したぜ。|<bw_break>": "I've disposed the letter received from|<%sL_SENDER_NAME>.|<bw_break>"
     },
     "468": {
         "「<%sL_SENDER_NAME>さんから届いた|　お手紙を　処分いたしました。|<bw_break>": ""
     },
     "469": {
-        "「<%sL_SENDER_NAME>から届いた|　荷物を　処分したぜ。|<bw_break>": ""
+        "「<%sL_SENDER_NAME>から届いた|　荷物を　処分したぜ。|<bw_break>": "I've disposed the package received from|<%sL_SENDER_NAME>.|<bw_break>"
     },
     "470": {
         "「<%sL_SENDER_NAME>さんから届いた|　お荷物を　処分いたしました。|<bw_break>": ""
     },
     "471": {
-        "「<%sL_SENDER_NAME>から届いた|　カネを　処分したぜ。|<bw_break>": ""
+        "「<%sL_SENDER_NAME>から届いた|　カネを　処分したぜ。|<bw_break>": "I've disposed the money received from|<%sL_SENDER_NAME>.|<bw_break>"
     },
     "472": {
         "「<%sL_SENDER_NAME>さんから届いた|　お金を　処分いたしました。|<bw_break>": ""

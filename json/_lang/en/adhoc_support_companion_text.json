@@ -141,16 +141,16 @@
         "「ここは転職を　つかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来るところだ。<br>|「転職を　希望するのか？<yesno><close>": ""
     },
     "48": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP and <%dL_GOLD> G|as a support companion."
     },
     "49": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s) and|<%dL_GOLD> G as a support companion."
     },
     "50": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> 個と|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s) and|<%dL_GOLD> G as a support companion."
     },
     "51": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP and <%dL_GOLD> G|as a support companion."
     },
     "52": {
         "なかまに　はいることができない！": ""
@@ -171,7 +171,7 @@
         "○PC○さんと　合流しますか？<yesno><close>": ""
     },
     "58": {
-        "<pipipi_off>サポート仲間として|何も　かくとくできなかった。|<end>": "<pipipi_off>As a support companion, I didn't earn anything.|<end>"
+        "<pipipi_off>サポート仲間として|何も　かくとくできなかった。|<end>": "<pipipi_off>As a support companion, you didn't|earn anything.|<end>"
     },
     "59": {
         "clarity_nt_char_59": "clarity_nt_char_59"
@@ -210,16 +210,16 @@
         "「今回の稼ぎは　経験値<%nL_EXP>Ｐ|　達人経験値<%nL_TATUJIN_EXP>Ｐと|　<%nL_GOLD>ゴールドになるぜ。": ""
     },
     "71": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> P|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> P|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP, <%dL_GOLD> G,|and <%dL_EXP> Master Orb EXP from being hired|as a support companion.|<end>"
     },
     "72": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> こ|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> こ|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s), <%dL_GOLD> G,|and <%dL_EXP> Master Orb EXP from being hired|as a support companion.|<end>"
     },
     "73": {
-        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> こ|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　特訓スタンプ <%dL_EXP> こ|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> training stamp(s), <%dL_GOLD> G,|and <%dL_EXP> Master Orb EXP from being hired|as a support companion.|<end>"
     },
     "74": {
-        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> P|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": ""
+        "<pipipi_off>サポート仲間として　経験値 <%dL_EXP> P|達人経験値 <%dL_TATUJIN_EXP> Pと|<%dL_GOLD> Gを　かくとくした。|<end>": "<pipipi_off>You received <%dL_EXP> EXP, <%dL_GOLD> G,|and <%dL_EXP> Master Orb EXP from being hired|as a support companion.|<end>"
     },
     "75": {
         "「今回の稼ぎは　経験値<%nL_EXP>Ｐ|　達人経験値<%nL_TATUJIN_EXP>Ｐと|　<%nL_GOLD>ゴールドになるわよ。|<bw_break>": ""

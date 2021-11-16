@@ -1,12 +1,12 @@
 {
     "1": {
-        "「他に　交換したいものは　ありますか？|<break>": ""
+        "「他に　交換したいものは　ありますか？|<break>": "Is there anything else you'd like to exchange?|<break>"
     },
     "2": {
-        "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": ""
+        "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>|Is there anything else you'd like to exchange?|<break>"
     },
     "3": {
-        "「<%sL_KOUKAN_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
+        "「<%sL_KOUKAN_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange for|<%sL_KOUKAN_ITEM>?|<yesno><break>"
     },
     "4": {
         "「<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": ""
@@ -477,7 +477,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": ""
     },
     "160": {
-        "「オレの名は　ジョーンズ。|　ニンゲン……　黄金のブローチ　持ってるカ？|　オレ　交換してやるゾ……。|<break>": ""
+        "「オレの名は　ジョーンズ。|　ニンゲン……　黄金のブローチ　持ってるカ？|　オレ　交換してやるゾ……。|<break>": "My name Jones. You have Gold Brooch? Me will|exchange with human...|<break>"
     },
     "161": {
         "「どのブローチを　くれるんダ？|<break>": ""
@@ -501,7 +501,7 @@
         "「<%sL_WATASU_ITEM><%sL_PLUSNUM>は|　今　仲間モンスターが　装備してるようだガ|　本当に　それを　くれるのカ？|<yesno 2><break>": ""
     },
     "168": {
-        "「オレ　黄金のブローチ　ほしい。|　だが　探しても　見つかるの　破片ばかりダ。|<br>|「黄金のブローチ　オレに　くれるなら|　代わりに　ブローチの破片　分けてヤル。|<br>|「ブローチの破片は　ヴェリヌ……　ヴェリ……|　ナントカの街で　元の形に　戻せるそうダ。|　ニンゲンにとっても　悪い話じゃナイ。|<bw_break>": ""
+        "「オレ　黄金のブローチ　ほしい。|　だが　探しても　見つかるの　破片ばかりダ。|<br>|「黄金のブローチ　オレに　くれるなら|　代わりに　ブローチの破片　分けてヤル。|<br>|「ブローチの破片は　ヴェリヌ……　ヴェリ……|　ナントカの街で　元の形に　戻せるそうダ。|　ニンゲンにとっても　悪い話じゃナイ。|<bw_break>": "Me want Gold Brooch. But if look for it, only|get shards.|<br>|If give Golden Brooch, I separate into shards|instead.|<br>|Seem Brooch fragments can be restored|in Veri.... Vera.... some city. Not bad|deal for humans."
     },
     "169": {
         "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": ""
@@ -927,16 +927,16 @@
         "「<%sL_KOUKAN_ITEM>は|　取り引き不可の　しぐさ書ですが|　交換しても　よろしいですか？|<yesno 2><break>": ""
     },
     "310": {
-        "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": ""
+        "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Beep...beep... equipment bag is full. Please|access again after reorganization.|<bw_break>"
     },
     "311": {
-        "「ピピピ……　どうぐかばんが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": ""
+        "「ピピピ……　どうぐかばんが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Beep...beep... item bag is full. Please|access again after reorganization.|<bw_break>"
     },
     "312": {
         "「あら　このカードは　期限切れですね。|　期限切れのカードは　交換できないので|　別のカードを　選んでください。|<bw_break>": ""
     },
     "313": {
-        "「ピピピ……　<%sL_KOUKAN_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": ""
+        "「ピピピ……　<%sL_KOUKAN_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": "Beep... beep... You do not have the required|items needed to exchange for|<%sL_KOUKAN_ITEM>.|<bw_break>"
     },
     "314": {
         "「<%sL_WATASU_ITEM><%sL_PLUSNUM>は|　ロックされているので　受け取れません。|<bw_break>": ""
@@ -951,7 +951,7 @@
         "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": ""
     },
     "318": {
-        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": ""
+        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Beep... beep... Please receive your|<%sL_KOUKAN_ITEM>|<end>"
     },
     "319": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": ""

@@ -900,7 +900,7 @@
         "clarity_nt_char_300": "clarity_nt_char_300"
     },
     "301": {
-        "いてつくはどう": "Disruption Wave"
+        "いてつくはどう": "Disruptive Wave"
     },
     "302": {
         "奈落の舞い": "Abyss Dance"
@@ -1011,7 +1011,7 @@
         "ギガスロー": "Gigathrow"
     },
     "338": {
-        "おぞましいおたけび": "Awesome Roar"
+        "おぞましいおたけび": "Horrible Roar"
     },
     "339": {
         "魔神の絶技": "Devil's Skill"
@@ -1179,7 +1179,7 @@
         "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "394": {
-        "つうこんの いちげき！": "Regretful blow!"
+        "つうこんの いちげき！": "Desperate attack!"
     },
     "395": {
         "フワフワしている": "Fluffy"
@@ -1302,7 +1302,7 @@
         "clarity_nt_char_434": "clarity_nt_char_434"
     },
     "435": {
-        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": "<%sCAS_monster>'s <%sCAS_action>!|<br>|Regretful blow!"
+        "<%sCAS_monster>の　<%sCAS_action>！|<br>|つうこんの いちげき！": "<%sCAS_monster>'s <%sCAS_action>!|<br>|Desperate attack!"
     },
     "436": {
         "<%sCAS_monster>は　フワフワしている": "<%sCAS_monster> is fluffing around..."
@@ -1695,7 +1695,7 @@
         "守りを固めて|ダメージを|すこし減らす": "Defend and|slightly reduce|damage."
     },
     "566": {
-        "移動時に|サイコロの数＋１": "Roll an extra|dice on|your turn."
+        "移動時に|サイコロの数＋１": "Roll an extra dice|on your turn."
     },
     "567": {
         "なかまたちを|かばう！": "Protect your|party!"
@@ -1776,10 +1776,10 @@
         "clarity_nt_char_592": "clarity_nt_char_592"
     },
     "593": {
-        "こうげき力が|もとにもどった！": "Attack returned|to normal."
+        "こうげき力が|もとにもどった！": "Attack returned|to normal!"
     },
     "594": {
-        "天使の守りの|効果がなくなった！": "Gained Goddess'|Grace!"
+        "天使の守りの|効果がなくなった！": "Goddess' Grace|effect faded!"
     },
     "595": {
         "clarity_nt_char_595": "clarity_nt_char_595"
@@ -1839,7 +1839,7 @@
         "シビれがきえた": "Paralysis faded."
     },
     "614": {
-        "われにかえった": "Returned to me."
+        "われにかえった": "Regained|composure."
     },
     "615": {
         "カジノコイン": "Casino Coin"

@@ -168,7 +168,7 @@
     "町の宿屋に泊まると ＨＰとＭＰが|完全に回復します。疲れた時は無理せずに！": "Staying at the inn in town will fully|restore your HP and MP. Take it easy|when you're tired!"
   },
   "57": {
-    "教会で お祈りすることで 冒険の書に|旅の記録（セーブ）ができます。|無理せず こまめに お祈りしましょう。": "Praying at the church will save your|journey in your Adventure Book. Pray|often and don't overdo it."
+    "教会で お祈りすることで 冒険の書に|旅の記録（セーブ）ができます。|無理せず こまめに お祈りしましょう。": "Praying at the church will save your|journey in your Adventure Log. Pray|often and don't overdo it."
   },
   "58": {
     "clarity_nt_char_58": "clarity_nt_char_58"
@@ -180,7 +180,7 @@
     "clarity_nt_char_60": "clarity_nt_char_60"
   },
   "61": {
-    "オンラインの世界では 冒険の書への|記録（セーブ）は 自動的に行われます。|教会での記録は 必要ありません。": "In the online world, saving to the|Adventure Book is automatic. No need to|go to church to record your adventures."
+    "オンラインの世界では 冒険の書への|記録（セーブ）は 自動的に行われます。|教会での記録は 必要ありません。": "In the online world, saving to the|Adventure Log is automatic. No need to|go to church to record your adventures."
   },
   "62": {
     "clarity_nt_char_62": "clarity_nt_char_62"
@@ -735,7 +735,7 @@
     "clarity_nt_char_245": "clarity_nt_char_245"
   },
   "246": {
-    "この「遊び方のヒント」は|「さくせん」の「遊び方ガイド」で|まとめて読めます！": "To read all these tips in one place, go|to \"How to Play\" in \"Play Guide\" under|the \"Misc.\" commad."
+    "この「遊び方のヒント」は|「さくせん」の「遊び方ガイド」で|まとめて読めます！": "To read all these tips in one place, go|to \"How to Play\" in \"Play Guide\" under|the \"Misc.\" command!"
   },
   "247": {
     "【新機能紹介】": "[New Features]"
@@ -789,7 +789,7 @@
     "clarity_nt_char_263": "clarity_nt_char_263"
   },
   "264": {
-    "なつき度が100の「なかまモンスター」は|自分の職業に制限なく|一緒に 冒険に行くことができます。": "A \"friend monster\" with a familiarity|level of 100 can go on adventures with|you without any restrictions on vocation."
+    "なつき度が100の「なかまモンスター」は|自分の職業に制限なく|一緒に 冒険に行くことができます。": "A \"fellow monster\" with a happiness|level of 100 can go on adventures with|you without any restrictions on vocation."
   },
   "265": {
     "ハウジングで飼われているモンスターは|たまにどこかで見つけた物を持ち帰ります。|誰かになでてもらったお礼の気持ちかも！？": "Monsters kept in housing sometimes bring|back things they found somewhere. Maybe|it's a thanks for having someone pet it!"
@@ -870,7 +870,7 @@
     "clarity_nt_char_290": "clarity_nt_char_290"
   },
   "291": {
-    "Lv89までのプレイヤーや サポート仲間が|エンゼルスライム帽を そうびしていれば|取得できる経験値が 多くなります！": "Players up to level 89 and their support|buddies will gain more experience if they|wear the Angel Slime Cap!"
+    "Lv99までのプレイヤーや サポート仲間が|エンゼルスライム帽を そうびしていれば|取得できる経験値が 多くなります！": ""
   },
   "292": {
     "【王家の迷宮について】": "[About The Royal Maze]"
@@ -960,7 +960,7 @@
     "clarity_nt_char_320": "clarity_nt_char_320"
   },
   "321": {
-    "スマートフォン・ニンテンドー3DSで使える|『冒険者のおでかけ超便利ツール』配信中！|GO! ⇒ http://sqex.to/ptI": "The fill lines on laundry detergent cups|are higher than they need to be, so|you're forced to buy more detergent."
+    "スマートフォンで使える|『冒険者のおでかけ超便利ツール』配信中！|GO! ⇒ http://sqex.to/ptI": ""
   },
   "322": {
     "不正アクセス防止に役立つ|ワンタイムパスワード導入をお奨めします。|GO! ⇒ http://sqex.to/Azs": "We recommend the use of one-time|passwords to help prevent unauthorized|access. Go to http://sqex.to/Azs"

@@ -138,10 +138,10 @@
         "「あと<%nL_SYUPPIN>品　出品できるけど|　まだ　何か出品するかい？|<break>": ""
     },
     "47": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "48": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "49": {
         "「はい　どうぞっ。|<bw_break>": ""
@@ -171,7 +171,7 @@
         "「また　いつでも　来ておくれよっ！|<turn_end>": ""
     },
     "58": {
-        "「はい　いらっしゃい。|　旅人バザーだよ。|　今日は　どうするんだい？|<break>": ""
+        "「はい　いらっしゃい。|　旅人バザーだよ。|　今日は　どうするんだい？|<break>": "Yes, welcome.|This is the Traveler's Bazaar. What can I do|for you today?|<break>"
     },
     "59": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
@@ -225,7 +225,7 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": ""
     },
     "76": {
-        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": ""
+        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": "Many thanks! Do you want to equip it now?|<yesno 2><break>"
     },
     "77": {
         "「他に出品したい物は　ありますか？|<break>": ""
@@ -234,10 +234,10 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他の物も　出品しますか？|<break>": ""
     },
     "79": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "80": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "81": {
         "「お買い上げ　ありがとうございます！|<bw_break>": ""
@@ -255,7 +255,7 @@
         "「おっと　お客さん|　出品できる物を　何も|　持ってないようですね。|<bw_break>": ""
     },
     "86": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "87": {
         "「おや　それを買うには|　お金が　足りないようですね。|　他の物を　選んでください。|<bw_break>": ""
@@ -267,7 +267,7 @@
         "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you very much! |Please come again!|<turn_end>"
     },
     "90": {
-        "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What would you like to do today?|<break>"
+        "「いらっしゃいませ。|　こちらは　旅人バザーです。|　今日は　どうしますか？|<break>": "Welcome.|This is the Traveler's Bazaar.|What would you like to do today?|<break>"
     },
     "91": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
@@ -279,13 +279,13 @@
         "「やめるのですね。|　他に　ほしい物は　ありますか？|<bw_break>": ""
     },
     "94": {
-        "「やめるのですね。|　では　他の物を出品しますか？|<break>": ""
+        "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
     },
     "95": {
-        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": ""
+        "「<pc>さんは　あと<%nL_SYUPPIN>品|　出品できます。|　何を　出品しますか？|<break>": "You can list <%dL_SYUPPIN> more items for|sale. What do you want to list?|<break>"
     },
     "96": {
-        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": ""
+        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": "Even if you equip this, you can use it as an|item during battle to use its special effect!|<bw_break>"
     },
     "97": {
         "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
@@ -330,13 +330,13 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他にも　出品したい物は　ございますか？|<break>": ""
     },
     "111": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "112": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "113": {
-        "「ありがとうございました。|　では　こちらをどうぞ。|<bw_break>": "Thank you very much!|If you have any questions, please let us know.|<bw_break>"
+        "「ありがとうございました。|　では　こちらをどうぞ。|<bw_break>": "Thank you very much. Here you go.|<bw_break>"
     },
     "114": {
         "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": ""
@@ -351,7 +351,7 @@
         "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": ""
     },
     "118": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "119": {
         "「申し訳ありませんが|　お金が　足りないようです。|　他の品物を　お選びくださいませ。|<bw_break>": "I'm sorry, but you do not have enough gold.|Please choose another item.|<bw_break>"
@@ -681,7 +681,7 @@
         "「おっと　残念だが|　出品料が払えないみたいだな。|<bw_break>": ""
     },
     "228": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "229": {
         "「じゃ　装備品について説明するね。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うんだよ。|<br>|「名前に　＋１とか　＋２とか付いてる|　装備品を　見たことない？　あれは|　その装備品に付いてる　錬金効果の数なんだ。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことだよ。攻撃力や守備力などの|　パラメータ強化の他　様々な種類があるんだ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかるから|　＋が付いてたら　チェックを忘れずに。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさだよ。|　<color_yellow>★<color_white>の数が多いほど　できのよい物だってことさ。|<br>|「できのよい装備品は　それだけでも効果が高いし|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じだから　とても重要だよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -693,7 +693,7 @@
         "「あれ　残念だけど|　出品料を払えないみたいだね。|<bw_break>": ""
     },
     "232": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "233": {
         "「では　装備品について説明します。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うんですよ。|<br>|「名前に　＋１とか　＋２とか付いてる装備品を|　見たことがありますか？　あれは|　その装備品に付いてる　錬金効果の数なんです。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことです。攻撃力や守備力などの|　パラメータ強化の他　様々な種類がありますよ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかりますので|　しっかり　チェックしてくださいね。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。|　<color_yellow>★<color_white>の数が多いほど　できのよい物です。|<br>|「できのよい装備品は　それだけでも効果が高く|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じなので　とても重要なんですよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -705,7 +705,7 @@
         "「残念ですが　出品するには|　お金が足りないようです。|<bw_break>": ""
     },
     "236": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "237": {
         "「では　装備品について説明いたします。|　じつは　装備品は　同じ名前の物でも|　ひとつひとつ　性能が違うのです。|<br>|「名前に　＋１とか　＋２とか付いてる装備品を|　見たことがありますか？　あれは|　その装備品に付いてる　錬金効果の数なのです。|<br>|「錬金効果というのは　装備品に後から付けられた|　特殊な効果のことです。攻撃力や守備力などの|　パラメータ強化の他　様々な種類がありますよ。|<br>|「どんな錬金効果が付いてるかは|　その装備品を　くわしくみると　わかりますので|　しっかり　チェックしてくださいね。|<br>|「あと　装備品の説明の所に付いてる|　<color_yellow>★<color_white>マークは　その装備品の　できのよさです。|　<color_yellow>★<color_white>の数が多いほど　できのよい物です。|<br>|「できのよい装備品は　それだけでも効果が高く|　さらに　後から付けられる錬金効果の数も|　<color_yellow>★<color_white>の数と同じなので　とても重要ですよ。|<bw_break>": "I will now explain how equipment works.|Even if the equipment has the same name,|their performance may differ per each listing.|<br>|Have you seen a piece of equipment with a|+1 or +2 in its name? That is the number of|alchemy effects that the equipment has.|<br>|An alchemy effect is a special enhancement|that is added to equipment. They come in a|variety, such as attack power and defense.|<br>|You can find out what kind of alchemy effect|it has by looking at the equipment in detail,|so please check it carefully.|<br>|Also, the <color_yellow>★<color_white> mark in the equipment description|indicates how well the equipment is made.|The more <color_yellow>★<color_white>'s it has the better the equipment.|<br>|A well-made piece of equipment is more|effective and the number of alchemy effects|it can have is the same as the number of <color_yellow>★<color_white>'s.|<bw_break>"
@@ -717,7 +717,7 @@
         "「申し訳ありませんが|　出品するには　お金が足りないようです。|<bw_break>": ""
     },
     "240": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "241": {
         "「おいおい　その額じゃ出品できないぜ。|　いくらで　出品するんだ？|<break>": ""
@@ -1380,10 +1380,10 @@
         "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|　出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には　変更料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I will now explain the Traveler's Bazaar.|The Traveler's Bazaar is a place where|adventurers can buy and sell their wares.|<br>|If you find the listing you were looking for,|you are able to purchase it immediately.|<br>|The listings are the same for all continents|and all servers.|<br>|All adventurers are welcome to submit items|for sale. But the number of items you can|submit is limited to 8.|<br>|Listing and re-pricing an item has a 10 gold|fee.|<br>|Please also note that you will be charged|a commission of 5% of the proceeds from each|sale.|<bw_break>"
     },
     "461": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "462": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "463": {
         "「では　確かに　お返しいたしました。|<bw_break>": ""
@@ -1497,7 +1497,7 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "500": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "501": {
         "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
@@ -1713,10 +1713,10 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "572": {
-        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "573": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "574": {
         "「いらっしゃいませ！|　旅人バザーへ　ようこそっ。|　今日は　どんなご用事ですか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|What can I do for you today?|<break>"
@@ -1758,16 +1758,16 @@
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": ""
     },
     "587": {
-        "「その数を　選ぶことはできません。|<bw_break>": ""
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "588": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_RACE>しか|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|Only <%sL_RACE> can equip this. Is|that okay with you?|<yesno><break>"
     },
     "589": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|This can only be equipped by <%sL_GENDER>s,|is that all right?|<yesno><break>"
     },
     "590": {
-        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんの職業では|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>, I see!|This can't be equipped by your current|vocation, is that all right?|<yesno><break>"
     },
     "591": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　お客さんのレベルでは|　まだ装備できませんが　よろしいですか？|<yesno><break>": ""
@@ -1776,19 +1776,19 @@
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね！|　こちらは　<%sL_SYOKUNIN>の方しか|　装備できませんが　よろしいですか？|<yesno><break>": ""
     },
     "593": {
-        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": ""
+        "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がありますよ！|<bw_break>": "Even if you equip this, you can use it as an|item during battle to use its special effect!|<bw_break>"
     },
     "594": {
-        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": ""
+        "「ありがとうございます！|　ここで　装備していきますか？|<yesno 2><break>": "Many thanks! Do you want to equip it now?|<yesno 2><break>"
     },
     "595": {
-        "<select_se_off>|みぎて|ひだりて|<select_end><break>": ""
+        "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
     },
     "596": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物ですが　よろしいですか？|<yesno><break>": ""
     },
     "597": {
-        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": ""
+        "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "598": {
         "「お買い上げ　ありがとうございますっ！|<bw_break>": ""
@@ -1881,7 +1881,7 @@
         "「あと<%nL_SYUPPIN>品　出品できますが|　他の物も　出品しますか？|<break>": ""
     },
     "628": {
-        "「やめるのですね。|　では　他の物を出品しますか？|<break>": ""
+        "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
     },
     "629": {
         "「あれ？　お客さんは|　何も　出品してないようですね。|<bw_break>": ""
@@ -2052,13 +2052,13 @@
         "「あれっ？　検索結果は|　ないみたいですね。|<bw_break>": ""
     },
     "685": {
-        "「おや？　職人レシピメモに|　記録がされていないみたいだね。|<bw_break>": ""
+        "「おや？　職人レシピメモに|　記録がされていないみたいだね。|<bw_break>": "Hm? You don't seem to have any recipes|recorded at the moment.|<bw_break>"
     },
     "686": {
-        "「おっと！　職人レシピメモに|　記録がされていないみたいだな。|<bw_break>": ""
+        "「おっと！　職人レシピメモに|　記録がされていないみたいだな。|<bw_break>": "Hey! You don't have any recipes recorded.|<bw_break>"
     },
     "687": {
-        "「あら？　職人レシピメモに|　記録がされていないみたいですね。|<bw_break>": ""
+        "「あら？　職人レシピメモに|　記録がされていないみたいですね。|<bw_break>": "Hm? You don't seem to have any recipes|recorded at the moment.|<bw_break>"
     },
     "688": {
         "「あら？　職人レシピメモに|　記録がされていないようですね。|<bw_break>": ""

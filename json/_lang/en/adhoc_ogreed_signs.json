@@ -1,815 +1,815 @@
 {
     "1": {
-        "<center>グレン城|<end>": ""
+        "<center>グレン城|<end>": "Glen Castle|<end>"
     },
     "2": {
-        "<center>獅子門|<end>": ""
+        "<center>獅子門|<end>": "Lion Gate|<end>"
     },
     "3": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "4": {
-        "<left>テスト用です。いずれ消します。": ""
+        "<left>テスト用です。いずれ消します。": "<left>It's for testing. I'll delete it eventually."
     },
     "5": {
-        "<center>↑ランガーオ山地": ""
+        "<center>↑ランガーオ山地": "↑ Langao Mountains"
     },
     "6": {
-        "<center>↑グレン領東": ""
+        "<center>↑グレン領東": "↑ Glen East"
     },
     "7": {
-        "<center>↑ランドンフット": ""
+        "<center>↑ランドンフット": "↑ Landonfoot"
     },
     "8": {
-        "<left>←ランドン山脈": ""
+        "<left>←ランドン山脈": "← Landon Mountains"
     },
     "9": {
-        "<center>橋上の宿": ""
+        "<center>橋上の宿": "Bridge Inn"
     },
     "10": {
-        "<center>↑ゲルト海峡": ""
+        "<center>↑ゲルト海峡": "↑ Gert Strait"
     },
     "11": {
-        "<center>↑ランドンフット": ""
+        "<center>↑ランドンフット": "↑ Landonfoot"
     },
     "12": {
-        "<center>↑ランドン山脈山頂付近": ""
+        "<center>↑ランドン山脈山頂付近": "↑ Landon Mountains Summit"
     },
     "13": {
-        "<center>↑雲上湖": ""
+        "<center>↑雲上湖": "↑ Sky Lake"
     },
     "14": {
-        "<center>↑ランドン山脈": ""
+        "<center>↑ランドン山脈": "↑ Landon Mountains"
     },
     "15": {
-        "<left>←山頂": ""
+        "<left>←山頂": "← Summit"
     },
     "16": {
-        "<center>↑ゲルト海峡": ""
+        "<center>↑ゲルト海峡": "↑ Gert Strait"
     },
     "17": {
-        "<center>↑ランドン山脈": ""
+        "<center>↑ランドン山脈": "↑ Landon Mountains"
     },
     "18": {
-        "<center>↑ザマ峠": ""
+        "<center>↑ザマ峠": "↑ Zama Pass"
     },
     "19": {
-        "<left>←ザマ峠|<right>ゲルト海峡→|<center>ランドン山脈↓": ""
+        "<left>←ザマ峠|<right>ゲルト海峡→|<center>ランドン山脈↓": "← Zama Pass|→ Gert Strait|↓ Landon Mountains"
     },
     "20": {
-        "<left>←ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→|<center>ザマ峠↓": ""
+        "<left>←ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→|<center>ザマ峠↓": "← Gert Strait, Landon Mountains|→ Laga Lake Bridge|↓ Zama Pass"
     },
     "21": {
-        "<left>←ラガ湖上の吊り橋|<right>ザマ峠　ゲルト海峡　ランドン山脈→": ""
+        "<left>←ラガ湖上の吊り橋|<right>ザマ峠　ゲルト海峡　ランドン山脈→": "← Laga Lake Bridge|→ Zama Pass, Gert Strait, Landon Mountains"
     },
     "22": {
-        "<left>ラガ湖上の吊り橋": ""
+        "<left>ラガ湖上の吊り橋": "<left>Laga Lake Bridge"
     },
     "23": {
-        "<center>↑ランドン山脈|<left>←ゲルト海峡|<right>ザマ峠→": ""
+        "<center>↑ランドン山脈|<left>←ゲルト海峡|<right>ザマ峠→": "↑ Landon Mountains|← Gert Strait|→ Zama Pass"
     },
     "24": {
-        "<center>↑ザマ峠|<left>←ラガ湖上の吊り橋|<right>ゲルト海峡　ランドン山脈→": ""
+        "<center>↑ザマ峠|<left>←ラガ湖上の吊り橋|<right>ゲルト海峡　ランドン山脈→": "↑ Zama Pass|← Laga Lake Bridge|→ Gert Strait, Landon Mountains"
     },
     "25": {
-        "<left>←ザマ峠　ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→": ""
+        "<left>←ザマ峠　ゲルト海峡　ランドン山脈|<right>ラガ湖上の吊り橋→": "← Zama Pass, Gert Strait, Landon Mountains|→ Laga Lake Bridge"
     },
     "26": {
-        "<left>←ガートラント領": ""
+        "<left>←ガートラント領": "← Gartlant Territory"
     },
     "27": {
-        "<left>オルセコ闘技場に散った　戦士たちの魂|<left>愛用の剣とともに　この剣岩のもとに眠る。": ""
+        "<left>オルセコ闘技場に散った　戦士たちの魂|<left>愛用の剣とともに　この剣岩のもとに眠る。": "<left>The soul of the warrior fallen in Orseco|<left>Arena, lies with his sword under this rock."
     },
     "28": {
-        "<center>↑古代オルセコ闘技場": ""
+        "<center>↑古代オルセコ闘技場": "↑ Old Orseco Arena"
     },
     "29": {
-        "<right>ガートラント領→": ""
+        "<right>ガートラント領→": "→ Gartlant Territory"
     },
     "30": {
-        "<left>←ガートラント領": ""
+        "<left>←ガートラント領": "← Gartlant Territory"
     },
     "31": {
-        "<left>←入り江の集落|<right>ガートラント領→": ""
+        "<left>←入り江の集落|<right>ガートラント領→": "← Cove Village|→ Gartlant Territory"
     },
     "32": {
-        "<left>←海賊のアジト跡|<right>入り江の集落→|<center>ガートラント領↓": ""
+        "<left>←海賊のアジト跡|<right>入り江の集落→|<center>ガートラント領↓": "← Pirate HQ|→ Cove Village|↓ Gartlant Territory"
     },
     "33": {
-        "<left>←ガートラント領|<right>入り江の集落→": ""
+        "<left>←ガートラント領|<right>入り江の集落→": "← Gartlant Territory|→ Cove Village"
     },
     "34": {
-        "<center>↑入り江の集落|<right>ガートラント領→": ""
+        "<center>↑入り江の集落|<right>ガートラント領→": "↑ Cove Village|→ Gartlant Territory"
     },
     "35": {
-        "<left>←入り江の集落　ガートラント領": ""
+        "<left>←入り江の集落　ガートラント領": "← Cove Village, Gartlant Territory"
     },
     "36": {
-        "<right>入り江の集落　ガートラント領→": ""
+        "<right>入り江の集落　ガートラント領→": "→ Cove Village, Gartlant Territory"
     },
     "37": {
-        "<left>←狩人のほら穴|<center>入り江の集落　ガートラント領↓": ""
+        "<left>←狩人のほら穴|<center>入り江の集落　ガートラント領↓": "← Hunter's Den|↓ Cove Village, Gartlant Territory"
     },
     "38": {
-        "<left>←入り江の集落　ガートラント領|<right>狩人のほら穴→": ""
+        "<left>←入り江の集落　ガートラント領|<right>狩人のほら穴→": "← Cove Village, Gartlant Territory|→ Hunter's Den"
     },
     "39": {
-        "<left>←狩人のほら穴": ""
+        "<left>←狩人のほら穴": "← Hunter's Den"
     },
     "40": {
-        "<left>←古代オルセコ闘技場|<right>ガートラント領→": ""
+        "<left>←古代オルセコ闘技場|<right>ガートラント領→": "← Old Orseco Arena|→ Gartlant Territory"
     },
     "41": {
-        "<center>↓ガートラント領": ""
+        "<center>↓ガートラント領": "↓ Gartlant Territory"
     },
     "42": {
-        "<left>←古代オルセコ闘技場": ""
+        "<left>←古代オルセコ闘技場": "← Old Orseco Arena"
     },
     "43": {
-        "<center>↑獅子門": ""
+        "<center>↑獅子門": "↑ Lion Gate"
     },
     "44": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "← Glen Castle, Glen West, Gert Strait|→ Lion Gate"
     },
     "45": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "← Glen Castle, Glen West, Gert Strait|→ Lion Gate"
     },
     "46": {
-        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "<left>←Glen Castle　Glen West　Gert Strait|<right>Lion Gate→"
+        "<left>←グレン城　グレン領西　ゲルト海峡|<right>獅子門→": "← Glen Castle, Glen West, Gert Strait|→ Lion Gate"
     },
     "47": {
-        "<center>↑獅子門|<left>←グレン城|<center>グレン領西　ゲルト海峡↓": "<center>↑Lion Gate|<left>←Glen Castle|<center>Glen West　Gert Strait↓"
+        "<center>↑獅子門|<left>←グレン城|<center>グレン領西　ゲルト海峡↓": "↑ Lion Gate|← Glen Castle|↓ Glen West, Gert Strait"
     },
     "48": {
-        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": "<center>↑Glen West|<left>←Gert Strait|<right>Glen Castle　Lion Gate→"
+        "<center>↑グレン領西|<left>←ゲルト海峡|<right>グレン城　獅子門→": "↑ Glen West|← Gert Strait|→ Glen Castle, Lion Gate"
     },
     "49": {
-        "<center>↑グレン城": ""
+        "<center>↑グレン城": "↑ Glen Castle"
     },
     "50": {
-        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": "<left>←Gert Strait|<center>Glen Castle　Glen West　Lion Gate"
+        "<left>←ゲルト海峡|<center>グレン城　グレン領西　獅子門↓": "← Gert Strait|↓ Glen Castle, Glen West, Lion Gate"
     },
     "51": {
-        "<center>↑ゲルト海峡": ""
+        "<center>↑ゲルト海峡": "↑ Gert Strait"
     },
     "52": {
-        "<center>↑ベコン渓谷": ""
+        "<center>↑ベコン渓谷": "↑ Becon Valley"
     },
     "53": {
-        "<center>↑グレン領西": "<center>↑Glen West"
+        "<center>↑グレン領西": "↑ Glen West"
     },
     "54": {
-        "<left>←入り江の集落|<center>ガートラント領↓": ""
+        "<left>←入り江の集落|<center>ガートラント領↓": "← Cove Village|↓ Gartlant Territory"
     },
     "55": {
-        "<center>↑入り江の集落|<center>ガートラント領↓": ""
+        "<center>↑入り江の集落|<center>ガートラント領↓": "↑ Cove Village|↓ Gartlant Territory"
     },
     "56": {
-        "<center>↑入り江の集落|<left>←ガートラント領　海賊のアジト跡": ""
+        "<center>↑入り江の集落|<left>←ガートラント領　海賊のアジト跡": "↑ Cove Village|← Gartlant Territory, Pirate HQ"
     },
     "57": {
-        "<center>↑ガートラント領": ""
+        "<center>↑ガートラント領": "↑ Gartlant Territory"
     },
     "58": {
-        "<center>↑ガートラント領": ""
+        "<center>↑ガートラント領": "↑ Gartlant Territory"
     },
     "59": {
-        "<center>↑ガートラント領": ""
+        "<center>↑ガートラント領": "↑ Gartlant Territory"
     },
     "60": {
-        "<center>↑ガートラント領": ""
+        "<center>↑ガートラント領": "↑ Gartlant Territory"
     },
     "61": {
-        "<center>↑ガートラント領": ""
+        "<center>↑ガートラント領": "↑ Gartlant Territory"
     },
     "62": {
-        "<center>↑ガートラント領|<right>バドリアル石室→": ""
+        "<center>↑ガートラント領|<right>バドリアル石室→": "↑ Gartlant Territory|→ Budlial Tomb"
     },
     "63": {
-        "<left>下に見えるのが　バドリアル石室|<left>用なき者は　立ち入るべからず！": ""
+        "<left>下に見えるのが　バドリアル石室|<left>用なき者は　立ち入るべからず！": "<left>Visible below is the Budlial Tomb.|<left>Those who have no business here should not|<left>enter!"
     },
     "64": {
-        "<left>採掘小屋|<left>許可なき者の　立ち入りを禁ず。": ""
+        "<left>採掘小屋|<left>許可なき者の　立ち入りを禁ず。": "<left>Mining Cabin|No unauthorized persons are allowed to enter."
     },
     "65": {
-        "<left>採掘小屋|<left>許可なき者の　立ち入りを禁ず。": ""
+        "<left>採掘小屋|<left>許可なき者の　立ち入りを禁ず。": "<left>Mining Cabin|No unauthorized persons are allowed to enter."
     },
     "66": {
-        "<left>この先　行き止まり": ""
+        "<left>この先　行き止まり": "<left>Dead End Ahead"
     },
     "67": {
-        "<left>この先にある　バドリアル石室は|<left>かつて　不幸な事件の起きた地。|<left>不用意に　近づくことなきように。": ""
+        "<left>この先にある　バドリアル石室は|<left>かつて　不幸な事件の起きた地。|<left>不用意に　近づくことなきように。": "<left>Ahead lies Budlial Tomb where an unfortunate|<left>incident once took place.|<left>Approach with caution."
     },
     "68": {
-        "<left>←採掘小屋": ""
+        "<left>←採掘小屋": "← Mining Cabin"
     },
     "69": {
-        "<center>ガートラント領↓": ""
+        "<center>ガートラント領↓": "↓ Gartlant Territory"
     },
     "70": {
-        "<left>←採掘小屋": ""
+        "<left>←採掘小屋": "← Mining Cabin"
     },
     "71": {
-        "<center>↑バドリアル石室": ""
+        "<center>↑バドリアル石室": "↑ Budlial Tomb"
     },
     "72": {
-        "<center>↑バドリアル石室": ""
+        "<center>↑バドリアル石室": "↑ Budlial Tomb"
     },
     "73": {
-        "<left>←バドリアル石室": ""
+        "<left>←バドリアル石室": "← Budlial Tomb"
     },
     "74": {
-        "<center>↑ザマ峠": ""
+        "<center>↑ザマ峠": "↑ Zama Pass"
     },
     "75": {
-        "<center>↑ガートラント城|<right>バドリー岩石地帯→": ""
+        "<center>↑ガートラント城|<right>バドリー岩石地帯→": "↑ Gartlant Castle|→ Budley Rock Zone"
     },
     "76": {
-        "<right>ギルザッド地方→|<center>バドリー岩石地帯↓": ""
+        "<right>ギルザッド地方→|<center>バドリー岩石地帯↓": "→ Gilzad Region|↓ Budley Rock Zone"
     },
     "77": {
-        "<center>↑ガートラント城|<left>←バドリー岩石地帯": ""
+        "<center>↑ガートラント城|<left>←バドリー岩石地帯": "↑ Gartlant Castle|← Budley Rock Zone"
     },
     "78": {
-        "<center>↑ガートラント城|<center>ギルザッド地方↓": ""
+        "<center>↑ガートラント城|<center>ギルザッド地方↓": "↑ Gartlant Castle|↓ Gilzad Region"
     },
     "79": {
-        "<center>↑バドリー岩石地帯": ""
+        "<center>↑バドリー岩石地帯": "↑ Budley Rock Zone"
     },
     "80": {
-        "<left>←ザマ峠|<right>ガートラント城→": ""
+        "<left>←ザマ峠|<right>ガートラント城→": "← Zama Pass|→ Gartlant Castle"
     },
     "81": {
-        "<left>この先　危険地帯！|<left>魔物たちの強さが　格段に上がります。|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>この先　危険地帯！|<left>魔物たちの強さが　格段に上がります。|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|The strength of the monsters will increase|<left>dramatically. Make sure you are prepared."
     },
     "82": {
-        "<center>↑オルセコ高地": ""
+        "<center>↑オルセコ高地": "↑ Orseco Highlands"
     },
     "83": {
-        "<left>皆に　平和で豊かな暮らしを送らせるため|<left>ラダ・ガートは　この巨大な岩　父祖の眠りし岩を|<left>拠点に　魔物と戦い　国を造ったと言われている。": ""
+        "<left>皆に　平和で豊かな暮らしを送らせるため|<left>ラダ・ガートは　この巨大な岩　父祖の眠りし岩を|<left>拠点に　魔物と戦い　国を造ったと言われている。": "It is said that Lada Gart used this rock where|our fathers slept as a base to fight monsters|and build a nation of peace and prosperity."
     },
     "84": {
-        "<left>←ザマ峠|<right>ギルザッド地方→": ""
+        "<left>←ザマ峠|<right>ギルザッド地方→": "← Zama Pass|→ Gilzad Region"
     },
     "85": {
-        "<left>←ガートラント城|<center>ザマ峠↓": ""
+        "<left>←ガートラント城|<center>ザマ峠↓": "← Gartlant Castle|↓ Zama Pass"
     },
     "86": {
-        "<center>↑ガートラント城": ""
+        "<center>↑ガートラント城": "↑ Gartlant Castle"
     },
     "87": {
-        "<center>↑オルセコ高地|<left>←バドリー岩石地帯": ""
+        "<center>↑オルセコ高地|<left>←バドリー岩石地帯": "↑ Orseco Highlands|← Budley Rock Zone"
     },
     "88": {
-        "<center>↑バドリー岩石地帯": ""
+        "<center>↑バドリー岩石地帯": "↑ Budley Rock Zone"
     },
     "89": {
-        "<center>↑ギルザッド地方|<right>バドリー岩石地帯→": ""
+        "<center>↑ギルザッド地方|<right>バドリー岩石地帯→": "↑ Gilzad Region|→ Budley Rock Zone"
     },
     "90": {
-        "<center>↑ギルザッド地方|<center>ガートラント城↓": ""
+        "<center>↑ギルザッド地方|<center>ガートラント城↓": "↑ Gilzad Region|↓ Gartlant Castle"
     },
     "91": {
-        "<center>↑ギルザッド地方": ""
+        "<center>↑ギルザッド地方": "↑ Gilzad Region"
     },
     "92": {
-        "<left>ここより先　危険！|<left>この橋　渡るべからず。": ""
+        "<left>ここより先　危険！|<left>この橋　渡るべからず。": "<left>Danger ahead!|<left>Do not cross this bridge."
     },
     "93": {
-        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": "<center>↑Glen West|<left>←Dangerous Area!|<center>Youkai Mound↓"
+        "<center>↑グレン領西|<left>←この先　危険地帯！|<center>妖剣士の塚↓": "↑ Glen West|← Dangerous Area!|↓ Swordsman Mound"
     },
     "94": {
-        "<left>死者の眠りを　さまたげた者は|<left>その報いを　受けるだろう。": ""
+        "<left>死者の眠りを　さまたげた者は|<left>その報いを　受けるだろう。": "<left>Those who disturb the sleep of the dead|<left>will be rewarded."
     },
     "95": {
-        "<center>↑グレン領東": ""
+        "<center>↑グレン領東": "↑ Glen East"
     },
     "96": {
-        "<Left>←竜の墓場|<right>グレン領東→": ""
+        "<Left>←竜の墓場|<right>グレン領東→": "← Dragon Graveyard|→ Glen East"
     },
     "97": {
-        "<left>この先　危険地帯！　ベコン渓谷の中でも|<left>もっとも恐ろしい魔物たちが　生息している。|<left>決して　興味本位で　立ち入らぬこと！": ""
+        "<left>この先　危険地帯！　ベコン渓谷の中でも|<left>もっとも恐ろしい魔物たちが　生息している。|<left>決して　興味本位で　立ち入らぬこと！": "<left>Dangerous area ahead! Becon Valley's most|<left>terrifying monsters live here. Do not enter|<left>out of curiosity!"
     },
     "98": {
-        "<left>北の洞くつには　死者たちが眠る。|<left>生きている者が近づけば　死者は目を覚まし|<left>死の世界へ　引きずり込もうとするだろう。": ""
+        "<left>北の洞くつには　死者たちが眠る。|<left>生きている者が近づけば　死者は目を覚まし|<left>死の世界へ　引きずり込もうとするだろう。": "<left>The dead sleep in the caves to the north. If|<left>the living approach, they will wake up and|<left>try to drag them into the realm of the dead."
     },
     "99": {
-        "<left>この奥　妖剣士の塚。|<left>むやみに　入るべからず。": ""
+        "<left>この奥　妖剣士の塚。|<left>むやみに　入るべからず。": "<left>Inside is a Swordsman Mound.|<left>Avoid if possible."
     },
     "100": {
-        "<center>↑洞くつ出口": ""
+        "<center>↑洞くつ出口": "↑ Cave Exit"
     },
     "101": {
-        "<left>かつて　この辺りに　紫の霧が噴き出し|<left>人々の命を奪った。近年　そのような報告はないが|<left>紫の霧を見かけた時は　決して近づかぬこと！": ""
+        "<left>かつて　この辺りに　紫の霧が噴き出し|<left>人々の命を奪った。近年　そのような報告はないが|<left>紫の霧を見かけた時は　決して近づかぬこと！": "<left>A purple mist once erupted here, killing|<left>people. There have been no reports of the mist|<left>in recent years but stay away if you see it!"
     },
     "102": {
-        "<left>この下　竜の墓場。|<left>興味本位に　立ち入るべからず。": ""
+        "<left>この下　竜の墓場。|<left>興味本位に　立ち入るべからず。": "<left>Dragon Graveyard below.|<left>Do not enter out of curiosity."
     },
     "103": {
-        "<left>この先　危険地帯！|<left>ここからは　より強き魔物が　生息する。|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>この先　危険地帯！|<left>ここからは　より強き魔物が　生息する。|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|<left>A powerful monster lives here.|<left>Make sure you are prepared."
     },
     "104": {
-        "<center>↑竜の墓場": ""
+        "<center>↑竜の墓場": "↑ Dragon Graveyard"
     },
     "105": {
-        "<left>柵の下に見える地を　目指すなら|<left>死者たちが眠る洞くつを　通り抜けてゆくべし。": ""
+        "<left>柵の下に見える地を　目指すなら|<left>死者たちが眠る洞くつを　通り抜けてゆくべし。": "<left>To get to the land visible beneath the fence,|<left>you must pass through the cave where the dead|<left>sleep."
     },
     "106": {
-        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": "<center>↑Youkai Mound|<right>Dangerous Area!→|<center>Glen West↓"
+        "<center>↑妖剣士の塚|<right>この先　危険地帯！→|<center>グレン領西↓": "↑ Swordsman Mound|→ Dangerous Area!|↓ Glen West"
     },
     "107": {
-        "<left>この奥　妖剣士の眠る塚。|<left>死者の眠りを　さまたげるべからず。": ""
+        "<left>この奥　妖剣士の眠る塚。|<left>死者の眠りを　さまたげるべからず。": "<left>Inside is the sleeping swordsman mound.|<left>Do not disturb the sleep of the dead."
     },
     "108": {
         "<left>この先　危険地帯！|<left>凶暴な魔物たちとの戦いを　避けたいなら|<left>グレン領西から　ベコン渓谷に入ること。": "<left>Dangerous Area!|<left>|<left>To avoid dangerous monsters,|<left>enter Becon Valley from Glen West."
     },
     "109": {
-        "<left>←グレン領東|<right>竜の墓場→": ""
+        "<left>←グレン領東|<right>竜の墓場→": "← Glen East|→ Dragon Graveyard"
     },
     "110": {
-        "<center>↑ランドンフット": ""
+        "<center>↑ランドンフット": "↑ Landonfoot"
     },
     "111": {
-        "<center>↑ランドンフット|<right>ザマ烽火台→": ""
+        "<center>↑ランドンフット|<right>ザマ烽火台→": "↑ Landonfoot|→ Zama Beacon"
     },
     "112": {
-        "<left>ザマ峠　八合目。|<left>下っていくと　ランドンフット。": ""
+        "<left>ザマ峠　八合目。|<left>下っていくと　ランドンフット。": "<left>Zama Pass, 8th station.|<left>Down the road is Landonfoot."
     },
     "113": {
-        "<center>↑ザマ烽火台|<left>←博愛の碑|<center>ガートラント領↓": ""
+        "<center>↑ザマ烽火台|<left>←博愛の碑|<center>ガートラント領↓": "↑ Zama Beacon|← Love Statues|↓ Gartlant Territory"
     },
     "114": {
-        "<left>ザマ峠　五合目。|<left>このまま上ると　ザマ烽火台。": ""
+        "<left>ザマ峠　五合目。|<left>このまま上ると　ザマ烽火台。": "<left>Zama Pass, 5th station.|<left>Keep going up to reach Zama Beacon."
     },
     "115": {
-        "<center>↑ザマ烽火台|<center>ガートラント領↓": ""
+        "<center>↑ザマ烽火台|<center>ガートラント領↓": "↑ Zama Beacon|↓ Gartlant Territory"
     },
     "116": {
-        "<left>落石のため　封鎖中。": ""
+        "<left>落石のため　封鎖中。": "<left>Blocked due to falling rocks."
     },
     "117": {
-        "<left>この先　博愛の碑。": ""
+        "<left>この先　博愛の碑。": "<left>Love Statues ahead."
     },
     "118": {
-        "<center>博愛の碑|<center>すべての者に　等しく　手を差しのべ|<center>守り助ける　博愛精神の象徴。": ""
+        "<center>博愛の碑|<center>すべての者に　等しく　手を差しのべ|<center>守り助ける　博愛精神の象徴。": "                 Love Statues|A symbol of the loving spirit that reaches out|to protect all equally."
     },
     "119": {
-        "<left>ザマ峠　三合目。": ""
+        "<left>ザマ峠　三合目。": "<left>Zama Pass, 3rd station."
     },
     "120": {
-        "<center>↑ザマ烽火台": ""
+        "<center>↑ザマ烽火台": "↑ Zama Beacon"
     },
     "121": {
-        "<left>この先　落石のため封鎖中。": ""
+        "<left>この先　落石のため封鎖中。": "<left>Area ahead closed due to falling rocks."
     },
     "122": {
-        "<left>ザマ峠　八合目。|<left>目の前に見えるのが　ザマ烽火台です。": ""
+        "<left>ザマ峠　八合目。|<left>目の前に見えるのが　ザマ烽火台です。": "<left>Zama Pass, 8th station.|<left>Straight ahead is Zama Beacon."
     },
     "123": {
-        "<center>↑ガートラント領|<right>博愛の碑→|<center>ザマ烽火台↓": ""
+        "<center>↑ガートラント領|<right>博愛の碑→|<center>ザマ烽火台↓": "↑ Gartlant Territory|→ Love Statues|↓ Zama Beacon"
     },
     "124": {
-        "<left>ザマ峠　五合目。|<left>このまま下ると　ガートラント領。": ""
+        "<left>ザマ峠　五合目。|<left>このまま下ると　ガートラント領。": "<left>Zama Pass, 5th station.|<left>Keep going down to reach Gartlant Territory."
     },
     "125": {
-        "<center>↑ガートラント領|<center>ザマ烽火台↓": ""
+        "<center>↑ガートラント領|<center>ザマ烽火台↓": "↑ Gartlant Territory|↓ Zama Beacon"
     },
     "126": {
-        "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": ""
+        "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|<left>Make sure you are prepared."
     },
     "127": {
-        "<center>↑グレン城|<right>この先　危険地帯→": ""
+        "<center>↑グレン城|<right>この先　危険地帯→": "↑ Glen Castle|→ Dangerous Area"
     },
     "128": {
-        "<center>↑バグレア教会跡地|<left>←グレゴールの洞くつ": ""
+        "<center>↑バグレア教会跡地|<left>←グレゴールの洞くつ": "↑ Bagulea Church Vestige|← Gregor Cavern"
     },
     "129": {
-        "<center>↑グレン城|<left>←グレゴールの洞くつ": ""
+        "<center>↑グレン城|<left>←グレゴールの洞くつ": "↑ Glen Castle|← Gregor Cavern"
     },
     "130": {
-        "<center>↑グレゴールの洞くつ|<center>バグレア教会跡地↓": ""
+        "<center>↑グレゴールの洞くつ|<center>バグレア教会跡地↓": "↑ Gregor Cavern|↓ Bagulea Church Vestige"
     },
     "131": {
-        "<center>↑グレン城": ""
+        "<center>↑グレン城": "↑ Glen Castle"
     },
     "132": {
-        "<left>この先　危険地帯！|<left>恐ろしい魔物たちが　死の世界へ引きずり込もうと|<left>襲いかかってくるだろう。": ""
+        "<left>この先　危険地帯！|<left>恐ろしい魔物たちが　死の世界へ引きずり込もうと|<left>襲いかかってくるだろう。": "<left>Dangerous area ahead!|<left>Horrible monsters will attack and try to drag|<left>you into the realm of the dead."
     },
     "133": {
-        "<right>ベコン渓谷→|<center>グレン城↓": ""
+        "<right>ベコン渓谷→|<center>グレン城↓": "→ Becon Valley|↓ Glen Castle"
     },
     "134": {
-        "<center>↑ベコン渓谷": ""
+        "<center>↑ベコン渓谷": "↑ Becon Valley"
     },
     "135": {
-        "<left>丘の上に見えるのは　バグレアの教会跡地。|<left>今も　帰る場所がわからず　惑う少年たちの|<left>歌声が響く。用なき者は　決して近寄らぬこと。": ""
+        "<left>丘の上に見えるのは　バグレアの教会跡地。|<left>今も　帰る場所がわからず　惑う少年たちの|<left>歌声が響く。用なき者は　決して近寄らぬこと。": "<left>On the hilltop is Bagulea Church Vestige. Even|<left>now, the voices of lost boys can be heard.|<left>Never approach those with no business here."
     },
     "136": {
-        "<left>この先　断崖地帯。|<left>敵の強さに注意しながら　進むこと。": ""
+        "<left>この先　断崖地帯。|<left>敵の強さに注意しながら　進むこと。": "<left>Cliff area ahead.|<left>Take heed of the enemy's strength moving|<left>forward."
     },
     "137": {
-        "<center>↑グレン領東": ""
+        "<center>↑グレン領東": "↑ Glen East"
     },
     "138": {
-        "<left>←この先　危険地帯|<center>グレン城↓": ""
+        "<left>←この先　危険地帯|<center>グレン城↓": "← Dangerous Area|↓ Glen Castle"
     },
     "139": {
-        "<left>この先　落石のため封鎖中。": ""
+        "<left>この先　落石のため封鎖中。": "<left>Area ahead closed due to falling rocks."
     },
     "140": {
-        "<right>グレゴールの洞くつ→|<center>グレン城↓": ""
+        "<right>グレゴールの洞くつ→|<center>グレン城↓": "→ Gregor Cavern|↓ Glen Castle"
     },
     "141": {
-        "<left>この奥　バグレアの教会跡地。|<left>今も　帰る場所がわからず　惑う少年たちの|<left>歌声が響く。用なき者は　決して近寄らぬこと。": ""
+        "<left>この奥　バグレアの教会跡地。|<left>今も　帰る場所がわからず　惑う少年たちの|<left>歌声が響く。用なき者は　決して近寄らぬこと。": "<left>Bagulea Church Vestige ahead. Even now, the|<left>voices of lost boys can be heard. Never|<left>approach those with no business here."
     },
     "142": {
-        "<center>↑ランガーオ村|<right>獅子門→|<center>ロンダの氷穴↓": ""
+        "<center>↑ランガーオ村|<right>獅子門→|<center>ロンダの氷穴↓": "↑ Langao Village|→ Lion Gate|↓ Rhonda Ice Cave"
     },
     "143": {
-        "<center>↑ランガーオ村|<left>←獅子門": ""
+        "<center>↑ランガーオ村|<left>←獅子門": "↑ Langao Village|← Lion Gate"
     },
     "144": {
-        "<center>↑ランガーオ村|<center>獅子門↓": ""
+        "<center>↑ランガーオ村|<center>獅子門↓": "↑ Langao Village|↓ Lion Gate"
     },
     "145": {
-        "<center>↑ランガーオ村|<right>ラギ雪原→|<center>雪原の廃墟↓": ""
+        "<center>↑ランガーオ村|<right>ラギ雪原→|<center>雪原の廃墟↓": "↑ Langao Village|→ Ragi Snowfield|↓ Snowfield Ruins"
     },
     "146": {
-        "<left>眼下にある橋を　渡った先にあるのは|<left>手強い魔物が生息する　ナグアの洞くつ。|<left>用なき者は　行くべからず。": ""
+        "<left>眼下にある橋を　渡った先にあるのは|<left>手強い魔物が生息する　ナグアの洞くつ。|<left>用なき者は　行くべからず。": "<left>Across the bridge at the bottom are the Nagua|<left>Caves, inhabited by powerful monsters. Do not|<left>go if you have no business there."
     },
     "147": {
-        "<left>この先　恐ろしい魔物が生息する　雪深き地なり。": ""
+        "<left>この先　恐ろしい魔物が生息する　雪深き地なり。": "<left>A deep snowy area inhabited by terrible|<left>monsters ahead."
     },
     "148": {
-        "<left>ナグアの洞くつには|<left>手強い魔物たちが　生息している。|<left>用なき者は　引き返すこと。": ""
+        "<left>ナグアの洞くつには|<left>手強い魔物たちが　生息している。|<left>用なき者は　引き返すこと。": "<left>The Nagua Caves are home to some of the|<left>toughest monsters around. Those who have no|<left>use here should turn back."
     },
     "149": {
-        "<left>この先　危険地帯！|<left>充分に修行した者でも　死を覚悟して進むこと。": ""
+        "<left>この先　危険地帯！|<left>充分に修行した者でも　死を覚悟して進むこと。": "<left>Dangerous area ahead!|<left>Even those who are well-trained should be|<left>prepared to die."
     },
     "150": {
-        "<left>ここからの飛び込みを　禁ずる！|<left>寒中水泳は　別の場所で行うこと！|<right>渓流愛好会": ""
+        "<left>ここからの飛び込みを　禁ずる！|<left>寒中水泳は　別の場所で行うこと！|<right>渓流愛好会": "<left>Diving from here is forbidden!|<left>Cold swimming should be done elsewhere!|<left>ー Mountain Stream Club"
     },
     "151": {
-        "<left>古い立て札に|<left>かすれた文字が　書かれている。|<bw_clear>|<left>この橋…渡……　ダズの岩穴……。": ""
+        "<left>古い立て札に|<left>かすれた文字が　書かれている。|<bw_clear>|<left>この橋…渡……　ダズの岩穴……。": "<left>Faint letters are written|<left>on the old note.|<bw_clear>|<left>Cross...bridge...Daz Cavern..."
     },
     "152": {
-        "<left>崩落の恐れがあるため|<left>立ち入り禁止！": ""
+        "<left>崩落の恐れがあるため|<left>立ち入り禁止！": "<left>No trespassing due to risk of collapse!"
     },
     "153": {
-        "<center>↑ロンダの氷穴|<left>←獅子門|<center>ランガーオ村↓": ""
+        "<center>↑ロンダの氷穴|<left>←獅子門|<center>ランガーオ村↓": "↑ Rhonda Ice Cave|← Lion Gate|↓ Langao Village"
     },
     "154": {
-        "<right>獅子門→|<center>ランガーオ村↓": ""
+        "<right>獅子門→|<center>ランガーオ村↓": "→ Lion Gate|↓ Langao Village"
     },
     "155": {
-        "<center>↑獅子門|<center>ランガーオ村↓": ""
+        "<center>↑獅子門|<center>ランガーオ村↓": "↑ Lion Gate|↓ Langao Village"
     },
     "156": {
-        "<center>↑雪原の廃墟|<left>←ラギ雪原": ""
+        "<center>↑雪原の廃墟|<left>←ラギ雪原": "↑ Snowfield Ruins|← Ragi Snowfield"
     },
     "157": {
-        "<left>ベコン渓谷へ向かうなら　この道の先の|<left>わかれ道を　北に曲がること。": ""
+        "<left>ベコン渓谷へ向かうなら　この道の先の|<left>わかれ道を　北に曲がること。": "<left>To go to Becon Valley, turn north at the fork|<left>in the road up ahead."
     },
     "158": {
-        "<center>ベコン渓谷↓": ""
+        "<center>ベコン渓谷↓": "↓ Becon Valley"
     },
     "159": {
-        "<center>↑道なり　ランドン山脈|<center>洞くつの先　ゲルト海峡↓": ""
+        "<center>↑道なり　ランドン山脈|<center>洞くつの先　ゲルト海峡↓": "↑ Road to Landon Mountains|↓ Cave Front, Gert Strait"
     },
     "160": {
-        "<center>↑道なり　ゲルト海峡|<left>←道から外れた先　荒野の集落|<center>道なり　ランドン山↓": ""
+        "<center>↑道なり　ゲルト海峡|<left>←道から外れた先　荒野の集落|<center>道なり　ランドン山↓": "↑ Road to Gert Strait|← Off road to Wild Settlement|↓ Road to Landon Mountains"
     },
     "161": {
-        "<center>↑道なり　ゲルト海峡|<left>←ランドンクイナ生息地帯|<center>道なり　ランドン山↓": ""
+        "<center>↑道なり　ゲルト海峡|<left>←ランドンクイナ生息地帯|<center>道なり　ランドン山↓": "↑ Road to Gert Strait|← Apeckalypse Habitat|↓ Road to Landon Mountains"
     },
     "162": {
-        "<left>←洞くつの先　ランドン山脈": ""
+        "<left>←洞くつの先　ランドン山脈": "← Cave Front, Landon Mountains"
     },
     "163": {
-        "<right>ランドン山脈→": ""
+        "<right>ランドン山脈→": "→ Landon Mountains"
     },
     "164": {
-        "<left>←道なり　ランドン山脈|<right>ランドンクイナ生息地帯→": ""
+        "<left>←道なり　ランドン山脈|<right>ランドンクイナ生息地帯→": "← Road to Landon Mountains|→ Apeckalypse Habitat"
     },
     "165": {
-        "<left>←洞くつの先　ゲルト海峡|<center>道なり　ランドン山脈↓": ""
+        "<left>←洞くつの先　ゲルト海峡|<center>道なり　ランドン山脈↓": "← Cave Front, Gert Strait|↓ Road to Landon Mountains"
     },
     "166": {
-        "<center>↑道なり　ランドン山脈|<right>道から外れた先　荒野の集落→|<center>道なり　ゲルト海峡↓": ""
+        "<center>↑道なり　ランドン山脈|<right>道から外れた先　荒野の集落→|<center>道なり　ゲルト海峡↓": "↑ Road to Landon Mountains|→ Off Road to Wild Settlement|↓ Road to Gert Strait"
     },
     "167": {
-        "<center>↑道なり　ランドン山|<right>ランドンクイナ生息地帯→|<center>道なり　ゲルト海峡↓": ""
+        "<center>↑道なり　ランドン山|<right>ランドンクイナ生息地帯→|<center>道なり　ゲルト海峡↓": "↑ Road to Landon Mountains|→ Apeckalypse Habitat|↓ Road to Gert Strait"
     },
     "168": {
-        "<center>↑ゲルト海峡|<right>頂上へ向かう場合は　こちら→|<center>ランドンフット↓": ""
+        "<center>↑ゲルト海峡|<right>頂上へ向かう場合は　こちら→|<center>ランドンフット↓": "↑ Gert Strait|→ This way to the peak|↓ Landonfoot"
     },
     "169": {
-        "<right>洞くつの先　ゲルト海峡→": ""
+        "<right>洞くつの先　ゲルト海峡→": "→ Cave Front, Gert Strait"
     },
     "170": {
-        "<left>←この先　ランドンフット": ""
+        "<left>←この先　ランドンフット": "← Landonfoot ahead."
     },
     "171": {
-        "<center>↑この先　頂上": ""
+        "<center>↑この先　頂上": "↑ Peak ahead."
     },
     "172": {
-        "<right>頂上へ向かう場合は　こちら→": ""
+        "<right>頂上へ向かう場合は　こちら→": "→ This way to the peak"
     },
     "173": {
-        "<center>↑ランドンフット|<left>←頂上へ向かう場合は　こちら|<center>ゲルト海峡↓": ""
+        "<center>↑ランドンフット|<left>←頂上へ向かう場合は　こちら|<center>ゲルト海峡↓": "↑ Landonfoot|← This way to the peak|↓ Gert Strait"
     },
     "174": {
-        "<center>世界をつなぐ　夢の　かけ橋|<center>グレン城下町駅　建設中！|<center>関係者以外　立ち入り禁止": ""
+        "<center>世界をつなぐ　夢の　かけ橋|<center>グレン城下町駅　建設中！|<center>関係者以外　立ち入り禁止": "            Dream bridge connecting the world|   Glen Castle Town Stop Under Construction!|     No entry except authorized personnel."
     },
     "175": {
-        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
     },
     "176": {
-        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": ""
+        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": "<left>It's very dangerous to rush on the train|<left>before the door closes.|<left>Please don't do this."
     },
     "177": {
-        "<left>預かり所の　看板だ。": ""
+        "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "178": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "179": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "180": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "181": {
-        "<pc>は　看板を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　看板を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "182": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "183": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "184": {
-        "<left>住宅村の　看板だ。": ""
+        "<left>住宅村の　看板だ。": "<left>It's a housing sign."
     },
     "185": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "186": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "187": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "188": {
-        "<left>教会の　看板だ。": ""
+        "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "189": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "190": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "191": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "192": {
-        "<left>さいほう設備の　看板だ。": ""
+        "<left>さいほう設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "193": {
-        "<left>酒場の　看板だ。": ""
+        "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "194": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "195": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "196": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "197": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "198": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "199": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "200": {
-        "<left>宿屋の　看板だ。": ""
+        "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "201": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "202": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "203": {
-        "<left>郵便局の　看板だ。": ""
+        "<left>郵便局の　看板だ。": "<left>It's a post office sign."
     },
     "204": {
-        "<left>預かり所の　看板だ。": ""
+        "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "205": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "206": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "207": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "208": {
-        "<left>道具屋の　看板だ。": ""
+        "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "209": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "210": {
-        "<left>住宅村の　看板だ。": ""
+        "<left>住宅村の　看板だ。": "<left>It's a housing sign."
     },
     "211": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "212": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "213": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "214": {
-        "<left>教会の　看板だ。": ""
+        "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "215": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "216": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "217": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "218": {
-        "<left>さいほう設備の　看板だ。": ""
+        "<left>さいほう設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "219": {
-        "<left>酒場の　看板だ。": ""
+        "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "220": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "221": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "222": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "223": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "224": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "225": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "226": {
-        "<left>宿屋の　看板だ。": ""
+        "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "227": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "228": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "229": {
-        "<left>郵便局の　看板だ。": ""
+        "<left>郵便局の　看板だ。": "<left>It's a post office sign."
     },
     "230": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "231": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "232": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>粗末な服が　かけられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>粗末な服が　かけられている。": "<left>It's a brand new grave, freshly made.|<left>Shabby clothes have been hung on it."
     },
     "233": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>子供用の服が　かけられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>子供用の服が　かけられている。": "<left>It's a brand new grave, freshly made.|<left>Children's clothes have been hung on it."
     },
     "234": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>くしゃくしゃに　しおれた花が　供えられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>くしゃくしゃに　しおれた花が　供えられている。": "<left>It's a brand new grave, freshly made.|<left>Disheveled wilted flowers were offered."
     },
     "235": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "236": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "237": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "238": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>粗末な服が　かけられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>粗末な服が　かけられている。": "<left>It's a brand new grave, freshly made.|<left>Shabby clothes have been hung on it."
     },
     "239": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>子供用の服が　かけられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>子供用の服が　かけられている。": "<left>It's a brand new grave, freshly made.|<left>Children's clothes have been hung on it."
     },
     "240": {
-        "<left>作られたばかりの　真新しい墓だ。|<left>くしゃくしゃに　しおれた花が　供えられている。": ""
+        "<left>作られたばかりの　真新しい墓だ。|<left>くしゃくしゃに　しおれた花が　供えられている。": "<left>It's a brand new grave, freshly made.|<left>Disheveled wilted flowers were offered."
     },
     "241": {
-        "<left>作られたばかりの　真新しい墓だ。": ""
+        "<left>作られたばかりの　真新しい墓だ。": "<left>It's a brand new grave, freshly made."
     },
     "242": {
-        "<left>避難時は　命を大事に！|<left>あせらず　あわてず　あきらめず|<left>落ち着いて　行動しよう。": ""
+        "<left>避難時は　命を大事に！|<left>あせらず　あわてず　あきらめず|<left>落ち着いて　行動しよう。": "<left>Value your life during evacuation!|<left>Don't rush, don't panic, don't give up and|<left>stay calm."
     },
     "243": {
-        "<left>この水を　枯らすことなかれ。|<left>同じ苦しみを　繰り返すべからず。": ""
+        "<left>この水を　枯らすことなかれ。|<left>同じ苦しみを　繰り返すべからず。": "<left>Do not let this water run dry.|<left>Do not repeat the same suffering."
     },
     "244": {
-        "<pc>は|積み石に記された　文字を読んだ。|<br>|<left>山頂を目指す旅人よ。|<left>険しき山道に　くじけることなかれ。|<left>この石が　そなたらに　ひと時の安息を与えん。": ""
+        "<pc>は|積み石に記された　文字を読んだ。|<br>|<left>山頂を目指す旅人よ。|<left>険しき山道に　くじけることなかれ。|<left>この石が　そなたらに　ひと時の安息を与えん。": "You read the writing on the stone block.|<br>|<left>You are a traveler aiming for the summit.|<left>Don't be discouraged by the steep mountain|<left>path.This stone will let you rest a moment."
     },
     "245": {
-        "<pc>は|積み石に記された　文字を読んだ。|<br>|<left>山頂を目指す旅人よ。|<left>険しき山道に　くじけることなかれ。|<left>この石が　そなたらに　ひと時の安息を与えん。": ""
+        "<pc>は|積み石に記された　文字を読んだ。|<br>|<left>山頂を目指す旅人よ。|<left>険しき山道に　くじけることなかれ。|<left>この石が　そなたらに　ひと時の安息を与えん。": "You read the writing on the stone block.|<br>|<left>You are a traveler aiming for the summit.|<left>Don't be discouraged by the steep mountain|<left>path.This stone will let you rest a moment."
     },
     "246": {
-        "<pc>は|石碑に記された　文字を読んだ。|<bw_clear>|<center>ガートラント建国王　ラダ・ガート|<center>強きを尊び　古代オルセコ闘技場を再建せり。|<center>かの王　闘神として　炎の間に祀られるものなり。": ""
+        "<pc>は|石碑に記された　文字を読んだ。|<bw_clear>|<center>ガートラント建国王　ラダ・ガート|<center>強きを尊び　古代オルセコ闘技場を再建せり。|<center>かの王　闘神として　炎の間に祀られるものなり。": "You read the words on the stone monument.|<bw_clear>|Old Orseco Arena was rebuilt in honor of King|Lada Gart, founder of Gartlant, who is|enshrined in the fire room as the god of war."
     },
     "247": {
-        "<left>この先　恐ろしき魔物たちが　生息する地。|<left>最奥にある　ガラガの穴を目指すなら|<left>充分に備えて　進むべし。": ""
+        "<left>この先　恐ろしき魔物たちが　生息する地。|<left>最奥にある　ガラガの穴を目指すなら|<left>充分に備えて　進むべし。": "<left>Terrible monsters live beyond this point.|<left>If you want to get to Garaga Hole at the far|<left>end, you must be fully prepared."
     },
     "248": {
         "<pc>は|石碑に刻まれた文字を読んだ。|<br>|かような時代に　この世に生を受けたことを|嘆くことなかれ。いかな時代であれ|生きることは　神の寵愛をその身に浴びること。|<br>|我が　神の家の子らよ。神を愛しなさい。|そして　神と等しく崇高なる王ガミルゴにも|永遠の敬愛と　感謝を。|<br>|王の死の後も　死者の影は　我らの周りから|消える気配はない……。だが　それでも……|<br>|我らの今日は　王の犠牲の上にある今日。|生かされている感謝を　我らは|どの瞬間にも　忘れてはならない……。": ""
     },
     "249": {
-        "<pc>は　石碑を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　石碑を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the stone monument.|But you're standing on the wrong side!|<end>"
     },
     "250": {
-        "こちらは　裏側だ。|<end>": ""
+        "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "251": {
-        "<left>さびついた扉がある。|<left>この先には　何もなさそうだ。": ""
+        "<left>さびついた扉がある。|<left>この先には　何もなさそうだ。": "<left>There is a rusty door.|<left>There doesn't seem to be anything past this point."
     },
     "252": {
-        "<left>扉は　かたく　閉ざされている。": ""
+        "<left>扉は　かたく　閉ざされている。": "<left>The door is locked tight!"
     },
     "253": {
-        "<left>返事がない……。|<left>誰かが作った　雪だるまのようだ。": ""
+        "<left>返事がない……。|<left>誰かが作った　雪だるまのようだ。": "<left>There's no reply.|<left>It's just a snowman somebody made."
     },
     "254": {
-        "<left>返事がない……。|<left>誰かが作った　雪だるまのようだ。": ""
+        "<left>返事がない……。|<left>誰かが作った　雪だるまのようだ。": "<left>There's no reply.|<left>It's just a snowman somebody made."
     },
     "255": {
-        "<left>オーグリード大陸の　古い地図のようだ。": ""
+        "<left>オーグリード大陸の　古い地図のようだ。": "<left>It looks like an old map of Ogreed Continent."
     },
     "256": {
         "<left>グレン領西の奥　崩れた教会の跡地で|<left>この世のものとは思えない　歌を聞いた……。|<left>と　掲示板のすみに　走り書きされている。": "<left>At this collapsed church in Glen West,|<left>you hear an otherworldly song...|<left>it's scribbled in the corner of this board."
     },
     "257": {
-        "<center>燃える鉄を打ち　剣となせ！|<center>武器鍛冶ギルドは　漢の生き様！|<right>武器鍛冶ギルド本部": ""
+        "<center>燃える鉄を打ち　剣となせ！|<center>武器鍛冶ギルドは　漢の生き様！|<right>武器鍛冶ギルド本部": "  Strike the burning iron and make a sword!|   The Weaponsmith Guild is a way of life!|ー Weaponsmith Guild Headquarters"
     },
     "258": {
-        "<left>集え　グレン城へ！|<left>果てなき荒野の続く　百戦の地が|<left>そなたの肉体を　鍛えあげよう。": ""
+        "<left>集え　グレン城へ！|<left>果てなき荒野の続く　百戦の地が|<left>そなたの肉体を　鍛えあげよう。": "<left>Gather to Glen Castle!|<left>The endless wilderness of the land of a|<left>hundred battles will strengthen your body."
     },
     "259": {
-        "<center>眠れる勇気を　呼び覚ましたいツワモノよ！|<center>いざ　ゲルト海峡で　度胸試しだ！　|<right>ゲルト海峡商工会": ""
+        "<center>眠れる勇気を　呼び覚ましたいツワモノよ！|<center>いざ　ゲルト海峡で　度胸試しだ！　|<right>ゲルト海峡商工会": "   I want to awaken your sleeping courage.|  Let's test our courage at the Gert Strait!|ー Gert Strait Chamber of Commerce"
     },
     "260": {
         "<center>茶色の　とろけるボディに　つぶらな瞳。|<center>キュートな　あの子の名前は　チョコ神！|<center>気づけば　あなたも　夢中♪": ""
     },
     "261": {
-        "<center>ガートラント名所案内|<left>城の北にある　ザマ烽火台の煙は|<left>悪しきものを払うといわれ　お年寄りに人気です。": ""
+        "<center>ガートラント名所案内|<left>城の北にある　ザマ烽火台の煙は|<left>悪しきものを払うといわれ　お年寄りに人気です。": "         Gartlant Famous Place Guide|<left>The smoke from the Zama Beacon, located north|<left>of the castle, is said to ward off evil."
     },
     "262": {
-        "<left>大地の箱舟は　朝も夜も|<left>運休することなく　皆さまを|<left>目的地まで　ご案内いたします。": ""
+        "<left>大地の箱舟は　朝も夜も|<left>運休することなく　皆さまを|<left>目的地まで　ご案内いたします。": "<left>The Ark of the Earth will take you to your|<left>destination without stopping, morning or|<left>night."
     },
     "263": {
-        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": ""
+        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": "<left>It's very dangerous to rush on the train|<left>before the door closes.|<left>Please don't do this."
     },
     "264": {
-        "<left><pc>は　掲示板を読んだ。|<left>しかし　字が豪快すぎて　読めない！": ""
+        "<left><pc>は　掲示板を読んだ。|<left>しかし　字が豪快すぎて　読めない！": "<left>You tried to read the bulletin board.|<left>But the letters are too bold to read!"
     },
     "265": {
-        "<center>守りたい人がいる。|<center>失いたくない場所がある。|<right>ガートラント聖騎士団": ""
+        "<center>守りたい人がいる。|<center>失いたくない場所がある。|<right>ガートラント聖騎士団": "      There are people I want to protect.|    There are places I don't want to lose.|ー Gartlant Holy Knight"
     },
     "266": {
-        "<left>ようこそ　ガートラント城へ！|<left>大地を育む　雄大な自然のごとく|<left>やさしき心の持ち主を　我が国は歓迎する。": ""
+        "<left>ようこそ　ガートラント城へ！|<left>大地を育む　雄大な自然のごとく|<left>やさしき心の持ち主を　我が国は歓迎する。": "<left>Welcome to Gartlant Castle!|<left>Our nation welcomes those who have a heart as|<left>gentle as the majestic nature of the earth."
     },
     "267": {
         "<left>ガートラント中央路走り隊　隊員募集！|<left>広くて　長～い　ガートラント中央路を|<left>青春の汗とともに　駆けぬけませんか？": ""
     },
     "268": {
-        "<left>武器鍛冶ギルド本部の　看板だ。": ""
+        "<left>武器鍛冶ギルド本部の　看板だ。": "<left>It's a weaponsmith guild headquarters sign."
     },
     "269": {
-        "<left>売店の　看板だ。": ""
+        "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "270": {
-        "<left>売店の　看板だ。": ""
+        "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "271": {
-        "この文章は　もう　使われない。": ""
+        "この文章は　もう　使われない。": "This sentence is no longer in use."
     }
 }

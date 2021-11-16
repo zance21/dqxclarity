@@ -258,7 +258,7 @@
     "旅人バザー": "Traveler Bazaar"
   },
   "87": {
-    "<%sL_SENDER_NAME>からの届け物": "Delivery from <%sL_SENDER_NAME>"
+    "<%sL_SENDER_NAME>からの届け物": "Mail from <%sL_SENDER_NAME>"
   },
   "88": {
     "<%sM_pc>からの手紙": "Letter from <%sM_pc>"
@@ -363,7 +363,7 @@
     "clarity_nt_char_121": "clarity_nt_char_121"
   },
   "122": {
-    "チーム購買部": "Team Shop"
+    "チーム購買部": "Team School Shop"
   },
   "123": {
     "clarity_nt_char_123": "clarity_nt_char_123"
@@ -561,7 +561,7 @@
     "チームレベル順": "Team Level Order"
   },
   "188": {
-    "５０音順": "A-Z"
+    "５０音順": "By Name"
   },
   "189": {
     "clarity_nt_char_189": "clarity_nt_char_189"
@@ -897,12 +897,30 @@
     "預かり所の衣装": "Depository Outfit"
   },
   "300": {
-    "コラボや運営コンテンツ": ""
+    "コラボや運営コンテンツ": "Collab./Operation"
   },
   "301": {
-    "その他のコンテンツ": ""
+    "その他のコンテンツ": "Other Content"
   },
   "302": {
-    "バトルコンテンツ": ""
+    "バトルコンテンツ": "Battle Content"
+  },
+  "303": {
+    "clarity_nt_char_303": "clarity_nt_char_303"
+  },
+  "304": {
+    "魚交換員": ""
+  },
+  "305": {
+    "clarity_nt_char_305": "clarity_nt_char_305"
+  },
+  "306": {
+    "魚交換員の衣装": ""
+  },
+  "307": {
+    "モンスター酒場": ""
+  },
+  "308": {
+    "モンスター酒場の衣装": ""
   }
 }

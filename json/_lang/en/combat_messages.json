@@ -30,13 +30,13 @@
     "<%sB_ACTOR>は 戦うのをやめた。": "<%sB_ACTOR> has stopped fighting."
   },
   "11": {
-    "<%sB_TARGET>を やっつけた！": "<%sB_TARGET> was defeated!"
+    "<%sB_TARGET>を やっつけた！": "<%sB_TARGET> is defeated!"
   },
   "12": {
     "clarity_nt_char_12": "clarity_nt_char_12"
   },
   "13": {
-    "<%sB_TARGET>たちを やっつけた！": "<%sB_TARGET>s were defeated!"
+    "<%sB_TARGET>たちを やっつけた！": "<%sB_TARGET> and co. were defeated!"
   },
   "14": {
     "clarity_nt_char_14": "clarity_nt_char_14"
@@ -66,7 +66,7 @@
     "clarity_nt_char_22": "clarity_nt_char_22"
   },
   "23": {
-    "<%sB_TARGET>は いなくなった！": "The <%sB_TARGET> is gone!"
+    "<%sB_TARGET>は いなくなった！": "<%sB_TARGET> is gone!"
   },
   "24": {
     "<%sB_TARGET>たちは いなくなった！": "The <%sB_TARGET>s are gone!"
@@ -1089,13 +1089,13 @@
     "無制限部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
   },
   "364": {
-    "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
+    "職業重複なし部門の 歴代の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New personal best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!"
   },
   "365": {
     "clarity_nt_char_365": "clarity_nt_char_365"
   },
   "366": {
-    "職業重複なし部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unlimited category!"
+    "職業重複なし部門の 月間の自己ベストを <%sB_VALUE>秒<%sB_VALUE2> 更新した！": "New monthly best of <%sB_VALUE>.<%sB_VALUE2> sec. in the unique category!"
   },
   "367": {
     "clarity_nt_char_367": "clarity_nt_char_367"
@@ -1521,13 +1521,13 @@
     "チャージタイムが|発生しなかった！": "Charge time did|not happen!"
   },
   "508": {
-    "<%sB_TARGET>を　やっつけた！": "<%sB_TARGET> was defeated!"
+    "<%sB_TARGET>を　やっつけた！": "<%sB_TARGET> is defeated!"
   },
   "509": {
     "clarity_nt_char_509": "clarity_nt_char_509"
   },
   "510": {
-    "<%sB_TARGET>たちを　やっつけた！": "<%sB_TARGET>s were defeated!"
+    "<%sB_TARGET>たちを　やっつけた！": "<%sB_TARGET> and co. were defeated!"
   },
   "511": {
     "clarity_nt_char_511": "clarity_nt_char_511"
@@ -1575,594 +1575,600 @@
     "clarity_nt_char_525": "clarity_nt_char_525"
   },
   "526": {
-    "<%sB_ACTOR>は　レベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "<%sB_ACTOR>'s level increased from <%dB_VALUE> to <%dB_VALUE2>!"
+    "まもののむれは|宝箱を　落としていった！": ""
   },
   "527": {
-    "<%dB_VALUE>ゴールドを　手に入れた！": "Received <%dB_VALUE> Gold!"
+    "clarity_nt_char_527": "clarity_nt_char_527"
   },
   "528": {
-    "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
+    "<%sB_ACTOR>は　レベル<%dB_VALUE>から　<%dB_VALUE2>に　あがった！": "<%sB_ACTOR>'s level increased from <%dB_VALUE> to <%dB_VALUE2>!"
   },
   "529": {
-    "clarity_nt_char_529": "clarity_nt_char_529"
+    "<%dB_VALUE>ゴールドを　手に入れた！": "Received <%dB_VALUE> Gold!"
   },
   "530": {
-    "<%dB_VALUE>Ｐの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
+    "<%dB_VALUE>Ｐの経験値　<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
   },
   "531": {
-    "<%dB_VALUE>Ｇ　かくとく！": "Received <%dB_VALUE> Gold!"
+    "clarity_nt_char_531": "clarity_nt_char_531"
   },
   "532": {
-    "clarity_nt_char_532": "clarity_nt_char_532"
+    "<%dB_VALUE>Ｐの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
   },
   "533": {
-    "<%dB_VALUE> Pの名声値を　かくとく！　　　": "Received <%dB_VALUE> reputation points!　　"
+    "<%dB_VALUE>Ｇ　かくとく！": "Received <%dB_VALUE> Gold!"
   },
   "534": {
-    "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reached fame level <%dB_VALUE>!"
+    "clarity_nt_char_534": "clarity_nt_char_534"
   },
   "535": {
-    "clarity_nt_char_535": "clarity_nt_char_535"
+    "<%dB_VALUE> Pの名声値を　かくとく！　　　": "Received <%dB_VALUE> reputation points!　　"
   },
   "536": {
-    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> died."
+    "<%sB_ACTOR>は　名声レベル<%dB_VALUE>に　あがった！": "<%sB_ACTOR> reached fame level <%dB_VALUE>!"
   },
   "537": {
     "clarity_nt_char_537": "clarity_nt_char_537"
   },
   "538": {
-    "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
+    "<%sB_TARGET>は　しんでしまった。": "<%sB_TARGET> died."
   },
   "539": {
-    "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "Received <%dB_VALUE> skill points!"
+    "clarity_nt_char_539": "clarity_nt_char_539"
   },
   "540": {
-    "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Skill Points menu!"
+    "<%sB_TARGET>を　たおした！": "<%sB_TARGET> defeated!"
   },
   "541": {
-    "へろへろタイムなので|なにも かくとくできなかった。": "You were too exhausted|to do anything."
+    "<%dB_VALUE> Pの　スキルポイントを　かくとく！": "Received <%dB_VALUE> skill points!"
   },
   "542": {
-    "clarity_nt_char_542": "clarity_nt_char_542"
+    "スキルポイントは　さくせんコマンドの|スキルふりわけで　できます！": "Skill points can be reallocated|in the Skill Points menu!"
   },
   "543": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
+    "へろへろタイムなので|なにも かくとくできなかった。": "You were too exhausted|to do anything."
   },
   "544": {
     "clarity_nt_char_544": "clarity_nt_char_544"
   },
   "545": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> (<%dB_VALUE4>) Gold!"
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> Gold!"
   },
   "546": {
     "clarity_nt_char_546": "clarity_nt_char_546"
   },
   "547": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値　<%dB_VALUE3>(<%dB_VALUE4>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP and <%dB_VALUE3> (<%dB_VALUE4>) Gold!"
   },
   "548": {
-    "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) Gold!"
+    "clarity_nt_char_548": "clarity_nt_char_548"
   },
   "549": {
-    "clarity_nt_char_549": "clarity_nt_char_549"
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) EXP!"
   },
   "550": {
-    "<%sB_ACTOR>は|<%sB_TARGET>から　何かを盗みとっていた！": "<%sB_ACTOR>|steals something from <%sB_TARGET>!"
+    "<%dB_VALUE>(<%dB_VALUE2>)Ｇ　かくとく！": "Received <%dB_VALUE> (<%dB_VALUE2>) Gold!"
   },
   "551": {
-    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
+    "clarity_nt_char_551": "clarity_nt_char_551"
   },
   "552": {
-    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE2> Gold!"
+    "<%sB_ACTOR>は|<%sB_TARGET>から　何かを盗みとっていた！": "<%sB_ACTOR>|steals something from <%sB_TARGET>!"
   },
   "553": {
-    "clarity_nt_char_553": "clarity_nt_char_553"
+    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
   },
   "554": {
-    "<%dB_VALUE>Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE> EXP and|<%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
+    "<%dB_VALUE3>(+<%dB_VALUE4>)Ｐの経験値|<%dB_VALUE2>Ｇ　かくとく！": "Received <%dB_VALUE3> (+<%dB_VALUE4>) EXP|and <%dB_VALUE2> Gold!"
   },
   "555": {
-    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
+    "clarity_nt_char_555": "clarity_nt_char_555"
   },
   "556": {
-    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
+    "<%dB_VALUE>Ｐの経験値|<%dB_VALUE5>(+<%dB_VALUE6>)Ｇ　かくとく！": "Received <%dB_VALUE> EXP and|<%dB_VALUE5> (+<%dB_VALUE6>) Gold!"
   },
   "557": {
-    "clarity_nt_char_557": "clarity_nt_char_557"
+    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｐの経験値を　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) EXP!"
   },
   "558": {
-    "<%sB_ACTOR>は|まものたちから　何かを盗みとっていた！": "<%sB_ACTOR>|steals something from the enemy!"
+    "<%dB_VALUE2>(＋<%dB_VALUE3>)Ｇ　かくとく！": "Received <%dB_VALUE2> (+<%dB_VALUE3>) Gold!"
   },
   "559": {
     "clarity_nt_char_559": "clarity_nt_char_559"
   },
   "560": {
-    "スキルポイントの　かくとく　なし。": "No skill points received."
+    "<%sB_ACTOR>は|まものたちから　何かを盗みとっていた！": "<%sB_ACTOR>|steals something from the enemy!"
   },
   "561": {
-    "特訓スタンプを　<%dB_VALUE> 個　かくとく！": "Received <%dB_VALUE> special training stamps!"
+    "clarity_nt_char_561": "clarity_nt_char_561"
   },
   "562": {
-    "今の戦いは　特訓には　ならなかった。": "The current battle wasn't special training."
+    "スキルポイントの　かくとく　なし。": "No skill points received."
   },
   "563": {
-    "clarity_nt_char_563": "clarity_nt_char_563"
+    "特訓スタンプを　<%dB_VALUE> 個　かくとく！": "Received <%dB_VALUE> special training stamps!"
   },
   "564": {
-    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> G　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
+    "今の戦いは　特訓には　ならなかった。": "The current battle wasn't special training."
   },
   "565": {
     "clarity_nt_char_565": "clarity_nt_char_565"
   },
   "566": {
-    "<%dB_VALUE> Pの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
+    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> G　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Gold!"
   },
   "567": {
     "clarity_nt_char_567": "clarity_nt_char_567"
   },
   "568": {
-    "<%dB_VALUE> G　かくとく！": "Received <%dB_VALUE> Gold!"
+    "<%dB_VALUE> Pの経験値を　かくとく！": "Received <%dB_VALUE> EXP!"
   },
   "569": {
-    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値|<%dB_VALUE3> G　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP|and <%dB_VALUE3> Gold!"
+    "clarity_nt_char_569": "clarity_nt_char_569"
   },
   "570": {
-    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
+    "<%dB_VALUE> G　かくとく！": "Received <%dB_VALUE> Gold!"
   },
   "571": {
-    "clarity_nt_char_571": "clarity_nt_char_571"
+    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値|<%dB_VALUE3> G　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP|and <%dB_VALUE3> Gold!"
   },
   "572": {
-    "<%sB_ITEM>の|使い込み度が　１００になった！": "<%sB_ITEM>|is now at 100 quality!"
+    "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "Received <%dB_VALUE> +<%dB_VALUE2> (Strong Enemy Bonus) EXP!"
   },
   "573": {
-    "討伐報酬（紫色の宝箱）を　かくとく！": "Take the purple treasure chest as a reward!"
+    "clarity_nt_char_573": "clarity_nt_char_573"
   },
   "574": {
-    "clarity_nt_char_574": "clarity_nt_char_574"
+    "<%sB_ITEM>の|使い込み度が　１００になった！": "<%sB_ITEM>|is now at 100 quality!"
   },
   "575": {
-    "<%sB_TARGET>の|なつき度が　最大値になった！": "<%sB_TARGET>'s|attachment has reached its maximum!"
+    "討伐報酬（紫色の宝箱）を　かくとく！": "Take the purple treasure chest as a reward!"
   },
   "576": {
     "clarity_nt_char_576": "clarity_nt_char_576"
   },
   "577": {
-    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest has appeared!"
+    "<%sB_TARGET>の|なつき度が　最大値になった！": "<%sB_TARGET>'s|attachment has reached its maximum!"
   },
   "578": {
     "clarity_nt_char_578": "clarity_nt_char_578"
   },
   "579": {
-    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest has appeared!"
+    "討伐報酬（紫色の宝箱）が　出現した！": "A purple treasure chest has appeared!"
   },
   "580": {
     "clarity_nt_char_580": "clarity_nt_char_580"
   },
   "581": {
-    "<%sB_ACTOR>は|<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
+    "討伐報酬（赤色の宝箱）が　出現した！": "A red treasure chest has appeared!"
   },
   "582": {
-    "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>|(Strong Enemy Bonus) EXP!"
+    "clarity_nt_char_582": "clarity_nt_char_582"
   },
   "583": {
-    "自己ベストを　更新した！": "You set a new personal best!"
+    "<%sB_ACTOR>は|<%dB_VALUE> Pの経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> EXP!"
   },
   "584": {
-    "clarity_nt_char_584": "clarity_nt_char_584"
+    "<%sB_ACTOR>は|<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの|経験値を　かくとく！": "<%sB_ACTOR> received <%dB_VALUE> +<%dB_VALUE2>|(Strong Enemy Bonus) EXP!"
   },
   "585": {
-    "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
+    "自己ベストを　更新した！": "You set a new personal best!"
   },
   "586": {
     "clarity_nt_char_586": "clarity_nt_char_586"
   },
   "587": {
-    "ランキングに　名前を登録しても　よろしいですか？<yesno>": "May I add your name to the ranking?<yesno>"
+    "<%dB_VALUE>位の　ワールドレコードを記録した！": "Recorded a World Record of Rank <%dB_VALUE>!"
   },
   "588": {
-    "<%dB_VALUE>位で　ワールドレコードに登録した！": "Registered the World Record at Rank <%dB_VALUE>!"
+    "clarity_nt_char_588": "clarity_nt_char_588"
   },
   "589": {
-    "clarity_nt_char_589": "clarity_nt_char_589"
+    "ランキングに　名前を登録しても　よろしいですか？<yesno>": "May I add your name to the ranking?<yesno>"
   },
   "590": {
-    "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
+    "<%dB_VALUE>位で　ワールドレコードに登録した！": "Registered the World Record at Rank <%dB_VALUE>!"
   },
   "591": {
     "clarity_nt_char_591": "clarity_nt_char_591"
   },
   "592": {
-    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
+    "<%dB_VALUE>位に　匿名で　ワールドレコードに登録した！": "Anonymously registered in the World Ranking at Rank <%dB_VALUE>!"
   },
   "593": {
     "clarity_nt_char_593": "clarity_nt_char_593"
   },
   "594": {
-    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best!<se_nots System 17>"
+    "歴代の自己ベストを　更新した！<se_nots System 17>": "Set a new personal best!<se_nots System 17>"
   },
   "595": {
     "clarity_nt_char_595": "clarity_nt_char_595"
   },
   "596": {
-    "歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE2>)!<se_nots System 17>|The records were registered."
+    "月間の自己ベストを　更新した！<se_nots System 17>": "Set a new monthly best!<se_nots System 17>"
   },
   "597": {
-    "他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your|name visible to others. Is this okay?<yesno>"
+    "clarity_nt_char_597": "clarity_nt_char_597"
   },
   "598": {
-    "他のプレイヤーから　名前が見える状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name visible to others."
+    "歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE2>)!<se_nots System 17>|The records were registered."
   },
   "599": {
-    "clarity_nt_char_599": "clarity_nt_char_599"
+    "他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your record with your|name visible to others. Is this okay?<yesno>"
   },
   "600": {
-    "他のプレイヤーから　名前が見えない状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name not visible to|others."
+    "他のプレイヤーから　名前が見える状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name visible to others."
   },
   "601": {
-    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won monthly ranking (Rank <%dB_VALUE>)!|Records have been registered."
+    "clarity_nt_char_601": "clarity_nt_char_601"
   },
   "602": {
-    "他のプレイヤーから　名前が見える状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name visible to others."
+    "他のプレイヤーから　名前が見えない状態で|歴代ランキングと　月間ランキングに|記録が　登録されました。": "Overall and monthly records have been|registered with name not visible to|others."
   },
   "603": {
-    "clarity_nt_char_603": "clarity_nt_char_603"
+    "月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>|記録を　登録します。": "Won monthly ranking (Rank <%dB_VALUE>)!|Records have been registered."
   },
   "604": {
-    "他のプレイヤーから　名前が見えない状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name not visible to others."
+    "他のプレイヤーから　名前が見える状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name visible to others."
   },
   "605": {
-    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+    "clarity_nt_char_605": "clarity_nt_char_605"
   },
   "606": {
-    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
+    "他のプレイヤーから　名前が見えない状態で|月間ランキングに　記録が登録されました。": "Monthly records have been registered|with name not visible to others."
   },
   "607": {
-    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+    "歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new personal best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
   },
   "608": {
-    "clarity_nt_char_608": "clarity_nt_char_608"
+    "月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>　更新した！<se_nots System 17>": "Set a new monthly best of <%sB_VALUE>.<%sB_VALUE2> sec.!<se_nots System 17>"
   },
   "609": {
-    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
+    "歴代の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new personal best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
   },
   "610": {
     "clarity_nt_char_610": "clarity_nt_char_610"
   },
   "611": {
-    "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> was defeated."
+    "月間の自己ベストを　 <%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3> 　更新した！<se_nots System 17>": "Set a new monthly best of <%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec.! <se_nots System 17>"
   },
   "612": {
     "clarity_nt_char_612": "clarity_nt_char_612"
   },
   "613": {
-    "無制限部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the unlimited category!"
+    "<%sB_TARGET>は　たおされた。": "<%sB_TARGET> is defeated."
   },
   "614": {
-    "無制限部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the unlimited category!<se_nots System 17>"
+    "clarity_nt_char_614": "clarity_nt_char_614"
   },
   "615": {
-    "職業重複なし部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the unique category!"
+    "無制限部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the unlimited category!"
   },
   "616": {
-    "clarity_nt_char_616": "clarity_nt_char_616"
+    "無制限部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the unlimited category!<se_nots System 17>"
   },
   "617": {
-    "職業重複なし部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the unique category!<se_nots System 17>"
+    "職業重複なし部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the unique category!"
   },
   "618": {
     "clarity_nt_char_618": "clarity_nt_char_618"
   },
   "619": {
-    "サポと１人で部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the support category!"
+    "職業重複なし部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the unique category!<se_nots System 17>"
   },
   "620": {
     "clarity_nt_char_620": "clarity_nt_char_620"
   },
   "621": {
-    "サポと１人で部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the support category!<se_nots System 17>"
+    "サポと１人で部門の|歴代ランキング　<%dB_VALUE>位|月間ランキング　<%dB_VALUE2>位に　入賞しました！<se_nots System 17>": "Won the overall ranking (Rank <%dB_VALUE>) and monthly|ranking (Rank <%dB_VALUE>) in the support category!"
   },
   "622": {
     "clarity_nt_char_622": "clarity_nt_char_622"
   },
   "623": {
-    "無制限部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
+    "サポと１人で部門の|月間ランキング　<%dB_VALUE>位に　入賞しました！<se_nots System 17>": "Won the monthly ranking (Rank <%dB_VALUE>) in|the support category!<se_nots System 17>"
   },
   "624": {
-    "無制限部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
+    "clarity_nt_char_624": "clarity_nt_char_624"
   },
   "625": {
-    "職業重複なし部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+    "無制限部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
   },
   "626": {
-    "clarity_nt_char_626": "clarity_nt_char_626"
+    "無制限部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unlimited category!<se_nots System 17>"
   },
   "627": {
-    "職業重複なし部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
+    "職業重複なし部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
   },
   "628": {
     "clarity_nt_char_628": "clarity_nt_char_628"
   },
   "629": {
-    "サポと１人で部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+    "職業重複なし部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the unique category!<se_nots System 17>"
   },
   "630": {
     "clarity_nt_char_630": "clarity_nt_char_630"
   },
   "631": {
-    "サポと１人で部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
+    "サポと１人で部門の|歴代の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new personal best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
   },
   "632": {
     "clarity_nt_char_632": "clarity_nt_char_632"
   },
   "633": {
-    "無制限部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+    "サポと１人で部門の|月間の自己ベストを　<%sB_VALUE>秒<%sB_VALUE2>更新した！<se_nots System 17>": "Set a new monthly best of|<%sB_VALUE>.<%sB_VALUE2> seconds in the support category!<se_nots System 17>"
   },
   "634": {
     "clarity_nt_char_634": "clarity_nt_char_634"
   },
   "635": {
-    "無制限部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
+    "無制限部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
   },
   "636": {
     "clarity_nt_char_636": "clarity_nt_char_636"
   },
   "637": {
-    "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+    "無制限部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unlimited category!<se_nots System 17>"
   },
   "638": {
-    "職業重複なし部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
+    "clarity_nt_char_638": "clarity_nt_char_638"
   },
   "639": {
-    "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+    "職業重複なし部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
   },
   "640": {
-    "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
+    "職業重複なし部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the unique category!<se_nots System 17>"
   },
   "641": {
-    "ランキングに　登録します。|他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with|your name visible to others. Is this|okay?<yesno>"
+    "サポと１人で部門の|歴代の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new personal best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
   },
   "642": {
-    "他のプレイヤーから　名前が見える状態で|ランキングに　登録されました。": "Registered in the ranking with name|visible to other players."
+    "サポと１人で部門の|月間の自己ベストを　<%dB_VALUE>分<%sB_VALUE2>秒<%sB_VALUE3>更新した！<se_nots System 17>": "Set a new monthly best of|<%dB_VALUE> min. <%sB_VALUE2>.<%sB_VALUE3> sec. in the support category!<se_nots System 17>"
   },
   "643": {
-    "他のプレイヤーから　名前が見えない状態で|ランキングに　登録されました。": "Registered in the ranking with name|not visible to other players."
+    "ランキングに　登録します。|他のプレイヤーから　名前が見える状態で|記録の登録をしても　よろしいですか？<yesno>": "You will register your ranking with|your name visible to others. Is this|okay?<yesno>"
   },
   "644": {
-    "clarity_nt_char_644": "clarity_nt_char_644"
+    "他のプレイヤーから　名前が見える状態で|ランキングに　登録されました。": "Registered in the ranking with name|visible to other players."
   },
   "645": {
-    "勇気の輝きが　<%dB_VALUE>回復した！": "Spark of Courage restored to <%dB_VALUE>!"
+    "他のプレイヤーから　名前が見えない状態で|ランキングに　登録されました。": "Registered in the ranking with name|not visible to other players."
   },
   "646": {
-    "勇気の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Spark of Courage."
+    "clarity_nt_char_646": "clarity_nt_char_646"
   },
   "647": {
-    "思い出アルバムに　写真を保存しています。|しばらく　お待ちください。": "Saving the photo to your Photo Album.|Please wait a moment."
+    "勇気の輝きが　<%dB_VALUE>回復した！": "Spark of Courage restored to <%dB_VALUE>!"
   },
   "648": {
-    "clarity_nt_char_648": "clarity_nt_char_648"
+    "勇気の輝きを　<%dB_VALUE>消費した。": "Consumed <%dB_VALUE> Spark of Courage."
   },
   "649": {
-    "思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "Failed to save photo to your Photo Album.|Error code: <%sERRID>."
+    "思い出アルバムに　写真を保存しています。|しばらく　お待ちください。": "Saving the photo to your Photo Album.|Please wait a moment."
   },
   "650": {
-    "光の霊玉を  <%dB_VALUE>個　かくとく！": "Received <%dB_VALUE> Spirit Balls of Light!"
+    "clarity_nt_char_650": "clarity_nt_char_650"
   },
   "651": {
-    "クリア報酬(うつしよの金箱)が　出現した！": "A golden box has appeared!"
+    "思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "Failed to save photo to your Photo Album.|Error code: <%sERRID>."
   },
   "652": {
-    "クリア報酬(うつしよの天箱)が　ふたつ出現した！|クリア報酬(うつしよの闇箱)が　出現した！": "A heavenly box has appeared!|A darkness box has appeared!"
+    "光の霊玉を  <%dB_VALUE>個　かくとく！": "Received <%dB_VALUE> Spirit Balls of Light!"
   },
   "653": {
-    "clarity_nt_char_653": "clarity_nt_char_653"
+    "クリア報酬(うつしよの金箱)が　出現した！": "A golden box has appeared!"
   },
   "654": {
-    "写真の保存を　中断しますか？|<color_yellow>※保存を中断すると|写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt saving the photos?|<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
+    "クリア報酬(うつしよの天箱)が　ふたつ出現した！|クリア報酬(うつしよの闇箱)が　出現した！": "A heavenly box has appeared!|A darkness box has appeared!"
   },
   "655": {
-    "写真の保存を　中断しました。": "Photo saving has been interrupted."
+    "clarity_nt_char_655": "clarity_nt_char_655"
   },
   "656": {
-    "clarity_nt_char_656": "clarity_nt_char_656"
+    "写真の保存を　中断しますか？|<color_yellow>※保存を中断すると|写真が　保存されない可能性があります。<color_white><yesno 2><close>": "Do you want to interrupt saving the photos?|<color_yellow>If you say yes, the photos will not be saved.<color_white><yesno 2><close>"
   },
   "657": {
-    "達人のオーブの　レベルがあがった！": "The Master Orb's level has increased!"
+    "写真の保存を　中断しました。": "Photo saving has been interrupted."
   },
   "658": {
-    "<%dB_VALUE> Pの|達人経験値をかくとく！": "<%dB_VALUE> Master Orb EXP received!"
+    "clarity_nt_char_658": "clarity_nt_char_658"
   },
   "659": {
-    "clarity_nt_char_659": "clarity_nt_char_659"
+    "達人のオーブの　レベルがあがった！": "The Master Orb's level has increased!"
   },
   "660": {
-    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
+    "<%dB_VALUE> Pの|達人経験値をかくとく！": "<%dB_VALUE> Master Orb EXP received!"
   },
   "661": {
-    "<%dB_VALUE> フェルド　かくとく！": "Received <%dB_VALUE> Feld!"
+    "clarity_nt_char_661": "clarity_nt_char_661"
   },
   "662": {
-    "clarity_nt_char_662": "clarity_nt_char_662"
+    "<%dB_VALUE> Pの経験値　<%dB_VALUE2> フェルド　かくとく！": "Received <%dB_VALUE> EXP and <%dB_VALUE2> Feld!"
   },
   "663": {
-    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A four-leaf clover treasure chest has appeared!"
+    "<%dB_VALUE> フェルド　かくとく！": "Received <%dB_VALUE> Feld!"
   },
   "664": {
-    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A purple treasure chest has appeared!|A four-leaf clover treasure chest has appeared!"
+    "clarity_nt_char_664": "clarity_nt_char_664"
   },
   "665": {
-    "clarity_nt_char_665": "clarity_nt_char_665"
+    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A four-leaf clover treasure chest has appeared!"
   },
   "666": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
+    "討伐報酬（赤色の宝箱）が　出現した！|討伐報酬（紫色の宝箱）が　出現した！|討伐報酬（四葉の宝箱）が　出現した！": "A red treasure chest has appeared!|A purple treasure chest has appeared!|A four-leaf clover treasure chest has appeared!"
   },
   "667": {
-    "デスパワーを|消費しなかった！": "Did not consume|any death power!"
+    "clarity_nt_char_667": "clarity_nt_char_667"
   },
   "668": {
-    "制限時間まで 生き残った！": "You survived until the time limit!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは デスパワーを消費しなかった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e didn't use any death power!"
   },
   "669": {
-    "安息の領域に 駆け込んだ！": "You rushed into the realm of repose!"
+    "デスパワーを|消費しなかった！": "Did not consume|any death power!"
   },
   "670": {
-    "まもののむれを 倒しきった！": "Defeated all of the monsters!"
+    "制限時間まで 生き残った！": "You survived until the time limit!"
   },
   "671": {
-    "clarity_nt_char_671": "clarity_nt_char_671"
+    "安息の領域に 駆け込んだ！": "You rushed into the realm of repose!"
   },
   "672": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
+    "まもののむれを 倒しきった！": "Defeated all of the monsters!"
   },
   "673": {
-    "<%sB_ACTION>のチャージ時間|<%dB_VALUE>秒たまった！": "<%sB_ACTION>'s charge time|accumulated <%dB_VALUE> sec.!"
+    "clarity_nt_char_673": "clarity_nt_char_673"
   },
   "674": {
-    "心の輝きが <%dB_VALUE> 増えた！": "Got <%dB_VALUE> heart energy!"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの <%sB_ACTION>のチャージ時間が <%dB_VALUE>秒たまった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's <%sB_ACTION> charge time accumulated <%dB_VALUE> sec.!"
   },
   "675": {
-    "clarity_nt_char_675": "clarity_nt_char_675"
+    "<%sB_ACTION>のチャージ時間|<%dB_VALUE>秒たまった！": "<%sB_ACTION>'s charge time|accumulated <%dB_VALUE> sec.!"
   },
   "676": {
-    "心の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> heart energy."
+    "心の輝きが <%dB_VALUE> 増えた！": "Got <%dB_VALUE> heart energy!"
   },
   "677": {
     "clarity_nt_char_677": "clarity_nt_char_677"
   },
   "678": {
-    "クリア報酬(うつしよの極箱)が 出現した！": "A climax box has appeared!"
+    "心の輝きを <%dB_VALUE> 使った。": "Used <%dB_VALUE> heart energy."
   },
   "679": {
-    "クリア報酬(うつしよの極箱)が ふたつ出現した！": "2 climax boxes have appeared!"
+    "clarity_nt_char_679": "clarity_nt_char_679"
   },
   "680": {
-    "clarity_nt_char_680": "clarity_nt_char_680"
+    "クリア報酬(うつしよの極箱)が 出現した！": "A climax box has appeared!"
   },
   "681": {
-    "心の輝きが　<%dB_VALUE>回復した！": "Recovered <%dB_VALUE> heart energy!"
+    "クリア報酬(うつしよの極箱)が ふたつ出現した！": "2 climax boxes have appeared!"
   },
   "682": {
     "clarity_nt_char_682": "clarity_nt_char_682"
   },
   "683": {
-    "心の輝きを　<%dB_VALUE>消費した。": "Removed <%dB_VALUE> heart energy."
+    "心の輝きが　<%dB_VALUE>回復した！": "Recovered <%dB_VALUE> heart energy!"
   },
   "684": {
     "clarity_nt_char_684": "clarity_nt_char_684"
   },
   "685": {
-    "クリア報酬(うつしよの極箱)が　出現した！": "A climax box has appeared!"
+    "心の輝きを　<%dB_VALUE>消費した。": "Removed <%dB_VALUE> heart energy."
   },
   "686": {
-    "クリア報酬(うつしよの極箱)が　ふたつ出現した！": "2 climax boxes have appeared!"
+    "clarity_nt_char_686": "clarity_nt_char_686"
   },
   "687": {
-    "clarity_nt_char_687": "clarity_nt_char_687"
+    "クリア報酬(うつしよの極箱)が　出現した！": "A climax box has appeared!"
   },
   "688": {
-    "クリア報酬(うつしよの天箱)が 出現した！": "A heavenly box has appeared!"
+    "クリア報酬(うつしよの極箱)が　ふたつ出現した！": "2 climax boxes have appeared!"
   },
   "689": {
-    "クリア報酬(うつしよの天箱)が ふたつ出現した！": "2 heavenly boxes have appeared!"
+    "clarity_nt_char_689": "clarity_nt_char_689"
   },
   "690": {
-    "clarity_nt_char_690": "clarity_nt_char_690"
+    "クリア報酬(うつしよの天箱)が 出現した！": "A heavenly box has appeared!"
   },
   "691": {
-    "クリア報酬(うつしよの竜箱)が 出現した！": "A dragon box has appeared!"
+    "クリア報酬(うつしよの天箱)が ふたつ出現した！": "2 heavenly boxes have appeared!"
   },
   "692": {
-    "クリア報酬(うつしよの竜箱)が ふたつ出現した！": "2 dragon boxes have appeared!"
+    "clarity_nt_char_692": "clarity_nt_char_692"
   },
   "693": {
-    "clarity_nt_char_693": "clarity_nt_char_693"
+    "クリア報酬(うつしよの竜箱)が 出現した！": "A dragon box has appeared!"
   },
   "694": {
-    "クリア報酬(うつしよの金箱)が ふたつ出現した！": "2 gold boxes have appeared!"
+    "クリア報酬(うつしよの竜箱)が ふたつ出現した！": "2 dragon boxes have appeared!"
   },
   "695": {
     "clarity_nt_char_695": "clarity_nt_char_695"
   },
   "696": {
-    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの天箱)が 出現した！": "A climax box has appeared!|A heavenly box has appeared!"
+    "クリア報酬(うつしよの金箱)が ふたつ出現した！": "2 gold boxes have appeared!"
   },
   "697": {
-    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの竜箱)が 出現した！": "A climax box has appeared!|A dragon box has appeared!"
+    "clarity_nt_char_697": "clarity_nt_char_697"
   },
   "698": {
-    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A climax box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの天箱)が 出現した！": "A climax box has appeared!|A heavenly box has appeared!"
   },
   "699": {
-    "クリア報酬(うつしよの天箱)が 出現した！|クリア報酬(うつしよの竜箱)が 出現した！": "A heavenly box has appeared!|A dragon box has appeared!"
+    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの竜箱)が 出現した！": "A climax box has appeared!|A dragon box has appeared!"
   },
   "700": {
-    "クリア報酬(うつしよの天箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A heavenly box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの極箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A climax box has appeared!|A gold box has appeared!"
   },
   "701": {
-    "クリア報酬(うつしよの竜箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A dragon box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの天箱)が 出現した！|クリア報酬(うつしよの竜箱)が 出現した！": "A heavenly box has appeared!|A dragon box has appeared!"
   },
   "702": {
-    "クリア報酬(うつしよの天箱)が　出現した！": "A heavenly box has appeared!"
+    "クリア報酬(うつしよの天箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A heavenly box has appeared!|A gold box has appeared!"
   },
   "703": {
-    "クリア報酬(うつしよの天箱)が　ふたつ出現した！": "2 heavenly boxes have appeared!"
+    "クリア報酬(うつしよの竜箱)が 出現した！|クリア報酬(うつしよの金箱)が 出現した！": "A dragon box has appeared!|A gold box has appeared!"
   },
   "704": {
-    "clarity_nt_char_704": "clarity_nt_char_704"
+    "クリア報酬(うつしよの天箱)が　出現した！": "A heavenly box has appeared!"
   },
   "705": {
-    "クリア報酬(うつしよの竜箱)が　出現した！": "A dragon box has appeared!"
+    "クリア報酬(うつしよの天箱)が　ふたつ出現した！": "2 heavenly boxes have appeared!"
   },
   "706": {
-    "クリア報酬(うつしよの竜箱)が　ふたつ出現した！": "2 dragon boxes have appeared!"
+    "clarity_nt_char_706": "clarity_nt_char_706"
   },
   "707": {
-    "clarity_nt_char_707": "clarity_nt_char_707"
+    "クリア報酬(うつしよの竜箱)が　出現した！": "A dragon box has appeared!"
   },
   "708": {
-    "クリア報酬(うつしよの金箱)が　ふたつ出現した！": "2 gold boxes have appeared!"
+    "クリア報酬(うつしよの竜箱)が　ふたつ出現した！": "2 dragon boxes have appeared!"
   },
   "709": {
     "clarity_nt_char_709": "clarity_nt_char_709"
   },
   "710": {
-    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの天箱)が　出現した！": "A climax box has appeared!|A heavenly box has appeared!"
+    "クリア報酬(うつしよの金箱)が　ふたつ出現した！": "2 gold boxes have appeared!"
   },
   "711": {
-    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの竜箱)が　出現した！": "A climax box has appeared!|A dragon box has appeared!"
+    "clarity_nt_char_711": "clarity_nt_char_711"
   },
   "712": {
-    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A climax box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの天箱)が　出現した！": "A climax box has appeared!|A heavenly box has appeared!"
   },
   "713": {
-    "クリア報酬(うつしよの天箱)が　出現した！|クリア報酬(うつしよの竜箱)が　出現した！": "A heavenly box has appeared!|A dragon box has appeared!"
+    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの竜箱)が　出現した！": "A climax box has appeared!|A dragon box has appeared!"
   },
   "714": {
-    "クリア報酬(うつしよの天箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A heavenly box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの極箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A climax box has appeared!|A gold box has appeared!"
   },
   "715": {
-    "クリア報酬(うつしよの竜箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A dragon box has appeared!|A gold box has appeared!"
+    "クリア報酬(うつしよの天箱)が　出現した！|クリア報酬(うつしよの竜箱)が　出現した！": "A heavenly box has appeared!|A dragon box has appeared!"
   },
   "716": {
-    "このモンスターの足元に 置くことはできない！": "Can't put at the feet of this monster!"
+    "クリア報酬(うつしよの天箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A heavenly box has appeared!|A gold box has appeared!"
   },
   "717": {
-    "clarity_nt_char_717": "clarity_nt_char_717"
+    "クリア報酬(うつしよの竜箱)が　出現した！|クリア報酬(うつしよの金箱)が　出現した！": "A dragon box has appeared!|A gold box has appeared!"
   },
   "718": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's items are sealed!"
+    "このモンスターの足元に 置くことはできない！": "Can't put at the feet of this monster!"
   },
   "719": {
-    "どうぐが|ふうじこめられている！": "Items|are sealed!"
+    "clarity_nt_char_719": "clarity_nt_char_719"
   },
   "720": {
-    "clarity_nt_char_720": "clarity_nt_char_720"
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは どうぐが ふうじこめられている！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's items are sealed!"
   },
   "721": {
-    "ランキングの判定に 失敗しました。": "The ranking decision failed."
+    "どうぐが|ふうじこめられている！": "Items|are sealed!"
   },
   "722": {
+    "clarity_nt_char_722": "clarity_nt_char_722"
+  },
+  "723": {
+    "ランキングの判定に 失敗しました。": "The ranking decision failed."
+  },
+  "724": {
     "ランキングの判定に　失敗しました。": "The ranking decision failed."
   }
 }
