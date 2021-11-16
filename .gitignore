@@ -4,11 +4,14 @@ venv
 build
 dist
 game_file_dumps
-hyde_json_merge/dst/*
+hyde_json_merge/dst/
 hyde_json_merge/out/
 hyde_json_merge/src/
 dqxclarity.exe
 dqxclarity.spec
 dqxclarity.zip
-user_settings.ini
+*.log
+*.ini
 dqx_text_log.txt
+app/json
+new_adhoc_dumps
