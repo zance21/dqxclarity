@@ -306,10 +306,10 @@
         "「ごめんなさい。|　今は　紹介できる人が　いないのよ。|　また来てくれるかしら。|<bw_break>": ""
     },
     "103": {
-        "「<%sM_pc>を　仲間にするか？<break>": ""
+        "「<%sM_pc>を　仲間にするか？<break>": "Invite <%sM_pc> to your party?<break>"
     },
     "104": {
-        "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": ""
+        "「<%sM_pc>か。仲間にして　いいかい？<yesno><break>": "<%sM_pc>, hm? You want them in your|party?<yesno><break>"
     },
     "105": {
         "「<%sM_pc>さんね。|　お仲間にして　いいかしら？<break>": ""
@@ -558,7 +558,7 @@
         "「それじゃあ　<%sM_pc>さんを呼んでくるから|　ちょっと待っててね……。|<break>": ""
     },
     "187": {
-        "「登録をやめるのか？|<yesno><break>": ""
+        "「登録をやめるのか？|<yesno><break>": "Cancel registration?|<yesno><break>"
     },
     "188": {
         "clarity_nt_char_188": "clarity_nt_char_188"
@@ -567,7 +567,7 @@
         "「登録をやめても　いいかしら？|<yesno><break>": ""
     },
     "190": {
-        "「<%sM_pc>は　フレンドなんだな。|　だったら　無料で紹介できるから|　仲間にしたい時間を　選んでくれるかい？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": ""
+        "「<%sM_pc>は　フレンドなんだな。|　だったら　無料で紹介できるから|　仲間にしたい時間を　選んでくれるかい？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "Looks like <%sM_pc>'s your friend.|In that case, the hiring cost will be free.|How long do you want to hire them for?|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
     },
     "191": {
         "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": ""

@@ -4,65 +4,112 @@
 
 [Discord](https://discord.gg/M8cBZPUN7p)
 
-Translates the command menu and other misc. text into English for the popular game "Dragon Quest X".
+Toolkit for translating various elements of the popular game "Dragon Quest X".
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-**NOTE: I forfeit any responsibility if you receive a warning, a ban or a stern talking to while using this program. `dqxclarity` alters process memory, but only for the intent of allowing English-speaking players to read Japanese menus. No malicious activities are being performed with `dqxclarity`. The goal of this application is simply to translate the game's UI for non-Japanese speaking players to enjoy.**
+**NOTE: I forfeit any responsibility if you receive a warning, a ban or a stern talking to while using this program. `dqxclarity` alters process memory, but only for the intent of allowing English-speaking players to read the game in their language. No malicious activities are being performed with `dqxclarity`. The goal of this application is simply to translate the game for non-Japanese speaking players to enjoy.**
 
 In action:
 
 https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-9bc6-77595985eb10.mp4
 
+## What does this thing do?
+
+- Translates a majority of the the game UI elements into English (menus, skills/spells, items, etc.) If you see something not translated, our translators are probably working on it
+- Replaces NPC names with their Romaji counterpart
+- Replaces Monster names with their Romaji counterpart
+- Replaces Player names with their Romaji counterpart
+- **EXPERIMENTAL**: Uses machine translation to translate game text and writes it back to the in-game window (a work-in-progress to replace `ahkmon`). Enable with the `-c` flag. Read below to see how to turn this flag on.
+- Can log in-game dialog to a text file (also needs the `-c` flag enabled)
+
+## Requirements
+
+```diff
+- MAKE SURE YOU READ THIS FIRST OR YOU WILL HAVE A BAD TIME.
+```
+- [Python 3.9.7 32-bit](https://www.python.org/ftp/python/3.9.7/python-3.9.7.exe) (just click this link to download the exe directly from python's website)
+  - _How do I install Python?_ >> Click the link above. During the install, make sure you check "Add Python 3.9 to PATH" at the bottom. If you missed it, simply uninstall and re-install the executable to try again.
+  - _Why 32-bit?_ >> The Dragon Quest X client is exclusively in 32-bit and the program needs to match the game's bitness.
+  - _Why 3.9.7?_ >> I haven't made the switch to 3.9.10 yet.
+  - _Why do I need to install Python?_ >> Maintaining an executable for this program has become too cumbersome with what it's doing, so I'm opting to have you run it the same way I develop it for an easier and more reproducible experience.
+  - _But I don't know Python_ >> Zero expertise of Python is required. You simply need to know how to install a program and run a Powershell script.
+
+- Change Powershell's execution policy
+  - **Failure to do this will cause `dqxclarity` to open and then close**
+  - Microsoft protects you from malicious scripts by revoking your ability to run unsigned Powershell scripts. You're free to do what you want, but if you want to use this program, you will need to allow unrestricted access to this execution policy by doing the following:
+    - Search for "Powershell" on your computer. You can find this in the start menu
+    - Right-click "Powershell" and click "Run as Administrator"
+    - Type the following in the window: `Set-ExecutionPolicy Unrestricted`
+    - Accept the changes that you're going to be making
+    - Close Powershell as we don't need to run it as an administrator
+
+- Windows 10. A user has reported this working on Windows 11. **This does not work on Windows 7. If you're still using Windows 7, [GO UPGRADE](https://support.microsoft.com/en-us/windows/windows-7-support-ended-on-january-14-2020-b75d4580-2cc7-895a-2c9c-1466d9a53962#:~:text=Microsoft%20made%20a%20commitment%20to,released%20on%20October%2022%2C%202009.).**
+```diff
+- MAKE SURE YOU READ THIS FIRST OR YOU WILL HAVE A BAD TIME.
+```
+
 ## How to use
 
+- Read the requirements section above and make sure you've met all the requirements
 - Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section
-- Open a fresh instance of Dragon Quest X (preferably from the starting screen where you choose your adventure slot)
-- Run `dqxclarity.exe`
+- Open a fresh instance of Dragon Quest X. It's recommended to stay on the announcements screen when the game first launches.
+- Right-click `run_clarity.ps1` and click "Run with Powershell"
 - Minimize the window that opened as things will continue translating while you're playing
+
+## EXPERIMENTAL: Enabling in-game dialog translations
+
+```diff
+- This is in beta and actively being tested and iterated on. The game might crash, freeze up or just not translate an in-game dialog window. I don't need to hear that it's buggy, crashing or anything of the sort. It does work in its current state, but I'm not comfortable calling it "stable". You have been warned.
+```
+
+- Add the "c" flag to the list of flags at the top of the `run_clarity.ps1` file (see the section labeled "Advanced continued -- changing these flags" below for how to do this)
+- When you launch `dqxclarity`, you will receive an error to update your `user_settings.ini` file, which will contain your chosen translation service and associated key. This file exists inside of the `dqxclarity` folder. Fill it out and save
+- Relaunch `dqxclarity` to begin
+
+## Known bugs
+
+- Running with the `-c` flag is experimental. Crashes may be seen. I'm still iterating on the functionality that this enables. I don't care if you crash while this is enabled as I'm likely already aware of it.
+- Talking to the carriage NPCs may cause unknown results. If you talk to one and the game crashes, this is a known bug with the only workaround of not running `dqxclarity` if you want to use them.
 
 ### Advanced
 
-`dqxclarity` was written as a command-line tool, so there are a few advanced things it can do:
+`dqxclarity` was written as a command-line tool. There are several items you can toggle on and off using arguments:
 
 ```txt
-Usage: dqxclarity.exe [OPTIONS]
+Usage: main.py [OPTIONS]
 
 Options:
-  -w, --update-weblate     Grabs the latest files from the weblate branch and
-                           then translates.
-  -d, --dump-game-data     ADVANCED: Dumps all found game data and converts
-                           each file into nested json. Output can be found in
-                           the `game_file_dumps` directory. Useful when the
-                           game patches.
-  -m, --migrate-game-data  ADVANCED: Migrate existing json files into new
-                           dumped files. Make sure you dump the game files
-                           first with `--dump-game-data`. Output can be found
-                           in the `hyde_json_merge/out` directory. You are
-                           responsible for fixing the differences.
-  --help                   Show this message and exit.
+  -v, --debug                 Turns on additional logging to console.
+  -w, --update-weblate        Grabs the latest files from the weblate branch  
+                              and then translates.
+  -c, --communication-window  VERY EXPERIMENTAL: Translates the text in the dialog 
+                              window using a live translation service like DeepL or
+                              Google Translate. Requires a valid account with an API 
+                              key to use.
+  -p, --player-names          Scans for player names and changes them to their
+                              translated counterpart.
+  -n, --npc-names             Scans for NPC names and changes them to their   
+                              translated counterpart.
+  -u, --disable-update-check  Disables checking for updates on each launch.
+  -d, --dump-game-data        ADVANCED: Dumps all found game data and converts
+                              each file into nested json. Output found in
+                              `game_file_dumps` directory. Useful when the
+                              game patches.
+  -m, --migrate-game-data     ADVANCED: Migrates existing json files into new
+                              dumped files. Make sure you dump the game files
+                              first with `--dump-game-data`. Output can be
+                              found in the `hyde_json_merge/out` directory.
+                              You are responsible for reconciling differences.
+  --help                      Show this message and exit.
 ```
 
-Users wanting to get the latest files at any given moment will want to create a shortcut and pass the `-w` flag to the executable to update from the weblate branch. I'd suggest reading [this](https://www.digitalcitizen.life/shortcut-arguments-parameters-windows/) if you are unfamiliar with creating shortcuts in Windows.
+### Advanced continued -- changing these flags
 
-The other two flags are advanced features that are used to both generate and migrate json. You will likely never use these unless you're a savvy user and interested in contributing to the json inventory of files.
-
-## But I'm a savvy user and want to contibute new dump files!
-
-Sweet. In that case, here's how this works.
-
-`dqxclarity` performs a regular translation of all known static files that are loaded into memory on instance creation. On top of that, dynamic (adhoc) actions that happen inside the game (opening menus, talking to certain menu-driven NPCs, interacting with casino objects like roulette, slots, etc) will load additional game files that aren't in that initial static file list. `dqxclarity` will detect these "adhoc" changes in the game, but not automatically. You will need to trigger an event like one previously listed, then run `dqxclarity` with the `-d` or `--dump-game-data` flag to see if there is a change that hasn't been recognized. Make sure not to run `dqxclarity` prior to performing a dump as you won't have an accurate, Japanese dump (and may get errors).
-
-If a new file has been detected during the dump, you will see a message similar to the following:
-
-```
-Unknown file found: 1.json
-```
-
-These unknown files are placed in `game_file_dumps\unknown\en` and `game_file_dumps\unknown\ja` and additionally, an entry consisting of the beginning of that game file is found in `game_file_dumps\consider_master_dict.csv`. I will need all of these files to be able to add them to the master `hex_dict.csv` file that can be used for everyone to start being able to translate these files. There's a possibility that multiple new files were found - make sure you rename the json files and the entry in `consider_master_dict.csv` to an appropriate name for the file. You can send them to me in #translation-discussion or you can submit a PR and I'll grab them that way. If the program finds multiple new files, but they look identical, it just means that there were multiple references of that file in memory that were found. Ignore the duplicate and only focus on one of them.
+If you want to modify the behavior of `dqxclarity`, edit the `run_clarity.ps1` file and look at the very top line. You can add the single letters you see in the help documentation above into this parameter. Example: `$ClarityFlags = "-wcpnv"`
 
 ## How does this thing work
 
-In the `json\_lang\en` folder are several files with a structure of Japanese and English text. These files were dumped as hex from game memory, then converted from hex -> utf-8, then formatted into a nested JSON structure for parsing. The values are then converted back into hex and written back to the same place it was dumped from.
+In the `json\_lang\en` folder are several files with a structure of Japanese and English text. These files were hex dumped from game memory, then converted from hex -> utf-8, then formatted into a nested JSON structure for parsing. The values are then converted back into hex and written back to the same place it was dumped from in memory. Of course direct access to the game files would be preferential, but I lack the skills to reverse the encryption on the dats and haven't come across anyone that can unpack/repack these files.
 
 ## How to contribute to the translations
 
@@ -86,7 +133,7 @@ In-game, "フレンドや", "チームメンバーに", and "かきおきを書�
 
 Additionally, there are special tags that start with `clarity_` that should **never** be altered. If you're caught altering these, I may revoke your right to contribute. Leave them alone!
 
-If you would like to contribute, please jump on our Discord (link seen at the top) and let's talk in #translation-discussion.
+If you would like to contribute, please jump on our Discord (link seen at the top) and let's talk in #translation-coord.
 
 ## But what are those `clarity_` lines for?
 
@@ -98,13 +145,23 @@ When the loaded text is dumped from memory, some strings have additional null te
 
 ## Contributing to development
 
-Requirements for building:
-- make (`choco install make`)
-- Python 3.9.6 64-bit
+This project is structured as a bunch of `.py` files. There's nothing to build other than a cleaner release package with the bulk cut out. If you want to get started:
 
-Building:
 - Create a virtual environment for yourself inside the `dqxclarity` folder
   - `python3 -m venv venv`
 - Run `activate.ps1`
 - Install dependencies with `pip install -r requirements.txt`
-- Run `make build`
+- Tear it apart
+
+## FAQ
+
+- _I'm running run\_clarity.ps1 and it's instantly closing_ >> Check the `out.log` file for errors. Additionally, you can shift + right-click inside of the `dqxclarity` folder (in the empty white space of the folder), select "Open Powershell Window Here", type `.\run_clarity.ps1` and press enter. The program will run and you can see the error output in the console. If you aren't sure what to do from here, join the Discord and ask for help.
+- _How do I update dqxclarity?_ >> For now, you will need to download the latest updates from the [releases](https://github.com/jmctune/dqxclarity/releases) page. Make sure you're creating a **new** folder and aren't just copy/pasting over your old installation.
+- _I'm getting the error INVALID\_CALL\_1 in cutscenes/loading screens_ >> In the Powershell console, make sure you haven't clicked inside of the window. If you see "Select:" in the title bar of the program, the script is paused. This is a Powershell thing. Simply pressing enter after clicking inside of the Powershell console will resume the script. Though, if you got the error, you will need to relaunch the program anyways. Make sure Powershell doesn't say "Select:" in the title window.
+- _`dqxclarity` opens and closes immediately after I run it_ >> You didn't read the requirements at the top. Check the "Change Powershell's execution policy" section and do this.
+- _What's all this stuff `dqxclarity` is installing on my computer?_ >> These are dependencies that `dqxclarity` need to run. Nothing is actually installed on your computer, but files are downloaded and places in a contained `venv` folder within the `dqxclarity` directory. If you don't want to use `dqxclarity` anymore, simply delete the `dqxclarity` folder and it's gone.
+- _I'm running with the -c flag and `dqxclarity` pauses every time I talk to someone_ >> The `-c` flag is currently an expiremental feature that can still be considered buggy. This is still being iterated on with a group of testers. Don't expect stability if you intend on using this. When you talk to an NPC that needs to be translated, the game pauses for a brief period of time as it must reach out to perform the translation, get the translation back, write it to the game and finally release it back to you. Once the text has been translated once, it reads the text from a local database and the pause should be non-existant.
+- _I don't want "x" feature enabled_ >> Everything in `dqxclarity` can be toggled on or off using the various arguments seen in the Advanced section below (minus the actual UI translation, which is the whole purpose of this program). Check out the documentation there to see how to do this.
+- _I'm getting the error EXCEPTION\_ACCESS\_VIOLATION from DQX_ >> This is a minor error that can be solved by simply restarting the game and restarting `dqxclarity`. These unfortunately happen as this program is altering live game memory. If it's very consistent, drop by the Discord and post your situation.
+- _NPC/Player names take awhile for their name to change_ >> This is expected. There's a background process that is constantly scanning for these names and replacing them with their translated counterparts. Just keep the program running and `dqxclarity` will take care of the rest.
+- _Why isn't the login screen translated?_ >> The v6 patch changed the way this screen functions. It's now cached, so if you're on this screen when you run `dqxclarity`, you will need to navigate away from the screen and come back to it. Or, just run `dqxclarity` on the announcement screen when you first launch the screen like I told you to above.

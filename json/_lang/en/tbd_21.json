@@ -3,7 +3,7 @@
         "（なし）": "(None)"
     },
     "2": {
-        "clarity_nt_char_1": "clarity_nt_char_1"
+        "clarity_nt_char_2": "clarity_nt_char_2"
     },
     "3": {
         "（スタンプリスト選択）": "(Stamps List)"
@@ -12,55 +12,55 @@
         "全て表示": "Show All"
     },
     "5": {
-        "clarity_nt_char_2": "clarity_nt_char_2"
+        "clarity_nt_char_5": "clarity_nt_char_5"
     },
     "6": {
         "いいね！": "Nice!"
     },
     "7": {
-        "clarity_nt_char_3": "clarity_nt_char_3"
-    },
-    "8": {
-        "あばよ": ""
-    },
-    "9": {
-        "むきーっ！": ""
-    },
-    "10": {
-        "またせたな！": ""
-    },
-    "11": {
-        "clarity_nt_char_4": "clarity_nt_char_4"
-    },
-    "12": {
-        "ごきげんよう": ""
-    },
-    "13": {
-        "clarity_nt_char_5": "clarity_nt_char_5"
-    },
-    "14": {
-        "いらっしゃい": ""
-    },
-    "15": {
-        "clarity_nt_char_6": "clarity_nt_char_6"
-    },
-    "16": {
-        "ひとやすみじゃ": ""
-    },
-    "17": {
-        "おまちください": ""
-    },
-    "18": {
-        "！？": ""
-    },
-    "19": {
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
+    "8": {
+        "あばよ": "See ya."
+    },
+    "9": {
+        "むきーっ！": "Grrrr!"
+    },
+    "10": {
+        "またせたな！": "Kept ya waiting!"
+    },
+    "11": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "12": {
+        "ごきげんよう": "Greetings."
+    },
+    "13": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "14": {
+        "いらっしゃい": "Welcome!"
+    },
+    "15": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "16": {
+        "ひとやすみじゃ": "Take a break."
+    },
+    "17": {
+        "おまちください": "Please wait."
+    },
+    "18": {
+        "！？": "!?"
+    },
+    "19": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
     "20": {
-        "えへへっ": ""
+        "えへへっ": "Ehehe..."
     },
     "21": {
-        "clarity_nt_char_8": "clarity_nt_char_8"
+        "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "22": {
         "いただき！": ""
@@ -72,31 +72,31 @@
         "シャラーッップ": ""
     },
     "25": {
-        "おやすみ！": ""
+        "おやすみ！": "Goodnight!"
     },
     "26": {
         "御意": ""
     },
     "27": {
-        "clarity_nt_char_9": "clarity_nt_char_9"
+        "clarity_nt_char_27": "clarity_nt_char_27"
     },
     "28": {
         "がんばって！": "Good Luck!"
     },
     "29": {
-        "clarity_nt_char_10": "clarity_nt_char_10"
+        "clarity_nt_char_29": "clarity_nt_char_29"
     },
     "30": {
-        "ありがとうございます！": ""
+        "ありがとうございます！": "Thank you so much!"
     },
     "31": {
-        "・・・": ""
+        "・・・": "..."
     },
     "32": {
-        "わーーい": ""
+        "わーーい": "Yaaay!"
     },
     "33": {
-        "clarity_nt_char_11": "clarity_nt_char_11"
+        "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
         "ばくれちゅわ！": ""
@@ -105,22 +105,22 @@
         "ゆーえーにー": ""
     },
     "36": {
-        "clarity_nt_char_12": "clarity_nt_char_12"
+        "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "37": {
-        "いのちだいじに": "Focus Healing"
+        "いのちだいじに": "Focus healing!"
     },
     "38": {
-        "たのんだぞ": ""
+        "たのんだぞ": "Countin' on ya!"
     },
     "39": {
-        "あつまれ": ""
+        "あつまれ": "Nice job!"
     },
     "40": {
-        "clarity_nt_char_13": "clarity_nt_char_13"
+        "clarity_nt_char_40": "clarity_nt_char_40"
     },
     "41": {
-        "（ハート）": ""
+        "（ハート）": "(Heart)"
     },
     "42": {
         "ゆるしてくれよなっ": ""
@@ -132,19 +132,19 @@
         "FEEEVERR": ""
     },
     "45": {
-        "clarity_nt_char_14": "clarity_nt_char_14"
+        "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "46": {
         "（てんやわんや）": ""
     },
     "47": {
-        "clarity_nt_char_15": "clarity_nt_char_15"
+        "clarity_nt_char_47": "clarity_nt_char_47"
     },
     "48": {
-        "ジャンプ！": ""
+        "ジャンプ！": "JUMP!"
     },
     "49": {
-        "ねらわれてる…": ""
+        "ねらわれてる…": "Targeted…"
     },
     "50": {
         "しんでしまうとはなにごとだ": ""
@@ -153,103 +153,103 @@
         "内容": "Detail"
     },
     "52": {
-        "clarity_nt_char_16": "clarity_nt_char_16"
+        "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "53": {
         "人物": ""
     },
     "54": {
-        "clarity_nt_char_17": "clarity_nt_char_17"
+        "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "55": {
         "パック": "Pack"
     },
     "56": {
-        "いまだ！": ""
+        "いまだ！": "Now!"
     },
     "57": {
-        "clarity_nt_char_18": "clarity_nt_char_18"
+        "clarity_nt_char_57": "clarity_nt_char_57"
     },
     "58": {
-        "ガンガンいこうぜ！": ""
+        "ガンガンいこうぜ！": "Let's go all out!"
     },
     "59": {
-        "こんにちは": ""
+        "こんにちは": "Hello."
     },
     "60": {
-        "つよすぎ…": ""
+        "つよすぎ…": "Too strong…"
     },
     "61": {
         "おめでとう！": "Congratulations!"
     },
     "62": {
-        "clarity_nt_char_19": "clarity_nt_char_19"
+        "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "63": {
-        "またあとで": ""
+        "またあとで": "Later!"
     },
     "64": {
         "じーー…": ""
     },
     "65": {
-        "clarity_nt_char_20": "clarity_nt_char_20"
+        "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "66": {
         "なーいしょ！": ""
     },
     "67": {
-        "clarity_nt_char_21": "clarity_nt_char_21"
+        "clarity_nt_char_67": "clarity_nt_char_67"
     },
     "68": {
-        "おつかれさまでした": "Thanks for your hard work."
+        "おつかれさまでした": "Thanks for your hard work"
     },
     "69": {
         "なのだ。": ""
     },
     "70": {
-        "clarity_nt_char_22": "clarity_nt_char_22"
+        "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "71": {
-        "オッケー？": ""
+        "オッケー？": "Okay?"
     },
     "72": {
-        "よろしくおねがいします": ""
+        "よろしくおねがいします": "Nice to meet you!"
     },
     "73": {
         "その他": "Other"
     },
     "74": {
-        "全て": ""
+        "全て": "All"
     },
     "75": {
-        "clarity_nt_char_23": "clarity_nt_char_23"
+        "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "76": {
         "S1": ""
     },
     "77": {
-        "clarity_nt_char_24": "clarity_nt_char_24"
+        "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "78": {
         "S2": ""
     },
     "79": {
-        "clarity_nt_char_25": "clarity_nt_char_25"
+        "clarity_nt_char_79": "clarity_nt_char_79"
     },
     "80": {
-        "おはようございます": ""
+        "おはようございます": "Good morning."
     },
     "81": {
         "ひさしぶりね": ""
     },
     "82": {
-        "clarity_nt_char_26": "clarity_nt_char_26"
+        "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "83": {
-        "大丈夫よ": ""
+        "大丈夫よ": "It's okay!"
     },
     "84": {
-        "clarity_nt_char_27": "clarity_nt_char_27"
+        "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "85": {
         "ごきげんよう,ゴキゲンヨウ,ぽいっくりん,ポイックリン": ""
@@ -261,7 +261,7 @@
         "ひとやすみじゃ,ヒトヤスミジャ,やすみ,ヤスミ,休み,ほーろー,ホーロー": ""
     },
     "88": {
-        "clarity_nt_char_28": "clarity_nt_char_28"
+        "clarity_nt_char_88": "clarity_nt_char_88"
     },
     "89": {
         "おまちください,お待ちください,オマチクダサイ,しんい,シンイ": ""
@@ -270,7 +270,7 @@
         "！,！？,？,どぅら,ドゥラ": ""
     },
     "91": {
-        "clarity_nt_char_29": "clarity_nt_char_29"
+        "clarity_nt_char_91": "clarity_nt_char_91"
     },
     "92": {
         "えへへっ,エヘヘッ,せらふぃ,セラフィ": ""
@@ -282,7 +282,7 @@
         "おれにまかせろ,俺に任せろ,オレニマカセロ,マカセロ,あるヴぁん,アルヴァン": ""
     },
     "95": {
-        "clarity_nt_char_30": "clarity_nt_char_30"
+        "clarity_nt_char_95": "clarity_nt_char_95"
     },
     "96": {
         "シャラップ,しゃらっぷ,シャラーップ,しゃらーっぷ,ひすとりか,ヒストリカ": ""
@@ -297,7 +297,7 @@
         "がんばって,ガンバッテ,ふぁいと,ファイト,頑張って,まいゆ,マイユ": ""
     },
     "100": {
-        "clarity_nt_char_31": "clarity_nt_char_31"
+        "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "101": {
         "ありがとうございます,アリガトウゴザイマス,サンキュー,さんきゅー,らぐあす,ラグアス": ""
@@ -318,19 +318,19 @@
         "いのちだいじに,命大事に,イノチダイジニ,ほいみすらいむ,ホイミスライム": ""
     },
     "107": {
-        "clarity_nt_char_32": "clarity_nt_char_32"
+        "clarity_nt_char_107": "clarity_nt_char_107"
     },
     "108": {
         "たのんだぞ,タノンダゾ,頼んだぞ,るしぇんだ,ルシェンダ": ""
     },
     "109": {
-        "clarity_nt_char_33": "clarity_nt_char_33"
+        "clarity_nt_char_109": "clarity_nt_char_109"
     },
     "110": {
         "あつまれ,集まれ,アツマレ,集合,しゅうごう,シュウゴウ,なぶれっと,ナブレット": ""
     },
     "111": {
-        "clarity_nt_char_34": "clarity_nt_char_34"
+        "clarity_nt_char_111": "clarity_nt_char_111"
     },
     "112": {
         "はーと,ハート,ぷすごん,プスゴン": ""
@@ -342,7 +342,7 @@
         "逃げだした,ニゲダシタ,にげだした,逃げる,ニゲル,はぐれめたる,ハグレメタル,はぐれメタル": ""
     },
     "115": {
-        "clarity_nt_char_35": "clarity_nt_char_35"
+        "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "116": {
         "フィーバー,ふぃーばー,fever,FEVER,ぱいせん,パイセン": ""
@@ -357,13 +357,13 @@
         "ねらわれている,ネラワレテイル,狙われている,そーみゃ,ソーミャ": ""
     },
     "120": {
-        "clarity_nt_char_36": "clarity_nt_char_36"
+        "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "121": {
         "しんでしまうとは,死んでしまうとは,シンデシマウトハ": ""
     },
     "122": {
-        "clarity_nt_char_37": "clarity_nt_char_37"
+        "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "123": {
         "いまだ,イマダ,まゆうしゃ,マユウシャ": ""
@@ -372,7 +372,7 @@
         "がんがんいこうぜ,ガンガンイコウゼ,ぺりぽん,ペリポン": ""
     },
     "125": {
-        "こんにちは,コンニチワ,あんるしあ,アンルシア": ""
+        "こんにちは,コンニチハ,あんるしあ,アンルシア": ""
     },
     "126": {
         "つよすぎ,強すぎ,ツヨスギ,もうじゃのひとだま,モウジャノヒトダマ": ""
@@ -384,7 +384,7 @@
         "またあとで,マタアトデ,また後で,くおーど,クオード": ""
     },
     "129": {
-        "clarity_nt_char_38": "clarity_nt_char_38"
+        "clarity_nt_char_129": "clarity_nt_char_129"
     },
     "130": {
         "じー,ジー,きゅるる,キュルル": ""
@@ -393,13 +393,13 @@
         "なーいしょ,ナーイショ,ないしょ,内緒,ナイショ,あるうぇ,アルウェ": ""
     },
     "132": {
-        "clarity_nt_char_39": "clarity_nt_char_39"
+        "clarity_nt_char_132": "clarity_nt_char_132"
     },
     "133": {
         "おつかれさまでした,オツカレサマデシタ,お疲れさまでした,えすてら,エステラ": ""
     },
     "134": {
-        "clarity_nt_char_40": "clarity_nt_char_40"
+        "clarity_nt_char_134": "clarity_nt_char_134"
     },
     "135": {
         "なのだ,ナノダ,ずーぼー,ズーボー": ""
@@ -411,7 +411,7 @@
         "よろしくおねがいします,よろしくお願いします,ヨロシクオネガイシマス,めれあーで,メレアーデ": ""
     },
     "138": {
-        "clarity_nt_char_41": "clarity_nt_char_41"
+        "clarity_nt_char_138": "clarity_nt_char_138"
     },
     "139": {
         "おはようございます,オハヨウゴザイマス,ひめあ,ヒメア": ""
@@ -423,7 +423,7 @@
         "だいじょうぶよ,ダイジョウブヨ,大丈夫よ,るこりあ,ルコリア": ""
     },
     "142": {
-        "clarity_nt_char_42": "clarity_nt_char_42"
+        "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "143": {
         "いっしょにいこう！": ""
@@ -432,13 +432,13 @@
         "すまなかったな…": ""
     },
     "145": {
-        "clarity_nt_char_43": "clarity_nt_char_43"
+        "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "146": {
         "（ショック）": ""
     },
     "147": {
-        "clarity_nt_char_44": "clarity_nt_char_44"
+        "clarity_nt_char_147": "clarity_nt_char_147"
     },
     "148": {
         "よろしくたのむ": ""
@@ -450,7 +450,7 @@
         "（やれやれ）": ""
     },
     "151": {
-        "clarity_nt_char_45": "clarity_nt_char_45"
+        "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "152": {
         "オロロ～～～ン": ""
@@ -459,7 +459,7 @@
         "さっすが　おやびん！": ""
     },
     "154": {
-        "clarity_nt_char_46": "clarity_nt_char_46"
+        "clarity_nt_char_154": "clarity_nt_char_154"
     },
     "155": {
         "ヨゥヨゥ！": ""
@@ -477,13 +477,13 @@
         "スタンダード": "Standard"
     },
     "160": {
-        "clarity_nt_char_47": "clarity_nt_char_47"
+        "clarity_nt_char_160": "clarity_nt_char_160"
     },
     "161": {
         "ファラザード": "Farazard"
     },
     "162": {
-        "clarity_nt_char_48": "clarity_nt_char_48"
+        "clarity_nt_char_162": "clarity_nt_char_162"
     },
     "163": {
         "あいさつ系": ""
@@ -495,7 +495,7 @@
         "バトル系": ""
     },
     "166": {
-        "clarity_nt_char_49": "clarity_nt_char_49"
+        "clarity_nt_char_166": "clarity_nt_char_166"
     },
     "167": {
         "おふざけ系": ""
@@ -504,19 +504,19 @@
         "P1": ""
     },
     "169": {
-        "clarity_nt_char_50": "clarity_nt_char_50"
+        "clarity_nt_char_169": "clarity_nt_char_169"
     },
     "170": {
         "バルディスタ": "Valdista"
     },
     "171": {
-        "clarity_nt_char_51": "clarity_nt_char_51"
+        "clarity_nt_char_171": "clarity_nt_char_171"
     },
     "172": {
         "ゼクレス": "Zechres"
     },
     "173": {
-        "clarity_nt_char_52": "clarity_nt_char_52"
+        "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "174": {
         "冬休み": "Winter"
@@ -528,7 +528,7 @@
         "むきー,ムキー,怒る,オコル,おこる,だすとん,ダストン": ""
     },
     "177": {
-        "clarity_nt_char_53": "clarity_nt_char_53"
+        "clarity_nt_char_177": "clarity_nt_char_177"
     },
     "178": {
         "またせたな,待たせたな,マタセタナ,ざんくろーね,ザンクローネ": ""
@@ -537,13 +537,13 @@
         "P2": ""
     },
     "180": {
-        "clarity_nt_char_54": "clarity_nt_char_54"
+        "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "181": {
         "P3": ""
     },
     "182": {
-        "clarity_nt_char_55": "clarity_nt_char_55"
+        "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "183": {
         "五種族": "5 races"
@@ -552,7 +552,7 @@
         "人間": "Human"
     },
     "185": {
-        "clarity_nt_char_56": "clarity_nt_char_56"
+        "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "186": {
         "モンスター": "Monster"
@@ -561,7 +561,7 @@
         "S3": ""
     },
     "188": {
-        "clarity_nt_char_57": "clarity_nt_char_57"
+        "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "189": {
         "我らが掌中に！": ""
@@ -576,25 +576,25 @@
         "よ～う　相棒": ""
     },
     "193": {
-        "clarity_nt_char_58": "clarity_nt_char_58"
+        "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "194": {
         "申し訳ございません！": ""
     },
     "195": {
-        "clarity_nt_char_59": "clarity_nt_char_59"
+        "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "196": {
         "この回復薬を": ""
     },
     "197": {
-        "clarity_nt_char_60": "clarity_nt_char_60"
+        "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "198": {
         "本当にステキだわ": ""
     },
     "199": {
-        "clarity_nt_char_61": "clarity_nt_char_61"
+        "clarity_nt_char_199": "clarity_nt_char_199"
     },
     "200": {
         "誰にやられたんだァー！": ""
@@ -606,7 +606,7 @@
         "ウホウッホ！": ""
     },
     "203": {
-        "clarity_nt_char_62": "clarity_nt_char_62"
+        "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "204": {
         "出会った時": ""
@@ -615,7 +615,7 @@
         "別れる時": ""
     },
     "206": {
-        "clarity_nt_char_63": "clarity_nt_char_63"
+        "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "207": {
         "ポジティブ": ""
@@ -627,19 +627,19 @@
         "行動": ""
     },
     "210": {
-        "clarity_nt_char_64": "clarity_nt_char_64"
+        "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "211": {
         "感想": ""
     },
     "212": {
-        "clarity_nt_char_65": "clarity_nt_char_65"
+        "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "213": {
         "ヒューザ": "Huzer"
     },
     "214": {
-        "clarity_nt_char_66": "clarity_nt_char_66"
+        "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "215": {
         "マイユ": "Maille"
@@ -651,13 +651,13 @@
         "セラフィ": "Seraphi"
     },
     "218": {
-        "clarity_nt_char_67": "clarity_nt_char_67"
+        "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "219": {
         "スライム": "Slime"
     },
     "220": {
-        "clarity_nt_char_68": "clarity_nt_char_68"
+        "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "221": {
         "こんばんは": ""
@@ -666,7 +666,7 @@
         "キミって　すごいよ！": ""
     },
     "223": {
-        "clarity_nt_char_69": "clarity_nt_char_69"
+        "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "224": {
         "またあおう": ""
@@ -675,7 +675,7 @@
         "たのんだわよ～♪": ""
     },
     "226": {
-        "clarity_nt_char_70": "clarity_nt_char_70"
+        "clarity_nt_char_226": "clarity_nt_char_226"
     },
     "227": {
         "…しょうがないわね": ""
@@ -696,7 +696,7 @@
         "ちょっと　まってくれ！": ""
     },
     "233": {
-        "メリークリスマス！": ""
+        "メリークリスマス！": "Merry Christmas!"
     },
     "234": {
         "よいお年を": ""
@@ -711,13 +711,13 @@
         "ゆしゅか,ユシュカ,すまなかったな,スマナカッタナ,すまない": ""
     },
     "238": {
-        "clarity_nt_char_71": "clarity_nt_char_71"
+        "clarity_nt_char_238": "clarity_nt_char_238"
     },
     "239": {
         "ゆしゅか,ユシュカ,しょっく,ショック,がーん,だめーじ": ""
     },
     "240": {
-        "clarity_nt_char_72": "clarity_nt_char_72"
+        "clarity_nt_char_240": "clarity_nt_char_240"
     },
     "241": {
         "なじーん,ナジーン,よろしくたのむ,ヨロシクタノム": ""
@@ -726,7 +726,7 @@
         "なじーん,ナジーン,ぎょいに,ギョイニ,わかった,りょうかい": ""
     },
     "243": {
-        "clarity_nt_char_73": "clarity_nt_char_73"
+        "clarity_nt_char_243": "clarity_nt_char_243"
     },
     "244": {
         "なじーん,ナジーン,やれやれ,まったく": ""
@@ -735,13 +735,13 @@
         "ししかばぶ,シシカバブ,おろろ～～～ん,かなしい,ムシカキ,スブラキ": ""
     },
     "246": {
-        "clarity_nt_char_74": "clarity_nt_char_74"
+        "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "247": {
         "さてぃ,サティ,さっすが,おやびん！,さすが,ドラゴスライム": ""
     },
     "248": {
-        "clarity_nt_char_75": "clarity_nt_char_75"
+        "clarity_nt_char_248": "clarity_nt_char_248"
     },
     "249": {
         "ぼんじり,ボンジリ,ようよう！,よぅよぅ！,きりさきピエロ": ""
@@ -756,7 +756,7 @@
         "ヴぁれりあ,ヴァレリア,れいをいうぞ,ありがとう": ""
     },
     "253": {
-        "clarity_nt_char_76": "clarity_nt_char_76"
+        "clarity_nt_char_253": "clarity_nt_char_253"
     },
     "254": {
         "ヴぁれりあ,ヴァレリア,ことわる！,断る！": ""
@@ -765,19 +765,19 @@
         "べるとろ,ベルトロ,よ～う,あいぼう,よーう": ""
     },
     "256": {
-        "clarity_nt_char_77": "clarity_nt_char_77"
+        "clarity_nt_char_256": "clarity_nt_char_256"
     },
     "257": {
         "べるとろ,ベルトロ,もうしわけございません！,申し訳ございません,すいません": ""
     },
     "258": {
-        "clarity_nt_char_78": "clarity_nt_char_78"
+        "clarity_nt_char_258": "clarity_nt_char_258"
     },
     "259": {
         "やいる,ヤイル,このかいふくやくを,かいふくやく": ""
     },
     "260": {
-        "clarity_nt_char_79": "clarity_nt_char_79"
+        "clarity_nt_char_260": "clarity_nt_char_260"
     },
     "261": {
         "ぞぶりす,ゾブリス,ほんとうにすてきだわ,すてきだわ,素敵だわ": ""
@@ -786,7 +786,7 @@
         "ぎゃのん,ギャノン,だれにやられたんだぁー！,誰にやられたんだァー！": ""
     },
     "263": {
-        "clarity_nt_char_80": "clarity_nt_char_80"
+        "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "264": {
         "ぐれぼす,グレボス,今回だけはみのがしてやる,こんかいだけはみのがしてやる,みのがしてやる": ""
@@ -807,13 +807,13 @@
         "りんべりぃ,リンベリィ,たのんだわよ～♪,頼んだ": ""
     },
     "270": {
-        "clarity_nt_char_81": "clarity_nt_char_81"
+        "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "271": {
         "りんべりぃ,リンベリィ,しょうがないわね,…しょうがないわね": ""
     },
     "272": {
-        "clarity_nt_char_82": "clarity_nt_char_82"
+        "clarity_nt_char_272": "clarity_nt_char_272"
     },
     "273": {
         "りんべりぃ,リンベリィ,ムカツクぅ～ッ！！,むかつくぅーっ！！": ""
@@ -822,7 +822,7 @@
         "えるがどーら,エルガドーラ,焼き払っておしまい！,やきはらっておしまい！": ""
     },
     "275": {
-        "clarity_nt_char_83": "clarity_nt_char_83"
+        "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "276": {
         "おじゃろす,オジャロス,いざまいりましょうぞ,まいりましょうぞ": ""
@@ -840,7 +840,7 @@
         "きゅるる,キュルル,よいお年を,よいおとしを,おおみそか,大晦日": ""
     },
     "281": {
-        "clarity_nt_char_84": "clarity_nt_char_84"
+        "clarity_nt_char_281": "clarity_nt_char_281"
     },
     "282": {
         "ふくびきまん,フクビキマン,ふくびきマン,あけましておめでとう！,おしょうがつ,お正月": ""
@@ -849,7 +849,7 @@
         "よくぞ来た！": ""
     },
     "284": {
-        "clarity_nt_char_85": "clarity_nt_char_85"
+        "clarity_nt_char_284": "clarity_nt_char_284"
     },
     "285": {
         "我こそはすべてを滅ぼすもの": ""
@@ -858,7 +858,7 @@
         "死にゆく者こそ美しい": ""
     },
     "287": {
-        "clarity_nt_char_86": "clarity_nt_char_86"
+        "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "288": {
         "行こうぜっ！！": ""
@@ -867,7 +867,7 @@
         "ゆる～ん": ""
     },
     "290": {
-        "clarity_nt_char_87": "clarity_nt_char_87"
+        "clarity_nt_char_290": "clarity_nt_char_290"
     },
     "291": {
         "ヌフフ": ""
@@ -879,58 +879,58 @@
         "冒険スタンプ": "Adventure Stamp"
     },
     "294": {
-        "clarity_nt_char_88": "clarity_nt_char_88"
+        "clarity_nt_char_294": "clarity_nt_char_294"
     },
     "295": {
         "デモンマウンテン": "Demon Mountain"
     },
     "296": {
-        "clarity_nt_char_89": "clarity_nt_char_89"
+        "clarity_nt_char_296": "clarity_nt_char_296"
     },
     "297": {
         "ゴーラ": "Gora"
     },
     "298": {
-        "蒼天のソウラ": ""
+        "蒼天のソウラ": "Blue Sky Soura"
     },
     "299": {
-        "clarity_nt_char_90": "clarity_nt_char_90"
+        "clarity_nt_char_299": "clarity_nt_char_299"
     },
     "300": {
-        "地獄のミサワ": ""
+        "地獄のミサワ": "Misawa From Hell"
     },
     "301": {
-        "clarity_nt_char_91": "clarity_nt_char_91"
+        "clarity_nt_char_301": "clarity_nt_char_301"
     },
     "302": {
         "ぞーま,ゾーマ,よくぞきた！": ""
     },
     "303": {
-        "clarity_nt_char_92": "clarity_nt_char_92"
+        "clarity_nt_char_303": "clarity_nt_char_303"
     },
     "304": {
         "C2": ""
     },
     "305": {
-        "clarity_nt_char_93": "clarity_nt_char_93"
+        "clarity_nt_char_305": "clarity_nt_char_305"
     },
     "306": {
         "C1": ""
     },
     "307": {
-        "clarity_nt_char_94": "clarity_nt_char_94"
+        "clarity_nt_char_307": "clarity_nt_char_307"
     },
     "308": {
         "P4": ""
     },
     "309": {
-        "clarity_nt_char_95": "clarity_nt_char_95"
+        "clarity_nt_char_309": "clarity_nt_char_309"
     },
     "310": {
         "P5": ""
     },
     "311": {
-        "clarity_nt_char_96": "clarity_nt_char_96"
+        "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "312": {
         "EX1": ""
@@ -948,7 +948,7 @@
         "世界、救っちゃう～？": ""
     },
     "317": {
-        "clarity_nt_char_97": "clarity_nt_char_97"
+        "clarity_nt_char_317": "clarity_nt_char_317"
     },
     "318": {
         "ぼく、忙しいんだけどな": ""
@@ -960,13 +960,13 @@
         "よかろう": ""
     },
     "321": {
-        "clarity_nt_char_98": "clarity_nt_char_98"
+        "clarity_nt_char_321": "clarity_nt_char_321"
     },
     "322": {
         "じつにおもしろい": ""
     },
     "323": {
-        "clarity_nt_char_99": "clarity_nt_char_99"
+        "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "324": {
         "おやすみなさい": ""
@@ -978,7 +978,7 @@
         "あっぱれじゃよ！": ""
     },
     "327": {
-        "clarity_nt_char_100": "clarity_nt_char_100"
+        "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
         "がんばります！": ""
@@ -987,7 +987,7 @@
         "まいど　おおきに": ""
     },
     "330": {
-        "clarity_nt_char_101": "clarity_nt_char_101"
+        "clarity_nt_char_330": "clarity_nt_char_330"
     },
     "331": {
         "（ぺろり）": ""
@@ -999,7 +999,7 @@
         "それな！": ""
     },
     "334": {
-        "clarity_nt_char_102": "clarity_nt_char_102"
+        "clarity_nt_char_334": "clarity_nt_char_334"
     },
     "335": {
         "オレ様を　つれていけ！": ""
@@ -1014,7 +1014,7 @@
         "ありがとう！": "Thank You!"
     },
     "339": {
-        "clarity_nt_char_103": "clarity_nt_char_103"
+        "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "340": {
         "歓喜にふるえておるっ！": ""
@@ -1032,7 +1032,7 @@
         "ダメーーー！！！": ""
     },
     "345": {
-        "clarity_nt_char_104": "clarity_nt_char_104"
+        "clarity_nt_char_345": "clarity_nt_char_345"
     },
     "346": {
         "もう１回！": ""
@@ -1041,7 +1041,7 @@
         "よくやった！": ""
     },
     "348": {
-        "clarity_nt_char_105": "clarity_nt_char_105"
+        "clarity_nt_char_348": "clarity_nt_char_348"
     },
     "349": {
         "ぞーま,ゾーマ,しにゆくものこそうつくしい": ""
@@ -1053,7 +1053,7 @@
         "ゆるーる,ユルール,ゆる～ん": ""
     },
     "352": {
-        "clarity_nt_char_106": "clarity_nt_char_106"
+        "clarity_nt_char_352": "clarity_nt_char_352"
     },
     "353": {
         "とーら,トーラ,ぬふふ,ヌフフ": ""
@@ -1071,7 +1071,7 @@
         "せかい、すくっちゃう～？,ミサワ": ""
     },
     "358": {
-        "clarity_nt_char_107": "clarity_nt_char_107"
+        "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "359": {
         "ぼく、いそがしいんだけどな,ミサワ": ""
@@ -1086,7 +1086,7 @@
         "ませんきょう,マセンキョウ,じつにおもしろい": ""
     },
     "363": {
-        "clarity_nt_char_108": "clarity_nt_char_108"
+        "clarity_nt_char_363": "clarity_nt_char_363"
     },
     "364": {
         "ませんきょう,マセンキョウ,・・・,んん,ンン": ""
@@ -1095,7 +1095,7 @@
         "いるーしゃ,イルーシャ,おつかれさまでした,ももも,モモモ,オツカレサマデシタ,お疲れさまでした": ""
     },
     "366": {
-        "clarity_nt_char_109": "clarity_nt_char_109"
+        "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "367": {
         "いるーしゃ,イルーシャ,おやすみなさい": ""
@@ -1107,7 +1107,7 @@
         "ももりおん,モモリオン,あっぱれじゃよ！,あんとわねっと,アントワネット": ""
     },
     "370": {
-        "clarity_nt_char_110": "clarity_nt_char_110"
+        "clarity_nt_char_370": "clarity_nt_char_370"
     },
     "371": {
         "ももも,モモモ,がんばります！": ""
@@ -1122,13 +1122,13 @@
         "ぺぺろごーら,ペペロゴーラ,これしきたやすいわ！": ""
     },
     "375": {
-        "clarity_nt_char_111": "clarity_nt_char_111"
+        "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
         "ぺぺろごーら,ペペロゴーラ,それな！": ""
     },
     "377": {
-        "clarity_nt_char_112": "clarity_nt_char_112"
+        "clarity_nt_char_377": "clarity_nt_char_377"
     },
     "378": {
         "ぺぺろごーら,ペペロゴーラ,おれさまをつれていけ！": ""
@@ -1137,7 +1137,7 @@
         "いるーしゃ,イルーシャ,いいとおもう": ""
     },
     "380": {
-        "clarity_nt_char_113": "clarity_nt_char_113"
+        "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "381": {
         "いるーしゃ,イルーシャ,いっしょにがんばりましょう": ""
@@ -1146,13 +1146,13 @@
         "いるーしゃ,イルーシャ,ありがとう！": ""
     },
     "383": {
-        "clarity_nt_char_114": "clarity_nt_char_114"
+        "clarity_nt_char_383": "clarity_nt_char_383"
     },
     "384": {
         "までさごーら,マデサゴーラ,かんきにふるえておるっ！": ""
     },
     "385": {
-        "clarity_nt_char_115": "clarity_nt_char_115"
+        "clarity_nt_char_385": "clarity_nt_char_385"
     },
     "386": {
         "までさごーら,マデサゴーラ,みよ！": ""
@@ -1170,19 +1170,19 @@
         "つづける,ツヅケル,もう１かい！": ""
     },
     "391": {
-        "clarity_nt_char_116": "clarity_nt_char_116"
+        "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "392": {
         "ありおす,アリオス,よくやった！": ""
     },
     "393": {
-        "clarity_nt_char_117": "clarity_nt_char_117"
+        "clarity_nt_char_393": "clarity_nt_char_393"
     },
     "394": {
         "（スタンプ履歴選択）": "(Recent Stamps List)"
     },
     "395": {
-        "clarity_nt_char_118": "clarity_nt_char_118"
+        "clarity_nt_char_395": "clarity_nt_char_395"
     },
     "396": {
         "しゃらーっっぷ": ""
@@ -1212,7 +1212,7 @@
         "ぎょいに": ""
     },
     "405": {
-        "clarity_nt_char_119": "clarity_nt_char_119"
+        "clarity_nt_char_405": "clarity_nt_char_405"
     },
     "406": {
         "おろろ～～～ん": ""
@@ -1221,7 +1221,7 @@
         "サッスガ　オヤビン！": ""
     },
     "408": {
-        "clarity_nt_char_120": "clarity_nt_char_120"
+        "clarity_nt_char_408": "clarity_nt_char_408"
     },
     "409": {
         "ツイテイキヤスッ！": ""
@@ -1230,13 +1230,13 @@
         "われらがしょうちゅうに！": ""
     },
     "411": {
-        "clarity_nt_char_121": "clarity_nt_char_121"
+        "clarity_nt_char_411": "clarity_nt_char_411"
     },
     "412": {
         "れいをいうぞ": ""
     },
     "413": {
-        "clarity_nt_char_122": "clarity_nt_char_122"
+        "clarity_nt_char_413": "clarity_nt_char_413"
     },
     "414": {
         "ことわる！": ""
@@ -1245,13 +1245,13 @@
         "よ～う　あいぼう": ""
     },
     "416": {
-        "clarity_nt_char_123": "clarity_nt_char_123"
+        "clarity_nt_char_416": "clarity_nt_char_416"
     },
     "417": {
         "もうしわけございません！": ""
     },
     "418": {
-        "clarity_nt_char_124": "clarity_nt_char_124"
+        "clarity_nt_char_418": "clarity_nt_char_418"
     },
     "419": {
         "このかいふくやくを": ""
@@ -1260,13 +1260,13 @@
         "ほんとうにすてきだわ": ""
     },
     "421": {
-        "clarity_nt_char_125": "clarity_nt_char_125"
+        "clarity_nt_char_421": "clarity_nt_char_421"
     },
     "422": {
         "だれにやられたんだぁー！": ""
     },
     "423": {
-        "clarity_nt_char_126": "clarity_nt_char_126"
+        "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
         "こんかいだけは　みのがしてやる": ""
@@ -1275,13 +1275,13 @@
         "うほうっほ！": ""
     },
     "426": {
-        "clarity_nt_char_127": "clarity_nt_char_127"
+        "clarity_nt_char_426": "clarity_nt_char_426"
     },
     "427": {
         "きみって　すごいよ！": ""
     },
     "428": {
-        "clarity_nt_char_128": "clarity_nt_char_128"
+        "clarity_nt_char_428": "clarity_nt_char_428"
     },
     "429": {
         "むかつくぅ～っ！！": ""
@@ -1296,13 +1296,13 @@
         "よいおとしを": ""
     },
     "433": {
-        "clarity_nt_char_129": "clarity_nt_char_129"
+        "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "434": {
         "よくぞきた！": ""
     },
     "435": {
-        "clarity_nt_char_130": "clarity_nt_char_130"
+        "clarity_nt_char_435": "clarity_nt_char_435"
     },
     "436": {
         "われこそはすべてをほろぼすもの": ""
@@ -1323,7 +1323,7 @@
         "せかい、すくっちゃう～？": ""
     },
     "442": {
-        "clarity_nt_char_131": "clarity_nt_char_131"
+        "clarity_nt_char_442": "clarity_nt_char_442"
     },
     "443": {
         "ぼく、いそがしいんだけどな": ""
@@ -1335,13 +1335,13 @@
         "おれさまを　つれていけ！": ""
     },
     "446": {
-        "clarity_nt_char_132": "clarity_nt_char_132"
+        "clarity_nt_char_446": "clarity_nt_char_446"
     },
     "447": {
         "いいとおもう": ""
     },
     "448": {
-        "clarity_nt_char_133": "clarity_nt_char_133"
+        "clarity_nt_char_448": "clarity_nt_char_448"
     },
     "449": {
         "いっしょにがんばりましょう": ""
@@ -1350,7 +1350,7 @@
         "かんきにふるえておるっ！": ""
     },
     "451": {
-        "clarity_nt_char_134": "clarity_nt_char_134"
+        "clarity_nt_char_451": "clarity_nt_char_451"
     },
     "452": {
         "みよ！": ""
@@ -1362,468 +1362,981 @@
         "だめーーー！！！": ""
     },
     "455": {
-        "clarity_nt_char_135": "clarity_nt_char_135"
+        "clarity_nt_char_455": "clarity_nt_char_455"
     },
     "456": {
         "もう１かい！": ""
     },
     "457": {
-        "clarity_nt_char_136": "clarity_nt_char_136"
+        "clarity_nt_char_457": "clarity_nt_char_457"
     },
     "458": {
         "ウェルカムギフト": "Welcome Gift"
     },
     "459": {
-        "clarity_nt_char_137": "clarity_nt_char_137"
+        "clarity_nt_char_459": "clarity_nt_char_459"
     },
     "460": {
-        "トラシュカ": "Trashka"
+        "ウェルカムギフト２": "Welcome Gift 2"
     },
     "461": {
-        "ハッピーくじ": ""
+        "トラシュカ": "Trashka"
     },
     "462": {
-        "clarity_nt_char_138": "clarity_nt_char_138"
+        "ハッピーくじ": ""
     },
     "463": {
-        "Ｖロン": "Vron"
+        "clarity_nt_char_463": "clarity_nt_char_463"
     },
     "464": {
-        "ゆうたの": ""
+        "Ｖロン": "Vron"
     },
     "465": {
-        "clarity_nt_char_139": "clarity_nt_char_139"
+        "ゆうたの": ""
     },
     "466": {
-        "大魔王城": "Dmn Kng Cstl"
+        "clarity_nt_char_466": "clarity_nt_char_466"
     },
     "467": {
-        "clarity_nt_char_140": "clarity_nt_char_140"
+        "大魔王城": "Dmn Kng Cstl"
     },
     "468": {
-        "スライムレース": "Slime Races"
+        "clarity_nt_char_468": "clarity_nt_char_468"
     },
     "469": {
-        "C7": ""
+        "スライムレース": "Slime Races"
     },
     "470": {
-        "clarity_nt_char_141": "clarity_nt_char_141"
+        "C7": ""
     },
     "471": {
-        "C3": ""
+        "clarity_nt_char_471": "clarity_nt_char_471"
     },
     "472": {
-        "clarity_nt_char_142": "clarity_nt_char_142"
+        "C8": ""
     },
     "473": {
-        "C4": ""
+        "clarity_nt_char_473": "clarity_nt_char_473"
     },
     "474": {
-        "clarity_nt_char_143": "clarity_nt_char_143"
+        "C3": ""
     },
     "475": {
-        "EX4": ""
+        "clarity_nt_char_475": "clarity_nt_char_475"
     },
     "476": {
-        "EX3": ""
+        "C4": ""
     },
     "477": {
-        "P6": ""
+        "clarity_nt_char_477": "clarity_nt_char_477"
     },
     "478": {
-        "clarity_nt_char_144": "clarity_nt_char_144"
+        "EX4": ""
     },
     "479": {
-        "C5": ""
+        "EX3": ""
     },
     "480": {
-        "clarity_nt_char_145": "clarity_nt_char_145"
+        "P6": ""
     },
     "481": {
-        "いやったああああ！": ""
+        "clarity_nt_char_481": "clarity_nt_char_481"
     },
     "482": {
-        "当たったで": ""
+        "C5": ""
     },
     "483": {
-        "（キラーン！）": ""
+        "clarity_nt_char_483": "clarity_nt_char_483"
     },
     "484": {
-        "ありがとな": ""
+        "いやったああああ！": ""
     },
     "485": {
-        "よくやった": ""
+        "当たったで": ""
     },
     "486": {
-        "これからもよろしく": ""
+        "（キラーン！）": ""
     },
     "487": {
-        "よろしく！": ""
+        "ありがとな": ""
     },
     "488": {
-        "グッ！": ""
+        "よくやった": ""
     },
     "489": {
-        "嵐がくるぞーッ！": ""
+        "これからもよろしく": ""
     },
     "490": {
-        "clarity_nt_char_146": "clarity_nt_char_146"
+        "よろしく！": ""
     },
     "491": {
-        "優勝！": ""
+        "グッ！": ""
     },
     "492": {
-        "あたったで": ""
+        "嵐がくるぞーッ！": ""
     },
     "493": {
-        "（きらーん！）": ""
+        "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "494": {
-        "ぐっ！": ""
+        "優勝！": ""
     },
     "495": {
-        "あらしがくるぞーっ！": ""
+        "あたったで": ""
     },
     "496": {
-        "clarity_nt_char_147": "clarity_nt_char_147"
+        "（きらーん！）": ""
     },
     "497": {
-        "ぱるみお,パルミオ,いやったああああ！,やったー！": ""
+        "ぐっ！": ""
     },
     "498": {
-        "じぇにゃ,ジェニャ,あたったで": ""
+        "あらしがくるぞーっ！": ""
     },
     "499": {
-        "るなな,ルナナ,きらーん！,キラーン！": ""
+        "clarity_nt_char_499": "clarity_nt_char_499"
     },
     "500": {
-        "ゆしゅか,ユシュカ,ありがとな": ""
+        "ぱるみお,パルミオ,いやったああああ！,やったー！": ""
     },
     "501": {
-        "ヴァレリア,ヴぁれりあ,よくやった": ""
+        "じぇにゃ,ジェニャ,あたったで": ""
     },
     "502": {
-        "あすばる,アスバル,これからもよろしく": ""
+        "るなな,ルナナ,きらーん！,キラーン！": ""
     },
     "503": {
-        "ばるばとす,バルバトス,よろしく！": ""
+        "ゆしゅか,ユシュカ,ありがとな": ""
     },
     "504": {
-        "ばるばとす,バルバトス,ぐっ！,グッ！": ""
+        "ヴァレリア,ヴぁれりあ,よくやった": ""
     },
     "505": {
-        "ばるばとす,バルバトス,嵐が来るぞーッ！,あらしがくるぞーっ！": ""
+        "あすばる,アスバル,これからもよろしく": ""
     },
     "506": {
-        "スライムタワー,すらいむたわー,優勝！,ゆうしょう！": ""
+        "ばるばとす,バルバトス,よろしく！": ""
     },
     "507": {
-        "clarity_nt_char_148": "clarity_nt_char_148"
+        "ばるばとす,バルバトス,ぐっ！,グッ！": ""
     },
     "508": {
-        "ズコー！": ""
+        "ばるばとす,バルバトス,嵐が来るぞーッ！,あらしがくるぞーっ！": ""
     },
     "509": {
-        "clarity_nt_char_149": "clarity_nt_char_149"
+        "スライムタワー,すらいむたわー,優勝！,ゆうしょう！": ""
     },
     "510": {
-        "う～ん　残念": ""
+        "clarity_nt_char_510": "clarity_nt_char_510"
     },
     "511": {
-        "clarity_nt_char_150": "clarity_nt_char_150"
+        "ズコー！": ""
     },
     "512": {
-        "やぁ": ""
+        "clarity_nt_char_512": "clarity_nt_char_512"
     },
     "513": {
-        "clarity_nt_char_151": "clarity_nt_char_151"
+        "う～ん　残念": ""
     },
     "514": {
-        "何も思い出せない…": ""
+        "clarity_nt_char_514": "clarity_nt_char_514"
     },
     "515": {
-        "おつかれさん": ""
+        "やぁ": ""
     },
     "516": {
-        "clarity_nt_char_152": "clarity_nt_char_152"
+        "clarity_nt_char_516": "clarity_nt_char_516"
     },
     "517": {
-        "あわわ…": ""
+        "何も思い出せない…": ""
     },
     "518": {
-        "clarity_nt_char_153": "clarity_nt_char_153"
+        "おつかれさん": ""
     },
     "519": {
-        "耳が遠くて　いけませんなあ": ""
+        "clarity_nt_char_519": "clarity_nt_char_519"
     },
     "520": {
-        "なんと　おやさしいお言葉！": ""
+        "あわわ…": ""
     },
     "521": {
-        "いい返事じゃ": ""
+        "clarity_nt_char_521": "clarity_nt_char_521"
     },
     "522": {
-        "clarity_nt_char_154": "clarity_nt_char_154"
+        "耳が遠くて　いけませんなあ": ""
     },
     "523": {
-        "ありがとう…": ""
+        "なんと　おやさしいお言葉！": ""
     },
     "524": {
-        "clarity_nt_char_155": "clarity_nt_char_155"
+        "いい返事じゃ": ""
     },
     "525": {
-        "は～い": ""
+        "clarity_nt_char_525": "clarity_nt_char_525"
     },
     "526": {
-        "ひきかえせ！": ""
+        "ありがとう…": ""
     },
     "527": {
-        "clarity_nt_char_156": "clarity_nt_char_156"
+        "clarity_nt_char_527": "clarity_nt_char_527"
     },
     "528": {
-        "ジャンプ！！": ""
+        "は～い": ""
     },
     "529": {
-        "clarity_nt_char_157": "clarity_nt_char_157"
+        "ひきかえせ！": ""
     },
     "530": {
-        "VICTORY!!": ""
+        "clarity_nt_char_530": "clarity_nt_char_530"
     },
     "531": {
-        "読み込み中…": ""
+        "ジャンプ！！": ""
     },
     "532": {
-        "clarity_nt_char_158": "clarity_nt_char_158"
+        "clarity_nt_char_532": "clarity_nt_char_532"
     },
     "533": {
-        "ゆうべはお楽しみでしたね！": ""
+        "VICTORY!!": "VICTORY!!"
     },
     "534": {
-        "かわいいいい": ""
+        "読み込み中…": ""
     },
     "535": {
-        "clarity_nt_char_159": "clarity_nt_char_159"
+        "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "536": {
-        "イエイイエイ♪": ""
+        "ゆうべはお楽しみでしたね！": ""
     },
     "537": {
-        "準備万端です。": ""
+        "かわいいいい": ""
     },
     "538": {
-        "みんな行くぞ！": ""
+        "clarity_nt_char_538": "clarity_nt_char_538"
     },
     "539": {
-        "ムクリポ": ""
+        "イエイイエイ♪": ""
     },
     "540": {
-        "clarity_nt_char_160": "clarity_nt_char_160"
+        "準備万端です。": ""
     },
     "541": {
-        "ユウショウ！": ""
+        "みんな行くぞ！": ""
     },
     "542": {
-        "clarity_nt_char_161": "clarity_nt_char_161"
+        "ムクリポ": ""
     },
     "543": {
-        "ずこー！": ""
+        "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "clarity_nt_char_162": "clarity_nt_char_162"
+        "ユウショウ！": ""
     },
     "545": {
-        "う～ん　ざんねん": ""
+        "clarity_nt_char_545": "clarity_nt_char_545"
     },
     "546": {
-        "clarity_nt_char_163": "clarity_nt_char_163"
+        "ずこー！": ""
     },
     "547": {
-        "なにもおもいだせない…": ""
+        "clarity_nt_char_547": "clarity_nt_char_547"
     },
     "548": {
-        "みみがとおくて　いけませんなあ": ""
+        "う～ん　ざんねん": ""
     },
     "549": {
-        "なんと　おやさしいおことば！": ""
+        "clarity_nt_char_549": "clarity_nt_char_549"
     },
     "550": {
-        "clarity_nt_char_164": "clarity_nt_char_164"
+        "なにもおもいだせない…": ""
     },
     "551": {
-        "いいへんじじゃ": ""
+        "みみがとおくて　いけませんなあ": ""
     },
     "552": {
-        "アリガトウ…": ""
+        "なんと　おやさしいおことば！": ""
     },
     "553": {
-        "clarity_nt_char_165": "clarity_nt_char_165"
+        "clarity_nt_char_553": "clarity_nt_char_553"
     },
     "554": {
-        "じゃんぷ！！": ""
+        "いいへんじじゃ": ""
     },
     "555": {
-        "clarity_nt_char_166": "clarity_nt_char_166"
+        "アリガトウ…": ""
     },
     "556": {
-        "よみこみ中…": ""
+        "clarity_nt_char_556": "clarity_nt_char_556"
     },
     "557": {
-        "clarity_nt_char_167": "clarity_nt_char_167"
+        "じゃんぷ！！": ""
     },
     "558": {
-        "ゆうべはおたのしみでしたね！": ""
+        "clarity_nt_char_558": "clarity_nt_char_558"
     },
     "559": {
-        "clarity_nt_char_168": "clarity_nt_char_168"
+        "よみこみちゅう…": ""
     },
     "560": {
-        "いえいいえい♪": ""
+        "clarity_nt_char_560": "clarity_nt_char_560"
     },
     "561": {
-        "じゅんびばんたんです。": ""
+        "ゆうべはおたのしみでしたね！": ""
     },
     "562": {
-        "みんないくぞ！": ""
+        "clarity_nt_char_562": "clarity_nt_char_562"
     },
     "563": {
-        "むくりぽ": ""
+        "いえいいえい♪": ""
     },
     "564": {
-        "clarity_nt_char_169": "clarity_nt_char_169"
+        "じゅんびばんたんです。": ""
     },
     "565": {
-        "すらいむないと,スライムナイト,ずこー！,ズコー！,ばなな,バナナ": ""
+        "みんないくぞ！": ""
     },
     "566": {
-        "たーた,タータ,うーん残念,うーんざんねん,ざんねん,う～んざんねん,残念": ""
+        "むくりぽ": ""
     },
     "567": {
-        "ならじあ,ナラジア,やぁ": ""
+        "clarity_nt_char_567": "clarity_nt_char_567"
     },
     "568": {
-        "clarity_nt_char_170": "clarity_nt_char_170"
+        "すらいむないと,スライムナイト,ずこー！,ズコー！,ばなな,バナナ": ""
     },
     "569": {
-        "ならじあ,ナラジア,何も思い出せない…,なにもおもいだせない…": ""
+        "たーた,タータ,うーん残念,うーんざんねん,ざんねん,う～んざんねん,残念": ""
     },
     "570": {
-        "極天女帝,きょくてんじょてい,おつかれさん": ""
+        "ならじあ,ナラジア,やぁ": ""
     },
     "571": {
-        "極天女帝,きょくてんじょてい,あわわ…": ""
+        "clarity_nt_char_571": "clarity_nt_char_571"
     },
     "572": {
-        "かーろう,カーロウ,耳が遠くていけませんなあ,みみがとおくていけませんなあ": ""
+        "ならじあ,ナラジア,何も思い出せない…,なにもおもいだせない…": ""
     },
     "573": {
-        "かーろう,カーロウ,なんとおやさしいお言葉！,なんとおやさしいおことば！": ""
+        "極天女帝,きょくてんじょてい,おつかれさん": ""
     },
     "574": {
-        "clarity_nt_char_171": "clarity_nt_char_171"
+        "極天女帝,きょくてんじょてい,あわわ…": ""
     },
     "575": {
-        "どくたー・むー,ドクター・ムー,いい返事じゃ,いいへんじじゃ": ""
+        "かーろう,カーロウ,耳が遠くていけませんなあ,みみがとおくていけませんなあ": ""
     },
     "576": {
-        "clarity_nt_char_172": "clarity_nt_char_172"
+        "かーろう,カーロウ,なんとおやさしいお言葉！,なんとおやさしいおことば！": ""
     },
     "577": {
-        "めがみるてぃあな,女神ルティアナ,ありがとう…": ""
+        "clarity_nt_char_577": "clarity_nt_char_577"
     },
     "578": {
-        "てぃりあ,ティリア,は～い,はーい,はい": ""
+        "どくたー・むー,ドクター・ムー,いい返事じゃ,いいへんじじゃ": ""
     },
     "579": {
-        "clarity_nt_char_173": "clarity_nt_char_173"
+        "clarity_nt_char_579": "clarity_nt_char_579"
     },
     "580": {
-        "仮面,かめん,ひきかえせ！": ""
+        "めがみるてぃあな,女神ルティアナ,ありがとう…": ""
     },
     "581": {
-        "Ｖロン,Ｖろん,ぶいろん,ブイロン,じゃんぷ！！,ジャンプ！！,v,V": ""
+        "てぃりあ,ティリア,は～い,はーい,はい": ""
     },
     "582": {
-        "Ｖロン,Ｖろん,ぶいろん,ブイロン,VICTORY!!,びくとりー,ビクトリー,v": ""
+        "clarity_nt_char_582": "clarity_nt_char_582"
     },
     "583": {
-        "Ｖロン,Ｖろん,ぶいろん,ブイロン,読み込み中…,よみこみちゅう…,v,V": ""
+        "仮面,かめん,ひきかえせ！": ""
     },
     "584": {
-        "ぱうだー,パウダー,ごろー,ゴロー,ゆうべはお楽しみでしたね！,ゆうべはおたのしみでしたね！,ゆうたの": ""
+        "Ｖロン,Ｖろん,ぶいろん,ブイロン,じゃんぷ！！,ジャンプ！！,v,V": ""
     },
     "585": {
-        "ぱうだー,パウダー,かわいいいい,ゆうたの,可愛い": ""
+        "Ｖロン,Ｖろん,ぶいろん,ブイロン,VICTORY!!,びくとりー,ビクトリー,v": ""
     },
     "586": {
-        "ぱうだー,パウダー,ちゃぶだい,イエイイエイ,いえいいえい,ゆうたの,チャブダイ": ""
+        "Ｖロン,Ｖろん,ぶいろん,ブイロン,読み込み中…,よみこみちゅう…,v,V": ""
     },
     "587": {
-        "clarity_nt_char_174": "clarity_nt_char_174"
+        "ぱうだー,パウダー,ごろー,ゴロー,ゆうべはお楽しみでしたね！,ゆうべはおたのしみでしたね！,ゆうたの": ""
     },
     "588": {
-        "ごろー,ゴロー,準備万端です。,じゅんびばんたんです。,ゆうたの": ""
+        "ぱうだー,パウダー,かわいいいい,ゆうたの,可愛い": ""
     },
     "589": {
-        "clarity_nt_char_175": "clarity_nt_char_175"
+        "ぱうだー,パウダー,ちゃぶだい,イエイイエイ,いえいいえい,ゆうたの,チャブダイ": ""
     },
     "590": {
-        "ごろー,ゴロー,みんな行くぞ！！,みんないくぞ！！,ゆうたの": ""
+        "clarity_nt_char_590": "clarity_nt_char_590"
     },
     "591": {
-        "clarity_nt_char_176": "clarity_nt_char_176"
+        "ごろー,ゴロー,準備万端です。,じゅんびばんたんです。,ゆうたの": ""
     },
     "592": {
-        "たくみ,むくりぽ,ムクリポ,ゆうたの": ""
+        "clarity_nt_char_592": "clarity_nt_char_592"
     },
     "593": {
-        "clarity_nt_char_177": "clarity_nt_char_177"
+        "ごろー,ゴロー,みんな行くぞ！！,みんないくぞ！！,ゆうたの": ""
     },
     "594": {
-        "おおものゲット！": ""
+        "clarity_nt_char_594": "clarity_nt_char_594"
     },
     "595": {
-        "clarity_nt_char_178": "clarity_nt_char_178"
+        "たくみ,むくりぽ,ムクリポ,ゆうたの": ""
     },
     "596": {
-        "おめでタイ！": ""
+        "clarity_nt_char_596": "clarity_nt_char_596"
     },
     "597": {
-        "clarity_nt_char_179": "clarity_nt_char_179"
+        "おおものゲット！": ""
     },
     "598": {
-        "ウェルカム": ""
+        "clarity_nt_char_598": "clarity_nt_char_598"
     },
     "599": {
-        "オオモノゲット！": ""
+        "おめでタイ！": ""
     },
     "600": {
-        "clarity_nt_char_180": "clarity_nt_char_180"
+        "clarity_nt_char_600": "clarity_nt_char_600"
     },
     "601": {
-        "おめでたい！": ""
+        "ウェルカム": ""
     },
     "602": {
-        "clarity_nt_char_181": "clarity_nt_char_181"
+        "オオモノゲット！": ""
     },
     "603": {
-        "うぇるかむ": ""
+        "clarity_nt_char_603": "clarity_nt_char_603"
     },
     "604": {
-        "おおものゲット！,おおものげっと！": ""
+        "おめでたい！": ""
     },
     "605": {
-        "おめでタイ！,おめでたい！": ""
+        "clarity_nt_char_605": "clarity_nt_char_605"
     },
     "606": {
-        "ウェルカム,うぇるかむ": ""
+        "うぇるかむ": ""
     },
     "607": {
-        "釣りコン": "Fish Contest"
+        "おおものゲット！,おおものげっと！": ""
     },
     "608": {
-        "clarity_nt_char_182": "clarity_nt_char_182"
+        "おめでタイ！,おめでたい！": ""
     },
     "609": {
+        "ウェルカム,うぇるかむ": ""
+    },
+    "610": {
+        "釣りコン": "Fish Contest"
+    },
+    "611": {
+        "clarity_nt_char_611": "clarity_nt_char_611"
+    },
+    "612": {
         "C6": ""
+    },
+    "613": {
+        "clarity_nt_char_613": "clarity_nt_char_613"
+    },
+    "614": {
+        "ウズウズ": ""
+    },
+    "615": {
+        "clarity_nt_char_615": "clarity_nt_char_615"
+    },
+    "616": {
+        "逃がさないっ！": ""
+    },
+    "617": {
+        "HELP!!": ""
+    },
+    "618": {
+        "clarity_nt_char_618": "clarity_nt_char_618"
+    },
+    "619": {
+        "とっ…友達になってくれない": ""
+    },
+    "620": {
+        "ちょっと　ウェイト！": ""
+    },
+    "621": {
+        "clarity_nt_char_621": "clarity_nt_char_621"
+    },
+    "622": {
+        "勇者として目覚めました": ""
+    },
+    "623": {
+        "うずうず": ""
+    },
+    "624": {
+        "clarity_nt_char_624": "clarity_nt_char_624"
+    },
+    "625": {
+        "にがさないっ！": ""
+    },
+    "626": {
+        "ちょっと　うぇいと！": ""
+    },
+    "627": {
+        "clarity_nt_char_627": "clarity_nt_char_627"
+    },
+    "628": {
+        "ゆうしゃとして目覚めました": ""
+    },
+    "629": {
+        "うずうず,ウズウズ,うづき,ウヅキ,らんにゃー,ランニャー": ""
+    },
+    "630": {
+        "逃がさないっ！,にがさないっ！,うづき,ウヅキ": ""
+    },
+    "631": {
+        "help!!,HELP!!,へるぷ！,ヘルプ！,らんにゃー,ランニャー": ""
+    },
+    "632": {
+        "とっ…ともだちになってくれないか,ひすとりか,ヒストリカ,とっ…友達になってくれないか": ""
+    },
+    "633": {
+        "ちょっとうぇいと！,ちょっとウェイト！,ひすとりか,ヒストリカ,まって": ""
+    },
+    "634": {
+        "勇者として目覚めました,ゆうしゃとしてめざめました,あんるしあ,アンルシア,おはよう": ""
+    },
+    "635": {
+        "clarity_nt_char_635": "clarity_nt_char_635"
+    },
+    "636": {
+        "ボン！": ""
+    },
+    "637": {
+        "なんて　かわいらしいの…！": ""
+    },
+    "638": {
+        "おかえりなさい": ""
+    },
+    "639": {
+        "ぼん！": ""
+    },
+    "640": {
+        "ぼん！,ボン！,えすてら,エステラ,はずかしい": ""
+    },
+    "641": {
+        "なんてかわいらしいの…！,めれあーで,メレアーデ,かわいい": ""
+    },
+    "642": {
+        "おかえりなさい,いるーしゃ,イルーシャ": ""
+    },
+    "643": {
+        "真夜中プリズラン": "Midnight Prislan"
+    },
+    "644": {
+        "clarity_nt_char_644": "clarity_nt_char_644"
+    },
+    "645": {
+        "バトエン": "Batoen"
+    },
+    "646": {
+        "clarity_nt_char_646": "clarity_nt_char_646"
+    },
+    "647": {
+        "C9": ""
+    },
+    "648": {
+        "clarity_nt_char_648": "clarity_nt_char_648"
+    },
+    "649": {
+        "C13": ""
+    },
+    "650": {
+        "素質を感じるぞ": ""
+    },
+    "651": {
+        "チェンジ！": ""
+    },
+    "652": {
+        "ヘヘっ": ""
+    },
+    "653": {
+        "感動したぞ！": ""
+    },
+    "654": {
+        "clarity_nt_char_654": "clarity_nt_char_654"
+    },
+    "655": {
+        "楽しんでいきましょ～": ""
+    },
+    "656": {
+        "clarity_nt_char_656": "clarity_nt_char_656"
+    },
+    "657": {
+        "いいですネ！": ""
+    },
+    "658": {
+        "clarity_nt_char_658": "clarity_nt_char_658"
+    },
+    "659": {
+        "コフー……": ""
+    },
+    "660": {
+        "わ～いわ～い": ""
+    },
+    "661": {
+        "clarity_nt_char_661": "clarity_nt_char_661"
+    },
+    "662": {
+        "おっす": ""
+    },
+    "663": {
+        "よろしく": ""
+    },
+    "664": {
+        "clarity_nt_char_664": "clarity_nt_char_664"
+    },
+    "665": {
+        "まったり": ""
+    },
+    "666": {
+        "clarity_nt_char_666": "clarity_nt_char_666"
+    },
+    "667": {
+        "はいでっす！": ""
+    },
+    "668": {
+        "clarity_nt_char_668": "clarity_nt_char_668"
+    },
+    "669": {
+        "イイ…ッ！": ""
+    },
+    "670": {
+        "またせた": ""
+    },
+    "671": {
+        "clarity_nt_char_671": "clarity_nt_char_671"
+    },
+    "672": {
+        "ラリホー！": ""
+    },
+    "673": {
+        "おつかれさまです": ""
+    },
+    "674": {
+        "clarity_nt_char_674": "clarity_nt_char_674"
+    },
+    "675": {
+        "ぎゃふん": ""
+    },
+    "676": {
+        "clarity_nt_char_676": "clarity_nt_char_676"
+    },
+    "677": {
+        "さらばだ": ""
+    },
+    "678": {
+        "clarity_nt_char_678": "clarity_nt_char_678"
+    },
+    "679": {
+        "想像におまかせするよ": ""
+    },
+    "680": {
+        "clarity_nt_char_680": "clarity_nt_char_680"
+    },
+    "681": {
+        "えいえい　おーっ！": ""
+    },
+    "682": {
+        "わかりました": ""
+    },
+    "683": {
+        "clarity_nt_char_683": "clarity_nt_char_683"
+    },
+    "684": {
+        "ごきげんよう<heart>": ""
+    },
+    "685": {
+        "おおー！　やるねぇ！": ""
+    },
+    "686": {
+        "clarity_nt_char_686": "clarity_nt_char_686"
+    },
+    "687": {
+        "じゃあね": ""
+    },
+    "688": {
+        "clarity_nt_char_688": "clarity_nt_char_688"
+    },
+    "689": {
+        "えー": ""
+    },
+    "690": {
+        "clarity_nt_char_690": "clarity_nt_char_690"
+    },
+    "691": {
+        "そしつを感じるぞ": ""
+    },
+    "692": {
+        "clarity_nt_char_692": "clarity_nt_char_692"
+    },
+    "693": {
+        "ちぇんじ！": ""
+    },
+    "694": {
+        "ヘヘッ": ""
+    },
+    "695": {
+        "かんどうしたぞ！": ""
+    },
+    "696": {
+        "clarity_nt_char_696": "clarity_nt_char_696"
+    },
+    "697": {
+        "たのしんでいきましょ～": ""
+    },
+    "698": {
+        "いいですね！": ""
+    },
+    "699": {
+        "clarity_nt_char_699": "clarity_nt_char_699"
+    },
+    "700": {
+        "こふー……": ""
+    },
+    "701": {
+        "ヨロシク": ""
+    },
+    "702": {
+        "clarity_nt_char_702": "clarity_nt_char_702"
+    },
+    "703": {
+        "いい…っ！": ""
+    },
+    "704": {
+        "らりほー！": ""
+    },
+    "705": {
+        "ソウゾウニオマカセスルヨ": ""
+    },
+    "706": {
+        "clarity_nt_char_706": "clarity_nt_char_706"
+    },
+    "707": {
+        "素質を感じるぞ,そしつをかんじるぞ,れじぇす,レジェス": ""
+    },
+    "708": {
+        "ちぇんじ！,チェンジ！,ろーりん,ローリン": ""
+    },
+    "709": {
+        "へへっ,ころぺん,コロペン": ""
+    },
+    "710": {
+        "よくやった,ととごん,トトゴン": ""
+    },
+    "711": {
+        "感動したぞ！,かんどうしたぞ！,ぐらどまん,グラドマン": ""
+    },
+    "712": {
+        "楽しんでいきましょ～,たのしんでいきましょ～,るーにあ,ルーニア,たのしんでいきましょー,楽しんでいきましょー": ""
+    },
+    "713": {
+        "いいですネ！,いいですね！,はやて,ハヤテ": ""
+    },
+    "714": {
+        "こふー……,コフー……,じぇいだー,ジェイダー": ""
+    },
+    "715": {
+        "わ～いわ～い,れれっぽ,レレッポ,わーいわーい": ""
+    },
+    "716": {
+        "こんにちは,ゆーらいざ,ユーライザ,コンニチハ": ""
+    },
+    "717": {
+        "おっす,あしゅれい,アシュレイ": ""
+    },
+    "718": {
+        "よろしく,れおーね,レオーネ": ""
+    },
+    "719": {
+        "clarity_nt_char_719": "clarity_nt_char_719"
+    },
+    "720": {
+        "まったり,ねこ,ファットキャット,ふぁっときゃっと,FFXIV": ""
+    },
+    "721": {
+        "はいでっす！,たたる,タタル,FFXIV": ""
+    },
+    "722": {
+        "clarity_nt_char_722": "clarity_nt_char_722"
+    },
+    "723": {
+        "イイ…ッ！,いい…っ！,おるしゅふぁん,オルシュファン,ちょこぼ,チョコボ,黒チョコボ,FFXIV": ""
+    },
+    "724": {
+        "またせた,さぼてんだー,サボテンダー,FFXIV": ""
+    },
+    "725": {
+        "clarity_nt_char_725": "clarity_nt_char_725"
+    },
+    "726": {
+        "らりほー！,ラリホー！,どわーふ,ドワーフ,ほいみすらいむ,ホイミスライム,FFXIV": ""
+    },
+    "727": {
+        "おつかれさまです,ゆーらいざ,ユーライザ": ""
+    },
+    "728": {
+        "clarity_nt_char_728": "clarity_nt_char_728"
+    },
+    "729": {
+        "ぎゃふん,ゆーらいざ,ユーライザ": ""
+    },
+    "730": {
+        "clarity_nt_char_730": "clarity_nt_char_730"
+    },
+    "731": {
+        "さらばだ,らだ・がーと,ラダ・ガート": ""
+    },
+    "732": {
+        "clarity_nt_char_732": "clarity_nt_char_732"
+    },
+    "733": {
+        "想像におまかせするよ,そうぞうにおまかせするよ,ふぉすている,フォステイル": ""
+    },
+    "734": {
+        "えいえいおーっ！,かぶ,カブ,なんな,ナンナ,どるたむ,ドルタム": ""
+    },
+    "735": {
+        "clarity_nt_char_735": "clarity_nt_char_735"
+    },
+    "736": {
+        "わかりました,はくおう,ハクオウ": ""
+    },
+    "737": {
+        "clarity_nt_char_737": "clarity_nt_char_737"
+    },
+    "738": {
+        "ごきげんよう,りなーしぇ,リナーシェ,ゴキゲンヨウ": ""
+    },
+    "739": {
+        "おおー！やるねぇ！,あしゅれい,アシュレイ": ""
+    },
+    "740": {
+        "じゃあね,れおーね,レオーネ,またね": ""
+    },
+    "741": {
+        "clarity_nt_char_741": "clarity_nt_char_741"
+    },
+    "742": {
+        "えー,でんでろべー,デンデロベー": ""
+    },
+    "743": {
+        "clarity_nt_char_743": "clarity_nt_char_743"
+    },
+    "744": {
+        "バトルトリニティ": "Battle Trinity"
+    },
+    "745": {
+        "clarity_nt_char_745": "clarity_nt_char_745"
+    },
+    "746": {
+        "バトルトリニティ２": "Battle Trinity 2"
+    },
+    "747": {
+        "フォーリオン": "Fourion"
+    },
+    "748": {
+        "clarity_nt_char_748": "clarity_nt_char_748"
+    },
+    "749": {
+        "秘聞録": "Secrets"
+    },
+    "750": {
+        "ＤＱⅩオフライン": "DQⅩ Offline"
+    },
+    "751": {
+        "clarity_nt_char_751": "clarity_nt_char_751"
+    },
+    "752": {
+        "ＦＦＸＩＶ": "FFⅩⅣ"
+    },
+    "753": {
+        "C10": ""
+    },
+    "754": {
+        "C11": ""
+    },
+    "755": {
+        "C12": ""
+    },
+    "756": {
+        "EX6": ""
+    },
+    "757": {
+        "EX7": ""
+    },
+    "758": {
+        "EX5": ""
+    },
+    "759": {
+        "ただイマーっ！！": ""
+    },
+    "760": {
+        "clarity_nt_char_760": "clarity_nt_char_760"
+    },
+    "761": {
+        "いきましょう！！": ""
+    },
+    "762": {
+        "clarity_nt_char_762": "clarity_nt_char_762"
+    },
+    "763": {
+        "マジかよ！！": ""
+    },
+    "764": {
+        "clarity_nt_char_764": "clarity_nt_char_764"
+    },
+    "765": {
+        "よろしくね": ""
+    },
+    "766": {
+        "友よ……！！": ""
+    },
+    "767": {
+        "clarity_nt_char_767": "clarity_nt_char_767"
+    },
+    "768": {
+        "ただいまーっ！！": ""
+    },
+    "769": {
+        "clarity_nt_char_769": "clarity_nt_char_769"
+    },
+    "770": {
+        "まじかよ！！": ""
+    },
+    "771": {
+        "clarity_nt_char_771": "clarity_nt_char_771"
+    },
+    "772": {
+        "ともよ……！！": ""
+    },
+    "773": {
+        "ただイマーっ！！,ただいまーっ！！,がるみぃ,ガルミィ": ""
+    },
+    "774": {
+        "いきましょう！！,まいゆ,マイユ": ""
+    },
+    "775": {
+        "clarity_nt_char_775": "clarity_nt_char_775"
+    },
+    "776": {
+        "マジかよ！！,まじかよ！！,ひゅーざ,ヒューザ": ""
+    },
+    "777": {
+        "よろしくね,ふうら,フウラ": ""
+    },
+    "778": {
+        "友よ……！！,ともよ……！！,だすとん,ダストン": ""
+    },
+    "779": {
+        "clarity_nt_char_779": "clarity_nt_char_779"
+    },
+    "780": {
+        "わかりました,らぐあす,ラグアス": ""
     }
 }

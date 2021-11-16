@@ -183,7 +183,7 @@
         "clarity_nt_char_61": "clarity_nt_char_61"
     },
     "62": {
-        "キラーマシン２": "Killing Machine 2"
+        "キラーマシン２": "Overkilling Machine"
     },
     "63": {
         "バロンナイト": "Visor Kaiser"
@@ -279,7 +279,7 @@
         "clarity_nt_char_93": "clarity_nt_char_93"
     },
     "94": {
-        "フェザーストーム": "Feather Storm"
+        "フェザーストーム": "Featherstorm"
     },
     "95": {
         "clarity_nt_char_95": "clarity_nt_char_95"
@@ -1041,7 +1041,7 @@
         "グランドインパクト　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Grand Impact　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "348": {
-        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
+        "{color=purple}暗黒のきり{color=default}　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Air Pollution{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "349": {
         "clarity_nt_char_349": "clarity_nt_char_349"
@@ -1050,7 +1050,7 @@
         "ためる　　　　テンションアップ": "Psyche Up　Tension Up"
     },
     "351": {
-        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Dark Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
+        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}　<%sM_Target_2>に{color=orange}<%nM_Damage_2>{color=default}のダメージ": "{color=purple}Black Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　{color=orange}<%dM_Damage_2>{color=default} Damage to <%sM_Target_2>"
     },
     "352": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -1317,7 +1317,7 @@
         "仲間をよんだ　　もう１回　右をふる": "Call Ally　Roll Right Side"
     },
     "440": {
-        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Dark Fog{color=default}　<%sM_Target_1> Attack Down (-10)"
+        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>の攻撃力ダウン（－１０）": "{color=purple}Air Pollution{color=default}　<%sM_Target_1> Attack Down (-10)"
     },
     "441": {
         "{color=purple}かがやくいき{color=default}　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Shining Breath{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1326,7 +1326,7 @@
         "clarity_nt_char_442": "clarity_nt_char_442"
     },
     "443": {
-        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "{color=purple}Dark Fog{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
+        "{color=purple}暗黒のきり{color=default}　　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ　幻惑する": "{color=purple}Air Pollution{color=default}　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>　Blinded"
     },
     "444": {
         "ダブルアタック　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}ｘ２のダメージ": "Double Attack　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1> x2"
@@ -1401,7 +1401,7 @@
         "clarity_nt_char_467": "clarity_nt_char_467"
     },
     "468": {
-        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Dark Breath{color=default}　<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
+        "{color=purple}やみのブレス{color=default}　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "{color=purple}Black Breath{color=default}　<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
     },
     "469": {
         "ジゴスパーク　　<%sM_Target_1>に{color=orange}<%nM_Damage_1>{color=default}のダメージ": "Lightning Storm　{color=orange}<%dM_Damage_1>{color=default} Damage to <%sM_Target_1>"
@@ -1950,13 +1950,13 @@
         "clarity_nt_char_650": "clarity_nt_char_650"
     },
     "651": {
-        "暗黒のきり！": "Dark Fog!"
+        "暗黒のきり！": "Air Pollution!"
     },
     "652": {
         "clarity_nt_char_652": "clarity_nt_char_652"
     },
     "653": {
-        "やみのブレス！": "Dark Breath!"
+        "やみのブレス！": "Black Breath!"
     },
     "654": {
         "ふみつけ！": "Trample!"
@@ -2448,7 +2448,7 @@
         "clarity_nt_char_816": "clarity_nt_char_816"
     },
     "817": {
-        "きかなかった！": "Didn't listen!"
+        "きかなかった！": "Didn't hear it!"
     },
     "818": {
         "ＨＰ +20": "HP +20"
@@ -2577,7 +2577,7 @@
         "clarity_nt_char_859": "clarity_nt_char_859"
     },
     "860": {
-        "さいだいＨＰが|もどった": "Max HP is back|to normal."
+        "さいだいＨＰが|もどった": "Max HP returned|to normal."
     },
     "861": {
         "clarity_nt_char_861": "clarity_nt_char_861"
@@ -2904,7 +2904,7 @@
         "毎ターンＨＰにダメージ": "Lose HP each turn!"
     },
     "969": {
-        "自分を攻撃する": "Attack yourself!"
+        "自分を攻撃する": "Attacked self!"
     },
     "970": {
         "打撃攻撃のダメージ減少": "Reduce physical damage taken!"
@@ -3666,6 +3666,6 @@
         "clarity_nt_char_1222": "clarity_nt_char_1222"
     },
     "1223": {
-        "自分にこうげき！": "Attacked yourself!"
+        "自分にこうげき！": "Attacked self!"
     }
 }

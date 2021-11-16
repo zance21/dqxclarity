@@ -9,13 +9,13 @@
         "手を振る": "Wave Goodbye"
     },
     "4": {
-        "clarity_nt_char_1": "clarity_nt_char_1"
+        "clarity_nt_char_4": "clarity_nt_char_4"
     },
     "5": {
         "よろこぶ": "Joy"
     },
     "6": {
-        "clarity_nt_char_2": "clarity_nt_char_2"
+        "clarity_nt_char_6": "clarity_nt_char_6"
     },
     "7": {
         "わらう": "Laugh"
@@ -27,7 +27,7 @@
         "おどろく": "Surprised!"
     },
     "10": {
-        "clarity_nt_char_3": "clarity_nt_char_3"
+        "clarity_nt_char_10": "clarity_nt_char_10"
     },
     "11": {
         "なやむ": "Worried"
@@ -42,37 +42,37 @@
         "ガッツポーズ": "Guts Pose"
     },
     "15": {
-        "clarity_nt_char_4": "clarity_nt_char_4"
+        "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "16": {
         "はくしゅ": "Applause"
     },
     "17": {
-        "clarity_nt_char_5": "clarity_nt_char_5"
+        "clarity_nt_char_17": "clarity_nt_char_17"
     },
     "18": {
         "おちこむ": "Depressed"
     },
     "19": {
-        "clarity_nt_char_6": "clarity_nt_char_6"
+        "clarity_nt_char_19": "clarity_nt_char_19"
     },
     "20": {
         "泣く": "Cry"
     },
     "21": {
-        "clarity_nt_char_7": "clarity_nt_char_7"
+        "clarity_nt_char_21": "clarity_nt_char_21"
     },
     "22": {
         "怒る": "Angry"
     },
     "23": {
-        "clarity_nt_char_8": "clarity_nt_char_8"
+        "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "24": {
         "オッケー": "OK!"
     },
     "25": {
-        "clarity_nt_char_9": "clarity_nt_char_9"
+        "clarity_nt_char_25": "clarity_nt_char_25"
     },
     "26": {
         "ダイス": "Dice"
@@ -81,7 +81,7 @@
         "首を振る": "Shake Head"
     },
     "28": {
-        "clarity_nt_char_10": "clarity_nt_char_10"
+        "clarity_nt_char_28": "clarity_nt_char_28"
     },
     "29": {
         "おじぎ": "Bow"
@@ -90,13 +90,13 @@
         "ベリーダンス": "Belly Dance"
     },
     "31": {
-        "clarity_nt_char_11": "clarity_nt_char_11"
+        "clarity_nt_char_31": "clarity_nt_char_31"
     },
     "32": {
         "けいれい": "Salute"
     },
     "33": {
-        "clarity_nt_char_12": "clarity_nt_char_12"
+        "clarity_nt_char_33": "clarity_nt_char_33"
     },
     "34": {
         "ひざまずく": "Kneel"
@@ -111,7 +111,7 @@
         "さそうおどり": "Happy Dance!"
     },
     "38": {
-        "clarity_nt_char_13": "clarity_nt_char_13"
+        "clarity_nt_char_38": "clarity_nt_char_38"
     },
     "39": {
         "指さす": "Point"
@@ -120,19 +120,19 @@
         "ネタ「究極呪文」": "Ultimate Spell Trick"
     },
     "41": {
-        "clarity_nt_char_14": "clarity_nt_char_14"
+        "clarity_nt_char_41": "clarity_nt_char_41"
     },
     "42": {
         "ツッコミ": "Fan Slap"
     },
     "43": {
-        "clarity_nt_char_15": "clarity_nt_char_15"
+        "clarity_nt_char_43": "clarity_nt_char_43"
     },
     "44": {
         "あやまる": "Apologize"
     },
     "45": {
-        "clarity_nt_char_16": "clarity_nt_char_16"
+        "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "46": {
         "プクリポのあいさつ": "Pukulipo Greeting"
@@ -144,7 +144,7 @@
         "ほほえむ": "Smile"
     },
     "49": {
-        "clarity_nt_char_17": "clarity_nt_char_17"
+        "clarity_nt_char_49": "clarity_nt_char_49"
     },
     "50": {
         "苦笑い": "Bitter"
@@ -153,25 +153,25 @@
         "ひやかす": "Banter"
     },
     "52": {
-        "clarity_nt_char_18": "clarity_nt_char_18"
+        "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "53": {
         "おびえる": "Scared"
     },
     "54": {
-        "clarity_nt_char_19": "clarity_nt_char_19"
+        "clarity_nt_char_54": "clarity_nt_char_54"
     },
     "55": {
         "ショックをうける": "Received Shock"
     },
     "56": {
-        "clarity_nt_char_20": "clarity_nt_char_20"
+        "clarity_nt_char_56": "clarity_nt_char_56"
     },
     "57": {
         "おどろきとまどう": "Shock and Confusion"
     },
     "58": {
-        "clarity_nt_char_21": "clarity_nt_char_21"
+        "clarity_nt_char_58": "clarity_nt_char_58"
     },
     "59": {
         "決めポーズ中央前列": "Decisive Pose Front Row"
@@ -183,31 +183,31 @@
         "決めポーズ右": "Decisive Pose R"
     },
     "62": {
-        "clarity_nt_char_22": "clarity_nt_char_22"
+        "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "63": {
         "決めポーズ左": "Decisive Pose L"
     },
     "64": {
-        "clarity_nt_char_23": "clarity_nt_char_23"
+        "clarity_nt_char_64": "clarity_nt_char_64"
     },
     "65": {
         "エルフのあいさつ": "Elf Greeting"
     },
     "66": {
-        "clarity_nt_char_24": "clarity_nt_char_24"
+        "clarity_nt_char_66": "clarity_nt_char_66"
     },
     "67": {
         "オーガのあいさつ": "Ogre Greeting"
     },
     "68": {
-        "clarity_nt_char_25": "clarity_nt_char_25"
+        "clarity_nt_char_68": "clarity_nt_char_68"
     },
     "69": {
         "ねる": "Sleep"
     },
     "70": {
-        "clarity_nt_char_26": "clarity_nt_char_26"
+        "clarity_nt_char_70": "clarity_nt_char_70"
     },
     "71": {
         "武器をかかげる": "Raise Weapon"
@@ -222,7 +222,7 @@
         "うなずく": "Nod"
     },
     "75": {
-        "clarity_nt_char_27": "clarity_nt_char_27"
+        "clarity_nt_char_75": "clarity_nt_char_75"
     },
     "76": {
         "ふしぎなおどり": "Mysterious Dance"
@@ -231,31 +231,31 @@
         "ナイスポーズ": "Nice Pose"
     },
     "78": {
-        "clarity_nt_char_28": "clarity_nt_char_28"
+        "clarity_nt_char_78": "clarity_nt_char_78"
     },
     "79": {
         "バトルポーズ": "Battle Pose"
     },
     "80": {
-        "clarity_nt_char_29": "clarity_nt_char_29"
+        "clarity_nt_char_80": "clarity_nt_char_80"
     },
     "81": {
         "おねだり": "Begging"
     },
     "82": {
-        "clarity_nt_char_30": "clarity_nt_char_30"
+        "clarity_nt_char_82": "clarity_nt_char_82"
     },
     "83": {
         "サイクロンダンス": "Cyclone Dance"
     },
     "84": {
-        "clarity_nt_char_31": "clarity_nt_char_31"
+        "clarity_nt_char_84": "clarity_nt_char_84"
     },
     "85": {
         "エンジョイダンス": "Enjoy Dance"
     },
     "86": {
-        "clarity_nt_char_32": "clarity_nt_char_32"
+        "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "87": {
         "ドワーフのあいさつ": "Dwarf Greeting"
@@ -264,7 +264,7 @@
         "(なし)": "(None)"
     },
     "89": {
-        "clarity_nt_char_33": "clarity_nt_char_33"
+        "clarity_nt_char_89": "clarity_nt_char_89"
     },
     "90": {
         "大成功": "Perfect"
@@ -273,7 +273,7 @@
         "がっくり": "Disappointed"
     },
     "92": {
-        "clarity_nt_char_34": "clarity_nt_char_34"
+        "clarity_nt_char_92": "clarity_nt_char_92"
     },
     "93": {
         "手をつなぐ": "Hold Hands"
@@ -285,25 +285,25 @@
         "もじもじ": "Bashful"
     },
     "96": {
-        "clarity_nt_char_35": "clarity_nt_char_35"
+        "clarity_nt_char_96": "clarity_nt_char_96"
     },
     "97": {
         "決めポーズ右前列": "Decisive Pose R Front"
     },
     "98": {
-        "clarity_nt_char_36": "clarity_nt_char_36"
+        "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "99": {
         "決めポーズ左前列": "Decisive Pose L Front"
     },
     "100": {
-        "clarity_nt_char_37": "clarity_nt_char_37"
+        "clarity_nt_char_100": "clarity_nt_char_100"
     },
     "101": {
         "ウインク": "Wink"
     },
     "102": {
-        "clarity_nt_char_38": "clarity_nt_char_38"
+        "clarity_nt_char_102": "clarity_nt_char_102"
     },
     "103": {
         "コイントス": "Coin Toss"
@@ -312,7 +312,7 @@
         "カードを引く": "Draw Card"
     },
     "105": {
-        "clarity_nt_char_39": "clarity_nt_char_39"
+        "clarity_nt_char_105": "clarity_nt_char_105"
     },
     "106": {
         "サボテンダーポーズ": "Cactuar Pose"
@@ -321,28 +321,28 @@
         "幸せのおどり": "Happy Dance"
     },
     "108": {
-        "clarity_nt_char_40": "clarity_nt_char_40"
+        "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "109": {
         "たいようのおどり": "Sun Dance"
     },
     "110": {
-        "clarity_nt_char_41": "clarity_nt_char_41"
+        "clarity_nt_char_110": "clarity_nt_char_110"
     },
     "111": {
         "しぐさリスト選択": "Emote List"
     },
     "112": {
-        "clarity_nt_char_42": "clarity_nt_char_42"
+        "clarity_nt_char_112": "clarity_nt_char_112"
     },
     "113": {
         "ネタ「だいこん」": "Daikon Trick"
     },
     "114": {
-        "clarity_nt_char_43": "clarity_nt_char_43"
+        "clarity_nt_char_114": "clarity_nt_char_114"
     },
     "115": {
-        "高笑い": "Laugh"
+        "高笑い": "Ohoho!"
     },
     "116": {
         "なでる": "Stroke"
@@ -369,7 +369,7 @@
         "ゴールデンライト": "Golden Light"
     },
     "124": {
-        "clarity_nt_char_44": "clarity_nt_char_44"
+        "clarity_nt_char_124": "clarity_nt_char_124"
     },
     "125": {
         "ピース": "Peace"
@@ -378,7 +378,7 @@
         "ネタ「爆発っ！」": "Explode Trick!"
     },
     "127": {
-        "clarity_nt_char_45": "clarity_nt_char_45"
+        "clarity_nt_char_127": "clarity_nt_char_127"
     },
     "128": {
         "スノーマジック": "Snow Magic"
@@ -402,19 +402,19 @@
         "ＶＪの飛び出すＶ": "V Pops Out!"
     },
     "135": {
-        "clarity_nt_char_46": "clarity_nt_char_46"
+        "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "136": {
         "ネオンハート": "Neon Heart"
     },
     "137": {
-        "clarity_nt_char_47": "clarity_nt_char_47"
+        "clarity_nt_char_137": "clarity_nt_char_137"
     },
     "138": {
         "ネタ「かんおけ」": "Coffin Trick"
     },
     "139": {
-        "clarity_nt_char_48": "clarity_nt_char_48"
+        "clarity_nt_char_139": "clarity_nt_char_139"
     },
     "140": {
         "お茶を飲む": "Drink Tea"
@@ -423,7 +423,7 @@
         "ラインダンス": "Line Dance"
     },
     "142": {
-        "clarity_nt_char_49": "clarity_nt_char_49"
+        "clarity_nt_char_142": "clarity_nt_char_142"
     },
     "143": {
         "画集を読む": "Read Art Book"
@@ -432,43 +432,43 @@
         "パラディンガード": "Knight's Watch"
     },
     "145": {
-        "clarity_nt_char_50": "clarity_nt_char_50"
+        "clarity_nt_char_145": "clarity_nt_char_145"
     },
     "146": {
         "タクトをふる": "Conductor"
     },
     "147": {
-        "clarity_nt_char_51": "clarity_nt_char_51"
+        "clarity_nt_char_147": "clarity_nt_char_147"
     },
     "148": {
         "ネタ「宝箱」": "Treasure Box Trick"
     },
     "149": {
-        "clarity_nt_char_52": "clarity_nt_char_52"
+        "clarity_nt_char_149": "clarity_nt_char_149"
     },
     "150": {
         "成功": "Hit"
     },
     "151": {
-        "clarity_nt_char_53": "clarity_nt_char_53"
+        "clarity_nt_char_151": "clarity_nt_char_151"
     },
     "152": {
         "ネタ「カニ」": "Crab Trick"
     },
     "153": {
-        "clarity_nt_char_54": "clarity_nt_char_54"
+        "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "154": {
         "リュートを奏でる": "Play Lute"
     },
     "155": {
-        "clarity_nt_char_55": "clarity_nt_char_55"
+        "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "156": {
         "花束をおくる": "Bouquet"
     },
     "157": {
-        "clarity_nt_char_56": "clarity_nt_char_56"
+        "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "158": {
         "ラブリィダンス": "Lovely Dance"
@@ -477,7 +477,7 @@
         "ネタ「こまいぬ」": "Foo Dog Trick"
     },
     "160": {
-        "clarity_nt_char_57": "clarity_nt_char_57"
+        "clarity_nt_char_160": "clarity_nt_char_160"
     },
     "161": {
         "モチつき「つき手」": "Pound Mochi \"Pounder\""
@@ -489,7 +489,7 @@
         "竜族式の祈り": "Dragon Prayer"
     },
     "164": {
-        "clarity_nt_char_58": "clarity_nt_char_58"
+        "clarity_nt_char_164": "clarity_nt_char_164"
     },
     "165": {
         "つまむ": "Picked Up"
@@ -507,7 +507,7 @@
         "線香花火": "Sparkler"
     },
     "170": {
-        "clarity_nt_char_59": "clarity_nt_char_59"
+        "clarity_nt_char_170": "clarity_nt_char_170"
     },
     "171": {
         "ハイタッチ": "High Five"
@@ -516,7 +516,7 @@
         "シャワー": "Shower"
     },
     "173": {
-        "clarity_nt_char_60": "clarity_nt_char_60"
+        "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "174": {
         "ハートマジック": "Heart Magic"
@@ -525,7 +525,7 @@
         "フェザーマジック": "Feather Magic"
     },
     "176": {
-        "clarity_nt_char_61": "clarity_nt_char_61"
+        "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "177": {
         "スターマジック": "Star Magic"
@@ -537,43 +537,43 @@
         "ゴールドシャワー": "Gold Rush"
     },
     "180": {
-        "clarity_nt_char_62": "clarity_nt_char_62"
+        "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "181": {
         "炎の友情☆ダンス": "Fire Friendship☆Dance"
     },
     "182": {
-        "clarity_nt_char_63": "clarity_nt_char_63"
+        "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "183": {
         "ネタ「タル」": "Barrel Trick"
     },
     "184": {
-        "clarity_nt_char_64": "clarity_nt_char_64"
+        "clarity_nt_char_184": "clarity_nt_char_184"
     },
     "185": {
         "ネタ「ツボ」": "Pot Trick"
     },
     "186": {
-        "clarity_nt_char_65": "clarity_nt_char_65"
+        "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "187": {
-        "ネタ「木箱」": "Wooden Box Trick"
+        "ネタ「木箱」": "Crate Trick"
     },
     "188": {
-        "clarity_nt_char_66": "clarity_nt_char_66"
+        "clarity_nt_char_188": "clarity_nt_char_188"
     },
     "189": {
         "裁定者の拝礼": "Arbitrator Worship"
     },
     "190": {
-        "clarity_nt_char_67": "clarity_nt_char_67"
+        "clarity_nt_char_190": "clarity_nt_char_190"
     },
     "191": {
         "傘まわし": "Umbrla. Spin"
     },
     "192": {
-        "clarity_nt_char_68": "clarity_nt_char_68"
+        "clarity_nt_char_192": "clarity_nt_char_192"
     },
     "193": {
         "職人道具をかかげる": "Hold Up Craftsman Tool"
@@ -582,19 +582,19 @@
         "ネタ「ミルク缶」": "Milk Can Trick"
     },
     "195": {
-        "clarity_nt_char_69": "clarity_nt_char_69"
+        "clarity_nt_char_195": "clarity_nt_char_195"
     },
     "196": {
         "ナイトフィーバー": "Night Fever"
     },
     "197": {
-        "clarity_nt_char_70": "clarity_nt_char_70"
+        "clarity_nt_char_197": "clarity_nt_char_197"
     },
     "198": {
         "たいこを叩く": "Beat a Drum"
     },
     "199": {
-        "clarity_nt_char_71": "clarity_nt_char_71"
+        "clarity_nt_char_199": "clarity_nt_char_199"
     },
     "200": {
         "ナイトフィーバー赤": "Night Fever (Red)"
@@ -615,7 +615,7 @@
         "グレープジュース": "Grape Juice"
     },
     "206": {
-        "clarity_nt_char_72": "clarity_nt_char_72"
+        "clarity_nt_char_206": "clarity_nt_char_206"
     },
     "207": {
         "トロピカルジュース": "Tropical Juice"
@@ -627,43 +627,43 @@
         "波止場ポーズ": "Wharf Pose"
     },
     "210": {
-        "clarity_nt_char_73": "clarity_nt_char_73"
+        "clarity_nt_char_210": "clarity_nt_char_210"
     },
     "211": {
         "ネタ「綿毛」": "Fluff Trick"
     },
     "212": {
-        "clarity_nt_char_74": "clarity_nt_char_74"
+        "clarity_nt_char_212": "clarity_nt_char_212"
     },
     "213": {
         "空気イス": "Air Chair"
     },
     "214": {
-        "clarity_nt_char_75": "clarity_nt_char_75"
+        "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "215": {
         "おまいり": "Worship"
     },
     "216": {
-        "clarity_nt_char_76": "clarity_nt_char_76"
+        "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "217": {
         "ぞうきん掛け": "Use Cleaning Cloth"
     },
     "218": {
-        "clarity_nt_char_77": "clarity_nt_char_77"
+        "clarity_nt_char_218": "clarity_nt_char_218"
     },
     "219": {
         "雪だるま": "Snowman"
     },
     "220": {
-        "clarity_nt_char_78": "clarity_nt_char_78"
+        "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "221": {
         "ネオンライト": "Neon Light"
     },
     "222": {
-        "clarity_nt_char_79": "clarity_nt_char_79"
+        "clarity_nt_char_222": "clarity_nt_char_222"
     },
     "223": {
         "ネオンライト赤": "Neon Light (Red)"
@@ -687,13 +687,13 @@
         "ハートを描く": "Draw a Heart"
     },
     "230": {
-        "clarity_nt_char_80": "clarity_nt_char_80"
+        "clarity_nt_char_230": "clarity_nt_char_230"
     },
     "231": {
         "風船ふわふわ": "Fluffy Balloon"
     },
     "232": {
-        "clarity_nt_char_81": "clarity_nt_char_81"
+        "clarity_nt_char_232": "clarity_nt_char_232"
     },
     "233": {
         "ラブレター": "Love Letter"
@@ -702,19 +702,19 @@
         "じゃんけんチョキ": "Scissors"
     },
     "235": {
-        "clarity_nt_char_82": "clarity_nt_char_82"
+        "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "236": {
         "ガリバーハンド！": "Gulliver Hand!"
     },
     "237": {
-        "clarity_nt_char_83": "clarity_nt_char_83"
+        "clarity_nt_char_237": "clarity_nt_char_237"
     },
     "238": {
         "勉強する": "Study"
     },
     "239": {
-        "clarity_nt_char_84": "clarity_nt_char_84"
+        "clarity_nt_char_239": "clarity_nt_char_239"
     },
     "240": {
         "パレードダンス": "Parade Dance"
@@ -729,13 +729,13 @@
         "ねる・その２": "Sleep 2"
     },
     "244": {
-        "clarity_nt_char_85": "clarity_nt_char_85"
+        "clarity_nt_char_244": "clarity_nt_char_244"
     },
     "245": {
         "ねる・その３": "Sleep 3"
     },
     "246": {
-        "clarity_nt_char_86": "clarity_nt_char_86"
+        "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "247": {
         "キラ星": "Stars"
@@ -744,7 +744,7 @@
         "ネタ「綿毛タンポラ」": "Fluff Dandelion Trick"
     },
     "249": {
-        "clarity_nt_char_87": "clarity_nt_char_87"
+        "clarity_nt_char_249": "clarity_nt_char_249"
     },
     "250": {
         "座って本を読む": "Sit and Read"
@@ -756,13 +756,13 @@
         "演奏ヴァイオリン": "Play Violin"
     },
     "253": {
-        "clarity_nt_char_88": "clarity_nt_char_88"
+        "clarity_nt_char_253": "clarity_nt_char_253"
     },
     "254": {
         "演奏フルート": "Play Flute"
     },
     "255": {
-        "clarity_nt_char_89": "clarity_nt_char_89"
+        "clarity_nt_char_255": "clarity_nt_char_255"
     },
     "256": {
         "演奏アコーディオン": "Play Accordion"
@@ -789,7 +789,7 @@
         "ダンシングライト": "Dancing Light"
     },
     "264": {
-        "clarity_nt_char_90": "clarity_nt_char_90"
+        "clarity_nt_char_264": "clarity_nt_char_264"
     },
     "265": {
         "ダンシングライト赤": "Dancing Light (Red)"
@@ -807,7 +807,7 @@
         "○を描く": "Draw an O"
     },
     "270": {
-        "clarity_nt_char_91": "clarity_nt_char_91"
+        "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "271": {
         "ネタ「スイカ」": "Watermelon Trick"
@@ -816,13 +816,13 @@
         "たたかいのビート": "Thrash Guitar"
     },
     "273": {
-        "clarity_nt_char_92": "clarity_nt_char_92"
+        "clarity_nt_char_273": "clarity_nt_char_273"
     },
     "274": {
         "狼まわし": "Wolf Spin"
     },
     "275": {
-        "clarity_nt_char_93": "clarity_nt_char_93"
+        "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "276": {
         "ビーストモード": "Beast Mode"
@@ -834,37 +834,37 @@
         "お祝いシャワー赤": "Celebration (Red)"
     },
     "279": {
-        "clarity_nt_char_94": "clarity_nt_char_94"
+        "clarity_nt_char_279": "clarity_nt_char_279"
     },
     "280": {
         "お祝いシャワー青": "Celebration (Blue)"
     },
     "281": {
-        "clarity_nt_char_95": "clarity_nt_char_95"
+        "clarity_nt_char_281": "clarity_nt_char_281"
     },
     "282": {
         "お祝いシャワー緑": "Celebration (Green)"
     },
     "283": {
-        "clarity_nt_char_96": "clarity_nt_char_96"
+        "clarity_nt_char_283": "clarity_nt_char_283"
     },
     "284": {
         "お祝いシャワー白": "Celebration (White)"
     },
     "285": {
-        "clarity_nt_char_97": "clarity_nt_char_97"
+        "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "286": {
         "お祝いシャワー黄": "Celebration (Yellow)"
     },
     "287": {
-        "clarity_nt_char_98": "clarity_nt_char_98"
+        "clarity_nt_char_287": "clarity_nt_char_287"
     },
     "288": {
         "まぶしい": "Dazzling"
     },
     "289": {
-        "clarity_nt_char_99": "clarity_nt_char_99"
+        "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "290": {
         "写真を撮る": "Take a Picture"
@@ -876,10 +876,10 @@
         "まえならえ・後": "Front Arms"
     },
     "293": {
-        "トランプ": "Game Cards"
+        "トランプ": "Cards"
     },
     "294": {
-        "clarity_nt_char_100": "clarity_nt_char_100"
+        "clarity_nt_char_294": "clarity_nt_char_294"
     },
     "295": {
         "花吹雪": "C Blossom"
@@ -888,13 +888,13 @@
         "ポップコーン": "Popcorn"
     },
     "297": {
-        "clarity_nt_char_101": "clarity_nt_char_101"
+        "clarity_nt_char_297": "clarity_nt_char_297"
     },
     "298": {
         "おそなえ": "Offering"
     },
     "299": {
-        "clarity_nt_char_102": "clarity_nt_char_102"
+        "clarity_nt_char_299": "clarity_nt_char_299"
     },
     "300": {
         "つまみ食い": "Eat"
@@ -903,7 +903,7 @@
         "ティンクルバトン": "Twirl Baton"
     },
     "302": {
-        "clarity_nt_char_103": "clarity_nt_char_103"
+        "clarity_nt_char_302": "clarity_nt_char_302"
     },
     "303": {
         "ハートを射抜く": "Shoot Hearts"
@@ -915,13 +915,13 @@
         "ガクブル": "Tremble"
     },
     "306": {
-        "clarity_nt_char_104": "clarity_nt_char_104"
+        "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "307": {
         "バトルトリニティ": "Battle Trinity"
     },
     "308": {
-        "clarity_nt_char_105": "clarity_nt_char_105"
+        "clarity_nt_char_308": "clarity_nt_char_308"
     },
     "309": {
         "神速シャンソン": "Godspeed Chanson"
@@ -930,7 +930,7 @@
         "メイクアップ": "Extreme Makeover"
     },
     "311": {
-        "clarity_nt_char_106": "clarity_nt_char_106"
+        "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "312": {
         "ベストスマイル": "Best Smile"
@@ -942,13 +942,13 @@
         "ネタ「ボディガード」": "Bodyguard Trick"
     },
     "315": {
-        "clarity_nt_char_107": "clarity_nt_char_107"
+        "clarity_nt_char_315": "clarity_nt_char_315"
     },
     "316": {
         "こっちおいで": "Come Here"
     },
     "317": {
-        "clarity_nt_char_108": "clarity_nt_char_108"
+        "clarity_nt_char_317": "clarity_nt_char_317"
     },
     "318": {
         "のぞく": "Peek"
@@ -957,25 +957,25 @@
         "ネオンスター": "Neon Star"
     },
     "320": {
-        "clarity_nt_char_109": "clarity_nt_char_109"
+        "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "321": {
         "ネオンスピカ": "Neon Spica"
     },
     "322": {
-        "clarity_nt_char_110": "clarity_nt_char_110"
+        "clarity_nt_char_322": "clarity_nt_char_322"
     },
     "323": {
         "ネオンビーム": "Neon Beam"
     },
     "324": {
-        "clarity_nt_char_111": "clarity_nt_char_111"
+        "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "325": {
         "ネオンフラッシュ": "Neon Flash"
     },
     "326": {
-        "clarity_nt_char_112": "clarity_nt_char_112"
+        "clarity_nt_char_326": "clarity_nt_char_326"
     },
     "327": {
         "ロックンロール": "Rock 'n' Roll"
@@ -984,7 +984,7 @@
         "ネタ「スライム」": "Slime Trick"
     },
     "329": {
-        "clarity_nt_char_113": "clarity_nt_char_113"
+        "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
         "スイカ割り": "Cut Watermelon"
@@ -993,7 +993,7 @@
         "妄想": "Swoon"
     },
     "332": {
-        "clarity_nt_char_114": "clarity_nt_char_114"
+        "clarity_nt_char_332": "clarity_nt_char_332"
     },
     "333": {
         "ネオンスター赤": "Neon Star (Red)"
@@ -1005,7 +1005,7 @@
         "ネオンスター緑": "Neon Star (Green)"
     },
     "336": {
-        "ネオンスター桃": "Neon Star (Peach)"
+        "ネオンスター桃": "Neon Star (Pink)"
     },
     "337": {
         "ネオンスター黄": "Neon Star (Yellow)"
@@ -1020,7 +1020,7 @@
         "ネオンスピカ緑": "Neon Spica (Green)"
     },
     "341": {
-        "ネオンスピカ桃": "Neon Spica (Peach)"
+        "ネオンスピカ桃": "Neon Spica (Pink)"
     },
     "342": {
         "ネオンビーム赤": "Neon Beam (Red)"
@@ -1032,7 +1032,7 @@
         "ネオンビーム緑": "Neon Beam (Green)"
     },
     "345": {
-        "ネオンビーム桃": "Neon Beam (Peach)"
+        "ネオンビーム桃": "Neon Beam (Pink)"
     },
     "346": {
         "ネオンビーム黄": "Neon Beam (Yellow)"
@@ -1047,7 +1047,7 @@
         "ネオンフラッシュ緑": "Neon Flash (Green)"
     },
     "350": {
-        "ネオンフラッシュ桃": "Neon Flash (Peach)"
+        "ネオンフラッシュ桃": "Neon Flash (Pink)"
     },
     "351": {
         "ネオンフラッシュ黄": "Neon Flash (Yellow)"
@@ -1056,13 +1056,13 @@
         "お祝いシャワー虹": "Celebration (Rainbow)"
     },
     "353": {
-        "clarity_nt_char_115": "clarity_nt_char_115"
+        "clarity_nt_char_353": "clarity_nt_char_353"
     },
     "354": {
         "お重をどうぞ": "Offer Food Box"
     },
     "355": {
-        "clarity_nt_char_116": "clarity_nt_char_116"
+        "clarity_nt_char_355": "clarity_nt_char_355"
     },
     "356": {
         "ネオンハート赤": "Neon Heart (Red)"
@@ -1074,7 +1074,7 @@
         "ネオンハート緑": "Neon Heart (Green)"
     },
     "359": {
-        "ネオンハート桃": "Neon Heart (Peach)"
+        "ネオンハート桃": "Neon Heart (Pink)"
     },
     "360": {
         "ネオンハート黄": "Neon Heart (Yellow)"
@@ -1083,7 +1083,7 @@
         "ネタ「ひまわり」": "Sunflower Trick"
     },
     "362": {
-        "clarity_nt_char_117": "clarity_nt_char_117"
+        "clarity_nt_char_362": "clarity_nt_char_362"
     },
     "363": {
         "お弁当": "Lunch Box"
@@ -1098,7 +1098,7 @@
         "赤いまなざし": "Red Gaze"
     },
     "367": {
-        "clarity_nt_char_118": "clarity_nt_char_118"
+        "clarity_nt_char_367": "clarity_nt_char_367"
     },
     "368": {
         "パンフレットを読む": "Read Pamphlet"
@@ -1107,7 +1107,7 @@
         "拳をかかげる": "Raise Fist"
     },
     "370": {
-        "clarity_nt_char_119": "clarity_nt_char_119"
+        "clarity_nt_char_370": "clarity_nt_char_370"
     },
     "371": {
         "花を背負う": "Flowers"
@@ -1116,13 +1116,13 @@
         "掘る": "Dig"
     },
     "373": {
-        "clarity_nt_char_120": "clarity_nt_char_120"
+        "clarity_nt_char_373": "clarity_nt_char_373"
     },
     "374": {
         "シグナルスライム": "Signal Slime"
     },
     "375": {
-        "clarity_nt_char_121": "clarity_nt_char_121"
+        "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
         "シグナルクローバー": "Signal Clover"
@@ -1131,37 +1131,37 @@
         "ネタ「たけのこ」": "Bamboo Shoot Trick"
     },
     "378": {
-        "clarity_nt_char_122": "clarity_nt_char_122"
+        "clarity_nt_char_378": "clarity_nt_char_378"
     },
     "379": {
         "青いまなざし": "Blue Gaze"
     },
     "380": {
-        "clarity_nt_char_123": "clarity_nt_char_123"
+        "clarity_nt_char_380": "clarity_nt_char_380"
     },
     "381": {
         "緑のまなざし": "Green Gaze"
     },
     "382": {
-        "clarity_nt_char_124": "clarity_nt_char_124"
+        "clarity_nt_char_382": "clarity_nt_char_382"
     },
     "383": {
         "紫のまなざし": "Purple Gaze"
     },
     "384": {
-        "clarity_nt_char_125": "clarity_nt_char_125"
+        "clarity_nt_char_384": "clarity_nt_char_384"
     },
     "385": {
         "黄のまなざし": "Yellow Gaze"
     },
     "386": {
-        "clarity_nt_char_126": "clarity_nt_char_126"
+        "clarity_nt_char_386": "clarity_nt_char_386"
     },
     "387": {
         "かかげる": "Raise"
     },
     "388": {
-        "clarity_nt_char_127": "clarity_nt_char_127"
+        "clarity_nt_char_388": "clarity_nt_char_388"
     },
     "389": {
         "王者の居住まい": "Champion's Seat"
@@ -1170,7 +1170,7 @@
         "ヨーヨー風船": "Balloon Yo-Yo"
     },
     "391": {
-        "clarity_nt_char_128": "clarity_nt_char_128"
+        "clarity_nt_char_391": "clarity_nt_char_391"
     },
     "392": {
         "ローズマジック": "Rose Magic"
@@ -1188,7 +1188,7 @@
         "ごきげん": "Cheery"
     },
     "397": {
-        "clarity_nt_char_129": "clarity_nt_char_129"
+        "clarity_nt_char_397": "clarity_nt_char_397"
     },
     "398": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　よびかけた。": ""
@@ -1203,7 +1203,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　わらった。": ""
     },
     "402": {
-        "clarity_nt_char_130": "clarity_nt_char_130"
+        "clarity_nt_char_402": "clarity_nt_char_402"
     },
     "403": {
         "<%sL_ACTOR>は　<%sL_TARGET>を見て　てれた。": ""
@@ -1215,7 +1215,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>を見て　なやんだ。": ""
     },
     "406": {
-        "clarity_nt_char_131": "clarity_nt_char_131"
+        "clarity_nt_char_406": "clarity_nt_char_406"
     },
     "407": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　おいのりをした。": ""
@@ -1236,13 +1236,13 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　おこった！": ""
     },
     "413": {
-        "clarity_nt_char_132": "clarity_nt_char_132"
+        "clarity_nt_char_413": "clarity_nt_char_413"
     },
     "414": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ＯＫをだした。": ""
     },
     "415": {
-        "clarity_nt_char_133": "clarity_nt_char_133"
+        "clarity_nt_char_415": "clarity_nt_char_415"
     },
     "416": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　首を振った。": ""
@@ -1251,7 +1251,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　おじぎをした。": ""
     },
     "418": {
-        "clarity_nt_char_134": "clarity_nt_char_134"
+        "clarity_nt_char_418": "clarity_nt_char_418"
     },
     "419": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ベリーダンスをした。": ""
@@ -1260,13 +1260,13 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　けいれいした。": ""
     },
     "421": {
-        "clarity_nt_char_135": "clarity_nt_char_135"
+        "clarity_nt_char_421": "clarity_nt_char_421"
     },
     "422": {
         "<%sL_ACTOR>は　<%sL_TARGET>の前に　ひざまずいた。": ""
     },
     "423": {
-        "clarity_nt_char_136": "clarity_nt_char_136"
+        "clarity_nt_char_423": "clarity_nt_char_423"
     },
     "424": {
         "<%sL_ACTOR>は　<%sL_TARGET>を　ちょうはつした！": ""
@@ -1278,7 +1278,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>を　指さした。": ""
     },
     "427": {
-        "clarity_nt_char_137": "clarity_nt_char_137"
+        "clarity_nt_char_427": "clarity_nt_char_427"
     },
     "428": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ボケた。": ""
@@ -1287,7 +1287,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　ツッコミをいれた！": ""
     },
     "430": {
-        "clarity_nt_char_138": "clarity_nt_char_138"
+        "clarity_nt_char_430": "clarity_nt_char_430"
     },
     "431": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　あやまった。": ""
@@ -1296,13 +1296,13 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　プクリポのあいさつをした。": ""
     },
     "433": {
-        "clarity_nt_char_139": "clarity_nt_char_139"
+        "clarity_nt_char_433": "clarity_nt_char_433"
     },
     "434": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ウェディのあいさつをした。": ""
     },
     "435": {
-        "clarity_nt_char_140": "clarity_nt_char_140"
+        "clarity_nt_char_435": "clarity_nt_char_435"
     },
     "436": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ほほえんだ。": ""
@@ -1317,13 +1317,13 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　おびえている！": ""
     },
     "440": {
-        "clarity_nt_char_141": "clarity_nt_char_141"
+        "clarity_nt_char_440": "clarity_nt_char_440"
     },
     "441": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ショックをうけた！": "<%sL_ACTOR> gave <%sL_TARGET> a shock!"
     },
     "442": {
-        "clarity_nt_char_142": "clarity_nt_char_142"
+        "clarity_nt_char_442": "clarity_nt_char_442"
     },
     "443": {
         "<%sL_ACTOR>は　おどろきとまどっている！": ""
@@ -1338,13 +1338,13 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　投げキッスをした。": ""
     },
     "447": {
-        "clarity_nt_char_143": "clarity_nt_char_143"
+        "clarity_nt_char_447": "clarity_nt_char_447"
     },
     "448": {
         "<%sL_ACTOR>は　<%sL_TARGET>を見て　くやしがった。": ""
     },
     "449": {
-        "clarity_nt_char_144": "clarity_nt_char_144"
+        "clarity_nt_char_449": "clarity_nt_char_449"
     },
     "450": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　うなずいた。": ""
@@ -1353,7 +1353,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　ふしぎなおどりをした。": ""
     },
     "452": {
-        "clarity_nt_char_145": "clarity_nt_char_145"
+        "clarity_nt_char_452": "clarity_nt_char_452"
     },
     "453": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　ナイスポーズをした。": ""
@@ -1365,7 +1365,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　おねだりした。": " <%sL_ACTOR> begged to <%sL_TARGET>."
     },
     "456": {
-        "clarity_nt_char_146": "clarity_nt_char_146"
+        "clarity_nt_char_456": "clarity_nt_char_456"
     },
     "457": {
         "<%sL_ACTOR>は　<%sL_TARGET>に　サイクロンダンスをした。": "<%sL_ACTOR> did a Cyclone Dance for <%sL_TARGET>."
@@ -1377,7 +1377,7 @@
         "<%sL_ACTOR>は　<%sL_TARGET>に　ドワーフのあいさつをした。": ""
     },
     "460": {
-        "clarity_nt_char_147": "clarity_nt_char_147"
+        "clarity_nt_char_460": "clarity_nt_char_460"
     },
     "461": {
         "パルプンテ": "Hocus Pocus"
@@ -1389,360 +1389,387 @@
         "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　コインをなげた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e flipped a coin.　→　<%sL_STRING>"
     },
     "464": {
-        "clarity_nt_char_148": "clarity_nt_char_148"
+        "clarity_nt_char_464": "clarity_nt_char_464"
     },
     "465": {
         "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは　カードを引いた。　→　<%sL_STRING>": "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\e drew a card.　→　<%sL_STRING>"
     },
     "466": {
-        "clarity_nt_char_149": "clarity_nt_char_149"
+        "clarity_nt_char_466": "clarity_nt_char_466"
     },
     "467": {
         "スケッチ": "Sketch"
     },
     "468": {
-        "clarity_nt_char_150": "clarity_nt_char_150"
+        "clarity_nt_char_468": "clarity_nt_char_468"
     },
     "469": {
         "超ハッスルダンス": "Super Hustle Dance"
     },
     "470": {
-        "clarity_nt_char_151": "clarity_nt_char_151"
+        "clarity_nt_char_470": "clarity_nt_char_470"
     },
     "471": {
-        "ありがとう！": "Thank You!"
+        "あらまあ": "Oh My!"
     },
     "472": {
-        "clarity_nt_char_152": "clarity_nt_char_152"
+        "clarity_nt_char_472": "clarity_nt_char_472"
     },
     "473": {
-        "こんにちは！": "Hello!"
+        "ありがとう！": "Thank You!"
     },
     "474": {
-        "clarity_nt_char_153": "clarity_nt_char_153"
+        "clarity_nt_char_474": "clarity_nt_char_474"
     },
     "475": {
-        "がんばって！": "Good Luck!"
+        "こんにちは！": "Hello!"
     },
     "476": {
-        "clarity_nt_char_154": "clarity_nt_char_154"
+        "clarity_nt_char_476": "clarity_nt_char_476"
     },
     "477": {
-        "おめでとう！": "Congratulations!"
+        "がんばって！": "Good Luck!"
     },
     "478": {
-        "clarity_nt_char_155": "clarity_nt_char_155"
+        "clarity_nt_char_478": "clarity_nt_char_478"
     },
     "479": {
-        "どういたしまして": "You're Welcome."
+        "おめでとう！": "Congratulations!"
     },
     "480": {
-        "clarity_nt_char_156": "clarity_nt_char_156"
+        "clarity_nt_char_480": "clarity_nt_char_480"
     },
     "481": {
-        "よろしくお願いします": "Nice to meet you!"
+        "どういたしまして": "You're Welcome."
     },
     "482": {
-        "clarity_nt_char_157": "clarity_nt_char_157"
+        "clarity_nt_char_482": "clarity_nt_char_482"
     },
     "483": {
-        "おつかれさまでした": "Thanks for your hard work."
+        "よろしくお願いします": "Nice to meet you!"
     },
     "484": {
-        "ごめんなさい": "Decline"
+        "clarity_nt_char_484": "clarity_nt_char_484"
     },
     "485": {
-        "clarity_nt_char_158": "clarity_nt_char_158"
+        "おつかれさまでした": "Thanks for your hard work."
     },
     "486": {
-        "準備ＯＫ？": "Are you ready?"
+        "ごめんなさい": "Decline"
     },
     "487": {
-        "ＯＫ！": "OK!"
+        "clarity_nt_char_487": "clarity_nt_char_487"
     },
     "488": {
-        "ちょっと待って": "Wait a moment!"
+        "準備ＯＫ？": "Are you ready?"
     },
     "489": {
-        "こっちこっち！": "Over here!"
+        "ＯＫ！": "OK!"
     },
     "490": {
-        "パーティ組みませんか": "I won't join the party."
+        "ちょっと待って": "Wait a moment!"
     },
     "491": {
-        "clarity_nt_char_159": "clarity_nt_char_159"
+        "こっちこっち！": "Over here!"
     },
     "492": {
-        "今日はもう終わります": "I'm done for the day."
+        "パーティ組みませんか": "I won't join the party."
     },
     "493": {
-        "clarity_nt_char_160": "clarity_nt_char_160"
+        "clarity_nt_char_493": "clarity_nt_char_493"
     },
     "494": {
-        "道に迷いました……": "I got lost...…"
+        "今日はもう終わります": "I'm done for the day."
     },
     "495": {
-        "ドンマイ": "Never mind."
+        "clarity_nt_char_495": "clarity_nt_char_495"
     },
     "496": {
-        "clarity_nt_char_161": "clarity_nt_char_161"
+        "道に迷いました……": "I got lost...…"
     },
     "497": {
-        "離席します": "I'm Leaving."
+        "ドンマイ": "Never mind."
     },
     "498": {
-        "お待たせしました": "Thanks for waiting!"
+        "clarity_nt_char_498": "clarity_nt_char_498"
     },
     "499": {
-        "clarity_nt_char_162": "clarity_nt_char_162"
+        "離席します": "I'm Leaving."
     },
     "500": {
-        "おかえり！": "Welcome Home!"
+        "お待たせしました": "Thanks for waiting!"
     },
     "501": {
-        "いいね！": "Nice!"
+        "clarity_nt_char_501": "clarity_nt_char_501"
     },
     "502": {
-        "clarity_nt_char_163": "clarity_nt_char_163"
+        "おかえり！": "Welcome Home!"
     },
     "503": {
-        "やったー！": "Yay!"
+        "いいね！": "Nice!"
     },
     "504": {
-        "まちがえました": "I made a mistake."
+        "clarity_nt_char_504": "clarity_nt_char_504"
     },
     "505": {
-        "あっはっは！": "Ahaha!"
+        "やったー！": "Yay!"
     },
     "506": {
-        "clarity_nt_char_164": "clarity_nt_char_164"
+        "まちがえました": "I made a mistake."
     },
     "507": {
-        "！": "!"
+        "あっはっは！": "Ahaha!"
     },
     "508": {
-        "？": "?"
+        "clarity_nt_char_508": "clarity_nt_char_508"
     },
     "509": {
-        "てれるなあ": "Embarrassed"
+        "！": "!"
     },
     "510": {
-        "おいのり": "Prayer"
+        "？": "?"
     },
     "511": {
-        "clarity_nt_char_165": "clarity_nt_char_165"
+        "てれるなあ": "Embarrassed"
     },
     "512": {
-        "座って休もう": "Sit and Rest"
+        "おいのり": "Prayer"
     },
     "513": {
-        "clarity_nt_char_166": "clarity_nt_char_166"
+        "clarity_nt_char_513": "clarity_nt_char_513"
     },
     "514": {
-        "ダイス！": "Dice!"
+        "座って休もう": "Sit and Rest"
     },
     "515": {
-        "clarity_nt_char_167": "clarity_nt_char_167"
+        "clarity_nt_char_515": "clarity_nt_char_515"
     },
     "516": {
-        "逃げよう！": "Let's Run Away!"
+        "ダイス！": "Dice!"
     },
     "517": {
-        "集中攻撃で！": "Focus Your Attack!"
+        "clarity_nt_char_517": "clarity_nt_char_517"
     },
     "518": {
-        "clarity_nt_char_168": "clarity_nt_char_168"
+        "逃げよう！": "Let's Run Away!"
     },
     "519": {
-        "応援お願いします！": "Help me please!"
+        "集中攻撃で！": "Focus Your Attack!"
     },
     "520": {
-        "ピンチです！": "I'm in a pinch!"
+        "clarity_nt_char_520": "clarity_nt_char_520"
     },
     "521": {
-        "clarity_nt_char_169": "clarity_nt_char_169"
+        "応援お願いします！": "Help me please!"
     },
     "522": {
-        "ＭＰなくなりそう！": "I'm losing MP!"
+        "ピンチです！": "I'm in a pinch!"
     },
     "523": {
-        "強化お願いします！": "Please strengthen!"
+        "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "524": {
-        "弱体お願いします！": "Please weaken!"
+        "ＭＰなくなりそう！": "I'm losing MP!"
     },
     "525": {
-        "敵の動きを止めて！": "Stop enemy movement!"
+        "強化お願いします！": "Please strengthen!"
     },
     "526": {
-        "敵から離れて！": "Stay away from enemy!"
+        "弱体お願いします！": "Please weaken!"
     },
     "527": {
-        "集まって！": "Gather Around!"
+        "敵の動きを止めて！": "Stop enemy movement!"
     },
     "528": {
-        "<%nL_VALUE>！": "<%nL_VALUE>!"
+        "敵から離れて！": "Stay away from enemy!"
     },
     "529": {
-        "clarity_nt_char_170": "clarity_nt_char_170"
+        "集まって！": "Gather Around!"
     },
     "530": {
-        "おもて": "Heads"
+        "<%nL_VALUE>！": "<%nL_VALUE>!"
     },
     "531": {
-        "うら": "Tails"
+        "clarity_nt_char_531": "clarity_nt_char_531"
     },
     "532": {
-        "clarity_nt_char_171": "clarity_nt_char_171"
+        "おもて": "Heads"
     },
     "533": {
-        "スペードの<%sL_STRING>": "<%sL_STRING> of Spades"
+        "うら": "Tails"
     },
     "534": {
-        "ハートの<%sL_STRING>": "<%sL_STRING> of Hearts"
+        "clarity_nt_char_534": "clarity_nt_char_534"
     },
     "535": {
-        "clarity_nt_char_172": "clarity_nt_char_172"
+        "スペードの<%sL_STRING>": "<%sL_STRING> of Spades"
     },
     "536": {
-        "ダイヤの<%sL_STRING>": "<%sL_STRING> of Diamonds"
+        "ハートの<%sL_STRING>": "<%sL_STRING> of Hearts"
     },
     "537": {
-        "clarity_nt_char_173": "clarity_nt_char_173"
+        "clarity_nt_char_537": "clarity_nt_char_537"
     },
     "538": {
-        "クローバーの<%sL_STRING>": "<%sL_STRING> of Clubs"
+        "ダイヤの<%sL_STRING>": "<%sL_STRING> of Diamonds"
     },
     "539": {
-        "clarity_nt_char_174": "clarity_nt_char_174"
+        "clarity_nt_char_539": "clarity_nt_char_539"
     },
     "540": {
-        "スペードの<%nL_VALUE>": "<%nL_VALUE> of Spades"
+        "クローバーの<%sL_STRING>": "<%sL_STRING> of Clubs"
     },
     "541": {
-        "clarity_nt_char_175": "clarity_nt_char_175"
+        "clarity_nt_char_541": "clarity_nt_char_541"
     },
     "542": {
-        "ハートの<%nL_VALUE>": "<%nL_VALUE> of Hearts"
+        "スペードの<%nL_VALUE>": "<%nL_VALUE> of Spades"
     },
     "543": {
-        "ダイヤの<%nL_VALUE>": "<%nL_VALUE> of Diamonds"
+        "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
+        "ハートの<%nL_VALUE>": "<%nL_VALUE> of Hearts"
     },
     "545": {
-        "Ａ": "A"
+        "ダイヤの<%nL_VALUE>": "<%nL_VALUE> of Diamonds"
     },
     "546": {
-        "Ｊ": "J"
+        "クローバーの<%nL_VALUE>": "<%nL_VALUE> of Clubs"
     },
     "547": {
-        "Ｑ": "Q"
+        "Ａ": "A"
     },
     "548": {
-        "Ｋ": "K"
+        "Ｊ": "J"
     },
     "549": {
-        "ジョーカー": "Joker"
+        "Ｑ": "Q"
     },
     "550": {
-        "グー": "Rock"
+        "Ｋ": "K"
     },
     "551": {
-        "clarity_nt_char_176": "clarity_nt_char_176"
+        "ジョーカー": "Joker"
     },
     "552": {
-        "チョキ": "Scissors"
+        "グー": "Rock"
     },
     "553": {
-        "パー": "Paper"
+        "clarity_nt_char_553": "clarity_nt_char_553"
     },
     "554": {
-        "clarity_nt_char_177": "clarity_nt_char_177"
+        "チョキ": "Scissors"
     },
     "555": {
-        "ヨッ！": "Yo!"
+        "パー": "Paper"
     },
     "556": {
-        "演奏オカリナ": "Play Ocarina"
+        "clarity_nt_char_556": "clarity_nt_char_556"
     },
     "557": {
-        "clarity_nt_char_178": "clarity_nt_char_178"
+        "ヨッ！": "Yo!"
     },
     "558": {
-        "カンパイ！": "Cheers!"
+        "演奏オカリナ": "Play Ocarina"
     },
     "559": {
-        "ゴールデンライト緑": "Golden Light (Green)"
+        "clarity_nt_char_559": "clarity_nt_char_559"
     },
     "560": {
-        "いねむり": "Nodding Off"
+        "シグナルウィング": ""
     },
     "561": {
-        "clarity_nt_char_179": "clarity_nt_char_179"
+        "clarity_nt_char_561": "clarity_nt_char_561"
     },
     "562": {
-        "おそうじ": "Cleaning"
+        "にゃにゃん": "Meow"
     },
     "563": {
-        "clarity_nt_char_180": "clarity_nt_char_180"
+        "ブレイク": "Break"
     },
     "564": {
-        "イスに座る": "Sit in a Chair"
+        "clarity_nt_char_564": "clarity_nt_char_564"
     },
     "565": {
-        "ネタ「そうめん」": "Noodles Trick"
+        "ブレイクカップ": "Break Cup"
     },
     "566": {
-        "clarity_nt_char_181": "clarity_nt_char_181"
+        "ブレイクソーダ": "Break Soda"
     },
     "567": {
-        "リベリオダンス": "Rebelio Dance"
+        "カンパイ！": "Cheers!"
     },
     "568": {
-        "チアダンス": "Cheerleader"
+        "ゴールデンライト緑": "Golden Light (Green)"
     },
     "569": {
-        "ネオンライト緑": "Neon Light (Green)"
+        "いねむり": "Nodding Off"
     },
     "570": {
-        "大テレ": "Very Shy"
+        "clarity_nt_char_570": "clarity_nt_char_570"
     },
     "571": {
-        "ネタ「Ｖロン」": "Vron Trick"
+        "おそうじ": "Cleaning"
     },
     "572": {
-        "ジュエルシャワー": "Jewel Shower"
+        "clarity_nt_char_572": "clarity_nt_char_572"
     },
     "573": {
-        "clarity_nt_char_182": "clarity_nt_char_182"
+        "イスに座る": "Sit in a Chair"
     },
     "574": {
-        "×を描く": "Draw an X"
+        "ネタ「そうめん」": "Noodles Trick"
     },
     "575": {
-        "ピーヒャラ笛": "Paper Whistle"
+        "clarity_nt_char_575": "clarity_nt_char_575"
     },
     "576": {
-        "clarity_nt_char_183": "clarity_nt_char_183"
+        "リベリオダンス": "Rebelio Dance"
     },
     "577": {
-        "ネオンスピカ黄": "Neon Spica (Yellow)"
+        "チアダンス": "Cheerleader"
     },
     "578": {
-        "ネタ「きのこ」": "Mushroom Trick"
+        "ネオンライト緑": "Neon Light (Green)"
     },
     "579": {
-        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": ""
+        "大テレ": "Very Shy"
     },
     "580": {
-        "clarity_nt_char_184": "clarity_nt_char_184"
+        "ネタ「Ｖロン」": "Vron Trick"
     },
     "581": {
-        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": ""
+        "ジュエルシャワー": "Jewel Shower"
     },
     "582": {
+        "clarity_nt_char_582": "clarity_nt_char_582"
+    },
+    "583": {
+        "×を描く": "Draw an X"
+    },
+    "584": {
+        "ピーヒャラ笛": "Paper Whistle"
+    },
+    "585": {
+        "clarity_nt_char_585": "clarity_nt_char_585"
+    },
+    "586": {
+        "ネオンスピカ黄": "Neon Spica (Yellow)"
+    },
+    "587": {
+        "ネタ「きのこ」": "Mushroom Trick"
+    },
+    "588": {
+        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは グーを出した。": ""
+    },
+    "589": {
+        "clarity_nt_char_589": "clarity_nt_char_589"
+    },
+    "590": {
+        "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは チョキを出した。": ""
+    },
+    "591": {
         "\\s<%sL_ACTOR>\\m<%sL_ACTOR_ID>\\eは パーを出した。": ""
     }
 }

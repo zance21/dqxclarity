@@ -1,24 +1,34 @@
 SHELL=cmd
 
 build:
-	python setup.py
+	make clean
+	mkdir .\build\dqxclarity
+	copy .\requirements.txt .\build\dqxclarity\requirements.txt
+	xcopy app .\build\dqxclarity /s /e /h /i
+	-rd /s/q .\build\dqxclarity\json
+	xcopy .\json\_lang\en .\build\dqxclarity\json\_lang\en /s /e /h /i
+	-rmdir /s /q .\build\dqxclarity\__pycache__
+	-rmdir /s /q .\build\dqxclarity\api_translate\__pycache__
+	-rmdir /s /q .\build\dqxclarity\hook_mgmt\__pycache__
+	-rmdir /s /q .\build\dqxclarity\pymem\__pycache__
+	-rmdir /s /q .\build\dqxclarity\pymem\ressources\__pycache__
+	-del /F .\build\dqxclarity\out.log
+	-del /F .\build\dqxclarity\game_text.log
+	-rd /s/q .\build\dqxclarity\new_adhoc_dumps
+	-rmdir /s /q .\build\dqxclarity\new_adhoc_dumps
+	-rmdir /s /q .\build\dqxclarity\game_file_dumps
 
 release:
 	make clean
 	make build
-	move dist\dqxclarity.exe .
-	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip -r json/_lang/en json/_lang/ja dqxclarity.exe hex_dict.csv
-	python calculate_sha.py
+	-del /F ".\build\dqxclarity\user_settings.ini"
+	"C:\Program Files\7-Zip\7z.exe" a -tzip dqxclarity.zip .\build\dqxclarity
 
 lint:
-	pylint --rcfile=.pylintrc setup.py
-	pylint --rcfile=.pylintrc main.py
-	pylint --rcfile=.pylintrc clarity.py
+	pylint --rcfile=.pylintrc app/
 
 clean:
 	if exist "build\" rd /s/q "build\"
 	if exist "dist\" rd /s/q "dist\"
-	if exist "game_file_dumps\" rd /s/q "game_file_dumps\"
-	if exist "dqxclarity.spec" del /F "dqxclarity.spec"
+	if exist "app\game_file_dumps\" rd /s/q "app\game_file_dumps\"
 	if exist "dqxclarity.zip" del /F "dqxclarity.zip"
-	if exist "dqxclarity.exe" del /F "dqxclarity.exe"

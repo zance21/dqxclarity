@@ -210,16 +210,16 @@
         "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておきました。<bw_break>": ""
     },
     "71": {
-        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": ""
+        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
     },
     "72": {
-        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": ""
+        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
     },
     "73": {
-        "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": ""
+        "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": "Understood. Now, place that Zoomstone deep|into your thoughts...|<break>"
     },
     "74": {
-        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": ""
+        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
     },
     "75": {
         "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": ""
@@ -438,25 +438,25 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": ""
     },
     "147": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|Cancel|<select_end><break>"
     },
     "148": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "149": {
-        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますぞ。|　どの場所を覚えさせるかね？<break>": ""
+        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますぞ。|　どの場所を覚えさせるかね？<break>": "<%sL_RULA_POINT> has several locations.|Which location do you want to register?<break>"
     },
     "150": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
     },
     "151": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|Cancel|<select_end><break>"
     },
     "152": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "153": {
-        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": ""
+        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": "<%sL_RULA_POINT>|has several locations that can be registered.|Which location do you want to register?<break>"
     },
     "154": {
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
@@ -468,7 +468,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "157": {
-        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": ""
+        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": "....Me trained as priest. So can be priest.|Say what you need.|<ask><bw_break>"
     },
     "158": {
         "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": ""
@@ -507,7 +507,7 @@
         "「生き返らせる。誰だ？|<break>": ""
     },
     "170": {
-        "「む？　オマエの仲間。|　誰も　毒　やられてない。|<bw_break>": ""
+        "「む？　オマエの仲間。|　誰も　毒　やられてない。|<bw_break>": "Hm? Your friend. They not poisoned.|<bw_break>"
     },
     "171": {
         "「おお　神！|　<pc>の毒　清めろ！<bw_break>": ""
@@ -531,10 +531,10 @@
         "「……なら　<%nL_DOKU_GOLD>ゴールド|　寄付よこせ。いいか？|<yesno><break>": ""
     },
     "178": {
-        "「むむ……。オマエ　お金　足りてない。|<bw_break>": ""
+        "「むむ……。オマエ　お金　足りてない。|<bw_break>": "Umm... You not have enough Gold.|<bw_break>"
     },
     "179": {
-        "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": ""
+        "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": "....Almighty One watching you. Come again.<turn_end>"
     },
     "180": {
         "「……オマエの仲間。誰も　死んでない。|<bw_break>": ""
@@ -606,7 +606,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
     },
     "203": {
-        "「……やめるか。|　他に　用事あるか？|<break>": ""
+        "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
     },
     "204": {
         "「……冒険　続けるか。|　他に　用事あるか？<break>": ""
@@ -624,7 +624,7 @@
         "「……記録した。|<br>|「まだ　冒険　続けるか？|<yesno><break>": ""
     },
     "209": {
-        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": ""
+        "「……オレ　神父の修行した。|　だから　神父できる。|　オマエ　用事　言え。|<ask><bw_break>": "....Me trained as priest. So can be priest.|Say what you need.|<ask><bw_break>"
     },
     "210": {
         "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": ""
@@ -687,10 +687,10 @@
         "「……なら　<%nL_DOKU_GOLD>ゴールド|　寄付よこせ。いいか？|<yesno><break>": ""
     },
     "230": {
-        "「むむ……。オマエ　お金　足りてない。|<bw_break>": ""
+        "「むむ……。オマエ　お金　足りてない。|<bw_break>": "Umm... You not have enough Gold.|<bw_break>"
     },
     "231": {
-        "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": ""
+        "「……神。オマエ　ずっと見てる。|　また　来い。<turn_end>": "....Almighty One watching you. Come again.<turn_end>"
     },
     "232": {
         "「……オマエの仲間。誰も　死んでない。|<bw_break>": ""
@@ -759,10 +759,10 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""
     },
     "254": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "255": {
-        "「……やめるか。|　他に　用事あるか？|<break>": ""
+        "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
     },
     "256": {
         "「……冒険　続けるか。|　他に　用事あるか？<break>": ""
@@ -891,19 +891,19 @@
         "「種族が　変わったことで|　装備できなくなった　武器や防具は|　はずしておきました。<bw_break>": ""
     },
     "298": {
-        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": ""
+        "「<%sL_RULA_POINT>には|　いくつかの　行き先がありますわ。|　どの場所を覚えさせますか？<break>": "<%sL_RULA_POINT>|has several locations that can be registered.|Which location do you want to register?<break>"
     },
     "299": {
-        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": ""
+        "「そのルーラストーンの記憶する場所は|　<%sM_rurastone><%sM_dot><%sM_sub>になりました。|　他に　ご用はありますか？|<break>": "This Zoomstone is now currently registered to|<%sM_rurastone><%sM_dot><%sM_sub>.|Is there anything else I can do for you?|<break>"
     },
     "300": {
         "「あら　それは　記憶された場所を|　変えることが　できないようですね。|　別の石を　お選びください。|<break>": ""
     },
     "301": {
-        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": ""
+        "「あら？　あなたはもう|　この場所が記憶された　ルーラストーンを|　お持ちのようですわ。|<bw_break>": "Hm? It seems you already have a Zoomstone|that has this location registered.|<bw_break>"
     },
     "302": {
-        "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": ""
+        "「かしこまりました。|　では　そのルーラストーンに|　念じてください……。|<break>": "Understood. Now, place that Zoomstone deep|into your thoughts...|<break>"
     },
     "303": {
         "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": ""
@@ -918,7 +918,7 @@
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": ""
     },
     "307": {
-        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": ""
+        "「おやめになるのですね。|　他に　ご用はありますか？|<break>": "Changed your mind, hm? Is there anything else|I can help you with?|<break>"
     },
     "308": {
         "「冒険を続けるのですね。|　では　他に ご用はありますか？<break>": ""
@@ -1065,7 +1065,7 @@
         "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": ""
     },
     "356": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": ""
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
     },
     "357": {
         "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": ""

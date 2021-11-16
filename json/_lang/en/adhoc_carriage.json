@@ -1,6 +1,6 @@
 {
     "1": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you don't meet any of the conditions.|<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "2": {
         "「お乗りに　なりませんか。|　ではまた　別の機会に　ご利用くださいませ。": ""
@@ -15,28 +15,28 @@
         "「そうですか。それは残念でございます。|　ではまた　別の機会に　ご利用くださいませ。": ""
     },
     "6": {
-        "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<break>": ""
+        "「ただし　送るのみで　迎えにはあがれません。|　それでも　よろしければ|　どこまで乗って行かれますか？|<break>": "However, I can only drop you off and that's|it. How far do you want to go?|<break>"
     },
     "7": {
-        "「<%sL_TIMEI>まで|　行かれるのですね。|　<%nL_GOLD>ゴールドになりますが　よろしいですか？|<yesno><break>": ""
+        "「<%sL_TIMEI>まで|　行かれるのですね。|　<%nL_GOLD>ゴールドになりますが　よろしいですか？|<yesno><break>": "You want to go to <%sL_TIMEI>?|That will be <%dL_GOLD> Gold, is that okay?|<yesno><break>"
     },
     "8": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": ""
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "9": {
-        "「そうか……。": ""
+        "「そうか……。": "I see...."
     },
     "10": {
-        "「……まいど。|　……行く！": ""
+        "「……まいど。|　……行く！": "...Thanks again. Let's go!"
     },
     "11": {
-        "「…………。|　お金……足りない。": ""
+        "「…………。|　お金……足りない。": "..............|You don't....have enough money."
     },
     "12": {
-        "「そうか……。残念だ。": ""
+        "「そうか……。残念だ。": "I see..... too bad."
     },
     "13": {
-        "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<break>": ""
+        "「……送るだけ。迎えには行けない……。|　それでいいなら……どこ行く？|<break>": "...I only drop off. I don't do pick ups...|With that in mind....where do you want to go?|<break>"
     },
     "14": {
         "「<%sL_TIMEI>|　行く。|　<%nL_GOLD>ゴールドかかる……いい？|<yesno><break>": ""
