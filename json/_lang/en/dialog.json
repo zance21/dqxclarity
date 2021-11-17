@@ -4281,7 +4281,7 @@
         "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": "<speed=0>Do you want to stay and fight|the same boss again?|<select>|Leave|Stay|<select_end>|<close>"
     },
     "1428": {
-        "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": ""
+        "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": "<speed=0>Cancel leaving this map?<yesno 2><close>"
     },
     "1429": {
         "<speed=0>このマップから出て　元の場所に|戻って　よいですか？<yesno><close>": "<speed=0>Do you want to leave this place?<yesno><close>"
@@ -4299,19 +4299,19 @@
         "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": "<speed=0>|Your Photo Album is full. If you save this|photo, the oldest photo will be overwritten.|Is this okay?|<yesno><close>"
     },
     "1434": {
-        "<speed=0>|写真の保存を　中断しますか？|<color_yellow>※保存を中断すると　写真が保存されない|可能性があります。<yesno2><close>": ""
+        "<speed=0>|写真の保存を　中断しますか？|<color_yellow>※保存を中断すると　写真が保存されない|可能性があります。<yesno2><close>": "<speed=0>|Stop the saving of this photo?|<color_yellow>※If you stop saving, the photo may not be|saved.<yesno2><close>"
     },
     "1435": {
-        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": ""
+        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "<speed=0>|Failed to save to Photo Album.|Error Code: <%sERRID>"
     },
     "1436": {
-        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": ""
+        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": "<speed=0>|Saving photo to the Photo Album.|Please wait a moment.<break>"
     },
     "1437": {
         "clarity_nt_char_1437": "clarity_nt_char_1437"
     },
     "1438": {
-        "<speed=0>|写真の保存を　中断しました。": ""
+        "<speed=0>|写真の保存を　中断しました。": "<speed=0>|Photo saving was interrupted."
     },
     "1439": {
         "clarity_nt_char_1439": "clarity_nt_char_1439"
