@@ -3663,22 +3663,22 @@
         "<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party on standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1222": {
-        "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1223": {
         "clarity_nt_char_1223": "clarity_nt_char_1223"
     },
     "1224": {
-        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party on|standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1225": {
-        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1226": {
         "clarity_nt_char_1226": "clarity_nt_char_1226"
     },
     "1227": {
-        "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> became a companion|and was sent to the Monster Tavern!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1228": {
         "clarity_nt_char_1228": "clarity_nt_char_1228"
@@ -4710,13 +4710,13 @@
         "clarity_nt_char_1570": "clarity_nt_char_1570"
     },
     "1571": {
-        "この場所だと　天井に　アタマをぶつけそうだ。": ""
+        "この場所だと　天井に　アタマをぶつけそうだ。": "You're bound to hit your head on the ceiling|here."
     },
     "1572": {
         "clarity_nt_char_1572": "clarity_nt_char_1572"
     },
     "1573": {
-        "所属している|チーム全員を|非表示にします": ""
+        "所属している|チーム全員を|非表示にします": "Hide all Teams|that you|belong to."
     },
     "1574": {
         "サポート仲間や|仲間モンスターを|非表示にします": "Hide support|party and|fellow monsters."
@@ -4725,7 +4725,7 @@
         "clarity_nt_char_1575": "clarity_nt_char_1575"
     },
     "1576": {
-        "いま組んでいる|パーティを|非表示にします": ""
+        "いま組んでいる|パーティを|非表示にします": "Hides the party|you are|currently in."
     },
     "1577": {
         "他の冒険者を|非表示にします": "Hides other|players."
