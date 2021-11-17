@@ -27,7 +27,7 @@
         "まだ　仲間モンスターを　スカウトしていません。|<end>": "You have not scouted any monsters yet.|<end>"
     },
     "10": {
-        "<%sL_MONSTERNAME>の　すごしかたを|『お庭でのんびり』に変更しました！|<end>": ""
+        "<%sL_MONSTERNAME>の　すごしかたを|『お庭でのんびり』に変更しました！|<end>": "<%sL_MONSTERNAME> will spend its time|relaxing here!|<end>"
     },
     "11": {
         "<%sL_MONSTERNAME>は　近所をおさんぽ中です。|モンスターのおうちに　戻しますか？|<yesno><break>": ""
@@ -48,7 +48,7 @@
         "なんと　<%sL_MONSTERNAME>が|あなたへのおくりものを　置いてくれたようです！|おくりものを　受け取りますか？|<yesno><break>": ""
     },
     "17": {
-        "<%sL_MONSTERNAME>を|どのように　すごさせますか？|<select_se_off>|お庭でのんびり|おさんぽさせる|<select_end><break>": ""
+        "<%sL_MONSTERNAME>を|どのように　すごさせますか？|<select_se_off>|お庭でのんびり|おさんぽさせる|<select_end><break>": "How you like <%sL_MONSTERNAME> to spend|their time?|<select_se_off>|Relax Here|Wander Around|<select_end><break>"
     },
     "18": {
         "<%sL_MONSTERNAME>を　ひっこめますか？|<%sL_MONSTERNAME>を　パーティに入れている時は|うしろについてくる状態に　もどります。|<yesno><break>": ""
