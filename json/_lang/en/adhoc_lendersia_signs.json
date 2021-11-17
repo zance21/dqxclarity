@@ -1,6 +1,6 @@
 {
     "1": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the sign.|But you're standing on the wrong side!"
     },
     "2": {
         "<left>←エテーネの村": ""
@@ -33,10 +33,10 @@
         "<left>←ポルネア山　ふもと": ""
     },
     "12": {
-        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
     },
     "13": {
-        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": ""
+        "<left>駆け込み乗車は　たいへん危険です。|<left>くれぐれも　おやめください。": "<left>It's very dangerous to rush on the train|<left>before the door closes.|<left>Please don't do this."
     },
     "14": {
         "<right>いしずえの森→|<center>エテーネの村↓": ""
@@ -54,22 +54,22 @@
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "19": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "20": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "21": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "22": {
-        "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": ""
+        "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "23": {
         "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "24": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "25": {
         "<left>ギルド総本山の　看板だ。": ""
@@ -78,28 +78,28 @@
         "<left>ハウジングエリアの　看板だ。": ""
     },
     "27": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "28": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "29": {
         "<left>錬金術師の家の　看板だ。": ""
     },
     "30": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "31": {
         "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "32": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "33": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "34": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "35": {
         "<left>裁縫設備の　看板だ。": ""
@@ -108,31 +108,31 @@
         "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "37": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "38": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "39": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "40": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "41": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "42": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "43": {
         "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "44": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "45": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "46": {
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
@@ -141,19 +141,19 @@
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "48": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "49": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "50": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "51": {
         "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "52": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "53": {
         "<left>ギルド総本山の　看板だ。": ""
@@ -162,61 +162,61 @@
         "<left>ハウジングエリアの　看板だ。": ""
     },
     "55": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "56": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "57": {
         "<left>錬金術師の家の　看板だ。": ""
     },
     "58": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "59": {
         "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "60": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "61": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "62": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "63": {
-        "<left>さいほう設備の　看板だ。": ""
+        "<left>さいほう設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "64": {
         "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "65": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "66": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "67": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "68": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "69": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "70": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "71": {
         "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "72": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "73": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "74": {
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
@@ -234,7 +234,7 @@
         "<left>この先　未踏の地。|<left>エテーネの民は　決して入るべからず。": ""
     },
     "79": {
-        "こちらは　裏側だ。|<end>": ""
+        "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "80": {
         "いい素材を見つけたのに　かばんが　いっぱい！|そんな　切ない思いをする前に|ぜひ　預かり所を　ご利用ください。": ""

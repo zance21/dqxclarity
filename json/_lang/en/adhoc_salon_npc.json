@@ -108,7 +108,7 @@
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "37": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different hair color. |<end>"
     },
     "38": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
@@ -120,19 +120,19 @@
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "41": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different hair color. |<end>"
     },
     "42": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "43": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different hair color. |<end>"
     },
     "44": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "45": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のヘアカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different hair color. |<end>"
     },
     "46": {
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
@@ -159,28 +159,28 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "54": {
-        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": ""
+        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": "So imagine your new self and choose|what you want to be. |<end>"
     },
     "55": {
-        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": ""
+        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": "I'll give it to you!|I'll give you a nice makeover. ♪|<end>"
     },
     "56": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "57": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "58": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "59": {
-        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": ""
+        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": "Then again, imagine what you|want to be and make your choice.|<end>"
     },
     "60": {
-        "「あら？　やめちゃうのかしら？|<yesno><break>": ""
+        "「あら？　やめちゃうのかしら？|<yesno><break>": "What? Are you quitting?|<yesno><break>"
     },
     "61": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "62": {
         "「あら？　これじゃあ|　もとの姿と　おんなじじゃない！|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "What?|You look exactly the same as you did before!|Will you please choose what you want again?|<end>"
@@ -192,28 +192,28 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "65": {
-        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": ""
+        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": "So imagine your new self and choose|what you want to be. |<end>"
     },
     "66": {
-        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": ""
+        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": "I'll give it to you!|I'll give you a nice makeover. ♪|<end>"
     },
     "67": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "68": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "69": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "70": {
-        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": ""
+        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": "Then again, imagine what you|want to be and make your choice.|<end>"
     },
     "71": {
-        "「あら？　やめちゃうのかしら？|<yesno><break>": ""
+        "「あら？　やめちゃうのかしら？|<yesno><break>": "What? Are you quitting?|<yesno><break>"
     },
     "72": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "73": {
         "「あら？　これじゃあ|　もとの姿と　おんなじじゃない！|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "What?|You look exactly the same as you did before!|Will you please choose what you want again?|<end>"
@@ -225,28 +225,28 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "76": {
-        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": ""
+        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": "So imagine your new self and choose|what you want to be. |<end>"
     },
     "77": {
-        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": ""
+        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": "I'll give it to you!|I'll give you a nice makeover. ♪|<end>"
     },
     "78": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "79": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "80": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "81": {
-        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": ""
+        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": "Then again, imagine what you|want to be and make your choice.|<end>"
     },
     "82": {
-        "「あら？　やめちゃうのかしら？|<yesno><break>": ""
+        "「あら？　やめちゃうのかしら？|<yesno><break>": "What? Are you quitting?|<yesno><break>"
     },
     "83": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "84": {
         "「あら？　これじゃあ|　もとの姿と　おんなじじゃない！|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "What?|You look exactly the same as you did before!|Will you please choose what you want again?|<end>"
@@ -258,28 +258,28 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "87": {
-        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": ""
+        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": "So imagine your new self and choose|what you want to be. |<end>"
     },
     "88": {
-        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": ""
+        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": "I'll give it to you!|I'll give you a nice makeover. ♪|<end>"
     },
     "89": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "90": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "91": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "92": {
-        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": ""
+        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": "Then again, imagine what you|want to be and make your choice.|<end>"
     },
     "93": {
-        "「あら？　やめちゃうのかしら？|<yesno><break>": ""
+        "「あら？　やめちゃうのかしら？|<yesno><break>": "What? Are you quitting?|<yesno><break>"
     },
     "94": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "95": {
         "「あら？　これじゃあ|　もとの姿と　おんなじじゃない！|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "What?|You look exactly the same as you did before!|Will you please choose what you want again?|<end>"
@@ -291,133 +291,133 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "98": {
-        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": ""
+        "「それじゃあ　新しい自分を　イメージして|　なりたい姿を　選んでね。|<end>": "So imagine your new self and choose|what you want to be. |<end>"
     },
     "99": {
-        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": ""
+        "「オッケー　まかせてっ！|　ステキに　イメチェンしてあげる♪|<end>": "I'll give it to you!|I'll give you a nice makeover. ♪|<end>"
     },
     "100": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "101": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "102": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "103": {
-        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": ""
+        "「それじゃあ　もう一度|　なりたい姿を　イメージして選んでね。|<end>": "Then again, imagine what you|want to be and make your choice.|<end>"
     },
     "104": {
-        "「あら？　やめちゃうのかしら？|<yesno><break>": ""
+        "「あら？　やめちゃうのかしら？|<yesno><break>": "What? Are you quitting?|<yesno><break>"
     },
     "105": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "106": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
     },
     "107": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
     },
     "108": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
     },
     "109": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
     },
     "110": {
-        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": ""
+        "「そう　残念ね。|　美容院　サロン・フェリシアは|　いつでも　あなたを待ってるわ。また来てね♪|<end>": "I'm sorry to hear that.|Felicia's Beauty Salon is always waiting for you.|Please come again. ♪|<end>"
     },
     "111": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "112": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "113": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "114": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "115": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "116": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "117": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "118": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "119": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "120": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "121": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "122": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "123": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "124": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "125": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "126": {
-        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.|I'm glad you chose that eye color. ♪|<bw_break>"
     },
     "127": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "128": {
-        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.|I'm glad you chose that eye color. ♪|<bw_break>"
     },
     "129": {
-        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.|I'm glad you chose that eye color. ♪|<bw_break>"
     },
     "130": {
-        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その目の色にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.|I'm glad you chose that eye color. ♪|<bw_break>"
     },
     "131": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "132": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "133": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "134": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "135": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "136": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "137": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Whoo-hoo! By the way, dear customer. ♪|I'd like to announce that we've|started a new service at Salon Felicia Group!|<br>|From now on, you can change your|eyes color at any beauty salon. ♪|<bw_break>"
     },
     "138": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "139": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　目の色を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "140": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<br>|「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "Oh my god! dear customer ♪|We will inform you that we have started|a new service at Salon Felicia Group!|<br>|From now on you can change your hairstyle|at any beauty salon. ♪|If you're sad, let's change your hairstyle. ♪|<bw_break>"
     },
     "141": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -591,7 +591,7 @@
         "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
     },
     "198": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "199": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -603,13 +603,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "202": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "203": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "204": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "205": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -633,7 +633,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "212": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "213": {
         "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": ""
@@ -642,7 +642,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "215": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "216": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -651,10 +651,10 @@
         "「えっと　おやめになりますか？|<yesno><break>": ""
     },
     "218": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "219": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "220": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -663,10 +663,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "222": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "223": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "224": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -681,7 +681,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "228": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "229": {
         "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～。|<end>": ""
@@ -705,7 +705,7 @@
         "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
     },
     "236": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "237": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -717,13 +717,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "240": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "241": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "242": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "243": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -747,7 +747,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "250": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "251": {
         "「それじゃあ　もう一度|　どのような姿がいいか|　イメージして選んでください～。|<end>": ""
@@ -756,7 +756,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "253": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "254": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -765,10 +765,10 @@
         "「えっと　おやめになりますか？|<yesno><break>": ""
     },
     "256": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "257": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "258": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -777,10 +777,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "260": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "261": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "262": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -795,7 +795,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "266": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "267": {
         "「およー？　これじゃあ|　もとの姿と　同じみたいだぞー。|　もう一度　どんな姿か　選んでくれー。|<end>": ""
@@ -819,7 +819,7 @@
         "「がってんだー。|　今度からは　その姿で|　お仕えさせてもらうなー。|<end>": ""
     },
     "274": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "275": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -831,13 +831,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "278": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "279": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "280": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "281": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -861,7 +861,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "288": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "289": {
         "「それじゃあ　もう一度|　どんな姿がいいか　イメージして選んでくれー。|<end>": ""
@@ -870,7 +870,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "291": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "292": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -879,10 +879,10 @@
         "「およー？　やめちゃうのー？|<yesno><break>": ""
     },
     "294": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "295": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "296": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -891,10 +891,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "298": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "299": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "300": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -909,7 +909,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "304": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "305": {
         "「<%sM_OWNER><%sM_SAMA>。これでは|　もとの姿と　同じのようなのです。|　もう一度　どんな姿か　お選びください。|<end>": ""
@@ -933,7 +933,7 @@
         "「承知いたしました。|　今度からは　こちらの姿にて|　お仕えいたしますね。|<end>": ""
     },
     "312": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "313": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -945,13 +945,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "316": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "317": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "318": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "319": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -975,7 +975,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "326": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "327": {
         "「では　もう一度|　どのような姿がいいか　イメージして|　お選びくださいね。|<end>": ""
@@ -984,7 +984,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "329": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "330": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -993,10 +993,10 @@
         "「おやめになりますか？|<yesno><break>": ""
     },
     "332": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "333": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "334": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -1005,10 +1005,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "336": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "337": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "338": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -1023,7 +1023,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "342": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "343": {
         "「ん？　これじゃ|　もとの姿と　おんなじだぜ。|　もう一度　どんな姿か　選べよ。|<end>": ""
@@ -1047,7 +1047,7 @@
         "「はいはい。|　じゃあ　今度からそうしとくから。|<end>": ""
     },
     "350": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "351": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -1059,13 +1059,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "354": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "355": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "356": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "357": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -1089,7 +1089,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "364": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "365": {
         "「それじゃ　もう一度|　どんな姿がいいか　選べよ。|<end>": ""
@@ -1098,7 +1098,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "367": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "368": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -1107,10 +1107,10 @@
         "「ん？　やめるのか？|<yesno><break>": ""
     },
     "370": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "371": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "372": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -1119,10 +1119,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "374": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "375": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "376": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -1137,7 +1137,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "380": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "381": {
         "「あら？　これじゃあ|　もとの姿と　同じみたいよ。|　もう一度　どんな姿か　選んでくれる？|<end>": ""
@@ -1161,7 +1161,7 @@
         "「オッケー　わかったわ。|　今度からは　この姿で|　仕事を　がんばってみるわ。|<end>": ""
     },
     "388": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "389": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -1173,13 +1173,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "392": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "393": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "394": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "395": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -1203,7 +1203,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "402": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "403": {
         "「それじゃあ　もう一度|　どんな姿がいいかを|　イメージして　選んでね。|<end>": ""
@@ -1212,7 +1212,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "405": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "406": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -1221,10 +1221,10 @@
         "「あら？　やめるのかしら？|<yesno><break>": ""
     },
     "408": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "409": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "410": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -1233,10 +1233,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "412": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "413": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "414": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -1251,7 +1251,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "418": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "419": {
         "「あれー？　これじゃあ|　もとの姿と　同じみたいだよー。|　もう一度　どんな姿か　選んでねー。|<end>": ""
@@ -1275,7 +1275,7 @@
         "「がってんよー。|　今度からは　この姿で|　お仕えさせてもらうねー。|<end>": ""
     },
     "426": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "427": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -1287,13 +1287,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "430": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "431": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "432": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "433": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -1317,7 +1317,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "440": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "441": {
         "「それじゃあ　もう一度|　どんな姿がいいか　イメージして選んでねー。|<end>": ""
@@ -1326,7 +1326,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "443": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "444": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -1335,10 +1335,10 @@
         "「あれー？　やめちゃうのー？|<yesno><break>": ""
     },
     "446": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "447": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "448": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -1347,10 +1347,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "450": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "451": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "452": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -1365,7 +1365,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "456": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "457": {
         "「おや？　これじゃあ|　もとの姿と　同じみたいだよ。|　もう一度　どんな姿か　選んでくれる？|<end>": ""
@@ -1389,7 +1389,7 @@
         "「オッケー　わかったよ。|　今度からは　この姿で|　仕事を　がんばってみるよ。|<end>": ""
     },
     "464": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "465": {
         "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": ""
@@ -1401,13 +1401,13 @@
         "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
     },
     "468": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "469": {
         "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": ""
     },
     "470": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "471": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -1431,7 +1431,7 @@
         "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
     },
     "478": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "479": {
         "「それじゃあ　もう一度|　どんな姿がいいかを|　イメージして　選んでくれるかな？|<end>": ""
@@ -1440,7 +1440,7 @@
         "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
     },
     "481": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "482": {
         "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
@@ -1449,10 +1449,10 @@
         "「おや？　やめるのかい？|<yesno><break>": ""
     },
     "484": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "485": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "486": {
         "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
@@ -1461,10 +1461,10 @@
         "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": ""
     },
     "488": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "489": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "490": {
         "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": ""
@@ -1479,7 +1479,7 @@
         "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""
     },
     "494": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "495": {
         "「うん。すっごく素敵！|　そのおおきさ　すっごく可愛いわ♪|<bw_break>": ""
@@ -2436,10 +2436,10 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": ""
     },
     "813": {
-        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": ""
+        "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
     },
     "814": {
-        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": ""
+        "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
     },
     "815": {
         "<pipipi_off><speed=0>|どのような姿がいいか　イメージして|お選びください。|<end>": ""
@@ -2463,16 +2463,16 @@
         "<pipipi_off><speed=0>|それでは　この姿に　変更します。|<end>": ""
     },
     "822": {
-        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": ""
+        "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
     },
     "823": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "824": {
-        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": ""
+        "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
     },
     "825": {
-        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": ""
+        "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
     },
     "826": {
         "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": ""
@@ -2499,19 +2499,19 @@
         "<pipipi_off><speed=0>|『見た目を変える』から　いつでも姿を|変更できます。|<end>": ""
     },
     "834": {
-        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": ""
+        "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it back.|<bw_break>"
     },
     "835": {
-        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": ""
+        "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
     },
     "836": {
-        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": ""
+        "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
     },
     "837": {
-        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
     },
     "838": {
-        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": ""
+        "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
     },
     "839": {
         "「これからは　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": ""

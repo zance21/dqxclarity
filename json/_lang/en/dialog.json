@@ -3612,10 +3612,10 @@
         "<speed=0>つかうものが　いっぱいのため|<%sM_item>を　使うことができません。": ""
     },
     "1205": {
-        "<speed=0>いまは　仲間モンスターを|バトルに参加させることが　できません！": ""
+        "<speed=0>いまは　仲間モンスターを|バトルに参加させることが　できません！": "<speed=0>Your fellow monster cannot participate in|battle right now!"
     },
     "1206": {
-        "<speed=0>いまは　仲間モンスターを|待機中に　変更できません！": ""
+        "<speed=0>いまは　仲間モンスターを|待機中に　変更できません！": "<speed=0>You can't put your fellow monster on|standby right now!"
     },
     "1207": {
         "<speed=0><%sM_target>が装備していた|装備品が　はずれました。": ""

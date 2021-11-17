@@ -11988,22 +11988,22 @@
         "フォーリオン 入口": "Fourion Entry"
     },
     "3997": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>資料館": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>資料館": "<%sW_MAP_NAME><%sW_DELIMITER>Museum"
     },
     "3998": {
         "clarity_nt_char_3998": "clarity_nt_char_3998"
     },
     "3999": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>礼拝所": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>礼拝所": "<%sW_MAP_NAME><%sW_DELIMITER>Chapel"
     },
     "4000": {
         "clarity_nt_char_4000": "clarity_nt_char_4000"
     },
     "4001": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>官舎": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>官舎": "<%sW_MAP_NAME><%sW_DELIMITER>Office"
     },
     "4002": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>回生堂": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>回生堂": "<%sW_MAP_NAME><%sW_DELIMITER>Rest Spot"
     },
     "4003": {
         "clarity_nt_char_4003": "clarity_nt_char_4003"
@@ -12057,7 +12057,7 @@
         "clarity_nt_char_4019": "clarity_nt_char_4019"
     },
     "4020": {
-        "神代の遺構 入口": ""
+        "神代の遺構 入口": "Ancient Remains Entry"
     },
     "4021": {
         "clarity_nt_char_4021": "clarity_nt_char_4021"
@@ -12099,13 +12099,13 @@
         "練習スタジオ 出口": "Practice Studio Exit"
     },
     "4034": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>水望橋": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>水望橋": "<%sW_MAP_NAME><%sW_DELIMITER>Bridge"
     },
     "4035": {
         "clarity_nt_char_4035": "clarity_nt_char_4035"
     },
     "4036": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>入り江の洞くつ": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>入り江の洞くつ": "<%sW_MAP_NAME><%sW_DELIMITER>Cove's Cave"
     },
     "4037": {
         "clarity_nt_char_4037": "clarity_nt_char_4037"
@@ -12186,7 +12186,7 @@
         "clarity_nt_char_4062": "clarity_nt_char_4062"
     },
     "4063": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>ウナギの滝口": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>ウナギの滝口": "<%sW_MAP_NAME><%sW_DELIMITER>Eel's Brink"
     },
     "4064": {
         "滅星の深淵 出口": "Doomsday Abyss Exit"
@@ -12222,7 +12222,7 @@
         "clarity_nt_char_4074": "clarity_nt_char_4074"
     },
     "4075": {
-        "紺碧の試練場": ""
+        "紺碧の試練場": "Azure Trials"
     },
     "4076": {
         "clarity_nt_char_4076": "clarity_nt_char_4076"
@@ -12264,28 +12264,28 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>船長室 出口": "<%sW_MAP_NAME><%sW_DELIMITER>Cpt. Rm. Exit"
     },
     "4089": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>薬師の家": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>薬師の家": "<%sW_MAP_NAME><%sW_DELIMITER>Doctor House"
     },
     "4090": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>紺碧への門": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>紺碧への門": "<%sW_MAP_NAME><%sW_DELIMITER>Azure Gate"
     },
     "4091": {
         "clarity_nt_char_4091": "clarity_nt_char_4091"
     },
     "4092": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>深翠への門": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>深翠への門": "<%sW_MAP_NAME><%sW_DELIMITER>Deep Green Gate"
     },
     "4093": {
         "clarity_nt_char_4093": "clarity_nt_char_4093"
     },
     "4094": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>黄金への門": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>黄金への門": "<%sW_MAP_NAME><%sW_DELIMITER>Golden Gate"
     },
     "4095": {
         "clarity_nt_char_4095": "clarity_nt_char_4095"
     },
     "4096": {
-        "<%sW_MAP_NAME><%sW_DELIMITER>白灰への門": ""
+        "<%sW_MAP_NAME><%sW_DELIMITER>白灰への門": "<%sW_MAP_NAME><%sW_DELIMITER>White Ash Gate"
     },
     "4097": {
         "clarity_nt_char_4097": "clarity_nt_char_4097"
@@ -12342,7 +12342,7 @@
         "clarity_nt_char_4114": "clarity_nt_char_4114"
     },
     "4115": {
-        "そなえの場への道": "Road to Prepare Place"
+        "そなえの場への道": "Road to Provision Area"
     },
     "4116": {
         "clarity_nt_char_4116": "clarity_nt_char_4116"
@@ -12399,7 +12399,7 @@
         "clarity_nt_char_4133": "clarity_nt_char_4133"
     },
     "4134": {
-        "バラークの岩棚 入口": ""
+        "バラークの岩棚 入口": "Barak Ledge Entry"
     },
     "4135": {
         "clarity_nt_char_4135": "clarity_nt_char_4135"
@@ -12414,7 +12414,7 @@
         "clarity_nt_char_4138": "clarity_nt_char_4138"
     },
     "4139": {
-        "バラークの岩棚 出口": ""
+        "バラークの岩棚 出口": "Barak Ledge Exit"
     },
     "4140": {
         "clarity_nt_char_4140": "clarity_nt_char_4140"
@@ -12429,7 +12429,7 @@
         "ルティアナの清泉 出口": ""
     },
     "4144": {
-        "神代の遺構 出口": ""
+        "神代の遺構 出口": "Ancient Remains Exit"
     },
     "4145": {
         "clarity_nt_char_4145": "clarity_nt_char_4145"
