@@ -4743,7 +4743,7 @@
         "<speed=0>週替わりクエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>Weekly quest \"<%sM_Quest1>\" was cancelled."
     },
     "1582": {
-        "<speed=0><%sM_color>は|まだ作成していない！": ""
+        "<speed=0><%sM_color>は|まだ作成していない！": "<speed=0><%sM_color> hasn't been created yet!"
     },
     "1583": {
         "clarity_nt_char_1583": "clarity_nt_char_1583"
@@ -4752,7 +4752,7 @@
         "ダミー": "Dummy"
     },
     "1585": {
-        "<speed=0>ひっさつわざを　覚えていない！": ""
+        "<speed=0>ひっさつわざを　覚えていない！": "<speed=0>You don't know any Special Moves!"
     },
     "1586": {
         "clarity_nt_char_1586": "clarity_nt_char_1586"
@@ -4785,13 +4785,13 @@
         "追加パッケージ「<3rd_title>」が|インストールされていないため|対象マップへの移動に　失敗しました。": "Cannot move to this map due to '<3rd_title>' not being installed."
     },
     "1596": {
-        "<speed=0>ここでは　写真撮影は　できません！": ""
+        "<speed=0>ここでは　写真撮影は　できません！": "<speed=0>You cannot take photos here!"
     },
     "1597": {
         "clarity_nt_char_1597": "clarity_nt_char_1597"
     },
     "1598": {
-        "<speed=0><%sM_color>は|種族が違うため　変更することができません！": ""
+        "<speed=0><%sM_color>は|種族が違うため　変更することができません！": "<speed=0><%sM_color> cannot be changed due to race|being different!"
     },
     "1599": {
         "毎日更新の|まちかど情報を|確認できます": "Check the daily|updated town|information."
@@ -4818,25 +4818,25 @@
         "<speed=0>|妖精の姿見の　説明です！|<br>|この鏡を使うと　実際に着替えなくても|様々な装備を身につけた|自分の姿を　確認することができます。|<br>|また　カラーリングした時に|それぞれの装備が　どのような見た目になるのかも|合わせて　確認することができます。|<br>|おしゃれな装備品　創意工夫をこらした|独自のコーディネイトを　探す際に|ぜひとも　ご活用ください。": ""
     },
     "1607": {
-        "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": ""
+        "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left|hand unless the right hand is equipped with|a Hammer or a Sword."
     },
     "1608": {
-        "<speed=0><%sM_WeaponCategory>は　右手に短剣かスティックか扇が|装備されていないと　左手に装備できません。": ""
+        "<speed=0><%sM_WeaponCategory>は　右手に短剣かスティックか扇が|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left hand|unless a dagger, wand, or fan is equipped|in the right hand."
     },
     "1609": {
-        "<speed=0>削除だよ？<yesno><close>": ""
+        "<speed=0>削除だよ？<yesno><close>": "<speed=0>Delete?<yesno><close>"
     },
     "1610": {
         "clarity_nt_char_1610": "clarity_nt_char_1610"
     },
     "1611": {
-        "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<select>|素材をメモする|ツヤをメモする|やめておく|<select_end><close>": ""
+        "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<select>|素材をメモする|ツヤをメモする|やめておく|<select_end><close>": "<speed=0>Would you like to make note of this appearance|in the Communication Window's System Log?|<select>|Outfit Note|Gloss Note|Stop|<select_end><close>"
     },
     "1612": {
         "clarity_nt_char_1612": "clarity_nt_char_1612"
     },
     "1613": {
-        "<speed=0>編集中の見た目を　記録しないで|終了します。": ""
+        "<speed=0>編集中の見た目を　記録しないで|終了します。": "<speed=0>Stopped without recording the edited|appearance."
     },
     "1614": {
         "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": ""
