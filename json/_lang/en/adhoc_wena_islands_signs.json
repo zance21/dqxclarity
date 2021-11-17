@@ -3,16 +3,16 @@
         "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "2": {
-        "<left>この先　危険。|<left>命惜しくば　引き返せ。": ""
+        "<left>この先　危険。|<left>命惜しくば　引き返せ。": "<left>Danger ahead.|<left>Turn back if you want to live."
     },
     "3": {
-        "<center>↑ミューズ海岸行き　桟橋|<center>知恵の眠る遺跡↓": ""
+        "<center>↑ミューズ海岸行き　桟橋|<center>知恵の眠る遺跡↓": "↑ Pier to Muse Coast|↓ Sleeping Wisdom Ruins"
     },
     "4": {
-        "<center>↑ミューズ海岸行き　桟橋": ""
+        "<center>↑ミューズ海岸行き　桟橋": "↑ Pier to Muse Coast"
     },
     "5": {
-        "<center>↑ミューズ海岸行き　桟橋|<center>王立調査団　調査予定地↓": ""
+        "<center>↑ミューズ海岸行き　桟橋|<center>王立調査団　調査予定地↓": "↑ Pier to Muse Coast|↓ Royal Survey Team Scheduled Survey Site"
     },
     "6": {
         "<left>ここより　東の地。|<left>大いなる知恵が　眠るとされる遺跡あり。": ""
