@@ -570,7 +570,7 @@
         "「あら？　その髪型だと|　ヘアカラーは　変えられないわ。|<end>": "Oh? You can't change|your hair color with that hairstyle.|<end>"
     },
     "191": {
-        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": ""
+        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": "What? It looks like it's the same as your original form~.|Please choose what form you want to take again|<end>"
     },
     "192": {
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
@@ -579,7 +579,7 @@
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "194": {
-        "「こちらで　よろしいでしょうか！|<yesno><break>": ""
+        "「こちらで　よろしいでしょうか！|<yesno><break>": "Are you sure you want to do this?|<yesno><break>"
     },
     "195": {
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
@@ -693,7 +693,7 @@
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
     },
     "232": {
-        "「こちらで　よろしいでしょうか！|<yesno><break>": ""
+        "「こちらで　よろしいでしょうか！|<yesno><break>": "Are you sure you want to do this?|<yesno><break>"
     },
     "233": {
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
@@ -2850,9 +2850,9 @@
         "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>|In your current form, you cannot set|the appearance of a fairy..|<br>|You need to match|the race and gender with the human form."
     },
     "951": {
-        "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": ""
+        "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>|In your current form, you cannot set|the appearance of a fairy..|<br>|You need to match|the race and gender with the human form."
     },
     "952": {
-        "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>In your current form, you cannot set|the appearance of a fairy..|<br>|You need to match|the race and gender with the human form."
+        "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>|In your current form, you cannot set|the appearance of a fairy..|<br>|You need to match|the race and gender with the human form."
     }
 }
