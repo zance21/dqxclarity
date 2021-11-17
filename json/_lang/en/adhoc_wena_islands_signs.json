@@ -39,25 +39,25 @@
         "<left>またの　ご利用を　お待ちしております。": "<left>We look forward to seeing you again."
     },
     "14": {
-        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": ""
+        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
     },
     "15": {
-        "<left>←ジュレー島行き　桟橋|<right>コルット地方→": ""
+        "<left>←ジュレー島行き　桟橋|<right>コルット地方→": "← Pier to Jule Island|→ Colt Region"
     },
     "16": {
-        "<center>↑祈りの宿行き　桟橋|<left>←ジュレー島行き　桟橋": ""
+        "<center>↑祈りの宿行き　桟橋|<left>←ジュレー島行き　桟橋": "↑ Pier to Prayer Inn|← Pier to Jule Island"
     },
     "17": {
-        "<center>↑道なり　祈りの宿|<left>←ジュレー島行き　桟橋": ""
+        "<center>↑道なり　祈りの宿|<left>←ジュレー島行き　桟橋": "↑ Road to Prayer Inn|← Pier to Jule Island"
     },
     "18": {
-        "<left>カヌーをご利用の際は|<left>渡し守に　お声をおかけください。": ""
+        "<left>カヌーをご利用の際は|<left>渡し守に　お声をおかけください。": "<left>Please speak to the ferryman to use the canoe."
     },
     "19": {
-        "<left>クルメルの滝": ""
+        "<left>クルメルの滝": "<left>Krumel Waterfall"
     },
     "20": {
-        "<left>ジュレー島行き　桟橋": ""
+        "<left>ジュレー島行き　桟橋": "<left>Pier to Jule Island"
     },
     "21": {
         "<center>↑シエラ巡礼地|<left>巡礼者以外の　立入りは　ご遠慮ください。": ""
@@ -540,7 +540,7 @@
         "<left>アクセサリー屋の　看板だ。": ""
     },
     "181": {
-        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": ""
+        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
     },
     "182": {
         "<left>道なりに進むと　ジュレー島行き　桟橋。|<left>左前方のガケを下りると　危険地帯！|<left>落ちないように　気をつけよう。": ""
