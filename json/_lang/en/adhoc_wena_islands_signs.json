@@ -99,28 +99,28 @@
         "<center>－そよ風の浜－|<left>おだやかな風と　静かな波に運ばれ|<left>深き海の青が　たどり着く浜なり。": "               －Breezy Beach－|Carried by gentle breezes and quiet waves,|this beach is where the deep blue sea reaches."
     },
     "34": {
-        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": ""
+        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": "<left>Unsurveyed Site ahead.|<left>This area is dangerous so entry is prohibited.|― Verinard Royal Survey Team"
     },
     "35": {
-        "<left>段差を　むやみに飛び降りると|<left>戻るのに　苦労することもある。|<left>足もとには　気をつけるべし。": ""
+        "<left>段差を　むやみに飛び降りると|<left>戻るのに　苦労することもある。|<left>足もとには　気をつけるべし。": "<left>If you jump down a step unnecessarily, you may|<left>have trouble getting back up.|<left>Watch your step."
     },
     "36": {
-        "<left>この先　凶悪なモンスターの棲みか。|<left>興味本位で　近づかないこと。": ""
+        "<left>この先　凶悪なモンスターの棲みか。|<left>興味本位で　近づかないこと。": "<left>Home of vicious monsters ahead.|<left>Do not approach them out of curiosity."
     },
     "37": {
-        "<center>↑道なり　西の灯台|<center>ヴェリナード領南行き　桟橋↓": ""
+        "<center>↑道なり　西の灯台|<center>ヴェリナード領南行き　桟橋↓": "↑ Road to West Lighthouse|↓ Pier to Verinard South"
     },
     "38": {
-        "<center>↑道なり　西の灯台|<left>←そよ風の浜|<center>ヴェリナード領南行き　桟橋↓": ""
+        "<center>↑道なり　西の灯台|<left>←そよ風の浜|<center>ヴェリナード領南行き　桟橋↓": "↑ Road to West Lighthouse|← Breezy Beach|↓ Pier to Verinard South"
     },
     "39": {
-        "<center>↑がけ崩れのため　閉鎖中": ""
+        "<center>↑がけ崩れのため　閉鎖中": "↑ Closed due to landslide."
     },
     "40": {
-        "<center>↑道なり　キュララナ海岸行き　桟橋|<center>道なり　ヴェリナード城行き　桟橋↓": ""
+        "<center>↑道なり　キュララナ海岸行き　桟橋|<center>道なり　ヴェリナード城行き　桟橋↓": "↑ Road to the pier to Kyurarana Coast|↓ Road to the pier to Verinard Castle"
     },
     "41": {
-        "<center>↑ヴェリナード城行き　桟橋": ""
+        "<center>↑ヴェリナード城行き　桟橋": "↑ Pier to Verinard Castle"
     },
     "42": {
         "<center>－危険！－|<left>この先　重点警備強化地帯。|<right>ヴェリナード王立衛士団": ""
@@ -231,7 +231,7 @@
         "<center>↑キュララナ海岸": ""
     },
     "78": {
-        "<center>↑ヴェリナード城行き　桟橋": ""
+        "<center>↑ヴェリナード城行き　桟橋": "↑ Pier to Verinard Castle"
     },
     "79": {
         "<center>↑道なり　ヴェリナード城行き　桟橋": ""
