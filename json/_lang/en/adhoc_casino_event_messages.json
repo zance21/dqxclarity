@@ -141,7 +141,7 @@
         "<center>～はじめて　スロットをプレイされる方へ～<left>|<br>|スロットでは　座席の占有防止のため|５分間　操作やプレイをしていない方には|強制的に　ご退席をしていただいております。|<br>|たとえ　ボーナスゲーム中だった場合でも|退席していただきますので　ご注意ください。|<br>|また　周りの方に　ご迷惑となるような発言も|おひかえ下さい。マナーを守って　楽しく|遊んでいただきますよう　ご協力お願いします。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": ""
     },
     "48": {
-        "カジノフロア<%nW_INSTANCE_NO>": ""
+        "カジノフロア<%nW_INSTANCE_NO>": "Casino Floor <%dW_INSTANCE_NO>"
     },
     "49": {
         "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
@@ -231,7 +231,7 @@
         "<speed=0>すごろく台がある。|まだ　遊べないようだ。": "<speed=0>It's a Sugoroku Table.|Seems you can't play just yet."
     },
     "78": {
-        "カジノプレイチケットを　<%dM_Num2>枚　持っています。|３枚使って　すごろくを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
+        "カジノプレイチケットを　<%dM_Num2>枚　持っています。|３枚使って　すごろくを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "You have <%dM_Num2> Casino Play Ticket(s).|Use 3 of them to play Sugoroku?|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)<yesno><close>"
     },
     "79": {
         "<center>～はじめて　すごろくをプレイされる方へ～<left>|<br>|<color_yellow>|すごろくは　パーティメンバーと|一緒に　遊ぶことができます。|パーティを組んで　すごろくを遊びましょう！|<color_white>|<br>|すごろくでは　座席の占有防止のため|５分間　操作やプレイをしていない方には|強制的に　ご退席をしていただいております。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": ""
