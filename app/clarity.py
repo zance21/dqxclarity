@@ -12,13 +12,11 @@ import shutil
 import sys
 import zipfile
 from alive_progress import alive_bar
-from pymem import exception
 import pykakasi
 from loguru import logger
 import pandas as pd
 import random
 import requests
-import time
 from errors import messageBoxFatalError
 from memory import (
     read_bytes,
@@ -30,9 +28,7 @@ from memory import (
     scan_to_foot
 )
 from signatures import (
-    index_pattern,
-    text_pattern,
-    foot_pattern
+    index_pattern
 )
 
 HEX_DICT = 'hex_dict.csv'
@@ -453,9 +449,9 @@ def migrate_translated_json_data():
 
     # Don't reorganize these
     destination_directories = [
-        'hyde_json_merge/src',
-        'hyde_json_merge/dst',
-        'hyde_json_merge/out'
+        '../hyde_json_merge/src',
+        '../hyde_json_merge/dst',
+        '../hyde_json_merge/out'
     ]
 
     for folder in destination_directories:
@@ -476,8 +472,8 @@ def migrate_translated_json_data():
             if os.path.isfile(full_file_name):
                 shutil.copy(full_file_name, destination_directories[1])
 
-    for filename in os.listdir('hyde_json_merge/src'):
-        os.system(f'hyde_json_merge\json-conv.exe -s hyde_json_merge/src/{filename} -d hyde_json_merge/dst/{filename} -o hyde_json_merge/out/{filename}')  # pylint: disable=anomalous-backslash-in-string,line-too-long
+    for filename in os.listdir('../hyde_json_merge/src'):
+        os.system(f'../hyde_json_merge\json-conv.exe -s ../hyde_json_merge/src/{filename} -d ../hyde_json_merge/dst/{filename} -o ../hyde_json_merge/out/{filename}')  # pylint: disable=anomalous-backslash-in-string,line-too-long
 
 def check_for_updates():
     url = 'https://raw.githubusercontent.com/jmctune/dqxclarity/main/sha'
