@@ -3012,7 +3012,7 @@
         "どちらのモンスターを|モンスター酒場に　送りますか？<break>": "Send which monster to the monster tavern?<break>"
     },
     "1005": {
-        "<%sM_monster>を　酒場に送った！": ""
+        "<%sM_monster>を　酒場に送った！": "<%sM_monster> was sent to the Tavern!"
     },
     "1006": {
         "clarity_nt_char_1006": "clarity_nt_char_1006"
@@ -3612,10 +3612,10 @@
         "<speed=0>つかうものが　いっぱいのため|<%sM_item>を　使うことができません。": ""
     },
     "1205": {
-        "<speed=0>いまは　仲間モンスターを|バトルに参加させることが　できません！": ""
+        "<speed=0>いまは　仲間モンスターを|バトルに参加させることが　できません！": "<speed=0>Your fellow monster cannot participate in|battle right now!"
     },
     "1206": {
-        "<speed=0>いまは　仲間モンスターを|待機中に　変更できません！": ""
+        "<speed=0>いまは　仲間モンスターを|待機中に　変更できません！": "<speed=0>You can't put your fellow monster on|standby right now!"
     },
     "1207": {
         "<speed=0><%sM_target>が装備していた|装備品が　はずれました。": ""
@@ -3660,25 +3660,25 @@
         "clarity_nt_char_1220": "clarity_nt_char_1220"
     },
     "1221": {
-        "<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party on standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1222": {
-        "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1223": {
         "clarity_nt_char_1223": "clarity_nt_char_1223"
     },
     "1224": {
-        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間（待機中）に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party on|standby!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1225": {
-        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>が　モンスター酒場に送られ|<%sM_monster>が　仲間に加わった！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> was sent to the Monster Tavern|and <%sM_monster> joined the party!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1226": {
         "clarity_nt_char_1226": "clarity_nt_char_1226"
     },
     "1227": {
-        "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": ""
+        "<%sM_send>を　仲間にして|モンスター酒場に 送った！<me 61>|<br><color_yellow>※これ以上　仲間モンスターを　増やせません！<color_white>": "<%sM_send> became a companion|and was sent to the Monster Tavern!<me 61>|<br><color_yellow>*You can't take any more monsters|with you!<color_white>"
     },
     "1228": {
         "clarity_nt_char_1228": "clarity_nt_char_1228"
@@ -4281,7 +4281,7 @@
         "<speed=0>今の仲間と続けて　今戦った|ボスとの戦いに　行きますか？|<select>|やめる|続ける|<select_end>|<close>": "<speed=0>Do you want to stay and fight|the same boss again?|<select>|Leave|Stay|<select_end>|<close>"
     },
     "1428": {
-        "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": ""
+        "<speed=0>このマップから出るのを　やめますか？<yesno 2><close>": "<speed=0>Cancel leaving this map?<yesno 2><close>"
     },
     "1429": {
         "<speed=0>このマップから出て　元の場所に|戻って　よいですか？<yesno><close>": "<speed=0>Do you want to leave this place?<yesno><close>"
@@ -4299,19 +4299,19 @@
         "<speed=0>|撮影枚数が　いっぱいです。|写真を保存すると　一番古い写真が|上書きされますが　よろしいですか？|<yesno><close>": "<speed=0>|Your Photo Album is full. If you save this|photo, the oldest photo will be overwritten.|Is this okay?|<yesno><close>"
     },
     "1434": {
-        "<speed=0>|写真の保存を　中断しますか？|<color_yellow>※保存を中断すると　写真が保存されない|可能性があります。<yesno2><close>": ""
+        "<speed=0>|写真の保存を　中断しますか？|<color_yellow>※保存を中断すると　写真が保存されない|可能性があります。<yesno2><close>": "<speed=0>|Stop the saving of this photo?|<color_yellow>※If you stop saving, the photo may not be|saved.<yesno2><close>"
     },
     "1435": {
-        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": ""
+        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "<speed=0>|Failed to save to Photo Album.|Error Code: <%sERRID>"
     },
     "1436": {
-        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": ""
+        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": "<speed=0>|Saving photo to the Photo Album.|Please wait a moment.<break>"
     },
     "1437": {
         "clarity_nt_char_1437": "clarity_nt_char_1437"
     },
     "1438": {
-        "<speed=0>|写真の保存を　中断しました。": ""
+        "<speed=0>|写真の保存を　中断しました。": "<speed=0>|Photo saving was interrupted."
     },
     "1439": {
         "clarity_nt_char_1439": "clarity_nt_char_1439"
@@ -4359,16 +4359,16 @@
         "<speed=0>あなたは今　仲間がいます。|今の仲間と一緒に　<%sM_monster>との|戦いに行きますが　よろしいですか？<yesno><close>": "<speed=0>You're currently in a party.|Do you want to go to battle with|<%sM_monster> with your current party?<yesno><close>"
     },
     "1454": {
-        "ヒマなので|誘ってほしいと|言いたい状態": "I'm not busy,|so let's play|together."
+        "ヒマなので|誘ってほしいと|言いたい状態": "You are free|and willing to|play with others."
     },
     "1455": {
         "clarity_nt_char_1455": "clarity_nt_char_1455"
     },
     "1456": {
-        "<speed=0>『いまヒマです』にチェックすると|『ひとりプレイ中』のチェックが|はずれますが　よろしいですか？<yesno><close>": ""
+        "<speed=0>『いまヒマです』にチェックすると|『ひとりプレイ中』のチェックが|はずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Available\", \"Playing Alone\"|will be unchecked. Is this okay?<yesno><close>"
     },
     "1457": {
-        "<speed=0>パーティリーダーから|試練の門の戦いのさそいを　受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　レンダーシア大陸に|上陸している必要があります。": ""
+        "<speed=0>パーティリーダーから|試練の門の戦いのさそいを　受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　レンダーシア大陸に|上陸している必要があります。": "<speed=0>You received a Trial Gate invitation from your|party leader, but didn't meet the conditions.|<br>|In order to accept, you must be on the|continent of Lendersia."
     },
     "1458": {
         "clarity_nt_char_1458": "clarity_nt_char_1458"
@@ -4377,7 +4377,7 @@
         "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "1460": {
-        "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": ""
+        "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": "<speed=0>|This will explain \"Summary Items\". If you|select the item and then choose \"Equip\", it|will transform into any item in the list.|<br>|You can use Summary Items as many times as|you like. You also don't need to keep the|original if it exists in the list of items!"
     },
     "1461": {
         "<speed=0>この写真は　現在操作できません。|アルバムを拡張すれば|操作できるようになります。": ""
@@ -4710,13 +4710,13 @@
         "clarity_nt_char_1570": "clarity_nt_char_1570"
     },
     "1571": {
-        "この場所だと　天井に　アタマをぶつけそうだ。": ""
+        "この場所だと　天井に　アタマをぶつけそうだ。": "You're bound to hit your head on the ceiling|here."
     },
     "1572": {
         "clarity_nt_char_1572": "clarity_nt_char_1572"
     },
     "1573": {
-        "所属している|チーム全員を|非表示にします": ""
+        "所属している|チーム全員を|非表示にします": "Hide all Teams|that you|belong to."
     },
     "1574": {
         "サポート仲間や|仲間モンスターを|非表示にします": "Hide support|party and|fellow monsters."
@@ -4725,7 +4725,7 @@
         "clarity_nt_char_1575": "clarity_nt_char_1575"
     },
     "1576": {
-        "いま組んでいる|パーティを|非表示にします": ""
+        "いま組んでいる|パーティを|非表示にします": "Hides the party|you are|currently in."
     },
     "1577": {
         "他の冒険者を|非表示にします": "Hides other|players."
@@ -4743,7 +4743,7 @@
         "<speed=0>週替わりクエスト『<%sM_Quest1>』を|キャンセルしました。": "<speed=0>Weekly quest \"<%sM_Quest1>\" was cancelled."
     },
     "1582": {
-        "<speed=0><%sM_color>は|まだ作成していない！": ""
+        "<speed=0><%sM_color>は|まだ作成していない！": "<speed=0><%sM_color> hasn't been created yet!"
     },
     "1583": {
         "clarity_nt_char_1583": "clarity_nt_char_1583"
@@ -4752,7 +4752,7 @@
         "ダミー": "Dummy"
     },
     "1585": {
-        "<speed=0>ひっさつわざを　覚えていない！": ""
+        "<speed=0>ひっさつわざを　覚えていない！": "<speed=0>You don't know any Special Moves!"
     },
     "1586": {
         "clarity_nt_char_1586": "clarity_nt_char_1586"
@@ -4785,13 +4785,13 @@
         "追加パッケージ「<3rd_title>」が|インストールされていないため|対象マップへの移動に　失敗しました。": "Cannot move to this map due to '<3rd_title>' not being installed."
     },
     "1596": {
-        "<speed=0>ここでは　写真撮影は　できません！": ""
+        "<speed=0>ここでは　写真撮影は　できません！": "<speed=0>You cannot take photos here!"
     },
     "1597": {
         "clarity_nt_char_1597": "clarity_nt_char_1597"
     },
     "1598": {
-        "<speed=0><%sM_color>は|種族が違うため　変更することができません！": ""
+        "<speed=0><%sM_color>は|種族が違うため　変更することができません！": "<speed=0><%sM_color> cannot be changed due to race|being different!"
     },
     "1599": {
         "毎日更新の|まちかど情報を|確認できます": "Check the daily|updated town|information."
@@ -4818,25 +4818,25 @@
         "<speed=0>|妖精の姿見の　説明です！|<br>|この鏡を使うと　実際に着替えなくても|様々な装備を身につけた|自分の姿を　確認することができます。|<br>|また　カラーリングした時に|それぞれの装備が　どのような見た目になるのかも|合わせて　確認することができます。|<br>|おしゃれな装備品　創意工夫をこらした|独自のコーディネイトを　探す際に|ぜひとも　ご活用ください。": ""
     },
     "1607": {
-        "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": ""
+        "<speed=0><%sM_WeaponCategory>は　右手に片手剣かハンマーが|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left|hand unless the right hand is equipped with|a Hammer or a Sword."
     },
     "1608": {
-        "<speed=0><%sM_WeaponCategory>は　右手に短剣かスティックか扇が|装備されていないと　左手に装備できません。": ""
+        "<speed=0><%sM_WeaponCategory>は　右手に短剣かスティックか扇が|装備されていないと　左手に装備できません。": "<speed=0><%sM_WeaponCategory> cannot be equipped in the left hand|unless a dagger, wand, or fan is equipped|in the right hand."
     },
     "1609": {
-        "<speed=0>削除だよ？<yesno><close>": ""
+        "<speed=0>削除だよ？<yesno><close>": "<speed=0>Delete?<yesno><close>"
     },
     "1610": {
         "clarity_nt_char_1610": "clarity_nt_char_1610"
     },
     "1611": {
-        "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<select>|素材をメモする|ツヤをメモする|やめておく|<select_end><close>": ""
+        "<speed=0>この見た目を　コミュニケーションウィンドウの|システムログに　メモしますか？|<select>|素材をメモする|ツヤをメモする|やめておく|<select_end><close>": "<speed=0>Would you like to make note of this appearance|in the Communication Window's System Log?|<select>|Outfit Note|Gloss Note|Stop|<select_end><close>"
     },
     "1612": {
         "clarity_nt_char_1612": "clarity_nt_char_1612"
     },
     "1613": {
-        "<speed=0>編集中の見た目を　記録しないで|終了します。": ""
+        "<speed=0>編集中の見た目を　記録しないで|終了します。": "<speed=0>Stopped without recording the edited|appearance."
     },
     "1614": {
         "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": ""

@@ -57,60 +57,60 @@
         "「うむっ。それでは　<%sM_ELEMENT>を|　<%nM_NUM>こで　よいかの？|<yesno><close>": "Mhm. Then <%dM_NUM> <%sM_ELEMENT> is|what you would like?|<yesno><close>"
     },
     "20": {
-        "「では　受け取るがよい。|　おぬしの　さらなる飛躍に役立てることを|　祈っておるぞ。|<end>": ""
+        "「では　受け取るがよい。|　おぬしの　さらなる飛躍に役立てることを|　祈っておるぞ。|<end>": "Here, take it. I pray that they will be useful|in furthering your growth.|<end>"
     },
     "21": {
-        "「達人クエストに　挑戦するのじゃな。|　では　今週のお題は　これじゃ！|<end>": ""
+        "「達人クエストに　挑戦するのじゃな。|　では　今週のお題は　これじゃ！|<end>": "Challenge the Master Quest, hm? Here is this|week's theme!|<end>"
     },
     "22": {
-        "「それは　おぬしが今　受注中のクエストじゃな。|　もし　挑戦するクエストを　変えたければ|　新たに　受けたいクエストを選ぶがよい。|<end>": ""
+        "「それは　おぬしが今　受注中のクエストじゃな。|　もし　挑戦するクエストを　変えたければ|　新たに　受けたいクエストを選ぶがよい。|<end>": "You have already accepted that quest. If you'd|like to change the quest you want to|challenge, please accept that one.|<end>"
     },
     "23": {
-        "「『達人クエスト』では|　週に一度　すべての冒険者に向けて|　５つのクエストを　提示する。|<br>|「おぬしは　その中から自分に適したものを|　ひとつだけ選んで　達成するのじゃ。|　仲間と協力しても　かまわんぞ。|<br>|「みごと　クエストを達成したあかつきには|　好きな属性の　宝珠を与えよう。|　さあ　ふるって　挑戦するがよい！|<end>": ""
+        "「『達人クエスト』では|　週に一度　すべての冒険者に向けて|　５つのクエストを　提示する。|<br>|「おぬしは　その中から自分に適したものを|　ひとつだけ選んで　達成するのじゃ。|　仲間と協力しても　かまわんぞ。|<br>|「みごと　クエストを達成したあかつきには|　好きな属性の　宝珠を与えよう。|　さあ　ふるって　挑戦するがよい！|<end>": "With \"Master Quests\", adventurers will be|presented with 5 quests each week.|<br>|You can choose only one, so choose which|suits you best. Also, you may complete it|with companions if you so wish.|<br>|After completing the quest, I will give you|jewels of the attribute of your choice. Come|on, give it a try!.|<bw_break>"
     },
     "24": {
-        "「達人クエストに挑めるのは　週に一度きりじゃ。|　<%nM_DAY>日後に　新たなるクエストを提示するから|　その頃に　また来るがよいぞ。|<bw_break>": ""
+        "「達人クエストに挑めるのは　週に一度きりじゃ。|　<%nM_DAY>日後に　新たなるクエストを提示するから|　その頃に　また来るがよいぞ。|<bw_break>": "You can only undertake a single Master Quest|per week. There will be a new quest in <%dM_DAY>|days. Please come back then.|<bw_break>"
     },
     "25": {
-        "「では　どのチカラの宝珠にするか|　選ぶがよい。|<select_se_off>|炎の宝珠？|水の宝珠？|風の宝珠？|光の宝珠？|闇の宝珠？|<select_end>|<break>": ""
+        "「では　どのチカラの宝珠にするか|　選ぶがよい。|<select_se_off>|炎の宝珠？|水の宝珠？|風の宝珠？|光の宝珠？|闇の宝珠？|<select_end>|<break>": "Then, which jewel element will you choose?|<select_se_off>|Fire Jewel|Water Jewel|Wind Jewel|Light Jewel|Dark Jewel|<select_end>|<break>"
     },
     "26": {
-        "「……と　言いたいところじゃが|　どうぐかばんがいっぱいで　報酬が渡せぬな。|　<%nM_NUM>こ　空きを作って　また来るがよい。|<bw_break>": ""
+        "「……と　言いたいところじゃが|　どうぐかばんがいっぱいで　報酬が渡せぬな。|　<%nM_NUM>こ　空きを作って　また来るがよい。|<bw_break>": "...is what I want to say, but your bag is full|so I can't reward you. <%dM_NUM> empty slots are|needed, so please come back again.|<bw_break>"
     },
     "27": {
-        "「この宝珠を　鑑定するのじゃな？|<yesno><break>": ""
+        "「この宝珠を　鑑定するのじゃな？|<yesno><break>": "This is the jewel you want to appraise?|<yesno><break>"
     },
     "28": {
-        "「この石版を　鑑定するのじゃな？|<yesno><break>": ""
+        "「この石版を　鑑定するのじゃな？|<yesno><break>": "YOU WILL NEVER SEE THIS PART 2"
     },
     "29": {
-        "「また　来るがよい。|<end>": ""
+        "「また　来るがよい。|<end>": "Come again soon.|<end>"
     },
     "30": {
-        "<pipipi_off>|<pc>は|<%sM_ITEM>を　<%nM_NUM>こ　手に入れた！|<se_nots System 7><br>|達人クエストを　クリアしました！|<me 75><end>": ""
+        "<pipipi_off>|<pc>は|<%sM_ITEM>を　<%nM_NUM>こ　手に入れた！|<se_nots System 7><br>|達人クエストを　クリアしました！|<me 75><end>": "<pipipi_off>|<pc> received <%dM_NUM> <%sM_ITEM>!|<se_nots System 7><br>|Master Quest was cleared!|<me 75><end>"
     },
     "31": {
-        "達人クエストを　受けました。|<me 74><end>": ""
+        "達人クエストを　受けました。|<me 74><end>": "Master Quest was accepted.|<me 74><end>"
     },
     "32": {
-        "受けている達人クエストを　キャンセルして|新しい　達人クエストを受けました。|<me 74><end>": ""
+        "受けている達人クエストを　キャンセルして|新しい　達人クエストを受けました。|<me 74><end>": "You cancelled your current Master Quest and|accepted a new one.|<me 74><end>"
     },
     "33": {
-        "「光の宝珠？じゃな。|　では　どちらにするか|　選ぶがよい。|<select_se_off>|とくぎの宝珠|必殺技の宝珠|<select_end>|<break>": ""
+        "「光の宝珠？じゃな。|　では　どちらにするか|　選ぶがよい。|<select_se_off>|とくぎの宝珠|必殺技の宝珠|<select_end>|<break>": "Light Jewel, hm? Which type would you like?|<select_se_off>|Skill Jewel|Special Move Jewel|<select_end>|<break>"
     },
     "34": {
-        "「<pc>よ　来たか。|　順調に　修練を重ねているようじゃの。|　そんなおぬしに　朗報じゃ。|<br>|「われら　達人の知恵を活かし|　宝珠の能力を　開花しやすくすることに|　成功したのだ！|<br>|「すでに　変化に　気づいているかもしれぬが|　おぬしの持つ　達人のオーブから|　石版という概念が　なくなっておる。|<br>|「今まで　宝珠の能力を開花させるには|　石版へのセットが　必須だったが|　これからは　石版へのセットは不要じゃ。|<br>|「今後は　宝珠の鑑定と　同時に|　宝珠の能力も　開花させよう。|　今まで　鑑定したものは　すでに開花済みじゃ。|<br>|「あとは　開花された能力に　達人ポイントを|　ふりわけるだけじゃ。ふりわけは　全職業で|　保存されるから　職業別に　ふりわけるがよい。|<br>|「まあ　まずは　さわってみるのが早かろう。|　今　預かっている宝珠や石版は　もう不要じゃ。|　わしが　すべて引き取っておくぞ。|<end>": ""
+        "「<pc>よ　来たか。|　順調に　修練を重ねているようじゃの。|　そんなおぬしに　朗報じゃ。|<br>|「われら　達人の知恵を活かし|　宝珠の能力を　開花しやすくすることに|　成功したのだ！|<br>|「すでに　変化に　気づいているかもしれぬが|　おぬしの持つ　達人のオーブから|　石版という概念が　なくなっておる。|<br>|「今まで　宝珠の能力を開花させるには|　石版へのセットが　必須だったが|　これからは　石版へのセットは不要じゃ。|<br>|「今後は　宝珠の鑑定と　同時に|　宝珠の能力も　開花させよう。|　今まで　鑑定したものは　すでに開花済みじゃ。|<br>|「あとは　開花された能力に　達人ポイントを|　ふりわけるだけじゃ。ふりわけは　全職業で|　保存されるから　職業別に　ふりわけるがよい。|<br>|「まあ　まずは　さわってみるのが早かろう。|　今　預かっている宝珠や石版は　もう不要じゃ。|　わしが　すべて引き取っておくぞ。|<end>": "wow, that sure is a whole lot of text you will NEVER SEE"
     },
     "35": {
-        "<color_yellow>|セットしている石版や　達人に預けている宝珠|飾り石など　すべて変換し　<%dM_HOUJU_P>Ｐの|宝珠ポイントを　手に入れた。|<se_nots System 7><end>": ""
+        "<color_yellow>|セットしている石版や　達人に預けている宝珠|飾り石など　すべて変換し　<%dM_HOUJU_P>Ｐの|宝珠ポイントを　手に入れた。|<se_nots System 7><end>": "blah blah blah no"
     },
     "36": {
-        "「今　所持している　未鑑定の物を|　まとめて鑑定するが　よいか？|<yesno><break>": ""
+        "「今　所持している　未鑑定の物を|　まとめて鑑定するが　よいか？|<yesno><break>": "Would you like to me to appraise all of your|unappraised items at once?|<yesno><break>"
     },
     "37": {
-        "「これは…！　<%sM_JEWEL_NAME>！|　おぬしに　新たな能力が　開花されたな。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": ""
+        "「これは…！　<%sM_JEWEL_NAME>！|　おぬしに　新たな能力が　開花されたな。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "This is...! <%sM_JEWEL_NAME>!!|You've developed a new ability. The jewels|have also be converted into <%dM_HOUJU_P> Jewel Points."
     },
     "38": {
-        "「<%sM_JEWEL_NAME>　じゃな。|　おぬしは　すでに　開花している能力じゃ。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": ""
+        "「<%sM_JEWEL_NAME>　じゃな。|　おぬしは　すでに　開花している能力じゃ。|　宝珠は　宝珠ポイント<%nM_HOUJU_P>Ｐに　変換しておくぞ。": "<%sM_JEWEL_NAME>, I see.|You already know this ability. The jewels|have also be converted into <%dM_HOUJU_P> Jewel Points."
     }
 }

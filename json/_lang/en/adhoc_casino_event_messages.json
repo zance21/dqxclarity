@@ -141,7 +141,7 @@
         "<center>～はじめて　スロットをプレイされる方へ～<left>|<br>|スロットでは　座席の占有防止のため|５分間　操作やプレイをしていない方には|強制的に　ご退席をしていただいております。|<br>|たとえ　ボーナスゲーム中だった場合でも|退席していただきますので　ご注意ください。|<br>|また　周りの方に　ご迷惑となるような発言も|おひかえ下さい。マナーを守って　楽しく|遊んでいただきますよう　ご協力お願いします。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": ""
     },
     "48": {
-        "カジノフロア<%nW_INSTANCE_NO>": ""
+        "カジノフロア<%nW_INSTANCE_NO>": "Casino Floor <%dW_INSTANCE_NO>"
     },
     "49": {
         "テンションアップ効果が　終了しました。": "Tension Boost effect has ended."
@@ -231,7 +231,7 @@
         "<speed=0>すごろく台がある。|まだ　遊べないようだ。": "<speed=0>It's a Sugoroku Table.|Seems you can't play just yet."
     },
     "78": {
-        "カジノプレイチケットを　<%dM_Num2>枚　持っています。|３枚使って　すごろくを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": ""
+        "カジノプレイチケットを　<%dM_Num2>枚　持っています。|３枚使って　すごろくを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "You have <%dM_Num2> Casino Play Ticket(s).|Use 3 of them to play Sugoroku?|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)<yesno><close>"
     },
     "79": {
         "<center>～はじめて　すごろくをプレイされる方へ～<left>|<br>|<color_yellow>|すごろくは　パーティメンバーと|一緒に　遊ぶことができます。|パーティを組んで　すごろくを遊びましょう！|<color_white>|<br>|すごろくでは　座席の占有防止のため|５分間　操作やプレイをしていない方には|強制的に　ご退席をしていただいております。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": ""
@@ -255,7 +255,7 @@
         "パーティメンバーが|エントランスに　移動しました。|すごろくへのエントリーを　キャンセルしました。": ""
     },
     "86": {
-        "すごろくを遊ぶには|カジノプレイチケットが　３枚必要です。|<br>|カジノプレイチケットをお持ちのうえ|またおこしください！<auto_bw=5000><close>": ""
+        "すごろくを遊ぶには|カジノプレイチケットが　３枚必要です。|<br>|カジノプレイチケットをお持ちのうえ|またおこしください！<auto_bw=5000><close>": "In order to play Sugoroku, you need|3 Casino Play Tickets|<br>|Please come back with enough Casino Play|Tickets!<auto_bw=5000><close>"
     },
     "87": {
         "すごろくへの　エントリーを|キャンセルしますか？|<yesno><close>": "Cancel playing Sugoroku?|<yesno><close>"
@@ -330,7 +330,7 @@
         "「申し訳ありません　お客さま。|　すごろく景品係ミミから|　受け取っていない　アイテムがあるようです。|<br>|「アイテムを　全て受け取ってから|　また　おこしくださいませ。": ""
     },
     "111": {
-        "「申し訳ありません　お客さま。|　すごろくを遊ぶには|　カジノプレイチケットが　３枚必要です。|<br>|「カジノプレイチケットをお持ちのうえ|　またおこしくださいませ。": ""
+        "「申し訳ありません　お客さま。|　すごろくを遊ぶには|　カジノプレイチケットが　３枚必要です。|<br>|「カジノプレイチケットをお持ちのうえ|　またおこしくださいませ。": "My apologies, <if_woman>ma'am<else>sir<endif>. To play Sugoroku,|3 Casino Play Tickets are required.|<br>|Please come back with enough tickets."
     },
     "112": {
         "「申し訳ありません　お客さま。|　こちらでは　４人パーティでの|　お申し込みは　承っておりません。|<br>|「それでは　引き続き|　すごろくを　お楽しみくださいませ。": ""

@@ -1,132 +1,132 @@
 {
     "1": {
-        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "2": {
-        "<left>この先　危険。|<left>命惜しくば　引き返せ。": ""
+        "<left>この先　危険。|<left>命惜しくば　引き返せ。": "<left>Danger ahead.|<left>Turn back if you want to live."
     },
     "3": {
-        "<center>↑ミューズ海岸行き　桟橋|<center>知恵の眠る遺跡↓": ""
+        "<center>↑ミューズ海岸行き　桟橋|<center>知恵の眠る遺跡↓": "↑ Pier to Muse Coast|↓ Sleeping Wisdom Ruins"
     },
     "4": {
-        "<center>↑ミューズ海岸行き　桟橋": ""
+        "<center>↑ミューズ海岸行き　桟橋": "↑ Pier to Muse Coast"
     },
     "5": {
-        "<center>↑ミューズ海岸行き　桟橋|<center>王立調査団　調査予定地↓": ""
+        "<center>↑ミューズ海岸行き　桟橋|<center>王立調査団　調査予定地↓": "↑ Pier to Muse Coast|↓ Royal Survey Team Scheduled Survey Site"
     },
     "6": {
-        "<left>ここより　東の地。|<left>大いなる知恵が　眠るとされる遺跡あり。": ""
+        "<left>ここより　東の地。|<left>大いなる知恵が　眠るとされる遺跡あり。": "<left>From here is the eastern land.|<left>There are ruins where great wisdom lies."
     },
     "7": {
-        "<left>←知恵の眠る遺跡|<right>浜辺の小屋→": ""
+        "<left>←知恵の眠る遺跡|<right>浜辺の小屋→": "← Sleeping Wisdom Ruins|→ Beach Hut"
     },
     "8": {
-        "<left>この先　知恵の眠る遺跡": ""
+        "<left>この先　知恵の眠る遺跡": "<left>Sleeping Wisdom Ruins ahead"
     },
     "9": {
-        "<right>浜辺の小屋→": ""
+        "<right>浜辺の小屋→": "→ Beach Hut"
     },
     "10": {
-        "<center>↑知恵の眠る遺跡|<center>ミューズ海岸行き　桟橋↓": ""
+        "<center>↑知恵の眠る遺跡|<center>ミューズ海岸行き　桟橋↓": "↑ Sleeping Wisdom Ruins|↓ Pier to Muse Coast"
     },
     "11": {
-        "<center>－警告！－|<left>この先　魔物による被害多発中。|<right>ヴェリナード王立衛士団": ""
+        "<center>－警告！－|<left>この先　魔物による被害多発中。|<right>ヴェリナード王立衛士団": "                ― Warning! ―|Increased damage from monsters ahead.|― Verinard Royal Guards"
     },
     "12": {
-        "<center>↑王立調査団　調査予定地|<center>ミューズ海岸行き　桟橋↓": ""
+        "<center>↑王立調査団　調査予定地|<center>ミューズ海岸行き　桟橋↓": "↑ Royal Survey Team Scheduled Survey Site|↓ Pier to Muse Coast"
     },
     "13": {
-        "<left>またの　ご利用を　お待ちしております。": ""
+        "<left>またの　ご利用を　お待ちしております。": "<left>We look forward to seeing you again."
     },
     "14": {
-        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": ""
+        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
     },
     "15": {
-        "<left>←ジュレー島行き　桟橋|<right>コルット地方→": ""
+        "<left>←ジュレー島行き　桟橋|<right>コルット地方→": "← Pier to Jule Island|→ Colt Region"
     },
     "16": {
-        "<center>↑祈りの宿行き　桟橋|<left>←ジュレー島行き　桟橋": ""
+        "<center>↑祈りの宿行き　桟橋|<left>←ジュレー島行き　桟橋": "↑ Pier to Prayer Inn|← Pier to Jule Island"
     },
     "17": {
-        "<center>↑道なり　祈りの宿|<left>←ジュレー島行き　桟橋": ""
+        "<center>↑道なり　祈りの宿|<left>←ジュレー島行き　桟橋": "↑ Road to Prayer Inn|← Pier to Jule Island"
     },
     "18": {
-        "<left>カヌーをご利用の際は|<left>渡し守に　お声をおかけください。": ""
+        "<left>カヌーをご利用の際は|<left>渡し守に　お声をおかけください。": "<left>Please speak to the ferryman to use the canoe."
     },
     "19": {
-        "<left>クルメルの滝": ""
+        "<left>クルメルの滝": "<left>Krumel Waterfall"
     },
     "20": {
-        "<left>ジュレー島行き　桟橋": ""
+        "<left>ジュレー島行き　桟橋": "<left>Pier to Jule Island"
     },
     "21": {
-        "<center>↑シエラ巡礼地|<left>巡礼者以外の　立入りは　ご遠慮ください。": ""
+        "<center>↑シエラ巡礼地|<left>巡礼者以外の　立入りは　ご遠慮ください。": "↑ Sierra Pilgrimage Site|Only pilgrims are allowed to enter."
     },
     "22": {
-        "<center>↑祈りの宿": ""
+        "<center>↑祈りの宿": "↑ Prayer Inn"
     },
     "23": {
-        "<left>祈りの宿へ　ようこそ。|<left>婚礼の儀　うけたまわります。": ""
+        "<left>祈りの宿へ　ようこそ。|<left>婚礼の儀　うけたまわります。": "<left>Welcome to the Prayer Inn.|<left>Wedding ceremonies accepted."
     },
     "24": {
-        "<left>道なり　ジュレー島行き　桟橋": ""
+        "<left>道なり　ジュレー島行き　桟橋": "<left>Road to the pier to Jule Island"
     },
     "25": {
-        "<left>←コルット地方|<right>ジュレー島行き　桟橋→": ""
+        "<left>←コルット地方|<right>ジュレー島行き　桟橋→": "← Colt Region|→ Pier to Jule Island"
     },
     "26": {
-        "<left>祈りの宿へ　ようこそ。|<left>ふたりの門出は　当宿から！": ""
+        "<left>祈りの宿へ　ようこそ。|<left>ふたりの門出は　当宿から！": "<left>Welcome to the Prayer Inn.|<left>The perfect place to start your life together!"
     },
     "27": {
-        "<center>↑地底湖の洞くつ|<left>←シエラ巡礼地": ""
+        "<center>↑地底湖の洞くつ|<left>←シエラ巡礼地": "↑ Underground Lake Cave|← Sierra Pilgrimage Site"
     },
     "28": {
-        "<left>南東に向かうと　コルット地方。|<right>ジュレー島行き　桟橋→": ""
+        "<left>南東に向かうと　コルット地方。|<right>ジュレー島行き　桟橋→": "To the southeast is the Colt Region.|→ Pier to Jule Island"
     },
     "29": {
-        "<center>↑ヴェリナード領南行き　桟橋|<center>道なり　西の灯台↓": ""
+        "<center>↑ヴェリナード領南行き　桟橋|<center>道なり　西の灯台↓": "↑ Pier to Verinard South|↓ Road to West Lighthouse"
     },
     "30": {
-        "<center>↑ヴェリナード領南行き　桟橋|<right>そよ風の浜→|<center>道なり　西の灯台↓": ""
+        "<center>↑ヴェリナード領南行き　桟橋|<right>そよ風の浜→|<center>道なり　西の灯台↓": "↑ Pier to Verinard South|→ Breezy Beach|↓ Road to West Lighthouse"
     },
     "31": {
-        "<center>↑西の灯台に続く道|<left>←ヴェリナード領南行き　桟橋": ""
+        "<center>↑西の灯台に続く道|<left>←ヴェリナード領南行き　桟橋": "↑ Path to West Lighthouse|← Pier to Verinard South"
     },
     "32": {
-        "<left>灯台の修理中につき|<left>カヌーは　ご利用になれません。": ""
+        "<left>灯台の修理中につき|<left>カヌーは　ご利用になれません。": "<left>The lighthouse is under repair.|<left>Canoes are not available."
     },
     "33": {
-        "<center>－そよ風の浜－|<left>おだやかな風と　静かな波に運ばれ|<left>深き海の青が　たどり着く浜なり。": ""
+        "<center>－そよ風の浜－|<left>おだやかな風と　静かな波に運ばれ|<left>深き海の青が　たどり着く浜なり。": "               －Breezy Beach－|Carried by gentle breezes and quiet waves,|this beach is where the deep blue sea reaches."
     },
     "34": {
-        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": ""
+        "<left>この先　未調査地域。|<left>危険なため　立ち入りを禁じます。|<right>ヴェリナード王立調査団": "<left>Unsurveyed Site ahead.|<left>This area is dangerous so entry is prohibited.|― Verinard Royal Survey Team"
     },
     "35": {
-        "<left>段差を　むやみに飛び降りると|<left>戻るのに　苦労することもある。|<left>足もとには　気をつけるべし。": ""
+        "<left>段差を　むやみに飛び降りると|<left>戻るのに　苦労することもある。|<left>足もとには　気をつけるべし。": "<left>If you jump down a step unnecessarily, you may|<left>have trouble getting back up.|<left>Watch your step."
     },
     "36": {
-        "<left>この先　凶悪なモンスターの棲みか。|<left>興味本位で　近づかないこと。": ""
+        "<left>この先　凶悪なモンスターの棲みか。|<left>興味本位で　近づかないこと。": "<left>Home of vicious monsters ahead.|<left>Do not approach them out of curiosity."
     },
     "37": {
-        "<center>↑道なり　西の灯台|<center>ヴェリナード領南行き　桟橋↓": ""
+        "<center>↑道なり　西の灯台|<center>ヴェリナード領南行き　桟橋↓": "↑ Road to West Lighthouse|↓ Pier to Verinard South"
     },
     "38": {
-        "<center>↑道なり　西の灯台|<left>←そよ風の浜|<center>ヴェリナード領南行き　桟橋↓": ""
+        "<center>↑道なり　西の灯台|<left>←そよ風の浜|<center>ヴェリナード領南行き　桟橋↓": "↑ Road to West Lighthouse|← Breezy Beach|↓ Pier to Verinard South"
     },
     "39": {
-        "<center>↑がけ崩れのため　閉鎖中": ""
+        "<center>↑がけ崩れのため　閉鎖中": "↑ Closed due to landslide."
     },
     "40": {
-        "<center>↑道なり　キュララナ海岸行き　桟橋|<center>道なり　ヴェリナード城行き　桟橋↓": ""
+        "<center>↑道なり　キュララナ海岸行き　桟橋|<center>道なり　ヴェリナード城行き　桟橋↓": "↑ Road to the pier to Kyurarana Coast|↓ Road to the pier to Verinard Castle"
     },
     "41": {
-        "<center>↑ヴェリナード城行き　桟橋": ""
+        "<center>↑ヴェリナード城行き　桟橋": "↑ Pier to Verinard Castle"
     },
     "42": {
-        "<center>－危険！－|<left>この先　重点警備強化地帯。|<right>ヴェリナード王立衛士団": ""
+        "<center>－危険！－|<left>この先　重点警備強化地帯。|<right>ヴェリナード王立衛士団": "                 －Danger!－|Priority increased security zone ahead.|― Verinard Royal Guards"
     },
     "43": {
-        "<center>↑ヴェリナード領西行き　桟橋": ""
+        "<center>↑ヴェリナード領西行き　桟橋": "↑ Pier to Verinard West"
     },
     "44": {
         "<left>この先　ヴェリナード領北への道は|<left>危険な魔物が巣食う　苦難の道。|<left>ヴェリナード城を　経由するべし。": ""
@@ -231,7 +231,7 @@
         "<center>↑キュララナ海岸": ""
     },
     "78": {
-        "<center>↑ヴェリナード城行き　桟橋": ""
+        "<center>↑ヴェリナード城行き　桟橋": "↑ Pier to Verinard Castle"
     },
     "79": {
         "<center>↑道なり　ヴェリナード城行き　桟橋": ""
@@ -288,85 +288,85 @@
         "<left>←フエラゴの滝|<right>ドルロイの滝→": ""
     },
     "97": {
-        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": ""
+        "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
     },
     "98": {
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "99": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "100": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "101": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "102": {
-        "<pc>は　看板を読んだ。|しかし　こちらは　裏側だった！|<end>": ""
+        "<pc>は　看板を読んだ。|しかし　こちらは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "103": {
         "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "104": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "105": {
-        "<left>住宅村の　看板だ。": ""
+        "<left>住宅村の　看板だ。": "<left>It's a housing sign."
     },
     "106": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "107": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "108": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "109": {
         "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "110": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "111": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "112": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "113": {
-        "<left>さいほう設備の　看板だ。": ""
+        "<left>さいほう設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "114": {
         "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "115": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "116": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "117": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "118": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "119": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "120": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "121": {
         "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "122": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "123": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "124": {
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
@@ -375,76 +375,76 @@
         "<left>預かり所の　看板だ。": "<left>It's a depository sign."
     },
     "126": {
-        "<left>美容院の　看板だ。": ""
+        "<left>美容院の　看板だ。": "<left>It's a salon sign."
     },
     "127": {
-        "<left>防具屋の　看板だ。": ""
+        "<left>防具屋の　看板だ。": "<left>It's an armor shop sign."
     },
     "128": {
-        "<left>武器屋の　看板だ。": ""
+        "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "129": {
         "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
     },
     "130": {
-        "<left>駅の　看板だ。": ""
+        "<left>駅の　看板だ。": "<left>It's a station sign."
     },
     "131": {
-        "<left>住宅村の　看板だ。": ""
+        "<left>住宅村の　看板だ。": "<left>It's a housing sign."
     },
     "132": {
-        "<left>家具屋の　看板だ。": ""
+        "<left>家具屋の　看板だ。": "<left>It's a furniture shop sign."
     },
     "133": {
-        "<left>鍛冶設備の　看板だ。": ""
+        "<left>鍛冶設備の　看板だ。": "<left>It's a blacksmith sign."
     },
     "134": {
-        "<left>建築屋の　看板だ。": ""
+        "<left>建築屋の　看板だ。": "<left>It's a building shop sign."
     },
     "135": {
         "<left>教会の　看板だ。": "<left>It's a church sign."
     },
     "136": {
-        "<left>木工設備の　看板だ。": ""
+        "<left>木工設備の　看板だ。": "<left>It's a woodworking sign."
     },
     "137": {
-        "<left>ランプ錬金設備の　看板だ。": ""
+        "<left>ランプ錬金設備の　看板だ。": "<left>It's a lamp alchemy facility sign."
     },
     "138": {
-        "<left>料理屋の　看板だ。": ""
+        "<left>料理屋の　看板だ。": "<left>It's an eatery sign."
     },
     "139": {
-        "<left>さいほう設備の　看板だ。": ""
+        "<left>さいほう設備の　看板だ。": "<left>It's a sewing facility sign."
     },
     "140": {
         "<left>酒場の　看板だ。": "<left>It's a tavern sign."
     },
     "141": {
-        "<left>装飾具屋の　看板だ。": ""
+        "<left>装飾具屋の　看板だ。": "<left>It's a decoration shop sign."
     },
     "142": {
-        "<left>素材屋の　看板だ。": ""
+        "<left>素材屋の　看板だ。": "<left>It's a material shop sign."
     },
     "143": {
-        "<left>旅人バザーの　看板だ。": ""
+        "<left>旅人バザーの　看板だ。": "<left>It's a traveler's bazaar sign."
     },
     "144": {
-        "<left>陶芸設備の　看板だ。": ""
+        "<left>陶芸設備の　看板だ。": "<left>It's a ceramics sign."
     },
     "145": {
-        "<left>ツボ錬金設備の　看板だ。": ""
+        "<left>ツボ錬金設備の　看板だ。": "<left>It's a pot alchemy facility sign."
     },
     "146": {
-        "<left>調理設備の　看板だ。": ""
+        "<left>調理設備の　看板だ。": "<left>It's a cooking spot sign."
     },
     "147": {
         "<left>宿屋の　看板だ。": "<left>It's an inn sign."
     },
     "148": {
-        "<left>薬剤設備の　看板だ。": ""
+        "<left>薬剤設備の　看板だ。": "<left>It's a medicinal sign."
     },
     "149": {
-        "<left>よろず屋の　看板だ。": ""
+        "<left>よろず屋の　看板だ。": "<left>It's a general shop sign."
     },
     "150": {
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
@@ -477,7 +477,7 @@
         "<pc>は　石碑を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": ""
     },
     "160": {
-        "こちらは　裏側だ。|<end>": ""
+        "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
     },
     "161": {
         "<left>魔物との戦い方や　遺跡の調査結果について|<left>書かれているようだが　字がヘタクソで|<left><pc>には　内容が　わからなかった！": ""
@@ -528,10 +528,10 @@
         "<center>－あかつきの海岸－|<left>東の空が白むころ　嘆きの海の精霊が|<left>光の泡となって　消えたという伝説が残る。": ""
     },
     "177": {
-        "<left>売店の　看板だ。": ""
+        "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "178": {
-        "<left>売店の　看板だ。": ""
+        "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "179": {
         "<left>アクセサリー屋の　看板だ。": ""
@@ -540,7 +540,7 @@
         "<left>アクセサリー屋の　看板だ。": ""
     },
     "181": {
-        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": ""
+        "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
     },
     "182": {
         "<left>道なりに進むと　ジュレー島行き　桟橋。|<left>左前方のガケを下りると　危険地帯！|<left>落ちないように　気をつけよう。": ""

@@ -5913,13 +5913,13 @@
         "%": ""
     },
     "1972": {
-        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": ""
+        "<speed=0>|<%sM_image>を|目覚めし冒険者の広場　思い出アルバムに|保存しました。https://hiroba.dqx.jp": "<speed=0>|<%sM_image> was saved in the Memories|Album on the Adventurer's Awakening Square.|(https://hiroba.dqx.jp)"
     },
     "1973": {
-        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": ""
+        "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "<speed=0>|Failed to save to Photo Album.|Error Code: <%sERRID>"
     },
     "1974": {
-        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": ""
+        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": "<speed=0>|Saving photo to the Photo Album.|Please wait a moment.<break>"
     },
     "1975": {
         "clarity_nt_char_1975": "clarity_nt_char_1975"
@@ -9378,7 +9378,7 @@
         "clarity_nt_char_3126": "clarity_nt_char_3126"
     },
     "3127": {
-        "ドレスアップ代": "Dress Up Rate"
+        "ドレスアップ代": "Dress Up Cost"
     },
     "3128": {
         "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for party member response..."
@@ -32196,19 +32196,19 @@
         "clarity_nt_char_10732": "clarity_nt_char_10732"
     },
     "10733": {
-        "こうげき魔力＋<%nB_VAL>": ""
+        "こうげき魔力＋<%nB_VAL>": "Mag. Might +<%dB_VAL>"
     },
     "10734": {
         "clarity_nt_char_10734": "clarity_nt_char_10734"
     },
     "10735": {
-        "きようさ＋<%nB_VAL>": ""
+        "きようさ＋<%nB_VAL>": "Deftness +<%dB_VAL>"
     },
     "10736": {
         "clarity_nt_char_10736": "clarity_nt_char_10736"
     },
     "10737": {
-        "かいふく魔力＋<%nB_VAL>": ""
+        "かいふく魔力＋<%nB_VAL>": "Mag. Mending +<%dB_VAL>"
     },
     "10738": {
         "clarity_nt_char_10738": "clarity_nt_char_10738"
@@ -32220,13 +32220,13 @@
         "clarity_nt_char_10740": "clarity_nt_char_10740"
     },
     "10741": {
-        "かいしん率+<%.1fB_VAL>%": ""
+        "かいしん率+<%.1fB_VAL>%": "Crit. Rate +<%.1fB_VAL>%"
     },
     "10742": {
         "clarity_nt_char_10742": "clarity_nt_char_10742"
     },
     "10743": {
-        "出品されている同じ難易度の依頼書": ""
+        "出品されている同じ難易度の依頼書": "Same Difficulty Request Form"
     },
     "10744": {
         "clarity_nt_char_10744": "clarity_nt_char_10744"
@@ -32238,13 +32238,13 @@
         "clarity_nt_char_10746": "clarity_nt_char_10746"
     },
     "10747": {
-        "武器の道標": ""
+        "武器の道標": "Weapon Road"
     },
     "10748": {
-        "職業の道標": ""
+        "職業の道標": "Vocation Road"
     },
     "10749": {
-        "つよさの道標": ""
+        "つよさの道標": "Stat Road"
     },
     "10750": {
         "clarity_nt_char_10750": "clarity_nt_char_10750"
@@ -32274,16 +32274,16 @@
         "clarity_nt_char_10758": "clarity_nt_char_10758"
     },
     "10759": {
-        "バフ効果の確認": ""
+        "バフ効果の確認": "Confirm Buff Effects"
     },
     "10760": {
-        "バフ効果を見る": ""
+        "バフ効果を見る": "See Buff Effects"
     },
     "10761": {
-        "まだ続ける": ""
+        "まだ続ける": "Keep Going"
     },
     "10762": {
-        "探査を終える": ""
+        "探査を終える": "Finish Search"
     },
     "10763": {
         "clarity_nt_char_10763": "clarity_nt_char_10763"
@@ -32295,10 +32295,10 @@
         "clarity_nt_char_10765": "clarity_nt_char_10765"
     },
     "10766": {
-        "探査回数 あと<%dM_num>回": ""
+        "探査回数 あと<%dM_num>回": "<%dM_num> Explorations Left"
     },
     "10767": {
-        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": ""
+        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": "Resets on <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%dM_hh>:<%dM_mm>"
     },
     "10768": {
         "clarity_nt_char_10768": "clarity_nt_char_10768"
@@ -32595,6 +32595,6 @@
         "clarity_nt_char_10865": "clarity_nt_char_10865"
     },
     "10866": {
-        "天星郷の世界": ""
+        "天星郷の世界": "Heavenly Realm"
     }
 }

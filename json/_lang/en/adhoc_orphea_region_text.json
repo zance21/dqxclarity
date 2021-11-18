@@ -3,13 +3,13 @@
         "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the sign.|But you're standing on the wrong side!"
     },
     "2": {
-        "<center>↑道なり　プクレットの村|<center>ポーポラ地方↓": "<center>↑Road to Pukulet Village|<center>Popola Region↓"
+        "<center>↑道なり　プクレットの村|<center>ポーポラ地方↓": "↑ Road to Pukulet Village|↓ Popola Region"
     },
     "3": {
-        "<center>↑プクレットの村|<right>道なり　ポーポラ地方→|<center>けがれの谷↓": "<center>↑Pukulet Village|<right>Road to Popola Region→|<center>Injury Valley↓"
+        "<center>↑プクレットの村|<right>道なり　ポーポラ地方→|<center>けがれの谷↓": "↑ Pukulet Village|→ Road to Popola Region|↓ Injury Valley"
     },
     "4": {
-        "<left>←けがれの谷|<right>プクレットの村→": "<left>←Injury Valley|<right>Pukulet Village→"
+        "<left>←けがれの谷|<right>プクレットの村→": "← Injury Valley|→ Pukulet Village"
     },
     "5": {
         "<left>この先　けがれの谷。|<left>近づく者は　死の災いを覚悟せよ。": "<left>Injury Valley ahead.|<left>Those who approach, prepare for the plague of|<left>death."
@@ -18,34 +18,34 @@
         "<left>これより先　柵を越えると　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area beyond the fence ahead!|<left>If you must proceed, make sure you are|<left>prepared."
     },
     "7": {
-        "<center>↑けがれの谷": "<center>↑Injury Valley"
+        "<center>↑けがれの谷": "↑ Injury Valley"
     },
     "8": {
-        "<left>←道なり　プクレットの村|<right>道なり　ポーポラ地方→": "<left>←Road to Pukulet Village|<right>Road to Popola Region→"
+        "<left>←道なり　プクレットの村|<right>道なり　ポーポラ地方→": "← Road to Pukulet Village|→ Road to Popola Region"
     },
     "9": {
-        "<center>↑ポーポラ地方|<center>道なり　プクレットの村↓": "<center>↑Popola Region|<center>Road to Pukulet Village↓"
+        "<center>↑ポーポラ地方|<center>道なり　プクレットの村↓": "↑ Popola Region|↓ Road to Pukulet Village"
     },
     "10": {
-        "<center>↑けがれの谷|<left>←道なり　ポーポラ地方|<center>プクレットの村↓": "<center>↑Injury Valley|<left>←Road to Popola Region|<center>Pukulet Village↓"
+        "<center>↑けがれの谷|<left>←道なり　ポーポラ地方|<center>プクレットの村↓": "↑ Injury Valley|← Road to Popola Region|↓ Pukulet Village"
     },
     "11": {
-        "<center>↑オルフェアの町|<center>リンクル地方↓": "<center>↑Orphea Village|<center>Wrinkle Region↓"
+        "<center>↑オルフェアの町|<center>リンクル地方↓": "↑ Orphea Village|↓ Wrinkle Region"
     },
     "12": {
-        "<center>↑オルフェアの町|<right>フェルアバの洞くつ→|<center>風車の丘↓": "<center>↑Orphea Village|<right>Felaba Cave→|<center>Windmill Way↓"
+        "<center>↑オルフェアの町|<right>フェルアバの洞くつ→|<center>風車の丘↓": "↑ Orphea Village|→ Felaba Cave|↓ Windmill Way"
     },
     "13": {
-        "<left>←ミュルエルの森": "<left>←Muruel Forest"
+        "<left>←ミュルエルの森": "← Muruel Forest"
     },
     "14": {
-        "<left>↑リンクル地方|<right>風車の丘→": "<left>↑Wrinkle Region|<right>Windmill Way→"
+        "<left>↑リンクル地方|<right>風車の丘→": "↑ Wrinkle Region|→ Windmill Way"
     },
     "15": {
         "<left>ここから先　ちっとも怪しくないので|<left>行ったりしないこと！|<left>ダンダダ団アジトなんか　絶対ないぞ！": "<left>There's nothing suspicious about this place,|<left>so don't go there! There's no such thing as a|<left>Robbin' 'Ood Gang HQ!"
     },
     "16": {
-        "<left>←オルフェアの町|<right>リンクル地方→|<center>ミュルエルの森↓": "<left>←Orphea Village|<right>Wrinkle Region→|<center>Muruel Forest↓"
+        "<left>←オルフェアの町|<right>リンクル地方→|<center>ミュルエルの森↓": "← Orphea Village|→ Wrinkle Region|↓ Muruel Forest"
     },
     "17": {
         "<left>この農園は　自然野菜を愛する|<left>オルフェア町民の共同出資で　成り立っています。|<left>あなたも　野菜中心の生活にしてみませんか？": "<left>The farm is jointly funded by the residents of|<left>Orphea who love natural vegetables.|<left>Why not try a vegetable-centered lifestyle?"
@@ -60,49 +60,49 @@
         "<left>この辺り　レッドベリーのなる木。|<left>そのままだと　からくて食べられません。": "<left>Trees with buzzberries in this area.|<left>You can't eat them as they are because they are|<left>too spicy."
     },
     "21": {
-        "<center>↑リンクル地方|<center>オルフェアの町↓": "<center>↑Wrinkle Region|<center>Orphea Village↓"
+        "<center>↑リンクル地方|<center>オルフェアの町↓": "↑ Wrinkle Region|↓ Orphea Village"
     },
     "22": {
-        "<center>↑風車の丘|<left>←フェルアバの洞くつ|<center>オルフェアの町↓": "<center>↑Windmill Way|<left>←Felaba Cave|<center>Orphea Village↓"
+        "<center>↑風車の丘|<left>←フェルアバの洞くつ|<center>オルフェアの町↓": "↑ Windmill Way|← Felaba Cave|↓ Orphea Village"
     },
     "23": {
-        "<center>↑道なり　風車の丘|<right>坂を上ると　メギラザの洞くつ→": "<center>↑Road to Windmill Way|<right>Up the hill is Cave of Megilaza→"
+        "<center>↑道なり　風車の丘|<right>坂を上ると　メギラザの洞くつ→": "↑ Road to Windmill Way|→ Up the hill is Cave of Megilaza"
     },
     "24": {
-        "<center>↑道なり　風車の丘": "<center>↑Road to Windmill Way"
+        "<center>↑道なり　風車の丘": "↑ Road to Windmill Way"
     },
     "25": {
         "<left>この先にある柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence up ahead is a dangerous area!|<left>Make sure you are prepared."
     },
     "26": {
-        "<left>←風車の丘|<right>エピステーサ丘陵→": "<left>←Windmill Way|<right>Epistesa Hills→"
+        "<left>←風車の丘|<right>エピステーサ丘陵→": "← Windmill Way|→ Epistesa Hills"
     },
     "27": {
         "<left>対岸に見える　不思議な形の山は|<left>聖地パサラン団子山と　呼ばれており|<left>ふもとには　聖なるチカラが宿るといわれます。": "<left>The strangely shaped mountain across the river|<left>is called Sacred Pasaran Dango Mountain, and|<left>it's said that holy power resides at its base."
     },
     "28": {
-        "<center>↑チョッピ荒野へのトンネル": "<center>↑Tunnel to Choppi Wilderness"
+        "<center>↑チョッピ荒野へのトンネル": "↑ Tunnel to Choppi Wilderness"
     },
     "29": {
-        "<center>↑道なり　メギストリスの都": "<center>↑Road to City of Megistris"
+        "<center>↑道なり　メギストリスの都": "↑ Road to City of Megistris"
     },
     "30": {
-        "<center>↑坂を上ると　プペラトンネル|<center>↓道なり　風車の丘": "<center>↑Up the hill is Pupella Tunnel|<center>↓Road to Windmill Way"
+        "<center>↑坂を上ると　プペラトンネル|<center>↓道なり　風車の丘": "↑ Up the hill is Pupella Tunnel|↓ Road to Windmill Way"
     },
     "31": {
-        "<center>↑道なり　メギストリス領|<center>道なり　チョッピ荒野↓": "<center>↑Road to Megistris Territory|<center>Road to Choppi Wilderness↓"
+        "<center>↑道なり　メギストリス領|<center>道なり　チョッピ荒野↓": "↑ Road to Megistris Territory|↓ Road to Choppi Wilderness"
     },
     "32": {
-        "<center>↑道なり　メギストリス領": "<center>↑Road to Megistris Territory"
+        "<center>↑道なり　メギストリス領": "↑ Road to Megistris Territory"
     },
     "33": {
-        "<center>↑道なり　メギストリス領": "<center>↑Road to Megistris Territory"
+        "<center>↑道なり　メギストリス領": "↑ Road to Megistris Territory"
     },
     "34": {
         "<left>ここは　聖地パサラン団子山。|<left>ふもとに眠る　聖人パサラーンの遺志が|<left>邪悪を払う光となって　あふれています。": "<left>This is the Sacred Pasaran Dango Mountain.|<left>At the foot of the mountain, the will of saint|<left>Pasaran overflows with light to ward off evil."
     },
     "35": {
-        "<left>←ハニーレイク経由　チョッピ荒野|<right>聖地パサラン団子山経由　チョッピ荒野→": "<left>←Choppi Wilderness via Honey Lake|<right>Choppi Wilderness via Pasaran Dango Mtn.→"
+        "<left>←ハニーレイク経由　チョッピ荒野|<right>聖地パサラン団子山経由　チョッピ荒野→": "← Choppi Wilderness via Honey Lake|→ Choppi Wilderness via Pasaran Dango Mtn."
     },
     "36": {
         "<left>これより先　底なし穴あり。|<left>足元を確認の上　充分に注意されたし。": "<left>Bottomless pit ahead.|<left>Please check your footing and be very careful."
@@ -111,19 +111,19 @@
         "<left>この先　ピテッザのほら穴": "<left>Pitheza Cave ahead"
     },
     "38": {
-        "<center>↑道なり　チョッピ荒野|<center>道なり　メギストリス領↓": "<center>↑Road to Choppi Wilderness|<center>Road to Megistris Territory↓"
+        "<center>↑道なり　チョッピ荒野|<center>道なり　メギストリス領↓": "↑ Road to Choppi Wilderness|↓ Road to Megistris Territory"
     },
     "39": {
-        "<center>↑道なり　聖地パサラン団子山|<left>←チョッピ荒野": "<center>↑Road to Sacred Pasaran Dango Mountain|<left>←Choppi Wilderness"
+        "<center>↑道なり　聖地パサラン団子山|<left>←チョッピ荒野": "↑ Road to Sacred Pasaran Dango Mountain|← Choppi Wilderness"
     },
     "40": {
-        "<center>↑ハニーレイク地域": "<center>↑Honey Lake Region"
+        "<center>↑ハニーレイク地域": "↑ Honey Lake Region"
     },
     "41": {
-        "<center>↑エピステーサ丘陵|<right>メギストリス領→": "<center>↑Epistesa Hills|<right>Megistris Territory→"
+        "<center>↑エピステーサ丘陵|<right>メギストリス領→": "↑ Epistesa Hills|→ Megistris Territory"
     },
     "42": {
-        "<center>↑エピステーサ丘陵|<left>←荒野の休息所|<right>メギストリス領→": "<center>↑Epistesa Hills|<left>←Wilderness Retreat|<right>Megistris Territory→"
+        "<center>↑エピステーサ丘陵|<left>←荒野の休息所|<right>メギストリス領→": "↑ Epistesa Hills|← Wilderness Retreat|→ Megistris Territory"
     },
     "43": {
         "<left>この先　崩れゆく廃墟。|<left>魔物の棲み家となっているため　立ち入りを禁ず。": "<left>Crumbling Ruins ahead.|<left>It is forbidden to enter, as it is the home of|<left>monsters."
@@ -135,13 +135,13 @@
         "<left>ここは　荒野の休息所。|<left>かつては　鉱山で　はたらく者たちの|<left>宿泊所として　使われておりました。": "<left>This is the Wilderness Retreat.|<left>It was once used as a place to stay for those|<left>who worked in the mines."
     },
     "46": {
-        "<left>←メギストリス領|<right>荒野の休息所→": "<left>←Megistris Territory|<right>Wilderness Retreat→"
+        "<left>←メギストリス領|<right>荒野の休息所→": "← Megistris Territory|→ Wilderness Retreat"
     },
     "47": {
-        "<center>↑荒野の休息所|<left>←メギストリス領": "<center>↑Wilderness Retreat|<left>←Megistris Territory"
+        "<center>↑荒野の休息所|<left>←メギストリス領": "↑ Wilderness Retreat|← Megistris Territory"
     },
     "48": {
-        "<center>↑チューザー地下空洞|<left>←メギストリス領|<right>荒野の休息所→": "<center>↑Chooser Underground Cavity|<left>←Megistris Territory|<right>Wilderness Retreat→"
+        "<center>↑チューザー地下空洞|<left>←メギストリス領|<right>荒野の休息所→": "↑ Chooser Underground Cavity|← Megistris Territory|→ Wilderness Retreat"
     },
     "49": {
         "<left>奥に見えるのが　大蛇の巣。|<left>危険なので　柵の中に入ったりしないように。": "<left>In the back is the nest of the giant snake.|<left>Don't go inside the fence, it's dangerous."
@@ -162,43 +162,43 @@
         "<left>この先　土砂崩れのため　閉鎖中|<left>危険なので　立ち入るべからず。": "<left>The area ahead is closed due to a landslide,|<left>so please do not enter."
     },
     "55": {
-        "<center>↑銀の丘|<center>オルフェア地方西↓": "<center>↑Silver H.|<center>Orphea Region West↓"
+        "<center>↑銀の丘|<center>オルフェア地方西↓": "↑ Silver Hill|↓ Orphea Region West"
     },
     "56": {
-        "<center>↑オルフェア地方西|<center>銀の丘↓": "<center>↑Orphea Region West|<center>Silver H.↓"
+        "<center>↑オルフェア地方西|<center>銀の丘↓": "↑ Orphea Region West|↓ Silver Hill"
     },
     "57": {
-        "<left>←銀の丘|<right>オルフェア地方西→|<center>アルウェ王妃の別荘跡↓": "<left>←Silver H.|<right>Orphea Region West→|<center>Queen Alwa's Villa Ruins↓"
+        "<left>←銀の丘|<right>オルフェア地方西→|<center>アルウェ王妃の別荘跡↓": "← Silver Hill|→ Orphea Region West|↓ Queen Alwa's Villa Ruins"
     },
     "58": {
         "<left>この先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area ahead!|<left>Make sure you are prepared."
     },
     "59": {
-        "<center>↑オルフェア地方西|<center>銀の丘↓": "<center>↑Orphea Region West|<center>Silver H.↓"
+        "<center>↑オルフェア地方西|<center>銀の丘↓": "↑ Orphea Region West|↓ Silver Hill"
     },
     "60": {
-        "<center>↑銀の丘|<center>オルフェア地方西↓": "<center>↑Silver H.|<center>Orphea Region West↓"
+        "<center>↑銀の丘|<center>オルフェア地方西↓": "↑ Silver Hill|↓ Orphea Region West"
     },
     "61": {
-        "<center>↑オルフェアの町|<center>ポーポラ地方↓": "<center>↑Orphea Village|<center>Popola Region↓"
+        "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Orphea Village|↓ Popola Region"
     },
     "62": {
-        "<center>↑ポーポラ地方|<center>オルフェアの町↓": "<center>↑Popola Region|<center>Orphea Village↓"
+        "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Orphea Village"
     },
     "63": {
         "<left>この先　危険地帯！|<left>橋をふたつ　渡りきるまでは。|<left>用心して　進むべし。": "<left>Dangerous area ahead!|<left>Until you cross two bridges.|<left>You must proceed with caution."
     },
     "64": {
-        "<center>↑オルフェアの町|<left>←プーラのほら穴|<center>ポーポラ地方↓": "<center>↑Orphea Village|<left>←Pura's Cave|<center>Popola Region↓"
+        "<center>↑オルフェアの町|<left>←プーラのほら穴|<center>ポーポラ地方↓": "↑ Orphea Village|← Pura's Cave|↓ Popola Region"
     },
     "65": {
-        "<center>↑オルフェアの町|<right>オルッパ地下洞くつ→|<center>ポーポラ地方↓": "<center>↑Orphea Village|<right>Orphea Underground Caves→|<center>Popola Region↓"
+        "<center>↑オルフェアの町|<right>オルッパ地下洞くつ→|<center>ポーポラ地方↓": "↑ Orphea Village|→ Orphea Underground Caves|↓ Popola Region"
     },
     "66": {
-        "<center>↑オルッパ地下洞くつ": "<center>↑Orphea Underground Caves"
+        "<center>↑オルッパ地下洞くつ": "↑ Orphea Underground Caves"
     },
     "67": {
-        "<center>↑プーラのほら穴": "<center>↑Pura's Cave"
+        "<center>↑プーラのほら穴": "↑ Pura's Cave"
     },
     "68": {
         "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence is a dangerous area!|<left>Make sure you are prepared."
@@ -207,85 +207,85 @@
         "<left>柵の向こう　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the fence is a dangerous area!|<left>Make sure you are prepared."
     },
     "70": {
-        "<center>↑ポーポラ地方|<center>オルフェアの町↓": "<center>↑Popola Region|<center>Orphea Village↓"
+        "<center>↑ポーポラ地方|<center>オルフェアの町↓": "↑ Popola Region|↓ Orphea Village"
     },
     "71": {
-        "<center>↑オルフェアの町|<center>ポーポラ地方↓": "<center>↑Orphea Village|<center>Popola Region↓"
+        "<center>↑オルフェアの町|<center>ポーポラ地方↓": "↑ Orphea Village|↓ Popola Region"
     },
     "72": {
-        "<center>↑ポポリアきのこ山": "<center>↑Popolia Mushroom Mtn."
+        "<center>↑ポポリアきのこ山": "↑ Popolia Mushroom Mountain"
     },
     "73": {
-        "<center>↑ポーポラ地方|<right>プーラのほら穴→|<center>オルフェアの町↓": "<center>↑Popola Region|<right>Pura's Cave→|<center>Orphea Village↓"
+        "<center>↑ポーポラ地方|<right>プーラのほら穴→|<center>オルフェアの町↓": "↑ Popola Region|→ Pura's Cave|↓ Orphea Village"
     },
     "74": {
-        "<center>↑ポーポラ地方|<left>←オルッパ地下洞くつ|<center>オルフェアの町↓": "<center>↑Popola Region|<left>←Orphea Underground Caves|<center>Orphea Village↓"
+        "<center>↑ポーポラ地方|<left>←オルッパ地下洞くつ|<center>オルフェアの町↓": "↑ Popola Region|← Orphea Underground Caves|↓ Orphea Village"
     },
     "75": {
-        "<center>国立自然保護区　ミュルエルの森|<br>|<center>フォステイル広場は　道なりに北東へ": "<center>National Nature Reserve, Muruel Forest|<br>|<center>Along the road Northeast is Fostail Square."
+        "<center>国立自然保護区　ミュルエルの森|<br>|<center>フォステイル広場は　道なりに北東へ": "    National Nature Reserve, Muruel Forest|<br>| Along the road Northeast is Fostail Square."
     },
     "76": {
-        "<center>この先　危険地帯！|<center>凶悪な魔物が　多数　出現するので|<center>お気をつけください。": "<left>Dangerous area ahead!|<center>There's a lot of vicious monsters out there.|<center>Please be careful."
+        "<center>この先　危険地帯！|<center>凶悪な魔物が　多数　出現するので|<center>お気をつけください。": "            Dangerous area ahead!| There's a lot of vicious monsters out there.|              Please be careful."
     },
     "77": {
-        "<center>↑　この先　フォステイル広場": "<center>↑Fostail Square ahead"
+        "<center>↑　この先　フォステイル広場": "↑ Fostail Square ahead"
     },
     "78": {
-        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "<center>↑Megistris Territory|<center>Glitter Windmill Tower↓"
+        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "↑ Megistris Territory|↓ Glitter Windmill Tower"
     },
     "79": {
-        "<center>↑キラキラ大風車塔|<center>オルフェア地方西↓": "<center>↑Glitter Windmill Tower|<center>Orphea Region West↓"
+        "<center>↑キラキラ大風車塔|<center>オルフェア地方西↓": "↑ Glitter Windmill Tower|↓ Orphea Region West"
     },
     "80": {
-        "<center>↑キラキラ大風車塔|<center>メギストリス領↓": "<center>↑Glitter Windmill Tower|<center>Megistris Territory↓"
+        "<center>↑キラキラ大風車塔|<center>メギストリス領↓": "↑ Glitter Windmill Tower|↓ Megistris Territory"
     },
     "81": {
         "<left>ゲートを越えた先　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Beyond the gate is a dangerous area!|<left>Make sure you are prepared."
     },
     "82": {
-        "<left>←メギストリス領|<right>キラキラ大風車塔→|<center>オルフェア地方西↓": "<left>←Megistris Territory|<right>Glitter Windmill Tower→|<center>Orphea Region West↓"
+        "<left>←メギストリス領|<right>キラキラ大風車塔→|<center>オルフェア地方西↓": "← Megistris Territory|→ Glitter Windmill Tower|↓ Orphea Region West"
     },
     "83": {
-        "<center>↑キラキラ大風車塔|<center>メギストリス領↓": "<center>↑Glitter Windmill Tower|<center>Megistris Territory↓"
+        "<center>↑キラキラ大風車塔|<center>メギストリス領↓": "↑ Glitter Windmill Tower|↓ Megistris Territory"
     },
     "84": {
-        "<center>↑オルフェア地方西|<center>キラキラ大風車塔↓": "<center>↑Orphea Region West|<center>Glitter Windmill Tower↓"
+        "<center>↑オルフェア地方西|<center>キラキラ大風車塔↓": "↑ Orphea Region West|↓ Glitter Windmill Tower"
     },
     "85": {
-        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "<center>↑Megistris Territory|<center>Glitter Windmill Tower↓"
+        "<center>↑メギストリス領|<center>キラキラ大風車塔↓": "↑ Megistris Territory|↓ Glitter Windmill Tower"
     },
     "86": {
-        "<center>↑道なり　オルフェア地方東|<center>プクレット地方↓": "<center>↑Road to Orphea Region East|<center>Pukulet Region↓"
+        "<center>↑道なり　オルフェア地方東|<center>プクレット地方↓": "↑ Road to Orphea Region East|↓ Pukulet Region"
     },
     "87": {
-        "<center>↑道なり　プクレット地方|<center>オルフェア地方東↓": "<center>↑Road to Pukulet Region|<center>Orphea Region East↓"
+        "<center>↑道なり　プクレット地方|<center>オルフェア地方東↓": "↑ Road to Pukulet Region|↓ Orphea Region East"
     },
     "88": {
-        "<center>↑ポポラパの洞くつ": "<center>↑Popolapa Cave"
+        "<center>↑ポポラパの洞くつ": "↑ Popolapa Cave"
     },
     "89": {
-        "<center>↑ペシュヤ地下空洞": "<center>↑Peshuya Underground Cave"
+        "<center>↑ペシュヤ地下空洞": "↑ Peshuya Underground Cave"
     },
     "90": {
         "<left>この先　細い道を抜けると　危険地帯！|<left>どうしても進む場合は　準備を万全に。": "<left>Dangerous area through the narrow path ahead!|<left>Make sure you are prepared."
     },
     "91": {
-        "<center>↑プクレット地方|<center>道なり　オルフェア地方東↓": "<center>↑Pukulet Region|<center>Road to Orphea Region East↓"
+        "<center>↑プクレット地方|<center>道なり　オルフェア地方東↓": "↑ Pukulet Region|↓ Road to Orphea Region East"
     },
     "92": {
-        "<center>↑オルフェア地方東|<center>道なり　プクレット地方↓": "<center>↑Orphea Region East|<center>Pukulet Region↓"
+        "<center>↑オルフェア地方東|<center>道なり　プクレット地方↓": "↑ Orphea Region East|↓ Pukulet Region"
     },
     "93": {
-        "<center>↑道なり　オルフェア地方東|<left>←ペシュヤ地下空洞|<center>道なり　プクレット地方↓": "<center>↑Road to Orphea Region East|<left>←Peshuya Underground Cave|<center>Road to Pukulet Region"
+        "<center>↑道なり　オルフェア地方東|<left>←ペシュヤ地下空洞|<center>道なり　プクレット地方↓": "↑ Road to Orphea Region East|← Peshuya Underground Cave|↓ Road to Pukulet Region"
     },
     "94": {
-        "<center>↑道なり　オルフェア地方東|<right>ポポラパの洞くつ→|<center>道なり　プクレット地方↓": "<center>↑Road to Orphea Region East|<right>Popolapa Cave→|<center>Pukulet Region↓"
+        "<center>↑道なり　オルフェア地方東|<right>ポポラパの洞くつ→|<center>道なり　プクレット地方↓": "↑ Road to Orphea Region East|→ Popolapa Cave|↓ Pukulet Region"
     },
     "95": {
-        "<center>↑道なり　プクレット地方|<right>ペシュヤ地下空洞→|<center>道なり　オルフェア地方東↓": "<center>↑Road to Pukulet Region|<right>Peshuya Underground Cave→|<center>Orphea Region East↓"
+        "<center>↑道なり　プクレット地方|<right>ペシュヤ地下空洞→|<center>道なり　オルフェア地方東↓": "↑ Road to Pukulet Region|→ Peshuya Underground Cave|↓ Orphea Region East"
     },
     "96": {
-        "<center>↑道なり　プクレット地方|<left>←ポポラパの洞くつ|<center>道なり　オルフェア地方東↓": "<center>↑Road to Pukulet Region|<left>←Popolapa Cave|<center>Orphea Region East↓"
+        "<center>↑道なり　プクレット地方|<left>←ポポラパの洞くつ|<center>道なり　オルフェア地方東↓": "↑ Road to Pukulet Region|← Popolapa Cave|↓ Orphea Region East"
     },
     "97": {
         "<pc>は　掲示板を読んだ。|しかし　こちらは　裏側だった！": "You tried to read the bulletin board.|But you're standing on the wrong side!"
@@ -459,13 +459,13 @@
         "<left>いつも　噴水公園をキレイに使っていただき|<left>ありがとうございます。": "<left>Thank you for always using the Fountain Park|<left>beautifully."
     },
     "154": {
-        "<left>←ナブナブ大サーカス　入り口": "<left>←Nabu Nabu Grand Circus Entry"
+        "<left>←ナブナブ大サーカス　入り口": "← Nabu Nabu Grand Circus Entry"
     },
     "155": {
         "<left>いつも　噴水公園をキレイに使っていただき|<left>ありがとうございます。": "<left>Thank you for always using the Fountain Park|<left>beautifully."
     },
     "156": {
-        "<right>ナブナブ大サーカス　入り口→": "<right>Nabu Nabu Grand Circus Entry→"
+        "<right>ナブナブ大サーカス　入り口→": "→ Nabu Nabu Grand Circus Entry"
     },
     "157": {
         "<left>メギストリスの都を再現した　模型がある。|<left>まるで　おとぎ話のお城のようだ。": "<left>There is a model of the City of Megistris.|<left>It's like a castle from a fairy tale."
@@ -495,13 +495,13 @@
         "<left>キラキラ大風車塔のヒ・ミ・ツ<heart>|<left>空に浮かぶ　カラフルな気球には|<left>プクリポお天気おねえさんが　乗ってるらしい！": ""
     },
     "166": {
-        "<left>つらくたって　悲しくたって|<left>いつもニコニコ　プクリポ印の　はなまる笑顔。|<right>キラキラ従業員の心得": "<left>No matter how hard or sad it is, I always have|<left>a smile on my face, a Pukulipo smile.|<right>Glitter Employee Guidelines"
+        "<left>つらくたって　悲しくたって|<left>いつもニコニコ　プクリポ印の　はなまる笑顔。|<right>キラキラ従業員の心得": "<left>No matter how hard or sad it is, I always have|<left>a smile on my face, a Pukulipo smile.|― Glitter Employee Guidelines"
     },
     "167": {
-        "<left>お疲れ顔の　旅人さんは|<left>ケーキみたいに　あま～い笑顔で　おもてなし。|<right>キラキラ従業員の心得": "<left>The weary traveler is treated with a smile as|<left>sweet as a cake.|<right>Glitter Employee Guidelines"
+        "<left>お疲れ顔の　旅人さんは|<left>ケーキみたいに　あま～い笑顔で　おもてなし。|<right>キラキラ従業員の心得": "<left>The weary traveler is treated with a smile as|<left>sweet as a cake.|― Glitter Employee Guidelines"
     },
     "168": {
-        "<left>ボクもキラキラ　キミもキラキラ|<left>かがやく旅の思い出は　キラキラ大風車塔で！|<left>と書かれた　チラシが貼ってある。": "\"I'm glittery, you're glittery. The memory of|our glittery journey is in Glitter Windmill|Tower!\" is written in a flyer on a wall."
+        "<left>ボクもキラキラ　キミもキラキラ|<left>かがやく旅の思い出は　キラキラ大風車塔で！|<left>と書かれた　チラシが貼ってある。": "<left>\"I'm glittery, you're glittery. The memory of|<left>our glittery journey is in Glitter Windmill|<left>Tower!\" is written in a flyer on a wall."
     },
     "169": {
         "<left>王家の儀式に　身を捧げた|<left>歴代メギストリス王の勇気に敬意を表し|<left>黄金の像を　この地に建立せん。": "<left>Let us erect a golden statue here in honor of|<left>the courage of the past kings of Megistris,|<left>who dedicated themselves to the royal ritual."
@@ -513,7 +513,7 @@
         "<left>当厨房の　メギス鶏のからあげは|<left>最高級メギス鶏の　モモ肉だけを使って|<left>たんねんに仕上げた　自慢の一品です。": "<left>Our Megis fried chicken is made using only the|<left>finest Megis chicken thigh meat. We are proud|<left>of this dish that we worked on for years."
     },
     "172": {
-        "<center>魔瘴注意|<left>紫色のモヤモヤが見えたら　きっと魔瘴です。|<left>すぐに　プクダッシュで逃げましょう！": "<center>Miasma Warning|<left>If you see purple haze, it's probably miasma.|<left>You should pukudash away immediately!"
+        "<center>魔瘴注意|<left>紫色のモヤモヤが見えたら　きっと魔瘴です。|<left>すぐに　プクダッシュで逃げましょう！": "                Miasma Warning|<left>If you see purple haze, it's probably miasma.|<left>You should pukudash away immediately!"
     },
     "173": {
         "<left>左の掲示板を　先に読んだキミは|<left>パーティの　ボケ担当かもしれない！|<left>ボケて　ボケて　場を和ませるにちがいない。": ""
@@ -531,7 +531,7 @@
         "<left>最近の病気　ケガの記録|<left>食べすぎ　３件　訓練中に転んで擦りキズ　２件|<left>タンスの角に小指をぶつける　１件": "<left>Recent Illnesses, Injury Records|<left>3 x Overeating, 2 x Scratch from a fall while|<left>training, 1 x Bump pinky finger on a wardrobe."
     },
     "178": {
-        "<left>お夜食のケーキは　ほどほどにしないと|<left>プクプクプクリポに　なってしまいますよ！|<right>メイド長より": "<left>You'll end up like a puku puku pukulipo if you|<left>eat too much cake as a midnight snack!|<right>From the head maid."
+        "<left>お夜食のケーキは　ほどほどにしないと|<left>プクプクプクリポに　なってしまいますよ！|<right>メイド長より": "<left>You'll end up like a puku puku pukulipo if you|<left>eat too much cake as a midnight snack!|― From the head maid."
     },
     "179": {
         "<left>プクランド大陸に発生する　魔瘴の対策について|<left>いろいろな提案が　書きだされている。": "<left>There are various suggestions written down on|<left>how to deal with the miasma occurring on the|<left>Pukuland Continent."
@@ -540,10 +540,10 @@
         "<left>扉は　かたく　閉ざされている。": "<left>The door is locked tight!"
     },
     "181": {
-        "<center>きのこ愛好家の皆様！|<center>今年も　ポポリアきのこ山の　三闘きのこを|<center>愛でる季節が　やってきました！": "<center>Calling all mushroom lovers!|<center>It's that time of year again to love the 3|<center>warring shrooms of Popolia Mushroom Mountain!"
+        "<center>きのこ愛好家の皆様！|<center>今年も　ポポリアきのこ山の　三闘きのこを|<center>愛でる季節が　やってきました！": "         Calling all mushroom lovers!|  It's that time of year again to love the 3|warring shrooms of Popolia Mushroom Mountain!"
     },
     "182": {
-        "<center>空を飛び　炎を吹き　姿を消す|<center>奇跡のエンターテイメントが　ここにある！|<right>ナブナブ大サーカス団": "<center>Here's miraculous entertainment that flies|<center>through the air, breathes fire and disappears!|<right>Nabu Nabu Grand Circus Troupe"
+        "<center>空を飛び　炎を吹き　姿を消す|<center>奇跡のエンターテイメントが　ここにある！|<right>ナブナブ大サーカス団": "Here's miraculous entertainment that flies|through the air, breathes fire and disappears!|― Nabu Nabu Grand Circus Troupe"
     },
     "183": {
         "<left>オルフェアの町へ　いらっしゃい♪|<left>ここは　町のあちこちが　お菓子でできた|<left>おかしな町だよん♪": "<left>Welcome to Orphea Village ♪|<left>This is a strange town where the whole place|<left>is made of candy ♪"
@@ -591,13 +591,13 @@
         "仲間モンスターと　ともに|研究に　ご協力くださる　冒険者　募集中！|　　　　　　　～くわしくは　イワノフ博士まで～": "We're looking for adventurers who can help us|with our research!|~For more details, please contact Dr. Ivanov.~"
     },
     "198": {
-        "<right>資材置き場→": "<right>Mat. Storage→"
+        "<right>資材置き場→": "→ Material Storage"
     },
     "199": {
         "<center>カギ師　ネジロからの　挑戦状<br>|<left>この扉を　開けたいなら|<left>メギストリス城３階　宝物庫へ来い！|<left>ただし　レベル４０以上の旅人に限るぜ。": "Written challenge from Keymaster Nejiro<br>|<left>If you want to open this door, come to the|<left>treasury on the 3rd floor of Megistris Castle!|<left>You must be a traveler of level 40 or higher."
     },
     "200": {
-        "黒板には　怪しげな機械の設計図や|謎の数式が　ところせましと|びっしり　書き込まれている……。": "Written on the blackboard are blueprints for a|suspicious machine and mysterious formulas|all over the place."
+        "黒板には　怪しげな機械の設計図や|謎の数式が　ところせましと|びっしり　書き込まれている……。": "Written on the blackboard are blueprints for a|suspicious machine, and mysterious formulas|all over the place."
     },
     "201": {
         "巨大な装置からは　魔瘴の気配を感じる。|どうやら　この装置で|魔瘴の成分を　分析しているようだ。": "You can feel the presence of miasma from the|huge device. Apparently, they're using this|device to analyze the contents of the miasma."

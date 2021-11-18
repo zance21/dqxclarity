@@ -360,7 +360,7 @@
         "パーティリーダーが　どの神聖秘文に|挑戦するか　選択しています。|このままの状態で　お待ちください。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
     },
     "121": {
-        "仲間が　そろうのを　待っています。 |<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "仲間が　そろうのを　待っています。 |<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "Waiting for members to gather. |<select>|Keep Waiting|Stop|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "122": {
         "見つかっちゃった！": ""

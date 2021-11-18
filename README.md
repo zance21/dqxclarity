@@ -27,6 +27,9 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
 ```diff
 - MAKE SURE YOU READ THIS FIRST OR YOU WILL HAVE A BAD TIME.
 ```
+
+- The below requirements are needed for `dqxclarity` to run. The `dqxclarity.exe` executable will handle the below for you, but if you prefer to do things manually, this is what you need to do.
+
 - [Python 3.9.7 32-bit](https://www.python.org/ftp/python/3.9.7/python-3.9.7.exe) (just click this link to download the exe directly from python's website)
   - _How do I install Python?_ >> Click the link above. During the install, make sure you check "Add Python 3.9 to PATH" at the bottom. If you missed it, simply uninstall and re-install the executable to try again.
   - _Why 32-bit?_ >> The Dragon Quest X client is exclusively in 32-bit and the program needs to match the game's bitness.
@@ -40,7 +43,8 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
     - Search for "Powershell" on your computer. You can find this in the start menu
     - Right-click "Powershell" and click "Run as Administrator"
     - Type the following in the window: `Set-ExecutionPolicy Unrestricted`
-    - Accept the changes that you're going to be making
+    - Accept the changes that you're going to be making by typing 'A'
+    - Nothing will return. This change has been saved.
     - Close Powershell as we don't need to run it as an administrator
 
 - Windows 10. A user has reported this working on Windows 11. **This does not work on Windows 7. If you're still using Windows 7, [GO UPGRADE](https://support.microsoft.com/en-us/windows/windows-7-support-ended-on-january-14-2020-b75d4580-2cc7-895a-2c9c-1466d9a53962#:~:text=Microsoft%20made%20a%20commitment%20to,released%20on%20October%2022%2C%202009.).**
@@ -53,7 +57,8 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
 - Read the requirements section above and make sure you've met all the requirements
 - Download the latest version of `dqxclarity` from the [releases](https://github.com/jmctune/dqxclarity/releases) section
 - Open a fresh instance of Dragon Quest X. It's recommended to stay on the announcements screen when the game first launches.
-- Right-click `run_clarity.ps1` and click "Run with Powershell"
+- Double-click `dqxclarity.exe` to open the wizard. Configure and launch.
+- Once installation is complete, the program will run and the game will be translated
 - Minimize the window that opened as things will continue translating while you're playing
 
 ## EXPERIMENTAL: Enabling in-game dialog translations
@@ -62,9 +67,8 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
 - This is in beta and actively being tested and iterated on. The game might crash, freeze up or just not translate an in-game dialog window. I don't need to hear that it's buggy, crashing or anything of the sort. It does work in its current state, but I'm not comfortable calling it "stable". You have been warned.
 ```
 
-- Add the "c" flag to the list of flags at the top of the `run_clarity.ps1` file (see the section labeled "Advanced continued -- changing these flags" below for how to do this)
-- When you launch `dqxclarity`, you will receive an error to update your `user_settings.ini` file, which will contain your chosen translation service and associated key. This file exists inside of the `dqxclarity` folder. Fill it out and save
-- Relaunch `dqxclarity` to begin
+- Check the "EXPERIMENTAL: Translate dialog?" box in the `dqxclarity.exe` launcher
+- Open the translation settings and configure your API service and translation key
 
 ## Known bugs
 
@@ -73,7 +77,7 @@ https://user-images.githubusercontent.com/17505625/120054067-5e995f80-bff3-11eb-
 
 ### Advanced
 
-`dqxclarity` was written as a command-line tool. There are several items you can toggle on and off using arguments:
+`dqxclarity` was written as a command-line tool. There are several items you can toggle on and off using arguments if you please:
 
 ```txt
 Usage: main.py [OPTIONS]
@@ -102,10 +106,6 @@ Options:
                               You are responsible for reconciling differences.
   --help                      Show this message and exit.
 ```
-
-### Advanced continued -- changing these flags
-
-If you want to modify the behavior of `dqxclarity`, edit the `run_clarity.ps1` file and look at the very top line. You can add the single letters you see in the help documentation above into this parameter. Example: `$ClarityFlags = "-wcpnv"`
 
 ## How does this thing work
 
@@ -155,13 +155,15 @@ This project is structured as a bunch of `.py` files. There's nothing to build o
 
 ## FAQ
 
-- _I'm running run\_clarity.ps1 and it's instantly closing_ >> Check the `out.log` file for errors. Additionally, you can shift + right-click inside of the `dqxclarity` folder (in the empty white space of the folder), select "Open Powershell Window Here", type `.\run_clarity.ps1` and press enter. The program will run and you can see the error output in the console. If you aren't sure what to do from here, join the Discord and ask for help.
+- _I'm running your program and it's instantly closing_
+  - Make sure you followed **EVERYTHING** in the "Requirements" section at the top of this page
+  - Check the `out.log` and `console.log` file for errors
+  - Don't run DQX as admin. This is very unnecessary. This includes DQXGame as well as the launcher and other executables in the DQX folder
+  - You can shift + right-click inside of the `dqxclarity` folder (in the empty white space of the folder), select "Open Powershell Window Here", type `.\run_clarity.ps1` and press enter. The program will run and you can see the error output in the console. If you aren't sure what to do from here, join the Discord and ask for help.
 - _How do I update dqxclarity?_ >> For now, you will need to download the latest updates from the [releases](https://github.com/jmctune/dqxclarity/releases) page. Make sure you're creating a **new** folder and aren't just copy/pasting over your old installation.
 - _I'm getting the error INVALID\_CALL\_1 in cutscenes/loading screens_ >> In the Powershell console, make sure you haven't clicked inside of the window. If you see "Select:" in the title bar of the program, the script is paused. This is a Powershell thing. Simply pressing enter after clicking inside of the Powershell console will resume the script. Though, if you got the error, you will need to relaunch the program anyways. Make sure Powershell doesn't say "Select:" in the title window.
-- _`dqxclarity` opens and closes immediately after I run it_ >> You didn't read the requirements at the top. Check the "Change Powershell's execution policy" section and do this.
 - _What's all this stuff `dqxclarity` is installing on my computer?_ >> These are dependencies that `dqxclarity` need to run. Nothing is actually installed on your computer, but files are downloaded and places in a contained `venv` folder within the `dqxclarity` directory. If you don't want to use `dqxclarity` anymore, simply delete the `dqxclarity` folder and it's gone.
-- _I'm running with the -c flag and `dqxclarity` pauses every time I talk to someone_ >> The `-c` flag is currently an expiremental feature that can still be considered buggy. This is still being iterated on with a group of testers. Don't expect stability if you intend on using this. When you talk to an NPC that needs to be translated, the game pauses for a brief period of time as it must reach out to perform the translation, get the translation back, write it to the game and finally release it back to you. Once the text has been translated once, it reads the text from a local database and the pause should be non-existant.
-- _I don't want "x" feature enabled_ >> Everything in `dqxclarity` can be toggled on or off using the various arguments seen in the Advanced section below (minus the actual UI translation, which is the whole purpose of this program). Check out the documentation there to see how to do this.
+- _I'm running with the -c flag / using the dialog translate feature and `dqxclarity` pauses every time I talk to someone_ >> The `-c` flag is currently an expiremental feature that can still be considered buggy. This is still being iterated on with a group of testers. Don't expect stability if you intend on using this. When you talk to an NPC that needs to be translated, the game pauses for a brief period of time as it must reach out to perform the translation, get the translation back, write it to the game and finally release it back to you. Once the text has been translated once, it reads the text from a local database and the pause should be non-existant.
 - _I'm getting the error EXCEPTION\_ACCESS\_VIOLATION from DQX_ >> This is a minor error that can be solved by simply restarting the game and restarting `dqxclarity`. These unfortunately happen as this program is altering live game memory. If it's very consistent, drop by the Discord and post your situation.
 - _NPC/Player names take awhile for their name to change_ >> This is expected. There's a background process that is constantly scanning for these names and replacing them with their translated counterparts. Just keep the program running and `dqxclarity` will take care of the rest.
 - _Why isn't the login screen translated?_ >> The v6 patch changed the way this screen functions. It's now cached, so if you're on this screen when you run `dqxclarity`, you will need to navigate away from the screen and come back to it. Or, just run `dqxclarity` on the announcement screen when you first launch the screen like I told you to above.
