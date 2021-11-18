@@ -570,7 +570,7 @@
         "「あら？　その髪型だと|　ヘアカラーは　変えられないわ。|<end>": "Oh? You can't change|your hair color with that hairstyle.|<end>"
     },
     "191": {
-        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": "What? It looks like it's the same as your original form~.|Please choose what form you want to take again|<end>"
+        "「えっと？　これじゃあ|　もとの姿と　おんなじみたいです～。|　もう一度　どんな姿か　選んでください～！|<end>": "What? It looks just like your original form.|Please choose another form to take!|<end>"
     },
     "192": {
         "「合計で　<%nL_GOLD>ゴールドになるけど|　これでいいかしら？|<yesno><break>": "The total will be <%dL_GOLD> gold.|Is this okay?|<yesno><break>"
