@@ -4359,16 +4359,16 @@
         "<speed=0>あなたは今　仲間がいます。|今の仲間と一緒に　<%sM_monster>との|戦いに行きますが　よろしいですか？<yesno><close>": "<speed=0>You're currently in a party.|Do you want to go to battle with|<%sM_monster> with your current party?<yesno><close>"
     },
     "1454": {
-        "ヒマなので|誘ってほしいと|言いたい状態": "I'm not busy,|so let's play|together."
+        "ヒマなので|誘ってほしいと|言いたい状態": "You are free|and willing to|play with others."
     },
     "1455": {
         "clarity_nt_char_1455": "clarity_nt_char_1455"
     },
     "1456": {
-        "<speed=0>『いまヒマです』にチェックすると|『ひとりプレイ中』のチェックが|はずれますが　よろしいですか？<yesno><close>": ""
+        "<speed=0>『いまヒマです』にチェックすると|『ひとりプレイ中』のチェックが|はずれますが　よろしいですか？<yesno><close>": "<speed=0>If you check \"Available\", \"Playing Alone\"|will be unchecked. Is this okay?<yesno><close>"
     },
     "1457": {
-        "<speed=0>パーティリーダーから|試練の門の戦いのさそいを　受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　レンダーシア大陸に|上陸している必要があります。": ""
+        "<speed=0>パーティリーダーから|試練の門の戦いのさそいを　受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　レンダーシア大陸に|上陸している必要があります。": "<speed=0>You received a Trial Gate invitation from your|party leader, but didn't meet the conditions.|<br>|In order to accept, you must be on the|continent of Lendersia."
     },
     "1458": {
         "clarity_nt_char_1458": "clarity_nt_char_1458"
@@ -4377,7 +4377,7 @@
         "<speed=0><%sM_PTMember>が　見つかりませんでした。|もう一度　<%sM_PTMember>を探しますか？|<select>|もう一度探す|このまま行く|行くのをやめる|<select_end>|<close>": "<speed=0>Couldn't find <%sM_PTMember>.|Search for <%sM_PTMember> again?|<select>|Search Again|Go As Is|Stop Searching|<select_end>|<close>"
     },
     "1460": {
-        "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": ""
+        "<speed=0>|まとめアイテムの使い方を　説明します。|まとめアイテムで　『そうび』を選ぶと|変身できる装備の一覧が　表示されます。|<br>|変身できる装備の一覧から　お好みの装備を選ぶと|まとめアイテムが　その装備に変身します。|変身は　何度でも可能なので　お気軽にどうぞ！": "<speed=0>|This will explain \"Summary Items\". If you|select the item and then choose \"Equip\", it|will transform into any item in the list.|<br>|You can use Summary Items as many times as|you like. You also don't need to keep the|original if it exists in the list of items!"
     },
     "1461": {
         "<speed=0>この写真は　現在操作できません。|アルバムを拡張すれば|操作できるようになります。": ""

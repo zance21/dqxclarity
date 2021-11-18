@@ -273,10 +273,10 @@
         "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": ""
     },
     "92": {
-        "<%sL_FURNITURE>がある。|<break>": ""
+        "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
     },
     "93": {
-        "<%sL_FURNITURE>がある。": ""
+        "<%sL_FURNITURE>がある。": "It's a <%sL_FURNITURE>."
     },
     "94": {
         "<%nL_NINZU>人が　商品を　買ってくれました！|売上金　合計|<%nL_GOLD>ゴールドを　受け取りました！|<break>": ""
@@ -624,10 +624,10 @@
         "収納家具の利用権限がないため|<%sL_FURNITURE>を　|つかうことは　できません。": ""
     },
     "209": {
-        "<%sL_FURNITURE>がある。|<break>": ""
+        "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
     },
     "210": {
-        "<%sL_FURNITURE>がある。": ""
+        "<%sL_FURNITURE>がある。": "It's a <%sL_FURNITURE>."
     },
     "211": {
         "<%nL_NINZU>人が　商品を　買ってくれました！|売上金　合計|<%nL_GOLD>ゴールドを　受け取りました！|<break>": ""
@@ -981,7 +981,7 @@
         "<%sL_FURNITURE>がある。|<break>": ""
     },
     "328": {
-        "<%sL_FURNITURE>がある。|<break>": ""
+        "<%sL_FURNITURE>がある。|<break>": "It's a <%sL_FURNITURE>.|<break>"
     },
     "329": {
         "とても高額なゴールドの　取り引きです！|間違いがないか　よく　ご確認ください。|<color_yellow>|※本メッセージは高額取り引き時に表示されます。|<color_white>|<br>|現実の金品によるゲームデータの売買（ＲＭＴ）は|禁止されており　処罰の対象となります。|そのようなことのないよう　ご注意ください。|<bw_break>": ""
