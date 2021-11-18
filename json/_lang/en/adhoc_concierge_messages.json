@@ -4428,10 +4428,10 @@
         "「あら……今はできないようです。|　申し訳ありませんが|　後ほど　もう一度　ご指示ください。|<bw_break>": ""
     },
     "1477": {
-        "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
+        "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": "Story and Quest EXP is currently set to|\"Receive On Clear\". Which setting would you|like to change to?|<select_se_off>|Deposit|Receive On Clear|<select_end>|<break>"
     },
     "1478": {
-        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""
+        "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Understood. I've changed the setting to|\"Receive On Clear\".|<br>|From now on, when you complete the Story or|Quests, you will immediately gain the EXP|reward."
     },
     "1479": {
         "「現在は　経験値をこちらでお預かりする設定に|　なっています。|　どちらの設定に　変更いたしますか？|<br>|<select_se_off>|クリア時に受け取る|コンシェルジュに預ける|<select_end>|<break>": ""
@@ -4446,7 +4446,7 @@
         "「『経験値受け取り設定』ですね。|　こちらは　シナリオや　クエストで得られる|　経験値を　一時的に　お預かりするサービスです。": ""
     },
     "1483": {
-        "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": ""
+        "「現在　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定になっています。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": "Story and Quest EXP is currently set to|\"Receive On Clear\". Which setting would you|like to change to?|<select_se_off>|Deposit|Receive On Clear|<select_end>|<break>"
     },
     "1484": {
         "「かしこまりました。|　『クリア時に受け取る』設定に|　変更いたしました。|<br>|「これからシナリオや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": ""

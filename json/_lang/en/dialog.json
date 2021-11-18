@@ -3012,7 +3012,7 @@
         "どちらのモンスターを|モンスター酒場に　送りますか？<break>": "Send which monster to the monster tavern?<break>"
     },
     "1005": {
-        "<%sM_monster>を　酒場に送った！": ""
+        "<%sM_monster>を　酒場に送った！": "<%sM_monster> was sent to the Tavern!"
     },
     "1006": {
         "clarity_nt_char_1006": "clarity_nt_char_1006"
