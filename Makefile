@@ -17,6 +17,8 @@ build:
 	-rd /s/q .\build\dqxclarity\new_adhoc_dumps
 	-rmdir /s /q .\build\dqxclarity\new_adhoc_dumps
 	-rmdir /s /q .\build\dqxclarity\game_file_dumps
+	"C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /bin "C:\Program Files\AutoHotkey\Compiler\ANSI 32-bit.bin" /in ".\build\dqxclarity\clarity.ahk" /icon "imgs/dqxclarity.ico"
+	-del /F ".\build\dqxclarity\clarity.ahk"
 
 release:
 	make clean
