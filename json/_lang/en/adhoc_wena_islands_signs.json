@@ -486,7 +486,7 @@
         "<left>本日の議題！|<left>恵みの歌の波及効果の検証と|<left>女王さまの歌唱スケジュールについて。": ""
     },
     "163": {
-        "<left>←ミューズ海岸|<right>レーナム緑野行き　桟橋→": ""
+        "<left>←ミューズ海岸|<right>レーナム緑野行き　桟橋→": "← Muse Coast|→ Pier to Lenam Fields"
     },
     "164": {
         "<center>布と触れ合おう。それが　さいほうギルド。|<center>ボクたちは　きっと解り合えるよ。|<right>さいほうギルド本部": ""
@@ -534,10 +534,10 @@
         "<left>売店の　看板だ。": "<left>It's a shop sign."
     },
     "179": {
-        "<left>アクセサリー屋の　看板だ。": ""
+        "<left>アクセサリー屋の　看板だ。": "<left>It's an accessory shop sign."
     },
     "180": {
-        "<left>アクセサリー屋の　看板だ。": ""
+        "<left>アクセサリー屋の　看板だ。": "<left>It's an accessory shop sign."
     },
     "181": {
         "<left>道なりに行くと　祈りの宿。|<left>途中に　コルット地方への道あり。": "<left>Follow the road to the Prayer Inn.|<left>There is a road to the Colt Region on the way."
@@ -546,13 +546,13 @@
         "<left>道なりに進むと　ジュレー島行き　桟橋。|<left>左前方のガケを下りると　危険地帯！|<left>落ちないように　気をつけよう。": ""
     },
     "183": {
-        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": ""
+        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": "          －Garden of Tranquility－|   Let the coral light of the purple clouds|          quench your thirsty heart."
     },
     "184": {
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "185": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 Wise Abcart"
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 wise Abcart"
     },
     "186": {
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
@@ -573,13 +573,13 @@
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "192": {
-        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": ""
+        "<center>－やすらぎの庭園－|<center>紫雲のサンゴの光にて|<center>渇いた心　うるおしたまえ": "          －Garden of Tranquility－|   Let the coral light of the purple clouds|          quench your thirsty heart."
     },
     "193": {
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "194": {
-        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 Wise Abcart"
+        "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<center>聡明なる　アブカート|<center>ここに　眠る": "You read the words carved on the coffin.|<br>|                  Here lies|                 wise Abcart"
     },
     "195": {
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
@@ -600,6 +600,6 @@
         "<left><pc>は　棺に彫られた文字を読んだ。|<br>|<left>しかし　文字の　ほとんどが欠けていて|<left>まともに読むことが　できなかった！": "<left>You read the words carved on the coffin.|<br>|<left>But most of the letters were missing, and you|<left>couldn't read them properly!"
     },
     "201": {
-        "<left>石碑に　古めかしい文字が刻まれている。|<left><pc>は　石碑の文字を読んだ。": ""
+        "<left>石碑に　古めかしい文字が刻まれている。|<left><pc>は　石碑の文字を読んだ。": "<left>A stone monument is inscribed with worn text.|<left>You read the words on the stone monument."
     }
 }
