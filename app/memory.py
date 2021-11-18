@@ -11,7 +11,8 @@ from errors import (
 )
 from signatures import (
     text_pattern,
-    foot_pattern
+    foot_pattern,
+    index_pattern
 )
 
 def dqx_mem():
@@ -119,20 +120,34 @@ def pattern_scan(
 
 def scan_backwards(start_addr: int, pattern: bytes):
     '''
-    Starting at start_addr, read bytes backwards until a pattern is found.
+    From start_addr, read bytes backwards until a pattern is found.
     Used primarily for finding the beginning of an adhoc file.
     '''
     target_length = len(pattern)
     curr_addr = start_addr
     curr_bytes = bytes()
+    segment_size = 2000  # give us a buffer to read from
+    segment_buffer_size = segment_size * 2  # prevent match from getting chopped off
+    loop_count = 1
     while True:
-        curr_byte = read_bytes(curr_addr, 1)
-        curr_bytes = curr_byte + curr_bytes  # want the pattern to be natural, so prepending
-        if len(curr_bytes) > target_length:
-            curr_bytes = curr_bytes[:-1]
-        if curr_bytes == pattern:
-            return curr_addr
-        curr_addr -= 1
+        curr_segment = read_bytes(curr_addr, segment_size)
+        curr_bytes = curr_segment + curr_bytes  # want the pattern to be read left to right, so prepending
+        if len(curr_bytes) > segment_buffer_size:
+            curr_bytes = curr_bytes[:-segment_size]  # keep our buffer reasonably sized
+        if pattern in curr_bytes:  # found our match
+            curr_bytes = bytes()  # erase buffer
+            while True:
+                curr_byte = read_bytes(curr_addr, 1)  # start searching for the exact address
+                curr_bytes = curr_bytes + curr_byte
+                if len(curr_bytes) > target_length:
+                    curr_bytes = curr_bytes[1:]
+                if curr_bytes == index_pattern:
+                    return curr_addr - target_length + 1  # return start of match
+                curr_addr += 1
+        curr_addr -= segment_size
+        loop_count += 1
+        if loop_count * segment_size > 1000000:
+            return False  # this scan is slow, so don't scan forever.
 
 def scan_to_foot(start_addr: int) -> int:
     '''
@@ -146,6 +161,8 @@ def scan_to_foot(start_addr: int) -> int:
     segment_size = 100  # give us a buffer to read from
     segment_buffer_size = segment_size * 2  # prevent match from getting chopped off
     loop_count = 1
+    import time
+    start_time = time.time()
     while True:
         curr_segment = read_bytes(curr_addr, segment_size)
         curr_bytes = curr_bytes + curr_segment
@@ -159,6 +176,7 @@ def scan_to_foot(start_addr: int) -> int:
                 if len(curr_bytes) > target_length:
                     curr_bytes = curr_bytes[1:]
                 if curr_bytes == foot_pattern:
+                    print("--- %s seconds ---" % (time.time() - start_time))
                     return curr_addr - target_length + 1  # return start of match
                 curr_addr += 1
         curr_addr += segment_size
