@@ -144,7 +144,7 @@
         "（現在のコースでは使えません）": ""
     },
     "49": {
-        "冒険の書を　選んでください。<break>": "Choose an Adventure Log.<break>"
+        "冒険の書を　選んでください。<break>": "<speed=0>Choose an Adventure Log.<break>"
     },
     "50": {
         "バージョンアップを中断しています……。<break>": ""
@@ -315,7 +315,7 @@
         "利用券の有効期間を　確認しています……。<break>": ""
     },
     "106": {
-        "サーバー情報を　確認しています……。<break>": "Checking server information...<break>"
+        "サーバー情報を　確認しています……。<break>": "<speed=0>Checking server information...<break>"
     },
     "107": {
         "レジストレーションコードの登録をしないと|オンラインモードを　遊ぶことができません。|いったん登録をやめて　タイトルに戻りますか？<yesno><break>": ""
