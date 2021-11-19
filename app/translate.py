@@ -53,8 +53,12 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
         for item in output:
             if item == '':
                 continue
-            if item == '<br>':
+            if item == '<br>':  # we'll manage our own line breaks later
                 final_string += ' '
+                continue
+            alignment = ['<center>', '<right>']  # center and right aligned text doesn't work well in this game with ascii
+            if alignment in item:  
+                final_string += ''
                 continue
             if re.findall('<(.*?)>', item, re.DOTALL) or item == '\n':
                 final_string += item
