@@ -143,8 +143,7 @@ def translate():
 
     with alive_bar(len(index_list),
         title='Translating..',
-        spinner='pulse',
-        bar='bubbles',
+        theme='musical',
         length=20) as increment_progress_bar:
         for index_address in index_list:
             increment_progress_bar()
@@ -361,8 +360,7 @@ def dump_all_game_files():
 
     with alive_bar(len(game_file_addresses),
                                 title='Dumping..',
-                                spinner='pulse',
-                                bar='bubbles',
+                                theme='smooth',
                                 length=20) as bar:
         for address in game_file_addresses:
             bar()
