@@ -1,6 +1,6 @@
 {
     "1": {
-        "この先　オジャロス大公の領地|無用の立ち入りを　禁ずる": ""
+        "この先　オジャロス大公の領地|無用の立ち入りを　禁ずる": "Grand Duke Ojalos' Domain ahead.|No unauthorized entry."
     },
     "2": {
         "キケン！|この先　魔瘴深き土地ゆえ|立ち入りを　禁ずる　": ""
@@ -15,46 +15,46 @@
         "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "6": {
-        "<left>←道なり　大審門": ""
+        "<left>←道なり　大審門": "← Road to Demongate"
     },
     "7": {
-        "<center>↑道なり　大審門|<left>←バルディア山岳地帯": ""
+        "<center>↑道なり　大審門|<left>←バルディア山岳地帯": "↑ Road to Demongate|← Valdia Mountain Region"
     },
     "8": {
-        "<center>↑道なり　大審門|<right>ベルヴァインの森→": ""
+        "<center>↑道なり　大審門|<right>ベルヴァインの森→": "↑ Road to Demongate|→ Belvain Forest"
     },
     "9": {
-        "<center>↑封鎖|<left>←道なり　大審門": ""
+        "<center>↑封鎖|<left>←道なり　大審門": "↑ Blockade|← Road to Demongate"
     },
     "10": {
-        "<center>↑ベルヴァインの森|<left>←ならず者のねぐら": ""
+        "<center>↑ベルヴァインの森|<left>←ならず者のねぐら": "↑ Belvain Forest|← Rogue's Roost"
     },
     "11": {
-        "<center>↑道なり　ジャリムバハ砂漠": ""
+        "<center>↑道なり　ジャリムバハ砂漠": "↑ Road to Jyarimbaha Desert"
     },
     "12": {
-        "この先　滅びし国の大地|無用の立ち入りを　禁ずる": ""
+        "この先　滅びし国の大地|無用の立ち入りを　禁ずる": "Land of the Dead ahead.|No unauthorized entry."
     },
     "13": {
-        "この先　魔瘴深し|無用の立ち入りを　禁ずる": ""
+        "この先　魔瘴深し|無用の立ち入りを　禁ずる": "Dense miasma ahead.|No unauthorized entry."
     },
     "14": {
-        "<center>↑道なり　ゼクレス魔導国": ""
+        "<center>↑道なり　ゼクレス魔導国": "↑ Road to Zechres"
     },
     "15": {
-        "<center>↑道なり　ゼクレス魔導国|<right>下流　ベルヴァイン湖→": ""
+        "<center>↑道なり　ゼクレス魔導国|<right>下流　ベルヴァイン湖→": "↑ Road to Zechres|→ Belvain Lake downstream"
     },
     "16": {
-        "<left>←バルディスタ要塞　ブラニック採石場|<right>ターボル峡谷→|<center>ゲルヘナ幻野↓": ""
+        "<left>←バルディスタ要塞　ブラニック採石場|<right>ターボル峡谷→|<center>ゲルヘナ幻野↓": "← Fortress Valdista, Branick Quarry|→ Tabor Gorge|↓ Gerhena Field"
     },
     "17": {
-        "<left>←道なり　バルディスタ要塞|<right>ゲルヘナ幻野　ターボル峡谷→|<center>ブラニック採石場↓": ""
+        "<left>←道なり　バルディスタ要塞|<right>ゲルヘナ幻野　ターボル峡谷→|<center>ブラニック採石場↓": "← Road to Fortress Valdista|→ Gerhena Field, Tabor Gorge|↓ Branick Quarry"
     },
     "18": {
-        "<left>←道なり　ブラニック採石場|<center>バルディスタ要塞↓": ""
+        "<left>←道なり　ブラニック採石場|<center>バルディスタ要塞↓": "← Road to Branick Quarry|↓ Fortress Valdista"
     },
     "19": {
-        "<left>←危険！　立ち入り禁止|<right>ターボル峡谷→|<center>バルディスタ要塞↓": ""
+        "<left>←危険！　立ち入り禁止|<right>ターボル峡谷→|<center>バルディスタ要塞↓": "← Danger! No Trespassing|→ Tabor Gorge|↓ Fortress Valdista"
     },
     "20": {
         "<center>ー　優美なる夜明け　ー|ヌッジォ・ラ・ヌァグータ　画|<br>|淡い色彩と　繊細なタッチで　|写実的に　魔界の夜明けが　描かれている。|他の絵画に比べて　おとなしい作風だ。": ""
@@ -360,10 +360,10 @@
         "リドのタリスマンが　出現した台座だ。": ""
     },
     "121": {
-        "<left>←遠征軍駐屯所|<center>↓バルディア山岳地帯": ""
+        "<left>←遠征軍駐屯所|<center>↓バルディア山岳地帯": "← Expedition Station|↓ Valdia Mountain Region"
     },
     "122": {
-        "<center>↑この先　大魔王顔壁|<right>作業小屋→": ""
+        "<center>↑この先　大魔王顔壁|<right>作業小屋→": "↑ Demon Face Wall ahead|→ Workshed"
     },
     "123": {
         "とても　大きなベッドだ。|……マデサゴーラは　ここで|眠っていたのだろうか？": ""
