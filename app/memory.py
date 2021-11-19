@@ -243,6 +243,7 @@ def get_start_of_game_text(indx_address: int) -> int:
     game file. This should be used when starting at an INDX address.
     '''
     address = scan_to_first_char(indx_address, text_pattern)
+    loop_count = 1
     if address:
         address += 16  # skip passed all the junk bytes
         while True:  # skip passed the padded 00's
@@ -251,6 +252,9 @@ def get_start_of_game_text(indx_address: int) -> int:
                 address -= 1  # we go back one address because the json pads the start of text with 00
                 break
             address += 1
+            loop_count += 1
+            if loop_count > 50:
+                return False
 
         return address
 
