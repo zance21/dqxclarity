@@ -153,7 +153,7 @@ def translate():
             if csv_result != []:
                 file = __parse_filename_from_csv_result(csv_result)
                 hex_to_write = bytes.fromhex(generate_hex(file))
-                text_address = get_start_of_game_text(index_address) - 1  # json starts with 00, so go back 1 address before we write
+                text_address = get_start_of_game_text(index_address)
                 try:
                     # this just tests that we can decode what we should be writing
                     game_hex = read_bytes(text_address, len(hex_to_write)).hex()
@@ -180,14 +180,14 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
             hex_to_write = bytes.fromhex(generate_hex(file))
             index_address = jump_to_next_address(start_addr, index_pattern)
             if index_address:
-                text_address = get_start_of_game_text(index_address) - 1  # json files start with 00
+                text_address = get_start_of_game_text(index_address)
                 write_bytes(text_address, hex_to_write)
                 return True
     else:
         filename = str(random.randint(1, 1000000000))
         Path('new_adhoc_dumps/en').mkdir(parents=True, exist_ok=True)
         Path('new_adhoc_dumps/ja').mkdir(parents=True, exist_ok=True)
-        
+
         new_csv = Path('new_adhoc_dumps/new_hex_dict.csv')
         if new_csv.is_file():
             data_frame = pd.read_csv('new_adhoc_dumps/new_hex_dict.csv', usecols = ['file', 'hex_string'])
@@ -198,7 +198,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
             __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', 'file,hex_string\n')
 
         # get number of bytes to read from start
-        begin_address = get_start_of_game_text(start_addr)
+        begin_address = get_start_of_game_text(start_addr) + 1  # make sure we start on the first byte of the first letter
         end_address = scan_to_foot(begin_address)
         bytes_to_read = end_address - begin_address
 
@@ -209,7 +209,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
         __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', f'{filename},{hex_result}\n')
         __write_file('new_adhoc_dumps/ja', f'{filename}.json', 'w', ja_data)
         __write_file('new_adhoc_dumps/en', f'{filename}.json', 'w', en_data)
-        
+
         return False
 
 def scan_for_npc_names():
@@ -370,7 +370,7 @@ def dump_all_game_files():
             if hex_result in hex_blacklist:
                 continue
 
-            start_addr = get_start_of_game_text(address)
+            start_addr = get_start_of_game_text(address) + 1  # make sure we start on the first byte of the first letter
             if start_addr is not None:
                 end_addr = scan_to_foot(start_addr) - 1
                 if end_addr is not None:
