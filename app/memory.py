@@ -242,15 +242,16 @@ def get_start_of_game_text(indx_address: int) -> int:
     Returns the address of the first character of text from a loaded
     game file. This should be used when starting at an INDX address.
     '''
-    address = jump_to_next_address(indx_address, text_pattern)
+    address = scan_to_first_char(indx_address, text_pattern)
     if address:
-        address += 14  # skip passed all the junk bytes
+        address += 16  # skip passed all the junk bytes
         while True:  # skip passed the padded 00's
             result = read_bytes(address, 1)
             if result != b'\x00':
+                address -= 1  # we go back one address because the json pads the start of text with 00
                 break
             address += 1
-        
+
         return address
 
 def _scan_page_return_all(handle: int, address: int, pattern):
