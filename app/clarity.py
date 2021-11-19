@@ -480,7 +480,7 @@ def check_for_updates():
     '''
     url = 'https://raw.githubusercontent.com/jmctune/dqxclarity/main/sha'
 
-    exe_sha = __get_sha('dqxclarity.exe')
+    exe_sha = False
     if exe_sha is False:
         return
 
