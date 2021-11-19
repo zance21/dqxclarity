@@ -810,7 +810,7 @@
         "墓石には　文字が刻まれているが|大部分が欠けており　読むことができない。": "The tombstone has words engraved on it but|most of them were missing and you couldn't|read it."
     },
     "271": {
-        "<pc>は　墓石に刻まれた文字を　読んだ。": ""
+        "<pc>は　墓石に刻まれた文字を　読んだ。": "You read the words engraved on the tombstone."
     },
     "272": {
         "この大地と海が|精霊の恵みで　満たされんことを。|リンジャハルの民に　光あれ。": ""
@@ -843,7 +843,7 @@
         "<left>グランドタイタス号へ　ご乗船の方は|<left>この先の港にて　担当係員ウーゴに|<left>お申し付けください。": ""
     },
     "282": {
-        "<right>海風の洞くつ→": ""
+        "<right>海風の洞くつ→": "→ Seabreeze Cave"
     },
     "283": {
         "<center>↑セレドット山道|<left>←ソーラリア峡谷": ""
