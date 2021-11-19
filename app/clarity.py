@@ -23,7 +23,7 @@ from memory import (
     read_string,
     write_bytes,
     pattern_scan,
-    jump_to_next_address,
+    scan_to_first_char,
     get_start_of_game_text,
     scan_to_foot
 )
@@ -153,14 +153,15 @@ def translate():
                 file = __parse_filename_from_csv_result(csv_result)
                 hex_to_write = bytes.fromhex(generate_hex(file))
                 text_address = get_start_of_game_text(index_address)
-                try:
-                    # this just tests that we can decode what we should be writing
-                    game_hex = read_bytes(text_address, len(hex_to_write)).hex()
-                    bytes.fromhex(game_hex).decode('utf-8')
-                except:
-                    continue  # remants of files get left behind sometimes. don't write to these addresses if we can't read them
+                if text_address:
+                    try:
+                        # this just tests that we can decode what we should be writing
+                        game_hex = read_bytes(text_address, len(hex_to_write)).hex()
+                        bytes.fromhex(game_hex).decode('utf-8')
+                    except:
+                        continue  # remants of files get left behind sometimes. don't write to these addresses if we can't read them
 
-                write_bytes(text_address, hex_to_write)
+                    write_bytes(text_address, hex_to_write)
 
     logger.info('Done. Minimize this window and enjoy!')
 
@@ -177,11 +178,12 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
         file = __parse_filename_from_csv_result(csv_result)
         if 'adhoc' in file:
             hex_to_write = bytes.fromhex(generate_hex(file))
-            index_address = jump_to_next_address(start_addr, index_pattern)
+            index_address = scan_to_first_char(start_addr, index_pattern)
             if index_address:
                 text_address = get_start_of_game_text(index_address)
-                write_bytes(text_address, hex_to_write)
-                return True
+                if text_address:
+                    write_bytes(text_address, hex_to_write)
+                    return True
     else:
         filename = str(random.randint(1, 1000000000))
         Path('new_adhoc_dumps/en').mkdir(parents=True, exist_ok=True)
