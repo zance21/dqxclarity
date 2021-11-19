@@ -138,7 +138,7 @@
         "<speed=0><%sM_pc>が　仲間から　はずれた。<end>": ""
     },
     "47": {
-        "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": ""
+        "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": "This is the Adventurer's Tavern. The place|where travelers come to meet and recruit|new friends. What can I get for you?|<break>"
     },
     "48": {
         "「今日は　どんな人を探してるの？|　検索する耐性値の大きさは　★の数で|　ある程度　しぼり込むことができるわよ。<break>": ""
@@ -219,7 +219,7 @@
         "「他にも　用はあるかい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": ""
     },
     "74": {
-        "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": ""
+        "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": "This is the Adventurer's Tavern. The place|where travelers come to meet and recruit|new friends. What can I get for you?|<break>"
     },
     "75": {
         "「他に　ご用はあるかしら？|<break>": ""
