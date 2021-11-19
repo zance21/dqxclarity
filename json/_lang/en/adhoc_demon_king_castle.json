@@ -15,7 +15,7 @@
         "<pc>は　看板を読んだ。|しかし　こちらからは　裏側だった！|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "6": {
-        "<left>←道なり　大審門": ""
+        "<left>←道なり　大審門": "← Road to Demongate"
     },
     "7": {
         "<center>↑道なり　大審門|<left>←バルディア山岳地帯": ""
@@ -36,7 +36,7 @@
         "この先　滅びし国の大地|無用の立ち入りを　禁ずる": "Land of the Dead ahead.|No unauthorized entry."
     },
     "13": {
-        "この先　魔瘴深し|無用の立ち入りを　禁ずる": ""
+        "この先　魔瘴深し|無用の立ち入りを　禁ずる": "Dense miasma ahead.|No unauthorized entry."
     },
     "14": {
         "<center>↑道なり　ゼクレス魔導国": ""
