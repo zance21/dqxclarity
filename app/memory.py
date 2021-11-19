@@ -1,8 +1,8 @@
-import pymem, pymem.process, pymem.exception
 import re
 from typing import Union
+import pymem, pymem.process, pymem.exception
 from errors import (
-    AddressOutOfRange, 
+    AddressOutOfRange,
     MemoryReadError,
     MemoryWriteError,
     PatternMultipleResults,
@@ -27,12 +27,12 @@ def dqx_mem():
 def read_bytes(address: int, size: int):
     '''
     Read n number of bytes at address.
-    
+
     Args:
         address: The address to start at
         bytes_to_read: Number of bytes to read from start of address
     '''
-    if address == None:
+    if address is None:
         raise FailedToReadAddress(address)
 
     if not 0 < address <= 0x7FFFFFFF:
@@ -46,13 +46,13 @@ def read_bytes(address: int, size: int):
 def write_bytes(address: int, value: bytes):
     '''
     Write bytes to memory at address.
-    
+
     Args:
         address: The address to write to
         value: The bytes to write
-    '''    
+    '''
     size = len(value)
-    
+
     try:
         PYM_PROCESS.write_bytes(address, value, size)
     except pymem.exception.MemoryWriteError:
@@ -87,7 +87,7 @@ def pattern_scan(
     pattern: bytes, *, module: str = None, return_multiple: bool = False) -> Union[list, int]:
     '''
     Scan for a byte pattern.
-    
+
     Args:
         pattern: The byte pattern to search for
         module: What module to search or None to search all
@@ -97,7 +97,7 @@ def pattern_scan(
         PatternMultipleResults: If the pattern returned multiple results and return_multple is False
     Returns:
         A list of results if return_multiple is True. Otherwise, one result.
-    '''    
+    '''
     if module:
         module = pymem.process.module_from_name(PYM_PROCESS.process_handle, module)
         found_addresses = _scan_entire_module(PYM_PROCESS.process_handle, module, pattern)
@@ -161,8 +161,6 @@ def scan_to_foot(start_addr: int) -> int:
     segment_size = 100  # give us a buffer to read from
     segment_buffer_size = segment_size * 2  # prevent match from getting chopped off
     loop_count = 1
-    import time
-    start_time = time.time()
     while True:
         curr_segment = read_bytes(curr_addr, segment_size)
         curr_bytes = curr_bytes + curr_segment
@@ -176,7 +174,6 @@ def scan_to_foot(start_addr: int) -> int:
                 if len(curr_bytes) > target_length:
                     curr_bytes = curr_bytes[1:]
                 if curr_bytes == foot_pattern:
-                    print("--- %s seconds ---" % (time.time() - start_time))
                     return curr_addr - target_length + 1  # return start of match
                 curr_addr += 1
         curr_addr += segment_size
@@ -186,7 +183,7 @@ def scan_to_foot(start_addr: int) -> int:
 
 def scan_to_first_char(start_addr: int, pattern: bytes) -> int:
     '''
-    Also stupid that this has to exist, but jump_to_next_address skips
+    Also stupid that this has to exist, but scan_pattern_page skips
     over legitimate addresses, so we need to read bytes forward
     until we find the pattern we're looking for.
     '''
@@ -204,22 +201,10 @@ def scan_to_first_char(start_addr: int, pattern: bytes) -> int:
             return False
         curr_addr += 1
 
-def jump_to_next_address(address: int, pattern):
-    '''
-    Jumps to the next matched address that matches a pattern. 
-    '''    
-    next_region = address
-    while next_region < 0x7FFFFFFF:
-        next_region, found = pymem.pattern.scan_pattern_page(PYM_PROCESS.process_handle, next_region, pattern)
-        if found:
-            break
-
-    return found
-
 def get_ptr_address(base, offsets):
     '''
     Gets the address a pointer is pointing to.
-    
+
     Args:
         base: Base of the pointer
         offsets: List of offsets

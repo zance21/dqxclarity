@@ -7,7 +7,7 @@ import sys
 import click
 from loguru import logger
 from pymem.exception import WinAPIError
-from clarity import (scan_for_player_names, translate, get_latest_from_weblate,
+from clarity import (translate, get_latest_from_weblate,
     dump_all_game_files, scan_for_player_names,
     migrate_translated_json_data, scan_for_npc_names,
     check_for_updates)

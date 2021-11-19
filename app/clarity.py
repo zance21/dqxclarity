@@ -4,18 +4,17 @@ Functions used by main.py to perform various actions that manipulate memory.
 '''
 
 from pathlib import Path
-import hashlib
 import json
 import os
 import re
 import shutil
 import sys
 import zipfile
+import random
 from alive_progress import alive_bar
 import pykakasi
 from loguru import logger
 import pandas as pd
-import random
 import requests
 from errors import messageBoxFatalError
 from memory import (
@@ -99,7 +98,7 @@ def get_latest_from_weblate():
             zip_file.write(github_request.content)
     except requests.exceptions.RequestException as e:
         messageBoxFatalError('Failed to update!',
-                            'Failed to get latest files from weblate.\nMessage: {e}')
+                            f'Failed to get latest files from weblate.\nMessage: {e}')
     __delete_folder('json/_lang/en/dqxclarity-weblate')
     __delete_folder('json/_lang/en/en')
 
@@ -159,7 +158,7 @@ def translate():
                         game_hex = read_bytes(text_address, len(hex_to_write)).hex()
                         bytes.fromhex(game_hex).decode('utf-8')
                     except:
-                        continue  # remants of files get left behind sometimes. don't write to these addresses if we can't read them
+                        continue
 
                     write_bytes(text_address, hex_to_write)
 
@@ -222,7 +221,7 @@ def scan_for_npc_names():
     monster_data = __read_json_file('monsters', 'en')
 
     logger.info('Starting NPC/monster name scanning.')
-    
+
     while True:
         byte_pattern = rb'[\xF8\xF4][\x86\x74]......\x30\x75..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
         index_list = pattern_scan(pattern=byte_pattern, return_multiple=True)
@@ -292,7 +291,7 @@ def dump_game_file(start_addr: int, num_bytes_to_read: int):
     '''
     Dumps a game file given its start and end address. Formats into a json
     friendly file to be used by clarity for both ja and en.
-    
+
     start_addr: Where to start our read operation to dump (should start at TEXT)
     num_bytes_to_read: How many bytes should we should dump from the start_addr
     '''
@@ -326,13 +325,13 @@ def dump_game_file(start_addr: int, num_bytes_to_read: int):
         sort_keys=False,
         ensure_ascii=False
     )
-    
+
     dic = dict()
     dic['ja'] = json_data_ja
     dic['en'] = json_data_en
-    
+
     return dic
-    
+
 def dump_all_game_files():
     '''
     Searches for all INDX entries in memory and dumps
@@ -354,7 +353,7 @@ def dump_all_game_files():
 
     data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
     game_file_addresses = pattern_scan(pattern=index_pattern, return_multiple=True)
-    
+
     hex_blacklist = [
         # license file
         '49 4E 44 58 10 00 00 00 10 00 00 00 00 00 00 00 73 4C 01 00 00 00 00 00 89 50 01 00 D8 BB 00 00 46 4F 4F 54 10 00 00 00 00 00 00 00 00 00 00 00 54 45 58 54 10 00 00 00 00 BC 00 00 00 00 00 00'
@@ -476,6 +475,9 @@ def migrate_translated_json_data():
         os.system(f'../hyde_json_merge\json-conv.exe -s ../hyde_json_merge/src/{filename} -d ../hyde_json_merge/dst/{filename} -o ../hyde_json_merge/out/{filename}')  # pylint: disable=anomalous-backslash-in-string,line-too-long
 
 def check_for_updates():
+    '''
+    Checks github for updates.
+    '''
     url = 'https://raw.githubusercontent.com/jmctune/dqxclarity/main/sha'
 
     exe_sha = __get_sha('dqxclarity.exe')
@@ -487,12 +489,12 @@ def check_for_updates():
     except requests.exceptions.RequestException as e:
         logger.warning(f'Failed to check latest version. Running anyways.\nMessage: {e}')
         return
-    
+
     if github_request.text != exe_sha:
-        logger.info(f'An update is available at https://github.com/jmctune/dqxclarity/releases', fg='green')
+        logger.info('An update is available at https://github.com/jmctune/dqxclarity/releases', fg='green')
     else:
-        logger.info(f'Up to date!')
-        
+        logger.info('Up to date!')
+  
     return
 
 def __read_json_file(base_filename, region_code):
@@ -538,11 +540,3 @@ def __delete_folder(folder):
 def __parse_filename_from_csv_result(csv_result):
     '''Parse the filename from the supplied csv result.'''
     return os.path.splitext(os.path.basename(csv_result[0]))[0].strip()
-
-def __get_sha(file):
-    try:
-        with open(file,"rb") as f:
-            bytes = f.read()
-            return hashlib.sha256(bytes).hexdigest()
-    except:
-        return False
