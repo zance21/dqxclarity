@@ -2817,7 +2817,7 @@
         "「他にも　何か買っていくか？|<break>": "You want me to get you something else?|<break>"
     },
     "940": {
-        "「まだ　何か買っていくか？|<break>": "You still want to buy something?"
+        "「まだ　何か買っていくか？|<break>": "You still want to buy something?|<break>"
     },
     "941": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　コイツが　ほしいのか？|<yesno><break>": ""
@@ -10563,10 +10563,10 @@
         "「みゃみゃ……　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだみゃ。|<bw_break>": ""
     },
     "3522": {
-        "「他にも　何か買っていくのかみゃ？|<break>": ""
+        "「他にも　何か買っていくのかみゃ？|<break>": "Are you going to buy anything else?|<break>"
     },
     "3523": {
-        "「まだ　何か買ってくのかみゃ？|<break>": ""
+        "「まだ　何か買ってくのかみゃ？|<break>": "Are you still going to buy something?|<break>"
     },
     "3524": {
         "「みゃみゃ……　残念だみゃあ。|　他に　ほしい物は　あるのかみゃー？|<break>": ""
