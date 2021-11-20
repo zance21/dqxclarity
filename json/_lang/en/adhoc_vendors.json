@@ -6,7 +6,7 @@
         "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "3": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "4": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": ""
@@ -2145,7 +2145,7 @@
         "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "716": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "717": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": ""
@@ -5721,7 +5721,7 @@
         "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "1908": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "1909": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>フェルドだぜ。|　これを　買うかね？|<yesno><break>": ""
