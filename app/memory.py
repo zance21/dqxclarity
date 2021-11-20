@@ -126,24 +126,25 @@ def scan_backwards(start_addr: int, pattern: bytes):
     target_length = len(pattern)
     curr_addr = start_addr
     curr_bytes = bytes()
-    segment_size = 2000  # give us a buffer to read from
+    segment_size = 200  # give us a buffer to read from
     segment_buffer_size = segment_size * 2  # prevent match from getting chopped off
     loop_count = 1
     while True:
         curr_segment = read_bytes(curr_addr, segment_size)
         curr_bytes = curr_segment + curr_bytes  # want the pattern to be read left to right, so prepending
-        if len(curr_bytes) > segment_buffer_size:
-            curr_bytes = curr_bytes[:-segment_size]  # keep our buffer reasonably sized
         if pattern in curr_bytes:  # found our match
             curr_bytes = bytes()  # erase buffer
+            curr_addr = curr_addr + segment_size  # match is in the buffer, let's jump forward and read backwards in smaller chunks
             while True:
                 curr_byte = read_bytes(curr_addr, 1)  # start searching for the exact address
-                curr_bytes = curr_bytes + curr_byte
+                curr_bytes = curr_byte + curr_bytes
                 if len(curr_bytes) > target_length:
-                    curr_bytes = curr_bytes[1:]
-                if curr_bytes == index_pattern:
-                    return curr_addr - target_length + 1  # return start of match
-                curr_addr += 1
+                    curr_bytes = curr_bytes[:-1]
+                if curr_bytes == pattern:
+                    return curr_addr  # return start of match
+                curr_addr -= 1
+        if len(curr_bytes) > segment_buffer_size:
+            curr_bytes = curr_bytes[:-segment_size]  # keep our buffer reasonably sized
         curr_addr -= segment_size
         loop_count += 1
         if loop_count * segment_size > 1000000:
