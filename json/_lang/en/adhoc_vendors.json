@@ -7893,7 +7893,7 @@
         "「他にも　ほしい物はあるかな？|<break>": ""
     },
     "2632": {
-        "「まだ何か　ほしい物はあるかな？|<break>": ""
+        "「まだ何か　ほしい物はあるかな？|<break>": "Is there anything else you'd like?|<break>"
     },
     "2633": {
         "「<%sL_KAITAI_ITEM>は|　なんと　無料ですっ！|　これを　受け取っちゃう？|<yesno><break>": ""
@@ -8598,7 +8598,7 @@
         "「他にも　何か作る？|<break>": ""
     },
     "2867": {
-        "「まだ何か　作ってほしいものはある？|<break>": ""
+        "「まだ何か　作ってほしいものはある？|<break>": "Is there anything else you'd like me to make|for you?|<break>"
     },
     "2868": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドよ。|　これを　作る？|<yesno><break>": ""
