@@ -168,6 +168,7 @@ def find_first_match(start_addr: int, pattern: bytes) -> int:
             curr_bytes = curr_bytes[segment_size:]  # keep our buffer reasonably sized
         if pattern in curr_bytes:  # found our match
             curr_bytes = bytes()  # erase buffer
+            curr_addr = curr_addr - segment_size  # match is in the buffer, let's back up and read until we match
             while True:
                 curr_byte = read_bytes(curr_addr, 1)  # start searching for the exact address
                 curr_bytes = curr_bytes + curr_byte
@@ -214,7 +215,7 @@ def get_start_of_game_text(indx_address: int) -> int:
         while True:  # skip passed the padded 00's
             result = read_bytes(address, 1)
             if result != b'\x00':
-                address -= 1  # we go back one address because the json pads the start of text with 00
+                address
                 break
             address += 1
             loop_count += 1
