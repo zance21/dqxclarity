@@ -165,7 +165,7 @@ def translate():
 
     logger.info('Done. Minimize this window and enjoy!')
 
-def write_adhoc_entry(start_addr: int, hex_str: str):
+def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
     '''
     Checks the stored json files for a matching adhoc file. If found,
     converts the json into bytes and writes bytes at the appropriate
@@ -174,6 +174,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
     data_frame = pd.read_csv(HEX_DICT, usecols = ['file', 'hex_string'])
     hex_result = split_hex_into_spaces(hex_str)
     csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
+    results = dict()
     if csv_result != []:
         file = __parse_filename_from_csv_result(csv_result)
         if 'adhoc' in file:
@@ -183,8 +184,11 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
                 text_address = get_start_of_game_text(index_address)
                 if text_address:
                     write_bytes(text_address, hex_to_write)
-                    return True
+                    results['success'] = True
+                    results['file'] = file
+                    return results
     else:
+        results['success'] = False
         filename = str(random.randint(1, 1000000000))
         Path('new_adhoc_dumps/en').mkdir(parents=True, exist_ok=True)
         Path('new_adhoc_dumps/ja').mkdir(parents=True, exist_ok=True)
@@ -194,12 +198,13 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
             data_frame = pd.read_csv('new_adhoc_dumps/new_hex_dict.csv', usecols = ['file', 'hex_string'])
             csv_result = __flatten(data_frame[data_frame.hex_string == hex_result].values.tolist())
             if csv_result != []:  # if we have an entry, don't make another one
-                return False
+                results['file'] = None
+                return results
         else:
             __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', 'file,hex_string\n')
 
         # get number of bytes to read from start
-        begin_address = get_start_of_game_text(start_addr) + 1  # make sure we start on the first byte of the first letter
+        begin_address = get_start_of_game_text(start_addr)  # make sure we start on the first byte of the first letter
         end_address = find_first_match(begin_address, foot_pattern)
         bytes_to_read = end_address - begin_address
 
@@ -210,8 +215,8 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
         __write_file('new_adhoc_dumps', 'new_hex_dict.csv', 'a', f'{filename},{hex_result}\n')
         __write_file('new_adhoc_dumps/ja', f'{filename}.json', 'w', ja_data)
         __write_file('new_adhoc_dumps/en', f'{filename}.json', 'w', en_data)
-
-        return False
+        results['file'] = filename
+        return results
 
 def scan_for_npc_names():
     '''
