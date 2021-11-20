@@ -861,13 +861,13 @@
         "<center>モンセロ奥の湯|<left>成分　リホイミウム・キングイオン・オラクルの塩|<left>効能　じわじわと回復": ""
     },
     "288": {
-        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "289": {
-        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "290": {
-        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": ""
+        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。|<right>温泉管理人　ルジナ": "← If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel.|－ Hot Spring Manager Rugina"
     },
     "291": {
         "<pc>は　石碑の表面に触れてみた。|すると　石碑の文字が　強く輝き|<se_nots Joutyu_SE 42>光の渦が　現われた！ ": ""
@@ -1020,13 +1020,13 @@
         "空きビンのラベルには　クマとリスが|仲むつまじく　たわむれている絵が描かれている。": ""
     },
     "341": {
-        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "342": {
-        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<center>↑やぐらの上　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "343": {
-        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": ""
+        "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "← If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "344": {
         "じんわりと熱を持った　石がある。": ""
