@@ -44,7 +44,6 @@ try:
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
         scan_backwards)
     from errors import AddressOutOfRange
     from translate import sanitized_dialog_translate, sqlite_read, sqlite_write_dynamic
@@ -119,7 +118,6 @@ try:
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
         scan_backwards)
     from errors import AddressOutOfRange
     from signatures import index_pattern, foot_pattern

@@ -49,7 +49,7 @@ try:
         read_bytes,
         write_bytes,
         read_string,
-        scan_to_foot,
+        find_first_match,
         scan_backwards)
     from errors import AddressOutOfRange
     from translate import sanitized_dialog_translate, sqlite_read, sqlite_write_dynamic
@@ -62,7 +62,7 @@ try:
     npc_address = unpack_to_int({ebx_address})[0]
     ja_address = unpack_to_int({eax_address})[0]
 
-    if scan_to_foot(ja_address) != False:
+    if find_first_match(ja_address, foot_pattern) != False:
         logging.debug('adhoc address found :: checking if we have this file')
         adhoc_address = scan_backwards(ja_address, index_pattern)
         adhoc_bytes = read_bytes(adhoc_address, 64)
