@@ -147,7 +147,7 @@
         "「ありがとうございました。|　新しい出会いが　ほしいときは|　また　いつでも来てね。": ""
     },
     "50": {
-        "「他に　ご用はあるかしら？|<break>": ""
+        "「他に　ご用はあるかしら？|<break>": "Anything else I can do?|<break>"
     },
     "51": {
         "「あら　残念だけど|　お金が　足りないみたいね。|<bw_break>": ""
@@ -222,7 +222,7 @@
         "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": "This is the Adventurer's Tavern. The place|where travelers come to meet and recruit|new friends. What can I get for you?|<break>"
     },
     "75": {
-        "「他に　ご用はあるかしら？|<break>": ""
+        "「他に　ご用はあるかしら？|<break>": "Anything else I can do?|<break>"
     },
     "76": {
         "「んー。悪いが　あんたの条件に合うやつは|　今日は　いないみたいだなあ。|　条件を変えてみてくれよ。|<break>": ""
@@ -609,7 +609,7 @@
         "「他にも　用はあるかい？|<select_se_off>|なかまをさがす|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": ""
     },
     "204": {
-        "「他に　ご用はあるかしら？|<break>": ""
+        "「他に　ご用はあるかしら？|<break>": "Anything else I can do?|<break>"
     },
     "205": {
         "「じゃあ　<%sM_pc_old>には　伝えておくよ。|　入れ替わりで　<%sM_pc>を|　呼んでくるから　ちょっと待っててくれよ……。<break>": ""
