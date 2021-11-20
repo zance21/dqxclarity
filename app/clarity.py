@@ -46,12 +46,12 @@ def generate_hex(file):
         elif re.search('^clarity_ms_space', key):
             en = '00e38080'
         else:
-            ja = '00' + key.encode('utf-8').hex()
+            ja = key.encode('utf-8').hex() + '00'
             ja_raw = key
             ja_len = len(ja)
 
             if value:
-                en = '00' + value.encode('utf-8').hex()
+                en = value.encode('utf-8').hex() + '00'
                 en_raw = value
                 en_len = len(en)
             else:
