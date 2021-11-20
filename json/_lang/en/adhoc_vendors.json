@@ -654,7 +654,7 @@
         "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているものですけど|　本当に　売っても　いいんですか？|<yesno 2><break>": ""
     },
     "219": {
-        "「まだ何か　売ってくださいますか？|<break>": ""
+        "「まだ何か　売ってくださいますか？|<break>": "Do you still have something to sell?|<break>"
     },
     "220": {
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですねっ。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": ""
@@ -9105,7 +9105,7 @@
         "「他のものも　ほしいの？|<break>": ""
     },
     "3036": {
-        "「まだ何か　ほしいの？|<break>": ""
+        "「まだ何か　ほしいの？|<break>": "You still want something?|<break>"
     },
     "3037": {
         "「あら　そうなの。|　他に　ほしい物は　あるの？|<break>": ""
@@ -10203,7 +10203,7 @@
         "「他に　売りたい物は　ありますか？|<break>": ""
     },
     "3402": {
-        "「まだ何か　売ってくださいますか？|<break>": ""
+        "「まだ何か　売ってくださいますか？|<break>": "Do you still have something to sell?|<break>"
     },
     "3403": {
         "「そうですか……。|　他に売りたい物は　ありますか？|<break>": ""
