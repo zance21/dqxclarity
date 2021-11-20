@@ -57,13 +57,13 @@
         "「そうかそうか　歓迎するぜ～。|　それじゃ　さっそく|　ルール説明を始めるぞ。ヒヒヒッ！|<bw_break>": "Well, well, welcome aboard! Without further|ado, I'll start explaining the rules!|Heheheee!|<bw_break>"
     },
     "20": {
-        "「お前は　パーティを組んでるから|　パーティメンバーと一緒に|　参加してもらうぞ。|<br>|「パーティリーダーに|　俺へ　声をかけるように言って|　参加表明を　してもらえ。|<br>|「そうすれば　お前に|　パーティリーダーの方から|　万魔の塔の誘いが　届くはずだ。|<end>": ""
+        "「お前は　パーティを組んでるから|　パーティメンバーと一緒に|　参加してもらうぞ。|<br>|「パーティリーダーに|　俺へ　声をかけるように言って|　参加表明を　してもらえ。|<br>|「そうすれば　お前に|　パーティリーダーの方から|　万魔の塔の誘いが　届くはずだ。|<end>": "Looks like you're in a party, so you'll go|along with them.|<br>|Tell your party leader to speak with me first|to send out an invitation.|<br>|Once they do, you can accept the invite into|the Banma Tower. Got it?|<end>"
     },
     "21": {
-        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を<%dM_num2>こ　やろう！|<end>": ""
+        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を<%dM_num2>こ　やろう！|<end>": "Looks like ya reached <%dM_point> points!|Here's <%dM_num2> <%sM_item> for ya!|<end>"
     },
     "22": {
-        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を　やろう！|<end>": ""
+        "「<%dM_point>ポイントに|　到達したようだな！|　<%sM_item>を　やろう！|<end>": "Looks like ya reached <%dM_point> points!|Here's <%sM_item> for ya!|<end>"
     },
     "23": {
         "<pc>は　<%sM_item>を|<%dM_num2>こ　手に入れた。|<se_nots System 7>": ""
