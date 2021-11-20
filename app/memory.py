@@ -149,13 +149,13 @@ def scan_backwards(start_addr: int, pattern: bytes):
         if loop_count * segment_size > 1000000:
             return False  # this scan is slow, so don't scan forever.
 
-def scan_to_foot(start_addr: int) -> int:
+def find_first_match(start_addr: int, pattern: bytes) -> int:
     '''
     This is so dumb that this has to exist, but scan_pattern_page does not
-    find instances of 'FOOT' consistently, so we must read this byte by byte
+    find patterns consistently, so we must read this byte by byte
     until we find a match. This works like scan backwards, but the other way around.
     '''
-    target_length = len(foot_pattern)
+    target_length = len(pattern)
     curr_addr = start_addr
     curr_bytes = bytes()
     segment_size = 100  # give us a buffer to read from
@@ -166,40 +166,20 @@ def scan_to_foot(start_addr: int) -> int:
         curr_bytes = curr_bytes + curr_segment
         if len(curr_bytes) > segment_buffer_size:
             curr_bytes = curr_bytes[segment_size:]  # keep our buffer reasonably sized
-        if foot_pattern in curr_bytes:  # found our match
+        if pattern in curr_bytes:  # found our match
             curr_bytes = bytes()  # erase buffer
             while True:
                 curr_byte = read_bytes(curr_addr, 1)  # start searching for the exact address
                 curr_bytes = curr_bytes + curr_byte
                 if len(curr_bytes) > target_length:
                     curr_bytes = curr_bytes[1:]
-                if curr_bytes == foot_pattern:
+                if curr_bytes == pattern:
                     return curr_addr - target_length + 1  # return start of match
                 curr_addr += 1
         curr_addr += segment_size
         loop_count += 1
         if loop_count * segment_size > 1000000:
             return False  # this scan is slow, so don't scan forever.
-
-def scan_to_first_char(start_addr: int, pattern: bytes) -> int:
-    '''
-    Also stupid that this has to exist, but scan_pattern_page skips
-    over legitimate addresses, so we need to read bytes forward
-    until we find the pattern we're looking for.
-    '''
-    target_length = len(pattern)
-    curr_addr = start_addr
-    curr_bytes = bytes()
-    while True:
-        curr_byte = read_bytes(curr_addr, 1)
-        curr_bytes = curr_bytes + curr_byte
-        if len(curr_bytes) > target_length:
-            curr_bytes = curr_bytes[1:]
-        if curr_bytes == pattern:
-            return curr_addr - 2
-        if start_addr + 1000000 > curr_addr:
-            return False
-        curr_addr += 1
 
 def get_ptr_address(base, offsets):
     '''
@@ -227,7 +207,7 @@ def get_start_of_game_text(indx_address: int) -> int:
     Returns the address of the first character of text from a loaded
     game file. This should be used when starting at an INDX address.
     '''
-    address = scan_to_first_char(indx_address, text_pattern)
+    address = find_first_match(indx_address, text_pattern)
     loop_count = 1
     if address:
         address += 16  # skip passed all the junk bytes

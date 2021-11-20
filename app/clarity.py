@@ -22,12 +22,13 @@ from memory import (
     read_string,
     write_bytes,
     pattern_scan,
-    scan_to_first_char,
     get_start_of_game_text,
-    scan_to_foot
+    find_first_match
 )
 from signatures import (
-    index_pattern
+    index_pattern,
+    text_pattern,
+    foot_pattern
 )
 
 HEX_DICT = 'hex_dict.csv'
@@ -177,7 +178,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
         file = __parse_filename_from_csv_result(csv_result)
         if 'adhoc' in file:
             hex_to_write = bytes.fromhex(generate_hex(file))
-            index_address = scan_to_first_char(start_addr, index_pattern)
+            index_address = find_first_match(start_addr, index_pattern)
             if index_address:
                 text_address = get_start_of_game_text(index_address)
                 if text_address:
@@ -199,7 +200,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str):
 
         # get number of bytes to read from start
         begin_address = get_start_of_game_text(start_addr) + 1  # make sure we start on the first byte of the first letter
-        end_address = scan_to_foot(begin_address)
+        end_address = find_first_match(begin_address, foot_pattern)
         bytes_to_read = end_address - begin_address
 
         # dump game file
@@ -371,7 +372,7 @@ def dump_all_game_files():
 
             start_addr = get_start_of_game_text(address) + 1  # make sure we start on the first byte of the first letter
             if start_addr is not None:
-                end_addr = scan_to_foot(start_addr) - 1
+                end_addr = find_first_match(start_addr, foot_pattern) - 1
                 if end_addr is not None:
                     bytes_to_read = end_addr - start_addr
                     game_data = read_bytes(start_addr, bytes_to_read).rstrip(b'\x00').hex()
