@@ -3324,7 +3324,7 @@
         "clarity_nt_char_1108": "clarity_nt_char_1108"
     },
     "1109": {
-        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。": ""
+        "錬金釜で <%sM_item><%sM_plusnum>の <%sM_slot>のツヤを|<%sM_change_metal>に変えた。": "Changed the <%sM_item><%sM_plusnum> <%sM_slot>|gloss to <%sM_change_metal> in the Alchemy Pot."
     },
     "1110": {
         "clarity_nt_char_1110": "clarity_nt_char_1110"
