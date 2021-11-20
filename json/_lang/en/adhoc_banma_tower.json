@@ -27,16 +27,16 @@
         "「魔物を倒すと　ポイントを稼げるから|　そのポイントの合計を　スコアとして|　記録してやるぜ。|<br>|「ちなみに　ハイスコアを更新したら　|　ハイスコアの合計として|　計上してやるが……|<br>|「ハイスコアの合計は　日曜日の朝６時で|　リセットされちまうから　注意しろよな。|<bw_break>": "You can get points by defeating monsters.|I'll record the total of those points as your|score.|<br>|By the way, if your high score updates, I'll|post it as your total high score....|<br>|High score totals are reset at 6 am on|Sundays, so please remember that!|<bw_break>"
     },
     "10": {
-        "「ヒヒヒッ！|　何について　聞きたい？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": ""
+        "「ヒヒヒッ！|　何について　聞きたい？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": "Heheheee! What do you wanna ask?|<select_se_off>|About Score|About Bonuses|About Rewards|About Aura Monsters|About Items|About Gilam Souls|About Gilam Magic|<select_end><break>"
     },
     "11": {
-        "「他に　何か　聞きたいことは　あるかぁ？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": ""
+        "「他に　何か　聞きたいことは　あるかぁ？|<select_se_off>|スコアについて|ボーナスについて|報酬について|オーラの魔物について|アイテムについて|ギラムソウルについて|ギラムマジックについて|<select_end><break>": "Aaaanything else you want to ask?|<select_se_off>|About Score|About Bonuses|About Rewards|About Aura Monsters|About Items|About Gilam Souls|About Gilam Magic|<select_end><break>"
     },
     "12": {
-        "「ここから　災壇まで　移動できるぞ|　どの災壇へ　移動するんだ？|<break>": ""
+        "「ここから　災壇まで　移動できるぞ|　どの災壇へ　移動するんだ？|<break>": "Which platform do ya wanna go to?|<break>"
     },
     "13": {
-        "「<%sM_banma>に　挑戦するか？|<yesno><break>": ""
+        "「<%sM_banma>に　挑戦するか？|<yesno><break>": "You wanna challenge <%sM_banma>?|<yesno><break>"
     },
     "14": {
         "「……残念だ。|　また　いつでも　来いよな～。|<bw_break>": ""
