@@ -200,7 +200,7 @@ def translate_detour(debug: bool):
     shellcode_addr = allocate_memory(50)
 
     # write our shellcode
-    write_string(shellcode_addr, str(shellcode))
+    write_string(shellcode_addr, shellcode)
 
     bytecode = (
         b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
