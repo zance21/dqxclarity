@@ -3,7 +3,7 @@
         "「生きとし生ける者は　皆　神の子。|　我が教会に　どんな　ご用かな？|<ask><bw_break>": ""
     },
     "2": {
-        "「他にも　用はあるかね？|<break>": "Anything else I can do?<break>"
+        "「他にも　用はあるかね？|<break>": "Anything else I can do?|<break>"
     },
     "3": {
         "「むむっ……見えるぞ。|　そなたの中に眠る　もうひとつの姿が。|<br>|「異なる姿を　目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えたいと申されるか？|<yesno><break>": ""
