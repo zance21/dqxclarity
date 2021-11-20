@@ -72,10 +72,10 @@
         "<pc>は　<%sM_item>を手に入れた。|<se_nots System 7>": "<pc> received <%sM_item>.|<se_nots System 7>"
     },
     "25": {
-        "「あん？　<%sM_banma>から　|　逃げ帰ってきたのか……。　|<br>|「まあ　いいだろう。|　お前が　稼いだスコアは|　保証してやるよ。|<end>": ""
+        "「あん？　<%sM_banma>から　|　逃げ帰ってきたのか……。　|<br>|「まあ　いいだろう。|　お前が　稼いだスコアは|　保証してやるよ。|<end>": "Huh? You ran away from|<%sM_banma>......?|<br>|Well, whatever. I'll still note down the|score ya earned.|<end>"
     },
     "26": {
-        "「ほう　<%sM_banma>を|　制覇したのか！　|<br>|「なかなか　やるじゃねーか！|　それなりに　ウデは立つようだなぁ！|<bw_break>": ""
+        "「ほう　<%sM_banma>を|　制覇したのか！　|<br>|「なかなか　やるじゃねーか！|　それなりに　ウデは立つようだなぁ！|<bw_break>": "Oooh, so you beat the <%sM_banma>,|huh?!|<br>|You're pretty good, huh? Looks like ya have|some skills after all!|<bw_break>"
     },
     "27": {
         "「魔界の海に漂う　魔瘴のチカラが溜まったな。|　また多くの魔物たちが　作りだされたぞ！|　さあ　スコアもリセットだ。|<br>|「それと　俺様のマジックやギラムソウルも|　リセットするからなぁ～　注意しろ。|　ヒヒヒッ！|<bw_break>": ""
