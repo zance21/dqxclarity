@@ -2811,7 +2811,7 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるみてえだが　いいのか？|<yesno 2><break>": ""
     },
     "938": {
-        "「他に　用はあるか？|<break>": ""
+        "「他に　用はあるか？|<break>": "Anything else you need?|<break>"
     },
     "939": {
         "「他にも　何か買っていくか？|<break>": ""
@@ -4707,7 +4707,7 @@
         "clarity_nt_char_1569": "clarity_nt_char_1569"
     },
     "1570": {
-        "「他に　何か　用はあるか？|<break>": ""
+        "「他に　何か　用はあるか？|<break>": "Anything else I can do?|<break>"
     },
     "1571": {
         "「他に　何か　買っていくかい？|<break>": ""
