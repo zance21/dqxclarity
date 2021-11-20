@@ -44,21 +44,17 @@ cutscene_adhoc_files = rb'\x2B\xCF\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
 ########################################
 # WHEN WILL THIS CHANGE?
 # On patches. A new pointer will need to be found.
-# Captured in CE by relogging over and over with type byte.
-login_screen_active = 0x00028224  # DQXGame.exe+00028224
-login_screen_offsets = [0x6E0]
-
-# WHEN WILL THIS CHANGE?
-# On patches. A new pointer will need to be found.
 # Captured in CE by going in and out of loading screens.
 # Loading screens to check:
 #  - In and out of zones
 #  - In and out of cutscenes
 #  - In and out of teleport orbs in town
 # 0 should be active loading screen, 1 should be inactive loading screen
-# To save time, change "Value between" in CE Scan type and scan for 00 through 01
-loading_screen_active = 0x01EED4F4  # DQXGame.exe+01EED4F4
-loading_screen_offsets = [0x34, 0x158, 0x24, 0x48, 0xBDC]
+
+# WHEN WILL THIS CHANGE?
+# asdsad
+loading_screen_active = 0x01F15468  # DQXGame.exe+01F15468
+loading_screen_offsets = [0x18, 0x20]
 
 # WHEN WILL THIS CHANGE?
 # On patches. The pattern shouldn't have to be adjusted, but the number of addresses to go backwards
