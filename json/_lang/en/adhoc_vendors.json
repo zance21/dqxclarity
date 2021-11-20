@@ -3,10 +3,10 @@
         "「他に　用はあるかね？|<break>": "Anything else I can do?|<break>"
     },
     "2": {
-        "「他にも　何か買っていくかね？|<break>": ""
+        "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "3": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "4": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": ""
@@ -354,7 +354,7 @@
         "「他にも　ご用件はございますか？|<break>": ""
     },
     "119": {
-        "「他にも　何か買っていかれますか？|<break>": ""
+        "「他にも　何か買っていかれますか？|<break>": "Would you like to buy something else?|<break>"
     },
     "120": {
         "「他にも　ほしい商品は|　ございますか？|<break>": ""
@@ -654,7 +654,7 @@
         "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているものですけど|　本当に　売っても　いいんですか？|<yesno 2><break>": ""
     },
     "219": {
-        "「まだ何か　売ってくださいますか？|<break>": ""
+        "「まだ何か　売ってくださいますか？|<break>": "Do you still have something to sell?|<break>"
     },
     "220": {
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですねっ。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますけど　よろしいですか？|<yesno><break>": ""
@@ -1608,7 +1608,7 @@
         "「他にも　用が　ある感じですか？|<break>": ""
     },
     "537": {
-        "「他にも　何か買ってく感じですか？|<break>": ""
+        "「他にも　何か買ってく感じですか？|<break>": "Are you going to buy anything else?|<break>"
     },
     "538": {
         "「他にも　ほしい商品が　ある感じですか？|<break>": ""
@@ -1875,7 +1875,7 @@
         "「他にも　ご用件はございますか？|<break>": ""
     },
     "626": {
-        "「他にも　何か買っていかれますか？|<break>": ""
+        "「他にも　何か買っていかれますか？|<break>": "Would you like to buy something else?|<break>"
     },
     "627": {
         "「他にも　ほしい商品は|　ございますか？|<break>": ""
@@ -2142,10 +2142,10 @@
         "「他に　用はあるかね？|<break>": "Anything else I can do?|<break>"
     },
     "715": {
-        "「他にも　何か買っていくかね？|<break>": ""
+        "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "716": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "717": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": ""
@@ -2814,10 +2814,10 @@
         "「他に　用はあるか？|<break>": "Anything else you need?|<break>"
     },
     "939": {
-        "「他にも　何か買っていくか？|<break>": ""
+        "「他にも　何か買っていくか？|<break>": "You want me to get you something else?|<break>"
     },
     "940": {
-        "「まだ　何か買っていくか？|<break>": ""
+        "「まだ　何か買っていくか？|<break>": "You still want to buy something?|<break>"
     },
     "941": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　コイツが　ほしいのか？|<yesno><break>": ""
@@ -3126,7 +3126,7 @@
         "「他にも　用はあるか？|<break>": "Anything else you need?|<break>"
     },
     "1043": {
-        "「他にも　何か買っていくか？|<break>": ""
+        "「他にも　何か買っていくか？|<break>": "You want me to get you something else?|<break>"
     },
     "1044": {
         "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -3441,7 +3441,7 @@
         "「他にも　何か　見ていかれマスカ？|<break>": ""
     },
     "1148": {
-        "「まだ何か　見ていかれマスカ？|<break>": ""
+        "「まだ何か　見ていかれマスカ？|<break>": "Is there anything else you'd like to see?|<break>"
     },
     "1149": {
         "「ギギッ　<%sL_KAITAI_ITEM>デスカ。|　<%nL_BUY_PRICE>ゴールドで　ドウデショウ？|<yesno><break>": ""
@@ -3750,7 +3750,7 @@
         "「他にも　用はあるか？|<break>": "Anything else you need?|<break>"
     },
     "1251": {
-        "「他にも　何か買っていくか？|<break>": ""
+        "「他にも　何か買っていくか？|<break>": "You want me to get you something else?|<break>"
     },
     "1252": {
         "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -4062,7 +4062,7 @@
         "「他にも　用はあるか？|<break>": "Anything else you need?|<break>"
     },
     "1355": {
-        "「他にも　何か買っていくか？|<break>": ""
+        "「他にも　何か買っていくか？|<break>": "You want me to get you something else?|<break>"
     },
     "1356": {
         "「他にも　ほしい物が　あるのか？|<break>": ""
@@ -5379,7 +5379,7 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　あなた　もう　覚えているようだけど|　よろしくて？|<yesno 2><break>": ""
     },
     "1794": {
-        "「他にも　ご用はあるかしら？|<break>": ""
+        "「他にも　ご用はあるかしら？|<break>": "Anything else I can do?|<break>"
     },
     "1795": {
         "「他の物を　お買いになるかしら？|<break>": ""
@@ -5718,10 +5718,10 @@
         "「他に　用はあるかね？|<break>": "Anything else I can do?|<break>"
     },
     "1907": {
-        "「他にも　何か買っていくかね？|<break>": ""
+        "「他にも　何か買っていくかね？|<break>": "Do you want me to get you anything else?|<break>"
     },
     "1908": {
-        "「まだ何か　買ってくかね？|<break>": ""
+        "「まだ何か　買ってくかね？|<break>": "You still want to buy something?|<break>"
     },
     "1909": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>フェルドだぜ。|　これを　買うかね？|<yesno><break>": ""
@@ -6726,7 +6726,7 @@
         "「他にも　ご用件はございますか？|<break>": ""
     },
     "2243": {
-        "「他にも　何か買っていかれますか？|<break>": ""
+        "「他にも　何か買っていかれますか？|<break>": "Would you like to buy something else?|<break>"
     },
     "2244": {
         "「他にも　ほしい商品は|　ございますか？|<break>": ""
@@ -7893,7 +7893,7 @@
         "「他にも　ほしい物はあるかな？|<break>": ""
     },
     "2632": {
-        "「まだ何か　ほしい物はあるかな？|<break>": ""
+        "「まだ何か　ほしい物はあるかな？|<break>": "Is there anything else you'd like?|<break>"
     },
     "2633": {
         "「<%sL_KAITAI_ITEM>は|　なんと　無料ですっ！|　これを　受け取っちゃう？|<yesno><break>": ""
@@ -8589,7 +8589,7 @@
         "★不要テキスト８|　このテキストが表示される場合|　バグとして扱ってください。": ""
     },
     "2864": {
-        "「他に　用はあるかしら？|<break>": ""
+        "「他に　用はあるかしら？|<break>": "Anything else I can do?|<break>"
     },
     "2865": {
         "★不要テキスト７５|　このテキストが表示される場合|　バグとして扱ってください。": ""
@@ -8598,7 +8598,7 @@
         "「他にも　何か作る？|<break>": ""
     },
     "2867": {
-        "「まだ何か　作ってほしいものはある？|<break>": ""
+        "「まだ何か　作ってほしいものはある？|<break>": "Is there anything else you'd like me to make|for you?|<break>"
     },
     "2868": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドよ。|　これを　作る？|<yesno><break>": ""
@@ -9105,7 +9105,7 @@
         "「他のものも　ほしいの？|<break>": ""
     },
     "3036": {
-        "「まだ何か　ほしいの？|<break>": ""
+        "「まだ何か　ほしいの？|<break>": "You still want something?|<break>"
     },
     "3037": {
         "「あら　そうなの。|　他に　ほしい物は　あるの？|<break>": ""
@@ -9168,7 +9168,7 @@
         "「そう。残念ね。|　他に売りたい物は　あるの？|<break>": ""
     },
     "3057": {
-        "「他にも　用はあるの？|<break>": ""
+        "「他にも　用はあるの？|<break>": "Anything else you need?|<break>"
     },
     "3058": {
         "「ふふふ……。|　また　いつでも　いらっしゃいね。|<turn_end>": ""
@@ -9948,7 +9948,7 @@
         "「他にも　お売りいただけますか？|<bw_break>": ""
     },
     "3317": {
-        "「まだ何か　売ってくださいますか？|<bw_break>": ""
+        "「まだ何か　売ってくださいますか？|<bw_break>": "Do you still have something to sell?|<bw_break>"
     },
     "3318": {
         "「他にも　売っていただけるものは|　ありますかね？|<bw_break>": ""
@@ -10203,7 +10203,7 @@
         "「他に　売りたい物は　ありますか？|<break>": ""
     },
     "3402": {
-        "「まだ何か　売ってくださいますか？|<break>": ""
+        "「まだ何か　売ってくださいますか？|<break>": "Do you still have something to sell?|<break>"
     },
     "3403": {
         "「そうですか……。|　他に売りたい物は　ありますか？|<break>": ""
@@ -10494,7 +10494,7 @@
         "「他に　売りたい物は　ありますか？|<bw_break>": ""
     },
     "3499": {
-        "「まだ何か　売ってくださいますか？|<bw_break>": ""
+        "「まだ何か　売ってくださいますか？|<bw_break>": "Do you still have something to sell?|<bw_break>"
     },
     "3500": {
         "「そうですか……。|　他に売りたい物は　ありますか？|<bw_break>": ""
@@ -10563,10 +10563,10 @@
         "「みゃみゃ……　<%sL_BAG_TYPE>が　いっぱいで|　<%sL_KAITAI_ITEM>は|　持ちきれないみたいだみゃ。|<bw_break>": ""
     },
     "3522": {
-        "「他にも　何か買っていくのかみゃ？|<break>": ""
+        "「他にも　何か買っていくのかみゃ？|<break>": "Are you going to buy anything else?|<break>"
     },
     "3523": {
-        "「まだ　何か買ってくのかみゃ？|<break>": ""
+        "「まだ　何か買ってくのかみゃ？|<break>": "Are you still going to buy something?|<break>"
     },
     "3524": {
         "「みゃみゃ……　残念だみゃあ。|　他に　ほしい物は　あるのかみゃー？|<break>": ""
@@ -10629,7 +10629,7 @@
         "「みゃみゃ……　残念だみゃー。|　他に売りたい物は　あるのかみゃ？|<break>": ""
     },
     "3544": {
-        "「他に　用はあるのかみゃ？|<break>": ""
+        "「他に　用はあるのかみゃ？|<break>": "Anything else you need?|<break>"
     },
     "3545": {
         "「また　来てちょーよ！|<turn_end>": ""
@@ -11049,7 +11049,7 @@
         "「……残念だモ。|　他に売りたい物は　あるかモ？|<break>": ""
     },
     "3684": {
-        "「他にも　用はあるかモ？|<break>": ""
+        "「他にも　用はあるかモ？|<break>": "Anything else you need?|<break>"
     },
     "3685": {
         "「ありがとうだモー。また　来てほしいモ！|<turn_end>": ""
@@ -11907,85 +11907,85 @@
         "「他にも　交換していきますか？|<break>": ""
     },
     "3970": {
-        "「まだ何か　交換するかい？|<break>": ""
+        "「まだ何か　交換するかい？|<break>": "Do you still want to exchange something?<break>"
     },
     "3971": {
-        "「まだ何か　交換するかい？|<break>": ""
+        "「まだ何か　交換するかい？|<break>": "Do you still want to exchange something?<break>"
     },
     "3972": {
-        "「まだ何か　交換するかい？|<break>": ""
+        "「まだ何か　交換するかい？|<break>": "Do you still want to exchange something?<break>"
     },
     "3973": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3974": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3975": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3976": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3977": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3978": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3979": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3980": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3981": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3982": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3983": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3984": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3985": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3986": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3987": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3988": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3989": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3990": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3991": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3992": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3993": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3994": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3995": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3996": {
-        "「まだ何か　交換なさいますか？|<break>": ""
+        "「まだ何か　交換なさいますか？|<break>": "Would you still like to exchange something?|<break>"
     },
     "3997": {
         "「そうか　残念だなあ。|　他に　交換したい物は　あるかい？|<break>": ""
