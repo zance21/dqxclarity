@@ -163,8 +163,6 @@ def translate():
 
                     write_bytes(text_address, hex_to_write)
 
-    logger.info('Done. Minimize this window and enjoy!')
-
 def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
     '''
     Checks the stored json files for a matching adhoc file. If found,
