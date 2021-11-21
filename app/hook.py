@@ -197,7 +197,7 @@ def translate_detour(debug: bool):
 
     pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
     py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    shellcode_addr = allocate_memory(50)
+    shellcode_addr = allocate_memory(len(shellcode))
 
     # write our shellcode
     write_string(shellcode_addr, shellcode)
