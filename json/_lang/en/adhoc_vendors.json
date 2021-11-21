@@ -1029,7 +1029,7 @@
         "「ここを　こうして……。よし。|　……結晶だ　受け取れ。|<end>": ""
     },
     "344": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": ""
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "345": {
         "「では　少し待ってくれ。|　ここを　こうしてと……。|　はい。結晶を　取りだしたぜ。|<end>": ""
@@ -1047,7 +1047,7 @@
         "「では　少々お待ちください。|　ここを　こうしてと……。|　はい。結晶を　取りだせました。|<end>": ""
     },
     "350": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": ""
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "351": {
         "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -11151,7 +11151,7 @@
         "「では　少し待ってくれ。|　ここを　こうしてと……。|　はい。結晶を　取りだしたぜ。|<end>": ""
     },
     "3718": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": ""
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "3719": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせるようだけど|　本当に　それを　売るのかい？|<yesno 2><break>": ""
