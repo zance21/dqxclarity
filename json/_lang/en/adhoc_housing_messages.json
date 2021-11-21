@@ -1113,13 +1113,13 @@
         "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<bw_break>": "It's a <%sL_FURNITURE>. To use it, please|clear the quest \"The Master of Fishing\"|first.|<bw_break>"
     },
     "372": {
-        "使用してないダミーのテキストです": ""
+        "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
     },
     "373": {
-        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": ""
+        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "374": {
-        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": ""
+        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "375": {
         "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": ""
