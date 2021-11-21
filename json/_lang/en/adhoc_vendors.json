@@ -7116,7 +7116,7 @@
         "clarity_nt_char_2372": "clarity_nt_char_2372"
     },
     "2373": {
-        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, will you still buy it?|<yesno 2><break>"
     },
     "2374": {
         "clarity_nt_char_2374": "clarity_nt_char_2374"
@@ -8079,7 +8079,7 @@
         "「<%sL_KAITAI_ITEM>だね！|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないけど　大丈夫かな？|<yesno 2><break>": ""
     },
     "2694": {
-        "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　飾れないけど　大丈夫かな？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　飾れないけど　大丈夫かな？|<yesno 2><break>": "<%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "2695": {
         "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": ""
@@ -12573,7 +12573,7 @@
         "「<%sL_KAITAI_ITEM>ですねっ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　いいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "4192": {
-        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでも買われますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, will you still buy it?|<yesno 2><break>"
     },
     "4193": {
         "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　それでもオッケーっすか？|<yesno 2><break>": ""
@@ -12624,7 +12624,7 @@
         "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>.|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "4209": {
-        "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　飾れないけど　大丈夫かな？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　飾れないけど　大丈夫かな？|<yesno 2><break>": "<%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "4210": {
         "★不要テキスト６５|　このテキストが表示される場合|　バグとして扱ってください。": ""
