@@ -10794,7 +10794,7 @@
         "「<%sL_KAITAI_ITEM>かみゃ。|　<%sL_KAITAI_ITEM>は　同時に<%nL_MAX>個までしか|　置けないけど　いいんだみゃ？|<yesno 2><break>": ""
     },
     "3599": {
-        "「<%sL_KAITAI_ITEM>かみゃ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいんだみゃ？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>かみゃ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいんだみゃ？|<yesno 2><break>": "The <%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "3600": {
         "「<%sL_KAITAI_ITEM>の　立ちかたは|　もう　覚えてるみたいだけど　いいんだみゃ？|<yesno 2><break>": ""
@@ -12630,7 +12630,7 @@
         "★不要テキスト６５|　このテキストが表示される場合|　バグとして扱ってください。": ""
     },
     "4211": {
-        "「<%sL_KAITAI_ITEM>かみゃ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいんだみゃ？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>かみゃ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいんだみゃ？|<yesno 2><break>": "The <%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "4212": {
         "「<%sL_KAITAI_ITEM>だモ？|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいのかモ？|<yesno 2><break>": ""
