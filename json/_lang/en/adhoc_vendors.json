@@ -15,7 +15,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "One <%sL_KAITAI_ITEM>.|That's <%dL_BUY_PRICE> gold but will you buy it?|<yesno><break>"
     },
     "6": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|is this okay?|<yesno><break>"
     },
     "7": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this with your current|vocation, is this okay?|<yesno 2><break>"
@@ -2154,7 +2154,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "One <%sL_KAITAI_ITEM>.|That's <%dL_BUY_PRICE> gold but will you buy it?|<yesno><break>"
     },
     "719": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|is this okay?|<yesno><break>"
     },
     "720": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
