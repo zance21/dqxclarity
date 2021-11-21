@@ -1863,7 +1863,7 @@
         "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品しますか？|<break>": ""
     },
     "622": {
-        "「ごめんなさい。その金額では|　受け付けられないのです……。|　正しい出品金額を　入力してください。|<break>": ""
+        "「ごめんなさい。その金額では|　受け付けられないのです……。|　正しい出品金額を　入力してください。|<break>": "I'm sorry, but I can't accept that listing|amount... Please enter a correct listing|amount.|<break>"
     },
     "623": {
         "「<%'nL_URITAI_PRICE>ゴールドですねっ！|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": ""
