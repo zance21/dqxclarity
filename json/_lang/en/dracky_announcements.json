@@ -2880,7 +2880,7 @@
         "clarity_nt_char_960": "clarity_nt_char_960"
     },
     "961": {
-        "自陣に援軍玉が現れました！": ""
+        "自陣に援軍玉が現れました！": "Reinforcement orbs on your side!"
     },
     "962": {
         "<%sC_STR>は 対象のクエストを クリアしていません": ""
@@ -2955,13 +2955,13 @@
         "clarity_nt_char_985": "clarity_nt_char_985"
     },
     "986": {
-        "試合開始まで あと<%dC_N1>秒です": ""
+        "試合開始まで あと<%dC_N1>秒です": "<%dC_N1> sec. until match begins."
     },
     "987": {
         "clarity_nt_char_987": "clarity_nt_char_987"
     },
     "988": {
-        "まもなく 試合が始まります！": ""
+        "まもなく 試合が始まります！": "The match will begin shortly!"
     },
     "989": {
         "clarity_nt_char_989": "clarity_nt_char_989"
