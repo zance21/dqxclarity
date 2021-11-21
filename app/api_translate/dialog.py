@@ -78,7 +78,7 @@ try:
         game_text_logger.info(ja_text)
 
     if find_first_match(ja_address, foot_pattern) != False:
-        logger.debug('Adhoc address found at >> ' + str(hex(ja_address)) + '<< :: Checking if we have this file')
+        logger.debug('Adhoc address found at >> ' + str(hex(ja_address)) + ' << :: Checking if we have this file')
         adhoc_address = scan_backwards(ja_address, index_pattern)
         if adhoc_address:
             logger.debug('Found INDX section.')
