@@ -156,7 +156,7 @@ def translate():
                     try:
                         # this just tests that we can decode what we should be writing
                         game_hex = read_bytes(text_address, len(hex_to_write)).hex()
-                        bytes.fromhex(game_hex).decode('utf-8')
+                        decoded_bytes = bytes.fromhex(game_hex).decode('utf-8')
                     except:
                         continue
 
