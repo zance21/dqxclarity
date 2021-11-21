@@ -11259,7 +11259,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<%sL_LIST_NAME_10>|<%sL_LIST_NAME_11>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<%sL_LIST_NAME_10>|<%sL_LIST_NAME_11>|<select_end><break>"
     },
     "3754": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<%sL_LIST_NAME_10>|<%sL_LIST_NAME_11>|<%sL_LIST_NAME_12>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<%sL_LIST_NAME_10>|<%sL_LIST_NAME_11>|<%sL_LIST_NAME_12>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<%sL_LIST_NAME_10>|<%sL_LIST_NAME_11>|<%sL_LIST_NAME_12>|<select_end><break>"
     },
     "3755": {
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
