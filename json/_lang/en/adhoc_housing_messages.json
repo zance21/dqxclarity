@@ -1098,10 +1098,10 @@
         "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. If you have|a fishing rod and a lure, it seems like you|can fish here.|<break>"
     },
     "367": {
-        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<break>": ""
+        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<break>": "It's a <%sL_FURNITURE>. To use it, please|clear the quest \"The Master of Fishing\"|first.|<break>"
     },
     "368": {
-        "使用してないダミーのテキストです": ""
+        "使用してないダミーのテキストです": "UNUSED DUMMY TEXT"
     },
     "369": {
         "<%sL_FURNITURE>がある。|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. Seems like|you can fish here.|<break>"
@@ -1110,7 +1110,7 @@
         "<%sL_FURNITURE>がある。|釣りざおと　ルアーがあれば|ここで　釣りが　できそうだ。|<break>": "It's a <%sL_FURNITURE>. If you have|a fishing rod and a lure, it seems like you|can fish here.|<break>"
     },
     "371": {
-        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<bw_break>": ""
+        "<%sL_FURNITURE>がある。|利用するには　クエスト『その者　釣り老師』を|クリアしてください。|<bw_break>": "It's a <%sL_FURNITURE>. To use it, please|clear the quest \"The Master of Fishing\"|first.|<bw_break>"
     },
     "372": {
         "使用してないダミーのテキストです": ""
