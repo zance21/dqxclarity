@@ -1134,16 +1134,16 @@
         "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": "You can't clean this up because you have a|gift waiting. Once you accept it, you can|clean up the monster house."
     },
     "379": {
-        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": ""
+        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": "Where would you like to store your placed|garden equipment you're cleaning up?|<select_se_off>|Item Bag|Garden Storage|<select_end><break>"
     },
     "380": {
-        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": ""
+        "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": "Where would you like to store your placed|garden equipment you're cleaning up?|<select_se_off>|Item Bag|Garden Storage|<select_end><break>"
     },
     "381": {
-        "ここに　庭具は　配置できません。": ""
+        "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
     },
     "382": {
-        "ここに　庭具は　配置できません。": ""
+        "ここに　庭具は　配置できません。": "Garden furniture cannot be placed here."
     },
     "383": {
         "<%sL_FURNITURE>は|庭具倉庫と　庭の敷地を合わせて　１個しか|置けないため　これ以上　配置できません。": ""
