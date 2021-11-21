@@ -2826,7 +2826,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": ""
     },
     "943": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": ""
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|Do you want these?|<yesno><break>"
     },
     "944": {
         "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_GENDER>以外じゃ|　装備できねえが　いいんだな？|<yesno 2><break>": ""
@@ -12342,7 +12342,7 @@
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno 2><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno 2><break>"
     },
     "4115": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno 2><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|Do you want these?|<yesno 2><break>"
     },
     "4116": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ね。|　合わせて　<%nL_BUY_PRICE>ゴールドだけど|　これが　ほしいの？|<yesno 2><break>": ""
