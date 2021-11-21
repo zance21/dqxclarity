@@ -27,7 +27,6 @@ from memory import (
 )
 from signatures import (
     index_pattern,
-    text_pattern,
     foot_pattern
 )
 
@@ -373,7 +372,7 @@ def dump_all_game_files():
             if hex_result in hex_blacklist:
                 continue
 
-            start_addr = get_start_of_game_text(address) + 1  # make sure we start on the first byte of the first letter
+            start_addr = get_start_of_game_text(address)  # make sure we start on the first byte of the first letter
             if start_addr is not None:
                 end_addr = find_first_match(start_addr, foot_pattern) - 1
                 if end_addr is not None:
