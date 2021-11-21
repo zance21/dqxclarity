@@ -27,7 +27,7 @@
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This one can only be equipped with|<%sL_SYOKUNIN>. Is that okay?|<yesno 2><break>"
     },
     "10": {
-        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": ""
+        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
     },
     "11": {
         "「他に　売りたい物は　あるか？|<break>": ""
@@ -2175,7 +2175,7 @@
         "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": ""
     },
     "726": {
-        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": ""
+        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
     },
     "727": {
         "「どっちの手に　装備するんだ？|<break>": ""
@@ -5751,7 +5751,7 @@
         "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": ""
     },
     "1918": {
-        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": ""
+        "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
     },
     "1919": {
         "「どっちの手に　装備するんだ？|<break>": ""
