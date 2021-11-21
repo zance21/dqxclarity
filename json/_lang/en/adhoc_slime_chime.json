@@ -15,7 +15,7 @@
         "このメッセージは　ロックされています。|ロックを　解除しますか？|<yesno 2><break>": ""
     },
     "6": {
-        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": ""
+        "<%nL_LIST_NUM>件のメッセージがあります。|<break>": "The chime has <%dL_LIST_NUM> message(s).|<break>"
     },
     "7": {
         "メッセージを　削除しました。": ""
