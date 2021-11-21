@@ -1122,10 +1122,10 @@
         "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "375": {
-        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": ""
+        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": "You can't clean up the fishing pond because|it still has fish in it.|<br>|Either catch all the fish, or let them escape|during a fish battle.|<end>"
     },
     "376": {
-        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": ""
+        "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": "You can't clean up the fishing pond because|it still has fish in it.|<br>|Either catch all the fish, or let them escape|during a fish battle.|<end>"
     },
     "377": {
         "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": ""
