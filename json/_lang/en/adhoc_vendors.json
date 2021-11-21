@@ -7098,7 +7098,7 @@
         "clarity_nt_char_2366": "clarity_nt_char_2366"
     },
     "2367": {
-        "「……<%sL_KAITAI_ITEM>か。|　写真立ての種類ごとに　写真は　１種類しか|　かざれねえが　いいのか？|<yesno 2><break>": ""
+        "「……<%sL_KAITAI_ITEM>か。|　写真立ての種類ごとに　写真は　１種類しか|　かざれねえが　いいのか？|<yesno 2><break>": "......<%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "2368": {
         "「<%sL_KAITAI_ITEM>ね？|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんけれど　よろしくて？|<yesno 2><break>": ""
@@ -12585,7 +12585,7 @@
         "「<%sL_KAITAI_ITEM>か。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないが　いいのかね？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "4196": {
-        "「……<%sL_KAITAI_ITEM>か。|　写真立ての種類ごとに　写真は　１種類しか|　かざれねえが　いいのか？|<yesno 2><break>": ""
+        "「……<%sL_KAITAI_ITEM>か。|　写真立ての種類ごとに　写真は　１種類しか|　かざれねえが　いいのか？|<yesno 2><break>": "......<%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, is that okay?|<yesno 2><break>"
     },
     "4197": {
         "clarity_nt_char_4197": "clarity_nt_char_4197"
