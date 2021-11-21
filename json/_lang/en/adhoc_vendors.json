@@ -2622,7 +2622,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "875": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "876": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2643,7 +2643,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "882": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "883": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2664,7 +2664,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "889": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "890": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2685,7 +2685,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "896": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "897": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2706,7 +2706,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "903": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "904": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2727,7 +2727,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "910": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "911": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2748,7 +2748,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "917": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "918": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2769,7 +2769,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "924": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "925": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2790,7 +2790,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": ""
     },
     "931": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "932": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -2994,7 +2994,7 @@
         "「へへっ　そりゃあ　残念だ……。|　他に売りたい物は　あるか？|<break>": ""
     },
     "999": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1000": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -3306,7 +3306,7 @@
         "「ケケケッ　仕方ないな。|　他に売りたいものは　あるか？|<break>": ""
     },
     "1103": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1104": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -3618,7 +3618,7 @@
         "「他に　売っていただけるものは|　ありマスカ？|<break>": ""
     },
     "1207": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1208": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -3930,7 +3930,7 @@
         "「キキッ　残念だ。|　他に売りたいものは　あるか？|<break>": ""
     },
     "1311": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1312": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -4896,7 +4896,7 @@
         "「おや　そうかい。|　他にも　何か売りたいものは　あるかい？|<break>": ""
     },
     "1633": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1634": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -5232,7 +5232,7 @@
         "「あら？|　他に売りたいものは　あるのかな？|<break>": ""
     },
     "1745": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1746": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -5568,7 +5568,7 @@
         "「あら　残念ですこと。|　他に　お売りになりたい物は　あるかしら？|<break>": ""
     },
     "1857": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1858": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -5904,7 +5904,7 @@
         "「そりゃ　残念だな。|　他に売りたい物は　あるか？|<break>": ""
     },
     "1969": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "1970": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -6240,7 +6240,7 @@
         "「そっか　残念。|　他に売りたい物は　あるかい？|<break>": ""
     },
     "2081": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "2082": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -6576,7 +6576,7 @@
         "「それは　残念です。|　他に売りたい物は　ありますか？|<break>": ""
     },
     "2193": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "2194": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
@@ -6912,7 +6912,7 @@
         "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": ""
     },
     "2305": {
-        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": ""
+        "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
     },
     "2306": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<select_end><break>": ""
