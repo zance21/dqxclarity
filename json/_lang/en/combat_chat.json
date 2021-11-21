@@ -387,7 +387,7 @@
         "みんなで楽しく|<%sB_ACTION>！": "Everybody have fun|with <%sB_ACTION>!"
     },
     "130": {
-        "逃げだそうとしている！": ""
+        "逃げだそうとしている！": "Trying to run away!"
     },
     "131": {
         "<%sB_ACTION>をした！": "Used <%sB_ACTION>!"
@@ -4110,7 +4110,7 @@
         "clarity_nt_char_1370": "clarity_nt_char_1370"
     },
     "1371": {
-        "逃げだすには|まだ 早いろぉおおん！！": ""
+        "逃げだすには|まだ 早いろぉおおん！！": "It's too early to run|awaaaay!!!"
     },
     "1372": {
         "いくぞ！": ""
@@ -4755,7 +4755,7 @@
         "clarity_nt_char_1585": "clarity_nt_char_1585"
     },
     "1586": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 逃げだせなかった・・・": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e couldn't run away..."
     },
     "1587": {
         "clarity_nt_char_1587": "clarity_nt_char_1587"
