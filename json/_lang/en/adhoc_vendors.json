@@ -33,13 +33,13 @@
         "「他に　売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "12": {
-        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?"
+        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?|<yesno 2><break>"
     },
     "13": {
         "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "14": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": ""
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
     },
     "15": {
         "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": ""
@@ -2193,7 +2193,7 @@
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
     },
     "732": {
-        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?"
+        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?|<yesno 2><break>"
     },
     "733": {
         "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
@@ -2202,7 +2202,7 @@
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それで　いいかね？|<yesno><break>": ""
     },
     "735": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": ""
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
     },
     "736": {
         "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
@@ -5769,7 +5769,7 @@
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるみたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
     },
     "1924": {
-        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?"
+        "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": "Oops, <%sL_URITAI_ITEM><%sL_PLUSNUM> looks like|something you're currently equipped with, but|you're sure you want to sell it?|<yesno 2><break>"
     },
     "1925": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　仲間モンスターが　装備しているものだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
