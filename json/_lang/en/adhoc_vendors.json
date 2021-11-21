@@ -7083,7 +7083,7 @@
         "「<%sL_KAITAI_ITEM>だな。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないが　それでもいいのか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>.|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "2362": {
-        "「<%sL_KAITAI_ITEM>デスネ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんが　それでも買われマスカ？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>デスネ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんが　それでも買われマスカ？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, will you still buy it?|<yesno 2><break>"
     },
     "2363": {
         "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいのかい？|<yesno 2><break>": ""
@@ -12591,7 +12591,7 @@
         "clarity_nt_char_4197": "clarity_nt_char_4197"
     },
     "4198": {
-        "「<%sL_KAITAI_ITEM>デスネ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんが　それでも買われマスカ？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>デスネ。|　写真立ての種類ごとに　写真は　１種類しか|　かざれませんが　それでも買われマスカ？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, will you still buy it?|<yesno 2><break>"
     },
     "4199": {
         "「<%sL_KAITAI_ITEM>だな。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないが　それでもいいのか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>.|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
