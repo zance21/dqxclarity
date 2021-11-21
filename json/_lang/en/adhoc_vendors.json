@@ -30,7 +30,7 @@
         "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
     },
     "11": {
-        "「他に　売りたい物は　あるか？|<break>": ""
+        "「他に　売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "12": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　今　装備しているもの　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -2184,7 +2184,7 @@
         "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
     },
     "729": {
-        "「他に　売りたい物は　あるか？|<break>": ""
+        "「他に　売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "730": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -2856,7 +2856,7 @@
         "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_SYOKUNIN>以外じゃ|　作れねえレシピだが　いいんだな？|<yesno 2><break>": ""
     },
     "953": {
-        "「他に　売りたい物は　あるか？|<break>": ""
+        "「他に　売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "954": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -5760,7 +5760,7 @@
         "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno 2><break>": ""
     },
     "1921": {
-        "「他に　売りたい物は　あるか？|<break>": ""
+        "「他に　売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "1922": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
