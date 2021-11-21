@@ -1242,7 +1242,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eの操作を 待っています": ""
     },
     "415": {
-        "残り時間が 30秒を切りました！": ""
+        "残り時間が 30秒を切りました！": "You have 30 seconds left!"
     },
     "416": {
         "clarity_nt_char_416": "clarity_nt_char_416"
