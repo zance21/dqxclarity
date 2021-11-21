@@ -27,7 +27,7 @@
         "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": ""
     },
     "10": {
-        "メッセージを　入力してください。|<break>": ""
+        "メッセージを　入力してください。|<break>": "Please enter a message.|<break>"
     },
     "11": {
         "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。": ""
@@ -378,7 +378,7 @@
         "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで|購入しますか？|<yesno 2><break>": ""
     },
     "127": {
-        "メッセージを　入力してください。|<break>": ""
+        "メッセージを　入力してください。|<break>": "Please enter a message.|<break>"
     },
     "128": {
         "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の家具を　置くことができます。": ""
