@@ -42,7 +42,7 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
     },
     "15": {
-        "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": ""
+        "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "The <%sL_URITAI_ITEM>.|I'll buy it for <%nL_SELL_PRICE> gold.|Is that okay?|<yesno><break>"
     },
     "16": {
         "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
@@ -2208,7 +2208,7 @@
         "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
     },
     "737": {
-        "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": ""
+        "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "The <%sL_URITAI_ITEM>.|I'll buy it for <%nL_SELL_PRICE> gold.|Is that okay?|<yesno><break>"
     },
     "738": {
         "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るが　いいかね？|<yesno><break>": ""
