@@ -1128,10 +1128,10 @@
         "釣り堀に　さかなが　入っているため|かたづけられません。|<br>|釣り堀に最初からいる　さかな以外の|全てのさかなを　釣る　もしくは　逃せば|かたづけることができます。|<end>": "You can't clean up the fishing pond because|it still has fish in it.|<br>|Either catch all the fish, or let them escape|during a fish battle.|<end>"
     },
     "377": {
-        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": ""
+        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": "You can't clean this up because you have a|gift waiting. Once you accept it, you can|clean up the monster house."
     },
     "378": {
-        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": ""
+        "おくりものがあるため　かたづけられません。|おくりものを取れば　モンスターのおうちを|かたづけることができます。": "You can't clean this up because you have a|gift waiting. Once you accept it, you can|clean up the monster house."
     },
     "379": {
         "配置中の　庭具をかたづけます。|どこに　もどしますか？|<select_se_off>|つかうものにもどす|庭具倉庫にもどす|<select_end><break>": ""
