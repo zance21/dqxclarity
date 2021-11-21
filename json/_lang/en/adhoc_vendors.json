@@ -7089,7 +7089,7 @@
         "「<%sL_KAITAI_ITEM>だね？|　写真立ての種類ごとに　写真は　１種類しか|　かざれないけど　いいのかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM> right?|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "2364": {
-        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": ""
+        "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
     },
     "2365": {
         "「<%sL_KAITAI_ITEM>ですね。|　写真立ての種類ごとに　写真は　１種類しか|　かざれないですが　よろしいですか？|<yesno 2><break>": "The <%sL_KAITAI_ITEM>?|You can only put one photo in each type of|photo frame, is that okay with you?|<yesno 2><break>"
