@@ -585,7 +585,7 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
     },
     "196": {
-        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": ""
+        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": "Yay! It's a beauty salon! I wonder what style you would like!"
     },
     "197": {
         "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
@@ -699,7 +699,7 @@
         "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
     },
     "234": {
-        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": ""
+        "「わーい！　美容院ですねー！|　どんな風になるのが　よいでしょうか～！|<end>": "Yay! It's a beauty salon! I wonder what style you would like!"
     },
     "235": {
         "「わかりました～。|　では　こちらの姿にて|　お仕えします～。|<end>": ""
