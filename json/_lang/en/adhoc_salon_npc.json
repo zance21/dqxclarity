@@ -114,7 +114,7 @@
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
     },
     "39": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? You already have <%sL_NAME> hair color.|Try choosing a different hair color.|<end>"
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "40": {
         "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
@@ -987,7 +987,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "330": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "331": {
         "「おやめになりますか？|<yesno><break>": ""
@@ -2418,7 +2418,7 @@
         "<color_yellow>|ツヤめきリンスは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<end>": ""
     },
     "807": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "808": {
         "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
