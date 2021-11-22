@@ -621,7 +621,7 @@
         "「じゃあ　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っててくださいね！　|<end>": "Well then, please wait a moment because|I will go to the beauty salon and change it|while <%sM_OWNER><%sM_SAMA> is not here!|<end>"
     },
     "208": {
-        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": ""
+        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "209": {
         "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
@@ -735,7 +735,7 @@
         "「では　<%sM_OWNER><%sM_SAMA>がいない間に|　美容院に行って　変えてくるので|　少し　待っていてくださいね～！　|<end>": ""
     },
     "246": {
-        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": ""
+        "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "247": {
         "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
