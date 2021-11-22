@@ -624,7 +624,7 @@
         "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "209": {
-        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
+        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": "Excuse me! <%sM_OWNER><%sM_SAMA>.I can't|change your hair color with that hairstyle!|<end>"
     },
     "210": {
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
@@ -738,7 +738,7 @@
         "「わかりました～！|　『美容院に行かせる』から　いつでも|　変更できますので　お申し付けくださいね！|<end>": "I understand!|I'll let you go to the beauty salon so you|can change it at any time, so please tell me!|<end>"
     },
     "247": {
-        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": ""
+        "「すみません～！　<%sM_OWNER><%sM_SAMA>。|　その髪型だと　ヘアカラーは|　変えられないのです～！|<end>": "Excuse me! <%sM_OWNER><%sM_SAMA>.I can't|change your hair color with that hairstyle!|<end>"
     },
     "248": {
         "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
