@@ -645,7 +645,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "216": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "217": {
         "「えっと　おやめになりますか？|<yesno><break>": ""
@@ -759,7 +759,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "254": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "255": {
         "「えっと　おやめになりますか？|<yesno><break>": ""
@@ -873,7 +873,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
     },
     "292": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "293": {
         "「およー？　やめちゃうのー？|<yesno><break>": ""
@@ -1101,7 +1101,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "368": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "369": {
         "「ん？　やめるのか？|<yesno><break>": ""
@@ -1215,7 +1215,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "406": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "407": {
         "「あら？　やめるのかしら？|<yesno><break>": ""
@@ -1329,7 +1329,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "444": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "445": {
         "「あれー？　やめちゃうのー？|<yesno><break>": ""
@@ -1443,7 +1443,7 @@
         "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you, then.|Please bring it again sometime.|<bw_break>"
     },
     "482": {
-        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": ""
+        "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
     },
     "483": {
         "「おや？　やめるのかい？|<yesno><break>": ""
