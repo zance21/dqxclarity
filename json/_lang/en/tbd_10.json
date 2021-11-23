@@ -378,13 +378,13 @@
         "しかし　<%sM_item>は|すでに　スタンプリストに　入っていた。": "However, <%sM_item> was already in their stamp|list."
     },
     "127": {
-        "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>": ""
+        "<speed=0>|<%sM_pack>　<%sM_packid>のスタンプを|使えるようになった！ <se_nots System 7>": "<speed=0>|You can now use the|<%sM_pack> <%sM_packid> Stamp!<se_nots System 7>"
     },
     "128": {
         "<speed=0>|<%sM_stamp>は　すでに使えるようだ。": ""
     },
     "129": {
-        "<speed=0>|<%sM_stamp>が　使えるようになった！": ""
+        "<speed=0>|<%sM_stamp>が　使えるようになった！": "<speed=0>|You can now use <%sM_stamp>!"
     },
     "130": {
         "第<%nL_TITLE_NUM>回　<%sL_TITLE>で|<%nL_RANKING_NUM>位の　成績を修めた。": ""
