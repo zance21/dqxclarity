@@ -24705,7 +24705,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eから もらえる 経験値とゴールドが ふえた！": ""
     },
     "8236": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 魅了された！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが 魅了された！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was charmed!"
     },
     "8237": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ビリビリバリアを はった！": ""
@@ -27657,7 +27657,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの マホキテが きえた。": ""
     },
     "9220": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魅了が とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魅了が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's charm faded!"
     },
     "9221": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ビリビリバリアが とけた！": ""
@@ -30915,7 +30915,7 @@
         "呪闇の魔柱に|かえられてしまった！": ""
     },
     "10306": {
-        "闇指揮者デリゲンに|魅了された！": ""
+        "闇指揮者デリゲンに|魅了された！": "Dark Conductor Derigen|was charmed!"
     },
     "10307": {
         "clarity_nt_char_10307": "clarity_nt_char_10307"
@@ -31836,7 +31836,7 @@
         "clarity_nt_char_10612": "clarity_nt_char_10612"
     },
     "10613": {
-        "魅了がとけた": ""
+        "魅了がとけた": "Charm faded."
     },
     "10614": {
         "clarity_nt_char_10614": "clarity_nt_char_10614"
@@ -33804,7 +33804,7 @@
         "clarity_nt_char_11268": "clarity_nt_char_11268"
     },
     "11269": {
-        "さらに魅了された！": ""
+        "さらに魅了された！": "Further Charmed!"
     },
     "11270": {
         "スーパーハイテンションに|なった！": "Gained Super High|Tension!"
