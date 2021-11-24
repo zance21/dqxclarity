@@ -92,7 +92,7 @@ except:
     return str(shellcode)
 
 def cutscene_file_dump_shellcode(
-    ecx_address: str,
+    esi_address: str,
     api_service: str,
     api_key: str,
     api_pro: str,
@@ -101,7 +101,7 @@ def cutscene_file_dump_shellcode(
     '''
     Returns shellcode for the cutscene file dump function hook.
 
-    ecx_address: Where adhoc text for cutscene can be found.
+    esi_address: Where adhoc text for cutscene can be found.
     '''
     local_paths = dumps(sys.path).replace('\\', '\\\\')
     working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
@@ -148,7 +148,7 @@ try:
         logger.setLevel(logging.DEBUG)
 
     # get address values where text can be identified
-    ja_address = unpack_to_int({ecx_address})[0]
+    ja_address = unpack_to_int({esi_address})[0]
 
     logger.debug('adhoc cutscene file found :: checking if we have this file')
     adhoc_address = scan_backwards(ja_address, index_pattern)
