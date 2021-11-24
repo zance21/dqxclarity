@@ -7,7 +7,8 @@ from signatures import (
     cutscene_trigger,
     cutscene_adhoc_files,
     pyrun_simplestring,
-    py_initialize_ex
+    py_initialize_ex,
+    py_finalizer
 )
 from memory import (
     dqx_mem,
@@ -152,6 +153,8 @@ def inject_python_dll():
         inject_dll(PYM_PROCESS.process_handle, bytes(python_dll, 'ascii'))
         if module_from_name(PYM_PROCESS.process_handle, 'python39.dll'):
             logger.debug('Python dll injected!')
+            py_initialize_addr = pattern_scan(py_initialize_ex, module='python39.dll')
+            write_bytes(py_initialize_addr, b'\x6A\x00')  # push 0 to initsigs
             return
         else:
             logger.error('Python dll failed to inject.')
@@ -197,6 +200,7 @@ def translate_detour(debug: bool):
 
     pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
     py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
+    py_finalizer_addr = pattern_scan(py_finalizer, module='python39.dll')
     shellcode_addr = allocate_memory(len(shellcode))
 
     # write our shellcode
@@ -205,7 +209,8 @@ def translate_detour(debug: bool):
     bytecode = (
         b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
         b'\x68' + bytes(pack_to_int(shellcode_addr)) + # push shellcode_addr
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)  # push py_run_simple_string_addr
+        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)# + # push py_run_simple_string_addr
+        #b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 15, py_finalizer_addr)
     )
 
     # # write our hook code
@@ -238,8 +243,6 @@ def translate_detour(debug: bool):
 
     logger.debug(f"Begin dialog hook:           {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 
@@ -314,8 +317,6 @@ def cutscene_detour(debug: bool):
 
     logger.debug(f"Begin cutscene hook:         {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 
@@ -337,10 +338,10 @@ def cutscene_file_dump_detour():
 
     pre_hook = write_pre_hook_registers()
 
-    esi = pre_hook['reg_ecx']
+    edi = pre_hook['reg_edi']
 
     shellcode = cutscene_file_dump_shellcode(
-        esi,
+        edi,
         api_service,
         api_key,
         api_pro,
@@ -389,8 +390,6 @@ def cutscene_file_dump_detour():
 
     logger.debug(f"Begin cutscene adhoc hook:   {hex(pre_hook['begin_mov_insts'])}")
     logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Py_InitializeEx address:     {hex(py_initialize_ex_addr)}")
-    logger.debug(f"PyRun_SimpleString address:  {hex(pyrun_simplestring_addr)}")
     logger.debug(f"Detour address:              {hex(detour_address)}")
 
 
