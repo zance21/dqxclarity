@@ -154,12 +154,12 @@ def find_first_match(start_addr: int, pattern: bytes) -> int:
     loop_count = 1
     while True:
         curr_segment = read_bytes(curr_addr, segment_size)
-        curr_bytes = curr_bytes + curr_segment
-        if len(curr_bytes) > segment_buffer_size:
-            curr_bytes = curr_bytes[segment_size:]  # keep our buffer reasonably sized
+        curr_bytes = curr_segment + curr_bytes
         if pattern in curr_bytes:  # found our match
             position = re.search(pattern, curr_bytes).span(0)
-            return curr_addr - segment_size + position[0]
+            return curr_addr + position[0]
+        if len(curr_bytes) > segment_buffer_size:
+            curr_bytes = curr_bytes[segment_size:]  # keep our buffer reasonably sized
         curr_addr += segment_size
         loop_count += 1
         if loop_count * segment_size > 1000000:
