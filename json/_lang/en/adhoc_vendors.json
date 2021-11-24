@@ -15,7 +15,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|Is this okay?|<yesno><break>"
     },
     "6": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s?|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
     },
     "7": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this with your current|vocation, is this okay?|<yesno 2><break>"
@@ -39,7 +39,7 @@
         "「他にも売りたい物は　あるか？|<break>": "Do you have anything else you'd like to sell?|<break>"
     },
     "14": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%dL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
     },
     "15": {
         "「<%sL_URITAI_ITEM>を　ひとつだな。|　<%nL_SELL_PRICE>ゴールドで　買い取るが|　それで　いいかね？|<yesno><break>": "The <%sL_URITAI_ITEM>.|I'll buy it for <%dL_SELL_PRICE> gold.|Is that okay?|<yesno><break>"
@@ -1023,31 +1023,31 @@
         "「確かに　結晶を取りださせていただきました。|<bw_break>": ""
     },
     "342": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "343": {
         "「ここを　こうして……。よし。|　……結晶だ　受け取れ。|<end>": ""
     },
     "344": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "345": {
         "「では　少し待ってくれ。|　ここを　こうしてと……。|　はい。結晶を　取りだしたぜ。|<end>": ""
     },
     "346": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "347": {
         "「では　少々お待ちください。|　ここを　こうしてと……。|　はい。結晶を　取りだせました。|<end>": ""
     },
     "348": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "349": {
         "「では　少々お待ちください。|　ここを　こうしてと……。|　はい。結晶を　取りだせました。|<end>": ""
     },
     "350": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "351": {
         "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
@@ -1383,7 +1383,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "462": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "463": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -1806,7 +1806,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "603": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "604": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2073,7 +2073,7 @@
         "「あら？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
     },
     "692": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "693": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2154,7 +2154,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|Is this okay?|<yesno><break>"
     },
     "719": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
     },
     "720": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": ""
@@ -2202,7 +2202,7 @@
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それで　いいかね？|<yesno><break>": ""
     },
     "735": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るぜ。|　それで　いいかね？|<yesno><break>": "I'll buy the <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%dL_SELL_PRICE> gold. Is that okay?|<yesno><break>"
     },
     "736": {
         "「おっと。それは　手に入りづらい|　貴重な物だが|　本当に　売っちまっていいのかい？|<yesno 2><break>": ""
@@ -2340,7 +2340,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "781": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "782": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2826,7 +2826,7 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|Do you want it?|<yesno><break>"
     },
     "943": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Do you want them?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Do you want them?|<yesno><break>"
     },
     "944": {
         "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_GENDER>以外じゃ|　装備できねえが　いいんだな？|<yesno 2><break>": ""
@@ -3057,7 +3057,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "1020": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1021": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -3369,7 +3369,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
     },
     "1124": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1125": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -3681,7 +3681,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "1228": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1229": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -3993,7 +3993,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
     },
     "1332": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1333": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -4305,7 +4305,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
     },
     "1436": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1437": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -5640,7 +5640,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "1881": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1882": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -5976,7 +5976,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "1993": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1994": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6312,7 +6312,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "2105": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "2106": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6648,7 +6648,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようです。|<bw_break>": ""
     },
     "2217": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "2218": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6984,7 +6984,7 @@
         "「あら？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": ""
     },
     "2329": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "2330": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -8178,7 +8178,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": ""
     },
     "2727": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "2728": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -10311,7 +10311,7 @@
         "「では　少々お待ちください。|　ここを　こうしてと……。|　はい。結晶を　取りだせました。|<end>": ""
     },
     "3438": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "3439": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせるようですが|　本当に　それを　お売りになりますか？|<yesno 2><break>": ""
@@ -10731,7 +10731,7 @@
         "「確かに　結晶を取りださせていただきました。|<bw_break>": ""
     },
     "3578": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "3579": {
         "「おっと　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせる　みたいだが|　本当に　売っちまっても　いいんだな？|<yesno 2><break>": ""
@@ -11151,7 +11151,7 @@
         "「では　少し待ってくれ。|　ここを　こうしてと……。|　はい。結晶を　取りだしたぜ。|<end>": ""
     },
     "3718": {
-        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
+        "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "3719": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　結晶を取りだせるようだけど|　本当に　それを　売るのかい？|<yesno 2><break>": ""
@@ -12315,7 +12315,7 @@
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だね。|　合わせて　<%nL_BUY_PRICE>ゴールドだよ。|　レプリカになっているけど　これを　買うかい？|<yesno 2><break>": ""
     },
     "4106": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno 2><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno 2><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno 2><break>"
     },
     "4107": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですねっ。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno 2><break>": ""
@@ -12339,10 +12339,10 @@
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno 2><break>": ""
     },
     "4114": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno 2><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno 2><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno 2><break>"
     },
     "4115": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno 2><break>": "<%nL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Do you want them?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　コイツが　ほしいのか？|<yesno 2><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Do you want them?|<yesno 2><break>"
     },
     "4116": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ね。|　合わせて　<%nL_BUY_PRICE>ゴールドだけど|　これが　ほしいの？|<yesno 2><break>": ""
@@ -12798,84 +12798,84 @@
         "「あ　これは　レプリカになっているけど|　買うのかモ？|<yesno 2><break>": ""
     },
     "4267": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4268": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4269": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4270": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4271": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4272": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4273": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4274": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4275": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4276": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4277": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4278": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4279": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4280": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4281": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4282": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4283": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4284": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4285": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4286": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4287": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4288": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4289": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4290": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4291": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4292": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4293": {
-        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%nL_NUM> Sweat & Tears Gems|and <%nL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
+        "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     }
 }
