@@ -957,10 +957,10 @@
         "「おや　その装備品は|　使い込み度が　上がらないので|　結晶を取りだせないようです。|<break>": "Oh, you can't get the crystals out of that|piece of equipment because it's not fully|charged.<break>"
     },
     "320": {
-        "「……他に　結晶を取りだしたい装備品は|　あるのか？|<break>": ""
+        "「……他に　結晶を取りだしたい装備品は|　あるのか？|<break>": "......Is there any other equipment you'd like|to extract crystals from?<break>"
     },
     "321": {
-        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他にも　結晶を取りだしたい装備品は|　あるか？|<break>": ""
+        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他にも　結晶を取りだしたい装備品は|　あるか？|<break>": "I've got <%nL_NUM2> more crystals to get out|of the equipment, but is there any other|equipment you'd like to get crystals out of?<break>"
     },
     "322": {
         "「……そいつは　手に入りづらい　貴重な物だ。|　本当に　結晶を取りだして　いいんだな？|<yesno 2><break>": "... They're hard to come by. They're|valuable. Are you sure you want to take the|crystals out?<yesno 2><break>"
