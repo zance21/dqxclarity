@@ -297,10 +297,10 @@
         "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "In <%sC_Kaisou>'s Another Mode, you'll get|a special clear reward. After completely|clearing, Another Mode will reset itself.|<br>|You can receive this reward as many times|as you like after resetting and clearing|B1F to B13F again.|<br>|Do you want to go to <%sC_Kaisou>?<yesno><close>"
     },
     "100": {
-        "<%sC_Kaisou>に行きます。|すでに　クリア報酬を手に入れているため|クリア報酬は手に入りませんが　よろしいですか？<yesno><close>": ""
+        "<%sC_Kaisou>に行きます。|すでに　クリア報酬を手に入れているため|クリア報酬は手に入りませんが　よろしいですか？<yesno><close>": "If you go to <%sC_Kaisou>, you|won't receive a clear reward since you already|received it. Is this okay?<yesno><close>"
     },
     "101": {
-        "これより先には　同行する仲間全員の|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "これより先には　同行する仲間全員の|準備が完了しないと　行くことができません。|<select>|このまま待つ|移動をやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You won't be able to proceed until all party|members are ready.|<select>|Keep Waiting|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "102": {
         "仲間全員の解答を待っています。|最大１分待っても　解答がない場合は|完了している仲間だけで進みます。|<select>|仲間の解答を待つ|<select_end>|<case 1>|<close>|<case_cancel>|<break>|<case_end>": ""
