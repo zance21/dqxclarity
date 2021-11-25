@@ -2379,7 +2379,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "794": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "795": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -2397,7 +2397,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "800": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "801": {
         "「おっ。これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるぜ。|<bw_break>": "Whoa. If you equip this, it'll work even if|you use it as a weapon in battle...<bw_break>"
@@ -3093,10 +3093,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "1032": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1033": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1034": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -3114,7 +3114,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "1039": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1040": {
         "「……コイツは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるぜ。|<bw_break>": "... If you equip it, you can use it as a|weapon in battle...<bw_break>"
@@ -3717,10 +3717,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "1240": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1241": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1242": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -3738,7 +3738,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "1247": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1248": {
         "「コレは　装備してれば|　戦いのときに　どうぐとして使っても|　効果がある物デスヨ。|<bw_break>": "It's something that, when equipped, can be|used as a weapon in a fight...<bw_break>"
@@ -5685,10 +5685,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "1896": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1897": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1898": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -5706,7 +5706,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "1903": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "1904": {
         "「こちらは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　ありますわよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
@@ -6021,10 +6021,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "2008": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2009": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2010": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -6042,7 +6042,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2015": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2016": {
         "「おっ。これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるぜ。|<bw_break>": "Whoa. If you equip this, it'll work even if|you use it as a weapon in battle...<bw_break>"
@@ -6357,10 +6357,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "2120": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2121": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2122": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -6378,7 +6378,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2127": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2128": {
         "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるんだよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
@@ -8223,10 +8223,10 @@
         "「使い込み度とは|　装備品をどれくらい使い込んだのか|　知るための　数値です。|<br>|「自分と同格以上の強さの魔物と　戦った後|　装備品がキラキラと光り|　使い込み度が　上がることがあります。|<br>|「使い込み度が１００になった　装備品からは|　汗と涙の結晶を　取りだせるようになります。|<br>|「今の使い込み度が　いくつなのかは|　その装備品を　くわしくみると|　確認できますよ。|<break>": "The usage level is a number that tells you|how much you've used your equipment. After|you've fought a demon that's at least as|<br>|strong as you, your equipment will shine and|your usage level will increase. When your|level of skill reaches 100, you'll be able to|<br>|extract crystals of sweat and tears from your|equipment. To find out how much you've spent,|take a closer look at the item.<break>"
     },
     "2742": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2743": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2744": {
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
@@ -8244,7 +8244,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2749": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "2750": {
         "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果が　あるんだよ。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
@@ -10338,16 +10338,16 @@
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "3447": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3448": {
         "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you've chosen an item, we won't be able|to offer you any other items from this|relationship.<yesno><break>"
     },
     "3449": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3450": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3451": {
         "「あっ　<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるみたいですけど　いいんですか？|<yesno 2><break>": "Oh, it looks like he's already memorized the|<%sL_KAITAI_ITEM> gesture. Is that okay?<yesno 2><break>"
@@ -10758,16 +10758,16 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
     },
     "3587": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3588": {
         "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you've chosen an item, we won't be able|to offer you any other items from this|relationship.<yesno><break>"
     },
     "3589": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3590": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3591": {
         "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えてるみたいだけど　いいんだみゃ？|<yesno 2><break>": "You already seem to remember the|<%sL_KAITAI_ITEM> gesture, is that okay?<yesno 2><break>"
@@ -11178,16 +11178,16 @@
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "3727": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3728": {
         "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you've chosen an item, we won't be able|to offer you any other items from this|relationship.<yesno><break>"
     },
     "3729": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3730": {
-        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
+        "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
     },
     "3731": {
         "「<%sL_KAITAI_ITEM>の　しぐさは|　もう　覚えているみたいだけど　いいのかモ？|<yesno 2><break>": "You already seem to remember the|<%sL_KAITAI_ITEM> gesture, but is that okay,|Mo?<yesno 2><break>"
