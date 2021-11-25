@@ -327,7 +327,7 @@
         "<pipipi_shigh>「お見事！！ |　やはり　<pc>が　ただよわせる|　超一流の匂いは　ホンモノだったか！<break>": "<pipipi_shigh>Amazing! I just knew that <pc>'s|top-notch scent was the real deal!<break>"
     },
     "110": {
-        "<pipipi_shigh>「むむ！？　<pc>の仲間が |　ワガハイの正体を　見抜いたようだぞ！<break>": ""
+        "<pipipi_shigh>「むむ！？　<pc>の仲間が |　ワガハイの正体を　見抜いたようだぞ！<break>": "<pipipi_shigh>Hmmm?! Looks like <pc> and|their group figured out who we really are!<break>"
     },
     "111": {
         "<pipipi_shigh>「う～む　不正解だ。|　ワガハイも　残念だぞ。<break>-- ▼クイズスライム（ライムウェル）": ""
@@ -357,13 +357,13 @@
         "報酬": ""
     },
     "120": {
-        "パーティリーダーが　どの神聖秘文に|挑戦するか　選択しています。|このままの状態で　お待ちください。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "パーティリーダーが　どの神聖秘文に|挑戦するか　選択しています。|このままの状態で　お待ちください。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "The party leader has chosen which sacred|text to challenge. Please wait.|<select>|Keep Waiting|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "121": {
         "仲間が　そろうのを　待っています。 |<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "Waiting for members to gather. |<select>|Keep Waiting|Stop|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "122": {
-        "見つかっちゃった！": ""
+        "見つかっちゃった！": "I found it!"
     },
     "123": {
         "仲間と一緒に　退出するには|同行する仲間全員の|準備が完了している必要があります。|<select>|仲間の準備完了を待つ|パーティを抜けて先に進む|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>": "In order to proceed, you and your party|members must all be ready.|<select>|Wait for Party|Leave Party and Proceed|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>"
