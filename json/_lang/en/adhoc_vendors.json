@@ -8772,7 +8772,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2925": {
-        "<select_se_off>|作りにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|作りにきた|売りにきた|<select_end><break>": "<select_se_off>|Make|Sell|<select_end><break>"
     },
     "2926": {
         "★不要テキスト２２|　このテキストが表示される場合|　バグとして扱ってください。": "Unnecessary text 22 If you see this text,|please treat it as a bug..."
@@ -8835,7 +8835,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<%sL_LIST_NAME_9>|<select_end><break>"
     },
     "2946": {
-        "<select_se_off>|作りにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|作りにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Make|Sell|Explanation|<select_end><break>"
     },
     "2947": {
         "「私は　日々　作品制作に取り組んでいるの。|　いわゆる　アーティストってやつね。|<br>|「彫像を　手に入れたら|　ぜひ　私のところに　来てちょうだい。|<br>|「材料費は　ちょっと　高くついちゃうけど |　私の手にかかれば　そっくり　同じものを|　いくらでも　作ることができるわよ。|<bw_break>": "I work on my art every day, and... I'm what|you call an artist... If you've got a statue,|you're welcome to come and see me... The|<br>|materials are a bit expensive, but in my|hands, I can make you exactly the same|statue.<bw_break>"
