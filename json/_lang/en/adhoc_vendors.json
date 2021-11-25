@@ -2043,7 +2043,7 @@
         "「そうですか。わかりました。|　他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Well... I see. Are there any other pieces of|equipment that you would like to extract|crystals from?<break>"
     },
     "682": {
-        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|retrieve crystals from?<break>"
+        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "683": {
         "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "From <%sL_ITEM><%sL_PLUSNUM>, you can take|<%nL_NUM> crystals... If I take out a|crystal, the original piece of equipment will|<br>|disappear.<yesno 2><break>"
@@ -3333,7 +3333,7 @@
         "「そうですか。わかりました。|　他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Well... I see. Are there any other pieces of|equipment that you would like to extract|crystals from?<break>"
     },
     "1112": {
-        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|retrieve crystals from?<break>"
+        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1113": {
         "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "From <%sL_ITEM><%sL_PLUSNUM>, you can take|<%nL_NUM> crystals... If I take out a|crystal, the original piece of equipment will|<br>|disappear.<yesno 2><break>"
@@ -3957,7 +3957,7 @@
         "「そうですか。わかりました。|　他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Well... I see. Are there any other pieces of|equipment that you would like to extract|crystals from?<break>"
     },
     "1320": {
-        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|retrieve crystals from?<break>"
+        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1321": {
         "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "From <%sL_ITEM><%sL_PLUSNUM>, you can take|<%nL_NUM> crystals... If I take out a|crystal, the original piece of equipment will|<br>|disappear.<yesno 2><break>"
@@ -4269,7 +4269,7 @@
         "「そうですか。わかりました。|　他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Well... I see. Are there any other pieces of|equipment that you would like to extract|crystals from?<break>"
     },
     "1424": {
-        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|retrieve crystals from?<break>"
+        "「他に　結晶を取りだしたい装備品は|　ございますか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1425": {
         "「<%sL_ITEM><%sL_PLUSNUM>からは　<%nL_NUM>個の結晶を|　取りだせます。結晶を取りだすと　元の装備品は|　消えてしまいますが　本当に　よろしいですか？|<yesno 2><break>": "From <%sL_ITEM><%sL_PLUSNUM>, you can take|<%nL_NUM> crystals... If I take out a|crystal, the original piece of equipment will|<br>|disappear.<yesno 2><break>"
