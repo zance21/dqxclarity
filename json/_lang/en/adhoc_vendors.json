@@ -810,7 +810,7 @@
         "「おや　その装備品から　結晶を取りだすには|　使い込み度が　足りないようです。|<break>": "Well, you haven't used your equipment enough|to get the crystals out of it.<break>"
     },
     "271": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "272": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -840,7 +840,7 @@
         "「……その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようだな。|<bw_break>": "... I don't think you've used enough of that|equipment to get the crystals out of it.<bw_break>"
     },
     "281": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "282": {
         "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -870,7 +870,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないだね。|<bw_break>": "Hmm? I don't think you've used your equipment|enough to get the crystals out of it.<bw_break>"
     },
     "291": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "292": {
         "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -900,7 +900,7 @@
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようです。|<bw_break>": "Hmm? I don't think you've used your equipment|enough to get the crystals out of it.<bw_break>"
     },
     "301": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "302": {
         "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -930,7 +930,7 @@
         "「あら？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないようですね。|<bw_break>": "What? I don't think you've been using that|equipment long enough to get the crystals out|of it.<bw_break>"
     },
     "311": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "312": {
         "「どれについて　説明しましょうか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -1125,13 +1125,13 @@
         "「どれについて　説明しましょうか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
     },
     "376": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "377": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "378": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "379": {
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -1386,16 +1386,16 @@
         "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "463": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "464": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "465": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "466": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "467": {
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -1809,16 +1809,16 @@
         "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "604": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "605": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "606": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "607": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "608": {
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -2076,7 +2076,7 @@
         "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "693": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "694": {
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2343,16 +2343,16 @@
         "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "782": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "783": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "784": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "785": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "786": {
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
@@ -3060,7 +3060,7 @@
         "<speed=0><pc>は|汗と涙の結晶を　<%nL_NUM>個手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems!<se_nots System 7>|<end>"
     },
     "1021": {
-        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1022": {
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
