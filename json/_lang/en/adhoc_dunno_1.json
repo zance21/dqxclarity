@@ -138,10 +138,10 @@
         "ここは　同行ポイントです。|この先に行くためには　同行する仲間全員の|準備が完了している必要があります。|<br>|この先では　全員が同じ出来事を共有しますが|話が進むのは　パーティリーダーと　それと同じ|進行状況の人のみです。他の人は進みません。|<select>|仲間の準備完了を待つ|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "This is the accompaniment point. In order to|proceed, all party members must be ready.|<br>|From this point, everyone will view the same|events, but only the leader and other party|members at the same point will progress.|<select>|Wait for Party|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "47": {
-        "依頼書クエストの　さそいが|タイムアウトで取り消されたため|受注できませんでした。": ""
+        "依頼書クエストの　さそいが|タイムアウトで取り消されたため|受注できませんでした。": "Request form quest couldn't be accepted due|to a timeout, and was cancelled."
     },
     "48": {
-        "<pipipi_mid>「こちらの　<%sN_ITEM>ですな。|　では　１００ゴールドで|　お買い取りします。よろしいですか？<yesno><break>": ""
+        "<pipipi_mid>「こちらの　<%sN_ITEM>ですな。|　では　１００ゴールドで|　お買い取りします。よろしいですか？<yesno><break>": "<pipipi_mid>This is <%sN_ITEM>, hm? Then I'll buy|it for 100 Gold. Is that all right?<yesno><break>"
     },
     "49": {
         "<pipipi_mid>「季節限定の依頼書以外であれば|　１００ゴールドで　買い取りいたしますぞ！|　どの依頼書を　お売りいただけるのですかな？<break>": ""
