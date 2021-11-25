@@ -315,10 +315,10 @@
         "緊急依頼書クエストは　１つしか受けられません！|せんれきコマンドの　クエストリストから|緊急依頼書クエストを　キャンセルしてください。": "You can't receive any more Urgent Request Form|Quests! Go to \"Quest List\" under \"Records\"|and cancel the currently accepted one."
     },
     "106": {
-        "<%sC_PC_LUA>から　依頼書クエストに|さそわれました！|<br>|このクエストは受けてから|<%nLIFETIMESEC>分以内に　達成する必要があります。|このクエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "<%sC_PC_LUA>から　依頼書クエストに|さそわれました！|<br>|このクエストは受けてから|<%nLIFETIMESEC>分以内に　達成する必要があります。|このクエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "Request Form Quest received from <%sC_PC_LUA>!|<br>|This quest must be completed in <%dLIFETIMESEC> minutes|after accepting it. Accept the quest?|<select>|Accept|Decline|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "107": {
-        "依頼書クエストに　さそわれています！|<br>|このクエストは受けてから|<%nLIFETIMESEC>分以内に　達成する必要があります。|このクエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "依頼書クエストに　さそわれています！|<br>|このクエストは受けてから|<%nLIFETIMESEC>分以内に　達成する必要があります。|このクエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You received a Request Form Quest!|<br>|This quest must be completed in <%dLIFETIMESEC> minutes|after accepting it. Accept the quest?|<select>|Accept|Decline|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "108": {
         "仲間がそろうのを　待っています……。|１分待っても　仲間がそろわない場合は|このまま　先に進みます。": ""
