@@ -33411,7 +33411,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 金縛りが さらに つよくなった！": ""
     },
     "11138": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 生き返りが できなくなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 生き返りが できなくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can still no longer be revived!"
     },
     "11139": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 風と雷の耐性ダウンの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's wind/thunder resistance down effect extended!"
@@ -33927,7 +33927,7 @@
         "clarity_nt_char_11309": "clarity_nt_char_11309"
     },
     "11310": {
-        "さらに生き返りが|できなくなった！": ""
+        "さらに生き返りが|できなくなった！": "Can still no longer|be revived!"
     },
     "11311": {
         "不滅の聖なる祈りの|効果時間延長！": "Immortal Care Prayer|effect extended!"
