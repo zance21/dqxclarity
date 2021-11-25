@@ -1,15 +1,15 @@
 {
     "1": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！": ""
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!"
     },
     "2": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　　　　依頼を　達成した！": ""
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　　　　依頼を　達成した！": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!   Request|fulfilled!"
     },
     "3": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　現在　<%nEV_QUE_N_NUM0>匹倒している。": ""
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　現在　<%nEV_QUE_N_NUM0>匹倒している。": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!  I've now killed|<%nEV_QUE_N_NUM0>..."
     },
     "4": {
-        "やべえ　こえー。{color=yellow}<%sEV_QUE_NAME0>{reset}　こえー。|{color=yellow}<%sEV_QUE_NAME0>{reset}が　目の前に出てきたら|オレ　速攻で逃げる自信あるね。かなり　あるね。|やべえ　{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}も|倒せるヤツとかいんの？　いたら　そいつスゲー。": ""
+        "やべえ　こえー。{color=yellow}<%sEV_QUE_NAME0>{reset}　こえー。|{color=yellow}<%sEV_QUE_NAME0>{reset}が　目の前に出てきたら|オレ　速攻で逃げる自信あるね。かなり　あるね。|やべえ　{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}も|倒せるヤツとかいんの？　いたら　そいつスゲー。": "Oh man. ... {I'm sure I'll run away as fast|as I can if <%sEV_QUE_NAME0>{reset} {If a|reset appeared in front of me, I'd be sure to|<br>|run away as soon as possible. I'm pretty|sure... Oh no! Is there anyone who can defeat|all those resets? If there is, that guy..."
     },
     "5": {
         "やべえ　こえー。{color=yellow}<%sEV_QUE_NAME0>{reset}　こえー。|{color=yellow}<%sEV_QUE_NAME0>{reset}が　目の前に出てきたら|オレ　速攻で逃げる自信あるね。かなり　あるね。|やべえ　{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}も|倒せるヤツとかいんの？　いたら　そいつスゲー。|　　　　　　　　　　　　　　依頼を　達成した！": ""

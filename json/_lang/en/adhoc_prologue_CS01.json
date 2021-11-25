@@ -1,1091 +1,1091 @@
 {
     "1": {
-        "「キヒヒヒ！|　また　来おったか　エテーネの民よ！|　今度こそ　お前たちの　息の根を止めてやろう！": ""
+        "「キヒヒヒ！|　また　来おったか　エテーネの民よ！|　今度こそ　お前たちの　息の根を止めてやろう！": "Khihihihi! You have come again, people of|Etaine! This time, I'll stop you all dead in|your tracks!"
     },
     "2": {
-        "「時を超えるチカラを秘めた　お前たちに|　テンスの花を渡すわけには　いかんからのう！": ""
+        "「時を超えるチカラを秘めた　お前たちに|　テンスの花を渡すわけには　いかんからのう！": "You have the power to transcend time, and I|will not let you have the Tens' flower!"
     },
     "3": {
-        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": ""
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>Hey, sis!<else>Hey, brother!<endif>"
     },
     "4": {
-        "「ほら　いいでしょ！？": ""
+        "「ほら　いいでしょ！？": "There, that's good, right?"
     },
     "5": {
-        "「アバさまが　乗っていいって|　言ってくれたんだ！": ""
+        "「アバさまが　乗っていいって|　言ってくれたんだ！": "Lady Ava said I could ride!"
     },
     "6": {
-        "「ねっ　アバさま？": ""
+        "「ねっ　アバさま？": "Right, Ava?"
     },
     "7": {
-        "「ああ。今日は　特別じゃ。": ""
+        "「ああ。今日は　特別じゃ。": "Oh. Today's special..."
     },
     "8": {
-        "「村の守り神　カメさまの　お背中に|　乗せていただく日が　来ようとは……。|　長生きは　するもんじゃのう。": ""
+        "「村の守り神　カメさまの　お背中に|　乗せていただく日が　来ようとは……。|　長生きは　するもんじゃのう。": "I never thought I'd see the day when I'd be|riding on the back of the village's guardian|turtle... I won't live long..."
     },
     "9": {
-        "「さあ　行くぞ　<kyodai>。|　他の者たちも　乗せてやらねば。": ""
+        "「さあ　行くぞ　<kyodai>。|　他の者たちも　乗せてやらねば。": "Come on, let's go.<kyodai> Let's get the others on|board..."
     },
     "10": {
-        "「はい　アバさま。": ""
+        "「はい　アバさま。": "Yes, I..."
     },
     "11": {
-        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<endif>": ""
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<endif>": "<if_woman>Come on! Come on, sis. Get in. Get in. Come|on, hold on to my hand...<else>Come on! Get in, get in, get in! Come on,|hold on to my hand...<endif>"
     },
     "12": {
-        "「ダメじゃ！": ""
+        "「ダメじゃ！": "No! No!"
     },
     "13": {
-        "「……えっ？": ""
+        "「……えっ？": "... What?"
     },
     "14": {
-        "「<pc>は　乗せられん。": ""
+        "「<pc>は　乗せられん。": "<pc>I'll take the..."
     },
     "15": {
-        "「ど　どうして……？": ""
+        "「ど　どうして……？": "How did you...?"
     },
     "16": {
-        "「……………………。": ""
+        "「……………………。": "..."
     },
     "17": {
-        "「そ　れ　は　な…………": ""
+        "「そ　れ　は　な…………": "That's not..."
     },
     "18": {
-        "<shake_big>「<kyodai>ーー！！": ""
+        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>Aah!"
     },
     "19": {
-        "「あはは……　ごめんなさい～！！": ""
+        "「あはは……　ごめんなさい～！！": "Hahaha... I'm sorry~!"
     },
     "20": {
-        "「<pc>！　<pc>っ！|　いないのかい？": ""
+        "「<pc>！　<pc>っ！|　いないのかい？": "<pc>No!<pc>No! You're not here?"
     },
     "21": {
-        "「おや　まだ寝てたのかい？|　あんたにしちゃ　めずらしいね。": ""
+        "「おや　まだ寝てたのかい？|　あんたにしちゃ　めずらしいね。": "Oh, you're still asleep, huh? That's a shame|for you."
     },
     "22": {
-        "「そうだ！　それより　聞いておくれよ！|　その　<kyodai>がね！": ""
+        "「そうだ！　それより　聞いておくれよ！|　その　<kyodai>がね！": "That's right! But listen to me! Listen.<kyodai>Gah!"
     },
     "23": {
-        "「錬金術で　ハツラツ豆を|　１０倍に増やすって言ったのに　失敗して|　全部　灰にしちゃったんだよ！": ""
+        "「錬金術で　ハツラツ豆を|　１０倍に増やすって言ったのに　失敗して|　全部　灰にしちゃったんだよ！": "I said I'd use alchemy to increase the number|of honeydew beans tenfold, but I failed and|turned them all to ash!"
     },
     "24": {
-        "「今年最後の　ハツラツ豆を……。|　アバさまが　とーっても|　楽しみにしてらっしゃったのに　ひどいだろ？": ""
+        "「今年最後の　ハツラツ豆を……。|　アバさまが　とーっても|　楽しみにしてらっしゃったのに　ひどいだろ？": "The last of the year's peaches. Ava's been|looking forward to it so much. It's terrible,|isn't it?"
     },
     "25": {
-        "「あんたの　<kyodai_rel2>の失敗なんだから|　代わりに　アバさまに　謝ってきておくれ。": ""
+        "「あんたの　<kyodai_rel2>の失敗なんだから|　代わりに　アバさまに　謝ってきておくれ。": "Your.<kyodai_rel2>Go apologize to Ava instead..."
     },
     "26": {
-        "「言うまでもないけど　アバさまの家は|　橋向こうの高台にある　大きな家だからね。|　じゃあ　頼んだよっ！": ""
+        "「言うまでもないけど　アバさまの家は|　橋向こうの高台にある　大きな家だからね。|　じゃあ　頼んだよっ！": "Needless to say, Ava's house is the big one|on the hill over the bridge... I'm counting|on you!"
     },
     "27": {
-        "「なんじゃ　こんなもの！": ""
+        "「なんじゃ　こんなもの！": "What the hell is this?"
     },
     "28": {
-        "「シンイっ！|　やっと眠れそうなところだったのに|　よくも　くだらんことで　ジャマしたな！！": ""
+        "「シンイっ！|　やっと眠れそうなところだったのに|　よくも　くだらんことで　ジャマしたな！！": "Shinui! Just when I was about to get some|sleep, you interrupt me with your nonsense!"
     },
     "29": {
-        "「す　すみません……。|　じつは　ハツラツ豆が　なくなってしまったので|　その代わりになればと思ったのですが……。": ""
+        "「す　すみません……。|　じつは　ハツラツ豆が　なくなってしまったので|　その代わりになればと思ったのですが……。": "Sorry... I was actually hoping to replace the|beans we ran out of, but..."
     },
     "30": {
-        "「なっ……！？|　ハ　ハツラツ豆が……　なくなったじゃと！？": ""
+        "「なっ……！？|　ハ　ハツラツ豆が……　なくなったじゃと！？": "What the...? The beans... They're gone?"
     },
     "31": {
-        "「………………。": ""
+        "「………………。": "..."
     },
     "32": {
-        "「おばあさま　お気を確かに！": ""
+        "「おばあさま　お気を確かに！": "Grandmother, be careful!"
     },
     "33": {
-        "「ああ……　大丈夫じゃ。": ""
+        "「ああ……　大丈夫じゃ。": "Oh... Oh, my..."
     },
     "34": {
-        "「今は……　今は…………": ""
+        "「今は……　今は…………": "Now... Now..."
     },
     "35": {
-        "「豆が　どうのなどと|　言っておられる時では　ないわ！": ""
+        "「豆が　どうのなどと|　言っておられる時では　ないわ！": "Now's not the time to be talking about beans."
     },
     "36": {
-        "「おお　<pc>ではないか！|　ちょうどよいところに　来てくれたな。|　じつは　お前たちに　話したいことが……": ""
+        "「おお　<pc>ではないか！|　ちょうどよいところに　来てくれたな。|　じつは　お前たちに　話したいことが……": "oh!<pc>Isn't it? You've come to the right place... I|have something to tell you..."
     },
     "37": {
-        "「……と　<kyodai>は　一緒ではないのか？|　やれやれ。どうでもいい時には　顔を出すクセに|　肝心な時には　おらんのだな。": ""
+        "「……と　<kyodai>は　一緒ではないのか？|　やれやれ。どうでもいい時には　顔を出すクセに|　肝心な時には　おらんのだな。": "... and<kyodai>Aren't they the same? Well... You show up|when it's not important, but not when it's|important..."
     },
     "38": {
-        "「すまぬが　<kyodai>を　呼んできてくれ。|　お前たち<pc_rel3>が　そろっている時に|　話したいことがあるのじゃ。": ""
+        "「すまぬが　<kyodai>を　呼んできてくれ。|　お前たち<pc_rel3>が　そろっている時に|　話したいことがあるのじゃ。": "I'm sorry.<kyodai>I'll go get... You guys.<pc_rel3>I'd like to talk to you when you're all|here..."
     },
     "39": {
-        "「ありがとうございます！|　では　失礼して……|　さっそく　作らせていただきますね。": ""
+        "「ありがとうございます！|　では　失礼して……|　さっそく　作らせていただきますね。": "Thank you very much. Now, if you'll excuse|me... I'll start working on it..."
     },
     "40": {
-        "「<pc>さんは|　ご存知なかったかもしれませんが……。|　じつは　私……　さいほうが得意なんです。": ""
+        "「<pc>さんは|　ご存知なかったかもしれませんが……。|　じつは　私……　さいほうが得意なんです。": "<pc>I don't know if you knew this, but... I'm|actually... I'm good at rewriting..."
     },
     "41": {
-        "「おばあさまの服も|　いつも　私が作っているんですよ。": ""
+        "「おばあさまの服も|　いつも　私が作っているんですよ。": "I always make my grandmother's clothes..."
     },
     "42": {
-        "「よし　できた！": ""
+        "「よし　できた！": "Okay, it's done!"
     },
     "43": {
-        "「ほら！　香りも　肌ざわりも　申し分ない。|　最高の安眠まくらの　完成です！": ""
+        "「ほら！　香りも　肌ざわりも　申し分ない。|　最高の安眠まくらの　完成です！": "Look at that! The scent, the feel, the|lusciousness... The perfect pillow for a good|night's sleep."
     },
     "44": {
-        "「<pc>さんが　集めてくださった|　もみガラと　お茶の葉の効果で|　おばあさまも　ぐっすり眠れるはずですよ！": ""
+        "「<pc>さんが　集めてくださった|　もみガラと　お茶の葉の効果で|　おばあさまも　ぐっすり眠れるはずですよ！": "<pc>I'm sure the rice husks and tea leaves you've|collected will help Grandmother sleep|soundly."
     },
     "45": {
-        "「さあ！　さっそく　おばあさまに|　使っていただきましょう！|　一緒に　向かいの部屋に　来てください！": ""
+        "「さあ！　さっそく　おばあさまに|　使っていただきましょう！|　一緒に　向かいの部屋に　来てください！": "Come on! Let's get on with it, grandmother!|Please come with me to the other room!"
     },
     "46": {
-        "「これと　これも　入れて……|　フタを閉めて……。": ""
+        "「これと　これも　入れて……|　フタを閉めて……。": "Put this one in there, and this one, and...|Close the lid..."
     },
     "47": {
-        "「よーし……。|　今度こそ　すっごいのが　できるぞ。|　きっと……。": ""
+        "「よーし……。|　今度こそ　すっごいのが　できるぞ。|　きっと……。": "Okay... I'm going to get a great one... It's|gonna be..."
     },
     "48": {
-        "なんと　ごきげんなぼうしが　できた！": ""
+        "なんと　ごきげんなぼうしが　できた！": "Oh, my God, I made a happy hat!"
     },
     "49": {
-        "<kyodai>は|ごきげんなぼうしを　手に入れた！": ""
+        "<kyodai>は|ごきげんなぼうしを　手に入れた！": "<kyodai>I've got the happy hat!"
     },
     "50": {
-        "「やったあっ！|　なんか　すっごいの　できた！": ""
+        "「やったあっ！|　なんか　すっごいの　できた！": "I did it! I made something amazing!"
     },
     "51": {
-        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": ""
+        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": "<if_woman>Hey, Sis?<else>Oh, brother?<endif>"
     },
     "52": {
-        "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": ""
+        "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": "<if_woman>You've come to the right place! This... It's|for my sister! I think she'll like it!<else>You've come to the right place! This... It's|for you, brother! I think he'll like it!<endif>"
     },
     "53": {
-        "<pc>は|ごきげんなぼうしを　手に入れた！<me 60>": ""
+        "<pc>は|ごきげんなぼうしを　手に入れた！<me 60>": "<pc>I've got the happy hat!<me 60>"
     },
     "54": {
-        "「あれ？　かばんが　いっぱいだね。|　しょうがないから　おいらが　持っておくよ。": ""
+        "「あれ？　かばんが　いっぱいだね。|　しょうがないから　おいらが　持っておくよ。": "What? My bag is full... I don't know what to|do. I'll just..."
     },
     "55": {
-        "<if_woman>「で　姉ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<endif>": ""
+        "<if_woman>「で　姉ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<endif>": "<if_woman>So what did you come all the way here for?<else>So what did you come all the way here for?<endif>"
     },
     "56": {
-        "「……えっ？|　アバさまが　おいらを呼んでる？": ""
+        "「……えっ？|　アバさまが　おいらを呼んでる？": "... What? Lady Ava wants to see me?"
     },
     "57": {
-        "「ふっふっふっふっふっ……。": ""
+        "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
     },
     "58": {
-        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": ""
+        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Ava-sama to rely on my alchemy?"
     },
     "59": {
-        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": ""
+        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, sis! Let's go to Ava's! Don't forget|about the hat I made for you... Don't forget|it!<else>Come on, big brother! Let's go to Ava's!|Don't forget about the hat I made for you...|Don't forget it!<endif>"
     },
     "60": {
-        "<kyodai>が　仲間に加わった！<me 61>": ""
+        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai>has joined our ranks!<me 61>"
     },
     "61": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "62": {
-        "「<pc>さん。私が　起こしますよ。|　寝起きの　おばあさまは　機嫌が悪いので……。": ""
+        "「<pc>さん。私が　起こしますよ。|　寝起きの　おばあさまは　機嫌が悪いので……。": "<pc>Three. I woke her up... Grandmother's in a|bad mood, so..."
     },
     "63": {
-        "「失礼します　おばあさま。|　<pc>さんが　<kyodai>さんを|　連れていらっしゃいましたよ。": ""
+        "「失礼します　おばあさま。|　<pc>さんが　<kyodai>さんを|　連れていらっしゃいましたよ。": "Excuse me. Aunt...<pc>longevity celebration (on one's 40th, 50th, 60th, etc. birthday)<kyodai>He's here with Miss..."
     },
     "64": {
-        "「とおッ！": ""
+        "「とおッ！": "Distant!"
     },
     "65": {
-        "「お　おばあさま……？": ""
+        "「お　おばあさま……？": "Grandma...?"
     },
     "66": {
-        "「お元気そう……　ですね？": ""
+        "「お元気そう……　ですね？": "You look... Isn't it?"
     },
     "67": {
-        "「うむ！　快眠じゃ！！": ""
+        "「うむ！　快眠じゃ！！": "Mmm! Sleep well!"
     },
     "68": {
-        "「……おかげで　寝覚めも　よかった。|　なかなか　いい　まくらじゃったぞい。": ""
+        "「……おかげで　寝覚めも　よかった。|　なかなか　いい　まくらじゃったぞい。": "And... That's what keeps me awake. It's a|nice pillow..."
     },
     "69": {
-        "「あ……　ありがとうございます！": ""
+        "「あ……　ありがとうございます！": "Oh... Thank you!"
     },
     "70": {
-        "「よし　みんな　そろったな。": ""
+        "「よし　みんな　そろったな。": "Okay, guys, let's..."
     },
     "71": {
-        "「では　シンイ！　村の者たちを集めよ！|　これより　カメさまのお告げを　皆に伝える！": ""
+        "「では　シンイ！　村の者たちを集めよ！|　これより　カメさまのお告げを　皆に伝える！": "Then, Xin Yi! Gather the villagers! I will|now tell them what the turtle has told me!"
     },
     "72": {
-        "「はいっ！": ""
+        "「はいっ！": "Yes!"
     },
     "73": {
-        "「エテーネの民たちよ！|　心して　聞くがよい！": ""
+        "「エテーネの民たちよ！|　心して　聞くがよい！": "People of Etaine! Hear me! Hear me!"
     },
     "74": {
-        "「わしは　カメさまからの　お告げをたまわる|　巫女として　託された　お告げを|　ありのままに　伝える！": ""
+        "「わしは　カメさまからの　お告げをたまわる|　巫女として　託された　お告げを|　ありのままに　伝える！": "I am a priestess who receives omens from the|turtle, and I will tell you exactly what she|tells me!"
     },
     "75": {
-        "「まもなく　このエテーネの村は……": ""
+        "「まもなく　このエテーネの村は……": "Soon, this village of Etaine will be..."
     },
     "76": {
-        "「大いなる災厄に見舞われ　滅びる！|　エテーネの民は　ひとり残らず|　死に絶えるじゃろう！": ""
+        "「大いなる災厄に見舞われ　滅びる！|　エテーネの民は　ひとり残らず|　死に絶えるじゃろう！": "There will be a great calamity and we will|perish! Every last one of the people of|Etaine will perish!"
     },
     "77": {
-        "「お告げには　まだ続きがある……。": ""
+        "「お告げには　まだ続きがある……。": "There's more to the prophecy..."
     },
     "78": {
-        "「エテーネの民は　死に絶えるだろう……|　だが　光明が　残されていないわけではない！": ""
+        "「エテーネの民は　死に絶えるだろう……|　だが　光明が　残されていないわけではない！": "The people of Etaine will die out. But that|does not mean that there is no light left in|the world!"
     },
     "79": {
-        "「北の　清き水の洞くつに咲く　伝説の霊草|　テンスの花があれば　滅びの運命から|　逃れられる……　ということじゃ！": ""
+        "「北の　清き水の洞くつに咲く　伝説の霊草|　テンスの花があれば　滅びの運命から|　逃れられる……　ということじゃ！": "In the North, in the caverns of clear water,|there is a legendary herb, the tench flower,|that will save us from certain doom. That's|<br>|what I'm saying!"
     },
     "80": {
-        "「テンスの花を　採りにいくのは|　わしの孫のシンイと　<pc>！": ""
+        "「テンスの花を　採りにいくのは|　わしの孫のシンイと　<pc>！": "It's my grandson Xinyi who's going to pick the tench flowers.<pc>！"
     },
     "81": {
-        "「そして……<kyodai>！|　この　３名じゃ！": ""
+        "「そして……<kyodai>！|　この　３名じゃ！": "And...<kyodai>Oh, my God! These three!"
     },
     "82": {
-        "「大いなる災厄は　そこまで迫っておる！|　だが　わしも　チカラを尽くす！": ""
+        "「大いなる災厄は　そこまで迫っておる！|　だが　わしも　チカラを尽くす！": "A great evil is at hand! But I'll do my best!"
     },
     "83": {
-        "「このわしが　カメさまと共に|　エテーネの村を　守りきってみせるわ！！": ""
+        "「このわしが　カメさまと共に|　エテーネの村を　守りきってみせるわ！！": "I will defend the village of Etaine with you,|turtle!"
     },
     "84": {
-        "「ふうっ……。": ""
+        "「ふうっ……。": "Phew..."
     },
     "85": {
-        "「さあ　急ぎましょう！　清き水の洞くつは|　育みの大地よりも　はるか遠い　北にあります。|　私の家で祈りを捧げて　すぐに出発しましょう！": ""
+        "「さあ　急ぎましょう！　清き水の洞くつは|　育みの大地よりも　はるか遠い　北にあります。|　私の家で祈りを捧げて　すぐに出発しましょう！": "Come on, let's hurry! The Cave of Clear|Waters is farther north than the land of|nurture... We'll say our prayers at my house|<br>|and be on our way soon!"
     },
     "86": {
-        "｢テキスト削除": ""
+        "｢テキスト削除": "Delete text"
     },
     "87": {
-        "<center>エテーネの民　<pc>よ……。|さあ　目を覚ましなさい。": ""
+        "<center>エテーネの民　<pc>よ……。|さあ　目を覚ましなさい。": "the people of Ethene<pc>Hey... Come on, wake up..."
     },
     "88": {
-        "<center>冥王のチカラにより|あなたの命は尽きましたが　その魂には|まだ　果たすべき使命が　あるのです。": ""
+        "<center>冥王のチカラにより|あなたの命は尽きましたが　その魂には|まだ　果たすべき使命が　あるのです。": "The Dark Lord's power has ended your life,|but your soul still has a mission to|fulfill..."
     },
     "89": {
-        "<center>隔絶された島で　生きてきた|あなたたち　エテーネの民は|知らないでしょう……。": ""
+        "<center>隔絶された島で　生きてきた|あなたたち　エテーネの民は|知らないでしょう……。": "You and the rest of Etaine's people, who have|lived on this isolated island, do not know..."
     },
     "90": {
-        "<center>これより　５人の神々が|あなたに　チカラを貸してくれます。": ""
+        "<center>これより　５人の神々が|あなたに　チカラを貸してくれます。": "From now on, five gods will lend you their|power..."
     },
     "91": {
-        "<center>さあ　神の像の前にゆき|どの姿に生まれ変わるか　決めるのです。": ""
+        "<center>さあ　神の像の前にゆき|どの姿に生まれ変わるか　決めるのです。": "Now, you will go before the statue of God and|decide in which form you will be reborn..."
     },
     "92": {
-        "「なんなんだ……これは……！": ""
+        "「なんなんだ……これは……！": "What the hell... This is...!"
     },
     "93": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "94": {
-        "「お　おばあさまは……！": ""
+        "「お　おばあさまは……！": "My grandmother...!"
     },
     "95": {
-        "「いやあああっ！": ""
+        "「いやあああっ！": "Oh, no!"
     },
     "96": {
-        "「くそっ！": ""
+        "「くそっ！": "Damn it!"
     },
     "97": {
-        "「…………っ！？": ""
+        "「…………っ！？": "... っ!"
     },
     "98": {
-        "「<kyodai>さんっ！！": ""
+        "「<kyodai>さんっ！！": "<kyodai>San!"
     },
     "99": {
-        "「あ……　あ…………。": ""
+        "「あ……　あ…………。": "Oh... Uh..."
     },
     "100": {
-        "「な　なんなの……　この光…………。": ""
+        "「な　なんなの……　この光…………。": "What the hell... This light..."
     },
     "101": {
-        "「時間が　止まってる……？": ""
+        "「時間が　止まってる……？": "Time has stopped...?"
     },
     "102": {
-        "「まさか　これ…………！": ""
+        "「まさか　これ…………！": "Oh, my God, this..."
     },
     "103": {
-        "<if_woman>「イヤだよ！　姉ちゃん！！|　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！|　おいらを　ひとりにしないで！！<endif>": ""
+        "<if_woman>「イヤだよ！　姉ちゃん！！|　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！|　おいらを　ひとりにしないで！！<endif>": "<if_woman>No! No! Sis! Don't leave me here alone!<else>No! No! Brother! Don't leave me alone!<endif>"
     },
     "104": {
-        "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>": ""
+        "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>": "<if_woman>Sis! Sis!<else>Big brother! Big brother!<endif>"
     },
     "105": {
-        "<if_woman>「姉ちゃぁぁあああんっ！！<else>「兄ちゃぁぁあああんっ！！<endif>": ""
+        "<if_woman>「姉ちゃぁぁあああんっ！！<else>「兄ちゃぁぁあああんっ！！<endif>": "<if_woman>Sis, aaah!<else>Brother!<endif>"
     },
     "106": {
-        "「<kyodai>さんが……　消えた？": ""
+        "「<kyodai>さんが……　消えた？": "<kyodai>The three of you... Disappeared?"
     },
     "107": {
-        "「まさか　今のは……？": ""
+        "「まさか　今のは……？": "No way. Was that...?"
     },
     "108": {
-        "「ぎゃあああああ！！！": ""
+        "「ぎゃあああああ！！！": "Geez!"
     },
     "109": {
-        "「<pc>さん。|　テンスの花は　私が　命に代えても|　必ず　おばあさまに　届けます！": ""
+        "「<pc>さん。|　テンスの花は　私が　命に代えても|　必ず　おばあさまに　届けます！": "<pc>Miss. Even if it costs me my life, I'll make|sure Tens' flowers get to Grandmother!"
     },
     "110": {
-        "「間に合わせてみせる……！": ""
+        "「間に合わせてみせる……！": "I'll make it."
     },
     "111": {
-        "「くっくっく……　見たぞ！": ""
+        "「くっくっく……　見たぞ！": "Ssshhhh... I see it!"
     },
     "112": {
-        "「こいつです　冥王さま！|　あの術を　使いやがったのはっ！": ""
+        "「こいつです　冥王さま！|　あの術を　使いやがったのはっ！": "It's him, Lord of the Underworld! He's the|one who used the spell!"
     },
     "113": {
-        "「やはり　時渡りの術を使う者が　現れたか。": ""
+        "「やはり　時渡りの術を使う者が　現れたか。": "I knew there was someone out there who could|use the time travel..."
     },
     "114": {
-        "「だが　ネズミ１匹　逃がしたところで|　この冥王ネルゲルを　阻むことはできぬ。": ""
+        "「だが　ネズミ１匹　逃がしたところで|　この冥王ネルゲルを　阻むことはできぬ。": "But even if I let one mouse escape, it will|not stop this Dark Lord Nergel..."
     },
     "115": {
-        "「冥王とは　あまねく　死を統べる者。|　生きとし生ける者が　死から逃れられぬように|　何人たりとも　我からは　逃れられぬ。": ""
+        "「冥王とは　あまねく　死を統べる者。|　生きとし生ける者が　死から逃れられぬように|　何人たりとも　我からは　逃れられぬ。": "\"The Dark Lord rules over all death... Just|as no living thing can escape death, so no|one can escape me."
     },
     "116": {
-        "「いまわしき　時渡りの術者よ！|　灼熱の獄炎で　その身を　焼き尽くしてやろう！": ""
+        "「いまわしき　時渡りの術者よ！|　灼熱の獄炎で　その身を　焼き尽くしてやろう！": "O thou who art the time traveler! I will|consume you in a fiery inferno!"
     },
     "117": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "118": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "119": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "120": {
-        "「…………っ！？": ""
+        "「…………っ！？": "... っ!"
     },
     "121": {
-        "「…………っ！？": ""
+        "「…………っ！？": "... っ!"
     },
     "122": {
-        "「…………っ！？": ""
+        "「…………っ！？": "... っ!"
     },
     "123": {
-        "「あ……　あ…………。": ""
+        "「あ……　あ…………。": "Oh... Uh..."
     },
     "124": {
-        "「あ……　あ…………。": ""
+        "「あ……　あ…………。": "Oh... Uh..."
     },
     "125": {
-        "「あ……　あ…………。": ""
+        "「あ……　あ…………。": "Oh... Uh..."
     },
     "126": {
-        "「な　なんだ……　この光…………。": ""
+        "「な　なんだ……　この光…………。": "What the... This light..."
     },
     "127": {
-        "「な　なんなの……　この光…………。": ""
+        "「な　なんなの……　この光…………。": "What the hell... This light..."
     },
     "128": {
-        "「な　なんなの……　この光…………。": ""
+        "「な　なんなの……　この光…………。": "What the hell... This light..."
     },
     "129": {
-        "「時間が　止まってる……？": ""
+        "「時間が　止まってる……？": "Time has stopped...?"
     },
     "130": {
-        "「時間が　止まってる……？": ""
+        "「時間が　止まってる……？": "Time has stopped...?"
     },
     "131": {
-        "「時間が　止まってる……？": ""
+        "「時間が　止まってる……？": "Time has stopped...?"
     },
     "132": {
-        "「まさか　これ…………！": ""
+        "「まさか　これ…………！": "Oh, my God, this..."
     },
     "133": {
-        "「まさか　これ…………！": ""
+        "「まさか　これ…………！": "Oh, my God, this..."
     },
     "134": {
-        "「まさか　これ…………！": ""
+        "「まさか　これ…………！": "Oh, my God, this..."
     },
     "135": {
-        "「<pc>か！？|　くそっ！　余計なことすんじゃねえ！！|　オレと　お前は　死ぬ時も　一緒だっ！！": ""
+        "「<pc>か！？|　くそっ！　余計なことすんじゃねえ！！|　オレと　お前は　死ぬ時も　一緒だっ！！": "<pc>Oh, my God! Damn it! You don't have to do|this! You and me, we're gonna die together!"
     },
     "136": {
-        "「ちょっと！　<pc>！|　勝手なことすんじゃないわよ！|　あんたを守るのは　あたしなんだからっ！！": ""
+        "「ちょっと！　<pc>！|　勝手なことすんじゃないわよ！|　あんたを守るのは　あたしなんだからっ！！": "Hey!<pc>No! Don't you dare do anything on your own!|I'm the one who's supposed to protect you!"
     },
     "137": {
-        "<if_woman>「イヤだよ！　お姉ちゃん！！|　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！|　私を　ひとりにしないで！！<endif>": ""
+        "<if_woman>「イヤだよ！　お姉ちゃん！！|　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！|　私を　ひとりにしないで！！<endif>": "<if_woman>No! No! Sis! Don't leave me alone!<else>No! No! Big brother! Don't leave me alone!<endif>"
     },
     "138": {
-        "「<pc>！　<pc>っ！！": ""
+        "「<pc>！　<pc>っ！！": "<pc>No!<pc>No!"
     },
     "139": {
-        "「<pc>！　<pc>っ！！": ""
+        "「<pc>！　<pc>っ！！": "<pc>No!<pc>No!"
     },
     "140": {
-        "<if_woman>「お姉ちゃん！　お姉ちゃんっ！！<else>「お兄ちゃん！　お兄ちゃんっ！！<endif>": ""
+        "<if_woman>「お姉ちゃん！　お姉ちゃんっ！！<else>「お兄ちゃん！　お兄ちゃんっ！！<endif>": "<if_woman>Sis! Sis!<else>Big brother! Big brother!<endif>"
     },
     "141": {
-        "「<pc>ーーーーーっ！！": ""
+        "「<pc>ーーーーーっ！！": "<pc>Woohoo!"
     },
     "142": {
-        "「<pc>ーーーーーっ！！": ""
+        "「<pc>ーーーーーっ！！": "<pc>Woohoo!"
     },
     "143": {
-        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>": ""
+        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>": "<if_woman>Sis, aaah!<else>Big brother!<endif>"
     },
     "144": {
-        "「おかしいですね。|　魔物たちが　１匹も　いないなんて。": ""
+        "「おかしいですね。|　魔物たちが　１匹も　いないなんて。": "It's funny... There's no demons here..."
     },
     "145": {
-        "「ねえ　今　カミナリが落ちた方角って……。": ""
+        "「ねえ　今　カミナリが落ちた方角って……。": "Hey, the direction that the thunder just|hit..."
     },
     "146": {
-        "「村の方角です！　急ぎましょうっ！！": ""
+        "「村の方角です！　急ぎましょうっ！！": "It's in the direction of the village! We must|hurry!"
     },
     "147": {
-        "「なあ　今　カミナリが落ちた方角って……。": ""
+        "「なあ　今　カミナリが落ちた方角って……。": "You know, the direction that the thunder just|hit..."
     },
     "148": {
-        "「ねえ　今　カミナリが落ちた方角って……。": ""
+        "「ねえ　今　カミナリが落ちた方角って……。": "Hey, the direction that the thunder just|hit..."
     },
     "149": {
-        "「い…今　カミナリが落ちた方角って……。": ""
+        "「い…今　カミナリが落ちた方角って……。": "Uh... The direction that the thunder just|hit..."
     },
     "150": {
-        "「ぐっ……　バ　バカなぁ…………。": ""
+        "「ぐっ……　バ　バカなぁ…………。": "Gee... You idiot..."
     },
     "151": {
-        "「じゃが……　たとえ　この身が果てようとも|　冥王さまより与えられし　使命だけは！": ""
+        "「じゃが……　たとえ　この身が果てようとも|　冥王さまより与えられし　使命だけは！": "But... But even if my life ends, the Dark|Lord has given me a mission!"
     },
     "152": {
-        "「ああっ　テンスの花が……！": ""
+        "「ああっ　テンスの花が……！": "Oh, Tens' flowers..."
     },
     "153": {
-        "「冥王さま……！|　時を　超える……　エテーネの民は……|　め…冥王さまの　手で……　滅ぼしてくだされ！": ""
+        "「冥王さま……！|　時を　超える……　エテーネの民は……|　め…冥王さまの　手で……　滅ぼしてくだされ！": "Lord of the underworld...! The timeless...|The people of Etaine... ... By the hand of|the Dark Lord... Destroy them all!"
     },
     "154": {
-        "「ど　どうしよう……。|　テンスの花が　全部　焼けちゃった……。": ""
+        "「ど　どうしよう……。|　テンスの花が　全部　焼けちゃった……。": "I don't know... All the tench flowers are|burned..."
     },
     "155": {
-        "「時を超えるとかなんとか|　わけのわからないこと言って|　おいらたちの　ジャマをするなんて……。": ""
+        "「時を超えるとかなんとか|　わけのわからないこと言って|　おいらたちの　ジャマをするなんて……。": "I can't believe you're going to interfere|with us by saying things like \"transcending|time\"..."
     },
     "156": {
-        "「古い書物によると……": ""
+        "「古い書物によると……": "According to an old book..."
     },
     "157": {
-        "「私たち　エテーネの民は　はるか昔|　自由に時を超えられる　時渡りの術という能力を|　持っていたそうです。": ""
+        "「私たち　エテーネの民は　はるか昔|　自由に時を超えられる　時渡りの術という能力を|　持っていたそうです。": "We, the people of Etaine, long ago possessed|the ability to travel through time at will..."
     },
     "158": {
-        "「ですが　時渡りの術を使える者は|　時代と共に　少なくなっていき|　数百年前に　完全に失われたのだとか……。": ""
+        "「ですが　時渡りの術を使える者は|　時代と共に　少なくなっていき|　数百年前に　完全に失われたのだとか……。": "But the number of people who could use the|Time Warp became fewer and fewer over time...|until it was completely lost hundreds of|<br>|years ago."
     },
     "159": {
-        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだよ！": ""
+        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだよ！": "That's right... I can't believe I'm being put|through this because of an ability that's no|longer with me!"
     },
     "160": {
-        "「ダメだ……　見つからない……。|　テンスの花が　１本でも残っていれば|　おばあさまの言いつけを　果たせたのに！": ""
+        "「ダメだ……　見つからない……。|　テンスの花が　１本でも残っていれば|　おばあさまの言いつけを　果たせたのに！": "No... I can't find it... If I had just one|Tens flower left, I could've done what|Grandmother asked!"
     },
     "161": {
-        "「……仕方ありません。村に帰りましょう。|　他に　大いなる災厄を止める手立てが|　あるかもしれません。": ""
+        "「……仕方ありません。村に帰りましょう。|　他に　大いなる災厄を止める手立てが|　あるかもしれません。": "... I have no choice... I must return to the|village... Perhaps there is another way to|stop the great evil..."
     },
     "162": {
-        "「どうしました　<kyodai>さん？": ""
+        "「どうしました　<kyodai>さん？": "what's the matter?<kyodai>Mr.?"
     },
     "163": {
-        "「あそこ……　光ってる。": ""
+        "「あそこ……　光ってる。": "There... Light..."
     },
     "164": {
-        "「……光？": ""
+        "「……光？": "... Light?"
     },
     "165": {
-        "「私には　見えませんが……。": ""
+        "「私には　見えませんが……。": "I can't see it, but..."
     },
     "166": {
-        "「おいらには　見える！": ""
+        "「おいらには　見える！": "I can see it!"
     },
     "167": {
-        "「これ！": ""
+        "「これ！": "Here!"
     },
     "168": {
-        "「そ　それは……！": ""
+        "「そ　それは……！": "No, that's...!"
     },
     "169": {
-        "「よくぞ　見つけてくださいました！|　これさえあれば　村を……|　滅びの運命から　救えるかもしれません！": ""
+        "「よくぞ　見つけてくださいました！|　これさえあれば　村を……|　滅びの運命から　救えるかもしれません！": "I'm so glad you found it! With this, we may|save our village... Could be saved from|certain doom!"
     },
     "170": {
-        "「よかった。|　おいらも　役に立てたんだね！": ""
+        "「よかった。|　おいらも　役に立てたんだね！": "Hey... I'm glad I could be of service!"
     },
     "171": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。姉ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。兄ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<endif>": ""
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。姉ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。兄ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Sis, thank you for bringing me|here!<else>I'm sure it was my duty to find the tens|flower here... Thank you, brother, for|bringing me here!<endif>"
     },
     "172": {
-        "シンイは|テンスの花を　手に入れた！<me 60>": ""
+        "シンイは|テンスの花を　手に入れた！<me 60>": "Xinyi got the Tens flower!<me 60>"
     },
     "173": {
-        "「さあ　この花を|　おばあさまに　届けなくては！|　急ぎましょう！": ""
+        "「さあ　この花を|　おばあさまに　届けなくては！|　急ぎましょう！": "Come on, we've got to get these flowers to|Grandmother! We must hurry!"
     },
     "174": {
-        "「ど　どうすんだ……。|　テンスの花が　みんな　焼けちまったのか？": ""
+        "「ど　どうすんだ……。|　テンスの花が　みんな　焼けちまったのか？": "I don't know what to do. Did all the Tens'|flowers get burned?"
     },
     "175": {
-        "「ど　どうすんのよ……。|　テンスの花が　全部　燃やされちゃったわよ！": ""
+        "「ど　どうすんのよ……。|　テンスの花が　全部　燃やされちゃったわよ！": "What are we going to do? They've burned all|the Tens' flowers!"
     },
     "176": {
-        "「ど　どうしたらいいの……？|　テンスの花が　全部　燃えちゃった。": ""
+        "「ど　どうしたらいいの……？|　テンスの花が　全部　燃えちゃった。": "What am I supposed to do? All of Tens'|flowers are on fire."
     },
     "177": {
-        "「時を超えるとかなんとか|　わけのわからないことを言って|　オレたちの　ジャマしやがって……。": ""
+        "「時を超えるとかなんとか|　わけのわからないことを言って|　オレたちの　ジャマしやがって……。": "He said something about transcending time...|and then he interrupted us."
     },
     "178": {
-        "「時を超えるとかなんとか|　わけのわかんないこと言って|　あたしたちの　ジャマをするなんて……。": ""
+        "「時を超えるとかなんとか|　わけのわかんないこと言って|　あたしたちの　ジャマをするなんて……。": "You can't just say things like \"transcend|time\" and then interfere with us..."
     },
     "179": {
-        "「時を超えるとかなんとか|　わけのわからないこと言って　私たちの|　ジャマをするなんて　信じらんない……。": ""
+        "「時を超えるとかなんとか|　わけのわからないこと言って　私たちの|　ジャマをするなんて　信じらんない……。": "I can't believe you'd interfere with us by|saying something that doesn't make any sense,|like timelessness..."
     },
     "180": {
-        "「そうだったのか……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだぜ。": ""
+        "「そうだったのか……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだぜ。": "I didn't know that... I'm not sure I'd want|to be put through all this for an ability|that's no longer with me."
     },
     "181": {
-        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだわ！": ""
+        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだわ！": "Oh, my God. I can't believe I'm being put|through this because of an ability that's no|longer with me!"
     },
     "182": {
-        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだよね。": ""
+        "「そうだったんだ……。|　今はもうない能力なのに　そのために|　こんな目にあわされるなんて　あんまりだよね。": "It was... It's a gift that's no longer with|us, and we're being put through this because|of it."
     },
     "183": {
-        "「あそこ……　光ってないか？": ""
+        "「あそこ……　光ってないか？": "There... Isn't it glowing?"
     },
     "184": {
-        "「あそこ……　光ってない？": ""
+        "「あそこ……　光ってない？": "There's... Is it glowing?"
     },
     "185": {
-        "「あそこ……　光ってる。": ""
+        "「あそこ……　光ってる。": "There... Light..."
     },
     "186": {
-        "「オレには　見える！": ""
+        "「オレには　見える！": "I see it!"
     },
     "187": {
-        "「あたしには　見えるのよ！": ""
+        "「あたしには　見えるのよ！": "I can see you!"
     },
     "188": {
-        "「私には　見えるの！": ""
+        "「私には　見えるの！": "I can see it!"
     },
     "189": {
-        "「これだ！": ""
+        "「これだ！": "This is it!"
     },
     "190": {
-        "「これ！": ""
+        "「これ！": "Here!"
     },
     "191": {
-        "「これ！": ""
+        "「これ！": "Here!"
     },
     "192": {
-        "「へっへ～ん。|　さすが　オレだぜ！": ""
+        "「へっへ～ん。|　さすが　オレだぜ！": "Heh... That's me!"
     },
     "193": {
-        "「ふふん！|　みんな　あたしに感謝してよねっ！": ""
+        "「ふふん！|　みんな　あたしに感謝してよねっ！": "Mmm! You guys should be thanking me!"
     },
     "194": {
-        "「えへへへ……。|　私も　役に立てて　うれしいな～！": ""
+        "「えへへへ……。|　私も　役に立てて　うれしいな～！": "Heh heh heh... I'm glad I could be of service|too!"
     },
     "195": {
-        "「たぶん　ここで　テンスの花を見つけるのが|　オレの役目だったのかもな！　<pc>|　ここまで連れてきてくれて　ありがとよ！": ""
+        "「たぶん　ここで　テンスの花を見つけるのが|　オレの役目だったのかもな！　<pc>|　ここまで連れてきてくれて　ありがとよ！": "Maybe it was my job to find Tens' flowers|here!<pc>Thanks for bringing me all the way out here!"
     },
     "196": {
-        "「きっと　ここで　テンスの花を見つけるのが|　あたしの役目だったのね。<pc>|　ここまで連れてきてくれて　ありがと！": ""
+        "「きっと　ここで　テンスの花を見つけるのが|　あたしの役目だったのね。<pc>|　ここまで連れてきてくれて　ありがと！": "I'm sure it was my job to find the tens|flower here...<pc>Thank you for bringing me this far!"
     },
     "197": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お姉ちゃん　私を|　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お兄ちゃん　私を|　ここまで連れてきてくれて　ありがと！<endif>": ""
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お姉ちゃん　私を|　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お兄ちゃん　私を|　ここまで連れてきてくれて　ありがと！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Thank you for bringing me|here, Sis!<else>I'm sure it was my job to find the tens|flower here... Thank you, big brother, for|bringing me here!<endif>"
     },
     "198": {
-        "「ここです。|　テンスの花は　この扉の向こうに咲いていると|　書物に　記されていました。": ""
+        "「ここです。|　テンスの花は　この扉の向こうに咲いていると|　書物に　記されていました。": "The... It is written that the tens bloom|behind this door."
     },
     "199": {
-        "「最後に　この扉が開かれたのは|　いったい　いつのことか|　私には　想像もつきませんが……": ""
+        "「最後に　この扉が開かれたのは|　いったい　いつのことか|　私には　想像もつきませんが……": "I can't imagine when the last time this door was opened, but..."
     },
     "200": {
-        "「この洞くつに流れる　清き水が　今も|　テンスの花を　育み続けてくれているはず。": ""
+        "「この洞くつに流れる　清き水が　今も|　テンスの花を　育み続けてくれているはず。": "The clear water that flows through this cave|continues to nurture the tench flower..."
     },
     "201": {
-        "「さあ　行きましょう！": ""
+        "「さあ　行きましょう！": "Come on, let's go!"
     },
     "202": {
-        "「いまわしき　テンスの花は|　この魔導鬼ベドラーさまが|　すべて　焼き尽くしてくれるわあ！": ""
+        "「いまわしき　テンスの花は|　この魔導鬼ベドラーさまが|　すべて　焼き尽くしてくれるわあ！": "The Tens' flowers will be burned to a crisp|by the demon Bedlam!"
     },
     "203": {
-        "「ん……？": ""
+        "「ん……？": "ん...？"
     },
     "204": {
-        "「キヒヒヒ！　お前らは　エテーネの民か！": ""
+        "「キヒヒヒ！　お前らは　エテーネの民か！": "Khihihihihi! You are the people of Etaine!"
     },
     "205": {
-        "「じゃが　そうはいかんぞ！|　時を超えるチカラを秘めた　お前たちに|　この花を渡すわけには　いかんからのう！": ""
+        "「じゃが　そうはいかんぞ！|　時を超えるチカラを秘めた　お前たちに|　この花を渡すわけには　いかんからのう！": "But that is not to be! You have the power to|transcend time, and I will not let you have|this flower!"
     },
     "206": {
-        "「<pc>さん……。|　やはり……　お話ししておきます。": ""
+        "「<pc>さん……。|　やはり……　お話ししておきます。": "<pc>Miss... I knew it... Let me tell you|something..."
     },
     "207": {
-        "「じつは　おばあさまが　気になることを|　つぶやいていらっしゃったのです。": ""
+        "「じつは　おばあさまが　気になることを|　つぶやいていらっしゃったのです。": "You know, your grandmother mentioned|something that was bothering her..."
     },
     "208": {
-        "「気になること？": ""
+        "「気になること？": "What's bothering you?"
     },
     "209": {
-        "「たとえ　滅亡の運命から|　逃れることが　できたとしても……": ""
+        "「たとえ　滅亡の運命から|　逃れることが　できたとしても……": "Even if you could escape your fate..."
     },
     "210": {
-        "「……生き残れるのは|　たった　ひとり……と。": ""
+        "「……生き残れるのは|　たった　ひとり……と。": "... Only one of us will survive. ...."
     },
     "211": {
-        "「えっ？　ひ…ひとり！？": ""
+        "「えっ？　ひ…ひとり！？": "What? Hi... Alone!"
     },
     "212": {
-        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってこと？": ""
+        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってこと？": "Alone... Does that mean... Does that mean|that everyone else is gonna die?"
     },
     "213": {
-        "「それは　私にも　わかりませんが|　言葉のままに　受け取るなら|　そういうことだと思います。": ""
+        "「それは　私にも　わかりませんが|　言葉のままに　受け取るなら|　そういうことだと思います。": "I don't know what that means, but if you take|it at face value, I think it means..."
     },
     "214": {
-        "「そ　そんな……。": ""
+        "「そ　そんな……。": "No, no, no..."
     },
     "215": {
-        "「気を落とさないでください。|　……おそらく　おばあさまは|　最悪の場合のことを　つぶやかれたのでしょう。": ""
+        "「気を落とさないでください。|　……おそらく　おばあさまは|　最悪の場合のことを　つぶやかれたのでしょう。": "Don't lose heart... ... Perhaps your|grandmother was referring to the worst-case|scenario..."
     },
     "216": {
-        "「カメさまの　お告げどおり|　テンスの花さえあれば　村は助かるとも|　おばあさまは　おっしゃっていました。": ""
+        "「カメさまの　お告げどおり|　テンスの花さえあれば　村は助かるとも|　おばあさまは　おっしゃっていました。": "My grandmother said that if we only had the|tench flowers, as the turtle said, the|village would be saved."
     },
     "217": {
-        "「だから　今は　おばあさまの言葉を信じて|　必ず　テンスの花を　村へ持ちかえりましょう！": ""
+        "「だから　今は　おばあさまの言葉を信じて|　必ず　テンスの花を　村へ持ちかえりましょう！": "So for now, let's believe in Grandmother's|words and make sure we bring the Tens flowers|back to the village!"
     },
     "218": {
-        "「そうだよね……！　おいらも信じる！|　テンスの花さえあれば|　みんな助かるって　信じるよ！": ""
+        "「そうだよね……！　おいらも信じる！|　テンスの花さえあれば|　みんな助かるって　信じるよ！": "I know, right? I believe it too! I believe|that as long as we have Tens' flowers, we can|save everyone!"
     },
     "219": {
-        "「気になることだって？": ""
+        "「気になることだって？": "What's on your mind?"
     },
     "220": {
-        "「気になること？": ""
+        "「気になること？": "What's bothering you?"
     },
     "221": {
-        "「気になることって？": ""
+        "「気になることって？": "What do you care about?"
     },
     "222": {
-        "「えっ？　ひ…ひとり！？": ""
+        "「えっ？　ひ…ひとり！？": "What? Hi... Alone!"
     },
     "223": {
-        "「えっ？　ひ…ひとり！？": ""
+        "「えっ？　ひ…ひとり！？": "What? Hi... Alone!"
     },
     "224": {
-        "「えっ？　ひ…ひとり！？": ""
+        "「えっ？　ひ…ひとり！？": "What? Hi... Alone!"
     },
     "225": {
-        "「ひとりって……　それって……|　他のヤツは　みんな　死んじまうってことか？": ""
+        "「ひとりって……　それって……|　他のヤツは　みんな　死んじまうってことか？": "Alone... Does that mean... Does that mean|that everyone else is gonna die?"
     },
     "226": {
-        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってことなの？": ""
+        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってことなの？": "Alone... Does that mean... Does that mean|that everyone else is going to die?"
     },
     "227": {
-        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってこと？": ""
+        "「ひとりって……　それって……|　他の人は　みんな　死んじゃうってこと？": "Alone... Does that mean... Does that mean|that everyone else is gonna die?"
     },
     "228": {
-        "「なんだよ……　それ……。": ""
+        "「なんだよ……　それ……。": "What the hell... It's..."
     },
     "229": {
-        "「そんなのって……。": ""
+        "「そんなのって……。": "That's not..."
     },
     "230": {
-        "「そ　そんなあ……。": ""
+        "「そ　そんなあ……。": "No, I don't think so."
     },
     "231": {
-        "「そうだよな……！　オレも信じる！|　テンスの花さえあれば|　みんな助かるって　信じるぜ！": ""
+        "「そうだよな……！　オレも信じる！|　テンスの花さえあれば|　みんな助かるって　信じるぜ！": "You're right. I believe it too! I believe|that as long as we have the Tens flower, we|can save everyone!"
     },
     "232": {
-        "「そうよね……！　あたしも信じるわ！|　テンスの花さえあれば|　みんな助かるって　信じる！": ""
+        "「そうよね……！　あたしも信じるわ！|　テンスの花さえあれば|　みんな助かるって　信じる！": "You're right. I believe it too! I believe|that as long as we have Tens' flowers, we can|save everyone!"
     },
     "233": {
-        "「そうだよね……！　私も信じる！|　テンスの花さえあれば|　みんな助かるって　信じるよ！": ""
+        "「そうだよね……！　私も信じる！|　テンスの花さえあれば|　みんな助かるって　信じるよ！": "You're right...! I believe it too! I believe|that as long as we have Tens' flowers, we can|save everyone!"
     },
     "234": {
         "<pc>は|岩に　刻まれている文字を　読んだ。": "You read the words carved into the rock."
     },
     "235": {
-        "<center>この世界で　平和に　暮らしていた|すべての　生きとし生ける者は|滅亡の危機に　さらされた。": ""
+        "<center>この世界で　平和に　暮らしていた|すべての　生きとし生ける者は|滅亡の危機に　さらされた。": "Every living thing that has ever lived in|peace on this world is in danger of|extinction."
     },
     "236": {
-        "<center>今　空には　ふたつの太陽が　昇っている。|ふたつめの太陽……　それが現れてから|この世は　地獄と化してしまったのだ。": ""
+        "<center>今　空には　ふたつの太陽が　昇っている。|ふたつめの太陽……　それが現れてから|この世は　地獄と化してしまったのだ。": "Now there are two suns in the sky... The|second sun... Since its appearance, this|world has become a hell..."
     },
     "237": {
-        "<center>いまわしき　ふたつめの太陽は　自在に空を駆け|大地を焼き　海を干上がらせ|人々を　灼熱の絶望に　おとしいれた。": ""
+        "<center>いまわしき　ふたつめの太陽は　自在に空を駆け|大地を焼き　海を干上がらせ|人々を　灼熱の絶望に　おとしいれた。": "The second sun, the one that's nowhere to be|found, will soar through the sky, scorch the|earth, dry up the seas, and plunge people|<br>|into a fiery despair."
     },
     "238": {
-        "<center>太陽が　ふたつになった理由など　知る由もない。|わかっていることは　地上に　生きる者すべてが|滅亡しようとしているということだけだ。": ""
+        "<center>太陽が　ふたつになった理由など　知る由もない。|わかっていることは　地上に　生きる者すべてが|滅亡しようとしているということだけだ。": "We don't know why there are two suns. What we|do know is that all life on Earth is about to|be destroyed."
     },
     "239": {
-        "「こんな所にも　いしずえの森と同じような|　壁画があったのですね。": ""
+        "「こんな所にも　いしずえの森と同じような|　壁画があったのですね。": "There was a mural just like the one in the|Ischizue Forest..."
     },
     "240": {
-        "「ふたつめの太陽……。|　そして……　滅亡……。": ""
+        "「ふたつめの太陽……。|　そして……　滅亡……。": "The second sun... And... Annihilation..."
     },
     "241": {
-        "「……私は　以前から|　いしずえの森の岩に　描かれていた絵を|　不思議な気持ちで　見ていました。": ""
+        "「……私は　以前から|　いしずえの森の岩に　描かれていた絵を|　不思議な気持ちで　見ていました。": "... I've been looking at the paintings on the|rocks in the forest for some time with a|sense of wonder..."
     },
     "242": {
-        "「人間以外の種族が　本当にいたのだとしたら|　彼らは　どこに行ってしまったのだろうと……。": ""
+        "「人間以外の種族が　本当にいたのだとしたら|　彼らは　どこに行ってしまったのだろうと……。": "If there really were non-human species, I|wonder where they've gone..."
     },
     "243": {
-        "「もしかしたら　ここに書かれているとおり|　ほとんどの者たちが滅亡し……　私たち|　人間だけが　生き残ったのかもしれませんね。": ""
+        "「もしかしたら　ここに書かれているとおり|　ほとんどの者たちが滅亡し……　私たち|　人間だけが　生き残ったのかもしれませんね。": "Maybe it's just as it says here, that most of|them perished... We, humans, may be the only|ones who survived."
     },
     "244": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "245": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "246": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "247": {
-        "「これと　これも　入れるだろ……|　んで　フタを閉めて……。": ""
+        "「これと　これも　入れるだろ……|　んで　フタを閉めて……。": "You can put this in there and this... And|then you close the lid..."
     },
     "248": {
-        "「これと　これも　入れて……|　フタを閉めるでしょ……。": ""
+        "「これと　これも　入れて……|　フタを閉めるでしょ……。": "You put this in there, and this... Close the|lid..."
     },
     "249": {
-        "「これと　これも　入れて……|　フタを閉めて……。": ""
+        "「これと　これも　入れて……|　フタを閉めて……。": "Put this one in there, and this one, and...|Close the lid..."
     },
     "250": {
-        "「よーし……。|　今度こそ　すっげえのが　できるぜ。|　たぶんよ……！": ""
+        "「よーし……。|　今度こそ　すっげえのが　できるぜ。|　たぶんよ……！": "Okay... We're gonna get something really|cool. Maybe."
     },
     "251": {
-        "「うーん……。|　今度こそ　すっごいのが　できそうなんだけど。|　たぶん……。": ""
+        "「うーん……。|　今度こそ　すっごいのが　できそうなんだけど。|　たぶん……。": "Well... I think I can make something really|great this time... I think..."
     },
     "252": {
-        "「よーし……。|　今度こそ　すっごいのが　できちゃうよ。|　きっと……。": ""
+        "「よーし……。|　今度こそ　すっごいのが　できちゃうよ。|　きっと……。": "Okay, okay... This time, we're going to make|something amazing... I'm sure..."
     },
     "253": {
-        "「よっしゃあっ！|　ホントに　すっげえのが　できたぜっ！": ""
+        "「よっしゃあっ！|　ホントに　すっげえのが　できたぜっ！": "Oh, yeah! I've made something really awesome!"
     },
     "254": {
-        "「やったあっ！|　なんか　すっごいの　できちゃった！": ""
+        "「やったあっ！|　なんか　すっごいの　できちゃった！": "I did it! I've made something amazing!"
     },
     "255": {
-        "「やったあっ！|　なんか　すっごいのが　できたよ～！": ""
+        "「やったあっ！|　なんか　すっごいのが　できたよ～！": "I did it! I've made something amazing!"
     },
     "256": {
-        "「……<pc>？": ""
+        "「……<pc>？": "...<pc>？"
     },
     "257": {
-        "「あら　<pc>？": ""
+        "「あら　<pc>？": "rough<pc>？"
     },
     "258": {
-        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>": ""
+        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>": "<if_woman>Hey, sis?<else>Hey, big brother?<endif>"
     },
     "259": {
-        "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": ""
+        "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": "You've come to the right place! Hey! I got|something for you! I think you'll like it."
     },
     "260": {
-        "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": ""
+        "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": "You've come to the right place! This...<pc>Oh... I think you'll like it."
     },
     "261": {
-        "<if_woman>「いいところに来たね～！|　これ……　お姉ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<else>「いいところに来たね～！|　これ……　お兄ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<endif>": ""
+        "<if_woman>「いいところに来たね～！|　これ……　お姉ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<else>「いいところに来たね～！|　これ……　お兄ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<endif>": "<if_woman>You've come to the right place! This... It's|a present for my sister! I think she'll like|it!<else>You've come to the right place! This... It's|for you, big brother! I think he'll like it!<endif>"
     },
     "262": {
-        "「えーっ　かばんが　いっぱいなのかよ。|　しょうがねえなあ。オレが　持っといてやるか。": ""
+        "「えーっ　かばんが　いっぱいなのかよ。|　しょうがねえなあ。オレが　持っといてやるか。": "What? My bag is full... It's okay... I'll|hold it for you..."
     },
     "263": {
-        "「ちょっと！　かばんが　いっぱいじゃないの。|　しょうがないわね。あたしが　持っててあげる！": ""
+        "「ちょっと！　かばんが　いっぱいじゃないの。|　しょうがないわね。あたしが　持っててあげる！": "Hey! Your bag is full. I'm sorry. I'll hold|it for you!"
     },
     "264": {
-        "「あれ？　かばんが　いっぱいなの？|　じゃあ　私が　持っててあげるね！": ""
+        "「あれ？　かばんが　いっぱいなの？|　じゃあ　私が　持っててあげるね！": "What? Is your bag full? Then I'll hold it for|you!"
     },
     "265": {
-        "「で　<pc>は　こんな所まで|　なにしに来たんだ？": ""
+        "「で　<pc>は　こんな所まで|　なにしに来たんだ？": "In.<pc>What the hell are you doing here?"
     },
     "266": {
-        "「で　<pc>は　こんな所まで|　わざわざ　なにしに来たってわけ？": ""
+        "「で　<pc>は　こんな所まで|　わざわざ　なにしに来たってわけ？": "In.<pc>So, what are you doing all the way out here?"
     },
     "267": {
-        "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": ""
+        "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": "<if_woman>So what's your sister doing here?<else>So what's your brother doing here?<endif>"
     },
     "268": {
-        "「……なんだって？|　アバさまが　オレを呼んでる？": ""
+        "「……なんだって？|　アバさまが　オレを呼んでる？": "... What? Ava's calling me?"
     },
     "269": {
-        "「……えっ？|　アバさまが　あたしを呼んでる？": ""
+        "「……えっ？|　アバさまが　あたしを呼んでる？": "... What? Ava's calling me?"
     },
     "270": {
-        "「……えっ？|　アバさまが　私を呼んでる？": ""
+        "「……えっ？|　アバさまが　私を呼んでる？": "... What? Lady Ava wants to see me?"
     },
     "271": {
-        "「ふっふっふっふっふっ……。": ""
+        "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
     },
     "272": {
-        "「うふふふふ……。": ""
+        "「うふふふふ……。": "Mmm-hmm..."
     },
     "273": {
-        "「うふふふふふふふふふ……。": ""
+        "「うふふふふふふふふふ……。": "Mmmmmmmmmmmmmmmmm..."
     },
     "274": {
-        "「それって　ついに　アバさまが|　オレの錬金術を　頼りにする日が|　来たってことじゃないか！？": ""
+        "「それって　ついに　アバさまが|　オレの錬金術を　頼りにする日が|　来たってことじゃないか！？": "Doesn't that mean the day has finally come|for Ava to rely on my alchemy?"
     },
     "275": {
-        "「それって　ついに　アバさまが|　あたしの錬金術を　頼りにする日が|　来たってことじゃない！？": ""
+        "「それって　ついに　アバさまが|　あたしの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Ava-sama to rely on my alchemy?"
     },
     "276": {
-        "「それって　ついに　アバさまが|　私の錬金術を　頼りにする日が|　来たってこと～！？": ""
+        "「それって　ついに　アバさまが|　私の錬金術を　頼りにする日が|　来たってこと～！？": "Does that mean the day has finally come for|Ava-sama to rely on my alchemy?"
     },
     "277": {
-        "「さあ　<pc>！|　アバさまの所へ　行こうぜ～！　オレが作った|　ぼうしのこと　忘れんじゃねーぞ！": ""
+        "「さあ　<pc>！|　アバさまの所へ　行こうぜ～！　オレが作った|　ぼうしのこと　忘れんじゃねーぞ！": "well<pc>Let's go to Ava! Let's go to Ava's! Don't|forget about the hat I made for you!"
     },
     "278": {
-        "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": ""
+        "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": "well<pc>Come on! I'm going to Ava's! Don't forget|about the hat I made for you!"
     },
     "279": {
-        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": ""
+        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Take me to Ava! The hat|I made for you... Don't forget it!<else>Come on, big brother! Take me to Ava! Don't|forget about the hat I made for you... Don't|forget it!<endif>"
     },
     "280": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "281": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "282": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "283": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "284": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "285": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "286": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "287": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "288": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "289": {
-        "「まったく！|　<kyodai>は　逃げ足だけは速いんだから。": ""
+        "「まったく！|　<kyodai>は　逃げ足だけは速いんだから。": "Oh, my God!<kyodai>He's a fast runner..."
     },
     "290": {
-        "「<pc>ー！": ""
+        "「<pc>ー！": "<pc>No!"
     },
     "291": {
-        "「<pc>～！": ""
+        "「<pc>～！": "<pc>~!"
     },
     "292": {
-        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": ""
+        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>Hey, sis!<else>Big brother!<endif>"
     },
     "293": {
-        "「どうだ　いいだろう！？": ""
+        "「どうだ　いいだろう！？": "What do you think? It's good!"
     },
     "294": {
-        "「どう？　いいでしょう！？": ""
+        "「どう？　いいでしょう！？": "What do you think? It's good!"
     },
     "295": {
-        "「どう？　いいでしょ！？": ""
+        "「どう？　いいでしょ！？": "What do you think? It's good, right?"
     },
     "296": {
-        "「アバさまが　乗っていいって|　言ってくれたんだぜ！": ""
+        "「アバさまが　乗っていいって|　言ってくれたんだぜ！": "Ava said I could ride!"
     },
     "297": {
-        "「アバさまが　乗っていいって|　言ってくれたのよ！": ""
+        "「アバさまが　乗っていいって|　言ってくれたのよ！": "Ava said I could ride!"
     },
     "298": {
-        "「アバさまが　乗っていいって|　言ってくれたんだ～。": ""
+        "「アバさまが　乗っていいって|　言ってくれたんだ～。": "Ava said I could ride with her..."
     },
     "299": {
-        "「なあっ　アバさま？": ""
+        "「なあっ　アバさま？": "What, Ava?"
     },
     "300": {
-        "「ねえっ　アバさま？": ""
+        "「ねえっ　アバさま？": "Hey, Ava-sama?"
     },
     "301": {
-        "「ねっ　アバさま？": ""
+        "「ねっ　アバさま？": "Right, Ava?"
     },
     "302": {
-        "「おう　アバさま。": ""
+        "「おう　アバさま。": "Oh, a..."
     },
     "303": {
-        "「ええ　アバさま。": ""
+        "「ええ　アバさま。": "Yeah, I..."
     },
     "304": {
-        "「はいっ　アバさま。": ""
+        "「はいっ　アバさま。": "Yes, a..."
     },
     "305": {
-        "「おら！　<pc>も　乗りな乗りな！|　ほら　オレの手に　つかまって……": ""
+        "「おら！　<pc>も　乗りな乗りな！|　ほら　オレの手に　つかまって……": "I am!<pc>Get in, get in, get in! Come on, hold on to|my hand..."
     },
     "306": {
-        "「さあ！　<pc>も　乗って乗って！|　ほら　あたしの手に　つかまって……": ""
+        "「さあ！　<pc>も　乗って乗って！|　ほら　あたしの手に　つかまって……": "Come on!<pc>Get in, get in, get in! Come on, hold on to|my hand..."
     },
     "307": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<endif>": ""
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<endif>": "<if_woman>Hey! Get in, get in, get in! Come on, hold on|to my hand...<else>Hey! Hey, big brother, get in, get in! Come|on, hold on to my hand...<endif>"
     },
     "308": {
-        "「……えっ？": ""
+        "「……えっ？": "... What?"
     },
     "309": {
-        "「……えっ？": ""
+        "「……えっ？": "... What?"
     },
     "310": {
-        "「……ええっ？": ""
+        "「……ええっ？": "... Huh?"
     },
     "311": {
-        "「な　なんで……？": ""
+        "「な　なんで……？": "Why are you...?"
     },
     "312": {
-        "「ど　どうしてよ……？": ""
+        "「ど　どうしてよ……？": "Why are you...?"
     },
     "313": {
-        "「ど　どうして……？": ""
+        "「ど　どうして……？": "How did you...?"
     },
     "314": {
-        "「あはは……　わりぃ　わりぃ～！！": ""
+        "「あはは……　わりぃ　わりぃ～！！": "Hahaha... Warii, warii~!"
     },
     "315": {
-        "「あはは……　ごめんね～！！": ""
+        "「あはは……　ごめんね～！！": "Haha... I'm sorry~!"
     },
     "316": {
-        "「え～ん……　ごめんなさい～！！": ""
+        "「え～ん……　ごめんなさい～！！": "Oh, no... I'm sorry!"
     },
     "317": {
-        "「静まれい！": ""
+        "「静まれい！": "Quiet!"
     },
     "318": {
-        "「さよう。テンスの花は　われらが　一度も|　足を踏み入れたことのない秘境に咲く。|　ゆえに　誰が採りにいくかは　わしが決める！": ""
+        "「さよう。テンスの花は　われらが　一度も|　足を踏み入れたことのない秘境に咲く。|　ゆえに　誰が採りにいくかは　わしが決める！": "... The tench flower is a hidden gem we've|never set foot in... So I'll decide who gets|to pick them!"
     },
     "319": {
-        "「なん…じゃと……？": ""
+        "「なん…じゃと……？": "What... What...?"
     },
     "320": {
-        "「皆さん！　下がって！": ""
+        "「皆さん！　下がって！": "Everybody! Get back!"
     },
     "321": {
-        "「なぜ……　魔物が　入ってきた……。|　魔物たちの目から村を隠す　わしの結界は|　どうした…………？": ""
+        "「なぜ……　魔物が　入ってきた……。|　魔物たちの目から村を隠す　わしの結界は|　どうした…………？": "Why did... A demon has entered the village...|What happened to my ward that hid the village|from the demons' eyes?"
     },
     "322": {
-        "「皆さん　落ち着いてください！|　すぐに私たちが　テンスの花を採ってきます！": ""
+        "「皆さん　落ち着いてください！|　すぐに私たちが　テンスの花を採ってきます！": "Everyone, please calm down! We'll get you|some tench flowers right away!"
     },
     "323": {
-        "シンイが　仲間に加わった！<me 61>": ""
+        "シンイが　仲間に加わった！<me 61>": "Xinyi has joined our ranks!<me 61>"
     },
     "324": {
-        "「キヒヒヒ……　燃えろ　燃えろ！": ""
+        "「キヒヒヒ……　燃えろ　燃えろ！": "Kihihihihi... Burn, burn, burn!"
     },
     "325": {
-        "「やめろっ！": ""
+        "「やめろっ！": "Stop it!"
     },
     "326": {
-        "「なるほど！　危機を察して|　この花を　採りにきたというわけじゃな！？": ""
+        "「なるほど！　危機を察して|　この花を　採りにきたというわけじゃな！？": "I see! So you've come to collect this flower|in your hour of need!"
     },
     "327": {
-        "「時を……　超える……？": ""
+        "「時を……　超える……？": "Time... Transcend...?"
     },
     "328": {
-        "「キーッヒッヒッヒ！　やっぱりそうか！|　こんな大切なことを　忘れ去ってしまうとは|　エテーネの民は　果てしなく愚かな者たちじゃ！": ""
+        "「キーッヒッヒッヒ！　やっぱりそうか！|　こんな大切なことを　忘れ去ってしまうとは|　エテーネの民は　果てしなく愚かな者たちじゃ！": "Squeak squeak squeak! I knew it! The people|of Etaine are so foolish to have forgotten|such an important matter!"
     },
     "329": {
-        "「だが　忘れていようがいまいが　関係ない！|　エテーネの民は　皆殺しじゃあっ！！": ""
+        "「だが　忘れていようがいまいが　関係ない！|　エテーネの民は　皆殺しじゃあっ！！": "But I don't care if you forgot or not! The|people of Etaine will be killed!"
     },
     "330": {
-        "「ああぁ……|　今年最後の　ハツラツ豆がぁ……。": ""
+        "「ああぁ……|　今年最後の　ハツラツ豆がぁ……。": "Ahhh... The last of the beans..."
     },
     "331": {
-        "「あれは……！？": ""
+        "「あれは……！？": "Is that...?"
     },
     "332": {
-        "「わしは　それまで　休ませてもらうからな。|　シンイよ！　今度は　わしの眠りを|　ジャマするでないぞ！": ""
+        "「わしは　それまで　休ませてもらうからな。|　シンイよ！　今度は　わしの眠りを|　ジャマするでないぞ！": "I'm going to rest until then... Shini! Don't|disturb my sleep this time!"
     },
     "333": {
-        "「……はい。": ""
+        "「……はい。": "....."
     },
     "334": {
-        "「ぐおー　ぐおーっ。": ""
+        "「ぐおー　ぐおーっ。": "Goo... Goo..."
     },
     "335": {
-        "「そ……　そんな…………。": ""
+        "「そ……　そんな…………。": "Oh, no. I don't..."
     },
     "336": {
-        "「な…なんなんですか　そのお告げは……。|　カメさまは　私たちを見捨てるのですか！？": ""
+        "「な…なんなんですか　そのお告げは……。|　カメさまは　私たちを見捨てるのですか！？": "What... What's that sign? Are you abandoning|us, turtle?"
     },
     "337": {
-        "「おお……　よかった！": ""
+        "「おお……　よかった！": "Oh... Oh, thank God!"
     },
     "338": {
-        "「でも　テンスの花なんて　聞いたことないわ。": ""
+        "「でも　テンスの花なんて　聞いたことないわ。": "But I've never heard of tens flowers..."
     },
     "339": {
-        "「おおおっ　さすが　アバさまだ！": ""
+        "「おおおっ　さすが　アバさまだ！": "Oh, that's Ava!"
     },
     "340": {
-        "「よかった……　安心していいんだねえ。": ""
+        "「よかった……　安心していいんだねえ。": "I'm glad. It's okay..."
     },
     "341": {
-        "「げっ……　あ…あそこ……！": ""
+        "「げっ……　あ…あそこ……！": "Geez... Oh... There..."
     },
     "342": {
-        "「魔物が……　魔物が　村に入ってきた……！": ""
+        "「魔物が……　魔物が　村に入ってきた……！": "A demon... A demon has entered the village..."
     },
     "343": {
-        "「……オレたち　どうなっちまうんだ？|　アバさまは　大丈夫だって言ってたけど|　お告げどおり　滅びてしまうんじゃ……。": ""
+        "「……オレたち　どうなっちまうんだ？|　アバさまは　大丈夫だって言ってたけど|　お告げどおり　滅びてしまうんじゃ……。": "... What's going to happen to us? Ava said|we'd be okay, but maybe she's right and we'll|die."
     },
     "344": {
-        "「そうだよ。|　アバさまの結界が　破られるなんて……。": ""
+        "「そうだよ。|　アバさまの結界が　破られるなんて……。": "Oh, no. I can't believe that Ava's wards have|been breached."
     },
     "345": {
-        "<center><pc>よ。|その姿を　選んだのですね。": ""
+        "<center><pc>よ。|その姿を　選んだのですね。": "<pc>Hey. I chose that look..."
     },
     "346": {
-        "<if_woman><center>不運にも　今日|この世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日|この世を去った　<pc_race>の青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日|この世を去った　<pc_race>の青年がいます。<endif>": "<if_woman>Unfortunately, he left this world today.<pc_race>The woman in the...<else>Unfortunately, he left this world today.<pc_race>A young man from...<endif>"
     },
     "347": {
-        "<if_woman><center>あなたは今日から　その女性の身体を借り|新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り|新たな人生を　歩んでゆくことになります。<endif>": ""
+        "<if_woman><center>あなたは今日から　その女性の身体を借り|新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り|新たな人生を　歩んでゆくことになります。<endif>": "<if_woman>From this day forward, you will borrow that|woman's body and start a new life...<else>From this day forward, you will borrow that|young man's body and start a new life...<endif>"
     },
     "348": {
-        "<center>｢テキスト削除": ""
+        "<center>｢テキスト削除": "Delete text"
     },
     "349": {
-        "<center>さあ　この新しい冒険の書を　お持ちなさい。": ""
+        "<center>さあ　この新しい冒険の書を　お持ちなさい。": "And now, with this new adventure book at your|fingertips..."
     },
     "350": {
-        "<pc>は|冒険の書（だいじなもの）を　受け取った！<me 60>": ""
+        "<pc>は|冒険の書（だいじなもの）を　受け取った！<me 60>": "<pc>has received the Book of Adventures!<me 60>"
     },
     "351": {
-        "<center>神は　その書を持つ　あなたの行いを|常に見ています。教会で祈らずとも　今後|あなたの行いは　すべて　その書に記録されます。": ""
+        "<center>神は　その書を持つ　あなたの行いを|常に見ています。教会で祈らずとも　今後|あなたの行いは　すべて　その書に記録されます。": "God will always watch over you and your deeds|with that book. From now on, even if you|don't pray in church, everything you do will|<br>|be recorded in that book..."
     },
     "352": {
-        "<center>そして　探すのです。|あなたの使命を。|生まれ変わることの意味を……。": ""
+        "<center>そして　探すのです。|あなたの使命を。|生まれ変わることの意味を……。": "And I'm looking for... Your... What it means|to be born again..."
     },
     "353": {
-        "「やっぱり　ダメだったじゃないか！|　どうしてくれるんだい！！": ""
+        "「やっぱり　ダメだったじゃないか！|　どうしてくれるんだい！！": "I knew it! It didn't work! What are you|doing?"
     },
     "354": {
-        "「テキスト削除": ""
+        "「テキスト削除": "text deletion"
     },
     "355": {
-        "<center>あなたたちの島の外には|アストルティアと呼ばれる　広大で偉大な|母なる大地が　広がっていて……": ""
+        "<center>あなたたちの島の外には|アストルティアと呼ばれる　広大で偉大な|母なる大地が　広がっていて……": "Outside your island lies a vast and great motherland called Astoria."
     },
     "356": {
-        "<center>そこには　あなたたち人間の他に|さまざまな姿をした種族が|今も　暮らしていることを……。": ""
+        "<center>そこには　あなたたち人間の他に|さまざまな姿をした種族が|今も　暮らしていることを……。": "I've learned that you humans are not the only|species that live there."
     },
     "357": {
-        "<center>さあ　お行きなさい。|母なる大地　アストルティアへ。": ""
+        "<center>さあ　お行きなさい。|母なる大地　アストルティアへ。": "There you go... Mother Earth, Astolte..."
     },
     "358": {
-        "「……なんだって？　<kyodai>と　アバさまが|　カメさまに乗っている夢を見た？　いやだよ。|　そんなこと　あるはずが　ないじゃないか。": ""
+        "「……なんだって？　<kyodai>と　アバさまが|　カメさまに乗っている夢を見た？　いやだよ。|　そんなこと　あるはずが　ないじゃないか。": "... Excuse me?<kyodai>And you dreamt that Ava was riding a turtle?|No... That can't be..."
     },
     "359": {
-        "<if_woman><center>不運にも　今日|この世を去った　オーガの女性がいます。<else><center>不運にも　今日|この世を去った　オーガの青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　オーガの女性がいます。<else><center>不運にも　今日|この世を去った　オーガの青年がいます。<endif>": "<if_woman>Unfortunately, the woman who left this world|today, the Ogre...<else>A young man, an ogre, who unfortunately|passed away today...<endif>"
     },
     "360": {
-        "<if_woman><center>不運にも　今日|この世を去った　エルフの女性がいます。<else><center>不運にも　今日|この世を去った　エルフの青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　エルフの女性がいます。<else><center>不運にも　今日|この世を去った　エルフの青年がいます。<endif>": "<if_woman>An Elven woman who unfortunately passed away|today...<else>A young elf who unfortunately passed away|today...<endif>"
     },
     "361": {
-        "<if_woman><center>不運にも　今日|この世を去った　プクリポの女性がいます。<else><center>不運にも　今日|この世を去った　プクリポの青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　プクリポの女性がいます。<else><center>不運にも　今日|この世を去った　プクリポの青年がいます。<endif>": "<if_woman>The woman from Pucuripo who unfortunately|passed away today...<else>A young man from Pucuripo, who unfortunately|passed away today...<endif>"
     },
     "362": {
-        "<if_woman><center>不運にも　今日|この世を去った　ウェディの女性がいます。<else><center>不運にも　今日|この世を去った　ウェディの青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　ウェディの女性がいます。<else><center>不運にも　今日|この世を去った　ウェディの青年がいます。<endif>": "<if_woman>The Wedi woman who unfortunately left this|world today...<else>A young man named Wedi, who unfortunately|passed away today...<endif>"
     },
     "363": {
-        "<if_woman><center>不運にも　今日|この世を去った　ドワーフの女性がいます。<else><center>不運にも　今日|この世を去った　ドワーフの青年がいます。<endif>": ""
+        "<if_woman><center>不運にも　今日|この世を去った　ドワーフの女性がいます。<else><center>不運にも　今日|この世を去った　ドワーフの青年がいます。<endif>": "<if_woman>The Dwarf woman who unfortunately passed away|today...<else>A young dwarf boy who unfortunately passed|away today...<endif>"
     }
 }
