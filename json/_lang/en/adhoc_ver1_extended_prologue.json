@@ -1,539 +1,539 @@
 {
-  "1": {
-    "「もらったあっ！！": ""
-  },
-  "2": {
-    "「いってえ……！": ""
-  },
-  "3": {
-    "「やい　お前っ！|　なぁんで　こんな所で　寝てやがるっ！！": ""
-  },
-  "4": {
-    "「あとちょっとで　狙ってた素材を|　奪えるとこだったのに！|　お前のせいで　逃げられちまったじゃねえか！！": ""
-  },
-  "5": {
-    "「あぁん……？　なんだ　お前？": ""
-  },
-  "6": {
-    "「……ひっでえ　ツラしてやがんな。|　まるで　この世の終わりでも|　見てきたかのようなツラだぜ……。": ""
-  },
-  "7": {
-    "「はあ？|　エテーネの村が　大変だって！？": ""
-  },
-  "8": {
-    "「…………はっはーん。": ""
-  },
-  "9": {
-    "「お前　海から流れ着いた　流れモンだな？|　にしちゃあ　こんな海から離れた所で|　倒れてるってのも　妙な話だが……。": ""
-  },
-  "10": {
-    "「ここは　絶海の　小さな孤島だ。|　あるのは　ナルビアって町が　ひとつっきりで|　エテーネの村なんて　聞いたこともねえ。": ""
-  },
-  "11": {
-    "「起きられるんなら　すぐそこの|　ナルビアの町に行きな。流れモンだからって|　冷たく　あしらうような町じゃねえからよ。": ""
-  },
-  "12": {
-    "「今度　ジャマしたら　タダじゃおかねえぞ！": ""
-  },
-  "13": {
-    "「ふぅ……。|　リリオル　帰ったぞ。": ""
-  },
-  "14": {
-    "「んんっ？　誰だ　お前！？": ""
-  },
-  "15": {
-    "「お前は……　外で転がってた　流れモンだな？|　勝手に　オレの家に　上がり込んで|　何してやがる！？": ""
-  },
-  "16": {
-    "「……なるほど。その釜に　興味を持ったのか。|　どこのウマのホネとも　知れねえヤツだが|　そいつに　目をつけたところは　ほめてやるぜ！": ""
-  },
-  "17": {
-    "「その釜は　我が家に伝わる　錬金釜だ。|　錬金術を使うためには　欠かせない|　オレの　命よりも大事な　魔法の釜よ！": ""
-  },
-  "18": {
-    "「そして　その錬金釜こそが　錬金術師の証！|　つまり　このオレこそが　選ばれし存在……|　今では数少なくなった　錬金術師様ってワケだ！": ""
-  },
-  "19": {
-    "「……あぁん？　なんだって？|　錬金なら自分もできるって　言ったか？": ""
-  },
-  "20": {
-    "「テキトーなこと　抜かすんじゃねえ！|　なら　証拠に　上やくそうを錬金してみやがれ！|　上やくそうのレシピくらい　知ってんだろ？": ""
-  },
-  "21": {
-    "「……………………。": ""
-  },
-  "22": {
-    "「まさか　上やくそうのレシピも　知らねえのか？|　そんなんで　よくも　錬金できるだなんて|　言えたもんだ！": ""
-  },
-  "23": {
-    "「ほらよっ　この本をくれてやる。": ""
-  },
-  "24": {
-    "「テキスト削除": ""
-  },
-  "25": {
-    "<kyodai>は|初級錬金学入門を　手に入れた！<me 60>": ""
-  },
-  "26": {
-    "「テキスト削除": ""
-  },
-  "27": {
-    "「さあ　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": ""
-  },
-  "28": {
-    "「できた……！？|　そんな　まさか……。": ""
-  },
-  "29": {
-    "「す…すげえじゃねえか！|　なんで　お前に　錬金ができるんだ！？": ""
-  },
-  "30": {
-    "「はぁ？　今まで　箱で錬金してたって？|　箱に魔力が宿るなんて　聞いたこともねえ。|　そんなもんで錬金してたって　お前……。": ""
-  },
-  "31": {
-    "「……………………。": ""
-  },
-  "32": {
-    "「オレも　すこし前までは　この釜を使って|　なんでも　錬金できたんだ。それが……|　あの日以来　突然　できなくなっちまってな。": ""
-  },
-  "33": {
-    "「釜が　ぶっこわれたせいだと思い込んでいたが|　おかしくなったのは……　釜じゃなくて|　やっぱり　オレの方だったってことか。": ""
-  },
-  "34": {
-    "「おい　ウマのホネ！|　お前に　頼みがある！": ""
-  },
-  "35": {
-    "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": ""
-  },
-  "36": {
-    "「さあっ　こいつを　受け取ってくれ！": ""
-  },
-  "37": {
-    "「テキスト削除": ""
-  },
-  "38": {
-    "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": ""
-  },
-  "39": {
-    "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。": ""
-  },
-  "40": {
-    "「頼む！　オレに代わってクスリを錬金してくれ！|　材料の　めざめの花と　レッドベリーは|　どっちも　その辺で　簡単に手に入る素材だ！": ""
-  },
-  "41": {
-    "「や……　やってくれたか！|　すげえぞ　ウマのホネ！": ""
-  },
-  "42": {
-    "「さあ　そのクスリを　オレにくれ！|　すぐに　リリオルに飲ませよう！": ""
-  },
-  "43": {
-    "「テキスト削除<yesno><close>": ""
-  },
-  "44": {
-    "「テキスト削除<yesno><close>": ""
-  },
-  "45": {
-    "<kyodai>は　イッショウに|メラゾ熱のクスリを　渡した！": ""
-  },
-  "46": {
-    "「ありがてえ……。恩に着るぜ！": ""
-  },
-  "47": {
-    "「はあ……　はあ……。": ""
-  },
-  "48": {
-    "「リリオル　クスリだぞ。|　さあ　飲め。": ""
-  },
-  "49": {
-    "「…………………。": ""
-  },
-  "50": {
-    "「……呼吸が　すこし　おだやかになってきた。|　さっそく　クスリが効いたんだな。": ""
-  },
-  "51": {
-    "「テキスト削除": ""
-  },
-  "52": {
-    "「テキスト削除": ""
-  },
-  "53": {
-    "「テキスト削除": ""
-  },
-  "54": {
-    "「テキスト削除": ""
-  },
-  "55": {
-    "「お前は　娘の命を救ってくれた　恩人だ。|　これからは　ウマのホネだなんて|　失礼な呼び方は　できねえな……。": ""
-  },
-  "56": {
-    "「……よし！|　これから　お前のことは|　宿ナシと　呼ばせてもらうぜ！": ""
-  },
-  "57": {
-    "「たいした　もてなしは　できないが|　クスリを作ってもらった　礼がしたい。|　今夜は　ぜひ　うちに泊まっていってくれ。": ""
-  },
-  "58": {
-    "<center><kyodai>は　イッショウから|手厚い　もてなしを受けた。": ""
-  },
-  "59": {
-    "<center>リリオルの病状は　目に見えて　落ち着いてゆき|イッショウと　<kyodai>も　眠りについた。": ""
-  },
-  "60": {
-    "<center>そして　夜が明けた！": ""
-  },
-  "61": {
-    "「おい　宿ナシ！　起きてくれ！|　メラゾ熱のクスリが効いて|　リリオルが　元気になったんだ！": ""
-  },
-  "62": {
-    "「お前のおかげだ。|　なんと　礼を言っていいか……。": ""
-  },
-  "63": {
-    "「ぜひ　リリオルにも　あいさつしてやってくれ。": ""
-  },
-  "64": {
-    "「父から　聞きました。|　あなたが　私のクスリを　作ってくれたと……。": ""
-  },
-  "65": {
-    "「クスリがなかったら　私は　あと数日のうちに|　命を　落としていたそうです。|　助けてくれて　ありがとうございました。": ""
-  },
-  "66": {
-    "「お前が　いてくれて　本当に助かった。|　もし　リリオルまで失うことになったら|　……オレは　どうなってたか　わからねえ。": ""
-  },
-  "67": {
-    "「なあ　宿ナシ。|　お前　いったい　どこから来た？|　どうして　あんな所で　倒れてたんだ？": ""
-  },
-  "68": {
-    "<kyodai>は　故郷の　エテーネの村が襲われ|気づいたら　この島にいたことを話した。": ""
-  },
-  "69": {
-    "「エテーネ……！？": ""
-  },
-  "70": {
-    "「<kyodai>って　エテーネの人なの？|　私　エテーネの村のことを　知ってるわ！": ""
-  },
-  "71": {
-    "「ほら　これを見て！|　すこし前に拾った　ボトルレターなの。": ""
-  },
-  "72": {
-    "「ボトルレター……？|　そういや前に　海で　手紙が入ったビンを|　拾ったとかなんとか　言ってたな。": ""
-  },
-  "73": {
-    "「この手紙に　こう書いてあるわ。": ""
-  },
-  "74": {
-    "「いつか　このエテーネの村で|　いちばん幸せな　カップルになろうね……って。": ""
-  },
-  "75": {
-    "「う～ん　確かに　書いてあるかもしれねえが|　それだけの内容じゃ　エテーネの村が|　どこにあるか　わからねえだろうが。": ""
-  },
-  "76": {
-    "「でも　きっと　そんなに遠くないよ！|　だって　このビンが　割れないで|　流れ着いたくらいだもん！": ""
-  },
-  "77": {
-    "「ねえ　<kyodai>。うちで暮らしなよ！|　エテーネの村の場所が　わかるまで|　ず～っと　うちに　いればいいよ。": ""
-  },
-  "78": {
-    "「……はあ？|　てめえ　勝手に決めてんじゃねえ！|　この家の主は　オレだ！": ""
-  },
-  "79": {
-    "「お父さんは　もう錬金できないんでしょ？|　なら　<kyodai>が代わりに　錬金釜を|　使ってくれたほうが　みんなのためになるわ！": ""
-  },
-  "80": {
-    "「て……　てめえっ　リリオル！|　元気になったとたん　言いたい放題だな。|　このヤロウ！": ""
-  },
-  "81": {
-    "「そういうわけで　お父さんのことは|　気にしなくていいから　よろしくね！|　<kyodai>！": ""
-  },
-  "82": {
-    "「くっそう！|　よくも　そこまで　オレを無視して|　話を　進められるもんだな！": ""
-  },
-  "83": {
-    "「……おもしろくねえが　しょうがねえ！|　うちに　置いてやってもいいが　ちゃんと|　オレの言うことを　聞くんだぞ！　宿ナシ！": ""
-  },
-  "84": {
-    "「……いや　待てよ。|　住む家が　決まっちまったとなると|　お前のこと　もう　宿ナシとは呼べねえな……。": ""
-  },
-  "85": {
-    "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": ""
-  },
-  "86": {
-    "「ありがとう　お父さん！|　お父さんなら　きっと|　賛成してくれると思ったわ<heart>": ""
-  },
-  "87": {
-    "「やい　イソーロー！　オレの錬金釜を|　使わせてやるんだから　キビキビ　はたらけよ！|　グータラしやがったら　承知しねえぞ！": ""
-  },
-  "88": {
-    "「この町で　錬金に　はげんでりゃあ|　いずれ　故郷に帰るための手掛かりが|　見つかる日も　来るだろう！　オレの勘だがな！": ""
-  },
-  "89": {
-    "「よかったわね　<kyodai>。|　故郷に帰れるように　私も　応援するからね！": ""
-  },
-  "90": {
-    "「テキスト削除": ""
-  },
-  "91": {
-    "「テキスト削除": ""
-  },
-  "92": {
-    "「テキスト削除": ""
-  },
-  "93": {
-    "「テキスト削除": ""
-  },
-  "94": {
-    "「テキスト削除": ""
-  },
-  "95": {
-    "「テキスト削除": ""
-  },
-  "96": {
-    "「テキスト削除": ""
-  },
-  "97": {
-    "「テキスト削除": ""
-  },
-  "98": {
-    "「テキスト削除": ""
-  },
-  "99": {
-    "「テキスト削除": ""
-  },
-  "100": {
-    "「テキスト削除": ""
-  },
-  "101": {
-    "「テキスト削除": ""
-  },
-  "102": {
-    "「テキスト削除": ""
-  },
-  "103": {
-    "「テキスト削除": ""
-  },
-  "104": {
-    "「では　さっそく　アバさまに|　この豆を　お見せしてこよう。|　……そなたは　ここで　待つがよい。": ""
-  },
-  "105": {
-    "「ア……　アバさまっ！　大丈夫ですか？|　しっかりなさってください！": ""
-  },
-  "106": {
-    "「カメさまの　お告げの　救世主が|　あの　ふしぎな豆の本をもとに|　このような豆を　作ってまいりましたぞ！": ""
-  },
-  "107": {
-    "「あ……　ぅ…………。": ""
-  },
-  "108": {
-    "「ま…………　め…………？": ""
-  },
-  "109": {
-    "「ポ……　ポリッ……　もぐ　もぐ……………。": ""
-  },
-  "110": {
-    "「なっ　なんじゃ　この豆！？|　めちゃくちゃ　うまいでは　ないかっ！！": ""
-  },
-  "111": {
-    "「もぐもが　もぐもぐ……。|　じゅるっ……　もがっ　まめっ　うまっ！！": ""
-  },
-  "112": {
-    "「……………………。": ""
-  },
-  "113": {
-    "「ぶっはぁっ！　うまかったあ！|　チカラが　みなぎってきたわい！": ""
-  },
-  "114": {
-    "「見ておれ……！|　今の　わしにかかれば　これしきの儀式|　またたく間に　終わらせてくれるわっ！！": ""
-  },
-  "115": {
-    "「なんだったのだ　あれは……？|　あれが……　あの豆の　チカラなのか！？": ""
-  },
-  "116": {
-    "「い　今のは……！": ""
-  },
-  "117": {
-    "「儀式は　終わった……。": ""
-  },
-  "118": {
-    "「<kyodai>だな？|　そなたのおかげだ。礼を言うぞ。": ""
-  },
-  "119": {
-    "「チャツカ！|　村の者たちを　集めるのじゃ！": ""
-  },
-  "120": {
-    "「はいっ　エルバさま！": ""
-  },
-  "121": {
-    "「聞け！　エテーネの民たちよ！": ""
-  },
-  "122": {
-    "「カメさまの　お告げにありし　救世主のチカラで|　長きに渡った　継承の儀式は終わった！": ""
-  },
-  "123": {
-    "「さあ！　新たなる巫女を　皆で迎えるのじゃ！！": ""
-  },
-  "124": {
-    "「おおっ……　新たなる巫女さま　バンザイっ！|　アバさま　バンザイっ！！": ""
-  },
-  "125": {
-    "「わが名は　アバ！|　新たなる巫女として　エテーネの民を|　導く者なり！！": ""
-  },
-  "126": {
-    "「わしは　巫女として|　エテーネの民たちに　新しき道を　示そう！": ""
-  },
-  "127": {
-    "「この豆　めちゃくちゃ　うまい！|　皆で　このふしぎな豆を　育てるのじゃ！！": ""
-  },
-  "128": {
-    "「なんと！　見たこともない豆じゃ。": ""
-  },
-  "129": {
-    "「このふしぎな豆は　わしに　チカラを与え|　儀式の最後のカベを　越えさせてくれた。|　わしは　この豆を………": ""
-  },
-  "130": {
-    "「ハツラツ豆と　名付ける！": ""
-  },
-  "131": {
-    "「ハツラツ豆……？|　あの豆が　アバさまを　救ってくれたのか！？": ""
-  },
-  "132": {
-    "「ありがたい豆なんだねえ。|　この地でも　たくさん収穫できるよう|　皆で　大事に育てていこう！": ""
-  },
-  "133": {
-    "「ふっふっふっ。これで　ハツラツ豆が|　いつでも　食べられるようになるわい。": ""
-  },
-  "134": {
-    "「アバ！|　大事な話を　忘れておるじゃろう。|　<kyodai>のことを　皆に　説明せんか！": ""
-  },
-  "135": {
-    "「ああ……。|　そうじゃった　そうじゃった。": ""
-  },
-  "136": {
-    "「皆に　紹介しよう！|　この　ハツラツ豆を作ってくれたのが|　ここにいる　<kyodai>じゃ。": ""
-  },
-  "137": {
-    "「カメさまの　お告げの通り|　わしが　新たなる巫女となるために|　チカラを尽くしてくれた！": ""
-  },
-  "138": {
-    "「わしは　村の救世主　<kyodai>に敬意を表し|　エテーネの民のひとりとして　迎えると決めた。|　皆の者も　仲良くしてやってくれい！": ""
-  },
-  "139": {
-    "「以上！　解散っ！！": ""
-  },
-  "140": {
-    "「ふう……。|　これで　わしも　肩の荷が下りたわい……。": ""
-  },
-  "141": {
-    "「テキスト削除": ""
-  },
-  "142": {
-    "「テキスト削除": ""
-  },
-  "143": {
-    "「テキスト削除": ""
-  },
-  "144": {
-    "「テキスト削除": ""
-  },
-  "145": {
-    "「テキスト削除": ""
-  },
-  "146": {
-    "「テキスト削除": ""
-  },
-  "147": {
-    "「テキスト削除": ""
-  },
-  "148": {
-    "「テキスト削除": ""
-  },
-  "149": {
-    "「テキスト削除": ""
-  },
-  "150": {
-    "「ゴルルルゥ。におう……におうぞォ！|　こいつは　錬金術師の　においだなァ！？": ""
-  },
-  "151": {
-    "「オレ様を　こんなほこらに|　閉じ込めやがった　錬金術師ィ！|　ゆるさん……ゆるさんぞォォォォォ！！": ""
-  },
-  "152": {
-    "「我は　この世を絶望で満たすために|　はるか死の世界より　訪れし者……。": ""
-  },
-  "153": {
-    "「せっかく　ひとりの　有能な錬金術師から|　その能力を消し去ったというのに　すぐに|　新たな錬金術師が　現れるとは……。": ""
-  },
-  "154": {
-    "「貴様も　あの錬金術師のように|　我に　錬金術師としてのチカラを捧げよ！|　そして　ふたたび　死の絶望を味わうのだ！": ""
-  },
-  "155": {
-    "「どうだい　ボクのキンキラの身体。|　すっごい錬金術師が　作ってくれたんだよ。": ""
-  },
-  "156": {
-    "「知ってるよ。キミも錬金術師なんだろ？|　ここまで来た人は　本当に　ひさしぶりで|　ボク　とっても　うれしいよ。": ""
-  },
-  "157": {
-    "「さあ　キミのチカラを見せてほしいな。|　それが　ボクのお仕事なんだ。|　ほら　いくよっ　いくよ～っ！！": ""
-  },
-  "158": {
-    "「おお……。ついに　我が前に現れたか。|　セルゲイナスの呪いすら　退ける|　類まれなる　錬金術師の才能を持つ者よ。": ""
-  },
-  "159": {
-    "「私の名は　バルザック。|　究極と呼ばれる錬金術……　とある秘法により|　自身の姿すら作り変えた　偉大なる錬金術師だ。": ""
-  },
-  "160": {
-    "「私は　これまで　多くの錬金術師を食らい|　その知識と技術を　この身に宿してきた。": ""
-  },
-  "161": {
-    "「だが　食らうだけの価値がある|　チカラを持った錬金術師は　なかなか現れぬ。|　ゆえに　自ら　育てることにしたのだ。": ""
-  },
-  "162": {
-    "「ククク……。この地にある　ほこらはな|　未熟な錬金術師に　チカラをつけさせるため|　私が創りだした　巨大な錬金釜だったのさ。": ""
-  },
-  "163": {
-    "「そうとも知らず　貴様は|　錬金術師としての　ウデをみがき続け|　こうして　私の前に現れた！": ""
-  },
-  "164": {
-    "「残念だが　このほこらの先に|　行かせるわけにはいかん！　貴様は　ここで|　我が錬金術のチカラの　一部となるのだ！": ""
-  },
-  "165": {
-    "「ふたたび　来るとは思わなかったぞ。|　だが　残念ながら　このほこらの先に|　行かせるわけにはいかん！": ""
-  },
-  "166": {
-    "「貴様が　私を倒し　このほこらの先に|　行くことは　不可能だ！　この身体こそ|　私の錬金術における　最高傑作なのだからな！": ""
-  },
-  "167": {
-    "「今度こそ　貴様を食わせてもらうぞ！|　私が　究極の錬金術師となるためにな！": ""
-  },
-  "168": {
-    "「テキスト削除": ""
-  },
-  "169": {
-    "「メラゾ熱のクスリを　作って|　どうか　リリオルの命を救ってやってくれ！！": ""
-  },
-  "170": {
-    "イッショウは　リリオルに|メラゾ熱のクスリを　飲ませた！": ""
-  },
-  "171": {
-    "「<kyodai>。わしには　わかっておるぞ。|　お前は　時渡りの術により|　この時代に　来たのじゃろう？": ""
-  },
-  "172": {
-    "「……何も言わんでよい。|　このことは　お前と　わしの|　ふたりだけの　秘密にしておこう。": ""
-  },
-  "173": {
-    "「時渡りは　とうの昔に　忘れ去られた術。|　ふたたび　人々が　クチにするようになれば|　悪しき者に　目をつけられやすくなるからのう。": ""
-  },
-  "174": {
-    "「……そう。今　この時代に|　時渡りの術を使える者は　おらん。|　お前が　元の時代に帰る方法はないのじゃ。": ""
-  },
-  "175": {
-    "「だが　<kyodai>よ　気を落とすでない。": ""
-  },
-  "176": {
-    "「会うことは　かなわぬとも|　我が祈りにより　せめて　お前の思いを|　<pc>の元へと　届けてやろう。": ""
-  },
-  "177": {
-    "「さあ　祈るのじゃ。|　遠く離れた場所にいる　<pc_rel2>を思って……。": ""
-  },
-  "178": {
-    "「強く祈れば　その思いは　形となり|　必ず　<pc>の元へ　届くはずじゃ。": ""
-  },
-  "179": {
-    "「救世主　<kyodai>の<pc_rel2>　<pc>よ。|　<kyodai_rel3>は　この時代で　がんばったぞ。|　その思いを　しっかり　受け取っておくれ。": ""
-  }
+    "1": {
+        "「もらったあっ！！": "I got it!"
+    },
+    "2": {
+        "「いってえ……！": "Oh, my God."
+    },
+    "3": {
+        "「やい　お前っ！|　なぁんで　こんな所で　寝てやがるっ！！": "Hey, you! Why are you sleeping here?"
+    },
+    "4": {
+        "「あとちょっとで　狙ってた素材を|　奪えるとこだったのに！|　お前のせいで　逃げられちまったじゃねえか！！": "We were so close to getting the material we|were after! You're the one that let us|escape!"
+    },
+    "5": {
+        "「あぁん……？　なんだ　お前？": "What the...? What the hell, man?"
+    },
+    "6": {
+        "「……ひっでえ　ツラしてやがんな。|　まるで　この世の終わりでも|　見てきたかのようなツラだぜ……。": "... You look like shit, man. You look like|you've seen the end of the world..."
+    },
+    "7": {
+        "「はあ？|　エテーネの村が　大変だって！？": "What? You said the village of Etaine was in|trouble!"
+    },
+    "8": {
+        "「…………はっはーん。": "... Huh..."
+    },
+    "9": {
+        "「お前　海から流れ着いた　流れモンだな？|　にしちゃあ　こんな海から離れた所で|　倒れてるってのも　妙な話だが……。": "You're a drifter from the sea, aren't you?|It's strange that you're lying here, so far|from the sea, but..."
+    },
+    "10": {
+        "「ここは　絶海の　小さな孤島だ。|　あるのは　ナルビアって町が　ひとつっきりで|　エテーネの村なんて　聞いたこともねえ。": "We're on the edge of the ocean, in a small...|There's only one town, Narvia, and I've never|heard of the village of Etaine."
+    },
+    "11": {
+        "「起きられるんなら　すぐそこの|　ナルビアの町に行きな。流れモンだからって|　冷たく　あしらうような町じゃねえからよ。": "If you can get up, we'll be right over there|in Narvia. It's not a town that's gonna treat|you like you're a drifter."
+    },
+    "12": {
+        "「今度　ジャマしたら　タダじゃおかねえぞ！": "If you ever interfere with me again, you'll|get off scot-free!"
+    },
+    "13": {
+        "「ふぅ……。|　リリオル　帰ったぞ。": "Hmm... Liriodur, come back..."
+    },
+    "14": {
+        "「んんっ？　誰だ　お前！？": "Hmm? Who the hell are you?"
+    },
+    "15": {
+        "「お前は……　外で転がってた　流れモンだな？|　勝手に　オレの家に　上がり込んで|　何してやがる！？": "You're... You're that drifter I found lying|around the house, aren't you? You just barged|into my house, and now you're doing what?"
+    },
+    "16": {
+        "「……なるほど。その釜に　興味を持ったのか。|　どこのウマのホネとも　知れねえヤツだが|　そいつに　目をつけたところは　ほめてやるぜ！": "... I'm... I'm interested in that cauldron. I|don't know who the hell you are, but I'll|give you credit for looking into it."
+    },
+    "17": {
+        "「その釜は　我が家に伝わる　錬金釜だ。|　錬金術を使うためには　欠かせない|　オレの　命よりも大事な　魔法の釜よ！": "The cauldron is a part of my family's|alchemy. It is essential to the use of|alchemy, for it is more important than my|<br>|life!"
+    },
+    "18": {
+        "「そして　その錬金釜こそが　錬金術師の証！|　つまり　このオレこそが　選ばれし存在……|　今では数少なくなった　錬金術師様ってワケだ！": "And that alchemy cauldron is the mark of an|alchemist! In other words... I am the chosen|one. I'm one of the few alchemists left in|<br>|the world."
+    },
+    "19": {
+        "「……あぁん？　なんだって？|　錬金なら自分もできるって　言ったか？": "... Uh-huh? What did you say? Did you say you|could do alchemy?"
+    },
+    "20": {
+        "「テキトーなこと　抜かすんじゃねえ！|　なら　証拠に　上やくそうを錬金してみやがれ！|　上やくそうのレシピくらい　知ってんだろ？": "Stop talking nonsense! Then why don't you try|smelting Kamiyakuso as proof! You at least|know the recipe for Kamiyakuso, don't you?"
+    },
+    "21": {
+        "「……………………。": "..."
+    },
+    "22": {
+        "「まさか　上やくそうのレシピも　知らねえのか？|　そんなんで　よくも　錬金できるだなんて|　言えたもんだ！": "Don't tell me you don't know the recipe for|Kamiyakusou? How dare you say you can|alchemize with that!"
+    },
+    "23": {
+        "「ほらよっ　この本をくれてやる。": "Here, give me this book..."
+    },
+    "24": {
+        "「テキスト削除": "text deletion"
+    },
+    "25": {
+        "<kyodai>は|初級錬金学入門を　手に入れた！<me 60>": "<kyodai>got his hands on a copy of Elementary|Alchemy!<me 60>"
+    },
+    "26": {
+        "「テキスト削除": "text deletion"
+    },
+    "27": {
+        "「さあ　オレの錬金釜で|　上やくそうを　錬金してみろ！|　本当に　やれるもんなら　やってみやがれ！": "Come on, use my smelting cauldron to smelt|the upper potions! If you really think you|can do it, go ahead and do it!"
+    },
+    "28": {
+        "「できた……！？|　そんな　まさか……。": "It's done. No, no, no, no, no, no."
+    },
+    "29": {
+        "「す…すげえじゃねえか！|　なんで　お前に　錬金ができるんだ！？": "Holy... That's awesome! How come you can do|alchemy?"
+    },
+    "30": {
+        "「はぁ？　今まで　箱で錬金してたって？|　箱に魔力が宿るなんて　聞いたこともねえ。|　そんなもんで錬金してたって　お前……。": "Huh? You said you've been smelting with|boxes? I've never heard of a box having|magical powers... You've been alchemizing|<br>|with that?"
+    },
+    "31": {
+        "「……………………。": "..."
+    },
+    "32": {
+        "「オレも　すこし前までは　この釜を使って|　なんでも　錬金できたんだ。それが……|　あの日以来　突然　できなくなっちまってな。": "Until a while ago, I could use this cauldron|to smelt anything... But then... But after|that day, I suddenly couldn't do it anymore."
+    },
+    "33": {
+        "「釜が　ぶっこわれたせいだと思い込んでいたが|　おかしくなったのは……　釜じゃなくて|　やっぱり　オレの方だったってことか。": "I thought it was because the pot was broken,|but it wasn't the pot that went wrong. It|wasn't the pot that went wrong. It was me."
+    },
+    "34": {
+        "「おい　ウマのホネ！|　お前に　頼みがある！": "Hey, horsey! I need you to do something for|me!"
+    },
+    "35": {
+        "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": "My daughter is dying of melanin fever. I need|you to alchemize the cure for Liriodur!"
+    },
+    "36": {
+        "「さあっ　こいつを　受け取ってくれ！": "Come on, take it, take it, take it!"
+    },
+    "37": {
+        "「テキスト削除": "text deletion"
+    },
+    "38": {
+        "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai>got a book of drugs for mellazo fever!<me 60>"
+    },
+    "39": {
+        "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。": "Mellazo fever was a horrible thing a long|time ago. I put Liriodur through all this|because I let him help me gather materials..."
+    },
+    "40": {
+        "「頼む！　オレに代わってクスリを錬金してくれ！|　材料の　めざめの花と　レッドベリーは|　どっちも　その辺で　簡単に手に入る素材だ！": "Please! I need you to alchemize a drug for|me! The ingredients, the flower of awakening|and the red berry, they're both easy to find|<br>|around here!"
+    },
+    "41": {
+        "「や……　やってくれたか！|　すげえぞ　ウマのホネ！": "Oh, my... You did it! Oh, my God, that's|awesome!"
+    },
+    "42": {
+        "「さあ　そのクスリを　オレにくれ！|　すぐに　リリオルに飲ませよう！": "Come on, give me those pills! I'll get|Liriodur to take it right now!"
+    },
+    "43": {
+        "「テキスト削除<yesno><close>": "text deletion<yesno><close>"
+    },
+    "44": {
+        "「テキスト削除<yesno><close>": "text deletion<yesno><close>"
+    },
+    "45": {
+        "<kyodai>は　イッショウに|メラゾ熱のクスリを　渡した！": "<kyodai>has given Isho a dose of Merazo Fever!"
+    },
+    "46": {
+        "「ありがてえ……。恩に着るぜ！": "Thank you... I owe you!"
+    },
+    "47": {
+        "「はあ……　はあ……。": "Huh... Huh..."
+    },
+    "48": {
+        "「リリオル　クスリだぞ。|　さあ　飲め。": "Liriodur, Xu... Come on..."
+    },
+    "49": {
+        "「…………………。": "..."
+    },
+    "50": {
+        "「……呼吸が　すこし　おだやかになってきた。|　さっそく　クスリが効いたんだな。": "And... My breathing's a little calmer. I|think the drugs are working."
+    },
+    "51": {
+        "「テキスト削除": "text deletion"
+    },
+    "52": {
+        "「テキスト削除": "text deletion"
+    },
+    "53": {
+        "「テキスト削除": "text deletion"
+    },
+    "54": {
+        "「テキスト削除": "text deletion"
+    },
+    "55": {
+        "「お前は　娘の命を救ってくれた　恩人だ。|　これからは　ウマのホネだなんて|　失礼な呼び方は　できねえな……。": "You saved my daughter's life... From now on,|you can't call me \"horse boy."
+    },
+    "56": {
+        "「……よし！|　これから　お前のことは|　宿ナシと　呼ばせてもらうぜ！": "... All right! From now on, I'll call you|Shukunashi!"
+    },
+    "57": {
+        "「たいした　もてなしは　できないが|　クスリを作ってもらった　礼がしたい。|　今夜は　ぜひ　うちに泊まっていってくれ。": "I can't offer much in the way of hospitality,|but I wanted to thank you for making me|medicine. Why don't you stay with us tonight?"
+    },
+    "58": {
+        "<center><kyodai>は　イッショウから|手厚い　もてなしを受けた。": "<kyodai>Isho has been very generous with her|hospitality."
+    },
+    "59": {
+        "<center>リリオルの病状は　目に見えて　落ち着いてゆき|イッショウと　<kyodai>も　眠りについた。": "Liriodur's condition has visibly calmed down|huffily<kyodai>And to sleep..."
+    },
+    "60": {
+        "<center>そして　夜が明けた！": "And night has fallen!"
+    },
+    "61": {
+        "「おい　宿ナシ！　起きてくれ！|　メラゾ熱のクスリが効いて|　リリオルが　元気になったんだ！": "Hey, innkeepers! Wake up! Liriodur's feeling|better now that the melanzo fever medication|has kicked in!"
+    },
+    "62": {
+        "「お前のおかげだ。|　なんと　礼を言っていいか……。": "Your... I don't know how to thank you."
+    },
+    "63": {
+        "「ぜひ　リリオルにも　あいさつしてやってくれ。": "Please say hello to Liriodur for me..."
+    },
+    "64": {
+        "「父から　聞きました。|　あなたが　私のクスリを　作ってくれたと……。": "My father told me... He told me that you were|the one who made my medication."
+    },
+    "65": {
+        "「クスリがなかったら　私は　あと数日のうちに|　命を　落としていたそうです。|　助けてくれて　ありがとうございました。": "If it weren't for the drugs, I'd be dead in a|matter of days. Thank you for saving my|life..."
+    },
+    "66": {
+        "「お前が　いてくれて　本当に助かった。|　もし　リリオルまで失うことになったら|　……オレは　どうなってたか　わからねえ。": "I'm so grateful you're here. If I had lost|Liriodur, too... I don't know what I would|have done."
+    },
+    "67": {
+        "「なあ　宿ナシ。|　お前　いったい　どこから来た？|　どうして　あんな所で　倒れてたんだ？": "Hey... Where the hell did you come from? Why|were you lying there?"
+    },
+    "68": {
+        "<kyodai>は　故郷の　エテーネの村が襲われ|気づいたら　この島にいたことを話した。": "<kyodai>When the village of Etaine was attacked, I|found myself on this island..."
+    },
+    "69": {
+        "「エテーネ……！？": "Etaine...!"
+    },
+    "70": {
+        "「<kyodai>って　エテーネの人なの？|　私　エテーネの村のことを　知ってるわ！": "<kyodai>You're from Etaine? I know about the village|of Ethene!"
+    },
+    "71": {
+        "「ほら　これを見て！|　すこし前に拾った　ボトルレターなの。": "Hey, look at this! A bottle letter I picked|up a while back..."
+    },
+    "72": {
+        "「ボトルレター……？|　そういや前に　海で　手紙が入ったビンを|　拾ったとかなんとか　言ってたな。": "Bottle letter...? Well, you said something|about finding a bottle with a letter in it in|the ocean."
+    },
+    "73": {
+        "「この手紙に　こう書いてあるわ。": "In this letter, it says..."
+    },
+    "74": {
+        "「いつか　このエテーネの村で|　いちばん幸せな　カップルになろうね……って。": "One day, we'll be the happiest couple in the|village of Etaine. ....."
+    },
+    "75": {
+        "「う～ん　確かに　書いてあるかもしれねえが|　それだけの内容じゃ　エテーネの村が|　どこにあるか　わからねえだろうが。": "Hmm... it may be written, but I don't know|where the village of Etaine is..."
+    },
+    "76": {
+        "「でも　きっと　そんなに遠くないよ！|　だって　このビンが　割れないで|　流れ着いたくらいだもん！": "But it can't be that far! Because this bottle|washed ashore without breaking!"
+    },
+    "77": {
+        "「ねえ　<kyodai>。うちで暮らしなよ！|　エテーネの村の場所が　わかるまで|　ず～っと　うちに　いればいいよ。": "hey<kyodai>. Come live with us! Until we find out where|Etaine's village is, you can stay with us..."
+    },
+    "78": {
+        "「……はあ？|　てめえ　勝手に決めてんじゃねえ！|　この家の主は　オレだ！": "... Huh? You don't get to decide what you|want! I'm the owner of this house!"
+    },
+    "79": {
+        "「お父さんは　もう錬金できないんでしょ？|　なら　<kyodai>が代わりに　錬金釜を|　使ってくれたほうが　みんなのためになるわ！": "Your father can't alchemize anymore, can he?|Then...<kyodai>It would be better for everyone if you used|the smelting pot instead!"
+    },
+    "80": {
+        "「て……　てめえっ　リリオル！|　元気になったとたん　言いたい放題だな。|　このヤロウ！": "What the... Damn you, Liriodur! Now that|you're back on your feet, you're gonna be|saying... You bastard!"
+    },
+    "81": {
+        "「そういうわけで　お父さんのことは|　気にしなくていいから　よろしくね！|　<kyodai>！": "That's why you don't have to worry about your|father. It's nice to meet you!<kyodai>！"
+    },
+    "82": {
+        "「くっそう！|　よくも　そこまで　オレを無視して|　話を　進められるもんだな！": "Damn it! How dare you ignore me like that and|go on with your story!"
+    },
+    "83": {
+        "「……おもしろくねえが　しょうがねえ！|　うちに　置いてやってもいいが　ちゃんと|　オレの言うことを　聞くんだぞ！　宿ナシ！": "... It's not funny, but it's what I do! I'll|let you stay at my place, but you're gonna|listen to me, okay? No place to stay!"
+    },
+    "84": {
+        "「……いや　待てよ。|　住む家が　決まっちまったとなると|　お前のこと　もう　宿ナシとは呼べねえな……。": "... No... Now that you've found a place to|live, I can't call you a homeless person|anymore..."
+    },
+    "85": {
+        "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": "... Yes! From now on, I'll call you Thoreau."
+    },
+    "86": {
+        "「ありがとう　お父さん！|　お父さんなら　きっと|　賛成してくれると思ったわ<heart>": "Thank you, Dad! I knew you'd agree with me.<heart>"
+    },
+    "87": {
+        "「やい　イソーロー！　オレの錬金釜を|　使わせてやるんだから　キビキビ　はたらけよ！|　グータラしやがったら　承知しねえぞ！": "Hey, Thoreau! I'm letting you use my smelting|pot, so work hard! I won't stand for it if|you slack off!"
+    },
+    "88": {
+        "「この町で　錬金に　はげんでりゃあ|　いずれ　故郷に帰るための手掛かりが|　見つかる日も　来るだろう！　オレの勘だがな！": "If I keep working on my alchemy in this town,|there will come a day when I can find a clue|that will lead me back home! That's just a|<br>|hunch!"
+    },
+    "89": {
+        "「よかったわね　<kyodai>。|　故郷に帰れるように　私も　応援するからね！": "Good for you<kyodai>I'll support you! I'll support you so you can|go home!"
+    },
+    "90": {
+        "「テキスト削除": "text deletion"
+    },
+    "91": {
+        "「テキスト削除": "text deletion"
+    },
+    "92": {
+        "「テキスト削除": "text deletion"
+    },
+    "93": {
+        "「テキスト削除": "text deletion"
+    },
+    "94": {
+        "「テキスト削除": "text deletion"
+    },
+    "95": {
+        "「テキスト削除": "text deletion"
+    },
+    "96": {
+        "「テキスト削除": "text deletion"
+    },
+    "97": {
+        "「テキスト削除": "text deletion"
+    },
+    "98": {
+        "「テキスト削除": "text deletion"
+    },
+    "99": {
+        "「テキスト削除": "text deletion"
+    },
+    "100": {
+        "「テキスト削除": "text deletion"
+    },
+    "101": {
+        "「テキスト削除": "text deletion"
+    },
+    "102": {
+        "「テキスト削除": "text deletion"
+    },
+    "103": {
+        "「テキスト削除": "text deletion"
+    },
+    "104": {
+        "「では　さっそく　アバさまに|　この豆を　お見せしてこよう。|　……そなたは　ここで　待つがよい。": "Now, let's show Miss Ava these beans... ...|And you wait here..."
+    },
+    "105": {
+        "「ア……　アバさまっ！　大丈夫ですか？|　しっかりなさってください！": "A... Ava! Are you okay? Stay with me, please!"
+    },
+    "106": {
+        "「カメさまの　お告げの　救世主が|　あの　ふしぎな豆の本をもとに|　このような豆を　作ってまいりましたぞ！": "The Turtle told me that the Savior of the|world would create these beans based on the|book of magic beans."
+    },
+    "107": {
+        "「あ……　ぅ…………。": "あ... ぅ..."
+    },
+    "108": {
+        "「ま…………　め…………？": "Ma... Ma...?"
+    },
+    "109": {
+        "「ポ……　ポリッ……　もぐ　もぐ……………。": "Po... Polyglot... Munch, munch..."
+    },
+    "110": {
+        "「なっ　なんじゃ　この豆！？|　めちゃくちゃ　うまいでは　ないかっ！！": "What's with the beans? They're so good!|They're so good!"
+    },
+    "111": {
+        "「もぐもが　もぐもぐ……。|　じゅるっ……　もがっ　まめっ　うまっ！！": "Moxie, moxie, moxie... Slurp... Mogga,|blister, yum!"
+    },
+    "112": {
+        "「……………………。": "..."
+    },
+    "113": {
+        "「ぶっはぁっ！　うまかったあ！|　チカラが　みなぎってきたわい！": "Huh! It was so good! I've got the energy!"
+    },
+    "114": {
+        "「見ておれ……！|　今の　わしにかかれば　これしきの儀式|　またたく間に　終わらせてくれるわっ！！": "Watch me... Now that I'm here, I can finish|this ritual in no time!"
+    },
+    "115": {
+        "「なんだったのだ　あれは……？|　あれが……　あの豆の　チカラなのか！？": "What was that? What was that? That's... Is|that the power of the bean?"
+    },
+    "116": {
+        "「い　今のは……！": "No, that was...!"
+    },
+    "117": {
+        "「儀式は　終わった……。": "The ritual is over..."
+    },
+    "118": {
+        "「<kyodai>だな？|　そなたのおかげだ。礼を言うぞ。": "<kyodai>Yeah? Your... Thank you..."
+    },
+    "119": {
+        "「チャツカ！|　村の者たちを　集めるのじゃ！": "Chatka! Gather the villagers!"
+    },
+    "120": {
+        "「はいっ　エルバさま！": "Yes, Miss Elba!"
+    },
+    "121": {
+        "「聞け！　エテーネの民たちよ！": "Hear me! People of Etaine!"
+    },
+    "122": {
+        "「カメさまの　お告げにありし　救世主のチカラで|　長きに渡った　継承の儀式は終わった！": "The Turtle has spoken, and by the power of|the Saviour, the long-awaited rite of|succession is complete!"
+    },
+    "123": {
+        "「さあ！　新たなる巫女を　皆で迎えるのじゃ！！": "Come on! Let us all welcome the new|priestess!"
+    },
+    "124": {
+        "「おおっ……　新たなる巫女さま　バンザイっ！|　アバさま　バンザイっ！！": "Oh... Hail the new miko! Banzai, Ava-sama!"
+    },
+    "125": {
+        "「わが名は　アバ！|　新たなる巫女として　エテーネの民を|　導く者なり！！": "My name is Ava! I am the new priestess who|will lead the people of Etaine!"
+    },
+    "126": {
+        "「わしは　巫女として|　エテーネの民たちに　新しき道を　示そう！": "I'm a priestess and I'll show the people of|Etaine a new way!"
+    },
+    "127": {
+        "「この豆　めちゃくちゃ　うまい！|　皆で　このふしぎな豆を　育てるのじゃ！！": "These beans are so good They're so good We're|gonna grow these amazing beans together"
+    },
+    "128": {
+        "「なんと！　見たこともない豆じゃ。": "Oh, my God! I've never seen..."
+    },
+    "129": {
+        "「このふしぎな豆は　わしに　チカラを与え|　儀式の最後のカベを　越えさせてくれた。|　わしは　この豆を………": "This mysterious bean gives me the power to|cross the final threshold of the ritual. I'll|take this bean..."
+    },
+    "130": {
+        "「ハツラツ豆と　名付ける！": "I'm gonna call them \"Hot Toddy Beans."
+    },
+    "131": {
+        "「ハツラツ豆……？|　あの豆が　アバさまを　救ってくれたのか！？": "Beans...? Those beans saved Ava's life?"
+    },
+    "132": {
+        "「ありがたい豆なんだねえ。|　この地でも　たくさん収穫できるよう|　皆で　大事に育てていこう！": "Thank goodness for these beans. Let's all|work together to grow enough beans to last us|a lifetime."
+    },
+    "133": {
+        "「ふっふっふっ。これで　ハツラツ豆が|　いつでも　食べられるようになるわい。": "Mmm-hmm. Now you can have your Happy Beans|whenever you want."
+    },
+    "134": {
+        "「アバ！|　大事な話を　忘れておるじゃろう。|　<kyodai>のことを　皆に　説明せんか！": "Ava! You forgot the most important thing...<kyodai>I'm gonna have to explain to them what the|hell is going on!"
+    },
+    "135": {
+        "「ああ……。|　そうじゃった　そうじゃった。": "Oh... That's right. That's..."
+    },
+    "136": {
+        "「皆に　紹介しよう！|　この　ハツラツ豆を作ってくれたのが|　ここにいる　<kyodai>じゃ。": "I want to introduce you all. I'm here to|introduce you to the man who made these|lentils.<kyodai>Bye."
+    },
+    "137": {
+        "「カメさまの　お告げの通り|　わしが　新たなる巫女となるために|　チカラを尽くしてくれた！": "The turtle told me to do everything in my|power to make me a new priestess!"
+    },
+    "138": {
+        "「わしは　村の救世主　<kyodai>に敬意を表し|　エテーネの民のひとりとして　迎えると決めた。|　皆の者も　仲良くしてやってくれい！": "I am the savior of my village<kyodai>I welcome you as one of the people of|Etaine... I hope you all get along!"
+    },
+    "139": {
+        "「以上！　解散っ！！": "That's it! Dismissed!"
+    },
+    "140": {
+        "「ふう……。|　これで　わしも　肩の荷が下りたわい……。": "Hmm... I'm relieved of my burden now..."
+    },
+    "141": {
+        "「テキスト削除": "text deletion"
+    },
+    "142": {
+        "「テキスト削除": "text deletion"
+    },
+    "143": {
+        "「テキスト削除": "text deletion"
+    },
+    "144": {
+        "「テキスト削除": "text deletion"
+    },
+    "145": {
+        "「テキスト削除": "text deletion"
+    },
+    "146": {
+        "「テキスト削除": "text deletion"
+    },
+    "147": {
+        "「テキスト削除": "text deletion"
+    },
+    "148": {
+        "「テキスト削除": "text deletion"
+    },
+    "149": {
+        "「テキスト削除": "text deletion"
+    },
+    "150": {
+        "「ゴルルルゥ。におう……におうぞォ！|　こいつは　錬金術師の　においだなァ！？": "Gol... I smell... I can smell it! That's the|smell of an alchemist, isn't it?"
+    },
+    "151": {
+        "「オレ様を　こんなほこらに|　閉じ込めやがった　錬金術師ィ！|　ゆるさん……ゆるさんぞォォォォォ！！": "The alchemist who locked me in this cave! I|won't let you... I'll never forgive you!"
+    },
+    "152": {
+        "「我は　この世を絶望で満たすために|　はるか死の世界より　訪れし者……。": "I have come from a world far from death to|fill this world with despair..."
+    },
+    "153": {
+        "「せっかく　ひとりの　有能な錬金術師から|　その能力を消し去ったというのに　すぐに|　新たな錬金術師が　現れるとは……。": "Just when I thought I'd erased the abilities|of one talented alchemist, a new one appears."
+    },
+    "154": {
+        "「貴様も　あの錬金術師のように|　我に　錬金術師としてのチカラを捧げよ！|　そして　ふたたび　死の絶望を味わうのだ！": "You, like the alchemist, must give me your|alchemical powers! And once again you will|taste the despair of death!"
+    },
+    "155": {
+        "「どうだい　ボクのキンキラの身体。|　すっごい錬金術師が　作ってくれたんだよ。": "What do you think of my sparkly... It was|made by the most amazing alchemist..."
+    },
+    "156": {
+        "「知ってるよ。キミも錬金術師なんだろ？|　ここまで来た人は　本当に　ひさしぶりで|　ボク　とっても　うれしいよ。": "You know... You're an alchemist, aren't you?|It's been a long time since anyone's come|this far, and I'm so happy..."
+    },
+    "157": {
+        "「さあ　キミのチカラを見せてほしいな。|　それが　ボクのお仕事なんだ。|　ほら　いくよっ　いくよ～っ！！": "Come on, let's see what you can do. That's|what I'm here for. Come on, come on, come on,|come on!"
+    },
+    "158": {
+        "「おお……。ついに　我が前に現れたか。|　セルゲイナスの呪いすら　退ける|　類まれなる　錬金術師の才能を持つ者よ。": "Oh... At last, before me... An alchemist of|unparalleled talent who can vanquish the|curse of Sergeenus."
+    },
+    "159": {
+        "「私の名は　バルザック。|　究極と呼ばれる錬金術……　とある秘法により|　自身の姿すら作り変えた　偉大なる錬金術師だ。": "My name is Val... The ultimate in alchemy...|By means of a secret process, I was able to|transform myself into the greatest alchemist|<br>|of all..."
+    },
+    "160": {
+        "「私は　これまで　多くの錬金術師を食らい|　その知識と技術を　この身に宿してきた。": "I have eaten many alchemists, and their|knowledge and skills have become part of me."
+    },
+    "161": {
+        "「だが　食らうだけの価値がある|　チカラを持った錬金術師は　なかなか現れぬ。|　ゆえに　自ら　育てることにしたのだ。": "But there are few alchemists with the power|to make a meal of it. So I decided to raise|them myself."
+    },
+    "162": {
+        "「ククク……。この地にある　ほこらはな|　未熟な錬金術師に　チカラをつけさせるため|　私が創りだした　巨大な錬金釜だったのさ。": "Kkkkk... The cauldron in this place is a|giant alchemy cauldron that I created to|train inexperienced alchemists."
+    },
+    "163": {
+        "「そうとも知らず　貴様は|　錬金術師としての　ウデをみがき続け|　こうして　私の前に現れた！": "But you didn't know that. You've been honing|your skills as an alchemist, and now you|appear before me!"
+    },
+    "164": {
+        "「残念だが　このほこらの先に|　行かせるわけにはいかん！　貴様は　ここで|　我が錬金術のチカラの　一部となるのだ！": "I'm afraid I can't let you go beyond this|hollow! You will become a part of my|alchemical power here!"
+    },
+    "165": {
+        "「ふたたび　来るとは思わなかったぞ。|　だが　残念ながら　このほこらの先に|　行かせるわけにはいかん！": "I never thought I'd see you again. But I'm|afraid I can't let you go beyond this hollow."
+    },
+    "166": {
+        "「貴様が　私を倒し　このほこらの先に|　行くことは　不可能だ！　この身体こそ|　私の錬金術における　最高傑作なのだからな！": "It's impossible for you to defeat me and|reach the other side of this cave! This body|is my masterpiece of alchemy!"
+    },
+    "167": {
+        "「今度こそ　貴様を食わせてもらうぞ！|　私が　究極の錬金術師となるためにな！": "This time, I will have you! For I am to|become the ultimate alchemist!"
+    },
+    "168": {
+        "「テキスト削除": "text deletion"
+    },
+    "169": {
+        "「メラゾ熱のクスリを　作って|　どうか　リリオルの命を救ってやってくれ！！": "Make a drug for Mellazo fever and please,|please save Liriodur's life!"
+    },
+    "170": {
+        "イッショウは　リリオルに|メラゾ熱のクスリを　飲ませた！": "Isho has given Liriodur a dose of Melazo|Fever!"
+    },
+    "171": {
+        "「<kyodai>。わしには　わかっておるぞ。|　お前は　時渡りの術により|　この時代に　来たのじゃろう？": "<kyodai>I... I know that... You came to this time|through the time traveler's trick, didn't|you?"
+    },
+    "172": {
+        "「……何も言わんでよい。|　このことは　お前と　わしの|　ふたりだけの　秘密にしておこう。": "... I won't say anything... You and me, we'll|keep this between us."
+    },
+    "173": {
+        "「時渡りは　とうの昔に　忘れ去られた術。|　ふたたび　人々が　クチにするようになれば|　悪しき者に　目をつけられやすくなるからのう。": "The time travel has long since been|forgotten... If people start to talk about it|again, it might make it easier for the bad|<br>|guys to find you..."
+    },
+    "174": {
+        "「……そう。今　この時代に|　時渡りの術を使える者は　おらん。|　お前が　元の時代に帰る方法はないのじゃ。": "..... Now, in this time, those of us who can|use the time travel device... There is no way|for you to return to your time..."
+    },
+    "175": {
+        "「だが　<kyodai>よ　気を落とすでない。": "but<kyodai>I'm sorry. I'm sorry."
+    },
+    "176": {
+        "「会うことは　かなわぬとも|　我が祈りにより　せめて　お前の思いを|　<pc>の元へと　届けてやろう。": "Even if we never see each other again| By my prayers, at least, I'll know what you're thinking|<pc> I'm going to bring it to you..."
+    },
+    "177": {
+        "「さあ　祈るのじゃ。|　遠く離れた場所にいる　<pc_rel2>を思って……。": "Come on, pray... We're a long way from home.<pc_rel2>I thought..."
+    },
+    "178": {
+        "「強く祈れば　その思いは　形となり|　必ず　<pc>の元へ　届くはずじゃ。": "If you pray hard enough, your thoughts will take shape| necessarily<pc> It's on its way to..."
+    },
+    "179": {
+        "「救世主　<kyodai>の<pc_rel2>　<pc>よ。|　<kyodai_rel3>は　この時代で　がんばったぞ。|　その思いを　しっかり　受け取っておくれ。": "saviour<kyodai>の<pc_rel2><pc>  Yo.<kyodai_rel3>I'm sure you'll do well in this time. I want|you to know that..."
+    }
 }

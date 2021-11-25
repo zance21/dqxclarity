@@ -1,587 +1,587 @@
 {
-  "1": {
-    "「帰ってきたか。": ""
-  },
-  "2": {
-    "「おお　フウラ！|　よくぞ　帰ってきてくれた！": ""
-  },
-  "3": {
-    "「……………………。": ""
-  },
-  "4": {
-    "「初志を貫きたかった　お前の気持ちはわかる。|　だが　フウラよ。もっと柔軟に考えてはどうだ。": ""
-  },
-  "5": {
-    "「やはり　お前は　カザユラの後を継ぎ|　風乗りになるべきなのだ。": ""
-  },
-  "6": {
-    "「イヤだよ　風乗りなんて……。|　カムシカに乗るなんて　絶対にイヤ！": ""
-  },
-  "7": {
-    "「フウラよ。あれは　事故だ……。|　カムシカたちが　悪いわけではない。": ""
-  },
-  "8": {
-    "「……………………。": ""
-  },
-  "9": {
-    "「それに　どうやら　ヨキじいの具合が|　相当　悪いらしい……。": ""
-  },
-  "10": {
-    "「じいやが！？": ""
-  },
-  "11": {
-    "「フウラ。この町は　もう６年も　風送りの儀を|　おこなっておらん。町の風は　よどみ|　身体の不調を　うったえる者も　増えている。": ""
-  },
-  "12": {
-    "「わしは領主として　新たな風乗りを決め|　風送りの儀を　とりおこなわねばならん。": ""
-  },
-  "13": {
-    "「でも………。": ""
-  },
-  "14": {
-    "「見よ　フウラ。": ""
-  },
-  "15": {
-    "「……！？": ""
-  },
-  "16": {
-    "「お前は　カザユラと同じ|　カムシカに　愛されし者なのだ。": ""
-  },
-  "17": {
-    "「知らない……。カムシカなんてキライ。|　それに　私……　すごい子じゃないもん。": ""
-  },
-  "18": {
-    "「お前ほどの素質を持つ者は　他におらぬ。|　生まれもったチカラを　なぜ人のために|　役立てようと　考えることができない？": ""
-  },
-  "19": {
-    "「フウラよ。まずは　頭を冷やしてきなさい。|　そして　落ち着いて　よく考えるのだ。": ""
-  },
-  "20": {
-    "「今　そなたが見たとおり|　このアズランは　面倒な問題を抱えている。": ""
-  },
-  "21": {
-    "「フウラが　風乗りになると決心しないことには|　風送りの儀は　できぬ。|　だが　わしも鬼ではない……。": ""
-  },
-  "22": {
-    "「ああは言ったが　娘が|　かたくなに　風乗りの継承を拒むなら|　他の方法を探すつもりだ。": ""
-  },
-  "23": {
-    "「すまぬが　ひとつ　頼みを聞いてほしい。|　フウラに会い　胸のうちを|　聞いてきてほしいのだ……。": ""
-  },
-  "24": {
-    "「町を出て　北に行った所にある　風泣き岬には|　フウラおじょうさんの　お母さん……|　カザユラ奥様の　お墓があるんだけどね。": ""
-  },
-  "25": {
-    "「おじょうさんは　なにか　つらいことがあると|　いつも　あの墓に行くんだ。": ""
-  },
-  "26": {
-    "「きゃーっ！！": ""
-  },
-  "27": {
-    "「<pc>さまっ！？|　た　助けて……！": ""
-  },
-  "28": {
-    "「た　助けて……！": ""
-  },
-  "29": {
-    "「な……　なんなの……？": ""
-  },
-  "30": {
-    "「あんたたちになんか　助けてほしくない！": ""
-  },
-  "31": {
-    "「大っきらいっ！！": ""
-  },
-  "32": {
-    "「あっ！　ケキちゃんが……": ""
-  },
-  "33": {
-    "「よ　よけいなこと　しないでよねっ！": ""
-  },
-  "34": {
-    "「ケキちゃんを　取りにいって|　死なれたりなんかしたら……|　メーワクなんだから！": ""
-  },
-  "35": {
-    "「もう　行ってよ！": ""
-  },
-  "36": {
-    "「こんな所で　<pc>さまに|　会うなんて思わなかった……。": ""
-  },
-  "37": {
-    "「あ……学びの庭　卒業おめでとうございます。|　言えなかったこと　気になってたの。|　私　あわてて　出てきちゃったから……。": ""
-  },
-  "38": {
-    "「あ　あの……　あなたは？|　そういえば　お父さまの部屋でも　会ったけど。": ""
-  },
-  "39": {
-    "「そう……　<pc>さまっていうのね。|　私は　アズラン領主の娘　フウラです。": ""
-  },
-  "40": {
-    "「その……　今の……。 ": ""
-  },
-  "41": {
-    "「私を　助けてくれたカムシカに|　あんな態度を取るなんて……|　私のこと　ひどいヤツだって思ったでしょ？<yesno><close>": ""
-  },
-  "42": {
-    "「ふふっ……　正直だね。": ""
-  },
-  "43": {
-    "「そう……？|　ありがとう。優しいんだね。": ""
-  },
-  "44": {
-    "「お母さま……|　ここから落ちて　死んじゃったんだ。": ""
-  },
-  "45": {
-    "「崖から落ちて　あそこに引っかかってた|　カムシカの子を　助けようとして……。": ""
-  },
-  "46": {
-    "「カムシカなんて　いなければ|　私　今も　お母さまと　いられたのにな……。": ""
-  },
-  "47": {
-    "「これ……　お母さまが　好きだった花？": ""
-  },
-  "48": {
-    "「そっか……　カムシカが　供えてるんだ。|　お母さまのために　６年経った　今も……。": ""
-  },
-  "49": {
-    "「私……　お母さまが|　この花を好きだったことも　忘れてた……。": ""
-  },
-  "50": {
-    "「……………………。": ""
-  },
-  "51": {
-    "「……決めた。": ""
-  },
-  "52": {
-    "「カムシカのこと　好きには　なれないけど……|　風乗りは　やっても　いいかなあ。 |　アズランの……　みんなのためだもんね！": ""
-  },
-  "53": {
-    "「<pc>さまに|　話を聞いてもらえて　よかった！|　なんだか　スッキリしたよ。": ""
-  },
-  "54": {
-    "「私　風乗りになるって|　お父さまに　言ってくる！": ""
-  },
-  "55": {
-    "「またね　<pc>さま！": ""
-  },
-  "56": {
-    "「おお　<pc>！　そなたを待っていたぞ。|　風泣き岬に行っていた　フウラを|　呼び戻してくれたようだな。": ""
-  },
-  "57": {
-    "「わしは　もう　風乗りに　ならなくてよいと……|　そう言うつもりで　あの子の帰りを待っていた。": ""
-  },
-  "58": {
-    "「だが　先ほど　フウラが帰ってきて|　風乗りになりたいと　言ってくれたのだ！": ""
-  },
-  "59": {
-    "「どういう心境の変化があったか　知らないが|　じつに　よろこばしい。": ""
-  },
-  "60": {
-    "「ときに　そなた。一人前の証を持っておるな。|　もしや　キーエンブレムを集めるために|　旅しているのではないか？": ""
-  },
-  "61": {
-    "「ならば　そなたを見込んで|　わしから　頼みたいことがある！": ""
-  },
-  "62": {
-    "「フウラが風乗りになり　風送りの儀を行うには|　風のたづな　風のころもという　ふたつの神具を|　フウラ自身が　取りにいかねばならぬのだ。": ""
-  },
-  "63": {
-    "「そこでだな……。": ""
-  },
-  "64": {
-    "「そなたには　あの子が |　無事に　神具を持ってかえれるよう|　手助けしてやってほしいのだ。": ""
-  },
-  "65": {
-    "「<pc>さまっ！|　どうして　ここに……？": ""
-  },
-  "66": {
-    "「……そっか。|　お父さまに頼まれて　来てくれたんだね。": ""
-  },
-  "67": {
-    "「ねえ　聞いて　<pc>さま！|　私　魔物　やっつけたんだよ！": ""
-  },
-  "68": {
-    "「まあ　頼みもしないのに　カムシカが|　手伝ってくれたってのもあるけど……。": ""
-  },
-  "69": {
-    "「でも　やってみれば　できることって|　あるんだね！": ""
-  },
-  "70": {
-    "「いやー　こりゃ　たまげたね。 |　風乗り様は　カムシカに好かれるとは聞くが……": ""
-  },
-  "71": {
-    "「なるほど　おじょうちゃんが|　次の風乗り様に　まちがいないな。|　アズランのフウラって　あんたなんだろ？": ""
-  },
-  "72": {
-    "「はい。": ""
-  },
-  "73": {
-    "「よし！　じゃあ　領主様から|　頼まれた品を　持ってってくんな！": ""
-  },
-  "74": {
-    "フウラは　風のたづなを　受け取った！<me 60>": ""
-  },
-  "75": {
-    "「さあて。よく聞きな　おじょうちゃん。|　向こうに　高く　そびえる塔が見えるだろう。": ""
-  },
-  "76": {
-    "「もうひとつの神具　風のころもは|　あのスイの塔で　新しい風乗り様を待って|　風のチカラを　たくわえているのさ。": ""
-  },
-  "77": {
-    "「風のころもが　祀られている時に|　最上階の扉を　開くことができるのは|　風乗り様として　塔に　認められた者だけだ。": ""
-  },
-  "78": {
-    "「おじょうちゃんが　風乗り様として|　ふさわしいかどうかが|　そこで　試されることだろう。": ""
-  },
-  "79": {
-    "「カムシカたちは　塔には入れない。|　塔の中では　カムシカたちのチカラは|　借りられないが　大丈夫かい？": ""
-  },
-  "80": {
-    "「はいっ！": ""
-  },
-  "81": {
-    "「<pc>さまは|　お父さまに言われて　来てるんでしょ？|　私　先に行ってるねっ！": ""
-  },
-  "82": {
-    "「なんで　ついてくるかなあ……。|　あんたたちは　スイの塔に入れないのに。": ""
-  },
-  "83": {
-    "「カムシカって　絶対　アタマ悪いよね。": ""
-  },
-  "84": {
-    "「やっと　着いた……。": ""
-  },
-  "85": {
-    "「なんだか　結局……": ""
-  },
-  "86": {
-    "「いろいろ　助けてもらっちゃった……　かな？": ""
-  },
-  "87": {
-    "「あ……　ありがとっ！": ""
-  },
-  "88": {
-    "「きゃっ！　<pc>さまっ！？": ""
-  },
-  "89": {
-    "「もしかして　今の　聞いてたの？|　わ…私は　ただ　お礼を言っただけで|　別に　カムシカのこと　認めたわけじゃないよ！": ""
-  },
-  "90": {
-    "「でも……。": ""
-  },
-  "91": {
-    "「どうして　カムシカたちは|　私を　助けてくれるんだろ。": ""
-  },
-  "92": {
-    "「お母さまを　死なせちゃったことを|　悪いと思ってるから？　それとも……　私が|　カムシカのチカラを引きだせる　風乗りだから？": ""
-  },
-  "93": {
-    "「カムシカって……　変な動物だよね。": ""
-  },
-  "94": {
-    "「風のころもは　この塔のてっぺんか……。": ""
-  },
-  "95": {
-    "「私　先に行く！|　<pc>さまも　ついてきてね！": ""
-  },
-  "96": {
-    "「な　なに　この部屋……？": ""
-  },
-  "97": {
-    "「誰だっ！？": ""
-  },
-  "98": {
-    "「この　怪獣プスゴンさまの|　スウィートホームに|　土足で　あがりこむヤツは！？": ""
-  },
-  "99": {
-    "「な　なんてことだ……！": ""
-  },
-  "100": {
-    "「キュートだ……。": ""
-  },
-  "101": {
-    "「ただ　かわいいだけじゃない。|　ちょっと　毒のある瞳！|　抱きしめたくなるような　身体のサイズ！": ""
-  },
-  "102": {
-    "「こんな気持ちは　はじめてだ！|　オレと　いてくれ！|　ずっとずっと　一緒に暮らそう！！": ""
-  },
-  "103": {
-    "「わ　私……！？": ""
-  },
-  "104": {
-    "「ど　どうしよう～。": ""
-  },
-  "105": {
-    "「困るわ。だって　あなた　怪獣だし……。": ""
-  },
-  "106": {
-    "「きっと　お父さまも　許してくれないと思う。": ""
-  },
-  "107": {
-    "「えっ！？": ""
-  },
-  "108": {
-    "「お前っ！": ""
-  },
-  "109": {
-    "「この……": ""
-  },
-  "110": {
-    "「キュートなハニーを　よこせえええっ！！": ""
-  },
-  "111": {
-    "「えええええええっ！？": ""
-  },
-  "112": {
-    "「ケキちゃんは　ダメええっ！！": ""
-  },
-  "113": {
-    "「ぐぬぬぬぬぬううう！！": ""
-  },
-  "114": {
-    "「くう～～～～～っ！！": ""
-  },
-  "115": {
-    "「ちっ　なかなかやるな　エルフめ！|　何しに　来やがった！？": ""
-  },
-  "116": {
-    "「私たちは……　風のころもを取りに！": ""
-  },
-  "117": {
-    "「風のころも！？": ""
-  },
-  "118": {
-    "「くっくっくっく……。|　お前たちが　そうだったとはな。|　ちょうどいい！": ""
-  },
-  "119": {
-    "「オレは　風のころもを取りにきたヤツを|　倒すように言われているんだ！": ""
-  },
-  "120": {
-    "「頼まれた仕事を果たし　ついでに|　マイ・スウィートハニーを手に入れる！|　一石二鳥とは　このことだぁっ！": ""
-  },
-  "121": {
-    "「あうっ！": ""
-  },
-  "122": {
-    "「あ　あぶねえっ！|　オレの　ウルトラ・ハイセンスな|　インテリアが！！": ""
-  },
-  "123": {
-    "「ちょっと　タンマな！": ""
-  },
-  "124": {
-    "「これでよし！|　まずは　お前から　片付けてやるぜ！|　さっさと　くたばりなっ！！": ""
-  },
-  "125": {
-    "「ちっ！　しつこいヤツだな！": ""
-  },
-  "126": {
-    "「しかも　またしても　きたない足で|　オレのスウィートホームに　あがりやがって！": ""
-  },
-  "127": {
-    "「礼儀を知らないヤツめ！|　何度でも　痛い目にあわせてやるぜっ！！": ""
-  },
-  "128": {
-    "「ぐおおおお！！|　お前ら　本気で　オレを怒らせたなっ！！": ""
-  },
-  "129": {
-    "「オレの　真のチカラを見せてやるぜっ！！|　お前なんて　メッタメタだぞ！！": ""
-  },
-  "130": {
-    "「やめてっっ！！": ""
-  },
-  "131": {
-    "「お……！？": ""
-  },
-  "132": {
-    "「それ　あげるから……": ""
-  },
-  "133": {
-    "「<cs_pchero>さまに　ヒドイことしないで！": ""
-  },
-  "134": {
-    "「……………………。": ""
-  },
-  "135": {
-    "「……わかったよっ。|　この　ハニーにめんじて　許してやらあ！": ""
-  },
-  "136": {
-    "「あばよっ！": ""
-  },
-  "137": {
-    "「いやっほ～～～う　ハニー！！": ""
-  },
-  "138": {
-    "「……いいの。|　ケキちゃんがいなくても|　私は　もう大丈夫だから。": ""
-  },
-  "139": {
-    "「きれい……！": ""
-  },
-  "140": {
-    "「お母さまの……　においがする……。": ""
-  },
-  "141": {
-    "「そうだ！　こうしてる場合じゃないわ。": ""
-  },
-  "142": {
-    "「早く帰って　風送りの儀をしなくちゃ！|　アズランのみんなが　待ってるもの。": ""
-  },
-  "143": {
-    "「<cs_pchero>さま　ありがとう。|　私　先に　アズランへ帰ってるね！": ""
-  },
-  "144": {
-    "「カムシカー！　戻るよーっ！！": ""
-  },
-  "145": {
-    "「<cs_pchero>さまも |　私がやる　風送りの儀　見にきてねっ！": ""
-  },
-  "146": {
-    "「ただいまの　風送りの儀により……": ""
-  },
-  "147": {
-    "「これまで　アズランに吹いていた古き風は|　その役目を終え　かなたへと去りゆきました。": ""
-  },
-  "148": {
-    "「今　このアズランに吹くのは|　育みのチカラあふるる　新しき風！": ""
-  },
-  "149": {
-    "「このアズランに…………　えっと……": ""
-  },
-  "150": {
-    "「えーーーーーと……？": ""
-  },
-  "151": {
-    "「このアズランに……": ""
-  },
-  "152": {
-    "「風乗りフウラが　あるかぎり！": ""
-  },
-  "153": {
-    "「育みの風を　絶え間なく吹かせ|　町を守り　育ててゆくことを　誓いましょう！": ""
-  },
-  "154": {
-    "「待っておったぞ　<pc>。|　さあ　わしの部屋へ。": ""
-  },
-  "155": {
-    "「フウラの口上には　ヒヤヒヤさせられたが|　なんとか無事に　風送りの儀を|　終えることができた。": ""
-  },
-  "156": {
-    "「これも　ひとえに　<pc>のおかげだ。|　本当にありがとう。": ""
-  },
-  "157": {
-    "「まだ　大きな変化は　出ておらぬが|　このアズランに　よい風が吹き始めた。|　これからは　よい方向へ　向かってゆくだろう。": ""
-  },
-  "158": {
-    "「この町に　希望をもたらしてくれた|　アズランの英雄　<pc>よ。": ""
-  },
-  "159": {
-    "「そなたに　緑のキーエンブレムを贈ろう。": ""
-  },
-  "160": {
-    "<pc>は|緑のキーエンブレム（だいじなもの）を|手に入れた！<me 72>": ""
-  },
-  "161": {
-    "「しかし　風のころもが　風乗りの手に渡らぬよう|　スイの塔に　魔物を配した者がいたのか……。": ""
-  },
-  "162": {
-    "「このような　辺境にまで|　悪しき魔の手が　およんでいようとは|　世の中　どうなっておるのだ……。": ""
-  },
-  "163": {
-    "「<pc>は　旅を続けるのであろう。|　この先　困ったことがあったときには|　いつでも　チカラになろう。": ""
-  },
-  "164": {
-    "「<pc>さま　本当に　ありがとう。|　おかげで　私も　すこしだけ|　自分に　自信が持てるようになったよ。": ""
-  },
-  "165": {
-    "「私　風乗りとして　がんばる。|　大好きな　お母さんの仕事を継いでみせる。|　助けてくれる人たちだって　たくさんいるもの。": ""
-  },
-  "166": {
-    "「これからは　お父さまや　町のみんなや……": ""
-  },
-  "167": {
-    "「そなたは　学びの庭から来たのではないか？|　ならば　フウラとも　顔なじみであろう。": ""
-  },
-  "168": {
-    "「恥ずかしい話だが　娘は　私に|　心を開いてはくれない。だが　そなたになら……|　そなたの目は　そんな気にさせてくれるのだ。": ""
-  },
-  "169": {
-    "「そなたの　はたらきで　無事に|　風送りの儀を　終えることができたら|　緑のキーエンブレムを授けよう。": ""
-  },
-  "170": {
-    "「フウラは　ひとつめの神具　風のたづなを取りに|　すでに　山間の関所へ向かった。|　今すぐ出発すれば　向こうで落ち合えるはずだ。": ""
-  },
-  "171": {
-    "「山間の関所は　アズラン地方の南|　イナミノ街道の　南方にある。|　娘を頼んだぞ　<pc>！": ""
-  },
-  "172": {
-    "「……カムシカたちとも　協力して|　この町のために　できることを　がんばるね！": ""
-  },
-  "173": {
-    "「あっ　<pc>さま！": ""
-  },
-  "174": {
-    "「おや。フウラおじょうさんに　ご用かい？": ""
-  },
-  "175": {
-    "「……なあ　あんた。|　フウラおじょうさんに　ご用があるのなら|　風泣き岬まで　行ってみたらどうだい？": ""
-  },
-  "176": {
-    "「残念だけど　おじょうさんなら|　たった今　墓参りに　出かけちまったよ。": ""
-  },
-  "177": {
-    "「そなたは　旅の者か？|　ふむ………。よい目をしているな。": ""
-  },
-  "178": {
-    "「これでよし！　|　さあ　かかってきな！|　コテンパンに　のしてやるぜっ！！": ""
-  },
-  "179": {
-    "「見て見て！　ほらっ　風のころも！|　私の　風送りの儀も　ちゃんと見ててくれた？": ""
-  },
-  "180": {
-    "「恥ずかしい話だが　娘は　私に|　心を開いてはくれない。だが　そなたになら|　本音を　打ち明けるかもしれん。": ""
-  },
-  "181": {
-    "「すまぬが　ひとつ　頼みを聞いてほしい。|　フウラに会い　胸のうちを|　聞いてきてほしいのだ……。": ""
-  },
-  "182": {
-    "「フウラの部屋は　この部屋の向かいだ。|　すまぬが　どうか　頼んだぞ。": ""
-  },
-  "183": {
-    "「……お母さまは　アズランの歴史の中でも|　特に　すごい風乗りだったの。|　だから　町の誰もが　お母さまを慕ってた。": ""
-  },
-  "184": {
-    "「カムシカに乗った　お母さまが |　舞うように駆ける姿は　今でも　目に浮かぶの。|　ずっと　その背中を見てた……。": ""
-  },
-  "185": {
-    "「私だって　ほんとは　お父さまの言う通り |　お母さまの後を継いで　風乗りになれたら|　どんなにいいかって思う……。でもね…………": ""
-  },
-  "186": {
-    "「若葉の試みに　合格できなかったからといって|　そう　気に病むな！　むしろ　あきらめがついて|　よかったではないか。": ""
-  },
-  "187": {
-    "「この部屋の中に|　風のころもが　あるんだね。": ""
-  },
-  "188": {
-    "「そして　このトビラが|　風乗りになる　資格を持つ者にしか|　開くことができないトビラ……。": ""
-  },
-  "189": {
-    "「開いた！": ""
-  },
-  "190": {
-    "「ワシは　剣士グンザ。 |　チカラを認められた者の証　キーエンブレムを|　集めるため　各地を旅しておる。": ""
-  },
-  "191": {
-    "「しかし　この町の連中は　変わり者ばかりだな。|　風が　よどんでいると　なげきおるが|　ワシには　フツーの風にしか思えんわ。": ""
-  },
-  "192": {
-    "「だが　そんな今こそ　絶好のチャンスじゃ！|　ここで　領主タケトラ様の　お役に立てば|　キーエンブレムを　もらえるかもしれんしな！": ""
-  },
-  "193": {
-    "「タケトラ様の家なら　町の一番奥にある|　ひときわ　大きな　お屋敷じゃよ。": ""
-  },
-  "194": {
-    "「まずは　お屋敷の南側にある|　赤い鳥居を　目指すとよい。": ""
-  },
-  "195": {
-    "「あとは　その先の階段をのぼって道沿いだ。|　おぬしもキーエンブレムが　ほしいのなら|　お屋敷で　話を聞いてみるのが　よいじゃろう。": ""
-  }
+    "1": {
+        "「帰ってきたか。": "Come home..."
+    },
+    "2": {
+        "「おお　フウラ！|　よくぞ　帰ってきてくれた！": "Oh, Foura! I'm so glad you're back!"
+    },
+    "3": {
+        "「……………………。": "..."
+    },
+    "4": {
+        "「初志を貫きたかった　お前の気持ちはわかる。|　だが　フウラよ。もっと柔軟に考えてはどうだ。": "I wanted to do what I set out to do. I know|how you feel... But, uh... I think you should|be more flexible..."
+    },
+    "5": {
+        "「やはり　お前は　カザユラの後を継ぎ|　風乗りになるべきなのだ。": "After all, you should follow in Kazayura's|footsteps and become a wind rider..."
+    },
+    "6": {
+        "「イヤだよ　風乗りなんて……。|　カムシカに乗るなんて　絶対にイヤ！": "I don't want to ride in the wind... I don't|want to ride Kamshika! I don't want to ride|Kamshika!"
+    },
+    "7": {
+        "「フウラよ。あれは　事故だ……。|　カムシカたちが　悪いわけではない。": "It was... It was an accident... It was an|accident. It wasn't Kamsika's fault."
+    },
+    "8": {
+        "「……………………。": "..."
+    },
+    "9": {
+        "「それに　どうやら　ヨキじいの具合が|　相当　悪いらしい……。": "And apparently, Grandpa Joki's not feeling|too well..."
+    },
+    "10": {
+        "「じいやが！？": "My grandfather!"
+    },
+    "11": {
+        "「フウラ。この町は　もう６年も　風送りの儀を|　おこなっておらん。町の風は　よどみ|　身体の不調を　うったえる者も　増えている。": "... We haven't had a wind-up ceremony in this|town for six years. The wind has slowed, and|more and more people are complaining about|<br>|their health..."
+    },
+    "12": {
+        "「わしは領主として　新たな風乗りを決め|　風送りの儀を　とりおこなわねばならん。": "As lord, I must decide on a new windbreaker|and perform the wind-breaking ritual."
+    },
+    "13": {
+        "「でも………。": "But..."
+    },
+    "14": {
+        "「見よ　フウラ。": "Look..."
+    },
+    "15": {
+        "「……！？": "...!"
+    },
+    "16": {
+        "「お前は　カザユラと同じ|　カムシカに　愛されし者なのだ。": "You are like Kazayura, beloved of Kamsika..."
+    },
+    "17": {
+        "「知らない……。カムシカなんてキライ。|　それに　私……　すごい子じゃないもん。": "I don't know... I don't know anything about|Kamushka. And I... I'm not a great girl."
+    },
+    "18": {
+        "「お前ほどの素質を持つ者は　他におらぬ。|　生まれもったチカラを　なぜ人のために|　役立てようと　考えることができない？": "There's no one else who has what you have.|Why can't you think of a way to use your gift|to help others?"
+    },
+    "19": {
+        "「フウラよ。まずは　頭を冷やしてきなさい。|　そして　落ち着いて　よく考えるのだ。": "Uh... First, I need to get my head straight.|And then I'm gonna calm down and I'm gonna|think..."
+    },
+    "20": {
+        "「今　そなたが見たとおり|　このアズランは　面倒な問題を抱えている。": "Now, as you can see, this Azran is in some|trouble..."
+    },
+    "21": {
+        "「フウラが　風乗りになると決心しないことには|　風送りの儀は　できぬ。|　だが　わしも鬼ではない……。": "Until Foura decides to become a windigo, the|ritual of sending the wind... But I'm not a|demon..."
+    },
+    "22": {
+        "「ああは言ったが　娘が|　かたくなに　風乗りの継承を拒むなら|　他の方法を探すつもりだ。": "I did say that if my daughter is adamant|about not taking over the Wind Riders, I'll|find another way..."
+    },
+    "23": {
+        "「すまぬが　ひとつ　頼みを聞いてほしい。|　フウラに会い　胸のうちを|　聞いてきてほしいのだ……。": "I'm sorry, but I have a favor to ask. I want|you to go to Foura and ask her what's on her|mind."
+    },
+    "24": {
+        "「町を出て　北に行った所にある　風泣き岬には|　フウラおじょうさんの　お母さん……|　カザユラ奥様の　お墓があるんだけどね。": "Just north of town, at Cape Kazayura, is the|grave of Lady Foura's mother... Mistress|Kazayura's grave..."
+    },
+    "25": {
+        "「おじょうさんは　なにか　つらいことがあると|　いつも　あの墓に行くんだ。": "Whenever she had a bad day, she'd go to that|grave..."
+    },
+    "26": {
+        "「きゃーっ！！": "Yikes!"
+    },
+    "27": {
+        "「<pc>さまっ！？|　た　助けて……！": "<pc> Come on! I need help!"
+    },
+    "28": {
+        "「た　助けて……！": "I need help!"
+    },
+    "29": {
+        "「な……　なんなの……？": "What the...? What the...?"
+    },
+    "30": {
+        "「あんたたちになんか　助けてほしくない！": "I don't want you to help me!"
+    },
+    "31": {
+        "「大っきらいっ！！": "It's so big!"
+    },
+    "32": {
+        "「あっ！　ケキちゃんが……": "Oh! Keki's..."
+    },
+    "33": {
+        "「よ　よけいなこと　しないでよねっ！": "Don't do anything you don't want to do!"
+    },
+    "34": {
+        "「ケキちゃんを　取りにいって|　死なれたりなんかしたら……|　メーワクなんだから！": "If I go to get Keki and she dies... It's|Mayweather!"
+    },
+    "35": {
+        "「もう　行ってよ！": "You have to go now!"
+    },
+    "36": {
+        "「こんな所で　<pc>さまに|　会うなんて思わなかった……。": "in a place like this<pc> I never thought I'd see you again..."
+    },
+    "37": {
+        "「あ……学びの庭　卒業おめでとうございます。|　言えなかったこと　気になってたの。|　私　あわてて　出てきちゃったから……。": "Oh... Congratulations on graduating from the|Garden of Learning... I'm sorry I didn't tell|you. I came out in a panic..."
+    },
+    "38": {
+        "「あ　あの……　あなたは？|　そういえば　お父さまの部屋でも　会ったけど。": "Oh, um... Who are you? You know, I saw you in|your father's room..."
+    },
+    "39": {
+        "「そう……　<pc>さまっていうのね。|　私は　アズラン領主の娘　フウラです。": "So<pc> I'm stuck here... I am Huw, daughter of the|Lord of Aslan..."
+    },
+    "40": {
+        "「その……　今の……。 ": "I mean... Now..."
+    },
+    "41": {
+        "「私を　助けてくれたカムシカに|　あんな態度を取るなんて……|　私のこと　ひどいヤツだって思ったでしょ？<yesno><close>": "How dare you behave like that to Kamsika, the|woman who saved me? You thought I was a|horrible person, didn't you?<yesno><close>"
+    },
+    "42": {
+        "「ふふっ……　正直だね。": "Hmm... Right..."
+    },
+    "43": {
+        "「そう……？|　ありがとう。優しいんだね。": "Is that...? Yes... Gentle..."
+    },
+    "44": {
+        "「お母さま……|　ここから落ちて　死んじゃったんだ。": "Your mother... I could have fallen out of|here and died..."
+    },
+    "45": {
+        "「崖から落ちて　あそこに引っかかってた|　カムシカの子を　助けようとして……。": "I was trying to save a baby deer that had|fallen off a cliff and was stuck there..."
+    },
+    "46": {
+        "「カムシカなんて　いなければ|　私　今も　お母さまと　いられたのにな……。": "If Kamushka hadn't existed, I could still be|with my mother..."
+    },
+    "47": {
+        "「これ……　お母さまが　好きだった花？": "This... Your mother's favorite flower?"
+    },
+    "48": {
+        "「そっか……　カムシカが　供えてるんだ。|　お母さまのために　６年経った　今も……。": "So... Kamushka offered it... For your mother.|Six years later, she's still..."
+    },
+    "49": {
+        "「私……　お母さまが|　この花を好きだったことも　忘れてた……。": "I... I'd forgotten how much your mother loved|these flowers."
+    },
+    "50": {
+        "「……………………。": "..."
+    },
+    "51": {
+        "「……決めた。": "......"
+    },
+    "52": {
+        "「カムシカのこと　好きには　なれないけど……|　風乗りは　やっても　いいかなあ。 |　アズランの……　みんなのためだもんね！": "I'm not sure I like Kamsika, but... I'm not|sure I like Kamsika, but I'm willing to|try... Azran's... It's for everyone!"
+    },
+    "53": {
+        "「<pc>さまに|　話を聞いてもらえて　よかった！|　なんだか　スッキリしたよ。": "<pc> I'm glad you listened to me! I feel so much|better..."
+    },
+    "54": {
+        "「私　風乗りになるって|　お父さまに　言ってくる！": "I'm going to tell your father I'm going to be|a windigo!"
+    },
+    "55": {
+        "「またね　<pc>さま！": "good-bye<pc> Sir!"
+    },
+    "56": {
+        "「おお　<pc>！　そなたを待っていたぞ。|　風泣き岬に行っていた　フウラを|　呼び戻してくれたようだな。": "oh!<pc> I'm waiting for you. I was waiting for you.|You brought Foura back from Cape Wind Waker."
+    },
+    "57": {
+        "「わしは　もう　風乗りに　ならなくてよいと……|　そう言うつもりで　あの子の帰りを待っていた。": "I don't have to be a windigo anymore. That's|what I was going to say. I was going to wait|for him to come back."
+    },
+    "58": {
+        "「だが　先ほど　フウラが帰ってきて|　風乗りになりたいと　言ってくれたのだ！": "But just now Foura came home and told me she|wanted to be a wind rider!"
+    },
+    "59": {
+        "「どういう心境の変化があったか　知らないが|　じつに　よろこばしい。": "I don't know what changed your mind, but I'm|really happy..."
+    },
+    "60": {
+        "「ときに　そなた。一人前の証を持っておるな。|　もしや　キーエンブレムを集めるために|　旅しているのではないか？": "Sometimes ... With the proof of one's|identity... If you're traveling to collect|the key emblem..."
+    },
+    "61": {
+        "「ならば　そなたを見込んで|　わしから　頼みたいことがある！": "Then I have a favor to ask of you!"
+    },
+    "62": {
+        "「フウラが風乗りになり　風送りの儀を行うには|　風のたづな　風のころもという　ふたつの神具を|　フウラ自身が　取りにいかねばならぬのだ。": "In order for Foura to become a wind rider and|perform the Wind Sending Ceremony, she must|personally retrieve two sacred objects called|<br>|the Wind Tazuna and the Wind Koromo..."
+    },
+    "63": {
+        "「そこでだな……。": "So, you know..."
+    },
+    "64": {
+        "「そなたには　あの子が |　無事に　神具を持ってかえれるよう|　手助けしてやってほしいのだ。": "I want you to help him bring back the sacred|object safely..."
+    },
+    "65": {
+        "「<pc>さまっ！|　どうして　ここに……？": "<pc> Hey! What are you doing here?"
+    },
+    "66": {
+        "「……そっか。|　お父さまに頼まれて　来てくれたんだね。": "...... Your father asked me to come..."
+    },
+    "67": {
+        "「ねえ　聞いて　<pc>さま！|　私　魔物　やっつけたんだよ！": "Hey, listen<pc> My Lord! I defeated a demon!"
+    },
+    "68": {
+        "「まあ　頼みもしないのに　カムシカが|　手伝ってくれたってのもあるけど……。": "Well, partly because Kamsika helped me|without asking, but..."
+    },
+    "69": {
+        "「でも　やってみれば　できることって|　あるんだね！": "But there are things you can do if you try!"
+    },
+    "70": {
+        "「いやー　こりゃ　たまげたね。 |　風乗り様は　カムシカに好かれるとは聞くが……": "Oh, my God... I've heard that Kamshika loves|windigo..."
+    },
+    "71": {
+        "「なるほど　おじょうちゃんが|　次の風乗り様に　まちがいないな。|　アズランのフウラって　あんたなんだろ？": "I see. Ojou-chan must be the next windigo...|You're Foura of Azran, aren't you?"
+    },
+    "72": {
+        "「はい。": "Yes."
+    },
+    "73": {
+        "「よし！　じゃあ　領主様から|　頼まれた品を　持ってってくんな！": "Good! Then bring me what my lord has asked|for!"
+    },
+    "74": {
+        "フウラは　風のたづなを　受け取った！<me 60>": "Foura has received the Wind Tether!<me 60>"
+    },
+    "75": {
+        "「さあて。よく聞きな　おじょうちゃん。|　向こうに　高く　そびえる塔が見えるだろう。": "... I've heard so much about you... Over|there, you can see a tower rising high..."
+    },
+    "76": {
+        "「もうひとつの神具　風のころもは|　あのスイの塔で　新しい風乗り様を待って|　風のチカラを　たくわえているのさ。": "The other sacred tool, the Wind Scarf, waits|for a new wind rider in that tower of Sui,|building up the power of the wind..."
+    },
+    "77": {
+        "「風のころもが　祀られている時に|　最上階の扉を　開くことができるのは|　風乗り様として　塔に　認められた者だけだ。": "When the Wind Scarecrow is enshrined, the|door to the top floor can only be opened by|one who is recognized by the tower as the|<br>|Wind Rider..."
+    },
+    "78": {
+        "「おじょうちゃんが　風乗り様として|　ふさわしいかどうかが|　そこで　試されることだろう。": "Whether or not Ojou-chan is fit to be a|windigo-sama will be tested there..."
+    },
+    "79": {
+        "「カムシカたちは　塔には入れない。|　塔の中では　カムシカたちのチカラは|　借りられないが　大丈夫かい？": "Kamsika and the others cannot enter the|tower... You can't ask for help from Kamsika|and the others in the tower."
+    },
+    "80": {
+        "「はいっ！": "Yes!"
+    },
+    "81": {
+        "「<pc>さまは|　お父さまに言われて　来てるんでしょ？|　私　先に行ってるねっ！": "<pc> You're here on your father's orders, aren't|you? I'm going first!"
+    },
+    "82": {
+        "「なんで　ついてくるかなあ……。|　あんたたちは　スイの塔に入れないのに。": "Why are you following me... You can't get|into Sui's tower..."
+    },
+    "83": {
+        "「カムシカって　絶対　アタマ悪いよね。": "Kamshika is definitely not smart."
+    },
+    "84": {
+        "「やっと　着いた……。": "We're finally here."
+    },
+    "85": {
+        "「なんだか　結局……": "I feel like, in the end"
+    },
+    "86": {
+        "「いろいろ　助けてもらっちゃった……　かな？": "I've had a lot of help... I guess?"
+    },
+    "87": {
+        "「あ……　ありがとっ！": "Oh... Thank you!"
+    },
+    "88": {
+        "「きゃっ！　<pc>さまっ！？": "Yikes!<pc> What the hell?"
+    },
+    "89": {
+        "「もしかして　今の　聞いてたの？|　わ…私は　ただ　お礼を言っただけで|　別に　カムシカのこと　認めたわけじゃないよ！": "Did you by any chance hear what I just said?|I... I was just saying thank you, not that I|approve of you!"
+    },
+    "90": {
+        "「でも……。": "But..."
+    },
+    "91": {
+        "「どうして　カムシカたちは|　私を　助けてくれるんだろ。": "Why would Kamshika and the others help me..."
+    },
+    "92": {
+        "「お母さまを　死なせちゃったことを|　悪いと思ってるから？　それとも……　私が|　カムシカのチカラを引きだせる　風乗りだから？": "Is it because you feel bad that you let your|mother die? Or... Because I'm a wind rider|who can harness the power of Kamshika?"
+    },
+    "93": {
+        "「カムシカって……　変な動物だよね。": "Kamushka... Weird animal..."
+    },
+    "94": {
+        "「風のころもは　この塔のてっぺんか……。": "The Windigo is at the top of this tower..."
+    },
+    "95": {
+        "「私　先に行く！|　<pc>さまも　ついてきてね！": "I'll go first!<pc> You, follow me!"
+    },
+    "96": {
+        "「な　なに　この部屋……？": "What's this room...?"
+    },
+    "97": {
+        "「誰だっ！？": ""
+    },
+    "98": {
+        "「この　怪獣プスゴンさまの|　スウィートホームに|　土足で　あがりこむヤツは！？": "What kind of person walks into the sweet home|of a Kaiju Psgong?"
+    },
+    "99": {
+        "「な　なんてことだ……！": "Oh, my God. Oh, my God."
+    },
+    "100": {
+        "「キュートだ……。": "It's cute..."
+    },
+    "101": {
+        "「ただ　かわいいだけじゃない。|　ちょっと　毒のある瞳！|　抱きしめたくなるような　身体のサイズ！": "She's not just cute... She's got poison in|her eyes. And a body so big you want to hug|it."
+    },
+    "102": {
+        "「こんな気持ちは　はじめてだ！|　オレと　いてくれ！|　ずっとずっと　一緒に暮らそう！！": "I've never felt this good in my life! Stay|with me! We can be together forever and ever!"
+    },
+    "103": {
+        "「わ　私……！？": "I..."
+    },
+    "104": {
+        "「ど　どうしよう～。": "What do you..."
+    },
+    "105": {
+        "「困るわ。だって　あなた　怪獣だし……。": "... I mean, you're a Kaiju, so..."
+    },
+    "106": {
+        "「きっと　お父さまも　許してくれないと思う。": "I'm sure your father would never forgive|you..."
+    },
+    "107": {
+        "「えっ！？": "What?"
+    },
+    "108": {
+        "「お前っ！": "You!"
+    },
+    "109": {
+        "「この……": "This"
+    },
+    "110": {
+        "「キュートなハニーを　よこせえええっ！！": "Give me that cute little honey!"
+    },
+    "111": {
+        "「えええええええっ！？": "Yeah, yeah, yeah, yeah!"
+    },
+    "112": {
+        "「ケキちゃんは　ダメええっ！！": "Keki, no!"
+    },
+    "113": {
+        "「ぐぬぬぬぬぬううう！！": "Noooooooooooooooooooooooooooooooo!"
+    },
+    "114": {
+        "「くう～～～～～っ！！": "Kuu～～～～～!!!"
+    },
+    "115": {
+        "「ちっ　なかなかやるな　エルフめ！|　何しに　来やがった！？": "Not bad at all, Elves! What are you doing|here?"
+    },
+    "116": {
+        "「私たちは……　風のころもを取りに！": "We're going... To get the windigo!"
+    },
+    "117": {
+        "「風のころも！？": "And the wind, too!"
+    },
+    "118": {
+        "「くっくっくっく……。|　お前たちが　そうだったとはな。|　ちょうどいい！": "Mmm-hmm... You guys were the ones... Just|like that!"
+    },
+    "119": {
+        "「オレは　風のころもを取りにきたヤツを|　倒すように言われているんだ！": "I've been told to defeat the one who came for|the Wind Scroll!"
+    },
+    "120": {
+        "「頼まれた仕事を果たし　ついでに|　マイ・スウィートハニーを手に入れる！|　一石二鳥とは　このことだぁっ！": "I'll do the job you asked me to do, and I'll|get My Sweet Honey while I'm at it! Two birds|with one stone, that's what I'm talking|<br>|about!"
+    },
+    "121": {
+        "「あうっ！": "Agh!"
+    },
+    "122": {
+        "「あ　あぶねえっ！|　オレの　ウルトラ・ハイセンスな|　インテリアが！！": "That's not good! That's my ultra-fancy|interior!"
+    },
+    "123": {
+        "「ちょっと　タンマな！": "Hey, Tamma!"
+    },
+    "124": {
+        "「これでよし！|　まずは　お前から　片付けてやるぜ！|　さっさと　くたばりなっ！！": "There we go! I'll take care of you first! Now|go fuck yourself!"
+    },
+    "125": {
+        "「ちっ！　しつこいヤツだな！": "Damn it! You're a persistent bastard!"
+    },
+    "126": {
+        "「しかも　またしても　きたない足で|　オレのスウィートホームに　あがりやがって！": "And once again, you come up to my sweet home|on your shoddy feet!"
+    },
+    "127": {
+        "「礼儀を知らないヤツめ！|　何度でも　痛い目にあわせてやるぜっ！！": "You have no manners! I'm going to hurt you|again and again!"
+    },
+    "128": {
+        "「ぐおおおお！！|　お前ら　本気で　オレを怒らせたなっ！！": "Whoa, whoa, whoa! You guys really pissed me|off!"
+    },
+    "129": {
+        "「オレの　真のチカラを見せてやるぜっ！！|　お前なんて　メッタメタだぞ！！": "I'll show you what I'm really made of! I'm|gonna beat you to a pulp!"
+    },
+    "130": {
+        "「やめてっっ！！": "No, no, no, no!"
+    },
+    "131": {
+        "「お……！？": "Oh...!"
+    },
+    "132": {
+        "「それ　あげるから……": "I'll give you that"
+    },
+    "133": {
+        "「<cs_pchero>さまに　ヒドイことしないで！": "<cs_pchero>Please don't do anything cruel to me!"
+    },
+    "134": {
+        "「……………………。": "..."
+    },
+    "135": {
+        "「……わかったよっ。|　この　ハニーにめんじて　許してやらあ！": "... I know... I'm sorry, honey. I'm sorry!"
+    },
+    "136": {
+        "「あばよっ！": "Aah!"
+    },
+    "137": {
+        "「いやっほ～～～う　ハニー！！": "Yoo-hoo-hoo, honey!"
+    },
+    "138": {
+        "「……いいの。|　ケキちゃんがいなくても|　私は　もう大丈夫だから。": "...... I'll be fine without you, Keki..."
+    },
+    "139": {
+        "「きれい……！": "Beautiful...!"
+    },
+    "140": {
+        "「お母さまの……　においがする……。": "Your mother's... I smell..."
+    },
+    "141": {
+        "「そうだ！　こうしてる場合じゃないわ。": "That's it! This is no time for..."
+    },
+    "142": {
+        "「早く帰って　風送りの儀をしなくちゃ！|　アズランのみんなが　待ってるもの。": "We have to get home and do the wind-up|ceremony! The people of Aztlan are waiting..."
+    },
+    "143": {
+        "「<cs_pchero>さま　ありがとう。|　私　先に　アズランへ帰ってるね！": "<cs_pchero>Sir, yes... I'm going back to Aztlan first!"
+    },
+    "144": {
+        "「カムシカー！　戻るよーっ！！": "Kamshikha! I'm going back!"
+    },
+    "145": {
+        "「<cs_pchero>さまも |　私がやる　風送りの儀　見にきてねっ！": "<cs_pchero>You should come see my wind-up ceremony!"
+    },
+    "146": {
+        "「ただいまの　風送りの儀により……": "Now, due to the wind-up ceremony"
+    },
+    "147": {
+        "「これまで　アズランに吹いていた古き風は|　その役目を終え　かなたへと去りゆきました。": "The old winds that used to blow over Aztlan|have run their course... and now they're|going away."
+    },
+    "148": {
+        "「今　このアズランに吹くのは|　育みのチカラあふるる　新しき風！": "What blows in Azran now is a new wind, full|of the power of nurture!"
+    },
+    "149": {
+        "「このアズランに…………　えっと……": "To this Azran Um"
+    },
+    "150": {
+        "「えーーーーーと……？": "Whaaaat...?"
+    },
+    "151": {
+        "「このアズランに……": "To this Azran"
+    },
+    "152": {
+        "「風乗りフウラが　あるかぎり！": "As long as there's a wind-rider named Foura!"
+    },
+    "153": {
+        "「育みの風を　絶え間なく吹かせ|　町を守り　育ててゆくことを　誓いましょう！": "Let's pledge to keep the wind of nurturing|blowing and to protect and nurture our town!"
+    },
+    "154": {
+        "「待っておったぞ　<pc>。|　さあ　わしの部屋へ。": "I've been waiting for you<pc> (speaking spanish) Come on, my..."
+    },
+    "155": {
+        "「フウラの口上には　ヒヤヒヤさせられたが|　なんとか無事に　風送りの儀を|　終えることができた。": "Foura's speech made me nervous, but we|managed to finish the wind-up ceremony|without incident..."
+    },
+    "156": {
+        "「これも　ひとえに　<pc>のおかげだ。|　本当にありがとう。": "I'm telling you<pc> Thank you... There really is..."
+    },
+    "157": {
+        "「まだ　大きな変化は　出ておらぬが|　このアズランに　よい風が吹き始めた。|　これからは　よい方向へ　向かってゆくだろう。": "We haven't seen much change yet, but there's|a good wind blowing here in Aztlan. And|things are about to get better."
+    },
+    "158": {
+        "「この町に　希望をもたらしてくれた|　アズランの英雄　<pc>よ。": "You've brought hope to this town| Hero of Aztlan<pc> Yo."
+    },
+    "159": {
+        "「そなたに　緑のキーエンブレムを贈ろう。": "I give you the green key emblem..."
+    },
+    "160": {
+        "<pc>は|緑のキーエンブレム（だいじなもの）を|手に入れた！<me 72>": "<pc> got a green key emblem!<me 72>"
+    },
+    "161": {
+        "「しかし　風のころもが　風乗りの手に渡らぬよう|　スイの塔に　魔物を配した者がいたのか……。": "But who would send a demon to the Tower of|Sui to keep the Windigo out of the hands of|the Windigo..."
+    },
+    "162": {
+        "「このような　辺境にまで|　悪しき魔の手が　およんでいようとは|　世の中　どうなっておるのだ……。": "What has become of the world that the hand of|evil should be upon such a remote place as|this?"
+    },
+    "163": {
+        "「<pc>は　旅を続けるのであろう。|　この先　困ったことがあったときには|　いつでも　チカラになろう。": "<pc> I will continue my journey... If you ever|have any problems, I'm always here for you..."
+    },
+    "164": {
+        "「<pc>さま　本当に　ありがとう。|　おかげで　私も　すこしだけ|　自分に　自信が持てるようになったよ。": "<pc> Thank you so much... Thanks to you, I've|become a little more confident in myself..."
+    },
+    "165": {
+        "「私　風乗りとして　がんばる。|　大好きな　お母さんの仕事を継いでみせる。|　助けてくれる人たちだって　たくさんいるもの。": "As a wind rider, I... I took over my mom's|business... There are many people who help|me..."
+    },
+    "166": {
+        "「これからは　お父さまや　町のみんなや……": "From now on, it's your father, everyone in town, and"
+    },
+    "167": {
+        "「そなたは　学びの庭から来たのではないか？|　ならば　フウラとも　顔なじみであろう。": "You come from the Garden of Learning, do you|not? Then you must know Foura."
+    },
+    "168": {
+        "「恥ずかしい話だが　娘は　私に|　心を開いてはくれない。だが　そなたになら……|　そなたの目は　そんな気にさせてくれるのだ。": "I'm embarrassed to say that my daughter has|never opened her heart to me. But with you...|The look in your eyes makes me think..."
+    },
+    "169": {
+        "「そなたの　はたらきで　無事に|　風送りの儀を　終えることができたら|　緑のキーエンブレムを授けよう。": "If you can successfully complete the Wind|Sending Ceremony, you will receive the green|key emblem..."
+    },
+    "170": {
+        "「フウラは　ひとつめの神具　風のたづなを取りに|　すでに　山間の関所へ向かった。|　今すぐ出発すれば　向こうで落ち合えるはずだ。": "Foura is already on her way to the mountain|pass to retrieve the first sacred object, the|Wind Bracelet. If we leave now, we can|<br>|rendezvous on the other side..."
+    },
+    "171": {
+        "「山間の関所は　アズラン地方の南|　イナミノ街道の　南方にある。|　娘を頼んだぞ　<pc>！": "The mountain pass is south of Aztlan, south|of the Inamino road... Take care of my|daughter.<pc> ！"
+    },
+    "172": {
+        "「……カムシカたちとも　協力して|　この町のために　できることを　がんばるね！": "... I'll work with Kamushika and the others|to do what I can for this town!"
+    },
+    "173": {
+        "「あっ　<pc>さま！": "oh!<pc> Sir!"
+    },
+    "174": {
+        "「おや。フウラおじょうさんに　ご用かい？": "Oh. You wanted to see Miss Fouler?"
+    },
+    "175": {
+        "「……なあ　あんた。|　フウラおじょうさんに　ご用があるのなら|　風泣き岬まで　行ってみたらどうだい？": "... Hey... If you're looking for Miss Fourah,|why don't you go to Cape Crying Wind?"
+    },
+    "176": {
+        "「残念だけど　おじょうさんなら|　たった今　墓参りに　出かけちまったよ。": "I'm sorry, but your daughter's probably out|visiting a grave right now."
+    },
+    "177": {
+        "「そなたは　旅の者か？|　ふむ………。よい目をしているな。": "Are you a traveler? Hmm... You have a good|eye..."
+    },
+    "178": {
+        "「これでよし！　|　さあ　かかってきな！|　コテンパンに　のしてやるぜっ！！": "That's it! Come and get me! I'm gonna beat|you to a pulp!"
+    },
+    "179": {
+        "「見て見て！　ほらっ　風のころも！|　私の　風送りの儀も　ちゃんと見ててくれた？": "Look, look, look! Look, even the wind! Did|you see my wind-up ritual?"
+    },
+    "180": {
+        "「恥ずかしい話だが　娘は　私に|　心を開いてはくれない。だが　そなたになら|　本音を　打ち明けるかもしれん。": "I'm embarrassed to admit that my daughter is|not very open with me. But with you, she|might be able to."
+    },
+    "181": {
+        "「すまぬが　ひとつ　頼みを聞いてほしい。|　フウラに会い　胸のうちを|　聞いてきてほしいのだ……。": "I'm sorry, but I have a favor to ask. I want|you to go to Foura and ask her what's on her|mind."
+    },
+    "182": {
+        "「フウラの部屋は　この部屋の向かいだ。|　すまぬが　どうか　頼んだぞ。": "Foura's room is right across the hall... I'm|sorry, but I need you to..."
+    },
+    "183": {
+        "「……お母さまは　アズランの歴史の中でも|　特に　すごい風乗りだったの。|　だから　町の誰もが　お母さまを慕ってた。": "... Your mother was one of the greatest wind|riders in the history of Aztlan. That's why|everyone in town loves her..."
+    },
+    "184": {
+        "「カムシカに乗った　お母さまが |　舞うように駆ける姿は　今でも　目に浮かぶの。|　ずっと　その背中を見てた……。": "I can still see your mother on the Kamshika,|riding like a dancing horse. I've been|watching her back..."
+    },
+    "185": {
+        "「私だって　ほんとは　お父さまの言う通り |　お母さまの後を継いで　風乗りになれたら|　どんなにいいかって思う……。でもね…………": "I really wish I could follow in your mother's|footsteps and become a wind rider like your|father said. But..."
+    },
+    "186": {
+        "「若葉の試みに　合格できなかったからといって|　そう　気に病むな！　むしろ　あきらめがついて|　よかったではないか。": "Don't be so upset that you didn't pass the|Wakaba trials! In fact, it's good that you've|given up..."
+    },
+    "187": {
+        "「この部屋の中に|　風のころもが　あるんだね。": "In this room, there is a wind chamber..."
+    },
+    "188": {
+        "「そして　このトビラが|　風乗りになる　資格を持つ者にしか|　開くことができないトビラ……。": "And this is the doorway that can only be|opened by someone qualified to be a wind|rider..."
+    },
+    "189": {
+        "「開いた！": "It's open!"
+    },
+    "190": {
+        "「ワシは　剣士グンザ。 |　チカラを認められた者の証　キーエンブレムを|　集めるため　各地を旅しておる。": "I am a swordsman... I travel around the world|to collect key emblems that prove my power..."
+    },
+    "191": {
+        "「しかし　この町の連中は　変わり者ばかりだな。|　風が　よどんでいると　なげきおるが|　ワシには　フツーの風にしか思えんわ。": "You know, I've never seen anything like it in|this town. They complain about the wind, but|I think it's just a normal wind..."
+    },
+    "192": {
+        "「だが　そんな今こそ　絶好のチャンスじゃ！|　ここで　領主タケトラ様の　お役に立てば|　キーエンブレムを　もらえるかもしれんしな！": "But now is the perfect time! If I can be of|service to my lord Taketra here, I might even|receive the Key Emblem!"
+    },
+    "193": {
+        "「タケトラ様の家なら　町の一番奥にある|　ひときわ　大きな　お屋敷じゃよ。": "If it's Taketora's house, it's the biggest|house in the far end of town..."
+    },
+    "194": {
+        "「まずは　お屋敷の南側にある|　赤い鳥居を　目指すとよい。": "First, we'll go to the red torii gate on the|south side of the mansion..."
+    },
+    "195": {
+        "「あとは　その先の階段をのぼって道沿いだ。|　おぬしもキーエンブレムが　ほしいのなら|　お屋敷で　話を聞いてみるのが　よいじゃろう。": "Now all you have to do is go up the stairs to|the path... If you want the key emblem, you'd|better go to the mansion and ask for it..."
+    }
 }
