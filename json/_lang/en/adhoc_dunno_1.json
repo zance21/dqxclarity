@@ -321,7 +321,7 @@
         "依頼書クエストに　さそわれています！|<br>|このクエストは受けてから|<%nLIFETIMESEC>分以内に　達成する必要があります。|このクエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You received a Request Form Quest!|<br>|This quest must be completed in <%dLIFETIMESEC> minutes|after accepting it. Accept the quest?|<select>|Accept|Decline|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "108": {
-        "仲間がそろうのを　待っています……。|１分待っても　仲間がそろわない場合は|このまま　先に進みます。": ""
+        "仲間がそろうのを　待っています……。|１分待っても　仲間がそろわない場合は|このまま　先に進みます。": "Waiting for party members to respond...|After 1 minute, you'll proceed as is with any|members who responded."
     },
     "109": {
         "<pipipi_shigh>「お見事！！ |　やはり　<pc>が　ただよわせる|　超一流の匂いは　ホンモノだったか！<break>": ""
