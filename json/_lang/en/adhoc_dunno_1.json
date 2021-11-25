@@ -306,10 +306,10 @@
         "仲間全員の解答を待っています。|最大１分待っても　解答がない場合は|完了している仲間だけで進みます。|<select>|仲間の解答を待つ|<select_end>|<case 1>|<close>|<case_cancel>|<break>|<case_end>": "Waiting for party member's response. After 1|minute, you will proceed with other members|who have responded.|<select>|Wait for Response|<select_end>|<case 1>|<close>|<case_cancel>|<break>|<case_end>"
     },
     "103": {
-        "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』の|さそいを　断りました。": ""
+        "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』の|さそいを　断りました。": "Quest Form Quest|\"<%sQUE_IRAISYA>'s Urgent Request!\"|invitation was cancelled."
     },
     "104": {
-        "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』を|受けました。<me 74><auto_bw=1000><close>": ""
+        "依頼書クエスト『<%sQUE_IRAISYA>の緊急依頼！』を|受けました。<me 74><auto_bw=1000><close>": "Request Form Quest|\"<%sQUE_IRAISYA>'s Urgent Request!\"|was accepted.<me 74><auto_bw=1000><close>"
     },
     "105": {
         "緊急依頼書クエストは　１つしか受けられません！|せんれきコマンドの　クエストリストから|緊急依頼書クエストを　キャンセルしてください。": ""
