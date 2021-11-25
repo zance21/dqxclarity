@@ -36,3 +36,8 @@ clean:
 	if exist "dist\" rd /s/q "dist\"
 	if exist "app\game_file_dumps\" rd /s/q "app\game_file_dumps\"
 	if exist "dqxclarity.zip" del /F "dqxclarity.zip"
+
+run:
+	git pull origin weblate
+	xcopy json .\app\json /s /e /h /i /Y
+	cd app && python main.py -pnvc
