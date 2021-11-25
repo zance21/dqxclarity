@@ -123,7 +123,7 @@
         "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。<me 74><auto_bw=3000><close>": "Request Form Quest|\"<%sQUE_IRAISYA>'s Request!\" was accepted.<me 74><auto_bw=3000><close>"
     },
     "42": {
-        "依頼書クエストは　これ以上　受けられません！|せんれきコマンドの　クエストリストから|依頼書クエストを　キャンセルしてください。": ""
+        "依頼書クエストは　これ以上　受けられません！|せんれきコマンドの　クエストリストから|依頼書クエストを　キャンセルしてください。": "You can't receive any more Request Form|Quests! Go to \"Quest List\" under \"Records\" and|cancel the currently accepted one."
     },
     "43": {
         "<%sC_PC_LUA>から|依頼書クエストに　さそわれました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
