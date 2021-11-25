@@ -279,7 +279,7 @@
         "ここは　同行ポイントです。|この先に行くためには　同行する仲間全員の|準備が完了している必要があります。|<select>|仲間の準備完了を待つ|準備完了している仲間だけで先に行く|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>": "This is an accompaniment point. In order to|proceed, all party members must be ready.|<select>|Wait for Party|Proceed with Ready Members|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "94": {
-        "「パーティを組んでいる　仲間がいるようだな。|　仲間と一緒に　釣りチャレンジをしたいなら|　パーティ全員の準備を　完了させてくれ。": ""
+        "「パーティを組んでいる　仲間がいるようだな。|　仲間と一緒に　釣りチャレンジをしたいなら|　パーティ全員の準備を　完了させてくれ。": "It seems there are members in your party. If|you want to play the fishing challenge with|your party, all members must be ready."
     },
     "95": {
         "仲間がそろうのを　待っています……。|<select>|仲間の準備完了を待つ|釣りチャレンジをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
