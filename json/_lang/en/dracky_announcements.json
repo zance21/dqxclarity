@@ -267,7 +267,7 @@
         "チームが解散していたので 入れませんでした": "Could not join because the team was disbanded."
     },
     "90": {
-        "返事がいっぱいで 受け取れなかったナビがあります": ""
+        "返事がいっぱいで 受け取れなかったナビがあります": "You could not receive a notification because your inbox is full."
     },
     "91": {
         "clarity_nt_char_91": "clarity_nt_char_91"
@@ -885,7 +885,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "296": {
-        "『<%sC_TEAM>』への入隊希望は期限切れです": ""
+        "『<%sC_TEAM>』への入隊希望は期限切れです": "Your request to join \"<%sC_TEAM>\" has expired."
     },
     "297": {
         "あと<%dC_M>分プレイをしない場合 この席から離れます": "You'll leave your seat after <%dC_M> m. of inactivity."
@@ -909,7 +909,7 @@
         "パーティ同盟のさそいを 断りました": "Declined the party alliance invite."
     },
     "304": {
-        "あと1分で スカウト中のモンスターが 去ります": ""
+        "あと1分で スカウト中のモンスターが 去ります": "The scouting monsters will leave in 1 minute."
     },
     "305": {
         "あと<%dC_TIMES>ゲーム ベットしない場合 この席から離れます": "If you don't bet in <%dC_TIMES> games, you will be removed."
@@ -927,7 +927,7 @@
         "サポート仲間と仲間モンスターが 待機中になりました": "Support party and monster put on standby."
     },
     "310": {
-        "まもなく スカウト中のモンスターが 去ります": ""
+        "まもなく スカウト中のモンスターが 去ります": "The scouting monsters will be leaving shortly."
     },
     "311": {
         "clarity_nt_char_311": "clarity_nt_char_311"
@@ -963,13 +963,13 @@
         "強モードボスとの戦いの誘いが 取り消されました": "Strong Mode Boss invitation was cancelled."
     },
     "322": {
-        "釣りチャレンジ 終了です！": ""
+        "釣りチャレンジ 終了です！": "The Fishing Challenge is over!"
     },
     "323": {
-        "ルーラストーンの使用権限が 変わったものがあります": ""
+        "ルーラストーンの使用権限が 変わったものがあります": "Some of the permissions of the Zoomstone have changed."
     },
     "324": {
-        "該当のルーラストーンは 新品の石に戻ります": ""
+        "該当のルーラストーンは 新品の石に戻ります": "The Zoomstone will be returned to its original state."
     },
     "325": {
         "参加者に不正を検知したため 元のマップに戻ります": "Returning due to fraud being detected."
@@ -978,7 +978,7 @@
         "clarity_nt_char_326": "clarity_nt_char_326"
     },
     "327": {
-        "釣りチャレンジ スタート！": ""
+        "釣りチャレンジ スタート！": "The Fishing Challenge has started!"
     },
     "328": {
         "郵便箱がいっぱいです 郵便を受けとってください！": "Your mailbox is full! Please check your mail!"
@@ -987,7 +987,7 @@
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
-        "釣りチャレンジを 中断しました": ""
+        "釣りチャレンジを 中断しました": "The Fishing Challenge was suspended."
     },
     "331": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから スッパ党との戦いに 誘われました!": "Invite from \\s<%sC_PC>\\m<%sC_ID>\\e to fight Suppa Party!"
@@ -996,7 +996,7 @@
         "clarity_nt_char_332": "clarity_nt_char_332"
     },
     "333": {
-        "スッパ党との戦いへの誘いが 時間切れになりました": ""
+        "スッパ党との戦いへの誘いが 時間切れになりました": "The invitation to battle with the Super Party has expired."
     },
     "334": {
         "clarity_nt_char_334": "clarity_nt_char_334"
@@ -1017,7 +1017,7 @@
         "clarity_nt_char_339": "clarity_nt_char_339"
     },
     "340": {
-        "試練の門のボスとの戦いの誘いが 取り消されました": ""
+        "試練の門のボスとの戦いの誘いが 取り消されました": "The invitation to fight the Trial Gate Boss has been rescinded."
     },
     "341": {
         "clarity_nt_char_341": "clarity_nt_char_341"
@@ -1038,10 +1038,10 @@
         "あと<%dC_N1>分で 期限が切れる 緊急依頼書があります！": ""
     },
     "347": {
-        "「<%sC_QUEST>の緊急依頼！」は 時間切れになりました": ""
+        "「<%sC_QUEST>の緊急依頼！」は 時間切れになりました": "\"Urgent Request for <%sC_QUEST> !\" has run out of time."
     },
     "348": {
-        "とある冒険者と ふしぎなすれちがいを達成！": ""
+        "とある冒険者と ふしぎなすれちがいを達成！": "You've achieved an encounter with a certain adventurer!"
     },
     "349": {
         "とある冒険者が あなたと ふしぎなすれちがいを達成！": "An adventurer achieved a mysterious passing with you!"
@@ -1050,7 +1050,7 @@
         "clarity_nt_char_350": "clarity_nt_char_350"
     },
     "351": {
-        "とある冒険者により ふしぎなすれちがいを達成！　": ""
+        "とある冒険者により ふしぎなすれちがいを達成！　": "A certain adventurer has achieved a mysterious encounter!"
     },
     "352": {
         "clarity_nt_char_352": "clarity_nt_char_352"
@@ -1077,16 +1077,16 @@
         "clarity_nt_char_359": "clarity_nt_char_359"
     },
     "360": {
-        "正解です！": ""
+        "正解です！": "Correct!"
     },
     "361": {
-        "不正解です！": ""
+        "不正解です！": "Incorrect!"
     },
     "362": {
         "clarity_nt_char_362": "clarity_nt_char_362"
     },
     "363": {
-        "次に進むまで しばらくお待ちください": ""
+        "次に進むまで しばらくお待ちください": "Please wait a moment before proceeding."
     },
     "364": {
         "clarity_nt_char_364": "clarity_nt_char_364"
@@ -1098,7 +1098,7 @@
         "clarity_nt_char_366": "clarity_nt_char_366"
     },
     "367": {
-        "タイムアップ！": ""
+        "タイムアップ！": "Time's up!"
     },
     "368": {
         "残り 30秒！": "30 sec. Left!"
@@ -1107,10 +1107,10 @@
         "残り 10秒！": "10 sec. Left!"
     },
     "370": {
-        "クイズバトル 終了～！": ""
+        "クイズバトル 終了～！": "Quiz Battle is over~!"
     },
     "371": {
-        "モーモンバザーの商品が 売れました！": ""
+        "モーモンバザーの商品が 売れました！": "Momon Bazaar products have sold!"
     },
     "372": {
         "clarity_nt_char_372": "clarity_nt_char_372"
@@ -1137,28 +1137,28 @@
         "clarity_nt_char_379": "clarity_nt_char_379"
     },
     "380": {
-        "オーグリード大陸カードの クエストを すべてクリア！": ""
+        "オーグリード大陸カードの クエストを すべてクリア！": "Complete all Ogreed Continent card quests!"
     },
     "381": {
         "clarity_nt_char_381": "clarity_nt_char_381"
     },
     "382": {
-        "ドワチャッカ大陸カードの クエストを すべてクリア！": ""
+        "ドワチャッカ大陸カードの クエストを すべてクリア！": "Complete all Dwachakka Continent card quests!"
     },
     "383": {
         "clarity_nt_char_383": "clarity_nt_char_383"
     },
     "384": {
-        "エルトナ大陸カードの クエストを すべてクリア！": ""
+        "エルトナ大陸カードの クエストを すべてクリア！": "Complete all Eltona Continent card quests!"
     },
     "385": {
         "clarity_nt_char_385": "clarity_nt_char_385"
     },
     "386": {
-        "ウェナ諸島カードの クエストを すべてクリア！": ""
+        "ウェナ諸島カードの クエストを すべてクリア！": "Complete all Wena Island card quests!"
     },
     "387": {
-        "プクランド大陸カードの クエストを すべてクリア！": ""
+        "プクランド大陸カードの クエストを すべてクリア！": "Complete all Pukland Continent card quests!"
     },
     "388": {
         "レンダーシアカードの クエストを すべてクリア！": ""
@@ -4110,10 +4110,10 @@
         "clarity_nt_char_1370": "clarity_nt_char_1370"
     },
     "1371": {
-        "クローバーバッグに有効期限の近いアイテムがあります": ""
+        "クローバーバッグに有効期限の近いアイテムがあります": "There are Clover Bag items that are expiring soon."
     },
     "1372": {
-        "クローバーバッグに有効期限の切れたアイテムがあります": ""
+        "クローバーバッグに有効期限の切れたアイテムがあります": "There are Clover Bag items that have expired."
     },
     "1373": {
         "clarity_nt_char_1373": "clarity_nt_char_1373"
