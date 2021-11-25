@@ -147,10 +147,10 @@
         "<pipipi_mid>「季節限定の依頼書以外であれば|　１００ゴールドで　買い取りいたしますぞ！|　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>As long as it's not a seasonal request,|I'll buy it for 100 Gold. Which request|would you like to sell to me?<break>"
     },
     "50": {
-        "<pipipi_mid>「おやめになるのですな。|　他に　お売りいただける|　依頼書は　お持ちでありますか？<break>": ""
+        "<pipipi_mid>「おやめになるのですな。|　他に　お売りいただける|　依頼書は　お持ちでありますか？<break>": "<pipipi_mid>You're stopping? Do you have any other|request forms you want to sell?<break>"
     },
     "51": {
-        "依頼書クエストに　さそわれています！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "依頼書クエストに　さそわれています！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You received a Request Form Quest invitation!|Do you want to accept this quest?|<select>|Accept|Decline|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "52": {
         "<pipipi_mid>「ありがとうございますぞ　<pc>どの！|　それでは　１００ゴールド　お渡しいたします。<bw_break>": ""
