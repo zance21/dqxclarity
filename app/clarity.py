@@ -83,50 +83,51 @@ def get_latest_from_weblate():
     Downloads the latest zip file from the weblate branch and
     extracts the json files into the appropriate folder.
     '''
-    filename = os.path.join(os.getcwd(), 'weblate.zip')
-    url = 'https://github.com/jmctune/dqxclarity/archive/refs/heads/weblate.zip'
-
+    # clean up previous attempts
     try:
+        delete_file('weblate.zip')
+        delete_folder('temp')
+    except:
+        pass
+
+    # download zip from github
+    try:
+        url = 'https://github.com/jmctune/dqxclarity/archive/refs/heads/weblate.zip'
         github_request = requests.get(url)
-        with open(filename, 'wb') as zip_file:
-            zip_file.write(github_request.content)
+        with open('weblate.zip', 'wb') as weblate_zip:
+            weblate_zip.write(github_request.content)
     except requests.exceptions.RequestException as e:
         messageBoxFatalError('Failed to update!',
                             f'Failed to get latest files from weblate.\nMessage: {e}')
-    __delete_folder('json/_lang/en/dqxclarity-weblate')
-    __delete_folder('json/_lang/en/en')
 
-    with zipfile.ZipFile('weblate.zip') as archive:
-        for file in archive.namelist():
-            if file.startswith('dqxclarity-weblate/json/_lang/en'):
-                archive.extract(file, 'json/_lang/en/')
-                name = os.path.splitext(os.path.basename(file))
-                shutil.move(
-                    f'json/_lang/en/{file}',
-                    f'json/_lang/en/{name[0]}{name[1]}'
-                )
-            if file.startswith('dqxclarity-weblate/json/_lang/ja'):
-                archive.extract(file, 'json/_lang/ja/')
-                name = os.path.splitext(os.path.basename(file))
-                shutil.move(
-                    f'json/_lang/ja/{file}',
-                    f'json/_lang/ja/{name[0]}{name[1]}'
-                )
-            if file.startswith(f'dqxclarity-weblate/{HEX_DICT}'):
-                archive.extract(file, '.')
-                name = os.path.splitext(os.path.basename(file))
-                shutil.move(
-                    f'{file}',
-                    f'{name[0]}{name[1]}'
-                )
+    # unzip
+    with zipfile.ZipFile('weblate.zip', 'r') as zipObj:
+        zipObj.extractall('temp')
+        delete_file('weblate.zip')
 
-    __delete_folder('json/_lang/en/dqxclarity-weblate')
-    __delete_folder('json/_lang/en/en')
-    __delete_folder('json/_lang/ja/dqxclarity-weblate')
-    __delete_folder('json/_lang/ja/ja')
-    __delete_folder('hex/files/dqxclarity-weblate')
-    __delete_folder('dqxclarity-weblate')
-    os.remove('weblate.zip')
+    # make sure json folder exists
+    try:
+        os.makedirs('json/_lang/en')
+    except:
+        pass
+
+    # move json files
+    json_path = 'temp/dqxclarity-weblate/json/_lang/en'
+    json_files = os.listdir(json_path)
+    for file in json_files:
+        full_file_name = os.path.join(json_path, file)
+        if os.path.isfile(full_file_name):
+            shutil.copy(full_file_name, 'json/_lang/en')
+
+    # copy hex dict
+    hex_path = 'temp/dqxclarity-weblate/app/hex_dict.csv'
+    if os.path.isfile(hex_path):
+        shutil.copy(hex_path, os.getcwd())
+
+    # cleanup
+    delete_file('weblate.zip')
+    delete_folder('temp')
+
     logger.info('Now up to date!')
 
 def translate():
@@ -327,7 +328,7 @@ def dump_all_game_files():
     Searches for all INDX entries in memory and dumps
     the entire region, then converts said region to nested json.
     '''
-    __delete_folder('game_file_dumps')
+    delete_folder('game_file_dumps')
 
     directories = [
         'game_file_dumps/known/en',
@@ -520,10 +521,6 @@ def __format_to_json(json_data, data, lang, number):
 
     return json_data
 
-def __flatten(list_of_lists):
-    '''Takes a list of lists and flattens it into one list.'''
-    return [item for sublist in list_of_lists for item in sublist]
-
 def split_hex_into_spaces(hex_str: str):
     '''
     Breaks a string up by putting spaces between every two characters.
@@ -532,10 +529,16 @@ def split_hex_into_spaces(hex_str: str):
     spaced_str = " ".join(hex_str[i:i+2] for i in range(0, len(hex_str), 2))
     return spaced_str.upper()
 
-def __delete_folder(folder):
+def delete_folder(folder):
     '''Deletes a folder and all subfolders.'''
-    shutil.rmtree(folder, ignore_errors=True)
+    try:
+        shutil.rmtree(folder, ignore_errors=True)
+    except:
+        pass
 
-def __parse_filename_from_csv_result(csv_result):
-    '''Parse the filename from the supplied csv result.'''
-    return os.path.splitext(os.path.basename(csv_result[0]))[0].strip()
+def delete_file(file):
+    '''Deletes a file.'''
+    try:
+        Path(file).unlink()
+    except:
+        pass
