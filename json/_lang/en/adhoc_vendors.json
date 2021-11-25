@@ -813,7 +813,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "272": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "273": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -1095,10 +1095,10 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　素材屋で　結晶を取りだせるようですが|　本当に　売っても　よろしいのでしょうか？|<yesno 2><break>": "It seems that <%sL_URITAI_ITEM><%sL_PLUSNUM>|can be taken to the materials store for|crystals, but are you sure you want to sell|<br>|it?<yesno 2><break>"
     },
     "366": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "367": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "368": {
         "「どの説明を　聞くんだ？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
@@ -1401,13 +1401,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "468": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "469": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "470": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "471": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -1824,13 +1824,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "609": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "610": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "611": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "612": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -2358,13 +2358,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "787": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "788": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "789": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "790": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -3075,13 +3075,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "1026": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1027": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1028": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1029": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -3699,13 +3699,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "1234": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1235": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1236": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1237": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -5658,13 +5658,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "1887": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1888": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1889": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "1890": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -5994,13 +5994,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "1999": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2000": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2001": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2002": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -6330,13 +6330,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "2111": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2112": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2113": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2114": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -8196,13 +8196,13 @@
         "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
     },
     "2733": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2734": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2735": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2736": {
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
@@ -10707,13 +10707,13 @@
         "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": ""
     },
     "3570": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3571": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3572": {
-        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3573": {
         "「結晶を取りだすとは　お使いの装備品から|　職人仕事で使える新素材　汗と涙の結晶を|　取りだすことができる　サービスです。|<br>|「ただし　自分と同格以上の強さの魔物と|　繰り返し戦い　使い込んだ装備品でないと|　結晶を取りだすことは　できません。|<break>": "This is a service that allows you to retrieve|crystals from your equipment. However, you'll|only be able to get the crystals out of|<br>|equipment you've used to fight demons of|equal or greater strength.<break>"
