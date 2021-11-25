@@ -4629,7 +4629,7 @@
         "「他にも　結晶を取りだしたい装備品は|　あるか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1544": {
-        "「結晶の取りだしだな。|　どの装備品から　結晶を取りだすんだ？|<break>": ""
+        "「結晶の取りだしだな。|　どの装備品から　結晶を取りだすんだ？|<break>": "You're extracting crystals, right?|What piece of equipment are we extracting|crystals from?|<break>"
     },
     "1545": {
         "「他にも　結晶を取りだしたい装備品は|　ございますか？|<break>": "Are there any other pieces of equipment you'd|like to get crystals out of?<break>"
@@ -4659,7 +4659,7 @@
         "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1554": {
-        "「結晶の取りだしだね。|　どの装備品から　結晶を取りだすんだい？|<break>": ""
+        "「結晶の取りだしだね。|　どの装備品から　結晶を取りだすんだい？|<break>": "You're extracting crystals, right?|What piece of equipment are we extracting|crystals from?|<break>"
     },
     "1555": {
         "「他にも　結晶を取りだしたい装備品は|　ありますか？|<break>": "Are there any other pieces of equipment you'd|like to get crystals out of?<break>"
@@ -11097,7 +11097,7 @@
         "「結晶の取りだしだね。|　あと　<%nL_NUM2>回　装備品から　取りだせるが|　どの装備品から　結晶を取りだすんだい？|<break>": "How do I get crystals out of... There are|<%nL_NUM2> more times you can get crystals|out of equipment, but what equipment do you|<br>|get crystals out of?<break>"
     },
     "3700": {
-        "「結晶の取りだしだね。|　どの装備品から　結晶を取りだすんだい？|<break>": ""
+        "「結晶の取りだしだね。|　どの装備品から　結晶を取りだすんだい？|<break>": "You're extracting crystals, right?|What piece of equipment are we extracting|crystals from?|<break>"
     },
     "3701": {
         "「おや？　その装備品から　結晶を取りだすには|　まだ　使い込み度が　足りないだね。|<bw_break>": "Hmm? I don't think you've used your equipment|enough to get the crystals out of it.<bw_break>"
