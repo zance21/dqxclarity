@@ -267,7 +267,7 @@
         "チームが解散していたので 入れませんでした": "Could not join because the team was disbanded."
     },
     "90": {
-        "返事がいっぱいで 受け取れなかったナビがあります": ""
+        "返事がいっぱいで 受け取れなかったナビがあります": "You could not receive a notification because your inbox is full."
     },
     "91": {
         "clarity_nt_char_91": "clarity_nt_char_91"
@@ -885,7 +885,7 @@
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "296": {
-        "『<%sC_TEAM>』への入隊希望は期限切れです": ""
+        "『<%sC_TEAM>』への入隊希望は期限切れです": "Your request to join \"<%sC_TEAM>\" has expired."
     },
     "297": {
         "あと<%dC_M>分プレイをしない場合 この席から離れます": "You'll leave your seat after <%dC_M> m. of inactivity."
@@ -909,7 +909,7 @@
         "パーティ同盟のさそいを 断りました": "Declined the party alliance invite."
     },
     "304": {
-        "あと1分で スカウト中のモンスターが 去ります": ""
+        "あと1分で スカウト中のモンスターが 去ります": "The scouting monsters will leave in 1 minute."
     },
     "305": {
         "あと<%dC_TIMES>ゲーム ベットしない場合 この席から離れます": "If you don't bet in <%dC_TIMES> games, you will be removed."
