@@ -1425,7 +1425,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "476": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "477": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1443,7 +1443,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "482": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "483": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1461,7 +1461,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "488": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "489": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1479,7 +1479,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "494": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "495": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1497,7 +1497,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "500": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "501": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1515,7 +1515,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "506": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "507": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1851,7 +1851,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "618": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "619": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -2118,7 +2118,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "707": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "708": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -2385,7 +2385,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "796": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "797": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3102,7 +3102,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1035": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1036": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3414,7 +3414,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1139": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1140": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3726,7 +3726,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1243": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1244": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -4038,7 +4038,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1347": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1348": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -4350,7 +4350,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1451": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1452": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -5022,7 +5022,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1675": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1676": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -5694,7 +5694,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1899": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1900": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6030,7 +6030,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2011": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2012": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6366,7 +6366,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2123": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2124": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6702,7 +6702,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2235": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2236": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -7038,7 +7038,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2347": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2348": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -8232,7 +8232,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2745": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2746": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -10326,7 +10326,7 @@
         "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3443": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3444": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -10383,7 +10383,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "3462": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3463": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
@@ -10743,10 +10743,10 @@
         "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "We're only allowed to buy one per person per|day, so today...<bw_break>"
     },
     "3582": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3583": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3584": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -10803,7 +10803,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "3602": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3603": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
@@ -11163,10 +11163,10 @@
         "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "We're only allowed to buy one per person per|day, so today...<bw_break>"
     },
     "3722": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3723": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3724": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -11223,7 +11223,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "3742": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3743": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
@@ -13125,10 +13125,10 @@
         "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "We're only allowed to buy one per person per|day, so today...<bw_break>"
     },
     "4376": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "4377": {
-        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "4378": {
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -13185,7 +13185,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "4396": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "4397": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
