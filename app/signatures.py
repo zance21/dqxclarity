@@ -75,7 +75,21 @@ player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x48..\x01.......\x01[\xE3\xE4
 # 0 should be active loading screen, 1 should be inactive loading screen
 
 # WHEN WILL THIS CHANGE?
-# asdsad
+# Frequently. Sometimes on patches, sometimes not.
+# Notes:
+# 2000, 3000 = good / no loading
+# ++ B8 0B  == 3000
+# ++ D0 07  == 2000
+# >>>> if no match, unload hooks and look for cutscene bytes
+
+# 1000, 500, 100 = bad / cutscene / loading
+# ++ E8 03  == 1000
+# ++ F4 01  == 500
+# ++ 64 00  == 100
+
+# 07, 11 = good / no loading
+# 01, 03 = bad / cutscene / loading
+# 00 = login screen
 loading_screen_active = 0x01F15468  # DQXGame.exe+01F15468
 loading_screen_offsets = [0x18, 0x20]
 
