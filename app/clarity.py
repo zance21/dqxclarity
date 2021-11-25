@@ -181,9 +181,10 @@ def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
         Path('new_adhoc_dumps/en').mkdir(parents=True, exist_ok=True)
         Path('new_adhoc_dumps/ja').mkdir(parents=True, exist_ok=True)
 
-        new_csv = Path('new_adhoc_dumps/new_hex_dict.csv')
+        csv_path = 'new_adhoc_dumps/new_hex_dict.csv'
+        new_csv = Path(csv_path)
         if new_csv.is_file():
-            csv_result = query_csv(hex_result)
+            csv_result = query_csv(hex_result, csv_path)
             if csv_result:  # if we have an entry, don't make another one
                 results['file'] = None
                 return results
@@ -487,8 +488,8 @@ def check_for_updates():
   
     return
 
-def query_csv(hex_pattern) -> dict:
-    with open('hex_dict.csv') as file:
+def query_csv(hex_pattern, hex_dict='hex_dict.csv') -> dict:
+    with open(hex_dict) as file:
         reader = csv.DictReader(file)
         return_dict = dict()
         for row in reader:
