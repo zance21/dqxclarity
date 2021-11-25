@@ -288,10 +288,10 @@
         "「オーケー！　今は　やめとくんだな。 |　やりたくなったら　また　声をかけてくれ。": ""
     },
     "97": {
-        "今は　このクエストの行き先を|表示できません。 ": ""
+        "今は　このクエストの行き先を|表示できません。 ": "This quest's destination cannot be displayed|right now."
     },
     "98": {
-        "このクエストの行き先には|まだ　行ったことがないので|行き先を表示することが　できません。 ": ""
+        "このクエストの行き先には|まだ　行ったことがないので|行き先を表示することが　できません。 ": "Since you haven't been to this quest's|destination yet, it cannot be displayed."
     },
     "99": {
         "アナザーモードの　<%sC_Kaisou>では|特別なクリア報酬が手に入り　クリア後には|アナザーモードのクリア状態がリセットされます。|<br>|リセット後に　ふたたび　アナザーモードの|地下１階から　地下13階までをクリアすれば|何度でもクリア報酬を手に入れることが可能です。|<br>|<%sC_Kaisou>に　行ってよろしいですか？<yesno><close>": "In <%sC_Kaisou>'s Another Mode, you'll get|a special clear reward. After completely|clearing, Another Mode will reset itself.|<br>|You can receive this reward as many times|as you like after resetting and clearing|B1F to B13F again.|<br>|Do you want to go to <%sC_Kaisou>?<yesno><close>"
