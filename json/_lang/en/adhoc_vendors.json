@@ -1428,7 +1428,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "477": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "478": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -1446,7 +1446,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "483": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "484": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
@@ -1464,7 +1464,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "489": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "490": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -1482,7 +1482,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "495": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "496": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -1500,7 +1500,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "501": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "502": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -1518,7 +1518,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "507": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "508": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -1854,7 +1854,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "619": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "620": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -2121,7 +2121,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "708": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "709": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -2388,7 +2388,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "797": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "798": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
@@ -3105,7 +3105,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1036": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1037": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
@@ -3417,7 +3417,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1140": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1141": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -3729,7 +3729,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1244": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1245": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -4041,7 +4041,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1348": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1349": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -4353,7 +4353,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1452": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1453": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -5025,7 +5025,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1676": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1677": {
         "clarity_nt_char_1677": "clarity_nt_char_1677"
@@ -5697,7 +5697,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1900": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1901": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -6033,7 +6033,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2012": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2013": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
@@ -6369,7 +6369,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2124": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2125": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -6705,7 +6705,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2236": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2237": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -7041,7 +7041,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2348": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2349": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
@@ -8235,7 +8235,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2746": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2747": {
         "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Purchasing| Team Purchasing Department (listen to the explanation)| (Temporary text)|<bw_break>"
@@ -10329,7 +10329,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3444": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3445": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -10749,7 +10749,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3584": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3585": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -11169,7 +11169,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3724": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3725": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": ""
@@ -13131,7 +13131,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Explanation|<select_end><break>"
     },
     "4378": {
-        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "4379": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
