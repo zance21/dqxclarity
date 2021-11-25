@@ -1422,7 +1422,7 @@
         "「これは　装備すれば|　戦いのときに　どうぐとして使っても|　効果がある物ですね。|<bw_break>": "It's an item that, when equipped, can be used|as a weapon in battle...<bw_break>"
     },
     "475": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "476": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1440,7 +1440,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "481": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "482": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1458,7 +1458,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "487": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "488": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1476,7 +1476,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "493": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "494": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1494,7 +1494,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
     },
     "499": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "500": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1512,7 +1512,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
     },
     "505": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "506": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -1848,7 +1848,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "617": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "618": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -2115,7 +2115,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "706": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "707": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -2382,7 +2382,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "795": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "796": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -2634,7 +2634,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "879": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "880": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2655,7 +2655,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "886": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "887": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2676,7 +2676,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "893": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "894": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2697,7 +2697,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "900": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "901": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2718,7 +2718,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "907": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "908": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2739,7 +2739,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "914": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "915": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2760,7 +2760,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "921": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "922": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2781,7 +2781,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "928": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "929": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -2802,7 +2802,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "935": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "936": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -3006,7 +3006,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<select_end><break>"
     },
     "1003": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1004": {
         "「オレの店じゃ　職業専用装備なんかの|　少々変わった物を扱ってるぜ。|<br>|「ただし　その中でも　売ってやれるのは|　今までに　お前さんが|　手に入れたことのある　どうぐや装備だけだ。|<br>|「身に余る装備は　身を滅ぼす……必ずな。|　だから当然　ここで買った装備は|　他人に渡せないように　させてもらう。|<br>|「それでも良ければ　売ってやるよ。|　お代は　安くしとくぜ……へへっ。|<bw_break>": "My shop sells a few oddities, like|specialized gear. But I can only sell you|gear and equipment you've acquired before...|<br>|Too much gear can ruin you. ...... So,|naturally, I'll make sure that you can't give|any of the gear you buy here to anyone|<br>|else... If you want, you can sell it... We'll|give you a discount. ......<bw_break>"
@@ -3099,7 +3099,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "1034": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1035": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3318,7 +3318,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1107": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1108": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -3411,7 +3411,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "1138": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1139": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3630,7 +3630,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1211": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1212": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -3723,7 +3723,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "1242": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1243": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -3942,7 +3942,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1315": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1316": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -4035,7 +4035,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "1346": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1347": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -4254,7 +4254,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1419": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1420": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -4347,7 +4347,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "1450": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1451": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -5019,7 +5019,7 @@
         "clarity_nt_char_1673": "clarity_nt_char_1673"
     },
     "1674": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1675": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -5580,7 +5580,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1861": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1862": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -5691,7 +5691,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "1898": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1899": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -5916,7 +5916,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "1973": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1974": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -6027,7 +6027,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "2010": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2011": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6252,7 +6252,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "2085": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2086": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -6363,7 +6363,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "2122": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2123": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6588,7 +6588,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "2197": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2198": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -6699,7 +6699,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "2234": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2235": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -6924,7 +6924,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<select_end><break>"
     },
     "2309": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2310": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -7035,7 +7035,7 @@
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「<%sL_TEAM>所属の　<pc>さま|　お売りできる品が　追加されましたので|　ぜひ　見ていってください！|<br>|「本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|Here, we sell items that can't be bought|anywhere else to those who belong to our|<br>|team... <%sL_TEAM> who belong to<pc> Ladies and gentlemen, we've added some new|items for sale, so please take a look! How|may I help you today?<break>"
     },
     "2346": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2347": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -8118,7 +8118,7 @@
         "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<%sL_LIST_NAME_2>|<%sL_LIST_NAME_3>|<%sL_LIST_NAME_4>|<%sL_LIST_NAME_5>|<%sL_LIST_NAME_6>|<%sL_LIST_NAME_7>|<%sL_LIST_NAME_8>|<select_end><break>"
     },
     "2707": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2708": {
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
@@ -8229,7 +8229,7 @@
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
     },
     "2744": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2745": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
@@ -9501,7 +9501,7 @@
         "clarity_nt_char_3167": "clarity_nt_char_3167"
     },
     "3168": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3169": {
         "clarity_nt_char_3169": "clarity_nt_char_3169"
@@ -10323,7 +10323,7 @@
         "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "We're only allowed to buy one per person per|day, so today...<bw_break>"
     },
     "3442": {
-        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3443": {
         "<select_se_off 2>|買いにきた|売りにきた|説明を聞く|<select_end><break>": ""
