@@ -96,7 +96,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "33": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "34": {
         "「じゃあ　そうびぶくろの中に|　入れておくぜ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
@@ -213,7 +213,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "72": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "73": {
         "「じゃあ　そうびぶくろの中に|　入れておくよ。|<bw_break>": "Then put him in the sash bag...<bw_break>"
@@ -330,7 +330,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "111": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "112": {
         "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
@@ -447,7 +447,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "150": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "151": {
         "「では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "I'll put you in the sobekuro...<bw_break>"
@@ -729,7 +729,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "244": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "245": {
         "「では　そうびぶくろの中に|　入れておきますねっ。|<bw_break>": "Now, I'm going to put you in my sash bag...<bw_break>"
@@ -1326,7 +1326,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "443": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "444": {
         "「<%sL_KAITAI_ITEM>ですね。|　これは　<%sL_SYOKUNIN>さんしか|　扱えないレシピですが　それでも買いますか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|only <%sL_SYOKUNIN> can handle, but would you|still buy it?<yesno 2><break>"
@@ -1749,7 +1749,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "584": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "585": {
         "「<%sL_KAITAI_ITEM>　ひとつ入りましたー。|　これって　<%sL_SYOKUNIN>じゃないと|　扱えないレシピですけど　オッケーっすか？|<yesno 2><break>": "<%sL_KAITAI_ITEM> I've got one... This is a|recipe that can only be used with|<%sL_SYOKUNIN>, is that OK?<yesno 2><break>"
@@ -2016,7 +2016,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "673": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "674": {
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be handled by <%sL_SYOKUNIN>, is|that correct?<yesno 2><break>"
@@ -2283,7 +2283,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "762": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "763": {
         "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　扱えないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITE... This is a recipe that can|only be handled by <%sL_SYOKUNIN>, is that|right?<yesno 2><break>"
@@ -2970,7 +2970,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "991": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "992": {
         "「<%sL_KAITAI_ITEM>か。|　コイツは　<%sL_SYOKUNIN>以外じゃ|　扱えないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITE... This is a recipe that can|only be handled by <%sL_SYOKUNIN>, is that|right?<yesno 2><break>"
@@ -3282,7 +3282,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1095": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1096": {
         "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>で|　扱えないレシピだが　それでもいいのか？|<yesno 2><break>": "<%sL_KAITAI_ITEM... This is a recipe that|can't be handled by <%sL_SYOKUNIN>, is that|okay?<yesno 2><break>"
@@ -3594,7 +3594,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1199": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1200": {
         "「<%sL_KAITAI_ITEM>デスネ。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　それでも買いマスカ？|<yesno 2><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be used with <%sL_SYOKUNIN>.<yesno 2><break>"
@@ -3906,7 +3906,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1303": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1304": {
         "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>で|　扱えないレシピだが　それでもいいのか？|<yesno 2><break>": "<%sL_KAITAI_ITEM... This is a recipe that|can't be handled by <%sL_SYOKUNIN>, is that|okay?<yesno 2><break>"
@@ -4218,7 +4218,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1407": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1408": {
         "「<%sL_KAITAI_ITEM>だな。|　これは　<%sL_SYOKUNIN>で|　扱えないレシピだが　それでもいいのか？|<yesno 2><break>": "<%sL_KAITAI_ITEM... This is a recipe that|can't be handled by <%sL_SYOKUNIN>, is that|okay?<yesno 2><break>"
@@ -4872,7 +4872,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1625": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1626": {
         "clarity_nt_char_1626": "clarity_nt_char_1626"
@@ -5544,7 +5544,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1849": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1850": {
         "「<%sL_KAITAI_ITEM>ね？|　これは　<%sL_SYOKUNIN>でないと|　扱えないレシピですけど　よろしくて？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? This is a recipe|that can only be used with <%sL_SYOKUNIN>.<yesno 2><break>"
@@ -5880,7 +5880,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1961": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "1962": {
         "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　扱えないレシピだが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITE... This is a recipe that can|only be handled by <%sL_SYOKUNIN>, is that|right?<yesno 2><break>"
@@ -6216,7 +6216,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2073": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "2074": {
         "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　扱えないレシピだけど　いいかい？|<yesno 2><break>": "<%sL_KAITAI_ITEM>, right? This is a recipe|that can only be used with <%sL_SYOKUNIN>,|okay?<yesno 2><break>"
@@ -6552,7 +6552,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2185": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "2186": {
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be handled by <%sL_SYOKUNIN>, is|that correct?<yesno 2><break>"
@@ -6888,7 +6888,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2297": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "2298": {
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　扱えないレシピですが　よろしいですか？|<yesno 2><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be handled by <%sL_SYOKUNIN>, is|that correct?<yesno 2><break>"
@@ -10086,7 +10086,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3363": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "3364": {
         "「<%sL_KAITAI_ITEM>ですねっ。|　<%nL_BUY_PRICE>ゴールドになりますが|　よろしいですか？|<yesno><break>": "In <%sL_KAITAI_ITEM>... <%nL_BUY_PRICE>Gold,|if you don't mind.<yesno><break>"
@@ -10506,7 +10506,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3503": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "3504": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだみゃー。|　これを　買うんだみゃ？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%nL_BUY_PRICE> gold...|Is this what you're buying?<yesno><break>"
@@ -10926,7 +10926,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3643": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "3644": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだモ。|　これを　買うかモ？|<yesno><break>": "<%sL_KAITAI_ITEM> is the <%nL_BUY_PRICE>|goal... Do you want to buy this, Mo?<yesno><break>"
@@ -12885,7 +12885,7 @@
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "4296": {
-        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": "<select_se_off 2>|Buy|Sell|<select_end><break>"
     },
     "4297": {
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドよ。|　それで　いいかしら？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%nL_BUY_PRICE>go... Is|that okay?<yesno><break>"
