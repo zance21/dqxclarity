@@ -903,7 +903,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "302": {
-        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "303": {
         "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": "The closer you get to 100, the more crystals|you're gonna get. There's almost double the|difference between 50 and 100. Also, the|<br>|higher the equipable level of an item, the|more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you'll be able to|retrieve. If you have no alchemical effects,|the number of crystals you can retrieve will|<br>|be the same, even if your workmanship is|high. If you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get.|The number of times you can take crystals out|of equipment is limited to 10 per day. Any|<br>|crystals not retrieved that day will be|carried over to the next day, but the maximum|number of times you can carry over is 250. We|<br>|apologize for any inconvenience this may|cause, and ask for your cooperation...<bw_break>"
@@ -1113,10 +1113,10 @@
         "どの説明を　聞くんだい？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "372": {
-        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 2>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "373": {
-        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "374": {
         "「どれについて　説明しましょうか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which one do you want me to explain?|<select_se_off 2>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -6666,13 +6666,13 @@
         "「おや？　かばんの中に|　結晶を取りだせる装備品は　ありませんね。|<bw_break>": "Hmm? I don't see any equipment in your bag|that would allow you to retrieve the|crystals.<bw_break>"
     },
     "2223": {
-        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2224": {
-        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 2>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2225": {
-        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "2226": {
         "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせます。|　５０と１００では　倍近くの差がありますよ。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<br>|「なお　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。|<bw_break>": "The closer you get to 100, the more crystals|you're gonna get. There's almost double the|difference between 50 and 100. Also, the|<br>|higher the equipable level of an item, the|more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you'll be able to|retrieve. If you have no alchemical effects,|the number of crystals you can retrieve will|<br>|be the same, even if your workmanship is|high. If you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get.|The number of times you can take crystals out|of equipment is limited to 10 per day. Any|<br>|crystals not retrieved that day will be|carried over to the next day, but the maximum|number of times you can carry over is 250. We|<br>|apologize for any inconvenience this may|cause, and ask for your cooperation...<bw_break>"
@@ -10287,13 +10287,13 @@
         "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "I can get the crystals out of the equipment|<%nL_NUM2> times, but is there any other|equipment you'd like to get the crystals out|<br>|of?<break>"
     },
     "3430": {
-        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3431": {
-        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 2>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3432": {
-        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3433": {
         "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": ""
