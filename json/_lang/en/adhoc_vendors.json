@@ -843,7 +843,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "282": {
-        "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞くんだ？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "283": {
         "「使い込み度が　１００に近ければ近いほど|　多くの結晶を取りだせる。|　５０と１００では　倍近くの差がある。|<br>|「また　装備品の　装備可能レベルが高いほど|　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなるな。|<br>|「ついている錬金効果が　よいものであれば|　取りだせる結晶は　さらに増えるだろう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わらない。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　得になる。|<br>|「ちなみに　装備品から　結晶を取りだす回数は|　１日あたり　１０回までとさせてもらう。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されるが|　持ち越しは　最大で　２５０回までだ。|<bw_break>": "The closer you get to 100, the more crystals|you'll take. The difference between 50 and|100 is almost double. Also, the higher the|<br>|equipable level of an item, the more|alchemical effects it has, the more crystals|you can retrieve. The better the alchemy, the|<br>|more crystals you can retrieve. If you have|no alchemical effects, the number of crystals|you can retrieve remains the same, even if|<br>|your workmanship is high... If you want to|get crystals out of equipment, you'd better|add alchemy to it to increase the number of|<br>|crystals you can get. By the way, you can|only take crystals out of equipment 10 times|per day. The amount of crystals you don't|<br>|take out that day will be carried over to the|next day, but you can only take out a maximum|of 250...<bw_break>"
@@ -1101,10 +1101,10 @@
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "368": {
-        "「どの説明を　聞くんだ？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞くんだ？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 2>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "369": {
-        "「どの説明を　聞くんだ？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
+        "「どの説明を　聞くんだ？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "370": {
         "どの説明を　聞くんだい？|<select_se_off 2>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": ""
