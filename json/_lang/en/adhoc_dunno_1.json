@@ -153,7 +153,7 @@
         "依頼書クエストに　さそわれています！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "You received a Request Form Quest invitation!|Do you want to accept this quest?|<select>|Accept|Decline|<select_end>|<case 1>|<break>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "52": {
-        "<pipipi_mid>「ありがとうございますぞ　<pc>どの！|　それでは　１００ゴールド　お渡しいたします。<bw_break>": ""
+        "<pipipi_mid>「ありがとうございますぞ　<pc>どの！|　それでは　１００ゴールド　お渡しいたします。<bw_break>": "<pipipi_mid>Thank you very much, <if_woman>Ms.<else>Mr.<endif> <pc>!|Here is your 100 Gold.<bw_break>"
     },
     "53": {
         "相手が　カササギに話しかけるのを|待っています。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
