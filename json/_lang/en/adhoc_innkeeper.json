@@ -1,18 +1,18 @@
 {
     "1": {
-        "「旅人の宿屋へ　ようこそ。|　<%nL_YADOYA_GOLD>ゴールドに　なりますが|　お休みになりますか？|<yesno><break>": "To the Innkeeper's Inn. Hello...|<%nL_YADOYA_GOLD>It's going to be|gold.|<br><yesno><break>"
+        "「旅人の宿屋へ　ようこそ。|　<%nL_YADOYA_GOLD>ゴールドに　なりますが|　お休みになりますか？|<yesno><break>": "Welcome to the traveler's lodging.|It's going to be <%dL_YADOYA_GOLD> gold to stay|the night.|<yesno><break>"
     },
     "2": {
         "「残念ですが|　お金が　足りないようです。<bw_break>": "I'm sorry, but I don't have enough money|to...<bw_break>"
     },
     "3": {
-        "「おはようございます。|　よく　お休みでしたね。|　では　いってらっしゃいませ。<turn_end>": "Good morning... Good night... See you|later...<turn_end>"
+        "「おはようございます。|　よく　お休みでしたね。|　では　いってらっしゃいませ。<turn_end>": "Good morning. I hope you had|a good night's rest.|We hope to see you soon.<turn_end>"
     },
     "4": {
-        "「お客さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you...|Please, take a good night's sleep."
+        "「お客さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you.|Have a good night's sleep."
     },
     "5": {
-        "「皆さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you... Please|take a good night's sleep..."
+        "「皆さまのために|　ふかふかの布団を　ご用意いたしました。|　どうぞ　ごゆっくり　お休みください。": "We've prepared a soft futon for you.|Have a good night's sleep."
     },
     "6": {
         "「さようなら　旅の人。|　また　お立ち寄りください。<turn_end>": "Goodbye... Please stop by again...<turn_end>"
