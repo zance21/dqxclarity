@@ -5700,10 +5700,10 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1901": {
-        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team School Shop| Team School Shop (Explanation)| (Temporary text)|<bw_break>"
+        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "1902": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "1903": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
@@ -6039,7 +6039,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
     },
     "2014": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2015": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
@@ -6372,10 +6372,10 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2125": {
-        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team School Shop| Team School Shop (Explanation)| (Temporary text)|<bw_break>"
+        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "2126": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2127": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
@@ -8238,10 +8238,10 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2747": {
-        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team School Shop| Team School Shop (Explanation)| (Temporary text)|<bw_break>"
+        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "2748": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "2749": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
@@ -10332,10 +10332,10 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3445": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "3446": {
-        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team School Shop| Team School Shop (Explanation)| (Temporary text)|<bw_break>"
+        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "3447": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
@@ -10752,7 +10752,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3585": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "3586": {
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
@@ -11172,10 +11172,10 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "3725": {
-        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team School Shop!|Team School Shop explanation (first time)|(Temporary text)|<bw_break>"
+        "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "3726": {
-        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team School Shop| Team School Shop (Explanation)| (Temporary text)|<bw_break>"
+        "「チーム購買部とは　ほげほげで|　チーム購買部の説明（説明を聞く）|　（仮テキスト）|<bw_break>": "Team Buying Shop| Team Buying Shop (Explanation)| (Temporary text)|<bw_break>"
     },
     "3727": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Purchasing... Description of|Team Purchasing Department (Unattached Team)|(Temporary Text)<bw_break>"
