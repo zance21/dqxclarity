@@ -1398,7 +1398,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "467": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "468": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -1821,7 +1821,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "608": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "609": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -2355,7 +2355,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "786": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "787": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -3072,7 +3072,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1025": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "1026": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -3696,7 +3696,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1233": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "1234": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -5655,7 +5655,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1886": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "1887": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -5991,7 +5991,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1998": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "1999": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -6327,7 +6327,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2110": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "2111": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -8193,7 +8193,7 @@
         "<select_se_off>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2732": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "2733": {
         "<select_se_off>|結晶を取りだすとは？|使い込み度について|取りだせる結晶の数|<select_end><break>": "<select_se_off>|About Extract Crystals|About Usage|Number of Crystals Extracted|<select_end><break>"
@@ -10725,7 +10725,7 @@
         "「装備品の　装備可能レベルが高いほど|　また　錬金効果が　たくさんついているほど|　取りだせる結晶の数は　多くなります。|<br>|「ついている錬金効果が　良いものであれば|　取りだせる結晶は　さらに増えるでしょう。|<br>|「できのよさが　高くても|　錬金効果がついていなければ|　取りだせる結晶の数は　変わりません。|<br>|「結晶を取りだしたい　装備品には|　積極的に　錬金効果をつけていったほうが|　取りだせる結晶の数が増えて　お得ですよ。|<break>": "The higher the equipable level of an item and|the more alchemical effects it has, the more|crystals you can retrieve. The better the|<br>|alchemy, the more crystals you can retrieve.|If you have no alchemical effects, the number|of crystals you can retrieve will be the|<br>|same, even if your workmanship is high. If|you want to get crystals out of your|equipment, you'd better add alchemy to it to|<br>|increase the number of crystals you can get|out.<break>"
     },
     "3576": {
-        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": ""
+        "「おや　かばんの中に|　結晶を取り出せる物は　ありませんね。|<bw_break>": "Oh, I don't see anything in your bag that you|can extract crystals from.|<bw_break>"
     },
     "3577": {
         "「確かに　結晶を取りださせていただきました。|<bw_break>": "Sure. Let me get the crystals out of the...<bw_break>"
