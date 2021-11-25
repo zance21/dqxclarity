@@ -5541,7 +5541,7 @@
         "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようですけれど|　よろしくて？|<yesno 2><break>": "I see you've already read <%sL_KAITAI_ITEM>,|how do you do?<yesno 2><break>"
     },
     "1848": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1849": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -5877,7 +5877,7 @@
         "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno 2><break>": "I see you've already read <%sL_KAITAI_ITEM>,|is that okay?<yesno 2><break>"
     },
     "1960": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "1961": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -6213,7 +6213,7 @@
         "「<%sL_KAITAI_ITEM>は|　もう読んだことがあるようだけど　いいのかい？|<yesno 2><break>": "I see you've already read <%sL_KAITAI_ITEM>,|is that ok?<yesno 2><break>"
     },
     "2072": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2073": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -6549,7 +6549,7 @@
         "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno 2><break>"
     },
     "2184": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2185": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -6885,7 +6885,7 @@
         "「<%sL_KAITAI_ITEM>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno 2><break>": "I see you've already read <%sL_KAITAI_ITEM>,|if that's all right.<yesno 2><break>"
     },
     "2296": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2297": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -8769,7 +8769,7 @@
         "★不要テキスト８０|　このテキストが表示される場合|　バグとして扱ってください。": "Unnecessary Text 80 If you see this text,|please treat it as a bug..."
     },
     "2924": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "2925": {
         "<select_se_off>|作りにきた|売りにきた|<select_end><break>": ""
@@ -10083,7 +10083,7 @@
         "「いらっしゃいませ！|　こちらは　<%sL_SHOP_KIND>ですっ。|　今日は　どんなご用事ですか？|<break>": "Welcome! This is <%sL_SHOP_KIND>... What can|I do for you today?<break>"
     },
     "3362": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3363": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -10503,7 +10503,7 @@
         "「いらっしゃいませだみゃー。|　花火で　新年をドーンと　盛り上げてちょーよ！|　たーんと　買ってってちょーでゃぁ。|<break>": "Welcome... Let's ring in the new year with|fireworks! Please buy a lot of them...<break>"
     },
     "3502": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3503": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -10923,7 +10923,7 @@
         "「いらっしゃい。|　ここは　福袋屋だモ。|<break>": "Welcome to... This is Fukubukuro...<break>"
     },
     "3642": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "3643": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
@@ -12882,7 +12882,7 @@
         "「食材屋へ　ようこそ。|　何か　ほしい物はあるかしら？|<break>": "Grocery store. Hey. Is there anything I can|get you?<break>"
     },
     "4295": {
-        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": ""
+        "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
     },
     "4296": {
         "<select_se_off 2>|買いにきた|売りにきた|<select_end><break>": ""
