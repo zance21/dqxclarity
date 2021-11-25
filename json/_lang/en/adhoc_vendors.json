@@ -1140,7 +1140,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "381": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "382": {
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
@@ -1149,7 +1149,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "384": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "385": {
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
@@ -1158,7 +1158,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "387": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "388": {
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
@@ -1167,7 +1167,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "390": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "391": {
         "「うちは　1人1日1個しか買えない決まりだから|　今日はおしまい。|<bw_break>": "We're only allowed to buy one per person per|day, so today...<bw_break>"
@@ -2085,7 +2085,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "696": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "697": {
         "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "What? Sir, I don't believe you have the|equipment to remove the crystals.<bw_break>"
@@ -3381,7 +3381,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1128": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1129": {
         "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? Sir, I don't believe you have the|equipment to remove the crystals.<bw_break>"
@@ -4005,7 +4005,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1336": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1337": {
         "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? Sir, I don't believe you have the|equipment to remove the crystals.<bw_break>"
@@ -4317,7 +4317,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1440": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1441": {
         "「おや？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "Hmm? Sir, I don't believe you have the|equipment to remove the crystals.<bw_break>"
@@ -6660,7 +6660,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2221": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2222": {
         "「おや？　かばんの中に|　結晶を取りだせる装備品は　ありませんね。|<bw_break>": "Hmm? I don't see any equipment in your bag|that would allow you to retrieve the|crystals.<bw_break>"
@@ -6996,7 +6996,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2333": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2334": {
         "「あら？　お客さま|　結晶を取りだせる装備品を|　お持ちでないようですね。|<bw_break>": "What? Sir, I don't believe you have the|equipment to remove the crystals.<bw_break>"
@@ -10251,7 +10251,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3418": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3419": {
         "「結晶の取りだしですね！|　あと　<%nL_NUM2>回　装備品から　取りだせますが|　どの装備品から　結晶を取りだしますか？|<break>": "Crystal retrieval! There are <%nL_NUM2> times|you can get crystals out of equipment, but|which equipment do you want to get crystals|<br>|out of?<break>"
@@ -11091,7 +11091,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3698": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3699": {
         "「結晶の取りだしだね。|　あと　<%nL_NUM2>回　装備品から　取りだせるが|　どの装備品から　結晶を取りだすんだい？|<break>": "How do I get crystals out of... There are|<%nL_NUM2> more times you can get crystals|out of equipment, but what equipment do you|<br>|get crystals out of?<break>"
@@ -13050,7 +13050,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "4351": {
-        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "4352": {
         "「結晶の取りだしだね。|　あと　<%nL_NUM2>回　装備品から　取りだせるが|　どの装備品から　結晶を取りだすんだい？|<break>": "How do I get crystals out of... There are|<%nL_NUM2> more times you can get crystals|out of equipment, but what equipment do you|<br>|get crystals out of?<break>"
