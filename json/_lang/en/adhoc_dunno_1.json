@@ -114,13 +114,13 @@
         "？？？？？？？？？？？？": "????????????"
     },
     "39": {
-        "仲間全員の　準備が完了するまで|待っています。": ""
+        "仲間全員の　準備が完了するまで|待っています。": "Waiting for all party members to be ready."
     },
     "40": {
-        "依頼書クエストの　さそいが|タイムアウトで取り消されたため|受注できませんでした。": ""
+        "依頼書クエストの　さそいが|タイムアウトで取り消されたため|受注できませんでした。": "Request form quest couldn't be accepted due|to a timeout, and was cancelled."
     },
     "41": {
-        "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。<me 74><auto_bw=3000><close>": ""
+        "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。<me 74><auto_bw=3000><close>": "Request Form Quest|\"<%sQUE_IRAISYA>'s Request!\" was accepted.<me 74><auto_bw=3000><close>"
     },
     "42": {
         "依頼書クエストは　これ以上　受けられません！|せんれきコマンドの　クエストリストから|依頼書クエストを　キャンセルしてください。": ""
