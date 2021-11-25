@@ -1146,7 +1146,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "383": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "384": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -1155,7 +1155,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "386": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "387": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -1164,7 +1164,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "389": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "390": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -2082,7 +2082,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "695": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "696": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -3378,7 +3378,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1127": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1128": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -4002,7 +4002,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1335": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1336": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -4314,7 +4314,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1439": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "1440": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6657,7 +6657,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2220": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2221": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -6993,7 +6993,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2332": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "2333": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -10248,7 +10248,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3417": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3418": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -11088,7 +11088,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3697": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "3698": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
@@ -13047,7 +13047,7 @@
         "<select_se_off 2>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 2>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "4350": {
-        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
+        "<select_se_off 3>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Extract Crystals|Explanation|<select_end><break>"
     },
     "4351": {
         "<select_se_off 4>|買いにきた|売りにきた|結晶を取りだす|説明を聞く|<select_end><break>": ""
