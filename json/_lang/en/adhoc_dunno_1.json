@@ -282,10 +282,10 @@
         "「パーティを組んでいる　仲間がいるようだな。|　仲間と一緒に　釣りチャレンジをしたいなら|　パーティ全員の準備を　完了させてくれ。": "It seems there are members in your party. If|you want to play the fishing challenge with|your party, all members must be ready."
     },
     "95": {
-        "仲間がそろうのを　待っています……。|<select>|仲間の準備完了を待つ|釣りチャレンジをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "仲間がそろうのを　待っています……。|<select>|仲間の準備完了を待つ|釣りチャレンジをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "Waiting for party members to accept...|<select>|Wait for Party|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "96": {
-        "「オーケー！　今は　やめとくんだな。 |　やりたくなったら　また　声をかけてくれ。": ""
+        "「オーケー！　今は　やめとくんだな。 |　やりたくなったら　また　声をかけてくれ。": "Oh-kay! I'll stop now. If you change your|mind, please come to me again."
     },
     "97": {
         "今は　このクエストの行き先を|表示できません。 ": "This quest's destination cannot be displayed|right now."
