@@ -1053,10 +1053,10 @@
         "「他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "352": {
-        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるか？|<break>": ""
+        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるか？|<break>": "I can extract crystals from the equipment|<%nL_NUM2> times, but is there any other equipment|you'd like to extract crystals from?|<break>"
     },
     "353": {
-        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
+        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": "I can extract crystals from the equipment|<%nL_NUM2> times, but is there any other equipment|you'd like to extract crystals from?|<break>"
     },
     "354": {
         "「あと　<%nL_NUM2>回　装備品から　取りだせますが|　他に　結晶を取りだしたい装備品は|　ありますか？|<break>": "I can extract crystals from the equipment|<%nL_NUM2> times, but is there any other equipment|you would like to extract crystals from?|<break>"
@@ -11124,7 +11124,7 @@
         "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
     },
     "3709": {
-        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
+        "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": "I can extract crystals from the equipment|<%nL_NUM2> times, but is there any other equipment|you'd like to extract crystals from?|<break>"
     },
     "3710": {
         "「どの説明を　聞くんだい？|<select_se_off>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
