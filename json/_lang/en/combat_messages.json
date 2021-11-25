@@ -354,7 +354,7 @@
         "<%dB_VALUE>+<%dB_VALUE2>(強敵ボーナス) Pの経験値を かくとく！": "<%dB_VALUE>+<%dB_VALUE2> (Strong Enemy Bonus) EXP received!"
     },
     "119": {
-        "<%sB_ITEM>の 使い込み度が 100になった！": "<%sB_ITEM> is now at 100 quality!"
+        "<%sB_ITEM>の 使い込み度が 100になった！": "<%sB_ITEM> is now at 100 usage!"
     },
     "120": {
         "討伐報酬(紫色の宝箱)を かくとく！": "Take the purple treasure chest as a reward!"
@@ -879,13 +879,13 @@
         "clarity_nt_char_293": "clarity_nt_char_293"
     },
     "294": {
-        "<%sB_ITEM>の 使い込み度が あがって <%dB_VALUE>になった！": "The quality of <%sB_ITEM> has increased to <%dB_VALUE>!"
+        "<%sB_ITEM>の 使い込み度が あがって <%dB_VALUE>になった！": "The usage of <%sB_ITEM> has increased to <%dB_VALUE>!"
     },
     "295": {
         "clarity_nt_char_295": "clarity_nt_char_295"
     },
     "296": {
-        "<%sB_ITEM>の 使い込み度が 最大値になった！": "The quality of <%sB_ITEM> has reached its maximum!"
+        "<%sB_ITEM>の 使い込み度が 最大値になった！": "The usage of <%sB_ITEM> has reached its maximum!"
     },
     "297": {
         "　→ベストスマイルボーナス +<%dB_VALUE> P": "　→Best Smile Bonus +<%dB_VALUE> EXP"
@@ -1719,7 +1719,7 @@
         "clarity_nt_char_573": "clarity_nt_char_573"
     },
     "574": {
-        "<%sB_ITEM>の|使い込み度が　１００になった！": "<%sB_ITEM>|is now at 100 quality!"
+        "<%sB_ITEM>の|使い込み度が　１００になった！": "<%sB_ITEM>|is now at 100 usage!"
     },
     "575": {
         "討伐報酬（紫色の宝箱）を　かくとく！": "Take the purple treasure chest as a reward!"
