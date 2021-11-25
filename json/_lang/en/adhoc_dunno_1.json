@@ -156,7 +156,7 @@
         "<pipipi_mid>「ありがとうございますぞ　<pc>どの！|　それでは　１００ゴールド　お渡しいたします。<bw_break>": "<pipipi_mid>Thank you very much, <if_woman>Ms.<else>Mr.<endif> <pc>!|Here is your 100 Gold.<bw_break>"
     },
     "53": {
-        "相手が　カササギに話しかけるのを|待っています。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": ""
+        "相手が　カササギに話しかけるのを|待っています。|<select>|このまま待つ|やめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>": "Waiting for others to talk to the Magpie.|<select>|Keep Waiting|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "54": {
         "<pipipi_mid>「季節限定の依頼書以外であれば|　１００ゴールドで　買い取りいたしますぞ！|　どの依頼書を　お売りいただけるのですかな？<break>": "<pipipi_mid>As long as it's not a seasonal request,|I'll buy it for 100 Gold. Which request|would you like to sell to me?<break>"
