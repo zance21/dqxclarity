@@ -165,7 +165,7 @@
         "<color_yellow>ゆめみの箱の　説明です！|<br>|ゆめみの箱は　勇気の輝きがなくなるまでに|迷宮をクリアしなければ|中身を取り出すことは　できません。|<br>|失敗した場合　ゆめみの箱は失われます。|時間内に　迷宮の主を倒し|王家の迷宮をクリアしましょう。": ""
     },
     "56": {
-        "未使用": ""
+        "未使用": "UNUSED"
     },
     "57": {
         "地下１階　薄明の空園": "B1F Twilit Sky Garden"
@@ -213,13 +213,13 @@
         "地下13階　深淵の間": "B13F Hall of Abyss"
     },
     "72": {
-        "未使用": ""
+        "未使用": "UNUSED"
     },
     "73": {
         "<%sC_Kaisou>に　行きます。|よろしいですか？<yesno><close>": "Go to <%sC_Kaisou>?<yesno><close>"
     },
     "74": {
-        "闇の中に　<%sC_ITEM_NAME>がある。|勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？|<yesno><close>": ""
+        "闇の中に　<%sC_ITEM_NAME>がある。|勇気の輝きを　<%nC_KAGAYAKI_NUM>使って　手に入れますか？|<yesno><close>": "There's a <%sC_ITEM_NAME> shrouded|in darkness. Use <%dC_KAGAYAKI_NUM> Sparks of Courage to|receive it?|<yesno><close>"
     },
     "75": {
         "王家の迷宮の　アナザーモードに|チャレンジできるようになりました！": ""
