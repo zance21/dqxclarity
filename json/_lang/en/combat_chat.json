@@ -4449,7 +4449,7 @@
         "<%sB_ACTOR>は 生き返りができない空間を作り出した！": "<%sB_ACTOR> created an anti-revival space!"
     },
     "1484": {
-        "<%sB_ACTOR>は 生き返りができない空間を作り 帯電した！": ""
+        "<%sB_ACTOR>は 生き返りができない空間を作り 帯電した！": "<%sB_ACTOR> created a charged, anti-revival space!"
     },
     "1485": {
         "<%sB_EXTRA>たちが あらわれた！": "<%sB_EXTRA> summoned!"
@@ -5166,10 +5166,10 @@
         "clarity_nt_char_1722": "clarity_nt_char_1722"
     },
     "1723": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 生き返りができない空間を作り出した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 生き返りができない空間を作り出した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e created an anti-revival space!"
     },
     "1724": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 生き返りができない空間を作り 帯電した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 生き返りができない空間を作り 帯電した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e created a charged, anti-revival space!"
     },
     "1725": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 展開した！": ""
@@ -26127,7 +26127,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 金縛りにあった！": ""
     },
     "8710": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 生き返りが できなくなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 生き返りが できなくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can no longer be revived!"
     },
     "8711": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは シュールなダジャレで 失笑した！": ""
