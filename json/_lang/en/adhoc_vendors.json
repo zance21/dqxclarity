@@ -1449,7 +1449,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "484": {
-        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
+        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team buying shop sells items that can't be|bought anywhere else... to those who belong to|a team. We'll be adding more items as we go|<br>|along, so please come check us out from time|to time!|<bw_break>"
     },
     "485": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
@@ -1506,7 +1506,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
     },
     "503": {
-        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
+        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the team buying shop!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
     },
     "504": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
@@ -2127,7 +2127,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
     },
     "710": {
-        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
+        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the team buying shop!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
     },
     "711": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
@@ -2391,7 +2391,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "798": {
-        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
+        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team buying shop sells items that can't be|bought anywhere else... to those who belong to|a team. We'll be adding more items as we go|<br>|along, so please come check us out from time|to time!|<bw_break>"
     },
     "799": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
@@ -3108,7 +3108,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "1037": {
-        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
+        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team buying shop sells items that can't be|bought anywhere else... to those who belong to|a team. We'll be adding more items as we go|<br>|along, so please come check us out from time|to time!|<bw_break>"
     },
     "1038": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
@@ -3423,7 +3423,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
     },
     "1142": {
-        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
+        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the team buying shop!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
     },
     "1143": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
@@ -4359,7 +4359,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
     },
     "1454": {
-        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
+        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the team buying shop!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
     },
     "1455": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
@@ -6036,7 +6036,7 @@
         "<select_se_off 3>|買いにきた|売りにきた|説明を聞く|<select_end><break>": "<select_se_off 3>|Buy|Sell|Explanation|<select_end><break>"
     },
     "2013": {
-        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
+        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team buying shop sells items that can't be|bought anywhere else... to those who belong to|a team. We'll be adding more items as we go|<br>|along, so please come check us out from time|to time!|<bw_break>"
     },
     "2014": {
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
@@ -7047,7 +7047,7 @@
         "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてください。|<bw_break>": "The Team Buying Department sells items that|can't be bought anywhere else to team|members. The more Team Quests you complete|<br>|and the higher your Team Level, the more|items you'll be able to sell! If you'd like|to learn more about Team Quest, speak with a|<br>|Team Ambassador...<bw_break>"
     },
     "2350": {
-        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the Team Purchasing Department!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
+        "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「チームクエストを　こなして|　チームレベルが　上がっていくと|　お売りできる商品も　どんどん増えますよ！|<br>|「チームクエストについて　くわしく知りたければ|　チーム大使から　説明を受けてくださいね。|　さて　本日は　いかがなさいますか？|<break>": "Welcome to the team buying shop!|This is where you can buy items that you|can't buy anywhere else. The more Team Quests|<br>|you complete and the higher your Team Level,|the more items you'll be able to sell! If|you'd like to learn more about Team Quest,|<br>|speak with a Team Ambassador... So, what can|I do for you today?<break>"
     },
     "2351": {
         "「チーム購買部へ　ようこそ！|　こちらでは　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「……おや？　あなたは　まだ|　チームに　所属していないようですね。|<br>|「でしたら　誰かのチームに入れてもらうか|　その気があれば　チーム大使に申し込んで|　自らチームを結成することも　できますよ。|<end>": "Welcome to the Team Purchasing Department!|Here, we sell items to team members that you|can't buy anywhere else... ... Hmm? You don't|<br>|seem to be on a team yet. Well, if you don't|belong to a team, you can join one, or if|you're so inclined, you can apply to be a|<br>|Team Ambassador and start your own team.<end>"
@@ -10755,7 +10755,7 @@
         "「チーム購買部へ　ようこそ！|　チーム購買部の説明（初回）|　（仮テキスト）|<bw_break>": "Welcome to Team Buying Shop!|Team Buying Shop explanation (first time)|(Temporary text)|<bw_break>"
     },
     "3586": {
-        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team purchasing department sells items|that can't be bought anywhere else... to|those who belong to the team. We'll be adding|<br>|more items as we go along, so please come|check us out from time to time!<bw_break>"
+        "「チーム購買部では|　チームに所属している方に|　他では買えない品々を　販売しています。|<br>|「商品は　今後も続々追加していくので|　時々　チェックしにきてくださいね！|<bw_break>": "The team buying shop sells items that can't be|bought anywhere else... to those who belong to|a team. We'll be adding more items as we go|<br>|along, so please come check us out from time|to time!|<bw_break>"
     },
     "3587": {
         "「ここは　チーム購買部です。|　チーム購買部の説明（チーム未所属）|　（仮テキスト）|<bw_break>": "This is the Team Buying Shop|Team Buying Shop Explanation (not on a team)|(Temporary Text)<bw_break>"
