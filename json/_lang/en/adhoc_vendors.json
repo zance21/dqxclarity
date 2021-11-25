@@ -4626,7 +4626,7 @@
         "「結晶の取り出しですね。|　どれに　なさいますか？|<break>": "I'm trying to get the crystals out. Which one|do you want?<break>"
     },
     "1543": {
-        "「他にも　結晶を取りだしたい装備品は|　あるか？|<break>": ""
+        "「他にも　結晶を取りだしたい装備品は|　あるか？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1544": {
         "「結晶の取りだしだな。|　どの装備品から　結晶を取りだすんだ？|<break>": ""
@@ -4656,7 +4656,7 @@
         "「結晶の取り出しですね。|　どれに　なさいますか？|<break>": "I'm trying to get the crystals out. Which one|do you want?<break>"
     },
     "1553": {
-        "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
+        "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "1554": {
         "「結晶の取りだしだね。|　どの装備品から　結晶を取りだすんだい？|<break>": ""
@@ -11121,7 +11121,7 @@
         "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": "I've got <%nL_NUM2> more crystals to get out|of the equipment, but is there any other|equipment you'd like to get crystals out of?<break>"
     },
     "3708": {
-        "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": ""
+        "「他にも　結晶を取りだしたい装備品は|　あるかい？|<break>": "Is there any other equipment you'd like to|extract crystals from?<break>"
     },
     "3709": {
         "「あと　<%nL_NUM2>回　装備品から　取りだせるが|　他に　結晶を取りだしたい装備品は|　あるかい？|<break>": "I can extract crystals from the equipment|<%nL_NUM2> times, but is there any other equipment|you'd like to extract crystals from?|<break>"
