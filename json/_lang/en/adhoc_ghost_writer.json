@@ -93,13 +93,13 @@
         "「新しい　依頼書があるときは|　手元のリストを　新しいものに|　更新することができマス。|<br>|「今のリストが　まだ途中であっても|　リストの更新は　お好みのタイミングで|　行うことができマス。|<br>|「ただし　更新前に未達成だった依頼は|　そのまま消えてしまいマスので|　ご注意くだサイ。|<br>|「達成済みの依頼が　ある場合は|　報酬を　お渡ししマスので|　先に　依頼の報告を　お願いいたしマス。|<br>|「また　新しくお願いしたい依頼が　ないときは|　リストの更新は　できまセン。|<br>|「新しい依頼書は　週に一度|　毎週日曜日の　朝６時に|　ご用意させていただきマス。": "When you have a new requisition, you can|update your list with the new one... Even if|your current list is still in progress, you|<br>|can update it at any time you like. However,|please note that any uncompleted requests|before the update will be lost. If you have a|<br>|request that you have already completed,|please report it to us first so we can give|you your reward... Also, if you don't have|<br>|any new requests you can't update your|list... New requests will be ready once a|week, every Sunday morning at 6:00 a.m."
     },
     "32": {
-        "「依頼を　ご報告いただければ|　達成した依頼に応じて　報酬をお渡ししマス。|<br>|「報酬の経験値は　ご報告時の職業に|　お渡ししマスので　ご注意くだサイ。|<br>|「もちろん　特訓モードでいらしたときは|　特訓スタンプでお渡しすることも　可能デス。": "All you have to do is report a request and|we'll give you a reward based on the request|you complete. Please note that the experience|<br>|value of the reward will be given to the|occupation when you report it. Of course, if|you come to us in training mode, we can give|<br>|you a training stamp..."
+        "「依頼を　ご報告いただければ|　達成した依頼に応じて　報酬をお渡ししマス。|<br>|「報酬の経験値は　ご報告時の職業に|　お渡ししマスので　ご注意くだサイ。|<br>|「もちろん　特訓モードでいらしたときは|　特訓スタンプでお渡しすることも　可能デス。": "All you have to do is report a request and|we'll give you a reward based on the request|you complete. Please note that the experience|<br>|value of the reward will be given to the|occupation when you report it. Of course, if|you come to us in training mode, we can give|<br>|you training stamps..."
     },
     "33": {
         "<pc>は　報酬の経験値|<%dL_EXP> Pを　手に入れた！|<se_nots System 7>|<bw_break>": "<pc>  has been rewarded with <%dL_EXP> P in|experience!|<se_nots System 7>|<bw_break>"
     },
     "34": {
-        "<pc>は　報酬の特訓スタンプ|<%dL_EXP> 個を　手に入れた！|<se_nots System 7>|<bw_break>": "<pc>  got a <%dL_EXP> training stamp as a reward!|<se_nots System 7>|<bw_break>"
+        "<pc>は　報酬の特訓スタンプ|<%dL_EXP> 個を　手に入れた！|<se_nots System 7>|<bw_break>": "<pc> got <%dL_EXP> training stamps as a reward!|<se_nots System 7>|<bw_break>"
     },
     "35": {
         "<pc>は　依頼<%nL_CLEAR_COUNT>件分の　報酬として|経験値 <%dL_EXP> Pを　手に入れた！|<se_nots System 7>|<bw_break>": "<pc>  has earned <%dL_EXP> P experience as a reward|for <%nL_CLEAR_COUNT> requests!|<se_nots System 7>|<bw_break>"
