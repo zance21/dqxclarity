@@ -51,37 +51,37 @@
         "ここは　同行ポイントです。|この先に行くためには　同行する仲間全員の|準備が完了している必要があります。|<br>|この先では　全員が同じ出来事を共有しますが|話が進むのは　パーティリーダーと　それと同じ|進行状況の人のみです。他の人は進みません。|<select>|仲間の準備完了を待つ|準備完了している仲間だけで先に行く|この先に行くのをやめる|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>": "This is the accompaniment point. In order to|proceed, all party members must be ready.|<br>|From this point, everyone will view the same|events, but only the leader and other party|members at the same point will progress.|<select>|Wait for Party|Proceed with Ready Members|Stop Waiting|<select_end>|<case 1>|<close>|<case 2>|<break>|<case 3>|<break>|<case_cancel>|<break>|<case_end>"
     },
     "18": {
-        "次回予告を　見ますか？<yesno><close>": ""
+        "次回予告を　見ますか？<yesno><close>": "Preview the next episode?<yesno><close>"
     },
     "19": {
         "クエストクリア！": "Quest Clear!"
     },
     "20": {
-        "クエストを受けた！": ""
+        "クエストを受けた！": "Accepted the quest!"
     },
     "21": {
-        "クエストが進んだ！": ""
+        "クエストが進んだ！": "Quest was updated!"
     },
     "22": {
-        "姉": ""
+        "姉": "Sis"
     },
     "23": {
         "姉妹": "Sister"
     },
     "24": {
-        "姉弟": ""
+        "姉弟": "Sib."
     },
     "25": {
-        "兄": ""
+        "兄": "Bro"
     },
     "26": {
-        "兄妹": ""
+        "兄妹": "Sib."
     },
     "27": {
         "兄弟": "Bro."
     },
     "28": {
-        "妹": ""
+        "妹": "Sis"
     },
     "29": {
         "妹さん": ""
