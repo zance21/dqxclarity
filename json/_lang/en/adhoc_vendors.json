@@ -207,7 +207,7 @@
         "「また　いつでも　来ておくれよっ！|<turn_end>": "Please come back anytime!<turn_end>"
     },
     "70": {
-        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome to... This is <%sL_SHOP_KIND...<break>"
+        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome. This is the <%sL_SHOP_KIND>.|<break>"
     },
     "71": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -324,7 +324,7 @@
         "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you... Please come again...<turn_end>"
     },
     "109": {
-        "「いらっしゃいませ。|　こちらは　<%sL_SHOP_KIND>です。|<break>": "Welcome to... This is <%sL_SHOP_KIND...<break>"
+        "「いらっしゃいませ。|　こちらは　<%sL_SHOP_KIND>です。|<break>": "Welcome. This is the <%sL_SHOP_KIND>.|<break>"
     },
     "110": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -6198,7 +6198,7 @@
         "「また　いつでも　来ておくれよっ！|<turn_end>": "Please come back anytime!<turn_end>"
     },
     "2067": {
-        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome to... This is <%sL_SHOP_KIND...<break>"
+        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome. This is the <%sL_SHOP_KIND>.|<break>"
     },
     "2068": {
         "「このたび　素材屋では|　使い込み度が５０以上であれば　汗と涙の結晶を|　取りだせるように　なりました。|<br>|「ただし　取りだせる数は　１００の時よりも|　少なくなるので　ご注意ください。|　さて……。|<bw_break>": "If your level of use is 50 or higher, you can|now retrieve sweat and tear crystals from the|materials shop... However, the number of|<br>|crystals you can take will be lower than when|you have 100, so please be careful... Now...<bw_break>"
@@ -6534,7 +6534,7 @@
         "「ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you... Please come again...<turn_end>"
     },
     "2179": {
-        "「いらっしゃいませ。|　こちらは　<%sL_SHOP_KIND>です。|<break>": "Welcome to... This is <%sL_SHOP_KIND...<break>"
+        "「いらっしゃいませ。|　こちらは　<%sL_SHOP_KIND>です。|<break>": "Welcome. This is the <%sL_SHOP_KIND>.|<break>"
     },
     "2180": {
         "「このたび　素材屋では|　使い込み度が　５０以上であれば|　汗と涙の結晶を　取りだせるようになりました。|<br>|「ただし　取りだせる数は　使い込み度が|　１００の時よりも　少なくなるので|　ご注意ください。|<br>|「また　装備品から　結晶を取りだす回数を|　１日あたり　１０回までとさせていただきます。|<br>|「その日　取りださなかった分の回数は|　そのまま　翌日以降に持ち越されますが|　持ち越しは　最大で　２５０回までとなります。|<br>|「お客さまには　ご不便をおかけしますが|　ご協力をお願いします。さて……|<bw_break>": "You can now retrieve sweat and tear crystals|from the materials shop if your level is 50|or higher... However, please note that the|<br>|number of crystals you can retrieve will be|less than if your level is 100... Also, the|number of times you can retrieve crystals|<br>|from your equipment is limited to 10 per day.|Any crystals not retrieved that day will be|carried over to the next day and so on, up to|<br>|a maximum of 250. We apologize for any|inconvenience this may cause, and ask for|your cooperation... Now...<bw_break>"
