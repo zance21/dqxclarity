@@ -66,10 +66,10 @@
         "「そなたは　初めての任務だな。|　防衛軍の決まりを　いくつか話しておこう。|<br>|「防衛戦では　軍から支給するどうぐしか|　使用することはできない。|　どうぐかばんも　専用のものに　なるからな。|<br>|「支給されたどうぐの　内容については|　出撃前の隊員が集合する　作戦待機所で|　どうぐかばんを見て　確認するといいぞ。|<br>|「それから　戦場に立つ際は|　防衛軍特注の　隊員服を着てもらう。|　この本部の者たちも　着ているものだ。|<br>|「敵味方の識別を　しやすくすると同時に|　防衛軍の一員としての　士気を高めるという|　一石二鳥の効果を　狙ってみたぞ。|<br>|「……最後に　任務の確認をする！|　注意して　聞くように！|<br>|「そなたに与えられた任務は　先発部隊として|　拠点におもむき　敵軍が撤退するまでの間|　防衛結界を　守ることだ。|<br>|「だが　無茶はするな。|　ひとりで敵陣に突っ込むなど　もってのほかだ。|　仲間との連携を　つねに　心がけるのだ。　|<br>|「……では　そなたの働きに期待する。|　武運長久を　祈っておるぞ！|<bw_break>": "This is your first time... I'd like to talk|to you about some of the rules of the Defense|Force... In a defensive battle, you're only|<br>|allowed to use military-issued gear... You'll|also need a special kit... You'll be able to|see what's in your kit when you're in the|<br>|debriefing area... And when you're on the|battlefield, you'll be wearing a uniform|custom-made by the Defense Force... That's|<br>|what we're wearing here at headquarters. The|purpose is to kill two birds with one|stone... by making it easier to distinguish|<br>|between friend and foe... while at the same|time boosting morale as a member of the|Defense Force. ... Finally, we have our|<br>|mission statement. Listen carefully! Your|mission is to serve as the advance troops to|the base and defend the perimeter until the|<br>|enemy forces retreat. But you must not... You|can't just run into enemy territory by|yourself. You must always work together with|<br>|your comrades... ... I look forward to your|work. I wish you good fortune and long life!<bw_break>"
     },
     "23": {
-        "<pipipi_off>|<pc>は|<%sM_item>を|受け取った！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  has received <%sM_item>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sM_item>を|受け取った！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> has received <%sM_item>!|<se_nots System 7>|<end>"
     },
     "24": {
-        "「実績リストを表示するぞ": ""
+        "「実績リストを表示するぞ": "Here's the achievement list."
     },
     "25": {
         "「階級リストを表示するぞ": "I'll show you a list of ranks"
