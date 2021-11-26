@@ -474,7 +474,7 @@
         "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": "... I'm a trained priest... So, Father... The|god of this world, what you've been doing...|You need to go to the church and record your|<br>|journey in the adventure book... But if you|pray at the church, when you run out of|energy, it will change your resurrection|<br>|location to the place where you prayed... If|you want to finish your adventure, you can|always use the \"Interrupt Adventure\"|<br>|command... If you're in a dangerous place,|it'll take a moment... I've got to go.<ask><bw_break>"
     },
     "159": {
-        "「他に　用事あるか？|<break>": ""
+        "「他に　用事あるか？|<break>": "Anything else you need?|<break>"
     },
     "160": {
         "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "...change your race?|I'm not really sure, but... I'll try.|<br>|There exists another version of you.|Do you want to change from <%sL_RACE_NOW>|to <%sL_RACE_AFTER>, my child?|<yesno><break>"
@@ -630,7 +630,7 @@
         "「……オレ　神父の修行した。|　だから　神父できる。|<br>|「この世界の神　オマエの行動　ずっと見てる。|　教会で　冒険の書に旅の記録する必要ない。|<br>|「でも　教会で　お祈りすると|　オマエが　チカラ尽きた時の復活場所|　祈りを捧げた場所に　変更すること　できる。|<br>|「冒険を終えたい時　さくせんコマンドの|　『冒険を中断する』で　いつでも行える。|　危険な場所だと　すこし時間　かかる。|<br>|「オマエ　用事　言え。|<ask><bw_break>": "... I'm a trained priest... So, Father... The|god of this world, what you've been doing...|You need to go to the church and record your|<br>|journey in the adventure book... But if you|pray at the church, when you run out of|energy, it will change your resurrection|<br>|location to the place where you prayed... If|you want to finish your adventure, you can|always use the \"Interrupt Adventure\"|<br>|command... If you're in a dangerous place,|it'll take a moment... I've got to go.<ask><bw_break>"
     },
     "211": {
-        "「他に　用事あるか？|<break>": ""
+        "「他に　用事あるか？|<break>": "Anything else you need?|<break>"
     },
     "212": {
         "「……種族　変える？|　よく　わからない。でも　やってみる。|<br>|「オマエ　もうひとつの姿。|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるか？|<yesno><break>": "... Change your race? I don't know... I|don't... Do you want to... You want to change|your race from <%sL_RACE_NOW> to|<br>|<%sL_RACE_AFTER>?<yesno><break>"
