@@ -426,7 +426,7 @@
         "「冒険を中断すると　今の仲間とは|　別れてしまうけど　いいのかい？|<yesno 2><break>": "If we interrupt our adventure, we'll be|separated from our current friends, is that|okay with you?<yesno 2><break>"
     },
     "143": {
-        "「冒険を中断すると　今の仲間とは|　別れてしまうが　よろしいかな？|<yesno 2><break>": ""
+        "「冒険を中断すると　今の仲間とは|　別れてしまうが　よろしいかな？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that all right with|you?|<yesno 2><break>"
     },
     "144": {
         "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": ""
