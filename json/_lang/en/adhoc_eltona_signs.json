@@ -153,13 +153,13 @@
         "<left>この先　まわり道。|<left>カミハルムイ領南へ　向かうなら|<left>道なりに進むのが　安全です。": ""
     },
     "52": {
-        "<center>↑カミハルムイ領南": ""
+        "<center>↑カミハルムイ領南": "↑ Kamiharmui Territory South"
     },
     "53": {
         "<left>この辺りの岩には　魔除けの効果を持つ|<left>破魔のヒスイが　ふくまれています。": ""
     },
     "54": {
-        "<center>↑スイゼン湿原|<right>山間の関所　カミハルムイ領南→|<center>道なり　アズラン地方↓": ""
+        "<center>↑スイゼン湿原|<right>山間の関所　カミハルムイ領南→|<center>道なり　アズラン地方↓": "↑ Suizen Marsh|→ Mountain Pass, Kamiharmui Territory South|↓ Road to Azlan Region"
     },
     "55": {
         "<left>北に向かうとスイゼン湿原。|<left>南にいる魔物は　凶暴につき　注意！": ""
@@ -258,7 +258,7 @@
         "<left>←王都カミハルムイ　北門|<right>夢幻の森→": ""
     },
     "87": {
-        "<center>↑カミハルムイ領南": ""
+        "<center>↑カミハルムイ領南": "↑ Kamiharmui Territory South"
     },
     "88": {
         "<center>↑落陽の草原": ""
