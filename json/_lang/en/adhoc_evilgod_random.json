@@ -3,9 +3,9 @@
         "<pipipi_off>|戦禍の眷属を　撃破したが|戦いの中で　条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": ""
     },
     "2": {
-        "<pipipi_off>|条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": ""
+        "<pipipi_off>|条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": "<pipipi_off>I failed to complete three of the|requirements, so I withdrew from Tengoku...<end>"
     },
     "3": {
-        "<pipipi_off>|５つの条件のうち　<%nEV_NUM>つ達成して|戦禍の眷属を　撃破した！|<bw_break>": ""
+        "<pipipi_off>|５つの条件のうち　<%nEV_NUM>つ達成して|戦禍の眷属を　撃破した！|<bw_break>": "<pipipi_off>You've completed <%nEV_NUM> of the five|conditions and defeated the Warlord's Family!<bw_break>"
     }
 }
