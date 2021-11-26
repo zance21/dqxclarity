@@ -1,12 +1,12 @@
 {
     "1": {
-        "<speed=0>現在　その場所へは|移動できません。": ""
+        "<speed=0>現在　その場所へは|移動できません。": "<speed=0>Now, you can't move to that location..."
     },
     "2": {
-        "<speed=0>この場所からは|移動できません。": ""
+        "<speed=0>この場所からは|移動できません。": "<speed=0>We can't move from this location..."
     },
     "3": {
-        "メインストーリー『王の戴冠のおはなし』をクリア": ""
+        "メインストーリー『王の戴冠のおはなし』をクリア": "Clear the main story \"The Crowning of the King\""
     },
     "4": {
         "勇者姫アンルシアのおめかし衣装『大勇者の天衣』を入手している": ""
@@ -21,40 +21,40 @@
         "clarity_nt_char_7": "clarity_nt_char_7"
     },
     "8": {
-        "メインストーリー『聖炎の解放者のおはなし』クリア": ""
+        "メインストーリー『聖炎の解放者のおはなし』クリア": "Cleared the main story \"The Story of the Liberator of the Holy Flame"
     },
     "9": {
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "10": {
-        "メインストーリー『遥かなる故郷へのおはなし』クリア": ""
+        "メインストーリー『遥かなる故郷へのおはなし』クリア": "Cleared the main story \"A Story for a Faraway Home\""
     },
     "11": {
-        "キーエンブレムを1個以上持っている": ""
+        "キーエンブレムを1個以上持っている": "I have at least one key emblem"
     },
     "12": {
         "レベル85以上": ""
     },
     "13": {
-        "大陸間鉄道パスを持っている": ""
+        "大陸間鉄道パスを持っている": "I have an intercontinental rail pass"
     },
     "14": {
-        "キーエンブレムを10個持っている": ""
+        "キーエンブレムを10個持っている": "I have 10 key emblems"
     },
     "15": {
         "clarity_nt_char_15": "clarity_nt_char_15"
     },
     "16": {
-        "メインストーリー『グランゼドーラのおはなし』クリア": ""
+        "メインストーリー『グランゼドーラのおはなし』クリア": "Cleared the main story \"The Story of Granzedora"
     },
     "17": {
-        "メインストーリー『悠久の果ての決戦のおはなし』クリア": ""
+        "メインストーリー『悠久の果ての決戦のおはなし』クリア": "Cleared the main story, \"The End of Time: The Story of the Decisive Battle\""
     },
     "18": {
         "clarity_nt_char_18": "clarity_nt_char_18"
     },
     "19": {
-        "メインストーリー『嵐穿つ断罪の虚空のおはなし』クリア": ""
+        "メインストーリー『嵐穿つ断罪の虚空のおはなし』クリア": "Cleared the main story \"Storm Piercing Absolution of the Void\""
     },
     "20": {
         "clarity_nt_char_20": "clarity_nt_char_20"
@@ -63,7 +63,7 @@
         "一人前の証を持っている": ""
     },
     "22": {
-        "メインストーリー『目覚めし五つの種族のおはなし』クリア": ""
+        "メインストーリー『目覚めし五つの種族のおはなし』クリア": "Cleared the main story \"The Awakening of the Five Tribes\""
     },
     "23": {
         "レベル30以上": ""
@@ -72,10 +72,10 @@
         "クエスト『ドキドキ湯けむり事件！？』クリア": "Quest \"Pit-a-Pat Steam Incident\" Clear"
     },
     "25": {
-        "紫のキーエンブレムを持っている": ""
+        "紫のキーエンブレムを持っている": "I have a purple key emblem"
     },
     "26": {
-        "メインストーリー『赤き大地の双王子のおはなし』クリア": ""
+        "メインストーリー『赤き大地の双王子のおはなし』クリア": "Cleared the main story \"The Story of the Two Princes of the Red Earth"
     },
     "27": {
         "clarity_nt_char_27": "clarity_nt_char_27"
@@ -84,7 +84,7 @@
         "クエスト『家族のもとへ』クリア": "Quest \"Go To Your Family\" Clear"
     },
     "29": {
-        "メインストーリー『紡がれし勇気の絆のおはなし』クリア": ""
+        "メインストーリー『紡がれし勇気の絆のおはなし』クリア": "Cleared the main story \"The Story of the Bond of Courage Spun\""
     },
     "30": {
         "clarity_nt_char_30": "clarity_nt_char_30"
@@ -93,7 +93,7 @@
         "レベル90以上": ""
     },
     "32": {
-        "<%sW_REP_MAX_2ND_F>ピラミッドへ行ける": ""
+        "<%sW_REP_MAX_2ND_F>ピラミッドへ行ける": "<%sW_REP_MAX_2ND_F>Can go to the pyramid"
     },
     "33": {
         "clarity_nt_char_33": "clarity_nt_char_33"
@@ -108,10 +108,10 @@
         "clarity_nt_char_36": "clarity_nt_char_36"
     },
     "37": {
-        "自分の土地を持っている": ""
+        "自分の土地を持っている": "I have my own land"
     },
     "38": {
-        "銀のキーエンブレムを持っている": ""
+        "銀のキーエンブレムを持っている": "I have a silver key emblem"
     },
     "39": {
         "ファラザードへ行ける": "Go to Farazard"
@@ -129,10 +129,10 @@
         "「バージョン５ いばらの巫女と滅びの神」の導入": ""
     },
     "44": {
-        "「バージョン２ 眠れる勇者と導きの盟友」の導入": ""
+        "「バージョン２ 眠れる勇者と導きの盟友」の導入": "Introduction of \"Version 2: Sleeping Heroes and Guiding Allies"
     },
     "45": {
-        "達人のオーブを持っている": ""
+        "達人のオーブを持っている": "I have the Orb of the Guru"
     },
     "46": {
         "clarity_nt_char_46": "clarity_nt_char_46"
@@ -141,13 +141,13 @@
         "領界調査バインダーを持っている": "Obtain Realm Survey Binder"
     },
     "48": {
-        "連れている仲間モンスターの転生回数3回以上＆レベル45以上": ""
+        "連れている仲間モンスターの転生回数3回以上＆レベル45以上": "Reincarnate your companion monster 3 times or more & level 45 or more"
     },
     "49": {
         "レベル80以上": ""
     },
     "50": {
-        "仲間モンスターを3匹以上仲間にしている": ""
+        "仲間モンスターを3匹以上仲間にしている": "You have 3 or more companion monsters in your group"
     },
     "51": {
         "レベル100以上": ""
@@ -156,16 +156,16 @@
         "clarity_nt_char_52": "clarity_nt_char_52"
     },
     "53": {
-        "「バージョン３ いにしえの竜の伝承」の導入": ""
+        "「バージョン３ いにしえの竜の伝承」の導入": "Introduction of \"Version 3: Lore of the Inishinushi no Ryu"
     },
     "54": {
-        "ドルボードを持っている": ""
+        "ドルボードを持っている": "I have a dollar board"
     },
     "55": {
-        "転生回数3回以上＆レベル45以上の仲間モンスターがいる": ""
+        "転生回数3回以上＆レベル45以上の仲間モンスターがいる": "Reincarnate 3 times or more & have a companion monster of level 45 or more"
     },
     "56": {
-        "いにしえのゼルメア": ""
+        "いにしえのゼルメア": "Zelmea of old"
     },
     "57": {
         "魔法の迷宮": ""
@@ -183,7 +183,7 @@
         "王家の迷宮": "Royal Maze"
     },
     "62": {
-        "「バージョン４ 5000年の旅路 遥かなる故郷へ」の導入": ""
+        "「バージョン４ 5000年の旅路 遥かなる故郷へ」の導入": "Introduction of \"Version 4: The 5000 Year Journey to the Faraway Home"
     },
     "63": {
         "clarity_nt_char_63": "clarity_nt_char_63"
@@ -282,7 +282,7 @@
         "clarity_nt_char_94": "clarity_nt_char_94"
     },
     "95": {
-        "幻の海トラシュカ": ""
+        "幻の海トラシュカ": "The Phantom Sea Trashka"
     },
     "96": {
         "clarity_nt_char_96": "clarity_nt_char_96"
@@ -294,13 +294,13 @@
         "clarity_nt_char_98": "clarity_nt_char_98"
     },
     "99": {
-        "『まもの使い』または『どうぐ使い』に転職できる": ""
+        "『まもの使い』または『どうぐ使い』に転職できる": "You can change your job to a \"magic user\" or \"tool user\""
     },
     "100": {
         "クエスト『ベジセルクの咆哮』クリア": "Quest \"Vegiselk's Roar\" Clear"
     },
     "101": {
-        "隠れスライムフェスティバル": ""
+        "隠れスライムフェスティバル": "Hidden Slime Festival"
     },
     "102": {
         "レモンスライムクイズ": "Lemon Slime Quiz"
@@ -318,13 +318,13 @@
         "大富豪": "Tycoon"
     },
     "107": {
-        "ハッピーくじ": ""
+        "ハッピーくじ": "happy lottery"
     },
     "108": {
         "clarity_nt_char_108": "clarity_nt_char_108"
     },
     "109": {
-        "フィッシングコンテスト": ""
+        "フィッシングコンテスト": "fishing contest"
     },
     "110": {
         "大魔王の代筆家": ""
@@ -345,7 +345,7 @@
         "clarity_nt_char_115": "clarity_nt_char_115"
     },
     "116": {
-        "バトルロード協力チャレンジ": ""
+        "バトルロード協力チャレンジ": "Battle Road Cooperation Challenge"
     },
     "117": {
         "バトルグランプリ": "Battle Grand Prix"
@@ -360,28 +360,28 @@
         "clarity_nt_char_120": "clarity_nt_char_120"
     },
     "121": {
-        "バトルトリニティ対抗戦": ""
+        "バトルトリニティ対抗戦": "Battle Trinity Rivalry"
     },
     "122": {
-        "カジノレイド祭り": ""
+        "カジノレイド祭り": "Casino Raid Festival"
     },
     "123": {
         "clarity_nt_char_123": "clarity_nt_char_123"
     },
     "124": {
-        "海底探索ガテリア号": ""
+        "海底探索ガテリア号": "Submarine Search Gateria"
     },
     "125": {
-        "住宅村に　自分の家を　建てることができます。|空いてる土地は　立て札を調べることで買うことができます。|家を建てるには「建物屋」などで売っている　「家キット」が必要です。|「家具」や「庭具」を配置して　自分好みの家を作ってください！": ""
+        "住宅村に　自分の家を　建てることができます。|空いてる土地は　立て札を調べることで買うことができます。|家を建てるには「建物屋」などで売っている　「家キット」が必要です。|「家具」や「庭具」を配置して　自分好みの家を作ってください！": "You can build your own house in the|village... You can buy vacant land by|checking the sign. To build a house, you need|<br>|a \"house kit\" sold at a \"building shop\"...|Arrange the furniture and garden tools to|create the house of your choice!"
     },
     "126": {
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "フィールドにいるモンスターを討伐するクエストです。|１日１回　一部の町にいる討伐隊員から依頼を受けることができます。|経験値やゴールドをコツコツ稼ぎたい冒険者さんにオススメです。": ""
+        "フィールドにいるモンスターを討伐するクエストです。|１日１回　一部の町にいる討伐隊員から依頼を受けることができます。|経験値やゴールドをコツコツ稼ぎたい冒険者さんにオススメです。": "Quest to defeat the monsters in the field...|Once a day, you can receive a request from a|member of the defeat team in some towns...|<br>|This is a great game for adventurers who want|to earn experience and gold..."
     },
     "128": {
-        "フィールドにいるモンスターを討伐するクエストです。|１週間に１回　<%sW_REP_MAX_2ND_F>三門の関所や<%sW_REP_MAX_2ND_R>グランゼドーラ王国にいる|討伐隊員から依頼を受けることができます。|経験値を稼ぎたい冒険者さんにオススメのクエストです。": ""
+        "フィールドにいるモンスターを討伐するクエストです。|１週間に１回　<%sW_REP_MAX_2ND_F>三門の関所や<%sW_REP_MAX_2ND_R>グランゼドーラ王国にいる|討伐隊員から依頼を受けることができます。|経験値を稼ぎたい冒険者さんにオススメのクエストです。": "Quest to defeat the monsters in the field...|Once a week, you'll receive a request from a|strike team member at|<br>|<%sW_REP_MAX_2ND_F>Sammon no Kanjo or|<%sW_REP_MAX_2ND_R>Granzedora Kingdom... I|recommend this quest for adventurers who want|<br>|to gain experience..."
     },
     "129": {
         "クエスト『あの人に追いつきたくて』クリア": "Quest \"I Want to Catch Up with Him\" Clear"
@@ -390,46 +390,46 @@
         "clarity_nt_char_130": "clarity_nt_char_130"
     },
     "131": {
-        "ナドラガンドの各領界にいるモンスターを討伐していくクエストです。|たくさんの経験値とゴールドを手に入れることができます。|さらに　ひとつの領界の全ての依頼をクリアすることで|コンプリート報酬を受け取れます。": ""
+        "ナドラガンドの各領界にいるモンスターを討伐していくクエストです。|たくさんの経験値とゴールドを手に入れることができます。|さらに　ひとつの領界の全ての依頼をクリアすることで|コンプリート報酬を受け取れます。": "Kill the monsters in each territory of Nadra|Gand. You can get a lot of experience and|gold... In addition, by clearing all the|<br>|requests in one territory, you will receive a|complete reward..."
     },
     "132": {
-        "バージョン４のフィールドにいるモンスターを討伐するクエストです。|たくさんの経験値とゴールドを手に入れることができます。|さらに　ひとつの時代の全ての依頼をクリアすることで|コンプリート報酬を受け取れます。": ""
+        "バージョン４のフィールドにいるモンスターを討伐するクエストです。|たくさんの経験値とゴールドを手に入れることができます。|さらに　ひとつの時代の全ての依頼をクリアすることで|コンプリート報酬を受け取れます。": "Kill the monsters in the field in version|4... You can get a lot of experience and|gold... In addition, by completing all the|<br>|requests in a single era, you'll receive a|complete reward..."
     },
     "133": {
-        "これまでに戦ったボスたちと再戦することができるコンテンツです。|「強モード」「同盟バトル」の報酬は１日に１回|「試練の門」の報酬は１週間に１回　手に入れることができます。": ""
+        "これまでに戦ったボスたちと再戦することができるコンテンツです。|「強モード」「同盟バトル」の報酬は１日に１回|「試練の門」の報酬は１週間に１回　手に入れることができます。": "You can re-fight bosses you've fought before|in this conten... The rewards for \"Strong|Mode\" and \"Alliance Battle\" can be obtained|<br>|once a day. The rewards for \"Gate of Trials\"|can be obtained once a week..."
     },
     "134": {
-        "仲間モンスターと協力して挑戦するクエストです。|４人の冒険者と　４匹の仲間モンスターによる|パーティ同盟バトルで　ボスモンスターと戦います。|しっかり仲間モンスターを育ててから挑戦しましょう。": ""
+        "仲間モンスターと協力して挑戦するクエストです。|４人の冒険者と　４匹の仲間モンスターによる|パーティ同盟バトルで　ボスモンスターと戦います。|しっかり仲間モンスターを育ててから挑戦しましょう。": "Cooperate with fellow monsters to challenge|ques... Four adventurers and four companion|monsters fight against boss monsters in a|<br>|party alliance battle... Raise your companion|monsters and then challenge ..."
     },
     "135": {
         "clarity_nt_char_135": "clarity_nt_char_135"
     },
     "136": {
-        "強力なモンスターの能力をマネた　５人の演者たちを相手に|どこまで勝ち進めるか挑戦するコンテンツです。|全滅しても　途中までの報酬を受け取れるので|気軽に挑戦してみましょう。": ""
+        "強力なモンスターの能力をマネた　５人の演者たちを相手に|どこまで勝ち進めるか挑戦するコンテンツです。|全滅しても　途中までの報酬を受け取れるので|気軽に挑戦してみましょう。": "This is a challenge to see how far you can go|against five performers who have imitated the|abilities of powerful monsters. Even if you|<br>|get wiped out, you'll still receive the|rewards you earned along the way, so feel|free to try your hand at..."
     },
     "137": {
         "clarity_nt_char_137": "clarity_nt_char_137"
     },
     "138": {
-        "パーティ同盟バトルが待ち受ける　長編クエストです。|突如現れ　ガケっぷち村を滅ぼした　災厄の王から|世界を守るために戦います。|ストーリーの終盤で　災厄の王に挑むときは|８人での戦闘となるパーティ同盟でのバトルとなります。": ""
+        "パーティ同盟バトルが待ち受ける　長編クエストです。|突如現れ　ガケっぷち村を滅ぼした　災厄の王から|世界を守るために戦います。|ストーリーの終盤で　災厄の王に挑むときは|８人での戦闘となるパーティ同盟でのバトルとなります。": "A party alliance battle awaits you in this|full-length quest... Fight to protect the|world from the King of Misfortune who|<br>|suddenly appeared and destroyed the|village... At the end of the story, when you|take on the King of Misfortune, you'll be|<br>|fighting in a party alliance of 8 players..."
     },
     "139": {
-        "パーティ同盟バトルが待ち受ける　長編クエストです。|高名な占い師グランマーズの助力を受けながら|あなたを襲う　死に至る悪夢の謎を追っていきます。|ストーリーの終盤で　破壊と殺りくの化身に挑むときは|８人での戦闘となるパーティ同盟でのバトルとなります。": ""
+        "パーティ同盟バトルが待ち受ける　長編クエストです。|高名な占い師グランマーズの助力を受けながら|あなたを襲う　死に至る悪夢の謎を追っていきます。|ストーリーの終盤で　破壊と殺りくの化身に挑むときは|８人での戦闘となるパーティ同盟でのバトルとなります。": "A party alliance battle awaits you in this|full-length ques... With the help of the|renowned fortune teller Grammars, you're|<br>|chasing the mystery of a deadly nightmare|that's haunting you... At the end of the|story, when you take on the incarnation of|<br>|destruction and murder, you'll battle in a|party alliance of eight people..."
     },
     "140": {
-        "レンダーシアの各地に発生した　謎の「ヒズミ」を|とある同行者とともに調査していく　長編クエストです。|ストーリーの終盤で　パーティ同盟バトルとなります。": ""
+        "レンダーシアの各地に発生した　謎の「ヒズミ」を|とある同行者とともに調査していく　長編クエストです。|ストーリーの終盤で　パーティ同盟バトルとなります。": "You and your companion are investigating the|\"mysterious hizumi\" that have appeared in|various parts of Lendencia. At the end of the|<br>|story, there is a party alliance battle..."
     },
     "141": {
         "clarity_nt_char_141": "clarity_nt_char_141"
     },
     "142": {
-        "「アスフェルド学園」を舞台にした　長編クエストです。|学園で出会う仲間たちとともに　学園の危機を救いましょう。|「アスフェルド学園」独自の要素が　たくさん用意されています。": ""
+        "「アスフェルド学園」を舞台にした　長編クエストです。|学園で出会う仲間たちとともに　学園の危機を救いましょう。|「アスフェルド学園」独自の要素が　たくさん用意されています。": "A full-length quiz set at Asfeld Academy...|Save the school from crisis with the friends|you meet at the school... There are many|<br>|elements unique to the Asfeld Academy..."
     },
     "143": {
         "clarity_nt_char_143": "clarity_nt_char_143"
     },
     "144": {
-        "神聖秘文字で書かれた　「万象流転の書」の解読に挑戦します。|サジェとリルチェラと共に　ミニゲームや写真撮影を楽しみながら|ナドラガンドに起こった変化を解き明かしましょう。": ""
+        "神聖秘文字で書かれた　「万象流転の書」の解読に挑戦します。|サジェとリルチェラと共に　ミニゲームや写真撮影を楽しみながら|ナドラガンドに起こった変化を解き明かしましょう。": "Try to decipher the Book of Transfiguration|written in sacred script... Join Saje and Lil|Chella as they play mini-games and take|<br>|photos to uncover the changes that have|occurred in Nadragand."
     },
     "145": {
         "妖精図書館にある本へと入って進めていく　長編クエストです。|「記憶の本」の登場人物になって　冒険します。|謎を解く推理力や　困難を突破するひらめきが試されます。": ""
@@ -444,142 +444,142 @@
         "clarity_nt_char_148": "clarity_nt_char_148"
     },
     "149": {
-        "さまざまなミニゲームで遊ぶことができる施設です。|スロット・ポーカー・ルーレットなどのゲームを遊ぶことで|「カジノコイン」を手に入れることができます。|「カジノコイン」は　冒険に役立つ便利なアイテムや|「家具」「庭具」「ドルゴール」などの楽しいアイテムと交換できます。": ""
+        "さまざまなミニゲームで遊ぶことができる施設です。|スロット・ポーカー・ルーレットなどのゲームを遊ぶことで|「カジノコイン」を手に入れることができます。|「カジノコイン」は　冒険に役立つ便利なアイテムや|「家具」「庭具」「ドルゴール」などの楽しいアイテムと交換できます。": "You can play a variety of mini games... By|playing games such as slots, poker, and|roulette, you can earn Casino Coins... Casino|<br>|Coins can be exchanged for useful items for|your adventures, and fun items such as|furniture, garden tools, and ..."
     },
     "150": {
         "clarity_nt_char_150": "clarity_nt_char_150"
     },
     "151": {
-        "スライムを育成して　レースで競走させるコンテンツです。|期間限定の「アストルティアカップ」に　挑戦すると|豪華な報酬を　手に入れることができます。": ""
+        "スライムを育成して　レースで競走させるコンテンツです。|期間限定の「アストルティアカップ」に　挑戦すると|豪華な報酬を　手に入れることができます。": "Raise slimes and race them in conten... If|you challenge the \"Limited Time Astrutia|Cup\", you'll get a luxurious reward..."
     },
     "152": {
-        "ドルボードに乗って　フィールド上を疾走するレースです。|スタート地点からゴール地点までのタイムを競います。|期間限定の「ドルボードレースグランプリ」に挑戦すると|タイムに応じて　豪華な報酬を手に入れることができます。": ""
+        "ドルボードに乗って　フィールド上を疾走するレースです。|スタート地点からゴール地点までのタイムを競います。|期間限定の「ドルボードレースグランプリ」に挑戦すると|タイムに応じて　豪華な報酬を手に入れることができます。": "Race across the field on a dollar board...|Compete for the time from the start point to|the goal point... If you challenge the|<br>|\"Limited Time Dollar Board Race Grand Prix\",|you can get a gorgeous reward according to|your time..."
     },
     "153": {
         "clarity_nt_char_153": "clarity_nt_char_153"
     },
     "154": {
-        "「バトエン」を転がし　ライバルたちと遊ぶコンテンツです。|３本の「バトエン」を組み合わせて　デッキを組んでください。|デッキ内の順番や　交替のタイミングが　勝利のカギとなります。|気軽に挑戦してみてください。": ""
+        "「バトエン」を転がし　ライバルたちと遊ぶコンテンツです。|３本の「バトエン」を組み合わせて　デッキを組んでください。|デッキ内の順番や　交替のタイミングが　勝利のカギとなります。|気軽に挑戦してみてください。": "Roll the \"Batoen\" and play against your|rivals in this conten... Put together a deck|of three Batouens... The order in the deck|<br>|and the timing of the alternation are the|keys to victory... Feel free to try..."
     },
     "155": {
         "clarity_nt_char_155": "clarity_nt_char_155"
     },
     "156": {
-        "水辺に近づくと　魚を釣ることができます。|「おさかな交換員」で　釣った魚を「おさかなコイン」と交換できます。|レンドアにいる「釣り老師」から　ご褒美をもらうこともできます。|釣った魚は　家の「水そう」や「お庭用釣り堀」に|入れることもできます。": ""
+        "水辺に近づくと　魚を釣ることができます。|「おさかな交換員」で　釣った魚を「おさかなコイン」と交換できます。|レンドアにいる「釣り老師」から　ご褒美をもらうこともできます。|釣った魚は　家の「水そう」や「お庭用釣り堀」に|入れることもできます。": "When you approach the water's edge, you can|catch fish... You can exchange the fish you|catch for fish coins at the Fish Exchanger...|<br>|You can also get a reward from the \"Master|Fisherman\" in Rendeau... You can put the fish|you catch into the water tank in your house|<br>|or the fishing pond in your garden."
     },
     "157": {
         "clarity_nt_char_157": "clarity_nt_char_157"
     },
     "158": {
-        "種族ごとのクラブに属して　勝ち点を競い合う|みつどもえのバトルコンテンツです。|勝利を目指して　拠点を獲得し　ジュエルを集めてください。|期間限定の「バトルトリニティ対抗戦」では　優勝を目指して|一致団結して　がんばりましょう。": ""
+        "種族ごとのクラブに属して　勝ち点を競い合う|みつどもえのバトルコンテンツです。|勝利を目指して　拠点を獲得し　ジュエルを集めてください。|期間限定の「バトルトリニティ対抗戦」では　優勝を目指して|一致団結して　がんばりましょう。": "Belonging to a club of each race, compete for|victory points in the battle conten... Aim|for victory, acquire bases, and collect|<br>|Jewels... In the limited-time Battle Trinity|Tournament, you'll have to work together to|win..."
     },
     "159": {
         "clarity_nt_char_159": "clarity_nt_char_159"
     },
     "160": {
-        "１枚の写真を手がかりに　隠されたお宝を探し出すコンテンツです。|パーティメンバーみんなで参加できるので|ワイワイ探しにいくのも良いでしょう。": ""
+        "１枚の写真を手がかりに　隠されたお宝を探し出すコンテンツです。|パーティメンバーみんなで参加できるので|ワイワイ探しにいくのも良いでしょう。": "Use a single photo as a clue to find the|hidden treasure. All party members can|participate in this game, so it's a good idea|<br>|to get together with your..."
     },
     "161": {
         "clarity_nt_char_161": "clarity_nt_char_161"
     },
     "162": {
-        "世界のどこかに現れる　独特な姿をしたモンスターを探し出し|「モンスターシール」を　コレクションしましょう。|シールを集めると　モンスターの生態を知ることができたり|アイテムやモンスターの像を手に入れることができます。": ""
+        "世界のどこかに現れる　独特な姿をしたモンスターを探し出し|「モンスターシール」を　コレクションしましょう。|シールを集めると　モンスターの生態を知ることができたり|アイテムやモンスターの像を手に入れることができます。": "Find the unique monsters that appear|somewhere in the world and collect the|\"Monster Stickers\". By collecting stickers,|<br>|you can learn about the ecology of monsters|and get items and statues of monsters..."
     },
     "163": {
         "clarity_nt_char_163": "clarity_nt_char_163"
     },
     "164": {
-        "ときどき世界のどこかに　不思議な「幻想画」が出現します。|「幻想画」を調べると　不思議な空間へ導かれ|アイテムが手に入ったり　強力なモンスターが現れたりします。|意外な人物と　出会ったりするかもしれませんよ。": ""
+        "ときどき世界のどこかに　不思議な「幻想画」が出現します。|「幻想画」を調べると　不思議な空間へ導かれ|アイテムが手に入ったり　強力なモンスターが現れたりします。|意外な人物と　出会ったりするかもしれませんよ。": "Sometimes, a mysterious illusion appears|somewhere in the world... If you examine the|illusion, you'll be led to a mysterious space|<br>|where you can get items, powerful monsters|will appear... You might even meet an|unexpected person..."
     },
     "165": {
         "clarity_nt_char_165": "clarity_nt_char_165"
     },
     "166": {
-        "アストルティアのどこかで　あるキャラクターたちと|出会うことがあります。|もし見つけたら　彼らの悩み事を　解決してあげましょう。|珍しいアイテムがもらえることも……。": ""
+        "アストルティアのどこかで　あるキャラクターたちと|出会うことがあります。|もし見つけたら　彼らの悩み事を　解決してあげましょう。|珍しいアイテムがもらえることも……。": "Somewhere in Astrutia, you'll come across a|group of characters. If you find them, you|can help them with their problems... You may|<br>|even receive a rare item..."
     },
     "167": {
-        "エステラのお部屋を訪れて　彼女が大好きな「ぬいぐるみ」を|プレゼントしましょう。きっと喜んでくれます。|わたした「ぬいぐるみ」は　棚に並べて飾ってくれます。|たくさんプレゼントすると　いいことがあるかも……？": ""
+        "エステラのお部屋を訪れて　彼女が大好きな「ぬいぐるみ」を|プレゼントしましょう。きっと喜んでくれます。|わたした「ぬいぐるみ」は　棚に並べて飾ってくれます。|たくさんプレゼントすると　いいことがあるかも……？": "I will visit Estella's room and give her her|favorite stuffed animal... She'll be so|happy... You can display the stuffed animal|<br>|on the shelf... If you give many gifts, maybe|something good will happen...?"
     },
     "168": {
         "clarity_nt_char_168": "clarity_nt_char_168"
     },
     "169": {
-        "メレアーデのお部屋に　彼女が大好きなネコを　集めましょう。|メレアーデが　ネコちゃん達の　お世話をしてくれます。|お気に入りの一匹を　探してみるのも良いかもしれません。|たくさんネコを集めると　いいことがあるかも……？": ""
+        "メレアーデのお部屋に　彼女が大好きなネコを　集めましょう。|メレアーデが　ネコちゃん達の　お世話をしてくれます。|お気に入りの一匹を　探してみるのも良いかもしれません。|たくさんネコを集めると　いいことがあるかも……？": "In Mareade's room, she has gathered all the|cats she loves... Mereade will take care of|all the cats. You might want to look for your|<br>|favorite one... The more cats you collect,|the more good things will happen."
     },
     "170": {
-        "ネコの「ついてクンカプセル」を　手に入れることができます。|ガニャポンに必要な　「ニャンコイン」は|「ガニャポン屋」で「ちいさなメダル」と交換できます。|条件を満たすことで出現する　特別なパックも……？": ""
+        "ネコの「ついてクンカプセル」を　手に入れることができます。|ガニャポンに必要な　「ニャンコイン」は|「ガニャポン屋」で「ちいさなメダル」と交換できます。|条件を満たすことで出現する　特別なパックも……？": "You can get a \"Cat's Footsteps Capsule\"...|You can exchange the \"Nyan Coins\" needed for|Ganyapon for \"Tiny Medals\" at the Ganyapon|<br>|Shop... You can also get special packs by|fulfilling certain conditions...?"
     },
     "171": {
-        "仲間モンスターだけのパーティで　モンスター格闘場の|モンスターとバトルするコンテンツです。|おしゃれ装備をはじめ　さまざまな景品を獲得できます。|「バッジ」を集めて　仲間モンスターをさらに強化してください。": ""
+        "仲間モンスターだけのパーティで　モンスター格闘場の|モンスターとバトルするコンテンツです。|おしゃれ装備をはじめ　さまざまな景品を獲得できます。|「バッジ」を集めて　仲間モンスターをさらに強化してください。": "Battle against monsters in the monster|fighting arena with a party of only your|fellow monsters. You can get various prizes|<br>|including fashionable equipment... Collect|\"Badges\" to further strengthen your fellow|monsters..."
     },
     "172": {
-        "メインストーリーで戦ったボスモンスターと　再戦できます。|一部のボスモンスターには　「超強い」難易度が用意されています。|以前よりどのくらい強くなったか　力試しをするのも良いでしょう。": ""
+        "メインストーリーで戦ったボスモンスターと　再戦できます。|一部のボスモンスターには　「超強い」難易度が用意されています。|以前よりどのくらい強くなったか　力試しをするのも良いでしょう。": "You can re-fight the boss monsters you fought|in the main story... Some of the boss|monsters have a \"super strong\" difficulty|<br>|level... You can test your strength to see|how much stronger you are than before..."
     },
     "173": {
         "clarity_nt_char_173": "clarity_nt_char_173"
     },
     "174": {
-        "町にいる「達人」から　毎週５つのクエストが提示されます。|その中からひとつ選んで　達成することで|設定された数の宝珠を　報酬にもらうことができます。|さまざまな条件から　達成できそうなものに挑戦してみましょう。": ""
+        "町にいる「達人」から　毎週５つのクエストが提示されます。|その中からひとつ選んで　達成することで|設定された数の宝珠を　報酬にもらうことができます。|さまざまな条件から　達成できそうなものに挑戦してみましょう。": "Every week, a master in town will present you|with five quests... By completing one of|these quests, you'll be rewarded with a set|<br>|number of jewels. There are a variety of|conditions, so let's take a shot at the ones|we think we can complete..."
     },
     "175": {
-        "職人になると　装備品や家具を作ったり|さまざまな錬金効果をつけたりすることができます。|作成したアイテムは　「旅人バザー」などの施設で売買できます。|まずは練習を積んで　職人のレベルアップを目指しましょう。": ""
+        "職人になると　装備品や家具を作ったり|さまざまな錬金効果をつけたりすることができます。|作成したアイテムは　「旅人バザー」などの施設で売買できます。|まずは練習を積んで　職人のレベルアップを目指しましょう。": "As a craftsman, you can create equipment,|furniture, and various alchemical effects.|The items you create can be bought and sold|<br>|at the Traveler's Bazaar... The first step is|to practice and improve your craftsmanship..."
     },
     "176": {
-        "謎の遺跡島にある　正体不明のダンジョンを探索するコンテンツです。|探索で手に入る　「冥海の光玉」を　出口まで持ち帰ると|さまざまな防具を　手に入れることができます。 |より多くの部屋を回れるよう　順番を考えながら進みましょう。": ""
+        "謎の遺跡島にある　正体不明のダンジョンを探索するコンテンツです。|探索で手に入る　「冥海の光玉」を　出口まで持ち帰ると|さまざまな防具を　手に入れることができます。 |より多くの部屋を回れるよう　順番を考えながら進みましょう。": "Explore an unidentified dungeon on a|mysterious ruin island in this conten... If|you bring the Underworld Ball back to the|<br>|exit, you'll be able to get a variety of|armor... You'll need to think about the order|in which you'll visit the rooms in order|<br>|to..."
     },
     "177": {
-        "入るたびに構造が変わるダンジョンを探索し|最深部にいるボスを討伐するコンテンツです。|クリアすると１日１回　必ず「ふくびき券」を手に入れられるので|コツコツ遊んでみるのも良いでしょう。": ""
+        "入るたびに構造が変わるダンジョンを探索し|最深部にいるボスを討伐するコンテンツです。|クリアすると１日１回　必ず「ふくびき券」を手に入れられるので|コツコツ遊んでみるのも良いでしょう。": "This is a game where you explore dungeons|whose structure changes every time you enter,|and try to defeat the boss at the deepest|<br>|level. You'll be able to get a coupon once a|day if you clear the dungeon, so it's a good|idea to keep playing..."
     },
     "178": {
         "clarity_nt_char_178": "clarity_nt_char_178"
     },
     "179": {
-        "魔法の迷宮で戦うことができる　特別なボスモンスターです。|「コイン」「メダル」「運命のカード」「召喚符」をささげることで|それぞれに対応したボスと戦うことができます。|討伐に成功すると　強力なアクセサリーを手に入れることができます。|低Lvのボスほど初心者向けのものなので　参考にすると良いでしょう。": ""
+        "魔法の迷宮で戦うことができる　特別なボスモンスターです。|「コイン」「メダル」「運命のカード」「召喚符」をささげることで|それぞれに対応したボスと戦うことができます。|討伐に成功すると　強力なアクセサリーを手に入れることができます。|低Lvのボスほど初心者向けのものなので　参考にすると良いでしょう。": "Special boss monsters to fight in the Magic|Labyrinth... By offering \"Coins\", \"Medals\",|\"Cards of Fate\", and \"Summoning Tickets\", you|<br>|can fight bosses corresponding to each of|them... If you succeed in defeating them, you|can get powerful accessories... The lower lvl|<br>|bosses are more suitable for beginners, so|it's better to refer to them..."
     },
     "180": {
         "clarity_nt_char_180": "clarity_nt_char_180"
     },
     "181": {
-        "ピラミッドの霊廟に現れる　モンスターの集団を撃退しましょう。|次々にモンスターが現れるので　モンスターを倒すばかりではなく|ときには慎重に回復したり　ＭＰを温存することも大切です。|ひとつの霊廟から　一週間に一度だけ　報酬を獲得することができます。": ""
+        "ピラミッドの霊廟に現れる　モンスターの集団を撃退しましょう。|次々にモンスターが現れるので　モンスターを倒すばかりではなく|ときには慎重に回復したり　ＭＰを温存することも大切です。|ひとつの霊廟から　一週間に一度だけ　報酬を獲得することができます。": "Fight off groups of monsters that appear in|the pyramid mausoleum. Monsters keep|appearing, so it's not just a matter of|<br>|killing them, but sometimes it's important to|heal carefully and conserve your MP... From a|single mausoleum, you can earn rewards only|<br>|once a week..."
     },
     "182": {
         "clarity_nt_char_182": "clarity_nt_char_182"
     },
     "183": {
-        "勇者姫アンルシアや仲間モンスターと共に　ダンジョンを探索し|最深部にいる　ボスモンスターの討伐を　目指すコンテンツです。|制限時間が厳しいので　クリアを目指すか　うつしよの箱を集めるか|状況を見極めながら　進めていくことになります。": ""
+        "勇者姫アンルシアや仲間モンスターと共に　ダンジョンを探索し|最深部にいる　ボスモンスターの討伐を　目指すコンテンツです。|制限時間が厳しいので　クリアを目指すか　うつしよの箱を集めるか|状況を見極めながら　進めていくことになります。": "You're a brave princess, and you and your|fellow monsters have to explore the dungeon|and defeat the boss monster in the deepest|<br>|part of the dungeon. The time limit is tight,|so you'll have to decide whether you want to|clear the dungeon or collect the box of|<br>|Utsushiyo..."
     },
     "184": {
         "clarity_nt_char_184": "clarity_nt_char_184"
     },
     "185": {
-        "８人でのパーティ同盟で挑む　バトルコンテンツです。|ボスモンスターの組み合わせや　挑戦するためのお題が|毎回変化するため　勝利するには　協力と工夫が求められます。|一定条件で出現する「天獄」では　さらに厳しい戦いが待っています。": ""
+        "８人でのパーティ同盟で挑む　バトルコンテンツです。|ボスモンスターの組み合わせや　挑戦するためのお題が|毎回変化するため　勝利するには　協力と工夫が求められます。|一定条件で出現する「天獄」では　さらに厳しい戦いが待っています。": "This is a battle conten... The combination of|boss monsters and the challenges change every|time, so cooperation and ingenuity are|<br>|required to win... In the \"Heavenly Prison\"|that appears under certain conditions, an|even tougher battle awaits..."
     },
     "186": {
         "clarity_nt_char_186": "clarity_nt_char_186"
     },
     "187": {
-        "そびえたつ塔の中にひそむ　モンスターを倒しながら|上の階を目指していくダンジョンです。|挑戦するたびに　レベル１からスタートし|塔の外での冒険で獲得した　アイテムやゴールドは　持ち込めません。|塔の中で自分を鍛えながら進んでいきましょう。": ""
+        "そびえたつ塔の中にひそむ　モンスターを倒しながら|上の階を目指していくダンジョンです。|挑戦するたびに　レベル１からスタートし|塔の外での冒険で獲得した　アイテムやゴールドは　持ち込めません。|塔の中で自分を鍛えながら進んでいきましょう。": "You're a dungeon hunter, trying to reach the|top floor while defeating the monsters that|lurk in the tower. Each challenge starts you|<br>|at level one, and you can't bring in any|items or gold you've earned in your|adventures outside the tower. Train yourself|<br>|as you progress in the tower..."
     },
     "188": {
-        "住宅の庭に　畑を設置すると|花や作物のタネをまいて　育てることができます。|日々お世話をして　染色の花や　調理の素材などのアイテムを|上手に手に入れてください。": ""
+        "住宅の庭に　畑を設置すると|花や作物のタネをまいて　育てることができます。|日々お世話をして　染色の花や　調理の素材などのアイテムを|上手に手に入れてください。": "When you set up a garden in your house, you|can sow and grow flowers and crops. You'll|need to take care of them every day to|<br>|acquire items such as flowers for dyeing and|materials for cooking..."
     },
     "189": {
         "clarity_nt_char_189": "clarity_nt_char_189"
     },
     "190": {
-        "装備品や素材を　訪れた冒険者に販売するための家具です。|「収納家具」内のアイテムを選択し　販売金額を設定できます。|自宅を飾りつけ　自分のお店を開くのも楽しいでしょう。": ""
+        "装備品や素材を　訪れた冒険者に販売するための家具です。|「収納家具」内のアイテムを選択し　販売金額を設定できます。|自宅を飾りつけ　自分のお店を開くのも楽しいでしょう。": "A house for selling equipment and materials|to visiting adventurers... Select items in|the \"Storage Furniture\" section and set the|<br>|selling price... Decorate your home and open|your own shop..."
     },
     "191": {
         "clarity_nt_char_191": "clarity_nt_char_191"
     },
     "192": {
-        "モンスターの軍団から　防衛拠点を守るバトルコンテンツです。|みんなで協力して　防衛結界を守りぬきましょう。|報酬でもらえる　「防衛メダル」や素材を集めると|「報酬交換員Ｙ」にて　さまざまな武器や盾と交換できます。": ""
+        "モンスターの軍団から　防衛拠点を守るバトルコンテンツです。|みんなで協力して　防衛結界を守りぬきましょう。|報酬でもらえる　「防衛メダル」や素材を集めると|「報酬交換員Ｙ」にて　さまざまな武器や盾と交換できます。": "Defend your base from an army of monsters in|this battle conten... Cooperate with others|to protect the defense wards... Collect|<br>|defense medals and materials to exchange for|various weapons and shields at \"Reward|Exchanger Y..."
     },
     "193": {
         "clarity_nt_char_193": "clarity_nt_char_193"
     },
     "194": {
-        "次々と迫りくるモンスターを倒していく　スコアアタックバトルです。|たくさんのモンスターを倒して　ハイスコアを狙いましょう。|全滅してしまうとクリアにならず　スコアは０になってしまうので|戦況を見て　慎重に退くことも重要な戦略になります。": ""
+        "次々と迫りくるモンスターを倒していく　スコアアタックバトルです。|たくさんのモンスターを倒して　ハイスコアを狙いましょう。|全滅してしまうとクリアにならず　スコアは０になってしまうので|戦況を見て　慎重に退くことも重要な戦略になります。": "Defeat the monsters that are coming one after|another. Kill as many monsters as possible to|get a high score... If you get wiped out, you|<br>|won't be able to clear the game and your|score will be zero, so it's important to|watch the battle situation and retreat|<br>|carefully."
     },
     "195": {
         "clarity_nt_char_195": "clarity_nt_char_195"
@@ -594,91 +594,91 @@
         "古代の羅刹たちの復活を阻止するため　強敵たちに挑みます。|挑戦には「破魔石」が必要となります。|羅刹たちは　アストルティア最強クラス。つよさが毎日変化します。|腕に自信のある冒険者でも　倒すことは至難と言えるでしょう。": ""
     },
     "199": {
-        "４対４でプレイヤー同士がバトルする施設です。|「公式バトル」で　ランキングの頂点を目指したり|闘技者としての　腕を競い合いましょう。|期間限定の「バトルグランプリ」では　景品も獲得できます。": ""
+        "４対４でプレイヤー同士がバトルする施設です。|「公式バトル」で　ランキングの頂点を目指したり|闘技者としての　腕を競い合いましょう。|期間限定の「バトルグランプリ」では　景品も獲得できます。": "4 vs. 4 battles between players... Aim for|the top of the rankings in \"Official Battles\"|and compete with your skills as a fighter...|<br>|In the limited time Battle Grand Prix, you|can win prizes..."
     },
     "200": {
-        "目標として提示された能力値の達成を目指すコンテンツです。|達成することで　スキルブックなどの報酬がもらえます。|レベルを上げたり　装備する武器や防具　アクセサリーを駆使して　|目標の数値に到達しましょう。": ""
+        "目標として提示された能力値の達成を目指すコンテンツです。|達成することで　スキルブックなどの報酬がもらえます。|レベルを上げたり　装備する武器や防具　アクセサリーを駆使して　|目標の数値に到達しましょう。": "This is a game where you aim to achieve a|certain ability value... You'll be rewarded|with skill books and other items... Raise|<br>|your level, equip weapons and armor, and use|accessories to reach your goal..."
     },
     "201": {
         "clarity_nt_char_201": "clarity_nt_char_201"
     },
     "202": {
-        "魔界では　まれに「輝晶獣」という強力なモンスターが出現します。|この輝晶獣が持つ「輝晶核」を集めると|武器に「輝晶効果」という追加効果を付けることができます。|また　輝晶獣には魔界のモンスターから手に入る|「魔因細胞」を集めることでも挑戦できます。": ""
+        "魔界では　まれに「輝晶獣」という強力なモンスターが出現します。|この輝晶獣が持つ「輝晶核」を集めると|武器に「輝晶効果」という追加効果を付けることができます。|また　輝晶獣には魔界のモンスターから手に入る|「魔因細胞」を集めることでも挑戦できます。": "In the world of magic, powerful monsters|called \"pyrotechnics\" rarely appear... If you|collect the \"pyroxene cores\" of these|<br>|monsters, you can add an additional effect|called \"pyroxene effect\" to your weapon... In|addition, you can also challenge the monsters|<br>|by collecting \"Demon Cells\" that you can get|from monsters in the Demon World..."
     },
     "203": {
         "clarity_nt_char_203": "clarity_nt_char_203"
     },
     "204": {
-        "期間限定で開催される　生き残りクイズバトルです。|制限時間内に正解と思う扉を選び　次の部屋へ進んでいきます。|出題される問題は　開催日時によってすべて異なる問題です。|知の城塞の最上階にいるという　「知の盟主」をめざして|チャレンジしてください！": ""
+        "期間限定で開催される　生き残りクイズバトルです。|制限時間内に正解と思う扉を選び　次の部屋へ進んでいきます。|出題される問題は　開催日時によってすべて異なる問題です。|知の城塞の最上階にいるという　「知の盟主」をめざして|チャレンジしてください！": "It's a limited time survival quiz... Choose|the door that you think is the correct answer|within the time limit, and proceed to the|<br>|next room... The questions are all different|depending on the date and time of the... Try|your hand at the \"Lord of Knowledge\" on the|<br>|top floor of the Citadel of Knowledge!"
     },
     "205": {
-        "期間限定で開催される　おたから集めコンテンツです。|幻の海トラシュカへ向かう航海に参加し　障害物をよけながら|打ち上げられる　おたからを集めてハイスコアを狙います。|フレンドやチーム内でのランキングを　確認することもできます。": ""
+        "期間限定で開催される　おたから集めコンテンツです。|幻の海トラシュカへ向かう航海に参加し　障害物をよけながら|打ち上げられる　おたからを集めてハイスコアを狙います。|フレンドやチーム内でのランキングを　確認することもできます。": "This is a limited time contest to collect|takara... Join the voyage to the fantastic|sea of Trashka and collect the takara that|<br>|are launched while avoiding obstacles to get|a high score. You can also check your ranking|among your friends and team..."
     },
     "206": {
-        "期間限定で開催される　追いかけっこコンテンツです。|３人の追跡チームと　５人の逃走チームに　分かれて対戦します。|追跡チームは　制限時間内に　全員捕まえたら勝利。|逃走チームは　１人でも逃げ切ったら勝利となります。|最後まであきらめずに走り回りましょう！": ""
+        "期間限定で開催される　追いかけっこコンテンツです。|３人の追跡チームと　５人の逃走チームに　分かれて対戦します。|追跡チームは　制限時間内に　全員捕まえたら勝利。|逃走チームは　１人でも逃げ切ったら勝利となります。|最後まであきらめずに走り回りましょう！": "A limited-time chase contest... You'll be|divided into two teams... a three-man chase|team and a five-man getaway team. The chase|<br>|team must catch everyone within the time|limit... The escape team wins if even one|person escapes... Don't give up and keep|<br>|running until the end!"
     },
     "207": {
-        "期間限定で開催される　スライムたちとのかくれんぼです。|どこかに隠れている　スライムを見つけてポイントゲット！|ハイスコアを狙うには　協力プレイが重要です。|ガンガンみつけましょう！": ""
+        "期間限定で開催される　スライムたちとのかくれんぼです。|どこかに隠れている　スライムを見つけてポイントゲット！|ハイスコアを狙うには　協力プレイが重要です。|ガンガンみつけましょう！": "A limited time event, Hide and Seek with|Slimes... Find the slimes that are hiding|somewhere and get points! Cooperative play is|<br>|important to get a high score... Find them as|fast as you can!"
     },
     "208": {
-        "期間限定で開催される　特殊なクイズバトルです。|対戦相手のレモンハルトは　何かのモンスターとなって|同じ「とくぎ」や「じゅもん」を使ってきます。|バトル中に得た情報を元に　何のモンスターなのか当てて|経験値や報酬を手に入れましょう！": ""
+        "期間限定で開催される　特殊なクイズバトルです。|対戦相手のレモンハルトは　何かのモンスターとなって|同じ「とくぎ」や「じゅもん」を使ってきます。|バトル中に得た情報を元に　何のモンスターなのか当てて|経験値や報酬を手に入れましょう！": "It's a special quiz game held for a limited|time... Your opponent, Lemonhart, is a|monster of some kind, using the same \"tricks\"|<br>|and \"magic\"... Guess what monster it is based|on the information you get during the battle,|and get experience and rewards!"
     },
     "209": {
         "clarity_nt_char_209": "clarity_nt_char_209"
     },
     "210": {
-        "トランプの「大富豪」を　遊ぶことができます。|配られた手札を　ルールにしたがって　場に出し|最初に手札がなくなった人が　勝者になります。|なかまと一緒に遊んだり　ひとりで練習することもできます。|日替わりルールの「段位戦」にも　挑戦してみましょう。": ""
+        "トランプの「大富豪」を　遊ぶことができます。|配られた手札を　ルールにしたがって　場に出し|最初に手札がなくなった人が　勝者になります。|なかまと一緒に遊んだり　ひとりで練習することもできます。|日替わりルールの「段位戦」にも　挑戦してみましょう。": "It's a game of cards... You're dealt a hand|of cards, and you play according to the|rules, and the first player to run out of|<br>|cards is the winner. You can play with your|friends or practice by yourself... You can|play with your friends or practice by|<br>|yourself..."
     },
     "211": {
         "clarity_nt_char_211": "clarity_nt_char_211"
     },
     "212": {
-        "高額なゴールドが当たる　ビッグでドリームな「くじ券」です。|駅の売店で購入することができます。|当選できなくても　参加賞がもらえるので|販売が開始されたら　ぜひ購入してみてください。": ""
+        "高額なゴールドが当たる　ビッグでドリームな「くじ券」です。|駅の売店で購入することができます。|当選できなくても　参加賞がもらえるので|販売が開始されたら　ぜひ購入してみてください。": "Big, dreamy raffle tickets that win big|gold... You can buy them at the station|kiosks... Even if you don't win, you'll get a|<br>|prize, so be sure to buy one when they go on|sale..."
     },
     "213": {
-        "期間限定で開催される　釣りの大会です。|特定の場所で　専用の釣り道具を使うことで釣り上げることができる|旬のお魚のサイズを競います。|参加は　港町レンドア南にいる釣り師範ナツリから行えます。|豪華な報酬を狙ってガンガン釣りあげましょう！": ""
+        "期間限定で開催される　釣りの大会です。|特定の場所で　専用の釣り道具を使うことで釣り上げることができる|旬のお魚のサイズを競います。|参加は　港町レンドア南にいる釣り師範ナツリから行えます。|豪華な報酬を狙ってガンガン釣りあげましょう！": "This is a limited time fishing game... This|is a competition for the size of seasonal|fish that can be caught by using special|<br>|fishing tools at specific locations. You can|participate in this event from Fishing Master|Natsuri in the port town of Lendore South...|<br>|Catch as many fish as you can for a luxurious|reward!"
     },
     "214": {
         "clarity_nt_char_214": "clarity_nt_char_214"
     },
     "215": {
-        "魔界のどこかにいる　幽霊作家バケンズから|毎週　５つの依頼を受けることができます。|依頼を達成することで　経験値やアイテムを手に入れることができます。|モンスターの討伐から　畑のお世話まで　様々なお題があるので|まずは　どんな依頼があるのか　確認してみましょう！": ""
+        "魔界のどこかにいる　幽霊作家バケンズから|毎週　５つの依頼を受けることができます。|依頼を達成することで　経験値やアイテムを手に入れることができます。|モンスターの討伐から　畑のお世話まで　様々なお題があるので|まずは　どんな依頼があるのか　確認してみましょう！": "Every week, you'll receive five requests from|Bakens, a ghost writer somewhere in the|magical world. By completing the requests,|<br>|you can get experience and items... There are|a variety of tasks, from defeating monsters|to tending to the fields, so let's check out|<br>|what kind of requests there are first!"
     },
     "216": {
-        "依頼者の心が生みだした　ダンジョンを　勇者姫アンルシアや|仲間モンスターと共に探索し　最深部を目指すコンテンツです。|クリアするたびに　迷宮レベルがあがり　敵も強くなっていきますが|経験値や特訓スタンプ　ゴールドを　多く入手できるようになります。|さらに　高い効果を持つ　輝石のベルトが手に入る可能性も！": ""
+        "依頼者の心が生みだした　ダンジョンを　勇者姫アンルシアや|仲間モンスターと共に探索し　最深部を目指すコンテンツです。|クリアするたびに　迷宮レベルがあがり　敵も強くなっていきますが|経験値や特訓スタンプ　ゴールドを　多く入手できるようになります。|さらに　高い効果を持つ　輝石のベルトが手に入る可能性も！": "A dungeon created by the heart of the client,|explore with the brave princess Anne Lucia|and her fellow monsters to reach the deepest|<br>|part of the dungeon. Each time you clear a|dungeon, your labyrinth level will increase|and your enemies will become stronger, but|<br>|you'll also gain more experience, training|stamps, and gold. There's also a chance|you'll be able to get your hands on an even|<br>|more powerful belt of brilliance!"
     },
     "217": {
         "clarity_nt_char_217": "clarity_nt_char_217"
     },
     "218": {
-        "アストルティアのどこかで起こるという　不思議な出来事を|写真機で撮影するクエストです。|まずは　ドルワーム水晶宮２階にいる　学者ドクチョルから|話を聞いてみましょう。": ""
+        "アストルティアのどこかで起こるという　不思議な出来事を|写真機で撮影するクエストです。|まずは　ドルワーム水晶宮２階にいる　学者ドクチョルから|話を聞いてみましょう。": "I'm going to use a photo machine to capture|the mysterious events that are said to take|place somewhere in Astrotasia. First, let's|<br>|talk to Dok Chul, a scholar on the second|floor of the Crystal Palace of Dorworm..."
     },
     "219": {
-        "期間限定で開催される　大富豪の大会です。|大会ごとに決められたルールで　記録を競います。|特別な背景で　いつもと違う雰囲気の大富豪を楽しみましょう。|記録に応じて　豪華な報酬を受け取れます。": ""
+        "期間限定で開催される　大富豪の大会です。|大会ごとに決められたルールで　記録を競います。|特別な背景で　いつもと違う雰囲気の大富豪を楽しみましょう。|記録に応じて　豪華な報酬を受け取れます。": "For a limited time only, we're holding a|millionaire's tournament... Each tournament|has its own set of rules... Enjoy a different|<br>|atmosphere with a special background...|You'll be rewarded for your record..."
     },
     "220": {
-        "期間限定で開催される　特別なモンスターバトルロードです。|８人の冒険者と　パーティ同盟を結成して|特別なモンスターに挑戦します。|「バッジ」などで強化した　自慢の仲間モンスターで|普段とは違う　スペシャルバトルを　お楽しみください！": ""
+        "期間限定で開催される　特別なモンスターバトルロードです。|８人の冒険者と　パーティ同盟を結成して|特別なモンスターに挑戦します。|「バッジ」などで強化した　自慢の仲間モンスターで|普段とは違う　スペシャルバトルを　お楽しみください！": "A special monster battle ro... Form a party|alliance with 8 other adventurers and|challenge special monsters... Enjoy special|<br>|battles with your favorite monsters that|you've enhanced with Badges and more!"
     },
     "221": {
         "clarity_nt_char_221": "clarity_nt_char_221"
     },
     "222": {
-        "コロシアム最強の闘士を決定する　バトルイベントです。|頂点を目指して　戦闘のウデを競い合いましょう。|開催期間中は　公式バトルへの参加はできなくなります。|ランキングの上位入賞者には　特別な報酬を用意しています！": ""
+        "コロシアム最強の闘士を決定する　バトルイベントです。|頂点を目指して　戦闘のウデを競い合いましょう。|開催期間中は　公式バトルへの参加はできなくなります。|ランキングの上位入賞者には　特別な報酬を用意しています！": "A battle event to determine the strongest|fighter in the coliseum... This is a battle|event to determine the best fighter in the|<br>|Coliseum. You can't participate in official|battles during the event... We've prepared|special rewards for the top ranking winners!"
     },
     "223": {
         "clarity_nt_char_223": "clarity_nt_char_223"
     },
     "224": {
-        "あらゆる世界へ　侵略の手を伸ばそうとする　大魔王ゾーマ。|その魔の手が　アストルティアにも迫ろうとしています。|ルイーダの酒場で仲間を集めて　ゾーマの居城へと乗り込み|待ち受ける大魔王ゾーマに　挑戦しましょう！|報酬の「精霊のひかり」は　さまざまなお礼の品と交換できます。": ""
+        "あらゆる世界へ　侵略の手を伸ばそうとする　大魔王ゾーマ。|その魔の手が　アストルティアにも迫ろうとしています。|ルイーダの酒場で仲間を集めて　ゾーマの居城へと乗り込み|待ち受ける大魔王ゾーマに　挑戦しましょう！|報酬の「精霊のひかり」は　さまざまなお礼の品と交換できます。": "The Great Demon Lord is about to invade all|the worlds... And now that his evil hand is|closing in on Astrutia... Gather your friends|<br>|at Louida's Tavern and ride to Zoma's castle|to challenge him! You'll be rewarded with a|variety of gifts in exchange for your \"Spirit|<br>|Light\"..."
     },
     "225": {
         "clarity_nt_char_225": "clarity_nt_char_225"
     },
     "226": {
-        "クラブ同士の威信をかけた　期間限定の大会です。|勝ち点を稼いで　所属クラブを優勝へと導き|トロフィーを　ホームタウンに　持ち帰りましょう！|優勝クラブの参加者には　賞金が贈られるほか|貢献度や　クラブ別のランキングによる報酬も　獲得できます。": ""
+        "クラブ同士の威信をかけた　期間限定の大会です。|勝ち点を稼いで　所属クラブを優勝へと導き|トロフィーを　ホームタウンに　持ち帰りましょう！|優勝クラブの参加者には　賞金が贈られるほか|貢献度や　クラブ別のランキングによる報酬も　獲得できます。": "It's a limited time event where clubs are|pitting their prestige against each other.|Earn points, lead your club to victory, and|<br>|bring the trophy back to your hometown!|Participants from the winning club will|receive cash prizes, as well as rewards based|<br>|on their contribution and club rankings."
     },
     "227": {
-        "「お祭りコイン」を使って挑戦できる　期間限定のお祭りです。|ポーカー　スロット　ルーレット　ビンゴを遊ぶと|特別なカジノレイドが発生します。|１回のレイドで稼いだコインは記録され　上位がランキングされるほか|討伐したモンスターの種類に応じて　レイド討伐報酬が受け取れます。": ""
+        "「お祭りコイン」を使って挑戦できる　期間限定のお祭りです。|ポーカー　スロット　ルーレット　ビンゴを遊ぶと|特別なカジノレイドが発生します。|１回のレイドで稼いだコインは記録され　上位がランキングされるほか|討伐したモンスターの種類に応じて　レイド討伐報酬が受け取れます。": "A limited time festival where you can use|your \"Festival Coins\" to challenge... When|you play poker, slots, roulette and bingo, a|<br>|special casino raid will occur... The coins|earned in each raid will be recorded and the|top players will be ranked."
     },
     "228": {
         "clarity_nt_char_228": "clarity_nt_char_228"
@@ -687,7 +687,7 @@
         "clarity_ms_space_229": "clarity_ms_space_229"
     },
     "230": {
-        "錬金石　経験値　特訓スタンプ　ゴールド　など": ""
+        "錬金石　経験値　特訓スタンプ　ゴールド　など": "Alchemy stone, experience, training stamp, gold, etc"
     },
     "231": {
         "clarity_nt_char_231": "clarity_nt_char_231"
@@ -696,37 +696,37 @@
         "錬金石　経験値　特訓スタンプ　など": ""
     },
     "233": {
-        "経験値　特訓スタンプ　ゴールド　スキルブック　など": ""
+        "経験値　特訓スタンプ　ゴールド　スキルブック　など": "Experience, Training Stamps, Gold, Skill Books, etc"
     },
     "234": {
-        "経験値　特訓スタンプ　ゴールド　など": ""
+        "経験値　特訓スタンプ　ゴールド　など": "Experience, training stamps, gold, etc"
     },
     "235": {
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "236": {
-        "経験値　オーブ　など": ""
+        "経験値　オーブ　など": "Experience, orbs, etc"
     },
     "237": {
         "clarity_nt_char_237": "clarity_nt_char_237"
     },
     "238": {
-        "おめかしレアカラー券　など": ""
+        "おめかしレアカラー券　など": "Dressed up rare color tickets etc"
     },
     "239": {
-        "身代わりのコイン　錬金石　ボスカード　ボスコイン無料券　など": ""
+        "身代わりのコイン　錬金石　ボスカード　ボスコイン無料券　など": "Substitute coin, alchemy stone, boss card, boss coin free ticket, etc"
     },
     "240": {
         "clarity_nt_char_240": "clarity_nt_char_240"
     },
     "241": {
-        "ちいさなメダル　故郷のルーラストーン　など": ""
+        "ちいさなメダル　故郷のルーラストーン　など": "Tiny Medal, Ruler Stone of Home, etc"
     },
     "242": {
-        "ちいさなメダル　お役立ち機能　など": ""
+        "ちいさなメダル　お役立ち機能　など": "Small medals, useful functions, etc"
     },
     "243": {
-        "まりょくのたね　お役立ち機能　おしゃれ装備　など": ""
+        "まりょくのたね　お役立ち機能　おしゃれ装備　など": "Marigold Points Useful Functions Stylish Equipment, etc"
     },
     "244": {
         "clarity_nt_char_244": "clarity_nt_char_244"
@@ -738,7 +738,7 @@
         "clarity_nt_char_246": "clarity_nt_char_246"
     },
     "247": {
-        "まりょくのたね　ふしぎなきのみ　など": ""
+        "まりょくのたね　ふしぎなきのみ　など": "Magic Seeds, Mysterious Rituals, etc"
     },
     "248": {
         "clarity_nt_char_248": "clarity_nt_char_248"
@@ -747,22 +747,22 @@
         "いのちのきのみ　黄金の花びら　など": "Seed of Life, Golden Petals, etc."
     },
     "250": {
-        "おしゃれ装備　ふしぎなきのみ": ""
+        "おしゃれ装備　ふしぎなきのみ": "Fashionable Equipment"
     },
     "251": {
         "clarity_nt_char_251": "clarity_nt_char_251"
     },
     "252": {
-        "ルーラストーン　家具庭具　おしゃれ装備　ドルボードプリズム　など": ""
+        "ルーラストーン　家具庭具　おしゃれ装備　ドルボードプリズム　など": "Rulastone, Furniture, Garden Equipment, Fashionable Equipment, Dollar Board Prism, etc"
     },
     "253": {
         "clarity_nt_char_253": "clarity_nt_char_253"
     },
     "254": {
-        "ゴールド　など": ""
+        "ゴールド　など": "Gold, etc"
     },
     "255": {
-        "ドルボードプリズム　など": ""
+        "ドルボードプリズム　など": "Dollar Board Prism, etc"
     },
     "256": {
         "clarity_nt_char_256": "clarity_nt_char_256"
@@ -777,13 +777,13 @@
         "調理素材　おしゃれ装備　家具庭具　など": ""
     },
     "260": {
-        "経験値の聖典　ボスコイン　黄金の花びら　など": ""
+        "経験値の聖典　ボスコイン　黄金の花びら　など": "Scripture of Experience, Boss Coin, Golden Petal, etc"
     },
     "261": {
         "clarity_nt_char_261": "clarity_nt_char_261"
     },
     "262": {
-        "ボスコイン　錬金石　ちいさなメダル　など": ""
+        "ボスコイン　錬金石　ちいさなメダル　など": "Boss coins, alchemy stones, small medals, etc"
     },
     "263": {
         "clarity_nt_char_263": "clarity_nt_char_263"
@@ -804,43 +804,43 @@
         "clarity_nt_char_268": "clarity_nt_char_268"
     },
     "269": {
-        "スキルブック　ふしぎなきのみ　傘装備": ""
+        "スキルブック　ふしぎなきのみ　傘装備": "Skill Book: Fushigi Kiwami, Umbrella Equipment"
     },
     "270": {
         "clarity_nt_char_270": "clarity_nt_char_270"
     },
     "271": {
-        "家具庭具　ついてクンカプセル": ""
+        "家具庭具　ついてクンカプセル": "Furniture Garden Tools Perched Kun Capsule"
     },
     "272": {
         "clarity_nt_char_272": "clarity_nt_char_272"
     },
     "273": {
-        "ついてクンカプセル": ""
+        "ついてクンカプセル": "Token Capsule"
     },
     "274": {
-        "おしゃれ装備　絆のエンブレム　スカウトの書　など": ""
+        "おしゃれ装備　絆のエンブレム　スカウトの書　など": "Stylish Equipment, Kizuna no Emblem, Scout's Book, etc"
     },
     "275": {
         "clarity_nt_char_275": "clarity_nt_char_275"
     },
     "276": {
-        "スキルブック　ちいさなメダル　黄金の花びら　など": ""
+        "スキルブック　ちいさなメダル　黄金の花びら　など": "Skill Book, Tiny Medals, Golden Petals, etc"
     },
     "277": {
         "clarity_nt_char_277": "clarity_nt_char_277"
     },
     "278": {
-        "達人の宝珠": ""
+        "達人の宝珠": "Guru's bead"
     },
     "279": {
-        "レベル90以上の防具": ""
+        "レベル90以上の防具": "Level 90 or higher armor"
     },
     "280": {
         "clarity_nt_char_280": "clarity_nt_char_280"
     },
     "281": {
-        "ふくびき券　など": ""
+        "ふくびき券　など": "Lucky draw tickets, etc"
     },
     "282": {
         "clarity_nt_char_282": "clarity_nt_char_282"
@@ -849,28 +849,28 @@
         "アクセサリー　など": "Accessories, etc."
     },
     "284": {
-        "黄金のブローチ・アンク　など": ""
+        "黄金のブローチ・アンク　など": "Golden brooch, ankh, etc"
     },
     "285": {
         "clarity_nt_char_285": "clarity_nt_char_285"
     },
     "286": {
-        "輝石のベルト　など": ""
+        "輝石のベルト　など": "Bright stone belt etc"
     },
     "287": {
-        "戦神のベルト　など": ""
+        "戦神のベルト　など": "Belt of the God of War, etc"
     },
     "288": {
-        "不思議のカード　など": ""
+        "不思議のカード　など": "Wonder Cards, etc"
     },
     "289": {
         "clarity_nt_char_289": "clarity_nt_char_289"
     },
     "290": {
-        "カラーフラワー　調理素材　など": ""
+        "カラーフラワー　調理素材　など": "Colored flowers, cooking materials, etc"
     },
     "291": {
-        "レベル90以上の武器・盾　経験値の聖典　など": ""
+        "レベル90以上の武器・盾　経験値の聖典　など": "Level 90+ weapons and shields, Scripture of Experience, etc"
     },
     "292": {
         "clarity_nt_char_292": "clarity_nt_char_292"
@@ -879,13 +879,13 @@
         "紋章アクセサリー　など": "Crest Accessories, etc."
     },
     "294": {
-        "アクセサリー　おしゃれ装備": ""
+        "アクセサリー　おしゃれ装備": "Accessories Fashionable Equipment"
     },
     "295": {
-        "経験値の古文書　フィギュアチケット　黄金の花びら　など": ""
+        "経験値の古文書　フィギュアチケット　黄金の花びら　など": "Old documents of experience, figure tickets, golden petals, etc"
     },
     "296": {
-        "スキルブック　ちからのたね　など": ""
+        "スキルブック　ちからのたね　など": "Skill Book: Seeds of Power, etc"
     },
     "297": {
         "clarity_nt_char_297": "clarity_nt_char_297"
@@ -897,10 +897,10 @@
         "clarity_nt_char_299": "clarity_nt_char_299"
     },
     "300": {
-        "ふくびき券": ""
+        "ふくびき券": "lottery ticket"
     },
     "301": {
-        "ドルボードプリズム　傘装備　など": ""
+        "ドルボードプリズム　傘装備　など": "Dollar Board Prism, Umbrella Equipment, etc"
     },
     "302": {
         "clarity_nt_char_302": "clarity_nt_char_302"
@@ -918,13 +918,13 @@
         "clarity_nt_char_306": "clarity_nt_char_306"
     },
     "307": {
-        "ふしぎなイレモン　経験値　特訓スタンプ　など": ""
+        "ふしぎなイレモン　経験値　特訓スタンプ　など": "Mysterious Elemon, experience, special training stamp, etc"
     },
     "308": {
         "clarity_nt_char_308": "clarity_nt_char_308"
     },
     "309": {
-        "トランプ　など": ""
+        "トランプ　など": "Trump, etc"
     },
     "310": {
         "ゴールド　夢のアクセサリー箱２　など": "Gold, Dream Accessory Box 2s, etc."
@@ -933,7 +933,7 @@
         "clarity_nt_char_311": "clarity_nt_char_311"
     },
     "312": {
-        "ドルボードプリズム　おしゃれ装備　家具庭具　など": ""
+        "ドルボードプリズム　おしゃれ装備　家具庭具　など": "Dollar Board Prism, Stylish Equipment, Furniture, Garden Tools, etc"
     },
     "313": {
         "clarity_nt_char_313": "clarity_nt_char_313"
@@ -942,55 +942,55 @@
         "経験値　特訓スタンプ　錬金石　など": ""
     },
     "315": {
-        "オーブ　ちいさなメダル　しぐさ書": ""
+        "オーブ　ちいさなメダル　しぐさ書": "Orb, a small medal, a book of gestures"
     },
     "316": {
         "clarity_nt_char_316": "clarity_nt_char_316"
     },
     "317": {
-        "トランプ　大富豪の背景　など": ""
+        "トランプ　大富豪の背景　など": "Background of Trump Millionaire etc"
     },
     "318": {
         "clarity_nt_char_318": "clarity_nt_char_318"
     },
     "319": {
-        "おしゃれ装備　バッジ交換券　ハッピーハート　など": ""
+        "おしゃれ装備　バッジ交換券　ハッピーハート　など": "Stylish Equipment Badge Exchange Ticket Happy Heart, etc"
     },
     "320": {
         "clarity_nt_char_320": "clarity_nt_char_320"
     },
     "321": {
-        "錬金石　ボスコイン　黄金の花びら　など": ""
+        "錬金石　ボスコイン　黄金の花びら　など": "Alchemy stones, boss coins, golden petals, etc"
     },
     "322": {
-        "アリアハン装備　ゾーマ装備　など": ""
+        "アリアハン装備　ゾーマ装備　など": "Ariahan equipment, Zoma equipment, etc"
     },
     "323": {
         "clarity_nt_char_323": "clarity_nt_char_323"
     },
     "324": {
-        "経験値の聖典　ふくびき券　ボスコイン　おしゃれ装備　家具　など": ""
+        "経験値の聖典　ふくびき券　ボスコイン　おしゃれ装備　家具　など": "Scripture of Experience, Voucher, Boss Coin, Stylish Equipment, Furniture, etc"
     },
     "325": {
-        "錬金石　プレゼントチケット　など": ""
+        "錬金石　プレゼントチケット　など": "Alchemy stone, Gift ticket, etc"
     },
     "326": {
         "clarity_nt_char_326": "clarity_nt_char_326"
     },
     "327": {
-        "<speed=0>その場所へは 登録がないと|移動できません。": ""
+        "<speed=0>その場所へは 登録がないと|移動できません。": "<speed=0>You can't get to that location without|registering..."
     },
     "328": {
         "ハウジング": ""
     },
     "329": {
-        "日替わり討伐クエスト": ""
+        "日替わり討伐クエスト": "Daily Defeat Quests"
     },
     "330": {
         "clarity_nt_char_330": "clarity_nt_char_330"
     },
     "331": {
-        "週替わり討伐クエスト": ""
+        "週替わり討伐クエスト": "Weekly Defeat Quests"
     },
     "332": {
         "clarity_nt_char_332": "clarity_nt_char_332"
@@ -1002,7 +1002,7 @@
         "clarity_nt_char_334": "clarity_nt_char_334"
     },
     "335": {
-        "世界調律クエスト": ""
+        "世界調律クエスト": "World Tuning Quest"
     },
     "336": {
         "clarity_nt_char_336": "clarity_nt_char_336"
@@ -1026,7 +1026,7 @@
         "神話篇": "Mythology"
     },
     "343": {
-        "夢現篇": ""
+        "夢現篇": "Dream Now"
     },
     "344": {
         "破界篇": ""
@@ -1038,7 +1038,7 @@
         "clarity_nt_char_346": "clarity_nt_char_346"
     },
     "347": {
-        "サジェとリルチェラの神聖秘文": ""
+        "サジェとリルチェラの神聖秘文": "The Sacred Mysteries of Saje and Lil'chela"
     },
     "348": {
         "clarity_nt_char_348": "clarity_nt_char_348"
@@ -1047,7 +1047,7 @@
         "妖精図書館": "Fairy Library"
     },
     "350": {
-        "ミステリークエスト": ""
+        "ミステリークエスト": "mystery quest"
     },
     "351": {
         "カジノ": "Casino"
@@ -1056,7 +1056,7 @@
         "スライムレース": "Slime Races"
     },
     "353": {
-        "ドルボードレース": ""
+        "ドルボードレース": "dollar board race"
     },
     "354": {
         "clarity_nt_char_354": "clarity_nt_char_354"
@@ -1083,7 +1083,7 @@
         "お宝の写真": ""
     },
     "362": {
-        "モンスターシール": ""
+        "モンスターシール": "Monster Seal"
     },
     "363": {
         "clarity_nt_char_363": "clarity_nt_char_363"
@@ -1092,7 +1092,7 @@
         "幻想画": "Fntsy Art"
     },
     "365": {
-        "流浪のキャラクター": ""
+        "流浪のキャラクター": "wandering character"
     },
     "366": {
         "エステラの部屋": "Estella's Room"
@@ -1101,19 +1101,19 @@
         "メレアーデのお部屋": "Mereade's Room"
     },
     "368": {
-        "ガニャポン": ""
+        "ガニャポン": "gannyapon"
     },
     "369": {
-        "モンスターバトルロード": ""
+        "モンスターバトルロード": "Monster Battle Road"
     },
     "370": {
-        "バトル・ルネッサンス": ""
+        "バトル・ルネッサンス": "battle renaissance"
     },
     "371": {
         "clarity_nt_char_371": "clarity_nt_char_371"
     },
     "372": {
-        "達人クエスト": ""
+        "達人クエスト": "Guru Quest"
     },
     "373": {
         "clarity_nt_char_373": "clarity_nt_char_373"
@@ -1125,19 +1125,19 @@
         "clarity_nt_char_375": "clarity_nt_char_375"
     },
     "376": {
-        "期間限定で開催される　２０人での協力型コンテンツです。|海底で故障した　潜水艇ガテリア号を修理するため|協力しながら　パーツを集めましょう。|お宝をたくさんひろって　無事海底から帰還できれば　高スコアです！|全員で助けあって　海底探索を　成功させましょう！": ""
+        "期間限定で開催される　２０人での協力型コンテンツです。|海底で故障した　潜水艇ガテリア号を修理するため|協力しながら　パーツを集めましょう。|お宝をたくさんひろって　無事海底から帰還できれば　高スコアです！|全員で助けあって　海底探索を　成功させましょう！": "This is a limited-time, 20-player co-op|contest... The submarine Gateria has broken|down at the bottom of the ocean, and you must|<br>|work together to collect the parts to repair|it. You'll get a high score if you can return|safely from the bottom of the ocean with lots|<br>|of treasure! Let's all help each other to|successfully explore the ocean floor!"
     },
     "377": {
         "clarity_nt_char_377": "clarity_nt_char_377"
     },
     "378": {
-        "おしゃれ装備　ふくびき券　など　": ""
+        "おしゃれ装備　ふくびき券　など　": "Fashionable Equipment Vouchers, etc"
     },
     "379": {
         "clarity_nt_char_379": "clarity_nt_char_379"
     },
     "380": {
-        "黒・緑・青・黄・白のキーエンブレムを持っている": ""
+        "黒・緑・青・黄・白のキーエンブレムを持っている": "I have black, green, blue, yellow, and white key emblems"
     },
     "381": {
         "継続特典係ミノノ": "Benefits Shop Minono"
@@ -1149,13 +1149,13 @@
         "フェスタ・インフェルノ": "Festa Inferno"
     },
     "384": {
-        "特典プレゼントの『継続特典』を　受け取ることができます。|さらに　すでに受け取っている『継続特典』の　一部の特典は|『継続特典』を受け取っていない　他の『冒険の書』のキャラクターでも|プレゼントチケットで　交換することもできます。": ""
+        "特典プレゼントの『継続特典』を　受け取ることができます。|さらに　すでに受け取っている『継続特典』の　一部の特典は|『継続特典』を受け取っていない　他の『冒険の書』のキャラクターでも|プレゼントチケットで　交換することもできます。": "You can receive Continuing Privileges as a|gift... In addition, some of the perks you've|already received can be redeemed for Gift|<br>|Tickets by other Adventure Book characters|who haven't received any of the perks..."
     },
     "385": {
-        "８人でのパーティ同盟で強敵に挑む　バトルコンテンツです。|イベントは不定期に開催され　毎回ボスモンスターが変わります。|挑むボスモンスターたちは　それぞれ強敵なため　|支給されたどうぐを駆使しつつ　みんなで協力して　倒しましょう。": ""
+        "８人でのパーティ同盟で強敵に挑む　バトルコンテンツです。|イベントは不定期に開催され　毎回ボスモンスターが変わります。|挑むボスモンスターたちは　それぞれ強敵なため　|支給されたどうぐを駆使しつつ　みんなで協力して　倒しましょう。": "Take on powerful enemies in an eight-player|party alliance in Battle Conten... The event|is held irregularly, and the boss monster|<br>|changes every time... Each of the boss|monsters you take on is a powerful enemy, so|you'll have to work together to defeat them|<br>|while making full use of the gear you've been|provided."
     },
     "386": {
-        "おしゃれ装備　ベルト倉庫のカギ　など": ""
+        "おしゃれ装備　ベルト倉庫のカギ　など": "Fashionable equipment, key to the belt warehouse, etc"
     },
     "387": {
         "clarity_nt_char_387": "clarity_nt_char_387"
@@ -1170,6 +1170,6 @@
         "ログインするだけで素敵なギフトがもらえる期間限定のキャンペーンです。|開催期間中　どこかの町に行くと世界宿屋協会からギフトカードがもらえ　スタンプを押してもらえます。|ランガーオ村　レーンの村　ツスクルの村　アグラニの町　プクレットの村|にいる ギフト係リーフィーにギフトカードを見せると|スタンプの数に応じてギフトがもらえます！": "This is a limited-time campaign where you can receive gifts by just|logging in. Go to any town to receive a Gift Card and start earning|stamps. Show your Gift Card to Gift Clerk Leafy in Langao, Lane,|Tsusukul, Agrani, or Pukulet to receive your rewards based on how many|stamps you've collected!"
     },
     "391": {
-        "錬金石　ドルボードプリズム　印章　など": ""
+        "錬金石　ドルボードプリズム　印章　など": "Alchemy stone, dollar board prism, seal, etc"
     }
 }
