@@ -489,7 +489,7 @@
         "「そのルーラストーンの記憶場所|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるか？|<yesno><break>": "Would you change the memory location of that|rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
     },
     "164": {
-        "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": ""
+        "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": "Would you like to take a break from your|adventure?|<yesno 2><break>"
     },
     "165": {
         "「冒険　中断。今の仲間　別れることになる。|　本当に　いいか？|<yesno 2><break>": "Adventure... And now we're breaking up... Are|you sure about this?<yesno 2><break>"
@@ -645,7 +645,7 @@
         "「そのルーラストーンの記憶場所|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるか？|<yesno><break>": "Would you change the memory location of that|rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
     },
     "216": {
-        "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": ""
+        "「冒険　中断。今日は　もう休むか？|<yesno 2><break>": "Would you like to take a break from your|adventure?|<yesno 2><break>"
     },
     "217": {
         "「冒険　中断。今の仲間　別れることになる。|　本当に　いいか？|<yesno 2><break>": "Adventure... And now we're breaking up... Are|you sure about this?<yesno 2><break>"
