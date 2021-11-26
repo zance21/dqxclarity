@@ -423,13 +423,13 @@
         "「たしかに　記録したよ。|<br>|「まだ　冒険を続けるつもりかい？|<yesno><break>": "Yeah, I know. It's a record. Are you going to|continue your adventure?<yesno><break>"
     },
     "142": {
-        "「冒険を中断すると　今の仲間とは|　別れてしまうけど　いいのかい？|<yesno 2><break>": "If we interrupt our adventure, we'll be|separated from our current friends, is that|okay with you?<yesno 2><break>"
+        "「冒険を中断すると　今の仲間とは|　別れてしまうけど　いいのかい？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
     },
     "143": {
-        "「冒険を中断すると　今の仲間とは|　別れてしまうが　よろしいかな？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that all right with|you?|<yesno 2><break>"
+        "「冒険を中断すると　今の仲間とは|　別れてしまうが　よろしいかな？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
     },
     "144": {
-        "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": ""
+        "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
     },
     "145": {
         "「<%sL_RULA_POINT>には|　いくつかの　行き先があるけど|　どの場所を覚えさせるんだい？<break>": "<%sL_RULA_POINT> has several destinations,|which one do you want it to remember?<break>"
@@ -804,7 +804,7 @@
         "「冒険を中断して　今日は　もう休まれますか？|<yesno 2><break>": "Would you like to interrupt your adventure|and rest for the day?<yesno 2><break>"
     },
     "269": {
-        "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": ""
+        "「冒険を中断すると　今の仲間とは|　別れてしまいますが　よろしいですか？|<yesno 2><break>": "If you interrupt your adventure, your current|companions will leave, is that okay with you?|<yesno 2><break>"
     },
     "270": {
         "「ああ　我らが神よ！|　<pc>の中に眠る　<%sL_RACE_AFTER>の|　姿を　目覚めさせたまえ！<bw_break>": "Oh, my God!<pc> Awaken the <%sL_RACE_AFTER> that sleeps|within the <%sL_RACE_AFTER>!<bw_break>"
