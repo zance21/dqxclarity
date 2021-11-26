@@ -27942,25 +27942,25 @@
         "第七の災い": "7th Wave"
     },
     "9315": {
-        "第六の災い": ""
+        "第六の災い": "6th Wave"
     },
     "9316": {
-        "第五の災い": ""
+        "第五の災い": "5th Wave"
     },
     "9317": {
-        "第四の災い": ""
+        "第四の災い": "4th Wave"
     },
     "9318": {
-        "第三の災い": ""
+        "第三の災い": "3rd Wave"
     },
     "9319": {
-        "第二の災い": ""
+        "第二の災い": "2nd Wave"
     },
     "9320": {
-        "第一の災い": ""
+        "第一の災い": "1st Wave"
     },
     "9321": {
-        "<%sM_saidan> <%sM_wazawai>": ""
+        "<%sM_saidan> <%sM_wazawai>": "<%sM_saidan> <%sM_wazawai>"
     },
     "9322": {
         "clarity_nt_char_9322": "clarity_nt_char_9322"
@@ -27975,7 +27975,7 @@
         "どの地域？": "Which region?"
     },
     "9326": {
-        "スコア<%nM_num>％アップ！": "Score Up <%nM_num>%!"
+        "スコア<%nM_num>％アップ！": "Score Up <%dM_num>%!"
     },
     "9327": {
         "カテゴリ：<%sM_record_cate>": "Category: <%sM_record_cate>"
@@ -27984,7 +27984,7 @@
         "clarity_nt_char_9328": "clarity_nt_char_9328"
     },
     "9329": {
-        "求める防具": ""
+        "求める防具": "Wanted Armor"
     },
     "9330": {
         "装備レベル<%dM_LV>": "Equipment Lv. <%dM_LV>"
