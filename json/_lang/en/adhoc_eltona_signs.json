@@ -57,10 +57,10 @@
         "<center>↑ツスクルの村": "↑ Tsusukul Village"
     },
     "20": {
-        "<center>↑ツスクルの村|<right>農耕地→": ""
+        "<center>↑ツスクルの村|<right>農耕地→": "↑ Tsusukul Village|→ Farmland"
     },
     "21": {
-        "<center>↑知恵の社|<left>←キリカ草原|<right>ツスクルの村→": ""
+        "<center>↑知恵の社|<left>←キリカ草原|<right>ツスクルの村→": "↑ Wisdom Altar|← Kirika Steppe|→ Tsusukul Village"
     },
     "22": {
         "<left>橋を３つ渡って　東へ行くと　久遠の森。|<left>道なりに西へ行くと　キリカ草原。": ""
@@ -69,7 +69,7 @@
         "<left>遠くに見える　ひときわ大きい木が|<left>我ら　エルフと共に生きる　世界樹です。": ""
     },
     "24": {
-        "<left>←キリカ草原|<right>ツスクルの村→|<center>農耕地↓": ""
+        "<left>←キリカ草原|<right>ツスクルの村→|<center>農耕地↓": "← Kirika Steppe|→ Tsusukul Village|↓ Farmland"
     },
     "25": {
         "<left>光の河を渡った先　キリカ草原。": ""
