@@ -6,7 +6,7 @@
         "<select_se_off>|特典プレゼントを受け取る|プレゼントチケットと交換|説明を聞く|<select_end>|<break>": "<select_se_off>|Receive a special gift|Exchange for gift tickets|Listen to the explanation|<select_end>|<break>"
     },
     "3": {
-        "「他に　用件はある？|<break>": ""
+        "「他に　用件はある？|<break>": "Is there anything else?|<break>"
     },
     "4": {
         "「まず　特典プレゼントについて　説明するわね。|　ここでは　特典プレゼントのうち|　継続特典を　受け取ることができるの。|<br>|「どの特典も　このアカウント内の|　１キャラクターでしか　受け取りできないから|　誰が受け取るか　慎重に選んでね。|<br>|「次に　プレゼントチケットと交換についてね。|　すでに　受け取った継続特典の　一部の特典は|　プレゼントチケットで　交換もできるの。|<br>|「ただし　継続特典から　受け取ったキャラは|　すでに同じものを　もっているから|　交換することができないわ。|<br>|「継続特典から　特典を　受け取ってない|　キャラでも　プレゼントチケットがあれば|　手に入れられるってことね。|<bw_break>": "First, let's talk about the perk gift. In|this section, we'll be discussing the perk|gift of continuity. Each Reward can only be|<br>|redeemed by one character within this|account, so choose carefully who receives|it... Now for the gift tickets and|<br>|redemption... Some of the Continuing|Privileges you've already received can be|exchanged for Gift Tickets... However, you|<br>|can't exchange a character you received from|a Continuity Reward... because you already|have the same one. Even if you haven't|<br>|received any of the perks from the Continuing|Privileges, you can still get them if you|have a Gift Ticket...<bw_break>"
