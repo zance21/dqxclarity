@@ -288,7 +288,7 @@
         "「神に　みちびかれし　迷える子羊よ。|　ようこそ　モガレ修道院へ。|<br>|「この世界では　神は常に　アンタの行動を|　見守っているからね。わざわざ　教会とかで|　冒険の書に　旅の記録をする必要はないんだ。|<br>|「でも　教会とかで　お祈りをすると|　アンタが　チカラ尽きた時の復活場所を|　祈りを捧げた場所に　変更することができるよ。|<br>|「冒険を終えたい時は　さくせんコマンドの|　『冒険を中断する』で　いつでも行えるけど|　危険な場所では　すこし時間がかかるんだ。|<br>|「さて　今日は　いったい　どんな用だい？|<ask><bw_break>": "The lost, who are guided by the gods...|Welcome to the Mogale school. In this world,|the gods are always watching over your every|<br>|move... You don't need to go to a church or|something to record your travels in an|adventure book... But if you go to a church|<br>|or something and pray, they can change your|resurrection spot to the place you prayed|when you run out of energy. If you want to|<br>|finish your adventure, you can always use the|\"Interrupt Adventure\" command, but it'll take|a while in dangerous places. So, what can I|<br>|do for you today?<ask><bw_break>"
     },
     "97": {
-        "「他に　用はあるかい？|<break>": ""
+        "「他に　用はあるかい？|<break>": "Is there anything else you need?|<break>"
     },
     "98": {
         "「よくわかんないけど……確かに　アンタの中に|　別の種族の姿が　眠ってるような気がするね。|<br>|「もうひとつの自分の姿を目覚めさせ|　<%sL_RACE_NOW>から　<%sL_RACE_AFTER>に|　種族を　変えるのかい？|<yesno><break>": "I don't know, but... I think there's another|form of your race sleeping inside of you. You|want to awaken the other you and change your|<br>|race from <%sL_RACE_NOW> to <%sL_RACE_AFTER>?<yesno><break>"
