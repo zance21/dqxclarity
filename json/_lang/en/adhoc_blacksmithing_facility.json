@@ -27,7 +27,7 @@
         "<speed=0>集中力が　足りない！": "<speed=0>I can't concentrate!"
     },
     "10": {
-        "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": ""
+        "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that|<pc> was using has reached its|limit and is now broken.<end>"
     },
     "11": {
         "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<yesno><close>": ""

@@ -24,7 +24,7 @@
         "<speed=0>集中力が　足りない！": "<speed=0>Not enough Focus!"
     },
     "9": {
-        "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": ""
+        "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": "The <%sL_SYOKUNIN_TOOL> that|<pc> was using has reached its|limit and is now broken.<end>"
     },
     "10": {
         "これ以上　予知はできない！": "There's no more predictions!"
