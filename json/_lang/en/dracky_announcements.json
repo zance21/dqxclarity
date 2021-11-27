@@ -3603,7 +3603,7 @@
         "clarity_nt_char_1201": "clarity_nt_char_1201"
     },
     "1202": {
-        "チームが解散していたので|入れませんでした。": ""
+        "チームが解散していたので|入れませんでした。": "Couldn't join the Team due to it disbanding."
     },
     "1203": {
         "clarity_nt_char_1203": "clarity_nt_char_1203"
@@ -3615,7 +3615,7 @@
         "clarity_nt_char_1205": "clarity_nt_char_1205"
     },
     "1206": {
-        "仲間でいる時間を|<%dC_M>分延長しました。": ""
+        "仲間でいる時間を|<%dC_M>分延長しました。": "Extended the time you'll be in the party|by <%dC_M> min."
     },
     "1207": {
         "clarity_nt_char_1207": "clarity_nt_char_1207"
@@ -3633,7 +3633,7 @@
         "clarity_nt_char_1211": "clarity_nt_char_1211"
     },
     "1212": {
-        "人数が　いっぱいのため|チャットルームにの参加に　失敗しました。": ""
+        "人数が　いっぱいのため|チャットルームにの参加に　失敗しました。": "Failed to join the Chat Room due to it|already being full."
     },
     "1213": {
         "clarity_nt_char_1213": "clarity_nt_char_1213"
