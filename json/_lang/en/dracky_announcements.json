@@ -2229,19 +2229,19 @@
         "<%dC_N1>分以内に酒場の扉に触れないと外に出ます": ""
     },
     "744": {
-        "<%sC_STR>の防衛戦に さそわれました！　": "Invited to the <%sC_STR> Defense Battle!"
+        "<%sC_STR>の防衛戦に さそわれました！　": "Invited to battle <%sC_STR>!"
     },
     "745": {
         "clarity_nt_char_745": "clarity_nt_char_745"
     },
     "746": {
-        "？？？？？？の防衛戦に さそわれました！　": "Invited to the ??? Defense Battle!"
+        "？？？？？？の防衛戦に さそわれました！　": "Invited to battle ???!"
     },
     "747": {
         "防衛戦への誘いが 時間切れになりました": "Defense Battle invitation timed out."
     },
     "748": {
-        "防衛戦への誘いが 取り消されました　": ""
+        "防衛戦への誘いが 取り消されました　": "Defense Battle invitation was declined."
     },
     "749": {
         "clarity_nt_char_749": "clarity_nt_char_749"
