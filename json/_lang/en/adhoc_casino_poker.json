@@ -42,13 +42,13 @@
         "残念でした！|もういちど　ポーカーを遊びますか？<yesno_nc><close>": "I'm sorry! Would you like to play poker|again?<yesno_nc><close>"
     },
     "15": {
-        "ファイブカード": "Five Card"
+        "ファイブカード": "Five of a Kind"
     },
     "16": {
         "フラッシュ": "Flush"
     },
     "17": {
-        "フォーカード": "Four Card"
+        "フォーカード": "Four of a Kind"
     },
     "18": {
         "フルハウス": "Full House"
@@ -66,7 +66,7 @@
         "ストレートフラッシュ": "Straight Flush"
     },
     "23": {
-        "スリーカード": "three-card card"
+        "スリーカード": "Three of a Kind"
     },
     "24": {
         "ツーペア": "Two Pair"
