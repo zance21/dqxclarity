@@ -8658,7 +8658,7 @@
         "clarity_nt_char_2886": "clarity_nt_char_2886"
     },
     "2887": {
-        "聖騎士の堅陣": "Paladin's Bulwark"
+        "聖騎士の堅陣": "Paladin's Palisade"
     },
     "2888": {
         "clarity_nt_char_2888": "clarity_nt_char_2888"
@@ -27195,7 +27195,7 @@
         "女神の祝福で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死なずに ふみとどまった！": ""
     },
     "9066": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 聖騎士の堅陣に 守られた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 聖騎士の堅陣に 守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by Paladin's Palisade!"
     },
     "9067": {
         "clarity_nt_char_9067": "clarity_nt_char_9067"
@@ -28239,7 +28239,7 @@
         "clarity_nt_char_9413": "clarity_nt_char_9413"
     },
     "9414": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 聖騎士の堅陣が とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 聖騎士の堅陣が とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Paladin's Paliside faded!"
     },
     "9415": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 復元再生のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Regrowth HP recovery ended!"
