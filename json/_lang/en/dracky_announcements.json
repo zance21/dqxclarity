@@ -3639,19 +3639,19 @@
         "clarity_nt_char_1213": "clarity_nt_char_1213"
     },
     "1214": {
-        "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。|<me 74>": ""
+        "依頼書クエスト『<%sQUE_IRAISYA>の依頼！』を|受けました。|<me 74>": "Request form quest|\"<%sQUE_IRAISYA>'s Request!\"|was accepted.|<me 74>"
     },
     "1215": {
         "clarity_nt_char_1215": "clarity_nt_char_1215"
     },
     "1216": {
-        "<%sL_SYOKUNIN_TYPE>設備が 遠すぎます。": ""
+        "<%sL_SYOKUNIN_TYPE>設備が 遠すぎます。": "<%sL_SYOKUNIN_TYPE> facility is too far away."
     },
     "1217": {
         "ここでは　コロシアムに　参加できない。|街に戻り　空が見えるところに　いこう。": "You can't move to the Coliseum from here.|Try going to a town with an open sky."
     },
     "1218": {
-        "ここでは　バトルロードに　参加できない。|街に戻り　空が見えるところに　いこう。": ""
+        "ここでは　バトルロードに　参加できない。|街に戻り　空が見えるところに　いこう。": "You can't move to Battle Road from here.|Try going to a town with an open sky."
     },
     "1219": {
         "clarity_nt_char_1219": "clarity_nt_char_1219"
