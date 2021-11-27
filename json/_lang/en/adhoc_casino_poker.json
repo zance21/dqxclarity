@@ -42,34 +42,34 @@
         "残念でした！|もういちど　ポーカーを遊びますか？<yesno_nc><close>": "I'm sorry! Would you like to play poker|again?<yesno_nc><close>"
     },
     "15": {
-        "ファイブカード": "five card"
+        "ファイブカード": "Five Card"
     },
     "16": {
-        "フラッシュ": "flash"
+        "フラッシュ": "Flush"
     },
     "17": {
-        "フォーカード": "four card"
+        "フォーカード": "Four Card"
     },
     "18": {
         "フルハウス": "Full House"
     },
     "19": {
-        "ロイヤルストレートフラッシュ": "royal straight flush"
+        "ロイヤルストレートフラッシュ": "Royal Straight Flush"
     },
     "20": {
-        "ロイヤルストレートスライム": "royal straight slime"
+        "ロイヤルストレートスライム": "Royal Straight Slime"
     },
     "21": {
-        "ストレート": "straight"
+        "ストレート": "Straight"
     },
     "22": {
-        "ストレートフラッシュ": "straight flush"
+        "ストレートフラッシュ": "Straight Flush"
     },
     "23": {
         "スリーカード": "three-card card"
     },
     "24": {
-        "ツーペア": ""
+        "ツーペア": "Two Pair"
     },
     "25": {
         "<%dM_tboxcnt>つのカギがついた　宝箱を　発見しました！<br>|<%dM_tboxcnt>回　ダブルアップで　勝てば|宝箱を　開くことができます！": "You have found a treasure chest with|<%dM_tboxcnt>two keys in it!|<%dM_tboxcnt>If you double up|<br>|enough times, you can open the treasure|chest!"
