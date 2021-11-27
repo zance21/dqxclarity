@@ -72,7 +72,7 @@
         "ツーペア": "Two Pair"
     },
     "25": {
-        "<%dM_tboxcnt>つのカギがついた　宝箱を　発見しました！<br>|<%dM_tboxcnt>回　ダブルアップで　勝てば|宝箱を　開くことができます！": "You have found a treasure chest with|<%dM_tboxcnt>two keys in it!|<%dM_tboxcnt>If you double up|<br>|enough times, you can open the treasure|chest!"
+        "<%dM_tboxcnt>つのカギがついた　宝箱を　発見しました！<br>|<%dM_tboxcnt>回　ダブルアップで　勝てば|宝箱を　開くことができます！": "You found a treasure chest with|<%dM_tboxcnt> keys!|<br>|If you double up <%dM_tboxcnt>|times, you can open the treasure chest!"
     },
     "26": {
         "同じテーブルにいる　<%sCAS_gambler>さんが|カジノレイドに　突入しました。|<br>|この　カジノレイドに　参加しますか？|<yesno_nc><close>": "<%sCAS_gambler> at the same table has|joined the casino raid.|<br>|Proceed with the casino raid?|<yesno_nc><close>"
