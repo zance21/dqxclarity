@@ -789,7 +789,7 @@
         "clarity_nt_char_263": "clarity_nt_char_263"
     },
     "264": {
-        "果てなきミラクルブースト": "Endless Miracle Boost"
+        "果てなきミラクルブースト": "Endless Hurt Converter"
     },
     "265": {
         "clarity_nt_char_265": "clarity_nt_char_265"
@@ -3303,13 +3303,13 @@
         "clarity_nt_char_1101": "clarity_nt_char_1101"
     },
     "1102": {
-        "ミラクルブーストの効果+3秒": "Miracle Boost Time +3s"
+        "ミラクルブーストの効果+3秒": "Hurt Converter Time +3s"
     },
     "1103": {
         "clarity_nt_char_1103": "clarity_nt_char_1103"
     },
     "1104": {
-        "ミラクルブーストの効果+2秒": "Miracle Boost Time +2s"
+        "ミラクルブーストの効果+2秒": "Hurt Converter Time +2s"
     },
     "1105": {
         "clarity_nt_char_1105": "clarity_nt_char_1105"
@@ -8574,7 +8574,7 @@
         "ダメージ時テンションアップの効果時間が|３秒長くなる（バトルマスター専用）": "Increases duration of tension gained when|damaged by 3 seconds. (BTL Only)"
     },
     "2859": {
-        "ミラクルブーストの効果時間が３秒長くなる|（バトルマスター専用）": "Miracle Boost duration increased by|3 seconds. (BTL Only)"
+        "ミラクルブーストの効果時間が３秒長くなる|（バトルマスター専用）": "Hurt Converter duration increased by|3 seconds. (BTL Only)"
     },
     "2860": {
         "clarity_nt_char_2860": "clarity_nt_char_2860"
@@ -15126,25 +15126,25 @@
         "テンションバーンの効果+18秒": "Feel the Burn Duration +18 sec."
     },
     "5043": {
-        "ミラクルブーストの効果+6秒": "Miracle Boost Time +6s"
+        "ミラクルブーストの効果+6秒": "Hurt Converter Time +6s"
     },
     "5044": {
         "clarity_nt_char_5044": "clarity_nt_char_5044"
     },
     "5045": {
-        "ミラクルブーストの効果+9秒": "Miracle Boost Time +9s"
+        "ミラクルブーストの効果+9秒": "Hurt Converter Time +9s"
     },
     "5046": {
         "clarity_nt_char_5046": "clarity_nt_char_5046"
     },
     "5047": {
-        "ミラクルブーストの効果+12秒": "Miracle Boost Time +12s"
+        "ミラクルブーストの効果+12秒": "Hurt Converter Time +12s"
     },
     "5048": {
-        "ミラクルブーストの効果+15秒": "Miracle Boost Time +15s"
+        "ミラクルブーストの効果+15秒": "Hurt Converter Time +15s"
     },
     "5049": {
-        "ミラクルブーストの効果+18秒": "Miracle Boost Time +18s"
+        "ミラクルブーストの効果+18秒": "Hurt Converter Time +18s"
     },
     "5050": {
         "どうぐ倍化術の効果時間+6秒": "Item Doubling Tech Duration +6 sec."
