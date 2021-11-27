@@ -3420,7 +3420,7 @@
         "clarity_nt_char_1140": "clarity_nt_char_1140"
     },
     "1141": {
-        "<%-16sM_monster><%6dM_base_point>P×<%3dM_toubatsu>匹＝<%dM_toubatsu_score>P": ""
+        "<%-16sM_monster><%6dM_base_point>P×<%3dM_toubatsu>匹＝<%dM_toubatsu_score>P": "<%-16sM_monster><%6dM_base_point>P×<%3dM_toubatsu>＝<%dM_toubatsu_score>P"
     },
     "1142": {
         "clarity_nt_char_1142": "clarity_nt_char_1142"
