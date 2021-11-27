@@ -6924,7 +6924,7 @@
         "clarity_nt_char_2308": "clarity_nt_char_2308"
     },
     "2309": {
-        "<speed=0>|<%sM_item>は|見た目に反映されませんでした。": ""
+        "<speed=0>|<%sM_item>は|見た目に反映されませんでした。": "<speed=0>|<%sM_item>'s appearance will|not be shown."
     },
     "2310": {
         "<speed=0>|マイコーデの「顔アクセ」の<%sM_item1>の|表示がなくなり　キャラクターの「顔コーデ」の|<%sM_item2>を　表示します。": ""
