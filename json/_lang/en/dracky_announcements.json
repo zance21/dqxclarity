@@ -3585,7 +3585,7 @@
         "clarity_nt_char_1195": "clarity_nt_char_1195"
     },
     "1196": {
-        "ついていけませんでした": ""
+        "ついていけませんでした": "Could not follow player."
     },
     "1197": {
         "今は　仲間に入ることが　できません。": "Can't join the party right now."
@@ -3597,7 +3597,7 @@
         "取り引きは　キャンセルされました。": "Trade request was cancelled."
     },
     "1200": {
-        "戦闘中の人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。": ""
+        "戦闘中の人がいるため　仲間になれません！|少し　時間が経ってから　もう一度　返事をしてください。": "Couldn't join the party due to players|currently fighting! Wait a while and try|again."
     },
     "1201": {
         "clarity_nt_char_1201": "clarity_nt_char_1201"
