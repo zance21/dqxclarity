@@ -12879,7 +12879,7 @@
         "<speed=0><pc>は　汗と涙の結晶を　<%nL_NUM>個　|輝晶核を　<%nL_NUM2>個　手に入れた！<se_nots System 7>|<end>": "<speed=0><pc> received <%dL_NUM> Sweat & Tears Gems|and <%dL_NUM2> Crystal Nucleus!<se_nots System 7>|<end>"
     },
     "4294": {
-        "「食材屋へ　ようこそ。|　何か　ほしい物はあるかしら？|<break>": "Grocery store. Hey. Is there anything I can|get you?<break>"
+        "「食材屋へ　ようこそ。|　何か　ほしい物はあるかしら？|<break>": "Welcome to the Grocery Store. Is there|anything I can get for you?<break>"
     },
     "4295": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
