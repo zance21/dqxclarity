@@ -3564,22 +3564,22 @@
         "clarity_nt_char_1188": "clarity_nt_char_1188"
     },
     "1189": {
-        "<%sC_PC_LUA>（<%sC_ID>）の|フレンドリストが　いっぱいでした。": ""
+        "<%sC_PC_LUA>（<%sC_ID>）の|フレンドリストが　いっぱいでした。": "<%sC_PC_LUA>'s (<%sC_ID>) friends list|is full."
     },
     "1190": {
-        "チャットルームの参加に　失敗しました。": ""
+        "チャットルームの参加に　失敗しました。": "Failed to join the Chat Room."
     },
     "1191": {
-        "処理に失敗しました。||時間をおいて　もう一度　やりなおしてください。": ""
+        "処理に失敗しました。||時間をおいて　もう一度　やりなおしてください。": "Processing failed. Please wait a moment|and try again."
     },
     "1192": {
-        "<%sC_PC_LUA>が 遠すぎます。": ""
+        "<%sC_PC_LUA>が 遠すぎます。": "<%sC_PC_LUA> is too far away."
     },
     "1193": {
         "clarity_nt_char_1193": "clarity_nt_char_1193"
     },
     "1194": {
-        "既に　無効なさそいに　なっています。": ""
+        "既に　無効なさそいに　なっています。": "Invitation is already invalid."
     },
     "1195": {
         "clarity_nt_char_1195": "clarity_nt_char_1195"
