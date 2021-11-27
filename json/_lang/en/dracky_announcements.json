@@ -3432,7 +3432,7 @@
         "依頼書クエストを　これ以上||受けることは　できません！　クエストリストから||依頼書クエストを　キャンセルしてください。": ""
     },
     "1145": {
-        "錬金の依頼を 断りました。": ""
+        "錬金の依頼を 断りました。": "Alchemy request was cancelled."
     },
     "1146": {
         "チームのメンバーが　いっぱいで|入れませんでした。": ""
@@ -3468,10 +3468,10 @@
         "clarity_nt_char_1156": "clarity_nt_char_1156"
     },
     "1157": {
-        "<%sC_STR>の防衛戦の　さそいを断った。": "Battle against <%sC_STR> was cancelled."
+        "<%sC_STR>の防衛戦の　さそいを断った。": "<%sC_STR> invitation was cancelled."
     },
     "1158": {
-        "？？？？？？の防衛戦の　さそいを断った。": "Battle against ??? was cancelled."
+        "？？？？？？の防衛戦の　さそいを断った。": "??? invitation was cancelled."
     },
     "1159": {
         "clarity_nt_char_1159": "clarity_nt_char_1159"
