@@ -27,7 +27,7 @@
         "「うふっ。ありがとうございます。|　あなたに　幸運の女神が　ほほえみますように|　お祈りしておりますわ。|<turn_end>": "... Thank you... May the goddess of fortune|smile down upon you...<turn_end>"
     },
     "10": {
-        "「今　あなたの　お手元にある|　全ての　コインチケットと　カジノコイン|　<%nL_COIN>枚を　交換しますか？|<yesno 2><break>": "Would you like to trade all of your coin|tickets for <%nL_COIN> casino|coins?|<br><yesno 2><break>"
+        "「今　あなたの　お手元にある|　全ての　コインチケットと　カジノコイン|　<%nL_COIN>枚を　交換しますか？|<yesno 2><break>": "Would you like to trade all of your coin|tickets for <%dL_COIN> Casino Coins?|<br><yesno 2><break>"
     },
     "11": {
         "「かしこまりました。|　では　続けて　コインを購入しますか？|<yesno><break>": "Yes, sir. Would you like to continue|purchasing coins?<yesno><break>"
