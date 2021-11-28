@@ -2943,7 +2943,7 @@
         "勇者の覚醒": "Hero Awakening"
     },
     "982": {
-        "開戦時10%テンション": "Battle Start Tension 10%"
+        "開戦時10%テンション": "Tension Trigger 10%"
     },
     "983": {
         "開戦時20%バイシオン": "Oomph Trigger 20%"
@@ -2952,7 +2952,7 @@
         "開戦時20%テンション": "Tension Trigger 20%"
     },
     "985": {
-        "開戦時100%ピオラ": "Btl. Start Accel 100%"
+        "開戦時100%ピオラ": "Accel Trigger 100%"
     },
     "986": {
         "clarity_nt_char_986": "clarity_nt_char_986"
@@ -3000,7 +3000,7 @@
         "clarity_nt_char_1000": "clarity_nt_char_1000"
     },
     "1001": {
-        "開戦時早詠みの杖": "Btl. Start Faster Caster"
+        "開戦時早詠みの杖": "Faster Caster Trigger"
     },
     "1002": {
         "clarity_nt_char_1002": "clarity_nt_char_1002"
@@ -11910,7 +11910,7 @@
         "clarity_nt_char_3970": "clarity_nt_char_3970"
     },
     "3971": {
-        "開戦時50%で勇者の覚醒": "Btl. Start Awakening 50%"
+        "開戦時50%で勇者の覚醒": "Awakening Trigger 50%"
     },
     "3972": {
         "clarity_nt_char_3972": "clarity_nt_char_3972"
@@ -11964,7 +11964,7 @@
         "開戦時30%テンション": "Tension Trigger 30%"
     },
     "3989": {
-        "開戦時50%バイシオン": ""
+        "開戦時50%バイシオン": "Oomph Trigger 50%"
     },
     "3990": {
         "開戦時テンションバーン": "Feel the Burn Trigger"
