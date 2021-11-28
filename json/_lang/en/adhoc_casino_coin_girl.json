@@ -6,7 +6,7 @@
         "「あら？　おやめになるのですね。|　また　いつでも　おこしくださいませ。|<turn_end>": "Oh? You're quitting... You're welcome to come|back anytime...<turn_end>"
     },
     "3": {
-        "「<pc>さんは　現在　カジノコインを|　<%nL_MY_COIN>枚　お持ちですね。|<bw_break>": "<pc> You currently have <%nL_MY_COIN>|casino coins...<bw_break>"
+        "「<pc>さんは　現在　カジノコインを|　<%nL_MY_COIN>枚　お持ちですね。|<bw_break>": "You currently have <%dL_MY_COIN>|Casino Coins.<bw_break>"
     },
     "4": {
         "「お手持ちのカジノコインを　<%nL_BUY_MAX_COIN>枚まで|　ご購入いただけます。１枚　<%nL_COIN_RATE>ゴールドですが|　何枚　お求めになりますか？|<break>": "You can buy up to|<%nL_BUY_MAX_COIN> of your casino|coins... 1 <%nL_COIN_RATE> gold.|<br>|How many would you like to buy?<break>"
