@@ -27,7 +27,7 @@
         "<%nL_AZU_DEPOS_GLD>０００ゴールド|預けました。|<br>|現在　<%nL_AZU_BALANCE>０００ゴールド|預けています。|<end>": "<%nL_AZU_DEPOS_GLD>000 Gold Deposit... Now|<%nL_AZU_BALANCE>000 gold deposited...<end>"
     },
     "10": {
-        "現在　<%nL_AZU_BALANCE>０００ゴールド|お預かりしていますが　どうしますか？|<break>": "You currently have <%nL_AZU_BALANCE>000 gold.|What do you want?<break>"
+        "現在　<%nL_AZU_BALANCE>０００ゴールド|お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
     },
     "11": {
         "預けている　ゴールドがありませんが|どうしますか？|<break>": "We don't have the gold on deposit. What do we|do now?<break>"
@@ -426,7 +426,7 @@
         "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
     },
     "143": {
-        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%nL_AZU_BALANCE>000 gold.|What do you want?<break>"
+        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
     },
     "144": {
         "「お客さまから　お預かりのゴールドは|　ありませんが　今日は　どうしますか？|<break>": "I don't have any gold for you. What can I do|for you today?<break>"
@@ -1212,7 +1212,7 @@
         "「<%nL_AZU_DEPOS_GLD>０００ゴールド|　確かに　お預かりしました。|<br>|「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "<%nL_AZU_DEPOS_GLD>000 Gold, we have it...|You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|<br>|for you?<break>"
     },
     "405": {
-        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%nL_AZU_BALANCE>000 gold.|What do you want?<break>"
+        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　どうしますか？|<break>": "You currently have <%dL_AZU_BALANCE>000 Gold|deposited. What do you want to do?<break>"
     },
     "406": {
         "「あなたさまから　お預かりのゴールドは|　ありませんが　今日は　どうしますか？|<break>": "I don't have any gold for you. What can I do|for you today?<break>"
