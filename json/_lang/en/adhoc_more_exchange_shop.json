@@ -162,7 +162,7 @@
         "「今の職業だと装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession.|Is that all right with you?<yesno><break>"
     },
     "55": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "56": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -4734,7 +4734,7 @@
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
     },
     "1579": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1580": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
@@ -5085,7 +5085,7 @@
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
     },
     "1696": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1697": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
