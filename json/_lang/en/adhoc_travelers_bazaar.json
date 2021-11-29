@@ -198,7 +198,7 @@
         "「まだ何か　買っていきますか？|<bw_break>": "Do you still want to buy something?<bw_break>"
     },
     "67": {
-        "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'nL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM...|Would you like to buy it?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'dL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM>.|Would you like to buy it?|<yesno><break>"
     },
     "68": {
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "Here is one <%sL_KAITAI_ITEM> that|<%sL_URINUSI> exhibited... <%'nL_BUY_PRICE>|Would you like to buy it for gold?<yesno><break>"
@@ -831,13 +831,13 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>, is that correct?<yesno><break>"
     },
     "278": {
-        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
     },
     "279": {
         "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
     },
     "280": {
-        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
     },
     "281": {
         "「何について　聞きたいんだ？|<break>": "What would you like me to explain?|<break>"
@@ -1293,7 +1293,7 @@
         "「それだと　今　出品されている|　同じ商品よりも　ずいぶん安いようですが|　その値段で　間違いないですか？|<yesno 2><break>": "That seems to be a lot cheaper than the same|item that's currently on the market, but are|you sure that's the right price?<yesno 2><break>"
     },
     "432": {
-        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
     },
     "433": {
         "「くわしい条件を　教えてください。　|<break>": "Can you tell me the exact conditions...<break>"
