@@ -6864,10 +6864,10 @@
         "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, it seems that your wallet is full.|<br>|When you empty it out a bit, you can come|back and sell this again.|<bw_break>"
     },
     "2289": {
-        "「あら　お客さま|　お金を　持ちきれないようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, it looks like you're running low|on cash. When you have more money in your|wallet, we can sell it again...<bw_break>"
+        "「あら　お客さま|　お金を　持ちきれないようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, it seems that you can't carry any|more money.|<br>|When you empty it out a bit, you can come|back and sell this again.|<bw_break>"
     },
     "2290": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "2291": {
         "「<%sL_SHOP_KIND>へ　ようこそ。|　本日は　いかがなさいますか？|<break>": "<%sL_SHOP_KIND> Hello... How can I help you|today?<break>"
