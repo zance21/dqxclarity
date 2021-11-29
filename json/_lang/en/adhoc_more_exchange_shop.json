@@ -39,7 +39,7 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<bw_break>"
     },
     "14": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "15": {
         "「さらに続けて　モシャストーンを|　装備品に　変えるかね？|<yesno><break>": "Would you like to go on and turn the Mosher|Stone into a piece of equipment?<yesno><break>"
@@ -198,10 +198,10 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<bw_break>"
     },
     "67": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "68": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "69": {
         "「……必要なチケットを|　持っていないようですね。|<turn_end>": "... I don't think you have the tickets you|need...<turn_end>"
@@ -477,10 +477,10 @@
         "「それを　交換するには|　必要な妖精の実が　足りないわ。|<bw_break>": "I don't have enough fairy nuts to replace|them.<bw_break>"
     },
     "160": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "161": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "162": {
         "「……あなた　交換に必要な　妖精の実を|　ひとつも　持っていないじゃない。|<turn_end>": "... You don't have a single fairy seed to|trade.<turn_end>"
@@ -690,10 +690,10 @@
         "「そのアイテムを　交換するには|　おさかなコインが　足りないよー。|<bw_break>": "I'm afraid I don't have enough fish coins to|trade for that item.<bw_break>"
     },
     "231": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "232": {
-        "「他にも　交換したいものは　ありますかー？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますかー？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "233": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1086,10 +1086,10 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<bw_break>"
     },
     "363": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "364": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "365": {
         "「……必要なチケットを|　持っていないようですね。|<turn_end>": "... I don't think you have the tickets you|need...<turn_end>"
@@ -1188,10 +1188,10 @@
         "「<%sL_GOODS_ITEM>に　交換するのに|　必要な　部活ポイントが|　足りないみたいね。|<bw_break>": "I don't think I have enough club points to|redeem for <%sL_GOODS_ITEM>.<bw_break>"
     },
     "397": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "398": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "399": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1290,10 +1290,10 @@
         "「<%sL_GOODS_ITEM>に　交換するのに|　必要な　部活ポイントが|　足りないようでございます。|<bw_break>": "It seems you don't have enough club points to|exchange for <%sL_GOODS_ITEM>...<bw_break>"
     },
     "431": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "432": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "433": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1392,10 +1392,10 @@
         "「<%sL_GOODS_ITEM>に　交換するのに|　必要な　部活ポイントが|　足りないみたいだぜ。|<bw_break>": "Looks like I don't have enough club points to|exchange for <%sL_GOODS_ITEM>...<bw_break>"
     },
     "465": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "466": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "467": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1494,10 +1494,10 @@
         "「<%sL_GOODS_ITEM>に　交換するのに|　必要な　部活ポイントが|　足りないみたいね。|<bw_break>": "I don't think I have enough club points to|redeem for <%sL_GOODS_ITEM>.<bw_break>"
     },
     "499": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "500": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "501": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1596,10 +1596,10 @@
         "「<%sL_GOODS_ITEM>に　交換するのに|　必要な　部活ポイントが|　足りないみたいでーす。|<bw_break>": "It looks like I don't have enough club points|to exchange for <%sL_GOODS_ITEM>...<bw_break>"
     },
     "533": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "534": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "535": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -1698,7 +1698,7 @@
         "<pipipi_off>|そのアイテムと交換するには|友情の光が　足りません。|<bw_break>": "<pipipi_off>You'll need the light of friendship to redeem|the item.<bw_break>"
     },
     "567": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "568": {
         "<pipipi_off>|つづけて　交換しますか？|<yesno><break>": ""
@@ -1800,7 +1800,7 @@
         "「あらら？|　魔天の星が　足りないようです……。|<bw_break>": "What? It seems we're missing the star of|heaven.<bw_break>"
     },
     "601": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "602": {
         "「ほかに　ご希望される品は　ございますか？|<break>": "Is there anything else you'd like to share|with us?<break>"
@@ -1902,10 +1902,10 @@
         "「……あれ？|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないよ。|<bw_break>": "... Huh? You need more items to trade|<%sL_GOODS_ITEM> for...<bw_break>"
     },
     "635": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "636": {
-        "「他に　交換したいものは　ある？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他に　交換したいものは　ある？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "637": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -2007,7 +2007,7 @@
         "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "670": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "671": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -2106,10 +2106,10 @@
         "「必要な素材が　足りてないゾ。|　これでは　<%sL_GOODS_ITEM>を渡せんな。|<bw_break>": "We don't have all the materials we need...|This will give you <%sL_GOODS_ITEM>...<bw_break>"
     },
     "703": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "704": {
-        "「他にも　交換したいものは　あるか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　あるか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "705": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -2208,10 +2208,10 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要な錬金石が　足りないようですね。|<bw_break>": "It looks like you don't have enough alchemy|stones to trade <%sL_GOODS_ITEM>...<bw_break>"
     },
     "737": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "738": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "739": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -2310,7 +2310,7 @@
         "「<%sL_GOODS_ITEM>を　作るのに|　必要なお花が　足りないみたいです……。|<bw_break>": "It looks like we're missing the flowers we|need to make <%sL_GOODS_ITEM>...<bw_break>"
     },
     "771": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "772": {
         "「どの花束を　お作りしましょうか？|<yesno><break>": "Which bouquet would you like me to make for|you?<yesno><break>"
@@ -2694,7 +2694,7 @@
         "「ピキッ？　<%sL_GOODS_ITEM>を|　交換するには　チョコボチケットが|　足りないみたい……。|<bw_break>": "Picky? Looks like I don't have enough chocobo|tickets to trade for <%sL_GOODS_ITEM>...<bw_break>"
     },
     "899": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "900": {
         "「ほかに　ほしいモノはある？|<yesno><break>": "What else do you want?<yesno><break>"
@@ -2799,7 +2799,7 @@
         "「ピキッ？　<%sL_GOODS_ITEM>を|　交換するには　モーグリチケットが|　足りないみたい……。|<bw_break>": "Picky? Looks like I don't have enough Mowgli|Tickets to trade for <%sL_GOODS_ITEM>...<bw_break>"
     },
     "934": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "935": {
         "「ほかに　ほしいモノはある？|<yesno><break>": "What else do you want?<yesno><break>"
@@ -3408,7 +3408,7 @@
         "「<%sL_BAG_ITEM>は|　ロックされているので|　渡してもらえないみたいです。|<bw_break>": "Looks like <%sL_BAG_ITEM> is locked, so they|won't give it to me...<bw_break>"
     },
     "1137": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1138": {
         "「……必要なチケットを|　持ってないみたいですよ。|<turn_end>": "... I don't think I have the tickets I|need...<turn_end>"
@@ -3516,10 +3516,10 @@
         "「……おや？　|　<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りませんね。|<bw_break>": "... Hmm? I need more items to trade for|<%sL_GOODS_ITEM>...<bw_break>"
     },
     "1173": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1174": {
-        "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1175": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -3627,10 +3627,10 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要な　プリズランポイントが　足りないわよ。|<bw_break>": "I need more prizelan points to redeem|<%sL_GOODS_ITEM>...<bw_break>"
     },
     "1210": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1211": {
-        "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1212": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -3849,10 +3849,10 @@
         "「<%sL_GOODS_ITEM>を　交換するのに|　必要なものが　足りないようですね。|<bw_break>": "It looks like we're missing what we need to|replace <%sL_GOODS_ITEM>...<bw_break>"
     },
     "1284": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1285": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1286": {
         "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
@@ -3960,10 +3960,10 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　お月見だんごが　足りないようですね。|<bw_break>": "Looks like we're gonna need more mooncakes to|replace the <%sL_GOODS_ITEM>...<bw_break>"
     },
     "1321": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1322": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1323": {
         "「……必要なチケットを|　持っていないようですね。|<turn_end>": "... I don't think you have the tickets you|need...<turn_end>"
@@ -4071,7 +4071,7 @@
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<bw_break>"
     },
     "1358": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1359": {
         "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4293,7 +4293,7 @@
         "「あら……？　<%sL_GOODS_ITEM>を|　交換するには　バレンタインチケットが|　足りないようですね。|<bw_break>": "Oh...? Looks like I don't have enough|Valentine's Day tickets to trade for|<%sL_GOODS_ITEM>.<bw_break>"
     },
     "1432": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1433": {
         "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4407,7 +4407,7 @@
         "「あら……？　<%sL_GOODS_ITEM>を|　交換するには　ホワイトデーチケットが|　足りないようですね。|<bw_break>": "Oh...? Looks like I don't have enough white|day tickets to replace the|<%sL_GOODS_ITEM>...<bw_break>"
     },
     "1470": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1471": {
         "<pipipi_on>|「他にも　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
@@ -4521,7 +4521,7 @@
         "「<%sL_GOODS_ITEM>を　変換するには|　必要なタマゴが　足りないわよ。|<bw_break>": "We don't have enough eggs to convert|<%sL_GOODS_ITEM>...<bw_break>"
     },
     "1508": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1509": {
         "「他にも　変換したいものはある？|<yesno><break>": "Is there anything else you'd like to convert?<yesno><break>"
@@ -4749,7 +4749,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "1584": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1585": {
         "「あら……？　<%sL_GOODS_ITEM>を|　交換するには　クイーン交換券２０２１が|　足りないようですね。|<bw_break>": "Oh...? Looks like I don't have enough Queen's|Exchange Voucher 2021 to trade for|<%sL_GOODS_ITEM>...<bw_break>"
@@ -4845,7 +4845,7 @@
         "<pipipi_on>|「他に　交換したいものは　あるかしらん？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
     },
     "1616": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1617": {
         "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
@@ -4866,7 +4866,7 @@
         "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Pippi... The bag is gone. Please access the|site again...<bw_break>"
     },
     "1623": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1624": {
         "「あらあら？|　必要なアイテムが　足りないみたいねん。|<bw_break>": "Oh, no. It looks like you're missing a few|items.<bw_break>"
@@ -4983,7 +4983,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "1662": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1663": {
         "「あら……？　<%sL_GOODS_ITEM>を|　交換するには　ナイト交換券２０２１が|　足りないようですね。|<bw_break>": "Oh...? It looks like you're short 2021 Knight|Exchange Tickets to trade for|<%sL_GOODS_ITEM>.<bw_break>"
@@ -5079,7 +5079,7 @@
         "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
     },
     "1694": {
-        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1695": {
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
@@ -5100,7 +5100,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "1701": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1702": {
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have what it takes to|replace <%sL_GOODS_ITEM>...<bw_break>"
@@ -5196,7 +5196,7 @@
         "<pipipi_on>|「他に　交換したいものは　あるか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
     },
     "1733": {
-        "「他に　交換したいものは　あるか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
+        "「他に　交換したいものは　あるか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1734": {
         "「また　いつでも　来てくれ。|　真珠はいくらでも　あるからな……イテテ。|　サメバーンに　かまれた触手が痛む……。|<turn_end>": "Whenever you're ready... I've got all the|pearls I need. ...... I've got a shark bite|on my tentacle and it hurts...<turn_end>"
@@ -5217,7 +5217,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "1740": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "1741": {
         "「<%sL_GOODS_ITEM>を　交換するには|　必要な真珠が　足りないようだ。|<bw_break>": "We need more pearls to replace the|<%sL_GOODS_ITEM>...<bw_break>"
