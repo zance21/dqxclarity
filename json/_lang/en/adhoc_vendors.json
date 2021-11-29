@@ -429,7 +429,7 @@
         "「申し訳ありませんが|　お金が　足りないようです。|<bw_break>": "I'm sorry, but you don't have enough money.<bw_break>"
     },
     "144": {
-        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Hey, sir, I don't think you have anything you|can sell.<bw_break>"
+        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, I'm afraid you don't have anything|to sell.<bw_break>"
     },
     "145": {
         "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「預けるか　お買い上げいただくかして|　お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, it looks like you have a lot of|money. You can leave it with us, or you can|buy it, and when you have enough in your|<br>|wallet, you can sell it again...<bw_break>"
@@ -561,7 +561,7 @@
         "「残念ですが　それは買い取れません。|<bw_break>": "I'm sorry, but that can't be bought...<bw_break>"
     },
     "188": {
-        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I'm sorry, but we can't buy that...<bw_break>"
+        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I apologize, but I can't buy that.<bw_break>"
     },
     "189": {
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だな。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るぜ。それで　いいかね？|<yesno><break>": "New <%sL_URITAI_ITEM><%sL_PLUSNUM... Then|I'll buy it for <%nL_SELL_PRICE> gold... Is|that okay?<yesno><break>"
@@ -1992,10 +1992,10 @@
         "「申し訳ありませんが|　お金が　足りないようです。|<bw_break>": "I'm sorry, but you don't have enough money.<bw_break>"
     },
     "665": {
-        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Hey, sir, I don't think you have anything you|can sell.<bw_break>"
+        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, I'm afraid you don't have anything|to sell.<bw_break>"
     },
     "666": {
-        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I'm sorry, but we can't buy that...<bw_break>"
+        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I apologize, but I can't buy that.<bw_break>"
     },
     "667": {
         "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「預けるか　お買い上げいただくかして|　お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, it looks like you have a lot of|money. You can leave it with us, or you can|buy it, and when you have enough in your|<br>|wallet, we can sell it again...<bw_break>"
@@ -6855,10 +6855,10 @@
         "「申し訳ありませんが　ロックされている装備品を|　買い取ることは　できません。|<bw_break>": "I'm sorry, sir, but we can't buy back locked|equipment...<bw_break>"
     },
     "2286": {
-        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Hey, sir, I don't think you have anything you|can sell.<bw_break>"
+        "「あら　お客さま|　お売りいただけそうな物を|　お持ちでないようですね。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, I'm afraid you don't have anything|to sell.<bw_break>"
     },
     "2287": {
-        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I'm sorry, but we can't buy that...<bw_break>"
+        "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I apologize, but I can't buy that.<bw_break>"
     },
     "2288": {
         "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, you seem to have a lot of money.|When you have enough money in your wallet, we|can sell it again...<bw_break>"
