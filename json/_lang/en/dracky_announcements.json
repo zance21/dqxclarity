@@ -1005,7 +1005,7 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが スッパ党との戦いの誘いを取り消した": ""
     },
     "336": {
-        "あと<%dC_S>秒 開始しない場合 この席から離れます": ""
+        "あと<%dC_S>秒 開始しない場合 この席から離れます": "You'll be removed in <%dC_S> sec. from inactivity."
     },
     "337": {
         "clarity_nt_char_337": "clarity_nt_char_337"
