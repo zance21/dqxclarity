@@ -960,7 +960,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "321": {
-        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here... What do you|want to do?<break>"
+        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here. What do you|want to do?<break>"
     },
     "322": {
         "「<%sL_KOUKAN_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換してよろしいですか？|<yesno 2><break>": "I see you've already memorized the|<%sL_KOUKAN_ITEM> gesture, but|are you sure you want to trade?|<br><yesno 2><break>"

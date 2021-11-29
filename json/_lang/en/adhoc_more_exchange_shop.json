@@ -2025,7 +2025,7 @@
         "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
     },
     "676": {
-        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here... What do you|want to do?<break>"
+        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here. What do you|want to do?<break>"
     },
     "677": {
         "「他に　用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -4803,7 +4803,7 @@
         "「竜牙石の破片　１０個で|　竜牙石と　交換できます。|<br>|「また　戦闘勝利時に　入手した　物質があれば|　こちらで　交換できますので　ご利用ください。|<bw_break>": "You can trade in 10 Dragon Fang Stone|fragments for one Dragon Fang Stone... Also,|if you have any materials from battle|<br>|victories, you can exchange them here for...<bw_break>"
     },
     "1602": {
-        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here... What do you|want to do?<break>"
+        "「こちらで　アイテムの交換ができます。|　どうしますか？|<break>": "You can exchange items here. What do you|want to do?<break>"
     },
     "1603": {
         "「他に　用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
