@@ -276,7 +276,7 @@
         "「では　そうびぶくろの中に|　入れておきますね。|<bw_break>": "Okay, I'll just put it in my sash bag...<bw_break>"
     },
     "93": {
-        "「やめるのですね。|　他に　ほしい物は　ありますか？|<bw_break>": "I don't want to... Is there anything else|you'd like?<bw_break>"
+        "「やめるのですね。|　他に　ほしい物は　ありますか？|<bw_break>": "You don't want it? Is there anything else|you'd like?<bw_break>"
     },
     "94": {
         "「やめるのですね。|　では　他の物を出品しますか？|<break>": "You want to stop?|Then, is there anything else you want to sell?|<break>"
@@ -372,10 +372,10 @@
         "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Now, let's put him in the sobekuro...<bw_break>"
     },
     "125": {
-        "「おやめになるのですね。|　他に　ほしい物は　ございますか？|<bw_break>": "If you don't want to... Is there anything|else you'd like?<bw_break>"
+        "「おやめになるのですね。|　他に　ほしい物は　ございますか？|<bw_break>": "You want to stop? Is there anything|else you'd like?<bw_break>"
     },
     "126": {
-        "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": "If you don't want to... Would you like to|sell something else?<break>"
+        "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": "You want to stop? Would you like to|sell something else?<break>"
     },
     "127": {
         "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
@@ -1209,7 +1209,7 @@
         "「申し訳ありませんが|　値段をつけ直すには　お金が足りないようです。|<bw_break>": "I'm sorry, sir, but we don't have enough|money to reprice...<bw_break>"
     },
     "404": {
-        "「おやめになるのですね。|　では　他の物の値段を変更いたしますか？|<break>": "If you don't want to... Would you like me to|change the prices on the other items?<break>"
+        "「おやめになるのですね。|　では　他の物の値段を変更いたしますか？|<break>": "You want to stop? Would you like me to|change the prices on any other items?<break>"
     },
     "405": {
         "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
@@ -1512,10 +1512,10 @@
         "おやめになるのですね。|他に　ほしい物は　ございますか？|<bw_break>": "If you don't want to... Is there anything|else you'd like?<bw_break>"
     },
     "505": {
-        "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": "If you don't want to... Would you like to|sell something else?<break>"
+        "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": "You want to stop? Would you like to|sell something else?<break>"
     },
     "506": {
-        "「おやめになるのですね。|　では　他の物の値段を変更いたしますか？|<break>": "If you don't want to... Would you like me to|change the prices on the other items?<break>"
+        "「おやめになるのですね。|　では　他の物の値段を変更いたしますか？|<break>": "You want to stop? Would you like me to|change the prices on any other items?<break>"
     },
     "507": {
         "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially..."
