@@ -108,7 +108,7 @@
         "「他に　交換したいアクセサリーは　ありますか？|<yesno><break>": "Are there any other accessories you'd like to|trade?<yesno><break>"
     },
     "37": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "38": {
         "「ありがとうございました。|　また　来てくださいね。|<turn_end>": "Thank you... Please come again...<turn_end>"
@@ -384,7 +384,7 @@
         "「他に　交換したいアクセサリーは　ありますか？|<yesno><break>": "Are there any other accessories you'd like to|trade?<yesno><break>"
     },
     "129": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "130": {
         "「ありがとうございました。|　また　来てくださいね。|<turn_end>": "Thank you... Please come again...<turn_end>"
@@ -696,7 +696,7 @@
         "「他にも　交換したいものは　ありますかー？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "233": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "234": {
         "「ごめんなさいー。|　今は　まだ準備中なの。|　もうしばらく　待ってほしいなー。|<bw_break>": "I'm sorry... I'm just getting ready to...|You're gonna have to wait a little longer...<bw_break>"
@@ -1194,7 +1194,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "399": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "400": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1296,7 +1296,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "433": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "434": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1398,7 +1398,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "467": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "468": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1500,7 +1500,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "501": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "502": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1602,7 +1602,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "535": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "536": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1806,7 +1806,7 @@
         "「ほかに　ご希望される品は　ございますか？|<break>": "Is there anything else you'd like to share|with us?<break>"
     },
     "603": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "604": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -1908,7 +1908,7 @@
         "「他に　交換したいものは　ある？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "637": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "638": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -2010,7 +2010,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "671": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "672": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -2112,7 +2112,7 @@
         "「他にも　交換したいものは　あるか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "705": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "706": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -2214,7 +2214,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "739": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "740": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -2316,7 +2316,7 @@
         "「どの花束を　お作りしましょうか？|<yesno><break>": "Which bouquet would you like me to make for|you?<yesno><break>"
     },
     "773": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "774": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -3522,7 +3522,7 @@
         "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1175": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "1176": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -3633,7 +3633,7 @@
         "「他に　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1212": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "1213": {
         "「あら……ごめんなさい。|　交換期間は　終わってしまったの。|　また機会があったら　よろしく頼むわね。|<bw_break>": "Oh, my... Sorry... The exchange period is|over. If you get a chance, I'd appreciate it.<bw_break>"
@@ -3855,7 +3855,7 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1286": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "1287": {
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
@@ -4875,7 +4875,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
     },
     "1626": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "1627": {
         "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
@@ -5109,7 +5109,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
     },
     "1704": {
-        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "... I don't think I have any accessories that|can replace the fragments...<turn_end>"
+        "「……破片に交換できるアクセサリーを|　持っていないようですね。|<turn_end>": "...You don't seem to have any accessories|to break down into shards.|<turn_end>"
     },
     "1705": {
         "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
