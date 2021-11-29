@@ -282,7 +282,7 @@
         "<pipipi_on>|「オレに渡すアクセサリー　選ベ。|<break>": "<pipipi_on>I'm gonna give you some accessories...<break>"
     },
     "95": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "96": {
         "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
@@ -2679,7 +2679,7 @@
         "<pipipi_on>|「ほかに　ほしいモノはある？|<break>": "<pipipi_on>What else do you want?<break>"
     },
     "894": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "895": {
         "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
@@ -3807,7 +3807,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
     },
     "1270": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1271": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -4968,10 +4968,10 @@
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
     },
     "1657": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1658": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1659": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
