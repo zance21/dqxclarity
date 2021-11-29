@@ -369,7 +369,7 @@
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "124": {
-        "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Now, let's put him in the sobekuro...<bw_break>"
+        "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Then I'll put it in your equipment bag.<bw_break>"
     },
     "125": {
         "「おやめになるのですね。|　他に　ほしい物は　ございますか？|<bw_break>": "You want to stop? Is there anything|else you'd like?<bw_break>"
@@ -834,7 +834,7 @@
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|correct?<yesno><break>"
     },
     "279": {
-        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>, is that correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
     },
     "280": {
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>... This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|correct?<yesno><break>"
@@ -1212,19 +1212,19 @@
         "「おやめになるのですね。|　では　他の物の値段を変更いたしますか？|<break>": "You want to stop? Would you like me to|change the prices on any other items?<break>"
     },
     "405": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "406": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "407": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "408": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "409": {
-        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>, is that correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
     },
     "410": {
         "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
@@ -1500,10 +1500,10 @@
         "<select_se_off 4>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 4>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "501": {
-        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": ""
+        "<select_se_off 5>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off 5>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
     },
     "502": {
-        "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Now, let's put him in the sobekuro...<bw_break>"
+        "「それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Then I'll put it in your equipment bag.<bw_break>"
     },
     "503": {
         "「お買い上げ　ありがとうございます。|　それでは　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you for your purchase... Now, let's put|it in the bag...<bw_break>"
