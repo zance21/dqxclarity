@@ -225,10 +225,10 @@
         "「そのアイテムは　すでに交換しているので|　もう　お渡しすることが　できません。|<bw_break>": "That item has already been exchanged, so I|can't give it to you anymore...<bw_break>"
     },
     "76": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "77": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "78": {
         "「<%sL_GOODS_ITEM>を|　お持ちのアイテムと　交換してよろしいですか？|<yesno><break>": "Would you like to trade <%sL_GOODS_ITEM> for|an item you already own?<yesno><break>"
@@ -285,7 +285,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "96": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "97": {
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換するガ　それでいいカ？|<yesno2><break>": "I'll trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces, is|that okay?<yesno2><break>"
@@ -366,7 +366,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "123": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "124": {
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno 2><break>"
@@ -870,7 +870,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "291": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "292": {
         "「<%sL_GOODS_ITEM>が　<%nL_GET_NUM>個　ほしいのか。|　それで　後悔せぬな？|<yesno2><break>": "I want <%sL_GOODS_ITEM> to <%nL_GET_NUM>...|And you won't regret it?<yesno2><break>"
@@ -972,7 +972,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "325": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "326": {
         "「<%sL_GOODS_ITEM>が　<%nL_GET_NUM>個　ほしいのですね。|　本当に　そのお菓子で　よいですか？|<yesno2><break>": "I want <%sL_GOODS_ITEM> for <%nL_GET_NUM>...|Are you sure you want that candy?<yesno2><break>"
@@ -1686,7 +1686,7 @@
         "<pipipi_off>|<pc>は　<%dL_KOUKAN_NUM>Ｐ　ささげて|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7><bw_break>": "<pipipi_off>|<pc> is giving away <%dL_KOUKAN_NUM>P and getting|<%sL_GOODS_ITEM>!|<se_nots System 7><bw_break>"
     },
     "563": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "564": {
         "<pipipi_off>|友情の光を　<%nL_KOUKAN_NUM>Ｐ　ささげて|<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|入手してもよろしいですか？|<yesno><break>": "<pipipi_off>May I take <%nL_KOUKAN_NUM>P of the light of|friendship and get <%sL_GOODS_ITEM>|<%nL_GET_NUM> pieces?<yesno><break>"
@@ -1890,7 +1890,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "631": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "632": {
         "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個だね。|　<pc>さんの　持っているアイテムと|　交換するよ。いい？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM>...<pc> I'd like to trade for an item in your|possession. Ready?<yesno><break>"
@@ -1992,7 +1992,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "665": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "666": {
         "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　所持アイテムと　交換します。|　よろしいですか？|<yesno><break>": "I'd like to trade <%sL_GOODS_ITEM>|<%nL_GET_NUM> for the items in my|possession... Are you sure?<yesno><break>"
@@ -2094,7 +2094,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "699": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "700": {
         "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_GOODS_ITEM> <%nL_GET_NUM... I'll trade|you your material for it. Is that okay with|you?<yesno><break>"
@@ -2196,7 +2196,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "733": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "734": {
         "「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange|<%sL_BAG_ITEM> for <%sL_GOODS_ITEM>|<%nL_GET_NUM> pieces?<yesno><break>"
@@ -2298,7 +2298,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "767": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "768": {
         "「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to exchange|<%sL_BAG_ITEM> for <%sL_GOODS_ITEM>|<%nL_GET_NUM> pieces?<yesno><break>"
@@ -2682,7 +2682,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "895": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "896": {
         "「<%sL_GOODS_ITEM>を　<%nL_GET_NUM>個　だね！|　チョコボチケット　<%nL_KOUKAN_NUM>枚と|　交換になるけどいい？|<yesno><break>": "<%sL_GOODS_ITEM> for <%nL_GET_NUM>. I'll|trade it for <%nL_KOUKAN_NUM> chocobo|tickets, okay?<yesno><break>"
@@ -2787,7 +2787,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "930": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "931": {
         "「<%sL_GOODS_ITEM>を　<%nL_GET_NUM>個　だね！|　モーグリチケット　<%nL_KOUKAN_NUM>枚と|　交換になるけどいい？|<yesno><break>": "That's <%sL_GOODS_ITEM> for <%nL_GET_NUM>.|I'll trade you a Mowgli ticket for|<%nL_KOUKAN_NUM>, okay?<yesno><break>"
@@ -3837,7 +3837,7 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1280": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "1281": {
         "「<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|　持ってる素材と　交換していいですか？|<yesno><break>": "Can I trade you <%sL_GOODS_ITEM>|<%nL_GET_NUM> pieces for the materials you|have?<yesno><break>"
@@ -4818,7 +4818,7 @@
         "「どのアイテムを　交換するのかしらん？|<break>": "What items are we trading?<break>"
     },
     "1607": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "1608": {
         "「<%sL_GOODS_ITEM>を|　所持アイテムと　交換します。|　よろしいですか？|<yesno><break>": "I'd like to exchange <%sL_GOODS_ITEM> for an|item in my possession. May I?<yesno><break>"
@@ -5052,7 +5052,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "1685": {
-        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "You can only give this away once! May I|exchange <%sL_BAG_ITEM> for <%sL_GOODS_ITEM>?<yesno><break>"
+        "「これは一回しかあげることができぬシロモノだ！|<br>|「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "I can give you this only once! May I exchange|your <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?|<yesno><break>"
     },
     "1686": {
         "「<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "Are you sure you want to replace|<%sL_BAG_ITEM> with <%sL_GOODS_ITEM>?<yesno><break>"
