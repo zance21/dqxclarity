@@ -90,7 +90,7 @@
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "31": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "32": {
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM> <%nL_GET_NUM> pieces?<yesno 2><break>"
@@ -564,7 +564,7 @@
         "<pipipi_on>|「ほかにも　何か交換する？|<break>": "<pipipi_on>Do you want to trade anything else?<break>"
     },
     "189": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "190": {
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と　交換する？|<yesno 2><break>": "Replace this <%sL_BAG_ITEM> with|<%sL_GOODS_ITEM>?<yesno 2><break>"
@@ -675,7 +675,7 @@
         "<pipipi_on>|「他にも　何か交換しますー？　青い文字の交換は|　一度きりだから注意してね。交換できる期間は|　『<%sL_END_TIME>』までだよ。|<break>": "<pipipi_on>Do you want to trade anything else? Note that|the blue text can only be exchanged once...|You can only exchange them until|<br>|<%sL_END_TIME>...<break>"
     },
     "226": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "227": {
         "「<%sL_GOODS_ITEM>を|　おさかなコイン　<%nL_KOUKAN_NUM>枚と|　交換するけど　いいですかー？|<yesno><break>": "I'll trade you <%sL_GOODS_ITEM> for|<%nL_KOUKAN_NUM> fish coins, okay?<yesno><break>"
@@ -3501,7 +3501,7 @@
         "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
     },
     "1168": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1169": {
         "「<%sL_GOODS_ITEM>ですね。|　<pc>の　持っているアイテムと|　交換します。よいですね？|<yesno><break>": "<%sL_GOODS_ITEM>...<pc> I'll trade you the item that you have for the|item that... Isn't it?<yesno><break>"
@@ -4278,7 +4278,7 @@
         "<pipipi_on>|「他に　交換したいものは　ありますか？|<break>": "<pipipi_on>Is there anything else you'd like to trade?<break>"
     },
     "1427": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1428": {
         "「<%sL_GOODS_ITEM>を|　お持ちのバレンタインチケットと|　交換してよろしいですか？|<yesno><break>": "May I exchange <%sL_GOODS_ITEM> for your|Valentine's Day ticket?<yesno><break>"
@@ -4854,7 +4854,7 @@
         "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
     },
     "1619": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1620": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
@@ -5088,7 +5088,7 @@
         "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1697": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "1698": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
