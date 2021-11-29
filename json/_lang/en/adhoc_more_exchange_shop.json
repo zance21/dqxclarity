@@ -2001,10 +2001,10 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "668": {
-        "「ピピピ……　<%sL_GOODS_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": "Pippi... You are missing an item needed to|replace <%sL_GOODS_ITEM>...<bw_break>"
+        "「ピピピ……　<%sL_GOODS_ITEM>の交換に|　必要なアイテムが　不足しています。|<bw_break>": "Beep, beep... You are missing an item needed|to exchange for <%sL_GOODS_ITEM>.|<bw_break>"
     },
     "669": {
-        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so you can give it|to me...<bw_break>"
+        "「<%sL_BAG_ITEM>は|　ロックされているので|　渡して頂けません。|<bw_break>": "<%sL_BAG_ITEM> is locked, so I can't|take it from you.|<bw_break>"
     },
     "670": {
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to trade?<yesno><break>"
