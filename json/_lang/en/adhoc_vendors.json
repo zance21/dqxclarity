@@ -306,7 +306,7 @@
         "「おや　ふくろの中には|　何も入ってないようですね。|<bw_break>": "Oh, I don't think there's anything in the|bag...<bw_break>"
     },
     "103": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "104": {
         "「おや　それを買うには|　お金が　足りないようですね。|<bw_break>": "Oh, I don't think I have enough money to buy|that...<bw_break>"
@@ -423,7 +423,7 @@
         "「あら　ふくろの中には|　何も入ってないようですね。|<bw_break>": "Oh, I don't think there's anything in the|bag.<bw_break>"
     },
     "142": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "143": {
         "「申し訳ありませんが|　お金が　足りないようです。|<bw_break>": "I'm sorry, but we don't have enough money...<bw_break>"
@@ -702,7 +702,7 @@
         "「あれっ　ふくろの中には|　何も　入ってないですよっ。|<bw_break>": "Oh, there's nothing in the pouch...<bw_break>"
     },
     "235": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "236": {
         "「あっ　ごめんなさい。|　お金…足りないみたいです…。|<bw_break>": "Oh, sorry... The money... I don't think I|have enough...<bw_break>"
@@ -1986,7 +1986,7 @@
         "「あら　ふくろの中には|　何も入ってないようですね。|<bw_break>": "Oh, I don't think there's anything in the|bag.<bw_break>"
     },
     "663": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "664": {
         "「申し訳ありませんが|　お金が　足りないようです。|<bw_break>": "I'm sorry, but we don't have enough money...<bw_break>"
@@ -6507,7 +6507,7 @@
         "「おや　ふくろの中には|　何も入ってないようですね。|<bw_break>": "Oh, I don't think there's anything in the|bag...<bw_break>"
     },
     "2170": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "2171": {
         "「おや　それを買うには|　お金が　足りないようですね。|<bw_break>": "Oh, I don't think I have enough money to buy|that...<bw_break>"
@@ -6843,7 +6843,7 @@
         "「あら　ふくろの中には|　何も入ってないようですね。|<bw_break>": "Oh, I don't think there's anything in the|bag.<bw_break>"
     },
     "2282": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "2283": {
         "「申し訳ありませんが|　お金が　足りないようです。|<bw_break>": "I'm sorry, but we don't have enough money...<bw_break>"
@@ -10101,7 +10101,7 @@
         "clarity_nt_char_3367": "clarity_nt_char_3367"
     },
     "3368": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "3369": {
         "「はーい　お買い上げですねっ。|　どちらに　なさいますか？|<break>": "Here you go... Where would you like to go?<break>"
@@ -12900,7 +12900,7 @@
         "clarity_nt_char_4300": "clarity_nt_char_4300"
     },
     "4301": {
-        "「その数を　選ぶことはできません。|<bw_break>": "You don't get to choose the number of...<bw_break>"
+        "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
     },
     "4302": {
         "「食材を　ご所望なのね。|　それじゃ　どれが　ほしいのかしら？|<break>": "I'd like to order some food. Okay, which one|do you want?<break>"
