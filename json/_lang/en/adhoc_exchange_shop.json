@@ -33,7 +33,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "12": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "13": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -84,7 +84,7 @@
         "「交換コーカン　ファイアウェーイ！|　<%sL_KOUKAN_ITEM>　あげちゃう！|<end>": "Exchange KOUKAN Fire away!|<%sL_KOUKAN_ITEM> I'll give it|away!|<br><end>"
     },
     "29": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "30": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -147,7 +147,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "50": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "51": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -207,7 +207,7 @@
         "「はい　どーぞ！|<end>": "Here you go!<end>"
     },
     "70": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "71": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -264,7 +264,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "89": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "90": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -471,7 +471,7 @@
         "「……受け取レ。|<end>": "...受...<end>"
     },
     "158": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "159": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -594,7 +594,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "199": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "200": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -684,7 +684,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "229": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "230": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -774,7 +774,7 @@
         "「<%sL_KOUKAN_ITEM>だ。受け取れ。|<end>": "<%sL_KOUKAN_ITEMFILLERSTRIN...受...<end>"
     },
     "259": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "260": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -864,7 +864,7 @@
         "「では　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Now, please pick up your|<%sL_KOUKAN_ITEM>...<end>"
     },
     "289": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "290": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -951,10 +951,10 @@
         "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "Dragon Fang Shards can be exchanged for|Dragon Fangs. Please access again once you|have them. TRADE SEQUENCE TERMINATED.<turn_end>"
     },
     "318": {
-        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Pippi... Please pick up your|<%sL_KOUKAN_ITEM>...<end>"
+        "「ピピピ……　<%sL_KOUKAN_ITEM>を|　お受取りください。|<end>": "Beep, beep... Please take your|<%sL_KOUKAN_ITEM>.|<end>"
     },
     "319": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "320": {
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
@@ -1062,7 +1062,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>|<%nL_KOUKAN_NUM> pieces!|<se_nots System 7>|<end>"
     },
     "355": {
-        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "356": {
         "「<%sL_KOUKAN_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have enough items to|replace <%sL_KOUKAN_ITEM>...<bw_break>"
