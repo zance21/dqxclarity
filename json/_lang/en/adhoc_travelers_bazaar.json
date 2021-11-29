@@ -201,7 +201,7 @@
         "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'dL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM>.|Would you like to buy it?|<yesno><break>"
     },
     "68": {
-        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "Here is one <%sL_KAITAI_ITEM> that|<%sL_URINUSI> exhibited... <%'nL_BUY_PRICE>|Would you like to buy it for gold?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_KAITAI_ITEM> that|<%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "69": {
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This listing is for a <%sL_KAITAI_ITEM>|<%nL_KAUKAZU> piece by <%sL_URINUSI>...|<%'nL_BUY_PRICE>Would you like to buy it for|<br>|Gold?<yesno><break>"
@@ -1749,10 +1749,10 @@
         "「あちゃ～。その種類の商品は|　出品が　ないみたいですね。|　他の種類を　選んでみてください。|<bw_break>": "Uh... It doesn't look like there's anything|available for that type of product. I'm sure|you can find something else...<bw_break>"
     },
     "584": {
-        "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'nL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM...|Would you like to buy it?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'dL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM>.|Would you like to buy it?|<yesno><break>"
     },
     "585": {
-        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "Here is one <%sL_KAITAI_ITEM> that|<%sL_URINUSI> exhibited... <%'nL_BUY_PRICE>|Would you like to buy it for gold?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_KAITAI_ITEM> that|<%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "586": {
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This listing is for a <%sL_KAITAI_ITEM>|<%nL_KAUKAZU> piece by <%sL_URINUSI>...|<%'nL_BUY_PRICE>Would you like to buy it for|<br>|Gold?<yesno><break>"
