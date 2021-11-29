@@ -6861,7 +6861,7 @@
         "「申し訳ありませんが|　それを買い取ることは　できません。|<bw_break>": "I apologize, but I can't buy that.<bw_break>"
     },
     "2288": {
-        "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, you seem to have a lot of money.|When you have enough money in your wallet, we|can sell it again...<bw_break>"
+        "「あら　お客さま|　お金が　いっぱいのようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Oh, <if_woman>ma'am<else>sir<endif>, it seems that your wallet is full.|<br>|When you empty it out a bit, you can come|back and sell this again.|<bw_break>"
     },
     "2289": {
         "「あら　お客さま|　お金を　持ちきれないようですね。|<br>|「お財布に　余裕ができましたら|　また　お売りいただけますか。|<bw_break>": "Well, sir, it looks like you're running low|on cash. When you have more money in your|wallet, we can sell it again...<bw_break>"
