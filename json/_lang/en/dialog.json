@@ -5364,7 +5364,7 @@
         "clarity_nt_char_1788": "clarity_nt_char_1788"
     },
     "1789": {
-        "<speed=0>このマッチングの誘いを受けることができません。|モンスターが　登録されていないか|レベル　もしくは　転生回数が足りません。": ""
+        "<speed=0>このマッチングの誘いを受けることができません。|モンスターが　登録されていないか|レベル　もしくは　転生回数が足りません。": "<speed=0>You can't accept this matching invitation.|You don't have a registered monster or it|hasn't been reincarnated enough times."
     },
     "1790": {
         "clarity_nt_char_1790": "clarity_nt_char_1790"
