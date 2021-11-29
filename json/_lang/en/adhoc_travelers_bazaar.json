@@ -204,7 +204,7 @@
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_KAITAI_ITEM> that|<%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "69": {
-        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This listing is for a <%sL_KAITAI_ITEM>|<%nL_KAUKAZU> piece by <%sL_URINUSI>...|<%'nL_BUY_PRICE>Would you like to buy it for|<br>|Gold?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|that <%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<br>|<yesno><break>"
     },
     "70": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>ですね。|　こちらは　<%sL_GENDER>性でないと|　装備できませんが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNUM>... This item|must be of <%sL_GENDER> nature to be|equipped, is that correct?<yesno><break>"
@@ -1755,7 +1755,7 @@
         "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　ひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%sL_KAITAI_ITEM> that|<%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<yesno><break>"
     },
     "586": {
-        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This listing is for a <%sL_KAITAI_ITEM>|<%nL_KAUKAZU> piece by <%sL_URINUSI>...|<%'nL_BUY_PRICE>Would you like to buy it for|<br>|Gold?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さんが　出品した|　<%sL_KAITAI_ITEM>　<%nL_KAUKAZU>個ですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is <%dL_KAUKAZU> <%sL_KAITAI_ITEM>|that <%sL_URINUSI> has listed.|Would you like to buy it for <%'dL_BUY_PRICE> Gold?|<br>|<yesno><break>"
     },
     "587": {
         "「その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.|<bw_break>"
