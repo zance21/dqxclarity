@@ -1962,7 +1962,7 @@
         "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
     },
     "655": {
-        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
+        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "Dragon Fang Shards can be exchanged for|Dragon Fangs. Please access again once you|have them. TRADE SEQUENCE TERMINATED.<turn_end>"
     },
     "656": {
         "「ピピピ……　そうびぶくろが　イッパイです。|　整理後　再度アクセスをお願いします。|<bw_break>": "Pippi... The bag is gone. Please access the|site again...<bw_break>"
@@ -4848,10 +4848,10 @@
         "「他にも　交換したいものは　ありますか？|<yesno><break>": "Is there anything else you'd like to exchange?<yesno><break>"
     },
     "1617": {
-        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
+        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "Dragon Fang Shards can be exchanged for|Dragon Fangs. Please access again once you|have them. TRADE SEQUENCE TERMINATED.<turn_end>"
     },
     "1618": {
-        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "The Dragonstone shards can be exchanged for|Dragonstone, so please access them again...|Trade sequence terminated...<turn_end>"
+        "「竜牙石の破片は　竜牙石と交換できますので|　入手後　再度アクセスをお願いします。|　トレード・シーケンスを　終了します。|<turn_end>": "Dragon Fang Shards can be exchanged for|Dragon Fangs. Please access again once you|have them. TRADE SEQUENCE TERMINATED.<turn_end>"
     },
     "1619": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
