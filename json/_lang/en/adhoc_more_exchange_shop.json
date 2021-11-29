@@ -435,7 +435,7 @@
         "「あら？|　今の職業だと　装備できないみたいだけど|　本当に　いいのね？|<yesno><break>": "Oh? It looks like you can't equip it in your|current profession. Are you sure about that?<yesno><break>"
     },
     "146": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "147": {
         "「あなた　そうびぶくろが　いっぱいじゃない。|　そんなんじゃ　受け取れないわ。|<bw_break>": "Your bag is full of... I can't take it.<bw_break>"
@@ -1044,7 +1044,7 @@
         "「今の職業だと装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession.|Is that all right with you?<yesno><break>"
     },
     "349": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "350": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -2166,7 +2166,7 @@
         "「今の職業では装備できませんが|　よろしいですか？|<yesno><break>": "I can't equip it with my current profession,|if that's all right with you.<yesno><break>"
     },
     "723": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "724": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -3918,7 +3918,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
     },
     "1307": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1308": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -4251,7 +4251,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
     },
     "1418": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1419": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
@@ -4365,7 +4365,7 @@
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できないけど　いいかい？|<yesno 2><break>": "You can't equip <%sL_GOODS_ITEM> with your|gender, okay?<yesno 2><break>"
     },
     "1456": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "1457": {
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"

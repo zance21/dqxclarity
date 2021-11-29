@@ -138,7 +138,7 @@
         "「<%sL_KOUKAN_ITEM>を　交換するには|　必要なアイテムが　足りないようですね。|<bw_break>": "I'm afraid I don't have enough items to|replace <%sL_KOUKAN_ITEM>...<bw_break>"
     },
     "47": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "48": {
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
@@ -585,7 +585,7 @@
         "「そのアイテムは　選ぶ必要がありませんよ。|<bw_break>": "You'll have to pick the item...<bw_break>"
     },
     "196": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "197": {
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
@@ -855,7 +855,7 @@
         "「そのアイテムは　選ぶ必要がありませんよ。|<bw_break>": "You'll have to pick the item...<bw_break>"
     },
     "286": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "287": {
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
@@ -1035,7 +1035,7 @@
         "「アイテム交換屋では|　決められた数のアイテム同士を　無料で|　交換することが　できます。|<br>|「なお　期限の切れた運命のカードは|　交換に使えませんので　ご了承ください。|<bw_break>": "In the Item Exchange, you can exchange a set|number of items for free... Please note that|expired cards cannot be used for exchanges...|<br><bw_break>"
     },
     "346": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you... We look forward to seeing you|again soon...<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "347": {
         "「ご利用　ありがとうございました。|　また　お越しくださいませ。|<turn_end>": "Thank you for visiting... We look forward to|seeing you again...<turn_end>"
