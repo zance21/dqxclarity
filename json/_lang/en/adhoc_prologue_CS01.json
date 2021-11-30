@@ -309,19 +309,19 @@
         "<if_woman>「イヤだよ！　姉ちゃん！！|　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！|　おいらを　ひとりにしないで！！<endif>": "<if_woman>No! Sis! Please don't leave me!!<else>No! Bro! Please don't leave me!!<endif>"
     },
     "104": {
-        "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>": "<if_woman>Sis! Sis!<else>Big brother! Big brother!<endif>"
+        "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>": "<if_woman>Sis! Sis!!!<else>Bro! Bro!!!<endif>"
     },
     "105": {
-        "<if_woman>「姉ちゃぁぁあああんっ！！<else>「兄ちゃぁぁあああんっ！！<endif>": "<if_woman>Sis, aaah!<else>Brother!<endif>"
+        "<if_woman>「姉ちゃぁぁあああんっ！！<else>「兄ちゃぁぁあああんっ！！<endif>": "Don't gooo!!!"
     },
     "106": {
-        "「<kyodai>さんが……　消えた？": "<kyodai>The three of you... Disappeared?"
+        "「<kyodai>さんが……　消えた？": "<kyodai>.... disappeared?"
     },
     "107": {
-        "「まさか　今のは……？": "No way. Was that...?"
+        "「まさか　今のは……？": "No way... was that...?"
     },
     "108": {
-        "「ぎゃあああああ！！！": "Geez!"
+        "「ぎゃあああああ！！！": "Ahhhhhh!"
     },
     "109": {
         "「<pc>さん。|　テンスの花は　私が　命に代えても|　必ず　おばあさまに　届けます！": "<pc>Miss. Even if it costs me my life, I'll make|sure Tens' flowers get to Grandmother!"
