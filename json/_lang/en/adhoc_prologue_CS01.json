@@ -1068,16 +1068,16 @@
         "<center>そこには　あなたたち人間の他に|さまざまな姿をした種族が|今も　暮らしていることを……。": "There exist other races besides you humans|that yet still live there..."
     },
     "357": {
-        "<center>さあ　お行きなさい。|母なる大地　アストルティアへ。": "There you go... Mother Earth, Astolte..."
+        "<center>さあ　お行きなさい。|母なる大地　アストルティアへ。": "Now, go. To the wondrous world of Astoltia."
     },
     "358": {
         "「……なんだって？　<kyodai>と　アバさまが|　カメさまに乗っている夢を見た？　いやだよ。|　そんなこと　あるはずが　ないじゃないか。": "...What's that? You dreamt that Abba and I|were riding on the Galapagod? No way. That|could never happen."
     },
     "359": {
-        "<if_woman><center>不運にも　今日|この世を去った　オーガの女性がいます。<else><center>不運にも　今日|この世を去った　オーガの青年がいます。<endif>": "<if_woman>Unfortunately, the woman who left this world|today, the Ogre...<else>A young man, an ogre, who unfortunately|passed away today...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　オーガの女性がいます。<else><center>不運にも　今日|この世を去った　オーガの青年がいます。<endif>": "<if_woman>There is a young Ogre woman|who unfortunately passed on this day.<else>There is a young Ogre man|who unfortunately passed on this day.<endif>"
     },
     "360": {
-        "<if_woman><center>不運にも　今日|この世を去った　エルフの女性がいます。<else><center>不運にも　今日|この世を去った　エルフの青年がいます。<endif>": "<if_woman>An Elven woman who unfortunately passed away|today...<else>A young elf who unfortunately passed away|today...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　エルフの女性がいます。<else><center>不運にも　今日|この世を去った　エルフの青年がいます。<endif>": "<if_woman>There is a young Elf woman|who unfortunately passed on this day.<else>There is a young Elf man|who unfortunately passed on this day.<endif>"
     },
     "361": {
         "<if_woman><center>不運にも　今日|この世を去った　プクリポの女性がいます。<else><center>不運にも　今日|この世を去った　プクリポの青年がいます。<endif>": "<if_woman>The woman from Pucuripo who unfortunately|passed away today...<else>A young man from Pucuripo, who unfortunately|passed away today...<endif>"
