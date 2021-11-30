@@ -1032,7 +1032,7 @@
         "「そうだよ。|　アバさまの結界が　破られるなんて……。": "You're right. I can't believe the barrier was|broken..."
     },
     "345": {
-        "<center><pc>よ。|その姿を　選んだのですね。": "<pc>Hey. I chose that look..."
+        "<center><pc>よ。|その姿を　選んだのですね。": "<pc>.|So, this is the form you have chosen."
     },
     "346": {
         "<if_woman><center>不運にも　今日|この世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日|この世を去った　<pc_race>の青年がいます。<endif>": "<if_woman>Unfortunately, he left this world today.<pc_race>The woman in the...<else>Unfortunately, he left this world today.<pc_race>A young man from...<endif>"
