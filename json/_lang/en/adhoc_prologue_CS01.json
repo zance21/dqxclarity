@@ -3,19 +3,19 @@
         "「キヒヒヒ！|　また　来おったか　エテーネの民よ！|　今度こそ　お前たちの　息の根を止めてやろう！": "Khihihihi! You have come again, people of|Ethene! This time, I'll stop you all dead in|your tracks!"
     },
     "2": {
-        "「時を超えるチカラを秘めた　お前たちに|　テンスの花を渡すわけには　いかんからのう！": "You have the power to transcend time, and I|will not let you have the Tens' flower!"
+        "「時を超えるチカラを秘めた　お前たちに|　テンスの花を渡すわけには　いかんからのう！": "You have the power to transcend time, and I|will not let you have the Tens Flower!"
     },
     "3": {
-        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>Hey, sis!<else>Hey, brother!<endif>"
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>Hey, sis!<else>Hey, bro!<endif>"
     },
     "4": {
         "「ほら　いいでしょ！？": "There, that's good, right?"
     },
     "5": {
-        "「アバさまが　乗っていいって|　言ってくれたんだ！": "Lady Ava said I could ride!"
+        "「アバさまが　乗っていいって|　言ってくれたんだ！": "Lady Abba said I could ride!"
     },
     "6": {
-        "「ねっ　アバさま？": "Right, Ava?"
+        "「ねっ　アバさま？": "Right, Abba?"
     },
     "7": {
         "「ああ。今日は　特別じゃ。": "Oh. Today's special..."
@@ -69,13 +69,13 @@
         "「錬金術で　ハツラツ豆を|　１０倍に増やすって言ったのに　失敗して|　全部　灰にしちゃったんだよ！": "I said I'd use alchemy to increase the number|of honeydew beans tenfold, but I failed and|turned them all to ash!"
     },
     "24": {
-        "「今年最後の　ハツラツ豆を……。|　アバさまが　とーっても|　楽しみにしてらっしゃったのに　ひどいだろ？": "The last of the year's peaches. Ava's been|looking forward to it so much. It's terrible,|isn't it?"
+        "「今年最後の　ハツラツ豆を……。|　アバさまが　とーっても|　楽しみにしてらっしゃったのに　ひどいだろ？": "The last of the year's peaches. Abba's been|looking forward to it so much. It's terrible,|isn't it?"
     },
     "25": {
-        "「あんたの　<kyodai_rel2>の失敗なんだから|　代わりに　アバさまに　謝ってきておくれ。": "Your.<kyodai_rel2>Go apologize to Ava instead..."
+        "「あんたの　<kyodai_rel2>の失敗なんだから|　代わりに　アバさまに　謝ってきておくれ。": "Your.<kyodai_rel2>Go apologize to Abba instead..."
     },
     "26": {
-        "「言うまでもないけど　アバさまの家は|　橋向こうの高台にある　大きな家だからね。|　じゃあ　頼んだよっ！": "Needless to say, Ava's house is the big one|on the hill over the bridge... I'm counting|on you!"
+        "「言うまでもないけど　アバさまの家は|　橋向こうの高台にある　大きな家だからね。|　じゃあ　頼んだよっ！": "Needless to say, Abba's house is the big one|on the hill over the bridge... I'm counting|on you!"
     },
     "27": {
         "「なんじゃ　こんなもの！": "What the hell is this?"
@@ -165,16 +165,16 @@
         "<if_woman>「で　姉ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<endif>": "<if_woman>So what did you come all the way here for?<else>So what did you come all the way here for?<endif>"
     },
     "56": {
-        "「……えっ？|　アバさまが　おいらを呼んでる？": "... What? Lady Ava wants to see me?"
+        "「……えっ？|　アバさまが　おいらを呼んでる？": "... What? Lady Abba wants to see me?"
     },
     "57": {
         "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
     },
     "58": {
-        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Ava-sama to rely on my alchemy?"
+        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Abba-sama to rely on my alchemy?"
     },
     "59": {
-        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, sis! Let's go to Ava's! Don't forget|about the hat I made for you... Don't forget|it!<else>Come on, big brother! Let's go to Ava's!|Don't forget about the hat I made for you...|Don't forget it!<endif>"
+        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, sis! Let's go to Abba's! Don't forget|about the hat I made for you... Don't forget|it!<else>Come on, big brother! Let's go to Abba's!|Don't forget about the hat I made for you...|Don't forget it!<endif>"
     },
     "60": {
         "<kyodai>が　仲間に加わった！<me 61>": "<kyodai>has joined our ranks!<me 61>"
@@ -801,13 +801,13 @@
         "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": "<if_woman>So what's your sister doing here?<else>So what's your brother doing here?<endif>"
     },
     "268": {
-        "「……なんだって？|　アバさまが　オレを呼んでる？": "... What? Ava's calling me?"
+        "「……なんだって？|　アバさまが　オレを呼んでる？": "... What? Abba's calling me?"
     },
     "269": {
-        "「……えっ？|　アバさまが　あたしを呼んでる？": "... What? Ava's calling me?"
+        "「……えっ？|　アバさまが　あたしを呼んでる？": "... What? Abba's calling me?"
     },
     "270": {
-        "「……えっ？|　アバさまが　私を呼んでる？": "... What? Lady Ava wants to see me?"
+        "「……えっ？|　アバさまが　私を呼んでる？": "... What? Lady Abba wants to see me?"
     },
     "271": {
         "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
@@ -819,22 +819,22 @@
         "「うふふふふふふふふふ……。": "Mmmmmmmmmmmmmmmmm..."
     },
     "274": {
-        "「それって　ついに　アバさまが|　オレの錬金術を　頼りにする日が|　来たってことじゃないか！？": "Doesn't that mean the day has finally come|for Ava to rely on my alchemy?"
+        "「それって　ついに　アバさまが|　オレの錬金術を　頼りにする日が|　来たってことじゃないか！？": "Doesn't that mean the day has finally come|for Abba to rely on my alchemy?"
     },
     "275": {
-        "「それって　ついに　アバさまが|　あたしの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Ava-sama to rely on my alchemy?"
+        "「それって　ついに　アバさまが|　あたしの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Abba-sama to rely on my alchemy?"
     },
     "276": {
-        "「それって　ついに　アバさまが|　私の錬金術を　頼りにする日が|　来たってこと～！？": "Does that mean the day has finally come for|Ava-sama to rely on my alchemy?"
+        "「それって　ついに　アバさまが|　私の錬金術を　頼りにする日が|　来たってこと～！？": "Does that mean the day has finally come for|Abba-sama to rely on my alchemy?"
     },
     "277": {
-        "「さあ　<pc>！|　アバさまの所へ　行こうぜ～！　オレが作った|　ぼうしのこと　忘れんじゃねーぞ！": "well<pc>Let's go to Ava! Let's go to Ava's! Don't|forget about the hat I made for you!"
+        "「さあ　<pc>！|　アバさまの所へ　行こうぜ～！　オレが作った|　ぼうしのこと　忘れんじゃねーぞ！": "well<pc>Let's go to Abba! Let's go to Abba's! Don't|forget about the hat I made for you!"
     },
     "278": {
-        "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": "well<pc>Come on! I'm going to Ava's! Don't forget|about the hat I made for you!"
+        "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": "well<pc>Come on! I'm going to Abba's! Don't forget|about the hat I made for you!"
     },
     "279": {
-        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Take me to Ava! The hat|I made for you... Don't forget it!<else>Come on, big brother! Take me to Ava! Don't|forget about the hat I made for you... Don't|forget it!<endif>"
+        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Take me to Abba! The hat|I made for you... Don't forget it!<else>Come on, big brother! Take me to Abba! Don't|forget about the hat I made for you... Don't|forget it!<endif>"
     },
     "280": {
         "「テキスト削除": "text deletion"
@@ -885,22 +885,22 @@
         "「どう？　いいでしょ！？": "What do you think? It's good, right?"
     },
     "296": {
-        "「アバさまが　乗っていいって|　言ってくれたんだぜ！": "Ava said I could ride!"
+        "「アバさまが　乗っていいって|　言ってくれたんだぜ！": "Abba said I could ride!"
     },
     "297": {
-        "「アバさまが　乗っていいって|　言ってくれたのよ！": "Ava said I could ride!"
+        "「アバさまが　乗っていいって|　言ってくれたのよ！": "Abba said I could ride!"
     },
     "298": {
-        "「アバさまが　乗っていいって|　言ってくれたんだ～。": "Ava said I could ride with her..."
+        "「アバさまが　乗っていいって|　言ってくれたんだ～。": "Abba said I could ride with her..."
     },
     "299": {
-        "「なあっ　アバさま？": "What, Ava?"
+        "「なあっ　アバさま？": "What, Abba?"
     },
     "300": {
-        "「ねえっ　アバさま？": "Hey, Ava-sama?"
+        "「ねえっ　アバさま？": "Hey, Abba-sama?"
     },
     "301": {
-        "「ねっ　アバさま？": "Right, Ava?"
+        "「ねっ　アバさま？": "Right, Abba?"
     },
     "302": {
         "「おう　アバさま。": "Oh, a..."
@@ -1014,7 +1014,7 @@
         "「でも　テンスの花なんて　聞いたことないわ。": "But I've never heard of tens flowers..."
     },
     "339": {
-        "「おおおっ　さすが　アバさまだ！": "Oh, that's Ava!"
+        "「おおおっ　さすが　アバさまだ！": "Oh, that's Abba!"
     },
     "340": {
         "「よかった……　安心していいんだねえ。": "I'm glad. It's okay..."
@@ -1026,10 +1026,10 @@
         "「魔物が……　魔物が　村に入ってきた……！": "A demon... A demon has entered the village..."
     },
     "343": {
-        "「……オレたち　どうなっちまうんだ？|　アバさまは　大丈夫だって言ってたけど|　お告げどおり　滅びてしまうんじゃ……。": "... What's going to happen to us? Ava said|we'd be okay, but maybe she's right and we'll|die."
+        "「……オレたち　どうなっちまうんだ？|　アバさまは　大丈夫だって言ってたけど|　お告げどおり　滅びてしまうんじゃ……。": "... What's going to happen to us? Abba said|we'd be okay, but maybe she's right and we'll|die."
     },
     "344": {
-        "「そうだよ。|　アバさまの結界が　破られるなんて……。": "Oh, no. I can't believe that Ava's wards have|been breached."
+        "「そうだよ。|　アバさまの結界が　破られるなんて……。": "Oh, no. I can't believe that Abba's wards have|been breached."
     },
     "345": {
         "<center><pc>よ。|その姿を　選んだのですね。": "<pc>Hey. I chose that look..."
@@ -1071,7 +1071,7 @@
         "<center>さあ　お行きなさい。|母なる大地　アストルティアへ。": "There you go... Mother Earth, Astolte..."
     },
     "358": {
-        "「……なんだって？　<kyodai>と　アバさまが|　カメさまに乗っている夢を見た？　いやだよ。|　そんなこと　あるはずが　ないじゃないか。": "... Excuse me?<kyodai>And you dreamt that Ava was riding a turtle?|No... That can't be..."
+        "「……なんだって？　<kyodai>と　アバさまが|　カメさまに乗っている夢を見た？　いやだよ。|　そんなこと　あるはずが　ないじゃないか。": "... Excuse me?<kyodai>And you dreamt that Abba was riding a turtle?|No... That can't be..."
     },
     "359": {
         "<if_woman><center>不運にも　今日|この世を去った　オーガの女性がいます。<else><center>不運にも　今日|この世を去った　オーガの青年がいます。<endif>": "<if_woman>Unfortunately, the woman who left this world|today, the Ogre...<else>A young man, an ogre, who unfortunately|passed away today...<endif>"
