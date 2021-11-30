@@ -30,28 +30,28 @@
         "「はい　アバさま。": "Yes, Lady Abba."
     },
     "11": {
-        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<endif>": "<if_woman>Come on! Come on, sis. Get in. Get in. Come|on, hold on to my hand...<else>Come on! Get in, get in, get in! Come on,|hold on to my hand...<endif>"
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<endif>": "<if_woman>Come on, sis! Get on, get on! Here,|hold on to my hand...<else>Come on, bro! Get on, get on! Here,|hold on to my hand...<endif>"
     },
     "12": {
-        "「ダメじゃ！": "No! No!"
+        "「ダメじゃ！": "No way!"
     },
     "13": {
-        "「……えっ？": "... What?"
+        "「……えっ？": "...Huh?"
     },
     "14": {
-        "「<pc>は　乗せられん。": "<pc>I'll take the..."
+        "「<pc>は　乗せられん。": "<pc> can't ride it."
     },
     "15": {
-        "「ど　どうして……？": "How did you...?"
+        "「ど　どうして……？": "W-why not...?"
     },
     "16": {
-        "「……………………。": "..."
+        "「……………………。": "........."
     },
     "17": {
-        "「そ　れ　は　な…………": "That's not..."
+        "「そ　れ　は　な…………": "That's....because..…"
     },
     "18": {
-        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>Aah!"
+        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>!!"
     },
     "19": {
         "「あはは……　ごめんなさい～！！": "Hahaha... I'm sorry~!"
