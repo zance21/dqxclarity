@@ -156,19 +156,19 @@
         "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": "<if_woman>I'm happy you came! This is...|A present for my sister! I think you'll like|it!<else>I'm happy you came! This is...|A present for my brother! I think you'll like|it!<endif>"
     },
     "53": {
-        "<pc>は|ごきげんなぼうしを　手に入れた！<me 60>": "<pc>I've got the happy hat!<me 60>"
+        "<pc>は|ごきげんなぼうしを　手に入れた！<me 60>": "<pc> received the Happy Hat!<me 60>"
     },
     "54": {
-        "「あれ？　かばんが　いっぱいだね。|　しょうがないから　おいらが　持っておくよ。": "What? My bag is full... I don't know what to|do. I'll just..."
+        "「あれ？　かばんが　いっぱいだね。|　しょうがないから　おいらが　持っておくよ。": "Huh? Your bag's full... oh well. I'll hang|onto it for you."
     },
     "55": {
-        "<if_woman>「で　姉ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<endif>": "<if_woman>So what did you come all the way here for?<else>So what did you come all the way here for?<endif>"
+        "<if_woman>「で　姉ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで|　わざわざ　なにしに来たの？<endif>": "So, what did you come all the way out here|for, anyway?"
     },
     "56": {
-        "「……えっ？|　アバさまが　おいらを呼んでる？": "... What? Lady Abba wants to see me?"
+        "「……えっ？|　アバさまが　おいらを呼んでる？": "...Huh? Lady Abba wants to see me?"
     },
     "57": {
-        "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
+        "「ふっふっふっふっふっ……。": "Hehehehehe..."
     },
     "58": {
         "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Abba-sama to rely on my alchemy?"
