@@ -1080,12 +1080,12 @@
         "<if_woman><center>不運にも　今日|この世を去った　エルフの女性がいます。<else><center>不運にも　今日|この世を去った　エルフの青年がいます。<endif>": "<if_woman>There is a young Elf woman|who unfortunately passed on this day.<else>There is a young Elf man|who unfortunately passed on this day.<endif>"
     },
     "361": {
-        "<if_woman><center>不運にも　今日|この世を去った　プクリポの女性がいます。<else><center>不運にも　今日|この世を去った　プクリポの青年がいます。<endif>": "<if_woman>The woman from Pucuripo who unfortunately|passed away today...<else>A young man from Pucuripo, who unfortunately|passed away today...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　プクリポの女性がいます。<else><center>不運にも　今日|この世を去った　プクリポの青年がいます。<endif>": "<if_woman>There is a young Pukulipo woman|who unfortunately passed on this day.<else>There is a young Pukulipo man|who unfortunately passed on this day.<endif>"
     },
     "362": {
-        "<if_woman><center>不運にも　今日|この世を去った　ウェディの女性がいます。<else><center>不運にも　今日|この世を去った　ウェディの青年がいます。<endif>": "<if_woman>The Wedi woman who unfortunately left this|world today...<else>A young man named Wedi, who unfortunately|passed away today...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　ウェディの女性がいます。<else><center>不運にも　今日|この世を去った　ウェディの青年がいます。<endif>": "<if_woman>There is a young Weddie woman|who unfortunately passed on this day.<else>There is a young Weddie man|who unfortunately passed on this day.<endif>"
     },
     "363": {
-        "<if_woman><center>不運にも　今日|この世を去った　ドワーフの女性がいます。<else><center>不運にも　今日|この世を去った　ドワーフの青年がいます。<endif>": "<if_woman>The Dwarf woman who unfortunately passed away|today...<else>A young dwarf boy who unfortunately passed|away today...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　ドワーフの女性がいます。<else><center>不運にも　今日|この世を去った　ドワーフの青年がいます。<endif>": "<if_woman>There is a young Dwarf woman|who unfortunately passed on this day.<else>There is a young Dwarf man|who unfortunately passed on this day.<endif>"
     }
 }
