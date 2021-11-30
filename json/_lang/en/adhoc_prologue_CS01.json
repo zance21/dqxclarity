@@ -1035,16 +1035,16 @@
         "<center><pc>よ。|その姿を　選んだのですね。": "<pc>.|So, this is the form you have chosen."
     },
     "346": {
-        "<if_woman><center>不運にも　今日|この世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日|この世を去った　<pc_race>の青年がいます。<endif>": "<if_woman>Unfortunately, he left this world today.<pc_race>The woman in the...<else>Unfortunately, he left this world today.<pc_race>A young man from...<endif>"
+        "<if_woman><center>不運にも　今日|この世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日|この世を去った　<pc_race>の青年がいます。<endif>": "<if_woman>There is a young <pc_race> woman|who unfortunately passed on this day.<else>There is a young <pc_race> man|who unfortunately passed on this day.<endif>"
     },
     "347": {
-        "<if_woman><center>あなたは今日から　その女性の身体を借り|新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り|新たな人生を　歩んでゆくことになります。<endif>": "<if_woman>From this day forward, you will borrow that|woman's body and start a new life...<else>From this day forward, you will borrow that|young man's body and start a new life...<endif>"
+        "<if_woman><center>あなたは今日から　その女性の身体を借り|新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り|新たな人生を　歩んでゆくことになります。<endif>": "<if_woman>From this day forth, you shall assume the body|of this young woman and begin a new life.<else>From this day forth, you shall assume the body|of this young man and begin a new life.<endif>"
     },
     "348": {
         "<center>｢テキスト削除": "Delete text"
     },
     "349": {
-        "<center>さあ　この新しい冒険の書を　お持ちなさい。": "And now, with this new adventure book at your|fingertips..."
+        "<center>さあ　この新しい冒険の書を　お持ちなさい。": "Now, take this Adventure Log with you."
     },
     "350": {
         "<pc>は|冒険の書（だいじなもの）を　受け取った！<me 60>": "<pc>has received the Book of Adventures!<me 60>"
