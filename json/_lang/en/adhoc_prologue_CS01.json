@@ -756,22 +756,22 @@
         "「よーし……。|　今度こそ　すっごいのが　できちゃうよ。|　きっと……。": "Okay... This time I'm going to make|something amazing. I'm sure of it..."
     },
     "253": {
-        "「よっしゃあっ！|　ホントに　すっげえのが　できたぜっ！": "Oh, yeah! I've made something really awesome!"
+        "「よっしゃあっ！|　ホントに　すっげえのが　できたぜっ！": "Oh yeah! I've made something REALLY awesome!"
     },
     "254": {
-        "「やったあっ！|　なんか　すっごいの　できちゃった！": "I did it! I've made something amazing!"
+        "「やったあっ！|　なんか　すっごいの　できちゃった！": "I did it! I really did it!"
     },
     "255": {
-        "「やったあっ！|　なんか　すっごいのが　できたよ～！": "I did it! I've made something amazing!"
+        "「やったあっ！|　なんか　すっごいのが　できたよ～！": "I did it! I've really made something amazing!"
     },
     "256": {
         "「……<pc>？": "...<pc>？"
     },
     "257": {
-        "「あら　<pc>？": "rough<pc>？"
+        "「あら　<pc>？": "Huh? <pc>？"
     },
     "258": {
-        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>": "<if_woman>Hey, sis?<else>Hey, big brother?<endif>"
+        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>": "<if_woman>Huh, sis?<else>Huh, bro?<endif>"
     },
     "259": {
         "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": "You've come to the right place! Hey! I got|something for you! I think you'll like it."
