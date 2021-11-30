@@ -153,7 +153,7 @@
         "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": "<if_woman>Is that you, sis?<else>Is that you, bro?<endif>"
     },
     "52": {
-        "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": "<if_woman>You've come to the right place! This... It's|for my sister! I think she'll like it!<else>You've come to the right place! This... It's|for you, brother! I think he'll like it!<endif>"
+        "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": "<if_woman>I'm happy you came! This is...|A present for my sister! I think you'll like|it!<else>I'm happy you came! This is...|A present for my brother! I think you'll like|it!<endif>"
     },
     "53": {
         "<pc>は|ごきげんなぼうしを　手に入れた！<me 60>": "<pc>I've got the happy hat!<me 60>"
