@@ -834,7 +834,7 @@
         "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": "Come on, then! We’re going to Abba’s! And|don’t forget about the hat I made for you!"
     },
     "279": {
-        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Take me to Abba! The hat|I made for you... Don't forget it!<else>Come on, big brother! Take me to Abba! Don't|forget about the hat I made for you... Don't|forget it!<endif>"
+        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Let's go see Abba right now!|Don't forget the hat I made for you!<else>Come on, big brother! Let's go see Abba right now!|Don't forget the hat I made for you!<endif>"
     },
     "280": {
         "「テキスト削除": "text deletion"
@@ -867,16 +867,16 @@
         "「まったく！|　<kyodai>は　逃げ足だけは速いんだから。": "Jeez! <kyodai> sure is a fast runner."
     },
     "290": {
-        "「<pc>ー！": "<pc>No!"
+        "「<pc>ー！": "<pc>!!"
     },
     "291": {
-        "「<pc>～！": "<pc>~!"
+        "「<pc>～！": "<pc>!!"
     },
     "292": {
-        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>Hey, sis!<else>Big brother!<endif>"
+        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>Big sister!!<else>Big brother!!<endif>"
     },
     "293": {
-        "「どうだ　いいだろう！？": "What do you think? It's good!"
+        "「どうだ　いいだろう！？": "Well? Isn't it great?!"
     },
     "294": {
         "「どう？　いいでしょう！？": "What do you think? Isn't this great?!"
