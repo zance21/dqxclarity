@@ -9,7 +9,7 @@
         "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>Hey, sis!<else>Hey, bro!<endif>"
     },
     "4": {
-        "「ほら　いいでしょ！？": "There, that's good, right?"
+        "「ほら　いいでしょ！？": "Look! Isn't this great?!"
     },
     "5": {
         "「アバさまが　乗っていいって|　言ってくれたんだ！": "Elder Abba said I could ride with her!"
@@ -39,7 +39,7 @@
         "「……えっ？": "...Huh?"
     },
     "14": {
-        "「<pc>は　乗せられん。": "<pc> can't ride it."
+        "「<pc>は　乗せられん。": "We can't take <pc>."
     },
     "15": {
         "「ど　どうして……？": "W-why not...?"
