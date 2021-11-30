@@ -21,13 +21,13 @@
         "「ああ。今日は　特別じゃ。": "Yes. Today's special."
     },
     "8": {
-        "「村の守り神　カメさまの　お背中に|　乗せていただく日が　来ようとは……。|　長生きは　するもんじゃのう。": "I never thought I'd see the day when I'd be|riding on the back of the village's guardian|turtle... I won't live long..."
+        "「村の守り神　カメさまの　お背中に|　乗せていただく日が　来ようとは……。|　長生きは　するもんじゃのう。": "I never thought I'd see the day when I'd be|riding on the back of the village's guardian|turtle... What a great life I've had."
     },
     "9": {
-        "「さあ　行くぞ　<kyodai>。|　他の者たちも　乗せてやらねば。": "Come on, let's go.<kyodai> Let's get the others on|board..."
+        "「さあ　行くぞ　<kyodai>。|　他の者たちも　乗せてやらねば。": "Come on, let's go, <kyodai>.|I have to give the others a ride too."
     },
     "10": {
-        "「はい　アバさま。": "Yes, I..."
+        "「はい　アバさま。": "Yes, Lady Abba."
     },
     "11": {
         "<if_woman>「さあ！　姉ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！|　ほら　おいらの手に　つかまって……<endif>": "<if_woman>Come on! Come on, sis. Get in. Get in. Come|on, hold on to my hand...<else>Come on! Get in, get in, get in! Come on,|hold on to my hand...<endif>"
