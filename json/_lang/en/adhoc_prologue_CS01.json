@@ -780,10 +780,10 @@
         "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": "Perfect timing! This is for you, <pc>!|I think you'll look great in it!"
     },
     "261": {
-        "<if_woman>「いいところに来たね～！|　これ……　お姉ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<else>「いいところに来たね～！|　これ……　お兄ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<endif>": "<if_woman>You've come to the right place! This... It's|a present for my sister! I think she'll like|it!<else>You've come to the right place! This... It's|for you, big brother! I think he'll like it!<endif>"
+        "<if_woman>「いいところに来たね～！|　これ……　お姉ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<else>「いいところに来たね～！|　これ……　お兄ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<endif>": "<if_woman>Perfect timing! It's a present for my you, big|sister! You'll look great in it!<else>Perfect timing! It's a present for you, big|brother! You'll look great in it!<endif>"
     },
     "262": {
-        "「えーっ　かばんが　いっぱいなのかよ。|　しょうがねえなあ。オレが　持っといてやるか。": "What? My bag is full... It's okay... I'll|hold it for you..."
+        "「えーっ　かばんが　いっぱいなのかよ。|　しょうがねえなあ。オレが　持っといてやるか。": "Huh? Your bag is full? Oh well. I'll hang onto|it for you for now."
     },
     "263": {
         "「ちょっと！　かばんが　いっぱいじゃないの。|　しょうがないわね。あたしが　持っててあげる！": "Hey! Your bag is full. I'm sorry. I'll hold|it for you!"
