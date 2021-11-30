@@ -1,0 +1,731 @@
+{
+    "1": {
+        "「おお　我がドルワームの恩人　<pc>よ！|　待っておったぞ。ささ　こちらに。": "Oh, my Dorworm benefactor<pc> Hey! Wait for me... Hey, hey..."
+    },
+    "2": {
+        "「ヴェリナード王国での　そなたの活躍は|　こちらにも　届いておる。|　見事な　はたらきだったそうじゃな。": "Your work in the kingdom of Verrinard has|reached our ears... I've heard it was quite|an experience..."
+    },
+    "3": {
+        "「ヴェリナードに現れた　王族を狙う不審な男が |　ドルワームに　潜伏していることも聞いた。|　王子であるラミザは　騎士団が守っているが……": "A suspicious man has appeared in Verrinard,|intent on the royal family... and hiding out|in Dorworm. The prince, Ramiza, is protected|<br>|by the Order..."
+    },
+    "4": {
+        "「そなたには　もうひとりの王家の血を引く者……|　チリの護衛を　お願いしたいのじゃ。|　どうじゃ？　引き受けてくれるか？<yesno><close>": "You have another royal blood on your hands. I|need you to protect Chili. What do you say?|Will you do it?<yesno><close>"
+    },
+    "5": {
+        "「そんなこと　言うなんてつれないのね。|　私からもお願い！　ねっ　<pc>！？": "I can't believe you'd say that. Do me a|favor. Okay.<pc> What?"
+    },
+    "6": {
+        "「……どうじゃ？|　チリの護衛　引き受けてくれんか？<yesno><close>": "... What do you say? Would you be willing to|escort me to Chili's?<yesno><close>"
+    },
+    "7": {
+        "「うむ。礼を言うぞ　<pc>。|　くれぐれも　よろしく頼む。": "Mm. You're welcome.<pc> (speaking spanish) I'd appreciate it if|you..."
+    },
+    "8": {
+        "「ありがとう　<pc>。|　迷惑かけちゃうけど……|　しばらくの間　どうか　よろしくね。": "Thank you<pc> I'm sorry. I know I'm going to cause you|trouble... I know it's going to be a while,|but please..."
+    },
+    "9": {
+        "「ときに　ドゥラよ。|　護衛を厳重にする以外の対策は|　何か　みつかったのか？": "Sometimes... Did you find anything other than|a tighter security detail?"
+    },
+    "10": {
+        "「その件なのですが……。": "About that..."
+    },
+    "11": {
+        "「なんじゃ？|　お前にしては　珍しく弱気な顔ではないか。|　申してみよ。": "What is it? You look unusually weak for a man|of your stature... I..."
+    },
+    "12": {
+        "「……我が研究院で　探知機を作成しました。|　探知機と対になった発信機を　身につけることで|　その人物の動向を　追うことができるものです。": "... I've been working on a detector at my|institute... By wearing a transmitter paired|with the detector, we can track a person's|<br>|movements..."
+    },
+    "13": {
+        "「これで　万が一　ラミザ王子らの身に|　何かあっても　行方を追跡することができます。": "This way, if anything should happen to Prince|Ramiza or the others, we can track them|down..."
+    },
+    "14": {
+        "「すごいや！　さすが　ドゥラくんだ！|　うんうん。護衛と探知機……|　これで　バッチリだね！": "Oh, my God! That's Mr. Dura! Uh... Guards,|detectors... We're good to go!"
+    },
+    "15": {
+        "「……探知機は　完成したのです。 |　しかし　肝心の発信機の出力が弱く|　近距離までしか　追跡することができません。": "... I've completed the detector... But the|transmitter's output is so weak, we can only|track it for a short distance..."
+    },
+    "16": {
+        "「遠方まで　追跡可能にするためには|　ガテリア式真空管という　古代ガテリアに伝わる|　特殊な部品が　必要なのですが……": "To make it traceable to the far side| It's called a Gaterian vacuum tube, from ancient Gateria| I'm afraid I need a special part"
+    },
+    "17": {
+        "「現代では　入手が極めて困難なのです。|　このままでは　せっかくの探知機も|　充分な効果を　見込めないでしょう……。": "They're extremely difficult to come by in|this day and age. If we don't do something|about it, we'll never be able to get a good|<br>|enough detector."
+    },
+    "18": {
+        "「そ　そんな……！|　名案だと思ったのに……。": "Oh, no. I thought it was a good idea."
+    },
+    "19": {
+        "「ガテリア式真空管……|　……知ってる。それなら　前に|　お父さんのガラクタの中で　見たことがあるわ。": "Gateria vacuum tube... ... I know... I've|seen those before in your father's junk..."
+    },
+    "20": {
+        "「それは本当ですか　チリ王女！？": "Is it true, Princess Chili!"
+    },
+    "21": {
+        "「ドゥラ院長。|　王女はやめてと　何度も言ったでしょう？": "Do... How many times have I told you to stop|being a princess?"
+    },
+    "22": {
+        "「何度言われても　チリ様は王女。|　それは　変わりありません。": "No matter how many times you say it, Mr.|Chili... It's the same..."
+    },
+    "23": {
+        "「……そんなことより|　ガテリア式真空管の持ち主というのは|　チリ王女を　育ててくれた方のことですか？": "... I don't understand. The owner of the|Gateria vacuum tube is the man who raised|Princess Chili?"
+    },
+    "24": {
+        "「ええ。父は　岳都ガタラに住んでいます。|　ガラクタが大好きで　いつも|　珍しいものばかり　集めて過ごしているのよ。": "Yes. My father lived in the mountain city of|Gathara... He loved junk. He spent all his|time collecting rare things..."
+    },
+    "25": {
+        "「では　さっそく|　その方の所まで向かう準備を……。": "So, let's get ready to head over there..."
+    },
+    "26": {
+        "「待って！": "Wait!"
+    },
+    "27": {
+        "「あの　お父さんのことだもの。|　自分の宝物を　そう簡単に渡すわけない。|　だから……　私も行くわ！": "You know, about your father... I'd give away|my treasure so easily... So... I'm coming|with you!"
+    },
+    "28": {
+        "「いいですよね　国王様？|　父は　なんというか……　たいへんな変わり者で|　きっと　説得は　私にしかできません！": "Isn't that nice, Your Majesty? My father is,|uh... I'm sure I'm the only one who can|convince him!"
+    },
+    "29": {
+        "「ご自分の立場を　わかっているのですか！？|　道中　何者かに狙われでもしたら……": "Do you realize the position you're in? If|someone tries to kill you on the road..."
+    },
+    "30": {
+        "「そのための　<pc>の護衛なんでしょう？ |　ドルワームの英雄　<pc>に|　ガタラまで同行してもらえば　大丈夫よ！": "For that<pc>  You're an escort for the Hero of Dorworm.<pc> You'll be fine!"
+    },
+    "31": {
+        "「……やむを得んだろう。|　ただし！　現状で目立つのは　避けたい。|　この任務は　少人数での隠密行動とする。": "... I have no choice... However! I don't want|to draw attention to myself. This mission is|a covert operation with a small group..."
+    },
+    "32": {
+        "「チリの養父のもとへ向かうのは|　チリとドゥラ　そして<pc>のみじゃ。|　それで　よいな？": "I'm on my way to my adoptive father in Chile| Chili and Dura and<pc> It's... Is that okay?"
+    },
+    "33": {
+        "「ありがとうございます　国王様。|　必ず　ガテリア式真空管を持ちかえってきます。": "Thank you very much. I'll be sure to bring|back some Gatelier vacuum tubes..."
+    },
+    "34": {
+        "「うう……　こんな時にボクだけ|　何もできないなんて　申し訳ないけど……。|　皆　くれぐれも　道中気をつけてね。": "Ugh... I'm sorry I'm the only one who can do|anything at a time like this, but... Everyone|be careful on the road..."
+    },
+    "35": {
+        "「それじゃ　よろしくね　<pc>！|　<pc>が　先導してくれたら|　私たちも　後を追いかけていくわ。": "I'll see you around<pc>  No!<pc> If you lead the way, we'll follow, and..."
+    },
+    "36": {
+        "「３人で　お父さんのいる　岳都ガタラへ|　向かいましょう！": "The three of us will head for the mountain|city of Gathara, where your father is!"
+    },
+    "37": {
+        "「あっ！　元ポツコン２号さんじゃないですか！|　それに　チリさんまで！！|　おひさしぶりです　チリさん……<heart>": "Oh! It's the ex-POTUS 2! And you're Chili!|Long time no see, Mr. Chili...<heart>"
+    },
+    "38": {
+        "「ひさしぶりだね　ポツコン。|　お父さんはいる？": "Long time no see, Po... Is your father here?"
+    },
+    "39": {
+        "「はいっ！　あちらに。": "Yes! Uh..."
+    },
+    "40": {
+        "「ダストンさま　ダストンさま～！|　チリさんが　いらしてますよ。": "Mr. Duston! Mr. Duston! Mr. Chili is here..."
+    },
+    "41": {
+        "「……チリ！？": "... Chili!"
+    },
+    "42": {
+        "「むきゃーー！！　もきぃーーー！！|　アンタってヤツは　まったく|　あぎゃぎゃっな娘ですねッ！": "Mukyah! Mooky! You're such a rascal, aren't|you!"
+    },
+    "43": {
+        "「ああ　ごめん　ごめん。|　しばらく　顔も出さずにいて。": "Oh, I'm sorry. I... I haven't seen you in a|while."
+    },
+    "44": {
+        "「むきゃっ？": "What the hell?"
+    },
+    "45": {
+        "「え？　今　なんて言いました……？|　チリ……　王女……？": "What? What did you just say...? Chili...|Princess...?"
+    },
+    "46": {
+        "「えええええええっ！？ |　まさか　チリさんの本当の親って……|　ドルワームの王様だったんですかぁ！？": "Yeah, yeah, yeah, yeah! No way, Chili's real|parent... Was he the king of the dorworms?"
+    },
+    "47": {
+        "「へー　アンタ　王女だったんですか。|　王女なのに　捨てられちまうなんて|　よっぽどの役立たずだったんですねえ。": "So you were a princess... Even though you|were a princess, to be thrown away... you|must have been really useless..."
+    },
+    "48": {
+        "「チリさんと一緒にいる　身なりのキレイな|　いかにも優秀そうな男……。|　ま…まさか　チリさんは　恋人を紹介に……！？": "The well-dressed, good-looking guy with Mr.|Chili... Well... No, no, no, no. Mr. Chili|came to introduce his girlfriend."
+    },
+    "49": {
+        "「はじめまして。ドルワーム王立研究院で |　院長をつとめている　ドゥラと申します。|　今日は　ダストン氏に用があって参りました。": "My name is... I'm Dr. Dulla, Director of the|Dorwaam Royal Academy... I'm here today on an|errand for Mr. Daston..."
+    },
+    "50": {
+        "「あぎゃばっ！　い…院長……？|　わしは　そんな優秀そうなヤツは苦手ですよッ！": "Oh, my God! Director...? Director...? I don't|like people who look that good!"
+    },
+    "51": {
+        "「ごめんなさい。父に　悪気はないんです。|　どうか　気を悪くしないでください。": "I'm sorry... I didn't mean to offend my|father. Please don't take this the wrong|way..."
+    },
+    "52": {
+        "「あのね　お父さん。今　アストルティア中の |　王族が狙われるという事件が　発生してるの。|　相手の正体や目的は　わからないんだけど……": "You know... There's been an attack on the|royal families of all of Astridia. We don't|know who they are or what they're after,|<br>|but..."
+    },
+    "53": {
+        "「ドゥラ院長は　私やラミザ王子がさらわれても|　すぐに　居場所がわかっちゃう|　すごい発信機を　作ってくれてるんだ。": "Abbot Dura has created an incredible|transmitter that will allow us to locate me|and Prince Ramiza if we are taken..."
+    },
+    "54": {
+        "「ただ……そのためには　ガテリア式真空管という|　古代の部品が必要なんです。あなたが　それを|　お持ちだと聞いて　協力いただけないかと。": "It's just... But to do that, I need an|ancient piece of equipment called a Gatelier|vacuum tube. I was told you had it, so I|<br>|thought I'd help."
+    },
+    "55": {
+        "「ガテリア式真空管……？|　そんなもの　知らねえですよッ？": "A Gateria vacuum tube...? I don't know|anything about that."
+    },
+    "56": {
+        "「ああ　ほら！　ダストンさま……！|　前に　ここを訪れた考古学者が|　すごく貴重だって　言ってた……": "Oh, look! Mr. Duston. The archaeologist who|visited here once said it was very valuable."
+    },
+    "57": {
+        "「ああ！　そんなもの　もう　とっくに|　カルデア洞穴の　ふかーい所に|　捨てちまいましたよッ！": "Ah! I've already thrown that thing away in|the deepest part of the Chaldean cave!"
+    },
+    "58": {
+        "「な…なんだって……！？|　あんな貴重なものを……。": "What the... What the...? Something so|valuable..."
+    },
+    "59": {
+        "「大丈夫！　あきらめるには　まだ早いわ！|　私に　考えがあるの。": "It's okay! It's too early to give up! I have|an idea..."
+    },
+    "60": {
+        "「ねえ　お父さん。|　それを　捨てた場所まで行って|　もう一度　ここに持ってきてくれないかな？": "Hey, uh... I was wondering if you could go|back to where you dumped it and bring it back|here again."
+    },
+    "61": {
+        "「な…なんで　わしが！ |　そんなことするわけねえですよッ！|　あんな貴重な物　もう見たくねえんですから！": "What... Why would I do that! There's no way|I'd do that! I don't want to see that|valuable stuff anymore!"
+    },
+    "62": {
+        "「じつは　私ね。お父さんが喜びそうなガラクタを|　たくさん集めて　ドルワームに保管してるの。|　やってくれるなら　それを好きなだけあげるわ！": "The thing is... I'm gonna collect a bunch of|junk that your dad would love and store it in|the dollar worm... I'll give you as much of|<br>|it as you want, if you'll just do it!"
+    },
+    "63": {
+        "「ぐぬぬぬぬぬ……。": "No, no, no, no..."
+    },
+    "64": {
+        "「決まり……　ねっ！": "Deal... Hey!"
+    },
+    "65": {
+        "「しょ　しょうがねえですねッ！|　言っておきますが　ガラクタのためであって|　アンタのためじゃねえんですからねッ！": "I can't help it! Just so you know, I'm only|doing this for the junk, not for you!"
+    },
+    "66": {
+        "「うんうん　わかってる。|　ありがとう　お父さん！": "Yeah, yeah, I understand... Thanks, Dad!"
+    },
+    "67": {
+        "「そうと決まれば　ひとっ走り行ってくるですよ！|　ここで　待ってやがるがいいですッ！": "If that's the case, I'll be off in a hurry!|Stay here and wait for me, you bastard!"
+    },
+    "68": {
+        "「とは言え……。あの　お父さんが寄り道せず |　ちゃんと目的を果たせるか　心配だね。|　私が　追いかけていきたいところだけど……": "That said... I don't know if he'll be able to|get where he needs to go. I'd like to go|after him, but..."
+    },
+    "69": {
+        "「ねえ　<pc>。|　私の代わりに　お父さんの後をついていって|　様子を　見てきてくれないかな？": "hey<pc> (sighs) Why don't you follow your father|around and check on him for me?"
+    },
+    "70": {
+        "「チリ王女は　私が責任をもって守ります。|　我々は　ここで待っていますので|　そちらは　お願いしますね　<pc>さん。": "Princess Chili is my responsibility... We'll|be waiting here for you. You take care of|her.<pc> San."
+    },
+    "71": {
+        "「お父さんが向かった　カルデア洞穴へは |　ガタラを出て　北東に進むと　たどり着けるよ。|　頼んだからね　<pc>！": "To get to the Chaldean Caves, where your|father was headed, leave Gatara and head|northeast... You asked for it.<pc> ！"
+    },
+    "72": {
+        "「ああっ　元ポツコン２号さん。|　ダストンさまなら　カルデア洞穴へ|　向かわれましたよ。": "Oh, ex-Pottscomb 2... Lord Daston is on his|way to the Chaldean Caves..."
+    },
+    "73": {
+        "「高性能発信機を　完成させるためには|　ダストン氏に　ガテリア式真空管を|　持ちかえっていただかねば　なりません。": "In order to complete the high performance|transmitter, Mr. Daston will have to bring|back the Gateria vacuum tube..."
+    },
+    "74": {
+        "「とは言え……あの　お父さんが寄り道せず |　ちゃんと　目的を果たせるか心配ね。|　私が　追いかけていきたいところだけど……。": "That said... I don't know if your father will|be able to accomplish his goal without taking|a detour. I'd like to go after him, but..."
+    },
+    "75": {
+        "「ねえ　<pc>。|　私の代わりに　お父さんの後をついていって|　様子を　見てきてくれないかな？": "hey<pc> (sighs) Why don't you follow your father|around and check on him for me?"
+    },
+    "76": {
+        "「お父さんが向かった　カルデア洞穴へは |　ガタラを出て　北東に進むと　たどり着けるよ。|　きっと　いちばん奥辺りにいるんじゃないかな？": "To get to the Chaldean Caves, where your|father was headed, you need to leave Gatara|and head northeast. I think he's at the far|<br>|end."
+    },
+    "77": {
+        "「チリ王女は　私が責任をもって守ります。|　我々は　ここで待っていますので|　そちらは　お願いしますね　<pc>さん。": "Princess Chili is my responsibility... We'll|be waiting here for you. You take care of|her.<pc> San."
+    },
+    "78": {
+        "「どうやら　お父さんも　あなたのことは|　気に入ってるみたいだしね。|　頼んだよ　<pc>！": "Apparently, your father likes you, too. I'll|take care of it.<pc> ！"
+    },
+    "79": {
+        "「たしか　この辺りから|　ブン投げたんでしたっけ？": "Didn't you say you threw it from around here?"
+    },
+    "80": {
+        "「おお　みつけたですよッ！|　あんなところに　引っかかってるなんて|　なかなかの　わからずやでごぜえますなッ。": "Oh, I found it! I can't believe it's stuck in|a place like that... He's quite the idiot..."
+    },
+    "81": {
+        "「おや　アンタも来たんですか？|　こんな場所にまで　わざわざ来るなんて|　よっぽどの　ヒマ人でいやがったんですねえ。": "Oh, you're here too? You must be a very busy|person to come all the way out here..."
+    },
+    "82": {
+        "「まあ　そんなことはいいです。|　せっかく　アンタも来たなら……": "Well, that's not... Well, since you're|here..."
+    },
+    "83": {
+        "「わしが　今から　あぎゃぎゃってするので|　アンタは　そこに　ただボーッと|　つっ立ってるが　いいですッ！": "I'm about to go on a rampage, so you can just|stand there in a daze!"
+    },
+    "84": {
+        "「よっこらせっと。": "Yo, man..."
+    },
+    "85": {
+        "「こ…こんな役に立つもの |　わしは　持ちたくねえんですッ！|　これは　アンタに　預けますよッ！": "This... I don't want to keep something useful|like this! I'll leave this to you!"
+    },
+    "86": {
+        "<pc>は|ガテリア式真空管（だいじなもの）を|手に入れた！<me 60>": "<pc> I've got a Gateria vacuum tube!<me 60>"
+    },
+    "87": {
+        "「ぐぎゃぎゃぎゃッ！|　これで　ドルワームのガラクタは|　ぜーんぶ　わしのものですッ！": "Squeak, squeak, squeak! Now all of Dor-Worm's|junk is mine!"
+    },
+    "88": {
+        "「そうと決まれば　こんな場所とは |　一刻も早く　オサラバですよッ！": "Once that's decided, we'll be out of this|place as soon as possible!"
+    },
+    "89": {
+        "「おかえりなさい！|　ダストンさま　元ポツコン２号さん。": "Welcome home! Mr. Daston, ex-Pottscomb 2..."
+    },
+    "90": {
+        "「ガテリア式真空管　持ちかえってくれたんだね。|　ありがとう！！": "Gateria vacuum tube. You brought it back...|Thank you!"
+    },
+    "91": {
+        "「ガラクタをくれるって約束…… |　忘れてねえでしょうね？": "You promised to give me your junk... You|didn't forget, did you?"
+    },
+    "92": {
+        "「うんうん　だいじょーぶだよっ！|　抱えきれないほどの　ガラクタをあげるから|　楽しみにしてて！": "Yeah, yeah, yeah. It's all right! I'll give|you more junk than you can hold, so look|forward to it!"
+    },
+    "93": {
+        "「せっかく　材料もそろったのですし|　ここで　発信機を完成させましょう。|　ガテリア式真空管を　こちらに。": "Now that we have all the materials, let's|finish the transmitter... A Gateria vacuum|tube..."
+    },
+    "94": {
+        "<pc>は　ドゥラ院長に|ガテリア式真空管を　渡した！": "<pc> has given Director Dura the Gatelier vacuum|tube!"
+    },
+    "95": {
+        "「すぐに　作業を開始できるよう|　準備をしておいたんです。|　完成まで　少々　お待ちください。": "I've made arrangements for you to begin work|immediately. It'll just take a moment to|complete..."
+    },
+    "96": {
+        "ドゥラ院長は　ガテリア式真空管を使って|あっという間に　高性能発信機を　完成させた！": "Director Dura used a Gatelier vacuum tube to|create a high-powered transmitter in a matter|of seconds!"
+    },
+    "97": {
+        "「これが　発信機……？|　……きれい。": "Is this the transmitter? ......"
+    },
+    "98": {
+        "「感度は　良好。動作も問題ありません。 |　成功です！　|　これを　国王とラミザ王子にも届けねば！": "Sensitivity is... It's working fine... It|worked! We must get this to the King and|Prince Ramiza!"
+    },
+    "99": {
+        "「我々は　ドルワームに戻ります。|　お世話になりました。|　こちらには　後日　必ず謝礼を届けさせます。": "We're going back to Dorworm... Thank you for|your hospitality. I'll be sure to send you a|gratuity later..."
+    },
+    "100": {
+        "「……届ける？　何言ってやがるんですか？ |　わしも　ドルワームへ行きますよッ！": "... Deliver? What are you talking about? I'm|going to Dorworm too!"
+    },
+    "101": {
+        "「えっ……？ |　お父さん　本気で言ってるの……？": "What...? Dad, are you really saying...?"
+    },
+    "102": {
+        "「本気に決まってますよッ！　チリやアンタらの|　見つくろいなんて　信用できねえってんです！|　ガラクタは　自分の目で選びますからねッ。": "Of course I'm serious! I don't trust what I|see in Chili and you! I'll take my chances|with that junk."
+    },
+    "103": {
+        "「ポツコン！　わしが留守の間に　ガラクタが|　盗まれたりしないよう　しっかりと|　戸じまりしておくようにッ！　いいですね？": "Potsukong! Make sure the door's locked so no|one steals my junk while I'm gone! Do you|understand?"
+    },
+    "104": {
+        "「は…はい～。|　わかりました　ダストンさま！|　気をつけて　いってらっしゃいませ。": "is ...... Yes, Mr. Daston! Have a safe|journey..."
+    },
+    "105": {
+        "「……どうするんです　チリ王女？ |　本当に　ダストン氏も|　連れていくおつもりですか？": "... What are you going to do, Princess Chili?|Are you sure you want to take Mr. Daston with|you?"
+    },
+    "106": {
+        "「うーん。こうなった　お父さんを|　説得するのは　骨が折れそうだし……。|　まあ　しょうがないかな。": "... It's going to be hard to convince your|father... I don't know..."
+    },
+    "107": {
+        "「わかりました。では　ドルワームへは|　列車で　戻ることにしましょう。|　じつは　特別便を手配しておきました。": "Okay, so... Now, I'm going to take the train|back to Dorworm... Actually, I've arranged a|special flight for you..."
+    },
+    "108": {
+        "「<pc>さん。準備ができたら|　ガタラの駅へ　向かってくれませんか？|　そこに　特別便案内係のビノービがいます。": "<pc> Three. When you're ready, I'd like you to|make your way to the train station in Gara.|That's where Binobi, the special flight|<br>|attendant..."
+    },
+    "109": {
+        "「我々も　すぐに後を追いますので|　ビノービのもとで　合流しましょう。": "We'll be right behind you. We'll meet up with|Binobi..."
+    },
+    "110": {
+        "「ドゥラ院長が作ってくれた　高性能発信機を|　国王様とラミザ王子にも　届けるために|　ドルワームに　戻りたいんだけど……": "Director Dura made me a high-powered transmitter| And to bring it to the King and Prince Ramiza| I'd like to go back to Dollar Worm, but"
+    },
+    "111": {
+        "「ガラクタを　もらい受けるために |　わしは　ドルワームへ出発するんですッ。|　絶対　一緒に行ってやがりますからねッ！": "I'm going to the Dallworm to get my junk. I'm|coming with you, I swear!"
+    },
+    "112": {
+        "「……というわけなので　お父さんも一緒に|　ドルワームに　連れていくことにするね。": "... So, I decided to take your father to the|Dollar Worm..."
+    },
+    "113": {
+        "「わかりました。では　ドルワームへは|　列車で　戻ることにしましょう。|　じつは　特別便を手配しておきました。": "Okay, so... Now, I'm going to take the train|back to Dorworm... Actually, I've arranged a|special flight..."
+    },
+    "114": {
+        "「<pc>さん。準備ができたら|　ガタラの駅へ　向かってくれませんか？|　そこに　特別便案内係のビノービがいます。": "<pc> Three. When you're ready, I'd like you to|make your way to the train station in Gara.|That's where Binobi, the special flight|<br>|attendant..."
+    },
+    "115": {
+        "「我々も　すぐに後を追いますので|　ビノービのもとで　合流しましょう。": "We'll be right behind you. We'll meet up with|Binobi..."
+    },
+    "116": {
+        "「あっ　<pc>！|　よかった。戻ってきてくれたんだね。": "oh!<pc> Hey. Hey... You're back."
+    },
+    "117": {
+        "「ドゥラ院長が作ってくれた　高性能発信機を|　国王様とラミザ王子にも　届けるために|　ドルワームに　戻りたいんだけど……": "Director Dura made me a high-powered transmitter| And to bring it to the King and Prince Ramiza| I'd like to go back to Dollar Worm, but"
+    },
+    "118": {
+        "「あーんなヤツに　やられちまうなんて|　<pc>　アンタは|　リッパな　ポンコツですよ！": "I can't believe I got beat up by a guy like that|<pc> You're a ripped piece of shit!"
+    },
+    "119": {
+        "「とは言え　わしは　ガラクタをもらいに行くのを|　あきらめたわけじゃねえですよ。|　絶対　一緒に行ってやがりますからねッ！": "But that doesn't mean I've given up on going|to get that junk... I'll definitely go with|you!"
+    },
+    "120": {
+        "「……と言ってるので　お父さんも一緒に|　ドルワームに　連れていくことにするね。": "... So I'm going to take your father with me|to the Dollar Worm..."
+    },
+    "121": {
+        "「わかりました。では　ドルワームへは|　列車で　戻ることにしましょう。|　同じように　特別便を手配しておきました。": "Okay, so... Then we'll take the train back to|Dorworm... I've arranged a special flight for|you as well..."
+    },
+    "122": {
+        "「また　列車を使って大丈夫かな。|　もし　また襲われたりしたらって考えると|　別ルートでの移動を　考えるべきなんじゃ……？": "We could take the train again. If we're going|to be attacked again, maybe we should think|about taking a different route."
+    },
+    "123": {
+        "「いや　大丈夫でしょう。敵も|　我々が同じルートを使うとは　思いますまい。|　このまま　列車を使うべきです。": "No, no, no. It's okay. I don't think they'll|take the same route we did. We should keep|using the train..."
+    },
+    "124": {
+        "「わかったわ！|　それじゃ　ドルワームへは|　ドゥラ院長が　手配してくれた列車で行こう。": "All right, all right! Well, I'll be taking|the train to Dorworm that Abbot Dura arranged|for me..."
+    },
+    "125": {
+        "「<pc>さん。準備ができたら|　ガタラの駅へ　向かってくれませんか？|　そこに　特別便案内係のビノービがいます。": "<pc> Three. When you're ready, I'd like you to|make your way to the train station in Gara.|That's where Binobi, the special flight|<br>|attendant..."
+    },
+    "126": {
+        "「我々も　すぐに後を追いますので|　ビノービのもとで　合流しましょう。": "We'll be right behind you. We'll meet up with|Binobi..."
+    },
+    "127": {
+        "「こちらが　特別便の列車です。|　どうぞ　中へ　お入りください！": "This is the special delivery line... Please,|come inside. Please, come inside."
+    },
+    "128": {
+        "「<cs_pchero>さん　すみません。|　少々　お待たせしてしまいましたね。": "<cs_pchero>Excuse me... I'm sorry to keep you waiting|for so long..."
+    },
+    "129": {
+        "「さあ　私たちも　乗り込みましょう。": "Come on, we're getting in..."
+    },
+    "130": {
+        "「ムキーッ　モキーッ！|　まだ　ドルワームには着かねえんですかッ？": "Mookie, mookie! Still haven't landed on|Dollar Worm, have you?"
+    },
+    "131": {
+        "「……お父さんってば|　そんな　あせらなくたって|　ガラクタは　逃げたりしないよ。": "I... Dad, you don't have to be so hasty. The|junk won't escape."
+    },
+    "132": {
+        "「これから　ドルワームのガラクタを|　もらい受けることを考えると　ワクワクして|　だまってなんか　いられねえですよッ！": "I'm so excited at the thought of getting|Dorworm's junk that I can't keep my mouth|shut!"
+    },
+    "133": {
+        "「ふふっ。 |　お父さんってば……。": "... Your father..."
+    },
+    "134": {
+        "「何者だっ！？": "Who the hell are you?"
+    },
+    "135": {
+        "「貴様っ！　|　さては　アストルティア中の王族を狙うという|　不届き者だなっ！？": "You! You're the one who's after all the|royalty in Astridia!"
+    },
+    "136": {
+        "「……どうやら　この中にいるのは|　間違いないようだな。": "... I'm pretty sure it's one of these..."
+    },
+    "137": {
+        "「……くっ。私は　王女を守りますので|　<cs_pchero>さんは　ヤツの相手を|　お願いします！！": "..... I'll protect the princess.<cs_pchero>You're gonna have to deal with him!"
+    },
+    "138": {
+        "「ん……？|　お前は　たしか……|　ヴェリナードでも……？": "Hmm...? Are you... You're a Verrinard?"
+    },
+    "139": {
+        "「まあ　いい……。|　任務遂行のジャマをする者は　排除するのみ。": "All right, well... We'll take out anyone who|gets in the way of our mission."
+    },
+    "140": {
+        "「ムキーッ　モキーッ！|　まだ　ドルワームに着いてねえなんて|　信じられねえですッ！": "Mookie, mookie! I can't believe we haven't|reached Dorworm yet!"
+    },
+    "141": {
+        "「うん……。今度こそ　無事に|　ドルワームまで　戻れるといいんだけど……。": "Well... I just hope we can make it back to|Dorworm in one piece this time."
+    },
+    "142": {
+        "「なんだってっ！？": "What the hell?"
+    },
+    "143": {
+        "「またも　この列車を狙ってくるなんてっ！|　次も　同じルートで来ると予測したのか！？": "I can't believe they're coming for this train|again! Did they expect us to take the same|route next time?"
+    },
+    "144": {
+        "「……やはり　この中にいるのは|　間違いないようだな。": "... I'm pretty sure he's in here..."
+    },
+    "145": {
+        "「……くっ。私は　王女を守りますので|　<cs_pchero>さんは　ヤツの相手を|　お願いします！！": "..... I'll protect the princess.<cs_pchero>You're gonna have to deal with him!"
+    },
+    "146": {
+        "「任務遂行のジャマをする者は |　何者であれ　排除するのみ。": "We will eliminate anyone and everyone who|interferes with our mission..."
+    },
+    "147": {
+        "「チッ。 |　だが……　狙いさえ果たせれば……。": "Tsk. But... If I can just get my aim..."
+    },
+    "148": {
+        "「この男ではなかったか……。|　ならば……！": "It's not him. Then..."
+    },
+    "149": {
+        "「……お前か。|　一緒に来てもらおう。": "...... You can come with me..."
+    },
+    "150": {
+        "「な…なにするですかッ！？": "What are you... What are you doing?"
+    },
+    "151": {
+        "「ジャマだ！": "Get out of my way!"
+    },
+    "152": {
+        "「ううっ……。": "Ugh..."
+    },
+    "153": {
+        "「ま…待てっ……！": "Wait... Wait!"
+    },
+    "154": {
+        "「……くっ。間もなく　ドルワームです。|　駅で列車を降りたら　すぐ|　発信機の場所を　確認しましょう。": "..... We're almost at Dolwar... As soon as we|get off the train at the station, we'll|locate the transmitter..."
+    },
+    "155": {
+        "「あいつ……！|　ムキーッ　ムカーッ　ですよッ！！": "He...! He's pissed off. He's pissed off!"
+    },
+    "156": {
+        "「ここは　ダラズ採掘場のダラリア砂岩遺跡です。|　この場所は　最近になって調査が進み|　中に　入れるようになったそうですが……": "This is the Dalarrian sandstone remains of|the Dalaz mining site... This place has|recently been surveyed and is now open to the|<br>|public, but..."
+    },
+    "157": {
+        "「なるほど。確かに　ここなら　ひと気もない。|　身を隠すには　うってつけというわけか。": "I don't know. It's a good place to hide...|It's the perfect place to hide..."
+    },
+    "158": {
+        "「……を　モキィーして　ムキャーするなんてッ！ |　許せねえですッ！|　わしは　ダラリア砂岩遺跡に行ってくるですッ！": "... I can't believe you're so squeamish! It's|unforgivable! I'm going to the Dahlia|Sandstone Ruins!"
+    },
+    "159": {
+        "「我々も　チリ王女を救うため|　ダラリア砂岩遺跡に向かいましょう。": "We're also headed to the Dalarian Sandstone|Ruins to rescue Princess Chili..."
+    },
+    "160": {
+        "「私は　兵を率いて　追いかけます。|　<cs_pchero>さんは　ダストン氏の後を追って|　先に　向かっていてくれませんか？": "I'll lead the troops after him...<cs_pchero>Would you please follow Mr. Daston and head|on ahead?"
+    },
+    "161": {
+        "「ダラリア砂岩遺跡は　カルデア山道から|　ダラズ採掘場に入ると　その西部にあります。|　頼みましたよ　<cs_pchero>さん！": "The Dahlia Sandstone Ruins are located west|of the Chaldean Mountain Road into the Dara's|Mining Complex... I asked for it.<cs_pchero>Three!"
+    },
+    "162": {
+        "「<pc>さん。お待ちしておりましたよ。|　さあ　どうぞ　こちらへ。|　ウラード国王からの　お言葉があるそうです。": "<pc> Mr. and Mrs. We'll be waiting for you...|Please, come... King Wlad has a few words for|you..."
+    },
+    "163": {
+        "「我がドルワームの恩人　<pc>よ。|　チリを救ってくれたこと　心から礼を言う。|　そなたには　何度　感謝しても足りぬようじゃ。": "My dollar worm benefactor<pc> Hey, man. Thank you so much for saving Chili.|I can't thank you enough for what you've|done."
+    },
+    "164": {
+        "「本当に　ありがとう　<pc>！|　また　助けられちゃったね。": "Thank you so much<pc> Oh, my God. He saved me again."
+    },
+    "165": {
+        "「賊が　狙っていた人物は　チリではなく|　チリの養父ダストン氏であったことも　聞いた。|　話を聞いた時は　おどろいたが……": "We also learned that the bandits were not|after Chili, but his adoptive father, Mr.|Duston. I was shocked when I heard that."
+    },
+    "166": {
+        "「ダストン氏には　厳重な警護をつけておる。|　ご本人には　不満もあるようだが…… |　後ほど　面会していってくれ。": "Mr. Daston has been placed under heavy guard.|I'm sure he's not happy about it, but... I'll|see him later..."
+    },
+    "167": {
+        "「お父さんは　自分が　重要人物扱いされることに|　ショックを受けてるみたいだけど……|　無事だから　心配しないでね。": "Your father seems shocked that he's being|treated like such an important person, but...|Don't worry, he's fine."
+    },
+    "168": {
+        "「それから……|　ドゥラが考案した　高性能発信機で|　その後の敵の足取りも　つかめたようじゃ。": "And then... I was able to track down the|enemy after that... with the help of a|sophisticated transmitter that Dura invented."
+    },
+    "169": {
+        "「ウラード国王。|　それは　私から　お話ししましょう。": "Oh, my God. I'll tell you what..."
+    },
+    "170": {
+        "「チリ王女が　誘拐犯に投げつけた発信機は|　現在　エルトナ大陸の|　世界樹の丘にあることを　確認しました。": ""
+    },
+    "171": {
+        "「発信機の動向を見る限り　すぐに|　ドルワームに戻ってくることは　なさそうです。|　ひとまず　大丈夫でしょう。とは言え……": "Judging by the transmitter's behavior, it|doesn't look like it's coming back to Dorworm|anytime soon. I think we're safe for now. But|<br>|still..."
+    },
+    "172": {
+        "「ヤツが危険なことに　変わりありません。|　誘拐犯の狙いは　王族では　ないようですが|　諸王国に　この件を知らせておきます。": "That doesn't change the fact that he's|dangerous... It seems the kidnappers are not|after the royals, but we must inform the|<br>|kingdoms..."
+    },
+    "173": {
+        "「<pc>は　このまま　誘拐犯の後を|　追うんだよね？　誘拐犯をつかまえて|　この事件を　解決するの　応援してるからね！": "<pc> You're going after the kidnapper, aren't you?|I'm rooting for you to catch the kidnapper|and solve this case!"
+    },
+    "174": {
+        "「チリや　ドルワームを救ってくださった|　<pc>さんなら　きっと|　成しとげてくださると信じています！": "You saved Chili and Dorworm|<pc> I'm sure you'll pull it off!"
+    },
+    "175": {
+        "「何か　助けが必要な時は　いつでも|　このドルワームを　頼るがよい。|　そなたのためなら　協力は惜しまん。": "If you ever need help with anything, you can|always count on this dollar worm... I'll do|anything for you..."
+    },
+    "176": {
+        "「それから……　ささやかじゃが|　これは　わが娘を　危機から|　救ってくれたほうびじゃ。受け取るがよい！": "And... It's a small thing, but it's the one|that saved my daughter from danger. Take it!"
+    },
+    "177": {
+        "「一刻も早く　賊がつかまり|　アストルティアの未来に　明るい太陽の光が|　降りそそがんことを！": "May the bandits be caught as soon as|possible, and may the future of Astrutia be|bright with sunshine!"
+    },
+    "178": {
+        "「……反応しない？ |　どういうことだ……？": "... It's not responding? What do you mean...?"
+    },
+    "179": {
+        "「列車の中で　この女に反応していたのは |　間違いないはず……。|　なぜ　急に反応しなくなった……？": "There's no doubt in my mind that he was|reacting to this woman on the train. Why did|she suddenly stop responding?"
+    },
+    "180": {
+        "「誰だっ！？": ""
+    },
+    "181": {
+        "「ぜーっ　ぜーっ……！ |　モキィーして　ムキャーするなんてッ|　許せねえですッ！！": "Whoa, whoa, whoa...! It's unacceptable that|you're squealing and moaning!"
+    },
+    "182": {
+        "「そいつは　とーっても|　役に立たねえ娘なんですッ！|　だから　返してもらいに来たですよッ！！": "He's a very useless girl! That's why I came|to get her back!"
+    },
+    "183": {
+        "「何を　わけのわからぬことを……。": "I don't know what you're talking about."
+    },
+    "184": {
+        "「ん……？ |　なぜ　急に反応しだした……？": "Hmm...? Why did you suddenly start|reacting...?"
+    },
+    "185": {
+        "「まだ　これからだというのに　不調か……。 |　……このクズが！！": "I'm not sure I'm ready for this, but...|You... You piece of shit!"
+    },
+    "186": {
+        "「……クズ！？": "... Scum!"
+    },
+    "187": {
+        "「そのヘビは　ポンコツなんですね。|　ポンコツヘビを　わしにも見せてくだせえ。|　チリと一緒に　連れかえってやりますよッ！": "That snake is a clunker... Let me see that|clumsy snake. I'll bring him back with the|chili!"
+    },
+    "188": {
+        "「や…やめろ……！": "No... Don't...!"
+    },
+    "189": {
+        "「そうか……　そうだったのか。|　……お前こそが　器だったのだな！！": "Well... Well... You... You're the vessel,|aren't you?"
+    },
+    "190": {
+        "「器は　いただいていく！": "I'll take the vessel!"
+    },
+    "191": {
+        "「……一緒に来い。": "... Together..."
+    },
+    "192": {
+        "「ムキィーッ！　モキャーッ！！": "Mookie! MOKY!"
+    },
+    "193": {
+        "「……何度　むらがってこようと|　コバエには　何もできはしない。|　器は　いただいていく！": "... No matter how many times it tries,|there's nothing a fly can do... I'll take the|bowl!"
+    },
+    "194": {
+        "「……ほう。|　黄牛鬼までも　討ちやぶったか……。": "..... Even the Yellow Ox has been defeated..."
+    },
+    "195": {
+        "「<cs_pchero>さん！　お待たせしました！！": "<cs_pchero>Three! Sorry to keep you waiting!"
+    },
+    "196": {
+        "「……チッ　面倒だな。": "... Tsk, tsk, tsk."
+    },
+    "197": {
+        "「チリ王女！！|　おケガは　ありませんかっ！？": "Princess Chili! Are you hurt?"
+    },
+    "198": {
+        "「うん　大丈夫だよ。|　少しの間　気を失ってただけ。": "Yeah, I'm fine... I'll be out for a little|while..."
+    },
+    "199": {
+        "「本当は　途中から目が覚めていたんだけど……|　何か　誘拐犯の情報をつかめないかと思って|　気絶したフリを　続けていたの。": "I was actually awake when it happened, but...|I thought maybe I could get some information|on the kidnapper, so I faked passing out..."
+    },
+    "200": {
+        "「でも　ダメ。|　さすがに　シッポをつかませるような情報は|　得られなかったわ……。": "But... I didn't get anything that would make|me grab my tail..."
+    },
+    "201": {
+        "「それで　とっさに　発信機を投げつけることを |　思いついたんだけど|　なんとか　うまくいって　よかったわ！": "So I got the idea to throw the transmitter at|him, and I'm glad it worked!"
+    },
+    "202": {
+        "「なるほど。急に　チリ王女が|　起き上がった時は　おどろきましたが……|　これで　ヤツの足取りを追うことができます！": "Well... I was surprised when Princess Chili|suddenly got up, but... Now we can retrace|his steps!"
+    },
+    "203": {
+        "「フン！|　わしは　アンタのこと|　そんな優秀に育てた覚えは　ねえですよッ！": "Hmph! I didn't raise you to be that good!"
+    },
+    "204": {
+        "「それに比べて　アンタってヤツは…… |　元ポツコン２号が　ぜーんぶ片付けちまった後に|　のこのこ　兵を率いてやってくるなんて……": "You, on the other hand| After ex-POTUS 2 cleaned everything up| I can't believe you came all the way out here with an army"
+    },
+    "205": {
+        "「どんな優秀なヤツかと　思ってましたが |　アンタも　院長とは名ばかりの|　リッパなポンコツだったんですねえ！": "I thought you'd be some kind of brilliant|guy, but you're nothing but a ripped-off|piece of shit just like the Director!"
+    },
+    "206": {
+        "「なん……！？ |　わ…私が　ポン…コツ……？": "What the...? I... I'll get the... Knock...?"
+    },
+    "207": {
+        "「ま　まあ。それは　ともかく…… |　誘拐犯の　足取りのほかに|　もうひとつ　わかったことがあるわ！": "Well... Anyway... Besides tracing the|kidnapper, I think I know something else!"
+    },
+    "208": {
+        "「それは……　敵の狙いは |　私ではなく　お父さんだったということ。|　誘拐犯は　王族を狙っているわけではない……？": "It was... The kidnappers weren't after me.|They were after your father. The kidnappers|weren't after the royal family."
+    },
+    "209": {
+        "「もう！　ドゥラ院長ったら！|　いつまで　ショックを受けてるの！？|　このことを　国王様に急いで知らせましょう。": "Oh, my God! Director Dura! How long will you|remain in shock? I must inform the king of|this..."
+    },
+    "210": {
+        "「……ハッ！？　そうですね。": "... Huh? So..."
+    },
+    "211": {
+        "「今　この場で　もっとも重要と思われる人物……": "The most important person in the room right now"
+    },
+    "212": {
+        "「……へ？　へ？": "... Huh? Huh?"
+    },
+    "213": {
+        "「ダストン氏を　厳重に保護せよ！": "Mr. Daston is in our custody!"
+    },
+    "214": {
+        "「や…やめてくだせぇ～ッ……！": "No... No, no, no, no, no, no, no, no!"
+    },
+    "215": {
+        "「我々は　いったん　ドルワームに戻ります。 |　<cs_pchero>さんも　来てください。|　国王と共に　今後の検討をしたいと思います。": "We're going back to Dorworm...<cs_pchero>I'd like to thank you for coming. I'd like to|discuss the future with the King..."
+    },
+    "216": {
+        "「それじゃ　<cs_pchero>！ |　ドルワーム水晶宮の玉座の間に　すぐ来てね。": "in which case<cs_pchero>No! In the throne room of the Crystal Palace|of Dorworm, right..."
+    },
+    "217": {
+        "「ムキャーッ！　モキィーッ！！|　今すぐ！　わしを！　ここから出すですッ！！": "Mckay! Mookie! Now! Get me out! I'll get you|out of here!"
+    },
+    "218": {
+        "「ぜーっ　ぜーっ……。": "Jeez..."
+    },
+    "219": {
+        "「いいかげん　あきらめて|　おとなしくしてください。": "I've had enough of this. I've had enough of|you."
+    },
+    "220": {
+        "「敵の目的は　わかりませんが|　今のあなたは　重要人物として狙われる身。|　少しは　自覚を持っていただかないと困ります。": "I don't know what your enemies want, but|you're an important target right now. I'm|gonna need you to be a little more self-|<br>|aware."
+    },
+    "221": {
+        "「ひ…ひいいいい……。|　じゅ　重要とか　言わねえでくだせえッ……！！|　わしは　そんな役立ちそうなものゴメンですッ！": "Hee... No... Please don't tell me it's|important...! I don't want anything that|could be useful!"
+    },
+    "222": {
+        "「はあ…………。 |　何度聞いても　あなたの価値観には　|　おどろきを　禁じえませんよ……。": "Well... No matter how many times I hear it,|your values never cease to amaze me..."
+    },
+    "223": {
+        "「ムキャーッ！　モキィーッ！！": "Mckay! Mookie!"
+    },
+    "224": {
+        "「<pc>　来てくれて　ありがとう。|　さわがしくて　ごめんね？|　お父さんは　ご覧の通りで……。": "<pc> Thank you for coming. I'm sorry to bother|you, okay? Your father, as you can see..."
+    },
+    "225": {
+        "「でも　お父さんが　落ち着くまでは |　しばらく　私も　ここにいるつもりだし|　心配しないで　あなたの目的を追って。": "But I'm going to be here for a while until|your father gets settled, so don't worry|about what you're trying to..."
+    },
+    "226": {
+        "「私が　誘拐犯に投げた発信機は|　エルトナ大陸の世界樹の丘に　あるそうね。|　この事件が早く解決することを　願ってるわ！": "The transmitter I threw at the kidnappers is|located in the World Tree Hills on the|continent of Eltona... I hope this case is|<br>|solved soon!"
+    },
+    "227": {
+        "「ムキャーッ！　モキィーッ！！|　もう！　わしは！　こんな生活イヤなんですッ！": "Mckay! Mookie! Oh, no! I...! I don't want to|live like this!"
+    },
+    "228": {
+        "「ぜーっ　ぜーっ……。": "Jeez..."
+    },
+    "229": {
+        "「あなたも　こりないですね……。|　いいかげんに　してください……。": "You're not well either... I'm sorry..."
+    },
+    "230": {
+        "「多少の不自由があるとは言え |　これだけ　丁重に　もてなされ……|　いったい　なんの不満があると言うのですか？": "Even with a few inconveniences, we've been|treated so graciously... What do you have to|complain about?"
+    },
+    "231": {
+        "「ひ…ひいいいい……。|　て　丁重とか　言わねえでくだせえッ……！！|　わしは　そんな扱いされるのはゴメンですッ！": "Hee... No... Please don't say \"polite\" to|me... I don't want to be treated like that!"
+    },
+    "232": {
+        "「とにかく……　もう二度と　ドルボードを使って |　逃げ出そうとなんて　しないでください。|　いいですねっ！？": "Anyway... Don't you ever try to use a dollar|board to get out of here again... Okay?"
+    },
+    "233": {
+        "「ムキャーッ！　モキィーッ！！": "Mckay! Mookie!"
+    },
+    "234": {
+        "「ああっ　<pc>。来てくれたんだ。|　さわがしくて　ごめんね？|　お父さんは　相変わらずで……。": "oh! (expression of surprise)<pc> (speaking spanish) Come here... I'm sorry to|bother you, okay? Your father is still the|same..."
+    },
+    "235": {
+        "「早く　事件が解決して|　お父さんが　自由になれるといいんだけど……。": "I hope the case is solved soon so your father|can be free..."
+    },
+    "236": {
+        "「<pc>は　今も事件を追ってるんだよね？|　<pc>が　事件を解決して|　この世界に平穏が戻ることを　願ってるわ！": "<pc>  is still following the case, right?<pc> I hope that you, my dear, can solve this case|and bring some peace to this world!"
+    },
+    "237": {
+        "「私としたことが　取り乱すとは　とんだ失礼を。|　では　気を取り直して……　コホン。": "I can't believe I'm the one who's upset.|Let's get back on track. I..."
+    },
+    "238": {
+        "「し…信じられないな。|　この人が　チリ王女の育ての親だと言うのか！？": "I can't... I can't believe... You're telling|me this is the man who raised Princess Chili?"
+    },
+    "239": {
+        "「ぐ…ぷぷぷぷぷ……。": "Geez... P-p-p-p..."
+    },
+    "240": {
+        "「……なんだと！？": "... What the hell?"
+    },
+    "241": {
+        "「これで　貴様には　何もできまい。": "Now you have nothing to..."
+    },
+    "242": {
+        "「また　貴様か。|　わずらわしい　コバエのような奴め！！": "Also ... You annoying, fly-like bastard!"
+    },
+    "243": {
+        "<pc>は　チリたちと共に|ダストンが　警護されているという|ドルワーム王立研究院の院長室に　向かった。": "<pc> is on his way with Chili and the others to|the head of the Dorworm Royal Academy, where|Daston is being guarded..."
+    }
+}

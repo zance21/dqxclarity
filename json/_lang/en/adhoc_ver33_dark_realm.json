@@ -1,0 +1,1838 @@
+{
+    "1": {
+        "「……私のことは　置いていって……|　あなただけ……早く　村へ……。": "... Leave me alone. Just you... Quickly, to|the village..."
+    },
+    "2": {
+        "「ボクは……問題ない……。|　治療が　必要なの……あなただ……。|　くっ……。": "I'm... I'm fine. I'm fine. I just need|therapy. You... Oh, my..."
+    },
+    "3": {
+        "「ごめん…なさい……。|　あなたを　助けるつもり……が……。|　逆に　迷惑を……っ。": "Sorry... Don't be... I was trying to help|you. But... I'm just trying to help you. ...."
+    },
+    "4": {
+        "「……<pc>さん！？|　本当に　<pc>さんなの……？": "<pc>  Three! Really.<pc> Are you...?"
+    },
+    "5": {
+        "「でも　よか…った……。|　<pc>さん。|　この子……安全な村の中へ　おねが……": "But I'm glad... Good...<pc> San. This child... Into the safety of the|village. Please..."
+    },
+    "6": {
+        "「<pc>……？ |　初めて見る顔だ。|　キミも　竜族ではないのか……？": "<pc> I've never...? I've never seen... Aren't you|a dragon?"
+    },
+    "7": {
+        "「……キミのことは　後回しだ。|　この人の知り合いなら　手を貸して。": "I... I'll tell you what... If you know this|guy, you can help..."
+    },
+    "8": {
+        "「うう……っ。": "Uu...."
+    },
+    "9": {
+        "「この近くで　猛毒の胞子を　浴びたんだ。 |　放っておけば　この人は　じきに死ぬ。": "He was exposed to poisonous spores near|here... If left unchecked, this man will soon|be..."
+    },
+    "10": {
+        "「……でも　月の光さえ浴びれば　問題ない。|　手伝って。|　村の中へ　運ぶんだ。": "... But in the light of the moon... A hand...|Into the village..."
+    },
+    "11": {
+        "<pc>は　見知らぬ少年とともに|意識を失ったマイユを　村の中へ　運んだ……。<se_nots map_common 2>": "<pc> carried the unconscious Mayu into the village|with a strange boy...<se_nots map_common 2>"
+    },
+    "12": {
+        "「おい　サジェ！": "Hey, Saje!"
+    },
+    "13": {
+        "「また　黙って　村の外へ行ってたな！？|　兄さんの言うことが　きけないのか。|　さあっ　家へ戻るんだ！": "You went out of the village again without|saying a word! I can't listen to my|brother... Now, go back to your house!"
+    },
+    "14": {
+        "「……ボクと　あなたは　赤の他人だ。|　指図しないでくれ　バジュー。": "... Me and you, we're the red... Don't tell|me what to do. I..."
+    },
+    "15": {
+        "「なんだと！|　人が　心配して　言ってやってるのに……": "What the hell! I'm telling you this because I|care about you."
+    },
+    "16": {
+        "「しかも　その　おかしな連中は　なんだ！？ |　竜族じゃないようだが|　いったい　どこから連れてきた？": "And what's with these crazy people? ! They|don't look like dragons. Where the hell did|they come from?"
+    },
+    "17": {
+        "「カイラム村長！　村中に　重病人がいるのに |　どうして　私たちの治療を拒むのです？|　お願いします。どうか　協力させてください！": "Chief Kailam! Why do you refuse to treat us|when there are seriously ill people all over|the village? Please... Please, let us help|<br>|you!"
+    },
+    "18": {
+        "「治療など　必要ない。": "I need treatment..."
+    },
+    "19": {
+        "「エステラ殿……と申したか。|　あなたの厚意は　受け取っておこう。|　だが　この闇の領界には　月がある。": "Lady Estella... I said... I accept your|kindness... But in this dark realm, the|moon..."
+    },
+    "20": {
+        "「月……？": "月...？"
+    },
+    "21": {
+        "「異世界の　空に浮かぶという |　あの　月ですか？|　それが　闇の領界に　存在していると……？": "That moon that you say floats in the sky of|another world? You think it exists in the|Dark Realm?"
+    },
+    "22": {
+        "「ナドラガ教団だかなんだか　知らないが |　よそ者は　黙っていてもらおうか。|　ここには　ここの　やり方があるんだ。": "I don't know if you're from the Nadraga cult|or what, but you're not supposed to talk to|strangers... There's a way of doing things|<br>|here..."
+    },
+    "23": {
+        "「そんなことを言っている間に |　病に伏せる　村の皆さんに|　もしものことが　あったら……": "While we're on the subject| To all those in the village who are ill| If anything should happen to you"
+    },
+    "24": {
+        "「<pc>さん！|　あなたも　到着していたのですね。|　ご無事で安心しました。": "<pc> Miss! I didn't know you'd arrived. I'm so|glad you're safe..."
+    },
+    "25": {
+        "「まあ！　お連れの方は|　いったい　どうなさったのです！？": "Oh, no! What's happened to your companion?"
+    },
+    "26": {
+        "「この方が　マイユさん……！|　やはり　闇の領界に　いらしたのですね。|　ですが……いったい何が……？": "This is Maile... I knew it, you're in the|Dark Realm. But... What's going on?"
+    },
+    "27": {
+        "「ボクを　かばったんだ。": "He was protecting me."
+    },
+    "28": {
+        "「ひとりで　遺跡の調査をしていたら |　突然　すぐそばで　猛毒の胞子が　噴き出した。": "I was alone, investigating the ruins, when|suddenly, right next to me, a poisonous spore|erupted..."
+    },
+    "29": {
+        "「このまま死ぬんだろうと　覚悟したとき|　突然　この人が現れて……。|　ボクを　かばって……": "I thought I was gonna die, and then all of a|sudden, this man showed up... He was there|for me."
+    },
+    "30": {
+        "「……そうか。お前　責任を感じて|　その　マイユっていう　異種族の女を|　村まで連れてきたのか。": "...... You feel responsible for bringing that|alien woman, Mayu, to the village..."
+    },
+    "31": {
+        "「テキスト削除": "text deletion"
+    },
+    "32": {
+        "「事情は　わかった。 |　そういうことなら　浄月の間に寝かせておけ。|　月の光さえ浴びれば　問題なかろう。": "I don't know what's going on... Well, if|that's the case, I'll just lay her down|during the Pure Moon... As long as it's|<br>|bathed in moonlight..."
+    },
+    "33": {
+        "「よし。俺が　この女を運んでいこう。 |　行くぞ　サジェ。": "All right. I'll carry her... Let's go. Let's|go."
+    },
+    "34": {
+        "「……浄月の間？　月の光？|　この　カーラモーラ村は　いったい……。": "... During the Pure Moon? Moonlight? What is|this village of Carla Mora..."
+    },
+    "35": {
+        "「待ってください！|　その方を　どこへ連れていくのですか！？": "Wait, sir! Where are you taking that man!"
+    },
+    "36": {
+        "「<pc>さん。|　マイユさんが　心配です。|　私たちも　浄月の間とやらへ　向かいましょう。": "<pc> Ms. Mayu. Ms. Mayu... We're going to the|Jyogetsu-no-Ma too..."
+    },
+    "37": {
+        "「おい。よそ者のくせに|　勝手に　浄月の間に　入ってくるなよ！|　さっさと　出ていくんだ。": "Hey! You're a stranger, don't just come into|the Pure Moon Hall without permission! Now|get out of here..."
+    },
+    "38": {
+        "「待ってよ　バジュー。": "Wait. Ba..."
+    },
+    "39": {
+        "「瀕死のマイユさんを |　ただ　寝かせておくだけなんて……。|　どうか　私たちに　治療させてください！": "She's dying. We can't just let her lie there.|Please, let us help her!"
+    },
+    "40": {
+        "「村の　しきたりだとは　お聞きしましたが|　これでは　あまりにも……": "I've heard it's a village tradition| This is too much"
+    },
+    "41": {
+        "「……案ずることはない　エステラ殿。 |　闇の領界では　毒の治療など　不要なのだ。": "... There's nothing to worry about,|S.H.I.E.L.D. In the Dark Realm, there is no|need to cure poison..."
+    },
+    "42": {
+        "「ほれ……今　月が　現れる。": "Look... This month..."
+    },
+    "43": {
+        "「ああ　ありがたい……。|　身体の痛みが　ひいてきた。": "Oh, thank God... I'm not in pain anymore."
+    },
+    "44": {
+        "「よしよし　身体の毒が　消えてきたぞ。|　あと　もうすこしだ。|　いつもながら　お月サマ　さまさまだなあ～。": "All right, all right, all right, all right,|all right. Just a little more... As always,|the moon is still..."
+    },
+    "45": {
+        "「みるみる　みなさんが　お元気に……？|　本当に　この月の光には|　いやしのチカラが　あるというの……！？": "Everyone seems to be getting better. Do you|really think this moonlight has the power to|heal?"
+    },
+    "46": {
+        "「う…うう……っ。": "Ugh... Uu...."
+    },
+    "47": {
+        "「おい　サジェ。|　この女だけ　毒が抜けないぞ。|　竜族以外にも　月の光は　効くのか？": "Hey... She's the only one who's not|poisoned... Does the moonlight work on non-|dragon people?"
+    },
+    "48": {
+        "「すこしずつだけど　息が落ち着いてきてる。|　強い毒の　直撃を受けたから|　時間が　かかってるだけだろう。": "He's breathing more slowly, but he's... It's|just taking a while because he was hit so|hard by the poison."
+    },
+    "49": {
+        "「……なに？": "... What?"
+    },
+    "50": {
+        "「はーっはっはっは！|　月の光は　今宵かぎりだ……。": "Ha-ha-ha-ha! The light of the moon is only|for tonight..."
+    },
+    "51": {
+        "「な　なんだ　あの化け物は……。": "What the hell is that thing..."
+    },
+    "52": {
+        "「あぁっ！？": "Aah!"
+    },
+    "53": {
+        "「月が……落ちた……？": "The moon... Fell...?"
+    },
+    "54": {
+        "「月が　魔物に　落とされた！": "The moon has been cast down by a demon!"
+    },
+    "55": {
+        "「おしまいだ！|　月がなければ　この闇の領界で|　誰ひとりとして　生き延びることは　できん！": "It's over! Without the moon, none of us can|survive in the Dark Realm!"
+    },
+    "56": {
+        "「オレの身体の毒は　もう消えないのか……。|　この　耐えがたい痛みに|　死ぬまで　苦しめられるしかないのか……！？": "Will the poison in my body ever go away? Will|I have to suffer this unbearable pain until|the day I die?"
+    },
+    "57": {
+        "「月の光が　失われるなんて……。|　このままでは　村は　全滅だわ！！": ""
+    },
+    "58": {
+        "「皆さん　どうか　落ち着いて！ |　私が　教団本部へ連絡し　救援を呼びます。|　それまで　安静にして　お待ちください！": "Everyone, please calm down! I'll contact the|headquarters and call for help... Until then,|please remain calm and wait!"
+    },
+    "59": {
+        "「……いくら手当てをしようが|　闇の領界の毒は　日々　我らをむしばむ。|　それをいやせるのは　月の光　ただひとつ……。": "... No matter how hard we try, the toxins of|the Dark Realm consume us daily. And only the|light of the moon can cure it."
+    },
+    "60": {
+        "「ここにいる病人を　治療したところで |　一時しのぎにしかならん……。": "Treating the sick in this room is only a|temporary fix..."
+    },
+    "61": {
+        "「……みんなの浴びた毒は　軽いものだ。|　でも　この人は　ひどい毒に　むしばまれてる。|　急いで　月の光を浴びなければ　確実に死ぬ。": "... The toxins we've all been exposed to are|mild... But this one, he's been poisoned so|badly... If we don't hurry and get some|<br>|moonlight, we'll be sure to..."
+    },
+    "62": {
+        "「………………。": "..."
+    },
+    "63": {
+        "「月だけが　闇の領界を　救えるなら……|　落ちた月を　また浮かべればいい。": "If only the moon could save the Dark Realm...|If the moon can rise again..."
+    },
+    "64": {
+        "「おいっ　サジェ？|　お前　いきなり　何を言い出すんだ！？": "Hey, Saje? What are you talking about all of|a sudden?"
+    },
+    "65": {
+        "「闇の領界　その頂には　楽園あり。 |　彼方より照らす　月の光は　すべてをいやす。|　……昔からの　言い伝えだ。": "A realm of darkness, and at its peak... The|light of the moon shines from beyond, and all|is... ... As the old saying goes..."
+    },
+    "66": {
+        "「けれど　月は魔物に襲われ|　……月の光は　失われてしまった。": "But the moon was attacked by a demon... The|moon's light was lost..."
+    },
+    "67": {
+        "「それなら。|　月を探し出し　空へ戻すことができれば|　元通り　光を放つはずだ。": "So... If we can find the moon and put it back|in the sky, it will shine again..."
+    },
+    "68": {
+        "「この女の人も……": "And this woman"
+    },
+    "69": {
+        "「村のみんなも　治るかもしれないんだ。": "Everyone in the village could be cured..."
+    },
+    "70": {
+        "「楽園へ行こう。|　月を　元通りにする方法を|　ボクたちの手で　探すんだ！": "To paradise... We'll find a way to restore|the moon... with our own hands!"
+    },
+    "71": {
+        "「……月が失われた　今|　村の外に出て　毒に　むしばまれれば|　助かる術は　なきに等しい。": ""
+    },
+    "72": {
+        "「しかも　先ほどの魔物が|　また　いつ現れるかも　わからんのだぞ！": "And we don't know when the demon will show up|again!"
+    },
+    "73": {
+        "「そうだ。お前みたいなチビに　何ができる！？|　そんな異種族の女は　ほうっておけよ！|　うちで　おとなしくしているんだ！": "... What's a little guy like you to do? Leave|that half-breed bitch alone! Stay at home and|keep quiet!"
+    },
+    "74": {
+        "「キミ……この女の人の　友だちなんでしょ。|　それに　さっき　魔物が出たときも冷静だった。": "You're... I'm a friend of this woman's. And|you were so calm when the demon came out..."
+    },
+    "75": {
+        "「……お願いだ。|　ボクといっしょに　楽園へ行ってくれ。|　危険な旅になる。キミにしか頼めないんだ。<yesno><close>": "... Oh... Come with me to paradise... A|dangerous journey... I can only ask you...<yesno><close>"
+    },
+    "76": {
+        "「ほうっておけば　彼女も　村のみんなも死ぬ。|　お願いだ。ボクといっしょに　楽園へ行き|　月を　元通りにする方法を　探してくれ。<yesno><close>": "If we leave her alone, she and everyone else|in the village... Oh... You'll come with me|to paradise, and we'll find a way to restore|<br>|the moon.<yesno><close>"
+    },
+    "77": {
+        "「……助かるよ。キミの協力があれば　きっと|　村のみんなを　助けることができる。|　それじゃ　行こう　<pc>。": "... Help... With your help, we can help|everyone in the village... Let's go.<pc> 。"
+    },
+    "78": {
+        "「サジェ。|　どうしても　楽園を目指すというのか。": "... I can't stop thinking about paradise..."
+    },
+    "79": {
+        "「……楽園への入口は　村から西。|　西の岩穴の　奥にある。|　そこで　落ち合おう　<pc>。": "... The entrance to paradise is in the|village... At the end of the western rock|pit... I'll meet you there.<pc> 。"
+    },
+    "80": {
+        "「<pc>さん……。|　マイユさんのことは　私に　おまかせを。": "<pc> Miss... I'll take care of Miss Mayle..."
+    },
+    "81": {
+        "「<pc>さんたちが　お戻りになるまで|　精一杯　看病いたします。": "<pc> I'll do my best to look after them until they|return."
+    },
+    "82": {
+        "「ここ　闇の領界は　いまだ|　教団の調査が　およばぬ地。|　なかでも　各所にわきだす毒は　厄介です。": "Here in the Dark Realm, the Order is still|investigating... Among other things, the|poison spewing from every nook and cranny..."
+    },
+    "83": {
+        "「それに　先ほどの魔物の件もあります。|　村のため　旅立つあなたを　引き止めることは|　できませんが　もしものことが　あっては……。": "And then there's the matter of the demon... I|can't stop you from leaving for the village,|but if anything should happen..."
+    },
+    "84": {
+        "「……いいえ。解放者たる　<pc>さんを|　信じて　待たねばなりませんね。|　どうか　くれぐれも　お気をつけて。": "...... The Liberator.<pc> I'll have to wait and see... Please, take|care..."
+    },
+    "85": {
+        "「あの少年と　<pc>さんの行く道に|　ナドラガ神のご加護が　ありますように……。": "With that boy<pc> May the goddess Nadraga bless you on your|way..."
+    },
+    "86": {
+        "「来てくれたんだね　<pc>。|　……そうさ　ここが楽園への扉。": "I'm glad you're here<pc> ... ... Yes, this is paradise..."
+    },
+    "87": {
+        "「大昔から　この扉の向こう……|　はるか頂に　毒にも病にも　おびやかされない|　楽園がある……と　村には伝えられてる。": ""
+    },
+    "88": {
+        "「貴重な過去の遺跡だから|　錠前を壊さずに　開ける方法を探してたけど|　今は　非常事態だ。しょうがない。": ""
+    },
+    "89": {
+        "「……ダメだ。|　力技じゃあ　開きそうにないよ。|　どうにか　扉を開く方法が　ないかな……。": "...... I don't think I can get it open.|There's got to be a way to open this door."
+    },
+    "90": {
+        "「扉に触れては　ならぬ！": "Do not touch the door!"
+    },
+    "91": {
+        "「領界の頂に　存在するという　楽園……|　闇の領界に住む者ならば　その言い伝えは|　誰でも　知っておろう。": "A paradise that exists at the top of the|realm. All who dwell in the Dark Realm know|the legend..."
+    },
+    "92": {
+        "「だが……言い伝えは　それだけではない。|　サジェ。お前は　小さいから　知らぬだろうが|　楽園には　恐ろしい　秘密があるのだ。": "But... That's all the lore is... ... You're|too little to know it, but there are terrible|secrets in paradise."
+    },
+    "93": {
+        "「……秘密？": "... Secrets?"
+    },
+    "94": {
+        "「楽園は　けがれなき地。|　毒も　病もなき　月の光に照らされし地。": "Paradise is defiled... No poison, no|sickness... by the light of the moon..."
+    },
+    "95": {
+        "「されど　楽園には　悪魔が棲む。|　かの楽園は　禁忌の地。|　楽園を目指すは　神に背くと知れ……。": "But in paradise, the devil... And paradise is|forbidden... To go to paradise is to disobey|God..."
+    },
+    "96": {
+        "「かつて　我らの祖先の大半は　楽園に棲むという|　悪魔に殺された……。その時　逃げのびた|　わずかな者が　深い闇の底に村を作ったという。": "Once, most of our ancestors were slain by the|demons that dwell in paradise. Those few who|escaped built a village in the depths of|<br>|darkness..."
+    },
+    "97": {
+        "「無論　言い伝えを　確かめた者は　おらぬ。|　だが……月を落とした　あの魔物が現れた。|　あれこそが　楽園の悪魔かも知れぬ。": "Of course, there are those who confirm the|lore... But... The demon that dropped the|moon... That could be the demon of paradise."
+    },
+    "98": {
+        "「サジェよ。この扉を　開いてはならぬ。|　楽園に　近づいてはならんのだ。": "Sa... Do not open this door... Do not|approach paradise..."
+    },
+    "99": {
+        "「……秘密って　それだけ？": "... That's your secret?"
+    },
+    "100": {
+        "「楽園には悪魔がいるから　危ないってことは|　村の古い書物を調べて　とっくに知ってる。": "I already knew that paradise was dangerous|because of the demons in the old books of the|village..."
+    },
+    "101": {
+        "「異種族の娘のために　なにゆえ|　お前は　そこまでするというのだ……。": "Why would you go to such lengths for the|daughter of a different race..."
+    },
+    "102": {
+        "「サジェ　お前……。|　あのことを　いまだに……？": "Saje, you... You still think about that...?"
+    },
+    "103": {
+        "「ボクは　あの女の人に　助けられた。|　その借りを　返したいだけだ。": "I want to help that woman. I want to pay her|back."
+    },
+    "104": {
+        "「それに　この扉の向こうにあるのは|　危険だけじゃないさ。": "And it's not just danger that lies behind|these doors..."
+    },
+    "105": {
+        "「楽園……伝説の地。 |　はるか頂に　存在するという|　月の光あふるる　神秘の地……。": "Rakuen... A legend... It is said to exist at|the summit of a mysterious land... filled|with the light of the moon."
+    },
+    "106": {
+        "「ボクは　ずっと　あこがれてた。|　この扉の向こうに　何があるのか……|　未知なる世界を　この目で　見てみたいんだ！": "I've always wanted to... To see what's on the|other side of this door I've always wanted to|see the unknown with my own eyes"
+    },
+    "107": {
+        "「……お前も　楽園に魅入られたか。|　ならば　私の忠告など　耳に入るまい。": "... You, too, have fallen in love with|paradise... Then you should not listen to my|advice."
+    },
+    "108": {
+        "「サジェ　影の谷へ向かえ。": "Saje, to the Valley of Shadows..."
+    },
+    "109": {
+        "「この扉を開くカギは|　楽園より　もたらされる災いが　村を襲わぬよう|　ナドラガ神を祀る　ほこらに　封印されておる。": "The key to unlocking this door is sealed in a|cave dedicated to the god Nadraga to prevent|any plagues from paradise from befalling our|<br>|village."
+    },
+    "110": {
+        "「長らく　閉ざされていた|　影の谷へ向かう道を　開いてやろう。|　カーラモーラ村の地下から　行くがよい。": "Opening the way to the Valley of Shadows,|long closed to the world... From beneath the|village of Carla Mora..."
+    },
+    "111": {
+        "「影の谷……？": "Valley of Shadows...?"
+    },
+    "112": {
+        "「どうした　怖気づいたか？|　楽園への扉を　みずからの手で開き|　その真実を　知りたいのではなかったのか。": "What's the matter, are you afraid? Don't you|want to open the door to paradise with your|own hands and find out the truth..."
+    },
+    "113": {
+        "「……怖くなんか　あるものか。": "I'm not... I'm not scared..."
+    },
+    "114": {
+        "「……ならば　行くがよい。": "... Okay, I'll go..."
+    },
+    "115": {
+        "「ナドラガ神のほこらがある　影の谷へは|　村の　地下から行けるはずだ。|　<pc>。それじゃ　また後で……。": "The Valley of Shadows, home of the Nadraga|shrine, can be reached from the village|basement...<pc> . Well, I'll see you later..."
+    },
+    "116": {
+        "「<pc>……。|　遅くなって　すまない。|　影の谷は　どうしても　苦手なんだ……。": "<pc> I'm... I'm sorry I'm late. The Valley of|Shadows isn't really my thing..."
+    },
+    "117": {
+        "「あの時のこと　思いだしちゃって……。": "It reminded me of that time..."
+    },
+    "118": {
+        "「……ごめん。なんでもない。 |　ともあれ　キミがいてくれて　助かったよ。|　ボクだけじゃ　ほこらに　たどり着けなかった。": "...... What the... Anyway, I'm glad you're|here. I can't get to the cave by myself."
+    },
+    "119": {
+        "「ここが　ナドラガ神のほこらか……。 |　はじめて来たよ。|　さあ　楽園のカギは　どこだろう？": "So this is the home of the god Nadraga... For|the first time... I wonder, where is the key|to paradise?"
+    },
+    "120": {
+        "「さすがに　簡単には　見つからないか。 |　……隠されているとして|　手がかりになるものは……村の言い伝え……？": "It's not that easy to find. ... If it's|hidden, there's only one thing that can lead|us to it. Village lore?"
+    },
+    "121": {
+        "「楽園は　けがれなき地。|　毒も　病もなき　月の光に照らされし地。": "Paradise is defiled... No poison, no|sickness... by the light of the moon..."
+    },
+    "122": {
+        "「されど　楽園には　悪魔が棲む。|　かの楽園は　禁忌の地。|　楽園を目指すは　神に背くと知れ……。": "But in paradise, the devil... And paradise is|forbidden... To go to paradise is to disobey|God..."
+    },
+    "123": {
+        "「楽園を目指すことは　神に背くこと……|　……神に　背中を向ける。|　つまり　この祭壇の後ろに……？": "To go to paradise is to disobey God... ... To|turn your back on God... You mean behind this|altar?"
+    },
+    "124": {
+        "「……あった。": "......"
+    },
+    "125": {
+        "「おかしいな　このカギ……やけに真新しい。 |　楽園への扉を閉ざしていた　鍵穴は|　ずいぶん　古いものだったのに。": "It's funny, this key... It's so true. The|keyhole that closed the door to paradise was|a very old one..."
+    },
+    "126": {
+        "「ごめん　急がなきゃいけないね。|　こういうものを　調べ始めると|　つい　夢中になっちゃって。": "I'm sorry. I have to hurry. You know, when I|start looking into these things, I get|carried away..."
+    },
+    "127": {
+        "「<pc>。|　楽園への扉まで　戻ろう。|　このカギで　楽園を目指すんだ。": "<pc> . To the door to paradise... This key will|take you to paradise..."
+    },
+    "128": {
+        "「それじゃ　ボクは　先に行くよ。|　……また後で。帰り道も　気をつけてね。": "Okay, I'm gonna go ahead and... I'll...|I'll... I'll be careful on the way back."
+    },
+    "129": {
+        "「……今度は　同じぐらいに着いたね。|　あんまり待たせたら　悪いから|　ちょっと　急いで来たんだ。": "... I'll be there about the same time... I|don't want to keep you waiting too long, so|I'll just hurry up and..."
+    },
+    "130": {
+        "「さて　この楽園のカギで　扉は……": "Now, with this key to paradise, the door"
+    },
+    "131": {
+        "「……やっぱり　扉とカギは|　作られた時代が　異なっているみたいだ。|　いったい　どういうこと……？": "... It seems the door and the key were made|at different times... What the hell is going|on?"
+    },
+    "132": {
+        "「そうだった。先に　扉を開かなきゃね。|　……やってみよう。": "Well... We have to open the door first... ...|Do it..."
+    },
+    "133": {
+        "サジェは　楽園のカギを　使った！": "Sajae has used the key to paradise!"
+    },
+    "134": {
+        "「開いた……！": "It's open."
+    },
+    "135": {
+        "「……<cs_pchero>　早く　おいでよ！": "<cs_pchero>Come on, come on, come on!"
+    },
+    "136": {
+        "「ありがと　<cs_pchero>。|　キミのおかげで　助かったよ。": "Thank you<cs_pchero>No. You're a big help..."
+    },
+    "137": {
+        "「悪魔の手下が　邪魔してきたってことは|　この部屋は　まちがいなく|　楽園に　続いてるはずだ。": "If the devil's minions have interfered, then|this room definitely leads to paradise..."
+    },
+    "138": {
+        "「えっ……今度は　何が起きたんだ！？": "What the... What the hell happened this time?"
+    },
+    "139": {
+        "「誰だ　今の声……。": "Who was that voice..."
+    },
+    "140": {
+        "「うわっ！？": "Whoa!"
+    },
+    "141": {
+        "「まぶし……。|　なんて光だ　目がくらんで　なにも見えない。": "It's so bright. Oh, my God, the light. I'm|blinded. I can't see anything."
+    },
+    "142": {
+        "「やっと　目が慣れてきた。|　……不思議な部屋だね。|　楽園の住人が　作ったのか……？": "I'm finally getting used to seeing... ... I|wonder... Did the inhabitants of paradise|build this?"
+    },
+    "143": {
+        "「楽園は　きっと　この扉の向こうだ！|　行ってみよう　<cs_pchero>。": "I think paradise is just beyond these doors!|Let's go.<cs_pchero>。"
+    },
+    "144": {
+        "「……ここが　楽園。": "... This is..."
+    },
+    "145": {
+        "「なんて　広いんだ……。|　大きな天井から　光があふれてる……。": "It's so spacious. There's so much light|coming through the big ceiling..."
+    },
+    "146": {
+        "「水面みたいに　なめらかな床……|　どうしたら　こんなに　まっすぐに作れるんだ？|　ボクたちが暮らす村の上に　こんな場所が……。": "The floor is smooth as water. How can you|make something so straight? There's a place|like this above the village where we live."
+    },
+    "147": {
+        "「カーラモーラ村の技術では　こんな建物は|　１００年たったって　作れっこない。|　この楽園は　いつ　誰が建造したものなんだ！？": "With the technology in Carla Mora Village, a|building like this could still be built in a|hundred years... Who built this paradise and|<br>|when?"
+    },
+    "148": {
+        "「毒素も　まったくない。空気は清浄だ……。|　ここに来れば　きっと　毒におびえずに|　みんなで　幸せに　暮らせるはず……。": "No more toxins. The air is clean. I'm sure we|can all live happily ever after here, without|the toxins."
+    },
+    "149": {
+        "「どうして　こんな　きれいな場所に|　悪魔が　棲んでいるんだろう？|　……ボクたちの祖先から　楽園を　奪った？": "Why would a demon dwell in such a beautiful|place? Did... Did he take paradise from our|ancestors?"
+    },
+    "150": {
+        "「ああ　気にしないで。ひとりごとを言いながら|　考えるほうが　思考が　まとまるんだ。|　<cs_pchero>に　質問してるわけじゃないよ。": "Yeah, I don't mind. It's better to think|while you're talking to yourself.<cs_pchero>I'm not asking you to..."
+    },
+    "151": {
+        "「それにしても　わからないことだらけだな。|　誰かいれば　話を聞けるんだけど……|　この辺りには　人の気配がしないね。": "I don't know what's going on here. I wish|there was someone here I could talk to.|There's no sign of anyone around here."
+    },
+    "152": {
+        "「まずは　月を探そう。|　この楽園の　どこかに　落ちたはず……": "First, the moon... Somewhere in this|paradise, it must have fallen..."
+    },
+    "153": {
+        "「あくしでんと報告。|　発見者：管理端末Ｑ４８４。": "Akashi Den... Discovered by: Management|Terminal Q..."
+    },
+    "154": {
+        "「中央通路ニテ　あんのうん複数ト　遭遇。|　でーた未登録。|　種族ノ異ナル　生命反応ト　判断。": "The center aisle, Nité. An un, multiple t...|Duta... Different races, different life|forms, different reactions..."
+    },
+    "155": {
+        "「こいつ……見たこともない姿だ。|　動いて　しゃべってるけど……|　生き物なのか……？": "This guy... I've never seen anything like it.|It's moving, it's talking, but... Is it|alive?"
+    },
+    "156": {
+        "「原始的武器ノ　所持ヲ　確認スルモ|　攻撃行動ナシ。|　えねみー判定：ねがてぃぶ。": "I have a primitive weapon, but I'm not going|to attack. Judge Enemy: Neg..."
+    },
+    "157": {
+        "「お前……Ｑ４８４って　名前なのか？|　この楽園に　住んでいるの？": "You... Q484, is that your name? Do you live|here in paradise?"
+    },
+    "158": {
+        "「最優先事項ニ　変更ナシ。|　領界浄化しすてむノ　修理ヘ　向カウ。": "First priority, change. We're going to need|to repair the territorial purification|system..."
+    },
+    "159": {
+        "「今　ボクたちの前に現れた　アイツが|　何者なのかは　わからないけど|　初めて出会った楽園の住人には　違いない。": "Now, I don't know who this guy is that just|appeared in front of us, but I'm pretty sure|he's the first person we've met who lives in|<br>|paradise."
+    },
+    "160": {
+        "「ついて行けば　なにか　わかるかもしれない。|　追いかけてみよう！": "If we follow him, maybe we can find out|what... Let's go after it!"
+    },
+    "161": {
+        "「Ｑ４８４！　ねえ　待ってよ！！": "Q484! Hey, wait for me!"
+    },
+    "162": {
+        "「領界浄化しすてむ　発見。": "Territorial Cleansing System..."
+    },
+    "163": {
+        "「アイツ……ここで　何してるんだろう？": "That guy... I wonder what he's doing here?"
+    },
+    "164": {
+        "「外部カラノ攻撃　オヨビ　墜落ニヨリ|　領界浄化しすてむ　故障。|　下界ノ　毒素浄化ハ　現在　停止中。": "The outside world is under attack. The toxins|in the lower realms are now..."
+    },
+    "165": {
+        "「外部からの攻撃……墜落？|　……もしかして！": "An external attack... A crash? ... Could it|be!"
+    },
+    "166": {
+        "「この金属のカタマリ……|　光を失っているけど　間違いない。|　これが　ボクたちの月なんだ！": "These metal shapes... It's lost its light,|but it's not... This is our moon!"
+    },
+    "167": {
+        "「……月が　作りものだったなんて。|　どんな毒をも　消し去る　あの月が！|　誰かの手で　作られたもの！？": "... The moon is not real... The moon that|could destroy all poison. It was made by|someone else!"
+    },
+    "168": {
+        "「こんなの……誰も　信じてくれないよ。|　ボクだって　信じられないんだもの。|　楽園……なんて場所だ……。": "This is... No one will believe me. I don't|believe it either. Paradise. What a place."
+    },
+    "169": {
+        "「領界浄化しすてむ　故障箇所ノ|　調査　オヨビ　修理　すたーと。|　最優先事項。最優先事項。": "Territorial Purification System,|investigation of malfunctioning parts,|repair... The best... The best..."
+    },
+    "170": {
+        "「修理……。|　月を　修理する……？": "Repair... Repair the moon...?"
+    },
+    "171": {
+        "「コイツ……月を　直せるのか！？|　すごいや！　これなら　きっと|　あの女の人も　村のみんなも　助かるぞ！": "This guy... You can fix the moon? That's|amazing! I'm sure this will save that woman|and everyone in the village!"
+    },
+    "172": {
+        "「いいや　貴様らは　死ぬのだ！|　修理など　させんぞ！|　月を失い　苦しみながら　死ぬがいい！": "No, you're going to die! You will not be|repaired! You will lose the moon, and you|will die in agony!"
+    },
+    "173": {
+        "「オマエが　月を壊した悪魔か！": "You're the devil who broke the moon!"
+    },
+    "174": {
+        "「いかにも！|　邪悪なる意志に　従い……|　……月も　お前たちも　滅ぼしてくれるわ！": "Yes! In obedience to his evil will... ... I|will destroy the moon and you all!"
+    },
+    "175": {
+        "「<cs_pchero>！|　よかった　生きていたんだね。|　……だいじょうぶ。月も　まだ無事だ。": "<cs_pchero>Oh, my God! Thank God you're alive. I'm...|Oh, no... And the moon is still..."
+    },
+    "176": {
+        "「領界浄化しすてむ　故障箇所ノ　調査再開。|　調査完了次第　修理ヲ　すたーと……": ""
+    },
+    "177": {
+        "「はーっはっはっは！|　月の修理など　させんぞ！": "Ha-ha-ha-ha! You'll never fix the moon!"
+    },
+    "178": {
+        "「オマエ……月を壊した悪魔！": "You... The devil who broke the moon!"
+    },
+    "179": {
+        "「邪悪なる意志に　従い……|　……月も　お前たちも　滅ぼしてくれるわ！": "In obedience to his evil will... ... I will|destroy the moon and all of you!"
+    },
+    "180": {
+        "「……<cs_pchero>。キミは　何者なんだ？|　どこからともなく　ふらりと闇の領界に現れ|　月を落とした　あの悪魔を倒しちゃうなんて！": "<cs_pchero>Who are you? Who are you? You came out of|nowhere, into the Dark Realm, and defeated|that demon who dropped the moon!"
+    },
+    "181": {
+        "「いや……キミが　どこの誰だって　関係ない。|　楽園の悪魔を倒してくれて　ありがとう。|　<cs_pchero>。": "No, I... I don't care who you are... Thank|you for defeating the demons of paradise.<cs_pchero>。"
+    },
+    "182": {
+        "「悪魔は滅んだ……。これで　ひと安心だね。|　あとは　本当に|　Ｑ４８４が　壊れた月を　直してくれれば……。": "The demon is dead... It's a relief. Now all I|really need is Q484 to fix my broken moon."
+    },
+    "183": {
+        "「領界浄化しすてむ　調査終了。|　要・修理箇所　大２　小５。|　予備ぱーつ　オヨビ　補修材ヲ　準備。": "Territorial Purification System... Repair|required, two large... Spare parts, Oyobi,|repair materials..."
+    },
+    "184": {
+        "「修理は　Ｑ４８４に|　まかせておけば　いいみたいだ。|　ちょっと　愛想は悪いけど　頼もしいヤツだね。": "I'll just leave the repairs to Q484. I know|he's not very friendly, but he's a good guy."
+    },
+    "185": {
+        "「予備ぱーつ……交換完了。|　補修材……注入完了。": "Spare parts... Replacement... Repair|material... Pour..."
+    },
+    "186": {
+        "「もしかして　もう　月を直しちゃったのかい？|　すごいや！ |　やるじゃないか　Ｑ４８４！": "Did you fix the moon already? That's great!|Nice work, Q484!"
+    },
+    "187": {
+        "「補修材　定着完了マデ　３ヶ月。|　電源　すりーぷ……": "Repair material Fusing completed... Power|supply Surip..."
+    },
+    "188": {
+        "「あと　３ヶ月だって！？": "Three more months?"
+    },
+    "189": {
+        "「それじゃ　間に合わない……。|　村のみんなも　あの女の人も　死んじゃうよ！|　ねえっ！　なんとか　ならないの！？": "We'll never make it in time... Everyone in|the village and that woman will die! Hey!|Can't you do something?"
+    },
+    "190": {
+        "「要望：ナントカ　＝　修理時間短縮ト　理解。|　凝固促進剤　さるふぁばりん　ニテ　短縮可能。|　さるふぁばりんヲ　補充セヨ。": "Request: Nantucket = Shorter repair time...|Coagulation accelerator, Sarufarin,|shortens... Sarufarin..."
+    },
+    "191": {
+        "「サル…ファ…バリン？|　その　サルファバリンってものが　あれば|　修理完了までの時間が　短くなるのか？": "Sar... Fa... Valine? This sulfavaline stuff,|would it speed up the time it takes to|complete a repair?"
+    },
+    "192": {
+        "「凝固促進剤　さるふぁばりん　補充後ノ|　定着完了時間　３０秒ト　算出。|　さるふぁばりんヲ　補充セヨ。ガーガーガー。": "Coagulation accelerator, Sarufubarin, after|replenishment, Fixation completion time 30|seconds... Sarufubarin supplemented...|<br>|Garg..."
+    },
+    "193": {
+        "「サルファバリン　というものがあれば|　修理が　すぐに終わるらしいけど|　そんなもの　聞いたこともない……。": "They say there's something called sulfavaline|that'll make the repair go faster, but I've|never heard of it, so..."
+    },
+    "194": {
+        "「どこか　楽園の他の場所に　ないかな？|　ボク　探してくるよ。|　Ｑ４８４　<cs_pchero>。ここで待ってて。": "Isn't there someplace else in paradise? I'm|looking for... Q484.<cs_pchero>. Wait here..."
+    },
+    "195": {
+        "「<cs_pchero>……|　私の声が　聞こえますか……。": "<cs_pchero>... Can you hear me..."
+    },
+    "196": {
+        "「どうやら　お困りのようですね。|　私が　助言できるかもしれません……|　何が起きたのか　教えていただけませんか……？": "I'm afraid you're in trouble. I might be able|to help... I was wondering if you could tell|me what's going on."
+    },
+    "197": {
+        "「……なるほど。<cs_pchero>。|　率直に言って　あなたの必要とする　その物質は|　この世界のどこにも　存在していません。": "...な...<cs_pchero>. Quite frankly, that substance you need|doesn't exist anywhere in this world..."
+    },
+    "198": {
+        "「アストルティアの　オーグリード大陸に |　かつて存在し……今は　失われた物質。|　それこそが　サルファバル鉱。": "Once upon a time, on the continent of Aughrid|in Astrutia... But now it is lost. That is|Sarfa..."
+    },
+    "199": {
+        "「けれど　<cs_pchero>……|　あなたなら　時を超え　手に入れられるはず。|　過去へ向かい　友のチカラを　借りなさい。": "but<cs_pchero>... You can transcend time and find your way|back... You can go back in time and with the|help of your friends..."
+    },
+    "200": {
+        "「ただし……サルファバル鉱を　精製する技法は|　闇の領界にのみ　伝えられているとか。|　その技法を知る者が　いればいいのですが……。": "Except... The art of refining sulfaval ore|has been passed down only in the Dark Realm.|If only there were someone who knew how to do|<br>|it."
+    },
+    "201": {
+        "「サルファバリンを　探そうとしたんだけど|　奥の建物への通路が　封鎖されてて……。|　……ごめん　役に立てなくて。": "I was trying to find some sulfavaline, but|the path to the back of the building was|blocked off, so... I'm... I'm sorry, I can't|<br>|help you."
+    },
+    "202": {
+        "「なんだって！　サルファバル鉱！？|　キミの世界にある物質なのかい？": "What? ! Sarphaval ore? Is that a substance in|your world?"
+    },
+    "203": {
+        "「でも　その鉱石を　手に入れても|　精製しなければ　サルファバリンは手に入らず|　その技法は　闇の領界に伝えられている……？": "But even if you could get your hands on the|ore, you'd have to refine it to get the|sulfavaline, and that technique has been|<br>|passed down to the Dark Realm...?"
+    },
+    "204": {
+        "「そうだ　村長なら！": "Yes, the village chief!"
+    },
+    "205": {
+        "「カーラモーラ村の　カイラム村長の家には|　古い文献が　たくさんあった。|　それに村長は　鉱石の精製にも　くわしいんだ。": "In the village of Kara-Mora, in the house of|Chief Kailam, there are many old documents...|And the chief also knows how to refine ore."
+    },
+    "206": {
+        "「もしかしたら　サルファバル鉱から|　サルファバリンを　精製する技法も|　カイラム村長なら　知っているかもしれない。": "Perhaps Chief Kailam knows how to purify|sulfavaline from sulfaval ore..."
+    },
+    "207": {
+        "「<cs_pchero>。もし　無事に|　サルファバル鉱を　見つけたなら|　カーラモーラ村の村長に　聞いてみてくれ。": "<cs_pchero>. If you've successfully found the Sarphavar|mine, you can ask the chief of Carla Mora..."
+    },
+    "208": {
+        "「ボクは　ここに残って|　月のしくみについて調べながら　待っているよ。": "I'm going to stay here and wait while I try|to figure out how the moon works."
+    },
+    "209": {
+        "「領界浄化しすてむ　修理完了マデ　３ヶ月。|　凝固促進剤　さるふぁばりん　補充後ノ|　修理完了時間ハ　３０秒。ガーガーガー。": "It's time to complete repairs... Coagulation|accelerator, Sarufarin. After replenishment,|repair completion time is... Gaga..."
+    },
+    "210": {
+        "「月の修理が　完了するまで　３ヶ月かかる……。|　でも　サルファバリンってものがあれば|　ずっと早く　終わるらしいんだ。": "It'll take three months to complete the|repairs on the moon. But if you have|something called sulfavaline, it'll go a lot|<br>|faster..."
+    },
+    "211": {
+        "「どうか　サルファバル鉱を　手に入れて|　カーラモーラ村の村長に　精製する技法を|　探すように　頼んでくれ！": "Please, get your hands on some Sarfabal ore|and ask the chief of Carla Mora to find a way|to refine it!"
+    },
+    "212": {
+        "「キミの話によれば　サルファバル鉱は|　キミの世界の　オーグリード大陸という場所に|　大昔　あったそうだね。": "According to your story, the Sarphavar mine|existed in your world, on a place called|Aughrid, a long time ago."
+    },
+    "213": {
+        "「過去に存在したものを　どうやって　今 |　手に入れるつもりなのかは　わからないけど……|　キミなら　見つけてくれると　信じてる。": "I don't know how you're gonna get something|now that existed in the past, but... But I|know you'll find it."
+    },
+    "214": {
+        "「ボクは　ここに残って|　月のしくみについて調べながら　待っているよ。|　<pc>　……どうか　気をつけて。": "I'm going to stay here and wait while I try|to figure out how the moon works.<pc> Please... Please, be careful..."
+    },
+    "215": {
+        "「ふっ　めずらしいこともあるものだ。": "Huh. It's not always easy..."
+    },
+    "216": {
+        "「こんな場所に　立て続けに|　懐かしい客人が　来るなんて……。": "I can't believe we've had so many old friends|come to this place in a row."
+    },
+    "217": {
+        "「ひさしぶりだね　<pc>。|　そして……": "It's been a while<pc> . And..."
+    },
+    "218": {
+        "「若き四術師　エルジュ……。|　我らが　同志よ。": "The young sorcerer Elge... We are..."
+    },
+    "219": {
+        "「お久しぶりです。|　継承の儀では　あなたがたに　世話になった。|　改めて　礼を言わせてもらう。": ""
+    },
+    "220": {
+        "「キミと　<pc>が　世界を救ったんだ。|　礼を言わなければならないのは|　私たちさ……。": "With you<pc> We saved the world... We're the ones who|should be thanking..."
+    },
+    "221": {
+        "「さて　形式ばったあいさつは　ここまでとして|　……わざわざ　私を訪ねてきた理由を|　教えてくれないかい？": "Now that we've gotten the formalities out of|the way... Why don't you tell me why you came|all the way out here to see me?"
+    },
+    "222": {
+        "<pc>は|サルファバル鉱という物質が　必要なことを|フォステイルに　説明した！": "<pc> explained to Fosthild that he needed a|substance called sulfaval mineral!"
+    },
+    "223": {
+        "「……なるほど　サルファバル鉱……か。": "... I see. Sarfavar ore: ...."
+    },
+    "224": {
+        "「ああ。子どもの頃　父　ベルンハルトから |　あなたが　魔獣サルファバルを封印したと|　聞いたことがある。": "Yes. When I was a child, my father, Bernhard,|told me that you had sealed the hexenbiest|Sarfabal..."
+    },
+    "225": {
+        "「そいつが　サルファバル鉱を持ってるんだろ？|　パルカラス王国へ　帰る前に|　ヤツを封印した場所を　教えてくれ。": "He's the one with the Sarfabar ore, isn't he?|Before I go back to the kingdom of Parcallas,|I'd like to know where he was sealed..."
+    },
+    "226": {
+        "「サルファバルか……|　少しばかり　やっかいだね。": "Sulfaval... I'm a little bummed."
+    },
+    "227": {
+        "「どういうことだ？": "What do you mean?"
+    },
+    "228": {
+        "「サルファバルを　異空間に封印したのは|　私ひとりのチカラでは　ない。": "It was not by my own power that Sarufabal was|sealed in another dimension."
+    },
+    "229": {
+        "「私と……ヤクル　ガミルゴ|　そして　もちろん　キミの父上ベルンハルト。|　四術師が全員で　異空間に封印したんだ。": "Me and... Jakru, Gamilgo, and of course, your|father, Berne... All four sorcerers sealed|themselves in the void..."
+    },
+    "230": {
+        "「父さんたちが　みんなで……！": "My dad and the others..."
+    },
+    "231": {
+        "「サルファバルは　とにかく　タフな魔物でね。|　我々　四術師ですら|　封印するのが　精一杯だった。": "Sarufabal is a tough demon... Even we|sorcerers can barely contain it..."
+    },
+    "232": {
+        "「その後　現れたレイダメテスにより……|　ベルンハルトが死に……四人がそろわぬ以上|　封印を解くことは　ないだろうと思っていた。": "And then the Reidames showed up. Bernhardt|dead... As long as the four of us are not|together, I don't think the seal can be|<br>|broken."
+    },
+    "233": {
+        "「だが　エルジュ。キミが　新たな継承者となり|　レイダメテスを破壊した　<pc>もいる。|　今なら　封印を解き　やつを倒すこともできる。": "But, E... You are the new heir to the throne,|and you have destroyed Leidamates.<pc> ... Now we can break the seal and defeat|him..."
+    },
+    "234": {
+        "「父さんのかわりに　ボクが　封印を解けば|　魔獣サルファバルを　倒せるんだな。|　よしっ　行こう！　<pc>！": "If I can break the seal instead of you, then|we can defeat Sarufabal the Hexenbiest...|Okay, let's go!<pc> ！"
+    },
+    "235": {
+        "「そう　あせってはいけない……。|　ヤツと戦うためには　再び　四術師が集い|　封印を解かねばならない。": "Yes, we must not panic... In order to fight|him, the four sorcerers must come together|again to break the seal..."
+    },
+    "236": {
+        "「……だが　サルファバルは　強敵だ。|　私は　キミたちを信じているが|　封印を解くことに　反対する者もいるだろう。": "... But Sarfaraz... I believe in you, but|there are those who would oppose the lifting|of the seal..."
+    },
+    "237": {
+        "「ボクが　説得する！": "I'll talk him down!"
+    },
+    "238": {
+        "「封印を解く儀式には　我々の魔力を高める|　あるものが　必要なんだ。|　その　あるものとは……奇岩の呪符。": "In order to perform the ritual to break the|seal, we need something to boost our magic.|And that something is... A strange rock."
+    },
+    "239": {
+        "「よし　わかった！|　<pc>　お互いに　がんばろう。|　それじゃ　また　あとで！": "Okay, okay!<pc> Good luck to both of you. Okay, I'll see you|later!"
+    },
+    "240": {
+        "「……心配ないさ　<pc>。|　今のエルジュなら　ひとりで大丈夫。|　キミは　ランドン山脈へ　向かうといい。": " Don't worry<pc> . Now that Elge is on her own... You're going|to the Landon Mountains..."
+    },
+    "241": {
+        "「しばしの別れだ。奇岩の呪符を　手に入れたら|　グレン城の　エルジュの部屋で会おう。|　<pc>……。": "A moment... Once we have the Strange Rocks|spell, we'll go to Elge's room at Castle|Glen...<pc> ..."
+    },
+    "242": {
+        "「あっ　<cs_pchero>さん！": "oh!<cs_pchero>Three!"
+    },
+    "243": {
+        "「ぼっちゃん！|　ほらっ　お待ちかねの　<cs_pchero>さんが|　いらっしゃいましたよ！": "Hey, Bocchan! Here it is, the one you've been|waiting for.<cs_pchero>You're here!"
+    },
+    "244": {
+        "「いちいち　お前に言われなくたって|　見ればわかるさ。": "I don't need you to tell me what to do. I can|see..."
+    },
+    "245": {
+        "「わはははは！|　エルジュも　一人前の破邪舟師になったんだ。|　そろそろ　ぼっちゃんは　やめてやれ。": "Ha-ha-ha-ha! Now that Elge is a full-fledged|evil boatman... I think it's time to stop|being an asshole..."
+    },
+    "246": {
+        "「はあ……それもそうですね。|　今後は気をつけます　ぼっちゃん！": "Huh... That too... I'll be careful from now|on, Botchan!"
+    },
+    "247": {
+        "「お待ちしておりましたよ　<cs_pchero>。|　エルジュの呼びかけにより|　あなたのため　私たち四術師は　集いました。": "We've been expecting you<cs_pchero>... At Erge's call, we sorcerers have|gathered for your sake..."
+    },
+    "248": {
+        "「かつて　魔獣サルファバルは……|　私たち３人と　亡きベルンハルトが封印した。": "Once upon a time, a hexenbiest named|Sarufabal... The three of us and the late|Bernhardt..."
+    },
+    "249": {
+        "「さあ　エルジュ。|　今度は　キミと　私たち３人が　封印の異空間|　……四重の封空への　道を開くんだ。": "Come on, E... Now you and I, the three of|us... ...and open the way to the fourfold|seal..."
+    },
+    "250": {
+        "「どうしたんだい　<cs_pchero>？|　さあ　早く　奇岩の呪符を　ボクに渡してくれ！<yesno><close>": "what's the matter?<cs_pchero>Come on! Come on, hurry up and give me the|strangeness spell!<yesno><close>"
+    },
+    "251": {
+        "「よし　これでいい……。|　それじゃ　いくよ。": "Okay, this is good. Okay, so..."
+    },
+    "252": {
+        "「ぼっちゃん！　がんばってー！！": "Bocchan! Good luck!"
+    },
+    "253": {
+        "「……ごほん。": "......"
+    },
+    "254": {
+        "「四術師がひとり　破邪舟師　エルジュ。": "One of the Four Masters, the Destroyer, E..."
+    },
+    "255": {
+        "「四術師がひとり　ガミルゴ。": "One tetrarch, one Ga..."
+    },
+    "256": {
+        "「四術師がひとり　ヤクル。": "The sorcerer alone..."
+    },
+    "257": {
+        "「四術師がひとり　フォステイル……。": "One tetrarch, Fosthild..."
+    },
+    "258": {
+        "「我ら　四術師の　すべてが望む。": "All of us sorcerers..."
+    },
+    "259": {
+        "「四重の封空よ　ここに　現れよ！！": "The fourfold seal of the sky is here!"
+    },
+    "260": {
+        "「あっ　<cs_pchero>さん！|　今度こそ　サルまわしのヤツを|　倒してくださいねっ！": "oh!<cs_pchero>Sir! I hope you beat that monkey-wrangler|this time!"
+    },
+    "261": {
+        "「<cs_pchero>。|　君なら　どんな相手にだって　勝てるはずだ。|　さあ　再び　封印を解こう。": "<cs_pchero>No. You can defeat any opponent... Now, seal|it again..."
+    },
+    "262": {
+        "「四術師がひとり　破邪舟師　エルジュ。": "The tetrarch is alone. The destroyer, E..."
+    },
+    "263": {
+        "「四術師がひとり　ガミルゴ。": "One tetrarch, one Ga..."
+    },
+    "264": {
+        "「四術師がひとり　ヤクル。": "The sorcerer alone..."
+    },
+    "265": {
+        "「四術師がひとり　フォステイル……。": "One tetrarch, Fosthild..."
+    },
+    "266": {
+        "「我ら　四術師の　すべてが望む。": "All of us sorcerers..."
+    },
+    "267": {
+        "「四重の封空よ　ここに　現れよ！！": "The fourfold seal of the sky is here!"
+    },
+    "268": {
+        "「<cs_pchero>っ！！": "<cs_pchero>No!"
+    },
+    "269": {
+        "「やったー！　<cs_pchero>さんっ！|　おかえりなさいませ！！": "Yay!<cs_pchero>Hi! Welcome home!"
+    },
+    "270": {
+        "「<cs_pchero>。|　それで　サルファバルは……？": "<cs_pchero>. And Sarfabal is...?"
+    },
+    "271": {
+        "「……感じます。|　かの　魔物の気配は　完全に消滅しました。|　<cs_pchero>　あなたが倒してくれたのですね。": "... I feel... The demon's presence is|completely gone.<cs_pchero>You beat me..."
+    },
+    "272": {
+        "「へっ。やりやがったな　<cs_pchero>！|　オレたちにゃ　封印することしかできなかった|　あの　サルファバルを倒しちまうとはなあ。": "Heh. You did it.<cs_pchero>No! All we could do was seal him up, but now|that Sarufabal is defeated..."
+    },
+    "273": {
+        "「サルファバル鉱も　無事　手に入ったようだね。|　これで　<cs_pchero>も|　本来の旅を　続けられるだろう。": "I've got the sulfaval minerals intact...|Here.<cs_pchero>You can continue on your original journey..."
+    },
+    "274": {
+        "「……さみしいけれど　そろそろ　お別れだ。": "I... I'll miss you, but it's time to go..."
+    },
+    "275": {
+        "「ええ……同胞たちが　帰りを待っています。|　名残惜しいですが　私は　これで……。|　<cs_pchero>　皆さん。また会いましょう。": "Yeah, um... My people are waiting for me...|I'm sorry to leave you, but I'm afraid I have|to...<cs_pchero>I'll... I'll see you soon..."
+    },
+    "276": {
+        "「オレも　帰るとするか！|　ひさびさに大技を使ったら　腹が減っちまった。|　じゃあな　エルジュ！　<cs_pchero>！": "I'm going home, too. It's been a while since|I've used my big move. I'm starving. See you|later, Elge!<cs_pchero>！"
+    },
+    "277": {
+        "「かつて……サルファバルが現れた時|　まっさきに　ヤツを見つけ|　私たちを呼び集めたのは　ベルンハルトだった。": "Once... When Sarfabal showed up, it was|Bernhardt who found him first and called us|together..."
+    },
+    "278": {
+        "「そう……ちょうど　今回と同じようにね。": "So... Just like this..."
+    },
+    "279": {
+        "「父さんが……。": "My dad..."
+    },
+    "280": {
+        "「私たちは　それぞれ　自分の故郷に帰る。|　けれど　四術師のチカラが必要になったら|　いつでも呼んでおくれ。": "We each have our own home... But when we need|the power of a sorcerer, we can always call|on..."
+    },
+    "281": {
+        "「私たちは　かけがえのない|　仲間なのだからね……。エルジュ。": "We're the best of friends... E..."
+    },
+    "282": {
+        "「それでは　私も　失礼しよう。|　<cs_pchero>　エルジュ。|　キミたちの歩む未来に　祝福を……。": "Now, if you'll excuse me...<cs_pchero>E... Blessings on your future..."
+    },
+    "283": {
+        "「うっうっ……ぼっちゃん　ご立派になって。|　天国の　ベルンハルトさまに|　この勇姿を　お見せしたかった……ぐすっ。": "Ugh... Look at you... I wish I could have|shown this to Bernhard in heaven. ......"
+    },
+    "284": {
+        "「泣くなよ　みっともない。": "Don't cry, Mitts..."
+    },
+    "285": {
+        "「……種族が異なろうとも|　遠くはなれた場所に　住んでいようとも|　アストルティアの四術師……ボクらは仲間だ。": "... Though we be of different races, though|we dwell in distant places, we are the four|sorcerers of Astrutia... We are..."
+    },
+    "286": {
+        "「たとえ　これから　どんな苦難が訪れても|　みんなで　チカラを合わせれば|　きっと　乗り越えられる。そう　思うんだ。": "No matter what hardships we face in the|future, if we work together, we can|overcome... I think..."
+    },
+    "287": {
+        "「ありがとう　<cs_pchero>。|　君と再会できて　本当に　よかった……。": "Thank you<cs_pchero>I'm so glad I'm so glad I got to see you|again..."
+    },
+    "288": {
+        "「この時代の　アストルティアのことは|　ボクたち　四術師に　まかせてくれ。|　どうか　これからの旅も　気をつけて。": "The affairs of Astrotasia in this age are in|the hands of our sorcerers. Please be careful|on your journey..."
+    },
+    "289": {
+        "「何者だ！？|　突然　空中から現れやがって　怪しいやつめ！": "Who the hell are you? You just appeared out|of thin air, you weird bastard!"
+    },
+    "290": {
+        "「……見たところ　竜族ではないようだが。|　この　浄月の間に　何用かな？": "... It doesn't look like a dragon tribe...|What are they doing here in the Pure Moon?"
+    },
+    "291": {
+        "「皆さん　今のさわぎは　いったい……": "Ladies and gentlemen, what's the current buzz"
+    },
+    "292": {
+        "「くせ者……？": "A curmudgeon...?"
+    },
+    "293": {
+        "「マイユさんに　いったい　何を……！？|　毒に冒され　弱った者を狙うなんて……|　今すぐ　その怪しげな術を　解きなさい！": "What the hell did you do to Mayu? You target|the weak and poisoned. You must break this|spell now!"
+    },
+    "294": {
+        "「<pc>さんから　離れなさい！": "<pc> Get away from her!"
+    },
+    "295": {
+        "「助かったぞ　エステラ殿……。": "Thank you for your help, Lady Estella..."
+    },
+    "296": {
+        "「いえ　取り逃がしてしまい　申し訳ありません。|　それにしても　いったい何者なの……？": "No, I'm sorry I missed it... Anyway, who the|hell are you?"
+    },
+    "297": {
+        "「ともあれ　<pc>さんや　マイユさん |　村の皆さんに　大事がなくてよかった。|　私が目を離したばかりに　申し訳ありません。": "in any case<pc> I'm so glad that you, Mayu and the rest of|the village... I'm sorry I let you out of my|sight..."
+    },
+    "298": {
+        "「……先ほどの敵の正体は　わかりませんが|　見過ごすことはできません。|　すぐに　部下に命じ　警備を強化させましょう。": "... We don't know what the enemy is, but we|can't let them get away. I've ordered my men|to reinforce security..."
+    },
+    "299": {
+        "「<pc>さん。|　楽園と呼ばれる世界の調査を　続けられるなら|　どうか　お気をつけて。……それでは。": "<pc> Hello, sir. If you'd like to continue your|investigation of a world called paradise,|please take care: ...... So..."
+    },
+    "300": {
+        "「……ところで　<pc>。|　サジェはどうした？　まさか　あいつを置いて|　逃げ帰ってきたんじゃないだろうな！": " By the way<pc> . Where's Saje? You didn't leave him and run|back, did you?"
+    },
+    "301": {
+        "「楽園への扉の先で　何か　起きたのだな？|　お前たちが見たものを　私に　教えてくれ。": "What happened at the door to paradise? Tell|me what you saw..."
+    },
+    "302": {
+        "<pc>は　カイラム村長に|楽園で起きた出来事と|サジェからの頼みを　伝えた！": "<pc> told Chief Kailam what had happened in|paradise and what Sajé had asked of him!"
+    },
+    "303": {
+        "「お…お……。|　楽園……毒も病もなき　光あふるる地……。|　そこへ　まこと　サジェとお前は……。": "Oh... Oh... Paradise... A land of light, free|of poison and disease... And there, truly,|you and Saje..."
+    },
+    "304": {
+        "「村長　どうしたんです？|　いつも冷静な　あなたらしくもない。": "Chief, what's wrong? You're always so calm|and collected..."
+    },
+    "305": {
+        "「……よかろう。|　月の修理に必要な　サルファバリンとやらは|　なんとか　私が　精製してみせよう。": "... Hey... I've managed to purify the|sulfavaline needed to repair the moon..."
+    },
+    "306": {
+        "「<pc>よ　来るがよい。|　続きは　私の家で話そう。": "<pc> Yo, come on... I'll tell you the rest at my|place."
+    },
+    "307": {
+        "「……やっと　見つけたわ。": "I... Finally..."
+    },
+    "308": {
+        "「……やっと　見つけた。": "... Finally..."
+    },
+    "309": {
+        "「さあ　こっちへ……。": "Come on, come on..."
+    },
+    "310": {
+        "「さあ　こっちへ……。": "Come on, come on..."
+    },
+    "311": {
+        "「さあ　こっちへ……。": "Come on, come on..."
+    },
+    "312": {
+        "「今日のところは　|　そいつを連れていくのは　やめておこう……。": "I don't think we should bring him along for|the day."
+    },
+    "313": {
+        "「今日のところは　|　その人を連れていくのは　やめておくわ……。": "I'm not taking that man with me today..."
+    },
+    "314": {
+        "「今日のところは　|　その人を連れていくのは　やめておくね……。": "I'm not taking that person with me today..."
+    },
+    "315": {
+        "「だが　<pc>……。|　これだけは　覚えておいてくれ。": "but<pc> ... Just remember this..."
+    },
+    "316": {
+        "「だけど　<pc>……。|　これだけは　覚えておいてね。": "however<pc> ... Just remember this..."
+    },
+    "317": {
+        "<if_woman>「だけど　お姉ちゃん……。|　これだけは　覚えておいてね。<else>「だけど　お兄ちゃん……。|　これだけは　覚えておいてね。<endif>": "<if_woman>But, sis... I just want you to remember...<else>But, big brother... I just want you to|know...<endif>"
+    },
+    "318": {
+        "「邪悪なる意志は　お前の　すぐ　近くに……。": "Your evil will is very close to you."
+    },
+    "319": {
+        "「邪悪なる意志は　あなたの　すぐ　近くに……。": "Your evil will is very close to you."
+    },
+    "320": {
+        "<if_woman>「邪悪なる意志は|　お姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は|　お兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>Your evil intentions are right up your|sister's alley.<else>His evil will is so close to your|brother's...<endif>"
+    },
+    "321": {
+        "「……よし　これでいい。": "... Okay, this..."
+    },
+    "322": {
+        "「サルファバリンの精製が終わるまで|　そう　時間は　かからんはずだ。|　この家で　しばし　待っているがいい。": "It won't be long before the sulfavaline is|refined. I'll just wait here in the house."
+    },
+    "323": {
+        "「おどろいたな……。|　村長　あなたの家に|　こんな設備が　あったなんて。": "What a surprise... Chief, I didn't know your|house was equipped with this..."
+    },
+    "324": {
+        "「……若き日の　夢の跡だ。|　ついえた夢のな……。": "... The dream of my youth... The dream I|had..."
+    },
+    "325": {
+        "「……私も　かつて　サジェと同じように|　楽園への道を　求めたことがあった。": "... I once sought the same path to paradise|as Sajé..."
+    },
+    "326": {
+        "「ウソだろ……。": "Oh, my God..."
+    },
+    "327": {
+        "「それも　過去の自分の臆病さゆえ……だ。": "It's also because of my cowardice in the|past. ...."
+    },
+    "328": {
+        "「若き日……私は　楽園の伝説にあこがれ|　闇の領界中を　調査し|　ありとあらゆる古文書や　伝承を集めた。": "When I was young... I was fascinated by the|legends of paradise, and I scoured the Dark|Realm for any and all ancient texts and|<br>|lore..."
+    },
+    "329": {
+        "「毒に　おびやかされぬ　光あふるる地。|　実在するならば　闇の領界の民は救われるはず。|　私は　その考えに　とりつかれた。": "A light so bright, it cannot be poisoned. If|it were real, the people of the Dark Realm|could be saved. I've been obsessed with the|<br>|idea..."
+    },
+    "330": {
+        "「お前たちがくぐった　楽園への扉……|　あそこから　楽園へ行けるはず。|　だが　扉を開くカギは　どうしても見つからん。": "The door to paradise that you passed|through... From there, to paradise... But I|can't find the key to open the door."
+    },
+    "331": {
+        "「いや　初めから　存在しなかったのだ。|　……扉を作った者は　こう古文書に記していた。": "No, it never existed... ... The man who made|the door, he wrote in an ancient book..."
+    },
+    "332": {
+        "「楽園は清浄な地なれど　悪魔が棲む。|　扉を開き　悪魔を解き放つ者がいないよう|　楽園への扉のカギは　すべて処分した……と。": "Paradise is a clean place, but the devil...|I've destroyed all the keys to paradise's|doors so that no one can open them and|<br>|unleash the demon. ...."
+    },
+    "333": {
+        "「……<pc>。|　ナドラガ神のほこらに　隠されていたものは|　私が作りだした　新しいカギだ。": "<pc> ... What was hidden in the holy of holies of|the god Nadraga, I created a new..."
+    },
+    "334": {
+        "「楽園への扉　そのカギを作るため　設備をそろえ|　失敗をくり返すこと　数年……|　ようやく　ぴたりと　はまるカギが完成した。": "To create the key to paradise, we've spent|years building equipment and failing.|Finally, a key that fits perfectly..."
+    },
+    "335": {
+        "「私は　楽園への扉へ　向かい……|　そこで　怖くなったのだ。": "I was headed for the door to paradise. And|that's when I got scared."
+    },
+    "336": {
+        "「この扉を開けた先に　本当に楽園はあるのか？|　もし　悪魔を解き放ってしまえば|　村の者にまで　災いが　およぶのではないか？": "Is there really a paradise beyond this door?|If we unleash the demon, won't it bring|misfortune to everyone in the village?"
+    },
+    "337": {
+        "「……私は　恐怖を乗り越えることができず|　ナドラガ神のほこらに|　みずから作ったカギを隠し　村へ戻った。": "I... I couldn't get over my fear, so I hid a|key of my own making in the holy place of the|god Nadraga and made my way to the village..."
+    },
+    "338": {
+        "「……それから　ずっと|　楽園のことは忘れ　生きてきた。|　村の皆にも　決して楽園へは行くなと　命じて。": "... After that, I forgot about paradise and|lived. I told everyone in my village never to|go to paradise."
+    },
+    "339": {
+        "「妙に　サジェの肩をもつから|　おかしいと思えば　そんなことが……。": ""
+    },
+    "340": {
+        "「だが　あなたが　恐れをなすほどの危険な地へ|　サジェを行かせたのは　許せない。|　あいつは　まだ子どもなんだぞ！？": "But I forgive you for sending Saje to a place|so dangerous that you fear... He's just a|child!"
+    },
+    "341": {
+        "「サジェが　楽園を目指す意志は　固い。|　なにゆえかは　お前も　よく知っていよう。|　バジュー？": "Sajé's desire to find paradise... And you|know exactly why... Bajieux?"
+    },
+    "342": {
+        "「……あいつ　まだ|　死んだ　デリダのことを……。": "He's... He's still dead. He's still talking|about Derrida."
+    },
+    "343": {
+        "「そうとも。サジェは　今は亡き姉……|　お前と恋仲だった　デリダが|　自分をかばって死んだことを　気に病んでおる。": "So... Saje, my late sister... She was in love|with you, and she was worried that Derrida|died protecting you..."
+    },
+    "344": {
+        "「あの日　サジェとデリダの　ふたりは|　影の谷の調査に向かった。|　そこで　デリダは　弟をかばって　毒に……。": "That day, Saje and Derrida went to the Valley|of Shadows to investigate... There, Derrida|was poisoned, protecting her brother..."
+    },
+    "345": {
+        "「今よりも　チビだったサジェが　姉をかついで|　必死に　村まで　たどり着いたときには|　もう　デリダの息はなかった。": "When Saje, who was much shorter than you are|now, struggled to carry her sister to the|village, Derrida was already dead..."
+    },
+    "346": {
+        "「だが……他に　あいつに　何ができた！？|　あれは　事故だったんだよ！": "But... What else could he have done? It was|an accident, man!"
+    },
+    "347": {
+        "「……もう　５年にもなるか。|　生きていれば　今ごろは　お前と所帯を持ち|　よい夫婦に　なっていただろうに。": "It's been... It's been five years... If I'd|lived, I'd be married to you now, and we'd be|a good couple."
+    },
+    "348": {
+        "「あのマイユって娘に　デリダの面影を重ねて|　命がけで　楽園を目指したってのか？": "You're telling me that you risked your life|to get to paradise because you saw Derrida's|face in that Mayle girl?"
+    },
+    "349": {
+        "「……５年の間　心を閉ざし|　村の誰とも関わろうとしなかった　サジェが|　あの娘を助けたいと　そう言ったのだ。": "... For five years, Saje has been closed off|from everyone in the village, but now she|says she wants to help the girl."
+    },
+    "350": {
+        "「あの子を信じて……|　見守ってやりたいとは　思わぬか？": "Don't you want to believe in him... And watch|over her, don't you think?"
+    },
+    "351": {
+        "「どうやら　サルファバリンの精製が|　終わったようだな。": "Apparently, they've finished refining the|sulfavaline..."
+    },
+    "352": {
+        "「さあ　<pc>。|　これを　持っていきなさい。": "well<pc> (speaking spanish) I'll take this..."
+    },
+    "353": {
+        "<pc>は|サルファバリン（だいじなもの）を　手に入れた！<me 60>": "<pc> got the sulfavaline!<me 60>"
+    },
+    "354": {
+        "「この　サルファバリンを　楽園へ届けてくれ。|　そして……もしものことが　あったなら|　どうか　サジェを　守ってやってくれ。": "I will deliver this sulfavaline to|paradise... And... If anything should happen|to you, please protect Saje..."
+    },
+    "355": {
+        "「……あいつは　俺の弟のようなものなんだ。|　あのマイユって娘は　必ず守ってやるから|　サジェのことを　よろしく頼む。": "... He's like a brother to me... That girl|Mayu, I'll protect her. I'll take care of|Saje..."
+    },
+    "356": {
+        "「凝固促進剤　さるふぁばりん　補充後ノ|　修理完了時間ハ　３０秒。|　さるふぁばりんヲ　補充セヨ。ガーガーガー。": "Coagulation accelerator, Sarufubarin, after|replenishing, the repair completion time is|... Sarufubarin replenishment... Gaga..."
+    },
+    "357": {
+        "「<cs_pchero>！　|　Ｑ４８４も　ボクも　待ってたんだよ。|　それで　サルファバリンは？": "<cs_pchero>Yeah. Q484 and I have been waiting... So,|where's the sulfavarin?"
+    },
+    "358": {
+        "「凝固促進剤　さるふぁばりん　発見。|　さるふぁばりんヲ　補充セヨ。|　さるふぁばりんヲ　補充セヨ。": "Coagulation enhancer Sarufubarin...|Coagulation enhancer Coagulation enhancer"
+    },
+    "359": {
+        "「わかった　わかった。|　<cs_pchero>。|　こいつに　サルファバリンを　渡してやってよ。<yesno><close>": "Okay. I...<cs_pchero>(speaking spanish) I'm gonna give him some|sulfavaline...<yesno><close>"
+    },
+    "360": {
+        "<cs_pchero>は　管理端末Ｑ４８４に|サルファバリンを　渡した！": "<cs_pchero>has given sulfavaline to control terminal|Q484!"
+    },
+    "361": {
+        "「凝固促進剤　さるふぁばりん　補充ヲ確認。|　補修材定着完了時間　短縮。|　領界管理しすてむ　修理　再開。": "Coagulation accelerator Sarufubarin|Replenishment... Repair material fixation|completion time... Territory Management|<br>|System Repair..."
+    },
+    "362": {
+        "「サルファバリンの効果は　すごいね。|　どうだい　もう　できた？": "The effects of sulfavaline... How's it going?|Are you done?"
+    },
+    "363": {
+        "「全故障箇所ノ　修理完了。|　領界浄化しすてむ　動作てすと　開始。": "All malfunctions repaired... Territorial|Purification System, Operation Testo..."
+    },
+    "364": {
+        "「……やった！": "... Yes!"
+    },
+    "365": {
+        "「動作てすと　正常。|　領界浄化しすてむ　修理完了。|　再起動後　領界浄化しすてむ　活動再開。": "Operation Testo... Domain Purification System|Repair... After rebooting, the Domain|Purification System is active..."
+    },
+    "366": {
+        "「ええと……|　修理が成功したかのテストは　成功……。|　だから　月の活動を　再開させるみたい。": "Well... The test to determine if the repairs|were successful was a success... So we'll|resume lunar operations..."
+    },
+    "367": {
+        "「……再起動しーけんす　開始。": "... Rebooting..."
+    },
+    "368": {
+        "「最優先事項　更新。": "Top priority..."
+    },
+    "369": {
+        "「あんのうん複数ノ　ウチ|　移動体Ａヲ|　闇ノ領界ニ　生息スル　竜族ト　認定。": "I'm not sure... but Mobile A is a dragon|tribe that lives in the Dark Realm..."
+    },
+    "370": {
+        "「変形……なんのために……？": "Transformation... What's that for...?"
+    },
+    "371": {
+        "「最優先事項：|　闇ノ領界ニ　生息スル|　竜族ノ駆除ヲ　実行スル。": "Our first priority is to exterminate the|dragon race that lives in the Dark Realm."
+    },
+    "372": {
+        "「竜族を……ボクを　駆除？|　Ｑ４８４！|　どうして　そんなこと言うんだ！？": "The dragon people... Exterminate me? Q484,|why would you say that?"
+    },
+    "373": {
+        "「最優先事項：闇ノ領界ノ　竜族ノ　駆除。|　……オヨビ　コノ項目ヲ　妨害スル者モ|　駆除ノ　対象トスル。": "First priority: No dragonborn in the Dark|Realm... ... Anyone who interferes with this|item will be subject to extermination..."
+    },
+    "374": {
+        "「なぜなんだ　Ｑ４８４……。|　いっしょに　月を　修理したじゃないか。|　ボクは　敵じゃない！": "I don't understand. Q484... We repaired the|moon together. I'm not the enemy!"
+    },
+    "375": {
+        "「最優先事項：|　闇ノ領界ニ　生息スル　竜族ノ　駆除。|　竜族ノ　駆除。": "Priority One: The dragon people of the Dark|Realm... Dragonborn..."
+    },
+    "376": {
+        "「うわああっ！！": "Whoa!"
+    },
+    "377": {
+        "「最優先事項：闇ノ領界ノ　竜族ノ　駆除。 |　……オヨビ　コノ項目ヲ　妨害スル者モ|　駆除ノ　対象トスル。": "First priority: No dragonborn in the Dark|Realm... ... Anyone who interferes with this|item will be subject to extermination..."
+    },
+    "378": {
+        "「物理だめーじ　大。|　自己修復機能損傷　りぺあ不能。": "Physical damage... Self-healing damage.|Rippe..."
+    },
+    "379": {
+        "「代替機　製造すたーと。|　完成次第……竜族駆除…再開…ス…ル……。": ""
+    },
+    "380": {
+        "「……Ｑ４８４。|　まさか　キミが　襲ってくるなんて……。": "... Q... I didn't think you were gonna attack|me."
+    },
+    "381": {
+        "「でも　すぐに　代替機……代わりを作るって。|　代わりが　できたら|　また　竜族を　殺そうとするらしい……。": "But soon, I'll have a replacement. A|replacement... And when they do, they'll try|to kill the dragons again."
+    },
+    "382": {
+        "「ボクを……|　闇の領界の竜族を　駆除する……。": "I will... I will exterminate the dragon|people of the Dark Realm..."
+    },
+    "383": {
+        "「ボクたちの祖先を殺し　楽園から追い出した|　伝説の悪魔は……|　月を壊した　魔物のことじゃない……。": ""
+    },
+    "384": {
+        "「……楽園に来れば　毒に　苦しめられることなく|　みんな　幸せに　暮らしていけると思ってた。|　でも……": "... I thought that if I came to paradise, I|wouldn't have to suffer the torments of|poison and we could all live happily ever|<br>|after. But..."
+    },
+    "385": {
+        "「そう簡単には　いかないみたいだね。|　……<cs_pchero>。": "It's not going to be that easy. ...<cs_pchero>。"
+    },
+    "386": {
+        "「………………。": "..."
+    },
+    "387": {
+        "「……くよくよしてても　しょうがないよね。": "... There's no point in dwelling on it..."
+    },
+    "388": {
+        "「ずっと　あこがれていた|　楽園の姿を　この目で　確かめられたんだ。": "To see with my own eyes the paradise I've|longed for..."
+    },
+    "389": {
+        "「……オマエと　この　楽園で|　いっしょに　暮らしたかったな……。": "I... I wish you and I could have lived in|paradise together."
+    },
+    "390": {
+        "「再起動　カ　カカ……完了。|　領界浄化しすてむ　マモナク……|　ジジ……上昇……カイシ……。": "Reboot Kaka Kaka ..... Territorial|Purification Shisutemu Mamonaku... Gigi...|Ascend... Kaishi..."
+    },
+    "391": {
+        "「月が……！": "The moon...!"
+    },
+    "392": {
+        "「ジジ……えまーじぇんしーもーど　解除……。|　通路　全解放……ジジッ。": "Gigi... Emajeenshimod release... Aisle All|released: ......"
+    },
+    "393": {
+        "「管理端末……きゅう……|　ヨンハチ　ヨン……|　……キノウ…テイ……シ……。": "Management terminal... Kyu... Four bees.|Four... ... Kinow... Tay... Si..."
+    },
+    "394": {
+        "「きれいな光だ……。|　まぶしいね　目が痛いや。": "It's a beautiful light. It's so bright. I|can't see."
+    },
+    "395": {
+        "「……これで　みんな助かるはずだ。|　<cs_pchero>。カーラモーラ村へ　帰ろう。": "... This will help us all...<cs_pchero>. To the village of Carla Mora..."
+    },
+    "396": {
+        "「あいつは　ずっと　楽園を守ってきたんだ。|　闇の領界を浄化するのを　邪魔されないように。": "He's been protecting paradise for so long...|No one can stop him from cleansing the Dark|Realm."
+    },
+    "397": {
+        "「だけど　いつか…… |　闇の領界が　完全に　浄化されたら|　ボクは　あいつと　友だちになるんだ。": "But one day... When the Dark Realm is|completely cleansed, I'll be friends with|him."
+    },
+    "398": {
+        "「いつか……きっと。": "Someday: ......"
+    },
+    "399": {
+        "<cs_pchero>たちは|カーラモーラ村へ　帰った……。": "<cs_pchero>They returned to the village of Carla Mora..."
+    },
+    "400": {
+        "「先ほど　浄月の間を　月の光が満たした。|　皆の毒は　すべて月が　いやしてくれた。": "A moment ago, the moonlight filled the Pure|Moon. The moon has wiped out all your poison."
+    },
+    "401": {
+        "「お前たちの　おかげだな。|　サジェ……": "You guys... Sajé..."
+    },
+    "402": {
+        "「そして　<cs_pchero>。|　心より感謝する。": ""
+    },
+    "403": {
+        "「あんた　ちゃんとサジェを護衛したんだろうな？|　見たところ　こいつに　ケガはないようだが……": "I hope you escorted Saje out of there|properly. From the looks of it, he's|unharmed, but..."
+    },
+    "404": {
+        "「<cs_pchero>には　すごく　助けられたよ。|　ボクだけじゃ　月を修理することも|　楽園から　生きて戻ることも　できなかった。": "<cs_pchero>I've been so helpful. I can't fix the moon or|bring you back from paradise alive..."
+    },
+    "405": {
+        "「楽園とは　いかなる地だった？　サジェ。|　お前の見たまま感じたままを　教えてくれ。": "What was paradise like? ... Tell me what you|see, what you feel..."
+    },
+    "406": {
+        "「…………。": "..."
+    },
+    "407": {
+        "「……おそろしい場所だったよ。|　言い伝え通り　悪魔が棲んでいて……": "... It's a horrible place... It's a place|where the devil lives, as they say."
+    },
+    "408": {
+        "「とても竜族が暮らせる場所じゃなかった。|　ボクも　二度と行かないよ。": "This is no place for a dragon clan... I'm|never going back there."
+    },
+    "409": {
+        "「……そうか。": "......"
+    },
+    "410": {
+        "「月の光は　すばらしいものだ。|　でも　今回みたいに　消えることだってある。": "The light of the moon is wonderful... But to|disappear like this..."
+    },
+    "411": {
+        "「だから　ボクは　これからは|　月の光に頼らなくても　みんなが元気に暮らせる|　そんな未来を作るために　研究を続けるよ。": "That's why, from now on, I'll continue my|research in order to create a future where we|don't need to rely on moonlight to live a|<br>|healthy life..."
+    },
+    "412": {
+        "「ああ。うさんくさい　楽園なんかより|　俺たちのチカラで　闇の領界を守っていこう。|　協力するぞ　サジェ！": "Yes. Instead of a shady paradise, we'll use|our powers to protect the Dark Realm... I'm|with you, Sajeev!"
+    },
+    "413": {
+        "「みんな治ったって　言ってたけど|　あの　異種族の女の人は？　彼女は　どこ？": "You said everyone was cured, but what about|that alien woman? Where is she?"
+    },
+    "414": {
+        "「私だったら　このとおり元気よ！": "If I were you, I'd be just fine!"
+    },
+    "415": {
+        "「…………！": "...！"
+    },
+    "416": {
+        "「あなたたちが　助けてくれたのね。|　おかげで　すっかり元気になったわ。|　ありがとう　サジェ。<cs_pchero>さん。": "You guys helped me... You've made me feel so|much better. Thank you...<cs_pchero>San."
+    },
+    "417": {
+        "「まだ　子どもなのに　あなたってすごいのね。|　迷惑をかけて　ごめんなさい。": "You're just a kid. You're amazing... I'm|sorry I bothered you..."
+    },
+    "418": {
+        "「…………。": "..."
+    },
+    "419": {
+        "「<cs_pchero>さんたちが　お戻りになるまでの間|　マイユさんから　事情はうかがいました。": "<cs_pchero>Until the two of you return, I'd like to know|what's going on with Ms. Mayle."
+    },
+    "420": {
+        "「なんでも　婚約者のアロルドさんを　苦しめる|　毒の治療法を探すため　マイユさんは|　ナドラガンドへ　やって来られたそうですね。": "It is said that Miss Mayle has come to|Nadragand to find a cure for the poison that|afflicts her fiancé, Mr. Arrold."
+    },
+    "421": {
+        "「<cs_pchero>さんと　奈落の門で　はぐれてから|　私　気を失ってしまって|　……気がついたら　ここに　落ちてきてたの。": "<cs_pchero>After I got separated from you at the Gate of|Abyss, I fainted and... And then I found|myself here..."
+    },
+    "422": {
+        "「……闇の領界の　月の光は　すごいわね。|　アロルドの容態が　もう少し　軽ければ……|　ここへ連れてこられれば　助けられるのに……。": "... The moonlight in the Dark Realm is|amazing. If Arold's condition were less|severe... If only we could bring him here, we|<br>|could save him."
+    },
+    "423": {
+        "「遠方にいる　病身の方を|　はるばる　この地まで連れてくるより|　もっとよい治療法が　ありますぞ。": "There are better treatments than bringing a|sick man from far away to this place..."
+    },
+    "424": {
+        "「神官長ナダイアさま！？": "Chief Priestess Nadeia!"
+    },
+    "425": {
+        "「それに　トビアスまで……。|　どうして　おふたりが　ここに。": "And Tobias... How did you two..."
+    },
+    "426": {
+        "「お前からの報告にあった|　人を宝石化する術を使う　怪しい人物……|　その者について調査するため　おもむいたのだ。": "You reported a mysterious person who uses the|art of turning people into jewels... I've|come to investigate..."
+    },
+    "427": {
+        "「ご多忙な中を　ぬって|　遠い　闇の領界まで　お越しになられた|　ナダイアさまに　感謝するのだな。": "I would like to thank you, Nadeia, for taking|time out of your busy schedule to travel so|far into the Dark Realm."
+    },
+    "428": {
+        "「マイユさん。あなたの故郷を襲った|　アンテロという竜族については|　わが　ナドラガ教団でも　把握しております。": "My... The dragon tribe that attacked your|homeland, the Antero, is known to us at the|Nadraga cult..."
+    },
+    "429": {
+        "「アンテロが用いたという毒が|　ナドラガンドのものと言うなら　おそらく|　あなたの身体を　むしばんだものと同種のもの。": "If you're saying that the poison that Antero|used was from Nadragand, then it's probably|the same kind that wreaked havoc on your|<br>|body."
+    },
+    "430": {
+        "「毒を克服した者の身体には　同じ毒に対する|　抗体ができる。あなたの協力があれば|　解毒剤も　すぐに　できるかもしれません。": "The body of someone who's conquered a poison|has antibodies to the same poison. With your|help, we may soon have an antidote."
+    },
+    "431": {
+        "「アロルドが　治るんですかっ！？": "You're going to heal Arold?"
+    },
+    "432": {
+        "「ナドラガ教団の薬師たちは　有能だ。|　我々に　まかせていただきたい。": "The medicine men of the Order of Nadraga...|We are at your disposal..."
+    },
+    "433": {
+        "「同じ竜族であるアンテロが　あなたがた|　アストルティアの民を苦しめた　おわびに|　少しでも　つぐないをしたいのです。": "I want to do something to make up for the|pain that Antero, a member of the same dragon|tribe, caused you and the people of|<br>|Astrotasia."
+    },
+    "434": {
+        "「……ありがとうございます。|　私　よろこんで　協力します！": "... Thank you for... I'd be happy to help!"
+    },
+    "435": {
+        "「その前に　我々は　怪しい術師が現れたという|　浄月の間を　調査せねばなりません。|　しばし　お待ちを。": "But first, we must investigate the Jyotetsu|Room, where a mysterious sorcerer is said to|have appeared... One moment..."
+    },
+    "436": {
+        "「あの時　何が起きたのかについては|　私から説明いたします。": "I can explain what happened then..."
+    },
+    "437": {
+        "「サジェ！　<cs_pchero>さん！": "Saje!<cs_pchero>Three!"
+    },
+    "438": {
+        "「アロルドを治す方法が|　とうとう　見つかるかもしれないなんて……。|　これも　あなたたちの　おかげね。": "I can't believe we're finally gonna find a|cure for arold. This is all thanks to you..."
+    },
+    "439": {
+        "「………………。": "..."
+    },
+    "440": {
+        "「ナドラガ教団の人たちの　調査が終わったら|　いっしょに　出発するつもりよ。|　<cs_pchero>さんは　旅を　続けるんでしょう？": "When we're done investigating the people of|the Nadraga cult, we'll leave together...<cs_pchero>You're going to continue your journey, aren't|you?"
+    },
+    "441": {
+        "「……どうしたの？　サジェ。|　私に　何か　言いたそうだけど……。": "... What's going on? It's just... You look|like you want to say something to me, but..."
+    },
+    "442": {
+        "「待って　サジェ……！　どこへ行くの！？|　<cs_pchero>さん。|　私　ちょっと　サジェの様子をみてくるわ！": "Wait, Saje...! Where are you going?<cs_pchero>Mr. I'm going to go check on Sajie!"
+    },
+    "443": {
+        "「さっきは　どうしたの？　サジェ。|　急に　走りだしたりして……。": "What's wrong with you? I... I don't know. He|just started running and..."
+    },
+    "444": {
+        "「きれいなところね……。": "It's beautiful..."
+    },
+    "445": {
+        "「初めて　闇の領界に着いたときは|　あんまり　まっくらだから　びっくりしたけど|　私　この村が　気に入ったわ。": "When I first arrived in the Dark Realm, I was|surprised at how dark it was, but I liked|this village..."
+    },
+    "446": {
+        "「……そう。よかった。": "..... よ..."
+    },
+    "447": {
+        "「あなたには　２回も　助けられたわね。|　毒を浴びて倒れてしまった私を　運んでもらって|　月の光を取り戻して　助けてくれて……。": "You've saved my life twice. I was poisoned,|and you carried me out, and you brought me|back to the light of the moon, and you saved|<br>|me..."
+    },
+    "448": {
+        "「故郷に帰っても　あなたのことは忘れないわ。|　本当にありがとう　サジェ。": "I'll miss you back home... Thank you so|much..."
+    },
+    "449": {
+        "「お礼を言わなきゃいけないのは|　ボクのほうだよ。": "I guess I should be thanking you..."
+    },
+    "450": {
+        "「最初に　あなたを　毒から　かばったこと？|　あんな場面に　遭遇したら|　誰だって　同じことをするわ。気にしないで。": "That I protected you from the poison the|first time? Anybody who's ever been in that|situation would have done the same thing. I|<br>|don't know."
+    },
+    "451": {
+        "「バジューさんから　聞いたわ。|　あなたの　亡くなったお姉さんって|　私と　同じぐらいの年だったんでしょう？": "Mr. Baju told me... Your late sister was|about my age, right?"
+    },
+    "452": {
+        "「もし　私のせいで　つらい思い出が|　よみがえってしまったなら　謝りたくて。|　ごめんなさい……。": "If I've brought back any bad memories for|you, I apologize... I'm sorry..."
+    },
+    "453": {
+        "「……そんなの！！": "... Oh, no!"
+    },
+    "454": {
+        "「あなたが謝る必要なんて　ない。|　そもそも　デリダ姉さんが　死んだのは|　ボクのせいなんだから……。": "You don't have to apologize. It was my fault|that Derrida died in the first place, so..."
+    },
+    "455": {
+        "「ボクは　そのことをずっと悔やんで生きてきた。 |　けど　今回は……": "I've lived my whole life regretting that...|But this time..."
+    },
+    "456": {
+        "「やっと　助けることが　できたんだね……。": "You were finally able to help..."
+    },
+    "457": {
+        "「ごめん　もう出発するんだよね。|　それじゃあ　気をつけてね。さよなら……。": "I'm sorry, I have to leave... Well, take|care... Bye..."
+    },
+    "458": {
+        "「待って　サジェ！": "Wait, Saje!"
+    },
+    "459": {
+        "「…………。": "..."
+    },
+    "460": {
+        "「私もね　しばらく前|　自分のせいで　大切な人たちに　|　ひどいケガをさせてしまったことが　あるの。": "A while back, I, too, caused terrible|injuries to people I care about..."
+    },
+    "461": {
+        "「私を狙う悪者に　故郷の村が　襲われて……|　父さんは　大ケガにも　かかわらず|　私が　無事でよかったと　笑ったわ。": "I was attacked in my home village by a|villain who wanted me dead. My father smiled|and said he was glad I was safe, despite my|<br>|terrible injuries."
+    },
+    "462": {
+        "「お前が　笑顔でいるだけで　救われてきた。|　もっと　親である自分のことを|　頼ってほしい……って。": "Just because you're smiling doesn't mean|you're not... I wish you could rely on me|more as your parent. ....."
+    },
+    "463": {
+        "「もちろん　あなたと　お姉さんの間のことは|　私には　わからないわ。|　でも　私に弟がいたら　きっと　こう思う。": "Of course, I don't know what happened between|you and your sister, but... But if I had a|brother, he'd be..."
+    },
+    "464": {
+        "「サジェを　助けられてよかった。|　私のぶんまで　幸せになってほしい……って。": "I'm glad you were able to save Saje. I want|you to be as happy as I am. ....."
+    },
+    "465": {
+        "「あの　一度だけ……。|　イヤじゃなかったらで　いいんだけど……。": "You know, just once... I mean, if you don't|mind..."
+    },
+    "466": {
+        "「……一度だけ　あなたのこと|　姉さんって呼んでも……": " Just once, about you| You can call me sister"
+    },
+    "467": {
+        "「ごめん　なんでもない！！": "Sorry, it's nothing!"
+    },
+    "468": {
+        "「……サジェ。よく　がんばったわね。|　月を　元通りにしてくれて　ありがとう。": "...... Good work... Thank you for putting the|moon back..."
+    },
+    "469": {
+        "「……ありがとう。": "... There is..."
+    },
+    "470": {
+        "「姉さん……。": "Sis..."
+    },
+    "471": {
+        "「……月は　よみがえり|　村人たちは　皆　救われた。|　すべて　お前のおかげだ　<pc>。": "... The moon has risen, and the villagers|have been saved. All because of you.<pc> 。"
+    },
+    "472": {
+        "「闇の領界は　もう心配ない。|　じきに　旅立つのだろう？|　せんべつ代わりに　これを　受け取ってくれ。": "The Dark Realm is in your mind. You'll be|leaving soon, won't you? Please accept this|as a gift..."
+    },
+    "473": {
+        "「<pc>……達者でな。|　お前は　村の恩人だ。|　また会える日を　楽しみにしているぞ。": "<pc> ... People... You are the village... I look|forward to seeing you again..."
+    },
+    "474": {
+        "「ナダイアさま。|　浄月の間の調査は　終了しました。|　ひとまず　神殿へ帰還いたしましょう。": "Nadai... The search for the Pure Moon Chamber|has ended... We have returned to the|temple..."
+    },
+    "475": {
+        "「あいわかった。|　……本部へと戻る前に　エステラ。": "Aww... ... Before we head back to|headquarters, E..."
+    },
+    "476": {
+        "「お前の使命は　滅びかけた村を救うことではなく|　次の領界への道を　開くことだ。|　……違うかね？": "Your mission is not to save a dying|village... but to pave the way for the next|realm... ... Isn't that right?"
+    },
+    "477": {
+        "「……申し訳ございません。|　ですが　あのまま　放っておくことは|　私には　どうしても……！": "... I'm sorry... But I can't just leave her|like that. I can't..."
+    },
+    "478": {
+        "「情の深きは　よき神官の証でもある。|　だが　エステラ。|　お前に課せられた使命は　竜族全体を救うもの。": "A good heart is the mark of a good priest...|But, E... Your mission is to save the entire|dragon race..."
+    },
+    "479": {
+        "「お前でなければ　できぬことなのだ。|　今後は　己の立場と使命を|　もっと自覚して　行動しなさい。よいな？": "You are the only one who can do this. From|now on, you must be more aware of your|position and your mission... and act|<br>|accordingly. Do you understand?"
+    },
+    "480": {
+        "「……わかりました。|　二度と　このようなことは。": "... I know... I'll never..."
+    },
+    "481": {
+        "「よろしい。|　では　マイユさん　参りましょうか。": "Well... Okay, Miss Mayle, here we go..."
+    },
+    "482": {
+        "「……はい。|　よろしくお願いします。": "..... Nice to meet you..."
+    },
+    "483": {
+        "「さよなら　マイユさん……。|　また　遊びに来て。": "Goodbye, Miss Mayle... Play again..."
+    },
+    "484": {
+        "「もちろん！　アロルドが元気になったら|　ふたりで　あなたに　会いに来るわ。|　<pc>さん　サジェ　元気でね！": "Of course! When Thorold is well enough, we'll|come and see you.<pc> Mr. Saje, take care!"
+    },
+    "485": {
+        "「ダストンさんといい　マイユさんといい|　<pc>さんのご友人は　良い方々ですね。|　無事に　再会できて　本当によかった……。": "Mr Daston, Mr Mayle|<pc> Your friends are good people... I'm so glad|that we met again..."
+    },
+    "486": {
+        "「それにしても　あの神官長ナダイアさまが |　わざわざ　闇の領界まで　おいでになるとは|　おどろきました。": "I'm still surprised that the High Priestess|Nadeia would come all the way to the Dark|Realm."
+    },
+    "487": {
+        "「ひさしぶりに　ナダイアさまから　おしかりを|　受けてしまいましたわ。私情に流されぬよう|　もっと　みずからを戒めねばなりませんね……。": "For the first time in a long time, I'm being|chastised by Nadaiah... I must be more|careful not to let my personal feelings get|<br>|the better of me..."
+    },
+    "488": {
+        "「<pc>さんが　長い間　探しておられた|　ご友人のマイユさんも　見つかったことですし|　我々は　先を目指しましょう。": "<pc> Now that you've found your friend Mayu, the|one you've been looking for for so long,|we'll move on..."
+    },
+    "489": {
+        "「いまだ　調査できていないのは|　楽園と呼ばれる場所だけです。|　おそらく　次の領界への塔の入口は　そこに。": "What we have yet to explore is a place called|paradise... Perhaps the entrance to the tower|to the next realm..."
+    },
+    "490": {
+        "「では　出発いたしましょう。 |　準備ができ次第　<pc>さんも|　楽園まで　来てください。": "Okay, we're leaving... As soon as we're|ready.<pc> I'm so glad you could make it to paradise."
+    },
+    "491": {
+        "「ここが　次の領界への道を開く塔の入口……|　思った通り　下へと降りていく|　構造のようですね。": "This is the entrance to the tower that opens|the way to the next realm... As I expected,|it's structured to descend..."
+    },
+    "492": {
+        "「楽園と呼ばれる　この　闇の領界の頂は|　想像を　はるかに超えた場所のようですね……。": "The summit of this dark realm known as|paradise seems to be a place far beyond our|imagination..."
+    },
+    "493": {
+        "「それに　この塔……。|　下へ下へと　降りていくなんて|　塔というには　あまりに奇妙……。": "And this tower... It's too weird to be a|tower, because it goes down, down, down."
+    },
+    "494": {
+        "「何が　待ち受けているのか　予想もつきません。|　<pc>さん。|　気をつけて　進みましょう。": "We have no idea what's in store for us...<pc> Three. Proceed with caution..."
+    },
+    "495": {
+        "「この聖塔にも　やはり|　挑戦者を試す試練があるようですね……。": "It seems that this holy tower also has a test|to test the challenger..."
+    },
+    "496": {
+        "「あら……？　この石碑は……。": "Oh...? This monument is..."
+    },
+    "497": {
+        "「この　……と呼ばれる地は|　かつて　空に浮かぶ大地であったが|　悪しき……により　けがされた……？": "This land... Was once a land in the sky...|The evil..."
+    },
+    "498": {
+        "「月とは　毒を　消し去るもの。|　大いなる神々により　作られし月は　永劫の後|　……から　すべての毒を消し去る。": "The moon is the antidote to poison. The moon,|made by the great gods, will, after all|eternity... The moon will remove all poison|<br>|from..."
+    },
+    "499": {
+        "「大地を　けがしたる……たち　その大罪は|　……をむしばむ毒が　消え去る日まで|　あがなわれることなし。": "...the earth... \"and his great sin...|...shall not be avenged until the day that|the poison that poisoned the earth..."
+    },
+    "500": {
+        "「神々に背きし罪人は|　……に近づくこと　あたわず。|　掟を破らば　……に裁かれるであろう……？": "A sinner who disobeys the gods... ...shall|not come near... ...shall be judged by...|...shall be judged by...?"
+    },
+    "501": {
+        "「この　けがされた大地というのは |　おそらく　闇の領界のことと　思われますが……|　問題は　後半です。": "This place of ruined land is probably the|Dark Realm, but... The question is..."
+    },
+    "502": {
+        "「神に背きし罪人とは……|　何を　示すのでしょうか？": "A sinner who disobeys God... What does it|indicate?"
+    },
+    "503": {
+        "「その　何者かが　この領界を　けがした……？|　神話の時代に　いったい|　何があったというのでしょう？": "That something has torn this realm apart?|What could have happened in those mythical|times?"
+    },
+    "504": {
+        "「……ここで知ったことは　のちほど|　総主教さまに　ご報告しておきましょう。": "... I'll tell the Patriarch what I learned|here..."
+    },
+    "505": {
+        "「この石碑のことは　気にはなりますが|　今は　先を急がねばなりません。|　まいりましょう　<pc>さん……。": "I'm curious about this monument, but for now,|we must hurry... Let's go.<pc> Miss..."
+    },
+    "506": {
+        "「真っ暗ですね……。|　ここで　最後の試練を乗り越えれば|　いよいよ　次の領界のはずですが……。": "It's pitch black... If we can overcome the|final ordeal here, we should finally be in|the next realm, but..."
+    },
+    "507": {
+        "<center>荒ぶるワギが　打ち込みし|闇のくさびを　取り払わんとする者よ。": "To remove the wedge of darkness driven by the|raging wagi..."
+    },
+    "508": {
+        "「水の領界への道を　開くため|　共に　戦いましょう。<cs_pchero>さん！": "Together we will fight to open the way to the|Water Realm.<cs_pchero>Three!"
+    },
+    "509": {
+        "「何者です！？|　その円盤を　返しなさい！": "Who the hell are you? Give me back that disk!"
+    },
+    "510": {
+        "「邪悪なる意志……！？|　お前が　そうだというの……！": "An evil will? That's what you are?"
+    },
+    "511": {
+        "<pc>は　台座のくぼみに|闇の解錠の円盤を　はめ込んだ！": "<pc> has wedged the dark unlocking disk into the|hollow of the pedestal!"
+    },
+    "512": {
+        "「水の領界への　通路が……！|　<pc>さん　ありがとうございます。": "The passage to the Water Realm.<pc> Thank you, Mr..."
+    },
+    "513": {
+        "「きっと　総主教オルストフさまも|　およろこびに　なられるはず。|　私は　教団本部へ　報告に向かいましょう。": "I'm sure Patriarch Orstov will be pleased...|I'm on my way to the Order's headquarters to|report..."
+    },
+    "514": {
+        "「闇の領界で　あらためて|　自分の未熟さを　思い知らされました……。|　もっと　お役に立てるよう　強くならねば……。": "In the Dark Realm, I was reminded once again|of my inexperience... I must become stronger|so that I can be of more use to you."
+    },
+    "515": {
+        "「それでは　私は　これで……。|　水の領界へ　旅立たれる日まで|　しばし　ご休息をお取りくださいませ。": "Well, I'll leave you to it. Until the day you|depart for the watery realm, please take some|time to rest..."
+    },
+    "516": {
+        "「では……みんな　お願いします。": "So... Guys, please..."
+    },
+    "517": {
+        "「<pc>は　あの人が心配で来たんだ。|　……さあ　こっちへ来て。": "<pc> I came here because I'm worried about you.|... Come here..."
+    },
+    "518": {
+        "「そうだ　<pc>。エルジュが戻るまでの間|　キミにも　やってほしいことがある。": "That's right<pc> I want you to... I need you to do something|for me while I'm waiting for Elge to return."
+    },
+    "519": {
+        "「ランドン山脈にいる　ストーンマンを倒すと|　奇岩の呪符が　手に入るはずだ。|　それを　１枚　持ってきてほしい。": "If you kill the Stoneman in the Landon|Mountains, you'll get a spell for the strange|rock. Bring me one of those..."
+    },
+    "520": {
+        "<center>我に挑み　チカラを示せ。|さすれば　水の領界への道が|そなたの前に　開けるであろう。": "Challenge me, my strength... And the way to|the Water Realm will open before you."
+    },
+    "521": {
+        "「まだ　上へ　移動してるね。|　いったい　どこまで　行くんだろう……。": "We're still moving up... I don't know where|we're going..."
+    },
+    "522": {
+        "「生命反応ヲ　感知。|　滅菌処理　すたーと。": "Vital signs... Sterilization..."
+    },
+    "523": {
+        "なんと　<cs_pchero>たちの|ＨＰとＭＰが　全回復した！<se_nots Joutyu_SE 38>": "what<cs_pchero>Their HP and MP have been restored!<se_nots Joutyu_SE 38>"
+    },
+    "524": {
+        "「ありがとう　みんな。|　……<cs_pchero>。|　奇岩の呪符を　ボクに　渡してくれ。<yesno><close>": "Thank you. Thank you. ...<cs_pchero>I... You gave me the spell of the strange|rock...<yesno><close>"
+    },
+    "525": {
+        "<cs_pchero>は|奇岩の呪符を　エルジュに　渡した！": "<cs_pchero>has given the strange rock spell to Elge!"
+    },
+    "526": {
+        "「亡き父　ベルンハルトにかわり|　破邪舟師　エルジュが|　ここに　四重の封空への道を開く……": "On behalf of my late father, Bernhard| The shipwrecked sailor, Elge| Here, we open the way to the quadruple sealed sky"
+    },
+    "527": {
+        "「他でもない　<pc>の頼みだ。|　継承の儀の時　助けてもらった礼をしたいんだ。|　なんとしてでも　あとのふたりを説得する。": "the fact of the matter is<pc> I... During the ceremony of succession, I|thanked you for your help... I'll do whatever|I can to convince the other two..."
+    },
+    "528": {
+        "「……ああ　頼んだよ。": "... Oh, please..."
+    },
+    "529": {
+        "「ここで　いったい　何をしているのです！？": "What the hell are you doing here?"
+    },
+    "530": {
+        "「これが　解錠の円盤か……。|　神の遺物というから　期待したのだが……。": "So this is the unlocking disk. I expected it|to be a relic of God, but..."
+    },
+    "531": {
+        "「我は　邪悪なる意志と　呼ばれし者。": "I am called the evil will..."
+    },
+    "532": {
+        "「我等の　崇高な理想を　理解できぬ|　愚かなる貴様らに　名乗るならば|　この名が　ふさわしいだろう……。": "If I had to name a name for those of you who|are too stupid to understand our high ideals,|this would be it."
+    },
+    "533": {
+        "「解放者よ。|　貴様のことは　ずっと　見ていたぞ……。": "I... I've been watching you..."
+    },
+    "534": {
+        "「……<cs_pchero>さんに|　害をなすことは　許しません！": "<cs_pchero>I will not allow any harm to come to you!"
+    },
+    "535": {
+        "「なっ……！？": "What the...?"
+    },
+    "536": {
+        "「無駄だ　若き神官よ。": "It's no use. Young..."
+    },
+    "537": {
+        "「聖鳥すらも　魔の者へと堕した　この私に|　神官ふぜいが　かなうと思うたか？": "Even the holy birds have fallen to the|demons. Do you think I'm worthy of the|Priestess?"
+    },
+    "538": {
+        "「聖鳥を……！？": "The holy bird...?"
+    },
+    "539": {
+        "「まさか……|　恵みの木を凍らせた魔物　フロスティや|　月を落とした　あの魔物も　お前が……！": "You can't mean... Frosty, the demon who froze|the tree of bounty, and that demon who|dropped the moon..."
+    },
+    "540": {
+        "「いかにも。": "い..."
+    },
+    "541": {
+        "「我が恩寵により　ナドラガンドに|　混沌の芽が　もたらされたのだ。": "By my grace, a sprout of chaos has sprung up|in Nadragand..."
+    },
+    "542": {
+        "「貴様に　邪魔されるまでは……な。": "Not until you interrupt me. ...."
+    },
+    "543": {
+        "「その言葉が　真実であるならば|　とうてい　許しては　おけません！": "If what you say is true, I cannot allow it!"
+    },
+    "544": {
+        "「<cs_pchero>さん。|　この者を　倒しましょう！": "<cs_pchero>Three. Let's take this one down!"
+    },
+    "545": {
+        "「……覚悟なさい！！": "... Brace yourselves!"
+    },
+    "546": {
+        "「この程度も　防げぬとはな……。|　命を奪うにも　値せぬ。": "You can't prevent something like this from|happening. To take a life..."
+    },
+    "547": {
+        "「……ナドラガンドに　さらなる混沌を。|　絶え間なき苦しみで|　竜族の犯した罪を　あがなうのだ……。": "... Nadragand will have to suffer... ...for|the crimes of the Dragon People..."
+    },
+    "548": {
+        "「解放者よ。|　次は　もっと　我を楽しませてくれ。|　……期待しているぞ。": "It's over. Next time, you will entertain me|more... ... In anticipation..."
+    },
+    "549": {
+        "「お待ちなさい！！|　あなたは　いったい……！": "Wait, wait, wait, wait! What are you...?"
+    },
+    "550": {
+        "「………………。": "..."
+    },
+    "551": {
+        "「……私では　手も足も出なかった。": "I... I can't help you. I can't help you."
+    },
+    "552": {
+        "「おそるべき使い手でした……。": "He was a fearsome user..."
+    },
+    "553": {
+        "「あやつの狙いが　なんなのかは　わかりませんが|　解錠の円盤は　無事のようです。": "I don't know what he's after, but I'm pretty|sure the locking disc is safe..."
+    },
+    "554": {
+        "「さあ　<cs_pchero>さん。|　この円盤を　お持ちください……。": "well<cs_pchero>sir. Please take this disk..."
+    },
+    "555": {
+        "<cs_pchero>は|闇の解錠の円盤（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>I've got the dark unlocking disk!<me 60>"
+    },
+    "556": {
+        "「これで……|　次の領界への道が　開かれるのですね。": "And this... It will open the way to the next|realm."
+    },
+    "557": {
+        "「……水の領界も　闇の領界と同じように|　あの　邪悪なる意志によって|　苦しめられているのでしょうか……。": "... I wonder if the Water Realm is tormented|by the same evil will as the Dark Realm..."
+    },
+    "558": {
+        "「<cs_pchero>さん……いえ　解放者さま。|　どうか　次なる領界の民も　お救いください。|　私も　精一杯　お手伝いします。": "<cs_pchero>Mr... No, liberate... Please help me save the|people of the next realm... I will do my best|to help..."
+    },
+    "559": {
+        "「たしか　円盤をはめられる台座は|　この冥闇の聖塔の近くに　あったはずです。|　さっそく　まいりましょう。": "I think there's a base for the discs near the|Dark Tower. I'll be right there..."
+    },
+    "560": {
+        "「旅のお方……。|　この　チビすけを　よろしく頼みますぞ。": "Travelers... Take care of this little guy for|me..."
+    },
+    "561": {
+        "「ここが　伝説の楽園なんだ……。": "This is the paradise of legend..."
+    },
+    "562": {
+        "<cs_pchero>は　サジェに|サルファバリンの原料が　アストルティアに|あるらしいことを　伝えた！": "<cs_pchero>told Saje that the raw materials for|sulfavaline were apparently located in|Astrotasia!"
+    },
+    "563": {
+        "「これは……古代文字ですね。|　古い祈祷書に　記されたものと　似ています。|　……すこし　読んでみましょう。": "This is... Ancient writing... It's similar to|what's written in the old prayer book. ...|I'll have a look at it..."
+    },
+    "564": {
+        "「<cs_pchero>さん　ご無事でしたか！": "<cs_pchero>Mr. White, I hope you're okay!"
+    },
+    "565": {
+        "「これが　最後の試練です。|　水の領界への道を　開くために|　共に　戦いましょう！": "This is the final test... Let us fight|together to open the way to the Water Realm!"
+    },
+    "566": {
+        "サジェは　楽園のカギを　手に入れた！": "Saje got the key to paradise!"
+    },
+    "567": {
+        "「帰りが遅い……。|　ボクたちも　もう　限界だ……。": "You're home late. We've reached our limit."
+    },
+    "568": {
+        "「……まっくらだね。|　ここで　行き止まり？": "... Straight ahead... Is this the end of the|line?"
+    },
+    "569": {
+        "「いや……。|　きっと　どこかに　楽園へ続く道があるはず……": "No, no, no. There must be a path to paradise|somewhere..."
+    },
+    "570": {
+        "「風の流れを　感じない……。|　おそらく……ここは　部屋だ。|　どこかに　扉が　ないかな？": "I can't feel the wind... I think... This|place... I don't suppose there's a door|anywhere?"
+    },
+    "571": {
+        "「わっ！？　な　なに……": "Wha...? What the..."
+    },
+    "572": {
+        "「この部屋……移動してるみたいだ。": "This room... I think they're moving..."
+    },
+    "573": {
+        "「上に　向かってる……？": "Heading up...?"
+    },
+    "574": {
+        "「やはり　月を求めて　現れたな……。|　だが　楽園へ　行かせるわけには　いかん！": "I knew you'd come for the moon. But I can't|let you go to paradise!"
+    },
+    "575": {
+        "「こいつら……|　月を襲った悪魔の　仲間だ！": "These men... They're with the demons that|attacked the moon!"
+    },
+    "576": {
+        "「月を失い　楽園を目指す道半ば|　希望さえも失い|　絶望のうちに　死ぬがよい！": "You've lost the moon, you're halfway to|paradise, you've lost all hope, and you'll|die in despair!"
+    },
+    "577": {
+        "「うわあああっ！|　助けて　<cs_pchero>！！": "Ohh! Ohh! Help!<cs_pchero>No!"
+    },
+    "578": {
+        "「楽園へ　近づくことは　許さぬ……。|　月を失い　楽園への道半ば　希望さえも失い|　絶望のうちに　死ぬがよい！": "I will not allow you to approach paradise...|You have lost the moon, you are halfway to|paradise, you have lost all hope, and you|<br>|will die in despair!"
+    },
+    "579": {
+        "「うわあああっ！|　助けて　<pc>！！": "Ohh! Ohh! Help!<pc> No!"
+    },
+    "580": {
+        "<cs_pchero>は|魔獣サルファバルから|サルファバル鉱（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>You've got the Sarfabal Ore from Sarfabal the|Hexenbiest!<me 60>"
+    },
+    "581": {
+        "「か……身体が　動かない……！？": "I can't... I can't move my body."
+    },
+    "582": {
+        "「助けて　<cs_pchero>！！": "Help me<cs_pchero>No!"
+    },
+    "583": {
+        "「へだてられし領界は　あと　わずか……。|　ナドラガンドが　ふたたび　光を取り戻す日は|　もうすぐ　訪れるはず……。": "The realms that lie between us are few and|far between. The day will soon come when|Nadragand will once more regain its light."
+    },
+    "584": {
+        "「たゆたう炎よ……。 |　解放者が歩みゆく　新たなる未来を|　今ここに　示しておくれ。": "O flickering flame... A new future for the|liberators to walk in, here and now..."
+    },
+    "585": {
+        "「……竜族の夜明けは　近い。|　されど　夜明け前の空は　もっとも暗きもの。|　解放者は　苦難の道を　歩むでしょう。": "... The dawn of the Dragon People... But the|sky before the dawn is darkest... The path of|the free will be a hard one..."
+    },
+    "586": {
+        "「我らが神　ナドラガ神よ。|　どうか　竜族の民を　お守りくだされ……。| ": "Our God, Nadra... Please protect the people|of the Dragon People..."
+    },
+    "587": {
+        "「でも……どんな危険があったって|　ボクは　楽園へ行くよ。": "But... No matter what the risk, I'm going to|paradise..."
+    },
+    "588": {
+        "「でも　あの場所は……。": "But that place..."
+    },
+    "589": {
+        "「この石……動くぞ。|　もしかしたら　ここに……": "This stone: ...... Maybe it's here..."
+    },
+    "590": {
+        "「<cs_pchero>　……どうか　気をつけて。": "<cs_pchero>Please... Please, be careful..."
+    },
+    "591": {
+        "「楽園へ行くことを　誰より厳しく禁じていたのは|　村長　あなたじゃないか！": "The one who forbade me to go to paradise more|strictly than anyone else was you, Chief!"
+    },
+    "592": {
+        "「そんなことしたって|　死者は　還らないのに……。": "You can't bring the dead back."
+    },
+    "593": {
+        "「こんな時に　冗談は　やめてくれ。|　村のみんなを　助けるためなんだ。|　お願いだ。サルファバリンを　渡してやってよ。<yesno><close>": "This is not the time to joke... I'm trying to|save the village. Oh... I need you to give me|some sulfavaline...<yesno><close>"
+    },
+    "594": {
+        "「もうしばらく　待っていれば|　月が　動きだすんじゃないかな……たぶん。": "I think if we wait a little longer, the moon|will start to move. ......"
+    },
+    "595": {
+        "「Ｑ４８４が……　楽園の悪魔だったんだ……。": "Q484... He was the devil of paradise..."
+    },
+    "596": {
+        "「危ない目にも　あったけど|　キミのおかげで　生き延びられたし……。": "I've been in a lot of danger, but you've kept|me alive."
+    },
+    "597": {
+        "「……でも。": "....."
+    },
+    "598": {
+        "「……ありがとう　Ｑ４８４。|　壊れる前に　ちゃんと|　月を　直しておいてくれたんだね。": "... Thank you, Q... You fixed the moon for me|before it broke..."
+    },
+    "599": {
+        "「あちこち　さまよう間に　サジェと出会って……|　それからのことは　<cs_pchero>さんのほうが|　きっと　よく　知っているはずよね。": "While I was wandering from place to place, I met Saje| What happened after that?<cs_pchero>I'm sure you know better than I do."
+    },
+    "600": {
+        "「では　マイユさん。また　のちほど。": "So, My... And..."
+    },
+    "601": {
+        "「……やっと　見つけた。": "... Finally..."
+    },
+    "602": {
+        "「さあ　こっちへ……。": "Come on, come on..."
+    },
+    "603": {
+        "「今日のところは　|　その人を連れていくのは　やめておくよ……。": "I'm not taking that man with me today..."
+    },
+    "604": {
+        "<if_woman>「だけど　姉ちゃん……。|　これだけは　覚えておいてよ。<else>「だけど　兄ちゃん……。|　これだけは　覚えておいてよ。<endif>": "<if_woman>But, Sis... I just want you to remember...<else>But, brother... I just want you to|remember...<endif>"
+    },
+    "605": {
+        "<if_woman>「邪悪なる意志は|　姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は|　兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>Your evil intentions are very close to my|sister's.<else>Your evil intentions are so close to my|brother's...<endif>"
+    },
+    "606": {
+        "「……やっと　見つけたぜ。": "I... Finally..."
+    },
+    "607": {
+        "「……息は　ある。|　まだ　間に合うはずだ……。": "... I can't breathe. We can still make it..."
+    },
+    "608": {
+        "「ウソだろ……こんなこと……|　こんな……": "Oh, my God This is| Oh, my"
+    },
+    "609": {
+        "「これが……カギ？　おかしな形だね。": "This is the... A key? That's weird."
+    },
+    "610": {
+        "「貴様に　解放者たる資格があるか。|　我が　試してやろう……。": "You're not fit to be a liberator. I will test|you..."
+    },
+    "611": {
+        "「月は　落ちた！|　二度と　光を放たぬよう　破壊してやったぞ！": "The moon has fallen! I've destroyed it so|that it will never shine again!"
+    },
+    "612": {
+        "「貴様らに　救いなど　ないのだ！|　毒に苦しみながら　死んでいくがいい！|　はーっはっはっはっは……！": "There is no salvation for you! You will die|in agony from the poison! Ha-ha-ha-ha...!"
+    }
+}

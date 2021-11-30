@@ -1,0 +1,353 @@
+{
+    "1": {
+        "「……そなたの　ご主人は　ワシが責任を持って|　探すゆえ　安心してくだされ。|　あの　まもの使いには　世話になったからのう。": "I... I will find your husband. I will find|him for you. That wizard was very helpful to|you."
+    },
+    "2": {
+        "「はい……。": "Yes..."
+    },
+    "3": {
+        "「おお　<pc>！|　おぬしのことを　待っておったんじゃ。": "oh!<pc> I've been waiting for you. I've been waiting|for you..."
+    },
+    "4": {
+        "「マレイカどの。この　<pc>は|　これまで　何度も　ワシを救ってくれた|　たいへん　有能な冒険者なんじゃ！": "Murray... This.<pc> He's saved my life more times than I can|count, and he's a very capable adventurer!"
+    },
+    "5": {
+        "<if_woman>「彼女に　かかれば　またたく間に|　この問題も　解決するじゃろう！<else>「彼に　かかれば　またたく間に|　この問題も　解決するじゃろう！<endif>": "<if_woman>She'll have this problem solved in no time at|all!<else>He'll have this problem solved in no time at|all!<endif>"
+    },
+    "6": {
+        "「まあ……。": "Well..."
+    },
+    "7": {
+        "「紹介しよう。こちらのマレイカどのは|　戦争で行方不明になった　ご主人を探しに|　アラハギーロへ　帰郷されているそうじゃ。": "Introducing... This is Mareika, who has|returned to Arrachiguillo in search of her|husband, who was lost in the war..."
+    },
+    "8": {
+        "「そして　その　ご主人というのが|　カレヴァンという　まもの使いの青年なんじゃ。": "And her husband is a young magician named|Kalevan..."
+    },
+    "9": {
+        "「<pc>。|　おぬしには　そのカレヴァンを|　見つけてきてほしいと　思っておるんじゃ。": "<pc> I want you to find this Kalevan. I'm hoping|you'll find this Karevan..."
+    },
+    "10": {
+        "「どうか　お願いします　<pc>さま！|　この子を　安心させてあげたくて……。": "Please Please<pc> Sir! I just wanted to reassure her that..."
+    },
+    "11": {
+        "「ママー……。パパに　あえるのー？": "Mom... Can I see my daddy?"
+    },
+    "12": {
+        "「……大丈夫よ　ラッセ。|　きっと　もうすぐ　会えるわ。": "... It's okay. It's okay. I'm sure I'll see|you soon."
+    },
+    "13": {
+        "「なんの手がかりもない　依頼じゃが|　おぬしを見込んで　頼みたいんじゃ。|　どうじゃ？　やってくれんかの？": "I don't have a clue what you're asking me to|do, but I think you're good enough to do it,|so... How about it? Will you do it?"
+    },
+    "14": {
+        "「おお　そうか！　受けてくれるか。": "Oh, yeah! I'll take..."
+    },
+    "15": {
+        "「まあ！　……<pc>さま|　ありがとうございます。": "Oh, my God! ...<pc> Thank you, sir..."
+    },
+    "16": {
+        "「戦争の時　まもの使いたちには|　だいぶ　助けられたからの……。|　ワシからも　どうか　よろしく頼む。": "During the war, the wizards helped me a lot,|so... I hope you'll do the same for me."
+    },
+    "17": {
+        "「……<pc>。これは　奥方には|　ヒミツじゃが　おそらく　カレヴァンも|　魔物の姿に　変えられていることじゃろう。": "<pc> It's a secret. This is a secret from your|wife, but it's likely that Calevan has been|transformed into a demon as well."
+    },
+    "18": {
+        "「カレヴァンは　左目に十字キズがある青年でな|　きっと　魔物になっても　左目に|　その十字キズが　残っているはずじゃ。": "Calevan is a young man with a cross-shaped|scar over his left eye, and I'm sure it will|remain there even after he becomes a demon."
+    },
+    "19": {
+        "「もし　左目に十字キズのある魔物を　見つけたら|　秘かに　ワシの所へ　連れてくるんじゃ……。|　クドゥスの泉で　元の姿に戻そうと思う。": "If you find a demon with a cross-shaped scar|over its left eye, you must secretly bring it|to me. I will restore it to its former self|<br>|at the Fountain of Kudus."
+    },
+    "20": {
+        "「では　<pc>！|　カレヴァンの捜索　頼んだぞよ！": "well<pc> Come on! I need you to find Kalevan!"
+    },
+    "21": {
+        "「おお。ありがたや……と　言いたいところじゃが|　おぬし　他の者からの頼まれごとで|　手が　いっぱいのようじゃな。": "Oh. Thank you... but you seem to have your|hands full with requests from others..."
+    },
+    "22": {
+        "「奥方のためにも　それらの依頼は|　速やかに片付け　急いで戻ってまいるのじゃ。|　ワシ　ここで待っておるからの。": "For the sake of your wife, I'll take care of|those requests as soon as possible and hurry|back. I'll wait here..."
+    },
+    "23": {
+        "「ぬっ！？　そうか　おぬしも|　忙しいんじゃな……。": "Huh? Well, you're a busy man, aren't you..."
+    },
+    "24": {
+        "「しかし　奥方と幼子が　困っておるのを|　このまま　放っておくわけにもいかんしのう。|　気が変わったら　また　頼まれておくれ。": "But I can't just leave your wife and child in|trouble. If you change your mind, I'll ask|you again..."
+    },
+    "25": {
+        "「おおっ　<pc>。|　また　来てくれたんじゃな。": "oh!<pc> (speaking spanish) You came back..."
+    },
+    "26": {
+        "「おぬしには　こちらのマレイカどのの　ご主人|　カレヴァンという名の　まもの使いの青年を|　見つけてきてほしいのじゃ。": "I want you to find the master of this|mareika, a young wizard named Kalevan..."
+    },
+    "27": {
+        "「お願いします　<pc>さま。|　この子を　安心させてあげたくて……。": "please<pc> sir. I just wanted to reassure you that this|child..."
+    },
+    "28": {
+        "「なんの手がかりもない　むずかしい依頼じゃが|　おぬしを見込んで　頼みたいんじゃ。|　どうじゃ？　やってくれんかの？": "I don't have a clue what you're asking me to|do, and it's not easy, but I think you're the|man to ask. How about it? Will you do it?"
+    },
+    "29": {
+        "「あれ　<pc>さん！": ""
+    },
+    "30": {
+        "「わーっ　ビックリした！|　ひさしぶりに会えて　うれしいよ！|　でも　どうして　ここにいるの！？": "Wow! You scared me! It's so good to see you|again! But why are you here?"
+    },
+    "31": {
+        "「……ええっ！？　カレヴァンさんの奥さんが|　カレヴァンさんを　探しに|　アラハギーロへ　来てるの？": "... What? Mr. Kalevan's wife came to|Arrachigillo looking for Mr. Kalevan?"
+    },
+    "32": {
+        "「でも　それって　私たちがいる|　この世界の　アラハギーロじゃなくて|　私たちが　元いた世界のアラハギーロだよね。": "But that's not the Alahaguilo of this world|we're in, that's the Alahaguilo of the world|we came from..."
+    },
+    "33": {
+        "「……ってことは　<pc>さんは|　元の世界に戻る方法を　見つけたのね！|　くわしく　教えてくれる！？": " Which means<pc> You've found a way to go back to your world!|Can you tell me more about it?"
+    },
+    "34": {
+        "<pc>は　真のレンダーシアに戻る方法と|そこで見てきたことを　セラフィに説明した。": "<pc> will explain to Seraphy how to return to the|true Lendermen and what she has seen there..."
+    },
+    "35": {
+        "「へえー！　その…ぶれいぶすとーん？|　っていうのを使えば　元の世界に戻れるんだね。": "Huh! I mean... It's called \"Blurbshoot\"? If|you use that, you can go back to your|world..."
+    },
+    "36": {
+        "「しかも　そっちの世界には|　魔物に変えられた　呪いを解く|　クドゥスの泉なんてものがあるんだ……。": "Besides, in your world, there's a Kudus|Spring that can lift the curse of being|turned into a demon..."
+    },
+    "37": {
+        "「じゃあ　<pc>さんと　一緒に戻って|　カレヴァンさんが　その泉に　つかれば|　人間の姿に　戻れるってことだよね……。": "then<pc> If you and Mr. Kalevan go back to the|fountain, and Mr. Kalevan takes a dip in it,|he'll be able to return to human form..."
+    },
+    "38": {
+        "「……ねぇ　カレヴァンさん。|　家族に　会いたいよね？|　一緒に　元いた世界に　帰ろっ！": "... Hey, Kaleva... You miss your family,|don't you? Let's go back to the world where|we belong."
+    },
+    "39": {
+        "「……ガルッ！": "... Gulp!"
+    },
+    "40": {
+        "「よしっ！": "All right!"
+    },
+    "41": {
+        "「<pc>さん！|　その　ぶれいぶすとーんっていうのを　使って|　私たちを　元のアラハギーロへ　連れてって！": "<pc> Three! I want you to use that thing called a|\"bleibuston\" to take us back to the original|Alahaguillo!"
+    },
+    "42": {
+        "「よく　わからなくて　ちょっぴり不安だけど|　とりあえず　アラハギーロ王国の前にある|　勇気の石塔に行って　そこで待ってるわ！": "I don't know what's going on, and I'm a|little nervous, but for now, go to the Stone|Tower of Courage in front of the Kingdom of|<br>|Araghaghiro, and I'll wait for you there!"
+    },
+    "43": {
+        "「<pc>さん！　おまたせ。": "<pc> Three! Oh..."
+    },
+    "44": {
+        "「私たち　ようやく|　元の世界に　戻れるんだね……。": "We can finally go back to the world we came|from..."
+    },
+    "45": {
+        "「じゃあ　さっそくだけど|　<pc>さんに　くっついてくから|　いつものように　やってみせて！": "Well, let me get right to it|<pc> I'm going to follow you, and you're going to|show me how it's done!"
+    },
+    "46": {
+        "「ガルッ！": "Gulp!"
+    },
+    "47": {
+        "<pc>は　ブレイブストーンを使った！": "<pc> used the Bravestone!"
+    },
+    "48": {
+        "「<pc>さん！　|　急に目の前から　消えたと思ったら|　また　すぐ現れるから　ビックリしちゃった。": "<pc> Three! Just when you think you've disappeared|from my sight, you pop back up again, and I'm|surprised."
+    },
+    "49": {
+        "「……どうやら　私たちが|　<pc>さんにくっついて　この石塔から|　元の世界に帰るのは　ムリみたいだね。": " Apparently, we are|<pc> It's impossible to return to the original|world from this pagoda..."
+    },
+    "50": {
+        "「うーん……。|　カレヴァンさんを　家族のもとに|　帰してあげたかったのになぁ。": "Um... I just wanted to get Mr. Karevan back|to his family..."
+    },
+    "51": {
+        "「せめて　奥さんに　カレヴァンさんは|　元気だよって　伝えたいね。": "At least tell your wife that Mr. Karevan is|fine..."
+    },
+    "52": {
+        "「カレヴァンさんが　人間だった時|　着けてた　カメオ……|　あれが　今もあったら　よかったのに……。": "The cameo that Mr. Karevan wore when he was|human... I wish I still had it."
+    },
+    "53": {
+        "「ガル　ガルルルッ！": "Gal, gal, gal, gal!"
+    },
+    "54": {
+        "「え！？　カレヴァンさん|　あのカメオが　どこにいっちゃったか|　知ってるの？": "What? Mr. Karevan, do you know where that|cameo went?"
+    },
+    "55": {
+        "「ガルル　ガルルルルッ。": "Garr, Garr, Garr..."
+    },
+    "56": {
+        "「へぇ！　そんなことがあったんだ。": "Oh, my God! There's no way..."
+    },
+    "57": {
+        "「あのね。カレヴァンさんのカメオ|　こっちに来て　すぐ　ナシームの洞くつにいる|　魔物に　盗られちゃったんだって！": "... Mr. Karevan's cameo was stolen by a demon|in Naseem's cave right after he arrived!"
+    },
+    "58": {
+        "「その魔物が　まだ　持ってるかもしれないよね。|　今すぐ　そのカメオ　取り返しに行こっ！": "That demon might still have it... Let's go|get that cameo back right now!"
+    },
+    "59": {
+        "「<pc>さん。ナシームの洞くつは|　アラハギーロ地方の東のほうの|　地下にあるんだけど　一緒に来てくれる？": "<pc> Three. Naseem's cave is underground in the|eastern part of the Alajaghiro region. Will|you come with me?"
+    },
+    "60": {
+        "「その魔物は　洞くつの中の|　悪鬼のねぐらって所に　いるみたいなの……。|　私たち　とりあえず　先に向かってるね。": "It seems the demon is in a cave called the|Demon's Roost... We'll just have to go on..."
+    },
+    "61": {
+        "「ふんふん　ふふーん♪": "Mm-hmm Mm-hmm Mm-hmm"
+    },
+    "62": {
+        "「今日は　どのアクセ　着けよっかな～♪|　ピンクパールで　かわいいアタシを演出！？|　それとも　ロザリオで　清楚ガールに変身！？": "Which accessory should I wear today~ Pink|pearls for a cute girl? Or a rosary for a|neat girl?"
+    },
+    "63": {
+        "「カレヴァンさん……。|　あのコが　カメオを盗ってったの？": "Mr. Kalevan... She stole your cameo?"
+    },
+    "64": {
+        "「ガルッ！": "Gulp!"
+    },
+    "65": {
+        "「だ　誰っ！？": "Who the hell are you?"
+    },
+    "66": {
+        "「キャーーー！！　ひとの　おめかし中に|　無断で　入ってくるなんて……|　変態よッ！　ヘ・ン・タ・イ！！": "Oh, my God! You can't just barge in on people|while they're all dressed up... You're a|pervert! You're a pervert!"
+    },
+    "67": {
+        "「え！？　いや　ちがうの。あのね……|　私たち　あなたが持ってるカレヴァンさんの|　カメオを返してもら……": "What? No, I... You see... We'd like to return|the cameo you have of Mr. Kalevan..."
+    },
+    "68": {
+        "「イヤーー！！　早く　出てってよッ！！|　この部屋は　アタシだけの|　秘密のクローゼットなんだからぁ！": "Yeah! Get out of here! This room is my own|secret closet!"
+    },
+    "69": {
+        "「ううっ　<cs_pchero>さん……。|　悪いんだけど　あの子を|　ちょっと　おとなしくさせてくれる？": "oof<cs_pchero>Hey, uh... I'm sorry, but can you just keep|him quiet for a second?"
+    },
+    "70": {
+        "「んもーーーーーーーっ！！|　早く　出ていってって……": "Moooooooo! Just get out of here..."
+    },
+    "71": {
+        "「言ってるでしょおおおおおおおお！！": "I'm telling you, whoa, whoa, whoa, whoa!"
+    },
+    "72": {
+        "「キャーー！！　また　誰か入ってきたッ！|　ヘンタイーーー！！|　アンタたち　とっとと　出ていきなさいよッ！！": "Oh, no! Someone's in here again! Weirdo! You|guys need to get the hell out of here!"
+    },
+    "73": {
+        "「よかった　<cs_pchero>さん。来てくれたのね！|　あのコ　私の話　聞いてくれないから|　ちょっと　おとなしくさせてくれる？": "Good<cs_pchero>San. You're here! She won't listen to me, so|can you please make her quiet for a minute?"
+    },
+    "74": {
+        "「んもーーーーーーーっ！！|　早く　出ていってって……": "Moooooooo! Just get out of here..."
+    },
+    "75": {
+        "「言ってるでしょおおおおおおおお！！": "I'm telling you, whoa, whoa, whoa, whoa!"
+    },
+    "76": {
+        "「ひどいわッ！　おめかし　してるときに|　勝手に入ってきて　乱暴するなんて……。|　こんな　はずかしめを受けたの　はじめてよッ。": "Oh, my God! I'm all dressed up, and you come|in here and rough me up. I've never been so|humiliated in my life."
+    },
+    "77": {
+        "「ごっ　ごめんね……。私たち……|　あなたが持ってる　カメオを|　返してほしいだけなの。": "I'm sorry. I'm sorry. We... We just want the|cameo back that you have."
+    },
+    "78": {
+        "「カメオ……って……": "Cameo I mean"
+    },
+    "79": {
+        "「コレのこと？": "You mean this one?"
+    },
+    "80": {
+        "「そう　それっ！！|　それね……　この子のなの！|　……あの　よかったら　返してくれる？": "That's it! That's... That's hers! It's... Can|I have it back, if you don't mind?"
+    },
+    "81": {
+        "「気に入ってたけど……　いいわ。|　どうせ　今日のコーディネートには|　合わないと思ってたしぃ。……フンッ！": "I liked it, but... But... I didn't think it|would go with today's outfit anyway. ......|Hmph!"
+    },
+    "82": {
+        "「キャッ！　もう　こんな時間！？|　デートに遅れちゃうじゃないのよー！": "Oh, my God! What time is it? We're going to|be late for our date!"
+    },
+    "83": {
+        "「……なんだったんだろうね　あの子。|　でも　カメオ返してもらえてよかったわ！": "... I don't know what it was... But I'm glad|you got your cameo back!"
+    },
+    "84": {
+        "「これが　カレヴァンさんが着けてた|　大事なカメオよ。<cs_pchero>さん|　これを　奥さんに届けてくれる？": "And this is the precious card that Mr.|Karevan wore...<cs_pchero>Miss, can you take this to your wife for me?"
+    },
+    "85": {
+        "「ガルルッ！": "Gulp!"
+    },
+    "86": {
+        "「ん？　どうしたの　カレヴァンさん。": "Hmm? What's wrong, Kaleva..."
+    },
+    "87": {
+        "「ガル　ガルルル。ガルル　ガルルルル……。": "Gal, gal... Garr, Garr, Garr..."
+    },
+    "88": {
+        "「<cs_pchero>さん。このカメオを渡すときに|　今すぐには帰れないが　いずれ　必ず帰るって|　メッセージも　伝えておいてほしいんだって。": "<cs_pchero>Three. When I give you this cameo, I want you|to leave a message that you can't come home|right now, but you will come home sooner or|<br>|later..."
+    },
+    "89": {
+        "「じゃあ　コレ|　<cs_pchero>さんに　あずけるわね。": "Here|<cs_pchero>I'm giving it to Mr..."
+    },
+    "90": {
+        "<cs_pchero>は　セラフィから|銀のカメオ（だいじなもの）を　受け取った。<me 60>": "<cs_pchero>had received a silver cameo from Seraphy...<me 60>"
+    },
+    "91": {
+        "「でも　早いうちに　こっちの世界から|　元の世界に戻れる方法を　探さなきゃ……だね。": "But the sooner we find a way to get from this|world back to the one we came from, the|better. ....."
+    },
+    "92": {
+        "「私たちも　心当たりを調べてみる。|　元の世界に戻れる方法が　わかったら|　また　会いましょ！": "We'll see what we can find out. And when we|figure out how to get back to the world,|we'll meet again."
+    },
+    "93": {
+        "「おおっ　<pc>！|　ちょうどよいところに　戻ってきてくれたのう。|　マレイカさんが心配して　いらしておるんじゃ。": "oh!<pc> Come on! You've come back just in time. Mr.|Maleyka is worried about you."
+    },
+    "94": {
+        "「夫は……　夫は　無事でしょうか！？": "Is my husband... My husband, is he all right?"
+    },
+    "95": {
+        "「ぬっ　カレヴァンと会えたのか！": "Noooo, you've met Calevan!"
+    },
+    "96": {
+        "「夫は　生きているんですねっ！？": "My husband is alive, isn't he?"
+    },
+    "97": {
+        "「でも……　でしたら　なぜ|　帰ってこないのでしょう？|　夫は　どこにいて　何をしているんです！？": "But... Then why hasn't he come home? Where is|my husband? What is he doing here?"
+    },
+    "98": {
+        "マレイカに　カレヴァンの|銀のカメオを　渡しますか？<yesno><close>": "Shall I give Maleyka Kalevan's silver cameo?<yesno><close>"
+    },
+    "99": {
+        "「ふぬ……。おぬしを　疑うわけではないが|　何か　カレヴァンの無事を示す|　証拠のひとつでも　ないもんかのう……。": "Hmm... I don't mean to doubt you, but I|wonder if there's any proof that Calevan is|safe..."
+    },
+    "100": {
+        "<pc>は　マレイカに|銀のカメオを　渡して|カレヴァンからの　メッセージを伝えた！": "<pc> gave Maleeka a silver cameo with a message|from Kalevan!"
+    },
+    "101": {
+        "「これは……　私が　あの人の無事を祈って|　出征の前に渡した　カメオに|　まちがいありませんわ！": "This... It must be the cameo I gave him|before he left for war, to pray for his|safety!"
+    },
+    "102": {
+        "「ふむ……。カレヴァンは　今すぐには帰れないが|　いずれ　必ず帰るから　心配するなと|　申しておったか……。": "Hmm... Kalevan said you can't leave right|now, but you'll be back soon, so don't worry."
+    },
+    "103": {
+        "「帰れないのに　くわしく　語らないということは|　何か　私たちを心配させまいとする|　事情が　あるのでしょう……。": "If you can't go home and won't tell us in|detail, there must be something you're doing|to keep us from worrying..."
+    },
+    "104": {
+        "「私は　夫の言葉を信じて|　このまま　待つことにいたします。|　この子にも　言い聞かせておきますわ。": "I've decided to take my husband at his word|and wait it out... I'll tell him that."
+    },
+    "105": {
+        "「ムーニス王さま　<pc>さま。|　いろいろと　ありがとうございました。|　これで　希望を持てましたわ……。": "King Moonis<pc> Mr... Thank you for everything... You've|given me hope..."
+    },
+    "106": {
+        "「うむ！|　また　何かあったら　いつでも来るがいい。": "Mmm! I'll be back whenever you need me..."
+    },
+    "107": {
+        "「さて　<pc>。|　おぬしが　何を見てきたのか|　くわしく　話してくれんか。": "now<pc> I'm sorry. Tell us in detail what you've|seen..."
+    },
+    "108": {
+        "「おぬし　魔物になったカレヴァンを|　見つけたのじゃろう？　どうして|　ここまで　連れてこれなかったのじゃ？": "You found the demon Kalevan, didn't you? Why|couldn't you bring him here?"
+    },
+    "109": {
+        "<pc>は　偽りのレンダーシアの存在と|そこで　カレヴァンと再会してからのできごとを|ムーニス王に話した。": "<pc> King Moonsis was told of the existence of the|false Lendensia and the events that|transpired after his reunion with Calevan|<br>|there."
+    },
+    "110": {
+        "「なんてことじゃ。カレヴァンや　兵士たちは|　偽りのレンダーシアなる場所に|　連れていかれておったと　申すか……。": "Oh, my... Are you saying that Kalevan and his|soldiers were taken to a false Lendatia..."
+    },
+    "111": {
+        "「到底　信じられんが……|　おぬしが　そう言うからには|　信じるしかあるまい。": "I don't believe it, but... But since you say|so, I have no choice but to believe you."
+    },
+    "112": {
+        "「そうじゃ！　おぬしへの礼が　まだじゃったな。|　むずかしい頼みを聞いてくれて　感謝しておる。|　これを受け取ってたもれ！": "Yes! I haven't thanked you yet. Thank you for|doing me this great favor... Please, take|this!"
+    },
+    "113": {
+        "「そういえば　おぬし……。|　カレヴァンのカメオを　ナシームの洞くつで|　見つけたと　言っておったな……。": "You know, you... You said you found Kalevan's|cameo in Naseem's cave."
+    },
+    "114": {
+        "「カレヴァンは　連れ去られた後で|　カメオを盗られたと……。|　ふむ……　ナシームの洞くつ……か。": "Calevan said that after they took him, they|stole his cameo. Hmm... The Caves of Naseem:|...."
+    },
+    "115": {
+        "<pc>は　元の世界に戻った！": "<pc> I'm back in the world!"
+    },
+    "116": {
+        "しかし　セラフィも　チョメも|こちらには　来ていないようだ。": "But neither Seraphy nor Chome have come to|this..."
+    },
+    "117": {
+        "<pc>は　ふたたび|ブレイブストーンを　使った！": "<pc> has used the Bravestone once again!"
+    }
+}

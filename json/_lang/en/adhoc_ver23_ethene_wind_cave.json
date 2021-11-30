@@ -1,0 +1,185 @@
+{
+    "1": {
+        "<if_woman>「おねーちゃん　いた！<else>「おにーちゃん　いた！<endif>": "<if_woman>There she is!<else>Oh, there she is!<endif>"
+    },
+    "2": {
+        "「この向こう　研究室ある！|　今から　扉　開けるプッケ！": "There's a lab over there! I'm opening the|door now, Pukka!"
+    },
+    "3": {
+        "「風の真珠……　風の真珠！|　アケレロ　アケロレ　プッケッケ！": "Pearls of the wind... Pearls of the wind!|Akelai akelai pukkeke!"
+    },
+    "4": {
+        "「開いた！　ついてこい！！": "It's open! Follow me!"
+    },
+    "5": {
+        "<if_woman>「おねーちゃん　見ろプケ！|　ここが　花　錬金してた研究室！|　ボク　連れてくる約束した　場所！！<else>「おにーちゃん　見ろプケ！|　ここが　花　錬金してた研究室！|　ボク　連れてくる約束した　場所！！<endif>": "<if_woman>Hey, look, Puke! This is the lab where you|smelted the flowers! This is where you|promised you'd bring me!<else>Look, Puke! This is the lab where you smelted|the flowers! This is where you promised you'd|bring me!<endif>"
+    },
+    "6": {
+        "<if_woman>「おねーちゃんに　あげる花　この奥！|　ついてこいプッケ！！<else>「おにーちゃんに　あげる花　この奥！|　ついてこいプッケ！！<endif>": "<if_woman>A flower for you... in the back! Follow me,|Pukke!<else>A flower for you... in the back! Follow me,|Pukke!<endif>"
+    },
+    "7": {
+        "「こんな所に　あったのか……。": "I didn't know this was here."
+    },
+    "8": {
+        "「…………！？": "...!"
+    },
+    "9": {
+        "「道案内　感謝するぞ……！　お前が|　エテーネの錬金術師を　探しているのを知り|　ずっと　後を付けさせてもらったわい。": "Thank you for leading the way. When I found|out you were looking for the alchemist of|Etaine, I followed you for a long time."
+    },
+    "10": {
+        "「テンスの花を作りだそうとする者の|　存在に気づき……　追い続けて　数十年。|　ついに　ヤツの研究室を　見つけた！": "When I realized that someone was trying to|create the Tens flower... I followed him... I|finally found his lab!"
+    },
+    "11": {
+        "「よもや　清き水の洞くつでしか咲かぬ花を|　このような場所で　咲かせるとは……|　やはり　あの女は　ただ者ではなかったわい。": "To think that a flower that only blooms in a|cave of clear water could bloom in a place|like this... I knew she was something else..."
+    },
+    "12": {
+        "「じゃが　ヤツの努力も　ここまで！|　すべてのテンスの花を　この世から消し去ること|　それが　我ら魔導鬼一族の使命じゃ！": "But so much for his efforts! It is the|mission of our demon clan to wipe out all|Tens flowers from the face of the earth!"
+    },
+    "13": {
+        "「この地に咲いた　テンスの花は|　魔導鬼ベゼブーが　焼き尽くしてくれるわ！": "The demon Bezeeboo will burn all the flowers|of Tens that bloom in this land!"
+    },
+    "14": {
+        "「プキィィッ……！": "Pukey...!"
+    },
+    "15": {
+        "<if_woman>「おねーちゃん……　お願い……。|　だいじな……　花……　守って…………。<else>「おにーちゃん……　お願い……。|　だいじな……　花……　守って…………。<endif>": "<if_woman>Sweetheart... Please... Big... Flower...|Protect me...<else>Nanny... Please... Big... Flower... Protect|me...<endif>"
+    },
+    "16": {
+        "「テンスの花は　誰にも渡さん！|　……ジャマをするなら|　お前も　焼き尽くしてくれるわ！！": "No one gets the flowers of Tens! ... If you|bother me, I'll burn you to a crisp!"
+    },
+    "17": {
+        "「すべてのテンスの花を　この世から抹消する！|　それが　我ら魔導鬼一族の使命じゃ！": "I will erase all Tens flowers from this|world! That is the mission of our demon clan!"
+    },
+    "18": {
+        "「テンスの花は　誰にも渡さん！|　……ジャマをするなら|　お前も　焼き尽くしてくれるわ！！": "No one gets the flowers of Tens! ... If you|bother me, I'll burn you to a crisp!"
+    },
+    "19": {
+        "「ぐっ……　バ　バカなぁ…………。": "Gee... You idiot..."
+    },
+    "20": {
+        "「も…申し訳……ございません……|　偉大なる　大魔王……マデサゴーラさまぁ……！|　ご…ごふっ……！": "I'm... I'm sorry... I'm sorry... The great|demon king... Madhesagoras...! Oh... Ahh...!"
+    },
+    "21": {
+        "「プフー……。びっくりしたプッケ。": "Pfft... You scared me..."
+    },
+    "22": {
+        "<if_woman>「ボク　平気。|　錬金術で　すごく丈夫に　作ってもらった！|　おねーちゃん　こっち来いプケ！<else>「ボク　平気。|　錬金術で　すごく丈夫に　作ってもらった！|　おにーちゃん　こっち来いプケ！<endif>": "<if_woman>I... Alchemy made me so strong! Hey, girl!|Come here, Puke!<else>I... Alchemy made me so strong! Hey! Come|here, Puke!<endif>"
+    },
+    "23": {
+        "「錬金釜　あった！": ""
+    },
+    "24": {
+        "<if_woman>「おねーちゃん！|　この釜の中　見ろプッケ！！<else>「おにーちゃん！|　この釜の中　見ろプッケ！！<endif>": "<if_woman>Hey, girl! Look in this cauldron, Pukke!<else>Nanny! Look in this cauldron, Pukke!<endif>"
+    },
+    "25": {
+        "<if_woman>「この花が　おねーちゃんに　渡したかった花！|　輝くテンスの花プッケ！<else>「この花が　おにーちゃんに　渡したかった花！|　輝くテンスの花プッケ！<endif>": "<if_woman>This is the flower I wanted to give to you!|The shining tens flower Pukke!<else>This is the flower I wanted to give to you!|The shining tens flower Pukke!<endif>"
+    },
+    "26": {
+        "「エテーネ村の　巫女さまに言われて作った|　聖なるチカラが　いっぱいの花！|　カメさまの呪いも　すぐ解ける　すごい花プケ！": "The priestess of the village of Etaine told|me to create a flower full of holy power!|It'll even lift the turtle's curse!"
+    },
+    "27": {
+        "<if_woman>「おねーちゃんの<kyodai_rel3>　この花　錬金するために|　世界中旅して　テンスの花咲いてる　太古の泉に|　そっくりな　この場所見つけた。<else>「おにーちゃんの<kyodai_rel3>　この花　錬金するために|　世界中旅して　テンスの花咲いてる　太古の泉に|　そっくりな　この場所見つけた。<endif>": "<if_woman>The lady's<kyodai_rel3>I've traveled all over the world to alchemize|this flower, and I've seen this place that|looks just like the ancient spring where Tens|<br>|flowers bloom.<else>The old man's<kyodai_rel3>I've traveled all over the world to alchemize|this flower, and I've seen this place that|looks just like the ancient spring where Tens|<br>|flowers bloom.<endif>"
+    },
+    "28": {
+        "<if_woman>「おねーちゃん！|　輝くテンスの花　おねーちゃんにやる！<else>「おにーちゃん！|　輝くテンスの花　おにーちゃんにやる！<endif>": "<if_woman>Onee-chan! I'll give you the shining Tens|flower, big girl!<else>Onya-chan! The shining flower of Tens, for|you!<endif>"
+    },
+    "29": {
+        "<cs_pchero>は|輝くテンスの花（だいじなもの）を　受け取った！<me 60>": "<cs_pchero>has received a shining tens flower (the most|precious thing)!<me 60>"
+    },
+    "30": {
+        "「この錬金釜は　ボクが|　イッショウさんに返すように　言われてるプケ！": "I'm the one who's supposed to return this|smelting pot to Mr. Isho."
+    },
+    "31": {
+        "<if_woman>「ボク　錬金釜　届けにいく！|　おねーちゃん！　この手紙　読んだら|　あとで　エテーネ村　来いプッケ！<else>「ボク　錬金釜　届けにいく！|　おにーちゃん！　この手紙　読んだら|　あとで　エテーネ村　来いプッケ！<endif>": "<if_woman>I'm going to deliver the smelting pot! Hey,|girl! After you read this letter, come to the|village of Etaine, Pukke!<else>I'm going to deliver the smelting pot!|Oniichan! After you read this letter, come to|the village of Etaine, Pukke!<endif>"
+    },
+    "32": {
+        "<cs_pchero>は|<kyodai_rel3>からの手紙（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>は|<kyodai_rel3>I've got a letter from you!<me 60>"
+    },
+    "33": {
+        "<if_woman><center>姉ちゃんへ。|やっと　錬金できたよ　輝くテンスの花が！|姉ちゃん　これが　必要なんだよね？<else><center>兄ちゃんへ。|やっと　錬金できたよ　輝くテンスの花が！|兄ちゃん　これが　必要なんだよね？<endif>": "<if_woman>Sister... I finally managed to alchemize a|shining Tens flower! Sis, this is what you|need, right?<else>My brother... I've finally managed to|alchemize a shining Tens flower! Brother,|this is what you need, isn't it?<endif>"
+    },
+    "34": {
+        "<if_woman><center>おいらは　あの日　姉ちゃんと別れてから　ずっと|自分だけ　生きていていいのか……|どうして　この時代へ来てしまったのか悩んでた。<else><center>おいらは　あの日　兄ちゃんと別れてから　ずっと|自分だけ　生きていていいのか……|どうして　この時代へ来てしまったのか悩んでた。<endif>": "<if_woman>Ever since I left my sister that day, I've|been wondering if it's okay for me to live on|my own... I don't know why I've come to this|<br>|time...<else>Ever since I left my brother that day, I've|been wondering if it's okay for me to live on|my own... I've been wondering why I came to|<br>|this time...<endif>"
+    },
+    "35": {
+        "<if_woman><center>でも　アバさまに　姉ちゃんが生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったよ。<else><center>でも　アバさまに　兄ちゃんが生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったよ。<endif>": "<if_woman>But when Ava told me that my sister was|alive, and I knew my mission, I understood|why I came here...<else>But when Ava told me that you were still|alive, and that you knew what you were meant|to do, and that you understood why you were|<br>|here...<endif>"
+    },
+    "36": {
+        "<center>普通のテンスの花より　ずっと強いチカラを持つ|テンスの花を　何年も　何十年もかけて|錬金すること。それが　おいらの使命だったんだ。": "I will spend years and decades alchemizing a|tens flower that is far more powerful than|the ordinary tens flower. That was my|<br>|mission..."
+    },
+    "37": {
+        "<center>おいら　いつも　いいかげんだったけど|まわりの人が　助けてくれたおかげで|今回は　最後まで　やり通せたんだ。": "I've always been sloppy, but thanks to the|help of the people around me, I was able to|make it through to the end this time..."
+    },
+    "38": {
+        "<if_woman><center>姉ちゃんは　すごい使命を持ってるんだってね。|おいらの錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいよ。<else><center>兄ちゃんは　すごい使命を持ってるんだってね。|おいらの錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいよ。<endif>": "<if_woman>You have a great mission... If my alchemy can|help her fulfill that mission, even if just a|little...<else>My brother has a great mission. If my alchemy|can help you fulfill that mission, even if|only a little...<endif>"
+    },
+    "39": {
+        "<if_woman><center>本当は　自分の手で渡したかったけど　ごめん。|時間がないんだ。でも　これだけは言っておくよ。|……姉ちゃんが　使命を果たせるように祈ってる！<else><center>本当は　自分の手で渡したかったけど　ごめん。|時間がないんだ。でも　これだけは言っておくよ。|……兄ちゃんが　使命を果たせるように祈ってる！<endif>": "<if_woman>I wanted to give it to you myself, but... I|didn't have time. But I just want you to know|that... I... I'm praying for you to do your|<br>|duty.<else>I wanted to give it to you myself, but... I|didn't have time. But I just want you to know|that... I... I'm praying for you to complete|<br>|your mission!<endif>"
+    },
+    "40": {
+        "<center><cs_pchero>へ。|やっと　錬金できたぜ　輝くテンスの花が！|お前　これが　必要なんだろ？": "<cs_pchero>To. I've finally managed to alchemize a|shining Tens flower! You need this, don't|you?"
+    },
+    "41": {
+        "<center><cs_pchero>へ。|やっと　錬金できたわ　輝くテンスの花が！|あんた　これが　必要なんでしょ？": "<cs_pchero>To. I've finally managed to alchemize a|shining Tens flower! You need this, don't|you?"
+    },
+    "42": {
+        "<if_woman><center>お姉ちゃんへ。|やっと　錬金できたんだよ　輝くテンスの花が！|お姉ちゃん　これが　必要なんだよね？<else><center>お兄ちゃんへ。|やっと　錬金できたんだよ　輝くテンスの花が！|お兄ちゃん　これが　必要なんだよね？<endif>": "<if_woman>Sis... I finally managed to alchemize the|shining Tens flower! Sis... You need this,|right?<else>Brother... I finally managed to alchemize the|shining Tens flower! Big brother, you need|this, right?<endif>"
+    },
+    "43": {
+        "<center>オレは　あの日　お前と別れてから　ずっと|自分だけ　生きていていいのか……|どうして　この時代へ来てしまったのか悩んでた。": "Ever since I left you that day, I've been|wondering if it's okay for me to live on my|own... I don't know why I've come to this|<br>|time..."
+    },
+    "44": {
+        "<center>あたしは　あの日　あんたと別れてから　ずっと|自分だけ　生きていていいのか……　どうして|この時代へ来てしまったのか悩んでたわ。": "Ever since I left you that day, I've been|wondering if it's okay for me to live on my|own... I've been wondering why I've come to|<br>|this time..."
+    },
+    "45": {
+        "<if_woman><center>私は　あの日　お姉ちゃんと別れてから　ずっと|自分だけ　生きていていいのか……|どうして　この時代へ来てしまったのか悩んでた。<else><center>私は　あの日　お兄ちゃんと別れてから　ずっと|自分だけ　生きていていいのか……|どうして　この時代へ来てしまったのか悩んでた。<endif>": "<if_woman>Ever since I left my sister that day, I've|been wondering if it's okay for me to live on|my own... I don't know why I've come to this|<br>|time...<else>Ever since I left my brother that day, I've|been wondering if it's okay for me to live on|my own... I've been wondering why I came to|<br>|this time...<endif>"
+    },
+    "46": {
+        "<center>でも　アバさまに　お前が生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったんだ。": "But when Ava told me that you were alive, and|that you knew your mission, and that you knew|why you came here..."
+    },
+    "47": {
+        "<center>でも　アバさまに　あんたが生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったの。": "But when Ava told me that you were alive, and|that you knew what you were meant to do, and|that you understood why you came to this|<br>|time..."
+    },
+    "48": {
+        "<if_woman><center>でも　アバさまに　お姉ちゃんが生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったんだよ。<else><center>でも　アバさまに　お兄ちゃんが生きてることを|教えてもらい　自分の使命を知って|この時代に来た理由が　わかったんだよ。<endif>": "<if_woman>But when Ava told me that my sister was still|alive, and I knew what I was meant to do, and|I knew why I came here...<else>But when Ava told me that my brother was|alive, and that I knew what I was meant to|do, and that I knew why I came to this|<br>|time...<endif>"
+    },
+    "49": {
+        "<center>普通のテンスの花より　ずっと強いチカラを持つ|テンスの花を　何年も　何十年もかけて|錬金すること。それが　オレの使命だったんだな。": "I've spent years and decades alchemizing the|tens flower, which is far more powerful than|the ordinary tens flower. That was my|<br>|mission..."
+    },
+    "50": {
+        "<center>普通のテンスの花より　ずっと強いチカラを持つ|テンスの花を　何年も　何十年もかけて|錬金すること。それが　あたしの使命だったのね。": "I've spent years and decades alchemizing the|tens flower, which is far more powerful than|the ordinary tens flower. That was my|<br>|mission..."
+    },
+    "51": {
+        "<center>普通のテンスの花より　ずっと強いチカラを持つ|テンスの花を　何年も　何十年もかけて|錬金すること。それが　私の使命だったんだ。": "I've spent years, even decades, alchemizing|the tens flower, which is far more powerful|than the ordinary tens flower. That was my|<br>|mission..."
+    },
+    "52": {
+        "<center>オレ　いつも　いいかげんだったけど|まわりの人が　助けてくれたおかげで|今回は　最後まで　やり通せたよ。": "I've always been lazy, but thanks to the help|of the people around me, I was able to finish|this time..."
+    },
+    "53": {
+        "<center>あたし　いつも　テキトーだったけど|まわりの人が　助けてくれたおかげで|今回は　最後まで　やり通せたわ。": "I've always been a bit of a loose cannon, but|thanks to the help of the people around me, I|made it all the way through..."
+    },
+    "54": {
+        "<center>私　いつも　テキトーだったけど|まわりの人が　助けてくれたおかげで|今回は　最後まで　やり通せたよ。": "I've always been a bit of a loose cannon, but|thanks to the help of the people around me, I|was able to make it through to the end this|<br>|time."
+    },
+    "55": {
+        "<center>お前は　すげえ使命を持ってるんだってな。|オレの錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいぜ。": "You have a great mission. If my alchemy can|help you fulfill that mission, even if just a|little..."
+    },
+    "56": {
+        "<center>あんたは　すごい使命を持ってるんだってね。|あたしの錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいかな。": "You have a great mission... If my alchemy can|help you fulfill that mission, even if just a|little..."
+    },
+    "57": {
+        "<if_woman><center>お姉ちゃんは　すごい使命を持ってるんだよね。|私の錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいな。<else><center>お兄ちゃんは　すごい使命を持ってるんだよね。|私の錬金術が　すこしでも　その使命を果たす|手伝いになったなら　うれしいな。<endif>": "<if_woman>Your sister has a great mission. If my|alchemy can help her fulfill that mission,|even if just a little...<else>My brother has a great mission. If my alchemy|can help him fulfill that mission, even if|just a little...<endif>"
+    },
+    "58": {
+        "<center>本当は　自分の手で渡したかったけど　悪いな。|時間がないんだ。でも　これだけは言っておく。|……お前が　使命を果たせるように　祈ってる！": "I wanted to give it to you myself, but... I|didn't have time. But I just want you to|know... I just want you to know... I'll be|<br>|praying for you to complete your mission."
+    },
+    "59": {
+        "<center>本当は　自分の手で渡したかったけど　ごめんね。|時間がないみたい。でも　これだけは言っておく。|……あんたが　使命を果たせるように　祈ってる！": "I really wanted to give it to you myself, but|I... I don't have time... But I just want you|to know... I just want you to know... I'm|<br>|praying that you can accomplish your mission."
+    },
+    "60": {
+        "<if_woman><center>本当は　自分の手で渡したかったけど　ごめんね。|時間がないの。でも　これだけは言っておくね。|……お姉ちゃんが　使命を果たせるよう祈ってる！<else><center>本当は　自分の手で渡したかったけど　ごめんね。|時間がないの。でも　これだけは言っておくね。|……お兄ちゃんが　使命を果たせるよう祈ってる！<endif>": "<if_woman>I really wanted to give it to you myself, but|I... I don't have time. But I just want you|to know that... I... I'm praying that you can|<br>|accomplish your mission.<else>I really wanted to give it to you myself, but|I... I don't have time. But I just want you|to know that... I... I'm praying for you to|<br>|complete your mission!<endif>"
+    },
+    "61": {
+        "「よもや　清き水の洞くつでしか咲かぬ花を|　このような場所で　咲かせるとは……|　やはり　あの男は　ただ者ではなかったわい。": "To think that a flower that only blooms in a|cave of clear water would bloom in a place|like this... I knew that man was something|<br>|else..."
+    }
+}

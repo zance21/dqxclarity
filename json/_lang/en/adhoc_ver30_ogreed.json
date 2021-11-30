@@ -1,0 +1,710 @@
+{
+    "1": {
+        "「ありがとう　お兄ちゃん！|　すりむいたヒザ　もう　ぜんぜん痛くないよっ！": "Thanks, big brother! The knee I scraped|doesn't hurt at all anymore!"
+    },
+    "2": {
+        "「もう　転ばないように　気をつけるんだよ。|　ぼうや。": "I'll be careful not to fall again. ..."
+    },
+    "3": {
+        "「うんっ！|　それじゃあ　ボク　遊びに行ってくるね！|　ばいばーい！！": "Yes! Well, I'm off to play! Go, go, go!"
+    },
+    "4": {
+        "「あら？　<pc>さん！|　偶然　ここで会えて　よかったわ。": "What?<pc> Hi! I'm so glad we ran into each other here."
+    },
+    "5": {
+        "「いやー　探したぞ。<pc>！|　最初の誘拐事件を　目撃したそうじゃないか。|　くわしい話を　聞きたかったんだ。": "No, I'm looking for...<pc> No! I heard you witnessed the first|kidnapping. I was hoping you could tell me|more about it."
+    },
+    "6": {
+        "「……えっ　マイユを探しにきた？|　いったい何が　あったんだ！？": "... What, you came to find Mayu? What the|hell happened to you?"
+    },
+    "7": {
+        "<pc>は　マイユたちに|ランガーオ村が襲われ　村王クリフゲーンが|意識不明の重体だと　伝えた！": ""
+    },
+    "8": {
+        "「お父さんが　そんな　ひどいケガを……？": "How could your father have been hurt so|badly?"
+    },
+    "9": {
+        "「待っていて　お父さん！ |　私　すぐ　帰るからっ！！": "Wait for me, Dad! I'll be right back!"
+    },
+    "10": {
+        "「オレたちは　ランガーオ村へ戻る。|　<pc>。伝言ありがとう！": ""
+    },
+    "11": {
+        "「それでは！": "All right, then!"
+    },
+    "12": {
+        "「いかがでした　マイユさま。|　お父さまのご様子は……。": "How was it, My... How is your father..."
+    },
+    "13": {
+        "「…………。": "..."
+    },
+    "14": {
+        "「長年　あちこちを放浪している間に |　オレは　医術の心得も　身につけたんだが……": "While I've been wandering from place to place for years| I've also learned to practice medicine"
+    },
+    "15": {
+        "「……正直　あのケガは　ひどい。 |　キズが深すぎて　血が止まらないんだ。": "... Honestly, the injury... It was too deep.|I couldn't stop the bleeding."
+    },
+    "16": {
+        "「このままでは　村王の命は……。": ""
+    },
+    "17": {
+        "「私のせいよっ！|　もっと早く　この村に　帰ってきていれば！！": "It's my fault! If only I'd come back to this|village sooner!"
+    },
+    "18": {
+        "「そうしたら……|　父さんを　守れたのに……。": "If I had... I could've protected my dad."
+    },
+    "19": {
+        "「自分を責めちゃいけないよ　マイユ。": "You can't blame yourself..."
+    },
+    "20": {
+        "「過ぎたことは　仕方がない。|　今は　どうしたら　村王の身体を治せるか|　そのことを　考えよう。": "What's done is done... Right now, I'm trying|to figure out how to heal the Village King's|body."
+    },
+    "21": {
+        "「でも……！": "But...!"
+    },
+    "22": {
+        "「じつは　ひとつ心当たりがあるんだ。 |　マイユ。<pc>。|　ちょっと　オレの話を聞いてくれ。": "Actually, I do know one thing... ...<pc> I... Hey, listen to me..."
+    },
+    "23": {
+        "「以前　世界中を　放浪していたときに|　珍しい薬草のうわさを　聞いたことがあるんだ。": "I've heard rumors of a rare herb in my|travels around the world..."
+    },
+    "24": {
+        "「人里はなれた山奥　深き雪の中に生える|　その薬草……いやしの雪中花は|　いかなるキズをも　いやすチカラを持つと……": "Deep in the mountains, far from human habitation, it grows in the deep snow| Its medicinal herbs The healing snow flower| It is said to have the power to heal any wound"
+    },
+    "25": {
+        "「どこっ！？|　その薬草　どこにあるの！　教えて！！": "Where is it? Where is the herb? Tell me!"
+    },
+    "26": {
+        "「落ち着け　マイユ！ |　いやしの雪中花が　生えているのは|　はるか南の　ランドンフットの近く……": "Calm down, Mayu! The healing snowdrops grow|far to the south, near Landon's Foot..."
+    },
+    "27": {
+        "「ランドンフットの　南西にある洞くつを抜けた|　ゴズ渓谷……その最深部にある　大雪柱に|　いやしの雪中花は　咲いているという。": "Through the caves southwest of Landon's Foot,|Gosu Valley... At its deepest point, in the|Great Snow Pillar, the healing snowflake|<br>|blooms..."
+    },
+    "28": {
+        "「わかったわ！ |　私　採りにいってくる！！": "Okay, okay! I'm going to go get some!"
+    },
+    "29": {
+        "「……待つんだ　マイユ！": "... Wait for me, Maile!"
+    },
+    "30": {
+        "「マイユのやつ　相当　頭に血がのぼっているな。 |　あの村王の　容態を見たら|　無理もないことだろうが……。": "Mayu's blood is really boiling... I'm sure|it's understandable, seeing the condition of|the village king..."
+    },
+    "31": {
+        "「<pc>。|　ランドンフットの　南西まで|　マイユを　追いかけてくれないか。": "<pc> (speaking spanish) I need you to follow Maile|southwest of Landon Foot..."
+    },
+    "32": {
+        "「今のマイユを　ひとりにするのは心配なんだ。|　それに　ゴズ渓谷の魔物たちは　強い。|　もしものことでも　あったら……。": "I don't want Mayu to be alone right now. And|the demons of Gozu Valley... If anything|should happen to her..."
+    },
+    "33": {
+        "「本当なら　オレが　ついていきたいところだが|　今は　村王の看病に専念しなければ。|　あなただけが　頼りなんだ。": "If it were up to me, I'd go with you, but for|now, I have to focus on taking care of the|Village King. You're my only hope..."
+    },
+    "34": {
+        "「私からも　お願いします。|　どうか　マイユさまを　追いかけて|　いやしの雪中花を　手に入れてきてください！": "I also ask... Please go after Miss Mayu and|get me the healing snowflakes!"
+    },
+    "35": {
+        "「ううっ……。": "Ugh..."
+    },
+    "36": {
+        "「村王！　すぐに行きます！！": "Village King! I'll be right there!"
+    },
+    "37": {
+        "「頼んだぞ　<pc>！|　マイユを追って　ゴズ渓谷の　大雪柱へ向かい|　いやしの雪中花を　手に入れてくれ！": "Come on, man<pc> No! You must follow Maile to the Great Snow|Pillar in Ghoz Valley and get the healing|snowflake!"
+    },
+    "38": {
+        "「まあ　<pc>さん！|　あなたも　来てくれたんですね。": "oh!<pc> Hi! You came too..."
+    },
+    "39": {
+        "「これが　いやしの雪中花……。|　きれい……。": "This is the Snow Flower of Healing...|Beautiful..."
+    },
+    "40": {
+        "「よかった……。この花があれば |　きっと　父さんの命は　助かるはず……。": "Oh, thank God. I'm sure these flowers will|save my dad's life."
+    },
+    "41": {
+        "「ごめんなさい　泣いたりして。|　ずっと気持ちが　張り詰めてたから|　いやしの雪中花を見つけて　安心したみたい。": "I'm sorry, I cried... I've been so uptight|for so long, and finding the healing|snowflakes was such a relief..."
+    },
+    "42": {
+        "「父さんに　もしものことがあったら|　どうしよう……って　そのことばかり|　ずっと　考えてたから……。": "I don't know what I'd do if something|happened to you. That's all I've been|thinking about..."
+    },
+    "43": {
+        "「……じつはね　<pc>さん。|　私　村王クリフゲーンの|　本当の娘では　ないんです。": " The truth is<pc> Miss. I'm not the real daughter of King|Cliffe Gane..."
+    },
+    "44": {
+        "「昔……私が　赤ん坊だった頃|　ランガーオ村の近くで　大きな火事が起きて|　私の　血のつながった父と母は　その時に……。": "A long time ago... When I was a baby, there|was a big fire near the village of Langao,|and my biological father and mother were..."
+    },
+    "45": {
+        "「燃え盛る炎の中　奇跡的に生き残った私を|　父さんは命がけで救い出し……|　そして　身寄りのない私を　引き取ってくれた。": "I miraculously survived the blaze, and my|father risked his life to save me. And then|he took me in. I had no family."
+    },
+    "46": {
+        "「当時　私は　小さかったから |　じつの両親の顔も　なにひとつ覚えてないの。|　でも　さみしいと感じたことは　ないわ。": "I was so small at the time, I don't remember|a single thing about my parents. But I never|felt lonely."
+    },
+    "47": {
+        "「だって　いつだって　父さんが|　やさしい笑顔で　私を見守ってくれて……|　どんな時でも　味方になってくれたもの。": "Because you've always been there for me with|your sweet smile... You've always been there|for me..."
+    },
+    "48": {
+        "「だから　村を出てからも　早く　一人前になって |　父さんに　恩返しをしたいなって|　私……ずっと　そう思ってたんです。": "That's why, even after I left the village, I|wanted to become a man and repay my father.|I've always thought that..."
+    },
+    "49": {
+        "「父さん……。|　私が　絶対に助けるからね。|　ランガーオ村に帰るまで　待っていて。": "Dad... I'll save you. Wait until I get back|to Langao..."
+    },
+    "50": {
+        "「…………。": "..."
+    },
+    "51": {
+        "「さあ　<pc>さん。|　急いで　ランガーオ村へ戻って|　いやしの雪中花を　アロルドに届けましょう！": "well<pc> Mr. Let's hurry back to Langao Village and|deliver the healing snowflakes to Arold!"
+    },
+    "52": {
+        "「父さん……お願い　目を開けて！": "Dad... Please, open your eyes!"
+    },
+    "53": {
+        "「<pc>！　無事に帰ったのか。|　今　マイユが持ってきてくれた|　いやしの雪中花で　薬を作ったところだ。": "<pc> I'm back! I'm home safe. Now, Mayu said she|made a potion with the healing snowflakes she|brought me."
+    },
+    "54": {
+        "「……これで　血が止まるはずだ。|　村王　この薬を　飲んでください。": "... This will stop the bleeding... King of|the village, please take this medicine..."
+    },
+    "55": {
+        "アロルドは　いやしの雪中花を煎じた薬を|村王クリフゲーンに　飲ませた！": "Arrold gave a potion of healing snowdrops to|the village king, Cliffe Gane!"
+    },
+    "56": {
+        "「うう……っ。": "Uu...."
+    },
+    "57": {
+        "「父さんっ！！": "Dad!"
+    },
+    "58": {
+        "「よかった……意識が戻ったのね！": "Thank God... You've regained consciousness!"
+    },
+    "59": {
+        "「マ…マイユ……。": "Ma... Mayu..."
+    },
+    "60": {
+        "「我が娘よ……|　無事に　帰ってきてくれたのか……うっ。": "My daughter... You're back safe and sound.|....."
+    },
+    "61": {
+        "「いやしの雪中花のおかげで|　どうにか　血は止まりましたが|　あまり　無理をなさらないように。": "Thanks to the healing snow flower, the|bleeding stopped somehow, but don't push|yourself too hard..."
+    },
+    "62": {
+        "「むぅ……情けない。 |　アロルド。お前にも　世話になったようだな。": "Mmm... I... Oh... You've been good to me,|too..."
+    },
+    "63": {
+        "「……マイユ。無事で　安心したぞ。": "...... Nothing to worry about..."
+    },
+    "64": {
+        "「それは　こっちのセリフよ。": "It's just, uh, this section..."
+    },
+    "65": {
+        "「……父さん。私が　旅に出ていた間に|　ランガーオ村に　いったい何があったの？|　お願い　教えてちょうだい。": "...... What happened to the village of|Langlao while I was away? Please, tell me..."
+    },
+    "66": {
+        "「……そうだな。|　お前たちには　話しておかねばならんだろう。": "... I... I have to tell you something..."
+    },
+    "67": {
+        "「先日のことだ……。|　突然　フードをかぶって　顔を隠した男が|　ドラゴンの群れを率い　村を襲った。": "The other day... Suddenly, a man with a hood|up over his head, leading a pack of dragons|through the village..."
+    },
+    "68": {
+        "「男は　キズつき倒れた村人たちに |　次々に　不気味なヘビを　近づけると|　神の器はどこだ……と　つぶやいておった。": "A man approaches the wounded and fallen|villagers, one by one, with a macabre snake,|muttering, \"Where is the vessel of God?|<br>|\"Where are the vessels of God?"
+    },
+    "69": {
+        "「だが　その　神の器とやらは|　見つからなかったのか|　男は　ドラゴンとともに　去っていったのだ。": "But when he didn't find his divine vessel...|he left with his dragon..."
+    },
+    "70": {
+        "「<pc>。あなたも|　連続誘拐事件を　追っているんだろう。|　知っていることがあれば　すべて教えてくれ！": "<pc> I'm sorry. You've been tracking a series of|kidnappings... I want to know everything you|know."
+    },
+    "71": {
+        "<pc>は　これまでに起きた誘拐事件と|巫女ヒメアから　聞いた話について|みんなに　説明した！": "<pc> He explained to everyone about the|kidnappings that had happened so far and what|he had heard from the priestess Himea!"
+    },
+    "72": {
+        "「やはり……わしの恐れた通りだったか。": "I knew it... It is as I feared."
+    },
+    "73": {
+        "「父さん？": "Dad?"
+    },
+    "74": {
+        "「……マイユ。お前は　生まれつき |　火に強い子どもだったのだ。": "...... You were born to be a fireproof|child..."
+    },
+    "75": {
+        "「お前の　じつの両親が死んだ |　あの　大火事の時も　燃え盛る家の中で|　お前だけが　ヤケドひとつ負っていなかった。": "Your own parents died in that fire, and you|were the only one in that burning house who|wasn't burned."
+    },
+    "76": {
+        "「そう…だったの……？": "So... Was it...?"
+    },
+    "77": {
+        "「ああ。わしは　大ヤケドを負ったが。|　ちいさいお前は　ケロっとしたものだったぞ。|　ガハハハハ！": "Oh. I've been badly burned... You little|bastard, you're all right... Ha-ha-ha-ha!"
+    },
+    "78": {
+        "「マイユ。お前にそなわった |　火をものともしない　不思議なチカラは|　オーガの神　ガズバラン様のご加護だろう。": "... You are blessed by Gazbalan, the Ogre|God, with a strange power that defies fire."
+    },
+    "79": {
+        "「きっと……お前こそが |　ヤツの探している　神の器なのだ。": "I think... You're the vessel he's looking|for..."
+    },
+    "80": {
+        "「謎の男は　執拗に　村中を探していった。|　おそらく……マイユ　お前を狙っているに|　違いないと　わしは考えている。": "Our mystery man has been searching the|village relentlessly... I think... I think|he's after you. I think..."
+    },
+    "81": {
+        "「だが　何度あやつらが　襲ってきたとしても |　命に代えて　お前だけは　守ってやるぞ！": "But no matter how many times they come for|me, I will protect you with my life!"
+    },
+    "82": {
+        "「無茶言わないでっ！！|　やっと　血が止まったところなのよっ！|　また　キズが開いたら……": "Don't be absurd! The bleeding has just|stopped! If it opens again..."
+    },
+    "83": {
+        "「ふんっ　これしきのケガ！|　歴戦の戦士を　見くびるでないぞ　マイユ。": "I've been injured! Never underestimate a|warrior..."
+    },
+    "84": {
+        "「父さんの強さは　誰より信じてるわ。|　でも……これ以上　父さんに|　迷惑をかけたくないの。": "I believe in your strength more than anyone.|But... I don't want to cause you any more|trouble than I already have."
+    },
+    "85": {
+        "「これまで　育ててもらった恩返しも|　まだ　できていないのに……。": "I haven't even been able to repay you for all|you've done for me."
+    },
+    "86": {
+        "「いっちょまえのクチを　ききおって！": "You've got some nerve, you know that?"
+    },
+    "87": {
+        "「恩返しなど必要ないわ！|　親子の間で　水くさいぞ　マイユ。": "You don't have to repay me! Between father|and son, you stink of water..."
+    },
+    "88": {
+        "「……マイユ。まだ　子を持たぬお前には|　わからんかもしれんが|　お前の笑顔に　わしは何度も救われた。": "...... You may not know it yet, childless as|you are, but your smile has saved my life|many times..."
+    },
+    "89": {
+        "「やり場のない怒りや　悲しみ……|　苦い後悔で　胸が　つぶれそうになる日も|　家へ帰れば　お前がいてくれたんだ。": "The anger, the sadness... And the days when I|feel like my heart is going to burst with|bitter regret... and I come home and you're|<br>|there..."
+    },
+    "90": {
+        "「愛する娘が　笑顔で迎えてくれることが|　どれほど　わしの希望となったか。|　……わしの娘になってくれたこと　感謝する。": "How I wish my beloved daughter would greet me|with a smile... ... To have her as my|daughter..."
+    },
+    "91": {
+        "「父さん……。": "Dad..."
+    },
+    "92": {
+        "「……なあ　マイユ。お前は　まだまだ子供だ。 |　遠慮せずに　父を……周りを頼れ。": "... You know... You're not ready... Don't be|afraid to ask my father... Around..."
+    },
+    "93": {
+        "「そうだよ　マイユ。村王や　オレにとって|　キミは　命よりも大切な人なんだ。|　何があっても　オレたちが　キミを守る！": "That's right. You're more important to the|village king and me than your life itself. No|matter what happens, we'll protect you!"
+    },
+    "94": {
+        "「うむ！　よく言った　アロルド！！": "Mmm! Well said, Arrold!"
+    },
+    "95": {
+        "「この村王と　アロルドがいれば　百人力！ |　幸いなことに　<pc>もいるのだ！|　どんな敵が来ようと　心配にはおよばん。": "With this village king and Arold, we'll be a|hundred strong! Fortunately for us.<pc> There are many! No matter what enemy comes|our way, we can't help but worry..."
+    },
+    "96": {
+        "「ありがとう　みんな。": "Thank you ..."
+    },
+    "97": {
+        "「……私　ちょっと　外の空気を　吸いたいな。|　すぐに戻るわね。": "I just... I just... I need to get some air.|I'll be right back..."
+    },
+    "98": {
+        "「マイユ　ひとりじゃ危ない。 |　オレも行こう。": "Mayu, I'm not alone. Me, too..."
+    },
+    "99": {
+        "「……突然　神の器だなどと言われ |　その上　村が襲われた原因が　自分だと知って|　あの子も　混乱しているのだろう。": "... Suddenly she's being told she's the|vessel of the gods, and now she knows she's|the reason the village was attacked."
+    },
+    "100": {
+        "「<pc>。|　すまんが　あのふたりを　追いかけてくれんか。": "<pc> I'm sorry. I'm sorry, but I need you to go|after those two..."
+    },
+    "101": {
+        "「いつ　あの男が襲ってくるかもわからん。 |　ヤツの強さは　おそるべきもの……|　用心にこしたことは　なかろう。": "We don't know when that man will strike. He's|strong. He's a force to be reckoned with. You|have to be careful..."
+    },
+    "102": {
+        "「そして　万が一　ヤツらが襲ってきたなら |　その時は　わしの娘を守ってくれ。|　頼んだぞ　<pc>！": "And in the unlikely event that they do|attack, to protect my daughter... I'm|counting on you.<pc> ！"
+    },
+    "103": {
+        "「……ばかよ　父さんは。": "... Oh, my God. Dad..."
+    },
+    "104": {
+        "「私が　笑っていられたのは|　父さんが　いてくれたからなのに。|　私に感謝するなんて……話が　あべこべよっ！": "I'm only smiling because of you. You can't|thank me for... You're talking out of your|ass!"
+    },
+    "105": {
+        "「昔っから　お前は　意地っ張りだったもんな。|　泣きたくなると　オレを連れて　ここへ来て|　誰にも　見つからないように　見張りをさせて。": "You were always so stubborn... Whenever you|wanted to cry, you'd come over here with me,|and you'd stand guard so no one would find|<br>|us."
+    },
+    "106": {
+        "「だって……あの場で　泣いたりしたら|　よけいに　父さんに心配かけるでしょっ！！": "But... If you cry, you'll worry your father|even more!"
+    },
+    "107": {
+        "「……親にとっては　いつまでも|　子供は　子供なんだよ　マイユ。": "... To a parent, a child will always be a|child..."
+    },
+    "108": {
+        "「心配するのも　親の仕事のうちさ。|　村王の気持ちを　受け止めて　素直になれよ。|　……それが　一人前になるってことさ。": "It's my job as a parent to worry... Accepting|the King's feelings and being honest... ...|That's what it means to be a man."
+    },
+    "109": {
+        "「アロルド……。": "Aroldo..."
+    },
+    "110": {
+        "「きゃっ　<cs_pchero>さん！？|　いつから　聞いてたんですか……": ""
+    },
+    "111": {
+        "「どうしたんだい　マイユ？": "What's the matter, Maile?"
+    },
+    "112": {
+        "「ドラゴンの群れが　村にっ！！": "There's a dragon pack in the village!"
+    },
+    "113": {
+        "「早く　みんなを助けに行かなきゃ！！": "Come on, we gotta go get the others!"
+    },
+    "114": {
+        "「ダメだ！|　ヤツらの狙いは　お前なんだ。|　みすみす　危険に飛び込んでどうする！": "No! No! They want you... You can't just jump|into danger like that!"
+    },
+    "115": {
+        "「……幸い　この武闘場に　お前がいることは |　まだ　気づかれていないだろう。|　しばらく　ここで身を潜め　様子をうかがおう。": "... Fortunately, your presence in this arena|has not gone unnoticed... I'll hide out here|for a while, see what happens."
+    },
+    "116": {
+        "「でも……": "But"
+    },
+    "117": {
+        "「……<cs_pchero>！|　あなたも　村に飛来したドラゴンは見ただろう。|　頼む。村へ戻り　みんなに加勢してやってくれ！": "<cs_pchero>You too. You've seen the dragons that have|come to our village... ... Go back to your|village and join them!"
+    },
+    "118": {
+        "「<cs_pchero>さん……。|　私からも　お願いします！": "<cs_pchero>Sir... I'm asking you to do the same!"
+    },
+    "119": {
+        "「どうか　ランガーオ村のみんなを……|　父さんを　守ってください！": "Please, protect everyone in Langao... Please|protect my father!"
+    },
+    "120": {
+        "「<cs_pchero>さん！|　村のみんなは　無事ですかっ！？": "<cs_pchero>Sir! Is everyone in the village all right?"
+    },
+    "121": {
+        "「そうか。ドラゴンたちは　村を荒らしたあと|　どこかへ　飛び去っていったのか。|　だが　また　いつ　襲ってくるか……。": "... The dragons ravaged the village... and|flew away. But who knows when they'll strike|again?"
+    },
+    "122": {
+        "「あれは……？|　空の向こうから　何かが　近づいてくる……。": "Is that...? It's something approaching from|the other side of the sky."
+    },
+    "123": {
+        "「どうしたんだい　マイユ？": "What's the matter, Maile?"
+    },
+    "124": {
+        "「空から　ドラゴンの群れが！|　再び　村を　襲いにきたというの！？": "Dragons are rising from the sky! They've come|to attack our village again!"
+    },
+    "125": {
+        "「くそっ　新手か！！": "Damn, that's a new one!"
+    },
+    "126": {
+        "「<cs_pchero>！|　すまないが　もう一度　村へ戻って|　魔物たちから　みんなを　守ってくれ！": "<cs_pchero>I'm sorry! I'm sorry, but I need you to go|back to the village and protect everyone from|those demons!"
+    },
+    "127": {
+        "「<cs_pchero>さん……。|　私からも　お願いします！": "<cs_pchero>Sir... I'm asking you to do the same!"
+    },
+    "128": {
+        "「どうか　ランガーオ村のみんなを……|　父さんを　守ってください！": "Please, protect everyone in Langao... Please|protect my father!"
+    },
+    "129": {
+        "「……これで　村を襲ってきた魔物は|　すべて倒したはずだ。<cs_pchero>。|　お前がいなければ　危ないところだったぞ。": "... We've defeated all the demons that have|attacked the village...<cs_pchero>(laughs) I'd be in danger if it weren't for|you..."
+    },
+    "130": {
+        "「こっちも　なんとか　片付けたぞ！ |　今度こそ　ランガーオ村を　守り切ったんだ！": "We've taken care of it too! This time we've|defended the village of Langao!"
+    },
+    "131": {
+        "「よし！　村王に　報告しに行こう。|　これだけ　こてんぱんに　してやれば|　魔物たちも　もう　襲ってこんはずだ……": "All right! I'll go tell the village king...|I'm sure the demons won't attack us now that|we've beaten them to a pulp."
+    },
+    "132": {
+        "「た……大変だ……っ！": ""
+    },
+    "133": {
+        "「て……敵の首領の|　あの　フードをかぶった男が……|　武闘場へ……向かっ…た……！": "And... The leader of the enemy, the man in|the hood... To the arena... Heading...|There..."
+    },
+    "134": {
+        "「なんだと！？": "What the hell?"
+    },
+    "135": {
+        "「……我々も　必死に　戦ったが|　まるで　歯が立たず……。": "... We fought like hell, but we were no match|for him."
+    },
+    "136": {
+        "「村王……カタキを討てず…… |　申し訳な……うっ……！": "Village King... I failed to defeat Kataki...|I'm sorry... Ugh...!"
+    },
+    "137": {
+        "「おいっ　しっかりしろ！！": "Hey, come on!"
+    },
+    "138": {
+        "「……ん？　どうした　<cs_pchero>。|　そんなに慌てて。": "... Hmm? What's going on?<cs_pchero>. So much for..."
+    },
+    "139": {
+        "「なにっ！？|　武闘場には　マイユさんがいるだとっ！！": "What? Mr. Mayu is in the arena!"
+    },
+    "140": {
+        "「た　頼む……<cs_pchero>！|　すぐに　武闘場へ向かってくれ……。": "Please<cs_pchero>Go! I need you to head to the arena right|away..."
+    },
+    "141": {
+        "「オレたちでは　ヤツには　勝てん……。|　……<cs_pchero>！|　どうか……マイユさんを　守ってくれ……。": "We can't beat him... We can't...<cs_pchero>No! Please... You have to protect Maile."
+    },
+    "142": {
+        "「お前が　村をドラゴンに襲わせたのか！|　答えろっ！！": "Did you let those dragons attack our village?|Answer me!"
+    },
+    "143": {
+        "「……先日　この村を訪れた時には |　貴様ら　いなかったな？": "... You weren't here the other day when I|visited the village, were you?"
+    },
+    "144": {
+        "「おい！　なんのつもりだ！？": "Hey! What the hell are you doing?"
+    },
+    "145": {
+        "「女。貴様か……。": "Woman. You or..."
+    },
+    "146": {
+        "「…………！！": "...!"
+    },
+    "147": {
+        "「貴様こそが　我々が探し求めていた|　神の器！！": "You are the divine vessel we've been looking|for!"
+    },
+    "148": {
+        "「お前の相手は　このオレだ！！": "It's me you're dealing with!"
+    },
+    "149": {
+        "「はああああああーっ！！": "Haaaaaaah!"
+    },
+    "150": {
+        "「……チッ。": "....."
+    },
+    "151": {
+        "「面倒だな……眠っているがいい。": "It's too much trouble... He's asleep..."
+    },
+    "152": {
+        "「ぐぅっ……か　身体が……！！": "Oh, no... Oh, my body!"
+    },
+    "153": {
+        "「アロルドっ！": "Arold!"
+    },
+    "154": {
+        "「来…る……な……|　……マイユ。この霧……危険……。": "Come... Come... Don't... ...... This fog...|Danger..."
+    },
+    "155": {
+        "「アロルドーっ！！！": "Aroldor!"
+    },
+    "156": {
+        "「さあ　神の器よ……|　我らのもとへ　来てもらおうか。": "Now, vessel of God... Come to us..."
+    },
+    "157": {
+        "「……さない……。": "... No..."
+    },
+    "158": {
+        "「父さんばかりか　アロルドまで！|　私は　あなたを絶対に　許さないっ！！": "Not only my father, but also Arold! I'll|never forgive you for what you've done!"
+    },
+    "159": {
+        "「類まれなる　その強さ……|　貴様が　神の器に　間違いないようだな。": "Your strength is unparalleled. I have no|doubt that you are the vessel of God."
+    },
+    "160": {
+        "「……やるじゃない。|　私の　父さんに　|　深手を負わせただけのことは　あるわね……。": "... Good. You're the one who hurt my dad so|badly."
+    },
+    "161": {
+        "「でもね　私……": "But you know, I"
+    },
+    "162": {
+        "「すごく　怒ってるのよ！！": "I'm so angry!"
+    },
+    "163": {
+        "「今すぐ　ランガーオ村から　出ていきなさい！|　さもないと……": "Get out of the village of Langao right now!|If you don't..."
+    },
+    "164": {
+        "「その顔……！|　あなた　魔物だったの……！？": "Your face... You're a demon...?"
+    },
+    "165": {
+        "「……魔物ではない。": "... A demon..."
+    },
+    "166": {
+        "「我々は　この世界の歴史から|　忘れ去られし種族……。": "We are a race forgotten by the history of|this world..."
+    },
+    "167": {
+        "「なっ……。": "Well..."
+    },
+    "168": {
+        "「テキスト削除": "text deletion"
+    },
+    "169": {
+        "「……く…っ　アロル…ド……。": "... K... Alor... Do..."
+    },
+    "170": {
+        "「さすがは　神の器……。|　こうも　手こずらされるとはな。": "That's what I call a divine vessel. I can't|believe I'm going through all this..."
+    },
+    "171": {
+        "「だが　もはや　我が手中に落ちた。": "But now that I have it..."
+    },
+    "172": {
+        "「……また　貴様か。 |　この姿を見られた以上|　もはや　決着をつけねばなるまい。": "... And again... Now that you've seen me,|I'll have to settle for..."
+    },
+    "173": {
+        "「たしか……<cs_pchero>という名だったな。": "I think<cs_pchero>It's called..."
+    },
+    "174": {
+        "「我が名は　竜将アンテロ。|　<cs_pchero>よ　我が手で　貴様に|　引導を渡してやろう！": "My name is Dragonlord A...<cs_pchero>Now, I'm going to make you pay for what|you've done!"
+    },
+    "175": {
+        "「テキスト削除": "text deletion"
+    },
+    "176": {
+        "「……く…っ　アロル…ド……。": "... K... Alor... Do..."
+    },
+    "177": {
+        "「さすがは　神の器……。|　あの攻撃を受けて　なおも　動けるとはな。": "That's the vessel of a god... He can take a|hit like that and still move..."
+    },
+    "178": {
+        "「だが　もはや　我が手中に落ちた。|　……ん？": "But now that I have it... ... Hmm?"
+    },
+    "179": {
+        "「……<cs_pchero>か。": "<cs_pchero>Ka."
+    },
+    "180": {
+        "「何度　ジャマしてもムダなことよ。 |　……今度こそ　つぶさせてもらう。": "I don't care how many times I have to|interrupt you... I can't... Let me crush it|this time..."
+    },
+    "181": {
+        "「貴様……この私に　手キズを負わせるとは。": "You... You hurt me with your hands."
+    },
+    "182": {
+        "「だが　これしきで……|　私を倒したと思ってもらっては　困るぞ。": "But it's not enough... If you think you've|defeated me..."
+    },
+    "183": {
+        "「マイユっ！　アロルド！ |　ケガはないかっ！？": "Mayle! Arold! Are you hurt?"
+    },
+    "184": {
+        "「なっ……その異形の姿……|　魔物かっ！？": "What the... That deformed figure... A demon?"
+    },
+    "185": {
+        "「いや　その背格好には　見覚えがある。 |　貴様！　先日　村を襲った　白フードの男だな！": "No, I've seen you before... You! You're the|man in the white hood who attacked the|village the other day!"
+    },
+    "186": {
+        "「あの時の借り　今日こそ　返させてもらうぞ。": "I owe you for that time. Today is the day I|can pay you back."
+    },
+    "187": {
+        "「……さすがに　これほどの手練れに |　囲まれては　分が悪いな。|　オーガの神の器は　しばし　預けておいてやる。": "... It's no wonder we're surrounded by so|many skilled men... I'll leave the ogre's|vessel for now..."
+    },
+    "188": {
+        "「……我ら　竜族の野望。 |　必ず　この手で　実現してみせる。": "... We, the Dragon People... I will make this|happen..."
+    },
+    "189": {
+        "「<cs_pchero>よ。 |　次に会う時が　貴様の最期だっ！！": "<cs_pchero>You are dead. The next time I see you, it|will be your last!"
+    },
+    "190": {
+        "「竜族だと……？ |　あの異形の姿と　恐ろしいまでの強さ。|　いったい　竜族とは何者なのだ……。": "A dragon race...? That strange shape and the|horrible... Who the hell are the Dragons?"
+    },
+    "191": {
+        "「いや　今は　マイユと　アロルドが心配だ。 ": "No, it's Mayle and Arold now..."
+    },
+    "192": {
+        "「う…ううっ……。": "Ugh... Ugh..."
+    },
+    "193": {
+        "「アロルド！|　しっかりして　アロルドっ！！": "Arold! Stay with me, Arold!"
+    },
+    "194": {
+        "「お前たちが　持ってきてくれた|　いやしの雪中花や　治癒の魔法でも|　アロルドの毒は　消えなかった……。": "All the healing spells and snowdrops you've|brought me have failed to dispel the poison|of Arold."
+    },
+    "195": {
+        "「わしも　様々な魔物たちと|　戦ってきたが　こんな症状の毒は|　見たことも　聞いたこともない。": "I've fought many demons in my time, but I've|never seen or heard of a poison like this."
+    },
+    "196": {
+        "「う…う……マイユ……。": "Uh... Uh... Mayu..."
+    },
+    "197": {
+        "「アロルド！　私は　ここよっ！！": "Arold! I'm here!"
+    },
+    "198": {
+        "「アンテロとやらの居所を　つきとめれば |　この毒を治す方法も　わかるかもしれんが……。": "If we can find out where Antero is, maybe we|can figure out how to cure this poison."
+    },
+    "199": {
+        "「お取り込み中　失礼いたします！": "I'm busy. Excuse me!"
+    },
+    "200": {
+        "「申し上げます！": "I say!"
+    },
+    "201": {
+        "「英雄　<pc>どの。|　ただちに　グランゼドーラ城へ戻り|　東の塔まで　足を　お運びください！": "heroes<pc> Which one? You must return to Granzedorra|Castle immediately and make your way to the|east tower!"
+    },
+    "202": {
+        "「グランゼドーラ城というと…… |　レンダーシアにあるという　あの城か？": "Granzedorra Castle... Is that the castle in|Renderosia?"
+    },
+    "203": {
+        "「いかにも。シオン様から　急ぎ|　<pc>どのに　おいでいただきたいと|　伝言を　預かって参りました！": "I... Mr. Theon.<pc> I've been sent word that you're needed here!"
+    },
+    "204": {
+        "「なんでも　相次ぐ　誘拐事件について|　重大なことを　<pc>どのに|　直接　お伝えしたいとのことであります！": "Anything to do with the rash of kidnappings| It's important<pc> He wants to tell you in person!"
+    },
+    "205": {
+        "「……行け　<pc>。|　お前のチカラが　必要とされているのだろう。|　あとのことは　わしに　まかせろ。": " Go<pc> (speaking spanish) Your help is needed...|I'll take care of the rest..."
+    },
+    "206": {
+        "「ええ。私は　アロルドを看病するわ。 |　だから　あなたは　アンテロを追ってください。|　<pc>さん。": "Yeah. I'm taking care of arold... So you're|going after Antero...<pc> San."
+    },
+    "207": {
+        "「それでは　私は　これにて失礼します！|　英雄　<pc>どの。|　グランゼドーラ城　東の塔まで　お急ぎを！": "Then I will take my leave! Hero.<pc> Which one? Hurry to the east tower of|Granzedorra Castle!"
+    },
+    "208": {
+        "「……おっと　<pc>。|　グランゼドーラ城へ　出発する前に|　これを　受け取ってくれ。": " Oops<pc> I'm sorry. Before we leave for the|Granzedorra Castle, I'd like to take this..."
+    },
+    "209": {
+        "「我が娘　マイユを守ってくれた礼だ。|　お前には　心から　感謝しているぞ。": "For protecting my daughter, Maile. I thank|you from the bottom of my heart..."
+    },
+    "210": {
+        "「しかし　グランゼドーラ城から|　じきじきに　呼び出しとは。|　まさに　お前は　アストルティアの英雄だな。": "But I will soon be summoned from the castle|of Granzedorra... You are the bringer of|Astrotasia..."
+    },
+    "211": {
+        "「では　達者でな　<pc>！|　アロルドのことは　まかせておけ。": "Good luck<pc> No! I'll take care of Arold."
+    },
+    "212": {
+        "「<pc>さん。|　あの　竜将アンテロという男には|　くれぐれも　お気をつけて……。": "<pc> sir. Please be careful with that Dragon|General Antero..."
+    },
+    "213": {
+        "「<pc>……あなたを　待っていました。": "<pc> ... I'm waiting for you..."
+    },
+    "214": {
+        "「これまで　あなたが　誘拐事件を追って|　知ったこと　そのすべてを……|　私に　聞かせていただけませんか？": "I'm wondering if you'd like to tell me|everything you've learned so far about the|kidnapping case. I'd love to hear it."
+    },
+    "215": {
+        "<pc>は　シオンに|これまでの出来事を　話した！": "<pc> has told Theon everything that's happened!"
+    },
+    "216": {
+        "「……竜将アンテロ。|　ランガーオ村に現れた　その男は|　確かに　自らを　竜族だと名乗ったのですね？": "... Dragonlord A... The man who appeared in|the village of Langao... did he indeed call|himself a dragon clan?"
+    },
+    "217": {
+        "「やはり……竜族が。": "I knew it: ......"
+    },
+    "218": {
+        "「……<pc>。|　あなたを　ここへ呼んだのは|　竜族という存在について　教えるためです。": "<pc> . I called you here to teach you about the|existence of the Dragon People..."
+    },
+    "219": {
+        "「この世界の歴史から　忘れ去られし　幻の種族 |　……空の民　竜族。": "A phantom race, forgotten in the history of|this world. People of the sky..."
+    },
+    "220": {
+        "「ランガーオ村に現れた　アンテロという者の姿は |　まさに　古来より伝えられし　竜族そのもの。|　……あなたには　聞き覚えがあるのでは？": "The figure of Antero who appeared in the|village of Langau is exactly what the dragon|tribe has been saying since ancient times...|<br>|... Doesn't that sound familiar to you?"
+    },
+    "221": {
+        "「そう……あなたの古き友　シンイが|　仮の宿りとした　クロウズもまた|　アンテロ同様　竜族と　名乗っていたはず……。": "So... Your old friend Xinyi's temporary home,|the Crowes, would have called themselves|dragons, just like Antero."
+    },
+    "222": {
+        "「……この先は　私が語るよりも|　あなた自身の目で　確かめてくるほうがいい。": "... I'd rather you go and see for yourself..."
+    },
+    "223": {
+        "「<pc>。 |　この　アストルティアには……竜族が住む|　竜族の隠れ里という場所が　あります。": "<pc> . Here in Astrutia... There's a place called|the Hidden Village of the Dragon People..."
+    },
+    "224": {
+        "「飛竜に乗り　モンセロ温泉峡の南にある|　煙霧の谷へ降り立ち……|　竜の描かれた壁画の前で　竜笛を　吹きなさい。": "We rode a dragon down to the Valley of Smoke|and Fog, south of Montserró Hot Springs|Gorge... In front of a mural of a dragon,|<br>|blowing a dragon whistle..."
+    },
+    "225": {
+        "「そうすれば……|　竜族の隠れ里への道が　開けるでしょう。": "If we do this... It will open the way to the|hidden home of the Dragon People..."
+    },
+    "226": {
+        "「……さあ　これを　持っていきなさい。|　これからの　あなたの旅を助けるため|　用意しておいたものです。": "... Now, take this with you... I've prepared|something to help you on your journey..."
+    },
+    "227": {
+        "「……ん？": "... Hmm?"
+    },
+    "228": {
+        "「ギュラン！　ふたりを　家まで運ぶぞっ！！|　<cs_pchero>っ。|　お前も　後から来てくれ！": "Curran! We're gonna get you both home!<cs_pchero>Yeah. You, come after me!"
+    },
+    "229": {
+        "「悠久の時を経て　定められし　運命の時が|　アストルティアに　訪れようとしている……。|　すべては　その流れのひとつに　すぎない。": "A time of destiny, set in motion by the ages,|is about to come to Astrutia. Everything is a|part of that flow."
+    },
+    "230": {
+        "<pc>は|白き導き手（だいじなもの）を　受け取った！<me 60>": "<pc> has received a white guiding hand!<me 60>"
+    },
+    "231": {
+        "「その　白き導き手を　持っていれば |　いかなる場所にいようとも|　私からの助言が　あなたに　届くはずです。": "If you have that white guiding hand, wherever|you are, my advice will reach you..."
+    },
+    "232": {
+        "「さあ　行きなさい　<pc>。|　竜族の隠れ里を　訪れるのです。": "Go on Go on<pc> . A visit to the hidden village of the Dragon|People..."
+    },
+    "233": {
+        "「……真実に至るカギは　そこにある。|　あなたなら　きっと見つけられるでしょう。": "... The key to the truth... I know you can|find it."
+    },
+    "234": {
+        "「あれは……？|　空の向こうから　何かが　近づいてくる……。": "Is that...? It's something approaching from|the other side of the sky."
+    },
+    "235": {
+        "「そんな……！": "Oh, no...!"
+    },
+    "236": {
+        "「ただし……白き導き手が　声を伝えるのは|　私の方から　呼びかけた時のみ。|　あまり　期待は　しすぎないように……。": "Except... The white guiding light will carry|the voice of the one who called to me... Do|not expect too much."
+    }
+}

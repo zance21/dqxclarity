@@ -1,0 +1,773 @@
+{
+    "1": {
+        "「では　バスラー殿。|　グランゼドーラ王国の　アンルシア姫に|　なにとぞ　よろしく　お伝えください。": "And now, Bass... Please give my regards to|Princess Anne Lucia of Granzedora..."
+    },
+    "2": {
+        "「はっ。承知いたしました。|　私めは　これにて　失礼いたします。": "Haha. Yes, sir... I will take my leave now..."
+    },
+    "3": {
+        "「おや……　旅人か？": "Oh... You're a traveler?"
+    },
+    "4": {
+        "「私は　国王　ベルムドだ。|　旅人よ。よくぞ　砂漠を越えて|　このアラハギーロ王国まで　参られた。": "I am the king, Bel... Bel... You have crossed|the desert to the kingdom of Arrahaguillo..."
+    },
+    "5": {
+        "「ところで　ひとつ　つかぬことを聞くが|　ここへ来るまで　国民の様子に|　不自然なところは　感じなかっただろうか？<yesno><close>": "By the way, if you don't mind me asking, did|you notice anything unnatural about the|people on your way here?<yesno><close>"
+    },
+    "6": {
+        "「じつは　この国の民たちは　少し前に起こった|　ある戦争をきっかけに　自分の名前も記憶も……|　すべての過去を　失ってしまってな……。": "The truth is, the people of this country lost|their names, their memories... They lost|their names, their memories, their whole|<br>|past."
+    },
+    "7": {
+        "「そのため　国は混乱を極め　民は希望を失った。|　途方に暮れた私は　すがる思いで|　ただ　神に　祈りを捧げたのだ。": "So the country was in turmoil, and the people|had no hope. I was at a loss, so I prayed to|God..."
+    },
+    "8": {
+        "「そして……私は　神から啓示を受けた。|　絶望している民に　名前と使命を与え|　正しき未来へ　導くように……と。": "And... I had a revelation from God... To give|a name and a mission to a desperate people,|to lead them to a just future. ...."
+    },
+    "9": {
+        "「かくして　この国は　復興の途上にある。|　もし　我が国民に　何か不手際があったら|　どうか　大目に見てやってほしい。": "And so this country is on the road to|recovery. If there's anything wrong with my|people, please forgive me..."
+    },
+    "10": {
+        "「王様！　お話し中に　申し訳ありません。|　もう間もなく　試合が始まる　お時間です。|　そろそろ　ご準備を……。": "My king! My apologies for interrupting...|It's almost time for the game. I think it's|time for you to get ready..."
+    },
+    "11": {
+        "「おぉ　もう　そんな時間か。": "Oh, no..."
+    },
+    "12": {
+        "「そなたも　一度　観戦していかれてはどうだ？|　我が国の名物を。": "Why don't you go and watch one of your own?|Our country..."
+    },
+    "13": {
+        "「城の北にある　モンスター格闘場に|　足を運んでみてくれたまえ。|　おもしろいものを　お見せしよう。": "If you'd like to visit the monster fighting|ring north of the castle... I have something|interesting to show you."
+    },
+    "14": {
+        "「あら　アンタ。見慣れない顔だわね。|　今　来たの？": "Oh... You don't look familiar. Did you just|get here?"
+    },
+    "15": {
+        "「ハハハハ。遅かったな！|　この国の名物　モンスターバトルなら|　たった今　終わっちまったところだ。": "Ha... You're late! This country's famous|monster battle just ended..."
+    },
+    "16": {
+        "「いやいや　本当のお楽しみは　これからさ！|　見ろよ。ショーが　始まるぜ！": "No, no, no, no. The real fun is just|beginning. ... The show is about to start!"
+    },
+    "17": {
+        "「ベールームド！　ベールームド！": "Bare-roomed! Bare-roomed!"
+    },
+    "18": {
+        "「弱者には　制裁を！": "Sanctions for the weak!"
+    },
+    "19": {
+        "「うおおおおおお！！": "Whoa, whoa, whoa!"
+    },
+    "20": {
+        "「やめてっ！！": "Stop it!"
+    },
+    "21": {
+        "「こんなこと　もう　やめて！": "You don't have to do this!"
+    },
+    "22": {
+        "「正々堂々　戦ったじゃない！|　どうして　こんなひどい仕打ちをするの？": "We fought fair and square! Why do you treat|me so badly?"
+    },
+    "23": {
+        "「弱い魔物など　こうやって|　観客を楽しませることぐらいにしか|　役に立たぬ。": "Weak demons are only good for entertaining an|audience like this..."
+    },
+    "24": {
+        "「そんな……。|　命を使い捨てにするなんて　あんまりだわ！": "You can't... You can't treat life like it's|disposable!"
+    },
+    "25": {
+        "「それに　試合でキズついた　無抵抗の魔物に|　剣を向けるなんて　王様のすることじゃない！！|　あなたなんか　ただの　ひきょう者よ！": "And pointing a sword at an unarmed demon|who's been hurt in a fight is no way for a|king to treat a demon! You're nothing but a|<br>|coward!"
+    },
+    "26": {
+        "「この　ひきょう者っ！！": "You coward!"
+    },
+    "27": {
+        "「……フッ。ひきょう者…か。": "..... The Cynic ...."
+    },
+    "28": {
+        "「いいだろう。ショーは中止だ。|　その魔物は　オリに放り込んでおけ。": "Good... Shaw... That demon was thrown in a|cage..."
+    },
+    "29": {
+        "「ヤツめ……。|　また　私のジャマをするのか……。": "He... You're messing with me again..."
+    },
+    "30": {
+        "「……さっきのは　なんのマネだ　小娘！？|　まったく　余計なことしやがって！": "What the... What the hell was that, little|girl? What the hell did you do that for?"
+    },
+    "31": {
+        "「そうだ！　テメーのせいで　ショーが台無しだ！|　よくも　オレたちの楽しみを|　奪ってくれたなぁ！！　あぁん？": "That's right! You're ruining the show! You|ruined our show! You ruined our fun! Huh?"
+    },
+    "32": {
+        "「あの王様に　盾つくなんて……|　アナタ　何様のつもりなのよ！？": "I can't believe you're defending that king.|Who the hell do you think you are?"
+    },
+    "33": {
+        "「わ　私は　ただ……　かわいそうで|　見ていられなかったから……。": "I mean, I just... I just couldn't stand to|watch that happen."
+    },
+    "34": {
+        "「あぁ？　魔物が　かわいそうだと！？|　人間を襲う　おぞましい魔物をこらしめて|　何が　かわいそうだってんだよ！！": "What? You feel sorry for the demons? What's|the point of feeling sorry for a horrible|demon that attacks humans?"
+    },
+    "35": {
+        "「あ……。": "あ..."
+    },
+    "36": {
+        "「すみません！　た　助けてください！": "I'm sorry! I need your help!"
+    },
+    "37": {
+        "「んあ？　なんだ　アンタ。よそもんだろ？|　よそもんが　首つっこむんじゃねえよ。|　引っ込んでろっ！": "Hmm? What the... You're a stranger, right?|You're a stranger. Don't stick your neck|out... Stay out of this!"
+    },
+    "38": {
+        "「ちょ　ちょっと……。|　やめておいたほうが　いいんじゃない？|　アンタが　勝てる相手じゃなさそうだし……。": "Hey... I don't think you should do this. It|doesn't look like you can win..."
+    },
+    "39": {
+        "「……チッ！|　二度と　あんなマネするなよ　小娘！": "... Damn it! Don't you ever do that again,|you little bitch!"
+    },
+    "40": {
+        "「あの……　ありがとう！|　あなたのおかげで　助かったわ。|　えっと　旅人さんよね？": "Um... Thank you! I couldn't have done it|without you. You're the traveler, right?"
+    },
+    "41": {
+        "「……へぇー　<pc>さんっていうんだ。|　私は　セラフィ！": " Heh<pc> I am... I'm Seraphy!"
+    },
+    "42": {
+        "「えへへ……。セラフィって名前も|　本名かどうか　わからないんだけどね。|　みんな　自分のこと　忘れちゃってるから。": "Heh, heh... I don't even know if Seraphy's my|real name. We've all forgotten who we are,|so..."
+    },
+    "43": {
+        "「<pc>さんは　どうして|　こんな砂漠の国へ　やってきたの？": "<pc> Why did you come to a desert country like|this?"
+    },
+    "44": {
+        "「えっ　蝶を探してる？|　……うーん。こんな砂漠の真ん中に|　蝶なんて　いるのかなぁ。": "What, are you looking for a butterfly? ......|How can there be butterflies in the middle of|the desert..."
+    },
+    "45": {
+        "「あれ……　ちょっと　待って。|　蝶！？": "Oh... Just... Butterfly?"
+    },
+    "46": {
+        "「蝶　ちょう　チョウ……。|　なんだか　チョー　気になるわ。": "Butterflies, chows... I don't know. I'm|just..."
+    },
+    "47": {
+        "「うーん……。|　気になる…んだけど　思いだせないや。": "Hmm... I'm curious... I don't remember..."
+    },
+    "48": {
+        "「でも　こんなに引っかかるってことは|　私のなくした過去に　蝶が|　何か　関係してるのかも……。": "But if it's stuck with me like this, then|maybe the butterfly has something to do with|my lost past."
+    },
+    "49": {
+        "「そうだ！　旅人の　<pc>さんに|　お願いしたいことがあるの。": "That's right! The traveler.<pc> I need you to do something for me..."
+    },
+    "50": {
+        "「この町を出て西にある　ムルードの岩山って所に|　見てもらいたいものがあるんだ。|　そこまで来てほしいんだけど　お願いできる？<yesno><close>": "Just outside of town, to the west, there's a|place called Murud's Rock, and there's|something I want you to see. I need you to|<br>|come up there. Can you do that for me?<yesno><close>"
+    },
+    "51": {
+        "「そんなこと言わないで　お願いっ！|　来てくれたら　<pc>さんが探してる|　蝶のことも　思いだせるかもしれないの。ねっ？<yesno><close>": "Don't say that. Please! If you come.<pc> It might remind you of the butterfly you're|looking for... You know?<yesno><close>"
+    },
+    "52": {
+        "「やったー！|　じゃ　私　先に行って待ってるから|　よろしくね　<pc>さん！": "Yay! I'll go ahead and wait for you.<pc> Three!"
+    },
+    "53": {
+        "「あっ　<pc>さん！|　来てくれたんだね。ありがとう！": "oh!<pc> Mr! You're here... Thank you!"
+    },
+    "54": {
+        "「ここ　誰かの　お墓みたいなんだけど……|　ひとりで　お城の周りを|　探検してるときに　見つけたんだ。": "This place looks like someone's grave, but...|I found it when I was exploring the castle by|myself..."
+    },
+    "55": {
+        "「じつはね……　そのとき|　王様も　ひとりで　ここへ来てたの。": "The truth is... The king came here alone..."
+    },
+    "56": {
+        "「ビックリして　物陰に隠れたから|　私のことは　気づいてないと思うけど|　兵士さんも連れてないなんて　すこし変だよね。": "I was so scared, I hid in the shadows, so I|don't think he noticed me, but it's a little|weird that he didn't have a soldier with him."
+    },
+    "57": {
+        "「だから　意味がある場所なのかなって|　ずっと　気になってたの。でも　私|　文字が読めないから　何も　わからなくて……。": "So I've been wondering if there's a meaning|to this place. But I can't read, so I don't|know what it means."
+    },
+    "58": {
+        "「それでね。旅人の　あなたなら|　お墓の文字が　読めるかもって思って|　来てもらったんだ。": "So... I thought that you, a traveler, might|be able to read the words on the grave, so I|asked you to come..."
+    },
+    "59": {
+        "「ねぇ　<pc>さん。|　このお墓に　なんて書いてあるか　わかる？": "Hey<pc> Three. Do you know what it says on this|grave?"
+    },
+    "60": {
+        "<pc>は　墓石に刻まれた文字を見た。|ごくありふれた文字が　書かれているようだ。": "<pc> The inscription on the tombstone... It's a|very common inscription..."
+    },
+    "61": {
+        "<center>爆走竜ドランゴ　安らかに眠る": "Durango, the Bakuganryu, may he rest in peace"
+    },
+    "62": {
+        "「よかった！　やっぱり　読めるんだね！": "Oh, good! I knew you could read!"
+    },
+    "63": {
+        "「じゃあ　次は　このお墓の文字　読んでくれる？": "Now, can you read the words on this grave for|me?"
+    },
+    "64": {
+        "<pc>は　墓石に刻まれた文字を　読んだ。": "<pc> ...is the inscription on the tombstone."
+    },
+    "65": {
+        "<center>第３回　モンスター格闘大会チャンピオン|ピエールの墓": "The 3rd Monster Fighting Tournament Champion|Pierre's tomb"
+    },
+    "66": {
+        "「モンスター格闘大会って　なんだろう？|　……魔物同士が　戦う大会？|　その　チャンピオン……。": "What's a monster fighting tournament? It's...|A tournament where demons fight each other?|And the champion..."
+    },
+    "67": {
+        "「<pc>さん　こっちのお墓も　お願い！": "<pc> Miss, please take care of this grave too!"
+    },
+    "68": {
+        "<pc>は　墓石に刻まれた文字を　読んだ。": "<pc> ...is the inscription on the tombstone."
+    },
+    "69": {
+        "<center>まもの使い　グスコフの相棒|シーザー　ここに眠る": "Magician Guskov's partner|Caesar, here lies"
+    },
+    "70": {
+        "「まもの使い……。|　モンスター格闘大会で|　魔物を使って　戦う人のことかな？": "A mamono wizard... You mean the guy who uses|demons to fight in monster fighting|tournaments?"
+    },
+    "71": {
+        "「もしかして……　ここにあるのは　みんな|　まもの使いが　自分の魔物のために作った|　お墓じゃない？": "Could it be... Are all these tombs made by|wizards for their own demons?"
+    },
+    "72": {
+        "「しかも　魔物のことを|　相棒と呼んでるってことは　まもの使いって人と|　魔物が　対等な関係だったってこと……？": "And if you're calling a demon your partner,|does that mean you and the demon are on equal|footing?"
+    },
+    "73": {
+        "「じゃあ　あれって……。": "So that was..."
+    },
+    "74": {
+        "「<pc>さん！　この奥にある|　大きな石碑を見てもらいたいの！　来てっ！": "<pc> Mr! I want you to see the big stone monument|in the back here! Come!"
+    },
+    "75": {
+        "「<pc>さん　見て見て！": "<pc> Look, look, look!"
+    },
+    "76": {
+        "「ずっと　気になってたんだけど|　これって　人間と魔物……よね？": "I've been wondering... if it's a human and a|demon... Right?"
+    },
+    "77": {
+        "「ねぇ　ここ。なんて　書いてあるの？": "Hey, uh... What does it say?"
+    },
+    "78": {
+        "<pc>は　レリーフの下に|刻まれている文字を読んだ。": "<pc> is the inscription beneath the relief..."
+    },
+    "79": {
+        "<center>偉大なる　まもの使いの肖像": "Portrait of the great magician"
+    },
+    "80": {
+        "<center>いかなる凶悪な魔物でも|受け入れ　許す心がなければ|真の　まもの使いには　なれない": "No matter how vicious the demon|Without acceptance and forgiveness|You'll never be a true magician"
+    },
+    "81": {
+        "「やっぱり！": "I knew it!"
+    },
+    "82": {
+        "「こんなふうに　魔物を従えてる人を|　まもの使いっていうのね。": "A person who follows a demon like this is|called a mamono usher..."
+    },
+    "83": {
+        "「……ねぇ　<pc>さん　見て。|　この　まもの使いさんと　となりの魔物|　おそろいの腕輪を　つけてるでしょう？": " Hey<pc> Miss... Doesn't this magician and the demon|wear matching bracelets?"
+    },
+    "84": {
+        "「私　なんとなく……　なんとなくだけど|　過去をなくす前の　自分は|　まもの使いだったんじゃないかなって思うんだ。": "I don't know... I kind of think that before I|lost my past, I was a magician..."
+    },
+    "85": {
+        "「……あのね。前に　格闘場のオリから|　左目に十字キズのある　キラーパンサーが|　逃げだすっていう事件があったの。": "...... There was a case once where a killer|panther with a cross-shaped scar over his|left eye escaped from a cage in a fighting|<br>|ring."
+    },
+    "86": {
+        "「私　そのキラーパンサーに　襲われかけたんだ。|　急に目の前に現れて　その大きなキバを見たとき|　私の人生　ここで終わりか……って思ったわ。": "I was almost attacked by this killer|panther... When he suddenly appeared in front|of me and I saw his big fangs, I thought my|<br>|life was over. I thought..."
+    },
+    "87": {
+        "「でも　私と目が合うと　急におとなしくなって|　そのまま　町から出ていっちゃったんだ。": "But when he made eye contact with me, he|suddenly became quiet and left town."
+    },
+    "88": {
+        "「そのとき　気づいたの。|　私がしてる　この腕輪と　まったく同じものを|　そのキラーパンサーも　つけてたことに……。": "And then I realized... That the killer|panther was wearing the exact same bangle|that I'm wearing."
+    },
+    "89": {
+        "「私　もう一度　あの子に会ってみたい。|　そうすれば　なくした過去を|　取り戻せるような気が　するの……。": "I want to see her again. I feel like if I do|that, I can get back the past that I lost."
+    },
+    "90": {
+        "「ねえ　<pc>さん。|　一緒に　あのキラーパンサーを探すの|　手伝ってもらえないかな？": "hey<pc> Three. I was wondering if you could help me|find the killer panther."
+    },
+    "91": {
+        "「町の人が　ジャイラ密林で|　十字キズのある　キラーパンサーを見たって|　言ってたの。きっと　あの子よ。": "A man in town said he saw a killer panther|with a cross-shaped scar in the jungle of|Gyra. It must have been..."
+    },
+    "92": {
+        "「ジャイラ密林は　アラハギーロ地方の|　北にある　デフェル荒野を|　ずっと　西に行った所にあるわ。": "The Jaira Forest is located in the north of|the Arrahaghiro region, far to the west of|the Defer Wilderness..."
+    },
+    "93": {
+        "「じゃあ　私は　先に行って|　密林の入り口辺りで　待ってるね。": "Okay, I'll go ahead and wait around the|entrance to the jungle..."
+    },
+    "94": {
+        "「……あれ？|　あんな所にも　お墓があったんだ。": "... What? There's a grave there too..."
+    },
+    "95": {
+        "「<pc>さん　来てくれたんだね。|　ありがとう！": "<pc> Miss, you're here... Thank you!"
+    },
+    "96": {
+        "「この辺りに出る魔物　すごく強いらしいの。|　まだ一度も　探検したことなかったから|　ひとりじゃ心細いなって　思ってたんだ。": "The demons around here are really strong.|I've never explored this area before, so I|felt a bit alone..."
+    },
+    "97": {
+        "「いい？　<pc>さん。|　探してるのは　左目に十字キズのある|　キラーパンサーだよ？": "Okay?<pc> Three. We're looking for a killer panther|with a cross-shaped gash over his left eye,|okay?"
+    },
+    "98": {
+        "「キラーパンサーは　警戒心が強いんだって。|　だから　きっと　密林の奥深くに|　ひそんでいるんじゃないかな？": "Killer panthers are very cautious... That's|why it's probably lurking deep in the jungle."
+    },
+    "99": {
+        "「ガルルルルル！": "Garrrrrrrrr!"
+    },
+    "100": {
+        "「<pc>さん　待って！": "<pc> Mr. Wait!"
+    },
+    "101": {
+        "「大丈夫。あの子は　襲ってきたりしない。|　私が　説得してみせるから。": "... He's been attacking me and... I'll talk|him out of it."
+    },
+    "102": {
+        "「いかなる凶悪な魔物でも……|　受け入れ　許す心が　なければ|　真の　まもの使いには　なれない……。": "No matter how evil a demon is... If you don't|have the heart to accept and forgive...|you'll never be a true magician."
+    },
+    "103": {
+        "「ほら……　私だよ。覚えてない？": "You see... ... Don't you remember?"
+    },
+    "104": {
+        "「ガルルルルル……！": "Garrrrrrrrr...!"
+    },
+    "105": {
+        "「ほら　よく見て。|　だいじょーぶ！　怖くないよ……。": "Look, it's... You're okay! I'm not scared..."
+    },
+    "106": {
+        "「ガルル…ル……。": "Galle... Le..."
+    },
+    "107": {
+        "「<pc>さん　見て。|　ほら　同じ腕輪でしょう？|　やっぱり　この子は　私の相棒だったのよ。": "<pc> Three... Look, it's the same bracelet, isn't|it? I knew it. She's my partner."
+    },
+    "108": {
+        "「……ねぇ　そうでしょ？|　あなたと私　相棒だったんだよね？": "... Hey, you know what? You and me, we were|partners, weren't we?"
+    },
+    "109": {
+        "「ガルッ！": "Gulp!"
+    },
+    "110": {
+        "「でも　あなたの名前までは　思いだせないや。|　……ごめんね。|　だから　もう一度　名前つけてあげる！": "But I can't remember your name. I... I... So|I'll name you again!"
+    },
+    "111": {
+        "「うーんと……。": "Hmmm..."
+    },
+    "112": {
+        "「…………チョメ。": "......"
+    },
+    "113": {
+        "「うん！　今日から　あなたはチョメよ！|　いーい？　チョメ。": "Yeah! As of today, you're my chome! Okay?|Yeah..."
+    },
+    "114": {
+        "「ガ……ガルッ！": "Ga... Gulp!"
+    },
+    "115": {
+        "「えへへへ。": "Well..."
+    },
+    "116": {
+        "「……ねぇ　<pc>さん。|　確かに　魔物は　私たち人間を襲う|　敵かもしれないけど……。": " Hey<pc> I'm sorry. It's true that demons may be the|enemy that attacks us humans, but..."
+    },
+    "117": {
+        "「中には　こんなふうに　心を通わせられる|　優しい子も　いるんだよね。|　格闘場にいる魔物たちだって　きっと……。": "Some of them are so kind that they can|communicate with each other like this. I'm|sure the demons in the fighting pits..."
+    },
+    "118": {
+        "「そうだ！　まもの使いの存在を　みんなに|　教えれば　魔物と人間も　心を通わせられるって|　わかってもらえるかも。": "That's right! If we can teach everyone that|magicians exist, then they'll understand that|demons and humans can communicate with each|<br>|other."
+    },
+    "119": {
+        "「チョメ。怖いかもしれないけど|　私と一緒に　アラハギーロに来てくれる？": "... I know this may sound scary, but will you|come with me to Arrachigillo?"
+    },
+    "120": {
+        "「ガルッ！": "Gulp!"
+    },
+    "121": {
+        "「よしっ！　<pc>さんも|　一緒に　アラハギーロへ帰ろう！": "All right!<pc> And you, too, back to Arrahaguillo with me!"
+    },
+    "122": {
+        "「<pc>さん　お待たせ！": "<pc> Here you go, Mr. White!"
+    },
+    "123": {
+        "「チョメなら　この近くで待っててもらってるよ。|　いきなり　連れていったら|　町のみんな　ビックリしちゃうもんね。": "If it's Chome, she can wait around here... If|we take her out of town, she'll scare off the|whole town."
+    },
+    "124": {
+        "「おいっ　聞いたか！？": "Hey, did you hear that?"
+    },
+    "125": {
+        "「もうすぐ　モンスター格闘場で|　すんげえイベントが開催されるんだってよ！|　なんつったっけ？　サブイボデブマッチョ？": "There's going to be an awesome event at the|Monster Battlefield soon! What was it called?|Subyebo fat macho?"
+    },
+    "126": {
+        "「サバイバルデスマッチ　な！！": "Survival deathmatch."
+    },
+    "127": {
+        "「……サバイバルデスマッチ？": "... Survival deathmatch?"
+    },
+    "128": {
+        "「もう　みんな知ってるわよ～！|　格闘場にいる魔物たちを　最後の１匹になるまで|　戦わせるなんて　さすがは　ベルムド様ね<heart>": "Everyone knows it already! Making all the|demons in the arena fight until there's only|one left is just like you, Belmud-sama.<heart>"
+    },
+    "129": {
+        "「魔物どもが　ぶっ倒れるまで　戦い抜く……。|　クーッ！　考えただけで　ゾクゾクするぜ！|　こいつぁ　今までのショーなんか目じゃねえぞ！": "I'll fight these demons until they fall...|Aah! I'm getting chills just thinking about|it! This isn't anything like the shows we've|<br>|seen so far!"
+    },
+    "130": {
+        "「……<pc>さん。|　今の話　聞いた？": "<pc> San. Did you hear what I just said?"
+    },
+    "131": {
+        "「ひどすぎるよっ！|　死ぬまで　魔物たちを戦わせようだなんて！": "It's too bad! Letting demons fight to the|death!"
+    },
+    "132": {
+        "「そんな　バカなイベント|　どうにかして　中止させなきゃ……。": "We have to stop this stupid event somehow..."
+    },
+    "133": {
+        "「そうだ……　いいこと　思いついた！|　<pc>さんがいれば　魔物たちを|　助けてあげられるかもしれないわ！": "Oh, yeah... I've got an idea!<pc> If you're here, you might be able to help the|demons!"
+    },
+    "134": {
+        "「格闘場の魔物って　アラハギーロの東側にある|　魔物専用の通用口を　通って|　地下のオリに　入れられてるの。": "The demons in the arena can be accessed|through the demon cage on the east side of|Araghiro."
+    },
+    "135": {
+        "「とりあえず　その通用口まで　来てくれる？|　くわしい話は　そこでするから。": "In the meantime, would you mind coming to the|service entrance? That's where we'll talk|about..."
+    },
+    "136": {
+        "「町の中からは　魔物専用の通用口へ行けないよ。|　一度　外へ出て　城壁を東側に回ってみて。|　それじゃ　お願いね！": "From inside the city, you can get to the|demon's private entrance... Once outside, go|around the east side of the wall... Goodbye,|<br>|please!"
+    },
+    "137": {
+        "「<pc>さん　お待たせ！|　チョメも　連れてきたよ。": "<pc> Hey, Mr. White! I'll bring Chome..."
+    },
+    "138": {
+        "「……それじゃ　いーい？|　格闘場に捕まってる　魔物たちを助けるために|　私が考えた作戦を　説明するね。": "... Okay, ready? I'll explain the plan I've|devised to save the demons trapped in the|fighting pits."
+    },
+    "139": {
+        "「この先に　格闘場の地下へ降りる階段があるわ。|　その階段を降りて　すぐ右の部屋に|　魔物たちを入れるオリが　いくつもあるの。": "There's a staircase that leads down to the|basement of the arena. At the bottom of the|stairs, to the right, there's a room with|<br>|several cages for demons."
+    },
+    "140": {
+        "「あれっ？　はじめて行く場所なのに|　なんで　私　そんなことまで知ってるんだろ？|　……まあ　いっか。": "Huh? I've never been to this place before.|How do I know so much about it? Well...|Well..."
+    },
+    "141": {
+        "「でね　その地下へ降りる階段の前に|　見張りの兵士さんが　いるのよ。|　そこで　<pc>さんの出番ってわけ！": "So, there's a soldier guarding the stairs to|the basement... There.<pc> That's where you come in!"
+    },
+    "142": {
+        "「その兵士さんに　チョメを見せて|　キラーパンサーを捕まえてきたって言えば|　地下のオリまで　通してくれるはずよ。": "If you show the soldier your chome and tell|him you've captured a killer panther, he'll|let you through to the basement cage..."
+    },
+    "143": {
+        "「私は　王様に目をつけられてるから|　兵士さんたちにも　顔を知られてるだろうけど|　あなたが交渉してくれれば　きっと大丈夫。": "I'm on the king's radar, and I'm sure the|soldiers know who I am, but if you can|negotiate with them..."
+    },
+    "144": {
+        "「オリの前まで来たら　あとは　私にまかせて。|　華麗に　捕まってる魔物たちを|　逃がしてみせるわっ！": "I'll take care of the rest once I get to the|cage! I'll do my best to free the demons that|are trapped here!"
+    },
+    "145": {
+        "「それまで　私とチョメは　あなたの後ろに|　ひっそり　ついていくから。|　じゃあ　お願いね　<pc>さん！": "In the meantime, Chomei and I will be right|behind you... I'm counting on you.<pc> Three!"
+    },
+    "146": {
+        "「誰だ　お前？": "Who the hell are you?"
+    },
+    "147": {
+        "「なにっ！　逃げたキラーパンサーを捕獲した？|　おお　でかしたぞ！": "What the hell? You captured a killer panther|that escaped? Oh, that's great!"
+    },
+    "148": {
+        "「よし　俺が　オリまで案内してやる。|　ついてこいっ。": "All right, I'll take you to the cage...|Follow me..."
+    },
+    "149": {
+        "「さあ　そいつを　ここにブチ込め！": "Come on, put him in here!"
+    },
+    "150": {
+        "「今よ　チョメ！": "Now, Chome!"
+    },
+    "151": {
+        "「ガルルルル！！": "Gallllllll!"
+    },
+    "152": {
+        "「ひぃっ！": "Heee!"
+    },
+    "153": {
+        "「ちょっと　カギ　借りるねー。": "Can I borrow your key?"
+    },
+    "154": {
+        "「今　逃がしてあげるからね！": "I'll let you go now!"
+    },
+    "155": {
+        "「えっと……　これだ！": "Let's see... This is it!"
+    },
+    "156": {
+        "「もう　ここに　いなくていいんだよ。|　一緒に逃げよっ！": "You don't have to be here anymore... Let's|run away together!"
+    },
+    "157": {
+        "セラフィは　次々とカギを開けて|魔物たちを　逃がしていった。": "Seraphy unlocked the door one by one and let|the demons escape."
+    },
+    "158": {
+        "「この子で　最後ね。": "With this girl..."
+    },
+    "159": {
+        "「チョメ！|　この子たちを　外まで　先導してあげて。": "Chome! I want you to lead these kids out of|here."
+    },
+    "160": {
+        "「ガルッ。": "..."
+    },
+    "161": {
+        "<center>……すまない　みんな。": "... I'm sorry. I'm sorry."
+    },
+    "162": {
+        "「今のは……　なに？": "That was... What?"
+    },
+    "163": {
+        "「私……　前にも|　この場所に　来たことがある……。": "I've... I've been to this place before..."
+    },
+    "164": {
+        "「あのとき……　戦争に行くときだ。": "At the time... I'm going to war..."
+    },
+    "165": {
+        "「往生際が　悪いぞ　ベルムド！！|　この戦争に手を貸すと　約束したはずだ。|　早く　魔物たちを　オリから出せ！": "You've lost your nerve, Vermud! You promised|to help in this war. Get those demons out of|the cage!"
+    },
+    "166": {
+        "「ですが　兵士長……。": "But, Captain..."
+    },
+    "167": {
+        "「我らに　協力できないと言うなら|　こやつらなど　この場で|　始末してやってもいいのだぞ。ん～？": "If you can't help us, then I'll take care of|these people right here... Hmm?"
+    },
+    "168": {
+        "「いいか。この魔物たちは　我々の盾となるのだ。|　魔物ごときが　こんな名誉ある仕事を|　与えてもらえるなんて　ありがたく思えよ。": "... These demons will serve as our shields...|I'm grateful to be given such a prestigious|job."
+    },
+    "169": {
+        "「……すまない　みんな。": "... I'm sorry. I'm sorry."
+    },
+    "170": {
+        "「ベルムドさん……。": "Mr. Vermud..."
+    },
+    "171": {
+        "「…………。": "..."
+    },
+    "172": {
+        "「<pc>さん……。私　思いだしたよ。|　……ベルムドさんを　止めなきゃ！": "<pc> Miss... I remember... I... I have to stop Mr.|Vermud!"
+    },
+    "173": {
+        "「この部屋を出て　右に行った所の扉を開けると|　闘いの広間に出る　エレベーターがあるんだ。|　ベルムドさんは　今　そこにいるはずよ……。": "If you leave this room and go right, there's|a door that opens into an elevator that leads|to the War Room. Mr. Vermud is supposed to be|<br>|there right now..."
+    },
+    "174": {
+        "「もしかしたら　命がけになるかもしれない。|　でも　思いだした以上　放っておけないから……|　私　行ってくるね！": "I don't know, maybe I'll risk my life. But|now that I've remembered, I can't leave him|alone... I'm off!"
+    },
+    "175": {
+        "「ベルムドさん！": "Mr. Vermud!"
+    },
+    "176": {
+        "「サバイバルデスマッチは　中止よ！|　魔物は　みんな　逃がしてしまったもの！": "Survival Deathmatch has been canceled! The|demons have all escaped!"
+    },
+    "177": {
+        "「なんだと……？": "What the...?"
+    },
+    "178": {
+        "「今すぐ　逃げた魔物を追え！|　抵抗するようなら　殺しても構わん。": "Go after the escaped demon now! If it|resists, I'll kill it..."
+    },
+    "179": {
+        "「もう　そんなマネは　やめて。": "I'm not doing that anymore."
+    },
+    "180": {
+        "「あなたは　まもの使いの|　ベルムドさんでしょう！？": "You're the wizard Belmud, aren't you?"
+    },
+    "181": {
+        "「岩山のレリーフに描かれている|　偉大な　まもの使いって……|　ベルムドさんのことなんでしょ？": "The great magician in the relief on the|rock... You mean Mr. Belmud, don't you?"
+    },
+    "182": {
+        "「……私　思いだしたの。|　あなたのことも　自分が何者なのかも。": "I thought... I remember... I thought about|you. I thought about who I was."
+    },
+    "183": {
+        "「魔物たちを　深く愛していた　あなたが|　どうして　格闘場の魔物たちに|　あんな　むごい仕打ちを……？": "How could you, who loved demons so much,|treat them so cruelly?"
+    },
+    "184": {
+        "「……やつらは　死んで当然の存在だ。": "... They deserved to die..."
+    },
+    "185": {
+        "「私の　かわいい教え子たちを|　戦争の盾に使って　醜く　生き延びた|　卑劣で罪深い　やつらなのだ！": "They are the vile and sinful ones who used my|lovely students as war shields and survived|so ugly!"
+    },
+    "186": {
+        "「戦争の盾？　それって……。": "A shield of war? Is that..."
+    },
+    "187": {
+        "「…………。": "..."
+    },
+    "188": {
+        "「……ベルムドさん。もう　終わりにしよう？|　そうだとしても　あの人たちだって　きっと|　充分　苦しい思いをしたわ。": "... Bellum... Can we end this now? Even if we|did, I'm sure they've suffered enough."
+    },
+    "189": {
+        "「セラフィッ！|　なぜ　お前は　過去を取り戻してなお|　あんな鬼畜どもに　肩入れする！？": "Seraphim! Why do you still care about those|bastards after you got your past back?"
+    },
+    "190": {
+        "「……もう　よい！！": "... Enough!"
+    },
+    "191": {
+        "「その者たちを　捕らえよ！": "Seize those men!"
+    },
+    "192": {
+        "「ガルルル……。": "Garrule..."
+    },
+    "193": {
+        "「な…なぜ　戻ってきた！？|　まさか　セラフィを……？": "Why... Why did you come back? You didn't|bring Seraphy?"
+    },
+    "194": {
+        "「……いや　むしろ　好都合よ！|　あの方から　たまわったチカラで|　今こそ　教え子たちの復讐を遂げてやる！": "... No, it's for the best! Now, with the|power she has given me, I will avenge my|students!"
+    },
+    "195": {
+        "「…………グルァァァァァァァ！！": "... Gruffalo!"
+    },
+    "196": {
+        "「我が復讐を　ジャマする者は|　皆　排除してくれるわ！！": "He'll take out anyone who stands in the way|of my vengeance!"
+    },
+    "197": {
+        "「<cs_pchero>さんっ！|　お願い　ベルムドさんを止めて！！": "<cs_pchero>Mr. Belmud! Please stop Mr. Vermud!"
+    },
+    "198": {
+        "「<cs_pchero>さんっ！|　お願い　ベルムドさんを止めて！！": "<cs_pchero>Mr. Belmud! Please stop Mr. Vermud!"
+    },
+    "199": {
+        "「オォォ……我が復讐を　ジャマする者は|　皆　排除してくれよう……。": "Oh... Let's get rid of anyone who tries to|stop me from getting my revenge."
+    },
+    "200": {
+        "「グルァァァァァァァァァ！！": "Gruffalo!"
+    },
+    "201": {
+        "「やつらを皆殺しにするまで　私は死ねぬ……。": "I will not die until I have killed every last|one of them..."
+    },
+    "202": {
+        "「ベルムドさん　もう　やめて！": "Mr. Vermud, stop it!"
+    },
+    "203": {
+        "「なぜ　かばう！？|　あいつらは　お前の　仲間たちの命を|　物のように扱い　切り捨てた　凶悪な奴らだぞ！": "Why are you covering for them? These are|vicious people who treated the lives of your|people like they were property and cut them|<br>|down!"
+    },
+    "204": {
+        "「ベルムドさん……。忘れてしまったの？|　あなたが　いつも言ってたのよ。": "Mr. Vermud... Have you forgotten? You always|say..."
+    },
+    "205": {
+        "「まもの使いに　いちばん必要なのは|　どんな凶悪な魔物でも|　受け入れ　許す心だ……って！": "The most important thing for a magician is to|accept and forgive even the most vicious|demons... What?"
+    },
+    "206": {
+        "「私は…………": "I'm"
+    },
+    "207": {
+        "「大丈夫か？　ケガはないか！？": "Are you okay? Are you hurt? !"
+    },
+    "208": {
+        "「ベルムドさん！！": "Mr. Vermud!"
+    },
+    "209": {
+        "「……ホイミ！": "... Hoymi!"
+    },
+    "210": {
+        "「無駄だ……。もういい　セラフィ。": "There's no point... Enough, Ce..."
+    },
+    "211": {
+        "「そんな……。ベルムドさん。|　なぜ　こんなことに……。": "Oh, no... Bellum... How could you do this to|me?"
+    },
+    "212": {
+        "「フフッ。私の教え子ではない　お前だけが|　ただひとり　過去を取り戻すとはな……。": "... You're not my student. You're the only|one. You're the only one who can bring back|the past."
+    },
+    "213": {
+        "「それもこれも……　ヤツとの絆のおかげか。|　私は　まもの使いにとって　大事なものを|　いつの間にか　失っていたよう…だ……。": "It's all about... My bond with him... I seem|to have lost something important to the|wizard... It's..."
+    },
+    "214": {
+        "「……ベルムドさん？　ベルムドさんっ！！": "... Mr. Belmud? Mr. Belmud!"
+    },
+    "215": {
+        "「ベルムド王の正体が　魔物だったとは……。": "I didn't know King Belmud was a demon."
+    },
+    "216": {
+        "「王になりすまし　国民を扇動していた魔物は|　我ら　グランゼドーラ兵が討ち取った！": "The demon that was impersonating the king and|inciting the people has been defeated by our|soldiers in Granzedorra!"
+    },
+    "217": {
+        "「これより　アラハギーロの民の安全は|　我がグランゼドーラ王国が　保障しよう。": "From now on, the safety of the people of|Alahagiro is guaranteed by the Kingdom of|Grenzedorah."
+    },
+    "218": {
+        "「国民にも　そのように伝えよ！": "Tell the people to do the same!"
+    },
+    "219": {
+        "「ありがとう　<cs_pchero>さん。|　ベルムドさんを止めてくれて……。": "Thank you<cs_pchero>Mr. For stopping Mr. Vermud..."
+    },
+    "220": {
+        "「もう　わかってるかもしれないけど|　……私　もともとは　魔物なの。": "You probably already know this, but... I've|always been a demon..."
+    },
+    "221": {
+        "「この姿になる前は　ある　まもの使いに仕える|　ホイミスライムだったんだ……。": "Before he took this form, he was a whimsy|slime in the service of a wizard..."
+    },
+    "222": {
+        "「ねぇ　<cs_pchero>さん。|　これから　ムルードの岩山へ来てくれる？|　あなたには　全部　話しておきたいんだ。": "Hey<cs_pchero>Mr. Will you come to the rocky mountain of|Murud now? I've told you everything..."
+    },
+    "223": {
+        "「あのレリーフの所で　待ってるね。": "Wait for me at the relief..."
+    },
+    "224": {
+        "「あっ　<pc>さん。|　呼びつけちゃって　ごめんね。": "oh!<pc> I'm sorry. I'm sorry to call you here. I..."
+    },
+    "225": {
+        "「私が　過去を取り戻せたのは|　<pc>さんの　おかげだよ。": "I was able to get my past back|<pc> I'm sorry."
+    },
+    "226": {
+        "「いろいろ助けてくれた　あなたには|　ベルムドさんのこと　私が思いだしたこと……|　全部　知っておいてほしいの。": "You've helped me in so many ways, and I want|you to know that I remembered Mr. Belmud... I|want you to know..."
+    },
+    "227": {
+        "「ベルムドさんは　有名な　まもの使いだったの。|　昔　アラハギーロの格闘場の管理人も　やってて|　みんなから　すごい尊敬されてたんだ。": "Mr. Belmud is a famous magician... He used to|be the keeper of the fighting pits in|Araghiro, and everyone respected him..."
+    },
+    "228": {
+        "「さっき　私が　人間の姿になる前は|　ある　まもの使いに仕えていた|　ホイミスライムだったって　言ったじゃない？": "You said earlier that before I took human|form, I was a whimsy slime in the service of|a wizard."
+    },
+    "229": {
+        "「……このチョメこそ　私が仕えてた|　まもの使いの　カレヴァンさんなの。": "This... This is my servant, Calevan..."
+    },
+    "230": {
+        "「ベルムドさんと　カレヴァンさんは|　若い頃から　同じ師匠のもとで修行を積んだ|　兄弟みたいな関係だったんだ。": "Monsieur Bermudez and Monsieur Kalevan|trained under the same teacher from a young|age, and they were like brothers..."
+    },
+    "231": {
+        "「驚いた……よね？ |　人間と魔物が　入れ替わってるなんて……。|　なんで　こんなことになっちゃったんだろ？": "I'm surprised. Right? A human and a demon|switching places... How did this happen?"
+    },
+    "232": {
+        "「きっと　すべては　あの戦争……|　魔族の大軍隊との戦いが　原因ね。": "It all started with that war... The war|against the great armies of the demons..."
+    },
+    "233": {
+        "「戦争が起こったとき　この国の軍隊は|　ベルムドさんの魔物たちを　戦力……いえ|　魔族にぶつける捨て石として　駆り出したの。": "When war broke out, the armies of this|country turned to Mr. Belmud's demons for|support... No, we sent them out to fight the|<br>|demons."
+    },
+    "234": {
+        "「カレヴァンさんは　慕っていたベルムドさんに|　ずっと　ついていくって決めてて……|　私も　カレヴァンさんと　戦争へ向かったわ。": "Mr. Kalevan was determined to follow Mr.|Vermud, whom he adored, and... I'm going to|war with Mr. Kalevan."
+    },
+    "235": {
+        "「そこで　何が起こったのか　わからないけど|　気がついたら　私は人間の姿で|　カレヴァンさんは　キラーパンサーに……。": "I don't know what happened there, but the|next thing I know, I'm in human form, and Mr.|Kalevan is a killer panther..."
+    },
+    "236": {
+        "「あの戦争のせいで　この国の歯車が|　全部　くるっちゃったんだ……。": "Because of that war, all the wheels in this|country have turned..."
+    },
+    "237": {
+        "「でも　<pc>さん　これだけは言わせて。|　ベルムドさんは　決して　悪い人じゃない。|　魔物を愛する　とてもいい人だったのよ？": "even<pc> Mr. Belmud, I want you to know... Mr. Vermud|was not a bad man. He was a good man who|loved demons, you know?"
+    },
+    "238": {
+        "「魔物を……　私たちを　思いやる心が|　ベルムドさんを　あんなふうに|　変えてしまったの……。": "A demon... It was his compassion for us that|turned Mr. Belmud into what he is today."
+    },
+    "239": {
+        "「あっ　そうだ！|　<pc>さんを　呼びだしたのは|　もうひとつ　用事があったんだった！": "Oh, yes!<pc> I had one more thing to do before I called|you out!"
+    },
+    "240": {
+        "「<pc>さん。|　蝶を探してるって　言ってたよね？": "<pc> San. I thought you said you were looking for|butterflies."
+    },
+    "241": {
+        "「これのことも　さっき　一緒に思いだしたんだ。": "I thought of this earlier, too."
+    },
+    "242": {
+        "「この腕輪ね　こうやって　ふたつ重ねると|　蝶に見えるの。あなたの探してた蝶って|　コレのことかも……と思って。": "These bracelets, when you put two of them|together like this, they look like|butterflies. Maybe this is the butterfly|<br>|you've been looking for. And..."
+    },
+    "243": {
+        "「私たちの　大事なものだけど……|　コレくらいしか　お礼できるものがないから|　<pc>さんに　あげるねっ！": "I know it's important to us, but| It's the only thing I can think of to thank you for|<pc> I'll give it to you!"
+    },
+    "244": {
+        "<pc>は|パピヨンブレス（だいじなもの）を|受け取った！<me 71>": "<pc> has received a Papillon Breath (the big one)!<me 71>"
+    },
+    "245": {
+        "「私は　これから　カレヴァンさんと一緒に|　旅に出ようかなって　思ってる。|　この世界を　じっくり見てみたいの。": "I'm thinking of taking a trip with Mr.|Kalevan... I want to take a closer look at|this world..."
+    },
+    "246": {
+        "「そうすれば　なぜ　アラハギーロが|　あんなことになったのか……|　何か　わかるかもしれないしね。": "Maybe then I'd know why Arraheguillo was in|the mess he was in. I might be able to..."
+    },
+    "247": {
+        "「それじゃあ　<pc>さん|　また　どこかで会いましょ。|　ホントに　ホントに　ありがとう！！": "well then<pc> I'll see you around... Thank you, thank you,|thank you, thank you!"
+    },
+    "248": {
+        "「ガルルッ♪": "♪ Gulp ♪"
+    },
+    "249": {
+        "「へー　ドランゴさんの墓なのか。|　……って　爆走竜ドランゴ！？|　まさか　ドランゴって魔物の名前なのかしら。": "Hey, Mr. Durango's grave... ... Durango the|Bombastic Dragon? No way... Durango is the|name of a demon..."
+    },
+    "250": {
+        "「んん？　そのキラーパンサーは　なんだ！？": "Hmm? What's with the killer panther?"
+    },
+    "251": {
+        "「よしよし　いい子ね。": ""
+    },
+    "252": {
+        "「……ゴロゴロ。": "...ゴ..."
+    },
+    "253": {
+        "「あなたは　この国の王様なんかじゃないでしょ！|　あなたはっ……": "You're not the king of this country! You're|not..."
+    },
+    "254": {
+        "「もしかして　あのオリにいた魔物たちは|　一緒に　戦争へ向かった　兵士さん……？": "Could it be that those demons in the cage|were soldiers who went to war with us?"
+    },
+    "255": {
+        "「あ！　こんなことしてる場合じゃなかった！|　急がなきゃ！": "Oh! We shouldn't be doing this! We have to|hurry!"
+    },
+    "256": {
+        "「じゃあ　行こっか！": "Let's go!"
+    },
+    "257": {
+        "「一緒に戦争に向かった　格闘場の魔物たちは|　アラハギーロの民に。私たちを戦争に駆り出した|　兵士さんたちは　格闘場の魔物になっていたの。": "The monsters in the fighting pits who sent us|to war together, they became arachnids... The|soldiers who sent us to war together, they|<br>|became monsters in the arena..."
+    }
+}

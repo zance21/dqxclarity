@@ -1,0 +1,413 @@
+{
+    "1": {
+        "「お呼びでしょうか　ルシェンダさま。": "You wanted to see me, Luchen..."
+    },
+    "2": {
+        "「うむ。待っておったぞ。|　今回は　お前にも　同席してほしかったのだ。|　……では　さっそく　始めるとしよう。": "Mmm. Wait... I wish you could be there this|time... ... So, let's get started..."
+    },
+    "3": {
+        "「運命を司る　聖なる振り子よ。|　新たな運命の変異を　うながしたまえ……。|　そして　ゆくべき道を示したまえ……。": "The holy shake of destiny... Lead us to a new|destiny... And show us the path we must|follow."
+    },
+    "4": {
+        "「場所は……ソーラリア峡谷か。|　例の仮面の男も　一緒のようだな……。": "Location... Solaria. Looks like the masked|man is with you..."
+    },
+    "5": {
+        "「いや　それよりも　魔元帥ゼルドラドが|　動き出したということは　大魔王が|　本格的な侵攻を　始めたということか……。": "I don't know... but if the Demon Lord Zeldrad|is on the move, it means the Great Demon Lord|has begun a full-scale invasion."
+    },
+    "6": {
+        "「待て！　早まるな　アンルシア！": "Wait! No, no, no, no!"
+    },
+    "7": {
+        "「まったく　軽率な行動を取りおって……。|　いかに　覚醒した勇者でも　魔元帥ゼルドラドに|　ひとりで挑むのは　あまりに　危険すぎる。": "You have acted rashly... No matter how|awakened a hero you are... taking on Lord|Commander Zeldrad alone is far too|<br>|dangerous..."
+    },
+    "8": {
+        "「<pc>。アンルシアは　逆上して|　トーマのカタキを取ることしか考えていない。|　あそこまで　冷静さを欠くとは　計算外だった。": "<pc> ... She's upset, and all she wants to do is|take Thomas' hand... I didn't think she'd|lose her cool that far..."
+    },
+    "9": {
+        "「ソーラリア峡谷にある|　古き神の遺跡に向かった　彼女を追って|　どうか　守ってやってくれないか？": "She's headed for the ruins of the Old Gods in|Solaria Gorge, and I need you to follow her|and protect her, please."
+    },
+    "10": {
+        "「いい返事だ。そなたであれば|　安心して　まかせることができる。": "Good... If you're the one, I can trust you..."
+    },
+    "11": {
+        "「遺跡の中を　くまなく探してでも|　アンルシアを　見つけ出すのだ。|　私も　準備をしてから　そなたの後を追う。": "I'll have to search every inch of the ruins,|but if I can find Anulasia... I'll be ready|in a moment. I'll be right behind you."
+    },
+    "12": {
+        "「そうだ　<pc>。|　運命の振り子は　そなたに返しておこう。": "That's right<pc> (speaking spanish) The pendulum of fate has|swung back to you..."
+    },
+    "13": {
+        "「結界のチカラが　弱まってきたな。|　そろそろ　いいだろう。": "The power of the wards is weakening. It's|time to..."
+    },
+    "14": {
+        "「………………。": "..."
+    },
+    "15": {
+        "「……やれやれ。ハエが　舞い込んできたか。": "... And... There was a fly in the air..."
+    },
+    "16": {
+        "「ついに　見つけたわ　魔元帥ゼルドラド！": "I've found you, Demon Marshal Zeldrad!"
+    },
+    "17": {
+        "「ほほう。真の勇者か。|　グランゼドーラ城での戦い以来だな。": "... True... Since the battle at Granzedora|Castle..."
+    },
+    "18": {
+        "「あの時とは　違う！|　今こそ　兄さまのカタキを取ってみせる！": "This is not the time! I'm going to get you|back!"
+    },
+    "19": {
+        "「クックック……。|　なるほどな。確かに　あの時とは違うな。|　覚醒して　少しは　チカラをつけたと見える。": "Cook, cook... I see... It's true, since that|time... You're awake. You're a little more|powerful now."
+    },
+    "20": {
+        "「……だが　それでは　わしに勝てんな。": "But... But then you'd have to beat me."
+    },
+    "21": {
+        "「黙れっ！": ""
+    },
+    "22": {
+        "「くっ！！": "Damn it!"
+    },
+    "23": {
+        "「クックック……。身の程知らずめが。": "Cook, cook... You know what you are..."
+    },
+    "24": {
+        "「やれやれ。また　ハエが　わいたか。": "Oh, my... There's another fly."
+    },
+    "25": {
+        "「ガルレイよ。勇者の始末は　まかせたぞ。|　わしらは　先へ向かう。": "Gal... I'll take care of the brave... We'll|go on..."
+    },
+    "26": {
+        "「ガルルルガアアアーーーーーッ！！|　おまかせください　ゼルドラドさま！！": "Garrrrgghhhh! Leave it to me, Lord Zeldrad!"
+    },
+    "27": {
+        "「ガルルルガアアアーーーーーッ！！": "Gallllllllgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|!"
+    },
+    "28": {
+        "「い…いかん！　アンルシアが！": "No... No! No! Oh, my God, it's Anglesea!"
+    },
+    "29": {
+        "<attr><center><end_attr>ここで　勇者の命運を|終わらせるわけには　いきません。": "<attr><end_attr>This is no place to end the fate of a brave|man."
+    },
+    "30": {
+        "<attr><center><end_attr><cs_pchero>よ……。|勇者を　守るのです。": "<attr><end_attr><cs_pchero>I'll... Protecting the brave..."
+    },
+    "31": {
+        "「い　今のは　まさか……。": "No, no, no. That wasn't..."
+    },
+    "32": {
+        "「き…貴様　いったい　なにをした！？": "You... What the hell have you done?"
+    },
+    "33": {
+        "「……なるほど。勇者の仲間というわけか。": "... You know... A brave man's companion..."
+    },
+    "34": {
+        "「我は　獣魔将ガルレイ！！|　大魔王マデサゴーラさまに　忠誠を誓う|　四魔将の　一角なり！！": "I am Beast Master Galrai! I am one of the|four demon generals who swear allegiance to|the Great Demon Lord Madhesagora!"
+    },
+    "35": {
+        "「大魔王さまに　たてつく者は|　皆殺しにしてくれるわ！！": "He'll kill anyone who tries to fight him!"
+    },
+    "36": {
+        "「ガルルルガアアアーーーーーッ！！": "Gallllllllgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|!"
+    },
+    "37": {
+        "「ガルルルガアアアーーーーーッ！！|　なかなか　やるようだな！！|　だが　その程度では　我は倒せんぞ！！": "Garrrrgghhhh! You're not bad at all! But that|won't be enough to defeat me!"
+    },
+    "38": {
+        "「ちっ。アンルシアを守りながらとなると|　そうカンタンには　いかぬな……。": "Damn. It's not so easy when you're protecting|Anglesea..."
+    },
+    "39": {
+        "「<cs_pchero>！　ボヤボヤするな！|　私は　アンルシアの守りに専念する！|　こいつは　そなたに　まかせたぞ！": "<cs_pchero>No! Stop babbling! I'm going to focus on|defending Anglesea! I'm leaving this to you!"
+    },
+    "40": {
+        "「ガルルルガアアアーーーーーッ！！": "Gallllllllgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|!"
+    },
+    "41": {
+        "「グワアアアアアアアーーーーーッ！！": "Gwaaaaaaaaaaaaaaaaah!"
+    },
+    "42": {
+        "「やはり　まちがいないな……。": "I'm sure you're right."
+    },
+    "43": {
+        "「のんびりしているヒマはないわ。|　早く　ゼルドラドを追わないと……。": "We don't have time for this. We've got to get|after Zeldrad."
+    },
+    "44": {
+        "「待て。": "Wait."
+    },
+    "45": {
+        "「少しは　自重するのだ。アンルシアよ。|　<cs_pchero>が　いなければ|　そなたは　死んでいたかもしれんぞ？": "You need to pull yourself together... Unle...<cs_pchero>If it hadn't been for me, you'd be dead,|wouldn't you?"
+    },
+    "46": {
+        "「………………。": "..."
+    },
+    "47": {
+        "「ところで　ふたりに　話があるのだ。|　<cs_pchero>が　アンルシアを助けた時の|　あの技だが……": "By the way, I need to talk to you two...<cs_pchero>when he helped An Lucia| That technique"
+    },
+    "48": {
+        "「ルシェンダさま……。|　そのような話をしているヒマは　ありません。|　一刻も早く　先へ向かいましょう。": "Miss Luchenda... We don't have time for|this... We must go on as quickly as|possible..."
+    },
+    "49": {
+        "「やれやれ……。こりておらぬな……。|　<cs_pchero>。とりあえず　話は後だ。|　今は　アンルシアを追うとしよう。": "Well, well... You're not well...<cs_pchero>I'm sorry. For now, let's just talk... Right|now, we're going after Angelia..."
+    },
+    "50": {
+        "「覚えておけ　<cs_pchero>。|　これからの魔族との戦いは　そなたと|　アンルシアの協力が　必要不可欠となるだろう。": "Remember that<cs_pchero>I'm sorry. You'll need your help to fight the|demons..."
+    },
+    "51": {
+        "「クックック……。やはりな……。|　悠久の時の間に　神の緋石はチカラを消費し|　ずいぶんと　弱まっているようだ。": "Kkkkk... I knew it... Over time, the God's|Scarlet Stone's power has been consumed and|weakened considerably..."
+    },
+    "52": {
+        "「神の緋石さえ破壊してしまえば|　この地は　守りを失い|　大魔王さまの創りし世界が　侵食を果たそう。": "If we destroy the God's Scarlet Stone, this|land will be defenseless and the world|created by the Great Demon Lord will|<br>|encroach..."
+    },
+    "53": {
+        "「………………。": "..."
+    },
+    "54": {
+        "「そこまでよ　魔元帥ゼルドラド！": "That's enough, Witch Commander Zeldrad!"
+    },
+    "55": {
+        "「ほお……。ガルレイを倒したか。|　少しは　やるようだな。": "Oh... I'll take Gulley... I'll do a little..."
+    },
+    "56": {
+        "「クックック……。|　面白い余興を　思いついたぞ。|　ひとつ　この者と戦ってもらおうか。": "Cook, cook... I have an idea for an|entertainment... I'm gonna need you to fight|one of these..."
+    },
+    "57": {
+        "「邪魔をするなら　相手になるわよ。": ""
+    },
+    "58": {
+        "「テキスト削除": "text deletion"
+    },
+    "59": {
+        "「もう　始まっていたか。": "It's already started..."
+    },
+    "60": {
+        "「ハァハァ……。": "Ha, ha, ha..."
+    },
+    "61": {
+        "「ほお……。これはこれは　見違えたぞ。|　思った以上に　やりおるわ。": "Oh... Well, well, well... It's more than I|expected."
+    },
+    "62": {
+        "「黙って　見守っているようだが|　手助けしなくてよいのか？|　貴様らが協力すれば　勇者が勝つかもしれぬぞ？": "I see you've been watching and waiting.|Shouldn't you be helping him? With your help,|might the brave man win?"
+    },
+    "63": {
+        "「よく言う……。私たちが　スキを見せる瞬間を|　先ほどから　うかがっているクセに……。|　そんな手に乗るほど　モウロクしておらんわ。": "You know what they say... You've been waiting|for the moment when we'd show our hand... I|don't know what I'm doing..."
+    },
+    "64": {
+        "「……クックック。なるほどな。|　貴様は　なかなか　アタマが切れるようだ。": "... Cook... Yes... You're a very clever man."
+    },
+    "65": {
+        "「そ…そんな……。": "Oh, no. I don't..."
+    },
+    "66": {
+        "「に…兄さま……？": "Brother...? Brother...?"
+    },
+    "67": {
+        "「トーマ兄さまが…生きて……。": "Brother Thomas... Alive..."
+    },
+    "68": {
+        "「……私は　大魔王さまに仕える者。|　お前の兄などではない。": "... I serve the Great Satan... Your|brother..."
+    },
+    "69": {
+        "「その男は　大魔王マデサゴーラさまによって|　黄泉の世界から舞い戻った　闇の勇者……。": "That man is the dark hero who was brought|back from Hades by the Great Demon Lord|Madhesagora..."
+    },
+    "70": {
+        "「勇者の持つチカラを欲していた　大魔王さまは|　小娘……真の勇者である貴様を捕らえ|　操り人形に　するつもりであられた。": "The Great Demon Lord wanted the power of the|brave. He intends to capture you, the true|hero, and make you his puppet."
+    },
+    "71": {
+        "「だが　たまたま手に入った代用品でも|　充分に　役割を果たせることが判明してな。|　大魔王さまも　その男で　満足しておられるわ。": "But it turns out that even the best|substitute we can find will do the job. The|Great Demon Lord was satisfied with the|<br>|man..."
+    },
+    "72": {
+        "「そんなっ！　兄さまが……。": "No! My brother..."
+    },
+    "73": {
+        "「クックック……。もう　いいだろう。|　トーマよ。使命を果たすのだ。": "Kkkkkkk... Okay, okay... To... Mission|accomplished..."
+    },
+    "74": {
+        "「………………。": "..."
+    },
+    "75": {
+        "「神の緋石は　砕け散り|　いずれ　侵食が始まる……。": "The scarlet stone of the gods will be|shattered and the erosion will begin."
+    },
+    "76": {
+        "「この地は　もはや用済みよな。|　行くぞ　トーマよ。": "I'm done with this place. Come on, T..."
+    },
+    "77": {
+        "「………………。": "..."
+    },
+    "78": {
+        "「やはり　いいものだな。 |　絶望した者のカオを見るというのは……。": "I knew it. It's good. Seeing the cao of a|desperate man..."
+    },
+    "79": {
+        "「クックック……。": "Cook..."
+    },
+    "80": {
+        "「兄さま……。どうして……。": "Brother... Why are you..."
+    },
+    "81": {
+        "「<pc>！　ここは　もうダメだ！|　私は　アンルシアを連れて　脱出する！|　そなたも　早く　逃げるのだ！": "<pc> No! We can't stay here! I'm taking Anduleia|and I'm getting out of here! You, too, must|leave quickly!"
+    },
+    "82": {
+        "「おお。<pc>　ごくろうだったな。|　アンルシアも　少しは　落ち着いたようだ。": "Oh.<pc> I'm sorry... Anglesea's settling in a bit..."
+    },
+    "83": {
+        "「………………。": "..."
+    },
+    "84": {
+        "「さて　さっそくだが　本題に入ろう。|　これから　重要な話をいくつかする。|　よく　聞いておくのだ。": "So, without further ado, let's get down to|business. I have a few important things to|say. I need you to listen very carefully..."
+    },
+    "85": {
+        "「まず　そなたが　獣魔将ガルレイと戦った際に|　アンルシアを守らんと　発動した技について……|　あの技は　盟友の守りと呼ばれるものだ。": "First, I'd like to talk about the technique|you used to protect Anulsia when you fought|the Beastmaster Gulley... That technique is|<br>|called the protection of allies..."
+    },
+    "86": {
+        "「盟友の守り…………。": "Protecting our allies..."
+    },
+    "87": {
+        "「あの技を使えるということは　すなわち|　勇者を支え　共に戦う存在であることを示す。": "To be able to use that technique means to be|the one who supports and fights with the|brave..."
+    },
+    "88": {
+        "「……<pc>こそが　勇者の盟友なのだ。": "<pc> This is the ally of the brave..."
+    },
+    "89": {
+        "「<pc>が　盟友…………。": "<pc> Allies..."
+    },
+    "90": {
+        "「そなたが　アンルシアと共に現れた時から|　そうではなかろうかと思っていたが……|　どうやら　私の予感は　当たっていたようだな。": "I've suspected as much since you first|appeared here with Anduleia. It seems my|hunch was correct."
+    },
+    "91": {
+        "「盟友　<pc>よ。|　これからも　アンルシアを支え　共に戦うのだ。|　これは　そなたにしかできぬ使命だからな。": "ally<pc> Hello. I will continue to support you and|fight with you... This is a mission that only|you can perform..."
+    },
+    "92": {
+        "「わかったな　アンルシア。|　勇者とは　ひとりで戦う者ではない。|　常に　盟友が共にいることを忘れるな。": "You see, Anne... A brave man is one who|fights alone... Always remember that your|allies are with you..."
+    },
+    "93": {
+        "「……はい。": "....."
+    },
+    "94": {
+        "「……さて　次の話をするとしよう。|　トーマが破壊した　あの石だが|　あれは　神の緋石と呼ばれる物だ。": "... Now, on to the next story... That stone|that Thomas destroyed, it's called the|Scarlet Stone of God..."
+    },
+    "95": {
+        "「ゼルドラドの言葉を信じるなら　どうやら|　神の緋石を破壊されると　大魔王による|　偽のレンダーシアの侵食が進んでしまうらしい。": "If we are to take Zeldrad's word for it,|apparently, the destruction of the God's|Scarlet Stone will allow the Grand Maester to|<br>|proceed with the erosion of the false|Lenderia..."
+    },
+    "96": {
+        "「では　神の緋石とは　なんなのか……。|　くわしくは　古き神の遺跡を研究している|　専門家に　解説してもらうとしよう。": "So what is the Scarlet Stone of God... I'll|let an expert who studies the remains of the|old gods explain in detail..."
+    },
+    "97": {
+        "「入れっ！": "Get in!"
+    },
+    "98": {
+        "「この者は　ロッサム博士。|　あの古き神の遺跡を研究している学者だ。": "This is Rossa... He's studying the remains of|the old god..."
+    },
+    "99": {
+        "「さあ　ロッサム博士。|　神の緋石について　くわしく説明してくれ。": "Come on, Rossa... I will explain in detail|about the scarlet stone of God..."
+    },
+    "100": {
+        "「か…神の緋石は　人間の神　グランゼニスが|　自らの血で創りだした　レンダーシアの地を|　邪悪な存在から守る　要石と言われております。": "Ka... The God's Scarlet Stone, created by the|human god Grandsenith with his own blood, is|said to be the keystone that protects the|<br>|land of Lendasia from evil."
+    },
+    "101": {
+        "「あの神殿にある　緋石は破壊されましたが|　神の緋石は　レンダーシア内に|　全部で　４つあるとのこと。": "The Scarlet Stone in that temple was|destroyed, but there are four of the God's|Scarlet Stones in all of Lenderia..."
+    },
+    "102": {
+        "「本来　魔族には触れることすら　かないませんが|　長い歴史の中で　チカラは衰えていき　今では|　レンダーシアを守るだけで　精一杯の状態です。": "Originally, demons couldn't even be touched,|but over the course of history, their power|has diminished, and now they're left with|<br>|nothing to do but protect Lendencia."
+    },
+    "103": {
+        "「ですが……": "But"
+    },
+    "104": {
+        "「ついに　一度衰えた　神の緋石のチカラを|　復活させる方法が　判明しました！": "At long last, I've discovered a way to revive|the once-depleted power of the divine Scarlet|Stone!"
+    },
+    "105": {
+        "「それは　勇者姫！|　あなたが持つ　勇者のチカラを|　神の緋石に　注ぎ込むことなのです！": "It's the brave princess! You must pour the|power of a brave man into the Scarlet Stone|of God!"
+    },
+    "106": {
+        "「さすれば　緋石は　たちまち活性化し|　神代のチカラを取り戻して　何者にも|　破壊されることは　なくなるでしょう！": "Then the Scarlet Stone will be instantly|revitalized and regain its divine power, and|nothing will be able to destroy it!"
+    },
+    "107": {
+        "「なぜか……　それは　勇者のチカラも　また|　グランゼニス神より　たまわりし物であると|　伝承に　記されているからなのです！！": "I wonder why... Because it is written in the|lore that the power of the brave is also a|gift from the god Grandsenith!"
+    },
+    "108": {
+        "「そこで　勇者姫に　お願いがあります！|　あなたの身体は　とても興味深い！|　どうか　あなたのことを研究させてください！": "So I have a favor to ask the brave princess!|Your body is so interesting! Please, let me|study you!"
+    },
+    "109": {
+        "「ごくろうだったな　ロッサム博士よ。|　もう　下がってよいぞ。": "Nice to see you, Rossum... Get back..."
+    },
+    "110": {
+        "「す…すいません。古代史のことになると|　つい　興奮してしまって……。では　これにて。": "Su... I'm sorry. I get so excited when it|comes to ancient history... So..."
+    },
+    "111": {
+        "「さて　今　聞いたとおりだ。そなたたちには|　これから　残り３つの緋石を探しだし|　勇者のチカラを　注ぎ込んでもらいたい。": "Now, you heard the man. I need you to find|the three remaining Scarlet Stones and|channel your heroic powers into them."
+    },
+    "112": {
+        "「だが　そなたたちも　今回の戦いで|　おのれの未熟さを　思い知ったであろう。": "But you have also learned from this battle|that you are inexperienced..."
+    },
+    "113": {
+        "「あのゼルドラドを　相手に回して|　神の緋石を守るためには　さらなるチカラを|　身につけておかねばならぬ。": "If we're going to take on Zeldrad and protect|the God's Scarlet Stone... we're going to|have to get even stronger."
+    },
+    "114": {
+        "「私は　そのための準備をしておく。|　そなたたちは　その時にそなえて|　充分に　身体を休めておくのだ。": "I will prepare you for this... And I want you|all to be well-rested for that time."
+    },
+    "115": {
+        "「ごくろうだったな　アンルシアよ。|　もう　下がってよいぞ。": "Thank you for your time, Unle... Back up|now..."
+    },
+    "116": {
+        "「ルシェンダさま。今回の戦いでは|　大変　ご迷惑をおかけしました。これからは|　<pc>と共に　がんばっていきます。": "Luchen... I apologize for the inconvenience|this battle has caused... From now on...<pc> And we're working hard..."
+    },
+    "117": {
+        "「<pc>よ。アンルシアを守るという|　今回の任務を　見事に果たしてくれたな。|　報酬として　これを受け取ってくれ。": "<pc> Good. You've done a great job defending|Anglesea. You will receive this as your|reward..."
+    },
+    "118": {
+        "「そうだ。トーマが　よみがえったことは|　くれぐれも　他言無用で頼むぞ。|　皆に知れ渡れば　パニックになるからな。": "... Please don't tell anyone that Thomas is|back from the dead. If anyone finds out,|there will be a panic..."
+    },
+    "119": {
+        "「なかなか　ウデが立つようだな！！|　だが　そんな攻撃では　我は倒せんぞ！！": "You're quite skilled, aren't you? But you|will not defeat me with such an attack!"
+    },
+    "120": {
+        "なんと　獣魔将ガルレイのキズが|見る見るうちに　回復していく！": "What a surprise! Beastmaster Gulley's wounds|are healing as fast as they can!"
+    },
+    "121": {
+        "「ガルルルガアアアーーーーーッ！！|　我は　大魔王マデサゴーラさまから|　無敵の身体を　いただいたのだ！！": "Garrulgaaaaah! I've been given an invincible|body by the Great Demon Lord Madhesagora!"
+    },
+    "122": {
+        "「決して滅びぬ　この身体がある限り|　貴様らごときに　敗れはせぬ！！": "I will never be destroyed. As long as I have|this body, I will not be defeated by you!"
+    },
+    "123": {
+        "「そうか……。|　大魔王の加護を得た　魔族は|　通常の攻撃では　倒せないのだったな……。": "I see... A demon who's been blessed by the|Great Demon King can't be defeated by|ordinary attacks..."
+    },
+    "124": {
+        "「うん……？": "Mm...?"
+    },
+    "125": {
+        "「<cs_pchero>……。今よ。|　偽の世界で　魔勇者を倒した時と同じように|　ふたりで　チカラを合わせるの……。": "<cs_pchero>... Now. Just as we did when we defeated the|demon hero in the fake world, we will join|forces together..."
+    },
+    "126": {
+        "「私が　勇者のチカラを高めるまで|　化け物の相手を　お願い……。": "I'm asking you to help me fight these|monsters until I've improved my courage."
+    },
+    "127": {
+        "「ふむ……。どうやら　峡谷の奥地にある|　古き神の遺跡に　向かっているようだな。|　奴らの目的は　いったい……。": "Hmm... Apparently, they're heading for the|ruins of the Old Gods, deep in the canyon. I|wonder what they're after."
+    },
+    "128": {
+        "「のんびりと構えている時間は　ないな。|　何か　対策を講じねば……。": "There's no time to sit around and... We have|to do something..."
+    },
+    "129": {
+        "「こ…この魔族は……": "This This demon"
+    },
+    "130": {
+        "「魔元帥ゼルドラド……|　絶対に……絶対に　許さない……！": "Admiral Zeldrad... I will not... I will never|forgive you."
+    },
+    "131": {
+        "「ルシェンダさま！|　私は　これから　勇者として|　悪しき魔族どもを　討伐してまいります！": "Lady Lushenda! I'm going to defeat the evil|demons as a brave warrior!"
+    },
+    "132": {
+        "<pc>は　賢者ルシェンダから|運命の振り子（だいじなもの）を　受け取った！<me 60>": "<pc> has received the Pendulum of Destiny from|Shenda the Wise!<me 60>"
+    },
+    "133": {
+        "「それでは　アンルシアの件。|　くれぐれも　よろしく頼むぞ。<pc>。": "Goodbye, Unlesi... Please take care of her.<pc> 。"
+    },
+    "134": {
+        "「いい返事だ。そなたであれば|　安心して　まかせることができる。": "Good... If you're the one, I can trust you..."
+    },
+    "135": {
+        "「……だが　そなたは　頼まれごとを|　抱えすぎているようだ。すみやかに手を空け|　できるだけ早く　戻ってこい。頼んだぞ。": "... But you've got too many favors to ask.|I'll be back as soon as I can. Please..."
+    },
+    "136": {
+        "「この緊急時に断るとは　何事だ！|　私を失望させないでくれ　<pc>！": "How dare you refuse me in this hour of need!|Don't disappoint me.<pc> ！"
+    },
+    "137": {
+        "「……トーマ兄さまのカタキっ！！": "... Brother Thomas' sword!"
+    }
+}

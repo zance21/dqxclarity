@@ -1,0 +1,704 @@
+{
+    "1": {
+        "「おお　<pc>殿。|　遠い所を呼びつけて　すまなかった。|　さあ　こちらへ。": "oh!<pc> My Lord. I'm sorry to call you so far away...|Come here..."
+    },
+    "2": {
+        "「久しぶりだな　<pc>君。|　元気そうで　何よりだ。": "It's been a while<pc> You. You look good. What..."
+    },
+    "3": {
+        "「おっと　すまない。|　僕だ。こんな格好だが　オーディスだよ。": "Whoa, whoa, whoa... ... I know I look like|this, but, uh, Audie..."
+    },
+    "4": {
+        "「……こんな格好で　悪かったな。": "I... I'm sorry I look like this..."
+    },
+    "5": {
+        "「ああ　失礼……。|　君の服のことを　悪く言ったわけじゃないんだ。|　気にさわったのなら　謝ろう。": "Oh, excuse me... I didn't mean to say|anything bad about your clothes. If you don't|mind..."
+    },
+    "6": {
+        "「ふん……。別に　気にしちゃいないさ。": "Hmm... I don't mind..."
+    },
+    "7": {
+        "「ふたりとも　そこまでだ。|　<pc>殿には　わらわから　説明しよう。": "We're both there...<pc> I'll explain it to you..."
+    },
+    "8": {
+        "「グランドタイタス号で　アンルシア姫と|　ラグアス王子が　さらわれた事件……。|　そなたも　忘れてはおるまい。": "The Grand Titus, where Princess Angelia and|Prince Raggedythe were taken... You mustn't|forget..."
+    },
+    "9": {
+        "「あの時　ふたりを誘拐した者は|　あと　４人……という言葉を　残していった。|　そして　犯人の狙いは　各国の王位を継ぐ者…。": "There were four more people who kidnapped|them... They left behind the words... And|that he was after the heir to the throne..."
+    },
+    "10": {
+        "「わらわの推測が　正しければ|　我が息子オーディスが　その４人の中に|　含まれていると　考えられるのだ……。": "If I am correct in my assumption that my son|Odis is among the four..."
+    },
+    "11": {
+        "「ヴェリナード王国には　魔法戦士団|　衛士団という　優秀な戦力が存在するが|　彼らには　それぞれ　重要な任務がある。": "In the Kingdom of Velinade, there are two|great warring factions, the Mage Warriors and|the Guard, each with their own important|<br>|mission..."
+    },
+    "12": {
+        "「そこで　ひとつの策を　講じることにした。|　しばらくの間　オーディスの影武者を|　立てようと思うのだ。": "So, I've decided to do something... I'm going|to shadow Odis for a while..."
+    },
+    "13": {
+        "「いやあ　オーディスと　見た目が近くて|　その上で　ウデの立つ者を探すのは|　本当に　苦労して……": "Oh, no He and Odis are so close in appearance| And then you have to find someone who's good at what they do| I've been really struggling"
+    },
+    "14": {
+        "「オレの紹介なら　不要だぜ。|　<pc>とは　ガキの頃からの|　付き合いなんでね。": "If you're referring to me, I'm not...<pc> We've known each other since we were kids,|so..."
+    },
+    "15": {
+        "「オレの紹介なら　不要だぜ。|　こいつとは　ちょっとした　知り合いなんだ。": "If you're referring to me, I don't... I've|known this guy for a while..."
+    },
+    "16": {
+        "「<pc>は　気づいてるよな？|　そうだ　オレだよ。ヒューザだ。": "<pc> You're aware of that, right? Yeah. Oh...|Huh..."
+    },
+    "17": {
+        "「なんとっ！　ふたりは　知り合いだったか。|　偶然というのは　あるものだなあ……。": "Oh, my God! They're acquaintances...|Coincidences are a thing..."
+    },
+    "18": {
+        "「ならば　話は早い。|　そなたには　影武者となったヒューザの護衛役を|　しばらくの間　頼みたいのだ。": "Then let's talk. I've asked you to be Huza's|bodyguard for the time being..."
+    },
+    "19": {
+        "「オレは　イヤだって　言ったんだぜ。|　でもよ。女王さま直々の頼みじゃ|　どうやったって　断りきれねえだろ……。": "I told you I didn't want to. I said no. I|mean, how could I say no to a request from|the queen herself?"
+    },
+    "20": {
+        "「それに　オレに釣られて|　ノコノコと出てきた誘拐犯を　捕まえるのも|　面白いんじゃねえかと思ってな。": "Besides, I thought it would be fun to catch|the kidnappers who were lured by me and came|out here..."
+    },
+    "21": {
+        "「……母上。言われるままに|　ヒューザ君と　入れ替わってみましたが|　やはり　この策には　賛同できません。": "..... I did as you asked and switched places|with Mr. Huza, but I still don't agree with|this plan..."
+    },
+    "22": {
+        "「僕のために　他人の命を危険にさらすなんて|　とても　耐えられないのです！！": "I can't bear the thought of anyone else's|life being put in danger for mine!"
+    },
+    "23": {
+        "「王を目指すことを決めた　お前の命は|　もはや　お前ひとりのものではない。|　ヴェリナードの民　すべての物だ。": "You have decided to seek the throne. Your|life is no longer yours alone... All the|people of Verrinard..."
+    },
+    "24": {
+        "「うっ……。それは　そうですが……。": "Ugh... That's true, but..."
+    },
+    "25": {
+        "「……わかりました。それなら　僕は|　旅人の振りをして　城内を歩いてみます。|　王子と気づかれないか　試さなくては。": "... I know... Then I will walk through the|castle, pretending to be a traveler. To see|if he would recognize me as a prince."
+    },
+    "26": {
+        "「いいだろう。城内なら　危険はあるまい。|　正体がバレぬよう　気をつけるのだぞ。": "It's... I don't want you to get caught in the|castle. I'll make sure they don't know who we|are."
+    },
+    "27": {
+        "「……むおっ！？|　そういえば　今日は　オーディスの歌の先生が|　城に　来る日ではなかったか？": "... Whoa! By the way, isn't today the day|that Odis' singing teacher is coming to the|castle?"
+    },
+    "28": {
+        "「……む。たしかに　今日だったな。|　このまま　ヒューザに行ってもらうのは|　さすがに　無理があるか……。": ".... It's today... I don't know if I can get|Huza to go like this..."
+    },
+    "29": {
+        "「<pc>殿。すまぬが|　オーディスの部屋へ行き　しばらくの間|　歌の先生の相手を　してもらえぬだろうか。": "<pc> My Lord. I'm sorry, but I need you to go to|Odis's room and keep his singing teacher|company for a while."
+    },
+    "30": {
+        "「わらわたちが　王家の者の振る舞いを|　ヒューザに教える時間を　稼いでほしいのだ。|　よろしく頼む。": "I'd like you to buy us some time to teach|Huza how to act like royalty... May I..."
+    },
+    "31": {
+        "「オーディスの部屋は　２階の東側にあるぞ。|　歌の先生は　もう来ているかもしれんから|　急いで　向かってくれ！": "Odis's room is upstairs on the east side...|The singing teacher may already be here, so|hurry up and get there!"
+    },
+    "32": {
+        "「……そもそも　歌というのは|　歌い手の声質が　まずは重要でしてねぇ。|　リズムに乗るとかは　その後の話なんですねぇ。": "... First of all, the quality of the singer's|voice is important... Getting into the|rhythm... comes after that."
+    },
+    "33": {
+        "「はあ。そうですか……。|　私には　よく　わかりませんけど。": "Huh. I see... I'm not sure..."
+    },
+    "34": {
+        "「いやあ　あなたは　なかなか|　よい声質をしておられますよぉ。|　私のもとで　修行してみては　いかがですぅ？": "Well, you have a very fine voice... Why don't|you come and study with me?"
+    },
+    "35": {
+        "「おやあ？　王子さまが　いらしたのかと|　思いましたが　ちがったようですねぇ。": "Oh? I thought the prince was here, but he's|not."
+    },
+    "36": {
+        "「おっと。私は　バリトーという者でしてねぇ。|　お城の王子さまに　歌を教えてほしいと|　女王さま直々に　頼まれているんですよぉ。": "... My name is Barrito. I've been asked|personally by the queen to teach the prince|of the castle to sing."
+    },
+    "37": {
+        "「ですが　肝心の王子さまが　一向に現れず|　ヒマを持て余していたところでしてねぇ。": "But the prince hadn't shown up yet, and I was|running out of time..."
+    },
+    "38": {
+        "「……そうですねぇ。せっかくですから|　あなたにも　タメになる　私の話を|　聞かせてさしあげましょうかねぇ。": "... Well... So I thought I'd share something|with you that might be of interest to you..."
+    },
+    "39": {
+        "<pc>は　バリトーのうんちくを|うんざりするほど　たっぷりと　聞かされた！": "<pc> was subjected to an excruciating amount of|Barrito crap!"
+    },
+    "40": {
+        "「…………というわけなんですねぇ。": "... That's why..."
+    },
+    "41": {
+        "「おおっ。オーディス王子さま。|　お待ちしておりましたよぉ。|　歌をお教えしに参りました　バリトーですぅ。": "... King Ordys... I have been expecting|you... I have come to teach you the song,|Barrito..."
+    },
+    "42": {
+        "「や…やあ　これは　これは。|　僕のために　わざわざ　来ていただき|　ありがとうございます　バリトー……殿。": "Hey, uh... Hey, this is, uh... Thank you for|coming all the way out here for me, Mr.|Barrito. ...."
+    },
+    "43": {
+        "「いえいえぇ。いずれ　恵みの歌をお唄いになる|　次期国王さまに　私ごときが　お教えできるなど|　光栄の至りでございますぅ。": "No, no, no. It would be an honor for me to|teach the next king, who will eventually sing|a song of grace..."
+    },
+    "44": {
+        "「では　さっそく　レッスンと参りましょうかぁ。|　まずは　発声練習から　いきますよぉ。": "Let's start with the lesson... Let's start|with vocal exercises..."
+    },
+    "45": {
+        "「う………………。": "う..."
+    },
+    "46": {
+        "「おやぁ？　どうしたのです？|　さあ　私に続いて|　まいまいテイルも　まみむめもっ！": "Oh, hey. What's wrong? Come on, follow me,|Mai-Mai-Tail, and Mami-Mum!"
+    },
+    "47": {
+        "「ごほっ　ごほっ……。申し訳ない。|　ちょっと　風邪気味のようで……。": "Whoa, whoa, whoa... Sir... I think I have a|cold..."
+    },
+    "48": {
+        "「風邪くらいで　レッスンをやめていては|　うまくなど　なれないんですよぉ。|　ほら　まいまいテイルも　まみむめもっっ！": "If you stop taking lessons because you have a|cold, you'll never get better... You see,|you're also my tail and my mamime!"
+    },
+    "49": {
+        "「くっ…………。|　とにかく　カンベンしてくれ！": "Oh, God. Anyway, don't do this!"
+    },
+    "50": {
+        "「むぉっ？　私のレッスンから　逃げるなんて|　王子さまといえども　許しませんよぉ！": "Huh? I will not allow you to run away from my|lessons, even if you are a prince."
+    },
+    "51": {
+        "「こらーっ　お待ちなさぁーい！！": "Hey! Wait for me!"
+    },
+    "52": {
+        "「……王子さま　どうしたんでしょうか？|　風邪をひいたなんて　聞いてませんし|　お客さまに　あのような態度を取るなんて……。": "... What's the matter, my prince? I've never|heard of you catching a cold, and I've never|heard of you behaving like that to a guest."
+    },
+    "53": {
+        "「でも　あの先生に教わるのがイヤで|　城のどこかに　逃げ込んだのかもしれません。|　私も　あの先生は　ちょっと……。": "But maybe he didn't want to learn from that|teacher, so he ran away to the castle|somewhere. I don't like that teacher either."
+    },
+    "54": {
+        "「ああ　<cs_pchero>か……。|　さっきは　カッコ悪いとこを見せちまったな。|　じつは　オレさ……": "Ah!<cs_pchero>Well... I'm sorry I was so uncool earlier.|The truth is, I..."
+    },
+    "55": {
+        "「なんだ　こいつらは！？": "What the hell are these guys?"
+    },
+    "56": {
+        "「どうやら　囲まれちまったようだ……。|　王族を誘拐したってやつの　差し金か？": "Looks like we're surrounded... You think the|guy who kidnapped the royals had something to|do with it?"
+    },
+    "57": {
+        "「………………。": "..."
+    },
+    "58": {
+        "「ちっ……。しかたねえな。|　オレたちで　やっちまおうぜ　<cs_pchero>。|　そっちにいるのは　まかせたからな！": "Shit... I don't know... We'll do it|ourselves.<cs_pchero>Hey! I've got you over there!"
+    },
+    "59": {
+        "「………………！！": "...!"
+    },
+    "60": {
+        "「おい　<cs_pchero>　何してやがる。|　さっさと　こっちへ来て　加勢してくれっ！！": "hey!<cs_pchero>What are you... Get your ass over here and|help me!"
+    },
+    "61": {
+        "「………………！！": "...!"
+    },
+    "62": {
+        "「紙切れみたいのが　魔物に化けてたようだが|　こんな術は　見たことがねえな……。": "It looks like a piece of paper turned into a|demon, but I've never seen anything like it."
+    },
+    "63": {
+        "「はぁ　はぁ……。王子さまぁ。|　やっと　見つけましたよぉ！": "Huh, huh... Prince... I finally found you!"
+    },
+    "64": {
+        "「ちっ……。": "Hey..."
+    },
+    "65": {
+        "「この私から　逃げだすなんてぇ……。|　これは　ちょっと　ハードなレッスンを|　受けていただく必要が　ありますねぇ。": "I can't believe you're running away from me.|You're going to have to learn the hard way..."
+    },
+    "66": {
+        "「ふむ。せっかく　ここまで来たんですし|　そこのバルコニーで　国民の皆さんを前に|　唄っていただくことに　しましょうかぁ！": "Hmm. Since we've come all this way, let's|have you sing in front of the whole nation on|that balcony!"
+    },
+    "67": {
+        "「……そっ　そんなのムリに決まってんだろ！|　本当に　カンベンしてくれよ。|　逃げたことは　謝るからさ……。": "... Of course you can't do that! I really|don't want you to... I'll apologize for|running away..."
+    },
+    "68": {
+        "「今さら　謝っていただいても　遅いのですぅ。|　グズグズしてるのは　男らしくないですよぉ。|　さあ　キリキリと　唄ってもらいましょお！": "It's too late for an apology, but... It's not|manly to dither... Let's hear him sing!"
+    },
+    "69": {
+        "「……わかった。そこまで言うなら　唄おう。|　だが　どうなっても　責任は取らないぜ？": "... I don't... If you insist... But I'm not|responsible for what happens to you, okay?"
+    },
+    "70": {
+        "「<pc>……。|　理由は　よくわからんが　どうも|　ヒューザを　怒らせてしまったようだ。": "<pc> I... I'm not sure why, but apparently I've|upset Huza..."
+    },
+    "71": {
+        "「すまんが　彼を探してきてもらえんか？|　ワシよりも　気心の知れた　そなたが|　迎えにいったほうが　よいだろう。": "I'm sorry, but could you go and find him for|me? I think it would be better if you, who|know him better than I do, went and got|<br>|him..."
+    },
+    "72": {
+        "「ワシらは　食事を終えたら　女王の間に戻る。|　ヒューザを見つけたら　そっちに来るよう|　伝えてほしい。頼んだぞ。": "When we're done eating, we'll go to the|Queen's room... If you find Huza, tell her to|come to me... Please..."
+    },
+    "73": {
+        "「……<pc>殿。|　無理を言って　すまないが|　遺跡の調査の件　よろしく頼む。": "<pc> Sir. I apologize for the inconvenience, but I|would like to discuss the investigation of|the ruins..."
+    },
+    "74": {
+        "「私は　王子が心配です……。|　王子の格好をしていないのを　いいことに|　これまで以上に　無茶をするのでは……。": "I fear for the prince. That he'll take|advantage of not being dressed as a prince to|be more reckless than ever"
+    },
+    "75": {
+        "「な～に。今のオーディスなら　大丈夫だ。|　自分の命が　自分だけの物ではないと|　知っているのだからな！": "... Odysseus now, he knows... She knows that|her life does not belong to her alone!"
+    },
+    "76": {
+        "「……だが　誘拐犯の正体に加え|　封じられた魔物の存在も　不明なのだ。|　充分　気をつけてくれ　<pc>。": "... But in addition to the identity of the|kidnapper, we don't know if there's a demon|inside... Be very careful.<pc> 。"
+    },
+    "77": {
+        "「ジュレイダ連塔遺跡は　ジュレットの町の|　北側から入れる　ジュレー島下層の奥にある。|　そなたも　すぐに　向かってくれ。": "The ruins of the Julaidah towers can be|accessed from the north side of the town of|Jullet, deep in the lower reaches of Jullet|<br>|Island... You're on your way."
+    },
+    "78": {
+        "「……<pc>殿。ジュレイダ連塔遺跡で|　何があったかは　オーディスより　聞いた。": "<pc> My Lord. From Odis, we know what happened at|the ruins of Joureida..."
+    },
+    "79": {
+        "「オーディスの影武者が　狙われた以上|　誘拐犯の狙いは　王家の者ということで|　まちがいないだろう。": "Now that Odis's shadow has been targeted,|it's safe to assume that the kidnappers are|after someone from the royal family..."
+    },
+    "80": {
+        "「そなたの友人を　巻き込んでしまい|　申し訳なく　思っている。|　できる限りのことは　させてもらいたい。": "I'm sorry to have dragged your friend into|this, but... I'll do everything I can to..."
+    },
+    "81": {
+        "「遺跡に現れた男の情報を　収集するよう|　あらためて　魔法戦士団には　通達してある。|　何か　わかったら　連絡が来るはずだ。": "The Warchiefs have been notified to gather|more information about the man who appeared|at the ruins. They'll be in touch if they|<br>|learn anything."
+    },
+    "82": {
+        "「なんとしても　誘拐犯の足取りを|　つかまねばならぬ……。": "We need to find the kidnapper's trail, no|matter what it takes."
+    },
+    "83": {
+        "「失礼いたします。|　王立魔法戦士団　副団長ユナティ。|　女王ディオーレ様に　ご報告に参りました。": "Excuse me... I'm Yu, second-in-command of the|Royal Warriors. I am here to report to Her|Majesty Queen Diore..."
+    },
+    "84": {
+        "「ご苦労　ユナティ。|　例の男の件　情報が　つかめたのだな？": "Thank you, Mr... You got a tip on that guy,|didn't you?"
+    },
+    "85": {
+        "「はっ。ドワチャッカ大陸にて　いくつか|　不審な男の目撃情報が　確認されました。": "Huh. There have been several confirmed|sightings of a suspicious man on the Dwachaqa|continent..."
+    },
+    "86": {
+        "「いずれも　ウデにヘビを巻きつけた男が|　ドルワーム王国の近辺において|　目撃されているとの　報告です。": "Both reports say a man with a snake wrapped|around his neck has been spotted in the|vicinity of the kingdom of Dorworm..."
+    },
+    "87": {
+        "「……そうか。こちらに現れた誘拐犯と|　同一人物である可能性が　高いな。|　引き続き　情報収集を頼むぞ。": "...... It's possible this is the same|kidnapper who showed up here... We're still|gathering information..."
+    },
+    "88": {
+        "「はっ！　おまかせください。": "Ha! I'll leave it to you..."
+    },
+    "89": {
+        "「<pc>殿。話は聞いていたな。|　ヒューザをさらった誘拐犯は|　次に　ドルワーム王国を　狙っているようだ。": "<pc> Sir. I've heard... The kidnappers who took|Huza have their sights set on the kingdom of|Dorworm..."
+    },
+    "90": {
+        "「じつは先刻　ドルワーム王国の使者が来てな。|　ウラード国王が　そなたに　直々に|　頼みたいことがあると　告げていった。": "As I was saying, a messenger from the kingdom|of Dorworm... King Wlad has something he|wishes to ask you personally."
+    },
+    "91": {
+        "「この誘拐犯がらみと見て　まちがいなかろう。|　すぐに　ドルワーム王国へ向かってくれ。|　そして　誘拐犯を捕えてほしいのだ。": "I think it's safe to assume that this|kidnapper is connected... I'm headed to the|kingdom of Dolworm... And I want you to catch|<br>|this kidnapper."
+    },
+    "92": {
+        "「だが　その前に　ここまでの働きに報いるため|　報酬を用意させてもらった。|　受け取ってくれるか　<pc>殿。": "But first, I'd like to offer you a reward for|all your hard work... Will you accept it?<pc> Temple."
+    },
+    "93": {
+        "「<pc>君　僕も行くぞ！|　ヒューザ君は　僕の身代わりになったんだ。|　危険な目にあわせたまま　放っておけない！": "<pc> Honey, I'm coming with you! Huza, you've|taken my place... I can't just leave him out|there in the cold!"
+    },
+    "94": {
+        "「……落ち着け　オーディス。|　ヒューザが　お前の影武者となったのは|　なんのためなのか　よく考えろ。": "Oh... Easy, O... I don't know what it was|that made Huza your shadow..."
+    },
+    "95": {
+        "「<pc>にとっても|　ヒューザは　大切な友人のはずだ。|　ここは　まかせるべきではないか？": "<pc> Huza is a dear friend of mine... Don't you|think we should let him handle this?"
+    },
+    "96": {
+        "「くっ……。<pc>君……。|　本当に　すまない…………。": "Fuck...<pc> I'm... I'm so sorry. I'm so sorry."
+    },
+    "97": {
+        "「誘拐犯を捕らえることができれば|　ヒューザだけでなく　アンルシア姫や|　ラグアス王子の行方も　わかるはずだ。": "If we can catch the kidnappers, we'll know|the whereabouts of not only Huza, but|Princess Anduleia, Prince Ragus..."
+    },
+    "98": {
+        "「重ねて　そなたのチカラを|　借りることになってしまい　心苦しいが|　どうか　よろしく頼む　<pc>殿。": "Overlap Your power| I'm sorry I had to borrow it| I'm counting on you<pc> Temple."
+    },
+    "99": {
+        "「<pc>殿。遠慮は不要だ。|　そなたも　席に着くがよい。": "<pc> Sir. Don't be shy... You may take your|seat..."
+    },
+    "100": {
+        "「よいな？　ヒューザには　影武者として|　食事の席でのマナーも　覚えてもらうぞ。": "All right? I'd like you to be my shadow|warrior, so you can learn some manners at the|dinner table."
+    },
+    "101": {
+        "「まあ　オーディスのマナーも|　決して　ホメられたものじゃないからな。|　変に　気負わなくてもいいぞ。": "Well, Odis's manners are not exactly|flattering, so... You don't have to be so..."
+    },
+    "102": {
+        "「そんなことありませんよ　父上。|　僕のマナーは　カンペキですから！": "That's not true... My manners are perfect!"
+    },
+    "103": {
+        "「わはははっ　そうか　そうか。|　なら　いいんだがなあ。": "Ha-ha-ha. Well... Then it's okay..."
+    },
+    "104": {
+        "「……あの　すみません。|　せっかくのお料理が　冷めてしまいますし|　お話は　そのくらいにしては……。": "... Excuse me... I'm afraid the food will get|cold, so I think we should stop talking..."
+    },
+    "105": {
+        "「うむ　セーリアの言うとおりだ。|　いただくとしよう。": "Mm. Celia says... I'll take that..."
+    },
+    "106": {
+        "「…………。": "..."
+    },
+    "107": {
+        "「ヒューザよ。いいかね？|　ナイフとフォークの持ち方は　こうだ。|　そして　使い方は　こう……。": "Hu... Do you mind? The way you hold a knife|and fork... And the way you use them is like|this..."
+    },
+    "108": {
+        "メルー公は　ヒューザに　食事のマナーを|あれやこれやと　教えていった。": "Lord Meru has been teaching Huza all sorts of|dining etiquette..."
+    },
+    "109": {
+        "<pc>は　ヴェリナードの王族たちと|豪華な料理を　楽しんだ。": "<pc> The royal family of Verrinard were treated to|a sumptuous meal..."
+    },
+    "110": {
+        "「…………。": "..."
+    },
+    "111": {
+        "「む……。どうしたというのだ。|　食事が　気に入らなかったのか？": "No... I don't know... You didn't like your|meal?"
+    },
+    "112": {
+        "「いえ。たいへん　おいしかったですよ。|　私には　よく　わかりませんが|　何か　怒っていらしたような……。": "No. It was very good... I don't know what it|was, but it seemed like he was angry or..."
+    },
+    "113": {
+        "「ふむ……。ワシの教えかたが|　何か　まずかったのかも　しれんな。|　とにかく　放ってはおけまい。": "Hmm... I don't know. Maybe I'm not teaching|him well enough. Anyway, I can't just leave|him..."
+    },
+    "114": {
+        "「<pc>……。|　理由は　よくわからんが　どうも|　ヒューザを　怒らせてしまったようだ。": "<pc> I... I'm not sure why, but apparently I've|upset Huza..."
+    },
+    "115": {
+        "「すまんが　彼を探してきてもらえんか？|　ワシよりも　気心の知れた　そなたが|　迎えにいったほうが　よいだろう。": "I'm sorry, but could you go and find him for|me? I think it would be better if you, who|know him better than I do, went and got|<br>|him..."
+    },
+    "116": {
+        "「ワシらは　食事を終えたら　女王の間に戻る。|　ヒューザを見つけたら　そっちに来るよう|　伝えてほしい。頼んだぞ。": "When we're done eating, we'll go to the|Queen's room... If you find Huza, tell her to|come to me... Please..."
+    },
+    "117": {
+        "「……ああ　<pc>か。|　また　カッコ悪いとこを見せちまったな。": " Yeah<pc> I see. I'm showing my uncool side again..."
+    },
+    "118": {
+        "「でもな……。どうしても|　あそこにいるのに　耐えられなくてよ。|　思わず　飛びだしちまったんだ。": "But I just... I just can't stand being in|there. I just jumped out of my skin..."
+    },
+    "119": {
+        "「家族で仲良く　お食事なんてさ……。|　オレにゃあ　無縁のものだ。|　ああいう雰囲気に　なじめねえんだよ。": "Family dinners... I don't... I don't... I|don't fit in that kind of atmosphere..."
+    },
+    "120": {
+        "「……オレは　親のカオも覚えてない。|　物心ついたときには　じいさんと|　ふたりだけで　暮らしてたからな。": "I... I don't even remember my parents' cao.|By the time I can remember, my grandfather|and I were living alone..."
+    },
+    "121": {
+        "「そのじいさんも　すぐに死んじまって|　オレは　レーンの村の孤児院で|　世話になることに　なったんだ。": "That old man died soon after, and I was left|in the care of an orphanage in the village of|Lane."
+    },
+    "122": {
+        "「そのおかげで　お前や　アーシクとは|　ダチになれたけどよ……。": "It made me friends with you and Aashik,|but..."
+    },
+    "123": {
+        "「王族の連中を見て　やっぱ　家族ってのは|　それとは　別モンだなと　思っちまった。|　オレらしくねえよな……。": "When I saw the royals, I realized that family|is not the same as... That's not like me."
+    },
+    "124": {
+        "「……そういや　<pc>の|　家族の話って　聞いたこと　なかったよな？": " Well<pc> You've never heard of any of the families in|your life, have you?"
+    },
+    "125": {
+        "「……いや。つまんねえこと聞いちまった。|　今のは　忘れてくれ。": "..... I don't know what to say. I don't|remember..."
+    },
+    "126": {
+        "「こんなことを　気にするなんて|　オレらしくねえよな……。": "It's not like me to worry about things like|this..."
+    },
+    "127": {
+        "「……なんでか　わかんねえが|　お前にだけは　こんなことまで|　ベラベラと　話しちまうんだよ……。": "... I don't know why, but I can't stop|talking to you about all these things..."
+    },
+    "128": {
+        "「さてと。晩さん会も　終わっちまっただろうし|　さっさと　女王の間に戻るとするか。|　やると言った以上　影武者役は果たさねえとな。": "... Now that the dinner party's over, I'd|better get back to the Queen's chamber. I|said I'd do it. I'm not gonna be a shadow|<br>|warrior."
+    },
+    "129": {
+        "「お前も　護衛の仕事を　ちゃんとやれよ。|　もう出番は　ないかもしれねえがな。ははっ！": "You're supposed to be my bodyguard. You may|never see the light of day again. Ha!"
+    },
+    "130": {
+        "「<pc>殿。手間をかけた。|　このとおり　ヒューザは戻ってきてくれたぞ。": "<pc> Sir. Take your time... As you can see, Huza's|coming back..."
+    },
+    "131": {
+        "「途中退席したことを　謝ってくれてな。|　オーディスの影武者の役も|　このまま　続けてくれるとのことだ。": "He apologized for leaving in the middle of|the show... He said he'd continue to play the|role of Odis' shadow warrior."
+    },
+    "132": {
+        "「して　これからのことなのだが……": "And that's just the beginning"
+    },
+    "133": {
+        "「失礼するであります！|　王立調査団より　ご報告があるのであります！": "Excuse me! I have a report from the royal|survey team!"
+    },
+    "134": {
+        "「それは　急を要する報告か？|　そうでなければ　後にしてほしいのだが。": "Is that an urgent report? If not, I'd like|you to wait until..."
+    },
+    "135": {
+        "「それが　事と次第によっては|　この王国……いや　ウェナ諸島全域に|　新たな危険がおよぶ　可能性がありまして……。": "But if things go wrong, this kingdom... No,|the entire Wenatchee archipelago could be in|grave danger..."
+    },
+    "136": {
+        "「……ならば　聞こう。|　報告するがいい　エリーゴ調査員。": "... Then... You may report, Erigo..."
+    },
+    "137": {
+        "「はっ！　先日より　開始されました|　ジュレイダ連塔遺跡の調査にて|　石版がひとつ　発見されたのであります。": "Ha! In the investigation of the ruins of the|Joureida towers, which began the other day, a|tablet was found..."
+    },
+    "138": {
+        "「鑑定の結果　その素材は　未知の物と判明。|　さらには　次のような文面が|　表面に　刻まれていたのであります。": "Upon examination, the material was unknown...|And the following inscription was found on|the surface..."
+    },
+    "139": {
+        "「……読み上げるであります。": "... Read out is ..."
+    },
+    "140": {
+        "「ヴェリナード王家の者のみが　開放しうる扉。|　その向こうに　ひとつのツボが眠る。|　大いなる恐怖が封じられし　真紅のツボなり。": "Open only to members of the royal house of|Verrinard... Beyond that, a single urn. A|crimson urn containing the greatest of|<br>|horrors."
+    },
+    "141": {
+        "「大いなる恐怖は　やがて　目を覚まし|　すべての島が　海のもくずと化すであろう。|　ウェナの歴史の終わる時　来たれり……と！": "The Great Terror will awaken and all the|islands will be turned to sea dust. The end|of Wenna's history has come... And!"
+    },
+    "142": {
+        "「ふむ。何かの警告のようだが……。|　まさか　その遺跡に　バサグランデのような|　強大な魔物が　眠っているとでもいうのか？": "Hmm. Sounds like a warning... Don't tell me|there's a demon as powerful as Basagrande|sleeping in those ruins?"
+    },
+    "143": {
+        "「確証はないであります。|　しかし　遺跡の中には　多くのしかけがあり|　奥へ進むことが　難しく……": "We don't know for sure... But there are so|many traps within the ruins... that it's|difficult to go deeper..."
+    },
+    "144": {
+        "「王家の者にしか　開けられない扉も|　あるとのことなので　それ以上の調査ができず|　このように　報告にうかがった次第であります。": "There are some doors that can only be opened|by members of the royal family, so I couldn't|investigate any further, so I came here to|<br>|report..."
+    },
+    "145": {
+        "「なるほど。確証はないが|　さりとて　捨て置くわけにもいかぬ……か。": "Well... I can't be sure, but that doesn't|mean I'm going to throw it away. ...."
+    },
+    "146": {
+        "「この件は　こちらで対応を決める。|　それまで調査は　一時中断しておけ。|　報告　ご苦労だった　エリーゴ調査員。": "We'll take care of this... In the meantime,|I'm going to suspend my investigation...|Thank you for your report, Erigo..."
+    },
+    "147": {
+        "「はいっ。失礼するであります！": "... Excuse me, sir!"
+    },
+    "148": {
+        "「母上！　これは　放ってはおけません。|　僕が　調査団を連れて　調査に行きます！！": "Mother! We can't let this go... I'll take the|survey team and go investigate!"
+    },
+    "149": {
+        "「……ヒューザが行っても　扉は開かんよな？|　だからといって　その姿のオーディスが行ったら|　影武者作戦が　みんなに　バレてしまうぞ。": "... If Husa goes there, it won't open the|door, will it? I don't think so, but if Odis|goes in that form, then everyone will know|<br>|that he's a shadow..."
+    },
+    "150": {
+        "「僕とヒューザ君が　一緒に行けばいいのです。|　そうすれば　何も問題はありません！": "Me and Mr. Huza can go together... And|everything will be fine!"
+    },
+    "151": {
+        "「しかし　石版に書かれた内容が本当で|　危険な魔物が封じられていたら　なんとする！？|　それに　例の王族を狙う賊のこともある。": "But what if what's written on the tablet is|true, and a dangerous demon is sealed inside?|Besides, there's that bandit who's after the|<br>|royals..."
+    },
+    "152": {
+        "「父上。暴君バサグランデをも倒した英雄が|　ここにいるのを　お忘れですか？|　<pc>君にも　来てもらえばいいのです！": "Father. You forget that here is a hero who|defeated the tyrant Basagrande.<pc> We could have you come too!"
+    },
+    "153": {
+        "「誘拐犯が　現れたんなら|　そこで　とっ捕まえちまえば　事件は解決。|　こんな変装とも　おサラバできるってわけだ。": "If the kidnapper shows up, we can catch him|right there... We can get rid of this|disguise..."
+    },
+    "154": {
+        "「封じられた魔物のほうも　オレと|　<pc>で　退治しちまえばいいしな。|　本当にいるんなら……だが。": "I'm not the only one with a sealed demon|<pc> So, why don't we just kill it? If you're|really here: ....."
+    },
+    "155": {
+        "「<pc>殿　行ってくれるか？|　本当に　遺跡に　魔物が封じられているなら|　その排除を　頼みたい。": "<pc> Sir, can you go? If there really is a demon|trapped in the ruins, I need you to help me|get rid of it..."
+    },
+    "156": {
+        "「お願いだ　<pc>君。|　状況を知っている君にしか　頼めないんだ。|　僕たちも　すぐに準備をして　遺跡に向かう！": "Please<pc> You. You're the only one who knows what's|going on... We'll be ready for you as soon as|we get to the ruins!"
+    },
+    "157": {
+        "「ジュレイダ連塔遺跡は　ジュレットの町の|　北側から入れる　ジュレー島下層の奥にある。|　君も　そこへ向かってくれ！": ""
+    },
+    "158": {
+        "「ワシは　女王のそばを|　離れるわけには　いかんのでな……。|　頼んだぞ　<pc>。": "I'm not leaving the queen's side. I'm|counting on you.<pc> 。"
+    },
+    "159": {
+        "「おお　<pc>君。よく来てくれた。|　それじゃ　さっそく……": "oh!<pc> You. You're here... Let's get started..."
+    },
+    "160": {
+        "「君は　僕の護衛だろう？|　仕切るのは　やめてもらおうか。": "You're my bodyguard, aren't you? You don't|get to run the show..."
+    },
+    "161": {
+        "「……あっ。これは　失礼しました。": "..... Oh, excuse me..."
+    },
+    "162": {
+        "「オーディス王子。|　<pc>どのは　私も知っていますが|　こちらの方は　どなたですか？": "Aud...<pc> I know which one, but who's this one?"
+    },
+    "163": {
+        "「彼も　僕の護衛のひとりだ。|　ウデも立つし　信頼できる男だから|　君たちは　心配しなくていい。": "He's also one of my guards. And he's good,|and he's reliable, so you guys don't have to|worry..."
+    },
+    "164": {
+        "「では　石版にあった　王家の者にしか|　開けられない扉とやらを　探すとしよう。|　エリーゴ調査員　案内を頼む。": "Now, if you'll excuse me, I'm looking for a|door on the tablet that can only be opened by|a member of the royal family... Erigo,|<br>|investigator, show me..."
+    },
+    "165": {
+        "「怪しい物には　さわらぬようにして|　ひととおり　遺跡内を見てまわりましたが|　石版に書かれていた扉は　なかったであります。": "We took a look around the ruins, trying not|to touch anything suspicious, but we didn't|find the door that was written on the|<br>|tablet..."
+    },
+    "166": {
+        "「ですが　いくつかの鐘や　音叉らしきものが|　設置されているのは　確認したであります。|　それらが　何かのカギではないかと……。": "But we did see that there were some bells and|what looked like tuning forks. I think they|might be keys to something."
+    },
+    "167": {
+        "「僕たちは　もう一度　遺跡を周ってみよう。|　<pc>君は　この辺りを調べてみてくれ。": "We'll go around the ruins one more time|and...<pc> You, uh, check around here..."
+    },
+    "168": {
+        "「おおっ　<cs_pchero>どの。|　遺跡のしかけを　解いてくれたのでありますね。|　さすがは　<cs_pchero>どのであります！": "oh!<cs_pchero>Which. He has unraveled the mystery of the|ruins... as expected...<cs_pchero>Which is!"
+    },
+    "169": {
+        "「王族にしか　開けられない扉か……。|　まずは　僕が試してみよう。": "A door that only royalty can open. I'll try|it first."
+    },
+    "170": {
+        "「なんだ……？　普通に開いちまったぞ。": "What the...? It opened normally..."
+    },
+    "171": {
+        "「やはり　この扉は　王族にしか|　開けなかったのでありますねっ。|　これで　調査が続けられるであります！": "After all, this door could only be opened by|royalty... Now we can continue our|investigation!"
+    },
+    "172": {
+        "「……開いたんなら　それで　よしとするか。|　では　中へ入ってみるとしよう。|　みんな　ついてきてくれ。": "So... If it's open, it's open. Okay, let's go|inside and see... Everybody follow me..."
+    },
+    "173": {
+        "「……エリーゴ調査員。|　この部屋で　まちがいないのか？": "... Elligo... Are you sure it's the right|room?"
+    },
+    "174": {
+        "「はっ。まちがいない……はずであります。": "Haha. I'm sure... I'm sure..."
+    },
+    "175": {
+        "「……どうも　おかしいな。|　魔物が封じられた　真紅のツボとやらは|　どこに　あるんだ……？": "... Hello, my dear. Where is the crimson urn|that contains the demon?"
+    },
+    "176": {
+        "「そこかしこに　からくりのようなものを|　作っていた名残が　見えますが|　ツボと呼ぶには　無理がありますね……。": "Here and there, you can see the remnants of|what used to be a mechanism, but it's hard to|call it a pressure point..."
+    },
+    "177": {
+        "「それじゃ　あの石版に書いてあった|　大いなる恐怖ってのは　なんなんだ？": "Okay, so what was the big scary thing that|was written on that tablet?"
+    },
+    "178": {
+        "「アハハハハハッ！！": "Ahahahahahaha!"
+    },
+    "179": {
+        "「ま～た　ひっかかったね。|　このバカ王子！": "You got me again... You stupid prince!"
+    },
+    "180": {
+        "「……誰だ　お前？": "... Who the hell are you?"
+    },
+    "181": {
+        "「わわわっ……忘れたっての！？|　私だよ。キャ・ス・ラ・ンっっっ！": "Whoa, whoa... You forgot! ... Oh, my God!"
+    },
+    "182": {
+        "「気をつけろ。こいつは　僕をだまして|　暴君バサグランデを復活させた　ずる賢い女だ。|　今まで　どこに逃げていたんだ……。": "Watch out... This is the man who tricked me|into resurrecting the tyrant Basagrande, the|cunning... I don't know where I've been."
+    },
+    "183": {
+        "「ん？　あんたなんかに|　ずる賢い呼ばわりされる　いわれはないよ。|　この　ありがちイケメン！": "Hmm? I don't need you to call me cunning...|You are so handsome!"
+    },
+    "184": {
+        "「やっぱり　あんたは　ボンクラさ。|　ウソの石版の言葉に　だまされて|　ノコノコと　出てきちまうんだからね！": "I knew it. You're a bon... You were fooled by|the words on the tablet, and you came out|here!"
+    },
+    "185": {
+        "「あの石版は　ワナだったのか。|　それじゃ　あんたが|　王家の者を狙う　誘拐犯ってわけか？": "That tablet was a trap. So you're the|kidnappers who are after the royal family?"
+    },
+    "186": {
+        "「はっ　誘拐？　何よ　それ？|　そんなの　知るもんか。": "What, kidnapping? What's that? I don't know|what that..."
+    },
+    "187": {
+        "「私は　ヘビ使いのダンナに　王子はバカだから|　単純なワナに引っかかりますって　伝えただけ。|　そりゃもう　カンタンな　お仕事だったよ。": "I told my snake charmer husband that princes|are stupid and will fall for the simplest of|traps. Well, that's a simple enough task."
+    },
+    "188": {
+        "「ヘビ使いのダンナ……？": "The snake charmer, Danna...?"
+    },
+    "189": {
+        "「やはり　お前で　まちがいないな。|　ウェディの王子よ。一緒に来てもらうぞ。": "I knew it was you. I knew it. Wendy's... You|can come with me..."
+    },
+    "190": {
+        "「…………。": "..."
+    },
+    "191": {
+        "「……ふん。やる気は充分ってとこか？": "..... So, you're ready to go?"
+    },
+    "192": {
+        "「……行け。": "....."
+    },
+    "193": {
+        "「くっ……。同じ紙切れの化け物のくせに|　城んときのより　やるじゃねえか。": "Damn... It's the same paper monster, but it's|better than the one at the castle..."
+    },
+    "194": {
+        "「<cs_pchero>君！　ここは|　君のチカラも　借りなきゃならないようだ。|　こいつを　倒してくれ！！": "<cs_pchero>You! I'm gonna need your help here. I need|you to take him down!"
+    },
+    "195": {
+        "「そっちは　まかせるぜ　<cs_pchero>。|　オレたちは　ヘビ男のほうを捕まえるからよ。": "I'll leave you to it<cs_pchero>. We're gonna get the snake guy..."
+    },
+    "196": {
+        "「<cs_pchero>　何してやがる。|　お前が　こいつの相手をしてくれねえと|　ヘビ男を　捕まえられねえだろうが！": "<cs_pchero>What are you... We're not gonna get the snake|man unless you help me with this!"
+    },
+    "197": {
+        "「すまん　<cs_pchero>君！|　君でなければ　こいつの相手は難しそうだ。|　まかせるぞ！！": "excuse me<cs_pchero>You! If it wasn't for you, this would be a|very difficult... I got this!"
+    },
+    "198": {
+        "「……青狼鬼と　渡りあえるとはな。": "... We can cross the blue wolf demon..."
+    },
+    "199": {
+        "「だが　目的は果たした。|　ヴェリナードの王子は　もらっていくぞ。": "But we got what we came for... The prince of|Verrinard took..."
+    },
+    "200": {
+        "「くっ……。待て……っ。": "Damn... Wait. ...."
+    },
+    "201": {
+        "「ちょ……ヘビ使いのダンナ　私は？|　まだ報酬も　いただいてないんですけどっ！？": "Hey... What about me, snake charmer? I|haven't even gotten paid yet!"
+    },
+    "202": {
+        "「……キャスラン。|　お前は　絶対に　許さないぞ……。": "... Oh, my God. I'll never forgive you..."
+    },
+    "203": {
+        "「うひ……。": "Ugh..."
+    },
+    "204": {
+        "「ひいいぃぃぃ！": "Heeeey!"
+    },
+    "205": {
+        "「……女狐め。放っておくべきじゃなかった。|　くそ……。必ず　捕まえてやるぞ……。": "...... You shouldn't have left him... Damn|it... I'm gonna get you..."
+    },
+    "206": {
+        "「<cs_pchero>君　すまない。|　ヒューザ君が　僕の身代わりに…………。": "<cs_pchero>You... Mr. Huza took my place."
+    },
+    "207": {
+        "「ま……まさか　さらわれたのは　別人で|　あなたが　本物の王子どのなのでありますか！？": "No... Don't tell me that it was someone else|who was kidnapped, and that you are the real|prince?"
+    },
+    "208": {
+        "「……説明は　後だ。|　急いで　ヴェリナード城に戻るぞ。|　このことを　母上に伝えなくては……。": "... The explanation is... I must hurry to|Castle Verrinard... I must tell your mother|about this..."
+    },
+    "209": {
+        "「……<cs_pchero>君。|　君も　すぐに来てくれ……。": "<cs_pchero>You. You, too. You'll be here soon..."
+    },
+    "210": {
+        "「なるほど。あんたが　本物の誘拐犯か。|　その女を使って　オレたちを|　うまく　誘いだしたつもりらしいが……。": "Oh... You're the real lure. You're the real|lure... and you're supposed to be using her|to lure us out."
+    },
+    "211": {
+        "「そいつは　逆だぜ。|　あんたが出てくるのを　待ってたのは|　こっちのほうなんだからな！": "That's... I'm the one who's been waiting for|you to come out!"
+    },
+    "212": {
+        "<center>この世のものとは思えない|ヘタクソな歌声が　城下に響きわたった！！<me_70>": ""
+    },
+    "213": {
+        "<center>城の前に集まった人々は　カオを見合わせ|何かを言いたそうにしながらも|それぞれの生活に　戻っていった。": "People gathered in front of the castle,|looking at each other, wanting to say|something, but going back to their own|<br>|lives..."
+    },
+    "214": {
+        "「グランゼドーラの王女に　メギストリスの王子。|　３人目は　ヴェリナードの王子か。|　次は　しくじりはしない……。": "Princess of Granzedorra, Megistris... And the|third, of Verrinard... Next, I will not|fail..."
+    },
+    "215": {
+        "「……ああ　なんたることでしょう。|　これほどオンチで　これほどヒドい歌は|　今までに　聴いたことがありませんよぉ！！": "... Oh, my God... That is the dumbest, most|awful song I've ever heard in my life!"
+    },
+    "216": {
+        "「もはや　私の手には負えません！|　あなたに歌を教えるのは　無理だと|　女王さまに　伝えておいてくださいっ。": "I can no longer help you! Please tell the|queen that I cannot teach you to sing..."
+    },
+    "217": {
+        "「……だから　言ったじゃねえか。|　オレに　歌なんか　唄わせるから……。": "I told you... I told you... I told you... I|told you not to make me sing."
+    },
+    "218": {
+        "「あの先生のことは　どうでもいいが|　さっきの魔物のことは　女王に伝えとこうぜ。|　お前も　来てくれよ　<cs_pchero>。": "I don't care about the doctor, but I'll tell|the Queen about the demon... You should come,|too.<cs_pchero>。"
+    },
+    "219": {
+        "「最初は　わしが　その役を買って出たんだが|　王家に伝わるメイク術で　カオは似せられても|　さすがに　体型までは　ごまかせなくてな。": "I took on the role at first, but with the|royal family's make-up technique, I could|make Kao look like him, but I couldn't fake|<br>|his body."
+    },
+    "220": {
+        "「まいまいテイルも　まみむめもっ。|　はい　どうぞ！": "And the tail. Mami-mi... Here you go!"
+    },
+    "221": {
+        "「なんと言われても|　だめなんだよ　歌だけは……。": "I don't care what you say. I can't sing. I|can't..."
+    },
+    "222": {
+        "「なるほどな……。|　そいつは　案外　いい作戦かもしれねえぜ。": "I see... That might be a good plan..."
+    },
+    "223": {
+        "「……わらわは　この国の王だ。|　息子の身だけを案じ　国を襲うかもしれぬ脅威を|　放っておくことは　できぬ。": "... I am a man of this country... I can't|just leave my son to fend for himself... and|leave the threats that may come against our|<br>|country..."
+    },
+    "224": {
+        "「身代わりとは　いったい……。|　どういうことなので　ありますか？": "What do you mean by \"scapegoat\"? What does|that mean?"
+    },
+    "225": {
+        "「各国に派遣した　魔法戦士たちには|　警戒をおこたらぬよう　命令を出したところだが|　こちらも　できる限りの対策は　しておきたい。": "I've just issued orders to all of our|warriors to remain vigilant, but we've also|taken every precaution we can."
+    },
+    "226": {
+        "「そういえば　セーリアちゃん。|　ワシがプレゼントした　おしゃれなサンダルは|　まだ　はいてくれんのか？": "Speaking of which, Cella... Are you still not|wearing those fancy sandals I gave you?"
+    },
+    "227": {
+        "「すみません……。|　そういったものは　身につけないのが|　普通だったので　慣れなくて……。": "I'm sorry, I... It's just that I'm not used|to wearing those things, so..."
+    },
+    "228": {
+        "「無理じいは　よくありませんよ　父上。|　セーリアが生まれた時代の文化は|　おおいに　尊重するべきです！": "You shouldn't force yourself... The culture|of the time in which Cella was born must be|respected!"
+    },
+    "229": {
+        "「おやおや？　ワシの選んだサンダルを|　セーリアには　こっちのが似合うから～と|　変えさせたのは　どこの誰だったかな？": "Well, well, well. Who was it that made me|change my sandals from the ones I picked out|to the ones that fit Celia better?"
+    },
+    "230": {
+        "「うっ。それは……。": "Ugh. That's..."
+    },
+    "231": {
+        "「あれは　王子が選んでくれたのですね。|　おふたりとも　本当に　ありがとう。|　それに　女王さまも。": "That was the prince's choice. I'm so proud of|you both. And the queen..."
+    },
+    "232": {
+        "「……ふたりには　黙っていたが|　じつは　わらわも　セーリアに|　その……ブーツをな。贈ったのだ……。": "I... I didn't tell either of you this, but|I've been thinking a lot about Cella, and...|The boo... I gave it to her."
+    },
+    "233": {
+        "「こいつは　おどろいた。|　我々は　似た者家族というわけだな。|　わっはっはっはっ！": "This guy scares me... We're like a family...|Ha-ha-ha-ha!"
+    },
+    "234": {
+        "「おそらく　この扉の先に　石版に書かれていた|　恐怖を封じたツボがあると　思うのであります。": "Perhaps it's because I believe that beyond|this door lies the acupuncture point that|sealed the fear written on the tablet..."
+    }
+}

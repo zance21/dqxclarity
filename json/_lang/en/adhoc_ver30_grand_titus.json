@@ -1,0 +1,344 @@
+{
+    "1": {
+        "「そ　そんな……！！": "No, no, no, no, no, no!"
+    },
+    "2": {
+        "「お気に召されませんか　アンルシア？": "Don't you like it, Henrietta?"
+    },
+    "3": {
+        "「いいえ　とんでもありません……！|　その……とても　お似合いです。": "No, no, no, no, no, no. You look... You look|great."
+    },
+    "4": {
+        "「そう言っていただけて　光栄です。 |　どうか　これを……。": "I'm so glad you said that. Please, take|this..."
+    },
+    "5": {
+        "「すごく　きれい……。": "It's so beautiful..."
+    },
+    "6": {
+        "「…………さまが　こんなに　…………なんて|　きっと　…………ね！": "... I can't believe you're... Oh, my God.|I... Hey!"
+    },
+    "7": {
+        "「まぁっ　<pc>！": "Oh, man<pc> ！"
+    },
+    "8": {
+        "「ようこそ　六種族の祭典へ！|　来てくれて　本当に　うれしいわ。": "Welcome to the Festival of the Six Tribes!|I'm so glad you're here."
+    },
+    "9": {
+        "「<pc>は　各地で活躍してるから |　忙しくて　来られなかったら|　どうしよう……って　思ってたの。": "<pc> She's very active, so I was wondering if|she'd be too busy to come. I thought..."
+    },
+    "10": {
+        "「相変わらず　せわしない様子ですね|　……<pc>。": "You're as busy as ever|<pc> 。"
+    },
+    "11": {
+        "「シオンさま　行ってしまわれたわ。": "Lord Theon, he's gone..."
+    },
+    "12": {
+        "「あの方はね……うふふ。": "He is. ......"
+    },
+    "13": {
+        "「あっ　それはそうと……今　大広間で開催中の|　アストルティア八王会議が　白熱しちゃってて。": "Oh, by the way... The meeting of the Eight|Kings of Astrutia is currently being held in|the Great Hall, and it's heating up..."
+    },
+    "14": {
+        "「舞踏会まで　まだ時間があるみたいなの。|　申し訳ないけれど　少しだけ|　船の中で　ゆっくりしていてくれる？": "Well, it looks like we still have a few hours|before the ball. I'm sorry, but I'm gonna|have to ask you to stay on the ship for a few|<br>|minutes."
+    },
+    "15": {
+        "「あなたのために　この船の２階にある|　特等室を　押さえておいたわ！|　そこのメイドさんが　案内してくれるはずよ。": "I've reserved a special room on the second|floor of this ship for you! The maid there|will show you..."
+    },
+    "16": {
+        "「それじゃあ　私は準備があるから……。|　ふふっ　また後でねっ！": "Well, I've got to get ready, so... I'll see|you later!"
+    },
+    "17": {
+        "<if_woman><center>姉ちゃん　姉ちゃん……。<else><center>兄ちゃん　兄ちゃん……。<endif>": "<if_woman>Sis, Sis...<else>Brother, brother...<endif>"
+    },
+    "18": {
+        "「こんなとこで昼寝なんて　のんきだなぁ。|　……しかも　まだ寝ぼけてるでしょ？": "I can't believe I'm taking a nap here. It's|so carefree. ... And you're still asleep,|right?"
+    },
+    "19": {
+        "「じつの弟である　おいらの|　名前や姿も　忘れちゃってたりして。": "I forgot my brother's name, what he looked|like..."
+    },
+    "20": {
+        "「さあ　思いだしてみてよ……。": "Come on, let's see if you can remember..."
+    },
+    "21": {
+        "<center>よお　<pc>……。": "yo!<pc> ..."
+    },
+    "22": {
+        "<center>ねえ　<pc>……。": "hey<pc> ..."
+    },
+    "23": {
+        "<if_woman><center>お姉ちゃん　お姉ちゃん……。<else><center>お兄ちゃん　お兄ちゃん……。<endif>": "<if_woman>Sis. Sis...<else>Big brother. Big brother...<endif>"
+    },
+    "24": {
+        "「<pc>さま　<pc>さま！": "<pc>  appearance<pc> Sir!"
+    },
+    "25": {
+        "「あの　大丈夫でございましょうか……？ |　ひどく　うなされておられた|　ご様子でしたので……。": "Are you all right, sir? You seemed to be|having a terrible nightmare..."
+    },
+    "26": {
+        "「ああ　そうでした！|　舞踏会の準備が　ととのったようでございます。": "Oh, yes! The preparations for the ball are|complete..."
+    },
+    "27": {
+        "「会場は　大広間となっております。|　この部屋をでて　まっすぐ進んだところにある|　入り口から　ご入場いただけますわ。": "The hall is a large room. You can enter from|the entrance straight ahead..."
+    },
+    "28": {
+        "「よろしければ　ぜひ　アンルシアさまが|　この部屋のタンスに　用意された衣装を|　お召しになってくださいまし。": "If you'd be so kind, I'd like to show you|some of the outfits that Lady Anduleia has|prepared for you in the wardrobe in this|<br>|room."
+    },
+    "29": {
+        "「アンルシアさまは　<pc>さまとの |　舞踏会を　心待ちにしておられましたので。|　どうぞ　楽しいひと時を……。": "Lady Anne Lucia<pc> She was looking forward to the ball with you,|sir. I'm sure you'll have a wonderful time."
+    },
+    "30": {
+        "「おおっ　<pc>ではないか！": "oh!<pc> Isn't it!"
+    },
+    "31": {
+        "「六種族の祭典へ　よくぞ　来てくれた！|　今宵は　大いに盛りあがろうぞ！": "Welcome to the Festival of the Six Tribes!|Let's have a great night!"
+    },
+    "32": {
+        "「アンルシアも　そなたと舞踏会に出られる日を|　指折り数えては　楽しみにしておったよ。": "Anne Lucia is counting the days until she can|attend the ball with you."
+    },
+    "33": {
+        "「今宵の祭典には　アストルティアの|　あまねく王を　招いておるのだ……。": "Tonight we invite all the kings of Astrotasia|to join us in our celebration."
+    },
+    "34": {
+        "「ひゃっほう！　アリオス王　よい宴じゃの！|　ワシ　大満足じゃもん！": "Whoo-hoo! King Arios, what a feast! I'm very|happy!"
+    },
+    "35": {
+        "「これは　ムーニス王！　ご機嫌な　ご様子で。": "This is King Moony! He's in a good mood..."
+    },
+    "36": {
+        "「むむっ　そなた……|　わが命の恩人　<pc>！": "Mmm You| the benefactor of my life<pc> ！"
+    },
+    "37": {
+        "「ずるいぞ　アリオス王！ |　ワシだって　<pc>と|　つもりつもった思い出話を　したいのじゃ！": "That's not fair, King Arios! So am I.<pc> I've got a lot of memories to tell you!"
+    },
+    "38": {
+        "「まあ　そう　あせらずに　ムーニス王。 |　<pc>は　今宵の宴の|　もうひとりの主役といっていい存在ですからな。": "Well, don't panic, Moe.<pc> is the other star of tonight's party..."
+    },
+    "39": {
+        "「舞踏会が始まるまで　まだ時間もある。 |　よい機会だから　勇者の盟友として|　各国の王に　あいさつをしてきてもらえぬか？": "There's still time for the ball to begin.|Would you do me the honor of greeting the|kings of the world as an ally of the brave?"
+    },
+    "40": {
+        "「そうじゃ　そうじゃ　賛成じゃよ！|　<pc>！　ワシ　待っておるから！": "Yes, yes, yes. I agree!<pc> I'll wait! I'll be waiting for you!"
+    },
+    "41": {
+        "「すべての王に　あいさつし終わったようだな。|　まこと　ご苦労であった！": "I've just finished addressing all the|kings... You have done well!"
+    },
+    "42": {
+        "「……そなたが　王たちと語らう姿を見ながら |　ここまで　どれほどの旅を　続けてきたのかと|　想いを　馳せておったよ。": "... As I watch you speak with your kings, I|wonder how far you've traveled..."
+    },
+    "43": {
+        "「さあ　いよいよ　舞踏会の幕をあげようぞ！": "And now it's time to raise the curtain on the|ball!"
+    },
+    "44": {
+        "「…………うむ。|　トーマにも　見せてやりたかったな。": "..... I wish Thomas could see this..."
+    },
+    "45": {
+        "「さあさ　<pc>。|　次は　あなたが踊ってあげてください。": "come<pc> (speaking spanish) Next time, you can dance|for him..."
+    },
+    "46": {
+        "<if_woman><center>できれば　会いたくなかったよ……姉ちゃん。<else><center>できれば　会いたくなかったよ……兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... My sister...<else>I wish I'd never met you... My brother...<endif>"
+    },
+    "47": {
+        "「………………あと　４人。": "... And..."
+    },
+    "48": {
+        "「アンルシア……！？": "Anglesea...!"
+    },
+    "49": {
+        "「その方々を　放しなさい！": "Let those people go!"
+    },
+    "50": {
+        "「アンルシア……そんな……！": "Unlucia... Oh, no...!"
+    },
+    "51": {
+        "「おいっ　ラグアスまで　消えちまったぞ！": "Hey, even Laguas is gone!"
+    },
+    "52": {
+        "「……皆の者　まずは落ちつけ。": "... Everyone, first things first..."
+    },
+    "53": {
+        "「ふむ……。 |　さらわれたのは　アンルシア姫と|　ラグアス王子か……。": "Hmm... The kidnappers were Princess Anthrasia|and Prince Ragus..."
+    },
+    "54": {
+        "「この舞踏会を襲ってくるとは　不敵な奴め。 |　賊の狙いは　我ら王族に　ちがいあるまいな。": "How dare they attack this ball? The bandits|must be after our royal family."
+    },
+    "55": {
+        "「アンルシア姫と　ラグアス王子……。|　もしや……若き王族が　狙われたのか？|　アストルティアの　未来を担う者が。": "Princess Anduleia and Prince Ragus... What|if... The young royals have been targeted?|The future of Astrutia..."
+    },
+    "56": {
+        "<center>できれば　会いたくなかったぜ……<pc>。": "I wish I'd never met you<pc> 。"
+    },
+    "57": {
+        "<center>できれば　会いたくなかったわ……<pc>。": "I wish I'd never met you<pc> 。"
+    },
+    "58": {
+        "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... Your sister...<else>I wish I'd never met you... Brother...<endif>"
+    },
+    "59": {
+        "「………………あと　４人。": "... And..."
+    },
+    "60": {
+        "「………………あと　４人。": "... And..."
+    },
+    "61": {
+        "「………………あと　４人。": "... And..."
+    },
+    "62": {
+        "「<pc>……これは　災いの始まりです。": "<pc> ... This is the beginning of disaster..."
+    },
+    "63": {
+        "「私が　あの場にいながら　みすみす |　勇者を　さらわれてしまうとは　くち惜しい。": "I never thought I'd be there when they took a|brave man..."
+    },
+    "64": {
+        "「記念すべき祭典の席で　客人たちを驚かせまいと |　人の姿に変化したことが　アダとなりました。": "In an attempt to surprise the guests at the|celebration, she took on human form, which|turned into an addiction."
+    },
+    "65": {
+        "「……もう　お気づきでしょう？|　私の本当の名は　ファルシオン……|　あなたも　よくご存じの　ペガサスです。": "... I'm sure you've noticed by now. My real|name is Falchion... Pegasus, which you know|very well..."
+    },
+    "66": {
+        "「この姿の私では　本来のチカラを発揮できず|　ペガサスに戻るための　唯一のカギは|　アンルシアとともに　奪われました……。": "In this form, I'm not as powerful as I should|be, and the only key to returning to Pegasus|has been taken from me, along with the key to|<br>|Unlucia..."
+    },
+    "67": {
+        "「私が　信頼の証として　彼女に|　ペンダントを渡していたのを　覚えていますか？|　……あれが　私の姿を変える宝具だったのです。": "Do you remember when I gave her that pendant|as a token of my trust? That... It was my|shape-shifter."
+    },
+    "68": {
+        "「しかし　突如現われた　あの人物……|　もしかして　あなたも見覚えがあるのでは……？": "But that person who suddenly appeared...|Perhaps you've seen him before...?"
+    },
+    "69": {
+        "「やはり　<kyodai>なのですね。": "of course<kyodai>So..."
+    },
+    "70": {
+        "「私が　エテーネの村で　カメさまとして |　あなたたち兄弟を　見守っていた頃の|　面影のままでした……。": "It was just like when I was a turtle watching|over you and your brothers in the village of|Etaine..."
+    },
+    "71": {
+        "「あの子は　あなたのチカラで|　遠い時代へ　飛ばされたはずでしたが……": "She's your help| I thought I was transported to a distant time, but"
+    },
+    "72": {
+        "「……いや　しかし　あの子もまた|　エテーネの血を　引く者か。": "... No, but he's got the blood of Etaine in|him."
+    },
+    "73": {
+        "「取り込み中に　すまない……。 |　<pc>に　火急の用件がある。": "I was in the middle of something. I'm|sorry...<pc> It's urgent..."
+    },
+    "74": {
+        "「この船が　グランゼドーラ港に戻ったら|　すぐ　ヴェリナード城まで来てほしいのだ。": "As soon as this ship returns to the port of|Granzedora, I want you to come to Castle|Verrinard..."
+    },
+    "75": {
+        "「アンルシア姫たちが　さらわれた時 |　あの賊は　あと　４人と言っていた……。|　事件は　これで終わりではないぞ！": "When Princess Anne and the others were taken,|the bandit said there were only four more...|This isn't the end of the case!"
+    },
+    "76": {
+        "「そして　若き王族が　狙われたのならば|　次に　さらわれる可能性があるのは……": "And if the young royals were targeted| The next person who could be taken is"
+    },
+    "77": {
+        "「……オーディス王子も|　候補者のひとり……というわけですね。": "... Prince Ordis is one of the candidates...|So..."
+    },
+    "78": {
+        "「<pc>　行くべきです。|　もしかしたら　<kyodai>の足取りも|　つかめるかもしれません。": "<pc>  We should... I don't know.<kyodai>I might be able to track down..."
+    },
+    "79": {
+        "「世界に　異変が起きようとしている　今|　あなたに　希望を託しましょう。": "With the world on the verge of a cataclysmic|event, we turn to you for hope..."
+    },
+    "80": {
+        "「こんなとこで昼寝なんて　のんきだな。|　……しかも　まだ寝ぼけてるだろ？": "I can't believe I'm taking a nap here. ...|And you're still sleepy, right?"
+    },
+    "81": {
+        "「こんなとこで昼寝なんて　のんきねぇ。|　……しかも　まだ寝ぼけてるんじゃない？": "I can't believe I'm taking a nap here. ...|And you're still sleepwalking, aren't you?"
+    },
+    "82": {
+        "「こんなとこで昼寝なんて　のんきだね。|　……しかも　まだ寝ぼけてるでしょ？": "I can't believe I'm taking a nap here. ...|And you're still awake, right?"
+    },
+    "83": {
+        "「じつの兄である　オレの|　名前や姿も　忘れちまってたりして。": "I forgot what my real brother looked like and|what his name was."
+    },
+    "84": {
+        "「じつの姉である　あたしの|　名前や姿も　忘れちゃってたり？": "Have you forgotten what my sister looks like|or what her name is?"
+    },
+    "85": {
+        "「じつの妹である　私の|　名前や姿も　忘れちゃってたりして。": "I've forgotten what my sister looks like and|what her name is."
+    },
+    "86": {
+        "「さあ　思いだしてみろよ……。": "Come on, try to remember..."
+    },
+    "87": {
+        "「ほら　思いだしてみてよ……。": "Here, think of something..."
+    },
+    "88": {
+        "「さあ　思いだしてみて……。": "Now, try to remember..."
+    },
+    "89": {
+        "「よかった　ちゃんと覚えててくれたんだ！": "Oh, good, you remembered me!"
+    },
+    "90": {
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　姉ちゃんは|　どんな時も　おいらの姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　兄ちゃんは|　どんな時も　おいらの兄ちゃんだね！<endif>": "<if_woman>I thought I'd be forgotten, but you're always|my sister!<else>I was afraid you'd forget about me, but|you're still my big brother, no matter what!<endif>"
+    },
+    "91": {
+        "<if_woman>「……この村で　姉ちゃんと過ごした時間は|　本当に　かけがえのないものだったな。<else>「……この村で　兄ちゃんと過ごした時間は|　本当に　かけがえのないものだったな。<endif>": "<if_woman>... The time I spent with my sister in this|village is truly irreplaceable...<else>... The time I spent with my brother in this|village is truly irreplaceable...<endif>"
+    },
+    "92": {
+        "<if_woman>「あの日　姉ちゃんと別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あったんだ。<else>「あの日　兄ちゃんと別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あったんだ。<endif>": "<if_woman>Since I left my sister that day and was|transported to a time long ago... Many things|have happened...<else>Since I left my brother that day and was|transported to a time long ago... So many|things have happened...<endif>"
+    },
+    "93": {
+        "「そう……いろんなことがね。 |　それから　おいら|　何度も何度も　考えちゃうんだよ。": "So... A lot of things... And then I think|about it over and over and over..."
+    },
+    "94": {
+        "<if_woman>「おいらが　あんなつらい思いをしたのは|　全部　姉ちゃんのせいなんじゃないか……って。<else>「おいらが　あんなつらい思いをしたのは|　全部　兄ちゃんのせいなんじゃないか……って。<endif>": "<if_woman>Isn't it all your sister's fault that I had|such a hard time? .....<else>Isn't it all your fault that I had such a|hard time? .....<endif>"
+    },
+    "95": {
+        "「よかった　ちゃんと覚えててくれたんだな！": "Oh, good, you remembered me!"
+    },
+    "96": {
+        "「よかった　ちゃんと覚えててくれたのね！": "Thank goodness you remembered me so well!"
+    },
+    "97": {
+        "「よかった　ちゃんと覚えててくれたんだね！": "Oh, good. You remembered me well!"
+    },
+    "98": {
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　オレの　かわいい妹だな！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　オレの　かわいい弟だな！<endif>": "<if_woman>I didn't know what I'd do if they forgot about me| also<pc>   You'll always be my little sister!<else>I didn't know what I'd do if they forgot about me| also<pc> You're always gonna be my little brother,|aren't you?<endif>"
+    },
+    "99": {
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　あたしの　かわいい妹ね！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　あたしの　かわいい弟ね！<endif>": "<if_woman>I didn't know what I'd do if they forgot about me| also<pc>   You'll always be my little sister!<else>I didn't know what I'd do if they forgot about me| also<pc> You'll always be my little brother!<endif>"
+    },
+    "100": {
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　お姉ちゃんは|　どんな時も　私のお姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　お兄ちゃんは|　どんな時も　私のお兄ちゃんだね！<endif>": "<if_woman>I thought what if you forgot about me, but|you're still my big sister no matter what!<else>I thought about what I'd do if you forgot|about me, but you're still my big brother no|matter what!<endif>"
+    },
+    "101": {
+        "「……この村で　お前と過ごした時間は|　本当に　かけがえのないもんだったな。": "... The time I've spent with you in this|village is truly irreplaceable..."
+    },
+    "102": {
+        "「……この村で　あんたと過ごした時間は|　本当に　かけがえのないものだったわ。": "... The time I've spent with you in this|village is truly irreplaceable..."
+    },
+    "103": {
+        "<if_woman>「……この村で　お姉ちゃんと過ごした時間は|　本当に　かけがえのないものだったね。<else>「……この村で　お兄ちゃんと過ごした時間は|　本当に　かけがえのないものだったね。<endif>": "<if_woman>... The time I spent with your sister in this|village was truly irreplaceable...<else>... The time I spent with my brother in this|village was truly irreplaceable...<endif>"
+    },
+    "104": {
+        "「あの日　<pc>と別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あってさ。": "that day<pc> I've been transported to a time long past...|So many things have happened..."
+    },
+    "105": {
+        "「あの日　<pc>と別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あったの。": "that day<pc> I've been transported to a time long past...|So many things have happened..."
+    },
+    "106": {
+        "<if_woman>「あの日　お姉ちゃんと別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あったよ。<else>「あの日　お兄ちゃんと別れて|　ずっと昔の時代に　飛ばされてから……|　いろんなことが　あったよ。<endif>": "<if_woman>Since I left my sister that day and was|transported to a time long ago... So many|things have happened...<else>Since I left my brother that day and was|transported to a time long ago... So many|things have happened...<endif>"
+    },
+    "107": {
+        "「そう……いろんなことがな。|　それから　オレ|　何度も何度も　考えちまうんだ。": "So... I've been... And I've been thinking|about it over and over..."
+    },
+    "108": {
+        "「そう……いろんなことがね。|　それから　あたし|　何度も何度も　考えちゃうわ。": "So... I've been... And I've been thinking|about it over and over..."
+    },
+    "109": {
+        "「そう……いろんなことが。|　それから　私|　何度も何度も　考えちゃうの。": "So... I've been... And I've been thinking|about it over and over and over..."
+    },
+    "110": {
+        "「オレが　あんなつらい思いをしたのは|　全部　お前のせいなんじゃないか……って。": "Isn't it all your fault that I'm having such|a hard time? ....."
+    },
+    "111": {
+        "「あたしが　あんなつらい思いをしたのは|　全部　あんたのせいなんじゃないか……って。": "It's all your fault that I had such a hard|time. ....."
+    },
+    "112": {
+        "<if_woman>「私が　あんなつらい思いをしたのは|　全部　お姉ちゃんのせいなんじゃ……って。<else>「私が　あんなつらい思いをしたのは|　全部　お兄ちゃんのせいなんじゃ……って。<endif>": "<if_woman>It's all your sister's fault that I had such|a hard time. .....<else>It's all your brother's fault that I had such|a hard time. .....<endif>"
+    },
+    "113": {
+        "「<pc>……。|　甲板の　船尾楼で待っています。": "<pc> ... I'll be waiting for you on deck in the|stern tower..."
+    },
+    "114": {
+        "「……<pc>。|　ふたたび　旅立ちの時が来ました。": "<pc> . The time has come for another journey..."
+    }
+}

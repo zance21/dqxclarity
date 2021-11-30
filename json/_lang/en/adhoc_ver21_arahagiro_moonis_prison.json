@@ -1,0 +1,221 @@
+{
+    "1": {
+        "「おおっ！|　そこにおるのは　<pc>じゃな！|　おぬしを　ずっと待っていたんじゃ。": "Oh! There you are.<pc> Goodbye! I've been waiting a long time for|you..."
+    },
+    "2": {
+        "「いつぞやは　乾いていたワシを　助けてくれて|　たいへん　感謝しておる。|　おかげで　こうして無事　国に帰れたぞよ。": "I'd like to thank you for saving my life when|I was so dry... Thanks to you, I am now|safely back in my country..."
+    },
+    "3": {
+        "「じゃが　残念なことに|　こんな有り様になってしもうた……。": "But unfortunately, it turned out like this..."
+    },
+    "4": {
+        "「ワシが　アラハギーロの王だと　主張しても|　誰も　信じてくれんのじゃよ。|　兵士や　大臣までも　バケモノ扱いじゃ……。": "I claim to be the king of Arrahaguillo, but|no one believes me. Even my soldiers and my|ministers, they think I'm a monster."
+    },
+    "5": {
+        "「こんな姿では　しょうがないことと|　わかってはおるんじゃが……|　ワシ　くやしくって　情けなくって！": "I know I'm not supposed to look like this,|but... I'm so sorry. I'm so ashamed!"
+    },
+    "6": {
+        "「そこでじゃ！　おぬしに頼みたいことがある。": "So here it is! I need you to do something for|me..."
+    },
+    "7": {
+        "「干からびかけて　砂漠の南部をさまよっていた時|　<%sEV_QUE_NAME0>という魔物に　うっかり|　大切な王しゃくを　盗られてしまっての。": "When I was wandering the southern desert,|nearly parched, a demon named|<%sEV_QUE_NAME0> accidentally stole my|<br>|precious royal scepter..."
+    },
+    "8": {
+        "「王家の紋章が　入っておって|　アラハギーロの王に　代々　受け継がれる|　黄金の王しゃくなんじゃ。": "It bears the royal crest, the golden king's|shakuhachi, passed down from generation to|generation to the kings of Araghaguilo."
+    },
+    "9": {
+        "「それを　<%sEV_QUE_NAME0>から|　取り戻してきてたもれ！|　どうじゃ？　やってくれるかのう？": "Go get it back from <%sEV_QUE_NAME0>! How's|that? Can you do it?"
+    },
+    "10": {
+        "「おおっ。ありがたや！|　さすがは　ワシの命の恩人じゃ。|　では　よろしく頼んだぞよ。": "... Oh, thank God! That's what I'm talking|about. Thank you."
+    },
+    "11": {
+        "「アラハギーロ王の証である　王しゃくさえあれば|　ワシが　この国の王であると　証明できて|　ここからも　出られるはずじゃ。": "If I had my royal scepter, the sign of the|king of Arrahaguilo, I could prove that I am|the king of this land and get out of here..."
+    },
+    "12": {
+        "「おお。ありがたや……と　言いたいところじゃが|　おぬし　他の者からの頼まれごとで|　手が　いっぱいのようじゃな。": "Oh. Thank you... but you seem to have your|hands full with requests from others..."
+    },
+    "13": {
+        "「それらを　速やかに片付けて|　急いで　戻ってまいるのじゃ。|　ワシ　ここで待っておるからの。": "I'll take care of them as quickly as I can|and hurry back... I'll be waiting here."
+    },
+    "14": {
+        "「そ…そんな！　おぬしなら　引き受けてくれると|　思っておったのに……。": "No... No! I was hoping you'd take me up on|that."
+    },
+    "15": {
+        "「気が変わったら　戻ってきてほしいのう。|　おぬししか　ワシの頼みを|　聞いてくれる者は　いないんじゃもの……。": "If you change your mind, come back to me.|You're the only one who can do what I'm|asking."
+    },
+    "16": {
+        "「そこにおるのは　<pc>じゃな！|　また　来てくれると　信じておったぞ。": "There you are<pc> Goodbye! I'm sure you'll come back..."
+    },
+    "17": {
+        "「改めて　おぬしに頼みたいんじゃ！": "I'm asking you again!"
+    },
+    "18": {
+        "「干からびかけて　砂漠の南部をさまよっていた時|　<%sEV_QUE_NAME0>という魔物に　うっかり|　大切な王しゃくを　盗られてしまっての。": "When I was wandering the southern desert,|nearly parched, a demon named|<%sEV_QUE_NAME0> accidentally stole my|<br>|precious royal scepter..."
+    },
+    "19": {
+        "「王家の紋章が　入っておってな……|　アラハギーロの王に　代々　受け継がれる|　黄金の王しゃくなんじゃ。": "It bears the royal crest... The golden king's|scepter, passed down from generation to|generation to the kings of Araghaguilo..."
+    },
+    "20": {
+        "「それを　<%sEV_QUE_NAME0>から|　取り戻してきてたもれ！|　どうじゃ？　やってくれるかのう？": "Go get it back from <%sEV_QUE_NAME0>! How's|that? Can you do it?"
+    },
+    "21": {
+        "「アラハギーロ王の証である　王しゃくさえあれば|　ワシが　この国の王であると　証明できて|　ここからも　出られるはずじゃ。": "If I had my royal scepter, the sign of the|king of Arrahaguilo, I could prove that I am|the king of this land and get out of here..."
+    },
+    "22": {
+        "「ワシから　王しゃくを盗んだ|　<%sEV_QUE_NAME0>は|　アラハギーロ地方の南部にいるにちがいない！": "The <%sEV_QUE_NAME0> who stole the king's|scepter from me must be in the southern part|of the Alajaghiro region!"
+    },
+    "23": {
+        "「その　<%sEV_QUE_NAME0>を倒して|　ワシの王しゃくを　取り戻してきてたもれ！": "Defeat that <%sEV_QUE_NAME0> and bring me|back my royal shaku!"
+    },
+    "24": {
+        "「ワシ　ここで待っておるからの。|　頼んだぞ　<pc>！": "I'll wait here... I'm waiting for you.<pc> ！"
+    },
+    "25": {
+        "「はわっ　<pc>！|　……その顔は　もしや　ワシの王しゃくを|　取り戻してきてくれたんじゃな。": "opening suddenly and widely (eg eyes)<pc> Oh, my God! I... Your face, it looks like|you've brought me back my royal scepter."
+    },
+    "26": {
+        "「では……　さっそく|　ワシの王しゃくを　渡してくれるかのう？<yesno><close>": "So... Will you hand me my scepter?<yesno><close>"
+    },
+    "27": {
+        "<pc>は　わかめ王子に|黄金の王しゃくを　渡した。": "<pc> ...to Prince Wakame with the golden|scepter..."
+    },
+    "28": {
+        "「おお！　これをふたたび|　手にすることができようとは……感無量じゃ。|　これさえあれば　ここを出られるぞー！！": "Oh! To be able to have this again... I'm|impressed... All we need is this and we're|out of here!"
+    },
+    "29": {
+        "「うるさいぞ！　おとなしくしていろ！": "Shut the fuck up! Stay down! Stay down!"
+    },
+    "30": {
+        "「おお！　ちょうどよい。|　見張りの兵士よ。カブースと　アブタルを|　急ぎ　ここへ　呼んでまいれ。": "Oh! Oh... The lookout... We need to get|Caboose and Abutal here as soon as possible."
+    },
+    "31": {
+        "「貴様！　魔物の分際で　何をエラそうに。|　大臣と兵士長を　呼びつけようとは！": "You! You're a demon! What do you think you're|doing? You dare to summon the minister and|the captain?"
+    },
+    "32": {
+        "「早く　呼んでまいれ！　急ぐのじゃ！|　さもないと　ヌルヌルした　ワシのわかめで|　クチをふさいでやるぞ！！": "Hurry up and call them! Hurry up! Hurry up|and get him, or I'll fill your mouth with my|slippery seaweed!"
+    },
+    "33": {
+        "「ぐっ……。|　し　しばらく　待っていろ！": "Gosh... Wait for a while!"
+    },
+    "34": {
+        "「いったい　なにごとだ！？": "What the hell is going on?"
+    },
+    "35": {
+        "「来たな　ふたりとも。|　これから　ワシこそ　アラハギーロの王じゃと|　証明してしんぜよう。": "There you are, boys. Now I'm going to prove|that I'm the king of Arrachigillo..."
+    },
+    "36": {
+        "「ジャジャーン！|　これが　目に入らんかー！": "Ta-da! Can't you see this!"
+    },
+    "37": {
+        "「我は　第７９代　国王ムーニス。|　千年の栄光に　彩られし|　アラハギーロ王国の国王であるぞ！": "I am Monsieur the 79th King... King of the|Kingdom of Araghaguilo, a land of a thousand|years of glory!"
+    },
+    "38": {
+        "「今までの非礼は　大目に見よう。|　さっ　早く　ここから　出すのじゃ。": "I'm sorry I've been so rude to you. Come on,|let's get you out of here..."
+    },
+    "39": {
+        "「貴様……　どこで|　その王しゃくを　手に入れた！？": "You... Where did you get that royal scepter?"
+    },
+    "40": {
+        "「おおかた　ムーニス王から盗み取ったのだろう。|　いやしい魔物め……。|　ふぬぅ。いよいよ　王の安否が　心配だ。": "I stole most of it from King Moonyth. You|wicked demon. ... The king's safety is at|stake."
+    },
+    "41": {
+        "「な　なんじゃと……。|　これでも　信じぬというのか。|　なんという　恩知らずどもじゃ。": "What the hell... You still don't believe|me... How ungrateful you are..."
+    },
+    "42": {
+        "「ええい　アブタル！　おぬしがちょくちょく|　調理室のチーズを　盗み食いしていること|　黙ってやっているというのに！": "Yes, Abutal! I didn't even tell you that|you've been stealing cheese from the kitchen!"
+    },
+    "43": {
+        "「な！　なぜ　そのことを知っている！": "Hey! How do you know about that!"
+    },
+    "44": {
+        "「カブース！　昔　ポエム入りの|　寒いラブレターを　侍女に　書いておったこと|　城の者に　バラしてもいいんじゃな！？": "Caboose! I hope you don't mind if I tell the|people in the castle that you used to write|cold love letters with poems in them to the|<br>|maids!"
+    },
+    "45": {
+        "「キャー！　やめてーっ。": "Aah! Don't..."
+    },
+    "46": {
+        "「いや　し…しかし　そのことは|　私と王だけしか　知らぬはず……。": "No, I... But only the king and I know that..."
+    },
+    "47": {
+        "「まさか　本当に　ムーニス王……なのですか？": "You don't really think that King Mooneith...|Is it?"
+    },
+    "48": {
+        "「本当じゃ！　まだ　信じられぬようなら|　おぬしの　こっぱずかしい過去を|　もっともっと　話してもいいんじゃぞ。": "It's true! If you still don't believe me, I|can tell you more and more about your|shameful past..."
+    },
+    "49": {
+        "「ひいーっ。それは……。": "It's... It's..."
+    },
+    "50": {
+        "「わかったなら　さっさと|　ワシを　ここから出すのじゃ！|　ただちに　じゃ！": "If you understand me, then you must get me|out of here. Now!"
+    },
+    "51": {
+        "「は…はひっ。ただいま！": "is ...... I'm home!"
+    },
+    "52": {
+        "「ふう。<pc>。|　おぬしのおかげで　ワシが　ムーニスじゃと|　ようやく　信じてもらえたようじゃ。": "Phew.<pc> You. Thanks to you, they finally believe I'm|Mooneith."
+    },
+    "53": {
+        "「おぬしには　礼をせねばな。|　この後　玉座の間まで|　足を運んでもらえるかのう。": "You need not thank me... After this, you'll|be escorted to the throne room..."
+    },
+    "54": {
+        "「では　待っておるぞ。": "Okay, I'll wait..."
+    },
+    "55": {
+        "「おお　<pc>。|　よくぞ　まいった。": "oh!<pc> . Well done..."
+    },
+    "56": {
+        "「命を助けられたばかりではなく|　ワシが　王だと認めさせる|　手助けまで　してもらうことになるとは……。": "Not only did he save my life, but he also|helped me to recognize that I am a king."
+    },
+    "57": {
+        "「おぬしには　本当に　世話になったのう。|　これは　約束した礼じゃ！　受け取ってたもれ！": "You've been a great help to me... This is for|what you promised! Please accept it!"
+    },
+    "58": {
+        "「ムーニス王　今こそ　お聞かせください。|　何が　どうなって　そのような　お姿に？": "King Moonsis, now is the time to tell me...|How did you come to look the way you do?"
+    },
+    "59": {
+        "「カブース……　これから話すことを|　心して　聞いてほしい。|　あの戦争で起こったことの　一部始終じゃ。": "Caboose... I want you to listen carefully to|what I'm about to tell you. I'm going to tell|you everything that happened in that war..."
+    },
+    "60": {
+        "「あの魔族との戦争に　ワシと|　ゴリウス兵士長率いる　アラハギーロ軍は|　必死の決意で挑み　はげしく戦った。": "In the war against the demons, I and the army|of Arachnidia, led by Captain Gorius,|desperately tried to..."
+    },
+    "61": {
+        "「しかし　奮戦むなしく　こてんぱんにされ|　魔族によって　捕らえられてしまったのじゃ。|　ワシらは　死を覚悟した。": "But despite our best efforts, we were crushed|and captured by the demon tribe. We will|die..."
+    },
+    "62": {
+        "「ところが　魔族の将は　ワシらを殺すことはせず|　皆を　それぞれ　魔物の姿に変えたんじゃ。": "But the demon lord didn't want to kill us, so|he turned us all into demons."
+    },
+    "63": {
+        "「そして　魔物に変えられた兵士たちは|　いずこかへ　連れ去られてしまった……。": "And the soldiers who were turned into demons|were taken somewhere else..."
+    },
+    "64": {
+        "「ただ　ワシはこの通り　わかめ王子の姿にされ|　砂漠の日差しにより　干からびていたため|　奴らの目につかず　助かったのじゃ。": "But as you can see, I was transformed into a|seaweed prince, and the desert sun dried me|out, so I was spared their attention."
+    },
+    "65": {
+        "「なんと　むごいことを……。": "What a horrible thing to do."
+    },
+    "66": {
+        "「そうじゃな。……しかし　どこへ|　なんの目的で　連れ去ったかは　わからんが|　きっと　皆　生きていることと思う。": "Yes. ...... But we don't know where he took|them or why, but we do know that they're|alive..."
+    },
+    "67": {
+        "「ワシはこれから　国を挙げて　情報を集め|　なんとか　行方不明の者たちを|　探しだすつもりじゃ。": "I'm going to go to the whole country, gather|information, and somehow find those who are|missing."
+    },
+    "68": {
+        "「<pc>。おぬしにも　また|　何か　協力を依頼することになるやもしれぬ。|　そのときは　どうか頼むぞよ。": "<pc> I'm sorry. I may have to ask you to help me|in some way... When that happens, please..."
+    },
+    "69": {
+        "「おお　<pc>。|　わざわざ　ワシのことを心配して|　会いに来てくれたのか？": "oh!<pc> I'm sorry. Did you come all this way to see|me because you're worried about me?"
+    },
+    "70": {
+        "「このような姿じゃから　この玉座の間に|　こもりっきりなんじゃが|　オリの中よりかは　ずいぶん　マシじゃわい。": "Because of my appearance, I've been holed up|in this throne room, but it's a lot better|than being in an ori..."
+    },
+    "71": {
+        "「じゃが　このままの姿だと　行方不明の者たちを|　探すにも　支障があるのう。|　一刻も早く　人間に　戻らなくてはな……。": "But if I stay like this, I'll never be able|to find the others who are missing. I need to|be human again as soon as possible."
+    },
+    "72": {
+        "「<pc>。近いうち|　ふたたび　協力を頼むことになるやもしれぬ。|　そのときは　よろしく頼むぞよ。": "<pc> I may be asking for your help again soon... I|may have to ask for your help again soon...|I'll be counting on you then..."
+    },
+    "73": {
+        "「ぬっ！？　何を申すか　おぬし。|　それは　正真正銘　ワシのものじゃ！|　この手に　さあ　渡すのじゃ！<yesno><close>": "What? What are you talking about? It's|rightfully mine! Give it to me. Give it to me|now!<yesno><close>"
+    }
+}

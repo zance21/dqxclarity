@@ -1,0 +1,272 @@
+{
+    "1": {
+        "「<pc>！　またまた　会ったのう。|　アストルティアに　知らぬことなし！|　ご存知　放浪の賢者　ホーローじゃ。": "<pc> Hello! We meet again... I know nothing of|Astrutia! You know the wandering sage,|Horro..."
+    },
+    "2": {
+        "「おぬしも　いろいろと　大変じゃったな。|　まさか　迷いの霧の向こうに　わしらの知らない|　レンダーシアが　広がっていたとは。": "You've been through so much... I don't|believe that beyond the mists of the lost|lies a Lendatia we know not of."
+    },
+    "3": {
+        "「わしが最初に作った　魔法の羅針盤には|　迷いの霧を抜ける能力しか　なかったからのう。|　知らんかったとはいえ　すまんことをした。": "The first magic compass I ever made had only|the ability to guide me through the mists of|my own imagination. I'm sorry if I didn't|<br>|know..."
+    },
+    "4": {
+        "「……じゃが！　グランゼドーラに行けぬと|　相談を受けた　わしは　すぐさま調査を進め|　魔法の羅針盤を　パワーアップさせた。": "... But... When I heard you were unable to|reach Granzedorra, I immediately set about|researching and upgrading my magic compass."
+    },
+    "5": {
+        "「今では　好きなように　グランゼドーラへも|　異世界のココラタの浜辺へも　行けるはずじゃ！|　ふぉっふぉっふぉ。我ながら　大活躍じゃのう。": "Now you can go to Granzedorra or the shores|of Kokorata, or any other world, as you|please! Whoa, whoa... I'm doing great..."
+    },
+    "6": {
+        "「むう。ノリが悪いのう　<pc>。|　……なに？　わしに　手紙をあずかってきたと？|　それならそうと　早く言わんかい！": "Mmm. I'm not in the mood.<pc> ... ... What? You've sent me a letter? Then|you'd better say so!"
+    },
+    "7": {
+        "<pc>は　賢者ホーローに|ルシェンダの手紙を　渡した！": "<pc> has given Lushenda's letter to the wise|Hollow!"
+    },
+    "8": {
+        "「こ　こ　これは……！|　ルシェンダさまからの手紙……！？": "This is... A letter from Lady Lucenda...?"
+    },
+    "9": {
+        "「お　おい！　おぬし！　<pc>！|　ルシェンダさまに　失礼を|　はたらいておらぬだろうな？": "Oh, hey! You!<pc> No! You're not disrespecting Lady Lucenda,|are you?"
+    },
+    "10": {
+        "「い　いや……。こうしている場合ではない。|　<pc>を　手ぶらで帰すわけにはいかん。|　あの研究を　なんとか仕上げねば……。": "No, no... This is not the time...<pc> I can't let you go home empty-handed. I have|to finish that research."
+    },
+    "11": {
+        "「すまんが　<pc>。手伝ってくれ！|　ルシェンダさまに　お渡しする　研究の仕上げに|　浄化のハーブが　<%nEV_QUE_T_NUM0>個　必要なんじゃ！": "excuse me<pc> . I need your help! I need <%nEV_QUE_T_NUM0>|herbs of purification to finish my research|for Lady Lushenda!"
+    },
+    "12": {
+        "「浄化のハーブは　オーグリード大陸の|　オルセコ高地などにいる　<%sEV_QUE_NAME0>が|　落とすと　言われておる！": "The Purifying Herb is said to be dropped by|<%sEV_QUE_NAME0> in the Orseco Highlands of|Aughrid!"
+    },
+    "13": {
+        "「次は～　アズラン～　アズラン～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next... Azran... Azran... When you get off|the plane, please make sure you have all your|personal belongings with you..."
+    },
+    "14": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next, we'll go to the royal city of|Kamihalmui. Please take care of your personal|belongings when you disembark..."
+    },
+    "15": {
+        "「次は～　岳都ガタラ～　ガタラ～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next~ Gakuto Gara~ Gara... Please take care|of your personal belongings when you get|off..."
+    },
+    "16": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop... the Kingdom of Dorworm. When you|get off the train, please make sure you have|all your personal belongings with you."
+    },
+    "17": {
+        "「次は～　オルフェア～　オルフェア～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, Orphea... If you're getting off|the train, please make sure you don't forget|any of your personal belongings..."
+    },
+    "18": {
+        "「次は～　メギストリスの都　メギストリスの都。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop... Megistri, the city of Megistris.|Please take care of your personal belongings|when you get off..."
+    },
+    "19": {
+        "「次は～　ジュレット～　ジュレット～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next... Juillet... Juillet... When you get|off the train, please make sure you have all|your personal belongings with you..."
+    },
+    "20": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, Verrinard Castle. Verrinard... If|you're getting off the train, please make|sure you have all your personal belongings|<br>|with you."
+    },
+    "21": {
+        "「次は～　グレン城～　グレン城～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, Castle Glen... If you're getting|off the train, please make sure you have all|your personal belongings with you."
+    },
+    "22": {
+        "「次は～　ガートラント城～　ガートラント城～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, Gartran Castle... When you get off|the train, please make sure you have all your|personal belongings with you."
+    },
+    "23": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, Lackalang Entertainment Island...|When you get off the plane, please make sure|you have all your personal belongings with|<br>|you..."
+    },
+    "24": {
+        "「次は～　港町レンドア～　レンドア～。|　お降りの際は　お忘れ物のないよう|　お手まわり品に　ご注意ください。": "Next stop, the port city of Lendoor. If|you're getting off the plane, please make|sure you have all your personal belongings|<br>|with you."
+    },
+    "25": {
+        "「頼んだぞ！　浄化のハーブを　<%nEV_QUE_T_NUM0>個じゃ。|　それが手に入った頃　また　大地の箱舟に乗れば|　わしに会えるじゃろう。": "I'm begging you! The herb of purification.|And when you have it, you will see me again|on the Ark of the Earth."
+    },
+    "26": {
+        "「うっうっ……。アズラン駅で|　名物　カムシカせんべえを買いたかったが|　そんな時間は　なさそうじゃ。": "Ugh... I wanted to buy the famous Kamshika-|sembe at Aztlan Station, but I don't think|I'll have time..."
+    },
+    "27": {
+        "「うっうっ……。王都カミハルムイ駅で|　名物　王都の桜もちを買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy the famous cherry-|blossom rice cake at Kamikarumui Station, but|I don't think I have time..."
+    },
+    "28": {
+        "「うっうっ……。岳都ガタラ駅で|　名物　ガタラのブタまんを買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy the famous Gatara's|pig buns at Gakuto Gatara Station, but I|don't think I'll have time..."
+    },
+    "29": {
+        "「うっうっ……。ドルワーム王国駅で|　名物　銘菓　砂漠の月を買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy the famous desert|moon at Dorworm Kingdom Station, but I don't|think I have time..."
+    },
+    "30": {
+        "「うっうっ……。オルフェア駅で|　名物　アクロバットケーキを買いたかったが|　そんな時間は　なさそうじゃ。": "Ugh... I wanted to buy the famous acrobatic|cake at the Orpheus station, but I don't|think I'll have time..."
+    },
+    "31": {
+        "「うっうっ……。メギストリスの都駅で|　名物　メギス鶏のからあげを買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy the famous Megis|chicken fried chicken at Megistris' capital|station, but I don't think I'll have time for|<br>|that..."
+    },
+    "32": {
+        "「うっうっ……。ジュレット駅で|　名物　とこなつココナッツを買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy the famous Tokonatsu|coconuts at Jourette station, but I don't|think I have time..."
+    },
+    "33": {
+        "「うっうっ……。ヴェリナード城駅で|　名物　女王様サブレを買いたかったが|　そんな時間は　なさそうじゃ。": "Ugh... I wanted to buy the famous Queen's|Sable at the Vellinade Castle station, but I|don't think I'll have time..."
+    },
+    "34": {
+        "「うっうっ……。グレン城下町駅で|　名物　げんこつアメを買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy some of the famous|\"Genkotsu Candy\" at Glen Castle Town Station,|but I don't think I'll have time..."
+    },
+    "35": {
+        "「うっうっ……。ガートラント城駅で|　名物　オーガニックサラダを買いたかったが|　そんな時間は　なさそうじゃ。": "Ugh... I'd hoped to buy one of their famous|organic salads at Gartland Castle Station,|but I don't think I'll have time..."
+    },
+    "36": {
+        "「うっうっ……。娯楽島ラッカラン駅で|　名物　コロシアムバーガーを買いたかったが|　そんな時間は　なさそうじゃ。": "Ugh... I was hoping to pick up one of those|famous Coliseum burgers at Lackland Station,|but I don't think I'll have time..."
+    },
+    "37": {
+        "「うっうっ……。港町レンドア駅で|　名物　グランドタイタス丼を買いたかったが|　そんな時間は　なさそうじゃ。": "Ughhh... I wanted to buy a bowl of the famous|Grand Titus at the port town of Lendoor|Station, but I don't think I'll have time..."
+    },
+    "38": {
+        "「そ…そうじゃ！　ルシェンダさまには　まだ|　わしと会えていないことに　しておくのじゃぞ！|　くうっ……！　急がねば！": "It's... Yes! Let's just pretend that Lady|Luckenda hasn't met me yet! Oh, no! We must|hurry!"
+    },
+    "39": {
+        "「おおっ　<pc>ではないか！|　頼んでおいた　浄化のハーブを|　持ってきてくれたんじゃな！？": "oh!<pc> Isn't it! You've brought me the cleansing|herbs I asked for!"
+    },
+    "40": {
+        "賢者ホーローに|浄化のハーブを　渡しますか？<yesno><close>": "Shall I give the cleansing herbs to Hollow|the Wise?<yesno><close>"
+    },
+    "41": {
+        "「ぐぬぬ！　なぜ　そんな意地悪を言う？|　わしの賢者生命の　ピンチじゃ！|　頼む！　今すぐ　渡してくれい！！": "Oh, no! Why are you being so mean to me? My|wise life is at stake! Please! Give it to me|now!"
+    },
+    "42": {
+        "<pc>は　賢者ホーローに|浄化のハーブを　渡した！": "<pc> gave the Wise Hollow the herb of|purification!"
+    },
+    "43": {
+        "「た…助かった！　感謝するぞ　<pc>。|　さっそく　この浄化のハーブを使って|　新しい秘薬を　仕上げねば……！": ""
+    },
+    "44": {
+        "「……わしの研究では　調合を重ねた　この薬に|　浄化のハーブを　ワイルドかつ|　センシティブに加えれば　完成するはず！": "... My research has led me to the conclusion|that this potion could be perfected with the|addition of some wild and sensitive cleansing|<br>|herbs!"
+    },
+    "45": {
+        "「……おおおっ！？　いい仕上がりじゃぞ！|　あとは　今　仕上がった新しい秘薬を|　これらに　ふりかければ　終わりじゃ！": "... Whoa! You've done well! Now all we have|to do is sprinkle the new potion we've just|created on these and we're done!"
+    },
+    "46": {
+        "「で……できたぞ！　<pc>。|　この　ホーローの研究成果を|　ルシェンダさまに　お届けしてくれい！": "And... It's done!<pc> (speaking spanish) Bring the results of this|hollow research to Miss Luschenda!"
+    },
+    "47": {
+        "<pc>は|ホーローの研究成果（だいじなもの）を|受け取った！<me 60>": "<pc> has received the results of Hollow's|research!<me 60>"
+    },
+    "48": {
+        "「ふうっ。研究が完成して　ひと安心じゃわい。|　……それはそうと　ルシェンダさまからの手紙|　しかと　読ませてもらったぞ。": "... It's a relief to have completed my|research... ... Now, if you'll excuse me, I|have a letter from Lady Lushonda to read..."
+    },
+    "49": {
+        "「偽りの世界に落ちた　アンルシア姫を|　この世界へ　救いだしたとは……|　さすがの　はたらきじゃ　<pc>！": "Princess Anne Lucia fell into a false world| I didn't know you rescued him from this world| That's how it works<pc> ！"
+    },
+    "50": {
+        "「グランゼドーラ王国の現状も　把握した。|　他の賢者たちには　わしから伝えておこう。": "And the current situation in the kingdom of|Granzedorra... I'll tell the other wise|men..."
+    },
+    "51": {
+        "「次は～　アズラン～　アズラン～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next~ Azran~ Azran... The space between the|train car and the platform has been|widened... Please, watch your step."
+    },
+    "52": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next, we'll go to the capital of Kamykhalmyk,|Kamykhal... The space between the train car|and the platform has been widened... Please|<br>|watch your step..."
+    },
+    "53": {
+        "「次は～　岳都ガタラ～　ガタラ～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next~ Gakuto Gara~ Gara... The space between|the train car and the platform has been|widened... Please watch your step..."
+    },
+    "54": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next, the Kingdom of Dorworm... The space|between the train car and the platform has|been widened... Please watch your step."
+    },
+    "55": {
+        "「次は～　オルフェア～　オルフェア～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next stop: Orphea... Orff... The space|between the train car and the platform has|been widened... Watch your step..."
+    },
+    "56": {
+        "「次は～　メギストリスの都　メギストリスの都。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next... Megistri, the city of Megistris...|The space between the train car and the|platform has been widened... Please watch|<br>|your step."
+    },
+    "57": {
+        "「次は～　ジュレット～　ジュレット～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next~ Juillet~ Juillet... The space between|the train car and the platform has been|widened... Watch your step..."
+    },
+    "58": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next stop, Verrinard Castle. Verrinard... The|space between the train car and the platform|has been widened... Please, watch your step."
+    },
+    "59": {
+        "「次は～　グレン城～　グレン城～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next, Glen Castle... The space between the|carriage and the platform has been widened...|Please, watch your step."
+    },
+    "60": {
+        "「次は～　ガートラント城～　ガートラント城～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next, Gartland Castle. The space between the|train car and the platform has been|widened... Watch your step..."
+    },
+    "61": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next stop... Entertainment Island Raqqaran.|Raqqaran... The space between the train car|and the platform has been widened... Please|<br>|watch your step..."
+    },
+    "62": {
+        "「次は～　港町レンドア～　レンドア～。|　車両と　ホームの間が　広くなっております。|　足もとに気をつけて　お降りください。": "Next stop, the port city of Rendeau. The|space between the train car and the platform|has been widened... Please, watch your step."
+    },
+    "63": {
+        "「おお。もう着いたか……。|　くれぐれも　賢者ルシェンダさまには|　失礼のないよう　礼節を持って接するのだぞ。": "Oh. You're already here... Please do not be|rude to the Wise Lord Rhesenda, and treat her|with decency..."
+    },
+    "64": {
+        "「いかん！　今日こそは　アズラン駅で|　名物　カムシカせんべえを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'm going to Azlan|Station to buy the famous Kamshika Senbei...|We have to hurry!"
+    },
+    "65": {
+        "「いかん！　今日こそは　王都カミハルムイ駅で|　名物　王都の桜もちを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'll go to the capital's|Kamikarumui Station and buy the city's famous|sakura mochi... I've got to hurry!"
+    },
+    "66": {
+        "「いかん！　今日こそは　岳都ガタラ駅で|　名物　ガタラのブタまんを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day we go to Gakuto Gatara|Station and buy those famous Gatara pig|buns... We have to hurry!"
+    },
+    "67": {
+        "「いかん！　今日こそは　ドルワーム王国駅で|　名物　銘菓　砂漠の月を買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day we go to Dorworm Kingdom|Station and buy that famous confection, the|Desert Moon... We must hurry!"
+    },
+    "68": {
+        "「いかん！　今日こそは　オルフェア駅で|　名物　アクロバットケーキを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'm going to buy that|famous acrobatic cake at the Orpheus|station... We've got to hurry!"
+    },
+    "69": {
+        "「いかん！　今日こそは　メギストリスの都駅で|　名物　メギス鶏のからあげを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'm going to the capital|station of Megistris to buy their famous|fried Meggis chicken... We must hurry!"
+    },
+    "70": {
+        "「いかん！　今日こそは　ジュレット駅で|　名物　とこなつココナッツを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'm going to buy the|famous Tokonatsu coconuts at the Juletto|station... We must hurry!"
+    },
+    "71": {
+        "「いかん！　今日こそは　ヴェリナード城駅で|　名物　女王様サブレを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I go to Vérinard Castle|Station and buy the famous Queen's Sable...|We must hurry!"
+    },
+    "72": {
+        "「いかん！　今日こそは　グレン城下町駅で|　名物　げんこつアメを買うんじゃった。|　こりゃ　急がねば！": "No! Today's the day I'm going to stop at Glen|Castle Station and buy some of that famous|candy cane... We have to hurry!"
+    },
+    "73": {
+        "「いかん！　今日こそは　ガートラント城駅で|　名物　オーガニックサラダを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I'm going to stop at|Gartland Castle Station and buy that famous|organic salad... We must hurry!"
+    },
+    "74": {
+        "「いかん！　今日こそは　娯楽島ラッカラン駅で|　名物　コロシアムバーガーを買うんじゃった。|　こりゃ　急がねば！": "No! Today is the day I go to Lackalang|Station on Recreation Island and buy that|famous Coliseum burger... We have to hurry!"
+    },
+    "75": {
+        "「いかん！　今日こそは　港町レンドア駅で|　名物　グランドタイタス丼を買うんじゃった。|　こりゃ　急がねば！": "No! No! Today is the day I go to the port|town of Lenoir Station and buy one of those|famous Grand Titus bowls... We have to hurry!"
+    },
+    "76": {
+        "「では　今日のところは　お別れじゃ。|　運命の線路が交差するとき　また会おう！": "So, for today, I'll leave you... I'll see you|when the tracks of fate cross!"
+    },
+    "77": {
+        "「ほう……　これは！": "Ho... This is it!"
+    },
+    "78": {
+        "「うん。うまい！|　作りたての味が　しっかり保持されておる！": "Yeah. It's good! The freshly made flavor has|been preserved!"
+    },
+    "79": {
+        "「これなら　たとえ　数年経った料理でも|　できたてと変わらぬ味で|　おいしく　食べられるだろうな。": "This way, even if a dish is years old, it'll|still taste as good as it did when it was|first prepared."
+    },
+    "80": {
+        "「……まったく　ホーローのヤツめ。|　これほどの技を　持っているのに|　追いつめられないと　できないとは　情けない。": "... I mean, the enamel... You've got all this|skill, and you can't do it unless you're|cornered..."
+    },
+    "81": {
+        "「きっと　今回も　あわてて|　<pc>に手伝ってくれるよう|　泣きついたことだろうて……。": "I'm sure he's in a hurry this time, too|<pc> I'm sure you've been crying out for help..."
+    },
+    "82": {
+        "「だが　これだけの成果を上げれば　上出来だ。|　この料理に使われている秘薬を　広めてやれば|　世界中の料理人が　よろこぶだろうな。": "But after all this time... If you spread the|word about the secret potion used in this|dish, chefs all over the world will be|<br>|delighted"
+    },
+    "83": {
+        "「うん？　ホーローの使命に関わるという研究が|　こんなに　地味なものだったとは|　……とでも言いたげな　顔だな。": "Hmm? I didn't realize that research into|Hollow's mission was so unsubtle... It's|like..."
+    },
+    "84": {
+        "「人々の生活のために|　その叡智を役立てるのも　賢者の務めなのだぞ。": "It is the duty of the wise to use their|wisdom to benefit the lives of others..."
+    },
+    "85": {
+        "「……とはいえ　これから　しばらくは|　その叡智を　大魔王マデサゴーラとの|　戦いのために　結集させることになるだろう。": "... But for the time being, we'll be|gathering our wisdom to fight the Great Demon|Lord Madhesagora..."
+    },
+    "86": {
+        "「我らは　そうして歴史の陰から|　世界を支えてきた　善なる知識の守護者……": "And so we do, from the shadows of history| The guardians of good knowledge who have sustained the world"
+    },
+    "87": {
+        "「叡智の冠なのだから。": "It's a crown of wisdom..."
+    },
+    "88": {
+        "「……今回のはたらき　ご苦労であったな。|　私の見込んだ通り　やはり　そなたは|　信頼に値する人物であると確信した。": "... Thank you for your service... I knew that|you were worthy of my trust."
+    },
+    "89": {
+        "「これからも　協力を頼むぞ。<pc>。|　これは　ホーローに手紙を届け　研究成果を|　持ちかえってくれた礼だ。受け取ってくれ。": "I need your help...<pc> (speaking spanish) This is a letter to|Hollow, to bring back the results of my|research... I got it..."
+    },
+    "90": {
+        "「引き続き　レンダーシアの調査を進めてくれ！|　旅をして出会った人々に　チカラを貸してゆけば|　やがて　世界の謎の全容が　見えてくるだろう。": "Continue your investigation of Rendershere!|As you travel and lend your aid to the people|you meet, you will soon discover the full|<br>|extent of the world's mysteries..."
+    }
+}

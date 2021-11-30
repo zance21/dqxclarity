@@ -1,0 +1,293 @@
+{
+    "1": {
+        "<pc>は　クロウズから|竜笛を受け取った　いきさつを話した。": "<pc> \"How did you get the dragon whistle from|Clowes?"
+    },
+    "2": {
+        "<pc>は　オルゲンに|この里を訪れた目的を　話した。": "<pc> What was the purpose of your visit to this|village?"
+    },
+    "3": {
+        "「……クロウズは　子供の頃からヤンチャでのう。|　あやつが遊びざかりの時に　よく　こうして|　わしが　オモチャを作ってやったものじゃ。": "... Clowes was always naughty as a child. I|used to make him toys like this when he was|just starting to play..."
+    },
+    "4": {
+        "「不幸にも　あの子は　幼くして|　両親を　はやり病で亡くしてな。|　それからは　わしが　ひとりで育てたのじゃよ。": "Unfortunately, he lost both his parents at an|early age to a vanishing disease. So I raised|him on my own."
+    },
+    "5": {
+        "「……そのクロウズが　ある日|　意を決したように　旅に出ると言いだしおった。|『俺は　奈落の門の向こうへ行く』……とな。": "... One day, the Crows decided to go on a|journey of their own. \"I'm going beyond the|gates of the abyss.\" ....."
+    },
+    "6": {
+        "「そこで　我らの同胞を見つけて　連れかえり|　この　さびれゆく里を　盛り立ててみせると|　わしに　約束したのじゃ。": "He promised me that he would find my people,|bring them back to me, and make this dying|village a better place."
+    },
+    "7": {
+        "「……のう　<pc>よ。|　クロウズは　今　どこにいるんじゃろうか？": " Noh<pc> Hey. Where do you think Clowes is now?"
+    },
+    "8": {
+        "<pc>は　クロウズと|最後に別れた時のことを　語った。": "<pc> The last time I left Clowes..."
+    },
+    "9": {
+        "「おぉ……そうか。 |　では　あの子は　見事　奈落の門の向こうへ|　行くことが　できたのだな……。": "Oh, ...... So she was able to successfully go|beyond the Abyssal Gate..."
+    },
+    "10": {
+        "「なにしろ　生まれつき　向こう見ずで|　無鉄砲なヤツだったからのう。|　どうにも　心配だったんじゃよ。": "After all, he was born reckless and|reckless... I was worried about him..."
+    },
+    "11": {
+        "「だが　いらぬ気苦労だったな。|　竜化の術を身につけた　今のクロウズなら|　向こうの世界でも　うまくやっているじゃろう。": "But that's not why I'm here... Now that|Crowes has mastered the art of dragon, he'll|do just fine on the other side..."
+    },
+    "12": {
+        "「そなた　クロウズの変身を　見たことはあるか？|　竜化の術……竜の姿への変化は　竜族ならば|　誰にでも　できるというものではない。": "Have you ever seen the Crowes transform? The|art of dragonification... The art of|dragonification... is something that any|<br>|member of the dragon tribe..."
+    },
+    "13": {
+        "「あれを　成しとげるには　選ばれた才能と|　その上での厳しい修練が　必要となる。|　クロウズも　大変な努力をしておったのじゃ。": "It takes a select number of talents and a|great deal of discipline to pull it off. And|Clowes worked very hard..."
+    },
+    "14": {
+        "「……さて。待たせたのう　<pc>。 |　さあ　これが　竜の香炉じゃ。|　受け取るがよい。": "..... Sorry I kept you waiting.<pc> I'm sorry. Now, this is the Dragon's Scent...|Receive..."
+    },
+    "15": {
+        "<pc>は|竜の香炉（だいじなもの）を　受け取った！<me 60>": "<pc> has received the Dragon's Censer!<me 60>"
+    },
+    "16": {
+        "「奈落の門は　レンダーシアの中心……|　エテーネの島の上空に　隠されているはずじゃ。|　そこで　竜の香炉を使ってみるがよい。": "The gates of the abyss lie at the heart of|Lendasia... Hidden in the skies above the|island of Etaine... So I'm going to use the|<br>|Dragon Censer..."
+    },
+    "17": {
+        "「もし　クロウズと再会することがあったなら|　どうか　あやつの助けになってくれ。": "If you're ever reunited with Clowes, please|help him..."
+    },
+    "18": {
+        "竜の香炉のチカラで　奈落の門が　姿を現した！<me 60>": ""
+    },
+    "19": {
+        "「おお　アンテロ様……！？": "Oh, Mr. Antero..."
+    },
+    "20": {
+        "「アンテロ様……よくぞ　ご無事で！": "Mr. Antero... You're safe!"
+    },
+    "21": {
+        "「やれやれ……ひどい音色じゃ……。|　こんな　竜笛が下手クソなヤツ|　この里に　いたかのう……？": "Oh, my God. What a terrible sound... Is there|anyone in this village who can play the|dragon flute so badly?"
+    },
+    "22": {
+        "「な…なんとっ！！": "What the... Oh, my God!"
+    },
+    "23": {
+        "「よもや　竜族以外の者が|　この里に　入ってこようとは……。": "I never thought anyone but dragons would|enter this village..."
+    },
+    "24": {
+        "「先ほど聞こえた　竜笛の音色は|　そなたのものだったようじゃが……": "The sound of the dragon whistle I heard earlier| I'm afraid it was yours"
+    },
+    "25": {
+        "「竜笛の技術は　竜族だけに伝わるもの。|　……そなた　いったいどこで|　それを　手に入れた？": "The art of the dragon flute has been passed|down only to the dragon people... ... Where|the hell did you get that?"
+    },
+    "26": {
+        "「……なるほど。そなたは　クロウズの……|　わしの孫の　友人じゃったのか。|　いや　警戒して　すまなかったな。": "... You... You are Crowe's... You are a|friend of my grandson... No, I'm sorry. I'm|afraid..."
+    },
+    "27": {
+        "「名前は……ふむ　<pc>というのか。 |　わしは　オルゲン。|　この隠れ里に住む　竜族たちの族長じゃ。": "My name is Hmm<pc> I thought... I am O... A tribe of dragons who|live in this hidden village..."
+    },
+    "28": {
+        "「うむ　そうじゃのう……。|　まずは　なにゆえ　この里を訪れたのか|　わしの家で　くわしい話を聞かせてもらえるか？": "Well, well... First of all, can you tell me|why you came to this village? Can you tell me|more about it in my home?"
+    },
+    "29": {
+        "「わしの家は　里でいちばん　高い場所にある。|　それでは　先に行って　待っているぞ。": "My house is the highest point in the|village... Then I'll go ahead and wait..."
+    },
+    "30": {
+        "「おうおう　よう来なすった。|　今　お茶を出すから|　遠慮なく　かけてくれ。": "Hello, hello, hello... I'll get you some tea.|Sit down..."
+    },
+    "31": {
+        "「こうして　ずっと隠れて暮らしていると|　毎日　生活に　張り合いがなくてのう。|　外からの客人など　数十年ぶりじゃよ。": "Living like this, hiding in plain sight,|every day is a challenge. I haven't had a|guest from outside in decades."
+    },
+    "32": {
+        "「……しかし　わざわざ　こんな|　年寄りばかりの　へんぴな村まで|　そなた　いったい　何をしに来たのじゃ？": "But... But what brings you all the way to|this strange village full of old people?"
+    },
+    "33": {
+        "「な　なんと……。 |　竜族の男が　あちこちで人を襲い|　誘拐しているじゃと……！？": "Oh no... Dragon men are attacking and|kidnapping people all over the place..."
+    },
+    "34": {
+        "「バカな……クロウズを除けば|　竜族は　今　この里にいる者だけじゃ。|　にわかには　信じがたい話だが……。": "Nonsense... Except for the Crows, the only|other dragons in this village right now... I|know it's hard to believe, but..."
+    },
+    "35": {
+        "「……しかし　そのようなウソをついたところで|　そなたに　得があるとも思えんな。|　となると　ひょっとして　そやつは……": "... But I don't think you'd benefit from such|a lie. Then, perhaps, you are..."
+    },
+    "36": {
+        "「……奈落の門の向こうから　やってきた|　竜族なのかも知れん。": "... They came from beyond the gate of the|abyss. Maybe they're dragons."
+    },
+    "37": {
+        "「奈落の門……その向こうは　神代の昔に|　アストルティアから　切りはなされた世界でな。|　なんでも　竜族の故郷が　あるとのことじゃ。": "The Gate of Abyss... Beyond that is a world|cut off from Astridia long ago... It is said|to be the home of the Dragon People..."
+    },
+    "38": {
+        "「……わしらは　その門が閉ざされたときに|　こちらの世界に　取り残されてしまった|　竜族たちの　子孫なのじゃよ。": "... We are the descendants of the dragon|people who were left behind when the gates|were closed..."
+    },
+    "39": {
+        "「そういえば　先日　里の外に出ていた者が|　エテーネの島の上空に　巨大な門が浮上して|　その後すぐに　消えたと言っておったな。": "Oh, by the way, someone who was out of the|village the other day said that a giant gate|surfaced over the island of Etaine and|<br>|disappeared shortly after..."
+    },
+    "40": {
+        "「それが　奈落の門だとするならば|　門は消えたのではなく　その場に存在したまま|　見えなくなっておるのじゃろう。": "If it is the gate to the abyss, then it has|not disappeared, but remains there,|invisible..."
+    },
+    "41": {
+        "「……そう。この隠れ里に施されたものと同様の|　竜族に伝わる幻術で　隠されておるのじゃ。": "..... Hidden with the same dragon clan magic|that has been applied to this hidden|village..."
+    },
+    "42": {
+        "「その幻を生み出し　制御しているのが|　この里の中央にもある　竜の香炉という|　特殊なカラクリなのじゃ。": "The thing that creates and controls this|illusion is a special device called the|Dragon Censer, which can be found in the|<br>|center of this village..."
+    },
+    "43": {
+        "「そなたが　その竜族の男を追うため|　消えた奈落の門を　見つけだすつもりなら|　竜の香炉が　必要となるじゃろう。": "If you're going to find the missing Gate of|the Abyss to track down this dragonborn man,|you're going to need a dragon incense|<br>|burner..."
+    },
+    "44": {
+        "「この里のものを　貸すわけにはいかんが……|　１回きりのものでよければ　孫の友人のため|　竜の香炉をひとつ　作ってやらんでもない。": "I can't lend you something from this|village... If it's a one-time thing, I'll|make one of those dragon incense burners for|<br>|my grandson's friend..."
+    },
+    "45": {
+        "「そうじゃな……材料として　幻竜草と|　竜の芯骨さえ　調達できれば|　あとは　なんとか　なるじゃろう。": "That's right... As long as we can procure the|phantom dragon grass and the dragon's core|bone... we should be able to make it."
+    },
+    "46": {
+        "「竜の芯骨は　ドラクロン山地へ行き|　第１層の　中央の洞くつ内にいる|　スカルゴンを倒せば　手に入るじゃろう。": "The Dragon Core Bone can be obtained by going|to the Draklon Mountains and defeating the|Skulgon in the central cave of the first|<br>|level."
+    },
+    "47": {
+        "「ふたつとも集まったら　わしの所まで来なされ。|　竜の香炉を作り　奈落の門にかけられた幻術を|　解けるようにしてしんぜよう。": "When you have gathered them both, come to|me... I will make a dragon incense burner to|break the spell at the gates of the abyss..."
+    },
+    "48": {
+        "「……どうやら　見事　例の男に|　打ち勝ったようじゃな。": "... It seems we've beaten the man..."
+    },
+    "49": {
+        "「なにやら　イヤな予感がしてのう。|　そなたを心配して　来てみたが……。|　浮かぬ顔じゃな。一体　何があったのじゃ？": "I have a bad feeling about this. I came here|because I was worried about you, but... But|you don't look well. What is the matter with|<br>|you?"
+    },
+    "50": {
+        "「ん……それは……？": "Hmm... Is that...?"
+    },
+    "51": {
+        "「……ふむ　なるほどな。|　これは　奈落の門を開けるための|　カギの役割を果たす　印章のようじゃな。": "... I see... This is like a seal that acts as|a key to open the gate to the abyss..."
+    },
+    "52": {
+        "「むぅぅ……これはまた　難解な仕組みで|　できているのう……。|　この印は神代の……いや……ブツブツ……。": "Hmm... This is also made of a very|complicated system... This mark is from the|time of the gods... No... Mutsubu..."
+    },
+    "53": {
+        "「のう　<cs_pchero>。|　そなた　仲間を助けるために|　奈落の門の向こうへ　行くつもりじゃろう？<yesno><close>": "brain<cs_pchero>(speaking spanish) You're going beyond the|gates of the abyss to save your people,|aren't you?<yesno><close>"
+    },
+    "54": {
+        "「いいや。隠す必要はないぞ。|　そなたの本音を　聞かせてくれればよい。": "... You don't have to hide... Just tell me|what you're really thinking..."
+    },
+    "55": {
+        "「うむ　やはり　そうであったか。|　ならば　そなたに　語っておかねばなるまい。|　奈落の門の向こうに広がる　竜族の世界……": "Yes, I see... Then I must tell you... Beyond|the gates of the Abyss, the world of the|Dragon People..."
+    },
+    "56": {
+        "「これは　古き竜族の技によって　作られた物。|　他の種族の者には　あつかえぬが|　わしならば　修理することもできるじゃろう。": "This is the work of the old dragon people. No|one of another race can master it, but I can|repair it."
+    },
+    "57": {
+        "「気が急くじゃろうが　しばしの辛抱じゃ。|　かならず　直してみせるから　待っていてくれ。|　では　先に失礼するぞ　<cs_pchero>！": "I know you're in a hurry, but it's just a|matter of time. I'll fix it, I promise. Just|wait. I'll leave you to it.<cs_pchero>！"
+    },
+    "58": {
+        "「待たせたな……私だ。": "Sorry to keep you waiting: ....."
+    },
+    "59": {
+        "「……予想外の妨害にあってな。|　完全には　使命を果たせなかった。": "... Unexpected interference... I'm not sure|I'm fully up to the task..."
+    },
+    "60": {
+        "「あの方には　合わせる顔もないが……|　まだ　あきらめたわけではない。|　引き続き　残る　神の器を狙うつもりだ。": "I don't know what to say to him, but... I|haven't given up yet... We'll continue to|target the remaining vessels of the gods..."
+    },
+    "61": {
+        "「せめて　今は　このふたりだけでも|　あちらに　連れていってくれ。": "At least for now, let's take these two over|there."
+    },
+    "62": {
+        "「ぬっ……？　誰だッ！": "What the...? Who is it?"
+    },
+    "63": {
+        "「……ほう。貴様か　<cs_pchero>。": "..... You.<cs_pchero>。"
+    },
+    "64": {
+        "「どうやって　この門の幻術を|　解いたかは知らぬが……": "How do you know how to conjure this gate?| I don't know if you solved it, but"
+    },
+    "65": {
+        "「よかろう。これまでの失態を清算するためにも|　ここで　決着をつけてくれるわ。": "Well... I'd like to settle this matter here,|to clear up the mess we've made..."
+    },
+    "66": {
+        "「あの方の加護を受けられる|　この場所でならば　存分に戦える……。|　今こそ　我が真の実力を　見せてやろう！": "I can fight to my heart's content in this|place, where I can receive his blessing. Now|is the time to show you what I'm truly|<br>|capable of!"
+    },
+    "67": {
+        "「なんという……強さ……。|　貴様……ただの<cs_pchero_race>ではなかったか。|　だが……！": "What a... Strong... You... Just...<cs_pchero_race>No. But..."
+    },
+    "68": {
+        "「門の向こうは　我ら　竜族の領域……|　貴様に　行かせはせぬっ！！": "Beyond the gate is the domain of the Dragon|People... I will not let you go!"
+    },
+    "69": {
+        "「ク……クククッ……。": "Kuh... Kkkkk..."
+    },
+    "70": {
+        "「たゆたう炎よ……　この世界の行く末を|　我らの待望する　かの者の到来せし未来を|　今ここに　示しておくれ。": "O flickering flame... The future of this|world, the future that we long for, the|future that he has come to show us here and|<br>|now..."
+    },
+    "71": {
+        "「……間もなくじゃ。|　もう間もなく　約束されし解放者が|　このナドラガンドの地に　現れようぞ。": "... Soon... Soon the promised liberator will|appear here in Nadragand."
+    },
+    "72": {
+        "「……失礼します　総主教さま。|　間もなく　礼拝が始まる時間ですが……。": "... Excuse me, Patriarch... It's almost time|for the service to begin..."
+    },
+    "73": {
+        "「我らが神よ。その日まで……|　どうか　竜族の民を　お守りくだされ。": "We are... Until that day... Please protect|the people of the Dragon People..."
+    },
+    "74": {
+        "「幻竜草は　この隠れ里の中心にある|　竜の香炉の辺りに　生えておるはずじゃ。|　すみずみまで　よく探してみてくれ。": "The dragon grass grows in the center of this|hidden village... near the dragon censer.|I'll look everywhere..."
+    },
+    "75": {
+        "「クロウズが竜笛を　託したのなら|　そなたは　信頼に足る人物なのじゃろう。|　この里の客人として　喜んで迎えよう。": "If Clowes has entrusted you with the dragon|flute, then you are a man to be trusted... I|would be honored to have you as a guest in my|<br>|home..."
+    },
+    "76": {
+        "「それが　クロウズの友人で|　しかも　竜族以外の種族とはな……|　長生きはしてみるものじゃ。": "That's a friend of Clowes'... and a non-|dragon... I'll live long enough..."
+    },
+    "77": {
+        "「クロウズが　里を出て行ってからというもの|　となりにある　あやつの部屋も　がらんとして|　少しばかり　さびしかったのじゃよ。": "Ever since Clowes left our village, his room|next door has been empty and a bit lonely..."
+    },
+    "78": {
+        "「あのヤンチャ坊主が　竜化の術を会得した日……|　わしは　その姿を　しっかりと目に焼き付けた。|　いつまでも　忘れまいとな……。": "The day that naughty boy mastered the art of|dragon... I'll never forget it... I'll never|forget it."
+    },
+    "79": {
+        "アンテロが倒れたあとに　粉々に砕かれた|破片が　散らばっている。": "After Antero fell, the shattered remains of|his body were scattered..."
+    },
+    "80": {
+        "<cs_pchero>は　こわれた印章を　手に入れた。<me 60>": "<cs_pchero>I have a broken seal.<me 60>"
+    },
+    "81": {
+        "「おお……これが　奈落の門か。|　なんと巨大で　荘厳な造りじゃ。": "Oh... This is the abyss... What a huge,|majestic structure..."
+    },
+    "82": {
+        "「その名を　ナドラガンドという。": "His name is Nadragand..."
+    },
+    "83": {
+        "「ナドラガンドは　アストルティアより隔絶され|　長きに渡り　いっさいの交流が途絶えた|　未知なる世界……。": "Nadragand is an uncharted world, separated|from Astrutia by a long, unbroken line of|communication."
+    },
+    "84": {
+        "「我らの常識では　計り知れぬ場所じゃ。|　そして　そこへ旅立つ者には|　あまたの苦難が　降りかかることじゃろう……。": "A place beyond the reach of our common sense.|And many hardships will befall those who|journey there."
+    },
+    "85": {
+        "「それでも　行くと言うなら……|　<cs_pchero>よ。ひとまず　コイツは|　わしが　預からせてもらおう。": "If you still want to go|<cs_pchero>Yeah. Let me take care of this for now..."
+    },
+    "86": {
+        "「まあ　まかせておけ。仲間を助けたいと願い|　苦難に立ち向かわんとする　そなたの背中を|　わしは無性に　後押ししてやりたくなったわ。": "Well, let me see... You're trying to save|your friends, you're trying to face up to|your hardships... and I can't help but want|<br>|to give you a push."
+    },
+    "87": {
+        "「また来たか　<cs_pchero>。|　おろかなヤツめ……。": "There you are again<cs_pchero>. You idiot..."
+    },
+    "88": {
+        "「何度挑もうが　同じこと。|　ここが　貴様の墓場となるのだ。": "No matter how many times I try... This is|your grave..."
+    },
+    "89": {
+        "「我らの野望は　ついえぬ……。|　今ふたたび　我が真の実力を　思い知るがいい！": "Our ambition has failed. Now, once again, you|will see what I am truly capable of!"
+    },
+    "90": {
+        "「ふん……。|　この程度で　勝ったつもりか？|　下等種族の分際で　片腹痛いわ！": "Hmm... This is how you think you've won?|You're a lowly race, and you're a pain in the|ass!"
+    },
+    "91": {
+        "「……お前たちは　先に行け。|　ネズミが　まぎれこむ前に　門を閉じよ。": "... You guys go ahead... We need to get to|the gate before the rats get in."
+    },
+    "92": {
+        "「教えてやろう　<cs_pchero>……。|　選ばれし民　竜族の　絶対的な強さを！": "I'll tell you what<cs_pchero>... The absolute strength of the Chosen|People, the Dragon People!"
+    },
+    "93": {
+        "「クオオォォォ……ッ！！": "Oh, no... Aah!"
+    },
+    "94": {
+        "「貴様を　門の向こうに行かせるわけにはいかぬ！|　我らを邪魔立てした　その罪科……。|　我が牙とツメによって　あがなうがよい！": "I won't let you go beyond the gates! For the|crime you have committed against us... You|will pay with your fangs and your claws!"
+    },
+    "95": {
+        "竜の香炉は　音もなく　くずれさった。": "The dragon incense burner fell without a|sound..."
+    },
+    "96": {
+        "<cs_pchero>は　ここで起こった出来事を|オルゲンに説明した。": "<cs_pchero>is going to tell Orgen what happened here..."
+    },
+    "97": {
+        "「……なんと。男は倒したが|　仲間は　奈落の門の向こうへ|　連れ去られてしまったのか。ううむ……。": "...... The man was defeated, but his|companions were taken beyond the gates of the|abyss... Mmm..."
+    }
+}

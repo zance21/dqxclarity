@@ -1,0 +1,218 @@
+{
+    "1": {
+        "「……<pc>か。|　そろそろ　戻ってくると思っていたぞ。": "<pc> Okay. I thought you'd be back by now."
+    },
+    "2": {
+        "「そなたが　アンルシアとともに|　３つの神の緋石を　守ってくれたことは|　すでに　聞いている。": "We've already heard that you, along with|Anduleia, guarded the Scarlet Stone of the|Three Gods."
+    },
+    "3": {
+        "「まことに　ご苦労であった。|　これで　大魔王といえども　神の緋石に|　おいそれとは　手を出せぬだろう。": "You've done a great job... Now even the Great|Demon King can't touch God's Scarlet Stone..."
+    },
+    "4": {
+        "「そして　世界の運命も　大きく変わった。|　そなたに託した　運命の振り子にも|　チカラが　満ちているはずだ。": "And the fate of the world will change|forever. The pendulum of fate that I have|placed in your hands is also full of power..."
+    },
+    "5": {
+        "「さっそくだが　運命の振り子を使い|　新たな運命の特異点を　確認したいと思う。|　こちらに　集まってくれ。": "But first, I'd like to use the pendulum of|fate to identify a new singularity of|destiny... Gather around..."
+    },
+    "6": {
+        "「古き神の遺跡にあった緋石は　壊された。|　それにより　新たな運命の特異点が|　現れたとしても　おかしくはないが……。": "The Scarlet Stone in the ruins of the Old|Gods was destroyed. And with it, a new|singularity of destiny would have appeared..."
+    },
+    "7": {
+        "「運命の振り子が……。|　いったい　何が起きたのですか？": "The pendulum of fate... What the hell just|happened?"
+    },
+    "8": {
+        "「……何者かが　運命が変異することを|　妨害したとしか　考えられぬな。|　振り子から　恐ろしいチカラを感じたよ。": "... I can only assume that something has|interfered with the mutation of our destiny.|I sense a terrible power in the pendulum..."
+    },
+    "9": {
+        "「ごめんなさい　<cs_pchero>。|　私のほうが　遅かっ……。": "excuse me<cs_pchero>(speaking spanish) I was later..."
+    },
+    "10": {
+        "「……これは　いったい！？|　前に来たときと　まるで　ちがう場所だわ。|　やはり　大魔王のしわざなの……？": "What the... What the hell is this? It's a|different place than the last time I was|here... It's the Demon Lord's wrath, after|<br>|all...?"
+    },
+    "11": {
+        "「あれは……何？": "Is that... What?"
+    },
+    "12": {
+        "「あの宙に浮いている物体……あそこから|　とても　まがまがしいものを感じるの……。": "That thing in the air... I can feel the glare|coming from there."
+    },
+    "13": {
+        "「とにかく　あれが　なんなのか|　調べてみる必要があるわね。|　近くまで　行ってみましょう！": "Anyway, we need to find out what that thing|is... Let's get up close!"
+    },
+    "14": {
+        "「これは……道をふさいでいるの？": "Is this... Are you blocking the road?"
+    },
+    "15": {
+        "<center>|……勇者と　その盟友よ。|余の居城……魔幻宮殿へ　ようこそ。": "... A brave man and his... My home... To the|Palace of Illusion."
+    },
+    "16": {
+        "「……何者！？": "... Who is it!"
+    },
+    "17": {
+        "<center>|余の名は　大魔王マデサゴーラ。|古き世界の破壊者にして|新たな世界の創造主なり。": "My name is Madesa the Great. Destroyer of old|worlds, creator of new..."
+    },
+    "18": {
+        "「大魔王マデサゴーラ！？": "The Great Demon King Madhesagora!"
+    },
+    "19": {
+        "「姿を見せなさい　大魔王っ！|　偽りの世界を創り　兄さまをも利用して|　いったい　何を企むの！？": "Show yourself, Great Demon King! You've|created a false world, and you're using my|brother to do it. What are you planning?"
+    },
+    "20": {
+        "<center>|ついに　世界の侵食が始まったのだ。|そなたの兄が　神の緋石を砕いたおかげよ。": "At last, the erosion of the world has|begun... Your brother shattered the God's|Scarlet Stone..."
+    },
+    "21": {
+        "<center>|余の目的は　ひとつ。|古びた世界を　自ら創りし世界で侵食し|余の理想の世界を　生みだすことだ。": "My purpose is to... To erode the old world|with a world of my own creation, to create a|world of my own ideal."
+    },
+    "22": {
+        "「やはり……。偽りの世界を使って|　この世界を　乗っ取るというのが|　あなたの目的だったのね！": "So... Your goal was to use the false world to|take over this world!"
+    },
+    "23": {
+        "<center>|余を止めたいか　勇者よ？|だが　ともに戦う盟友を得たとて|それは　かなわぬ願いよ。": "Do you wish to stop me, brave man? But having|an ally to fight with is not enough."
+    },
+    "24": {
+        "<center>|盟友と呼ばれようとも　その者の心の奥底には|拭い去ることのできぬ　恐怖が潜んでおる。|今から　余が見せてくれよう。": "They may call him ally, but deep within him|lurks a fear that cannot be shaken. I will|show you now."
+    },
+    "25": {
+        "<center>|これこそ　その者の心に潜む　恐怖の形。|避けることのできなかった　死そのもの。": "This is the horror that lurks in the heart of|every man. A death that could not be avoided."
+    },
+    "26": {
+        "「……アンルシアから　話は聞いた。|　ソーラリア峡谷に　大魔王マデサゴーラの|　居城が　現れたそうだな。": "... The story begins in Anlusia...|Madhesagoras stronghold has appeared in|Solaria Gorge..."
+    },
+    "27": {
+        "「トーマによって　神の緋石が壊されたことで|　大魔王のもくろみである　世界の侵食が|　ついに　始まってしまったわけだが……。": "With Toma destroying the God's Scarlet Stone,|the Great Demon King's plan to erode the|world has finally begun..."
+    },
+    "28": {
+        "「……こう考えることもできる。|　大魔王自ら　こちらの世界に現れたのならば|　今こそ　奴を倒す好機であると。": "... I can't help but think... If the Great|Demon himself has come to our world, now|would be a good time to defeat him..."
+    },
+    "29": {
+        "「ですが　大魔王の居城を守る結界は|　私のチカラでは　破ることはできませんでした。": "But the wards protecting the Great Demon|Lord's castle are beyond my power to break..."
+    },
+    "30": {
+        "「勇者のチカラをもってしても|　破れぬ結界か……。": "A ward that even the bravest of men cannot|break."
+    },
+    "31": {
+        "「破邪の秘技も　すべて覚え|　盟友　<pc>の協力もあります。|　それでも　チカラが及ばないなんて……。": "I've learned all the tricks of the trade| ally<pc> With the help of... I just can't believe we|couldn't do it."
+    },
+    "32": {
+        "「アンルシア……そなたには　まだひとつだけ|　勇者として　欠けているものがある。": "Unlucia... There is one thing you still lack|as a hero..."
+    },
+    "33": {
+        "「……ペガサスの存在だ。": "... Pegasus ..."
+    },
+    "34": {
+        "「ペガサス……。": "Pegasus..."
+    },
+    "35": {
+        "「伝説によれば　かつて　ペガサスは|　悪しき者の作りし結界を破り|　勇者を勝利へ導いた……とある。": "Legend has it that Pegasus once broke through|a ward created by the wicked and led the|brave to victory. ......"
+    },
+    "36": {
+        "「ペガサスのチカラが借りられれば|　大魔王の居城の結界を　破れるかもしれん。": ""
+    },
+    "37": {
+        "「しかし　ペガサスが　本当に存在するのか？|　存在したとして　今　どこにいるのかは|　私にも　わからない。": "But does Pegasus really exist? And if he|does, where he is now, I don't know..."
+    },
+    "38": {
+        "「叡智の冠のチカラを　今一度　結集し|　ペガサスの所在を　突き止めてみよう。": "We must gather the power of the Crown of|Wisdom once again and locate Pegasus..."
+    },
+    "39": {
+        "「はい　ルシェンダさま。|　その時に　備えておこうと思います。": "Yes, Luchen... I thought I'd better prepare|myself..."
+    },
+    "40": {
+        "「ペガサス……。|　この世界の　どこかにいるのなら|　どうか　私にチカラを貸して……。": "Pegasus... If you're out there somewhere in|this world, please help me..."
+    },
+    "41": {
+        "「大魔王マデサゴーラは|　ついに　その居城とともに|　我々の世界へと　現れた……。": "The Great Demon Lord Madhesagora has finally|appeared in our world with his castle..."
+    },
+    "42": {
+        "「そして　間もなく　勇者と盟友は|　大魔王に挑む　宿命の時を迎える。|　多くの者たちの運命を　巻き込みながら……。": "And soon, the brave hero and his allies will|take on the Great Demon Lord in a moment of|destiny... With the fates of many|<br>|intertwined..."
+    },
+    "43": {
+        "「……さま。私は　ふたたび|　あなたに　会わなくてはなりません。": "..... I'll have to see you again..."
+    },
+    "44": {
+        "「今は　静かに　お眠りください。|　目覚めの時が訪れる　その時まで……。": "Now sleep quietly... Until the time comes for|you to wake up..."
+    },
+    "45": {
+        "「運命を司る　聖なる振り子よ。|　新たな運命の変異を　うながしたまえ……。|　そして　ゆくべき道を示したまえ……。": "The holy shake of destiny... Lead us to a new|destiny... And show us the path we must|follow."
+    },
+    "46": {
+        "「……ソーラリア峡谷を　指していますね。": "... He's pointing to Solaria Gorge..."
+    },
+    "47": {
+        "「……むう。これは　どうしたことだ？": "..... What's this all about?"
+    },
+    "48": {
+        "「これで　我らは　導きを失った……。|　これより先は　自身のチカラだけで|　運命を　切り開いていくしかないわけだ……。": "Now we have no guidance... From now on, we'll|have to make our own destiny..."
+    },
+    "49": {
+        "「あの遺跡での戦いで　私は|　兄さまを止めることが　できなかった……。": "I couldn't stop you in that battle at the|ruins..."
+    },
+    "50": {
+        "「すぐに　向かいます。|　これ以上　大魔王の好きには　させません！": "I'll be right there... I won't let the Great|Demon King get away with this!"
+    },
+    "51": {
+        "「<cs_pchero>！　あの魔物は|　大魔王マデサゴーラが　あなたの心の底に眠る|　恐怖を形にしたものよ。": "<cs_pchero>That demon! That demon is Madhesagora, the|Great Demon Lord, who gave form to the fear|that lies deep within you."
+    },
+    "52": {
+        "「でも　私は　あなたが　そんなものに|　負けるはずはないと　信じているわ！": "But I believe you can't lose to something|like that!"
+    },
+    "53": {
+        "「………………。": "..."
+    },
+    "54": {
+        "<center>|……果たして　そうかな？|そなたたちは　弱い生き物よ。|己の心に　逆らうことなど　できはせぬ。": "... Do you really think so? You are weak...|You can't fight what's in your heart..."
+    },
+    "55": {
+        "<center>|いま一度　おのれの恐怖と向き合え。|そして　勇者ともども　朽ち果てるがよい。": "I will face my fears once more... And rot|away with the brave."
+    },
+    "56": {
+        "<center>|哀れなる勇者よ。|頼みと信じた　盟友の恐怖に押しつぶされ|今ここで　朽ち果てるがよい。": "Alas... Crushed by the fear of an ally you|believed to be your only hope, and now here|you are, rotting away..."
+    },
+    "57": {
+        "<center>|……ほう。心の底に潜んだ恐怖を|打ち払うことが　できるとはな。": "..... I can dispel the fears that lurk in the|depths of my mind..."
+    },
+    "58": {
+        "「私たちは　あんなものに　負けない。|　次は　あなたを倒すわ！！": "We're not gonna let that thing... Next time,|we'll beat you!"
+    },
+    "59": {
+        "<center>|ならば　この居城の深淵まで　来るがいい。|余の作りだした結界を　破れると言うのならな。": "Then you will come to the depths of my|castle... If you think you can break the|walls I've made for you..."
+    },
+    "60": {
+        "「そんなもの　私が破ってみせる！": "I'll break it! I'll break it!"
+    },
+    "61": {
+        "<center>|そなたたちは　余の理想の世界の到来を|指をくわえて　見ていることしかできぬと知れ。|グハハハハッ……。": "You can only watch as my ideal world comes to|pass... Guhahahahaha..."
+    },
+    "62": {
+        "「待っていなさい　大魔王マデサゴーラ。|　私は　絶対に　あなたを倒すわ。|　そして　兄さまを救いだしてみせる……。": "Wait for me, Madam Queen... I will save|you... And I'll save you."
+    },
+    "63": {
+        "「<cs_pchero>。くやしいけど|　大魔王が言った通り　今の私たちには|　この結界を破る方法が　ないわ。": "<cs_pchero>I'm sorry. I'm sorry, but as the Great Demon|King said, there's no way for us to break|this ward now..."
+    },
+    "64": {
+        "「一度　グランゼドーラ城に戻って|　ルシェンダさまに　相談してみましょう。|　私は先に戻って　報告しておくから。": "I will return to Granzedorra Castle and|consult with Lady Lushenda... I'll go back|first and report back."
+    },
+    "65": {
+        "「ふたたび　あの地で|　何かが　起こるというのでしょうか？": "Do you think something will happen there|again?"
+    },
+    "66": {
+        "「なっ……！？": "What the...?"
+    },
+    "67": {
+        "「アンルシア　<pc>。|　ソーラリア峡谷の様子を　見にいってくれるか？|　まずは　現状を確かめねばなるまい。": "enrusia<pc> (speaking spanish) Will you take a look|around Solaria Gorge? I need to see what's|going on..."
+    },
+    "68": {
+        "「私は　先に向かっているわ。|　あなたも準備をしたら　すぐに来て。": "I'm going to go ahead and... As soon as|you're ready..."
+    },
+    "69": {
+        "「今のソーラリア峡谷には|　これまでにない危険が　待っているかもしれぬ。|　充分に　注意していくのだぞ。": "Now, Solaria Gorge may be more dangerous than|ever before. We must be very careful..."
+    },
+    "70": {
+        "「先代の勇者さまとともに|　悪しき者と戦ったと　伝説に出てくる|　空を駆ける天馬のことですか？": "You mean the celestial horse that flew in the|sky that legend says fought with the brave|men of old against the evil one?"
+    },
+    "71": {
+        "「アンルシア。それに　<pc>。|　何か　わかったときは　すぐに教える。|　それまで　待っていてくれ。": "Anne... Besides...<pc> When I find out something... As soon as I|know something, I'll... Until then, I'll|wait..."
+    },
+    "72": {
+        "「<pc>も　今は　時を待ちましょう。": "<pc> But for now, we bide our time..."
+    }
+}

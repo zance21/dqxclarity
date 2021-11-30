@@ -1,0 +1,149 @@
+{
+    "1": {
+        "「航海に出られるのは　次に潮が変わっちまう|　８月１５日までの間だけだ。|　また　来てくれよ。": "We won't be able to sail until the next tide|change, August 15th... Come back..."
+    },
+    "2": {
+        "「未使用|": "unused|"
+    },
+    "3": {
+        "「これで　ハイスコアの目標を|　全部　達成しちまったな！|　まったく　驚かせてくれるぜ！|<bw_break>": "I think you just hit all your high score|goals! You never cease to amaze me!<bw_break>"
+    },
+    "4": {
+        "「これで　トータルスコアの目標を|　達成しちまったな！|　まったく　驚かせてくれるぜ！|<br>|「とっておきの珍品を　根こそぎ|　持っていかれちまって　こちとら|　すかんぴんだぜ　まったくよォ！|<br>|「今後は　トータルスコアが|　１００００００Ｐ増えるごとに|　覇者の心ってものが　手に入るぜ。|<br>|「覇者の心を持って|　となりにいる　妙な魔物に声をかけると|　いいことがあるみたいだぜ。|<br>|「手に入った　覇者の心は|　航海に出られるシーズンが　終わったら|　なくなっちまうから　注意してくれよ。|<bw_break>": "Now you've hit your total score target! What|a surprise! You took all my prized|possessions, and now I'm all pale! From now|<br>|on, for every 1,000,000 points you earn in|total, you'll get the heart of a champion.|The heart of a champion... If you talk to the|<br>|strange demon next to you with the Champion's|Heart, something good will happen. The heart|of the champion you get will be gone when the|<br>|season for sailing is over, so be careful...<bw_break>"
+    },
+    "5": {
+        "「グハハッ！　今度の航海も　大成功だ！|　おかげで　オレはガッポガッポの大儲け。|　乗組員どもには　感謝してもしきれねえぜ。|<bw_break>": "Guhaha! This voyage has been a great success!|Thanks to you, I'm going to be very, very|rich. I can't thank my crew enough...<bw_break>"
+    },
+    "6": {
+        "「グハハハッ！|　まったく　危ねえ所だったが|　航海が無事に終わって　感無量だぜ！！|<br>|「この航海で　あんたが集めた物品は|　回収して　価値に応じたスコアを|　つけてやったからな。|<br>|「あんたには　ハイスコアと|　トータルスコアが　目標に達した時に|　報酬を　くれてやるぜ。|<br>|「ハイスコアとは　あんたが|　一度の航海で稼いだスコアのうち|　もっとも　高かったもののことさ。|<br>|「それから　トータルスコアってのは|　あんたが　これまでに稼いだ|　スコア全部の　合計だ。|<bw_break>": "Guhahahaha! It was a close call, but I'm glad|the voyage is over! All the items you|collected on this voyage were collected and|<br>|scored according to their value. You will be|rewarded with a high score and a total score|when you reach your goal. High score is the|<br>|highest score you've earned in a single|voyage. And the total score is the sum of all|the scores you've earned so far...<bw_break>"
+    },
+    "7": {
+        "「それじゃ　また　航海に参加してくれよ！": "Well, then, join me on the voyage again!"
+    },
+    "8": {
+        "「おっ！　ハイスコアが|　<%nB_SCORE>Ｐを 超えてるじゃないか！|<br>|「それじゃあ　持ってけ！|　<%nB_SCORE>Ｐ突破の　報酬は|　なんと　<%sB_HOUSYU>だ！！|": "Whoa! Your high score is over <%nB_SCORE>P!|Then take it! The reward for surpassing|<%nB_SCORE>P is <%sB_HOUSYU>!"
+    },
+    "9": {
+        "「……って　あんた　どうぐかばんが|　いっぱいで　持てねえじゃねえか！|　バカヤロウ！　とっとと　荷物整理してこい！": "... You can't even carry a bag full of stuff!|You idiot! Go get your stuff together!"
+    },
+    "10": {
+        "「おう　よく来たな！　あんたにゃ|　前回の航海での　報酬を渡せてなかったはずだ。|　さあて　記録はと……|<bw_break>": "Oh, welcome aboard! I didn't give you your|reward for your last voyage... Well, let the|record show...<bw_break>"
+    },
+    "11": {
+        "<pc>は|<%sB_HOUSYU>を　手に入れた！<se_nots System 7>": "<pc> got <%sB_HOUSYU>!|<se_nots System 7>"
+    },
+    "12": {
+        "<pc>は|<%sB_HOUSYU>を　<%nB_NUM>個　手に入れた！<se_nots System 7>": "<pc> got <%sB_HOUSYU> for <%nB_NUM>!|<se_nots System 7>"
+    },
+    "13": {
+        "「おっ！　トータルスコアが|　<%nB_SCORE>Ｐを 超えてるじゃないか！|<br>|「それじゃあ　持ってけ！|　<%nB_SCORE>Ｐ突破の　報酬は|　なんと　<%sB_HOUSYU>だ！！|": "Whoa! Your total score is over <%nB_SCORE>P!|Then take it! The reward for surpassing|<%nB_SCORE>P is <%sB_HOUSYU>!"
+    },
+    "14": {
+        "「すまんな。残念だが　今は|　航海に出ることはできねえんだ。|　その情熱は　大切に取っておいてくれ。": "I'm... I'm afraid I can't sail now. I've been|saving that passion..."
+    },
+    "15": {
+        "「あんたは　パーティを組んでるから|　お仲間も　一緒に航海に誘うぜ。|　それじゃあ　出発の準備は　いいな？|<yesno><close>": "Well, you're in a party, so your friends will|be sailing with you, so... All right, you|ready to go?<yesno><close>"
+    },
+    "16": {
+        "「おうっ！|　キリキリ働いて　ガッポリかせいでくれよ！|　それじゃあ　出発の準備は　いいな？|<yesno><close>": "Hey! Work hard and earn a lot of money! Okay,|are you ready to go?<yesno><close>"
+    },
+    "17": {
+        "「よしきた！　それじゃあ|　あんたに　乗組員の仕事を説明するぜ。|<br>|「幻の海トラシュカでは　どういうわけか|  空から　ワケのわからねえものが|　次々　降ってきやがる。|<br>|「降ってくる物は　ガラクタやら　魔物やら|　とにかく色々さ。乗組員の仕事は　その中から|　価値のありそうな物を　拾い集めることだ。|<br>|「集めた物の価値を見積もって　オレが|　スコアを　つけてやる。そいつに応じて|　後で報酬をくれてやるから　きばって働けよ。|<br>|「航海の前に　一度だけ　練習するとしよう。|　今から　船の上に移動するが　かまわないか？|<yesno><close>": "All right, here we go. Now, let me explain to|you what a crewman does. I don't know how it|happened, but things kept falling from the|<br>|sky. It's all just a bunch of junk and demons|and... The crew's job is to pick up anything|that looks like it might have value. And then|<br>|I'd give them a score. I'll give you a score,|and you'll be paid accordingly. I'll give you|one practice run before the voyage. I'll be|<br>|moving onto the ship now, if that's all right|with you.<yesno><close>"
+    },
+    "18": {
+        "「報酬は　２種類あるぜ！　ハイスコア報酬と|　トータルスコア報酬さ。それぞれ目標を超えれば|　ごらんの通りの　報酬をくれてやる！|<break>": "There are two types of rewards! The high|score reward and the total score... If you|exceed each of these goals, you'll be|<br>|rewarded as you can see!<break>"
+    },
+    "19": {
+        "「報酬の浮き輪は　装備することで|　航海で役に立つ効果を発揮するぜ。|　スコアを伸ばすのに　うってつけだ。": ""
+    },
+    "20": {
+        "「フレンドか　同じチームに入っている|　チームメンバーが　航海に参加していれば|　スコアのランキングを　見ることができるぜ。|<br>|「だが　残念ながら|　航海に参加したヤツが　いないようだな。": "If you have a friend or a team member who's|on the same team as you, you can see their|score rankings... But unfortunately, I don't|<br>|know anyone who's been on a voyage..."
+    },
+    "21": {
+        "「幻の海トラシュカでは　どういうわけか|  空から　ワケのわからねえものが|　次々　降ってきやがる。|<br>|「降ってくる物は　ガラクタやら　魔物やら|　とにかく色々さ。乗組員の仕事は　その中から|　価値のありそうな物を　拾い集めることだ。|<br>|「集めた物の価値を見積もって　オレが|　スコアを　つけてやる。そいつに応じて|　後で報酬をくれてやるから　しっかり働けよ。|<br>|「乗組員が　全員　海に落ちたら|　航海は失敗だ。それまでに　集めた物も|　みんな　パーになっちまうから　気をつけろ。|<bw_break>": "In the Sea of Illusion, Trashka, for some|reason, things that I don't understand are|falling from the sky one after another.|<br>|Things like junk, demons, whatever... The|crew's job is to pick up anything that looks|like it might have value. And then I'd give|<br>|them a score. I'll give you a score, and|you'll get paid for it. When all the crew is|in the water, the voyage is over. Everything|<br>|you've collected will be lost by then, so be|careful.<bw_break>"
+    },
+    "22": {
+        "「航海には　オレが　かき集めた|　乗組員８人が　参加するぜ。|　なかま同士　せいぜい　仲良くな。|<br>|「もし　知り合い同士で　一緒に航海したけりゃ|　あらかじめ　パーティを組んで　ここに来い。|　同じ航海に　参加させてやれるぜ。|<br>|「４人パーティで来た場合は|　もうひとつの　４人パーティを選んで|　知り合い８人で　航海することもできるぜ。|<bw_break>": "I've recruited a crew of eight to join me on|this voyage. We'll all get along... If you'd|like to go on a voyage with someone you know,|<br>|we can set up a party here. We'll put you on|the same voyage... If you come with a party|of four, you can choose another party of four|<br>|and sail with eight other people you know...<bw_break>"
+    },
+    "23": {
+        "「幻の海トラシュカで　降ってくるものは|　大きくわけて　ふたつだ。|<br>|「ひとつめは　傘だの　宝石だのといった|　さまざまな　物品たちだ。これを拾えば|　その価値に応じて　スコアが手に入る。|<br>|「他の乗組員が　先に拾っても|　消えちまうことはねえから　あんたも|　遠慮せずに　どんどん　拾っていけよ。|<br>|「ふたつめは　落ちてくるなり　爆発しやがる|　にっくき　ばくだん岩どもだ。|　こいつらを見つけたら　すぐに離れろ！|<br>|「爆発に巻き込まれて　海に落ちたら|　しばらく　何もできなくなっちまう。|<br>|「海に落ちずに済んだとしても|　身体が　ふっとびやすくなるから|　次からの爆発に　注意しろよ。|<bw_break>": "There are two main types of things that fall|on the Phantom Sea of Trashka. The first is|umbrellas, jewels, and various other items.|<br>|If you pick one up, you get a score based on|its value. Even if other crew members pick|them up first, they won't disappear, so don't|<br>|hesitate to pick them up. The second one is a|big-ass bomb rock that explodes as soon as it|falls. If you see one of these, get away from|<br>|it! If you get caught in the explosion and|fall into the ocean, you'll be helpless for a|while. And even if you don't fall into the|<br>|water, you're still susceptible to blowing|up, so watch out for the next one.<bw_break>"
+    },
+    "24": {
+        "「あんたには　ハイスコアと|　トータルスコアが　目標に達した時に|　報酬を　くれてやるぜ。|<br>|「ハイスコアとは　あんたが|　一度の航海で稼いだスコアのうち|　もっとも　高かったもののことさ。|<br>|「それから　トータルスコアってのは|　あんたが　これまでに稼いだ|　スコア全部の　合計だ。|<br>|「どんな報酬があるか　知りたけりゃ|　『報酬を見る』を選んでくれ。|<bw_break>": "You will be rewarded with a high score and a|total score when you reach the target... High|score is the highest score you've ever earned|<br>|on a single voyage. And the total score is|the sum of all the scores you've earned so|far. If you want to see what kind of rewards|<br>|are out there, select \"See Rewards.\"<bw_break>"
+    },
+    "25": {
+        "「フレンドや　同じチームのメンバーが|　航海に参加していれば　ランキングで|　ハイスコアを　競うことができるぜ！|<br>|「結果で　何かが手に入るということはない！|　あえていうなら　名誉というやつだな。|　グワッハッハ！|<bw_break>": "If you have a friend or a member of the same|team on your voyage, you can compete for the|high score in the ranking! You don't get|<br>|anything for it! It's more like an honor...|Gwahahaha!<bw_break>"
+    },
+    "26": {
+        "「未使用": "unused"
+    },
+    "27": {
+        "「おうっ！|　何について　聞きたいんだ？|<break>": "Ooh! What do you want to talk about?<break>"
+    },
+    "28": {
+        "「他に　聞きたいことはあるか？|<break>": "Is there anything else you want to ask me?<break>"
+    },
+    "29": {
+        "「オレは　幻の海トラシュカへの航海に参加する|　乗組員を　集めている！　危険のともなう旅だが|　勇気のあるヤツなら　誰でも歓迎するぜ。　|<break>": "I'm recruiting a crew to join me on a voyage|to the fantastic sea of Trashka. It's a|dangerous journey, but anyone with courage is|<br>|welcome...<break>"
+    },
+    "30": {
+        "「他に　用はあるかい？　|<break>": ""
+    },
+    "31": {
+        "「なんだい　やめちまうのか。|　他に　用はあるかい？　|<break>": "What? No, no, no, no, no, no. Is there|anything else you need?<break>"
+    },
+    "32": {
+        "<select_se_off>|乗組員の仕事とは|なかまの乗組員について|降ってくる物について|スコアと報酬について|ランキングについて|<select_end><break>": "<select_se_off>|What does a crew member do?|About the crew of the companion|About the things that come down|About Scores and Rewards|About Ranking|<select_end><break>"
+    },
+    "33": {
+        "<select_se_off>|航海に参加する|報酬を見る|ランキングを見る|説明を聞く|<select_end><break>": "<select_se_off>|Join the Voyage|See the rewards|See the ranking|Listen to the explanation|<select_end><break>"
+    },
+    "34": {
+        "「あんたは　パーティを組んでるから|　お仲間同士で　同じ航海に|　参加してもらおう。|<br>|「まず　パーティリーダーに|　オレに　声をかけて|　参加表明してもらってくれ。": "You're in a party, so if you'd like to join|your friends on the same voyage... First, I'd|like you to ask the party leader to join|<br>|me..."
+    },
+    "35": {
+        "「よしきた！　それじゃあ|　あんたに　乗組員の仕事を説明するぜ。|<br>|「だが　この説明には　ひとりずつしか|　参加できねえんだ。悪いが　パーティから|　いったん抜けて　また声をかけてくれ。": "All right, here we go. Now, I'm going to|explain to you what a crewman does. But this|briefing can only be done one at a time. I'm|<br>|sorry, but I'm gonna have to leave the party,|and I'm gonna have to call out..."
+    },
+    "36": {
+        "「未使用": "unused"
+    },
+    "37": {
+        "「……って　あんた　そうびぶくろが|　いっぱいで　持てねえじゃねえか！|　バカヤロウ！　とっとと　荷物整理してこい！": "You... You can't even carry a sash bag! You|idiot! Go get your stuff together!"
+    },
+    "38": {
+        "「未使用": "unused"
+    },
+    "39": {
+        "「オレは　幻の海トラシュカへの|　航海に参加する　乗組員を　集めている。|<br>|「だが　この時期は　潮の流れが悪くて|　船を出すことが　できねえんだ。|　興味があるなら　時を待っていてくれ。": "I've gathered a crew to sail to the fantastic|sea of Trashka. But at this time of year, the|tide is so low, we can't sail... If you're|<br>|interested, you'll have to wait for the right|moment..."
+    },
+    "40": {
+        "「航海に出られる時期が来たら|　あんたにも　報せるぜ。|　楽しみに　待ってろよ。": "I'll let you know when I'm ready to sail.|I'll be waiting..."
+    },
+    "41": {
+        "「それじゃ　また　航海に参加してくれよ！": "Well, then, join me on the voyage again!"
+    },
+    "42": {
+        "現在　入場制限のため　あと<%nB_PENALTY>分|航海に参加することは　できません。": "Now, due to restricted access, you will not|be able to join the voyage for another|<%nB_PENALTY>..."
+    },
+    "43": {
+        "「オレは　幻の海トラシュカへの航海に参加する|　乗組員を　集めている！　危険のともなう旅だが|　勇気のあるヤツなら　誰でも歓迎だ。　|<bw_break>": "I'm recruiting a crew to join me on a voyage|to the fantastic sea of Trashka. It's a|dangerous journey, but anyone with the|<br>|courage...<bw_break>"
+    },
+    "44": {
+        "「航海に出れる時期になったら|　新しいラインナップを用意するぜ。|　楽しみに　待っていてくれ。": "When it's time to go sailing, we'll have a|whole new lineup... I look forward to seeing|you..."
+    },
+    "45": {
+        "「幻の海トラシュカへの航路は|　潮流が　あまりに激しいもんで|　限られた時期にしか　船は出せねえんだ。|<br>|「前回の航海記録による|　ランキングなら　見せてやれるんだが……|　ふむ。特に記録は　なさそうだな。|<bw_break>": "The tidal currents are so strong on the way|to Trashka that we can only sail it at|certain times of the year. I could show you|<br>|the rankings based on previous voyages...|But... I don't see any records.<bw_break>"
+    },
+    "46": {
+        "「だが　船は出せるのは　限られた時期だけだ。|　今は　前回の航海記録による|　ランキングだけ　見せてやるぜ！": "But there's only so many times you can take a|ship out... For now, I'll just show you my|ranking based on my last voyage!"
+    },
+    "47": {
+        "<pc>は|覇者の心を　<%nB_POINTNUM>個　手に入れた！<se_nots System 7>": "<pc> You have <%nB_POINTNUM> hearts of champions!|<se_nots System 7>"
+    },
+    "48": {
+        "「パーティを組んでるようだな。|　同じ航海に参加する　もうひとつのパーティを|　選ぶこともできるが　どうする？|<select>|パーティを選ぶ|なかまを自動で探す|<select_end>": "I'm in a party... You could choose another|party to join you on the same voyage, but|what would you do?|<select>|Select a party|Find your friends automatically|<select_end>"
+    },
+    "49": {
+        "「うおおおっ！！|　あんた　ついに　トータルスコアが|　<%nB_SCORE>Ｐを 超えてるぞ！|<br>|「<%nB_SCORE>Ｐを突破した　あんたには|　覇者の心が　芽生えているはずだぜ！": "Whoa! You've finally surpassed <%nB_SCORE>P|in total score! Now that you've surpassed|<%nB_SCORE>P, you must have the heart of a|<br>|champion!"
+    }
+}
