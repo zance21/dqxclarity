@@ -423,19 +423,19 @@
         "「<pc>ーーーーーっ！！": "<pc>!!!!"
     },
     "142": {
-        "「<pc>ーーーーーっ！！": "<pc>Woohoo!"
+        "「<pc>ーーーーーっ！！": "<pc>!!!!"
     },
     "143": {
-        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>": "<if_woman>Sis, aaah!<else>Big brother!<endif>"
+        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>": "Don't goooo!"
     },
     "144": {
-        "「おかしいですね。|　魔物たちが　１匹も　いないなんて。": "It's funny... There's no demons here..."
+        "「おかしいですね。|　魔物たちが　１匹も　いないなんて。": "That's strange. There's not a single monster|here."
     },
     "145": {
-        "「ねえ　今　カミナリが落ちた方角って……。": "Hey, the direction that the thunder just|hit..."
+        "「ねえ　今　カミナリが落ちた方角って……。": "Hey, the place that thunder just struck now..."
     },
     "146": {
-        "「村の方角です！　急ぎましょうっ！！": "It's in the direction of the village! We must|hurry!"
+        "「村の方角です！　急ぎましょうっ！！": "That's the village! We have to hurry!!"
     },
     "147": {
         "「なあ　今　カミナリが落ちた方角って……。": "You know, the direction that the thunder just|hit..."
