@@ -798,25 +798,25 @@
         "「で　<pc>は　こんな所まで|　わざわざ　なにしに来たってわけ？": "So what are you doing all the way out here,|anyway?"
     },
     "267": {
-        "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": "<if_woman>So what's your sister doing here?<else>So what's your brother doing here?<endif>"
+        "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": "<if_woman>What are you doing all the way out here,|big sister?<else>What are you doing all the way out here,|big brother?<endif>"
     },
     "268": {
-        "「……なんだって？|　アバさまが　オレを呼んでる？": "... What? Abba's calling me?"
+        "「……なんだって？|　アバさまが　オレを呼んでる？": "...What? Abba's calling for me?"
     },
     "269": {
-        "「……えっ？|　アバさまが　あたしを呼んでる？": "... What? Abba's calling me?"
+        "「……えっ？|　アバさまが　あたしを呼んでる？": "...What? Abba's calling for me?"
     },
     "270": {
-        "「……えっ？|　アバさまが　私を呼んでる？": "... What? Lady Abba wants to see me?"
+        "「……えっ？|　アバさまが　私を呼んでる？": "...What? Lady Abba wants to see me?"
     },
     "271": {
-        "「ふっふっふっふっふっ……。": "Mmm-hmmm..."
+        "「ふっふっふっふっふっ……。": "Hehehehehe..."
     },
     "272": {
-        "「うふふふふ……。": "Mmm-hmm..."
+        "「うふふふふ……。": "Heheheh...."
     },
     "273": {
-        "「うふふふふふふふふふ……。": "Mmmmmmmmmmmmmmmmm..."
+        "「うふふふふふふふふふ……。": "Heheheheh...."
     },
     "274": {
         "「それって　ついに　アバさまが|　オレの錬金術を　頼りにする日が|　来たってことじゃないか！？": "Doesn't that mean the day has finally come|for Abba to rely on my alchemy?"
