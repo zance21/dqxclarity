@@ -150,7 +150,7 @@
         "「やったあっ！|　なんか　すっごいの　できた！": "Yes, I did it! I really made something|amazing!"
     },
     "51": {
-        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": "<if_woman>Hey, Sis?<else>Oh, brother?<endif>"
+        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": "<if_woman>Is that you, sis?<else>Is that you, bro?<endif>"
     },
     "52": {
         "<if_woman>「いいところに来たね！|　これ……　姉ちゃんに　プレゼント！|　きっと　似合うと思うよ！<else>「いいところに来たね！|　これ……　兄ちゃんに　プレゼント！|　きっと　似合うと思うよ！<endif>": "<if_woman>You've come to the right place! This... It's|for my sister! I think she'll like it!<else>You've come to the right place! This... It's|for you, brother! I think he'll like it!<endif>"
