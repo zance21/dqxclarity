@@ -405,7 +405,7 @@
         "「<pc>か！？|　くそっ！　余計なことすんじゃねえ！！|　オレと　お前は　死ぬ時も　一緒だっ！！": "<pc>?! Damn it! Don't be reckless!|Or else we'll both end up dead!"
     },
     "136": {
-        "「ちょっと！　<pc>！|　勝手なことすんじゃないわよ！|　あんたを守るのは　あたしなんだからっ！！": "Wait! <pc>! Don't you dare do anything on|your own! I'm the one who's supposed to|protect you!!"
+        "「ちょっと！　<pc>！|　勝手なことすんじゃないわよ！|　あんたを守るのは　あたしなんだからっ！！": "Wait! <pc>! Don't do this to me! I'm|the one who's supposed to protect you!!"
     },
     "137": {
         "<if_woman>「イヤだよ！　お姉ちゃん！！|　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！|　私を　ひとりにしないで！！<endif>": "<if_woman>No! Sis! Don't leave me alone!<else>No! Big brother! Don't leave me alone!<endif>"
