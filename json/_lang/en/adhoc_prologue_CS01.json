@@ -183,7 +183,7 @@
         "「テキスト削除": "text deletion"
     },
     "62": {
-        "「<pc>さん。私が　起こしますよ。|　寝起きの　おばあさまは　機嫌が悪いので……。": "<pc>. I woke her up. Grandmother's|in a bad mood, so..."
+        "「<pc>さん。私が　起こしますよ。|　寝起きの　おばあさまは　機嫌が悪いので……。": "Let me wake her up, <pc>. Grandmother|is always in a bad mood when she first|wakes up..."
     },
     "63": {
         "「失礼します　おばあさま。|　<pc>さんが　<kyodai>さんを|　連れていらっしゃいましたよ。": "Excuse me, Grandmother.|<pc> brought <kyodai> back with them."
@@ -750,7 +750,7 @@
         "「よーし……。|　今度こそ　すっげえのが　できるぜ。|　たぶんよ……！": "Okay... We're gonna get something really|cool. Maybe."
     },
     "251": {
-        "「うーん……。|　今度こそ　すっごいのが　できそうなんだけど。|　たぶん……。": "Well... I think I can make something really|great this time... I think..."
+        "「うーん……。|　今度こそ　すっごいのが　できそうなんだけど。|　たぶん……。": "Hmm... I think this one is gonna turn out|great. Maybe..."
     },
     "252": {
         "「よーし……。|　今度こそ　すっごいのが　できちゃうよ。|　きっと……。": "Okay, okay... This time, we're going to make|something amazing... I'm sure..."
@@ -777,7 +777,7 @@
         "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": "You've come to the right place! Hey! I got|something for you! I think you'll like it."
     },
     "260": {
-        "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": "You've come to the right place! This...<pc>Oh... I think you'll like it."
+        "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": "Perfect timing! This is for you, <pc>!|I think you'll look great in it!"
     },
     "261": {
         "<if_woman>「いいところに来たね～！|　これ……　お姉ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<else>「いいところに来たね～！|　これ……　お兄ちゃんに　プレゼントなの！|　きっと　似合うと思うな！<endif>": "<if_woman>You've come to the right place! This... It's|a present for my sister! I think she'll like|it!<else>You've come to the right place! This... It's|for you, big brother! I think he'll like it!<endif>"
