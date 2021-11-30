@@ -786,16 +786,16 @@
         "「えーっ　かばんが　いっぱいなのかよ。|　しょうがねえなあ。オレが　持っといてやるか。": "Huh? Your bag is full? Oh well. I'll hang onto|it for you for now."
     },
     "263": {
-        "「ちょっと！　かばんが　いっぱいじゃないの。|　しょうがないわね。あたしが　持っててあげる！": "Hey! Your bag is full. I'm sorry. I'll hold|it for you!"
+        "「ちょっと！　かばんが　いっぱいじゃないの。|　しょうがないわね。あたしが　持っててあげる！": "Wait! Your bag's full. Oh well. I'll take it|off your hands for now!"
     },
     "264": {
-        "「あれ？　かばんが　いっぱいなの？|　じゃあ　私が　持っててあげるね！": "What? Is your bag full? Then I'll hold it for|you!"
+        "「あれ？　かばんが　いっぱいなの？|　じゃあ　私が　持っててあげるね！": "Huh? Your bag's full? In that case, I'll hold|onto it for you."
     },
     "265": {
-        "「で　<pc>は　こんな所まで|　なにしに来たんだ？": "In.<pc>What the hell are you doing here?"
+        "「で　<pc>は　こんな所まで|　なにしに来たんだ？": "So then, what are you doing here?"
     },
     "266": {
-        "「で　<pc>は　こんな所まで|　わざわざ　なにしに来たってわけ？": "In.<pc>So, what are you doing all the way out here?"
+        "「で　<pc>は　こんな所まで|　わざわざ　なにしに来たってわけ？": "So what are you doing all the way out here,|anyway?"
     },
     "267": {
         "<if_woman>「で　お姉ちゃんは　こんな所まで来て|　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て|　なんの用事？<endif>": "<if_woman>So what's your sister doing here?<else>So what's your brother doing here?<endif>"
