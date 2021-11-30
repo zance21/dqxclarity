@@ -912,25 +912,25 @@
         "「はいっ　アバさま。": "Yes, Elder Abba."
     },
     "305": {
-        "「おら！　<pc>も　乗りな乗りな！|　ほら　オレの手に　つかまって……": "I am!<pc>Get in, get in, get in! Come on, hold on to|my hand..."
+        "「おら！　<pc>も　乗りな乗りな！|　ほら　オレの手に　つかまって……": "Come on, <pc>! Get on, get on!|Here, take my hand..."
     },
     "306": {
-        "「さあ！　<pc>も　乗って乗って！|　ほら　あたしの手に　つかまって……": "Come on!<pc>Get in, get in, get in! Come on, hold on to|my hand..."
+        "「さあ！　<pc>も　乗って乗って！|　ほら　あたしの手に　つかまって……": "Come on, <pc>! Get on, get on!|Here, take my hand..."
     },
     "307": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<endif>": "<if_woman>Hey! Get in, get in, get in! Come on, hold on|to my hand...<else>Hey! Hey, big brother, get in, get in! Come|on, hold on to my hand...<endif>"
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！|　ほら　私の手に　つかまって……<endif>": "<if_woman>Hey, big sister! Get on, get on!|Here, take my hand...<else>Hey, big brother! Get on, get on!|Here, take my hand...<endif>"
     },
     "308": {
-        "「……えっ？": "... What?"
+        "「……えっ？": "...Huh?"
     },
     "309": {
-        "「……えっ？": "... What?"
+        "「……えっ？": "...Huh?"
     },
     "310": {
-        "「……ええっ？": "... Huh?"
+        "「……ええっ？": "...Huhh?"
     },
     "311": {
-        "「な　なんで……？": "Why are you...?"
+        "「な　なんで……？": "W-what..?"
     },
     "312": {
         "「ど　どうしてよ……？": "Why are you...?"
