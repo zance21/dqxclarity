@@ -774,7 +774,7 @@
         "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>": "<if_woman>Huh, sis?<else>Huh, bro?<endif>"
     },
     "259": {
-        "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": "You've come to the right place! Hey! I got|something for you! I think you'll like it."
+        "「ちょうど　いいところに来たな！|　ほらよっ！　お前に　プレゼントだ！|　絶対　似合うと思うぜ！": "Nice to see you! Look! I have something for|you! I think you'll like it!"
     },
     "260": {
         "「いいところに来たわね！|　これ……　<pc>に　あげるわ。|　きっと　似合うと思うわよ！": "Perfect timing! This is for you, <pc>!|I think you'll look great in it!"
