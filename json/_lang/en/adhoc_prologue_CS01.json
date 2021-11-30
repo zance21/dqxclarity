@@ -582,10 +582,10 @@
         "「えへへへ……。|　私も　役に立てて　うれしいな～！": "Ehehe... I'm glad that I could help, too!"
     },
     "195": {
-        "「たぶん　ここで　テンスの花を見つけるのが|　オレの役目だったのかもな！　<pc>|　ここまで連れてきてくれて　ありがとよ！": "Maybe it was my job to find Tens' flowers|here!<pc>Thanks for bringing me all the way out here!"
+        "「たぶん　ここで　テンスの花を見つけるのが|　オレの役目だったのかもな！　<pc>|　ここまで連れてきてくれて　ありがとよ！": "Maybe it really was my duty to come here and|find the Tens Flower...<pc>, thanks|for bringing me here!"
     },
     "196": {
-        "「きっと　ここで　テンスの花を見つけるのが|　あたしの役目だったのね。<pc>|　ここまで連れてきてくれて　ありがと！": "I'm sure it was my job to find the tens|flower here...<pc>Thank you for bringing me this far!"
+        "「きっと　ここで　テンスの花を見つけるのが|　あたしの役目だったのね。<pc>|　ここまで連れてきてくれて　ありがと！": "I guess my role in all this was to find the|Tens Flower here. <pc>, thank you|for bringing me along!"
     },
     "197": {
         "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お姉ちゃん　私を|　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お兄ちゃん　私を|　ここまで連れてきてくれて　ありがと！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Thank you for bringing me|here, Sis!<else>I'm sure it was my job to find the tens|flower here... Thank you, big brother, for|bringing me here!<endif>"
