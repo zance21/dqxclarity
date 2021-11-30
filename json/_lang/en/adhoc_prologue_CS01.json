@@ -171,13 +171,13 @@
         "「ふっふっふっふっふっ……。": "Hehehehehe..."
     },
     "58": {
-        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Doesn't that mean the day has finally come|for Abba-sama to rely on my alchemy?"
+        "「それって　ついに　アバさまが|　おいらの錬金術を　頼りにする日が|　来たってことじゃない！？": "Does this mean that the day has finally come|where Lady Abba has no choice but to rely on|my alchemy?!"
     },
     "59": {
-        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, sis! Let's go to Abba's! Don't forget|about the hat I made for you... Don't forget|it!<else>Come on, big brother! Let's go to Abba's!|Don't forget about the hat I made for you...|Don't forget it!<endif>"
+        "<if_woman>「さあ　姉ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！|　アバさまの所へ　行こう～！　おいらが作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, sis! Let's go to Abba's! Don't forget|the hat I made for you!<else>Come on, bro! Let's go to Abba's! Don't forget|the hat I made for you!<endif>"
     },
     "60": {
-        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai>has joined our ranks!<me 61>"
+        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai> joined the party!<me 61>"
     },
     "61": {
         "「テキスト削除": "text deletion"
