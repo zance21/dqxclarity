@@ -294,19 +294,19 @@
         "「<kyodai>さんっ！！": "<kyodai>!!"
     },
     "99": {
-        "「あ……　あ…………。": "Oh... Uh..."
+        "「あ……　あ…………。": "Ah....ah......"
     },
     "100": {
-        "「な　なんなの……　この光…………。": "What the hell... This light..."
+        "「な　なんなの……　この光…………。": "What is....this light....."
     },
     "101": {
-        "「時間が　止まってる……？": "Time has stopped...?"
+        "「時間が　止まってる……？": "Time has...stopped?"
     },
     "102": {
-        "「まさか　これ…………！": "Oh, my God, this..."
+        "「まさか　これ…………！": "No way... this is...!"
     },
     "103": {
-        "<if_woman>「イヤだよ！　姉ちゃん！！|　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！|　おいらを　ひとりにしないで！！<endif>": "<if_woman>No! No! Sis! Don't leave me here alone!<else>No! No! Brother! Don't leave me alone!<endif>"
+        "<if_woman>「イヤだよ！　姉ちゃん！！|　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！|　おいらを　ひとりにしないで！！<endif>": "<if_woman>No! Sis! Please don't leave me!!<else>No! Bro! Please don't leave me!!<endif>"
     },
     "104": {
         "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>": "<if_woman>Sis! Sis!<else>Big brother! Big brother!<endif>"
