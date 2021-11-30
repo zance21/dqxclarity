@@ -588,13 +588,13 @@
         "「きっと　ここで　テンスの花を見つけるのが|　あたしの役目だったのね。<pc>|　ここまで連れてきてくれて　ありがと！": "I guess my role in all this was to find the|Tens Flower here. <pc>, thank you|for bringing me along!"
     },
     "197": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お姉ちゃん　私を|　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お兄ちゃん　私を|　ここまで連れてきてくれて　ありがと！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Thank you for bringing me|here, Sis!<else>I'm sure it was my job to find the tens|flower here... Thank you, big brother, for|bringing me here!<endif>"
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お姉ちゃん　私を|　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが|　私の役目だったのね。お兄ちゃん　私を|　ここまで連れてきてくれて　ありがと！<endif>": "<if_woman>I'm sure it was my duty to find the Tens|Flowers here. Thank you for bringing me|here, big sister!<else>I'm sure it was my duty to find the Tens|Flowers here. Thank you for bringing me|here, big brother!<endif>"
     },
     "198": {
-        "「ここです。|　テンスの花は　この扉の向こうに咲いていると|　書物に　記されていました。": "The... It is written that the tens bloom|behind this door."
+        "「ここです。|　テンスの花は　この扉の向こうに咲いていると|　書物に　記されていました。": "This is the place. I've read that the Tens|Flowers bloom behind this door."
     },
     "199": {
-        "「最後に　この扉が開かれたのは|　いったい　いつのことか|　私には　想像もつきませんが……": "I can't imagine when the last time this door was opened, but..."
+        "「最後に　この扉が開かれたのは|　いったい　いつのことか|　私には　想像もつきませんが……": "I can't imagine how long it's been since the|door was last opened..."
     },
     "200": {
         "「この洞くつに流れる　清き水が　今も|　テンスの花を　育み続けてくれているはず。": "The clear water that flows through this cave|continues to nurture the tench flower..."
