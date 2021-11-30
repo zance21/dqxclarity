@@ -138,16 +138,16 @@
         "「これと　これも　入れて……|　フタを閉めて……。": "Put this one here, and that one there...|Close the lid..."
     },
     "47": {
-        "「よーし……。|　今度こそ　すっごいのが　できるぞ。|　きっと……。": "Okay... I'm going to get a great one... It's|gonna be..."
+        "「よーし……。|　今度こそ　すっごいのが　できるぞ。|　きっと……。": "O-kay... it's gonna be great this time. I'm|sure of it..."
     },
     "48": {
-        "なんと　ごきげんなぼうしが　できた！": "Oh, my God, I made a happy hat!"
+        "なんと　ごきげんなぼうしが　できた！": "A Happy Hat was created!"
     },
     "49": {
-        "<kyodai>は|ごきげんなぼうしを　手に入れた！": "<kyodai>I've got the happy hat!"
+        "<kyodai>は|ごきげんなぼうしを　手に入れた！": "<kyodai> received the Happy Hat!"
     },
     "50": {
-        "「やったあっ！|　なんか　すっごいの　できた！": "I did it! I made something amazing!"
+        "「やったあっ！|　なんか　すっごいの　できた！": "Yes, I did it! I really made something|amazing!"
     },
     "51": {
         "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>": "<if_woman>Hey, Sis?<else>Oh, brother?<endif>"
