@@ -1392,7 +1392,7 @@
         "お買い上げ　ありがとうございました。|どうぐかばんの中に　商品を|いれましたので　ご確認ください。|<end>": "Thank you for your purchase!|The items have been placed in your bag.|<end>"
     },
     "465": {
-        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "I've accepted your offer! <%nL_HOUR>Please|note that if no buyer is found in the next|few hours, the item will be returned to you|<br>|by mail.<bw_break>"
+        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "Listing accepted! Please note that if no buyer|is found within <%dL_HOUR> hours, your item will be|returned to you by mail.|<bw_break>"
     },
     "466": {
         "「変更を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<br>|「他に値段を変えたい物は　ございますか？|<break>": "I've accepted the change! <%nL_HOUR> Please|note that if no buyer is found in the next|few hours, the item will be returned to you|<br>|by mail... Do you have any other items you|would like to change the price of?<break>"
