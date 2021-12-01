@@ -120,7 +120,7 @@
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
     },
     "41": {
-        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to receive a letter from this|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "42": {
         "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
@@ -333,7 +333,7 @@
         "<pc>は　郵便ポストから|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox with|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
     },
     "112": {
-        "<%sL_SENDER_NAME>さんからの手紙を|受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to receive a letter from|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "<%sL_SENDER_NAME>さんからの手紙を|受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "113": {
         "<pc>は　郵便ポストから|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
@@ -516,7 +516,7 @@
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
     },
     "173": {
-        "「この　<%sL_SENDER_NAME>さんからの|　おてまみを　うけとりましゅか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Did you receive this message from|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "「この　<%sL_SENDER_NAME>さんからの|　おてまみを　うけとりましゅか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "174": {
         "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
@@ -1077,7 +1077,7 @@
         "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "If you use the \"Sales Receipt\" function, you|can receive all the proceeds from the|Traveler's Bazaar at once! However, you will|<br>|only receive the proceeds... If your item is|returned after the time limit has expired,|you will be able to receive it from the|<br>|\"Receiving...<bw_break>"
     },
     "360": {
-        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to receive a letter from this|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "361": {
         "「大変　申し訳ありません。|　何人か　フレンドを|　探すのに　失敗してしまいました……。|<break>": "I'm so sorry... I've failed to find some of|your friends...<break>"
@@ -1560,10 +1560,10 @@
         "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができますっ！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけますっ！|<bw_break>": "If you use the \"Sales Receipt\" function, you|can receive all the proceeds from the|Traveler's Bazaar at once! However, you will|<br>|only receive the proceeds... You can also|receive items that have been returned because|the time has expired!|<br><bw_break>"
     },
     "521": {
-        "「この　<%sL_SENDER_NAME>からの手紙を|　受け取るか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to receive a letter from this|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "「この　<%sL_SENDER_NAME>からの手紙を|　受け取るか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "522": {
-        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to receive a letter from this|<%sL_SENDER_NAME>?|<select_se_off>|receive|resign|<select_end><break>"
+        "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "523": {
         "「……どうやら|　何人か　フレンドを|　探すのに　失敗したようだ……。|<break>": "... Apparently, some of you have failed to|find your friends...<break>"
