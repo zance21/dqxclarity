@@ -123,7 +123,7 @@
         "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "42": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%nL_KOUKA_NUM> <%sL_ITEM_NAME><%sL_PLUS>|from the mailbox!|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "43": {
         "「おや　<%sL_STORAGE>が　いっぱいで|　持ち切れないようですね。|<bw_break>": "Oh, it looks like <%sL_STORAGE>|is too full to hold...<bw_break>"
@@ -327,7 +327,7 @@
         "「ありがとうございました！|　またのご利用を　お待ちしています！|<end>": "Thank you very much! We look forward to|serving you again!<end>"
     },
     "110": {
-        "<pc>は　郵便ポストから|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便ポストから|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!|<end>"
     },
     "111": {
         "<pc>は　郵便ポストから|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox with|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
@@ -336,7 +336,7 @@
         "<%sL_SENDER_NAME>さんからの手紙を|受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "113": {
-        "<pc>は　郵便ポストから|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便ポストから|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!<se_nots System 7>|<end>"
     },
     "114": {
         "<%sL_STORAGE>が　いっぱいで|持ち切れません。|<bw_break>": "<%sL_STORAGE> is too full to|hold...<bw_break>"
@@ -510,7 +510,7 @@
         "「ありあとうございまちた！|　またのおこちを　おまちしてましゅ！|<end>": "Thank you very much! We're looking forward to|seeing you again!<end>"
     },
     "171": {
-        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
     },
     "172": {
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
@@ -519,7 +519,7 @@
         "「この　<%sL_SENDER_NAME>さんからの|　おてまみを　うけとりましゅか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "174": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "175": {
         "「あれ？　<%sL_STORAGE>|　いっぱいみたいでしゅね。|<bw_break>": "Huh? <%sL_STORAGE> Looks like|it's full...<bw_break>"
@@ -753,7 +753,7 @@
         "旅人バザーから　売上金が　届いている。|<break>": "The proceeds from the Traveler's Bazaar have|arrived...<break>"
     },
     "252": {
-        "<se_nots System 7>|<pc>は　郵便ポストから　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has received <%nL_ALL_SALES> gold|from the mailbox!<end>"
+        "<se_nots System 7>|<pc>は　郵便ポストから　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> received <%dL_ALL_SALES> Gold from|the mailbox!|<end>"
     },
     "253": {
         "「あれ？　ごめんなしゃい。|　うりあげきん　すこし　わたせましぇんでちた。|　『うけとる』から　うけとってくだしゃい！|<end>": "Huh? Sorry... I can't give you any more|money... Please take it from \"Take it\"!<end>"
@@ -975,10 +975,10 @@
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
     },
     "326": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "327": {
-        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
     },
     "328": {
         "「以上で　すべて　お受け取りいただきました。|　ありがとうございました。|<bw_break>": "That's all for now. Thank you...<bw_break>"
@@ -1356,16 +1356,16 @@
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
     },
     "453": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "454": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%sL_ITEM_NAME><%sL_PLUS><%dL_KOUKA_NUM>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "455": {
-        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
     },
     "456": {
-        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
     },
     "457": {
         "「ふん。これで|　すべて　受け取ったようだな。|<bw_break>": "Hmm. Now that I've received everything...<bw_break>"
