@@ -600,7 +600,7 @@
         "「……ああっ　その商品は　タッチの差で|　他の人に　売れてしまったようです。|　こういうこともございます。申し訳ありません。|<bw_break>": "... Oh, that item was sold to someone else by|the skin of its teeth... This can happen...|I'm sorry...<bw_break>"
     },
     "201": {
-        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "We're sorry, but|<%sL_URITAI_ITEM><%sL_PLUSNUM> is not|available for display... Please choose a|<br>|different item...<break>"
+        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
     },
     "202": {
         "「……あら？|　うまく　出品できなかったようです。|<br>|「申し訳ありませんが　少し時間を置いてから|　また　試していただけますか。|<bw_break>": "... What? I couldn't get it to come up. I'm|sorry, but if you could give it some time and|try again...<bw_break>"
@@ -1428,13 +1428,13 @@
         "その数を　選ぶことはできません。|<bw_break>": "You can't choose that number.<bw_break>"
     },
     "477": {
-        "旅人バザーが　混んでいるようで|商品が　うまく探せなかったようです。|<br>|申し訳ありませんが　少し時間を置いてから|また　お試しください。|<bw_break>": "The traveller's bazaar was so crowded, I|couldn't find the right item... I'm sorry,|but you'll have to wait a little while before|<br>|you can try again.<bw_break>"
+        "旅人バザーが　混んでいるようで|商品が　うまく探せなかったようです。|<br>|申し訳ありませんが　少し時間を置いてから|また　お試しください。|<bw_break>": "The Traveler's Bazaar seems to be very busy,|so I'm not able to find any items for you|right now.|<br>|Please wait a little while and try again.|<bw_break>"
     },
     "478": {
-        "申し訳ありませんが|お金が　足りないようです。|他の品物を　お選びください。|<bw_break>": "I'm sorry, but we don't have enough money...|I'm sure we can find something else for you.<bw_break>"
+        "申し訳ありませんが|お金が　足りないようです。|他の品物を　お選びください。|<bw_break>": "I'm sorry, but you don't have enough money.|Please choose a different item.<bw_break>"
     },
     "479": {
-        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "We're sorry, but|<%sL_URITAI_ITEM><%sL_PLUSNUM> is not|available for display... Please choose a|<br>|different item...<break>"
+        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
     },
     "480": {
         "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it was locked by a customer. Please|unlock it before you bring it in. Do you have|<br>|any other items you'd like to sell?<break>"
