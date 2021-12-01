@@ -966,7 +966,7 @@
         "「いくつ　出品するんだい？|<break>": "How many do you have on display?<break>"
     },
     "323": {
-        "「いくつ　出品しますか？|<break>": "How many do you want to show?<break>"
+        "「いくつ　出品しますか？|<break>": "How many do you want to list?<break>"
     },
     "324": {
         "「いくつ　出品いたしましょうか？|<break>": "How many do you want me to put up?<break>"
@@ -990,7 +990,7 @@
         "「<%sL_URITAI_ITEM>を|　いくつ　出品するんだい？|<break>": "How many <%sL_URITAI_ITEM> are you going to|list?<break>"
     },
     "331": {
-        "「<%sL_URITAI_ITEM>を|　いくつ　出品しますか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
+        "「<%sL_URITAI_ITEM>を|　いくつ　出品しますか？|<break>": "How many <%sL_URITAI_ITEM> do you|want to list?|<break>"
     },
     "332": {
         "「<%sL_URITAI_ITEM>を|　いくつ　出品いたしましょうか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
@@ -1959,10 +1959,10 @@
         "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "654": {
-        "「いくつ　出品しますか？|<break>": "How many do you want to show?<break>"
+        "「いくつ　出品しますか？|<break>": "How many do you want to list?<break>"
     },
     "655": {
-        "「<%sL_URITAI_ITEM>を|　いくつ　出品しますか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
+        "「<%sL_URITAI_ITEM>を|　いくつ　出品しますか？|<break>": "How many <%sL_URITAI_ITEM> do you|want to list?|<break>"
     },
     "656": {
         "「<%sL_URITAI_ITEM>ですか！|　それは　今　ここでは売られていない品ですね。|　いくつ　出品しますか？|<break>": "<%sL_URITAI_ITEM>? That's an item that's not|for sale here right now... How many do you|want to sell?<break>"
