@@ -795,7 +795,7 @@
         "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM> for <%nL_URUKAZU>... That's|a hard-to-find, valuable item. Are you sure|you want to do this?<yesno><break>"
     },
     "266": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... An item not|currently for sale here... How much would you|like to list it for?<break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? There aren't|any other of that item currently listed for|sale. How much do you want to list it for?|<break>"
     },
     "267": {
         "「<%sL_URITAI_ITEM>　おひとつですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM> One... How much would you|like to sell it for?<break>"
@@ -1329,10 +1329,10 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM> is currently|listed at <%'dL_URITAI_PRICE> Gold. How much|would you like to change it to?<break>"
     },
     "444": {
-        "「申し訳ありませんが　その金額では|　受け付けられません。|　正しい出品金額を　入力してください。|<break>": "I'm sorry, sir, but we can't accept that|amount... Please enter the correct listing|price...<break>"
+        "「申し訳ありませんが　その金額では|　受け付けられません。|　正しい出品金額を　入力してください。|<break>": "I'm sorry, <if_woman>ma'am<else>sir<endif>, but I can't accept that|amount. Please enter a valid listing price.|<break>"
     },
     "445": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... An item not|currently for sale here... How much would you|like to list it for?<break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? There aren't|any other of that item currently listed for|sale. How much do you want to list it for?|<break>"
     },
     "446": {
         "「<%sL_URITAI_ITEM>　おひとつですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM> One... How much would you|like to sell it for?<break>"
