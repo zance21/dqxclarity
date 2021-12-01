@@ -951,7 +951,7 @@
         "「ありがとうございます！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": "Thank you! Do you want to learn the recipe|here?<yesno 2><break>"
     },
     "318": {
-        "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM> gesture, is that correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "319": {
         "「お買い上げ　ありがとうございます。|　すぐに　レシピを覚えていかれますか？|<yesno 2><break>": "Thank you for your purchase... Do you think|you'll be able to remember the recipe soon?<yesno 2><break>"
@@ -1953,10 +1953,10 @@
         "「……あれ？　<pc>さんの　知り合いを|　一部しか　探せなかったようです。|<break>": "... Huh?<pc> I've only been able to track down a few of|your acquaintances, so...<break>"
     },
     "652": {
-        "「ありがとうございますっ！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": "Thank you so much! Do you want to learn the|recipe here?<yesno 2><break>"
+        "「ありがとうございますっ！|　ここで　レシピを覚えていきますか？|<yesno 2><break>": "Thank you so much! Would you like to learn|the recipe right now<|<yesno 2><break>"
     },
     "653": {
-        "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM> gesture, is that correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>の　しぐさは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "654": {
         "「いくつ　出品しますか？|<break>": "How many do you want to show?<break>"
