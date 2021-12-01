@@ -1326,7 +1326,7 @@
         "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "443": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM> is currently|listed at <%'nL_URITAI_PRICE> Gold, how much|would you like to change it to?<break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM> is currently|listed at <%'dL_URITAI_PRICE> Gold. How much|would you like to change it to?<break>"
     },
     "444": {
         "「申し訳ありませんが　その金額では|　受け付けられません。|　正しい出品金額を　入力してください。|<break>": "I'm sorry, sir, but we can't accept that|amount... Please enter the correct listing|price...<break>"
