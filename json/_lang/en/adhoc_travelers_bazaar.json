@@ -1089,7 +1089,7 @@
         "「おや　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　ありますね。|　料理は　新品でなければ出品できませんよ。|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh, that <%sL_URITAI_ITEM> has already been|used... The dish must be brand new to be|listed. Do you have any other items you'd|<br>|like to sell?<break>"
     },
     "364": {
-        "「あら　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるようですね。|　新品の料理を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM> looks like it's|already been used... Please bring me a new|dish... Do you have any other items you'd|<br>|like to display?<break>"
+        "「あら　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるようですね。|　新品の料理を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM> looks like it's|already been used. I can only sell dishes|that haven't been eaten yet.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "365": {
         "「<%sL_KAITAI_ITEM><%sL_PLUSNUM>か。|　こいつは　お客さんの釣りレベルじゃ|　まだ装備できないが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM><%sL_PLUSNU... This one's|not equipped yet at the customer's fishing|level, is that right?<yesno><break>"
@@ -1443,7 +1443,7 @@
         "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　すでに　装備された物のようですね。|　新品の装備品を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it's already been equipped. You can only|sell equipment that is deemed new.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "482": {
-        "「あら　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるようですね。|　新品の料理を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM> looks like it's|already been used... Please bring me a new|dish... Do you have any other items you'd|<br>|like to display?<break>"
+        "「あら　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるようですね。|　新品の料理を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM> looks like it's|already been used. I can only sell dishes|that haven't been eaten yet.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "483": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... That's a|hard-to-find, valuable item. Are you sure you|want to do this?<yesno><break>"
