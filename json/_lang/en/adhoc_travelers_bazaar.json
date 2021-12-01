@@ -342,7 +342,7 @@
         "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "Listing accepted! Please note that if no buyer|is found within <%dL_HOUR> hours, your item will be|returned to you by mail.|<bw_break>"
     },
     "115": {
-        "「あら？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようですね。|<bw_break>": "What? It looks like <%sL_STORAGE> is too full|to hold all the...<bw_break>"
+        "「あら？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようですね。|<bw_break>": "Huh? It seems as if <%sL_STORAGE> is too|full to hold it.|<bw_break>"
     },
     "116": {
         "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "What? What a surprise! <%sL_NOROI_ITEM> is|not coming off because of the curse!<bw_break>"
