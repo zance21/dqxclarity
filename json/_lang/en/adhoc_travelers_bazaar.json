@@ -807,10 +807,10 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それと同じ物が　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... Would you|like to see how much that same item is listed|for?<yesno><break>"
     },
     "270": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... That's a|hard-to-find, valuable item. Are you sure you|want to do this?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? That item|is pretty valuable and not easy to find. Are|you really sure?|<yesno><break>"
     },
     "271": {
-        "「<%sL_URITAI_ITEM>を　おひとつですか。|　そちらを手放すと　もう　手に入らないかも|　しれませんが　よろしいですか？|<yesno><break>": "I'd like one of those <%sL_URITAI_ITEM>... If|I give it up, I may not be able to get it|again. Is that all right with you?<yesno><break>"
+        "「<%sL_URITAI_ITEM>を　おひとつですか。|　そちらを手放すと　もう　手に入らないかも|　しれませんが　よろしいですか？|<yesno><break>": "One <%sL_URITAI_ITEM>? If you|let that go, you might never be able to get|it again. Are you sure?|<yesno><break>"
     },
     "272": {
         "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM> for <%nL_URUKAZU>... That's|a hard-to-find, valuable item. Are you sure|you want to do this?<yesno><break>"
@@ -1446,7 +1446,7 @@
         "「あら　その　<%sL_URITAI_ITEM>は|　すでに使われたことが　あるようですね。|　新品の料理を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM> looks like it's|already been used. I can only sell dishes|that haven't been eaten yet.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "483": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... That's a|hard-to-find, valuable item. Are you sure you|want to do this?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか。|　それは　手に入りづらい　貴重な物ですが|　本当に　よろしいのですか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>? That item|is pretty valuable and not easy to find. Are|you really sure?|<yesno><break>"
     },
     "484": {
         "「<%sL_URITAI_ITEM>を　おひとつですか。|　そちらを手放すと　もう　手に入らないかも|　しれませんが　よろしいですか？|<yesno><break>": "I'd like one of those <%sL_URITAI_ITEM>... If|I give it up, I may not be able to get it|again.<yesno><break>"
