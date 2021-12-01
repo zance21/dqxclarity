@@ -114,7 +114,7 @@
         "「ありがとうございました！|　またのご利用を　お待ちしています！|<end>": "Thank you very much! We look forward to|serving you again!<end>"
     },
     "39": {
-        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> has received <%nL_SEND_GOLD> gold|from the mailbox!<end>"
+        "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
     },
     "40": {
         "<pc>は　郵便箱から|<%sL_SENDER_NAME>の手紙を　受け取った！<se_nots System 7>|<end>": "<pc>  got a letter from the mailbox for|<%sL_SENDER_NAME>!|<se_nots System 7>|<end>"
@@ -123,7 +123,7 @@
         "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
     },
     "42": {
-        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc>  has received <%sL_ITEM_NAME><%sL_|PLUS><%nL_KOUKA_NUM>|from the mailbox!|<br>|<se_nots System 7>|<end>"
+        "<pc>は　郵便箱から|<%sL_ITEM_NAME><%sL_PLUS><%nL_KOUKA_NUM>を　受け取った！<se_nots System 7>|<end>": "<pc> received <%nL_KOUKA_NUM> <%sL_ITEM_NAME><%sL_PLUS>|from the mailbox!|<se_nots System 7>|<end>"
     },
     "43": {
         "「おや　<%sL_STORAGE>が　いっぱいで|　持ち切れないようですね。|<bw_break>": "Oh, it looks like <%sL_STORAGE>|is too full to hold...<bw_break>"
