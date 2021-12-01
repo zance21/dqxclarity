@@ -996,7 +996,7 @@
         "「<%sL_URITAI_ITEM>を|　いくつ　出品いたしましょうか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
     },
     "333": {
-        "「<%sL_URITAI_ITEM>か。|　そいつは　今　うちでは売ってない品だな。|　いくつ　出品するんだ？|<break>": "<%sL_URITAI_ITE... That's not for sale right|now. How many do you have for sale?<break>"
+        "「<%sL_URITAI_ITEM>か。|　そいつは　今　うちでは売ってない品だな。|　いくつ　出品するんだ？|<break>": "<%sL_URITAI_ITEM>? There aren't any|others currently listed right now. How much|do you want to list it for?|<break>"
     },
     "334": {
         "「<%sL_URITAI_ITEM>　ひとつか。|　そいつは　今　うちでは売ってない品だな。|　いくらで　出品するんだ？|<break>": "<%sL_URITAI_ITEM> Hi... That's not for sale|right now. How much do you want for it?<break>"
