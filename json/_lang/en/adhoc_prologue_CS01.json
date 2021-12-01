@@ -504,7 +504,7 @@
         "「そ　それは……！": "No, that's...!"
     },
     "169": {
-        "「よくぞ　見つけてくださいました！|　これさえあれば　村を……|　滅びの運命から　救えるかもしれません！": "I'm so glad you found it! With this, we may|save our village... Could be saved from|certain doom!"
+        "「よくぞ　見つけてくださいました！|　これさえあれば　村を……|　滅びの運命から　救えるかもしれません！": "Great work! With this, we might be able to|save the village from destruction!"
     },
     "170": {
         "「よかった。|　おいらも　役に立てたんだね！": "Hey... I'm glad I could be of service!"
@@ -513,7 +513,7 @@
         "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。姉ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。兄ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Sis, thank you for bringing me|here!<else>I'm sure it was my duty to find the tens|flower here... Thank you, brother, for|bringing me here!<endif>"
     },
     "172": {
-        "シンイは|テンスの花を　手に入れた！<me 60>": "Xinyi got the Tens flower!<me 60>"
+        "シンイは|テンスの花を　手に入れた！<me 60>": "Shini received the Tens Flower!<me 60>"
     },
     "173": {
         "「さあ　この花を|　おばあさまに　届けなくては！|　急ぎましょう！": "Come on, we've got to get these flowers to|Grandmother! We must hurry!"
