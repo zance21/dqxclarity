@@ -243,7 +243,7 @@
         "「お買い上げ　ありがとうございます！|<bw_break>": "Thank you for your purchase!<bw_break>"
     },
     "82": {
-        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "I've accepted your offer! <%nL_HOUR>Please|note that if no buyer is found in the next|few hours, the item will be returned to you|<br>|by mail.<bw_break>"
+        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "Listing accepted! Please note that if no buyer|is found within <%dL_HOUR> hours, your item will be|returned to you by mail.|<bw_break>"
     },
     "83": {
         "「おや？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようですね。|<bw_break>": "Hmm? It looks like <%sL_STORAGE> is too full|to hold...<bw_break>"
@@ -327,7 +327,7 @@
         "「他に出品したい物は　ございますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
     },
     "110": {
-        "「あと<%nL_SYUPPIN>品　出品できますが|　他にも　出品したい物は　ございますか？|<break>": "Also, I'm ready to sell, but do you have any|other items you'd like to sell?<break>"
+        "「あと<%nL_SYUPPIN>品　出品できますが|　他にも　出品したい物は　ございますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|Is there anything else you'd like to sell?|<break>"
     },
     "111": {
         "<select_se_off>|みぎて|ひだりて|<select_end><break>": "<select_se_off>|Right Hand|Left Hand|<select_end><break>"
@@ -339,7 +339,7 @@
         "「ありがとうございました。|　では　こちらをどうぞ。|<bw_break>": "Thank you very much. Here you go.|<bw_break>"
     },
     "114": {
-        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "I've accepted your offer! <%nL_HOUR>Please|note that if no buyer is found in the next|few hours, the item will be returned to you|<br>|by mail.<bw_break>"
+        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "Listing accepted! Please note that if no buyer|is found within <%dL_HOUR> hours, your item will be|returned to you by mail.|<bw_break>"
     },
     "115": {
         "「あら？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようですね。|<bw_break>": "What? It looks like <%sL_STORAGE> is too full|to hold all the...<bw_break>"
@@ -1869,7 +1869,7 @@
         "「<%'nL_URITAI_PRICE>ゴールドですねっ！|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'nL_URITAI_PRICE>That's gold! If it sells,|I'll send you <%'nL_TORIBUN>gold in the mail,|if that's okay.<yesno><break>"
     },
     "624": {
-        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "I've accepted your offer! <%nL_HOUR>Please|note that if no buyer is found in the next|few hours, the item will be returned to you|<br>|by mail.<bw_break>"
+        "「出品を　受け付けました！　<%nL_HOUR>時間たっても|　買い手が見つからない時にも　郵便で|　商品を　お返ししますので　ご了承ください。|<bw_break>": "Listing accepted! Please note that if no buyer|is found within <%dL_HOUR> hours, your item will be|returned to you by mail.|<bw_break>"
     },
     "625": {
         "「……あれっ？　どうやら|　うまく　出品できなかったみたいです。|<br>|「すみませんが　少し時間を置いてから|　試してみてください！|<bw_break>": "... Huh? It looks like the listing didn't|work... I'm sorry, but you'll have to wait a|little while before you can try again.<bw_break>"
