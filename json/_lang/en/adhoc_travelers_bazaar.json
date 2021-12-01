@@ -408,7 +408,7 @@
         "「じゃ　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品するんだ？|<break>": "So how much would you list|<%sL_URITAI_ITEM><%sL_PLUSNUM> for?<break>"
     },
     "137": {
-        "「<%'nL_URITAI_PRICE>ゴールドだな。|　売れたら　<%'nL_TORIBUN>ゴールドを|　郵便で　送るぜ。いいかい？|<yesno><break>": "<%'nL_URITAI_PRICE>Goal... And if you sell|it, I'll send you some <%'nL_TORIBUN> gold in|the mail... Okay?<yesno><break>"
+        "「<%'nL_URITAI_PRICE>ゴールドだな。|　売れたら　<%'nL_TORIBUN>ゴールドを|　郵便で　送るぜ。いいかい？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. That okay with you?<yesno><break>"
     },
     "138": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか　見るかね？|<yesno><break>": "Do you want to see how much the same item is|listed for as <%sL_URITAI_ITEM><%sL_PLUSNUM>?<yesno><break>"
@@ -465,7 +465,7 @@
         "「じゃ　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品するんだい？|<break>": "So how much would you list|<%sL_URITAI_ITEM><%sL_PLUSNUM> for?<break>"
     },
     "156": {
-        "「<%'nL_URITAI_PRICE>ゴールドだね。|　売れたら　<%'nL_TORIBUN>ゴールドを|　郵便で　送るけど　いいかい？|<yesno><break>": "<%'nL_URITAI_PRICE>Goal... I'll send you|<%'nL_TORIBUN> gold in the mail when it|sells, okay?<yesno><break>"
+        "「<%'nL_URITAI_PRICE>ゴールドだね。|　売れたら　<%'nL_TORIBUN>ゴールドを|　郵便で　送るけど　いいかい？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. That okay with you?<yesno><break>"
     },
     "157": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか　見るかい？|<yesno><break>": "Do you want to see how much I'm offering for|the same item as|<%sL_URITAI_ITEM><%sL_PLUSNUM>?<yesno><break>"
@@ -522,7 +522,7 @@
         "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品しますか？|<break>": "So how much do you want to sell|<%sL_URITAI_ITEM><%sL_PLUSNUM> for?<break>"
     },
     "175": {
-        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'nL_URITAI_PRICE>Gold... I'll send you|<%'nL_TORIBUN> gold in the mail when it's|sold, if that's okay with you.<yesno><break>"
+        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "176": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
@@ -579,7 +579,7 @@
         "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品いたしましょうか？|<break>": "So how much do you want for|<%sL_URITAI_ITEM><%sL_PLUSNUM>?<break>"
     },
     "194": {
-        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'nL_URITAI_PRICE>Gold... I'll send you|<%'nL_TORIBUN> gold in the mail when it's|sold, if that's okay with you.<yesno><break>"
+        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "195": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
@@ -1323,7 +1323,7 @@
         "「では　<%sL_URITAI_ITEM><%sL_PLUSNUM>を|　いくらで　出品いたしましょうか？|<break>": "So how much do you want for|<%sL_URITAI_ITEM><%sL_PLUSNUM>?<break>"
     },
     "442": {
-        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'nL_URITAI_PRICE>Gold... I'll send you|<%'nL_TORIBUN> gold in the mail when it's|sold, if that's okay with you.<yesno><break>"
+        "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "443": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM> is currently|listed at <%'nL_URITAI_PRICE> Gold, how much|would you like to change it to?<break>"
