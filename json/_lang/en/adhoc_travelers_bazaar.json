@@ -345,7 +345,7 @@
         "「あら？　<%sL_STORAGE>が　いっぱいで|　持ちきれないようですね。|<bw_break>": "Huh? It seems as if <%sL_STORAGE> is too|full to hold it.|<bw_break>"
     },
     "116": {
-        "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "What? What a surprise! <%sL_NOROI_ITEM> is|not coming off because of the curse!<bw_break>"
+        "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "W-what's this now? <%sL_NOROI_ITEM>|can't be removed because it's cursed!|<bw_break>"
     },
     "117": {
         "「お客さま　申し訳ありませんが|　出品いただけそうな物を|　何も　お持ちでないようですね。|<bw_break>": "Sir, I'm sorry, but you don't seem to have|anything that could be exhibited...<bw_break>"
@@ -1410,7 +1410,7 @@
         "その商品は　タッチの差で|他の人に　買われてしまったようです。|こういうこともございます。申し訳ありません。|<bw_break>": "That item was bought by someone else by a|hair's breadth... This can happen... I'm|sorry...<bw_break>"
     },
     "471": {
-        "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "What? What a surprise! <%sL_NOROI_ITEM> is|not coming off because of the curse!<bw_break>"
+        "「なっ　なんということでしょうか！|　<%sL_NOROI_ITEM>は　呪いのせいで|　はずれないじゃありませんか！|<bw_break>": "W-what's this now? <%sL_NOROI_ITEM>|can't be removed because it's cursed!|<bw_break>"
     },
     "472": {
         "「申し訳ありません　お客さま。|　<%sL_STORAGE>が　いっぱいですので|　出品を取りやめられません。|<br>|「持ち物を　整理してから|　また　お越しいただけますか。|<bw_break>": "I'm sorry, but... <%sL_STORAGE> is full, so|I'm afraid I can't sell any more. If you|could come back later and sort through your|<br>|things...<bw_break>"
