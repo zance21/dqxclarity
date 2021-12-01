@@ -1065,7 +1065,7 @@
         "「おや　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さんが　ロックされた物ですね。|　装備品は　ロックされてると出品できませんよ。|<br>|「他に　出品したい物は　ありますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> was|locked by a customer... You can't sell|equipment if it's locked... Is there anything|<br>|else you'd like to put up for sale?<break>"
     },
     "356": {
-        "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it was locked by a customer. Please|unlock it before you bring it in. Do you have|<br>|any other items you'd like to sell?<break>"
+        "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, it seems your <%sL_URITAI_ITEM><%sL_PLUSNUM>|is currently locked. Please unlock it before|trying to put it up for sale.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "357": {
         "「<%sL_KAITAI_ITEM>は|　もう　読んだことがあるようだが　いいのかね？|<yesno><break>": "I see you've already read <%sL_KAITAI_ITEM>,|is that okay?<yesno><break>"
@@ -1437,7 +1437,7 @@
         "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
     },
     "480": {
-        "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it was locked by a customer. Please|unlock it before you bring it in. Do you have|<br>|any other items you'd like to sell?<break>"
+        "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, it seems your <%sL_URITAI_ITEM><%sL_PLUSNUM>|is currently locked. Please unlock it before|trying to put it up for sale.|<br>|Is there anything else you'd like to sell?|<break>"
     },
     "481": {
         "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　すでに　装備された物のようですね。|　新品の装備品を　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, that <%sL_URITAI_ITEM><%sL_PLUSNUM> looks|like it's already been equipped... You'll|need to bring new equipment. Do you have any|<br>|other items you'd like to sell?<break>"
