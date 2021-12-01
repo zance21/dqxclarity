@@ -1701,13 +1701,13 @@
         "「おっと　検索結果は|　ないみたいだな。|<bw_break>": "Oops, I didn't see any results...<bw_break>"
     },
     "568": {
-        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "What? I don't see any results...<bw_break>"
+        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "Huh? I didn't get any results from your|search.|<bw_break>"
     },
     "569": {
-        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "What? I don't see any results...<bw_break>"
+        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "Huh? I didn't get any results from your|search.|<bw_break>"
     },
     "570": {
-        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "What? I don't see any results...<bw_break>"
+        "「あら？　検索結果は|　ないみたいですね。|<bw_break>": "Huh? I didn't get any results from your|search.|<bw_break>"
     },
     "571": {
         "<select_se_off>|買いにきた|出品しにきた|値段をつけ直す|出品を取りやめる|説明を聞く|<select_end><break>": "<select_se_off>|Buy|Sell|Change Price|Cancel Listing|Explanation|<select_end><break>"
@@ -2049,7 +2049,7 @@
         "「<%'nL_URITAI_PRICE2>ゴールドですねっ。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'nL_URITAI_PRICE2>Gold... If sold, I'll|send you <%'nL_TORIBUN> gold in the mail, if|that's okay.<yesno><break>"
     },
     "684": {
-        "「あれっ？　検索結果は|　ないみたいですね。|<bw_break>": "What? I don't see any results...<bw_break>"
+        "「あれっ？　検索結果は|　ないみたいですね。|<bw_break>": "Huh? I didn't get any results from your|search.<bw_break>"
     },
     "685": {
         "「おや？　職人レシピメモに|　記録がされていないみたいだね。|<bw_break>": "Hm? You don't seem to have any recipes|recorded at the moment.|<bw_break>"
