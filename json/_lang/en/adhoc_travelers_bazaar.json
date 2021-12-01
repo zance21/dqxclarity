@@ -1350,7 +1350,7 @@
         "「<%sL_URITAI_ITEM>　<%nL_URUKAZU>個ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>? How much|would you like to list it for?|<break>"
     },
     "451": {
-        "「<%sL_URITAI_ITEM>　<%nL_URUKAZU>個は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%sL_URITAI_ITEM> <%nL_URUKAZU> is currently|listed at <%'nL_URITAI_PRICE> Gold, how much|would you like to change it to?<break>"
+        "「<%sL_URITAI_ITEM>　<%nL_URUKAZU>個は|　ただいま　<%'nL_URITAI_PRICE>ゴールドで|　出品されていますが　いくらに変更しますか？|<break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM> is currently|listed at <%'dL_URITAI_PRICE> Gold. How much|would you like to change it to?<break>"
     },
     "452": {
         "「では　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品いたしましょうか？|<break>": "How much do you want to sell|<%sL_URITAI_ITEM> <%nL_URUKAZU>?<break>"
