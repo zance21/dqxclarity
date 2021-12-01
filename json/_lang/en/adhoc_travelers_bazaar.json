@@ -837,7 +837,7 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "280": {
-        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>.|Is that fine?|<yesno><break>"
     },
     "281": {
         "「何について　聞きたいんだ？|<break>": "What would you like me to explain?|<break>"
