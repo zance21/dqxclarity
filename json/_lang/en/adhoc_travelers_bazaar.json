@@ -819,22 +819,22 @@
         "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えてるようだが　いいのかね？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "274": {
-        "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITE... This is a recipe that can|only be made with <%sL_SYOKUNIN>, is that|right?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>か。|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだが　いいんだな？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>.|Is that okay?|<yesno><break>"
     },
     "275": {
-        "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>のレシピは|　もう　覚えているようだけど　いいのかい？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?|<yesno><break>"
     },
     "276": {
-        "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけど　いいかい？|<yesno><break>": "<%sL_KAITAI_ITEM>, right? This is a recipe|that can only be made with <%sL_SYOKUNIN>,|okay?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>だね？|　これは　<%sL_SYOKUNIN>じゃないと|　作れないレシピだけど　いいかい？|<yesno><break>": "<%sL_KAITAI_ITEM>, was it? It's a|recipe that can only be made with|<%sL_SYOKUNIN>. Is that okay?|<yesno><break>"
     },
     "277": {
-        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>, is that correct?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えているようですが|　よろしいですか？|<yesno><break>": "I see you've already memorized the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "278": {
-        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? It's a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
     },
     "279": {
-        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
+        "「<%sL_KAITAI_ITEM>のレシピは|　すでに　覚えていらっしゃるようですが|　よろしいですか？|<yesno><break>": "You've already learned the recipe for|<%sL_KAITAI_ITEM>. Is that okay?<yesno><break>"
     },
     "280": {
         "「<%sL_KAITAI_ITEM>ですね。|　こちらは　<%sL_SYOKUNIN>でなければ|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>? This is a recipe that|can only be made with <%sL_SYOKUNIN>, is that|fine?<yesno><break>"
