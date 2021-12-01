@@ -582,7 +582,7 @@
         "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "195": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much other listings|of <%sL_URITAI_ITEM><%sL_PLUSNUM> are listed for?<yesno><break>"
     },
     "196": {
         "「では　確かに　お返しいたしました。|<bw_break>": "Well, I'll certainly return the money.<bw_break>"
@@ -1356,7 +1356,7 @@
         "「では　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品いたしましょうか？|<break>": "Then, how much do you want to sell the|<%dL_URUKAZU> <%sL_URITAI_ITEM> for?|<break>"
     },
     "453": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much other listings|of <%sL_URITAI_ITEM><%sL_PLUSNUM> are listed for?<yesno><break>"
     },
     "454": {
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それと同じ物が　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... Would you|like to see how much that same item is listed|for?<yesno><break>"
