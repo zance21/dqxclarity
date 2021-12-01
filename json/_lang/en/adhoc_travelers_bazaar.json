@@ -879,13 +879,13 @@
         "「じゃ　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品するんだ？|<break>": "How much would you like to list one|<%sL_URITAI_ITEM> for?|<break>"
     },
     "294": {
-        "「じゃ　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品するんだ？|<break>": "So how much do you want to sell|<%sL_URITAI_ITEM> <%nL_URUKAZU> for?<break>"
+        "「じゃ　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品するんだ？|<break>": "How much do you want to list|<%dL_URUKAZU> <%sL_URITAI_ITEM> for?<break>"
     },
     "295": {
-        "「じゃ　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品するんだい？|<break>": "So how much would you charge for one|<%sL_URITAI_ITEM>?<break>"
+        "「じゃ　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品するんだい？|<break>": "So then, how much do you want to list one|<%sL_URITAI_ITEM> for?<break>"
     },
     "296": {
-        "「じゃ　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品するんだい？|<break>": "So how much do you want to sell|<%sL_URITAI_ITEM> <%nL_URUKAZU> for?<break>"
+        "「じゃ　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品するんだい？|<break>": "So then, how much do you want to list|<%dL_URUKAZU> <%sL_URITAI_ITEM> for?<break>"
     },
     "297": {
         "「では　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品しますか？|<break>": "So, how much do you want to sell|<%sL_URITAI_ITEM> one?<break>"
