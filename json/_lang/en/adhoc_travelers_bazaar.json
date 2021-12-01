@@ -852,7 +852,7 @@
         "「何の説明を　聞きたいんだい？|<break>": "What do you want me to explain?<break>"
     },
     "285": {
-        "「じゃ　旅人バザーについて説明するね。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設なんだ。|<br>|「商品リストから　ほしい商品を探してもらって|　ほしい物が見つかったら　その場で|　すぐに　買うことができるよ。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっているよ。|<br>|「商品を出品するのは　冒険者であれば|　誰でもできるんだ。|　ただし　出品できる数は８品までだよ。|<br>|「商品を出品する時には　出品料１０ゴールド。|　値段をつけ直す時には再出品料１０ゴールド。|<br>|「売れた時には　手数料として　売上金の|　５％をいただくんで　よろしくね。|<bw_break>": "Okay, let's talk about the Traveler's|Bazaar... The Traveler's Bazaar is a place|for adventurers to buy and sell items... If|<br>|you find something you want, you can buy it|right then and there... Merchandise lists are|shared across all continents and all servers.|<br>|Any adventurer can list an item... But you|can only sell 8 items... There's a 10-goal|fee to list an item. When you reprice an|<br>|item, it costs 10 gos to re-list it. When an|item sells, we get 5% of the proceeds as a|commission.<bw_break>"
+        "「じゃ　旅人バザーについて説明するね。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設なんだ。|<br>|「商品リストから　ほしい商品を探してもらって|　ほしい物が見つかったら　その場で|　すぐに　買うことができるよ。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっているよ。|<br>|「商品を出品するのは　冒険者であれば|　誰でもできるんだ。|　ただし　出品できる数は８品までだよ。|<br>|「商品を出品する時には　出品料１０ゴールド。|　値段をつけ直す時には再出品料１０ゴールド。|<br>|「売れた時には　手数料として　売上金の|　５％をいただくんで　よろしくね。|<bw_break>": "I'll explain the Traveler's Bazaar. The|Traveler's Bazaar is a place where adventurers|can buy and sell items from each other.|<br>|You can search for the items that you want,|and can buy it right on the spot.|<br>|The items listed for sale is the same no|matter which continent or server you're on.|<br>|Any adventurer can sell items. However, you|can only have up to 8 items listed at a time.|<br>|Listing an item has a fee of 10 Gold. Changing|a listing's price also has the same fee.|<br>|We also take 5% of any sales made as a|commission fee.|<bw_break>"
     },
     "286": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"
@@ -861,7 +861,7 @@
         "「何について　説明しましょうか？|<break>": "What would you like me to explain?|<break>"
     },
     "288": {
-        "「では　旅人バザーについて説明します。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっています。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|　出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I will now explain the Traveler's Bazaar.|The Traveler's Bazaar is a place where|adventurers can buy and sell their wares.|<br>|If you find the listing you were looking for,|you are able to purchase it immediately.|<br>|The listings are the same for all continents|and all servers.|<br>|All adventurers are welcome to submit items|for sale. But the number of items you can|submit is limited to 8.|<br>|Listing and re-pricing an item has a 10 gold|fee.|<br>|Please also note that you will be charged|a commission of 5% of the proceeds from each|sale.|<bw_break>"
+        "「では　旅人バザーについて説明します。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっています。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|　出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I'll explain the Traveler's Bazaar. The|Traveler's Bazaar is a place where adventurers|can buy and sell items from each other.|<br>|You can search for the items that you want,|and can buy it right on the spot.|<br>|The items listed for sale is the same no|matter which continent or server you're on.|<br>|Any adventurer can sell items. However, you|can only have up to 8 items listed at a time.|<br>|Listing an item has a fee of 10 Gold. Changing|a listing's price also has the same fee.|<br>|We also take 5% of any sales made as a|commission fee.|<bw_break>"
     },
     "289": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"
@@ -870,13 +870,13 @@
         "「何について　ご説明いたしますか？|<break>": "What would you like me to explain?|<break>"
     },
     "291": {
-        "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|  出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I will now explain the Traveler's Bazaar.|The Traveler's Bazaar is a place where|adventurers can buy and sell their wares.|<br>|If you find the listing you were looking for,|you are able to purchase it immediately.|<br>|The listings are the same for all continents|and all servers.|<br>|All adventurers are welcome to submit items|for sale. But the number of items you can|submit is limited to 8.|<br>|Listing and re-pricing an item has a 10 gold|fee.|<br>|Please also note that you will be charged|a commission of 5% of the proceeds from each|sale.|<bw_break>"
+        "「では　旅人バザーについて説明いたします。|　ここ旅人バザーは　冒険者同士で|　商品の売り買いをするための施設です。|<br>|「商品リストから　ほしい商品を探していただき|　ほしい物が見つかれば　その場で|　すぐに　お買い上げいただけます。|<br>|「商品リストは　すべての大陸|　すべてのサーバーで　共通になっております。|<br>|「また　冒険者であれば　どなたでも|　商品を出品することもできます。|  出品できる数は　８品までとなっています。|<br>|「商品を出品する際には　出品料１０ゴールド。|　値段をつけ直す際には再出品料１０ゴールド。|<br>|「売れた際には　手数料として　売上金の|　５％をいただきますので　ご了承ください。|<bw_break>": "I'll explain the Traveler's Bazaar. The|Traveler's Bazaar is a place where adventurers|can buy and sell items from each other.|<br>|You can search for the items that you want,|and can buy it right on the spot.|<br>|The items listed for sale is the same no|matter which continent or server you're on.|<br>|Any adventurer can sell items. However, you|can only have up to 8 items listed at a time.|<br>|Listing an item has a fee of 10 Gold. Changing|a listing's price also has the same fee.|<br>|We also take 5% of any sales made as a|commission fee.|<bw_break>"
     },
     "292": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"
     },
     "293": {
-        "「じゃ　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品するんだ？|<break>": "So how much would you charge for one|<%sL_URITAI_ITEM>?<break>"
+        "「じゃ　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品するんだ？|<break>": "How much would you like to list one|<%sL_URITAI_ITEM> for?|<break>"
     },
     "294": {
         "「じゃ　<%sL_URITAI_ITEM>　<%nL_URUKAZU>個を|　いくらで　出品するんだ？|<break>": "So how much do you want to sell|<%sL_URITAI_ITEM> <%nL_URUKAZU> for?<break>"
