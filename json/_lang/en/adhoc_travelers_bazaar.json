@@ -525,10 +525,10 @@
         "「<%'nL_URITAI_PRICE>ゴールドですね。|　売れましたら　<%'nL_TORIBUN>ゴールド|　郵便で　お送りしますが　よろしいですか？|<yesno><break>": "<%'dL_URITAI_PRICE> Gold? If it sells,|I'll send you <%'dL_TORIBUN> Gold in|the mail. Is that okay with you?|<yesno><break>"
     },
     "176": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much other listings|of <%sL_URITAI_ITEM><%sL_PLUSNUM> are listed for?<yesno><break>"
     },
     "177": {
-        "「では　確かに　お返しいたしました。|<bw_break>": "Well, I'll certainly return the money.<bw_break>"
+        "「では　確かに　お返しいたしました。|<bw_break>": "Here, I'll return your money.<bw_break>"
     },
     "178": {
         "「……あっと！　その商品は　タッチの差で|　他の人に　買われてしまったようです。|　こういうこともあるのです。申し訳ありません。|<bw_break>": "... Aah! That item was bought by someone else|by the skin of its teeth. It happens... I'm|sorry...<bw_break>"
@@ -585,7 +585,7 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much other listings|of <%sL_URITAI_ITEM><%sL_PLUSNUM> are listed for?<yesno><break>"
     },
     "196": {
-        "「では　確かに　お返しいたしました。|<bw_break>": "Well, I'll certainly return the money.<bw_break>"
+        "「では　確かに　お返しいたしました。|<bw_break>": "Here, I'll return your money.<bw_break>"
     },
     "197": {
         "「……ああっ　その商品は　タッチの差で|　他の人に　買われてしまったようです。|　こういうこともございます。申し訳ありません。|<bw_break>": "... Oh, that item was bought by someone else|by the skin of its teeth... It happens... I'm|sorry...<bw_break>"
@@ -1386,7 +1386,7 @@
         "<speed=0><pc>は|<%sL_KAITAI_ITEM><%sL_PLUSNUM>を　装備した！|<end>": "<speed=0><pc> equipped the|<%sL_KAITAI_ITEM><%sL_PLUSNUM>!|<end>"
     },
     "463": {
-        "「では　確かに　お返しいたしました。|<bw_break>": "Well, I'll certainly return the money.<bw_break>"
+        "「では　確かに　お返しいたしました。|<bw_break>": "Here, I'll return your money.<bw_break>"
     },
     "464": {
         "お買い上げ　ありがとうございました。|どうぐかばんの中に　商品を|いれましたので　ご確認ください。|<end>": "Thank you for your purchase!|The items have been placed in your bag.|<end>"
@@ -1848,7 +1848,7 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それと同じ物が　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "<%sL_URITAI_ITEM><%sL_PLUSNUM>... Would you|like to see how much that same item is listed|for?<yesno><break>"
     },
     "617": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much the same item|<%sL_URITAI_ITEM><%sL_PLUSNUM> is listed for?<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>と　同じ物が|　いくらで出品されているか|　ご覧になりますか？|<yesno><break>": "Would you like to see how much other listings|of <%sL_URITAI_ITEM><%sL_PLUSNUM> are listed for?<yesno><break>"
     },
     "618": {
         "「あっ　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですか！|　それは　今　ここでは売られていない品ですね。|　いくらで　出品しますか？|<break>": "Oh, <%sL_URITAI_ITEM><%sL_PLUSNUM>? That's an|item that's not for sale here right now...|How much would you like to sell it for?<break>"
@@ -1908,7 +1908,7 @@
         "「他に　出品を取りやめたい物は|　ありますか？|<break>": "Is there anything else you'd like to withdraw|from the show?<break>"
     },
     "637": {
-        "「では　確かに　お返しいたしました。|<bw_break>": "Well, I'll certainly return the money.<bw_break>"
+        "「では　確かに　お返しいたしました。|<bw_break>": "Here, I'll return your money.<bw_break>"
     },
     "638": {
         "「……あっ！　その商品は　タッチの差で|　他の人に　売れてしまったようです。|　こういうこともあるのです。申し訳ありません。|<bw_break>": "... Oh! That product was sold to someone else|by the skin of its teeth. It happens... I'm|sorry...<bw_break>"
