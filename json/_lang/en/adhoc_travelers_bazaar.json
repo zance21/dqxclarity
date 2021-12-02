@@ -294,7 +294,7 @@
         "「まだ何か　お買い上げなさいますか？|<bw_break>": "Would you still like to purchase something?<bw_break>"
     },
     "99": {
-        "「こちらは　<%sL_URINUSI>さまが|　<%'nL_BUY_PRICE>ゴールドで　出品された|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%'nL_BUY_PRICE> Gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM...|Would you like to buy it?<yesno><break>"
+        "「こちらは　<%sL_URINUSI>さまが|　<%'nL_BUY_PRICE>ゴールドで　出品された|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。購入しますか？|<yesno><break>": "This is <%sL_URINUSI>'s <%sL_KAITAI_ITEM><%sL_PLUSNUM>|listing for <%'dL_BUY_PRICE> Gold.|Would you like to purchase it?<yesno><break>"
     },
     "100": {
         "「こちらは　<%sL_URINUSI>さまが　出品された|　<%sL_KAITAI_ITEM>　おひとつですね。|　<%'nL_BUY_PRICE>ゴールドで買いますか？|<yesno><break>": "This is one of the <%sL_KAITAI_ITEM> sold by|<%sL_URINUSI>... <%'nL_BUY_PRICE> Would you|like to buy it for gold?<yesno><break>"
