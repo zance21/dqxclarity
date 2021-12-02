@@ -24492,13 +24492,13 @@
         "<%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>～": ""
     },
     "8165": {
-        "一度も|捕まらなかった": ""
+        "一度も|捕まらなかった": "Didn't get|caught once!"
     },
     "8166": {
         "最後の一人を|捕まえた": ""
     },
     "8167": {
-        "ロックを一番多く破壊した<%sM_hosoku_1>": ""
+        "ロックを一番多く破壊した<%sM_hosoku_1>": "Destroyed the|most locks! <%sM_hosoku_1>"
     },
     "8168": {
         "clarity_nt_char_8168": "clarity_nt_char_8168"
