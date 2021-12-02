@@ -2124,10 +2124,10 @@
         "「検索結果は こちらになります。|<break>": "The search results are here...<break>"
     },
     "709": {
-        "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だよ。|<br>|「すでに　レプリカになっているけど　買うかい？|<yesno 2><break>": "This is <%sL_URINUSI>'s <%'nL_BUY_PRICE> gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM...|It's already a replica, but would you buy it?<yesno 2><break>"
+        "「これは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だよ。|<br>|「すでに　レプリカになっているけど　買うかい？|<yesno 2><break>": "This is <%sL_URINUSI>'s <%sL_KAITAI_ITEM><%sL_PLUSNUM>|listing for <%'dL_BUY_PRICE> Gold.|<br>|It's already a replica, but would you still|like to buy it?|<yesno 2><break>"
     },
     "710": {
-        "「こいつは　<%sL_URINUSI>が|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だな。|<br>|「すでに　レプリカになっているが　買うかい？|<yesno 2><break>": "This is <%sL_URINUSI>'s <%'nL_BUY_PRICE> gold|listing for <%sL_KAITAI_ITEM><%sL_PLUSNUM...|It's already a replica. You want to buy it?<yesno 2><break>"
+        "「こいつは　<%sL_URINUSI>が|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>だな。|<br>|「すでに　レプリカになっているが　買うかい？|<yesno 2><break>": "This is <%sL_URINUSI>'s <%sL_KAITAI_ITEM><%sL_PLUSNUM>|listing for <%'dL_BUY_PRICE> Gold.|<br>|It's already a replica, but would you still|like to buy it?|<yesno 2><break>"
     },
     "711": {
         "「こちらは　<%sL_URINUSI>さんが|　<%'nL_BUY_PRICE>ゴールドで出品している|　<%sL_KAITAI_ITEM><%sL_PLUSNUM>です。|<br>|「すでに　レプリカになっていますが　|　購入しますか？|<yesno 2><break>": "This is <%sL_URINUSI>'s <%sL_KAITAI_ITEM><%sL_PLUSNUM>|listing for <%'dL_BUY_PRICE> Gold.|<br>|It's already a replica, but would you still|like to buy it?|<yesno 2><break>"
