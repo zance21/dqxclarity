@@ -7356,7 +7356,7 @@
         "３６時間以内に|開催のプレイヤー|イベント一覧です": "Player events|happening in the|next 36 hours."
     },
     "2453": {
-        "<speed=0>プリズランポイントを　<%dM_points>P手に入れた！|<auto_br=20000>|合計で　<%dM_total_points>Pになった！<auto_bw=60000><close>": ""
+        "<speed=0>プリズランポイントを　<%dM_points>P手に入れた！|<auto_br=20000>|合計で　<%dM_total_points>Pになった！<auto_bw=60000><close>": "<speed=0>Received <%dM_points> Jailrun Points!|<auto_br=20000>|You now have <%dM_total_points> points total!<auto_bw=60000><close>"
     },
     "2454": {
         "clarity_nt_char_2454": "clarity_nt_char_2454"
@@ -7695,7 +7695,7 @@
         "clarity_nt_char_2565": "clarity_nt_char_2565"
     },
     "2566": {
-        "<speed=0>このさそいを受けるには|風の町アズランにいる　ウヅキに話しかけて|プリズランの手引きを受ける必要が　あります。": ""
+        "<speed=0>このさそいを受けるには|風の町アズランにいる　ウヅキに話しかけて|プリズランの手引きを受ける必要が　あります。": "<speed=0>To accept this invitation, you must first|speak with Uzuki in the Wind Town Azlan."
     },
     "2567": {
         "clarity_nt_char_2567": "clarity_nt_char_2567"
@@ -8721,7 +8721,7 @@
         "clarity_nt_char_2907": "clarity_nt_char_2907"
     },
     "2908": {
-        "<speed=0>このさそいを受けるには|プクレットの村にいる　ウヅキに話しかけて|プリズランの手引きを受ける必要が　あります。": ""
+        "<speed=0>このさそいを受けるには|プクレットの村にいる　ウヅキに話しかけて|プリズランの手引きを受ける必要が　あります。": "<speed=0>To accept this invitation, you must first|speak with Uzuki in Pukulet Village."
     },
     "2909": {
         "clarity_nt_char_2909": "clarity_nt_char_2909"
