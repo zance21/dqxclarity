@@ -1476,7 +1476,7 @@
         "解放アタック！|誰も　捕まっていない！": "Liberation Attack!|No one was caught!"
     },
     "493": {
-        "解放アタック！|ロックを１つ解除した！": "Liberation Attack!|Unlocked one!"
+        "解放アタック！|ロックを１つ解除した！": "Release Attack!|Released 1 lock!"
     },
     "494": {
         "解放アタック！|仲間を解放した！": "Liberation Attack!|Released allies!"
@@ -1506,7 +1506,7 @@
         "最後のひとり|<%sB_TARGET>を捕まえた！": "You caught the|last<%sB_TARGET>!"
     },
     "503": {
-        "プリズンキーを入手！|ロックを１つ　解除した！": "Got Prison Key!|Released one lock!"
+        "プリズンキーを入手！|ロックを１つ　解除した！": "Got Prison Key!|Released 1 lock!"
     },
     "504": {
         "プリズンキーを|１つ消した！": "Removed one|Prison Key!"
