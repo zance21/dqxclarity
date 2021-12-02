@@ -2538,7 +2538,7 @@
         "\\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！ のこり<%dC_NUM>人ニャー！": ""
     },
     "847": {
-        "最後のひとり \\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！": ""
+        "最後のひとり \\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\eが 捕まったニャー！": "Last escapee \\s<%sC_TARGET>\\m<%sC_TARGET_ID>\\e was caught, meow!"
     },
     "848": {
         "clarity_nt_char_848": "clarity_nt_char_848"
