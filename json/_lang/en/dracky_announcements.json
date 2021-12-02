@@ -2553,7 +2553,7 @@
         "真夜中プリズランのさそいが時間切れになりました": "Midnight Jailrun invitation timed out."
     },
     "852": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eが プリズランのさそいを 取り消しました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eが プリズランのさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e declined the Midnight Jailrun invite."
     },
     "853": {
         "clarity_nt_char_853": "clarity_nt_char_853"
@@ -3324,7 +3324,7 @@
         "clarity_nt_char_1108": "clarity_nt_char_1108"
     },
     "1109": {
-        "真夜中プリズランに 参加しますか？": ""
+        "真夜中プリズランに 参加しますか？": "Go to Midnight Jailrun?"
     },
     "1110": {
         "<%sC_PC_LUA>から遊ぶ仲間に さそわれました！": ""
@@ -3495,7 +3495,7 @@
         "蒼怨の屍獄兵団の防衛戦の　さそいを断った。": "Necromancer Corps. invitation was declined."
     },
     "1166": {
-        "真夜中プリズランの　さそいを断った。": "Midnight Jailcat invitation was declined."
+        "真夜中プリズランの　さそいを断った。": "Midnight Jailrun invitation was declined."
     },
     "1167": {
         "clarity_nt_char_1167": "clarity_nt_char_1167"
@@ -3810,7 +3810,7 @@
         "clarity_nt_char_1270": "clarity_nt_char_1270"
     },
     "1271": {
-        "真夜中プリズランに　参加しますか？": ""
+        "真夜中プリズランに　参加しますか？": "Go to Midnight Jailrun?"
     },
     "1272": {
         "バトルに 行きますか？": ""
