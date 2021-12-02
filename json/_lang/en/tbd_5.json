@@ -2832,7 +2832,7 @@
         "clarity_nt_char_944": "clarity_nt_char_944"
     },
     "945": {
-        "<pc>は プリズランポイントを <%dM_points>P かくとく！": "<pc> received <%dM_points> Midnight Jailrun Points!"
+        "<pc>は プリズランポイントを <%dM_points>P かくとく！": "<pc> received <%dM_points> Jailrun Points!"
     },
     "946": {
         "clarity_nt_char_946": "clarity_nt_char_946"
@@ -2844,7 +2844,7 @@
         "clarity_nt_char_948": "clarity_nt_char_948"
     },
     "949": {
-        "一緒に遊ぶ仲間を選んだので プリズランポイントを かくとくできなかった。": ""
+        "一緒に遊ぶ仲間を選んだので プリズランポイントを かくとくできなかった。": "Because you played with others,|you didn't receive any Midnight Jailrun Points."
     },
     "950": {
         "clarity_nt_char_950": "clarity_nt_char_950"
@@ -2856,16 +2856,16 @@
         "clarity_nt_char_952": "clarity_nt_char_952"
     },
     "953": {
-        "<pc>は 真夜中プリズランで 勝利した！": ""
+        "<pc>は 真夜中プリズランで 勝利した！": "<pc> won Midnight Jailrun!"
     },
     "954": {
-        "<pc>は 真夜中プリズランで 敗北した。": ""
+        "<pc>は 真夜中プリズランで 敗北した。": "<pc> lost Midnight Jailrun..."
     },
     "955": {
-        "プリズランポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
+        "プリズランポイント <%dM_POINT> Pと <%sM_item> <%dM_GET_NUM>個を 交換した！": "Exchanged <%dM_POINT> Jailrun Points for|<%dM_GET_NUM> <%sM_item>!"
     },
     "956": {
-        "プリズランポイント <%dM_POINT> Pと <%sM_item>を 交換した！": ""
+        "プリズランポイント <%dM_POINT> Pと <%sM_item>を 交換した！": "Exchanged <%dM_POINT> Jailrun Points for|<%sM_item>!"
     },
     "957": {
         "clarity_nt_char_957": "clarity_nt_char_957"
