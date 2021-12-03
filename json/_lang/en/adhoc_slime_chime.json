@@ -9,7 +9,7 @@
         "自動で上書きされないように|このメッセージを　ロックしますか？|<yesno 2><break>": "Do you want to lock this message to prevent|it from being overwritten automatically?<yesno 2><break>"
     },
     "4": {
-        "メッセージは　これでいいですか？|<yesno><break>": "Is this the right message?<yesno><break>"
+        "メッセージは　これでいいですか？|<yesno><break>": "Enter this message?|<yesno><break>"
     },
     "5": {
         "このメッセージは　ロックされています。|ロックを　解除しますか？|<yesno 2><break>": "This message is locked... Do you want to|unlock it?<yesno 2><break>"
