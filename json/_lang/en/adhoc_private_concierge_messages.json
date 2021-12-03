@@ -291,7 +291,7 @@
         "「すみません！　もう少し遅いお戻りと思って|　ティータイムを　過ごしておりました！|　すぐに　片付けさせていただきます……！": "Sorry! We thought you'd be back a little|later, and we were having a tea break! I'll|be right back..."
     },
     "98": {
-        "「<%sM_OWNER><%sM_SAMA>　気付かずに　すみません！|　お戻りになっていたのですね。|　つい　お掃除に　夢中になってしまいました。": "<%sM_OWNER><%sM_SAMA>|Sorry I didn't see you there! I was just|coming back from... I've been so busy|<br>|cleaning..."
+        "「<%sM_OWNER><%sM_SAMA>　気付かずに　すみません！|　お戻りになっていたのですね。|　つい　お掃除に　夢中になってしまいました。": "<%sM_OWNER><%sM_SAMA>! Please excuse|me! It's nice to see you. I was so absorbed|into cleaning, I didn't notice you."
     },
     "99": {
         "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「新しいコンシェルジュを雇えるのは|　１日１回までです。明日まで新しい人を|　雇えませんが　本当によろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you|parted with will be lost and passed on to the|new person... You can only hire one new|<br>|concierge per day... I can't hire a new|concierge until tomorrow. Are you sure you|want to do this?|<br><yesno><break>"
