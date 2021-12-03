@@ -738,7 +738,7 @@
         "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
     },
     "247": {
-        "売上金|<%nL_ALL_SALES>ゴールドを　受け取りますか？|<yesno><break>": "Would you like to receive sales|<%nL_ALL_SALES> gold?<yesno><break>"
+        "売上金|<%nL_ALL_SALES>ゴールドを　受け取りますか？|<yesno><break>": "Would you like to receive your sales of|<%dL_ALL_SALES> Gold?|<yesno><break>"
     },
     "248": {
         "売上金の合計金額が　大きすぎて|一度に　受け取れません。|『うけとる』で　１つずつ受け取ってください。|<bw_break>": "The total amount of your sales is too large.|I can't take it all at once. I'll take them|one at a time.|<br><bw_break>"
@@ -900,7 +900,7 @@
         "「こちらが　旅人バザーより|　お預かりしている　お手紙の　一覧です。|<break>": "These are some of the letters we've been|receiving from the Traveler's Bazaar.<break>"
     },
     "301": {
-        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Together, they form the|<%nL_ALL_SALES> goal... Would you|like to receive it?|<br><yesno><break>"
+        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Altogether, your sales total <%dL_ALL_SALES>|Gold. Would you like to receive it now?|<yesno><break>"
     },
     "302": {
         "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
@@ -1209,7 +1209,7 @@
         "「以上　合わせて|　<%nL_ALL_SALES>ゴールドだ。|　受け取るのか？|<yesno><break>": "Above, together with|<%nL_ALL_SALES>go... Do you get|it?|<br><yesno><break>"
     },
     "404": {
-        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドですっ！|　お受け取りに　なられますか？|<yesno><break>": "That's it for|<%nL_ALL_SALES>Gold! Would you|like to receive it?|<br><yesno><break>"
+        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドですっ！|　お受け取りに　なられますか？|<yesno><break>": "Your total sales come to <%dL_ALL_SALES> Gold!|Would you like to receive it now?|<yesno><break>"
     },
     "405": {
         "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
