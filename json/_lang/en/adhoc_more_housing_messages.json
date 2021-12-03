@@ -57,16 +57,16 @@
         "ここは　<%sL_OWNER>の土地だ。": "This is <%sL_OWNER>'s plot."
     },
     "20": {
-        "レンダーヒルズ地区に　土地を持っているため|この土地への　引っ越しは　できません。": "You already own land in Lender Hills, so|you cannot purchase land here."
+        "レンダーヒルズ地区に　土地を持っているため|この土地への　引っ越しは　できません。": "You already own land in Lender Hills, so you|cannot purchase land here."
     },
     "21": {
-        "現在のバージョンでは|土地の販売は　おこなっていません。": "The current version of this site does not|offer land for sale..."
+        "現在のバージョンでは|土地の販売は　おこなっていません。": "Cannot sell land in the current version."
     },
     "22": {
         "ここは　<%sL_OWNER>の家だ。|<break>": "This is <%sL_OWNER>'s house.|<break>"
     },
     "23": {
-        "土地は　ひとりにつき|１か所しか　所有できません。|<bw_break>": "You can only own one piece of land per|person...<bw_break>"
+        "土地は　ひとりにつき|１か所しか　所有できません。|<bw_break>": "You can only own one plot of land at a time.|<bw_break>"
     },
     "24": {
         "「それでは　ステキなハウジングライフを|　お過ごしください！": "I hope you have a wonderful housing life!"
