@@ -54,10 +54,10 @@
         "<%sM_houseComment>": "<%sM_houseComment>"
     },
     "19": {
-        "ここは　<%sL_OWNER>の土地だ。": "Here's <%sL_OWNER>'s..."
+        "ここは　<%sL_OWNER>の土地だ。": "This is <%sL_OWNER>'s plot."
     },
     "20": {
-        "レンダーヒルズ地区に　土地を持っているため|この土地への　引っ越しは　できません。": "I own land in the Render Hills area, so I|can't move to this property..."
+        "レンダーヒルズ地区に　土地を持っているため|この土地への　引っ越しは　できません。": "You already own land in Lender Hills, so|you cannot purchase land here."
     },
     "21": {
         "現在のバージョンでは|土地の販売は　おこなっていません。": "The current version of this site does not|offer land for sale..."
