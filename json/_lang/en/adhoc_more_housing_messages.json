@@ -78,13 +78,13 @@
         "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 60><end>": "<%sL_PC_NICK> now has a Zoomstone|exclusively for this plot!|<me 60><end>"
     },
     "27": {
-        "「<%sL_PC_NICK>さま！|　土地のご購入　おめでとうございます！|<br>|「私　この住宅村の管理を　まかされている|　管理人の　<%sL_MAID_NAME>と申します。|　今後　どうぞ　よろしくお願いいたします。|<br>|「では　<%sL_PC_NICK>さまが　晴れて|　地主になられた証として　この場所への|　ルーラストーンを　進呈させていただきます。|<br>|「このルーラストーンは　他の物とは違って|　記憶場所を　書きかえることが　できません。|　ご帰宅専用の　特別品になります。|<end>": "<%sL_PC_NICK> sir! Congratulations on your|land purchase! My name is <%sL_MAID_NAME>,|and I am the manager of this residential|<br>|village... I look forward to working with|you... As proof that you, <%sL_PC_NICK>, are|now a landowner, I would like to present you|<br>|with a rune stone to this location. This rune|stone is unlike any other... in that it can|be rewritten to remember... It's a special|<br>|edition for your return...<end>"
+        "「<%sL_PC_NICK>さま！|　土地のご購入　おめでとうございます！|<br>|「私　この住宅村の管理を　まかされている|　管理人の　<%sL_MAID_NAME>と申します。|　今後　どうぞ　よろしくお願いいたします。|<br>|「では　<%sL_PC_NICK>さまが　晴れて|　地主になられた証として　この場所への|　ルーラストーンを　進呈させていただきます。|<br>|「このルーラストーンは　他の物とは違って|　記憶場所を　書きかえることが　できません。|　ご帰宅専用の　特別品になります。|<end>": "<if_woman>Ms.<else>Mr.<endif> <%sL_PC_NICK>! Congratulations|on your land purchase.|<br>|My name is <%sL_MAID_NAME>, and I'm|in charge of this residential district.|It's very nice to meet you.|<br>|As a commemoration of becoming a new land|owner, I want to give you this Zoomstone|registered to your land.|<br>|However, this Zoomstone is different in that|it cannot be rewritten. It is meant|specifically to return to your home.|<end>"
     },
     "28": {
-        "この土地に引っ越して　本当によろしいですか？|<yesno 2><break>": "Are you sure you want to move to this place?<yesno 2><break>"
+        "この土地に引っ越して　本当によろしいですか？|<yesno 2><break>": "Are you sure you want to move to this plot of|land?|<yesno 2><break>"
     },
     "29": {
-        "今　所有している家を|この土地に　移動しますか？|<yesno><break>": "Would you like to move the house you|currently own to this lot?<yesno><break>"
+        "今　所有している家を|この土地に　移動しますか？|<yesno><break>": "Would you like to move the house you|currently own to this plot?|<yesno><break>"
     },
     "30": {
         "<%sL_PC_NICK>は　新しい土地を購入し|この土地に　引っ越した！|<br>|自分の家用のルーラストーンは　自動的に|この場所に書き換えられました。前の土地に|建っていた家は　家キットに戻りました。|<br><color_yellow>|引っ越し前の家の中に　配置されていた家具は|特殊な退避状態となり　新しい家を建てると|扉メニューの『配置中の家具』から配置できます。|<br>|プライベートコンシェルジュを　雇っていた場合|引っ越し後に　『コンシェルジュ設定』から|再度　立ち位置をご指示ください。|<bw_break><color_white>": "<%sL_PC_NICK> has purchased a new plot of|land and has moved to this location! The|ruler stone for his house is automatically|<br>|rewritten to this location... The house that|stood on the previous plot of land has|reverted back to House Kit.<color_yellow>If you have furniture that was in your old|house before you moved, it will be in a|special state of evacuation, and when you|<br>|build your new house, you will be able to|place it under \"Furniture in Place\" in the|door menu... If I've hired a private|<br>|concierge, will I be able to go to \"Concierge|Settings\" after I've moved to a new home and|tell them where to...<bw_break><color_white>"
