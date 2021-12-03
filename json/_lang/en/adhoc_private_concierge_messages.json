@@ -480,7 +480,7 @@
         "「承知いたしました。|　今度からは　<%sM_FURUMAI>で|　精一杯　<%sM_OWNER><%sM_SAMA>にお仕えしますね！|<br>|「それでは……": "Yes, sir... From now on, I'll serve|<%sM_FURUMAI>|<%sM_OWNER><%sM_SAMA>|<br>|to the best of my ability! So..."
     },
     "161": {
-        "「はっ！　お客様！|　気付かずに　すみません！|　つい　お掃除に　夢中になってしまいました。": "Ha! Sir! I'm sorry I didn't see you. I was so|absorbed in cleaning..."
+        "「はっ！　お客様！|　気付かずに　すみません！|　つい　お掃除に　夢中になってしまいました。": "Ah! <if_woman>Ma'am<else>Sir<endif>! Please excuse me!|I was so absorbed in cleaning, I didn't|notice you."
     },
     "162": {
         "「私の服の　変更をお申しつけですね。|　どれを着用して　お仕えいたしますか？": "I would like to request a change of my|attire... Which of these would you like me to|wear to the service?"
