@@ -1,57 +1,57 @@
 {
     "1": {
-        "「はじめまして　<%sM_OWNER><%sM_SAMA>。|　本日から　お仕えさせていただく|　<%sM_NAME>と申します。|<br>|「至らぬ点も　あるとは思いますが|　精一杯　<%sM_OWNER><%sM_SAMA>を　お支えしますので|　お役に立てれば　幸いです。|<bw_break>": "Nice to meet you|<%sM_OWNER><%sM_SAMA>...|My name is <%sM_NAME> and I'll be|<br>|working for you from today. I'm sure I have|my faults, but I'll do my best to support <%s|M_OWNER><%sM_SAMA>,|<br>|and if I can be of any help, I'll be happy...<bw_break>"
+        "「はじめまして　<%sM_OWNER><%sM_SAMA>。|　本日から　お仕えさせていただく|　<%sM_NAME>と申します。|<br>|「至らぬ点も　あるとは思いますが|　精一杯　<%sM_OWNER><%sM_SAMA>を　お支えしますので|　お役に立てれば　幸いです。|<bw_break>": "Nice to meet you|<%sM_OWNER><%sM_SAMA>.|My name is <%sM_NAME> and I'll be|<br>|working for you from today. I'm sure I have|my faults, but I'll do my best to support <%s|M_OWNER><%sM_SAMA>,|<br>|and if I can be of any help, I'll be happy.<bw_break>"
     },
     "2": {
         "「遊びに来た　お客様に　どのような|　<%sM_OWNER><%sM_SAMA>の　お言葉を伝えますか？|<break>": "What|<%sM_OWNER><%sM_SAMA>|would you say to a visiting guest?|<br><break>"
     },
     "3": {
-        "「承知いたしました。|　<%sM_OWNER><%sM_SAMA>から　お客様へのお言葉|　きちんと　お伝えさせていただきます。": "Yes, sir... A word to you from <%sM_OWNER><%sM_SAMA>..."
+        "「承知いたしました。|　<%sM_OWNER><%sM_SAMA>から　お客様へのお言葉|　きちんと　お伝えさせていただきます。": "Yes, sir. A word to you from <%sM_OWNER><%sM_SAMA>."
     },
     "4": {
-        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　そのご指示は　お受けできません。": "I'm sorry,|<%sM_OWNER><%sM_SAMA>...|I'm afraid I can't accept that instruction..."
+        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　そのご指示は　お受けできません。": "I'm sorry,|<%sM_OWNER><%sM_SAMA>.|I'm afraid I can't accept that instruction."
     },
     "5": {
-        "「プライベートコンシェルジュを雇うと|　旅のコンシェルジュと　モンスター酒場の|　一部機能が　使用できるようになります。|<br>|「雇いたいコンシェルジュの　種族と性別を|　指定していただくと　その条件で雇える方を|　４０人　リストにして見ることができます。|<br>|「同じ種族と性別で　雇える方のリストは|　１日１回更新されます。新たなコンシェルジュを|　雇った時も　更新されます。|<br>|「また　雇ったプライベートコンシェルジュは|　いつでも　お別れできます。|<bw_break>": "When you hire a private concierge, you'll be|able to use some of the features of the|Travel Concierge and the Monster Tavern. If|<br>|you specify the race and gender of the|concierge you wish to hire, you will be able|to see a list of 40 concierges who can be|<br>|hired under those conditions. This list is|updated once a day... And it's updated when|you hire a new concierge. You can also leave|<br>|your private concierge at any time...<bw_break>"
+        "「プライベートコンシェルジュを雇うと|　旅のコンシェルジュと　モンスター酒場の|　一部機能が　使用できるようになります。|<br>|「雇いたいコンシェルジュの　種族と性別を|　指定していただくと　その条件で雇える方を|　４０人　リストにして見ることができます。|<br>|「同じ種族と性別で　雇える方のリストは|　１日１回更新されます。新たなコンシェルジュを|　雇った時も　更新されます。|<br>|「また　雇ったプライベートコンシェルジュは|　いつでも　お別れできます。|<bw_break>": "When you hire a private concierge, you'll be|able to use some of the features of the|Travel Concierge and the Monster Tavern. If|<br>|you specify the race and gender of the|concierge you wish to hire, you will be able|to see a list of 40 concierges who can be|<br>|hired under those conditions. This list is|updated once a day. And it's updated when|you hire a new concierge. You can also leave|<br>|your private concierge at any time.<bw_break>"
     },
     "6": {
-        "「ようこそいらっしゃいました。|　こちらは　<%sM_OWNER_OTHER>さまの家です。|　どうぞ　ごゆっくりおくつろぎください。": "Welcome to... This is|<%sM_OWNER_OTHER>'s... Please|make yourself at home..."
+        "「ようこそいらっしゃいました。|　こちらは　<%sM_OWNER_OTHER>さまの家です。|　どうぞ　ごゆっくりおくつろぎください。": "Welcome to. This is|<%sM_OWNER_OTHER>'s. Please|make yourself at home."
     },
     "7": {
-        "「ようこそ　お越しくださいました。|　こちらは　<%sM_OWNER_OTHER>さまの家です。|<br>|「私は　<%sM_OWNER_OTHER>さま専属コンシェルジュ|　<%sM_NAME>と申します。お客様を|　精一杯　おもてなしさせていただきます。|<br>|「家のオーナーである　<%sM_OWNER_OTHER>さまから　|　お客様へ　メッセージがあります。": "Welcome to our website... This is|<%sM_OWNER_OTHER>'s... My name is|<%sM_OWNER_OTHER> and I am your|<br>|personal concierge. I am here to serve you to|the best of my ability... The owner of the|house, <%sM_OWNER_OTHER>, has a|<br>|message for you..."
+        "「ようこそ　お越しくださいました。|　こちらは　<%sM_OWNER_OTHER>さまの家です。|<br>|「私は　<%sM_OWNER_OTHER>さま専属コンシェルジュ|　<%sM_NAME>と申します。お客様を|　精一杯　おもてなしさせていただきます。|<br>|「家のオーナーである　<%sM_OWNER_OTHER>さまから　|　お客様へ　メッセージがあります。": "Welcome to our website. This is|<%sM_OWNER_OTHER>'s. My name is|<%sM_OWNER_OTHER> and I am your|<br>|personal concierge. I am here to serve you to|the best of my ability. The owner of the|house, <%sM_OWNER_OTHER>, has a|<br>|message for you."
     },
     "8": {
-        "「以上が　<%sM_OWNER_OTHER>さまからの|　伝言になります。|　どうぞ　ごゆっくりおくつろぎください。": "This is a message from|<%sM_OWNER_OTHER>... Please make|yourself at home..."
+        "「以上が　<%sM_OWNER_OTHER>さまからの|　伝言になります。|　どうぞ　ごゆっくりおくつろぎください。": "This is a message from|<%sM_OWNER_OTHER>. Please make|yourself at home."
     },
     "9": {
         "「以前いただいた　伝言から|　変更しないで　よろしいでしょうか？|<yesno><break>": "Are you sure you don't want me to change the|message you gave me earlier?<yesno><break>"
     },
     "10": {
-        "「<%sM_NAME>さんと　お別れしました。|　コンシェルジュを　また雇いたい時は|　条件を指定して　別の方をお探しください。": "I'm sorry to say goodbye to|<%sM_NAME>... If you'd like to|hire a concierge again, please specify your|<br>|requirements and we'll find another one for|you..."
+        "「<%sM_NAME>さんと　お別れしました。|　コンシェルジュを　また雇いたい時は|　条件を指定して　別の方をお探しください。": "I'm sorry to say goodbye to|<%sM_NAME>. If you'd like to|hire a concierge again, please specify your|<br>|requirements and we'll find another one for|you."
     },
     "11": {
-        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「慎重に　お決めになってくださいね。|　よろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you're|parting with will be lost and passed on to|the new person. I would urge you to make your|<br>|decision carefully... May I?<yesno><break>"
+        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「慎重に　お決めになってくださいね。|　よろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you're|parting with will be lost and passed on to|the new person. I would urge you to make your|<br>|decision carefully. May I?<yesno><break>"
     },
     "12": {
-        "「今　ご指定の条件で雇えるコンシェルジュは|　この方たちです。|<break>": "Right now, the only concierge available for|hire with your specifications is this one...<break>"
+        "「今　ご指定の条件で雇えるコンシェルジュは|　この方たちです。|<break>": "Right now, the only concierge available for|hire with your specifications is this one.<break>"
     },
     "13": {
         "「どんな名前が　よいでしょうか……。|<bw_break>": "What kind of name would you like to use?<bw_break>"
     },
     "14": {
-        "「<%sM_NAME>……。|　素敵ですね。|　そのような名前をいただけて　光栄です。|<bw_break>": "<%sM_NAME>... Lovely... I'm|honored to have such a name...<bw_break>"
+        "「<%sM_NAME>……。|　素敵ですね。|　そのような名前をいただけて　光栄です。|<bw_break>": "<%sM_NAME>. Lovely. I'm|honored to have such a name.<bw_break>"
     },
     "15": {
-        "「<%sM_NAME>……。|　とても　素敵な名前ですね。|　そのような名前をいただけて光栄です。|<bw_break>": "<%sM_NAME>... That's a very nice|name... I'm so happy to have such a name...<bw_break>"
+        "「<%sM_NAME>……。|　とても　素敵な名前ですね。|　そのような名前をいただけて光栄です。|<bw_break>": "<%sM_NAME>. That's a very nice|name. I'm so happy to have such a name.<bw_break>"
     },
     "16": {
-        "「申し訳ありませんが|　もう一度　ご指示ください。|<bw_break>": "I'm sorry, sir. I'm going to have to ask you|one more time to...<bw_break>"
+        "「申し訳ありませんが|　もう一度　ご指示ください。|<bw_break>": "I'm sorry, sir. I'm going to have to ask you|one more time to.<bw_break>"
     },
     "17": {
-        "「<%sM_OWNER><%sM_SAMA>　すみませんが|　名前が　入力されていないようです。|<bw_break>": "<%sM_OWNER><%sM_SAMA>|Sorry, you didn't enter a name...<bw_break>"
+        "「<%sM_OWNER><%sM_SAMA>　すみませんが|　名前が　入力されていないようです。|<bw_break>": "<%sM_OWNER><%sM_SAMA>|Sorry, you didn't enter a name.<bw_break>"
     },
     "18": {
-        "「承知いたしました。|　では　雇いたいコンシェルジュの|　種族と性別を　お教えください。|<break>": "Yes, sir... Now, if you could tell us the|species and gender of the concierge you'd|like to hire...|<br><break>"
+        "「承知いたしました。|　では　雇いたいコンシェルジュの|　種族と性別を　お教えください。|<break>": "Yes, sir. Now, if you could tell us the|species and gender of the concierge you'd|like to hire.|<br><break>"
     },
     "19": {
         "「現在　雇っているコンシェルジュに|　何か指示を出しますか？|<select_se_off>|お別れする|他のコンシェルジュを見る|説明を聞く|<select_end><break>": "Do you have any instructions for the|concierge you currently employ?|<select_se_off>|I'll say goodbye|See our other concierges|Listen to the explanation|<select_end><break>"
@@ -63,7 +63,7 @@
         "「では　雇いたいコンシェルジュの|　種族と性別を　お教えください。|<break>": "Now, please tell us the race and gender of|the concierge you'd like to hire.<break>"
     },
     "22": {
-        "「現在　<%sM_NAME>さんを　雇っています。|　一度　お別れしてしまうと|　もう同じ人は　雇えなくなってしまいます。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「慎重に　お決めになってくださいね。|　<%sM_NAME>さんと　お別れして|　<%sM_BEFORE_NAME>さんを　新たに雇いますか？|<yesno><break>": "I'm currently employed by|<%sM_NAME>... Once you part ways|with someone, you can't hire the same person|<br>|again... Also, any gifts you gave to the|person you're leaving will be lost and passed|on to the new person. Please make your|<br>|decision carefully. Do you want to part with|<%sM_NAME> and hire|<%sM_BEFORE_NAME> again?|<br><yesno><break>"
+        "「現在　<%sM_NAME>さんを　雇っています。|　一度　お別れしてしまうと|　もう同じ人は　雇えなくなってしまいます。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「慎重に　お決めになってくださいね。|　<%sM_NAME>さんと　お別れして|　<%sM_BEFORE_NAME>さんを　新たに雇いますか？|<yesno><break>": "I'm currently employed by|<%sM_NAME>. Once you part ways|with someone, you can't hire the same person|<br>|again. Also, any gifts you gave to the|person you're leaving will be lost and passed|on to the new person. Please make your|<br>|decision carefully. Do you want to part with|<%sM_NAME> and hire|<%sM_BEFORE_NAME> again?|<br><yesno><break>"
     },
     "23": {
         "「プライベートコンシェルジュを|　雇いますか？|<yesno><break>": "Would you like to hire a private concierge?<yesno><break>"
@@ -72,7 +72,7 @@
         "「<%sM_BEFORE_NAME>さんを　雇いますか？|<yesno><break>": "Would you like to hire|<%sM_BEFORE_NAME>?<yesno><break>"
     },
     "25": {
-        "「承知いたしました。|　では<%sM_BEFORE_NAME>さんを　お呼びします。|　どの場所に　立ってもらいますか？": "Yes, sir... I will now call upon Mr.|<%sM_BEFORE_NAME>... Where would|you like him to stand?"
+        "「承知いたしました。|　では<%sM_BEFORE_NAME>さんを　お呼びします。|　どの場所に　立ってもらいますか？": "Yes, sir. I will now call upon Mr.|<%sM_BEFORE_NAME>. Where would|you like him to stand?"
     },
     "26": {
         "「お客様への伝言は　特にしないで|　よろしいでしょうか？|<yesno><break>": "Is it okay if I don't leave a message for the|customer?<yesno><break>"
@@ -81,7 +81,7 @@
         "プライベートコンシェルジュの|<%sM_BEFORE_NAME>さんが　家にやってきました！|<me 60><end>": "Your private concierge,|<%sM_BEFORE_NAME>, is in the|house!|<br><me 60><end>"
     },
     "28": {
-        "「<%sM_NAME>さんと　お別れしました。|<br>|「では　新たに　<%sM_BEFORE_NAME>さんに|　来てもらいますので　<%sM_BEFORE_NAME>さんに|　立ってもらいたい位置を　お決めください。": "We'll say goodbye to|<%sM_NAME>... We will now invite|<%sM_BEFORE_NAME> to join us, so|<br>|please decide where you would like|<%sM_BEFORE_NAME> to stand..."
+        "「<%sM_NAME>さんと　お別れしました。|<br>|「では　新たに　<%sM_BEFORE_NAME>さんに|　来てもらいますので　<%sM_BEFORE_NAME>さんに|　立ってもらいたい位置を　お決めください。": "We'll say goodbye to|<%sM_NAME>. We will now invite|<%sM_BEFORE_NAME> to join us, so|<br>|please decide where you would like|<%sM_BEFORE_NAME> to stand."
     },
     "29": {
         "「こちらの内容で　よろしいですか？|<yesno><break>": "Are you sure this is what you want?<yesno><break>"
@@ -93,157 +93,157 @@
         "「前と同じ名前で　よろしいですか？|<yesno><break>": ""
     },
     "32": {
-        "「かしこまりました。|　今後　私のことは|　<%sM_NAME>と　お呼びください。": "Yes, sir... From now on, you may refer to me|as <%sM_NAME>..."
+        "「かしこまりました。|　今後　私のことは|　<%sM_NAME>と　お呼びください。": "Yes, sir. From now on, you may refer to me|as <%sM_NAME>."
     },
     "33": {
-        "「お客様への伝言は　なしにされるのですね。|　承知いたしました。": "I'm afraid you'll have to leave a message for|our guest. Yes, sir..."
+        "「お客様への伝言は　なしにされるのですね。|　承知いたしました。": "I'm afraid you'll have to leave a message for|our guest. Yes, sir."
     },
     "34": {
-        "「最近　ぽかぽかするせいか|　とても眠くて|　つい　うとうとしてしまいます……。": "Lately, I've been feeling very sleepy and|I've been dozing off..."
+        "「最近　ぽかぽかするせいか|　とても眠くて|　つい　うとうとしてしまいます……。": "Lately, I've been feeling very sleepy and|I've been dozing off."
     },
     "35": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日も　<%sM_OWNER><%sM_SAMA>にお会いできて|　<%sM_NAME>は　幸せです。": "<%sM_OWNER><%sM_SAMA>...|<%sM_OWNER><%sM_SAMA>|is happy to see you <%sM_NAME>|<br>|today..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日も　<%sM_OWNER><%sM_SAMA>にお会いできて|　<%sM_NAME>は　幸せです。": "<%sM_OWNER><%sM_SAMA>.|<%sM_OWNER><%sM_SAMA>|is happy to see you <%sM_NAME>|<br>|today."
     },
     "36": {
-        "「だんだん　あたたかくなってきましたね。|　こんな日は　どこか遠くに|　出かけたくなりますね。": "It's getting warmer and warmer... On days|like this, I feel like going somewhere far|away..."
+        "「だんだん　あたたかくなってきましたね。|　こんな日は　どこか遠くに|　出かけたくなりますね。": "It's getting warmer and warmer. On days|like this, I feel like going somewhere far|away."
     },
     "37": {
-        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_OWNER><%sM_SAMA>との　この静かな時間は|　私にとっては　なによりも幸せな時間です。": "<%sM_OWNER><%sM_SAMA>...|This quiet time with|<%sM_OWNER><%sM_SAMA>|<br>|is one of the happiest times for me..."
+        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_OWNER><%sM_SAMA>との　この静かな時間は|　私にとっては　なによりも幸せな時間です。": "<%sM_OWNER><%sM_SAMA>.|This quiet time with|<%sM_OWNER><%sM_SAMA>|<br>|is one of the happiest times for me."
     },
     "38": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日は　掃除と洗濯をやろうと思っております。|　ご不在の間に　お家をピカピカにしますよ！": "<%sM_OWNER><%sM_SAMA>...|I'm going to do some cleaning and laundry|today... While you're gone, I'll make sure|<br>|your house is spotless!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日は　掃除と洗濯をやろうと思っております。|　ご不在の間に　お家をピカピカにしますよ！": "<%sM_OWNER><%sM_SAMA>.|I'm going to do some cleaning and laundry|today. While you're gone, I'll make sure|<br>|your house is spotless!"
     },
     "39": {
-        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_NAME>は　<%sM_OWNER><%sM_SAMA>のために|　今日も精一杯の　ご奉仕させていただきます。": "<%sM_OWNER><%sM_SAMA>...|<%sM_NAME> is pleased to serve|<%sM_OWNER><%sM_SAMA>|<br>|to the best of our ability today..."
+        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_NAME>は　<%sM_OWNER><%sM_SAMA>のために|　今日も精一杯の　ご奉仕させていただきます。": "<%sM_OWNER><%sM_SAMA>.|<%sM_NAME> is pleased to serve|<%sM_OWNER><%sM_SAMA>|<br>|to the best of our ability today."
     },
     "40": {
-        "「<%sM_OWNER><%sM_SAMA>。|　冒険にお出かけの際には　万全の準備で|　ご出発なさってくださいね。": "<%sM_OWNER><%sM_SAMA>...|If you're heading out on an adventure, make|sure you're ready for anything..."
+        "「<%sM_OWNER><%sM_SAMA>。|　冒険にお出かけの際には　万全の準備で|　ご出発なさってくださいね。": "<%sM_OWNER><%sM_SAMA>.|If you're heading out on an adventure, make|sure you're ready for anything."
     },
     "41": {
-        "「<%sM_OWNER><%sM_SAMA>。|　もうお食事は　お召し上がりになりましたか？|　食べた後は　お家でくつろいでくださいね。": "<%sM_OWNER><%sM_SAMA>...|Have you eaten your meal yet, sir? After|you've eaten, make yourself at home..."
+        "「<%sM_OWNER><%sM_SAMA>。|　もうお食事は　お召し上がりになりましたか？|　食べた後は　お家でくつろいでくださいね。": "<%sM_OWNER><%sM_SAMA>.|Have you eaten your meal yet, sir? After|you've eaten, make yourself at home."
     },
     "42": {
-        "「<%sM_OWNER><%sM_SAMA>。|　食事をすませた後の　この時間は|　どうにも眠くなってしまっていけませんね。": "<%sM_OWNER><%sM_SAMA>...|I can't help but feel sleepy at this hour|after eating..."
+        "「<%sM_OWNER><%sM_SAMA>。|　食事をすませた後の　この時間は|　どうにも眠くなってしまっていけませんね。": "<%sM_OWNER><%sM_SAMA>.|I can't help but feel sleepy at this hour|after eating."
     },
     "43": {
-        "「<%sM_OWNER><%sM_SAMA>。|　この時間は　つい何か　甘いものが|　食べたくなってしまいます……。": "<%sM_OWNER><%sM_SAMA>...|At this time of night, I'm tempted to eat|something sweet..."
+        "「<%sM_OWNER><%sM_SAMA>。|　この時間は　つい何か　甘いものが|　食べたくなってしまいます……。": "<%sM_OWNER><%sM_SAMA>.|At this time of night, I'm tempted to eat|something sweet."
     },
     "44": {
-        "「<%sM_OWNER><%sM_SAMA>。|　いつも　お忙しいようですが　たまには|　のんびりと　くつろいでくださいね。": "<%sM_OWNER><%sM_SAMA>...|I know you're always busy, but please take a|moment to relax and unwind..."
+        "「<%sM_OWNER><%sM_SAMA>。|　いつも　お忙しいようですが　たまには|　のんびりと　くつろいでくださいね。": "<%sM_OWNER><%sM_SAMA>.|I know you're always busy, but please take a|moment to relax and unwind."
     },
     "45": {
-        "「<%sM_OWNER><%sM_SAMA>。|　ご無事で戻られたようで　安心しました。|　フカフカのベッドで　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>...|It's good to see you back safe and sound... I|hope you're resting comfortably in your|<br>|fluffy bed..."
+        "「<%sM_OWNER><%sM_SAMA>。|　ご無事で戻られたようで　安心しました。|　フカフカのベッドで　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>.|It's good to see you back safe and sound. I|hope you're resting comfortably in your|<br>|fluffy bed."
     },
     "46": {
-        "「<%sM_OWNER><%sM_SAMA>。|　もうお食事は　お召し上がりになりましたか？|　空腹で無理をするのは　お身体に良くないですよ。": "<%sM_OWNER><%sM_SAMA>...|Have you eaten your meal yet, sir? It's not|good for your health to overdo it on an empty|<br>|stomach..."
+        "「<%sM_OWNER><%sM_SAMA>。|　もうお食事は　お召し上がりになりましたか？|　空腹で無理をするのは　お身体に良くないですよ。": "<%sM_OWNER><%sM_SAMA>.|Have you eaten your meal yet, sir? It's not|good for your health to overdo it on an empty|<br>|stomach."
     },
     "47": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日も１日　お疲れさまでした。|　この　お家で　素敵な時間をお過ごしください。": "<%sM_OWNER><%sM_SAMA>...|I hope you've had a good day... I hope you|have a wonderful time in this home..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日も１日　お疲れさまでした。|　この　お家で　素敵な時間をお過ごしください。": "<%sM_OWNER><%sM_SAMA>.|I hope you've had a good day. I hope you|have a wonderful time in this home."
     },
     "48": {
-        "「<%sM_OWNER><%sM_SAMA>。|　こんな遅い時間まで　お疲れさまです。|　無理せず　お身体を大事になさってくださいね。": "<%sM_OWNER><%sM_SAMA>...|Thank you for staying up this late... Take|care of yourself..."
+        "「<%sM_OWNER><%sM_SAMA>。|　こんな遅い時間まで　お疲れさまです。|　無理せず　お身体を大事になさってくださいね。": "<%sM_OWNER><%sM_SAMA>.|Thank you for staying up this late. Take|care of yourself."
     },
     "49": {
-        "「<%sM_OWNER><%sM_SAMA>。|　お家を　お掃除しておきましたので|　ゆっくり　おくつろぎくださいね。": "<%sM_OWNER><%sM_SAMA>...|We've cleaned the house for you, so you can|relax..."
+        "「<%sM_OWNER><%sM_SAMA>。|　お家を　お掃除しておきましたので|　ゆっくり　おくつろぎくださいね。": "<%sM_OWNER><%sM_SAMA>.|We've cleaned the house for you, so you can|relax."
     },
     "50": {
-        "「<%sM_OWNER><%sM_SAMA>。|　ふたりで　ゆっくりと|　読書をしたくなる時間ですね。": "<%sM_OWNER><%sM_SAMA>...|A time for two people to read slowly..."
+        "「<%sM_OWNER><%sM_SAMA>。|　ふたりで　ゆっくりと|　読書をしたくなる時間ですね。": "<%sM_OWNER><%sM_SAMA>.|A time for two people to read slowly."
     },
     "51": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日も　お疲れのようですね……。|　お身体を労って　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>...|You look tired today... Please take care of|yourself and get some rest..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日も　お疲れのようですね……。|　お身体を労って　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>.|You look tired today. Please take care of|yourself and get some rest."
     },
     "52": {
-        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_OWNER><%sM_SAMA>の|　お帰りが遅かったので　心配しておりました……。": "<%sM_OWNER><%sM_SAMA>...|We were concerned when|<%sM_OWNER><%sM_SAMA>|<br>|returned late..."
+        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_OWNER><%sM_SAMA>の|　お帰りが遅かったので　心配しておりました……。": "<%sM_OWNER><%sM_SAMA>.|We were concerned when|<%sM_OWNER><%sM_SAMA>|<br>|returned late."
     },
     "53": {
-        "「<%sM_OWNER><%sM_SAMA>。|　ベッドを整えておきました。|　お身体を労って　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>...|I'll have the bed made up for you... Take|care of yourself. Get some rest..."
+        "「<%sM_OWNER><%sM_SAMA>。|　ベッドを整えておきました。|　お身体を労って　ゆっくり休んでくださいね。": "<%sM_OWNER><%sM_SAMA>.|I'll have the bed made up for you. Take|care of yourself. Get some rest."
     },
     "54": {
-        "「<%sM_OWNER><%sM_SAMA>。|　こんな夜は……。いえ……なんでもありません。|　今の言葉は　お忘れになってください……。": "<%sM_OWNER><%sM_SAMA>...|On a night like this... No... Anything... You|can forget what I just said..."
+        "「<%sM_OWNER><%sM_SAMA>。|　こんな夜は……。いえ……なんでもありません。|　今の言葉は　お忘れになってください……。": "<%sM_OWNER><%sM_SAMA>.|On a night like this. No. Anything. You|can forget what I just said."
     },
     "55": {
-        "「<%sM_OWNER><%sM_SAMA>。|　充分に　お休みはとれていますでしょうか。|　<%sM_OWNER><%sM_SAMA>のお身体が　心配です……。": "<%sM_OWNER><%sM_SAMA>...|I hope you've been getting enough rest... I'm|worried about <%sM_OWNER><%sM_SAM|<br>|A>'s health..."
+        "「<%sM_OWNER><%sM_SAMA>。|　充分に　お休みはとれていますでしょうか。|　<%sM_OWNER><%sM_SAMA>のお身体が　心配です……。": "<%sM_OWNER><%sM_SAMA>.|I hope you've been getting enough rest. I'm|worried about <%sM_OWNER><%sM_SAM|<br>|A>'s health."
     },
     "56": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日の仕事のことを　考えておりました。|　起きてすぐに予定を決めると　やる気がでますね。": "<%sM_OWNER><%sM_SAMA>...|I've been thinking about today's work... I|find it motivating to wake up and immediately|<br>|make plans..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日の仕事のことを　考えておりました。|　起きてすぐに予定を決めると　やる気がでますね。": "<%sM_OWNER><%sM_SAMA>.|I've been thinking about today's work. I|find it motivating to wake up and immediately|<br>|make plans."
     },
     "57": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日という日が　<%sM_OWNER><%sM_SAMA>にとって|　素敵な１日になることを　願っております。": "<%sM_OWNER><%sM_SAMA>...|I hope this day is a great one for <%sM_OWNER|><%sM_SAMA>..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日という日が　<%sM_OWNER><%sM_SAMA>にとって|　素敵な１日になることを　願っております。": "<%sM_OWNER><%sM_SAMA>.|I hope this day is a great one for <%sM_OWNER|><%sM_SAMA>."
     },
     "58": {
-        "「<%sM_OWNER><%sM_SAMA>。|　お出かけの際には　忘れ物がないか|　いま一度　ご確認くださいませ。": "<%sM_OWNER><%sM_SAMA>...|When you go out, please make sure you don't|forget anything..."
+        "「<%sM_OWNER><%sM_SAMA>。|　お出かけの際には　忘れ物がないか|　いま一度　ご確認くださいませ。": "<%sM_OWNER><%sM_SAMA>.|When you go out, please make sure you don't|forget anything."
     },
     "59": {
-        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_NAME>は　<%sM_OWNER><%sM_SAMA>に　今日も|　素敵な時間を　ご提供したいと思っております。": "<%sM_OWNER><%sM_SAMA>...|<%sM_NAME> would like to wish|<%sM_OWNER><%sM_SAMA>|<br>|a wonderful time today..."
+        "「<%sM_OWNER><%sM_SAMA>。|　<%sM_NAME>は　<%sM_OWNER><%sM_SAMA>に　今日も|　素敵な時間を　ご提供したいと思っております。": "<%sM_OWNER><%sM_SAMA>.|<%sM_NAME> would like to wish|<%sM_OWNER><%sM_SAMA>|<br>|a wonderful time today."
     },
     "60": {
         "「新年になりました！|　<%sM_OWNER><%sM_SAMA>にとって　この１年が|　幸せな１年に　なりますように！": "It's a new year! May this year be a happy one|for <%sM_OWNER><%sM_SAMA>!"
     },
     "61": {
-        "「年が明けましたね。|　去年は本当に　お世話になりました。|　<%sM_OWNER><%sM_SAMA>の家で働けて　とても幸せです。": "New Year's Eve... Thank you so much for all|your help last year... I am very happy to be|working in the house of <%sM_OWNER>N|<br>|G><%sM_SAMA>..."
+        "「年が明けましたね。|　去年は本当に　お世話になりました。|　<%sM_OWNER><%sM_SAMA>の家で働けて　とても幸せです。": "New Year's Eve. Thank you so much for all|your help last year. I am very happy to be|working in the house of <%sM_OWNER>N|<br>|G><%sM_SAMA>."
     },
     "62": {
         "「新年　明けましておめでとうございます！|　私の今年の抱負は　より　<%sM_OWNER><%sM_SAMA>の|　お役に立つことが目標です！": "Happy New Year! My resolution for this year|is to be more helpful to <%sM_OWNER>|NG><%sM_SAMA>!"
     },
     "63": {
-        "「明けましておめでとうございます。|　今年も<%sM_OWNER><%sM_SAMA>の元で|　ずっと働くことが　私の願いです。": "Happy New Year... It is my desire to continue|working for|<%sM_OWNER><%sM_SAMA>|<br>|for the rest of the year..."
+        "「明けましておめでとうございます。|　今年も<%sM_OWNER><%sM_SAMA>の元で|　ずっと働くことが　私の願いです。": "Happy New Year. It is my desire to continue|working for|<%sM_OWNER><%sM_SAMA>|<br>|for the rest of the year."
     },
     "64": {
-        "「最近は　寒い日が多いですね……。|　あたたかくして　風邪などひかないように|　お気をつけくださいね。": "It's been very cold lately... Please keep|warm and take care not to catch a cold..."
+        "「最近は　寒い日が多いですね……。|　あたたかくして　風邪などひかないように|　お気をつけくださいね。": "It's been very cold lately. Please keep|warm and take care not to catch a cold."
     },
     "65": {
-        "「このところ　寒い日が続きますが　|　<%sM_OWNER><%sM_SAMA>は　大丈夫ですか？|　家の中はいつも　あたたかくしておきますね。": "We've been having some cold weather lately,|is|<%sM_OWNER><%sM_SAMA>|<br>|okay? I always keep my house warm..."
+        "「このところ　寒い日が続きますが　|　<%sM_OWNER><%sM_SAMA>は　大丈夫ですか？|　家の中はいつも　あたたかくしておきますね。": "We've been having some cold weather lately,|is|<%sM_OWNER><%sM_SAMA>|<br>|okay? I always keep my house warm."
     },
     "66": {
-        "「ハ……ハックシュン！！|　し　失礼しました！　寒さのあまり|　くしゃみが　出てしまいました……。": "Ha... Hackshun! I'm so sorry! I'm so cold, I|sneezed..."
+        "「ハ……ハックシュン！！|　し　失礼しました！　寒さのあまり|　くしゃみが　出てしまいました……。": "Ha. Hackshun! I'm so sorry! I'm so cold, I|sneezed."
     },
     "67": {
-        "「最近　寒い日が続きますね……。　|　<%sM_OWNER><%sM_SAMA>が　お出かけされると|　外で　寒い思いをされていないか　心配です。": "It's been a cold day lately... <%sM_OWNER><%sM_SAMA>When you go|out, I'm wondering if you're feeling cold|<br>|outside..."
+        "「最近　寒い日が続きますね……。　|　<%sM_OWNER><%sM_SAMA>が　お出かけされると|　外で　寒い思いをされていないか　心配です。": "It's been a cold day lately. <%sM_OWNER><%sM_SAMA>When you go|out, I'm wondering if you're feeling cold|<br>|outside."
     },
     "68": {
-        "「近頃　寒さが和らいできましたね。|　なんだか　あたたかくなったからか|　すこし鼻が　ムズムズします。": "It's been a little less cold lately... Maybe|it's because it's getting warmer, but my nose|is a little itchy..."
+        "「近頃　寒さが和らいできましたね。|　なんだか　あたたかくなったからか|　すこし鼻が　ムズムズします。": "It's been a little less cold lately. Maybe|it's because it's getting warmer, but my nose|is a little itchy."
     },
     "69": {
-        "「あたたかくなって　過ごしやすいですね。|　<%sM_OWNER><%sM_SAMA>が　お出かけされる時も|　もう寒くないので　少し安心です。": "It's getting warmer and more comfortable... <|%sM_OWNER><%sM_SAMA>W|hen you go out, it's not so cold anymore, so|<br>|you can relax a little..."
+        "「あたたかくなって　過ごしやすいですね。|　<%sM_OWNER><%sM_SAMA>が　お出かけされる時も|　もう寒くないので　少し安心です。": "It's getting warmer and more comfortable. <|%sM_OWNER><%sM_SAMA>W|hen you go out, it's not so cold anymore, so|<br>|you can relax a little."
     },
     "70": {
-        "「最近　じめじめしていますね……。|　この季節になると　湿気が多くて|　家のお掃除が　大変です。": "It's been very humid lately... It's that time|of year when it's so humid that cleaning the|house is a big..."
+        "「最近　じめじめしていますね……。|　この季節になると　湿気が多くて|　家のお掃除が　大変です。": "It's been very humid lately. It's that time|of year when it's so humid that cleaning the|house is a big."
     },
     "71": {
-        "「最近　雨がよく降りますね。|　<%sM_OWNER><%sM_SAMA>も　お身体を|　冷やさないように　ご注意くださいね。": "It's been raining a lot lately... <%sM_OWNER><%sM_SAMA>Please take|care to keep your body cool..."
+        "「最近　雨がよく降りますね。|　<%sM_OWNER><%sM_SAMA>も　お身体を|　冷やさないように　ご注意くださいね。": "It's been raining a lot lately. <%sM_OWNER><%sM_SAMA>Please take|care to keep your body cool."
     },
     "72": {
-        "「だんだん　暑くなってきましたね。|　汗をかかれたら　水分補給して|　体調には　お気をつけくださいね。": "It's getting hotter and hotter... If you|sweat, drink water and take care of|yourself..."
+        "「だんだん　暑くなってきましたね。|　汗をかかれたら　水分補給して|　体調には　お気をつけくださいね。": "It's getting hotter and hotter. If you|sweat, drink water and take care of|yourself."
     },
     "73": {
-        "「最近　雨が多いですね。|　お出かけ先で　雨に降られてしまったら|　すぐ　身体を乾かしてくださいね。": "It's been raining a lot lately... If you're|out and about and it's raining, please dry|yourself off immediately..."
+        "「最近　雨が多いですね。|　お出かけ先で　雨に降られてしまったら|　すぐ　身体を乾かしてくださいね。": "It's been raining a lot lately. If you're|out and about and it's raining, please dry|yourself off immediately."
     },
     "74": {
-        "「近頃　涼しくなってきましたね。|　<%sM_OWNER><%sM_SAMA>が　お出かけの時も|　少し楽になると　いいのですが……。": "It's getting cooler these days... Hopefully|<%sM_OWNER><%sM_SAMA>|will make things a little easier when you're|<br>|out and about..."
+        "「近頃　涼しくなってきましたね。|　<%sM_OWNER><%sM_SAMA>が　お出かけの時も|　少し楽になると　いいのですが……。": "It's getting cooler these days. Hopefully|<%sM_OWNER><%sM_SAMA>|will make things a little easier when you're|<br>|out and about."
     },
     "75": {
-        "「最近　暑い日が多いですね。|　少し動くだけで　汗をかいてしまいますので|　外では　無理をしないでくださいね。": "It's been very hot lately... Just a little|bit of movement can make you sweat, so please|don't overdo it when you're outside..."
+        "「最近　暑い日が多いですね。|　少し動くだけで　汗をかいてしまいますので|　外では　無理をしないでくださいね。": "It's been very hot lately. Just a little|bit of movement can make you sweat, so please|don't overdo it when you're outside."
     },
     "76": {
-        "「だんだん　暑くなってきましたね。|　家の中は涼しくしておきますので|　ゆっくりと　くつろいでくださいね。": "It's getting hotter and hotter... I'll keep|the inside of the house cool, so you can|relax..."
+        "「だんだん　暑くなってきましたね。|　家の中は涼しくしておきますので|　ゆっくりと　くつろいでくださいね。": "It's getting hotter and hotter. I'll keep|the inside of the house cool, so you can|relax."
     },
     "77": {
-        "「近頃暑いので　<%sM_OWNER><%sM_SAMA>が|　外でおつらくないか　気がかりです。|　くれぐれも　無理はなさらないでくださいね。": "It's been so hot lately, I'm wondering if|<%sM_OWNER><%sM_SAMA>|is having a hard time outside... Please don't|<br>|overdo it..."
+        "「近頃暑いので　<%sM_OWNER><%sM_SAMA>が|　外でおつらくないか　気がかりです。|　くれぐれも　無理はなさらないでくださいね。": "It's been so hot lately, I'm wondering if|<%sM_OWNER><%sM_SAMA>|is having a hard time outside. Please don't|<br>|overdo it."
     },
     "78": {
-        "「だんだん　涼しくなってきましたね。|　暑かった時の疲れが　出やすい時期ですので|　お身体を　労ってくださいね。": "It's getting cooler and cooler... It's the|time of year when people tend to get tired|from the hot weather, so please take care of|<br>|yourself..."
+        "「だんだん　涼しくなってきましたね。|　暑かった時の疲れが　出やすい時期ですので|　お身体を　労ってくださいね。": "It's getting cooler and cooler. It's the|time of year when people tend to get tired|from the hot weather, so please take care of|<br>|yourself."
     },
     "79": {
-        "「少し　肌寒いでしょうか。|　急に涼しくなってきたので　風邪などには|　お気をつけくださいね。": "It's a little chilly... It's getting cooler|all of a sudden, so be careful not to catch a|cold..."
+        "「少し　肌寒いでしょうか。|　急に涼しくなってきたので　風邪などには|　お気をつけくださいね。": "It's a little chilly. It's getting cooler|all of a sudden, so be careful not to catch a|cold."
     },
     "80": {
-        "「涼しくなって　過ごしやすいですね。|　<%sM_OWNER><%sM_SAMA>が　お出かけされる時も|　もう暑くないので　少し安心です。": "It's cooler and more comfortable... <%sM_OWNE|R><%sM_SAMA>When you|go out, it's not so hot anymore."
+        "「涼しくなって　過ごしやすいですね。|　<%sM_OWNER><%sM_SAMA>が　お出かけされる時も|　もう暑くないので　少し安心です。": "It's cooler and more comfortable. <%sM_OWNE|R><%sM_SAMA>When you|go out, it's not so hot anymore."
     },
     "81": {
-        "「メリークリスマス！　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>と　一緒に過ごせることが|　私にとっての最高のプレゼントです。": "Merry Christmas! <%sM_OWNER><%sM_|SAMA>! Spending time with <%sM_OW|NER><%sM_SAMA>is the|<br>|best presentation I could have..."
+        "「メリークリスマス！　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>と　一緒に過ごせることが|　私にとっての最高のプレゼントです。": "Merry Christmas! <%sM_OWNER><%sM_|SAMA>! Spending time with <%sM_OW|NER><%sM_SAMA>is the|<br>|best presentation I could have."
     },
     "82": {
-        "「クリスマスになりましたね。|　１年がすぎるのが　とても早く感じます。|　あと少しで　もうお正月ですね。": "It's Christmas... The year seems to be flying|by... It's almost New Year's..."
+        "「クリスマスになりましたね。|　１年がすぎるのが　とても早く感じます。|　あと少しで　もうお正月ですね。": "It's Christmas. The year seems to be flying|by. It's almost New Year's."
     },
     "83": {
         "「メリークリスマス！　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>と一緒に　クリスマスを|　過ごせて　とても　うれしいです！": "Merry Christmas! <%sM_OWNER><%sM_|SAMA>! I'm so happy to be|spending Christmas with <%sM_OWNER>N|<br>|G><%sM_SAMA>!"
@@ -252,112 +252,112 @@
         "「メリークリスマス！|　<%sM_OWNER><%sM_SAMA>が　素敵なクリスマスを|　過ごせますように！": "Merry Christmas! I wish|<%sM_OWNER><%sM_SAMA>|a very Merry Christmas!"
     },
     "85": {
-        "「もう　今年も終わりですね。|　今年は　<%sM_OWNER><%sM_SAMA>の家で働けて|　とても幸せな１年でした。": "Already the end of this year... This year has|been a very happy one working in the house of|<%sM_OWNER><%sM_SAMA>|<br>|..."
+        "「もう　今年も終わりですね。|　今年は　<%sM_OWNER><%sM_SAMA>の家で働けて|　とても幸せな１年でした。": "Already the end of this year. This year has|been a very happy one working in the house of|<%sM_OWNER><%sM_SAMA>|<br>|."
     },
     "86": {
         "「年の瀬なので　そろそろ大掃除ですね！|　この家も　気合入れてお掃除して|　ピカピカにさせていただきますよ！": "It's the end of the year, so it's time to|clean up! We're going to clean this house up|and make it sparkle!"
     },
     "87": {
-        "「そろそろ　年の瀬ですね。|　来年も　<%sM_OWNER><%sM_SAMA>と一緒に|　過ごせるよう　精一杯がんばりたいです。": "It's almost the end of the year... I'll do my|best to spend the next year with <%sM_OWNER><%sM_SAMA>..."
+        "「そろそろ　年の瀬ですね。|　来年も　<%sM_OWNER><%sM_SAMA>と一緒に|　過ごせるよう　精一杯がんばりたいです。": "It's almost the end of the year. I'll do my|best to spend the next year with <%sM_OWNER><%sM_SAMA>."
     },
     "88": {
-        "「今年も　もうすぐ終わりですね。|　<%sM_OWNER><%sM_SAMA>と　過ごした時間が|　私にとって　今年一番の宝物です。": "This year is almost over... The time I spent|with|<%sM_OWNER><%sM_SAMA>|<br>|was my most treasured moment of the year..."
+        "「今年も　もうすぐ終わりですね。|　<%sM_OWNER><%sM_SAMA>と　過ごした時間が|　私にとって　今年一番の宝物です。": "This year is almost over. The time I spent|with|<%sM_OWNER><%sM_SAMA>|<br>|was my most treasured moment of the year."
     },
     "89": {
-        "「だんだん　寒くなってきましたね。|　お出かけされた時に　体が冷えてしまったら|　すぐに帰り　ここで　あたたまってくださいね。": "It's getting colder and colder... If you get|cold on your way out, please come right back|and warm up here..."
+        "「だんだん　寒くなってきましたね。|　お出かけされた時に　体が冷えてしまったら|　すぐに帰り　ここで　あたたまってくださいね。": "It's getting colder and colder. If you get|cold on your way out, please come right back|and warm up here."
     },
     "90": {
-        "「最近は　寒い日が続きますね。|　こんな時は　なにか　温かいものが|　食べたくなります……。": "It's been cold lately... At times like these,|I feel like eating something warm..."
+        "「最近は　寒い日が続きますね。|　こんな時は　なにか　温かいものが|　食べたくなります……。": "It's been cold lately. At times like these,|I feel like eating something warm."
     },
     "91": {
-        "「近頃　寒くなってきましたね。|　お出かけの時には　あたたかくして|　体が冷えないように　お気をつけくださいね。": "It's getting colder these days... When you go|out, please keep warm and take care not to|get cold..."
+        "「近頃　寒くなってきましたね。|　お出かけの時には　あたたかくして|　体が冷えないように　お気をつけくださいね。": "It's getting colder these days. When you go|out, please keep warm and take care not to|get cold."
     },
     "92": {
-        "「もうすぐ　クリスマスですね。|　<%sM_OWNER><%sM_SAMA>と　過ごせると思うと|　今からとても　ワクワクします！": "It's almost Christmas... I'm so excited to be|spending it with <%sM_OWNER><%sM_|SAMA>!"
+        "「もうすぐ　クリスマスですね。|　<%sM_OWNER><%sM_SAMA>と　過ごせると思うと|　今からとても　ワクワクします！": "It's almost Christmas. I'm so excited to be|spending it with <%sM_OWNER><%sM_|SAMA>!"
     },
     "93": {
-        "「<%sM_OWNER><%sM_SAMA>！！　大丈夫ですか！？|　はやく　ベッドでお休みください！|　お家まで　たどり着けて　本当によかった……！": "<%sM_OWNER><%sM_SAMA>|! Are you okay? You need to get back to bed!|I'm so glad you made it home..."
+        "「<%sM_OWNER><%sM_SAMA>！！　大丈夫ですか！？|　はやく　ベッドでお休みください！|　お家まで　たどり着けて　本当によかった……！": "<%sM_OWNER><%sM_SAMA>|! Are you okay? You need to get back to bed!|I'm so glad you made it home."
     },
     "94": {
-        "「す　すみません！|　お戻りになっていたのですね。|　ちょっと　ぼんやりしてしまいました……！": "I'm sorry! You're back... I'm sorry, I've|been a bit absent-minded..."
+        "「す　すみません！|　お戻りになっていたのですね。|　ちょっと　ぼんやりしてしまいました……！": "I'm sorry! You're back. I'm sorry, I've|been a bit absent-minded."
     },
     "95": {
-        "「私としたことが……！　すみません。|　読書に　夢中になっておりました。|　本を読みだすと　時間を忘れてしまって……。": "What I did...! I've been... I've been so|absorbed in reading... When I start reading,|I lose track of time..."
+        "「私としたことが……！　すみません。|　読書に　夢中になっておりました。|　本を読みだすと　時間を忘れてしまって……。": "What I did.! I've been. I've been so|absorbed in reading. When I start reading,|I lose track of time."
     },
     "96": {
-        "「お見苦しいところを　見せてしまいました。|　休憩のつもりが　つい眠ってしまったようです。|　まことに　失礼いたしました……！": "I'm so sorry. I'm sorry. I thought I was|taking a break, but I fell asleep. I'm very|sorry..."
+        "「お見苦しいところを　見せてしまいました。|　休憩のつもりが　つい眠ってしまったようです。|　まことに　失礼いたしました……！": "I'm so sorry. I'm sorry. I thought I was|taking a break, but I fell asleep. I'm very|sorry."
     },
     "97": {
-        "「すみません！　もう少し遅いお戻りと思って|　ティータイムを　過ごしておりました！|　すぐに　片付けさせていただきます……！": "Sorry! We thought you'd be back a little|later, and we were having a tea break! I'll|be right back..."
+        "「すみません！　もう少し遅いお戻りと思って|　ティータイムを　過ごしておりました！|　すぐに　片付けさせていただきます……！": "Sorry! We thought you'd be back a little|later, and we were having a tea break! I'll|be right back."
     },
     "98": {
         "「<%sM_OWNER><%sM_SAMA>　気付かずに　すみません！|　お戻りになっていたのですね。|　つい　お掃除に　夢中になってしまいました。": "<%sM_OWNER><%sM_SAMA>! Please excuse|me! It's nice to see you. I was so absorbed|into cleaning, I didn't notice you."
     },
     "99": {
-        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「新しいコンシェルジュを雇えるのは|　１日１回までです。明日まで新しい人を|　雇えませんが　本当によろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you|parted with will be lost and passed on to the|new person... You can only hire one new|<br>|concierge per day... I can't hire a new|concierge until tomorrow. Are you sure you|want to do this?|<br><yesno><break>"
+        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「新しいコンシェルジュを雇えるのは|　１日１回までです。明日まで新しい人を|　雇えませんが　本当によろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you|parted with will be lost and passed on to the|new person. You can only hire one new|<br>|concierge per day. I can't hire a new|concierge until tomorrow. Are you sure you|want to do this?|<br><yesno><break>"
     },
     "100": {
-        "「今日は　１度プライベートコンシェルジュと|　お別れしているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already said goodbye to one private|concierge today, so we can't hire a new|one... You can try again tomorrow..."
+        "「今日は　１度プライベートコンシェルジュと|　お別れしているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already said goodbye to one private|concierge today, so we can't hire a new|one. You can try again tomorrow."
     },
     "101": {
-        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　そのお言葉は　お伝えできません。|　いま一度　お考え直しください。|<bw_break>": "I'm sorry|<%sM_OWNER><%sM_SAMA>...|I'm sorry to have to tell you that... Please|<br>|reconsider...<bw_break>"
+        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　そのお言葉は　お伝えできません。|　いま一度　お考え直しください。|<bw_break>": "I'm sorry|<%sM_OWNER><%sM_SAMA>.|I'm sorry to have to tell you that. Please|<br>|reconsider.<bw_break>"
     },
     "102": {
-        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　その名前は　お使いになれません。|　お考え直しください。|<bw_break>": "I'm sorry,|<%sM_OWNER><%sM_SAMA>...|You can't use that name... Please|<br>|reconsider...<bw_break>"
+        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　その名前は　お使いになれません。|　お考え直しください。|<bw_break>": "I'm sorry,|<%sM_OWNER><%sM_SAMA>.|You can't use that name. Please|<br>|reconsider.<bw_break>"
     },
     "103": {
-        "「今日は　１度プライベートコンシェルジュを|　雇っているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already hired a private concierge once|today, so we can't hire a new one... You can|try again tomorrow..."
+        "「今日は　１度プライベートコンシェルジュを|　雇っているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already hired a private concierge once|today, so we can't hire a new one. You can|try again tomorrow."
     },
     "104": {
-        "「<pc>さま。|　<%sM_BEFORE_NAME>さんは　来たばかりで|　きっと　緊張していると思います。|<br>|「なので　ぜひ　あなたから|　<%sM_BEFORE_NAME>さんに|　声をかけて　あげてください。": "<pc> Hello. <%sM_BEFORE_NAME>has just|arrived, and I'm sure she's nervous... So|please, you can talk to|<br>|<%sM_BEFORE_NAME>..."
+        "「<pc>さま。|　<%sM_BEFORE_NAME>さんは　来たばかりで|　きっと　緊張していると思います。|<br>|「なので　ぜひ　あなたから|　<%sM_BEFORE_NAME>さんに|　声をかけて　あげてください。": "<pc> Hello. <%sM_BEFORE_NAME>has just|arrived, and I'm sure she's nervous. So|please, you can talk to|<br>|<%sM_BEFORE_NAME>."
     },
     "105": {
-        "「承知いたしました。|　今後は　この位置で|　<%sM_OWNER><%sM_SAMA>に　ご奉仕させていただきます。": "Yes, sir... From now on, I will serve|<%sM_OWNER><%sM_SAMA>|in this position..."
+        "「承知いたしました。|　今後は　この位置で|　<%sM_OWNER><%sM_SAMA>に　ご奉仕させていただきます。": "Yes, sir. From now on, I will serve|<%sM_OWNER><%sM_SAMA>|in this position."
     },
     "106": {
-        "「承知しました。|　では　どの位置に移動するかご命令ください。": "Yes, sir... Now, if you could tell me where|to move..."
+        "「承知しました。|　では　どの位置に移動するかご命令ください。": "Yes, sir. Now, if you could tell me where|to move."
     },
     "107": {
         "「本当に　お別れしてしまって|　よろしいのですね？|<yesno 2><break>": "Are you sure you want to say goodbye?<yesno 2><break>"
     },
     "108": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　６週間ほどが　たちました。|<br>|「最近では　お出かけされてる間|　<%sM_OWNER><%sM_SAMA>の|　無事を　ずっと　お祈りしています。|<br>|「毎日　お帰りが待ち遠しいです……。|　いろいろと　大変かとは思いますが|　どうか無理だけは　なさらないでくださいね。": "<%sM_OWNER><%sM_SAMA>...|It's been about six weeks since I've been in|this house... Lately, I've been praying for <|<br>|%sM_OWNER><%sM_SAMA>'|s safety while you've been away. I can't wait|for your return every day... I know you're|<br>|going through a lot, but please don't take it|too hard..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　６週間ほどが　たちました。|<br>|「最近では　お出かけされてる間|　<%sM_OWNER><%sM_SAMA>の|　無事を　ずっと　お祈りしています。|<br>|「毎日　お帰りが待ち遠しいです……。|　いろいろと　大変かとは思いますが|　どうか無理だけは　なさらないでくださいね。": "<%sM_OWNER><%sM_SAMA>.|It's been about six weeks since I've been in|this house. Lately, I've been praying for <|<br>|%sM_OWNER><%sM_SAMA>'|s safety while you've been away. I can't wait|for your return every day. I know you're|<br>|going through a lot, but please don't take it|too hard."
     },
     "109": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１ヶ月ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>と|　この　お家のことが　どんどん好きに|　なっていきます……。|<br>|「１ヶ月前に　私を選んでくださって|　本当に　ありがとうございます！": "<%sM_OWNER><%sM_SAMA>...|Today, about a month after I came to this|house... <%sM_OWNER><%sM_SAMA>|<br>|and I'm growing to love this house|more and more... Thank you so much for|choosing me a month ago!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１ヶ月ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>と|　この　お家のことが　どんどん好きに|　なっていきます……。|<br>|「１ヶ月前に　私を選んでくださって|　本当に　ありがとうございます！": "<%sM_OWNER><%sM_SAMA>.|Today, about a month after I came to this|house. <%sM_OWNER><%sM_SAMA>|<br>|and I'm growing to love this house|more and more. Thank you so much for|choosing me a month ago!"
     },
     "110": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１週間ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>のような　素敵な方に|　ご奉仕できることを|　うれしく思っております。|<br>|「まだまだ　不慣れなところも多いですが|　これから　もっと　がんばりますね！": "<%sM_OWNER><%sM_SAMA>...|I've been in this house for about a week|now... I'm happy to be able to serve such a|<br>|wonderful person as <%sM_OWNER><%|sM_SAMA>... There are still many|things I'm not familiar with, but I'll do my|<br>|best from now on!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１週間ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>のような　素敵な方に|　ご奉仕できることを|　うれしく思っております。|<br>|「まだまだ　不慣れなところも多いですが|　これから　もっと　がんばりますね！": "<%sM_OWNER><%sM_SAMA>.|I've been in this house for about a week|now. I'm happy to be able to serve such a|<br>|wonderful person as <%sM_OWNER><%|sM_SAMA>. There are still many|things I'm not familiar with, but I'll do my|<br>|best from now on!"
     },
     "111": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　半年ほどが　たちました！|<br>|「今まで　私をおそばに置いてくださり|　本当に　ありがとうございました。|　この家で働けて　とても幸せです。|<br>|「今までの人生でも　この半年は　|　１番充実して　楽しい時間でした。|　それも　<%sM_OWNER><%sM_SAMA>と出会えたからです。|<br>|「<%sM_OWNER><%sM_SAMA>の　コンシェルジュは|　私しかいないと　胸をはって言えます。|　この先もずっと　お仕えさせてくださいね！　": "<%sM_OWNER><%sM_SAMA>...|Today, it's been almost half a year since I|started working in this house! Thank you so|<br>|much for taking me under your wing... I'm so|happy to be working in this house... The past|six months have been the most fulfilling and|<br>|enjoyable time of my life... And that's|because I met <%sM_OWNER><%sM_SAM|A>... I can proudly say that I am|<br>|the only concierge for <%sM_OWNER|><%sM_SAMA>... I would like to|serve you for a long time to come!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　半年ほどが　たちました！|<br>|「今まで　私をおそばに置いてくださり|　本当に　ありがとうございました。|　この家で働けて　とても幸せです。|<br>|「今までの人生でも　この半年は　|　１番充実して　楽しい時間でした。|　それも　<%sM_OWNER><%sM_SAMA>と出会えたからです。|<br>|「<%sM_OWNER><%sM_SAMA>の　コンシェルジュは|　私しかいないと　胸をはって言えます。|　この先もずっと　お仕えさせてくださいね！　": "<%sM_OWNER><%sM_SAMA>.|Today, it's been almost half a year since I|started working in this house! Thank you so|<br>|much for taking me under your wing. I'm so|happy to be working in this house. The past|six months have been the most fulfilling and|<br>|enjoyable time of my life. And that's|because I met <%sM_OWNER><%sM_SAM|A>. I can proudly say that I am|<br>|the only concierge for <%sM_OWNER|><%sM_SAMA>. I would like to|serve you for a long time to come!"
     },
     "112": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　２ヶ月ほどが　たちました。|<br>|「最近では　ここでのお仕事が|　自分の天職であったと　思っております。|<br>|「そして　<%sM_OWNER><%sM_SAMA>と|　私の出会いは　運命であったのだとすら|　感じております。|<br>|「これからも　末永く|　<%sM_OWNER><%sM_SAMA>の　おそばに|　置いていただけたら　うれしいです。": "<%sM_OWNER><%sM_SAMA>...|It's been almost two months since I came to|this house... These days, I consider my work|<br>|here to be my true calling... And I even feel|that my encounter with <%sM_OWNER|><%sM_SAMA>was fate... I would be|<br>|happy if you could keep <%sM_OWNER>N|G><%sM_SAMA>by your side for a|long time to come..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　２ヶ月ほどが　たちました。|<br>|「最近では　ここでのお仕事が|　自分の天職であったと　思っております。|<br>|「そして　<%sM_OWNER><%sM_SAMA>と|　私の出会いは　運命であったのだとすら|　感じております。|<br>|「これからも　末永く|　<%sM_OWNER><%sM_SAMA>の　おそばに|　置いていただけたら　うれしいです。": "<%sM_OWNER><%sM_SAMA>.|It's been almost two months since I came to|this house. These days, I consider my work|<br>|here to be my true calling. And I even feel|that my encounter with <%sM_OWNER|><%sM_SAMA>was fate. I would be|<br>|happy if you could keep <%sM_OWNER>N|G><%sM_SAMA>by your side for a|long time to come."
     },
     "113": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　２週間ほどが　たちました。|<br>|「すこし　この家にも慣れてきて|　だんだん　<%sM_OWNER><%sM_SAMA>のことも|　わかるようになってきました。|<br>|「私は　ここで働くのが　とても好きです。|　<%sM_OWNER><%sM_SAMA>にも　私を選んでよかったと|　思ってもらえるよう　がんばりますね。": "<%sM_OWNER><%sM_SAMA>...|It's been about two weeks since I came to|this house... I'm getting used to this house|<br>|and I'm getting to know <%sM_OWNER>N|G><%sM_SAMA>... I really like|working here... I'll do my best to make <%sM_|<br>|OWNER><%sM_SAMA>happy|that they chose me..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　２週間ほどが　たちました。|<br>|「すこし　この家にも慣れてきて|　だんだん　<%sM_OWNER><%sM_SAMA>のことも|　わかるようになってきました。|<br>|「私は　ここで働くのが　とても好きです。|　<%sM_OWNER><%sM_SAMA>にも　私を選んでよかったと|　思ってもらえるよう　がんばりますね。": "<%sM_OWNER><%sM_SAMA>.|It's been about two weeks since I came to|this house. I'm getting used to this house|<br>|and I'm getting to know <%sM_OWNER>N|G><%sM_SAMA>. I really like|working here. I'll do my best to make <%sM_|<br>|OWNER><%sM_SAMA>happy|that they chose me."
     },
     "114": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１０週間ほどが　たちました。|<br>|「前は　心配で仕方なかったのですが|　最近は家で　<%sM_OWNER><%sM_SAMA>を|　お待ちすることにも　慣れてきました。|<br>|「<%sM_OWNER><%sM_SAMA>は　無事に帰ってくると|　信じて　自分の役目を果たすのが|　私の務めであると　気づきました。|<br>|「ですが　どうか　お出かけの時には|　くれぐれも　気をつけてくださいね。": "<%sM_OWNER><%sM_SAMA>...|I've been in this house for about ten weeks|now... I used to worry about you, but lately|<br>|I've gotten used to waiting at home for <%sM_|OWNER><%sM_SAMA>...|I've come to realize that it's my duty to do|<br>|my part and trust that|<%sM_OWNER><%sM_SAMA>|will return safely... But please, please be|<br>|careful when you go out..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　１０週間ほどが　たちました。|<br>|「前は　心配で仕方なかったのですが|　最近は家で　<%sM_OWNER><%sM_SAMA>を|　お待ちすることにも　慣れてきました。|<br>|「<%sM_OWNER><%sM_SAMA>は　無事に帰ってくると|　信じて　自分の役目を果たすのが|　私の務めであると　気づきました。|<br>|「ですが　どうか　お出かけの時には|　くれぐれも　気をつけてくださいね。": "<%sM_OWNER><%sM_SAMA>.|I've been in this house for about ten weeks|now. I used to worry about you, but lately|<br>|I've gotten used to waiting at home for <%sM_|OWNER><%sM_SAMA>.|I've come to realize that it's my duty to do|<br>|my part and trust that|<%sM_OWNER><%sM_SAMA>|will return safely. But please, please be|<br>|careful when you go out."
     },
     "115": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　３週間ほどが　たちました。|<br>|「最近では　<%sM_OWNER><%sM_SAMA>の|　お身体や生活のリズムのことまで|　わかるようになってきたのが　うれしいです。|<br>|「これからも　<%sM_OWNER><%sM_SAMA>だけの|　プライベートコンシェルジュとして|　おそばに　置いてくださいね。": "<%sM_OWNER><%sM_SAMA>...|I've been in this house for about three weeks|now... I'm glad that I'm getting to know <%sM|<br>|_OWNER><%sM_SAMA>'s|body and rhythm of life... Please continue to|keep <%sM_OWNER><%sM_SAMA>|<br>|by your side as your own private|concierge..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　３週間ほどが　たちました。|<br>|「最近では　<%sM_OWNER><%sM_SAMA>の|　お身体や生活のリズムのことまで|　わかるようになってきたのが　うれしいです。|<br>|「これからも　<%sM_OWNER><%sM_SAMA>だけの|　プライベートコンシェルジュとして|　おそばに　置いてくださいね。": "<%sM_OWNER><%sM_SAMA>.|I've been in this house for about three weeks|now. I'm glad that I'm getting to know <%sM|<br>|_OWNER><%sM_SAMA>'s|body and rhythm of life. Please continue to|keep <%sM_OWNER><%sM_SAMA>|<br>|by your side as your own private|concierge."
     },
     "116": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　３ヶ月ほどが　たちました。|<br>|「あっという間に　３ヶ月が過ぎたことに|　自分でも　びっくりしています。|　それくらい　毎日が楽しいのです。|<br>|「たくさんの　コンシェルジュの中から|　私を選んでくださり　ありがとうございます。|　これからも　精一杯　お仕えします！": "<%sM_OWNER><%sM_SAMA>...|Today, it's been about three months since I|came to this house... I'm surprised that|<br>|three months have gone by so quickly...|That's how much I enjoy every day. Thank you|for choosing me out of so many concierges...|<br>|I'll continue to serve you to the best of my|ability!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　このお家に来てから|　３ヶ月ほどが　たちました。|<br>|「あっという間に　３ヶ月が過ぎたことに|　自分でも　びっくりしています。|　それくらい　毎日が楽しいのです。|<br>|「たくさんの　コンシェルジュの中から|　私を選んでくださり　ありがとうございます。|　これからも　精一杯　お仕えします！": "<%sM_OWNER><%sM_SAMA>.|Today, it's been about three months since I|came to this house. I'm surprised that|<br>|three months have gone by so quickly.|That's how much I enjoy every day. Thank you|for choosing me out of so many concierges.|<br>|I'll continue to serve you to the best of my|ability!"
     },
     "117": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　４ヶ月ほどが　たちました。|<br>|「最近は　毎日　<%sM_OWNER><%sM_SAMA>の家で|　働ける幸せを　かみしめています。|　とても　充実していて楽しいです。|<br>|「本当に　<%sM_OWNER><%sM_SAMA>は|　私の自慢の　ご主人さまです。|　これからもお側にいさせてくださいね。": "<%sM_OWNER><%sM_SAMA>...|Today, I've been working in this house for|almost four months... Lately, I've been|<br>|chomping at the bit to be able to work in the|house of <%sM_OWNER><%sM_SAMA>|... It's so fulfilling and fun...|<br>|You are truly <%sM_OWNER><%sM_SAM|A>my proud husband... Please let|me continue to be by your side..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　４ヶ月ほどが　たちました。|<br>|「最近は　毎日　<%sM_OWNER><%sM_SAMA>の家で|　働ける幸せを　かみしめています。|　とても　充実していて楽しいです。|<br>|「本当に　<%sM_OWNER><%sM_SAMA>は|　私の自慢の　ご主人さまです。|　これからもお側にいさせてくださいね。": "<%sM_OWNER><%sM_SAMA>.|Today, I've been working in this house for|almost four months. Lately, I've been|<br>|chomping at the bit to be able to work in the|house of <%sM_OWNER><%sM_SAMA>|. It's so fulfilling and fun.|<br>|You are truly <%sM_OWNER><%sM_SAM|A>my proud husband. Please let|me continue to be by your side."
     },
     "118": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　５ヶ月ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>に　お仕えしてると|　毎日が刺激的で　自分がとても|　成長していると実感できます。|<br>|「そんな経験を　私にさせてくださって|　本当に　ありがとうございます。|　これからも　お仕えさせていただきます。": "<%sM_OWNER><%sM_SAMA>...|Today, about five months after I started|working in this house... Serving <%sM_OWNER>|<br>|<%sM_SAMA>has been an|exciting experience and I feel I've grown so|much... Thank you so much for giving me such|<br>|an experience... I would like to continue to|serve you..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　私が　この家で働きはじめて|　５ヶ月ほどが　たちました。|<br>|「<%sM_OWNER><%sM_SAMA>に　お仕えしてると|　毎日が刺激的で　自分がとても|　成長していると実感できます。|<br>|「そんな経験を　私にさせてくださって|　本当に　ありがとうございます。|　これからも　お仕えさせていただきます。": "<%sM_OWNER><%sM_SAMA>.|Today, about five months after I started|working in this house. Serving <%sM_OWNER>|<br>|<%sM_SAMA>has been an|exciting experience and I feel I've grown so|much. Thank you so much for giving me such|<br>|an experience. I would like to continue to|serve you."
     },
     "119": {
-        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　ただいま　お客様を　応対中ですので|　後ほど　またお申し付け下さい。": "I'm sorry, sir.|<%sM_OWNER><%sM_SAMA>...|We're busy with a customer right now, so|<br>|please come back later..."
+        "「申し訳ありません　<%sM_OWNER><%sM_SAMA>。|　ただいま　お客様を　応対中ですので|　後ほど　またお申し付け下さい。": "I'm sorry, sir.|<%sM_OWNER><%sM_SAMA>.|We're busy with a customer right now, so|<br>|please come back later."
     },
     "120": {
-        "「今　<%sM_NAME>さんは|　お客様を　応対中のようです。|　後ほど　またお申し付け下さい。": "Mr. <%sM_NAME> is currently|assisting a customer... We'll get back to you|later."
+        "「今　<%sM_NAME>さんは|　お客様を　応対中のようです。|　後ほど　またお申し付け下さい。": "Mr. <%sM_NAME> is currently|assisting a customer. We'll get back to you|later."
     },
     "121": {
         "「伝言を　お客様にお伝えするときに|　『ようこそいらっしゃいました』といった|　私からの　ごあいさつも　お伝えしますか？|<select_se_off>|あいさつを伝える|伝言後のあいさつだけ伝える|伝言だけを伝える|<select_end><break>": "When you give a message to a customer, do you|also give them my greeting, like, \"Welcome.\"|<select_se_off>|convey a greeting|Only convey greetings after the message|Just passing on a message|<select_end><break>"
@@ -369,157 +369,157 @@
         "「この部分の　伝言は　|　特にしないでよろしいですか？|<yesno><break>": "Are you sure you don't want me to leave a|message for this part?<yesno><break>"
     },
     "124": {
-        "「ただいま　私は　<%sM_OWNER><%sM_SAMA>に|　<%sM_NOW_TIMES>よう　承っております。|　ごあいさつの頻度を　変更いたしますか？|<break>": "I am now accepting|<%sM_NOW_TIMES> for <%sM_OWNER>|<%sM_SAMA>... Would you|<br>|like to change the frequency of your|greetings?<break>"
+        "「ただいま　私は　<%sM_OWNER><%sM_SAMA>に|　<%sM_NOW_TIMES>よう　承っております。|　ごあいさつの頻度を　変更いたしますか？|<break>": "I am now accepting|<%sM_NOW_TIMES> for <%sM_OWNER>|<%sM_SAMA>. Would you|<br>|like to change the frequency of your|greetings?<break>"
     },
     "125": {
         "「<%sM_OWNER><%sM_SAMA>への|　ごあいさつを　<%sM_TIMES>ように|　いたしますか？|<yesno><break>": "Would you like to address|<%sM_OWNER><%sM_SAMA>|as <%sM_TIMES>?|<br><yesno><break>"
     },
     "126": {
-        "「承知いたしました。|　今度からは　<%sM_TIMES>ように|　いたしますね。": "Yes, sir... From now on I will use|<%sM_TIMES>..."
+        "「承知いたしました。|　今度からは　<%sM_TIMES>ように|　いたしますね。": "Yes, sir. From now on I will use|<%sM_TIMES>."
     },
     "127": {
         "「はい！　お呼びですか　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>の　お役にたてることが|　１番うれしいので　なんでも言ってくださいね！": "YES! You wanted to see me, <%sM_OWNER>|G><%sM_SAMA>! I'm more than|happy to help <%sM_OWNER><%sM_SAM|<br>|A>, so please feel free to tell|me anything!"
     },
     "128": {
-        "「ただいま　私は<%sM_NOW_TACHIKATA>で|　ご奉仕させていただいています。|　どの立ちかたが　よろしいでしょうか？|<break>": "I'm currently serving as|<%sM_NOW_TACHIKATA>... Which|position would you like me to stand in?|<br><break>"
+        "「ただいま　私は<%sM_NOW_TACHIKATA>で|　ご奉仕させていただいています。|　どの立ちかたが　よろしいでしょうか？|<break>": "I'm currently serving as|<%sM_NOW_TACHIKATA>. Which|position would you like me to stand in?|<br><break>"
     },
     "129": {
         "「<%sM_TACHIKATA>にて|　<%sM_OWNER><%sM_SAMA>に　ご奉仕するのが|　よろしいでしょうか？|<yesno><break>": "Would it be better to serve|<%sM_TACHIKATA> in <%sM_OWNER><%sM_SAMA>?|<br><yesno><break>"
     },
     "130": {
-        "「承知いたしました。|　今度からは　<%sM_TACHIKATA>で|　お仕えさせていただきますね。": "Yes, sir... From now on, I will serve you|with <%sM_TACHIKATA>..."
+        "「承知いたしました。|　今度からは　<%sM_TACHIKATA>で|　お仕えさせていただきますね。": "Yes, sir. From now on, I will serve you|with <%sM_TACHIKATA>."
     },
     "131": {
-        "「……はっ！　すみません　固まっておりました。|　ああ　どうしたらいいのでしょう。|　いけません！　私は　お仕えする身ですのに！|<br>|「でも　私もずっと　お慕いしていたのです！|　そうだったらいいなと　ずっと思っていました。|　一生　<%sM_OWNER><%sM_SAMA>に　ついていきます！|<br>|「……って　何に愛してるって言ったか|　よく　聞いてなかったような……。|　あー！　申し訳ありません　忘れてください！": "... Huh! I'm sorry, sir. It's stuck... Oh, my|God, what do I do? I can't! I'm your servant!|But I've always loved you too! I've always|<br>|wished that... I'll follow|<%sM_OWNER><%sM_SAMA>|for the rest of my life! ... I guess I didn't|<br>|quite catch what I said I love you for... Oh!|I'm sorry. Forget it!"
+        "「……はっ！　すみません　固まっておりました。|　ああ　どうしたらいいのでしょう。|　いけません！　私は　お仕えする身ですのに！|<br>|「でも　私もずっと　お慕いしていたのです！|　そうだったらいいなと　ずっと思っていました。|　一生　<%sM_OWNER><%sM_SAMA>に　ついていきます！|<br>|「……って　何に愛してるって言ったか|　よく　聞いてなかったような……。|　あー！　申し訳ありません　忘れてください！": ". Huh! I'm sorry, sir. It's stuck. Oh, my|God, what do I do? I can't! I'm your servant!|But I've always loved you too! I've always|<br>|wished that. I'll follow|<%sM_OWNER><%sM_SAMA>|for the rest of my life! . I guess I didn't|<br>|quite catch what I said I love you for. Oh!|I'm sorry. Forget it!"
     },
     "132": {
         "「それでは　<%sM_OWNER><%sM_SAMA>|　なんなりと　お申し付けください。|<break>": "Well then, <%sM_OWNER><%sM_SAMA>.|I am at your service.<break>"
     },
     "133": {
-        "「『あいさつの頻度』から　<%sM_OWNER><%sM_SAMA>が|　家にお帰りになった時の　私からの|　ごあいさつの頻度を　ご指定いただけます。|<br>|「より快適に　生活していただけるよう|　お好みの頻度にて　お声掛けいたしますので|　ぜひ　ご用命くださいね。|<bw_break>": "The frequency of greetings|<%sM_OWNER><%sM_SAMA>|allows you to specify how often you would|<br>|like to be greeted by me when you return|home... I'll be sure to greet you as often as|you like to make your life more comfortable.|<br><bw_break>"
+        "「『あいさつの頻度』から　<%sM_OWNER><%sM_SAMA>が|　家にお帰りになった時の　私からの|　ごあいさつの頻度を　ご指定いただけます。|<br>|「より快適に　生活していただけるよう|　お好みの頻度にて　お声掛けいたしますので|　ぜひ　ご用命くださいね。|<bw_break>": "The frequency of greetings|<%sM_OWNER><%sM_SAMA>|allows you to specify how often you would|<br>|like to be greeted by me when you return|home. I'll be sure to greet you as often as|you like to make your life more comfortable.|<br><bw_break>"
     },
     "134": {
-        "「『立ちかたを変える』から　私が普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　ご用命くださいね。|<bw_break>": "From \"Change Your Standing Style\" you can|order the way I usually stand when I serve <%|sM_OWNER><%sM_SAMA>.|<br>|If you order the way I stand, I will serve|you in the way you like, so please order|me...|<br><bw_break>"
+        "「『立ちかたを変える』から　私が普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　ご用命くださいね。|<bw_break>": "From \"Change Your Standing Style\" you can|order the way I usually stand when I serve <%|sM_OWNER><%sM_SAMA>.|<br>|If you order the way I stand, I will serve|you in the way you like, so please order|me.|<br><bw_break>"
     },
     "135": {
-        "「『伝言を登録する』から　お言葉をいただくと|　遊びに来たお客様が　いらした時に|　私から　お言葉をお伝えします。|<br>|「伝言に登録できるのは　全角２０文字まで。|　いつでも　伝言は変えることができます。　|　お好きなお言葉を　お申し付けください。|<bw_break>": "If you'd like to leave a message for me, I'll|be happy to pass it on to you when you come|to visit. You can only add 20 words to a|<br>|message... You can change your message at any|time... You can change your message any|time...|<br><bw_break>"
+        "「『伝言を登録する』から　お言葉をいただくと|　遊びに来たお客様が　いらした時に|　私から　お言葉をお伝えします。|<br>|「伝言に登録できるのは　全角２０文字まで。|　いつでも　伝言は変えることができます。　|　お好きなお言葉を　お申し付けください。|<bw_break>": "If you'd like to leave a message for me, I'll|be happy to pass it on to you when you come|to visit. You can only add 20 words to a|<br>|message. You can change your message at any|time. You can change your message any|time.|<br><bw_break>"
     },
     "136": {
-        "「遊びに来た　お客様に　私から|　お伝えできる伝言の量が　増えましたので|　お知らせさせていただきます。|<br>|「以前は　伝言は全角２０文字まででしたが|　本日から　全角６０文字まで　お客様に|　お伝えできるようになりました。|<br>|「ぜひ　<%sM_OWNER><%sM_SAMA>の　素敵なお言葉を|　お客様にも　かけてあげてくださいね。|　喜んで　私も　お手伝いをさせていただきます。": "I'd like to inform you that I've increased|the amount of messages I can give to|visitors. Previously, messages were limited|<br>|to 20 double-byte characters, but as of|today, messages can be up to 60 double-byte|characters... Please feel free to use|<br>|<%sM_OWNER><%sM_SAMA>|as a way to say something nice to your|customers... I would be delighted to help|<br>|you..."
+        "「遊びに来た　お客様に　私から|　お伝えできる伝言の量が　増えましたので|　お知らせさせていただきます。|<br>|「以前は　伝言は全角２０文字まででしたが|　本日から　全角６０文字まで　お客様に|　お伝えできるようになりました。|<br>|「ぜひ　<%sM_OWNER><%sM_SAMA>の　素敵なお言葉を|　お客様にも　かけてあげてくださいね。|　喜んで　私も　お手伝いをさせていただきます。": "I'd like to inform you that I've increased|the amount of messages I can give to|visitors. Previously, messages were limited|<br>|to 20 double-byte characters, but as of|today, messages can be up to 60 double-byte|characters. Please feel free to use|<br>|<%sM_OWNER><%sM_SAMA>|as a way to say something nice to your|customers. I would be delighted to help|<br>|you."
     },
     "137": {
-        "「ああっ！　<%sM_OWNER><%sM_SAMA>！|　たいへん　お見苦しいところを……。|　申し訳ありません！|<br>|「す…すぐ　身支度してまいります！！": "Ahh! <%sM_OWNER><%sM_SAMA>|G>! I apologize for the inconvenience...|I'm so sorry! I'll... I'll be right back to|<br>|get ready!"
+        "「ああっ！　<%sM_OWNER><%sM_SAMA>！|　たいへん　お見苦しいところを……。|　申し訳ありません！|<br>|「す…すぐ　身支度してまいります！！": "Ahh! <%sM_OWNER><%sM_SAMA>|G>! I apologize for the inconvenience.|I'm so sorry! I'll. I'll be right back to|<br>|get ready!"
     },
     "138": {
-        "「ああっ！　お客様！|　たいへん　お見苦しいところを……。|　申し訳ありません！|<br>|「す…すぐ　身支度してまいります！！": "Aah! Sir! I'm so sorry... I'm so sorry! I...|I'll be right back!"
+        "「ああっ！　お客様！|　たいへん　お見苦しいところを……。|　申し訳ありません！|<br>|「す…すぐ　身支度してまいります！！": "Aah! Sir! I'm so sorry. I'm so sorry! I.|I'll be right back!"
     },
     "139": {
-        "「はっ！　お客様　すみません！|　読書に　夢中になっておりました。|　本を読みだすと　時間を忘れてしまって……。": "Huh! Sir, I'm sorry! I've been so absorbed in|my reading. When I start reading, I lose|track of time..."
+        "「はっ！　お客様　すみません！|　読書に　夢中になっておりました。|　本を読みだすと　時間を忘れてしまって……。": "Huh! Sir, I'm sorry! I've been so absorbed in|my reading. When I start reading, I lose|track of time."
     },
     "140": {
-        "「はっ！　お客様！|　気付かずに　すみません！|　ちょっと　ぼんやりしてしまいました……。": "Ha! Sir! I'm sorry I didn't recognize you!|I'm a little fuzzy..."
+        "「はっ！　お客様！|　気付かずに　すみません！|　ちょっと　ぼんやりしてしまいました……。": "Ha! Sir! I'm sorry I didn't recognize you!|I'm a little fuzzy."
     },
     "141": {
-        "「お見苦しいところを　見せてしまいました。|　休憩のつもりが　つい眠ってしまったようです。|　まことに　失礼いたしました！": "I'm so sorry. I'm sorry. I thought I was|taking a break, but I fell asleep... I beg|your pardon."
+        "「お見苦しいところを　見せてしまいました。|　休憩のつもりが　つい眠ってしまったようです。|　まことに　失礼いたしました！": "I'm so sorry. I'm sorry. I thought I was|taking a break, but I fell asleep. I beg|your pardon."
     },
     "142": {
-        "「はっ！　お客様　すみません！|　ティータイムを　過ごしておりました！|　すぐに　片付けさせていただきます。": "Huh! Excuse me, sir! I was having a tea|break! We'll be right back..."
+        "「はっ！　お客様　すみません！|　ティータイムを　過ごしておりました！|　すぐに　片付けさせていただきます。": "Huh! Excuse me, sir! I was having a tea|break! We'll be right back."
     },
     "143": {
-        "「どうぞ　<%sM_ITEM>です！|　オルフェアの町は　いつ行っても|　楽しい雰囲気で　ワクワクしますね！|<br>|「町の飾りひとつを　とって見ても|　とても可愛くて　見ていて飽きません。": "Here you go, <%sM_ITEM>! The town|of Orphea is always so fun and exciting to|visit! Even just looking at the decorations|<br>|in the town, they're so cute and I never get|tired of looking at them..."
+        "「どうぞ　<%sM_ITEM>です！|　オルフェアの町は　いつ行っても|　楽しい雰囲気で　ワクワクしますね！|<br>|「町の飾りひとつを　とって見ても|　とても可愛くて　見ていて飽きません。": "Here you go, <%sM_ITEM>! The town|of Orphea is always so fun and exciting to|visit! Even just looking at the decorations|<br>|in the town, they're so cute and I never get|tired of looking at them."
     },
     "144": {
-        "「どうぞ　<%sM_ITEM>です！|　娯楽島ラッカランは　話題の施設が|　たくさんあって　楽しいですね。|<br>|「あの町には　数えきれないほどチャンスがあって|　自分も　何か勝負に挑みたくなるような|　雰囲気がありますね！": "Here you go, <%sM_ITEM>! The|island of Lackalang has so much to offer...|There are so many opportunities in that town,|<br>|it makes me want to try my hand at something!"
+        "「どうぞ　<%sM_ITEM>です！|　娯楽島ラッカランは　話題の施設が|　たくさんあって　楽しいですね。|<br>|「あの町には　数えきれないほどチャンスがあって|　自分も　何か勝負に挑みたくなるような|　雰囲気がありますね！": "Here you go, <%sM_ITEM>! The|island of Lackalang has so much to offer.|There are so many opportunities in that town,|<br>|it makes me want to try my hand at something!"
     },
     "145": {
-        "「どうぞ　<%sM_ITEM>です！|　ガタラの町は　面白いデザインの|　建物がたくさんあって　新鮮ですね。|<br>|「どういう仕組みで　動いているのだろうと|　いつ見ても　不思議に思ってしまいます。": "Here you go, <%sM_ITEM>! The town|of Gathara has so many interestingly designed|buildings... I've always wondered how they|<br>|work."
+        "「どうぞ　<%sM_ITEM>です！|　ガタラの町は　面白いデザインの|　建物がたくさんあって　新鮮ですね。|<br>|「どういう仕組みで　動いているのだろうと|　いつ見ても　不思議に思ってしまいます。": "Here you go, <%sM_ITEM>! The town|of Gathara has so many interestingly designed|buildings. I've always wondered how they|<br>|work."
     },
     "146": {
-        "「どうぞ　<%sM_ITEM>です！|　ジュレットの町は　海風が気持ちよくて|　開放的な町ですね！|<br>|「<%sM_OWNER><%sM_SAMA>が　あの町にいたら|　きっと　絵になるだろうなと|　海を見ながら　考えておりましたよ。": "Here you go, <%sM_ITEM>! The town|of Jourette has a nice sea breeze, and it's|an open town! If|<br>|<%sM_OWNER><%sM_SAMA>|were in that town, I'm sure it would make a|great picture..."
+        "「どうぞ　<%sM_ITEM>です！|　ジュレットの町は　海風が気持ちよくて|　開放的な町ですね！|<br>|「<%sM_OWNER><%sM_SAMA>が　あの町にいたら|　きっと　絵になるだろうなと|　海を見ながら　考えておりましたよ。": "Here you go, <%sM_ITEM>! The town|of Jourette has a nice sea breeze, and it's|an open town! If|<br>|<%sM_OWNER><%sM_SAMA>|were in that town, I'm sure it would make a|great picture."
     },
     "147": {
-        "「申し訳ありません。<%sM_BAG_TYPE>がいっぱいで|　お持ちになれないのですね。|　また改めて　お渡しいたしますね。": "I'm sorry... <%sM_BAG_TYPE> is|full and I can't take it with me... I'll get|it to you later..."
+        "「申し訳ありません。<%sM_BAG_TYPE>がいっぱいで|　お持ちになれないのですね。|　また改めて　お渡しいたしますね。": "I'm sorry. <%sM_BAG_TYPE> is|full and I can't take it with me. I'll get|it to you later."
     },
     "148": {
-        "「<%sM_OWNER><%sM_SAMA>のことを考えて|　精一杯　選びました。|　お気に召されると　よいのですが……。": "<%sM_OWNER><%sM_SAMA>|I've done my best to choose... I hope you|like it..."
+        "「<%sM_OWNER><%sM_SAMA>のことを考えて|　精一杯　選びました。|　お気に召されると　よいのですが……。": "<%sM_OWNER><%sM_SAMA>|I've done my best to choose. I hope you|like it."
     },
     "149": {
-        "「<%sM_OWNER><%sM_SAMA>　お受け取りください！|　いつも　気にかけてくださる感謝を込めて　|　プレゼントを　用意したのです。": "<%sM_OWNER><%sM_SAMA>|Please accept! As a token of my appreciation|for your continued concern, I have prepared a|<br>|gift for you..."
+        "「<%sM_OWNER><%sM_SAMA>　お受け取りください！|　いつも　気にかけてくださる感謝を込めて　|　プレゼントを　用意したのです。": "<%sM_OWNER><%sM_SAMA>|Please accept! As a token of my appreciation|for your continued concern, I have prepared a|<br>|gift for you."
     },
     "150": {
-        "「どうぞ　<%sM_ITEM>です！|　グレン城下町は　いつ行っても|　とても　活気がありますね。|<br>|「あの町の　人たちを見ていると|　<%sM_OWNER><%sM_SAMA>も　どこかで冒険される姿を|　想像してしまいます。": "Here you are, <%sM_ITEM>! The|castle town of Grenn is always so lively...|Looking at the people of that town, I can't|<br>|help but imagine|<%sM_OWNER><%sM_SAMA>|having an adventure somewhere else..."
+        "「どうぞ　<%sM_ITEM>です！|　グレン城下町は　いつ行っても|　とても　活気がありますね。|<br>|「あの町の　人たちを見ていると|　<%sM_OWNER><%sM_SAMA>も　どこかで冒険される姿を|　想像してしまいます。": "Here you are, <%sM_ITEM>! The|castle town of Grenn is always so lively.|Looking at the people of that town, I can't|<br>|help but imagine|<%sM_OWNER><%sM_SAMA>|having an adventure somewhere else."
     },
     "151": {
-        "「どうぞ　<%sM_ITEM>です！|　アズランは　とても緑の美しい|　きれいなところですね。|<br>|「あの町を歩き　風に吹かれていたら|　<%sM_OWNER><%sM_SAMA>のことを　思いだし|　すぐ帰りたくなってしまいました……。": "Here you go. <%sM_ITEM>! Aztlan|is a beautiful, green place... As I was|walking through that town and the wind was|<br>|blowing, I remembered|<%sM_OWNER><%sM_SAMA>|and I wanted to go home right away..."
+        "「どうぞ　<%sM_ITEM>です！|　アズランは　とても緑の美しい|　きれいなところですね。|<br>|「あの町を歩き　風に吹かれていたら|　<%sM_OWNER><%sM_SAMA>のことを　思いだし|　すぐ帰りたくなってしまいました……。": "Here you go. <%sM_ITEM>! Aztlan|is a beautiful, green place. As I was|walking through that town and the wind was|<br>|blowing, I remembered|<%sM_OWNER><%sM_SAMA>|and I wanted to go home right away."
     },
     "152": {
         "「どうぞ　<%sM_ITEM>です！|　メギストリスの都は　とても華やかで|　歩いているだけでも　楽しいところですね！|<br>|「おしゃれな人も多くて|　私も　もっと　<%sM_OWNER><%sM_SAMA>のように|　センスを　みがきたいと　感じましたよ！": "Here you go, <%sM_ITEM>! The city|of Megistris is so gorgeous, it's fun just to|walk around here! There are many fashionable|<br>|people, and I feel like I need to develop my|own taste like <%sM_OWNER><%sM_SA|MA>!"
     },
     "153": {
-        "「どうぞ　<%sM_ITEM>です！|　ドルワームは　雄大で|　とてもスケールの大きな町ですね！|<br>|「あのような　町を歩くと|　この世の中には　自分の知らないものが|　まだまだ　たくさんあるんだと感じます。": "Here you go, <%sM_ITEM>! Dorworm|is a grand, grand town! When I walk through a|town like that, I realize that there's still|<br>|so much more to this world that I don't|know..."
+        "「どうぞ　<%sM_ITEM>です！|　ドルワームは　雄大で|　とてもスケールの大きな町ですね！|<br>|「あのような　町を歩くと|　この世の中には　自分の知らないものが|　まだまだ　たくさんあるんだと感じます。": "Here you go, <%sM_ITEM>! Dorworm|is a grand, grand town! When I walk through a|town like that, I realize that there's still|<br>|so much more to this world that I don't|know."
     },
     "154": {
-        "「どうぞ　<%sM_ITEM>です！|　ヴェリナードの町は　厳かな雰囲気が|　神秘的で　とても素敵ですね。|<br>|「町の作りも　とても不思議で|　いつ行っても　新鮮な気持ちで|　散策できますね。": "Here you are, <%sM_ITEM>! The|town of Velinade is solemn, so mysterious, so|lovely... The town's architecture is also|<br>|very mysterious, and you can always walk|around with a fresh feeling..."
+        "「どうぞ　<%sM_ITEM>です！|　ヴェリナードの町は　厳かな雰囲気が|　神秘的で　とても素敵ですね。|<br>|「町の作りも　とても不思議で|　いつ行っても　新鮮な気持ちで|　散策できますね。": "Here you are, <%sM_ITEM>! The|town of Velinade is solemn, so mysterious, so|lovely. The town's architecture is also|<br>|very mysterious, and you can always walk|around with a fresh feeling."
     },
     "155": {
-        "「どうぞ　<%sM_ITEM>です！|　カミハルムイの桜は　|　一度見たら　忘れられませんね。|<br>|「あの桜の中を　<%sM_OWNER><%sM_SAMA>と|　一緒に歩けたら……　きっと　とても|　いい思い出になるでしょうね！": "Here you are, <%sM_ITEM>! Once|you see the cherry blossoms in Kamiharmui,|you'll never forget them. If I could walk|<br>|through those cherry blossoms with <%sM_OWNER>|<%sM_SAMA>... I'm|sure it would be a very good memory!"
+        "「どうぞ　<%sM_ITEM>です！|　カミハルムイの桜は　|　一度見たら　忘れられませんね。|<br>|「あの桜の中を　<%sM_OWNER><%sM_SAMA>と|　一緒に歩けたら……　きっと　とても|　いい思い出になるでしょうね！": "Here you are, <%sM_ITEM>! Once|you see the cherry blossoms in Kamiharmui,|you'll never forget them. If I could walk|<br>|through those cherry blossoms with <%sM_OWNER>|<%sM_SAMA>. I'm|sure it would be a very good memory!"
     },
     "156": {
-        "「どうぞ　<%sM_ITEM>です！|　ガートラント城下町は　無骨で|　荒々しい雰囲気が　刺激的ですね。|<br>|「<%sM_OWNER><%sM_SAMA>も　きっとお強いのだろうなと|　町の強そうな人たちを　ながめながら|　考えておりました。": "Here you are, <%sM_ITEM>! The|castle town of Gartland is rugged, rough and|exciting... <%sM_OWNER><%sM_SAMA>|<br>|I'm sure they're strong, too, I|think as I stare at the strong-looking people|of the town..."
+        "「どうぞ　<%sM_ITEM>です！|　ガートラント城下町は　無骨で|　荒々しい雰囲気が　刺激的ですね。|<br>|「<%sM_OWNER><%sM_SAMA>も　きっとお強いのだろうなと|　町の強そうな人たちを　ながめながら|　考えておりました。": "Here you are, <%sM_ITEM>! The|castle town of Gartland is rugged, rough and|exciting. <%sM_OWNER><%sM_SAMA>|<br>|I'm sure they're strong, too, I|think as I stare at the strong-looking people|of the town."
     },
     "157": {
-        "「どうぞ　<%sM_ITEM>です！|　港町レンドアは　いつ行っても|　活気があって　パワーをもらえますね。|<br>|「船に乗って　どこかに旅することを|　想像すると　とても　ワクワクしますね！": "Here you are, <%sM_ITEM>! The|harbor town of Lendore is always so vibrant|and energizing... It's so exciting to think|<br>|of getting on a ship and traveling somewhere."
+        "「どうぞ　<%sM_ITEM>です！|　港町レンドアは　いつ行っても|　活気があって　パワーをもらえますね。|<br>|「船に乗って　どこかに旅することを|　想像すると　とても　ワクワクしますね！": "Here you are, <%sM_ITEM>! The|harbor town of Lendore is always so vibrant|and energizing. It's so exciting to think|<br>|of getting on a ship and traveling somewhere."
     },
     "158": {
-        "「どんな　ふるまい方で　<%sM_OWNER><%sM_SAMA>に|　お仕えするのが　よいでしょうか……。|<break>": "In what manner should I serve <%sM_OWNER>|<%sM_SAMA>...<break>"
+        "「どんな　ふるまい方で　<%sM_OWNER><%sM_SAMA>に|　お仕えするのが　よいでしょうか……。|<break>": "In what manner should I serve <%sM_OWNER>|<%sM_SAMA>.<break>"
     },
     "159": {
         "「<%sM_FURUMAI>で　お仕えするので|　よろしいでしょうか？|<yesno><break>": "I'll serve you with|<%sM_FURUMAI>, if that's all|right.|<br><yesno><break>"
     },
     "160": {
-        "「承知いたしました。|　今度からは　<%sM_FURUMAI>で|　精一杯　<%sM_OWNER><%sM_SAMA>にお仕えしますね！|<br>|「それでは……": "Yes, sir... From now on, I'll serve|<%sM_FURUMAI>|<%sM_OWNER><%sM_SAMA>|<br>|to the best of my ability! So..."
+        "「承知いたしました。|　今度からは　<%sM_FURUMAI>で|　精一杯　<%sM_OWNER><%sM_SAMA>にお仕えしますね！|<br>|「それでは……": "Yes, sir. From now on, I'll serve|<%sM_FURUMAI>|<%sM_OWNER><%sM_SAMA>|<br>|to the best of my ability! So."
     },
     "161": {
         "「はっ！　お客様！|　気付かずに　すみません！|　つい　お掃除に　夢中になってしまいました。": "Ah! <if_woman>Ma'am<else>Sir<endif>! Please excuse me!|I was so absorbed in cleaning, I didn't|notice you."
     },
     "162": {
-        "「私の服の　変更をお申しつけですね。|　どれを着用して　お仕えいたしますか？": "I would like to request a change of my|attire... Which of these would you like me to|wear to the service?"
+        "「私の服の　変更をお申しつけですね。|　どれを着用して　お仕えいたしますか？": "I would like to request a change of my|attire. Which of these would you like me to|wear to the service?"
     },
     "163": {
         "「<%sM_HUKU>を　着用するのが|　よろしいでしょうか？|<yesno><break>": "Would you prefer I wear|<%sM_HUKU>?<yesno><break>"
     },
     "164": {
-        "「承知いたしました。|　今度からは　<%sM_HUKU>を着用して|　お仕えいたしますね。": "Yes, sir... From now on, I will serve you|wearing <%sM_HUKU>..."
+        "「承知いたしました。|　今度からは　<%sM_HUKU>を着用して|　お仕えいたしますね。": "Yes, sir. From now on, I will serve you|wearing <%sM_HUKU>."
     },
     "165": {
-        "「あっ！　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! <%sM_OWNER><%sM_SAMA>! Sorry, I couldn't get my hair to look|right today. I got a little distracted...|<br>|I'll be right back!"
+        "「あっ！　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! <%sM_OWNER><%sM_SAMA>! Sorry, I couldn't get my hair to look|right today. I got a little distracted.|<br>|I'll be right back!"
     },
     "166": {
-        "「あっ！　お客様！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! Customer! I'm sorry, I couldn't get my|hair right today. I got a little|distracted... I'll be right back!"
+        "「あっ！　お客様！|　すみません　今日は　髪がうまく整わなくて|　ちょっと気が散ってしまい……すぐ支度します！": "Ah! Customer! I'm sorry, I couldn't get my|hair right today. I got a little|distracted. I'll be right back!"
     },
     "167": {
-        "「これは……　すごく　かっこいい服ですね！|　まるで　絵本の中の　王子様のようです。|　衣装に見合うよう　気を引き締めなければ！": "This is... That's a really cool outfit. You|look like a prince out of a storybook. I must|make sure I look as good as I feel!"
+        "「これは……　すごく　かっこいい服ですね！|　まるで　絵本の中の　王子様のようです。|　衣装に見合うよう　気を引き締めなければ！": "This is. That's a really cool outfit. You|look like a prince out of a storybook. I must|make sure I look as good as I feel!"
     },
     "168": {
-        "「えっ！　い　今なんておっしゃったのですか！|　私の聞きまちがえでしょうか……好きって……。|　あ　いえ　私のことじゃ　ないですよね……。|<br>|「ああ　私は何を言ってるんでしょう……。|　いいんです！　聞き流してください。|　<%sM_OWNER><%sM_SAMA>のこと　お慕いしています！": "What? What did you just say? Did I mishear?|You like... No, you weren't talking about|me... I don't know what I'm saying... It's|<br>|okay! Just listen... I adore <%sM_OWNER><%sM_SAMA>!"
+        "「えっ！　い　今なんておっしゃったのですか！|　私の聞きまちがえでしょうか……好きって……。|　あ　いえ　私のことじゃ　ないですよね……。|<br>|「ああ　私は何を言ってるんでしょう……。|　いいんです！　聞き流してください。|　<%sM_OWNER><%sM_SAMA>のこと　お慕いしています！": "What? What did you just say? Did I mishear?|You like. No, you weren't talking about|me. I don't know what I'm saying. It's|<br>|okay! Just listen. I adore <%sM_OWNER><%sM_SAMA>!"
     },
     "169": {
         "「": ""
     },
     "170": {
-        "「……あっ！　おしゃれな服ですね！|　これを着ると　カフェの店員さんみたいで|　新鮮な気分で　お仕えできそうですね！": "... Ah! That's a stylish dress! Wearing this,|I'll feel like I'm working in a café, so I'll|feel fresh and ready to serve!"
+        "「……あっ！　おしゃれな服ですね！|　これを着ると　カフェの店員さんみたいで|　新鮮な気分で　お仕えできそうですね！": ". Ah! That's a stylish dress! Wearing this,|I'll feel like I'm working in a café, so I'll|feel fresh and ready to serve!"
     },
     "171": {
-        "「これは　スクール衣装ですね！|　私が着ても　似合いますでしょうか……。|　少し　照れてしまいますね。": "This is a school costume. I wonder if it|would look good on me... I'm a little|embarrassed..."
+        "「これは　スクール衣装ですね！|　私が着ても　似合いますでしょうか……。|　少し　照れてしまいますね。": "This is a school costume. I wonder if it|would look good on me. I'm a little|embarrassed."
     },
     "172": {
-        "「……あっ！　すてきな　着物ですね……！|　これを着て　お仕えすると　威厳ある|　渋い　コンシェルジュになれそうです！": "... Oh! What a beautiful kimono...! If I wear|this, I'll be a dignified and refined|concierge!"
+        "「……あっ！　すてきな　着物ですね……！|　これを着て　お仕えすると　威厳ある|　渋い　コンシェルジュになれそうです！": ". Oh! What a beautiful kimono.! If I wear|this, I'll be a dignified and refined|concierge!"
     },
     "173": {
-        "「<%sM_OWNER><%sM_SAMA>……！|　シャワーの音で　気付きませんでした！|　ああ　恥ずかしい……！|<br>|「も…申し訳ありません！|　すぐ　支度してまいります！！": "<%sM_OWNER><%sM_SAMA>|...! I didn't recognize you from the shower!|Oh, the shame. I'm... I'm so sorry! I'll be|<br>|right back!"
+        "「<%sM_OWNER><%sM_SAMA>……！|　シャワーの音で　気付きませんでした！|　ああ　恥ずかしい……！|<br>|「も…申し訳ありません！|　すぐ　支度してまいります！！": "<%sM_OWNER><%sM_SAMA>|.! I didn't recognize you from the shower!|Oh, the shame. I'm. I'm so sorry! I'll be|<br>|right back!"
     },
     "174": {
-        "「お客様　いらしていたのですね！|　シャワーの音で　気付きませんでした！|　ああ　恥ずかしい……！|<br>|「も…申し訳ありません！|　すぐ　支度してまいります！！": "I didn't know you were here! I didn't|recognize you from the shower! I'm so|embarrassed! I'm... I'm so sorry! I'll be|<br>|right back!"
+        "「お客様　いらしていたのですね！|　シャワーの音で　気付きませんでした！|　ああ　恥ずかしい……！|<br>|「も…申し訳ありません！|　すぐ　支度してまいります！！": "I didn't know you were here! I didn't|recognize you from the shower! I'm so|embarrassed! I'm. I'm so sorry! I'll be|<br>|right back!"
     },
     "175": {
         "「": ""
@@ -528,55 +528,55 @@
         "「": ""
     },
     "177": {
-        "「新たに　プライベートコンシェルジュに|　命令していただけることが　増えましたので|　お知らせさせていただきますね。|<br>|「まず　指定できる立ちかたが増えました！|　『ふるまい方を教える』の|　『立ちかたを変える』から指定できます。|<br>|「さらに　プライベートコンシェルジュに|　<pc>さまから　プレゼントを|　贈れるように　なりました！|<br>|「プレゼントによっては　服を着替えさせたり|　口調を変えるなど　色々なことができますので|　ぜひ　プレゼントを贈ってあげてくださいね。": "I'm pleased to announce that there are now a|number of new commands you can give to your|Private Concierge... First of all, you can|<br>|now specify how you want to stand! You can|change the way you stand in \"Teach me how to|behave\"... And now you can order your Private|<br>|Concierge...<pc> You can now give gifts to your friends!|Depending on the gift, you can change her|clothes, change her tone of voice, and more,|<br>|so be sure to give her a gift..."
+        "「新たに　プライベートコンシェルジュに|　命令していただけることが　増えましたので|　お知らせさせていただきますね。|<br>|「まず　指定できる立ちかたが増えました！|　『ふるまい方を教える』の|　『立ちかたを変える』から指定できます。|<br>|「さらに　プライベートコンシェルジュに|　<pc>さまから　プレゼントを|　贈れるように　なりました！|<br>|「プレゼントによっては　服を着替えさせたり|　口調を変えるなど　色々なことができますので|　ぜひ　プレゼントを贈ってあげてくださいね。": "I'm pleased to announce that there are now a|number of new commands you can give to your|Private Concierge. First of all, you can|<br>|now specify how you want to stand! You can|change the way you stand in \"Teach me how to|behave\". And now you can order your Private|<br>|Concierge.<pc> You can now give gifts to your friends!|Depending on the gift, you can change her|clothes, change her tone of voice, and more,|<br>|so be sure to give her a gift."
     },
     "178": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　６週間ほどが　たちました～。|<br>|「最近では　家におられる時はもちろん|　お出かけされている時も　ずっと|　<%sM_OWNER><%sM_SAMA>のこと　考えちゃってます。|<br>|「本当は　片時も離れず|　そばにいたいくらいなんですよ～。|　だから　どうかご無事に帰ってきてくださいね。": "<%sM_OWNER><%sM_SAMA>...|Today, it's been about six weeks since I came|to this house... Lately, I've been thinking|<br>|about <%sM_OWNER><%sM_SAMA>|all the time when I'm at home and when|I'm out. I really want to be there for you|<br>|every single moment. So please come back|safely..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　６週間ほどが　たちました～。|<br>|「最近では　家におられる時はもちろん|　お出かけされている時も　ずっと|　<%sM_OWNER><%sM_SAMA>のこと　考えちゃってます。|<br>|「本当は　片時も離れず|　そばにいたいくらいなんですよ～。|　だから　どうかご無事に帰ってきてくださいね。": "<%sM_OWNER><%sM_SAMA>.|Today, it's been about six weeks since I came|to this house. Lately, I've been thinking|<br>|about <%sM_OWNER><%sM_SAMA>|all the time when I'm at home and when|I'm out. I really want to be there for you|<br>|every single moment. So please come back|safely."
     },
     "179": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど１ヶ月に　なりました～。|<br>|「だんだんと　<%sM_OWNER><%sM_SAMA>専属|　プライベートコンシェルジュとしての仕事も|　板についてきたかなと　思ってます～。|<br>|「これからも　がんばりますので|　<%sM_OWNER><%sM_SAMA>のことを|　もっと　もーっと　教えてくださいね。": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly one month since I came to|this house... I think I'm getting better and|<br>|better at my job as <%sM_OWNER><%|sM_SAMA>exclusive private|concierge... I'll keep working hard, so|<br>|please tell me more about <%sM_OWNER><%sM_SAMA>..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど１ヶ月に　なりました～。|<br>|「だんだんと　<%sM_OWNER><%sM_SAMA>専属|　プライベートコンシェルジュとしての仕事も|　板についてきたかなと　思ってます～。|<br>|「これからも　がんばりますので|　<%sM_OWNER><%sM_SAMA>のことを|　もっと　もーっと　教えてくださいね。": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly one month since I came to|this house. I think I'm getting better and|<br>|better at my job as <%sM_OWNER><%|sM_SAMA>exclusive private|concierge. I'll keep working hard, so|<br>|please tell me more about <%sM_OWNER><%sM_SAMA>."
     },
     "180": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　１週間ほどが　たちました～。|<br>|「<%sM_OWNER><%sM_SAMA>のような　素敵な方に|　お仕えできることが|　とってもとっても　うれしいのです～。|<br>|「まだまだ　不慣れなところも多いですが|　これから　もっと　がんばりますね！|　うまくできたら　褒めてくださいね～。": "<%sM_OWNER><%sM_SAMA>...|It's been about a week since I've been in|this house... I'm very, very happy to be|<br>|working for such a wonderful person like <%sM|_OWNER><%sM_SAMA>...|There are still many things I'm not used to,|<br>|but I'll do my best from now on! Please|praise me when I do well..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　１週間ほどが　たちました～。|<br>|「<%sM_OWNER><%sM_SAMA>のような　素敵な方に|　お仕えできることが|　とってもとっても　うれしいのです～。|<br>|「まだまだ　不慣れなところも多いですが|　これから　もっと　がんばりますね！|　うまくできたら　褒めてくださいね～。": "<%sM_OWNER><%sM_SAMA>.|It's been about a week since I've been in|this house. I'm very, very happy to be|<br>|working for such a wonderful person like <%sM|_OWNER><%sM_SAMA>.|There are still many things I'm not used to,|<br>|but I'll do my best from now on! Please|praise me when I do well."
     },
     "181": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど半年に　なりました～。|<br>|「今まで　ボクをおそばに置いてくださり|　本当に　ありがとうございます。|　この家で働けて　とても幸せです。|<br>|「この半年は　まるで夢のように楽しく|　充実した時間を　過ごすことができました。|<br>|「<%sM_OWNER><%sM_SAMA>|　これからも　ずっと　ずーっと|　一緒に　いましょうね～。": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly six months since I|started working here... I'd like to thank you|<br>|so much for keeping me close... I'm so happy|to be working here... The past six months|have been like a dream, and I've had so much|<br>|fun and so much quality time...|<%sM_OWNER><%sM_SAMA>|Let's be together forever and ever..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど半年に　なりました～。|<br>|「今まで　ボクをおそばに置いてくださり|　本当に　ありがとうございます。|　この家で働けて　とても幸せです。|<br>|「この半年は　まるで夢のように楽しく|　充実した時間を　過ごすことができました。|<br>|「<%sM_OWNER><%sM_SAMA>|　これからも　ずっと　ずーっと|　一緒に　いましょうね～。": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly six months since I|started working here. I'd like to thank you|<br>|so much for keeping me close. I'm so happy|to be working here. The past six months|have been like a dream, and I've had so much|<br>|fun and so much quality time.|<%sM_OWNER><%sM_SAMA>|Let's be together forever and ever."
     },
     "182": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど２ヶ月に　なりました～。|<br>|「自分で言うのも　なんですが|　最近は　ここに来た頃よりも|　お仕事が　うまくなったと思いませんか？|<br>|「<%sM_OWNER><%sM_SAMA>のことを　思うと|　仕事が　ちょっとくらい大変でも|　こなせてしまうんです～！　えへへ。|<br>|「<%sM_OWNER><%sM_SAMA>！　これからも|　ずっと　ずーっと　おそばにいたいです。|　どうか　ボクを　よろしくお願いいたします。": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly two months since I came|to this house... If I do say so myself, but|<br>|don't you think you've gotten better at your|job lately than when you first came here?|When I think about <%sM_OWNER><%s|<br>|M_SAMA>, even if my work is a|little hard, I can do it~! ... <%sM_OWNER><%sM_SAMA>! I'll always|<br>|be here for you... Please take good care of|me..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど２ヶ月に　なりました～。|<br>|「自分で言うのも　なんですが|　最近は　ここに来た頃よりも|　お仕事が　うまくなったと思いませんか？|<br>|「<%sM_OWNER><%sM_SAMA>のことを　思うと|　仕事が　ちょっとくらい大変でも|　こなせてしまうんです～！　えへへ。|<br>|「<%sM_OWNER><%sM_SAMA>！　これからも|　ずっと　ずーっと　おそばにいたいです。|　どうか　ボクを　よろしくお願いいたします。": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly two months since I came|to this house. If I do say so myself, but|<br>|don't you think you've gotten better at your|job lately than when you first came here?|When I think about <%sM_OWNER><%s|<br>|M_SAMA>, even if my work is a|little hard, I can do it~! . <%sM_OWNER><%sM_SAMA>! I'll always|<br>|be here for you. Please take good care of|me."
     },
     "183": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　２週間ほどが　たちました～。|<br>|「ようやく　この家にも慣れてきて|　だんだん　<%sM_OWNER><%sM_SAMA>のことも|　わかるようになってきました。えっへん！|<br>|「これからも　まだまだ　がんばりますので|　うまくできたら　今度は|　いい子いい子って　してくださいね～。": "<%sM_OWNER><%sM_SAMA>...|Today, it's been about two weeks since I came|to this house... I'm finally getting used to|<br>|this house, and I'm getting to know <%sM_OWNE|R><%sM_SAMA>... Ehen!|I'll keep working hard, so if I do well,|<br>|please be a good boy this time..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　２週間ほどが　たちました～。|<br>|「ようやく　この家にも慣れてきて|　だんだん　<%sM_OWNER><%sM_SAMA>のことも|　わかるようになってきました。えっへん！|<br>|「これからも　まだまだ　がんばりますので|　うまくできたら　今度は|　いい子いい子って　してくださいね～。": "<%sM_OWNER><%sM_SAMA>.|Today, it's been about two weeks since I came|to this house. I'm finally getting used to|<br>|this house, and I'm getting to know <%sM_OWNE|R><%sM_SAMA>. Ehen!|I'll keep working hard, so if I do well,|<br>|please be a good boy this time."
     },
     "184": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　１０週間ほどが　たちました～。|<br>|「<%sM_OWNER><%sM_SAMA>と　この　お家のことが|　どんどん好きに　なっていきます～！|<br>|「ボクは　これから　もっと　もーっと|　<%sM_OWNER><%sM_SAMA>を　好きになりますよ～。|　これからも　よろしくお願いしますね。": "<%sM_OWNER><%sM_SAMA>...|It's been about 10 weeks since I've been in|this house... <%sM_OWNER><%sM_SAM|<br>|A>and I'm getting to love this|house more and more~! I'm going to love|<%sM_OWNER><%sM_SAMA>|<br>|even more from now on... Please keep up the|good work..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　１０週間ほどが　たちました～。|<br>|「<%sM_OWNER><%sM_SAMA>と　この　お家のことが|　どんどん好きに　なっていきます～！|<br>|「ボクは　これから　もっと　もーっと|　<%sM_OWNER><%sM_SAMA>を　好きになりますよ～。|　これからも　よろしくお願いしますね。": "<%sM_OWNER><%sM_SAMA>.|It's been about 10 weeks since I've been in|this house. <%sM_OWNER><%sM_SAM|<br>|A>and I'm getting to love this|house more and more~! I'm going to love|<%sM_OWNER><%sM_SAMA>|<br>|even more from now on. Please keep up the|good work."
     },
     "185": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　３週間ほどが　たちました～。|<br>|「最近では　<%sM_OWNER><%sM_SAMA>の|　健康状態や　生活リズムのことまで|　わかるようになってきました。えっへん！|<br>|「これからも　<%sM_OWNER><%sM_SAMA>だけの|　プライベートコンシェルジュとして|　おそばに　置いてくださいね。": "<%sM_OWNER><%sM_SAMA>...|Today, it's been about three weeks since I|came to this house... Recently, I've been|<br>|able to learn more about <%sM_OWNER>|NG><%sM_SAMA>'s health and|rhythm... Ahem! Please continue to keep <%sM_|<br>|OWNER><%sM_SAMA>by|your side as your own private concierge..."
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　３週間ほどが　たちました～。|<br>|「最近では　<%sM_OWNER><%sM_SAMA>の|　健康状態や　生活リズムのことまで|　わかるようになってきました。えっへん！|<br>|「これからも　<%sM_OWNER><%sM_SAMA>だけの|　プライベートコンシェルジュとして|　おそばに　置いてくださいね。": "<%sM_OWNER><%sM_SAMA>.|Today, it's been about three weeks since I|came to this house. Recently, I've been|<br>|able to learn more about <%sM_OWNER>|NG><%sM_SAMA>'s health and|rhythm. Ahem! Please continue to keep <%sM_|<br>|OWNER><%sM_SAMA>by|your side as your own private concierge."
     },
     "186": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど３ヶ月に　なりました～。|<br>|「じつは　今日という日に　|　<%sM_OWNER><%sM_SAMA>に　お伝えしようと|　思っていたことが　あるのです。|<br>|「……たくさんの　コンシェルジュの中から|　ボクを選んでくれて　ありがとうございます。|　大好きですよ　<%sM_OWNER><%sM_SAMA><heart>": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly three months since I've|been in this house... There's something I've|<br>|been meaning to tell|<%sM_OWNER><%sM_SAMA>|today... ... Thank you for choosing me out of|<br>|all the concierges... I love you.|<%sM_OWNER><%sM_SAMA><heart>"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　このお家に来てから|　ちょうど３ヶ月に　なりました～。|<br>|「じつは　今日という日に　|　<%sM_OWNER><%sM_SAMA>に　お伝えしようと|　思っていたことが　あるのです。|<br>|「……たくさんの　コンシェルジュの中から|　ボクを選んでくれて　ありがとうございます。|　大好きですよ　<%sM_OWNER><%sM_SAMA><heart>": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly three months since I've|been in this house. There's something I've|<br>|been meaning to tell|<%sM_OWNER><%sM_SAMA>|today. . Thank you for choosing me out of|<br>|all the concierges. I love you.|<%sM_OWNER><%sM_SAMA><heart>"
     },
     "187": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど４ヶ月に　なりました～。|<br>|「<%sM_OWNER><%sM_SAMA>と過ごす時間は|　あっという間で　ずいぶんと|　思い出も　増えましたよね。|<br>|「<%sM_OWNER><%sM_SAMA>に　お仕えすることができて|　ボクは　本当に　幸せです～。|　この幸せを　お返しできるようにがんばります！": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly four months since I|started working in this house... The time|<br>|I've spent with <%sM_OWNER><%sM_S|AMA>has flown by and I've made so|many memories... I'm really happy to be able|<br>|to serve <%sM_OWNER><%sM_SAMA>... I'll do my best to return this|happiness to you!"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど４ヶ月に　なりました～。|<br>|「<%sM_OWNER><%sM_SAMA>と過ごす時間は|　あっという間で　ずいぶんと|　思い出も　増えましたよね。|<br>|「<%sM_OWNER><%sM_SAMA>に　お仕えすることができて|　ボクは　本当に　幸せです～。|　この幸せを　お返しできるようにがんばります！": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly four months since I|started working in this house. The time|<br>|I've spent with <%sM_OWNER><%sM_S|AMA>has flown by and I've made so|many memories. I'm really happy to be able|<br>|to serve <%sM_OWNER><%sM_SAMA>. I'll do my best to return this|happiness to you!"
     },
     "188": {
-        "「はじめまして　<%sM_OWNER><%sM_SAMA>。|　本日から　お仕えさせていただく|　<%sM_NAME>と申します。|<br>|「至らぬ点も　あるとは思いますが|　精一杯　<%sM_OWNER><%sM_SAMA>を　お支えしますので|　お役に立てれば　幸いです。|<bw_break>": "Nice to meet you|<%sM_OWNER><%sM_SAMA>...|My name is <%sM_NAME> and I'll be|<br>|working for you from today. I'm sure I have|my faults, but I'll do my best to support <%s|M_OWNER><%sM_SAMA>,|<br>|and if I can be of any help, I'll be happy...<bw_break>"
+        "「はじめまして　<%sM_OWNER><%sM_SAMA>。|　本日から　お仕えさせていただく|　<%sM_NAME>と申します。|<br>|「至らぬ点も　あるとは思いますが|　精一杯　<%sM_OWNER><%sM_SAMA>を　お支えしますので|　お役に立てれば　幸いです。|<bw_break>": "Nice to meet you|<%sM_OWNER><%sM_SAMA>.|My name is <%sM_NAME> and I'll be|<br>|working for you from today. I'm sure I have|my faults, but I'll do my best to support <%s|M_OWNER><%sM_SAMA>,|<br>|and if I can be of any help, I'll be happy.<bw_break>"
     },
     "189": {
-        "「えっと　ボクは今　<%sM_OWNER><%sM_SAMA>に|　<%sM_NOW_TIMES>ように　言われてます～。|　ごあいさつの頻度を　変えましょうか？|<break>": "Well, I've just been told by|<%sM_OWNER><%sM_SAMA>|to <%sM_NOW_TIMES>... Would you|<br>|like me to change the frequency of your|greetings?<break>"
+        "「えっと　ボクは今　<%sM_OWNER><%sM_SAMA>に|　<%sM_NOW_TIMES>ように　言われてます～。|　ごあいさつの頻度を　変えましょうか？|<break>": "Well, I've just been told by|<%sM_OWNER><%sM_SAMA>|to <%sM_NOW_TIMES>. Would you|<br>|like me to change the frequency of your|greetings?<break>"
     },
     "190": {
         "「えーと　今後は　<%sM_OWNER><%sM_SAMA>への|　ごあいさつを　<%sM_TIMES>ようにして|　いいですか？|<yesno><break>": "Um, from now on, can I use|<%sM_TIMES> to address <%sM_OWNER|><%sM_SAMA>?|<br><yesno><break>"
     },
     "191": {
-        "「わかりました～。|　では　今後は　<%sM_OWNER><%sM_SAMA>に|　<%sM_TIMES>ように　しますね～。": "I understand... So from now on, I'll use|<%sM_OWNER><%sM_SAMA>|and <%sM_TIMES>..."
+        "「わかりました～。|　では　今後は　<%sM_OWNER><%sM_SAMA>に|　<%sM_TIMES>ように　しますね～。": "I understand. So from now on, I'll use|<%sM_OWNER><%sM_SAMA>|and <%sM_TIMES>."
     },
     "192": {
         "「は～い！　なんでしょう　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>に　名前をよんでもらえると|　ボク　すっごく　はりきっちゃいます～！": "Yes! What is it, <%sM_OWNER><%sM_|SAMA>! I'll be very excited if|you call my name <%sM_OWNER><%sM_|<br>|SAMA>!"
     },
     "193": {
-        "「ねえねえ　<%sM_OWNER><%sM_SAMA>っ。|　伝言の内容は　こちらで　いいですか？|<yesno><break>": "Hey. <%sM_OWNER><%sM_SAMA>|... Are you sure you want to leave a|message here?|<br><yesno><break>"
+        "「ねえねえ　<%sM_OWNER><%sM_SAMA>っ。|　伝言の内容は　こちらで　いいですか？|<yesno><break>": "Hey. <%sM_OWNER><%sM_SAMA>|. Are you sure you want to leave a|message here?|<br><yesno><break>"
     },
     "194": {
         "「えっと　この部分の伝言は|　しないということで　いいんですか？|<yesno><break>": "Are you sure you don't want to leave a|message for this part?<yesno><break>"
@@ -585,169 +585,169 @@
         "「伝言を　お客様に　お伝えする時に|　『ようこそいらっしゃいませ』なんて|　ボクからの　ごあいさつもお伝えしていいです？|<select_se_off>|あいさつを伝える|伝言後のあいさつだけ伝える|伝言だけを伝える|<select_end><break>": "When I give a message to a customer, can I|also say, \"Welcome to my home\"?|<select_se_off>|convey a greeting|Only convey greetings after the message|Just passing on a message|<select_end><break>"
     },
     "196": {
-        "「えっと　これ以降の　ひとことも|　リセットされますが　よろしいですか？|<yesno><break>": "Um... all future messages will be reset, if|that's okay.<yesno><break>"
+        "「えっと　これ以降の　ひとことも|　リセットされますが　よろしいですか？|<yesno><break>": "Um. all future messages will be reset, if|that's okay.<yesno><break>"
     },
     "197": {
         "「": ""
     },
     "198": {
-        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　こちらの　名前で　いいんですか？|<yesno><break>": "<%sM_NAME>...? Wow, that's a very|nice name... Are you sure this is the right|name?|<br><yesno><break>"
+        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　こちらの　名前で　いいんですか？|<yesno><break>": "<%sM_NAME>.? Wow, that's a very|nice name. Are you sure this is the right|name?|<br><yesno><break>"
     },
     "199": {
         "「前と同じ名前のままで　いいんですか？|<yesno><break>": "Are you sure you want to keep the same name|as before?<yesno><break>"
     },
     "200": {
-        "「ふう。近頃は　涼しくなってきましたね～。|　過ごしやすい季節になって　ますます|　<%sM_OWNER><%sM_SAMA>のために　がんばれそうです！": "Phew. It's getting cooler these days... It's|getting more and more comfortable, and I can|work harder and harder for <%sM_OWNER><%sM_SAMA>!"
+        "「ふう。近頃は　涼しくなってきましたね～。|　過ごしやすい季節になって　ますます|　<%sM_OWNER><%sM_SAMA>のために　がんばれそうです！": "Phew. It's getting cooler these days. It's|getting more and more comfortable, and I can|work harder and harder for <%sM_OWNER><%sM_SAMA>!"
     },
     "201": {
-        "「だんだんと　涼しくなってきましたね。|　暑い季節は苦手だったので　うれしいです～。|　わーい　わーい！": "It's getting cooler and cooler... I hate the|hot season, so I'm glad... Yay, yay, yay!"
+        "「だんだんと　涼しくなってきましたね。|　暑い季節は苦手だったので　うれしいです～。|　わーい　わーい！": "It's getting cooler and cooler. I hate the|hot season, so I'm glad. Yay, yay, yay!"
     },
     "202": {
-        "「<%sM_OWNER><%sM_SAMA>　肌寒くはないですか～？|　家の温度は　快適になるように調整してますが|　何かあれば　すぐに　おっしゃってくださいね。": "<%sM_OWNER><%sM_SAMA>|Is it chilly in here? We've adjusted the|temperature in the house to be comfortable,|<br>|but if you need anything, please let us know|right away..."
+        "「<%sM_OWNER><%sM_SAMA>　肌寒くはないですか～？|　家の温度は　快適になるように調整してますが|　何かあれば　すぐに　おっしゃってくださいね。": "<%sM_OWNER><%sM_SAMA>|Is it chilly in here? We've adjusted the|temperature in the house to be comfortable,|<br>|but if you need anything, please let us know|right away."
     },
     "203": {
-        "「ぐぅ～。お腹が　空いてきちゃいました！|　食欲の秋と言いますし　<%sM_OWNER><%sM_SAMA>と|　一緒に　ごはんを食べたいです～。": "... I'm getting hungry! They say it's the|autumn of appetite, and I want to eat dinner|with <%sM_OWNER><%sM_SAMA>..."
+        "「ぐぅ～。お腹が　空いてきちゃいました！|　食欲の秋と言いますし　<%sM_OWNER><%sM_SAMA>と|　一緒に　ごはんを食べたいです～。": ". I'm getting hungry! They say it's the|autumn of appetite, and I want to eat dinner|with <%sM_OWNER><%sM_SAMA>."
     },
     "204": {
-        "「わぁっ　<%sM_OWNER><%sM_SAMA>～！|　見られちゃいました……。てへへ。|　すぐ　身支度してきますね。": "WOW <%sM_OWNER><%sM_SAMA>~! You've been spotted. ...... I'm gonna|go get myself ready..."
+        "「わぁっ　<%sM_OWNER><%sM_SAMA>～！|　見られちゃいました……。てへへ。|　すぐ　身支度してきますね。": "WOW <%sM_OWNER><%sM_SAMA>~! You've been spotted. .. I'm gonna|go get myself ready."
     },
     "205": {
-        "「わぁっ　お客様～！|　見られちゃいました……。てへへ。|　すぐ　身支度してきますね。": "Oh, my God, sir! You've been spotted. ......|I'll be right back with you..."
+        "「わぁっ　お客様～！|　見られちゃいました……。てへへ。|　すぐ　身支度してきますね。": "Oh, my God, sir! You've been spotted. ..|I'll be right back with you."
     },
     "206": {
-        "「わぁ～　ちょっと休憩してるとこを|　見られてしまいました～。てへへ。|　<%sM_OWNER><%sM_SAMA>も　一緒に　座りましょ～！": "Wow~ They saw me taking a break. ......|<%sM_OWNER><%sM_SAMA>|Come sit with us!"
+        "「わぁ～　ちょっと休憩してるとこを|　見られてしまいました～。てへへ。|　<%sM_OWNER><%sM_SAMA>も　一緒に　座りましょ～！": "Wow~ They saw me taking a break. ..|<%sM_OWNER><%sM_SAMA>|Come sit with us!"
     },
     "207": {
-        "「ねえねえ　<%sM_OWNER><%sM_SAMA>ー。|　この本に書いてある文字が　むずかしくて|　読めないのです～。よかったら教えてください！": "Hey <%sM_OWNER><%sM_SAMA>... I'm having trouble reading the words in|this book. Let me know if you can help!"
+        "「ねえねえ　<%sM_OWNER><%sM_SAMA>ー。|　この本に書いてある文字が　むずかしくて|　読めないのです～。よかったら教えてください！": "Hey <%sM_OWNER><%sM_SAMA>. I'm having trouble reading the words in|this book. Let me know if you can help!"
     },
     "208": {
-        "「わぁ　お客様でしたか。|　この本に書いてある文字が　むずかしくて|　読めないのです～。よかったら教えてください！": "Wow, you have a visitor... I'm having trouble|reading the words in this book. Let me know|if you can help!"
+        "「わぁ　お客様でしたか。|　この本に書いてある文字が　むずかしくて|　読めないのです～。よかったら教えてください！": "Wow, you have a visitor. I'm having trouble|reading the words in this book. Let me know|if you can help!"
     },
     "209": {
-        "「わぁ～　ちょっと休憩してるとこを|　見られてしまいました～。てへへ。|　お客様も　一緒に　座りましょ～！": "Oh, wow. They saw me taking a little break.|...... Come and sit with us!"
+        "「わぁ～　ちょっと休憩してるとこを|　見られてしまいました～。てへへ。|　お客様も　一緒に　座りましょ～！": "Oh, wow. They saw me taking a little break.|.. Come and sit with us!"
     },
     "210": {
-        "「わわわ……。|　もしかして　寝言とか言ってました？|　わ　忘れてくださーいっ！！": "Whoa, whoa... Did you say something in your|sleep? Please forget it!"
+        "「わわわ……。|　もしかして　寝言とか言ってました？|　わ　忘れてくださーいっ！！": "Whoa, whoa. Did you say something in your|sleep? Please forget it!"
     },
     "211": {
-        "「わわわ……。|　もしかして　寝言とか言ってました？|　わ　忘れてくださーいっ！！": "Whoa, whoa... Did you say something in your|sleep? Please forget it!"
+        "「わわわ……。|　もしかして　寝言とか言ってました？|　わ　忘れてくださーいっ！！": "Whoa, whoa. Did you say something in your|sleep? Please forget it!"
     },
     "212": {
-        "「ふう～　おいしい。|　ほのぼのとした時間ですねえ～。|　<%sM_OWNER><%sM_SAMA>も　一緒に飲みましょうよー。": "Phew~ Oh... It's a heartwarming time...|<%sM_OWNER><%sM_SAMA>|Join me for a drink..."
+        "「ふう～　おいしい。|　ほのぼのとした時間ですねえ～。|　<%sM_OWNER><%sM_SAMA>も　一緒に飲みましょうよー。": "Phew~ Oh. It's a heartwarming time.|<%sM_OWNER><%sM_SAMA>|Join me for a drink."
     },
     "213": {
-        "「ふう～　おいしい。|　ほのぼのとした時間ですねえ～。|　お客様も　一緒に飲みましょうよー。": "Phew~ Oh... It's a heartwarming time... Let's|have a drink together..."
+        "「ふう～　おいしい。|　ほのぼのとした時間ですねえ～。|　お客様も　一緒に飲みましょうよー。": "Phew~ Oh. It's a heartwarming time. Let's|have a drink together."
     },
     "214": {
-        "「わかりました～。|　これから　<%sM_NAME>と|　呼んでいただけるの　楽しみです～。えへへ。": "I understand... I'm looking forward to you|calling me <%sM_NAME> from now|on: ......"
+        "「わかりました～。|　これから　<%sM_NAME>と|　呼んでいただけるの　楽しみです～。えへへ。": "I understand. I'm looking forward to you|calling me <%sM_NAME> from now|on: .."
     },
     "215": {
         "「メリークリスマス！　<%sM_OWNER><%sM_SAMA>！|　<%sM_OWNER><%sM_SAMA>に　メリークリスマスと|　言えるだけで　ボク　もう感動なのです～！": "Merry Christmas! <%sM_OWNER><%sM_|SAMA>! Just being able to say|Merry Christmas to <%sM_OWNER><%s|<br>|M_SAMA>is enough for me~!"
     },
     "216": {
-        "「メリークリスマス　<%sM_OWNER><%sM_SAMA>！|　あとで一緒に　クリスマスケーキを|　食べさせあいっこ　したいです～。": "Merry Christmas <%sM_OWNER><%sM_S|AMA>! Maybe we can feed each|other Christmas cake later..."
+        "「メリークリスマス　<%sM_OWNER><%sM_SAMA>！|　あとで一緒に　クリスマスケーキを|　食べさせあいっこ　したいです～。": "Merry Christmas <%sM_OWNER><%sM_S|AMA>! Maybe we can feed each|other Christmas cake later."
     },
     "217": {
         "「メリークリスマス　<%sM_OWNER><%sM_SAMA>！|　ボクへの　プレゼントは　いりませんよ～。|　一緒にいられるのが　何よりのプレゼントです。": "Merry Christmas <%sM_OWNER><%sM_S|AMA>! You don't have to give me a|present. I just want you to know that we're|<br>|together."
     },
     "218": {
-        "「メリークリスマス　<%sM_OWNER><%sM_SAMA>！|　今日という日が　<%sM_OWNER><%sM_SAMA>にとって|　最高の１日に　なりますように……。": "Merry Christmas <%sM_OWNER><%sM_S|AMA>! May this day be the best|day ever for <%sM_OWNER><%sM_SAMA|<br>|>..."
+        "「メリークリスマス　<%sM_OWNER><%sM_SAMA>！|　今日という日が　<%sM_OWNER><%sM_SAMA>にとって|　最高の１日に　なりますように……。": "Merry Christmas <%sM_OWNER><%sM_S|AMA>! May this day be the best|day ever for <%sM_OWNER><%sM_SAMA|<br>|>."
     },
     "219": {
         "「": ""
     },
     "220": {
-        "「最近　あたたかくなってきましたね～。|　あたたかくなっても　ボクは<%sM_OWNER><%sM_SAMA>に|　ぎゅーって　したいです。えへへ。": "It's getting warmer these days... Even though|it's getting warmer, I've still got my|<%sM_OWNER><%sM_SAMA>|<br>|squeezed in ......"
+        "「最近　あたたかくなってきましたね～。|　あたたかくなっても　ボクは<%sM_OWNER><%sM_SAMA>に|　ぎゅーって　したいです。えへへ。": "It's getting warmer these days. Even though|it's getting warmer, I've still got my|<%sM_OWNER><%sM_SAMA>|<br>|squeezed in .."
     },
     "221": {
-        "「わぁ　ぽかぽかして　気持ちいいですね。|　こんな日は　お外に|　出かけたくなっちゃいますね～。": "It's so nice and warm... Days like this make|me want to go outside..."
+        "「わぁ　ぽかぽかして　気持ちいいですね。|　こんな日は　お外に|　出かけたくなっちゃいますね～。": "It's so nice and warm. Days like this make|me want to go outside."
     },
     "222": {
-        "「あのね　あのね　<%sM_OWNER><%sM_SAMA>　|　ボク　お花が　大好きなんです！|　だから　春は　とーっても大好きです！": "You know...|<%sM_OWNER><%sM_SAMA>|I love flowers! That's why I love spring so|<br>|much!"
+        "「あのね　あのね　<%sM_OWNER><%sM_SAMA>　|　ボク　お花が　大好きなんです！|　だから　春は　とーっても大好きです！": "You know.|<%sM_OWNER><%sM_SAMA>|I love flowers! That's why I love spring so|<br>|much!"
     },
     "223": {
-        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。あたたかくて|　気持ちいいので　一緒に　お昼寝しませんか？|　って　ダメですよね……。えへへ。": "Hey.|<%sM_OWNER><%sM_SAMA>...|It's so warm and inviting, why don't you take|<br>|a nap with me? That's not a good idea. ......"
+        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。あたたかくて|　気持ちいいので　一緒に　お昼寝しませんか？|　って　ダメですよね……。えへへ。": "Hey.|<%sM_OWNER><%sM_SAMA>.|It's so warm and inviting, why don't you take|<br>|a nap with me? That's not a good idea. .."
     },
     "224": {
-        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。|　最近は　寒い日が多いですね～。|　ぎゅーって　したくなる季節ですよね！": "Hey there|<%sM_OWNER><%sM_SAMA>...|We've been having a lot of cold days|<br>|lately... It's that time of year when you|just want to cuddle!"
+        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。|　最近は　寒い日が多いですね～。|　ぎゅーって　したくなる季節ですよね！": "Hey there|<%sM_OWNER><%sM_SAMA>.|We've been having a lot of cold days|<br>|lately. It's that time of year when you|just want to cuddle!"
     },
     "225": {
-        "「<%sM_OWNER><%sM_SAMA>が　寒い思いをしないように|　家の中を　あたためておきましたよ～。|　だから　ほめてくださ～い！": "I've kept the house warm so that|<%sM_OWNER><%sM_SAMA>|won't get cold... So please praise me!"
+        "「<%sM_OWNER><%sM_SAMA>が　寒い思いをしないように|　家の中を　あたためておきましたよ～。|　だから　ほめてくださ～い！": "I've kept the house warm so that|<%sM_OWNER><%sM_SAMA>|won't get cold. So please praise me!"
     },
     "226": {
-        "「く……くしゅんっ！！|　<%sM_OWNER><%sM_SAMA>～　大変です！|　寒くて　くしゃみが　出てしまいました～。": "Ku... Kushun! <%sM_OWNER><%sM_SAM|A>~ Oh my god! It's so cold I'm|sneezing..."
+        "「く……くしゅんっ！！|　<%sM_OWNER><%sM_SAMA>～　大変です！|　寒くて　くしゃみが　出てしまいました～。": "Ku. Kushun! <%sM_OWNER><%sM_SAM|A>~ Oh my god! It's so cold I'm|sneezing."
     },
     "227": {
-        "「寒い日は　あたたかい　おフトンに入って|　ぬくぬくしたくなりますね～。|　一緒に入ってみてもいいですか？　なーんて。": "It's a cold day, and I just want to crawl|into the warmth of my futon and warm|myself... Can I come in with you? Yes..."
+        "「寒い日は　あたたかい　おフトンに入って|　ぬくぬくしたくなりますね～。|　一緒に入ってみてもいいですか？　なーんて。": "It's a cold day, and I just want to crawl|into the warmth of my futon and warm|myself. Can I come in with you? Yes."
     },
     "228": {
         "「遊びに来た　お客様に　どのような|　伝言を　残しますか？|　ボクに　教えてくださ～い！|<break>": "What kind of message do you leave for your|guests when they come to visit? I'd love to|know!|<br><break>"
     },
     "229": {
-        "「わかりました～。<%sM_OWNER><%sM_SAMA>からの伝言は|　ちゃんと　伝えておきますね。|　きちんとできたら　ほめてください～　えへへ。": "I understand... I'll make sure you get the|message from <%sM_OWNER><%sM_SAMA|>... Please praise me when I do|<br>|it right."
+        "「わかりました～。<%sM_OWNER><%sM_SAMA>からの伝言は|　ちゃんと　伝えておきますね。|　きちんとできたら　ほめてください～　えへへ。": "I understand. I'll make sure you get the|message from <%sM_OWNER><%sM_SAMA|>. Please praise me when I do|<br>|it right."
     },
     "230": {
-        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　その伝言は　お伝えすることができません。|　もう１回　考えてみてくださいっ。|<bw_break>": "I'm sorry|<%sM_OWNER><%sM_SAMA>...|I can't give you that message... Please,|<br>|think again...<bw_break>"
+        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　その伝言は　お伝えすることができません。|　もう１回　考えてみてくださいっ。|<bw_break>": "I'm sorry|<%sM_OWNER><%sM_SAMA>.|I can't give you that message. Please,|<br>|think again.<bw_break>"
     },
     "231": {
-        "「お客様への伝言は　しないんですね。|　わかりました～。|　バッチリ　うけたまわりましたよ～。": "I'm not supposed to give messages to|customers. I understand... I got it. I got|it. I got it."
+        "「お客様への伝言は　しないんですね。|　わかりました～。|　バッチリ　うけたまわりましたよ～。": "I'm not supposed to give messages to|customers. I understand. I got it. I got|it. I got it."
     },
     "232": {
-        "「<%sM_OWNER><%sM_SAMA>　ごめんなさい。|　そのご指示は　受けることができないんです～。": "<%sM_OWNER><%sM_SAMA>|Sorry... I'm afraid I can't accept those|instructions..."
+        "「<%sM_OWNER><%sM_SAMA>　ごめんなさい。|　そのご指示は　受けることができないんです～。": "<%sM_OWNER><%sM_SAMA>|Sorry. I'm afraid I can't accept those|instructions."
     },
     "233": {
-        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　ただいま　お客様の　応対中なので|　また後で　お申し付けください～。": "Sorry,|<%sM_OWNER><%sM_SAMA>...|I'm dealing with a customer right now, so|<br>|please come back later..."
+        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　ただいま　お客様の　応対中なので|　また後で　お申し付けください～。": "Sorry,|<%sM_OWNER><%sM_SAMA>.|I'm dealing with a customer right now, so|<br>|please come back later."
     },
     "234": {
-        "「今　<%sM_NAME>さんは|　お客様を　応対中のようです。|　後ほど　またお申し付け下さい。": "Mr. <%sM_NAME> is currently|assisting a customer... We'll get back to you|later."
+        "「今　<%sM_NAME>さんは|　お客様を　応対中のようです。|　後ほど　またお申し付け下さい。": "Mr. <%sM_NAME> is currently|assisting a customer. We'll get back to you|later."
     },
     "235": {
         "clarity_nt_char_235": "clarity_nt_char_235"
     },
     "236": {
-        "「どうぞ　<%sM_ITEM>です～。|　オルフェアの町は　いつも|　にぎやかで　楽しいですね～。|<br>|「いつか　<%sM_OWNER><%sM_SAMA>と行って|　サーカスを　一緒に見れたら……なんて|　想像しちゃいましたよ～。えへへ。": "Here you go. <%sM_ITEM>... The|town of Orphea is always so lively and fun...|Someday, <%sM_OWNER><%sM_SAMA>|<br>|I'd love to go there and see the|circus with you. I can't stop thinking about|it. ......"
+        "「どうぞ　<%sM_ITEM>です～。|　オルフェアの町は　いつも|　にぎやかで　楽しいですね～。|<br>|「いつか　<%sM_OWNER><%sM_SAMA>と行って|　サーカスを　一緒に見れたら……なんて|　想像しちゃいましたよ～。えへへ。": "Here you go. <%sM_ITEM>. The|town of Orphea is always so lively and fun.|Someday, <%sM_OWNER><%sM_SAMA>|<br>|I'd love to go there and see the|circus with you. I can't stop thinking about|it. .."
     },
     "237": {
-        "「どうぞ　<%sM_ITEM>です！|　娯楽島ラッカランは　遊べる施設が|　たくさんあって　ドキドキしました～。|<br>|「でも　ボクにとっては|　<%sM_OWNER><%sM_SAMA>のいる　この家が|　なによりの　ドキドキ空間なんです～。": "This is <%sM_ITEM>! There's so|much to do on the recreational island of|Raqqaran, it's thrilling... But for me, this|<br>|house with <%sM_OWNER><%sM_SAMA>is the most exciting place of|all..."
+        "「どうぞ　<%sM_ITEM>です！|　娯楽島ラッカランは　遊べる施設が|　たくさんあって　ドキドキしました～。|<br>|「でも　ボクにとっては|　<%sM_OWNER><%sM_SAMA>のいる　この家が|　なによりの　ドキドキ空間なんです～。": "This is <%sM_ITEM>! There's so|much to do on the recreational island of|Raqqaran, it's thrilling. But for me, this|<br>|house with <%sM_OWNER><%sM_SAMA>is the most exciting place of|all."
     },
     "238": {
-        "「どうぞ　<%sM_ITEM>です～。|　ガタラの上層には　展望台があったので|　迷わず　のぼってきましたよ～。|<br>|「<%sM_OWNER><%sM_SAMA>～～！！　って　思わず|　遠くの空に　さけんじゃいました。|　とっても　気持ちよかったです。えへへ。": "Here you go. <%sM_ITEM>... There|was an observation deck on the upper level of|Gathara, so I climbed up without|<br>|hesitation... <%sM_OWNER><%sM_SAM|A>~! I couldn't help but shout at|the sky in the distance... It felt so good.|<br>|......"
+        "「どうぞ　<%sM_ITEM>です～。|　ガタラの上層には　展望台があったので|　迷わず　のぼってきましたよ～。|<br>|「<%sM_OWNER><%sM_SAMA>～～！！　って　思わず|　遠くの空に　さけんじゃいました。|　とっても　気持ちよかったです。えへへ。": "Here you go. <%sM_ITEM>. There|was an observation deck on the upper level of|Gathara, so I climbed up without|<br>|hesitation. <%sM_OWNER><%sM_SAM|A>~! I couldn't help but shout at|the sky in the distance. It felt so good.|<br>|.."
     },
     "239": {
-        "「どうぞ　<%sM_ITEM>です！|　ジュレットの町は　海風が|　とーっても　気持ちよかったです。|<br>|「波にさらわれる　砂浜に|　<%sM_OWNER><%sM_SAMA>　好き<heart>　と|　書いておきました～。えへへ。": "Here you are, <%sM_ITEM>! In the|town of Jourette, the sea breeze feels so|good... <%sM_OWNER><%sM_SAMA>|<br>|on the sandy beach.<heart>I'll write ......"
+        "「どうぞ　<%sM_ITEM>です！|　ジュレットの町は　海風が|　とーっても　気持ちよかったです。|<br>|「波にさらわれる　砂浜に|　<%sM_OWNER><%sM_SAMA>　好き<heart>　と|　書いておきました～。えへへ。": "Here you are, <%sM_ITEM>! In the|town of Jourette, the sea breeze feels so|good. <%sM_OWNER><%sM_SAMA>|<br>|on the sandy beach.<heart>I'll write .."
     },
     "240": {
-        "「……えーと？　ごめんなさい。|　<%sM_BAG_TYPE>が　いっぱいみたいですね。|　また今度　お渡しします！": "... Um...? Sorry... There's a lot of|<%sM_BAG_TYPE>... I'll give it to|you another time!"
+        "「……えーと？　ごめんなさい。|　<%sM_BAG_TYPE>が　いっぱいみたいですね。|　また今度　お渡しします！": ". Um.? Sorry. There's a lot of|<%sM_BAG_TYPE>. I'll give it to|you another time!"
     },
     "241": {
-        "「<%sM_OWNER><%sM_SAMA>のことを考えて|　精一杯　選びましたよ～。|　気に入ってくださると　うれしいです～。": "<%sM_OWNER><%sM_SAMA>|I've done my best to choose with you in|mind... I hope you like it..."
+        "「<%sM_OWNER><%sM_SAMA>のことを考えて|　精一杯　選びましたよ～。|　気に入ってくださると　うれしいです～。": "<%sM_OWNER><%sM_SAMA>|I've done my best to choose with you in|mind. I hope you like it."
     },
     "242": {
-        "「えへへ　<%sM_OWNER><%sM_SAMA>。|　今日は　<%sM_OWNER><%sM_SAMA>に|　プレゼントがあります。じゃじゃーん！": "Ehehe|<%sM_OWNER><%sM_SAMA>...|Today,|<br>|<%sM_OWNER><%sM_SAMA>|has a present for you... Ta-da!"
+        "「えへへ　<%sM_OWNER><%sM_SAMA>。|　今日は　<%sM_OWNER><%sM_SAMA>に|　プレゼントがあります。じゃじゃーん！": "Ehehe|<%sM_OWNER><%sM_SAMA>.|Today,|<br>|<%sM_OWNER><%sM_SAMA>|has a present for you. Ta-da!"
     },
     "243": {
-        "「どうぞ　<%sM_ITEM>です～。|　グレン城下町は　とても|　活気があって　いい町ですね～。|<br>|「元気な人たちから　パワーをもらった気分です！|　さあ　また　<%sM_OWNER><%sM_SAMA>のために|　お仕事　がんばりますよー！": "Please, <%sM_ITEM>... Castle Glen|is a very lively and nice town... I feel|empowered by the energetic people! Now, I'll|<br>|work hard again for <%sM_OWNER><%|sM_SAMA>!"
+        "「どうぞ　<%sM_ITEM>です～。|　グレン城下町は　とても|　活気があって　いい町ですね～。|<br>|「元気な人たちから　パワーをもらった気分です！|　さあ　また　<%sM_OWNER><%sM_SAMA>のために|　お仕事　がんばりますよー！": "Please, <%sM_ITEM>. Castle Glen|is a very lively and nice town. I feel|empowered by the energetic people! Now, I'll|<br>|work hard again for <%sM_OWNER><%|sM_SAMA>!"
     },
     "244": {
-        "「どうぞ　<%sM_ITEM>です～。|　アズランは　緑の美しい|　とても　きれいなところですね～。|<br>|「あの町を歩いていたら　急にカムシカが現れて|　思ってたより　大きかったので|　ビックリしちゃいました。てへへ……。": "Here you go. <%sM_ITEM>... Aztlan|is a beautiful, green place... When we were|walking through that town, a Kamushika|<br>|suddenly appeared, and it was bigger than I|expected, so I was surprised... Hehehe..."
+        "「どうぞ　<%sM_ITEM>です～。|　アズランは　緑の美しい|　とても　きれいなところですね～。|<br>|「あの町を歩いていたら　急にカムシカが現れて|　思ってたより　大きかったので|　ビックリしちゃいました。てへへ……。": "Here you go. <%sM_ITEM>. Aztlan|is a beautiful, green place. When we were|walking through that town, a Kamushika|<br>|suddenly appeared, and it was bigger than I|expected, so I was surprised. Hehehe."
     },
     "245": {
-        "「どうぞ　<%sM_ITEM>です～。|　メギストリスの都って　とっても|　華やかなところなんですね～。|<br>|「あんな素敵な町を　<%sM_OWNER><%sM_SAMA>と|　一緒に　歩けたら……と|　夢が　広がりました～。": "Here you go. <%sM_ITEM>... The|capital of Megistris is a very glamorous|place... If only I could walk through such a|<br>|lovely city with <%sM_OWNER><%sM_|SAMA>... My dreams are|expanding..."
+        "「どうぞ　<%sM_ITEM>です～。|　メギストリスの都って　とっても|　華やかなところなんですね～。|<br>|「あんな素敵な町を　<%sM_OWNER><%sM_SAMA>と|　一緒に　歩けたら……と|　夢が　広がりました～。": "Here you go. <%sM_ITEM>. The|capital of Megistris is a very glamorous|place. If only I could walk through such a|<br>|lovely city with <%sM_OWNER><%sM_|SAMA>. My dreams are|expanding."
     },
     "246": {
-        "「どうぞ　<%sM_ITEM>です～。|　ドルワームの移動装置……|　神カラクリは　すごいですね！|<br>|「移動するのが　楽しくって|　何度も　神カラクリを使っちゃいました～。": "Go ahead <%sM_ITEM>... The|dorworm mover... The divine power trick is|amazing! It's so fun to move around, I've|<br>|used the divine karakuri so many times..."
+        "「どうぞ　<%sM_ITEM>です～。|　ドルワームの移動装置……|　神カラクリは　すごいですね！|<br>|「移動するのが　楽しくって|　何度も　神カラクリを使っちゃいました～。": "Go ahead <%sM_ITEM>. The|dorworm mover. The divine power trick is|amazing! It's so fun to move around, I've|<br>|used the divine karakuri so many times."
     },
     "247": {
-        "「どうぞ　<%sM_ITEM>です～。|　ヴェリナードの周りには|　水場が多くって　楽しいですね～。|<br>|「ちゃぷちゃぷして　遊びたい気持ちを|　グッと　こらえるのが大変でした～。えへへ。": "Here you go. <%sM_ITEM>...|There's a lot of water around the verinade,|so it's fun... It's hard to resist the urge|<br>|to splash around in the water. ......"
+        "「どうぞ　<%sM_ITEM>です～。|　ヴェリナードの周りには|　水場が多くって　楽しいですね～。|<br>|「ちゃぷちゃぷして　遊びたい気持ちを|　グッと　こらえるのが大変でした～。えへへ。": "Here you go. <%sM_ITEM>.|There's a lot of water around the verinade,|so it's fun. It's hard to resist the urge|<br>|to splash around in the water. .."
     },
     "248": {
-        "「どうぞ　<%sM_ITEM>です～。|　カミハルムイの桜が|　とーっても　きれいだったんです！|<br>|「真っ先に　<%sM_OWNER><%sM_SAMA>と一緒に|　この景色を　見れたらいいなぁって|　思ったんですよ～。": "Here you go. <%sM_ITEM>... The|cherry blossoms in Kamihalmui were so|beautiful! First of all, I thought it would|<br>|be nice to see this scenery with <%sM_OWNER><%sM_SAMA>..."
+        "「どうぞ　<%sM_ITEM>です～。|　カミハルムイの桜が|　とーっても　きれいだったんです！|<br>|「真っ先に　<%sM_OWNER><%sM_SAMA>と一緒に|　この景色を　見れたらいいなぁって|　思ったんですよ～。": "Here you go. <%sM_ITEM>. The|cherry blossoms in Kamihalmui were so|beautiful! First of all, I thought it would|<br>|be nice to see this scenery with <%sM_OWNER><%sM_SAMA>."
     },
     "249": {
-        "「どうぞ　<%sM_ITEM>です！|　ガートラントの城下町にいるだけで|　なんだか　ボクも　強くなった気分でした～。|<br>|「<%sM_OWNER><%sM_SAMA>と　一緒に　冒険に行く日も|　そう　遠くないかもしれません！|　……って　ジョーダンですけどね。てへへ。": "Here you go. <%sM_ITEM>! Just by|being in the castle town of Gartland, I feel|like I'm getting stronger. It won't be long|<br>|before I'm going on adventures with <%sM_OWNE|R><%sM_SAMA>! ... I'm|Jordan. ......"
+        "「どうぞ　<%sM_ITEM>です！|　ガートラントの城下町にいるだけで|　なんだか　ボクも　強くなった気分でした～。|<br>|「<%sM_OWNER><%sM_SAMA>と　一緒に　冒険に行く日も|　そう　遠くないかもしれません！|　……って　ジョーダンですけどね。てへへ。": "Here you go. <%sM_ITEM>! Just by|being in the castle town of Gartland, I feel|like I'm getting stronger. It won't be long|<br>|before I'm going on adventures with <%sM_OWNE|R><%sM_SAMA>! . I'm|Jordan. .."
     },
     "250": {
-        "「どうぞ　<%sM_ITEM>です！|　港町レンドアの　大きな船を|　見てきたんですよ～。|<br>|「いつか　あんな大きな船に乗って|　<%sM_OWNER><%sM_SAMA>と　旅行ができたら|　ステキだなぁと　思いました～。": "Here you go. <%sM_ITEM>! I've|seen the big ships in the harbor town of|Lendore, so... I think it would be wonderful|<br>|if one day I could travel with|<%sM_OWNER><%sM_SAMA>|on a ship that big..."
+        "「どうぞ　<%sM_ITEM>です！|　港町レンドアの　大きな船を|　見てきたんですよ～。|<br>|「いつか　あんな大きな船に乗って|　<%sM_OWNER><%sM_SAMA>と　旅行ができたら|　ステキだなぁと　思いました～。": "Here you go. <%sM_ITEM>! I've|seen the big ships in the harbor town of|Lendore, so. I think it would be wonderful|<br>|if one day I could travel with|<%sM_OWNER><%sM_SAMA>|on a ship that big."
     },
     "251": {
         "「どんな　ふるまい方で|　<%sM_OWNER><%sM_SAMA>に　お仕えしましょうか？|<break>": "In what manner shall I serve <%sM_OWNER><%sM_SAMA>?<break>"
@@ -756,127 +756,127 @@
         "「<%sM_FURUMAI>で|　お仕えすれば　いいんですか？|<yesno><break>": "Am I supposed to serve you with|<%sM_FURUMAI>?<yesno><break>"
     },
     "253": {
-        "「わかりました～。|　では　これからは　<%sM_FURUMAI>で|　<%sM_OWNER><%sM_SAMA>に　お仕えします～！|<br>|「それでは……": "I understand... From now on,|<%sM_FURUMAI> will serve <%sM_OWN|ER><%sM_SAMA>~! Now|<br>|then..."
+        "「わかりました～。|　では　これからは　<%sM_FURUMAI>で|　<%sM_OWNER><%sM_SAMA>に　お仕えします～！|<br>|「それでは……": "I understand. From now on,|<%sM_FURUMAI> will serve <%sM_OWN|ER><%sM_SAMA>~! Now|<br>|then."
     },
     "254": {
         "「<%sM_OWNER_OTHER>さまの　お家へ　ようこそ！|　どうぞ　ゆっくりしていってくださいね！": "<%sM_OWNER_OTHER>Welcome to your|home! Please make yourself at home!"
     },
     "255": {
-        "「<%sM_OWNER_OTHER>さまの　お家へ　ようこそ！|　どうぞ　ゆっくりしていってくださいね！　|<br>|「生きがいは　<%sM_OWNER_OTHER>さまと|　そのお客様の　お役に立つことです～！|　がんばりますので　よろしくお願いします。|<br>|「さっそくですが　<%sM_OWNER_OTHER>さまから|　お客様へ　メッセージがあります。|　がんばって　お伝えするので　聞いてください。": "<%sM_OWNER_OTHER>Welcome to your|home! Please make yourself at home! My|purpose in life is to be of service to|<br>|<%sM_OWNER_OTHER>and her|customers~! I'll do my best, so please... I|have a message for you from|<br>|<%sM_OWNER_OTHER>... I'll do my|best to tell you about it, so please|listen..."
+        "「<%sM_OWNER_OTHER>さまの　お家へ　ようこそ！|　どうぞ　ゆっくりしていってくださいね！　|<br>|「生きがいは　<%sM_OWNER_OTHER>さまと|　そのお客様の　お役に立つことです～！|　がんばりますので　よろしくお願いします。|<br>|「さっそくですが　<%sM_OWNER_OTHER>さまから|　お客様へ　メッセージがあります。|　がんばって　お伝えするので　聞いてください。": "<%sM_OWNER_OTHER>Welcome to your|home! Please make yourself at home! My|purpose in life is to be of service to|<br>|<%sM_OWNER_OTHER>and her|customers~! I'll do my best, so please. I|have a message for you from|<br>|<%sM_OWNER_OTHER>. I'll do my|best to tell you about it, so please|listen."
     },
     "256": {
-        "「以上が　<%sM_OWNER_OTHER>さまからの|　伝言ですよ。それでは　こちらで|　どうぞ　心ゆくまで　お過ごしくださ～い。": "This is a message from|<%sM_OWNER_OTHER>... Then please|stay here and enjoy yourself to your heart's|<br>|content..."
+        "「以上が　<%sM_OWNER_OTHER>さまからの|　伝言ですよ。それでは　こちらで|　どうぞ　心ゆくまで　お過ごしくださ～い。": "This is a message from|<%sM_OWNER_OTHER>. Then please|stay here and enjoy yourself to your heart's|<br>|content."
     },
     "257": {
-        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど５ヶ月に　なりました～。|<br>|「じつは　今日という日に　|　<%sM_OWNER><%sM_SAMA>に　お伝えしようと|　思っていたことが　あるのです。|<br>|「<%sM_OWNER><%sM_SAMA>|　超だぁーい好き　ですよ～<heart>": "<%sM_OWNER><%sM_SAMA>...|Today marks exactly five months that I've|been working in this house... In fact,|<br>|there's something I've been meaning to tell|<%sM_OWNER><%sM_SAMA>|today...|<br>|<%sM_OWNER><%sM_SAMA>|I love you so much!<heart>"
+        "「<%sM_OWNER><%sM_SAMA>。|　今日で　ボクが　この家で働きはじめて|　ちょうど５ヶ月に　なりました～。|<br>|「じつは　今日という日に　|　<%sM_OWNER><%sM_SAMA>に　お伝えしようと|　思っていたことが　あるのです。|<br>|「<%sM_OWNER><%sM_SAMA>|　超だぁーい好き　ですよ～<heart>": "<%sM_OWNER><%sM_SAMA>.|Today marks exactly five months that I've|been working in this house. In fact,|<br>|there's something I've been meaning to tell|<%sM_OWNER><%sM_SAMA>|today.|<br>|<%sM_OWNER><%sM_SAMA>|I love you so much!<heart>"
     },
     "258": {
         "「えっと　以前いただいた伝言から|　変更しないということで　いいんですよね？|<yesno><break>": "Are you sure you don't want to change it from|the previous message?<yesno><break>"
     },
     "259": {
-        "「わ～！　大変です　<%sM_OWNER><%sM_SAMA>！|　早く　ベッドで休んでください。|<br>|「<%sM_OWNER><%sM_SAMA>に　もしものことがあったら|　ボクはもう　生きていけそうに　ありません。|　うう……　ぐすっ。": "Oh, my God! Oh, my God. <%sM_OWNER>N|G><%sM_SAMA>! You need to get to|bed and get some rest... <If anything should|<br>|happen to you, I don't think I can live with|myself... Ugh... ..."
+        "「わ～！　大変です　<%sM_OWNER><%sM_SAMA>！|　早く　ベッドで休んでください。|<br>|「<%sM_OWNER><%sM_SAMA>に　もしものことがあったら|　ボクはもう　生きていけそうに　ありません。|　うう……　ぐすっ。": "Oh, my God! Oh, my God. <%sM_OWNER>N|G><%sM_SAMA>! You need to get to|bed and get some rest. <If anything should|<br>|happen to you, I don't think I can live with|myself. Ugh. ."
     },
     "260": {
-        "「<%sM_OWNER><%sM_SAMA>～　見てくださいっ。|　今は　お掃除中なんです～。|　えらいでしょー　えへへ。": "<%sM_OWNER><%sM_SAMA>|~ Look... We're just cleaning up... It's|great..."
+        "「<%sM_OWNER><%sM_SAMA>～　見てくださいっ。|　今は　お掃除中なんです～。|　えらいでしょー　えへへ。": "<%sM_OWNER><%sM_SAMA>|~ Look. We're just cleaning up. It's|great."
     },
     "261": {
-        "「お客様～　見てくださいっ。|　今は　お掃除中なんです～。|　えらいでしょー。えへへ。": "Sir, please, look... We're just cleaning|up... Good job. ......"
+        "「お客様～　見てくださいっ。|　今は　お掃除中なんです～。|　えらいでしょー。えへへ。": "Sir, please, look. We're just cleaning|up. Good job. .."
     },
     "262": {
         "「本当に　お別れしてしまって|　よろしいのですね？|<yesno 2><break>": "Are you sure you want to say goodbye?<yesno 2><break>"
     },
     "263": {
-        "「<pc>さま。|　<%sM_BEFORE_NAME>さんは　来たばかりで|　きっと　緊張していると思います。|<br>|「なので　ぜひ　あなたから|　<%sM_BEFORE_NAME>さんに|　声をかけて　あげてください。": "<pc> Hello. <%sM_BEFORE_NAME>has just|arrived, and I'm sure she's nervous... So|please, you can talk to|<br>|<%sM_BEFORE_NAME>..."
+        "「<pc>さま。|　<%sM_BEFORE_NAME>さんは　来たばかりで|　きっと　緊張していると思います。|<br>|「なので　ぜひ　あなたから|　<%sM_BEFORE_NAME>さんに|　声をかけて　あげてください。": "<pc> Hello. <%sM_BEFORE_NAME>has just|arrived, and I'm sure she's nervous. So|please, you can talk to|<br>|<%sM_BEFORE_NAME>."
     },
     "264": {
-        "「わーい。|　ボク　お着替えすればいいんですね。|　どれに　着替えれば　よいですか～？": "I... I just need to change into something...|Which one do you want me to change into?"
+        "「わーい。|　ボク　お着替えすればいいんですね。|　どれに　着替えれば　よいですか～？": "I. I just need to change into something.|Which one do you want me to change into?"
     },
     "265": {
         "「<%sM_HUKU>に|　着替えれば　よいですか？|<yesno><break>": "Do I need to change into|<%sM_HUKU>?<yesno><break>"
     },
     "266": {
-        "「わかりました～。|　では　<%sM_HUKU>に|　着替えて　お仕えします～。": "I understand... I'll put on my|<%sM_HUKU> and serve you..."
+        "「わかりました～。|　では　<%sM_HUKU>に|　着替えて　お仕えします～。": "I understand. I'll put on my|<%sM_HUKU> and serve you."
     },
     "267": {
-        "「<%sM_NAME>さんと　お別れしました。|　コンシェルジュを　また雇いたい時は|　条件を指定して　別の方をお探しください。": "I'm sorry to say goodbye to|<%sM_NAME>... If you'd like to|hire a concierge again, please specify your|<br>|requirements and we'll find another one for|you..."
+        "「<%sM_NAME>さんと　お別れしました。|　コンシェルジュを　また雇いたい時は|　条件を指定して　別の方をお探しください。": "I'm sorry to say goodbye to|<%sM_NAME>. If you'd like to|hire a concierge again, please specify your|<br>|requirements and we'll find another one for|you."
     },
     "268": {
-        "「<%sM_NAME>さんと　お別れしました。|<br>|「では　新たに　<%sM_BEFORE_NAME>さんに|　来てもらいますので　<%sM_BEFORE_NAME>さんに|　立ってもらいたい位置を　お決めください。": "We'll say goodbye to|<%sM_NAME>... We will now invite|<%sM_BEFORE_NAME> to join us, so|<br>|please decide where you would like|<%sM_BEFORE_NAME> to stand..."
+        "「<%sM_NAME>さんと　お別れしました。|<br>|「では　新たに　<%sM_BEFORE_NAME>さんに|　来てもらいますので　<%sM_BEFORE_NAME>さんに|　立ってもらいたい位置を　お決めください。": "We'll say goodbye to|<%sM_NAME>. We will now invite|<%sM_BEFORE_NAME> to join us, so|<br>|please decide where you would like|<%sM_BEFORE_NAME> to stand."
     },
     "269": {
         "clarity_nt_char_269": "clarity_nt_char_269"
     },
     "270": {
-        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「新しいコンシェルジュを雇えるのは|　１日１回までです。明日まで新しい人を|　雇えませんが　本当によろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you|parted with will be lost and passed on to the|new person... You can only hire one new|<br>|concierge per day... I can't hire a new|concierge until tomorrow. Are you sure you|want to do this?|<br><yesno><break>"
+        "「<%sM_NAME>さんと　お別れしますか？|　一度お別れしてしまうと　もう同じ方は|　雇えなくなります。|<br>|「また　お別れしてしまった方に贈った|　プレゼントなどは　すべて|　なくなり　新しい方には引き継がれません。|<br>|「新しいコンシェルジュを雇えるのは|　１日１回までです。明日まで新しい人を|　雇えませんが　本当によろしいですか？|<yesno><break>": "Would you like to part company with|<%sM_NAME>? Once you part ways|with someone, you can't hire them again.|<br>|Also, any gifts you gave to the person you|parted with will be lost and passed on to the|new person. You can only hire one new|<br>|concierge per day. I can't hire a new|concierge until tomorrow. Are you sure you|want to do this?|<br><yesno><break>"
     },
     "271": {
-        "「今日は　１度プライベートコンシェルジュと|　お別れしているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already said goodbye to one private|concierge today, so we can't hire a new|one... You can try again tomorrow..."
+        "「今日は　１度プライベートコンシェルジュと|　お別れしているので　新しい方は雇えません。|　明日　また　お試しください。": "We've already said goodbye to one private|concierge today, so we can't hire a new|one. You can try again tomorrow."
     },
     "272": {
-        "「今　ご指定の条件で雇えるコンシェルジュは|　この方たちです。|<break>": "Right now, the only concierge available for|hire with your specifications is this one...<break>"
+        "「今　ご指定の条件で雇えるコンシェルジュは|　この方たちです。|<break>": "Right now, the only concierge available for|hire with your specifications is this one.<break>"
     },
     "273": {
-        "「あっ　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がハネちゃって……。|　ヘンじゃないですか？　心配です～。": "Oh, <%sM_OWNER><%sM_SAMA>! I'm sorry. My hair's a bit springy|today. Isn't it strange? I'm worried..."
+        "「あっ　<%sM_OWNER><%sM_SAMA>！|　すみません　今日は　髪がハネちゃって……。|　ヘンじゃないですか？　心配です～。": "Oh, <%sM_OWNER><%sM_SAMA>! I'm sorry. My hair's a bit springy|today. Isn't it strange? I'm worried."
     },
     "274": {
         "「あっ　お客様！|　すみません　今日は　髪がハネちゃって……。|　ヘンじゃないですか？　心配です～。": "Customer! I'm sorry. My hair's a little|flyaway today. Isn't it strange? I'm worried."
     },
     "275": {
-        "「わーい　お仕事　はりきっちゃいます！|　それでは　<%sM_OWNER><%sM_SAMA>|　なんなりと　お申し付けくださいませ～。|<break>": "I'm really excited about my work! So,|<%sM_OWNER><%sM_SAMA>|please feel free to contact us...|<br><break>"
+        "「わーい　お仕事　はりきっちゃいます！|　それでは　<%sM_OWNER><%sM_SAMA>|　なんなりと　お申し付けくださいませ～。|<break>": "I'm really excited about my work! So,|<%sM_OWNER><%sM_SAMA>|please feel free to contact us.|<br><break>"
     },
     "276": {
-        "「わかりました～。|　今後は　この辺りで　<%sM_OWNER><%sM_SAMA>に|　ご奉仕させていただきますね。": "I understand... From now on, I'll be serving|<%sM_OWNER><%sM_SAMA>|around here..."
+        "「わかりました～。|　今後は　この辺りで　<%sM_OWNER><%sM_SAMA>に|　ご奉仕させていただきますね。": "I understand. From now on, I'll be serving|<%sM_OWNER><%sM_SAMA>|around here."
     },
     "277": {
-        "「わかりました～。|　では　どの位置に移動するか教えてください～。": "I don't... Then tell me where to move..."
+        "「わかりました～。|　では　どの位置に移動するか教えてください～。": "I don't. Then tell me where to move."
     },
     "278": {
-        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　その名前は　使うことが　できないんです。|　もう１回　考えてみてくださいっ。|<bw_break>": "Sorry,|<%sM_OWNER><%sM_SAMA>...|I can't use that name... Please think|<br>|again...<bw_break>"
+        "「ごめんなさい　<%sM_OWNER><%sM_SAMA>。|　その名前は　使うことが　できないんです。|　もう１回　考えてみてくださいっ。|<bw_break>": "Sorry,|<%sM_OWNER><%sM_SAMA>.|I can't use that name. Please think|<br>|again.<bw_break>"
     },
     "279": {
-        "「どんな名前で呼ぶか　決めてほしいです～。|<bw_break>": "I want you to decide what you're gonna call|me...<bw_break>"
+        "「どんな名前で呼ぶか　決めてほしいです～。|<bw_break>": "I want you to decide what you're gonna call|me.<bw_break>"
     },
     "280": {
-        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　これから　呼んでいただけるのが楽しみ～！|<bw_break>": "<%sM_NAME>...? Wow, that's a very|nice name... I can't wait for you to call me|that!|<br><bw_break>"
+        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　これから　呼んでいただけるのが楽しみ～！|<bw_break>": "<%sM_NAME>.? Wow, that's a very|nice name. I can't wait for you to call me|that!|<br><bw_break>"
     },
     "281": {
-        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　これから　呼んでいただけるのが楽しみ～！|<bw_break>": "<%sM_NAME>...? Wow, that's a very|nice name... I can't wait for you to call me|that!|<br><bw_break>"
+        "「<%sM_NAME>……？|　わぁっ　とっても素敵な名前です～。|　これから　呼んでいただけるのが楽しみ～！|<bw_break>": "<%sM_NAME>.? Wow, that's a very|nice name. I can't wait for you to call me|that!|<br><bw_break>"
     },
     "282": {
-        "「<%sM_OWNER><%sM_SAMA>　新しい年ですね～！|　今年もかけがえのない時を　<%sM_OWNER><%sM_SAMA>と|　一緒に過ごせたら　うれしいです。えへへ。": "<%sM_OWNER><%sM_SAMA>|It's a new year! I'm happy to spend|irreplaceable time with|<br>|<%sM_OWNER><%sM_SAMA>|this year, too. ......"
+        "「<%sM_OWNER><%sM_SAMA>　新しい年ですね～！|　今年もかけがえのない時を　<%sM_OWNER><%sM_SAMA>と|　一緒に過ごせたら　うれしいです。えへへ。": "<%sM_OWNER><%sM_SAMA>|It's a new year! I'm happy to spend|irreplaceable time with|<br>|<%sM_OWNER><%sM_SAMA>|this year, too. .."
     },
     "283": {
-        "「<%sM_OWNER><%sM_SAMA>～　今年も　精一杯|　がんばるので　見捨てちゃイヤですよ！|　ずーっと　お仕えさせてくださいね。": "<%sM_OWNER><%sM_SAMA>|~ I'll do my best this year, so don't abandon|me! Please let me serve you forever..."
+        "「<%sM_OWNER><%sM_SAMA>～　今年も　精一杯|　がんばるので　見捨てちゃイヤですよ！|　ずーっと　お仕えさせてくださいね。": "<%sM_OWNER><%sM_SAMA>|~ I'll do my best this year, so don't abandon|me! Please let me serve you forever."
     },
     "284": {
-        "「こうして　<%sM_OWNER><%sM_SAMA>と新年を|　迎えることができて　本当に　幸せです。|　どうか　今年も　よろしくお願いします。": "I'm really happy to be able to greet the New|Year with|<%sM_OWNER><%sM_SAMA>|<br>|in this way... Please give me your best|regards this year too..."
+        "「こうして　<%sM_OWNER><%sM_SAMA>と新年を|　迎えることができて　本当に　幸せです。|　どうか　今年も　よろしくお願いします。": "I'm really happy to be able to greet the New|Year with|<%sM_OWNER><%sM_SAMA>|<br>|in this way. Please give me your best|regards this year too."
     },
     "285": {
-        "「<%sM_OWNER><%sM_SAMA>～　今年の目標を決めました！|　それは　より多く　<%sM_OWNER><%sM_SAMA>に|　ほめられるよう　がんばることで～す。": "<%sM_OWNER><%sM_SAMA>|~ I've set a goal for this year! I'm going to|do my best to get more|<br>|<%sM_OWNER><%sM_SAMA>|compliments..."
+        "「<%sM_OWNER><%sM_SAMA>～　今年の目標を決めました！|　それは　より多く　<%sM_OWNER><%sM_SAMA>に|　ほめられるよう　がんばることで～す。": "<%sM_OWNER><%sM_SAMA>|~ I've set a goal for this year! I'm going to|do my best to get more|<br>|<%sM_OWNER><%sM_SAMA>|compliments."
     },
     "286": {
-        "「もう　今年も終わりますね～。|　今年は　<%sM_OWNER><%sM_SAMA>のもとで働けて|　とってもとっても　幸せな年でした！": "This year is already over... This year has|been a very, very happy year working for <%sM|_OWNER><%sM_SAMA>!"
+        "「もう　今年も終わりますね～。|　今年は　<%sM_OWNER><%sM_SAMA>のもとで働けて|　とってもとっても　幸せな年でした！": "This year is already over. This year has|been a very, very happy year working for <%sM|_OWNER><%sM_SAMA>!"
     },
     "287": {
-        "「年の瀬なので　そろそろ大掃除しまーす！|　ピカピカに　みがきあげますよ～。|　きちんとできたら　ほめてくださいね。えへへ。": "It's the end of the year, so it's time to|clean up! I'll give it a good shine... Please|praise me if I do it right. ......"
+        "「年の瀬なので　そろそろ大掃除しまーす！|　ピカピカに　みがきあげますよ～。|　きちんとできたら　ほめてくださいね。えへへ。": "It's the end of the year, so it's time to|clean up! I'll give it a good shine. Please|praise me if I do it right. .."
     },
     "288": {
-        "「もう　年の暮れです。年末は　何かと忙しいので|　そろそろ　<%sM_OWNER><%sM_SAMA>から|　元気を　チャージしてもらいたいです！": "It's the end of the year... We're all busy at|the end of the year, so it's time for you to|recharge from <%sM_OWNER><%sM_SAM|<br>|A>!"
+        "「もう　年の暮れです。年末は　何かと忙しいので|　そろそろ　<%sM_OWNER><%sM_SAMA>から|　元気を　チャージしてもらいたいです！": "It's the end of the year. We're all busy at|the end of the year, so it's time for you to|recharge from <%sM_OWNER><%sM_SAM|<br>|A>!"
     },
     "289": {
-        "「<%sM_OWNER><%sM_SAMA>　今年は　どんな１年でした？|　ボクは　ますます　<%sM_OWNER><%sM_SAMA>のことを|　好きになった年でした。へへへ。": "<%sM_OWNER><%sM_SAMA>|What kind of year was this? The year that I|fell in love with|<br>|<%sM_OWNER><%sM_SAMA>|more and more ......"
+        "「<%sM_OWNER><%sM_SAMA>　今年は　どんな１年でした？|　ボクは　ますます　<%sM_OWNER><%sM_SAMA>のことを|　好きになった年でした。へへへ。": "<%sM_OWNER><%sM_SAMA>|What kind of year was this? The year that I|fell in love with|<br>|<%sM_OWNER><%sM_SAMA>|more and more .."
     },
     "290": {
-        "「うーん。<%sM_OWNER><%sM_SAMA>　ごめんなさい。|　もう１回　ご指示をいただけますか？|　お願いしま～す。|<bw_break>": "...|<%sM_OWNER><%sM_SAMA>|Sorry... Could you give me one more|<br>|instruction, please? Please...<bw_break>"
+        "「うーん。<%sM_OWNER><%sM_SAMA>　ごめんなさい。|　もう１回　ご指示をいただけますか？|　お願いしま～す。|<bw_break>": ".|<%sM_OWNER><%sM_SAMA>|Sorry. Could you give me one more|<br>|instruction, please? Please.<bw_break>"
     },
     "291": {
-        "「えっと　お客様への伝言は　しないということで|　いいんですよね？|<yesno><break>": "So... you're saying you don't give messages|to customers, right?<yesno><break>"
+        "「えっと　お客様への伝言は　しないということで|　いいんですよね？|<yesno><break>": "So. you're saying you don't give messages|to customers, right?<yesno><break>"
     },
     "292": {
-        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。|　名前が　入力されていないみたい。|　確認してほしいのですっ。|<bw_break>": "Hey there|<%sM_OWNER><%sM_SAMA>...|You didn't enter a name. I need you to|<br>|check...<bw_break>"
+        "「ねえねえ　<%sM_OWNER><%sM_SAMA>。|　名前が　入力されていないみたい。|　確認してほしいのですっ。|<bw_break>": "Hey there|<%sM_OWNER><%sM_SAMA>.|You didn't enter a name. I need you to|<br>|check.<bw_break>"
     },
     "293": {
-        "「これは……　すごく　かっこいい服です～！|　まるで　絵本の中の　王子様みたいですね。|　しゃきーん！": "This is... It's a really cool outfit. It's|like a prince from a picture book. Shakin'!"
+        "「これは……　すごく　かっこいい服です～！|　まるで　絵本の中の　王子様みたいですね。|　しゃきーん！": "This is. It's a really cool outfit. It's|like a prince from a picture book. Shakin'!"
     },
     "294": {
         "「うわーい！　すっごく　うれしいです～！|　ボクだって　<%sM_OWNER><%sM_SAMA>が　大好きです！|　ずっとずっと　一緒に　いさせてくださいねー！|<br>|「いっぱい　<%sM_OWNER><%sM_SAMA>を　支えますよ～！|　これからも　どんどん進化するので|　そばで　ずっと見ていてくださいね～！": "Oh, my God! I'm so happy! I love|<%sM_OWNER><%sM_SAMA>|too! Please let me be with you forever and|<br>|ever! I'll support <%sM_OWNER><%s|M_SAMA>as much as I can~! We'll|continue to evolve, so please stay close by|<br>|and watch us!"
@@ -888,34 +888,34 @@
         "「ひゃー　これは　おしゃれな服ですね！|　ボクに似合うか　ちょっと心配です……。|　着こなせると　いいんですけれど。": "Wow, that's a stylish dress. I'm a little|worried about how I'll look in it. I'm hoping|I can pull it off."
     },
     "297": {
-        "「わぁ　スクール衣装ですか……！|　いつか　この服を着るのが夢だったんです。|　ちょっと　テレちゃいます～。": "Wow, a school outfit...! I've always dreamed|of wearing this outfit one day... I'm a|little nervous..."
+        "「わぁ　スクール衣装ですか……！|　いつか　この服を着るのが夢だったんです。|　ちょっと　テレちゃいます～。": "Wow, a school outfit.! I've always dreamed|of wearing this outfit one day. I'm a|little nervous."
     },
     "298": {
-        "「ふひゃあ。これは　すばらしい着物です～。|　この着物に見合うコンシェルジュになれるよう|　精一杯　がんばりますっ！": "Oh... This is a wonderful kimono... I'll do|my best to become a concierge worthy of this|kimono!"
+        "「ふひゃあ。これは　すばらしい着物です～。|　この着物に見合うコンシェルジュになれるよう|　精一杯　がんばりますっ！": "Oh. This is a wonderful kimono. I'll do|my best to become a concierge worthy of this|kimono!"
     },
     "299": {
-        "「『伝言を登録する』から伝言を教えてくだされば|　遊びに来たお客様が　いらした時に|　ボクが　その伝言を　お伝えします～。|<br>|「伝言に登録できるのは　全角２０文字まで。|　いつでも　伝言は変えることができますから|　お好きな言葉を　ボクに　教えてくださいね～。|<bw_break>": "If you leave a message for me, I'll pass it|on to you when you come to visit. You can|only add 20 words to a message. You can|<br>|change your message at any time, so just tell|me what you'd like to say...<bw_break>"
+        "「『伝言を登録する』から伝言を教えてくだされば|　遊びに来たお客様が　いらした時に|　ボクが　その伝言を　お伝えします～。|<br>|「伝言に登録できるのは　全角２０文字まで。|　いつでも　伝言は変えることができますから|　お好きな言葉を　ボクに　教えてくださいね～。|<bw_break>": "If you leave a message for me, I'll pass it|on to you when you come to visit. You can|only add 20 words to a message. You can|<br>|change your message at any time, so just tell|me what you'd like to say.<bw_break>"
     },
     "300": {
-        "「<%sM_OWNER><%sM_SAMA>　聞いてください！|　遊びにきたお客様に　伝えられる|　伝言の量が　増えたんですよ～。|<br>|「以前は　伝言は全角２０文字まででしたが|　本日から　全角６０文字まで　お客様に|　お伝えできるように　なりました～。|<br>|「ぜひ　<%sM_OWNER><%sM_SAMA>の　素敵なお言葉を|　お客様にも　かけてあげてください。|　ボクも　喜んで　お手伝いしますね～。": "<%sM_OWNER><%sM_SAMA>|Listen up! We've increased the amount of|messages you can give to visitors...|<br>|Previously, messages were limited to 20|characters, but as of today, messages can now|be up to 60 characters... Please feel free to|<br>|use|<%sM_OWNER><%sM_SAMA>|as your message... I'll be happy to help you|<br>|too..."
+        "「<%sM_OWNER><%sM_SAMA>　聞いてください！|　遊びにきたお客様に　伝えられる|　伝言の量が　増えたんですよ～。|<br>|「以前は　伝言は全角２０文字まででしたが|　本日から　全角６０文字まで　お客様に|　お伝えできるように　なりました～。|<br>|「ぜひ　<%sM_OWNER><%sM_SAMA>の　素敵なお言葉を|　お客様にも　かけてあげてください。|　ボクも　喜んで　お手伝いしますね～。": "<%sM_OWNER><%sM_SAMA>|Listen up! We've increased the amount of|messages you can give to visitors.|<br>|Previously, messages were limited to 20|characters, but as of today, messages can now|be up to 60 characters. Please feel free to|<br>|use|<%sM_OWNER><%sM_SAMA>|as your message. I'll be happy to help you|<br>|too."
     },
     "301": {
-        "「承知いたしました。|　では　雇いたいコンシェルジュの|　種族と性別を　お教えください。|<break>": "Yes, sir... Now, if you could tell us the|species and gender of the concierge you'd|like to hire...|<br><break>"
+        "「承知いたしました。|　では　雇いたいコンシェルジュの|　種族と性別を　お教えください。|<break>": "Yes, sir. Now, if you could tell us the|species and gender of the concierge you'd|like to hire.|<br><break>"
     },
     "302": {
-        "「『あいさつの頻度』から　<%sM_OWNER><%sM_SAMA>が|　家にお帰りになった時の　ボクからの|　ごあいさつの頻度を　ご指定いただけます～。|<br>|「より快適に　生活していただけるよう|　お好みの頻度にて　お声掛けいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From the \"Greeting Frequency\" section,|<%sM_OWNER><%sM_SAMA>|allows you to specify how often you would|<br>|like to be greeted by me when you return|home... Please let me know how often you'd|like to hear from me, so that I can make your|<br>|life more comfortable.<bw_break>"
+        "「『あいさつの頻度』から　<%sM_OWNER><%sM_SAMA>が|　家にお帰りになった時の　ボクからの|　ごあいさつの頻度を　ご指定いただけます～。|<br>|「より快適に　生活していただけるよう|　お好みの頻度にて　お声掛けいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From the \"Greeting Frequency\" section,|<%sM_OWNER><%sM_SAMA>|allows you to specify how often you would|<br>|like to be greeted by me when you return|home. Please let me know how often you'd|like to hear from me, so that I can make your|<br>|life more comfortable.<bw_break>"
     },
     "303": {
-        "「『立ちかたを変える』から　ボクが普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます～。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From the \"Change Standing Style\" section, you|can order the way I usually stand when I|serve <%sM_OWNER><%sM_SAMA>|<br>|. If you order the way I stand, I will|serve you in the way you like, so please ask|me...|<br><bw_break>"
+        "「『立ちかたを変える』から　ボクが普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます～。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From the \"Change Standing Style\" section, you|can order the way I usually stand when I|serve <%sM_OWNER><%sM_SAMA>|<br>|. If you order the way I stand, I will|serve you in the way you like, so please ask|me.|<br><bw_break>"
     },
     "304": {
-        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! <%sM_OWNER><%sM_SAMA>|! You're going to wash my back? ...|Jordan... I'm sorry... I'm gonna go get|<br>|ready..."
+        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! <%sM_OWNER><%sM_SAMA>|! You're going to wash my back? .|Jordan. I'm sorry. I'm gonna go get|<br>|ready."
     },
     "305": {
         "「るんるんる～ん♪|　わぁっ　お客様！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! Customer! Are you going to wash my|back? ... Jordan... I'm sorry, I... I'm gonna|go get myself ready..."
     },
     "306": {
-        "「……はあ。暑いのは　どうも苦手です～。|　ちょっとだけ　休憩しても　よいでしょうか？|　<%sM_OWNER><%sM_SAMA>のおヒザで　眠りたいです～。": "..... I don't like the heat. May I take a|break for a moment? I'd like to sleep on the|lap of <%sM_OWNER><%sM_SAMA>|<br>|..."
+        "「……はあ。暑いのは　どうも苦手です～。|　ちょっとだけ　休憩しても　よいでしょうか？|　<%sM_OWNER><%sM_SAMA>のおヒザで　眠りたいです～。": "... I don't like the heat. May I take a|break for a moment? I'd like to sleep on the|lap of <%sM_OWNER><%sM_SAMA>|<br>|."
     },
     "307": {
         "「<%sM_OWNER><%sM_SAMA>～　暑くなってきたので|　一緒に　かき氷でも食べましょうか～。|　あーんって　してほしいのです！　えへへ。": "<%sM_OWNER><%sM_SAMA>|~ It's getting hot, so let's have some shaved|ice together... I want you to give me an ahh!|<br>|..."
