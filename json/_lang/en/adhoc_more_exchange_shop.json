@@ -756,7 +756,7 @@
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
     },
     "253": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "254": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -1632,7 +1632,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "545": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "546": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -1836,7 +1836,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "613": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "614": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -1938,7 +1938,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "647": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "648": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -2040,7 +2040,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "681": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "682": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -2142,7 +2142,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "715": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "716": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
@@ -2244,7 +2244,7 @@
         "「申し訳ありません。ただ今　準備中です。|　次回　交換を　はじめるのは|　『<%sL_NEXT_TIME>』からです。|<bw_break>": "I'm sorry... We're just getting ready... Next|time I start an exchange, it'll be at|<%sL_NEXT_TIME>...<bw_break>"
     },
     "749": {
-        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "He's already memorized the <%sL_GOODS_ITEM>|gesture, so I can give it to you...<bw_break>"
+        "「<%sL_GOODS_ITEM>の　しぐさは|　もう　覚えているようなので|　お渡しすることが　できません。|<bw_break>": "You've already learned the <%sL_GOODS_ITEM>,|so I can't give this to you.|<bw_break>"
     },
     "750": {
         "「<%sL_GOODS_ITEM>は|　すでに取り付けているようなので|　お渡しする事が　できません。|<bw_break>": "It looks like <%sL_GOODS_ITEM> has already|been installed, so I can give you...<bw_break>"
