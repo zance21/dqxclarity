@@ -1044,10 +1044,10 @@
         "土地が　ロックされているため|実行することが　できませんでした。": "The land is locked and cannot be executed..."
     },
     "349": {
-        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED> is sown.|<break>"
+        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED>|are sown.|<break>"
     },
     "350": {
-        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED> is sown.|<break>"
+        "<%sL_SEED>を植えた　畑がある。|<break>": "It's a field where <%sL_SEED>|are sown.|<break>"
     },
     "351": {
         "ドルボードが　あるため|かたづけられません。": "The dollar board is there, so we can't put it|away..."
