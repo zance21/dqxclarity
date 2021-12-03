@@ -909,7 +909,7 @@
         "「『立ちかたを変える』から　ボクが普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます～。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From the \"Change Standing Style\" section, you|can order the way I usually stand when I|serve <%sM_OWNER><%sM_SAMA>|<br>|. If you order the way I stand, I will|serve you in the way you like, so please ask|me.|<br><bw_break>"
     },
     "304": {
-        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! <%sM_OWNER><%sM_SAMA>|! You're going to wash my back? .|Jordan. I'm sorry. I'm gonna go get|<br>|ready."
+        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Hmm, hmm, hmm♪ Wah!<%sM_OWNER><%sM_SAMA>!|You're gonna wash my baaack?|<br>|Tee hee. I'm just joking, I'm sorry. I'll|be right back to get ready."
     },
     "305": {
         "「るんるんる～ん♪|　わぁっ　お客様！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! Customer! Are you going to wash my|back? ... Jordan... I'm sorry, I... I'm gonna|go get myself ready..."
@@ -3219,7 +3219,7 @@
         "「『立ちかたを変える』から　私が普段|　<%sM_OWNER><%sM_SAMA>に　お仕えしている時の|　立ちかたを　ご命令いただくことができます～。|<br>|「立ちかたをご命令いただけば　以降|　お好みの立ちかたで　お仕えいたしますので|　ぜひ　お申しつけくださいませ～。|<bw_break>": "From \"Change Your Standing Style\" you can|order the way I usually stand when I serve <%|sM_OWNER><%sM_SAMA>..|<br>|. If you command the way I stand, I will|serve you in the way you prefer, so please|let me know...|<br><bw_break>"
     },
     "1074": {
-        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! <%sM_OWNER><%sM_SAMA>|! You're going to wash my back? ...|Jordan... I'm sorry... I'm gonna go get|<br>|ready..."
+        "「るんるんる～ん♪|　わぁっ　<%sM_OWNER><%sM_SAMA>！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Hmm, hmm, hmm♪|Wah!<%sM_OWNER><%sM_SAMA>!|You're gonna wash my baaack?|<br>|Tee hee. I'm just joking, I'm sorry. I'll|be right back to get ready."
     },
     "1075": {
         "「るんるんる～ん♪|　わぁっ　お客様！|　お背中　流してくださるんですか～？|<br>|「てへへ。ジョーダンです～。|　ごめんなさ～い。|　すぐに　身支度してきますね。": "Whoa! Customer! Are you going to wash my|back? ... Jordan... I'm sorry, I... I'm gonna|go get myself ready..."
