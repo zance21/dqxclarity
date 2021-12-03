@@ -729,7 +729,7 @@
         "「旅人バザーから　お客様宛てに|　売上金は　届いていないようですね。|<bw_break>": "I don't think the money from the Traveler's|Bazaar was sent to you...<bw_break>"
     },
     "244": {
-        "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "If you use the \"Sales Receipt\" function, you|can receive all the proceeds from the|Traveler's Bazaar at once! However, you will|<br>|only receive the proceeds... If your item is|returned after the time limit has expired,|you will be able to receive it from the|<br>|\"Receiving...<bw_break>"
+        "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "By using the \"Get Bazaar Sales\" function, you|can receive all of your proceeds from the|Traveler's Bazaar at once!|<br>|However, this is for proceeds only. To|receive items from expired sales, please|use \"Receive\".|<bw_break>"
     },
     "245": {
         "「こちらが　旅人バザーより|　お預かりしている　お手紙の　一覧です。|<break>": "These are some of the letters we've been|receiving from the Traveler's Bazaar.<break>"
@@ -1074,7 +1074,7 @@
         "「『おくる』は　便せんに書いた　１枚の手紙と|　５種類までの荷物を　フレンドや|　チームメンバーの１人に　送ることができます。|<br>|「ただし　送る物が　手紙のみの場合は|　最大１０人まで　同じ手紙を送れます。|<br>|「こちらで　送れる手紙は　てがみぶくろにある|　『書いた手紙』に　入っているものだけです。|　とりひきで直接　人に渡すこともできます。|<br>|「『書いた手紙』には　最大１０枚までの|　手紙を　入れておくことができます。|　封をした後でも　書き直しができます。|<br>|「人に渡った手紙は　てがみぶくろの|　『送った手紙』のなかに　記録が残ります。|<br>|「最新の１００件まで　記録されますが|　古い物から　消えてしまうので|　大切な　手紙は　ロックするのをお忘れなく！|<bw_break>": "You can send a letter and up to five|different packages to a friend or team|member. But if you're only sending a letter,|<br>|you can send the same letter to up to 10|people... The only letters you can send here|are the ones in the \"Written Letters\" section|<br>|of your Letterbox... You can also give them|directly to people... You can keep up to 10|letters in the \"Written Letter\"... You can|<br>|rewrite them even after they're sealed.|Letters that have been passed on to other|people will be recorded in the \"Letters|<br>|you've sent\" section of your package... It|keeps track of the last 100 letters you've|sent, but the oldest ones will disappear, so|<br>|don't forget to lock your most important|letters!<bw_break>"
     },
     "359": {
-        "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "If you use the \"Sales Receipt\" function, you|can receive all the proceeds from the|Traveler's Bazaar at once! However, you will|<br>|only receive the proceeds... If your item is|returned after the time limit has expired,|you will be able to receive it from the|<br>|\"Receiving...<bw_break>"
+        "「『売り上げうけとり』を　ご利用いただくと|　なんと　旅人バザーからの売上金を|　一度にまとめて　受け取ることができます！|<br>|「ただし　受け取れるのは　売上金のみです。|　時間切れで　返却された出品物は|　『うけとる』から　お受け取りいただけます。|<bw_break>": "By using the \"Get Bazaar Sales\" function, you|can receive all of your proceeds from the|Traveler's Bazaar at once!|<br>|However, this is for proceeds only. To|receive items from expired sales, please|use \"Receive\".|<bw_break>"
     },
     "360": {
         "「この　<%sL_SENDER_NAME>さんからのお手紙を|　受け取りますか？|<select_se_off>|うけとる|すてる|<select_end><break>": "Would you like to keep the letter from|<%sL_SENDER_NAME>?|<select_se_off>|Receive|Discard|<select_end><break>"
