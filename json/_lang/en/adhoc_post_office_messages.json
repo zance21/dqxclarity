@@ -720,7 +720,7 @@
         "<se_nots System 7>|<pc>は　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> has collectively received|<%nL_ALL_SALES> gold!<end>"
     },
     "241": {
-        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Together, they form the|<%nL_ALL_SALES> goal... Would you|like to receive it?|<br><yesno><break>"
+        "「以上　合わせて|　<%nL_ALL_SALES>ゴールドです。|　お受け取りに　なられますか？|<yesno><break>": "Altogether, your sales total <%dL_ALL_SALES>|Gold. Would you like to receive it now?|<yesno><break>"
     },
     "242": {
         "「おおっ！|　これほどの大金は　一度に　お渡しできません。|　『うけとる』で　１つずつお受け取りください。|<bw_break>": "Oh! This is a lot of money. We can't give it|to you all at once. You can pick them up one|at a time...|<br><bw_break>"
