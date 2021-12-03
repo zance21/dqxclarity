@@ -750,7 +750,7 @@
         "「仮テキスト|<bw_break>": "dummy text|<bw_break>"
     },
     "251": {
-        "旅人バザーから　売上金が　届いている。|<break>": "The proceeds from the Traveler's Bazaar have|arrived...<break>"
+        "旅人バザーから　売上金が　届いている。|<break>": "The proceeds from the Traveler's Bazaar are|delivered.<break>"
     },
     "252": {
         "<se_nots System 7>|<pc>は　郵便ポストから　まとめて|<%nL_ALL_SALES>ゴールドを　受け取った！|<end>": "<se_nots System 7>|<pc> received <%dL_ALL_SALES> Gold from|the mailbox!|<end>"
@@ -762,7 +762,7 @@
         "「おっと。申し訳ありませんが|　いくつかの売上金を　お渡しできませんでした。|　『うけとる』から　お受け取りください。|<end>": "... I'm sorry, but I'm afraid I can't give|you the money from some of the sales... You|can pick them up by clicking \"pick up\"...|<br><end>"
     },
     "255": {
-        "<se_nots System 7>|いくつかの売上金を|受け取ることに　失敗しました。|『うけとる』から　受け取ってください。|<end>": "<se_nots System 7>I failed to receive some of the proceeds...|I'll take it from here.<end>"
+        "<se_nots System 7>|いくつかの売上金を|受け取ることに　失敗しました。|『うけとる』から　受け取ってください。|<end>": "<se_nots System 7>Failed to receive some of the proceeds.|Please use \"Receive\" to receive them.|<end>"
     },
     "256": {
         "「……あれ？|　まだ　みられる　おてまみ|　ないみたいでしゅよ？|<bw_break>": "... What? It doesn't look like there's any|magic trick you can see yet.<bw_break>"
@@ -1065,7 +1065,7 @@
         "「何について　説明いたしましょうか？|<select_se_off>|うけとるについて|売り上げうけとりについて|おくるについて|おもいで私書箱について|手紙の整理について|<select_end><break>": "What would you like me to explain?|<select_se_off>|About getting it|Receipt of sales|About us|About Omoide PO Box|On organizing letters|<select_end><break>"
     },
     "356": {
-        "「『うけとる』を　ご利用いただくと|　お客様宛てに届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができます。|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入りますが　１００枚を|　超える枚数は　入りませんので　ご注意を！|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も　こちらで|　受け取ることができます。|<br>|「ただし　旅人バザーからのお届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　ご注意ください。|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまいます。|　適度に　郵便箱をチェックしてくださいね。|<bw_break>": "When you use the \"Receive\" function, you can|select and receive letters and packages that|have been sent to you one by one... When you|<br>|receive a letter, it will be placed in the|\"Received Letters\" section of your package,|but please note that no more than 100 letters|<br>|will be placed in this section! You can also|receive the proceeds from items sold at the|Traveler's Bazaar, as well as items that were|<br>|returned because time ran out... However,|please be careful not to fill up your mailbox|without receiving a delivery from the|<br>|Traveler's Bazaar. If your mailbox is full,|you won't be able to sell your items at the|Traveler's Bazaar unless you make room for|<br>|them. Please check your mailbox from time to|time...<bw_break>"
+        "「『うけとる』を　ご利用いただくと|　お客様宛てに届いた　手紙や荷物を|　一つひとつ選んで　受け取ることができます。|<br>|「手紙を受け取ると　てがみぶくろの|　『もらった手紙』に入りますが　１００枚を|　超える枚数は　入りませんので　ご注意を！|<br>|「旅人バザーに出品した物の　売上金や|　時間切れで　返却された物も　こちらで|　受け取ることができます。|<br>|「ただし　旅人バザーからのお届け物を|　受け取らず　郵便箱が　いっぱいに|　なってしまわないよう　ご注意ください。|<br>|「いっぱいになると　空きをつくらないかぎり|　旅人バザーで　出品できなくなってしまいます。|　適度に　郵便箱をチェックしてくださいね。|<bw_break>": "When you use the \"Receive\" function, you can|select and receive letters and packages that|have been sent to you one by one. When you|<br>|receive a letter, it will be placed in the|\"Received Letters\" section of your package,|but please note that no more than 100 letters|<br>|will be placed in this section! You can also|receive the proceeds from items sold at the|Traveler's Bazaar, as well as items that were|<br>|returned because time ran out... However,|please be careful not to fill up your mailbox|without receiving a delivery from the|<br>|Traveler's Bazaar. If your mailbox is full,|you won't be able to sell your items at the|Traveler's Bazaar unless you make room for|<br>|them. Please check your mailbox from time to|time.<bw_break>"
     },
     "357": {
         "「お客様が書いたお手紙は　てがみぶくろの|　『書いた手紙』に入り　郵便局から送ったり|　とりひきで　人に渡すことができます。|<br>|「『書いた手紙』には　最大１０枚までの|　お手紙を　入れておくことができます。|　後から　書き直しも　できますよ。|<bw_break>": "The letters you write will be stored in a|letter bag, which you can send from the post|office or give to someone through an|<br>|exchange... Up to 10 letters can be stored in|the \"Written Letter\"... And you can rewrite|them later.|<br><bw_break>"
