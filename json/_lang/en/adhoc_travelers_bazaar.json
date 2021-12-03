@@ -963,13 +963,13 @@
         "「いくつ　出品するんだ？|<break>": "How many are you gonna put up?<break>"
     },
     "322": {
-        "「いくつ　出品するんだい？|<break>": "How many do you have on display?<break>"
+        "「いくつ　出品するんだい？|<break>": "How many do you wanna list?<break>"
     },
     "323": {
-        "「いくつ　出品しますか？|<break>": "How many do you want to list?<break>"
+        "「いくつ　出品しますか？|<break>": "How many do you want to list?|<break>"
     },
     "324": {
-        "「いくつ　出品いたしましょうか？|<break>": "How many do you want me to put up?<break>"
+        "「いくつ　出品いたしましょうか？|<break>": "How many should I list for you?|<break>"
     },
     "325": {
         "「……むむ？|　旅人バザーが　混んでるみたいで|　商品が　うまく探せなかったようだ。|<br>|「申し訳ないが　少し時間を置いてから|　また　試してくれよ。|<bw_break>": "... Mmm? The traveler's bazaar seems to be|crowded, so I couldn't find the right|items... I'm sorry, but I'll try again in a|<br>|little while...<bw_break>"
@@ -1308,7 +1308,7 @@
         "「他に出品したい物は　ございますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
     },
     "437": {
-        "「いくつ　出品いたしましょうか？|<break>": "How many do you want me to put up?<break>"
+        "「いくつ　出品いたしましょうか？|<break>": "How many should I list for you?|<break>"
     },
     "438": {
         "「<%sL_URITAI_ITEM>を|　いくつ　出品いたしましょうか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
