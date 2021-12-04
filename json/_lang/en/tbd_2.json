@@ -1332,7 +1332,7 @@
         "clarity_nt_char_444": "clarity_nt_char_444"
     },
     "445": {
-        "行動時 <%sB_renkin1>%でテンション消費なし": "On Action Don't Use Tension <%sB_renkin1>%"
+        "行動時 <%sB_renkin1>%でテンション消費なし": "Keep Tension On Action <%sB_renkin1>%"
     },
     "446": {
         "clarity_nt_char_446": "clarity_nt_char_446"
@@ -6939,7 +6939,7 @@
         "魔の波動が ためやすくなる(試合無効)": "Wave Gauge Rate Up (No PvP)"
     },
     "2314": {
-        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でテンション消費なし": "Don't Use Tension On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
+        "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でテンション消費なし": "Keep Tension On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
     },
     "2315": {
         "攻撃時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で呪文威力低下": "Spell Power Down Attack <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
