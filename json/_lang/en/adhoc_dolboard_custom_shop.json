@@ -39,7 +39,7 @@
         "「さて　それじゃあ|　ここからが　カスタム屋の本業だよ。|<br>|「さあ！　今日は　なんの用だい？|<break>": "So, that's where the Customize Shop comes in.|<br>|Now then! How can I help you today?|<break>"
     },
     "14": {
-        "「アタシ　特技を活かして|　ドルボードっていう　古代の乗り物を改造する|　カスタム屋を　始めることにしたんだ。 　 　 　 　|<br>|「ドルボードさえ　持ってきてくれれば|　色を変えたり　フォルムを変えたり|　ロマンあふれる仕事が　できそうなんだけど。|<br>|「……ああっ！　どこかに　ドルボードを|　アタシに　いじらせてくれる|　ロマンティックな人は　いないものかねえ？|<br>|「そういえば　お隣の学者さんが|　それっぽいことを　言ってたけど……。": "I've decided to use my skills to start a|custom business modifying ancient vehicles|called dollar boards.   If you bring me a|<br>|dollar board, I can change the color, the|shape, and do romantic work. ... Aah! Isn't|there anyone romantic who'd let me tinker|<br>|with a dolphin board? By the way, the scholar|next door said something like that..."
+        "「アタシ　特技を活かして|　ドルボードっていう　古代の乗り物を改造する|　カスタム屋を　始めることにしたんだ。 　 　 　 　|<br>|「ドルボードさえ　持ってきてくれれば|　色を変えたり　フォルムを変えたり|　ロマンあふれる仕事が　できそうなんだけど。|<br>|「……ああっ！　どこかに　ドルボードを|　アタシに　いじらせてくれる|　ロマンティックな人は　いないものかねえ？|<br>|「そういえば　お隣の学者さんが|　それっぽいことを　言ってたけど……。": "I've decided to use my skills to start a|Customize Shop that modifies ancient|vehicles called Dolboards.|<br>|If you brought me a Dolboard, I could change|its shape, its color... it's quite the|romantic work.|<br>|Ahh! Isn't there anyone out there as romantic|as me that would let me tinker with a|Dolboard?|<br>|By the way, I think I heard that scholar next to|me mention something about it..."
     },
     "15": {
         "「何についての　説明が聞きたいんだい？|<select_se_off>|カラーリングについて|フォルムチェンジについて|<select_end><break>": "What do you want to talk about?|<select_se_off>|About coloring|About Form Change|<select_end><break>"
