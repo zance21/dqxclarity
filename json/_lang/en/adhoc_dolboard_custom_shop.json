@@ -12,7 +12,7 @@
         "「いらっしゃい！|　ここは　ドルボードのカスタム屋だよ！|　さあ！　今日は　なんの用だい？|<break>": "Welcome, welcome! This here is a Dolboard|Customize Shop. Now, how can I help you|today?|<break>"
     },
     "5": {
-        "「ドルボードの　フォルムは|　『さくせん』の『いろいろ設定』の中にある|　『ドルボード設定』でも変更できるよ。|<br>|「新しい　プリズムが手に入ったら|　またおいで。それじゃあ！|　アンタのマシンに　ロマンがありますように。": "You can change the shape of the dolphin board|in the dolphin board settings. I'll see you|when I get a new prism... Goodbye! There's|<br>|romance in your machine..."
+        "「ドルボードの　フォルムは|　『さくせん』の『いろいろ設定』の中にある|　『ドルボード設定』でも変更できるよ。|<br>|「新しい　プリズムが手に入ったら|　またおいで。それじゃあ！|　アンタのマシンに　ロマンがありますように。": "You can change your Dolboard's form any time|by using \"Settings\" under \"Misc.\", then|\"Dolboard Settings\".|<b>|If you find any new prisms, please bring them|to me! May there be romance with your|machine!"
     },
     "6": {
         "ドルボードは|<%sL_PRISM>　のフォルムとなった！": "The dollar board has taken on the form of|<%sL_PRISM>!"
