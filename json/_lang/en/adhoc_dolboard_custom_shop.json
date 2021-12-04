@@ -15,13 +15,13 @@
         "「ドルボードの　フォルムは|　『さくせん』の『いろいろ設定』の中にある|　『ドルボード設定』でも変更できるよ。|<br>|「新しい　プリズムが手に入ったら|　またおいで。それじゃあ！|　アンタのマシンに　ロマンがありますように。": "You can change your Dolboard's form any time|by using \"Settings\" under \"Misc.\", then|\"Dolboard Settings\".|<b>|If you find any new prisms, please bring them|to me! May there be romance with your|machine!"
     },
     "6": {
-        "ドルボードは|<%sL_PRISM>　のフォルムとなった！": "The dollar board has taken on the form of|<%sL_PRISM>!"
+        "ドルボードは|<%sL_PRISM>　のフォルムとなった！": "Your Dolboard has changed forms to|<%sL_PRISM>!"
     },
     "7": {
         "<select_se_off>|カスタムする|説明を聞く|<select_end><break>": "<select_se_off>|Customize Dolboard|Explanation|<select_end><break>"
     },
     "8": {
-        "「いらっしゃい！|　ここは　ドルボードのカスタム屋だよ！|<end>": "Come on in! We're a custom dollar board shop!<end>"
+        "「いらっしゃい！|　ここは　ドルボードのカスタム屋だよ！|<end>": "Welcome, welcome! This is a Dolboard Customize|Shop!|<end>"
     },
     "9": {
         "「そ……それは|　<%sL_PRISM>　じゃないか！|　アンタ　すごいものを　持っているねぇ！|<br>|「それを　ドルボードに取り付ければ|　アンタのマシンのフォルムを|　変えられるようになる！|<br>|「もちろん　いつでも元のフォルムに戻せるし|　フォルムを変えても　スピードなど|　ドルボード自体の性能には　影響しないよ！|<br>|「さっそく　ドルボードに|　<%sL_PRISM>を取り付けてみるかい？|<yesno><break>": "It's... That's <%sL_PRISM>! You've got|something amazing! If you attach it to a|dollar board, you'll be able to change the|<br>|form of your machine! Of course, you can|always change it back to its original form,|and changing the form won't affect the speed|<br>|or performance of the dollar board itself! So|why don't you try installing <%sL_PRISM> on|your dolphin board?<yesno><break>"
