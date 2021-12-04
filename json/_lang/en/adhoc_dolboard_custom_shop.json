@@ -3,10 +3,10 @@
         "「アタシ　古代のマシンに　ふれるのが|　三度のメシより　好きなんだけど|　なんとか　それ関係で　食っていけないかな？|<br>|「壊れたマシンを　修理するほどの知識は|　持ち合わせてないけど　手先は器用な方だから|　そこを活かせないかって　思ってんだけどさ～。": "I love working on ancient machines more than|anything else, but I wonder if there's a way|I can make a living doing it?|<br>|I don't have the know-how to fix a broken|machine, but I am good with my hands...|I wonder if that could be useful somehow?"
     },
     "2": {
-        "「<%sL_PRISM>に|　フォルムチェンジするんだね？|<yesno><close>": "You're going to form change to <%sL_PRISM>,|aren't you?<yesno><close>"
+        "「<%sL_PRISM>に|　フォルムチェンジするんだね？|<yesno><close>": "You wanna change the form to|<%sL_PRISM>?|<yesno><close>"
     },
     "3": {
-        "「それだと　今と変わらないよ？|　他のものを　選んでおくれ。|<end>": "That's not gonna change anything, is it?|You're gonna have to pick something else...<end>"
+        "「それだと　今と変わらないよ？|　他のものを　選んでおくれ。|<end>": "You don't wanna change? Then please choose|something else.|<end>"
     },
     "4": {
         "「いらっしゃい！|　ここは　ドルボードのカスタム屋だよ！|　さあ！　今日は　なんの用だい？|<break>": "Come on in! We're a custom dollar board shop!|Come on! What can I do for you today?<break>"
