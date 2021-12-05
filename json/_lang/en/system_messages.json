@@ -2184,7 +2184,7 @@
         "入れかえに失敗しました。|時間をおいてから　再度お試しください。": ""
     },
     "729": {
-        "冒険の書<%nNO1>　<%sPCNAME1>と|冒険の書<%nNO2>　<%sPCNAME2>を|入れかえますが　よろしいですか？<yesno 2><break>": ""
+        "冒険の書<%nNO1>　<%sPCNAME1>と|冒険の書<%nNO2>　<%sPCNAME2>を|入れかえますが　よろしいですか？<yesno 2><break>": "Do you want to swap|Adventure Log <%nNO1> \"<%sPCNAME1>\" and|Adventure Log <%nNO2> \"<%sPCNAME2>\"?<yesno 2><break>"
     },
     "730": {
         "入力された　レジストレーションコードは|今は登録できません。<br>|「いにしえの竜の伝承」の|コードを先に登録してください。": ""
