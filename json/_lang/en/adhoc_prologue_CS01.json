@@ -834,7 +834,7 @@
         "「さあ　<pc>！|　アバさまの所へ　行くわよっ！　あたしが作った|　ぼうしのこと　忘れないでよねっ！": "Come on, then! We’re going to Abba’s! And|don’t forget about the hat I made for you!"
     },
     "279": {
-        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Let's go see Abba right now!|Don't forget the hat I made for you!<else>Come on, big brother! Let's go see Abba right now!|Don't forget the hat I made for you!<endif>"
+        "<if_woman>「さあ　お姉ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！|　アバさまの所へ　連れてって～！　私が作った|　ぼうしのこと……　忘れないでね！<endif>": "<if_woman>Come on, big sister! Let's go see Abba right|now! Don't forget the hat I made for you!<else>Come on, big brother! Let's go see Abba right|now! Don't forget the hat I made for you!<endif>"
     },
     "280": {
         "「テキスト削除": "text deletion"
