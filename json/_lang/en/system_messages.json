@@ -2178,13 +2178,13 @@
         "未契約のプレイコースや|キャラクターが存在しない冒険の書は|選択することができません。": "You cannot select an empty slot or a slot|outside of your current play course."
     },
     "727": {
-        "冒険の書<%nNO1>と　冒険の書<%nNO2>を|いれかえました！": "Adventure Log <%nNO1> and Adventure Log <%nNO2> have|been swapped!"
+        "冒険の書<%nNO1>と　冒険の書<%nNO2>を|いれかえました！": "Adventure Log <%dNO1> and Adventure Log <%dNO2> have been|swapped!"
     },
     "728": {
         "入れかえに失敗しました。|時間をおいてから　再度お試しください。": ""
     },
     "729": {
-        "冒険の書<%nNO1>　<%sPCNAME1>と|冒険の書<%nNO2>　<%sPCNAME2>を|入れかえますが　よろしいですか？<yesno 2><break>": "Do you want to swap|Adventure Log <%nNO1> \"<%sPCNAME1>\" and|Adventure Log <%nNO2> \"<%sPCNAME2>\"?<yesno 2><break>"
+        "冒険の書<%nNO1>　<%sPCNAME1>と|冒険の書<%nNO2>　<%sPCNAME2>を|入れかえますが　よろしいですか？<yesno 2><break>": "Do you want to swap|Adventure Log <%dNO1> \"<%sPCNAME1>\" and|Adventure Log <%dNO2> \"<%sPCNAME2>\"?<yesno 2><break>"
     },
     "730": {
         "入力された　レジストレーションコードは|今は登録できません。<br>|「いにしえの竜の伝承」の|コードを先に登録してください。": ""
