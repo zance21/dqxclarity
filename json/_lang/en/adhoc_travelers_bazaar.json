@@ -1017,7 +1017,7 @@
         "「<%sL_URITAI_ITEM>ですか。|　今　こちらでは　売られていない品物ですね。|　いくつ　出品いたしましょうか？|<break>": "<%sL_URITAI_ITEM>? There aren't any|others currently for sale here. How many|do you want me to list for you?|<break>"
     },
     "340": {
-        "「<%sL_URITAI_ITEM>　おひとつですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM> One item... An item that is|not currently for sale here. How much would|you like to sell it for?<break>"
+        "「<%sL_URITAI_ITEM>　おひとつですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "One <%sL_URITAI_ITEM>? This item is|not currently selling here. How much would|you like to sell it for?<break>"
     },
     "341": {
         "「それだと　今　出品されている|　同じ商品よりも　ずいぶん安いけど|　その値段で　間違いないかね？|<yesno 2><break>": "That's a lot cheaper than what's currently on|the market, but are you sure that's the right|price?<yesno 2><break>"
@@ -1344,7 +1344,7 @@
         "「では　<%sL_URITAI_ITEM>　ひとつを|　いくらで　出品いたしましょうか？|<break>": "So, how much do you want for one|<%sL_URITAI_ITEM>?<break>"
     },
     "449": {
-        "「<%sL_URITAI_ITEM>　おひとつですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%sL_URITAI_ITEM> One item... An item that is|not currently for sale here. How much would|you like to sell it for?<break>"
+        "「<%sL_URITAI_ITEM>　おひとつですか。|　今　こちらでは　売られていない品物ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "One <%sL_URITAI_ITEM>? This item is|not currently selling here. How much would|you like to sell it for?<break>"
     },
     "450": {
         "「<%sL_URITAI_ITEM>　<%nL_URUKAZU>個ですね。|　そちらを　いくらで　出品なさいますか？|<break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>? How much|would you like to list it for?|<break>"
