@@ -360,7 +360,7 @@
         "プレイヤー<%nPLAYER_NO>に|<%sID>を　登録しました！<end>": "<%sID> has been registered for|Player <%dPLAYER_NO>!"
     },
     "121": {
-        "冒険の書に記録しています……。|ソフトを終了しないでください。<break>": ""
+        "冒険の書に記録しています……。|ソフトを終了しないでください。<break>": "Recording in the Adventure Log...|Do not close the software.<break>"
     },
     "122": {
         "冒険の書に記録しました！<end>": "Recorded in the Adventure Log!<end>"
