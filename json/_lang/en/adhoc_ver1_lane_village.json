@@ -300,13 +300,13 @@
         "「…………。": "............"
     },
     "101": {
-        "「ほんの少し　遅かったようだな　ヒューザ。|　ひと足早く　<pc>が|　地底湖の水を汲んで　戻ってきておるぞ。": "You're just a little too late, Huzer.|<pc> just got back with the|water from the underground lake."
+        "「ほんの少し　遅かったようだな　ヒューザ。|　ひと足早く　<pc>が|　地底湖の水を汲んで　戻ってきておるぞ。": "You're just a little too late, Huzer.|<pc> just got back with the water from|the underground lake."
     },
     "102": {
         "「さあ　<pc>。|　さっさと　ビンを　わしに見せろ。": "Come on, <pc>.|Show me the bottle."
     },
     "103": {
-        "<pc>は　セトリー村長に|ガラスの小ビンを　返した。": "<pc> returned the Glass Bottle|to Chief Setorii."
+        "<pc>は　セトリー村長に|ガラスの小ビンを　返した。": "<pc> returned the Glass Bottle to|Chief Setorii."
     },
     "104": {
         "「どれどれ　ふむ……。|　まちがいなく　これは地底湖の水だ。": "Hmm, let's see...|There's no doubt that this is indeed water|from the underground lake."
@@ -318,7 +318,7 @@
         "「それでは　シェルナーになった証として|　お前に　ルーラストーンをさずけよう！|　使い方は　孤児院のティーティに聞くがいい。": "Now, as a sign that you've become the|Shellner, please take this Zoomstone! Ask|Teatea at the orphanage how to use it."
     },
     "107": {
-        "<pc>は　セトリー村長から|ルーラストーンを　受け取った！<me 60>": "<pc> received a Zoomstone from|Chief Setorii!"
+        "<pc>は　セトリー村長から|ルーラストーンを　受け取った！<me 60>": "<pc> received a Zoomstone from Chief|Setorii!"
     },
     "108": {
         "「残念だったな　ヒューザ。|　お前は　次の機会を待つがいい。": "What a shame, Huzer.|You'll have to wait for the next opportunity."
@@ -330,7 +330,7 @@
         "「あっ　ヒューザ？": "Oh, Huzer?"
     },
     "111": {
-        "「おお　アーシク。|　ついに　シェルナーが決まったぞ。|　<pc>が　シェルナーとなったのだ。": "Oh, Aashik. The Shellner has been decided.|<pc> has been chosen to take on|the role."
+        "「おお　アーシク。|　ついに　シェルナーが決まったぞ。|　<pc>が　シェルナーとなったのだ。": "Oh, Aashik. The Shellner has been decided.|<pc> has been chosen to take on the role."
     },
     "112": {
         "「ほんとう！？　おめでとう　<pc>。|　そっかあ　やっぱり　キミがボクの|　シェルナーに　なってくれたんだね！！": "Really?! Congratulations, <pc>.|So you're the one who's going to be my|Shellner!"
