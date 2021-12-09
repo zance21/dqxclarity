@@ -510,7 +510,7 @@
         "「よかった。|　おいらも　役に立てたんだね！": "Hey... I'm glad I could be of service!"
     },
     "171": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。姉ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。兄ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<endif>": "<if_woman>I'm sure it was my duty to find the tens|flower here... Sis, thank you for bringing me|here!<else>I'm sure it was my duty to find the tens|flower here... Thank you, brother, for|bringing me here!<endif>"
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。姉ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが|　おいらの役目だったんだ。兄ちゃん　おいらを|　ここまで連れてきてくれて　ありがとう！<endif>": "<if_woman>I'm sure it was my duty to find the Tens|Flower here... Sis, thank you for bringing me|here!<else>I'm sure it was my duty to find the Tens|Flower here... Thank you, brother, for|bringing me here!<endif>"
     },
     "172": {
         "シンイは|テンスの花を　手に入れた！<me 60>": "Shini received the Tens Flower!<me 60>"
