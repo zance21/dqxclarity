@@ -360,16 +360,16 @@
         "「では　アーシク。|　その貝がらを　<pc>に。": "Then, Aashik.|Please give the shell to <pc>."
     },
     "121": {
-        "「<pc>。この貝がらを　祈りの宿にいる|　ボクの花嫁キールに　届けてほしいんだ。": "<pc>, I want you to deliver|this shell to the bride, Keel, in the Prayer|Inn."
+        "「<pc>。この貝がらを　祈りの宿にいる|　ボクの花嫁キールに　届けてほしいんだ。": "<pc>, I want you to deliver this shell|to the bride, Keel, in the Prayer Inn."
     },
     "122": {
-        "<pc>は　アーシクから|キレイな貝がら（だいじなもの）を　受け取った！<me 60>": "<pc> received the Beautiful|Shell from Aashik!<me 60>"
+        "<pc>は　アーシクから|キレイな貝がら（だいじなもの）を　受け取った！<me 60>": "<pc> received the Beautiful Shell from|Aashik!<me 60>"
     },
     "123": {
         "「頼んだよ　<pc>。|　その貝がらには　慰霊碑に　まつられてる人の|　幸せも　こめられてるんだからね？": "I'm counting on you, <pc>.|This shell carries the happiness of those two|who are honored at that memorial, okay?"
     },
     "124": {
-        "「<pc>よ。花嫁キールを　祈りの宿から|　このレーンの村へと　無事に連れてくるのだ。": "<pc>. Bring the bride, Keel,|safely from the Prayer Inn back here to Lane|Village."
+        "「<pc>よ。花嫁キールを　祈りの宿から|　このレーンの村へと　無事に連れてくるのだ。": "<pc>. Bring the bride, Keel, safely|from the Prayer Inn back here to Lane Village."
     },
     "125": {
         "「祈りの宿に行くには|　コルット地方を　越える必要がある。": "To get to the Prayer Inn, you'll need to cross|the Colt Region."
@@ -402,7 +402,7 @@
         "「私は　キールと申します。|　アーシクさまの花嫁となる者です。": "My name is Keel.|I'm Aashik's bride-to-be."
     },
     "135": {
-        "「よろしくお願いします。|　シェルナーの　<pc>さま。": "It’s nice to meet you, Shellner|<pc>."
+        "「よろしくお願いします。|　シェルナーの　<pc>さま。": "It’s nice to meet you, Shellner <pc>."
     },
     "136": {
         "「ジュレットの町を　おとずれていた|　アーシクさまと出会った　あの日から……。": "Ever since the day I met Aashik in the town of|Julet..."
