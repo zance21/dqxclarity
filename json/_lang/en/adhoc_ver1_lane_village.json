@@ -759,7 +759,7 @@
         "「まあ……。これが　アーシクさまが|　私のために見つけてくださった　貝がら……。": "So... This is the shell that Aashik found|for me..."
     },
     "254": {
-        "「ボクのシェルナーに　なってくれて|　ありがとう　<pc>！": "Thanks for being my Shellner,|<pc>!"
+        "「ボクのシェルナーに　なってくれて|　ありがとう　<pc>！": "Thanks for being my Shellner, <pc>!"
     },
     "255": {
         "「キールが待ってるんだ。|　祈りの宿に　早く　迎えにいってあげてよ。": "Keel's waiting for you.|Please pick her up at the Prayer Inn as soon|as possible"
@@ -774,10 +774,10 @@
         "「ふん……。": "Hmph..."
     },
     "259": {
-        "「さあ　みんな……。|　ラージャ神父の　お言葉どおり|　<pc>を　母なる海へ　送りだそう。": "Now, everyone... as Father Roger was saying,|let's send <pc> back to the|mother sea."
+        "「さあ　みんな……。|　ラージャ神父の　お言葉どおり|　<pc>を　母なる海へ　送りだそう。": "Now, everyone... as Father Roger was saying,|let's send <pc> back to the mother sea."
     },
     "260": {
-        "<pc>は　地底湖の水を|ガラスの小ビンに　汲んだ！<me 60>": "<pc> drew water from the|underground lake into the Glass Bottle.<me 60>"
+        "<pc>は　地底湖の水を|ガラスの小ビンに　汲んだ！<me 60>": "<pc> drew water from the underground|lake into the Glass Bottle.<me 60>"
     },
     "261": {
         "「確かに　ここの水は|　他の水とは　ちがうらしいな。": "It's true that this doesn't seem like just any|old water."
@@ -810,7 +810,7 @@
         "セトリー村長に　湖の水の入った|ガラスの小ビンを　見せますか？<yesno><close>": "Would you like to show Chief Setorii the Glass|Bottle full of water from the lake?<yesno><close>"
     },
     "271": {
-        "<pc>は　セトリー村長に|ガラスの小ビンを　返した。": "<pc> returned the Glass Bottle|to Chief Setorii."
+        "<pc>は　セトリー村長に|ガラスの小ビンを　返した。": "<pc> returned the Glass Bottle to|Chief Setorii."
     },
     "272": {
         "「どれどれ……。|　だいぶ　時間が　かかったようだが。": "Let's see...|Seems like you took a long time."
@@ -822,7 +822,7 @@
         "「もう一度　やり直しだ。いいか？|　水を汲んだら　太陽と月が　ひと巡りする前に|　わしの所へ　持ってくるんだぞ？": "Seems you'll need to start over. You have to|fetch the water and bring it back before the|sun and moon make a full round. Understand?"
     },
     "275": {
-        "<pc>は|ガラスの小ビン（だいじなもの）を　受け取った！<me 60>": "<pc> received a Glass Bottle|from Chief Setorii!<me 60>"
+        "<pc>は|ガラスの小ビン（だいじなもの）を　受け取った！<me 60>": "<pc> received a Glass Bottle from|Chief Setorii!<me 60>"
     },
     "276": {
         "「ほれほれ　<pc>。早く行くのだ。|　ヒューザが先に　戻ってきてしまうぞ！": "Come on, <pc>. Hurry up and go.|Otherwise Huzer will get back before you do!"
