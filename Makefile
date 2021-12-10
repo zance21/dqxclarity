@@ -23,6 +23,7 @@ build:
 
 release:
 	make clean
+	git pull origin weblate
 	make build
 	-del /F ".\build\dqxclarity\user_settings.ini"
 	-rmdir /s /q .\build\dqxclarity\venv
