@@ -14,11 +14,6 @@ pyrun_simplestring = rb'\x55\x8B\xEC\x6A\x00\xFF\x75\x08\xE8\x43\xCC\xFF\xFF\x83
 # 6A 00 E8 69 FF FF FF
 py_initialize_ex = rb'\x6A[\x00\x01]\xE8\x69\xFF\xFF\xFF'
 
-# WHEN WILL THIS CHANGE?
-# Never, unless the Python dll version gets updated.
-# 55 8B EC 83 E4 F8 83 EC 10 83 3D 6C 12 7B 5B 00
-py_finalizer = rb'\x55\x8B\xEC\x83\xE4\xF8\x83\xEC\x10\x83\x3D\x6C\x12..\x00'
-
 ########################################
 # DQX functions
 ########################################
@@ -42,8 +37,19 @@ cutscene_trigger = rb'\x8B\x45\x18\x8B\xCF\x50\x89\x87....\xE8'
 # WHEN WILL THIS CHANGE?
 # Hopefully never. This is a core game function.
 # 2B CF 8B C6 41 89 0A 5F 5E 5D
-#cutscene_adhoc_files = rb'\x2B\xCF\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
 cutscene_adhoc_files = rb'\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
+
+# function that is triggered when a quest window opens. used for translating quest text
+# WHEN WILL THIS CHANGE?
+# Hopefully never. This is a core game function.
+# BF FC 01 00 00 89 7C 24 FC
+quest_text_trigger = rb'\xBF\xFC\x01\x00\x00\x89\x7C\x24\xFC'
+
+# function that's called right before any loading done in the game.
+# WHEN WILL THIS CHANGE?
+# Hopefully never. This is a core game function.
+# 55 8B EC F3 0F 10 45 ?? F3 0F 59 05 ?? ?? ?? ?? 56 8B 75 08 57 8B F9 F3 0F 11 45
+loading_pattern = rb'\x55\x8B\xEC\xF3\x0F\x10\x45.\xF3\x0F\x59\x05....\x56\x8B\x75\x08\x57\x8B\xF9\xF3\x0F\x11\x45'
 
 # pattern for npc/monsters to rename.
 # WHEN WILL THIS CHANGE?
@@ -51,8 +57,8 @@ cutscene_adhoc_files = rb'\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
 # Every byte marked below will change. The rest stay the same.
 # monster: 8C 75 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
 # npc:     90 87 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
-npc_monster_byte_pattern = rb'[\x8C\x90][\x75\x87]......\xC8\x75..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-#                                ^ monster ^              ^ changes
+npc_monster_byte_pattern = rb'[\x14\xBC][\x6F\x80]......\xB4\x71..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+#                                ^ monster ^
 #                                    ^   npc   ^
 
 # pattern for player names to rename.
@@ -66,42 +72,17 @@ player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x48..\x01.......\x01[\xE3\xE4
 # DQX addresses of interest
 ########################################
 # WHEN WILL THIS CHANGE?
-# On patches. A new pointer will need to be found.
-# Captured in CE by going in and out of loading screens.
-# Loading screens to check:
-#  - In and out of zones
-#  - In and out of cutscenes
-#  - In and out of teleport orbs in town
-# 0 should be active loading screen, 1 should be inactive loading screen
-
-# WHEN WILL THIS CHANGE?
-# Frequently. Sometimes on patches, sometimes not.
-# Notes:
-# 2000, 3000 = good / no loading
-# ++ B8 0B  == 3000
-# ++ D0 07  == 2000
-# >>>> if no match, unload hooks and look for cutscene bytes
-
-# 1000, 500, 100 = bad / cutscene / loading
-# ++ E8 03  == 1000
-# ++ F4 01  == 500
-# ++ 64 00  == 100
-
-# 07, 11 = good / no loading
-# 01, 03 = bad / cutscene / loading
-# 00 = login screen
-loading_screen_active = 0x01F15468  # DQXGame.exe+01F15468
-loading_screen_offsets = [0x18, 0x20]
-
-# WHEN WILL THIS CHANGE?
 # On patches. The pattern shouldn't have to be adjusted, but the number of addresses to go backwards
 # to see if a cutscene is active will probably need to change.
 # x00x00x00x00 means no cutscene is active. anything else means it is active
 # 6F 72 69 67 69 6E 00 00 00 00 00 00 00 00 00 00 6E 61 6D 65
 cutscene_pattern = rb'\x6F\x72\x69\x67\x69\x6E\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x6E\x61\x6D\x65'
 
-# loading check
-# 8B 45 F0 8B 08 89 4D FC 8B 55 F8 E9 ?? ?? ?? ?? 8D 64 24 04 8B 74 24 FC 8D 64 24 FC
+# WHEN WILL THIS CHANGE?
+# On patches. A new pointer will need to be found.
+# Captured in CE by relogging over and over with type byte.
+login_screen_active = 0x00028224  # DQXGame.exe+00028224
+login_screen_offsets = [0x6E0]
 
 ########################################
 # DQX patterns of interest
