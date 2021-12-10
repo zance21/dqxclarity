@@ -1128,6 +1128,9 @@ def virtual_query(handle, address):
     pymem.ressources.kernel32.VirtualQueryEx(handle, address, ctypes.byref(mbi), ctypes.sizeof(mbi))
     error_code = ctypes.windll.kernel32.GetLastError()
     if error_code:
-        ctypes.windll.kernel32.SetLastError(0)
-        raise pymem.exception.WinAPIError(error_code)
+        if 'error_code: 5' in error_code:
+            raise Exception('Unable to find Dragon Quest X.')
+        else:
+            ctypes.windll.kernel32.SetLastError(0)
+            raise pymem.exception.WinAPIError(error_code)
     return mbi
