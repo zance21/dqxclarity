@@ -44,9 +44,13 @@ try:
         read_string,
         find_first_match,
         scan_backwards)
-
+    from translate import (
+        sanitized_dialog_translate,
+        sqlite_read,
+        sqlite_write,
+        detect_lang
+    )
     from errors import AddressOutOfRange
-    from translate import sanitized_dialog_translate, sqlite_read, sqlite_write_dynamic
     from signatures import index_pattern, foot_pattern
 
     def setup_logger(name, log_file, level=logging.INFO):
@@ -77,43 +81,48 @@ try:
     if api_logging:
         game_text_logger.info(ja_text)
 
-    if find_first_match(ja_address, foot_pattern) != False:
-        logger.debug('Adhoc address found at >> ' + str(hex(ja_address)) + ' << :: Checking if we have this file')
-        adhoc_address = scan_backwards(ja_address, index_pattern)
-        if adhoc_address:
-            logger.debug('Found INDX section.')
-            adhoc_bytes = read_bytes(adhoc_address, 64)
-            if adhoc_bytes:
-                logger.debug('Adhoc bytes read.')
-                adhoc_write = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
-                if adhoc_write['success']:
-                    logger.debug('Wrote adhoc file.')
-                elif adhoc_write['file'] is not None:
-                    logger.debug('New adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
-                elif adhoc_write['file'] is None:
-                    logger.debug('This file already exists in new_adhoc_dumps. Needs merge into github.')
+    if detect_lang(ja_text):
+        if find_first_match(ja_address, foot_pattern) != False:
+            logger.debug('Adhoc address found at >> ' + str(hex(ja_address)) + ' <<')
+            adhoc_address = scan_backwards(ja_address, index_pattern)
+            if adhoc_address:
+                if read_bytes(adhoc_address - 2, 1) != b'\x69':
+                    logger.debug('Found INDX section :: Checking if we have this file')
+                    adhoc_bytes = read_bytes(adhoc_address, 64)
+                    if adhoc_bytes:
+                        logger.debug('Adhoc bytes read.')
+                        adhoc_write = write_adhoc_entry(adhoc_address, str(adhoc_bytes.hex()))
+                        if adhoc_write['success']:
+                            logger.debug('Wrote adhoc file.')
+                        elif adhoc_write['file'] is not None:
+                            logger.debug('New adhoc file. Writing to new_adhoc_dumps.')
+                        elif adhoc_write['file'] is None:
+                            logger.debug('This file already exists in new_adhoc_dumps. Needs merge into github.')
+                        write_bytes(adhoc_address - 2, b'\x69')  # leave our mark to let us know we wrote this. nice.
+            else:
+                logger.debug('Did not find INDX section. Shit. You should probably report this.')
         else:
-            logger.debug('Did not find INDX section. Shit. You should probably report this.')
+            logger.debug('Dynamic address found at >> ' + str(hex(ja_address)) + ' << :: Checking if translation is needed')
+            try:
+                npc = read_string(npc_address)
+            except:
+                npc = ''
+
+            logger.debug(ja_text)
+            result = sqlite_read(ja_text, '{api_region}', 'dialog')
+
+            if result is not None:
+                logger.debug('found database entry. no translation needed')
+                write_bytes(ja_address, result.encode() + b'\x00')
+            else:
+                logger.debug('translation needed. sending to {api_service}')
+                translated_text = sanitized_dialog_translate('{api_service}', '{api_pro}', ja_text, '{api_key}', '{api_region}')
+                logger.debug(translated_text)
+                sqlite_write(ja_text, 'dialog', translated_text, '{api_region}', npc_name=npc)
+                logger.debug('database record inserted.')
+                write_bytes(ja_address, translated_text.encode() + b'\x00')
     else:
-        logger.debug('Dynamic address found at >> ' + str(hex(ja_address)) + ' << :: Checking if translation is needed')
-        try:
-            npc_name = read_string(npc_address)
-        except:
-            npc_name = ''
-
-        logger.debug(ja_text)
-        result = sqlite_read(ja_text, 'en')
-
-        if result is not None:
-            logger.debug('found database entry. no translation needed')
-            write_bytes(ja_address, result.encode() + b'\x00')
-        else:
-            logger.debug('translation needed. sending to {api_service}')
-            translated_text = sanitized_dialog_translate('{api_service}', '{api_pro}', ja_text, '{api_key}', '{api_region}')
-            logger.debug(translated_text)
-            sqlite_write_dynamic(ja_text, npc_name, translated_text, 'en')
-            logger.debug('database record inserted.')
-            write_bytes(ja_address, translated_text.encode() + b'\x00')
+        logger.debug('English detected. Doing nothing.')
 except AddressOutOfRange:
     pass
 except:
