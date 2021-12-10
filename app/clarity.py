@@ -10,6 +10,7 @@ import os
 import re
 import shutil
 import sys
+import time
 import zipfile
 import random
 from alive_progress import alive_bar
@@ -32,13 +33,11 @@ from signatures import (
     player_name_byte_pattern
 )
 
-HEX_DICT = 'hex_dict.csv'
-
 
 def generate_hex(file):
     '''Parses a nested json file to convert strings to hex.'''
     en_hex_to_write = ''
-    data = __read_json_file(file, 'en')
+    data = read_json_file(file)
     for item in data:
         key, value = list(data[item].items())[0]
         if re.search('^clarity_nt_char', key):
@@ -93,12 +92,13 @@ def get_latest_from_weblate():
     # download zip from github
     try:
         url = 'https://github.com/jmctune/dqxclarity/archive/refs/heads/weblate.zip'
-        github_request = requests.get(url)
-        with open('weblate.zip', 'wb') as weblate_zip:
-            weblate_zip.write(github_request.content)
-    except requests.exceptions.RequestException as e:
-        messageBoxFatalError('Failed to update!',
-                            f'Failed to get latest files from weblate.\nMessage: {e}')
+        r = requests.get(url, timeout=15)
+    except:
+        messageBoxFatalError('Timeout', 'Timed out trying to reach github.com. Relaunch Clarity without "Pull latest files from weblate" and try again.')
+
+    # write request to file
+    with open('weblate.zip', 'wb') as weblate_zip:
+        weblate_zip.write(r.content)
 
     # unzip
     with zipfile.ZipFile('weblate.zip', 'r') as zipObj:
@@ -149,6 +149,8 @@ def translate():
                         # this just tests that we can decode what we should be writing
                         game_hex = read_bytes(text_address, len(hex_to_write)).hex()
                         decoded_bytes = bytes.fromhex(game_hex).decode('utf-8')
+                        if not find_first_match(text_address, foot_pattern):
+                            continue
                     except:
                         continue
 
@@ -211,8 +213,8 @@ def scan_for_npc_names():
     Continuously scans the DQXGame process for known addresses
     that are related to a specific pattern to translate names.
     '''
-    npc_data = __read_json_file('json/_lang/en/npc_names.json', 'en')
-    monster_data = __read_json_file('json/_lang/en/monsters.json', 'en')
+    npc_data = read_json_file('json/_lang/en/npc_names.json')
+    monster_data = read_json_file('json/_lang/en/monsters.json')
 
     logger.info('Starting NPC/monster name scanning.')
 
@@ -223,11 +225,11 @@ def scan_for_npc_names():
             continue
 
         for address in index_list:
-            if read_bytes(address, 2) == b'\x8C\x75':  # monsters
+            if read_bytes(address, 2) == b'\x14\x6F':  # monsters
                 data = monster_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
-            elif read_bytes(address, 2) == b'\x90\x87':  # npcs
+            elif read_bytes(address, 2) == b'\xBC\x80':  # npcs
                 data = npc_data
                 name_addr = address + 12  # jump to name
                 end_addr = address + 12
@@ -254,6 +256,8 @@ def scan_for_npc_names():
                 if re.search(f'^{name}+$', key):
                     if value:
                         write_bytes(name_addr, str.encode(value) + b'\x00')
+        
+        time.sleep(.01)
 
 def scan_for_player_names():
     '''
@@ -278,6 +282,44 @@ def scan_for_player_names():
 
             romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
             write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+            
+        time.sleep(.01)
+
+def scan_for_adhoc_files():
+    '''
+    Scans for specific adhoc files that have yet to have a hook written for them.
+    '''
+    logger.info('Starting adhoc file scanning.')
+
+    while True:
+        index_list = pattern_scan(pattern=index_pattern, return_multiple=True)
+
+        for index_address in index_list:
+            if read_bytes(index_address - 2, 1) != b'\x69':
+                hex_result = split_hex_into_spaces(str(read_bytes(index_address, 64).hex()))
+                csv_result = query_csv(hex_result)
+                if csv_result:
+                    file = csv_result['file']
+                    if 'adhoc' in file:
+                        hex_to_write = bytes.fromhex(generate_hex(file))
+                        text_address = get_start_of_game_text(index_address)
+                        if text_address:
+                            try:
+                                # this just tests that we can decode what we should be writing
+                                foot_address = find_first_match(text_address, foot_pattern)
+                                game_hex = read_bytes(text_address, foot_address - text_address)
+                                game_hex.decode('utf-8')
+                            except:
+                                continue
+
+                            # with the match we found, make sure the INDX is still here before we write
+                            if split_hex_into_spaces(str(read_bytes(index_address, 64).hex())) == hex_result:
+                                write_bytes(text_address, hex_to_write)
+                                write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
+                                logger.debug(f'Wrote {file} @ {hex(index_address)}')
+        else:
+            time.sleep(.01)
+            continue
 
 def dump_game_file(start_addr: int, num_bytes_to_read: int):
     '''
@@ -498,7 +540,7 @@ def query_csv(hex_pattern, hex_dict='hex_dict.csv') -> dict:
                 return_dict['hex_string'] = row['hex_string']
                 return return_dict
 
-def __read_json_file(file, region_code):
+def read_json_file(file):
     with open(file, 'r', encoding='utf-8') as json_data:
         return json.loads(json_data.read())
 
