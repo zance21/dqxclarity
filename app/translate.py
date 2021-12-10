@@ -3,12 +3,13 @@ import requests
 import json
 import sys
 import ctypes
-import datetime
 import configparser
+from unicodedata import normalize
 from os.path import exists
-from langdetect import detect
+import langdetect
 import re
 import sqlite3
+from clarity import read_json_file
 
 
 def deepl_translate(dialog_text, is_pro, api_key, region_code):
@@ -17,23 +18,37 @@ def deepl_translate(dialog_text, is_pro, api_key, region_code):
         api_url = 'https://api.deepl.com/v2/translate'
     else:
         api_url = 'https://api-free.deepl.com/v2/translate'
-
     payload = {'auth_key': api_key, 'text': dialog_text, 'target_lang': region_code}
     r = requests.post(api_url, data=payload, timeout=5)
-    translated_text = r.content
-
-    return json.loads(translated_text)['translations'][0]['text']
+    request_return = r.content
+    if r.status_code == 200:
+        return json.loads(request_return)['translations'][0]['text']
+    elif r.status_code == 403:
+        raise Exception('Your DeepL key is invalid. Make sure you entered it correctly.')
+    elif r.status_code == 456:
+        raise Exception('Your DeepL key has no remaining characters for the month. Try another key or wait until it resets.')
+    elif r.status_code in [408, 504]:
+        raise Exception('DeepL timed out making a translation request. This is not a Clarity issue. DeepL could be returning requests slower than usual, down or just unreachable.')
+    else:
+        error = json.loads(request_return)['message']
+        raise Exception(f'DeepL returned an error: {error}')
 
 def google_translate(dialog_text, api_key, region_code):
     '''Uses Google Translate to translate text to the specified language.'''
     uri = '&source=ja&target=' + region_code + '&q=' + dialog_text + '&format=text'
     api_url = 'https://www.googleapis.com/language/translate/v2?key=' + api_key + uri
     headers = {'Content-Type': 'application/json'}
-
     r = requests.post(api_url, headers=headers, timeout=5)
-    translated_text = r.content
-    
-    return json.loads(translated_text)['data']['translations'][0]['translatedText']
+    request_return = r.content
+    if r.status_code == 200:
+        return json.loads(request_return)['data']['translations'][0]['translatedText']
+    elif r.status_code == 400:
+        raise Exception('Your Google Translate API key is not valid. Check the key and try again.')
+    elif r.status_code == 408:
+        raise Exception('Google Translate timed out making a translation request. This is not a Clarity issue. Google Translate could be having issues. Try again later.')
+    else:
+        error = json.loads(request_return)['error']['message']
+        raise Exception(f'Google Translate returned an error: {error}')
 
 def translate(translation_service, is_pro, dialog_text, api_key, region_code):
     if translation_service == 'deepl':
@@ -46,7 +61,7 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
     Does a bunch of text sanitization to handle tags seen in DQX, as well as automatically
     splitting the text up into chunks to be fed into the in-game dialog window.
     '''
-    if detect(dialog_text) == 'ja':
+    if detect_lang(dialog_text):
         output = re.sub('<br>', ' ', dialog_text)
         output = re.split(r'(<.+?>)', output)
         final_string = ''
@@ -77,7 +92,7 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
                     translation = re.sub('  ', ' ', translation)
                     translation = textwrap.fill(translation, width=45, replace_whitespace=False)
 
-                    # figure out where to put <br> to break up text 
+                    # figure out where to put <br> to break up text
                     count = 1
                     count_list = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
                     for line in translation.split('\n'):
@@ -118,44 +133,58 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
     else:
         return dialog_text
 
-def write_to_log(is_enabled, source_text, translated_text, language):
-    '''Logs text to a file.'''
-    if is_enabled == 'True':
-        data = logger_timestamp() + '\n' + 'ja: ' + source_text + '\n' + language + ': ' + translated_text  + '\n\n'
-        with open('dqx_text_log.txt', 'a', encoding='utf-8') as open_file:
-            open_file.write(data)
+def quest_translate(translation_service, is_pro, quest_text, api_key, region):
+    '''
+    Translates quest text and fits it into the quest window.
+    '''
+    db_quest_text = sqlite_read(quest_text, region, 'quests')
+    if db_quest_text:
+        return db_quest_text
 
-def sqlite_read(text_to_query, language):
-    '''Reads text from the database.'''
+    full_text = re.sub('\n', ' ', quest_text)
+    translation = translate(translation_service, is_pro, full_text, api_key, region)
+    if translation:
+        formatted_translation = textwrap.fill(translation, width=45, replace_whitespace=False)
+        sqlite_write(quest_text, 'quests', formatted_translation, region)
+
+    return formatted_translation
+
+def sqlite_read(text_to_query, language, table):
+    '''Reads text from a SQLite table.'''
     escaped_text = text_to_query.replace("'","''")
 
     try:
         conn = sqlite3.connect('clarity_dialog.db')
         cursor = conn.cursor()
-        selectQuery = f'SELECT {language} FROM dialog WHERE ja = \'{escaped_text}\''
+        selectQuery = f'SELECT {language} FROM {table} WHERE ja = \'{escaped_text}\''
         cursor.execute(selectQuery)
         results = cursor.fetchone()
-        
+
         if results is not None:
             return results[0].replace("''", "'")
         else:
             return None
-        
-    except sqlite3.Error as error:
-        print(f'[DEBUG] Failed to query SQLite: {error}')
+
+    except sqlite3.Error as e:
+        raise Exception(f'Failed to query {table}: {e}')
     finally:
         if conn:
             conn.close()
 
-def sqlite_write_dynamic(source_text, npc_name, translated_text, language):
-    '''Writes or updates text to the database.'''
+def sqlite_write(source_text, table, translated_text, language, npc_name=''):
+    '''Writes or updates text to the SQLite database.'''
     escaped_text = translated_text.replace("'","''")
 
     try:
         conn = sqlite3.connect("clarity_dialog.db")
-        selectQuery = f'SELECT ja FROM dialog WHERE ja = \'{source_text}\''
-        insertQuery = f'INSERT INTO dialog (ja, npc_name, {language}) VALUES (\'{source_text}\', \'{npc_name}\', \'{escaped_text}\')'
-        updateQuery = f'UPDATE dialog SET {language} = \'{escaped_text}\' WHERE ja = \'{source_text}\''
+        selectQuery = f'SELECT ja FROM {table} WHERE ja = \'{source_text}\''
+        updateQuery = f'UPDATE {table} SET {language} = \'{escaped_text}\' WHERE ja = \'{source_text}\''
+        if table == 'dialog':
+            insertQuery = f'INSERT INTO {table} (ja, npc_name, {language}) VALUES (\'{source_text}\', \'{npc_name}\', \'{escaped_text}\')'
+        elif table == 'quests':
+            insertQuery = f'INSERT INTO {table} (ja, {language}) VALUES (\'{source_text}\', \'{escaped_text}\')'
+        else:
+            raise Exception('Unknown table.')
 
         cursor = conn.cursor()
         results = cursor.execute(selectQuery)
@@ -167,45 +196,11 @@ def sqlite_write_dynamic(source_text, npc_name, translated_text, language):
 
         conn.commit()
         cursor.close()
-    except sqlite3.Error as error:
-        print(f'[DEBUG] Failed to add data to SQLite: {error}')
+    except sqlite3.Error as e:
+        raise Exception(f'Unable to write data to table: {e}')
     finally:
         if conn:
             conn.close()
-
-def check_deepl_remaining_char_count(key, is_pro):
-    if is_pro == 'True':
-        url = "https://api.deepl.com/v2"
-    else:
-        url = "https://api-free.deepl.com/v2"
-    url += "/usage?auth_key=" + key
-    response = requests.get(url)
-    if response.status_code != 200:
-        return False
-    else:
-        return True
-
-def test_google_translate_api_key(key):
-    body = "&source=ja" + "&target=" + 'en' + "&q="
-    url = "https://www.googleapis.com/language/translate/v2?key=" + key + body
-    response = requests.get(url)
-    if response.status_code == 200:
-        return True
-    else:
-        return False
-
-def sanitize_text_before_translate(text: str) -> str:
-    sanitized_text = re.sub('<br>', '', text)
-    sanitized_text = re.sub('「', '', sanitized_text)
-    sanitized_text = re.sub('…', '', sanitized_text)
-
-    return sanitized_text
-
-def sanitized_text_after_translate(text: str) -> str:
-    if '　' in text:
-        return text.replace('　', ' ')
-    else:
-        return text
 
 def determine_translation_service():
     '''Parses the user config file to get information needed to make translation calls.'''
@@ -270,16 +265,6 @@ def determine_translation_service():
         ctypes.windll.user32.MessageBoxW(0, f"Invalid value detected for EnableDialogLogging. Open user_settings.ini in Notepad and fix it.\n\nValid values are: True, False\n\nCurrent values:\n\nEnableDialogLogging: {config['translation']['EnableDialogLogging']}", "[dqxclarity] Misconfigured boolean", 0x10)
         sys.exit()
 
-    if deepl_translate_choice == 'True':
-        if not check_deepl_remaining_char_count(deepl_translate_key, deepl_pro):
-            ctypes.windll.user32.MessageBoxW(0, f"Your DeepL API key did not validate successfully. Check the key and region code then try again.\n\nCurrent values:\n\nRegionCode: {config['translation']['RegionCode']}\nDeepLTranslateKey: {config['translation']['DeepLTranslateKey']}", "[dqxclarity] API key failed to validate", 0x10)
-            sys.exit()
-            
-    if google_translate_choice == 'True':
-        if not test_google_translate_api_key(google_translate_key):
-            ctypes.windll.user32.MessageBoxW(0, f"Your Google Translate API key did not validate successfully. Check the key and region code then try again.\n\nCurrent values:\n\nRegionCode: {config['translation']['RegionCode']}\nGoogleTranslateKey: {config['translation']['GoogleTranslateKey']}", "[dqxclarity] API key failed to validate", 0x10)
-            sys.exit()
-
     dic = dict()
     if deepl_translate_choice == 'True':
         dic['TranslateService'] = 'deepl'
@@ -294,3 +279,60 @@ def determine_translation_service():
     dic['RegionCode'] = region_code
 
     return dic
+
+def query_string_from_file(text: str, file: str) -> str:
+    '''
+    Searches for a string from the specified json file and either returns
+    the string or returns False if no match found.
+    
+    text: The text to search
+    file: The name of the file (leave off the file extension)
+    '''
+    data = read_json_file('json/_lang/en/' + file + '.json')
+
+    for item in data:
+        key, value = list(data[item].items())[0]
+        if re.search(f'^{text}+$', key):
+            if value:
+                return value
+
+def clean_up_and_return_items(text: str) -> str:
+    '''
+    Cleans up unnecessary text from item strings and searches for the name in items.json.
+    Used specifically for the quest window.
+    '''
+    line_count = text.count('\n')
+    sanitized = re.sub('男は ', '', text)  # remove boy reference from start of string
+    sanitized = re.sub('女は ', '', sanitized)  # remove girl reference from start of string
+    final_string = ''
+    for item in sanitized.split('\n'):
+        quantity = ''
+        no_bullet = re.sub('(^\・)', '', item)
+        if no_bullet.endswith('こ'):
+            quantity = '(' + normalize('NFKC', no_bullet[-2]) + ')'
+            no_bullet = re.sub('(　　.*)', '', no_bullet)
+        en = query_string_from_file(no_bullet, 'items')
+        if en:
+            if line_count == 0:
+                return '・' + en + quantity
+            else:
+                final_string += '・' + en + quantity + '\n'
+        else:
+            if line_count == 0:
+                return text
+            else:
+                final_string += item + '\n'
+    return final_string.rstrip()
+
+def detect_lang(text: str) -> bool:
+    '''
+    Detects if the language is Japanese or not. Returns bool.
+    '''
+    sanitized = re.sub('<.+?>', '', text)
+    sanitized = re.sub('\n', '', sanitized)
+
+    try:
+        if langdetect.detect(sanitized) == 'ja':
+            return True
+    except langdetect.lang_detect_exception.LangDetectException:  # Could not detect language
+        return False
