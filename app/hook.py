@@ -1,3 +1,4 @@
+import inspect
 import struct
 import os
 from loguru import logger
@@ -8,7 +9,8 @@ from signatures import (
     cutscene_adhoc_files,
     pyrun_simplestring,
     py_initialize_ex,
-    py_finalizer
+    quest_text_trigger,
+    loading_pattern
 )
 from memory import (
     dqx_mem,
@@ -19,6 +21,9 @@ from memory import (
 )
 from api_translate.dialog import translate_shellcode
 from api_translate.cutscene import cutscene_shellcode, cutscene_file_dump_shellcode
+from api_translate.quest import quest_text_shellcode
+from hook_mgmt.loading import loading_shellcode
+from hook_mgmt.hide_hooks import load_unload_hooks
 from translate import determine_translation_service
 
 def allocate_memory(size: int) -> int:
@@ -128,13 +133,14 @@ def write_post_hook_registers(pre_register_value_addr: int, hook_instr_end: int)
 
     return addresses_dict
 
-def convert_dict(hook_name: str, detour_address: int, original_bytes: bytes, hook_bytes: bytes) -> dict:
+def convert_dict(hook_name: str, detour_address: int, shellcode_address: int, original_bytes: bytes, hook_bytes: bytes) -> dict:
     '''
     Creates a dict to feed to hook manager.
     '''
     dictionary = dict()
     dictionary['hook_name'] = hook_name
     dictionary['detour_address'] = detour_address
+    dictionary['shellcode_address'] = shellcode_address
     dictionary['original_bytes'] = original_bytes
     dictionary['hook_bytes'] = hook_bytes
 
@@ -169,49 +175,23 @@ def inject_py_shellcode(shellcode: str):
     '''
     return PYM_PROCESS.inject_python_shellcode(shellcode)
 
-def translate_detour(debug: bool):
+def generic_detour(hook_name: str, pre_hook: dict, shellcode: str, signature: bytes, num_bytes_to_steal: int) -> dict:
     '''
-    Hooks the dialog window to translate text and write English instead.
-    Every hook should return 'hook_name', 'detour_address', 'original_bytes' and 'hook_bytes' in a dict.
+    Generic hook that should cover most hook needs.
+    Returns a dict of hook_name, detour_address, shellcode_addr, original_bytes and hook_bytes.
     '''
-    api_details = determine_translation_service()
-    api_service = api_details['TranslateService']
-    api_key = api_details['TranslateKey']
-    api_pro = api_details['IsPro']
-    api_logging = api_details['EnableDialogLogging']
-    api_region = api_details['RegionCode']
-
-    detour_address = pattern_scan(dialog_trigger, module='DQXGame.exe')
-
-    pre_hook = write_pre_hook_registers()
-
-    ebx = pre_hook['reg_ebx']
-    eax = pre_hook['reg_eax']
-
-    shellcode = translate_shellcode(
-        eax,
-        ebx,
-        api_service,
-        api_key,
-        api_pro,
-        api_logging,
-        api_region,
-        debug)
+    detour_address = pattern_scan(signature, module='DQXGame.exe')
 
     pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
     py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    py_finalizer_addr = pattern_scan(py_finalizer, module='python39.dll')
     shellcode_addr = allocate_memory(len(shellcode))
 
     # write our shellcode
     write_string(shellcode_addr, shellcode)
 
-    bytecode = (
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
-        b'\x68' + bytes(pack_to_int(shellcode_addr)) + # push shellcode_addr
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)# + # push py_run_simple_string_addr
-        #b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 15, py_finalizer_addr)
-    )
+    bytecode = (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr))  # call py_initialize_ex_addr
+    bytecode += (b'\x68' + bytes(pack_to_int(shellcode_addr))) # push shellcode_addr
+    bytecode += (b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + len(bytecode), pyrun_simplestring_addr)) # push py_run_simple_string_addr
 
     # # write our hook code
     write_bytes(pre_hook['begin_hook_insts'], bytecode)
@@ -220,180 +200,198 @@ def translate_detour(debug: bool):
     post_hook = write_post_hook_registers(pre_hook['begin_reg_values'], pre_hook['begin_hook_insts'] + len(bytecode))
 
     # find function address and read bytes to steal
-    bytes_to_steal = 6
-    stolen_bytecode = get_stolen_bytes(detour_address, bytes_to_steal)
+    stolen_bytecode = get_stolen_bytes(detour_address, num_bytes_to_steal)
 
     # write stolen bytes to end of our hook function
     write_bytes(post_hook['end_mov_insts'], stolen_bytecode)
 
     # jmp back to original function
-    bytecode = (
-       b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + bytes_to_steal, detour_address)
-    )
-
-    write_bytes(post_hook['end_mov_insts'] + bytes_to_steal, bytecode)
+    bytecode = (b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + num_bytes_to_steal, detour_address))
+    write_bytes(post_hook['end_mov_insts'] + num_bytes_to_steal, bytecode)
 
     # finally, write our mid function hook
-    hook_bytecode = (
-        b'\xE9' + calc_rel_addr(detour_address, pre_hook['begin_mov_insts']) +
-        b'\x90'  # we're stealing 6 bytes, so we need to nop to equal 6
+    hook_bytecode = (b'\xE9' + calc_rel_addr(detour_address, pre_hook['begin_mov_insts']))
+    if num_bytes_to_steal > 5:
+        count = num_bytes_to_steal - 5
+        for i in range(count):
+            hook_bytecode += b'\x90'
+
+    #write_bytes(detour_address, hook_bytecode)
+
+    logger.debug(f"{hook_name} address:      {hex(pre_hook['begin_mov_insts'])}")
+    logger.debug(f"Shellcode address:        {hex(shellcode_addr)}")
+    logger.debug(f"Detour address:           {hex(detour_address)}")
+
+    return convert_dict(hook_name, detour_address, shellcode_addr, stolen_bytecode, hook_bytecode)
+
+def translate_detour(debug: bool):
+    '''
+    Hooks the dialog window to translate text and write English instead.
+    Every hook should return 'hook_name', 'detour_address', 'original_bytes' and 'hook_bytes' in a dict.
+    '''
+    bytes_to_steal = 6
+    
+    pre_hook = write_pre_hook_registers()
+    eax = pre_hook['reg_eax']
+    ebx = pre_hook['reg_ebx']
+
+    api_details = determine_translation_service()
+    shellcode = translate_shellcode(
+        eax,
+        ebx,
+        api_details['TranslateService'],
+        api_details['TranslateKey'],
+        api_details['IsPro'],
+        api_details['EnableDialogLogging'],
+        api_details['RegionCode'],
+        debug)
+
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        shellcode,
+        dialog_trigger,
+        bytes_to_steal
     )
 
-    write_bytes(detour_address, hook_bytecode)
-
-    logger.debug(f"Begin dialog hook:           {hex(pre_hook['begin_mov_insts'])}")
-    logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Detour address:              {hex(detour_address)}")
-
-
-    return convert_dict('translate_detour', detour_address, stolen_bytecode, hook_bytecode)
+    return detour
 
 def cutscene_detour(debug: bool):
     '''
     Hooks the cutscene dialog to translate text and write English instead.
     Every hook should return 'hook_name', 'detour_address', 'original_bytes' and 'hook_bytes' in a dict.
     '''
-    api_details = determine_translation_service()
-    api_service = api_details['TranslateService']
-    api_key = api_details['TranslateKey']
-    api_pro = api_details['IsPro']
-    api_logging = api_details['EnableDialogLogging']
-    api_region = api_details['RegionCode']
-
-    detour_address = pattern_scan(cutscene_trigger, module='DQXGame.exe')
+    bytes_to_steal = 5
 
     pre_hook = write_pre_hook_registers()
-
     esi = pre_hook['reg_esi']
 
+    api_details = determine_translation_service()
     shellcode = cutscene_shellcode(
         esi,
-        api_service,
-        api_key,
-        api_pro,
-        api_logging,
-        api_region,
+        api_details['TranslateService'],
+        api_details['TranslateKey'],
+        api_details['IsPro'],
+        api_details['EnableDialogLogging'],
+        api_details['RegionCode'],
         debug)
 
-    pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
-    py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    shellcode_addr = allocate_memory(50)
-
-    # write our shellcode
-    write_string(shellcode_addr, str(shellcode))
-
-    bytecode = (
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
-        b'\x68' + bytes(pack_to_int(shellcode_addr)) + # push shellcode_addr
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)  # push py_run_simple_string_addr
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        shellcode,
+        cutscene_trigger,
+        bytes_to_steal
     )
 
-    # # write our hook code
-    write_bytes(pre_hook['begin_hook_insts'], bytecode)
-
-    # revert our registers to before the hooking took place
-    post_hook = write_post_hook_registers(pre_hook['begin_reg_values'], pre_hook['begin_hook_insts'] + len(bytecode))
-
-    # find function address and read bytes to steal
-    bytes_to_steal = 5
-    stolen_bytecode = get_stolen_bytes(detour_address, bytes_to_steal)
-
-    # write stolen bytes to end of our hook function
-    write_bytes(post_hook['end_mov_insts'], stolen_bytecode)
-
-    # jmp back to original function
-    bytecode = (
-       b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + bytes_to_steal, detour_address)
-    )
-
-    write_bytes(post_hook['end_mov_insts'] + bytes_to_steal, bytecode)
-
-    # finally, write our mid function hook
-    hook_bytecode = (
-        b'\xE9' + calc_rel_addr(detour_address, pre_hook['begin_mov_insts'])
-    )
-
-    write_bytes(detour_address, hook_bytecode)
-
-    logger.debug(f"Begin cutscene hook:         {hex(pre_hook['begin_mov_insts'])}")
-    logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Detour address:              {hex(detour_address)}")
-
-
-    return convert_dict('cutscene_detour', detour_address, stolen_bytecode, hook_bytecode)
+    return detour
 
 def cutscene_file_dump_detour():
     '''
     Hooks the cutscene dialog to translate text and write English instead.
     Every hook should return 'hook_name', 'detour_address', 'original_bytes' and 'hook_bytes' in a dict.
     '''
-    api_details = determine_translation_service()
-    api_service = api_details['TranslateService']
-    api_key = api_details['TranslateKey']
-    api_pro = api_details['IsPro']
-    api_logging = api_details['EnableDialogLogging']
-    api_region = api_details['RegionCode']
-
-    detour_address = pattern_scan(cutscene_adhoc_files, module='DQXGame.exe')
+    bytes_to_steal = 5
+    cutscene_adhoc_files
 
     pre_hook = write_pre_hook_registers()
-
     edi = pre_hook['reg_edi']
 
-    shellcode = cutscene_file_dump_shellcode(
-        edi,
-        api_service,
-        api_key,
-        api_pro,
-        api_logging,
-        api_region)
+    shellcode = cutscene_file_dump_shellcode(edi)
 
-    pyrun_simplestring_addr = pattern_scan(pyrun_simplestring, module='python39.dll')
-    py_initialize_ex_addr = pattern_scan(py_initialize_ex, module='python39.dll')
-    shellcode_addr = allocate_memory(50)
-
-    # write our shellcode
-    write_string(shellcode_addr, str(shellcode))
-
-    bytecode = (
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'], py_initialize_ex_addr) + # call py_initialize_ex_addr
-        b'\x68' + bytes(pack_to_int(shellcode_addr)) + # push shellcode_addr
-        b'\xE8' + calc_rel_addr(pre_hook['begin_hook_insts'] + 10, pyrun_simplestring_addr)  # push py_run_simple_string_addr
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        shellcode,
+        cutscene_adhoc_files,
+        bytes_to_steal
     )
 
-    # write our hook code
-    write_bytes(pre_hook['begin_hook_insts'], bytecode)
+    return detour
 
-    # revert our registers to before the hooking took place
-    post_hook = write_post_hook_registers(pre_hook['begin_reg_values'], pre_hook['begin_hook_insts'] + len(bytecode))
-
-    # find function address and read bytes to steal
+def quest_text_detour(debug: bool):
+    '''
+    Hook the quest dialog window and translate to english.
+    Every hook should return 'hook_name', 'detour_address', 'original_bytes' and 'hook_bytes' in a dict.
+    '''
     bytes_to_steal = 5
-    stolen_bytecode = get_stolen_bytes(detour_address, bytes_to_steal)
 
-    # write stolen bytes to end of our hook function
-    write_bytes(post_hook['end_mov_insts'], stolen_bytecode)
+    pre_hook = write_pre_hook_registers()
+    ebx = pre_hook['reg_ebx']
+    esi = pre_hook['reg_esi']
 
-    # jmp back to original function
-    bytecode = (
-       b'\xE9' + calc_rel_addr(post_hook['end_mov_insts'] + bytes_to_steal, detour_address)
+    api_details = determine_translation_service()
+    shellcode = quest_text_shellcode(
+        ebx,
+        esi,
+        api_details['TranslateService'],
+        api_details['TranslateKey'],
+        api_details['IsPro'],
+        api_details['EnableDialogLogging'],
+        api_details['RegionCode'],
+        debug)
+
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        shellcode,
+        quest_text_trigger,
+        bytes_to_steal
     )
 
-    write_bytes(post_hook['end_mov_insts'] + bytes_to_steal, bytecode)
+    return detour
 
-    # finally, write our mid function hook
-    hook_bytecode = (
-        b'\xE9' + calc_rel_addr(detour_address, pre_hook['begin_mov_insts'])
+def loading_detour(debug: bool):
+    '''
+    Hooks a pre-loading function. This is a special function that should kick off all other hooks.
+    In the event a loading screen of any type is encountered, this will unhook all active hooks.
+    '''
+    inject_python_dll()
+
+    # add any new hooks to this list
+    hooks = []
+    hooks.append(translate_detour(debug))
+    hooks.append(cutscene_detour(debug))
+    hooks.append(cutscene_file_dump_detour())
+    hooks.append(quest_text_detour(debug))
+
+    bytes_to_steal = 8
+
+    pre_hook = write_pre_hook_registers()
+    eax = pre_hook['reg_eax']
+
+    # this address will serve to tell an external script whether or not hooks are active,
+    # as well as where the value of eax is when it gets updated.
+    state_address = allocate_memory(10)
+
+    shellcode = loading_shellcode(
+        eax,
+        state_address,
+        hooks
     )
 
-    write_bytes(detour_address, hook_bytecode)
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        shellcode,
+        loading_pattern,
+        bytes_to_steal
+    )
 
-    logger.debug(f"Begin cutscene adhoc hook:   {hex(pre_hook['begin_mov_insts'])}")
-    logger.debug(f"Shellcode address:           {hex(shellcode_addr)}")
-    logger.debug(f"Detour address:              {hex(detour_address)}")
+    # we need this hook to be part of our hook list as this should also 
+    # be unloaded on loading
+    hooks.append(detour)
 
+    # re-create our shellcode with the added loading hook and re-write over 
+    # the existing shellcode address
+    shellcode = loading_shellcode(
+        eax,
+        state_address,
+        hooks
+    )
 
-    return convert_dict('cutscene_file_dump_detour', detour_address, stolen_bytecode, hook_bytecode)
-
+    write_string(detour['shellcode_address'], shellcode)
+    logger.debug(f'State address: {hex(state_address)}')
+    load_unload_hooks(hooks, state_address, debug)
 
 PYM_PROCESS = dqx_mem()
