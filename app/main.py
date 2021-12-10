@@ -11,8 +11,8 @@ from pymem.exception import WinAPIError
 from clarity import (translate, get_latest_from_weblate,
     dump_all_game_files, scan_for_player_names,
     migrate_translated_json_data, scan_for_npc_names,
-    check_for_updates)
-from hook import translate_detour, inject_python_dll, cutscene_detour, cutscene_file_dump_detour
+    check_for_updates, scan_for_adhoc_files)
+from hook import loading_detour
 from hook_mgmt.hide_hooks import load_unload_hooks
 
 @click.command()
@@ -60,27 +60,19 @@ def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=Fals
         logger.add(sys.stderr, level="INFO")
 
     translate()
-    hooks = []
 
     try:
         if communication_window:
-            inject_python_dll()
-            translate_hook = translate_detour(debug)
-            cutscene_hook = cutscene_detour(debug)
-            cutscene_file_dump_hook = cutscene_file_dump_detour()
-            hooks.append(translate_hook)
-            hooks.append(cutscene_hook)
-            hooks.append(cutscene_file_dump_hook)
+            Process(name='Hook loader', target=loading_detour, args=(debug,)).start()
         if player_names:
             Process(name='Player name scanner', target=scan_for_player_names, args=()).start()
         if npc_names:
             Process(name='NPC scanner', target=scan_for_npc_names, args=()).start()
-        if hooks:
-            Process(name='Hook manager', target=load_unload_hooks, args=(hooks, debug)).start()
+        #Process(name='Adhoc scanner', target=scan_for_adhoc_files, args=()).start()
     except WinAPIError:
         sys.exit(click.secho('Can\'t find DQX process. Exiting.', fg='red'))
-    
-    time.sleep(5)  # Give the above processes time to kick off before letting the user know to continue
+
+    time.sleep(2)
     logger.info('Done! Keep this window open (minimize it) and have fun on your adventure!')
 
 if __name__ == '__main__':
