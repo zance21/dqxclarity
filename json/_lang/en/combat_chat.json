@@ -22794,7 +22794,7 @@
         "敵周囲を攻撃し|消費Ｇを０にする|スパスタ専用特技": "Attacks nearby|enemies. G costs|are now 0."
     },
     "7599": {
-        "敵モンスターを|２体呼び寄せる|まもの使い専用": ""
+        "敵モンスターを|２体呼び寄せる|まもの使い専用": "Calls 2 of the|targeted enemy|into battle."
     },
     "7600": {
         "呪文特技の発動と|行動間隔を短縮|踊り子専用": "Quickens action|execution and|action wait time."
@@ -26757,7 +26757,7 @@
         "あげあげガード": ""
     },
     "8920": {
-        "源世の恵み「さいだいＨＰ +200」をうけた！": ""
+        "源世の恵み「さいだいＨＰ +200」をうけた！": "Gained the \"Max HP +200\" Origin Blessing!"
     },
     "8921": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が もとにもどった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack returned to normal!"
@@ -33456,7 +33456,7 @@
         "clarity_nt_char_11152": "clarity_nt_char_11152"
     },
     "11153": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 源世の恵みが 悪い効果を はらいのけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 源世の恵みが 悪い効果を はらいのけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Origin Blessing removed bad status effects!"
     },
     "11154": {
         "こうねつのガス": ""
@@ -34671,7 +34671,7 @@
         "clarity_nt_char_11557": "clarity_nt_char_11557"
     },
     "11558": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「さいだいＨＰ +200」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「さいだいＨＰ +200」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Max HP +200\" Origin Blessing!"
     },
     "11559": {
         "clarity_nt_char_11559": "clarity_nt_char_11559"
