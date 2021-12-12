@@ -32298,7 +32298,7 @@
         "探査回数 あと<%dM_num>回": "<%dM_num> Explorations Left"
     },
     "10767": {
-        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": "Resets on <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%dM_hh>:<%dM_mm>"
+        "<%nM_cal_YYYY>年<%2nM_cal_MM>月<%2nM_cal_DD>日<%nM_hh>時<%nM_mm>分でリセット": "Resets <%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%dM_hh>:<%dM_mm>"
     },
     "10768": {
         "clarity_nt_char_10768": "clarity_nt_char_10768"
