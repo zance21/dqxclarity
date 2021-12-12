@@ -37488,43 +37488,43 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「致死ダメージ時 10％で生存」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Survive Lethal Damage 10%\" Origin Blessing!"
     },
     "12497": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「チャージ時間 -10秒」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「チャージ時間 -10秒」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Charge Time -10 sec.\" Origin Blessing!"
     },
     "12498": {
         "clarity_nt_char_12498": "clarity_nt_char_12498"
     },
     "12499": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「移動速度 +20%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「移動速度 +20%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Move Speed +20%\" Origin Blessing!"
     },
     "12500": {
         "clarity_nt_char_12500": "clarity_nt_char_12500"
     },
     "12501": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「特技と呪文の回復量 +100」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「特技と呪文の回復量 +100」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Skill/Spell Recovery +100\" Origin Blessing!"
     },
     "12502": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「魔物に ダメージ +30%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「魔物に ダメージ +30%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Damage to Monsters +30%\" Origin Blessing!"
     },
     "12503": {
         "clarity_nt_char_12503": "clarity_nt_char_12503"
     },
     "12504": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「状態異常系の成功率 +50%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「状態異常系の成功率 +50%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Status Effect Success +50%\" Origin Blessing!"
     },
     "12505": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「常時２回行動」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「常時２回行動」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Double Action\" Origin Blessing!"
     },
     "12506": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「必殺チャージ率 +10%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「必殺チャージ率 +10%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Special Charge Rate +10%\" Origin Blessing!"
     },
     "12507": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「コマンド間隔 -2秒」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「コマンド間隔 -2秒」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Command Interval -2 sec.\" Origin Blessing!"
     },
     "12508": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「かいしん率＆呪文暴走率 +20%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「かいしん率＆呪文暴走率 +20%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Critical/Haywire Rate +20%\" Origin Blessing!"
     },
     "12509": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「受けるダメージ -20%」をうけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「受けるダメージ -20%」をうけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained the \"Damage Taken -20%\" Origin Blessing!"
     },
     "12510": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 源世の恵み「常時キラキラポーン」をうけた！": ""
