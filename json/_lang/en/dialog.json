@@ -9855,13 +9855,13 @@
         "clarity_nt_char_3285": "clarity_nt_char_3285"
     },
     "3286": {
-        "<speed=0>|収集品に残っている　アイテムは|すべて　消えてしまいますが|源世庫パニガルムを　出てよろしいですか？|<yesno2><close>": ""
+        "<speed=0>|収集品に残っている　アイテムは|すべて　消えてしまいますが|源世庫パニガルムを　出てよろしいですか？|<yesno2><close>": "<speed=0>|If you leave Origin Vault Panigalm, all items|in your collection will disappear. Are you|sure?|<yesno2><close>"
     },
     "3287": {
         "clarity_nt_char_3287": "clarity_nt_char_3287"
     },
     "3288": {
-        "<speed=0>|探査を終了し　源世庫パニガルムから|出てよろしいですか？|<yesno2><close>": ""
+        "<speed=0>|探査を終了し　源世庫パニガルムから|出てよろしいですか？|<yesno2><close>": "<speed=0>|Finish exploring and leave the Origin Vault|Panigalm?|<yesno2><close>"
     },
     "3289": {
         "clarity_nt_char_3289": "clarity_nt_char_3289"
