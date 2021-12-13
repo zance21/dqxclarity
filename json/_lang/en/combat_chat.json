@@ -2412,7 +2412,7 @@
         "なんと！竜王が 正体をあらわした！": ""
     },
     "805": {
-        "<%sB_ACTOR>は タロットを つくりだした！": ""
+        "<%sB_ACTOR>は タロットを つくりだした！": "<%sB_ACTOR> created a Tarot!"
     },
     "806": {
         "clarity_nt_char_806": "clarity_nt_char_806"
@@ -21843,7 +21843,7 @@
         "clarity_nt_char_7281": "clarity_nt_char_7281"
     },
     "7282": {
-        "賢者マリーンは <%sB_ACTION>を つくりだした！": ""
+        "賢者マリーンは <%sB_ACTION>を つくりだした！": "Sage Marlynn created <%sB_ACTION>!"
     },
     "7283": {
         "敵１体に|ダメージをあたえ|たまにマヒさせる": ""
