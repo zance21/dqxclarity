@@ -37143,7 +37143,7 @@
         "呪毒のいき": ""
     },
     "12382": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージがアップした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージがアップした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage dealt is increased!"
     },
     "12383": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 黒い炎につつまれ ＨＰが 少しずつ減少する！": ""
