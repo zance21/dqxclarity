@@ -33105,7 +33105,7 @@
         "clarity_nt_char_11035": "clarity_nt_char_11035"
     },
     "11036": {
-        "<%sB_TARGET>は グリーンログを 手に入れた！": ""
+        "<%sB_TARGET>は グリーンログを 手に入れた！": "<%sB_TARGET> received a Green Log!"
     },
     "11037": {
         "clarity_nt_char_11037": "clarity_nt_char_11037"
@@ -34683,7 +34683,7 @@
         "clarity_nt_char_11561": "clarity_nt_char_11561"
     },
     "11562": {
-        "<%sB_TARGET>は イエローログを 手に入れた！": ""
+        "<%sB_TARGET>は イエローログを 手に入れた！": "<%sB_TARGET> received a Yellow Log!"
     },
     "11563": {
         "clarity_nt_char_11563": "clarity_nt_char_11563"
@@ -34740,7 +34740,7 @@
         "clarity_nt_char_11580": "clarity_nt_char_11580"
     },
     "11581": {
-        "<%sB_TARGET>は パープルログを 手に入れた！": ""
+        "<%sB_TARGET>は パープルログを 手に入れた！": "<%sB_TARGET> received a Purple Log!"
     },
     "11582": {
         "clarity_nt_char_11582": "clarity_nt_char_11582"
@@ -34812,7 +34812,7 @@
         "clarity_nt_char_11604": "clarity_nt_char_11604"
     },
     "11605": {
-        "<%sB_TARGET>は レッドログを 手に入れた！": ""
+        "<%sB_TARGET>は レッドログを 手に入れた！": "<%sB_TARGET> received a Red Log!"
     },
     "11606": {
         "やまびこ召喚": ""
@@ -35976,7 +35976,7 @@
         "clarity_nt_char_11992": "clarity_nt_char_11992"
     },
     "11993": {
-        "<%sB_TARGET>は レインボーログを 手に入れた！": ""
+        "<%sB_TARGET>は レインボーログを 手に入れた！": "<%sB_TARGET> received a Rainbow Log!"
     },
     "11994": {
         "色なしへ": ""
@@ -36522,7 +36522,7 @@
         "悪神の咆哮": ""
     },
     "12175": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは グリーンログを 手に入れた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは グリーンログを 手に入れた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a Green Log!"
     },
     "12176": {
         "ムドー＆グラコス": ""
@@ -37188,7 +37188,7 @@
         "clarity_nt_char_12396": "clarity_nt_char_12396"
     },
     "12397": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは イエローログを 手に入れた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは イエローログを 手に入れた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a Yellow Log!"
     },
     "12398": {
         "黒い炎が 消えた！": ""
@@ -37590,16 +37590,16 @@
         "clarity_nt_char_12530": "clarity_nt_char_12530"
     },
     "12531": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パープルログを 手に入れた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パープルログを 手に入れた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a Purple Log!"
     },
     "12532": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは レッドログを 手に入れた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは レッドログを 手に入れた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a Red Log!"
     },
     "12533": {
         "clarity_nt_char_12533": "clarity_nt_char_12533"
     },
     "12534": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは レインボーログを 手に入れた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは レインボーログを 手に入れた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received a Rainbow Log!"
     },
     "12535": {
         "clarity_nt_char_12535": "clarity_nt_char_12535"
