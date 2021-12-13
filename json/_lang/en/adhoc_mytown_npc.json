@@ -45,7 +45,7 @@
         "「ウェルカム設定してる　マイタウンの家に|　ランダムで訪問します！　遊びにいきたい|　マイタウンの家のテーマを　選んでください！|<break>": "You'll be randomly selected to visit any|MyTown house you've set up as a welcome!|Choose the theme of the My Town house you'd|<br>|like to visit!<break>"
     },
     "16": {
-        "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで訪問します！|　移動しますか？|<yesno><break>": "I'll randomly visit the Mytown house you've|set in <%sL_MYTOWN_CATE>! Do you|want to move?|<br><yesno><break>"
+        "「<%sL_MYTOWN_CATE>に設定してる|　マイタウンの家へ　ランダムで訪問します！|　移動しますか？|<yesno><break>": "I'll randomly visit the My Town house you've|set in <%sL_MYTOWN_CATE>! Do you|want to move?|<yesno><break>"
     },
     "17": {
         "clarity_nt_char_17": "clarity_nt_char_17"
