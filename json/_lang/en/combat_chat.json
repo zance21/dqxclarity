@@ -11955,7 +11955,7 @@
         "マジオノむそう": ""
     },
     "3986": {
-        "火の紋章": ""
+        "火の紋章": "Fire Crest"
     },
     "3987": {
         "clarity_nt_char_3987": "clarity_nt_char_3987"
@@ -24585,7 +24585,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 周囲の味方のダメージを かわりにうけるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is now taking damage in place of nearby allies!"
     },
     "8196": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 自分の分身を つくりだした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 自分の分身を つくりだした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e created a copy of themselves!"
     },
     "8197": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに まもりのきりが たちこめた！": ""
@@ -25554,7 +25554,7 @@
         "clarity_nt_char_8518": "clarity_nt_char_8518"
     },
     "8519": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 火の紋章を つくりだした！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 火の紋章を つくりだした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e created a Fire Crest!"
     },
     "8520": {
         "clarity_nt_char_8520": "clarity_nt_char_8520"
@@ -27225,7 +27225,7 @@
         "紫の月の加護で \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージを受けなかった！": ""
     },
     "9076": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 　火の紋章に守られた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 　火の紋章に守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by the Fire Crest!"
     },
     "9077": {
         "clarity_nt_char_9077": "clarity_nt_char_9077"
@@ -28359,7 +28359,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スペルガードが きえた。": ""
     },
     "9454": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 火の紋章が きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 火の紋章が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fire Crest faded."
     },
     "9455": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 動けるようになった！": ""
@@ -30042,7 +30042,7 @@
         "スペルガードが|かかった！": ""
     },
     "10015": {
-        "火の紋章を|つくりだした！": ""
+        "火の紋章を|つくりだした！": "Created a|Fire Crest!"
     },
     "10016": {
         "マッシュスライムに|かえられてしまった！": ""
@@ -31503,7 +31503,7 @@
         "紫の月の加護に|守られている！": "Protected by Purple|Moon's blessing!"
     },
     "10502": {
-        "火の紋章に|守られている！": ""
+        "火の紋章に|守られている！": "Protected by the|Fire Crest!"
     },
     "10503": {
         "雪だるまに|かばわれた！": ""
@@ -32556,7 +32556,7 @@
         "clarity_nt_char_10852": "clarity_nt_char_10852"
     },
     "10853": {
-        "火の紋章がきえた": ""
+        "火の紋章がきえた": "Fire Crest faded."
     },
     "10854": {
         "clarity_nt_char_10854": "clarity_nt_char_10854"
