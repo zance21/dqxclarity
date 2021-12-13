@@ -31794,7 +31794,7 @@
         "clarity_nt_char_10598": "clarity_nt_char_10598"
     },
     "10599": {
-        "女神の木の効果": "Goddess Tree Effects"
+        "女神の木の効果": "Goddess Tree"
     },
     "10600": {
         "女神の木の効果はありません": "The Goddess Tree has no effects."
@@ -32163,25 +32163,25 @@
         "進化や変換はできません": "Cannot evolve/transform."
     },
     "10722": {
-        "おもさ＋<%nB_VAL>": ""
+        "おもさ＋<%nB_VAL>": "Weight +<%dB_VAL>"
     },
     "10723": {
-        "ちから＋<%nB_VAL>": ""
+        "ちから＋<%nB_VAL>": "Strength +<%dB_VAL>"
     },
     "10724": {
-        "すばやさ＋<%nB_VAL>": ""
+        "すばやさ＋<%nB_VAL>": "Agility +<%dB_VAL>"
     },
     "10725": {
         "clarity_nt_char_10725": "clarity_nt_char_10725"
     },
     "10726": {
-        "みりょく＋<%nB_VAL>": ""
+        "みりょく＋<%nB_VAL>": "Charm +<%dB_VAL>"
     },
     "10727": {
         "clarity_nt_char_10727": "clarity_nt_char_10727"
     },
     "10728": {
-        "みのまもり＋<%nB_VAL>": ""
+        "みのまもり＋<%nB_VAL>": "Resilience +<%dB_VAL>"
     },
     "10729": {
         "さいだいＭＰ＋<%nB_VAL>": "Max MP +<%dB_VAL>"
