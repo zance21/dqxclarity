@@ -20433,13 +20433,13 @@
         "学園コーデ": ""
     },
     "6812": {
-        "<%nM_percent>％": ""
+        "<%nM_percent>％": "<%dM_percent>%"
     },
     "6813": {
         "clarity_nt_char_6813": "clarity_nt_char_6813"
     },
     "6814": {
-        "<%nM_percent>": ""
+        "<%nM_percent>": "<%dM_percent>"
     },
     "6815": {
         "カラーの変更": "Color Change"
@@ -20643,7 +20643,7 @@
         "clarity_nt_char_6881": "clarity_nt_char_6881"
     },
     "6882": {
-        "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>": ""
+        "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>": "<%sM_status>　<%+.1fM_dcpt1><%sM_percent>"
     },
     "6883": {
         "clarity_nt_char_6883": "clarity_nt_char_6883"
