@@ -639,7 +639,7 @@
         "clarity_nt_char_213": "clarity_nt_char_213"
     },
     "214": {
-        "<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で受けたダメージ10%反射": ""
+        "<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%の確率で受けたダメージ10%反射": "Chance to Reflect 10% of Damage <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "215": {
         "攻撃ダメージの <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% ＨＰが回復": "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% Damage Recovered as HP"
@@ -1419,7 +1419,7 @@
         "ヤリ装備時　呪文発動速度 +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Spear Spell Cast Speed +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "474": {
-        "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": ""
+        "両手杖装備時　呪文ダメージ +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Staff Spell Damage +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "475": {
         "clarity_nt_char_475": "clarity_nt_char_475"
