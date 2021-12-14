@@ -24087,13 +24087,13 @@
         "clarity_nt_char_8029": "clarity_nt_char_8029"
     },
     "8030": {
-        "<%nM_percent>%": ""
+        "<%nM_percent>%": "<%dM_percent>%"
     },
     "8031": {
         "clarity_nt_char_8031": "clarity_nt_char_8031"
     },
     "8032": {
-        "<%dM_percent>%": ""
+        "<%dM_percent>%": "<%dM_percent>%"
     },
     "8033": {
         "clarity_nt_char_8033": "clarity_nt_char_8033"
@@ -24105,7 +24105,7 @@
         "clarity_nt_char_8035": "clarity_nt_char_8035"
     },
     "8036": {
-        "<%sM_kouka> <%dM_percent>%": ""
+        "<%sM_kouka> <%dM_percent>%": "<%sM_kouka> <%dM_percent>%"
     },
     "8037": {
         "clarity_nt_char_8037": "clarity_nt_char_8037"
