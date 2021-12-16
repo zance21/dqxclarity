@@ -27063,7 +27063,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 会心完全ガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Critical Hit Guard!"
     },
     "9022": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンガードに 守られた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは パラディンガードに 守られた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was protected by Knight Watch!"
     },
     "9023": {
         "clarity_nt_char_9023": "clarity_nt_char_9023"
@@ -27537,7 +27537,7 @@
         "clarity_nt_char_9179": "clarity_nt_char_9179"
     },
     "9180": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンガードが とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの パラディンガードが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Knight Watch faded!"
     },
     "9181": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 魔力の息吹が おわった。": ""
@@ -31389,7 +31389,7 @@
         "clarity_nt_char_10463": "clarity_nt_char_10463"
     },
     "10464": {
-        "パラディンガード！": ""
+        "パラディンガード！": "Knight Watch!"
     },
     "10465": {
         "天使の守りが|みたまを呼び戻した": "Goddess' Grace|recalled their spirit."
@@ -31716,7 +31716,7 @@
         "clarity_nt_char_10572": "clarity_nt_char_10572"
     },
     "10573": {
-        "パラディンガードが|とけた": ""
+        "パラディンガードが|とけた": "Knight Watch faded."
     },
     "10574": {
         "魔力の息吹がおわった": ""
