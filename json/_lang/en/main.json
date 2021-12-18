@@ -1569,7 +1569,7 @@
         "<%sM_colpt>ｐｔ": "<%sM_colpt> pt"
     },
     "524": {
-        "<%dM_syouritu>％": ""
+        "<%dM_syouritu>％": "<%dM_syouritu>%"
     },
     "525": {
         "最 高<%dM_rensyoumax> 連 勝": ""
@@ -2670,7 +2670,7 @@
         "clarity_nt_char_890": "clarity_nt_char_890"
     },
     "891": {
-        "<%sM_PercentHenkati>％": ""
+        "<%sM_PercentHenkati>％": "<%sM_PercentHenkati>%"
     },
     "892": {
         "所持数<%nM_syozisuu>こ": "Stock: <%dM_syozisuu>"
@@ -5889,7 +5889,7 @@
         "<%sM_henkati><%sM_kara>": ""
     },
     "1964": {
-        "<%sM_PercentHenkati>％<%sM_kara>": ""
+        "<%sM_PercentHenkati>％<%sM_kara>": "<%sM_PercentHenkati>%<%sM_kara>"
     },
     "1965": {
         "ひとつ前の返信をみる": ""
