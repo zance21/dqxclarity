@@ -3576,7 +3576,7 @@
         "<%sM_messageSettei>": ""
     },
     "1193": {
-        "あと<%nM_Num>品": "<%nM_Num> Left"
+        "あと<%nM_Num>品": "<%dM_Num> Left"
     },
     "1194": {
         "clarity_nt_char_1194": "clarity_nt_char_1194"
@@ -8415,7 +8415,7 @@
         "clarity_nt_char_2805": "clarity_nt_char_2805"
     },
     "2806": {
-        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": "<%3dM_CW_hh>:<%2dM_CW_mm> Left"
+        "残<%3dM_CW_hh>時<%2dM_CW_mm>分": "<%3dM_CW_hh>:<%02dM_CW_mm> Left"
     },
     "2807": {
         "バトルコマンド設定": "Battle Commands"
@@ -12498,7 +12498,7 @@
         "clarity_nt_char_4166": "clarity_nt_char_4166"
     },
     "4167": {
-        "あと<%nM_nnn>個": "<%nM_nnn> Left"
+        "あと<%nM_nnn>個": "<%dM_nnn> Left"
     },
     "4168": {
         "clarity_nt_char_4168": "clarity_nt_char_4168"
@@ -28350,7 +28350,7 @@
         "カード確認": ""
     },
     "9451": {
-        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%nM_00> Left)"
+        "どの数字を消す？（のこり<%nM_00>こ）": "Erase which number? (<%dM_00> Left)"
     },
     "9452": {
         "clarity_nt_char_9452": "clarity_nt_char_9452"
@@ -28557,7 +28557,7 @@
         "Lv<%3dM_nn>": ""
     },
     "9520": {
-        "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh>h<%2dM_mm>m left"
+        "残<%3dM_hh>時<%2dM_mm>分": "<%3dM_hh>h <%2dM_mm>m Left"
     },
     "9521": {
         "選んだ職業に反映する": "Choose Target Job"
