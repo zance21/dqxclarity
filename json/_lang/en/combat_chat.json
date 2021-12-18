@@ -33219,10 +33219,10 @@
         "clarity_nt_char_11073": "clarity_nt_char_11073"
     },
     "11074": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダークフォースの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダークフォースの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Funereal Fource effect was extended!"
     },
     "11075": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ライトフォースの 効果時間延長！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ライトフォースの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Life Fource effect was extended!"
     },
     "11076": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 身かわし率アップの 効果時間延長！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dodge rate up effect time extended!"
