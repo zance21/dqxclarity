@@ -2727,7 +2727,7 @@
         "clarity_nt_char_909": "clarity_nt_char_909"
     },
     "910": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>をはいた！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>をはいた！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e gained <%sB_ACTION>!"
     },
     "911": {
         "clarity_nt_char_911": "clarity_nt_char_911"
@@ -26175,7 +26175,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 行動時に たまにテンションがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension rose after using an action!"
     },
     "8726": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは コトブキーノと戦闘時 陽の試練壱・陽炎が出現！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは コトブキーノと戦闘時 陽の試練壱・陽炎が出現！": "Yang Trial I - Heat Haze appeared in the Kotobukino battle!"
     },
     "8727": {
         "clarity_nt_char_8727": "clarity_nt_char_8727"
