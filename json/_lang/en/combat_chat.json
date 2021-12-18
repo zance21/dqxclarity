@@ -28053,25 +28053,25 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 キラキラポーンの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Snap Crackle Poof effect faded!"
     },
     "9352": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ファイアフォースの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ファイアフォースの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Fire Fource faded!"
     },
     "9353": {
         "clarity_nt_char_9353": "clarity_nt_char_9353"
     },
     "9354": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 アイスフォースの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 アイスフォースの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Frost Fource faded!"
     },
     "9355": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ストームフォースの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ストームフォースの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Gale Fource faded!"
     },
     "9356": {
         "clarity_nt_char_9356": "clarity_nt_char_9356"
     },
     "9357": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ダークフォースの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ダークフォースの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Funereal Fource faded!"
     },
     "9358": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ライトフォースの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ライトフォースの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's battle start Life Fource faded!"
     },
     "9359": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 開戦時 ピオラの効果が きえた！": ""
@@ -32226,7 +32226,7 @@
         "開戦時ファイアフォース|の効果がきえた": ""
     },
     "10743": {
-        "開戦時アイスフォースの|効果がきえた": ""
+        "開戦時アイスフォースの|効果がきえた": "Battle start Frost|Fource faded."
     },
     "10744": {
         "clarity_nt_char_10744": "clarity_nt_char_10744"
@@ -33756,25 +33756,25 @@
         "clarity_nt_char_11252": "clarity_nt_char_11252"
     },
     "11253": {
-        "ファイアフォースの|効果時間延長！": ""
+        "ファイアフォースの|効果時間延長！": "Fire Fource|effect extended!"
     },
     "11254": {
-        "アイスフォースの|効果時間延長！": ""
+        "アイスフォースの|効果時間延長！": "Frost Fource|effect extended!"
     },
     "11255": {
         "clarity_nt_char_11255": "clarity_nt_char_11255"
     },
     "11256": {
-        "ストームフォースの|効果時間延長！": ""
+        "ストームフォースの|効果時間延長！": "Gale Fource|effect extended!"
     },
     "11257": {
-        "ダークフォースの|効果時間延長！": ""
+        "ダークフォースの|効果時間延長！": "Funereal Fource|effect extended!"
     },
     "11258": {
         "clarity_nt_char_11258": "clarity_nt_char_11258"
     },
     "11259": {
-        "ライトフォースの|効果時間延長！": ""
+        "ライトフォースの|効果時間延長！": "Life Fource|effect extended!"
     },
     "11260": {
         "clarity_nt_char_11260": "clarity_nt_char_11260"
