@@ -9897,10 +9897,10 @@
         "clarity_nt_char_3299": "clarity_nt_char_3299"
     },
     "3300": {
-        "<speed=0>|源世の恵みが　ありません！": "<speed=0>|There are no Origin Blessings!"
+        "<speed=0>|源世の恵みが　ありません！": "<speed=0>|You have no Origin Blessings!"
     },
     "3301": {
-        "<speed=0>|収集品が　何もない！": ""
+        "<speed=0>|収集品が　何もない！": "<speed=0>|You don't have anything!"
     },
     "3302": {
         "clarity_nt_char_3302": "clarity_nt_char_3302"
