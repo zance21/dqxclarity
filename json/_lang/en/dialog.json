@@ -2625,7 +2625,7 @@
         "clarity_nt_char_875": "clarity_nt_char_875"
     },
     "876": {
-        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<center><color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go now?<break>"
+        "<center><color_yellow>※酒場登録に　失敗しました。<color_white>|おつかれさまでした。|このあとは　どこに戻りますか？<break>": "<color_yellow>*Failed to register at the tavern.<color_white>|Thank you for playing!|Where would you like to go now?<break>"
     },
     "877": {
         "この絵葉書の　写真を|思い出アルバムに　コピーしますか？|<yesno><close>": "Copy the photo on this postcard to|your Photo Album?|<yesno><close>"
@@ -4245,13 +4245,13 @@
         "clarity_nt_char_1415": "clarity_nt_char_1415"
     },
     "1416": {
-        "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Friends Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『フレンドのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered at the tavern as <color_yellow>\"Friends Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1417": {
-        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered as <color_yellow>\"Friends/Team Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『フレンドとチームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered as <color_yellow>\"Friends/Team Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1418": {
-        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "<center>Thank you for playing!|Registered at the tavern as <color_yellow>\"Team Only\"<color_white>.|Where would you like to go now?<break>"
+        "<center>おつかれさまでした。|<color_yellow>『チームのみ』<color_white>で酒場登録しました。|このあとは　どこに戻りますか？<break>": "Thank you for playing!|Registered at the tavern as <color_yellow>\"Team Only\"<color_white>.|Where would you like to go now?<break>"
     },
     "1419": {
         "clarity_nt_char_1419": "clarity_nt_char_1419"
