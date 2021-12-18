@@ -23130,7 +23130,7 @@
         "開戦時|キラキラポーン": "Battle start Snap|Crackle Poof."
     },
     "7711": {
-        "開戦時|ファイアフォース": ""
+        "開戦時|ファイアフォース": "Battle start|Fire Fource."
     },
     "7712": {
         "clarity_nt_char_7712": "clarity_nt_char_7712"
@@ -25152,7 +25152,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 キラキラポーンがかかるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e had a battle start Snap Crackle Poof applied!"
     },
     "8385": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 ファイアフォースがかかるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 ファイアフォースがかかるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e now gains Fire Fource at battle start!"
     },
     "8386": {
         "clarity_nt_char_8386": "clarity_nt_char_8386"
@@ -27567,7 +27567,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 明鏡止水のＨＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Clarion Mind HP recovery ended!"
     },
     "9190": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ファイアフォースが とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ファイアフォースが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fire Fource faded!"
     },
     "9191": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの アイスフォースが とけた！": ""
@@ -31749,7 +31749,7 @@
         "明鏡止水の|ＨＰ回復がおわった": "Clarion Mind's HP|recovery ended."
     },
     "10584": {
-        "ファイアフォースが|とけた": ""
+        "ファイアフォースが|とけた": "Fire Fource faded."
     },
     "10585": {
         "アイスフォースが|とけた": ""
@@ -32223,7 +32223,7 @@
         "clarity_nt_char_10741": "clarity_nt_char_10741"
     },
     "10742": {
-        "開戦時ファイアフォース|の効果がきえた": ""
+        "開戦時ファイアフォース|の効果がきえた": "Battle start Fire|Fource faded."
     },
     "10743": {
         "開戦時アイスフォースの|効果がきえた": "Battle start Frost|Fource faded."
