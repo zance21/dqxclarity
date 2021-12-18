@@ -18984,7 +18984,7 @@
         "いない": ""
     },
     "6329": {
-        "後<%'nM_test6>個": "<%'nM_test6> Left"
+        "後<%'nM_test6>個": "<%'dM_test6> Left"
     },
     "6330": {
         "clarity_nt_char_6330": "clarity_nt_char_6330"
@@ -28422,13 +28422,13 @@
         "地図を見る": "View Map"
     },
     "9475": {
-        "どのカードを交換する？（のこり<%nM_00>枚）": "Exchange which card? (<%nM_00> left)"
+        "どのカードを交換する？（のこり<%nM_00>枚）": "Exchange which card? (<%dM_00> left)"
     },
     "9476": {
-        "どのカードを渡す？（のこり<%nM_00>枚）": "Give which card? (<%nM_00> left)"
+        "どのカードを渡す？（のこり<%nM_00>枚）": "Give which card? (<%dM_00> left)"
     },
     "9477": {
-        "どのカードを捨てる？（のこり<%nM_00>枚）": "Toss which card? (<%nM_00> left)"
+        "どのカードを捨てる？（のこり<%nM_00>枚）": "Toss which card? (<%dM_00> left)"
     },
     "9478": {
         "clarity_nt_char_9478": "clarity_nt_char_9478"
