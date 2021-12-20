@@ -35748,7 +35748,7 @@
         "<%sB_TARGET>は 覇道の気合を 奮い立たせた！！": ""
     },
     "11917": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 覇道の気合を 奮い立たせた！！|与えるダメージが アップした！|うける物理ダメージが 少なくなった！|ドラゴンビート状態になった！|ターンを消費しにくくなった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 覇道の気合を 奮い立たせた！！|与えるダメージが アップした！|うける物理ダメージが 少なくなった！|ドラゴンビート状態になった！|ターンを消費しにくくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was inspired by supreme spirit!!|Damage dealt is increased!|Physical damage taken slightly reduced!|Entered Fuel for the Fire state!|Now less likely to consume a turn!"
     },
     "11918": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 羅刹王の覇道が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fiend's Mastery faded!"
