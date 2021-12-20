@@ -1599,13 +1599,13 @@
         "毛皮に包まれた氷は　今にも　すべて解けそうです！！": ""
     },
     "534": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました": "Sword Gate 1st Prison invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・一獄の戦いに誘われました": "Sword Gate Prison I invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "535": {
         "clarity_nt_char_535": "clarity_nt_char_535"
     },
     "536": {
-        "封剣の門・一獄の誘いが取り消されました": "Sword Gate 1st Prison invite was cancelled."
+        "封剣の門・一獄の誘いが取り消されました": "Sword Gate Prison I invite was cancelled."
     },
     "537": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・二獄の戦いに誘われました": "Sword Gate Prison II invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
@@ -1626,13 +1626,13 @@
         "封剣の門・三獄の誘いが取り消されました": "Sword Gate Prison III invitation cancelled."
     },
     "543": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから 封剣の門・四獄の戦いに誘われました": "Sword Gate Prison IV invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "544": {
         "clarity_nt_char_544": "clarity_nt_char_544"
     },
     "545": {
-        "封剣の門・四獄の誘いが取り消されました": ""
+        "封剣の門・四獄の誘いが取り消されました": "Sword Gate Prison IV invitation cancelled."
     },
     "546": {
         "掘り出したお宝があと<%dC_N1>分で消えてしまいます": ""
