@@ -5487,7 +5487,7 @@
         "<speed=0>|あなたが　仲間にしたい職業と|<%sM_pc>が　なりたい職業が一致しないので|<%sM_pc>を　なかまに　さそえませんでした。": ""
     },
     "1830": {
-        "<speed=0>この同盟バトルに参加するための|条件を　サポート仲間が満たしていません。|もう一度　条件を確認してください。　": ""
+        "<speed=0>この同盟バトルに参加するための|条件を　サポート仲間が満たしていません。|もう一度　条件を確認してください。　": "<speed=0>Your support party members do not meet the|requirements for this alliance battle.|Please check them again."
     },
     "1831": {
         "clarity_nt_char_1831": "clarity_nt_char_1831"
