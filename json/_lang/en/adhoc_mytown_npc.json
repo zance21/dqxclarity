@@ -420,13 +420,13 @@
         "「探したい　マイタウンＩＤを|　入力してちょうだい。|<break>": "I want to find it. Just enter your Mytown|ID...<break>"
     },
     "141": {
-        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してるわ。|<break>": "View MyTown for <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してるわ。|<break>": "<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2> My Town is being displayed.|<break>"
     },
     "142": {
         "「じゃあ　移動するわよ。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Okay, let's move... Cadet... Ninwutimer!<break>"
     },
     "143": {
-        "「探したい　マイタウン名を|　入力してちょうだい。|<break>": "Just type in the name of the Mytown you're|looking for and we'll...<break>"
+        "「探したい　マイタウン名を|　入力してちょうだい。|<break>": "Please enter the name of the My Town you want|to search for.|<break>"
     },
     "144": {
         "「<%sL_MYTOWN_NAME>という名前で|　登録しているマイタウンは　これだけあるわ。|　どのマイタウンへ　移動したいのかしら？|<break>": "This is the only MyTown I have registered|under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"
