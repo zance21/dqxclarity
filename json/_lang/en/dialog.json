@@ -5592,7 +5592,7 @@
         "clarity_nt_char_1864": "clarity_nt_char_1864"
     },
     "1865": {
-        "<speed=0>この同盟バトルに参加するためには|仲間モンスターを　待機状態にする|必要があります。": ""
+        "<speed=0>この同盟バトルに参加するためには|仲間モンスターを　待機状態にする|必要があります。": "<speed=0>In order to participate in this alliance|battle, you must first put your fellow|monster on standby."
     },
     "1866": {
         "<speed=0>「マイコーデ<%nM_00>」に|コーデ名称を　設定してください。": ""
@@ -5634,7 +5634,7 @@
         "<speed=0>|この場所では　マイコーデに登録できません！": ""
     },
     "1879": {
-        "<speed=0>この同盟バトルに参加する場合|下にある「条件付きバトルに挑む」を|選択してください": ""
+        "<speed=0>この同盟バトルに参加する場合|下にある「条件付きバトルに挑む」を|選択してください": "<speed=0>To participate in this alliance battle, please|select \"Challenge Conditional Battle\"."
     },
     "1880": {
         "clarity_nt_char_1880": "clarity_nt_char_1880"
