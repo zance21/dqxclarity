@@ -102,7 +102,7 @@
         "「おい　ウマのホネ！|　お前に　頼みがある！": "Hey, drifter!|I need you to do something for me!"
     },
     "35": {
-        "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": "My daughter, Lyriol, is dying of Melazo Fever.|I need you to alchemize a drug that will cure|her!"
+        "「メラゾ熱にかかって　死にかけてる　オレの娘|　……リリオルを　治すクスリを|　お前に　錬金してもらいてえんだ！": "My daughter, Lyriol, is dying of Mellazo|Fever. I need you to alchemize a cure for her!"
     },
     "36": {
         "「さあっ　こいつを　受け取ってくれ！": "Now, take this!"
@@ -111,7 +111,7 @@
         "「テキスト削除": "text deletion"
     },
     "38": {
-        "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> received the Melazo Fever Cure|Recipe!<me 60>"
+        "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> received the Mellazo Fever Cure|Recipe!<me 60>"
     },
     "39": {
         "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。|　オレが　素材集めなんか手伝わせたばっかりに|　リリオルを　こんな目に　あわせちまった……。": "Mellazo Fever is a horrible disease from long|ago. I got Lyriol into this mess because I|asked her to gather materials for me..."
