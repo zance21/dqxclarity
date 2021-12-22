@@ -249,10 +249,10 @@
         "「……おもしろくねえが　しょうがねえ！|　うちに　置いてやってもいいが　ちゃんと|　オレの言うことを　聞くんだぞ！　宿ナシ！": "...I don't like it, but it can't be helped!|If you're staying here, then you answer to me!|Got it, hobo?!"
     },
     "84": {
-        "「……いや　待てよ。|　住む家が　決まっちまったとなると|　お前のこと　もう　宿ナシとは呼べねえな……。": "... No... Now that you've found a place to|live, I can't call you a homeless person|anymore..."
+        "「……いや　待てよ。|　住む家が　決まっちまったとなると|　お前のこと　もう　宿ナシとは呼べねえな……。": "...No, wait. If you're living here now, I can't call you \"hobo\" anymore..."
     },
     "85": {
-        "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": "... Yes! From now on, I'll call you Thoreau."
+        "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": "...Right!|From now on, I'll call you <if_woman>Ms.<else>Mr.<endif> freeloader!"
     },
     "86": {
         "「ありがとう　お父さん！|　お父さんなら　きっと|　賛成してくれると思ったわ<heart>": "Thank you, Dad! I knew you'd agree with me.<heart>"
