@@ -37653,7 +37653,7 @@
         "clarity_nt_char_12551": "clarity_nt_char_12551"
     },
     "12552": {
-        "範囲内の敵を|マヒさせる": ""
+        "範囲内の敵を|マヒさせる": "Paralyzes nearby|enemies."
     },
     "12553": {
         "clarity_nt_char_12553": "clarity_nt_char_12553"
@@ -37662,22 +37662,22 @@
         "選んだ味方に|死霊が付き従い|ダメージ軽減効果": "Your spirit|protects an ally,|reducing damage."
     },
     "12555": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 守備力が とてつもなくあがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 守備力が とてつもなくあがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense increased tremendously!"
     },
     "12556": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 少しずつ ＭＰが回復する！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 少しずつ ＭＰが回復する！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is recovering MP over time from Linashe's song!"
     },
     "12557": {
         "clarity_nt_char_12557": "clarity_nt_char_12557"
     },
     "12558": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ回復が おわった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ回復が おわった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's MP recovery ended!"
     },
     "12559": {
         "clarity_nt_char_12559": "clarity_nt_char_12559"
     },
     "12560": {
-        "しゅびりょくが|とてつもなくあがった！": ""
+        "しゅびりょくが|とてつもなくあがった！": "Defense has increased|tremendously!"
     },
     "12561": {
         "リナーシェの歌で|ＭＰが少しずつ回復！": "MP recovery over time|from Linashe's song!"
