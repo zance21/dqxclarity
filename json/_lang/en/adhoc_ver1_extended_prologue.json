@@ -252,7 +252,7 @@
         "「……いや　待てよ。|　住む家が　決まっちまったとなると|　お前のこと　もう　宿ナシとは呼べねえな……。": "...No, wait. If you're living here now, I can't call you \"hobo\" anymore..."
     },
     "85": {
-        "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": "...Right!|From now on, I'll call you <if_woman>Ms.<else>Mr.<endif> freeloader!"
+        "「……よし！|　これから　お前のことは|　イソーローと　呼ばせてもらうぜ！": "...Right!|From now on, I'll call you freeloader!"
     },
     "86": {
         "「ありがとう　お父さん！|　お父さんなら　きっと|　賛成してくれると思ったわ<heart>": "Thank you, Dad! I knew you'd agree with me.<heart>"
