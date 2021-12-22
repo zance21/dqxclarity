@@ -32295,7 +32295,7 @@
         "ゆめみの金箱出現効果が|きえた": ""
     },
     "10766": {
-        "ゆめみの箱の|わりびきがきえた": ""
+        "ゆめみの箱の|わりびきがきえた": "Dream Box discount|faded."
     },
     "10767": {
         "開戦時テンションアップ|の効果がきえた": "Tension Up on attack|effect faded."
@@ -32370,7 +32370,7 @@
         "ダメージアップの|効果がきえた": "Damage dealt up|effect faded."
     },
     "10791": {
-        "ゆめみの箱の出現数が|もとにもどった": ""
+        "ゆめみの箱の出現数が|もとにもどった": "Number of Dream Boxes|returned to normal."
     },
     "10792": {
         "clarity_nt_char_10792": "clarity_nt_char_10792"
@@ -34257,7 +34257,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 移動速度を かなり さげた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's movement speed decreased by a lot!"
     },
     "11420": {
-        "ゆめみの箱ドロップ率1.0倍": ""
+        "ゆめみの箱ドロップ率1.0倍": "Dream Box Drop|Rate 1.0x"
     },
     "11421": {
         "clarity_nt_char_11421": "clarity_nt_char_11421"
@@ -34266,7 +34266,7 @@
         "迷宮の主の部屋の前に|ゆめみの金箱2つ出現": ""
     },
     "11423": {
-        "ゆめみの箱|輝き消費-50%": ""
+        "ゆめみの箱|輝き消費-50%": "Dream Box Spark|Consumption -50%"
     },
     "11424": {
         "clarity_nt_char_11424": "clarity_nt_char_11424"
@@ -34368,7 +34368,7 @@
         "clarity_nt_char_11456": "clarity_nt_char_11456"
     },
     "11457": {
-        "ゆめみの箱|ドロップ率1.5倍": ""
+        "ゆめみの箱|ドロップ率1.5倍": "Dream Box Drop|Rate 1.5x!"
     },
     "11458": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダイバースーツが 直るまで動けない！": ""
