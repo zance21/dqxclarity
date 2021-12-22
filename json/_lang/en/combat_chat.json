@@ -37032,7 +37032,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは 黒い炎を呼び出した！": ""
     },
     "12345": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 会心と呪文ぼうそう率がアップ！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 会心と呪文ぼうそう率がアップ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell haywire rate up from Linashe's song!"
     },
     "12346": {
         "clarity_nt_char_12346": "clarity_nt_char_12346"
@@ -37044,7 +37044,7 @@
         "clarity_nt_char_12348": "clarity_nt_char_12348"
     },
     "12349": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 身動きが取れない！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは リナーシェの 歌のチカラで 身動きが取れない！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is unable to move due to Linashe's song!"
     },
     "12350": {
         "clarity_nt_char_12350": "clarity_nt_char_12350"
@@ -37641,7 +37641,7 @@
         "clarity_nt_char_12547": "clarity_nt_char_12547"
     },
     "12548": {
-        "メレアーデの力で|敵にうちこむ|光の一撃": ""
+        "メレアーデの力で|敵にうちこむ|光の一撃": "A blow of light|from Mereade's|power."
     },
     "12549": {
         "clarity_nt_char_12549": "clarity_nt_char_12549"
