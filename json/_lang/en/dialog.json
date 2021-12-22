@@ -219,7 +219,7 @@
         "clarity_nt_char_73": "clarity_nt_char_73"
     },
     "74": {
-        "<speed=0>ここで使える呪文を　覚えていない！": "<speed=0>I don't remember any spells we can use here!"
+        "<speed=0>ここで使える呪文を　覚えていない！": "<speed=0>You don't know any spells that can be used|here!"
     },
     "75": {
         "clarity_nt_char_75": "clarity_nt_char_75"
@@ -258,7 +258,7 @@
         "clarity_nt_char_86": "clarity_nt_char_86"
     },
     "87": {
-        "<speed=0>戦闘中の　じゅもんを　覚えていない！": "<speed=0>I don't remember any battle spells!"
+        "<speed=0>戦闘中の　じゅもんを　覚えていない！": "<speed=0>You don't know any battle spells!"
     },
     "88": {
         "<speed=0><%sM_action>は　<%sM_item_syurui>を|右手に装備していないと　使えない！": "<speed=0><%sM_action> won't work unless you have|<%sM_item_syurui> in your right hand!"
