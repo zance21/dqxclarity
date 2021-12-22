@@ -37266,13 +37266,13 @@
         "英雄を 評定中……まもなく評定完了……": ""
     },
     "12423": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの目が あやしく光る！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの目が あやしく光る！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's eyes lit up fiercely!"
     },
     "12424": {
         "clarity_nt_char_12424": "clarity_nt_char_12424"
     },
     "12425": {
-        "英雄を 再評定中……まもなく評定完了……": ""
+        "英雄を 再評定中……まもなく評定完了……": "Re-evaluating hero...please wait for completion..."
     },
     "12426": {
         "clarity_nt_char_12426": "clarity_nt_char_12426"
@@ -37281,7 +37281,7 @@
         "評価ランク・高！|戦闘力上昇！": "Evalutation Rank - High!|Increased power!"
     },
     "12428": {
-        "評価不能！|出力全開します！": ""
+        "評価不能！|出力全開します！": "Cannot evaluate!|Output at full power!"
     },
     "12429": {
         "clarity_nt_char_12429": "clarity_nt_char_12429"
