@@ -9183,7 +9183,7 @@
         "clarity_nt_char_3061": "clarity_nt_char_3061"
     },
     "3062": {
-        "ダメージバリア": ""
+        "ダメージバリア": "Damage Barrier"
     },
     "3063": {
         "ビリビリバリア": ""
@@ -27498,7 +27498,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの おいかぜが とけた！": ""
     },
     "9167": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージバリアの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージバリアの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage barrier effect faded!"
     },
     "9168": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの からだから どくが きえた！": ""
@@ -31662,7 +31662,7 @@
         "clarity_nt_char_10554": "clarity_nt_char_10554"
     },
     "10555": {
-        "ダメージバリアが|きえた": ""
+        "ダメージバリアが|きえた": "Damage barrier|faded."
     },
     "10556": {
         "clarity_nt_char_10556": "clarity_nt_char_10556"
