@@ -4839,7 +4839,7 @@
         "<speed=0>編集中の見た目を　記録しないで|終了します。": "<speed=0>Stopped without recording the edited|appearance."
     },
     "1614": {
-        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": ""
+        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": "<speed=0>\"Equipment View\" appearance was saved to a|glamour recipe."
     },
     "1615": {
         "clarity_nt_char_1615": "clarity_nt_char_1615"
@@ -9465,19 +9465,19 @@
         "clarity_nt_char_3155": "clarity_nt_char_3155"
     },
     "3156": {
-        "<speed=0>『美容院の姿見』の見た目を|記録しました。": ""
+        "<speed=0>『美容院の姿見』の見た目を|記録しました。": "<speed=0>\"Beauty Parlor View\" appearance was saved."
     },
     "3157": {
         "clarity_nt_char_3157": "clarity_nt_char_3157"
     },
     "3158": {
-        "<speed=0>『ドルボードの姿見』の見た目を|記録しました。": ""
+        "<speed=0>『ドルボードの姿見』の見た目を|記録しました。": "<speed=0>\"Dolboard Dresser\" appearance was saved."
     },
     "3159": {
         "clarity_nt_char_3159": "clarity_nt_char_3159"
     },
     "3160": {
-        "<speed=0>選んだ姿見の見た目を　記録しました。": ""
+        "<speed=0>選んだ姿見の見た目を　記録しました。": "<speed=0>The chosen appearances were saved."
     },
     "3161": {
         "<speed=0>このマッチングに参加するには|偽りのワルド水源にいる　オーダンに話しかけて|説明を聞く必要が　あります。": ""
@@ -9522,7 +9522,7 @@
         "clarity_nt_char_3174": "clarity_nt_char_3174"
     },
     "3175": {
-        "<speed=0>編集中の見た目を　すべて記録しました。": ""
+        "<speed=0>編集中の見た目を　すべて記録しました。": "<speed=0>All edited appearances have been saved."
     },
     "3176": {
         "clarity_nt_char_3176": "clarity_nt_char_3176"
