@@ -639,7 +639,7 @@
         "「……なら　旅の無事　神に祈れ。|<br>|「オマエが　チカラ尽きた時の復活場所。|　<%sL_HUKKATU_POINT><%dL_TYOUME_NO1><%sL_TYOUME1>の教会から|　オレの前に変更して　いいか？|<yesno><break>": "... So, safe travels, God... When you run out|of energy... <Can we change the church from|the one in front of you to the one in front|<br>|of me?<yesno><break>"
     },
     "214": {
-        "「どの　ルーラストーンに|　この場所を　記憶させるか？|<break>": "Which rouleus stone will remember this place?<break>"
+        "「どの　ルーラストーンに|　この場所を　記憶させるか？|<break>": "Register which Zoomstone to this place?<break>"
     },
     "215": {
         "「そのルーラストーンの記憶場所|　<%sM_rurastone1><%sM_dot1><%sM_sub1>から|　<%sM_rurastone><%sM_dot><%sM_sub>に　変えるか？|<yesno><break>": "Would you change the memory location of that|rurastone from|<%sM_rurastone1><%sM_dot1><%sM_sub1> to|<br>|<%sM_rurastone><%sM_dot><%sM_sub>?<yesno><break>"
