@@ -4839,7 +4839,7 @@
         "<speed=0>編集中の見た目を　記録しないで|終了します。": "<speed=0>Stopped without recording the edited|appearance."
     },
     "1614": {
-        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": "<speed=0>\"Equipment View\" appearance was saved to a|glamour recipe."
+        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しました。": "<speed=0>\"Equipment View\" appearance was saved as an|outfit."
     },
     "1615": {
         "clarity_nt_char_1615": "clarity_nt_char_1615"
@@ -4857,7 +4857,7 @@
         "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|条件を満たすには　真のグランゼドーラ王国で|受けられる　クエスト『悪夢の終焉』を|受ける必要があります。": ""
     },
     "1620": {
-        "<speed=0>|編集中の見た目が　上書きされますが|『装備の姿見』の見た目を|おしゃレシピに記録した状態に　戻しますか？|<yesno><close>": "<speed=0>|The appearance you are editing will be|overwritten. Revert the \"Equipment View\"|appearance to that of the glamour recipe?|<yesno><close>"
+        "<speed=0>|編集中の見た目が　上書きされますが|『装備の姿見』の見た目を|おしゃレシピに記録した状態に　戻しますか？|<yesno><close>": "<speed=0>|The appearance you are editing will be|overwritten. Revert the \"Equipment View\"|appearance to that of the saved outfit?|<yesno><close>"
     },
     "1621": {
         "<speed=0>選んでいる部位の装備だけ表示しますか？<yesno><close>": ""
