@@ -237,7 +237,7 @@
         "「はじめまして　<%sL_PC_NICK>さま。|　土地のご購入　おめでとうございます！|<br>|「今後　私どもが　<%sL_PC_NICK>さまの生活を|　心をこめて　お手伝いさせていただきますので|　きっと　ご満足いただけると思います。|<br>|「私は　この住宅村の管理を　まかされている|　管理人の　<%sL_MAID_NAME>と申します。|　今後　どうぞ　よろしくお願いいたします。|<br>|「では　<%sL_PC_NICK>さまが　晴れて|　地主になられた証として　この場所への|　ルーラストーンを　進呈させていただきます。|<br>|「このルーラストーンは　他の物とは違って|　記憶場所を　書きかえることが　できません。|　ご帰宅専用の　特別品になります。|<br>|「さあ　これから　<%sL_PC_NICK>さまは|　晴れて　レンダーヒルズの住人です。|　ここでの生活を　どうぞお楽しみください！|<end>": "Nice to meet you <%sL_PC_NICK...|Congratulations on your land purchase! I'm|sure you'll be very happy with the way we're|<br>|going to help you live your life... My name|is <%sL_MAID_NAME>, and I am the manager of|this residential village... I look forward to|<br>|working with you... As proof that you,|<%sL_PC_NICK>, are now a landowner, I would|like to present you with a rune stone to this|<br>|location. This rune stone is unlike any|other... in that it can be rewritten to|remember... It's a special gift for your|<br>|return... Now, you will be living in|Renderhills... I hope you enjoy your stay|here!<end>"
     },
     "80": {
-        "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 72><end>": "<%sL_PC_NICK> now has a Ruler Stone|specifically for this land!<me 72><end>"
+        "<%sL_PC_NICK>は　この土地専用の|ルーラストーンを　手に入れた！|<me 72><end>": "<%sL_PC_NICK> now has a Zoomstone|specifically for this plot!<me 72><end>"
     },
     "81": {
         "このアイテムは　使用できません。": "This item can be used..."
