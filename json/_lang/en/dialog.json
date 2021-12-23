@@ -9438,7 +9438,7 @@
         "<speed=0>|編集中の見た目が　上書きされますが|『美容院の姿見』の見た目を|記録した状態に　戻しますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to revert to the appearance currently|saved in the \"Beauty Parlor View\" screen?|<yesno><close>"
     },
     "3147": {
-        "<speed=0>『美容院の姿見』の見た目を|記録しますか？<yesno><close>": ""
+        "<speed=0>『美容院の姿見』の見た目を|記録しますか？<yesno><close>": "<speed=0>Save this current \"Beauty Parlor View\"|appearance?<yesno><close>"
     },
     "3148": {
         "clarity_nt_char_3148": "clarity_nt_char_3148"
@@ -9453,10 +9453,10 @@
         "<speed=0>|編集中の見た目が　上書きされますが|『ドルボードの姿見』の見た目を|記録した状態に　戻しますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to revert to the appearance currently|saved in the \"Dolboard Dresser\" screen?|<yesno><close>"
     },
     "3152": {
-        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分の姿を|『美容院の姿見』に　うつしますか？|<yesno><close>": ""
+        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分の姿を|『美容院の姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to change your appearance to that of the|\"Beauty Parlor View\" screen?|<yesno><close>"
     },
     "3153": {
-        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分のドルボードを|『ドルボードの姿見』に　うつしますか？|<yesno><close>": ""
+        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分のドルボードを|『ドルボードの姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to change your dolboard to that of the|\"Dolboard Dresser\" screen?|<yesno><close>"
     },
     "3154": {
         "<speed=0>何も　選択されていません。": ""
