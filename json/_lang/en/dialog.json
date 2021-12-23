@@ -4890,7 +4890,7 @@
         "新たな物語が　開始されています。|しばらく　このクエストは|リプレイすることができません！": ""
     },
     "1631": {
-        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しますか？<yesno><close>": ""
+        "<speed=0>『装備の姿見』の見た目を|おしゃレシピに記録しますか？<yesno><close>": "<speed=0>Save the current \"Equipment View\" as an|outfit?<yesno><close>"
     },
     "1632": {
         "clarity_nt_char_1632": "clarity_nt_char_1632"
@@ -9444,7 +9444,7 @@
         "clarity_nt_char_3148": "clarity_nt_char_3148"
     },
     "3149": {
-        "<speed=0>『ドルボードの姿見』の見た目を|記録しますか？<yesno><close>": ""
+        "<speed=0>『ドルボードの姿見』の見た目を|記録しますか？<yesno><close>": "<speed=0>Save this current \"Dolboard Dresser\"|appearance?<yesno><close>"
     },
     "3150": {
         "clarity_nt_char_3150": "clarity_nt_char_3150"
