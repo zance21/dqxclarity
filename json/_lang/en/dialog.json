@@ -1686,7 +1686,7 @@
         "<%sM_pc>は　同じチームのメンバーです。": "<%sM_pc> is already a member of your Team."
     },
     "563": {
-        "<%sM_pc>を　チームに　誘えません。|すでに　リクエストを送っています。": ""
+        "<%sM_pc>を　チームに　誘えません。|すでに　リクエストを送っています。": "<%sM_pc> couldn't be invited because|they've already been sent an invite request."
     },
     "564": {
         "<%sM_pc>は　別チームのため　誘えません。": "Couldn't invite <%sM_pc>.|They're already on a Team."
