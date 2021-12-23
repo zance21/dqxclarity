@@ -591,19 +591,19 @@
         "「む？　オマエ　この場所。|　記憶されたルーラストーン　持ってる。|<bw_break>": "Mm? You have Zoomstone registered|for this place.<bw_break>"
     },
     "198": {
-        "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "... I... Then think of your roula stone...<break>"
+        "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "Understood. Think hard about that Zoomstone...|<break>"
     },
     "199": {
-        "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
+        "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "Recording in the Adventure Log...|Please don't touch the power or reset button."
     },
     "200": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|stop|<select_end><break>"
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|Cancel|<select_end><break>"
     },
     "201": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|stop|<select_end><break>"
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|Cancel|<select_end><break>"
     },
     "202": {
-        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|stop|<select_end><break>"
+        "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|やめる|<select_end><break>": "<select>|<%sL_POINT_OR_SUB1>|<%sL_POINT_OR_SUB2>|<%sL_POINT_OR_SUB3>|<%sL_POINT_OR_SUB4>|Cancel|<select_end><break>"
     },
     "203": {
         "「……やめるか。|　他に　用事あるか？|<break>": "....No, then? Is there any other business|you have?|<break>"
@@ -747,7 +747,7 @@
         "「む？　オマエ　この場所。|　記憶されたルーラストーン　持ってる。|<bw_break>": "Mm? You have Zoomstone registered|for this place.<bw_break>"
     },
     "250": {
-        "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "... I... Then think of your roula stone...<break>"
+        "「……わかった。|　なら　そのルーラストーン　念じろ……。|<break>": "Understood. Think hard about that Zoomstone...|<break>"
     },
     "251": {
         "冒険の書に　記録しています……。|電源ボタンや　リセットボタンに|さわらないでください。|<break>": "I'm recording this in my adventure book... Do|not touch the power button or the reset|button...<break>"
