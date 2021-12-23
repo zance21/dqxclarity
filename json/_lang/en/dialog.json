@@ -5163,7 +5163,7 @@
         "clarity_nt_char_1721": "clarity_nt_char_1721"
     },
     "1722": {
-        "<speed=0>|編集中の見た目が　上書きされますが|装備している　装備品を|『装備の姿見』に　うつしますか？|<yesno><close>": "<speed=0>|Your current appearance will be overwritten.|Do you want to keep the equipment you have|equipped on the \"Equipment View\" screen?|<yesno><close>"
+        "<speed=0>|編集中の見た目が　上書きされますが|装備している　装備品を|『装備の姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This current appearance will be overwritten.|Do you want to keep the equipment you have|equipped on the \"Equipment View\" screen?|<yesno><close>"
     },
     "1723": {
         "<speed=0>|よく使うセリフの　しぐさ設定に|「表情」を　加えることができる|新たな機能が　追加されました！|<br>|いま　おぼえている　しぐさに対して|さらに表情を　設定することによって|また違った　しぐさを　楽しむことができます。|<br>|表情は「しぐさリスト」に　「表情リスト」を|設定しておくことで　いつでも表情を|変更することもできます。|<br>|しぐさに　様々な　表情を組み合わせて|ぜひ　自分好みの　しぐさに|カスタマイズしてみてください！": ""
@@ -5766,7 +5766,7 @@
         "clarity_nt_char_1922": "clarity_nt_char_1922"
     },
     "1923": {
-        "<speed=0>|編集中の見た目が　上書きされますが|着ているマイコーデと　武器盾を|『装備の姿見』に　うつしますか？|<yesno><close>": ""
+        "<speed=0>|編集中の見た目が　上書きされますが|着ているマイコーデと　武器盾を|『装備の姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to apply your current glamours to the|\"Equipment View\" screen?|<yesno><close>"
     },
     "1924": {
         "<speed=0>ここでは　『仲間募集中』の設定を|操作することはできません！": ""
