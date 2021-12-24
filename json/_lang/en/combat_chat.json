@@ -26529,7 +26529,7 @@
         "clarity_nt_char_8843": "clarity_nt_char_8843"
     },
     "8844": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance decreased slightly!"
     },
     "8845": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power decreased slightly!"
@@ -26937,7 +26937,7 @@
         "clarity_nt_char_8979": "clarity_nt_char_8979"
     },
     "8980": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文耐性が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell resistance increased slightly!"
     },
     "8981": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の威力が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spell power increased slightly!"
@@ -26949,7 +26949,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 呪文の回復力が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's recovery spell power increased by a little!"
     },
     "8984": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が 少し あがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 炎と氷の耐性が 少し あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's fire/light resistance increased slightly!"
     },
     "8985": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased slightly!"
@@ -35199,7 +35199,7 @@
         "周囲のＨＰを|２００～回復する|旅芸人専用特技": ""
     },
     "11734": {
-        "攻撃呪文耐性を|下げる３回攻撃|魔法使い専用特技": ""
+        "攻撃呪文耐性を|下げる３回攻撃|魔法使い専用特技": "Deals 3 attacks|and reduces|spell resistance."
     },
     "11735": {
         "clarity_nt_char_11735": "clarity_nt_char_11735"
