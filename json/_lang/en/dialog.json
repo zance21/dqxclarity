@@ -9456,7 +9456,7 @@
         "<speed=0>|編集中の見た目が　上書きされますが|今の　自分の姿を|『美容院の姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to change your appearance to that of the|\"Beauty Parlor View\" screen?|<yesno><close>"
     },
     "3153": {
-        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分のドルボードを|『ドルボードの姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Do you|want to change your dolboard to that of the|\"Dolboard Dresser\" screen?|<yesno><close>"
+        "<speed=0>|編集中の見た目が　上書きされますが|今の　自分のドルボードを|『ドルボードの姿見』に　うつしますか？|<yesno><close>": "<speed=0>|This appearance will be overwritten. Apply|your current dolboard appearance to the|\"Dolboard Dresser\" screen?|<yesno><close>"
     },
     "3154": {
         "<speed=0>何も　選択されていません。": ""
