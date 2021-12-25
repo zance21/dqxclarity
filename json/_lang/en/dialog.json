@@ -8082,7 +8082,7 @@
         "clarity_nt_char_2694": "clarity_nt_char_2694"
     },
     "2695": {
-        "<speed=0>|これ以上　なかまに誘うことは　できません！": ""
+        "<speed=0>|これ以上　なかまに誘うことは　できません！": "<speed=0>|Can't invite any more party members!"
     },
     "2696": {
         "仲間": "Member"
@@ -8091,7 +8091,7 @@
         "clarity_nt_char_2697": "clarity_nt_char_2697"
     },
     "2698": {
-        "競走相手": ""
+        "競走相手": "Competitor"
     },
     "2699": {
         "clarity_nt_char_2699": "clarity_nt_char_2699"
