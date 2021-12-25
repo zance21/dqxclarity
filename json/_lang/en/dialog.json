@@ -8235,10 +8235,10 @@
         "clarity_nt_char_2745": "clarity_nt_char_2745"
     },
     "2746": {
-        "謎解き開始日時について": "Captured & Neutralized"
+        "謎解き開始日時について": "About Start Date & Time"
     },
     "2747": {
-        "<speed=0>近くに　誰もいないため|指定できません。": ""
+        "<speed=0>近くに　誰もいないため|指定できません。": "<speed=0>Cannot specify since there is no one nearby."
     },
     "2748": {
         "<speed=0>指定できる最大値に　達したため|これ以上　指定できません。|<br>|新たに　指定する場合は|「指定した冒険者を確認する」で|指定した冒険者を　整理してください。": ""
