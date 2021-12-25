@@ -8766,7 +8766,7 @@
         "clarity_nt_char_2922": "clarity_nt_char_2922"
     },
     "2923": {
-        "<speed=0>デスパワーが足りないので　使用できない！": ""
+        "<speed=0>デスパワーが足りないので　使用できない！": "<speed=0>Not enough Death Power to execute!"
     },
     "2924": {
         "自分の|ついてクンだけ|音を再生します": "Play only|your own|pet's sounds."
@@ -8793,7 +8793,7 @@
         "<speed=0>死霊を召喚していないため　使用できない！": ""
     },
     "2932": {
-        "<speed=0>デスパワーが　溜まっていません！": ""
+        "<speed=0>デスパワーが　溜まっていません！": "<speed=0>No Death Power is stored!"
     },
     "2933": {
         "<speed=0>反転できる　効果がありません！": ""
