@@ -26280,25 +26280,25 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 死霊の導き効果で 呪文でうけるダメージが 少なくなった！": ""
     },
     "8761": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 1段階溜まった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 1段階溜まった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power reached 1 level!"
     },
     "8762": {
         "clarity_nt_char_8762": "clarity_nt_char_8762"
     },
     "8763": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 2段階溜まった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 2段階溜まった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power reached 2 levels!"
     },
     "8764": {
         "clarity_nt_char_8764": "clarity_nt_char_8764"
     },
     "8765": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 3段階溜まった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 3段階溜まった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power reached 3 levels!"
     },
     "8766": {
         "clarity_nt_char_8766": "clarity_nt_char_8766"
     },
     "8767": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 最大まで溜まった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 最大まで溜まった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power is maxed out!"
     },
     "8768": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 一定時間 やいばのぼうぎょ効果がついた！": ""
@@ -26337,7 +26337,7 @@
         "clarity_nt_char_8779": "clarity_nt_char_8779"
     },
     "8780": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 行動時に たまにデスパワーがあがるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 行動時に たまにデスパワーがあがるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will sometimes gain Death Power after an action!"
     },
     "8781": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eが デスパワーを吸い取った！": ""
@@ -26352,19 +26352,19 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 紅蓮の波動を発生させるようになった！": ""
     },
     "8785": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 1段階になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 1段階になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power lowered 1 level!"
     },
     "8786": {
         "clarity_nt_char_8786": "clarity_nt_char_8786"
     },
     "8787": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 2段階になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 2段階になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power lowered 2 levels!"
     },
     "8788": {
         "clarity_nt_char_8788": "clarity_nt_char_8788"
     },
     "8789": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 3段階になった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの デスパワーが 3段階になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power lowered 3 levels!"
     },
     "8790": {
         "clarity_nt_char_8790": "clarity_nt_char_8790"
@@ -28770,7 +28770,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージアップと ダメージ軽減の効果が きえた！": ""
     },
     "9591": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 行動時 たまにデスパワーがあがる効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 行動時 たまにデスパワーがあがる効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Death Power after an action chance effect faded!"
     },
     "9592": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 紅蓮の波動が おさまった！": ""
