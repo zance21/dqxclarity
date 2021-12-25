@@ -8061,10 +8061,10 @@
         "クラブごとの|勝ち点の順位": "Ranking of points|per club."
     },
     "2688": {
-        "<speed=0>|すべての　宝珠レベルをリセットします。|リセットする方法を　選んでください|決定すると　リセットを行います。|<select_se_off>|レベル０にリセット|レベル１にリセット|やめる|<select_end>|<close>": ""
+        "<speed=0>|すべての　宝珠レベルをリセットします。|リセットする方法を　選んでください|決定すると　リセットを行います。|<select_se_off>|レベル０にリセット|レベル１にリセット|やめる|<select_end>|<close>": "<speed=0>|All Jewel Levels will be reset. Please|select the type of reset you wish to perform.|<select_se_off>|Reset to Level 0|Reset to Level 1|Cancel|<select_end>|<close>"
     },
     "2689": {
-        "<speed=0>|すでに　宝珠レベルは　リセットされています。": ""
+        "<speed=0>|すでに　宝珠レベルは　リセットされています。": "<speed=0>|Jewel Level has already been reset."
     },
     "2690": {
         "clarity_nt_char_2690": "clarity_nt_char_2690"
