@@ -9075,7 +9075,7 @@
         "<speed=0>|選択した職業に　現在の　ふりわけを|上書きして反映しました！|<color_yellow>※職業専用の宝珠は　反映されません。": ""
     },
     "3026": {
-        "<speed=0>|現在の　宝珠レベルの　ふりわけを|選択した職業に　上書きして反映します。|よろしいですか？|<yesno 2><close>": ""
+        "<speed=0>|現在の　宝珠レベルの　ふりわけを|選択した職業に　上書きして反映します。|よろしいですか？|<yesno 2><close>": "<speed=0>|The selected vocation will have your current|Jewel Level applied to it. Is this okay?|<yesno 2><close>"
     },
     "3027": {
         "clarity_nt_char_3027": "clarity_nt_char_3027"
