@@ -25596,7 +25596,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは チャンス技が使えるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Chance command is now usable!"
     },
     "8533": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 感電して 周囲にダメージを 与えるようになった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 感電して 周囲にダメージを 与えるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is electrocuted and damaging those nearby!"
     },
     "8534": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ゴールドシャワーの威力が アップした！": ""
