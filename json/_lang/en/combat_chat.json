@@ -28629,7 +28629,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 盟友の盾が とけた！": ""
     },
     "9544": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが もとにもどった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが もとにもどった。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's max HP returned to normal."
     },
     "9545": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 姿が もとにもどった。": ""
@@ -35721,7 +35721,7 @@
         "clarity_nt_char_11907": "clarity_nt_char_11907"
     },
     "11908": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが さがった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 最大ＨＰが さがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's max HP decreased!"
     },
     "11909": {
         "clarity_nt_char_11909": "clarity_nt_char_11909"
