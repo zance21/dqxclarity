@@ -3480,7 +3480,7 @@
         "闇の魔力が 爆発した！": ""
     },
     "1161": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e’s present box is opened!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eの プレゼントボックスが 開封される！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e's present box is opened!"
     },
     "1162": {
         "clarity_nt_char_1162": "clarity_nt_char_1162"
@@ -26955,7 +26955,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が 少し ふえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased slightly!"
     },
     "8986": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e’s Attack increased by a lot!"
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの こうげき力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Attack increased by a lot!"
     },
     "8987": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの しゅび力が かなり あがった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's defense increased by a lot!"
