@@ -2727,7 +2727,7 @@
         "<%sM_TOKEN>を <%dM_NUM><%sM_UNIT> 手に入れた！": ""
     },
     "910": {
-        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>が 復活した！": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> was revived!"
+        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>が 復活した！": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> returns to life!"
     },
     "911": {
         "clarity_nt_char_911": "clarity_nt_char_911"
