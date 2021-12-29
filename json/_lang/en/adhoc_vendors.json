@@ -246,7 +246,7 @@
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is now <%nL_BUY_PRICE>|gold... Are you sure?<yesno><break>"
     },
     "83": {
-        "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>ゴールドに　なりますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>... <%nL_BUY_PRICE>in|gold, if you don't mind.<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>ゴールドに　なりますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|<yesno><break>"
     },
     "84": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "I'd like to buy <%sL_KAITAI_ITEM> in|<%nL_KAUKAZU>... I'd like to combine|<%nL_BUY_PRICE> gold, if that's okay.<yesno><break>"
