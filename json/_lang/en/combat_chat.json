@@ -4260,7 +4260,7 @@
         "clarity_nt_char_1420": "clarity_nt_char_1420"
     },
     "1421": {
-        "<%sB_ACTOR>は アクロバットスターに なった！": ""
+        "<%sB_ACTOR>は アクロバットスターに なった！": "<%sB_ACTOR> did the Rough 'n' Tumble!"
     },
     "1422": {
         "clarity_nt_char_1422": "clarity_nt_char_1422"
@@ -8505,7 +8505,7 @@
         "clarity_nt_char_2835": "clarity_nt_char_2835"
     },
     "2836": {
-        "アクロバットスター": "Acrobat Star"
+        "アクロバットスター": "Rough 'n' Tumble"
     },
     "2837": {
         "妖精たちのポルカ": "Brownie Boost"
@@ -27624,7 +27624,7 @@
         "clarity_nt_char_9208": "clarity_nt_char_9208"
     },
     "9209": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの アクロバットスターが とけた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの アクロバットスターが とけた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Rough 'n' Tumble faded!"
     },
     "9210": {
         "clarity_nt_char_9210": "clarity_nt_char_9210"
