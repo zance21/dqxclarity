@@ -729,13 +729,13 @@
         "「わかったわ。今は　特訓中みたいだけど|　冒険を中断して　サポート仲間に登録するのね。|<br>|「サポート仲間に登録したら|　冒険を中断してもらうことになるけど|　登録をしても　いいかしら？|<yesno><break>": "I don't know. I know you're training right|now, but I'm gonna have to ask you to stop|your adventure and sign up for a support|<br>|group... If I sign up as a support buddy,|I'll have to ask you to stop the adventure,|but can I still sign up?<yesno><break>"
     },
     "244": {
-        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor>の　上下で選べるからな。|<break>": "<map>You can see more in detail at... Want to see|someone else?<cursor>You can choose between the top and bottom of|the...<break>"
+        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor>の　上下で選べるからな。|<break>": "Press <map> to see more details. If you|want to choose someone else, use the up/down|<cursor>.|<break>"
     },
     "245": {
         "「<map>で　こいつのことを|　くわしく見ることができるぜ。|　別の人を選ぶときは　上下キーで選べるからな。|<break>": "<map>to see more about this guy... You can use the|up and down keys to select another person...<break>"
     },
     "246": {
-        "「<map>で　くわしく見られるからね。|　別の人を見たいときは|　<cursor>の　上下で選べるわよ。|<break>": "<map>You can see more at... If you'd like to see|someone else<cursor>You can choose between up and down...<break>"
+        "「<map>で　くわしく見られるからね。|　別の人を見たいときは|　<cursor>の　上下で選べるわよ。|<break>": "Press <map> to see more details. If you|want to choose someone else, use the up/down|<cursor>.|<break>"
     },
     "247": {
         "「<%sM_pc>は　あんたと同じチームなんだな。|　だったら　紹介料は半額の　<%nL_Time>時間|　<%nL_Spt_gold>ゴールドになるけど　仲間にするかい？|<yesno><break>": "<%sM_pc> is on the same team as|you... So the referral fee is half|<%nL_Time>time|<br>|<%nL_Spt_gold>gold.<yesno><break>"
@@ -747,10 +747,10 @@
         "「<%sM_pc>さんとは　同じチームなのね？|　だったら　紹介料は半額の　<%nL_Time>時間|　<%nL_Spt_gold>ゴールドになるけど　お仲間にする？|<yesno><break>": "You're on the same team as|<%sM_pc>, right? If so, the|referral fee is half|<br>|<%nL_Time>time|<%nL_Spt_gold>gold, do you want|to join?<yesno><break>"
     },
     "250": {
-        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor_up_down>　で選べるからな。|<break>": "<map>You can see more in detail at... Want to see|someone else?<cursor_up_down>You can choose in...<break>"
+        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor_up_down>　で選べるからな。|<break>": "Press <map> to see more details. If you|want to choose someone else, use <cursor_up_down>.|<break>"
     },
     "251": {
-        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor_up_down>　で選べるからな。|<break>": "<map>You can see more in detail at... Want to see|someone else?<cursor_up_down>You can choose in...<break>"
+        "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor_up_down>　で選べるからな。|<break>": "Press <map> to see more details. If you|want to choose someone else, use <cursor_up_down>.|<break>"
     },
     "252": {
         "「<map>で　くわしく見られるからね。|　別の人を見たいときは|　<cursor_up_down>　で選べるわよ。|<break>": "Press <map> to see more details.|You can also use <cursor_up_down>|to choose someone else.|<break>"
