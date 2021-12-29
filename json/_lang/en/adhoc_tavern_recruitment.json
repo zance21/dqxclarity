@@ -15,7 +15,7 @@
         "「おっと。悪いけど　カネが足りないみたいだな。|<bw_break>": "I'm sorry. I'm sorry, but I don't think we|have enough money...<bw_break>"
     },
     "6": {
-        " 「<%sM_pc>を<%nL_Time>時間　仲間にするなら| 　紹介料として　<%nL_Spt_gold>ゴールド| 　いただくが　構わないかい？|<yesno><break>": "<%sM_pc>for|<%nL_Time>time If you want to|join us, we'll take|<br>|<%nL_Spt_gold>gold as a referral|fee, if you don't mind.<yesno><break>"
+        " 「<%sM_pc>を<%nL_Time>時間　仲間にするなら| 　紹介料として　<%nL_Spt_gold>ゴールド| 　いただくが　構わないかい？|<yesno><break>": "Hiring <%sM_pc> for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. Is that all right?|<yesno><break>"
     },
     "7": {
         "「わかりました。|　<%sM_pc>さんが　ログインしても|　あなたには　何もお伝えしませんね。<end>": "I understand... If <%sM_pc> logs|in, we will not tell you anything...<end>"
