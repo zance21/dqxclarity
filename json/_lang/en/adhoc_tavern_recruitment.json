@@ -702,7 +702,7 @@
         "<se_nots System 7><%sM_pc>との　ダブルすれちがい達成！|ダブルすれちがいポイント上限のため|ポイントは　かくとくできませんでした。": "<se_nots System 7>You have achieved a double pass with|<%sM_pc>! Due to the double pass-|by point limit, points cannot be acquired..."
     },
     "235": {
-        "「<%sM_pc>は　<%nL_Time>時間につき|　<%nL_Spt_gold>ゴールドの紹介料がかかるが|　仲間にしたい時間を　選んでくれ。|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "The <%sM_pc> costs|<%nL_Time>hourly|<%nL_Spt_gold>gold referral fees,|<br>|but you can choose the time you want to|join...|<select_se_off>|12 hours|24 hours|48 hours|72 hours|168 hours|<select_end>|<break>"
+        "「<%sM_pc>は　<%nL_Time>時間につき|　<%nL_Spt_gold>ゴールドの紹介料がかかるが|　仲間にしたい時間を　選んでくれ。|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold per|<%dL_Time> hours. Please choose how long you'd|like to hire them for.|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
     },
     "236": {
         "「よし　わかった。|　今は特訓中のようだが　冒険を中断して|　サポート仲間に　登録するんだな。|<br>|「サポート仲間に登録したら|　サポート仲間以外の仲間とは　ここで別れて|　冒険を中断するが　それでいいんだな？|<yesno><break>": "Okay, I... Now, I know you're in training,|but I'm gonna have to break off the adventure|and sign you up for a support group... I'm|<br>|gonna sign up as a support buddy, and then|I'm gonna leave my non-support buddies here,|and I'm gonna stop the adventure, is that|<br>|okay?<yesno><break>"
@@ -711,7 +711,7 @@
         "「よし　わかった。|　今は特訓中のようだが　冒険を中断して|　サポート仲間に　登録するんだな。|<br>|「サポート仲間に登録をしたら|　冒険を中断してもらうことになるが|　今　登録してもいいんだな？|<yesno><break>": "Okay, I... I know you're training right now,|but I'm gonna have to ask you to stop your|adventure and sign up for a support group...|<br>|If I sign up for a support group, I'll have|to stop the adventure, but I can sign up now,|right?<yesno><break>"
     },
     "238": {
-        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc... So, I'll take|<%nL_Spt_gold> gold as a referral|fee, but can I have <%sM_pc> as a|<br>|companion?<yesno><break>"
+        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. You want them to join you?|<yesno><break>"
     },
     "239": {
         "「よし　わかった。冒険を中断して|　サポート仲間に　登録するんだな？|<br>|「サポート仲間になって|　誰かに仲間にしてもらえば　休んでる間にも|　経験値や　ゴールドを　獲得できるぜ。|<br>|「もちろん　勝手に持ち物を使われたり|　装備品を盗られるなんてことは　絶対にない。|　つまり　登録して損なことは　なんにもない。|<br>|「それじゃあ　冒険を中断して|　サポート仲間に　登録していいな？|<yesno><break>": "Okay, I... You're going to stop your|adventure and sign up for a support group,|right? If you become a support companion, and|<br>|someone joins you, you'll earn experience and|gold while you rest. And of course, they|can't use your stuff or steal your gear. I|<br>|mean, what's the harm in signing up? So, can|we stop this adventure and sign up for the|support group?<yesno><break>"
@@ -720,7 +720,7 @@
         "「よし　わかった。冒険を中断して|　サポート仲間に　登録するんだな？|<br>|「サポート仲間になって|　誰かに仲間にしてもらえば　休んでる間にも|　経験値や　ゴールドを　獲得できるぜ。|<br>|「もちろん　勝手に持ち物を使われたり|　装備品を盗られるなんてことは　絶対にない。|　つまり　登録して損なことは　なんにもない。|<br>|「それじゃあ　冒険を中断して|　サポート仲間に　登録していいな？|<yesno><break>": "Okay, I... You're going to stop your|adventure and sign up for a support group,|right? If you become a support companion, and|<br>|someone joins you, you'll earn experience and|gold while you rest. And of course, they|can't use your stuff or steal your gear. I|<br>|mean, what's the harm in signing up? So, can|we stop the adventure and sign up for the|support group?<yesno><break>"
     },
     "241": {
-        "「<%sM_pc>さんは　<%nL_Time>時間につき|　<%nL_Spt_gold>ゴールドの紹介料がかかるけど|　仲間にしたい時間を　選んでくれる？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "<%sM_pc>will you|<%nL_Time>charge me a|<%nL_Spt_gold>gold referral fee|<br>|per hour, but will you pick the hours you|want to join?|<select_se_off>|12 hours|24 hours|48 hours|72 hours|168 hours|<select_end>|<break>"
+        "「<%sM_pc>さんは　<%nL_Time>時間につき|　<%nL_Spt_gold>ゴールドの紹介料がかかるけど|　仲間にしたい時間を　選んでくれる？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "Hiring <%sM_pc> will cost <%dL_Spt_gold> Gold per|<%dL_Time> hours. Please choose how long you'd|like to hire them for.|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
     },
     "242": {
         "「わかったわ。今は　特訓中みたいだけど|　冒険を中断して　サポート仲間に登録するのね。|<br>|「サポート仲間に登録したら|　サポート仲間以外の仲間とは　ここで別れて|　冒険を中断するけど　それでいいの？|<yesno><break>": "I don't know. I know you're training right|now, but I'm gonna have to break off the|adventure and sign you up for a support|<br>|group... If I sign up as a support buddy,|I'll leave the rest of the team here and stop|the adventure, is that okay?<yesno><break>"
