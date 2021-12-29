@@ -6462,7 +6462,7 @@
         "「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>フェルドで　買い取りますが|　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM> for one... <%nL_SELL_PRICE>|I'll buy it at Feld, if that's okay with you.<yesno><break>"
     },
     "2155": {
-        "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取りますが　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM> for <%nL_URUKAZU>|individual... I'd like to buy|<%nL_SELL_PRICE> for <%nL_SELL_PRICE> feld,|<br>|if you don't mind.<yesno><break>"
+        "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個ですね。|　合わせて　<%nL_SELL_PRICE>フェルドで|　買い取りますが　よろしいですか？|<yesno><break>": "<%dL_URUKAZU> <%sL_URITAI_ITEM>?|I'll give you <%dL_SELL_PRICE> Feld for all of them.|<yesno><break>"
     },
     "2156": {
         "「一度　商品を選ぶと　今回の　ご縁では|　他の商品を　お譲りできなくなりますが|　こちらの　お買い上げでよいですか？|<yesno><break>": "Once you've chosen an item, we won't be able|to offer you any other items from this|relationship.<yesno><break>"
@@ -7962,7 +7962,7 @@
         "「ありゃ？　それは　手に入りづらい|　貴重な物だけど|　本当に　売っても　大丈夫？|<yesno 2><break>": "What is it? I know it's hard to come by and|it's valuable, but are you sure you're okay|to sell it?<yesno 2><break>"
     },
     "2655": {
-        "「<%sL_URITAI_ITEM>を　ひとつだね！|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかな？|<yesno><break>": "I'll take one <%sL_URITAI_ITEM>! I'll buy it|for <%nL_SELL_PRICE> gold, if you don't mind.<yesno><break>"
+        "「<%sL_URITAI_ITEM>を　ひとつだね！|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかな？|<yesno><break>": "One <%sL_URITAI_ITEM>! I'll buy it|for <%dL_SELL_PRICE> Gold. That good with you?<yesno><break>"
     },
     "2656": {
         "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかな？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM> with <%nL_URUKAZU>|for <%nL_SELL_PRICE> gold, okay?<yesno><break>"
@@ -8661,7 +8661,7 @@
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取るけど　いいかしら？|<yesno><break>": "New <%sL_URITAI_ITEM><%sL_PLUSNU... Then I'll|buy it for <%nL_SELL_PRICE> gold, if that's|okay?<yesno><break>"
     },
     "2888": {
-        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかしら？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold, if you don't mind.<yesno><break>"
+        "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかしら？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%dL_SELL_PRICE> Gold. That good with you?|<yesno><break>"
     },
     "2889": {
         "「あら？　それは|　手に入りづらい　貴重な物だけど|　本当に　売っちゃっていいの？|<yesno 2><break>": "Oh? That's a hard-to-find, valuable item, but|are you sure you want to sell it?<yesno 2><break>"
