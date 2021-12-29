@@ -12,7 +12,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "5": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "6": {
         "「今は　この子を連れていけないようです。|　追加部屋の　利用券があれば|　連れていけるように　なりますよ。|<end>": "I can't take her with me right now... If you|have a ticket for an extra room, you can|bring her...<end>"
@@ -435,7 +435,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "146": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "147": {
         "「今は　<%sM_monster>さまを　お連れになれません。|　追加部屋の　利用券がございましたら|　お連れいただくことができます。|<end>": "I'm afraid I can't take <%sM_monster> with me|right now. If you have a ticket for an|additional room, we can bring him...<end>"
@@ -882,13 +882,13 @@
         "<pipipi_off>|<%sM_monster>を　モンスター牧場に送った！|<end>": "<pipipi_off>I sent <%sM_monster> to the monster farm!<end>"
     },
     "295": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "296": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
     },
     "297": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "298": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -927,7 +927,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "310": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "311": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -993,7 +993,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "332": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "333": {
         "「わかりました～。それから　モンスター牧場に|　空きがありますけど　今　連れている|　<%sM_otomo>さんを　送りましょうか～？|<yesno><break>": "I understand... And there's a vacancy at the|monster farm, but I can send you <%sM_otomo>?<yesno><break>"
@@ -1383,7 +1383,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "462": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "463": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -1449,7 +1449,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "484": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "485": {
         "「わかりました～。それから　モンスター牧場に|　空きがありますけど　今　連れている|　<%sM_otomo>さんを　送りましょうか～？|<yesno><break>": "I understand... And there's a vacancy at the|monster farm, but I can send you <%sM_otomo>?<yesno><break>"
@@ -1839,7 +1839,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "614": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "615": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -1905,7 +1905,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "636": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "637": {
         "「はいよー。あと　モンスター牧場に|　空きがあるが　連れてる|　<%sM_otomo>を　送っておくかー？|<yesno><break>": "Well... Also, there's a vacancy at the|monster farm, but I have a <%sM_otomo> with|me that I could send over.<yesno><break>"
@@ -2295,7 +2295,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "766": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "767": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -2361,7 +2361,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "788": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "789": {
         "「りょーかい。|　牧場に空きがあるから　<%sM_otomo>を|　送っとくか？|<yesno><break>": "Hey, uh... There's an opening at the ranch,|so I'll send you <%sM_otomo>?<yesno><break>"
@@ -2751,7 +2751,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "918": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "919": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -2817,7 +2817,7 @@
         "「モンスター牧場に送る奴を　選んでくれー。|　送った奴には　<%sM_OWNER>が　戦いで得た|　経験値の一部が　自動的に入るぞー。|<break>": ""
     },
     "940": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "941": {
         "「オッケー　わかったよ。|　牧場に空きがあるから　<%sM_otomo>を|　送っておくかい？|<yesno><break>": "Okay, okay... There's an opening at the|ranch, so why don't I send you a <%sM_otomo>?<yesno><break>"
@@ -3207,7 +3207,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "1070": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "1071": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -3273,7 +3273,7 @@
         "「モンスター牧場に送る奴を　選んでくれー。|　送った奴には　<%sM_OWNER>が　戦いで得た|　経験値の一部が　自動的に入るぞー。|<break>": ""
     },
     "1092": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "1093": {
         "「オッケー　わかったわ。|　牧場に空きがあるから　<%sM_otomo>を|　送っておく？|<yesno><break>": "Okay, okay... There's an opening at the|ranch, so I'll send you a <%sM_otomo>?<yesno><break>"
@@ -3762,7 +3762,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "1255": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "1256": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -3828,7 +3828,7 @@
         "「モンスター牧場に送っていますが|　お別れするのは　この子でいいですか？|<break>": "I'm sending her to the monster farm. Is this|the girl you want to say goodbye to?<break>"
     },
     "1277": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "1278": {
         "「はーい。あと　モンスター牧場に|　空きがあるけど　連れてる|　<%sM_otomo>を　送っておくー？|<yesno><break>": "... Also, there's a vacancy at the monster|farm, but I'll send you my <%sM_otomo>?<yesno><break>"
@@ -4962,7 +4962,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "1655": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "1656": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -5031,7 +5031,7 @@
         "「モンスター牧場の　この子と　お別れしますか？|　気合伝授されているときに　お別れすると|　報酬が受けとれなくなるので　ご注意ください。|<break>": "Would you like to say goodbye to this girl|from Monster Farm? If you say goodbye to him|while he's giving you his spunk, you won't|<br>|get your reward, so be careful...<break>"
     },
     "1678": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "1679": {
         "「わかりました！　あと　モンスター牧場に|　空きがありますが　連れている　<%sM_otomo>を|　送っておきますか？|<yesno><break>": "Yes, sir! Also, there's a vacancy at the|monster farm, but would you like me to send|over the <%sM_otomo> you have with you?<yesno><break>"
@@ -5811,7 +5811,7 @@
         "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_otomo> has been deposited in the tavern,|and <%sM_monster> has joined the ranks!<me 61><end>"
     },
     "1938": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "1939": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
@@ -5880,7 +5880,7 @@
         "「モンスター牧場の　この方と　お別れしますか？|　気合伝授されているときに　お別れすると|　報酬が受けとれなくなるので　ご注意ください。|<break>": "Would you like to say goodbye to this person|from the Monster Farm? If you say goodbye to|him while he's teaching you his spells, you|<br>|won't get your reward.<break>"
     },
     "1961": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "1962": {
         "「かしこまりました。あと　モンスター牧場に|　空きがございますが　お連れになっている|　<%sM_otomo>さまを　お送りいたしますか？|<yesno><break>": "Yes, sir... We also have an opening at the|monster farm, but would you like us to send|<%sM_otomo> with you?<yesno><break>"
@@ -6732,7 +6732,7 @@
         "「おーい！　<%sM_monster>　お迎えだよ！|<end>": "Hey! <%sM_monster> We're here for you!<end>"
     },
     "2245": {
-        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined the party!<me 61><end>"
     },
     "2246": {
         "<pipipi_off>|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks (waiting)!<me 61><end>"
@@ -7167,7 +7167,7 @@
         "<pipipi_off>|<%sM_monster>を　モンスター牧場に送った！|<end>": "<pipipi_off>I sent <%sM_monster> to the monster farm!<end>"
     },
     "2390": {
-        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks!<me 61><end>"
+        "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined the party!<me 61><end>"
     },
     "2391": {
         "<pipipi_off>|<%sM_otomo>を　モンスター牧場に送り|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off>We've sent <%sM_otomo> to the monster farm,|and <%sM_monster> has joined our ranks|(waiting)!<me 61><end>"
