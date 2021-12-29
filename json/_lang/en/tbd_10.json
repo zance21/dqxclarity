@@ -186,7 +186,7 @@
         "clarity_nt_char_62": "clarity_nt_char_62"
     },
     "63": {
-        "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from <%sL_NPC>."
+        "<%sL_PC>が <%sL_NPC>から|もらった。": "<%sL_PC> received from|<%sL_NPC>."
     },
     "64": {
         "<%sM_pc>は|<%sM_action>「<%sM_item2>」を　おぼえた！ <se_nots System 7>|<br>|きせかえドールのポーズを|「<%sM_item2>」に　変えられるようになった！|<br>|<%sM_item>は|光に包まれ　消え去った！": "<%sM_pc> learned the \"<%sM_item2>\"|<%sM_action>! <se_nots System 7>|<br>|You can now change your dress-up doll's|pose to \"<%sM_item2>\"!|<br>|<%sM_item> disappeared in|a flash of light!"
@@ -231,7 +231,7 @@
         "clarity_nt_char_77": "clarity_nt_char_77"
     },
     "78": {
-        "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from Defense Force."
+        "<%sL_PC>が 防衛戦で 手に入れた。": "<%sL_PC> received from|Defense Force."
     },
     "79": {
         "<%sL_PC>が <%sL_PLACE>で釣り上げた|金の宝箱から　手に入れた。": "<%sL_PC> reeled in at <%sL_PLACE>|and obtained from a gold treasure chest."
