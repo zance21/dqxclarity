@@ -342,7 +342,7 @@
         "「それは　残念です。|　他に売りたい物は　ありますか？|<break>": "It's just... Do you have anything else you'd|like to sell?<break>"
     },
     "115": {
-        "「お買い上げですね。|　どちらに　なさいますか？|<break>": "Your purchase... Where can I help you, sir?<break>"
+        "「お買い上げですね。|　どちらに　なさいますか？|<break>": "You want to buy? Which one would you like?<break>"
     },
     "116": {
         "「どれを　お売りいただけますか？|<break>": "Which one do you have for sale?<break>"
@@ -6594,7 +6594,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "2199": {
-        "「お買い上げですね。|　どちらに　なさいますか？|<break>": "Your purchase... Where can I help you, sir?<break>"
+        "「お買い上げですね。|　どちらに　なさいますか？|<break>": "You want to buy? Which one would you like?<break>"
     },
     "2200": {
         "「どれを　お売りいただけますか？|<break>": "Which one do you have for sale?<break>"
@@ -10500,7 +10500,7 @@
         "「そうですか……。|　他に売りたい物は　ありますか？|<bw_break>": "Okay, well... Do you have anything else you'd|like to sell?<bw_break>"
     },
     "3501": {
-        "「いらっしゃいませだみゃー。|　花火で　新年をドーンと　盛り上げてちょーよ！|　たーんと　買ってってちょーでゃぁ。|<break>": "Welcome... Let's ring in the new year with|fireworks! Please buy a lot of them...<break>"
+        "「いらっしゃいませだみゃー。|　花火で　新年をドーンと　盛り上げてちょーよ！|　たーんと　買ってってちょーでゃぁ。|<break>": "Welcome, welcome! Liven up the new year with|some fireworks! Buy as many as you can!|<break>"
     },
     "3502": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -11433,19 +11433,19 @@
         "「無料券との　交換ですね。|　どちらに　なさいますか？|<break>": "In exchange for a free ticket... Where would|you like me to go?<break>"
     },
     "3812": {
-        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
+        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "So you'd like to use your free ticket? Which|one would you like?|<bw_break>"
     },
     "3813": {
-        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
+        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "So you'd like to use your free ticket? Which|one would you like?|<bw_break>"
     },
     "3814": {
-        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
+        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "So you'd like to use your free ticket? Which|one would you like?|<bw_break>"
     },
     "3815": {
-        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
+        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "So you'd like to use your free ticket? Which|one would you like?|<bw_break>"
     },
     "3816": {
-        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
+        "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "So you'd like to use your free ticket? Which|one would you like?|<bw_break>"
     },
     "3817": {
         "「無料券でお買い上げですね。|　どちらに　なさいますか？|<bw_break>": "Free tickets for your purchase... Where would|you like to go, sir?<bw_break>"
