@@ -141,7 +141,7 @@
         "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": "This is the Adventurer's Tavern. The place|where travelers come to meet and recruit|new friends. What can I get for you?|<break>"
     },
     "48": {
-        "「今日は　どんな人を探してるの？|　検索する耐性値の大きさは　★の数で|　ある程度　しぼり込むことができるわよ。<break>": "What kind of person are you looking for|today? You can narrow down your search by the|number of ★...<break>"
+        "「今日は　どんな人を探してるの？|　検索する耐性値の大きさは　★の数で|　ある程度　しぼり込むことができるわよ。<break>": "Who are you looking for today? If you'd like,|you can narrow down resistance parameters|with the number of ★s.<break>"
     },
     "49": {
         "「ありがとうございました。|　新しい出会いが　ほしいときは|　また　いつでも来てね。": "Thank you... If you ever want to meet someone|new, you can always..."
@@ -162,7 +162,7 @@
         "「わかったわ。|　<%sM_pc>さんが　ログインしたら|　仲間になってもいいって　伝えておくわね。<end>": "Waka... Tell <%sM_pc> that he can|join us when he logs in...<end>"
     },
     "55": {
-        "「わかったわ。<%sM_pc>さんには|　町の外に　出たところで|　待ち合わせするように　伝えておくわね。|<br>|「ところで　<%sM_pc>さんが|　ログインしてきたときは　そのまま|　仲間になっても　いいのかしら？|<yesno><break>": "Wha... I'll tell <%sM_pc> to meet|you just outside of town... By the way, when|<%sM_pc> logs in, can I just join|<br>|him?<yesno><break>"
+        "「わかったわ。<%sM_pc>さんには|　町の外に　出たところで|　待ち合わせするように　伝えておくわね。|<br>|「ところで　<%sM_pc>さんが|　ログインしてきたときは　そのまま|　仲間になっても　いいのかしら？|<yesno><break>": "Got it. I'll tell <%sM_pc> to meet you|just outside of town.|<br>|By the way, when they log in, would you like|to automatically join their party?|<yesno><break>"
     },
     "56": {
         "「あら。もう　お仲間が　いっぱいじゃない。|　入れ替えになってもいいなら|　仲間にしたい人を　選んでね？|<break>": "Oh. We've already got a lot of people... If|you don't mind being replaced, why don't you|pick the one you want to join?<break>"
