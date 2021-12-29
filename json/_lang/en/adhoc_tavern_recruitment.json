@@ -291,10 +291,10 @@
         "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<select_se_off>|なかまをさがす|説明を聞く|<select_end>|<break>": "This is a place for adventurers... It is a|place where travelers come to find|companionship, where they meet and part. What|<br>|can I do for you?|<select_se_off>|find a friend|Listen to the explanation|<select_end>|<break>"
     },
     "98": {
-        "「他に　ご用はあるかしら？|<select_se_off>|なかまをさがす|なかまと別れる|説明を聞く|<select_end>|<break>": ""
+        "「他に　ご用はあるかしら？|<select_se_off>|なかまをさがす|なかまと別れる|説明を聞く|<select_end>|<break>": "Anything else I can do?|<select_se_off>|Party Search|Remove Members|Explanation|<select_end>|<break>"
     },
     "99": {
-        "「他に　ご用はあるかしら？|<select_se_off>|なかまをさがす|説明を聞く|<select_end>|<break>": ""
+        "「他に　ご用はあるかしら？|<select_se_off>|なかまをさがす|説明を聞く|<select_end>|<break>": "Anything else I can do?|<select_se_off>|Party Search|Explanation|<select_end>|<break>"
     },
     "100": {
         "「おっと　悪いな。|　今は　紹介できるやつが　いないんだよ。|<br>|「紹介できるやつを　増やしたいんなら|　この町にいる　名前が紫色のやつらの頼みを|　聞いてやるといいぜ。|<bw_break>": "Whoa... I don't have anyone to introduce you|to right now... If you want to introduce more|people, you'll have to do a favor for the|<br>|purple ones in this town...<bw_break>"
