@@ -4245,7 +4245,7 @@
         "岩穴の牢獄": "Rock Pit Prison"
     },
     "1416": {
-        "<%sW_AD_LOCA><%sW_LV><%nW_AUTODUNG_LV>": "<%sW_AD_LOCA><%sW_LV><%nW_AUTODUNG_LV>"
+        "<%sW_AD_LOCA><%sW_LV><%nW_AUTODUNG_LV>": "<%sW_AD_LOCA><%sW_LV><%dW_AUTODUNG_LV>"
     },
     "1417": {
         "clarity_nt_char_1417": "clarity_nt_char_1417"
