@@ -612,7 +612,7 @@
         "「他にも　ほしい物は　ありますか？|<break>": "Is there anything else you'd like?<break>"
     },
     "205": {
-        "「<%sL_KAITAI_ITEM>ですねっ。|　<%nL_BUY_PRICE>ゴールドになりますが|　よろしいですか？|<yesno><break>": "In <%sL_KAITAI_ITEM>... <%nL_BUY_PRICE>Gold,|if you don't mind.<yesno><break>"
+        "「<%sL_KAITAI_ITEM>ですねっ。|　<%nL_BUY_PRICE>ゴールドになりますが|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM>, was it?|That'll be <%dL_BUY_PRICE> Gold.|How about it?|<yesno><break>"
     },
     "206": {
         "「<%sL_KAITAI_ITEM>を　おひとつですねっ。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> for one... <%nL_BUY_PRICE>|gold, if you don't mind.<yesno><break>"
