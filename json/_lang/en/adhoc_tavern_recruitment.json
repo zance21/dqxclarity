@@ -84,7 +84,7 @@
         "「おっと。悪いけど　カネが足りないみたいだな。|<bw_break>": "I'm sorry. I'm sorry, but I don't think we|have enough money...<bw_break>"
     },
     "29": {
-        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>... So, I'll take|<%nL_Spt_gold> gold as a referral|fee, but can I have <%sM_pc> as a|<br>|companion?<yesno><break>"
+        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. You want them to join you?|<yesno><break>"
     },
     "30": {
         "「わかりました。|　<%sM_pc>さんが　ログインしても|　あなたには　何もお伝えしませんね。<end>": "I understand... If <%sM_pc> logs|in, we will not tell you anything...<end>"
@@ -153,7 +153,7 @@
         "「あら　残念だけど|　お金が　足りないみたいね。|<bw_break>": "Oh, I'm sorry, but I don't have enough money|to...<bw_break>"
     },
     "52": {
-        "「<%sM_pc>さんを<%nL_Time>時間　仲間にするなら|　紹介料として　<%nL_Spt_gold>ゴールド|　いただくけど　いいかしら？|<yesno><break>": "<%sM_pc>If you want to join|<%nL_Time>Time, I'll take|<%nL_Spt_gold>gold as a referral|<br>|fee.<yesno><break>"
+        "「<%sM_pc>さんを<%nL_Time>時間　仲間にするなら|　紹介料として　<%nL_Spt_gold>ゴールド|　いただくけど　いいかしら？|<yesno><break>": "Hiring <%sM_pc> for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. Is that all right with you?|<yesno><break>"
     },
     "53": {
         "「わかったわ。|　<%sM_pc>さんが　ログインしても|　あなたには　何も伝えないでおくわね。<end>": "WOW... When <%sM_pc> logs in, he|doesn't tell you anything...<end>"
@@ -570,7 +570,7 @@
         "「<%sM_pc>は　フレンドなんだな。|　だったら　無料で紹介できるから|　仲間にしたい時間を　選んでくれるかい？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "Looks like <%sM_pc>'s your friend.|In that case, the hiring cost will be free.|How long do you want to hire them for?|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
     },
     "191": {
-        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc... So, I'll take|<%nL_Spt_gold> gold as a referral|fee, but can I have <%sM_pc> as a|<br>|companion?<yesno><break>"
+        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. You want them to join you?|<yesno><break>"
     },
     "192": {
         "「<%sM_pc>さんは　フレンドなのね？|　だったら　無料で紹介できるので|　仲間にしたい時間を　選んでくれる？|<select_se_off>|１２時間|２４時間|４８時間|７２時間|１６８時間|<select_end>|<break>": "<%sM_pc>'s your friend?|In that case, the hiring cost will be free.|How long do you want to hire them for?|<select_se_off>|12 Hours|24 Hours|48 Hours|72 Hours|168 Hours|<select_end>|<break>"
@@ -579,7 +579,7 @@
         "「<%sM_pc>は　こんな感じだな。|<break>": "<%sM_pc> has this feeling...<break>"
     },
     "194": {
-        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>... So, I'll take|<%nL_Spt_gold> gold as a referral|fee, but can I have <%sM_pc> as a|<br>|companion?<yesno><break>"
+        "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them for <%dL_Time> hr. will cost|<%dL_Spt_gold> Gold. You want them to join you?|<yesno><break>"
     },
     "195": {
         "「<%sM_pc>さんは　こんな感じね。|<break>": "<%sM_pc> is such a ...<break>"
