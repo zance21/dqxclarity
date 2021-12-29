@@ -279,7 +279,7 @@
         "「<%sL_URITAI_ITEM>を　ひとつですね。|　<%nL_SELL_PRICE>ゴールドで　買い取りますが|　よろしいですか？|<yesno><break>": "<%sL_URITAI_ITEM> for one... <%nL_SELL_PRICE>|for gold, if that's okay with you?<yesno><break>"
     },
     "94": {
-        "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM> for <%nL_URUKAZU>|for <%nL_SELL_PRICE> gold, if you don't mind.<yesno><break>"
+        "「<%sL_URITAI_ITEM>を　<%nL_URUKAZU>個|　合わせて　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "I'll buy your <%dL_URUKAZU> <%sL_URITAI_ITEM>|for <%dL_SELL_PRICE> Gold.|How does that sound?|<yesno><break>"
     },
     "95": {
         "<speed=0><%sL_PC_NICK>は|<%sL_KAITAI_ITEM>を　装備した！|<end>": "<speed=0><%sL_PC_NICK> has equipped <%sL_KAITAI_ITEM>!<end>"
@@ -363,7 +363,7 @@
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is now <%nL_BUY_PRICE>|gold... Are you sure?<yesno><break>"
     },
     "122": {
-        "「<%sL_KAITAI_ITEM>を　おひとつですね。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> for one... <%nL_BUY_PRICE>|gold, if you don't mind.<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　おひとつですね。|　<%nL_BUY_PRICE>ゴールド　いただきますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold.|How does that sound?|<yesno><break>"
     },
     "123": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>ゴールドですが|　よろしいですか？|<yesno><break>": "I'd like to buy <%sL_KAITAI_ITEM> in|<%nL_KAUKAZU>... I'd like to combine|<%nL_BUY_PRICE> gold, if that's okay.<yesno><break>"
@@ -570,7 +570,7 @@
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>だね。|　<%nL_SELL_PRICE>ゴールドで　買い取るけど|　いいかい？|<yesno><break>": "New <%sL_URITAI_ITEM><%sL_PLUSNUM...|<%nL_SELL_PRICE> i'll buy it for gold, okay?<yesno><break>"
     },
     "191": {
-        "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "A brand-new <%sL_URITAI_ITEM><%sL_PLUSNUM>...|Then I'll buy it for <%nL_SELL_PRICE> gold,|if you don't mind.<yesno><break>"
+        "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取りますが　よろしいですか？|<yesno><break>": "A brand new <%sL_URITAI_ITEM><%sL_PLUSNUM>?|In that case, I'll buy it for <%dL_SELL_PRICE> Gold.|What do you say?|<yesno><break>"
     },
     "192": {
         "「新品の　<%sL_URITAI_ITEM><%sL_PLUSNUM>ですね。|　それなら　<%nL_SELL_PRICE>ゴールドで|　買い取らせていただきます。よろしいですか？|<yesno><break>": "A new <%sL_URITAI_ITEM><%sL_PLUSNUM>... Then|I'd like to buy it for <%nL_SELL_PRICE>|gold... Are you sure?<yesno><break>"
