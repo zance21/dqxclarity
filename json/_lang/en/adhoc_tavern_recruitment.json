@@ -186,7 +186,7 @@
         "<pipipi_off><%sM_pc>が　仲間に加わった！|<me 61><end>": "<pipipi_off><%sM_pc> has joined our ranks!<me 61><end>"
     },
     "63": {
-        "「はい。これで　オッケーよ。|　<%sM_pc>さんには　町の外に出た所で|　合流するよう　伝えておいたわ。|<end>": "Okay. This is it. I'll tell|<%sM_pc> to meet you outside of|town...<end>"
+        "「はい。これで　オッケーよ。|　<%sM_pc>さんには　町の外に出た所で|　合流するよう　伝えておいたわ。|<end>": "Alright, that's good. I'll tell <%sM_pc>|to meet you outside of town.|<end>"
     },
     "64": {
         "「誰と　お別れするの？<break>": "Who are you saying goodbye to?<break>"
@@ -525,7 +525,7 @@
         "clarity_nt_char_175": "clarity_nt_char_175"
     },
     "176": {
-        "「それじゃ　決まりだ！|　<%sM_pc>には　町の外に出た所で|　合流するよう　伝えておくぜ！|<end>": "Then it's settled! I'll tell|<%sM_pc> to meet you just outside|of town!<end>"
+        "「それじゃ　決まりだ！|　<%sM_pc>には　町の外に出た所で|　合流するよう　伝えておくぜ！|<end>": "Then it's settled! I'll tell|<%sM_pc> to meet you just outside|of town!|<end>"
     },
     "177": {
         "「あら？　名簿の調子が　よくないみたい。|　ごめんなさいね。しばらくしてから|　また来てくれるかしら。<end>": "What? The list isn't looking so good. I'm|sorry... You can come back in a little|while...<end>"
