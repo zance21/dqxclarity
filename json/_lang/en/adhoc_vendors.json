@@ -5448,7 +5448,7 @@
         "「<%sL_URITAI_ITEM><%sL_PLUSNUM>なら|　<%nL_SELL_PRICE>ゴールドで　買い取るけれど|　それで　よろしくて？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM><%sL_PLUSNUM> for|<%nL_SELL_PRICE> gold, is that okay with you?<yesno><break>"
     },
     "1817": {
-        "「あら？　それは　手に入りづらい|　貴重な物ですけど|　本当に　売ってもよろしくて？|<yesno 2><break>": "Oh? That's a hard-to-find, valuable item, but|are you sure you don't mind if I sell it?<yesno 2><break>"
+        "「あら？　それは　手に入りづらい|　貴重な物ですけど|　本当に　売ってもよろしくて？|<yesno 2><break>": "Huh? That item is pretty valuable and not easy|to find. Are you sure you want to sell it?|<yesno 2><break>"
     },
     "1818": {
         "「<%sL_URITAI_ITEM>を　ひとつね。|　<%nL_SELL_PRICE>ゴールドで　買い取るけれど|　それで　よろしくて？|<yesno><break>": "I'll buy <%sL_URITAI_ITEM> for...|<%nL_SELL_PRICE> for gold. Is that okay with|you?<yesno><break>"
@@ -6399,7 +6399,7 @@
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>フェルドになります。|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%nL_BUY_PRICE> feld...|Are you sure?<yesno><break>"
     },
     "2134": {
-        "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>フェルドに　なりますが|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> for one... <%nL_BUY_PRICE>|for the feld, if you don't mind.<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　ひとつですね。|　<%nL_BUY_PRICE>フェルドに　なりますが|　よろしいですか？|<yesno><break>": "One <%sL_KAITAI_ITEM>, was it?|That will be <%dL_BUY_PRICE> Feld.|<yesno><break>"
     },
     "2135": {
         "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個ですね。|　合わせて　<%nL_BUY_PRICE>フェルドですが|　よろしいですか？|<yesno><break>": "<%sL_KAITAI_ITEM> for <%nL_KAUKAZU>|individual... <%nL_BUY_PRICE> for|<%sL_KAITAI_ITEM>, is that okay?<yesno><break>"
