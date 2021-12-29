@@ -189,7 +189,7 @@
         "「はい。これで　オッケーよ。|　<%sM_pc>さんには　町の外に出た所で|　合流するよう　伝えておいたわ。|<end>": "Alright, that's good. I'll tell <%sM_pc>|to meet you outside of town.|<end>"
     },
     "64": {
-        "「誰と　お別れするの？<break>": "Who are you saying goodbye to?<break>"
+        "「誰と　お別れするの？<break>": "Who are you parting ways with?<break>"
     },
     "65": {
         "「やめておくの？|　そうね。それが　いいかもしれないわね。<bw_break>": "You're just gonna stop? I... It might be a|good idea...<bw_break>"
@@ -816,7 +816,7 @@
         "「ぜんいんと　別れるんだな。|　本当に　いいのか？|<yesno><break>": "I'm breaking up with the whole crew... Are|you sure you want to do this?<yesno><break>"
     },
     "273": {
-        "「ぜんいんと　お別れするのね？|　本当に　いいかしら？|<yesno><break>": "You're saying goodbye to the whole House? Are|you sure you want to do this?<yesno><break>"
+        "「ぜんいんと　お別れするのね？|　本当に　いいかしら？|<yesno><break>": "You're parting ways with everyone? Are you|really sure?|<yesno><break>"
     },
     "274": {
         "「……おいおい。|　<%sM_pc>は　死んでるじゃないか。|　死なせたまま別れるなんて　どうかと思うぞ。|<br>|「まず　教会で生き返らせてくるんだな。|　一緒に戦った　仲間に対する礼儀として|　それくらい　やってくれよ。|<br>|「他のみんなには|　オレから　別れを伝えておくよ。<end>": "... Oh... <%sM_pc> is dead. I|don't think we should just leave him there to|die. I'll bring him back to life at the|<br>|church. I'll go to the church and bring him|back to life... as a courtesy to the people I|fought with... I'll tell the others|<br>|goodbye...<end>"
