@@ -582,7 +582,7 @@
         "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.|You want them to join you?|<yesno><break>"
     },
     "195": {
-        "「<%sM_pc>さんは　こんな感じね。|<break>": "<%sM_pc> is such a ...<break>"
+        "「<%sM_pc>さんは　こんな感じね。|<break>": "This is what <%sM_pc> looks like.<break>"
     },
     "196": {
         "「よし　わかった。サポート仲間に登録したら|　冒険を中断してもらうことになるが|　今　登録してもいいんだな？|<yesno><break>": "Okay. I... If I sign up for a support group,|I'm gonna have to stop the adventure, but I|can sign up now, right?<yesno><break>"
