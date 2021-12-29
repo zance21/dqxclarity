@@ -207,7 +207,7 @@
         "「また　いつでも　来ておくれよっ！|<turn_end>": "Please come back anytime!<turn_end>"
     },
     "70": {
-        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome. This is the <%sL_SHOP_KIND>.|<break>"
+        "「いらっしゃい。|　ここは　<%sL_SHOP_KIND>だよ。|<break>": "Welcome to the <%sL_SHOP_KIND>.|<break>"
     },
     "71": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
