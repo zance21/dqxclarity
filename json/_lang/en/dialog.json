@@ -8652,7 +8652,7 @@
         "clarity_nt_char_2884": "clarity_nt_char_2884"
     },
     "2885": {
-        "<speed=0><pc>は　あと　<%dW_ADWAIT>分|このマッチングに　参加できません。": ""
+        "<speed=0><pc>は　あと　<%dW_ADWAIT>分|このマッチングに　参加できません。": "<speed=0>><pc> can't use matching for another|<%dW_ADWAIT> minute(s)."
     },
     "2886": {
         "おもいで私書箱で　みれる手紙を|すべて選択した状態にしますが|よろしいですか？<yesno 2><break>": "This will select all letters viewable in|your PO Box. Is this okay?<yesno 2><break>"
