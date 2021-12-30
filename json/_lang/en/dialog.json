@@ -8076,7 +8076,7 @@
         "<select>このまま行く|もう一度探す|行くのをやめる|<select_end><close>": "<select>Go As Is|Search Again|Stop Searching|<select_end><close>"
     },
     "2693": {
-        "<speed=0>このマッチングに参加するには|ヴェリナード城下町にいる　総帥Мに話しかけて|説明を聞く必要が　あります。": ""
+        "<speed=0>このマッチングに参加するには|ヴェリナード城下町にいる　総帥Мに話しかけて|説明を聞く必要が　あります。": "<speed=0>To participate, you must first speak to Agent|M in Verinard Castle Town and listen to his|explanation."
     },
     "2694": {
         "clarity_nt_char_2694": "clarity_nt_char_2694"
