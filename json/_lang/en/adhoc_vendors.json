@@ -12,10 +12,10 @@
         "「<%sL_KAITAI_ITEM>は|　<%nL_BUY_PRICE>ゴールドだぜ。|　これを　買うかね？|<yesno><break>": "<%sL_KAITAI_ITEM> is <%dL_BUY_PRICE> gold.|Will you buy this?|<yesno><break>"
     },
     "5": {
-        "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|Is this okay?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|You want to buy it?|<yesno><break>"
     },
     "6": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold in total.|You want to buy it?|<yesno><break>"
     },
     "7": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this with your current|vocation, is this okay?|<yesno 2><break>"
@@ -2154,13 +2154,13 @@
         "「<%sL_KAITAI_ITEM>を　ひとつだな。|　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "The <%sL_KAITAI_ITEM>.|That'll be <%dL_BUY_PRICE> gold.|Is this okay?|<yesno><break>"
     },
     "719": {
-        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>s.|That'll be <%dL_BUY_PRICE> gold in total.|Is this okay?|<yesno><break>"
+        "「<%sL_KAITAI_ITEM>を　<%nL_KAUKAZU>個だな。|　合わせて　<%nL_BUY_PRICE>ゴールドだが|　これを　買うかね？|<yesno><break>": "<%dL_KAUKAZU> <%sL_KAITAI_ITEM>?|That'll be <%dL_BUY_PRICE> Gold in total.|You want to buy it?|<yesno><break>"
     },
     "720": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITE... You can't equip this|unless you're <%sL_GENDER>, is that right?<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't equip|this unless you're <%sL_GENDER>.|That all right?|<yesno 2><break>"
     },
     "721": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this with your current|vocation, is this okay?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんの職業だと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this with your current|vocation. That all right?|<yesno 2><break>"
     },
     "722": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this at your current level, is|this okay?|<yesno 2><break>"
