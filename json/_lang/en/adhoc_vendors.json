@@ -24,7 +24,7 @@
         "「<%sL_KAITAI_ITEM>か。|　こいつは　お客さんのレベルじゃ|　まだ装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>?|You can't equip this at your current level, is|this okay?|<yesno 2><break>"
     },
     "9": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This one can only be equipped with|<%sL_SYOKUNIN>. Is that okay?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This can only be equipped if you know|<%sL_SYOKUNIN>. That all right?|<yesno 2><break>"
     },
     "10": {
         "「まいどありぃ！|　ここで　装備していくかね？|<yesno 2><break>": "Many thanks!|Want to equip it here?|<yesno 2><break>"
@@ -2169,7 +2169,7 @@
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't equip|this unless you're <%sL_RACE>.|That all right?|<yesno 2><break>"
     },
     "724": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This one can only be equipped with|<%sL_SYOKUNIN>. Is that okay?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This can only be equipped if you know|<%sL_SYOKUNIN>. That all right?|<yesno 2><break>"
     },
     "725": {
         "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both|<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.|That all right?|<yesno><break>"
@@ -5745,7 +5745,7 @@
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't equip|this unless you're <%sL_RACE>.|That all right?|<yesno 2><break>"
     },
     "1916": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This can only be equipped as a|<%sL_SYOKUNIN>. That all right?|<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_SYOKUNIN>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "This can only be equipped if you know|<%sL_SYOKUNIN>. That all right?|<yesno 2><break>"
     },
     "1917": {
         "「<%sL_KAITAI_ITEM>は|　<%sL_EQUIP_POINT1>と　<%sL_EQUIP_POINT2>の　２か所に|　装備する物だが　いいかね？|<yesno><break>": "<%sL_KAITAI_ITEM> will be equipped in both|<%sL_EQUIP_POINT1> and <%sL_EQUIP_POINT2>.|That all right?|<yesno><break>"
