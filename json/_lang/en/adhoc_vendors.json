@@ -468,7 +468,7 @@
         "「こちらは　装備されれば|　戦いのときに　どうぐとして|　お使いいただいても　効果が　ございます。|<bw_break>": "If you equip it, you can use it as a weapon|in battle...<bw_break>"
     },
     "157": {
-        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITE... You can't equip this|unless you're <%sL_GENDER>, is that right?<yesno 2><break>"
+        "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_GENDER>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't equip|this unless you're <%sL_GENDER>.|That all right?|<yesno 2><break>"
     },
     "158": {
         "「<%sL_KAITAI_ITEM>か。|　こいつは　<%sL_RACE>じゃないと|　装備できないが　いいんだな？|<yesno 2><break>": "<%sL_KAITAI_ITEM>? You can't equip|this unless you're <%sL_RACE>.|That all right?|<yesno 2><break>"
