@@ -144,7 +144,7 @@
         "「ここは　旅人の宿屋だよ。|　おや　今日は　旅のお仲間がいるようだね。|<br>|「他の旅人さんとは　一緒に泊まれないから|　おひとり分で　<%nL_YADOYA_GOLD>ゴールドに　なるけど|　休んでいくかい？|<yesno><break>": "This is a traveler's inn... Oh, there's a|fellow traveler here today... You can't stay|with other travelers, so you'll have to pay|<br>|<%nL_YADOYA_GOLD>Gold for one|person.<yesno><break>"
     },
     "49": {
-        "「ここは　旅人の宿屋だよ。|　おや　今日は　酒場で紹介してもらった|　仲間も　一緒だね。|<br>|「みんなで　<%nL_YADOYA_GOLD>ゴールドに　なるけど|　休んでいくかい？|<yesno><break>": "This is a traveler's inn... Well, some of our|friends who were introduced to us at the|bar... We're all going to be|<br>|<%nL_YADOYA_GOLD> gold, so why|don't we take a break?<yesno><break>"
+        "「ここは　旅人の宿屋だよ。|　おや　今日は　酒場で紹介してもらった|　仲間も　一緒だね。|<br>|「みんなで　<%nL_YADOYA_GOLD>ゴールドに　なるけど|　休んでいくかい？|<yesno><break>": "This is a traveler's inn. Oh, I was|introduced to you at the bar today.|<br>|It'll be <%dL_YADOYA_GOLD> gold for you and your|party. Do you want to stay the night?<yesno><break>"
     },
     "50": {
         "「ここは　旅人の宿屋だよ。|　おや　いっぱい　お仲間がいるようだね。|　酒場で紹介された仲間なら　一緒に泊まれるよ。|<br>|「合わせて　<%nL_YADOYA_GOLD>ゴールドに　なるけど|　休んでいくかい？|<yesno><break>": "This is a traveler's inn... Oh, look, we have|lots of company... If you've been introduced|at the tavern, you can stay with us... That's|<br>|a total of <%nL_YADOYA_GOLD>|gold.<yesno><break>"
