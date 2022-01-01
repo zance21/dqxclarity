@@ -2274,7 +2274,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "759": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "760": {
         "「はい　おまかせくださいね！|　お花たちを　きれいにまとめて……|<br>|「はい！　できました！|　では　<%sL_GOODS_ITEM>を|　お受け取りください！|<end>": "Yes, I'm at your service! I'll put all the|flowers together nicely... Yes! It's done!|Please pick up your <%sL_GOODS_ITEM>!<end>"

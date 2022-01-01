@@ -276,7 +276,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "93": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "94": {
         "「アイテム交換屋では|　決められた数のアイテム同士を　無料で|　交換することが　できます。|<br>|「なお　期限の切れた運命のカードは|　交換に使えませんので　ご了承ください。|<bw_break>": "In the Item Exchange, you can exchange a set|number of items for free... Please note that|expired cards cannot be used for exchanges...|<br><bw_break>"
@@ -483,7 +483,7 @@
         "「どのブローチを　くれるんダ？|<break>": "Which brooch will you give me?<break>"
     },
     "162": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "163": {
         "「オレに渡すブローチ　選ベ。|<break>": "I'll give you the broach...<break>"
@@ -699,7 +699,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "234": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "235": {
         "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
@@ -789,7 +789,7 @@
         "「どいつが　ほしいンだ？|<break>": "Which one do you want?<break>"
     },
     "264": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "265": {
         "「どいつを　渡してくれるンだ？|<break>": "Which one are you going to give me?<break>"
@@ -879,7 +879,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "294": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "295": {
         "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"
@@ -969,7 +969,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "324": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "325": {
         "「どのアイテムを　渡してもらえますか？|<break>": "Which item would you like to give me?<break>"
@@ -1026,7 +1026,7 @@
         "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "343": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "344": {
         "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
