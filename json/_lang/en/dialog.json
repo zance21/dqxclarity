@@ -3756,13 +3756,13 @@
         "フレンドが|書いたかきおきを|読みます": "Read the|notes my friends|have written."
     },
     "1253": {
-        "<speed=0>フレンドのかきおきメモが　ありません。": ""
+        "<speed=0>フレンドのかきおきメモが　ありません。": "<speed=0>There are no friend notes."
     },
     "1254": {
         "clarity_nt_char_1254": "clarity_nt_char_1254"
     },
     "1255": {
-        "<speed=0>チームメンバーのかきおきメモが　ありません。": ""
+        "<speed=0>チームメンバーのかきおきメモが　ありません。": "<speed=0>There are no Team member notes."
     },
     "1256": {
         "<speed=0><%sM_item>を　逃がしますか？<yesno2><close>": "<speed=0>Let the <%sM_item> go?<yesno2><close>"
@@ -3786,13 +3786,13 @@
         "<speed=0>取り付けるルアーを選んでください": "<speed=0>Please choose a lure to attach."
     },
     "1263": {
-        "<speed=0>しかし　装備の仕方がわからなかった！": ""
+        "<speed=0>しかし　装備の仕方がわからなかった！": "<speed=0>But you didn't know how to equip it!"
     },
     "1264": {
         "<speed=0>これ以上　コロシアムでは　使えない！": "<speed=0>No more can be used in the Coliseum!"
     },
     "1265": {
-        "<speed=0><%sM_enemy>は　みやぶることができない！": ""
+        "<speed=0><%sM_enemy>は　みやぶることができない！": "<speed=0><%sM_enemy> cannot be Seen Through!"
     },
     "1266": {
         "clarity_nt_char_1266": "clarity_nt_char_1266"
@@ -3804,7 +3804,7 @@
         "clarity_nt_char_1268": "clarity_nt_char_1268"
     },
     "1269": {
-        "<speed=0>集会所が　設定されていません。": ""
+        "<speed=0>集会所が　設定されていません。": "<speed=0>Clubhouse has not been set."
     },
     "1270": {
         "clarity_nt_char_1270": "clarity_nt_char_1270"
