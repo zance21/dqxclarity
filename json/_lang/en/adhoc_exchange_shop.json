@@ -45,7 +45,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "16": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "17": {
         "「当店では　お客さまがお持ちのフェザーチップを|　素敵なアイテムと　交換することができます。|　なお　手数料は　いただいておりません。|<br>|「フェザーチップは　討伐の報告の際に|　報酬として　手に入れることができます。|<bw_break>": "We're happy to exchange your feather chips|for some great items... We do charge a fee|for this service... Feather Chips can be|<br>|obtained as a reward when you report a|kill...<bw_break>"
@@ -96,7 +96,7 @@
         "「商品リスト　カモーン！|　ユーの好きなの　選んでね！|<break>": "Product List Camoons! Choose the one you|like!<break>"
     },
     "33": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "34": {
         "「打ち上げ花火を　まとめて渡してくれれば|　もっともっと　ティンクルな花火グッズを|　ユーに　プレゼントしちゃうぜ！　ヒュー！|<br>|「手数料は　ノーセンキュー！　いらないよ！|　花火屋にとっちゃ　ユーが　夜空に咲かせる花が|　何よりのプライズ……なんてねファイアー！|<bw_break>": "If you give me a bunch of fireworks, I'll|give you even more tinkly fireworks goodies!|Hugh! No commission, please! No, thank you!|<br>|The best prize a pyrotechnician can get is|the flowers you put in the sky. Oh, Fire!<bw_break>"
@@ -219,7 +219,7 @@
         "「どのアイテムを　交換しますかねー？|<break>": "Which item would you like to trade?<break>"
     },
     "74": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "75": {
         "「えっとー　アイテム交換屋では|　決まった数のアイテム同士を|　なんと　無料で　交換できるんです！|<br>|「わたしのお店では　めずらしいお花ひとつと|　そうでもないお花５つを　交換してまーす。|　質より量って方は　ぜひ　ご利用くださいねー。|<br>|「それから　超おたから花っていう|　すごーい花から手に入る　おたからの花びらと|　かわいい家具との交換も　やってるんですよー。|<br>|「その花のタネ……　超おたからのタネは|　スペシャルふくびきで　ゲットできるそうなので|　そっちも　よろしくお願いしまーす。|<bw_break>": "At the item exchange shop, you can trade a|certain number of items for free! At my shop,|we trade one rare flower for five not-so-|<br>|common ones... If you prefer quantity to|quality, please use this service... We also|have a super treasure flower where you can|<br>|trade petals of treasure you can get from an|amazing flower for cute furniture... The|seeds of that flower... I heard you can get|<br>|the seeds from a special lucky draw, so|please try that too...<bw_break>"
@@ -609,7 +609,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "204": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "205": {
         "「どのアイテムを　渡していただけますか？|<break>": "Which item would you like to give me?<break>"

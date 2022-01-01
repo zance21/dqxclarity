@@ -342,7 +342,7 @@
         "「あら？　そうびぶくろが　いっぱいだから|　受け取れないようよ。|<bw_break>": "What? My sack is full. I can't take it...<bw_break>"
     },
     "115": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "116": {
         "「では　こちらの破片をどうぞ。|<end>": "Okay, let's take this piece...<end>"

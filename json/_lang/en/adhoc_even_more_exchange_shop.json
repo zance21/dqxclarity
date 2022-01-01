@@ -390,7 +390,7 @@
         "「……貴様の　そうびぶくろには|　それ以上　入らないようだ。|<end>": "... I'm not going any further in your sash...<end>"
     },
     "131": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "132": {
         "「受け取るがよい。コフーーー……。|<end>": "I'll take that... Kofoooo...<end>"
@@ -480,7 +480,7 @@
         "「むむむむむ！　そうびぶくろ　いっぱいで|　受け取れないですネ！|<end>": "Mmm-mmm! My sobriety bag is full. I can't get|it!<end>"
     },
     "161": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "162": {
         "「では　受け取るですネ！|<end>": "Then I'll take it!<end>"
@@ -660,7 +660,7 @@
         "「あれれ～？　そうびぶくろが　いっぱいで|　受け取れないみたいだよ～？|<end>": "Huh~? It looks like I can't receive the|envelope because it's full~?<end>"
     },
     "221": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "222": {
         "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
@@ -750,7 +750,7 @@
         "「あら？　そうびぶくろが　いっぱいで|　受け取れないようね～。|<end>": "What? There's too many envelopes. I can't|take it...<end>"
     },
     "251": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "252": {
         "「それじゃ　受け取ってね！|<end>": "Take it then!<end>"
@@ -840,7 +840,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "281": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "282": {
         "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
@@ -930,7 +930,7 @@
         "「あれ……<pc>ちゃん？|　そうびぶくろが　いっぱいで|　受け取れないよー。|<end>": "Oh<pc> Hello? I can't take your bag. It's full.<end>"
     },
     "311": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "312": {
         "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
@@ -1407,7 +1407,7 @@
         "「ほかに　何か用はある？|<break>": ""
     },
     "470": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "471": {
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と　交換する？|<yesno 2><break>": "Replace this <%sL_BAG_ITEM> with|<%sL_GOODS_ITEM>?<yesno 2><break>"
@@ -1617,13 +1617,13 @@
         "「他に　何かありますか？|<break>": ""
     },
     "540": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "541": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "542": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "543": {
         "「<%sL_GOODS_ITEM>か。|　オマエの素材と交換するが　イイんだな？|<yesno><break>": "<%sL_GOODS_ITE... I'll trade you your|material for it. Is that okay with you?<yesno><break>"
@@ -1872,7 +1872,7 @@
         "「他に　何かありますか？|<break>": ""
     },
     "625": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "626": {
         "「<%sL_GOODS_ITEM>ですね。|　<pc>の　持っているアイテムと|　交換します。よいですね？|<yesno><break>": "<%sL_GOODS_ITEM>...<pc> I'll trade you the item that you have for the|item that... Isn't it?<yesno><break>"
@@ -2028,7 +2028,7 @@
         "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
     },
     "677": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "678": {
         "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
