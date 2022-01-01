@@ -1,0 +1,902 @@
+{
+    "1": {
+        "「ノマ……　すこし　落ち着いたらどうです。": "Noma... When you're a little calmer..."
+    },
+    "2": {
+        "「そ…そうおっしゃられましても　ヒメア様！": "Well... Even if you say so, Lady Himea!"
+    },
+    "3": {
+        "「今日は　この学問の村　ツスクルが誇る|　若き天才　<pc>が……": "Today, the pride of the academic village of Tuskul| young genius<pc> が"
+    },
+    "4": {
+        "「長年　待ち望まれた　古代呪文を|　復活させるかもしれないのですよ？": "What if we could bring back an ancient spell|that's been long overdue?"
+    },
+    "5": {
+        "「滅びた呪文の復活は　今まで|　誰も成功させることが　できなかった|　とても　むずかしいこと。": "Resurrecting a defunct spell has been so|difficult that no one has ever succeeded..."
+    },
+    "6": {
+        "「ですが　あの子なら……<pc>なら|　できるような気がするのです。": "But he's a<pc> I feel like I can do it if..."
+    },
+    "7": {
+        "「………そうですね。": "... So..."
+    },
+    "8": {
+        "「では　すこしだけ　風に聞いてみましょう。|　あの子の　行く末を。": "Let me ask the wind for a moment... What's|she doing?"
+    },
+    "9": {
+        "「はいっ！": "Yes!"
+    },
+    "10": {
+        "「こ　これは……。": "This is..."
+    },
+    "11": {
+        "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Just a little more...<else>Just a little more...<endif>"
+    },
+    "12": {
+        "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this ancient spell is revived, the land of|Eltona will not be in danger of being|destroyed..."
+    },
+    "13": {
+        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>I can't!<else>Oh, shit!<endif>"
+    },
+    "14": {
+        "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<pc> Sama~! Teach me a little more about|studying~!"
+    },
+    "15": {
+        "「<pc>さまっ！？": "<pc> What the hell?"
+    },
+    "16": {
+        "「こ　こういうときは　ええと……": "In a situation like this, it's, uh"
+    },
+    "17": {
+        "「心臓……　停止……？": "Heart... Stop...?"
+    },
+    "18": {
+        "「呼吸停止……？？": "Respiratory arrest...?"
+    },
+    "19": {
+        "「……………………。": "..."
+    },
+    "20": {
+        "「ぎゃああああっ　生きてるっ！！！": "Geez, he's alive!"
+    },
+    "21": {
+        "「だって　だって　<pc>さまが|　死んでたのに　生きてるんだもん！": "Even though<pc> You were dead, and now you're alive!"
+    },
+    "22": {
+        "「そんなことより……": "It doesn't matter"
+    },
+    "23": {
+        "「そろそろ　若葉の試みを始めるらしいぞ！": "I hear they're about to start trying the|young leaves!"
+    },
+    "24": {
+        "「ど　どうしよう……|　<pc>さま～～～。": "I don't know|<pc> Sir..."
+    },
+    "25": {
+        "「フウラ！|　<pc>さま　<pc>さまって|　ちょっと　頼りすぎだぞ！": "Foula!<pc>  appearance<pc> You're relying on me too much!"
+    },
+    "26": {
+        "「ふんっ　アサナギのイジワル！": "Hmph. Asanagi's a tease!"
+    },
+    "27": {
+        "「<pc>さまは　優しいから　いいの！|　ね～っ　ケキちゃん<heart>": "<pc> It's okay, you're so kind! Hey~, Keki!<heart>"
+    },
+    "28": {
+        "「とにかく　これが　ボクたちの卒業試験だ。|　最後の試験で　ボクは　キミに勝つ！": "Anyway, this is our graduation. I'm gonna|beat you on the final exam!"
+    },
+    "29": {
+        "「アサナギってば　若葉の試みに|　受かる気　満々だ……。|　そうだよね　アサナギも　アタマいいもんね。": "Asanagi is so determined to pass the test of|Wakaba. You're right. Asanagi is smart..."
+    },
+    "30": {
+        "「はあ……　私も　いっぱい|　勉強したんだけどな……。": "Huh... I studied a lot too..."
+    },
+    "31": {
+        "「ふう……。|　いいなあ　アカシちゃんは|　まだ　若葉の試みまで　３年もあって……。": "Wow. I like you, Akashi. You've still got|three years to try your hand at young|leaves..."
+    },
+    "32": {
+        "「いや～　いやいや！|　モズさんじゃあ　ないですか！": "No~ No~ No! It's the Shrike!"
+    },
+    "33": {
+        "「ところで　モズさん。|　若葉の試みを受けるのも　３回目でしたよねえ？|　そろそろ　合格したいですよねえ？": "By the way, Mo... This is the third time|you've taken Wakaba's test, right? Don't you|want to pass by now?"
+    },
+    "34": {
+        "「そんなあなたに　心強い味方！|　辞書の中身を　丸ごと覚えられる|　キュウスケ様の　魔法のクスリは　いかがかな？": "I'm here to help you. How about Kyusuke-|sama's magic drug that allows you to memorize|the entire contents of the dictionary?"
+    },
+    "35": {
+        "「１万ゴールド！　と言いたいとこだけど|　今なら　試験直前　大サービス！！|　たったの　４０００ゴールドだ！　しかも！！": "Ten thousand gold! I'd love to tell you, but|right now, I'm offering you a great deal just|before the exam! It's only 4,000 gold! And|<br>|that's not all!"
+    },
+    "36": {
+        "「今なら　なんと　もう１本！|　同じ物を　もう１本　つけちゃおう！": "Now you can have another one! Let's get|another one just like it!"
+    },
+    "37": {
+        "「買うかい？　買うだろ？|　買うに決まってるよなあ？": ""
+    },
+    "38": {
+        "「<pc>さん！": "<pc> Three!"
+    },
+    "39": {
+        "「これはこれは　学びの庭　創設以来の大天才！ |　知性の泉　知識の宝庫とうたわれる|　神童　<pc>さんっ！": ""
+    },
+    "40": {
+        "「こんなモン　<pc>さんには|　まったく　必要のない物ですよ。|　へっへっへ……。": "such a monk<pc> You don't need any of this... Heh heh heh..."
+    },
+    "41": {
+        "「では　私は　先を急ぎますので！|　アディオース！！！": "Well, I'd better get going. Adiós!"
+    },
+    "42": {
+        "「どうしよう……。|　あんなに　勉強したのに|　ドキドキして　全然　思いだせないの。": "I can't... I've studied so hard, but I'm so|nervous, I can't remember anything."
+    },
+    "43": {
+        "「東の空から　火の矢が落ちた。|　燃え落ちるは　青い屋根　赤い屋根……|　って　なんの引用だっけ？": "From the eastern sky, an arrow of fire...|Blue roofs burning down, red roofs... I don't|know what that's from."
+    },
+    "44": {
+        "「<pc>！": "<pc> ！"
+    },
+    "45": {
+        "「うっ　イズヤノイ先生……！": "Ugh, Dr. Izuyanoy...!"
+    },
+    "46": {
+        "「いよいよ　この日が来たな。": "This is the day..."
+    },
+    "47": {
+        "「今年の　若葉の試みには|　天才<pc>と　秀才アサナギが挑む。": "For this year's attempt at Wakaba| genius<pc> and the brilliant Asanagi..."
+    },
+    "48": {
+        "「この学びの庭の　創設以来|　はじめて　複数の合格者が出るのではないかと|　皆　楽しみにしているぞ！": "For the first time since the founding of the|Garden of Learning, we're expecting more than|one student to pass."
+    },
+    "49": {
+        "「さて……　全員　そろったようだな。": "Well... We're all here..."
+    },
+    "50": {
+        "「よし。集まれ！！": "All right. Gather round!"
+    },
+    "51": {
+        "「我が庭の　学びの徒たちよ。|　よくぞ　これまで修練に　はげみ|　がんばってきた！": "A student of my garden... You've worked hard,|you've trained hard, you've worked hard!"
+    },
+    "52": {
+        "「ここに集いし　お前たちは|　これより　若葉の試みを受けることとなる！": "All of you gathered here will now undergo the|trials of the young!"
+    },
+    "53": {
+        "「若葉の試みとは　古くより|　この学びの庭に伝わる　最終試験。|　おのれの知識と　チカラを示す試練だ。": "The Wakaba Trial is the most ancient|tradition in the Garden of Learning... To|demonstrate your knowledge and your power..."
+    },
+    "54": {
+        "「知を試す　一次試験と|　チカラを試す　二次試験……。": ""
+    },
+    "55": {
+        "「この双方に合格した者には|　一人前の証が授けられ|　学びの庭を　卒業となる。": ""
+    },
+    "56": {
+        "「だが　残念ながら|　若葉の試みに　不合格だった者は|　また１年　修練の　やり直しだ！ ": "But unfortunately, those who fail the Young|Master's attempt will have to train for|another year!"
+    },
+    "57": {
+        "「……さて。前置きは　これくらいにして|　これより　一次試験を始めよう！": "..... So, without further ado, let's get|started with the first test!"
+    },
+    "58": {
+        "「お前たちには　このツスクルの村を出て|　知恵の社へ　行ってもらう。|　そこが　知の試練の会場である。": "I want you to leave the village of Tuskul and|go to the Shrine of Wisdom. That is the site|of the Trials of Wisdom."
+    },
+    "59": {
+        "「村の外には　魔物がいるからな。|　知恵の社へ向かうことも　また|　お前たちに与えられた　ひとつの試練である！": "There are demons outside the village. The|journey to the Wisdom Shrine is another test|you have been given!"
+    },
+    "60": {
+        "「行け！　試験は　今　始まったのだ！！": "Go! The test has just begun!"
+    },
+    "61": {
+        "「ふむ。けっこう　けっこう。|　アサナギよ　カンペキな答えじゃったぞい。|　学びの庭で　しっかり学んできたようじゃな。": "Hmm. It's quite... Asanagi, that's a perfect|answer... It seems you've learned your lesson|in the garden of learning..."
+    },
+    "62": {
+        "「これで　お前さんの知の試練は　終わりじゃ。|　学びの庭へ　戻りなさい。": "Your intellectual ordeal is now at an end.|Return to the Garden of Learning..."
+    },
+    "63": {
+        "「ありがとうございました。": "Thank you..."
+    },
+    "64": {
+        "「それでは　次…… |　誰が　知の試練を受けるのじゃ？": "So, next... Who will stand the test of|knowledge?"
+    },
+    "65": {
+        "「ふむ……。": "Hmm..."
+    },
+    "66": {
+        "「おお　<pc>ではないか。|　そんな所に　突っ立っておらんと|　こっちへ来い。": "oh!<pc> Well... Don't just stand there. I'll..."
+    },
+    "67": {
+        "「<pc>よ。|　お前さんとは　いく晩も|　ここで　語り明かしたのう。": "<pc> Hey. You and I could sit here all night and|talk..."
+    },
+    "68": {
+        "「そなたの知識のほど|　知の試練で　試すまでもないことは|　わしが　よう知っておる。": "I know that your knowledge is too great to be|tested by the test of knowledge."
+    },
+    "69": {
+        "「どうじゃ　<pc>。|　お前さんのチカラなら　卒業は確実。|　最後の機会じゃ。わしの問いに答えておくれ。": "large and small buildings, esp shrines and temples<pc> . With your power, we can graduate... The|last chance... Answer my question..."
+    },
+    "70": {
+        "「では　いくぞ……。": "Okay, here we go..."
+    },
+    "71": {
+        "「我らエルフは　世界樹と　ともに生き|　ともに滅びる運命だという。|　これは　真実であろうか？<yesno><close>": "We Elves are destined to live with the World|Tree and die with it. Is there any truth to|this?<yesno><close>"
+    },
+    "72": {
+        "「ふむふむ……　なるほど。|　では　次。": "Mmm-hmm... Well... So..."
+    },
+    "73": {
+        "「遠い昔……　空には|　ふたつの太陽が　のぼっていたという。|　これは　真実であろうか？<yesno><close>": "A long time ago... Two suns were rising in|the sky... Could this be true?<yesno><close>"
+    },
+    "74": {
+        "「ふむふむ……　なるほど。|　では　最後じゃ。": "Mmm-hmm... Well... Then, the best..."
+    },
+    "75": {
+        "「この知恵の社から見える　光の河……|　聖なるものとも悪しきものとも　言われておる。|　<pc>は　聖なるものと思うかの？<yesno><close>": "From this shrine of wisdom, the River of|Light... Some say it's holy, some say it's|evil...<pc> Do you think that's holy?<yesno><close>"
+    },
+    "76": {
+        "「そうか……。": "Well..."
+    },
+    "77": {
+        "「いやあ　よかった！|　こんなに　めでたいことはない！": "Oh, my goodness! This is the best thing|that's ever happened to me!"
+    },
+    "78": {
+        "「<pc>とは　長い間　ずっと議論を|　戦わせてきたが　最後の最後で|　わしと　まったく同じ意見になるとはのう！": "<pc> I've been arguing with you for a long time,|but I never thought we'd end up agreeing on|exactly the same thing!"
+    },
+    "79": {
+        "「これで　胸のつかえも下りた！|　<pc>と　意見がひとつになったのじゃ。|　これほど　心強いことはない。": "Now I can get it off my chest!<pc> And now that we're on the same page... I've|never been more encouraged..."
+    },
+    "80": {
+        "「<pc>よ。|　一人前となった　あかつきには|　ともに　飲み明かそうぞ！": "<pc> Hey! When you're on your own, we'll drink|together!"
+    },
+    "81": {
+        "「おっと……　今は　知の試練の最中じゃったな。": "Whoa... I'm in the middle of a test of|knowledge..."
+    },
+    "82": {
+        "「では　<pc>よ。|　お前さんの　知の試練は終わりじゃ。": "well<pc> I'm sorry. The test of your knowledge is|over..."
+    },
+    "83": {
+        "「ツスクルの村の　学びの庭に戻るがよい。 |　そして　知の試練を終えたことを|　イズヤノイ先生に　報告するのじゃ。": "I will return to the Garden of Learning in|the village of Tuskul... And report to Dr.|Izhyanoy that you have completed the test of|<br>|knowledge..."
+    },
+    "84": {
+        "「<pc>！": "<pc> ！"
+    },
+    "85": {
+        "「さっきの　トヨホロ先生への答え……|　あれは　なんだ？": "In answer to Dr. Tochihoro... What's that?"
+    },
+    "86": {
+        "「トヨホロ先生は　よろこんでいたが|　……ボクには　わかる。|　あんなの　いつものキミの答えじゃない！": "Dr. Toyohoro was happy to see me, but... But|I... That's not your usual answer."
+    },
+    "87": {
+        "「どういうつもりか　知らないが|　力の試練は　マジメにやってくれよ。": "I don't know what you think you're doing, but|I'm serious about these trials of strength..."
+    },
+    "88": {
+        "「<pc>さま……。": "<pc> Sir..."
+    },
+    "89": {
+        "「私……　全然　答えられなかったの……。": "I... I couldn't answer any of your questions,|so..."
+    },
+    "90": {
+        "「あんなに……勉強したのに|　アタマが　真っ白になっちゃって……。": "I've been studying so much. I studied so|hard, and my mind just went blank."
+    },
+    "91": {
+        "「ねえ　<pc>さま。|　もし　私が　知の試練に受からなくても……": "hey<pc> Dear Lord. If I do not pass the test of|knowledge..."
+    },
+    "92": {
+        "「ずっとずっと　友達でいてくれるよね？<yesno><close>": "You'll always be my friend, won't you?<yesno><close>"
+    },
+    "93": {
+        "「ほっ……本当！？": "Ho... Really?"
+    },
+    "94": {
+        "「ありがとう　<pc>さま！|　もう　クヨクヨしないよ。|　<pc>さまが　いてくれるもん。": "Thank you<pc>  Sir! I can't take it anymore...<pc> I'm glad you're here."
+    },
+    "95": {
+        "「うっ……。": "Ugh..."
+    },
+    "96": {
+        "「………………。": "..."
+    },
+    "97": {
+        "「………………………………。": "..."
+    },
+    "98": {
+        "「それって……　こんな暗い私とは|　友達でいたくないって　意味だよね？": "That means... It means you don't want to be|friends with me, right?"
+    },
+    "99": {
+        "「わかった　元気出すよ！|　もう　クヨクヨしない。|　<pc>さまに　きらわれたくないもん！": "Okay, I'll cheer up! I can't believe I'm|doing this.<pc> I don't want to be judged by you!"
+    },
+    "100": {
+        "「<pc>　ここにいたのか。": "<pc> I'm here..."
+    },
+    "101": {
+        "「これから　知の試練の|　合格者発表をするらしいぞ。|　全員　広場に　集まれってさ。": "We're about to announce the winners of the|Trials of Knowledge. Everyone, gather in the|square..."
+    },
+    "102": {
+        "「それにしても　なんか変だな……。|　まあ　いいけど。": "Anyway, something's wrong... Well..."
+    },
+    "103": {
+        "「はあ……　帰ってきて　すぐ発表かあ。": "Oh... I'll be home soon..."
+    },
+    "104": {
+        "「<pc>　来たか。": "<pc> ..."
+    },
+    "105": {
+        "「よし　全員　整列しろ！": "All right, everybody line up!"
+    },
+    "106": {
+        "「皆　よく　がんばったな！|　お前たちの答え　確かに受け取った。": "Good job, everybody! I'll take your answers,|I promise."
+    },
+    "107": {
+        "「では　さっそく|　一次試験の合格者を　発表しよう！": "Let's begin by announcing who passed the|first round of exams!"
+    },
+    "108": {
+        "「<pc>！": "<pc> ！"
+    },
+    "109": {
+        "「そして　キュウスケ！": "And Kyusuke!"
+    },
+    "110": {
+        "「以上！！": "Above!!!"
+    },
+    "111": {
+        "「はじめて　知の試練に合格した|　<pc>と　アサナギは　前へ。": "For the first time, I passed the test of knowledge|<pc> And Asanagi..."
+    },
+    "112": {
+        "「知の試練に合格した証として　ふたりに|　ルーラストーンを授与する。使い方は|　寄宿舎の前にいる　ジアンに聞くといい。": "As a sign that you have passed the Trials of|Knowledge, you will both receive a ruler|stone... Jian will show you how to use it in|<br>|front of the boarding house."
+    },
+    "113": {
+        "<pc>は|ルーラストーンを　受け取った！<me 60>": "<pc> has received the Rulastone!<me 60>"
+    },
+    "114": {
+        "「合格者の３名は　巫女の館へ向かえ。 |　そこで　みそぎを受けた者から|　世界樹の丘へ　出発するように。": "The three who pass will go to the shrine of|the maiden... Those who have passed the|purification ceremony will go to the World|<br>|Tree Hill..."
+    },
+    "115": {
+        "「残りの者は　部屋に　戻りなさい。|　もう１年　修練の　やり直しだ！|　では　解散っ！！": "The rest of us will return to our chambers...|We have one more year of training ahead of|us! Then dismissed!"
+    },
+    "116": {
+        "「ううっ……。": "Ugh..."
+    },
+    "117": {
+        "「やっぱり　ダメだったよ……|　ケキちゃん………。": "I knew it was a bad idea... Keki..."
+    },
+    "118": {
+        "「私……　どうしたら　いいの……？": "I... How do I...?"
+    },
+    "119": {
+        "「うっ　うっ……。": "Ugh. Ugh..."
+    },
+    "120": {
+        "「……………………。": "..."
+    },
+    "121": {
+        "「先に行く者と　残される者。|　試験とは　こういうものだ……。|　お前たちが　気に病む必要はない。": "The first to go, the last to stay... This is|what the test is all about. You don't have to|worry about it."
+    },
+    "122": {
+        "「傷心に　ひたっていては|　世界樹の丘へ　たどり着けぬぞ。|　さあ　行け　世界樹の若葉たちよ！": "We can't let our broken hearts take us to the|World Tree Hill... Go, go, young leaves of|the world tree!"
+    },
+    "123": {
+        "「<pc>さん！": "<pc> Three!"
+    },
+    "124": {
+        "「来てくださって　よかっただ。|　フウラさんが……。": "I'm so glad you're here... Mr. Fourah..."
+    },
+    "125": {
+        "「うっ　ううっ……|　ひっく……　うえっ……。": "Ugh. Ugh... Hiccup... Ugh..."
+    },
+    "126": {
+        "「やっぱり　私　バカなんだ……。|　もの覚えの悪い　ダメな子なんだ……。": "I'm such an idiot... I'm a bad kid who can't|remember anything."
+    },
+    "127": {
+        "「<pc>さまとも　アサナギとも|　キュウスケとも　全然|　アタマのできが　ちがうんだ……。": "<pc> I'm not like you, Asanagi, or Kyusuke at|all..."
+    },
+    "128": {
+        "「フウラさん　元気さ出すだ。|　<pc>さんが　来てくれただよ！": "Mr. Fourah, how are you...<pc> You're here!"
+    },
+    "129": {
+        "「<pc>さまが！？": "<pc> The Lord!"
+    },
+    "130": {
+        "「<pc>さま　どうして……？": "<pc> Sir, why...?"
+    },
+    "131": {
+        "「力の試練……　もう始まってるんでしょ？|　こんな所へ　来てる場合じゃないのに。": "Trials of strength... It's already started,|right? I don't think we should be here..."
+    },
+    "132": {
+        "「私を　心配してくれたんだね。|　ごめんね……。": "You were worried about me. I'm sorry..."
+    },
+    "133": {
+        "「ありがとう　<pc>さま。|　私　もう大丈夫！": "Thank you<pc> sir. I'm okay now!"
+    },
+    "134": {
+        "「あっ！　そうだ。|　この　<%sEV_ITEM>を　持っていって。": "Aah! ... I have this <%sEV_ITEM>..."
+    },
+    "135": {
+        "<pc>は|<%sEV_ITEM>　５個を　受け取った！<se_nots System 7>": "<pc> has received <%sEV_ITEM> 5!|<se_nots System 7>"
+    },
+    "136": {
+        "「故郷の　お父さまが　送ってくれたんだけど|　私　ダメだったから……。|　代わりに　<pc>さまが　使って。": "My father back home sent it to me, but I|couldn't, so... Instead.<pc> Sir..."
+    },
+    "137": {
+        "「<pc>さまは　勉強だけじゃなくて|　チカラも強いから　絶対|　力の試練にも　合格できるよ！": "<pc> You're not just good at studying, you're|strong too, so you can definitely pass the|trials of strength!"
+    },
+    "138": {
+        "「もう行って　<pc>さま。|　ありがとうね。|　私　ちょっと　風にあたってくる。": "Just go<pc> sir. Thank you... I got a little wind..."
+    },
+    "139": {
+        "「よくいらっしゃいました。|　若き　世界樹の葉　<pc>よ。|　わたくしの名は　アザユミ……": "Welcome to the... The leaves of the young|world tree.<pc> Hi. My name is Azayumi..."
+    },
+    "140": {
+        "「ユーチャーリン！　愛してるっ！！": "Eucharin! I love you!"
+    },
+    "141": {
+        "「ふう……。キュウスケさんは|　まだ　中に　いらっしゃるのか。": "Hmm... Mr. Kyusuke is still inside..."
+    },
+    "142": {
+        "「キュウスケさん！|　みそぎは　終わられたのでしょう？|　すみやかに　世界樹の丘へ　ご出発ください！": "Mr. Kyusuke! You have finished your|purification ritual, haven't you? Please|depart for the Hill of the World Tree as soon|<br>|as possible!"
+    },
+    "143": {
+        "「くうっ！　オレは　こうして　みそぎの間で|　ユーチャーリンに会うためだけに|　毎年　若葉の試みに　落第してるんだぞ！": "Damn it! I've been flunking the Wakaba Trials|every year just so I can meet Eucharin in the|Misogi Room!"
+    },
+    "144": {
+        "「年に一度の　貴重な時間なんだから|　ゆっくり会わせてくれても　いいじゃねえか！": "It's only once a year, so why don't you just|let me see her slowly!"
+    },
+    "145": {
+        "「キュウスケさん……！": "Mr. Kyusuke...!"
+    },
+    "146": {
+        "「ああっ　ごめんよ。|　大きな声を　出したりして……。": "Oh, no... You know, if you scream too loud..."
+    },
+    "147": {
+        "「そうだね　キミの立場を悪くしちゃいけない。|　残念だけど　おとなしく帰るよ……。": "You're right. I don't want to put you in a|position where you... I'm sorry, but I'm just|gonna go."
+    },
+    "148": {
+        "「愛してるよ　ユーチャーリン。": "I love you, eucha..."
+    },
+    "149": {
+        "「うれしい……　キュウスケさん。": "I'm so happy... Cuus..."
+    },
+    "150": {
+        "「それじゃ　また来年なっ！|　アディオース！！": "See you next year! Adiós!"
+    },
+    "151": {
+        "「まったく　なげかわしい……。|　あのような者が　知の試練の合格者とは。": "What a pity... Such a man has passed the test|of knowledge..."
+    },
+    "152": {
+        "「お待たせしましたね。|　では　巫女ヒメア様のもとへ|　お言葉を　たまわりにいきましょう。": "Sorry to keep you waiting... I will now go to|the shrine maiden Himea to ask for her|word..."
+    },
+    "153": {
+        "「失礼いたします。|　最後の者を　連れて参りました。": "Excuse me... I'll go get the last one..."
+    },
+    "154": {
+        "「まあ　<pc>！": "oh!<pc> ！"
+    },
+    "155": {
+        "「よかった……　ヒメア様の祈りが|　届いていたようですね。": "Thank God... It seems that Lady Himea's|prayers have been answered..."
+    },
+    "156": {
+        "「あなたのことは　ヒメア様も　私も|　ずっと　気にかけていたのですよ。|　学びの庭で　いつも　がんばっていますね。": "You've been on Himelea's and my mind for a|long time... Always working hard in the|Garden of Learning..."
+    },
+    "157": {
+        "「ノマ……　下がりなさい。": "Noma... Down..."
+    },
+    "158": {
+        "「す　すみません……。": "I'm sorry, I..."
+    },
+    "159": {
+        "「<pc>　本当に　無事でよかった。|　今度は　気をつけるんですよ。": "<pc> I'm really glad you're okay. I'll be careful|next time."
+    },
+    "160": {
+        "「…………………………。": "..."
+    },
+    "161": {
+        "「そなた………": "You"
+    },
+    "162": {
+        "「いや　今は　よいでしょう。": "No, I'm good now..."
+    },
+    "163": {
+        "「<pc>。|　あふれる知恵を示した　若葉よ。": "<pc> ... He showed an overflowing wisdom ..."
+    },
+    "164": {
+        "「この世界における　そなたの役目は|　まだ　わかりません。": "Your role in this world is still unknown..."
+    },
+    "165": {
+        "「しかし　次なる試練……|　力の試練に　打ち勝てば|　世界をめぐる手段を　得られるでしょう。": "But the next test... If we can overcome the|trials of power, we will have the means to|travel the world..."
+    },
+    "166": {
+        "「外界への扉を　開きたければ|　心して　試練に　のぞみなさい。|　<pc>に　風の祝福が　あらんことを。": "If you want to open the door to the outside|world, you must be prepared to face the|trials...<pc> Blessed be the wind..."
+    },
+    "167": {
+        "「こちらが　みそぎの間です。お入りください。": "This is Misogi no... Please come in..."
+    },
+    "168": {
+        "「ユーチャーリン。|　さあ　この方に　みそぎを。": "Eucha... Come on, let's see..."
+    },
+    "169": {
+        "「はい。": "Yes."
+    },
+    "170": {
+        "「あなたが　これから行く　世界樹の丘は|　この村の巫女たちが　長きに渡って|　代々　守り継いできた　聖地です。": "The hill of the world tree you're about to|visit has been guarded by the priestesses of|this village for generations..."
+    },
+    "171": {
+        "「その地で　力の試練を受ける前に|　世界樹の朝つゆにて|　身のけがれを　はらいましょう。": "Before I undergo the trials of power in the|land, I will cleanse myself of all impurities|in the morning dew of the World Tree."
+    },
+    "172": {
+        "「世界樹と　風の祝福が|　あなたと共に　ありますように……。": "May the blessings of the world tree and the|wind be with you..."
+    },
+    "173": {
+        "「どうぞ　お気をつけて。": "Please take care..."
+    },
+    "174": {
+        "「やはり　そなたが　一番乗りか。|　私は　師コウ。|　力の試練を　見届ける者。": "You're the best... I have... I will see you|through this trial of strength..."
+    },
+    "175": {
+        "「よく来た　友よ！|　オリは　若葉の精霊ダワ。": "Welcome, my friend! Oli is a young leaf|spirit..."
+    },
+    "176": {
+        "「この世界樹と　ともに生まれ|　はるか昔より　学びの徒たちのチカラを|　試し続けてきたのダワ。": "I was born with the World Tree, and since|long ago, I've been testing the powers of|those who learn..."
+    },
+    "177": {
+        "「さあ友よ！|　オリに打ち勝ち　チカラを示せ！": "Come on, my friends! Overcome the Ori and|show us your strength!"
+    },
+    "178": {
+        "「<cs_pchero>よ　準備は　よいな？": "<cs_pchero>All right, are you ready?"
+    },
+    "179": {
+        "「これより　<cs_pchero>の|　力の試練を始めるっ！！": "since (this)<cs_pchero>Let the trials of power begin!"
+    },
+    "180": {
+        "「おお　<cs_pchero>よ。戻ってきたか。": "oh!<cs_pchero>Hey. Come back..."
+    },
+    "181": {
+        "「その　不屈の精神を称え|　再挑戦を　認めよう。": ""
+    },
+    "182": {
+        "「さあ来い　友よ！ |　お前のチカラのすべてを　見せてみるのダワ！！": "Come, my friend! Let's see what you're made|of!"
+    },
+    "183": {
+        "「まいったダワ！！": "Oh, my God, Dawa!"
+    },
+    "184": {
+        "「お前　よく　がんばった！|　なかなか　いいダワ！": "You did good! Not bad at all!"
+    },
+    "185": {
+        "「<cs_pchero>　力の試練　合格！！": "<cs_pchero>Trials of strength, pass!"
+    },
+    "186": {
+        "「この世界樹は　３本目の世界樹。|　悪しき者たちは　何度も|　地上から　世界樹を消そうとしたのダワ。": "This world tree is the third... Many times|the wicked have tried to erase it from the|earth..."
+    },
+    "187": {
+        "「だが　そのたびに　勇気ある|　ツスクルの巫女が　立ち上がり|　世界樹が絶えないように　はばんできたダワ。": "But each time, a courageous Tuskul priestess|rises up to guard the world tree from|extinction."
+    },
+    "188": {
+        "「オリにチカラを示した者よ。|　お前も　その勇気を忘れないかぎり|　未来への道が　途絶えることはないダワ！": "Show Ori your strength... As long as you|remember your courage, the road to the future|will never end!"
+    },
+    "189": {
+        "「<cs_pchero>よ　見事だったぞ！|　これで　巫女ヒメア様から　一人前の証を|　受け取れば　学びの庭は　卒業だな。": "<cs_pchero>That was brilliant! Now that you have|received your certificate from the priestess|Himelea, the Garden of Learning will be|<br>|complete."
+    },
+    "190": {
+        "「では　次……。キュウスケと　アサナギよ。|　力の試練は　どちらから受けるかね？": "Next... Kyusuke and Asa... Which one of you|will take the test of strength?"
+    },
+    "191": {
+        "「アサナギからで　いいでーす！|　オレは　後から　テキトーで。": "You can start with the willow! I'll be right|behind you, Tex..."
+    },
+    "192": {
+        "「キュウスケよ。|　お前も　そろそろ本気で|　力の試練に　取り組むべきではないか？": "Kyu... Don't you think it's time for you to|seriously tackle the trials of power?"
+    },
+    "193": {
+        "「このままでは　ずっと半人前。|　守りたい女性がいても　守れぬぞ！": ""
+    },
+    "194": {
+        "「うっ………………。": "Ugh..."
+    },
+    "195": {
+        "「では　アサナギ。そなたから始めよう。|　準備ができたら　こちらへ。": "So, uh... You can start... When you're ready,|I'll..."
+    },
+    "196": {
+        "「見せてもらったぞ　<cs_pchero>。|　なんだ　あの必死な戦い方は？": "I got to see this<cs_pchero>(speaking spanish) What's with all the|desperate fighting?"
+    },
+    "197": {
+        "「ボクは　もっと　あざやかに|　勝ってみせる！": "I'm going to win this thing more|spectacularly!"
+    },
+    "198": {
+        "「危ないダワっ！！！": "Look out, dawah!"
+    },
+    "199": {
+        "「いってえ……。": "I..."
+    },
+    "200": {
+        "「こ　この聖なる地に　魔瘴だと……？": "This holy place is supposed to be home to|demons?"
+    },
+    "201": {
+        "「逃げろ！！　早く！！　触れたら死ぬダワ！！！": "Go, go, go! Run! If you touch him, you're|dead!"
+    },
+    "202": {
+        "「ぐああああああああああああっ！！！": "Aaahhhh!"
+    },
+    "203": {
+        "「先生っ！！": "Sir!"
+    },
+    "204": {
+        "「早く　逃げろ！　逃げろダワ！！": "Go, go, go! Run, Dawa!"
+    },
+    "205": {
+        "「<cs_pchero>　来いっ！！": "<cs_pchero>Come on!"
+    },
+    "206": {
+        "「ダメだ……　間に合わない！": "No, no, no... We're not gonna make it!"
+    },
+    "207": {
+        "「そんな……　世界樹が…………。": "Oh, no. The World Tree..."
+    },
+    "208": {
+        "「生きろ……　世界樹……！|　オリのチカラ……　全部　やるダワ。": "Live. The World Tree... The power of Ori...|All of them..."
+    },
+    "209": {
+        "「若葉の精霊……。": ""
+    },
+    "210": {
+        "「心配するな……　世界樹があるかぎり|　オリは　死なないのダワ。": "Don't worry... As long as there is a world|tree, Ori will not die..."
+    },
+    "211": {
+        "「学びの庭へ　戻ろう。|　ここで起こったことを|　イズヤノイ先生に　伝えるんだ！！": "To the Garden of Learning ... We're going to|tell Dr. Izuyanoy what happened here!"
+    },
+    "212": {
+        "「お待ちしておりました。|　さあ　こちらへ。": "We'll be waiting for you... Come here..."
+    },
+    "213": {
+        "「失礼いたします。|　<pc>さんを　お連れしました。": "Excuse me...<pc> I'm here with Mr..."
+    },
+    "214": {
+        "「<pc>　もっと　こちらへ。": "<pc> More..."
+    },
+    "215": {
+        "「師コウと　若葉の精霊のことは　残念でした。|　私も　風たちの　ざわめきから話を聞き|　そなえては　いたのですが……。": "I'm sorry to hear about Shi Kou and the|spirit of the young leaves. I'd heard about|them from the wind, but..."
+    },
+    "216": {
+        "「魔瘴から　そなたたちを救った|　あの大いなる光は　世界の中心|　レンダーシアより　放たれました。": "The great light that saved you from the|demon, it shone from the center of the world,|Myrcia."
+    },
+    "217": {
+        "「アサナギ　キュウスケ　そして　<pc>。|　そなたたちは　あの魔瘴を前にしても|　恐れずに　立ち向かいましたね。": "Kyusuke Asanagi and<pc> I'm sorry. Even in the face of that miasma,|you will face it without fear."
+    },
+    "218": {
+        "「何ものをも恐れぬ　その偉大な勇気は|　これからの世に　必要とされることでしょう。": "Your great courage, your fearlessness, is|what the world will need..."
+    },
+    "219": {
+        "「えええええええっ！？": "Yeah, yeah, yeah, yeah!"
+    },
+    "220": {
+        "「何を　おどろいているのです　キュウスケ。": "What are you so excited about, Cu..."
+    },
+    "221": {
+        "「そなたにも　アサナギにも　そのチカラは|　充分に　そなわっているのですよ。": "You have it in you. Asagiri has it in her."
+    },
+    "222": {
+        "「それに　キュウスケ。|　そなたも　師コウの言葉で|　心を決めたのでしょう？": "Besides, Kyu... You've made up your mind,|haven't you, with Shih-kou's words?"
+    },
+    "223": {
+        "「……はい！": "... Yes!"
+    },
+    "224": {
+        "「勇者の覚醒……　そして　大いなる闇……。": "The awakening of the brave... And the great|darkness..."
+    },
+    "225": {
+        "「世界に　何かが起きているんだ。|　<pc>との　勝負なんて|　小さなことに　こだわってる場合じゃない。": "There's something going on in the world...<pc> I don't have time to worry about little|things like..."
+    },
+    "226": {
+        "「アサナギ。": "A..."
+    },
+    "227": {
+        "「そなたには　すぐれた英知がある。|　旅をして　そのチカラを育てなさい。|　そして　<pc>の遺志を　継ぐのです。": "You have great wisdom... You've traveled,|you've grown... And...<pc> I'm continuing the legacy of..."
+    },
+    "228": {
+        "「<pc>の……遺志？|　それは　いったい…………": "<pc> Of... A dying wish? What does that mean?"
+    },
+    "229": {
+        "「それでは　巣立ちの儀を　始めましょう。|　さあ　冒険の書を　前に。": "And so we begin the Nesting Ceremony... And|now, for the Book of Adventures..."
+    },
+    "230": {
+        "「大いなる風の神よ。|　そして　はぐくみの世界樹よ。": "The Great Wind... And the world of birth..."
+    },
+    "231": {
+        "「一人前のチカラを持てし　この者たちに|　その証を　与えたまえ。": "To those who have the strength to become men,|I give this token..."
+    },
+    "232": {
+        "「一人前の証だ……。": "You're on your own..."
+    },
+    "233": {
+        "「それを持てば　異国の王との謁見も|　許されることでしょう。その証に　恥じぬよう|　正しき行動を　心がけるのですよ。": "With it, you will be granted an audience with|the king of a foreign land. We must act in a|manner worthy of this token."
+    },
+    "234": {
+        "「さあ　行きなさい。|　この学問の村が誇る　若葉たちよ。": "Here we go... The pride of this academic|village..."
+    },
+    "235": {
+        "「そなたらの未来に　世界樹と|　風の守りが　あらんことを！": "May the World Tree and the Wind Guard your|future!"
+    },
+    "236": {
+        "「オレは　ユーチャーリンに|　ふさわしい男になってみせるぜ！": "I'm going to be a man worthy of Euchrelin!"
+    },
+    "237": {
+        "「じゃあな　お先にっ！|　アディオース！！": "See you later. After you. Adiós!"
+    },
+    "238": {
+        "「ボクも　行くよ。|　世界に起きていることを　解き明かすために。": "Me too. I'm trying to figure out what's going|on in the world."
+    },
+    "239": {
+        "「そして　さっき　ヒメア様がおっしゃった|　言葉の真意を　知るんだ！": "And find out the truth of what Himea-sama|just said!"
+    },
+    "240": {
+        "「キミも　元気で。|　また　いつか……　どこかで会おう！": "And you... One day... I'll see you around."
+    },
+    "241": {
+        "「<pc>|　ようやく　わかりましたよ。": "<pc> I finally understand..."
+    },
+    "242": {
+        "「古代呪文の復活に失敗し|　死んだはずの　<pc>が|　なぜ　こうして生きているのか……。": "I failed to revive an ancient spell| He was supposed to be dead<pc> I don't know why I'm still alive."
+    },
+    "243": {
+        "「そなたの本当の姿は　こちらですね。": "This is who you really are..."
+    },
+    "244": {
+        "「大いなる使命を果たすために　魂を救われ|　その身体を　与えられたのでしょう？": "Your soul was saved and your body was given|to you to fulfill the Great Commission,|wasn't it?"
+    },
+    "245": {
+        "「<pc>……。": "<pc> ..."
+    },
+    "246": {
+        "「今は　世界をめぐり　修練を積みなさい。|　そのチカラを　世界の人々のために|　役立てるのです。": "Now, I'm going to travel the world, train|myself... And use that power to help people|around the world..."
+    },
+    "247": {
+        "「そして　各国の英雄に与えられる勲章|　キーエンブレムを　集めなさい。|　さすれば　必ず　道が開けることでしょう。": "And collect the key emblem, the decoration|given to heroes of all nations. And you will|find your way."
+    },
+    "248": {
+        "「ノマ　あれを。": "Noma ..."
+    },
+    "249": {
+        "「はい……。": "Yes..."
+    },
+    "250": {
+        "「こうして見ると　どこから見ても|　<pc>なのに|　中身は　ちがうんですね……。": "When you look at it this way, from every angle|<pc> But what's inside is different..."
+    },
+    "251": {
+        "<pc>は|大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> has received an intercontinental rail pass (a|very important one)!<me 60>"
+    },
+    "252": {
+        "「それは　５つの大陸を　自由に|　行き来する列車に　乗るためのパスです。|　とても　高価なものなんですけどね。": "It's a pass to board a train that travels|freely between the five continents... It's|very expensive..."
+    },
+    "253": {
+        "「エルフの　<pc>が作ったクスリに|　助けられた人たちが　卒業祝いにって|　用意してくれたんですよ。 ": "The Elves<pc> Some of the people who were helped by the|drug that you made, they gave it to me as a|graduation gift."
+    },
+    "254": {
+        "「<pc>……。": "<pc> ..."
+    },
+    "255": {
+        "「その身体の持ち主は　エルフの宝でした。": "The owner of that body is an elven|treasure..."
+    },
+    "256": {
+        "「我らの先頭に立ち　導いてくれるはずの |　存在だったということを|　ゆめゆめ　忘れずにいてください。": "Let us never forget that you were supposed to|lead us... and guide us."
+    },
+    "257": {
+        "「そなたが　立派に使命を果たせるよう|　祈っていますよ。": "I pray that you will do well in your|mission..."
+    },
+    "258": {
+        "「<pc>さんたちが　巣立ちの儀を|　終えたことは　学びの庭の人たちに伝えました。": "<pc> I'll let the people in the garden know that|the three of you have completed your nesting|ceremony."
+    },
+    "259": {
+        "「さあ　旅立ちの時です。|　まずは　西へ向かい　鉄道駅のある|　風の町アズランを　目指すといいでしょう。": "And so we begin our journey... I suggest you|head west to the windy city of Aztlan, where|there is a train station."
+    },
+    "260": {
+        "「それでは　どうか　お気をつけて。": "So, please, take care..."
+    },
+    "261": {
+        "「<pc>～～！！": "<pc> ~~!"
+    },
+    "262": {
+        "「またな～～ダワ！！": "See you later, dawah!"
+    },
+    "263": {
+        "「うるさいぞ　フウラ。": "Shut up..."
+    },
+    "264": {
+        "「アサナギ！": "Asanagi!"
+    },
+    "265": {
+        "「はあ？": "Huh?"
+    },
+    "266": {
+        "「だから！　<pc>さまが　死んでたのに|　生き返ったの！　なんだか　まるで|　別の魂が　身体の中に入ったみたいに！！": "So!<pc> You were dead, and then you came back to|life! It was as if another soul had entered|my body!"
+    },
+    "267": {
+        "「はいはい　わかった　わかった。": "Okay, okay, okay. I..."
+    },
+    "268": {
+        "「えええっ！？　もう　そんな時間なの？": "What? Is it that time already?"
+    },
+    "269": {
+        "「この村の　西にある出口から　外へ出て|　道なりに行けば　たどり着けるだろう。": "If you go out the west exit of the village|and follow the path, you'll reach..."
+    },
+    "270": {
+        "「それこそが　力の試練！ |　この試練を乗り越えれば　お前は|　真の一人前と　認められるんダワ！": "It's a test of strength! If you can pass this|test, you will be recognized as a true|master!"
+    },
+    "271": {
+        "「力の試練に合格した　<pc>だけではなく|　特別に　アサナギとキュウスケも合格とします。|　そなたたちも　学びの庭を出て　旅立ちなさい。": "I passed the trials of power<pc> Not only did Asanagi and Kyusuke pass, but|also... You, too, are leaving the Garden of|Learning..."
+    },
+    "272": {
+        "「おひさしぶりですね　<pc>さん。|　さあ　こちらへ。": "It's been a long time<pc> Three. Come here..."
+    },
+    "273": {
+        "「失礼いたします。|　<pc>さんを　お連れしました。": "Excuse me...<pc> I'm here with Mr..."
+    },
+    "274": {
+        "「<pc>　こちらへ　おいでなさい。": "<pc> This way, please. Come here."
+    },
+    "275": {
+        "「風たちから　聞いてはいましたが……|　多くの苦難を乗り越え|　よく　がんばりましたね。": "I've heard about you from the wind... You|have overcome many hardships. You have done|well."
+    },
+    "276": {
+        "「<pc>。|　そなたに　一人前の証を　授けたとき|　私が言った言葉を　覚えていますか？": "<pc> (speaking spanish) Do you remember what I|said to you when I gave you your first|testimony?"
+    },
+    "277": {
+        "「その身体の持ち主は　エルフの宝でした。|　先頭に立ち　我らを導いてくれるはずの|　大切な存在だった……。そう言いましたね？": "That body belonged to the treasure of the|elves. A treasure of the elves who was to|lead us and guide us. Is that what you said?"
+    },
+    "278": {
+        "「そなたは　エルフの　<pc>に代わり|　課せられた使命を　見事　果たしました。": "You are an elf<pc> I've been tasked with a mission on behalf|of..."
+    },
+    "279": {
+        "「そなたのおかげで　このエルトナ大陸を含む|　５つの大陸が　救われたのです。": "Because of you, five continents, including|this one, Eltona, have been saved..."
+    },
+    "280": {
+        "「<pc>よ。|　見聞を広め　さらなる高みを目指しなさい。|　いずれ　新たな冒険が始まる　その時まで。": "<pc> I will. You will expand your horizons. You|will reach new heights. In time, a new|adventure will begin."
+    },
+    "281": {
+        "「私は　ずっと　ここで|　そなたの旅の安全を　祈っています。": "I've been here praying for your safe|journey..."
+    },
+    "282": {
+        "「では　お気をつけて。": "Take care..."
+    },
+    "283": {
+        "「アサナギ！": "Asanagi!"
+    },
+    "284": {
+        "「よく　お休みになれましたか？|　いよいよ　結果が出ると思うと|　なんだかキンチョーしちゃいますね。": "Did you have a good night's rest? It's a|little intimidating to think that the results|are finally coming in."
+    },
+    "285": {
+        "「……あれっ？　持ち物が　いっぱいで|　持ちきれないみたい。お父さまが送ってくれた|　<%sEV_ITEM>を　あげようと思ったのに。": "... What? I have so much stuff I can't carry|it all. I was going to give you the|<%sEV_ITEM> that your father sent me..."
+    },
+    "286": {
+        "「あ…あはは。そうだよね。|　私からの　プレゼントなんて|　<pc>さまには　必要ないよね。": "Ah ...... So... I can't believe I'm giving|you this.<pc> I'm sure you'll need..."
+    },
+    "287": {
+        "「ひいいいいっ　死んでるっ！！！": "Oh, my God, he's dead!"
+    },
+    "288": {
+        "「世界樹の丘は　この村の東　久遠の森の奥です。|　そこで　世界樹の精霊が|　あなたに　力の試練を与えるでしょう。": "The Hill of the World Tree is east of this|village in the forest of Kumon. There, the|spirit of the World Tree will give you a test|<br>|of your strength."
+    },
+    "289": {
+        "「魔瘴が　かき消された……|　今の光は　いったい……。": "The miasma has been dispelled... What is that|light?"
+    },
+    "290": {
+        "「あの光こそ　伝説の勇者が覚醒した証。|　レンダーシアの地の　いずこかに|　勇者が現れたことを　示すものです。": "It is that light that has awakened a|legendary hero... Somewhere in the land of|Lendershere, a hero has risen..."
+    },
+    "291": {
+        "「……そして　勇者とは　混沌の世に|　生まれてくる者。あの光は　同時に|　大いなる闇の誕生を　示してもいるのです。": "... And the brave are born into a world of|chaos. That light is also the birth of a|great darkness."
+    },
+    "292": {
+        "「よしっ　いい返事だ。健闘を祈る！": "Okay, good... Good luck!"
+    },
+    "293": {
+        "「あっ　<pc>さま！": "oh!<pc> Sir!"
+    },
+    "294": {
+        "「さあ　学びの徒よ！|　この庭で　学んできた　すべてを|　見せてもらおう！": "Come, learners! Let's see everything you've|learned in this garden!"
+    },
+    "295": {
+        "「ヒメア様の　お言葉|　しかと　胸に刻んでおくのですよ。|　では　みそぎの間へと　参りましょう。": "I'll keep Himea's words close to my heart...|Now let us go to the Misogi Room..."
+    },
+    "296": {
+        "「これで　そなたの身は　清められ|　力の試練へ望む準備が　終わりました。|　さあ　参りましょう。": "Now that you've been cleansed and prepared|for the trials of power... Here I come..."
+    },
+    "297": {
+        "ルーラストーンは　記憶させた場所に|一瞬で移動できる　魔法の石です。|何度使っても　なくなりません。": ""
+    },
+    "298": {
+        "このルーラストーンには|まだ場所が　記憶されていません。|移動する場所は　教会で記憶させられます。": "This roolastone still has the location stored|in it... You have to go to the church to|remember where you're going."
+    },
+    "299": {
+        "「ここから先の旅は　ひとりには　つらい旅。|　サポート仲間という協力者を　３人用意したので|　あなたの旅に　同行させてください。": "The journey ahead is not an easy one... I've|arranged for three support people to|accompany you on your journey..."
+    },
+    "300": {
+        "「アズランに着けば　新しいサポート仲間を|　酒場で　紹介してもらえます。自由に選んで|　連れていくことが　できるでしょう。": "Once you reach Azran, you'll be introduced to|your new support crew at the tavern... You'll|be able to take them with you..."
+    }
+}
