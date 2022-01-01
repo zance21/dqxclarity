@@ -12,8 +12,7 @@ from clarity import (translate, get_latest_from_weblate,
     dump_all_game_files, scan_for_player_names,
     migrate_translated_json_data, scan_for_npc_names,
     check_for_updates, scan_for_adhoc_files)
-from hook import loading_detour
-from hook_mgmt.hide_hooks import load_unload_hooks
+from hook import activate_hooks
 
 @click.command()
 @click.option('-v', '--debug', is_flag=True,
@@ -63,7 +62,7 @@ def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=Fals
 
     try:
         if communication_window:
-            Process(name='Hook loader', target=loading_detour, args=(debug,)).start()
+            Process(name='Hook loader', target=activate_hooks, args=(debug,)).start()
         if player_names:
             Process(name='Player name scanner', target=scan_for_player_names, args=()).start()
         if npc_names:
