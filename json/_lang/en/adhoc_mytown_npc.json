@@ -114,7 +114,7 @@
         "「それでは　移動します。|<br>|「ケイデント～　ニンウタイマ！|<break>": "Now, let's move... Cadet~ Ningutai Ma!<break>"
     },
     "39": {
-        "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for...<break>"
+        "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for.<break>"
     },
     "40": {
         "「<%sL_MYTOWN_NAME>　という名前で|　登録しているマイタウンを　表示しています。|　どのマイタウンへ　移動しますか？|<break>": "<%sL_MYTOWN_NAME> I want to see|all the MyTowns that I have registered for...|Which MyTown would you like to move to?|<br><break>"
@@ -189,10 +189,10 @@
         "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "I'm displaying the My Town with the ID|<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>.<break>"
     },
     "64": {
-        "「それでは　移動します。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Let's move... Cadet... Ninwutimer!<break>"
+        "「それでは　移動します。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Then, let's go!|<br>|<break>|Nwot ym ot....ylf s'tel!|<break>"
     },
     "65": {
-        "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for...<break>"
+        "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for.<break>"
     },
     "66": {
         "「<%sL_MYTOWN_NAME>という名前で|　登録している　マイタウンを表示しています。|　どのマイタウンへ　移動なさいますか？|<break>": "I want to see all the MyTowns that are|registered under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"
