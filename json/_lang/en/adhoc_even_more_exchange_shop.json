@@ -108,7 +108,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<end>": "I'm afraid there's too many envelopes for me|to pick up.<end>"
     },
     "37": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "38": {
         "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
