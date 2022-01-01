@@ -159,7 +159,7 @@
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
     },
     "54": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "55": {
         "「当店では　お客さまがお持ちのエンゼルハーツを|　素敵なアイテムと　交換することができます。|　なお　手数料は　いただいておりません。|<br>|「パーティに　エンゼルスライム帽を装備した|　レベル９９以下の仲間がいれば　戦闘勝利時に|　エンゼルハーツを　獲得することがあります。|<br>|「エンゼルスライム帽を装備したレベル９９以下の|　サポート仲間の方でも　問題ありませんので|　酒場のほうも　ぜひ　ご活用ください。|<br>|「また　エンゼルスライム帽を装備していると|　戦闘に参加した　レベル９９以下の仲間全員の|　獲得経験値が　３倍になる効果もあります。|<br>|「ただし　こちらの効果も　エンゼルスライム帽を|　装備した仲間のレベルが　１００以上の場合は|　発揮されないので　ご注意ください。|<bw_break>": "We're happy to exchange your Angel Hearts for|any of our wonderful items... We do charge a|handling fee... If your party is equipped|<br>|with an Angel Slime Hat and you are level 99|or below, you can earn Angel Hearts when you|win a battle... It doesn't matter if you have|<br>|a support companion under level 99 with an|Angel Slime hat, you can still use the|Tavern... In addition, if you are equipped|<br>|with an Angel Slime Hat, all companions under|level 99 who participate in combat will|receive triple the experience... However,|<br>|please note that this effect will not work if|the level of the companion equipped with the|Angel Slime Hat is 100 or more...|<br><bw_break>"

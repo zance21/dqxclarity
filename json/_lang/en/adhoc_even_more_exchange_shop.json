@@ -300,7 +300,7 @@
         "「ふむ？　そなた　そうびぶくろが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? There's too many of those bags for you|to take...<bw_break>"
     },
     "101": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "102": {
         "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
