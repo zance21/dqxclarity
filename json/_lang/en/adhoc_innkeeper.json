@@ -264,25 +264,25 @@
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
     },
     "89": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "90": {
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
     },
     "91": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "92": {
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
     },
     "93": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "94": {
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
     },
     "95": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "96": {
         "「ここは　採掘作業員の簡易宿舎よ。|　たいした　おもてなしは　できないけれど|　ＨＰやＭＰは　宿屋で休んで　回復させてね。|<br>|「おひとりで　<%nL_YADOYA_GOLD>ゴールドだけど|　休んでいく？|<yesno><break>": "This is a simple mining camp... I can't offer|much in the way of hospitality, but I can|restore your HP and MP by resting at the|<br>|inn... You're alone with|<%nL_YADOYA_GOLD> gold. Do you|want to rest?|<br><yesno><break>"
@@ -354,7 +354,7 @@
         "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "119": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "120": {
         "職人としての評判が　上がって|<pc>は　<%dL_MEISEI1>の名声値を得た！ |<end>": "I'm trying to build a reputation as a craftsman|<pc> got a fame value of|<%dL_MEISEI1>!<end>"
@@ -423,7 +423,7 @@
         "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "142": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "143": {
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": "<pc>  You can now sell <%dL_SYUPPIN> in|the Traveler's Bazaar!|<se_nots System 7>|<end>"
