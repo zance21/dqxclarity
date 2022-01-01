@@ -84,7 +84,7 @@
         "立て札への書き込みが　みんなの役に立って|<pc>は　<%dL_MEISEI2>の名声値を得た！|<end>": "I'm glad you found the postings useful|<pc> got the fame value of|<%dL_MEISEI2>!<end>"
     },
     "29": {
-        "「おや　お目覚めかい。|　よく休めたようだね。|<br>|「そういや　ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞くよ。|　色々　活躍してるみたいだね。|<end>": "Oh, wake up... I'm well-rested... Well, I|have a guest staying with me.<pc> I've heard a lot about you... I hear you've|been doing a lot of work...<end>"
+        "「おや　お目覚めかい。|　よく休めたようだね。|<br>|「そういや　ウチに泊まる　お客さんから|　<pc>さんの話を　たまに聞くよ。|　色々　活躍してるみたいだね。|<end>": "Oh, you're awake.|You look well rested.|<br>|I sometimes hear about you|from the guests that stay here.|I hear you've been doing a lot of work.<end>"
     },
     "30": {
         "<pc>の名声レベルが　<%dL_MEISEI_LEVEL>に　あがった！|<me_57><end>": "<pc>'s Fame Level has risen to <%dL_MEISEI_LEVEL>!|<me_57><end>"
