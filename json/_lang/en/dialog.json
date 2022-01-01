@@ -3843,7 +3843,7 @@
         "clarity_nt_char_1281": "clarity_nt_char_1281"
     },
     "1282": {
-        "<speed=0>釣りレベルが足りないため　装備できない！": ""
+        "<speed=0>釣りレベルが足りないため　装備できない！": "<speed=0>Your fishing level isn't high enough to equip|this!"
     },
     "1283": {
         "<speed=0>しかし　うまく　装備できなかった。|港町レンドア南の　釣り老師ハルモスに|釣りのやり方を　教えてもらおう！": "<speed=0>But you didn't really know how to equip|it. Go talk to the Old Fish Master Harmos in|South Lendor to learn how to fish!"
@@ -3861,7 +3861,7 @@
         "clarity_nt_char_1287": "clarity_nt_char_1287"
     },
     "1288": {
-        "<speed=0>過去と現在を行き来することは　できないため|集会所に　移動できません。": ""
+        "<speed=0>過去と現在を行き来することは　できないため|集会所に　移動できません。": "<speed=0>You can't travel to the clubhouse because|you can't travel between past and present."
     },
     "1289": {
         "clarity_nt_char_1289": "clarity_nt_char_1289"
