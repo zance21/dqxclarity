@@ -3954,7 +3954,7 @@
         "<speed=0><%sM_item>　<%.1fM_size>ｃｍ|入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0>Choose a fish to let go to take the|<%.1fM_size> cm <%sM_item>.<break>"
     },
     "1319": {
-        "<speed=0><color_yellow><%sM_item>　<%.1fM_size>ｃｍ(<%sM_rank>)<color_white>|入れ替えて　逃がすさかなを選んでください。<break>": ""
+        "<speed=0><color_yellow><%sM_item>　<%.1fM_size>ｃｍ(<%sM_rank>)<color_white>|入れ替えて　逃がすさかなを選んでください。<break>": "<speed=0><color_yellow><%sM_item> <%.1fM_size> cm (<%sM_rank>)<color_white>|Please select a fish to replace with.<break>"
     },
     "1320": {
         "clarity_nt_char_1320": "clarity_nt_char_1320"
@@ -3969,7 +3969,7 @@
         "clarity_nt_char_1323": "clarity_nt_char_1323"
     },
     "1324": {
-        "<speed=0><%sM_action>の対象が　近くにありません！": ""
+        "<speed=0><%sM_action>の対象が　近くにありません！": "<speed=0><%sM_action>'s target is too far away!"
     },
     "1325": {
         "しかし 勇気の輝きが足りなかった。": "But the Spark of Courage was not enough."
@@ -3984,7 +3984,7 @@
         "clarity_nt_char_1328": "clarity_nt_char_1328"
     },
     "1329": {
-        "<speed=0>迷宮から|グランゼドーラ城　西の塔に　戻りますか？|ゴールドは　失いません。<yesno2><close>": ""
+        "<speed=0>迷宮から|グランゼドーラ城　西の塔に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Return to the West Tower of Gran Zedora|Castle? You will not lose any Gold.<yesno2><close>"
     },
     "1330": {
         "clarity_nt_char_1330": "clarity_nt_char_1330"
