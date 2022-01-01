@@ -249,7 +249,7 @@
         "<pc>は|<%sL_ITEM>を　<%dL_ITEMNUM>枚　手に入れた！<se_nots System 7>|<end>": "<pc>  got <%sL_ITEM> for <%dL_ITEMNUM> sheets!|<se_nots System 7>|<end>"
     },
     "84": {
-        "「そうそう……　<pc>さまに|　おすすめの情報が　ありますよ！|　ぜひ　確認してみてください。|<bw_break>": "Yeah, yeah<pc> We've got something for you! Please check it|out...<bw_break>"
+        "「そうそう……　<pc>さまに|　おすすめの情報が　ありますよ！|　ぜひ　確認してみてください。|<bw_break>": "Yes, yes... <pc>, we've got something|for you! Please check it out.|<bw_break>"
     },
     "85": {
         "「こちらを　こなしていただけますと|　<pc>さまの　冒険が|　もっと　楽しく　快適になるはずですよ。|<br>|「まだ　挑戦していないようでしたら|　ぜひとも　挑んでみてください。|<bw_break>": "If you could do this for me|<pc> If you haven't tried it yet, you should. If|you haven't tried it yet, I urge you to do|so...<bw_break>"
