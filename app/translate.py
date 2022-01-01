@@ -56,7 +56,7 @@ def translate(translation_service, is_pro, dialog_text, api_key, region_code):
     elif translation_service == 'google':
         return google_translate(dialog_text, api_key, region_code)
 
-def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key, region_code) -> str:
+def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key, region_code, text_width=45) -> str:
     '''
     Does a bunch of text sanitization to handle tags seen in DQX, as well as automatically
     splitting the text up into chunks to be fed into the in-game dialog window.
@@ -90,7 +90,7 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
                     translation = translation.strip()
                     translation = re.sub('   ', ' ', translation)  # translation sometimes comes back with a strange number of spaces
                     translation = re.sub('  ', ' ', translation)
-                    translation = textwrap.fill(translation, width=45, replace_whitespace=False)
+                    translation = textwrap.fill(translation, width=text_width, replace_whitespace=False)
 
                     # figure out where to put <br> to break up text
                     count = 1
@@ -181,7 +181,7 @@ def sqlite_write(source_text, table, translated_text, language, npc_name=''):
         updateQuery = f'UPDATE {table} SET {language} = \'{escaped_text}\' WHERE ja = \'{source_text}\''
         if table == 'dialog':
             insertQuery = f'INSERT INTO {table} (ja, npc_name, {language}) VALUES (\'{source_text}\', \'{npc_name}\', \'{escaped_text}\')'
-        elif table == 'quests':
+        elif table == 'quests' or table == 'walkthrough':
             insertQuery = f'INSERT INTO {table} (ja, {language}) VALUES (\'{source_text}\', \'{escaped_text}\')'
         else:
             raise Exception('Unknown table.')
