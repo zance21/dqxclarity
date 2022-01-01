@@ -395,11 +395,11 @@ def activate_hooks(debug: bool):
 
     # activates all hooks. add any new hooks to this list
     hooks = []
-    #hooks.append(walkthrough_detour(debug))
+    #hooks.append(walkthrough_detour(debug)) // leaving disabled until can figure out how to hide from checks
     hooks.append(cutscene_started_detour())
     hooks.append(translate_detour(debug))
     hooks.append(cutscene_detour())
-    #hooks.append(quest_text_detour(debug))
+    #hooks.append(quest_text_detour(debug)) // leaving disabled until can figure out how to hide from checks
 
     # any hooks that need to perform unhooking should be defined here
     unhookers = ['cutscene_started_detour']
