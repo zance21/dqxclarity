@@ -3918,7 +3918,7 @@
         "<speed=0>かきおきを見せる　チームメンバーがいません。": "<speed=0>You don't have any Team members to view|memos of."
     },
     "1307": {
-        "<speed=0>表示する　かきおきメモが　ありません。": ""
+        "<speed=0>表示する　かきおきメモが　ありません。": "<speed=0>There are no memos to display."
     },
     "1308": {
         "clarity_nt_char_1308": "clarity_nt_char_1308"
@@ -3960,7 +3960,7 @@
         "clarity_nt_char_1320": "clarity_nt_char_1320"
     },
     "1321": {
-        "<speed=0>アンルシアは　待機中に　変更できません！": ""
+        "<speed=0>アンルシアは　待機中に　変更できません！": "<speed=0>Anlucia cannot be changed while on standby!"
     },
     "1322": {
         "返事がない。|無料の　体験版のようだ……。|{color=yellow}※フレンドや　なかまとのチャットは　可能です。{reset}": "No reply. Looks like a trial player.|{color=yellow}(Friend and party chat is possible.){reset}"
