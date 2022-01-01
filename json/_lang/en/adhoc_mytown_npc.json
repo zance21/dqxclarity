@@ -120,7 +120,7 @@
         "「<%sL_MYTOWN_NAME>　という名前で|　登録しているマイタウンを　表示しています。|　どのマイタウンへ　移動しますか？|<break>": "I'm displaying all My Towns with the name|<%sL_MYTOWN_NAME>.|Which would you like to go to?|<break>"
     },
     "41": {
-        "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "I'm gonna randomly visit all the houses in my|town that are set to welcome me. Choose the|theme of the My Town house you wish to|<br>|visit...<break>"
+        "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
     },
     "42": {
         "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "<%sL_MYTOWN_CATE> Randomly visit|a house in My Town that's set to... Do you|want to move?|<br><yesno><break>"
@@ -198,7 +198,7 @@
         "「<%sL_MYTOWN_NAME>という名前で|　登録している　マイタウンを表示しています。|　どのマイタウンへ　移動なさいますか？|<break>": "I want to see all the MyTowns that are|registered under the name|<%sL_MYTOWN_NAME>... Which MyTown|<br>|would you like to move to?<break>"
     },
     "67": {
-        "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "I'm gonna randomly visit all the houses in my|town that are set to welcome me. Choose the|theme of the My Town house you wish to|<br>|visit...<break>"
+        "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
     },
     "68": {
         "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "<%sL_MYTOWN_CATE> Randomly visit|a house in My Town that's set to... Do you|want to move?|<br><yesno><break>"
