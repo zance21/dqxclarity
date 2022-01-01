@@ -10,8 +10,8 @@ from memory import (
     get_ptr_address
 )
 from signatures import (
-    login_screen_active,
-    login_screen_offsets,
+    loading_pointer,
+    loading_offsets,
     cutscene_pattern
 )
 
@@ -23,7 +23,15 @@ def unpack_to_int(address: int):
 
     return unpacked_address
 
-def load_unload_hooks(hook_list: list, state_address: int, debug: bool):
+def unpack_address_to_int(address: int):
+    '''
+    Reads the first four bytes of memory and unpacks it into an address.
+    '''
+    value = read_bytes(address, 4)
+    
+    return struct.unpack('<i', value)[0]
+
+def load_unload_hooks(hook_list: list, debug: bool):
     '''
     Load/unload hooks based on conditionals.
 
@@ -33,76 +41,61 @@ def load_unload_hooks(hook_list: list, state_address: int, debug: bool):
 
     All hooks being passed to this function should be in a dict.
     '''
-    def hook_cutscene(hook_state: str):
-        '''
-        If cutscene hooks are regularly active, they will cause dialog to double translate.
-        Only enable them when we're in an actual cutscene
-        '''
-        cutscene_dict = [d for d in hook_list if d['hook_name'] == 'cutscene_detour']
-        cutscene_adhoc_dict = [d for d in hook_list if d['hook_name'] == 'cutscene_file_dump_detour']
-        
-        if cutscene_state == 'orig':
-            if cutscene_dict != []:
-                write_bytes(cutscene_dict[0]['detour_address'], cutscene_dict[0]['original_bytes'])
-            if cutscene_adhoc_dict != []:
-                write_bytes(cutscene_adhoc_dict[0]['detour_address'], cutscene_adhoc_dict[0]['original_bytes'])
-        elif cutscene_state == 'hook':
-            if cutscene_dict != []:
-                write_bytes(cutscene_dict[0]['detour_address'], cutscene_dict[0]['hook_bytes'])
-            if cutscene_adhoc_dict != []:
-                write_bytes(cutscene_adhoc_dict[0]['detour_address'], cutscene_adhoc_dict[0]['hook_bytes'])
-
     if not debug:
         logger.remove()
         logger.add(sys.stderr, level="INFO")
 
+    state = 1
     base_address = get_base_address()
+    loading_addr = get_ptr_address(base_address + loading_pointer, loading_offsets)
     cutscene_addr = pattern_scan(cutscene_pattern, module='DQXGame.exe') - 212
-    login_screen_addr = get_ptr_address(base_address + login_screen_active, login_screen_offsets)
-
-    # loading address has 44 bytes that need to be 00 before we're clear of loading screens
-    bytecode = b''
-    for i in range(44):
-        bytecode += b'\x00'
-
-    logger.debug(f'Looking at {hex(cutscene_addr)} for cutscenes.')
+    
+    logger.debug(f'Loading address: {hex(loading_addr)}')
+    logger.debug(f'Cutscene address: {hex(cutscene_addr)}')
 
     while True:
-        try:
-            state_byte = read_bytes(state_address, 1)
-            login_screen_byte = read_bytes(login_screen_addr, 1)
-        except:
-            raise Exception('Unable to interact with DQX. Please relaunch both DQX and this program to try again.')
+        time.sleep(0.01)
+        state_byte = read_bytes(loading_addr, 1)
+        cutscene_byte = read_bytes(cutscene_addr, 1)
 
         try:
-            # don't do anything on login screen. initializing python scripts will cause infinite login load
-            if state_byte == b'\x00':  # hooks are inactive, which means loading was triggered
+            if state_byte == b'\x00' and state == 1:  # loading screen. unhook
+                for hook in hook_list:
+                    write_bytes(hook['detour_address'], hook['original_bytes'])
                 logger.debug('Hooks unloaded.')
-                time.sleep(1)
-                packed_loading = read_bytes(state_address + 1, 4)
-                unpacked_loading = unpack_to_int(packed_loading)[0]
-                while True:
-                    loading_bytes = read_bytes(unpacked_loading + 4, 44)
-                    cutscene_bytes = read_bytes(cutscene_addr, 4)
-                    if loading_bytes == bytecode:
-                        if cutscene_bytes != b'\x00\x00\x00\x00':
-                            logger.debug('Cutscene detected.')
-                            for hook in hook_list:
+                state = 0
+            elif state_byte != b'\x00' and state == 0:  # we're ok to hook now
+                for hook in hook_list:
+                    write_bytes(hook['detour_address'], hook['hook_bytes'])
+                logger.debug('Hooks loaded.')
+                state = 1
+
+            # cutscene logic
+            if cutscene_byte != b'\x00':  # separate check as state byte can't see we're in a cutscene
+                for i in range(300):  # check for 1~ seconds to finish loading and account for user skipping
+                    time.sleep(0.01)
+                    cutscene_byte = read_bytes(cutscene_addr, 1)
+                    if i == 299:
+                        for hook in hook_list:
+                            if hook['hook_name'] != 'walkthrough_detour':
                                 write_bytes(hook['detour_address'], hook['hook_bytes'])
-                            write_bytes(state_address, b'\x01')
-                            break
-                        elif cutscene_bytes == b'\x00\x00\x00\x00':
-                            for hook in hook_list:
-                                write_bytes(hook['detour_address'], hook['hook_bytes'])
-                            logger.debug('Hooks loaded.')
-                            cutscene_state = 'orig'
-                            hook_cutscene(cutscene_state)
-                            write_bytes(state_address, b'\x01')  # write over state byte. hooks are active again
-                            break
+                        state = 1
+                        logger.debug('Hooks loaded for cutscene.')
+                    elif cutscene_byte != b'\x00':
+                        continue
                     else:
-                        time.sleep(0.25)
-            else:
-                time.sleep(0.05)
+                        logger.debug('Cutscene skip was detected.')
+                        time.sleep(3)
+                        break
+                while True:
+                    time.sleep(0.01)
+                    cutscene_byte = read_bytes(cutscene_addr, 1)
+                    if cutscene_byte == b'\x00':
+                        logger.debug('Hooks unloaded as cutscene finished.')
+                        for hook in hook_list:
+                            write_bytes(hook['detour_address'], hook['original_bytes'])
+                        state = 0
+                        break
         except:
             for hook in hook_list:
                 write_bytes(hook['detour_address'], hook['original_bytes'])
