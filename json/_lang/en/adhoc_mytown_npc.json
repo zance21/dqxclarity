@@ -123,7 +123,7 @@
         "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
     },
     "42": {
-        "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "<%sL_MYTOWN_CATE> Randomly visit|a house in My Town that's set to... Do you|want to move?|<br><yesno><break>"
+        "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "You'll randomly visit a My Town that's set to|<%sL_MYTOWN_CATE>.|Do you want to go?|<yesno><break>"
     },
     "43": {
         "clarity_nt_char_43": "clarity_nt_char_43"
@@ -135,7 +135,7 @@
         "clarity_nt_char_45": "clarity_nt_char_45"
     },
     "46": {
-        "「わかりました。|　では　今から　さっそく|　ご自分のマイタウンへ　移動しますか？|<yesno><break>": "Okay... So, would you like to move to your|own town now?<yesno><break>"
+        "「わかりました。|　では　今から　さっそく|　ご自分のマイタウンへ　移動しますか？|<yesno><break>": "Understood. Would you like to go to your own|My Town?|<yesno><break>"
     },
     "47": {
         "clarity_nt_char_47": "clarity_nt_char_47"
@@ -201,7 +201,7 @@
         "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "You'll randomly visit a My Town that has the|Welcome setting enabled. Please choose the|theme of the My Town you'd like to visit.|<break>"
     },
     "68": {
-        "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "<%sL_MYTOWN_CATE> Randomly visit|a house in My Town that's set to... Do you|want to move?|<br><yesno><break>"
+        "「<%sL_MYTOWN_CATE>に設定している|　マイタウンの家へ　ランダムで訪問します。|　移動しますか？|<yesno><break>": "You'll randomly visit a My Town that's set to|<%sL_MYTOWN_CATE>.|Do you want to go?|<yesno><break>"
     },
     "69": {
         "「マイタウンの　ご購入ですね。|　かしこまりました。|<br>|「購入前の　確認ですが|　マイタウンの所有は　おひとり様　ひとつまで。|<br>|「マイタウンでは　新しい自宅の住所を持つため|　住宅村に自宅がある場合　マイタウンへの|　引っ越しが　必要となります。|<br>|「バトンちゃんは　マイタウンへは　来ないので|　プレゼントの受け取りが　まだでしたら|　受け取ってからのご購入を　お勧めいたします。": "I'd like to purchase My Town... Yes, sir...|Just a quick reminder that only one person|can own a MyTown... In My Town, you will have|<br>|a new home address, so if your home is in a|residential village, you will need to move to|My Town... Baton will not be coming to My|<br>|Town, so if you haven't received your gift|yet, we recommend that you do so before you|purchase...|<br>"
