@@ -108,7 +108,7 @@
         "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
     },
     "37": {
-        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "I'm displaying the My Town with the ID|<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>.<break>"
     },
     "38": {
         "「それでは　移動します。|<br>|「ケイデント～　ニンウタイマ！|<break>": "Now, let's move... Cadet~ Ningutai Ma!<break>"
@@ -186,7 +186,7 @@
         "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
     },
     "63": {
-        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
+        "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "I'm displaying the My Town with the ID|<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>.<break>"
     },
     "64": {
         "「それでは　移動します。|<br>|「ケイデント……　ニンウタイマ！|<break>": "Let's move... Cadet... Ninwutimer!<break>"
@@ -486,7 +486,7 @@
         "「いらっしゃい。|　ここは　マイタウンの　サポート窓口よ。|　どういった　ご用かしら？|<br>|「あら？　<pc>さんは|　港町レンドア北にいる　土地管理人リステアと|　まだ一度も　話したことがないようね。|<br>|「マイタウンについては　土地管理人リステアと|　一度でも　話しをしたことがある人にだけ|　案内をさせてもらってるの。|<br>|「申し訳ないけど　港町レンドア北にいる|　土地管理人リステアと　話しをしてから|　また　私に話しかけもらえるかしら？": "Welcome to... This is My Town Support... What|can I do for you? Oh, no.<pc> You've never spoken to Listair, the caretaker|of the land north of Lendore... I'll only|show you My Town if you've already spoken to|<br>|Listair the Caretaker. I'm sorry, but after|you've spoken to Listair the Caretaker north|of the port city of Lendore, would you mind|<br>|talking to me again?"
     },
     "163": {
-        "「マイタウンＩＤを　入力してないので|　探せないです！　もう一度　探したい|　マイタウンＩＤを　入力してください！|<bw_break>": "I can't find it because you didn't enter your|Mytown ID! Please enter the Mytown ID you|wish to find again!|<br><bw_break>"
+        "「マイタウンＩＤを　入力してないので|　探せないです！　もう一度　探したい|　マイタウンＩＤを　入力してください！|<bw_break>": "You didn't enter a My Town ID! Please try|again by entering a My Town ID.|<bw_break>"
     },
     "164": {
         "「マイタウン名を　入力してないので|　探せないです！　もう一度　探したい|　マイタウン名を　入力してください！|<bw_break>": "I can't find it because I didn't enter my|town's name! Please enter the name of the My|Town you want to find again!|<br><bw_break>"
