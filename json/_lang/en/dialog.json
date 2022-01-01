@@ -3846,7 +3846,7 @@
         "<speed=0>釣りレベルが足りないため　装備できない！": ""
     },
     "1283": {
-        "<speed=0>しかし　うまく　装備できなかった。|港町レンドア南の　釣り老師ハルモスに|釣りのやり方を　教えてもらおう！": ""
+        "<speed=0>しかし　うまく　装備できなかった。|港町レンドア南の　釣り老師ハルモスに|釣りのやり方を　教えてもらおう！": "<speed=0>But you didn't really know how to equip|it. Go talk to the Old Fish Master Harmos in|South Lendor to learn how to fish!"
     },
     "1284": {
         "clarity_nt_char_1284": "clarity_nt_char_1284"
@@ -3855,7 +3855,7 @@
         "<speed=0>情報が取得できませんでした。|しばらく待ってから　もう一度　お試しください。": "<speed=0>Unable to retrieve information.|Please wait a moment and try again."
     },
     "1286": {
-        "<speed=0>その場所は　まだ行ったことがないため|移動できません。": "<speed=0>I can't move to that location because|I haven't been there yet."
+        "<speed=0>その場所は　まだ行ったことがないため|移動できません。": "<speed=0>Can't move to that location as you haven't|been there yet."
     },
     "1287": {
         "clarity_nt_char_1287": "clarity_nt_char_1287"
