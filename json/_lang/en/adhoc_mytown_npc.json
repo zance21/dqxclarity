@@ -117,7 +117,7 @@
         "「探したい　マイタウン名を|　入力してください。|<break>": "Please enter the name of the My Town you're|looking for.<break>"
     },
     "40": {
-        "「<%sL_MYTOWN_NAME>　という名前で|　登録しているマイタウンを　表示しています。|　どのマイタウンへ　移動しますか？|<break>": "<%sL_MYTOWN_NAME> I want to see|all the MyTowns that I have registered for...|Which MyTown would you like to move to?|<br><break>"
+        "「<%sL_MYTOWN_NAME>　という名前で|　登録しているマイタウンを　表示しています。|　どのマイタウンへ　移動しますか？|<break>": "I'm displaying all My Towns with the name|<%sL_MYTOWN_NAME>.|Which would you like to go to?|<break>"
     },
     "41": {
         "「ウェルカム設定をしている　マイタウンの家へ|　ランダムで訪問します。遊びにいきたい|　マイタウンの家のテーマを　選んでください。|<break>": "I'm gonna randomly visit all the houses in my|town that are set to welcome me. Choose the|theme of the My Town house you wish to|<br>|visit...<break>"
