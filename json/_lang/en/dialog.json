@@ -3900,7 +3900,7 @@
         "clarity_nt_char_1300": "clarity_nt_char_1300"
     },
     "1301": {
-        "<%sM_category>で|入手した称号から|設定します": ""
+        "<%sM_category>で|入手した称号から|設定します": "Set your title|from the category|<%sM_category>."
     },
     "1302": {
         "clarity_nt_char_1302": "clarity_nt_char_1302"
@@ -3909,13 +3909,13 @@
         "<speed=0>ドルボードに　乗っている状態では|ドルボード・錬金釜設定を　変更できません！|降りてから　お試しください。　": "<speed=0>You can't change your dolboard or alchemy|pot form while you're riding your dolboard!|Try again after getting off."
     },
     "1304": {
-        "<speed=0>かきおきを見せる　フレンドがいません。": ""
+        "<speed=0>かきおきを見せる　フレンドがいません。": "<speed=0>You don't have any friends to view memos of."
     },
     "1305": {
         "clarity_nt_char_1305": "clarity_nt_char_1305"
     },
     "1306": {
-        "<speed=0>かきおきを見せる　チームメンバーがいません。": ""
+        "<speed=0>かきおきを見せる　チームメンバーがいません。": "<speed=0>You don't have any Team members to view|memos of."
     },
     "1307": {
         "<speed=0>表示する　かきおきメモが　ありません。": ""
