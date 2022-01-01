@@ -168,7 +168,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないようですね。|<bw_break>": "I'm afraid there's too many envelopes for me|to pick up.<bw_break>"
     },
     "57": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "58": {
         "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
@@ -1152,7 +1152,7 @@
         "「そうびぶくろが　いっぱいで|　受け取れないみたいよ。|<bw_break>": "I can't seem to get it in my purse.<bw_break>"
     },
     "385": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "386": {
         "「じゃあ　<%sL_GOODS_ITEM>を|　渡すわね。|<end>": "Then we'll give you <%sL_GOODS_ITEM>...<end>"
@@ -2070,7 +2070,7 @@
         "「そうびぶくろが　イッパイだな。|　受け取れるように　整理して来い。|<bw_break>": "I've got my fist bag... I'll organize it for|you.<bw_break>"
     },
     "691": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "692": {
         "「<%sL_GOODS_ITEM>だ。受け取れ。|<end>": "<%sL_GOODS_ITE...受...<end>"
@@ -2658,7 +2658,7 @@
         "「ピキッ？　持ちきれないみたい……。|　そうびぶくろに　空きを作ってから|　また来てね！|<bw_break>": "Snaps? He can't hold it... Make room in your|pack and come back later!<bw_break>"
     },
     "887": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "888": {
         "「はい　<%sL_GOODS_ITEM>を　どうぞ。|　気に入ってもらえると　うれしいな！|<end>": "Yes, <%sL_GOODS_ITEM>... I'm glad you like|it!<end>"

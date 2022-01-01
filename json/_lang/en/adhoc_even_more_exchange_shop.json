@@ -1314,7 +1314,7 @@
         "「他に　何かありますか？|<break>": ""
     },
     "439": {
-        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "440": {
         "「ギラムソウル　<%nL_KOUKAN_NUM>こで|　<%sL_GOODS_ITEM>　と交換できるぞ。|　交換していいのかぁ？|<yesno><break>": "Gillam Soul <%nL_KOUKAN_NUM> in exchange for|<%sL_GOODS_ITEM>... Can I trade for it?<yesno><break>"
