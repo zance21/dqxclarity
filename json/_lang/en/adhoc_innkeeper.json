@@ -258,7 +258,7 @@
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
     },
     "87": {
-        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc> 's fame level has been raised from|<%dL_MEISEI_LEVEL1> to|<%dL_MEISEI_LEVEL>!|<br><me_57><end>"
+        "<pc>の　名声レベルが|<%dL_MEISEI_LEVEL1>から　<%dL_MEISEI_LEVEL>にあがった！|<me_57><end>": "<pc>'s fame level has been raised|from <%dL_MEISEI_LEVEL1> to <%dL_MEISEI_LEVEL>!|<me_57><end>"
     },
     "88": {
         "<pc>の　旅人バザーに出品できる数が|<%dL_SYUPPIN_OLD>個から　<%dL_SYUPPIN>個になった！<se_nots System 7>|<end>": ""
