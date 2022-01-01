@@ -3882,19 +3882,19 @@
         "clarity_nt_char_1294": "clarity_nt_char_1294"
     },
     "1295": {
-        "<speed=0><%sM_item>は|一度　つかったアイテムなので|取り引きできません！": ""
+        "<speed=0><%sM_item>は|一度　つかったアイテムなので|取り引きできません！": "<speed=0><%sM_item> has been used once, so|it can no longer be traded!"
     },
     "1296": {
         "clarity_nt_char_1296": "clarity_nt_char_1296"
     },
     "1297": {
-        "<speed=0>いまは　さかなを　見せられない！": ""
+        "<speed=0>いまは　さかなを　見せられない！": "<speed=0>You can't show off your fish right now!"
     },
     "1298": {
         "<speed=0><%sM_item>|<%sM_size>ｃｍ|おさかな交換員のところへ　持っていこう！": "<speed=0><%sM_item>|<%sM_size> cm|Take it to the Fish Exchange!"
     },
     "1299": {
-        "<speed=0>かきおきメモを|設定できませんでした。|時間をおいて　再度お試しください。": ""
+        "<speed=0>かきおきメモを|設定できませんでした。|時間をおいて　再度お試しください。": "<speed=0>Memo could not be set. Please try again later."
     },
     "1300": {
         "clarity_nt_char_1300": "clarity_nt_char_1300"
