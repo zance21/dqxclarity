@@ -213,7 +213,7 @@
         "「他にも　用はあるかい？|<break>": "Anything else you need?|<break>"
     },
     "72": {
-        "「ここは　冒険者の酒場。|　旅人たちが　仲間をもとめて集まる|　出会いと別れの酒場だ。|<br>|「今日は　どんな用だい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "This is a place for adventurers... It's a|place where travelers come to find|companionship, where they meet and part. What|<br>|can I do for you today?|<select_se_off>|find a friend|compare oneself to the registry|split up with one's friends|Recommended Teams|Listen to the explanation|<select_end>|<break>"
+        "「ここは　冒険者の酒場。|　旅人たちが　仲間をもとめて集まる|　出会いと別れの酒場だ。|<br>|「今日は　どんな用だい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "This is the Adventurer's Tavern, the place|where travelers come to meet and recruit|new friends and part with old ones.|<br>|What can I do for you today?|<select_se_off>|Party Search|Register Self|Remove Member|Proposed Teams|Explanation|<select_end>|<break>"
     },
     "73": {
         "「他にも　用はあるかい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "Anything else I can do?|<select_se_off>|Party Search|Register Self|Recommended Teams|Remove Members|Explanation|<select_end>|<break>"
@@ -597,7 +597,7 @@
         "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場だ。|　今日は　どんな用だい？|<break>": "This is a place for adventurers... It's a|place where travelers come to find|companionship, where they meet and part. What|<br>|can I do for you today?<break>"
     },
     "200": {
-        "「ここは　冒険者の酒場。|　旅人たちが　仲間をもとめて集まる|　出会いと別れの酒場だ。|<br>|「今日は　どんな用だい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "This is a place for adventurers... It's a|place where travelers come to find|companionship, where they meet and part. What|<br>|can I do for you today?|<select_se_off>|find a friend|compare oneself to the registry|split up with one's friends|Recommended Team|Listen to the explanation|<select_end>|<break>"
+        "「ここは　冒険者の酒場。|　旅人たちが　仲間をもとめて集まる|　出会いと別れの酒場だ。|<br>|「今日は　どんな用だい？|<select_se_off>|なかまをさがす|自分をとうろく|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "This is the Adventurer's Tavern, the place|where travelers come to meet and recruit|new friends and part with old ones.|<br>|What can I do for you today?|<select_se_off>|Party Search|Register Self|Remove Member|Proposed Teams|Explanation|<select_end>|<break>"
     },
     "201": {
         "「ここは　冒険者の酒場。旅人たちが|　仲間を求めて集まる　出会いと別れの酒場よ。|　何を　おのぞみかしら？|<break>": "This is the Adventurer's Tavern. The place|where travelers come to meet and recruit|new friends. What can I get for you?|<break>"
@@ -606,7 +606,7 @@
         "「他にも　用はあるかい？|<break>": "Anything else you need?|<break>"
     },
     "203": {
-        "「他にも　用はあるかい？|<select_se_off>|なかまをさがす|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "Is there anything else you need?|<select_se_off>|find a friend|split up with one's friends|Recommended Teams|Listen to the explanation|<select_end>|<break>"
+        "「他にも　用はあるかい？|<select_se_off>|なかまをさがす|なかまと別れる|おすすめチーム|説明を聞く|<select_end>|<break>": "Is there anything else you need?|<select_se_off>|Party Search|Remove Member|Proposed Teams|Explanation|<select_end>|<break>"
     },
     "204": {
         "「他に　ご用はあるかしら？|<break>": "Anything else I can do?|<break>"
