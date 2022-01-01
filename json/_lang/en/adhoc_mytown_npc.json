@@ -27,7 +27,7 @@
         "「お探しの条件での　マイタウンは|　見つかりませんでした～。|　もう一度　試してみてもらえますか？|<break>": "I couldn't find anything in My Town that|matches your criteria. Could you please try|again?|<br><break>"
     },
     "10": {
-        "「探したい　マイタウンＩＤを|　入力してください！|<break>": "Please enter the Mytown ID you're looking|for!<break>"
+        "「探したい　マイタウンＩＤを|　入力してください！|<break>": "Please enter the My Town ID you're looking|for!<break>"
     },
     "11": {
         "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています！|<break>": "You're viewing my town for <%sL_MYTOWN_IDFILL|ERSTRING>-<%sL_MYTOWN_ID2>!<break>"
@@ -105,7 +105,7 @@
         "「お探しの条件での　マイタウンは|　見つかりませんでした。|　再度　お試しください。|<break>": "We can't find a My Town that matches your|search criteria... Please try again...<break>"
     },
     "36": {
-        "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the Mytown ID you're looking|for...<break>"
+        "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
     },
     "37": {
         "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
@@ -183,7 +183,7 @@
         "「お探しの条件での　マイタウンは|　見つかりませんでした。|　再度　お試しくださいませ。|<break>": "We can't find a My Town that matches your|search criteria... Please try again...<break>"
     },
     "62": {
-        "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the Mytown ID you're looking|for...<break>"
+        "「探したい　マイタウンＩＤを|　入力してください。|<break>": "Please enter the My Town ID you're looking|for.<break>"
     },
     "63": {
         "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示しています。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
@@ -330,7 +330,7 @@
         "「マイタウンのことでしたら|　いつでも　声をかけてくだしゃいね。": "If you have any questions about My Town, you|can always reach out to me..."
     },
     "111": {
-        "「<pc>さんが　今　訪問できる|　マイタウンを　探しましゅ。|　どの方法で　探しましゅか？|<break>": "<pc> I'm trying to find My Town, which you can|visit now... How did you find us?<break>"
+        "「<pc>さんが　今　訪問できる|　マイタウンを　探しましゅ。|　どの方法で　探しましゅか？|<break>": "You'd like to visit a My Town now? How would|you like to search for one?|<break>"
     },
     "112": {
         "「このマイタウンへ　移動しましゅか？|<yesno><break>": "Are you moving to this My Town?<yesno><break>"
@@ -339,7 +339,7 @@
         "「探してる条件での　マイタウンは|　見つかりましぇん～。|　もう一度　試してみてほしいでしゅ。|<break>": "I'm sorry, sir, but I think I've found the My|Town you're looking for... I'd like you to|try again...|<br><break>"
     },
     "114": {
-        "「探したい　マイタウンＩＤを|　入力してくだしゃい。|<break>": "Please enter the Mytown ID you're looking|for...<break>"
+        "「探したい　マイタウンＩＤを|　入力してくだしゃい。|<break>": "Please enter the My Town ID you're looking|for.|<break>"
     },
     "115": {
         "「<%sL_MYTOWN_ID>-<%sL_MYTOWN_ID2>の|　マイタウンを　表示してましゅ。|<break>": "Show My Town in <%sL_MYTOWN_ID>-<|%sL_MYTOWN_ID2>...<break>"
@@ -408,7 +408,7 @@
         "「マイタウンに　関することなら|　いつでも　声をかけてちょうだいね。": "If you have any questions about My Town, you|can always call me..."
     },
     "137": {
-        "「<pc>さんが　今　訪問できる|　マイタウンを　探すわね。|　どの方法で　探したいのかしら？|<break>": "<pc> I'm trying to find My Town... Which way would|you like to find it?<break>"
+        "「<pc>さんが　今　訪問できる|　マイタウンを　探すわね。|　どの方法で　探したいのかしら？|<break>": "You're trying to find a My Town? How would|like to search for one?|<break>"
     },
     "138": {
         "「このマイタウンへ　移動するの？|<yesno><break>": "Are we moving to this My Town?<yesno><break>"
