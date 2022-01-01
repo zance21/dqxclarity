@@ -39,7 +39,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "14": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "15": {
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
@@ -153,7 +153,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "52": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "53": {
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
@@ -270,7 +270,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "91": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "92": {
         "「どのアイテムを　交換しますか？|<break>": "Which item would you like to trade?<break>"
@@ -600,7 +600,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "201": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "202": {
         "「<%sL_KOUKAN_ITEM>の　しぐさは|　もう　覚えているようですが|　本当に　交換してよろしいですか？|<yesno 2><break>": "I see you've already memorized the|<%sL_KOUKAN_ITEM> gesture, but|are you sure you want to trade?|<br><yesno 2><break>"
@@ -870,7 +870,7 @@
         "<pipipi_off>|<pc>は|<%sL_KOUKAN_ITEM>　<%nL_KOUKAN_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%nL_KOUKAN_NUM> <%sL_KOUKAN_ITEM>!|<se_nots System 7>|<end>"
     },
     "291": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "292": {
         "「<%sL_KOUKAN_ITEM>の　しぐさは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno><break>": "You've already memorized the|<%sL_KOUKAN_ITEM> gesture, is|that correct?|<br><yesno><break>"
@@ -1023,7 +1023,7 @@
         "「先に　受付を済ませてきてね。|<bw_break>": "We'll go through the reception first...<bw_break>"
     },
     "342": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "343": {
         "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": ""

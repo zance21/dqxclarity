@@ -69,7 +69,7 @@
         "「申し訳ありません。交換アイテムの準備のため|　交換を終了させて頂きます。|　またお越しください。|<end>": "We're sorry... We've had to close the|exchange to make room for new items... Please|come again...<end>"
     },
     "24": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "25": {
         "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -2016,13 +2016,13 @@
         "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しても　よろしいですか？|<yesno2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno2><break>"
     },
     "673": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "674": {
         "「当店では　お客さまがお持ちの|　フェザーチップを　素敵なアイテムと|　交換することができます。|<br>|「交換に必要な　フェザーチップは|　この塔にいる魔物を　討伐したとき|　落とす宝箱から　入手できるようです。|<br>|「交換の手数料は　いただいておりませんので|　たくさん集められましたら|　ぜひ当店に　お立ち寄りください。|<bw_breal>": "You can exchange your Feather Chips for|wonderful items at our shop. The Feather|Chips you need to exchange can be found in|<br>|the treasure chests that are dropped when you|defeat the demons in this tower... We don't|charge a fee for the exchange, so if you've|<br>|collected a lot, please stop by our shop...<bw_breal>"
     },
     "675": {
-        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an item exchange... How may I help|you today?<break>"
+        "「こちらは　アイテム交換屋です。|　本日は　どういたしますか？|<break>": "This is an Item Exchange Shop. How may I help|you today?|<break>"
     },
     "676": {
         "「他に　ご用件はありますか？|<break>": "Is there anything else I can do for you?<break>"
