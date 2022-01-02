@@ -9,7 +9,7 @@
         "「ほう……|　それでは　送ってやろう。|<end>": "Well... Well, then, send...<end>"
     },
     "4": {
-        "「<pc>が　獲得している勝ち点じゃ。|　ちなみに　おぬしは　現在|　<%sM_team>に　所属しておるぞい。|<break>": "<pc> You're a member of <%sM_team>. By the way,|you are currently a member of <%sM_team>...<break>"
+        "「<pc>が　獲得している勝ち点じゃ。|　ちなみに　おぬしは　現在|　<%sM_team>に　所属しておるぞい。|<break>": "These are the points you have won. By the way,|you currently belong to the|<%sM_team> club.|<break>"
     },
     "5": {
         "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
