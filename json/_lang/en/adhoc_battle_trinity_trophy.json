@@ -3,7 +3,7 @@
         "「むう　何やら　問題が起きたようじゃ……。|　すまんが　すこし　時間をおいてから|　来てくれんかのう。|<end>": "I think there's been a problem. I'm sorry,|but you're going to have to wait a little|longer...<end>"
     },
     "2": {
-        "「フォフォフォ。|　所属クラブの町に　戻りたいのじゃな？|<yesno><break>": "Fof... You want to go back to your club town,|don't you?<yesno><break>"
+        "「フォフォフォ。|　所属クラブの町に　戻りたいのじゃな？|<yesno><break>": "Hohoho. You'd like to return to the town of|the club you belong to, yes?|<yesno><break>"
     },
     "3": {
         "「ほう……|　それでは　送ってやろう。|<end>": "Well... Well, then, send...<end>"
@@ -15,7 +15,7 @@
         "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
     },
     "6": {
-        "<select_se_off>|クラブホームに戻る|順位表|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|Rankings|View Points Earned|How to Play|Explanation|Cancel|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|順位表|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Return to Club Home|Rankings|View Points Earned|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "7": {
         "「個人が　獲得した勝ち点の　ランキングじゃ。|<break>": "Individuals ranked by the number of points|they've scored...<break>"
@@ -66,7 +66,7 @@
         "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
     },
     "23": {
-        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|View Winner's Trophy|How to Play|Explanation|Cancel|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Return to Club Home|View Winner's Trophy|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "24": {
         "「他に　用はあるかのう？|<break>": "Is there anything else I can do?|<break>"
@@ -354,7 +354,7 @@
         "clarity_nt_char_118": "clarity_nt_char_118"
     },
     "119": {
-        "「フォフォフォ……。|　<%sM_Win_team>の　クラブホームにある|　優勝トロフィーを　見にいきたいのか？<yesno><break>": "Fofo... You want to go see the championship|trophy on the club home of <%sM_Win_team>?<yesno><break>"
+        "「フォフォフォ……。|　<%sM_Win_team>の　クラブホームにある|　優勝トロフィーを　見にいきたいのか？<yesno><break>": "Hohoho... you would like to see the Winner's|Trophy at the <%sM_Win_team> Club Home?<yesno><break>"
     },
     "120": {
         "「そうか……　それもよかろう。|<end>": "Well... That's...<end>"
