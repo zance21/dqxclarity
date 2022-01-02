@@ -168,7 +168,7 @@
         "「<%sL_TIMEI>まで|　行くでござるな。|　運賃<%nL_GOLD>ゴールド　いただくが　よろしいか？|<yesno><break>": "I'm going to <%sL_TIMEI>... Do you mind if I|take the gold?<yesno><break>"
     },
     "57": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "58": {
         "「あら？　乗らないか？|　それは　残念だよ。": "What? You need a ride? No, that's..."
