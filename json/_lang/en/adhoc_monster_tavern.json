@@ -654,7 +654,7 @@
         "「すくすく育っているようですね。|　今後も　モンスター牧場をご活用くださいませ。|　それでは……|<bw_break>": "They're growing up so fast... I hope you'll|continue to use Monster Farm... And now...<bw_break>"
     },
     "219": {
-        "「モンスター牧場に送る方を　お選びください。|　送った方には　<%sM_OWNER><%sM_SAMA>が　戦いで得た|　経験値の一部が　自動的に入ります。|<break>": ""
+        "「モンスター牧場に送る方を　お選びください。|　送った方には　<%sM_OWNER><%sM_SAMA>が　戦いで得た|　経験値の一部が　自動的に入ります。|<break>": "Please choose which monster to send to the|Monster Farm. The monster sent will gain a|portion of your EXP earned in battle.|<break>"
     },
     "220": {
         "「……申し訳ございませんが|　モンスター牧場に　送ることができる|　仲間モンスターさまが　いないようです。|<br>|「送りたい　仲間モンスターさまは|　先にお預けください。|<bw_break>": "... I'm sorry, but we don't have any|companion monsters to send to the monster|farm... If you have any companion monsters|<br>|you'd like to send, please drop them off|first...<bw_break>"
@@ -918,7 +918,7 @@
         "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「お客様は　まだ　モンスターの仲間が|　いらっしゃらないようですね。|<br>|「モンスターを仲間にできるようになったら|　ぜひ　また来てくださいね！|<end>": "This is the place where the travelers'|friends, the monsters, gather to drink... It|seems you don't have any monster friends|<br>|yet... Please come back when you're ready to|join the monsters!<end>"
     },
     "307": {
-        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": ""
+        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>|<%sM_otomo> was sent to the Tavern|and <%sM_monster> joined the party!|<me 61><end>"
     },
     "308": {
         "「では　<%sM_otomo>さんを　お預かりして|　<%sM_monster>さんを　お呼びしてきますね～。|<bw_break>": "Now, I'm going to leave <%sM_otomo> in your|care, and invite <%sM_monster> to join us...<bw_break>"
@@ -975,7 +975,7 @@
         "「死んでいる子を野に放つなんて　とんでもない！|　せめて　生き返らせてから|　お別れを　伝えましょうよ。　|<end>": "You can't release a dead child into the wild!|At least let him come back to life before we|say goodbye...<end>"
     },
     "326": {
-        "「どの子と　お別れしますか？|<break>": ""
+        "「どの子と　お別れしますか？|<break>": "Part ways with which monster?|<break>"
     },
     "327": {
         "「お別れするのは　この子でいいですか？|<se_nots System 0><break>": "Is this the girl you want to say goodbye to?<se_nots System 0><break>"
@@ -1374,7 +1374,7 @@
         "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「お客様は　まだ　モンスターの仲間が|　いらっしゃらないようですね。|<br>|「モンスターを仲間にできるようになったら|　ぜひ　また来てくださいね！|<end>": "This is the place where the travelers'|friends, the monsters, gather to drink... It|seems you don't have any monster friends|<br>|yet... Please come back when you're ready to|join the monsters!<end>"
     },
     "459": {
-        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": ""
+        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>|<%sM_otomo> was sent to the Tavern|and <%sM_monster> joined the party!|<me 61><end>"
     },
     "460": {
         "「では　<%sM_otomo>さんを　お預かりして|　<%sM_monster>さんを　お呼びしてきますね～。|<bw_break>": "Now, I'm going to leave <%sM_otomo> in your|care, and invite <%sM_monster> to join us...<bw_break>"
@@ -1431,7 +1431,7 @@
         "「死んでいる子を野に放つなんて　とんでもない！|　せめて　生き返らせてから|　お別れを　伝えましょうよ。　|<end>": "You can't release a dead child into the wild!|At least let him come back to life before we|say goodbye...<end>"
     },
     "478": {
-        "「どの子と　お別れしますか？|<break>": ""
+        "「どの子と　お別れしますか？|<break>": "Part ways with which monster?|<break>"
     },
     "479": {
         "「お別れするのは　この子でいいですか？|<se_nots System 0><break>": "Is this the girl you want to say goodbye to?<se_nots System 0><break>"
@@ -1830,7 +1830,7 @@
         "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「お客様は　まだ　モンスターの仲間が|　いらっしゃらないようですね。|<br>|「モンスターを仲間にできるようになったら|　ぜひ　また来てくださいね！|<end>": "This is the place where the travelers'|friends, the monsters, gather to drink... It|seems you don't have any monster friends|<br>|yet... Please come back when you're ready to|join the monsters!<end>"
     },
     "611": {
-        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": ""
+        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>|<%sM_otomo> was sent to the Tavern|and <%sM_monster> joined the party!|<me 61><end>"
     },
     "612": {
         "「じゃあ　<%sM_otomo>を　預かって|　<%sM_monster>を　呼んでくるからなー。|<bw_break>": "Then I'll take <%sM_otomo> and get|<%sM_monster>...<bw_break>"
@@ -1887,7 +1887,7 @@
         "「死んでいる子を野に放つなんて　とんでもない！|　せめて　生き返らせてから|　お別れを　伝えましょうよ。　|<end>": "You can't release a dead child into the wild!|At least let him come back to life before we|say goodbye...<end>"
     },
     "630": {
-        "「どの子と　お別れしますか？|<break>": ""
+        "「どの子と　お別れしますか？|<break>": "Part ways with which monster?|<break>"
     },
     "631": {
         "「お別れするのは　この子でいいですか？|<se_nots System 0><break>": "Is this the girl you want to say goodbye to?<se_nots System 0><break>"
@@ -2055,7 +2055,7 @@
         "「…あら？　どうやら　その名前は|　つけることが　できないみたい。|　別の名前を　つけてあげてください。|<end>": "... Oh? Apparently, we can't name him that...|You'll have to give him another name...<end>"
     },
     "686": {
-        "<pipipi_on>|「他に　用はあるかー？|<break>": ""
+        "<pipipi_on>|「他に　用はあるかー？|<break>": "<pipipi_on>|Anything else you need?|<break>"
     },
     "687": {
         "「わかりました！|　では　新しく与えられる|　ひとつ目のスキルを　選んでください。|<break>": "Yes, sir! Now, I'm going to ask you to choose|the first of your new skills...<break>"
