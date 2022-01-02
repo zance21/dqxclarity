@@ -27,7 +27,7 @@
         "「おーい！　<%sM_monster>　お迎えだよ！|<end>": "Hey! <%sM_monster> We're here for you!<end>"
     },
     "10": {
-        "「どの子を　連れていきますか？|<break>": ""
+        "「どの子を　連れていきますか？|<break>": "Bring along which monster?|<break>"
     },
     "11": {
         "<pipipi_off>|<%sM_monster>が　仲間（待機中）に加わった！|<me 61><end>": "<pipipi_off><%sM_monster> has joined our ranks (waiting)!<me 61><end>"
@@ -78,7 +78,7 @@
         "「今は　この子と　お別れできないみたいです。|　追加部屋の　利用券があれば|　お別れできるように　なりますよ。|<end>": "I'm afraid I can't say goodbye to her right|now. If you have a ticket for an extra room,|we can say goodbye...<end>"
     },
     "27": {
-        "「どの子と　お別れしますか？|<break>": ""
+        "「どの子と　お別れしますか？|<break>": "Part ways with which monster?|<break>"
     },
     "28": {
         "「お別れするのは　この子でいいですか？|<se_nots System 0><break>": "Is this the girl you want to say goodbye to?<se_nots System 0><break>"
@@ -381,7 +381,7 @@
         "「ここは　旅人たちの仲間モンスターが集う|　モンスター酒場です。|<br>|「お客様は　まだ　モンスターの仲間が|　いらっしゃらないようですね。|<br>|「モンスターを仲間にできるようになったら|　ぜひ　また来てくださいね！|<end>": "This is the place where the travelers'|friends, the monsters, gather to drink... It|seems you don't have any monster friends|<br>|yet... Please come back when you're ready to|join the monsters!<end>"
     },
     "128": {
-        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": ""
+        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>|<%sM_otomo> was sent to the Tavern|and <%sM_monster> joined the party!|<me 61><end>"
     },
     "129": {
         "「では　<%sM_otomo>さまを　お預かりして|　<%sM_monster>さまを　お呼びしてまいります。|<bw_break>": "Now, I'll take <%sM_otomo> and call|<%sM_monster>...<bw_break>"
@@ -417,7 +417,7 @@
         "「死んでいる子を野に放つなんて　とんでもない！|　せめて　生き返らせてから|　お別れを　伝えましょうよ。　|<end>": "You can't release a dead child into the wild!|At least let him come back to life before we|say goodbye...<end>"
     },
     "140": {
-        "「どの子と　お別れしますか？|<break>": ""
+        "「どの子と　お別れしますか？|<break>": "Part ways with which monster?|<break>"
     },
     "141": {
         "「お別れするのは　この子でいいですか？|<se_nots System 0><break>": "Is this the girl you want to say goodbye to?<se_nots System 0><break>"
