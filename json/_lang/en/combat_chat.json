@@ -555,7 +555,7 @@
         "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "186": {
-        "メガンテロックを|呼んだ！": ""
+        "メガンテロックを|呼んだ！": "Called Kamikazee Rock!"
     },
     "187": {
         "じゃまじゃま～！": ""
@@ -3090,7 +3090,7 @@
         "clarity_nt_char_1030": "clarity_nt_char_1030"
     },
     "1031": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは メガンテロックを呼んだ！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは メガンテロックを呼んだ！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e called a Kamikazee Rock!"
     },
     "1032": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ちからを使い果たした！": ""
@@ -4320,7 +4320,7 @@
         "<%sB_ACTOR>の おきがえタイム！": ""
     },
     "1441": {
-        "メガンテロックが 出現した！": ""
+        "メガンテロックが 出現した！": "Kamikazee Rock showed up!"
     },
     "1442": {
         "clarity_nt_char_1442": "clarity_nt_char_1442"
