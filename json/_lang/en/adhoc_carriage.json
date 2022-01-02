@@ -183,13 +183,13 @@
         "「あら。それは残念だよ。|　またきっと　来てね。": "Oh. That's left... I'm sure we'll..."
     },
     "62": {
-        "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<break>": "Don't talk to me. I'll crash your|damn client if you do.|<yesno><break>"
+        "「でも　送るだけで　迎えには行けないよ。|　それでも　いいなら　どこまで行くね？|<break>": "I can only drop you off, I don't do pick ups.|If that's fine, where do you want to go?|<break>"
     },
     "63": {
         "「<%sL_TIMEI>まで|　行くね。|　<%nL_GOLD>ゴールドね。やすいよ。乗っていくね？|<yesno><break>": "<%sL_TIMEI>Up to ... <%nL_GOLD>go... Ya...|I'm going for a ride, aren't I?<yesno><break>"
     },
     "64": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "65": {
         "「おや。乗らないですかい。|　では乗りたくなったら　また来ておくんなせい。": "Oh. Don't get in... Then come back when you|want to ride..."
@@ -210,7 +210,7 @@
         "「<%sL_TIMEI>まで|　行くんですな。|　お代<%nL_GOLD>ゴールドで　よろしいですかい？|<yesno><break>": "We're going to <%sL_TIMEI>... Would you like|to pay me in gold?<yesno><break>"
     },
     "71": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "72": {
         "「あー。乗らないんですねー。|　機会があれば　また　利用してくださいー。": "Uh... I don't ride, so... If you have a|chance, please use it again..."
@@ -231,7 +231,7 @@
         "「<%sL_TIMEI>まで|　行くんですねー。|　<%nL_GOLD>ゴールドになりますがー　いいですかー？|<yesno><break>": "I'm going to <%sL_TIMEI>... <%nL_GOLD> I'm|going gold, is that okay?<yesno><break>"
     },
     "78": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "79": {
         "「そうかー。乗らねーかー。|　乗りたくなったら　また来るんだぜー。": "I don't... I don't... We'll come back when|we're ready..."
