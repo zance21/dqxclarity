@@ -171,7 +171,7 @@
         "「移籍とは　現在所属しているクラブではない|　別のクラブに　入団しなおすことじゃ。|　移籍できる期間ならば　何度でも　できるぞい。|<br>|「ただし　移籍する際には　注意点がある。|　移籍した後に　対抗戦に参加する場合は|　参加費を　支払いなおす必要があるんじゃ。|<br>|「また　対抗戦とシーズンオフ期間……|　つまり　次の準備期間まで　他クラブへの移籍が|　できなくなるから　気をつけるんじゃな。|<bw_break>": "A transfer is when you join a different club|than the one you currently belong to. You can|transfer as many times as you like, for as|<br>|long as you want... However, you must be|careful when transferring... If you want to|participate in a rivalry game after|<br>|transferring, you have to pay the fee|again... Also, between the rivalry and the|off-season... In other words, you won't be|<br>|able to transfer to another club until the|next preparation period, so be careful...<bw_break>"
     },
     "58": {
-        "<select_se_off>|対抗戦とは|対抗戦の参加方法|優秀な成績を収めると？|対抗戦のランキング|対抗戦中のクラブ移籍|クラブボーナスとは|<select_end>|<break>": ""
+        "<select_se_off>|対抗戦とは|対抗戦の参加方法|優秀な成績を収めると？|対抗戦のランキング|対抗戦中のクラブ移籍|クラブボーナスとは|<select_end>|<break>": "<select_se_off>|About Matches|How to Participate|What if I do well?|Battle Ranking|Changing Clubs|About Club Bonus|<select_end>|<break>"
     },
     "59": {
         "<select_se_off>|バトルトリニティについて|試合について|対抗戦について|<select_end>|<break>": "<select_se_off>|About Battle Trinity|About Matches|About Rivalries|<select_end>|<break>"
