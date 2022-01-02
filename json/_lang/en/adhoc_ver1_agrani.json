@@ -1,0 +1,896 @@
+{
+    "1": {
+        "「むっ！|　今のは　まさか　アクロニア鉱山か！？": "No! That can't be the Acropora Mine!"
+    },
+    "2": {
+        "「チャルコ！　何があった！？": "Chalco! What's going on!"
+    },
+    "3": {
+        "「ホ　ホッツィ親方！　大変ですっ！！": "Mr. Hoagy! Oh, my God!"
+    },
+    "4": {
+        "「アクロニア鉱山で　崩落が起こって|　<pc>が……|　<pc>が　巻き込まれましたっ！！": "There was a collapse at the Acropora mine|<pc>  が|<pc> was involved!"
+    },
+    "5": {
+        "「な　なんだってーっ！？": "What the hell?"
+    },
+    "6": {
+        "「オラ　見たんだ……。|　変な紫の霧が　岩壁から　ふきだしてよォ。": "I saw this... There was this weird purple|mist coming off the rocks."
+    },
+    "7": {
+        "「そしたら　でかい岩が　はがれるように|　落ちてきて　<pc>の上に……。": "And then the big rocks started to come off| Fall in<pc> On top of the..."
+    },
+    "8": {
+        "「<pc>　返事してくれよォ！": "<pc> Answer me!"
+    },
+    "9": {
+        "「今　上の町へ　シスターを呼びに|　行かせていますが……。": "I'm sending the sisters upstairs to get|you..."
+    },
+    "10": {
+        "「………………。": "..."
+    },
+    "11": {
+        "「はあ　はあ……。|　どこです　<pc>さんは！？": "Ha, ha, ha... Where is it?<pc> What about you, sir?"
+    },
+    "12": {
+        "「わざわざ来てもらって　すまんな　マレレ。": "I'm sorry you had to come all this way..."
+    },
+    "13": {
+        "「いいんです。でも　困ったわ……。|　こんなとき　ホルタ神父が生きていたら……。": "Okay... But we're in trouble... If Father|Horta were alive today..."
+    },
+    "14": {
+        "「マレレ　お前しか　いねえんだ。|　頼むっ！！": "Malele, you're the only one... Please!"
+    },
+    "15": {
+        "「……はい。": "....."
+    },
+    "16": {
+        "「天にまします　われらが神よ。|　われらを見守る　山神イプチャルよ。": "We who are in heaven... We are watched over|by the mountain god Ipti..."
+    },
+    "17": {
+        "「どうか　<pc>の　みたまを|　呼び戻したまえ……！": "please<pc> Please bring back the Goddess of...!"
+    },
+    "18": {
+        "「…………。": "..."
+    },
+    "19": {
+        "「………………。": "..."
+    },
+    "20": {
+        "「チカラが　およばず……　すみません。": "No power... I can't..."
+    },
+    "21": {
+        "「いや　マレレが　謝ることはない。|　ホルタ神父でも　今の　<pc>を|　助けることは　できなかっただろう……。": "No, no, no, no, no, no, no, no, no, no, no,|no, no. Even Father Horta, now.<pc> I wouldn't have been able to help..."
+    },
+    "22": {
+        "「ウソだろ？|　アクロニア鉱山で　死者が出るなんて……。": "Are you kidding me? I can't believe people|are dying in the Acropora mine."
+    },
+    "23": {
+        "「山神イプチャルは　何してやがんだ！？": "What the hell is Yamagami Yipchur doing?"
+    },
+    "24": {
+        "「ムチェ　ブチャ　山神さまを|　悪く言うもんじゃねえ。|　神さまにだって……　きっと都合があるんだ。": "Muche Bucha, don't speak ill of the Mountain|God... Even the gods... He has his reasons..."
+    },
+    "25": {
+        "「チッ！　何が　都合だ。|　そんなことで片付けられちゃ|　死んだ　<pc>も　浮かばれねえぜ！": "Shit! What the... I'm not gonna let you get|away with this.<pc> I'm sorry, man."
+    },
+    "26": {
+        "「それに　ここ最近　ろくな鉱石も採れねえし。|　神さまの都合で　ビンボー暮らしさせられちゃ|　たまったもんじゃねえよ！": "Besides, we haven't been getting any ore|lately... I can't stand it when the gods make|us live in poverty!"
+    },
+    "27": {
+        "「オレとブチャは　出ていかせてもらうぜ。|　あばよッ！": "You can let me and Bucha go, but... Goodbye!"
+    },
+    "28": {
+        "「待つんだ　ムチェ！　ブチャ！": "Wait for me, Muche! Butcher!"
+    },
+    "29": {
+        "「ほっとけ！|　行きたいヤツは　行かせりゃいい。": "Leave him alone! I'll let whoever wants to|go..."
+    },
+    "30": {
+        "「それよりも　今は　<pc>のために|　祈ってやろうじゃねえか。|　安らかな眠りに　つけるようによ……。": "More importantly, right now<pc> I'll pray for you... That he may rest in|peace..."
+    },
+    "31": {
+        "「んん！？": "Hmm!"
+    },
+    "32": {
+        "「ぬおおおおっ！？　<pc>？": "Whoa, whoa, whoa!<pc> ？"
+    },
+    "33": {
+        "「ああ　よかった！|　<pc>が　息を吹き返したよ！|　マレレと　あたしたちの祈りが　届いたんだね！": "Oh, thank God!<pc> has come back to life! Our prayers and|Marelle's have been answered!"
+    },
+    "34": {
+        "「<pc>……　お前　本当に　大丈夫か？|　なんつうか　お前の身体に|　別の魂が　宿ったようにも見えたが……。": "<pc> ... Are you really okay? It's almost as if|another soul has taken up residence in your|body..."
+    },
+    "35": {
+        "「……いや　その様子なら　大丈夫そうだな。|　まったく　ヒヤヒヤさせやがって。": "I... No, no, no. You look fine. You look|fine. Oh, my God. You scared the shit out of|me."
+    },
+    "36": {
+        "「助かったぜ　マレレ。|　何か　礼をしねえとな！": "Thank you... I'm gonna have to thank you for|something."
+    },
+    "37": {
+        "「いえ　お礼なんて　いいんです。|　ただ……　そのぅ………。": "No, I don't want to thank you. I just... I|just... It's just..."
+    },
+    "38": {
+        "「親方さん。私と　一緒に|　教会へ　来ていただけないでしょうか？|　ルナナさんが　話がしたいって。": "Parents... I was wondering if you could come|to church with me. Miss Lunana would like to|talk to you..."
+    },
+    "39": {
+        "「ルナナが！？": "Lunana is!"
+    },
+    "40": {
+        "「チッ……。あの人間の小娘め。|　テメエの　くだらん話には乗らんと|　何度も言っておるのに　しつこいヤツだ！": "Tsk... That human... I've told you many times|that I don't want to listen to your nonsense,|but you're persistent!"
+    },
+    "41": {
+        "「世話になった　ホルタ神父の娘だと思って|　甘い顔をしていれば　つけ上がりやがって……。": "If I hadn't been so naive as to think she was|Father Horta's daughter, she would have taken|advantage of me..."
+    },
+    "42": {
+        "「あの……　親方さん………？": "Um... Master...?"
+    },
+    "43": {
+        "「あ　ああ……。": "Oh..."
+    },
+    "44": {
+        "「……そうか。ルナナの所へな。うん。|　マレレには　<pc>を助けてもらったし|　行かないわけには　いかねえな。": "...... Lunana's... Yup. For Marere.<pc> You saved my life, and I can't not go..."
+    },
+    "45": {
+        "「ああっ！": "Aah!"
+    },
+    "46": {
+        "「ダ　ダメだ。|　なんだか　腹が痛いし　頭も痛いし|　めまいがする……ゲホ　ゲホッ！": "Da... I feel sick to my stomach, my head|hurts, I'm dizzy... Geez, geez!"
+    },
+    "47": {
+        "「残念だが　ルナナの所へは|　行けそうにないなあ……。|　誰か　オレの代わりに　行ってくれねえかな？": "I'm sorry, but I can't go to Lunana's|place... Will someone please go in my place?"
+    },
+    "48": {
+        "「おおっ！　そうか　<pc>！|　お前が　行ってくれるか！": "Oh! Okay.<pc> You go! I need you to go!"
+    },
+    "49": {
+        "「そうだよな。お前は　命を助けてもらった|　礼を言いに　教会まで行かないとな。|　ついでに　ルナナの所へ　寄るといい。": "Well... I think we should go to the church|and thank them for saving your life... And|while I'm there, I'll stop by Lunana's."
+    },
+    "50": {
+        "「<pc>！|　ルナナのヤツに　ビシッと言ってこい。": "<pc> What? I'm gonna tell Lunana..."
+    },
+    "51": {
+        "「親方は　絶対に　イヤだと言っている。|　もう二度と　親方を呼んだりするなと！": "The master said no! Don't ever call him|again!"
+    },
+    "52": {
+        "「では　頼んだぞ　<pc>。": "Good luck with that<pc> 。"
+    },
+    "53": {
+        "「ゲホゲホ　ゴーホゴホッ……！": "Gurgle, gurgle, gurgle, gurgle...!"
+    },
+    "54": {
+        "「大丈夫かしら……　親方さん。": "I don't know... My parents..."
+    },
+    "55": {
+        "「では　私は　教会に戻りますけど……|　また何かあったら　呼んでください。": "Well, I'm gonna head back to the church,|but... But if you need anything else, just|let me know and I'll..."
+    },
+    "56": {
+        "「<pc>さんは　のちほど|　上の町の教会に住んでいる|　ルナナさんを　訪ねてくださいね。": "<pc> She will later visit Lunana, who lives in a|church in the town above..."
+    },
+    "57": {
+        "「相変わらず　ノックもなしに|　入っていらっしゃるのね　ホッツィさん。": "You're still coming in without knocking,|Hots..."
+    },
+    "58": {
+        "「でも……　怒ったりなんてしなくてよ？|　こんなに早く　来てくださったんだもの。|　今日こそ　いい返事を　お聞かせ願えるのよね？": "But... Don't be mad at me, okay? I'm glad you|came so soon. You're going to give me a good|answer today, aren't you?"
+    },
+    "59": {
+        "「このルナナに　まかせてくだされば|　決して　悪いようには　いたしませんわ。": "If you leave me in the hands of this Lunana,|I will never do anything wrong..."
+    },
+    "60": {
+        "「ねっ　ホッツィさん<heart>": "Hey, Mr Hotsy<heart>"
+    },
+    "61": {
+        "「……って　誰よ　あんた！？": "... Who the hell are you?"
+    },
+    "62": {
+        "「……はあッ！？|　親方の代理で　返事をしにきたですって？": "... Huh? You've come to reply on behalf of|the master?"
+    },
+    "63": {
+        "「いい度胸ね　あのクソ親父！": "You got some nerve, that old bastard!"
+    },
+    "64": {
+        "「この　あたしの厚意を　無視するなんて|　ありえないわッ！": "There's no way you can ignore my kindness!"
+    },
+    "65": {
+        "「な……何よ。あんた　まだいたの？": "Hey. ..... You're still here?"
+    },
+    "66": {
+        "「あー　親方の返事なら　いらないわよ。": "Oh, I don't need an answer from the master."
+    },
+    "67": {
+        "「代理をよこすぐらい|　あたしと　話したくないんだもの。|　断ってこいって　言われたんでしょ？": "You don't want to talk to me so much as you|want me to send a deputy. You were told to|say no, right?"
+    },
+    "68": {
+        "「……………………。": "..."
+    },
+    "69": {
+        "「あなた　よく見ると　下の町のヤツらとは|　どことなーく　ちがってるのね。|　みょうに　人間っぽいっていうか？": "You know, if you look closely, you're vaguely|different from the guys down town... More|human, perhaps?"
+    },
+    "70": {
+        "「……へえ　<pc>っていうの？|　じゃあ　命令するわ　<pc>。": " Heh<pc>  Is that what you want? Then I'm giving you an|order.<pc> 。"
+    },
+    "71": {
+        "「あなた　あたしの下僕になりなさいッ！<yesno><close>": "You will be my servant!<yesno><close>"
+    },
+    "72": {
+        "「よく　聞こえなかったわ。|　<pc>　あなた|　あたしの下僕に　なるわよねッ！？<yesno><close>": "I can't hear you...<pc> You'll be my servant, won't you?<yesno><close>"
+    },
+    "73": {
+        "「いい返事ね　<pc>。|　あなたは　幸せ者よ。": "Good answer<pc> I'm happy. You're lucky..."
+    },
+    "74": {
+        "「あたしは　このアグラニの救世主となり|　父以上の英雄に　なるんだから。|　あなたも　下僕として　歴史に名を残せるわよ！": "I'm going to be the savior of Agrani, and I'm|going to be even more of a hero than my|father. And you, my servant, will go down in|<br>|history as one of them!"
+    },
+    "75": {
+        "「<pc>。ここ数年　アクロニア鉱山から|　宝石はおろか　まともな鉱石すら|　出ていないことは　知ってるわよね？": "<pc> I know. You know the Acropora mine hasn't|produced a gemstone or even a decent ore in|years, right?"
+    },
+    "76": {
+        "「でも　あたしは知っているの。|　アクロニア鉱山の　どこを掘れば|　宝石が　ザクザク出るのかを……！": "But I know... I know where to dig in the|Acropora to find all the gems."
+    },
+    "77": {
+        "「アグラニの町の　書物という書物を調べて|　探り当てた情報だから　間違いないわ！": "I've been combing through every book in|Agrani and I'm pretty sure I've found|something!"
+    },
+    "78": {
+        "「でもね　あの親方ったら　おかしな理由をつけて|　その場所だけは　掘らないって言うのよ！|　まったく　理解不能だわッ！": "But that master has some crazy reason for not|digging in that spot! I don't understand it!"
+    },
+    "79": {
+        "「下の町のヤツらは　どいつも　こいつも|　親方の言いなりみたいだけど……": "All the people from the town below| It's like he's doing his master's bidding, but"
+    },
+    "80": {
+        "「親方よりもエラい　賢者サマが|　そこを　掘ってもいいって言ったら|　みんな聞くと　思わない？": "If a wise man who's more powerful than the|master said it's okay to dig there, don't you|think people would listen?"
+    },
+    "81": {
+        "「そういうワケで　<pc>。|　あたしの下僕として　さっそく|　はたらいてもらいたいの。": "for that reason<pc> I'm sorry. I want you to work for me as my|servant..."
+    },
+    "82": {
+        "「アクロニア鉱山に住む　賢者ブロッゲン。|　あいつを説得して　その場所を掘ってもいいって|　おスミつきを　もらってくるのよッ！": "Bro the Wise, who lives in the Akronian|mines... We'll have to convince him to let us|dig there."
+    },
+    "83": {
+        "「ちょっぴり　むずかしい仕事だけど|　もし成功したら　あたしのルーラストーンを|　あげてもいいわッ！": "It's a bit of a difficult job, but if you|succeed, I'll give you my roula stone!"
+    },
+    "84": {
+        "「ルーラストーンがあれば|　石に記憶させた場所に　一瞬で行けるのよ。|　誰もが欲しがる　貴重なものなんだから！": "If I had a ruler stone, I could go anywhere I|wanted in an instant... It's the one thing|that everyone wants. It's the only thing that|<br>|matters!"
+    },
+    "85": {
+        "「<pc>　頼んだわよ。|　アクロニア鉱山へ行って　必ず|　ブロッゲンを　説得してきてちょうだいね！": "<pc> Please... I want you to go to the Acrotonian|mine and convince them to let Brogen go."
+    },
+    "86": {
+        "「あたし　バカとノロマは　嫌いなのよね……。": "I don't like stupid and slow people."
+    },
+    "87": {
+        "「あんな　暗くてジメジメしてて|　魔物まで出る所　あたしは大キライだけど|　あなたにとっては　庭みたいな場所でしょ？": "I hate those dark, gloomy, demon-infested|places, but they're like gardens to you,|aren't they?"
+    },
+    "88": {
+        "「さっさと　アクロニア鉱山にもぐって|　ブロッゲンを　仲間に引き込みなさいッ！": "Now, get down to the Acroporn Mine and bring|Brogen into the fold!"
+    },
+    "89": {
+        "「下の町に住む　あなたが　ルーラストーンを|　手に入れられる　チャンスなんて|　もう　二度とないんだからね！": "There's never gonna be another chance for you|down there to get your hands on a Rulastone!"
+    },
+    "90": {
+        "「偉大なる　大賢者ブロッゲンさまの|　お帰りでアールっ！！": "The great sage, Mr. Brogen, has returned!"
+    },
+    "91": {
+        "「おおっ！|　おかえりなさいませ　ブロッゲンさま。": "Oh! Welcome back, Brogue..."
+    },
+    "92": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "93": {
+        "「ブロッゲンさまは|　留守中　変わったことは　なかったかと|　おたずねでアールっ！！": "I was wondering if you noticed anything|unusual while you were away, Mr. Broggen."
+    },
+    "94": {
+        "「じつは　このアクロニア鉱山の中で|　崩落事故が　起こりまして　そのとき……": "The truth is, here in the Akronia mine| There was a collapse, and when it happened"
+    },
+    "95": {
+        "「ふせろっ！！": "Get down!"
+    },
+    "96": {
+        "「ふうう……。": "Whoo..."
+    },
+    "97": {
+        "「あ　あの　紫の霧は……？": "Oh, that purple mist...?"
+    },
+    "98": {
+        "「もしや　あれが　崩落があったときに|　現れたという　怪しい霧では！？": "Isn't that the mysterious mist that appeared|when the collapse occurred?"
+    },
+    "99": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "100": {
+        "「ブロッゲンさま？": "Mr. Broggen?"
+    },
+    "101": {
+        "「あれは……": "That was"
+    },
+    "102": {
+        "「触れれば　命を落とすと言われる　魔瘴の霧。|　こんな所にまで現れるとは　本格的に|　手を打たねば……とのことでアール！！": "It's said that if you touch it, you'll die. I|can't believe it's even here. We've got to do|something about it. So that's why Earl!"
+    },
+    "103": {
+        "「魔瘴……。": "Demon miasma..."
+    },
+    "104": {
+        "「ねえ　こいつ　誰？": "Hey, who's this guy?"
+    },
+    "105": {
+        "「鉱山で見習いをしている　<pc>です。|　ブロッゲンさまに　話があるとかで|　ここまで　来たようですが……。": "I'm an apprentice in the mines<pc> Yes. He's come all this way because he wants|to talk to Mr. Brogen, but..."
+    },
+    "106": {
+        "「ふ～～～ん。": "Hmm..."
+    },
+    "107": {
+        "「どうしました　ブロッゲンさまの杖さま？|　<pc>に　おかしなところでも？": "What's the matter, Master Broggen's wand?<pc> What's so funny about that?"
+    },
+    "108": {
+        "「むふふ～　ヒミツぅ～～♪": "Mmm-hmm Secret"
+    },
+    "109": {
+        "「……は　はあ。": "... Ha..."
+    },
+    "110": {
+        "「ところでさ　<pc>。|　話って　なんなの？": "by the way<pc> (speaking spanish) What's the story?"
+    },
+    "111": {
+        "<pc>は　事情を説明した。": ""
+    },
+    "112": {
+        "「……ルナナおじょうさんね。|　知ってる　知ってる！|　あの　ホルタ神父の娘だね！": "... Uncle Lunana... I know, I know! You're|Father Horta's daughter!"
+    },
+    "113": {
+        "「……なるほど　なるほど。確かに|　ブロッゲンさまの言うことを　聞かないヤツは|　アグラニには　いないからね～。": "... I see... It's true, there's not a man in|Agrani who wouldn't listen to Mr. Bloggen..."
+    },
+    "114": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "115": {
+        "「ふむふむ……。|　ブロッゲンさまは　こう　おっしゃって|　おらレール！": "Mmm-hmm... That's what Mr. Broggen said about|the rail!"
+    },
+    "116": {
+        "「ルナナの言う　書物に記された地とは|　アクロニア鉱山で　はたらく者たちが|　戒めの地と呼ぶ場所であり……": "What does Lunana mean by the land written in the book?| The men who roam the mines of Acronia| It's a place we call the Commandments"
+    },
+    "117": {
+        "「はるか昔　あの地に眠る　貴重な宝石をめぐり|　強欲なドワーフたちが　命を奪い合うという|　忌まわしい事件が　起きた場所なのでアール！": "A long time ago, there was an abominable|incident where greedy dwarves fought for the|life of a precious jewel that lay hidden in|<br>|that land."
+    },
+    "118": {
+        "「そして　その場にいたドワーフたちは　死後|　欲と未練にまみれた怨霊となり　鉱山に入る者を|　退けるようになってしまったのさ。": "And the dwarves who were there, after their|deaths, became vengeful spirits, cursed with|greed and unrequited love... and turned away|<br>|all who entered their mines."
+    },
+    "119": {
+        "「その祈りが届き　怨霊は　ついに鎮められた。|　親方たちは　その話を知っているから|　戒めの地だけは　掘らないってわけさ……。": "Their prayers were answered and the grudge|was finally put to rest. That's why the|masters don't dig the sacred ground."
+    },
+    "120": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "121": {
+        "「……えっ！？": "... What?"
+    },
+    "122": {
+        "「<pc>……。": "<pc> ..."
+    },
+    "123": {
+        "「ブロッゲンさまは　自分が行って|　ルナナに　戒めの地の説明をしてやろうと|　おっしゃっておらレール……。": "Lord Broggen said he would go there and|explain the Commandments to Lunana, the|rail..."
+    },
+    "124": {
+        "「<pc>は　しっかりと見届けよ……|　とのことでアール。": "<pc> We'll see about that... And so..."
+    },
+    "125": {
+        "「ブロッゲンさま　くれっぐれも|　お手柔らかに　お願いしますよ～！": "Mr. Brogen, please be gentle with me!"
+    },
+    "126": {
+        "「ボクは　ただの通訳なんですからね？|　へし折られたりとか　イヤですよっ！": "I'm just an interpreter, remember? I don't|want you to break me!"
+    },
+    "127": {
+        "「うるさい　ヒゲッ！|　お説教なんて　もうウンザリ！！": "Shut up, Beard! I'm sick and tired of you|lecturing me!"
+    },
+    "128": {
+        "「この……ッ　カビだんごッ！！": "This... It's a moldy dumpling!"
+    },
+    "129": {
+        "「ブロッゲンを　説得できなかったんだから|　ルーラストーンは　あげないわよ！|　下僕も　クビよ　クビっ！！": "I'm not giving you a Ruler's Stone because|you couldn't convince Brogen to give you one!|And you're fired! You're fired!"
+    },
+    "130": {
+        "「ふんッ！": "Hmph!"
+    },
+    "131": {
+        "「あわわわ……　こわ～い。": "Aww... Ooh..."
+    },
+    "132": {
+        "「でも　いくら怒ったところで|　あんな　おじょうさん　ひとりじゃ|　なんにも　できないよね！": "But no matter how angry she gets, a girl like|her can't do anything on her own!"
+    },
+    "133": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "134": {
+        "「えっ……？": "What...?"
+    },
+    "135": {
+        "「ぐう　ぐう……！": "Gghh...!"
+    },
+    "136": {
+        "「………はあ　わかりましたよぅ。": "... Okay, okay..."
+    },
+    "137": {
+        "「ブロッゲンさまは　<pc>に|　手伝いをしてほしいと　望んでおらレール！": "Mr Broggen<pc> You want me to help you, Rail!"
+    },
+    "138": {
+        "「<pc>が　我々と　一緒に|　戒めの地の見回りに　行ってくれるなら……": "<pc> is with us| If you'd be so kind as to go and patrol the Commandments"
+    },
+    "139": {
+        "「ルナナに　もらいそびれたルーラストーンを|　<pc>に　やろうと！|　……くううっ　なんと　慈悲深いお言葉。": "Lunana didn't give me my rune stone|<pc> I'm going to do it! ... Ugh! How merciful..."
+    },
+    "140": {
+        "「まあ　それはさておき　<pc>。|　ブロッゲンさまの手伝い　してくれるよね！？<yesno><close>": "Well, that's beside the point<pc> (speaking spanish) You'll help me, won't you,|Mr. Brogen?<yesno><close>"
+    },
+    "141": {
+        "「いいえ　とか　言うなっ！！": "Don't say \"no\" to me!"
+    },
+    "142": {
+        "「ブロッゲンさまが　気をつかって|　ルーラストーンをくれるって言ってるんだぞ？|　手伝うに　決まってるよねっ！？<yesno><close>": "Mr. Brogen's been very thoughtful. He's|offering me a rune stone. Of course I'll help|you!<yesno><close>"
+    },
+    "143": {
+        "「ブロッゲンさまが　先に　ルーラストーンを|　くださるそうでアール！": "Mr. Brogen will give us the Rulastone first,|Earl!"
+    },
+    "144": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "145": {
+        "<pc>は|ルーラストーンを　手に入れた！<me 60>": "<pc> got the ruler stone!<me 60>"
+    },
+    "146": {
+        "「報酬だけもらって　逃げちゃダメだよ！|　準備を整えたら　まっすぐ|　ホッツィ親方の家まで　来てよねっ！": "Don't just take the reward and run away! When|you're ready, come straight to Mr.|Hottentotsy's house."
+    },
+    "147": {
+        "「しかし　ルナナのヤツめ。|　偉大なる賢者　ブロッゲンさまにまで|　そんな態度を取るとは　ふてえヤツだ！": "But Lunana... How dare you behave like that|even to the great sage, Lord Broggen!"
+    },
+    "148": {
+        "「いっそ　怒りにまかせて|　この町から　出ていってくれれば|　せいせいするんだがなぁ……。": "I'd be happier if you just got angry and left|this town..."
+    },
+    "149": {
+        "「まったくだよ！|　お父さんのホルタ神父とは　大ちがいだね！": "That's right! You're nothing like your|father, Father Horta!"
+    },
+    "150": {
+        "「おっ　<pc>か？": "Whoa<pc> Yeah?"
+    },
+    "151": {
+        "「遅かったじゃないか！": "You're too late!"
+    },
+    "152": {
+        "「ブロッゲンさま。|　もう　出発なさるんですか？": "Brogue... You're leaving already?"
+    },
+    "153": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "154": {
+        "「ブロッゲンさまは　おっしゃっておらレール！|　崩落の前から　アクロニア鉱山の様子は|　すこし　おかしかった。": "That's what Mr. Broggen said! Even before the|collapse, the Acropora mine looked a little|strange..."
+    },
+    "155": {
+        "「山神イプチャルの　おわす山に|　魔瘴が発生するなど　よほどの事態。|　早急に　調査せねば……　とのことでアール。": "The mountain where the mountain god Ipuchal|resides is believed to be home to a miasma.|We need to investigate... That's why..."
+    },
+    "156": {
+        "「……ううむ。": "......"
+    },
+    "157": {
+        "「<pc>。|　ボクたちと　最初に出会った場所……|　守人の部屋を　覚えているよね？": "<pc> The place It's where we first met. You|remember the guardian's room, don't you?"
+    },
+    "158": {
+        "「戒めの地は　あの部屋の扉の先にあるんだ。|　<pc>も　すぐに来てよね！": "The place of the Commandments is beyond the|door of that room...<pc> I hope you're here soon!"
+    },
+    "159": {
+        "「きゃー！|　チャルコと　セッチュがぁー！！": "Oh my God! Chalco and Stu!"
+    },
+    "160": {
+        "「しっかりしろ！　何があったんだ！？": "Stay with me! What's going on?"
+    },
+    "161": {
+        "「ああ……親方……　ブロッゲンさま……。": "Oh... Master... Mr. Broggen..."
+    },
+    "162": {
+        "「や　やられました。|　ルナナが……　ムチェとブチャを　したがえて|　ムリヤリ　奥へ……！": "I've been... Lunana... She took Mutsche and|Bucha and forced them into the back."
+    },
+    "163": {
+        "「えええーっ！|　戒めの地へ　行っちゃったの～！？": "What? ! He's gone to the place of|commandments~!"
+    },
+    "164": {
+        "「す　すみません。油断してました。": "I'm sorry. Let your guard down..."
+    },
+    "165": {
+        "「マズいな……。|　ムチェもブチャも　アグラニに来て　日が浅い。": "That's not good... Muche and Bucha came to|Agrani..."
+    },
+    "166": {
+        "「戒めの地の意味するところを|　知らないに　ちがいない……！": "You don't know what it means to be in the|land of the damned."
+    },
+    "167": {
+        "「戒めの地は　この部屋の先にある|　閉ざされた場所なんだ。|　さあ　急ぐよ　<pc>！": "The place of the Commandments is just beyond|this room, a closed place... Come on, let's|go.<pc> ！"
+    },
+    "168": {
+        "「そうよッ！|　ガンガン　掘ってちょうだいッ！！": "That's it! Keep digging, dig, dig!"
+    },
+    "169": {
+        "「ここに　貴重な宝石が　眠っているのは|　確かなんだから！": "Because I know for a fact that there is a|precious jewel lying here!"
+    },
+    "170": {
+        "「ガッテンだぁー！": "Gotta go!"
+    },
+    "171": {
+        "「くくく……。|　もうすぐ　あたしの時代がくるわ！": "Mmm... My time will come soon!"
+    },
+    "172": {
+        "「バカ親方たちは　くだらない迷信を|　信じてるみたいだけど　出るものさえ出れば|　みんな　あたしに　ついてくるはず！": "Those idiots seem to believe in|superstitions, but as long as something comes|out, they'll follow me!"
+    },
+    "173": {
+        "「そこまででアールッ！！": "That's far enough, Earl!"
+    },
+    "174": {
+        "「誰ッ！？": ""
+    },
+    "175": {
+        "「ルナナ！　ドワーフの掟を|　土足で踏みにじっては　ダメでアール！|　お前の父親は　そんな人じゃなかったでアール！": "Lunana! You will not trample the Dwarf code|underfoot, Earl! Your father was not like|that, Earl!"
+    },
+    "176": {
+        "「うるっさい！！　棒ッ！！": "Shut up! Stick!"
+    },
+    "177": {
+        "「あんな……　人に　こびるような|　父のやり方は　生ぬるいわッ！": "That... I don't like the way my father treats|people!"
+    },
+    "178": {
+        "「あたしは　迷信を真に受けて　この地を封じた|　アンタたちが　間違っていたことを証明し|　アグラニの住人を　服従させてみせる！": "I will prove you wrong for believing in|superstition and sealing off this land, and I|will subjugate the inhabitants of Agrani!"
+    },
+    "179": {
+        "「そして　このアグラニを拠点とし　いずれ|　世界中の人々を　ひざまずかせてやるのよッ！": "And with Agrani as our base, we'll soon bring|the whole world to its knees!"
+    },
+    "180": {
+        "「ルナナ……。|　お前ってヤツは……！": "Lunana... You are..."
+    },
+    "181": {
+        "「すげえええ！|　こりゃあ　絶対　とんでもないもんが出るぞ！！": "Oh, my God! We're gonna get some serious shit|out of this!"
+    },
+    "182": {
+        "「ああ！　そんなニオイがするなぁ！": "Oh! I can smell it!"
+    },
+    "183": {
+        "「やめるんだ　ムチェ　ブチャ！|　それ以上　掘れば　タダではすまんぞっ！！": "Stop it, Mutsche Bucha! If you dig any|deeper, you'll get what's coming to you!"
+    },
+    "184": {
+        "「うるせえっ！|　よくも……　こんないい場所があることを|　ずっと　隠してやがったな！": "Shut the fuck up! How dare you... You've been|hiding the fact that this place is so fucking|nice!"
+    },
+    "185": {
+        "「ひとりじめには　させねえぜ！|　ここは　オレたちのもんだっ！！": "You can't leave me here alone! This place is|ours!"
+    },
+    "186": {
+        "「そんな考え方をしては　いかん！|　ここは　山神さまが　欲にとりつかれた魂を|　鎮めてくださっている場所なんだ！！": "You can't think like that! This is the place|where the mountain gods appease the souls of|the greedy!"
+    },
+    "187": {
+        "「行きすぎた欲望のために争い|　滅びをむかえる歴史は　くり返さないと|　オレたちは　山神さまに誓ったんだ！！": "We swore to the Mountain God that we would|not repeat the history of fighting and|perishing because of our excessive desires!"
+    },
+    "188": {
+        "「山神なんざ　いるもんか！|　ここは　オレのもんだぁ！！": "There's no such thing as a mountain god! This|place is mine!"
+    },
+    "189": {
+        "「いや　オレのもんだああ！！": "No, it's mine!"
+    },
+    "190": {
+        "「ちょ……ちょっと！": "Hey... Hey!"
+    },
+    "191": {
+        "「ウ　ガガガ………！": "Ga-ga-ga...!"
+    },
+    "192": {
+        "「な　なんなの？　今の声は……！？": "What was that? What was that voice?"
+    },
+    "193": {
+        "「マアモォォオオオン！！！": "Maamooooooooon!"
+    },
+    "194": {
+        "「キャー！|　あ　あれが　怨霊ってヤツ！？": "Aah! Is that what you call a grudge?"
+    },
+    "195": {
+        "「我が名は　マアモン……。": "My name is Maamon..."
+    },
+    "196": {
+        "「欲深き者どもめ……。|　この地に眠る宝石は　誰にも渡さぬ……！": "You greedy bastards. The jewels that lie in|this land will never be yours."
+    },
+    "197": {
+        "「二度と足を踏み入れられぬよう|　魂ごと　喰らってくれるわァァァ！": "They'll eat your soul so you'll never set|foot in this place again!"
+    },
+    "198": {
+        "「ギシャァァアアアアアアアアアア！！！": "Gishaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+    },
+    "199": {
+        "「か　身体に……チカラが　入らねえ………。|　あいつに……吸い取られる……。": "I can't... I can't... That thing... It's|sucking me up..."
+    },
+    "200": {
+        "「ブロッゲン……さまの……|　チカラが……き　消えちゃう………。": "Bloggen... Your... My power... I'm gonna|disappear..."
+    },
+    "201": {
+        "「う……　くぅ……。": "Ugh... Ugh..."
+    },
+    "202": {
+        "「<cs_pchero>……？": "<cs_pchero>...？"
+    },
+    "203": {
+        "「動けるのっ！？|　お願いだ……。あいつを　倒して！！": "Can you move? Please... Take him down!"
+    },
+    "204": {
+        "「<cs_pchero>　来てくれたの……？": "<cs_pchero>You're here...?"
+    },
+    "205": {
+        "「お願いだ……。|　あいつを　倒して……！": "Please, please... Kill him."
+    },
+    "206": {
+        "「グ　アアァァ………！": "Guaaaah...!"
+    },
+    "207": {
+        "「おおっ　身体が動くぞ！？": "Oh, my body's moving!"
+    },
+    "208": {
+        "「<cs_pchero>が　やってくれましたね！|　ブロッゲンさま！": "<cs_pchero>You've done it! Master Broggen!"
+    },
+    "209": {
+        "「ハア　ハア……。": "Huh. Huh..."
+    },
+    "210": {
+        "「ウガァァ……　許さぬぅぅ！！": "Ugh... No!"
+    },
+    "211": {
+        "「集えっ！　この地に眠る　強欲なる魂たちよ！|　そして　我に　チカラを！！": "Gather round! Greedy souls who sleep in this|land! And give me strength!"
+    },
+    "212": {
+        "「マアモォォォォオオオオオオオオン！！！！！": "Maamooooooooooooooon ！！！！！"
+    },
+    "213": {
+        "「くそっ　巨大化した……！？": "Damn it, it's huge."
+    },
+    "214": {
+        "「ホッツィ！　<cs_pchero>！|　ここは　わしにまかせろ！": "Hotsy!<cs_pchero>I got this! I'll take care of this!"
+    },
+    "215": {
+        "「お前たちは　みんなを連れて|　逃げるのだ！！": "You two, take everyone and run!"
+    },
+    "216": {
+        "「あ……　ああ……！": "Oh... Oh...!"
+    },
+    "217": {
+        "「何をしておるっ！　早く行けっ！！": "What are you doing? Go, go, go!"
+    },
+    "218": {
+        "「マアモオオオオオオオオン！！！！！": ""
+    },
+    "219": {
+        "「ああっ！|　ブロッゲンさまの杖さまがっ……！！": "Aah! It's Mr. Broggen's wand!"
+    },
+    "220": {
+        "「キャー！　ブロッゲンさまー！！": "Aah! Mr. Broggen!"
+    },
+    "221": {
+        "「うぬぅっ……！！|　万事…休す……か……！": "Unh...! All is well... It's okay... Oh..."
+    },
+    "222": {
+        "「…………………………。": "..."
+    },
+    "223": {
+        "「なんだってんだ……。|　この　真っ白い光は……。": "What the hell... This bright white light..."
+    },
+    "224": {
+        "「オレたちは　助かったのか？": "Did we make it?"
+    },
+    "225": {
+        "「ふ　ふんッ！": "Hmph!"
+    },
+    "226": {
+        "「ここが　あんな　バケモノつきの土地だなんて|　聞いてなかったわよ！": "I didn't know this was the land of the|monsters!"
+    },
+    "227": {
+        "「こんな場所が近くにある　町にいたら|　命が　いくつあっても　足りないわッ！|　ムチェ！　ブチャ！　行くわよ！！": "If we stay in a town with a place like this|so close, we'll never have enough lives!|Muche! Butcher! Let's go!"
+    },
+    "228": {
+        "「へ　へい！": "Hey, hey!"
+    },
+    "229": {
+        "<center>勇気ある　ドワーフたちよ　礼を言おう。|よくぞ　マアモンより|尊い命を　守ってくれた……。": "Courageous Dwarves, you have my thanks. Thank|you for defending our precious lives from|Maamon."
+    },
+    "230": {
+        "<center>この地に　渦巻いていた悪しき瘴気…魔瘴により|我は　チカラを失い　マアモンを封じることも|鉱山に　恵みを与えることもできずにいた。": "An evil miasma swirled in this land. The|miasma that originally supposedly caused the|miasma left me powerless to stop Maamon or|<br>|bring blessings to the mines."
+    },
+    "231": {
+        "<center>だが　あの白き光……|勇者覚醒の光により　魔瘴は消え|我は　チカラを取り戻した。": "But that white light... By the light of the|hero's awakening, the miasma will fade and I|will regain my strength."
+    },
+    "232": {
+        "「この声は……？": "What's that voice...?"
+    },
+    "233": {
+        "「やはり……。|　山神イプチャルの加護が　弱まっていたのは|　魔瘴の影響であったか……。": "I knew it... The mountain god Ipchar's|blessings were weakened by the demon|miasma..."
+    },
+    "234": {
+        "「そして　わしらを救った　あの白き光……|　ついに伝説の勇者が……。": "And the white light that saved us all... At|last, the legendary hero..."
+    },
+    "235": {
+        "「<cs_pchero>　ありがとな！|　お前のおかげで　助かったぜ！": "<cs_pchero>Thanks, man! You saved my life, man!"
+    },
+    "236": {
+        "「……そうであった。|　そのことについても　話しておかねば。": "... So... I'll tell you about that, too."
+    },
+    "237": {
+        "「<cs_pchero>　親方の家に戻るぞ。|　お前に　話したいことがある。": "<cs_pchero>I'm at the master's house... I want to tell|you something..."
+    },
+    "238": {
+        "「待ちかねたぞ　<pc>。": ""
+    },
+    "239": {
+        "「わしが　こうして起きていられるのは|　ワケあって　わずかな時間だけなのだ。|　悪いが　手短に話させてもらうぞ。": "It's just that I've only been awake for a|short time... I'm sorry, but if I may be so|bold as to make this brief..."
+    },
+    "240": {
+        "「<pc>よ。お前の　本当の姿は|　ドワーフではなく　人間なのであろう？": "<pc> Oh, no. You're not really a dwarf, are you?|You're a man."
+    },
+    "241": {
+        "「ええっ！？": "What?"
+    },
+    "242": {
+        "「やはりか……。": "I knew it..."
+    },
+    "243": {
+        "「その鏡は　真実の姿を映しだすという|　伝説の　ラーの鏡。": "The mirror is said to reflect the true image|of La..."
+    },
+    "244": {
+        "「マアモンと戦ったとき　わしらは|　チカラを奪われ　身動きできなくなったが|　お前だけは　戦うことができたな？": "When we fought Maamon, he took all our|strength and we couldn't move, but you could|fight, couldn't you?"
+    },
+    "245": {
+        "「それは　お前の身に宿る魂が　ドワーフでなく|　人間のものだったからに　相違ない。": "Because the soul that dwells in you is not|that of a dwarf, but of a man."
+    },
+    "246": {
+        "「わしには　わかる。|　なぜ　お前が　その姿となったのか……。": "I have no idea... I don't know why you've|become what you are."
+    },
+    "247": {
+        "「………………。": "..."
+    },
+    "248": {
+        "「ぐう……。": "Gosh..."
+    },
+    "249": {
+        "「ブ　ブロッゲンさま！？": "Mr. Broggen!"
+    },
+    "250": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "251": {
+        "「ブロッゲンさまの杖さま。|　なんとか　おっしゃってくださいよ！？": "Mr. Broggen's... What do you want me to say?"
+    },
+    "252": {
+        "「……………………。": "..."
+    },
+    "253": {
+        "「うおー　なんてこったい！": "Whoa. Oh, my God!"
+    },
+    "254": {
+        "「……<pc>。|　お前と　しゃべるのに　ブロッゲンさまは|　ちっとばかり　ご無理をなさったようだ。": "<pc> I'm sorry. I'm afraid Mr. Broggen took a|little too much trouble to talk to you..."
+    },
+    "255": {
+        "「……おお　そうだ。|　今のうちに　こいつを渡しておこう。": "... Oh... I'll give you this while I still|can."
+    },
+    "256": {
+        "<pc>は　ホッツィ親方から|大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> has received an intercontinental railroad|pass from Master Hozzi!<me 60>"
+    },
+    "257": {
+        "「大陸間鉄道パスは　持ってるだけで|　好きなだけ　鉄道に乗れちまう|　そりゃあ　貴重なモンなんだぜ。": "An intercontinental rail pass allows you to|ride as many trains as you like, which is a|rare thing..."
+    },
+    "258": {
+        "「……ホントは　いつか|　その身体の持ち主のほうの　<pc>に|　やるつもりだったんだけどな……。": " One day| The one who owns that body<pc> I was going to do it to..."
+    },
+    "259": {
+        "「まだ　信じられねえけどよ……|　ブロッゲンさまの話じゃ　お前さんは|　ドワーフの　<pc>とは別人なんだろ？": "I don't believe it yet, but| I'm talking about Mr Broggen, not you| Dwarves<pc> And you're not the same person, are you?"
+    },
+    "260": {
+        "「あいつは　ぺーぺーの見習いだったが|　文句も言わずに　よく　はたらいてくれてたよ。": "He was a novice, but he never complained, and|he worked hard."
+    },
+    "261": {
+        "「いつか　世界をマタにかけて|　とんでもない　お宝を　掘りだしてやるってのが|　あいつの　クチぐせだったんだ……。": "He always said that one day, he'd take the|world by the horns and dig up the greatest|treasure of all..."
+    },
+    "262": {
+        "「だからよ。もし　お前が　その身体を使って|　何かデカイことを　やりとげてくれれば|　あいつも　浮かばれると思う。": "So... If you could just use your body to do|something big, then he'd be happy."
+    },
+    "263": {
+        "「そうだよ！": "That's right!"
+    },
+    "264": {
+        "「うわっ！|　ブロッゲンさまの杖さま！？": "Oh, no! Mr. Broggen's wand!"
+    },
+    "265": {
+        "「ブロッゲンさまは　おっしゃっておらレール！|　<pc>のように　姿を変えて|　生き返った者には　果たすべき　使命があると。": "That's what Mr. Broggen said!<pc> Those who come back to life in a different|form, such as... have a mission to fulfill..."
+    },
+    "266": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "267": {
+        "「その使命が　なんであるかは|　いずれ　時が来れば　わかるとして……": "I don't know what that mission is| We'll see when the time is right, but"
+    },
+    "268": {
+        "「使命を果たすために　助けとなるものを|　今から　授けるのでアール。": "I'm about to give you something that will|help you fulfill your mission..."
+    },
+    "269": {
+        "「ぐう　ぐう……。": "Ugh. Ugh..."
+    },
+    "270": {
+        "「さあ　冒険の書を出すのでアール！": "Come on, Earl, let's get out the adventure|book!"
+    },
+    "271": {
+        "「杖サマ……　スパーーーーク！！！": "Wandsummer... Sparky!"
+    },
+    "272": {
+        "「おおおっ　一人前の証が|　<pc>の　冒険の書に！": "Oh, the sign of a full-fledged man|<pc> In the Book of Adventures!"
+    },
+    "273": {
+        "「よかったな　<pc>！|　これで　お前は　どこの国へ行っても|　一人前だと　認められるぞ！": "Good for you<pc> No! Now you'll be recognized as one of the|best in the world, no matter where you go!"
+    },
+    "274": {
+        "「異国の　おえらい王さまだって|　お前のことを　頼りにしてくれるかもな！": "Even the greatest kings in the world might be|able to count on you!"
+    },
+    "275": {
+        "「うん。各大陸の大きな町や国で　活躍すれば|　その証として　キーエンブレムっていう|　カギみたいな勲章を　もらえることがあるんだ。": "Yeah. If you do well in the big towns and|countries of each continent, you can get a|key emblem, a key-like medal, as proof..."
+    },
+    "276": {
+        "「まずは　世界中をめぐり　自分の実力の証として|　そのキーエンブレムを　集めるんだよ！": "First, you have to go around the world and|collect those key emblems as proof of your|abilities!"
+    },
+    "277": {
+        "「さあ　本当の冒険の始まりだ　<pc>！|　まずは　このアグラニから　北西にある町|　岳都ガタラを　目指すんだ！": "Now the real adventure begins<pc> We have to get to the city of Gatara. First,|we must go to the city of Gatara, which is|northwest of here in Agrani!"
+    },
+    "278": {
+        "「……と　ブロッゲンさまのお話は|　以上でアール！": "... And that's all I have to say about Mr.|Broggen."
+    },
+    "279": {
+        "「我々も　もう　旅に出ることにするから。|　あの白い光……　勇者覚醒の原因を探るため|　行かなくてはならないのでアール！": "We, too, are going on a journey... That white|light... We must go to find the cause of the|hero's awakening, Earl!"
+    },
+    "280": {
+        "「なんだか　スケールのでっかい話になったが|　オレも　お前のこと　応援してるからな！|　がんばれよ　<pc>！": "I know it's a big story, but I'm rooting for|you too! Keep up the good work!<pc> ！"
+    },
+    "281": {
+        "「そして　ブロッゲンさまの杖さま。": "And Mr. Broggen's..."
+    },
+    "282": {
+        "「ホッツィ。|　その鏡で　<pc>を　映してみてくれ。": "Ho... In that mirror.<pc> I'll show you..."
+    },
+    "283": {
+        "「こ……　この気配は……。|　まさか……！？": "It's... This is... No way..."
+    },
+    "284": {
+        "「お　おいっ！|　大丈夫かっ　<pc>！": "Whoa! Whoa! You're okay.<pc> ！"
+    },
+    "285": {
+        "「本当に　残念だが……|　<pc>は　もう……。": "I'm really sorry, but|<pc> Well..."
+    },
+    "286": {
+        "「オレの後ろに見えるのは|　神カラクリと言ってな。|　アグラニ自慢の　昇降機なのさ。": "What you see behind me is what I call the|God's Karakuri... Agrani's pride and joy, the|elevator..."
+    },
+    "287": {
+        "「ふっふっふ。この神カラクリを使えば|　上の町まで　一瞬で行けるぞ。": "Whoa... If we use this divine magic, we can|get to the upper town in an instant..."
+    },
+    "288": {
+        "「この神カラクリってヤツは|　何千年も前の　時代のものらしいが……。": "This divine karakuri is thousands of years|old, but..."
+    },
+    "289": {
+        "「今でも　オレたちを乗せて|　スーッと上まで　運んでくれる。|　いやはや　すごい発明品だよなあ！": "Even now, it can carry us all the way up...|Oh, man, that's a hell of an invention!"
+    },
+    "290": {
+        "「……そこで　アグラニの人たちは|　山神イプチャルに　その事件を戒めにすると誓い|　怨霊を鎮めてほしいと　祈りつづけたんだ。": "... So, the people of Agrani vowed to make|the incident a warning to the Mountain God,|Yipcharoor, and prayed to him to appease the|<br>|grudge..."
+    },
+    "291": {
+        "<center>これからは　ふたたび　この山神イプチャルが|鉱山に関わる　すべての者たちを|見守ってゆくと　約束しよう。": "From now on, the mountain god, Ypichal,|promises to watch over all those involved in|the mine..."
+    },
+    "292": {
+        "<center>だが　ゆめゆめ忘れるな　ドワーフたちよ。|欲望の牙は　おぬしらの心に|常に　ひそんでいることを……。": "But do not ever forget, dwarf... That the|fangs of desire are always lurking in your|heart."
+    },
+    "293": {
+        "「マアァァァ……モオォォォン……！！": "Maaaaah... Mo-o-o-o-o...!"
+    },
+    "294": {
+        "「扉の横に　見えるのが|　神カラクリを動かすスイッチだ。|　上の町に行きたいのなら　調べてみるといい。": "Next to the door, you can see the switch that|powers the God's Karakuri... If you want to|get to the upper town, I'll check it out..."
+    },
+    "295": {
+        "ルーラストーンは　記憶させた場所に|一瞬で移動できる　魔法の石です。|何度使っても　なくなりません。": ""
+    },
+    "296": {
+        "このルーラストーンには|まだ場所が　記憶されていません。|移動する場所は　教会で記憶させられます。": "This roolastone still has the location stored|in it... You have to go to the church to|remember where you're going."
+    },
+    "297": {
+        "「ここから先の旅は　ひとりには　つらいもの。|　サポート仲間という協力者を　３人用意したから|　お前の旅に　同行させてくれ。": "The journey ahead is not easy for one man...|I've arranged for three support people to|accompany you on your journey..."
+    },
+    "298": {
+        "「岳都ガタラまで着けば　酒場で|　新しいサポート仲間を　紹介してもらえるから|　自由に選んで　連れていくことができるぞ。": "Once you reach the mountain city of Gatara,|the tavern will introduce you to new|supporters, and you can choose to take them|<br>|with you..."
+    }
+}

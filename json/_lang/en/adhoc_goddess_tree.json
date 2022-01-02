@@ -1,0 +1,146 @@
+{
+    "1": {
+        "「おや　あなたは……|　地上の英雄　<pc>さん　ですね。|　僕はオルガノさんの助手の　ソイルと申します。|<br>|「女神の木の　研究をしているのですが|　木の成長に必要な素材が　入手できず|　行き詰まってしまって…。|<br>|「<pc>さんは　とても　お強そうですね…。|　もし　よかったら　そこにいるオルガノさんの|　頼みを　聞いていただけないでしょうか。": "Oh, you're| Heroes on Earth<pc>  Mr... My name is Mr. Organo's assistant, Mr.|Soil. I've been researching the Tree of the|Goddess, but I can't seem to get the|<br>|materials I need to grow the tree, so I'm|stuck...<pc> You seem very strong... If you'd be so|kind... as to do a favor for Mr. Organo|here..."
+    },
+    "2": {
+        "「こんにちは　<pc>さん！|　話は　オルガノさんから　うかがっています。|<br>|「<pc>さんは　『女神の木』という植物を|　ご存じでしょうか。|<br>|「女神の木とは　育てた者にチカラを与えると|　されている　謎多き植物です。|　生育に成功した事例は　ありません。|<br>|「その女神の木を　育てるための鍵が|　『創生珠』だと　言われています。|<br>|「そこで　<pc>さん！|　女神の木を　育てていただけませんか？|　できる限りの　サポートはさせていただきます！|<yesno><break>": "hello<pc>   Mr! I was told by Mr. Organo...<pc>  Have you ever heard of a plant called the|Goddess Tree? The Goddess Tree is a|mysterious plant that is said to give power|<br>|to those who grow it... There have been no|successful cases of its growth... It is said|that the key to growing the Goddess Tree is|<br>|the Pearl of Creation. So...<pc> Miss! Would you be willing to grow the Tree|of the Goddess? I'll do everything I can to|support you!<yesno><break>"
+    },
+    "3": {
+        "「そ　そうですか……。それは残念です。|　もし　<pc>さんの気が変わったら|　また　話しかけてくださいね。": "Yeah, well... That leaves... What if...<pc> If you change your mind, you can talk to me|again..."
+    },
+    "4": {
+        "「わあっ　ありがとうございます！|　では　研究用の庭を　お貸しするので|　扱い方を　説明させていただきますね。": "Wow! Thank you! Now, if you'll allow me to|borrow your garden for my research, I'll show|you how to use it."
+    },
+    "5": {
+        "「<pc>さん。|　女神の木のことなら　僕になんでも|　聞いてください！|<bw_break>": "<pc> Three. You can ask me anything about the|Goddess Tree!<bw_break>"
+    },
+    "6": {
+        "「あっ　聞いてください　<pc>さん！　|　どうやら　女神の木が　時間を経て|　さらに成長できるように　変化したようです。|<br>|「女神の木の生態は　とても興味深いですね。|　メモメモっと……。さあ　今日もはりきって|　育てていきましょう！　さて……|<bw_break>": "Oh, listen<pc> Three! Apparently, the Goddess Tree has|changed over time to allow for further|growth... The life cycle of the Goddess Tree|<br>|is very interesting... Memo, memo... Let's|get on with growing today! Now...<bw_break>"
+    },
+    "7": {
+        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|庭の見た目を変える|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I get for you?|<select_se_off>|bring up|Change the look of your garden|Review how to grow|Listen to the explanation|<select_end>|<close>"
+    },
+    "8": {
+        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I get for you?|<select_se_off>|bring up|Review how to grow|Listen to the explanation|<select_end>|<close>"
+    },
+    "9": {
+        "「また　いつでも　来てくださいね。|　<pc>さん！|<end>": "You're welcome to come back anytime...<pc> Three!<end>"
+    },
+    "10": {
+        "「どの　女神の木を　育てますか？|<end>": "Which goddess tree will you grow?<end>"
+    },
+    "11": {
+        "「すべての女神の木が　最大まで成長しているので|　現在の　女神の木の状態を　お見せしますね。|<end>": "With all of the goddess trees at their|maximum growth, I thought I'd show you the|current state of the goddess trees...<end>"
+    },
+    "12": {
+        "「ああっ　すみません。|　今は　<%sM_TREE_NAME>を　これ以上|　育てられないみたいです。|<end>": "Oh, no... Now it looks like <%sM_TREE_NAME>|can't grow any more...<end>"
+    },
+    "13": {
+        "「<%sM_TREE_NAME>は|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に|　成長している途中のようですね。|<br>|「すみませんが　育ち終わるまでは|　さらに成長させることは　できないんです。|　もうしばらく　お待ちくださいね！|<end>": "<%sM_TREE_NAME> is in the process of growing|from level <%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>... I'm sorry, but I can't|<br>|make it grow further until it's finished...|You'll have to wait a little longer!<end>"
+    },
+    "14": {
+        "「では　素材を　お預かりしますね。|　ここに　こうして…。|<end>": "Now, I'll take your materials... Right here,|like this...<end>"
+    },
+    "15": {
+        "「あれっ……？|　残念ですが　成長に必要な素材が|　足りないみたいです。|<end>": "What the...? I'm sorry, but it seems we don't|have enough material to grow...<end>"
+    },
+    "16": {
+        "<speed=0>|<%sM_TREE_NAME>が　育ちはじめた！|<bw_break>": "<speed=0><%sM_TREE_NAME> is starting to grow!<bw_break>"
+    },
+    "17": {
+        "<color_yellow>|成長後に　メニューを開きなおすことで|最新情報が　反映されます。|<end>": "<color_yellow>After you've grown, you can reopen the menu|to get the latest information...<end>"
+    },
+    "18": {
+        "「ふう…。これであとは　育ち終わるのを|　待つばかりです！|　他に　どの女神の木を　育てますか？|<end>": "Phew... Now all we have to do is wait for it|to finish growing! Which other goddess tree|would you like to grow?<end>"
+    },
+    "19": {
+        "「どの見た目を　変更しますか？|<end>": "Which look do you want to change?<end>"
+    },
+    "20": {
+        "「<%sM_THEME_NAME>の見た目は　どれにしますか？|<end>": "Which look do you want <%sM_THEME_NAME> to|have?<end>"
+    },
+    "21": {
+        "「『<%sM_PARTS_NAME>』を　取りつけますか？|<yesno><close>": "Do you want to install \"<%sM_PARTS_NAME>\"?<yesno><close>"
+    },
+    "22": {
+        "「ふう……。|　『<%sM_PARTS_NAME>』を　取りつけました！|　この<%sM_THEME_NAME>　とっても素敵ですね。|<me 71><bw_break>": "Oh... I've installed <%sM_PARTS_NAME>! This|<%sM_THEME_NAME> is very nice...<me 71><bw_break>"
+    },
+    "23": {
+        "「何について　聞きたいですか？|<select_se_off>|女神の木とは|成長に必要な素材|庭ランクとは|庭の生き物|<select_end>|<break>": ""
+    },
+    "24": {
+        "「この庭には　『女神の木』と呼ばれる木の苗が|　全部で１０本　植えられています。|<br>|「女神の木とは　育てた者にチカラを与えると|　されている　謎多き植物です。そのチカラは|　女神の木の種類によって　変わるのだとか……。|<br>|「例えば　ちからの木を育てると　ちからが上がり|　まもりの木を育てると　みのまもりが|　上がるみたいです。|<bw_break>": "In this garden, there are ten seedlings of a|tree called the \"Goddess Tree\"... The Goddess|Tree is a mysterious plant that is said to|<br>|give power to those who grow it. The power|depends on the type of Goddess Tree... For|example, if you grow a tree of power, your|<br>|power will increase, and if you grow a tree|of protection, your protection will|increase...<bw_break>"
+    },
+    "25": {
+        "「これまでの研究によって|　女神の木を育てるには　パニガルムで手に入る|　『創生珠』が　必要だと判明しました。|<br>|「成長に必要な素材を　いただければ|　僕が　女神の木に与えるので|　どんどん　持ってきてくださいね！|<bw_break>": "Based on my research, I've determined that in|order to grow the Goddess Tree, I need the|Creation Pearl, which can be found in|<br>|Panigarm... If you can give me the materials|I need to grow the tree, I'll give them to|the Goddess Tree, so keep bringing them to|<br>|me!<bw_break>"
+    },
+    "26": {
+        "「複数の女神の木が　全体的に成長していくと|　研究用の庭　それ自体のランクが上がります。|　僕は　それを『庭ランク』と　呼んでいます。|<br>|「庭ランクが上がると　木が育ちやすい土壌になり|　一度成長の限界に達した　女神の木も|　さらに　育てられるようになるみたいです。|<br>|「つまり　特定の女神の木だけを　育てても|　庭ランクは　上がらないので　ぜひ|　バランスよく　育ててみてくださいね！|<bw_break>": "The overall growth of multiple goddess trees|increases the rank of the study garden|itself. I call it \"garden rank.\" As the|<br>|garden's rank increases, the soil becomes|more fertile, and the goddess trees, once|they've reached their limit of growth, can|<br>|grow even more. In other words, growing only|certain goddess trees won't raise your garden|rank, so please try to grow them in a|<br>|balanced manner!<bw_break>"
+    },
+    "27": {
+        "「……あれっ？|　どうやら　<%sM_TREE_NAME>に|　何か変化が　あるみたいです。|<end>": "... What? It looks like <%sM_TREE_NAME> has|changed in some way...<end>"
+    },
+    "28": {
+        "<%sM_TREE_NAME>が|レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　成長して|<%sM_KOUKA_NAME>が　<%nM_KOUKA_NUM>　上がった！": "<%sM_TREE_NAME> has grown from level|<%nM_BEFORE_LEVEL> to level <%nM_AFTER_LEVEL>|and <%sM_KOUKA_NAME> has moved up|<br>|<%nM_KOUKA_NUM>!"
+    },
+    "29": {
+        "「女神の木が　成長して　<pc>さんも|　さらに　強くなったみたいですね！|　この調子で……って　あれ？|<br>|「どうやら　庭にも|　何か変化が　あるみたいです！|<end>": "The tree of the goddess grew<pc> It looks like you've gotten even stronger! At|this rate... Huh? It seems there's been some|changes in the garden!<end>"
+    },
+    "30": {
+        "<pipipi_off>|庭ランクが　<%nM_BEFORE_RANK>から　<%nM_AFTER_RANK>に　上がった！|<me_71>|<br>|女神の木の　レベル上限が|レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　上がった！|<end>": "<pipipi_off>My yard rank went up from <%nM_BEFORE_RANK>|to <%nM_AFTER_RANK>!<me_71>The Goddess Tree's level limit has been|raised from level <%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>!<end>"
+    },
+    "31": {
+        "「わあっ　どうやら　庭ランクが上がったことで|　『<%sM_THEME_NAME>』の見た目を|　変えられるように　なったようです！|<bw_break>": "It seems that the appearance of|<%sM_THEME_NAME> can be changed now that the|garden rank has been raised!<bw_break>"
+    },
+    "32": {
+        "「女神の木が　成長して　<pc>さんも|　さらに　強くなったみたいですね！|　この調子で……って　あれ？|<br>|「すべての女神の木が　立派に育ったようですね！|　さすが 　<pc>さん！　すごいです。|<bw_break>": "The tree of the goddess grew<pc>  It looks like you've gotten even stronger! At|this rate... Huh? It looks like all the|goddess trees have grown up nicely! That's|<br>|right.<pc> Oh, my God! Wow...<bw_break>"
+    },
+    "33": {
+        "「女神の木が　成長して　<pc>さんも|　さらに　強くなったみたいですね！|　この調子で　がんばってください！|<bw_break>": "The tree of the goddess grew<pc> It looks like you've gotten even stronger!|Keep up the good work!<bw_break>"
+    },
+    "34": {
+        "「ああっ　なんと……|　すべての女神の木が　最大まで成長しました。|　もう　これ以上は　上がりませんよ！|<br>|「まさか　すべての女神の木の成木を|　この目で　見られる日が来るなんて……。|　研究者冥利に　尽きます！　|<br>|「これも　<pc>さんが|　一緒に育ててくれた　おかげですね。|　本当に　ありがとうございます。|<br>|「でも　今まで通り|　庭の見た目を変えたくなったら|　いつでも　会いにきてくださいね！|<bw_break>": "Oh, my... All the goddess trees have grown to|their maximum... They can't go any higher! I|never thought I'd see all the Goddess Trees|<br>|grow to maturity with my own eyes... I'll|never forget this! And this.<pc> Thanks to you... for raising us together.|Thank you so much... But as always, if you|ever want to change the look of your garden,|<br>|please come see me!<bw_break>"
+    },
+    "35": {
+        "「でも　僕の見立てでは　女神の木は　まだまだ|　成長する可能性を　秘めているはず……。|<br>|「女神の木が　次の段階に|　成長するときが　来るまで|　気長に　待っていてくださいね！|<bw_break>": "But as I see it, the Goddess Tree still has a|lot of potential to grow... Until the time|comes for the tree to grow to its next level,|<br>|please be patient!<bw_break>"
+    },
+    "36": {
+        "「<%sM_TREE_NAME>を|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。|<br>|「成長までに　今から|　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。|　よろしいですか？|<yesno><close>": "Growing <%sM_TREE_NAME> from level|<%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>... It looks like it will|<br>|take <%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_M|IN_UNIT> from now to grow... Are you sure?<yesno><close>"
+    },
+    "37": {
+        "「おや　すでに同じものを　取りつけていますよ。|<end>": "Oh, you've already installed the same...<end>"
+    },
+    "38": {
+        "「他にも　何か　お望みですか？|<select_se_off>|育てる|庭の見た目を変える|育て方をおさらいする|説明を聞く|<select_end>|<close>": "Is there anything else you'd like?|<select_se_off>|bring up|Change the look of your garden|Review how to grow|Listen to the explanation|<select_end>|<close>"
+    },
+    "39": {
+        "「他にも　何か　お望みですか？|<select_se_off>|育てる|育て方をおさらいする|説明を聞く|<select_end>|<close>": "Is there anything else you'd like?|<select_se_off>|bring up|Review how to grow|Listen to the explanation|<select_end>|<close>"
+    },
+    "40": {
+        "「ふう……。|　<%sM_THEME_NAME>を　元の状態に戻しました！|<me 71><bw_break>": "Phew... I've restored <%sM_THEME_NAME> to its|original state!<me 71><bw_break>"
+    },
+    "41": {
+        "「……あれ？　何か　おかしいですね。|　ちょっと　問題が起きているみたいです。|　しばらくしてから　また　お越しください！|<end>": "... What is it? Something's wrong... There|seems to be a problem... Please come back in|a few minutes!<end>"
+    },
+    "42": {
+        "「もう一度　女神の木の育て方を|　おさらいするのですね。わかりました！|<bw_break>": "Let's go over how to grow the Goddess Tree|again... Yes, sir!<bw_break>"
+    },
+    "43": {
+        "「研究用の庭には　不思議な生き物が|　住み着いているようです。|　あれは　いったい　なんなんですかね……。|<br>|「オルガノさんは　庭を荒らす魔物じゃないかって|　警戒しているみたいでしたけど　僕は|　女神の木を見守る精霊だと　信じています。|<br>|「なにより　フワフワ動いて　かわいらしい|　あの姿が　僕は　大好きなんです！|　……<pc>さんも　そう思いませんか？|<bw_break>": "A strange creature has taken up residence in|the research garden... I wonder what it is...|Mr. Organo seemed wary that it might be a|<br>|demon that's destroying the garden, but I|believe it's a spirit that watches over the|Goddess Tree. Above all, I love her cute,|<br>|fluffy figure. I...<pc> Don't you think so, too?<bw_break>"
+    },
+    "44": {
+        "「源世植物研究所に　戻りますか？|<yesno><close>": ""
+    },
+    "45": {
+        "「おや　源世植物研究所へ　ようこそ。|　僕はここで　ある植物の研究をしているのですが|　調査が　思うように進まなくて……。|<br>|「ああ……　どこかに　パニガルムを|　踏破できるような　屈強な冒険者は|　いないでしょうか……。": "Hi, I'm here at the Genji Botanical Research|Center. I'm working on a plant here, but my|research hasn't been going as well as I'd|<br>|hoped, so... Oh... I was wondering if there|were any adventurers strong enough to|traverse Panigarm..."
+    },
+    "46": {
+        "「<%sM_THEME_NAME>を　元の状態に戻しますか？|<yesno><close>": ""
+    },
+    "47": {
+        "「今は　<%sM_THEME_NAME>の見た目を|　変えないでおきますか？|<yesno><close>": "Do you want to leave the <%sM_THEME_NAME>|look unchanged for now?<yesno><close>"
+    },
+    "48": {
+        "「わかりました！　『庭の見た目を変える』から|　庭の見た目を　いつでも変えられるので|　変えたくなったら　言ってくださいね。|<bw_break>": "Yes, sir! You can always change the look of|your garden by going to \"Change the look of|your garden,\" so if you want to change the|<br>|look of your garden, just let me know...<bw_break>"
+    }
+}

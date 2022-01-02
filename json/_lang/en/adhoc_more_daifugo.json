@@ -1,0 +1,71 @@
+{
+    "1": {
+        "<speed=0>|第<%nM_EVENT_NUMBER>回段位戦は　終了いたしました。|娯楽島ラッカランの　大富豪協会員プゴルのもとへ|向かってください。|<end>": "<speed=0>The <%nM_EVENT_NUMBER>th Dan Championship is|over... We are now on our way to P'gol, a|member of the Millionaire's Society of|<br>|Raqqaran...<end>"
+    },
+    "2": {
+        "<speed=0>|ただいま　大富豪決定戦　開催中のため|段位戦は参加できません。|<end>": "<speed=0>The tournament is now in progress, so you|can't participate in the rankings...<end>"
+    },
+    "3": {
+        "<speed=0>|２人以上のパーティを　組んでいないと|仲間と　対戦できません。|<end>": "<speed=0>You have to be in a party of at least two to|play against your friends...<end>"
+    },
+    "4": {
+        "仲間を勧誘中のため|ひとりで練習できません。|<bw_break>": "I'm still recruiting, so I can practice on my|own...<bw_break>"
+    },
+    "5": {
+        "<speed=0>|仲間とパーティを　組んでいるため|ひとりで　練習できません。|<end>": "<speed=0>I'm in a party with my friends. I can't|practice by myself...<end>"
+    },
+    "6": {
+        "<speed=0>|段位戦の　対戦相手を探します。|表示されているルールで　４ゲーム続けて|遊びますが　よろしいですか？|<yesno><close>": "<speed=0>I'm looking for an opponent for the dan|tournament. I'm going to play four games in a|row with the rules shown. Is that okay?<yesno><close>"
+    },
+    "7": {
+        "<speed=0>|段位戦のルールが　切り替わりました。|もう一度　やり直してください。|<end>": "<speed=0>The Dan competition rules were changed...|Please start over again.<end>"
+    },
+    "8": {
+        "<speed=0>|このルールで　仲間を誘います。|<%nM_NUM_GAME>ゲーム遊びますが　よろしいですか？|４人未満の時は　自動操作の代役が参加します。|<yesno><close>": "<speed=0>With these rules, you can invite your|friends... <%nM_NUM_GAME> Are you ready to|play a game? If there are fewer than four|<br>|players, an automated substitute will join...<yesno><close>"
+    },
+    "9": {
+        "<speed=0>|このルールで　ひとりで練習します。|自動操作の対戦相手と　<%nM_NUM_GAME>ゲーム|遊びますが　よろしいですか？|<yesno><close>": "<speed=0>With these rules, you can practice by|yourself... I'd like to play a game of|<%nM_NUM_GAME> against an auto-player, if|<br>|that's okay with you.<yesno><close>"
+    },
+    "10": {
+        "<speed=0>|大富豪の　基本ルールについて|確認することが　できます。|<break>": "<speed=0>We're going to go over the basic rules of the|game...<break>"
+    },
+    "11": {
+        "<speed=0>|大富豪の対戦のうち|『段位戦』『なかま対戦』『ひとりで練習』|についての説明です。|<br>|『段位戦』は　マッチングで参加した|冒険者と４人で　日替わりのルールで|遊びます。|<br>|『段位戦』では|４ゲーム　続けてプレイして|勝ち点の合計を　競います。|<br>|『なかま対戦』は　今いる仲間と|リーダーが決めたルールで　遊びます。|<br>|ただし　『なかま対戦』では|もらえる　トランプポイントが|『段位戦』よりも少ないので　ご注意ください。|<br>|『なかま対戦』で　人数が足りない時は|４人になるように　自動操作の代役が|参加します。|<br>|『ひとりで練習』では　トランプポイントは|もらえませんが　自分で決めたルールを|試すことができます。|<br>|『なかま対戦』と『ひとりで練習』は|ゲーム数を　選択できます。|選択できるゲーム数は　４ゲームまでです。|<br>|自分１人でウデ試しするなら　『段位戦』|仲間と遊ぶなら　『なかま対戦』で|大富豪を　お楽しみください。|<end>": "<speed=0>I'm going to show you how to play in the|Dafugo tournament. In the Dan-level|tournament, you and four other adventurers|<br>|are matched up and play by a different set of|rules each day. In Danzaiban, you play four|games in a row, and compete for the total of|<br>|your winnings. In \"Battle of Friends\", you|and your friends play by the rules decided by|the leader... However, please note that the|<br>|number of card points you can get in \"Battle|of the Cards\" is less than in \"Danseki\"... If|there aren't enough players in the \"Battle of|<br>|the Cards\", an automatic substitute will join|you to make it four... In Hitori-Dango, you|don't get any card points, but you can try|<br>|out your own rules... You can choose how many|games you'd like to play... You can choose up|to four games... If you want to test your|<br>|skills by yourself, you can play \"Danseki-|sen\". If you want to play with your friends,|you can play \"Nakama-sen\".<end>"
+    },
+    "12": {
+        "<speed=0>|各プレイヤーには　階級があり|１ゲーム目は　全員「平民」から|スタートします。|<br>|１ゲーム目は　ダイヤの３を持った|プレイヤーが親となり　ゲームを始めます。|<br>|順番に　場に出されたカードよりも|強いカードを　出していって|手札のカードを出し切ると　あがりです。|<br>|次のゲームの階級は　あがりの順で|「大富豪」「富豪」「貧民」「大貧民」|に決まります。|<br>|２ゲーム目からは　ゲームを始める前に|ほかの階級の　プレイヤーと|カードを　交換します。|<br>|大富豪は　手札から選んだカード２枚と|大貧民がもつ　最強のカード２枚を|交換します。|<br>|富豪は　手札から選んだカード１枚と|貧民がもつ　最強のカード１枚を|交換します。|<br>|２ゲーム目以降は　大貧民のプレイヤーが|親となり　ゲームを始めます。|<br>|ゲームがすべて終わると　勝ち点の合計で|最終順位が　決まります。|<end>": "<speed=0>Each player has a rank, and the first game|begins with all commoners... In the first|game, the player with the three of diamonds|<br>|is the parent and starts the game. In turn,|each player must play a card that is stronger|than the card on the board, and when all the|<br>|cards in their hand are played, they win. In|the next game, the player's rank is|determined by the order of their winnings:|<br>|millionaire, rich, poor, and poorest. In the|second game, before the game begins, you must|exchange cards with a player of another rank.|<br>|The richest player trades two cards from his|hand for the poorest player's two best cards.|The richest player trades a card from his|<br>|hand for the poorest player's best card. From|the second game onwards, the poorest player|is the parent and starts the game. When all|<br>|the games are over, the final ranking is|determined by the sum of the points won.<end>"
+    },
+    "13": {
+        "<speed=0>|自分のターンでは　カードを出さずに|パスすることもできます。|<br>|自分がカードを出したあとに　自分以外が|全員パスすると　場のカードが流れて|捨て札となります。|<br>|場が流れると　自分が親となり|新しく　好きなカードを　出すことができます。|<br>|パスは　何度でもできますが|自分が親の時の　最初のターンは|パスできないので　お気をつけください。|<end>": "<speed=0>On your turn, you can pass without playing a|card... If you play a card, and everyone else|passes, the cards in the field are discarded.|<br>|When the field runs out, you become the|parent, and you can play a new card of your|choice... You can pass as many times as you|<br>|like, but you can't pass on the first turn|when you're the parent...<end>"
+    },
+    "14": {
+        "<speed=0>|自分のターンの時や　カードを選ぶ時の|制限時間は　<%nM_timelimit>秒です。|時間を過ぎると　自動でパスになります。|<br>|自分が　親の時に　制限時間を過ぎると|自動で　カードが場に出されます。|<br>|２回連続で　制限時間を過ぎると|ペナルティで　ゲームを抜けてしまうので|ご注意ください。|<end>": "<speed=0>When it's your turn, or when you choose a|card, you have a time limit of|<%nM_timelimit>... When the time limit|<br>|expires, the game automatically passes... If|you are the parent and the time limit|expires, your card is automatically played...|<br>|If you miss the time limit twice in a row,|you'll be penalized and you'll be out of the|game.<end>"
+    },
+    "15": {
+        "<speed=0>|カードの強さは　弱い順に並べると|３　４　５　６　７　８　９　１０　Ｊ　Ｑ　Ｋ|Ａ　２　ジョーカー　となります。|<br>|スート（ダイヤ・スペード・ハート・クラブ）が|違っても　同じ数字であれば　同じ強さです。|<br>|ただし　ジョーカーは　革命や|１１バックで　強さが反転しても|一番強いカードとして　使用できます。|<end>": "<speed=0>The cards, listed in order of strength from|weakest to strongest, are three, four, five,|six, seven, eight, nine. 10, J, Q, K, A, 2,|<br>|Joker... Now, if the cards are in different|suits (diamonds, spades, hearts, clubs), but|they have the same number, they have the same|<br>|strength. However, the Joker can be used as|the strongest card, even if its strength is|reversed by a revolution or an 11-back...<end>"
+    },
+    "16": {
+        "<speed=0>|場に１枚　カードが出ている時|より強いカードを　１枚出します。|<br>|場にカードが　出ていない時|同じ数字のカードであれば|複数枚　同時に出すことができます。|<br>|複数枚のカードが　場に出されたら|次のターンのプレイヤーは　同じ枚数でなければ|カードを　出すことができません。|<br>|ジョーカーは　複数枚　同時に出す時に|他のカードの　代わりに使えます。|<end>": "<speed=0>When there is a card in the field, you can|play a stronger card... When there are no|cards in the field, you can play multiple|<br>|cards of the same number at the same time...|If more than one card is played, the player|on the next turn can only play the same|<br>|number of cards... The Joker can be used in|place of any other card when more than one|card is played at the same time...<end>"
+    },
+    "17": {
+        "<speed=0>|大富豪には　基本ルールのほかに|追加ルールがあります。|<br>|それぞれの　ルールの説明は|『カスタムルールの設定』から|確認できます。|<end>": "<speed=0>In addition to the basic rules, there are|additional rules... Each of these rules can|be found in the \"Custom Rules\" section...<end>"
+    },
+    "18": {
+        "<speed=0>|報酬を　受け取る場合は|娯楽島ラッカランの　大富豪協会員プゴルのもとへ|向かう必要があります。|<end>": ""
+    },
+    "19": {
+        "<speed=0>|仲間とパーティを　組んでいるため|段位戦に　参加できません。|<end>": "<speed=0>Since I'm in a party with my friends, I can't|participate in the Dan competition...<end>"
+    },
+    "20": {
+        "<speed=0>|何ゲーム遊びますか？|２ゲーム目からは　ゲームを始める前に|ほかの階級のプレイヤーと　カードを交換します。|<select_se_off>|１ゲーム|２ゲーム|３ゲーム|４ゲーム|<select_end><close>": "<speed=0>How many games do you want to play? From the|second game on, before the game begins, you|exchange cards with a player of another|<br>|rank...|<select_se_off>|one game|2 games|3 games|4 games|<select_end><close>"
+    },
+    "21": {
+        "<speed=0>|大富豪決定戦に　エントリーされていません。|娯楽島ラッカランの　大富豪協会員プゴルのもとへ|向かってください。|<end>": "<speed=0>You've been entered into the Millionaire's|Championship... P'gol, a member of the|Millionaire's Society of Lackalang, is on his|<br>|way...<end>"
+    },
+    "22": {
+        "<speed=0>|仲間とパーティを　組んでいるため|大富豪決定戦に　参加できません。|<end>": "<speed=0>He's in a party with his friends, so he can|participate in the millionaire's|tournament...<end>"
+    },
+    "23": {
+        "<speed=0>|大富豪決定戦の　対戦相手を探します。|表示されているルールで　３ゲーム続けて|遊びますが　よろしいですか？|<yesno><close>": "<speed=0>I'm looking for an opponent for the|millionaire's tournament. We'll play three|games in a row, using the rules shown.<yesno><close>"
+    }
+}

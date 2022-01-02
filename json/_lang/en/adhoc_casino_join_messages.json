@@ -1,0 +1,17 @@
+{
+    "1": {
+        "指定したカジノフロアに　|入れませんでした。|<bw_break>": "I cannot get into the casino floor you|specified...<bw_break>"
+    },
+    "2": {
+        "この先のカジノフロアは　現在利用できません。|元いた町に　戻ります。|<end>": "The casino floor up ahead is currently|unavailable... Let's go back to where we came|from...<end>"
+    },
+    "3": {
+        "どのカジノフロアに　行きますか？|<break>": "Which casino floor would you like to go to?<break>"
+    },
+    "4": {
+        "どのカジノフロアに　行きますか？|今いるホールは『%sM_HOLE』です。|<break>": "Which casino floor would you like to go to?|The hall you are in is \"%sM_HOLE...<break>"
+    },
+    "5": {
+        "どこに　行きますか？|<break>": "Where do you want to go?<break>"
+    }
+}
