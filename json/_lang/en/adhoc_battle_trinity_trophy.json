@@ -66,7 +66,7 @@
         "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
     },
     "23": {
-        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|I'm going to see the winner's trophy|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|View Winner's Trophy|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "24": {
         "「他に　用はあるかのう？|<break>": "Is there anything else I can do?|<break>"
@@ -360,7 +360,7 @@
         "「そうか……　それもよかろう。|<end>": "Well... That's...<end>"
     },
     "121": {
-        "「ほう……|　それでは　<%sM_Win_team>の|　クラブホームへ　送ってやろうぞ。|<end>": "Well... Now, let's get you back to the club|home of the <%sM_Win_team>...<end>"
+        "「ほう……|　それでは　<%sM_Win_team>の|　クラブホームへ　送ってやろうぞ。|<end>": "Hmm.. Well then, I will return you to the|<%sM_Win_team> Club Home.|<end>"
     },
     "122": {
         "clarity_nt_char_122": "clarity_nt_char_122"
@@ -378,7 +378,7 @@
         "clarity_nt_char_126": "clarity_nt_char_126"
     },
     "127": {
-        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|I'm going to see the winner's trophy|See the points earned|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|View Winner's Trophy|View Earned Points|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "128": {
         "<select_se_off>|クラブホームに戻る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Return to Club Home|How to Play|Explanation|Cancel|<select_end>|<break>"
