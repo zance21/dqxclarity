@@ -84,7 +84,7 @@
         "「<%sL_TIMEI>まで|　行くのか。|　運賃を<%nL_GOLD>ゴールドいただくが　いいか？|<yesno><break>": "I'm going to <%sL_TIMEI>... I'll take|<%nL_GOLD> gold for the fare, okay?<yesno><break>"
     },
     "29": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "30": {
         "「おっとと。乗らんとね。|　乗りたくなりよったら　また来んしゃい。": "Oh... Get in... If you feel like riding, come|back..."
@@ -96,7 +96,7 @@
         "「おっとと。金が足らんちゃ。|　金んある時に　また来んしゃい。": "Oh... I don't have enough money... I'll come|back when I have money..."
     },
     "33": {
-        "「おっとと。やめると？|　乗りたくなりよったら　また来んしゃい。": "Oh... Are you stopping? If you feel like|riding, we'll come back..."
+        "「おっとと。やめると？|　乗りたくなりよったら　また来んしゃい。": "Oh... Are you stopping? If you feel like|riding, we'll come back."
     },
     "34": {
         "「ばってん　送るだけで　迎えには行かれんばい|　そいでもよかなら　どこさ行くと？|<break>": "I'm not going to pick you up, just drop you|off, but if that's okay, where are you going?<break>"
@@ -126,7 +126,7 @@
         "「<%sL_TIMEI>まで|　行くんだな。|　<%nL_GOLD>ゴールドもらうが　いいかい？|<yesno><break>": "I'm going to <%sL_TIMEI>... <%nL_GOLD> I'll|take the gold, okay?<yesno><break>"
     },
     "43": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "44": {
         "「おや　お乗りにならないのですね。|　わかりました。|　また　いつでも　声をかけてください。|<end>": "Oh, you're not getting in... I understand...|You know, you can always come by and...<end>"
@@ -147,7 +147,7 @@
         "「<%nL_GOLD>ですが　乗りますか？|<yesno><break>": "<%nL_GOLD> sir, would you like a ride?<yesno><break>"
     },
     "50": {
-        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You don't meet the requirements to get to|this place, so you can't choose...<end>"
+        "この場所に　行ける条件を|満たしていないため　選べません。|<end>": "You can't select this location because you|don't meet any of the conditions.|<end>"
     },
     "51": {
         "「おお。お乗りにはなられぬか。|　では　乗りたくなったら|　また来てほしいでござる。": "Oh. You're not riding... Well, then, if you|want to ride, please come back..."
