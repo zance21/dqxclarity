@@ -3024,7 +3024,7 @@
         "<pc>は　<%sL_JOB_NAME>で試合を　始めた！": ""
     },
     "1009": {
-        "撃破玉のスタックが　<%dM_STACK>になった！": ""
+        "撃破玉のスタックが　<%dM_STACK>になった！": "Attack Orbs now stacked to <%dM_STACK>!"
     },
     "1010": {
         "clarity_nt_char_1010": "clarity_nt_char_1010"
