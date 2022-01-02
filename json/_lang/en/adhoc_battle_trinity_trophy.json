@@ -57,7 +57,7 @@
         "「ボーナスジュエルとは　試合中に入手できる|　レアなジュエルでな。トライロックに納めると|　試合後に鑑定されて　報酬が　もらえるんじゃ。|<br>|「報酬は　同じチームのみんなが　もらえるから|　もし　ボーナスジュエルを見つけたら|　積極的に納めると　喜ばれるぞい。|<br>|「ただし　試合の貢献度が　３００ポイントに|　満たない場合は　報酬がもらえないから|　注意が必要じゃぞ。|<br>|「また　試合の順位によって　ボーナスジュエルで|　もらえる報酬の　上限数があるんじゃ。|　勝ったほうが　たくさん　もらえるぞい。|<br>|「具体的には……１位だと　最大５個もらえ|　２位と３位であれば　最大３個もらえるんじゃ。|<bw_break>": "Bonus Jewels are rare jewels that can be|obtained during a match. If you put it in the|Trilock, it will be appraised after the game|<br>|and you will be rewarded... The reward is|given to everyone on the same team, so if you|find a bonus jewel, you'll be glad you did.|<br>|But be careful, because you won't get|rewarded if your contribution to the game is|less than 300 points... Also, there's a limit|<br>|to the number of bonus jewels you can get|depending on your ranking in a match... The|more you win, the more you get...|<br>|Specifically... First place gets up to five,|second and third place get up to three...<bw_break>"
     },
     "20": {
-        "<select_se_off>|ジュエルとは|トライロックとは|職業とは|援軍玉とは|職業とは|貢献度とは|<select_end>|<break>": "<select_se_off>|About Jewels|About Trirock|About Vocation|About Reinforcement Balls|About Vocation|About Contribution|<select_end>|<break>"
+        "<select_se_off>|ジュエルとは|トライロックとは|職業とは|援軍玉とは|職業とは|貢献度とは|<select_end>|<break>": "<select_se_off>|About Jewels|About Trirock|About Vocation|About Reinforcement Orbs|About Vocation|About Contributions|<select_end>|<break>"
     },
     "21": {
         "「フォフォフォ……。|　わしは　いつでも　見守っておる。|　おぬしに　輝ける勝利の栄光が　あらんことを。|<end>": "Fo-fo-fo... I will always watch over you...|May the glory of victory shine upon you...<end>"
