@@ -3,7 +3,7 @@
         "「ここは　旅人達の仲間モンスターが集う|　モンスター酒場です。|　今日は　どんな　ご用ですか？|<break>": "This is the place where travelers and their|monsters gather to drink... What can I do for|you today?<break>"
     },
     "2": {
-        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": ""
+        "<pipipi_off>|<%sM_otomo>を酒場に預け|<%sM_monster>が　仲間に加わった！|<me 61><end>": "<pipipi_off>|<%sM_otomo> was sent to the Tavern|and <%sM_monster> joined the party!|<me 61><end>"
     },
     "3": {
         "「では　<%sM_otomo>をお預かりして|　<%sM_monster>を　呼んできますね。|<bw_break>": "Now, let me take <%sM_otomo> and get|<%sM_monster>...<bw_break>"
