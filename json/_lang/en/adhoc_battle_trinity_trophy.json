@@ -381,7 +381,7 @@
         "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|I'm going to see the winner's trophy|See the points earned|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
     },
     "128": {
-        "<select_se_off>|クラブホームに戻る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Return to Club Home|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "129": {
         "clarity_nt_char_129": "clarity_nt_char_129"
@@ -408,7 +408,7 @@
         "clarity_nt_char_136": "clarity_nt_char_136"
     },
     "137": {
-        "<select_se_off>|クラブホームに戻る|順位表|クラブボーナス一覧|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|ranking table (eg sports league)|Club Bonus List|See the points earned|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
+        "<select_se_off>|クラブホームに戻る|順位表|クラブボーナス一覧|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Return to Club Home|Standings|Club Bonus List|View Earned Points|How to Play|Explanation|Cancel|<select_end>|<break>"
     },
     "138": {
         "「今回の　クラブボーナス一覧じゃ。|　ちなみに　おぬしは　現在|　<%sM_team>に　所属しておるぞい。|<break>": "This is the first club bonus... By the way,|you are currently a member of <%sM_team>...<break>"
