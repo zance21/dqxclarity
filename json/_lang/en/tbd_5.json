@@ -3942,7 +3942,7 @@
         "<%dL_game_count>ゲーム目の結果": ""
     },
     "1315": {
-        "<%-6sL_class>：<%-12sL_name>  勝ち点：<%-3dL_win_point>P (+<%2dL_win_point2>P)": ""
+        "<%-6sL_class>：<%-12sL_name>  勝ち点：<%-3dL_win_point>P (+<%2dL_win_point2>P)": "<%-6sL_class>: <%-12sL_name>  Points: <%-3dL_win_point> (+<%2dL_win_point2>)"
     },
     "1316": {
         "激しば": ""
