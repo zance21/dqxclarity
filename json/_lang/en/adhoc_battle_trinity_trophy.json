@@ -12,7 +12,7 @@
         "「<pc>が　獲得している勝ち点じゃ。|　ちなみに　おぬしは　現在|　<%sM_team>に　所属しておるぞい。|<break>": "<pc> You're a member of <%sM_team>. By the way,|you are currently a member of <%sM_team>...<break>"
     },
     "5": {
-        "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Welcome aboard, Flash Hands<pc> Hey. What can I do for you?<break>"
+        "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
     },
     "6": {
         "<select_se_off>|クラブホームに戻る|順位表|獲得勝ち点を見る|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|Rankings|View Points Earned|How to Play|Explanation|Cancel|<select_end>|<break>"
@@ -63,7 +63,7 @@
         "「フォフォフォ……。|　わしは　いつでも　見守っておる。|　おぬしに　輝ける勝利の栄光が　あらんことを。|<end>": "Fo-fo-fo... I will always watch over you...|May the glory of victory shine upon you...<end>"
     },
     "22": {
-        "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Welcome aboard, Flash Hands<pc> Hey. What can I do for you?<break>"
+        "「よく来た　閃手　<pc>よ。|　何か　用かのう？|<break>": "Good to see you,<pc>.|What is it I can do for you?|<break>"
     },
     "23": {
         "<select_se_off>|クラブホームに戻る|優勝トロフィーを見にいく|遊び方をおさらいする|説明を聞く|やめる|<select_end>|<break>": "<select_se_off>|Back to Club Home|I'm going to see the winner's trophy|Review how to play|Listen to the explanation|stop|<select_end>|<break>"
