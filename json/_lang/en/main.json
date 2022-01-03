@@ -9093,7 +9093,7 @@
         "clarity_nt_char_3031": "clarity_nt_char_3031"
     },
     "3032": {
-        "変更する": ""
+        "変更する": "Change"
     },
     "3033": {
         "clarity_nt_char_3033": "clarity_nt_char_3033"
@@ -9105,13 +9105,13 @@
         "clarity_nt_char_3035": "clarity_nt_char_3035"
     },
     "3036": {
-        "<speed=0><%sL_PC_NICK>とは　すでに|フレンドになっています。": ""
+        "<speed=0><%sL_PC_NICK>とは　すでに|フレンドになっています。": "<speed=0><%sL_PC_NICK> is already your|friend."
     },
     "3037": {
         "<speed=0>取り消しに失敗しました。|時間を置いて　もう一度お試しください。": ""
     },
     "3038": {
-        "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！": "I cancelled my invitation to <speed=0><%sL_PC_NICK>!"
+        "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！": "<speed=0>Cancelled invitation to <%sL_PC_NICK>!"
     },
     "3039": {
         "clarity_nt_char_3039": "clarity_nt_char_3039"
