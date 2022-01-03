@@ -8757,7 +8757,7 @@
         "コース": "Course"
     },
     "2920": {
-        "配置数<%nM_syozisuu>こ": "Placements "
+        "配置数<%nM_syozisuu>こ": "Placements: <%dM_syozisuu>"
     },
     "2921": {
         "clarity_nt_char_2921": "clarity_nt_char_2921"
@@ -8769,10 +8769,10 @@
         "clarity_nt_char_2923": "clarity_nt_char_2923"
     },
     "2924": {
-        "会場名": ""
+        "会場名": "Name"
     },
     "2925": {
-        "参加している人数": ""
+        "参加している人数": "Participant No."
     },
     "2926": {
         "clarity_nt_char_2926": "clarity_nt_char_2926"
@@ -8790,7 +8790,7 @@
         "clarity_nt_char_2930": "clarity_nt_char_2930"
     },
     "2931": {
-        "スキルふり直し": ""
+        "スキルふり直し": "Reassign Skills"
     },
     "2932": {
         "遊びにきた人": "Messages"
