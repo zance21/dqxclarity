@@ -9381,16 +9381,16 @@
         "ドレスアップ代": "Dress Up Cost"
     },
     "3128": {
-        "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for party member response..."
+        "<%sM_PTMember>の返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for party member response...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3129": {
         "clarity_nt_char_3129": "clarity_nt_char_3129"
     },
     "3130": {
-        "<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for members..."
+        "<%sM_PTMember>を 探しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Looking for members...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3131": {
-        "…": ""
+        "…": "..."
     },
     "3132": {
         "バザー不可": "Can't Bazaar"
@@ -9402,10 +9402,10 @@
         "clarity_nt_char_3134": "clarity_nt_char_3134"
     },
     "3135": {
-        "職人設備の使用": ""
+        "職人設備の使用": "Use of Facilities"
     },
     "3136": {
-        "ベッドの使用": ""
+        "ベッドの使用": "Use of Beds"
     },
     "3137": {
         "clarity_nt_char_3137": "clarity_nt_char_3137"
