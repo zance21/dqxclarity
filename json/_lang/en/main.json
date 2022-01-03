@@ -2580,7 +2580,7 @@
         "ダミーメッセージ１４文字ぶん|ダミーメッセージ１４文字ぶん": ""
     },
     "861": {
-        "そうび可能レベル": ""
+        "そうび可能レベル": "Equippable Level"
     },
     "862": {
         "clarity_nt_char_862": "clarity_nt_char_862"
@@ -2727,7 +2727,7 @@
         "clarity_nt_char_909": "clarity_nt_char_909"
     },
     "910": {
-        "<%sM_timei>": ""
+        "<%sM_timei>": "<%sM_timei>"
     },
     "911": {
         "<%sM_kakko><%sM_item><%sM_plusnum><%sM_kokka>": ""
