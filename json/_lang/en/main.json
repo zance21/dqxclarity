@@ -9159,10 +9159,10 @@
         "<speed=0><%sM_pc>には　参照できる|フレンドが　いません。": ""
     },
     "3054": {
-        "<speed=0>フレンド情報を　取得中です。|しばらくお待ちください。<break>": ""
+        "<speed=0>フレンド情報を　取得中です。|しばらくお待ちください。<break>": "<speed=0>Retreiving friend data. Please wait.<break>"
     },
     "3055": {
-        "<speed=0>フレンドリストが　取得できませんでした。|時間をおいて　もう一度お試しください。": ""
+        "<speed=0>フレンドリストが　取得できませんでした。|時間をおいて　もう一度お試しください。": "<speed=0>Could not retrieve friends list. Please wait|a while and try again."
     },
     "3056": {
         "<%sM_pc>のフレンド": "<%sM_pc>'s Friends"
