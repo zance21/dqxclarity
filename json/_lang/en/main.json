@@ -5880,7 +5880,7 @@
         "clarity_nt_char_1960": "clarity_nt_char_1960"
     },
     "1961": {
-        "ヴェリナード駅": ""
+        "ヴェリナード駅": "Verinard Stop"
     },
     "1962": {
         "ガートラント駅": "Gartlant Stop"
@@ -5901,7 +5901,7 @@
         "<speed=0>入力されていない項目があります。|名前と　キャラＩＤを　正しく入力してください。": ""
     },
     "1968": {
-        "しかし　ここに載っているレシピを|<%sM_pc>は　すでに覚えていた。": ""
+        "しかし　ここに載っているレシピを|<%sM_pc>は　すでに覚えていた。": "However, you already know the recipe listed|here."
     },
     "1969": {
         "clarity_nt_char_1969": "clarity_nt_char_1969"
@@ -5919,7 +5919,7 @@
         "<speed=0>|思い出アルバムへの保存に　失敗しました。|エラーコード：<%sERRID>": "<speed=0>|Failed to save to Photo Album.|Error Code: <%sERRID>"
     },
     "1974": {
-        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": "<speed=0>|Saving photo to the Photo Album.|Please wait a moment.<break>"
+        "<speed=0>|思い出アルバムに　写真を保存しています。|しばらく　お待ちください。|<break>": "<speed=0>|Saving photo to the Photo Album.|Please wait a moment.|<break>"
     },
     "1975": {
         "clarity_nt_char_1975": "clarity_nt_char_1975"
@@ -5931,7 +5931,7 @@
         "clarity_nt_char_1977": "clarity_nt_char_1977"
     },
     "1978": {
-        "ゲストログイン": ""
+        "ゲストログイン": "Guest Login"
     },
     "1979": {
         "プレイヤー情報": "Player Information"
@@ -5946,13 +5946,13 @@
         "<%nM_lv>～": ""
     },
     "1983": {
-        "<%sM_pc>は|<%sM_item>を　読んだ。<bw_break>": ""
+        "<%sM_pc>は|<%sM_item>を　読んだ。<bw_break>": "<%sM_pc> read the|<%sM_item>.<bw_break>"
     },
     "1984": {
         "clarity_nt_char_1984": "clarity_nt_char_1984"
     },
     "1985": {
-        "さつえい": ""
+        "さつえい": "Photograph"
     },
     "1986": {
         "clarity_nt_char_1986": "clarity_nt_char_1986"
