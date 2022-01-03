@@ -3849,7 +3849,7 @@
         "【<%sM_QuestDaiTitle>】": "\"<%sM_QuestDaiTitle>\""
     },
     "1284": {
-        "<%sM_landaddress1>住宅地　<%sM_landaddress2>": "<%sM_landaddress1>Husing <%sM_landaddress2>"
+        "<%sM_landaddress1>住宅地　<%sM_landaddress2>": "<%sM_landaddress1> Housing <%sM_landaddress2>"
     },
     "1285": {
         "clarity_nt_char_1285": "clarity_nt_char_1285"
@@ -3882,7 +3882,7 @@
         "まわりから": "Nearby Players"
     },
     "1295": {
-        "名前とＩＤを入力": "Enter Name and ID"
+        "名前とＩＤを入力": "Enter Name & ID"
     },
     "1296": {
         "clarity_nt_char_1296": "clarity_nt_char_1296"
@@ -3963,13 +3963,13 @@
         "スローガン": "Slogan"
     },
     "1322": {
-        "下地": "Bkgrnd"
+        "下地": "Base"
     },
     "1323": {
         "clarity_nt_char_1323": "clarity_nt_char_1323"
     },
     "1324": {
-        "下地の色１": "Bkgrnd Color 1"
+        "下地の色１": "Base Color 1"
     },
     "1325": {
         "下地の色２": "Bkgrnd Color 2"
