@@ -11052,13 +11052,13 @@
         "倉庫名": "Storages"
     },
     "3685": {
-        "名前を入力": ""
+        "名前を入力": "Enter Name"
     },
     "3686": {
-        "～<%nM_memnum>": ""
+        "～<%nM_memnum>": "～<%dM_memnum>"
     },
     "3687": {
-        "<%nM_memnum>～": ""
+        "<%nM_memnum>～": "<%dM_memnum>～"
     },
     "3688": {
         "最終ログイン日": "Last Login Date"
