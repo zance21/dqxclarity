@@ -1395,7 +1395,7 @@
         "しょじきん": "Gold"
     },
     "466": {
-        "<%sL_COL_OLD_IRO>に|染められている": "Dyed to|<%sL_COL_OLD_IRO>"
+        "<%sL_COL_OLD_IRO>に|染められている": "Dyed to|<%sL_COL_OLD_IRO>."
     },
     "467": {
         "clarity_nt_char_467": "clarity_nt_char_467"
@@ -1572,10 +1572,10 @@
         "<%dM_syouritu>％": "<%dM_syouritu>%"
     },
     "525": {
-        "最 高<%dM_rensyoumax> 連 勝": ""
+        "最 高<%dM_rensyoumax> 連 勝": "Best Streak <%dM_rensyoumax>"
     },
     "526": {
-        "とくぎの最大一撃": ""
+        "とくぎの最大一撃": "Highest Skill Hit"
     },
     "527": {
         "clarity_nt_char_527": "clarity_nt_char_527"
