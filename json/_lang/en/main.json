@@ -9993,7 +9993,7 @@
         "clarity_nt_char_3331": "clarity_nt_char_3331"
     },
     "3332": {
-        "<%sM_item2><%sM_plusnum2>": ""
+        "<%sM_item2><%sM_plusnum2>": "<%sM_item2><%sM_plusnum2>"
     },
     "3333": {
         "チームレベル": "Team Level"
@@ -10002,7 +10002,7 @@
         "clarity_nt_char_3334": "clarity_nt_char_3334"
     },
     "3335": {
-        "適正Lv": ""
+        "適正Lv": "Rec. Lv"
     },
     "3336": {
         "clarity_nt_char_3336": "clarity_nt_char_3336"
@@ -10032,7 +10032,7 @@
         "チームのみ": "Team Only"
     },
     "3345": {
-        "<%dM_rounum>": ""
+        "<%dM_rounum>": "<%dM_rounum>"
     },
     "3346": {
         "clarity_nt_char_3346": "clarity_nt_char_3346"
@@ -10041,7 +10041,7 @@
         "<%sM_item>をまきました！": "<%sM_item> has been sown!"
     },
     "3348": {
-        "ジュレットの井戸": ""
+        "ジュレットの井戸": "Julet Well"
     },
     "3349": {
         "clarity_nt_char_3349": "clarity_nt_char_3349"
@@ -10056,16 +10056,16 @@
         "おもいでリスト": ""
     },
     "3353": {
-        "攻撃力・左": ""
+        "攻撃力・左": "Attack - Left"
     },
     "3354": {
         "攻撃力・右": "Attack - Right"
     },
     "3355": {
-        "<%dM_tboxcnt>": ""
+        "<%dM_tboxcnt>": "<%dM_tboxcnt>"
     },
     "3356": {
-        "<%dM_fspncnt>": ""
+        "<%dM_fspncnt>": "<%dM_fspncnt>"
     },
     "3357": {
         "<%dM_lvupcnt>": ""
