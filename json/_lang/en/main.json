@@ -5961,13 +5961,13 @@
         "駅選択画面": "Stop Selection"
     },
     "1988": {
-        "せいべつ変更": ""
+        "せいべつ変更": "Change Gender"
     },
     "1989": {
         "clarity_nt_char_1989": "clarity_nt_char_1989"
     },
     "1990": {
-        "過去グレン駅": ""
+        "過去グレン駅": "Past Glen Stop"
     },
     "1991": {
         "clarity_nt_char_1991": "clarity_nt_char_1991"
@@ -6021,19 +6021,19 @@
         "＊": ""
     },
     "2008": {
-        "<%nM_cal_DD>": ""
+        "<%nM_cal_DD>": "<%dM_cal_DD>"
     },
     "2009": {
         "clarity_nt_char_2009": "clarity_nt_char_2009"
     },
     "2010": {
-        "<%nM_cal_MM>": ""
+        "<%nM_cal_MM>": "<%dM_cal_MM>"
     },
     "2011": {
         "clarity_nt_char_2011": "clarity_nt_char_2011"
     },
     "2012": {
-        "<%nM_cal_YYYY>": ""
+        "<%nM_cal_YYYY>": "<%dM_cal_YYYY>"
     },
     "2013": {
         "clarity_nt_char_2013": "clarity_nt_char_2013"
@@ -6126,7 +6126,7 @@
         "品": "Avl"
     },
     "2043": {
-        "出品した人": ""
+        "出品した人": "Seller"
     },
     "2044": {
         "エンブレム": "Emblem"
