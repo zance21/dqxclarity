@@ -7104,13 +7104,13 @@
         "clarity_nt_char_2368": "clarity_nt_char_2368"
     },
     "2369": {
-        "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD>": "<%2dM_cal_MM>/<%2dM_cal_DD>/"
+        "<%dM_cal_YYYY>/<%2dM_cal_MM>/<%2dM_cal_DD>": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "2370": {
         "clarity_nt_char_2370": "clarity_nt_char_2370"
     },
     "2371": {
-        "<%dM_cal_YYYY>／<%2dM_cal_MM>／<%2dM_cal_DD>": ""
+        "<%dM_cal_YYYY>／<%2dM_cal_MM>／<%2dM_cal_DD>": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "2372": {
         "clarity_nt_char_2372": "clarity_nt_char_2372"
@@ -7128,7 +7128,7 @@
         "＆": ""
     },
     "2377": {
-        "プレイヤーを追加する": ""
+        "プレイヤーを追加する": "Add Player"
     },
     "2378": {
         "clarity_nt_char_2378": "clarity_nt_char_2378"
@@ -7149,7 +7149,7 @@
         "TAB": ""
     },
     "2384": {
-        "<speed=0><%sM_item>は|<%sM_syokunin>用のレシピです！|本当に　使ってもよろしいですか？<yesno 2><close>": ""
+        "<speed=0><%sM_item>は|<%sM_syokunin>用のレシピです！|本当に　使ってもよろしいですか？<yesno 2><close>": "<speed=0><%sM_item> is a recipe for|<%sM_syokunin>! Are you sure|you want to use it?<yesno 2><close>"
     },
     "2385": {
         "clarity_nt_char_2385": "clarity_nt_char_2385"
