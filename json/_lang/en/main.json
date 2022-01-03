@@ -1833,19 +1833,19 @@
         "clarity_nt_char_611": "clarity_nt_char_611"
     },
     "612": {
-        "<%dM_hp>／<%dM_hpmax>": ""
+        "<%dM_hp>／<%dM_hpmax>": "<%dM_hp>/<%dM_hpmax>"
     },
     "613": {
         "clarity_nt_char_613": "clarity_nt_char_613"
     },
     "614": {
-        "<%dM_mp>／<%dM_mpmax>": ""
+        "<%dM_mp>／<%dM_mpmax>": "<%dM_mp>/<%dM_mpmax>"
     },
     "615": {
         "clarity_nt_char_615": "clarity_nt_char_615"
     },
     "616": {
-        "<%dM_siai> 回　<%dM_syou> 勝　<%dM_hai> 敗　<%dM_wake> 分": ""
+        "<%dM_siai> 回　<%dM_syou> 勝　<%dM_hai> 敗　<%dM_wake> 分": "<%dM_siai> 回　<%dM_syou> 勝　<%dM_hai> 敗　<%dM_wake> 分"
     },
     "617": {
         "clarity_nt_char_617": "clarity_nt_char_617"
