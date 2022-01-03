@@ -2790,7 +2790,7 @@
         "クエストを受けた日": "Quest Received"
     },
     "931": {
-        "<%dM_cal_YYYY>／<%dM_cal_MM>／<%dM_cal_DD>": ""
+        "<%dM_cal_YYYY>／<%dM_cal_MM>／<%dM_cal_DD>": "<%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "932": {
         "clarity_nt_char_932": "clarity_nt_char_932"
@@ -2814,7 +2814,7 @@
         "Ｃ": "C"
     },
     "939": {
-        "のろい": "Curse"
+        "のろい": "Cursed"
     },
     "940": {
         "しに": "Dead"
@@ -2832,7 +2832,7 @@
         "おしゃれさ": "Style"
     },
     "945": {
-        "最大レベル": "Max Level"
+        "最大レベル": "Max. Level"
     },
     "946": {
         "最小レベル": "Min. Level"
@@ -2850,7 +2850,7 @@
         "１時間": "1 h."
     },
     "951": {
-        "１時間３０分": "1h 30min"
+        "１時間３０分": "1 h. 30 min."
     },
     "952": {
         "clarity_nt_char_952": "clarity_nt_char_952"
