@@ -11547,13 +11547,13 @@
         "仲間の返事が そろうのを待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for requests to be accepted...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3850": {
-        "対戦相手からの返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for opponent's reply..."
+        "対戦相手からの返事を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for opponent's reply...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3851": {
         "clarity_nt_char_3851": "clarity_nt_char_3851"
     },
     "3852": {
-        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing for Coliseum Battle..."
+        "コロシアムバトルの 準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing for Coliseum Battle...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3853": {
         "コロシアム経験値": "Coliseum EXP"
@@ -11619,7 +11619,7 @@
         "投票終了まで あと": "Vote Time Left"
     },
     "3874": {
-        "知り合いを探す": ""
+        "知り合いを探す": "Find Acquaintance"
     },
     "3875": {
         "ランク": "Rank"
