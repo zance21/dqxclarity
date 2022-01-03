@@ -10563,7 +10563,7 @@
         "<%dM_Rest>/<%dM_All>人": "<%dM_Rest>/<%dM_All>"
     },
     "3522": {
-        "パーティ同盟の誘いに 返事しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "パーティ同盟の誘いに 返事しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Responding to party alliance invitation...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3523": {
         "<%sM_TargetParty>からの 返事を待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for response from <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
