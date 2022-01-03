@@ -6516,7 +6516,7 @@
         "初心者です": "Beginner"
     },
     "2173": {
-        "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>": "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>"
+        "<%dM_cal_YYYY>/<%dM_cal_MM>/<%dM_cal_DD>": "<%dM_cal_MM>/<%dM_cal_DD>/<%dM_cal_YYYY>"
     },
     "2174": {
         "clarity_nt_char_2174": "clarity_nt_char_2174"
@@ -6555,7 +6555,7 @@
         "<%nM_landaddress2>　<%nM_landaddress3>番地": "<%nM_landaddress2> <%nM_landaddress3>"
     },
     "2186": {
-        "<%nM_Slot>キャラコース": "<%nM_Slot> char. course"
+        "<%nM_Slot>キャラコース": "<%dM_Slot> Character Course"
     },
     "2187": {
         "clarity_nt_char_2187": "clarity_nt_char_2187"
@@ -6573,13 +6573,13 @@
         "入力りれき": ""
     },
     "2192": {
-        "30日間": "30 days"
+        "30日間": "30 Days"
     },
     "2193": {
         "clarity_nt_char_2193": "clarity_nt_char_2193"
     },
     "2194": {
-        "90日間": "90 days"
+        "90日間": "90 Days"
     },
     "2195": {
         "clarity_nt_char_2195": "clarity_nt_char_2195"
