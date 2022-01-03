@@ -6144,7 +6144,7 @@
         "<speed=0><%sM_pc>を|フレンドリストから　はずせませんでした。|時間を置いて　もう一度お試しください。": ""
     },
     "2049": {
-        "<speed=0><%sM_pc>は|フレンドリストから　はずせません！": ""
+        "<speed=0><%sM_pc>は|フレンドリストから　はずせません！": "<speed=0><%sM_pc> can't be removed from your|friends list!"
     },
     "2050": {
         "clarity_nt_char_2050": "clarity_nt_char_2050"
@@ -6156,43 +6156,43 @@
         "clarity_nt_char_2052": "clarity_nt_char_2052"
     },
     "2053": {
-        "<%nM_01>": ""
+        "<%nM_01>": "<%dM_01>"
     },
     "2054": {
         "clarity_nt_char_2054": "clarity_nt_char_2054"
     },
     "2055": {
-        "<%nM_02>": ""
+        "<%nM_02>": "<%dM_02>"
     },
     "2056": {
         "clarity_nt_char_2056": "clarity_nt_char_2056"
     },
     "2057": {
-        "<%nM_03>": ""
+        "<%nM_03>": "<%dM_03>"
     },
     "2058": {
         "clarity_nt_char_2058": "clarity_nt_char_2058"
     },
     "2059": {
-        "<%nM_04>": ""
+        "<%nM_04>": "<%dM_04>"
     },
     "2060": {
         "clarity_nt_char_2060": "clarity_nt_char_2060"
     },
     "2061": {
-        "<%nM_05>": ""
+        "<%nM_05>": "<%dM_05>"
     },
     "2062": {
         "clarity_nt_char_2062": "clarity_nt_char_2062"
     },
     "2063": {
-        "<%nM_06>": ""
+        "<%nM_06>": "<%dM_06>"
     },
     "2064": {
         "clarity_nt_char_2064": "clarity_nt_char_2064"
     },
     "2065": {
-        "<%nM_07>": ""
+        "<%nM_07>": "<%dM_07>"
     },
     "2066": {
         "clarity_nt_char_2066": "clarity_nt_char_2066"
