@@ -9108,7 +9108,7 @@
         "<speed=0><%sL_PC_NICK>とは　すでに|フレンドになっています。": "<speed=0><%sL_PC_NICK> is already your|friend."
     },
     "3037": {
-        "<speed=0>取り消しに失敗しました。|時間を置いて　もう一度お試しください。": ""
+        "<speed=0>取り消しに失敗しました。|時間を置いて　もう一度お試しください。": "<speed=0>Failed tp cancel. Please try again later."
     },
     "3038": {
         "<speed=0><%sL_PC_NICK>への　さそいを　取り消した！": "<speed=0>Cancelled invitation to <%sL_PC_NICK>!"
@@ -9117,7 +9117,7 @@
         "clarity_nt_char_3039": "clarity_nt_char_3039"
     },
     "3040": {
-        "<speed=0><%sL_PC_NICK>への　フレンドのさそいを|取り消して　いいですか？<yesno><close>": ""
+        "<speed=0><%sL_PC_NICK>への　フレンドのさそいを|取り消して　いいですか？<yesno><close>": "<speed=0>Cancel friend request to <%sL_PC_NICK>?<yesno><close>"
     },
     "3041": {
         "<speed=0>どの　フレンドのさそいを　取り消しますか？<break>": "<speed=0>Cancel which friend request?<break>"
