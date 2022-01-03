@@ -2148,7 +2148,7 @@
         "今回のとうろく情報": ""
     },
     "717": {
-        "<%dM_cal_YYYY>／<%sM_cal_MM>／<%sM_cal_DD>　<%sM_Hankaku><%dM_hh>：<%sM_mm>": ""
+        "<%dM_cal_YYYY>／<%sM_cal_MM>／<%sM_cal_DD>　<%sM_Hankaku><%dM_hh>：<%sM_mm>": "<%sM_cal_MM>/<%sM_cal_DD>/<%dM_cal_YYYY>　<%sM_Hankaku><%dM_hh>:<%sM_mm>"
     },
     "718": {
         "<%3dM_hhh>時間<%02dM_mm>分": "<%3dM_hhh>h. <%02dM_mm>m."
@@ -2256,7 +2256,7 @@
         "カメラ": "Camera"
     },
     "753": {
-        "<%sM_header>": ""
+        "<%sM_header>": "<%sM_header>"
     },
     "754": {
         "clarity_nt_char_754": "clarity_nt_char_754"
