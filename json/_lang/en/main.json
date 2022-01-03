@@ -10068,7 +10068,7 @@
         "<%dM_fspncnt>": "<%dM_fspncnt>"
     },
     "3357": {
-        "<%dM_lvupcnt>": ""
+        "<%dM_lvupcnt>": "<%dM_lvupcnt>"
     },
     "3358": {
         "単語登録": ""
@@ -10095,7 +10095,7 @@
         "clarity_nt_char_3365": "clarity_nt_char_3365"
     },
     "3366": {
-        "<%sM_tukuttahito>（<%sM_id><%sM_idno>-<%sM_idno2>）": ""
+        "<%sM_tukuttahito>（<%sM_id><%sM_idno>-<%sM_idno2>）": "<%sM_tukuttahito> (<%sM_id><%sM_idno>-<%sM_idno2>)"
     },
     "3367": {
         "<%sM_purasu><%sM_atai><%sM_tani>以上": "<%sM_purasu><%sM_atai><%sM_tani>+"
@@ -10125,7 +10125,7 @@
         "★のみ": "1★ only"
     },
     "3376": {
-        "配置中の庭具": ""
+        "配置中の庭具": "Placed Decor"
     },
     "3377": {
         "clarity_nt_char_3377": "clarity_nt_char_3377"
