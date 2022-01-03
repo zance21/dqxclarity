@@ -6846,7 +6846,7 @@
         "<%dM_cal_YYYY>-<%2dM_cal_MM>-<%2dM_cal_DD> <%2dM_hh>：<%02dM_mm>": "<%2dM_cal_MM>/<%2dM_cal_DD>/<%dM_cal_YYYY> <%2dM_hh>:<%02dM_mm>"
     },
     "2283": {
-        "装備できる": ""
+        "装備できる": "Equippable"
     },
     "2284": {
         "覚えるレシピを見る": "See Recipes to Learn"
@@ -6918,7 +6918,7 @@
         "clarity_nt_char_2306": "clarity_nt_char_2306"
     },
     "2307": {
-        "<%2dM_mm>分": "<%2dM_mm>m"
+        "<%2dM_mm>分": "<%2dM_mm> m."
     },
     "2308": {
         "clarity_nt_char_2308": "clarity_nt_char_2308"
@@ -7008,7 +7008,7 @@
         "バザーのみ": "Bazaar Only"
     },
     "2337": {
-        "道具の種類": ""
+        "道具の種類": "Item Types"
     },
     "2338": {
         "アイテムの歴史はありません": "There is no history of this item."
