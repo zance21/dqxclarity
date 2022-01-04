@@ -81,13 +81,13 @@
         "<select_se_off>|オーガ|プクリポ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|Ogre|Pukulipo|Elf|Dwarf|Cancel|<select_end>|<break>"
     },
     "28": {
-        "<select_se_off>|仮装メイク術をする|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|仮装メイク術をする|説明を聞く|<select_end>|<break>": "<select_se_off>|Disguise Makeup|Explanation|<select_end>|<break>"
     },
     "29": {
-        "<select_se_off>|仮装メイク術を落とす|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": "<select_se_off>|Disguise Makeup|Change Race|Extend Period|Explanation|<select_end>|<break>"
+        "<select_se_off>|仮装メイク術を落とす|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": "<select_se_off>|Remove Disguise|Change Race|Extend Period|Explanation|<select_end>|<break>"
     },
     "30": {
-        "<select_se_off>|メイク直し術をする|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|メイク直し術をする|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": "<select_se_off>|Apply Disguise|Change Race|Extend Period|Explanation|<select_end>|<break>"
     },
     "31": {
         "髪型などの見た目は　美容院で変えられます。|美容院でおこなった変更は　今後　同じ種族に|仮装メイクした場合でも　残っています。|<br>|仮装メイク術の　有効期間が過ぎると|自動的に　元の種族の姿に  |戻りますので　ご注意ください。|<end>": "You can change your hairstyle at the|hairdresser... Any changes you make at the|salon will remain with you even if you choose|<br>|to masquerade as the same species in the|future. If the disguise makeover expires,|you'll automatically revert to your original|<br>|race.<end>"

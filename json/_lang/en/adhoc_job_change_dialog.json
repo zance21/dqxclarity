@@ -81,7 +81,7 @@
         "「では　どの職業になることを　望みますか？|<break>": "So, which job would you like to choose?|<break>"
     },
     "28": {
-        "「何を　希望されるか？|<break>": "What do you want?<break>"
+        "「何を　希望されるか？|<break>": "What do you need?<break>"
     },
     "29": {
         "「何を　望むのかね？|<break>": "What do you want from me?<break>"
@@ -270,7 +270,7 @@
         "「どの職業になることを　望みますか？|<break>": "What career do you hope to pursue?<break>"
     },
     "91": {
-        "「では　どの職業になることを　望みますか？|<break>": "So, which career would you like to be in?<break>"
+        "「では　どの職業になることを　望みますか？|<break>": "So, which job would you like to choose?|<break>"
     },
     "92": {
         "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
@@ -1161,7 +1161,7 @@
         "「どの職業になることを　望みますか？|<break>": "What career do you hope to pursue?<break>"
     },
     "388": {
-        "「では　どの職業になることを　望みますか？|<break>": "So, which career would you like to be in?<break>"
+        "「では　どの職業になることを　望みますか？|<break>": "So, which job would you like to choose?|<break>"
     },
     "389": {
         "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって　祈りなさい。ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませください！|<end>": "So, <%sM_self>...|<%sM_new_syokugyou> and pray...|God of Dharma! Give <%sM_self> a|<br>|new lease on life!<end>"
