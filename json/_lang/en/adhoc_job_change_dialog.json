@@ -3,7 +3,7 @@
         "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "Welcome to the Temple of Dharma, a place where|people come to change their jobs. What would|you like to do?|<break>"
     },
     "2": {
-        "「どの職業に　なりたいのかね？|<break>": "What career would you like to pursue?<break>"
+        "「どの職業に　なりたいのかね？|<break>": "Which job would you like to choose?<break>"
     },
     "3": {
         "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Let's pray for <%sM_self>...|<%sM_new_syokugyou> and pray...|Oh, God of Dharma! Give|<br>|<%sM_self> a new lease on life!<end>"
@@ -78,7 +78,7 @@
         "「ならば　どの職業になりたいのじゃ。|<break>": "Then what career do you want to be...<break>"
     },
     "27": {
-        "「では　どの職業になることを　望みますか？|<break>": "So, which career would you like to be in?<break>"
+        "「では　どの職業になることを　望みますか？|<break>": "So, which job would you like to choose?|<break>"
     },
     "28": {
         "「何を　希望されるか？|<break>": "What do you want?<break>"

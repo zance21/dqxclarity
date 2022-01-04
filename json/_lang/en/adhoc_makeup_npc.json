@@ -66,19 +66,19 @@
         "「さて　本日は　この私に|　どのような　ご用件でしょうか？|<break>": "So, what can I do for you today, sir?<break>"
     },
     "23": {
-        "<select_se_off>|オーガ|プクリポ|ウェディ|エルフ|やめる|<select_end>|<break>": "<select_se_off>|auger|click lipo|Wendy|elf|stop|<select_end>|<break>"
+        "<select_se_off>|オーガ|プクリポ|ウェディ|エルフ|やめる|<select_end>|<break>": "<select_se_off>|Ogre|Pukulipo|Weddie|Elf|Cancel|<select_end>|<break>"
     },
     "24": {
-        "<select_se_off>|オーガ|プクリポ|ウェディ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|auger|click lipo|Wendy|dwarf|stop|<select_end>|<break>"
+        "<select_se_off>|オーガ|プクリポ|ウェディ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|Ogre|Pukulipo|Weddie|Dwarf|Cancel|<select_end>|<break>"
     },
     "25": {
-        "<select_se_off>|プクリポ|ウェディ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|click lipo|Wendy|elf|dwarf|stop|<select_end>|<break>"
+        "<select_se_off>|プクリポ|ウェディ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|Pukulipo|Weddie|Elf|Dwarf|Cancel|<select_end>|<break>"
     },
     "26": {
-        "<select_se_off>|オーガ|ウェディ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|auger|Wendy|elf|dwarf|stop|<select_end>|<break>"
+        "<select_se_off>|オーガ|ウェディ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|Ogre|Weddie|Elf|Dwarf|Cancel|<select_end>|<break>"
     },
     "27": {
-        "<select_se_off>|オーガ|プクリポ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|auger|click lipo|elf|dwarf|stop|<select_end>|<break>"
+        "<select_se_off>|オーガ|プクリポ|エルフ|ドワーフ|やめる|<select_end>|<break>": "<select_se_off>|Ogre|Pukulipo|Elf|Dwarf|Cancel|<select_end>|<break>"
     },
     "28": {
         "<select_se_off>|仮装メイク術をする|説明を聞く|<select_end>|<break>": ""
