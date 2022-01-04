@@ -57,10 +57,10 @@
         "<%nL_GOLD>ゴールドを|受け取れなかったので|取り引きが　できませんでした。|<end>": "Couldn't receive the <%dL_GOLD> Gold,|so the trade was unsuccessful.|<end>"
     },
     "20": {
-        "<%sL_PC>が　キャンセルしました。|<break>": "<%sL_PC> cancels...<break>"
+        "<%sL_PC>が　キャンセルしました。|<break>": "<%sL_PC> cancelled the trade.<break>"
     },
     "21": {
-        "<%sL_PC>の返事を　待っています……。|<break>": "I'm still waiting for <%sL_PC> to respond...<break>"
+        "<%sL_PC>の返事を　待っています……。|<break>": "Waiting for <%sL_PC> to respond...<break>"
     },
     "22": {
         "取り引きの相手が　いなくなりました。|<end>": "I'm sorry, but I lost my partner.<end>"
