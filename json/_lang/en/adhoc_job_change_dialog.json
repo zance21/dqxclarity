@@ -12,7 +12,7 @@
         "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
     },
     "5": {
-        "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "..... You're switching jobs to|<%sM_new_syokugyou>, aren't you?<yesno><close>"
+        "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "Hmm.. you're changing jobs to <%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "6": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Now go...|<br>"
@@ -657,7 +657,7 @@
         "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
     },
     "220": {
-        "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "..... You're switching jobs to|<%sM_new_syokugyou>, aren't you?<yesno><close>"
+        "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "Hmm.. you're changing jobs to <%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "221": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Let's go...|<br>"
