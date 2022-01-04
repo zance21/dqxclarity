@@ -10923,7 +10923,7 @@
         "clarity_nt_char_3641": "clarity_nt_char_3641"
     },
     "3642": {
-        "鉄壁の守り": ""
+        "鉄壁の守り": "Ironclad Guard"
     },
     "3643": {
         "切リキザム": ""
@@ -28188,7 +28188,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰ消費0の効果が とけた！": ""
     },
     "9397": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鉄壁の守りの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 鉄壁の守りの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Ironclad Guard effect faded!"
     },
     "9398": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ダメージアップの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage taken up effect faded!"
@@ -29844,7 +29844,7 @@
         "clarity_nt_char_9948": "clarity_nt_char_9948"
     },
     "9949": {
-        "鉄壁の守り！": ""
+        "鉄壁の守り！": "Ironclad Guard!"
     },
     "9950": {
         "clarity_nt_char_9950": "clarity_nt_char_9950"
@@ -32364,7 +32364,7 @@
         "消費ＭＰ０の効果が|とけた": "0 MP cost effect|faded."
     },
     "10789": {
-        "鉄壁の守りがとけた": ""
+        "鉄壁の守りがとけた": "Ironclad Guard faded."
     },
     "10790": {
         "ダメージアップの|効果がきえた": "Damage dealt up|effect faded."
