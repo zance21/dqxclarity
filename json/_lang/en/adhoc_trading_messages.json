@@ -87,7 +87,7 @@
         "取り引きは　行われませんでした。|<end>": "The transaction will not take place...<end>"
     },
     "30": {
-        "<%sL_PC>に　取り引きを　申し込みますか？|<yesno><break>": "Would you like to make a deal with <%sL_PC>?<yesno><break>"
+        "<%sL_PC>に　取り引きを　申し込みますか？|<yesno><break>": "Would you like to trade with <%sL_PC>?<yesno><break>"
     },
     "31": {
         "取り引きの申し込みを　キャンセルしますか？|<yesno><break>": "Would you like to cancel your transaction|request?<yesno><break>"
