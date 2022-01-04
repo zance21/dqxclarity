@@ -744,7 +744,7 @@
         "「<%sM_pc>か。それじゃ　紹介料として|　<%nL_Spt_gold>ゴールド　もらうけど|　<%sM_pc>を　仲間にしていいか？|<yesno><break>": "<%sM_pc>? Hiring them will cost <%dL_Spt_gold> Gold.|You want them to join you?|<yesno><break>"
     },
     "249": {
-        "「<%sM_pc>さんとは　同じチームなのね？|　だったら　紹介料は半額の　<%nL_Time>時間|　<%nL_Spt_gold>ゴールドになるけど　お仲間にする？|<yesno><break>": "You're on the same team as|<%sM_pc>, right? If so, the|referral fee is half|<br>|<%nL_Time>time|<%nL_Spt_gold>gold, do you want|to join?<yesno><break>"
+        "「<%sM_pc>さんとは　同じチームなのね？|　だったら　紹介料は半額の　<%nL_Time>時間|　<%nL_Spt_gold>ゴールドになるけど　お仲間にする？|<yesno><break>": "You're on the same team as <%sM_pc>, right?|The hire fee instead is <%dL_Spt_gold> gold for <%dL_Time>| hours then, half of the normal price.|<br>|Do you want to continue?|<yesno><break>"
     },
     "250": {
         "「<map>で　くわしく見ることができるぜ。|　別の人を見たいときは|　<cursor_up_down>　で選べるからな。|<break>": "Press <map> to see more details. If you|want to choose someone else, use <cursor_up_down>.|<break>"
