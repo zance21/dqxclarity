@@ -51,7 +51,7 @@
         "<%sL_ITEM>は　選んであります。|<bw_break>": "<%sL_ITEM> was selected.|<bw_break>"
     },
     "18": {
-        "<%sL_PC>に　<%nL_GOLD>ゴールドを|渡せなかったので|取り引きが　できませんでした。|<end>": "I couldn't get <%sL_PC> to give me <%nL_GOLD>|gold, so I can't make a deal...<end>"
+        "<%sL_PC>に　<%nL_GOLD>ゴールドを|渡せなかったので|取り引きが　できませんでした。|<end>": "Couldn't give <%dL_GOLD> Gold to|<%sL_PC>, so the trade was|unsuccessful.|<end>"
     },
     "19": {
         "<%nL_GOLD>ゴールドを|受け取れなかったので|取り引きが　できませんでした。|<end>": "<%nL_GOLD> I didn't get my gold, so I can't|make a deal...<end>"
