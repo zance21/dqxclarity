@@ -63,10 +63,10 @@
         "<%sL_PC>の返事を　待っています……。|<break>": "Waiting for <%sL_PC> to respond...<break>"
     },
     "22": {
-        "取り引きの相手が　いなくなりました。|<end>": "I'm sorry, but I lost my partner.<end>"
+        "取り引きの相手が　いなくなりました。|<end>": "Trade partner is too far away.<end>"
     },
     "23": {
-        "<%nL_GOLD>ゴールドを　取り出した。|<end>": "<%nL_GOLD> Get the gold...<end>"
+        "<%nL_GOLD>ゴールドを　取り出した。|<end>": "Received <%dL_GOLD> Gold from the trade.<end>"
     },
     "24": {
         "<%sL_ITEM>を　取り出した。|<end>": "Get <%sL_ITEM>...<end>"
