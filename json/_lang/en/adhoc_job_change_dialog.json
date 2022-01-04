@@ -6,7 +6,7 @@
         "「どの職業に　なりたいのかね？|<break>": "Which job would you like to choose?<break>"
     },
     "3": {
-        "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Let's pray for <%sM_self>...|<%sM_new_syokugyou> and pray...|Oh, God of Dharma! Give|<br>|<%sM_self> a new lease on life!<end>"
+        "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of <%sM_new_syokugyou>.|Oh God of Dharma. Give <%sM_self> a new life!"
     },
     "4": {
         "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
@@ -651,7 +651,7 @@
         "「ならば　どの職業に　なりたいのだ？|<break>": "Then what career would you like to pursue?<break>"
     },
     "218": {
-        "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Let's pray for <%sM_self>...|<%sM_new_syokugyou> and pray...|Oh, God of Dharma! Give|<br>|<%sM_self> a new lease on life!<end>"
+        "「では　<%sM_self>よ。<%sM_new_syokugyou>の|　気持ちになって祈るのだ。おお　ダーマの神よ！|　<%sM_self>に　新たな人生を歩ませたまえ！|<end>": "Oh <%sM_self>. Let us pray in the spirit of <%sM_new_syokugyou>.|Oh God of Dharma. Give <%sM_self> a new life!"
     },
     "219": {
         "「……む？　お前は　すでに|　<%sM_syokugyou>の職に　ついているぞ。|　どの職業に　なりたいのかね？|<break>": "... No? You're already in|<%sM_syokugyou>... Which one do|you want to be?|<br><break>"
