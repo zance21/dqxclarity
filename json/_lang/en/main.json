@@ -14505,7 +14505,7 @@
         "今回のお支払合計：": "This Total PaymentL:"
     },
     "4836": {
-        "<%sM_rank>ランクの対戦パーティ 一覧": "List of parties with <%sM_rank> rank"
+        "<%sM_rank>ランクの対戦パーティ 一覧": "Rank <%sM_rank> Party List"
     },
     "4837": {
         "コイン": "Coin"
@@ -14526,7 +14526,7 @@
         "登録中のモンスター": "Currently Registered"
     },
     "4843": {
-        "モンスター選択": ""
+        "モンスター選択": "Select Monster"
     },
     "4844": {
         "モンスター登録": "Register"
@@ -14553,7 +14553,7 @@
         "clarity_nt_char_4851": "clarity_nt_char_4851"
     },
     "4852": {
-        "家具ロック": ""
+        "家具ロック": "Lock Decor"
     },
     "4853": {
         "わたすもの": "Items"
@@ -14565,7 +14565,7 @@
         "clarity_nt_char_4855": "clarity_nt_char_4855"
     },
     "4856": {
-        "[レベル上限]": ""
+        "[レベル上限]": "[Level Limit]"
     },
     "4857": {
         "モンスター順": "By Monster"
@@ -14580,13 +14580,13 @@
         "clarity_nt_char_4860": "clarity_nt_char_4860"
     },
     "4861": {
-        "装備を変更": ""
+        "装備を変更": "Swap Gear"
     },
     "4862": {
         "装備を登録": "Register"
     },
     "4863": {
-        "倉庫１": ""
+        "倉庫１": "Storage 1"
     },
     "4864": {
         "倉庫２": ""
