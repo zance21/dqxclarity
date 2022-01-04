@@ -30,7 +30,7 @@
         "<pipipi_off>|<%sL_KAPSEL>が　割られ|中から　ついてクンが　飛び出して|連れ歩けるようになった！|<end>": "<pipipi_off>Inside the <%sL_KAPSEL> pops out|a new pet to walk with you! <end>"
     },
     "11": {
-        "「よっしゃー！　まかせて！|　さっそく割っちゃうよ！|<br>|<shake_big>|「ほわぁあー！！|　あちょおおおおおおおおお！！|<end>": "All right! I got it! I'm gonna crack it open!<shake_big>Hoorah! ACHOOOOOOO!<end>"
+        "「よっしゃー！　まかせて！|　さっそく割っちゃうよ！|<br>|<shake_big>|「ほわぁあー！！|　あちょおおおおおおおおお！！|<end>": "Okay, here we go! I'm gonna crack it open!|<br>|<shake_big>Hoorah!| ACHOOOOOOO!<end>"
     },
     "12": {
         "「おや？|　キミが持ってる　それは|　<%sL_MINION>の　カプセルじゃないか？|<br>|「なかなか　珍しいものだけど|　そのままじゃ　なんの役にも立たないよ。|　せっかくだから　ペットにしたいよね？|<br>|「よければ　ボクがそれを割って　中にいる|　ついてクンを　外に出してあげるよ。|　どうする？　カプセルを割るのかい？|<yesno><break>": "Hmm? Isn't that a <%sL_MINION> capsule you're|holding? It's pretty rare, but it's useless|as is. You'd like to make a pet out of it,|<br>|wouldn't you? If you'd like, I could break it|open and let your little friend out. What are|you gonna do? You're gonna break the capsule?<yesno><break>"
