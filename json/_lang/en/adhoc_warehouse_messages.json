@@ -402,7 +402,7 @@
         "「おやめに　なるのですね？": "So you're quitting?"
     },
     "135": {
-        "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold... How much would you like to deposit?<break>"
+        "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold. How much would you like to deposit?<break>"
     },
     "136": {
         "「１０００ゴールド単位で　お渡しできます。|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　いくら引き出しますか？|<break>": "I'll give you 1,000 gold units... You have|<%nL_AZU_BALANCE>000 gold in your account.|How much would you like to withdraw?<break>"
@@ -417,7 +417,7 @@
         "「お客さまからは　ゴールドを|　お預かりしていないようです。|<br>|「他にも　ご用はありますか？|<break>": "I don't think you have any gold on you... Is|there anything else I can do for you?<break>"
     },
     "140": {
-        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|for you?<break>"
+        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%dL_AZU_BALANCE>000 gold in your|possession. Is there anything else I can do|for you?<break>"
     },
     "141": {
         "「現在　お預かりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have gold in our possession at the moment,|but... Is there anything else I can do for|you?<break>"
@@ -1188,7 +1188,7 @@
         "「おやめに　なるのですね？": "So you're quitting?"
     },
     "397": {
-        "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold... How much would you like to deposit?<break>"
+        "「１０００ゴールド単位で　お預かりします。|　いくら　お預けになりますか？|<break>": "We accept deposits in increments of 1,000|gold. How much would you like to deposit?<break>"
     },
     "398": {
         "「１０００ゴールド単位で　お渡しできます。|　現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしていますが　いくら引き出しますか？|<break>": "I'll give you 1,000 gold units... You have|<%nL_AZU_BALANCE>000 gold in your account.|How much would you like to withdraw?<break>"
@@ -1203,7 +1203,7 @@
         "「あなたさまからは　ゴールドを|　お預かりしていないようです。|<br>|「他にも　ご用はありますか？|<break>": "I don't have any gold for you... Is there|anything else I can do for you?<break>"
     },
     "402": {
-        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%nL_AZU_BALANCE>000 gold in your|possession... Is there anything else I can do|for you?<break>"
+        "「現在　<%nL_AZU_BALANCE>０００ゴールド|　お預かりしています。|　他にも　ご用はありますか？|<break>": "You have <%dL_AZU_BALANCE>000 gold in your|possession. Is there anything else I can do|for you?<break>"
     },
     "403": {
         "「現在　お預かりしている|　ゴールドは　ありません。|　他にも　ご用はありますか？|<break>": "We have gold in our possession at the moment,|but... Is there anything else I can do for|you?<break>"
