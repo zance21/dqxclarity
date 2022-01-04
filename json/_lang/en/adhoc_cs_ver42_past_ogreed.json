@@ -1,0 +1,1550 @@
+{
+    "1": {
+        "「ううっ……<pc>…………。": "Ugh<pc> ..."
+    },
+    "2": {
+        "「……ああ……失礼だが。": "... Oh... I lost..."
+    },
+    "3": {
+        "「…………そなたの名前を　教えてくれ。": "... Tell me your name..."
+    },
+    "4": {
+        "「……<pc>……というのか。|　<pc>　<pc>……。": "<pc>   ... And...<pc>  <pc> ..."
+    },
+    "5": {
+        "「どうも　頭の中が|　洗い流されたように　真っ白でな……。": "Thank you. It's like my mind has been washed|clean."
+    },
+    "6": {
+        "「思いだせるのは……|　青い港町……誰かの後ろ姿……。": "All I can remember is... A blue port town...|Someone's back..."
+    },
+    "7": {
+        "「ふーむ　やっかいキュ。 |　こいつは　時間跳躍の後遺症っキュね。": "Hmm, no... This is the aftereffects of time|jumping..."
+    },
+    "8": {
+        "「まほう……せいぶつ……？": "Magic... Creatures...?"
+    },
+    "9": {
+        "「<pc>も　知ってのとおり|　エテーネ人にも　時渡りのチカラを|　持つ個体と　持たない個体がいるっキュ。": "<pc> As you know, some Etaeans have the gift of|time travel... and others do not."
+    },
+    "10": {
+        "「適性のない個体が　無理に時を渡れば |　人体にかかる負担は　計り知れず|　思いも寄らない弊害を　引き起こすキュル。": "If an unfit individual is forced to cross the|time line, the toll on the human body is|immeasurable, and it can cause unexpected|<br>|harm..."
+    },
+    "11": {
+        "「この男は　記憶の喪失だけですんで |　まだ　幸運なほうっキュ。": "This guy's lucky he only lost his memory,|so..."
+    },
+    "12": {
+        "「……本当に　それだけかは　わからないけど|　ともかく　経過を観察するキュ。": "I... I don't know if that's really all there|is to it, but anyway, we'll see how it goes."
+    },
+    "13": {
+        "「魔法生物に　好かれるヤツは |　いいヤツだと……誰かが　言っていた……。": "Someone once told me that if a magical|creature likes you, you're a good guy.|Someone once told me..."
+    },
+    "14": {
+        "「<pc>…… |　うまく　言葉に　できないが…… |　そなたは　不思議と……なつかしい。": "<pc> I... I can't quite put it into words, but...|But you have a strange... And..."
+    },
+    "15": {
+        "「目覚めたか　ファラス殿。": "You're awake. Fa..."
+    },
+    "16": {
+        "「ファラス……それが　自分の名ですかな。 |　……なるほど　しっくりくる。": "Faras... That's what I call myself... ... I|see. Shh."
+    },
+    "17": {
+        "「我が国の王は　魔獣を倒してくれた　そなたを |　賓客として　もてなすそうだ。|　城の中ならば　自由に　見てくれてかまわんぞ。": "The king of my kingdom is honored to have you|as his guest... for slaying a hexenbiest.|You're welcome to look around the castle..."
+    },
+    "18": {
+        "「そいつは　大いに助かる……。 |　部屋にこもっているのは　性に合わんのでな。|　すこし　外の空気を　吸わせてくれ。": "That's a big help. I don't like being cooped|up in here. Let me get some air..."
+    },
+    "19": {
+        "「キモのすわった男だな。": "Gross..."
+    },
+    "20": {
+        "「さて　<pc>。 |　先ほど　グレン城のバグド王より|　そなたへ　直々に　呼びだしがあった。": "now<pc> I... I've just received a personal summons|from King Baghdad of Castle Grenn..."
+    },
+    "21": {
+        "「……グレン上空に　例の繭が現れたそうだ。": "... The cocoon has appeared above the glen..."
+    },
+    "22": {
+        "「……頭が　痛いな。": "... My head..."
+    },
+    "23": {
+        "「<pc>　そなたも　見たか？|　この城の空に浮かぶ　奇怪な繭を。": "<pc> Have you seen it? The strange thing in the|sky above this castle..."
+    },
+    "24": {
+        "「グランゼドーラで見たものと　うりふたつ……|　というより　同一の存在であろう。|　なれば　次は　この国が襲われる可能性が高い。": "It's identical to the one we saw in|Granzedorra. Or rather, the same entity... If|that's the case, this country could be the|<br>|next to be attacked."
+    },
+    "25": {
+        "「聞けば　アンルシア姫でも　苦戦するほどに|　強い魔獣が　現れたそうだな。": "I heard that a hexenbiest so powerful that|even Princess Anrushka had trouble with it..."
+    },
+    "26": {
+        "「急ぎ　国の防備を　固めねば……。|　<pc>も　チカラを貸してくれ。": "We must hurry and fortify the country.<pc> I'm gonna need your help."
+    },
+    "27": {
+        "「おお　そなたは……|　ランガーオ村の　村王の使いの者だな？": "Oh, you're... You're the messenger of the|village king of Langau?"
+    },
+    "28": {
+        "「……はっ。|　オーグリードの盾の盟約に従い|　村王クリフゲーンの　伝令としてまいりました。": "..... I come to you as a messenger of the|village king, Cliffe Gane, in accordance with|the pact of the Oogreed Shield..."
+    },
+    "29": {
+        "「ロンダの氷穴で　異形の魔物を連れた |　不審な者が　目撃されたとのことです。": "A suspicious person has been seen in the|Rhondda Ice Caves with a strange creature..."
+    },
+    "30": {
+        "「……黒い鎧に身を包んだ　人間の男だとか。": "... A human man in black armor..."
+    },
+    "31": {
+        "「ほう……。|　グランゼドーラで　魔物を放った者も|　そのような　身なりをしておったな。": "Well... The one who unleashed the demon in|Granzedorra was dressed like that..."
+    },
+    "32": {
+        "「ロンダ岬か……嫌な場所に　現れたものだ。": "Cape Ronda. I'm in the wrong place at the|wrong time."
+    },
+    "33": {
+        "「バグド王よ。 |　これは　ただならぬ事態やもしれぬ。|　すみやかに　最悪の事態に備えるのだ。": "Bug... This could be serious... We need to|prepare for the worst..."
+    },
+    "34": {
+        "「わしは　<pc>とともに |　急ぎ　ロンダ岬へ向かう。……行くぞ！": "I am<pc> We're on our way to Cape Ronda. ...... Let's|go!"
+    },
+    "35": {
+        "「礼は言わぬぞ　人間……。": "No need to thank me, human..."
+    },
+    "36": {
+        "「代わりに　存分に　暴れてやろう！！": "Instead, I'm going to let you have it!"
+    },
+    "37": {
+        "「やられたな……。|　オーグリードにとって　最悪の事態じゃ。": "We're screwed. That's the worst thing that|could happen to Augurid."
+    },
+    "38": {
+        "「この大陸は　１３００年前……|　ゾンガロンによって　滅ぼされかけておる。": "1,300 years ago... Nearly destroyed by the|Zongaron..."
+    },
+    "39": {
+        "「わしも　チカラを貸す。|　<pc>　食い止めてくれ！": "I, too, have my...<pc> Hold them off!"
+    },
+    "40": {
+        "「まさか　復活した我の相手が　貴様ら程度か？|　……下等生物が　身の程を知れ。": ""
+    },
+    "41": {
+        "「知性を捨て　獣となるがいい！": ""
+    },
+    "42": {
+        "「ナ　ナンジャコリャ……。": "Nah, nah, nah, nah, nah..."
+    },
+    "43": {
+        "「グハハ　みっともない姿だな……。|　我の復讐の　前菜として　喰らってやろう！": "What a disgraceful sight... I'll have you as|an appetizer for my revenge!"
+    },
+    "44": {
+        "「…………フム。|　さすがに　今は　チカラが足りぬか。|　我が　かつての全能を　取り戻せし時……": "..... I'm not strong enough... When I|regained my former omnipotence..."
+    },
+    "45": {
+        "「……今度こそ　すべてのオーガを　滅ぼさん。": "... This time, I'm going to destroy every|ogre..."
+    },
+    "46": {
+        "「うっ……ぐう……なんと強い。": "Ugh... Ugh... What the..."
+    },
+    "47": {
+        "「あれが　ゾンガロンの伝承に聞く|　人の心を奪い　獣に　変えてしまう光か。": "That's what Zongaron lore says, that you can|take a man's heart and turn him into a beast."
+    },
+    "48": {
+        "「<pc>よ……。|　ヤツを　ふたたび　封印せねば|　オーグリードは　終わりじゃ。": "<pc> Oh... If we don't seal him off again, Aughrid|will be finished..."
+    },
+    "49": {
+        "「しかし　かの封印は　太古のもの……。 |　そのすべは　忘れ去られて　久しい……。": "But the seal is ancient. Its secrets have|long since been forgotten."
+    },
+    "50": {
+        "「だが　幸運にも……悠久の時を　ものともせぬ |　時渡りの名手が　ここにおったな。": "But fortunately for us... Here is a master of|time travel who has defied the odds."
+    },
+    "51": {
+        "「……ゾンガロン封印の　すべを知るため|　かつてのオーグリードへ　行ってくれるな|　<pc>？<yesno><close>": " To know how to seal the Zongaron| Don't go to what was once Aughrid|<pc> ？<yesno><close>"
+    },
+    "52": {
+        "「……行ってくれるな　<pc>？<yesno><close>": " Don't go<pc> ？<yesno><close>"
+    },
+    "53": {
+        "「……そろそろ　ボクの出番だと　思ってたキュ。 |　どの時代へ　移動したいキュル？": "I... I thought it might be time for me to...|What time period would you like to travel to,|Cyril?"
+    },
+    "54": {
+        "「おぬしたちの　向かうべきは|　いにしえの　オーガの勇士たちが|　ゾンガロンを封印した　１３００年前じゃ。": "You should be heading for the year 1300, when|the Ogre warriors of old sealed Zongaron..."
+    },
+    "55": {
+        "「あの封印を　媒介すれば　よさそうキュ。": "If we can get through that seal, we should be|able to..."
+    },
+    "56": {
+        "「時間設定……１２８７年前。|　エテーネルキューブ　起動キュ！": "Time setting... .128... Energize the|Energizer Cube."
+    },
+    "57": {
+        "「…………いい度胸だよ。|　精鋭兵の　ただ中に　飛び込んでくるなんて。": "... Good. I'm in the middle of a squad of|elite soldiers..."
+    },
+    "58": {
+        "「それもまた　獣ゆえの　無謀さかねえ？ |　……鬼人国のスパイさん。": "That's the recklessness of the beast, isn't|it? ... The Demon Kingdom of Spa..."
+    },
+    "59": {
+        "「アンタのことは　オルセコ王国　現当主|　ギルガラン王子が　直々に裁いてくださるとさ。": "Prince Gilgallan, the current head of the|kingdom of Orseco, will personally judge|you..."
+    },
+    "60": {
+        "「魂なき獣よ……。": "Soulless beast..."
+    },
+    "61": {
+        "「俺の敵に生まれたことが　運の尽きだ。|　次は　オルセコの民に　生まれてこい。": "Born to my enemies, that's my luck. Next|time, I'll be born to the people of Orseco."
+    },
+    "62": {
+        "「せめて　安らかに眠れ。": "At least give me some peace."
+    },
+    "63": {
+        "「獣に死を！　死を！　死を！": "Death to the beast! Death! Death!"
+    },
+    "64": {
+        "「……恐れながら　兄上。": "... With all due respect..."
+    },
+    "65": {
+        "「グリエよ……邪魔だてするなら |　お前もろとも　断ち切るぞ。": "Grier... If you try to interfere, I'll cut|you off..."
+    },
+    "66": {
+        "「この者　瞳に　意志が宿っております。|　心失いし　獣には見えません。": "This one has a will in his eyes. He's lost|his mind. He's not a beast."
+    },
+    "67": {
+        "「……キミの名前を　教えてください。": "... Tell me your name..."
+    },
+    "68": {
+        "「<pc>さん……ですね。|　身につけていたものから　想像するに|　遠い国より訪れた　旅人なのでしょう。": "<pc> Mr. ...... I imagine from what he was wearing|that he was a traveler from a faraway land..."
+    },
+    "69": {
+        "「……僕に　預けていただけませんか？|　国に益をもたらす　情報を引きだしてみせます。": ""
+    },
+    "70": {
+        "「何様のつもりだ。|　いつから　俺に　意見できる身になった？": "Who the hell do you think you are? Since when|do you get to tell me what to do?"
+    },
+    "71": {
+        "「まぁねぇ……|　こんな　にやけ顔じゃ　鬼人には見えないよね。": "Well... You don't look like a demon with this|smirk on your face..."
+    },
+    "72": {
+        "「弟王子サマが　面倒みるってんなら |　ひとつ　任せてみてもいいんじゃない？|　って　大臣は思うけど。": "If my brother prince is going to take care of|him, why don't I leave him to you? The|Minister thinks..."
+    },
+    "73": {
+        "「興が　削がれた……。 |　二度と　俺の前に　現れるな。": "I've been so distracted... You'll never see|me again..."
+    },
+    "74": {
+        "「ご無事で　よかった……。 |　キミに　これ以上　危害がくわえられないよう|　僕の責任で　取り計らいますので　ご安心を。": "I'm glad you're safe. It's my responsibility|to make sure that no further harm comes to|you, so..."
+    },
+    "75": {
+        "「よろしければ　僕の私室で|　すこし　お話しをしませんか？": "If you'd like, we can have a little chat in|my office."
+    },
+    "76": {
+        "「この玉座の間を出て　右手に部屋があります。|　……それでは　お待ちしていますね！": "As you leave this throne room, there's a room|on your right... ... I'll be waiting for you!"
+    },
+    "77": {
+        "「ようこそ　お待ちしておりました。|　<pc>さん……と　おっしゃいましたね。": "Welcome. We look forward to seeing you...<pc> You said... You said..."
+    },
+    "78": {
+        "「僕は　この国の第二王子　グリエと申します。|　先ほどの　兄の非礼を　お許しください。": "I am Grier, second prince of this land... I|hope you'll forgive my brother's rudeness..."
+    },
+    "79": {
+        "「さあ……こちらへ。": "Come on... Here..."
+    },
+    "80": {
+        "「遠方からの　旅の方ならば |　さぞや　とまどわれていることでしょう。|　よろしければ　僕から説明させてください。": "If you're traveling from out of town, you|must be in a bit of a quandary... If I may,|I'd like to explain..."
+    },
+    "81": {
+        "「オーグリード大陸が　どんな惨状にあるかを。": "What kind of devastation is happening on the|Aughrid continent?"
+    },
+    "82": {
+        "<center>……今から数年前　悪鬼ゾンガロンと呼ばれる|怪物が　突如　現れました。": "... A few years ago, a monster called the|Zongaron appeared out of nowhere."
+    },
+    "83": {
+        "<center>ゾンガロンは　各地で　オーガを襲い|いくつもの集落が　滅ぼされていったのです。": "The Zongaron attacked the Ogre in every|corner of the world... destroying many|settlements..."
+    },
+    "84": {
+        "<center>当時　このオルセコ王国は|隣国のドランドと　戦争をしていたのですが……": "At that time, the kingdom of Orseco|We were at war with our neighbors, the Durand"
+    },
+    "85": {
+        "<center>悪鬼ゾンガロンは　ドランド王国を陥落させ|ドランドの民の心を奪って|あっさり　征服してのけたのです。": "The demon Zongaron fell the Kingdom of|Durand, stole the hearts of the people of|Durand, and easily conquered..."
+    },
+    "86": {
+        "<center>心を奪われたオーガは　獣のように凶暴になり|『鬼人』と　呼ばれるようになりました。": "The Ogre who lost his mind became as fierce|as a beast and was called the \"Demon Man.\""
+    },
+    "87": {
+        "<center>……そして　鬼人国が誕生したのです。": "... And the country of the demons was born..."
+    },
+    "88": {
+        "「僕たちは　今まさに　鬼人国の脅威にさらされ|　ゾンガロンに　滅ぼされようとしています。": "We're under threat from the demon kingdom,|about to be destroyed by the Zongaron..."
+    },
+    "89": {
+        "「だから　兄さんも　余裕がなくなっていて……": "That's why you can't afford to"
+    },
+    "90": {
+        "「クチは悪いけど　国を守ろうと必死なんです。|　どうか　大目に見てやってくださいね。": "I know it's not nice, but I'm trying to|protect my country. I hope you'll forgive|me..."
+    },
+    "91": {
+        "「すっかり　長話になってしまいましたね。|　僕でよければ　この国を　案内しましょう。": "I know this is a long story, but... If it's|all right with you, I'd be happy to show you|around the country..."
+    },
+    "92": {
+        "「おや……ちょっと　失礼しますね。": "Oh... I'm sorry, I..."
+    },
+    "93": {
+        "「<pc>は　トラブル体質っキュね……。|　まあ　あの第二王子様は　話が通じそうだし|　しばらく　一緒に行動するっキュ。": "<pc> He's a troublemaker. Well, the second prince|seems to be a good communicator, so we'll be|working together for a while..."
+    },
+    "94": {
+        "「すみません……オルセコ王国の　民たちから|　たくさん　陳情書が届きまして……。": "I'm sorry... We've received many petitions|from the people of the kingdom of Orseco..."
+    },
+    "95": {
+        "「どうやら　その……兄さんが　あちこちで|　騒動を　起こしているようなのです。|　僕は　彼らの声を　聞きにいかねばなりません。": "It seems that... My brother's been causing a|ruckus all over the place. I must go and hear|what they have to say..."
+    },
+    "96": {
+        "「ああ　そうだ！　<pc>さんも |　２件ほど　お手伝いしていただけませんか？": "Oh, yes!<pc> I was wondering if you could help me with a|couple of cases."
+    },
+    "97": {
+        "「この国の民の心に　親しむには |　正直　兄さんへの苦情を　聞いてあげるのが|　いちばんの近道かと　思いますから。": "I honestly believe that the best way to get|to know the people of this country is to|listen to their complaints about you..."
+    },
+    "98": {
+        "<pc>は　グリエから|ビントンの陳情書（だいじなもの）と|リセセの陳情書（だいじなもの）を　受け取った！<me 60>": "<pc> has received from Grier the petition of|Vinton and the petition of Lycese!<me 60>"
+    },
+    "99": {
+        "「僕のほうも　陳情書を解決しながら　最後に |　オルセコ王国領　王家の墓に行く予定なので|　そちらで　報告を　お願いしますね。": "I'm still working on the petition, and I'm|planning to visit the royal tombs in the|kingdom of Orseco, so please report back to|<br>|me there."
+    },
+    "100": {
+        "「ああっ　<pc>さん。 |　お手伝いくださり　ありがとうございました。": "oh! (expression of surprise)<pc> Thank you. Thank you for helping me..."
+    },
+    "101": {
+        "「……ええ。すでに　報告は受けています。 |　キミが　真摯に　話を聞いてくださって |　皆さんも　よろこんでらしたようですよ。": "..... I've already been briefed... You've|listened to me very attentively, and I know|you're all very happy..."
+    },
+    "102": {
+        "「グリエ様は　１０人ぶんの|　苦情を　聞いたらしいゼ！　人がいいよナ！": "Mr. Grier has heard 10 complaints! I like|people."
+    },
+    "103": {
+        "「オイラんちは　代々　ここの墓守をしてんダ。|　ここには　オルセコ王国の|　歴代の王様が　眠ってんだゼ！": "I've been a tomb guardian here for|generations. This is the resting place of all|the kings of ORSECO!"
+    },
+    "104": {
+        "「ボッチィさんからも　陳情書をいただきましたが|　この場所でも……兄さんが？": "Mr. Botchy gave us a petition, too, but even|here... Your brother?"
+    },
+    "105": {
+        "「そうなんヨ！　ギルガラン様だヨ！": "Yes! It's Mr. Gilgallan!"
+    },
+    "106": {
+        "「あの人　さっき　ドカドカとやってきて|　王様の墓を　掘り返したんダ！": "He just came barging in and dug up the king's|tomb!"
+    },
+    "107": {
+        "「そんな……どうして……。": "No, no, no, no. How could you..."
+    },
+    "108": {
+        "「どうしたも　こうしたも　わからんケド！|　しかも　埋葬品の鏡を　持ってッチまったんダ！": "I don't know what's going on or what's going|on! And he took the mirror from the burial|site!"
+    },
+    "109": {
+        "「墓ドロボーだよ　墓ドロボー！": "Grave robbers. Grave robbers!"
+    },
+    "110": {
+        "「あーあ　先王様の時代は　よかったナァ。|　どうして　亡くなっちまったんだろうナァ……。": "Oh, the days of the last king were so good...|I wonder why he's gone..."
+    },
+    "111": {
+        "「……それは　失礼をいたしました。 |　埋葬品を戻すよう　兄を説得してみますね。": "I... I'm sorry, I didn't mean to... I'm|trying to convince my brother to return the|burial..."
+    },
+    "112": {
+        "「まったく　手のかかる……。": "It's not easy."
+    },
+    "113": {
+        "「これから　兄さんと話そうと思います。 |　キミの活躍ぶりも　聞いてもらおうと思うので|　よかったら　一緒に　来てください。": "I'm going to talk to your brother... I'm|going to ask him how you're doing, so if|you'd like to come with me..."
+    },
+    "114": {
+        "「今の時間だと　兄さんは　オルセコ闘技城の|　舞台で　鍛錬をしているはずです。|　よろしく　お願いしますね！": "At this hour, your brother is training on the|stage of the Orseco fighting pits... I'm|counting on you!"
+    },
+    "115": {
+        "「二度と　顔を見せるなと　言ったはずだが？": "Didn't I tell you never to show your face|again?"
+    },
+    "116": {
+        "「兄さん……<cs_pchero>さんは |　オルセコの民の悩みを　たちどころに|　２件も　解決してくださいました。": "Brother<cs_pchero>You have quickly solved two of Olseco's|biggest problems..."
+    },
+    "117": {
+        "「とても　心強い味方ですよ。": "I'm so glad you're here."
+    },
+    "118": {
+        "「それで……民より　訴えがありました。 |　兄さんが　あちこちで　やんちゃしてるとか。": "So... I got a complaint from the people... My|brother's been getting into a lot of|trouble..."
+    },
+    "119": {
+        "「何か　理由があってのことと　思いますが…… |　王家の墓を　あばいて　有無を言わさず|　埋葬品を　持ち出したそうですね？": "I'm sure he had his reasons, but... I|understand that you ransacked the royal tombs|and took the burial artifacts without|<br>|question?"
+    },
+    "120": {
+        "「民は　兄さんの声を　聞きたがっています。|　言葉なくして　想いは伝わりません。": "The people want to hear your voice. No words,|no feelings..."
+    },
+    "121": {
+        "「黙っていろ　グリエ。今は　俺が王だ。": "Just shut up. Now, I..."
+    },
+    "122": {
+        "「そして　オルセコの民は　王の所有物。|　……俺に　従っていればいい。": "And the people of Orseco, the king's|people... ... Follow me..."
+    },
+    "123": {
+        "「それでは　民の心は　離れるばかりだよ……。": "It's only going to turn people off..."
+    },
+    "124": {
+        "「ジュワァァ……！！": "Juwaa...!"
+    },
+    "125": {
+        "「……鬼人だ。 |　<cs_pchero>さん　お逃げください！": "......<cs_pchero>Miss, please run!"
+    },
+    "126": {
+        "「今度は　本物の　鬼人国の刺客らしいな。|　<cs_pchero>とやら……|　味方だと言うなら　今　役に立ってみせろ。": "Now the real assassins from the demon|kingdom...<cs_pchero>Or... If you say you're on our side, you're|helping us now..."
+    },
+    "127": {
+        "「ニクジルヲ……シタタラセル……。": "Nixilu... Shita Tarasell..."
+    },
+    "128": {
+        "「ブヒュゥゥ……。|　コノ程度ナラ　タヤスイ……。": "Boo-hoo-hoo... I'll be back..."
+    },
+    "129": {
+        "「マモナク　鬼人ガ　群レトナリテ|　オルセコヲ　攻メ滅ボスダロウ……。": "The demons are swarming around us, attacking|and destroying Orseco."
+    },
+    "130": {
+        "「召シマセ　ゾンガロン様ァァーーー！！": "Summon Shimasse, Master Zongaron!"
+    },
+    "131": {
+        "「宣戦布告……ということでしょうか？": "A declaration of war... Is that what you're|saying?"
+    },
+    "132": {
+        "「<cs_pchero>さんが　お強かったので|　なんとか　勝てましたが……。": "<cs_pchero>I managed to win because you were so strong,|but..."
+    },
+    "133": {
+        "「兄さん……。 |　民に呼びかけ　兵を集めて|　国の守りを固めましょう。": "Brother... I call upon the people to gather|the troops and fortify the country..."
+    },
+    "134": {
+        "「……必要ない。": "...必..."
+    },
+    "135": {
+        "「攻めてくるのなら　その前に|　つぶせばいいだけのことだ。": "If they're going to attack us, all we have to|do is crush them before they..."
+    },
+    "136": {
+        "「兄さん……まさか！？": "Brother... No way!"
+    },
+    "137": {
+        "「……俺が戻るまで　ここを任せるぞ。": "... You're in charge here until I get back..."
+    },
+    "138": {
+        "「兄さんは　たしかに　この国で |　最強とうたわれる　一騎当千の武人ですが……": "You're right| He is said to be the most powerful warrior of all"
+    },
+    "139": {
+        "「まさか　鬼人国に|　ひとりで　攻め入る気なのか……。": "Don't tell me you're planning to invade the|demon kingdom alone..."
+    },
+    "140": {
+        "「このままでは　あの人は　死んでしまいます。 |　<cs_pchero>さん　すみませんが|　一緒に来て　兄さんを止めてください！": "If we don't do something, he's going to die.<cs_pchero>Miss, I'm sorry, but you have to come with me|and stop my brother!"
+    },
+    "141": {
+        "「鬼人の居城……鬼岩城は　オルセコ王国領の東|　ドランド平原を　突っ切った先にあります。|　どうか　お願いいたします！": "The castle of the demons... Oniwa Castle is|located east of the Orseco Kingdom, across|the Drang Plains... Please, please, please!"
+    },
+    "142": {
+        "「これが　難攻不落とうたわれた|　強国ドランドの　末路か……。": "So this is the end of the mighty Dorland, the|land that was said to be impregnable."
+    },
+    "143": {
+        "「僕らの父王　ゾルトグリンは|　類まれな戦術家でしたが|　この城は落とせないと　よく嘆いていました。": "Our father, King Zoltgrin, was an exceptional|tactician, but he often complained that he|couldn't get this castle..."
+    },
+    "144": {
+        "「そんな城に　ひとりで　突っ込んでいくなんて|　まったく　ギルガランらしい……。": "It's just like Gilgallan to charge into a|castle like that all by himself..."
+    },
+    "145": {
+        "「兄さんは　すでに　侵入して |　ドランド王の玉座を　目指しているでしょう。": "I believe your brother has already|infiltrated the city and is on his way to|King Durand's throne."
+    },
+    "146": {
+        "「中は　鬼人だらけです。|　くれぐれも　お気をつけて……。": "There are demons inside... Please be|careful..."
+    },
+    "147": {
+        "「こんなところに　猫ちゃんが……。": "There's a cat here..."
+    },
+    "148": {
+        "「にゃーん！": "Meow!"
+    },
+    "149": {
+        "「あはは　かわいいなぁ。|　<pc>さんのこと　好きみたいですね。": "Haha, cute...<pc> I think he likes you..."
+    },
+    "150": {
+        "「滝が　止まった……？": "The waterfall stopped...?"
+    },
+    "151": {
+        "「不思議な　猫ちゃんだなぁ。|　あの子のおかげで　光明が見えましたね。": "The mysterious cat... Thanks to her, I'm|seeing the light..."
+    },
+    "152": {
+        "「我ラノ血　我ラノ肉……|　スベテ　ゾンガロン様ノ糧……。": "My blood, my flesh... I will feed you,|Zongaron..."
+    },
+    "153": {
+        "「轟雷王と呼ばれ　何者の風下に立つことも|　決して許さなかった　貴様が |　獣のしもべに　成りさがるとは……": "They call him the Roaring Thunder King He can stand in the wind of anything| I never forgave you You never forgave me| To become a servant of the beast"
+    },
+    "154": {
+        "「みじめだな……ドランドの王よ。": "You're pathetic... Durand..."
+    },
+    "155": {
+        "「若造ニハ　ワカルマイ……。|　イカナル強キ者モ　賢キ者モ……": "I don't know what you're talking about. I'm|not the strongest, I'm not the smartest..."
+    },
+    "156": {
+        "「圧倒的ナ　チカラヲ前ニシテ　コウベヲタレ…… |　甘美ナル敗北の味ヲ　知ル時ガ来ル……。": ""
+    },
+    "157": {
+        "「……何故　来た？": "... Why did you come?"
+    },
+    "158": {
+        "「貴様ノ血　貴様ノ肉……|　スベテ　ゾンガロン様ノ糧トセン！！": "Your blood, your flesh... Your flesh, your|blood, your flesh!"
+    },
+    "159": {
+        "「こんな　形で……|　終わりとうは　なかった……。": "It didn't end like this. It wasn't the end."
+    },
+    "160": {
+        "「祖国を　守れぬ　王など……|　……王に　あらず。": "A king who cannot defend his country... ... A|king..."
+    },
+    "161": {
+        "「どれほどの　人々の運命が|　ゾンガロンによって　狂わされたのでしょう。": "How many people's destinies have been turned|upside down by the Zongaron..."
+    },
+    "162": {
+        "<center>狂えよ　狂え……|我が手のひらで　踊り狂え。": "Go crazy, go crazy, go crazy... Dance in the|palm of my hand..."
+    },
+    "163": {
+        "「……最期には　我が　喰らってやろう。": ""
+    },
+    "164": {
+        "「悪鬼ゾンガロン……！": "The fiendish Zongaron...!"
+    },
+    "165": {
+        "「愚かな　オーガどもの　殺し合いを|　高みから　見物させてもらったぞ。": "I'm going to watch these stupid ogres kill|each other from up there..."
+    },
+    "166": {
+        "「ああ　愉快　愉快。 |　今　我は　満腹の心持ちよ……。": "Oh, joy... And now I am full..."
+    },
+    "167": {
+        "「誇り高き貴様が　なぜ　獣に身を落とした？": "Why did you, a proud man, turn yourself into|a beast?"
+    },
+    "168": {
+        "「俺を見ろ　ゾンガロン！|　いや…………": "Look at me, Zongaron! No..."
+    },
+    "169": {
+        "「我が父　ゾルトグリンよ！！": "My father, Zoltgrin!"
+    },
+    "170": {
+        "「ほほう……。": "Whoa..."
+    },
+    "171": {
+        "「そんな……ウソでしょう……！？": "No, no, no. No, no, no, no, no."
+    },
+    "172": {
+        "「貴様の　その腕輪……": "Your bracelet"
+    },
+    "173": {
+        "「父の誕生日に　俺が贈ったものだ。": "For my dad's birthday, I gave him..."
+    },
+    "174": {
+        "「クククク……ゾルトグリンなど|　とうに　捨てた名だ。": "Oh, shit. I've already thrown away the|Zoltgrin..."
+    },
+    "175": {
+        "「なぜですか　父上……。|　皆が　あれほど愛し　敬ったあなたが……": "Why, Father... You, whom they loved and|respected so much..."
+    },
+    "176": {
+        "「なぜ　我らを　滅ぼそうとするのですか？": "Why do you seek to destroy us?"
+    },
+    "177": {
+        "「気色悪い……父などと呼ぶな！|　我は　チカラを求め……チカラを得た。": "That's freaky... Do not call me father! I|seek the power... Power..."
+    },
+    "178": {
+        "「我にとって　真の姿とは　この姿よ……。": "For me, my true form is this..."
+    },
+    "179": {
+        "「苦しめ！　憎め！　恐怖しろ！|　その　すべてが　我のさらなる糧となる！": "Suffer! Hate! Fear! All this will be my|further food!"
+    },
+    "180": {
+        "「兄さん……。": "Brother..."
+    },
+    "181": {
+        "「……話は　城でだ。帰るぞ。": "... Words ......"
+    },
+    "182": {
+        "「……兄さんが　王家の墓を　あばいたのは|　ラーの鏡が　必要だったからなんですね。": "... Your brother ransacked the royal tombs|because he needed the Mirror of Ra..."
+    },
+    "183": {
+        "「僕は　全然　気づけなかった……。|　やっぱり　兄さんは　すごいです。": "I didn't recognize you at all. You're|amazing..."
+    },
+    "184": {
+        "「………………。": "..."
+    },
+    "185": {
+        "「父上にも……何か　理由があるのでしょうか？ |　僕らには　見せられない|　苦しみを……抱えていたのでしょうか？": "And your father... Does he have a reason for|what he's doing? Was he in pain... that he|couldn't show us? That he couldn't show us?"
+    },
+    "186": {
+        "「獣に身を落とし　祖国を滅ぼそうとするなど|　いかなる　理由があろうと　許されん。": "I will not allow you, for any reason|whatsoever, to turn yourself into a beast and|destroy your country."
+    },
+    "187": {
+        "「父は　しょせん　|　王の器では　なかったということだ。": "My father wasn't fit to be king."
+    },
+    "188": {
+        "「……王とて　人ですよ　ギルガラン。|　人並みに　苦しむこともある。": "... A king is a man, Gil... He suffers like|any other..."
+    },
+    "189": {
+        "「つらいことがあるなら　一緒に背負いたかった。": "If you're going through something hard, I|want to carry it with me..."
+    },
+    "190": {
+        "「俺を　さとしているつもりか。|　お前は　いつから　そんなに偉くなった？": "You've been treating me like... When did you|become such a big shot?"
+    },
+    "191": {
+        "「グリエ……お前ごときに　王の何がわかる？": "Grier... What do you know about the king?"
+    },
+    "192": {
+        "「背負うものがない　第二王子は |　引っ込んでいろ！！": "The second prince who has nothing to bear,|stay out of this!"
+    },
+    "193": {
+        "「アンタさ……グリエ様を|　軽んじるのも　いいかげんにしなよ。": "You... You can't disrespect Mr. Grier like|that."
+    },
+    "194": {
+        "「本当に　王を継ぐ資格が　あるのはさ|　アンタがいつも　バカにしてる……": "I mean, who really deserves to be king?| You're always making fun of me"
+    },
+    "195": {
+        "「目の前の　グリエ様なんだよ！！": "He's right in front of me, Mr. Grier!"
+    },
+    "196": {
+        "「大臣！？": "Minister!?"
+    },
+    "197": {
+        "「グリエ様が　アンタを　心配して当然だろう！": "No wonder Mr. Grier is so worried about you!"
+    },
+    "198": {
+        "「アンタの　兄さんなんだから！": "He's your brother!"
+    },
+    "199": {
+        "「何を　言っている……？": "What are you saying...?"
+    },
+    "200": {
+        "「………………。": "..."
+    },
+    "201": {
+        "「安心してください　ギルガラン。 |　僕には　王を継ぐ意志も　資格もありません。": "Rest assured, Gil... I have neither the will|nor the qualifications to succeed to the|throne..."
+    },
+    "202": {
+        "「……兄というのは　本当です。|　ただ　僕の病弱な身体では|　世継ぎに　ふさわしくなかったというだけ。": "... My brother was... It's just that I was|too sickly to be the heir..."
+    },
+    "203": {
+        "「弟と偽っていたのは　せめて|　キミのチカラに　なりたかったからですが……": "Or at least pretended to be my brother| I wanted to help you, but"
+    },
+    "204": {
+        "「これ以上　僕がいると　国を乱しかねません。|　だから……去りますね。": "If I stay here any longer, I could upset the|country. So... I'm leaving."
+    },
+    "205": {
+        "「待ちなよ　グリエ様！！": "Wait, Master Grier!"
+    },
+    "206": {
+        "「大臣　どういうことだ……。|　皆して　俺を　たばかっていたと……？": "Minister, what do you mean... You're telling|me that you've all been spying on me?"
+    },
+    "207": {
+        "「いえ……真実を　知っていたのは |　グリエ様と先王ゾルトグリン様　王妃ララリア様|　そして　アタイのみ……。": "No... Only Master Grier, the late King|Zoltgrin, Queen Laria, and Attai knew the|truth."
+    },
+    "208": {
+        "「これは　先王様の　深いお考えが|　あってのことなのです……。": "This is the result of the Prior King's|deepest thoughts..."
+    },
+    "209": {
+        "「バカにされたものだな……。": "You've been made a fool of..."
+    },
+    "210": {
+        "「俺は　ゾンガロン討伐の　支度をする。|　邪魔立てはするな。": "I'm getting ready to take on the Zongaron. I|don't want to interrupt..."
+    },
+    "211": {
+        "「あ～～～　墓場まで　持ってく気だったのに|　やっちまったよーーーー！": "Ah~~ I was going to take this to my grave,|but I fucked up!"
+    },
+    "212": {
+        "「今日の宮廷記録には　いったい|　なんて　書きゃいいんだ……。": "What the hell am I supposed to write in|today's court record..."
+    },
+    "213": {
+        "「すまないね　<pc>さん……。 |　アンタの前で　こんな　いざこざを見せてさ。|　このこと　皆には　ナイショにしておくれよ。": "I'm sorry<pc> Miss... I can't believe I'm having to watch|this happen in front of you. I don't want you|guys to know about this, so..."
+    },
+    "214": {
+        "「しっかし　ゾンガロン…… |　あの偉大なる　ゾルトグリン様を|　倒す方法なんて　見当もつかないのに……": "But, Zongaron| The great Zoltgrin| I don't even know how to beat this thing"
+    },
+    "215": {
+        "「ギルガラン様　どうすんだろね？ |　また　暴走しなきゃいいけど……。": "Master Gilgallan, what are we going to do? I|hope he doesn't get out of control again..."
+    },
+    "216": {
+        "「大臣なんて　心配事ばかりさ……。|　時々　未来の自分の　宮廷記録を |　盗み見してみたくなるよ。": "Being a minister is full of worries.|Sometimes I'm tempted to spy on my future|self's court records..."
+    },
+    "217": {
+        "「あの　大臣……|　記録を残してるって　言ってたキュ。": "Minister... He said he was keeping a|record..."
+    },
+    "218": {
+        "「もし　未来に　その記録が残っているなら|　ゾンガロンを　封印した方法も|　書いてあるんじゃ　ないキュル？": "If there's a record of this in the future,|doesn't it also tell us how they sealed the|Zongaron?"
+    },
+    "219": {
+        "「さっそく　現代の　オルセコ闘技場へ|　行ってみるっキュ！": "We're going to the modern-day Orseco arena."
+    },
+    "220": {
+        "『ムニュ大臣の宮廷記録　第二十六章』": ""
+    },
+    "221": {
+        "<center>これまでに　多くのオーガが　命を賭したが|いまだ　悪鬼ゾンガロンの封印は　完成しない。": "So many ogres have risked their lives to seal|the demon Zongaron..."
+    },
+    "222": {
+        "<center>……封印のために　最初の犠牲となったのは|その方法を見つけてきた　ギルガラン王子だった。": "... The first to be sacrificed for the seal|was Prince Gilgallan, who had found a way|to..."
+    },
+    "223": {
+        "<center>ゾンガロンの魔力は　あまりに強大で……|封印には　１００年もの年月が　かかるらしい。": "The Zongaron's magic is so powerful... It|would take a hundred years to seal it."
+    },
+    "224": {
+        "<center>どうやら　アタイが　生きているうちに|平和なオルセコを　目にすることはなさそうだ。": "Apparently, we will not see a peaceful Orseco|in my lifetime..."
+    },
+    "225": {
+        "「あの　偉そうな王子様…… |　ギルガランってヤツ　死んじゃうっキュね。": "That pompous prince... Gilgallan, he's going|to die..."
+    },
+    "226": {
+        "「そんなことより　ゾンガロンの封印に|　１００年もの時間が　かかるキュル？": "Doesn't matter. It's going to take 100 years|to seal the Zongaron."
+    },
+    "227": {
+        "「そんなことしてるうちに|　滅びの未来が　やってくるっキュ。": "And while we're at it, the future of|perdition is upon us."
+    },
+    "228": {
+        "「……あの　すみません。|　先ほど　ギルガランと　聞こえまして……。": "... Um... I just heard Gilgallan..."
+    },
+    "229": {
+        "「よかった……！　その名を知ってるなんて |　あなたは　オルセコ王国史を　研究されている|　考古学者の先生と　お見受けしました。": "Oh, good. I can't believe you know that name.|You're an archaeologist studying the history|of the kingdom of Orseco."
+    },
+    "230": {
+        "「僕は　エリガン。|　かつて　オルセコ王国の　王家の血筋であった|　グリエという男の　子孫にあたります。": "I'm E... I am a descendant of a man named|Grier, who was once of royal blood in the|kingdom of Orseco."
+    },
+    "231": {
+        "「我が家の書庫の　古い巻物の中に……|　先祖　グリエの手記が|　何万もの字で　つづられておりました。": "Among the old scrolls in the archives of our|house... The journal of my ancestor Grier,|written in tens of thousands of words..."
+    },
+    "232": {
+        "「グリエは　ギルガランを　死なせてしまった。 |　そのことを　一生　悔やんでいたようです。": "Griet had let Gilgallan die. And he regretted|it for the rest of his life."
+    },
+    "233": {
+        "「どうやら　先祖は　弟らの犠牲を出さずに |　ゾンガロンを封印する　別の手段を|　見いだしかけていたようなのです。": "Apparently, our ancestors were on the verge|of finding another way to seal off the|Zongaron without costing our brothers..."
+    },
+    "234": {
+        "「ここで会えたのも　何かの縁でしょう……。 |　どうか　これを　研究に役立ててください。": "I'm sure it's just a coincidence that we're|here... I hope you find this useful in your|research."
+    },
+    "235": {
+        "<pc>は　エリガンから|ガズバランのしるし（だいじなもの）を|受け取った！<me 60>": "<pc> has received the Seal of Ghazbaran from|Erigan!<me 60>"
+    },
+    "236": {
+        "「これは　先祖グリエが　求めていたもの……。|　しかし　手に入った時には　手遅れでした。": "This is what our ancestor Grier was looking|for... But by the time he got it, it was too|late..."
+    },
+    "237": {
+        "「僕は　先祖の手記を読んで |　いてもたっても　いられず……思いあまって|　滅んだオルセコ王国まで　やってきました。": "I read my ancestors' memoirs and I couldn't|wait to get back to them. I was so|desperate... that I traveled to the extinct|<br>|kingdom of Orseco..."
+    },
+    "238": {
+        "「あなたに出会えて　よかった……。|　何か　大切なことを　果たせたように思います。": "I'm glad I met you... I feel like I've|accomplished something important..."
+    },
+    "239": {
+        "「やれやれ……　ここにおったか。|　探したぞ　<pc>よ。 |　まずいことになった。": "Oh, dear... There you are... We found him.<pc> Oh, no. This is a bad idea."
+    },
+    "240": {
+        "「……ゾンガロンとは別の　異形の怪物が|　グレン城に　降りたったのだ。|　急いで　城へ　向かってくれ。": "... A strange creature has descended upon the|castle of the Glen... We must get to the|castle..."
+    },
+    "241": {
+        "「オギャアアーーーーーーッ！": "Ogaaaaahhhh!"
+    },
+    "242": {
+        "「耳障りな　鳴き声だ……。": "It's an annoying sound..."
+    },
+    "243": {
+        "「行け　原獣プレゴーグよ！|　本能のままに　暴れるがいい！": "Go, prehistoric beast! Let your instincts run|wild!"
+    },
+    "244": {
+        "「オギャアアーーーーーーーーッ！": "Ogaaaaahhhh!"
+    },
+    "245": {
+        "「オーグリードは　我の大地。|　ここで暴れていいのは　我のみよ……。": "Oogreed is me... I am the only one who can|run amok here..."
+    },
+    "246": {
+        "「……ゲテモノは　ウマいというが|　どうやら　真実らしいな。": ""
+    },
+    "247": {
+        "「昔日のチカラが　よみがえっていく……。 |　コイツを　消化しきれば|　封印による消耗も　いえるだろうよ。": "The power of the past is coming back to me.|If I can digest this, the seal will no longer|wear off."
+    },
+    "248": {
+        "「１３００年分の　復讐だ。|　震えて　待つがいい…………。": "1300 years... Tremble and wait..."
+    },
+    "249": {
+        "「あの怪物を　倒してくれたのだな。|　重ねて　礼を言うぞ　<cs_pchero>……。": "You took down that monster... I want to thank|you again.<cs_pchero>..."
+    },
+    "250": {
+        "「……して　<cs_pchero>よ。|　先刻は　聞きそびれてしまったが|　ゾンガロンの封印について　何かわかったか？": " Do<cs_pchero>Hey. I didn't get a chance to ask you|earlier, but what have you learned about the|Zongaron seal?"
+    },
+    "251": {
+        "「封印に　１００年の年月が　かかるだと！？|　その間に　大地は荒廃しきるぞ……。": "It will take a hundred years to seal it!|During that time, the earth will be|devastated."
+    },
+    "252": {
+        "「オルセコ王子の　子孫を　名乗る者が |　別の封印手段があると　申したのは　確かか？": ""
+    },
+    "253": {
+        "「……これは　導きではあるまいか。 |　その方法を　グリエとやらに聞けば|　悪鬼に　対抗できるやもしれぬ。": "... This is a sign... If we can ask Grier how|to do this, then maybe we can fight the|demon..."
+    },
+    "254": {
+        "「<cs_pchero>よ。 |　今一度　過去に戻り　グリエに会ってくるのだ！": "<cs_pchero>Go back in time! You must go back in time and|see Grier!"
+    },
+    "255": {
+        "「にゃ～ん！": "Meow!"
+    },
+    "256": {
+        "「ちっ……獣すら　俺をあざわらうか。": "Damn... Even the beast mocked me..."
+    },
+    "257": {
+        "「王になって　国を背負った気でいたが|　これじゃまるで　ハリボテの王だな……。": "I thought I was a king, that I was carrying|the kingdom on my shoulders, but now I'm just|a king in the shadows..."
+    },
+    "258": {
+        "「貴様……何を　見ている。": "You... What are you looking..."
+    },
+    "259": {
+        "「俺を心配して来たのなら　無用だ。|　あの程度で　俺は揺るがん。": "If you're here because you care about me...|I'm not gonna let something like that shake|me."
+    },
+    "260": {
+        "「なにっ　グリエを探している？": "What, you're looking for Grier?"
+    },
+    "261": {
+        "「……お前も　あいつの行方を　知らんのか。|　クソッ　腹だたしい……。": "... You don't know where he is. God, I'm so|angry."
+    },
+    "262": {
+        "「国王が　命じる。|　あんなヤツは　放っておいて　俺に手を貸せ。": "The king... I don't want to have to deal with|him. I want to..."
+    },
+    "263": {
+        "「ちょうど　使える手ゴマが|　ほしかったところだ。": "I was just looking for a handheld sesame seed|to use..."
+    },
+    "264": {
+        "「貴様も　知ってのとおり……|　ゾンガロンは　この国の先王だ。|　父の身に何が起こったのかを　知らねばならん。": "You know as well as I do... Zongaron is this|country's... I need to know what happened to|my father."
+    },
+    "265": {
+        "「城の地下に　父の部屋が　残されている。 |　まずは　そこを探るぞ。": "My father's room was left in the basement of|the castle. We'll start there."
+    },
+    "266": {
+        "「……どうやら　当たりらしいな。": "... Looks like we got a hit..."
+    },
+    "267": {
+        "<center>……愛しき妻　ララリアよ。|お前が逝ってから　我は老いてしまった。": "... My dear wife, Lara... I've grown old|since you left me..."
+    },
+    "268": {
+        "<center>ドランド王国は　強い。|毎夜のように　軍略をめぐらせたが|あの堅固なる城を　攻略する手だてがない。": "The kingdom of Durand... Night after night,|the kingdom of Durand waged war, but there|was no way to conquer that mighty castle."
+    },
+    "269": {
+        "<center>このままでは　子らの世代に|戦争を　継がせることになってしまう。": "If we don't do something, we'll be handing|down the war to our children..."
+    },
+    "270": {
+        "<center>それだけは　何としても　避けたい。": "I can't let that happen. I can't let that|happen."
+    },
+    "271": {
+        "「………………。": "..."
+    },
+    "272": {
+        "<center>ギルガランは　我の思い描いた夢のままに|しんのある　強きオーガとなった。": "Gilgalen is the dream I had in my head... of|a new, stronger Ogre."
+    },
+    "273": {
+        "<center>そして……長くは　生きられないと言われた|グリエは　今も　弟を優しく支えている。": "And... Grier was told he didn't have long to|live, but he still supported his brother with|tender care..."
+    },
+    "274": {
+        "<center>我は　あの子に　ひどいことをした。|それなのに　すべてを許し　いつくしむ心根は|……お前に　よく似ている。": "I've done terrible things to that boy. And|yet, the way you forgive and care for him...|I'm a lot like you."
+    },
+    "275": {
+        "<center>我は　息子らに　平和を遺したい。|そのための手だてを　ひとつだけ　見つけた。": "I will leave peace to my sons... And I only|see one way to do that."
+    },
+    "276": {
+        "<center>雄峰ランドンの　山頂に眠る　戦神が|人智を超えた　チカラを与えてくれるとの|古き言い伝え……。": ""
+    },
+    "277": {
+        "<center>我は　この言い伝えを　たどって|戦神の守護者に　会いにゆく。": "I will follow this legend to the guardian of|the war god..."
+    },
+    "278": {
+        "<center>息子らに　平和を遺すための　チカラをくれるなら|神にでも　悪魔にでも　すがろうではないか。": "If you give me the strength to leave peace to|my sons, I will defy God or the devil..."
+    },
+    "279": {
+        "「……見損なった。|　息子　息子と……そんな　そぶりなど|　一度として　見せなかったではないか。": "... I missed... My son, my son... You've|never shown any sign of..."
+    },
+    "280": {
+        "「これでは　王失格だ……。|　ゾンガロンに　なるべくして　なったんだ。": "I'm not fit to be king. Zongaron was meant to|be..."
+    },
+    "281": {
+        "「……バカな　父親だ。": "... Stupid ..."
+    },
+    "282": {
+        "「……雄峰ランドンの　戦神。|　おそらくは　そいつが　元凶だ。": "... ...of the great peak of Landon... I think|he's the one..."
+    },
+    "283": {
+        "「城の前に　馬車を　用意させる。|　俺たちも　戦神の守護者とやらに会いにいくぞ。": "We've got a carriage outside the castle...|We're going to see the War God's guardian..."
+    },
+    "284": {
+        "「……ここは　不浄の地。|　そなたたちのような者が　来る場所では|　ありませんわ。": "... This is not... This is not the place for|people like you..."
+    },
+    "285": {
+        "「お前が　戦神の守護者か？": "You're the War God's protector?"
+    },
+    "286": {
+        "「そなたは……よく　似ていますね……。": "And you... You look very much alike..."
+    },
+    "287": {
+        "「私は　戦神の……封印の守護者…… |　六聖陣がひとり　魔封剣姫。": "I am the God of War... Guardian of the|Seal... One of the Six Holy Families..."
+    },
+    "288": {
+        "「数年前　ここを訪れた者が　いたはずだ。": "There was a man who came here a few years|ago..."
+    },
+    "289": {
+        "「……確かに　戦神のチカラを求めて|　この地を訪れた　オーガの王がおりました。": "... Indeed, there was an ogre king who came|to this land to seek the power of the God of|War..."
+    },
+    "290": {
+        "「その者は　険しい雪道に　行き倒れており|　私が　介抱していたのですが……": "He was lying in the snow on a steep path| I was the one who took care of him"
+    },
+    "291": {
+        "「目を離したすきに　姿を消してしまったのです。": "I took my eyes off her and she just|disappeared..."
+    },
+    "292": {
+        "「…………そして　オーグリードに|　ゾンガロンが　出現した。": "... And Aughrid and Zongaron..."
+    },
+    "293": {
+        "「……いかにも。": "...い..."
+    },
+    "294": {
+        "「どこで　まかり間違ったのか|　そなたらの伝承に　戦神から　人智を超えた|　チカラを得られると　記されているそうですね。": "I don't know where I went wrong, but in your|folklore, it is said that the God of War can|give you powers beyond human understanding..."
+    },
+    "295": {
+        "「しかし　それは　大いなる誤りです。": "But it's a big mistake..."
+    },
+    "296": {
+        "「戦神とは　戦禍の邪神…… |　人に害をなし　この世に災厄を振りまく存在。": "The God of War is the evil god of war... He|harms people, he wreaks havoc on the world..."
+    },
+    "297": {
+        "「我が父は　邪神に魅入られたと？": "You think my father was bewitched by a demon?"
+    },
+    "298": {
+        "「戦禍の邪神は　自らを封印した |　オーガの神　ガズバラン……ひいては|　オーガという種族を　憎んでいます。": "The evil god of war has sealed himself|away... as the ogre god Ghazbalan... And in|turn, hates the Ogre race..."
+    },
+    "299": {
+        "「オーガたちを　滅ぼすためなら |　いかなる策謀とて　こうじるでしょう。": "We will do whatever it takes to destroy the|ogre..."
+    },
+    "300": {
+        "「おそらく　あのオーガの王は|　邪神と契約し　チカラを得る代わりに|　オーガを憎む心を　植えつけられたのです。": "Perhaps the Ogre King made a pact with a|demon god... and instead of gaining power...|he was instilled with a hatred of the Ogre."
+    },
+    "301": {
+        "「……それが　ゾンガロンの真実か。": "... That's Zongaron's..."
+    },
+    "302": {
+        "「俺は　ゾンガロンを　倒すすべを探している。|　知恵を　授けてほしい。": "I'm looking for a way to defeat the Zongaron.|Give me your wisdom."
+    },
+    "303": {
+        "「あれは　邪神の加護を受けた存在……|　倒すことは　難しいですが|　封ずることなら　かないましょう。": "It's a being with the blessings of an evil|god... Defeating it is difficult, but|containing it is possible..."
+    },
+    "304": {
+        "「ただし……|　封印の術には　術者の命を使います。|　そして　１００年の年月が　かかるでしょう。": "But... The art of sealing requires the life|of the sorcerer... And it will take 100|years..."
+    },
+    "305": {
+        "「あなたは　自らの命を　捧げられますか？": "Are you willing to give your life?"
+    },
+    "306": {
+        "「先王の罪は　現王の　俺の罪でもある。|　……覚悟はできている。": "The sins of the last king are my sins as the|present king. I'm... I'm ready..."
+    },
+    "307": {
+        "「よいでしょう……。|　では　魔封の術を授けましょう。": "All right... Then I'll grant you the Demon|Sealing Technique..."
+    },
+    "308": {
+        "「……オーグリードに　光あらんことを。": "... Let there be light in the augury..."
+    },
+    "309": {
+        "「<pc>。 |　お前のおかげで　真実にたどり着けた。": "<pc> . You got me to the truth..."
+    },
+    "310": {
+        "「俺は　オルセコに戻り　戦の支度をする。": "I'm going back to Orseco to get ready for|battle."
+    },
+    "311": {
+        "「すまぬが　最後の頼みだ。 |　……グリエを探しだし　連れ帰ってほしい。": "I'm sorry. Last time... ... I found Grier,|and I brought him back..."
+    },
+    "312": {
+        "<pc>と　ギルガランは|馬車で　オルセコ王国へ　帰った……。": "<pc> And Gilgallan returned by carriage to the|kingdom of Orseco..."
+    },
+    "313": {
+        "「……探しにきてくださったんですね。": "... You came looking for me..."
+    },
+    "314": {
+        "「オルセコの　城を出てから…… |　僕は　ずっと　父の心を|　取り戻すすべを　探していました。": "Ever since we left Orseco's castle... I've|been trying to find a way to get my father's|heart back."
+    },
+    "315": {
+        "「ちょっとした　心当たりがあって|　各地に残る　オーガの誕生にまつわる神話を|　めぐっていたのです。": "I've been poking around some of the local|myths about the birth of the Ogre..."
+    },
+    "316": {
+        "「ですが　当てが外れました。": "But I was wrong..."
+    },
+    "317": {
+        "「やみくもに　探しても……|　本当に　ほしいものは　手に入りませんね。": "You can't just... You can't get what you|really want..."
+    },
+    "318": {
+        "「兄さん……ギルガランは　どうしていますか？": "Brother... How is Gilgallan?"
+    },
+    "319": {
+        "「自らを　犠牲にしてでも |　ゾンガロンを　封じる術……？": "The art of sealing off the Zongaron, even at|the cost of your own life?"
+    },
+    "320": {
+        "「そんなの……絶対に　させない。": "That's not... I would never..."
+    },
+    "321": {
+        "「よかったら　すこし　お話ししましょう。": "I'd like to talk to you for a minute..."
+    },
+    "322": {
+        "「僕が生まれた時　父　ゾルトグリンは|　たいそう　喜んだそうです。": "My father, Zsoltgrin, was so happy when I was|born..."
+    },
+    "323": {
+        "「父にとって　待望の跡継ぎでしたから。": "He was my father's long awaited heir..."
+    },
+    "324": {
+        "「ですが　僕は……赤ん坊の頃から　身体が弱く |　立派なオーガに　育つ見込みがなかった。": "But I was... I've been weak since I was a|baby, and I don't think I'll grow up to be a|great ogre."
+    },
+    "325": {
+        "「４歳になる頃　ギルガランが生まれると|　父は　僕を養子に出しました。": "By the time I was four, when Gilgallan was|born, my father gave me up for adoption..."
+    },
+    "326": {
+        "「幼いながらに　その意味を　察しましたし|　すこしだけ　父を　恨みました。": "Even as a child, I knew what that meant, and|I resented my father a little..."
+    },
+    "327": {
+        "「それから　何年かして　僕は|　ギルガランの弟というていで　城に戻りました。": "Some years later, I returned to the castle as|Gilgallan's brother..."
+    },
+    "328": {
+        "「頑健で　身体も大きかった　ギルガランは |　子供の頃から　あんな感じで……|　生意気で　傲慢で　嫌なやつでした。": "He was big and strong, and Gilgallan had|always been like that, even as a child. He|was cocky, arrogant, a jerk."
+    },
+    "329": {
+        "「でも　別々に育ったってのに　あいつは|　僕を弟だと信じて　いつも守ろうとしてくれた。": "But even though we grew up apart, he always|believed that I was his brother, and he was|always trying to protect me."
+    },
+    "330": {
+        "「あいつは　誰かを守ることを　ためらわない。|　その姿に……僕は　王の器を見ました。": "He didn't want to protect anyone. I saw... I|saw the makings of a king."
+    },
+    "331": {
+        "「それ以来　僕の夢は　さだまりました。": "Ever since then, my dreams have been about|Sadamari..."
+    },
+    "332": {
+        "「……ギルガランを　立派な王に育てる。": "... Gilgallan will be a great king..."
+    },
+    "333": {
+        "「だから　弟を　死なせるわけにはいきません。": "So I can't let my brother die..."
+    },
+    "334": {
+        "「何としてでも　オーガ族の神器…… |　ガズバランのしるしを　手に入れないと……。": "I have to get my hands on the sacred artifact|of the Ogre tribe... The sign of Gazbalan..."
+    },
+    "335": {
+        "グリエに　ガズバランのしるしを|渡しますか？<yesno><close>": "Do you want to give Griet the sign of|Gazvalan?<yesno><close>"
+    },
+    "336": {
+        "「ほんの　ささいなことでも　かまいません……。|　何か　心当たりはありませんか……？": "Even if it's just a small thing... Do you|have any idea what it might be?"
+    },
+    "337": {
+        "グリエに　ガズバランのしるしを|渡しますか？<yesno><close>": "Do you want to give Griet the sign of|Gazvalan?<yesno><close>"
+    },
+    "338": {
+        "<pc>は　グリエに|ガズバランのしるしを　渡した！": "<pc> has given Grier the Mark of Gazbalan!"
+    },
+    "339": {
+        "「そんな……まさか……|　どこで　これを……！？": "No, no, no, no. No, no, no, no. Where did|you...?"
+    },
+    "340": {
+        "「いや　そんなことは　どうでもいい。|　ありがとうございます　<pc>さん……。": "No, that's not what I... Thank you. Thank|you.<pc> Miss..."
+    },
+    "341": {
+        "「……これで　弟を救える。": "... Now you can take your brother..."
+    },
+    "342": {
+        "「どうか　急いで　オルセコ王家の墓に|　来ていただけますか？|　すべては　そこで　お話しします。": "Would you please hurry and come to the Tomb|of the Orseco Kings? I'll tell you all about|it..."
+    },
+    "343": {
+        "「オーガよ　忘るるな。|　胸の内に宿る　炎の音を……。": "Remember, ogre... The sound of fire in your|heart..."
+    },
+    "344": {
+        "「<pc>さん。|　この壁画には　オーガの誕生にまつわる|　神話が　描かれているのです。": "<pc> Mr. This mural depicts the myth of the birth|of the Ogre..."
+    },
+    "345": {
+        "「……いわく　我らオーガは　怪物の身体に |　人の心を宿すという　試みで生みだされたと。": "... It is said that we, the ogre, were|created in an attempt to put a human heart|into the body of a monster."
+    },
+    "346": {
+        "「原初の頃は　魔物と変わらぬ　粗暴さでしたが|　ガズバラン神がもちいた　とある御業によって|　心を制御し　ひとつの種族となったとか。": "In our primordial days, we were no better|than demons... but through a trick the god|Ghazbalan used to control our minds, we|<br>|became one race..."
+    },
+    "347": {
+        "「ゾンガロンの使う　人を獣となす光は|　オーガを　原初の状態へ　回帰させるもの……。": "The light that Zongaron uses to turn man into|beast... will return the ogre to his|primordial state..."
+    },
+    "348": {
+        "「ならば　ガズバラン神のもちいた　御業によって|　心を　取り戻すことができるはずです。": "Then perhaps the work of Ghazbaran can|restore your mind..."
+    },
+    "349": {
+        "「僕は　ガズバラン神の伝承を　読み解くために|　ガズバランのしるしを　探していたのです。": "I was looking for the sign of Gazbalan to|decipher the lore of the god Gazbalan..."
+    },
+    "350": {
+        "「これは……": "This is"
+    },
+    "351": {
+        "「そうか……心を　制御した御業とは|　踊りなんだ……！": "So... So the work of the mind is to control|the dance."
+    },
+    "352": {
+        "「不思議ですね……。 |　まるで　太古の昔から知っていたように|　脳裏に　戦の舞が　思い描かれました。": "It's strange... It's as if I've known her|since ancient times, and I can picture the|war dance in my mind..."
+    },
+    "353": {
+        "「オーガを人と成した　この舞があれば|　ゾンガロンも　心を取り戻すはずです！": "With this dance, which turned an ogre into a|man, Zongaron will have his heart back!"
+    },
+    "354": {
+        "「どうしたんだい　猫ちゃん……？": "What's the matter, kitty...?"
+    },
+    "355": {
+        "「これは……ギルガランの字……。": "This is... The Gilgallan letters..."
+    },
+    "356": {
+        "<center>グリエよ　お前には　心から失望した。|俺を　ずっと昔から　たばかっていたとはな。": "Grier, you're a heartbreaker. You've been|looking out for me for a long time."
+    },
+    "357": {
+        "<center>だが　俺は　いつも考えていた。|お前のような　穏やかな者が　王であったら|どれほど　よい国を作ったろうと。": "But I've always thought... I've always|wondered what a better country we'd have if|we had a gentleman like you for a king."
+    },
+    "358": {
+        "<center>……結局　俺は　王の器ではなかった。": "... After all, I'm not fit to be king."
+    },
+    "359": {
+        "<center>ならば　俺は　俺のできることを果たそう。|オルセコを　任せたぞ。": "Then I'll do what I can... I'll take care of|Orseco."
+    },
+    "360": {
+        "「……あのバカ　死ぬ気だ。": "... That idiot died..."
+    },
+    "361": {
+        "「<pc>さん　お願いがあります。|　ギルガランは　ひとりで|　ゾンガロンの封印に　向かったのでしょう。": "<pc> Miss... I need a favor... Gilgalen went alone|to seal Zongaron..."
+    },
+    "362": {
+        "「僕の弟を……助けてやってください。": "My brother... I need you to help him."
+    },
+    "363": {
+        "「……心より　感謝いたします。": "... Thank you from the bottom of my heart..."
+    },
+    "364": {
+        "「ゾンガロンは　この大陸の北端にある|　黄昏岬を　ねぐらとしています。": "The Zongaron roost at Cape Dusk, on the|northern tip of this continent."
+    },
+    "365": {
+        "「大陸の北へは　ドランド平原の港から |　船が　出ています。|　話は通しておくので　お使いください。": "There are ships sailing to the north of the|continent from ports on the Drang plains...|I'll keep you posted. You can use this..."
+    },
+    "366": {
+        "「……このご恩　一生　忘れません。|　僕も　僕のやるべきことを果たしたら|　すぐに　後を追います。": "... I'll never forget what you did for me.|And as soon as I do what I have to do..."
+    },
+    "367": {
+        "「父王　ゾルトグリンよ……。": "My father, King Zoltgrin..."
+    },
+    "368": {
+        "「俺は　あなたに　憧れていた。": "I admire you..."
+    },
+    "369": {
+        "「だからこそ……無念だ。": "That's why ......"
+    },
+    "370": {
+        "「親父が　敗れる姿は　見たくなかったよ。": "I don't want to see my dad lose."
+    },
+    "371": {
+        "「いつまで　家族ごっこを続けるつもりだ？ |　ゾルトグリンの意志など　もはや　存在せん。": "How long do you think you can keep playing|family? The will of Zoltgrin no longer|exists..."
+    },
+    "372": {
+        "「貴様も　すべてを忘れ　獣となれ。": "You've forgotten everything. You're a beast."
+    },
+    "373": {
+        "「あまり　見くびるなよ。": "I don't know..."
+    },
+    "374": {
+        "「誰が　来いと言った……。": "Who said anything about coming..."
+    },
+    "375": {
+        "「つけあわせが　増えたところで　変わらん。|　まとめて　喰らうのみよ！": "You know, when you've got more than one|combination, it's... I'm gonna eat it all!"
+    },
+    "376": {
+        "「せめて　最期くらいは　王として散ろうか。": "At least in the end, he'll be a king."
+    },
+    "377": {
+        "「グハハハ……。|　追いつめられた獣は　あなどれんな。": "Guhahahaha... A hunted beast can be..."
+    },
+    "378": {
+        "「それでこそ　我がエモノに　ふさわしい。 |　そろそろ　本気で狩ってくれよう。": "That's what makes you worthy of my... I think|it's time to get serious."
+    },
+    "379": {
+        "「ギルガラン……ッ！": "Gilgallan... No!"
+    },
+    "380": {
+        "「グリエ　お前……。": "Grier, you..."
+    },
+    "381": {
+        "「よかった　間に合った……。": "Oh, thank God. We're just in time..."
+    },
+    "382": {
+        "「ギルガラン様ーーー！！": "Master Gilgallan!"
+    },
+    "383": {
+        "「オルセコのために　命をなげうつとはな。": "Giving up his life for Orseco..."
+    },
+    "384": {
+        "「ギルガラン様は　ちゃんと民を想ってたんだ。": "Lord Gilgallan was thinking of his people..."
+    },
+    "385": {
+        "「お前たち……。": "You guys..."
+    },
+    "386": {
+        "「皆さん　今こそ　戦の舞を！": ""
+    },
+    "387": {
+        "「グオオオオオオオオオオ……": "Gu-o-o-o-o-o-o-o"
+    },
+    "388": {
+        "「息子……たちよ……": "Son Standing"
+    },
+    "389": {
+        "「……苦労を……かけた。|　これ以上　我の愛するものを……壊させはせん。": "... Hard work. ...... No more of what I|love... I will not let you destroy..."
+    },
+    "390": {
+        "「この意識　長くはもたぬ……|　我が　こやつを　抑えられるうちに……": "This consciousness, it won't last| While I can still control him"
+    },
+    "391": {
+        "「……我が魂を　封印のくさびとせよ！": "... Let my soul be the wedge that seals it!"
+    },
+    "392": {
+        "「……あなたは　やはり　王だった。": "... You are, after all, the king..."
+    },
+    "393": {
+        "「グリエ……？": "Grier...?"
+    },
+    "394": {
+        "「……ギルガラン……そこにいるの？": "... Gilgallan... Are you there?"
+    },
+    "395": {
+        "「なんでだよ……。": "Why the hell not..."
+    },
+    "396": {
+        "「ねえ……覚えているかい？": "Hey... Do you remember me?"
+    },
+    "397": {
+        "「兵士たちが　僕のこと　からかった時……": "When the soldiers made fun of me"
+    },
+    "398": {
+        "「キミが飛んできて　彼らを蹴散らした。|　そして……言ったんだ。": "You fly in, you kick them in the... And|then... Say..."
+    },
+    "399": {
+        "「お前の思慮深さは……俺にはないものだ。": "Your thoughtfulness... I don't have..."
+    },
+    "400": {
+        "「俺には　俺のできることが…… |　お前には　お前のできることがある……って。": "There are things I can do... There's|something you can do. ....."
+    },
+    "401": {
+        "「あれは　ちょっと……救われた。": "That was a little... Oh, my God."
+    },
+    "402": {
+        "「キミは　ぶっきらぼうだけど|　……誰より　人を　いとおしんでいる。": "You may be blunt, but... You care about|people more than anyone."
+    },
+    "403": {
+        "「キミは……いい王になる。": "You are... Good king..."
+    },
+    "404": {
+        "「……そばで　見ていたかった……な……": "I wish I wish I could have been there to see You know"
+    },
+    "405": {
+        "「お前は　心配しすぎなんだよ……": "You worry too much, you know"
+    },
+    "406": {
+        "「…………バカ兄貴。": "...バ..."
+    },
+    "407": {
+        "「……さあ　オルセコへ　帰ろう。": "... Let's go to Olseco..."
+    },
+    "408": {
+        "「……皆に　礼を言おう。": "... Thank you..."
+    },
+    "409": {
+        "「そなたたちが　命を懸けて　国を救ったこと|　俺は　生涯　忘れまい。": "I'll never forget how you risked your lives|to save our country."
+    },
+    "410": {
+        "「俺は　いまだ　未熟な王だが……|　つねに　おのれに問いつづけると　誓おう。": "I may not be a king yet... But I always ask|myself..."
+    },
+    "411": {
+        "「真の強さとは　何か……|　真の王とは　何かを。": "What is true strength... A true king..."
+    },
+    "412": {
+        "「俺は　これからも　オルセコを守りぬく。 |　どうか　チカラを貸してくれ。": "I will continue to protect Orseco... I need|your help..."
+    },
+    "413": {
+        "「そして　獅子門の難民たちにも　世話になった。": "And to the refugees at the Lion's Gate, we|are indebted..."
+    },
+    "414": {
+        "「ゾンガロンの脅威は　消えたわけではない。 |　そのため　封印を見張る　勇士の村を作りたい。": "So the threat of the Zongaron is gone. That's|why we've created a village of heroes to|guard the seal..."
+    },
+    "415": {
+        "「オーグリードを　守りぬく役割……|　そなたらに　頼むぞ。 |　これをもって　オーグリードの盾の盟約とする！": "I am the protector of Oogreed... To you...|This is the pact of the Oogreed Shield!"
+    },
+    "416": {
+        "「さて　<pc>よ……。": "now<pc> よ..."
+    },
+    "417": {
+        "「お前には　兄ともども　世話になった。|　心より　感謝している。": "My brother and I are indebted to you. I'm so|grateful."
+    },
+    "418": {
+        "「物では　想いを伝えるに足らんが……|　これを　お前の旅に　役立ててくれ。": "Material things are not enough to convey my|feelings, but... But I hope this will help|you on your journey."
+    },
+    "419": {
+        "「グリエは　本当に　生意気な弟で……|　いつも　見透かしたような　目をしているのが|　憎たらしかった。": "Grier is a real cheeky little brother. He's|always got this look in his eye that's|just..."
+    },
+    "420": {
+        "「ずっと前から……|　兄として　見守っていてくれたんだな。": "For so long... You've been watching over me|as a brother..."
+    },
+    "421": {
+        "「お前は　グリエと同じ　優しさを持っている。 |　それは……俺には　ないものだ。": "You have the same kindness that Grier has...|It's just... I don't have..."
+    },
+    "422": {
+        "「……大切にしてくれ。": "... Cherish..."
+    },
+    "423": {
+        "「この鏡にも　世話になったな。 |　ゾンガロンの封印に　役立つなら|　後ほど　獅子門の者らに　届けるとしよう。": "I'm indebted to you for this mirror... If it|can help us seal off Zongaron, we'll send it|to the Lion's Gate later."
+    },
+    "424": {
+        "「……動物に好かれぬのは　直らんな。": "... Animals don't like me. It's just..."
+    },
+    "425": {
+        "「ようやく　元の姿に　戻れたわっ！！|　猫背になっちゃうかと　思った！": "I'm finally back to my old self! I thought I|was going to hunch over!"
+    },
+    "426": {
+        "「<pc>　また　会えたわね！": "<pc> It's good to see you again!"
+    },
+    "427": {
+        "「お前は……人間だったのか……。": "You were... You're human..."
+    },
+    "428": {
+        "「びっくりさせて　ごめんなさい　王子様！ |　私　エテーネ王宮が　異形獣に襲われた時|　時渡りを　使ってしまったみたいで……": "I'm sorry I startled you, my prince. I think|I used my time travel powers when the|Xenomorphs attacked the royal palace of|<br>|Etaine."
+    },
+    "429": {
+        "「この時代に　来てしまったの。 |　それで　さまよってるうちに　ゾンガロンに|　出くわして　例の光で　獣にされちゃって。": "I came to this time... And while I was|wandering, I ran into a Zongaron, and the|light turned me into a beast..."
+    },
+    "430": {
+        "「……言っている意味は　よくわからぬが|　<pc>の　知り合いなら|　再会できて　よかったな。": " I don't know what you're talking about|<pc> It's good to see you again..."
+    },
+    "431": {
+        "「<pc>よ……俺は　これから|　葬儀の支度がある。 |　いつの日か　また　会おう。": "<pc> Well... I'm going to prepare for the|funeral... Someday, I'll..."
+    },
+    "432": {
+        "「ねえ　<pc>…… |　あなた　この時代に　いるってことは|　時渡りが　できるのよね？": "hey<pc> ... If you're in this time, you must be able|to travel through time, right?"
+    },
+    "433": {
+        "「あら　この子……魔法生物かしら？": "Oh, my God. Is he... A magical creature?"
+    },
+    "434": {
+        "「どうやら　コイツは |　ボクのことを知ってた　怪しいほうの|　王女様じゃ　なさそうっキュね。": "Apparently, this isn't the princess who knew|about me... the weird one."
+    },
+    "435": {
+        "「なかなか　面倒なことに　なったキュ。|　……かくなる上は　仕方ないキュル。|　コイツには　すべてを伝えておくっキュ！": "It's going to be a lot of trouble... ...|There's no way around it... I'll tell him|everything!"
+    },
+    "436": {
+        "「まさか　あなたが　エテーネの民の末裔で|　時渡りで　世界を救おうとしてるなんて……。": "I had no idea you were a descendant of the|people of Etaine, trying to save the world|through time."
+    },
+    "437": {
+        "「えらい　えらいわっ　<pc>！|　私　感動しちゃったわ！": "Oh, my God Oh, my God<pc> Oh, my God! I'm so impressed!"
+    },
+    "438": {
+        "「私には　もう　帰る場所がないから……|　よかったら　あなたを手伝わせて！": "I have nowhere else to go, so... I'd like to|help you, if you'll let me."
+    },
+    "439": {
+        "「この王女様　なかなかに　優秀な|　時渡りのチカラを　秘めてるキュ。|　コツさえつかめば　一緒に　時を渡れるっキュ。": "This princess has quite the gift for time|travel... Once you get the hang of it, we can|travel through time together..."
+    },
+    "440": {
+        "「それなら　<pc>の時代に|　行ってみたいわ！": "If so<pc> I'd love to go back in time!"
+    },
+    "441": {
+        "「時間設定……現代。|　エテーネルキューブ　起動キュ！": "Time setting: ..... Etener Cube Activate Cu!"
+    },
+    "442": {
+        "「うーん　なんだか　クラクラする？|　お星さまが　まわってる？": "Hmm. Are you feeling a little dizzy? Are the|stars spinning?"
+    },
+    "443": {
+        "「<pc>よ　帰ったか！|　なんだ　その娘は……？": "<pc> Hey, you're back! What's that girl...?"
+    },
+    "444": {
+        "「……まぁよい。|　そなたが　何をしてきたかは　知っておる。": "... I know... I know what you've been|doing..."
+    },
+    "445": {
+        "「今まさに　グレン城が|　ゾンガロンに　襲われておる。": "At this very moment, Castle Glen is under|attack by the Zongaron..."
+    },
+    "446": {
+        "「急ぎ　選王の儀礼場へ　向かってくれ！": "Make haste to the Elected King's Ceremonial|Grounds!"
+    },
+    "447": {
+        "「くっ……|　これが　オーグリードの　伝説の魔獣か。": "Oh... This is what the legend of Aughrid..."
+    },
+    "448": {
+        "「ああ　待っていたぞ……。|　ようやく　すべて　思いだしたわ。": "Oh, I've been waiting for you... I finally|remember everything..."
+    },
+    "449": {
+        "「１３００年前は　よくも　封印してくれたな。|　<cs_pchero>よ……。": "1,300 years ago, how dare you seal up this|place...<cs_pchero>よ..."
+    },
+    "450": {
+        "「オルセコの王子を　この手で |　引き裂けなかったことは　心残りだが……": "With my own hands, the prince of Orseco| I'm sorry I couldn't tear you apart, but"
+    },
+    "451": {
+        "「代わりに　貴様を　引き裂いて|　喰ろうてやろう！！": "Instead, I'm going to rip you apart and eat|you!"
+    },
+    "452": {
+        "「グッ……グウ…… |　な…なんだ……？": "Ggh... Ggh... Wha...? What the...?"
+    },
+    "453": {
+        "「我の腹を　食い破るのは　誰だ！？": "Who will devour my belly?"
+    },
+    "454": {
+        "「グワアーーーーーーーーーーー！！！": "Gwaaaaahhhh!!!!"
+    },
+    "455": {
+        "「アハハ……アハハ……": "Ahahaha Ahahaha"
+    },
+    "456": {
+        "「ネエ　遊ボ……？": "Nay, youbo...?"
+    },
+    "457": {
+        "「なんだ……？|　急に　姿が変わったぞ？": "What the...? What's with the sudden change in|appearance?"
+    },
+    "458": {
+        "「まさか……自らが喰らった魔獣に|　身体を　奪われたのか。": "You don't think... The Hexenbiest that took|her body..."
+    },
+    "459": {
+        "「ミンナ　ボクト　遊ボーヨ！": "Minna, Vokto, play boyo!"
+    },
+    "460": {
+        "「この光はっ！？": "What's that light?"
+    },
+    "461": {
+        "「……戦の舞だ！": "... The war dance!"
+    },
+    "462": {
+        "「ランガーオ村に伝わる　史書にいわく。|　オルセコ王　ギルガランの治世…… |　<cs_pchero>と名乗る　旅人あらわる。": "In the village of Langlao, there is a book of|history... The reign of Gilgallan of|Orseco...<cs_pchero>A traveler who calls himself..."
+    },
+    "463": {
+        "「その者　オルセコの兄弟の　心を結び|　いにしえの戦の舞を　よみがえらせ|　ゾンガロンを　封印せしめん……。": "He will unite the hearts of the brothers of|Orseco to revive the ancient war dance and|seal the Zongaron..."
+    },
+    "464": {
+        "「<cs_pchero>よ……。|　そなたの紡いだ絆が　この舞を伝えたのだ。": "<cs_pchero>Yo... The bonds you have forged will carry|this dance..."
+    },
+    "465": {
+        "「………………？": "...？"
+    },
+    "466": {
+        "「<cs_pchero>よ……今こそ|　オーグリードの因縁に　決着をつける時！": "<cs_pchero>Well... It's time to end this Augurid fiasco!"
+    },
+    "467": {
+        "「ヤツを　完全に　打ち滅ぼすのじゃ！": "We must destroy him once and for all!"
+    },
+    "468": {
+        "「……我らの　勝利だ！！": "... We have won!"
+    },
+    "469": {
+        "「<cs_pchero>よ……。|　ゾンガロンを討った　そなたのはたらき……": "<cs_pchero>You... You have defeated Zongaron. Your|work..."
+    },
+    "470": {
+        "「このオーグリードにて　とこしえに|　語り継がれるに　ふさわしい！": "Worthy to be spoken of in this august land|for all time!"
+    },
+    "471": {
+        "「あの　時の異分子……。 |　来たるべき未来を　おびやかしかねんな。": "An alien from that time... A threat to the|future to come..."
+    },
+    "472": {
+        "「この者を……キズつけさせはせん！": "Let him... I won't let you hurt him!"
+    },
+    "473": {
+        "「いったい　どういうこと……？ |　なぜ　あのふたりが　戦っているの！？": "What the hell is going on? Why are those two|fighting each other?"
+    },
+    "474": {
+        "「この太刀筋……たしかに……|　たしかに　覚えがあるぞ……。": "This sword line... I know... I know I|remember it."
+    },
+    "475": {
+        "「主の　邪魔をするとは　何事だ。": "How dare you interfere with the Lord's..."
+    },
+    "476": {
+        "「……あなた……なのですか？": "... You... Is it?"
+    },
+    "477": {
+        "「いつも　詰めが甘いのだ……お前は。": "I've always been a little stuffy. ......"
+    },
+    "478": {
+        "「お逃げください　<cs_pchero>殿！": "Please run away<cs_pchero>Sir!"
+    },
+    "479": {
+        "「…………<cs_pchero>……だと？": "<cs_pchero>... Is it?"
+    },
+    "480": {
+        "「……どうやら　込み入った事情があるようだな。 ": "... Apparently, there's some kind of|complication..."
+    },
+    "481": {
+        "「一度　賢者ルシェンダのもとへ行き|　これからのことを　話し合うがよかろう。": "Let us once go to the wise man Rhesenda, and|discuss the future..."
+    },
+    "482": {
+        "「<cs_pchero>……|　なにが　どうなっているの？": "<cs_pchero>... What's going on? What's going on?"
+    },
+    "483": {
+        "「あの黒い鎧の人は　私の叔父であり |　エテーネ王国最高の　時渡りの使い手……": "That man in the black armor is my uncle| The greatest time-walker in the kingdom of Etaine"
+    },
+    "484": {
+        "「…………パドレ様よ。": "... Padd..."
+    },
+    "485": {
+        "大きな混乱を残したまま　<cs_pchero>と|メレアーデは　賢者ルシェンダの待つ|グランゼドーラ城へ　向かった。": "Leaving a big mess behind<cs_pchero>And Mareade will go to the castle of|Granzedorra, where the sage Lucinda awaits."
+    },
+    "486": {
+        "「<pc>！　おかえりなさい！ |　また　大変な冒険を　してきたそうね。": "<pc> Welcome back! Welcome home! We've had another|great adventure..."
+    },
+    "487": {
+        "「……あらっ　その方は？": "... Who's that?"
+    },
+    "488": {
+        "「あなたが　この時代の勇者 |　アンルシアちゃんね！|　すごく強いのに　なんて　かわいらしいの……！": "So you're the brave girl from this era,|Anrushka! You're so strong, but you're so|cute..."
+    },
+    "489": {
+        "「かっ　かわいらしい……？|　ありがとう……。": "Cute, cute, cute...? Thank you..."
+    },
+    "490": {
+        "「あなたがたは　<pc>の|　時渡りのチカラのことを|　知っているようなので　話が早いわ。": "you (plural)<pc> You seem to know something about the power of|time travel in..."
+    },
+    "491": {
+        "「私は　メレアーデ。|　５０００年前に存在した　エテーネ王国の姫よ。": "I am Meere... The kingdom of Etaine existed|5,000 years ago..."
+    },
+    "492": {
+        "「わけあって　時空の迷子になってしまって……|　<pc>に　助けてもらったの。": "I'm lost in time for some reason|<pc> I'm gonna need the help of..."
+    },
+    "493": {
+        "「まあっ　ちょうど　エテーネ王国のことを |　ルシェンダさまに　聞いていたところよ。": "I was just telling Lady Lushenda about the|Kingdom of Etaine..."
+    },
+    "494": {
+        "「ずっと昔に　消えてしまった|　とても　美しい国なんですってね。": "It's a beautiful country that disappeared a|long time ago..."
+    },
+    "495": {
+        "「このレンダーシアには　エテーネの村という|　小さな村があって……": "There's a village here in Rendasia called Etaine| There's a little village"
+    },
+    "496": {
+        "「<pc>の　故郷なのよね。": "<pc> It's the home of..."
+    },
+    "497": {
+        "「エテーネの村……。": "The village of Etaine..."
+    },
+    "498": {
+        "「ようこそ　メレアーデ姫。 |　重傷を負ったファラス殿は　この城で|　責任をもって　治療させてもらおう。": "Welcome, Merea. Lord Faras is badly wounded,|and I'm afraid he'll have to be treated here|at the castle."
+    },
+    "499": {
+        "「ところで……グランゼドーラを　襲った |　黒衣の剣士の　正体が　判明したらしいな。": "By the way... If we find out the identity of|the black-robed swordsman who attacked|Granzedora..."
+    },
+    "500": {
+        "「はい……あの方は　間違いなく|　私の叔父の　パドレ様です。": "Yes, um... I'm pretty sure that's my uncle,|Padre..."
+    },
+    "501": {
+        "「この時代で　異形獣を操っているのが|　あの方なら……|　もしかして　エテーネ王国を　襲ったのも……？": "If he's the one controlling the Xenomorphs in|this time period... Could it be that he's the|one who attacked the Kingdom of Etaine?"
+    },
+    "502": {
+        "「ふむ……なにか　嫌な予感がするな。 |　こちらでも　黒衣の剣士の行方を捜索しよう。": "Hmm... I have a bad feeling about this...|We're also searching for the swordsman in|black..."
+    },
+    "503": {
+        "「そなたは　これから　どうするつもりだ？": "What are you going to do now?"
+    },
+    "504": {
+        "「よかったら　この城で　暮らさない？|　ファラスさんも　ここで　治療しているのだし。": "Would you like to stay here in the castle?|Mr. Fallas is being treated here..."
+    },
+    "505": {
+        "「ありがとう　アンルシアちゃん！|　だけど　私……さっき教えてくれた|　エテーネの村という場所に　行ってみたいの！": "Thank you, Miss Anrushka! But I... I want to|go to that place you told me about, the|village of Etaine!"
+    },
+    "506": {
+        "「また　グランゼドーラにも　遊びにくるから |　その時は　ゆっくり　お茶でもしましょう。": "I'll come back to Granzedora again, and we'll|have a nice cup of tea..."
+    },
+    "507": {
+        "「そう　残念だわ……。 |　いつでも　好きな時に　遊びにきてね！": "Yeah, I'm sorry... You're welcome to come|visit me any time you like!"
+    },
+    "508": {
+        "「……ということで　<pc>。|　エテーネ村への　案内　よろしくね！": " So<pc> (speaking spanish) Take us to the village of|Etaine!"
+    },
+    "509": {
+        "「ようこそ　<pc>村長！|　今日から　ここが　私のおうちよ！": "welcome!<pc> Chief! From now on, this is my home!"
+    },
+    "510": {
+        "「シンイさんに　事情を話したら|　この家を　使っていいと　言ってくれたの！": "I told Miss Xinyi what had happened, and she|said I could have the house!"
+    },
+    "511": {
+        "「じつは　昔から　緑いっぱいの|　小さな村で　暮らすことに　憧れてたのよ。": "The truth is, I've always wanted to live in a|small, green village."
+    },
+    "512": {
+        "「こんなに　いいおうちを　いただけるなんて|　<pc>村長と　シンイさんに|　感謝しなくっちゃね！": "I can't believe we're getting such a nice house|<pc> I have to thank the village chief and Mr.|Shinui!"
+    },
+    "513": {
+        "「これから　エテーネの村を　拠点にして|　がんばってみるから　よろしくね。": "From now on, I'll base myself in the village|of Etaine, and do my best..."
+    },
+    "514": {
+        "「それで　じつは……やってみたいことがあるの。|　ぜひ　聞いてくれる？": "And the thing is... I'd like to try|something... I'd love to hear about it."
+    },
+    "515": {
+        "「皆よ　時はきた！": "The time has come, people!"
+    },
+    "516": {
+        "<pc>は　ラーの鏡を拾いあげ|黒猫の姿を　映した！": "<pc> picks up Ra's mirror and reflects the image|of the Black Cat!"
+    }
+}

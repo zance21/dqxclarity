@@ -1,0 +1,32 @@
+{
+    "1": {
+        "この　<%sL_ITEM>を渡しますか？<yesno><break>": "Do you want to pass this <%sL_ITEM>?<yesno><break>"
+    },
+    "2": {
+        "どれを　渡しますか？<break>": ""
+    },
+    "3": {
+        "この　<%sL_ITEM>を渡しますか？<yesno><close>": "Do you want to pass this <%sL_ITEM>?<yesno><close>"
+    },
+    "4": {
+        "どれを　渡しますか？<break>": ""
+    },
+    "5": {
+        "この　<%sL_ITEM>を投げ入れますか？<yesno><break>": "Do you want to throw in this <%sL_ITEM>?<yesno><break>"
+    },
+    "6": {
+        "どの装備品を　投げ入れますか？<break>": ""
+    },
+    "7": {
+        "この　<%sL_ITEM>を投げ入れますか？<yesno><break>": "Do you want to throw in this <%sL_ITEM>?<yesno><break>"
+    },
+    "8": {
+        "どの　つかうものを　投げ入れますか？<break>": "Which of these objects would you like to|throw in?<break>"
+    },
+    "9": {
+        "どれを　見せますか？<break>": ""
+    },
+    "10": {
+        "この　<%sL_ITEM>を見せますか？<yesno><close>": "Do you want to show this <%sL_ITEM>?<yesno><close>"
+    }
+}

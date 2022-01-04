@@ -1,0 +1,44 @@
+{
+    "1": {
+        "<%sM_pc>のお宝の写真は　期限が過ぎたため|黒ずんで　見ることができない！|写真の示す　お宝を　掘ることはできないようだ。|<end>": "The photo of the treasure in <%sM_pc> is too|dark to see because it's past its prime! You|can't dig for the treasure the photo shows...<end>"
+    },
+    "2": {
+        "<pc>のお宝の写真は　期限が過ぎたため|仲間に見せることが　できないようだ。|<end>": "<pc> I can't show my friends the photos of the|treasures in<end>"
+    },
+    "3": {
+        "<speed=0>|写真の共有に　失敗しました。|もう一度　お試しください。|<end>": "<speed=0>I'm having trouble sharing a photo. Please|try again...<end>"
+    },
+    "4": {
+        "お宝の写真を　持っていないようだ。|<end>": "I don't have a picture of the treasure...<end>"
+    },
+    "5": {
+        "お宝の写真ケースを持った仲間が　いないため|写真は　見せられません。|<end>": "I can't show you the photos because I don't|have any friends with a case of treasured|photos, so...<end>"
+    },
+    "6": {
+        "<speed=0>|今いる　お宝の写真ケースを持った仲間には|すでに写真を　見せている。|<end>": "<speed=0>I've already shown the photo to my buddy|who's in there right now with the treasure|photo case...<end>"
+    },
+    "7": {
+        "お宝の写真を「なかまに見せる」と　仲間と一緒に|お宝を　掘り当てることができます。|仲間に　写真を見せますか？|<yesno><close>": "If you show the picture of the treasure to|your friends, they can help you dig for it.|Do you want to show your friends the picture?<yesno><close>"
+    },
+    "8": {
+        "<speed=0>|<pc>は　お宝の写真を　仲間に見せた！|<br>|<speed=20><color_yellow>|仲間に見せた写真は　パーティメンバーのみ|共有されます。パーティを抜けて　入り直した|仲間には　再度　写真を見せる必要があります。|<end>": "<speed=0>|<pc>  He showed the picture of the treasure to his|friends!<speed=20><color_yellow>The photos you show your friends will only be|shared with your party members. If you leave|the party and come back in, you'll need to|<br>|show the photo again...<end>"
+    },
+    "9": {
+        "<speed=0>|この写真のお宝は　すでに発見されているため|仲間に見せることが　できません。|<end>": "<speed=0>The treasure in this photo has already been|found, so I can't show it to my people...<end>"
+    },
+    "10": {
+        "<%sM_pc>のお宝の写真は　時間が経って|黒ずんでしまい　見ることができない。|<end>": "<%sM_pc>'s treasured photo has darkened over|time, so you can't see...<end>"
+    },
+    "11": {
+        "「ひいいい！　また写真が出てきたー。怖いよー！|<end>": "Oh, my God! There's another picture... I'm|scared!<end>"
+    },
+    "12": {
+        "<pc>は　お宝の写真を　手に入れた！|<end>": "<pc> I've got a picture of the treasure!<end>"
+    },
+    "13": {
+        "「今　持っている写真が　これですわね。|　ちょっと　預からせてもらいますわ。|<end>": "These are all the photos I have right now.|I'd like to keep it for a moment...<end>"
+    },
+    "14": {
+        "「チササに　のりうつった霊は　この写真の場所に|　お宝が埋められていると　伝えているようです。|　ううう……ぶるぶる。|<end>": "The spirit that haunts Chisassa tells me that|there is a treasure buried in this photo...|Ugh... Oh...<end>"
+    }
+}

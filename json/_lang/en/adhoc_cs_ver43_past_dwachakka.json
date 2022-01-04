@@ -1,0 +1,1565 @@
+{
+    "1": {
+        "「<pc>……？|　まことに　<pc>なのかっ。": "<pc>  ...? Really.<pc> な..."
+    },
+    "2": {
+        "「おおっ　やはり　そちであったか！ |　防砂ダムの上から　姿が見えたので|　あわてて　降りてきたぞよ。": "Oh, I knew it! It's you! I saw him from the|top of the sand control dam, so I rushed|down..."
+    },
+    "3": {
+        "「……ムムッ！　その　キョトンとしたカオ。|　よもや　余を忘れたというのか！？<yesno><close>": "... Mmm! You're so bewildered... Are you|saying you forgot about me?<yesno><close>"
+    },
+    "4": {
+        "「共に　ドワチャッカ大陸を　駆けずりまわった|　あの日々を　忘れるとは……。|　ま…まあ　よい。余は　寛大じゃからな。": "I never thought I'd forget the days we spent|together running around Dowa Chakka...|Well... Well... I am a generous man..."
+    },
+    "5": {
+        "「よ…よかったぞよ。そちや　ガラクタ城の皆と |　過ごした日々は　忘れがたいでな。|　じゃが　念のために　名乗っておこう……。": "Good... I'm glad... I'll never forget the|days I spent with you and the others at the|junk castle. But I'll tell you who I am just|<br>|in case..."
+    },
+    "6": {
+        "「余は　かのガテリア皇国の　正統なる継承者|　第一の皇子　ビャン・ダオ！": "I am the rightful heir to the throne of|Gateria, the first prince, Biang Dao!"
+    },
+    "7": {
+        "「……今は　ただの　ビャン・ダオじゃ。|　ガテリアの遺跡で　そちと別れてからは|　アストルティア中を　旅しておった。": "... But now I'm just a girl... After I left|you at the ruins of Gateria, I traveled all|over Astrutia..."
+    },
+    "8": {
+        "「今は　縁あって　ドルワーム王立研究院にて|　失われし古代技術の研究を　手伝っておる。": "Now, by chance, I'm assisting in the study of|lost ancient technology at the Dorworm Royal|Academy..."
+    },
+    "9": {
+        "「この防砂ダムは　かつて　ウルベア地下帝国が|　莫大な予算をつぎ込み　建設したものでな。": "This sand dam was once built by the Urbea|Underground Empire at a cost of..."
+    },
+    "10": {
+        "「ダムの向こうに広がる　広大な流砂の海には|　かの帝国の　重要な遺跡があるという。|　余は　その調査に参ったのじゃが……": "Beyond the dam, a vast sea of quicksand|contains the most important remains of an|empire. I've come to investigate."
+    },
+    "11": {
+        "「よりによって　その遺跡の　すぐ上に|　あの　奇妙な繭が　現れたのじゃ！": "And of all places, that strange cocoon|appeared right above the ruins!"
+    },
+    "12": {
+        "「先に　繭が現れた　グランゼドーラや|　グレンのことは　伝え聞いておるぞよ。|　放っておけば　災いをもたらすに違いない。": "The cocoons appeared first, and I've heard|about Granzedorra and Glenn. If left|unchecked, they will bring misfortune."
+    },
+    "13": {
+        "「余は　リウ老師が　希望を託した|　この世界で　生きていくと決めた……。": "I have decided to live in this world where|Master Liu gave me hope..."
+    },
+    "14": {
+        "「老師の思いを　踏みにじらせはせぬ。 |　余も　アストルティアの未来を守るため|　ひと肌　脱ぐ覚悟ぞ！": "I will not let the old master's wishes be|trampled upon. I, too, am ready to take a|stand to protect the future of Astrutia."
+    },
+    "15": {
+        "「余は　流砂の遺跡へ　調査に向かう。|　そちにも　ぜひ　同行願いたい。": "I'm going to the Quicksand site to|investigate. I'd like you to come with me."
+    },
+    "16": {
+        "「あそこに見えるのが　防砂ダムの上に|　移動できる　昇降機ぞよ。|　まずは　上まで　昇ってきてたもれ。": "What you see over there is an elevator that|will take you to the top of the dam. First,|we have to get up to the top..."
+    },
+    "17": {
+        "「<cs_pchero>！　こっちじゃ　こっち。": "<cs_pchero>Come on. This way..."
+    },
+    "18": {
+        "「フフ……立派な船であろう！|　これぞ　流砂の上を自在に進む　現代に復活せし|　砂上専用高速船……通称　砂上船ぞよ。": "Huh... What a magnificent ship! This is the|modern-day revival of a high-speed ship that|can travel freely on quicksand. Commonly|<br>|known as the Sand King..."
+    },
+    "19": {
+        "「積もる話もあるが　今はさっそく |　遺跡へ　向かうとしよう。余の　華麗なる|　操船技術を　とくと　味わうがよい。": "I know we've got a lot to talk about, but for|now, let's get to the ruins. I'd like to take|a moment... to appreciate the brilliance of|<br>|my ship-handling skills."
+    },
+    "20": {
+        "<cs_pchero>が　砂上船に乗り込むと|ものすごいスピードで　急発進した！": "<cs_pchero>But as soon as they boarded the sand boat, it|sped off at great speed!"
+    },
+    "21": {
+        "「どうじゃ　砂上船の乗りごこちは？|　なかなかの　速度であろう。": "How's it feel to be on a sand boat? It's|pretty fast..."
+    },
+    "22": {
+        "「じゃが……かつて　ガテリア皇国があった|　３０００年前の　ドワチャッカ大陸では|　さらに　高度な文明が　栄えておった。": "So... 3,000 years ago, on the Dwachaqa|continent, where the Empire of Gateria once|stood, an even more advanced civilization|<br>|flourished..."
+    },
+    "23": {
+        "「上空には　反重力飛行装置が飛び交い |　都には　自動遊覧回廊が張りめぐらされ|　両足で歩かずともよい　生活を送っていた。": "With anti-gravity devices in the sky above|us, and automated scenic corridors throughout|the city, we don't have to walk on both feet|<br>|to live..."
+    },
+    "24": {
+        "「できることなら　そちにも　あの見事な光景を|　見せてやりたいものじゃ……。": "If I could, I'd show you that magnificent|sight."
+    },
+    "25": {
+        "「しかし　まあ……|　同じような景色ばかりが　続いておるのう。": "But, well... It's the same old scenery..."
+    },
+    "26": {
+        "「砂嵐の日には　巨人が現れるという|　ウワサも　あるのじゃが……。": "There's a rumor that giants appear during|sandstorms, but..."
+    },
+    "27": {
+        "「おおっ。巨人ではないが|　我らが目指す遺跡が　見えてきたぞよ！|　さっそく　中に入り　探索しようではないか。": "... We may not be giants, but we can see the|ruins we're after! Let's get inside and|explore..."
+    },
+    "28": {
+        "「ううむ……風化が　はげしい。|　見るも　無残な姿じゃ。": "Mmm... Weathering... It's... it's a mess."
+    },
+    "29": {
+        "「栄華を誇った　ウルベアの文明も |　３０００年の月日の前には|　何もかも　はかなき夢……か。": "The flourishing civilization of Urbea is but|a faint dream before 3,000 years have passed.|...."
+    },
+    "30": {
+        "「ななっ　何事じゃっ！？": "What's going on?"
+    },
+    "31": {
+        "「３０００年の時を経て　なお　動くとは！|　<cs_pchero>よ　なんとかしてたもれ～！！": "After 3,000 years, it still works!<cs_pchero>Please do something for me!"
+    },
+    "32": {
+        "「こっ…今度は　何事じゃ！？|　気をつけよ　<cs_pchero>！": "Oh... What's happening now? Be careful.<cs_pchero>！"
+    },
+    "33": {
+        "突然　<cs_pchero>の足元に|ヒビが入り　崩れてしまった！": "suddenly<cs_pchero>It has cracked and crumbled beneath the feet|of!"
+    },
+    "34": {
+        "「<cs_pchero>　<cs_pchero>。|　あれを　見るキュ。": "<cs_pchero><cs_pchero>(speaking spanish) Look at that..."
+    },
+    "35": {
+        "「時の異分子か……。": "The anomaly of the hour..."
+    },
+    "36": {
+        "「かつて栄えた文明の　衰亡の渦中に失われし |　地脈の結晶……それさえ手に入れれば|　巨人は　よみがえろう。": "The crystal of a vein lost in the decay of a|once-glorious civilization. If we can just|get our hands on it, the giants will rise..."
+    },
+    "37": {
+        "「滅びの未来が　訪れるのは　どう考えても |　アイツが　関係してるせいだキュル。": "The only reason I can think of for this|future of destruction is because he's|involved."
+    },
+    "38": {
+        "「アイツは　この巨人が　完全な状態だった時代に |　巨人を動かす手段を　見つけにいったようキュ。|　ヤツより先に　それを手に入れるべきだキュ。": "He went to find a way to move the Titans when|they were in perfect condition... We should|get to it before he does..."
+    },
+    "39": {
+        "「ボクたちも　この巨人を媒介にすれば |　その時代……３０５１年前に　行けるはずキュ。|　さっそく　キューブを起動するっキュ！": "If we use these giants as an intermediary, we|can travel back in time... We can travel back|in time 3051 years. I'll activate the Cube."
+    },
+    "40": {
+        "「あらーと　あらーと。|　速ヤカナ移動停止ヲ　命ジマス。": "Oh, my... We have to stop moving so fast."
+    },
+    "41": {
+        "「ガテリア兵　捕虜りすと|　でーた照合　開始…………………………": "Gateliers, prisoners of war| Let's start matching"
+    },
+    "42": {
+        "「不一致。|　緊急対応まにゅあるニ　従ッテ|　当該ヲ　拘束シマス。": "... In accordance with the emergency response|manual, you are hereby detained..."
+    },
+    "43": {
+        "「……もう　よろしいでしょう。|　離してやりなさい　０８号。": "... That's enough. Let her go..."
+    },
+    "44": {
+        "「私は　技術者の　リウと申す者。|　あなたを拘束した　魔神機……|　０８号らの　生みの親です。": "My name is Liu, I'm a technician... The demon|machine that held you captive... The|birthplace of the 08..."
+    },
+    "45": {
+        "「世間からは　リウ老師と　呼ばれております。|　良くも悪くも　知られた名ですから|　聞いたことが　あるかもしれませんな。": "The world calls me Master Liu. For better or|worse, you may have heard of him."
+    },
+    "46": {
+        "「我らは　ウルベア地下帝国に|　捕まった　囚人……。": "We are prisoners of the Urbea Underground|Empire..."
+    },
+    "47": {
+        "「先の大戦で敗れた　ガテリア兵士の捕虜 |　帝国の横暴に異をとなえた　反逆分子などが|　ここで　強制労働をさせられております。": "Prisoners of war from the last war, Gaterian|soldiers who were defeated in the last war,|rebels who opposed the tyranny of the Empire,|<br>|were forced to work here."
+    },
+    "48": {
+        "「もっとも　やられっぱなし……|　というわけでは　ありませんがな。": "But that's not to say I'm not just saying|that..."
+    },
+    "49": {
+        "「さて。０８号が　あなたをスキャンした結果 |　ガテリア兵の捕虜でも　ウルベアの監督官でも|　どちらでもないと　出たのです。": "Now, the 08 has scanned you and found you to|be neither a prisoner of the Gutteria nor a|supervisor of the Urbea..."
+    },
+    "50": {
+        "「あなたは　何者ですかな？": "Who are you, sir?"
+    },
+    "51": {
+        "「……なるほど。<pc>君。 |　くわしくは話せないが　あなたは　巨人を探して|　この地を　訪れたと……。": "...な...<pc> You. I can't go into detail, but you said you|came here looking for giants..."
+    },
+    "52": {
+        "「なんのために　そんなものを探しているのか|　詮索は　しませんが……ふむ。": "I don't want to pry into what you're looking|for that for, but ....."
+    },
+    "53": {
+        "「あなたが探している　巨人かは　わかりませんが|　ウルベア地下帝国は　ウルベア大魔神と呼ばれる|　巨大兵器の開発に　成功したようでしてな。": "I'm not sure if it's the giant you're looking|for, but it seems the Urbea Underground|Empire has succeeded in developing a massive|<br>|weapon called the Urbea Colossus..."
+    },
+    "54": {
+        "「それは　ウルベア地下帝国の|　最重要機密が集う　ウルベア帝国技術庁で|　厳重に　管理されているそうなのです。": ""
+    },
+    "55": {
+        "「帝国技術庁は　このダラズ大鉱脈からも見える |　防砂ダムの向こう側　流砂の海にあります。|　ただ　潜入するのは　容易ではありません。": "The Imperial Engineering Agency is located on|the other side of the dam, in a sea of|quicksand, visible from the Dalaz vein. But|<br>|it's not easy to infiltrate..."
+    },
+    "56": {
+        "「しかし……　あの方に|　取り入ることができれば　あるいは……？": "But... If I could just get to him, or...?"
+    },
+    "57": {
+        "「わかりました。|　私が　<pc>君の　巨人探しに|　協力してあげましょう。": "I know... I do.<pc> I can help you find the giants..."
+    },
+    "58": {
+        "「０８号。偵察用ミニマムモード　起動なさい。": "... Reconnaissance minimum mode. Activate..."
+    },
+    "59": {
+        "「了解イタシマシタ。": "Roger that..."
+    },
+    "60": {
+        "「不慣れな土地を旅する　あなたに |　この　０８号を　案内役としてつけましょう。|　彼と　ウルベアに潜入するのです。": "As you travel through unfamiliar territory...|you will be guided by this 08... We're going|to infiltrate Urbea with him..."
+    },
+    "61": {
+        "「そして　帝国技術庁で　情報を集めてください。|　私は　この場所で　彼から転送されてくる|　映像や情報を　分析しましょう。": "And collect information at the Imperial|Engineering Agency... I'm here to analyze the|images and information he's beamed to me..."
+    },
+    "62": {
+        "「<pc>サマ。|　ツカズ離レズ　オトモイタシマス。": "<pc> Sama. Tsk, tsk, tsk, tsk, tsk, tsk."
+    },
+    "63": {
+        "０８号が　仲間に加わった！<me 71>": "08 has joined our ranks!<me 71>"
+    },
+    "64": {
+        "「まずは　カルデア溶岩帯を南に向かい|　ガタラ大山林から　ウルベア地下帝国へ。|　そこで　ウルタ皇女に会うのです……。": "First, we'll head south through the Chaldean|Lava Belt, from the Great Gathara Forest to|the Urbea Underground... That's where you'll|<br>|meet Princess Ulta..."
+    },
+    "65": {
+        "「帝国の主たる　ウルタ皇女の信頼を　得られれば|　ウルベア大魔神への道が　開かれましょう。|　よろしく　頼みましたぞ。": "If we can gain the trust of Princess Ulta,|Lord of the Empire, we will be on our way to|becoming the Great Ulvae Demon... I'm|<br>|counting on you..."
+    },
+    "66": {
+        "「リウ老師ヨリ　<pc>サマニ|　歴史観光案内　特別ぷろぐらむヲ　提供スルヨウ|　要請アリ。ろーでぃんぐ中………………": "Master Liu Yoli<pc> Samani Historical Tourism Information Special|Program... Roding Chug..."
+    },
+    "67": {
+        "<attr><pipipi_high><end_attr>「ガタラの丘へ　ようこそ！ |　眼下に見下ろすゴブル砂漠は　５年前に起きた|　ガテリア＝ウルベア大戦の　主な戦場です。": "<attr><pipipi_high><end_attr>Welcome to the hills of Gathara! The Gobble|Desert below is the main battleground of the|Gaterian-Urbea War, which took place five|<br>|years ago..."
+    },
+    "68": {
+        "<attr><pipipi_high><end_attr>「ガテリア皇国と　ウルベア地下帝国は |　互いに　ドワチャッカ大陸の覇者たらんと|　小規模な戦争を　くり返していました。": ""
+    },
+    "69": {
+        "<attr><pipipi_high><end_attr>「卓越した文明と技術力は　軍事利用のため |　発展したといっても　過言ではありません。|　しかし　民の不満は　つのるばかりでした。": "<attr><pipipi_high><end_attr>It is no exaggeration to say that our great|civilization and technological prowess has|been developed for military use. But the|<br>|people's discontent is only growing..."
+    },
+    "70": {
+        "<attr><pipipi_high><end_attr>「一時は　停戦条約を　結ぼうとしたものの|　交渉はこじれ　最終的な全面戦争に突入。|　ガテリア皇国は　滅亡を迎えたのです……。": "<attr><pipipi_high><end_attr>A ceasefire treaty was attempted at one|point, but negotiations faltered and an all-|out war ensued. The Empire of Gateria was|<br>|doomed..."
+    },
+    "71": {
+        "「アチラガ　ウルベア地下帝国ノ　入リ口デス。": "Atilla, Ulveya, enter the underground|empire..."
+    },
+    "72": {
+        "「デハ　参リマショウ！": "Deja, I'm here!"
+    },
+    "73": {
+        "「きゃーっ！　いやーっ！　何すんのよぉー！": "Yikes! No! No! What are you doing?"
+    },
+    "74": {
+        "「マリッチ！　また　アンタなのっ。|　まぶしいから　やめてって言ったのに。": "Marich! Oh, my God, you're... I told you to|stop glaring..."
+    },
+    "75": {
+        "「ぐわーっ！　目がぁ～～ッ！！": "Oh, my God! Oh, my eyes!"
+    },
+    "76": {
+        "「また　マリッチが　めいわくビームで |　おどかして　あそんでる～。": "And Maricci is playing with him again,|scaring him with her distraction beam..."
+    },
+    "77": {
+        "「やーい。やくたたずの　ポンコツマリッチ。|　お前なんか　すぐ　スクラップだぞ！": "... You're a deadbeat. You're a piece of|shit. You'll be scrapping in no time!"
+    },
+    "78": {
+        "「あれって　皇女様の魔神機でしょ？ |　毎日　なんのために　やってるわけ？": "Isn't that the Princess's Demon Machine? What|are you doing this for every day?"
+    },
+    "79": {
+        "「えてーね人ってのを　探してるんだとさ。|　でも　えてーね人って　なんだ？": "I'm looking for someone called \"Eternal. But|what's a \"person of interest\"?"
+    },
+    "80": {
+        "<pc>は|チケットに記された　文字を読んだ。": "<pc> I'm going to look up the words on the|ticket..."
+    },
+    "81": {
+        "<center>入城許可証|本証書を持参する者の|ウルベア帝国城への　入城を認める": ""
+    },
+    "82": {
+        "<center>エテーネ人ノ　生体情報ト　完全ニ合致|皇女ウルタ　エテーネ人ヲ　求ムル|速ヤカニ　皇女ウルタニ　謁見セヨ": "It's a perfect match to the Ethenians' biometric data|Empress Ulta, I seek the Athenians|Hayakani, meet the princess Ulthani"
+    },
+    "83": {
+        "「……入城許可証　入手成功！|　城ニ　行ッテミマショウ！": "... We've got a permit! I'm going to the|castle!"
+    },
+    "84": {
+        "「うう～ん……騒々しい…………。": "Ummm... Noisy..."
+    },
+    "85": {
+        "「わらわは徹夜じゃから　起こすなと……|　あれほど……あれほど…………": "I've been up all night I didn't want to wake you| So much So much"
+    },
+    "86": {
+        "「ええーい　やかましい！|　起きればよいのじゃろう　起きれば！": "Oh, my God, you're killing me! All you have|to do is get up. Get up!"
+    },
+    "87": {
+        "「わらわが　ウルベア地下帝国　第十一代皇帝|　ジャ・クバの娘　皇女ウルタである。": "I am the daughter of the eleventh emperor of|the Urbea Underground Empire, Jaquba..."
+    },
+    "88": {
+        "「そちが　エテーネ人というのは　まことかえ？|　……ただの　さえない冒険者に見えるがの。": "Is it true that you're an Athenian? I... You|just look like a dull adventurer..."
+    },
+    "89": {
+        "「そちが　エテーネ人というのは　まことかえ？|　……どう見ても　人間には見えんがの。": "Is it true that you're an Athenian? I... You|don't look like a man."
+    },
+    "90": {
+        "「エテーネ人を探せとは　命じたが|　マリッチのサーチ精度も　信用ならぬでな。": "I told you to look for the Athenians, but I|don't trust the accuracy of Marich's|search..."
+    },
+    "91": {
+        "「そもそも　エテーネ人ともあろう者が|　この帝国に　何用で参ったのじゃ？": "What business does a fellow Etainian have in|this empire in the first place?"
+    },
+    "92": {
+        "「巨人を探している……か。|　たしかに　ウルベア大魔神は　我が帝国の要。": "I'm looking for a giant: .... It's true, the|Great Urbere Demon is my emperor..."
+    },
+    "93": {
+        "「じゃが　国賓でもない　さえない冒険者に|　案内してやるほどの　義理はないぞえ。": "But I have no reason to show you around to a|mere adventurer who is not a guest of|honour..."
+    },
+    "94": {
+        "「……そちが　真にエテーネ人であることを|　証明できれば　話は　別じゃがの。": "Unless... Unless you can prove that you are|truly Etainian..."
+    },
+    "95": {
+        "「わらわは　古代エテーネ王家に伝わる|　時の球根なるものを　所望する。|　持参すれば　エテーネ人と認めてやろう。": "I am the possessor of an ancient Etaene royal|time bulb... If you bring it to me, I will|recognize you as an Athenian..."
+    },
+    "96": {
+        "「こやつ　なかなか　使えそうではないか。": "I don't know if I can use this thing."
+    },
+    "97": {
+        "「ここ数日　調整していた機材の|　出力系統が　安定せんのでな。|　少々　手を貸してもらおう。": ""
+    },
+    "98": {
+        "「<pc>サマ。|　ココデ　オ帰リヲ　オ待チシテオリマス……。": "<pc> Sama. I'm waiting for you here..."
+    },
+    "99": {
+        "「<pc>。エテーネ王家について|　何か　知りたいことがあるなら|　メレアーデにでも　聞いてみればいいキュ。": "<pc> I'm sorry. If there's anything you want to|know about the royal house of Etaine, just|ask Mareade..."
+    },
+    "100": {
+        "「今ごろ　エテーネの村で|　生体継続時間を　無為に浪費しているはずキュ。|　さっそく　行ってみるといいキュ。": "I'm sure by now you've wasted enough time in|the village of Etaine... I'd better get|going."
+    },
+    "101": {
+        "「暗証番号……なんだったかしら？|　昔　お父様に連れられて|　一度　入ったきりだから。": "The code... What was it? I don't know. Your|father took me in there once."
+    },
+    "102": {
+        "「お父様が　自分で決めた番号だわ。|　番号そのものは　思いだせないけど……": "The number your father gave you... I can't|remember the number itself, but..."
+    },
+    "103": {
+        "「たしか　『英雄レトリウスと永遠の友』っていう|　本に書かれた数字を　順番に並べたものよ！|　お父様の　愛読書だったの。": "It's a list of numbers from a book called|Letelius and the Eternal Friend. It was your|father's favorite book."
+    },
+    "104": {
+        "「ドミネウス邸の　お父様の部屋に |　あったはずなんだけど　まだ　残ってるかしら。|　墜落しちゃったし……。": "It was in your father's room at the Dominus|estate, but it's still there. And then it|crashed."
+    },
+    "105": {
+        "「……考えてても　しかたないわよね。|　とにかく　探してみましょ　<pc>！": "... I can't stop thinking about it... Let's|just keep looking.<pc> ！"
+    },
+    "106": {
+        "「これが　時の球根よ。": "This is the time..."
+    },
+    "107": {
+        "「親球は　大きすぎるから……|　持っていくなら　こっちがいいと思うわ。": "The parent ball is too big, so... I thought|this would be a good one to bring."
+    },
+    "108": {
+        "<pc>は|ちいさな時の球根（だいじなもの）を|手に入れた！<me 60>": "<pc> I've got the little time bulb!<me 60>"
+    },
+    "109": {
+        "「この球根には　王族の持つ　時渡りのチカラに|　深く関わるという　伝承があって|　代々　大切にされてきたの。": "There's a tradition that these bulbs have a|deep connection to the royal power of time|travel, and they've been treasured for|<br>|generations..."
+    },
+    "110": {
+        "「でも　誰が植えたとか　どんな花が咲くとか |　くわしいことは　全然わからないのよね。": "But I don't know anything about who planted|it or what kind of flowers it produces..."
+    },
+    "111": {
+        "「こんなものを　ほしがる人がいるなんて|　何のために　使うのかしら……。": "I can't believe someone would want something|like this. I don't know what they'd use it|for."
+    },
+    "112": {
+        "「とにかく　手に入ってよかった。|　少しは　あなたの役に　立てたわよね……？": "Anyway, you can have it. I hope I've been of|some help to you."
+    },
+    "113": {
+        "「せっかく　エテーネに戻ってきたけど |　まるで　別の時代に　来ちゃったみたい。": "I've come all the way back to Athens, but I|feel like I'm in another time..."
+    },
+    "114": {
+        "「本当に……もう　王宮はないのね。|　お父様も　クオードも……。": "Really... The palace is gone. Not your|father, not Quorde..."
+    },
+    "115": {
+        "「帰りましょう。あなたの時代に……。": "I'm going home... In your time..."
+    },
+    "116": {
+        "<pc>たちは　エテーネルキューブで|現代のグランゼドーラ城下町に　戻って|歩き出した。": "<pc> We're going to take the Eternal Cube and walk|back to modern-day Granzedorra Castle Town..."
+    },
+    "117": {
+        "なんと　メレアーデは　突然|気を失って　倒れてしまった！": "Oh my God, Mereade suddenly fainted and|collapsed!"
+    },
+    "118": {
+        "<pc>は　倒れたメレアーデを|グランゼドーラ城へと　運び込んだ……。": "<pc> carried the fallen Mereade to the castle of|Granzedorra..."
+    },
+    "119": {
+        "「そちは　なんと　使える魔神機じゃ。|　素材は粗末ながら　演算処理装置は|　帝国技術庁製よりも　ずっと　優秀じゃの。": "What a useful demon you are... The materials|may be crude, but the processing unit is far|superior to anything made by the Imperial|<br>|Engineering Agency..."
+    },
+    "120": {
+        "「ほめてつかわすぞ。|　いいこ　いいこじゃ。": "Give me a compliment... Good boy. Good..."
+    },
+    "121": {
+        "「そちを開発した　技術者の名を教えよ。|　すぐにでも　我が城で　召し抱えようぞ。": "The name of the engineer who developed it...|I will have him in my castle at once."
+    },
+    "122": {
+        "「……なんじゃ　戻ってきてしもうたか。 |　このまま　０８号を　ウチの子に|　してしまおうかと　思ったのにのう。": "I... What's wrong? She's back. I was thinking|of making the 08 my own..."
+    },
+    "123": {
+        "「それで　時の球根は　手に入ったのかえ？|　さえない冒険者よ。": "So did you get the time bulb? Not even a|blasphemy..."
+    },
+    "124": {
+        "<pc>は　ウルタ皇女に|ちいさな時の球根を　渡した。": "<pc> ...to the Princess of Ulta for a little time|bulb."
+    },
+    "125": {
+        "「どうやら　本物のようじゃ。|　よくぞ　まあ　手に入れたものよ。": "Apparently, it's real. I'm surprised you|didn't..."
+    },
+    "126": {
+        "「そちが従える　０８号の性能も　見事じゃ。|　ただの　さえないだけの冒険者では|　なさそうじゃな。": "I've seen what you can do with the 08 you're|following. I don't think you're just a dull|adventurer."
+    },
+    "127": {
+        "「非礼をわびよう　エテーネ人　<pc>よ。 |　よくぞ　わらわの　役に立ってくれた。": "I apologize for my rudeness, Athenian<pc> Good. You've been very helpful to me."
+    },
+    "128": {
+        "「時渡りのチカラを　制御する秘宝。|　これさえあれば……。": "To control the power of time travel... All|you need is this..."
+    },
+    "129": {
+        "「そちには　話してやろう。|　わらわの夢を。わらわの願いを。": "I'll tell you... I'll... I'm..."
+    },
+    "130": {
+        "「我が父　第十一代皇帝　ジャ・クバは|　誰よりも平和を愛し　国民の幸せを願っていた。": "My father, the eleventh emperor, Jae-Kubah,|loved peace more than any other man... and|wanted his people to be happy."
+    },
+    "131": {
+        "「長年続いていた　西のガテリア皇国との |　戦争に終止符を打ち　和平条約を結ぶ手はずを|　入念に　ととのえておった。": "I have carefully arranged a peace treaty that|will put an end to the long-running war with|the Empire of Gateria in the west..."
+    },
+    "132": {
+        "「そんな父上の思いを　踏みにじったのが|　あの　ガテリアの野蛮人じゃ……。": "The one who trampled on your father's wishes|was that savage from Gateria..."
+    },
+    "133": {
+        "「和平条約を結ぶ前日　きゃつは……|　名を呼ぶのもおぞましい　あの悪鬼は|　父上の居室に忍び込み　命を奪った。": "The day before the peace treaty was signed,|Kyatsu... That demon, whose name I dread to|call, snuck into my father's room and killed|<br>|him..."
+    },
+    "134": {
+        "「ガテリアに　和平を結ぶ気など　なかった。|　父上を油断させ　はじめから　ウルベアを|　裏切るつもりでおったのじゃ。": "Gateria has no intention of making peace...|He has been planning to betray Urbea from the|very beginning, to catch Father off guard."
+    },
+    "135": {
+        "「……それさえ　わかっていれば |　歴史は　変えられたものを。": "... If only we'd known that, we could have|changed history..."
+    },
+    "136": {
+        "「わらわの願いは　時を超え　過去に戻り |　父上の暗殺を阻止して　歴史を改変すること。": "My wish is to travel back in time, stop your|father's assassination, and change history..."
+    },
+    "137": {
+        "「これは　決して　夢物語ではない。 |　帝国技術庁で開発している　アレさえ完成すれば|　わらわの願いは　かなうのじゃ。": "This is not a dream... I'm developing|something at the Imperial Engineering Agency,|and if I can just complete it, my wish will|<br>|come true..."
+    },
+    "138": {
+        "「時渡りは　そちたち　エテーネ人だけのものでは|　なくなる……ということじゃな。": "The time travel is no longer just for you,|Etaines. I mean..."
+    },
+    "139": {
+        "「時の球根は　時を渡る新技術の完成に |　不可欠なパーツの　ひとつらしくてな。|　これから　技術庁へ　届けてやらねばならん。": "It seems that the time bulb is one of the|essential components to perfecting a new|technology that will span time. I must now|<br>|deliver it to the Agency."
+    },
+    "140": {
+        "「そちが探しているという　巨人……|　ウルベア大魔神も　そこにある。|　わらわが　特別に　連れていってやろうぞ。": "The giants you're looking for... And the|Great Satan Urbear... I'll take you to him."
+    },
+    "141": {
+        "「城内の飛行装置発着場まで　来るがよい。 |　モタモタしていると　置いてゆくぞよ。": "They're coming to the landing field in the|castle... If we wait too long, they'll leave|us..."
+    },
+    "142": {
+        "<pc>は　玉座の間を　あとにした。": ""
+    },
+    "143": {
+        "「ふふ……これか？　これはのう |　ウルベア帝国式　反重力飛行装置の最新モデル|　しかも　数量限定カラーじゃぞ。": "Hmm... Is this it? This is the latest model|of the Urbea Empire's anti-gravity flying|machine, and it comes in a limited edition..."
+    },
+    "144": {
+        "「新素材のフレームを　採用することで |　機体の軽量化と　燃費の向上　および|　浮力と速力の　大幅な改善を実現！": "The use of a new frame material reduces the|weight of the aircraft, improves fuel|efficiency, and significantly improves|<br>|buoyancy and speed!"
+    },
+    "145": {
+        "「振動を　従来の３割以上も　カットしながら |　機関部から伝わる　この熱量とパワー！|　こだわり抜いた　マッシヴなシルエット……。": "The heat and power transmitted from the|engine while cutting vibration by more than|30%! The massive silhouette..."
+    },
+    "146": {
+        "「ウルベアの　技術の粋を凝縮した　逸品じゃ。|　うむ！　たまらんのう！": "This is the culmination of Urbea's|technological prowess... Mmm! I love it!"
+    },
+    "147": {
+        "「……アア見エテ　皇女ハ　一流ノ技術者デス。 |　代々　ウルベア地下帝国ノ　王族ハ|　技術者トシテノ　素養ニ　恵マレテイマス。": "... Oh, look, the princess is a first-rate|technician. For generations, the royal|families of the underground empire of Ulveya|<br>|have been blessed with the gift of|engineering..."
+    },
+    "148": {
+        "「然り。我が父上　ジャ・クバは|　あの天才技師　リウ老師に|　手ほどきを　受けていたのじゃぞ。": "Yes. My father, Jaquba, was trained by that|genius engineer, Master Liu..."
+    },
+    "149": {
+        "「戦乱を前にして　決別してしまったがの。 |　今となっては　きゃつが　生きているのか|　死んでおるのかも……。": "We parted ways before the war... Now, I don't|know if Kyatsu is alive or dead..."
+    },
+    "150": {
+        "「それはそうと　何を　ボサッとしておる？|　わらわの後ろへ　乗せてやるゆえ|　ありがたく　ライドオンするのじゃ。": "Well, what are you doing out here? I'll give|you a ride in the back of my car, and I'll|give you a nice ride on..."
+    },
+    "151": {
+        "「いざ　帝国技術庁へ……全速発進！": ""
+    },
+    "152": {
+        "「……ふん　出よったな。|　振り落とされるなよ　<pc>！": "... Huh, get out... Don't get knocked off.<pc> ！"
+    },
+    "153": {
+        "「どーーうじゃ！|　思い知ったか　化け物どもめ！": "What the hell! Now you know, you freaks!"
+    },
+    "154": {
+        "「わらわを　あなどるでないぞよ。|　ただの　引きこもり皇女では　ないわっ。|　はっはっはー！": "Do not underestimate me... I am not just a|reclusive princess... Ha-ha-ha!"
+    },
+    "155": {
+        "「おお　出迎えにきてくれたのか。|　グルヤンラシュ！": "Oh, he's here to greet... Gurjarash!"
+    },
+    "156": {
+        "「エテーネ人が　現れたと聞いていたが……|　お前は　本当に　ボウフラのようなヤツだな。": "I had heard that the Etaines had risen... You|really are like a..."
+    },
+    "157": {
+        "「時渡りができるということは　お前もまた |　エテーネの血を　引く者だったのか。|　あの土壇場で発動させるとは　悪運が強い。": "If you can travel through time, then you too|are of the blood of Etaine... It's bad luck|to activate it at the last moment..."
+    },
+    "158": {
+        "「おお……グルヤンラシュの　知人であったか。|　時の球根を　手に入れられたのも　道理じゃな。": "Oh... He knew Gulendrash... No wonder he was|able to get his hands on the bulb of the|hour..."
+    },
+    "159": {
+        "「なんて　カオをしてる。": "Oh, my God, Kao..."
+    },
+    "160": {
+        "「俺だ。正真正銘の　クオードだ。|　お互い　生きて　また会えるとはな。": "It's me. The real Quo... We'll live to see|each other again..."
+    },
+    "161": {
+        "「……時見の神殿が　崩壊した　あの日。|　俺は　姉さんを助けだした後　無我夢中で|　時渡りのチカラを　発動したらしい。": "... The Temple of Time has collapsed... After|I rescued my sister, I selflessly invoked the|power of time travel..."
+    },
+    "162": {
+        "「たどり着いたのが　この　ウルベア帝国だった。|　お前は　つい最近　ここに来たようだが|　俺は　もう　１０年以上　この時代にいる……。": "I have arrived in the Urberean Empire... It|seems you've only recently arrived here, but|I've been here for over 10 years..."
+    },
+    "163": {
+        "「どうだ　見違えたか？|　ずいぶん　背が伸びただろう。": "Look at you. Look at you. You're a lot|taller..."
+    },
+    "164": {
+        "「……あの後　エテーネが　どうなったのか |　この時代の文献を　つぶさに調査した。|　そして　わかったことがある。": "... I've been trying to find out what|happened to Etaine after that. I've been|going through all the documents from this|<br>|period. And what I found out..."
+    },
+    "165": {
+        "「王宮が消失してから　まもなく……|　エテーネ王国は　滅びを迎えたという。": "Not long after the loss of the palace... The|kingdom of Etaine came to an end..."
+    },
+    "166": {
+        "「俺は　戻らねばならない！！|　エテーネの滅びを　回避するため|　あの時代に　必ず　帰らなければ！": "I have to go back! I must return to that time|to avert the destruction of Etaine!"
+    },
+    "167": {
+        "「グルヤンラシュは　わらわの同志。|　その上　エテーネ人の仲間が　増えるとは|　こんなに　心強いことはないぞえ。": "Gul'yann Rush... And to have a fellow|Etainian in our midst, that's very|encouraging..."
+    },
+    "168": {
+        "「俺は　この帝国技術庁で　ウルベアの叡智と|　エテーネの錬金術を　組み合わせた新技術で|　ふたたび　時渡りを成功させるつもりだ。": ""
+    },
+    "169": {
+        "「ああ……グルヤンラシュというのは |　『あの日へ帰る』という意味の　古代語でな。|　今は　その名で　ウルベア帝国に仕えている。": "Oh... Gul'yann Rush, which means \"back to the|day\" in ancient times... And now, in the|service of the Urbain Empire..."
+    },
+    "170": {
+        "「ウルタ皇女は　俺の　よき理解者だ。 |　彼女となら　夢を実現できる　きっと……。": "Princess Ulta is my good friend. I know that|with her, I can make my dreams come true."
+    },
+    "171": {
+        "「グルヤンラシュよ。|　さっそく　例の件を確認したい。ゆくぞ！": "Gurjangra... We'll see about that. Let's go!"
+    },
+    "172": {
+        "「仰せのままに。": "You said..."
+    },
+    "173": {
+        "「また　後で会おう。|　しばらく　庁舎内を散策するといい。": "See you later... I'm going to take a walk|around the town hall..."
+    },
+    "174": {
+        "「……まさか　ここに来て |　アイツと再会するとは　思わなかったキュね。": "I... I never thought I'd see him again..."
+    },
+    "175": {
+        "「ああいう　その時代での　影響力が強いヤツに |　未来から来たことや　メレアーデのことを言うと|　ロクなことにならない可能性が　高いキュ。": "If you tell someone with that kind of|influence in their time that you're from the|future, or that you're from Mereade, there's|<br>|a good chance you'll get in trouble."
+    },
+    "176": {
+        "「クオードには　何も言うなキュ。|　<pc>が　同じ時代に飛ばされたと|　勘違いしてるみたいで　助かったっキュね。": "I'm not gonna tell Quor...<pc> But I think he thinks he's been transported|to the same time period. Thank God."
+    },
+    "177": {
+        "「さてと。ボクは　しばらく眠るキュ。 |　メレアーデまで　時空転移させたことで|　だいぶ　エネルギーを消耗したキュ。": "I... I've been asleep for a while. The space-|time transfer to Melee'ade took a lot of|energy."
+    },
+    "178": {
+        "「キューブの動作には　支障ないキュ。|　それでは　おやすみだキュ……。": "The cube is working perfectly. Good night,|Cu..."
+    },
+    "179": {
+        "「<pc>サマ。|　周辺ヲ　調査シテキマシタ。|　重要機密ニ　関ワル　主任研究員ヲ　３名確認。": "<pc> Oh, my God. I'm investigating the surrounding|area... I'm the lead researcher on a|sensitive matter."
+    },
+    "180": {
+        "「３名ノ主任研究員ニ　聞キ込ミ調査ヲ　実施シ|　ダラズ大鉱脈デ待ツ　リウ老師ノタメ|　帝国技術庁デ　情報収集シマショウ！": ""
+    },
+    "181": {
+        "「むう……飛行中に　やられたか？|　まったく　どんくさいのう。": "Uh... Did you get hit in flight? God, you're|such a douche."
+    },
+    "182": {
+        "「マリッチ　起きよ。 |　そんな　軟弱な子に|　組み上げた覚えは　ないぞえ。": "Marich... I did not build it for such a weak|boy..."
+    },
+    "183": {
+        "「これで　満足であろう？": "Are you satisfied now?"
+    },
+    "184": {
+        "「かーっ。この　ポンコツ～！！": "... You piece of shit!"
+    },
+    "185": {
+        "「な…なんじゃ。来ておったのか。": "Na... Hey... You're here..."
+    },
+    "186": {
+        "「上空デノ戦闘ニテ　魔物ノ攻撃ヲ受ケ|　発煙スルノヲ　確認シマシタ。": "We're in an air battle, and we're being|attacked by demons."
+    },
+    "187": {
+        "「皇女ヲ　守ルタメ　張リ切リスギタノデスネ。": "To protect the princess..."
+    },
+    "188": {
+        "「マリッチは　わらわの世話係じゃ。 |　そこで　張り切るのが　仕事のようなものじゃ。": "Marich is looking after me... It's like it's|his job to be there..."
+    },
+    "189": {
+        "「マリッチノ　めんてなんす許可ヲ　求メマス。|　ワタシニ　オマカセクダサレバ……。": "Marich no menutenansu permission... I'd like|to ask your permission..."
+    },
+    "190": {
+        "「ふっ　見くびるな。": "Huh. Look..."
+    },
+    "191": {
+        "「わらわは　まだ　本気を出しておらぬ。|　華麗に直してみせるゆえ　見ておれっ。": "I'm still working on my... I'm going to fix|this thing, and you're going to see..."
+    },
+    "192": {
+        "「コレハ…………？": "This is...?"
+    },
+    "193": {
+        "「うむ。外装こそ新しいが　素体は古い。 |　父上に仕えた　初期型魔神機のものでの。": "Hmm. The exterior is new, but the body... One|of the early demon machines that served your|father..."
+    },
+    "194": {
+        "「壊れたまま　放置されていたので|　こうして　再利用することにしたのじゃ。": "It was broken and neglected, so I decided to|reuse it in this way..."
+    },
+    "195": {
+        "「取り立てて　とりえのない子じゃが|　形見と思って　そばに　仕えさせておる。": "He's not much to look forward to, but I'd|like to keep him close as a memento..."
+    },
+    "196": {
+        "「ふん　形見などと……。|　歴史を改変すれば　父上は|　わらわのもとへ　帰ってくるのじゃ。": "Hmm. A memento... If I alter history, your|father will return to me..."
+    },
+    "197": {
+        "「……早う　会いたいのう。": "... I can't wait to see you..."
+    },
+    "198": {
+        "「よし。一気に　やってしまうか！": "All right. Let's do this all at once!"
+    },
+    "199": {
+        "ウルタ皇女は　すばやい手つきで|マリッチを　修理していった！": "Princess Ulta repaired Marich with a swift|hand!"
+    },
+    "200": {
+        "「なんじゃ　油くさいヤツめ。|　あまり　寄るでないっ。": "What is it? It's greasy. Don't get too|close..."
+    },
+    "201": {
+        "「<pc>　０８号……礼を言う。|　そちたちの優しさが　うれしかったぞよ。": "<pc> Issue 08... Rei... I'm glad you guys are|being so kind..."
+    },
+    "202": {
+        "「おお　そうじゃ。見せたいものがあるゆえ|　この庁舎の最上階……４階にある|　開発中枢区まで　来てたもれ。": "Oh, yeah... I want to show you something, so|come to the top of the building. It's on the|fourth floor."
+    },
+    "203": {
+        "「おかえりなさい　<pc>君　０８号。|　遠路はるばる　呼び戻して　すみませんな。": "welcome home<pc> You... I'm sorry I had to come all this way|to get you."
+    },
+    "204": {
+        "「０８号を通して　状況は把握しております。|　あなたの活躍のおかげで　じつに|　すばらしい成果が　上がりましたよ。": "We've been monitoring the situation|throughout 08... You've done a tremendous|job..."
+    },
+    "205": {
+        "「ええ……私が　期待していた以上にね……。": "Yeah, well... It's more than I could have|hoped for."
+    },
+    "206": {
+        "「あなたの　その　ウデを見込んで|　今回　ウルベアに潜入してもらった|　本当の理由を　話しておきたいと思いました。": "In light of your skill, I'd like to tell you|the real reason we asked you to infiltrate|Urbea this time..."
+    },
+    "207": {
+        "「私は　かつて……|　ウルベア地下帝国に仕える　筆頭技術者でした。": "I was once... The head engineer for the Urbea|Underground Empire..."
+    },
+    "208": {
+        "「人々の暮らしを　豊かにしたいという |　前皇帝ジャ・クバ陛下の　勅命を受け|　魔神機をはじめ　多くの発明をしたものです。": "At the behest of the former Emperor Jaquba,|who wanted to enrich the lives of his people,|he invented the Demon Machine and many other|<br>|inventions..."
+    },
+    "209": {
+        "「しかし　グルヤンラシュが　急速に台頭し |　陛下のお心をとらえると　軍事技術にかたよった|　開発方針を　推し進めるようになりました。": "But the rapid rise of Gurjarash, and his|capture of His Majesty's heart, led to a|policy of development focused on military|<br>|technology..."
+    },
+    "210": {
+        "「私は　その方針に納得できず　技術協力を断り|　ガテリアへと　亡命したのです……。": "I was unhappy with that policy, so I refused|to cooperate and defected to Gateria..."
+    },
+    "211": {
+        "「ガテリアでは　第一皇子ビャン・ダオさまの|　家庭教師として　教え導いておりました。": "In Gateria, I am the tutor of the First|Prince, Biang Dao..."
+    },
+    "212": {
+        "「あの方は　じつに　いい教え子でしたよ。 |　聡明なだけでなく　心根がまっすぐで|　情熱にあふれていた……。": "He was such a good student... Not only was he|smart, but he had a straight heart and a lot|of passion."
+    },
+    "213": {
+        "「私が　亡命してから間もなく |　ウルベアから　ガテリアへ|　和平交渉の機会が　もたらされました。": "Shortly after I defected, Urbea offered|Gateria the opportunity to negotiate a|peace..."
+    },
+    "214": {
+        "「ガテリアは　使者として|　ビャン皇子を　ウルベアへ遣わしました。|　そして……": "Gateria has sent Prince Byan as her messenger|to Urbea... And..."
+    },
+    "215": {
+        "「調停式の前日　ビャン皇子は|　ジャ・クバ陛下を　暗殺した…………。": "On the eve of the mediation ceremony, Prince|Biang assassinated His Majesty Ja Kuba..."
+    },
+    "216": {
+        "「……そんなわけは　ないッ！": "... That's not possible!"
+    },
+    "217": {
+        "「平和の尊さを学び　よく理解してくださった|　あの方が　ジャ・クバ陛下を|　殺す理由など　あるはずもない……！": "He has learned and understood the value of|peace... and there is no reason for him to|kill His Majesty Jaquba."
+    },
+    "218": {
+        "「私は　魔神兵を連れて　ウルベア城に潜入し|　収監された皇子を　救出しました。": "I've infiltrated Castle Urbea with my demon|soldiers and rescued the imprisoned prince..."
+    },
+    "219": {
+        "「魔神兵の体内凍眠室に　入っていただき|　凍眠機能を　作動させたのです。|　目覚めの時まで　誰にも侵されぬよう……。": "We've asked you to enter the hypnotic chamber|of the demon soldier's body and activate the|hypnotic function... Until he wakes up, no|<br>|one will be able to harm him."
+    },
+    "220": {
+        "「皇子とは　未来で会う約束を　しております。|　ですが……まだ　行けないのですよ。": "I promised the prince I'd meet him in the|future. But... I can't go yet."
+    },
+    "221": {
+        "「ビャン皇子にかけられた|　無実の罪を　晴らすまではね。": "I'm here to clear Prince Byan of the charges|he brought against me."
+    },
+    "222": {
+        "「あなたと０８号を　ウルベアへ送ったのは |　皇子が無実であるという　確たる証拠を|　つかむためだったのです。": "The reason I sent you and 08 to Urbea was to|get hard evidence that the prince was|innocent..."
+    },
+    "223": {
+        "「おかげで　予想外の手がかりを　得られました。|　ひょっとすると　あの方の汚名を|　そそぐことが　できるかもしれません……。": "You've given us some unexpected leads... I|may be able to clear his name..."
+    },
+    "224": {
+        "「私は　現地に潜り込んでいる|　協力者を頼りに　帝国技術庁へ向かいます。": "I'm headed to the Imperial Engineering|Agency, with the help of a local operative..."
+    },
+    "225": {
+        "「あなたにも　ぜひ　来ていただきたい。|　ビャン皇子のために　どうか　頼みます……。": "I'd like you to come... For Prince Byan's|sake, I beg you..."
+    },
+    "226": {
+        "「では　帝国技術庁の開発中枢区へ。|　０８号は　引き続き　<pc>君の|　サポートを　頼みましたぞ。": "Now, the Imperial Engineering Agency is|developing... Issue 08 continues...<pc> I need your support..."
+    },
+    "227": {
+        "「了解イタシマシタ。|　参リマショウ　<pc>サマ！": "Copy that... I'm here.<pc> Sama!"
+    },
+    "228": {
+        "「ああ　お前か。ちょうどよかった。 |　ついに　エテーネルキューブが……": "Oh... Just in time... The Eternal Cube is|finally..."
+    },
+    "229": {
+        "「おひさしぶりですな　グルヤンラシュ殿。": "It's been a long time. Gurjangra..."
+    },
+    "230": {
+        "「……そして　ウルタ皇女。|　お美しく　成長されましたな。": "... And Ul... You have grown so|beautifully..."
+    },
+    "231": {
+        "「リウ……老師！？": "Liuer... Old Master!"
+    },
+    "232": {
+        "「大罪人の脱獄に　手を貸した後 |　レジスタンスどもに　かくまわれたそうだな。|　今さら　何をしにきた？": "You were holed up with the Resistance after|you helped a high-security criminal escape|from prison. What are you doing here?"
+    },
+    "233": {
+        "「……私は　皇帝ジャ・クバ暗殺の |　真相を　解き明かしにきました。": "... I am here to uncover the truth behind the|assassination of Emperor Jaquba..."
+    },
+    "234": {
+        "「暗殺の真相じゃと……？|　何を申すか　リウ老師。": "The truth about the assassination...? What|are you talking about?"
+    },
+    "235": {
+        "「ビャン・ダオじゃ。|　あの悪鬼が　我が父上を殺したのじゃ！": "Byan Da... That fiend has killed my father!"
+    },
+    "236": {
+        "「では　確かめてみましょう。|　誰の目にも明らかな　証拠が残っているはず。": "Well, let's find out... The evidence is clear|for all to see..."
+    },
+    "237": {
+        "「そうですな　０１号？": "Right. 01?"
+    },
+    "238": {
+        "「この子は　わらわの世話係　マリッチ。|　０１号とは　なんのことじゃ。": "He's the one who takes care of me, Ma... I|don't know what an 01 is..."
+    },
+    "239": {
+        "「ウルベアの魔神機は　私が　生みだしたもの。|　はじめての試作機には　０１号と名付け|　ジャ・クバ陛下に　献上したのです。": "The Urbear Demon Plane was created by me. I|named my first prototype the 01... and|presented it to His Majesty the Jaquba..."
+    },
+    "240": {
+        "「た…たしかに　この子の素体は|　父上の側仕えをしていた　魔神機じゃが……。": "But... It is true that this child is a demon|machine that served your father..."
+    },
+    "241": {
+        "「０８号を通して　マリッチの素体を |　見させていただきましたよ。|　あれは　まぎれもない　私の刻印でした。": "Throughout 08, we have seen Marich's original|body... That is, without a doubt, my Mark..."
+    },
+    "242": {
+        "「<pc>君の　協力のおかげで|　ようやく　気づくことができたのです。": "<pc> It was only with your help that I finally|realized that..."
+    },
+    "243": {
+        "「さあ　０１号よ。|　調印式の前日　ジャ・クバさまの居室にて|　記録した映像を　再生なさい。": "Now, 0... The day before the signing|ceremony... we played the footage from|Jaqouba's apartment..."
+    },
+    "244": {
+        "「０１号に　戦闘能力はありませんでしたが|　皇帝の体調管理を　おこなうための|　記録装置をつけていました。": "The 01 was not capable of combat, but it was|equipped with a recording device to monitor|the emperor's health..."
+    },
+    "245": {
+        "「これは　０１号がとらえ　保存し続けていた |　ジャ・クバ陛下の……最期の映像……。": "This is the last image of His Majesty|Jaquba... The last footage..."
+    },
+    "246": {
+        "「明日の調印式で　ようやく|　ドワチャッカ大陸に　安寧の時代が訪れる。": "Tomorrow's signing ceremony will finally|usher in an era of peace on the Dwacha..."
+    },
+    "247": {
+        "「兵士たちが　尊い命を散らすことも |　莫大な軍事予算が　民草の生活を|　むしばむことも　もうない……。": "No more soldiers will lose their lives, no|more huge military budgets will ruin the|lives of the people..."
+    },
+    "248": {
+        "「お前たち　忠実なる魔神機たちが |　戦場で　キズつくことも　なくなるのだよ。|　よく　がんばってくれたのう……。": "You loyal demon machines won't be harmed on|the battlefield anymore... You've done|well..."
+    },
+    "249": {
+        "「ガテリアにも　平和を愛する者がいてくれた。 |　ウルタも　いつか　あの青年のような……": "Even in Gateria, there are peace-loving|people... One day, Ulta will be just like|that young man..."
+    },
+    "250": {
+        "「……お　お前は！　いったい　なぜ！？": "... Oh, you! Why are you doing this?"
+    },
+    "251": {
+        "「う…ううっ……。": "Ugh... Ugh..."
+    },
+    "252": {
+        "「父上！？": "Father!?"
+    },
+    "253": {
+        "「誰ぞ……聞こえるか……。|　そこに……おらぬか？": "Can anyone... Can you hear me... There... Are|you there?"
+    },
+    "254": {
+        "「こ…ここに　います！|　わらわは　ここです　父上ぇっ！！": "Here... I'm here! I am here, Father!"
+    },
+    "255": {
+        "「０１号……。もし　聞こえていたら|　愛するウルタに　伝えておくれ。": "01... If you can hear me, please tell my|beloved Ulta..."
+    },
+    "256": {
+        "「余の死を　乗り越えよ。 |　お前に　ウルベアのこれからを……": "I will ride out my death... I want you to|know what happens to Urbea."
+    },
+    "257": {
+        "「未来を……託す…………。": "The future... I entrust you..."
+    },
+    "258": {
+        "「デタラメを映す　下劣なガラクタめ。|　こんなもの　何の証拠にもならん！": "A vile racket that reflects the bullshit...|This doesn't prove anything!"
+    },
+    "259": {
+        "「国家転覆を目論む　反逆者どもを拘束せよ。": ""
+    },
+    "260": {
+        "「脱出不可能。|　完全ニ　閉ジ込メラレマシタ。": "Escape... I'm trapped here for good..."
+    },
+    "261": {
+        "「<pc>君には　すまないことをしました。|　すっかり　私たちの事情に|　巻き込んでしまいましたな。": "<pc> I'm sorry for what I did to you. I'm so sorry|I dragged you into our situation."
+    },
+    "262": {
+        "「グルヤンラシュは　ジャ・クバ陛下の |　ご存命中から　軍事にかたよった|　技術開発ばかり　推し進めていました。": "Guru Jan Rash has been pushing for military-|oriented technological development since the|time of His Majesty Ja Kuba..."
+    },
+    "263": {
+        "「そうして　宰相として　実権を握った後は|　平和を愛する　ジャ・クバ陛下が|　ジャマになったのでしょう……。": "And so, after assuming power as Prime|Minister, His Majesty the Peace-loving King|Jae-Kubba must have been disturbed..."
+    },
+    "264": {
+        "「皇帝殺しの罪を　ガテリアになすりつけた上|　ウルタ皇女を孤立させ　意のままに|　あやつることに　成功したわけです。": "You've successfully framed Gateria for the|Emperor's murder, isolated Princess Ulta, and|manipulated her to your will..."
+    },
+    "265": {
+        "「このような所業　とても　人とは思えぬ。|　悪鬼とは　他ならぬ　奴のことですな……！": "This is not a man... He's the one who's evil,|isn't he?"
+    },
+    "266": {
+        "「……生体反応　１体　接近中。": "... Biological Reaction 1 body ..."
+    },
+    "267": {
+        "<if_woman>「姉ちゃん　やっと会えた……！|　おいらだよ　<kyodai>だ！|　助けにきたよ！<else>「兄ちゃん　やっと会えた……！|　おいらだよ　<kyodai>だ！|　助けにきたよ！<endif>": "<if_woman>Sis, it's so good to finally meet you. It's|me.<kyodai>I'm here! I'm here to help!<else>It's me, brother. It's me.<kyodai>I'm here! I'm here to help!<endif>"
+    },
+    "268": {
+        "「その制服…… |　帝国技術庁の　筆頭研究員ですな？": ""
+    },
+    "269": {
+        "「おいら　この国に流れ着いてから|　錬金術師として　グルヤンラシュと一緒に|　時渡りの研究を　続けてきたんだ。": "I have been an alchemist with Gul'yann Rush|since I arrived in this country, studying the|time travel..."
+    },
+    "270": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は|　おいらも　すごく共感できたから……|　同じ目的のために　キューブを開発してた。": "I could relate to Galyan Rush's struggle with|time travel, so I... So I developed the Cube|for the same reason..."
+    },
+    "271": {
+        "「だけど　あいつの悪事に気づいちゃって……。|　何度も　止めようとしてきたんだけど|　結局　おいら　何もできなかった……。": "But I realized what he was doing... I tried|to stop him many times, but in the end, there|was nothing I could do..."
+    },
+    "272": {
+        "<if_woman>「でも　これ以上　見過ごせないよ。 |　今回のことは　監視装置を通して　見てたんだ。|　それで　姉ちゃんに　伝えたいことが……<else>「でも　これ以上　見過ごせないよ。 |　今回のことは　監視装置を通して　見てたんだ。|　それで　兄ちゃんに　伝えたいことが……<endif>": "<if_woman>But we can't overlook this... I've been|watching what's going on with the|surveillance equipment... And there's|<br>|something I need to tell you...<else>But we can't overlook this... I've been|watching what's going on with the|surveillance equipment... And there's|<br>|something I need to tell you...<endif>"
+    },
+    "273": {
+        "<attr><pipipi_high><end_attr>「第二庁舎　警戒れべる上昇。|　ＳＳらんく研究員以外ノ　立チ入リヲ　禁ズ。|　職員各位　留意セヨ。クリ返ス…………": "<attr><pipipi_high><end_attr>Second building, be on the lookout... No one|other than SSRANKU researchers may enter the|building... Attention all personnel... Return|<br>|the chest..."
+    },
+    "274": {
+        "「ウルタ皇女が　第二庁舎の下層にある|　特別監視室に　監禁されてるんだ！": "Princess Ulta is being held in a special|surveillance room on the lower level of the|second building!"
+    },
+    "275": {
+        "「グルヤンラシュめ……。 |　<pc>君　こうしては　おれませんぞ。": "Gulendrash...<pc> You, you, you..."
+    },
+    "276": {
+        "「第二庁舎につながる　渡り廊下は　４階にある。|　ロックは　おいらが　解除しておくよ。": "The hallway leading to the second building is|on the fourth floor... I'll unlock it."
+    },
+    "277": {
+        "<if_woman>「一緒に　皇女様を助けよう。 |　そして　グルヤンラシュを止めるんだ……|　姉ちゃん！<else>「一緒に　皇女様を助けよう。 |　そして　グルヤンラシュを止めるんだ……|　兄ちゃん！<endif>": "<if_woman>Together, we will save the princess... And|stop Gul'yann Rush... Sister!<else>Together, we will save the princess... And|stop Gul'yann Rush... Brother!<endif>"
+    },
+    "278": {
+        "「<pc>　やっと会えたな……！|　オレだ　<kyodai>だ！|　助けにきたぜ！": "<pc>  It's nice to finally meet you. It's me.<kyodai>Yeah! I'm here to help!"
+    },
+    "279": {
+        "「<pc>　やっと会えた……！|　あたしよ　<kyodai>よ！|　助けにきたわ！": "<pc>  We finally meet. It's me.<kyodai>Hey! I'm here to help!"
+    },
+    "280": {
+        "<if_woman>「お姉ちゃん　やっと会えた……！|　私よ　<kyodai>よ！|　助けにきたの！<else>「お兄ちゃん　やっと会えた……！|　私よ　<kyodai>よ！|　助けにきたの！<endif>": "<if_woman>Sis, it's so good to finally meet you. It's|me.<kyodai>Hey! I'm here to help!<else>Big brother, we meet at last. It's me.<kyodai>Hey! I'm here to help!<endif>"
+    },
+    "281": {
+        "「オレ　この国に流れ着いてから|　錬金術師として　グルヤンラシュと一緒に|　時渡りの研究を　続けてきたんだ。": "Ever since I was washed ashore in this|country, I've been working with Gul'yann Rush|as an alchemist, studying the time travel..."
+    },
+    "282": {
+        "「あたし　この国に流れ着いてから|　錬金術師として　グルヤンラシュと一緒に|　時渡りの研究を　続けてきたの。": "Ever since I was washed ashore, I've been|working with Gul'yann Rush as an alchemist,|studying the time travel..."
+    },
+    "283": {
+        "「私　この国に流れ着いてから|　錬金術師として　グルヤンラシュと一緒に|　時渡りの研究を　続けてきたの。": "I have been an alchemist since I arrived in|this country, and I have been studying time|travel with Gurjarash..."
+    },
+    "284": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は|　オレも　すごく共感できたから……|　同じ目的のために　キューブを開発してきた。": "I could relate to Guru Jan Rash's situation.|I've developed the Cube for the same reason."
+    },
+    "285": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は|　あたしも　すごく共感できたから……|　同じ目的のために　キューブを開発してきた。": "I could relate to Gurjarash's struggle with|time travel. And that's why we developed the|Cube."
+    },
+    "286": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は|　私も　すごく共感できたから……|　同じ目的のために　キューブを開発してきた。": "I could relate to Galyan Rush's struggle with|time travel. We developed the Cube for the|same reason..."
+    },
+    "287": {
+        "「でも　あいつの悪事に気づいてな……。|　何度も　止めようとしてきたんだが|　結局　オレは　何もできなかった……。": "But when I realized what he was doing... I|tried to stop him so many times, but I|couldn't do anything."
+    },
+    "288": {
+        "「でも　あいつの悪事に気づいちゃって……。|　何度も　止めようとしてきたんだけど|　結局　あたし　何もできなかったわ……。": "But then I realized what he was doing. I|tried so many times to stop him, but in the|end, there was nothing I could do."
+    },
+    "289": {
+        "「だけどね　あいつの悪事に気づいちゃって……。|　何度も　止めようとしてきたんだけど|　結局　私　何もできなかった……。": "But I realized how bad he was... I tried to|stop him many times, but in the end, there|was nothing I could do."
+    },
+    "290": {
+        "「だが　これ以上　見過ごせないぜ。|　今回のことは　監視装置を通して　見てたんだ。|　それで　お前に　伝えたいことが……": "But I can't let this go on any longer... I've|been watching what you've been doing with the|surveillance equipment... And there's|<br>|something I need to tell you..."
+    },
+    "291": {
+        "「だけど　これ以上　見過ごせないわ。|　今回のことは　監視装置を通して　見ていたの。|　それで　あんたに　伝えたいことが……": "But we can't overlook this... I've been|watching what's going on with the|surveillance equipment... And there's|<br>|something I need to tell you..."
+    },
+    "292": {
+        "<if_woman>「でもっ　これ以上　見過ごせないよ。|　今回のことは　監視装置を通して　見てたの。|　それで　お姉ちゃんに　伝えたいことが……<else>「でもっ　これ以上　見過ごせないよ。|　今回のことは　監視装置を通して　見てたの。|　それで　お兄ちゃんに　伝えたいことが……<endif>": "<if_woman>But I can't let this go on any longer... I've|been watching you through the surveillance|equipment... So, there's something I wanted|<br>|to tell you...<else>But I can't let this go on any longer... I've|been watching you through the surveillance|equipment... So, there's something I wanted|<br>|to tell you...<endif>"
+    },
+    "293": {
+        "「ウルタ皇女が　第二庁舎の下層にある|　特別監視室に　監禁されてんだ！": "Princess Ulta is being held in a special|surveillance room on the lower level of the|second building!"
+    },
+    "294": {
+        "「ウルタ皇女が　第二庁舎の下層にある|　特別監視室に　監禁されてるのよ！": "Princess Ulta is being held in a special|surveillance room on the lower level of the|second building!"
+    },
+    "295": {
+        "「ウルタ皇女が　第二庁舎の下層にある|　特別監視室に　監禁されてるの！": "Princess Ulta is being held in a special|surveillance room on the lower level of the|second building!"
+    },
+    "296": {
+        "「第二庁舎につながる　渡り廊下は　４階にある。|　ロックは　オレが　解除しといてやる。": "There's a hallway leading to the second|building on the fourth floor. I'll unlock it|for you."
+    },
+    "297": {
+        "「第二庁舎につながる　渡り廊下は　４階よ。|　ロックは　あたしが　解除しておくわ。": "The corridor that leads to the second|building... I was the one who unlocked it."
+    },
+    "298": {
+        "「第二庁舎につながる　渡り廊下は　４階よ。|　ロックは　私が　解除しておくね。": "The corridor that leads to the second|building... I unlocked it myself."
+    },
+    "299": {
+        "「一緒に　皇女を助けるぞ。|　そして　グルヤンラシュを止めるんだ……|　<pc>！": "Together, we will save the princess... And|stop Gul'yann Rush...<pc> ！"
+    },
+    "300": {
+        "「一緒に　皇女を助けましょう。|　そして　グルヤンラシュを止めるのよ……|　<pc>！": "Together, we will save the princess... And|stop Gul'yann Rush...<pc> ！"
+    },
+    "301": {
+        "<if_woman>「一緒に　皇女様を助けよう。|　そして　グルヤンラシュを止めようよ……|　お姉ちゃん！<else>「一緒に　皇女様を助けよう。|　そして　グルヤンラシュを止めようよ……|　お兄ちゃん！<endif>": "<if_woman>Together, we will save the princess... And|stop Gul'yann Rush... Sister!<else>Together, we will save the princess... And|stop Gul'yann Rush... Big brother!<endif>"
+    },
+    "302": {
+        "「皇女　ご無事ですかッ！": "Princess, are you all right?"
+    },
+    "303": {
+        "「いかん……来るなーっ！！": "No... No, no, no, no!"
+    },
+    "304": {
+        "<if_woman>「リウ老師は　おいらが守る……！|　あいつは　姉ちゃんに　まかせるよ！<else>「リウ老師は　おいらが守る……！|　あいつは　兄ちゃんに　まかせるよ！<endif>": "<if_woman>I'll protect Master Liu. I'll leave him to|you, sister!<else>I'll protect Master Liu. I'll leave him to|you!<endif>"
+    },
+    "305": {
+        "「リウ老師は　オレが守る……！|　あいつは　お前に　まかせるぜ！": "I'll protect Master Liu. I'm leaving him in|your hands!"
+    },
+    "306": {
+        "「リウ老師は　あたしが守る……！|　あいつは　あんたに　まかせるわよ！": "I'll protect Master Liu. I'll leave him in|your hands!"
+    },
+    "307": {
+        "<if_woman>「リウ老師は　私が守るよ……！|　あいつは　お姉ちゃんに　まかせるね！<else>「リウ老師は　私が守るよ……！|　あいつは　お兄ちゃんに　まかせるね！<endif>": "<if_woman>I'll protect Master Liu. I'll leave him to|you, big sister!<else>I'll protect Master Liu. I'll leave him to|you, big brother!<endif>"
+    },
+    "308": {
+        "「マリッチ……マリッチ……。": "Marich... Marich..."
+    },
+    "309": {
+        "「お前を　疑うわけではない。 |　だが……どうしても　信じられぬ。": "I don't doubt you. But I... I have to|believe..."
+    },
+    "310": {
+        "「あの　グルヤンラシュが|　裏切り者だなどと　信じたく……ない。": "I don't want to believe that Gulendrash is a|traitor. ....."
+    },
+    "311": {
+        "「わらわたちは　同じ夢を見ていたはずじゃ。|　必ずや　時を渡り　歴史を変えるのだと！": "We both had the same dream. That we would|cross time and change history!"
+    },
+    "312": {
+        "「残念だけど……|　あなたの願いは　永遠にかなわないよ。": "I'm sorry, but... Your wish will never come|true..."
+    },
+    "313": {
+        "「どんなに　強く願っても……|　エテーネルキューブは　エテーネ人が持つ|　時渡りのチカラにしか　反応しないんだ。": "No matter how hard you wish. The Etenel Cube|responds only to the Etaines' power of time|travel."
+    },
+    "314": {
+        "「あなたに　ずっと　打ち明けたかった。 |　だけど　長い間　自分の研究室を出ることすら|　許してもらえなくて。ごめん……。": "I confided in you for so long... But for so|long, you wouldn't even allow me to leave my|lab. I'm sorry..."
+    },
+    "315": {
+        "「この先に　あの　ウルベア大魔神が|　格納されておるのですな。": "The Great Urbear Demon is housed up ahead..."
+    },
+    "316": {
+        "「グルヤンラシュは　ウルベアの技術で作った|　大魔神を　おいらが作った　地脈の結晶で動かし|　最強の軍事兵器にしてしまったんだ。": "Gul'yann Rush took the Urbear's technology|and turned it into the most powerful military|weapon ever created."
+    },
+    "317": {
+        "「この研究所の周辺が　流砂の海なのは|　ウルベア大魔神が　地脈エネルギーを|　吸収したからだって　いわれてる……。": "It's said that the ocean of quicksand around|this lab is the result of the Urbere Demon|absorbing energy from the earth's veins."
+    },
+    "318": {
+        "「グルヤンラシュは　この先にいる|　大魔神を使って　何か　たくらんでるはずだ。": "Gul'yann Rush is up ahead, using the arch-|villain to concoct something..."
+    },
+    "319": {
+        "「私は　ウルタ皇女と　脱出の準備をします。|　グルヤンラシュの野望を|　どうか　止めてくだされ……！": "I'm with Princess Ulta. We're preparing to|escape. Please, stop Gurjarash's ambition."
+    },
+    "320": {
+        "「……ジャ・クバさまは|　ウルベアの未来を　貴女に託された。": "... Lord Jaquba has entrusted the future of|Urbea to you..."
+    },
+    "321": {
+        "「ウルタ皇女。|　これから　どうなさいますか……？": "Ur... What should we do now?"
+    },
+    "322": {
+        "「残念だが……|　あんたの願いは　永遠にかなわない。": "I'm sorry, but... Your wish will be granted|forever..."
+    },
+    "323": {
+        "「残念だけど……|　あんたの願いは　永遠にかなわないわ。": "I'm sorry, but... Your wish will never come|true..."
+    },
+    "324": {
+        "「残念だけど……|　あなたの願いは　永遠にかなわないの。": "I'm sorry, but... Your wish will never come|true..."
+    },
+    "325": {
+        "「どんなに　強く願っても……|　エテーネルキューブは　エテーネ人が持つ|　時渡りのチカラにしか　反応しないのさ。": "No matter how hard you wish. The Etenel Cube|responds only to the Etaines' power of time|travel."
+    },
+    "326": {
+        "「どんなに　強く願っても……|　エテーネルキューブは　エテーネ人が持つ|　時渡りのチカラにしか　反応しないのよ。": "No matter how hard you wish. The Etenel Cube|responds only to the Etaines' power of time|travel."
+    },
+    "327": {
+        "「どんなに　強く願っても……|　エテーネルキューブは　エテーネ人が持つ|　時渡りのチカラにしか　反応しないの。": "No matter how hard you wish. The Etenel Cube|responds only to the Etaines' power of time|travel."
+    },
+    "328": {
+        "「あんたに　ずっと　打ち明けたかった。|　だが　長い間　自分の研究室を出ることすら|　許してもらえなくてな。すまん……。": "I've been telling you... But for so long, you|wouldn't even let me leave my own lab... I'm|sorry..."
+    },
+    "329": {
+        "「あんたに　ずっと　打ち明けたかったわ。|　だけど　長い間　自分の研究室を出ることすら|　許してもらえなくて。ごめん……。": "I've been telling you... But for so long, you|wouldn't even let me leave my own lab. I'm|sorry..."
+    },
+    "330": {
+        "「あなたに　ずっと　打ち明けたかった。|　だけど　長い間　自分の研究室を出ることすら|　許してもらえなかったの。ごめんね……。": "I've been confiding in you... But for so|long, you wouldn't even let me leave my own|lab. I'm sorry..."
+    },
+    "331": {
+        "「グルヤンラシュは　ウルベアの技術で作った|　大魔神を　オレが作った　地脈の結晶で動かし|　最強の軍事兵器にしちまったんだ。": "Gul'yann Rush took the Urbear's technology|and turned it into the most powerful military|weapon ever created."
+    },
+    "332": {
+        "「グルヤンラシュは　ウルベアの技術で作った|　大魔神を　あたしが作った　地脈の結晶で動かし|　最強の軍事兵器にしてしまったの。": "Gul'yann Rush took the Urbear's technology|and turned it into the most powerful military|weapon ever created."
+    },
+    "333": {
+        "「グルヤンラシュは　ウルベアの技術で作った|　大魔神を　私が作った　地脈の結晶で動かし|　最強の軍事兵器にしてしまった。": "Gul'yann Rush took the Urbear's technology|and turned it into the most powerful military|weapon in the world."
+    },
+    "334": {
+        "「この研究所の周辺が　流砂の海なのは|　ウルベア大魔神が　地脈エネルギーを|　吸収したからだって　いわれてるんだ……。": "It's said that the ocean of quicksand around|this lab is the result of the Urbere Demon|absorbing energy from the earth's veins..."
+    },
+    "335": {
+        "「この研究所の周辺が　流砂の海なのは|　ウルベア大魔神が　地脈エネルギーを|　吸収したからだって　いわれてるのよ……。": "It's said that the ocean of quicksand around|this lab was created by the Urbears absorbing|the energy of the earth's veins..."
+    },
+    "336": {
+        "「この研究所の周辺が　流砂の海なのは|　ウルベア大魔神が　地脈エネルギーを|　吸収したからだって　いわれてるの……。": "It's said that the ocean of quicksand around|this lab is the result of the Urbears|absorbing energy from the earth's veins..."
+    },
+    "337": {
+        "「グルヤンラシュは　この先にいる|　大魔神を使って　何か　たくらんでるはずだ。": "Gul'yann Rush is up ahead, using the arch-|villain to concoct something..."
+    },
+    "338": {
+        "「グルヤンラシュは　この先にいる|　大魔神を使って　何か　たくらんでるはずよ。": "Gul'yann Rush is up ahead, using the arch-|villain to concoct something..."
+    },
+    "339": {
+        "「グルヤンラシュは　この先にいる|　大魔神を使って　何か　たくらんでるはずよ。": "Gul'yann Rush is up ahead, using the arch-|villain to concoct something..."
+    },
+    "340": {
+        "「貴様には　エテーネルキューブを|　開発することだけ　命じたはずだが？": "I ordered you to develop the Eternal Cube,|not the other way around."
+    },
+    "341": {
+        "「おいら　あんたを信じて|　絶対にキューブを作ろうって　決めたんだ。|　時間の漂流者同士　諦めず　がんばろうって。": "I believe in you, and I'm determined to build|the Cube. I decided to trust you and build|the Cube."
+    },
+    "342": {
+        "「なのに　どうして　こうなっちゃったんだよ！|　あんたは　自分の都合のために|　たくさんのものを　犠牲にしすぎた……。": "So why did you let this happen? You've|sacrificed so much for your own reasons..."
+    },
+    "343": {
+        "「皇帝を殺した上　皇女様をだまして|　ガテリア皇国まで　滅ぼした。|　絶対に　許されることじゃない！": "You killed the Emperor, tricked the Empress,|and destroyed the Empire of Gateria... This|is unforgivable!"
+    },
+    "344": {
+        "「許してほしいなどと　誰が言った？": "Who said anything about forgiveness?"
+    },
+    "345": {
+        "「お前たちに　理解できるはずがない……。": "You can't possibly understand..."
+    },
+    "346": {
+        "「自力で　時を渡ることすら　ままならないのに|　いつになれば　あの時代に戻れる？|　どうすれば　エテーネを救える……？": "I can't even make it through time on my own,|so when do I get to go back to that time? How|do I save Etaine?"
+    },
+    "347": {
+        "「寄る辺なき時代で　焦りはつのり |　月日だけが刻々と過ぎ……年を重ねて……": "In a time when there's nowhere to turn, I'm growing impatient| The days tick by The years go by"
+    },
+    "348": {
+        "「頭が……どうにか　なりそうだった…………。": "My head... I felt like I was going to..."
+    },
+    "349": {
+        "「<pc>ッ！|　お前に　この絶望がわかるか！？": "<pc> No! Do you have any idea how hopeless this|is?"
+    },
+    "350": {
+        "「俺は　突き止めた。|　エテーネ王国が　滅んだのは|　大規模な地盤沈下に　よるものだと……。": "I believe... The kingdom of Etaine was|destroyed by a massive land subsidence..."
+    },
+    "351": {
+        "「ウルベア大魔神は　地脈エネルギーを |　その心臓部たる　地脈の結晶に|　たくわえることができる。": "The Great Satan Urbea can store geological|energy in his heart, the vein crystal..."
+    },
+    "352": {
+        "「ドワチャッカ大陸全土の　地脈エネルギーを|　過去へ持ちかえり　大エテーネ島に注ぎ込めば|　滅びの未来は　回避されるはずだ。": ""
+    },
+    "353": {
+        "「いくつの国が滅びようと　誰を殺そうと|　俺は　必ず　やりとげてみせよう。": "No matter how many countries fall, no matter|who I kill, I will do it."
+    },
+    "354": {
+        "「エテーネを　滅びの未来から　救うんだッ！！": "We must save Etaine from a future of|destruction!"
+    },
+    "355": {
+        "「なんだ……どうなってる！？": "What the... What's going on!"
+    },
+    "356": {
+        "<if_woman>「姉ちゃん　あぶない！<else>「兄ちゃん　あぶない！<endif>": "<if_woman>Sis, watch out!<else>Brother, watch out!<endif>"
+    },
+    "357": {
+        "「動け……動いてくれっ！": "Move... Move it!"
+    },
+    "358": {
+        "「地脈の結晶に　触れるな！！": "Do not touch the crystals in the veins!"
+    },
+    "359": {
+        "「ば…馬鹿なッ。そんなはずは……。": "Horse... Horse... It can't be..."
+    },
+    "360": {
+        "「なぜだ！？　今のは…………|　パドレ叔父さん！？": "Why? ! Now that was... Uncle Padre!"
+    },
+    "361": {
+        "「<pc>ーーッ！！": "<pc> Aah!"
+    },
+    "362": {
+        "「オレ　あんたを信じて|　絶対にキューブを作ろうって　決めたんだ。|　時間の漂流者同士　諦めず　がんばろうってな。": "I believe in you, and I'm determined to make|the Cube. I've decided to trust you and build|the Cube."
+    },
+    "363": {
+        "「あたし　あんたを信じて|　絶対にキューブを作ろうって　決めたのよ。|　時間の漂流者同士　諦めず　がんばろうって。": "I believe in you, and I'm determined to make|the Cube. I've decided that I'm going to make|the Cube."
+    },
+    "364": {
+        "「私　あなたを信じて|　絶対にキューブを作ろうって　決めたの。|　時間の漂流者同士　諦めず　がんばろうって。": "I believe in you, and I'm determined to make|the Cube. We're drifters in time. We'll never|give up."
+    },
+    "365": {
+        "「なのに　どうして　こうなっちまうんだ！|　あんたは　自分の都合のために|　たくさんのものを　犠牲にしすぎた……。": "So how could you let this happen? You've|sacrificed so much for your own reasons..."
+    },
+    "366": {
+        "「なのに　どうして　こうなっちゃうのよ！|　あんたは　自分の都合のために|　たくさんのものを　犠牲にしすぎたわ……。": "So how could you let this happen? You've|sacrificed so much for your own reasons..."
+    },
+    "367": {
+        "「なのに　どうして　こうなっちゃうの！|　あなたは　自分の都合のために|　たくさんのものを　犠牲にしすぎたよ……。": "So why is this happening to me? You've|sacrificed so much for your own reasons..."
+    },
+    "368": {
+        "「皇帝を殺した上　皇女をだまして|　ガテリア皇国まで　滅ぼした。|　絶対に　許されることじゃないぜ！": "You killed the Emperor, tricked the Princess,|and destroyed the Empire of Gateria... This|will never be forgiven!"
+    },
+    "369": {
+        "「皇帝を殺した上　皇女をだまして|　ガテリア皇国まで　滅ぼした。|　絶対に　許されることじゃないわ！": "You killed the Emperor, tricked the Princess,|and destroyed the Empire of Gateria... This|is unforgivable!"
+    },
+    "370": {
+        "「皇帝を殺した上　皇女様をだまして|　ガテリア皇国まで　滅ぼした。|　絶対に　許されることじゃないわ！": "You killed the Emperor, tricked the Princess,|and destroyed the Empire of Gateria... This|is unforgivable!"
+    },
+    "371": {
+        "「<pc>　あぶない！": "<pc> Watch out!"
+    },
+    "372": {
+        "「<pc>　あぶない！": "<pc> Watch out!"
+    },
+    "373": {
+        "<if_woman>「お姉ちゃん　あぶない！<else>「お兄ちゃん　あぶない！<endif>": "<if_woman>Sis, watch out!<else>Big brother, watch out!<endif>"
+    },
+    "374": {
+        "「動け……動いてくれっ！": "Move... Move it!"
+    },
+    "375": {
+        "「動いて……動いてよっ！": "Move... Move it!"
+    },
+    "376": {
+        "「動いて……動いてっ！": "Move... Move it!"
+    },
+    "377": {
+        "「第十一代ウルベア皇帝　ジャ・クバの娘|　皇女ウルタが問う。": "Daughter of the Eleventh Emperor of Urbea,|Jaquba... Princess Ulta..."
+    },
+    "378": {
+        "「皇帝を暗殺したのは　宰相グルヤンラシュ……|　そちに　間違いないか？": "The one who assassinated the emperor was|Vizier Gurjarash... Are you sure it was you?"
+    },
+    "379": {
+        "「……そうだ。": "......"
+    },
+    "380": {
+        "「皇帝暗殺の罪を　ビャン・ダオになすりつけ|　帝国の実権を握り　意に沿わぬ技術者や廷臣を|　戦地へ送り込んで　密かに　謀殺したか？": ""
+    },
+    "381": {
+        "「そうだ。": "..."
+    },
+    "382": {
+        "「過ぎた時を戻すと　わらわを　そそのかして|　時間跳躍制御装置の開発を　おこない|　実際は　自分だけが　時を渡ろうとした……": "He's trying to seduce me into turning back the clock| Development of a time leap controller| In fact, I was the only one who tried to cross time"
+    },
+    "383": {
+        "「これも　間違いないのじゃな？": "You're sure about this, too, aren't you?"
+    },
+    "384": {
+        "「ああ。": "Oh."
+    },
+    "385": {
+        "「申し開きの　ひと言もないのかっ！！": "Not one word of apology!"
+    },
+    "386": {
+        "「エテーネ王国を　滅びの歴史から　救う。|　たとえ　どれだけの罪を　重ねようとも|　俺は　やらねばならなかった。": "The kingdom of Etaine is doomed. No matter|how many sins I have to commit, I have to do|it."
+    },
+    "387": {
+        "「……それだけだ。": "... That..."
+    },
+    "388": {
+        "「在りし日のぬくもりを　取り戻すため|　時を渡り　歴史を変えるという……夢。": "To bring back the warmth of the past, to|cross time and change history. ...."
+    },
+    "389": {
+        "「同じ夢を見て　そちと過ごした日々は|　本当に　かけがえのないものだった。": "The days I spent with you, dreaming the same|dreams, were truly precious..."
+    },
+    "390": {
+        "「だが　わらわは　皇女として……|　次の皇帝として……": "But I, as an imperial princess| As the next emperor"
+    },
+    "391": {
+        "「奸臣グルヤンラシュを　断罪する。": "Gurjarash, the scoundrel..."
+    },
+    "392": {
+        "「……俺の夢は　破れた。|　もはや　なんの未練もない。": "... My dream... I don't have any more."
+    },
+    "393": {
+        "「……撃て。": "....."
+    },
+    "394": {
+        "「グルヤンラシュ……|　わらわは　本当に　信じていたのに……。": "Gurjarash... I really believed that..."
+    },
+    "395": {
+        "「撃てッ！！": "Fire!"
+    },
+    "396": {
+        "<center>　|メレアーデ姉さん……。": "Sister Mereade..."
+    },
+    "397": {
+        "「城へ……帰還する。": "To the castle... Back..."
+    },
+    "398": {
+        "<pc>たちは　反重力飛行装置に乗って|ウルベア帝国城に　戻った。": ""
+    },
+    "399": {
+        "「皆の者　おもてを上げよ。": "All of you, show me your..."
+    },
+    "400": {
+        "「事の真相は　すでに　伝えた通りじゃ……。|　これまで　わらわが　ふがいないばかりに|　多くの者に　迷惑をかけてしまった。": "The truth of the matter is as I have already|told you. I've caused so much trouble for so|many people because of my incompetence."
+    },
+    "401": {
+        "「それでも　わらわの呼びかけに応じ|　集ってくれた者たちに　礼を言う。|　皆のチカラを　どうか　貸してほしい。": "And yet, to those of you who have answered my|call and gathered here, thank you... I ask|that you help me..."
+    },
+    "402": {
+        "「父上は　もう　この玉座には帰らぬ……|　わらわが　この国を導かねば。|　マリッチよ。しっかりと　見ていておくれ。": "My father will never return to this throne. I|will lead this nation... Mali... Keep your|eyes on me."
+    },
+    "403": {
+        "「大戦を引き起こし　ウルベアに混乱をもたらした|　奸臣グルヤンラシュは　死んだ！": "Gul'yann Rush, the scoundrel who started the|Great War and brought chaos to Urbea, is|dead!"
+    },
+    "404": {
+        "「これより　ウルベア地下帝国|　次期皇帝である　わらわの決意を示す。|　よく聞いてほしい。": "From now on, as the next emperor of the Urbea|Underground Empire, I am determined... Listen|carefully..."
+    },
+    "405": {
+        "「まず　はじめに……|　ガテリア皇国　第一皇子ビャン・ダオの名誉は|　回復される。": "First things first... The honor of the First|Prince of Gateria, Biang Dao, has been|restored..."
+    },
+    "406": {
+        "「ダラズ採掘場で　不当な労働に従事する|　ガテリアの捕虜たちも　解放させよう。|　難民の救済にも　全力を尽くす。": "Gaterian prisoners of war engaged in unjust|labor at the Daraz mining camp have been|released... And we will do everything in our|<br>|power to help the refugees..."
+    },
+    "407": {
+        "「また　帝国のエネルギー資源を　根本から見直し|　砂漠化を食い止め　後の子孫たちに誇れるような|　真に　豊かな国づくりを始める。": ""
+    },
+    "408": {
+        "「ゆがんだ時代を正し　思いなかばに |　散っていった者たちが　託した未来を|　しっかりと　両の手で受け止め……。": "The future that was entrusted to us by those|who died in the midst of our hopes to correct|the warped times... is held firmly in both|<br>|hands."
+    },
+    "409": {
+        "「このような悲劇を　二度と生むことのない|　新たな時代　新たなウルベアを……|　わらわと　共に　築いてほしい！": "A new era, a new Urbea, where tragedies like|this will never happen again. I want you to|build it with me!"
+    },
+    "410": {
+        "「ウルベア地下帝国　ばんざ～い！": "Hurray for the Urbea Underground Empire!"
+    },
+    "411": {
+        "「<pc>よ……。|　こたびは　ウルベア地下帝国のため|　よく　はたらいてくれた。": "<pc> Hello. We are here to serve the Urbea|Underground Empire..."
+    },
+    "412": {
+        "「ささやかではあるが　謝礼を用意した。|　わらわの気持ちと思って　受け取ってくれ。": "I have a small gratuity for you... I'd like|to take it as a sign of my..."
+    },
+    "413": {
+        "「そちには　このまま　ここに留まって|　わらわを　助けてもらいたいが……|　何やら　使命があるそうじゃな。": "I'd ask you to stay here and help me, but...|I'm afraid you have a mission."
+    },
+    "414": {
+        "「リウ老師には　なんぞ|　気になることが　あるとか？": "Is there something that's bothering Master|Liu?"
+    },
+    "415": {
+        "「私の懸念は　謎の剣士に持ち去られた|　地脈の結晶のことでございます……。": "My concern is for the crystals in the earth's|veins that were taken by the mysterious|swordsman..."
+    },
+    "416": {
+        "「格納庫が崩落したため　今のところ|　ウルベア大魔神には　誰も　触れられません。": "The hangar has collapsed, and so far, no one|has been able to touch the Great Satan|Urbear..."
+    },
+    "417": {
+        "「しかし　地脈の結晶が　どこかに存在する限り|　この先の未来において　ウルベア大魔神が|　復活する可能性は　ゼロではないのです。": "But as long as the crystals in the earth's|veins exist somewhere, there's a non-zero|chance that the Great Demon Urbear will|<br>|return in the future..."
+    },
+    "418": {
+        "「戦時中　グルヤンラシュが使役した|　ウルベア大魔神は　ガテリア皇国を|　一夜にして　滅ぼしてしまった……。": "During the war, Gul'yann Rush used the Urbear|Archmage to destroy the Empire of Gateria in|a single night..."
+    },
+    "419": {
+        "「あれこそは　高度な文明の |　慢心が生んだ　大いなる罪の象徴。": "That is the great sin of the pride of|advanced civilization..."
+    },
+    "420": {
+        "「私は　この時代の技術者として|　生涯をかけ　ウルベア大魔神が復活した時の|　対抗策を　講じていく所存にございます。": "As a technician of this age, I will devote my|life to devising a countermeasure against the|resurrection of the Great Satan Urbear..."
+    },
+    "421": {
+        "「うむ……頼んだぞ　リウ老師よ。|　わらわも　全力で支援すると　約束しよう。": "Mm... Please, Liu... I promise to do|everything in my power to help you..."
+    },
+    "422": {
+        "「<pc>君に　渡したいものがあります。|　これは　対抗策が完成したことを|　あなたに　知らせる探知機……。": "<pc> I've got something for you. It's a detector|that will let you know when the|countermeasure is complete."
+    },
+    "423": {
+        "「……私は　確信しております。 |　あなたならば　きっと　役立ててくれると。|　さあ　こちらを　受け取ってください。": "... I'm sure... I'm sure you'll be able to...|Now, if you'll just take this..."
+    },
+    "424": {
+        "<pc>は　リウ老師から|リウ老師の探知機（だいじなもの）を|受け取った！<me 60>": "<pc> has received Master Liu's detector from|Master Liu!<me 60>"
+    },
+    "425": {
+        "「以上デ　<pc>サマヘノ|　さぽーと任務ハ　スベテ　終了。|　ゴ利用　アリガトウゴザイマシタ。": "Above<pc> Sama heno sapote mission ha sabete... Thank|you for your service..."
+    },
+    "426": {
+        "「……名残惜シイデス　<pc>サマ。|　アナタトノ　旅ノ思イ出ハ|　イツマデモ　私ノ　宝物デス。": " I'll miss you<pc> That's it. I'll always treasure the memories|of my travels with you..."
+    },
+    "427": {
+        "「<pc>……|　ウルベアを救った　エテーネ人の英雄よ。|　わらわは　そちのことを　決して忘れぬぞ！": "<pc> ... The Athenian who saved Urbea... I will|never forget what you did!"
+    },
+    "428": {
+        "「快眠　快眠っキュ。": "Quick sleep, quick sleep..."
+    },
+    "429": {
+        "「だいぶ　チカラが回復したキュル。|　<pc>　状況報告を　要請するキュ。": "I'm feeling a lot better.<pc> I need a situation report..."
+    },
+    "430": {
+        "「そんな状況なのに　まだ　この時代に|　とどまってるつもりキュ？|　何をすべきかは　もう　わかってるはずキュ。": "You think you're still stuck in this time and|place? I already know what I have to do..."
+    },
+    "431": {
+        "「こうしてるうちに　黒衣の剣士が　現代で |　大魔神を起動させてるに　決まってるキュ。|　さっさと　元の時代に戻るっキュ！　ほれほれ！": "Meanwhile, the Black Cloaked Swordsman must|be in the present, activating the Archmage...|Let's get the hell back to the present! Come|<br>|on!"
+    },
+    "432": {
+        "「ややっ　来るぞ……。|　総員　戦闘配置に　つけーーいッ！": "Oh no, here it comes... All hands to battle|stations!"
+    },
+    "433": {
+        "「きょ…巨人だ！|　とんでもなくデカい　化け物だー！！": "Gee... A giant! It's a ridiculously big|monster!"
+    },
+    "434": {
+        "「撃ち方はじめーッ！　撃てーーェッ！！": "Start shooting! Fire!"
+    },
+    "435": {
+        "「大砲の弾が　はじかれます！|　奴は　鉄壁のバリアを　展開していますッ！": "The cannonball's been deflected! He's|deployed an impenetrable barrier!"
+    },
+    "436": {
+        "「あれは　たしかに　ウルベア大魔神！|　ひとにらみで　大地を焦土と化し|　我が祖国を滅ぼした　史上最悪の兵器……。": ""
+    },
+    "437": {
+        "「あんなものに　立ち向かうすべなど　ない。|　今度こそ　余も　リウ老師のもとへ……。": "There's nothing I can do against that thing.|This time I'm coming for you, Master Liu."
+    },
+    "438": {
+        "「なんと　<cs_pchero>か！　そなたなら|　必ず　生きていると　信じていたぞえ。": "what<cs_pchero>Yes! I know you're alive. I know you're|alive."
+    },
+    "439": {
+        "「だが　再会のよろこびも　あの大魔神の前では |　すべて　むなしい……か。": "But the joy of reunion is all for naught in|the face of that great demon ...."
+    },
+    "440": {
+        "「リウ老師が遺した　大魔神への対抗策じゃと！？": "Master Liu left us a plan to fight the Great|Demon!"
+    },
+    "441": {
+        "「おおぉお……リウ老師……ッ。|　こうしてまた　そなたに　教え導かれるとは。": "Oooh... Master Liu. .... And so, once again,|you have taught and guided me..."
+    },
+    "442": {
+        "「そうであったな……。|　余は　この時代を守ると　決めたのじゃ。|　生きておる限りは　全力で　抗ってみせようぞ！": "That's right. I have decided to defend this|age. As long as I live, I will resist with|all my might!"
+    },
+    "443": {
+        "「砲撃準備。至急　太陽の弾を装填せよ！|　目標　眼前に迫る　ウルベア大魔神ッ！": "Guns... Load the sun shells immediately! The|target is in sight! The Urbear Archmage!"
+    },
+    "444": {
+        "「撃ち方……はーーじめェーーーィ！！": "How to shoot... Ha-ha-ha-ha!"
+    },
+    "445": {
+        "「バリアの消失を　確認！|　効いてます！　効いてますよッ！！": "We've lost the barrier! It's working! It's|working!"
+    },
+    "446": {
+        "「しかし　こちらへ　向かってきます。|　ビャン殿　どうしますかッ！？": "But he's coming this way... Master Byan, what|should we do?"
+    },
+    "447": {
+        "「強敵相手に　きびしい戦いになるが……|　我らも　全力で　援護射撃をするゆえ|　<cs_pchero>　頼んだぞよ！": "It's going to be a tough fight against a tough opponent, but| We'll do everything we can to provide cover and fire|<cs_pchero>Come on, man!"
+    },
+    "448": {
+        "「奴のバリアは　打ち破った！|　我らも　援護射撃をするゆえ|　<cs_pchero>よ。今度こそ　頼んだぞよ！！": "We've broken through his barrier! We'll|provide cover fire.<cs_pchero>Hey! I'm counting on you this time!"
+    },
+    "449": {
+        "「やったぞ！　我らは　ついに|　ウルベア大魔神を　打ち滅ぼしたのじゃ！": "We did it! We have finally vanquished the|Great Urbear Demon!"
+    },
+    "450": {
+        "「３０００年の時を超えて　リウ老師が|　余を　守ってくれたのじゃな……。": "Master Liu has protected me for 3,000|years..."
+    },
+    "451": {
+        "「ガテリアの弔い合戦を　果たせたこと|　そちには　感謝してもしきれぬぞよ。": "I can't thank you enough for letting me fight|Gateria's war of atonement..."
+    },
+    "452": {
+        "「<cs_pchero>……|　そちは　まさに　ドワチャッカ大陸の英雄じゃ！": "<cs_pchero>... You are truly the hero of Dwachaqa!"
+    },
+    "453": {
+        "「おおっ　こうしては　おれんぞよ。|　急ぎ　ドルワーム王国へと戻り　報告せねば。|　ウルベア大魔神　討滅せり……とな！": "Well, well, well. I... I must hurry back to|the Kingdom of Dorworm and report... The|Great Satan Urbear has been defeated... Yes!"
+    },
+    "454": {
+        "「これより　流砂の海に沈んだ|　ウルベア大魔神の　引き上げを開始する。|　本国に持ちかえり　精密な調査をおこなうのだ。": "We are now in the process of salvaging the|Urubear Majin, which has sunk into the|quicksand sea. We will bring it back to its|<br>|home country for a thorough examination..."
+    },
+    "455": {
+        "「はっ！": "Ha!"
+    },
+    "456": {
+        "「邪魔してもらっては　困るな　雑兵ども。": "I wouldn't want you to get in the way of our|little..."
+    },
+    "457": {
+        "「ウワアアアーーーッ！！": "Whoaaaaaaaaa!"
+    },
+    "458": {
+        "「時の異分子よ。|　今度こそ　貴様との因縁……": "A different time... This time, your fate..."
+    },
+    "459": {
+        "「ここで　断ち斬る。": "Here, no..."
+    },
+    "460": {
+        "「<cs_pchero>　<cs_pchero>。今の状態で|　アイツと戦うのは　得策とは言えないキュ。|　この戦線を　離脱することを　推奨するキュ。": "<cs_pchero><cs_pchero>... I don't think it's wise to fight him in|his current state... I recommend we leave|this front..."
+    },
+    "461": {
+        "「わかった　わかったキュ……。 |　キミが　融通のきかない　非効率な思考回路を|　有した個体だということは　理解してるキュ。": "Okay, okay, okay. I understand that you're an|inflexible, inefficient individual with an|inefficient thought process."
+    },
+    "462": {
+        "「ただし　今ここで　<cs_pchero>に死なれると|　ボクとしても　それなりに　困るキュル。": "But right here, right now<cs_pchero>I mean, it's not like I don't have my own|reasons..."
+    },
+    "463": {
+        "「せめて　態勢をととのえて　出直すキュ！": "At least let me get myself together and come|back!"
+    },
+    "464": {
+        "「くッ……がはっ…………。": "Damn... Haha..."
+    },
+    "465": {
+        "<center>じつに　興味深い……。": "It's really interesting..."
+    },
+    "466": {
+        "<center>我が名は　キュロノス……。": "My name is Cyronos..."
+    },
+    "467": {
+        "<center>再三にわたり　我が眷属を倒す　戦闘能力。|強大な　時渡りの能力を有する|希少性の高さ……じつに　興味深い。": "A war that has repeatedly defeated my|people... He has a powerful ability to travel|through time. He's rare. Very interesting..."
+    },
+    "468": {
+        "<center>そこなる　欠損品と同等以上の|性能を　有していそうではあるが……": "That's it That's as good or better than the missing piece|I'm sure it's capable"
+    },
+    "469": {
+        "<center>究極へと至るまで　あと少し……。|今しばらくは　我が傀儡として|使役するとしよう。": "I am so close to reaching my ultimate goal...|For now, you will serve as my puppet..."
+    },
+    "470": {
+        "<cs_pchero>は　これまでのことを|報告するため　賢者ルシェンダの待つ|グランゼドーラ城へ　向かった。": "<cs_pchero>to Granzedorra Castle, where Sage Rhesenda|awaits to report on what has transpired..."
+    },
+    "471": {
+        "<pc>たちは　エレベーターに乗せられ|第３０２開発室に　連行されてしまった……。": "<pc> They were put in an elevator and taken to|development room 302..."
+    },
+    "472": {
+        "<pc>は|入城許可証（だいじなもの）を手に入れた！<me 60>": "<pc> I've got a permit to enter the castle!<me 60>"
+    },
+    "473": {
+        "「いよいよ　ここまで来ました。 |　完成すれば　ついに　我々の願いがかなう……。": "We've come this far... And when it's|finished, we'll finally get our wish..."
+    },
+    "474": {
+        "「……グルヤンラシュ　礼を言うぞ。|　そちがいなければ　わらわは|　とうの昔に　壊れていた。": "... Gurjarash, thank you... If it weren't for|you, I'd be dead by now."
+    },
+    "475": {
+        "「父上が暗殺され　絶望したわらわに |　過去はやり直せる　歴史は変えられる……と|　生きる希望を　与えてくれたのじゃ。": "After my father was assassinated, I was in|despair... but you gave me hope that I could|start over, that I could change history...|<br>|You gave me hope to live."
+    },
+    "476": {
+        "「私も同じです　皇女。|　あなたが　私の言葉を　信じてくれたから|　ここまで　やってこれたのですよ。": "It's the same for me... I've only made it|this far because you believed in me."
+    },
+    "477": {
+        "「うむ　よくぞ参った　<pc>よ。|　見せたいものとは　これじゃ。": "Well, well, well<pc> Hey. What I want to show you is this..."
+    },
+    "478": {
+        "「これこそが　歴史改変の夢をかなえる |　時間跳躍制御装置……エテーネルキューブ。": ""
+    },
+    "479": {
+        "「エテーネルキューブを作るためには|　非常に入手困難な　３つの素材が必要だ。": "In order to create the Eternal Cube, three|very hard-to-find materials must be used..."
+    },
+    "480": {
+        "「ひとつ目の素材は　アルケミダスト。|　高位錬金術の　副産物として生成され|　キューブのエネルギーに　変換できるものだ。": "The first material is alchemy. It was created|as a byproduct of higher alchemy and can be|converted into energy for the Cube."
+    },
+    "481": {
+        "「この時代で　優秀な錬金術師と出会い |　配下につけることができたのは　幸運だった。|　エネルギー問題は　早々に　解決できた。": "We are fortunate in this age to have found a|gifted alchemist to work under. The energy|problem was quickly solved..."
+    },
+    "482": {
+        "「ふたつ目の素材は　時の球根。|　時渡りのチカラを　キューブに定着させ|　安定した　時渡りを実現するものだ。": "The second material is time. The power of|time travel is anchored in the cube to create|a stable time travel..."
+    },
+    "483": {
+        "「こちらも　錬金術で作りだした代用品で|　間に合わせる　予定だったのだが……": "It's another alchemical substitute| I was going to make it in time, but"
+    },
+    "484": {
+        "「お前のおかげで　手間が省けた。|　どうやって　手に入れたのかは知らんが……|　相変わらず　お前は　モノ探しの天才だな。": "You've made my life so much easier... I don't|know how you did it, but... But you're still|a treasure hunter."
+    },
+    "485": {
+        "「……そして　最後が　ボロヌジウム。 |　時渡りのチカラと　莫大なエネルギーを|　内に封じる　キューブ外殻の素材じゃ。": "... And finally, Voronu. The cube's outer|shell contains the power of time and a vast|amount of energy."
+    },
+    "486": {
+        "「ガテリア皇国領地　ボロヌス溶岩流地帯の|　地底から採掘される　希少な鉱物資源でな。|　魔力を宿し　とこしえの輝きを放つ。": "A rare mineral mined from the depths of the|Voronus Lava Flow region in the Empire of|Gateria. It contains magical power and a glow|<br>|from the past..."
+    },
+    "487": {
+        "「ガテリアが　国の宝とした　ボロヌジウムを|　我らウルベアに　ゆずるはずもない……。|　交渉で済むなら　どんなによかったか。": "The Boronudium, which Gateria considered a|national treasure, cannot be given to us|Urbears... If it were only a matter of|<br>|negotiation, what would be the point?"
+    },
+    "488": {
+        "「しかし　結果的に……ボロヌジウムを|　手に入れるためには　かの国へ侵攻し|　滅ぼすしか　道は残されていなかった。": "But as it turns out... The only way to get|the Boronudium is to invade and destroy that|country."
+    },
+    "489": {
+        "「…………だが　本当に　そうだったのか？": "... But is that really what happened?"
+    },
+    "490": {
+        "「果たして　あれが　正しい選択だったのか|　今でも　わらわは…………。": "I don't know if it was the right choice, but|I still..."
+    },
+    "491": {
+        "「皇女……いいですか。|　そもそもが　ガテリアから　仕掛けてきた戦争。|　滅亡したのも　当然の末路です。": "Empress... No... It was Gateria who started|all this... It's no wonder they died out."
+    },
+    "492": {
+        "「前皇帝ジャ・クバ様。|　あなたのお父上を　殺したのは…………": "The former emperor Jaime... The man who|killed your father..."
+    },
+    "493": {
+        "「ガテリア皇国　第一の皇子|　悪鬼ビャン・ダオ……なのですから。": "The first prince of the Empire of Gateria,|the evil demon Biang Dao... So..."
+    },
+    "494": {
+        "「かつて　ビャン・ダオは|　ウルベアとガテリアの　和平を結ぶため|　使者として　我が帝国へやってきた。": "Once, Biang Dao came to our empire as an|emissary to make peace between Urbea and|Gateria..."
+    },
+    "495": {
+        "「生真面目な性質と　情熱的な姿勢を |　皇帝は　気に入っておられたのに……|　それも　すべて　演技だったとは。": "His earnestness, his passion, the Emperor|loved him. But it was all an act."
+    },
+    "496": {
+        "「調印式の前日　ビャン・ダオは|　油断した皇帝の　私室に忍び込み|　その　尊いお命を　奪った……。": "On the eve of the signing ceremony, Biang Dao|snuck into the private chambers of an unwary|emperor and took his precious life..."
+    },
+    "497": {
+        "「クッ…………。": "Kook..."
+    },
+    "498": {
+        "「ですが　ご安心ください。 |　歴史は　やり直すことが　できるのですから。": "But don't worry... History can be redone,|so..."
+    },
+    "499": {
+        "「……そうでしょう　ウルタ皇女？": "... Isn't that right, Princess Ulta?"
+    },
+    "500": {
+        "「エテーネルキューブの　完成を急げ。": "Finished the Eternal Cube..."
+    },
+    "501": {
+        "「そちは　自分の故国に戻るため。 |　わらわは　父上の悲劇を　止めるため。": "You return to your homeland... I will stop|your father's tragedy..."
+    },
+    "502": {
+        "「わらわは……もう迷わぬ。": "I'm... I'm..."
+    },
+    "503": {
+        "「さて……。|　お前が　とんだ　お人好しということは|　重々　知っている。": "Well... I know you're a real softy..."
+    },
+    "504": {
+        "「だが　それだけのために　時の球根を|　手に入れてくるとは　思えない。|　何か　目的が　あるのだろう？": "But I don't think that's why he's coming for|the time bulbs. He must have some kind of|purpose."
+    },
+    "505": {
+        "「共に　エテーネ王国へ戻ることか？|　なんでも　話してくれ。 |　俺にできることなら　協力しようじゃないか。": "You want to go back to the Kingdom of Etaine|with me? Whatever it is... If there's|anything I can do to help, I'll help..."
+    },
+    "506": {
+        "<pc>は　クオードに|ウルベア大魔神が狙われていることを　話した。": "<pc> ...has informed Quordo that the Great Satan|Urbear is being targeted..."
+    },
+    "507": {
+        "「大魔神が　敵に狙われている？|　それを　守りにきた……？": "The Great Demon is being hunted by the enemy?|And you're here to protect him?"
+    },
+    "508": {
+        "「たとえ　敵に狙われていたとしても|　この帝国技術庁ほど　守りに適した場所はない。|　余計な心配は　してくれるな。": "Even if we were being hunted by the enemy,|there's no better place to be than the|Imperial Engineering Agency. I wouldn't worry|<br>|too much..."
+    },
+    "509": {
+        "「だが……知らせてくれて　感謝する。|　大船に乗ったつもりで　後は　まかせておけ。|　お前は　ここで　自由に過ごすがいい。": "But... I'm glad you brought it to my|attention. You're on a big boat. You're in|control. You're free to stay here..."
+    },
+    "510": {
+        "「リウ老師ヨリ　音声通話ノ要請アリ。|　会話ヲ許可。接続イタシマス………………": "Master Liu, voice call needs...|Conversation... I'm connected..."
+    },
+    "511": {
+        "「……聞こえますかな　<pc>君。|　長旅　ご苦労さまでした。": " Can you hear me?<pc> You. Thank you for the long journey..."
+    },
+    "512": {
+        "「おかげで　重要な情報が　入手できました。|　一度　ダラズ大鉱脈の管理事務所まで|　戻ってきてもらえますかな？": "Thanks to you, we have important|information... Would you please return to the|Daraz Vein Management Office?"
+    },
+    "513": {
+        "「とても　大事な話があるのです。|　よろしく　頼みましたぞ……。": "I have something very important to tell|you... I'm counting on you..."
+    },
+    "514": {
+        "「……ごめんなさい　<pc>。|　私……なんだか　めまいが………………。": " I'm sorry<pc> . I'm... I'm feeling a little dizzy."
+    },
+    "515": {
+        "「おお……どうやら　無事のようじゃな！|　今　助けを呼んでくるぞよ！": "Oh... It looks like you're okay! I'll go get|help!"
+    },
+    "516": {
+        "<pc>は　ウルベア魔神兵に|どこかの部屋へと　連れていかれた……。": "<pc> was taken to a room somewhere by the Urberean|Guard..."
+    },
+    "517": {
+        "<pc>は　玉座の間を　あとにした。": ""
+    },
+    "518": {
+        "城に戻った　ウルタ皇女は　家臣たちに|これまでの真相を　すべて話した。": "Back at the castle, Princess Ulta told her|subjects everything that had happened..."
+    },
+    "519": {
+        "特に　皇帝を暗殺した　グルヤンラシュを|皇女の手で　断罪した件は|大きな衝撃を与え　城内に動揺が広がった……。": "In particular, the assassination of the|emperor, Gul'yann Rush, by the hand of the|princess, was a shock to all, and the castle|<br>|was in turmoil..."
+    },
+    "520": {
+        "「地脈エネルギーへの対抗策……|　おそらく　太陽エネルギーに　その可能性が|　あるのではないかと　考えております。": "A counter to geothermal energy... I'm|wondering if perhaps solar energy might have|the same potential..."
+    },
+    "521": {
+        "<pc>は　皇女の魔神機を探して|広場の周辺を　歩いてまわった。": "<pc> I've been walking around the square looking|for the Princess's demon machine..."
+    }
+}

@@ -1,0 +1,1334 @@
+{
+    "1": {
+        "「止まれっ！": "Stop!"
+    },
+    "2": {
+        "「この先　王国軍区画への立ち入りは|　許可ある者しか　認めておらぬ。|　立ち去るが　よいっ！": "Beyond this point, access to the Royal|Military District is restricted to authorized|personnel only... You can leave now."
+    },
+    "3": {
+        "「なにっ！？|　クオード様から　軍司令部の軍団長室に|　来るよう　言われているだと？": "What the hell? Master Quorde has asked you to|come to the Commander's office at the army|headquarters?"
+    },
+    "4": {
+        "「そういえば　クオード軍団長に|　来客の予定が　あったような……？": "Oh, by the way, I think Commander Quorde has|a visitor scheduled."
+    },
+    "5": {
+        "「たしかに　先ほど　指針書を確認した際|　そのような予定が　記載されていたな。|　この者の言うことに　間違いはないだろう。": "It's true, I just checked the guidelines, and|they do state that... There's no doubt in my|mind that this man..."
+    },
+    "6": {
+        "「……ふむ。承知した。|　そなたの通行許可は　おりているようだ。|　通るが　よい！": "..... Acknowledgement... You have permission|to pass... Come on through!"
+    },
+    "7": {
+        "「軍司令部は　正門をくぐって|　正面に見える　建物だぞ。": "The military headquarters can be seen in|front of you through the main gate..."
+    },
+    "8": {
+        "「やっと来たか　<pc>。|　待ちくたびれたぞ。": "You're finally here<pc> ... I'm tired of waiting..."
+    },
+    "9": {
+        "「……それにしても　貴様ときたら|　またもや　思いがけない場所に現れて|　まるで　ボウフラのようなヤツだな。": "... And yet, here you are, once again, in an|unexpected place, like some kind of|wormwood..."
+    },
+    "10": {
+        "「はじめて　貴様に会った時も　どうやって|　使用人たちの目を　くぐり抜け　我が屋敷に|　もぐりこんだのかと　考えをめぐらせたものだ。": "The first time I saw you, I wondered how you|had managed to get past the servants and into|my home."
+    },
+    "11": {
+        "「……ん？　なんだ　その顔は。|　まさか　貴様を捕らえ　銀色の箱を取り上げた|　この俺のことを　忘れたとでも　言うのか？<yesno><close>": "... Hmm? What the... Don't tell me you've|forgotten about me, the man who captured you|and took the silver box from you?<yesno><close>"
+    },
+    "12": {
+        "「では　なぜ　そんなとぼけた顔をする？": "Then why do you make such a stupid face?"
+    },
+    "13": {
+        "「ははっ。なんだ　脳ミソまで　ボウフラ級だな。|　自分をひっとらえた　男の顔を忘れるとは。": "What the... Oh, my God, you've got brain fog.|I can't remember the face of the man who|snatched me..."
+    },
+    "14": {
+        "「いいか？　俺は　クオード。|　現エテーネ国王である　ドミネウスの息子であり|　王国軍を指揮する　軍団長でもある！": "You know what? I am Qu... I am the son of|Domineus, the current King of Etaine, and I|am the Commander of the Royal Army!"
+    },
+    "15": {
+        "「貴様が　屋敷で　ろうぜきを働いた　すぐ後に|　第一王子であった父が　王位を継いでな。|　それで　屋敷を引き払い　王宮へ越したのだ。": "Shortly after you were rorting the house, my|father, the first prince, took the throne. So|you moved out of the house and into the|<br>|palace..."
+    },
+    "16": {
+        "「おかげで　家の者が屋敷の墜落に|　巻き込まれなかったのは　幸いだった。": "Fortunately, no one from the house was|involved in the crash..."
+    },
+    "17": {
+        "「……そう！　貴様を呼んだのは　その件だ。": "... Yes! You're here because..."
+    },
+    "18": {
+        "「貴様は　辺境の様子を　見てきたのだろう？|　現場の状況について|　もっと　くわしい話を聞かせてくれ。": "You've seen the frontier, haven't you? I'd|like to know more about the situation on the|ground..."
+    },
+    "19": {
+        "<pc>は　バントリユ地方で|体験したことを　クオードに話した。": "<pc> This is what I experienced in the Baintrille|region..."
+    },
+    "20": {
+        "「屋敷の惨状は　それほどであったか……。": "That's how bad it was at the house."
+    },
+    "21": {
+        "「それに　報告書にもあった　異形獣……。|　指針監督官が　それと同種の生物を|　あやつっていたことも　見過ごせないな……。": "And the hexenbiest that you mentioned in your|report... I can't overlook the fact that the|guidance counselor was dealing with the same|<br>|kind of creature..."
+    },
+    "22": {
+        "「……よし　わかった。|　この件については　さらに　調査を進めよう。|　もう　下がってよいぞ。": "... Okay, I... We're going to have to|investigate this further... Back off..."
+    },
+    "23": {
+        "「なんだとっ！？　貴様が　屋敷を出ていく時|　俺に渡すようにと　メレアーデ姉さんから|　記憶の赤結晶を　預かっただって！？": "What did you say? When you left the villa,|you told me that the Red Crystal of Memory|was given to you by Sister Melaade to give to|<br>|me?"
+    },
+    "24": {
+        "「おかしいな……。|　姉さんは　そんなこと|　ひと言も　いっていなかったのに……。": "That's strange... You never said anything|like that..."
+    },
+    "25": {
+        "「とにかく　早く　それをよこせっ！": "Anyway, give it to me now!"
+    },
+    "26": {
+        "<pc>は　クオードに|記憶の赤結晶を　奪いとられてしまった！": "<pc> Quordo has taken the Red Crystal of Memory|from me!"
+    },
+    "27": {
+        "「もう　用は済んだな。ご苦労であった。|　今度こそ　下がってよいぞ。": "I'm done here. Thank you for your time. Now,|back off..."
+    },
+    "28": {
+        "「……ハァ！？|　姉さんからは　俺と一緒に　記憶の赤結晶を|　見るように　言われているだと！？": "... Huh? Your sister told you to come with me|to see the red crystal of memory?"
+    },
+    "29": {
+        "「……仕方あるまい。|　だが　そこで　おとなしくしていろよ！": "... I don't know... But you're gonna stay|right there!"
+    },
+    "30": {
+        "「……クオード　<pc>。|　私の声が　届いていますか？": " Quads<pc> (speaking spanish) Can you hear me?"
+    },
+    "31": {
+        "「……これから　あなたたち　ふたりに|　大事な　使命を託します。|　私が言うことを　どうか　心にとめてください。": "... I'm going to entrust you both with a very|important mission... I hope you'll take what|I'm about to say..."
+    },
+    "32": {
+        "「おそらく　今　王都キィンベルでは|　王宮へ至る道が　閉ざされていることでしょう。": "Perhaps it's because the road to the palace|is now closed in King's Landing Khyber..."
+    },
+    "33": {
+        "「今から　あなたたちは　ともに行動し|　協力して　王宮を目指すのです。": "From now on, you will work together, you will|cooperate, and you will go to the palace..."
+    },
+    "34": {
+        "「それは　苦難を　ともなう道となるでしょうが|　あなたたち　ふたりなら　必ずや|　成しとげることができると　信じています。": "I know it will be a difficult road, but I|know that you two can make it."
+    },
+    "35": {
+        "「クオード……。|　あなたが　胸の内に秘めた　疑いは正しい。|　自分を信じ　突き進みなさい。": "Quod... The doubt in your heart... Believe in|yourself. Keep going..."
+    },
+    "36": {
+        "「それから　<pc>。|　王宮で　私と再会できたら|　どうか　願いを　聞いてほしい……。": "and then<pc> I wish... If you could see me again at the|palace, please, do me the favor of..."
+    },
+    "37": {
+        "「頼みましたよ　ふたりとも。|　願わくば　あなたたちの選ぶ道が|　正しき未来へと　至らんことを。": "I'm begging you. Two. I hope the path you|choose will lead you to a just future..."
+    },
+    "38": {
+        "「どういうことだ……？　まさか　姉さんは|　王宮への道が　閉ざされるということを|　予見でもしていたのか！？": "What do you mean...? Did you foresee that the|way to the palace would be blocked?"
+    },
+    "39": {
+        "「……いや。|　ほかでもない　姉さんが言うんだ。|　信じるしかあるまい。": "..... I don't know what else to say. You said|it yourself... I have to believe..."
+    },
+    "40": {
+        "「だが　今　王宮に向かえとは|　簡単に　言ってくれる……。": "But it's easy for you to tell me to head for|the palace now..."
+    },
+    "41": {
+        "「<pc>。今の話を　聞いていただろう？|　至急　軍が管理する　転送の門まで来い。|　王宮へ至る道は　そこにしかない。": "<pc> (speaking spanish) Did you hear what I just|said? We need to get to the military-|controlled transporter gate... The way to the|<br>|palace is through there..."
+    },
+    "42": {
+        "「転送の門の場所が　わからなかったら|　その辺にいる　兵士にでも　聞くがいい。|　俺は　先に行って　待っているからな。": "If you don't know where the transporter gate|is, ask any of the soldiers around. I'll go|ahead and wait for you."
+    },
+    "43": {
+        "「ダ…ダメですよぅ　クオード様。|　この状況で　転送の門を使うだなんて|　ムチャすぎますぅ～！！": "No... No, Quo... Using the transporter gate|in this situation is too risky!"
+    },
+    "44": {
+        "「だまれっ　ディアンジ！ |　これは　俺が決めたことだ。異論は　認めん。": "Shut up, Dianj! This is my decision... No|objections..."
+    },
+    "45": {
+        "「そ…そう　おっしゃられましても……。|　今　王都から　あなたがいなくなったら…………": "Well... I'm sorry to hear that... If you were|to disappear from King's Landing right now..."
+    },
+    "46": {
+        "「ええい　うるさい。|　それ以上　余計なクチをはさむな！": "Yeah, uh... Don't you dare say another word!"
+    },
+    "47": {
+        "「…………ん？|　ああ　<pc>。来たのか。|　それじゃあ　さっそく　出発しよう。": "... Hmm? Yeah, yeah.<pc> . Come... Well then, let's get going..."
+    },
+    "48": {
+        "「これこそが　我が軍が管理する　転送の門。|　中に入った人間を　各所に点在する別の門まで|　転移させることができるんだ。": "These are the gates our military controls. We|can transfer people inside to other gates|scattered throughout the city..."
+    },
+    "49": {
+        "「この門からは　エテーネ王宮にも転移が可能。|　許可ある者しか　使用は認められていないが|　<pc>の同行は　俺が許可する。": "From this gate, you can access the royal|palace of Etaine... Only authorized personnel|are allowed to use this gate.<pc> You can't come with me. I'll..."
+    },
+    "50": {
+        "「さぁ　行くぞ！": "Come on, let's go!"
+    },
+    "51": {
+        "「ちょぉーっと　待ってくださいぃぃ！": "Wait a minute!"
+    },
+    "52": {
+        "「あ…あなた！！|　どこの　どなたか　存じませんが|　しょしょしょ　正気ですかぁ～！？": "Oh... You! I don't know who you are, but are|you out of your mind?"
+    },
+    "53": {
+        "「現在　この門は　使用禁止になっているんです。|　この門を使った人たちが　どうなっているか|　あなただって　知っているでしょう？<yesno><close>": "This gate is now closed to the public... You|know what happened to the people who used|this gate, don't you?<yesno><close>"
+    },
+    "54": {
+        "「な　な　なんですってー！|　転送の門の現状を　ご存知ないっ！？|　あなた　どんな　おっとりさんですか！": "No, no, no, no, no! Don't you know the|current status of the Transporter Gate? What|kind of a calm person are you!"
+    },
+    "55": {
+        "「いいですか。今　この門を　使った人たちは|　全員が　行方知れずとなっていて|　いっさい消息が　つかめなくなっているんです。": "Okay... Now, all the people who used this|gate have disappeared and can't be found..."
+    },
+    "56": {
+        "「これは　前代未聞の失踪事件じゃないかって|　軍部では　ウワサになってるんですよぅ。": "There's a rumor in the military that this is|an unprecedented disappearance..."
+    },
+    "57": {
+        "「つ　つ　つまりー！　この門を使った人たちが|　いまだ戻らず　それどころか　消息不明だと|　知った上で　転移を試みるとっ！？": "I mean...! The people who used this gate|haven't come back yet, in fact they've|disappeared, and you're trying to transfer|<br>|them?"
+    },
+    "58": {
+        "「あなた　どんな　考えなしさんですか！|　とてもとても　信じられませんよぅ。": "What kind of an idiot are you! I can't|believe it, I can't believe it..."
+    },
+    "59": {
+        "「と…とにかく！|　こんな状況で　転送の門を使おうだなんて|　正気の沙汰とは　思えません！": "And... Anyway! It's insane to think that we'd|use the Transporter Gate under these|circumstances!"
+    },
+    "60": {
+        "「そんなことは　わかっている　ディアンジ。|　だが　こうしていても|　状況は　なにひとつ変わらないじゃないか！": "I know that, Di... But it's not going to|change anything!"
+    },
+    "61": {
+        "「俺が　調査を命じてから　はや数日……|　これといった成果は　得られず|　このままでは　いたずらに　時を過ごすばかり。": ""
+    },
+    "62": {
+        "「転移自体は　作用しているようだし|　門を使った人間は　転移先で　何らかの|　事件に　巻き込まれていることも考えられる。": "The transfer itself seems to be working, and|it's possible that whoever used the gate was|involved in some kind of incident at the|<br>|destination..."
+    },
+    "63": {
+        "「ここで　手をこまねいているだけでは|　何もわからぬ。だから　俺は　自身の目で|　原因を確かめるためにも　転移を試みるぞ。": "If we just sit on our hands, we'll never|know... That's why I'm going to try the|transfer, to see for myself..."
+    },
+    "64": {
+        "「それに……|　俺には　なんとしてでも　エテーネ王宮へと|　向かわねばならん　理由があるのだ！！": "Besides... I have every reason to be on my|way to the palace of Etaine!"
+    },
+    "65": {
+        "「そ…そう　おっしゃられましても……。|　何が何やら　わかっていない|　この状況では　危険すぎますよぅ。": "Well... I don't know what you're talking|about. We don't know what we're dealing with,|and it's too dangerous."
+    },
+    "66": {
+        "「うわわわっ。|　ザ…ザグルフです！！|　これは　きっと　ザグルフからの連絡ですよぅ。": "Ugh... Za... It's Zaghlov! This must be|Zaghlov calling..."
+    },
+    "67": {
+        "「……どういうことだ！？|　ザグルフには　俺から　指示があるまで|　自宅にて待機と　命じていたはずだが？": "... What's going on? I thought I told Zaghlov|to stay at home until I gave the order."
+    },
+    "68": {
+        "「そ　それが……　あいつ|　時の指針書も無視して　クオード様に内緒で|　こっそり　転送の門を使おうとしたんです。": "That's the thing... He ignored the Time|Protocol and tried to use the Transporter|Gate without telling Master Quordo..."
+    },
+    "69": {
+        "「止めたのですが　あいつときたら　強情で……。|　それで　なんとか　連絡はつくようにと|　伝声の琴を持たせて　送りだしたんですよぅ。": "I tried to stop him, but he was so|stubborn... So I sent him off with a harp so|that I could contact him."
+    },
+    "70": {
+        "「勝手なことを。|　……まぁ　いい。出てみろ。": "I don't... I... Well... I..."
+    },
+    "71": {
+        "「……ンジ……　ディアンジ……　|　聞…えて……？": "... Nge... Dianji... Hear... Can you...?"
+    },
+    "72": {
+        "「ザグルフ　ザグルフ！|　あなた　無事だったんですね！？": "Zaghlukh! Zaghlukh! You're safe, aren't you?"
+    },
+    "73": {
+        "「…イト……　星華の…イトがあれば……": " It Seika no If there is an it"
+    },
+    "74": {
+        "「星華のライト！？": "Starlight!"
+    },
+    "75": {
+        "「おい　ザグルフ！　ザグルフ！！|　聞こえるか？　そっちは　どうなっている？|　星華のライトが　必要なんだな？": "Hey, Zaghlov! Zaghluff! Can you hear me?|What's going on over there? You need the|starlight, right?"
+    },
+    "76": {
+        "「……ド様……　星……のライト…… |　……ツの……正体あ…き|　こ…から　脱出…きる…………": " Mr de Stars Lights|  The tree I know who you are | This I can get out to"
+    },
+    "77": {
+        "「クソッ。切れた！": "... I'm out!"
+    },
+    "78": {
+        "「ですが　星華のライトなんかが必要だなんて……|　いったい　どういうことなんでしょう？|　さーっぱり　意味が　わかりませんよぅ。": "But to need a starlight... What the hell does|that mean? I have no idea what you mean..."
+    },
+    "79": {
+        "「ふん。まぁ　いい。|　くわしい状況は　わからないが|　とにかく　ザグルフは　生きていたんだからな。": "Hmm. Well... I don't know what's going on,|but whatever it is, Zaghlov's alive..."
+    },
+    "80": {
+        "「それに……　ヤツが発した言葉。|　星華のライトがあれば　ここから　脱出できる。|　そう言ったように　聞こえた。": "And... He's emitting... If we had the|Starlight, we could get out of here... It's|like he said..."
+    },
+    "81": {
+        "「俺は　ザグルフのもとへ　星華のライトを|　届けるために　転送の門を使う！|　もう　文句はないな　ディアンジ！？": "I will use the teleportation gate to bring|the starlight to Zaghlov! You've got nothing|to complain about, Dianji!"
+    },
+    "82": {
+        "「……うう。わかりましたよぅ。": "..... Okay..."
+    },
+    "83": {
+        "「そうと決まれば　出発の準備だ！|　あのライトは　今は　どうなっている？|　……例によって　壊れてしまったのか？": "All right, then. Let's get ready to go! What|about that light? What's it look like now?|... Is it broken, as usual?"
+    },
+    "84": {
+        "「はい　そうなんですよぅ……。|　持っていくのであれば　また　錬金から|　始めなければ　なりません。": "Yes, that's right... If you want to take it|with you, you'll have to start smelting it|again..."
+    },
+    "85": {
+        "「よし！　では　すぐに|　ライトの作成に　取りかかってくれ！|　完成次第　出発とする。": "All right! Now, I want you to get to work on|those lights! As soon as it's done, we'll be|on our way..."
+    },
+    "86": {
+        "「俺は　いったん　軍団長室に戻っているからな。|　できるだけ　早く頼むぞ。": "I'm going back to the Commander's office...|As soon as possible..."
+    },
+    "87": {
+        "「はいぃぃっ！": "Yes, yes, yes!"
+    },
+    "88": {
+        "「<pc>　聞いていた通りだ。|　貴様にも　星華のライトが完成するまでは|　待ってもらうことになる。じゃあ　後でな。": "<pc> I've heard... I'm going to have to ask you to|wait until the starlight is finished...|Then..."
+    },
+    "89": {
+        "「あっ。そこの　クオード様の同行者さん。|　ちょっと　お願いがありまして|　私の家まで　来ていただきたいんです。": "Oh. You're accompanying Mr. Quod over|there... I was wondering if you could do me a|favor and come to my house..."
+    },
+    "90": {
+        "「くわしい話は　そちらでしましょう。|　私の家は　王都の北東の方角。|　居住区の中に　あります。": "I'll tell you more about it there. My home is|in the northeast of King's Landing. In the|northeast part of King's Landing."
+    },
+    "91": {
+        "「すぐに　来てくださいよぅ！|　絶対ですからねぇ～！！": "You have to come right away! I promise!"
+    },
+    "92": {
+        "「ややっ　あなたは……！|　お待ちしておりましたよぅ。|　さぁ　どうぞ　どうぞ。こちらへ。": "Oh, my God, you're...! We've been expecting|you. Here you go... Hey..."
+    },
+    "93": {
+        "「もうすぐ　来る頃だろうと思って|　出迎える準備を　してたんです。|　今　お茶を　お持ちしますねぇ……": "I thought you'd be here by now, so I prepared|to greet you... I'll bring you some tea|now..."
+    },
+    "94": {
+        "「っと　うわぁああああ！": "Whoa!"
+    },
+    "95": {
+        "「は…はは……！|　すみません。失敗してしまいました。|　かかりませんでしたか？": "Ha... Haha...! I... I made a mistake...|Didn't you get it?"
+    },
+    "96": {
+        "「よかった。……いやぁ　お恥ずかしながら|　私ってば　いつも　こうなんですよぅ。|　すぐに　お茶をいれなおしますね。イテテ。": "Hey, ...... I'm ashamed to say I'm always|like this. I'll make some more tea in a|minute. ......"
+    },
+    "97": {
+        "「それで　あなたを　呼んだ理由ですが……|　っと　そういえばぁ！|　自己紹介が　まだでしたぁ。": "So, the reason I called you here... Oh, by|the way... I haven't introduced myself..."
+    },
+    "98": {
+        "「私は　ディアンジといいます。|　クオード様の個人的な臣下でして|　これでも　一応　錬金術師をやっております。": "My name is Dianji... I'm Master Quorde's|personal vassal, and I'm still an|alchemist..."
+    },
+    "99": {
+        "「あなたは……　ふむふむ。 |　<pc>さんですね。覚えましたよぅ。": "You're... I...<pc> Miss... I remember..."
+    },
+    "100": {
+        "「先ほど　連絡のあったザグルフは|　私と同じく　クオード様の臣下でして。|　いえ　錬金術師では　ないのですが……": "I have just been informed that Zaghlov, like|myself, is a vassal of Master Quorde... No,|he's not an alchemist, but..."
+    },
+    "101": {
+        "「いわゆる　密偵……というんでしょうか。|　探索や　情報収集といった仕事に|　才能を発揮する　タイプでして……。": "The so-called secret agent... You know...|He's the kind of guy who's really good at|searching and gathering information."
+    },
+    "102": {
+        "「そんな役どころのせいか　あいつは|　自分のチカラが役立つかもと　危険を承知の上|　独断で　転送の門を使ってしまったのです。": "Maybe it's because of that role, but he used|the teleportation gate on his own, knowing|the risks, thinking his powers might be|<br>|useful..."
+    },
+    "103": {
+        "「これまで　行方知れずとなった者は　生死すら|　不明でしたから　ザグルフが生きていることには|　心底　ほっとしたのですがぁ……": "So far, no one's been found, dead or alive| We didn't know that Zaghlov was still alive| I was really relieved, but"
+    },
+    "104": {
+        "「ザグルフが　クチにした星華のライト！|　あれ　過去に　私が研究し　錬金したものの|　まだ実用化できていない　試作品なんですよぅ！": "The starlight that Zaghlov spoke of! That's a|prototype that I researched and smelted in|the past, but it hasn't been put to practical|<br>|use yet!"
+    },
+    "105": {
+        "「うわわっと　失礼　失礼。": "Whoa. Excuse me..."
+    },
+    "106": {
+        "「星華のライトは　特殊な錬金素材を使った|　照明器具なんです。まるで　満天の星空のように|　周囲を照らす！　はずだったのですが……": "The Starlight is a light fixture made of a|special wrought metal material... It lights|up the surrounding area like a starry sky. It|<br>|was supposed to..."
+    },
+    "107": {
+        "「実際に　錬金したライトは　やたらに|　まぶしすぎたり　壊れやすかったりと|　明るさと耐久性が　どうにも　不安定でしてね。": "In fact, some of the lights I've wrought have|been too bright, too fragile, too unstable in|terms of brightness and durability..."
+    },
+    "108": {
+        "「ずっと　研究を　続けてはいるのですが|　いまだ　実用化の目途は|　立っていないのですよぅ。とほほ。": "We've been working on it for a long time, but|we haven't found a way to put it to practical|use yet. ......"
+    },
+    "109": {
+        "「ザグルフが　なぜ今になって　あんな試作品を|　ほしがるのか　ワケがわかりませんが|　必要だというなら　錬金するしかありません。": "I don't know why Zaghlov wants that prototype|now, but if he needs it, he'll have to smelt|it..."
+    },
+    "110": {
+        "「そこで　<pc>さんに　お願いですよぅ。|　王都の北東門を越えた先　ティプローネ高地に|　星落ちる谷という　場所があるんです。": "therefore<pc> I have a favor to ask... Beyond the northeast|gate of King's Landing, in the Tipulone|Highlands, there is a place called the Valley|<br>|of the Falling Stars..."
+    },
+    "111": {
+        "「そこへ　ライトの素材を取りにいきたいのですが|　この谷には　凶悪な魔物が　おりましてね。|　ぜひ　あなたに　ご同行をお願いしたいのです。": "I'd like to go there to get some materials|for the lights, but there are vicious demons|in this valley... I'd like to ask you to|<br>|accompany me..."
+    },
+    "112": {
+        "「私　戦いの心得はないので　戦闘能力は皆無！|　それに　見ての通りの　どんくささ！|　道中　ひとりでは　こころもとないのですよぅ。": "I don't know anything about fighting. I have|no fighting skills! And as you can see, I'm a|dork! I'm not sure I want to be alone on the|<br>|road, so..."
+    },
+    "113": {
+        "「どういった事情かは　知りませんが |　あなたも　クオード様と一緒に|　転送の門を使い　王宮を目指してるんでしょう？": "I don't know what's going on, but you're|using the portal to get to the palace with|Master Quordo, aren't you?"
+    },
+    "114": {
+        "「あなたにも　悪い話ではないはずですよぅ！|　どうですか　<pc>さん。|　私に　同行していただけませんか？<yesno><close>": "It can't be that bad for you either! What do|you think?<pc> Sir. I was wondering if you could come with|me.<yesno><close>"
+    },
+    "115": {
+        "「そんなぁ……。私　ひとりでは|　ライトの錬金素材を　手に入れるのに|　こころもとないのですよぅ。": "Oh, no... I don't have the strength to get|the alchemy materials for the lights by|myself, so..."
+    },
+    "116": {
+        "「お願いします　<pc>さん。|　非力で　あわれな　この錬金術師に|　どうか　同行していただけませんか？<yesno><close>": "please<pc> sir. Will you please accompany this helpless|and pitiful alchemist?<yesno><close>"
+    },
+    "117": {
+        "「ありがとうございます！|　では　さっそく　王都の北東門を通れるように|　手配しておきますよぅ。": "Thank you! Now, I'll arrange for you to pass|through the northeast gate of King's|Landing..."
+    },
+    "118": {
+        "「星落ちる谷は　王都の北東門を越えて|　ティプローネ高地の北に　ありますからね。|　それでは　よろしく　お願いします。": "The Valley of the Falling Stars lies beyond|the northeast gate of King's Landing, north|of the Tipulone Highlands. Good day to you."
+    },
+    "119": {
+        "「はぁ　よかったですよぅ。|　<cs_pchero>さんのおかげで　こうして|　無事に　谷へ　たどり着くことができましたぁ。": "Well, that's good...<cs_pchero>Thanks to you, we were able to reach the|valley safely..."
+    },
+    "120": {
+        "「そうそう！　これです！": "Yes, yes! This is it!"
+    },
+    "121": {
+        "「これこそが　星華のライトを|　錬金する時に使う素材……|　星の彩晶石と　呼ばれる鉱石ですよぅ。": "This is the material we use to smelt the|starlight... It's an ore called the Starlight|Crystal..."
+    },
+    "122": {
+        "「まるで　星のように　きらめく鉱石だから|　そう　名付けられたのだとか。ライトの名前も|　これに　ちなんで　つけたのです！": "It's named after the ore that sparkles like a|star... That's how we named the lights!"
+    },
+    "123": {
+        "「しかしですね　この谷の近くに生息する魔物に|　この鉱石を　集める習性があるみたいで……|　それで　この鉱石の価値が　上がってるんです。": "But it seems that the demons that live near|this valley have a habit of collecting this|ore. That's why the value of this ore has|<br>|risen..."
+    },
+    "124": {
+        "「だからこそ　こうして　<cs_pchero>さんに|　ついてきていただいたワケなんですが……|　まーったく　困ったさんな話ですよぅ。": "That's why I'm here<cs_pchero>He came with me, but... I'm in a lot of|trouble..."
+    },
+    "125": {
+        "「……え？　なんですか？|　<cs_pchero>さん　私の顔になにか……": "... What? What is it?<cs_pchero>Miss, there's something on my face"
+    },
+    "126": {
+        "「って　うわぁぁぁぁぁぁ！|　言ってる　そばからぁぁぁぁぁ……！": "ohohoh? ! I'm telling you... from right|there...!"
+    },
+    "127": {
+        "「キキィィィィ！": "Squeak!"
+    },
+    "128": {
+        "「ダ…ダメですよぅ～。|　これは　クオード様のためにも|　絶対　ぜーったい　必要なんですからぁ……。": "No... No, no... This is absolutely necessary|for Mr. Quorto's sake..."
+    },
+    "129": {
+        "「キキ…キキィィィィ。": "Squeak... Squeak..."
+    },
+    "130": {
+        "「イテ。イテテっ……！|　やめてくださいぃぃ。": "Ouch. Ow...! Please stop..."
+    },
+    "131": {
+        "「ひ…ひぃぃぃっ……　<cs_pchero>さん。|　星の彩晶石を　守るため|　どうか　コイツを追っぱらってくださいぃぃ！": "Hee Heeeeee<cs_pchero>three. In order to protect the Star Crystal,|please chase this thing away!"
+    },
+    "132": {
+        "「ダ…ダメですよぅ～。|　これは　クオード様のためにも|　絶対　ぜーったい　必要なんですからぁ……。": "No... No, no... This is absolutely necessary|for Mr. Quorto's sake..."
+    },
+    "133": {
+        "「キキ…キキィィィィ。": "Squeak... Squeak..."
+    },
+    "134": {
+        "「イテ。イテテっ……！|　やめてくださいぃぃ。": "Ouch. Ow...! Please stop..."
+    },
+    "135": {
+        "「ああ……　よかったですよぅ。|　<cs_pchero>さん　戻ってきてくれたんですね。|　どうか　コイツを追っぱらってくださいぃぃ！": "Oh... I'm glad...<cs_pchero>You're back... Please help me get him back!"
+    },
+    "136": {
+        "「ああ……　よかったですよぅ。|　なんとか　星の彩晶石を|　守りきることが　できたんですね……。": "Oh... I'm glad... You were able to protect|the Star Crystal somehow..."
+    },
+    "137": {
+        "「これも　それも　ぜーんぶ|　<cs_pchero>さんの　おかげですよぅ。|　ありがとうございます。": "This, that, and all of it|<cs_pchero>Thanks to you... Thank you..."
+    },
+    "138": {
+        "「……ああ　私のキズですか？|　大丈夫です。これくらい　クオード様のためと|　思えば　へっちゃらさんです！": "... Oh, is that my scratch? It's fine. It's|no big deal. I'm doing this for Mr. Quorde!"
+    },
+    "139": {
+        "「ですが…………": "But"
+    },
+    "140": {
+        "「本当に　これで　よかったのでしょうか……？|　星華のライトを作ってしまえば　クオード様は|　危険をおかして　門の先に行ってしまいます。": "Was this really the right thing to do...? If|we make the starlight, Master Quord will risk|going beyond the gate..."
+    },
+    "141": {
+        "「もし　皆と同じように　クオード様も|　帰ってこなかったら……。": "If Master Quordo doesn't come back, like|everyone else..."
+    },
+    "142": {
+        "「……いえ。|　クオード様の従者である　私が|　こんなこと　言っちゃいけないですね。": "..... As Master Quor's squire, I shouldn't be|saying this..."
+    },
+    "143": {
+        "「早く戻りましょう　<cs_pchero>さん。|　王都で　クオード様が　待っています。|　私の家で　すぐにでも　錬金を始めなければ。": "Let's get back to it<cs_pchero>Miss. Master Quorde is waiting for you in|King's Landing... You must begin smelting in|my home at once..."
+    },
+    "144": {
+        "「ああっ　<pc>さん　すみません。|　少し　お待たせしてしまいましたね。": "oh! (expression of surprise)<pc> Excuse me... I'm sorry to keep you waiting|for so long..."
+    },
+    "145": {
+        "「ふん。それで……|　俺を　ここまで　呼んだということは|　ライトは　完成したのだろうな？": "Hmm. So... If you brought me all the way out|here, then I assume the lights are done,|right?"
+    },
+    "146": {
+        "「はいぃぃ　お待たせいたしましたぁ！|　星華のライト　完成させておきましたよぅ。": "Here you go. Sorry to keep you waiting! I've|finished the starlight..."
+    },
+    "147": {
+        "「うむ。一応は　完成したようだな。|　ご苦労であった。": "Hmm. At least it's finished... Thanks for|your help..."
+    },
+    "148": {
+        "「それから　これも　お持ちください。|　ザグルフに持たせたものと　同じ|　伝声の琴に　なります。": "And take this with you... It's the same harp|that Zaghlov had."
+    },
+    "149": {
+        "「転移した先で　何があるか　わかりませんから！|　いつでも　連絡してきてくださいね。": "You never know what's gonna happen when you|move on! You can always contact me..."
+    },
+    "150": {
+        "「……ああ。": "....."
+    },
+    "151": {
+        "「ええと　あと……剣の手入れは　大丈夫ですか？|　防寒具は　持ちました？|　おなかが空いた時のために　非常食の用意も……": "Oh, and, uh... Are you taking good care of|your sword? Did you bring your winter gear?|And emergency rations in case you get|<br>|hungry..."
+    },
+    "152": {
+        "「ええい！　くどいわ。いいかげんにしろっ！！": "Yeah, yeah! Fuck... Come on, man!"
+    },
+    "153": {
+        "「あー。くそっ。|　もう行くぞ　<pc>。ついてこい！": "Uh... We should go.<pc> (speaking spanish) Follow me!"
+    },
+    "154": {
+        "「<pc>さん。クオード様は　少々|　無茶をするところが　あります。|　どうか　道中　よろしく　お願いしますね。": "<pc> Miss. Master Quorde can be a bit reckless...|Please take care of him on the way..."
+    },
+    "155": {
+        "「<pc>　何をしている？|　チンタラしていると　引きずっていくぞ！": "<pc> What are you doing? I'm dragging you away|from here!"
+    },
+    "156": {
+        "「では　行ってくる。": "Now, go..."
+    },
+    "157": {
+        "「はっ！　いってらっしゃいませ。": "Huh! Have a good day..."
+    },
+    "158": {
+        "「……この先は　何があるか　わからない。|　せいぜい　俺の足手まといに　ならないよう|　気をつけてくれよ　<pc>。": "I... I don't know what's in store for us...|Just make sure you don't slow me down in any|way.<pc> 。"
+    },
+    "159": {
+        "「な…なんだ！？|　何が　起こっている？": "What the... What the hell? What's going on?"
+    },
+    "160": {
+        "「くっ。だ…めだ……　意識が…………": "Damn. Da... My eyes... I'm unconscious..."
+    },
+    "161": {
+        "急激に　視界が暗くなっていき|<pc>は　意識を　失ってしまった！": "Suddenly, my vision went dark|<pc> He's gone unconscious!"
+    },
+    "162": {
+        "「……よかった。気がついたようね。": "... I... I just realized..."
+    },
+    "163": {
+        "「あぁっ。まだ　起きあがらない方がいいわ。|　あなた　屋敷の外で　倒れていたのよ。": "... I don't think you should get up yet.|You're lying outside the house..."
+    },
+    "164": {
+        "「あなたは　たしか……　クオードの幼友達で|　大親友の　<pc>さんだったわね？|　心配しないで　クオードも一緒よ。ほら。": "You're, uh Quod's childhood friend| My best friend<pc> It was you, wasn't it? Don't worry. Quordo...|There you go."
+    },
+    "165": {
+        "「イ…タタ。": "Ii ....."
+    },
+    "166": {
+        "「……どういうことだ？|　ここは　墜落したはずの……　ドミネウス邸！？": "... What's going on? We're in the same|building that crashed into... The Dominus|estate?"
+    },
+    "167": {
+        "「ふふっ。何を言っているの　クオードったら。|　うちが　墜落？|　そんなこと　あるはずないじゃない。": "... What are you talking about, Quod... We're|crashing? That's not possible..."
+    },
+    "168": {
+        "「姉さん！？|　メレアーデ姉さんが　どうして　ここに？": "Sister! Why is Sister Maryse here?"
+    },
+    "169": {
+        "「どうしてって　言われても……。|　ここは　私のお屋敷なんだし。": "I don't know why... This is my house..."
+    },
+    "170": {
+        "「もう　なぁに　さっきから。変なクオードね。|　それに　あなた。|　<pc>さんに　迷惑かけちゃダメよ。": "What are you doing... Weird quo... And...<pc> I don't want to get you in trouble."
+    },
+    "171": {
+        "「剣の修行に熱心なのは　よいことだけど|　倒れるまで　<pc>さんを|　付き合わせるなんて……。": "It's good that you're dedicated to your sword training| Until he collapsed<pc> I can't believe I'm letting you go out with|him."
+    },
+    "172": {
+        "「そんな無茶ばかりしていると|　いくら　親友だからって|　<pc>さんに　愛想つかされちゃうわよ？": "You can't be that reckless| I don't care if you're my best friend|<pc> You know, you're not going to like her."
+    },
+    "173": {
+        "「は…はははははっ。": "Ha... Ha-ha-ha..."
+    },
+    "174": {
+        "「何を言うかと思えば　親友だって！？|　俺と　コイツがっ！？　それだけは|　エテーネ王国が３回滅んでも　ありえない。": ""
+    },
+    "175": {
+        "「また　クオードったら　そんなことを言って。|　<pc>さんとは　幼い頃から|　一緒に　剣の修行をする仲じゃないの。": "Oh, my God, Quordo, you're such a...<pc> I've been training with you since we were|children."
+    },
+    "176": {
+        "「……俺は　夢でも見ているのか？": "... Am I dreaming?"
+    },
+    "177": {
+        "「王都の転送の門を使ったら　墜落した屋敷に？|　しかも　<pc>が　俺の親友だって！？|　いったい　何が　どうなっているんだ……。": "You used the transport gate to King's Landing|and ended up in a crashed mansion? And...<pc> is my best friend? I don't know what the hell|is going on..."
+    },
+    "178": {
+        "「メレアーデ様　お待たせしましたぁ♪|　お飲み物を　持ってきましたよ～。": "Mr. Melaade, I'm sorry to keep you waiting,|but I brought you a drink..."
+    },
+    "179": {
+        "「こ…この声は……？": "Is that... This voice...?"
+    },
+    "180": {
+        "「いいわ　入って。": "Okay, um..."
+    },
+    "181": {
+        "「失礼しまぁ～す<heart>": "Excuse me, sir<heart>"
+    },
+    "182": {
+        "「ザグルフっ！　貴様　ふざけているのかっ！|　貴様はっ　偵察に出たのではなかったか？|　そんな格好で　何をしている！？": "Zaghlov! You've got to be kidding me! You|were on a reconnaissance mission, weren't|you? What are you doing dressed like that?"
+    },
+    "183": {
+        "「偵察？　なんのことか　わからないです～。|　私はぁ～　クオード様が　幼少の頃より|　仕えている　メイドのザグルフちゃんでぇ～す♪": "Recon? I don't know what you're talking|about... I'm Zaghlov, the maid who's been in|Master Quorde's service since he was a child."
+    },
+    "184": {
+        "「あ…頭が痛い……。": "Oh... My head hurts..."
+    },
+    "185": {
+        "「ごめんなさいね　ザグルフ。|　この子ったら　倒れた時に|　頭を　強く打ったのかもしれないわ。": "I'm sorry, Zsa... He must have hit his head|pretty hard when he fell..."
+    },
+    "186": {
+        "「あらあら。それは　それは　心配ですわね……。|　クオード様が　よくなるまで|　私　精一杯　お世話させていただきます。ウフ<heart>": "Oh... Well, well, well. I'm so sorry... I'll|do my best to look after Mr. Quordo until|he's better... Uh-huh.<heart>"
+    },
+    "187": {
+        "「ねえ　クオード。本当に　大丈夫……？": "Hey, Qu... Are you sure you're...?"
+    },
+    "188": {
+        "「どいつもこいつも　いいかげんにしろ！！": "Enough of this crap!"
+    },
+    "189": {
+        "「姉さん。そんな目で　俺を見ないでくれ。|　俺は　いたって　マトモだ。": "Don't... Don't look at me like that. I'm|just..."
+    },
+    "190": {
+        "「これ以上　茶番に　付き合う気はない。|　俺は　屋敷の様子を　確認してくる……。": "I don't know if I can take this charade|anymore. I'm gonna go check on the villa..."
+    },
+    "191": {
+        "「待って。クオード。|　まだ　休んでいたほうがっ…………": "... I... I think you should still be|resting..."
+    },
+    "192": {
+        "「あの子……　本当に　どうしちゃったのかしら。|　私に　あんな態度を　取るなんて……|　こんなこと　はじめてよ。": "That girl... I don't know what's wrong with|me. I've never seen her act like that before.|I've never..."
+    },
+    "193": {
+        "「ねぇ　<pc>さん。|　もしかして　あなたも|　私たちの言うことに　混乱しているの？<yesno><close>": "Hey<pc> Three. Are you, by any chance, confused by|what we're saying?<yesno><close>"
+    },
+    "194": {
+        "「そんな……。|　まさか　剣の修行が　行き過ぎて|　お互いの頭を　打ち合ったんじゃ……。": "Oh, no... I don't think they were practicing|with their swords so much that they hit each|other on the head..."
+    },
+    "195": {
+        "「よかった。|　あなたも　混乱してるのだとしたら|　どうしようかと　思ったもの。": "Hey, uh... I don't know what to do if you're|confused, too."
+    },
+    "196": {
+        "「とにかく　クオードのことが心配だわ。|　どうか　<pc>さんも　親友として|　あの子のチカラに　なってあげてほしいの。": "Anyway, my heart goes out to Quordo... I|don't know.<pc> As his best friend, I hope you can help|him..."
+    },
+    "197": {
+        "「そうね　あの子の様子を　見てきてくれない？|　あの様子だと　私が行っても|　きっと　聞き入れてはくれないだろうし……。": "Yeah, why don't you go check on him? I don't|think he'd be too keen on me going over|there, so..."
+    },
+    "198": {
+        "「屋敷内の移動は　自由にしてもらって|　かまわないわ。それじゃ　クオードのこと|　よろしくね　<pc>さん。": "You're free to move about the villa as you|please... Take care of Quordo for me, will|you?<pc> San."
+    },
+    "199": {
+        "「くそっ。なんで　開かないんだっ！": "... Why won't it open?"
+    },
+    "200": {
+        "「ああ。<pc>だったか。|　さっきは　ひとりで出ていって　悪かったな。": "Oh.<pc> I'm... I'm sorry I left you on your own|earlier..."
+    },
+    "201": {
+        "「……まさか　貴様まで|　俺たちが　親友どうしだとか　抜かすのか？<yesno><close>": "I... Don't tell me you're one of those guys|who thinks we're best friends.<yesno><close>"
+    },
+    "202": {
+        "「……ふん。|　どうやら　貴様は　マトモなようだな。|　ま　当然か。": "..... Apparently, you're a decent guy...|I'm..."
+    },
+    "203": {
+        "「この　ボウフラ脳ミソめ！|　俺たちは　知り合って間もない|　赤の他人だろうが！！": "You stupid brain! We've only known each other|a short time, and we're strangers!"
+    },
+    "204": {
+        "「俺は　屋敷で目覚めたことに　気づいた時|　ついに　俺の中のチカラが　覚醒して|　時間を移動したのかと　思ったんだ……。": "When I realized I'd woken up in the villa, I|thought maybe the power inside me had finally|awakened and I'd traveled through time."
+    },
+    "205": {
+        "「だが　違う！|　これは　断じて　時渡りなどではない！！": "But no! This is not a time travel!"
+    },
+    "206": {
+        "「先ほど　邸内の様子も見てきたが|　屋敷の人間の中には　王都で　転送の門を使い|　行方知れずとなった者が　何人も紛れていた。": "I've just had a look around the manor, and|there are a number of people in the villa who|used the transporter gate in King's Landing|<br>|and disappeared..."
+    },
+    "207": {
+        "「王宮にいるはずの姉さんが　いたことから考えて|　それ以外の連中も　王宮側から門を使い|　ここに　迷い込んだ者なのだろう。つまり……": "Given the presence of your sister, who is|supposed to be in the palace, the others must|have wandered in here from the palace side|<br>|using the gate... I mean..."
+    },
+    "208": {
+        "「転送の門を使った者は　なぜか皆|　この屋敷の人間だと　思い込んだまま|　ここで　時を　過ごしているということ。": "For some reason, everyone who's used the|portal has spent their time here under the|assumption that they belong here..."
+    },
+    "209": {
+        "「いったい　なぜ　そのようなことが|　起きているのか　皆目　見当もつかないが……|　今は　この異変を　解明するしかないようだ。": "I have no idea why this is happening, but...|But right now, all we can do is try to figure|out what's going on."
+    },
+    "210": {
+        "「見ろ。ここの転送の門は　開きもしない。|　俺も　貴様も　このままじゃ|　屋敷から　出られないということさ！": "Look. The forwarding gate here is still|open... Which means you and I are never|getting out of this house!"
+    },
+    "211": {
+        "「さて。どうしたものかな……。|　頼みの綱であるザグルフも　あの様子では|　まったく　アテになりそうもないし……": "Well. I don't know what to do... Zaghlukh,|our best hope, doesn't look like he's going|to be much help at all..."
+    },
+    "212": {
+        "「そうだ！　俺はバカか……！？": "That's right! I'm an idiot...?"
+    },
+    "213": {
+        "「星華のライトだよ！|　あれを　ザグルフに見せれば|　何か　思いだすかもしれないっ！": "It's the starlight! If we show it to Zaghlov,|maybe he'll remember something!"
+    },
+    "214": {
+        "「…………ない。|　俺の荷物が　なくなっている。|　ライトも　伝声の琴も　全部だ！！": "..... My stuff is gone... The lights, the|harp, everything!"
+    },
+    "215": {
+        "「おそらく　さっき　気を失っている間に……？": "Perhaps while you were passed out earlier...?"
+    },
+    "216": {
+        "「くそっ。なんだか　ずっと|　後手に　回ってしまっているようだな。": "... I feel like I'm falling behind..."
+    },
+    "217": {
+        "「手分けしてライトを探すんだ　<pc>！|　見つけたら　すぐ　俺に知らせるんだぞ！": "We need to split up and find the lights<pc> Hey! As soon as you find him, you let me|know!"
+    },
+    "218": {
+        "「…………<pc>。ボクだキュ。": "<pc> I... Boku..."
+    },
+    "219": {
+        "「さっきのアイツは　<pc>も|　ここから　出られないとか言っていたけど|　そんなことは　ないキュ。なぜなら……": "That guy back there<pc> I know you said you were stuck here, but|that's not true. Because..."
+    },
+    "220": {
+        "「エテーネルキューブが　あるからキュ！ |　キューブを使えば　<pc>は　すぐに|　もとの世界へ戻ることが　できるキュ。": "Because we have the Eternal Cube. If you use|the cube<pc> And soon, you'll be able to return to your|world..."
+    },
+    "221": {
+        "「こんな　あやしげな場所からは|　一刻も早く　撤退することを　提案するキュ。": "I suggest we leave this dubious place as soon|as possible..."
+    },
+    "222": {
+        "「……どうしたキュ？": "... What's wrong, Cu?"
+    },
+    "223": {
+        "「まさか　さっきのアイツ……|　クオードのことが　気になるキュ？<yesno><close>": "No way. That guy back there... You're worried|about Quaude?<yesno><close>"
+    },
+    "224": {
+        "「なるほど。それは　すまなかったキュ。|　<pc>が　心配してるのは|　クオード以外だったキュね。いずれにしても……": "I'm... I'm sorry. I'm sorry.<pc> But it's not Quor that I'm worried about...|In any case..."
+    },
+    "225": {
+        "「まったく　キミの考えは　理解できないキュ。|　第一に考えるべきは　自身の安全の確保……|　他人のことを考えるのは　それからキュ。": "I just don't understand how you think... The|first thing you should be thinking about is|your own safety... It's not about other|<br>|people. It's about..."
+    },
+    "226": {
+        "「やれやれキュ……。|　<pc>の意志は　固そうキュね。|　好きにすると　いいキュ。": "Oh, my God, Cu...<pc> You seem determined... Do what you want..."
+    },
+    "227": {
+        "「星華のライトとやらを　探すんだったキュね。|　まずは　屋敷の住人から　何か|　情報を集めてみるのが　いいと思うキュ。": "I was looking for something called the|Starlight. I think we should start by trying|to get some information from the people who|<br>|live in the mansion."
+    },
+    "228": {
+        "「まぁ　<pc>さん。|　その後　クオードの様子は　どう？": "oh!<pc> Mr. How's Quod doing since then?"
+    },
+    "229": {
+        "「あの子……　すごく混乱しているようだったから|　私　心配で…………。": "She... He seemed so confused. I was worried."
+    },
+    "230": {
+        "「だから　どうか|　<pc>さんも　親友として|　あの子のチカラに　なってあげてほしいの。": "So, please|<pc> As his best friend, I hope you can help|him..."
+    },
+    "231": {
+        "「屋敷内の移動は　自由にしてもらって|　かまわないわ。クオードのこと　よろしくね。|　<pc>さん。": "You are free to move about the villa as you|please... I'll take care of the quads...<pc> San."
+    },
+    "232": {
+        "音は　袋の中から聞こえてくるようだ。|袋の中身を　確認してみますか？<yesno><close>": "The sound is coming from inside the bag...|Would you like to see what's in the bag?<yesno><close>"
+    },
+    "233": {
+        "弦を弾くような音は|今もなお　鳴りつづけている。|袋の中身を　確認してみますか？<yesno><close>": "The sound of the plucked strings is still|ringing... Would you like to see what's in|the bag?<yesno><close>"
+    },
+    "234": {
+        "<pc>は　袋の中身を　確認してみた。": "<pc> Let's see what's in the bag..."
+    },
+    "235": {
+        "さまざまな荷物の中に|クオードのものと思われる　荷物もある。": "Among the various packages, there's one that|looks like it belongs to a Quaude..."
+    },
+    "236": {
+        "どうやら　暖炉の奥から聞こえていた音は|クオードの伝声の琴が　奏でていたようだ。": "Apparently, the sound coming from the back of|the fireplace was being played by Quod's|propagating harp..."
+    },
+    "237": {
+        "<pc>は　伝声の琴に　ふれてみた。": "<pc> It's a message that strikes a chord..."
+    },
+    "238": {
+        "「……ド様！　クオード様ですね！？|　やっと　つながりましたよぅ～。|　私です！　ディアンジです。": "... Master Quod! You must be Mr. Quod! We're|finally connected... It's me! Diane..."
+    },
+    "239": {
+        "「クオード様が　連絡をくださらないから|　そちらの様子が　気になって|　私のほうから　連絡をしたのですよぅ。": "Since Mr. Quod hasn't been in touch, I was|wondering how you were doing, so I contacted|you..."
+    },
+    "240": {
+        "「……えっ！？　クオード様じゃなくて|　<pc>さん？": "... What? Not Mr. Quod.<pc> Mr.?"
+    },
+    "241": {
+        "「いったい　なぜ　あなたが出るのです？|　クオード様は　どうしたのですかっ！？": "Why on earth would you leave? What's wrong|with you, Mr. Quod?"
+    },
+    "242": {
+        "「誰だ……！？": "Who are you?"
+    },
+    "243": {
+        "「おお！　よく　この場所を見つけたな！|　ここは　隠し部屋になっているんだ。|　声が聞こえたから　来てみたんだが……": "Oh! How did you find this place? This is a|hidden room... I heard voices, so I came|here, but..."
+    },
+    "244": {
+        "「ん……？　それは　伝声の琴じゃないか！？|　ちょっと　貸してみろっ！": "Hmm...? Isn't that a harp? Give it to me!"
+    },
+    "245": {
+        "「クオード様！　クオード様！！|　ご無事だったんですね。よかったですよぅ～。": "Master Quorde! Mr. Quod! You're safe... Oh,|my God. Oh, my God."
+    },
+    "246": {
+        "「ああ。ケガもなく　無事だ。|　こっちのことは　何も心配いらない。": "Oh. No injuries... Nothing to worry about|over here..."
+    },
+    "247": {
+        "「なんという　頼もしい　お言葉！|　クオード様に　おまかせしていれば|　大丈夫ということなのですね？": "What encouraging words! So you're saying|it'll be fine as long as I leave it to you,|right, Quordo?"
+    },
+    "248": {
+        "「うむ。だから　もう連絡は不要だ。|　今後　二度と　こちらから|　連絡することもないと思う。じゃあな。": "Mmm. So I won't be contacting you anymore...|I won't be contacting you again... I..."
+    },
+    "249": {
+        "「え……？": "Huh...?"
+    },
+    "250": {
+        "「さて……と。|　もう　こんな狭い所に　用はないはずだろ？": "Well, .... You don't want to be in this|little place anymore, do you?"
+    },
+    "251": {
+        "<if_woman>「また　あとで　いつものように|　剣の修行もしような　<pc>ちゃん。|　それじゃ……。<else>「また　あとで　いつものように|　剣の修行もしような　<pc>くん。|　それじゃ……。<endif>": "<if_woman>I'll see you later Like always| You should learn to use a sword<pc>   ... Well, then...<else>I'll see you later Like always| You should learn to use a sword<pc> Kun. Well, then...<endif>"
+    },
+    "252": {
+        "「あ～あ。どうやら　クオードも|　この屋敷に　取り込まれてしまったようキュね。": "... It seems that Quorde has been taken in by|this house..."
+    },
+    "253": {
+        "「だから　言ったんだキュ。|　<pc>も　ああは　なりたくなかったら|　早く　この屋敷を出るキュ。": "I told you...<pc> If you don't want to be like that, get out of|this house..."
+    },
+    "254": {
+        "「……は～っ。わかった　わかったキュ。|　<pc>が　意見を|　変える気がないのは　理解したキュよ。": "...... Okay, okay, okay...<pc> But I understand that you're not willing to|change your mind."
+    },
+    "255": {
+        "「まったく　<pc>も強情なヤツだキュ。|　そういうことなら|　早く　その荷物を調べるキュ！": "completely<pc> He's so stubborn... If that's the case, then|let's go check out that package!"
+    },
+    "256": {
+        "「さっきから　食欲を刺激する臭気を感じるキュ。|　これは　ボクの愛好食用物質……|　チョコレートが入ってる確率　９６パーセント！": "I've been detecting an appetizing odor...|This is my favorite edible substance. There's|a 96% chance it contains chocolate!"
+    },
+    "257": {
+        "「……ん？　言ってなかったキュか？": "... Hmm? Didn't I tell you?"
+    },
+    "258": {
+        "「<kyodai>が　よくチョコレートを食べていて|　いつも　ボクにも　分けてくれたんだキュ。|　それ以来　愛好食用物質に指定したキュ。": "<kyodai>He used to eat a lot of chocolate, and he|used to share it with me. I've designated it|as my favorite edible substance ever since."
+    },
+    "259": {
+        "「キミたちのことは　理解できないことが多いけど|　チョコレートは　いいものだと思うキュよ。|　わかったら　早くするキュ！　ほれほれ！": "There's a lot I don't understand about you|guys, but I think chocolate is a good... I'll|make it quick! Come on!"
+    },
+    "260": {
+        "「どうしてだろう……？|　姉さんと　こうしているだけで|　心が　穏やかに　なっていくようだよ……。": "I don't know why... Just being here with you|makes me feel at peace..."
+    },
+    "261": {
+        "「ずっとずっと　こんな時間を　過ごしていたい。|　それが　僕の願いだったんだ……。": "I've always wanted to spend time like this...|That's all I've ever wanted."
+    },
+    "262": {
+        "「ふふっ。どうしたの　クオードったら？|　私は　いつも　そばにいるわ。|　今までも　これからも　ずーっとね。": "... What's the matter with you, Quordo? I've|always been there... I always have been, I|always will be..."
+    },
+    "263": {
+        "「そんなふうに　ぼんやりしていると　ほら……": "When you're in a daze like that, you see"
+    },
+    "264": {
+        "「はいっ。チェックメイト！": "... Checkmate!"
+    },
+    "265": {
+        "「あぁっ　姉さん。待ってよ！": "Agh... Wait!"
+    },
+    "266": {
+        "「うふふっ。待ったは　なしよ。|　手かげんしないで　いつも　全力。|　私たち姉弟が　勝負する時の約束でしょ？": "Uh... Wait, wait, wait, wait. You can't be|too hard on me. You always... Isn't that what|we always agreed when we played each other?"
+    },
+    "267": {
+        "「ちぇー。|　手厳しいなぁ　姉さんは……。": "... That's harsh. You're not..."
+    },
+    "268": {
+        "「メレアーデ様　クオード様。|　お客様が　お待ちのようですよ。": "Mr. Melaade, Quo... I'm afraid you have a|visitor waiting for you."
+    },
+    "269": {
+        "「あら……　<pc>さん。|　気づかず　ごめんなさい。|　どうしたの？　私たちに　何か用でも？": "Oh, my<pc> San. I'm sorry I didn't recognize you...|What's going on? Did you want to see us?"
+    },
+    "270": {
+        "ザグルフ　クオード　メレアーデの|誰に　ライトを当ててみますか？|<select_nc>|ザグルフ|クオード|メレアーデ|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "Zaghlukh, who would you like to shine a light|on at Quaalude Mereade?|<select_nc>|Zaghlukh|quad|melee|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "271": {
+        "<pc>は　クオードに向かって|思いきり　星華のライトを　当てた。": "<pc> ...to the quads, and I'm gonna hit the|starlight with everything I've got."
+    },
+    "272": {
+        "「うわっ　やめろっ　まぶしい！|　いきなり　何をするんだ！|　こんな無礼は　いくら　きみでも許さないぞ！！": "No, no, no, no, no, no, no! What the hell are|you doing? I don't care how rude you are, you|can't do this!"
+    },
+    "273": {
+        "クオードに　変わったところはないようだ。": "There's nothing unusual about Quod..."
+    },
+    "274": {
+        "<pc>は　ザグルフに向かって|思いきり　星華のライトを　当てた。": "<pc> ...to Zaghlov with all his starlight..."
+    },
+    "275": {
+        "「きゃー<heart>|　まばゆいほどに　私を照らす　この輝き……。|　ああん……　か・い・か・ん<heart>": "yikes!<heart>This glow that shines so brightly on me...|Oh... Ka-kaan.<heart>"
+    },
+    "276": {
+        "ザグルフに　変わったところはないようだ。": "There's nothing unusual about Zaghlov..."
+    },
+    "277": {
+        "<pc>は　メレアーデに向かって|思いきり　星華のライトを　当てた。": "<pc> ...to the Mareade, with all her starlight..."
+    },
+    "278": {
+        "「きゃっ！　い…いやっ……！|　<pc>さん。|　お願いです　やめてください。": "Oh, my God! No... No...!<pc> Three. Please, don't..."
+    },
+    "279": {
+        "<if_woman>「おいおい。<pc>ちゃん……？|　いきなり　何をするんだ！？|　姉さんが嫌がってるじゃないか。やめてくれよ！<else>「おいおい。<pc>くん……？|　いきなり　何をするんだ！？|　姉さんが嫌がってるじゃないか。やめてくれよ！<endif>": "<if_woman>お...<pc>   You...? What are you doing here? You don't|want to... Stop it!<else>お...<pc> Kun...? What are you doing here? You don't|want to... Stop it!<endif>"
+    },
+    "280": {
+        "「えっ？　きみは　大事なものが欠けた人物を|　探すために　こうして|　ライトを　当てているだと！？": "What? You're shining your light here to find|someone who's missing something important?"
+    },
+    "281": {
+        "「……それが　姉さんだというのか？|　じゃあ　聞くけど……メレアーデ姉さんに|　何が欠けているって　言うんだ？|<select_nc>|心がない|華がない|影がない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "... Is that who you are? Let me ask you|this... What is it about you that is so|lacking?|<select_nc>|faint-hearted|lacking charm|not a shadow of one's former self|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "282": {
+        "「心がないだって？　きみが　姉さんを|　そんなふうに思ってたなんて　がっかりだよ。|　姉さんは　優しく　あたたかい人さ。": "Heartless? I can't believe that's how you|feel about her. You're sweet, you're warm..."
+    },
+    "283": {
+        "「……改めて　問わせてくれ。|　きみは　メレアーデ姉さんに|　何が欠けていると　思ったんだい？|<select_nc>|心がない|華がない|影がない|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "... Let me ask you again... What did you|think was missing from your sister Mareade?|<select_nc>|faint-hearted|lacking charm|not a shadow of one's former self|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "284": {
+        "「華がないだって？|　姉さんが　地味だとでも言いたいのか？|　それは　いくらなんでも　失礼じゃないか！？": "What do you mean, she's not gorgeous? Are you|saying I'm plain? Isn't that rude?"
+    },
+    "285": {
+        "「影がないだって？|　そんなバカなこと　あるわけないだろう？|　よく　見てみ…………": "No shadow? How is that possible? How is that|possible? Take a closer look..."
+    },
+    "286": {
+        "「え…えええっ！？": "Uh... What?"
+    },
+    "287": {
+        "「いやーん！　メレアーデ様の影ちゃんが|　なくなってるなんてぇ～　信じらんなぁーい！|　いったい　どこに　行っちゃったのぉ～？": "No! I can't believe Lady Melaade's shadow is|gone! Where the hell did she go?"
+    },
+    "288": {
+        "「……ふふっ。うふふふふふ…………。": "...... Mmmmmmmm..."
+    },
+    "289": {
+        "「姉さん……　どうして　笑っているの……？|　う…うそだよね……？|　なにかの　冗談だって　言ってよ……。": "Sister... Why are you smiling...? It's not|true... It's not true, is it? Please tell me|you're joking."
+    },
+    "290": {
+        "「まさか　そんな粗末なライトで|　バレてしまうとは…………。": "I didn't think you'd be caught with such a|poorly lit..."
+    },
+    "291": {
+        "「だけど　私の正体がバレても問題はない……。|　あなたたちは　全員　この場所で|　永遠の時を　さまようだけ……。": "But it doesn't matter if they know who I|am... You will all spend eternity in this|place..."
+    },
+    "292": {
+        "「ま…待てっ……！": "Wait... Wait!"
+    },
+    "293": {
+        "<if_woman>「くそっ。なぜ　俺は　<pc>のことを|　ちゃんづけなどとぉぉぉ……。<else>「くそっ。なぜ　俺は　<pc>のことを|　くんづけなどとぉぉぉ……。<endif>": "<if_woman>... Why am I...<pc>   I've been calling you \"chanko\"...<else>... Why am I...<pc> I'm not a kisser...<endif>"
+    },
+    "294": {
+        "「う…うわぁぁぁぁぁ！|　ななな…なんだ　この格好……！？": "Ugh... Whoa! Na-na... What's with this|outfit...?"
+    },
+    "295": {
+        "「ザグルフ！ |　どうやら　正気に　戻ったようだな。": "Zaghlov! It seems he's come to his senses..."
+    },
+    "296": {
+        "「ククククオード様。|　どどどうして　ここに……？": "Kkkkkkk... What are you doing here?"
+    },
+    "297": {
+        "「転送の門の異変を　調べるために|　貴様を　追ってきたというわけだ。|　そして　まさに今　真相のしっぽをつかんだ。": "They say they've been following you here to|find out what happened to the portal. And now|you're about to find out the truth."
+    },
+    "298": {
+        "「先ほどの魔物が　この屋敷で起きている|　異変の元凶に　間違いないだろう。|　ともかく　ヤツの足取りを追うのが　先だ！": "The demon we saw earlier is no doubt the|cause of the strange happenings in this|house... Anyway, we've got to track him down|<br>|first!"
+    },
+    "299": {
+        "「俺は　廊下のほうを　探してこよう。|　<pc>は　この辺りを　探してくれ。|　では　頼んだぞ。": "I was looking down the hall...<pc> I'll look around here... Okay, well..."
+    },
+    "300": {
+        "「<pc>！": "<pc> ！"
+    },
+    "301": {
+        "「ザグルフから　貴様が　絵画の中に|　すいこまれてしまったと　聞いたんだ。|　だから　俺も　急いで追いかけてきた。": "Zaghlov told me that you were swallowed up in|the painting. So I rushed after you."
+    },
+    "302": {
+        "「それにしても……　まさか　ザグルフが|　俺以外のヤツと　マトモに　しゃべれるとはな。|　ちょっと　おどろいた。": "And yet... I don't think Zaghlov can speak|properly with anyone but me. I'm a little..."
+    },
+    "303": {
+        "「えっ？　危なっかしい　しゃべり方だった？|　それでも　<pc>は　ザグルフの意図を|　理解し　ここに　たどり着いたというわけか。": "What? Did I speak in an awkward manner?|Still...<pc> He says he understood Zaghlov's intentions|and ended up here..."
+    },
+    "304": {
+        "「なるほど……な。": "I see. ...."
+    },
+    "305": {
+        "「ザグルフのやつは……|　なんというか　少々　人見知りでな。|　他者と言葉を交わすのが　極端に　苦手なのだ。": "Zaghlukh's... He's a little shy... He's not|very good at talking to other people."
+    },
+    "306": {
+        "「もとは　軍の密偵部隊にいたのだが|　あの性格のせいで　もてあまされていたのを|　俺が　個人的な部下として　引き取った。": "He used to be in the army's reconnaissance|unit, but his personality made him unpopular,|so I took him under my personal wing..."
+    },
+    "307": {
+        "「難があるという意味では　ディアンジも同じか。|　あいつは　そそっかしくて|　すぐに　ドジをふむからな。": "I mean, Diane, she's... He's too slow, too|quick to make a mistake."
+    },
+    "308": {
+        "「……<pc>　貴様。 |　あいつらが　俺の臣下であることを|　奇妙に　思ってるんじゃないのか？<yesno><close>": "<pc> ... You think it's strange that they're my|subjects?<yesno><close>"
+    },
+    "309": {
+        "「……ふん。いいさ。|　皆　陰でウワサしているのは　知っている。|　しかし　そんなことは　どうでもいい。": "........ I know everyone's been talking about|it behind your back... But it doesn't|matter..."
+    },
+    "310": {
+        "「一見なんの取り柄もない　ただの　でくのぼう。|　だが　そんな　あいつらにも|　他の者にはない　特別な才がある。": "At first glance, they seem like nothing more|than a bunch of hacks. But there's something|special about them that no one else has."
+    },
+    "311": {
+        "「ザグルフは　目端が利く。|　何事にも注意深く　どんな違和感も逃さない。|　それは　貴様も　目の当たりにしただろう？": "Zaghlov is a man of vision... He was very|careful. He didn't want anything to feel|wrong. You've seen it firsthand, haven't you?"
+    },
+    "312": {
+        "「ディアンジは……錬金術のウデこそ平凡だが|　やると決めたら　最後まで　あきらめない|　強き心を　持っている。": "Dianji... His skill at alchemy is mediocre,|but he has a strong heart that won't give up|until the end."
+    },
+    "313": {
+        "「あいつらは　上っ面に見えるものだけで|　他人から　ダメなヤツと決めつけられたが|　決して　そんなことは　ない。": "They're the ones that other people assume are|bad because of what they look like on the|outside, but they're never..."
+    },
+    "314": {
+        "「……そう信じてやるヤツが|　ひとりくらい　いたっていいだろう？": "... Isn't it nice that there's at least one|person who believes that?"
+    },
+    "315": {
+        "「……ふん。ムダ話が過ぎたな。|　なぜ　俺は　貴様に　こんな話を……。": "..... I don't want to talk about it. I don't|know why I'm telling you this."
+    },
+    "316": {
+        "「先を　急ごう。さっきの魔物は　必ずや|　この道をたどった先に　いるはずだ！|　とっとと　かたをつけるぞ　<pc>！": "Ahead... I'm sure that demon is just down the|road! Let's get him out of here.<pc> ！"
+    },
+    "317": {
+        "「ここまで　追ってくるとは思わなかったわ。|　ほころびを生じさせたのは……": "I didn't think they'd come after me this|hard. I didn't think you'd come this far."
+    },
+    "318": {
+        "「そう　あなた……。": "Yes, you..."
+    },
+    "319": {
+        "「おい！　貴様は　いったい何者なんだ！？|　なぜ　姉さんのフリをして　こんなことをする？": "Hey! Who the hell are you? Why are you doing|this, pretending to be my sister?"
+    },
+    "320": {
+        "「私？　そうね……": "Me? I guess..."
+    },
+    "321": {
+        "「私は　形あって　実体なきもの。|　光と影の織りなす　境界の刹那。|　刹那はすべてを取り込み　やがて永遠となる。": "I am form without substance. A boundary of|light and shadow... A moment takes in|everything, and then eternity..."
+    },
+    "322": {
+        "「何を　わけのわからぬことを|　ゴチャゴチャと……。": ""
+    },
+    "323": {
+        "「私は　あなたと　ともに|　穏やかな時を　過ごしていたいだけ。": "I was just trying to find some peace and|quiet with you..."
+    },
+    "324": {
+        "「ここに残るというなら　命をうばったりしない。|　あなただって　私と一緒にいることで|　安らぎを　感じていたでしょう？": "If you wanted to stay, you would have given|your life... I'm sure you found comfort in|being with me."
+    },
+    "325": {
+        "「……見くびるな！|　そんな表面だけ　取りつくろった|　見せかけの安らぎに　なんの価値がある？": "... Don't underestimate me! What's the value|of all this superficial comfort?"
+    },
+    "326": {
+        "「自分の道なら　自分で決めるさ。|　今までだって　そうしてきた。|　それは　これからも……。": "I'll make my own way. I've always done that.|And I always will..."
+    },
+    "327": {
+        "「俺の行く道を　はばむと言うのなら……": "If you're going to stand in my way"
+    },
+    "328": {
+        "「そう　残念ね……。|　どうしても　出ていくと言うのなら|　私も　あなたを　止めなければならない……。": "Well, I'm sorry... If you insist on leaving,|then I'll have to stop you, too."
+    },
+    "329": {
+        "「<cs_pchero>　準備はいいな？": "<cs_pchero>Are you ready?"
+    },
+    "330": {
+        "「とても　残念よ……。|　どうしても　出ていくと言うのなら|　私は　あなたを　止めなければならない……。": "I'm so sorry... If you insist on leaving,|I'll have to stop you..."
+    },
+    "331": {
+        "「遅いぞ　<cs_pchero>！|　早く　こっちに来て　加勢しろ！": "You're late<cs_pchero>Come on! Come on, get over here and join us!"
+    },
+    "332": {
+        "「ほころびに　永遠が　飲み込まれるか……。": "A crack in the fabric that will swallow|eternity..."
+    },
+    "333": {
+        "「俺は　こんなところで|　足踏みしているわけには　いかないんだ。": "I can't just stand here and..."
+    },
+    "334": {
+        "「やるじゃないか　<cs_pchero>！|　俺も　剣術には　それなりに自信があったが|　貴様の強さは　実戦で　みがかれたものだな。": "You're good<cs_pchero>I'm sorry. I have a certain amount of|confidence in my swordsmanship, but your|strength has been proven in battle."
+    },
+    "335": {
+        "「メレアーデ姉さんが　貴様と一緒に|　行動しろって　言ったこと……今なら|　その言葉の意味が　わかる気がする……。": "When she told me to go with you... I know|what she meant now."
+    },
+    "336": {
+        "「姉さんは　きっと　<cs_pchero>の中にある|　強き心……　幻にも　まどわされぬ|　屈強な意志を　見抜いていたのだな。": "I'm sure she'll be fine<cs_pchero>I saw the strength in you. A will so strong|that no illusion can deceive it."
+    },
+    "337": {
+        "「な…なんだっ！？": "What the... What the hell?"
+    },
+    "338": {
+        "「ここは……？": "Is this...?"
+    },
+    "339": {
+        "「なんだ　なんだっ？|　何が　起こったんだ？": "What the fuck? What the fuck? What's going|on?"
+    },
+    "340": {
+        "「見ろ！　ここは　軍が管理する転送の門だ！|　オレたち　助かったんだ！！": "Look! This is a military-controlled|transporter gate! We're alive! We're alive!"
+    },
+    "341": {
+        "「……そうか。あの魔物を　倒したことで|　あそこから　戻ってくることが　できたのか。": "...... Now that we've defeated the demon, we|can come back from there..."
+    },
+    "342": {
+        "「おそらく　これで　転送の門も|　正常に　使用できるようになるのだろう。|　……俺たちで　成しとげたのだな！": "Perhaps this will allow us to use the|transporter gate properly... ... We've done|it!"
+    },
+    "343": {
+        "「クククオード様……。|　こここれは　あなたのおかげ……？|　屋敷にいた皆も　ぶぶぶ無事のようです……。": "Mr. Quinn Ord... This is because of you...?|Everyone in the villa seems to be okay..."
+    },
+    "344": {
+        "「貴様も　無事であったか。|　よかった　ザグルフ。": "I'm glad you're safe. Thank God. Zah..."
+    },
+    "345": {
+        "「だが……あの屋敷は　なんだったのか？|　メレアーデ姉さんに　化けていた魔物は|　何を目的に　していたのか……？": "But... What was that mansion all about? And|what was the purpose of the demon that was|transforming Sister Melaade?"
+    },
+    "346": {
+        "「…………あ…あああああ。": "... Oh... Oh..."
+    },
+    "347": {
+        "「……ん？　なんだ　ザグルフ？": "... Hmm? What is it, Zaghlov?"
+    },
+    "348": {
+        "「……あ…あああれを…………。": "... Oh... Oh, my..."
+    },
+    "349": {
+        "「なんだ　これは！？|　光を映しだす　道具のようだが……？": "What the hell is that? It looks like a light|reflecting tool."
+    },
+    "350": {
+        "「こ…これは……！！": "Oh, my... This is...!"
+    },
+    "351": {
+        "「まさか　この道具のせいで　転送の門が？|　もし　そうだとすると　これは…………": "You don't think this tool caused the portal|to open? If that's the case, then this is..."
+    },
+    "352": {
+        "「いや　憶測だけで語るのは　やめよう。": "No, I don't think we should be speculating..."
+    },
+    "353": {
+        "「ザグルフ。|　その道具を　回収しておいてくれ。|　こちらで　少し調べてみる。": "The... I've been collecting those tools...|I've been doing some research..."
+    },
+    "354": {
+        "「りょ…了解です。": "Ryou... Done..."
+    },
+    "355": {
+        "「俺たちも　戻るぞ。|　いつまでも　こうしているわけにも　いかん。": "We can't... We can't keep doing this forever."
+    },
+    "356": {
+        "「<cs_pchero>。ここを出たら|　ひとまず　軍団長室まで　来てほしい。|　こたびの件の礼も　せねばならんからな。": "<cs_pchero>(speaking spanish) After we leave here, we'll|first come to the Commander's office... I'll|have to thank you for what you've done..."
+    },
+    "357": {
+        "「来たか　<pc>。|　さぁ　こちらへ。": "There you are<pc> I don't know. Now, this..."
+    },
+    "358": {
+        "「あぁっ……　<pc>さんも|　無事で　よかったですよぅ。私　皆さんが|　帰ってきたと聞いて　飛んできたんです。": "Agh<pc> I'm so glad you're all okay. When I heard you|were all back, I flew over..."
+    },
+    "359": {
+        "「いやぁ……！|　伝声の琴が　つながらなくなった時は|　どうなることかと　思いましたが……": "Oh, no...! I was afraid of what would happen|when the harp stopped working, but..."
+    },
+    "360": {
+        "「連絡のつかなくなっていた者　全員を連れて|　戻ってきてくださるとは　いやはや|　さすがは　我らの　クオード様ですよぅ！": "To come back with all the people we've lost|contact with... that's our Lord Quorde!"
+    },
+    "361": {
+        "「……いや　今回のことは　とても|　俺ひとりだけのチカラでは　解決できなかった。": "... No, this is something that I can't solve|on my own."
+    },
+    "362": {
+        "「ディアンジ。貴様の　研究の成果……|　星華のライトが　ついに　役立ったのだ。|　まさか　あんなに　カゲを目立たせるとはな。": "Di... The results of your research... The|starlight is finally working... I didn't|think it was possible to make a lizard stand|<br>|out like that..."
+    },
+    "363": {
+        "「ザグルフ。単身で　敵陣に乗り込み|　的確な情報を　もたらしてくれたな。|　勇気をもって行動してくれたこと　感謝する。": "The... He rode into enemy territory single-|handedly to bring us accurate information...|I'm so proud of you for having the courage to|<br>|do what you did."
+    },
+    "364": {
+        "「そして　<pc>。|　ザグルフにも　負けず劣らない　観察力に……|　幻にも　飲み込まれることのない屈強な意志。": "and<pc> I'm sorry. As observant as Zaghlov... And the|strength not to be swallowed by illusion..."
+    },
+    "365": {
+        "「何より　その真の強さが　皆を救ってくれた。|　最後まで　ともに戦ってくれたこと|　心から　感謝するぞ！": ""
+    },
+    "366": {
+        "「うおーん　うおーん。クオード様ぁ～！！|　そんな言葉を　かけてもらえるなんて|　私　感激ですよぅ～。": "Uh-oh. Uh... Mr. Quord! I'm so touched to|hear you say that..."
+    },
+    "367": {
+        "「ももも…もったいない　お言葉……。": "Momo... What a waste..."
+    },
+    "368": {
+        "「ふ…ふん。まぁ　たまには|　ねぎらいの言葉も　かけねばな。|　これからも　よろしく頼むぞ　ふたりとも。": "F..... Well, every once in a while, I'll give|you a shout-out... I'll look forward to|working with you in the future. Two..."
+    },
+    "369": {
+        "「それから　これは……|　俺から　<pc>への礼だ。|　遠慮なく　受け取ってくれ！": "And this is| From me<pc> Heh... Feel free to take it!"
+    },
+    "370": {
+        "「さて。転送の門だが……|　俺たちが　帰ってきてからは|　もう　問題なく　使用できるのだな？": "Well. The transporter gate... They've been|working just fine since we got back, right?"
+    },
+    "371": {
+        "「はいぃ～。それは　もう！|　軍の皆さんで　確認したようで|　王宮まで　バッチリ　行って帰れたようです！": "Oh, my... That's it! It seems the military|confirmed that they made it all the way to|the royal palace and back!"
+    },
+    "372": {
+        "「よし。俺は　少し　王都を離れるが|　ディアンジとザグルフの　ふたりは|　連絡があるまで　こちらで　待機していてくれ。": "Good. I'll be leaving King's Landing for a|bit, but Dianji and Zaghlov will be waiting|here until further notice."
+    },
+    "373": {
+        "「了解しました　ですよぅ！": "Yes, sir. Yes, sir!"
+    },
+    "374": {
+        "「<pc>。ようやく　王宮への道が開いた。|　これから　俺たちは　メレアーデ姉さんの|　言葉にしたがって　エテーネ王宮へと向かうぞ。": "<pc> (speaking spanish) At last, the way to the|palace... From now on, we'll follow your|sister Mareade to the palace of Etaine."
+    },
+    "375": {
+        "「準備ができたら　転送の門まで来い。|　俺は　先に行って　待っているからな。": "When you're ready, I'll be at the transporter|gate... I'll go ahead and wait for you..."
+    },
+    "376": {
+        "「……<pc>。|　ボクは　納得が　いかないキュ。": "<pc> I don't know. I don't understand..."
+    },
+    "377": {
+        "「キミたちの思考は　ボクから見ると|　無駄が多くて　不合理　極まりないキュ。|　それなのに……": "Your thinking, to me, is wasteful and|irrational and... And yet..."
+    },
+    "378": {
+        "「結果として　みんなが　協力しあい|　本当に　王宮への道を開いてしまうなんて|　まったく　うまく　いきすぎキュ！": "As a result, everyone worked together to|really pave the way to the palace, it's just|too good to be true!"
+    },
+    "379": {
+        "「……ま　今回は　偶然うまくいったかもだけど|　次も　うまくいく確証は　どこにもないキュね。|　せいぜい　この先も　気を引きしめるキュ。": "Well... It may have worked out this time by|accident, but there's no guarantee it'll work|out next time... We'll just have to keep our|<br>|heads up..."
+    },
+    "380": {
+        "「はいっ！": "Yes!"
+    },
+    "381": {
+        "「ああ。ひとつ　伝え忘れていた。|　転送の門で見つけた道具……幻灯機と名付けたが|　ディアンジに調べるよう　命じてある。": "Oh. One thing I forgot to tell you... The|tool we found at the transporter gate... I|called it the Phantom Lamp, but I told Dianji|<br>|to check it out..."
+    },
+    "382": {
+        "「もし　気になるのなら　ディアンジの家を|　訪ねるのも　いいだろう。": "If you're curious, you can visit Dianj's|house..."
+    },
+    "383": {
+        "「それじゃあな。転送の門で　また会おう。": "So... At the transfer gate, again..."
+    },
+    "384": {
+        "「エテーネ王国の紋章……！？": ""
+    },
+    "385": {
+        "「ザグルフは　敵の欠陥と　このライトの真価に|　気づいていたからこそ　最初の通信で|　ライトさえあればと　連絡してきたのだな？": "Zaghlov was aware of the enemy's flaw and the|true value of this light, which is why he|contacted you in his first transmission,|<br>|wishing he had a light?"
+    },
+    "386": {
+        "「は…はい。いいい以前　ディアンジの研究……|　ラ…ラララライトで　うう…映しだしたものを|　見た時　カゲが目立つのに　きき気づいて……。": "is ..... I've studied Dianj before... La...|The lala lala light... When I looked at the|projection, I noticed that the lizard stood|<br>|out..."
+    },
+    "387": {
+        "「今まで　研究を続けてきたものが|　こんな形で　クオード様の役に立ったなんて|　びっくり仰天　ハッピーさんですよぅ。": "I'm so excited that my research has helped|Mr. Quod in this way."
+    },
+    "388": {
+        "「貴様の研究の　ねばり勝ちといったところか？|　ひいては　よき仲間を　持ったことに|　感謝するんだな。": "Your perseverance in your research has paid|off, has it not? And for that, I am grateful|to have had the good fortune..."
+    },
+    "389": {
+        "「それは　俺もか…………。": "That's what I thought."
+    },
+    "390": {
+        "「……ディアンジ。|　出立の時は　不安も　多くあっただろう。|　俺を信じ　送りだしてくれたこと　感謝する。": "... Di... I had a lot of anxiety when I left,|but... But you believed in me, and you sent|me off, and that's..."
+    },
+    "391": {
+        "「全力で　貴様という障害を　取り除くだけだ！！": "I will do everything in my power to remove|the obstacle that is you!"
+    },
+    "392": {
+        "「行くぞっ！|　アイツを倒して　ここから出るんだっ！": "Let's go! We've got to beat him and get out|of here!"
+    },
+    "393": {
+        "<if_woman>「<pc>ちゃん！　アイツは　どこだ！？<else>「<pc>くん！　アイツは　どこだ！？<endif>": "<if_woman><pc>   Hey! Where is he?<else><pc> No! Where is he?<endif>"
+    },
+    "394": {
+        "「それでは　いきますよぅ。": "So here we go..."
+    },
+    "395": {
+        "「むむむっ。はっ！|　第一工程　焼成開始！　……ですよぅ。": "Mu... Haku! The first project has begun! ...|De..."
+    },
+    "396": {
+        "「………………。": "..."
+    },
+    "397": {
+        "「……いえ。頭では　わかっているのですよぅ。|　私は　星華のライトを作るべきだと。|　そのために　素材まで取りにいったんですから。": "..... I know in my head that I should... I|have to make the starlight... That's why I|went to get the materials..."
+    },
+    "398": {
+        "「でも……　いざ　こうして錬金釜を前にすると|　ためらってしまうのですよ。": "But... I hesitate when I'm faced with a|smelting pot like this..."
+    },
+    "399": {
+        "「……すみません。|　こんな気持ち　あなたには|　わからないですよね？<yesno><close>": "... I'm sorry. You have no idea how I feel,|do you?<yesno><close>"
+    },
+    "400": {
+        "「はは……　そうですよね……。|　ごめんなさい。覚悟を　決めましょう。": "Haha... You're right... Sorry... I've made up|my mind..."
+    },
+    "401": {
+        "「<pc>さんは　心が　ぽかぽかさん|　なんですねぇ。私の気持ちを　くんでくださった|　あなたのおかげで　決心がつきましたよぅ。": "<pc> Because you're a warm-hearted person...|Thanks to your understanding of my feelings,|I've made up my mind..."
+    },
+    "402": {
+        "「私は　さして才能もない　無力な錬金術師です。|　こんな私が　あの方のために　できることが|　あるなら　どんなことでも　してさしあげたい。": "I'm a powerless alchemist with no real|talent... If there's anything I can do for|her... there's nothing I won't do for her."
+    },
+    "403": {
+        "「それが　あの方を　危険な場所に|　送りだすことであっても……。": "Even if it means sending him to a dangerous|place..."
+    },
+    "404": {
+        "「あの人は　なんというか……　行くと決めたら|　とことん　行ってしまう人なんですよぅ。|　自分の信じたものに　まっすぐなんです。": "He's kind of... He's the kind of person who|decides to go all the way... He's|straightforward about what he believes in..."
+    },
+    "405": {
+        "「こっちの心配なんて　これっぽっちも|　気づいてないと　思いますがね。ははは。": "I don't think he's the least bit aware of my|concerns. ......"
+    },
+    "406": {
+        "「よし。うまくいったようですよぅ。|　第二工程　第三工程　問題ないようですね。": "Good. It seems to be working... Process two,|process three, everything looks good..."
+    },
+    "407": {
+        "「さぁ！　ここまで来たら　あとは待つのみ。|　ライトの錬金は　ここで少し時間をおくのが|　コツなんです。": "Come on! Now that we're here, we can wait...|The trick to smelting the lights is to take a|moment here..."
+    },
+    "408": {
+        "「……そうですね。錬金が　終わるまで|　時間もかかりますし　昔話でもしましょう。|　少し　お付き合いくださいませんか。": "... Well... It'll take some time to finish|smelting, so I'll tell you an old story...|Please bear with me for a moment..."
+    },
+    "409": {
+        "「私　これでも以前は　王立アルケミアで|　はたらく　錬金術師だったのです。|　クオード様とは　そこで　はじめて会いました。": "I used to be an alchemist working for the|Royal Alchemy... It was there that I first|met Master Quorde..."
+    },
+    "410": {
+        "「王立アルケミアでは　毎年　国王や有力者の前で|　研究の成果を発表する機会が　あるんですよぅ。|　当時　私も　参加することになったのですが……": "At the Royal Alchemy, every year we have the|opportunity to present our work to the king|and other important people. At the time, I|<br>|was invited to participate..."
+    },
+    "411": {
+        "「国王陛下　お集まりの皆様。|　どうぞ　こちらに　ご注目ください。|　私が錬金しました　新型のライトでございます。": "Your Majesty, the King, please... May I have|your attention, please? It's a new type of|light I've been working on."
+    },
+    "412": {
+        "「こちら　特殊な鉱石を　素材としておりまして|　従来のライトより　ぐっと長持ちで|　より明るい光を発するものへ　進化させました。": "It's made of a special ore that lasts much|longer than traditional lights and emits a|brighter light..."
+    },
+    "413": {
+        "「それでは　ご覧ください。": "So, let's take a look..."
+    },
+    "414": {
+        "「…………。": "..."
+    },
+    "415": {
+        "「どういうことだ？ |　ちっとも　光らんでは　ないか。|　いつになったら光るのだっ！？　早くしろっ！": "What do you mean? It's not glowing at all.|When is it going to light up? Come on!"
+    },
+    "416": {
+        "「あ…あれ……？　おかしいですよぅ……？|　もも…申し訳ありませんっ！！|　すぐに　光らせますので　お待ちをっ……": "Oh... That...? That's strange...? Momo... I'm|so sorry! I'll make it glow right away...|Please wait..."
+    },
+    "417": {
+        "「う…うわわぁぁぁっ！": "Ugh... Whoa!"
+    },
+    "418": {
+        "「うわっ　なんだ　これは！？|　まぶしすぎるっ！！|　ええいっ　早く　それを止めるのだ！": "What the hell is this? It's too bright! Hurry|up and stop it!"
+    },
+    "419": {
+        "「……当時から　いつも　失敗ばかりだった私は|　案の定　発表会でも失敗してしまいましてね。|　有力者たちの怒りを　買ったのですよ……。": "... I've always been a failure, and as|expected, I failed in my presentation. I drew|the ire of some very powerful people..."
+    },
+    "420": {
+        "「その後も　アルケミアに戻って|　ひとり　錬金を続けても　ライトの生成が|　思うようにいくことは　ありませんでした。": "Even after that, even though I returned to|Alchemia and continued my alchemy alone, the|creation of light never went as smoothly as I|<br>|hoped..."
+    },
+    "421": {
+        "「ああ　今度こそ　うまくできると|　思ったのですが……　また　失敗ですよぅ。|　ほれっ　もう１回！": "Yeah, I thought I could do it better this|time, but... I failed again... Here, try|again!"
+    },
+    "422": {
+        "「ぷっ。なにアレ……　ダサッ。|　こりずに　まだ　やってるわよ。|　時間のムダね。あはははっ。": "Pfft. What the... ... I'm still trying...|Time... Haha..."
+    },
+    "423": {
+        "「そんな　私でしたからね……。|　重要な席での失敗により　アルケミアを|　追われるのに　時間は　かかりませんでした。": "That was me. It won't be long before I'm|forced to leave Alchemia for failing at an|important post."
+    },
+    "424": {
+        "「そして　ついに　アルケミアからクビを|　言いわたされ　途方にくれていた　その時……|　私の目の前に　クオード様が現れたのです。": "And when Alchemia finally told me I was|fired, I was at a loss for words... Master|Quorde appeared before me..."
+    },
+    "425": {
+        "「あ…あなたは　王族のクオード様！？|　どうして　ここに？": "Oh... You're royalty, Mr. Quard! What are you|doing here?"
+    },
+    "426": {
+        "「先日の発表会以来　貴様のことが気になってな。|　たびたび　様子をうかがっていたのだ。|　……そして　すっかり　あきれ果てたぞ。": "I've been thinking a lot about you since your|presentation the other day. I've been|checking up on you... And... And I'm so tired|<br>|of you..."
+    },
+    "427": {
+        "「貴様の　その　あきらめの悪さにな。|　何度　失敗しても　同じことに挑み続けるとは|　貴様は　こりることを知らんのか？": "Your inability to give up... No matter how|many times you fail, you keep trying the same|thing... don't you know what it's like to be|<br>|tired?"
+    },
+    "428": {
+        "「……だが　その　しつこさも才能か。|　少なくとも　ただ他人をバカにし　見下すだけの|　卑怯者どもよりは　芽があるというものだ。": "But... But that persistence... At least it's|more than just a bunch of cowards who look|down their noses at others."
+    },
+    "429": {
+        "「……行くあてがないのなら　俺のもとに来い！|　そして　必ずや　貴様の信じる錬金を|　成功させてみせるのだ！！": "... If you have nowhere else to go, come to|me! And I will make sure that the alchemy you|believe in will succeed!"
+    },
+    "430": {
+        "「そう言って　クオード様は　その場で|　私を　自身の個人的な臣下として|　迎え入れてくださったのです。": "And so, on the spot, Master Quard took me in|as his personal vassal..."
+    },
+    "431": {
+        "「その時は　うれしさの反面|　なんて　もの好きな人と　思ったものですが|　後から　こんな話を聞いたのです。": "At the time, I was flattered, but then I|thought, \"How could he be so curious?\" But|then I heard this story..."
+    },
+    "432": {
+        "「じつは　クオード様自身　王族という身で|　あらせられながら　時渡りのチカラが弱く|　幼少期に　苦労されたんだとか。": "The truth is, Mr. Quaude was a royal himself,|but he had a weak sense of time, and he|struggled as a child..."
+    },
+    "433": {
+        "「今でこそ　武功を重ね　軍団長という地位にまで|　のぼりつめましたが　子供のころに受けた|　お父上からの風当たりは　強かったようです。": "Although you've risen through the ranks to|the position of Commander, your father was|very critical of you when you were a child..."
+    },
+    "434": {
+        "「クオード様は　誰よりも　努力し|　自らの手で　成功への道を　切りひらいたお方。": "Mr. Quod has worked harder than any of us,|and with his own hands, he has paved the way|for success..."
+    },
+    "435": {
+        "「だからこそ　最初から　できないと|　決めつけることが　お嫌いだったのでしょう。": "That's why she didn't like to assume from the|start that she couldn't do it."
+    },
+    "436": {
+        "「クオード様は……|　こんな　しがない錬金術師の私にまで|　可能性を見出し　信じてくださったのです。": "Master Quor... You saw potential in me, a|mere alchemist, and you believed in me."
+    },
+    "437": {
+        "「星華のライトの改良は　続けておりますよぅ。|　いまだ　壊れやすくて|　完成品には　ほど遠いのですがね……。": "We've been working on improving Hoshika's|lights... It's still fragile and far from|perfect, but..."
+    },
+    "438": {
+        "「……はは。少し　おしゃべりをし過ぎましたね。|　私が　こんな話をしたことは　クオード様には|　内緒にしておいてくださいよぅ。": "..... I've been talking a little too much...|Please don't tell Mr. Quod that I told you|this..."
+    },
+    "439": {
+        "「さて。そろそろ　錬金も終わるころ……|　釜の様子を　確認してみましょう。": "Well. The smelting should be finished by|now... I'll check on the cauldron..."
+    },
+    "440": {
+        "「おお　うまくいっているようですね。|　これこそが　星華のライトですよぅ！|　クオード様に　お渡ししなければ。": "Oh, it's working... That's the Starlight! I|have to give this to Mr. Quod..."
+    },
+    "441": {
+        "「私は　クオード様を呼んでから　向かいますので|　<pc>さんは　先に|　転送の門に　行っていてくださいね。": "I'll go get Mr Quod, and then I'll be on my way|<pc> I'm afraid you'll have to go to the|transporter gate..."
+    },
+    "442": {
+        "「あれは……　ダメだな。|　とっとと　あきらめれば　いいのに。|　アイツには　無理だよ。ははっ。": "That was... It's... Why don't you just give|up and... He's got no ......"
+    },
+    "443": {
+        "「ここは　いったい　なんだ！？|　どうして　絵画の中に|　こんな世界が　広がっている……？": "What the hell is this place? How can there be|a world like this in a painting?"
+    },
+    "444": {
+        "「……いや。そもそも　屋敷そのものが|　あの魔物によって　作り出されたもの……|　そういう相手だと考えるのが　自然か。": "..... The house itself was created by that|demon... That's what we're dealing with..."
+    }
+}

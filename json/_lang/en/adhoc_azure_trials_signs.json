@@ -1,0 +1,71 @@
+{
+    "1": {
+        "<left>←ザドムの泉、水望橋への洞くつ": ""
+    },
+    "2": {
+        "<left>←水望橋|<right>→ザドムの泉": "←Water Watching Bridge|→Zadom's Fountain"
+    },
+    "3": {
+        "<left>←バラークの岩棚|<right>ザドムの泉、水望橋→": "← Barak's rock shelf|Zadom's Fountain, Water Watch Bridge→"
+    },
+    "4": {
+        "<left>←裁定の清堂|<right>入り江の洞くつ→": "← Seido of ruling|Cave of the Coves"
+    },
+    "5": {
+        "<left>←裁定の清堂|<right>バラークの岩棚、ザドムの泉、水望橋→": "← Seido of ruling|Barak's ledge, Zadom's Fountain, Water Watch Bridge →"
+    },
+    "6": {
+        "<left>←水望橋方面": "←Water Watch Bridge"
+    },
+    "7": {
+        "<left>←果樹園方面|<right>ファボル鉱山・泉方面→": "← For orchards|Fabor Mines and Springs→"
+    },
+    "8": {
+        "<pc>は　立て札を読んだ。|しかし　こちらは　裏側だった！": "<pc> I saw a sign... But this one was on the back!"
+    },
+    "9": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "10": {
+        "clarity_nt_char_10": "clarity_nt_char_10"
+    },
+    "11": {
+        "clarity_nt_char_11": "clarity_nt_char_11"
+    },
+    "12": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "13": {
+        "clarity_nt_char_13": "clarity_nt_char_13"
+    },
+    "14": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "15": {
+        "clarity_nt_char_15": "clarity_nt_char_15"
+    },
+    "16": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "17": {
+        "clarity_nt_char_17": "clarity_nt_char_17"
+    },
+    "18": {
+        "clarity_nt_char_18": "clarity_nt_char_18"
+    },
+    "19": {
+        "clarity_nt_char_19": "clarity_nt_char_19"
+    },
+    "20": {
+        "clarity_nt_char_20": "clarity_nt_char_20"
+    },
+    "21": {
+        "clarity_nt_char_21": "clarity_nt_char_21"
+    },
+    "22": {
+        "clarity_nt_char_22": "clarity_nt_char_22"
+    },
+    "23": {
+        "FOOT\u0010": ""
+    }
+}

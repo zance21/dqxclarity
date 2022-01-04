@@ -1,0 +1,1367 @@
+{
+    "1": {
+        "「では……君たちの　あるじについては|　引き続き　軍司令部のほうで　治療させよう。|　命に別状がなくて　よかったな。": "So... As for your father, he will continue to|be treated at the military headquarters...|I'm glad he's okay."
+    },
+    "2": {
+        "「ありがとうございました　副団長さま。|　本当に　なんと　お礼を言ったらいいのか……。": "Thank you, Vice Commander... I really don't|know how to thank you..."
+    },
+    "3": {
+        "「王国軍の皆さんが　駆けつけてくださらなければ|　今ごろ　どうなっていたことか……。": "I don't know what I would have done if the|Royal Army hadn't come running."
+    },
+    "4": {
+        "「よくぞ　その場を動かずに　こらえてくれた。|　混乱して　動き回っていれば　あっという間に|　魔物のえじきに　なっていただろう。": "You did well to stay where you were. If I|hadn't been so confused, I'd have become a|demon's prey in a heartbeat."
+    },
+    "5": {
+        "「ええ……お屋敷が墜落した時の騒ぎで|　命を落とした　仲間もいます……。|　私たちも　もう　ダメだと思いました。": "Yeah, well... Some of our people lost their|lives in the commotion when the house|crashed... I thought we were doomed."
+    },
+    "6": {
+        "「でも　その時……時の指針書に書かれていた|　内容を　思いだしたんです。": "But then... I remembered what was written in|the time guidelines..."
+    },
+    "7": {
+        "「何があっても　かがり火をたいて|　あるじを守り　苦難を耐え抜け……と。": "No matter what happens, we will keep the|bonfire burning, protect our master, and|endure hardship. ...."
+    },
+    "8": {
+        "「お導きの通りに従ったから　救われたのです。 |　時の指針書は　私たち　エテーネの国民の|　希望の光　そのものですわ。": "I was saved because I obeyed your guidance...|The Book of Hours is a beacon of hope for us,|the people of Etaine..."
+    },
+    "9": {
+        "「私の指針書には　こう書かれています。|　仲間と共にあれば　必ず　再出発できると……。": "In my guiding principles, it says...|\"Together, we can make a fresh start."
+    },
+    "10": {
+        "「うむ……。あるじの回復を　信じていたまえ。|　意識が戻り次第　追って連絡させよう。|　さあ　君たちも　休息を取るがいい。": "Hmm... I'm sure he'll recover. We'll be in|touch as soon as he regains consciousness.|Now, you two, get some rest..."
+    },
+    "11": {
+        "「む……。旅人かね？|　ここから先は　軍の施設になっていて|　許可のない者は　立ち入ることができないのだ。": "No... Are you a traveler? From here on out,|this is a military installation, and no one|is allowed in without a permit."
+    },
+    "12": {
+        "「私は　セオドルト。|　エテーネ王国軍の　副団長を務めている。|　何か　用件があるならば　ここで聞こう。": "I am Theo... I am the second-in-command of|the army of the Kingdom of Etaine. If there's|anything you need, I'm here..."
+    },
+    "13": {
+        "<pc>は　ラゴウ隊長から　報告書を|あずかってきたことを　セオドルトに話した。": "<pc> Theodore told Theodord that he had received a|report from Captain Lagou..."
+    },
+    "14": {
+        "「……なるほど　そうか。|　わざわざ　旅人に託すということは|　何か　火急のしらせかもしれないな。": "... I see... If it's entrusted to a traveler,|it could be a sign of emergency..."
+    },
+    "15": {
+        "「本来なら　軍団長が受け取るべきものだが |　今は　作戦行動中で　お留守にされている。|　その報告書は　代理で　私が受け取ろう。": "Normally, this would go to the corps|commander, but he's away on a mission right|now, so... I'll take the report on his|<br>|behalf."
+    },
+    "16": {
+        "<pc>は　セオドルトに|ラゴウ隊長の報告書を　渡した！": "<pc> has given Theodore the report of Captain|Lagow!"
+    },
+    "17": {
+        "「うむ……よくぞ　届けてくれた。 |　これは　ゆゆしき事態だな……。": "Mmm... I'm glad you brought it to me. This is|a terrible situation..."
+    },
+    "18": {
+        "「浮島の墜落事故は　ドミネウス邸だけではない。|　同じ時期に　別の浮島も|　まったく　同じ被害にあったのだ。": "The Dominus mansion was the only floating|island to crash. At the same time, another|floating island was hit by the exact same..."
+    },
+    "19": {
+        "「この一連の事故が　異形獣という |　恐ろしい魔物の仕業だとするなら|　無視することは　できないな。": "If this series of accidents is the work of a|hexenbiest, a horrible monster, then we can't|just ignore it..."
+    },
+    "20": {
+        "「しかし　こんなことは　時の指針書にも|　書かれていなかったはずだが……？": "But I'm sure this wasn't written in the time|guidelines..."
+    },
+    "21": {
+        "「……ああ　旅人の君は　知らないだろうな。|　先ほどの侍女たちや　王都の人々が|　大きな書物を　たずさえていただろう。": "... Oh, you're a traveler, you don't know|that. I saw the maidservants and the people|of King's Landing carrying a large tome."
+    },
+    "22": {
+        "「あれは　すべてのエテーネの国民に　１冊ずつ |　配布される　時の指針書と呼ばれるものだ。": "It's called the Book of the Hours, which is|given to every citizen of Etaine..."
+    },
+    "23": {
+        "「エテーネ王国は　時見の箱という装置を使い|　近い未来を予見することで|　今日の　繁栄を築き上げてきた。": "The Kingdom of Etaine built its prosperity|today by using a device called the Time Box|to foresee the near future..."
+    },
+    "24": {
+        "「国王は　未来視の結果を反映した|　人生において選択すべき行動を|　時の指針書に記して　国民に配布する。": ""
+    },
+    "25": {
+        "「エテーネの国民は　指針書に記されている通りに |　行動すれば　よりよい未来が　約束されるのだ。|　先ほどの侍女たちを見れば　わかる通りにな。": "The people of Etaine are promised a better|future if they act in accordance with the|guidelines... As you can see from the maids|<br>|before you..."
+    },
+    "26": {
+        "「さて……報告書の件だが。|　軍団長が戻れば　君に　くわしい話を|　聞くことになるかもしれん。": "Well... The report... When the Commander gets|back, he might want to talk to you about some|things..."
+    },
+    "27": {
+        "「しばらくの間　王都に滞在してもらいたい。|　……ただし　この件は　くれぐれも内密に。|　国民に　大きな混乱を　与えかねんからな。": "You'll be staying in King's Landing for a|while... ... But I must warn you... It could|cause great disruption to the people..."
+    },
+    "28": {
+        "「王都南門の近くに　宿屋がある。|　そこに　君の部屋を　用意させよう。|　旅の疲れを　ゆっくり　いやしていってくれ。": "There's an inn near the south gate of King's|Landing... I've prepared a room for you|there. I hope you've had a good journey."
+    },
+    "29": {
+        "「さーて！　ここで　とっておきのサプライズ。 |　うるわしきスペシャルゲストの　ご登場だっ！": "Well! And now for a very special surprise...|We have a very special guest!"
+    },
+    "30": {
+        "「本日　待望の復帰公演！|　月夜に咲いた　ラウラの花……|　エテーネの歌姫　シャンテ～～！！": "Today's performance marks her long-awaited|return! Laura's flower bloomed on a moonlit|night... Chante, diva of Athens!"
+    },
+    "31": {
+        "「届け　この思い……|　響け……皆さんの胸に……。": "Deliver this thought... Echo... To your|hearts..."
+    },
+    "32": {
+        "「今の気持ちを　歌にしました。|　それでは　聴いてください……|　酒場の皆さんに　捧げる歌♪": "I've written a song about how I feel right|now. And now, please listen... A song|dedicated to all those in the tavern"
+    },
+    "33": {
+        "「ラーーララーーーーーーーーー！|　ララァーーーーーアーーーーーーッ！！": "Rah-rah-rah! Rah-rah-ah-ah-ah!"
+    },
+    "34": {
+        "「リーーーリリィーーーーーー！！|　ルーーーーーーーーーーーーーーーーッ！！！": "LEEEEEEEEEEEEEEEEEEEE! Roooooooooooooooowww!"
+    },
+    "35": {
+        "「な…なんだ　これは！ |　前と　全然違うじゃないか……|　頭がガンガンする……おえっ……。": "What the... What the hell is this? ! This is|totally different from before... My head is|pounding... Huh..."
+    },
+    "36": {
+        "「や…やめろ～～！|　歌うのを　やめてくれえぇぇ～～～！！": "No... Stop it! Stop singing, please!"
+    },
+    "37": {
+        "「………………あれっ？": "... Huh?"
+    },
+    "38": {
+        "「ま…待って！　行かないでっ……。": "Wait... Wait! Don't go..."
+    },
+    "39": {
+        "「おい　嬢ちゃん……ヒック。 |　よくも　ひでェ歌を　聞かせてくれたなァ？": "Hey, little girl. ...... How dare you play|that goddamn song to me?"
+    },
+    "40": {
+        "「ヒック……いい気分が　台無しだぜ。|　どう落とし前つけてくれるんだよ？　ええっ？": "Hiccup... I was in a good mood. How are you|going to fix this? Huh?"
+    },
+    "41": {
+        "「ごめんなさい　ごめんなさい……|　だから　お願い　怒らないで……。": "I'm sorry. I'm sorry... So please, don't be|angry..."
+    },
+    "42": {
+        "「な～にが　エテーネの歌姫だ。 |　お前みたいな大オンチ　二度と歌うんじゃねェ！": "What is it with you and the Etaine... Don't|you ever sing again, you big idiot!"
+    },
+    "43": {
+        "「お願い……助けて！": "Please... Help me!"
+    },
+    "44": {
+        "「なんだァ　テメーは？　ヒック……。|　オンチにオンチって言って　何が悪いんだッ！": "What the hell is wrong with you? Hiccup...|What's wrong with saying \"I don't know\" to|someone who doesn't know!"
+    },
+    "45": {
+        "「ぐ……ぐぬ…………。": "G... Oh, no..."
+    },
+    "46": {
+        "「チッ……酔いが　さめちまった。|　別の店で　飲み直さなきゃ　やってらんねェぜ。": "Tsk, tsk, tsk, tsk. I'm sober... I'm gonna|have to go back to the bar. I don't know..."
+    },
+    "47": {
+        "「か……かっこいい……っ！|　あなたの　お名前は……？": "That's... Cool... Oh! What's your name...?"
+    },
+    "48": {
+        "「<pc>さん？　<pc>さんね。|　助けてくれて　ありがとう！": "<pc>  Mr.?<pc> ... Thank you for saving my life!"
+    },
+    "49": {
+        "「ぜひ　お礼をさせてほしいわ。|　どんなことなら　喜んでもらえるかしら？|　えっと　ええっと……": "I'd really like to thank you... What would|make you happy? Well, um..."
+    },
+    "50": {
+        "「そうだわ！　ぜひ　うちへ遊びにきて。|　ここから東に　ゼフの店っていう|　錬金術のお店があって　私　そこに住んでるの。": "Oh, yes! You should come visit me. There's an|alchemy shop east of here called Zef's. I|live there."
+    },
+    "51": {
+        "「たいした　おもてなしは　できないけど |　あなたのために　一曲歌わせてほしいな。|　ね？　ね？　絶対　遊びにきて！": "I know I'm not much for entertaining, but I'd|like to sing a song for you. You know? Right?|You have to come visit us!"
+    },
+    "52": {
+        "「おおい　シャンテ～～！|　今の　ひどい歌は　なんなんだ！？": "Hey, Chantey! What was that awful song you|were singing?"
+    },
+    "53": {
+        "「あっ　モッキンさん……。": "Oh, Mr. Mocking..."
+    },
+    "54": {
+        "「ああ……なんてこったい。|　今日は　もう店じまいだ……|　早いとこ　出ていってくれ！": "Oh... What the hell... I'm closing up for the|day. Get the hell out of here!"
+    },
+    "55": {
+        "「ご…ごめんなさい。あの　でも……|　できたら　また　歌わせてくださいね。": "I'm... I'm sorry... But... If you can, please|let me sing again..."
+    },
+    "56": {
+        "「それじゃ　<pc>さん。|　本当に　ありがとう！　またね～～！": "in which case<pc> Three. Thank you so much! See you~!"
+    },
+    "57": {
+        "「とほほ……やっちまったよ。|　曲芸師や踊り子で　客をもてなせ。|　ただし　誰にも歌わせてはならない……。": "Oh, no... Oh, no... We'll have acrobats and|dancers... But you must never let anyone|sing..."
+    },
+    "58": {
+        "「なのに　あの子に　どうしてもと頼まれて |　ついつい　ステージに　上げちまった。|　これじゃ　うちの評判は　ガタ落ちだ……。": "But she asked me to do something for her, and|I couldn't resist putting her on stage. This|is ruining our reputation."
+    },
+    "59": {
+        "「いやっ！　それ以前に…… |　こんな騒ぎを起こしたら　指針監督官に|　目を　つけられちまうかもしれないぞ！？": "No! Before that... If we make a scene like|this, we might get spotted by the guideline|supervisor!"
+    },
+    "60": {
+        "「ああ……シャンテは　王都で人気の歌姫でな。 |　半年ほど前　ある事件に　巻き込まれたせいで|　療養することになり　活動休止してたんだが……": "Oh... Chante is a popular singer in King's|Landing. About six months ago, she got caught|up in a case, and she had to take a break to|<br>|recuperate, but..."
+    },
+    "61": {
+        "「ようやく　活動再開と思いきや|　ひどい歌声だったよなあ。話してても|　以前より　ボ～ッとした感じだったし……。": "I thought he was finally back in action, but|his voice was terrible. He sounded more dull|than ever."
+    },
+    "62": {
+        "「あんた　あの子に　錬金術の……|　ゼフの店に来るよう　誘われてたな。": "You know, that girl, the one with the|alchemy... She asked me to come to Zef's..."
+    },
+    "63": {
+        "「もし　行くつもりなら　中央広場から|　東に歩いて　階段を上がった通りにあるぞ。|　薬びんの看板を目印にして　探すといい。": "If you're planning on going, walk east from|the central plaza, up the stairs to the|street... Look for the medicine bottle sign."
+    },
+    "64": {
+        "「そんでさ……シャンテに　会ったら |　悪いこと言わないから　もう　人前で歌うのは|　やめたほうがいいよって　伝えてくれないかい。": "And... If you see Chante, tell her I'm sorry,|but she shouldn't sing in public anymore..."
+    },
+    "65": {
+        "<pc>は　宿屋に泊まった。": "<pc> is staying at the inn..."
+    },
+    "66": {
+        "「…………おい　そこのお前。": "... Hey, there..."
+    },
+    "67": {
+        "「あたしは　リンカ。 |　この店で働いてる　錬金術師で|　お前が探してる　シャンテの姉さ。": "I'm... I'm the alchemist who works here. I'm|the chanteuse you're looking for."
+    },
+    "68": {
+        "「でだ……うちの妹に　何の用だ？|　お前みたいな旅人が　どこでどうやって|　シャンテと　知り合ったっていうんだよ！": "So... What do you want with my sister? How|did a traveler like you come to know Chante?"
+    },
+    "69": {
+        "「……よくいるんだよな　お前みたいなの。 |　シャンテの歌に　ホレ込んで　押しかけてくる|　ずうずうしくって　迷惑な奴がさ。": "... You know, there's a lot of guys like you.|You're the kind of guy who falls in love with|a chanteuse's song, and you come in here and|<br>|you're all..."
+    },
+    "70": {
+        "「知り合いを装って　あいつに近づこうってんなら|　このあたしが　タダじゃおかないぜ！": "If you're trying to get close to that guy,|pretending to know him, I'm not gonna let you|get away with it!"
+    },
+    "71": {
+        "「いいかげんにしなさい。失礼でしょう。": "I don't want to... Excuse me..."
+    },
+    "72": {
+        "「そうだ　そうだーー！|　リンカは　しつれいせんばんだぞーーっ！|　おきゃくさまを　こまらせたら　だめなのーっ！": "That's it! That's it! You're the one who has|to fight! You can't embarrass the customers!"
+    },
+    "73": {
+        "「な…なんだよ。チュラリスは　関係ないだろっ。|　つーか　裏に隠れてろって！|　もし　こんな時に　あいつらが来たら……。": "Na... I don't... This has nothing to do with|Tularis... I mean, you should be hiding out|back! If they come at a time like this..."
+    },
+    "74": {
+        "「チッ。ウワサをすれば……。": "Tsk. If I tell a rumor..."
+    },
+    "75": {
+        "「邪魔するぞ。": "Get out of the way..."
+    },
+    "76": {
+        "「エテーネ王国軍　特務機関所属……|　指針監督官のベルマである。": "Ethene's Royal Army, special services...|Guideline Supervisor Velma..."
+    },
+    "77": {
+        "「またですか　ベルマさん……。": "Again, Mr. Velma..."
+    },
+    "78": {
+        "「おや……ふたりとも　おそろいとは|　ちょうどよかった。 |　その後　我々の指導には　従ってもらえたかな？": "Oh... It's so nice to see you both wearing|the same... So, have you been following our|lead?"
+    },
+    "79": {
+        "「ふむ……。どうやら　まだのようだ。|　貴様ら　錬金術師が持つ　指針書には|　はっきりと　書かれているはずだが？": "Hmm... Apparently not yet... Isn't it clearly|written in your alchemist's guidebook?"
+    },
+    "80": {
+        "「すべての魔法生物を　処分せよ……と。": "All magical creatures must be destroyed. ...."
+    },
+    "81": {
+        "「このエテーネ王国は　時の指針書に従うことで|　今日までの　輝かしい栄光を　築き上げ|　豊かな暮らしを　実現してきたのだ。": "This kingdom of Etaine, by following the Book|of Hours, has built a glorious and prosperous|life to this day..."
+    },
+    "82": {
+        "「国民ならば　子供でさえ理解していることだが|　……わかっているのか？|　拒否すれば　国家への反逆とみなすぞ。": "A citizen, even a child, understands that...|Do you understand that? If you refuse, it|will be considered treason..."
+    },
+    "83": {
+        "「それとも……厳しいお仕置きが必要かな？": "Or... Do I need a severe spanking?"
+    },
+    "84": {
+        "「はっ！　やってみやがれ。 |　あたしたちは　権力や　おどしには屈しない……|　錬金術師としての　プライドにかけてね！": "Ha! Let's do it. We will not be cowed by|power or coercion. It's our pride as|alchemists!"
+    },
+    "85": {
+        "「……荒事は　よしましょう。|　今は　お客さんが　来ているんです。|　無関係の人を　巻き込むおつもりですか？": "... No, no, no, no, no, no. We have guests|here... Are you trying to get somebody else|involved in this?"
+    },
+    "86": {
+        "「…………ちっ。よそ者か。 |　時の指針書に記載のない者と　関わるのは|　いささか　面倒だな……。": "..... Hey, uh... It's somewhat troublesome to|engage with someone who's not listed in the|time guidelines..."
+    },
+    "87": {
+        "「いいだろう。今日のところは　退いてやる。|　だが　私の指針書は　告げているぞ……|　次こそは　使命を果たすべし……とな。": "Okay... I'll retire for now. But my mission|statement tells you... Next time, you will|complete your mission. ....."
+    },
+    "88": {
+        "「すべての魔法生物を　処分しろ。|　貴様らの　賢明な判断を　期待しているぞ。": "All magical creatures must be destroyed. I|expect you to use your judgment wisely."
+    },
+    "89": {
+        "「驚かせてしまって　すみませんね……。|　旅人のあなたには　何がなんだか|　わからなかったでしょう。": "I'm sorry I startled you. You're a traveler.|You have no idea what's going on."
+    },
+    "90": {
+        "「さっきの軍人たちは　指針監督官といって |　時の指針書に書かれた内容に　従わない者を|　取り締まる立場にあるんです。": "These men are guiding principles officers,|and they're in charge of cracking down on|people who don't follow the guidelines that|<br>|were written at the time..."
+    },
+    "91": {
+        "「ここ最近　軍の権威を　かさに着て |　王都で　幅をきかせている連中なんですよ。|　以前は　こんなことなかったんですが……。": "They've been using the military's authority|to their advantage in King's Landing lately.|It wasn't like this before, but..."
+    },
+    "92": {
+        "「……これで　わかったろ。|　今　この店は　面倒なことになってんだ。|　お前の相手なんか　してらんねーんだっつの。": "... Now you know... I'm in a lot of trouble|here. I don't have time to deal with you..."
+    },
+    "93": {
+        "「姉さん……あの女の人たちは　帰ったの？ |　私たち　もう　下に降りてもいい……？": "Sister... Did those women leave? Can we go|downstairs now?"
+    },
+    "94": {
+        "「って　<pc>さん！？|　待っててね。今　そっちに行くからっ。": "indicates supposition<pc> Miss? Wait... I'm coming to you..."
+    },
+    "95": {
+        "「えっ……？　なんだよ　シャンテ。|　こいつ　マジで　知り合いなのか？": "What...? What the heck... Do you really know|this guy?"
+    },
+    "96": {
+        "「<pc>さんは　私の恩人なの。|　酔っ払いに　カラまれてたのを　助けてくれて|　すっごく　かっこよかったんだから！": "<pc> I owe you... You saved me from a drunk driver|and you were so cool!"
+    },
+    "97": {
+        "「なんだ……こいつが　例の恩人だったのかよ。|　そういうことなら　早く言えっつーの！": "What the... This is the guy who helped you...|If that's the case, tell me now!"
+    },
+    "98": {
+        "「追い返そうとして　悪かったな。|　あたし　妹のことになると　ついつい|　マジになっちまってさ～。あっはっは！": "I'm sorry I tried to push you away. I get so|serious when it comes to my sister... Hahaha!"
+    },
+    "99": {
+        "「酒場では　本当にありがとう！|　遊びにきてくれて　とってもうれしいわ。": "Thank you so much for being at the bar! I'm|so glad you came to visit..."
+    },
+    "100": {
+        "「えっ？　宿屋のモッキンさんから　伝言……？": "What? A message from Mr. Mockingjay at the|inn...?"
+    },
+    "101": {
+        "「そう……たしかに　迷惑かけちゃったものね。|　言われた通り　もうこれ以上|　人前で歌わないほうが　いいのかも……。": "Well... You're right. I've caused you|trouble. Maybe I shouldn't sing in public any|more, like you said."
+    },
+    "102": {
+        "「そんな　落ち込むことないぞ　シャンテ。|　他の連中には　理解できなくたって|　あたしは　あんたの歌が好きだよ。": "Don't be so downhearted, Shh... Even if the|others can't understand it, I like your song."
+    },
+    "103": {
+        "「ありがとう　姉さん。|　……でも　できることなら　多くの人に|　自分の歌を届けたいの。": "Thank you. Thank you. ... But if I could just|get my song out to as many people as|possible..."
+    },
+    "104": {
+        "「私は歌うことが　本当に好きよ。|　この歌で　いつか　みんなを幸せにしたい。|　それが　歌姫としての使命だと思うから……。": "I'm really good at singing. I want this song|to make everyone happy. I think that's my|mission as a diva, so..."
+    },
+    "105": {
+        "「気持ちは　わかるし　お前の願いなら |　なんだって　かなえてやりたいけど……|　今は家で　おとなしくしてくれよ。": "I know what you're going through, and I wish|I could do everything you want, but... But|right now, you need to stay home."
+    },
+    "106": {
+        "「お前は　大ケガから回復したばっかりで|　まだまだ　本調子じゃないだろ？|　それに　今は　指針監督官がうろついてる。": "You're still recovering from a serious|injury, aren't you? Besides, there are|guiding officers hanging around right now..."
+    },
+    "107": {
+        "「そうね。あの人たち　ちょっと怖いわ……。|　コポも　部屋でおびえていたもの。": "... They're a little scary... Copo's in his|room. He's scared."
+    },
+    "108": {
+        "「チュラリスとコポは　錬金術師によって|　生み出された　魔法生物なんです。|　一見すると　魔物のように見えますが……": "Tularis and Copo are magical creatures|created by an alchemist... At first glance,|they appear to be demons, but..."
+    },
+    "109": {
+        "「魔法生物は　その証として　身体のどこかに|　こういう宝石を　宿しているので|　すぐに　わかるんですよ。": "Magical creatures carry these jewels|somewhere on their bodies as proof of their|existence, so it's easy to see..."
+    },
+    "110": {
+        "「チュラリスは　私の助手として|　コポは　シャンテの話し相手として|　それぞれ　役立ってくれています。": "The tularis has been my assistant, and the|copo has been my chanteuse."
+    },
+    "111": {
+        "「チュラリス　やくそう　いっぱいはこぶ！|　たなに　しまっちゃうよ！　しまっちゃうよ！": "Chularis, I'm going to carry so much stuff!|You'll get stuck! I'll get stuck!"
+    },
+    "112": {
+        "「あたしたちにとって|　魔法生物は　大切な家族なんだ……。": "Magical creatures are very important to us.|They're our family."
+    },
+    "113": {
+        "「こいつらを処分しろだなんて　とんでもない！|　たとえ指針書に　書いてあることだとしても|　あたしたちは　絶対に従わないよ。": "You can't expect us to get rid of these|people! Even if that's what the guidelines|say, we'll never follow them..."
+    },
+    "114": {
+        "「…………ん～？|　だけど　何か　忘れてるような……。": "... Hmm? But I seem to have forgotten|something..."
+    },
+    "115": {
+        "「あーー！　そうだ　ジョニールだよっ。|　あいつのこと　すっかり忘れてた！": "Aah! That's right, Jonir... I forgot all|about him!"
+    },
+    "116": {
+        "「だから　何度言えば　わかんだよッ！|　ネジガラミの根は　品切れ。|　ないものは　渡せねえ！": "I don't know how many times I have to tell|you! The roots of the ragweed... I can't give|you what I don't have!"
+    },
+    "117": {
+        "「そちらこそ　何度言えば　理解できるので？|　品切れならば　仕入れりゃいいだけの話です。|　それが　雑貨屋の職務ってもんでしょうに！": "How many times do I have to tell you that you|don't understand? If we're out of stock, we|can just stock up. That's the job of a|<br>|grocer!"
+    },
+    "118": {
+        "「いいですか。リンカ様は　有能な執事である|　このジョニールを信頼して　おつかいを|　命じてくださったワケですよ。": "You see... Master Linka trusted the capable|butler, Jonir, to take care of her."
+    },
+    "119": {
+        "「手ぶらで帰れば　執事の誇りが|　すたるってもんです…… |　さあっ！　出すもの　出してもらいましょうか。": "I'd be proud to be a butler if I left empty-|handed... Come on! I'll get you out of|here..."
+    },
+    "120": {
+        "「ああ……すいませんね　お客さん。|　ちょいと　取り込み中でして……。": "Oh... I'm sorry, I'm... I'm just in the|middle of something..."
+    },
+    "121": {
+        "「……はい？　ジョニールは|　たしかに　ワタクシのことですが……。": "... Yes? I'm sorry, but I'm not Joni..."
+    },
+    "122": {
+        "「なな…なんですとぉ！？|　リンカ様が　帰ってこいと……。": "What...? What? ! Master Linka wants you to|come back..."
+    },
+    "123": {
+        "「ぐ…ぐぬぬ……しかしっ！|　任務を途中放棄するなど　もってのほか。|　なぜならワタクシ　有能な執事ですから！": "G... I'm sorry... But! There's no way I'm|abandoning my mission... Because I'm a very|good butler!"
+    },
+    "124": {
+        "「俺は　ここの店主のブルーノー。|　ジョニールは　うちの常連だし|　品物を売りたいのは　やまやまなんだが……。": "I'm the owner of this place, Bull... Jonil's|a regular here, and I'd love to sell him|something, but..."
+    },
+    "125": {
+        "「注文の素材……ネジガラミの根は　品切れでね。|　ちょいと　バントリユ地方まで|　採りにいかなきゃ　ならないんですよ。": "Order materials... We're out of nigirame|root. I have to go to Bountreuil to get|some..."
+    },
+    "126": {
+        "「だが……俺の指針書に　書いてあるんです。|　『バントリユ地方に行ってはいけない』ってね。": "But... It's in my guidebook... \"Do not go to|the Bountreuil region...\""
+    },
+    "127": {
+        "「そっちがその気なら　こちらとしても|　素材が手に入るまでは　テコでも動きませんよ。|　なぜならワタクシ　有能な執事ですから！": "If that's what you want, then we won't make|any moves until we have the materials...|Because I'm a very capable butler!"
+    },
+    "128": {
+        "「やれやれ　参ったなぁ。|　このままじゃコイツ　居ついちまう。|　とはいえ　時の指針書には逆らえないし……。": "Oh, no... If we don't do something, he'll|stay... But I can't go against the time|guidelines..."
+    },
+    "129": {
+        "「そうだ　冒険者さん。報酬は支払うんで |　バントリユ地方まで　ネジガラミの根を|　採りにいってくれませんかね？": "Yes, adventure... I'll pay you to go to|Bountreuil to gather the roots of the thorny|ragweed."
+    },
+    "130": {
+        "「バントリユ地方の　いちばん西にある|　レーテの湖で　５株くらい採取すれば|　充分　事足りるでしょう。": "Five or so plants from the lake of Leyte, the|westernmost part of Bountreuil, should be|enough."
+    },
+    "131": {
+        "「ほほう。リンカ様のために　パシりたいとは |　近ごろの若者にしては　殊勝な心がけですな。|　せいぜい　キリキリはたらいてくださいねっ！": "... To want to take care of Lady Rinca is an|auspicious gesture for a young person these|days... I hope you're working as hard as you|<br>|can!"
+    },
+    "132": {
+        "「こいつら魔法生物が　指針監督官たちに|　狙われてるって話は　ゼフさんから聞いてるんで|　まあ……タンスの中にでも　隠しておきますわ。": "Mr. Zev told me that these magical creatures|are being targeted by the Overseers, so...|I'll just hide them in the wardrobe and..."
+    },
+    "133": {
+        "「ちょっ……離しなさい　この無礼者！|　ひと晩かけてセットした　有能な執事ヘアーが|　乱れるじゃないですかぁ！　離しなさ～～い！！": "Hey... Get off me, you rude bastard! You're|upsetting the talented butler's hair I spent|all night setting! Let go of me~!"
+    },
+    "134": {
+        "「そんじゃ　無事に　ネジガラミの根を集めたら|　この雑貨屋まで　戻ってきてください。|　よろしく頼みますよ　冒険者さん。": "Now, when you have successfully collected the|roots of the thorny ragweed, please return to|this general store... I'll be counting on|<br>|you. Adventure..."
+    },
+    "135": {
+        "「あ…ああ……お客さん。|　例のブツは　集められましたかね……っ？": "Oh... Oh... Oh... Did you collect the|goods... Huh?"
+    },
+    "136": {
+        "「おっ。それはまさしく　ネジガラミの根！": "Whoa. That's exactly what Nejigaramee root|is!"
+    },
+    "137": {
+        "「……マッスル……ジョニール……|　スペシャル　ムキムキ　パゥワ～～～～！": "... Muscle... Jonil... Special muscle powwow.|～～～～!"
+    },
+    "138": {
+        "「ドーーーーーーーーン！！": "Dooooooooooo!"
+    },
+    "139": {
+        "<pc>は　ジョニールに|ネジガラミの根の束を　奪われた！": "<pc> has lost a bunch of screwball roots to Jonil!"
+    },
+    "140": {
+        "「ふっ　ふふ……フフフフ……！|　これでリンカ様に　ほめていただけるぞ！|　ワッハハハ　ハーッハッハッハ！！": "Mmm-hmm... Hmph...! Now you can praise me,|Rinka-sama! Hahahahahahahahahahaha!"
+    },
+    "141": {
+        "「いやいや　お見苦しいとこを見せましたな。|　このジョニール　有能な執事として|　心より　感謝いたします……。": "Oh, no, no, no, no, no. I'm sorry. I'm sorry.|You see, Johnny, as your capable butler, I|thank you from the bottom of my heart..."
+    },
+    "142": {
+        "「ああっ　待っててくださいね　リンカ様……！|　このジョニール　ただいま　貴女のもとへ|　一直線に　戻りますゆえ～～～～！！": "Oh, wait for me, Miss Rinka... I'm Jonniel.|I'm on my way back to you right now. ～～～～!"
+    },
+    "143": {
+        "「あーあー。大丈夫かよ　あれ……。": "Oh... Are you okay? That..."
+    },
+    "144": {
+        "「ネジガラミの根は　滋養強壮のほか|　物忘れなんかにも　よく効く薬を|　錬成するための素材でしてね。": "Nejigarami root is used in the preparation of|a tonic and a remedy for memory loss."
+    },
+    "145": {
+        "「近ごろは　リンカに頼まれた　ジョニールが |　ちょくちょく　買いにくるんだが……|　シャンテちゃん　そんなに悪いのかねえ？": "Lately, Jonil's been asking me to buy a few|things for him, but... Is it that bad,|Shante?"
+    },
+    "146": {
+        "「っと……それはそうと　ご苦労さんでした。|　少ないですけど　これは報酬です。": "Well... Anyway, thanks for your help... I|know it's not much, but this is..."
+    },
+    "147": {
+        "<pc>は　３０００ゴールド　手に入れた！<se_nots System 7>": "<pc> I've got 3,000 gold!|<se_nots System 7>"
+    },
+    "148": {
+        "「あれでも　タチの悪い連中に|　狙われてるらしいんで……ゼフの店まで|　無事に帰れるか　見といてやってくださいね。": "I heard there's some bad guys trying to kill|you, so... Just make sure he gets back to|Zev's in one piece."
+    },
+    "149": {
+        "「リンカ様～～～！　貴女のジョニールが|　ただいま　おつかいから　戻りましたよーー！！": "Dear Rinka~! Your Jonniel has just returned|from his errand!"
+    },
+    "150": {
+        "「この店の魔法生物は　あれで全部か……。 ": "So, that's all the magical creatures in this|place?"
+    },
+    "151": {
+        "「……何を　驚いたカオをしている？|　貴様のことは　ずっと監視させていたのだぞ。": "... What are you doing? Why are you acting so|surprised? I've been keeping an eye on you..."
+    },
+    "152": {
+        "「まさか　気づかなかったのか？|　はっ。ニブい奴め……。": "No way. You didn't see that coming? I... He's|so nasty."
+    },
+    "153": {
+        "「時の指針書は　必ず順守されるべきものだ。|　誰ひとりとして　逃れられはしない。": "The guiding principles of the time must be|adhered to... None of us can escape..."
+    },
+    "154": {
+        "「だが　エテーネの国民でない　貴様は別だ。|　このまま　錬金術師たちとの関わりを絶てば|　特に　とがめはしない。": "But you are not a citizen of Etaine. If you|continue to have no contact with the|alchemists, there will be no repercussions."
+    },
+    "155": {
+        "「我々は　そろそろ　しびれを切らしている。|　……邪魔はしてくれるなよ。いいな？<yesno><close>": "We're about to run out of steam... ... I|don't want any trouble... All right?<yesno><close>"
+    },
+    "156": {
+        "「そうだ　それでいい。命が惜しいのならばな。|　クククッ……。": "Yes, that... You're a dead man. Oh..."
+    },
+    "157": {
+        "「なるほど。その反抗的な態度…… |　よほど手ひどく　いたぶられたいらしい。|　クククッ……。": "You know... Your defiant attitude... I'd like|to be tortured... Fuck..."
+    },
+    "158": {
+        "「我ら　指針監督官は　必ず任務を果たす。|　これ以上　関わるつもりなら|　貴様も　ただでは　済まさぬと知れ。": "We, the Guidance Officers, will do our|duty... If you have anything further to do|with this, you will not be spared."
+    },
+    "159": {
+        "「……よくよく　身の振り方を　考えることだ。": "... I've been thinking a lot about what I'm|doing..."
+    },
+    "160": {
+        "「いやはや。雑貨屋の主人が　相変わらずの|　石頭でして　苦労させられましたのですよっ。": "Well... The owner of the grocery store was as|stone-faced as ever, and he gave me a hard|time, so..."
+    },
+    "161": {
+        "「しかし　この有能執事ジョニールにかかれば|　ネジガラミの根の　ひと束やふた束|　チョロいもんでございますからね　ハイ！": "But in the capable hands of my butler,|Jonniel, a bunch or two of thistles won't|matter."
+    },
+    "162": {
+        "「よしよし……おつかい　ご苦労さん。|　とにかくベルマに見つからなくて　よかったよ。": "Okay, okay, okay... I'm sorry for your|troubles. I'm just glad Velma didn't find me."
+    },
+    "163": {
+        "「おっ。<pc>　ありがとな。|　ジョニールのこと　手伝ってくれたんだろ？|　お前って　いいヤツだなぁ！": "Whoa.<pc> There's... You helped me with Jonir, didn't|you? You're such a good guy!"
+    },
+    "164": {
+        "「<pc>さんは　錬金術って見たことある？|　これから姉さんが　薬を作ってくれるの。|　とっても　かっこいいのよ！": "<pc> Have you ever seen alchemy? Your sister is|going to make a potion... It's so cool!"
+    },
+    "165": {
+        "「こいつに　材料となる　素材を入れることで|　新しい物を生み出すのさ。|　まあ　見ててくれ……。": "Now, this is where we put the materials, the|ingredients, to create something new... I'll|show you..."
+    },
+    "166": {
+        "「第一工程　焼成開始！": "The first project has begun!"
+    },
+    "167": {
+        "「溶解……分離……再統合完了。|　第二工程へ移行……温度上昇。|　第三工程　昇華および増殖に問題なし。": "Dissolve... Separation... Reintegrate...|Transfer to Second Process... Warm... Process|3: Sublimation and growth problems..."
+    },
+    "168": {
+        "「これより　最終工程に移行する。|　……変質せよっ！": "And now for the final step... ... Transform!"
+    },
+    "169": {
+        "「いっちょあがりっと！": "Come on, let's go!"
+    },
+    "170": {
+        "「ああ　いい香り……。": "Oh, it smells so good..."
+    },
+    "171": {
+        "「この薬用茶は　心をリラックスさせて|　眠った記憶を　呼び戻す効果があるって|　姉さんが　毎日作ってくれるの。": "My sister makes this tea every day. She says|it relaxes the mind and brings back memories|of sleep."
+    },
+    "172": {
+        "「ええ。私……昔の記憶がないの。": "Yeah. I... I remember a time..."
+    },
+    "173": {
+        "「半年くらい前　はるか南の海洋都市|　リンジャハルで起こった　大災害に|　巻き込まれて　大ケガをしたらしいわ……。": "About six months ago, he was injured in a|catastrophe in the far southern maritime city|of Rinjahar..."
+    },
+    "174": {
+        "「奇跡的に回復して　ケガは治ったんだけど|　大災害に　あうより前のことは　覚えてないの。": "Miraculously, I recovered and my injuries|healed, but I don't remember anything before|the catastrophe."
+    },
+    "175": {
+        "「だから　王都の歌姫って呼ばれても |　その頃の記憶も　歌い方も　すべてが|　ボンヤリして　わからないのよ。": "So even though she's called the diva of|King's Landing, my memories of that time and|the way she sings are all a little hazy and I|<br>|don't know..."
+    },
+    "176": {
+        "「酒場のステージで歌えば　昔のカンを|　取り戻せるかなって　思ったんだけど|　……それも　迷惑かけちゃったし。": "I thought maybe if I sang on stage at the|tavern I could get my old instincts back,|but... I didn't want to get you in trouble."
+    },
+    "177": {
+        "「誰がなんと言おうと　関係ないさ！|　もしも　お前を　悪く言う奴がいたら|　あたしが錬金釜で　ぶん殴ってやるよっ。": "I don't care what anyone says. If anyone says|anything bad about you, I'll hit them with my|smelting pot..."
+    },
+    "178": {
+        "「お前は　あたしにとって　最高の歌姫だ。|　だから　そんなカオするなよ。|　いつもみたいに　明るく笑ってくれ……なっ？": "You're the best thing that's ever happened to|me. That's why you're such a... Just smile|brightly like you always do. What?"
+    },
+    "179": {
+        "「ありがとう　姉さん……。": "Thanks, sis..."
+    },
+    "180": {
+        "「私　負けない。元の歌声に戻る日まで|　絶対　絶対……くじけないわ！": "I'm losing... Until the day I get my voice|back, I swear... I'm not going down!"
+    },
+    "181": {
+        "「……気持ちはわかるけど　無理すんな。|　ありのままの　お前でいいじゃないか。": "I... I know how you feel, but I can't... It's|okay to be who you are."
+    },
+    "182": {
+        "「あたしは……いつまでも　こうして|　ふたりで仲良く　暮らしていければ|　それだけで　充分　幸せなんだから……。": "I'm... If we can live together like this|forever, we'll be happy enough..."
+    },
+    "183": {
+        "「姉さん……。": "Sis..."
+    },
+    "184": {
+        "「んしょ　んしょ……よっこいしょっ。|　おちゃです。どぞーーっっ！": "Yes, yes, yes... Hey... Ouch... Move it!"
+    },
+    "185": {
+        "「おっ。チュラリス　気がきくじゃん。": "Whoa. Tularius, you're so clever..."
+    },
+    "186": {
+        "「ムムムッ……ワタクシともあろう者が|　リス型魔法生物などに　おくれを取るとはっ。|　今すぐ　お茶菓子を持って参りますぅ！": "Mmm-mmm. I am no stranger to squirrelly|magical creatures... I'll be right back with|your tea cakes!"
+    },
+    "187": {
+        "「ほんぎゃーーーーーっ！？": "Hongyaaaah!"
+    },
+    "188": {
+        "「なんだなんだ。また　やらかしたのか？": "What the... Did you do it again?"
+    },
+    "189": {
+        "「ちょっと見てくるわ。<pc>さんは|　ここで　ゆっくりしててね。": "Hey, look...<pc> You can stay here and relax..."
+    },
+    "190": {
+        "「本当に仲のいい　姉妹でしょう？|　ふたりは　いつも一緒なんです。": "You two are really close, aren't you? They're|always together..."
+    },
+    "191": {
+        "「……彼女たちの父親　アルテオは|　不慮の事故で　５年前に　亡くなりました。": "... Their father, Altheo, died five years ago|in a tragic accident."
+    },
+    "192": {
+        "「残された肉親は　お互いだけ……。|　リンカが　妹に過保護になるのも|　無理のない話なんですよ。": "The only relatives left are each other...|It's understandable that Linka would be|overprotective of her sister..."
+    },
+    "193": {
+        "「この国には　王立アルケミアという|　国家主導で　錬金技術の開発をおこなう|　特殊な　研究施設がありましてね……。": "In this country, there is a special research|facility called the Royal Alchemia which is a|state-sponsored research facility for the|<br>|development of alchemy..."
+    },
+    "194": {
+        "「アルテオは　元王立アルケミア所属の錬金術師で|　かつての私の同僚であり　親しい友人でした。|　その縁で　姉妹の身元を　引き受けたんです。": "Altheo is a former alchemist of the Royal|Alchemy, a former colleague of mine, and a|close friend. It was through him that I took|<br>|on the identities of the sisters..."
+    },
+    "195": {
+        "「魔法生物の研究が専門だった　アルテオは|　娘のリンカに　その秘技を伝授しました。": "Altheo, who specialized in the study of|magical creatures, taught his daughter,|Rinka, the secret of the..."
+    },
+    "196": {
+        "「コポやジョニールは　リンカが錬金したんです。|　彼女には　すばらしい才能がある……|　父親のような　よい錬金術師になれるでしょう。": "Kopo and Jonir were alchemized by Linka. She|has great talent. She'll be a good alchemist|like her father."
+    },
+    "197": {
+        "「おや　コポ。どうかしたんですか？": "Oh... What's the matter with you?"
+    },
+    "198": {
+        "「シャンテから　ヒミツのでんごん。|　でも　ほかのひと　きいちゃだめ。|　そういう　でんごん。わかって。": "We're keeping it a secret from Chante... But|the other people... So... I..."
+    },
+    "199": {
+        "「ああ……はいはい　わかりました。|　では　<pc>さん　ごゆっくり。": "Oh... Yes, yes, I understand... Okay, bye.<pc> Thank you."
+    },
+    "200": {
+        "「……シャンテから　おねがい。 |　おちゃを　のみおえたら|　あとで　へやまで　きてちょうだい。": "... I'm from Chante... When you've finished|your tea, come back to my room..."
+    },
+    "201": {
+        "「シャンテのへや　かいだん　あがって|　２かいの　ろうかをあるいて　おく。": "I walked up the stairs to the shanty, and|then I walked through two circles of wax..."
+    },
+    "202": {
+        "「シャンテ　ナイショばなし　したい。|　じょせいのへや　はいるときは|　ノック　ノック。よろしく……。": "Shante, a secret story ... Knock when you|enter the women's room... Nice to meet you..."
+    },
+    "203": {
+        "「いらっしゃい　<pc>さん！|　来てくれてありがとう……|　どうしても　ふたりで　話したかったの。": "welcome!<pc> Hi! Thank you for coming... I really wanted|to talk to you alone..."
+    },
+    "204": {
+        "「さっき　姉さんが言ってたでしょう。|　記憶を失って　昔の歌い方が思いだせなくても|　私は　ありのままでいいんだって……。": "You know, my sister told me... That even if I|lost my memory and couldn't remember how to|sing the way I used to, that it was okay to|<br>|be who I am."
+    },
+    "205": {
+        "「姉さんは　ああ言ってくれるけど|　私……このまま　姉さんの優しさに|　甘えてちゃいけないと思うのよ。": "You say that, but I... I don't think I should|take advantage of your kindness."
+    },
+    "206": {
+        "「今すぐに　記憶を取り戻すのが　難しいなら|　せめて　もっと上手に　歌えるようになりたい。|　……それが　私の本当の気持ち。": "If I can't get my memory back right now, at|least I can learn to sing better... ...|That's what I'm really..."
+    },
+    "207": {
+        "「それでね……この間　部屋を掃除してたら|　偶然　こんなものを見つけたのよ。": "So... I was cleaning my room the other day,|and I happened to find this..."
+    },
+    "208": {
+        "「戸棚の奥に　しまわれてたんだけど|　これ……記憶を失う前の私が　書いた|　日記帳みたいなの！": "I've been keeping it in the back of the|cupboard, but this... It's like a diary that|I wrote in before I lost my memory!"
+    },
+    "209": {
+        "「読んでみたらね　ある日の日記に|　こんなことが　書かれていたのよ……。": "I read it, and one day, in her diary, she|wrote this..."
+    },
+    "210": {
+        "『……昨日は　少し　歌いすぎちゃったみたい。|　ラウラリエの丘で　ラウラのみつを飲んで|　かれた声を　治さなくっちゃ……』": "\"I... I sang a little too much yesterday... I|need to go to Laurier Hill and drink some of|Laura's honey to fix my voice."
+    },
+    "211": {
+        "「……ねっ。ラウラのみつですって。|　きっと　丘に　ラウラの花が咲いてるのね。|　私も　みつを飲めば　元の歌声に戻れるかも！": "..... With Laura's honey... I'm sure there|are Laura's flowers in the hills... Maybe I|can get my singing voice back."
+    },
+    "212": {
+        "「だけど　ひとりで　王都の外に行くのは |　心細いから……<pc>さんに|　手伝ってもらえたらなって　思ってたの。": "But to go outside King's Landing alone| I don't feel safe, so<pc> I was hoping that maybe you could help me..."
+    },
+    "213": {
+        "「お願い　<pc>さん……|　私と　ラウラリエの丘へ　ラウラのみつを|　集めにいってくれないかな？<yesno><close>": "request<pc> Miss... Will you come with me to the hills of|Laurier to collect Laura's honey?<yesno><close>"
+    },
+    "214": {
+        "「姉さんやゼフさんに　お願いしても|　心配して　止められるだけだと思うわ……。|　<pc>さんしか　頼れないの。お願い！<yesno><close>": "I don't think I could ask your sister or Mr.|Zeph to do anything but worry and stop...<pc> You're the only one who can help me. Please!<yesno><close>"
+    },
+    "215": {
+        "「ありがとう　<pc>さん……！|　本当に心強いわ。よろしくね！": "Thank you<pc> Miss...! It's really nice to meet you. Nice|to meet you!"
+    },
+    "216": {
+        "「このことは　くれぐれも姉さんにはナイショよ。|　私　気づかれないように　部屋を抜け出すわ。": "Please don't tell your sister about this... I|slipped out of the room without her noticing."
+    },
+    "217": {
+        "「…………ベルマ　いた。|　うろうろ　うろうろ　店のそと。": "... Velma... Wandering, wandering,|wandering..."
+    },
+    "218": {
+        "「えっ……？": "What...?"
+    },
+    "219": {
+        "「ベルマ……指針監督官の　女の人が……。 |　たしかに　あの人は怖いけれど……。": "Velma... There's a woman who works as a|guidance counselor. I know she's scary,|but..."
+    },
+    "220": {
+        "「でも……行かなくちゃ。|　私なら大丈夫よ。錬金術師じゃないから|　ベルマに　目をつけられたりしないし。": "But... I don't... I'm not... I'm not an|alchemist. I don't know if Velma would notice|me."
+    },
+    "221": {
+        "「それにね　私……時の指針書を持ってないのよ。|　たぶん　大災害のときに　なくしちゃったのね。|　だから　指針監督官なんて　怖くないわ！": "Besides, I don't... I don't have a time|guidebook. I think I lost it in a major|disaster, so... That's why I'm not afraid of|<br>|being a guidance counselor!"
+    },
+    "222": {
+        "「もしも　私に　時の指針書があるとすれば……|　この日記こそ　私の指針書だと思うの。|　うん……きっと　そうなのよ。": "If I had a guidebook for time... I think this|journal is my guidepost. Yeah... I guess..."
+    },
+    "223": {
+        "「ラウラリエの丘は　エテーネ王国領を|　ずっと南西に行った　森の奥にあるわ。|　そこで　待ち合わせしましょう！": "The hill of Lauralie lies deep in the forest,|far to the southwest of the kingdom of|Etaine... I'll meet you there!"
+    },
+    "224": {
+        "「コポ……留守番　よろしくね。": "Copo... Watch my back..."
+    },
+    "225": {
+        "「いってらっしゃい　シャンテ。|　おみやげは　きれいなおむつ|　ひとつ　よろしく。": "Have a good day. As a souvenir, one clean|diaper, please."
+    },
+    "226": {
+        "「ふふっ。見つけたらね！": "... When you find it!"
+    },
+    "227": {
+        "「<cs_pchero>さん……見て！|　こんなに　きれいな花園　はじめてよ。": "<cs_pchero>Three... Look! This is the most beautiful|garden I've ever..."
+    },
+    "228": {
+        "「この花が　エテーネ王国領だけに咲く|　ラウラの花なのね。|　……とっても　いい香り。": "This is the Laura flower, which only blooms|in the Kingdom of Athens... ... It's very..."
+    },
+    "229": {
+        "「たしかに　ラウラのみつを飲めば|　上手に　歌えるようになるかも。|　昔の私ったら　いい場所を知ってたのね。": "I'm sure if you drink Laura's honey, you'll|learn to sing better. You know, I used to|know a great place..."
+    },
+    "230": {
+        "「さあ……さっそく　集めましょう！": "Let's... Let's go get 'em!"
+    },
+    "231": {
+        "「……きゃっ！？": "... What the hell?"
+    },
+    "232": {
+        "「ウゥウウ…………。": "Uh-uh..."
+    },
+    "233": {
+        "「出たわね　フローラルダンディ……！|　日記には　この花園をナワバリにしている|　魔物が現れるって　書いてあったわ。": "There you are, Floral Dandy. In your diary,|you wrote that there's a demon that's been|using this garden as a battleground."
+    },
+    "234": {
+        "「ウゥ……ウタ…………|　ウタエ……ウタヒメェェ…………！": "Ugh... Utah... Utah... Utahime..."
+    },
+    "235": {
+        "「心配しないで。日記の私によれば……|　子守唄を歌うと　すやすや眠って|　おとなしくなるんですって。": "Worried... According to my diary... I'd sing|her lullabies, and she'd sleep peacefully and|quietly."
+    },
+    "236": {
+        "「それでは　聴いてください……。|　フローラルダンディに　捧げる子守唄♪": "And now, please listen... ♪ A lullaby for|Floral Dandy ♪"
+    },
+    "237": {
+        "「ラーーララーーーーーーーーー！|　ララァーーーーーアーーーーーーッ！！": "Rah-rah-rah! Rah-rah-ah-ah-ah!"
+    },
+    "238": {
+        "「リーーーリリィーーーーーー！！|　ルーーーーーーーーーーーーーーーーッ！！！": "LEEEEEEEEEEEEEEEEEEEE! Roooooooooooooooowww!"
+    },
+    "239": {
+        "「はぁ　はぁ……どうかな？　よく眠れそう？": "Huh. Huh... What do you think? Are you gonna|sleep well?"
+    },
+    "240": {
+        "「グァァアアアアアア……！！": "Guaaaaaaaaaa...!"
+    },
+    "241": {
+        "「ええっ　どうして眠らないの？|　<cs_pchero>さん　助けてっ……！": "What? Why aren't you sleeping?<cs_pchero>Help me!"
+    },
+    "242": {
+        "「グオオオォォォオオオオオーーーーー！！！": ""
+    },
+    "243": {
+        "「グァァアアアアアア……！！": "Guaaaaaaaaaa...!"
+    },
+    "244": {
+        "「ううっ　やっぱり眠ってくれない……！|　<cs_pchero>さん　助けて！": "Ugh, she's still not sleeping...<cs_pchero>Help!"
+    },
+    "245": {
+        "「グオオオォォォオオオオオーーーーー！！！": ""
+    },
+    "246": {
+        "「ウゥウウ…………|　マエト　ゼンゼン　チガウ……。": "Uhhh... Maet zhen zhen chigau..."
+    },
+    "247": {
+        "「オマエ　ウタ　ヒドスギル！！": "You, you, you, you, you, you, you!"
+    },
+    "248": {
+        "「こっ…これから　元に戻るんだからっ。|　私は　ちゃんとした　歌姫なんだから～～！": "Oh, my... I'm going back to normal now... I'm|a proper diva~!"
+    },
+    "249": {
+        "「はぁっ……でも　怖かったわ。|　ありがとう　<cs_pchero>さん。|　あなたが一緒にいてくれて　本当によかった。": "Huh... But I'm scared... Thank you.<cs_pchero>San. I'm so glad you're here with me..."
+    },
+    "250": {
+        "「気を取り直して　みつを集めましょう……|　あの魔物を　見返すためにもねっ。": "Let's get back on track and collect the|potion. We've got to get back at that demon."
+    },
+    "251": {
+        "<cs_pchero>と　シャンテは|手分けして　ラウラのみつを　ビンに集めた。": "<cs_pchero>And Chante, you know, they split up and put|Laura's honey in the jars..."
+    },
+    "252": {
+        "「うんっ。これくらいあれば　大丈夫そうよ。 |　それじゃあ　飲んでみるね……。": "... That's all I need. I'm going to have a|drink..."
+    },
+    "253": {
+        "シャンテは　集めたラウラのみつを|一気に　飲み干した！": "Chante drank all of Laura's honey that she|had collected in one gulp!"
+    },
+    "254": {
+        "「これで　もう大丈夫。|　絶対　昔みたいに　上手に歌える……。": "Now I can... I'm gonna be able to sing like I|used to."
+    },
+    "255": {
+        "「聴いていてね　<cs_pchero>さん。|　生まれ変わった　私の歌……♪": "Just keep listening<cs_pchero>Three. Reborn. My song... ♪"
+    },
+    "256": {
+        "「ラーーララーーーーーーーーー！|　ララァーーーーーアーーーーーーッ！！": "Rah-rah-rah! Rah-rah-ah-ah-ah!"
+    },
+    "257": {
+        "「リーーーリリィーーーーーー！！|　ルーーーーーーーーーーーーーーーーッ！！！": "LEEEEEEEEEEEEEEEEEEEE! Roooooooooooooooowww!"
+    },
+    "258": {
+        "「…………ううっ。|　やっぱり　ラウラのみつを飲んだだけじゃ|　上手く　歌えないみたい……。": "...... I knew Laura's honey wouldn't make her|a good singer..."
+    },
+    "259": {
+        "「せっかく　<cs_pchero>さんにも|　協力してもらったのに　私って……。": "at great pains<cs_pchero>You've been so helpful, and I've been..."
+    },
+    "260": {
+        "「……負けないっ。": "... Losing..."
+    },
+    "261": {
+        "「姉さんや　<cs_pchero>さんが |　応援してくれてるんだもの。|　絶対　絶対……くじけないわ！": "young lady (in ref to a maid, etc)<cs_pchero>He's supporting me... Absolutely,|absolutely... I'm not going down!"
+    },
+    "262": {
+        "「あっちからも　花の香りがするわね。|　森の奥に　別の花園が　あるのかしら……。": "I can smell the flowers from over there. I|wonder if there's another garden deep in the|woods..."
+    },
+    "263": {
+        "「行ってみましょう　<cs_pchero>さん。|　もしかしたら　もっと効果のある|　ラウラのみつが　見つかるかもしれないわ。": "Let's go<cs_pchero>Three. Perhaps we can find a more potent form|of Laura's honey..."
+    },
+    "264": {
+        "「見て　<cs_pchero>さん……|　あそこに　何かあるみたい。": "Look<cs_pchero>Sir... There's something in there..."
+    },
+    "265": {
+        "「こんなところに　誰かの　お墓が……。": "There's someone's grave here..."
+    },
+    "266": {
+        "「真新しい墓石……ぴかぴかしてるわね。|　最近　亡くなった人なのかしら。": "Brand new headstone... Shiny and shiny... He|died recently..."
+    },
+    "267": {
+        "「……誰よりも　歌を愛し　歌に愛された|　エテーネの歌姫　シャンテ　ここに眠る……。": "... Chante, diva of Athens, who loved to sing|and was loved by singing more than any other,|lies here..."
+    },
+    "268": {
+        "「…………シャンテ！？": "... Shante!"
+    },
+    "269": {
+        "「う…うそよ！？|　こんなの　何かの間違いだわ！？ |　同じ名前の　他の誰か……そうでしょう？": "Ugh... No, no, no! There's got to be some|kind of mistake! Someone else with the same|name... Isn't it?"
+    },
+    "270": {
+        "「で…でも　エテーネの歌姫って…… |　この　お墓……なんなの…………。": "So... But the Etaine Diva... This tomb...|What the..."
+    },
+    "271": {
+        "「私……姉さんに　聞いてみるわ。 |　姉さんなら　何か知ってるはずよ……|　記憶がない私より　ずっと　たくさんのことを。": "I just... Ask your sister. I know you know|something. I know you know something. There's|so much more to you than I can remember."
+    },
+    "272": {
+        "「ひとまず　お店まで戻りましょう……。": "Let's just go back to the shop..."
+    },
+    "273": {
+        "「姉さんっ！": "Sister!"
+    },
+    "274": {
+        "「シャンテ！？|　お前っ……黙って　部屋から抜け出して|　今まで　どこに行ってたんだよ！": "Chante! You... Shut up and get out of my|room! Where the hell have you been?"
+    },
+    "275": {
+        "「あっ……。ご…ごめんなさい！|　<pc>さんと　ちょっと外へ……。": "Oh... I'm... I'm sorry!<pc> I'm going out for a minute with Mr..."
+    },
+    "276": {
+        "「あれほど　家にいろって言ったのに|　姉さんの言うことが　聞けないのか！？|　お前ってやつは……！": "I told you to stay at home, and now you can't|listen to your sister? You're such a..."
+    },
+    "277": {
+        "「……よかった　無事で。|　ホントに……よかった…………。": "... I'm glad. I'm glad. I'm so... I'm glad..."
+    },
+    "278": {
+        "「姉さん……？|　どうかしたの。何かあったの……？": "Sister...? Is something... What's wrong...?"
+    },
+    "279": {
+        "「……あなたたちと　入れ違いでした。|　先ほど　ベルマたち……|　指針監督官が　突然　押しかけて来たんです。": "... You and your friends... Earlier, Velma|and the others... We were in the middle of|something."
+    },
+    "280": {
+        "「彼女は　魔法生物を　強制処分すると言って|　問答無用で　みんなを連れ去りました……。": "She said she was going to force the magical|creatures to dispose of themselves, and she|took them all, no questions asked..."
+    },
+    "281": {
+        "「そんな……！　コポが！？": "Oh, no...! Kopo!"
+    },
+    "282": {
+        "「チュラリスも　ジョニールもだ。 |　そしたら　お前まで　いなくなってて|　あたしが　どんなに心配したことか……。": "And the tularis, Johnny... And then you were|gone, too, and you know how worried I was."
+    },
+    "283": {
+        "「こんなの　ひどい……ひどすぎるわ。|　すぐに　みんなを連れ戻さなくちゃ！": "This is terrible... It's awful... We have to|get them back now!"
+    },
+    "284": {
+        "「行くな　シャンテ！": "Don't go, Shante!"
+    },
+    "285": {
+        "「いやよ……どうして止めるの？|　みんなが　殺されるかもしれないのよ！？": "No, no, no... Why are you stopping me? You|could get us all killed!"
+    },
+    "286": {
+        "「あいつらは　あたしが　必ず助ける。 |　今度こそ　お前は　おとなしくしてろ！": "I'll take care of them. I'll... And this|time, you're gonna stay down!"
+    },
+    "287": {
+        "「いやっ。おとなしくなんて　できない！|　私にだって　できることがあるはずだわ。": "... I can't be quiet! There are things I can|do."
+    },
+    "288": {
+        "「ダメだ！　お前が行ったら……": "No! No! If you go..."
+    },
+    "289": {
+        "「離してよ　姉さん！！": "Get off me, sister!"
+    },
+    "290": {
+        "「お前が行ったら……|　ベルマに　殺されてしまうんだよ！！": "If you go... Velma's going to kill you!"
+    },
+    "291": {
+        "「……！": "...！"
+    },
+    "292": {
+        "「姉さん。私……自分の　お墓を見つけたの。 |　ラウラリエの丘で。花園の奥　海のそばで……。": "I... I... I found my grave... Lauralier... In|the depths of a flower garden, by the sea..."
+    },
+    "293": {
+        "「自分が書いた　日記を見つけたから。 |　歌が上手になりたくて　<pc>さんと|　ラウラのみつを　探しにいった……。": "I found a diary that I wrote... I wanted to|be a better singer.<pc> I went looking for Laura's honey..."
+    },
+    "294": {
+        "「……な…なんだよ　急に。|　なんのことか　わからないな……。": "... What the... I don't... I don't know what|you're talking about..."
+    },
+    "295": {
+        "「あの　お墓……なんなの？ |　私が殺されるって　どういうこと？|　姉さんは　何か　知っているんでしょう！？": "The grave... What's going on? What do you|mean, they're going to kill me? You know|something, don't you?"
+    },
+    "296": {
+        "「そ…それは……。": "It's... It's..."
+    },
+    "297": {
+        "「待たせたな　ゼフさん！|　ベルマたちの行き先が　わかったぞ。": "Sorry to keep you waiting, Mr. Zev! I don't|know where Velma and the others are going..."
+    },
+    "298": {
+        "「連中は　魔法生物たちを　でかいオリに入れた後 |　南門を出て　エテーネ王国領の南東へ向かった。|　あっちには　残響の海蝕洞があるはずだ。": "They put the magical creatures in a large|cage, then they left the south gate and|headed southeast through the realm of Etaine.|<br>|There's a reverberating sea cave over there."
+    },
+    "299": {
+        "「なるほど……あそこでは　王立アルケミアの|　失敗作を廃棄しているという　ウワサもある。|　おそらくは　そこで……。": "I see... There's a rumor going around that|they're disposing of the Royal Alchemia's|failures. Perhaps that's where..."
+    },
+    "300": {
+        "「おわっ。シャンテちゃん！？": "... Shantae!"
+    },
+    "301": {
+        "「リンカ……このままでは　いけないよ。": "Linka... I can't go on like this..."
+    },
+    "302": {
+        "「わかってる。わかってるさ……。|　いつかは……って思ってた。|　全部　全部　あたしのせいだ……。": "I know... I know, I know... One day... I|thought... It's all my fault. It's all my|fault."
+    },
+    "303": {
+        "「とにかく……今は　シャンテを追いかけたい。|　冒険者のお前だけが　頼りなんだ。|　頼む……　一緒に来てくれ。": "Anyway... I've got to go after Shante. You're|the only adventurer I've got. I beg you...|Come with me..."
+    },
+    "304": {
+        "「ありがとう　<pc>……。|　シャンテを……みんなを　助けよう！": "Thank you<pc> ... Shante... Let's help them!"
+    },
+    "305": {
+        "「残響の海蝕洞は　エテーネ王国領の南東の果て。|　砂浜から　洞くつに　入る道があるはずです。": ""
+    },
+    "306": {
+        "「危険な戦いが　待っているかもしれません……。|　どうか　ふたりを守ってやってください。": "There may be dangerous battles ahead...|Please protect them..."
+    },
+    "307": {
+        "「あばばばば……出して　出してくださぁぁい！ |　有能な執事たる者　勝手に死ねませぇん！|　頼みますよ！　ねえ！　この通りですからぁー！": "Ba-ba-ba... Let me out, let me out, please!|As a competent butler, I can't just die on my|own! I'm begging you! Hey! You're right!"
+    },
+    "308": {
+        "「いやーーーんっっ。|　おうち　かえりたい！　かえりたいぃーーっ！": "Oh, no... I want to go home! I want to go|home!"
+    },
+    "309": {
+        "「……よくしゃべる　虫ケラどもだ。|　１匹ずつ　引きずり出して|　バラバラに　解体してやろうか。": "... They're all talking. They're all talking.|I'm gonna pull them out one by one, and I'm|gonna take them apart."
+    },
+    "310": {
+        "「我がエテーネ王国の基盤は　時の指針書にある。|　エテーネの繁栄は　国民が指針書を|　順守することでしか　得られない……。": "The foundation of my kingdom is the Book of|Hours... The prosperity of Etaine can only be|achieved through the adherence of its people|<br>|to the guiding principles..."
+    },
+    "311": {
+        "「時の指針書こそ　この世の正義だ！|　時の指針書こそが　福音をもたらすのだッ！": "The Book of Hours is the justice of the|world! It is the book of hours that brings|the gospel!"
+    },
+    "312": {
+        "「……そんなことないわ！": "... That's not true!"
+    },
+    "313": {
+        "「おやおや。ゼフの店の歌姫か……。": "Oh... The diva from Zev's..."
+    },
+    "314": {
+        "「ウソでしょ！？　どうして　よりによって|　あなたが　来ちゃうんですかっ！": "No way! Why of all people would you come|here?"
+    },
+    "315": {
+        "「きゃーっ！　きゃーっ！|　シャンテ　にげて　にげてぇーーっ！！": "Yikes! Aaaaah! Shante, get away! Get away!"
+    },
+    "316": {
+        "「時の指針書がないと　幸せになれないなんて|　ウソよ！　私は　指針書を持ってないけど|　姉さんやみんなと　幸せに暮らしていたもの！": "It's not true that you can't be happy without|a time guidebook! I didn't have a time line,|but I was happy with you and everyone else!"
+    },
+    "317": {
+        "「……時の指針書を　持っていないだと？": "... You don't have the time guidebook?"
+    },
+    "318": {
+        "「もしや　お前は……。": "What if you're..."
+    },
+    "319": {
+        "「にげてーーーーーーーーーー！！": "Get away!!!!"
+    },
+    "320": {
+        "「えっ……？": "What...?"
+    },
+    "321": {
+        "「きゃあっ！！": "Yikes!"
+    },
+    "322": {
+        "「精神エネルギーが　吸収できないだと……？": "You're saying you can't absorb psychic|energy?"
+    },
+    "323": {
+        "「時の指針書を持っていないのも　当たり前だ。|　お前は　エテーネ王国の人間ではない……。": "No wonder you don't have the time travel|book. You're not from the Kingdom of|Etaine..."
+    },
+    "324": {
+        "「……ただの　魔法生物なのだから。": "... It's just a magical creature..."
+    },
+    "325": {
+        "「…………？|　何を……言っているの？": "What...? What are you...? What are you|saying?"
+    },
+    "326": {
+        "「信じられぬというのなら……|　動かぬ証拠を　突き付けてやろう。": "If you don't believe me... I'll give you hard|evidence..."
+    },
+    "327": {
+        "「やっ…やめて！　さわらないで！|　そこには　大きなキズ跡があるから|　絶対に見ちゃダメだって　姉さんが……！": "No... Don't do it! Don't touch it! You have a|big scar right there, and my sister said I|shouldn't look at it."
+    },
+    "328": {
+        "「自分の目で　確かめたことがあるのか？|　……ないだろう？": "Have you ever seen it for yourself? No... You|haven't?"
+    },
+    "329": {
+        "「そういう風に　しつけられていたのだよ。|　お前の……ご主人様になッ！": "That's what I was raised to do... Your...|Master!"
+    },
+    "330": {
+        "「え……？": "Huh...?"
+    },
+    "331": {
+        "「…………私が　魔法生物？": "I'm a... I'm a magical creature?"
+    },
+    "332": {
+        "「私が行けば　ベルマに殺される……。|　それは　魔法生物だから……|　昔の記憶がないのも……そうだったのね。": "If I go, Velma will kill me. She's a magical|creature. That's why you don't remember|anything. It's because..."
+    },
+    "333": {
+        "「姉さんは　すべて知っていた。|　知ってて……私に　黙ってたんだわ……。": "You know everything... She knew... And she|didn't tell me."
+    },
+    "334": {
+        "「シャンテーーーーっ！": "Shantae!"
+    },
+    "335": {
+        "「なんだコイツ……！？　どけよっ！|　あたしは　みんなを助けるんだ！！": "What the hell is this? Get out of the way!|I'm going to save everyone!"
+    },
+    "336": {
+        "「わからないな……そこまで執着する理由が。 |　錬金術師にとって　魔法生物とは|　便利に使役する　道具に過ぎないはずだが？": "I don't know... You're so obsessed. To an|alchemist, a magical creature is merely a|useful tool."
+    },
+    "337": {
+        "「道具じゃないっ。あたしの　大切な家族だ！": "They're not tools. He's my family!"
+    },
+    "338": {
+        "「なるほどな……。家族だからこそ　形すら|　人間に近づけてみた……というわけだな？": "Well... Because they're family, I tried to|make them more human in form. Is that it?"
+    },
+    "339": {
+        "「そんなものは　錬金術師のエゴに過ぎない。|　こいつは　家族なんかでなく……": "This is nothing more than an alchemist's|ego... This is not a family."
+    },
+    "340": {
+        "「ただの　悪趣味なドレイ人形ではないか！": "You're nothing but a dray doll with bad|taste!"
+    },
+    "341": {
+        "「その子は……シャンテはっ……。": "The girl... Shante is..."
+    },
+    "342": {
+        "「あたしの　大切な妹だーーーーっっ！！": "My precious little sister!"
+    },
+    "343": {
+        "「……ふたりを助けなきゃ。|　ラウラリエの花園で　やったみたいに|　私の歌で……引きつければ……！": "... I'll help you both... Just like we did in|the Garden of the Lauralie, with my song... I|can draw them together."
+    },
+    "344": {
+        "「ラーーララーーーーーーーーー！|　ララァーーーーーアーーーーーーッ！！": "Rah-rah-rah! Rah-rah-ah-ah-ah!"
+    },
+    "345": {
+        "「ギギ……ッ！　ギギ…ギギィーーーーッ！！": "Gee... No! Gee... GEEEEEEEEEEEE!"
+    },
+    "346": {
+        "「なっ……よせ　落ち着け！|　私の命令が　聞こえんのかッ！！": "What the... No, calm down! You don't hear a|word I'm saying!"
+    },
+    "347": {
+        "「今よ　みんな！　急いで！！": "Now, people! Hurry up!"
+    },
+    "348": {
+        "「なるほど……時の指針書に書かれていた|　危険な魔法生物とは　貴様のことか……|　ようやく出会えたぞ。": "So... So you are the dangerous magical|creature described in the Time Guide. At last|we meet."
+    },
+    "349": {
+        "「……消えてもらうッ！！": "... I'm gonna make you disappear!"
+    },
+    "350": {
+        "「な……っ！？": "な... っ!?"
+    },
+    "351": {
+        "「ギェェェェーーーーーーーッッ！！！": "GEEEEEEEEEEEEEEEEEEEEEEEE!!!!"
+    },
+    "352": {
+        "「ギギ……ッ！　ギギ…ギギィーーーーッ！！": "Gee... No! Gee... GEEEEEEEEEEEE!"
+    },
+    "353": {
+        "「ギェェェェーーーーーーーッッ！！！": "GEEEEEEEEEEEEEEEEEEEEEEEE!!!!"
+    },
+    "354": {
+        "「や…やった……。|　すごいぜ　<cs_pchero>っ！": "Yeah... I did... Oh, man.<cs_pchero>っ!"
+    },
+    "355": {
+        "「私たち　助かったの……？": "Did we make it?"
+    },
+    "356": {
+        "「シャンテの歌が　バケモノを|　コントロール不能にしたんです。|　よっ。さすがは　エテーネの歌姫！": "Shante's song made the beast lose control...|... The diva of Etaine!"
+    },
+    "357": {
+        "「でも　私……歌姫なんかじゃない。": "But I'm not a... I'm not a diva."
+    },
+    "358": {
+        "「……ま…まあまあ。|　細かいことはいいじゃないですか。ねえ？": "... Well... Well... Don't worry about the|details... You know?"
+    },
+    "359": {
+        "「そーだ　そーだーー！　これで　おうちに|　かえれるね！　かえれるねーーっっ！": "That's it! That's it! Now you can go home! I|can go home!"
+    },
+    "360": {
+        "「そうはいかんぞ……。": "Not so fast..."
+    },
+    "361": {
+        "「指針監督官は　エテーネ軍の特務機関だ。|　我々に　刃向かうということは|　すなわち　国家への反逆である……。": "The Overseer is a special agent of the|Eternal Army... To turn against us is to turn|against the state..."
+    },
+    "362": {
+        "「エテーネ王国の名に　ドロをぬった罪は重い！ |　お前たちは　ひとり残らず牢獄行きだ。|　全員まとめて　処刑してやる。": "You have smeared the name of the Kingdom of|Etaine with mud! I will have every last one|of you thrown in jail. You will all be|<br>|executed together."
+    },
+    "363": {
+        "「貴様もだ……こざかしい冒険者め。|　反逆者として　処罰を受けるがいいッ！！": "And you... Your treachery... You will be|punished for your treason!"
+    },
+    "364": {
+        "「さて……処罰を受けるのは　どちらだろうな？": "Well... I wonder which one of us will be|punished the most?"
+    },
+    "365": {
+        "「何っ……？": "What the...?"
+    },
+    "366": {
+        "「指針監督官たちを捕らえよ！！": "Seize those guideline supervisors!"
+    },
+    "367": {
+        "「あ…あんたは……？": "Oh... Are you...?"
+    },
+    "368": {
+        "「エテーネ王国軍　軍団長クオード。": "Etaene's Royal Army, Commander Qu..."
+    },
+    "369": {
+        "「なにっ……軍団長だって？|　それなら　あいつらの仲間じゃないか。": "What the... A Legionnaire? Then you're one of|them..."
+    },
+    "370": {
+        "「軍団長の権限において……|　現時点をもって　指針監督官ベルマと|　その部下たちの　身柄を拘束する。": "By the authority of the Commander of the|Legion... I hereby release Superintendent|Velma and her men from custody..."
+    },
+    "371": {
+        "「一介の軍人でありながら　おのが職分を越え |　国民を脅迫した罪……その上　得体の知れない|　怪物を使役して　国民に危害を加えた罪……。": "You're a soldier, but you've overstepped your|bounds and threatened the people. And for|using an unknown monster to harm the|<br>|people..."
+    },
+    "372": {
+        "「軍法にのっとり　この者を追って処罰する。|　……それ相応の刑が待つと　心得るがいい。": "In accordance with military law, I will hunt|this man down and execute him... ... ...and|you will be punished accordingly..."
+    },
+    "373": {
+        "「そんな　バカな……！　指針書に従った私が|　なぜ　罰せられるのだ！？　こんなデタラメは|　指針書のどこにも　書かれていなかった！": "This is absurd...! Why am I being punished|for following the guideline document? ! This|bullshit wasn't written anywhere in the|<br>|Guidebook!"
+    },
+    "374": {
+        "「くそっ　何もかも　貴様のせいだ……。|　指針書通りに　事が運ばなかったのは|　すべて　薄汚い　よそ者が介入したせいだッ！": "This is all your fault... Everything that|didn't go according to the guidelines was|because of the intervention of a filthy|<br>|outsider!"
+    },
+    "375": {
+        "「哀れだな　指針監督官ベルマ……。|　優先すべきは　指針書に従うことより|　民の幸せを守ることだと　なぜ　わからん。": ""
+    },
+    "376": {
+        "「……連れていけ。": "... With..."
+    },
+    "377": {
+        "「俺の管理不行き届きで　あの者たちが |　迷惑をかけてしまったな……すまない。": "I'm sorry for all the trouble they've caused|because of my carelessness. I..."
+    },
+    "378": {
+        "「奴らの横暴には　ずっと　頭を悩ませていた。 |　処罰するタイミングを　計っていたのだが|　まさか　これほどの　暴挙に出るとは。": "Their brutality has always bothered me. I've|been trying to find the right moment to|punish them, but I never thought I'd see them|<br>|go so far..."
+    },
+    "379": {
+        "「しかも　王国を騒がせている怪物を |　あやつるようなマネさえ　してみせるとは…… |　いったい　どういうことなんだ？": "And now he's even trying to control the|monster that's been terrorizing the kingdom.|What the hell is going on here?"
+    },
+    "380": {
+        "「……シャンテといったか。お前の歌声には |　異形獣を惑わせる　特殊なチカラがあるようだ。|　その能力は　軍にとっても　非常に貴重だ。": "... Chante... Your voice has a special power|to confuse xenomorphs... It's a gift that the|military will find very..."
+    },
+    "381": {
+        "「俺の責任において　お前と　お前の家族を保護し|　身の安全を保障すると　約束しよう。|　安心するがいい。": "I promise that I will take full|responsibility for the protection and safety|of you and your family. I promise..."
+    },
+    "382": {
+        "「あ……ありがとうございます！": "Oh... Thank you!"
+    },
+    "383": {
+        "「ベルマのことは　もう心配しなくてよさそうね|　<cs_pchero>さん。": "I guess we don't have to worry about Velma anymore|<cs_pchero>San."
+    },
+    "384": {
+        "「<cs_pchero>……？　<cs_pchero>だと？": "<cs_pchero>...?<cs_pchero>Really?"
+    },
+    "385": {
+        "「報告書を届けに来た　<cs_pchero>とは|　あの時の　お前のことだったのか……。|　……ありがちな名前で　気づかなかったぞ。": "I'm here to deliver a report<cs_pchero>That's what you meant when you said... ...|It's such a common name, I didn't even|notice..."
+    },
+    "386": {
+        "「お前には　いろいろと聞きたいことがある。 |　落ち着いたら　軍司令部まで来い。|　正門の通行許可は　出しておく。": "I've got a lot of questions for you... Once|you've settled in, we'll take you back to|headquarters... I'll give you access to the|<br>|main gate..."
+    },
+    "387": {
+        "「よし……引き上げるぞ！": "All right, let's... Let's pull up!"
+    },
+    "388": {
+        "「いやはや。一時はどうなることかと……。 |　これで一件落着ですね　リンカ様っ！": "I... At one point I was afraid of what would|happen... I guess this is all over now,|Rinka-sama!"
+    },
+    "389": {
+        "「…………お願い。すべてを聞かせて。": "...... Hear all about it..."
+    },
+    "390": {
+        "「ああ……わかった。|　店に戻ったら　すべて話す……約束するよ。": "Oh... I'll... I'll tell you everything when I|get back to the shop... I promise..."
+    },
+    "391": {
+        "「悪いけどさ　<cs_pchero>……|　お前も　ゼフの店まで　来てくれないか？|　あたしたちのこと……見届けてほしいんだ。": "I'm sorry<cs_pchero>... Why don't you come on down to Zev's? I|want you to see us... I want you to see us..."
+    },
+    "392": {
+        "「この日記は　記憶をなくす前に|　自分で書いたものだと　信じていたわ。": "I believe this diary was written by me before|I lost my memory..."
+    },
+    "393": {
+        "「……でも　そうじゃないのよね。 |　私は　魔法生物だから　もともと|　記憶すべき　過去そのものが　なかった……。": "... But I'm not. I'm a magical creature, and|I didn't have a past to remember."
+    },
+    "394": {
+        "「日記を書いたシャンテは　誰なの？|　私は　どうして　ここにいるの……？": "Who was the chanteuse who wrote the diary?|Why am I here...?"
+    },
+    "395": {
+        "「……私が　話しましょう。|　姉妹を引き取った　保護者である　私には|　きちんと　説明する義務があります。": "I... I'll tell you what... As the parent or|guardian who took in the sisters, it is my|duty to explain to you..."
+    },
+    "396": {
+        "「これから話すのは　あなたではない|　リンカの本物の妹だった……|　人間のシャンテのことです。": "It's not you I'm about to tell you about. It|was Linka's real sister... The human|Chante..."
+    },
+    "397": {
+        "「両親と死に別れた　幼い姉妹を引き取り|　私は　王都の片隅に　この店を開きました。": ""
+    },
+    "398": {
+        "「じつの両親が　恋しかったでしょうに|　ふたりは　さびしそうな　そぶりも見せず|　強く……まっすぐに　育ってくれました。": "I know you must have missed your real|parents, but they never showed any sign of|sadness, and they were strong. They were|<br>|strong and straight."
+    },
+    "399": {
+        "「リンカは　父のような錬金術師を目指して|　日夜　修業にはげみ　魔法生物の研究を……。": "To become an alchemist like her father, Linka|spends her days and nights training and|studying magical creatures..."
+    },
+    "400": {
+        "「いっぽう　妹のシャンテは　天性の才を活かし |　歌手として　その美しい歌声で|　王都の人々の心を　いやしていました。": "Meanwhile, her younger sister, Chante, a|gifted singer, has been soothing the hearts|of the people of King's Landing with her|<br>|beautiful voice..."
+    },
+    "401": {
+        "「王都の歌姫のウワサは　隣国まで届き |　リンジャハルの大劇場から　招かれたシャンテは|　はじめての　国外公演に臨みました。": "Word of the royal diva has reached the|neighboring kingdoms, and Chante has been|invited by the great theater of Rinjahar to|<br>|give her first performance outside of the|country."
+    },
+    "402": {
+        "「シャンテが　リンジャハルへと旅立った朝。|　あの時の　うれしそうな姉妹の姿を|　私は　今でも　忘れられません……。": "Shantae's departure for Rinjahar... I still|remember how happy the sisters looked..."
+    },
+    "403": {
+        "「……悲劇は　その後に起きたのです。|　のちに　リンジャハルの大災害と呼ばれた|　いまわしい出来事……。": "... The tragedy that followed... The terrible|events that were later dubbed the great|catastrophe of Rinjahar..."
+    },
+    "404": {
+        "「突如現れた　魔物の群れが　都市を破壊し|　人々をむごたらしく　皆殺しにしました。": "Suddenly, a horde of demons appeared,|destroying the city, killing everyone in its|path..."
+    },
+    "405": {
+        "「……そう。劇場で　歌っていたシャンテも|　例外なく巻き込まれ　命を失ったのです……。": "..... Chante, who was singing in the theater,|was among those who lost their lives..."
+    },
+    "406": {
+        "「妹を失った　リンカの絶望は |　計り知れないものでした。": "After losing her sister, Linka's despair is|incalculable..."
+    },
+    "407": {
+        "「悲しみに泣き暮らし　世をはかなみ|　ついには　命さえ絶とうと……。": "He cried and cried, and the world went mad,|and finally he tried to take his own life."
+    },
+    "408": {
+        "「ですが　ある日を境に　彼女は変わりました。|　自分の部屋に　こもりがちになり|　とある錬金術の研究を　始めたのです。": "But then one day, she changed. She began to|hide away in her room and began to study|alchemy..."
+    },
+    "409": {
+        "「…………日記だ。": "......"
+    },
+    "410": {
+        "「あの子の遺体を　ラウラリエの丘に葬って|　しばらくした　ある日……|　あの子の部屋に入ったら　日記を見つけたんだ。": "We buried the boy's body on Laurier Hill, and|one day, a while later... I went into her|room and I found her diary..."
+    },
+    "411": {
+        "「日記の最後のページには|　あたしへの　お礼が書かれてた……。": "On the last page of his diary, he thanked|me..."
+    },
+    "412": {
+        "『……歌手として　自信がなかった私を|　はげまして　勇気づけてくれたのは|　姉さん……いつだって　あなただった』": "\"I I had no confidence in myself as a singer| You encouraged me You gave me courage| Sister It's always been you"
+    },
+    "413": {
+        "『たとえ　命尽き果てる　その時が来ても|　私は　姉さんのため　歌い続けるわ。|　ずっと。ずっとよ……』": "\"Even when my time comes to die, I will sing|for you... ... Always.\""
+    },
+    "414": {
+        "「あたしも　もう一度　あの子に歌ってほしい。|　心から　強く願った。そして……決めた。": "I want to sing to her one more time... With|all my heart and strength... And ......"
+    },
+    "415": {
+        "「魔法生物を錬金しよう……|　シャンテそっくりの　人型魔法生物を。": "I'll alchemize a magical creature... A|humanoid magical creature just like|Shantae..."
+    },
+    "416": {
+        "「死んだ親父は　魔法生物研究の第一人者だった。|　あたしは親父から　研究途中だった|　人型魔法生物の秘術を　ゆずり受けてたんだ。": "My dead father was a leading researcher in|the field of magical creatures. He gave me|the secret of how to create a humanoid|<br>|magical creature."
+    },
+    "417": {
+        "「親父さえ　成しとげられなかった|　人型魔法生物の錬金。成功確率は低いけど|　やるだけの価値はあると　思ったのさ。": "A humanoid magical creature that even my|father couldn't pull off. The odds of success|are slim, but I think it's worth a try."
+    },
+    "418": {
+        "「そんな　あたしの望みを　見透かしたように |　時の指針書には　魔法生物を作ってはならないと|　書かれていた……。": "As if I didn't know what I wanted, the Book|of Hours said that we must not create magical|creatures."
+    },
+    "419": {
+        "「……それでも　あたしは　やった。|　シャンテに　もう一度　どうしても会いたくて|　思いを込めて　人型魔法生物を錬金した。": "I... But I still... I wanted to see Shantae|one more time, so I put my heart into|creating a humanoid magical creature."
+    },
+    "420": {
+        "「そしたら……奇跡が起きたんだ！ |　生まれたんだよ。見た目もそっくりで|　歌が大好きな　シャンテが……！": "And then... A miracle happened! I was born. A|chanteuse who looks just like you, loves to|sing, and..."
+    },
+    "421": {
+        "「ああ……あたしの思いが　通じたんだ。 |　妹がよみがえって　あたしのもとに|　帰ってきてくれたんだと　本気で思った。": "Oh... I thought that my feelings were getting|through... I really thought that she came|back to life and came back to me."
+    },
+    "422": {
+        "「……その後は　お前も知っての通りさ。|　記憶がないのは　ケガの後遺症だってウソついて|　昔のシャンテのことを　教え込んだ。": "... After that, you know... You lied to me|about not being able to remember what|happened to you after you were injured, and|<br>|you told me about the old Shante."
+    },
+    "423": {
+        "「性格や口調　食べ物の好み|　好きだった歌のこと　人間関係まで……|　お前は　すべてを素直に信じてくれた。": "Your personality, your tone, your taste in|food, your favorite song, your|relationships... You believed everything you|<br>|were told."
+    },
+    "424": {
+        "「だけど　ひとつだけ　本物のシャンテに |　なりきれないところが　あったんだよ。": "But there was one thing that kept me from|being a real chanteuse..."
+    },
+    "425": {
+        "「……お前は　歌が下手だった。": "... You're a terrible singer."
+    },
+    "426": {
+        "「それでも　お前は　あたしのために|　歌が上手だった　元の自分に戻ろうとして|　必死に　ひたむきに　努力し続けてくれた。": "And yet, for my sake, you kept trying so|hard, so earnestly, to get back to your old|self, the one who could sing so well."
+    },
+    "427": {
+        "「戻るべき自分なんて　はじめからないのに。 |　お前は　これっぽっちも疑わずに|　あたしを　心から信じてくれたんだ……。": "I've never been the one to go back... You|never doubted me, you believed in me with all|your heart..."
+    },
+    "428": {
+        "「何度も　真実を打ち明けようと思った。|　でも……どうしても　できなかったんだよ。": "I've tried so many times to tell you the|truth. But... I just couldn't..."
+    },
+    "429": {
+        "「お前に真実を告げたら　この暮らしが|　全部　壊れちゃうんじゃないかと思って……|　怖かった……ホントに　怖かったんだ……。": "I was afraid that if I told you the truth, it|would destroy everything in my life. I was|scared... I was really scared..."
+    },
+    "430": {
+        "「もう二度と　妹を　失いたくないから……！": "I don't want to lose my sister again."
+    },
+    "431": {
+        "「どうか　ご自分を責めないでください|　リンカ様……。": "Please don't blame yourself, Miss Rinka..."
+    },
+    "432": {
+        "「いいや……あたしが　間違ってたんだ。|　シャンテを　ずっと　だましてきた。|　悪いのは　全部　あたしさ……。": "No, I... I was wrong. I lied to Chante for so|long. I'm the one who's responsible for|everything."
+    },
+    "433": {
+        "「ごめんな　シャンテ……。|　今まで……ホントに　ごめん……。": "I'm sorry, Chante... I'm so... I'm so sorry.|I'm so sorry."
+    },
+    "434": {
+        "「ええ……私　つらかった。|　なんでも言い合える姉妹だと　思ってたのに|　隠し事されてたなんて　ショックだったわ。": "It's... I feel so bad... I thought we were|sisters who could talk about anything, but|I'm shocked that she's keeping secrets from|<br>|me..."
+    },
+    "435": {
+        "「だからこそ　これからは|　お互いに　なんでも言い合える|　……そんな姉妹に　なりましょう。": "That's why, from now on, we can talk to each|other about anything. That's what sisters are|supposed to be."
+    },
+    "436": {
+        "「私は　たしかに　本物のシャンテじゃなくて|　姉さんに作られた　魔法生物かもしれない。": "Maybe I'm not the real Shantae, maybe I'm a|magical creature created by your sister."
+    },
+    "437": {
+        "「でも……私にとっての　姉さんは|　他の誰でもない　あなただけよ。": "But... You're not just a sister to me, you're|a..."
+    },
+    "438": {
+        "「私は　まぎれもない　私自身の意思で…… |　あなたのために　歌いたいと思ってる。|　真実を知った今でも　心から　そう思ってるわ。": "I want to sing for you... I want to sing for|you. Even now that I know the truth, I still|feel that way..."
+    },
+    "439": {
+        "「姉さんのために　歌い続けたい。|　ずっと　ずっとよ……。": "I'll keep singing for you... Always, always,|always..."
+    },
+    "440": {
+        "「シャンテ……。": "Chante..."
+    },
+    "441": {
+        "「これまでも　これからも　私たちは姉妹よ。|　私は　あなたのそばにいる。|　姉さんのために歌う　歌姫になるわ。": "We always have been, we always will be...|I'll be there for you... I'll sing for you.|I'll be your diva."
+    },
+    "442": {
+        "「……それとも　歌が下手な妹じゃ　だめ？": "Or... Or can't I just have a sister who can't|sing?"
+    },
+    "443": {
+        "「うっ……ううっ…………！": "Ugh... Ugh...!"
+    },
+    "444": {
+        "「<pc>さん……あなたと　出会わなければ|　いったい　どうなっていたかしら。": "<pc> Miss... If I hadn't met you, I don't know|what I would have done."
+    },
+    "445": {
+        "「ベルマから　みんなを救ってくれて……|　こうして　姉さんとも　わかり合えたのは |　すべて　あなたのおかげよ。": "You saved us all from Velma. You're the|reason I'm still here, the reason I know my|sister."
+    },
+    "446": {
+        "「もっと　ゆっくりしてってほしいけど……|　あの軍団長から　呼び出されてるんだよな？|　軍司令部まで来いって　言ってたっけ。": "I wish you'd take your time, but... The|Legion Commander called you, didn't he? He|said to come to the army headquarters..."
+    },
+    "447": {
+        "「これは　少ないけど　あたしたちの気持ちだ。|　エンリョなく　受け取ってくれよな！": "It's not much, but it's what we... Take it|without Enryo!"
+    },
+    "448": {
+        "「私も！　<pc>さんのために|　心を込めて　お礼の歌を歌うわ。|　それでは　聴いてください……♪": "Me too!<pc> I'd like to sing a heartfelt song of thanks|to you. Now, please listen... ♪"
+    },
+    "449": {
+        "「わーっ！　いいから　やめとけって。|　もうちょい練習してから　聴いてもらおうぜ。|　すげー上手くなって　驚かせてやるんだ。なっ？": "Whoa! Just don't... You need to practice a|little bit more before you listen to this. I|want you to surprise me with how good you|<br>|are... What?"
+    },
+    "450": {
+        "「ふふっ。姉さんが言うなら　そうするわ！|　また　いつでも　歌を聴きにきてね。": "... If you say so, I'll do it. I'll come back|and listen to you sing."
+    },
+    "451": {
+        "「ああ。もしも　錬金術が必要になったら|　いつでも　訪ねてくれよな。|　お前の頼みなら　大歓迎だ！": "Oh. If you ever need alchemy, you can always|come to me... You're more than welcome!"
+    },
+    "452": {
+        "「また会いましょう　<pc>さん。|　本当に　本当に……ありがとう！": "I'll see you soon<pc> San. Really, really... Thank you!"
+    },
+    "453": {
+        "「はは……はははははっ……！|　なるほど……なるほどな。": "Hahaha... Ha-ha-ha-ha...! I see... I see..."
+    },
+    "454": {
+        "「姉さんは　いつだって　味方になってくれる。|　だから　がんばろうって思えるの。": "You're always on my side, so... That's why|I'm trying to do this."
+    },
+    "455": {
+        "「ちょっとヤバいな　これ……。|　あーっ　どうしよう……？": "This is not good. What should I do?"
+    }
+}

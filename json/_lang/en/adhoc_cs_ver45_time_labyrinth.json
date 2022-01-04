@@ -1,0 +1,1505 @@
+{
+    "1": {
+        "「倒しても倒しても　キリがないな……。": "There's no end to it..."
+    },
+    "2": {
+        "「キュキュ！？　ファラス！": "Cucuy! Fallas!"
+    },
+    "3": {
+        "「ここは　過去の　エテーネ王宮だキュ。|　また別の時間軸に　迷い込んでしまったキュ。": "This is the royal palace of Etaine... We've|wandered into another time line..."
+    },
+    "4": {
+        "「おやめなさい　<pc>！|　そのチカラは……": "Don't do that<pc> What is it? The power..."
+    },
+    "5": {
+        "「どうやら　向こうからは　こちらを|　認識できないようキュね……。": "Apparently, the other side can't see us."
+    },
+    "6": {
+        "<if_woman>「こ　これは……！？|　お嬢さまの身に　いったい　何が？<else>「こ　これは……！？|　坊ちゃんの身に　いったい　何が？<endif>": "<if_woman>What the...? What is happening to you, young|lady?<else>What the...? What happened to the little boy?<endif>"
+    },
+    "7": {
+        "「恐怖のあまり　時渡りのチカラが|　暴走しているのです。|　ああ……こうなってしまっては　もう……。": "Your power of time travel is out of|control... Oh... I can't let this happen..."
+    },
+    "8": {
+        "「オギャアー！　オギャアー！": "Ogyah! Ogyah!"
+    },
+    "9": {
+        "<if_woman>「お嬢さまは　どこへ？<else>「坊ちゃんは　どこへ？<endif>": "<if_woman>Where's your daughter?<else>Where's the little boy?<endif>"
+    },
+    "10": {
+        "「わかりません……。|　けれど　今ならまだ　<pc>を|　追いかけることが　できます。": "I don't know... But right now...<pc> I can go after..."
+    },
+    "11": {
+        "「あの子の　チカラの残滓から|　時渡りの軌跡を追えば|　そう遠くない時代に　たどり着けるはず……。": "If we follow the trail of time from the|residue of her power, we should be able to|reach a time not far from here..."
+    },
+    "12": {
+        "<if_woman>「ならば　自分も　お連れください！|　すぐ　お嬢さまを追いかけましょう！<else>「ならば　自分も　お連れください！|　すぐ　坊ちゃんを追いかけましょう！<endif>": "<if_woman>Then take me with you! We must go after your|daughter at once!<else>Then take me with you! Let's go after the boy|now!<endif>"
+    },
+    "13": {
+        "「バカなことを！|　チカラを持たぬ者が　時を渡れば|　恐ろしい呪いが　降りかかるのですよ！": "Nonsense! A dreadful curse befalls those who|pass through time without power!"
+    },
+    "14": {
+        "<if_woman>「このまま　お嬢さまと　マローネ様を|　見捨てたとあれば　このファラス|　主に　申し訳が立ちませぬ！<else>「このまま　坊ちゃんと　マローネ様を|　見捨てたとあれば　このファラス|　主に　申し訳が立ちませぬ！<endif>": "<if_woman>If I were to abandon you and Lady Marrone, I|would not be able to repay my Lord Pharas!<else>If you continue to abandon the boy and Lady|Marone, Falas, I will never be able to repay|the Lord!<endif>"
+    },
+    "15": {
+        "「……わかりました。|　では　<pc>の時渡りの軌跡を|　追いましょう……。": "... I understand... Okay.<pc> Let's follow the trail of the time|traveler..."
+    },
+    "16": {
+        "「マローネ様！　これは　どうしたことです！？|　共に　時を渡るのでは……？": "Mr. Marrone! What's going on here? I thought|we were going through time together."
+    },
+    "17": {
+        "「どの道　私には　ふたりの人間を|　時渡りさせるようなチカラは|　ありませんから……。": "Anyway, I don't have the power to make two|people walk through time, so..."
+    },
+    "18": {
+        "「ごめんなさい　ファラス。|　あの子を……<pc>を　守ってください！": "I'm sorry. I... The boy...<pc> You must protect it!"
+    },
+    "19": {
+        "「マローネさ……": "Mr Marrone"
+    },
+    "20": {
+        "「ああ……私は　なんということを……。": "Oh, my God. I can't believe I..."
+    },
+    "21": {
+        "「<pc>……すべては　過去の出来事キュ。": "<pc> ... It's all in the past..."
+    },
+    "22": {
+        "「その人とは　言葉をかわすことも|　触れることも　できないキュル……。|　今は　ひたすら　前に進むしかないキュ。": "I can't speak to him, I can't touch him,|Cyril... Right now, all I can do is move|forward..."
+    },
+    "23": {
+        "「<pc>……か？": "<pc> ... Is it?"
+    },
+    "24": {
+        "「どうやら　俺が　見えているな。|　過去の幻影でなく　時獄の迷宮に来ている|　<pc>に　相違ないようだ。": "It seems I can see... I'm not in the past.|I'm in the labyrinth of time.<pc> It's no different than..."
+    },
+    "25": {
+        "「どうも　俺には　見覚えのない村だ。|　お前には　わかるか？": "Thank you. I don't recognize you. Do you|recognize me?"
+    },
+    "26": {
+        "<pc>は　ここが　エテーネの民の|末裔たちが暮らす村だと　パドレに説明した。": "<pc> \"This is the village of the descendants of|the people of Etaine,\" he told Padre..."
+    },
+    "27": {
+        "「エテーネの民の　末裔たちの村か！|　ここが　そうなのだな……。": "The village of the descendants of the people|of Etaine! This must be it..."
+    },
+    "28": {
+        "「しかし　浮島も街灯も　見当たらん。|　王国が誇る　高度な錬金術は|　失われてしまったか……。": "But there are no floating islands, no|streetlights... The kingdom's most advanced|alchemy has been lost."
+    },
+    "29": {
+        "<if_woman>「<pc>！？　なぜ　俺の娘が！<else>「<pc>！？　なぜ　俺の息子が！<endif>": "<if_woman><pc>   Why my daughter? Why my daughter?<else><pc> Why my son? Why my son?<endif>"
+    },
+    "30": {
+        "「カメさま！！　どうなされましたか！？": "Mr. Turtle! What's wrong, sir?"
+    },
+    "31": {
+        "「あ…赤ん坊じゃと！？|　これは　いったい　どういうことじゃ……？": "Oh... A baby? What the hell is going on here?"
+    },
+    "32": {
+        "「オギャー！　オギャー！": "Ogah! Ogah!"
+    },
+    "33": {
+        "「おお　よしよし。泣くでない。|　ひとりで　さびしかったのかい？|　ババが　いっしょに　いてやるでな。": "Oh, no... Cry... Did you miss me? Baba will|be with you..."
+    },
+    "34": {
+        "「ややっ！？　産着に　ししゅうが……|　<pc>……これが　おぬしの名かえ？": "Oh, my God! There's embroidery on her baby|clothes.<pc> ... Is this your name?"
+    },
+    "35": {
+        "「だぁだぁ♪": "Da-da-da!"
+    },
+    "36": {
+        "「うむうむ　<pc>というのか……。|　ほかに　何か手がかりは……": "mmm-hmm<pc> I don't know. Do you have any other leads?"
+    },
+    "37": {
+        "「これは　もしや……|　古代エテーネ王国の　紋章ではないか！？": "This could be... Isn't this the coat of arms|of the ancient kingdom of Etaine?"
+    },
+    "38": {
+        "「おぬしを包んでいた　あの輝き……|　古代エテーネの民は　不思議な術が|　使えたというが　よもや…………？": "That glow that surrounded you... The ancient|people of Etaine were said to be capable of|wondrous things."
+    },
+    "39": {
+        "「真実は　わからぬが　これだけは言える！|　おぬしは　カメさまの申し子じゃ！": "I don't know what the truth is, but I do know|this! You're the turtle's child!"
+    },
+    "40": {
+        "「カメさまから　授かった子じゃ。|　この村の一員として　立派に育ててやるぞ。": "The turtle gave me this... I want you to be a|part of this village and raise you well."
+    },
+    "41": {
+        "「そうじゃ！　年寄りの家で　暮らすより|　歳の近い　子供のいる家庭で　育ったほうが|　お前さんにとっても　しあわせじゃろう。": "That's right! It's better for you to grow up|in a home with children your own age than in|a home with old people..."
+    },
+    "42": {
+        "<if_woman>「小さな子供がいる　あの夫婦に預けて|　妹として育ててもらうのが　一番じゃな！|　わしも毎日　会いにいくからのう……。<else>「小さな子供がいる　あの夫婦に預けて|　弟として育ててもらうのが　一番じゃな！|　わしも毎日　会いにいくからのう……。<endif>": "<if_woman>I think it would be best if you left her in|the care of that couple who have a small|child and let them raise her as a sister!|<br>|I'll see her every day<else>I think it would be best if you left him with|that couple who have a small child and let|them raise him as a brother! I'll see him|<br>|every day<endif>"
+    },
+    "43": {
+        "「そうじゃ！　年寄りの家で　暮らすより|　子供をほしがってる　あの夫婦のもとに|　預けたほうが　よいじゃろうな。": "That's right! It's better to leave her with|that couple who want children than to live in|an old man's house..."
+    },
+    "44": {
+        "「この先　弟か妹が　できるかもしれんしのう。|　少しでも　にぎやかな家庭で暮らすことが|　お前さんにとっても　しあわせじゃろうて。": "You may have a brother or sister in the|future. It would be better for you to live in|a lively home..."
+    },
+    "45": {
+        "「俺の子が流れ着いた　ここは|　いったい　いつの時代なのだ！？": "When did this place where my child was washed|ashore become an era?"
+    },
+    "46": {
+        "<if_woman>「わざわざ　探そうとしなくても|　お前の娘なら　ほら！　目の前にいるっキュ。<else>「わざわざ　探そうとしなくても|　お前の息子なら　ほら！　目の前にいるっキュ。<endif>": "<if_woman>Don't bother trying to find your daughter,|she's right here! Right in front of you...<else>Don't bother trying to find your son, he's|right here! Right in front of you...<endif>"
+    },
+    "47": {
+        "「だいぶ　生体継続時間は　進行してるけど|　この時代に出現した　赤ん坊と　<pc>は|　まごうことなく　異時間同位体キュ！": "Bio-duration's progressed considerably| The baby that emerged in this time<pc> is definitely a different time isotope!"
+    },
+    "48": {
+        "「ほ　本当に　さっきの赤ん坊は|　お前……なのか？<yesno><close>": "Are you sure that baby you were talking|about... Is that you?<yesno><close>"
+    },
+    "49": {
+        "「<pc>……それは　ないキュ。|　この時獄の迷宮で　ボクと|　決定的な場面を　見てきたはずっキュよ。": "<pc> It's... I mean... I'm sure you've seen the|defining moments with me in this labyrinth of|time..."
+    },
+    "50": {
+        "「この　気の毒な男の気持ちを|　もてあそぶのは　感心しないキュ！|　ちゃんと　正直に答えてあげるキュ。": "I don't like the way you're playing with this|poor man's feelings! You have to be honest|with him..."
+    },
+    "51": {
+        "「さっきの　ばあさんが連れていった赤ん坊は|　<pc>の　異時間同位体に|　まちがいないキュよね？<yesno><close>": "That baby your grandmother took|<pc> You're sure it's an isotope from another time|period, right?<yesno><close>"
+    },
+    "52": {
+        "「やはり　お前なのか……。": "So it's you..."
+    },
+    "53": {
+        "「だが　俺の記憶の中の　<pc>は|　いつまでも　赤ん坊のままでな……こんなに|　成長してるとは　思いもよらなかった……。": "But in my memory<pc> You'll always be a baby... I didn't think|you'd grow up to be this..."
+    },
+    "54": {
+        "「……………………": ""
+    },
+    "55": {
+        "「なんというか……その……|　親子の再会を祝って　握手でも……しないか？": ""
+    },
+    "56": {
+        "「ムリしなくても　いいキュよ。|　親子の問題は　時が　解決してくれるキュ。|　でも　キュロノスは待ってくれないキュ。": "You don't have to do this. Time will sort out|the problems between you and your son. But|Cyronos will not wait."
+    },
+    "57": {
+        "「そうだったな。|　今　なしとげなければ　ならぬのは|　妻を助け　時見の箱を　破壊することだった。": "Yes... Now all that remains to be done is to|save my wife and destroy the box."
+    },
+    "58": {
+        "「この先に　マローネが待っているはず……。|　今は　前へ進むぞ。<pc>！": "I'm sure Marrone's waiting for us up ahead.|Now, forward...<pc> ！"
+    },
+    "59": {
+        "「そんな……もう　隕石が……。": "Oh no... The meteorite..."
+    },
+    "60": {
+        "「まだ　望みはあるキュ。|　王都を守るバリアが　破壊される前に|　永久時環を　起動させるキュ。": "There is still hope... Before the barrier|that protects King's Landing is destroyed, we|must activate the perpetual time ring..."
+    },
+    "61": {
+        "「あれが　キュレクスさんの言っていた|　王都を守る　障壁…………。": "That's what Mr. Curlew was talking about, the|barrier that protects King's Landing."
+    },
+    "62": {
+        "「おい！　王様を　呼んできてくれっ！！": "Hey! Go get the king!"
+    },
+    "63": {
+        "「どこへ　逃げればいいのッ！？": "Where am I supposed to run to?"
+    },
+    "64": {
+        "「今すぐ　指針をくれ！|　俺は　どうすれば助かるんだ！？": "I need some guidance right now! What am I|supposed to do to save myself?"
+    },
+    "65": {
+        "「この子だけでも　助けとくれよぉ！": "Can you at least help me with this one?"
+    },
+    "66": {
+        "「み…見ろよ！　クオード王だぞ！！": "Look... Look at him! It's the King of Quads!"
+    },
+    "67": {
+        "「クオード！|　今すぐ　永久時環の封印を解いて！|　時見のカギがあれば　できるはずだから！": "Quod! I need you to break the seal on the|perpetual time ring now! If you have the Key|of Timekeeping, you can do it!"
+    },
+    "68": {
+        "「クオードっ！！": "Quod!"
+    },
+    "69": {
+        "「あ…あれを……止めるだと…………": "Oh Stop that Stop"
+    },
+    "70": {
+        "「そんなこと……できるわけがない……。|　もう……おしまいだ……。": "You can't... I can't... It's over... It's|over..."
+    },
+    "71": {
+        "「しっかりなさい　クオード！|　皆が見ている。王なら　民の前で|　ヒザを屈する姿を　見せてはいけない！": "Come on, Quorde! People will see... A king|should never be seen bending the knee in|front of his people!"
+    },
+    "72": {
+        "「永久時環は　建国王レトリウスの遺産よ。|　あれを使えば　この危機も　乗り越えられるの！": "The ring of perpetual motion is the Founding|King Letorius'... It's the only thing that|can get us through this crisis!"
+    },
+    "73": {
+        "「でも　その封印を解除するのは|　エテーネ王にしか　できない……。|　私たちは　永久時環の前で　待ってるから。": "But only King Etaine can break the seal. We|wait in front of the perpetual time circle."
+    },
+    "74": {
+        "「必ず来るのよ。|　あなたが　エテーネの国王ならば……。": "You must come... If you are the king of|Etaine..."
+    },
+    "75": {
+        "永久時環を　起動させにいこう。": ""
+    },
+    "76": {
+        "「おお！　クオード王だ！": "Oh! It's King Quorde!"
+    },
+    "77": {
+        "「クオード王！　我らに指針を！": "King Quorde! Give us some guidance!"
+    },
+    "78": {
+        "「私たちを　隕石から守って！！": "Protect us from the meteorite!"
+    },
+    "79": {
+        "「静まれ！　道を空けよ！|　指針などに頼らずとも　救われる。": "Quiet! Get out of the way! We don't need a|guide to save us..."
+    },
+    "80": {
+        "「我らを救うのは　指針にあらず！|　神聖なる　エテーネ王国に　受け継がれし|　建国王レトリウスの　遺産である。": "It is not a guide that will save us! In the|sacred Kingdom of Etaine, the legacy of our|founding king, Retorius..."
+    },
+    "81": {
+        "「今日の危機を見越し　レトリウスの遺産を|　使いこなす秘術を極めた　我が姉　メレアーデが|　この国に　救いを　もたらすであろう！": "My sister Mereade, who foresaw the danger of|this day has mastered the secret of wielding|the legacy of Retrius, will bring salvation|<br>|to this land!"
+    },
+    "82": {
+        "「おお！　メレアーデ様だ！|　メレアーデ様が　ご帰還なされた！": "Oh! It's the Lady of Mereade! The Lady of|Meread has returned!"
+    },
+    "83": {
+        "「はったりにしては　上出来ね。": "For a bluff, it's..."
+    },
+    "84": {
+        "「民に希望を与えるのが　王だ。|　そのための　ウソや方便は　許される。": "Giving people hope... And I will not tolerate|lies or subterfuge to achieve that."
+    },
+    "85": {
+        "「あら　言うようになったわね。|　だったら　国王として　民の期待に|　しっかりと　こたえなさい。": "Well, now you mention it... Well, then, as|king, I'd better make sure I live up to my|people's expectations..."
+    },
+    "86": {
+        "「封印が　解けたキュ。|　次は　メレアーデの出番だキュ。": "The seal is broken... And now it's Merreade's|turn..."
+    },
+    "87": {
+        "「まず　永久時環に貯蔵された|　莫大な　時渡りのチカラを使うために|　装置と使用者の　同期を開始するキュ。": "First, to harness the vast power of time|travel stored in the perpetual time ring, we|must begin synchronizing the device with the|<br>|user..."
+    },
+    "88": {
+        "「頭の中で　命じるだけで　リストレットが|　永久時環に　意思を伝えてくれるキュ。": "All you have to do is say the word in your|head, and the wristlet will tell the|perpetual motion ring..."
+    },
+    "89": {
+        "「わかったわ。やってみる！": "Waka... I'll try!"
+    },
+    "90": {
+        "「おい！　姉さんは　どうなってるんだ？": "Hey! What's going on with your sister?"
+    },
+    "91": {
+        "「永久時環との　同期がすめば|　もとの状態に戻るから　心配無用キュ。": "Don't worry, it'll be back to normal once we|sync with the permanent time ring..."
+    },
+    "92": {
+        "<center>新たなる　時の異分子の発生を　確認した。": "I'm certain that a new time variant has|developed."
+    },
+    "93": {
+        "「マローネ叔母さん！？": "Aunt Marrone!"
+    },
+    "94": {
+        "「静寂たる　未来の到来を|　さまたげる者どもに　死の裁きを！": "Let there be death for all those who hinder|the coming of the silent future!"
+    },
+    "95": {
+        "<center>汝らは　このまま　滅びるべき存在。|これ以上　時を歪めることは　許されぬ。　|消えよ　新たなる異分子。": "You must perish as you were. I will not allow|time to be distorted any further. Be gone. Be|renewed."
+    },
+    "96": {
+        "「狙いは　姉さんか！": "It's your sister!"
+    },
+    "97": {
+        "<center>所詮は　代用品か……。": "It's just a substitute..."
+    },
+    "98": {
+        "<center>グギィイイイヤャアアアアアッ！！": "Gugiiiiiiiaaaaah!"
+    },
+    "99": {
+        "「悪しき存在を産み落とした　祖先のあやまちを|　今代の王が　この手で　断ち切る！": "I, the king of this generation, will put an|end to the misdeeds of the ancestors who|brought forth this evil being!"
+    },
+    "100": {
+        "「エテーネの歪みを　ただすため！|　滅びよ！　時見の箱ぉおおおおッ！！": "To correct the distortion of Etaine! Perish!|The Box of Time!"
+    },
+    "101": {
+        "<center>おのれ……エテーネの血族め……。|かりそめの物といえども　この我の器を|損壊せしめるとは！　": "You... Blood of Etaine... How dare you|destroy my vessel, even with your own blood!"
+    },
+    "102": {
+        "<center>来たる　終焉の訪れを|ふるえて待つがいい……。": "Wait with bated breath for the end to come..."
+    },
+    "103": {
+        "「……王国軍は　苦戦してるようキュ。": "... The Royal Army is having a hard time..."
+    },
+    "104": {
+        "「町をおそってるのって　指針監督官が|　使役していたバケモノと　同じよね？": "The thing that's been terrorizing the town is|the same creature that the overseers have|been using, right?"
+    },
+    "105": {
+        "「あのバケモノ……私の歌を聞いて|　混乱していたでしょ？|　私なら　兵隊さんの役に立てるんじゃ……。": "That freak... You were confused when you|heard my song, weren't you? Maybe I can help|the soldier."
+    },
+    "106": {
+        "「余計なことを　考えるなって。|　兵士たちの　ジャマになるだけだ。": "I don't know what to think. I'll be in the|way of the soldiers."
+    },
+    "107": {
+        "「ええい！　増援は　まだか？|　このままでは　守りきれんぞッ！": "Yeah! Where are the reinforcements? We can't|hold them off like this!"
+    },
+    "108": {
+        "「手が　回らないそうです！|　総がかりで　負傷されたクオード王を|　司令部へ　お運びしているとのこと……ひぃっ！": "They can't get to him! All hands are needed|to bring the wounded King Quorde back to|headquarters... Aah!"
+    },
+    "109": {
+        "「たっ　隊長ぉ！|　おしつぶされるぅぅぅ…………。": "Captain! I'm getting squeezed..."
+    },
+    "110": {
+        "「行くなッ！　シャンテ！！": "Don't go! Chante!"
+    },
+    "111": {
+        "「くそ！": "Fuck!"
+    },
+    "112": {
+        "「どいて　姉さん。": "Move..."
+    },
+    "113": {
+        "「ラーーララーーーーーーーーー！|　ララァーーーーーアーーーーーーッ！！": "Rah-rah-rah! Rah-rah-ah-ah-ah!"
+    },
+    "114": {
+        "「ギギ……ッ！　ギギ…ギギィーーーーッ！！ ": "Gee... No! Gee... GEEEEEEEEEEEE!"
+    },
+    "115": {
+        "「あ　頭がガンガンする……おえっ……。": "My head is pounding... Ohh..."
+    },
+    "116": {
+        "「くたばれェ！　バケモノぉおおお！": "Fuck you! You monster!"
+    },
+    "117": {
+        "「カァ～　見ちゃいられねェな　コンチクショウ！": "I can't even look at this thing. Damn it!"
+    },
+    "118": {
+        "「もし　指針書が更新されてれば……|　俺のには　あの嬢ちゃんを　助けろとでも|　書いてあったんだろうぜ！": "If the guidelines had been updated... I'm|pretty sure mine would have told me to save|that little girl!"
+    },
+    "119": {
+        "「指針が　示されてないときは|　何もせず　おとなしくしていたほうが|　身のためだというのに…………。": "When there's no guidance, it's better to sit|back and do nothing."
+    },
+    "120": {
+        "「ええい　くそっ！！|　今から　わしの指針は　わしが決める！|　本日の指針は　バケモノ退治だッ！": "No, no, no, no! From now on, I decide what|I'm going to do! Today's guiding principle is|the extermination of monsters!"
+    },
+    "121": {
+        "「キュキュキュ！？|　戦況が　変わりつつあるキュ！": "Scylla! The battle situation is changing!"
+    },
+    "122": {
+        "「<cs_pchero>……|　私　どうしちゃったのかしら……。": "<cs_pchero>I... I don't know what's wrong with me..."
+    },
+    "123": {
+        "「おどろいてる場合じゃないキュ！|　メレアーデ　今すぐ　永久時環を操作して|　隕石の落下を　食い止めるっキュ！": "This is no time to be frightened! Meleeade, I|have to manipulate the perpetual time ring|right now and stop the meteor from falling!"
+    },
+    "124": {
+        "「念じるだけで　できるから　やってみるキュ！": "All you have to do is think it, and I'll do|it!"
+    },
+    "125": {
+        "「すごいわ……完全に止まったの！？": "That's amazing... It's completely stopped!"
+    },
+    "126": {
+        "「今は　あの隕石の時間を　遅らせただけキュ。|　でも　これで　隕石が　地面に到達するまで|　約１００年の時間が　稼げたキュ。": "Now we have delayed the time of the|meteorite. But this will give the meteorite|about 100 years to reach the ground."
+    },
+    "127": {
+        "「<cs_pchero>さん　メレアーデ様！|　ご無事でしたか！": "<cs_pchero>Mr. Meredith! I hope you are safe!"
+    },
+    "128": {
+        "「クオード陛下が　お呼びです。|　至急　軍団長室に　お越しください！": "His Majesty, the Quorum, requests... Please|report to the Lord Commander's office|immediately!"
+    },
+    "129": {
+        "「ク…クオード！？|　ああ……なんてことなの……": "Qu... Quod! Oh... Oh, my God..."
+    },
+    "130": {
+        "「ね…ねえさん……|　隕石……隕石は　どうなった…………。": "Hey... Hey you... Meteorite... What happened|to the meteorite..."
+    },
+    "131": {
+        "「大丈夫。隕石は　消えたわ。|　もう　なんの心配も　いらないのよ。": "... The meteorite is gone. We do not have to|worry about anything."
+    },
+    "132": {
+        "「そう…か……|　エテーネは　これで　救われるんだな……。": "So... I see... I guess that's what's gonna|save Etaine."
+    },
+    "133": {
+        "「ええ……もう　何も起こらない。|　エテーネは　救われたのよ。だから…………": "Uh... Nothing is going to happen... Etaine|was saved... So..."
+    },
+    "134": {
+        "「私は　あなたを赦すわ　クオード。": "I forgive you, Qu..."
+    },
+    "135": {
+        "「幾千　幾万の憎しみが　向けられようとも|　私だけは　あなたを赦す。": "No matter how many thousands and thousands of|times you hate me, I'm the only one..."
+    },
+    "136": {
+        "「……ありがとう　ねえ…さん。|　知ら……れるのが　こわかった……|　ね…えさんに　グルヤン…ラシュの……。": "... Thanks. Hey. ..... I... I was afraid|you'd... Hey... Gul'Yang... Rach's..."
+    },
+    "137": {
+        "「あなたが　やったことを　聞いたときは|　ショックだったし……悲しかったわ。|　しかり飛ばして　やりたかった……。": "I was shocked when I heard what you'd done.|Sad. I wanted to kick your ass."
+    },
+    "138": {
+        "「でもね……何があっても　私はクオードの|　お姉さんよ……。あなたを　憎んだり|　きらいになったりなんて……できないわ。": "But you know... No matter what happens, I'm|still Quorde's sister... I can't hate you or|hate you or hate you... I can't..."
+    },
+    "139": {
+        "「ねえさん……エテーネを……たの…む……": "Ma'am Ethene Oh I"
+    },
+    "140": {
+        "「クオード様ぁあああ！": "Master Quorde!"
+    },
+    "141": {
+        "「みみ…みっともないぞ　ディアンジ！|　メレアーデ様が　こらえておられるのに|　ななな　泣くやつが　あるか！": "Mimi... You're disgraceful, Duanji! Who cries|while the Lady Merryade holds back her tears?"
+    },
+    "142": {
+        "「メレアーデ様……このようなことを|　今　申さざるを得ない　私を　どうか|　非情な人間だと　思わないでください。": "Mareade... Please don't think me|unsympathetic if I'm forced to say this now."
+    },
+    "143": {
+        "「隕石は　依然　王都の上空にあり|　エテーネ王国は　国家存亡の瀬戸際にあります。|　このうえ　王を失ったとあれば　我が国は……。": "The meteorite is still over the capital and|the kingdom of Etaine is on the brink of|extinction. And if we lose our king, our|<br>|country..."
+    },
+    "144": {
+        "「クオードの死を　隠せ……と？": "We have to hide Quorde's death... And?"
+    },
+    "145": {
+        "「新たな国王が　即位されるまで|　公表を　ひかえたほうが　よろしいかと。": "I think it's best to hold off on publishing|until we have a new king on the throne..."
+    },
+    "146": {
+        "「……わかりました。|　すべてが　片付いた後　私から|　クオードの死を　国民に伝えましょう。": "... I understand... When this is all over,|I'm going to tell the people that Quorde is|dead..."
+    },
+    "147": {
+        "「それまで　クオードの死は|　この場にいる者だけの　秘密とします。": "Until then, Quorde's death will remain a|secret between those present..."
+    },
+    "148": {
+        "「では　行きましょう　<cs_pchero>。|　私たちには　まだ　なすべきことがあります。": "Okay, let's go<cs_pchero>I'm sorry. We still have a lot of work to|do..."
+    },
+    "149": {
+        "「いよいよ　時獄の迷宮に向かうキュね。|　そのための知識は　キュレクスから|　しっかり　受け継いでいるキュよ！": "We're finally heading for the Time|Labyrinth... The knowledge to do so has been|passed down to me from Kyurex!"
+    },
+    "150": {
+        "「キュルル。ちょっとだけ……|　ちょっとだけで　いいから　待って。": "Ki... Just a little... Just a little bit,|just a little..."
+    },
+    "151": {
+        "「すぐ　すむから……。": "It'll be quick, so..."
+    },
+    "152": {
+        "「メレアーデ……悲しんでるキュ……？": "Mereade... Are you sad?"
+    },
+    "153": {
+        "「キュレクスが死んだときの　ボクと同じ……|　いや……もっと　ずっと深い　悲しみを|　味わってるキュね……。": "You're just like I was when Culex died. I|mean... I think you're experiencing a much|deeper sadness."
+    },
+    "154": {
+        "「チョコレートをあげるキュ。|　元気　出すキュ。": "I'll give you chocolate. Cheer up..."
+    },
+    "155": {
+        "「……ありがとう　キュルル。|　もう　大丈夫だから　続きを話して。": "... Thank you, Ki... It's all right, it's all|right. Let's continue..."
+    },
+    "156": {
+        "「わかったキュ。時獄の迷宮に　行く方法だけど|　キューブに　ちょっとした設定を施すだけで|　行けるようになると　判明したキュ。": "It turns out... It turns out that the only|way to get to the Time Lord's labyrinth... is|to make a few small adjustments to the cube."
+    },
+    "157": {
+        "「ふたりとも　キューブを出すキュ。|　さっそく　設定しなおすキュ。": "We'll both get our cubes. Let's get this set|up..."
+    },
+    "158": {
+        "「うまくいったキュ！": "It worked!"
+    },
+    "159": {
+        "なんと　エテーネルキューブの行き先に|時獄の迷宮・入口が　追加された！<me 71>": "They've added the entrance to the Time|Labyrinth to the Eternal Cube's destinations!<me 71>"
+    },
+    "160": {
+        "「行きましょう　時獄の迷宮へ。|　みんなで　マローネ叔母様を救いだし|　キュロノスを　倒しましょう。": "Let's go. Time Hell... Together, we will|rescue Aunt Marrona and defeat Quronicus..."
+    },
+    "161": {
+        "「いよいよ　時獄の迷宮なのね。|　先に行った叔父様は　無事かしら……？": "At last, the labyrinth of time... I wonder if|my uncle, who went there first, is safe..."
+    },
+    "162": {
+        "「たったひとりで　キュロノスに|　戦いを　挑んだりしていなければ|　よいのだけれど……。": "I just hope he's not trying to take the fight|to Cyronos all by himself."
+    },
+    "163": {
+        "「あの男が　キュロノスを倒してくれるなら|　ボクらとしても　願ったり　かなったりキュ！": "If that man can take out Qur'anos, it's all|the better for us."
+    },
+    "164": {
+        "「じきに　回廊を抜けるキュ！": "We'll be through the corridor in no time!"
+    },
+    "165": {
+        "「時空の狭間にあるという　時獄の迷宮には|　ボクも　行ったことがないキュ。 ": "I've never even been to the labyrinth of time|and space..."
+    },
+    "166": {
+        "「着いたとたんに　キュロノスのワナが|　待ちかまえてるかも　しれないキュ。|　気を引きしめて　行くっキュよ！": "As soon as we get there, the Cyronos trap|could be waiting for us... Let's keep our|heads up!"
+    },
+    "167": {
+        "「着いたキュ。|　ここが　時獄の迷宮だキュ。": "We're here... This is the labyrinth of|time..."
+    },
+    "168": {
+        "「……って　なんだか|　見覚えがある　風景キュね。": "I... The scenery looks familiar..."
+    },
+    "169": {
+        "「た…大変キュ！！|　メレアーデが　いないキュ！": "Oh, my... Oh, my God! Meleeade is gone!"
+    },
+    "170": {
+        "「どうして　こんなことに……？|　ちょっと　キュレクスの知識を|　あさってみるキュ…………": "How did this happen? Let me see what I can|find out about Clueless."
+    },
+    "171": {
+        "「……どうやら　時獄の迷宮は　人それぞれの|　心の在り様によって　その構造が変わる|　特殊な法則に　支配されているらしいキュ。": "... Apparently, the labyrinth of time is|governed by a special law that changes its|structure depending on the state of each|<br>|person's mind."
+    },
+    "172": {
+        "「メレアーデは　こことは　別の場所に|　到着してるはずキュ。探索してるうちに|　きっと　合流できるはずキュ。": "Mareade has arrived at a different location|than this one. I'm sure she'll join us as we|explore."
+    },
+    "173": {
+        "「見覚えがあると思ったら　ここは|　なつかしの　エテーネ王宮だったキュね。": "I thought it looked familiar, but this was|the old royal palace of Etaine..."
+    },
+    "174": {
+        "「キュロノスは　自分の根城として利用するため|　時空の狭間に　エテーネ王宮を|　飛ばしたのかも　しれないキュ……。": "Cyronos may have sent the palace of Etaine|into the void of space-time to use it as his|stronghold."
+    },
+    "175": {
+        "「立ち止まってても　始まらないキュ。|　はぐれた　メレアーデを探しつつ|　奥へ進んでみるキュ。": "You can't just stop and start. I'll go|deeper, looking for Mareade, who I lost."
+    },
+    "176": {
+        "「……<pc>なのか！？|　俺のことが　見えているのだな？": "<pc> Is that what I think it is? You can see me,|can't you?"
+    },
+    "177": {
+        "「……どうやら　本物のようだ。": "... Apparently, the real..."
+    },
+    "178": {
+        "「もう　わかっていると思うが|　迷宮と化した　このエテーネ王宮では　扉の先が|　まったく別の場所に　通じていることもある。": "As I'm sure you're aware by now, in the|labyrinthine confines of the Palace of|Etaine, every doorway leads to a completely|<br>|different place..."
+    },
+    "179": {
+        "「しかも　過去や未来にさえだ。|　お前たちも　別の時間の　自分の姿を|　見てきたんじゃないのか？": "In the past, in the future... You've seen|yourselves in other times, haven't you?"
+    },
+    "180": {
+        "「それにしても　たいしたものだ。|　まさか　本当に　時獄の迷宮まで|　追ってこられるとはな……。": "But still, what a surprise... I didn't think|they'd actually follow us into the labyrinth|of time..."
+    },
+    "181": {
+        "「たしか　キュルル……と言ったか。|　開祖レトリウスの友　キュレクスより生ぜし|　キュロノスと　同等の存在……。": "I think he said... I think it's called...|\"equal to Cyronos, born of Cyrus, friend of|the founder, Retrius..."
+    },
+    "182": {
+        "「お前の助力が　あったればこそ|　ここまで来ることが　できたというわけか？": "And it was only with your help that I was|able to come this far?"
+    },
+    "183": {
+        "「言葉や文字を　介さなければ|　情報伝達も　満足にできない生き物は|　つくづく　不便キュねぇ。": "It's inconvenient for a creature that can't|communicate without words and letters..."
+    },
+    "184": {
+        "「仕方がない。|　てっとりばやく　教えてやるキュ！": "I don't know... I'll show you how to do it|quick!"
+    },
+    "185": {
+        "「……なるほど　漂流者キュレクスのチカラを|　継いだか……同行していた　メレアーデとは|　到着時に　はぐれてしまったようだな。": "... I see. I have inherited the power of the|castaway, Culex. My companion, Mereade, was|separated from me when we arrived..."
+    },
+    "186": {
+        "「だが　進み続ければ|　いずれ　合流できるはずだ。": "But if we keep going, eventually we'll meet|up..."
+    },
+    "187": {
+        "「……そして　マローネを助けだす機会も|　きっと　めぐってくるだろう。": "... And I'm sure we'll get a chance to rescue|Marrone."
+    },
+    "188": {
+        "「キュロノスのことだが……エテーネ王宮の下に|　時見の神殿があったのを　覚えているな？|　奴は　その最奥を　拠点にしていた。": "About Cyronos... You remember the Temple of|the Beholder beneath the palace of Etaine? He|used the innermost part of the temple as a|<br>|base..."
+    },
+    "189": {
+        "「４体の魔獣のチカラを　取り込んだ今|　キュロノスは　繭から羽化する時を|　時見の祭壇で　じっと　待っているはずだ。": "Now that he's harnessed the power of four|magical beasts, Cyronos waits patiently at|the Altar of Time to hatch from his cocoon..."
+    },
+    "190": {
+        "「羽化した　究極の肉体が　奴の手に落ちれば|　まちがいなく　世界は　終わりだ。": "If the ultimate body, the hatchling, falls|into his hands, the world will surely end."
+    },
+    "191": {
+        "「だから　そうなる前に　キュロノスをたたく。": "So, before that happens, we need to get|Cyronos..."
+    },
+    "192": {
+        "「先に進めば　いずれ　別々の場所に|　飛ばされてしまうかも　しれない……。": "If we go on, we might end up somewhere|else..."
+    },
+    "193": {
+        "「それでも　同じ目的に向かって　進み続ければ|　道は　ふたたび　まじわるはずだ。|　さあ行こう　<pc>。": "But if we keep moving toward the same goal,|the path will turn again... Let's go.<pc> 。"
+    },
+    "194": {
+        "「えっ　<pc>！？": "What's up?<pc> What?"
+    },
+    "195": {
+        "「よかった！|　もう　会えないんじゃないかと　思ったわ。": "Oh, thank God! I thought I'd never see you|again, but..."
+    },
+    "196": {
+        "「メレアーデと　はぐれたのは　ボクとしても|　想定外の事故だったキュ。|　教えてあげられなくて　すまなかったキュ……。": "I didn't expect to lose you and Melaerde, but|I did. I'm sorry I didn't tell you."
+    },
+    "197": {
+        "「いいのよ　そんなこと。|　ふたりに再会できて　うれしいわ。": "It's okay. It's... I'm just happy to see you|both again."
+    },
+    "198": {
+        "「ここに来る途中　パドレと会ったキュ。|　でも　はぐれてしまったキュ……。": "I met Padre on the way here... But we got|separated, and Cu..."
+    },
+    "199": {
+        "「そう……。この　時獄の迷宮では|　誰もが　それぞれの道を　行くことでしか|　先へ進めない仕組みに　なっているようね。": "So... In this labyrinth of time, the only way|to advance is by going your own way."
+    },
+    "200": {
+        "「私も　ここに来るまでに|　いろいろな場所へ　迷い込んだわ。|　場所だけでなく　時間も　バラバラで……。": "I, too, wandered from place to place on my|way here. Not only did I wander from place to|place, but from time to time..."
+    },
+    "201": {
+        "「それどころか　私の記憶にない場面で|　<pc>と　会っていたりもしたわ。|　あれは　なんだったのかしら……？": "On the contrary, in a scene I don't even remember|<pc> I've seen her with... What was that all|about?"
+    },
+    "202": {
+        "「それは　たぶん　未来に起こることキュ。": "It's probably something that happens in the|future..."
+    },
+    "203": {
+        "「未来……なの？|　あれは　いずれ　私が　おこなうべきこと……？": "The future... What is it? Is that what I'm|supposed to do?"
+    },
+    "204": {
+        "「……今から　未来のことを思い悩んでも|　どうにも　ならないキュ。": "... There's no point in worrying about the|future now."
+    },
+    "205": {
+        "「今　できるのは　キュロノスのいる|　神殿を目指して　進み続けることだけキュ。": "All we can do now is continue on our way to|the temple where Cyronos..."
+    },
+    "206": {
+        "「……そうね。あれこれ悩んで|　時間をムダにしている　場合じゃない。|　私も　前に進み続けるわ！": "...... We can't afford to waste time worrying|about this... I'm gonna keep moving forward!"
+    },
+    "207": {
+        "「あっ　<cs_pchero>。それに　叔父様も……。|　よかったわ　また合流できて。": "oh!<cs_pchero>. And your uncle... It's so good to see you|again."
+    },
+    "208": {
+        "「身を低くして　こっちに来てくれ。": "Get down low. Come here..."
+    },
+    "209": {
+        "「お前たちが来てくれて　助かった。|　広場に　マローネがいるのが　見えるな？": "I'm so glad you guys are here. You see|Marrone in the square?"
+    },
+    "210": {
+        "「マローネの救出に　役立つだろうと思って|　お前が　俺に使った　胡蝶の護符を|　持ってきたのだ。": "I thought it might be useful in rescuing|Marrone, so I brought the Butterfly Talisman|you used on me..."
+    },
+    "211": {
+        "「これで　マローネを解放する！": "This will free Marrone!"
+    },
+    "212": {
+        "「まず　気付かれないよう　近づきたいのだが……|　お前たちのチカラを　貸してくれるか？": "First, I'd like to get close enough for you|not to notice. I'm gonna need your help."
+    },
+    "213": {
+        "「なんでも言って　叔父様。|　私たちは　そのために来たんですもの。": "Anything you say... That's why we're here..."
+    },
+    "214": {
+        "「フフッ　たのもしくなったものだ。": "Now that's a good thing."
+    },
+    "215": {
+        "「頼みたいのは　おとり役だ。|　俺が　胡蝶の護符を使えるよう　マローネを|　挑発して　気を引きつけてほしい。": "What I need you to do is... I need you to|provoke Marrone and get her attention so I|can use the Butterfly Talisman..."
+    },
+    "216": {
+        "「待っていたぞ　時の異分子。": "I've been waiting for you. Time..."
+    },
+    "217": {
+        "「キュロノスの支配する　この時獄の迷宮に|　乗り込んでくるとは　無謀なことよ……。|　ここから　生きて帰れると　思うな。": "It was reckless of you to venture into the|labyrinth of time, where Cyronos rules. You|think you'll make it out of here alive..."
+    },
+    "218": {
+        "「黄金の釜に囚われたる　けがれし魂よ！": "Broken souls trapped in a golden cauldron!"
+    },
+    "219": {
+        "「キュロノスの求めに　応じ|　長き眠りより　よみがえれ！": "At the request of Cyronos, rise from your|long sleep!"
+    },
+    "220": {
+        "「何をする……き…さま……。": "What are you... Go... Wanna..."
+    },
+    "221": {
+        "「ふたりは　大丈夫なの？　<cs_pchero>……。": "Are they gonna be okay?<cs_pchero>..."
+    },
+    "222": {
+        "「おお！　<cs_pchero>じゃねえか！|　会いたかったぜぇ　兄弟！！": "Oh!<cs_pchero>Come on! I've missed you, brother!"
+    },
+    "223": {
+        "「俺だよ　俺。バディンドだよ。|　黄金刑を食らう前日　いっしょの牢で|　ひと晩を　過ごした仲じゃねえか。": "It's me... Badin... The day before I was to|be gilded, we spent the night in the same|cell..."
+    },
+    "224": {
+        "「さあ　兄弟　俺と一緒に|　キュロノスがもたらす　清浄なる世界へ|　旅立とうぜ……グゲ…グゲゲゲ……。": "Come on, brother, join me as I journey to the|pure world of Cyronos... Ggee... Ggee, Ggee,|Ggee..."
+    },
+    "225": {
+        "「グゲゲゲ……。|　そのためにも　まずは　キュロノスに|　仇なす者を　排除しないとなぁぁぁ！！": "Ggeege... To do so, we must first eliminate|those who would avenge Cyronos..."
+    },
+    "226": {
+        "「黄金の釜に囚われし　同胞たちよぉぉ！|　今こそ　自由への戦いの狼煙を|　上げるのだぁぁぁ！！": "My brothers, trapped in the golden cauldron!|Now is the time to raise your voices in the|fight for freedom!"
+    },
+    "227": {
+        "「叔父様の　邪魔をするつもりね？|　<cs_pchero>　魔物のむれから|　ふたりを守りましょう！": "Are you trying to get in my uncle's way?<cs_pchero>Protect the two of them from the demon's|fury!"
+    },
+    "228": {
+        "「やったわね　<cs_pchero>。|　叔父様と叔母様を　守りきったわ。": "You did it<cs_pchero>I will. I will protect your aunt and uncle..."
+    },
+    "229": {
+        "「ふたりとも……面倒を　かけたな。|　おかげで　マローネを救い出すことができた。": "We're both... I'm sorry. We were able to save|Marrone."
+    },
+    "230": {
+        "「よかった……。|　これで　元の優しい叔母様に　戻るのね。": "Thank God... Now you can be the kind aunt you|used to be..."
+    },
+    "231": {
+        "「マローネの精神世界で　蝶を追い|　キュロノスの支配を　断ち切った。|　目を覚ませば　きっと　元通りのはずだ。": "In Marrone's spirit world, she chases|butterflies and breaks the grip of Cyronos.|When she wakes up, she'll be whole again."
+    },
+    "232": {
+        "「……だが　俺たちは　キュロノスの始末を|　急がねばならん。ここで　目覚めを待つのは|　あまりに　時間が惜しいな……。": "... But we've got to get rid of Cyronos.|We're wasting too much time waiting for him|to wake up."
+    },
+    "233": {
+        "「そのとおりキュ。モタモタしてるうちに|　キュロノスが　究極の肉体を|　手に入れてしまうかも　しれないキュ。": "So... The longer we wait, the more likely it|is that Cyronos will take the ultimate|physical form."
+    },
+    "234": {
+        "「けど……　<cs_pchero>の母親を|　置き去りにも　できないキュね……。": "But<cs_pchero>We can't just leave the mother of the|child..."
+    },
+    "235": {
+        "「私が　叔母様を連れて　脱出するわ。|　叔父様と　<cs_pchero>は|　先に　キュロノスを倒しにいって。": "I'll take your aunt and we'll escape... With|your uncle.<cs_pchero>The first thing I want to do is take out|Cyronos."
+    },
+    "236": {
+        "「叔母様を　安全な場所に　かくまったあと|　私も　すぐに　あとを追うから。": "After I've hidden your aunt in a safe place,|I'll be right behind her..."
+    },
+    "237": {
+        "「いや……お前が　戻る必要はない。|　キュロノスとの決着は|　俺たちに　まかせておけばいい。": "No, I... You don't have to come back. We'll|take care of Cyronos."
+    },
+    "238": {
+        "「そんな…………": "Oh, no"
+    },
+    "239": {
+        "「……いえ　叔父様の言うとおりね。|　私がいると　かえって|　足手まといに　なるだけだもの……。": "I... No, your uncle is right. I don't want to|be here. I'll only slow you down."
+    },
+    "240": {
+        "「でも　おかげで気づけたわ。|　私にしか　できないことがあるって。": "But it's made me realize... There are things|that only I can do..."
+    },
+    "241": {
+        "「クオードが託してくれた　このキューブがあれば|　今の私なら　自分の狙った通りの時代に|　飛ぶことができるはず……。": "With this cube that Quorde entrusted to me, I|can now fly to the exact time that I set out|to..."
+    },
+    "242": {
+        "「メレアーデ……。|　もしかして　これから　長い長い旅路へ|　歩みだそうと　考えているキュね？": "Mereade... You're thinking of embarking on a|long, long journey, aren't you?"
+    },
+    "243": {
+        "「<cs_pchero>……これまで　あなたは|　私の知らない　私に|　何度も　導かれてきたはずよ。": "<cs_pchero>... How many times have you been led astray|by someone I didn't know..."
+    },
+    "244": {
+        "「エテーネ王宮の牢獄や|　１０００年前の　グランゼドーラ王国……|　黒猫の姿に変身していた　私に。": "The prisons of the royal palace of Etaine,|the kingdom of Granzedorra a thousand years|ago... He was transformed into a black cat..."
+    },
+    "245": {
+        "「どんな妨害にあおうとも　あなたが|　かならず　今　この時に到達できるよう|　私が　導いてみせる。": "I'm here to help you reach this moment, no|matter what obstacles you may face."
+    },
+    "246": {
+        "「この時獄の迷宮で　私は　私のなすべき|　この先のことを　見てきたのよ。": "In this labyrinth of time, I have seen what I|must do, what I will do..."
+    },
+    "247": {
+        "「メレアーデ……どうやら　思っていたより|　ずっと　お前は　強くなっていたのだな。": "Mereade... Apparently, you're a lot stronger|than I thought you were..."
+    },
+    "248": {
+        "「マローネのことは　頼んだ。|　俺たちは　キュロノスを倒し|　アストルティアの未来を　守りぬく。": "I'm not talking about Marrone. We will defeat|Cyronos and protect the future of Astrutia."
+    },
+    "249": {
+        "「メレアーデの選んだ道が|　正しい未来に　つながるよう　願ってるキュ。": "I hope that the path that Mareade has chosen|will lead her to the right future..."
+    },
+    "250": {
+        "「<cs_pchero>。次に会えるのは|　きっと　墜落前のドミネウス邸……|　私が　あなたと　初めて会った　あの日ね。": "<cs_pchero>I'm sure. I'm sure the next time we'll see|each other will be at the Dominus' home|before it crashes. The first time I saw|<br>|you..."
+    },
+    "251": {
+        "「再会できるのを　楽しみにしているわ。": "I'm looking forward to seeing you again..."
+    },
+    "252": {
+        "「俺たちも　先を　急ぐとしよう。": "We've got to get a move on."
+    },
+    "253": {
+        "「俺が　キュロノスの傀儡だったころは|　この先が　時見の神殿だったはずだが……": "When I was Cyronos' puppet| The Temple of Tokimi was supposed to be just up ahead, but"
+    },
+    "254": {
+        "「奴のことだ。俺たちを妨害するため|　神殿にも　手を加えているだろうな。": "He's... He's been tampering with the temple,|trying to sabotage us."
+    },
+    "255": {
+        "「エテーネの村で　お前を拾った　ご婦人は|　知り合いの夫婦に　お前を預けると|　言っていたな……。": "The woman who found you in the village of|Etaine said she was leaving you with a couple|she knew..."
+    },
+    "256": {
+        "「どんな人たちなんだ？　今も　健在なのか？": "What kind of people are they? Are they still|alive and well?"
+    },
+    "257": {
+        "<pc>は　パドレに|エテーネの村の　両親のことを話した。": "<pc> She told Padre about her parents in the|village of Etaine..."
+    },
+    "258": {
+        "「立派な方に　育ててもらったのだな……。|　今の　お前を見ていれば　よく　わかる。": "You were raised by a fine man... I can see it|in your eyes now."
+    },
+    "259": {
+        "「その方たちには　感謝しても　しきれない。": "I can't thank them enough..."
+    },
+    "260": {
+        "「だが　本音を言えば……|　成長していく　お前のそばで|　お前と同じ時間を　過ごしたかった。": "But to tell you the truth... I wanted to|spend as much time with you as I did with you|growing up..."
+    },
+    "261": {
+        "「マローネとて……同じ思いだろう。": "Marrone and I... I feel the same..."
+    },
+    "262": {
+        "<if_woman>「そうだ！　マローネは　お前が|　自分の娘だと　知っているのか？<else>「そうだ！　マローネは　お前が|　自分の息子だと　知っているのか？<endif>": "<if_woman>Yes! Does Marrone know that you're his|daughter?<else>Yes! Does Marrone know that you're his son?<endif>"
+    },
+    "263": {
+        "「……すべて終わったら|　一緒に　マローネに会いにいこう。": "... When this is all over, we're gonna go see|Marrone together."
+    },
+    "264": {
+        "<if_woman>「行方不明の夫が　成長した娘を連れて|　帰ってきたとあれば　あいつも|　さぞや　びっくりするだろうな。<else>「行方不明の夫が　成長した息子を連れて|　帰ってきたとあれば　あいつも|　さぞや　びっくりするだろうな。<endif>": "<if_woman>If her missing husband came home with her|grown daughter, she'd be very surprised...<else>She'd be surprised if her missing husband|came back with a grown son...<endif>"
+    },
+    "265": {
+        "「エテーネ王国と　キュロノスの因縁を断つ……。|　それが　王族として　生まれた者の義務だ。": "To sever the ties between the Kingdom of|Etaine and Cyronos... This is what it means|to be born into royalty."
+    },
+    "266": {
+        "「兄上……ドミネウスは　時見に依存したがために|　キュロノスに　いいように　利用された。": "Brother... Dominus' dependence on Tokimi has|allowed Cyronos to take advantage of him..."
+    },
+    "267": {
+        "「俺は俺で　キュロノスの傀儡と成り果て|　奴の企みに　手を貸してしまった。": "I've become Cyronos' puppet, and I'm helping|him do his bidding."
+    },
+    "268": {
+        "「そして　この手で兄上を…………。": "And with my own hands, your brother..."
+    },
+    "269": {
+        "「決して　あがなうことのできない　罪だ。|　だからこそ　俺は　この身に代えてでも|　キュロノスを　討たねばならない！": "I will never be able to repay you. That's why|I must avenge Cyronos, even if it costs me my|life!"
+    },
+    "270": {
+        "「お前もまた　みずからの運命と|　世界の未来を　切り開くため|　この戦いに　身を投じたのだろう？": "You, too, have thrown yourself into this|fight to shape your own destiny and the|future of the world, haven't you?"
+    },
+    "271": {
+        "「巻き込みたくない……などと思うのは|　それこそ　親の身勝手だな。": "I don't want to get involved... I don't want|to get involved."
+    },
+    "272": {
+        "「すべてを　俺の手で　終わらせるつもりだったが|　事ここに至っては　是非もない。": "I was going to end it all myself, but now|that it's here, by all means..."
+    },
+    "273": {
+        "「なさけない父だが　手伝ってくれ。|　<pc>。お前のチカラが　必要だ。": "I'm a pathetic father, but I'll help you...<pc> . Your power is..."
+    },
+    "274": {
+        "「……時見の箱が！？": "... Tokimi's box!"
+    },
+    "275": {
+        "「ならば　キュロノスは　あの中に！": "Then Cyronos is in there!"
+    },
+    "276": {
+        "<center>来たか　時の異分子よ。": "You're here. Different time..."
+    },
+    "277": {
+        "<center>我は　究極の肉体を　手に入れる。|そして　世にはびこる　不完全な生命体を|あとかたもなく　一掃してくれよう。": "I will have the ultimate body... And wipe out|every last imperfect life form in the world."
+    },
+    "278": {
+        "「させるかッ！|　生まれる前に　果てるがいい！": "I won't let you! You'll be dead before you're|born!"
+    },
+    "279": {
+        "「そんな攻撃では　傷ひとつ　つかぬな。": "An attack like that won't even scratch the..."
+    },
+    "280": {
+        "「この肉体ならば　我が復讐も　果たせよう。": "With this body, I can avenge myself..."
+    },
+    "281": {
+        "「かつて　際限なく　くり返された|　時見の果て……": "There was once a time when this was endlessly repeated| The end of time"
+    },
+    "282": {
+        "「我は　貴様ら　人間どもの醜悪さ　邪悪さを|　幾度となく　目の当たりにしてきた。": "I've seen the ugliness and wickedness of your|people many times before."
+    },
+    "283": {
+        "「なんとも　不完全　かつ　惰弱な存在に|　使役させられてきたものよ。|　その　絶望の念が　我に悟りを与えた。": "I have been reduced to the service of an|imperfect and weak being... It is this|despair that has brought me to enlightenment."
+    },
+    "284": {
+        "「不完全な生物どもは　世界をむしばみ|　雑音を生みだす　害悪に過ぎぬ。|　ゆえに　絶滅させねばなるまい……と。": "These imperfect creatures are a blight on the|world, creating noise. Therefore, they must|be exterminated. ...."
+    },
+    "285": {
+        "「代々の王を　我の意のままに　あやつるのは|　たやすかったぞ。時見の託宣で　ほんの少し|　不安を植えつけてやれば　充分だった。": "It is not easy to control the kings of the|world at my will. A few words from the Oracle|of Tokimi to instill a little fear would be|<br>|enough..."
+    },
+    "286": {
+        "「そして　我の望みをかなえるのに　不可欠な|　時渡りの使い手…………パドレ。": "And the time traveler who is essential to|granting my wishes. ......"
+    },
+    "287": {
+        "「お前を堕とすため　あの俗物……|　ドミネウスを　利用させてもらった。": "I'll let that snob use you to corrupt you. I|could use a Dominus."
+    },
+    "288": {
+        "「…………黙れ。": "....."
+    },
+    "289": {
+        "「かくして　我は　究極へと至った。|　あとは　世界中の不完全な生物を　一掃し|　完全なる生命として　我のみが存在すればよい。": "And so I am the ultimate... All that remains|is for all imperfect creatures in the world|to be wiped out, and for me alone to exist as|<br>|a perfect life..."
+    },
+    "290": {
+        "「時の異分子よ。その命を差しだし|　我の完全性を示すための　いしずえとなれ！": "A different time... Give me your life as a|symbol of my perfection!"
+    },
+    "291": {
+        "「黙れっ！　呪われた異形の怪物め！|　お前などに　この世界の未来を|　好きにはさせぬ！": "Shut up! You cursed, deformed monster! You|will not have the future of this world in|your hands!"
+    },
+    "292": {
+        "「いくぞ　<cs_pchero>！！": "Here we go<cs_pchero>No!"
+    },
+    "293": {
+        "「世界にとって　不要なのは|　貴様のほうだったようだな……。": "It seems you're the one the world doesn't|need."
+    },
+    "294": {
+        "「<cs_pchero>。悲願を達成できたのも|　お前の協力　あってこそだ……礼を言う。": "<cs_pchero>No. It's only with your help that I was able|to achieve my dream... Rei..."
+    },
+    "295": {
+        "「<cs_pchero>！|　何かが　おかしいキュ！": "<cs_pchero>Something's wrong! Something's wrong!"
+    },
+    "296": {
+        "「キュロノスは　たしかに　生命活動を|　停止してるキュ。でも　それなのに|　存在の消滅が　認められないキュ！": "It's true that Cyronos has ceased all life.|But that doesn't mean they ceased to exist."
+    },
+    "297": {
+        "「な…何が　起こっているんだ……？": "What... What's going on here?"
+    },
+    "298": {
+        "「羽化する前の状態に|　時間を　戻したんだキュ……。": "I've turned back time to the state it was in|before it hatched."
+    },
+    "299": {
+        "<center>教えてやろう　不完全な生物たちよ。|我の完全性とは　敗北の事実さえ　くつがえして|何度でも　やり直せることにある。": "Let me tell you, imperfect creature... My|perfection is that I can duck the fact of|defeat and start over again..."
+    },
+    "300": {
+        "<center>そして　そのたびに　我はより強く|より究極へと　近づいていくのだ。": "And each time I do, I get stronger and closer|to the ultimate..."
+    },
+    "301": {
+        "<center>時渡りのチカラをもつ　お前たちは|我を高みへと押しあげる　よき道具であった。|だが　それも　もう終わりだ。": "You, with your power of time travel, have|been my greatest tools to push me to greater|heights. But that is no longer..."
+    },
+    "302": {
+        "<center>アストルティアの文明を　破壊しつくし|いっさいの不完全が　排除された|雑音なき　清浄なる世界を創造しよう。": "I will destroy the civilization of Astrutia|and create a world free of noise, clean of|all imperfection."
+    },
+    "303": {
+        "<center>この創造をもって|我は　時間と空間を支配する　神となる。": "With this creation, I am the master of time|and space, the god of..."
+    },
+    "304": {
+        "「ここは　時間が圧縮された空間キュ。|　外の世界と　時間の流れる速さが　ちがうキュ。": "This is a place where time is compressed.|Time moves at a different speed here than it|does in the outside world."
+    },
+    "305": {
+        "「長居すると　外の世界では|　どんどん　時間が経ってしまうキュよ。": "The longer you stay, the more time you spend|out in the world..."
+    },
+    "306": {
+        "「俺たちには　時渡りのチカラがある。|　どこであろうと　抜け出せるはず。": "We have the power of time... Wherever we are,|we are stuck..."
+    },
+    "307": {
+        "「時渡りのチカラ　そのものを|　封じられてるわけでは　なさそうだが……|　簡単には　出られないようだ。": "I don't think he's been sealed off from the|time travel power itself, but... But there's|no easy way out."
+    },
+    "308": {
+        "「キュレクスの　知識によれば……|　圧縮された時間に　時渡りのチカラで介入し|　時空の裂け目を作れば　脱出できるキュ。": "According to the knowledge of Cyrus... If we|can use our time travel powers to intervene|in this compressed time and create a rip in|<br>|space-time, we can escape..."
+    },
+    "309": {
+        "「そういうことなら　さっそく|　その裂け目の　作りかたを教えてくれ。": "If that's the case, then I'd like to learn|how to create the rift..."
+    },
+    "310": {
+        "「<cs_pchero>にも　教えておくキュ。": "<cs_pchero>I'll tell you what..."
+    },
+    "311": {
+        "「いや……不要だ。|　この役は　俺が引き受ける。": "No. ...... I'll take this role..."
+    },
+    "312": {
+        "「………………。": "..."
+    },
+    "313": {
+        "「そういえば　<cs_pchero>。まだ　お前から|　一度も　呼んでもらっていなかったな……。": "which reminds me<cs_pchero>(laughs) You haven't called me yet..."
+    },
+    "314": {
+        "「父さんと　呼んでくれないか？|<select_nc>|父さん|…………|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "You can call me Dad, if you want.|<select_nc>|dad||<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "315": {
+        "「……聞こえないぞ。|　もっと　大きな声で　頼む。|<select_nc>|父さん|…………|<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "... I can hear you... Louder...|<select_nc>|dad||<select_end>|<case 1>|<close>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "316": {
+        "「うれしいよ　<cs_pchero>。|　俺の願いが　ひとつ　かなった。": "I'm glad<cs_pchero>I wish... My one wish came true..."
+    },
+    "317": {
+        "「いつの日か　我が子に　父と呼んでもらう。|　乳飲み子だった　お前と過ごしていたころ|　どれほど　望んで　やまなかったことか……。": "Someday I'll call you Father... I can't tell|you how much I wanted that when I was an|infant with you."
+    },
+    "318": {
+        "「先に行けっ！": "Go ahead, go ahead!"
+    },
+    "319": {
+        "「……<cs_pchero>。|　キュロノスを倒してくれ。": "<cs_pchero>... Defeat Cyronos..."
+    },
+    "320": {
+        "「そして！　マローネのことを頼む！": "And! Take care of Marrone!"
+    },
+    "321": {
+        "「……時空の裂け目は　開いた側の空間から|　常に　時渡りのチカラを　放出しつづけないと|　維持することが　できないキュ。": "... The rift in space-time can only be|maintained by constantly releasing the power|of time travel from the space that opens..."
+    },
+    "322": {
+        "「つまり……時の牢獄から　脱出するには|　どちらかが　残るしかなかったキュ。": "I mean... The only way out of this prison of|time is for one of us to remain..."
+    },
+    "323": {
+        "「それを先に知った　パドレは　即座に|　<cs_pchero>を行かせることを　選んだキュね。|　さすがの決断力と　言わざるを得ないキュ。": "Padre found out about it first, and he immediately|<cs_pchero>I chose to let you go... I have to say, that|was a very good decision..."
+    },
+    "324": {
+        "「キュロノスの波動を　現代に感じるキュ！": "I can feel the vibrations of Cyronos in our|time, Kyu!"
+    },
+    "325": {
+        "「……パドレの意志を　継げるのは|　<cs_pchero>だけなんだキュ。|　キュロノスを　倒しにいこうキュ。": " Who will carry on Padre's legacy?|<cs_pchero>Only... Let's go kill Cyronos..."
+    },
+    "326": {
+        "「キュキュキュ！？　これは　いったい……？|　まちがいなく　現代に…………|　<cs_pchero>の時代に　時渡りしたはずキュ。": "Squeaky! What the hell is this? This is|definitely modern...<cs_pchero>I've traveled back in time to the time of..."
+    },
+    "327": {
+        "「すべてが　死滅してるキュ……。|　誰もいない……生命の息吹を|　まったく　感じ取れないキュ！？": "Everything's dying. There's no one... I can't|feel any life at all!"
+    },
+    "328": {
+        "「生きているのは　ボクと　<cs_pchero>だけ。|　もしかして　ここは……ボクらが|　回避しようとしてきた　滅びの未来キュ？": "It's just me and you<cs_pchero>Only. Could this be... The future of|destruction that we've been trying to avoid?"
+    },
+    "329": {
+        "「ボクらが　時の牢獄で過ごしたのは|　たった　数分だったけど　現実の世界では|　数ヶ月も　経過していたみたいキュ……。": "We've only spent a few minutes in a time|prison, but in the real world, it's like|months have passed."
+    },
+    "330": {
+        "「その間に　キュロノスは　宣言通り|　アストルティアを　滅ぼしてしまったキュ！！": "In the meantime, Cyronos has destroyed|Astrutia, as he declared!"
+    },
+    "331": {
+        "<center>不快な雑音を　感知……": "I'm sensing an unpleasant noise"
+    },
+    "332": {
+        "<center>……時の異分子か。|我を討たんがために　追ってくるとは|すさまじいまでの　執念よ。": "... A different time... To come after me just|to kill me, that's a hell of a..."
+    },
+    "333": {
+        "<center>だが　すべてが終わった後に　現れるなど|まさに　不完全の象徴ともいうべき　愚行。|我が世界を完全なものとするため　排除する。": "But to show up after all is said and done...|is the epitome of incompleteness. To make my|world perfect."
+    },
+    "334": {
+        "「これが　世界を滅ぼした|　キュロノスの　究極の姿……。": "This is the ultimate form of Cyronos, the man|who destroyed the world."
+    },
+    "335": {
+        "「我は　すべての　時間と空間を統べる者。|　唯一にして　絶対なる　永劫の支配者。": "I am the master of all time and space. The|one, the only, the absolute, the eternal..."
+    },
+    "336": {
+        "「神の座に至った我に　あらがう雑音どもは|　すべて　ひとしく　無力であった。": "I have come to the throne of God, and all the|noise I hear is powerless to stop me."
+    },
+    "337": {
+        "「我にひれ伏し　因果律より　消滅せよ。": ""
+    },
+    "338": {
+        "「キュキュキュッ！？|　また　時をあやつって|　復活しようとしてるキュ！！": "Squeak! He's trying to resurrect himself|again by manipulating time!"
+    },
+    "339": {
+        "「ボクが　介入して|　キュロノスの時間操作を　妨害するキュ！": "I will intervene and prevent Quronicus from|manipulating time!"
+    },
+    "340": {
+        "「あまり　もちそうにないキュ……。|　今のうちに　キュロノスにトドメを……。": "I don't think he's gonna last much longer.|Let's get Cyronos out of here while we still|can."
+    },
+    "341": {
+        "「時渡りのチカラを凝集した　刃でなら|　キュロノスの核を……|　チカラの源を　破壊できるキュ！": "If the blade that holds the power of time can|destroy the core of Cyronos... I can destroy|the source of its power!"
+    },
+    "342": {
+        "「目の前に　刃を作るつもりで|　時渡りのチカラを　集中させるキュ！|　<cs_pchero>なら　きっと　できるキュ……。": "I'm going to create a blade right in front of|you, and I'm going to focus the power of|time!<cs_pchero>I'm sure you can do it, Cu..."
+    },
+    "343": {
+        "「あとは　キュロノスの核の　ありかを…………": "Now we just need to find the location of the Cyronos core"
+    },
+    "344": {
+        "「赤く光ってるところを　つらぬくキュ！|　その奥に　ヤツのチカラの源があるキュ！": "Pierce the red glow! That's where he gets his|power from!"
+    },
+    "345": {
+        "「おのれェ！！　時の異分子ィィ！|　おのれ……エテーネ人！！": "Oh, my God! The Time Lord! You... Ethenians!"
+    },
+    "346": {
+        "「だが　この滅びは　絶対不変の終着点！|　幾たび　時を渡り　未来を変えるべく|　小細工を　重ねたところで　かなわぬと知れ！": ""
+    },
+    "347": {
+        "「未来永劫　アストルティアに　ふたたび|　生命が満ちることは　ないであろう！！": "There will never be another life in Astrutia!"
+    },
+    "348": {
+        "<cs_pchero>は|戦禍のタネ（だいじなもの）を|手に入れた。<me 60>": "<cs_pchero>I've got the seed of war...<me 60>"
+    },
+    "349": {
+        "「残念だけど……キュロノスの言ってた通り|　滅びの未来は　すでに　確定してしまったキュ。": "I'm sorry, but... Cyronos was right. The|future of destruction has already been|determined..."
+    },
+    "350": {
+        "「これから　過去に　さかのぼって|　やり直そうとしても　時間の修正力が働いて|　必ず　世界は滅びてしまうはずキュ。": "No matter how hard we try to go back in time|and start over, the forces of time will|correct themselves and the world will fall."
+    },
+    "351": {
+        "「ずっと　未来を変えるために|　戦ってきたけど……|　ボクたちは　失敗したんだキュ……。": "All these years, we've been fighting to|change the future, but... But we failed,|so..."
+    },
+    "352": {
+        "「<cs_pchero>は　これから　どうしたいキュ？|　まだ　人のいる時代に　戻ってみるキュ？": "<cs_pchero>What do you want to do now? Do you want to go|back to the time when people still existed?"
+    },
+    "353": {
+        "「キュキュ！？ |　大規模な　時渡りの予兆キュ！ |　巨大な何かが　迫っているキュ！": "Scylla! It's a sign of a massive time travel!|Something huge is coming!"
+    },
+    "354": {
+        "「キュロノスが宿していた　時渡りのチカラが|　たった今　現れたばかりの島に|　引き寄せられているキュ……。": "The power of time travel that Cyronos|possessed is being drawn to an island that|has just appeared."
+    },
+    "355": {
+        "「ボクらも　行って　確かめてみるキュ！": "We'll go and find out!"
+    },
+    "356": {
+        "「さっきまで　昼間だったのに……。": "It was daytime just now..."
+    },
+    "357": {
+        "「おい！　隕石が　消えてるぞ！": "Hey! The meteorite is gone!"
+    },
+    "358": {
+        "「これは……５０００年の時を超えて|　エテーネ王国が　まるごと|　現代に　現れたキュ！？": "This is... 5,000 years in the past, and the|entire kingdom of Etaine has appeared in the|present day!"
+    },
+    "359": {
+        "「こんな　とてつもないこと|　いったい　誰が　どうやって……？": "How did someone do such an incredible thing?"
+    },
+    "360": {
+        "「覚えてるキュ？　<cs_pchero>。|　５０００年前のマデ神殿で　もうひとりの|　メレアーデが　時見の泉に入っていったのを。": "You remember me?<cs_pchero>... 5,000 years ago, at the Temple of the|Madre, another Mereade entered the Fountain|of Time..."
+    },
+    "361": {
+        "「こんな大それたことを　やってのけるのは|　あの　メレアーデだけキュ。": "The only person who could pull off something|like this is Mareade..."
+    },
+    "362": {
+        "「時見の泉には　キュレクスが|　アストルティアに　渡ってくるために使った|　航界船があったはずキュ。": "In the Fountain of Time, there was a ship|used by Cyrex to cross into Astrutia."
+    },
+    "363": {
+        "「航界船には　時渡りのチカラを動力にして|　周囲の空間ごと　安全に　時渡りさせる|　驚異のテクノロジーが　そなわっているキュ。": "The Voyageurs are equipped with amazing|technology that allows them to safely travel|through time, using the power of time travel|<br>|to..."
+    },
+    "364": {
+        "「あの船の持つ機能と　永久時環に残っていた|　時渡りのチカラを使って　いずれ　隕石に|　滅ぼされるはずの故郷を　救おうとしたキュね。": "Using the power of the ship and the power of|time travel that remained in the perpetual|motion ring, I tried to save my homeland from|<br>|being destroyed by a meteor."
+    },
+    "365": {
+        "「これだけのことを　やったからには|　身体にも　相当な負担が　かかってるはずキュ。|　今も　無事かどうか……。": "After all you've been through, it must have|taken a toll on your body. I don't know if|he's okay."
+    },
+    "366": {
+        "「……きっと　メレアーデは　自分が|　平和に暮らしていた　５０００年後の世界を|　思い浮かべて　王国を時渡りさせたキュル。": "... I'm sure Mereade had a vision of a world|in which he lived in peace, 5,000 years from|now, and he sent the kingdom back in time."
+    },
+    "367": {
+        "「でも　この　滅んでしまった世界では|　メレアーデも　時渡りしてきた人たちも|　誰も　浮かばれないキュ……。": "But in this ruined world, neither Mereade nor|those who have traveled through time can be|saved."
+    },
+    "368": {
+        "「キュロノスが宿していた　時渡りのチカラが|　みるみる　吸収されてくキュ。|　これだけの量があれば　もしかしたら……？": "The power of time travel that Cyronos|possessed is being absorbed... If there's|this much of it, maybe...?"
+    },
+    "369": {
+        "「ちょっと　永久時環を確かめてくるキュ！": "I'm gonna go check the perpetual motion ring!"
+    },
+    "370": {
+        "「………………。": "..."
+    },
+    "371": {
+        "「キュロノスの死　という事象を維持したまま|　世界の時間を戻すのは　<pc>が|　考えている以上に　繊細な作業キュよ。": "While maintaining the event of Cyronos' death| To turn the world back in time<pc> But it's more delicate than you might think."
+    },
+    "372": {
+        "「もし　しくじったら|　ただ　キュロノスを　復活させただけってことに|　なりかねないキュ……。": "If we screw this up, it could mean that we|just resurrected Cyronos..."
+    },
+    "373": {
+        "「けれど　アストルティアを元通りにしたいという|　<pc>の意志は　固いキュね。": "But he wants to restore Astrutia to its former glory|<pc> I'm sure he's determined to..."
+    },
+    "374": {
+        "「<pc>が　そう望むなら|　ここまで　がんばってくれた　ご褒美に|　ボクが　ひと肌ぬいでやらないでもないキュ。": "<pc> If that's what you want, then I'd like to|reward you for all your hard work."
+    },
+    "375": {
+        "「うまくいったら　お礼に　特大チョコレートを|　プレゼントしてほしいキュ。": "If this goes well, I want you to give me an|extra-large piece of chocolate as a thank|you."
+    },
+    "376": {
+        "「成功を祈って　見守っててほしいキュ！": "Wish me luck and watch over me!"
+    },
+    "377": {
+        "「キュルルルルゥー！！": "Curlew, curlew, curlew!"
+    },
+    "378": {
+        "「あれ！？　なんで　なんで？|　さっきまで　不気味な空だったのに！": "Huh? Why? Why? The sky was so eerie just now!"
+    },
+    "379": {
+        "「あなただって　見たわよね？　ね？": "You saw it, didn't you? Didn't you?"
+    },
+    "380": {
+        "「キュロノスの存在は　感知できないキュ。|　因果律操作は……成功したキュ！": "The presence of Cyronos is imperceptible...|...to manipulate the laws of causality...|It's working!"
+    },
+    "381": {
+        "「これで　アストルティアは　元通り……|　でも　今回ばかりは　へろへろキュゥ……。": "Now Astrutia is back to normal... But for|once, I'm a little woozy..."
+    },
+    "382": {
+        "「キュロノスを倒すのに　かなり消耗して|　それに加えて　因果律操作まで……|　さすがに　ちょっと　無理をしすぎたキュル。": "Defeating Cyronos took a lot out of me, and|on top of that, manipulating the laws of|cause and effect... I'm afraid I pushed|<br>|myself a little too hard..."
+    },
+    "383": {
+        "「ボクは　キュレクスや　キュロノスみたいに|　成熟してないから……大きなチカラを使うのは|　存在への負担が　大きいキュ。": "I don't have the maturity of a Cyrus or a|Cyronos, so... It's hard on my being to use|so much power."
+    },
+    "384": {
+        "「今回は……身体を維持するだけの　|　チカラまで　使い切ってしまったみたいキュ。|　どうやら……ここで　お別れキュゥ。": "This time... I think I've used up all the|energy I had to sustain myself. It seems...|This is where I leave you..."
+    },
+    "385": {
+        "「でも　悲しむ必要は　まったく　ないキュ。|　時の妖精は　肉体が消滅すると　存在まで|　失ってしまう　キミたちとは　格がちがうキュ。": "But there's no need to be sad. The Time|Fairies, when their bodies disappear, they|cease to exist, much like you."
+    },
+    "386": {
+        "「もう　こんなふうに　話せなくなるけれど……|　ボクは世界の一部となって　これからも|　<pc>を　見守っていくキュ。": "I won't be able to talk to you like this anymore, but| I'll always be a part of the world|<pc> I'm watching over the..."
+    },
+    "387": {
+        "「キミは……ボクの友だちキュ。|　友だちのために　やれることがあるってのは|　ちょっと　誇らしい気分キュ……。": "You are... You're my friend. It makes me feel|kind of proud to be able to do something for|a friend."
+    },
+    "388": {
+        "「たのしい旅路だったキュ。|　<pc>…………": "It's been a good journey...<pc> "
+    },
+    "389": {
+        "<center>マデ島の　時見の泉で　メレアーデが|<pc>が来るのを　待っているキュ。|迎えにいってやると　いいキュ。": "At the fountain of time on the Isle of Madé, Mereade|<pc> I was waiting for you... I said, \"I'll come|get you."
+    },
+    "390": {
+        "「あ……<pc>……？|　迎えにきてくれたのね。": "あ<pc> ...? Come and get me..."
+    },
+    "391": {
+        "「また　あなたに会えるなんて　夢のよう……|　約束を守ってくれて……ありがとう。": "It's a dream come true to see you again. You|kept your promise... It's..."
+    },
+    "392": {
+        "「私の　時渡りのチカラは|　尽き果てて　しまったようね……。|　けれど　やりとげたんだわ。": "It seems my power of time travel has been|exhausted. But I have done it."
+    },
+    "393": {
+        "「あなたが　迎えにきてくれた　ということは|　エテーネ王国の時渡りに　成功した……。|　ここは　あなたが暮らす　５０００年後なの？": "If you've come for me, then you've|successfully traveled through time to the|Kingdom of Etaine... So this is where you|<br>|live, 5,000 years from now?"
+    },
+    "394": {
+        "「よかった……本当に　よかった。|　私　エテーネを救えたんだわ。": "Oh, thank God. I'm so glad... I was able to|save Etaine."
+    },
+    "395": {
+        "「ここで別れたときの　キュルルの言葉……|　かならず　キュロノスを倒すって|　言ってくれたでしょ？": "That's what Cyril said when we left him here.|Didn't you tell me you were going to defeat|Cyronos?"
+    },
+    "396": {
+        "「ふたりを信じ　この装置で　王都の永久時環に|　はたらきかけて　王国を時渡りさせたの。|　過去の私が　永久時環を　起動させたあとにね。": ""
+    },
+    "397": {
+        "「その代わり　私は　５０００年前のマデ神殿に|　ひとり　取り残されてしまったわ……。": "Instead, I'm left alone in a 5,000-year-old|temple of Madé..."
+    },
+    "398": {
+        "「もし　マデ神殿が　なくなっていたら|　私も無事では　いられなかったでしょうね。": "If the Temple of the Madhes had been lost, I|wouldn't have been safe..."
+    },
+    "399": {
+        "「ねえ…………叔父様と　キュルルは？": "Hey... Where's your uncle and Curle?"
+    },
+    "400": {
+        "「そんなことって…………。": "That's not..."
+    },
+    "401": {
+        "「もう　ふたりに会えないなんて……。|　私……とても　信じられないわ。": "I can't believe I'm never gonna see you guys|again. I just... I can't believe it."
+    },
+    "402": {
+        "「時の停止した　５０００年の眠りの中で|　そんなはずないのに　ずっと|　夢を　見ていた気がするの……。": "I feel like I've been dreaming for a long|time in a 5,000 year sleep where time|stopped."
+    },
+    "403": {
+        "「平和になった　この時代で　叔父様　叔母様|　……クオードや　ファラスまで。|　みんなで　幸せに暮らしていく夢を……。": "In this time of peace, your uncles, your|aunts... Quod, Fara... I dreamed of us all|living happily ever after..."
+    },
+    "404": {
+        "「<pc>　ここを出ましょう。|　ちゃんと　エテーネを救えたか　どうか|　自分の目で　確かめたいわ。": "<pc> We need to get out of here... I'm going to|find out for myself if I saved Etaine's life."
+    },
+    "405": {
+        "「見る影もない……。|　ほとんど　沈んでしまったのね……。": "There's nothing to see. It's almost like they|sank..."
+    },
+    "406": {
+        "「あれは　キィンベル……よかった。|　滅亡の未来から　大勢の命を救えたんだわ。": "That's Khymbel... Yes... You saved a lot of|lives from extinction."
+    },
+    "407": {
+        "「だけど　あの　なつかしい空の色は|　もう　見られない……。": "But I can't see that familiar sky anymore..."
+    },
+    "408": {
+        "「エテーネ王宮も……失われたまま。": "The royal palace of Etaine... Lost..."
+    },
+    "409": {
+        "「クオード…………": "Quod"
+    },
+    "410": {
+        "「この時代では　存在しないはずの|　エテーネ王国を　復活させてしまった。": "He resurrected the kingdom of Etaine, a|kingdom that was never meant to exist in this|time."
+    },
+    "411": {
+        "「私は　歴史を歪めてしまったのね……。": "I've distorted history..."
+    },
+    "412": {
+        "「……でも　迫りくる滅びに　立ち向かい|　必死に　生き抜こうとすることが|　まちがいだなんて　思いたくないわ。": "But... But I don't want to think that it's|wrong to try to survive in the face of|impending doom..."
+    },
+    "413": {
+        "「クオード…………誓うわ。": "Quads: ......"
+    },
+    "414": {
+        "「あなたが　命をかけて守りぬいた|　エテーネ王国が　この時代の人々に|　受け入れてもらえるよう　尽くす……と。": "I will do everything in my power to ensure|that the kingdom of Etaine, which you gave|your life to defend, is accepted by the|<br>|people of this time. ...."
+    },
+    "415": {
+        "「それが　私たちの選んだ道が|　より良い未来へ　つながったという|　なによりの　証になるはずだから。": "It will be the best proof that the path we've|chosen has led to a better future."
+    },
+    "416": {
+        "「…………そうよね？": "... Isn't that right?"
+    },
+    "417": {
+        "<if_woman>「姉ちゃん！|　<pc>姉ちゃんなんだろ？<else>「兄ちゃん！|　<pc>兄ちゃんなんだろ？<endif>": "<if_woman>Sis!<pc>   You're my sister, right?<else>Brother!<pc> You're my brother, right?<endif>"
+    },
+    "418": {
+        "「ああ！　よかった。|　まぼろしじゃ　ないんだね。": "Aah! No... It's not a dream..."
+    },
+    "419": {
+        "<if_woman>「こんな場所で　姉ちゃんと出会えるなんて|　夢にも　思わなかったよ！<else>「こんな場所で　兄ちゃんと出会えるなんて|　夢にも　思わなかったよ！<endif>": "<if_woman>Never in my wildest dreams did I think I'd|find you in a place like this!<else>I never thought I'd find you in a place like|this!<endif>"
+    },
+    "420": {
+        "「だけど……ここは　いったい|　どういう場所なんだろう？": "But... I don't know what the hell is going on|here."
+    },
+    "421": {
+        "「もうずっと　この建物の中を|　さまよってるんだけど　いくら進んでも|　いっこうに　出られないんだ。": "I've been wandering around this building for|ages, but no matter how far I go, I can't|seem to get out..."
+    },
+    "422": {
+        "「それには　ボクが答えるキュ。": "And I'll tell you what..."
+    },
+    "423": {
+        "「キュルルじゃないか！？": "I think that's Curlew!"
+    },
+    "424": {
+        "<if_woman>「そうか！　姉ちゃんが　おいらのキューブを|　使っているんだね。<else>「そうか！　兄ちゃんが　おいらのキューブを|　使っているんだね。<endif>": "<if_woman>Oh, yeah! My sister is using my cube...<else>Oh, yeah! My brother is using my cube...<endif>"
+    },
+    "425": {
+        "「ボクと　<pc>は　世界の滅亡を|　阻止するため　ここ　時獄の迷宮に|　乗り込んできたんだキュ。": "With me<pc> has come to the Labyrinth of Time to stop the|destruction of the world."
+    },
+    "426": {
+        "<if_woman>「姉ちゃん……またそんな　大ごとに|　首を　つっ込んでるんだね……。<else>「兄ちゃん……またそんな　大ごとに|　首を　つっ込んでるんだね……。<endif>": "<if_woman>Sis... You're getting involved in that big|deal again...<else>Brother... You're getting involved in that|big deal again...<endif>"
+    },
+    "427": {
+        "「つい　このあいだ　ナドラガンドで|　大変な目に　あったばかりだってのに……。": "We've just had a rough night at Nadragand..."
+    },
+    "428": {
+        "「<kyodai>にとっては　ナドラガンドで|　別れた直後でも　<pc>にとっては|　ウルベア地下帝国で　別れて以来キュよ。": "<kyodai>in Nadragand| Even right after we broke up<pc> For, ever since we parted ways in the Urbea|Underground Empire..."
+    },
+    "429": {
+        "「えっ　そうなの……？|　あれ？　ってことはさ……もしかして　あの時|　キュルルも　ウルベアにいたんじゃ……。": "Oh, really...? Huh? That means... Could it be|that Cururu was in Urubear too..."
+    },
+    "430": {
+        "「水臭いなぁ……。|　なんで　姿を　見せてくれなかったのさ。": "You smell like water... Why didn't you show|up?"
+    },
+    "431": {
+        "「ウルベアにいたころの　<kyodai>は|　まだ　ボクと　面識がなかったキュ。|　不必要な情報を　与えたくなかったキュ。": "When I was in Urbea<kyodai>I don't think you've met me yet. I didn't|want to give her any unnecessary information."
+    },
+    "432": {
+        "「えらそうなこと言って　ホントはまた|　グースカ　眠りこけてただけじゃないの？": "You said you were all high and mighty, but|you're really just sleepwalking again, aren't|you?"
+    },
+    "433": {
+        "「……けど　そんな物言いも　なつかしいや。": "I... But it's been a long time since I've|heard you say that."
+    },
+    "434": {
+        "<if_woman>「おいらの代わりに　信頼できる友だちが|　姉ちゃんを　ささえてくれてるなら　心強いよ。<else>「おいらの代わりに　信頼できる友だちが|　兄ちゃんを　ささえてくれてるなら　心強いよ。<endif>": "<if_woman>If I have a friend I can trust to take my|sister's place, then I'm...<else>If I have a friend I can trust to take care|of my brother for me, then I'm...<endif>"
+    },
+    "435": {
+        "<if_woman>「世界の滅亡の　阻止だっけ？|　おいらにも協力させてよ　姉ちゃん。<else>「世界の滅亡の　阻止だっけ？|　おいらにも協力させてよ　兄ちゃん。<endif>": "<if_woman>You're trying to stop the end of the world.|Let me help you with that, sister...<else>You're trying to stop the end of the world.|Let me help you with that, brother.<endif>"
+    },
+    "436": {
+        "<if_woman>「いつも　迷惑かけっぱなしだったからね。|　ようやく　おいらの錬金の技を　姉ちゃんの|　役に立てられるかと思うと　うれしいよ！<else>「いつも　迷惑かけっぱなしだったからね。|　ようやく　おいらの錬金の技を　兄ちゃんの|　役に立てられるかと思うと　うれしいよ！<endif>": "<if_woman>I've always been a nuisance to her... I'm so|happy to finally be able to use my alchemy|skills to help my sister!<else>I've always been a nuisance to you... It|makes me happy to think that I can finally|use my alchemy skills to help you!<endif>"
+    },
+    "437": {
+        "<if_woman>「あっ　まただよ！|　くそっ　ひどいや　こんなときに……。|　せっかく　姉ちゃんに会えたのに！<else>「あっ　まただよ！|　くそっ　ひどいや　こんなときに……。|　せっかく　兄ちゃんに会えたのに！<endif>": "<if_woman>Oh, no! Not again! Oh, no! Not at a time like|this... I got to see my sister!<else>Oh, no! Not again! Oh, no! Not at a time like|this... I've just met my brother!<endif>"
+    },
+    "438": {
+        "<if_woman>「忘れないで　姉ちゃん！|　どんなに時が過ぎても　この先　何が起こっても|　おいらは　ずっと　姉ちゃんの味方だか……<else>「忘れないで　兄ちゃん！|　どんなに時が過ぎても　この先　何が起こっても|　おいらは　ずっと　兄ちゃんの味方だか……<endif>": "<if_woman>Don't forget me, sis! No matter how much time|passes, no matter what happens in the future,|I'll always be on your side...<else>Don't forget me, big brother! No matter how|much time passes, no matter what happens in|the future, I'll always be on your side...<endif>"
+    },
+    "439": {
+        "「……消えちゃったキュル。": "... It's gone..."
+    },
+    "440": {
+        "「まったく　<kyodai>は　とことん|　落ち着きのないやつキュね。|　気を取り直して　先を急ぐキュ！": "completely<kyodai>He's so restless... Let's get this over with|and get on with it!"
+    },
+    "441": {
+        "「<pc>！？　<pc>なのか？": "<pc>  !<pc> Is it?"
+    },
+    "442": {
+        "「<pc>！？　<pc>なのね？": "<pc>  !<pc> Is that right?"
+    },
+    "443": {
+        "<if_woman>「お姉ちゃん！|　<pc>お姉ちゃんなんでしょ？<else>「お兄ちゃん！|　<pc>お兄ちゃんなんでしょ？<endif>": "<if_woman>Sis!<pc>   You're her big sister, right?<else>Big brother!<pc> You're the big brother, right?<endif>"
+    },
+    "444": {
+        "「ああ！　よかった。|　まぼろしじゃ　ないんだな。": "Aah! No... It's not a dream..."
+    },
+    "445": {
+        "「ああ！　よかった。|　まぼろしじゃ　ないのね。": "Aah! No... It's not a dream."
+    },
+    "446": {
+        "「ああ！　よかった。|　まぼろしじゃなくて。": "Aah! Oh... It's not real."
+    },
+    "447": {
+        "「こんな場所で　出会えるなんて|　夢にも　思わなかった！": "I never thought I'd see you in a place like|this!"
+    },
+    "448": {
+        "「こんな場所で　出会えるなんて|　夢にも　思わなかったわ！": "I never thought I'd see you in a place like|this!"
+    },
+    "449": {
+        "「こんな場所で　出会えるなんて|　夢にも　思わなかったよ！": "I never thought I'd see you in a place like|this!"
+    },
+    "450": {
+        "「だが……ここは　いったい|　どういう場所なんだ？": "But... I don't know what the hell we're doing|here."
+    },
+    "451": {
+        "「だけど……ここは　いったい|　どういう場所なの？": "But... What the hell is this place?"
+    },
+    "452": {
+        "「だけど……ここは　いったい|　どういう場所なのかな？": "But... I don't know what the hell this place|is."
+    },
+    "453": {
+        "「もうずっと　この建物の中を|　さまよっているんだが　いくら進んでも|　いっこうに　出られないんだ。": "I've been wandering around this building for|a while now, but no matter how far I go, I|can't seem to get out..."
+    },
+    "454": {
+        "「もうずっと　この建物の中を|　さまよってるんだけど　いくら進んでも|　いっこうに　出られないのよ。": "I've been wandering around this building for|ages, but no matter how far I go, I can't|seem to get out..."
+    },
+    "455": {
+        "「もうずっと　この建物の中を|　さまよってるんだけど　いくら進んでも|　いっこうに　出られないの。": "I've been wandering around this building for|a while now, but no matter how far I go, I|can't seem to get out."
+    },
+    "456": {
+        "「キュルルなのか！？": "You're a curule!"
+    },
+    "457": {
+        "「キュルルじゃない！？": "It's not Curlew!"
+    },
+    "458": {
+        "「キュルル！？": "Curlew!"
+    },
+    "459": {
+        "「そうか！　<pc>が|　オレのキューブを　使っているのか！": "Right!<pc> is using my cube?"
+    },
+    "460": {
+        "「そっか！　<pc>が|　あたしのキューブを　使っているのね！": "I see!<pc> is using my cube!"
+    },
+    "461": {
+        "<if_woman>「そうか！　お姉ちゃんが　私のキューブを|　使っているんだね。<else>「そうか！　お兄ちゃんが　私のキューブを|　使っているんだね。<endif>": "<if_woman>Oh, yeah! Your sister is using my cube...<else>Oh, yeah! My brother is using my cube...<endif>"
+    },
+    "462": {
+        "「<pc>……またそんな　大ごとに|　首を　つっ込んでるのか……。": "<pc> ... I don't know what you're getting yourself|into, but..."
+    },
+    "463": {
+        "「<pc>……またそんな　大ごとに|　首を　つっ込んでるのね……。": "<pc> ... You're getting involved in this big thing|again..."
+    },
+    "464": {
+        "<if_woman>「お姉ちゃん……またそんな　大ごとに|　首を　つっ込んでるんだね……。<else>「お兄ちゃん……またそんな　大ごとに|　首を　つっ込んでるんだね……。<endif>": "<if_woman>Sis... You're getting involved in such a big|deal again...<else>Big brother... You're involved in that big|deal again...<endif>"
+    },
+    "465": {
+        "「つい　このあいだ　ナドラガンドで|　大変な目に　あったばかりだというのに……。": "After what we just went through at|Nadragand..."
+    },
+    "466": {
+        "「つい　このあいだ　ナドラガンドで|　大変な目に　あったばかりなのに……。": "We've just had a rough night at Nadragand..."
+    },
+    "467": {
+        "「つい　このあいだ　ナドラガンドで|　大変な目に　あったばかりなのに……。": "We've just had a rough night at Nadragand..."
+    },
+    "468": {
+        "「えっ　そうなのか……。|　ということは　もしかして　あの時|　キュルルも　ウルベアにいたんじゃ……。": "I see... So maybe, just maybe, Cururu was in|Urbea that time..."
+    },
+    "469": {
+        "「えっ　そうなの……。|　あれ？　ってことはさ　もしかして　あの時|　キュルルも　ウルベアにいたんじゃ……。": "Oh, I see... Huh? Does that mean... that|maybe Cururu was in Urubear too..."
+    },
+    "470": {
+        "「えっ　そうなの……。|　あれ？　っていうことは　もしかして　あの時|　キュルルも　ウルベアにいたんじゃ……。": "Oh, I see... Huh? Does that mean, by any|chance, Cururu was in Urubear too..."
+    },
+    "471": {
+        "「水臭いな……。|　なんで　姿を　見せてくれなかったんだ。": "You smell like water. Why didn't you show up?"
+    },
+    "472": {
+        "「水臭いわね……。|　なんで　姿を　見せてくれなかったの？": "You stink of water... Why didn't you show up|for me?"
+    },
+    "473": {
+        "「水臭いなぁ……。|　なんで　姿を　見せてくれなかったの？": "Watery... Why didn't you just show up?"
+    },
+    "474": {
+        "「えらそうなこと言って　ホントはまた|　グースカ　眠りこけてただけなんじゃないか？": "You're acting all high and mighty, but you're|really just falling asleep again, aren't you?"
+    },
+    "475": {
+        "「えらそうなこと言って　ホントはまた|　ぐっすり　眠りこけてただけなんじゃないの？": "You say you're all high and mighty, but|really, you were just sleeping it off again,|weren't you?"
+    },
+    "476": {
+        "「えらそうなこと言って　ホントはまた|　ぐっすり　眠りこけてただけなんじゃ……？": "You say you're so proud, but you're really|just sleeping it off again..."
+    },
+    "477": {
+        "「……けど　そんな物言いも　なつかしいな。": "I... But it's been a long time since I've|heard you say that."
+    },
+    "478": {
+        "「……でも　そんな物言いも　なつかしいわ。": ""
+    },
+    "479": {
+        "「……でも　そんな物言いも　なつかしいな。": ""
+    },
+    "480": {
+        "「オレの代わりに　信頼できる友だちが|　お前を　ささえてくれてるなら　心強いよ。": "If you have a friend you can trust to take|care of you instead of me..."
+    },
+    "481": {
+        "「あたしの代わりに　信頼できる友だちが|　あんたを　ささえてくれてるなら　心強いわ。": "If you've got a friend you can trust to take|your place, then I'm..."
+    },
+    "482": {
+        "<if_woman>「私の代わりに　信頼できる友だちが|　お姉ちゃんをささえてくれてるなら　心強いよ。<else>「私の代わりに　信頼できる友だちが|　お兄ちゃんをささえてくれてるなら　心強いよ。<endif>": "<if_woman>If you have a friend you can trust to take|your sister's place instead of me...<else>If I have a friend that I can trust to take|my brother's place, then I'm...<endif>"
+    },
+    "483": {
+        "「世界の滅亡の　阻止だったか？|　オレも協力させてくれ　<pc>。": "You're trying to stop the destruction of the|world, aren't you? I'd like to help.<pc> 。"
+    },
+    "484": {
+        "「世界の滅亡の　阻止だったかしら？|　あたしも協力するわ　<pc>。": "Stopping the end of the world, right? I'm in.<pc> 。"
+    },
+    "485": {
+        "<if_woman>「世界の滅亡の　阻止だったっけ？|　私も協力させてよ　お姉ちゃん。<else>「世界の滅亡の　阻止だったっけ？|　私も協力させてよ　お兄ちゃん。<endif>": "<if_woman>I thought we were trying to stop the end of|the world. Let me help you, sister...<else>I thought we were trying to stop the end of|the world. I'd like to help, brother.<endif>"
+    },
+    "486": {
+        "「いつも　迷惑かけっぱなしだったからな。|　ようやく　オレの錬金の技を　お前の|　役に立てられるかと思うと　うれしいぜ！": "I've always been a nuisance to you... It|makes me happy to think that I can finally|use my alchemy to help you!"
+    },
+    "487": {
+        "「いつも　迷惑かけっぱなしだったからね。|　ようやく　あたしの錬金の技を　あんたの|　役に立てられるかと思うと　うれしいわ！": "I've always been a nuisance to you... It|makes me happy to think that I can finally|use my alchemy skills to help you!"
+    },
+    "488": {
+        "<if_woman>「いつも　迷惑かけっぱなしだったから。|　ようやく　私の錬金の技を　お姉ちゃんの|　役に立てられるかと思うと　うれしい！<else>「いつも　迷惑かけっぱなしだったから。|　ようやく　私の錬金の技を　お兄ちゃんの|　役に立てられるかと思うと　うれしい！<endif>": "<if_woman>I've always been a nuisance to you... I'm so|happy to finally be able to use my alchemy|skills to help my sister!<else>I've always been a pain in the ass... I'm so|happy to finally be able to use my alchemy|skills to help my brother!<endif>"
+    },
+    "489": {
+        "「あっ　またかよ！|　くそっ　こんなときに……。|　せっかく　<pc>に会えたってのに！": "Oh, no! Not again! Oh, shit. At a time like|this... I'm sorry.<pc> You could have met him!"
+    },
+    "490": {
+        "「あっ　またなの！？|　ひどいわ　こんなときに……。|　せっかく　<pc>に会えたのに！": "Oh, no, not again! That's terrible. At a time|like this... I'm sorry.<pc> You could have met him!"
+    },
+    "491": {
+        "<if_woman>「あっ　また！？|　ひどいよ　こんなときに……。|　せっかく　お姉ちゃんに会えたのに！<else>「あっ　また！？|　ひどいよ　こんなときに……。|　せっかく　お兄ちゃんに会えたのに！<endif>": "<if_woman>Again? What a time to be here! I've just met|your sister!<else>Again? How dare you! At a time like this...|I've just met my brother!<endif>"
+    },
+    "492": {
+        "「忘れんな　<pc>！|　どんなに時が過ぎても　この先　何が起こっても|　オレは　ずっと　お前の味方だか……": "Don't forget<pc> No! No matter how much time passes, no matter|what happens in the future, I'll always be on|your side."
+    },
+    "493": {
+        "「忘れないで　<pc>！|　どんなに時が過ぎても　この先　何が起こっても|　あたしは　ずっと　あんたの味方だか……": "Don't forget<pc> No matter what. No matter how much time|passes, no matter what happens in the future,|I'll always be on your side."
+    },
+    "494": {
+        "<if_woman>「忘れないで　お姉ちゃん！|　どんなに時が過ぎても　この先　何が起こっても|　私　ずっと　お姉ちゃんの味方だか……<else>「忘れないで　お兄ちゃん！|　どんなに時が過ぎても　この先　何が起こっても|　私　ずっと　お兄ちゃんの味方だか……<endif>": "<if_woman>Don't forget me, big sister! No matter how|much time passes, no matter what happens in|the future, I'll always be on your side...<else>Don't forget me, big brother! No matter how|much time passes, no matter what happens in|the future, I'll always be on your side...<endif>"
+    },
+    "495": {
+        "「ひとりにして　ご……めん……": "Leave me alone, please I'm sorry"
+    },
+    "496": {
+        "<center>やむをえぬ……。|ここは退き　壊れた器を捨て|真なる器の羽化を　急ぐとしよう。": "We have no choice... We must retreat, abandon|the broken vessel and hasten the hatching of|the true one."
+    },
+    "497": {
+        "<cs_pchero>と　メレアーデは|王国軍区画を　後にした。": "<cs_pchero>And Mareade left the Royal Military|District..."
+    },
+    "498": {
+        "<center>時の牢獄に　未来永劫　囚われるがいい。": "Trapped forever in the prison of time..."
+    },
+    "499": {
+        "「さて……行くとするか。": "Well... Let's go..."
+    },
+    "500": {
+        "「……アストルティアへ。": "... Astolte..."
+    },
+    "501": {
+        "パドレと　マローネを包む　光の柱が|魔物に破壊されてしまうと　敗北となります。|光の柱を守りながら　黄金のバディンドを倒そう。": "If the pillar of light that surrounds Padre|and Marrone is destroyed by the demons, they|will be defeated. Protect the pillar of light|<br>|and the golden badindo..."
+    }
+}
