@@ -78,19 +78,19 @@
         "<%sL_ITEM>を　<%nL_NUM>個　取り出した。|<end>": "Received <%dL_NUM> <%sL_ITEM> by trade.|<end>"
     },
     "27": {
-        "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%nL_GOLD> Revoke Gold...<end>"
+        "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%dL_GOLD> Gold was cancelled.|<end>"
     },
     "28": {
-        "<%nL_GOLD>ゴールドを　取り下げますか？|<yesno><break>": "<%nL_GOLD>Would you like to withdraw your|gold?<yesno><break>"
+        "<%nL_GOLD>ゴールドを　取り下げますか？|<yesno><break>": "Withdraw <%dL_GOLD> Gold?|<yesno><break>"
     },
     "29": {
-        "取り引きは　行われませんでした。|<end>": "The transaction will not take place...<end>"
+        "取り引きは　行われませんでした。|<end>": "Trade was unsuccessful.|<end>"
     },
     "30": {
-        "<%sL_PC>に　取り引きを　申し込みますか？|<yesno><break>": "Would you like to trade with <%sL_PC>?<yesno><break>"
+        "<%sL_PC>に　取り引きを　申し込みますか？|<yesno><break>": "Would you like to trade with <%sL_PC>?|<yesno><break>"
     },
     "31": {
-        "取り引きの申し込みを　キャンセルしますか？|<yesno><break>": "Would you like to cancel your transaction|request?<yesno><break>"
+        "取り引きの申し込みを　キャンセルしますか？|<yesno><break>": "Cancel the trade request?|<yesno><break>"
     },
     "32": {
         "<speed=0>|とりひきの　説明です！|<br>|他のプレイヤーのキャラに　とりひきを申し込み|相手からも　ＯＫしてもらえると　そのキャラと|アイテムやゴールドの　交換ができます。|<br>|とりひきは　突然　申し込まずに|チャットなどで　先に　相手に|確認してからにしましょう。|<break>": "<speed=0>Here's how it works! If you offer to trade|for another player's character, and they|accept, you can trade that character for|<br>|items or gold... You don't want to make a|deal out of the blue, but you do want to|check with the other player first.<break>"
