@@ -921,7 +921,7 @@
         "「他にも　ご用は　ございますか？|<break>": "Is there anything else I can do for you?<break>"
     },
     "308": {
-        "「ありがとうございました。|　またのご利用を　お待ちしております。|<end>": "Thank you... We look forward to serving you|again...<end>"
+        "「ありがとうございました。|　またのご利用を　お待ちしております。|<end>": "Thank you. We look forward to serving you|again.|<turn_end>"
     },
     "309": {
         "「では　お受けいたしました。|　こちらは　確かに　お届けいたしますね。|<bw_break>": "Okay, we'll take it. I'm sure this will be|delivered...<bw_break>"

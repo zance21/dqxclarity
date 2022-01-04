@@ -297,7 +297,7 @@
         "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
     },
     "100": {
-        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you... We look forward to serving you|again...<turn_end>"
+        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
     },
     "101": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
@@ -762,7 +762,7 @@
         "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
     },
     "255": {
-        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you... We look forward to serving you|again...<turn_end>"
+        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
     },
     "256": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
@@ -1155,7 +1155,7 @@
         "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
     },
     "386": {
-        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you... We look forward to serving you|again...<turn_end>"
+        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
     },
     "387": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
@@ -1548,7 +1548,7 @@
         "「どちらを　ご利用になりますか？|<break>": "Which one would you like to use?<break>"
     },
     "517": {
-        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you... We look forward to serving you|again...<turn_end>"
+        "「ありがとうございました。|　またのご利用を　お待ちしています。|<turn_end>": "Thank you. We look forward to serving you|again.|<turn_end>"
     },
     "518": {
         "<select_se_off>|アイテム倉庫|ゴールド銀行|<select_end><break>": "<select_se_off>|Item Storage|Gold Bank|<select_end><break>"
