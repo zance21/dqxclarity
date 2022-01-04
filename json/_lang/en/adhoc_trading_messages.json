@@ -54,7 +54,7 @@
         "<%sL_PC>に　<%nL_GOLD>ゴールドを|渡せなかったので|取り引きが　できませんでした。|<end>": "Couldn't give <%dL_GOLD> Gold to|<%sL_PC>, so the trade was|unsuccessful.|<end>"
     },
     "19": {
-        "<%nL_GOLD>ゴールドを|受け取れなかったので|取り引きが　できませんでした。|<end>": "<%nL_GOLD> I didn't get my gold, so I can't|make a deal...<end>"
+        "<%nL_GOLD>ゴールドを|受け取れなかったので|取り引きが　できませんでした。|<end>": "Couldn't receive the <%dL_GOLD> Gold,|so the trade was unsuccessful.|<end>"
     },
     "20": {
         "<%sL_PC>が　キャンセルしました。|<break>": "<%sL_PC> cancels...<break>"
