@@ -84,7 +84,7 @@
         "<select_se_off>|仮装メイク術をする|説明を聞く|<select_end>|<break>": ""
     },
     "29": {
-        "<select_se_off>|仮装メイク術を落とす|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": ""
+        "<select_se_off>|仮装メイク術を落とす|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": "<select_se_off>|Disguise Makeup|Change Race|Extend Period|Explanation|<select_end>|<break>"
     },
     "30": {
         "<select_se_off>|メイク直し術をする|別の種族の姿になる|有効期間を延長する|説明を聞く|<select_end>|<break>": ""
