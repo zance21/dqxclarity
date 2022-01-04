@@ -4578,7 +4578,7 @@
         "「かしこまりました。|　ストーリーや　クエストの経験値を|　『クリア時に受け取る』設定に　いたしました。|<br>|「これから　ストーリーや　クエストのクリア時に|　経験値を　その場で受け取れるようになります。": "Yes, sir... We've made it so that you can|receive experience points for completing|stories and quests... From now on, when you|<br>|complete a story or quest, you'll receive|experience points on the spot."
     },
     "1527": {
-        "「現在　ストーリーや　クエストの経験値は|　『預ける』設定です。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": "Currently, story and quest experience is set|to \"deposit.\" Which setting would you like to|change to?|<select_se_off>|entrust|Receive when cleared|<select_end>|<break>"
+        "「現在　ストーリーや　クエストの経験値は|　『預ける』設定です。|　どちらの設定に　変更いたしますか？|<select_se_off>|預ける|クリア時に受け取る|<select_end>|<break>": "Currently, story and quest experience is set|to \"Deposit.\" Which setting would you like to|change to?|<select_se_off>|Deposit|Receive On Clear|<select_end>|<break>"
     },
     "1528": {
         "「かしこまりました。|　ストーリーや　クエストの経験値を|　『預ける』設定に　いたしました。|<br>|「これから　ストーリーや　クエストのクリア時に|　経験値を　こちらでお預かりいたしますので|　受け取りたいときに　いらしてくださいね。": "Yes, sir... We've set your story and quest|experience to \"Keep\"... From now on, when you|complete a story or quest, we'll store the|<br>|experience for you, so you can come back when|you want to receive it..."
