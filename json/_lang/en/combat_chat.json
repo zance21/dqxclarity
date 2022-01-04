@@ -27999,7 +27999,7 @@
         "clarity_nt_char_9333": "clarity_nt_char_9333"
     },
     "9334": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ラピッドステッキの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ラピッドステッキの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Rapid Stick effect faded!"
     },
     "9335": {
         "clarity_nt_char_9335": "clarity_nt_char_9335"
@@ -32160,7 +32160,7 @@
         "clarity_nt_char_10720": "clarity_nt_char_10720"
     },
     "10721": {
-        "ラピッドステッキの|効果がきえた": ""
+        "ラピッドステッキの|効果がきえた": "Rapid Stick effect|faded."
     },
     "10722": {
         "clarity_nt_char_10722": "clarity_nt_char_10722"
@@ -32169,7 +32169,7 @@
         "スーパーアーマーが|きえた": ""
     },
     "10724": {
-        "呪文の詠唱速度が|もとにもどった": ""
+        "呪文の詠唱速度が|もとにもどった": "Spellcasting speed|returned to normal."
     },
     "10725": {
         "clarity_nt_char_10725": "clarity_nt_char_10725"
@@ -32178,7 +32178,7 @@
         "テンションブーストの|効果がきえた": "Tension Boost effect|faded."
     },
     "10727": {
-        "ＨＰとＭＰの|回復がおわった": ""
+        "ＨＰとＭＰの|回復がおわった": "HP & MP recovery|ended."
     },
     "10728": {
         "clarity_nt_char_10728": "clarity_nt_char_10728"
@@ -32187,7 +32187,7 @@
         "攻撃力と攻魔が|もとにもどった": ""
     },
     "10730": {
-        "ゴールドアップの|効果がきえた": ""
+        "ゴールドアップの|効果がきえた": "Gold Up effect|faded."
     },
     "10731": {
         "開戦時天使の守りの|効果がきえた": "Battle start Goddess'|Grace effect faded."
