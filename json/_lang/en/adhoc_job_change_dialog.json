@@ -597,10 +597,10 @@
         "<color_yellow>つれている　<%sM_monster>は|モンスター牧場に送られました！": "<color_yellow>My <%sM_monster> has been sent to|the monster farm!"
     },
     "200": {
-        "「何を　希望されるか？|<break>": "What do you want?<break>"
+        "「何を　希望されるか？|<break>": "What do you need?<break>"
     },
     "201": {
-        "「何を　希望されるか？|<break>": "What do you want?<break>"
+        "「何を　希望されるか？|<break>": "What do you need?<break>"
     },
     "202": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From now on, you will live as|<%sM_new_syokugyou>. First,|you'll be awakened to a new ability...|<br>|<%sM_self> has learned the Scout|Attack feat!|<se_nots System 17>This is a skill that's essential when you're|trying to recruit monsters... You use your|scout attack on a monster you wish to join.|<br>|If you win the battle after using the scout|attack, the monster will wake up and join|you. You don't have to finish him off with|<br>|that move.<bw_break>"
