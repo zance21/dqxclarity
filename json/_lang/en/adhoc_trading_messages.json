@@ -69,13 +69,13 @@
         "<%nL_GOLD>ゴールドを　取り出した。|<end>": "Received <%dL_GOLD> Gold from the trade.<end>"
     },
     "24": {
-        "<%sL_ITEM>を　取り出した。|<end>": "Get <%sL_ITEM>...<end>"
+        "<%sL_ITEM>を　取り出した。|<end>": "Received <%sL_ITEM> by trade.|<end>"
     },
     "25": {
-        "<%sL_ITEM>は|他のプレイヤーに　渡せないアイテムです。|<bw_break>": "<%sL_ITEM> is an item that cannot be passed|to another player...<bw_break>"
+        "<%sL_ITEM>は|他のプレイヤーに　渡せないアイテムです。|<bw_break>": "<%sL_ITEM> cannot be traded.|<bw_break>"
     },
     "26": {
-        "<%sL_ITEM>を　<%nL_NUM>個　取り出した。|<end>": "Takes <%sL_ITEM> by <%nL_NUM>...<end>"
+        "<%sL_ITEM>を　<%nL_NUM>個　取り出した。|<end>": "Received <%dL_NUM> <%sL_ITEM> by trade.|<end>"
     },
     "27": {
         "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%nL_GOLD> Revoke Gold...<end>"
