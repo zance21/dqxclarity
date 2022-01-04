@@ -780,7 +780,7 @@
         "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "261": {
-        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve...<break>"
+        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
     },
     "262": {
         "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
@@ -1566,7 +1566,7 @@
         "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "523": {
-        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve...<break>"
+        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
     },
     "524": {
         "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
@@ -1974,7 +1974,7 @@
         "<select_se_off 3>|アイテム倉庫|ゴールド銀行|倉庫名を変える|<select_end><break>": "<select_se_off 3>|Item Storage|Gold Bank|Change Name|<select_end><break>"
     },
     "659": {
-        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve...<break>"
+        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
     },
     "660": {
         "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
@@ -2472,7 +2472,7 @@
         "<pipipi_off><speed=0>|預け先となる　倉庫を選んでください。|<break>": ""
     },
     "825": {
-        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve...<break>"
+        "<pipipi_off><speed=0>|取り出したい　持ち物が入っている倉庫を|選んでください。|<break>": "<pipipi_off><speed=0>Select the warehouse that contains the item|you wish to retrieve.<break>"
     },
     "826": {
         "<pipipi_off><speed=0>|持ち物をしまう場合は　しまうを|持ち物を取りだす場合は　とりだすを|選択してください。|<break>": "<pipipi_off><speed=0>Select \"Put away\" to put your belongings away|or \"Take out\" to take them out...<break>"
