@@ -15,7 +15,7 @@
         "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "Hmm.. you're changing jobs to <%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "6": {
-        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Now go...|<br>"
+        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "7": {
         "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "So you changed your mind? That's fine. Goodbye.<end>"
@@ -126,7 +126,7 @@
         "「転職とは　もちろん　職業を変えることです。|　はじめての職業に転職をすれば|　レベルは　はじめからの再出発となります。|<br>|「ですが　レベルは職業ごとに持っています。|　再び転職して　元の職業に戻れば　レベルも|　元の職業のものに戻るので　心配いりません。|<br>|「資格を持つ者であれば　転職に　レベルの|　制限はありません。自由に　転職できますので|　いつでも　私たち神官を　お訪ねください。|<end>": "A career change is, of course, a change of|occupation... If you change professions for|the first time, you'll have to start your|<br>|level all over again. But each job has its|own level... If you change professions again|and return to your original profession, your|<br>|level will return to that of your original|profession, so don't worry. If you're a|qualified candidate, there's no level|<br>|limit... You can change professions at will,|so feel free to visit our priests at any|time...|<br><end>"
     },
     "43": {
-        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Let's go...|<br>"
+        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "44": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。お前は　今|　特訓モードのようだな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... You're in|training mode now... Let's go...|<br>"
@@ -660,13 +660,13 @@
         "「……ふむ。|　<%sM_new_syokugyou>に　転職するのだな？|<yesno><close>": "Hmm.. you're changing jobs to <%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "221": {
-        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Let's go...|<br>"
+        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "222": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。お前は　今|　特訓モードのようだな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... You're in|training mode now... Let's go...|<br>"
     },
     "223": {
-        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... Do not|fail to review your equipment... Let's go...|<br>"
+        "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "224": {
         "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "I'm not changing jobs. That's good... Come|on, let's go...<end>"
