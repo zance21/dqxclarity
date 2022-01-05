@@ -219,10 +219,10 @@
         "「コロシアムとは　世界中から集まった|　ウデじまんの猛者たちが　互いの技を競い合い|　頂点を目指す　真剣勝負の場です！ |<br>|「バトルは　４対４のパーティ限定。一定時間|　互いのパーティが持つポイントをうばい合い|　最終的に　ポイントの高い方が勝利となります！|<br>|「バトルへの参加は『公式バトル』か|　『練習バトル』から　ひとりででも|　仲間と一緒にでも　エントリー可能です。|<br>|「公式バトルに勝利すると　コロシアム経験値を|　獲得し　『ランク』が上がっていきます。|　上がった際には　特別な報酬もありますよ。|<br>|「ランクは　大型アップデートごとにリセットされ|　私に話しかけていただくと　前回のランクに応じ|　近いランクから　始まります。|<br>|「最新回までに　公式バトル不参加の回がある場合|　その分も含めて　大きくランクダウンするため|　ご注意ください。|<br>|「コロシアム経験値のほかにも　勝利時には|　『栄光のかけら』が　付与されますので|　交換屋で　アイテムと交換してみてくださいね。|<br>|「また　コロシアムは　レベル９０以上の方のみ|　参加可能です。ただし　練習バトルは|　レベル制限なしに　ご利用できます。|<bw_break>": "The Colosseum is a place where fierce|fighters from all over the world compete|against each other to reach the top! The|<br>|battle is a four-on-four par... For a certain|amount of time, each party will be competing|for points, and the one with the most points|<br>|will win! You can enter battles by yourself|or with your friends in the Official Battles|or Practice Battles... When you win an|<br>|Official Battle, you'll gain Colosseum|experience and your Rank will rise... There|are special rewards for moving up... Your|<br>|rank is reset every major update, so if you|talk to me, I'll start you off at a rank|closer to your last rank... If you haven't|<br>|participated in any official battles up until|the last one, your rank will be downgraded|significantly... In addition to Colosseum|<br>|experience, you'll also receive a \"piece of|glory\" for each victory, so try trading it in|for an item at the Exchange Shop... The|<br>|Colosseum is only open to players of level 90|and above... However, practice battles are|open to all levels...<bw_break>"
     },
     "74": {
-        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": "<select_se_off>|Registration|Explanation|<select_end><break>"
     },
     "75": {
-        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": "<select_se_off>|Registration|Explanation|<select_end><break>"
     },
     "76": {
         "「戦いの社交場　コロシアムへ　ようこそ！|<break>": "Welcome to the Coliseum, the ballroom of war!<break>"
@@ -723,10 +723,10 @@
         "「ここからは　グランドオープンから入る|　新しい遊びの説明となります。|<br>|「まず　プレオープンのデータは|　すべて　リセットされた状態で|　再スタートします。|<br>|「年に数回　『バトルグランプリ』という|　ランキングを競い合い　アストルティア最強を|　決定する　バトルイベントが　開催されます。|<br>|「バトルグランプリ開催中は　公式バトルは|　ご利用できず　バトルグランプリに|　集中していただく　期間となります。|<br>|「この期間中は　バトル終了時に|　グランプリポイントを入手でき|　そのポイントの多さで　ランキングを競います。 |<br>|「ランキング上位には　特別な報酬が|　あたえられます。これまで以上に|　熱い火花が散る　バトルになるでしょう。|<br>|「ほかにも　グランプリポイントを貯めると|　グランプリランクが上がり　報酬が得られます。|　ご自分の限界に　挑戦してください！|<br>|「さて　ここでの説明は　以上となりますが|　一度『説明を聞く』から　すべてのルールを|　ご確認いただくことを　オススメいたします。|<br>|「それでは……はい。|　お待たせしました。<pc>さんの|　ご利用手続きが　完了いたしました！|<wait=1000><br>|<pipipi_off><pc>は　Ｃ４ランクに登録され|コロシアムに　参加可能になった！|<me 71>|<br>|<pipipi_on>「それでは　改めまして……|<end>": "We're going to start with the grand opening,|and then we'll explain the new game... First,|all data from the Pre-Open will be reset and|<br>|we'll start over... Several times a year, we|hold a battle event called the Battle Grand|Prix... where players compete to determine|<br>|who is the best in Astrutia. During the|Battle Grand Prix, official battles will not|be available, and you can focus on the Battle|<br>|Grand Prix... During this time, you'll earn|Grand Prix Points at the end of each battle,|and compete for rankings based on how many|<br>|points you have... The higher the ranking,|the more special rewards will be given...|It's going to be a battle with more sparks|<br>|than ever before... You can also earn Grand|Prix Points to increase your Grand Prix Rank|and earn rewards... Push yourself to your|<br>|limits! So that's it for now, but we|recommend that you check out the full rules|by clicking on \"Listen\"... See you at .....|<br>|Sorry to keep you waiting...<pc>     You've reached the end of the procedure!<wait=1000> |<pipipi_off><pc>   is now ranked C4 and can participate in the|Coliseum!<me 71>| |<pipipi_on>So, without further ado|<end>"
     },
     "242": {
-        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": "<select_se_off>|Registration|Explanation|<select_end><break>"
     },
     "243": {
-        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|利用手続きをおこなう|説明を聞く|<select_end><break>": "<select_se_off>|Registration|Explanation|<select_end><break>"
     },
     "244": {
         "「戦いの社交場　コロシアムへ　ようこそ！|<break>": "Welcome to the Coliseum, the ballroom of war!<break>"
