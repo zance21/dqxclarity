@@ -1,41 +1,173 @@
 {
     "1": {
-        "「……あなた　町の入り口で会った人ね。|　パパなら　留守よ。なんの用？": "... I met you at the entrance to town... If|you're my dad... What do you want?"
+        "「ルコリア。今は　来客中だ。|　お前は　ノックも　まともにできないのか？": "Le... I'm here... You can't even knock|properly?"
     },
     "2": {
-        "「って　それ……。": "That's..."
+        "「……ママから　話を聞いたの。|　町の人のために　集会を開くんですってね。": "... I heard from my mom... We're holding a|meeting for the people of the town..."
     },
     "3": {
-        "「それ……姉さんの日記帳……。|　ねえ　返して……！<yesno><close>": "It's... It's your diary. Please, give it|back.<yesno><close>"
+        "「い　忙しいとか　言い訳して　まだ一度も|　姉さんのお墓参り……行ってないじゃない。": "I've been busy or something, but I haven't|visited my sister's grave... I haven't..."
     },
     "4": {
-        "「言うこと聞かないと　呪うわよ。|　早く　返して……！<yesno><close>": "I'll curse you if you don't do as I say. Give|it back to me.<yesno><close>"
+        "「私には　町長として　なすべきことがある。|　子供が　大人のやることに|　いちいち　クチをはさむんじゃない。": "As mayor, I have a responsibility... I don't|want a child complaining about everything|that adults do..."
     },
     "5": {
-        "<pc>は　女の子に|きらきらした本を　渡した！": "<pc> gave the girl a sparkly book!"
+        "「…………。": "..."
     },
     "6": {
-        "「この日記帳　ずっと探してたの……。|　えっと　あなたは……？": "This diary. I've been looking for it for...|And you are...?"
+        "「話のジャマだ。さあ　出ていけ。": "The story... Come on, let's go..."
     },
     "7": {
-        "「……ふうん　<pc>というの。|　私は　ルコリア。この日記の持ち主である|　リゼロッタ姉さんの　双子の妹よ……。": " Hmm<pc> And... I'm Le... I'm the twin sister of|Liselotta, the owner of this diary..."
+        "「まったく　見苦しいところを|　お見せしましたな。|　近頃　すっかり　生意気になりまして……。": "I'm sorry. I'm not very good at this. I've|gotten so cocky lately..."
     },
     "8": {
-        "「これはね……。|　リゼロッタ姉さんの遺品なの……。": "This is... It belonged to my sister|Liselotta..."
+        "「さあ　集会まで　あまり時間がありません。|　安らぎの香の調達を　頼みましたぞ。": "We don't have much time before the meeting.|Let me go grab that restful incense."
     },
     "9": {
-        "「めずらしく　部屋から出てきたと思ったら|　玄関先で　立ち話か。|　お前には　他にやることがないのか？": "I thought you'd come out of your room, which|is unusual, but you're standing on my|doorstep... Don't you have anything better to|<br>|do?"
+        "「町の大人たちったら　子供たちの幽霊に|　恨まれてるとか　おびえちゃって　バカみたい。|　……ほら　姉さんの日記　読んでみてよ。": "The adults in this town are so scared of the|ghosts of their children that they're holding|grudges against them. ... Here, read your|<br>|diary..."
     },
     "10": {
-        "「パ…パパは　毎日　お忙しいもの……ね。|　姉さんの墓参りなんて　忘れちゃうくらい|　……た　大変なんでしょ？": "Pa... He's so busy every day. .... I don't|even remember visiting my sister's grave.|It's not easy, is it?"
+        "<pc>は　リゼロッタの日記帳を読んだ。": "<pc> is Lizelotta's diary..."
     },
     "11": {
-        "「子供が　大人の仕事に　クチをはさむな！|　あんな恥さらし　娘でもなんでもない。": ""
+        "……今まで　大人に反抗してきた　私たちだけど|自力で　生活するようになってから|大人のありがたみが　わかるようになったわ。": "... We've always rebelled against adults, but|now that we're on our own, we've learned to|appreciate them."
     },
     "12": {
-        "「旅の方。せっかく　お訪ねいただいたのに|　すみませんが　今は　立て込んでおりましてな。|　今日のところは　お引き取りください。": "I'm... I'm sorry to bother you, but we're|busy right now. I'll leave you alone for now."
+        "今は　みんなで　毎日　ダーマ神殿に行って|大人たちが　早く帰ってくるように|お祈りを欠かさないようにしているの。": "Now, we all go to the Dharma temple every day|to pray that the adults will come home|soon..."
     },
     "13": {
-        "「……日記帳　届けてくれて　ありがと。|　それじゃ　さよなら。": "... Thank you for bringing me my diary. Okay,|well..."
+        "もしかしたら　大人たちとは|もう　二度と会えないのかもしれないけど|祈りつづけていれば　いつか……。": "Maybe we'll never see the adults again, but|if we keep praying, one day..."
+    },
+    "14": {
+        "「……姉さんたちは　誰も　恨んでない。|　毎日　ダーマ神殿で　静かにお祈りして|　大人たちの帰りを　待ってるのよ。": "... My sisters, they don't hold a grudge...|Every day in the Dharma temple, they pray in|silence, waiting for the adults to return..."
+    },
+    "15": {
+        "「町の大人たちは　すっかり|　お祈りに行かなくなったのに……|　これじゃ　まるで　あべこべだわ。": "The adults in town have stopped going to|pray... It's like we're..."
+    },
+    "16": {
+        "「おお　安らぎの香を　持ってきてくれましたか。|　集会に間に合ったようで　何よりです。|　さっそく　渡していただけますかな？<yesno><close>": "Oh, you brought me some comforting incense...|I'm so glad you could make it to the meeting.|Would you be so kind as to give it to her?<yesno><close>"
+    },
+    "17": {
+        "「……おや　どうしました。|　安らぎの香がないと　集会が始められません。|　さあ　渡していただけますかな？<yesno><close>": "... Oh, no... We can't start the meeting|without the comforting incense... Now, may I|have it, please?<yesno><close>"
+    },
+    "18": {
+        "<pc>は　ブラト町長に|安らぎの香を　渡した。": "<pc> will give Mayor Blato a comforting scent..."
+    },
+    "19": {
+        "「いや　助かりました。|　今回は　特別ゲストも　お招きしていますし|　この集会は　きっと　うまくいくことでしょう。": "No, thank God. We have a special guest this|time, and I'm sure this meeting will go|well..."
+    },
+    "20": {
+        "「ためになるお話が　聞けますし|　ぜひ　あなたも参加していってください。": "I'm sure you'll find it informative, and I|hope you'll join us..."
+    },
+    "21": {
+        "町中の　大人たちが|集会所に　集まってきた。": "All the adults in the town have gathered at|the meeting house..."
+    },
+    "22": {
+        "「皆さん　本日は|　突然の集会に　お集まりいただき|　まことに　ありがとうございます。": "Ladies and gentlemen, thank you very much for|coming to this unexpected meeting today."
+    },
+    "23": {
+        "「あの　古い教会の事故が起きてから|　この町は　深い悲しみに包まれ　幽霊の姿に|　おびえるようになりました。そこで……": "Since the accident at the old church, the|town has been in a state of deep mourning,|frightened by the sight of ghosts... And|<br>|then..."
+    },
+    "24": {
+        "「……本日は　そんな　皆さんを|　悩みや　苦しみから解き放つため|　このぼくが　やってきました。": "... Today, I've come here to free you from|your troubles and your suffering."
+    },
+    "25": {
+        "「ぼくは　サダク。|　悪霊におびやかされている　この町を|　救うためにやってきた　旅の霊媒師です。": "I'm a... I'm a traveling medium who's come to|save this town from the evil spirits that|haunt it."
+    },
+    "26": {
+        "「ウ　ウチの子を……悪霊ですって！？": "My baby... Evil spirits?"
+    },
+    "27": {
+        "「……そう　悪霊なのです。|　恨みを抱いたまま　死んでしまった者の魂は|　悪霊となって　生者を呪うのですよ。": "... Evil spirits... The souls of those who|have died holding a grudge become evil|spirits that curse the living."
+    },
+    "28": {
+        "「まずは　悪霊が入ってこないように|　安らぎの香に　ぼくが用意した聖灰を混ぜて|　たくことで　この集会所を清めましょう。": "First, to keep the evil spirits away, I'll|mix the holy ashes I prepared with the|incense of peace and burn it to purify this|<br>|meeting place."
+    },
+    "29": {
+        "「あら？　いい香り……。": "Oh? You smell good..."
+    },
+    "30": {
+        "「ああ……なんだか　安らぐよ……。": "Oh... I feel at peace..."
+    },
+    "31": {
+        "「……さあ　お子さんが　生きていた時のことを|　ようく　思いだしてみてください。": "... Now, I want you to think very carefully|about the time when your child was alive..."
+    },
+    "32": {
+        "「彼らが　何か恨みを抱くような|　きっかけは　ありませんでしたか？|　子供に　つらく当たった覚えは　ありませんか？": "Did they have any reason to resent you for|what you did? Have you ever been hard on a|child?"
+    },
+    "33": {
+        "「わ　私……いつも　門限を厳しくして|　あまり　遊ばせてあげなかったわ……。": "I'm... I've always been so strict about|curfews, and I've never let her play much..."
+    },
+    "34": {
+        "「オ　オレ……しょっちゅう|　勉強しろって　お説教してたから|　それが　子供を追い詰めたのかも……。": "I... I was always telling him to study, so|maybe that's what pushed him over the edge..."
+    },
+    "35": {
+        "「なるほど……。厳しい　しつけに追い詰められ|　町の子供たちは　大人を嫌い|　古い教会に閉じこもって　遊ぶようになった。": "Well... The children of the town, driven by|harsh discipline, hate adults and play in the|old church."
+    },
+    "36": {
+        "「そして　ガケ崩れにより　命を落とし|　この世に　恨みを抱いたまま　悪霊として|　さまよっているのですね……。": "And then he died in a landslide, and now he's|wandering around as an evil spirit, holding a|grudge against this world..."
+    },
+    "37": {
+        "「このままだと　皆さんは　悪霊に呪われ続け|　いずれは　道連れに……。": "If this continues, you will continue to be|cursed by evil spirits, and they will|eventually take you..."
+    },
+    "38": {
+        "「ですが　ご安心ください。|　皆さんが　悪霊におびやかされぬよう|　これからは　ぼくが　お守りいたします！": "But don't worry... From now on, I will|protect you all from the evil spirits that|threaten you!"
+    },
+    "39": {
+        "「……あなた　ウソつきね。": "You... You're lying..."
+    },
+    "40": {
+        "「姉さんたちは　大人を　恨んでなんかいない。|　この日記帳を見れば　わかるはず……。": "You know, I don't think you girls have|anything against adults. You'll see from this|diary..."
+    },
+    "41": {
+        "「……これは　姉さんの遺品。|　この世と　あの世をつなぐ　特別な日記帳よ。": "... This is my sister... It's a special day|between this world and the next..."
+    },
+    "42": {
+        "「……中を読めば　あの世のことが　わかるわ。|　教会の事故で　死んだ子供たちは|　自分が死んだってことに　気づいてないの。": "... If you read inside, you'll learn about|the afterlife... The children who died in the|church accident, they didn't know they were|<br>|dead..."
+    },
+    "43": {
+        "「子供しかいない　死の世界で|　どこかに消えてしまった　大人たちが|　帰ってきてくれるのを　待ち続けているのよ！": "In a world of death where there are only|children, adults who have disappeared|somewhere are waiting for you to come back!"
+    },
+    "44": {
+        "「ルコリア！　また　私に逆らおうというのか！": "Lucolia! You dare to defy me again!"
+    },
+    "45": {
+        "「……わざわざ　リゼロッタの字まで　マネして|　ずいぶん　手の込んだ話を作ったものだ。|　子供の空想で　大人を振り回すんじゃない。": "... You even went to the trouble of copying|Liselotta's handwriting to create such an|elaborate story. It's a child's fantasy..."
+    },
+    "46": {
+        "「く……空想なんかじゃ……": "I'm not I'm not imagining"
+    },
+    "47": {
+        "「さっさと　出ていけ！|　もう　二度と　私のジャマをするな！": "Get the fuck out of here! Don't you ever|bother me again!"
+    },
+    "48": {
+        "「まったく　ウチの娘が　とんだ失礼を……。|　大切な集会に　水を差してしまいましたな。": "Oh, my God. My daughter. She's so rude. I'm|sorry to interrupt this important meeting."
+    },
+    "49": {
+        "「いえいえ　お気になさらず。|　今日のところは　ひとまず　お開きにして|　集会の続きは　また後日おこないましょう。": "No, no, no. Don't worry about it. Let's call|it a day, and we'll continue the meeting|later..."
+    },
+    "50": {
+        "「目的は　果たせましたし|　今日のところは　これで失礼いたします。|　悪霊のことは　ぼくに　おまかせください。": "I've done what I came for, so if you'll|excuse me for now... I'll take care of the|demons..."
+    },
+    "51": {
+        "大人たちは　サダクの後に|したがうように　出ていった……。": "The adults followed Sadak out..."
+    },
+    "52": {
+        "「せっかく　準備を手伝っていただいたのに|　こんなカタチで　終わってしまい|　申し訳ありませんでしたな。": "I'm sorry it had to end like this, even|though you helped with the preparations..."
+    },
+    "53": {
+        "「サダクさんの言った通り　安らぎの香のおかげで|　皆さん　途中までは　リラックスして|　お話を聞いていてくれたのですが……。": "As Mr. Sadak said, thanks to the comforting|incense, everyone was relaxed and listening|to us until..."
+    },
+    "54": {
+        "「これにこりず　また|　次の集会に　ご参加ください。|　これは　今回のお礼です。": "Don't let this stop you from joining us at|the next meeting... This is for this..."
+    },
+    "55": {
+        "「……それでは　失礼。": "... So..."
+    },
+    "56": {
+        "「あなたに　取ってきていただきたい|　安らぎの香は　リャナ荒涼地帯にいる|　<%sEV_QUE_NAME0>が　落とすそうなのです。": "The comforting incense you are to fetch is|said to be dropped by <%sEV_QUE_NAME0> in the|Lyanna Wastes..."
+    },
+    "57": {
+        "「そ　そんなことより　姉さんのお墓に……|　お花のひとつでも　供えてきたらどうなの？": "Why don't you go to your sister's grave...|Why don't you go to your sister's grave and|offer her a flower or something?"
     }
 }
