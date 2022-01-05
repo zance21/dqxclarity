@@ -123,7 +123,7 @@
         "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": "If you smelt <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will take <%dM_hh> hours <%dM_mm>|minutes. Do you want to perform pot smelting?|<yesno2><close>"
     },
     "42": {
-        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": ""
+        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": "Once you have smelted <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will be available in <%dM_hh>|hours. Do you want to perform pot smelting?|<yesno2><close>"
     },
     "43": {
         "カラフルブーケの　割り当てを|キャンセルして　戻りますが|よろしいですか？|<yesno><close>": "I'd like to cancel my Colorful Bouquet|assignment and return, if that's all right.<yesno><close>"
