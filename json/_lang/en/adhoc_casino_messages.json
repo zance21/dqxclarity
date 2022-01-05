@@ -48,7 +48,7 @@
         "「イベント期間中は　コイン販売所で|　お祭りコインを購入し　遊んでもらうのである。|<br>|「ただし　『すごろく』では|　通常のカジノコインが　適用される。|<br>|「稼いだコインを使えば　限定交換屋で|　景品と　交換できるのである。|　限定交換屋は　ワガハイの　となりにおるぞ。　|<br>|「余ったコインは　イベント終了後に|　通常のカジノコインに　交換可能である。|　次回には　持ち越せぬので　交換するとよい。": "During the event, you'll be able to purchase|coins at the coin booth to play... However,|in Backgammon, regular casino coins are|<br>|used... If you use the coins you've earned,|you can trade them for prizes at the Limited|Exchange... The limited edition shop is|<br>|located next to the Wagahai... Any leftover|coins can be exchanged for regular casino|coins after the event... You can't carry them|<br>|over to the next event, so you'll have to|exchange them..."
     },
     "17": {
-        "<select_se_off>|討伐報酬を受け取る|討伐報酬をみる|<select_end><break>": ""
+        "<select_se_off>|討伐報酬を受け取る|討伐報酬をみる|<select_end><break>": "<select_se_off>|Claim Subjugation Prize|See Subjugation Prize|<select_end><break>"
     },
     "18": {
         "「<%nL_TOUBATU_COUNT>種　討伐を　達成しているのである。|　では　報酬を　授けるのである。|<bw_break>": "<%nL_TOUBATU_COUNT>You have|achieved the defeat of the species... Then|you will be rewarded...|<br><bw_break>"
