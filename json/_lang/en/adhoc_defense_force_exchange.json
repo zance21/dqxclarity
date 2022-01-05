@@ -117,7 +117,7 @@
         "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
     },
     "40": {
-        "「おぬしが　持っている　宝珠ポイントと|　アイテムを　交換してやろう。|　どれを　交換するのだ？|<break>": "I'll trade you some items for the pearl|points you have... Which one do you want to|trade?<break>"
+        "「おぬしが　持っている　宝珠ポイントと|　アイテムを　交換してやろう。|　どれを　交換するのだ？|<break>": "I can exchange items for your Jewel Points.|Which would you like?|<break>"
     },
     "41": {
         "「他にも　何か　交換するかの？|<break>": "Is there anything else you'd like to trade?<break>"
