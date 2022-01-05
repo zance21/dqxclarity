@@ -39,7 +39,7 @@
         "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金中です。|完成までに　あと　<%dM_hh>時間が必要です。|錬金を　中断しますか？|<yesno2><close>": "I need <%sL_ITEM> <%dL_ITEMNUM> pieces to|smelt... I need <%dM_hh> more hours to|complete... Would you like to abort the|<br>|smelting?<yesno2><close>"
     },
     "14": {
-        "錬金を中断すると　錬金中のアイテムは|完成せずに　錬金中の素材は　手元に戻ります。|本当に　錬金を中断しますか？|<yesno2><close>": ""
+        "錬金を中断すると　錬金中のアイテムは|完成せずに　錬金中の素材は　手元に戻ります。|本当に　錬金を中断しますか？|<yesno2><close>": "If you interrupt the alchemy process, the item|will not be completed and the materials will|be returned to you. Are you sure?|<yesno2><close>"
     },
     "15": {
         "ここでは　錬金釜を使えないようだ。|別の場所で　使ってみよう。|<end>": "You can't use the smelting pot here... You|have to use it somewhere else.<end>"
