@@ -3693,7 +3693,7 @@
         "clarity_nt_char_1231": "clarity_nt_char_1231"
     },
     "1232": {
-        "この宝箱を開けるには　ヒスイのカギが|必要なようだ。|<br>|ヒスイのカギを　ひとつ失いますが|宝箱を　開けますか？<yesno><close>": ""
+        "この宝箱を開けるには　ヒスイのカギが|必要なようだ。|<br>|ヒスイのカギを　ひとつ失いますが|宝箱を　開けますか？<yesno><close>": "It seems you need the Jade Key to open this|treasure chest.|<br>|You will lose a jade key, but will you open|the treasure chest?<yesno><close>"
     },
     "1233": {
         "<speed=0>迷宮に入る前にいた場所に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Would you like to leave the Magic Maze?|Your collected Gold will not be lost.<yesno2><close>"
