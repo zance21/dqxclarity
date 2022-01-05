@@ -1842,7 +1842,7 @@
         "家具＆庭具おきばから <%sL_ITEM>を 取り出した。": "Retrieved <%sL_ITEM> from furniture storage."
     },
     "615": {
-        "<%sM_SKILL>を <%dM_NUM> 個 達人にわたし 宝珠ポイントを かくとく！": ""
+        "<%sM_SKILL>を <%dM_NUM> 個 達人にわたし 宝珠ポイントを かくとく！": "Gave <%dM_NUM> <%sM_SKILL> to the Master|for Jewel Points!"
     },
     "616": {
         "<%sL_OWNER>の畑に 水を　あげた！": "Watered <%sL_OWNER>'s garden!"
@@ -2118,7 +2118,7 @@
         "お店で <%sL_KAITAI_ITEM><%sL_PLUSNUM>を <%dL_BUY_PRICE> フェルドで買った！": "Bought a <%sL_KAITAI_ITEM><%sL_PLUSNUM> from the shop for <%dL_BUY_PRICE> Feld!"
     },
     "707": {
-        "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！": ""
+        "宝珠ポイントを <%dM_NUM> P つかって <%sM_ELEMENT>の飾り石を 手に入れた！": "nope nope nope"
     },
     "708": {
         "clarity_nt_char_708": "clarity_nt_char_708"
@@ -2940,7 +2940,7 @@
         "<%dL_REQUEST_GOLD> G つかって <%sM_ELEMENT>の石版の 穴をふさいだ！": ""
     },
     "981": {
-        "宝珠ポイントを <%dM_NUM> P つかって <%sM_SKILL>を 手に入れた！": ""
+        "宝珠ポイントを <%dM_NUM> P つかって <%sM_SKILL>を 手に入れた！": "not happenin'"
     },
     "982": {
         "clarity_nt_char_982": "clarity_nt_char_982"
