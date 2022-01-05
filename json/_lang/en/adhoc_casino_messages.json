@@ -81,7 +81,7 @@
         "「おや？　おぬしは　ワガハイプロデュースの|　ゴージャスな　カジノイベントに|　まだ　参加したことが　ないのであるな？|<br>|「今は　次のイベントの　準備中である。|　ジャックポットでも　狙いながら|　次の機会を　楽しみに　待っているとよいぞ。|<end>": "Hmm? You've never been to one of these|gorgeous casino events produced by Waga Hai,|have you? I'm preparing for the next event...|<br>|I'll be waiting for the next opportunity to|hit the jackpot.<end>"
     },
     "28": {
-        "<select_se_off>|ランキングをみる|レイド討伐報酬|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|ランキングをみる|レイド討伐報酬|説明を聞く|<select_end><break>": "<select_se_off>|See Rankings|Raid Subjugate Prize|Explanation|<select_end><break>"
     },
     "29": {
         "<select_se_off>|ランキングをみる|レイド討伐報酬|コインチェンジ|説明を聞く|<select_end><break>": "<select_se_off>|See Rankings|Raid Subjugate Prize|Coin Change|Explanation|<select_end><break>"
