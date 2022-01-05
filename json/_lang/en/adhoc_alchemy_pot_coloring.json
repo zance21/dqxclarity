@@ -27,7 +27,7 @@
         "錬金釜で　<%sL_ITEM>　<%dL_ITEMNUM>個の|錬金を開始しました！|完成は　<%dM_hh>時間後です。|<end>": "The smelting pot has begun smelting|<%sL_ITEM> <%dL_ITEMNUM> pieces! Completion|in <%dM_hh> hours...<end>"
     },
     "10": {
-        "錬金釜での錬金を 中断しました": ""
+        "錬金釜での錬金を 中断しました": "The alchemy process has been interrupted."
     },
     "11": {
         "どうぐかばんが　いっぱいで|錬金素材を　受け取れません。|錬金は　中断できませんでした。|<br>|錬金を中断するには　錬金中の素材を|全て　受け取る必要があります。|どうぐかばんに　空きを作ってください。|<end>": "My glove compartment is full. I can't get my|alchemy materials... Alchemy cannot be|interrupted... To interrupt smelting, you|<br>|must receive all the materials you're|smelting... Please make room in the|toolbox...<end>"
