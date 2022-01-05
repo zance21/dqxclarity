@@ -117,7 +117,7 @@
         "<color_yellow>|錬金釜の　使い方　変更のお知らせです！|<br>|錬金釜に　素材をいれると|錬金がすぐ完了し　作成されたアイテムが|その場で　取り出せるようになりました。|<br>|アイテムを取り出したら　レシピに書かれた|チャージ時間が始まります。チャージ時間が|過ぎたら　次の錬金を行えるようになります。|<br>|もちろん　ログアウト中でも|チャージ時間は　経過していくので|安心して　錬金してください。|<br>|錬金釜で　色々なものを錬金し|冒険生活に　役立ててみてください！|<end>": "<color_yellow>We've changed the way you use the alchemy|pot! When you put an ingredient into the|smelting pot, the smelting process will be|<br>|completed immediately and you can take out|the created item on the spot. Once the item|is removed, the charge time written in the|<br>|recipe will begin. After the charge time is|up, you can start the next alchemy. Of|course, even if you're logged out, the charge|<br>|time will still elapse, so don't worry about|smelting... Use the alchemy kettle to smelt|all sorts of things and use them in your|<br>|adventures!<end>"
     },
     "40": {
-        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": ""
+        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": "If you alchemize <%dL_ITEMNUM> <%sL_ITEM>,|it will be <%dM_mm> minutes before you can alchemize|again. Do you want to perform pot alchemy?|<yesno2><close>"
     },
     "41": {
         "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": ""
