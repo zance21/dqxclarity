@@ -105,7 +105,7 @@
         "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
     },
     "36": {
-        "「練習試合では　所属するチームを選べるが|　どちらが　よいかな？|<break>": ""
+        "「練習試合では　所属するチームを選べるが|　どちらが　よいかな？|<break>": "In practice games, you can choose which team|to play for. Which would you prefer?|<break>"
     },
     "37": {
         "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|At my club|In any club|<select_end>|<break>"
