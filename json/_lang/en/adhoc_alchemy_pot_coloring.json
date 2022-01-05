@@ -12,7 +12,7 @@
         "錬金釜で　<%sL_ITEM>　<%dL_ITEMNUM>個が|完成しています！|今すぐ　取り出しますか？|<yesno><close>": "There are <%sL_ITEM> <%dL_ITEMNUM> pieces|finished in the smelting pot! Would you like|to retrieve them now?<yesno><close>"
     },
     "5": {
-        "<%sL_ITEM>の錬金が 完了しました": ""
+        "<%sL_ITEM>の錬金が 完了しました": "The <%sL_ITEM> has been completed."
     },
     "6": {
         "<pc>は　錬金釜で|<%sL_ITEM>を作成した！|<br>|<pc>は|<%sL_ITEM>を <%dL_ITEMNUM>個 手に入れた！<se_nots System 7>": "<pc>  has created <%sL_ITEM> in the alchemy|cauldron!<pc> got <%dL_ITEMNUM> of <%sL_ITEM>!|<se_nots System 7>"
