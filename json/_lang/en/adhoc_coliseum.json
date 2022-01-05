@@ -192,7 +192,7 @@
         "「『公式バトル』への　エントリーですね？|　では　パーティメンバーと対戦相手の決定後に|　バトルマップに移動します。よろしいですか？|<yesno><break>": "You're entering an official battle, right?|Now, once you've chosen your party members|and your opponents, we'll move on to the|<br>|battle map... Are you ready?<yesno><break>"
     },
     "65": {
-        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|説明を聞く|<select_end><break>": "<select_se_off>|Battle Grand Prix|Practice Battle|See Rewards/Records|Explanation|<select_end><break>"
     },
     "66": {
         "「戦いの社交場　コロシアムへ　ようこそ！|　<pc>さんは　現在ペナルティ中のため|　あと<%nC_PENALTY>分　バトルに参加できません。|<break>": "Welcome to the Coliseum, the ballroom of war!<pc> You are currently under penalty and will not|be able to participate in the battle for|another <%nC_PENALTY>...<break>"
@@ -675,7 +675,7 @@
         "「『バトルグランプリ』への　エントリーですね？|　では　パーティメンバーと対戦相手の決定後に|　バトルマップに移動します。よろしいですか？|<yesno><break>": "You're entering the Battle Grand Prix, right?|Now, once you've chosen your party members|and your opponents, we'll move on to the|<br>|battle map... Are you ready?<yesno><break>"
     },
     "226": {
-        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|説明を聞く|<select_end><break>": "<select_se_off>|Battle Grand Prix|Practice Battle|See Rewards/Records|Explanation|<select_end><break>"
     },
     "227": {
         "<select_se_off>|ランクアップ報酬|ランキング報酬|グランプリの記録|公式バトルの記録|<select_end><break>": "<select_se_off>|Rank Up Reward|ranking reward|Grand Prix records|Official Battle Records|<select_end><break>"
