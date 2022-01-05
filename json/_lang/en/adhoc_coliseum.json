@@ -699,7 +699,7 @@
         "<select_se_off>|公式バトル|練習バトル|報酬や記録を見る|説明を聞く|<select_end><break>": ""
     },
     "234": {
-        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|レンタル衣装を借りる|説明を聞く|<select_end><break>": "<select_se_off>|Battle Grand Prix|Practice battles|View rewards and records|Rent a costume|Listen to the explanation|<select_end><break>"
+        "<select_se_off>|バトルグランプリ|練習バトル|報酬や記録を見る|レンタル衣装を借りる|説明を聞く|<select_end><break>": "<select_se_off>|Battle Grand Prix|Practice Battle|See Rewards/Records|Rent Costume|Explanation|<select_end><break>"
     },
     "235": {
         "「ステータス|<end>": "status|<end>"
