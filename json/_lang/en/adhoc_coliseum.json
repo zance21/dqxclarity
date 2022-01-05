@@ -282,7 +282,7 @@
         "「戦いの社交場　コロシアムへ　ようこそ！|　<pc>さん。本日は　どうなさいますか？|<break>": "Welcome to the Coliseum, the ballroom of war!<pc> Mr. What can I do for you today?<break>"
     },
     "95": {
-        "<select_se_off>|公式バトル|練習バトル|報酬や記録を見る|レンタル衣装を借りる|説明を聞く|<select_end><break>": "<select_se_off>|Official Battle|Practice battles|View rewards and records|Rent a costume|Listen to the explanation|<select_end><break>"
+        "<select_se_off>|公式バトル|練習バトル|報酬や記録を見る|レンタル衣装を借りる|説明を聞く|<select_end><break>": "<select_se_off>|Official Battle|Practice Battle|See Rewards/Records|Rent Costume|Explanation|<select_end><break>"
     },
     "96": {
         "<%sc_rank>ランクになった報酬として|ふくびき券３枚を　手に入れた！|<se_nots System 7>|<br>|「引き続き　<pc>さんの|　ご活躍を期待しておりますよ！|<bw_break>": "Got 3 vouchers as a reward for being|<%sc_rank> ranked!|<se_nots System 7>| |in succession<pc> We're looking forward to seeing you in|action, sir!<bw_break>"
