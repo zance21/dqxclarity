@@ -120,7 +120,7 @@
         "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_mm>分後になります。|釜錬金を　行いますか？|<yesno2><close>": "If you alchemize <%dL_ITEMNUM> <%sL_ITEM>,|it will be <%dM_mm> minutes before you can alchemize|again. Do you want to perform pot alchemy?|<yesno2><close>"
     },
     "41": {
-        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": ""
+        "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間<%dM_mm>分後に|なります。釜錬金を　行いますか？|<yesno2><close>": "If you smelt <%dL_ITEMNUM> <%sL_ITEM>,|the next pot smelting will take <%dM_hh> hours <%dM_mm>|minutes. Do you want to perform pot smelting?|<yesno2><close>"
     },
     "42": {
         "<%sL_ITEM>　<%dL_ITEMNUM>個を　錬金すると|次に　釜錬金ができるのは　<%dM_hh>時間後に|なります。釜錬金を　行いますか？|<yesno2><close>": ""
