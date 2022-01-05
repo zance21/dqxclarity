@@ -84,7 +84,7 @@
         "<select_se_off>|ランキングをみる|レイド討伐報酬|説明を聞く|<select_end><break>": ""
     },
     "29": {
-        "<select_se_off>|ランキングをみる|レイド討伐報酬|コインチェンジ|説明を聞く|<select_end><break>": "<select_se_off>|See the ranking|Reward for defeating raids|coin change|Listen to the explanation|<select_end><break>"
+        "<select_se_off>|ランキングをみる|レイド討伐報酬|コインチェンジ|説明を聞く|<select_end><break>": "<select_se_off>|See Rankings|Raid Subjugate Prize|Coin Change|Explanation|<select_end><break>"
     },
     "30": {
         "「今は　次のイベントの　準備中である。|<break>": "Right now, we're preparing for our next|event...<break>"
