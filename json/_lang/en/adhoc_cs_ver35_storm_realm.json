@@ -450,7 +450,7 @@
         "「なぜ　戦おうとしないのですか……。": "Why don't you try to fight..."
     },
     "151": {
-        "「大丈夫　<cs_pchero>！？": ""
+        "「大丈夫　<cs_pchero>！？": "<cs_pchero>, are you okay?!"
     },
     "152": {
         "「私……　あなたに|　危険が迫っていると　感じて……|　ここまで　来てしまったの。": "I... I sensed that you were in danger. I've|come so far..."
@@ -768,7 +768,7 @@
         "「テキスト削除": "text deletion"
     },
     "257": {
-        "「翠嵐の聖塔は　この町の西に広がる|　迅雷の丘の北西に　あります。": ""
+        "「翠嵐の聖塔は　この町の西に広がる|　迅雷の丘の北西に　あります。": "The Storm Tower is located in the northwestern|part of Thunder Hill."
     },
     "258": {
         "「あなたならば　死の運命すら|　乗り越えてくれると　私は　信じています。": "I have faith that you will overcome even your|own mortality."
@@ -1038,7 +1038,7 @@
         "「創生の霊核を奪うため　教団に潜入した際|　私のチカラが及ばず　囚われてしまったのです。": "When I infiltrated the cult to steal the|Spiritual Core of Creation, my powers were|not enough to hold me captive..."
     },
     "347": {
-        "「創生の霊核…………？": ""
+        "「創生の霊核…………？": "Spiritual Core of Creation...?"
     },
     "348": {
         "「ナドラガ神の復活の　カギとなるものです。|　大神殿の地下　その奥深くに|　厳重に　隠されていました。": "The key to the return of the god Nadraga...|Hidden deep beneath the Great Temple..."
