@@ -357,7 +357,7 @@
         "「落ち着きなさい　タツノギ。|　この者に　話を聞かせてもらいましょう。": "Calm down, Tatsunogi. Let us speak to this|one."
     },
     "120": {
-        "<cs_pchero>は　これまでの出来事を|神獣アマカムシカに　語って聞かせた。": "<cs_pchero> told Amakamushika"
+        "<cs_pchero>は　これまでの出来事を|神獣アマカムシカに　語って聞かせた。": "<cs_pchero> told Amakamushika|everything that had happened."
     },
     "121": {
         "「私が　悪しき業風から逃れて|　この泉で　身をいやしている間に|　そのようなことが　起こっていたとは……。": "That such a thing could have happened while I|was healing myself in this fountain, escaping|the evil karma..."
@@ -402,7 +402,7 @@
         "「<pc>　烈風の岬を渡りたいのですね。|　ならば　私に乗ってください。": "<pc> I want to cross the Cape of Gales... Then|ride with me..."
     },
     "135": {
-        "「さあ　お行きなさい。|　あなたに　エルドナ神のご加護を……。": "There you go... May the god Erdna bless|you..."
+        "「さあ　お行きなさい。|　あなたに　エルドナ神のご加護を……。": "There you go... May the god Eldona bless|you..."
     },
     "136": {
         "「ナダイアさまが　たまわったという|　ご神託のとおり……。": "Just as Nadya said she was told..."
@@ -426,7 +426,7 @@
         "「それなのに　あなたは|　その救済への道を　閉ざすべく　現れた。|　もはや　見過ごすことは　できません！": "And yet, you have tried to close off the path|to redemption... I can no longer overlook|this!"
     },
     "143": {
-        "「エステラさま。|　ここは　おまかせください！": "Esthetics... I'll take care of this!"
+        "「エステラさま。|　ここは　おまかせください！": "Lady Estella. "
     },
     "144": {
         "「この反逆者の相手は　私たちがします。|　エステラさまは　復活の儀式を！": "This traitor we are dealing with... Lady|Estella has performed the resurrection|ritual!"
