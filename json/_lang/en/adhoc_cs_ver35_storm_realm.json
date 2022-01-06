@@ -1467,13 +1467,13 @@
         "「だから　恥を忍んで　頼みたい……。|　どうか　代わりに　守護者たちと|　戦ってはくれまいか……？<yesno><close>": "I'm ashamed to ask this of you, but...|Will you please fight the guardian in our|stead?<yesno><close>"
     },
     "490": {
-        "「頼めた義理でないのは　承知の上だ。|　それでも　どうか……頼む。|　守護者たちと　戦ってはくれまいか……？<yesno><close>": "I know it's not my place to ask. But please...|I'm begging you. Will you fight the guardian|in our stead...?"
+        "「頼めた義理でないのは　承知の上だ。|　それでも　どうか……頼む。|　守護者たちと　戦ってはくれまいか……？<yesno><close>": "I know it's not my place to ask. But please...|I'm begging you. Will you fight the guardian|in our stead...?<yesno><close>"
     },
     "491": {
-        "「……ありが…と……う。": "... Thank you... and ...."
+        "「……ありが…と……う。": "Th...ank yo...u...."
     },
     "492": {
-        "「<cs_pchero>さん……。": "<cs_pchero>Miss..."
+        "「<cs_pchero>さん……。": "<cs_pchero>..."
     },
     "493": {
         "「ナドラガンドに　真の救済を。|　それこそが　我らの神の望むものなり。": "Nadragand is the true... That's what our gods|want..."
