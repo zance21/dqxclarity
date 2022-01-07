@@ -300,7 +300,7 @@ def scan_for_adhoc_files():
                 csv_result = query_csv(hex_result)
                 if csv_result:
                     file = csv_result['file']
-                    if 'adhoc' in file:
+                    if 'adhoc_wd_' in file:
                         hex_to_write = bytes.fromhex(generate_hex(file))
                         text_address = get_start_of_game_text(index_address)
                         if text_address:

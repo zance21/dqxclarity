@@ -31,7 +31,8 @@ cutscene_trigger = rb'\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
 
 # function that is triggered when a quest window opens. used for translating quest text
 # 8B 34 24 8D 64 24 04 8D 64 24 04 E9 ?? ?? ?? ?? 8D 64 24 FC 89 4C
-quest_text_trigger = rb'\x8B\x34\x24\x8D\x64\x24\x04\x8D\x64\x24\x04\xE9....\x8D\x64\x24\xFC\x89\x4C'
+# quest_text_trigger = rb'\x8B\x34\x24\x8D\x64\x24\x04\x8D\x64\x24\x04\xE9....\x8D\x64\x24\xFC\x89\x4C' // this works, but breaks because of AC in combat
+quest_text_trigger = rb'\x8D\x8E\x78\x04\x00\x00\xE8....\x5F'
 
 # function that is triggered when walkthrough text is displayed on the screen.
 # read what's at esi here to get the address where the text is. overwrite to have it on the screen
@@ -46,6 +47,10 @@ cutscene_start = rb'\x89\x81\x44\x04\x00\x00\x8B'
 # DQX functions / addresses that will likely
 # change after each patch.
 #############################################
+# Main walkthrough text that loads on login. I can't figure out what function loads this on login,
+# so scanning for this for now. AC is also preventing this from just being accessible via hooks.
+# A0 ?? ?? ?? 00 00 00 00 04 02 00 00 10 00 00 00 E?
+walkthrough_pattern = rb'\xA0...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
 # Byte at this address changes for loading screens only. Not able to determine if you're in a cutscene.
 # You can figure out how to get *back* to this dynamic address by BP'ing at this AOB: 

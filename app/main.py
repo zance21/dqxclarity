@@ -67,7 +67,7 @@ def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=Fals
             Process(name='Player name scanner', target=scan_for_player_names, args=()).start()
         if npc_names:
             Process(name='NPC scanner', target=scan_for_npc_names, args=()).start()
-        #Process(name='Adhoc scanner', target=scan_for_adhoc_files, args=()).start()
+        Process(name='Adhoc scanner', target=scan_for_adhoc_files, args=()).start()
     except WinAPIError:
         sys.exit(click.secho('Can\'t find DQX process. Exiting.', fg='red'))
 

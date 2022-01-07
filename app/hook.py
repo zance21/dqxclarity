@@ -313,7 +313,7 @@ def quest_text_detour(debug: bool):
     '''
     Hook the quest dialog window and translate to english.
     '''
-    bytes_to_steal = 7
+    bytes_to_steal = 6
 
     pre_hook = write_pre_hook_registers()
     eax = pre_hook['reg_eax']
@@ -399,7 +399,7 @@ def activate_hooks(debug: bool):
     hooks.append(cutscene_started_detour())
     hooks.append(translate_detour(debug))
     hooks.append(cutscene_detour())
-    #hooks.append(quest_text_detour(debug)) // leaving disabled until can figure out how to hide from checks
+    hooks.append(quest_text_detour(debug)) #// leaving disabled until can figure out how to hide from checks
 
     # any hooks that need to perform unhooking should be defined here
     unhookers = ['cutscene_started_detour']
