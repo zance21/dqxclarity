@@ -1845,19 +1845,19 @@
         "「あの者は　<cs_pchero>さんの|　命を奪うほどに　手強い……。|　覚悟を決めて　進みましょう。": "That guy was strong enough to even take|<pc>'s life... We have to be prepared|for anything."
     },
     "616": {
-        "「……心配ないさ。": "... Worry..."
+        "「……心配ないさ。": "...Don't worry."
     },
     "617": {
-        "<if_woman>「姉ちゃんのことは　今度こそ……|　おいらが守るから！<else>「兄ちゃんのことは　今度こそ……|　おいらが守るから！<endif>": "<if_woman>I'll protect you this time... I'll protect|you!<else>I'll protect you this time... I'll protect|you!<endif>"
+        "<if_woman>「姉ちゃんのことは　今度こそ……|　おいらが守るから！<else>「兄ちゃんのことは　今度こそ……|　おいらが守るから！<endif>": "<if_woman>This time... I'll protect you, sis!<else>This time... I'll protect you, bro!<endif>"
     },
     "618": {
-        "「……心配ねえよ。": "... Worry..."
+        "「……心配ねえよ。": "...Don't worry."
     },
     "619": {
-        "「……心配ないわ。": "... Worry..."
+        "「……心配ないわ。": "...Don't worry."
     },
     "620": {
-        "「……心配ないよ。": "... Worry..."
+        "「……心配ないよ。": "...Don't worry."
     },
     "621": {
         "「<cs_pchero>のことは　今度こそ……|　俺が守る！": "<cs_pchero>This time... I'll protect you!"
