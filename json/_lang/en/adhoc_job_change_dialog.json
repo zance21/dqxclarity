@@ -87,7 +87,7 @@
         "「何を　望むのかね？|<break>": "What do you want from me?<break>"
     },
     "30": {
-        "「何を　お望みですか？|<break>": "What can I do for you, sir?<break>"
+        "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
     },
     "31": {
         "「レベルを上げて覚えた呪文は|　覚えた職業でしか使えない　専用のものだ。|　なので　転職すると　使えなくなってしまう。|<br>|「しかし　『スキルふりわけ』で習得した特技には|　転職すると使えなくなってしまう専用特技と|　転職しても使える特技の　２種類があるのだ。|<br>|「『スキルふりわけ』や　『つよさ』コマンドで|　見た時に（専）と書かれているのが専用特技だ。|　じっくりと　確認してみるとよかろう。|<end>": "You level up, you learn a spell, and it's|only available to you in the job you learned|it for. So if you change jobs, you can't use|<br>|them anymore... But there are two types of|spells you can learn with Skill Transfer:|those that are exclusive to your new job, and|<br>|those that you can use even after you change|jobs. If you're looking at the \"Skill Recall\"|or \"Strength\" command, you'll see the word|<br>|\"exclusive\"... You'll have to check it out|carefully...<end>"
@@ -228,7 +228,7 @@
         "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the place of Dharma... People who|want to change professions come here... What|can I do for you?|<br><break>"
     },
     "77": {
-        "「何を　お望みですか？|<break>": "What can I do for you, sir?<break>"
+        "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
     },
     "78": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。まず　最初に|　新たな能力に　目覚めることでしょう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのです。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがあります。|　その技で　とどめをさす必要はありません。|<bw_break>": "Now, from now on, you will live as|<%sM_new_syokugyou>... The first|thing you need to do is wake up to a new|<br>|ability... <%sM_self> has learned|the Scout Attack feat!|<se_nots System 17>And that's why it's so important to use your|scouting skills... You use the scout attack|on a monster you want to join... If you win|<br>|the battle after using the scout attack, the|monster may wake up and join you. You don't|have to finish him off with that move...|<br><bw_break>"
@@ -309,7 +309,7 @@
         "「何を　望むのかね？|<break>": "What do you want from me?<break>"
     },
     "104": {
-        "「何を　お望みですか？|<break>": "What can I do for you, sir?<break>"
+        "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
     },
     "105": {
         "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the place of Dharma... People who|want to change professions come here... What|can I do for you?|<br><break>"
