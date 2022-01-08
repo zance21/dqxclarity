@@ -102,7 +102,7 @@
         "「ああっ　なんと……|　すべての女神の木が　最大まで成長しました。|　もう　これ以上は　上がりませんよ！|<br>|「まさか　すべての女神の木の成木を|　この目で　見られる日が来るなんて……。|　研究者冥利に　尽きます！　|<br>|「これも　<pc>さんが|　一緒に育ててくれた　おかげですね。|　本当に　ありがとうございます。|<br>|「でも　今まで通り|　庭の見た目を変えたくなったら|　いつでも　会いにきてくださいね！|<bw_break>": "Oh, my...! All of the Goddess Trees have grown|to their maximum. They can't grow any more!|<br>|I never thought the day would come where|I'd see all of the Goddess Trees fully grown|with my own eyes... I'm so happy!|<br>|It's all thanks to your efforts, <pc>.|We raised them together, and I can't thank|you enough.|<br>|As always, if you'd like to change the|garden's look, please come and see me!|<bw_break>"
     },
     "35": {
-        "「でも　僕の見立てでは　女神の木は　まだまだ|　成長する可能性を　秘めているはず……。|<br>|「女神の木が　次の段階に|　成長するときが　来るまで|　気長に　待っていてくださいね！|<bw_break>": "But as I see it, the Goddess Tree still has a|lot of potential to grow... Until the time|comes for the tree to grow to its next level,|<br>|please be patient!<bw_break>"
+        "「でも　僕の見立てでは　女神の木は　まだまだ|　成長する可能性を　秘めているはず……。|<br>|「女神の木が　次の段階に|　成長するときが　来るまで|　気長に　待っていてくださいね！|<bw_break>": "The way I see it, the Goddess Tree still has|a lot of potential for growth...|<br>|Please be patient until the Goddess Tree|grows to its next stage!|<bw_break>"
     },
     "36": {
         "「<%sM_TREE_NAME>を|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。|<br>|「成長までに　今から|　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。|　よろしいですか？|<yesno><close>": "Growing <%sM_TREE_NAME> from level|<%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>... It looks like it will|<br>|take <%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_M|IN_UNIT> from now to grow... Are you sure?<yesno><close>"
