@@ -1860,13 +1860,13 @@
         "「……心配ないよ。": "...Don't worry."
     },
     "621": {
-        "「<cs_pchero>のことは　今度こそ……|　俺が守る！": "<cs_pchero>This time... I'll protect you!"
+        "「<cs_pchero>のことは　今度こそ……|　俺が守る！": "This time... I'll protect you, <cs_pchero>!"
     },
     "622": {
-        "「<cs_pchero>のことは　今度こそ……|　あたしが守るから！": "<cs_pchero>I'll protect you this time... I'll protect|you!"
+        "「<cs_pchero>のことは　今度こそ……|　あたしが守るから！": "This time... I'll protect you, <cs_pchero>!"
     },
     "623": {
-        "<if_woman>「お姉ちゃんのことは　今度こそ……|　私が守るから！<else>「お兄ちゃんのことは　今度こそ……|　私が守るから！<endif>": "<if_woman>I'll protect you this time... I'll protect|you!<else>I'll protect you this time... I'll protect|you!<endif>"
+        "<if_woman>「お姉ちゃんのことは　今度こそ……|　私が守るから！<else>「お兄ちゃんのことは　今度こそ……|　私が守るから！<endif>": "<if_woman>This time... I'll protect you, sis!<else>This time... I'll protect you, bro!<endif>"
     },
     "624": {
         "「ありがとうございます　<pc>殿。": "Thank you<pc> Temple."
