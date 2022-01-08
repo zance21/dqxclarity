@@ -129,10 +129,10 @@
         "「研究用の庭には　不思議な生き物が|　住み着いているようです。|　あれは　いったい　なんなんですかね……。|<br>|「オルガノさんは　庭を荒らす魔物じゃないかって|　警戒しているみたいでしたけど　僕は|　女神の木を見守る精霊だと　信じています。|<br>|「なにより　フワフワ動いて　かわいらしい|　あの姿が　僕は　大好きなんです！|　……<pc>さんも　そう思いませんか？|<bw_break>": "Looks like a strange creature has taken a|liking to the research garden... I wonder|what that's all about...?|<br>|Mr. Organo was wary that it might be a demon|trying to destroy the garden, but I think it's|just a spirit watching over the Goddess Tree.|<br>|More than anything, it's so cute and fluffy!|I love the way it moves around!|<br>|Don't you think so too, <pc>?|<bw_break>"
     },
     "44": {
-        "「源世植物研究所に　戻りますか？|<yesno><close>": ""
+        "「源世植物研究所に　戻りますか？|<yesno><close>": "Will you to return to the World Botany|Research?<yesno><close>"
     },
     "45": {
-        "「おや　源世植物研究所へ　ようこそ。|　僕はここで　ある植物の研究をしているのですが|　調査が　思うように進まなくて……。|<br>|「ああ……　どこかに　パニガルムを|　踏破できるような　屈強な冒険者は|　いないでしょうか……。": "Hi, I'm here at the Genji Botanical Research|Center. I'm working on a plant here, but my|research hasn't been going as well as I'd|<br>|hoped, so... Oh... I was wondering if there|were any adventurers strong enough to|traverse Panigarm..."
+        "「おや　源世植物研究所へ　ようこそ。|　僕はここで　ある植物の研究をしているのですが|　調査が　思うように進まなくて……。|<br>|「ああ……　どこかに　パニガルムを|　踏破できるような　屈強な冒険者は|　いないでしょうか……。": "Hello, welcome to the World Botany Research.|I'm doing some research on a plant here, but|it's not going so well...|<br>|Oh... is there a strong adventurer out there|brave enough to traverse Panigalm...?"
     },
     "46": {
         "「<%sM_THEME_NAME>を　元の状態に戻しますか？|<yesno><close>": ""
