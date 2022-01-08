@@ -564,10 +564,10 @@
         "「あれほど……|　来ちゃダメって　言ったのに……。": "I told you... I told you not to come...."
     },
     "189": {
-        "「おいらの……せいだね……。": "It's my... It's your fault..."
+        "「おいらの……せいだね……。": "I guess this is... my fault, isn't it..."
     },
     "190": {
-        "<if_woman>「姉ちゃん……ごめん。|　…………逃げ……て。<else>「兄ちゃん……ごめん。|　…………逃げ……て。<endif>": "<if_woman>Sis: ...... ... Escape....<else>My brother ...... ... Escape....<endif>"
+        "<if_woman>「姉ちゃん……ごめん。|　…………逃げ……て。<else>「兄ちゃん……ごめん。|　…………逃げ……て。<endif>": "<if_woman>My sister... I'm sorry.|Get out... of here....<else>My brother... I'm sorry.|Get out... of here...<endif>"
     },
     "191": {
         "「……解放者さまには　感謝しております。": "... I'd like to thank the Liberator..."
