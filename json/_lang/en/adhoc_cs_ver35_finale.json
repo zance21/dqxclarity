@@ -1152,19 +1152,19 @@
         "<if_woman>「行こう……姉ちゃん！！<else>「行こう……兄ちゃん！！<endif>": "<if_woman>Let's go... Hey, sis!<else>Let's go... Brother!<endif>"
     },
     "385": {
-        "「クロウズさんっ！！": "Mr. Clowes!"
+        "「クロウズさんっ！！": "Claws!!"
     },
     "386": {
-        "「クロウズさんっ！！": "Mr. Clowes!"
+        "「クロウズさんっ！！": "Claws!!"
     },
     "387": {
-        "「クロウズさんっ！！": "Mr. Clowes!"
+        "「クロウズさんっ！！": "Claws!!"
     },
     "388": {
-        "「人は　自らの運命に　立ち向かっていけるぜ！|　<cs_pchero>なら　それを証明してくれる！": "A man can face his destiny!<cs_pchero>Then you can prove it!"
+        "「人は　自らの運命に　立ち向かっていけるぜ！|　<cs_pchero>なら　それを証明してくれる！": "Man can face his own destiny!|<cs_pchero> will prove it to you!"
     },
     "389": {
-        "「人は　自らの運命に　立ち向かっていけるわ！|　<cs_pchero>なら　それを証明してくれる！": "A man can face his destiny!<cs_pchero>Then you can prove it!"
+        "「人は　自らの運命に　立ち向かっていけるわ！|　<cs_pchero>なら　それを証明してくれる！": "Man can face his own destiny!|<cs_pchero> will prove it to you!"
     },
     "390": {
         "<if_woman>「人は　自らの運命に　立ち向かっていけるよ！|　お姉ちゃんなら　それを証明してくれるよね！<else>「人は　自らの運命に　立ち向かっていけるよ！|　お兄ちゃんなら　それを証明してくれるよね！<endif>": "<if_woman>A man can face his own destiny! I know you|can prove it!<else>A man can face his own destiny! I know you'll|prove it to me!<endif>"
