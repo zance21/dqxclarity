@@ -18,13 +18,13 @@
         "「あっ　聞いてください　<pc>さん！　|　どうやら　女神の木が　時間を経て|　さらに成長できるように　変化したようです。|<br>|「女神の木の生態は　とても興味深いですね。|　メモメモっと……。さあ　今日もはりきって|　育てていきましょう！　さて……|<bw_break>": "Ah, <pc>, please listen! It seems that|the Goddess Tree is altered over time,|allowing for further growth.|<br>|The tree's biology is quite interesting,|isn't it? Yes, yes... Let's go ahead and start|growing for today! Now then...|<bw_break>"
     },
     "7": {
-        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|庭の見た目を変える|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I get for you?|<select_se_off>|bring up|Change the look of your garden|Review how to grow|Listen to the explanation|<select_end>|<close>"
+        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|庭の見た目を変える|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I do for you?|<select_se_off>|Grow|Change Garden Appearance|Review Growing|Explanation|<select_end>|<close>"
     },
     "8": {
-        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I get for you?|<select_se_off>|bring up|Review how to grow|Listen to the explanation|<select_end>|<close>"
+        "「さあ　何を　ご希望ですか？|<select_se_off>|育てる|育て方をおさらいする|説明を聞く|<select_end>|<close>": "So, what can I do for you?|<select_se_off>|Grow|Review Growing|Explanation|<select_end>|<close>"
     },
     "9": {
-        "「また　いつでも　来てくださいね。|　<pc>さん！|<end>": "You're welcome to come back anytime...<pc> Three!<end>"
+        "「また　いつでも　来てくださいね。|　<pc>さん！|<end>": "You're welcome to come back any time,|<pc>!|<end>"
     },
     "10": {
         "「どの　女神の木を　育てますか？|<end>": "Which goddess tree will you grow?<end>"
