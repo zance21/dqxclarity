@@ -642,13 +642,13 @@
         "「<cs_pchero>……すまねえ。|　…………逃げ……ろ。": "<cs_pchero>... I'm sorry.|Get out... of here..."
     },
     "215": {
-        "「<cs_pchero>……ごめんね。|　…………逃げ……て。": "<cs_pchero>... I'm srry.|Get out.. of here..."
+        "「<cs_pchero>……ごめんね。|　…………逃げ……て。": "<cs_pchero>... I'm sorry.|Get out.. of here..."
     },
     "216": {
         "<if_woman>「お姉ちゃん……ごめんなさい。|　…………逃げ……て。<else>「お兄ちゃん……ごめんなさい。|　…………逃げ……て。<endif>": "<if_woman>My sister... I'm so sorry.|Get out... of here....<else>My brother... I'm so sorry.|Get out... of here...<endif>"
     },
     "217": {
-        "「……こいつって　こんなに　ダチがいたんだな。": "...I didn't know they had so many friends."
+        "「……こいつって　こんなに　ダチがいたんだな。": "...I didn't realize they had so many friends."
     },
     "218": {
         "「こんな　世界の果てまでも|　ぼくたちを　探しにきてくれる人ですから。": "They were the kind of person that come looking|for us, even to the ends of the earth."
