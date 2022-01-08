@@ -48,7 +48,7 @@
         "「……む？　お前は|　いまわしき呪いに　おかされておるの。<br>|「教会に行き　呪いのけがれを|　はらってから　また来るがよい。": "... No? You are under a terrible curse. I'll|go to the church, cleanse myself of the|curse, and come back...|<br>"
     },
     "17": {
-        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Temple of Dharma, the seat of the|changeling... People come here to change|their profession... What can I do for you?|<br><break>"
+        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Temple of Dharma, the place to|change vocations. Those who wish to change|their vocations come here. What do you need?|<break>"
     },
     "18": {
         "「どの職業になることを　望みますか？|<break>": "What career do you hope to pursue?<break>"
@@ -315,13 +315,13 @@
         "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the place of Dharma... People who|want to change professions come here... What|can I do for you?|<br><break>"
     },
     "106": {
-        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the Temple of Dharma, the seat of the|changeling... Those who wish to change their|profession... What do you wish to do?|<br><break>"
+        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所だ。|　何を　希望されるか？|<break>": "This is the Temple of Dharma, the place to|change vocations. Those who wish to change|their vocations come here. What do you need?|<break>"
     },
     "107": {
-        "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Temple of Dharma, the seat of the|changeling... \"Those who wish to change their|occupation come...|<br><bw_break>"
+        "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Temple of Dharma, the place to|change vocations. Those who wish to change|their vocations come here.|<bw_break>"
     },
     "108": {
-        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Temple of Dharma, the seat of the|changeling... People come here to change|their profession... What can I do for you?|<br><break>"
+        "「ここは　転職をつかさどる　ダーマの神殿|　出張所。職業を変えたい者が　来る所です。|　何を　お望みですか？|<break>": "This is the Temple of Dharma, the place to|change vocations. Those who wish to change|their vocations come here. What do you need?|<break>"
     },
     "109": {
         "「何について　ご説明しましょうか？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What would you like me to tell you about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Special Training Mode|<select_end>|<break>"
@@ -519,7 +519,7 @@
         "「ここは　転職をつかさどる　ダーマの神殿。|　職業を変えたい者が　来る所です。|<bw_break>": "This is the place of Dharma... People who|want to change professions come here...<bw_break>"
     },
     "174": {
-        "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the Temple of Dharma, the seat of the|changeling... Those who wish to change their|profession...|<br><bw_break>"
+        "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所だ。|<bw_break>": "This is the Temple of Dharma, the place to|change vocations. Those who wish to change|their vocations come here.|<bw_break>"
     },
     "175": {
         "「ここは　転職をつかさどる|　ダーマの神殿　出張所。|　職業を変えたい者が　来る所じゃ。|<bw_break>": "This is the Temple of Dharma, the seat of the|changeling... \"Those who wish to change their|occupation come...|<br><bw_break>"
