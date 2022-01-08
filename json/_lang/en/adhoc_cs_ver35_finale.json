@@ -870,7 +870,7 @@
         "「さて……事情は　だいたい察しています。 |　今は　竜神の心臓が奪われ　ナドラガ復活の|　最終段階に入ったと　考えるべきでしょう。": "Well... I think I have a pretty good idea|what's going on. Now that the Dragon God's|heart has been stolen, we should assume that|<br>|Nadraga's resurrection is in their final|stages."
     },
     "291": {
-        "「しかし　エジャルナの大神殿には |　私が行った時　神官たちしかおりませんでした。|　総主教オルストフは　いったいどこへ……？": "But when I went to Ejarna's Great Temple, the|only people there were priests. Where in the|world is Patriarch Orstov...?"
+        "「しかし　エジャルナの大神殿には |　私が行った時　神官たちしかおりませんでした。|　総主教オルストフは　いったいどこへ……？": "But when I went to Ejarna's Great Temple, the|only people there were the priests. Where in|the world is Patriarch Orstov...?"
     },
     "292": {
         "「神墟ナドラグラム……。": "Nadragram Shrine..."
@@ -909,10 +909,10 @@
         "「私　なんにも　こわくないよ。": "I'm not afraid of anything."
     },
     "304": {
-        "「なんてったって　<pc>がいるからな！|　この３人が　一緒なら　誰にも負けねえさ！": "no matter what<pc> We've got the three of us! With the three of|us together, there's no one to beat!"
+        "「なんてったって　<pc>がいるからな！|　この３人が　一緒なら　誰にも負けねえさ！": "After all, we have <pc>! With the three|of us, we're unbeatable!"
     },
     "305": {
-        "「なんてったって　<pc>がいるもの！|　この３人が　一緒なら　誰にも負けないわ！": "no matter what<pc> We have the three of us! And with the three|of us together, there's no one to beat!"
+        "「なんてったって　<pc>がいるもの！|　この３人が　一緒なら　誰にも負けないわ！": "After all, we have <pc>! With the three|of us, we're unbeatable!"
     },
     "306": {
         "<if_woman>「なんてったって　お姉ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<else>「なんてったって　お兄ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<endif>": "<if_woman>After all, I have a big sister! With the|three of us together, no one can beat us!<else>After all, I have a big brother! With the|three of us together, no one can beat us!<endif>"
