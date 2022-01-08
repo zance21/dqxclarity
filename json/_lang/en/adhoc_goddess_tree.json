@@ -135,12 +135,12 @@
         "「おや　源世植物研究所へ　ようこそ。|　僕はここで　ある植物の研究をしているのですが|　調査が　思うように進まなくて……。|<br>|「ああ……　どこかに　パニガルムを|　踏破できるような　屈強な冒険者は|　いないでしょうか……。": "Hello, welcome to the World Botany Research.|I'm doing some research on a plant here, but|it's not going so well...|<br>|Oh... is there a strong adventurer out there|brave enough to traverse Panigalm...?"
     },
     "46": {
-        "「<%sM_THEME_NAME>を　元の状態に戻しますか？|<yesno><close>": ""
+        "「<%sM_THEME_NAME>を　元の状態に戻しますか？|<yesno><close>": "Change <%sM_THEME_NAME> back to its original|look?|<yesno><close>"
     },
     "47": {
-        "「今は　<%sM_THEME_NAME>の見た目を|　変えないでおきますか？|<yesno><close>": "Do you want to leave the <%sM_THEME_NAME>|look unchanged for now?<yesno><close>"
+        "「今は　<%sM_THEME_NAME>の見た目を|　変えないでおきますか？|<yesno><close>": "Do you want to leave the <%sM_THEME_NAME>|look as it is for now?|<yesno><close>"
     },
     "48": {
-        "「わかりました！　『庭の見た目を変える』から|　庭の見た目を　いつでも変えられるので|　変えたくなったら　言ってくださいね。|<bw_break>": "Yes, sir! You can always change the look of|your garden by going to \"Change the look of|your garden,\" so if you want to change the|<br>|look of your garden, just let me know...<bw_break>"
+        "「わかりました！　『庭の見た目を変える』から|　庭の見た目を　いつでも変えられるので|　変えたくなったら　言ってくださいね。|<bw_break>": "Understood! You can change the look of your|garden at any time by choosing \"Change Garden|Appearance\". Please let me know!|<bw_break>"
     }
 }
