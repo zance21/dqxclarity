@@ -90,7 +90,7 @@
         "<pipipi_off>|庭ランクが　<%nM_BEFORE_RANK>から　<%nM_AFTER_RANK>に　上がった！|<me_71>|<br>|女神の木の　レベル上限が|レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　上がった！|<end>": "<pipipi_off>Garden Rank went from Rank <%dM_BEFORE_RANK>|to Rank <%dM_AFTER_RANK>!|<me_71>|<br>|The Goddess Tree's level limit has been|increased from Level <%dnM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>!<end>"
     },
     "31": {
-        "「わあっ　どうやら　庭ランクが上がったことで|　『<%sM_THEME_NAME>』の見た目を|　変えられるように　なったようです！|<bw_break>": "It seems that the appearance of|<%sM_THEME_NAME> can be changed now that the|garden rank has been raised!<bw_break>"
+        "「わあっ　どうやら　庭ランクが上がったことで|　『<%sM_THEME_NAME>』の見た目を|　変えられるように　なったようです！|<bw_break>": "Looks like the <%sM_THEME_NAME> appearance can|now be changed thanks to the Garden Rank|increasing!|<bw_break>"
     },
     "32": {
         "「女神の木が　成長して　<pc>さんも|　さらに　強くなったみたいですね！|　この調子で……って　あれ？|<br>|「すべての女神の木が　立派に育ったようですね！|　さすが 　<pc>さん！　すごいです。|<bw_break>": "The tree of the goddess grew<pc>  It looks like you've gotten even stronger! At|this rate... Huh? It looks like all the|goddess trees have grown up nicely! That's|<br>|right.<pc> Oh, my God! Wow...<bw_break>"
