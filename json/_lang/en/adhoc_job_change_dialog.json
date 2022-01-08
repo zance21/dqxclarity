@@ -60,7 +60,7 @@
         "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Oh? You already have a job at|<%sM_syokugyou>... What do you|hope to become?|<br><break>"
     },
     "21": {
-        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "I understand... You're changing jobs to|<%sM_new_syokugyou>?<yesno><close>"
+        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "Understood. You want to change to|<%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "22": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
@@ -279,7 +279,7 @@
         "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Oh? You already have a job at|<%sM_syokugyou>... What do you|hope to become?|<br><break>"
     },
     "94": {
-        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "I understand... You're changing jobs to|<%sM_new_syokugyou>?<yesno><close>"
+        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "Understood. You want to change to|<%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "95": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
@@ -1170,7 +1170,7 @@
         "「あら？　あなたは　すでに|　<%sM_syokugyou>の職に　ついていますよ。|　どの職業になることを　望みますか？|<break>": "Oh? You already have a job at|<%sM_syokugyou>... What do you|hope to become?|<br><break>"
     },
     "391": {
-        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "I understand... You're changing jobs to|<%sM_new_syokugyou>?<yesno><close>"
+        "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "Understood. You want to change to|<%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "392": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
