@@ -78,7 +78,7 @@
         "「複数の女神の木が　全体的に成長していくと|　研究用の庭　それ自体のランクが上がります。|　僕は　それを『庭ランク』と　呼んでいます。|<br>|「庭ランクが上がると　木が育ちやすい土壌になり|　一度成長の限界に達した　女神の木も|　さらに　育てられるようになるみたいです。|<br>|「つまり　特定の女神の木だけを　育てても|　庭ランクは　上がらないので　ぜひ|　バランスよく　育ててみてくださいね！|<bw_break>": "As the number of multiple Goddess Trees grow|overall, the research garden's rank itself|increases. I call this its \"Garden Rank\".|<br>|It seems as the Garden Rank increases, the|soil becomes more fertile, allowing trees|that hit their limit to grow even further.|<br>|In other words, it's a good idea to try to|grow all of your Goddess Trees in a balanced|manner!"
     },
     "27": {
-        "「……あれっ？|　どうやら　<%sM_TREE_NAME>に|　何か変化が　あるみたいです。|<end>": "... What? It looks like <%sM_TREE_NAME> has|changed in some way...<end>"
+        "「……あれっ？|　どうやら　<%sM_TREE_NAME>に|　何か変化が　あるみたいです。|<end>": "...Huh? It looks like the <%sM_TREE_NAME> has|changed somehow.|<end>"
     },
     "28": {
         "<%sM_TREE_NAME>が|レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に　成長して|<%sM_KOUKA_NAME>が　<%nM_KOUKA_NUM>　上がった！": "<%sM_TREE_NAME> has grown from level|<%nM_BEFORE_LEVEL> to level <%nM_AFTER_LEVEL>|and <%sM_KOUKA_NAME> has moved up|<br>|<%nM_KOUKA_NUM>!"
