@@ -864,7 +864,7 @@
         "「時にカメさま。時にペガサスのファルシオン。|　今は　シオンと呼ばれています。": "Sometimes its the Galapagod, other times its|the Pegasus Falchion. But now, I'm called|Shion."
     },
     "289": {
-        "「<pc>の　手にはまることができず|　困っていましたが　お元気になられて|　なによりです。": "I was having trouble getting on your hand, but|I'm glad to hear you're feeling better."
+        "「<pc>の　手にはまることができず|　困っていましたが　お元気になられて|　なによりです。": "I was having trouble getting on your hand, but|I'm glad to hear you're feeling better,|<pc>."
     },
     "290": {
         "「さて……事情は　だいたい察しています。 |　今は　竜神の心臓が奪われ　ナドラガ復活の|　最終段階に入ったと　考えるべきでしょう。": "Well... I think I have a pretty good idea|what's going on. Now that the Dragon God's|heart has been stolen, we should assume that|<br>|Nadraga's resurrection is in their final|stages."
@@ -900,7 +900,7 @@
         "「神墟ナドラグラムへ　乗り込み|　私たちの手で　ナドラガの復活を止めましょう！": "Let's head to the Nadragram Shrine and stop|Nadraga's resurrection with our own hands!"
     },
     "301": {
-        "「オレは　なんにも　こわくないぜ。": "I'm not scared at all"
+        "「オレは　なんにも　こわくないぜ。": "I'm not scared at all."
     },
     "302": {
         "「あたし　なんにも　こわくないの。": "I'm not scared of anything."
@@ -912,31 +912,31 @@
         "「なんてったって　<pc>がいるからな！|　この３人が　一緒なら　誰にも負けねえさ！": "After all, we have <pc>! With the three|of us, we're unbeatable!"
     },
     "305": {
-        "「なんてったって　<pc>がいるもの！|　この３人が　一緒なら　誰にも負けないわ！": "After all, we have <pc>! With the three|of us, we're unbeatable!"
+        "「なんてったって　<pc>がいるもの！|　この３人が　一緒なら　誰にも負けないわ！": "After all, we have <pc>! With the three|of us together, we're unbeatable!"
     },
     "306": {
-        "<if_woman>「なんてったって　お姉ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<else>「なんてったって　お兄ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<endif>": "<if_woman>After all, I have a big sister! With the|three of us together, no one can beat us!<else>After all, I have a big brother! With the|three of us together, no one can beat us!<endif>"
+        "<if_woman>「なんてったって　お姉ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<else>「なんてったって　お兄ちゃんがいるもん！|　この３人が　一緒なら　誰にも負けないよ！<endif>": "<if_woman>I have my sister, after all! With the three|of us together, we're unbeatable!<else>I have my brother, after all! With the three|of us together, we're unbeatable!<endif>"
     },
     "307": {
-        "「もしかして　カメさまなのか！？": "Are you a turtle by any chance?"
+        "「もしかして　カメさまなのか！？": "Could it be... the Galapagod?!"
     },
     "308": {
-        "「もしかして　カメさまでしょ！？": "You're a turtle, aren't you?"
+        "「もしかして　カメさまでしょ！？": "Could it be... the Galapagod?!"
     },
     "309": {
-        "「もしかして　カメさまなの！？": "Maybe you're a turtle!"
+        "「もしかして　カメさまなの！？": "Could it be... the Galapagod?!"
     },
     "310": {
-        "「行くぜ～！　<pc>！": "Let's go!<pc> ！"
+        "「行くぜ～！　<pc>！": "<pc>! Let's go!"
     },
     "311": {
-        "「行くわよっ！　<pc>！": "Let's go!<pc> ！"
+        "「行くわよっ！　<pc>！": "<pc>! Let's go!"
     },
     "312": {
-        "<if_woman>「行こっ！　お姉ちゃん！<else>「行こっ！　お兄ちゃん！<endif>": "<if_woman>Let's go! Hey, sis!<else>Let's go! Big brother!<endif>"
+        "<if_woman>「行こっ！　お姉ちゃん！<else>「行こっ！　お兄ちゃん！<endif>": "Come on, <if_woman>sis<else>bro<endif>! Let's go!"
     },
     "313": {
-        "「ここが　神墟ナドラグラム……。": "This is Nadragram..."
+        "「ここが　神墟ナドラグラム……。": "So this is Nadragram Shrine..."
     },
     "314": {
         "「なんだか……すごく　さびしい場所だね。": "It's just... It's so lonely..."
