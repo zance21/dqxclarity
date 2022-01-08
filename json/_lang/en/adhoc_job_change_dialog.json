@@ -138,7 +138,7 @@
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きてゆくことになった。お前は　今|　特訓モードのようじゃな。さあ　行くがよい。": "Good. From now on, you will live as|<%sM_new_syokugyou>... You seem|to be in training mode right now... Let's|<br>|go..."
     },
     "47": {
-        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
+        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "48": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。あなたは　今|　特訓モードのようです。さあ　お行きなさい。": "Now, from now on, you will live as|<%sM_new_syokugyou>... You are|now in training mode... Now go...|<br>"
@@ -288,7 +288,7 @@
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。あなたは　今|　特訓モードのようです。さあ　お行きなさい。": "Now, from now on, you will live as|<%sM_new_syokugyou>... You are|now in training mode... Now go...|<br>"
     },
     "97": {
-        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
+        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "98": {
         "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "I'm not changing jobs. That's fine... Here|you go...<end>"
@@ -1173,7 +1173,7 @@
         "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "Understood. You want to change to|<%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "392": {
-        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
+        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "393": {
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。あなたは　今|　特訓モードのようです。さあ　お行きなさい。": "Now, from now on, you will live as|<%sM_new_syokugyou>... You are|now in training mode... Now go...|<br>"
