@@ -666,10 +666,10 @@
         "「ただの　元ポツコン２号と　思ってましたのに。|　まったく……とんだ　愛され野郎ですよッ！": "And here I thought you were just ex-Junker|No. 2... jeez... what a sweetheart!"
     },
     "223": {
-        "<if_woman>「……姉ちゃんは　いつだってそうさ。|　誰にでも　好かれちゃうんだ。<else>「……兄ちゃんは　いつだってそうさ。|　誰にでも　好かれちゃうんだ。<endif>": "<if_woman>She's always been like that...|Loved by everyone.<else>He's always been like that.<endif>"
+        "<if_woman>「……姉ちゃんは　いつだってそうさ。|　誰にでも　好かれちゃうんだ。<else>「……兄ちゃんは　いつだってそうさ。|　誰にでも　好かれちゃうんだ。<endif>": "<if_woman>She's always been like that...|Liked by everyone.<else>He's always been like that...|Liked by everyone.<endif>"
     },
     "224": {
-        "「<cs_pchero>さんは　強烈な魔瘴毒に侵されて|　絶命されたようです……。": "<cs_pchero>was killed by a powerful demonic miasma..."
+        "「<cs_pchero>さんは　強烈な魔瘴毒に侵されて|　絶命されたようです……。": "It seems that <cs_pchero> was killed|from the poison of a powerful demonic|miasma..."
     },
     "225": {
         "「この部屋は　地下の霊脈に近い聖域……。|　そのチカラで　せめて|　なきがらを　清めさせてください。": "This room is a sanctuary, close to the|underground vein... Let me at least use my|power to cleanse your ashes..."
