@@ -105,7 +105,7 @@
         "「レベルを上げて覚えた呪文は|　覚えた職業でしか使えない　専用のものだ。|　なので　転職すると　使えなくなってしまう。|<br>|「しかし　『スキルふりわけ』で習得した特技には|　転職すると使えなくなってしまう専用特技と|　転職しても使える特技の　２種類があるのだ。|<br>|「『スキルふりわけ』や　『つよさ』コマンドで|　見た時に（専）と書かれているのが専用特技だ。|　じっくりと　確認してみるとよかろう。|<end>": "You level up, you learn a spell, and it's|only available to you in the job you learned|it for. So if you change jobs, you can't use|<br>|them anymore... But there are two types of|spells you can learn with Skill Transfer:|those that are exclusive to your new job, and|<br>|those that you can use even after you change|jobs. If you're looking at the \"Skill Recall\"|or \"Strength\" command, you'll see the word|<br>|\"exclusive\"... You'll have to check it out|carefully...<end>"
     },
     "36": {
-        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|<select_end>|<break>"
+        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|<select_end>|<break>": "What would you like to know about?|<select_se_off>|Changing Vocations|About Skill Points|Transfer of Spells/Skills|<select_end>|<break>"
     },
     "37": {
         "「スキルポイントは　すべての職業で|　レベル２以上から　少しずつ取得していく|　いわば　ダーマの神からの　授けものじゃ。|<br>|「『さくせん』の『スキルふりわけ』から|　各スキルに　振り分けることで　様々な特技や|　スキル効果を　習得していくことじゃろう。|<br>|「スキルポイントは　職業ごとに異なるものじゃ。|　転職しても　なくなりはしないが　取得した|　職業にしか　振り分けられないと心得よ。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　別のものになるから|　転職の際には　気を付けるんじゃぞ。|<end>|": "Skill points are a gift from the gods of|Dharma, and are acquired gradually from level|2 and above in all professions. By allocating|<br>|skill points to each skill from the Skill|Assignment screen, you can learn various|specialties and skill effects... Skill points|<br>|are different for each profession... Skill|Points are not lost when you change jobs, but|they can only be assigned to the job you've|<br>|acquired... So even if you have the same|skill, it'll be assigned differently to|different jobs, so be careful when you change|<br>|jobs...<end>|"
@@ -351,7 +351,7 @@
         "「変更しないのですね。それも　よいでしょう。|<bw_break>": "You're not changing... That's a good idea...<bw_break>"
     },
     "118": {
-        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Special Training Mode|<select_end>|<break>"
+        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What would you like to know about?|<select_se_off>|Changing Vocations|About Skill Points|Transfer of Spells/Skills|Special Training Mode|<select_end>|<break>"
     },
     "119": {
         "「お前のように　特訓を受けられる者なら|　ここでも　レベル５０以上の職業の|　『特訓モード』を　開始することができる。|<br>|「『特訓モード』では　モンスターと戦っても|　経験値は　得られないが|　『特訓スタンプ』を　獲得できるのだ。|<br>|「特訓スタンプを　獲得できるのは|　討伐モンスターリストに　『ターゲット』の|　刻印が押されている　モンスターだ。|<br>|「獲得できる　特訓スタンプの数は|　相手が強ければ強いほど　増えていくぞ。|　強敵を相手に　心して　特訓に　はげむがよい。|<end>": "If you're one of those who can take training,|you can start training mode here for any|profession above level 50. In training mode,|<br>|you won't gain any experience fighting|monsters, but you will earn training stamps.|You can only earn training stamps from|<br>|monsters that are marked \"Target\" on the list|of monsters to defeat. The stronger your|opponent, the more Training Stamps you'll|<br>|earn. The stronger the enemy, the more|training you'll receive.<end>"
@@ -378,7 +378,7 @@
         "「変更しないのだな。それも　よいだろう。|<bw_break>": "No change... That's good...<bw_break>"
     },
     "127": {
-        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Special Training Mode|<select_end>|<break>"
+        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What would you like to know about?|<select_se_off>|Changing Vocations|About Skill Points|Transfer of Spells/Skills|Special Training Mode|<select_end>|<break>"
     },
     "128": {
         "「お前のように　特訓を受けられる者なら|　ここでも　レベル５０以上の職業の|　『特訓モード』を　開始することができる。|<br>|「『特訓モード』では　モンスターと戦っても|　経験値は　得られないが|　『特訓スタンプ』を　獲得できるのだ。|<br>|「特訓スタンプを　獲得できるのは|　討伐モンスターリストに　『ターゲット』の|　刻印が押されている　モンスターだ。|<br>|「獲得できる　特訓スタンプの数は|　相手が強ければ強いほど　増えていくぞ。|　強敵を相手に　心して　特訓に　はげむがよい。|<end>": "If you're one of those who can take training,|you can start training mode here for any|profession above level 50. In training mode,|<br>|you won't gain any experience fighting|monsters, but you will earn training stamps.|You can only earn training stamps from|<br>|monsters that are marked \"Target\" on the list|of monsters to defeat. The stronger your|opponent, the more Training Stamps you'll|<br>|earn. The stronger the enemy, the more|training you'll receive.<end>"
@@ -630,10 +630,10 @@
         "「レベルを上げて覚えた呪文は|　覚えた職業でしか使えない　専用のものだ。|　なので　転職すると　使えなくなってしまう。|<br>|「しかし　『スキルふりわけ』で習得した特技には|　転職すると使えなくなってしまう専用特技と|　転職しても使える特技の　２種類があるのだ。|<br>|「『スキルふりわけ』や　『つよさ』コマンドで|　見た時に（専）と書かれているのが専用特技だ。|　じっくりと　確認してみるとよかろう。|<end>": "You level up, you learn a spell, and it's|only available to you in the job you learned|it for. So if you change jobs, you can't use|<br>|them anymore... But there are two types of|spells you can learn with Skill Transfer:|those that are exclusive to your new job, and|<br>|those that you can use even after you change|jobs. If you're looking at the \"Skill Recall\"|or \"Strength\" command, you'll see the word|<br>|\"exclusive\"... You'll have to check it out|carefully...<end>"
     },
     "211": {
-        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|<select_end>|<break>"
+        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|<select_end>|<break>": "What would you like to know about?|<select_se_off>|Changing Vocations|About Skill Points|Transfer of Spells/Skills|<select_end>|<break>"
     },
     "212": {
-        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What do you want to know about?|<select_se_off>|About changing jobs|About Skill Points|Transfer of Spells and Specialties|About Special Training Mode|<select_end>|<break>"
+        "「何について　知りたいのだ？|<select_se_off>|転職について|スキルポイントについて|呪文や特技の引き継ぎについて|特訓モードについて|<select_end>|<break>": "What would you like to know about?|<select_se_off>|Changing Vocations|About Skill Points|Transfer of Spells/Skills|Special Training Mode|<select_end>|<break>"
     },
     "213": {
         "「スキルポイントは　すべての職業で|　レベル２以上から　少しずつ取得していく|　いわば　ダーマの神からの　授けものだ。|<br>|「『さくせん』の『スキルふりわけ』から|　各スキルに　振り分けることで　様々な特技や|　スキル効果を　習得していくことだろう。|<br>|「スキルポイントは　職業ごとに異なるものだ。|　転職しても　なくなりはしないが　取得した|　職業にしか　振り分けられないと心得よ。|<br>|「同名のスキルでも　異なる職業では|　ポイント振り分けが　別のものになるから|　転職の際には　気を付けるんだぞ。|<end>": "Skill points are a gift from the gods of|Dharma, and are acquired gradually from level|2 and above in all professions. By allocating|<br>|skill points to each skill from the Skill|Assignment screen, you can learn various|specialties and skill effects. Skill points|<br>|are different for each profession... They|don't disappear when you change jobs, but|they can only be allocated to the job you've|<br>|acquired... So even if you have the same|skill, it will be assigned differently in|different professions, so be careful when you|<br>|change professions...<end>"
