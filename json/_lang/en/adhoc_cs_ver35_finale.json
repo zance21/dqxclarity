@@ -894,10 +894,10 @@
         "「オルストフは　おそらく　そこを通ったはず。|　いざないの間へ　行ってみなさい。": "Orstov probably went through there. Go on|ahead to the Hall of Invitation."
     },
     "299": {
-        "<if_woman>「行こう！　姉ちゃん！<else>「行こう！　兄ちゃん！<endif>": "<if_woman>Let's go! Hey, sis!<else>Let's go! Brother!<endif>"
+        "<if_woman>「行こう！　姉ちゃん！<else>「行こう！　兄ちゃん！<endif>": "Come on, <if_woman>sis<else>bro<endif>! Let's go!"
     },
     "300": {
-        "「神墟ナドラグラムへ　乗り込み|　私たちの手で　ナドラガの復活を止めましょう！": "Let's ride to Nadragram and stop Nadraga's|resurrection with our own hands!"
+        "「神墟ナドラグラムへ　乗り込み|　私たちの手で　ナドラガの復活を止めましょう！": "Let's head to the Nadragram Shrine and stop|Nadraga's resurrection with our own hands!"
     },
     "301": {
         "「オレは　なんにも　こわくないぜ。": "I'm not scared of anything..."
