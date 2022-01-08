@@ -843,13 +843,13 @@
         "「おいらは　なんにも　こわくないよ！": "I'm not scared at all!"
     },
     "282": {
-        "<if_woman>「なんてったって　姉ちゃんがいるし！|　この３人が　一緒なら　誰にも負けないさ！<else>「なんてったって　兄ちゃんがいるし！|　この３人が　一緒なら　誰にも負けないさ！<endif>": "<if_woman>After all, I have my sister! With the three|of us together, there's no one to beat!<else>After all, I have my brother! With the three|of us together, there's no one to beat!<endif>"
+        "<if_woman>「なんてったって　姉ちゃんがいるし！|　この３人が　一緒なら　誰にも負けないさ！<else>「なんてったって　兄ちゃんがいるし！|　この３人が　一緒なら　誰にも負けないさ！<endif>": "<if_woman>I have my sister, after all! With the three|of us together, we're unbeatable!<else>I have my brother, after all! With the three|of us together, we're unbeatable!<endif>"
     },
     "283": {
-        "「<kyodai>さんの　のんきさには|　昔から　何度も救われましたっけ。": "<kyodai>I've been saved many times by your carefree|spirit..."
+        "「<kyodai>さんの　のんきさには|　昔から　何度も救われましたっけ。": "I've been saved by your carefree spirit many|times, <kyodai>."
     },
     "284": {
-        "「……いいでしょう。|　今が最悪なら　はいあがるだけです。": "... Okay... If this is the worst that can|happen, I'll just get up..."
+        "「……いいでしょう。|　今が最悪なら　はいあがるだけです。": "...All right. If this is as bad as it gets,|"
     },
     "285": {
         "「<kyodai>　おひさしぶりです。": "<kyodai>It's been a while."
