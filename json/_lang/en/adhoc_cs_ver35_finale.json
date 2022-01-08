@@ -888,10 +888,10 @@
         "「<pc>は　領界をつなぐ不思議な空間……|　いざないの間のことを　知っていますね？": "<pc> is the mysterious space that connects the|realms... You know about the Hall of|Invitation, right?"
     },
     "297": {
-        "「あそこには　かつて |　神墟ナドラグラムへ通ずる　旅の扉が|　存在したのです。": "There was once a portal that led to the ruins|of Nadragram..."
+        "「あそこには　かつて |　神墟ナドラグラムへ通ずる　旅の扉が|　存在したのです。": "There was once a portal there that led to the|Nadragram Shrine."
     },
     "298": {
-        "「オルストフは　おそらく　そこを通ったはず。|　いざないの間へ　行ってみなさい。": "Orstov probably went through there... I'll go|to the room of truth..."
+        "「オルストフは　おそらく　そこを通ったはず。|　いざないの間へ　行ってみなさい。": "Orstov probably went through there. Go on|ahead to the Hall of Invitation."
     },
     "299": {
         "<if_woman>「行こう！　姉ちゃん！<else>「行こう！　兄ちゃん！<endif>": "<if_woman>Let's go! Hey, sis!<else>Let's go! Brother!<endif>"
