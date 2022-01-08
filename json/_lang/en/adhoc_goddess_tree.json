@@ -105,7 +105,7 @@
         "「でも　僕の見立てでは　女神の木は　まだまだ|　成長する可能性を　秘めているはず……。|<br>|「女神の木が　次の段階に|　成長するときが　来るまで|　気長に　待っていてくださいね！|<bw_break>": "The way I see it, the Goddess Tree still has|a lot of potential for growth...|<br>|Please be patient until the Goddess Tree|grows to its next stage!|<bw_break>"
     },
     "36": {
-        "「<%sM_TREE_NAME>を|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。|<br>|「成長までに　今から|　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。|　よろしいですか？|<yesno><close>": "You want to grow the <%sM_TREE_NAME> from|Level <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>.|<br>|Seems like it will take about <%dL_HOUR> <%sL_HOUR_UNIT> <%dL_MIN> <%sL_MIN_UNIT>|to grow. Is that all right?|<yesno><close>"
+        "「<%sM_TREE_NAME>を|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に成長させます。|<br>|「成長までに　今から|　<%nL_HOUR><%sL_HOUR_UNIT><%nL_MIN><%sL_MIN_UNIT>　かかるみたいです。|　よろしいですか？|<yesno><close>": "You want to grow the <%sM_TREE_NAME> from|Level <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>?|<br>|Seems like it will take about <%dL_HOUR> <%sL_HOUR_UNIT> <%dL_MIN> <%sL_MIN_UNIT>|to grow. Is that all right?|<yesno><close>"
     },
     "37": {
         "「おや　すでに同じものを　取りつけていますよ。|<end>": "Ah, looks like you're already using this one.|<end>"
