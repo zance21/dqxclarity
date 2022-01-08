@@ -48,13 +48,13 @@
         "<speed=0>|<%sM_TREE_NAME>が　育ちはじめた！|<bw_break>": "<speed=0><%sM_TREE_NAME> started to grow!<bw_break>"
     },
     "17": {
-        "<color_yellow>|成長後に　メニューを開きなおすことで|最新情報が　反映されます。|<end>": "<color_yellow>After you've grown, you can reopen the menu|to get the latest information...<end>"
+        "<color_yellow>|成長後に　メニューを開きなおすことで|最新情報が　反映されます。|<end>": "<color_yellow>If you open this menu again after growing,|it will be updated with the latest|information.<end>"
     },
     "18": {
-        "「ふう…。これであとは　育ち終わるのを|　待つばかりです！|　他に　どの女神の木を　育てますか？|<end>": "Phew... Now all we have to do is wait for it|to finish growing! Which other goddess tree|would you like to grow?<end>"
+        "「ふう…。これであとは　育ち終わるのを|　待つばかりです！|　他に　どの女神の木を　育てますか？|<end>": "Phew... Now all we have to do is wait for it|to finish growing! Any other Goddess Trees|that you'd like to grow?|<end>"
     },
     "19": {
-        "「どの見た目を　変更しますか？|<end>": "Which look do you want to change?<end>"
+        "「どの見た目を　変更しますか？|<end>": "Which appearance do you want to change?|<end>"
     },
     "20": {
         "「<%sM_THEME_NAME>の見た目は　どれにしますか？|<end>": "Which look do you want <%sM_THEME_NAME> to|have?<end>"
