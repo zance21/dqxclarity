@@ -117,7 +117,7 @@
         "「他にも　何か　お望みですか？|<select_se_off>|育てる|育て方をおさらいする|説明を聞く|<select_end>|<close>": "Anything else I can do?|<select_se_off>|Grow|Review Growth|Explanation|<select_end>|<close>"
     },
     "40": {
-        "「ふう……。|　<%sM_THEME_NAME>を　元の状態に戻しました！|<me 71><bw_break>": "Phew... I've restored <%sM_THEME_NAME> to its|original state!<me 71><bw_break>"
+        "「ふう……。|　<%sM_THEME_NAME>を　元の状態に戻しました！|<me 71><bw_break>": "Phew... The <%sM_THEME_NAME> was restored to|its original look!|<me 71><bw_break>"
     },
     "41": {
         "「……あれ？　何か　おかしいですね。|　ちょっと　問題が起きているみたいです。|　しばらくしてから　また　お越しください！|<end>": "... What is it? Something's wrong... There|seems to be a problem... Please come back in|a few minutes!<end>"
