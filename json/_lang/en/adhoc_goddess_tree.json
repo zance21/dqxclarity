@@ -27,13 +27,13 @@
         "「また　いつでも　来てくださいね。|　<pc>さん！|<end>": "You're welcome to come back any time,|<pc>!|<end>"
     },
     "10": {
-        "「どの　女神の木を　育てますか？|<end>": "Which goddess tree will you grow?<end>"
+        "「どの　女神の木を　育てますか？|<end>": "Which Goddess Tree do you want to grow?|<end>"
     },
     "11": {
-        "「すべての女神の木が　最大まで成長しているので|　現在の　女神の木の状態を　お見せしますね。|<end>": "With all of the goddess trees at their|maximum growth, I thought I'd show you the|current state of the goddess trees...<end>"
+        "「すべての女神の木が　最大まで成長しているので|　現在の　女神の木の状態を　お見せしますね。|<end>": "Since all of the Goddess Trees are at their|growth maximum, I'll show you how they're|looking right now.|<end>"
     },
     "12": {
-        "「ああっ　すみません。|　今は　<%sM_TREE_NAME>を　これ以上|　育てられないみたいです。|<end>": "Oh, no... Now it looks like <%sM_TREE_NAME>|can't grow any more...<end>"
+        "「ああっ　すみません。|　今は　<%sM_TREE_NAME>を　これ以上|　育てられないみたいです。|<end>": "Ah, I'm sorry. It seems that <%sM_TREE_NAME>|can't grow any further.|<end>"
     },
     "13": {
         "「<%sM_TREE_NAME>は|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に|　成長している途中のようですね。|<br>|「すみませんが　育ち終わるまでは|　さらに成長させることは　できないんです。|　もうしばらく　お待ちくださいね！|<end>": "<%sM_TREE_NAME> is in the process of growing|from level <%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>... I'm sorry, but I can't|<br>|make it grow further until it's finished...|You'll have to wait a little longer!<end>"
