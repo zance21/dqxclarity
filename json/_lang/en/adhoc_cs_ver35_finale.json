@@ -642,19 +642,19 @@
         "「<cs_pchero>……すまねえ。|　…………逃げ……ろ。": "<cs_pchero>... I'm sorry.|Get out... of here..."
     },
     "215": {
-        "「<cs_pchero>……ごめんね。|　…………逃げ……て。": "<cs_pchero>... Go... ... Escape...."
+        "「<cs_pchero>……ごめんね。|　…………逃げ……て。": "<cs_pchero>... I'm srry.|Get out.. of here..."
     },
     "216": {
-        "<if_woman>「お姉ちゃん……ごめんなさい。|　…………逃げ……て。<else>「お兄ちゃん……ごめんなさい。|　…………逃げ……て。<endif>": "<if_woman>Sis... I'm sorry... ... Escape....<else>Big brother... I'm sorry... ... Escape....<endif>"
+        "<if_woman>「お姉ちゃん……ごめんなさい。|　…………逃げ……て。<else>「お兄ちゃん……ごめんなさい。|　…………逃げ……て。<endif>": "<if_woman>My sister... I'm so sorry.|Get out... of here....<else>My brother... I'm so sorry.|Get out... of here...<endif>"
     },
     "217": {
-        "「……こいつって　こんなに　ダチがいたんだな。": "... He's got all these friends..."
+        "「……こいつって　こんなに　ダチがいたんだな。": "...I didn't know they had so many friends."
     },
     "218": {
-        "「こんな　世界の果てまでも|　ぼくたちを　探しにきてくれる人ですから。": "He's the kind of person who'll come looking|for us even to the ends of the world."
+        "「こんな　世界の果てまでも|　ぼくたちを　探しにきてくれる人ですから。": "They were the kind of person that come looking|for us, even to the ends of the earth."
     },
     "219": {
-        "「<cs_pchero>さまは…… |　いつだって　勇気をくれた……よ。": "<cs_pchero>You, sir... You've always given me courage.|...."
+        "「<cs_pchero>さまは…… |　いつだって　勇気をくれた……よ。": "<cs_pchero>..."
     },
     "220": {
         "「不思議ね……。|　私たち　種族も立場も　全然違うのに……": "It's strange... We're from completely|different races and backgrounds..."
