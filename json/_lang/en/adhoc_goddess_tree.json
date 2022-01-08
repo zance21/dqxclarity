@@ -36,16 +36,16 @@
         "「ああっ　すみません。|　今は　<%sM_TREE_NAME>を　これ以上|　育てられないみたいです。|<end>": "Ah, I'm sorry. It seems that <%sM_TREE_NAME>|can't grow any further.|<end>"
     },
     "13": {
-        "「<%sM_TREE_NAME>は|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に|　成長している途中のようですね。|<br>|「すみませんが　育ち終わるまでは|　さらに成長させることは　できないんです。|　もうしばらく　お待ちくださいね！|<end>": "<%sM_TREE_NAME> is in the process of growing|from level <%nM_BEFORE_LEVEL> to level|<%nM_AFTER_LEVEL>... I'm sorry, but I can't|<br>|make it grow further until it's finished...|You'll have to wait a little longer!<end>"
+        "「<%sM_TREE_NAME>は|　レベル<%nM_BEFORE_LEVEL>から　レベル<%nM_AFTER_LEVEL>に|　成長している途中のようですね。|<br>|「すみませんが　育ち終わるまでは|　さらに成長させることは　できないんです。|　もうしばらく　お待ちくださいね！|<end>": "<%sM_TREE_NAME> is in the process of|growing from Level <%dM_BEFORE_LEVEL> to Level <%dM_AFTER_LEVEL>.|<br>|I apologize, but I can't make it grow any|further until this process finishes. Please|wait a little longer!|<end>"
     },
     "14": {
-        "「では　素材を　お預かりしますね。|　ここに　こうして…。|<end>": "Now, I'll take your materials... Right here,|like this...<end>"
+        "「では　素材を　お預かりしますね。|　ここに　こうして…。|<end>": "Okay, I'll take your materials. Just put these|here...|<end>"
     },
     "15": {
-        "「あれっ……？|　残念ですが　成長に必要な素材が|　足りないみたいです。|<end>": "What the...? I'm sorry, but it seems we don't|have enough material to grow...<end>"
+        "「あれっ……？|　残念ですが　成長に必要な素材が|　足りないみたいです。|<end>": "Huh? I'm afraid you don't have enough|materials to start growing.|<end>"
     },
     "16": {
-        "<speed=0>|<%sM_TREE_NAME>が　育ちはじめた！|<bw_break>": "<speed=0><%sM_TREE_NAME> is starting to grow!<bw_break>"
+        "<speed=0>|<%sM_TREE_NAME>が　育ちはじめた！|<bw_break>": "<speed=0><%sM_TREE_NAME> started to grow!<bw_break>"
     },
     "17": {
         "<color_yellow>|成長後に　メニューを開きなおすことで|最新情報が　反映されます。|<end>": "<color_yellow>After you've grown, you can reopen the menu|to get the latest information...<end>"
