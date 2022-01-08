@@ -57,13 +57,13 @@
         "「どの見た目を　変更しますか？|<end>": "Which appearance do you want to change?|<end>"
     },
     "20": {
-        "「<%sM_THEME_NAME>の見た目は　どれにしますか？|<end>": "Which look do you want <%sM_THEME_NAME> to|have?<end>"
+        "「<%sM_THEME_NAME>の見た目は　どれにしますか？|<end>": "Which appearance would you like the <%sM_THEME_NAME>|to have?|<end>"
     },
     "21": {
-        "「『<%sM_PARTS_NAME>』を　取りつけますか？|<yesno><close>": "Do you want to install \"<%sM_PARTS_NAME>\"?<yesno><close>"
+        "「『<%sM_PARTS_NAME>』を　取りつけますか？|<yesno><close>": "Do you want to use \"<%sM_PARTS_NAME>\"?<yesno><close>"
     },
     "22": {
-        "「ふう……。|　『<%sM_PARTS_NAME>』を　取りつけました！|　この<%sM_THEME_NAME>　とっても素敵ですね。|<me 71><bw_break>": "Oh... I've installed <%sM_PARTS_NAME>! This|<%sM_THEME_NAME> is very nice...<me 71><bw_break>"
+        "「ふう……。|　『<%sM_PARTS_NAME>』を　取りつけました！|　この<%sM_THEME_NAME>　とっても素敵ですね。|<me 71><bw_break>": "Phew... I've changed it to \"<%sM_PARTS_NAME>\"!|This <%sM_THEME_NAME> is quite nice.|<me 71><bw_break>"
     },
     "23": {
         "「何について　聞きたいですか？|<select_se_off>|女神の木とは|成長に必要な素材|庭ランクとは|庭の生き物|<select_end>|<break>": ""
