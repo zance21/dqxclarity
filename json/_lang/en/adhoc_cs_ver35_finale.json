@@ -819,22 +819,22 @@
         "「……ふたりに　大切な話があります。|　<cs_pchero>さん。<kyodai>さん。|　地上の教会跡で　お待ちしていますね。": "I have something very imporant to tell the|both of you. <cs_pchero>. <kyodai>. Meet|me at the ruined church above ground."
     },
     "274": {
-        "「……<cs_pchero>は　いつだってそうだ。|　誰にでも　好かれちまう。": "<cs_pchero>You're always... Everyone likes you..."
+        "「……<cs_pchero>は　いつだってそうだ。|　誰にでも　好かれちまう。": "<cs_pchero> has always been like that.|Liked by everyone."
     },
     "275": {
-        "「……<cs_pchero>は　いつだってそう。|　誰にでも　好かれちゃうのよ。": "<cs_pchero>When was the last time... Everyone likes|you..."
+        "「……<cs_pchero>は　いつだってそう。|　誰にでも　好かれちゃうのよ。": "<cs_pchero> has always been like that.|Liked by everyone."
     },
     "276": {
-        "<if_woman>「……お姉ちゃんは　いつだってそうだよ。|　誰にでも　好かれちゃうの。<else>「……お兄ちゃんは　いつだってそうだよ。|　誰にでも　好かれちゃうの。<endif>": "<if_woman>... You've always been that way. Everybody|likes you.<else>... You've always been the big brother.|Everybody likes you...<endif>"
+        "<if_woman>「……お姉ちゃんは　いつだってそうだよ。|　誰にでも　好かれちゃうの。<else>「……お兄ちゃんは　いつだってそうだよ。|　誰にでも　好かれちゃうの。<endif>": "<if_woman>She's always been like that...|Liked by everyone.<else>He's always been like that...|Liked by everyone.<endif>"
     },
     "277": {
-        "「どこまで……人の想いを　踏みにじれば……。": "How far... If you trample on people's|feelings..."
+        "「どこまで……人の想いを　踏みにじれば……。": "How far will you go... to trample on people's|feelings...?"
     },
     "278": {
-        "「どこまで……人の想いを　踏みにじるの……。": ""
+        "「どこまで……人の想いを　踏みにじるの……。": "How far will you go... to trample on people's|feelings...?"
     },
     "279": {
-        "「どこまで……人の想いを　踏みにじるの……。": ""
+        "「どこまで……人の想いを　踏みにじるの……。": "How far will you go... to trample on people's|feelings...?"
     },
     "280": {
         "「せっかく　エテーネの生き残り　３人が|　そろったのに……ひどい状況ですね。": "We had three survivors of Etaine, and now...|It's so bad."
