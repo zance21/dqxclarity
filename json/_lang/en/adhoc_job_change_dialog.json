@@ -63,10 +63,10 @@
         "「わかりました。|　<%sM_new_syokugyou>に　転職するのですね？|<yesno><close>": "Understood. You want to change to|<%sM_new_syokugyou>, right?|<yesno><close>"
     },
     "22": {
-        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
+        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "23": {
-        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "I'm not changing jobs. That's fine... Here|you go...<end>"
+        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "You don't want to change vocations? That's|fine. Now go.<end>"
     },
     "24": {
         "「まあ。あなたは　今　いまわしき呪いに|　おかされてらっしゃいますね。|<br>|「転職は　教会にて呪いのけがれを|　はらってからにするのが　よいでしょう。": "Well. You're under a terrible curse right|now... It's best to change jobs after you've|been to church to clear away the curse...|<br>"
@@ -291,7 +291,7 @@
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "98": {
-        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "I'm not changing jobs. That's fine... Here|you go...<end>"
+        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "You don't want to change vocations? That's|fine. Now go.<end>"
     },
     "99": {
         "「まあ。|　<%sM_monster>は　死んでいるようです。|　このまま送るなんて　かわいそう。<br>|「転職したければ　<%sM_monster>を|　生き返らせてから　来るのがよいでしょう。": "Well. <%sM_monster> is dead... I|can't just send him on his way. If you want a|new job, you'll have to bring|<br>|<%sM_monster> back to life before|you come back..."
@@ -1179,10 +1179,10 @@
         "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。あなたは　今|　特訓モードのようです。さあ　お行きなさい。": "Now, from now on, you will live as|<%sM_new_syokugyou>... You are|now in training mode... Now go...|<br>"
     },
     "394": {
-        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From now on, you will live as|<%sM_new_syokugyou>... Do not|forget to review your equipment. Now, go...|<br>"
+        "「これで　今から　あなたは<%sM_new_syokugyou>として|　生きていくことになりました。装備の見直しを|　忘れぬように。さあ　お行きなさい。": "From here on out, you will go on as a|<%sM_new_syokugyou>. Make sure to review your equipment.|Now go."
     },
     "395": {
-        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "I'm not changing jobs. That's fine... Here|you go...<end>"
+        "「転職しないのですね。それも　よいでしょう。|　さあ　お行きなさい。<end>": "You don't want to change vocations? That's|fine. Now go.<end>"
     },
     "396": {
         "「まあ。|　<%sM_monster>は　死んでいるようです。|　このまま送るなんて　かわいそう。<br>|「転職したければ　<%sM_monster>を|　生き返らせてから　来るのがよいでしょう。": "Well. <%sM_monster> is dead... I|can't just send him on his way. If you want a|new job, you'll have to bring|<br>|<%sM_monster> back to life before|you come back..."
