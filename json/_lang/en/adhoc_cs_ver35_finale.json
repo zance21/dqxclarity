@@ -1545,10 +1545,10 @@
         "<if_woman>「最後の戦いは……ふたりに託すね。|　この先の未来を作るのは　お姉ちゃんたちだよ。<else>「最後の戦いは……ふたりに託すね。|　この先の未来を作るのは　お兄ちゃんたちだよ。<endif>": "<if_woman>I'll leave... the final battle to you two.|You and my sister will shape the future.<else>I'll leave... the final battle to you two.|You and my brother will shape the future.<endif>"
     },
     "516": {
-        "「お前ってさ……|　いつも　おいしいとこ　全部持ってくよな。": "You know... You always take all the good|stuff..."
+        "「お前ってさ……|　いつも　おいしいとこ　全部持ってくよな。": "You.. you always have to hog all the fun,|don't you?"
     },
     "517": {
-        "「それって　きっと　人徳だと思うんです。 |　……ですよね　<cs_pchero>さん？": "I think that's a virtue... ... Yeah.<cs_pchero>Mr.?"
+        "「それって　きっと　人徳だと思うんです。 |　……ですよね　<cs_pchero>さん？": "It's its just human virtue. Right, <cs_pchero>?"
     },
     "518": {
         "「まったく！　こんなにも　役に立つなんて|　見損ないましたよ　元ポツコン２号ッ！": "Oh, my God! I never thought I'd see you so|useful, ex-POTUS 2!"
