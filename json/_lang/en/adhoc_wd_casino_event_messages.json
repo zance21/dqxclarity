@@ -285,7 +285,7 @@
         "カジノプレイチケットを　<%dM_Num2>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "I have <%dM_Num2> casino play|tickets... Would you like to use one of them|to play bingo? (Floor|<br>|<%nW_INSTANCE_NO>|<%sCAS_room>|<%sCAS_table>)|<br><yesno><close>"
     },
     "96": {
-        "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": "To play bingo, you need a bingo ticket or a|casino play ticket... Please bring either of|these items with you when you come back!|<br><auto_bw=5000><close>"
+        "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": "To play Bingo, you need a Bingo Ticket or a|Casino Play Ticket. Please bring either of|these and come back!|<br><auto_bw=5000><close>"
     },
     "97": {
         "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Casino Coins."
