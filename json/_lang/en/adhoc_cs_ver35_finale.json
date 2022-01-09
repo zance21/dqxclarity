@@ -1728,13 +1728,13 @@
         "「どれほどの月日が……か。|　私にとって　数千年の旅路だからなぁ。": "How long has it been...? For me, it's been|a journey over thousands of years."
     },
     "577": {
-        "「まっ　その話は　いつか話すぜ。|　今はさ……今しかできない話をするか。": "Well, we'll talk about it someday. For now...|Let's talk about something we can only do|now."
+        "「まっ　その話は　いつか話すぜ。|　今はさ……今しかできない話をするか。": "Well, I'll tell you about it someday. For|now... let's talk about what we can do now."
     },
     "578": {
-        "「まっ　その話は　いつか話すわ。|　今はね……今しかできない話をしましょ。": "Well, we'll talk about that someday... For|now... Let's talk about something we can only|do now."
+        "「まっ　その話は　いつか話すわ。|　今はね……今しかできない話をしましょ。": "Well, I'll tell you about it someday. For|now... let's talk about what we can do now."
     },
     "579": {
-        "「まっ　その話は　いつか話すね。|　今はね……今しかできない話をしよっ。": "Well, we'll talk about that someday... For|now... Let's talk about something we can only|do now."
+        "「まっ　その話は　いつか話すね。|　今はね……今しかできない話をしよっ。": "Well, I'll tell you about it someday. For|now... let's talk about what we can do now."
     },
     "580": {
         "「あのさ　<pc>……。|　もう　忘れてるかもしれねえが　あの日……": "just a minute<pc> ... You may have already forgotten, but that|day..."
@@ -1743,7 +1743,7 @@
         "「あのね　<pc>……。|　もう　忘れてるかもしれないけど　あの日……": "just a minute<pc> I... I don't know if you've forgotten, but|that day..."
     },
     "582": {
-        "<if_woman>「あのね　お姉ちゃん……。|　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。|　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, Sis... I know you've probably|forgotten, but that day...<else>You know, big brother... I don't know if|you've forgotten, but that day...<endif>"
+        "<if_woman>「あのね　お姉ちゃん……。|　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。|　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, sis... You've probably forgotten,|but on that day...<else>You know, bro... You've probably forgotten,|but on that day...<endif>"
     },
     "583": {
         "「会いたくなかったなんて　言って悪かったな。|　ほんとは　胸が苦しくなるくらい|　……うれしかったぜ。": "I'm sorry I said I didn't want to see you...|It's just... it's really hard to... I'm so..."
@@ -1761,7 +1761,7 @@
         "「あたし　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったわ。": "I<pc> I was so scared when I heard the prediction."
     },
     "588": {
-        "<if_woman>「私ね　お姉ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<else>「私ね　お兄ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<endif>": "<if_woman>When I heard that my sister was going to|die... I was so scared.<else>When I heard that my brother was going to|die, I was so scared...<endif>"
+        "<if_woman>「私ね　お姉ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<else>「私ね　お兄ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<endif>": "<if_woman>When I heard that my sister was going to die,|I was so scared...<else>When I heard that my brother was going to|die, I was so scared...<endif>"
     },
     "589": {
         "「だけど　お前には　強くて優しい仲間……": "But you have strong, kind friends"
