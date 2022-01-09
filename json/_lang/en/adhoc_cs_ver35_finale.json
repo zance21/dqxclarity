@@ -1737,10 +1737,10 @@
         "「まっ　その話は　いつか話すね。|　今はね……今しかできない話をしよっ。": "Well, I'll tell you about it someday. For|now... let's talk about what we can do now."
     },
     "580": {
-        "「あのさ　<pc>……。|　もう　忘れてるかもしれねえが　あの日……": "just a minute<pc> ... You may have already forgotten, but that|day..."
+        "「あのさ　<pc>……。|　もう　忘れてるかもしれねえが　あの日……": "You know, <pc>... You've probably|forgotten, but on that day..."
     },
     "581": {
-        "「あのね　<pc>……。|　もう　忘れてるかもしれないけど　あの日……": "just a minute<pc> I... I don't know if you've forgotten, but|that day..."
+        "「あのね　<pc>……。|　もう　忘れてるかもしれないけど　あの日……": "You know, <pc>... You've probably|forgotten, but on that day..."
     },
     "582": {
         "<if_woman>「あのね　お姉ちゃん……。|　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。|　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, sis... You've probably forgotten,|but on that day...<else>You know, bro... You've probably forgotten,|but on that day...<endif>"
@@ -1755,31 +1755,31 @@
         "「会いたくなかったなんて　言ってごめんなさい。|　ほんとは　胸が苦しくなるくらい|　……うれしかったの。": "I'm sorry that I said I didn't want to see|you. In fact, I was so happy... so happy|that my heart ached."
     },
     "586": {
-        "「オレさ　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったんだ。": "You know what?<pc> I was so scared when I heard the prediction."
+        "「オレさ　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったんだ。": "When I heard that you were going to die, I was|so scared, <pc>..."
     },
     "587": {
-        "「あたし　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったわ。": "I<pc> I was so scared when I heard the prediction."
+        "「あたし　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったわ。": "When I heard that you were going to die, I was|so scared, <pc>..."
     },
     "588": {
         "<if_woman>「私ね　お姉ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<else>「私ね　お兄ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったよ。<endif>": "<if_woman>When I heard that my sister was going to die,|I was so scared...<else>When I heard that my brother was going to|die, I was so scared...<endif>"
     },
     "589": {
-        "「だけど　お前には　強くて優しい仲間……": "But you have strong, kind friends"
+        "「だけど　お前には　強くて優しい仲間……": "But you have strong and kind friends..."
     },
     "590": {
-        "「だけど　あんたには　強くて優しい仲間……": "But you have strong, kind friends"
+        "「だけど　あんたには　強くて優しい仲間……": "But you have strong and kind friends..."
     },
     "591": {
-        "<if_woman>「だけど　お姉ちゃんには　強くて優しい仲間……<else>「だけど　お兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>But you have strong, kind friends<else>But your brother has strong, kind friends<endif>"
+        "<if_woman>「だけど　お姉ちゃんには　強くて優しい仲間……<else>「だけど　お兄ちゃんには　強くて優しい仲間……<endif>": "But you have strong and kind friends..."
     },
     "592": {
-        "「オレは　すごく安心したんだ。": "I'm so relieved..."
+        "「オレは　すごく安心したんだ。": "I feel so relieved."
     },
     "593": {
-        "「あたし　すごく安心したの。": "I'm so relieved."
+        "「あたし　すごく安心したの。": "I feel so relieved."
     },
     "594": {
-        "「私ね　すごく安心したんだっ。": "I feel so relieved..."
+        "「私ね　すごく安心したんだっ。": "I feel so relieved."
     },
     "595": {
         "「だからさ……笑って　さよならが言えるぜ。": "So... Smile and say goodbye..."
