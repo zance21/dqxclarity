@@ -207,7 +207,7 @@
         "ブラックリストに　登録されている人がいます。|一緒に　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "There's a man on the blacklist... Would you|like to play bingo with me? (Floor|<%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
     },
     "70": {
-        "ビンゴを遊ぶには　ビンゴ券が　必要です。|ビンゴ券をお持ちのうえ　またおこしください！<auto_bw=5000><close>": "To play bingo, you need a bingo ticket.|Please bring your bingo tickets and come back|again!|<br><auto_bw=5000><close>"
+        "ビンゴを遊ぶには　ビンゴ券が　必要です。|ビンゴ券をお持ちのうえ　またおこしください！<auto_bw=5000><close>": "To play Bingo, you need a Bingo Ticket.|Please bring some Bingo Tickets and come back|again!|<auto_bw=5000><close>"
     },
     "71": {
         "<center>～はじめて　ビンゴをプレイされる方へ～<left>|<br>|ビンゴでは　座席の占有防止のため|ゲーム終了後　３０秒間　操作をしていない方には|強制的に　ご退席をしていただいております。|<br>|また　周りの方に　ご迷惑となるような発言も|おひかえ下さい。マナーを守って　楽しく|遊んでいただきますよう　ご協力お願いします。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": "～For first-time bingo playersIn order to prevent bingo from taking up too|much of your seat, we're going to have to ask|anyone who hasn't played in the last 30|<br>|seconds to leave the room. We also ask that|you refrain from making any comments that may|disturb those around you. We ask that you|<br>|please mind your manners and enjoy the game.|And good luck to you.  Casino owner Von|Baldi.|<br>"
@@ -243,7 +243,7 @@
         "すごろくへの　エントリーを|キャンセルしました。": "Cancelled playing Sugoroku."
     },
     "82": {
-        "このすごろく台は|既に　他のパーティが　使っています。|別のすごろく台を　使ってください。": "This backgammon table has already been used|by another party... You can use the other|backgammon table...|<br>"
+        "このすごろく台は|既に　他のパーティが　使っています。|別のすごろく台を　使ってください。": "This Sugoroku table is being used by another|party. Please use a different table."
     },
     "83": {
         "すごろくは　そうびぶくろと　どうぐかばんに|１つずつ　空きがないと　遊べません。|<br>|そうびぶくろと　どうぐかばんを整理して|必要な空きを作ってから　またおこしください。": "You can't play backgammon unless you have one|empty space in your backpack and one empty|space in your glove compartment. You need to|<br>|organize your backpack and your tool bag to|make room for the necessary..."
@@ -285,7 +285,7 @@
         "カジノプレイチケットを　<%dM_Num2>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "I have <%dM_Num2> casino play|tickets... Would you like to use one of them|to play bingo? (Floor|<br>|<%nW_INSTANCE_NO>|<%sCAS_room>|<%sCAS_table>)|<br><yesno><close>"
     },
     "96": {
-        "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": "To play Bingo, you need a Bingo Ticket or a|Casino Play Ticket. Please bring either of|these and come back!|<br><auto_bw=5000><close>"
+        "ビンゴを遊ぶには　ビンゴ券か|カジノプレイチケットが　必要です。|どちらかを　お持ちのうえ　またおこしください！|<auto_bw=5000><close>": "To play Bingo, you need a Bingo Ticket or a|Casino Play Ticket. Please bring either of|these and come back!|<auto_bw=5000><close>"
     },
     "97": {
         "カジノコイン <%dM_Coin>枚を獲得した|<%dM_Coin2>枚から <%dM_Coin3>枚に増えた": "Earned <%dM_Coin> Casino Coins.|Went from <%dM_Coin2> to <%dM_Coin3> Casino Coins."
