@@ -1638,7 +1638,7 @@
         "「な……なにィッ！？": "W....what?!?"
     },
     "547": {
-        "「これからの　竜の民を導くのは　お前だろう。|　私は　ケガを負い　無様に転がっていただけだ。": "You should be the one to lead the Dragon|people from now on. I kept getting hurt and|just stumbled around..."
+        "「これからの　竜の民を導くのは　お前だろう。|　私は　ケガを負い　無様に転がっていただけだ。": "You should be the one to lead the Dragon|people from now on. I kept getting hurt and|being utterly useless..."
     },
     "548": {
         "「トビアス。あなたは　竜の民のために |　誰よりも　血と汗を流してきました。": "Tobias. You have shed more blood and sweat for|the Dragon people than anyone else has."
@@ -1869,7 +1869,7 @@
         "<if_woman>「お姉ちゃんのことは　今度こそ……|　私が守るから！<else>「お兄ちゃんのことは　今度こそ……|　私が守るから！<endif>": "<if_woman>This time... I'll protect you, sis!<else>This time... I'll protect you, bro!<endif>"
     },
     "624": {
-        "「ありがとうございます　<pc>殿。": "Thank you<pc> Temple."
+        "「ありがとうございます　<pc>殿。": "Thank you so much, <pc>."
     },
     "625": {
         "「<pc>さん。|　アストルティアで　また　お会いしましょう。": "<pc> Hello. I'll see you again in Astrutia..."
