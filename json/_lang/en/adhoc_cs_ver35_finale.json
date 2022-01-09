@@ -1146,10 +1146,10 @@
         "「下等な種族に生まれた　その身を引き裂いて |　魂を　解き放ちましょうぞ！！": "Born of a lowly race. I will tear your soul|from your meaningless body!!"
     },
     "383": {
-        "<if_woman>「人は　自らの運命に　立ち向かっていけるんだ！|　姉ちゃんなら　それを証明してくれる！<else>「人は　自らの運命に　立ち向かっていけるんだ！|　兄ちゃんなら　それを証明してくれる！<endif>": "<if_woman>A man can face his own destiny! You can prove|it to me!<else>A man can face his own destiny! You can prove|it!<endif>"
+        "<if_woman>「人は　自らの運命に　立ち向かっていけるんだ！|　姉ちゃんなら　それを証明してくれる！<else>「人は　自らの運命に　立ち向かっていけるんだ！|　兄ちゃんなら　それを証明してくれる！<endif>": "<if_woman>Man can face his own destiny! My sister will|prove that to you!<else>Man can face his own destiny! My brother will|prove that to you!<endif>"
     },
     "384": {
-        "<if_woman>「行こう……姉ちゃん！！<else>「行こう……兄ちゃん！！<endif>": "<if_woman>Let's go... Hey, sis!<else>Let's go... Brother!<endif>"
+        "<if_woman>「行こう……姉ちゃん！！<else>「行こう……兄ちゃん！！<endif>": "<if_woman>Let's go, sis!<else>Let's go, bro!<endif>"
     },
     "385": {
         "「クロウズさんっ！！": "Claws!!"
