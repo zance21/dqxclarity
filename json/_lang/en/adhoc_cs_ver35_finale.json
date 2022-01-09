@@ -1290,7 +1290,7 @@
         "「<cs_pchero>さん……ともに　戦います。|　竜の民のひとりとして……|　私の手で　終わらせたいんです。": "<cs_pchero>... we fight together. As|one of the Dragon People... I want to end|this with my own hands."
     },
     "431": {
-        "「さようなら…………お父さん。": "Goodbye... Oh..."
+        "「さようなら…………お父さん。": "Goodbye... Father."
     },
     "432": {
         "<center>アァァアァァアァ……憎い……憎い……。": "Aaaaaaahhh... I hate you... I hate you..."
@@ -1524,7 +1524,7 @@
         "「……私は　今　自分の足で歩きだします。": "...I'm walking with my own feet now."
     },
     "509": {
-        "<if_woman>「最後の戦いは……ふたりに託すよ。|　この先の未来を作るのは　姉ちゃんたちだ。<else>「最後の戦いは……ふたりに託すよ。|　この先の未来を作るのは　兄ちゃんたちだ。<endif>": "<if_woman>The final battle... For both of us... The|future will be made by you...<else>The final battle... For both of us... The|future will be made by you...<endif>"
+        "<if_woman>「最後の戦いは……ふたりに託すよ。|　この先の未来を作るのは　姉ちゃんたちだ。<else>「最後の戦いは……ふたりに託すよ。|　この先の未来を作るのは　兄ちゃんたちだ。<endif>": "<if_woman>I'll leave... the final battle to you two.|You and my sister will shape the future.<else>I'll leave... the final battle to you two.|You and my brother will shape the future.<endif>"
     },
     "510": {
         "「ちきしょう……こんな時に　時間が……。": "Goddamn it... It's time to..."
