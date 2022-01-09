@@ -162,7 +162,7 @@
         "アップした！": "It's up!"
     },
     "55": {
-        "大きくアップした！": "a big boost!"
+        "大きくアップした！": "Big Boost!"
     },
     "56": {
         "大当たり！<br>|しかし　<pc>の|テンションは　上がらなかった…。": "Jackpot! But...<pc> I don't think I've ever been more excited|about..."
@@ -201,10 +201,10 @@
         "誰かの大当たりで|<pc>のテンションが　<%sCAS_tup_lv><auto_br=2500>|なんと　当たった時に　もらえるコインが|<%sCAS_tup_bairitu>倍にアップしたようだ…！<auto_bw=2500><close>": "Someone got a nice hit!|<pc>'s tension got <%sCAS_tup_lv><auto_br=2500>|The next time you win coins, you'll get|<%sCAS_tup_bairitu> times the payout!<auto_bw=2500><close>"
     },
     "68": {
-        "ビンゴ券を　<%dM_Num>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "I have <%dM_Num> bingo tickets...|Would you like to use one of them to play|bingo? (Floor <%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
+        "ビンゴ券を　<%dM_Num>枚　持っています。|１枚使って　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "You currently have <%dM_Num> Bingo Tickets.|Use 1 to play Bingo?|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)<yesno><close>"
     },
     "69": {
-        "ブラックリストに　登録されている人がいます。|一緒に　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "There's a man on the blacklist... Would you|like to play bingo with me? (Floor|<%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
+        "ブラックリストに　登録されている人がいます。|一緒に　ビンゴを遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "One of these players is on your blacklist.|Play Bingo together?|(Floor <%dW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>)<yesno><close>"
     },
     "70": {
         "ビンゴを遊ぶには　ビンゴ券が　必要です。|ビンゴ券をお持ちのうえ　またおこしください！<auto_bw=5000><close>": "To play Bingo, you need a Bingo Ticket.|Please bring some Bingo Tickets and come back|again!|<auto_bw=5000><close>"
