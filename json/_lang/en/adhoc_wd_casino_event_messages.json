@@ -246,13 +246,13 @@
         "このすごろく台は|既に　他のパーティが　使っています。|別のすごろく台を　使ってください。": "This Sugoroku table is being used by another|party. Please use a different table."
     },
     "83": {
-        "すごろくは　そうびぶくろと　どうぐかばんに|１つずつ　空きがないと　遊べません。|<br>|そうびぶくろと　どうぐかばんを整理して|必要な空きを作ってから　またおこしください。": "You can't play backgammon unless you have one|empty space in your backpack and one empty|space in your glove compartment. You need to|<br>|organize your backpack and your tool bag to|make room for the necessary..."
+        "すごろくは　そうびぶくろと　どうぐかばんに|１つずつ　空きがないと　遊べません。|<br>|そうびぶくろと　どうぐかばんを整理して|必要な空きを作ってから　またおこしください。": "You can't play Sugoroku unless you have at|1 open slot in both your equipment and item|bags.|<br>|Please reorganize your belongings and then|try again."
     },
     "84": {
-        "<speed=0>一定時間　すごろくを|はじめなかったので　席から離れました。": "<speed=0>I didn't start backgammon for a certain|amount of time, so I left my seat..."
+        "<speed=0>一定時間　すごろくを|はじめなかったので　席から離れました。": "<speed=0>|You were idle too long and left your|seat."
     },
     "85": {
-        "パーティメンバーが|エントランスに　移動しました。|すごろくへのエントリーを　キャンセルしました。": "Party members move to the entrance... I|canceled my backgammon entry..."
+        "パーティメンバーが|エントランスに　移動しました。|すごろくへのエントリーを　キャンセルしました。": "A party member has moved to the Casino|Entrance. Your Sugoroku entry was cancelled."
     },
     "86": {
         "すごろくを遊ぶには|カジノプレイチケットが　３枚必要です。|<br>|カジノプレイチケットをお持ちのうえ|またおこしください！<auto_bw=5000><close>": "In order to play Sugoroku, you need|3 Casino Play Tickets.|<br>|Please come back with enough Casino Play|Tickets!<auto_bw=5000><close>"
