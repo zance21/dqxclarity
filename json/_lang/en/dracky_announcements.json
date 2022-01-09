@@ -4707,7 +4707,7 @@
         "clarity_nt_char_1569": "clarity_nt_char_1569"
     },
     "1570": {
-        "進行エラーがあったため 開始位置に戻ります": ""
+        "進行エラーがあったため 開始位置に戻ります": "Progress error. Returning to starting point."
     },
     "1571": {
         "源世庫パニガルムの４人バトルに誘われました!": "Invited to a 4 player Panigalm battle!"
@@ -5022,6 +5022,6 @@
         "clarity_nt_char_1674": "clarity_nt_char_1674"
     },
     "1675": {
-        "進行エラーがあったため 外に出ます": ""
+        "進行エラーがあったため 外に出ます": "Progress error occurred. Returning outside."
     }
 }
