@@ -213,16 +213,16 @@
         "<center>～はじめて　ビンゴをプレイされる方へ～<left>|<br>|ビンゴでは　座席の占有防止のため|ゲーム終了後　３０秒間　操作をしていない方には|強制的に　ご退席をしていただいております。|<br>|また　周りの方に　ご迷惑となるような発言も|おひかえ下さい。マナーを守って　楽しく|遊んでいただきますよう　ご協力お願いします。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": "～For first-time bingo playersIn order to prevent bingo from taking up too|much of your seat, we're going to have to ask|anyone who hasn't played in the last 30|<br>|seconds to leave the room. We also ask that|you refrain from making any comments that may|disturb those around you. We ask that you|<br>|please mind your manners and enjoy the game.|And good luck to you.  Casino owner Von|Baldi.|<br>"
     },
     "72": {
-        "すでに　はじまっています。|次の回まで　待ちますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "It's already started... Do you want to wait|for the next one? (Floor|<%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
+        "すでに　はじまっています。|次の回まで　待ちますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "It's already started. Do you want to wait|for the next one?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
     },
     "73": {
-        "ビンゴは　どうぐかばんに　１つ|空きがないと　遊べません。|<br>|どうぐかばんを整理して|必要な空きを作ってから　またおこしください。": "You can't play bingo unless there's an empty|spot in your toolbox. We'll sort through the|trinkets, make the necessary room, and then|<br>|we'll..."
+        "ビンゴは　どうぐかばんに　１つ|空きがないと　遊べません。|<br>|どうぐかばんを整理して|必要な空きを作ってから　またおこしください。": "You can't play Bingo unless you have 1 open|slot in your item bag.|<br>|Please reorganize your item bag and then try|again."
     },
     "74": {
-        "<speed=0>一定時間　ビンゴをはじめなかったので|席から離れました。": "<speed=0>I didn't start playing bingo for a certain|amount of time, so I left my seat..."
+        "<speed=0>一定時間　ビンゴをはじめなかったので|席から離れました。": "<speed=0>You were idle too long so you left your seat."
     },
     "75": {
-        "<speed=0>一定時間　ビンゴをはじめなかったので|席から離れました。": "<speed=0>I didn't start bingo for a certain amount of|time, so I left my seat..."
+        "<speed=0>一定時間　ビンゴをはじめなかったので|席から離れました。": "<speed=0>You were idle too long so you left your seat."
     },
     "76": {
         "ビンゴを１０回プレイしたので|メタルビンゴチケットを　手に入れた！": "I played 10 rounds of bingo, so I got my|metal bingo tickets!"
