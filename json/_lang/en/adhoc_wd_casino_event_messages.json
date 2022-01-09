@@ -3,7 +3,7 @@
         "カジノ": "Casino"
     },
     "2": {
-        "ゴールデンスライム": "golden slime"
+        "ゴールデンスライム": "Gem Slime"
     },
     "3": {
         "ゴールデントーテム": "Gem Jamboree"
@@ -30,7 +30,7 @@
         "カジノレイドを終了します。<auto_bw=3000><close>": "The Casino Raid is over.<auto_bw=3000><close>"
     },
     "11": {
-        "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": "<pc> They got <%dM_coin> coins from|<%sCAS_monster>!<auto_bw=2000><close>"
+        "<pc>たちは　<%sCAS_monster>から|<%dM_coin>枚のコインを手に入れた！<auto_bw=2000><close>": "<pc> and co. received <%dM_coin> Coins|from <%sCAS_monster>!<auto_bw=2000><close>"
     },
     "12": {
         "カジノレイドを戦って　全部で|<%dM_coin>枚のコインを　手に入れた！<auto_bw=3000><close>": "Received <%dM_coin> Coins from fighting|in the Casino Raid!<auto_bw=3000><close>"
@@ -63,10 +63,10 @@
         "５分間　スロットをプレイしなかったので|席から離れました。": "I didn't play the slots for five minutes, so|I left my seat..."
     },
     "22": {
-        "１番コーナー": "No 1 corner"
+        "１番コーナー": "Corner 1"
     },
     "23": {
-        "２番コーナー": "2nd corner"
+        "２番コーナー": "Corner 2"
     },
     "24": {
         "３番コーナー": "Corner 3"
@@ -93,10 +93,10 @@
         "10番コーナー": "Corner 10"
     },
     "32": {
-        "１番テーブル": "Number 1 table"
+        "１番テーブル": "Table 1"
     },
     "33": {
-        "２番テーブル": "Number 2 table"
+        "２番テーブル": "Table 2"
     },
     "34": {
         "３番テーブル": "Table 3"
@@ -123,13 +123,13 @@
         "10番テーブル": "Table 10"
     },
     "42": {
-        "<speed=0>一定時間　ポーカーをはじめなかったので|席から離れました。": "<speed=0>I didn't start playing poker for a certain|amount of time, so I left my seat..."
+        "<speed=0>一定時間　ポーカーをはじめなかったので|席から離れました。": "<speed=0>You were idle too long and left your seat."
     },
     "43": {
-        "<speed=0>一定時間　ルーレットを|はじめなかったので　席から離れました。": "<speed=0>I didn't start playing roulette for a certain|amount of time, so I left my seat..."
+        "<speed=0>一定時間　ルーレットを|はじめなかったので　席から離れました。": "<speed=0>You were idle too long and left your seat."
     },
     "44": {
-        "<speed=0>一定時間　スロットをはじめなかったので|席から離れました。": "<speed=0>He didn't start playing the slots for a|certain amount of time, so I left my seat..."
+        "<speed=0>一定時間　スロットをはじめなかったので|席から離れました。": "<speed=0>You were idle too long and left your seat."
     },
     "45": {
         "<center>～はじめて　ポーカーをプレイされる方へ～<left>|<br>|ポーカーでは　座席の占有防止のため|５分間　操作やプレイをしていない方には|強制的に　ご退席をしていただいております。|<br>|たとえ　ダブルアップの　最中だったとしても|負け判定となり　退席していただくことに|なりますので　十分ご注意ください。|<br>|また　周りの方に　ご迷惑となるような発言も|おひかえ下さい。マナーを守って　楽しく|遊んでいただきますよう　ご協力お願いします。|<br>|では　あなたに幸運がおとずれますよう。|　　　　　　　カジノオーナー　フォン・バルディ": "～If you're new to pokerIn poker, in order to prevent seat occupancy,|anyone who has not operated or played for|five minutes will be asked to leave the room.|<br>|Even if you are in the middle of a double up,|you will be judged to have lost and will be|asked to leave the room. Also, please refrain|<br>|from making any comments that may disturb|those around you... Please mind your manners|and have fun playing. And good luck to you.|<br>|Casino owner Von Baldi."
