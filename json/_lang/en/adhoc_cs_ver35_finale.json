@@ -1347,10 +1347,10 @@
         "「それでは　この私が　エステラさんを|　竜族の隠れ里へ　ご案内いたしましょう。": "Well then, I'll take Estella to the Hidden|Dragon Village."
     },
     "450": {
-        "「彼らもまた　同胞を探しだし|　竜族を再興させることを　夢見ているのです。": "They, too, dream of finding their people and|rebuilding the Dragon tribe."
+        "「彼らもまた　同胞を探しだし|　竜族を再興させることを　夢見ているのです。": "They, too, dream of finding their brethren and|reviving the Dragon people."
     },
     "451": {
-        "「でも　その前に……|　<pc>さんを　お借りしますよ？": "But first|<pc> Can I borrow you, sir?"
+        "「でも　その前に……|　<pc>さんを　お借りしますよ？": "But, first... <pc>, can I borrow|you for a minute?"
     },
     "452": {
         "<center>アァアァアァアァアァアァァァァ…………": "Aaaaaaaaahhh......"
@@ -1872,7 +1872,7 @@
         "「ありがとうございます　<pc>殿。": "Thank you so much, <pc>."
     },
     "625": {
-        "「<pc>さん。|　アストルティアで　また　お会いしましょう。": "<pc> Hello. I'll see you again in Astrutia..."
+        "「<pc>さん。|　アストルティアで　また　お会いしましょう。": "<pc>. We'll meet again in Astoltia."
     },
     "626": {
         "<if_woman>「姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<endif>": "<if_woman>I have a lot of friends who would die for|you...<else>I have a lot of friends who would die for|you...<endif>"
