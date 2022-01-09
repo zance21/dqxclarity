@@ -1695,7 +1695,7 @@
         "<if_woman>「だけど　姉ちゃんには　強くて優しい仲間……<else>「だけど　兄ちゃんには　強くて優しい仲間……<endif>": "But you have strong and kind friends..."
     },
     "566": {
-        "「おいらね　すごく安心したんだ。": "I'm so relieved..."
+        "「おいらね　すごく安心したんだ。": "I feel so relieved."
     },
     "567": {
         "「だからさ……笑って　さよならが言えるよ。": "So... Smile and say goodbye..."
@@ -1878,13 +1878,13 @@
         "<if_woman>「姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<endif>": "You have a lot of friends who'd be willing|to give up their lives for you."
     },
     "627": {
-        "「<pc>のために　命を削ってくれるような|　仲間が　いっぱいいた。": "<pc> I've got a lot of people who would die for|me."
+        "「<pc>のために　命を削ってくれるような|　仲間が　いっぱいいた。": "You have a lot of friends who'd be willing|to give up their lives for you."
     },
     "628": {
-        "「<pc>のために　命を削ってくれるような|　仲間が　いっぱいいたわ。": "<pc> I've got a lot of people who are willing to|die for me."
+        "「<pc>のために　命を削ってくれるような|　仲間が　いっぱいいたわ。": "You have a lot of friends who'd be willing|to give up their lives for you."
     },
     "629": {
-        "<if_woman>「お姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいたのね。<else>「お兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいたのね。<endif>": "<if_woman>I have a lot of friends who would die for|you...<else>I have a lot of friends who would die for|you.<endif>"
+        "<if_woman>「お姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいたのね。<else>「お兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいたのね。<endif>": "You have a lot of friends who'd be willing|to give up their lives for you."
     },
     "630": {
         "「にゃ～ん。": "に..."
