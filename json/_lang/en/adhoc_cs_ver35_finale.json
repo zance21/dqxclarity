@@ -1680,10 +1680,10 @@
         "「どれほどの月日が……か。 |　おいらにとっちゃ　数千年の旅路だからなぁ。": "How long has it been...? For me, it's been|a journey over thousands of years."
     },
     "561": {
-        "「まっ　その話は　いつか話すよ。|　今はさ……今しかできない話をしよう。": "Well, we'll talk about it someday. For now...|Let's talk about something we can only do|now."
+        "「まっ　その話は　いつか話すよ。|　今はさ……今しかできない話をしよう。": "Well, I'll tell you about it someday. For|now... let's talk about what we can do now."
     },
     "562": {
-        "<if_woman>「あのさ　姉ちゃん……。 |　もう　忘れてるかもだけど　あの日……<else>「あのさ　兄ちゃん……。 |　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, Sis... I know you've probably|forgotten, but that day...<else>You know, brother... I know you've probably|forgotten, but that day...<endif>"
+        "<if_woman>「あのさ　姉ちゃん……。 |　もう　忘れてるかもだけど　あの日……<else>「あのさ　兄ちゃん……。 |　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, sis... You've probably forgotten,|but on that day...<else>You know, bro... You've probably forgotten,|but on that day...<endif>"
     },
     "563": {
         "「会いたくなかったなんて　言ってごめんね。|　ほんとは　胸が苦しくなるくらい|　……うれしかった。": "I didn't want to tell you that I didn't want|to see you. It's just that it's been so hard|for me to... I'm so..."
