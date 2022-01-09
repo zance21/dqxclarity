@@ -1167,16 +1167,16 @@
         "「人は　自らの運命に　立ち向かっていけるわ！|　<cs_pchero>なら　それを証明してくれる！": "Man can face his own destiny!|<cs_pchero> will prove it to you!"
     },
     "390": {
-        "<if_woman>「人は　自らの運命に　立ち向かっていけるよ！|　お姉ちゃんなら　それを証明してくれるよね！<else>「人は　自らの運命に　立ち向かっていけるよ！|　お兄ちゃんなら　それを証明してくれるよね！<endif>": "<if_woman>A man can face his own destiny! I know you|can prove it!<else>A man can face his own destiny! I know you'll|prove it to me!<endif>"
+        "<if_woman>「人は　自らの運命に　立ち向かっていけるよ！|　お姉ちゃんなら　それを証明してくれるよね！<else>「人は　自らの運命に　立ち向かっていけるよ！|　お兄ちゃんなら　それを証明してくれるよね！<endif>": "<if_woman>Man can face his own destiny! My sister will|prove that to you!<else>Man can face his own destiny! My brother will|prove that to you!<endif>"
     },
     "391": {
-        "「行くぜ……<cs_pchero>！！": "Let's go<cs_pchero>No!"
+        "「行くぜ……<cs_pchero>！！": "Let's go, <cs_pchero>!!"
     },
     "392": {
-        "「行くわよ……<cs_pchero>！！": "Let's go<cs_pchero>No!"
+        "「行くわよ……<cs_pchero>！！": "Let's go, <cs_pchero>!!"
     },
     "393": {
-        "<if_woman>「行こう……お姉ちゃん！！<else>「行こう……お兄ちゃん！！<endif>": "<if_woman>Let's go... Hey, sis!<else>Let's go... Big brother!<endif>"
+        "<if_woman>「行こう……お姉ちゃん！！<else>「行こう……お兄ちゃん！！<endif>": "Let's go, <cs_pchero>!!"
     },
     "394": {
         "<if_woman>「姉ちゃん……もう　もたない！|　はやく……！<else>「兄ちゃん……もう　もたない！|　はやく……！<endif>": "<if_woman>Sis... I can't hold on! Come on!<else>Brother... I can't hold on! Come on!<endif>"
