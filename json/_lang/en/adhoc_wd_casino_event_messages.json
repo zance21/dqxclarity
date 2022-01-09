@@ -15,10 +15,10 @@
         "おどるほうせき": "Goodybag"
     },
     "6": {
-        "<%dM_coin>コイン　ポーカーがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "<%dM_coin>coin There is a|poker... Would you like to play? (Floor|<%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
+        "<%dM_coin>コイン　ポーカーがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "This is a <%dM_coin> Coin poker machine.|Do you want to play?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
     },
     "7": {
-        "<%dM_coin>コイン　ルーレットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "<%dM_coin>coin There's a|roulette... Would you like to play? (Floor|<%nW_INSTANCE_NO>|<br>|<%sCAS_room>|<%sCAS_table>)<yesno><close>"
+        "<%dM_coin>コイン　ルーレットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "This is a <%dM_coin> Coin roulette table.|Do you want to play?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
     },
     "8": {
         "<%dM_coin>コイン　スロットがあります。|遊びますか？|（フロア<%nW_INSTANCE_NO>　<%sCAS_room>　<%sCAS_table>）<yesno><close>": "This is a <%dM_coin> Coin slot machine.|Do you want to play?|(Floor <%dW_INSTANCE_NO> <%sCAS_room> <%sCAS_table>)<yesno><close>"
@@ -54,13 +54,13 @@
         "コインがありませんので|お買い求めのうえ　またおこしください！": "You don't have any coins! Please come back|after purchasing some."
     },
     "19": {
-        "５分間　ポーカーをプレイしなかったので|席から離れました。": "I didn't play poker for five minutes, so I|left my seat..."
+        "５分間　ポーカーをプレイしなかったので|席から離れました。": "You didn't play for 5 minutes, so you left|your seat."
     },
     "20": {
-        "５ゲームの間　ルーレットを|プレイしなかったので　席から離れました。": "I didn't play roulette for five games, so I|left my seat..."
+        "５ゲームの間　ルーレットを|プレイしなかったので　席から離れました。": "You didn't play for 5 rounds, so you left|your seat."
     },
     "21": {
-        "５分間　スロットをプレイしなかったので|席から離れました。": "I didn't play the slots for five minutes, so|I left my seat..."
+        "５分間　スロットをプレイしなかったので|席から離れました。": "You didn't play for 5 minutes, so you left|your seat."
     },
     "22": {
         "１番コーナー": "Corner 1"
