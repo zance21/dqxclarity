@@ -1704,7 +1704,7 @@
         "<if_woman>「いつの時代でも　どんな姿でも……|　姉ちゃんを…………きっと　見つけるから。<else>「いつの時代でも　どんな姿でも……|　兄ちゃんを…………きっと　見つけるから。<endif>": "Wherever you are, however you look... I will|find you. I'm sure of it."
     },
     "569": {
-        "「……最後に　３人で話したいって|　<kyodai>さんが　おっしゃいましてね。": "...<kyodia> said they wanted the|three of us to talk one last time."
+        "「……最後に　３人で話したいって|　<kyodai>さんが　おっしゃいましてね。": "...<kyodai> said they wanted the|three of us to talk one last time."
     },
     "570": {
         "「しかし　悲しむことはありません。": "But don't be sad."
@@ -1746,13 +1746,13 @@
         "<if_woman>「あのね　お姉ちゃん……。|　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。|　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>You know, sis... You've probably forgotten,|but on that day...<else>You know, bro... You've probably forgotten,|but on that day...<endif>"
     },
     "583": {
-        "「会いたくなかったなんて　言って悪かったな。|　ほんとは　胸が苦しくなるくらい|　……うれしかったぜ。": "I'm sorry I said I didn't want to see you...|It's just... it's really hard to... I'm so..."
+        "「会いたくなかったなんて　言って悪かったな。|　ほんとは　胸が苦しくなるくらい|　……うれしかったぜ。": "I'm sorry that I said I didn't want to see|you. In fact, I was so happy... so happy|that my heart ached."
     },
     "584": {
-        "「会いたくなかったなんて　言ってごめんね。|　ほんとは　胸が苦しくなるくらい|　……うれしかったわよ。": "I didn't want to tell you that I didn't want|to see you. It's just that it's been so hard|for me to... I'm so happy..."
+        "「会いたくなかったなんて　言ってごめんね。|　ほんとは　胸が苦しくなるくらい|　……うれしかったわよ。": "I'm sorry that I said I didn't want to see|you. In fact, I was so happy... so happy|that my heart ached."
     },
     "585": {
-        "「会いたくなかったなんて　言ってごめんなさい。|　ほんとは　胸が苦しくなるくらい|　……うれしかったの。": "I'm sorry I said I didn't want to see you...|It's just that it's been so hard on me. I'm|so..."
+        "「会いたくなかったなんて　言ってごめんなさい。|　ほんとは　胸が苦しくなるくらい|　……うれしかったの。": "I'm sorry that I said I didn't want to see|you. In fact, I was so happy... so happy|that my heart ached."
     },
     "586": {
         "「オレさ　<pc>が　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったんだ。": "You know what?<pc> I was so scared when I heard the prediction."
