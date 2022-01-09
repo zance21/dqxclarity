@@ -1692,7 +1692,7 @@
         "<if_woman>「おいら　姉ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったんだ。<else>「おいら　兄ちゃんが　死ぬって予知を聞いて|　怖くて怖くて　たまらなかったんだ。<endif>": "<if_woman>When I heard that my sister was going to die,|I was so scared...<else>When I heard that my brother was going to|die, I was so scared...<endif>"
     },
     "565": {
-        "<if_woman>「だけど　姉ちゃんには　強くて優しい仲間……<else>「だけど　兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>But you have strong, kind friends<else>But you have a strong and kind friend<endif>"
+        "<if_woman>「だけど　姉ちゃんには　強くて優しい仲間……<else>「だけど　兄ちゃんには　強くて優しい仲間……<endif>": "But you have strong and kind friends..."
     },
     "566": {
         "「おいらね　すごく安心したんだ。": "I'm so relieved..."
@@ -1875,7 +1875,7 @@
         "「<pc>さん。|　アストルティアで　また　お会いしましょう。": "<pc>. We'll meet again in Astoltia."
     },
     "626": {
-        "<if_woman>「姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<endif>": "<if_woman>I have a lot of friends who would die for|you...<else>I have a lot of friends who would die for|you...<endif>"
+        "<if_woman>「姉ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような|　仲間が　いっぱいいた。<endif>": "You have a lot of friends who'd be willing|to give up their lives for you."
     },
     "627": {
         "「<pc>のために　命を削ってくれるような|　仲間が　いっぱいいた。": "<pc> I've got a lot of people who would die for|me."
