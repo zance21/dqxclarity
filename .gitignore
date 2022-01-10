@@ -16,3 +16,4 @@ console.log
 **/dqx_out
 app/json/_lang
 app/bms/json
+app/bms/hex_dict.csv
