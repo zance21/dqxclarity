@@ -1,6 +1,6 @@
 {
     "1": {
-        "「どの装備の　どの錬金効果を|　強化させたいかの？|<break>": "Which equipment's alchemy effects do you|want to strengthen?|<break>"
+        "「どの装備の　どの錬金効果を|　強化させたいかの？|<break>": "Which equipment's alchemy effects do you|want to enhance?|<break>"
     },
     "2": {
         "「ほう……　<%sL_MAT_ITEM>を　<%dL_NUM>個　使って|　<%sL_RENKIN_BEFORE>の効果を|　<%sL_RENKIN_AFTER>に　強化するのか？|<yesno 2><break>": ""
@@ -45,10 +45,10 @@
         "「他に　用は　あるか？|<break>": ""
     },
     "16": {
-        "「錬金効果を　強化するのか？|<break>": "Want to boost your alchemy effects?|<break>"
+        "「錬金効果を　強化するのか？|<break>": "Want to enhance your alchemy effects?|<break>"
     },
     "17": {
-        "<select_se_off>|錬金効果を強化する|説明を聞く|<select_end><break>": ""
+        "<select_se_off>|錬金効果を強化する|説明を聞く|<select_end><break>": "<select_se_off>|Enhance Alchemy Effects|Explanation|<select_end><break>"
     },
     "18": {
         "「初めて見る顔だな。|　聞こえるぞ……　お前の持つ|　装備品たちの　嘆きの声がな。|<br>|「よりよき　錬金効果さえ　つけられれば|　その能力を　充分に発揮できると嘆く|　装備品たち……さぞ　無念なことだろう。|<br>|「だが　安心してくれ。|　俺は　そんな装備品たちを　救うため|　錬金効果を　強化する技術を　編みだした。|<br>|「錬金石という素材を　持ってくれば|　お前が装備したことのある　レベル85以上の|　装備品の錬金効果を　強化してやろう。|<br>|「錬金石には　いくつか　種類があるが|　その装備に　見合った石でなければ　だめだ。|　装備品たちにも　相性があるからな。|<br>|「それから　強化といっても|　錬金職人が　つけられる最高の値まで|　高めることは　できない。|<br>|「それに　強化できないものも　一部ある。|　錬金効果を　まだ　つけられる装備品とか|　パルプンテでしか　つけられない効果とかな。|<br>|「残念だが　俺にもすべての装備品を|　救うことはできない……|　その点は　理解してくれ。さて……|<bw_break>": ""
