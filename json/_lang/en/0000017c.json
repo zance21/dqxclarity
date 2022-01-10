@@ -78,10 +78,10 @@
         "<right>ラウラリエの丘→|<left>←残響の海蝕洞": "→ Laurarie Hill|← Echoing Sea Cave"
     },
     "27": {
-        "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": ""
+        "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": "→ Ethene Kingdom Area|← Starfall Valley/Freedom Village"
     },
     "28": {
-        "<left>←星落ちる谷|<right>自由人の集落→": ""
+        "<left>←星落ちる谷|<right>自由人の集落→": "← Starfall Valley|→ Freedom Village"
     },
     "29": {
         "<center>この先　マデ神殿|<center>封鎖中のため　立ち入り禁止。": ""
@@ -468,7 +468,7 @@
         "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": "→ Ethene Kingdom Area|← Starfall Valley/Freedom Village"
     },
     "157": {
-        "<left>←星落ちる谷|<right>自由人の集落→": ""
+        "<left>←星落ちる谷|<right>自由人の集落→": "← Starfall Valley|→ Freedom Village"
     },
     "158": {
         "<center>この先　マデ神殿|<center>封鎖中のため　立ち入り禁止。": ""
