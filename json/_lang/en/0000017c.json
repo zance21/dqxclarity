@@ -63,10 +63,10 @@
         "<left>郵便局の　看板だ。": "<left>It's a post office sign."
     },
     "22": {
-        "<right>辺境警備隊詰所→|<left>←現在調査中のため　立ち入り禁止": ""
+        "<right>辺境警備隊詰所→|<left>←現在調査中のため　立ち入り禁止": "→ Frontier Guard Post|← No trespassing due to ongoing investigation"
     },
     "23": {
-        "<right>辺境警備隊詰所→|<left>←辺境のほら穴": ""
+        "<right>辺境警備隊詰所→|<left>←辺境のほら穴": "→ Frontier Guard Post|← Frontier Den"
     },
     "24": {
         "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": ""
@@ -480,10 +480,10 @@
         "<right>ラウラリエの丘→|<left>←残響の海蝕洞": ""
     },
     "161": {
-        "<right>辺境警備隊詰所→|<left>←現在調査中のため　立ち入り禁止": ""
+        "<right>辺境警備隊詰所→|<left>←現在調査中のため　立ち入り禁止": "→ Frontier Guard Post|← No trespassing due to ongoing investigation"
     },
     "162": {
-        "<right>辺境警備隊詰所→|<left>←辺境のほら穴": ""
+        "<right>辺境警備隊詰所→|<left>←辺境のほら穴": "→ Frontier Guard Post|← Frontier Den"
     },
     "163": {
         "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": ""
