@@ -69,13 +69,13 @@
         "<right>辺境警備隊詰所→|<left>←辺境のほら穴": "→ Frontier Guard Post|← Frontier Den"
     },
     "24": {
-        "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": ""
+        "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": "← Frontier Guard Post|→ Ethene Kingdom Area|↓ Lethe Lake"
     },
     "25": {
-        "<left>←王都キィンベル|<right>ラウラリエの丘・残響の海蝕洞→": ""
+        "<left>←王都キィンベル|<right>ラウラリエの丘・残響の海蝕洞→": "← Royal City Kimbel|→ Laurarie Hill/Echoing Sea Cave"
     },
     "26": {
-        "<right>ラウラリエの丘→|<left>←残響の海蝕洞": ""
+        "<right>ラウラリエの丘→|<left>←残響の海蝕洞": "→ Laurarie Hill|← Echoing Sea Cave"
     },
     "27": {
         "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": ""
@@ -465,7 +465,7 @@
         "動力炉内の動力球の光が　明滅を始めたら|交換の合図です。光が　完全に消える前に|新品の動力球と　交換してください。": ""
     },
     "156": {
-        "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": ""
+        "<right>エテーネ王国領→|<left>←星落ちる谷・自由人の集落": "→ Ethene Kingdom Area|← Starfall Valley/Freedom Village"
     },
     "157": {
         "<left>←星落ちる谷|<right>自由人の集落→": ""
@@ -474,10 +474,10 @@
         "<center>この先　マデ神殿|<center>封鎖中のため　立ち入り禁止。": ""
     },
     "159": {
-        "<left>←王都キィンベル|<right>ラウラリエの丘・残響の海蝕洞→": ""
+        "<left>←王都キィンベル|<right>ラウラリエの丘・残響の海蝕洞→": "← Royal City Kimbel|→ Laurarie Hill/Echoing Sea Cave"
     },
     "160": {
-        "<right>ラウラリエの丘→|<left>←残響の海蝕洞": ""
+        "<right>ラウラリエの丘→|<left>←残響の海蝕洞": "→ Laurarie Hill|← Echoing Sea Cave"
     },
     "161": {
         "<right>辺境警備隊詰所→|<left>←現在調査中のため　立ち入り禁止": "→ Frontier Guard Post|← No trespassing due to ongoing investigation"
@@ -486,7 +486,7 @@
         "<right>辺境警備隊詰所→|<left>←辺境のほら穴": "→ Frontier Guard Post|← Frontier Den"
     },
     "163": {
-        "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": ""
+        "<left>←辺境警備隊詰所|<right>エテーネ王国領→|<center>↓レーテの湖": "← Frontier Guard Post|→ Ethene Kingdom Area|↓ Lethe Lake"
     },
     "164": {
         "錬金釜の中で　得体のしれない物が|ぐつぐつ　煮えたぎっている……。": ""
