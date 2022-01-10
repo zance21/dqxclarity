@@ -21,7 +21,7 @@
         "「私は　身体の持ち主である　クロウズの望み……|　彼の故郷である　竜族の隠れ里の復興を|　かなえようと　ここまで　来たつもりでした。": "I've come this far to fulfill the wishes of|Claws, the original owner of this body... to|restore his home, the Hidden Dragon Village."
     },
     "8": {
-        "「しかし　気づけば　<kyodai>さんと再会し |　今　<pc>さんと　ともに戦っている。": "However, I found myself reunited with <kyodai>,|and now fighting alongside you as well."
+        "「しかし　気づけば　<kyodai>さんと再会し |　今　<pc>さんと　ともに戦っている。": "However, I found myself reunited with|<kyodai>, and now fighting alongside|you as well."
     },
     "9": {
         "「滅びたエテーネの村の３人が　導かれ合い |　いつの間にか　私自身……|　シンイ自らの戦いにも　なりつつあります。": "Three people from the destroyed village of|Ethene have been brought together... Before I|<br>|knew it, I was fighting a battle with|myself... as Shini."
@@ -93,7 +93,7 @@
         "「あなたを　ひとりで行かせたら|　<kyodai>さんに　顔向けできませんから。|　背中は　私に預けてください。": "If I were to let you go alone, I wouldn't|hear the end of it from <kyodai>.|I have your back, so don't worry."
     },
     "32": {
-        "「目指すのは　５つの領界にある|　ナドラガ神のほこら……|　その番人の討伐と　神の器たちの奪還です。": "We need to seek out the Nadraga shrines in|each of the five realms... we'll have to|defeat their guardians and take back the|<br>|tdivine vessels."
+        "「目指すのは　５つの領界にある|　ナドラガ神のほこら……|　その番人の討伐と　神の器たちの奪還です。": "We need to seek out the Nadraga shrines in|each of the five realms... we'll have to|defeat their guardians and take back the|<br>|divine vessels."
     },
     "33": {
         "「どのほこらに　向かうかは　おまかせします。|　さあ　ともに行きましょう！": "I'll leave it up to you to decide which shrine|to go to. Well then, let's go!"
@@ -1182,7 +1182,7 @@
         "<if_woman>「姉ちゃん……もう　もたない！|　はやく……！<else>「兄ちゃん……もう　もたない！|　はやく……！<endif>": "<if_woman>Sis... I can't hold on! Come on!<else>Brother... I can't hold on! Come on!<endif>"
     },
     "395": {
-        "「<cs_pchero>……もう　もたないぜ！|　はやく……！": ""
+        "「<cs_pchero>……もう　もたないぜ！|　はやく……！": "<cs_pchero>... I can't hold out much|longer! Hurry...!"
     },
     "396": {
         "「<cs_pchero>……もう　もたないわよ！|　はやく……！": "<cs_pchero>... We can't hold them off much longer! Come|on."
@@ -1431,10 +1431,10 @@
         "「おそらく　断罪の剣とは　あのことでしょう。": "Perhaps that is what the Sword of Atonement|is for."
     },
     "478": {
-        "「あんなヤツと……どうやって戦うんだ？": ""
+        "「あんなヤツと……どうやって戦うんだ？": "How do we... fight this guy?"
     },
     "479": {
-        "「あんなヤツと……どうやって戦うわけ？": ""
+        "「あんなヤツと……どうやって戦うわけ？": "How do we... fight this guy?"
     },
     "480": {
         "「あんなのと……どうやって戦うの？": "That thing... How do we fight them?"

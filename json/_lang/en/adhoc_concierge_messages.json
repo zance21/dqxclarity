@@ -288,7 +288,7 @@
         "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me the special coupon... I'm|praying for a good luck...<end>"
     },
     "97": {
-        "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+        "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|Play the SP Lottery|Play 10 SP Lottery|View Prizes|<select_end><break>"
     },
     "98": {
         "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
