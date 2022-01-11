@@ -5190,7 +5190,7 @@
         "clarity_nt_char_1730": "clarity_nt_char_1730"
     },
     "1731": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには きかなかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eには きかなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e wasn't affected!"
     },
     "1732": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは じわれの印を ひいた！": ""
@@ -6573,7 +6573,7 @@
         "clarity_nt_char_2191": "clarity_nt_char_2191"
     },
     "2192": {
-        "<%sB_TARGET>には きかなかった！": ""
+        "<%sB_TARGET>には きかなかった！": "<%sB_TARGET> wasn't affected!"
     },
     "2193": {
         "clarity_nt_char_2193": "clarity_nt_char_2193"
