@@ -105,7 +105,7 @@
         "送信エラー！対象オフ：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Send Error! Offline: <%sM_speaker> \"<%sM_chat>...\" ＞ <%sM_listener>"
     },
     "36": {
-        "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>」": ""
+        "送信エラー！対象不在：<%sM_speaker>「<%sM_chat>」": "Send Error! No Target: <%sM_speaker> \"<%sM_chat>\""
     },
     "37": {
         "clarity_nt_char_37": "clarity_nt_char_37"
@@ -150,7 +150,7 @@
         "clarity_nt_char_50": "clarity_nt_char_50"
     },
     "51": {
-        "<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
+        "<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_speaker> \"<%sM_chat>…\"→ <%sM_listener>"
     },
     "52": {
         "clarity_nt_char_52": "clarity_nt_char_52"
@@ -648,19 +648,19 @@
         "<speed=0>通信に失敗しました。|時間を置いて　もう一度お試しください。": ""
     },
     "217": {
-        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>」": ""
+        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>」": "Send Error! Withheld: <%sM_speaker> \"<%sM_chat>\""
     },
     "218": {
-        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": ""
+        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Send Error! Withheld: <%sM_speaker> \"<%sM_chat>\"→ <%sM_listener>"
     },
     "219": {
-        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": ""
+        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Send Error! Withheld: <%sM_speaker> \"<%sM_chat>...\"→ <%sM_listener>"
     },
     "220": {
         "clarity_nt_char_220": "clarity_nt_char_220"
     },
     "221": {
-        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」": ""
+        "送信エラー！非通知：<%sM_speaker>「<%sM_chat>…」": "Send Error! Withheld: <%sM_speaker> \"<%sM_chat>...\""
     },
     "222": {
         "clarity_nt_char_222": "clarity_nt_char_222"
@@ -972,7 +972,7 @@
         "clarity_nt_char_324": "clarity_nt_char_324"
     },
     "325": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>…\""
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\""
     },
     "326": {
         "まわりにチャット不可": "Nearby Chat Forbidden"
@@ -981,13 +981,13 @@
         "clarity_nt_char_327": "clarity_nt_char_327"
     },
     "328": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>\"＞<%sM_listener>"
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>\"→<%sM_listener>"
     },
     "329": {
         "clarity_nt_char_329": "clarity_nt_char_329"
     },
     "330": {
-        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
+        "まわりにチャット不可：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "Nearby Chat Forbidden: <%sM_speaker> \"<%sM_chat>...\"→ <%sM_listener>"
     },
     "331": {
         "ドルセリンチャージ！": "Dolsoline Charge!"
@@ -1629,7 +1629,7 @@
         "clarity_nt_char_543": "clarity_nt_char_543"
     },
     "544": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>…\""
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>...\""
     },
     "545": {
         "clarity_nt_char_545": "clarity_nt_char_545"
@@ -1638,13 +1638,13 @@
         "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>\""
     },
     "547": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>...\"＞ <%sM_listener>"
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>…」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>...\"→ <%sM_listener>"
     },
     "548": {
         "clarity_nt_char_548": "clarity_nt_char_548"
     },
     "549": {
-        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>\" ＞ <%sM_listener>"
+        "<%sM_ChatError>：<%sM_speaker>「<%sM_chat>」＞ <%sM_listener>": "<%sM_ChatError>: <%sM_speaker> \"<%sM_chat>\" → <%sM_listener>"
     },
     "550": {
         "チームチャット不可": ""
