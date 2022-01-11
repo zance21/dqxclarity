@@ -16188,7 +16188,7 @@
         "これ以上強化できません": ""
     },
     "5397": {
-        "あなたの<kyodai_rel3>の　体型を選んでください": ""
+        "あなたの<kyodai_rel3>の　体型を選んでください": "Please select your sibling's body shape."
     },
     "5398": {
         "あなたの<kyodai_rel3>の　名前と姿を思い出してください": ""
@@ -16224,7 +16224,7 @@
         "clarity_nt_char_5408": "clarity_nt_char_5408"
     },
     "5409": {
-        "とくぎを覚えていない": "I can't remember any skills."
+        "とくぎを覚えていない": "No known skills."
     },
     "5410": {
         "clarity_nt_char_5410": "clarity_nt_char_5410"
@@ -16260,13 +16260,13 @@
         "clarity_nt_char_5420": "clarity_nt_char_5420"
     },
     "5421": {
-        "強化後の装備": "EQ after upgrade"
+        "強化後の装備": "After Upgrade"
     },
     "5422": {
         "clarity_nt_char_5422": "clarity_nt_char_5422"
     },
     "5423": {
-        "強化前の装備": "EQ before upgrade"
+        "強化前の装備": "Before Upgrade"
     },
     "5424": {
         "clarity_nt_char_5424": "clarity_nt_char_5424"
@@ -16422,7 +16422,7 @@
         "（<%sM_tatujin_2>）": ""
     },
     "5475": {
-        "<%nM_tatujin_exp>": ""
+        "<%nM_tatujin_exp>": "<%dM_tatujin_exp>"
     },
     "5476": {
         "モンスターの生息地を見る": "View Monster Habitat"
@@ -16470,10 +16470,10 @@
         "<%sM_monster>の生息地": "<%sM_monster>'s Habitat"
     },
     "5491": {
-        "とても多い": "Very many"
+        "とても多い": "Very Many"
     },
     "5492": {
-        "多い": ""
+        "多い": "Many"
     },
     "5493": {
         "clarity_nt_char_5493": "clarity_nt_char_5493"
