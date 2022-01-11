@@ -183,7 +183,7 @@
         "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won first prize,|<%sL_PRIZENAME>!<bw><close>"
     },
     "62": {
-        "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You've won <%nL_TOU> and|more! Please choose <%sL_PRIZENAME> from the|following...<break>"
+        "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You've won <%dL_TOU> prize!|Please choose the prize you'd like.<break>"
     },
     "63": {
         "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "Are you sure you want to use|<%sL_KOUKAN_ITEM>?<yesno><break>"
