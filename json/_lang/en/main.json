@@ -16479,10 +16479,10 @@
         "clarity_nt_char_5493": "clarity_nt_char_5493"
     },
     "5494": {
-        "少ない": ""
+        "少ない": "Few"
     },
     "5495": {
-        "回数：": ""
+        "回数：": "No.:"
     },
     "5496": {
         "達人クエスト": "Master Quest"
@@ -16743,13 +16743,13 @@
         "clarity_nt_char_5581": "clarity_nt_char_5581"
     },
     "5582": {
-        "<%sM_item>/<%nM_num><%sM_Tani>": ""
+        "<%sM_item>/<%nM_num><%sM_Tani>": "<%sM_item>/<%dM_num><%sM_Tani>"
     },
     "5583": {
         "clarity_nt_char_5583": "clarity_nt_char_5583"
     },
     "5584": {
-        "<%nM_gold>Ｇ": ""
+        "<%nM_gold>Ｇ": "<%dM_gold>Ｇ"
     },
     "5585": {
         "預けられる宝珠": ""
@@ -16809,7 +16809,7 @@
         "(？？？)": "(???)"
     },
     "5604": {
-        "<%nM_rank>等": ""
+        "<%nM_rank>等": "<%dM_rank>"
     },
     "5605": {
         "特等町違い": "Town Difference"
@@ -16836,7 +16836,7 @@
         "clarity_nt_char_5612": "clarity_nt_char_5612"
     },
     "5613": {
-        "＋？": ""
+        "＋？": "+?"
     },
     "5614": {
         "clarity_nt_char_5614": "clarity_nt_char_5614"
@@ -17022,10 +17022,10 @@
         "clarity_nt_char_5674": "clarity_nt_char_5674"
     },
     "5675": {
-        "左の台": ""
+        "左の台": "L. Stand"
     },
     "5676": {
-        "中央の台": ""
+        "中央の台": "Mid. Stand"
     },
     "5677": {
         "clarity_nt_char_5677": "clarity_nt_char_5677"
