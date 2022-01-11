@@ -15120,22 +15120,22 @@
         "clarity_nt_char_5040": "clarity_nt_char_5040"
     },
     "5041": {
-        "【　終了　】": ""
+        "【　終了　】": "[ End ]"
     },
     "5042": {
         "clarity_nt_char_5042": "clarity_nt_char_5042"
     },
     "5043": {
-        "【 受付中 】": ""
+        "【 受付中 】": "[ Accepting ]"
     },
     "5044": {
-        "開催日時": ""
+        "開催日時": "Date/Time"
     },
     "5045": {
         "clarity_nt_char_5045": "clarity_nt_char_5045"
     },
     "5046": {
-        "挑戦中": ""
+        "挑戦中": "Underway"
     },
     "5047": {
         "【 ------ 】": ""
@@ -15159,7 +15159,7 @@
         "clarity_nt_char_5053": "clarity_nt_char_5053"
     },
     "5054": {
-        "<%03nM_number>": ""
+        "<%03nM_number>": "<%03dM_number>"
     },
     "5055": {
         "clarity_nt_char_5055": "clarity_nt_char_5055"
@@ -15186,7 +15186,7 @@
         "clarity_nt_char_5062": "clarity_nt_char_5062"
     },
     "5063": {
-        "降参する": ""
+        "降参する": "Surrender"
     },
     "5064": {
         "clarity_nt_char_5064": "clarity_nt_char_5064"
@@ -15198,7 +15198,7 @@
         "？？？/？？？": "???/???"
     },
     "5067": {
-        "準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": ""
+        "準備をしています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Preparing...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "5068": {
         "奇跡の星": "Miracle Star"
