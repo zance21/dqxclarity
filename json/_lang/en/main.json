@@ -14763,7 +14763,7 @@
         "clarity_nt_char_4921": "clarity_nt_char_4921"
     },
     "4922": {
-        "バッジ名": ""
+        "バッジ名": "Name"
     },
     "4923": {
         "clarity_nt_char_4923": "clarity_nt_char_4923"
@@ -14907,7 +14907,7 @@
         "捧げるもの": ""
     },
     "4970": {
-        "輝石効果はありません": ""
+        "輝石効果はありません": "No augite effects."
     },
     "4971": {
         "clarity_nt_char_4971": "clarity_nt_char_4971"
@@ -14964,7 +14964,7 @@
         "ランク制限": "Needed Rank"
     },
     "4989": {
-        "手に入れる輝石": ""
+        "手に入れる輝石": "Augite Obtained"
     },
     "4990": {
         "次の目標まで：": "Next Goal:"
@@ -15045,7 +15045,7 @@
         "{color=orange}<%sM_limit><%sM_time><%sM_time_unit><%sM_miman><%sM_enable>": ""
     },
     "5016": {
-        "報酬を受け取る": ""
+        "報酬を受け取る": "Receive Rewards"
     },
     "5017": {
         "次の特訓目標まで：": "Next Stamp Goal:"
@@ -15057,7 +15057,7 @@
         "<%sM_rank>ランク試験まで": "<%sM_rank> Rank until test"
     },
     "5020": {
-        "報酬：": ""
+        "報酬：": "Reward:"
     },
     "5021": {
         "現在のランク：": "Current Rank:"
@@ -15111,10 +15111,10 @@
         "clarity_nt_char_5037": "clarity_nt_char_5037"
     },
     "5038": {
-        "ＢＰ：": ""
+        "ＢＰ：": "BP:"
     },
     "5039": {
-        "コイン：": "Coin："
+        "コイン：": "Coin:"
     },
     "5040": {
         "clarity_nt_char_5040": "clarity_nt_char_5040"
