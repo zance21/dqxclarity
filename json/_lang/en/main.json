@@ -15729,7 +15729,7 @@
         "clarity_nt_char_5243": "clarity_nt_char_5243"
     },
     "5244": {
-        "モンスターの生息地": ""
+        "モンスターの生息地": "Monster Habitat"
     },
     "5245": {
         "討伐モンスター": "Defeated Monsters"
@@ -15798,13 +15798,13 @@
         "clarity_nt_char_5266": "clarity_nt_char_5266"
     },
     "5267": {
-        "使用中の素材": ""
+        "使用中の素材": "Used Mats."
     },
     "5268": {
         "clarity_nt_char_5268": "clarity_nt_char_5268"
     },
     "5269": {
-        "錬金を中断する": ""
+        "錬金を中断する": "Stop Alchemy"
     },
     "5270": {
         "なかみを見る": "View Contents"
@@ -15825,16 +15825,16 @@
         "clarity_nt_char_5275": "clarity_nt_char_5275"
     },
     "5276": {
-        "小ダメージ": ""
+        "小ダメージ": "Small Damage"
     },
     "5277": {
-        "中ダメージ": ""
+        "中ダメージ": "Mid Damage"
     },
     "5278": {
         "大ダメージ": "Big Damage"
     },
     "5279": {
-        "特大ダメージ": ""
+        "特大ダメージ": "Huge Damage"
     },
     "5280": {
         "clarity_nt_char_5280": "clarity_nt_char_5280"
@@ -15876,7 +15876,7 @@
         "clarity_nt_char_5292": "clarity_nt_char_5292"
     },
     "5293": {
-        "すべての丁目からさがす": "Search all Blocks"
+        "すべての丁目からさがす": "Search All Blocks"
     },
     "5294": {
         "達人のオーブ": "Master Orb"
@@ -15915,7 +15915,7 @@
         "炎のちから": "Fire"
     },
     "5306": {
-        "宝珠の強化": ""
+        "宝珠の強化": "Boost Jewel"
     },
     "5307": {
         "宝珠をはずす": "Remove Jewel"
@@ -15936,13 +15936,13 @@
         "達人経験値": ""
     },
     "5313": {
-        "宝珠のセット": ""
+        "宝珠のセット": "Jewel Set"
     },
     "5314": {
         "clarity_nt_char_5314": "clarity_nt_char_5314"
     },
     "5315": {
-        "宝珠リセット": ""
+        "宝珠リセット": "Jewel Reset"
     },
     "5316": {
         "clarity_nt_char_5316": "clarity_nt_char_5316"
@@ -16104,7 +16104,7 @@
         "clarity_nt_char_5368": "clarity_nt_char_5368"
     },
     "5369": {
-        "Lv <%2nM_lv>": ""
+        "Lv <%2nM_lv>": "Lv <%2dM_lv>"
     },
     "5370": {
         "clarity_nt_char_5370": "clarity_nt_char_5370"
@@ -16131,7 +16131,7 @@
         "[次の100件をみる]": "[View Next 100]"
     },
     "5378": {
-        "[前の100品をみる]": ""
+        "[前の100品をみる]": "[View Next 100]"
     },
     "5379": {
         "[前の100件をみる]": "[View Prev. 100]"
