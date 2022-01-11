@@ -15255,7 +15255,7 @@
         "正解したモンスターの数": "Monsters Answered Correctly"
     },
     "5086": {
-        "<%nM_kotae>": ""
+        "<%nM_kotae>": "<%dM_kotae>"
     },
     "5087": {
         "めざめの秘石": "Secret Stone"
@@ -15270,13 +15270,13 @@
         "clarity_nt_char_5090": "clarity_nt_char_5090"
     },
     "5091": {
-        "５．": ""
+        "５．": "5."
     },
     "5092": {
         "clarity_nt_char_5092": "clarity_nt_char_5092"
     },
     "5093": {
-        "４．": ""
+        "４．": "4."
     },
     "5094": {
         "clarity_nt_char_5094": "clarity_nt_char_5094"
@@ -15288,7 +15288,7 @@
         "clarity_nt_char_5096": "clarity_nt_char_5096"
     },
     "5097": {
-        "２．": ""
+        "２．": "2."
     },
     "5098": {
         "clarity_nt_char_5098": "clarity_nt_char_5098"
@@ -15300,7 +15300,7 @@
         "clarity_nt_char_5100": "clarity_nt_char_5100"
     },
     "5101": {
-        "クイズ結果": ""
+        "クイズ結果": "Quiz Results"
     },
     "5102": {
         "（ふつうの郵便）": "(Normal Mail)"
@@ -15330,7 +15330,7 @@
         "clarity_nt_char_5110": "clarity_nt_char_5110"
     },
     "5111": {
-        "プレゼントについて": ""
+        "プレゼントについて": "About Presents"
     },
     "5112": {
         "口調を変えるについて": ""
@@ -15378,7 +15378,7 @@
         "clarity_nt_char_5126": "clarity_nt_char_5126"
     },
     "5127": {
-        "着替えをする": ""
+        "着替えをする": "Change Clothes"
     },
     "5128": {
         "clarity_nt_char_5128": "clarity_nt_char_5128"
@@ -15477,7 +15477,7 @@
         "「コメント全角２０文字": ""
     },
     "5160": {
-        "テーブルＡ": ""
+        "テーブルＡ": "Table A"
     },
     "5161": {
         "ライトサイドルーム3階": "Light Side Room 3F"
