@@ -24537,7 +24537,7 @@
         "clarity_nt_char_8179": "clarity_nt_char_8179"
     },
     "8180": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは まぼろしに つつまれた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは まぼろしに つつまれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is surrounded by illusions!"
     },
     "8181": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 目が くらんだ！": ""
@@ -26595,7 +26595,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを ふしぎなたまに とじこめた！": ""
     },
     "8866": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを まぼろしに つつんだ！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを まぼろしに つつんだ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is surrounded by illusions!"
     },
     "8867": {
         "clarity_nt_char_8867": "clarity_nt_char_8867"
@@ -26820,7 +26820,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ころばなかった！": ""
     },
     "8941": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すなをふりはらった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すなをふりはらった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e shook off the sand!"
     },
     "8942": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは すばやく スミをかわした！": ""
@@ -26841,7 +26841,7 @@
         "clarity_nt_char_8947": "clarity_nt_char_8947"
     },
     "8948": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いを ふりはらった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪いを ふりはらった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e shook off the curse!"
     },
     "8949": {
         "clarity_nt_char_8949": "clarity_nt_char_8949"
@@ -31098,7 +31098,7 @@
         "clarity_nt_char_10366": "clarity_nt_char_10366"
     },
     "10367": {
-        "まぼろしに|つつんだ！": ""
+        "まぼろしに|つつんだ！": "Surrounded by|illusions!"
     },
     "10368": {
         "目をくらませた！": "Blinded!"
@@ -33177,7 +33177,7 @@
         "clarity_nt_char_11059": "clarity_nt_char_11059"
     },
     "11060": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに まぼろしに つつまれた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに まぼろしに つつまれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is further surrounded by illusions!"
     },
     "11061": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは さらに 目がくらんだ！": ""
@@ -33525,7 +33525,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに こんらんさせた！": ""
     },
     "11176": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに まぼろしに つつんだ！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを さらに まぼろしに つつんだ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is further surrounded by illusions!"
     },
     "11177": {
         "clarity_nt_char_11177": "clarity_nt_char_11177"
@@ -33711,7 +33711,7 @@
         "clarity_nt_char_11237": "clarity_nt_char_11237"
     },
     "11238": {
-        "さらに|まぼろしにつつまれた！": ""
+        "さらに|まぼろしにつつまれた！": "Further surrounded|by illusions!"
     },
     "11239": {
         "さらに|目がくらんだ！": ""
@@ -34020,7 +34020,7 @@
         "さらにこんらんさせた！": ""
     },
     "11341": {
-        "さらに|まぼろしにつつんだ！": ""
+        "さらに|まぼろしにつつんだ！": "Further surrounded|by illusions!"
     },
     "11342": {
         "clarity_nt_char_11342": "clarity_nt_char_11342"
