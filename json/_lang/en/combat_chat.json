@@ -4611,7 +4611,7 @@
         "clarity_nt_char_1537": "clarity_nt_char_1537"
     },
     "1538": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を まいおどった！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を まいおどった！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e danced the <%sB_ACTION>!"
     },
     "1539": {
         "clarity_nt_char_1539": "clarity_nt_char_1539"
@@ -27972,7 +27972,7 @@
         "clarity_nt_char_9324": "clarity_nt_char_9324"
     },
     "9325": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 経験値アップの効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 経験値アップの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's EXP UP effect faded!"
     },
     "9326": {
         "clarity_nt_char_9326": "clarity_nt_char_9326"
@@ -28173,7 +28173,7 @@
         "clarity_nt_char_9391": "clarity_nt_char_9391"
     },
     "9392": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 仲間モンスターの 獲得経験値アップ効果が きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 仲間モンスターの 獲得経験値アップ効果が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's monster's earned EXP Up effect faded."
     },
     "9393": {
         "clarity_nt_char_9393": "clarity_nt_char_9393"
