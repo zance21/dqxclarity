@@ -17952,16 +17952,16 @@
         "なかまにいれる": "Join Party"
     },
     "5985": {
-        "メンバー枠４:": "Member Frame 4:"
+        "メンバー枠４:": "Member Slot 4:"
     },
     "5986": {
-        "メンバー枠３:": ""
+        "メンバー枠３:": "Member Slot 3:"
     },
     "5987": {
-        "メンバー枠２:": ""
+        "メンバー枠２:": "Member Slot 2:"
     },
     "5988": {
-        "メンバー枠１:": ""
+        "メンバー枠１:": "Member Slot 1:"
     },
     "5989": {
         "ここを掘る": "Dig Here"
@@ -18003,7 +18003,7 @@
         "封剣の門・一獄": "Sword Gate Prison I"
     },
     "6002": {
-        "条件付きバトルに挑戦する": ""
+        "条件付きバトルに挑戦する": "Challenge Battle"
     },
     "6003": {
         "clarity_nt_char_6003": "clarity_nt_char_6003"
@@ -18027,13 +18027,13 @@
         "clarity_nt_char_6009": "clarity_nt_char_6009"
     },
     "6010": {
-        "<%sM_Monster>の合成方法": "How to synth <%sM_Monster>"
+        "<%sM_Monster>の合成方法": "How to Synth <%sM_Monster>"
     },
     "6011": {
         "clarity_nt_char_6011": "clarity_nt_char_6011"
     },
     "6012": {
-        "見たまま装着": ""
+        "見たまま装着": "Wear As Is"
     },
     "6013": {
         "clarity_nt_char_6013": "clarity_nt_char_6013"
@@ -18045,7 +18045,7 @@
         "clarity_nt_char_6015": "clarity_nt_char_6015"
     },
     "6016": {
-        "募集モード": ""
+        "募集モード": "Recruit Mode"
     },
     "6017": {
         "誘ってほしい（仮）": ""
@@ -18063,7 +18063,7 @@
         "clarity_nt_char_6021": "clarity_nt_char_6021"
     },
     "6022": {
-        "(マイコーデ<%nM_00>)<%sM_kabuse>": "(Glamour <%nM_00>)<%sM_kabuse>"
+        "(マイコーデ<%nM_00>)<%sM_kabuse>": "(Glamour <%dM_00>)<%sM_kabuse>"
     },
     "6023": {
         "<%sM_myset><%sM_kabuse>": "<%sM_myset><%sM_kabuse>"
@@ -18090,7 +18090,7 @@
         "マイコーデメニュー": "Glamour Menu"
     },
     "6031": {
-        "マイコーデ内容": ""
+        "マイコーデ内容": "Glamour Contents"
     },
     "6032": {
         "転職する": "Job Change"
@@ -18099,7 +18099,7 @@
         "clarity_nt_char_6033": "clarity_nt_char_6033"
     },
     "6034": {
-        "ぬぐ": ""
+        "ぬぐ": "Remove"
     },
     "6035": {
         "clarity_nt_char_6035": "clarity_nt_char_6035"
@@ -18210,25 +18210,25 @@
         "clarity_nt_char_6070": "clarity_nt_char_6070"
     },
     "6071": {
-        "攻撃タロット": ""
+        "攻撃タロット": "Attack Tarot"
     },
     "6072": {
         "clarity_nt_char_6072": "clarity_nt_char_6072"
     },
     "6073": {
-        "補助タロット": ""
+        "補助タロット": "Assist Tarot"
     },
     "6074": {
         "clarity_nt_char_6074": "clarity_nt_char_6074"
     },
     "6075": {
-        "状態異常タロット": ""
+        "状態異常タロット": "Debuff Tarot"
     },
     "6076": {
         "clarity_nt_char_6076": "clarity_nt_char_6076"
     },
     "6077": {
-        "回復タロット": ""
+        "回復タロット": "Recovery Tarot"
     },
     "6078": {
         "clarity_nt_char_6078": "clarity_nt_char_6078"
