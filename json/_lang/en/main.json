@@ -18681,31 +18681,31 @@
         "がんこもの": "Stubborn"
     },
     "6228": {
-        "いのちしらず": ""
+        "いのちしらず": "Reckless"
     },
     "6229": {
         "clarity_nt_char_6229": "clarity_nt_char_6229"
     },
     "6230": {
-        "らんぼうもの": ""
+        "らんぼうもの": "Hooligan"
     },
     "6231": {
         "clarity_nt_char_6231": "clarity_nt_char_6231"
     },
     "6232": {
-        "あまえんぼう": ""
+        "あまえんぼう": "Spoiled"
     },
     "6233": {
         "clarity_nt_char_6233": "clarity_nt_char_6233"
     },
     "6234": {
-        "ねっけつかん": ""
+        "ねっけつかん": "Hot-blooded"
     },
     "6235": {
         "clarity_nt_char_6235": "clarity_nt_char_6235"
     },
     "6236": {
-        "おちょうしもの": ""
+        "おちょうしもの": "Frivolous"
     },
     "6237": {
         "いっぴきおおかみ": "Loner"
@@ -18723,7 +18723,7 @@
         "がんばりや": "Tough"
     },
     "6242": {
-        "コマンド設定": ""
+        "コマンド設定": "Command Settings"
     },
     "6243": {
         "clarity_nt_char_6243": "clarity_nt_char_6243"
@@ -18735,37 +18735,37 @@
         "clarity_nt_char_6245": "clarity_nt_char_6245"
     },
     "6246": {
-        "Ｅ：<%sM_text01>": ""
+        "Ｅ：<%sM_text01>": "E: <%sM_text01>"
     },
     "6247": {
         "clarity_nt_char_6247": "clarity_nt_char_6247"
     },
     "6248": {
-        "Ｄ：<%sM_text01>": ""
+        "Ｄ：<%sM_text01>": "D: <%sM_text01>"
     },
     "6249": {
         "clarity_nt_char_6249": "clarity_nt_char_6249"
     },
     "6250": {
-        "Ｃ：<%sM_text01>": ""
+        "Ｃ：<%sM_text01>": "C: <%sM_text01>"
     },
     "6251": {
         "clarity_nt_char_6251": "clarity_nt_char_6251"
     },
     "6252": {
-        "Ｂ：<%sM_text01>": ""
+        "Ｂ：<%sM_text01>": "B: <%sM_text01>"
     },
     "6253": {
         "clarity_nt_char_6253": "clarity_nt_char_6253"
     },
     "6254": {
-        "Ａ：<%sM_text01>": ""
+        "Ａ：<%sM_text01>": "A: <%sM_text01>"
     },
     "6255": {
         "clarity_nt_char_6255": "clarity_nt_char_6255"
     },
     "6256": {
-        "<%sM_text12>": ""
+        "<%sM_text12>": "<%sM_text12>"
     },
     "6257": {
         "clarity_nt_char_6257": "clarity_nt_char_6257"
@@ -18822,13 +18822,13 @@
         "clarity_nt_char_6274": "clarity_nt_char_6274"
     },
     "6275": {
-        "わたす": "Hand Off"
+        "わたす": "Swap"
     },
     "6276": {
-        "わたす(表示)": ""
+        "わたす(表示)": "Swap (Show)"
     },
     "6277": {
-        "わたす(非表示)": ""
+        "わたす(非表示)": "Swap (Hide)"
     },
     "6278": {
         "clarity_nt_char_6278": "clarity_nt_char_6278"
@@ -18840,7 +18840,7 @@
         "clarity_nt_char_6280": "clarity_nt_char_6280"
     },
     "6281": {
-        "左手にわたす": ""
+        "左手にわたす": "Hand to Left"
     },
     "6282": {
         "clarity_nt_char_6282": "clarity_nt_char_6282"
@@ -18870,7 +18870,7 @@
         "杖": ""
     },
     "6291": {
-        "そうびぶくろ(<%sM_soubi>)": ""
+        "そうびぶくろ(<%sM_soubi>)": "Equipment Bag (<%sM_soubi>)"
     },
     "6292": {
         "依頼をみる": "Requests"
