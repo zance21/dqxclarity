@@ -17070,7 +17070,7 @@
         "奥行き決定": ""
     },
     "5691": {
-        "【追加部屋＋２】": ""
+        "【追加部屋＋２】": "[Extra Room +2]"
     },
     "5692": {
         "clarity_nt_char_5692": "clarity_nt_char_5692"
@@ -17148,7 +17148,7 @@
         "なかまに見せる": "Display Party"
     },
     "5717": {
-        "見る": ""
+        "見る": "View"
     },
     "5718": {
         "clarity_nt_char_5718": "clarity_nt_char_5718"
@@ -17202,7 +17202,7 @@
         "登録モンスター": "Registered Monsters"
     },
     "5735": {
-        "スペシャルバトル": ""
+        "スペシャルバトル": "Special Battle"
     },
     "5736": {
         "clarity_nt_char_5736": "clarity_nt_char_5736"
@@ -17214,7 +17214,7 @@
         "協力バトル受付": ""
     },
     "5739": {
-        "<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2>　<%2dM_hh2>：<%02dM_mm2>": ""
+        "<%dM_cal_YYYY2>/<%2dM_cal_MM2>/<%2dM_cal_DD2>　<%2dM_hh2>：<%02dM_mm2>": "<%2dM_cal_MM2>/<%2dM_cal_DD2>/<%dM_cal_YYYY2>　<%2dM_hh2>:<%02dM_mm2>"
     },
     "5740": {
         "clarity_nt_char_5740": "clarity_nt_char_5740"
@@ -17268,7 +17268,7 @@
         "clarity_nt_char_5756": "clarity_nt_char_5756"
     },
     "5757": {
-        "ヒント": ""
+        "ヒント": "Hint"
     },
     "5758": {
         "<%dM_Houshuu>こ": "<%dM_Houshuu>"
@@ -17277,7 +17277,7 @@
         "clarity_nt_char_5759": "clarity_nt_char_5759"
     },
     "5760": {
-        "あと<%2dM_Kikan>日で出現します！": ""
+        "あと<%2dM_Kikan>日で出現します！": "Will appear in <%2dM_Kikan> days!"
     },
     "5761": {
         "clarity_nt_char_5761": "clarity_nt_char_5761"
@@ -17286,7 +17286,7 @@
         "（特訓モード）": "(Training Mode)"
     },
     "5763": {
-        "バトンをまわしてくれた人をみる": ""
+        "バトンをまわしてくれた人をみる": "View Given Baton Player"
     },
     "5764": {
         "みんなのバトンをみる": "View Other Answers"
@@ -17295,10 +17295,10 @@
         "clarity_nt_char_5765": "clarity_nt_char_5765"
     },
     "5766": {
-        "この家へバトンをまわす": ""
+        "この家へバトンをまわす": "Give Baton Here"
     },
     "5767": {
-        "バトンをまわしてくれた人": ""
+        "バトンをまわしてくれた人": "Given Baton Player"
     },
     "5768": {
         "clarity_nt_char_5768": "clarity_nt_char_5768"
