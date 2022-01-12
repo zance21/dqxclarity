@@ -17883,10 +17883,10 @@
         "clarity_nt_char_5961": "clarity_nt_char_5961"
     },
     "5962": {
-        "(第２希望未選択)": "(2nd choice n. select)"
+        "(第２希望未選択)": "(No 2nd Choice)"
     },
     "5963": {
-        "(第１希望未選択)": "(1st choice n. select)"
+        "(第１希望未選択)": "(No 1st Choice)"
     },
     "5964": {
         "(中目的を選択してください)": "(Select Medium Goal)"
@@ -17901,7 +17901,7 @@
         "clarity_nt_char_5967": "clarity_nt_char_5967"
     },
     "5968": {
-        "誘われ待ち設定": ""
+        "誘われ待ち設定": "Waiting Settings"
     },
     "5969": {
         "パーティ入って設定（仮）": ""
@@ -17910,34 +17910,34 @@
         "clarity_nt_char_5970": "clarity_nt_char_5970"
     },
     "5971": {
-        "メンバー募集中のパーティ": ""
+        "メンバー募集中のパーティ": "Parties Seeking More"
     },
     "5972": {
         "clarity_nt_char_5972": "clarity_nt_char_5972"
     },
     "5973": {
-        "誘われ待ちの人一覧": ""
+        "誘われ待ちの人一覧": "Waiting List"
     },
     "5974": {
-        "[小]": ""
+        "[小]": "[Sm.]"
     },
     "5975": {
         "[中]": "[Mid]"
     },
     "5976": {
-        "[大]": ""
+        "[大]": "[Lg.]"
     },
     "5977": {
-        "求めている職業：": ""
+        "求めている職業：": "Desired Vocation:"
     },
     "5978": {
         "clarity_nt_char_5978": "clarity_nt_char_5978"
     },
     "5979": {
-        "必須条件：": ""
+        "必須条件：": "Prerequisite:"
     },
     "5980": {
-        "【必須条件アリ】": ""
+        "【必須条件アリ】": "[Has Prerequisite]"
     },
     "5981": {
         "clarity_nt_char_5981": "clarity_nt_char_5981"
@@ -17952,7 +17952,7 @@
         "なかまにいれる": "Join Party"
     },
     "5985": {
-        "メンバー枠４:": ""
+        "メンバー枠４:": "Member Frame 4:"
     },
     "5986": {
         "メンバー枠３:": ""
