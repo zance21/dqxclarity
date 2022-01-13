@@ -2643,10 +2643,10 @@
         "<pc>が バトエン開始！": ""
     },
     "882": {
-        "<%sL_PLAYER_NAME>は <%sL_BATOEN_NAME>のバトエンを 取り出した！": ""
+        "<%sL_PLAYER_NAME>は <%sL_BATOEN_NAME>のバトエンを 取り出した！": "<%sL_PLAYER_NAME> brought out <%sL_BATOEN_NAME>!"
     },
     "883": {
-        "<%sL_PLAYER_NAME>は <%sL_ERASER_NAME>を 使用した！": ""
+        "<%sL_PLAYER_NAME>は <%sL_ERASER_NAME>を 使用した！": "<%sL_PLAYER_NAME> used the <%sL_ERASER_NAME>!"
     },
     "884": {
         "<%sL_PLAYER_NAME>は バトエンを <%sL_BATOEN_NAME>に チェンジした！": "<%sL_PLAYER_NAME> changed to <%sL_BATOEN_NAME>!"
@@ -2667,7 +2667,7 @@
         " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は HPが<%dM_Damage_1>回復！": ""
     },
     "890": {
-        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は <%sL_ODD_NAME>の効果を受けた！": ""
+        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は <%sL_ODD_NAME>の効果を受けた！": "　→<%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> gained the <%sL_ODD_NAME> effect!"
     },
     "891": {
         " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の <%sL_ODD_NAME>の効果が消えた！": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s effect of <%sL_ODD_NAME> disappeared!"
@@ -2682,7 +2682,7 @@
         " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>の テンションが元に戻った！": " → <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME>'s tension returned to normal!"
     },
     "895": {
-        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。": ""
+        " → <%sL_PLAYER_NAME>の <%sL_BATOEN_NAME>は ちからつきた。": "　→ <%sL_PLAYER_NAME>'s <%sL_BATOEN_NAME> was exhausted."
     },
     "896": {
         "clarity_nt_char_896": "clarity_nt_char_896"
