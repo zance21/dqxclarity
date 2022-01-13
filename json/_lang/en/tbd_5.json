@@ -2694,10 +2694,10 @@
         "<%sL_PLAYER_NAME>に バトエンで敗北した。": ""
     },
     "899": {
-        "バトエン終了 今の戦いで <%dL_RESULT>位を 獲得した！": ""
+        "バトエン終了 今の戦いで <%dL_RESULT>位を 獲得した！": "The Batoen Fight finished, and you got <%dL_RESULT> place!"
     },
     "900": {
-        "バトエンポイント <%dL_GET_POINT>Pを 獲得した！": "Acquired <%dL_GET_POINT> Batoen Points!"
+        "バトエンポイント <%dL_GET_POINT>Pを 獲得した！": "Received <%dL_GET_POINT> Batoen Points!"
     },
     "901": {
         "clarity_nt_char_901": "clarity_nt_char_901"
@@ -2895,13 +2895,13 @@
         "<pc>は 相手の<%sL_PENCIL_NAME> を使うチカラを封印した！": ""
     },
     "966": {
-        "大会スコアが <%dL_GET_GP_POINT>P 減点されて <%dL_NOW_GP_POINT>P になった！": ""
+        "大会スコアが <%dL_GET_GP_POINT>P 減点されて <%dL_NOW_GP_POINT>P になった！": "You lost <%dL_GET_GP_POINT> tournament points. Your score is now <%dL_NOW_GP_POINT>!"
     },
     "967": {
         "clarity_nt_char_967": "clarity_nt_char_967"
     },
     "968": {
-        "大会スコアが <%dL_GET_GP_POINT>P 加点されて <%dL_NOW_GP_POINT>P になった！": ""
+        "大会スコアが <%dL_GET_GP_POINT>P 加点されて <%dL_NOW_GP_POINT>P になった！": "You gained <%dL_GET_GP_POINT> tournament points. Your score is now <%dL_NOW_GP_POINT>!"
     },
     "969": {
         "clarity_nt_char_969": "clarity_nt_char_969"
