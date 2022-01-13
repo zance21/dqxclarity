@@ -2703,10 +2703,10 @@
         "clarity_nt_char_901": "clarity_nt_char_901"
     },
     "902": {
-        "第<%dL_TURN_NUM>ターンの行動が終了！": ""
+        "第<%dL_TURN_NUM>ターンの行動が終了！": "Turn <%dL_TURN_NUM> finished!"
     },
     "903": {
-        "第<%dL_TURN_NUM>ターン開始！": ""
+        "第<%dL_TURN_NUM>ターン開始！": "Turn <%dL_TURN_NUM> started!"
     },
     "904": {
         "お祭りコイン <%dM_POINT>枚と <%sM_item> <%dM_GET_NUM>個を 交換した！": ""
