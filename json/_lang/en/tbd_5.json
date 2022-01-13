@@ -2880,7 +2880,7 @@
         "<%sM_name1> <%sM_name2> <%sM_name3> <%sM_name4> <%sM_name5>": ""
     },
     "961": {
-        "大会ランクが <%sL_PAST_GP_CLASS>から <%sL_NOW_GP_CLASS>になった！": ""
+        "大会ランクが <%sL_PAST_GP_CLASS>から <%sL_NOW_GP_CLASS>になった！": "Tournament rank went from <%sL_PAST_GP_CLASS> to <%sL_NOW_GP_CLASS>!"
     },
     "962": {
         "clarity_nt_char_962": "clarity_nt_char_962"

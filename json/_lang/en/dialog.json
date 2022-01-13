@@ -7731,7 +7731,7 @@
         "clarity_nt_char_2577": "clarity_nt_char_2577"
     },
     "2578": {
-        "第<%nNUM>回バトエン大会|": "Batoen Tournament No. <%nNUM>"
+        "第<%nNUM>回バトエン大会|": "Batoen Tournament No. <%dNUM>"
     },
     "2579": {
         "clarity_nt_char_2579": "clarity_nt_char_2579"
@@ -7785,10 +7785,10 @@
         "clarity_nt_char_2595": "clarity_nt_char_2595"
     },
     "2596": {
-        "第<%nNUM>回バトエン大会・前半戦": ""
+        "第<%nNUM>回バトエン大会・前半戦": "Batoen Tournament No. <%dNUM> - 1st Half"
     },
     "2597": {
-        "第<%nNUM>回バトエン大会・後半戦": ""
+        "第<%nNUM>回バトエン大会・後半戦": "Batoen Tournament No. <%dNUM> - 2nd Half"
     },
     "2598": {
         "<speed=0>『ログイン表示する』以外の　設定にすると|ログイン状態を隠すために　一部メニューの|顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",|the face icon in some menus will not be|shown or updated in order to hide your status. <break>"

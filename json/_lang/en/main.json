@@ -24828,7 +24828,7 @@
         "clarity_nt_char_8276": "clarity_nt_char_8276"
     },
     "8277": {
-        "大会スコア": ""
+        "大会スコア": "Tournament Pts."
     },
     "8278": {
         "タクティカルピックルール": ""
@@ -24894,13 +24894,13 @@
         "clarity_nt_char_8298": "clarity_nt_char_8298"
     },
     "8299": {
-        "終了日時": ""
+        "終了日時": "Finishes"
     },
     "8300": {
         "clarity_nt_char_8300": "clarity_nt_char_8300"
     },
     "8301": {
-        "開始日時": ""
+        "開始日時": "Starts"
     },
     "8302": {
         "clarity_nt_char_8302": "clarity_nt_char_8302"
@@ -24909,7 +24909,7 @@
         "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>時": "Time <%2dM_cal_MM>/<%2dM_cal_DD> <%2dM_hh>:00"
     },
     "8304": {
-        "大会ランク": ""
+        "大会ランク": "Tournament Rank"
     },
     "8305": {
         "<%'dM_Num><%sM_Tani>": ""
@@ -27258,7 +27258,7 @@
         "clarity_nt_char_9086": "clarity_nt_char_9086"
     },
     "9087": {
-        "（大会スコア＋<%dM_num>）": ""
+        "（大会スコア＋<%dM_num>）": "(Tournament Pts. +<%dM_num>)"
     },
     "9088": {
         "マット": "Matte"
