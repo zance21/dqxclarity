@@ -25275,7 +25275,7 @@
         "clarity_nt_char_8425": "clarity_nt_char_8425"
     },
     "8426": {
-        "大会予選について": "About Tournament Qualif."
+        "大会予選について": "About Qualifiers"
     },
     "8427": {
         "clarity_nt_char_8427": "clarity_nt_char_8427"
@@ -28905,7 +28905,7 @@
         "C": "C"
     },
     "9636": {
-        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament> <%nM_00>"
+        "第<%nM_00>回　<%sM_tournament>": "<%sM_tournament> <%dM_00>"
     },
     "9637": {
         "段位": "Rank "
