@@ -19029,10 +19029,10 @@
         "clarity_nt_char_6343": "clarity_nt_char_6343"
     },
     "6344": {
-        "<%nM_YYYY1>年<%2nM_MM1>月<%2nM_DD1>日～<%nM_YYYY2>年<%2nM_MM2>月<%2nM_DD2>日": "<%2nM_MM1>/<%2nM_DD1>/<%nM_YYYY1> - <%2nM_MM2>/<%2nM_DD2>/<%nM_YYYY2>"
+        "<%nM_YYYY1>年<%2nM_MM1>月<%2nM_DD1>日～<%nM_YYYY2>年<%2nM_MM2>月<%2nM_DD2>日": "<%2dM_MM1>/<%2dM_DD1>/<%dM_YYYY1> - <%2dM_MM2>/<%2dM_DD2>/<%dM_YYYY2>"
     },
     "6345": {
-        "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2nM_MM1>/<%2nM_DD1> (<%sM_WW>) <%2nM_hh1>:<%02nM_mm1> - <%2nM_hh2>:<%02nM_mm2>"
+        "<%2nM_MM1>月<%2nM_DD1>日（<%sM_WW>）<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2dM_MM1>/<%2dM_DD1> (<%sM_WW>) <%dM_hh1>:<%02dM_mm1> - <%2dM_hh2>:<%02dM_mm2>"
     },
     "6346": {
         "釣り上げたビッグサイズの種類": "Big Size Types Caught"
@@ -19041,7 +19041,7 @@
         "clarity_nt_char_6347": "clarity_nt_char_6347"
     },
     "6348": {
-        "場所": ""
+        "場所": "Place"
     },
     "6349": {
         "clarity_nt_char_6349": "clarity_nt_char_6349"
