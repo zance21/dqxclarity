@@ -54,7 +54,7 @@
         "「やあ！　待っていたぞ！|　君の中に眠る　熱きバトエンのオーラが　|　さけんでいるな……バトエンファイトしたいと！": ""
     },
     "19": {
-        "「どの報酬を　確認するんだ？|　ルール別に　ランクアップ記念品があるから|　ぜひ　どちらのルールにも　挑戦してくれよな。　|<select>|ランクアップ記念品|ランキング上位報酬|<select_end><close>": ""
+        "「どの報酬を　確認するんだ？|　ルール別に　ランクアップ記念品があるから|　ぜひ　どちらのルールにも　挑戦してくれよな。　|<select>|ランクアップ記念品|ランキング上位報酬|<select_end><close>": "Which rewards do you wanna check? Both rules|have their own rewards, so make sure to check|'em both.|<select>|Rank Up Rewards|Top Ranking Rewards|<select_end><close>"
     },
     "20": {
         "<pc>は　<%sTYPE>の|<%sCLASS>ランクの記念品として|<%sITEM>を　手に入れた！<se_nots System 7>": ""
@@ -102,6 +102,6 @@
         "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「それじゃ　今後も　がんばってくれよ！": ""
     },
     "35": {
-        "「今は　後半戦のランクアップ記念品が|　受け取れるぞ。|　それじゃ　どの報酬を　確認するんだ？|<select>|ランクアップ記念品|ランキング上位報酬|<select_end><close>": ""
+        "「今は　後半戦のランクアップ記念品が|　受け取れるぞ。|　それじゃ　どの報酬を　確認するんだ？|<select>|ランクアップ記念品|ランキング上位報酬|<select_end><close>": "You can now receive the second half rewards.|Which reward do you wanna check?|<select>|Rank Up Rewards|Top Ranking Rewards|<select_end><close>"
     }
 }
