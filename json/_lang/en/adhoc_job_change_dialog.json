@@ -18,7 +18,7 @@
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "7": {
-        "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "I'm not changing jobs. That's good... Come|on, let's go...<end>"
+        "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "If you change your mind, we'll be here.<end>"
     },
     "8": {
         "「おや？　お前は|　いまわしい呪いに　おかされているな。<br>|「転職は教会で　呪いのけがれを|　はらってからが　よかろう。": "Hmm? You're under a terrible curse. You'd|better go to the church to get rid of the|curse before you change jobs...|<br>"
@@ -81,7 +81,7 @@
         "「では　どの職業になることを　望みますか？|<break>": "So, which job would you like to choose?|<break>"
     },
     "28": {
-        "「何を　希望されるか？|<break>": "What do you need?<break>"
+        "「何を　希望されるか？|<break>": "Do you need anything else?<break>"
     },
     "29": {
         "「何を　望むのかね？|<break>": "What do you want from me?<break>"
@@ -303,7 +303,7 @@
         "「何を　お望みですか？|<break>": "What can I do for you?|<break>"
     },
     "102": {
-        "「何を　希望されるか？|<break>": "What do you need?<break>"
+        "「何を　希望されるか？|<break>": "Do you need anything else?<break>"
     },
     "103": {
         "「何を　望むのかね？|<break>": "What do you want from me?<break>"
@@ -597,10 +597,10 @@
         "<color_yellow>つれている　<%sM_monster>は|モンスター牧場に送られました！": "<color_yellow>My <%sM_monster> has been sent to|the monster farm!"
     },
     "200": {
-        "「何を　希望されるか？|<break>": "What do you need?<break>"
+        "「何を　希望されるか？|<break>": "Do you need anything else?<break>"
     },
     "201": {
-        "「何を　希望されるか？|<break>": "What do you need?<break>"
+        "「何を　希望されるか？|<break>": "Do you need anything else?<break>"
     },
     "202": {
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。まず　最初に|　新たな能力に　目覚めることだろう。|<br>|<%sM_self>は|スカウトアタック（専）の特技を　おぼえた！|<se_nots System 17>|<br>|「その特技は　モンスターを仲間にする際に|　欠かせないもの。仲間にしたいモンスターには|　その　スカウトアタックを使うのだ。|<br>|「スカウトアタックを使った後　その戦闘に勝てば|　相手が起き上がり　仲間になることがある。|　律儀に　その技で　とどめをさす必要はないぞ。|<bw_break>": "Good. From now on, you will live as|<%sM_new_syokugyou>. First,|you'll be awakened to a new ability...|<br>|<%sM_self> has learned the Scout|Attack feat!|<se_nots System 17>This is a skill that's essential when you're|trying to recruit monsters... You use your|scout attack on a monster you wish to join.|<br>|If you win the battle after using the scout|attack, the monster will wake up and join|you. You don't have to finish him off with|<br>|that move.<bw_break>"
@@ -669,7 +669,7 @@
         "「よし。今から　お前は　<%sM_new_syokugyou>として|　生きていくことになった。装備の見直しを|　おこたらぬようにな。さあ　行くがよい。": "Good. From now on, you will live as a <%sM_new_syokugyou>.|Make sure to review your equipment. Now go."
     },
     "224": {
-        "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "I'm not changing jobs. That's good... Come|on, let's go...<end>"
+        "「転職しないのだな。それも　よいだろう。|　さあ　行くがよい。<end>": "If you change your mind, we'll be here.<end>"
     },
     "225": {
         "「おや？|　<%sM_monster>は　死んでいるようだな。|　このまま送ろうとは　なんと無慈悲な。<br>|「転職したければ　<%sM_monster>を|　生き返らせてから　来るがよかろう。": "Hmm? <%sM_monster> is dead... You|can't just send him on his way. If you want a|new job, you'll have to bring|<br>|<%sM_monster> back to life before|you come back..."
