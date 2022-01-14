@@ -9417,7 +9417,7 @@
         "12時間につき": "Per 12 Hrs."
     },
     "3140": {
-        "他の<%sM_PTMember>がそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Searching for other members..."
+        "他の<%sM_PTMember>がそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Searching for other members...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3141": {
         "clarity_nt_char_3141": "clarity_nt_char_3141"
