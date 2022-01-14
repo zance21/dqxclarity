@@ -18906,7 +18906,7 @@
         "庭具ロック": "Garden Lock"
     },
     "6303": {
-        "この座席で授業を受けられます。": ""
+        "この座席で授業を受けられます。": "You can take classes in this seat."
     },
     "6304": {
         "初回報酬 入手済み": "Reward Obtained"
@@ -18969,7 +18969,7 @@
         "clarity_nt_char_6323": "clarity_nt_char_6323"
     },
     "6324": {
-        "<%sM_npcname>との絆": "Bond <%sM_npcname>"
+        "<%sM_npcname>との絆": "<%sM_npcname>'s Bond"
     },
     "6325": {
         "clarity_nt_char_6325": "clarity_nt_char_6325"
@@ -19023,7 +19023,7 @@
         "clarity_nt_char_6341": "clarity_nt_char_6341"
     },
     "6342": {
-        "第<%nM_nn>回": "<%nM_nn>"
+        "第<%nM_nn>回": "<%dM_nn>"
     },
     "6343": {
         "clarity_nt_char_6343": "clarity_nt_char_6343"
