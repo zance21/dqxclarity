@@ -19101,7 +19101,7 @@
         "clarity_nt_char_6367": "clarity_nt_char_6367"
     },
     "6368": {
-        "[<%nM_00>]": ""
+        "[<%nM_00>]": "[<%dM_00>]"
     },
     "6369": {
         "clarity_nt_char_6369": "clarity_nt_char_6369"
@@ -19200,13 +19200,13 @@
         "セットするスキル枠": "Choose Skill Rank"
     },
     "6401": {
-        "(この効果は強化できません)": "(Effect cannot be enhanced)"
+        "(この効果は強化できません)": "(Effect cannot be enhanced.)"
     },
     "6402": {
         "clarity_nt_char_6402": "clarity_nt_char_6402"
     },
     "6403": {
-        "(これ以上強化できません)": "(Cannot be further enhanced)"
+        "(これ以上強化できません)": "(Cannot be further enhanced.)"
     },
     "6404": {
         "素材/未鑑定アイテム": "Mats/Unidentified"
@@ -19245,7 +19245,7 @@
         "clarity_nt_char_6415": "clarity_nt_char_6415"
     },
     "6416": {
-        "<%sM_Monster1> ＋ <%sM_Monster2>": ""
+        "<%sM_Monster1> ＋ <%sM_Monster2>": "<%sM_Monster1> + <%sM_Monster2>"
     },
     "6417": {
         "引っ越しチェック": "Moving Check"
@@ -19260,13 +19260,13 @@
         "clarity_nt_char_6420": "clarity_nt_char_6420"
     },
     "6421": {
-        "４.床下水そうにさかながいる": "4. A Fish in the subfloor water"
+        "４.床下水そうにさかながいる": "4. Fish in the subfloor water"
     },
     "6422": {
         "clarity_nt_char_6422": "clarity_nt_char_6422"
     },
     "6423": {
-        "３.モンスターのおうちにペットがいる": "3. A pet in a monster's house"
+        "３.モンスターのおうちにペットがいる": "3. A pet in a Monster House"
     },
     "6424": {
         "clarity_nt_char_6424": "clarity_nt_char_6424"
