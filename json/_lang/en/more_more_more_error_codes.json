@@ -69,7 +69,7 @@
         "エラーコード：<%sERRID>|処理に失敗しました。|『スクウェア・エニックスからのお知らせ』の|障害情報や　プロバイダーの状況を　ご確認の上|少し時間を置いてから　もう一度　お試しください。|　|時間がたっても　問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページを|ご確認ください。|https://sqex.to/eh6": ""
     },
     "24": {
-        "エラーコード：<%sERRID>|通信が切断されました。|　|①もう一度　お試しください。|②「ドラゴンクエストⅩ　目覚めし冒険者の広場」から|　メンテナンス・障害情報をご確認ください。|　https://hiroba.dqx.jp|③「ドラゴンクエストⅩ　サポートセンター」から|　フリーワード検索にエラーコードをご入力ください。|　https://sqex.to/eh6": ""
+        "エラーコード：<%sERRID>|通信が切断されました。|　|①もう一度　お試しください。|②「ドラゴンクエストⅩ　目覚めし冒険者の広場」から|　メンテナンス・障害情報をご確認ください。|　https://hiroba.dqx.jp|③「ドラゴンクエストⅩ　サポートセンター」から|　フリーワード検索にエラーコードをご入力ください。|　https://sqex.to/eh6": "Error Code: <%sERRID>|Communication was lost.|① Please try again later.|② Check server/maintenance information on the|Dragon Quest X Adventurer's Square.|(https://hiroba.dqx.jp)|③ Search the error code in the Dragon Quest X|Support Center. https://sqex.to/eh6"
     },
     "25": {
         "エラーコード：<%sERRID>|サーバーからの応答がなかったため|タイムアウトしました。|ご使用の接続環境や　プロバイダーの状況を|ご確認の上　少し時間を置いてから|もう一度　お試しください。|時間がたっても　問題が解決しない場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": ""
@@ -105,7 +105,7 @@
         "エラーコード：<%sERRID>|同じアカウントで|別の場所から　ログインされたため|ログアウトしました。お心当たりがない場合は|不正アクセスされている可能性があります。|　|ご不明な点がある場合は|「ドラゴンクエストⅩ」サポートセンターのページも|ご確認ください。|https://sqex.to/eh6": "Error Code: <%sERRID>|You were logged out because your account has|just logged in from a different location. If you|don't recognize this login, it may be unauthorized|access.| |If you have any questions, please visit the|Dragon Quest X Support Page.|https://sqex.to/eh6"
     },
     "36": {
-        "エラーコード：<%sERRID>|通信が切断されました。|　|①もう一度　お試しください。|②「ドラゴンクエストⅩ　目覚めし冒険者の広場」から|　メンテナンス・障害情報をご確認ください。|　https://hiroba.dqx.jp|③「ドラゴンクエストⅩ　サポートセンター」から|　フリーワード検索にエラーコードをご入力ください。|　https://sqex.to/eh6": ""
+        "エラーコード：<%sERRID>|通信が切断されました。|　|①もう一度　お試しください。|②「ドラゴンクエストⅩ　目覚めし冒険者の広場」から|　メンテナンス・障害情報をご確認ください。|　https://hiroba.dqx.jp|③「ドラゴンクエストⅩ　サポートセンター」から|　フリーワード検索にエラーコードをご入力ください。|　https://sqex.to/eh6": "Error Code: <%sERRID>|Communication was lost.|① Please try again later.|② Check server/maintenance information on the|Dragon Quest X Adventurer's Square.|(https://hiroba.dqx.jp)|③ Search the error code in the Dragon Quest X|Support Center. https://sqex.to/eh6"
     },
     "37": {
         "エラーコード：<%sERRID>|　|ドラゴンクエストⅩの　メンテナンスのため|ログアウトしました。|　|『スクウェア・エニックスからのお知らせ』の|サーバー・メンテナンス情報を　ご確認ください。": ""
