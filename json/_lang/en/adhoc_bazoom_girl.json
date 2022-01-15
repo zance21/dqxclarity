@@ -72,7 +72,7 @@
         "「今日はあと　<%sL_RULA_COUNT>回飛べます。|　どこに　飛びます？<break>": "You can fly <%sL_RULA_COUNT> more times today.|Where would you like to fly to?<break>"
     },
     "25": {
-        "「ルーラストーンで　あなたが登録できる場所なら|　１日<%sL_RULA_MAX>回まで　５０ゴールドで　飛ばせます。<bw_break>": "I can fly you to any place you can register in|a Zoomstone up to <%dL_RULA_MAX> times per day|for 50 Gold.<bw_break>"
+        "「ルーラストーンで　あなたが登録できる場所なら|　１日<%sL_RULA_MAX>回まで　５０ゴールドで　飛ばせます。<bw_break>": "I can fly you to any place you can register in|a Zoomstone up to <%sL_RULA_MAX> times per day|for 50 Gold.<bw_break>"
     },
     "26": {
         "「あ　はじめまして。|　私は　この場所でバシルーラ屋をはじめる|　バシっ娘の　ランリィといいます。<br>|「バシルーラ屋は　あなたが登録できる場所なら|　ルーラストーンに登録していなくても|　その場所に　飛ばすことができます。<br>|「でも　飛ばすのは　どこで飛んでも|　１日<%sL_RULA_MAX>回まで。|　料金も　５０ゴールドいただきます。<br>|「それでは　あらためまして……<bw_break>": "Ah, nice to meet you. My name is Ranry, and|I started a Bazoom Shop here.|<br>|A Bazoom Shop allows you to fly to any place|you can register in a Zoomstone.|<br>|However, you can only fly up to <%sL_RULA_MAX> times|per day, at a cost of 50 Gold each time.<br>|Well then, with that out of the way...<bw_break>"
