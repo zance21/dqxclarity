@@ -15,7 +15,7 @@
         "<speed=0><pc>は|<%sL_FISH>を　逃がした。|<bw_break>": "<speed=0><pc> is to escape <%sL_FISH>...<bw_break>"
     },
     "6": {
-        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>! Size: <%sL_SIZE>cm|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
+        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>!|Size: <%sL_SIZE>cm|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "7": {
         "さかなに　逃げられてしまった。|<bw_break>": "The fish got away.<bw_break>"
@@ -90,7 +90,7 @@
         "さかなが　かかった！　これは　大物だ！": "I caught a fish! It's a big one!"
     },
     "31": {
-        "<%sL_FISH>を　釣り上げた！|<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>! <color_yellow>Size: <%sL_SIZE>cm<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
+        "<%sL_FISH>を　釣り上げた！|<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>!|<color_yellow>Size: <%sL_SIZE>cm<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "32": {
         "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|釣り経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc> gained <%dL_EXP>+<%dL_EXP_OUEN>(Bonus)P|of fishing experience!|<se_nots System 7>|<bw_break>"
