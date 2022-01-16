@@ -45,7 +45,7 @@
         "「バトエン大会は　ランクアップしたとき|　もらえる記念品の他に|　ランキング上位報酬があるぞ。|<br>|「ランキング上位報酬は　１０００位までに|　入った場合のみもらえる　貴重な報酬だ！|　くわしくは　報酬リストを見てくれよな。|<br>|「もちろん　前半戦と後半戦の双方で|　１０００位までに入った　ツワモノは|　両方の報酬を　受け取ることができるぞ！": ""
     },
     "16": {
-        "<pc>は　<%sTYPE>の|<%nRANKING>位のランキング上位報酬として|<%sITEM>を　手に入れた！<se_nots System 7>": ""
+        "<pc>は　<%sTYPE>の|<%nRANKING>位のランキング上位報酬として|<%sITEM>を　手に入れた！<se_nots System 7>": "<pc> received <%sITEM> for achieving|a Top Rank of <%dRANKING> in|<%sTYPE>!<se_nots System 7>"
     },
     "17": {
         "「どのランキングを　確認するんだ？|<select>|タクティカルピック|マイデッキ|<select_end><close>": "Which rankings do you wanna check?|<select>|Tactical Pick|My Deck|<select_end><close>"
@@ -63,13 +63,13 @@
         "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「ルール別に　ランクアップ記念品があるから|　どちらのルールにも　挑戦してみてくれ。　|　それじゃ　今後も　がんばってくれよ！": ""
     },
     "22": {
-        "「では　さっそく始めようじゃないか！|　この試合では　自分のデッキで闘うことになるが|　デッキ編成の　準備はいいか？|<select>|準備ＯＫ！|もうちょっと待って|<select_end><break>": ""
+        "「では　さっそく始めようじゃないか！|　この試合では　自分のデッキで闘うことになるが|　デッキ編成の　準備はいいか？|<select>|準備ＯＫ！|もうちょっと待って|<select_end><break>": "Well then, are ya ready to start? You'll play|with your own deck, so make sure you've|got it ready.|<select>|I'm ready!|Wait a second!|<select_end><break>"
     },
     "23": {
-        "「では　さっそく始めようじゃないか！|　この試合は開始時に配られる　えんぴつを選んで|　デッキを組むことができるぞ！　準備はいいか？|<select>|準備ＯＫ！|もうちょっと待って|<select_end><break>": ""
+        "「では　さっそく始めようじゃないか！|　この試合は開始時に配られる　えんぴつを選んで|　デッキを組むことができるぞ！　準備はいいか？|<select>|準備ＯＫ！|もうちょっと待って|<select_end><break>": "Well then, are ya ready to start? You'll be|given pencils at the start of the game and|can build a deck with those. You ready?|<select>|I'm ready!|Wait a second!|<select_end><break>"
     },
     "24": {
-        "「今後も　熱きバトエンファイトに|　はげんでくれよな！": ""
+        "「今後も　熱きバトエンファイトに|　はげんでくれよな！": "Keep up the excellent Batoen Fights!"
     },
     "25": {
         "「やるな！　前半戦のタクティカルピックルールで|　１０００位内に入っているじゃないか！|　栄誉の証として　これを　受け取ってくれ！": ""
