@@ -39,7 +39,7 @@
         "使っていた<%sL_LURE>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_LURE> I've been using has reached|its limit and is broken...<bw_break>"
     },
     "14": {
-        "<speed=0>釣りざおを　しまいますか？|<yesno><close>": ""
+        "<speed=0>釣りざおを　しまいますか？|<yesno><close>": "<speed=0>Put away your fishing rod?|<yesno><close>"
     },
     "15": {
         "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%dL_BITE_BONUS> Bites deeper! Your bite has|increased by <%dL_BITE_BONUS>!"
