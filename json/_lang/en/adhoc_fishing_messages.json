@@ -117,7 +117,7 @@
         "しかし　さおをゆるめていたので|くいつき度は　減らなかった！": "But I had loosened my wand, so I didn't lose|any bite!"
     },
     "40": {
-        "<speed=0>釣ったさかなを　あきらめますか？|<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>|<yesno 2><break>": ""
+        "<speed=0>釣ったさかなを　あきらめますか？|<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>|<yesno 2><break>": "<speed=0>Give up on the fish you caught?|<color_yellow><%sL_FISH> <%sL_SIZE>cm<%sL_RANK_TEXT><color_white>|<yesno 2><break>"
     },
     "41": {
         "さかなは　闇を振り払った！": "The fish has shaken off the darkness!"
