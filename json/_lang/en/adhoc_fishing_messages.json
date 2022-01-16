@@ -6,7 +6,7 @@
         "<speed=0>釣ったさかなを　あきらめますか？|<%sL_FISH>　<%sL_SIZE>ｃｍ|<yesno 2><break>": "<speed=0>Give up the fish you caught?|<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
     },
     "3": {
-        "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> gained <%dL_EXP>P worth of fishing|experience!|<se_nots System 7><bw_break>"
+        "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> gained <%dL_EXP> Fishing EXP!|<se_nots System 7><bw_break>"
     },
     "4": {
         "<speed=0>ここには　さかながいないようだ。|<end>": "<speed=0>There are no fish here.<end>"
@@ -24,7 +24,7 @@
         "<speed=0>さかなぶくろが　いっぱいで　もちきれません！|<bw_break>": "<speed=0>I can't hold all the fish in my bag!<bw_break>"
     },
     "9": {
-        "<speed=0><pc>は　<%sL_FISH>を|さかなぶくろに　いれた。|<bw_break>": "<speed=0>You put a <%sL_FISH>|in your fish bag.|<bw_break>"
+        "<speed=0><pc>は　<%sL_FISH>を|さかなぶくろに　いれた。|<bw_break>": "<speed=0>You put the <%sL_FISH>|into your fish bag.|<bw_break>"
     },
     "10": {
         "<speed=0>さかなぶくろが　いっぱいですが|本当に　釣りますか？|<yesno><break>": "<speed=0>There's a lot of fish in this bag. Are you|sure you want to fish?<yesno><break>"
@@ -162,7 +162,7 @@
         "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "You caught a <%sL_FISH>!|Size: <%sL_SIZE> cm|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "55": {
-        "さかなぶくろの　さかなを全てロックしているため|釣りをすることが　できません。|整理をしてから　もう一度お試しください。|<end>": "You've locked all the fish in your fish bag,|so you can't fish... Please sort them out and|try again...<end>"
+        "さかなぶくろの　さかなを全てロックしているため|釣りをすることが　できません。|整理をしてから　もう一度お試しください。|<end>": "All of the fish in your fish bag are locked,|so you cannot fish. Please sort your fish|bag and try again.|<end>"
     },
     "56": {
         "ゆるめる回数は　これ以上増えなかった！": "I couldn't loosen up any more!"
