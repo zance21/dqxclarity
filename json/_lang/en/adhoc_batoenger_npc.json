@@ -1,12 +1,12 @@
 {
     "1": {
-        "「いいだろう！|　何について　聞きたいんだ？|<select>|バトエン大会とは|ルールについて|ランクアップ記念品|ランキング上位報酬|開催期間について|制限時間について|あなたは誰？|<select_end><break>": ""
+        "「いいだろう！|　何について　聞きたいんだ？|<select>|バトエン大会とは|ルールについて|ランクアップ記念品|ランキング上位報酬|開催期間について|制限時間について|あなたは誰？|<select_end><break>": "Great! Which should I explain?|<select>|About Tournaments|About Rules|Rank Up Prizes|Top Ranking Rewards|About Event Period|About Time Limit|Who are you?|<select_end><break>"
     },
     "2": {
-        "「……と思ったら　持ち物がいっぱいのようだぞ！|　<%sBAGTYPE>に空きを作って　もう一度|　オレに　話しかけてくれ！": ""
+        "「……と思ったら　持ち物がいっぱいのようだぞ！|　<%sBAGTYPE>に空きを作って　もう一度|　オレに　話しかけてくれ！": "...I think you've got too much stuff! Clear|out your <%sBAGTYPE> and then|come see me again!"
     },
     "3": {
-        "「わかった　しばし待とう。|　準備ができたら　レッツバトエンファイトだ！": ""
+        "「わかった　しばし待とう。|　準備ができたら　レッツバトエンファイトだ！": "Gotcha. Just wait a sec. When you're ready,|LET'S BATOEN FIGHT!"
     },
     "4": {
         "「今は　先日まで行われていたバトエン大会の|　結果発表を　行っているぞ！|　さあ　どうする？|<select>|ランキングを見る|報酬を見る|説明を聞く|<select_end><break>": ""
