@@ -75,7 +75,7 @@
         "「やるな！　前半戦のタクティカルピックルールで|　１０００位内に入っているじゃないか！|　栄誉の証として　これを　受け取ってくれ！": "You did it! You placed in the Top 1000 for the|Tactical Pick Rules half of the tournament!|Take this, you've earned it!"
     },
     "26": {
-        "「バトエン大会は　前半戦と後半戦に別れていて|　前半戦は　<%nMM_1>月<%nDD_1>日<%nHH_1>時から|　<%nMM_2>月<%nDD_2>日<%nHH_2>時までと　なっている。|<br>|「その後　一定の準備期間を経て|　後半戦は　<%nMM_3>月<%nDD_3>日<%nHH_3>時から|　<%nMM_4>月<%nDD_4>日<%nHH_4>時までと　なっている。|<br>|「終了後　報酬を受け取ったり|　自分のスコアを確認できるのは|　<%nMM_5>月<%nDD_5>日<%nHH_5>時　までだから注意してくれ！": ""
+        "「バトエン大会は　前半戦と後半戦に別れていて|　前半戦は　<%nMM_1>月<%nDD_1>日<%nHH_1>時から|　<%nMM_2>月<%nDD_2>日<%nHH_2>時までと　なっている。|<br>|「その後　一定の準備期間を経て|　後半戦は　<%nMM_3>月<%nDD_3>日<%nHH_3>時から|　<%nMM_4>月<%nDD_4>日<%nHH_4>時までと　なっている。|<br>|「終了後　報酬を受け取ったり|　自分のスコアを確認できるのは|　<%nMM_5>月<%nDD_5>日<%nHH_5>時　までだから注意してくれ！": "The Batoen Tournament is divided into two|halves. The first half starts on <%dMM_1>/<%dDD_1>|<%dHH_1>:00 JST and ends on <%dMM_2>/<%nDD_2> <%dHH_2>:00 JST.|<br>|After an intermission period, the second half|starts on <%dMM_3>/<%nDD_3> <%dHH_3>:00 JST and ends on|<%dMM_4>/<%dDD_4> <%dHH_4>:00 JST.|<br>|You won't be able to receive any rewards or|check your score until <%dMM_5>/<%dDD_5> <%dHH_5>:00 JST!"
     },
     "27": {
         "「バトエン大会では　１回の行動選択に|　１５秒の制限時間がある。|　決断力が　勝敗を決めると言っていい。|<br>|「なお　２回連続で制限時間を|　オーバーすると　その試合では失格となり|　退場になってしまうので　注意してくれ！": ""
@@ -93,10 +93,10 @@
         "「フ……。ヒーローというものは　自らについて|　語る言葉を持たない……。唯一　言えることは|　バトエンあるところに　俺は必ず　現れる！|<br>|「君たちが　バトエン大会で|　熱いバトエンファイトを　くり広げることを|　期待しているぞ！": ""
     },
     "32": {
-        "<pc>は　<%sTYPE>の|<%nRANKING>位のランキング上位報酬として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": ""
+        "<pc>は　<%sTYPE>の|<%nRANKING>位のランキング上位報酬として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": "<pc> received <%dNUM> <%sITEM> for achieving|a Top Rank of <%dRANKING> in|<%sTYPE>!"
     },
     "33": {
-        "<pc>は　<%sTYPE>の|<%sCLASS>ランクの記念品として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": ""
+        "<pc>は　<%sTYPE>の|<%sCLASS>ランクの記念品として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": "<pc> received <%dNUM> <%sITEM> for achieving|Rank <%sCLASS> in <%sTYPE>!<se_nots System 7>"
     },
     "34": {
         "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「それじゃ　今後も　がんばってくれよ！": ""
