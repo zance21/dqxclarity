@@ -15,7 +15,7 @@
         "<speed=0><pc>は|<%sL_FISH>を　逃がした。|<bw_break>": "<speed=0><pc> is to escape <%sL_FISH>...<bw_break>"
     },
     "6": {
-        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>!|Size: <%sL_SIZE>cm|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
+        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "You caught a <%sL_FISH>!|Size: <%sL_SIZE> cm |<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "7": {
         "さかなに　逃げられてしまった。|<bw_break>": "The fish got away.<bw_break>"
@@ -30,7 +30,7 @@
         "<speed=0>さかなぶくろが　いっぱいですが|本当に　釣りますか？|<yesno><break>": "<speed=0>There's a lot of fish in this bag. Are you|sure you want to fish?<yesno><break>"
     },
     "11": {
-        "さかなが　かかった！": "I caught a fish!"
+        "さかなが　かかった！": "You caught a fish!"
     },
     "12": {
         "使っていた<%sL_ROD>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_ROD> I've|been using has reached its|limit and broke...<bw_break>"
@@ -60,7 +60,7 @@
         "<select_se_off>|さおを引く|全力で引く|暗黒引き|まじん引き|マヒャド引き|ルアー覚醒|あきらめる|釣り上げる|逃げられる|<select_end><break>": "<select_se_off>|Pull the worm|All your might|Dark pull|Majestic Pull|Mahyad pull|Lure awakening|Give up|Fish up|Run away|<select_end><break>"
     },
     "21": {
-        "宝箱を　釣り上げた！|<bw_break>": "I caught a treasure chest!<bw_break>"
+        "宝箱を　釣り上げた！|<bw_break>": "You caught a treasure chest!<bw_break>"
     },
     "22": {
         "宝箱を　釣り上げられなかった。|<bw_break>": "I can't fish out the treasure chest...<bw_break>"
@@ -87,10 +87,10 @@
         "<speed=0><color_yellow>釣りバトルの遊び方の説明です！|<br>|ルアーの　くいつき度が　ゼロになる前に|さおを引いて　さかなを岸まで引き寄せましょう！|<br>|さおをゆるめる　全力で引く　などの釣りとくぎは|１度の釣りバトルで使える回数が限られています。|<br>|釣りとくぎを使う　タイミングを見きわめ|みごと　さかなを　釣り上げるのです！|<end>": "<speed=0><color_yellow>This is an explanation of how to play Fishing|Battle! Pull the hook before the lure's bite|level drops to zero to pull the fish to|<br>|shore! You can only use a limited number of|fishing tricks in one fishing battle, such as|loosening the hook and pulling as hard as you|<br>|can. Find the right time to use them and|catch the fish!<end>"
     },
     "30": {
-        "さかなが　かかった！　これは　大物だ！": "I caught a fish! It's a big one!"
+        "さかなが　かかった！　これは　大物だ！": "You caught a fish! Wow, it's big!"
     },
     "31": {
-        "<%sL_FISH>を　釣り上げた！|<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>!|<color_yellow>Size: <%sL_SIZE>cm<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
+        "<%sL_FISH>を　釣り上げた！|<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "You caught a <%sL_FISH>!|<color_yellow>Size: <%sL_SIZE> cm <%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "32": {
         "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|釣り経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc> gained <%dL_EXP>+<%dL_EXP_OUEN>(Bonus)P|of fishing experience!|<se_nots System 7>|<bw_break>"
@@ -117,7 +117,7 @@
         "しかし　さおをゆるめていたので|くいつき度は　減らなかった！": "I loosened my fishing rod, so I|didn't lose any bite rate!"
     },
     "40": {
-        "<speed=0>釣ったさかなを　あきらめますか？|<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>|<yesno 2><break>": "<speed=0>Discard the fish you caught?|<color_yellow><%sL_FISH> <%sL_SIZE>cm<%sL_RANK_TEXT><color_white>|<yesno 2><break>"
+        "<speed=0>釣ったさかなを　あきらめますか？|<color_yellow><%sL_FISH>　<%sL_SIZE>ｃｍ　<%sL_RANK_TEXT><color_white>|<yesno 2><break>": "<speed=0>Discard the fish you caught?|<color_yellow><%sL_FISH> <%sL_SIZE> cm <%sL_RANK_TEXT><color_white>|<yesno 2><break>"
     },
     "41": {
         "さかなは　闇を振り払った！": "The fish has shaken off the darkness!"
@@ -141,7 +141,7 @@
         "<speed=0>時間切れになっていたので|釣りポイントを　かくとくできなかった。|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<br>|サーペンに　結果を報告しに行こう！|<bw_break>": "<speed=0>Time was running out, so I couldn't pinpoint|the fishing points... I: <%dL_MYPOINT> P All:|<%dL_ALLPOINT> P Let's go report our results|<br>|to Serpens!<bw_break>"
     },
     "48": {
-        "宝箱を　釣り上げた！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<bw_break>": "I caught a treasure chest!|Self: <%dL_MYPOINT>P|All: <%dL_ALLPOINT P|<bw_break>"
+        "宝箱を　釣り上げた！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<bw_break>": "You caught a treasure chest!|Self: <%dL_MYPOINT>P|All: <%dL_ALLPOINT P|<bw_break>"
     },
     "49": {
         "さかなに　逃げられてしまった。|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<bw_break>": "The fish got away... Self: <%dL_MYPOINT> P|All: <%dL_ALLPOINT> P<bw_break>"
@@ -159,7 +159,7 @@
         "小さいサイズ更新！": "Small size update!"
     },
     "54": {
-        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught a <%sL_FISH>!|Size: <%sL_SIZE>cm<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
+        "<%sL_FISH>を　釣り上げた！|サイズ：<%sL_SIZE>ｃｍ|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "You caught a <%sL_FISH>!|Size: <%sL_SIZE> cm|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "55": {
         "さかなぶくろの　さかなを全てロックしているため|釣りをすることが　できません。|整理をしてから　もう一度お試しください。|<end>": "You've locked all the fish in your fish bag,|so you can't fish... Please sort them out and|try again...<end>"
