@@ -6,7 +6,7 @@
         "<speed=0>釣ったさかなを　あきらめますか？|<%sL_FISH>　<%sL_SIZE>ｃｍ|<yesno 2><break>": "<speed=0>Would you give up the fish you caught?|<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
     },
     "3": {
-        "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> will acquire <%dL_EXP> P's fishing|experience!|<se_nots System 7><bw_break>"
+        "<pc>は|<%dL_EXP> Pの釣り経験値を　かくとく！|<se_nots System 7><bw_break>": "<pc> gained <%dL_EXP>P worth of fishing|experience!|<se_nots System 7><bw_break>"
     },
     "4": {
         "<speed=0>ここには　さかながいないようだ。|<end>": "<speed=0>There are no fish here...<end>"
@@ -42,7 +42,7 @@
         "<speed=0>釣りざおを　しまいますか？|<yesno><close>": "<speed=0>Put away your fishing rod?|<yesno><close>"
     },
     "15": {
-        "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%dL_BITE_BONUS> Bites deeper! Your bite has|increased by <%dL_BITE_BONUS>!"
+        "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%sL_LURE> effect!|Your bite rate has increased by <%dL_BITE_BONUS>!"
     },
     "16": {
         "何かが　かかった！": "Something's happened to me!"
@@ -93,7 +93,7 @@
         "<%sL_FISH>を　釣り上げた！|<color_yellow>サイズ：<%sL_SIZE>ｃｍ　<%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>": "I caught <%sL_FISH>!<color_yellow>Size: <%sL_SIZE>cm <%sL_SIZE_RANK><color_white>|<color_yellow><%sL_NEW_RECORD><color_white>|<bw_break>"
     },
     "32": {
-        "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|釣り経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc>  will acquire <%dL_EXP>+<%dL_EXP_OUEN>(bonus)|P of fishing experience!|<se_nots System 7>|<bw_break>"
+        "<pc>は|<%dL_EXP>+<%dL_EXP_OUEN>(おうえんボーナス) Pの|釣り経験値を　かくとく！<se_nots System 7>|<bw_break>": "<pc> gained <%dL_EXP>+<%dL_EXP_OUEN>(Bonus)P|of fishing experience!|<se_nots System 7>|<bw_break>"
     },
     "33": {
         "最大サイズ更新！": "Maximum size update!"
