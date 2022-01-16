@@ -54,10 +54,10 @@
         "<speed=0>この釣りバトル中では|もう　『<%sL_ACTION_NAME>』は　使えない！": "<speed=0>I can't use \"<%sL_ACTION_NAME>\" in this|fishing battle anymore!"
     },
     "19": {
-        "釣れるもの|<select_se_off>|魚　通常|魚　大物|魚　超大物|宝箱|<select_end><break>": ""
+        "釣れるもの|<select_se_off>|魚　通常|魚　大物|魚　超大物|宝箱|<select_end><break>": "Catch options|<select_se_off>|Usual Fish|Big Fish|Super Fish|Chest|<select_end><break>"
     },
     "20": {
-        "<select_se_off>|さおを引く|全力で引く|暗黒引き|まじん引き|マヒャド引き|ルアー覚醒|あきらめる|釣り上げる|逃げられる|<select_end><break>": ""
+        "<select_se_off>|さおを引く|全力で引く|暗黒引き|まじん引き|マヒャド引き|ルアー覚醒|あきらめる|釣り上げる|逃げられる|<select_end><break>": "<select_se_off>|Pull the worm|All your might|Dark pull|Majestic Pull|Mahyad pull|Lure awakening|Give up|Fish up|Run away|<select_end><break>"
     },
     "21": {
         "宝箱を　釣り上げた！|<bw_break>": "I caught a treasure chest!<bw_break>"
@@ -78,10 +78,10 @@
         "<%.1fL_DISTANCE>メートル離れた！": "<%.1fL_DISTANCE> meters away!"
     },
     "27": {
-        "くいつき度が　<%dL_KUITUKIDO>減った！": ""
+        "くいつき度が　<%dL_KUITUKIDO>減った！": "Bite level has decreased by <%sL_KUITUKIDO>!"
     },
     "28": {
-        "くいつき度が　<%dL_KUITUKIDO>増えた！": ""
+        "くいつき度が　<%dL_KUITUKIDO>増えた！": "Bite level has incrased by <%sL_KUITUKIDO>!"
     },
     "29": {
         "<speed=0><color_yellow>釣りバトルの遊び方の説明です！|<br>|ルアーの　くいつき度が　ゼロになる前に|さおを引いて　さかなを岸まで引き寄せましょう！|<br>|さおをゆるめる　全力で引く　などの釣りとくぎは|１度の釣りバトルで使える回数が限られています。|<br>|釣りとくぎを使う　タイミングを見きわめ|みごと　さかなを　釣り上げるのです！|<end>": "<speed=0><color_yellow>This is an explanation of how to play Fishing|Battle! Pull the hook before the lure's bite|level drops to zero to pull the fish to|<br>|shore! You can only use a limited number of|fishing tricks in one fishing battle, such as|loosening the hook and pulling as hard as you|<br>|can. Find the right time to use them and|catch the fish!<end>"
