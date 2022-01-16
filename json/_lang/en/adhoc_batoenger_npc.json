@@ -81,13 +81,13 @@
         "「バトエン大会では　１回の行動選択に|　１５秒の制限時間がある。|　決断力が　勝敗を決めると言っていい。|<br>|「なお　２回連続で制限時間を|　オーバーすると　その試合では失格となり|　退場になってしまうので　注意してくれ！": ""
     },
     "28": {
-        "「おっと！|　バトエン大会は　ひとりで　参加するものだ！|　パーティを解散してから　また　来てくれ！": ""
+        "「おっと！|　バトエン大会は　ひとりで　参加するものだ！|　パーティを解散してから　また　来てくれ！": "Whoops! You're on your own in this tournament!|Gotta disband your party first!"
     },
     "29": {
-        "「ヒーローにも　しばしの休息は　必要……。|　今は　バトエン大会は開催していないんだ。|　大会が始まったら　また　来てくれ！": ""
+        "「ヒーローにも　しばしの休息は　必要……。|　今は　バトエン大会は開催していないんだ。|　大会が始まったら　また　来てくれ！": "Whew, even heroes need a break... there isn't|a tournament being held right now. Come back|when it starts!"
     },
     "30": {
-        "「……と思ったら　ゴールドがいっぱいだぞ！|　ゴールドを預かり所に預けてから　もう一度|　オレに　話しかけてくれ！": ""
+        "「……と思ったら　ゴールドがいっぱいだぞ！|　ゴールドを預かり所に預けてから　もう一度|　オレに　話しかけてくれ！": "...I think your wallet is full! Put some of|that Gold away, then come see me again!"
     },
     "31": {
         "「フ……。ヒーローというものは　自らについて|　語る言葉を持たない……。唯一　言えることは|　バトエンあるところに　俺は必ず　現れる！|<br>|「君たちが　バトエン大会で|　熱いバトエンファイトを　くり広げることを|　期待しているぞ！": ""
@@ -99,7 +99,7 @@
         "<pc>は　<%sTYPE>の|<%sCLASS>ランクの記念品として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": "<pc> received <%dNUM> <%sITEM> for achieving|Rank <%sCLASS> in <%sTYPE>!<se_nots System 7>"
     },
     "34": {
-        "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「それじゃ　今後も　がんばってくれよ！": ""
+        "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「それじゃ　今後も　がんばってくれよ！": "Oooh! You've ranked up since your last battle!|Congrats! I'll give you this proof of honor...|and this rank up reward, too!|<br>|Keep fighting the good fight!"
     },
     "35": {
         "「今は　後半戦のランクアップ記念品が|　受け取れるぞ。|　それじゃ　どの報酬を　確認するんだ？|<select>|ランクアップ記念品|ランキング上位報酬|<select_end><close>": "You can now receive the second half rewards.|Which reward do you wanna check?|<select>|Rank Up Rewards|Top Ranking Rewards|<select_end><close>"
