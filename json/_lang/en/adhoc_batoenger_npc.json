@@ -60,7 +60,7 @@
         "<pc>は　<%sTYPE>の|<%sCLASS>ランクの記念品として|<%sITEM>を　手に入れた！<se_nots System 7>": "<pc> received <%sITEM> for achieving|Rank <%sCLASS> in <%sTYPE>!<se_nots System 7>"
     },
     "21": {
-        "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「ルール別に　ランクアップ記念品があるから|　どちらのルールにも　挑戦してみてくれ。　|　それじゃ　今後も　がんばってくれよ！": ""
+        "「おおっ！　前回の試合でランクアップしたな！|　おめでとう！　それでは君に　栄誉の証……|　ランクアップ記念品を渡そう！|<br>|「ルール別に　ランクアップ記念品があるから|　どちらのルールにも　挑戦してみてくれ。　|　それじゃ　今後も　がんばってくれよ！": "Oooh! You've ranked up since your last battle!|Congrats! I'll give you this proof of honor...|and this rank up reward, too!|<br>|Each rule has its own rank up prizes, so|make sure to try both! Well then... keep|fighting the good fight!"
     },
     "22": {
         "「では　さっそく始めようじゃないか！|　この試合では　自分のデッキで闘うことになるが|　デッキ編成の　準備はいいか？|<select>|準備ＯＫ！|もうちょっと待って|<select_end><break>": "Well then, are ya ready to start? You'll play|with your own deck, so make sure you've|got it ready.|<select>|I'm ready!|Wait a second!|<select_end><break>"
@@ -90,7 +90,7 @@
         "「……と思ったら　ゴールドがいっぱいだぞ！|　ゴールドを預かり所に預けてから　もう一度|　オレに　話しかけてくれ！": "...I think your wallet is full! Put some of|that Gold away, then come see me again!"
     },
     "31": {
-        "「フ……。ヒーローというものは　自らについて|　語る言葉を持たない……。唯一　言えることは|　バトエンあるところに　俺は必ず　現れる！|<br>|「君たちが　バトエン大会で|　熱いバトエンファイトを　くり広げることを|　期待しているぞ！": ""
+        "「フ……。ヒーローというものは　自らについて|　語る言葉を持たない……。唯一　言えることは|　バトエンあるところに　俺は必ず　現れる！|<br>|「君たちが　バトエン大会で|　熱いバトエンファイトを　くり広げることを|　期待しているぞ！": "Whew... there's not much a hero can say about|himself. What I can say, though, is that where|there's Batoen, I'll always be there!|<br>|I'm looking forward to seeing you fired up|in the Batoen Tournament!"
     },
     "32": {
         "<pc>は　<%sTYPE>の|<%nRANKING>位のランキング上位報酬として|<%sITEM>　<%nNUM><%sUNIT>　を手に入れた！<se_nots System 7>": "<pc> received <%dNUM> <%sITEM> for achieving|a Top Rank of <%dRANKING> in|<%sTYPE>!"
