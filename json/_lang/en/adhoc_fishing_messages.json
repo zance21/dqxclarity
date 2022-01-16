@@ -135,7 +135,7 @@
         "<speed=0><pc>は　釣りをしようとしたが|時間切れになっていることに　気がついた。|サーペンに　結果を報告しに行こう！|<end>": "<speed=0><pc> I was going to go fishing, but then I|realized we were out of time. Let's go tell|Serpent what happened!<end>"
     },
     "46": {
-        "<pc>は|<%dL_POINT> Pの釣りポイントを　かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<se_nots System 7><bw_break>": "<pc> will acquire <%dL_POINT> P fishing points!|Self: <%dL_MYPOINT> P All: <%dL_ALLPOINT> P|<se_nots System 7><bw_break>"
+        "<pc>は|<%dL_POINT> Pの釣りポイントを　かくとく！|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<se_nots System 7><bw_break>": "<pc> gained <%dL_POINT>P fishing points!|Self: <%dL_MYPOINT>P All: <%dL_ALLPOINT>P|<se_nots System 7><bw_break>"
     },
     "47": {
         "<speed=0>時間切れになっていたので|釣りポイントを　かくとくできなかった。|自分：<%dL_MYPOINT> P　全員：<%dL_ALLPOINT> P|<br>|サーペンに　結果を報告しに行こう！|<bw_break>": "<speed=0>Time was running out, so I couldn't pinpoint|the fishing points... I: <%dL_MYPOINT> P All:|<%dL_ALLPOINT> P Let's go report our results|<br>|to Serpens!<bw_break>"
