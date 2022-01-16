@@ -1,6 +1,6 @@
 {
     "1": {
-        "「仮。|<end>": ""
+        "「仮。|<end>": "Temp.|<end>"
     },
     "2": {
         "<speed=0>釣ったさかなを　あきらめますか？|<%sL_FISH>　<%sL_SIZE>ｃｍ|<yesno 2><break>": "<speed=0>Would you give up the fish you caught?|<%sL_FISH> <%sL_SIZE>cm<yesno 2><break>"
