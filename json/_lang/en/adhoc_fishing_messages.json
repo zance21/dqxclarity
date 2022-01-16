@@ -45,7 +45,7 @@
         "<%sL_LURE>の効果で　深く食らいついた！|くいつき度が　<%dL_BITE_BONUS>　上がった！": "<%sL_LURE> effect!|Your bite rate has increased by <%dL_BITE_BONUS>!"
     },
     "16": {
-        "何かが　かかった！": "Something's happened to me!"
+        "何かが　かかった！": "Something's happening!"
     },
     "17": {
         "<speed=0>本当に　あきらめますか？|<yesno 2><break>": "<speed=0>Do you really want to give up?<yesno 2><break>"
