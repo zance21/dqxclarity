@@ -33,10 +33,10 @@
         "さかなが　かかった！": "I caught a fish!"
     },
     "12": {
-        "使っていた<%sL_ROD>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_ROD> I've been using has reached its|limit and is broken...<bw_break>"
+        "使っていた<%sL_ROD>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_ROD> I've|been using has reached its|limit and broke...<bw_break>"
     },
     "13": {
-        "使っていた<%sL_LURE>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_LURE> I've been using has reached|its limit and is broken...<bw_break>"
+        "使っていた<%sL_LURE>は|限界がきて　こわれてしまった……。|<bw_break>": "The <%sL_LURE> I've|been using has reached its|limit and broke...<bw_break>"
     },
     "14": {
         "<speed=0>釣りざおを　しまいますか？|<yesno><close>": "<speed=0>Put away your fishing rod?|<yesno><close>"
