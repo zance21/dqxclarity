@@ -24,7 +24,7 @@
         "<speed=0>さかなぶくろが　いっぱいで　もちきれません！|<bw_break>": "<speed=0>I can't hold all the fish in my bag!<bw_break>"
     },
     "9": {
-        "<speed=0><pc>は　<%sL_FISH>を|さかなぶくろに　いれた。|<bw_break>": "<speed=0>You put a <%sL_FISH> in your fish bag.|<bw_break>"
+        "<speed=0><pc>は　<%sL_FISH>を|さかなぶくろに　いれた。|<bw_break>": "<speed=0>You put a <%sL_FISH>|in your fish bag.|<bw_break>"
     },
     "10": {
         "<speed=0>さかなぶくろが　いっぱいですが|本当に　釣りますか？|<yesno><break>": "<speed=0>There's a lot of fish in this bag. Are you|sure you want to fish?<yesno><break>"
