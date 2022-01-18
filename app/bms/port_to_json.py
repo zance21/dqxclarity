@@ -10,6 +10,7 @@ sys.path.append("../")
 from clarity import query_csv
 from signatures import text_pattern, index_pattern, foot_pattern
 from memory import pattern_scan, read_bytes, get_start_of_game_text, find_first_match
+from blacklist import indx_blacklist
 
 def write_file(path: str, filename: str, attr: str, data: str):
     '''Writes a string to a file.'''
@@ -72,6 +73,18 @@ def query_csv(file: str, compare_type='hex') -> bool:
             for row in reader:
                 if row['file'] == f'json\_lang\en\{file}':
                     return True
+
+def check_blacklist(file: str):
+    '''
+    blacklist.py houses all of the files that we don't care about.
+    If a file has a matching INDX entry, return True.
+    '''
+    with open(f'{file}', 'rb') as f:
+        the_bytes = f.seek(80)  # INDX starts at 0x80
+        the_bytes = f.read(64)  # get unique bytes for hex dict. 64 is arbitrary
+    
+    if the_bytes in indx_blacklist:
+        return True
 
 def __find_start_of_text(file: str) -> int:
     with open(f'dqx_out/{file}', 'rb') as f:
@@ -303,6 +316,9 @@ if __name__ == '__main__':
         for file in listdir('dqx_out'):
             bar()
             if query_csv(f'dqx_out/{file}'):  # if we dumped it from memory already, don't do double work
+                continue
+
+            if check_blacklist(f'dqx_out/{file}'):
                 continue
 
             bounds = get_text_range(file)
