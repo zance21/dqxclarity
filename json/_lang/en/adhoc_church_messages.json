@@ -42,7 +42,7 @@
         "「おお！　我らが神よ！|　<%sL_DOKU_PCNAME>より　毒のけがれを|　消し去りたまえ！<bw_break>": "Oh! My God! From <%sL_DOKU_PCNAME>, wipe away|the poisonous filth!<bw_break>"
     },
     "15": {
-        "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": "Good. From now on, when you run out of|energy, you are to be resurrected here in the|church of <%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><|<br>|%sL_TYOUME1>...<bw_break>"
+        "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": "Good. From now on, when you run out of|energy, you will be resurrected here in the|church of <%sL_KYOUKAI_NAME>|<br>|<%dL_TYOUME_NO1><%sL_TYOUME1>|<bw_break>"
     },
     "16": {
         "<pc>は　神に祈りを捧げた……。|<break>": "<pc> I prayed to God...<break>"
@@ -54,7 +54,7 @@
         "「う～む……。寄付をするには|　お金が　足りないようだな。|<bw_break>": "Hmm... I don't have enough money to make a|donation.<bw_break>"
     },
     "19": {
-        "「困ったときは　いつでも立ち寄りなさい。|　<pc>に　神のご加護が　あらんことを。<turn_end>": "If you ever need help, you can always stop|by...<pc> May God bless you and your family.<turn_end>"
+        "「困ったときは　いつでも立ち寄りなさい。|　<pc>に　神のご加護が　あらんことを。<turn_end>": "If you ever need help, stop by anytime.|May God bless you, <pc>.<turn_end>"
     },
     "20": {
         "「むむ？　そなたの仲間に|　死んでいる者など　おらんではないか。|<bw_break>": "Hmm? I thought none of your men were dead.<bw_break>"
