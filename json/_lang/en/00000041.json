@@ -48,7 +48,7 @@
         "「おお！　我らが神よ！|　<%sL_DOKU_PCNAME>より　毒のけがれを|　消し去りたまえ！<bw_break>": ""
     },
     "17": {
-        "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": ""
+        "「よし。これより　そなたが　チカラ尽きた時は|　ここ　<%sL_KYOUKAI_NAME><%dL_TYOUME_NO1><%sL_TYOUME1>の教会にて|　復活するようになった。|<bw_break>": "Good. From now on, when you run out of|energy, you will be resurrected here in the|church of <%sL_KYOUKAI_NAME>|<br>|<%dL_TYOUME_NO1><%sL_TYOUME1>|<bw_break>"
     },
     "18": {
         "<pc>は　神に祈りを捧げた……。|<break>": ""
