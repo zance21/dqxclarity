@@ -1,0 +1,650 @@
+{
+    "1": {
+        "「貴様ら　何者だ！？|　この先は　荘厳にして偉大なる　ゼクレス城だ。|　身分の不確かな者は　入れんぞ！": "Who are you people? What lies ahead is the|great and majestic Zekle... No one of|uncertain identity may enter!"
+    },
+    "2": {
+        "「見たところ　この国の民ではないようだが……|　ここは　貴様らのような　よそ者が来る|　場所ではない。さっさと　消えろ！": "By the looks of you, you're not from here.|This is no place for outsiders like you...|Get the hell out of here!"
+    },
+    "3": {
+        "「私は　ファラザード国の魔王の使者 |　ユシュカという者だ。": "I'm Yushka, an emissary of the demon king of|Farazad..."
+    },
+    "4": {
+        "「主からの命で　魔王アスバル陛下に |　お目通り願いたく　ここへ参った。|　通しては　もらえないだろうか？": "I'm here by order of the Lord, to ask His|Majesty the Demon Lord Asbal to allow me to|see him. May I come through?"
+    },
+    "5": {
+        "「ファラザードだと……？ |　南方に　そんな新興国があると|　聞いてはいるが……。": "Farazad...? I've heard there's a new country|in the south..."
+    },
+    "6": {
+        "「たとえ　他国の使者であろうと |　許可なき者を　通すわけには　いかん。|　早々に　立ち去れい！": "I will not allow anyone to pass through here|without permission, even if they are from|another country. Now, get out of here!"
+    },
+    "7": {
+        "「使者である私への　その態度は　すなわち |　我が王への侮辱と　受け取るが……|　それでも　通せないと？": "I take your attitude toward me, your|messenger, as an insult to my king. And you|still can't get through?"
+    },
+    "8": {
+        "「……いや！　ま……待て。|　確認を取るので　しばし待たれよ！": "... No! No! ..... Wait a minute, I'll get|confirmation!"
+    },
+    "9": {
+        "「アスバルは　どこへ行った！？|　今日こそ　わらわの茶会に出席しろと|　あれほど　言ったのに……": "Where's Asbal? I told you that today was the|day to attend my tea party."
+    },
+    "10": {
+        "「お前たち！　あやつを　連れ戻せ！ |　見つけるまで　城に戻ることは　許さぬぞ！": "You guys! Bring him back! I will not allow|you to return to the castle until I find him!"
+    },
+    "11": {
+        "「はッ！　承知いたしました！": "Ha! Yes, sir!"
+    },
+    "12": {
+        "「まさか　いきなりの　お出ましとはな。|　エルガドーラ王太后様も|　お元気そうなことで……。": "I didn't expect her to show up out of the|blue... Her Royal Highness, Queen Elgadora,|is looking well..."
+    },
+    "13": {
+        "「報告を受けていないとは　失礼した！|　どうやら　行き違いがあったようなので|　出直させてもらうことにしよう。": "I'm sorry I wasn't informed. Apparently,|there's been a misunderstanding. I'll have to|come back..."
+    },
+    "14": {
+        "「さて　今の話は　聞いてたな？|　この国の魔王アスバルは　城にご不在のようだ。|　ひとつ　町で　情報収集でもしてみるか。": "Now, did you hear what I just said? Asbal,|the Witchking of this land, is not at his|castle... I think I'll go into town and|<br>|gather some information..."
+    },
+    "15": {
+        "「とりあえず　情報を持っていそうな |　町の有力者を見つけて　聞き込みしてみるか。": "In the meantime, I'm going to find some|influential people in town who might have|some information and ask around..."
+    },
+    "16": {
+        "「おっと　さっそく　それらしいのが……": "Oh, I saw something that looked like it right away"
+    },
+    "17": {
+        "「お前ら　何者だ！|　こちらは　ベラストル家　ご当主の|　リンベリィ様であるぞ！　気安く近寄るな！": "Who are you people? This is Mr. Linbury, head|of the Bellastre family! Don't you dare|approach him!"
+    },
+    "18": {
+        "「ほう？　そんなに　エラいお方なら |　いい情報　持ってそうじゃないか。": "Really? If you're so smart, you must have|some good information."
+    },
+    "19": {
+        "「……ちょっと！　なによ　アンタたち！ |　みっすぼらしい身なりで……よくも　この私に|　クチが　きけるわね。": "... Hey! What are you doing here? You're all|so miserable... How dare you talk to me like|that..."
+    },
+    "20": {
+        "「これだから　身分をわきまえない　|　下等魔族は　嫌なのよ……。|　今すぐ　目の前から　消えてくれない？": "This is why I hate demons who don't know|their place... Would you please get out of my|sight right now?"
+    },
+    "21": {
+        "「はじめまして　リンベリィ様。 |　ぶしつけな問いで　恐縮ですが|　魔王アスバルの居場所を　ご存知ありませんか？": "Nice to meet you, Limber... I'm sorry to be|so blunt, but do you know where I can find|the Demon Lord Asbal?"
+    },
+    "22": {
+        "「あ～もう　全っ然　ヒトの話を……": "I'm not talking to you at all"
+    },
+    "23": {
+        "「って……あら？　あらあら？ |　アナタ　よく見たら|　なかなか　イケてるじゃない！": "I mean... Oh? What? Look at you. You're|pretty cool."
+    },
+    "24": {
+        "「そんな　みすぼらしい格好をしているなんて |　もったいないわ！　みがけば　最高にいい男に|　なること　間違いなしですもの！": "It's a shame you're dressed so shabbily! I'm|sure you'll turn out to be the most handsome|man I've ever seen!"
+    },
+    "25": {
+        "「あ　あぁ？": "Oh, yeah?"
+    },
+    "26": {
+        "「……そうだ！　ねえアナタ　我がベラストル家で |　今夜　開催される　秘蔵の芸術品の|　おひろめパーティーに　招待してあげる！": "... That's right! I'm inviting you to a party|tonight at the Bellastor home to unveil our|treasured artifacts!"
+    },
+    "27": {
+        "「ねえ！|　招待状を　この者に１枚　渡してちょうだい！": "Hey! Give me one of these invitations,|please!"
+    },
+    "28": {
+        "「私が直々に　アナタに見合う　衣装を |　見つくろって　専属の召使いとして|　雇ってあげるわ！": "I'll personally find you a suitable outfit|and hire you as my personal servant!"
+    },
+    "29": {
+        "「このリンベリィ様の　お気に入りになれば |　出世は　約束されたも同然！|　いい目を　見させてあげるわよ<heart>": "If you become Mr. Linbury's favorite, you're|guaranteed a career! I'll give you a good|look.<heart>"
+    },
+    "30": {
+        "「リンベリィ様　そろそろパーティーの|　準備のお時間が……。": "Mr. Linbery, it's time to get ready for the|party..."
+    },
+    "31": {
+        "「そうだったわ！|　私としたことが　まだ　会場のお花の色を|　決めてなかったわね。急がなくちゃ！": "Oh, my gosh. It's just that I haven't decided|on the color of the flowers yet... We have to|hurry!"
+    },
+    "32": {
+        "「それじゃ　アナタ！　この私に|　気に入られたこと　光栄に思いなさいよ！": "And you! You should be flattered that I've|taken a liking to you!"
+    },
+    "33": {
+        "「パーティー会場で　また会いましょ！": "I'll see you at the party!"
+    },
+    "34": {
+        "「パーティーは　ごめんだが　何か情報は |　得られるかもな……。俺は　城下を探索するから|　パーティーには　お前が　潜入してくれ。": "I'm not going to the party, but I might be|able to get some information. I'm going to|explore the castle, and you're going to|<br>|infiltrate the party."
+    },
+    "35": {
+        "「お互い　聞き込みを終えたら|　また　城下で落ち合おう。 |　招待状は　渡しておくぜ。": "When we're done canvassing each other, we'll|meet back at the castle... I'll give you the|invitations..."
+    },
+    "36": {
+        "<pc>は　ユシュカから|パーティーの招待状（だいじなもの）を|受け取った！<me 60>": "<pc> I got an invitation to a party from Jushka!<me 60>"
+    },
+    "37": {
+        "「せいぜい　あの　ワガママお嬢様のご機嫌を |　損ねないようにな。": "At the very least, I won't offend that|selfish young lady..."
+    },
+    "38": {
+        "「……はぁ？　アンタ　誰？ |　なんで　こんな　みっすぼらしいのが|　パーティーに　まぎれ込んでるわけ？": "... Huh? Who are you? Why are you such a|miserable little thing mixed in with the|party?"
+    },
+    "39": {
+        "「えっ！！|　あの　イケてる男の　横にいたヤツ！？|　全ッ然　記憶にないんだけど！": "What? The guy who was standing next to that|hot guy? I don't remember him at all!"
+    },
+    "40": {
+        "「あの美男子は　どこいったの！？ |　私が招待したのは　従者のアンタじゃなくて|　アイツなのに！": "Where's that handsome man? I didn't invite|you to be my squire, I invited him!"
+    },
+    "41": {
+        "「ひどいわ！ |　私の誘いを断るなんて　許せないッ！": "That's terrible! It's unacceptable that you|would refuse my offer!"
+    },
+    "42": {
+        "「今度　見かけたら　ゼッタイ　ゼッタイ |　会いにこなかったことを　後悔させてやる！": "If I ever see you again, I swear to God, I'll|make you regret not coming to see me!"
+    },
+    "43": {
+        "「……もう！　その招待状はアンタにあげたんじゃ|　ないんだからっ！　返してよね！": "... That's it! I didn't give you that|invitation! Give it back to me!"
+    },
+    "44": {
+        "「このパーティーは　招待されてない客は|　入場　お断りなのよ！|　お前たち　今すぐこいつを　つまみ出しなさい！": "This party is closed to all uninvited guests!|You guys, get this thing out of here right|now!"
+    },
+    "45": {
+        "「ちょっと待ってください。": "I'll just..."
+    },
+    "46": {
+        "「その子は　僕の連れなんです。 |　慣れない場で　迷ってしまったようで……。": "She's with me... I think he got lost in an|unfamiliar place..."
+    },
+    "47": {
+        "「……なんだ。アナタのしもべだったの？ |　下等魔族が　うろうろしないよう　ちゃんと|　首輪つけておいてよね。": "...... He was your servant? I made sure to|put a collar on her to keep the lowly demons|from wandering around..."
+    },
+    "48": {
+        "「ふふ　これは失礼しました。|　よく言っておくよ。": "Pardon me for saying this, but... Excuse me."
+    },
+    "49": {
+        "「君も　びっくりさせてしまったね。 |　さあ　僕についておいで。": "You're in for a big surprise. Come on, follow|me..."
+    },
+    "50": {
+        "「あっ！　ねえ　シリル！|　次のコレクションに　どの絵を買うべきか|　迷ってるから　アナタの意見が聞きたいの！": "Aah! Hey Cyril! I'm trying to decide which|painting to buy for my next collection, and I|need your opinion!"
+    },
+    "51": {
+        "「ちょっと　こっちに来てよ！": "Hey, come here!"
+    },
+    "52": {
+        "「わかったよ。|　すぐに行くから　少しだけ待ってて。": "I'm... I'll be right there. Just give me a|second..."
+    },
+    "53": {
+        "「……僕の名は　シリル。 |　君と話したくて　つい出しゃばってしまった。": "... My name is... I've been trying to talk to|you. I've been..."
+    },
+    "54": {
+        "「今は　手が離せないから　平民街の北にある|　僕が経営する骨董屋　『六大陸堂』で|　待ち合わせしよう。": "I'm a little busy at the moment, so I'll meet|you at my antique shop, Rokudokudo, north of|the commoners' quarter."
+    },
+    "55": {
+        "「用が済んだら　すぐに僕も向かうから|　そこで　話をさせてくれないか。": "I'll be on my way as soon as I'm done, so let|me talk to you there..."
+    },
+    "56": {
+        "「それじゃ　またあとで　六大陸堂で会おう！": "Well then, I'll see you later at the Six|Continents Hall!"
+    },
+    "57": {
+        "「やあ　いらっしゃい……あっ　君か！": "Hey, welcome... Oh, it's you!"
+    },
+    "58": {
+        "「案外　早かったね。無事に着いて　よかった！|　こっちは　リンベリィを　振り切るのに|　もう　大変だったよ。": "It was quicker than I thought. I'm glad we|made it! I'm already having a hard time|getting past Linbery."
+    },
+    "59": {
+        "「そういえば　まだ　名前を |　聞いていなかったよね。": "You know, I haven't heard your name yet..."
+    },
+    "60": {
+        "「君は　なんていう名前なのかな？": "What's your name, anyway?"
+    },
+    "61": {
+        "「そうか……いい名前だね。": "Well... Good name..."
+    },
+    "62": {
+        "「もしかして　君は　アストルティアから|　来たんじゃないかな？": "Maybe you're from Astrutia, huh?"
+    },
+    "63": {
+        "「あの時　ひと目　君の身なりを見て|　すぐ　わかったんだよ。": "I recognized you as soon as I saw you..."
+    },
+    "64": {
+        "「僕は　ずっと昔から　身分の差がなく|　自由に暮らせる　アストルティアに　憧れてた。|　だから　すぐ　ピンときたんだ。": "For a long time now, I've longed to live in|Astrutia, where there's no difference in|status, where people can live freely...|<br>|That's why I immediately thought..."
+    },
+    "65": {
+        "「この店も　この国の貴族たちが所有する|　アストルティアゆかりの品を　集めるために|　開業したんだよ。": "This store was also opened to collect items|related to Astrutia, owned by the nobility of|this country..."
+    },
+    "66": {
+        "「あっ　それでさ！　君が持っている|　それは　キーエンブレムだろ！？|　よかったら　それを僕に　見せてくれないか？": "Oh, and by the way! That's the key emblem|you're holding, right? You mind if I take a|look at it?"
+    },
+    "67": {
+        "「ずっと憧れていたけど　本物を見るのは |　はじめてだよ……。これは国を救う程の偉業を|　達成した者にだけ　与えられる品なんだろう？": "I've always wanted one of these, but I've|never seen one in person. This is only given|to those who have done something great enough|<br>|to save their country, right?"
+    },
+    "68": {
+        "「なんて　きれいなんだ……。|　これを授与されているなんて　君はきっと|　すごく　ウデが　立つんだろうね……。": "How beautiful... You must be very skilled to|be awarded this..."
+    },
+    "69": {
+        "「ピキャーー！！": "Peek-a-boo!"
+    },
+    "70": {
+        "「おや　フラフ　どうしたんだい？": "Hey, Fluff, what's up?"
+    },
+    "71": {
+        "「……まさか　この鳴き方は……。": "... I don't believe it. I don't believe it."
+    },
+    "72": {
+        "「あっ。急に　ごめんよ。": "Oh. Suddenly..."
+    },
+    "73": {
+        "「この子は　フラフっていって|　ゼクレス魔導国近くの　ベルヴァイン湖に|　渡ってくる　銀翼竜のヒナなんだ。": "This one's called Fluff, and she's a chick of|a silver-winged dragon that migrates to Lake|Belvaine near the Zekres Mage Kingdom."
+    },
+    "74": {
+        "「毎年　そこで　銀翼竜の群れを見るのが |　僕の楽しみだったんだけど　数年前　その湖に|　凶暴化した魔獣が　住みついてしまったんだよ。": "I used to look forward to seeing the silver|pterosaurs every year, but a few years ago, a|hexenbiest went rogue and took up residence|<br>|in the lake..."
+    },
+    "75": {
+        "「それで　銀翼竜の群れを　襲うようになって…… |　この子は　去年　襲われていたところを|　僕が助けて　この店で　手当てしていたんだ。": "That's how he ended up attacking a bunch of|silver pterodactyls. This one was attacked|last year, but I rescued him, and I've been|<br>|treating him here..."
+    },
+    "76": {
+        "「また今年　群れがきたら　返そうと|　思っていたんだけど……参ったな。|　今年は例年より　群れが戻るのが　早いようだ。": "I was planning to return it this year when|the herd comes. But... The flock is coming|back faster than usual this year..."
+    },
+    "77": {
+        "「湖に　竜たちが降り立つ前に　魔獣を倒さないと|　またフラフの家族が　襲われてしまう……。": "If we don't defeat the beast before the|dragons descend on the lake, they'll attack|Fluff's family again..."
+    },
+    "78": {
+        "「そうだ！　君なら……。": "Yes! You can..."
+    },
+    "79": {
+        "「銀翼竜の群れが　ベルヴァイン湖につく前に|　湖の魔獣を　倒してくれないか？": "I need you to take out the hexenbiest in the|lake before the swarm of silver pterodactyls|get to Lake Vervain."
+    },
+    "80": {
+        "「お礼として　僕にできることなら |　この後　なんだって　チカラになる！|　だから……どうか　お願いだ！<yesno><close>": "If there's anything I can do to repay you,|anything at all after this, I'll do it! So...|Please, please!<yesno><close>"
+    },
+    "81": {
+        "「突然　こんなことを頼まれても　困るのは |　よく　わかるんだけど……今　頼めるのは|　君しかいない！　どうか　お願いだ！<yesno><close>": "I can understand why you'd be upset if I|suddenly asked you to do something like this,|but... But you're the only one I can ask|<br>|right now! Please, I beg you!<yesno><close>"
+    },
+    "82": {
+        "「本当かい！？　ありがとう……！": "Really? Thank you."
+    },
+    "83": {
+        "「じゃあ　僕もフラフを連れて　すぐ出発するから|　君も急いで　ベルヴァイン湖に　向かってくれ！": "Well, I'll be leaving soon with Fluff, and|you'd better hurry up and get to Lake|Verweijn!"
+    },
+    "84": {
+        "「ベルヴァイン湖は　この国を出て|　ベルヴァインの森の西側から　南の方角だ。|　この店は閉めるから　湖で待ち合わせしよう！": "Lake Verweijn, out in the country, west of|the Verweijn Forest, south of... I'll meet|you at the lake. I'm closing this store!"
+    },
+    "85": {
+        "「探したぜ。それで　どうだ？ |　何か　有力な情報は　得られたか？": "Looking for... So, what do you think? Did you|get anything useful out of it?"
+    },
+    "86": {
+        "「シリルってやつの　手伝いだと……？ |　おいおい　いったい　何をしている。|　魔王を探す　って話は　どうなったんだ？": "You're helping this Cyril guy...? What the|hell are you... What happened to the part|about finding the Demon Lord?"
+    },
+    "87": {
+        "「……あの　白いドラキーは……。": "... The white Drakey..."
+    },
+    "88": {
+        "「そうか　なるほどな……。": "Okay, well..."
+    },
+    "89": {
+        "「よし　お前は　シリルってやつと |　しばらく　行動を共にしろ。|　俺は　引き続き　町で　情報を集める。": "All right, you and this Cyril guy are gonna|be working together for a while. I'll stay in|town and keep looking for..."
+    },
+    "90": {
+        "「手伝いが済んだら　すぐ町に戻ってこい。 |　俺の方も　頃合いを見て　合流しよう。": "As soon as I'm done helping, I'll head back|to town... I'll join you when I get there."
+    },
+    "91": {
+        "「キュウゥ……。": "Cuu..."
+    },
+    "92": {
+        "「この魔獣は　突然　どこからか　やって来て |　ベルヴァイン湖に　住みついてしまったんだ。|　その時から　ひどく　暴れ続けている。": "This hexenbiest suddenly came out of nowhere|and took up residence in Lake Verweijn... And|ever since then, it's been on a rampage..."
+    },
+    "93": {
+        "「時がたって落ち着けば　銀翼竜たちと|　共存できるかもと　様子を見ていたんだけど|　やはり　倒す以外に　道はなさそうだね……。": "I was hoping that as time went by and things|settled down, we might be able to coexist|with the Silverwinged Dragons, but it looks|<br>|like we'll have to defeat them..."
+    },
+    "94": {
+        "「フラフは　安全な物陰に　隠しておくよ。|　お願いだ！　この魔獣を　倒してくれ！": "Fluff, get him in the shadows where it's|safe... Please! You have to kill this|hexenbiest!"
+    },
+    "95": {
+        "「グオォオーーーーーーン！！": "Gu-o-o-o-o-o-o-n!"
+    },
+    "96": {
+        "「……やはり　君は　とても強いんだね！|　あまりに　すごくて　見惚れてしまったよ！": "... You're very strong, after all! You're so|strong, I can't even look at you!"
+    },
+    "97": {
+        "「これで　この湖にやって来る銀翼竜たちにも |　平和が訪れるだろう……。": "This will bring peace to the silver winged|dragons that come to this lake..."
+    },
+    "98": {
+        "「ピキャーー！": "Peek-a-boo!"
+    },
+    "99": {
+        "「おや……？|　この鳴き方は　もしかして……！": "Oh...? What is that noise? Could it be...?"
+    },
+    "100": {
+        "「あっ　見てくれ！|　ちょうど　フラフの家族達が|　今年もまた　戻ってきたみたいだ！": "Oh, look! It looks like Fluff's family has|just returned for another year!"
+    },
+    "101": {
+        "「ピキャーー！|　ピキャーーーー！": "Peek-a-boo! Peek-a-boo!"
+    },
+    "102": {
+        "「フラフを　家族のもとに返せて　よかった。 |　これも　君の　おかげだよ。|　本当にありがとう。": "I'm glad we got Fluff back to his family.|You've done so much for me. I'm so grateful."
+    },
+    "103": {
+        "「僕が　この国に残っている理由も　これで|　なくなった。毎年　帰ってくる銀翼竜の群れを|　見守る事が……僕の　生きがいだったんだ。": "It's the only reason I'm still in this|country. Watching the silver pterodactyls|return year after year... It's my reason for|<br>|living..."
+    },
+    "104": {
+        "「だけど　見守るうちに　僕自身が|　広い世界を　自由に旅する夢を|　抱くようになった……。": "But as I watched over him, I began to dream|of traveling freely in the wide world|myself..."
+    },
+    "105": {
+        "「自分には　できないって　あきらめていたけど |　最近　アストルティアへの道が　開いたって|　聞いたんだ。": "I'd given up on the idea that I could do it,|but recently I heard that a path to|Astrotasia had opened up..."
+    },
+    "106": {
+        "「こうして　アストルティアから来た　君と|　偶然　出会えた　今こそが|　旅立つ　絶好のチャンスだと　思うんだよ。": "And now that I've stumbled upon you from|Astrutia, I think it's the perfect time to|leave."
+    },
+    "107": {
+        "「僕は　夢を　あきらめたくない……。": "I don't want to give up on my dreams..."
+    },
+    "108": {
+        "「うん　決めた！ |　僕は今夜　アストルティアへ旅立つ！|　やっと　自分の迷いを　断ち切れそうだよ！": "Yes, I've decided! I'm leaving for Astrutia|tonight! I'm finally going to break free of|my own doubts!"
+    },
+    "109": {
+        "「だけど　旅立つ前に　ひとつだけ|　持っていかなきゃいけないものが　あるんだ。|　どうしても　あれだけは……": "But there's one thing I have to take with me|before I leave... I just have to take that."
+    },
+    "110": {
+        "「ようやく　見つけましたよ。|　エルガドーラ様が　お待ちです。|　我々に　ご同行ください。": "At last, I have found... Mr. El Ghadora is|waiting for us. He's with us."
+    },
+    "111": {
+        "「……わかったよ。 |　いつまでも　逃げてはいられないと|　思っていたしね。": "... I don't know... I know that I can't keep|running away..."
+    },
+    "112": {
+        "「……君と　会えてよかった。|　またいつか　アストルティアの地で|　再会できる日を　楽しみにしているよ。": "I... It's good to see you. I look forward to|meeting you again one day in Astrotasia."
+    },
+    "113": {
+        "「それまでは　少しの間　さよならだね。": "In the meantime, I'll be with you for a|little while..."
+    },
+    "114": {
+        "「待ってたぜ。|　シリルってやつからの　頼まれごとは|　無事　終わったようだな。": "Wait... This Cyril guy asked me to do|something for him, and I did it."
+    },
+    "115": {
+        "「……それで　シリルは　どこへ行った？|　一緒じゃないのか？": "... So where'd Cyril go? He's not with you?"
+    },
+    "116": {
+        "「なるほど……。 |　アストルティアに行く……ね。": "I see... Going to Astrutia: ...."
+    },
+    "117": {
+        "「魔界を出られると　面倒なことになるな。|　なんとか　その前に　捕まえたいところだが……": "It'll be a problem if it gets out of the|demon world... I'd like to catch him before|he does..."
+    },
+    "118": {
+        "「なあ……。|　シリルは　他に何か言ってなかったか？": "Hey, uh... Did Cyril say anything else to|you?"
+    },
+    "119": {
+        "「……アストルティアに　旅立つ前に |　どうしても　持っていきたいものがあるって|　言っていたのか。": "... He said there was something he really|wanted to take with him before he left for|Astrutia."
+    },
+    "120": {
+        "「それなら　心当たりがある。 |　……シリルは　城下町で　骨董屋を|　経営していたんだよな？": "Well, then I guess... ... Cyril used to run|an antique shop in the castle town, didn't|he?"
+    },
+    "121": {
+        "「その店を探れば　何か　|　手がかりが　つかめるはずだ。 ": "If we can find that store, we might be able|to get some leads..."
+    },
+    "122": {
+        "「それじゃ　店で　落ち合おう。|　急いで　来いよ！": "I'll meet you at the store. Come on, hurry|up!"
+    },
+    "123": {
+        "「早いな。": "..."
+    },
+    "124": {
+        "「……ちっ。鍵が　かかってるな。 |　悪いが　強引に行かせてもらう！": "..... It's locked... Sorry, but I'm gonna|have to force my way in!"
+    },
+    "125": {
+        "なんと　ユシュカは　扉のカギを壊してしまった！": "Oh my God, Jushka broke the key to the door!"
+    },
+    "126": {
+        "「これが　シリルの骨董屋か……。|　よくもまあ　閉鎖的なこの国で　ここまで|　アストルティアの品物を　そろえたもんだ。": "So this is Cyril's antique shop... How dare|he stock so many Astrutian items in this|closed country..."
+    },
+    "127": {
+        "「でも　どこか　おかしいような……？ |　俺が昔　見た地図と　少し違っているな。": "But there's something strange about it. It's|a little different from the maps I've seen in|the past."
+    },
+    "128": {
+        "「お前の地元だろ？|　ちょっと　調べてみてくれ。": "This is your hometown, right? Let me check..."
+    },
+    "129": {
+        "「アストルティアの地図が　抜け道を|　開く仕掛けだなんて……あいつらしいな。": "I can't believe the map of Astrutia was a|trick to open a loophole. They're..."
+    },
+    "130": {
+        "「おそらく　この先は |　城のどこかに　つながっているはずだ。|　とりあえず　行ってみるとしよう。": "It probably leads somewhere inside the|castle. At any rate, if we go there..."
+    },
+    "131": {
+        "「こいつは……　かなりの値打ちものばかりだな。|　いかにも　強欲なこの国らしい……。|　よく　集めたものだ。": "This is... It's quite valuable... It's just|like this greedy country... Well done..."
+    },
+    "132": {
+        "「どうやら　あの抜け道は|　城の宝物庫に　つながっていたようだな。": "Apparently, that loophole led to the castle|treasury..."
+    },
+    "133": {
+        "「アストルティアに　旅立つ前に　どうしても|　持っていかなければ　いけないもの……。|　やはり　そのコンパスだったか。": "Before I leave for Astrotasia, there's one|thing I must take with me... I knew it was|the compass."
+    },
+    "134": {
+        "「お前はっ……！|　どうして　ここにっ！？": "You...! Why are you here?"
+    },
+    "135": {
+        "「それに　君まで　いるなんて……。|　どういうことだ！？　ユシュカ！": "And I can't believe you're here. What's going|on? Yushka!"
+    },
+    "136": {
+        "「ちょっとした縁で　命を助けてやってな。|　それ以来　こいつのことは　俺のしもべとして|　コキ使ってるのさ。それはそうと……": "I saved his life... Ever since then, I've|been using him as my servant. Anyway..."
+    },
+    "137": {
+        "「シリルなんて　偽名を使っていたとはな。|　だが　俺には　あの白いドラキーが|　変身した　お前だって　すぐわかったよ。": "Cyril was an alias. But I could tell the|white Drakey was you in disguise..."
+    },
+    "138": {
+        "「……なあ　アスバル。": "... Hey, A..."
+    },
+    "139": {
+        "「お前には　関係ない……。": "It's none of your business..."
+    },
+    "140": {
+        "「……お前には　言ってなかったが|　俺は　昔　この国に　滞在してたことがある。": "I... I never told you this, but I used to|stay in this country..."
+    },
+    "141": {
+        "「アスバルは　この国の王子として |　俺は　国から国を渡り歩く|　有力な宝石商として　出会ったんだ。": "Asbal is the prince of this land, and I am a|powerful jeweler who travels from country to|country..."
+    },
+    "142": {
+        "「当時から　こいつは　たいそう|　アストルティアに　ご執心だったよ。": "He's been obsessed with Astroturf since then."
+    },
+    "143": {
+        "「だから　俺は　師匠からもらった|　アストルティア産の　コンパスを|　王子殿下に　献上してさしあげたのさ。": "That's why I'm offering the Astorian compass|that my master gave me to His Highness the|Prince."
+    },
+    "144": {
+        "「いつか　アスバル殿下も　アストルティアを |　旅できますように……とな。": "I hope that someday His Highness Asbal will|also be able to travel to Astretia. ....."
+    },
+    "145": {
+        "「黙れっ！！ |　今さら　そんな昔の話なんか……！": "Shut up! It's too late to talk about the|past..."
+    },
+    "146": {
+        "「アスバル。": "A..."
+    },
+    "147": {
+        "「ひとりで　この国を逃げ出すくらいなら |　俺と　一緒に来い。": "If you'd rather run away from this country|alone, you can come with me..."
+    },
+    "148": {
+        "「今度こそ　俺がお前を　自由にしてやる！": "And this time, I'm gonna set you free!"
+    },
+    "149": {
+        "「……うるさいっ！ |　勝手に去っていった　裏切り者の話なんて|　今さら　何も信用できない！": "... Shut up! I don't believe anything you say|about a traitor who left us on his own!"
+    },
+    "150": {
+        "「お前を　裏切ったつもりはない。 |　この国を出る時　俺は　お前を……": "I thought I betrayed you. When I leave this|country, I'm going to leave you..."
+    },
+    "151": {
+        "「お前たち　何者だ！！ |　ここで　何をしている！？": "Who the hell are you people? What the hell|are you doing here?"
+    },
+    "152": {
+        "「侵入者だ！　応援を呼べ！！": "There's an intruder! Call for backup!"
+    },
+    "153": {
+        "「ちっ……。見つかったようだな。 |　ふたりとも　話は後だ。|　ここから　脱出するぞ！": "Damn it... They found us... You two, talk...|Let's get the hell out of here!"
+    },
+    "154": {
+        "「仕方ない……。": "I don't have a choice..."
+    },
+    "155": {
+        "「王族しか使えないよう|　封印で閉ざされた　秘密の抜け道がある！|　ふたりとも　僕について来い！": "There is a secret passageway, sealed off for|use only by royalty! You two, follow me!"
+    },
+    "156": {
+        "「よし　行くぞ！": "All right, let's go!"
+    },
+    "157": {
+        "「……ここだよ。 |　この国に　危険が及んだ時に　王族が|　脱出するための　秘密の出口なんだ。": "... This... A secret exit for the royal|family to escape in case of danger to this|country."
+    },
+    "158": {
+        "「……よし　開いたよ。|　この先の　滝見の広場から　城の外へ出られる。|　ふたりとも　僕についてきて！": "... Okay, open... From the waterfall viewing|platform up ahead, we can go outside the|castle... You two, follow me!"
+    },
+    "159": {
+        "「あの秘密の抜け道が　開かれると |　わらわの杖の宝玉が　光るよう|　まじないが　かかっているとも知らず……": "He said it would open up a secret loophole| The jewel in my wand will glow| I didn't even know there was a spell on me"
+    },
+    "160": {
+        "「この母から　逃げられると思うとは|　まだまだ　詰めが甘いのう……アスバル。": "To think that I can escape from this mother|is still a bit naive... Oh..."
+    },
+    "161": {
+        "「おおかた　そのコンパスを持って |　最近開いたとかいう　アストルティアへの道に|　逃げ込むつもりだったのだろう。": "Most of them were going to take that compass|and run for the recently opened road to|Astrotasia..."
+    },
+    "162": {
+        "「ふん……。|　面倒な奴が　出てきたな。": "Hmm... Someone's in trouble."
+    },
+    "163": {
+        "「お前は……ユシュカ！！ ": "You... Jushka!"
+    },
+    "164": {
+        "「アスバルは　高貴なる　ゼクレス王家の血を|　受け継ぐ者！": "Asbal is of the royal blood of the noble|house of Zekres!"
+    },
+    "165": {
+        "「やがては　この国を背負い|　魔界全土を統べる　大魔王となる器……。": "He's the one who's going to take on this|country and rule over the entire demon world."
+    },
+    "166": {
+        "「お前のような　雑種とは　住む世界が違う。": "A mongrel like you and your kind live in a|world..."
+    },
+    "167": {
+        "「アストルティアを　共に旅するなどという |　世迷い言を吹き込んでも　無駄だ！": "It's no use spouting this nonsense about|traveling with me through Astrutia!"
+    },
+    "168": {
+        "「な……なぜ　母上が　そのことを |　知っているのですか……？": "I... How did your mother know about this...?"
+    },
+    "169": {
+        "「お前が　ずっと　このコンパスに|　執着していたのは　知っているぞ。|　以前　その男からもらった　宝物なんだろう？": "I know you've always been obsessed with this|compass. I know you've always been obsessed|with this compass."
+    },
+    "170": {
+        "「あの日　ユシュカが　突然　国を去ったのは |　わらわが追放したからよ。お前によくない影響を|　与えていると　知ったからね。": "The reason why Jushka suddenly left the|country that day was because she knew that my|banishment... I knew I was having a bad|<br>|influence on you."
+    },
+    "171": {
+        "「まさか……じゃあ　僕の手紙も……？": "No way... Then my letter is..."
+    },
+    "172": {
+        "「お前は　その雑種と　共に行きたいなどと|　バカなことを　願っていたようだが|　あの手紙は　わらわが　にぎり潰した。": "You've been foolishly hoping to be with that|mongrel, but I've been grasping at straws|with that letter."
+    },
+    "173": {
+        "「あの時の行き違いは　あんたのせいだったか。 |　……どうせ　そんなことだろうとは|　思っていたがな。": "That whole misunderstanding was your fault.|... I didn't think you'd say that."
+    },
+    "174": {
+        "「こんな　どこの馬の骨とも　わからぬ男と|　アストルティアなぞに行って　何になる？": "What's the use of going to Astrutia with a|man from who knows where?"
+    },
+    "175": {
+        "「まず　大魔王となって　魔界の統一を果たし |　その後で　堂々と　アストルティアに|　攻め入れば　よかろうものを。": "First, he'll become the Great Demon King and|unite the demon world, then he can proudly|invade Astrutia..."
+    },
+    "176": {
+        "「だというのに　お前は今も　くだらぬ夢に |　うつつを抜かし　大魔王となる覚悟も|　持てないまま……。": "And yet you're still lost in your own stupid|dreams, unable to prepare yourself to become|a great demon lord..."
+    },
+    "177": {
+        "「本当に　甘ったれた子……。 |　そろそろ　母の我慢も　限界ぞよ。|　いいかげん　目をお覚ましッ！": "She's a real spoiled brat... My mother's|patience is almost up... It's time for you to|wake up!"
+    },
+    "178": {
+        "「やめろ……！": "Don't...!"
+    },
+    "179": {
+        "「お前は　この母からは　逃れられぬ！ |　伝統あるゼクレスの　跡継ぎとなることだけが|　お前の存在理由と　思い知るがいいわ！": "You can't escape this mother! You will learn|that the only reason for your existence is to|become the heir to the ancient house of|<br>|Zekres!"
+    },
+    "180": {
+        "「うわああああああっ！！|　よくも……よくも！！": "Oh, my God! How dare you... How dare you!"
+    },
+    "181": {
+        "「アスバル　待て！": "Asbal, wait!"
+    },
+    "182": {
+        "「ゴ……ロオォズゥウウウウウゥ！！！！！": ""
+    },
+    "183": {
+        "「その気概を　他国にぶつけてくれれば |　すぐにでも　我がゼクレス魔導国が|　魔界を　征服できようものを……。": "If you could only bring that kind of spirit|to the rest of the world, we, the Zecres|Magic Kingdom, would be able to conquer the|<br>|demon world in no time."
+    },
+    "184": {
+        "「まったく　聞き分けのないこと……。 |　お前は　わらわの言うことに|　逆らえないというのが　まだわからぬとは……": "You're not listening to me. You still don't|understand that you can't go against what I|say."
+    },
+    "185": {
+        "「う……あ……！！！|　やめろ……！": "Uh... No...! No, no, no, no!"
+    },
+    "186": {
+        "「ちょうどいい。この化け物を使って|　邪魔者どもを　始末してもらおう。": "Well... If I can use this monster to take out|those who are in my way..."
+    },
+    "187": {
+        "「さあ　アスバル！|　こやつらを　八つ裂きにしろ！": "Come on, Asbal! Tear them to pieces!"
+    },
+    "188": {
+        "「あああああっ！！": "Aaah!"
+    },
+    "189": {
+        "「あいつ　何か術を　かけられているのか！？": "Is he under some kind of spell?"
+    },
+    "190": {
+        "「ひとまず　こいつを　なんとかするぞ！|　アスバルのことは　その後だ！！": "We'll deal with him first! Then we'll deal|with Asbal!"
+    },
+    "191": {
+        "「オォォオオオ！！！！！": "Oooh oooh ！！！！！"
+    },
+    "192": {
+        "「ひとまず　こいつを　なんとかするぞ！|　アスバルのことは　その後だ！！": "We'll deal with him first! Then we'll deal|with Asbal!"
+    },
+    "193": {
+        "「ヨ……グモ……！|　ヨ……グ……モォォォォォオ！！": "Yo... GUMO...! Yo... G... Moo-hoo-hoo!"
+    },
+    "194": {
+        "「ユ……ルサァアァァ………………！！": "Yoo... Lusaaaaah...!"
+    },
+    "195": {
+        "「チッ……しぶといことよ。": "Tsk... Stubborn..."
+    },
+    "196": {
+        "「だが　おぼえておくが　よいぞ。 |　ゼクレス王家の　後継者たるアスバルに|　おのれの自由などない。": "But I remind you... To Asbal, heir to the|throne of Zekres, you are free to..."
+    },
+    "197": {
+        "「わらわの指図ひとつで　アスバルは|　何度でも　お前たちに　牙をむくだろう！|　あきらめて　この国から　出ていくがいい！": "At my command, Asbal will turn on you again|and again! Give up and get out of this|country!"
+    },
+    "198": {
+        "「アスバル！　大丈夫か！？": "Asbal! You're okay!"
+    },
+    "199": {
+        "「やはり　母は　僕を…………。": "I knew she'd want me to..."
+    },
+    "200": {
+        "「ユシュカ……お前の望みは　わかってるさ。|　ファラザードからの書状に　書いてあった通り|　次の大魔王を　決めたいんだろ。": "Yushka... I know what you want... As written|in the letter from Farazad, I want to decide|who the next Great Demon Lord will be..."
+    },
+    "201": {
+        "「……いいだろう。|　望み通り　魔仙卿のもとに　行ってやるよ。": "... I... Go to the Immortal Lord, as you|wish."
+    },
+    "202": {
+        "「だが　それは　お前のためじゃない。 |　もちろん　母のためでも……。": "But it's not for you. Of course, it's for my|mother."
+    },
+    "203": {
+        "「僕は　大魔王になって……母の支配を破り|　望みをすべて　かなえてみせる。": "I'm going to be a great demon king. I'll|break my mother's hold on me and give her|everything she wants."
+    },
+    "204": {
+        "「……アストルティアを旅するのは　その後だ。": "... You'll be traveling through Astrutia..."
+    },
+    "205": {
+        "「……わかった。|　待ってるぜ　アスバル。": "... I... I'll be waiting."
+    },
+    "206": {
+        "「……よし。|　これで　この国でやるべきことは終わった。|　お前も　思ったより役に立ってくれたな。": "..... This is the end of what we have to do|in this country... You're more useful than I|thought..."
+    },
+    "207": {
+        "「これは　ほうびだ　受け取れ。": "This is my reward."
+    },
+    "208": {
+        "「もう　この国に用はないな。|　次は　いよいよ　俺の仕える国|　ファラザードの王に　会わせてやる。": "I have no more business in this country...|Now it's time for me to meet the king of|Farazad, the country I serve..."
+    },
+    "209": {
+        "「ファラザードは　この国を出て |　ゲルヘナ幻野を横断して　南に行った|　ジャリムバハ砂漠にある　新興国だ。": "Farazad left the country, crossed the Gehenna|phantom field, and went south to the|Jarimbach Desert, where the new..."
+    },
+    "210": {
+        "「……行くぞ　出発だ。": "... Let's go. Let's go."
+    },
+    "211": {
+        "「次は　ゲルヘナ幻野の　西にある |　魔王ヴァレリアの　治める国|　バルディスタ要塞に　向かうぞ。": "Next, we'll go to the west of the Gehenna|Fields, to the land of the demon king|Valeria, to the fortress of Valdista."
+    },
+    "212": {
+        "「あの国の魔王も　ひと筋縄ではいかなそうだが |　まあ　とりあえず行ってみるしかないな。": "The Demon Lord of that country doesn't seem|to be a straightforward matter, but we'll|just have to go there for now..."
+    },
+    "213": {
+        "「……行くぞ　出発だ。": "... Let's go. Let's go."
+    },
+    "214": {
+        "「わらわが　追放してくれたのに　|　しょうこりもなく　舞い戻るとは……。": "I'm surprised you'd come back so soon after I|banished you."
+    },
+    "215": {
+        "「なあ　あんた　ちょっといいか？": "Hey, man, you got a minute?"
+    },
+    "216": {
+        "「はあああああっ！": "Haaaaah!"
+    }
+}

@@ -1,0 +1,563 @@
+{
+    "1": {
+        "「クソッ　いまいましい！": "Damn it, damn it!"
+    },
+    "2": {
+        "「……魔術の霧か。": "... Witchcraft."
+    },
+    "3": {
+        "「俺から離れるな！　こっちへ……": "Stay close to me! Come here..."
+    },
+    "4": {
+        "「生きるとは　まこと　夢に似て|　はかなくも　尊きもの……": "Life is truly like a dream| So fleeting, yet so precious"
+    },
+    "5": {
+        "「そなたとワシが　同じ場所にいる|　この時が　夢ではないと　言い切れようか？<yesno><close>": "How can I be sure that this moment, when you|and I are in the same place, is not a dream?<yesno><close>"
+    },
+    "6": {
+        "「……よくぞ参った　目覚めし者よ。": "... I'm glad you're here. Wake up."
+    },
+    "7": {
+        "「ここは　魔界の桃源郷　ジャディンの園。 |　……モーモン王国と　呼ぶ者もおるがな。": "This is the peach orchard of the demon world,|Jadi... ... Some people call it the Kingdom|of Mormont."
+    },
+    "8": {
+        "「ワシは　か弱き魔物たちの王　モモリオンよ。 |　して　そなたは　何用で来られた？": "I am the king of the weak and the demonic.|And what brings you here?"
+    },
+    "9": {
+        "「……ほう　魔仙卿とやらを　探しにまいったか。|　だが　そのような者は　知らんのう。": "... I've come to find the Immortal Lord...|But I don't know anyone like that."
+    },
+    "10": {
+        "「そんなことより……": "It doesn't matter"
+    },
+    "11": {
+        "「そなたに　頼みたいことがある。": "I need you to do something for me."
+    },
+    "12": {
+        "「青きバラのようにうるわしい　我が妻|　アントワネットが　行方不明なのだ。": "My wife, Antoinette, as fair as a blue rose,|is missing."
+    },
+    "13": {
+        "「いやしのチカラを持つ　彼女を失い|　この楽園は　なぞの奇病に苦しんでおる。": "With her healing powers gone, this paradise|suffers from a strange disease..."
+    },
+    "14": {
+        "「ここへ来たのも　何かの縁じゃ。|　ワシの国を　救ってくれんか。<yesno><close>": "I came here for a reason. I'm here to save my|country.<yesno><close>"
+    },
+    "15": {
+        "「……最近　耳が遠くて　いかんな。|　ワシの国を　救ってくれんか。<yesno><close>": "... I've been deaf lately, so... I'm deaf|these days.<yesno><close>"
+    },
+    "16": {
+        "「後のことは　そなたに　まかせよう。 |　そなたの心がけしだいで　いくつもの |　すじ道が　見つかるであろうぞ。": "I'll leave the rest to you. You will find|many paths to follow, if you let yourself."
+    },
+    "17": {
+        "「王妃を探しだすでもよい。他の方法でもよい。|　国を救えなくとも　その結末を受け入れよう。|　ワシは　そなたの選択が　見たいのだ……。": "We can find the queen... There are other|ways... I'll find the queen. I want to see|you make your choice."
+    },
+    "18": {
+        "「そなたの答え　見せてもらったぞ。": "Let me see your answers..."
+    },
+    "19": {
+        "「これなるは　王の審判……。|　そなたも　魔王たちの答えを　見るがいい。": "This is the judgment of kings... You, too,|will see the answers to the demon kings..."
+    },
+    "20": {
+        "「この世に　救いなどない。": "There is no salvation in this world."
+    },
+    "21": {
+        "「自らを　救えぬ者に　生きる道はない。|　ならば……": "If you can't save yourself, you can't live.|Then..."
+    },
+    "22": {
+        "「弱者は　強者に喰われるのみ。|　……それこそが　この世の理だ。": ""
+    },
+    "23": {
+        "「あがくから　キズを負う。 |　求めるものがあるから　苦しいんだ。": "I struggle, I hurt... Because I want|something, I suffer..."
+    },
+    "24": {
+        "「すべてを　あきらめてしまえばいい。|　すべてを　受け入れてしまえばいい。": "Give it all up. Let it all in."
+    },
+    "25": {
+        "「死を　恐れることはない。 |　死とは　平等に訪れる　安息なのだから。": "Fear of death... Death is a rest that comes|to all..."
+    },
+    "26": {
+        "「皆　聞け！": ""
+    },
+    "27": {
+        "「民が苦しむのは　王の悪政あってこそ。|　ゆえに　頭をすげかえるしかない。": "The people suffer because of the king's|misrule. That's why I'm going to have to|remove my head..."
+    },
+    "28": {
+        "「今日からは　俺が　お前たちの王だ。 |　守ってやるから　ついてこい！": "From now on, I will protect you. I'll protect|you. Follow me!"
+    },
+    "29": {
+        "「さて　誰が　大魔王にふさわしかろうな？": "Now, who would be worthy of being the Great|Demon Lord?"
+    },
+    "30": {
+        "「ともに　見極めようぞ……。": "We'll find out together..."
+    },
+    "31": {
+        "「我こそは　魔仙卿。|　託宣をもって　魔界を守りし者。": "I am the one. I will protect the demon world|with an oracle..."
+    },
+    "32": {
+        "「さあ……|　そなたも　神殿の中へ　進むがいい。": "Now... You, too, will enter the temple..."
+    },
+    "33": {
+        "「さて　今の世の魔王たちよ……。 |　いくたびの試練を乗り越え　よくぞ参った。": "Now, demon kings of this world... I'm glad|you've survived all these trials..."
+    },
+    "34": {
+        "「そなたたちが　ここへ来た理由を　我は知る。": "I know why you're here. I..."
+    },
+    "35": {
+        "「これより　魔界に訪れる……": "From now on, I will visit the demon world"
+    },
+    "36": {
+        "「…………大魔瘴期。": "...大..."
+    },
+    "37": {
+        "「魔瘴は　魔族や魔物を　生み出したが…… |　大魔瘴期のそれは　あまりに濃密。|　その中では　何者も　生き残れぬ。": "The demon miasma has given rise to many|demons and monsters. But not so much during|the miasma. No one can live inside..."
+    },
+    "38": {
+        "「それは　未曽有の災厄となろう。": ""
+    },
+    "39": {
+        "「そなたたちが　大魔王選出へ　名乗りをあげ|　魔界の統治者たらんと　欲したのも|　この災厄に　抗うためであろう。": "The reason why you wanted to be elected as|the Great Demon Lord and become the ruler of|the demon world was to resist this evil..."
+    },
+    "40": {
+        "「そこまで　わかっているなら　話は早い。": "If you're so sure about that, we can talk..."
+    },
+    "41": {
+        "「さっさと　俺を選べ。|　一刻も早く　魔界統一を成さねばならん。": "Come on, I... I have to unite the demon world|as soon as possible..."
+    },
+    "42": {
+        "「下がっていろ　宝石売り。": "Stay back. Treasure..."
+    },
+    "43": {
+        "「貴様ごときが　大魔王にふさわしいなど…… |　こざかしいクチで　ほえるな。": "You're not worthy to be the Great Demon Lord.|You're a fool, aren't you?"
+    },
+    "44": {
+        "「最強の武力を有する　我がバルディスタは |　魔界に生きる者たちの　新天地として|　アストルティアを選んだ。": "We, the Valdistas, have the most powerful|armed forces in the world, and we've chosen|Astrutia as the new home for those who live|<br>|in the demon world."
+    },
+    "45": {
+        "「そして　侵攻は　すでに始まっている。": "And the invasion has already begun..."
+    },
+    "46": {
+        "「生きるとは　弱肉強食……。|　その理を　アストルティアの弱者どもに|　思い知らせてやろう。": "Life is about the weak and the strong. Let|the weak of Astrutia know that."
+    },
+    "47": {
+        "「ククク……。|　すべての魔族を　救おうなんて|　君も　甘い人だな。": "Oh, no. You're too naive to think you can|save all demons."
+    },
+    "48": {
+        "「ゼクレス魔導国は　提唱する。|　優れた魔族のみ　選別することを。": "The Zekres Magic Kingdom is an|organization... Only the best demons will be|selected..."
+    },
+    "49": {
+        "「魔瘴から身を守る　魔導シェルターを作り |　優秀な魔族だけを選んで　生かせばいい。|　その者たちが　次の魔界を　導くだろう。": "We'll build a magic shelter to protect us|from the miasma, and select only the best|demons to live. They will be the ones to lead|<br>|the next demon world."
+    },
+    "50": {
+        "「アストルティアの者どもが|　我らを　どう思っているか　知っているか？": "Do you know what the people of Astrutia think|of us?"
+    },
+    "51": {
+        "「お前たちの提案には　なんの面白みもない。": "There's nothing interesting about what you're|proposing..."
+    },
+    "52": {
+        "「アストルティアへ侵攻……？|　いつまで　そんな　旧来のやり方に|　とらわれている！？": "Invading Astrutia...? How long are we stuck|with the old ways?"
+    },
+    "53": {
+        "「優秀な魔族を選別……？|　似たような連中ばかり　生かした先に|　新しい時代なんて　来るものか！": "Selecting the best demons...? I don't think a|new era will come if we keep the same kind of|people alive!"
+    },
+    "54": {
+        "「このユシュカが　示そう。|　……魔界の未来を。": "This Jushka... ... The demon world..."
+    },
+    "55": {
+        "「アストルティアには　長い歴史の中で|　つちかわれた　魔瘴への　対抗策があると聞く。|　それを　交渉によって　手に入れる。 ": "Astruthia has a way of dealing with the|demonic miasma that has been cultivated over|the course of its long history. We can|<br>|negotiate with them..."
+    },
+    "56": {
+        "「我らは　アストルティアの民の手を借りて |　この危機に　立ち向かうべきだ。": "We will face this crisis with the help of the|people of Astrutia..."
+    },
+    "57": {
+        "「アストルティアの弱者どもの|　手を借り……だと？|　貴様に　魔族の誇りはないのか！？": "With the help of the weak of Astridia...|What? Don't you have any pride as a demon?"
+    },
+    "58": {
+        "「お前には　わからないだろうな　ヴァレリア。 |　だが　これが　魔界を救うための|　唯一の道……俺の掲げる　協調だ。": "You don't understand, Va. But this is the|only way to save the demon world. This is|what I stand for."
+    },
+    "59": {
+        "「アストルティアの民の中にも |　利を説いてやれば　こいつのように|　俺に従うものが　いるはずだ！": "If I can convince the people of Astrutia to|follow my lead, I'm sure there will be others|like him!"
+    },
+    "60": {
+        "「……三者　そこまでだ。": "... Three, there..."
+    },
+    "61": {
+        "「そなたらの考え　あいわかった。|　それでは　魔選の儀礼場へ　まいろうぞ。": "I don't know what you're thinking. Let's go|to the Demon's Election Ritual."
+    },
+    "62": {
+        "「これより　大魔王選出の儀を始める。": ""
+    },
+    "63": {
+        "「はたして　誰が　大魔王にふさわしいか。": "I'm not sure who's better suited to be the|Great Demon King."
+    },
+    "64": {
+        "「……たずねてみるとしよう。": "... I asked around, and..."
+    },
+    "65": {
+        "「そは　異界より　訪いし者……。|　闇の深淵にうごめく　始源のかいな……。": "You are a visitor from another world... In|the abyss of darkness, a sea of beginnings..."
+    },
+    "66": {
+        "「ここに　新たな魔界の統治者を　示したまえ！": "Here is the new ruler of the demon world!"
+    },
+    "67": {
+        "「これは……。": "This is..."
+    },
+    "68": {
+        "「そなたたち　３人の魔王の中に……": "You are among the three demon kings"
+    },
+    "69": {
+        "「大魔王に　ふさわしい者は　ひとりもおらぬ。": "There is no one worthy of the Great Demon|Lord..."
+    },
+    "70": {
+        "「ふざけているのか……。": "You've got to be kidding me..."
+    },
+    "71": {
+        "「魔王ヴァレリア。|　そなたは　世界を憎むあまり　さらなる地獄へ|　皆を　引きずり込もうとしている。": "The Demon Lord... You hate the world so much|that you're willing to drag us all to more|hell."
+    },
+    "72": {
+        "「それは　私憤でしかない。": "It was a personal affront..."
+    },
+    "73": {
+        "「ほう……よくぞ　言ったな……。": "Well... I'm glad you said that."
+    },
+    "74": {
+        "「魔王アスバル。|　そなたは　他者どころか|　自分を救うことすら　あきらめている。": "The Demon King... You've given up trying to|save yourself, let alone others."
+    },
+    "75": {
+        "「それは　絶望でしかない。": "It was despair..."
+    },
+    "76": {
+        "「……………………。": "..."
+    },
+    "77": {
+        "「そして……魔王ユシュカ。": "And... Demon Lord Yu..."
+    },
+    "78": {
+        "「そなたは　自分こそが唯一|　選ばれし者だと　思い込んでいる。": "You think you're the only one who's ever been|chosen."
+    },
+    "79": {
+        "「だからこそ　まわりの者を　見下している。|　自分に　仕えるべき存在だと　考えている。": ""
+    },
+    "80": {
+        "「それは　傲慢でしかない。": "It was arrogance..."
+    },
+    "81": {
+        "「それが……王というものだ！": "It's called... It's called being a king!"
+    },
+    "82": {
+        "「しかし　この中で　たったひとり |　大魔王となり得る可能性を　秘めた者がいる。|　それは…………": "But only one of them has the potential to|become the Great Demon King... That's..."
+    },
+    "83": {
+        "「……この者だ。": "...こ..."
+    },
+    "84": {
+        "「俺のしもべにすぎない　こいつがか？": "He's just my servant. He's my servant?"
+    },
+    "85": {
+        "「この者は　見事　青き王妃を見つけ |　ジャディンの園を　危機から救った。": "This one has done well to find the Blue Queen|and bring the Garden of Jadin back from the|brink."
+    },
+    "86": {
+        "「その　聡明さは　王者の器たりうる。": "Your intelligence is the stuff of|champions..."
+    },
+    "87": {
+        "「この者は　病気の魔物　１匹１匹に|　声をかけ　その病を　いやしてまわった。": "This one calls out to each sick demon and|cures it of its disease."
+    },
+    "88": {
+        "「その　優しさは　王者の器たりうる。": "That kindness is the vessel of champions..."
+    },
+    "89": {
+        "「この者は　民の言葉に　耳を傾け|　国そのものを　良くしようと動いた。": "This is a man who listens to his people, who|wants to make his country a better place."
+    },
+    "90": {
+        "「その　気高さは　王者の器たりうる。": "Your nobility is the stuff of champions."
+    },
+    "91": {
+        "「この者は　王との問答に　打ち勝ち|　民を導く気概を　示してみせた。": "This man has shown that he is willing to|confront the king and lead his people..."
+    },
+    "92": {
+        "「その　豪胆さは　王者の器たりうる。": "Your boldness is the stuff of champions."
+    },
+    "93": {
+        "「この者は　あえて落とし穴に落ち|　身を削って　魔物たちに　笑顔を取り戻した。": "This one dared to fall into the pit and cut|himself to get the demons to smile..."
+    },
+    "94": {
+        "「その　愛らしさは　王者の器たりうる。": "Its loveliness is the vessel of champions..."
+    },
+    "95": {
+        "「この者は　試練を早々に見抜き|　遊興にふけることで　余裕を見せつけた。": "This one saw through his ordeal early on and|made himself comfortable by indulging in his|amusement."
+    },
+    "96": {
+        "「その　奔放さは　王者の器たりうる。": "Your unbridled energy is the stuff of|champions..."
+    },
+    "97": {
+        "「失望させてくれるな　魔仙卿とやら。 |　これ以上　妄言をはくのなら……": "You disappoint me, Lord Demon... If you keep|talking like this..."
+    },
+    "98": {
+        "「フッ……。 |　このような　カビの生えた儀式に期待して|　出てきたことが　そもそもの間違いか。": "Hmm... The fact that I came out here|expecting such a moldy ritual is what got me|here in the first place."
+    },
+    "99": {
+        "「私は　私の覇道を征くまでだ。": "I will conquer my high road."
+    },
+    "100": {
+        "「まったく　あまりの非礼に　言葉もないな。": "It's just... it's just so rude."
+    },
+    "101": {
+        "「やはり　下賤なる者たちと|　ともに生きることなど　できないということか。": "I knew I couldn't live with those lowly|people..."
+    },
+    "102": {
+        "「さよなら　ユシュカ……。": "Goodbye, Jushka..."
+    },
+    "103": {
+        "「………………。": "..."
+    },
+    "104": {
+        "「こいつが　大魔王にふさわしい……？|　なんの覚悟も　持たない者が？": "This guy is worthy of being the Great Demon|Lord? A man who has no determination|whatsoever?"
+    },
+    "105": {
+        "「なにひとつ　背負うものすら　ない者がか！？": "You're the one who doesn't even have a single|thing on your back!"
+    },
+    "106": {
+        "「魔仙卿よ。|　たしかに　俺は　皆を下に見ているが……": "Demon... You're right, I do think less of you|than you do of me, but..."
+    },
+    "107": {
+        "「それは　民を守るべき存在と　考えるからだ。": "It sees the people as something to be|protected..."
+    },
+    "108": {
+        "「それこそが　俺の信念であり……王道。": "That's what I believe in. ....."
+    },
+    "109": {
+        "「だから　ここで　引き下がるわけにはいかない。 |　俺が　魔界統一を成さねば　多くの民が死ぬ。": "That's why I can't just stand back here. If I|don't unite the demon world, many people..."
+    },
+    "110": {
+        "「……俺と　戦え。": "Me and... Me and..."
+    },
+    "111": {
+        "「今　ここで　示さなくてはならん。|　大魔王に　ふさわしい者は　俺だけだとな。": "I have to show him now. I'm the only one|worthy of being the Great Demon Lord."
+    },
+    "112": {
+        "「魔仙卿も　俺が勝ったら |　目を覚ますだろうよ。": "If I win, Lord Immortal will wake up..."
+    },
+    "113": {
+        "「……よかろう。そなたの思う|　大魔王の資質とやら　示してみせよ。": "... You... I'll show you what I think you're|capable of..."
+    },
+    "114": {
+        "「そなたは　自分の背負うもののために|　戦うがいい。": "You fight for what you carry..."
+    },
+    "115": {
+        "「互いに　手かげんはなしだ。|　すぐに負かしてやるから　安心しろ。": "We can't be too good for each other. I'll|beat you in a second."
+    },
+    "116": {
+        "「……いくぜ！": "... Let's go!"
+    },
+    "117": {
+        "「死にかけだった　お前が|　ここまで　やるとはな。|　さすが　俺が　見立てただけのことはある。": "You were dying, but now you've come this|far... That's what I'm talking about."
+    },
+    "118": {
+        "「だが　大魔王にふさわしい者は |　……この俺だけだ。|　何を言われようと　それは変わらん。": "But the only one worthy of being the Great|Satanic King is... Me... I don't care what|you say, that doesn't change..."
+    },
+    "119": {
+        "「俺は　俺のやり方で　魔界を統一する。": "I will rule the demon world in my own way."
+    },
+    "120": {
+        "「……次に会うときは　敵同士かもな。": "... Next time we meet, we'll be enemies..."
+    },
+    "121": {
+        "「気に病むな……。 |　この結末は　そなたのせいではない。": "Don't worry about it. You're the reason this|is over."
+    },
+    "122": {
+        "「魔界もまた　人界に同じ。": ""
+    },
+    "123": {
+        "「真に　ふさわしき者が　王者とならねば|　民は惑い　苦しみ……その果てに死ぬ。": "Unless a truly worthy man becomes king, the|people will be confused, they will suffer...|At the end..."
+    },
+    "124": {
+        "「そなたとて　大魔王の器はあれど……|　覚悟も　志もなくば　その任は果たせまい。": ""
+    },
+    "125": {
+        "「そなたが　なにゆえ　ここへ来たか。|　我は　すべてを知る。": "I don't know why you're here. I am all..."
+    },
+    "126": {
+        "「元の姿へ　戻りたいのならば…… |　魔族の祖たるチカラに　触れねばならぬ。": "If I want to return to my original form... I|must touch the power of the demon's|ancestor..."
+    },
+    "127": {
+        "「それは……大いなる闇の根源と　呼ばれる。 ": "It's... Called the source of great darkness."
+    },
+    "128": {
+        "「すべての魔瘴の源であり |　魔界を　魔界と　成さしめる存在。": "It's the source of all demon miasma and makes|the demon world into a demon world."
+    },
+    "129": {
+        "「そなたは　悪しきチカラと　聞いていよう。 |　だが　チカラは使い方によって　意味を変える。": "I've been told that you have an evil power.|But a power can mean many things, depending|on how you use it."
+    },
+    "130": {
+        "「さあ　ついてくるがいい。": "Come on, follow me..."
+    },
+    "131": {
+        "「さて……。|　そなたの旅は　長く厳しいものだったろう。": "Well... Your journey has been long and|hard..."
+    },
+    "132": {
+        "「時には　異なる時代に　渡りながら |　また　時には　落命の危機にさらされながら|　ついに　魔界へまで　やってきた。": "Sometimes you cross over to a different time|period, sometimes you're in danger of losing|your life, and finally you make it to the|<br>|demon world..."
+    },
+    "133": {
+        "「我は　そなたに　敬意を表しよう。|　……よくぞ　我のもとへ　たどり着いた。": "I salute you... ... I'm glad you came to me."
+    },
+    "134": {
+        "「我は　そなたを知る。|　そなたの中には　限りない光がある。": "I am you... There is no end to the light|within you."
+    },
+    "135": {
+        "「たとえ　闇の底に落ちようと　決して |　その光が　消えることはない。": "Even if we fall into the depths of darkness,|that light will never be extinguished..."
+    },
+    "136": {
+        "「この像は　魔瘴の結晶でできている。|　大いなる闇の根源に　つながっていると|　はるか昔から　伝えられるものだ。": "This statue is made of magical crystal. It is|said to be connected to the source of great|darkness..."
+    },
+    "137": {
+        "「歴代の大魔王たちも　この像を通じて|　闇の根源との契約を　結んできた。": "All the great demon kings of the past have|made a pact with the source of darkness|through this statue."
+    },
+    "138": {
+        "「こたびは　そなたを　元の姿へ戻すために |　そのチカラを　借りるとしよう。|　魔瘴を統べるものは　魔瘴の根源なれば。": "I've come to ask for your help in returning|you to your original form. The one who|controls the miasma is the source of the|<br>|miasma..."
+    },
+    "139": {
+        "「これより　大いなる闇の根源との|　接触をはかる。": ""
+    },
+    "140": {
+        "「さあ　この像に　手を。": "Come on, this statue..."
+    },
+    "141": {
+        "<center><cs_pchero>なら……超えられる。": "<cs_pchero>Then... Over..."
+    },
+    "142": {
+        "<center>私は　幻影……。|眠れる者の　死の吐息。": "I am a vision... The death of the sleeper..."
+    },
+    "143": {
+        "<center>光と闇の交わりし者よ。|そなたに　問おう。": "The intersection of light and dark... To|you..."
+    },
+    "144": {
+        "<center>そも　貴様の真の姿とは何か？": "What is your true nature?"
+    },
+    "145": {
+        "<center>５０００年の時を超えた　赤子が|今を生きていると　言えるのか？": "How can you be sure that a baby that's 5,000|years old is still alive today?"
+    },
+    "146": {
+        "<center>仮初の肉体で　生きながらえた時|貴様は　真に貴様であったか？": "When you lived in your first body, were you|truly you?"
+    },
+    "147": {
+        "<center>神をすら殺した者は|果たして　人と呼べるのか？": "Can a man who kills even God really be called|a man?"
+    },
+    "148": {
+        "<center>二度死せる者に　はて　魂は残っているのか？": "Do the twice-dead have souls left in them?"
+    },
+    "149": {
+        "<center>私は　無をもって　全を知る。|ゆえに　知らしめよう。": "I am nothing. I am everything. Therefore, I|know..."
+    },
+    "150": {
+        "<center>その醜き姿こそが　貴様の魂のうつしみなのだと。": "Your ugliness is the sorrow of your soul."
+    },
+    "151": {
+        "<center>私は　無をもって　全を知る。|ゆえに　知らしめよう。": "I am nothing. I am everything. Therefore, I|know..."
+    },
+    "152": {
+        "<center>その醜き姿こそが　貴様の魂のうつしみなのだと。": "Your ugliness is the sorrow of your soul."
+    },
+    "153": {
+        "「像が　砕けるとは……？": ""
+    },
+    "154": {
+        "「………………。": "..."
+    },
+    "155": {
+        "「……あなたの光が　私を導いた。": "... Your light makes me..."
+    },
+    "156": {
+        "「あなたは　あなたのままでいい。": "You are what you are..."
+    },
+    "157": {
+        "「魔瘴を　あやつるとは……。|　そなたは　いったい？": "You're supposed to be able to control the|miasma. Who the hell are you?"
+    },
+    "158": {
+        "「私は　イルーシャ。|　……わかるのは　それだけ。": "I'm Il... I... I just know that..."
+    },
+    "159": {
+        "「魔瘴の結晶より　生まれし者……か。": "Born from the crystal of miasma: ...."
+    },
+    "160": {
+        "「我の座へ　まいられよ。 |　話を　聞くとしよう。": "To my throne... I'm listening."
+    },
+    "161": {
+        "「……さて。|　まずは無事　元の姿に戻れたようで|　よろこばしい限りであるな。": "..... First of all, I'm glad to see you're|back to normal."
+    },
+    "162": {
+        "「そなたが　闇の中で出会ったもの…… |　それは　大いなる闇の根源の影|　……ほんのカケラに　過ぎぬ。": "What you have found in the darkness... It is|the shadow of a great dark root. Just a|fragment..."
+    },
+    "163": {
+        "「それでも　そのチカラに打ち勝てたことは |　大きな意味を　持つだろう。": "Still, it means a lot to me that we were able|to overcome that power..."
+    },
+    "164": {
+        "「これから　魔界を襲うであろう|　大魔瘴期……。": "This is the time when the miasma is supposed|to hit the demon world."
+    },
+    "165": {
+        "「これを　食い止めねば|　魔界もろとも　アストルティアは滅ぶ。": "If we don't stop this, the entire world of|Astrutia..."
+    },
+    "166": {
+        "「いずれ　我は　そなたに助力を求めるだろう。 |　その時は　どうか応えてくれ。": "In time, I will ask for your help. And when I|do, please answer me."
+    },
+    "167": {
+        "「これは　そのための手付である。|　そなたの果てなき旅の　一助となるよう。": "This is a handout for that... To help you on|your endless journey..."
+    },
+    "168": {
+        "「そして　イルーシャ。": "And Il..."
+    },
+    "169": {
+        "「そなたが　何者なのか|　我は　まだ　見極めておらぬ。": "I'm still trying to figure out who you are."
+    },
+    "170": {
+        "「ゆえに　このジャディンの園で|　しばらく　保護させてもらうとしよう。": "So we're going to stay here in Jadin's garden|for a while to protect him..."
+    },
+    "171": {
+        "「さいわい　ジャディンの園は|　弱い魔物たちの　保護区となっている。|　そなたに　危害がくわわることも　なかろう。": "Fortunately, Jadin's garden is a sanctuary|for weak demons. No harm will come to you."
+    },
+    "172": {
+        "「この者に　そなたの世話をさせよう。": "This one will take care of you..."
+    },
+    "173": {
+        "「モモモです！　なんでも　おもうしつけを！": "I'm Momo! Whatever you want, I'll train you!"
+    },
+    "174": {
+        "「さて……": "Well"
+    },
+    "175": {
+        "「気がかりは　３人の魔王たちだ。 |　彼らは　忍ぶことを知らず　あまりに誇り高い。": "I'm worried about the three demon lords...|They don't know how to be patient. They're|too proud..."
+    },
+    "176": {
+        "「おそらく　その胸に　怒りを燃やし |　思うままに　我が道を　突き進むだろう。": "You probably have a lot of anger burning in|your chest, and you're going to do whatever|you think is best..."
+    },
+    "177": {
+        "「その激情は……|　時に　己が身すら　焼き尽くす。": "The passion... Sometimes it even burns|itself."
+    },
+    "178": {
+        "「……魔界に　火が放たれる日は近い。": "... The day the demon world is set on fire..."
+    },
+    "179": {
+        "「皆の者　武器を持て！|　魔界を征するのは　我ら　バルディスタだ！": "All of you, take up arms! It is we, the|Valdistas, who will conquer the demon world!"
+    },
+    "180": {
+        "「お前は　私の人形……。 |　偉大なるゼクレスの生贄……。|　生まれた日から　永遠に……。": "You are my puppet... A sacrifice to the great|Zekres... From the day you were born until|forever..."
+    },
+    "181": {
+        "「万事　つつがなく　進行しております。 |　……魔王ユシュカ。|　すべては　ファラザードのために。": "Everything is in order. ... The Demon Lord,|Yu... It's all Farazad's fault..."
+    },
+    "182": {
+        "「両者　そこまでだ……！|　これでは　永遠に　勝負がつかぬ。": "That's enough, both of you. This is forever.|This is forever."
+    },
+    "183": {
+        "「………………。": "..."
+    },
+    "184": {
+        "「……関わらないほうが　身のためだ。": ""
+    },
+    "185": {
+        "モモリオン王は　あなたの心や　資質を試すため|あなたが取る行動を　じっと見つめています……。": "King Morellion is watching you closely,|watching your every move as he tests your|mind and your mettle."
+    },
+    "186": {
+        "ジャディンの園を　歩き回り|まわりの様子を　よく観察しながら|注意深く　行動しましょう。": "We'll be walking around Jadin's garden,|watching what's going on around us, being|very careful..."
+    },
+    "187": {
+        "「ククッ……ハハハ…………|　ハハハハハハハハハハハハッ……！！": "Kuhk... Hahahaha...|Hahahahahahahahahahahaha...!"
+    }
+}

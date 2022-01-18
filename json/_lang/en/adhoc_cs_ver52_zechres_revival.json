@@ -1,0 +1,791 @@
+{
+    "1": {
+        "「誰っ！？　つまらない用事だったら|　火あぶりに　するわよ！": "Who are you? If you're here on a trivial|errand, I'll burn you at the stake!"
+    },
+    "2": {
+        "「……って　ほんとに　誰？": "Who is... I mean, really, who?"
+    },
+    "3": {
+        "<pc>は　リンベリィに|ゼクレス城に　連れていってほしいと　頼んだ！": "<pc> He asked Linbury to take him to the castle of|Zecres!"
+    },
+    "4": {
+        "「ハァ？　なんで　アンタみたいな下等魔族を|　城へ　連れてかなきゃならないのよ！|　さっさと　出ていきなさい！": "Huh? Why do I have to bring a lowly demon|like you to the castle! Get the hell out of|here!"
+    },
+    "5": {
+        "「ちょっと待って。|　アンタ……私のパーティーに　忍び込んだ|　こぎたない下等魔族！？": "Hey... You... You're a lowly demon who snuck|into my party!"
+    },
+    "6": {
+        "「うん……使えるかも！": "Yeah... It could work!"
+    },
+    "7": {
+        "「私　新しい　しもべを　助けたいの！": "I want to help the new servant!"
+    },
+    "8": {
+        "「……正確には　新しい　しもべ候補ね。|　アイツが　私に夢中なのは　わかってるけど|　ちょっとした障害が　あってね……。": "... Technically, I'm the new servant. I know|he's crazy about me, but there's been a|little snag."
+    },
+    "9": {
+        "「ねえ。この話って|　私たちに　何か　関係あるのかな……？": "Hey. Does this story have anything to do with|us...?"
+    },
+    "10": {
+        "「あ　そっか。|　アンタ　さては　知らなかったのね。": "Oh... You didn't know that..."
+    },
+    "11": {
+        "「魔界大戦が起きる　少し前……|　パーティーで　アンタを助けた　骨董屋。|　あの　シリルが　なんと……": "Just before the wizard war... I saved your|life at the party... Cyril, he..."
+    },
+    "12": {
+        "「我が　ゼクレス魔導国の王|　魔王アスバルだったのよ！！": "I was the King of Zecres, the Demon Lord|Asbal!"
+    },
+    "13": {
+        "「平民に変装し　運命の恋を探していた魔王と|　美しき大貴族の娘……。": ""
+    },
+    "14": {
+        "「アイツって　顔も声も　イケてるし|　新しい　しもべに　してあげてもいいかなって|　思ってたところに　あの　魔界大戦が……。": "He's got a cool face and voice, and I was|thinking I could make him my new servant when|the Demon War broke out..."
+    },
+    "15": {
+        "「アスバルは　愛する王太后様の死で|　悲しみの淵に……。|　そこに　つけこんだヤツがいるのよ！": "Asbal is in the depths of grief over the|death of his beloved Queen Dowager. That's|when someone took advantage of him!"
+    },
+    "16": {
+        "「ソイツの名は……オジャロス！": "It's called... Ojalos!"
+    },
+    "17": {
+        "「心身ともに傷を負った　アスバルは|　叔父　オジャロスに|　国をまかせ　喪に服しているわ……。": "Wounded in body and soul, Asbal has left his|country in mourning to his uncle Ojalos..."
+    },
+    "18": {
+        "「で　元気づけてあげようと　何度か|　城を訪ねてるんだけど　会わせてもらえないの。|　オジャロスのヤツ　私を警戒してるみたい。": "So I've been to the castle a few times to try|and cheer him up, but he won't let me see|him... Ojalos is wary of me..."
+    },
+    "19": {
+        "「……アイツは　いまや　国王気取り。|　私が　アスバルを　立ち直らせたら|　都合が悪いから　邪魔してるんだわっ！": "... He's the king now... He's blocking me|because he doesn't want me to bring Asbal|back to life!"
+    },
+    "20": {
+        "「……で　ここからが　アンタの出番。": "So... And here's the thing..."
+    },
+    "21": {
+        "「ほらっ。コレを　持ってきなさい！": "... Bring this to me!"
+    },
+    "22": {
+        "<pc>は　リンベリィから|しもべの証（だいじなもの）を|押し付けられた！<me 60>": "<pc> I've got to get out of here!<me 60>"
+    },
+    "23": {
+        "「城の兵士の　何人かは　買収済み。|　その　しもべの証を見せれば|　下等魔族のアンタでも　入れてくれるわ。": "Some of the soldiers in the castle are|buying... If you show us the proof of your|servitude, we'll let you in, even if you're a|<br>|lowly demon..."
+    },
+    "24": {
+        "「城に　潜入して|　愛しの　リンベリィ様が　会いたがってると|　魔王アスバルに　伝えなさい！": "You'll have to sneak into the castle and tell|the Witch King Asbal that his beloved Master|Linbery wants to see him!"
+    },
+    "25": {
+        "「……アンタだって　パーティーで|　アスバルに助けられた恩を　返したいでしょ？|　オジャロスの魔の手から　助け出すのよ！": "... You want to repay Asbal for saving your|life at the party, don't you? We have to get|him out of Ojaloth's clutches!"
+    },
+    "26": {
+        "「なに　ぼーっとしてんのよ！|　とっとと　ゼクレス城に　行きなさい！": "What are you waiting for? Get your ass back|to Castle Zekres!"
+    },
+    "27": {
+        "「……誰だい？|　食事を　持ってきてくれたなら|　そこの机に　置いておいてくれ……。": "... Who is this? If you've brought me my|food, you can leave it on the desk over|there..."
+    },
+    "28": {
+        "「国のことは　叔父上に　まかせている。|　僕を　そっと　しておいてほしい……。": "I'll leave the country to your uncle. I'd|like you to leave me alone..."
+    },
+    "29": {
+        "「今は……誰にも　会いたくない。|　母上の死を　ひとりで悼みたいんだ……": "And now... I don't want to see anyone. I just|want to mourn my mother's death alone."
+    },
+    "30": {
+        "「げふーっ。|　いやあ　この　お菓子　うまいなあ！": "Geez... These sweets are so good!"
+    },
+    "31": {
+        "「……ちょっと　様子が　おかしいみたい。|　奥へ行って　直接　アスバルに|　会ってみましょう。": "I don't know. There's something wrong... I'll|go to the back and meet Asbal in person..."
+    },
+    "32": {
+        "「……ぷ　ぷぎぃーっ！？": "... P-P-Geez!"
+    },
+    "33": {
+        "「私たち　アスバルに　大切な話があるの。|　あなた……誰？|　どうして　ここに　いるの？": "We, Asbal, have something very important to|discuss. You... Who are you? Why are you|here?"
+    },
+    "34": {
+        "「……オレの名は　ボッガン。|　魔王アスバル様と　声が　そっくりなのを|　見込まれて　身代わりを　してたんだ。": "... My name is Bo... He saw that I had the|same voice as the Demon Lord Asbal, so he|took my place."
+    },
+    "35": {
+        "「キミたち。このお菓子　あげるからさ。|　オレが　替え玉をしてたこと|　城のみんなには　黙っててくれないかな……？": "Ki... I'll give you this candy... Can you|please not tell the others in the castle that|I've been doing doubles?"
+    },
+    "36": {
+        "「私は　いいわ。|　あなたが　食べて。": "I'm... You..."
+    },
+    "37": {
+        "「えっ　いらないの？|　じゃあ　いっただっきまぁ～す！": "What? You don't want it? Then I'll have some!"
+    },
+    "38": {
+        "「ええと……それで　なんだっけ？|　ああ　アスバル様に　会いたいんだったね。": "Um... So, what was that? Oh, I'm here to see|Master Asbal..."
+    },
+    "39": {
+        "「アスバル様なら　この国には　いないよ？": "Master Asbal is not in this country, is he?"
+    },
+    "40": {
+        "「オジャロス様の　すすめで|　魔界を　出たんだ……。": "I left the demon world at the behest of|Master Ojalos."
+    },
+    "41": {
+        "なんと　リンベリィから　押しつけられた|しもべの証が　突然　光りだした！": "Suddenly, the servant's token that Linbery|had thrust upon me began to glow!"
+    },
+    "42": {
+        "「なぁんですってえっ！？": "What the hell?"
+    },
+    "43": {
+        "「も…もきぃーっ！？|　今度は　誰なんだよーっ！？": "Moxie! MOKII! Who are you this time?"
+    },
+    "44": {
+        "「……オジャロスめ　許せないッ！|　私から　アスバルを　引き離すために|　魔界から　追いやるなんてッ！": "... Ojaloth, I will not allow it! You drove|Asbal away from the Demon Realm to keep him|from me!"
+    },
+    "45": {
+        "「あの……なんのこと？|　アスバル様は　あんたのことなんて|　なんも　言ってなかった……": "Um... What are you talking about? Master|Asbal never mentioned anything about you..."
+    },
+    "46": {
+        "「うっるさぁーい！！": "Yuck!"
+    },
+    "47": {
+        "「……やっぱり　思ったとおりだったわ。": "I knew it. I knew it. It's just as I thought."
+    },
+    "48": {
+        "「オジャロスのやつ|　アスバルを　魔界から追放して|　ゼクレス魔導国を　手に入れるつもりだわッ！": "Ojalos, he's going to banish Asbal from the|demon world and take over the Zekres Magic|Kingdom!"
+    },
+    "49": {
+        "「まーったく　あの　一族ってば　腹黒いわ！|　亡きエルガドーラ様が　前王　イーヴ様を|　追放した時と　そっくり　同じじゃない！": "Oh, my God, that family is so black-hearted!|It's just like when the late Lord Elgadora|exiled the former king, Eve!"
+    },
+    "50": {
+        "「このままじゃ　アスバルも|　お父上同様　殺されちゃうかもしれないわ！|　急いで　連れ戻さなきゃ！": "If we don't do something, they'll kill Asbal,|just like your father! We must bring him back|quickly!"
+    },
+    "51": {
+        "「そこの　つぶれまんじゅう！|　アスバルは　今　どこなの！？|　さっさと　白状なさい！": "Hey, you there, you crushed manju! Where is|Asbal now? Come on, tell me where he is!"
+    },
+    "52": {
+        "「だ　だから……アストルティアの|　ええと　ヴェリナード王国って　ところへ|　旅立ったんだってば……。": "That's why... I left for a place in Astrutia|called, uh, the Kingdom of Velinard..."
+    },
+    "53": {
+        "「よりによって　アストルティア！？|　ヤダッ　おぞましい！": "Of all places, Astrutia? Oh, no! That's|horrible!"
+    },
+    "54": {
+        "「……アストルティアへ転移する　魔法儀式なんて|　この私でも　１ヶ月以上　かかるわ。|　今すぐ　アスバルを　助けたいのにッ！！": "... The ritual of transferring to Astrutia|took me over a month to complete. I want to|save Asbal now!"
+    },
+    "55": {
+        "「アンタは　今は　だまってて！": "You need to shut up for now!"
+    },
+    "56": {
+        "「……ちょっと待って！|　今　アンタ　アストルティアに行けるって|　そう言ったの！？": "... Wait a minute! Did you just say that we|can go to Astrutia?"
+    },
+    "57": {
+        "「……しょうがないわね。|　他に　手はないし|　アスバルのことは　アンタに　まかせてあげる。": "... I don't have a choice. I don't have any|other choice, and I'm leaving Asbal to you,|so..."
+    },
+    "58": {
+        "「アストルティアの　ヴェリナード王国|　……とかいう場所へ行って|　アスバルを　連れ戻してきなさい！": "I want you to go to the Kingdom of Velinard|in Astrutia. and bring Asbal back to me!"
+    },
+    "59": {
+        "「じゃ　頼んだわよ～♪": "I'll take care of it"
+    },
+    "60": {
+        "「……何がなんだか　わかんねえけど|　とにかく　そういうことだし|　オレは　関わりたくねえから　まかせたぜ！": "I don't know... I don't know what's going on,|but that's what's going on, and I don't want|any part of it, so I'm leaving it to you!"
+    },
+    "61": {
+        "「あと　ここで見たことは|　くれぐれも　秘密にしてくれよなっ！": "And please don't tell anyone what you saw|here!"
+    },
+    "62": {
+        "「……いかがですか？　アスバル先生。|　代々の　ヴェリナード王位継承者に|　詩歌を伝えてきた　詩歌の遺跡の　ご感想は。": "... What do you think? Asba... The site of a|poetry anthology that has been passed down|from generation to generation to the heirs to|<br>|the Verrinid throne."
+    },
+    "63": {
+        "「まるで　夢のようだよ……！|　歴史書に記された　この　すばらしい場所を|　自分の目で　見ることができるとは……": "It's like a dream. I never thought I'd be|able to see this amazing place, written about|in the history books, with my own eyes."
+    },
+    "64": {
+        "「やあ　ひさしぶりじゃないか！　我が親友よ！": "Hello! Long time no see! My good friend!"
+    },
+    "65": {
+        "「僕の故郷の　友人を|　オーディス王子は　ご存知だったのですか……。|　不思議な偶然も　あるものですね。": "I wonder if Prince Odis knew my friend from|back home. Strange coincidences do happen."
+    },
+    "66": {
+        "「なんと　ふたりが　知り合いだったとは！|　アスバル先生は　高名な歴史家で|　今は　僕の家庭教師を　してもらってるんだよ。": "I didn't know you two knew each other! Mr.|Asbal is a renowned historian, and he's|currently my tutor..."
+    },
+    "67": {
+        "「そうだ！　つもる話も　あるだろうから|　しばらく　授業は　中断しましょう。|　僕は　そのあたりを　散歩してきます。": "That's right! I know we have a lot to talk|about, so I'm going to cut class for a while.|I'm going to take a walk around the|<br>|neighborhood..."
+    },
+    "68": {
+        "「……君が　アストルティアの出身であることは|　知っていたけれど|　まさか　僕に　会いにきてくれるなんて。": "I... I knew you were from Astrutia, but I|never thought you'd come to see me."
+    },
+    "69": {
+        "「……でも　どうして　ここが　わかったんだい？": "I know. But how did you find this place?"
+    },
+    "70": {
+        "<pc>は　リンベリィから|追放されたアスバルを　連れ戻すよう|頼まれていることを　伝えた！": "<pc> told him that Linbery had asked him to bring|back the exiled Asbal!"
+    },
+    "71": {
+        "「……オジャロス叔父上が|　僕を　追放しただって！？|　ばかな。あの人は　母とは　ちがうよ。": "... Uncle Ojalos has exiled me? He... He's|not like my mother."
+    },
+    "72": {
+        "「ベラストル家の　お嬢さんは|　ひどい　カンちがいを　してるようだね。|　叔父さんこそが　僕を　救ってくれたんだから。": "The Bellastre girl has made a terrible|mistake. My uncle is the one who saved me."
+    },
+    "73": {
+        "「あの大戦で　心底　思い知った。|　母が　愛したのは　ゼクレスの栄華だけ。|　……僕は　母にとって　道具でしかなかった。": "The Great War left me with a deep... My|mother loved the glory of Ecclesiastes... I|was... I was nothing more than a tool to her."
+    },
+    "74": {
+        "「僕の悲しみを　わかってくれたのは|　オジャロス叔父さんだけさ。|　あの人は　昔から　とても　やさしいんだ。": "It was Uncle Ojalos who understood my|grief... He's always been so kind..."
+    },
+    "75": {
+        "「……アストルティアに来たのも|　少し　国を離れて　気分転換したらどうだと|　叔父さんが　すすめてくれたからさ。": "... I came to Astrutia because my uncle|suggested that I get away from the country|for a while and get a change of scenery."
+    },
+    "76": {
+        "「アストルティアは　すばらしいところだね。|　自由で……平和で……。|　心から　来てよかったと　そう思うよ。": "Astrutia is a wonderful place... Free...|Peaceful... I'm so glad I came."
+    },
+    "77": {
+        "「……もはや　魔界に　未練はない。|　僕は　アストルティアで　生きていくよ。": "... I'm no longer in the demon world. I'm|still living in Astrutia."
+    },
+    "78": {
+        "「悪いけど　オジャロス叔父さんに|　二度と　魔界には帰らないと　伝えてくれ……": "I'm sorry Uncle Ojalos| Tell her I'll never go back to the demon world again"
+    },
+    "79": {
+        "「……おっと。僕が　魔族だということは|　くれぐれも　オーディス王子には　秘密にね。": "...... Please don't tell Prince Odis that I'm|a demon..."
+    },
+    "80": {
+        "「では　授業を再開しましょう。": "And now, let's resume class."
+    },
+    "81": {
+        "「ヴェリナード王家には|　恵みの歌　導きの歌を　はじめとする|　さまざまな詩歌が　伝えられていますが……": "To the royal family of Verrinard| Songs of grace, songs of guidance, and more| There are many poems that have been passed down through the ages"
+    },
+    "82": {
+        "「その詩の原点は　はるか　神話の時代。|　儀式の中で　歌われた|　古き祈りの詩とも　言われているそうです。": "The poem's origins are far back in|mythology... It is said to be an ancient|prayer poem sung in rituals..."
+    },
+    "83": {
+        "「そういえば　アスバル先生の故郷には|　どんな詩歌が　伝えられているのですか？|　ぜひ　僕に　お聞かせください！": "Speaking of which, what kind of poetry is|passed down in your hometown? I'd love to|hear them!"
+    },
+    "84": {
+        "「……それでは|　亡き母が　愛していた　古い詩を……。": ""
+    },
+    "85": {
+        "「星が…消え去ろうとも　君に……": ""
+    },
+    "86": {
+        "「……花が枯れ　星が消え去ろうとも|　君に捧げし　この心　変わらず。": "... Even if the flowers wither and the stars|fade, my heart, dedicated to you, will never|change..."
+    },
+    "87": {
+        "「どうして　知ってるんだ！？": "How do you know that?"
+    },
+    "88": {
+        "「い　痛い……。": "No, it hurts..."
+    },
+    "89": {
+        "「お願いだっ　教えてくれ！|　どこで　この詩を　知ったんだ！？": "Please, tell me! How did you know about this|poem?"
+    },
+    "90": {
+        "「この詩は……ゼクレスのお城で　聞いたのよ。": "This poem... I heard it in the castle of|Zekres..."
+    },
+    "91": {
+        "「オジャロスさんの部屋に　置いてあった|　水槽の中の魔物が　この詩だけ|　ずっと　くちずさんでいたの……。": "The demon in the tank in Mr. Ojalos' room|kept humming this poem..."
+    },
+    "92": {
+        "「……オーディス王子。|　急用ができましたので|　今日の授業は　これで終わりにします。": "... AUDI... I've got urgent business, so I'm|going to finish today's class..."
+    },
+    "93": {
+        "「どうしたのです　アスバル先生。|　お身体の具合でも……？": "What is it, Asba? Is something wrong with|you?"
+    },
+    "94": {
+        "「僕は　故郷へ帰るよ。|　どうしても　帰らなきゃいけないんだ……。": "I have to go home... I really have to go|home."
+    },
+    "95": {
+        "「お願いだ。君たちも　ゼクレスに来てくれ。|　オジャロス叔父上のもとで　会おう。": "Oh... You too, come to Zekres... Under Uncle|Ojalos..."
+    },
+    "96": {
+        "「待ってください！　アスバル先生っ！！": "Wait, please! Professor Asbal!"
+    },
+    "97": {
+        "「……事情は　よくわからないけど|　アスバル先生が　心配だ。": "... I don't know what's going on, but Dr.|Asbar..."
+    },
+    "98": {
+        "「先生のことは　僕から　母上に伝えておく。|　君は　先生の後を追ってくれ。|　……頼んだよ。": "I'll tell your mother about you. You go after|him. I... Please..."
+    },
+    "99": {
+        "「やーっと　魔界へ帰ってきたわね！|　ほんっと　アンタってば　のろまなんだから。": "You've finally returned to the demon world!|You really are a slow learner..."
+    },
+    "100": {
+        "「で？　魔王アスバルは　どこ？|　ちゃんと　連れ戻してきたんでしょうね。": "And? Where's the Mad King Asbal? I thought|you said you brought him back..."
+    },
+    "101": {
+        "「ここ……オジャロスさんの部屋で|　会おうって　言ってたわ。": "So... You said you'd meet me in Mr. Ojalos'|room."
+    },
+    "102": {
+        "「よくやったわ　ほめてあげる。|　それじゃ　私に　ついてきなさい<heart>": "Well done. Praise me... Now, I want you to|follow me.<heart>"
+    },
+    "103": {
+        "「シリル……いいえ　魔王アスバル様。|　ベラストル家　当主　リンベリィが|　お見舞いに　参りました。": "Cyril... No, it's the Demon Lord As... The|head of the Bellastor family, Mr. Linbery, is|here to see you..."
+    },
+    "104": {
+        "「……君たち　すまないが　帰ってくれ。": "I'm... Guys, I'm sorry, but I have to go."
+    },
+    "105": {
+        "「どうして？|　あなたが　ここに来てって　言ったのに。": "Why? You asked me to come here..."
+    },
+    "106": {
+        "「ハァァァ！？|　アンタたち　いつの間に　そんな仲に……！": "Huh? When did you two become so close?"
+    },
+    "107": {
+        "「おやおや……。|　若い　お嬢さんたちに|　ずいぶん人気なんだねえ　アスバル。": "Well, well... You must be very popular with|the young ladies."
+    },
+    "108": {
+        "「ベラストル家のお嬢様と|　そちらは……おお　魔瘴の巫女どのでしたな。|　みなさま　ご機嫌うるわしゅう。": "The young lady of House Bellastre and you|are... The maiden of the miasma... Ladies and|gentlemen, I hope you're all well."
+    },
+    "109": {
+        "「彼女たちは　僕とは　関係ありません！！": "They have nothing to do with me!"
+    },
+    "110": {
+        "「なっ……！": "What the...?"
+    },
+    "111": {
+        "「……さきほど　ご相談した通り|　ゼクレスの王位は　叔父上に　ゆずります。|　ですから　これ以上　他人を巻き込むのは……": "... As we discussed earlier, the throne of|Zekres has been given to your uncle... So I|don't think we should involve any more|<br>|people..."
+    },
+    "112": {
+        "「王位を　ゆずるですって！？|　どうして　そんな　バカなことを|　言い出すのよっ！": "You're giving up the throne! Why are you|talking such nonsense?"
+    },
+    "113": {
+        "「王家の血を引いていない　オジャロスには|　王位継承権は　存在しないはず。|　そもそも　アナタが生きてるのに　どうして！？": "Ojalos, who is not of royal blood, has no|claim to the throne. How is it that you're|still alive in the first place?"
+    },
+    "114": {
+        "「とにかく　決めたんだ……。|　王位は　オジャロス叔父上に　ゆずり|　僕は　ゼクレスで　一生を　静かに送ると。": "Anyway, I've decided... I'd leave the throne|to Uncle Ojalos, and I'd spend the rest of my|life in peace in Zekres."
+    },
+    "115": {
+        "「……行きましょう　叔父上。|　王位交代の宣誓の日取りについて|　臣下たちを集めて　相談しなくては。": "... Let's go. I've gathered my subjects to|discuss the date of the oath of succession..."
+    },
+    "116": {
+        "「おお　そうだったねえ。": "Oh, right..."
+    },
+    "117": {
+        "「さてさて　お嬢さんたち。|　我々は　これから　大切な用があるのでね。|　今日のところは　お帰りいただけませんか？": "Now, now, young lady... We have important|business to attend to... Would you mind|leaving for the day?"
+    },
+    "118": {
+        "「言われなくたって　帰るわよっ！|　二度と　こんなトコ　来るもんですか！": "I'm leaving without your permission! I'll|never come here again!"
+    },
+    "119": {
+        "「これは　返してもらうわよッ！！": "You can have this back!"
+    },
+    "120": {
+        "リンベリィは　<pc>から|しもべの証を　取り上げた！": "Linbury wave<pc> He took the servant's testimony from the|servant!"
+    },
+    "121": {
+        "「魔瘴の巫女どの　それでは　ご機嫌よう。": "The maiden of the miasma, good day..."
+    },
+    "122": {
+        "「………………。": "..."
+    },
+    "123": {
+        "アスバルは　別れ際に|<pc>に　メモを渡していった……。": "Asval said goodbye|<pc> He passed the note on to..."
+    },
+    "124": {
+        "<center>僕の店の　大きな箱の中にある書物|『古秘術大全　４巻』の１１章の内容を　実行し|店まで　戻ってきてくれ。　　　　　　アスバル": "The book in the big box in my store, chapter|eleven of The Complete Book of Ancient|Mysteries, volume four. Asbal."
+    },
+    "125": {
+        "「アスバルの店……って　城下町にある|　あの骨董品店　六大陸堂が　そうなのね。|　行ってみましょう。": "Asbal's store... That antique store in the|castle town, Rikutairakudo, is it... I'll go|there..."
+    },
+    "126": {
+        "「……店の中に　潜んでいる者は　いない。|　今のところ　叔父には|　気づかれていないようだね……。": "... Whoever's lurking in the store... So far,|my uncle hasn't noticed..."
+    },
+    "127": {
+        "「それで　無事に　リドのタリスマンは|　手に入れてきてくれたかい？": "So, did you get the Lido Talisman in one|piece?"
+    },
+    "128": {
+        "<pc>は　アスバルに|リドのタリスマンを　渡した！": "<pc> has given Asbal the Talisman of Lido!"
+    },
+    "129": {
+        "「……よしっ！|　これで　母上を　助けられるぞ！": "... Yes! Now we can save your mother!"
+    },
+    "130": {
+        "「何も　事情を説明しないまま|　協力してもらって　すまなかった……。": "I'm sorry I didn't tell you what was going|on, but I needed your help."
+    },
+    "131": {
+        "「城の　叔父の部屋にあった　水槽……|　あの中にいた　魔物を　覚えてるかい？": "The tank in my uncle's room at the castle...|Do you remember the demon that was in there?"
+    },
+    "132": {
+        "「お城で　ずっと　詩を　くちずさんでいた|　あの　魔物のこと……？": "You mean that demon that's been humming|poetry all the time in the castle...?"
+    },
+    "133": {
+        "<center>はてなき空　はてなき時　めぐりめぐる千の星|ひとつの花　ひとつの声　地に満ちる　千の生命": ""
+    },
+    "134": {
+        "<center>うつろう空　過ぎゆく時|花が枯れ　星が消え去ろうとも|君に捧げし　この心　変わらず": ""
+    },
+    "135": {
+        "<center>ああ　愛しき人よ　信じておくれ|我が心を燃やす　この愛を……": "Oh, my love, believe me|This love that burns in my heart"
+    },
+    "136": {
+        "「あの魔物は……|　僕の母　王太后エルガドーラなんだ。": "That demon... My mother, the Dowager Queen|Elgadora..."
+    },
+    "137": {
+        "「でも……お母さんは　死んだはずじゃ？": "But... I thought you said your mother was|dead."
+    },
+    "138": {
+        "「僕も　詩歌の遺跡で|　君たちと　再会するまでは　そう思っていた。": "That's what I thought, too, until I met you|again at the poetry site."
+    },
+    "139": {
+        "「けれど　あの古い詩は|　母が　子守唄がわりに　聞かせてくれた|　……僕と母以外　知るはずがない詩。": "But that old poem that my mother used to play|to me as a lullaby... No one but my mother|and I were supposed to know..."
+    },
+    "140": {
+        "「……急ぎ　魔界へ戻った僕が　問い詰めると|　オジャロスは　うれしそうに教えてくれたよ。": "... I hurried back to the demon world, and|when I questioned him, Ojalos happily told|me..."
+    },
+    "141": {
+        "「よく　あの変わり果てた姿に　気づいたねえ。|　アスバル。|　親子の愛とは　まこと　美しいものだ。": "I don't know how you could have noticed how|much he's changed. Oh... The love between a|father and his child is truly beautiful..."
+    },
+    "142": {
+        "「……そうとも。|　瀕死の状態だった　エルガドーラ姉上を|　この私が　助けて差し上げたのだよ。": "... So... I saved your sister Elgadora from|certain death..."
+    },
+    "143": {
+        "「魔力が尽きて　抜けガラ同然になった|　姉上の身体を……|　新しい生命として　再構成したのさ。": "Your sister's body was drained of its magic.|I'll reconstitute her as a new life."
+    },
+    "144": {
+        "「……みじめで　下等な　魔物の姿にね。": "... A miserable, lowly, demonic..."
+    },
+    "145": {
+        "「もし　君のような強い魔力が　あったなら|　姉上を　元の姿に　戻せたかもしれないが|　あいにく生まれつき　出来が悪いものでねえ。": "If I had a magic as strong as yours, I|might've been able to restore your sister to|her original form, but unfortunately, I was|<br>|born with bad luck..."
+    },
+    "146": {
+        "「私の魔力では　変わり果てた姉上を|　生かしておくだけで　精一杯。": "It's not enough for my magic to keep you|alive."
+    },
+    "147": {
+        "「ああ……残念だねえ。|　君が　部屋に閉じこもっていなければ|　姉上の再構成を　手伝ってもらえたのに。": "Oh... It's a shame. If you weren't locked up|in your room, you could help me reconfigure|your sister's..."
+    },
+    "148": {
+        "「だが……考えてごらん。アスバル。|　君にとっては　これで　よかったのさ。": "But... I thought... I... I think it's better|for you..."
+    },
+    "149": {
+        "「今の姉上は　獣も同然。まともな知能のない|　食べて　眠るだけの生き物だ。": "Now you're an animal... All she does is eat|and sleep, with no real intelligence..."
+    },
+    "150": {
+        "「つまり　君は　もう　支配されない！": "I mean, you're not in control anymore!"
+    },
+    "151": {
+        "「おめでとう　アスバル！|　これからは　親子　仲むつまじく|　幸せな日々を　送れるよ……。": "Congratulations, Asbal! From now on, you and|I will live happily ever after..."
+    },
+    "152": {
+        "「……あの魔物を　ひとめ見て　わかった。|　叔父の言葉は　真実なのだと。": "I... I saw that demon at first sight, and I|knew... What my uncle said was true..."
+    },
+    "153": {
+        "「だが……あいつは|　ひとつだけ　嘘をついている。": "But... He only told me one lie."
+    },
+    "154": {
+        "「嘘……？": "嘘...？"
+    },
+    "155": {
+        "「かつて　母エルガドーラは|　身につけた者の意思をあやつる|　魔法の首輪で　僕を　支配していた。": "My mother, Elgadora, once ruled over me with|a magical collar that controlled the will of|whoever wore it."
+    },
+    "156": {
+        "「あれに　使われていたのと|　同じ宝石が　水槽の中の　母上にも……。": "The same jewels that were used in that thing|are on your mother in the tank."
+    },
+    "157": {
+        "「今の母に　知能がないなんて　嘘だ。|　でなければ　あの宝石を使う必要がない。": "I can't believe she's not intelligent now. If|she didn't, she wouldn't have had to use the|jewel."
+    },
+    "158": {
+        "「……君たちに頼んだ　タリスマンがあれば|　オジャロスの　支配の術を　打ち消せる。|　母を　解き放てるんだ！": "... With the talisman I've asked for, I can|defeat the art of Ojalus' domination... I can|free my mother!"
+    },
+    "159": {
+        "「……今でも　母のことは　許せないさ。|　だが　いくらなんでも|　オジャロスの仕打ちは　ひどすぎる。": "I... I still can't forgive my mother. I still|forgive my mother, but what she did to Ojalos|was horrible."
+    },
+    "160": {
+        "「……オジャロスは　自分が　王位につく瞬間を|　痛ましい姿になった母……エルガドーラに|　見せてやるのだと　言っていた。": "... Ojalos said he would show the moment of|his ascension to the throne to his mother...|Ojalos said he was going to show Elgadora..."
+    },
+    "161": {
+        "「もっとも　オジャロスが油断する瞬間……|　王位譲渡の儀式に集まった民の前で|　やつの罪を追及し　母を　助けるつもりだ。": ""
+    },
+    "162": {
+        "「リンベリィに協力をあおぎ　王位交代の宣誓に|　潜入してくれ。そして　僕が　合図したら|　騒ぎを起こすよう　彼女に　伝えてほしい。": "I'm going to enlist Linbery's help in|infiltrating the swearing-in of the throne...|And when I give the signal, I'll tell her to|<br>|make some noise."
+    },
+    "163": {
+        "「ほまれ高き　ゼクレス魔導国の民よ！": "Honorable people of the magical land of|Zekres!"
+    },
+    "164": {
+        "「さきの大戦で　勝利をもたらすどころか|　みなに　痛手を与えてしまったことは|　ひとえに　我が　不徳の致すところである！": "It is my fault that the last war, instead of|bringing victory, has brought pain to|everyone!"
+    },
+    "165": {
+        "「……私　魔王アスバルは|　偉大なるゼクレスの王には　ふさわしくない。": "... I, the demon king Asbal, am worthy of the|great King of Zecres..."
+    },
+    "166": {
+        "「よって　今日　この日。|　もっとも　ゼクレスの玉座に|　ふさわしき者に　王位を　譲渡せんと思う！": "Therefore, today... I will transfer the|throne to a man more worthy of the throne of|Zekres!"
+    },
+    "167": {
+        "「……いくわよ<heart>": " Here we go<heart>"
+    },
+    "168": {
+        "「おやおや　魔瘴の巫女どのも|　この良き日に　駆けつけてくださるとは。|　まことに　光栄ですなあ。": "Well, well, well. The maiden of the miasma|has come on this fine day. I am truly|honored..."
+    },
+    "169": {
+        "「……僕が　呼んだのです。叔父上。": "... I called it. ......"
+    },
+    "170": {
+        "「リンベリィの幻術で　他の者には|　僕たちの会話は　聞こえていません……。|　ですから　率直に　話しましょう。": "Because of Linbery's illusion, no one else|can hear our conversation... So I'll be frank|with you..."
+    },
+    "171": {
+        "「母に　かけた術を　解いてください！": "Untie me from the spell I cast on my mother!"
+    },
+    "172": {
+        "「その宝石で　母の意識を　支配し|　醜い魔物の肉体に　封じていることは|　わかっています。": "We know that the jewel has taken control of|my mother's consciousness and sealed her in|an ugly, demonic body..."
+    },
+    "173": {
+        "「……あなたには　恩もある。|　今すぐ　母を元に戻し　この国から退くならば|　罪を問うことは　しません。": "... I owe you... If you restore my mother to|her former self and leave this country now,|there will be no question of my guilt..."
+    },
+    "174": {
+        "「母上と　あなたは　あんなにも|　仲が良い姉弟だったでは　ありませんか！": "You and your mother were such good friends,|weren't you?"
+    },
+    "175": {
+        "「お願いです　オジャロス叔父上！|　母を……|　エルガドーラを　元に　戻してください！": "Please, Uncle Ojalos! My mother... I beg you|to restore El Ghadora to her former glory!"
+    },
+    "176": {
+        "「やれやれ……。|　何を　言い出すかと思えば　困ったねえ。": "Oh, dear... I don't know what you're getting|at, but..."
+    },
+    "177": {
+        "「姉上はもう　元の姿には　戻らない。|　……残念ながら　これは　真実なんだ。|　アスバル。": "Your sister will never be the same again. ...|I'm afraid this is the truth... Oh..."
+    },
+    "178": {
+        "「姉上は　幼い頃から　美しかった……。|　姉とは似ても似つかぬ　私は|　じつの親からも　あざけられ　軽んじられたよ。": "Your sister was beautiful from a very young|age. I, who was nothing like her, was mocked|and disrespected by my own parents."
+    },
+    "179": {
+        "「あの　誇り高き姉上に|　ご自慢の美貌も　魔力も失った|　今の　ご自分の姿は　耐え難かろう……。": "I'm sure it's hard for your proud sister to|bear the sight of you now that you've lost|your beauty and magic."
+    },
+    "180": {
+        "「だからこそ　私は　術を　かけたのだよ。|　姉上が　何も考えず　生きていけるようにね。": "That's why I did the trick. So that you could|live without thinking."
+    },
+    "181": {
+        "「姉上の知能を　獣同然に|　封じているのは　むしろ　私の　優しささ。": ""
+    },
+    "182": {
+        "「優しさだと！？|　言うに　ことかいて……っ！": "\"Kindness\"? Don't you dare say that... No!"
+    },
+    "183": {
+        "「叔父上！|　もう　母をもてあそぶのは　やめてください！|　でなければ　僕にも　考えがあります！": "Uncle! Stop toying with my mother! Or I'll|have my own ideas!"
+    },
+    "184": {
+        "「……交渉は　決裂のようね。": "... Negotiations have broken down..."
+    },
+    "185": {
+        "「アスバル！　集まったみんなに|　コイツの正体を　ブチまけてやりなさいっ！": "Asbal! Let's show everyone who's gathered|here what this thing really is!"
+    },
+    "186": {
+        "「みんな　聞いてくれ！": "Guys, listen up!"
+    },
+    "187": {
+        "「ここにいる　オジャロスは|　卑劣な企みで　母エルガドーラを　陥れ|　国に背きし　大逆人だ！": "Ojalos here is a treasonous traitor who|disobeyed his country in a dastardly plot|against his mother, Elgadora!"
+    },
+    "188": {
+        "「ゼクレス魔導国が　魔王の名において|　オジャロスの爵位を　剥奪！|　永久に　国外追放とする！！": ""
+    },
+    "189": {
+        "「…………？": "...？"
+    },
+    "190": {
+        "「魔界でも　屈指の魔力を誇る　お前に……|　私が　なんの備えも　していないとでも|　思っていたのかね？": "You're one of the most powerful demons in the|world... Did you really think I wasn't|prepared for this?"
+    },
+    "191": {
+        "「……いけないっ！": "... No, no, no!"
+    },
+    "192": {
+        "「さすがは　魔瘴の巫女どの……。|　まこと　すさまじきチカラだ。": "That's the maiden of the miasma... It's true,|it's amazing..."
+    },
+    "193": {
+        "「きゃああっ！？": "What the hell?"
+    },
+    "194": {
+        "「おお　かわいそうな　アスバル！|　聞き分けがないばっかりに|　死ななければ　ならないとはねえ……。": "Oh, poor Asbal! To think you had to die|because you didn't listen..."
+    },
+    "195": {
+        "「お前が死んだら　姉上と　同じ姿にして|　かわいがってやろう！|　ほおーれ　かかっておいで！": "When you're dead, I'll make you look just|like your sister and take good care of you!|Come and get me!"
+    },
+    "196": {
+        "「……そんなことは　させるものか！|　<cs_pchero>も　チカラを貸してくれ。|　オジャロス。お前を　倒してみせる！": "... I will not let you do this!<cs_pchero>I'm going to need your help. Oji... I'll beat|you!"
+    },
+    "197": {
+        "「母上……！　すぐに　お助けします！": "Mother...! I will help you right away!"
+    },
+    "198": {
+        "アスバルは　魔物になったエルガドーラに|リドのタリスマンを　使った！": "Asbal used Lido's Talisman on the demonized|Elgadora!"
+    },
+    "199": {
+        "「………………？": "...？"
+    },
+    "200": {
+        "「良かった……！　術は　成功だ！": "Oh, my God. The trick worked!"
+    },
+    "201": {
+        "「ばかめ……。すべては　手遅れだ！": "Bollocks... It's all too late!"
+    },
+    "202": {
+        "「姉上の肉体を　再生するときに|　ちょっとした　仕掛けを　しておいたのさ。": "When I was replaying your sister's body, I|did a little trick..."
+    },
+    "203": {
+        "「その女の身体は　すでに　爆弾と化した！|　自らの愛した国も　城も　みな|　己のチカラで　灰燼に帰すのだ！": "The woman's body has already been turned into|a bomb! The country she loves, her castle,|all will be burned to ashes by her own power!"
+    },
+    "204": {
+        "「なんだって……！？": "What the...?"
+    },
+    "205": {
+        "「アスバル。お前の魔力なら|　あるいは　解呪できるかもしれんが……|　さあて　何日かかるかなぁ？": "Oh... With your magic, you might be able to|break the spell, but... Now, how many days do|you think it'll take?"
+    },
+    "206": {
+        "「ああ。もうひとつ　方法はあったなあ……。|　愛しい母上を殺せば　ゼクレスを守れるよ。": "Oh. There was another way... Kill your dear|mother, protect Zekres..."
+    },
+    "207": {
+        "「王として　母を殺すか！|　息子として　国を道連れに　滅び去るか！|　お前の　望む未来を　選ぶがよい！！": "As king, I will kill my mother! As my son, I|will take my country and leave it to perish!|You can choose whatever future you wish!"
+    },
+    "208": {
+        "「……う……ん……。": "...う...ん..."
+    },
+    "209": {
+        "「母上！　僕です……アスバルです！！": "Mother! It's me... It's Asbal!"
+    },
+    "210": {
+        "「今から　あなたの肉体を　爆弾に変えた術を|　僕が　解呪します……。|　必ずや　お助けしますから　ご安心を……": "I will now break the spell that turned your|body into a bomb... Don't worry, I'll help|you."
+    },
+    "211": {
+        "「アスバル……この　愚か者めが！": "Asbal... You fool!"
+    },
+    "212": {
+        "「……母上？": "... Mother?"
+    },
+    "213": {
+        "「高貴なる　ゼクレス王家の血を引きながら|　大魔王にもなれず　オジャロスごときに|　後れを取るとは　なんたる役立たず！": "I'm a member of the royal bloodline of the|noble house of Zekres, but I can't even|become a demon lord, and I'm trailing behind|<br>|Ojalos!"
+    },
+    "214": {
+        "「……もはや　親でも　子でもない。": "... No longer a parent, no longer a child..."
+    },
+    "215": {
+        "「アスバル！|　お前など　産むのではなかったわ！": "Asbal! I should never have given birth to|you!"
+    },
+    "216": {
+        "「こ……こんな時まで|　あなたは　憎まれグチを……っ！": "I'm sorry. This is the last time you'll ever|hear me complain about... No!"
+    },
+    "217": {
+        "「はーっはっは！　母親が　憎いだろう！？|　さあ　怒りのままに|　その女を　たたき潰すがいい！！": "Ha-ha-ha! You hate your mother, don't you?|Now go ahead and smash her in your rage!"
+    },
+    "218": {
+        "「ア…ガアアア…アァアアア……！！": "Aah... Gaaaah... Aaaaah...!"
+    },
+    "219": {
+        "<center>それでいい……": "It's okay"
+    },
+    "220": {
+        "<center>ゼクレスを　頼んだぞ|我が息子……|いや　魔王アスバルよ……": "Take care of Zekres|My son|No, it's the Mad King Asval"
+    },
+    "221": {
+        "「………………。": "..."
+    },
+    "222": {
+        "「……あなたは　王として生きることを|　初めて　自分の意志で　選んだのね。": "... For the first time in your life, you have|voluntarily chosen to live as a king."
+    },
+    "223": {
+        "「ほら……。|　あなたの民が　王を　待っているわ。": "Look... Your people are waiting for their|king..."
+    },
+    "224": {
+        "「ほまれ高き　ゼクレス魔導国の民よ！": "Honorable people of the magical land of|Zekres!"
+    },
+    "225": {
+        "「王位を奪わんと　策謀をめぐらした|　大逆人オジャロスは　この　魔王自身の手で|　断罪したゆえ　安心してほしい！": "I'm sure you'll be able to understand why I'm|here."
+    },
+    "226": {
+        "「これまで　私の　ふがいなさゆえに|　みなに　苦労をさせてしまった。|　……ゼクレスの王として　心から詫びよう。": "I've given you all a hard time because of my|ineptitude. ... As King of Zekres, I|sincerely apologize..."
+    },
+    "227": {
+        "「私は　ここに　誓う！": "I hereby swear!"
+    },
+    "228": {
+        "「亡き母　エルガドーラが愛した|　この　ゼクレスを……|　我が生涯をかけて　守り　導いていくと！": "My late mother, Elgadora, loved this|Zekres... I will spend my life protecting and|guiding her!"
+    },
+    "229": {
+        "「……僕の母は|　炎のように　激しく　美しい人だった。": "... My mother was fiery, fierce, beautiful..."
+    },
+    "230": {
+        "「母は　誇り高い人だ。あんな姿になったとは|　誰にも　知られたくないだろう……。|　あの魔物の正体は　内密にしてほしい。": "My mother would be so proud... I don't think|she'd want anyone to know what she's become.|I don't want you to know who that monster is."
+    },
+    "231": {
+        "「………………。": "..."
+    },
+    "232": {
+        "「ゼクレスのために　母が　おこなったことの|　すべてが　正しかったとは思えないけれど……": "Of all the things my mother did for Zekres| I don't think I did everything right, but"
+    },
+    "233": {
+        "「それでも……僕や　叔父よりも|　あの人は　ずっと|　この国のことを　愛していたと思う。": "And yet... That man loved this country more|than me or my uncle..."
+    },
+    "234": {
+        "「僕が　アストルティアに憧れたのは|　母のいない世界で　暮らしたい……|　そんな　逃避の気持ちからだった。": "I longed to go to Astrutia because I wanted|to live in a world without my mother. I|wanted to escape."
+    },
+    "235": {
+        "「死んだ父さんが　赤ん坊だった僕を|　連れていこうとしたという|　自由の地　アストルティア……": "My dad died when I was a baby| He said he tried to take her with him| Astrutia, the land of the free"
+    },
+    "236": {
+        "「アストルティアでなら　何もかも　上手くいく。|　きっと幸せになれるんだと　信じてた。": "In Astrutia, everything will be fine. I know|I'll be happy."
+    },
+    "237": {
+        "「もし　きちんと　母と向き合っていれば。|　叔父の　うわべだけの優しさを　疑っていれば|　そうしたら　母は……。": "If I had just faced her properly... If I had|doubted my uncle's pretense of kindness, then|she would have..."
+    },
+    "238": {
+        "「僕は　もう　逃げないよ。": "I'm running away..."
+    },
+    "239": {
+        "「ゼクレス魔導国の　魔王として|　僕は　この国で　生きていく。|　……かつて　母が愛した　大切な故郷で。": "As the Demon Lord of the Zekres Magic|Kingdom, I will live in this country... ...|My mother once loved me."
+    },
+    "240": {
+        "「二度と　ゼクレスの民の血は　流させない。|　そのためには　魔界全体が|　平和でなくては　ならないんだ。": "The blood of the people of Zekres will never|be spilled again. For that to happen, the|entire demon world must be at peace."
+    },
+    "241": {
+        "「バルディスタや　ファラザードとも|　かなうなら　和平を結びたい。|　……君たちも　どうか　協力してくれ。": "I'll make peace with Valdista and Farazad if|I can... ... I'm asking you to help me..."
+    },
+    "242": {
+        "「アスバル……。|　あなたの決心　すごく　立派だと思うわ。": "Asbal... I think your decision is very|admirable."
+    },
+    "243": {
+        "「君たちには　本当に　世話になったね。|　ゼクレス魔導国の　魔王として|　礼を　言わせてもらうよ。": "I'm indebted to all of you... As the Demon|Lord of Zekres, I'd like to thank you..."
+    },
+    "244": {
+        "「それじゃ　また会おう。|　これからのゼクレスは　開かれた国にしていく。|　いつでも　立ち寄ってくれ。": "Well, then... From now on, Xecles will be an|open country... You can always stop by..."
+    },
+    "245": {
+        "「……そうそう　ベラストル家のリンベリィ。|　君にも　礼を言わなくてはならなかった。|　感謝しているよ。では。": "... Yes, yes, the Bellastre's, Lynn... I|suppose I should thank you, too. Thank you...|Goodbye."
+    },
+    "246": {
+        "「……ハァアアアアア！？": "... Haaaaaaaa!"
+    },
+    "247": {
+        "「シリルなんて　偽名を使って　私に近づいて！|　さんざん　コキ使ったあげくに|　なんなの　アスバルの　あの態度ッ！？": "Using the alias Cyril to get close to me!|After all the cajoling, what's with that|attitude of Asbal's?"
+    },
+    "248": {
+        "「リンベリィ　落ち着いて……？": "Linbery, calm down...?"
+    },
+    "249": {
+        "「うっるさあーーーーい！！": "Ooooohhhh!"
+    },
+    "250": {
+        "「……なるほどね。私に恋していると|　みんなの前で　認められないから|　あんな　強がりを　言ったってわけね。": "... I see... I can't admit in front of|everyone that I'm in love with you... so I'm|not going to admit it."
+    },
+    "251": {
+        "「見てなさい！　こうなったら|　絶対に　アスバルを　私の魅力で|　メロメロにして　ひざまずかせてやるッ！！": "Watch me! I'm going to make Asbal fall to his|knees with my charm!"
+    },
+    "252": {
+        "「もぉ～ッ　ムカツクぅ～ッ！！": "I'm so sick of you!"
+    },
+    "253": {
+        "「今の　この国で　信頼できるのは|　君たちしかいないんだ。|　……どうか　頼んだよ。": "You're the only people I can trust in this|country right now. ... Please, please..."
+    },
+    "254": {
+        "「アスバルからの熱い視線は　感じていたわ。": "I can feel Asbal's eyes on me..."
+    },
+    "255": {
+        "「だが……奥の手は　これからだよ！": "But... I'm just getting started!"
+    },
+    "256": {
+        "「まさか……！？": "You don't think...?"
+    },
+    "257": {
+        "「さきほど　退位すると　宣言したのは|　反逆者を油断させるための　罠である！": "My earlier announcement that I would abdicate|was a trap to catch the rebels off guard!"
+    },
+    "258": {
+        "ゼクレス魔導国の問題を　解決できたので|次は　バルディスタ要塞へ　向かおう。": "Now that we've solved the problem in the|Zekres Mage Nation, we're on our way to|Valdista Fortress..."
+    },
+    "259": {
+        "ゼクレス魔導国と　バルディスタ要塞|双方の問題を　解決できたので|ゴダ神殿にいる　魔仙卿に報告しに行こう！": "Now that we've solved the problems of both|the Zekres Mage Nation and the Valdista|Fortress, let's go report to the Demon Lord|<br>|at the Temple of Goda!"
+    },
+    "260": {
+        "<cs_pchero>は|リドのタリスマン（だいじなもの）を|手に入れた！<me 60>": "<cs_pchero>got Lido's Talisman, the most important|thing!<me 60>"
+    },
+    "261": {
+        "<center>はてなき空　はてなき時　めぐりめぐる千の星|ひとつの花　ひとつの声　地に満ちる　千の生命": ""
+    },
+    "262": {
+        "<center>うつろう空　過ぎゆく時|花が枯れ　星が消え去ろうとも……": "Wandering sky, passing time|Even as the flowers wither and the stars fade away"
+    },
+    "263": {
+        "<pc>は|アスバルのメモ（だいじなもの）を|手に入れた！<me 60>": "<pc> got Asbal's memo (the important one)!<me 60>"
+    }
+}

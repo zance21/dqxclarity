@@ -1,0 +1,872 @@
+{
+    "1": {
+        "「…………ここは　にぎやかね。": "... This place is crowded..."
+    },
+    "2": {
+        "「命の声に　満ちているの。|　それに　光も……。": "Filled with the voice of life... And the|light..."
+    },
+    "3": {
+        "「闇の中で　あなたは　私を照らしだした。": "In the darkness, you shine on me..."
+    },
+    "4": {
+        "「……あなたの光は　また　私を導くの？<yesno><close>": "... Will your light guide me again?<yesno><close>"
+    },
+    "5": {
+        "「…………そう。": "....."
+    },
+    "6": {
+        "「ここに　いたか……イルーシャよ。": "There you are... Ilou..."
+    },
+    "7": {
+        "「……この者は　いまだ|　自分の名前以外　思いだせぬようだ。": "... This one still can't remember anything|but his own name."
+    },
+    "8": {
+        "「この地で　しばし　保護していたが|　依然　その正体は　わからぬまま。": "We've been protecting it here for a while,|but we still don't know what it is."
+    },
+    "9": {
+        "「だが……|　ひとつだけ　わかっていることがある。": "But... I know one thing..."
+    },
+    "10": {
+        "「イルーシャが　結晶より現れた時……|　そなたの体内の　魔瘴を　取り除いたであろう。|　この者には　魔瘴を　あやつるチカラがある。": "When Ilusha emerged from the crystal... I|removed the miasma from your body. This one|has the power to control the miasma..."
+    },
+    "11": {
+        "「……魔瘴を止める方法とは　そのことだ。|　そなたには　イルーシャと共に　魔界をめぐり|　各地の魔瘴塚を　封じ込めてほしいのだ。": "... How do we stop the demon miasma? I want|you to go around the world with Ilusha and|contain the mounds of miasma..."
+    },
+    "12": {
+        "「……イルーシャは　そなたと　一緒ならば|　引き受けると言うのでな。なぜか　この娘は|　そなたに　なついているようだ。": "... Ilsa says she'll take care of you if|you're with her. I don't know why she's so|attached to you..."
+    },
+    "13": {
+        "「魔瘴塚がある地は……　ジャリムバハ砂漠|　ゲルヘナ幻野　ベルヴァインの森の３箇所だ。|　どの魔瘴塚からでも　かまわぬ。": "The land where the magical mounds are|located... Jalim Baha Desert, Gehenna Field,|Belvain Forest, 3... You can get to the|<br>|miasma from any of the mounds..."
+    },
+    "14": {
+        "「３つの魔瘴塚の封印に　成功したら|　ふたたび　我のもとに来るがよい。頼んだぞ。": "If I succeed in sealing the three miasma|mounds, you will come to me again. Please..."
+    },
+    "15": {
+        "「ぼくは　こちらで　待っております！|　イルーシャさん　いってらっしゃいませ！": "I'll be waiting for you here. I'll be waiting|for you here."
+    },
+    "16": {
+        "「……あなたは　そこにいて。": "... You, there..."
+    },
+    "17": {
+        "「テキスト削除": "text deletion"
+    },
+    "18": {
+        "「…………うっ。": "....."
+    },
+    "19": {
+        "「…………見えたのね？": "... You saw it, didn't you?"
+    },
+    "20": {
+        "「私は　大丈夫。": "I'm ..."
+    },
+    "21": {
+        "「……さあ　次の場所に　行きましょう。": "... Now, let's go to the next place..."
+    },
+    "22": {
+        "「……さあ　３つ　終わったから|　魔仙卿のところに　戻りましょう。": "... Now that we've finished all three, we'll|return to Lord Immortal..."
+    },
+    "23": {
+        "「……日に日に　魔瘴が活性化してるようです。|　いよいよ　大魔瘴期も近いってことですかねえ。": "... The miasma is getting more and more|active every day... That means the miasma|period is almost upon us..."
+    },
+    "24": {
+        "「そんで　亡国ゴーラの近くに位置する|　我ら　バルディスタが|　いちばん　危ないってワケですなァ。": "So we Valdistas, who are located near the|exiled nation of Gora, are the most|dangerous..."
+    },
+    "25": {
+        "「……いまいましい。|　大魔王選定の儀などという　くだらぬ茶番で|　無駄な時間を使った。": "... Now... We've been wasting our time on|this stupid farce called the \"Great Demon|King Selection Ceremony."
+    },
+    "26": {
+        "「……貴様　なぜ　ここに？": ""
+    },
+    "27": {
+        "「……やめろ。|　かまっている時間も　惜しい。": "...... I don't have time to worry about it."
+    },
+    "28": {
+        "「見かけないカオがあるな。": "I don't see any cao..."
+    },
+    "29": {
+        "「……フン　まあいい。": "... Hmm..."
+    },
+    "30": {
+        "「さあ　国に帰り|　アストルティアへの侵攻準備を　再開するぞ。|　我らには　もはや　一刻の猶予もない。": "Now we must return home and resume|preparations for the invasion of Astrotasia.|We no longer have a moment to lose."
+    },
+    "31": {
+        "「あなたは　そこにいて。": "Are you there..."
+    },
+    "32": {
+        "「終わったわ。": "The end..."
+    },
+    "33": {
+        "「……さあ　次の場所に　行きましょう。": "... Now, let's go to the next place..."
+    },
+    "34": {
+        "「……さあ　３つ　終わったから|　魔仙卿のところに　戻りましょう。": "... Now that we've finished all three, we'll|return to Lord Immortal..."
+    },
+    "35": {
+        "「なんだ　貴様らは！　なぜ　ここにいる！|　さっさと　立ち去らないと　痛い目を見るぞ！": "What the hell is wrong with you people? Why|are you here? If you don't get the hell out|of here, I'm gonna hurt you!"
+    },
+    "36": {
+        "「……これこれ　そう居丈高に　言うでない。|　旅の方が　おどろかれているであろう。": "... Well, well, well. I'm sure the traveler's|a bit surprised..."
+    },
+    "37": {
+        "「ここは　魔瘴が噴きだす　魔瘴塚です。|　近づいたら　危ない。|　はやく　離れたほうが　いいですぞ。": "This is the miasma that's supposed to cause|the fever... If you get too close... The|sooner we get away from it, the better."
+    },
+    "38": {
+        "「……私なら　大丈夫。|　それを　止めにきたの。": "... I would... I would have stopped it..."
+    },
+    "39": {
+        "「そこで　見ていて。": "So I saw..."
+    },
+    "40": {
+        "「ま…魔瘴が　消えていく……？": "Oh, no. The miasma is fading away?"
+    },
+    "41": {
+        "「いやぁーっ！　すごいすごいっ！|　これは　おどろきましたな！": "Oh, no! This is amazing! This is amazing!"
+    },
+    "42": {
+        "「……おっと！　申し遅れましたな。|　ゼクレス魔導国の　オジャロスという者です。|　以後　お見知りおきを。": "... Oops! I'm late... Ojaloth of the Zekres|Mage Nation... Nice to meet you..."
+    },
+    "43": {
+        "「このお方は　エルガドーラ王太后様の弟君……|　オジャロス大公で　あらせられるぞ！|　この下等魔族めが……　平伏せぬか！": "This is the brother of the Dowager Queen El|Ghadora... He is the Grand Duke of Ojalos!|You lowly demon... Will you not bow down!"
+    },
+    "44": {
+        "「領地内の魔瘴塚が　活性化しはじめたと聞いて|　様子を　見にきていたのですが……|　あなたのおかげで　もう安心だ！": "I've heard that the miasma mounds in your|territory have begun to activate, so I've|come to check on you... Thanks to you, we're|<br>|safe now!"
+    },
+    "45": {
+        "「それにしても……　魔瘴をあやつるなんて|　すばらしいチカラですな！|　あのような奇跡は　はじめて　見ましたぞ！": "But still... To be able to control the miasma|is an amazing feat! I've never seen a miracle|like that before!"
+    },
+    "46": {
+        "「大いなる闇の根源から　生まれし魔瘴と|　近しい存在……あなたこそ　まさに|　魔瘴の巫女と　お呼びするに　ふさわしい！": "You are close to the demon miasma that|originates from the source of great|darkness... You're the one who deserves to be|<br>|called the miasma maiden!"
+    },
+    "47": {
+        "「魔瘴の…巫女……？": "The miasma... Priestess...?"
+    },
+    "48": {
+        "「おそれながら　オジャロス様！|　そろそろ　エルガドーラ様との|　約束のお時間が……。": "With all due respect, Master Ojalos! It's|almost time for my appointment with Lord El|Ghadora..."
+    },
+    "49": {
+        "「おお　そうであった。|　姉上は　時間に厳しいからのう……。": "Oh, yes... You're very punctual."
+    },
+    "50": {
+        "「キミたち　魔瘴塚を止めてくれて　助かった！|　ゼクレス魔導国を代表して　礼を言いましょう。|　……それでは　失敬しますぞ。": "You guys did a great job stopping the miasma!|On behalf of the Zekres Mage Nation, I'd like|to thank you... Thank you... Now, if you'll|<br>|excuse me..."
+    },
+    "51": {
+        "「……さあ　次の場所に　行きましょう。": "... Now, let's go to the next place..."
+    },
+    "52": {
+        "「……さあ　３つ　終わったから|　魔仙卿のところに　戻りましょう。": "... Now that we've finished all three, we'll|return to Lord Immortal..."
+    },
+    "53": {
+        "「……キキッ　ミタゾ　ミタゾ。": "... Kiki, Mitazo..."
+    },
+    "54": {
+        "「ほう……。|　見慣れぬ客が　来たな。": "Well... I've never seen you before."
+    },
+    "55": {
+        "「……ホッホッホッ。": "... Ho-ho..."
+    },
+    "56": {
+        "「お初に　お目にかかります。|　私は　ゴーラの国の長老　ヌブロと申します。": "It is a pleasure to meet you... I am Nublo,|an elder of the land of Gora..."
+    },
+    "57": {
+        "「直接　そちらに　お伺いできなかったゆえ……|　こうして　お話しさせていただくことを|　お許しくださいませ。": "Since I was unable to visit you in person...|Please forgive me for speaking to you like|this..."
+    },
+    "58": {
+        "「ゴーラ……と言ったな。": "Gora... I said..."
+    },
+    "59": {
+        "「……魔幻都市ゴーラ。|　先代大魔王　マデサゴーラの本拠であった地だ。": "... Demon City... The home of Madesagora, the|previous Great Demon King..."
+    },
+    "60": {
+        "「だが……もとより　魔瘴の深き地だったゴーラは|　ある時　その大噴出によって　滅びた。": "But... Gora was originally a deep miasma-|heavy place, but one day, a huge eruption of|miasma..."
+    },
+    "61": {
+        "「……誰もが　そう　思っていたはずだ。": "... That's what we all thought."
+    },
+    "62": {
+        "「ホッホッホッ　おっしゃる通りです。|　ですが……少数の民は　難を逃れ|　今もなお　ゴーラの地で　暮らしておるのです。": "Ho, ho, ho. You're right... But... But there|are a few who escaped and still live in the|land of the Gora."
+    },
+    "63": {
+        "「……なんとも　しぶといものだな。|　そのゴーラの長老の　用向きとなれば……？": "... ...the most resilient of all... And what|does the elder Gora have to say about all|this?"
+    },
+    "64": {
+        "「かろうじて　生きのびた我々ですが……|　さらなる魔瘴の増加に　苦しんでおります。": "We've barely survived, but... But we're still|suffering from the effects of the growing|miasma."
+    },
+    "65": {
+        "「このままでは　遠からず|　ゴーラは　完全に　死の大地となり果てます。": "At this rate, Gora will soon be a completely|dead land..."
+    },
+    "66": {
+        "「そこで……|　そちらに　いらっしゃる　魔瘴の巫女様。|　あなた様を　ゴーラへと　ご招待したいのです！": "So... I'd like to invite you to Gora! I'd|like to invite you to Gora!"
+    },
+    "67": {
+        "「……魔瘴の巫女とな？|　それは……　イルーシャのことか？": "... The maiden of the miasma? Is that... You|mean Ilusha?"
+    },
+    "68": {
+        "「あなた様のおチカラは　邪眼樹を通して|　拝見させていただきました……。": "I've seen your power through the evil eye|tree..."
+    },
+    "69": {
+        "「イルーシャ様であれば……|　ゴーラの深き魔瘴をも　鎮められましょう。|　どうか　おチカラを　お借りできませぬか？": "If it's Lady Ilusha... I'm sure she can calm|the miasma of the Gora. Can I ask for your|help?"
+    },
+    "70": {
+        "「しかし……かの地は　危険に過ぎる。|　イルーシャが行くには　あまりにも……": "But... The land is too dangerous. It's too|dangerous for Ilusha to go there."
+    },
+    "71": {
+        "「……行ってみたい。": "... Go..."
+    },
+    "72": {
+        "「私のチカラが　役に立つのなら。|　それに……何か　思いだせるかもしれない。": "My powers could be useful. And... I might be|able to remember something."
+    },
+    "73": {
+        "「<pc>と　一緒なら|　どんな危険な場所でも　平気よ。": "<pc> If you're with me, you can go to any|dangerous place..."
+    },
+    "74": {
+        "「……ホッホッホッ。|　なんと　ありがたき　お言葉。": "... Ho-ho... Oh, thank you..."
+    },
+    "75": {
+        "「私どもは　ゴーラにて　お待ちしております。|　道中は　魔瘴が深くなっておりますので|　気をつけて　お越しくださいませ……。": "We will be waiting for you at Gora... The|miasma has deepened along the way, so please|be careful..."
+    },
+    "76": {
+        "「……この先ね。": "...こ..."
+    },
+    "77": {
+        "「……うっ。": "....."
+    },
+    "78": {
+        "「……心配しないで。私は　平気。": "... I'm worried about... I'm..."
+    },
+    "79": {
+        "「……この先は　魔瘴が深いようだけれど|　私が魔瘴を払うから　大丈夫よ。|　さあ　ゴーラの長老様に　会いにいきましょう。": "... The miasma seems to be deeper than this,|but I'll get rid of it, so... I'm going to|meet the Gora Elder."
+    },
+    "80": {
+        "「お待ちしておりました！|　魔瘴の巫女様……そして　護衛のお方！|　どうか　私たちを　助けてくださいませ！": "We've been expecting you! The miasma|maiden... And your guards! Please help us!"
+    },
+    "81": {
+        "「巫女様が持つ　ふしぎなおチカラで　我らを|　魔瘴から　守ってくださると　お聞きしました！": "I've heard that the miko has magical powers|that can protect us from the demon miasma!"
+    },
+    "82": {
+        "「おお……巫女様は|　なんと　慈悲深いのでしょう！|　ゴーラの民を　お救いください！": "Oh... How merciful is this priestess! Save|the people of Gora!"
+    },
+    "83": {
+        "「その……　私は……。": "I mean... I'm..."
+    },
+    "84": {
+        "「これこれ。巫女様を　こまらせるでない。": "I'll... I'll make the miko squirm."
+    },
+    "85": {
+        "「改めまして……　ようこそ　ゴーラへ。|　はるばる　ご足労いただき　感謝しまする。": "Once again... Welcome, Go... Thank you for|coming all the way from..."
+    },
+    "86": {
+        "「ここは　大魔王マデサゴーラ様の城だった場所。|　外は　魔瘴に満ちていたでしょう？|　我らは避難所として　ここに住んでおるのです。": "This was the castle of the Great Demon Lord|Madhesagora... Isn't it supposed to be full|of miasma? We live here as a refuge..."
+    },
+    "87": {
+        "「……民が　興奮したようで　すみませぬな。|　長き間　魔瘴に苦しめられてきた|　我らにとって　巫女様は　救世主なのです。": "... I'm sorry, I think the people got|excited... We've been tormented by the demon|miasma for so long... the miko is our|<br>|savior..."
+    },
+    "88": {
+        "「さて……本日は　もう　お疲れでしょう。|　おふたりのために　部屋を　ご用意しました。|　どうぞ　こちらへ……": "Well... I'm sure you're tired today. I've|prepared a room just for you two. This way,|please."
+    },
+    "89": {
+        "「よくぞ来た！　魔瘴の巫女！": "You've come too far! The miasma maiden!"
+    },
+    "90": {
+        "「オレ様の芸術で　歓迎してやろう！": "I'll welcome you with my art!"
+    },
+    "91": {
+        "「……フン　キマったな。|　オレ様の芸術に　目を奪われて|　言葉も　出ないと見た。": "... Hmm. Kima... I'm so lost in my own art,|I'm speechless."
+    },
+    "92": {
+        "「これ！　巫女様の前で　なんと　無礼な！": ""
+    },
+    "93": {
+        "「こら！　マデサゴーラ様が遺された　城の壁に|　ラクガキするなと　何度言えば　わかるのだ！": "Hey! How many times do I have to tell you not|to graffiti the walls of the castle|Madhesagoras left us!"
+    },
+    "94": {
+        "「ラクガキではない！　芸術だ！": "It's not graffiti! It's art!"
+    },
+    "95": {
+        "「それに……　貴様らのほうこそ　無礼者だろう！|　いったい　オレ様を　誰だと思っている！？": "And you... You're the ones who are rude! Who|the hell do you think you're talking to?"
+    },
+    "96": {
+        "「オレ様は　魔界の芸術に革命を起こす|　不世出の芸術家……　ペペロゴーラ様だぞ！": "I am the unparalleled artist who will|revolutionize the art of the demon world.|Peperogolla!"
+    },
+    "97": {
+        "「……な…なんだ！？": "... What the... What the hell?"
+    },
+    "98": {
+        "「……うわー　離せっ！　無礼者！|　オレ様の　芸術的な髪型が乱れる！": "... Whoa! Get off me! Rude! You're messing|with my artistic hair!"
+    },
+    "99": {
+        "「くそっ……　わからず屋の　愚民どもめっ！|　今に　オレ様の芸術が　いかに|　すばらしいかを　知らしめてやるからなーっ！": "Damn you... You ignorant fools! Now I'm going|to show you just how wonderful my art is!"
+    },
+    "100": {
+        "「……お見苦しいところを　お見せしましたな。|　あのペペロゴーラは　マデサゴーラ様の|　孫に当たる　唯一の血縁なのですが……": "... I'm sorry to show you this... That|Pepelogora is the only blood relative of|Madhesagora's grandson..."
+    },
+    "101": {
+        "「これが　手のつけられない　問題児でして……|　我らも皆　手を焼いておるのですよ。": "He's been a real problem for us. We've all|had to deal with him..."
+    },
+    "102": {
+        "「あの……私たちは　探しものがあって|　ここまで　来ました。": "Um... We came all this way to find..."
+    },
+    "103": {
+        "「……大魔王の覇印というものです。": "... The High Seal of the Great Demon King..."
+    },
+    "104": {
+        "「ふむ……？　大魔王の覇印とな……。": "Hmm...? The High Seal of the Great Demon|King..."
+    },
+    "105": {
+        "「確かに　マデサゴーラ様が　そのようなものを|　持っていたと　記憶しておりますが……|　正直　どこにあるかは　わかりかねますな。": "I seem to recall that Madhesagoras have|something like that, but... I honestly don't|know where it is..."
+    },
+    "106": {
+        "「大魔王の覇印については　情報を集めさせます。|　今日は　もう　休まれてはいかがでしょう？|　何か　わかったら　お知らせいたします。": "I've been gathering information about the|High Seal of the Great Demon Lord. Why don't|you take the rest of the day off? I'll let|<br>|you know if I learn anything..."
+    },
+    "107": {
+        "「お部屋は　あちらの大階段を　のぼって|　右手に　進んだところに　ございます。|　さあ　巫女様　こちらへどうぞ……。": "Your room is over there, up the grand|staircase to your right... Come this way,|miko..."
+    },
+    "108": {
+        "「……先に　部屋に行ってるわね。": "I'll... I'll go to my room first."
+    },
+    "109": {
+        "「ちょ～っと　待ったぁぁぁ！！": "Wait, wait, wait, wait!"
+    },
+    "110": {
+        "「……マデサゴーラじじいの|　アトリエに行くと　言ったな！": "... You said you were going to Grandpa|Madhesagora's studio!"
+    },
+    "111": {
+        "「ならば　その案内役……このペペロゴーラ様が|　引き受けようではないか！": "Well, then... I, Lady Peperogolla, will take|care of it!"
+    },
+    "112": {
+        "「……何を　バカなことを！|　お前などが　行っても|　巫女様の　足手まといになるだけだ！": "... What nonsense! If you go there, you'll|only be a burden to the miko!"
+    },
+    "113": {
+        "「なぜだ！？　じじいのことなら|　オレ様が　ゴーラの誰よりも　知っているぞ！": "Why? I know my grandfather better than anyone|in Gora!"
+    },
+    "114": {
+        "「いいや　ならん！|　おふたりは　遊びにいくわけではないのだ。": "No, I can't! You two aren't going out to|play..."
+    },
+    "115": {
+        "「だいたい　お前にできることと言えば|　お絵かき程度のものではないか。|　そのお前が　何の役に立つと　言うのだ！": "The only thing you can do is draw... What use|are you to me?"
+    },
+    "116": {
+        "「なんだと！　お絵かきではない！|　オレ様は……　芸術を……っ！": "What the hell! I'm not drawing! I'm... I'm an|artist... No!"
+    },
+    "117": {
+        "「……クソッ　石アタマめ！|　どいつも　こいつも……わからず屋だッ！": "... Goddamn you, you're stoned! They're|all... He doesn't know what he's doing!"
+    },
+    "118": {
+        "「…………。": "..."
+    },
+    "119": {
+        "「ふう……　またも　お見苦しいところを……。": "Well... I'm sorry again."
+    },
+    "120": {
+        "「ペペロは……　幼き頃に　両親を失いまして。|　マデサゴーラ様に代わって|　私が　面倒を見ておったのです。": "Pepero... He lost his parents when he was|very young. I took care of him on behalf of|Madhesagora."
+    },
+    "121": {
+        "「偉大な芸術家である　祖父の影響か|　芸術を志すようになったのですが|　そのマデサゴーラ様も　亡くなられて……": "My grandfather was a great artist| I was inspired to pursue art| And now that Madhesagora is dead"
+    },
+    "122": {
+        "「あれも　かわいそうな子なのです。|　それで　きかん坊になっておるんですな。": "He's a poor boy too... That's why he's a|little boy..."
+    },
+    "123": {
+        "「おっと　話の途中でしたな。": "Oops, I was interrupting..."
+    },
+    "124": {
+        "「……近年　魔瘴が増えていると　話しましたな。|　その魔瘴が　発生していると思われるのが……|　魔幻園がある　ゴーラの下層なのです。": ""
+    },
+    "125": {
+        "「魔幻園で　大魔王の覇印を　探されるのであれば|　そのついでで　かまいませんので|　魔瘴大噴出の原因も　調べていただけませんか？": "If you are searching for the High Seal of the|Great Demon Lord in the Demon's Garden, could|you also investigate the cause of the demon|<br>|miasma outpouring while you're there?"
+    },
+    "126": {
+        "「魔幻園は　今は　魔瘴に沈んでおり|　もともとあった道も　地形が変わってしまって|　使うことが　できませぬ。": "The demon garden is now under the miasma, and|the original path has been altered so that it|can no longer be used..."
+    },
+    "127": {
+        "「現在　魔幻園へ行く手段は　ただひとつ……|　マデサゴーラ様が　遺された　不思議な乗り物|　『奈落へいざなう棺桶』のみなのです。": "Currently, there is only one way to reach the|Demon Garden... Madesagora's mysterious|vehicle, the Coffin to the Abyss."
+    },
+    "128": {
+        "「奈落へいざなう棺桶の　乗り場でしたら|　この宮殿を出て　十字路を　西に進んでいけば|　たどり着けましょう。": "If you're looking for a place to board a|coffin that will take you to the abyss, leave|the palace and go west at the crossroads to|<br>|get there."
+    },
+    "129": {
+        "「おふたりとも……くれぐれも　お気をつけて。|　よろしく　頼みましたぞ。": "You two... Take care of yourselves. I'll be|counting on you."
+    },
+    "130": {
+        "「フハハハハッ！|　待っていたぞ　魔瘴の巫女！": "Hahahahaha! I've been waiting for you, maiden|of the miasma!"
+    },
+    "131": {
+        "「あなたは……　ペペロゴーラくん？|　どうして　ここに……": "Are you... Mr. Peperogolla? Why are you here?"
+    },
+    "132": {
+        "「フン！　決まっているだろう。|　オレ様も　魔幻園に行きたいからだ！": "Hmph! It's obvious... Because I want to go to|the Demon Garden too!"
+    },
+    "133": {
+        "「いいか？　ゴーラが壊滅する前に|　マデサゴーラのじじいが　アトリエにこもって|　何か　大作を作っていたことは　聞いただろう。": "You know what? Before the Gora was destroyed,|we heard that Madhesa Gora's grandfather was|holed up in his studio, working on some kind|<br>|of masterpiece..."
+    },
+    "134": {
+        "「その作品は……　マデサゴーラ芸術を愛する|　好事家たちの間で　幻の大作と呼ばれていてな。|　オレ様は　どうしても　それを見てみたいのだ！": "The work is... It's been called the greatest|work of art of all time by lovers of|Madhesagora art. I want to see it. I want to|<br>|see it!"
+    },
+    "135": {
+        "「……というわけだ！|　オレ様を　じじいのアトリエに連れていけ！<yesno><close>": "... That's why! Take me to my grandpa's|workshop!<yesno><close>"
+    },
+    "136": {
+        "「なんだか　放っておけないわ。|　連れていってあげましょう？<yesno><close>": "I don't know. I can't leave him. Why don't we|take him with us?<yesno><close>"
+    },
+    "137": {
+        "「そんなこと言わずに……　お願いよ？<yesno><close>": "Don't say that. Please?<yesno><close>"
+    },
+    "138": {
+        "「フハハハ！　さすがは　巫女と　その護衛だ！|　じつに　ものわかりがいいな！|　オレ様の子分に　してやってもいいぞ！": "Hahahaha! That's the priestess and her|bodyguard! You really have a good head on|your shoulders! I'll make you my henchman!"
+    },
+    "139": {
+        "「そうと決まれば　さっそく|　魔幻園マデッサンスに　出発だ！": "Now that we've decided that, we're off to the|Madessence!"
+    },
+    "140": {
+        "「フン……これが　じじいが作った|　奈落へいざなう棺桶か。魔幻園には|　別の道から行っていたから　はじめてだ。": "Hmm... This is the abyss my grandfather|created. I've been going to the Garden of the|Magi from the other way, so this is my first|<br>|time..."
+    },
+    "141": {
+        "「……おい　巫女と　その護衛。|　何をしている！　はやく　乗れ！": "... Hey, miko and that... What are you doing!|Come on, get in!"
+    },
+    "142": {
+        "「……ペペロゴーラくん。巫女と　護衛じゃなくて|　ちゃんと　名前で呼んでね。|　私はイルーシャ。それから　<pc>よ。": "... Pepelogo... I'm not a priestess or a|guard, I'm a priest by name... I'm Il...|And...<pc> Yo."
+    },
+    "143": {
+        "「それに　巫女かどうかも　わからないの。|　……記憶がなくて　おぼえていないから。": "And I don't even know if she's a priestess...|I... I don't remember. I don't remember..."
+    },
+    "144": {
+        "「フン……　記憶がないクセに|　巫女呼ばわりされるがままに　なっているとは|　なんという　主体性のないヤツだ！": "Hmph... You have no memory, and yet you're|letting yourself be called a priestess...|What a lack of initiative!"
+    },
+    "145": {
+        "「そんな生き方は　芸術性に欠けるぞ。|　もっと　自分というものを　表現すべきだ。|　……このペペロゴーラ様のようにな！": "That way of life is not artistic. You have to|express yourself more... ... Like this|Peperogolla!"
+    },
+    "146": {
+        "「……ふふっ。": "......"
+    },
+    "147": {
+        "「……なんだ？　何が　おかしい？|　オレ様を　バカにしているなら……": "... What is it? What's so funny? If you think|I'm stupid..."
+    },
+    "148": {
+        "「う…うわッ……。": "Ugh... Ugh..."
+    },
+    "149": {
+        "「な…なんだ……この妙な乗り物は……。": "What the... What the... This strange|vehicle..."
+    },
+    "150": {
+        "「ま…待てッ　心の準備が……": "No Wait I'm not ready"
+    },
+    "151": {
+        "「うッ…うわァーーーッ！！": "Ugh... Whoa!"
+    },
+    "152": {
+        "「はァはァ……　おそろしい乗り物だった。|　まったく　じじいも　趣味が悪い。": "Hahaha... Awesome ride... My grandfather's|hobby..."
+    },
+    "153": {
+        "「そうかしら？|　私　もう一度　乗ってみたい……。": "Do you think so? I'd like to ride it again."
+    },
+    "154": {
+        "「……魔瘴が深いわ。|　ふたりとも……私から　離れないで。|　気をつけて　進みましょう。": "... The miasma... Both of you... Stay away|from me. Careful, we're moving on..."
+    },
+    "155": {
+        "「よしッ！　ここに|　じじいが描いた　幻の大作があるはず……。": "Yes! I'm sure this is where my grandfather|did his greatest work..."
+    },
+    "156": {
+        "「アトリエが……　な　なんてことだ。|　魔物のしわざなのか？|　天井が　壊れているじゃないか！": "My studio... Oh, my... Is this some kind of|demon thing? The ceiling's broken!"
+    },
+    "157": {
+        "「……ない！　ないだとッ！？": "... No! Nothing?"
+    },
+    "158": {
+        "「幻の大作が……　見当たらないだとッ！？": "A great work of art... You can't find it?"
+    },
+    "159": {
+        "「これ……。": "This..."
+    },
+    "160": {
+        "「なんだッ！？　何か　見つけたのかッ！？": "What the hell? Did you find something?"
+    },
+    "161": {
+        "「おお　すごいぞ！|　これは　幻の大作のデッサンだ！": "Oh, great! This is a drawing of a great work|of art!"
+    },
+    "162": {
+        "「……なるほど。魔法のカンバスの中に|　生きた魔物たちを封じ込め　それを絵として|　作品に　仕上げようとしていたのか！": "... Oh, no. You're trying to enclose living|demons in a magical canvas and turn it into a|painting!"
+    },
+    "163": {
+        "「『ほとばしる命の狂宴』というのが|　作品のタイトルか。ふむふむ……": "\"The Frenzy of Life\" is the title... Mmm-|hmm..."
+    },
+    "164": {
+        "「この絵の　制作ノートみたい。|　……制作の過程が　書かれているわ。": "My notes on this painting... ... It describes|the process of making this painting..."
+    },
+    "165": {
+        "「……数百匹の魔物どもを　捕らえることにも|　苦労したが……　魔瘴竜の封印には|　大いに難儀させられた。": "... We had a hard time catching hundreds of|demons... But it took a lot of effort to seal|the miasma dragon..."
+    },
+    "166": {
+        "「魔瘴竜を　絵の中に　封じ込めるには|　余が創った　特殊な顔料を使って|　目に紋章を描き　ヤツを弱める必要があった……": "How do we contain the miasma in the painting?| Using a special pigment that I created| I had to draw a sigil over his eyes to weaken his"
+    },
+    "167": {
+        "「……顔料？　それは　じじいから拝借して|　オレ様が　使っている　顔料のことか。": "... Pigment? That's the pigment that I use,|borrowed from my grandfather..."
+    },
+    "168": {
+        "「この顔料に　そんなチカラがあったとはな。": "This pigment had such power..."
+    },
+    "169": {
+        "「……そうして　絵の中に　竜を引きずり込み|　特製のカンバスに　大魔王の覇印を押すことで|　ようやく　魔瘴竜を　封印できるのだ……。": "... And so, by dragging the dragon into the|painting and stamping the Great Demon Lord's|seal on the special canvas, we can finally|<br>|seal the miasma dragon..."
+    },
+    "170": {
+        "「……果たして|　『ほとばしる命の狂宴』は完成した。": "... And so, \"The Crazy Feast of Surging Life\"|is complete..."
+    },
+    "171": {
+        "「だが……できあがった『狂宴』には|　何かが　欠けている。|　余が望んだものは　この程度か？": "But... But there's something missing from the|resulting madness. Is this what I wanted?"
+    },
+    "172": {
+        "「余は……生命のあがきを！　苦悩を！　葛藤を！|　描きたかったのではないのか！？": "The rest... Life's struggle! Agony! The|struggle! Isn't that what you wanted to|portray!"
+    },
+    "173": {
+        "「……この絵は　失敗作だ。すててしまおう。": "... This picture is lost... I lost it..."
+    },
+    "174": {
+        "「……だが　費やした時間は　無駄ではなかった。|　本当に　生きた作品を　創る方法……|　その答えが　見えた気がする。": "... But the time you've spent here has not|been in vain. I think I've found the answer|to how to create a truly living work of art.|<br>|I think I've found the answer."
+    },
+    "175": {
+        "「……幻の大作を作るのに|　大魔王の覇印が　使われていたみたい。|　手がかりが　つかめたわ。": "... The High Seal of the Great Demon King was|used to create a fantastic masterpiece. I've|got a clue..."
+    },
+    "176": {
+        "「幻の大作を……|　す…す……": "A great work of fantasy| Su Su"
+    },
+    "177": {
+        "「お…終わった……。|　オレ様の　芸術的人生は　おしまいだ……。": "Oh... It's over... I'm done with my artistic|life."
+    },
+    "178": {
+        "「……どうして？": "... Why?"
+    },
+    "179": {
+        "「オレ様は……　ここのところ　スランプでな。|　いくら　絵を描いても　描いても|　何かが足りないと　感じていたのだ。": "I'm... I've been feeling... No matter how|much I draw, no matter how much I paint, I|always feel that something is missing..."
+    },
+    "180": {
+        "「だから　じじいが没頭して　制作したという|　幻の大作を見れば……　きっと　オレ様の中の|　芸術家魂に　火をつけてくれるはずだった！": "That's why, when I saw the great work of art|that my grandfather had devoted himself to...|I'm sure it would've ignited the artist in|<br>|me."
+    },
+    "181": {
+        "「そうすれば……|　ゴーラの愚民どもを　見返せるような|　世紀の傑作が　創れる気がしたのだ！": ""
+    },
+    "182": {
+        "「オレ様は……　じじいみたいな|　すごい芸術家に　なりたかった……。|　それで　たくさん絵を描いて　努力してきた。": "I wanted to be... I wanted to be a great|artist like my grandpa. I wanted to be a|great artist like my grandpa... so I drew a|<br>|lot, and I worked hard..."
+    },
+    "183": {
+        "「だが　どれだけ　描いても……|　誰にも　認めてもらえぬ。|　ただ　ラクガキだと　バカにされるだけだ。": "But no matter how much I draw... No matter|how much I draw... They'll just make fun of|me for being a scribbler."
+    },
+    "184": {
+        "「じじいと違って　オレ様には|　才能が　ないのだ……。": "Unlike my grandfather, I don't have the|gift..."
+    },
+    "185": {
+        "「ペペロくん……　落ち込まないで。": "Mr. Peppero... Depressed..."
+    },
+    "186": {
+        "「すてられた　幻の大作だって|　見つかるかもしれないわ。|　あきらめないで　探してみましょう？": "Maybe we can find a great work that's been|abandoned. Don't give up. Let's try to find|it."
+    },
+    "187": {
+        "「ぺ……ペペロくんだとぉ！？ |　そんなふうに　気安く　呼ぶとは|　いったい　オレ様を　誰だと思って……": "Pepe... Pepero-kun? Who do you think you|are... to call me that?"
+    },
+    "188": {
+        "「……ああッ　そうだッ！|　思いだした！　この近くの谷に　じじいが|　よく失敗作を　すててた場所があったはず！": "... Oh, yes! I remember now! In the valley|near here, there's a place where my grandpa|used to dump his failures!"
+    },
+    "189": {
+        "「フハハハハ！　オレ様としたことが|　みっともないところを　見せたな！": "Ha-ha-ha-ha! I've shown you what I'm capable|of!"
+    },
+    "190": {
+        "「じじいが　失敗作を　すてていた谷……|　芸術の墓場は　このアトリエの地下におりて|　進んだ先にある！": "The valley where my grandfather used to dump|his failed works... The graveyard of art is|in the basement of this studio, just beyond."
+    },
+    "191": {
+        "「さあッ　行くぞ！": "Come on! Let's go!"
+    },
+    "192": {
+        "「……ふふっ　元気が出て　よかった。": "I... I'm feeling better."
+    },
+    "193": {
+        "「大魔王の覇印は　見当たらないようだけど……|　今は　絵を探しに　芸術の墓場に行きましょう。": "I can't seem to find the High Seal of the|Great Demon King... Now I'm off to the art|graveyard to look for the painting..."
+    },
+    "194": {
+        "「……おおッ！　あれこそは|　じじいの　幻の大作ではないか？": "... Oh! Isn't that my grandfather's great|work?"
+    },
+    "195": {
+        "「しかし　何も　描かれていないな。|　では　違うのか……。": "But there's nothing on it. So it's not..."
+    },
+    "196": {
+        "「……？　何かが……": "...? There's something..."
+    },
+    "197": {
+        "「……近づいてくるわっ！": "... They're getting closer!"
+    },
+    "198": {
+        "「ひ…ひええっ！|　絵から……　竜が飛びだしてきた……！": "Hee... Heee! From the painting... A dragon|jumped out..."
+    },
+    "199": {
+        "「マデサゴーラさんが|　絵画に封じ込めたという魔瘴竜……。|　魔瘴が増えている　原因だったのね。": "The demon miasma dragon that Madesagora said|she sealed in her paintings... It's the cause|of the increasing number of demon miasma..."
+    },
+    "200": {
+        "「…………マデサゴーラァァァ！！": "... Madhesagorraaaa!"
+    },
+    "201": {
+        "「よくも……我を　封印しおったなァァァ！": "How dare you... How dare you seal me up!"
+    },
+    "202": {
+        "「……目に　封印の紋章が入ってる。|　でも　片目だけだわ。": "... It's got a seal over its eye. But it's|only one eye."
+    },
+    "203": {
+        "「もしかしたら　もう片方にも　紋章を入れれば|　魔瘴竜を　退治できるんじゃないかしら？": "Maybe if we put the sigil in the other one,|we can kill the miasma dragon?"
+    },
+    "204": {
+        "「……オッ　オレ様がやるのか！？": "... Oh, you want me to do it?"
+    },
+    "205": {
+        "「ムッ…ムリだ！　このオレ様に　じじいと|　同じことが　できるはずがないだろう……！": "Mwah... I can't! There's no way I can do what|my grandpa did..."
+    },
+    "206": {
+        "「……お願い！　ペペロくんを　守ってあげて！": "... Please! Please protect Mr. Peppero!"
+    },
+    "207": {
+        "「グアアアアアアッ！！": "Guaaaaaaaah!"
+    },
+    "208": {
+        "「それは……大魔王の覇印？|　この魔物が　飲み込んでいたのね。": "It's... The High Seal of the Great Demon|King? This demon swallowed it..."
+    },
+    "209": {
+        "「我を　封印した|　いまいましき　覇印がァ……。": "The insidious mark that sealed me..."
+    },
+    "210": {
+        "「……マデサゴーラめェェェ！": "... Madhesagora!"
+    },
+    "211": {
+        "「ぬ…ぬわッ！　こ…こっちに　来るなァ！": "Nooo... Oh, no! This... Don't come over here!"
+    },
+    "212": {
+        "「オレ様の　芸術的な髪型が……": "My artistic hairstyle is"
+    },
+    "213": {
+        "「……乱れるだろうがッ！！": "... It's gonna get messy!"
+    },
+    "214": {
+        "「……グワッ！　こ…この顔料は……": "... Gwah! This... This pigment..."
+    },
+    "215": {
+        "「おのれ　マデサゴーラァァァ！！": "Oh, Madhesagora!"
+    },
+    "216": {
+        "「や…やったのか……？": "Did you...? You did it...?"
+    },
+    "217": {
+        "「フ…フハハハハッ！！": "Huh... Hahahahaha!"
+    },
+    "218": {
+        "「オレ様の才能をもってすれば|　これしき　たやすいわ！　フハハハ……": "With my talent, this will be a piece of cake!|Hahahaha..."
+    },
+    "219": {
+        "「うわッ！　絵が……ッ！": ""
+    },
+    "220": {
+        "「ペペロくん　あぶないわ！": "Peppero, watch out!"
+    },
+    "221": {
+        "「これは……オレ様が　完成させた絵だ……！|　絶対に　はなさな……": "This is... This is the picture that I|finished. Don't ever take it off."
+    },
+    "222": {
+        "「う…うわァァァーーーッ！": "Uh... Whoa!"
+    },
+    "223": {
+        "「ペペロくん！": "Mr. Pepero!"
+    },
+    "224": {
+        "「今よ！　絵画に　大魔王の覇印を！": ""
+    },
+    "225": {
+        "「イルーシャ　貴様……すごいな！|　あんなにあった魔瘴が　なくなってしまったぞ！": "Ilusha, you... That's amazing! The miasma|that was supposed to be there is gone!"
+    },
+    "226": {
+        "「やけに　痛々しいが……大丈夫なのかッ？": "You look like you're in a lot of pain. Are|you okay?"
+    },
+    "227": {
+        "「私は　平気……すぐに治るわ。それよりも……": "I'm fine... I'll be... It's more..."
+    },
+    "228": {
+        "「……かっこいい。|　ペペロくんの　力作ね。": "... I'm sorry. Mr. Pepero..."
+    },
+    "229": {
+        "「私……　この絵　好きよ。": "I... This picture..."
+    },
+    "230": {
+        "「え…………？": "What...?"
+    },
+    "231": {
+        "「フ……フハハハハ！　オレ様の|　みなぎる芸術的才能が　炸裂したのだから|　これしき　当然の出来映えだ！": "Huh... Hahahahaha! It's only natural that my|artistic talents would explode into something|like this!"
+    },
+    "232": {
+        "「……よし！　さっそく　この絵を持って帰り|　ゴーラの愚民どもに　見せてくれよう！|　きっと　涙を流しながら　感動するだろう！": "... All right! Now let's take this painting|home and show it to the fools of Gora! I'm|sure they'll be moved to tears!"
+    },
+    "233": {
+        "「オレ様は　先に　城へ戻っている！|　貴様らも　さっさと　来るがよいぞ！": "I'm going back to the castle now! I'm going|back to the castle! You'd better come|quickly!"
+    },
+    "234": {
+        "「ペペロくん……元気が出たみたいね。|　よかったわ。": "Mr. Pepero... I feel better now... Good..."
+    },
+    "235": {
+        "「さあ　私たちも　魔幻宮殿に帰りましょう。": "Now we're going back to the palace."
+    },
+    "236": {
+        "<cs_pchero>は|大魔王の覇印（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>I've got the High Seal of the Great Demon|King!<me 60>"
+    },
+    "237": {
+        "「これが　マデサゴーラ様の　幻の大作……|　『ほとばしる命の狂宴』を|　ペペロ様が　完成させた絵……。": "This is Madisagora's great work... \"The|Frenzy of Life,\" which Pepero completed."
+    },
+    "238": {
+        "「……ふーむ。|　いまいち　ピンと来んなァ。": "...... I'm not sure I understand..."
+    },
+    "239": {
+        "「やはり　マデサゴーラ様の芸術にあるような|　深淵なる美が　この絵には　足りない気がする。": "After all, this painting lacks the profound|beauty of Madesagora's art..."
+    },
+    "240": {
+        "「そうかしら？|　私は……　希望が感じられて　好きよ。": "Do you think so? I just... I feel hopeful. I|feel..."
+    },
+    "241": {
+        "「フハハハ！　貴様らには　まだ|　オレ様の芸術を理解できる　審美眼がないのだ！|　だが……今に　わからせてくれよう！": "Hahahaha! You people still don't have the|aesthetic sense to understand my art! But...|Now you will understand!"
+    },
+    "242": {
+        "「むう……　巫女様が　そうおっしゃるのなら|　何も　言いませぬ……。": "Hmm... If that's what the priestess says, I|won't say anything..."
+    },
+    "243": {
+        "「……この絵は　もとは　じじいの作品だ。|　だから　これは　通過点にすぎぬ。|　次は　もっとすごい　オレ様流の作品を創るぞ！": "... This picture was originally drawn by my|grandfather... So this is just a passing|phase... Next time, I'm going to make|<br>|something even better, in my own style!"
+    },
+    "244": {
+        "「そして……いつかは　じじいを超える|　魔界最高の　芸術家になってやる！|　フハハハハハ！！": "And then... One day, I'll be the greatest|artist in the whole world, surpassing my|grandfather! Hahahahahaha!"
+    },
+    "245": {
+        "「あッ　そういえば……　貴様らは|　ここへ　大魔王の覇印を取りにきたのだったな。": "Oh, by the way... You've come here to get the|High Seal of the Great Demon Lord..."
+    },
+    "246": {
+        "「どうやら　手元にあるようだが|　持って帰って　かまわんぞ。|　じじいに代わって　オレ様が許可する！": "It looks like he's got it in his possession,|but you can take it home with you... I'll|authorize it on behalf of my grandfather."
+    },
+    "247": {
+        "「……ペペロから　あらましは　聞きました。|　おふたりのご活躍で　ゴーラを覆っていた|　深き魔瘴を　鎮めることができたと。": "I... Peppero told me what happened... Thanks|to the efforts of the two of you, the miasma|that originally haunted Gora has been put to|<br>|rest..."
+    },
+    "248": {
+        "「ひとまず　ゴーラは　救われました。|　おふたりのご助力　まことに　感謝いたします。|　どうか　こちらの謝礼を　受け取ってくだされ。": "Gora has been saved. Thank you both very much|for your help. Please accept my gratuity..."
+    },
+    "249": {
+        "「それは　さておき……<pc>！|　世話になったな。何か　あったら　いつでも|　言ってくれ！　芸術関係なら　チカラになるぞ！": "But that's beside the point<pc> Thank you. Thanks for everything. If you ever|need anything, just let me know. I'm here to|help you with your art."
+    },
+    "250": {
+        "「未来の偉大なる芸術家……ペペロゴーラ様がな！|　フハハハハハ！": "The great artist of the future... Mr.|Peperogolla! Ha-ha-ha-ha!"
+    },
+    "251": {
+        "「結局　私の記憶は　戻らなかった。|　自分が　何者なのか　わからないまま……。": "In the end, I couldn't get my memories back.|I still don't know who I am."
+    },
+    "252": {
+        "「けれど　ペペロくんを見ていて|　そんなことは　重要じゃないって　気づいたの。": "But when I saw Pepero, I realized that it|didn't matter."
+    },
+    "253": {
+        "「……大事なのは　私が　何をしたいか。|　今は　私がしたいと思ったことを|　思ったまま　してみようって　決めたの。": "It's... What's important is what I do...|Right now, I've decided that I'm going to do|whatever I feel like doing."
+    },
+    "254": {
+        "「だから　私は……": "So I'm"
+    },
+    "255": {
+        "「待っていたぞ　魔瘴の巫女。": "I've been waiting for you, demon miasma..."
+    },
+    "256": {
+        "「お前に　用がある。|　私たちと　共に　来てもらおう。": "I'm here for you. If you come with us..."
+    },
+    "257": {
+        "「私……？": "私...？"
+    },
+    "258": {
+        "「我ら　バルディスタは|　魔瘴増加の危機に　瀕している。|　このままでは　ゴーラの　二の舞だ。": "We, Valdista, are on the verge of an increase|in miasma. If this continues, Gora's two..."
+    },
+    "259": {
+        "「だが……お前のチカラがあれば|　その危機を　取り除くことができる。|　バルディスタを　魔瘴から　救えるのだ。": "But... But with your help, we can get rid of|that danger. You can save Valdista from the|miasma."
+    },
+    "260": {
+        "「おとなしく　ついてくるなら|　悪いようにはしない。": "If you'd just follow me, I wouldn't be so|bad..."
+    },
+    "261": {
+        "「……これは　交渉ではない。命令だ。": "... This is negotiable. ......"
+    },
+    "262": {
+        "「ならば　やむをえん……": "Then we have no choice"
+    },
+    "263": {
+        "「……クッ！？": "... Kuh!"
+    },
+    "264": {
+        "「…………きゃっ！": "... Yikes!"
+    },
+    "265": {
+        "「ハハハハハ！": "Hahahahahaha!"
+    },
+    "266": {
+        "「……よう。|　どいつもこいつも　相変わらずだな。": "..... The same old, same old..."
+    },
+    "267": {
+        "「ユシュカ……いったい　何のつもりだ！？": "Yushka... What the hell are you doing?"
+    },
+    "268": {
+        "「<pc>。俺のしもべを　やめたら|　今度は　巫女のしもべに　なったというわけか。|　ほとほと　しもべ根性の抜けんヤツめ。": "<pc> I'm sorry. When you stopped being my servant,|you became a miko's servant... I can't seem|to shake my servant's spirit..."
+    },
+    "269": {
+        "「ヴァレリア……　お前の軍は|　毎度　しのびこみやすくて　助かる。|　相変わらず　足元が　お留守のようだな。": "Valeria... Your army is always so easy to|sneak into. As usual, you're not at your|feet..."
+    },
+    "270": {
+        "「このようなことをして|　ただで済むとは　思っていないだろうな？": "You don't really think you're going to get|away with this, do you?"
+    },
+    "271": {
+        "「おお　怖い怖い。|　すぐに　怒りだすのも　相変わらずか。": "Oh, the fear... You're always so quick to|anger..."
+    },
+    "272": {
+        "「……魔瘴の巫女は　この俺が　もらった。|　返してほしくば　ファラザードの城まで来い。": "I... I'm the one who's supposed to protect|the miasma maiden. If you want her back, you|can take her to Farazad's castle..."
+    },
+    "273": {
+        "「来られるものならな。": "What's coming..."
+    },
+    "274": {
+        "「…………殺す。": "....."
+    },
+    "275": {
+        "「バルディスタ各地の　部隊を集め|　ファラザードに　進軍するッ！": "We'll gather troops from all over Valdista|and march on Farazad!"
+    },
+    "276": {
+        "「……こりゃあ　でけえ戦争になるぜェ。": "... This is gonna be one big war."
+    },
+    "277": {
+        "「……キキッ　ミタゾ　ミタゾ。": "... Kiki, Mitazo..."
+    },
+    "278": {
+        "「むっ……何者だ？": "Mmm... Who are you?"
+    },
+    "279": {
+        "「……ねえ。": "....."
+    },
+    "280": {
+        "「もう　眠ってしまった？|　起こしてしまったら　ごめんなさい。": "Have you fallen asleep yet? I'm sorry if I|woke you..."
+    },
+    "281": {
+        "「私……闇の中のことは　覚えていないけれど|　きっと　怖い思いをしていた。|　解き放ってくれて　本当に　感謝してるわ。": "I... I don't remember what it was like in the|dark, but I'm sure it was scary... And I'm so|grateful that you let me go."
+    },
+    "282": {
+        "「まだ　何もかもが　もやに包まれたまま。|　けれど　あなたのそばにいれば|　なぜだか　うまくいくような気がするの。": "Everything is still shrouded in mystery...|But somehow, when I'm around you, I feel like|things will work out..."
+    },
+    "283": {
+        "「……明日も　早いわ。|　ゴーラの国のみんなのため　がんばりましょう。|　おやすみなさい……。": "... And tomorrow... I'll do my best for the|people of Gora... Good night..."
+    },
+    "284": {
+        "「<pc>と　一緒なら|　どんな危険な場所でも　平気よ。": "<pc> If you're with me, you can go to any|dangerous place..."
+    },
+    "285": {
+        "「オレ……生きのびられっかなァ。": "I can't... I can't survive..."
+    },
+    "286": {
+        "「……そうだ　イルーシャ。|　じつは　貴様に　渡したいものがあるのだ。|　後で　オレ様の私室に　来てくれ。": "... Yes, Il... I've got something for you.|I'll see you in my office later."
+    },
+    "287": {
+        "<pc>と　イルーシャは|真・魔幻宮殿のロビーに　向かった……。": "<pc> And Ilusha headed for the lobby of the True|Demon Palace..."
+    },
+    "288": {
+        "「……すてた　だとォ！？": "... You abandoned it?"
+    },
+    "289": {
+        "「……終わったわ。": "... Finished..."
+    },
+    "290": {
+        "……魔仙卿から　<pc>に話があるようだ。|魔仙卿に　話しかけてみよう。": " From Lord Demon<pc> I need to speak to... I need to speak to Lord|Immortal..."
+    }
+}

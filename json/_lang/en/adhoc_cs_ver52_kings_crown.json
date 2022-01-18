@@ -1,0 +1,722 @@
+{
+    "1": {
+        "「はぁ…はぁ……。|　おい　みんな　大丈夫か……？": "Huh... Huh... Hey guys, are you okay...?"
+    },
+    "2": {
+        "「私は　大丈夫よ。|　ヴァレリアさんが　守ってくれたから……。": "I'm a big... Because of Valeria's protection."
+    },
+    "3": {
+        "「大魔瘴期が近づいている　このタイミングで|　魔仙卿め　わけのわからないことを……。|　ったく　アタマが痛いぜ。": "The demon miasma is approaching, and you,|Lord Immortal, are doing something|incomprehensible... My head..."
+    },
+    "4": {
+        "「魔界と　アストルティアの|　怨念の連鎖を　断ち切れとはな……。|　簡単に　言ってくれる。": "You're asking me to break the chain of|vengeance between the demon world and|Astridia. That's easy for you to say."
+    },
+    "5": {
+        "「大魔瘴期が来れば　魔界全土が|　ただでは　済まないだろう。|　今は　僕らも　いがみ合っている場合じゃない。": "When the miasma season arrives, the entire|demon world will be in trouble. Now's not the|time for us to be squabbling..."
+    },
+    "6": {
+        "「その通りだ。今は　大魔王のもとで|　俺たち魔族が　ひとつになって|　大魔瘴期に　立ち向かわないとな。": "Well... Now, under the Great Demon Lord, we,|the demon tribe, must unite to fight against|the Great Demon Age."
+    },
+    "7": {
+        "「フン……。大魔瘴期が　終わったら|　私は　この　くだらん馴れ合いから抜けるぞ。": "Hmm... When the supposed demon miasma is|over, I'll be rid of this nonsense..."
+    },
+    "8": {
+        "「だが　それまでは　チカラを貸してやる。": "But until then, I need your help..."
+    },
+    "9": {
+        "「ああ　心強いぜ。": "Oh, my heart..."
+    },
+    "10": {
+        "「君のおかげで　魔界の三国が|　ついに　まとまることが　できた……。|　ここまで　長い道のりだったね。": "Thanks to you, the three kingdoms of the|demon world have finally come together...|It's been a long road to get here..."
+    },
+    "11": {
+        "「しょっぱなから　えらい目にあったな。|　とても　祝うような空気じゃ|　なくなっちまったけど……。": "We got off to a bad start. I don't feel like|celebrating anymore, but..."
+    },
+    "12": {
+        "「ひとまず　大魔王就任　おめでとう。|　これからも　よろしく頼むぜ……|　大魔王サマ。": "First of all, congratulations on your new|position... I'll be counting on you...|Daima..."
+    },
+    "13": {
+        "「我　魔仙卿は　新たな大魔王として|　この者を　選定せり。|　その権能をもって　戴冠の儀をおこなう。": "I, Lord Demon Lord, have chosen you to be the|new Great Demon Lord. With his authority, he|will be crowned..."
+    },
+    "14": {
+        "「我ら　魔界に生きる者の心は　大魔王のもとに|　ひとつとなり　大命へと向かわん。|　皆　ことごとく　これなるを祝福せよ！": "We, the people of the demon world, are united|under the Great Demon Lord and headed for the|great life... Bless us all for this!"
+    },
+    "15": {
+        "「そなたは　これで　大魔王となった。|　どうか　魔界を　導いていってくれ。": "You are now the Great Demon Lord... Please|help me lead the demon world..."
+    },
+    "16": {
+        "「たとえ　この先　何が起ころうとも……。": "No matter what happens next..."
+    },
+    "17": {
+        "「闇の根源より　出ずる邪霊……魔瘴魂よ！|　今こそ　その姿を　現したまえ！！": "Evil spirit from the source of darkness...|Spirit of the miasma! Now is the time for you|to reveal yourself!"
+    },
+    "18": {
+        "「これはどういうことだッ！？　魔仙卿！！": "What's going on here? Lord Mashen!"
+    },
+    "19": {
+        "「かつて……|　はるか遠き　神話の時代……。": "Once upon a time... A mythical time, far|away..."
+    },
+    "20": {
+        "「魔界は　アストルティアの一部であった。": "The Demon Realm is part of Astrutia..."
+    },
+    "21": {
+        "「しかし　ある時　大いなる闇の根源……|　ジャゴヌバと呼ばれる存在が　現れ|　大地を　魔瘴で侵食していった。": "But one day, at the root of a great|darkness... A being called Jagonuba appeared|and invaded the earth with a magical miasma."
+    },
+    "22": {
+        "「魔瘴の　変異させるチカラは　あまりに危険。|　そこで　女神ルティアナは　ジャゴヌバごと|　汚された地を　アストルティアから切り離した。": "The mutagenic powers of the miasma are too|great... And so the goddess Luthiana, along|with the Jagonubas, cut off the defiled land|<br>|from Astrutia..."
+    },
+    "23": {
+        "「……すなわち　この魔界は|　世界の創造主から　見限られ|　捨てられた大地なのだ。": "... In other words, this demon world is an|abandoned land, abandoned by the creator of|the world."
+    },
+    "24": {
+        "「魔界に　残された者達は　死に絶えるか|　魔物や魔族となって　環境に適応し　|　過酷な世界を　生き延びていくしかなかった。": "Those left behind in the demon world must|either die out or become demons or demonkind|to adapt to the environment and survive in|<br>|this harsh world."
+    },
+    "25": {
+        "「魔界には　見捨てられた者たちの|　絶望と無念が　満ちている……。": "The demon world is filled with the despair|and regret of the abandoned..."
+    },
+    "26": {
+        "「神話時代の記憶は　もはや　失われたが|　魔界の民の魂には　自分たちを見捨てた|　アストルティアへの　憎悪の炎が宿っている。": "The memories of the mythical age are gone,|but the souls of the people of the demon|world still carry the fire of hatred for the|<br>|Astrutia that abandoned them."
+    },
+    "27": {
+        "「その炎が　大魔王という象徴のもとに結集し|　アストルティアへの　侵略をくり返す……|　それが　魔界の歴史なのだ。": "These flames will rally under the symbol of|the Great Demon Lord and repeatedly invade|Astrutia... That's the history of the demon|<br>|world..."
+    },
+    "28": {
+        "「そんな……！|　魔界が　アストルティアから|　切り捨てられた大地だなんて……！！": "No... The Demon Realm is the land that was|cut off from Astrutia..."
+    },
+    "29": {
+        "「新たなる大魔王よ……。|　果たして　そなたに　この怨念の連鎖を|　断ち切ることが　できるかな？": "The new Great Demon King... Will you be able|to break the chain of vengeance?"
+    },
+    "30": {
+        "「魔仙卿の奴めッ……！|　いったい　何を　考えてやがるんだ！？": "Lord Immortal... What the hell are you|thinking about?"
+    },
+    "31": {
+        "「ユシュカ！　わめくのは　後にしろ！|　魔仙卿の思惑など　知ったことではないが|　今は　こいつらを　倒すのが先だ！": "Jushka! Save your ranting for later! I don't|care what the Immortal Lord wants, but right|now, we have to defeat them first!"
+    },
+    "32": {
+        "「クッ……。これは　キリが無いな……！": "Oh, no. There's no end to this."
+    },
+    "33": {
+        "「おい　大魔王！！|　魔瘴魂とやらは　私が　なんとかする！|　お前は　ユシュカと一緒に　その親玉を倒せ！": "Hey, the Great Demon Lord! I'll take care of|that demon spirit! You and Jyushka take down|its master!"
+    },
+    "34": {
+        "「お前も　大魔王になった途端　災難だな！|　それじゃあ　行くぜッ！！": "You're in trouble too, now that you've become|the Great Demon King! Let's go!"
+    },
+    "35": {
+        "「見てくれよ　イルーシャ！": "Look at me, Ilusha!"
+    },
+    "36": {
+        "「そして　この　殺しても死ななさそうな|　生命力あふれる　カラーリング！|　これぞ　大魔王って感じがするではないか！！": "And this coloration is full of life force, as|if it won't die even if you kill it! This is|what the Great Demon King looks like!"
+    },
+    "37": {
+        "「……ふふ。そうだね。|　とっても　大魔王って感じがする。|　きっと　喜んでくれるよ！": "..... It's so... I feel like a demon king...|I'm sure he'll be happy to see you."
+    },
+    "38": {
+        "「あっはっはっはっは！": "Ha-ha-ha-ha!"
+    },
+    "39": {
+        "「ははは……すっかり　だまされたな。|　そのカオが　見たかったんだ。": "Hahaha... I was so fooled... I wish I could|see your face."
+    },
+    "40": {
+        "「……おどろかせて　悪かったな。|　ここは　俺が　大魔王になった時のために|　ひそかに　造らせていた　王城なんだ。": "I'm... I'm sorry to scare you... This is the|castle I've been secretly building for when I|become the Great Demon King."
+    },
+    "41": {
+        "「ゴダ神殿では　いろいろと|　理屈っぽいことも　言ったが……": ""
+    },
+    "42": {
+        "「俺は　この魔界のために|　奔走してきた　お前のことを|　本当に　大魔王たる器だと　認めているんだ。": "I've been working hard for this demon world,|and I recognize that you're truly capable of|being a great demon lord..."
+    },
+    "43": {
+        "「きっと　ナジーンがいたら……|　アイツも　同意してくれたはずだ。": "Maybe if Nazine was here... He would have|agreed with me."
+    },
+    "44": {
+        "「この城は　大魔王になるお前への　祝いの品だ。|　受け取ってくれ。": "This castle is a celebration for you, the new|Great Demon Lord. I received..."
+    },
+    "45": {
+        "「礼はいらんぞ。これから　魔界のために|　キリキリ　働いてもらうんだからな！|　覚悟しておけよ。": "Rei... You'll be working hard for the demon|world from now on! Prepare yourself..."
+    },
+    "46": {
+        "「さて……|　立派な城も　手に入れたことだし|　これで　いつ大魔王になっても　大丈夫だな。": "Well... Now that we have a nice castle, I'll|be fine no matter when I become a demon|lord..."
+    },
+    "47": {
+        "「おいおい！　この　オレ様が作った|　ゲージュツ的な　玉座も忘れるでないぞ！！": "Hey, hey, hey! And don't forget about my own|ghetto throne!"
+    },
+    "48": {
+        "「ペペロくん　あなたの戴冠式に　間に合うように|　何日も　寝ないで　この玉座を作ったらしいよ。": "Mr. Peppero, if I don't sleep for days and|build this throne in time for your|coronation..."
+    },
+    "49": {
+        "「な…何を言っている！|　この程度　オレ様にかかれば　お手のものだ！|　貴様のために　そんな努力するはずないだろう！": "What the... What are you talking about? I can|do this! There's no way I'd make such an|effort for you!"
+    },
+    "50": {
+        "「うふふ……。|　これで　あとは　戴冠式を挙げるだけね。|　楽しみだね！": "Mmm-hmm... Now all that's left is the|coronation... I'm so excited!"
+    },
+    "51": {
+        "「……ふむ。準備は　ととのったようだな。|　では　この大魔王城で|　戴冠式を　執りおこなおうぞ！！": "..... I'm ready... Then let's hold the|coronation ceremony here at the Great Demon|King's castle!"
+    },
+    "52": {
+        "「よくぞ　戻った。|　どうやら　ふたりの魔王の説得に|　成功したようだな。": "Well... It seems I've succeeded in convincing|the two Demon Lords..."
+    },
+    "53": {
+        "「それでは　いよいよ…………": "And now, finally"
+    },
+    "54": {
+        "「おーい！　大変だーッ！！": "Hey! Oh, my God!"
+    },
+    "55": {
+        "「今さっき　怪しい奴に　イルーシャが|　さらわれちまったんだ！！": "I don't know what to do."
+    },
+    "56": {
+        "「クッ……俺が　いながら……。|　…………すまない。": "Oh, God. While I'm here... ... I'm..."
+    },
+    "57": {
+        "「あまりに一瞬のことで　相手の姿は|　よく　わからなかったが……ヤツは|　デスディオ暗黒荒原のほうへ　向かっていった！": "It was too brief to make out what he looked|like, but... He was heading towards the|Desdio Dark Wasteland!"
+    },
+    "58": {
+        "「荒原は　ジャリムバハ砂漠にある|　ザード遺跡の　東の扉の先にある！": "The Wasteland is in the Jarimbach Desert, at|the eastern door of the Zard Ruins!"
+    },
+    "59": {
+        "「俺は　先に向かうから|　お前も　すぐに　来てくれ！|　よろしく　頼んだぞ！！": "I'm on my way. I need you to come with me|right away! I'm counting on you!"
+    },
+    "60": {
+        "「フッ…フフフフ！|　いい戦いだったぞ……！！": "Huh... Mmm-hmm. That was a good fight..."
+    },
+    "61": {
+        "「聞け　皆の者！！|　この者こそ　先の　魔仙卿の選定にて|　新たな大魔王として　選ばれた者である！！": "Listen up, all of you! This is the one chosen|by Lord Immortal to be the new Great Demon|Lord!"
+    },
+    "62": {
+        "「今の戦いを　見たであろう！|　これでも　この者が大魔王になることに|　異を唱える者は　いるか！？": "You've seen the battle! Is there anyone who|would argue that this guy should become the|Great Demon Lord?"
+    },
+    "63": {
+        "「よし！　これで決まりだ！|　我がバルディスタは　この者を|　新たな大魔王として　ここに　認める！": "Okay! It's settled! I, Valdista, do hereby|recognize him as the new Great Demon Lord!"
+    },
+    "64": {
+        "「……これで　お前も|　少しは　やりやすくなっただろう。": "... It's a little easier for you now..."
+    },
+    "65": {
+        "「フッ……。戴冠式には　私も　出席しよう。|　くれぐれも　ガッカリさせてくれるなよ|　大魔王どの。": "Hmm... I'll be at the coronation... Please|don't let me down, Daimajin..."
+    },
+    "66": {
+        "「ヴァレリア様と　勝負しようだァ！？|　とんだ　命知らずの|　トンチキ野郎が　いたもんだな！！": "Let's play with Lady Valeria? What kind of|daredevil bastard do you think I am?"
+    },
+    "67": {
+        "「ヴァレリア様ーッ！|　そんな　ぽっと出の　若造なんざ|　ぶっ飛ばしてくだせェーッ！！": "Lady Valeria! Let's get rid of that young,|out-of-towner!"
+    },
+    "68": {
+        "「おいおい　全員　ヴァレリア様に賭けるんじゃあ|　勝負に　なんねーじゃんかよ！！|　誰か　アイツに賭ける奴は　いねーのかァ！？": "If we all bet on Valeria-sama, it's no|contest! Isn't there anyone else who'd bet on|her? !"
+    },
+    "69": {
+        "「ウホホーッ！　ウッホホウッホ！！|　ウッホホウホウホーッ！！": "Whoo-hoo-hoo! Whoo-hoo-hoo! Whoo-hoo-hoo!"
+    },
+    "70": {
+        "「……外野が　少々|　やかましいが　気にするな。": "I don't know. It's a little rough out there,|but I don't mind."
+    },
+    "71": {
+        "「貴様が　中途半端な奴なら|　ここで潰しておくのが　魔界のため。|　全力で　かかって来い。": "If you're a half-wit, I'll crush you right|here in the demon world. I'll give it|everything I've got."
+    },
+    "72": {
+        "「では……ゆくぞッ！！": "Now... Let's go!"
+    },
+    "73": {
+        "「試すような真似をして　すまなかった……。|　よく　試練を乗り越えられたね。|　さすがだよ。おめでとう。": "I'm sorry I tried to test you. You've been|through so much... You did... You..."
+    },
+    "74": {
+        "「ここは　ゼクレス王家の者が|　大魔王を目指す時　その資質を問うための|　試練の間だったんだ。": "This was the testing room for those of the|royal house of Zekres who wanted to become a|great demon lord..."
+    },
+    "75": {
+        "「そして　試練を乗り越えられた者だけが|　王冠を手に入れ　大審門へと向かった……。|　僕も同じ試練を受け　大審門に行ったんだよ。": "And only those who could survive the ordeal|would get the crown and go to the High|Inquisitor's Gate... I underwent the same|<br>|ordeal and went to the Grand Inquisitor's|Gate..."
+    },
+    "76": {
+        "「その王冠を　手にした君は|　まぎれもなく　大魔王にふさわしい。|　戴冠式には　ぜひ　出席させてもらうよ。": "With that crown in your hand, you're the|perfect candidate to be the Great Demon King.|I'd love to attend your coronation."
+    },
+    "77": {
+        "「……他にも行くべき所が　あるんだろう？|　急いだほうが　いいんじゃないかな。": "... There's got to be somewhere else we can|go, right? Maybe we should hurry."
+    },
+    "78": {
+        "<pc>は|大魔王の王冠（だいじなもの）を|手に入れた！<me 60>": "<pc> I've got the crown of the Great Demon King!<me 60>"
+    },
+    "79": {
+        "「さて……|　いいかげん　そなたには|　話しておかねばなるまいな。": "Well... I have to tell you something..."
+    },
+    "80": {
+        "「……久しぶりだね！　元気だった？": "... Long time no see! How have you been?"
+    },
+    "81": {
+        "「おいらにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　姉ちゃんからすると　最近のことなのかな？": "For me, I haven't seen her since I met her in|the labyrinth of time more than a few hundred|years ago, but for you, it's been a while,|<br>|isn't it?"
+    },
+    "82": {
+        "「あの日　世界の滅亡を　阻止するのに|　協力させてくれって　言ったっけ……。|　ああ　なつかしいなあ……。": "I remember that day when you asked me to help|you stop the destruction of the world. Oh,|how I miss you..."
+    },
+    "83": {
+        "「おいら　姉ちゃんと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったんだ。": "After I met my sister in the labyrinth of|time, I was transported to the demon world of|long ago..."
+    },
+    "84": {
+        "「本当なら　おいらなんか　すぐに|　魔界の魔物に　殺されるか|　魔瘴で　死んでしまうところだったんだけど……": "If that were true, I'd be on my way| Or be killed by a demon from the demon world| I almost died from the miasma, but"
+    },
+    "85": {
+        "「落ちた場所が　デモンマウンテンの頂上でさ。|　そこで　先代の魔仙卿に　拾われて|　命を　救われたんだ。": "I fell to the top of Demon Mountain. There, I|was picked up by a demon lord who saved my|life."
+    },
+    "86": {
+        "「おいらを拾った時の　先代の魔仙卿は|　ちょうど　その役目を　終えようとしていて|　次の魔仙卿となる　後継者を探していた。": "The previous Lord Immortal who took me in was|just about to finish his duties, and he was|looking for a successor to become the next|<br>|Lord Immortal."
+    },
+    "87": {
+        "「あの人は……|　そんな時に　目の前に現れた　おいらに|　後継者の資質を認めて　決めたのさ。": ""
+    },
+    "88": {
+        "「魔仙卿となる者は|　大いなる闇の根源と　契約することによって|　魔仙卿としての　チカラを得る。": "If you are to become a demon lord, you must|make a pact with the source of all darkness|to become a demon lord."
+    },
+    "89": {
+        "「皮肉にも　おいらは|　闇の根源と　契約したことで|　この魔界でも　生きていける身体になったんだ。": "Ironically, I've made a pact with the source|of darkness, so I'm able to survive in this|demon world..."
+    },
+    "90": {
+        "「そして　その契約によって|　同じ時代に　長い間　留まれないっていう|　時渡りの呪いからも　解放された……。": "And the contract also freed me from the curse|of time travel, of not being able to stay in|the same time period for a long time..."
+    },
+    "91": {
+        "「闇の根源との契約っていう|　より　強力な呪いを|　受けただけかもしれないけどね。": "It's possible that I just received a more|powerful curse, a pact with a dark source."
+    },
+    "92": {
+        "「……でも　そのおかげで　おいらは|　この魔界の地で　数百年の間　生きてこられた。": "But... But it's thanks to it that I've been|able to live in this magical land for|hundreds of years..."
+    },
+    "93": {
+        "「あの　永遠にも思えた　長い放浪の果てに|　たどり着いた　この魔界が……|　おいらの　安息の地になったんだ。": "After what seemed like an eternity of|wandering, I ended up in this magical world.|It's become my resting place..."
+    },
+    "94": {
+        "「……だから　おいらにとっては　この魔界も|　アストルティアと　なんら変わらない|　守るべき　世界なんだよ。": "... So for me, this demon world is no|different from Astrutia, and it's a world I|should protect..."
+    },
+    "95": {
+        "「そして　何度も言ったけど　魔界には|　これから　かつてない規模の魔瘴の氾濫……|　死の大魔瘴期が　訪れる。": "And as I've said many times before, the demon|world is about to be inundated with an|unprecedented amount of demon miasma. The|<br>|deadly miasma period..."
+    },
+    "96": {
+        "「その前に　なんとしても　姉ちゃんには|　大魔王になってもらって|　この魔界を　救ってほしいんだ。": "I don't know what to do..."
+    },
+    "97": {
+        "「さっき　姉ちゃんの気持ちは　聞いたけど|　もう一度　改めて　お願いするね。": "I know you told me how you feel, but I'd like|to ask you again."
+    },
+    "98": {
+        "「そんな！　一緒に　世界の滅亡を止めようって|　言ったじゃないか！": "No! No! You said we'd stop the destruction of|the world together!"
+    },
+    "99": {
+        "「だから頼むよ。大魔王になって　数百年|　おいらが守ってきた　魔界と　アストルティアを|　大魔瘴期から　救ってくれよ！！<yesno><close>": "So... I've been protecting the demon world|and Astrutia for hundreds of years, and I|need you to save them from the demon miasma!<yesno><close>"
+    },
+    "100": {
+        "「……本当に　ありがとう。": "I... There really is..."
+    },
+    "101": {
+        "「それじゃ　謁見の間に　戻ろう。|　あ……それと　魔仙卿が　おいらだってことは|　他の人には　黙っておいてね。": "Well then, to the audience room... Oh... And|don't tell anyone that I'm Lord Demon..."
+    },
+    "102": {
+        "「人間が　魔仙卿をやってたなんてことが|　バレたら　みんな　混乱して|　不要な騒動を　巻き起こしかねないからね。": "If it were discovered that a human was acting|as Lord Immortal, it would confuse everyone|and cause unnecessary turmoil..."
+    },
+    "103": {
+        "「よくぞ　戻った。|　ゼクレスとバルディスタでの|　そなたの奮闘ぶりは　聞き及んでおるぞ。": "How dare you... I've heard so much about your|struggles in Zekres and Valdista..."
+    },
+    "104": {
+        "「こたびの活躍　まことに大義であった。|　これで　あの　ふたつの国も|　無事に　復興を　とげられるであろう。": "It's a great cause... Now those two countries|will be able to recover safely..."
+    },
+    "105": {
+        "「ゼクレスと　バルディスタ……|　いや　魔界全土のために|　そなたは　よく尽くしてくれた。": "Zekres and Valdista... No, you've done so|much for the whole of the demon world."
+    },
+    "106": {
+        "「おいおい……。|　俺の大事な　ファラザードのことも|　忘れないでくれよ。": "Hey, hey... Don't forget about my precious|Farazar..."
+    },
+    "107": {
+        "「そなたは　魔王ユシュカ……。": "You are the demon king Yushka..."
+    },
+    "108": {
+        "「今日は　あんたと……こいつに|　話したいことがあって　来たんだ。": "I came here today to talk to you and... I|came here to talk to this guy about|something."
+    },
+    "109": {
+        "「俺は　これまで　自分が大魔王となって|　魔界を変革し　大魔瘴期から救うという夢を|　追い続けてきた……。": "I've been chasing my dream of becoming the|Great Demon Lord, transforming the demon|world, and saving it from the Great Demonic|<br>|Fever..."
+    },
+    "110": {
+        "「だが　あの大戦で……|　同じ夢を　追ってきた|　ナジーンを　失って…………": "But in that war| We've been chasing the same dream| When I lost Najine"
+    },
+    "111": {
+        "「それから　考え続けてきたんだ……。|　自分が　この先　何をするべきなのかを。": "Since then, I've been thinking... I've been|thinking about... what I should do..."
+    },
+    "112": {
+        "「……そして　俺は　やっと気づいたんだ。|　大魔王の座に　固執しすぎていたことに。": "... And I finally realized... I've been|obsessed with the title of Great Demon Lord|for too long."
+    },
+    "113": {
+        "「魔界を変革するのに　必ずしも　俺が|　大魔王になる　必要はない。": "I don't necessarily need to become the Great|Demon Lord to change the demon world."
+    },
+    "114": {
+        "「……お前が　ゼクレスと　バルディスタで|　やってきたことは　聞いている。今や　お前は|　両国の魔王から　信頼を勝ち得ている身だ。": "I... I've heard about what you've done in|Zekres and Valdista... Now that you've earned|the trust of the Demon Lords of both|<br>|countries..."
+    },
+    "115": {
+        "「そんなヤツがいるなら……　そいつが|　大魔王になって　魔界をまとめ上げるのが|　魔界を救う　最短の道だろう。": "If there is such a person... The shortest way|to save the demon world is for him to become|the Great Demon King and unite the demon|<br>|world."
+    },
+    "116": {
+        "「……お前が　大魔王になれ。": "... You're the Great Demon King..."
+    },
+    "117": {
+        "「私も　賛成よ。|　あなたの　光なら……|　きっと　みんなを導ける。": "Me too... Your light... I'm sure it can|help..."
+    },
+    "118": {
+        "「ほう……。ここにいる者は皆　そなたが |　大魔王になることを　望んでおるようだ。|　そなた……大魔王になる　決心はついているか？<yesno><close>": "Well... Everyone here wants you to become the|Great Demon King... You... Are you ready to|become the Great Demon Lord?<yesno><close>"
+    },
+    "119": {
+        "「ふむ……。やはり　これまで|　魔と戦い　アストルティアを守ってきた|　そなたとしては　気が乗らぬ話か……。": "Hmm... After all, you've been fighting demons|and protecting Astrutia for so long... so|you're not in the mood for this."
+    },
+    "120": {
+        "「おお……。これまでアストルティアを守ってきた |　そなたには　断られるかと　覚悟しておったが|　意外にも　乗り気のようだな。": "Oh... I was prepared for you to say no, but|you've been defending Astrutia for so long,|but surprisingly, you seem to be willing."
+    },
+    "121": {
+        "「……しかし　いずれにしても　そなたとは|　ふたりきりで　話さねばならぬことがある。": "... But in any case, I must speak with you|alone..."
+    },
+    "122": {
+        "「重大な話だ……魔選の儀礼場で話そう。|　ユシュカ。イルーシャ。|　悪いが　そなたたちは　ここで待っていてくれ。": "I have something very important to tell|you... At the Rituals of the Demon's|Election... Yu... Il... I'm sorry, but you're|<br>|going to have to wait here..."
+    },
+    "123": {
+        "「よくぞ　まいったな。": "I'm glad you're here."
+    },
+    "124": {
+        "「我は　以前　魔界の各国が歩む　復興の道は|　険しいものになるだろうと　話したな。": "I once told you that the road to recovery for|the nations of the demon world would be a|steep one."
+    },
+    "125": {
+        "「……まさしく　今　ゼクレスとバルディスタ|　双方の国にて　解決しがたき問題が|　起こっているようだ。": "... Right now, in both Zekres and Valdista,|there is a problem that cannot be solved..."
+    },
+    "126": {
+        "「そこで　そなたには　両国へおもむき|　それぞれの問題を　解決する|　手助けを　してほしい。": "So, I need you to go to both countries and|help me solve their problems."
+    },
+    "127": {
+        "「……私も　一緒に行くわ。|　魔瘴をあやつる　私のチカラが|　何かの役に　立つかもしれないから。": "I'll... I'm with you. Maybe my ability to|control the miasma will help..."
+    },
+    "128": {
+        "「我は　危険だと　言っておるのだが|　どうしても　そなたと　一緒に行くと|　聞かぬのでな。": "I've told him it's dangerous, but he won't|hear of going with you."
+    },
+    "129": {
+        "「……ごめんなさい。|　でも　どうしても　行きたいの。": "I'm... I'm sorry... But I really need to|go..."
+    },
+    "130": {
+        "「……わかっておる。|　見かけによらず　意志の強い娘だ。": "... I know... You're not as strong-willed as|you look."
+    },
+    "131": {
+        "「……では　そなたは　さっそく|　ゼクレスと　バルディスタに　向かってくれ。|　どちらから行っても　かまわぬぞ。": "... So, you're headed for Zekres and|Valdista. It doesn't matter which way you|go..."
+    },
+    "132": {
+        "「両国で起こっている問題が　解決したら|　我のもとに　戻ってくるがよい。|　よろしく　頼んだぞ。": "When the problems between our two countries|are resolved, you will come back to me. I'm|counting on you."
+    },
+    "133": {
+        "「強くなった　私を……|　どうか　見守っていて。": "I'm stronger. I'm... Please watch over me..."
+    },
+    "134": {
+        "こうして　<pc>の城で|大魔王戴冠式が　執りおこなわれることになり|そのしらせが　魔界中に　布告された……。": "in this way<pc> I've been told that the coronation ceremony|of the Great Demon King will be held at the|castle of..."
+    },
+    "135": {
+        "そして　大魔王戴冠式の日が　やってきた！<me 64>": ""
+    },
+    "136": {
+        "「おぉぉ……………！！": "Oh...!"
+    },
+    "137": {
+        "「うおおおおおおおーッ！！！！|　新しい　大魔王様の　誕生だァーッ！！！！": "Whoa, whoa, whoa, whoa! ！！！！ A new Daimajou|is born. ！！！！"
+    },
+    "138": {
+        "「……この者は　この魔界の地で|　大魔王となり　来たるべき　大魔瘴期から|　魔界を救うために尽力することを　承諾した。": "... This person has agreed to become the|Great Demon Lord in the land of the demon|world, and to do his best to save the demon|<br>|world from the coming Great Demon Miasma."
+    },
+    "139": {
+        "「お前なら　そう言ってくれるって|　信じてたぜ！": "I knew you'd say that! I knew you'd say that!"
+    },
+    "140": {
+        "「ふふ　よかった……。": "Good..."
+    },
+    "141": {
+        "「ついては　新たな大魔王の誕生を祝い|　魔界全土に　知らしめるため|　戴冠式を　執りおこなおうと思う。": "And so, in celebration of the birth of the|new Great Demon King, we will hold a|coronation ceremony to let the entire demon|<br>|world know..."
+    },
+    "142": {
+        "「この戴冠式には　ユシュカはもちろんのこと|　ゼクレスの魔王アスバル　バルディスタの魔王|　ヴァレリアにも　来てもらわねばならぬ。": "For this coronation, we need not only Jushka,|but also Asbal, the Demon Lord of Zekres, and|Valeria, the Demon Lord of Valdista, to|<br>|come..."
+    },
+    "143": {
+        "「そこで　そなたには　ふたりに|　戴冠式に出席するよう　話をつけてきてほしい。": "So I've asked you both to attend the|coronation..."
+    },
+    "144": {
+        "「我が書いた親書を　見せれば|　話が　早かろう。持っていくがよい。": "I'll show you my letter of intent, and we can|talk about it. I'll take it..."
+    },
+    "145": {
+        "<pc>は　|ヴァレリアへの親書（だいじなもの）と|アスバルへの親書（だいじなもの）を手に入れた！<me 60>": "<pc> got a letter of intent to Valeria and a|letter of intent to Asbal!<me 60>"
+    },
+    "146": {
+        "「バルディスタは　まだ　慌ただしかろう。|　まずは　ゼクレスにいる　アスバルのもとへ行き|　その後で　ヴァレリアのもとへ　向かうがよい。": "Valdista is still in a hurry... First, he|will go to Asbal in Zekres, and then to|Valeria..."
+    },
+    "147": {
+        "「……久しぶりだな！　元気だったか。": "... Long time no see! How are you..."
+    },
+    "148": {
+        "「……久しぶりね！　元気だった？": "... Long time no see! How have you been?"
+    },
+    "149": {
+        "「……久しぶりだね！　元気だった？": "... Long time no see! How have you been?"
+    },
+    "150": {
+        "「オレにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだが|　お前からすると　最近のことなのかもな。": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's only recently..."
+    },
+    "151": {
+        "「あたしにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　あんたからすると　最近のことなのかしら。": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's only been recently..."
+    },
+    "152": {
+        "「私にとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　お姉ちゃんからすると　最近のことなのかな。": "For me, it's been over a hundred years since|I saw her in the labyrinth of time, but for|you, it's only been recently..."
+    },
+    "153": {
+        "「あの日　世界の滅亡を　阻止するのに|　協力させてくれって　言っただろう……。|　ああ　なつかしいぜ……。": "That day you asked me to help you stop the|destruction of the world. Oh, how I miss you."
+    },
+    "154": {
+        "「あの日　世界の滅亡を　阻止するのに|　協力するって　言ったでしょう……。|　ああ　なつかしいわ……。": "I told you that day that I would help you|stop the world from dying. Oh, how I miss|you."
+    },
+    "155": {
+        "「あの日　世界の滅亡を阻止するのに|　協力させてって　言ったでしょ……。|　ああ　なつかしいなあ……。": "That day you asked me to help you stop the|destruction of the world... Oh, how I miss|you..."
+    },
+    "156": {
+        "「オレ　お前と　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちまったんだ。": "After I met you in the labyrinth of time, I|was sent back to the demon world of long|ago..."
+    },
+    "157": {
+        "「あたし　あんたと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったのよ。": "After I met you in the labyrinth of time, I|was transported to the demon world of long|ago..."
+    },
+    "158": {
+        "「私　お姉ちゃんと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったんだ。": "After meeting my sister in the labyrinth of|time, I was transported to the demon world of|long ago..."
+    },
+    "159": {
+        "「本当なら　オレなんか　すぐに|　魔界の魔物に　殺されるか|　魔瘴で　死んじまうところだったんだけど……": "If that were true, I'd be on my way| Or be killed by a demon from the demon world| The miasma almost killed me"
+    },
+    "160": {
+        "「本当なら　あたしなんか　すぐに|　魔界の魔物に　殺されるか|　魔瘴で　死んじゃうところだったんだけど……": "If that were true, I'd be on my way| Or be killed by a demon from the demon world| The miasma almost killed me"
+    },
+    "161": {
+        "「本当なら　私なんか　すぐに|　魔界の魔物に　殺されるか|　魔瘴で　死んじゃうところだったんだけど……": "If that were true, I'd be on my way| Or be killed by a demon from the demon world| The miasma almost killed me"
+    },
+    "162": {
+        "「落ちた場所が　デモンマウンテンの頂上でさ。|　そこで　先代の魔仙卿に　拾われて|　命を　救われたんだ。": "I fell to the top of Demon Mountain. There, I|was picked up by a demon lord who saved my|life."
+    },
+    "163": {
+        "「落ちた場所が　デモンマウンテンの頂上でね。|　そこで　先代の魔仙卿に　拾われて|　命を　救われたのよ。": "I fell to the top of Demon Mountain. There, I|was picked up by a demon lord who saved my|life."
+    },
+    "164": {
+        "「落ちた場所が　デモンマウンテンの頂上でね。|　そこで　先代の魔仙卿に　拾われて|　命を　救われたの。": "I fell to the top of Demon Mountain... There,|I was picked up by a demon lord who saved my|life..."
+    },
+    "165": {
+        "「オレを拾った時の　先代の魔仙卿は|　ちょうど　その役目を　終えようとしていて|　次の魔仙卿となる　後継者を探していた。": "The previous Lord Immortal who took me in was|just about to finish his duties, and he was|looking for a successor to take his place."
+    },
+    "166": {
+        "「あたしを拾った時の　先代の魔仙卿は|　ちょうど　その役目を　終えようとしていて|　次の魔仙卿となる　後継者を探していたわ。": "The previous Lord Immortal who took me in was|just about to complete his duties, and he was|searching for a successor to become the next|<br>|Lord Immortal."
+    },
+    "167": {
+        "「私を拾った時の　先代の魔仙卿は|　ちょうど　その役目を　終えようとしていて|　次の魔仙卿となる　後継者を探してた。": "The previous Lord Immortal who picked me up|was just about to finish his duties, and he|was looking for a successor to become the|<br>|next Lord Immortal."
+    },
+    "168": {
+        "「あの人は……|　そんな時に　目の前に現れた　オレに|　後継者の資質を認めて　決めたのさ。": "That man... Just when I thought he was ready|to take over, I showed up in front of him."
+    },
+    "169": {
+        "「あの人は……|　そんな時に　目の前に現れた　あたしに|　後継者の資質を認めて　決めたのよ。": "That man... Just then, I appeared before him,|and he recognized my potential as his|successor and decided..."
+    },
+    "170": {
+        "「あの人は……|　そんな時に　目の前に現れた　私に|　後継者の資質を認めて　決めたの。": "That man... Just then, I appeared before him,|and he recognized my qualities as his|successor and decided..."
+    },
+    "171": {
+        "「魔仙卿となる者は|　大いなる闇の根源と　契約することによって|　魔仙卿としての　チカラを得る。": "If you are to become a demon lord, you must|make a pact with the source of all darkness|to become a demon lord."
+    },
+    "172": {
+        "「魔仙卿となる者は|　大いなる闇の根源と　契約することによって|　魔仙卿としての　チカラを得るわ。": "To become a demon lord, you must make a pact|with the source of all darkness."
+    },
+    "173": {
+        "「魔仙卿となる者は|　大いなる闇の根源と　契約することによって|　魔仙卿としての　チカラを得られるんだ。": "Those who wish to become Immortal Lords must|make a pact with the source of all darkness|to gain the power of the Immortal Lords."
+    },
+    "174": {
+        "「皮肉にも　オレは|　闇の根源と　契約したことで|　この魔界でも　生きていける身体になったのさ。": "Ironically, I've made a pact with the source|of darkness, so I'm able to survive in this|demon world..."
+    },
+    "175": {
+        "「皮肉な話だけど　あたしは|　闇の根源と　契約したことで|　この魔界でも　生きていける身体になったのよ。": "I know it's ironic, but I made a deal with|the source of darkness, and now I'm able to|live in this demon world."
+    },
+    "176": {
+        "「皮肉な話だけど　私は|　闇の根源と　契約したことで|　この魔界でも　生きていける身体になったの。": "It's ironic, but I made a pact with the|source of darkness, and now I'm able to live|in this demon world."
+    },
+    "177": {
+        "「そして　その契約によって|　同じ時代に　長い間　留まれないっていう|　時渡りの呪いからも　解放された……。": "And the contract also freed me from the curse|of time travel, of not being able to stay in|the same time period for a long time..."
+    },
+    "178": {
+        "「そして　その契約によって|　同じ時代に　長い間　留まれないっていう|　時渡りの呪いからも　解放されたわ……。": "And the contract also freed me from the time|travel curse that prevents me from staying in|the same time period for a long time..."
+    },
+    "179": {
+        "「そして　その契約によって|　同じ時代に　長い間　留まれないっていう|　時渡りの呪いからも　解放されたんだ……。": "And that contract also freed me from the time|travel curse that prevents me from staying in|the same time period for a long time..."
+    },
+    "180": {
+        "「闇の根源との契約っていう|　より　強力な呪いを|　受けただけかもしれないけどな。": "It's possible that I just received a more|powerful curse, a pact with a dark source."
+    },
+    "181": {
+        "「闇の根源との契約っていう|　より　強力な呪いを|　受けただけかもしれないけどね。": "It's possible that I just received a more|powerful curse, a pact with a dark source."
+    },
+    "182": {
+        "「闇の根源との契約っていう|　より　強力な呪いを|　受けただけかもしれないけどね。": "It's possible that I just received a more|powerful curse, a pact with a dark source."
+    },
+    "183": {
+        "「……でも　そのおかげで　オレは|　この魔界の地で　数百年の間　生きてこられた。": "But... But because of that, I've been able to|live in this magical land for hundreds of|years..."
+    },
+    "184": {
+        "「……でも　そのおかげで　あたしは|　この魔界の地で　数百年の間　生きてこられた。": "But... But thanks to you, I've been able to|live in this magical land for hundreds of|years..."
+    },
+    "185": {
+        "「……でも　そのおかげで　私は|　この魔界の地で　数百年の間　生きてこられた。": "But... But because of that, I've been able to|live in this magical land for hundreds of|years..."
+    },
+    "186": {
+        "「あの　永遠にも思えた　長い放浪の果てに|　たどり着いた　この魔界が……|　オレの　安息の地になったんだ。": "After what seemed like an eternity of|wandering, I arrived at this magical world...|It became my resting place..."
+    },
+    "187": {
+        "「あの　永遠にも思えた　長い放浪の果てに|　たどり着いた　この魔界が……|　あたしの　安息の地になったのよ。": "After what seemed like an eternity of|wandering, I arrived at this magical world...|It's become my resting place..."
+    },
+    "188": {
+        "「あの　永遠にも思えた　長い放浪の果てに|　たどり着いた　この魔界が……|　私の　安息の地になったんだよ。": "After what seemed like an eternity of|wandering, I arrived at this magical world...|It became my resting place..."
+    },
+    "189": {
+        "「……だから　オレにとっては　この魔界も|　アストルティアと　なんら変わらない|　守るべき　世界なんだ。": "So for me... That's why, for me, this demon|world is no different from Astrutia, a world|that I must protect..."
+    },
+    "190": {
+        "「……だから　あたしにとっては　この魔界も|　アストルティアと　なんら変わらない|　守るべき　世界なの。": "So... So for me, this demon world is no|different from Astrutia, a world that I|should protect."
+    },
+    "191": {
+        "「……だから　私にとっては　この魔界も|　アストルティアと　何も変わらない|　守るべき　世界なの。": "... That's why, for me, this world is no|different from Astrutia, a world to be|protected."
+    },
+    "192": {
+        "「そして　何度も言ったが　魔界には|　これから　かつてない規模の魔瘴の氾濫……|　死の大魔瘴期が　訪れる。": "And as I've said many times before, the demon|world will now be inundated with an|unprecedented amount of demon miasma... The|<br>|deadly miasma period..."
+    },
+    "193": {
+        "「そして　何度も言ったけど　魔界には|　これから　かつてない規模の魔瘴の氾濫……|　死の大魔瘴期が　訪れる。": "And as I've said many times before, the demon|world is about to be inundated with an|unprecedented amount of demon miasma. The|<br>|deadly miasma period..."
+    },
+    "194": {
+        "「そして　何度も言ったけど　魔界には|　これから　これまでにない規模の魔瘴の氾濫……|　死の大魔瘴期が　訪れる。": "And as I've said many times before, the demon|world is about to be inundated by a demon|miasma on a scale never seen before. The|<br>|deadly miasma period..."
+    },
+    "195": {
+        "「その前に　なんとしても　お前には|　大魔王になってもらって|　この魔界を　救ってほしいんだ。": "But first, I want you to become the Great|Demon King and save this demon world..."
+    },
+    "196": {
+        "「その前に　なんとしても　あんたには|　大魔王になってもらって|　この魔界を　救ってほしいのよ。": "I don't know what to do..."
+    },
+    "197": {
+        "「その前に　なんとしても　お姉ちゃんには|　大魔王になってもらって|　この魔界を　救ってほしいの。": "I don't know what to do."
+    },
+    "198": {
+        "「さっき　お前の気持ちは　聞いたけど|　もう一度　改めて　頼む。": "I know you told me how you feel, but I want|to go over it again."
+    },
+    "199": {
+        "「さっき　あんたの気持ちは　聞いたけど|　もう一度　改めて　お願いするわ。": "I know you told me how you felt earlier, but|I want you to tell me again..."
+    },
+    "200": {
+        "「さっき　お姉ちゃんの気持ちは　聞いたけど|　もう一度　改めて　お願いするね。": "I heard how you felt earlier, but I'd like to|ask you again..."
+    },
+    "201": {
+        "「一緒に　世界の滅亡を止めようって|　言っただろう！？": "You said we'd stop the destruction of the|world together!"
+    },
+    "202": {
+        "「そんな……。|　一緒に　世界の滅亡を止めようって|　言ったじゃない！": "Oh, no... You said that we could stop the|world from dying together!"
+    },
+    "203": {
+        "「そんな……。|　一緒に　世界の滅亡を止めようって|　言ったじゃない！": "Oh, no... You said that we could stop the|world from dying together!"
+    },
+    "204": {
+        "「だから頼む。大魔王になって　数百年|　オレが守ってきた　魔界と　アストルティアを|　どうか　大魔瘴期から　救ってくれ！！<yesno><close>": "I'm sorry. I've been protecting the demon|world and Astrutia for hundreds of years, so|please help me save them from the demonic|<br>|miasma!<yesno><close>"
+    },
+    "205": {
+        "「だから　お願い。大魔王になって　この数百年|　あたしが守ってきた　魔界と　アストルティアを|　どうか　大魔瘴期から　救って！！<yesno><close>": "So... I'm going to become the Great Demon|Lord and save the demon world and Astrutia,|which I've been protecting for the past few|<br>|hundred years, from the Great Demon Miasma!<yesno><close>"
+    },
+    "206": {
+        "「だから　お願い。大魔王になって　数百年|　私が守ってきた　魔界と　アストルティアを|　どうか大魔瘴期から　救って！！<yesno><close>": "So... I've been the protector of the demon|world and Astrutia for hundreds of years, so|please help me save them from the demonic|<br>|miasma!<yesno><close>"
+    },
+    "207": {
+        "「……本当に　ありがとう。": "I... There really is..."
+    },
+    "208": {
+        "「……本当に　ありがとう。": "I... There really is..."
+    },
+    "209": {
+        "「それじゃ　謁見の間に　戻ろう。|　あ……それと　魔仙卿が　オレだってことは|　他のやつらには　黙っておいてくれ。": "Well then, to the audience room... Oh... And|don't tell the others it's me, Lord Demon."
+    },
+    "210": {
+        "「それじゃ　謁見の間に　戻ろう。|　あ……それと　魔仙卿が　あたしだってことは|　他の人たちには　黙っておいてね。": "Well then, to the audience room... Oh... And|please don't tell the others that I'm Lord|Demon..."
+    },
+    "211": {
+        "「それじゃ　謁見の間に　戻ろう。|　あ……それと　魔仙卿が　私だってことは|　他の人には　言わないでおいてね。": "Well then, to the audience room... Oh... And|please don't tell anyone that I'm Lord|Demon..."
+    },
+    "212": {
+        "「人間が　魔仙卿をやってたなんてことが|　バレたら　みんな　混乱して|　不要な騒動を　巻き起こしかねないからな。": "If it were discovered that a human was acting|as Lord Immortal, it would confuse everyone|and cause unnecessary turmoil..."
+    },
+    "213": {
+        "「人間が　魔仙卿をやってたなんてことが|　バレたら　みんな　混乱して|　不要な騒動を　巻き起こしかねないから。": "If it were discovered that a human had been|acting as Lord Immortal, it would confuse|everyone and cause unnecessary turmoil..."
+    },
+    "214": {
+        "「人間が　魔仙卿をやってたなんてことが|　バレたら　みんな　混乱して|　不要な騒動を　巻き起こしかねないから。": "If it were discovered that a human had been|acting as Lord Immortal, it would confuse|everyone and cause unnecessary turmoil..."
+    },
+    "215": {
+        "「おいらにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　兄ちゃんからすると　最近のことなのかな？": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's been a while, huh?"
+    },
+    "216": {
+        "「オレにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだが|　お前からすると　最近のことなのかもな。": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's only recently..."
+    },
+    "217": {
+        "「あたしにとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　あんたからすると　最近のことなのかしら。": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's only been recently..."
+    },
+    "218": {
+        "「私にとっては　数百年以上前に|　時獄の迷宮で　会って以来なんだけど|　お兄ちゃんからすると　最近のことなのかな。": "For me, it's been over a hundred years since|we met in the labyrinth of time, but for you,|it's only been recently..."
+    },
+    "219": {
+        "「おいら　兄ちゃんと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったんだ。": "After I met my brother in the labyrinth of|time, I was transported to the demon world|long ago..."
+    },
+    "220": {
+        "「オレ　お前と　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちまったんだ。": "After I met you in the Labyrinth of Time, I|was transported back to the demon world of|long ago..."
+    },
+    "221": {
+        "「あたし　あんたと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったのよ。": "After I met you in the labyrinth of time, I|was transported to the demon world of long|ago..."
+    },
+    "222": {
+        "「私　お兄ちゃんと　時獄の迷宮で会った後に|　ずっと昔の魔界に　飛ばされちゃったんだ。": "After I met my brother in the labyrinth of|time, I was transported to a demon world long|ago..."
+    },
+    "223": {
+        "「その前に　なんとしても　兄ちゃんには|　大魔王になってもらって|　この魔界を　救ってほしいんだ。": "But first, I want you to become the Great|Demon King and save this world..."
+    },
+    "224": {
+        "「その前に　なんとしても　お前には|　大魔王になってもらって|　この魔界を　救ってほしいんだ。": "But first, I want you to become the Great|Demon King and save this demon world..."
+    },
+    "225": {
+        "「その前に　なんとしても　あんたには|　大魔王になってもらって|　この魔界を　救ってほしいのよ。": "I don't know what to do..."
+    },
+    "226": {
+        "「その前に　なんとしても　お兄ちゃんには|　大魔王になってもらって|　この魔界を　救ってほしいの。": "I don't know what to do."
+    },
+    "227": {
+        "「さっき　兄ちゃんの気持ちは　聞いたけど|　もう一度　改めて　お願いするね。": "I know you told me how you felt earlier, but|I want you to tell me again..."
+    },
+    "228": {
+        "「さっき　お前の気持ちは　聞いたけど|　もう一度　改めて　頼む。": "I know you told me how you feel, but I want|to go over it again."
+    },
+    "229": {
+        "「さっき　あんたの気持ちは　聞いたけど|　もう一度　改めて　お願いするわ。": "I know you told me how you felt earlier, but|I want you to tell me again..."
+    },
+    "230": {
+        "「さっき　お兄ちゃんの気持ちは　聞いたけど|　もう一度　改めて　お願いするね。": "I know you told me how you feel, but I'd like|to ask you again..."
+    },
+    "231": {
+        "次は　魔王ヴァレリアに|大魔王戴冠式に　参加してもらうよう|約束を取りつけに　バルディスタへ行こう！": "Next, we'll go to Valdista to get the Demon|Lord Valeria to attend the coronation of the|Great Demon King!"
+    },
+    "232": {
+        "「……本当に　ありがとう。": "I... There really is..."
+    },
+    "233": {
+        "「この　前衛的なフォルム！|　前に突き進むぞォ～　飛び立つぞォ～って|　大魔王らしい情熱が　ほとばしってるだろう？": "This avant-garde form! We're going to push|forward, we're going to fly away, isn't that|the Daimao's passion?"
+    },
+    "234": {
+        "「どうか　大魔王になって|　おいらが守ってきた魔界と　アストルティア……|　両方の世界を　救ってくれよ！<yesno><close>": "Please, become the Great Demon King and save|both the demon world I've been protecting and|Astrutia... I hope you can save both worlds!<yesno><close>"
+    },
+    "235": {
+        "「どうか　大魔王になって|　オレが守ってきた魔界と　アストルティア……|　両方の世界を　救ってくれ！<yesno><close>": "Please, become the Great Demon King and save|both the demon world I've been protecting and|Astrutia... I need you to save both worlds!<yesno><close>"
+    },
+    "236": {
+        "「どうか　大魔王になって|　あたしが守ってきた魔界と　アストルティア……|　両方の世界を　救って！<yesno><close>": "Please become the Great Demon King and save|both the demon world I've been protecting and|Astrutia... I want to save both worlds!<yesno><close>"
+    },
+    "237": {
+        "「どうか　大魔王になって|　私が守ってきた魔界と　アストルティア……|　両方の世界を　救ってよ！<yesno><close>": "Please, become the Great Demon King and save|both the demon world I've been protecting and|Astrutia... Save both worlds!<yesno><close>"
+    },
+    "238": {
+        "魔王アスバルと　魔王ヴァレリアが|<cs_pchero>の戴冠式に|参加してくれることになった！": "The Witch Queen Asbal and the Witch Queen Valeria|<cs_pchero>He's going to participate in the coronation|of my father!"
+    },
+    "239": {
+        "ゴダ神殿にいる　魔仙卿に|報告しにいこう！": "I'm going to report to the Demon Lord at the|Temple of Goda."
+    },
+    "240": {
+        "これより　<pc>専用の城|大魔王城が　使用できるようになりました！<me 71>": "since (this)<pc> You can now use your own castle, the Great|Demon Castle!<me 71>"
+    }
+}

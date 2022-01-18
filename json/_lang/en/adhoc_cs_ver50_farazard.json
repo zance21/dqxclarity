@@ -1,0 +1,1082 @@
+{
+    "1": {
+        "「ここが　砂の都ファラザード。|　他の国とは　ずいぶん　雰囲気が違うだろう。": "This is Farah, the Sand City... The|atmosphere here is very different from the|rest of the world..."
+    },
+    "2": {
+        "「我が主の　統治のもとに|　さまざまな欲望が　日夜問わず交差する……|　まさに　魔界の不夜城ってヤツさ。": "Under my lord's rule, many desires cross my|path day and night. It's like the nightless|castle of the demon world..."
+    },
+    "3": {
+        "「ようやく　帰ってきたことだし |　ゼクレスと　バルディスタでの首尾を|　報告したいところだが……": "I'm finally home| I want a head start on Zekres and Valdista| I'd report back, but"
+    },
+    "4": {
+        "「なじみの店にも　カオを出しておきたい。|　先に　このファラザードが誇る|　自由の象徴……バザールを　案内してやろう。": "I'll be serving khao at my favorite|restaurant... First, I'll take you to the|bazaar... I'll show you the bazaar..."
+    },
+    "5": {
+        "「活気があって　一見の価値があるぞ。": "It's lively. It's worth a look..."
+    },
+    "6": {
+        "「魔界にある　３つの大国のうち|　ファラザードは　いちばんの新興国だ。": "Of the three major powers in the demon world,|Farazad is the newest."
+    },
+    "7": {
+        "「……もし　お前が魔王だったら|　そいつらをどうする？|<select_nc>|たたきのめす！|相手にしない|ちょっと考えさせて|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>": "... If you were a demon lord, what would you|do with them?|<select_nc>I'll beat the shit out of him! I don't care.|Just let me think.<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case_cancel>|<close>|<case_end>"
+    },
+    "8": {
+        "「徹底的につぶす……か。 |　たしかに　苦労してかき集めた財産を|　横取りする連中には　お仕置きが必要かもな。": "We'll crush them once and for all. .... It's|true that those who take away our hard-earned|wealth need to be punished..."
+    },
+    "9": {
+        "「俺は　王城と連絡を取ってみる。 |　お前は　バザールの問題を　解決してみせろ。": ""
+    },
+    "10": {
+        "「わかった　わかった……後でな！|　こっちは　帰ってきたばかりなんだし|　ちょっとは　休ませてくれよ。": "Okay, okay, okay... See you later! I just got|home. I need to get some rest..."
+    },
+    "11": {
+        "「それと　お前には　この城内に|　部屋を与えてやろう。|　魔王のしもべに　ふさわしい　上等な部屋をな。": ""
+    },
+    "12": {
+        "「慣れぬ魔界で　ユシュカに振り回され |　長旅の疲れも　出てくる頃だろう……。|　この部屋は　自由に使ってくれ。": "I'm sure you're getting tired from your long|trip to the demon world... and being pushed|around by Jushka. You're free to use this|<br>|room..."
+    },
+    "13": {
+        "「君は　ユシュカの血を　与えられたことで|　魔族に変じ　生き延びたわけだが|　あれは　魔界でも秘伝に属する　禁断の呪術。": "You were given Yushka's blood so you could|turn into a demon and survive, but that's a|forbidden secret even in the demon world."
+    },
+    "14": {
+        "「ユシュカのことだから　いつもの調子で|　君のことを　しもべにしてやったとでも|　言ったのだろうが……": "It's Jushka She's always the same| You think I made you my servant?| I know you said"
+    },
+    "15": {
+        "「ユシュカは　ただの魔族ではない。魔王だ。|　そんな重大事を　伝令から聞かされて|　ずいぶん　気をもんだものだが……": "Yushka is just a demon. ...... I'm sure|you'll be glad to hear that."
+    },
+    "16": {
+        "「あいつにも　何か　考えがあってのこと。 |　その決断が　必ず　実を結ぶと信じ|　これまで　城をあずかってきた。": "I know he has his own agenda. And I've always|believed that his decisions would come to|fruition, so I've entrusted the castle to|<br>|him."
+    },
+    "17": {
+        "「そして……今日　この城に到達した|　ユシュカと君を見て　それが正しかったと|　ようやく　確信することが　できたよ。": "And... And now that I've seen you and Jushka|arrive at the castle today, I'm finally|convinced that I was right."
+    },
+    "18": {
+        "「他国の魔王との　危険な交渉をとげて|　我が主を　ファラザードまで|　無事に　帰還させてくれた。": "I'll have to negotiate a dangerous deal with|another demon lord to get my lord back to|Farazad in one piece..."
+    },
+    "19": {
+        "「まったく。ウワサをすれば　これか……。|　迷惑をかけることを　少しも　悪びれない。": "Well... So, if I tell a rumor, this is it. I|don't feel bad about causing you trouble..."
+    },
+    "20": {
+        "「お互いに　苦労は多いが |　共に　あいつを支えていこう。": "We've both been through a lot, but together,|we've been able to support him..."
+    },
+    "21": {
+        "「ユシュカなら　ザードの尖塔だろう。|　昔から　高いところに　登りたがるのだ。": "If you're looking for Jushka, you're looking|for the spires of Zard... I've always wanted|to climb high..."
+    },
+    "22": {
+        "「ナジーン！　どうして　お前は|　そんなに　アタマが　カタいんだ！？": "Najeev! Why are you so stupid?"
+    },
+    "23": {
+        "「いくら　幼なじみとはいえ |　魔王様に向かって　なんだ　そのクチのきき方！": "I'm sure you're not the only one."
+    },
+    "24": {
+        "「暗くて　いちいちカオなど　わかるものか。|　あーあ　カタブツな副官のおかげで|　つかの間の息抜きも　台無しだな。": "It's dark. I can't make out the cao... Oh,|that cutthroat second-in-command... he's|ruined my brief respite."
+    },
+    "25": {
+        "「はっ。副官殿は　有事の際に |　ファラザードを守る　自信がないとみえる。|　そんなのは　俺と　あいつがいれば……": "Huh. Sir, you're not sure you can protect|Farazad in case of emergency. It's just me|and him..."
+    },
+    "26": {
+        "「お……おお。なんだ。|　いるならいるって　言えよ。": "Oh ........ If you're here, you're here..."
+    },
+    "27": {
+        "「お前　起きるのが　遅すぎだぞ。 |　待ちくたびれた上に　いらん説教をくらった。": "You're late getting up... I'm tired of|waiting for you to wake up, and you're|lecturing me."
+    },
+    "28": {
+        "「ああ……この衣装は　魔王の正装だ。 |　いよいよ　魔仙卿に会うというのに|　普段通りじゃ　格好つかないだろ？": "Oh... This costume is the Demon Lord's... I'm|about to meet the Demon Lord... and I don't|want to look like a normal person."
+    },
+    "29": {
+        "「よし！　これで　全員そろったな。|　ナジーン。これからのことを|　こいつに　説明してやってくれ。": "All right! Now we're all here... Na... I'm|gonna explain to him what's going on..."
+    },
+    "30": {
+        "「待たせたな　ふたりとも。": "Sorry to keep you waiting. Two..."
+    },
+    "31": {
+        "「大審門よ！　役者はそろったぞ！|　魔仙卿への道を　開くがいい！": "Grand Inquisitor! All the players are here!|Open the way to the Immortal Lord!"
+    },
+    "32": {
+        "「……いや　気にするな。": "I... No, I don't..."
+    },
+    "33": {
+        "「お前の踊るさまを　見物しててやる。|　後で　合流しようぜ。": "I'm gonna watch you dance... I'll join you|later..."
+    },
+    "34": {
+        "「よう。ばっちり見てたぞ。|　なかなかの　戦いぶりだったじゃないか。": "Oh, my God. I got a good look... That was|quite a fight..."
+    },
+    "35": {
+        "「チッ……。あらかた　潰したつもりだったが |　お前の存在を　すっかり忘れてたぜ。": "Oh, shit. I thought I killed most of them,|but I completely forgot you existed."
+    },
+    "36": {
+        "「まったく……今のは　さすがに疲れたぞ。|　早く　魔仙卿に会って|　文句のひとつでも　言いたいところだな。": "It's just... I'm so tired... I can't wait to|meet Lord Immortal and complain to him..."
+    },
+    "37": {
+        "「さて？　次は　いったい　何が…………": "Well? What's next? What's next?"
+    },
+    "38": {
+        "「コイツは　あの　シシカバブじゃないか。": "This is the shish-kabob..."
+    },
+    "39": {
+        "「あの執念……見上げた根性じゃないか。": "That persistence... That's some serious guts."
+    },
+    "40": {
+        "「いったい　この山は　どこまで続くんだ？|　だいぶ　登ってきたと思うんだがな……。": "Where the hell does this mountain go? I think|we've come a long way..."
+    },
+    "41": {
+        "「その　物騒なものをしまえよ　ヴァレリア。|　いったい　何の騒ぎだ？": "Put that thing away, Va... What the hell's|going on?"
+    },
+    "42": {
+        "「どう考えても　あやしいよ……|　君も　そう思うだろう？<yesno><close>": "I don't know what to think. You think so,|too, don't you?<yesno><close>"
+    },
+    "43": {
+        "「おーい！　つべこべ言わず　こっちこいよ。|　ふたりの分も　食っちまうぞ。": "Hey! Don't tell me what to do... Eat for both|of us..."
+    },
+    "44": {
+        "「……こうやって　三国の魔王が|　一堂に会するのは　はじめてだな。": "... I've never seen the three demon lords in|one place like this before."
+    },
+    "45": {
+        "「小うるさい部下や　母親の監視もないんだ。|　気がねなく　お互いのことを　話そうぜ。": "No nagging subordinates, no mother's|supervision... We could talk about each other|without a care in the world."
+    },
+    "46": {
+        "「スッテンテン？　お前……。": "Sutten? You..."
+    },
+    "47": {
+        "「ふん……貴様などで　相手になるのか？": "What the...? How am I supposed to know what|you're up to?"
+    },
+    "48": {
+        "「ちっ……スッテンテンの　早とちりめ。|　こいつは　大魔王候補者じゃないぜ。": "Tsk... He's so quick... He's a candidate for|the Great Demon Lord..."
+    },
+    "49": {
+        "「……様子が　おかしいな？": "... What's wrong with him?"
+    },
+    "50": {
+        "「ててて　てっこうせきが…………": "Oh, my God, my handwriting"
+    },
+    "51": {
+        "「ひとつ　１００万ゴールドぉ！？|　そんなの　買えるわけないっしょ！": "One million gold? There's no way I can afford|that!"
+    },
+    "52": {
+        "「やくそうが　８０万ゴールド！？|　なによ！　よそ者には　売れないってこと？": "800,000 gold? What! You mean you can't sell|it to a stranger?"
+    },
+    "53": {
+        "「イエ　イエ　イエ～！|　ワタクシども　ファラザード商業組合は|　どんなお客様でも　大歓迎デス！　ハイ！": "Yeah, yeah, yeah! We at the Farazad Business|Association welcome all customers! Hi!"
+    },
+    "54": {
+        "「ただ　そのぉ…… |　今は深刻な　品不足でして　ハイ……。|　これでも　適正価格でゴザイマス。ハイ。": "It's just that... We're in a serious shortage|right now, so... This is still a fair|price... Hi."
+    },
+    "55": {
+        "「んもー　信じらんない！|　ファラザードのバザールは　やくそうも買えない|　ぼったくりだって　言いふらしてやる！": "I can't believe it! I'll tell everyone that|Farazad's bazaar is a rip-off where you can't|even buy drugs!"
+    },
+    "56": {
+        "「……品不足だと？": "... A shortage?"
+    },
+    "57": {
+        "「ジルガモット！　どこにいる？": "Zilgamot! Where are you?"
+    },
+    "58": {
+        "「あら　ユシュカ。帰っていたのね。": "Hey, Yu... I'm home..."
+    },
+    "59": {
+        "「まずは　無事で何よりだわ。 |　おいしい　おみやげ話のひとつでも|　聞かせてほしいところだけど……": "First of all, I'm glad you're okay. I'd love|to hear one of your delicious souvenirs,|but..."
+    },
+    "60": {
+        "「まあ　かわいらしい　しもべさん。|　いくらで　買ったの？|　私に　売ってくださらない？": "Oh, it's so cute. How much did you get for|it? Would you be willing to sell it to me?"
+    },
+    "61": {
+        "「ざれ言は後にしろ　ジルガモット。 |　元締めの　お前がいながら|　このありさまは　いったい　どうした？": "You can talk to me later, Zilga... What's the|matter with you, the boss?"
+    },
+    "62": {
+        "「このバザールは　ジャリムバハ砂漠の北東|　ディンガ交易所から運ばれる|　さまざまな物資を　取り引きしているのよ。": "This bazaar trades a variety of goods from|the Dinga trading post in the northeast of|the Jarimbaja Desert..."
+    },
+    "63": {
+        "「近ごろ　その大事な交易路　ズムウル峠に |　次から次へと　凶悪な魔物が現れて|　物資を運ぶ隊商を　襲っているの。": "Recently, a series of vicious demons have|been appearing on the Zumwul Pass, an|important trade route, attacking merchants|<br>|carrying goods..."
+    },
+    "64": {
+        "「ファラザード軍に　討伐を頼んだものの|　あちらにも　ご事情があるようで|　大きくは動けないと　つれないお返事……。": "I asked Farazad's army to take them down, but|he said they had their own problems and|couldn't make much of a move."
+    },
+    "65": {
+        "「そーなんでゴザイマス！|　品物が届かなくて　売るものナッシン！": "That's right, sir! I've got nothing to sell!"
+    },
+    "66": {
+        "「そして　物価は　急上昇……|　わたくし　首が回りません…………。": "And prices are skyrocketing... I'm having|trouble keeping my head above water..."
+    },
+    "67": {
+        "「……みんな　あなたを　待っていたの。": "... They're waiting for you."
+    },
+    "68": {
+        "「後のことは　まかせておけ。 |　俺たちが　元通りのバザールに戻してやる。": "We'll take care of the rest. We'll get the|bazaar back to normal..."
+    },
+    "69": {
+        "「ユシュカ様ァ～！　恩にきるデスヨ～！": "Master Jushka! I'm in your debt!"
+    },
+    "70": {
+        "「ひとまず　旅の疲れは　取らないとな。|　宿に泊まって　作戦会議だ。": "But first, I need to get rid of my travel|fatigue. We'll stay at the inn and work|out..."
+    },
+    "71": {
+        "「この世には　ワケありな奴らが　ごまんといる。 |　集落からあぶれた者　借金を背負った者|　故郷を失った者　どこにも行くアテのない者……": "There are a lot of people in this world with|a lot of problems. Some are outcasts, some|are in debt, some have lost their homes, some|<br>|have nowhere else to go..."
+    },
+    "72": {
+        "「あらゆる者を分けへだてなく　受け入れる代わり|　それまでの　一切の縁を　断ち切って|　ファラザードの魔王と　主従契約を結ばせる。": "In exchange for accepting everyone with open|arms, I've severed all previous ties and|entered into a master-slave contract with the|<br>|Demon Lord of Farazad..."
+    },
+    "73": {
+        "「ゼクレスのような　血統主義でも |　バルディスタみたいな　恐怖統治でもない方法で|　民を集め　ひとつの国を成したってわけだ。": "I've heard of people coming together to form|a nation, but not through bloodlines like|Zechariah's, or through terror like|<br>|Valdista's."
+    },
+    "74": {
+        "「ファラザードの魔王の務めは|　契約を　果たすこと。|　民を庇護し　その暮らしを保証すること……。": "The task of Farazad's evil king is to fulfill|his contract... To protect his people and|ensure their well-being..."
+    },
+    "75": {
+        "「だが　魔王との契約を結ばず |　一方的に　ファラザードの富を奪おうとする|　ならず者どもも　近隣には　ひそんでいる。": "But there are also a few rogues in the|neighborhood who haven't made a pact with the|Demon Lord and want to unilaterally steal|<br>|Farazad's wealth."
+    },
+    "76": {
+        "「今回の　バザールの問題も|　ファラザードの魔王のやり方が|　気に食わない連中の　しわざに違いない。": "This whole Bazaar thing must be the work of|people who don't like the way Farazad's demon|lord is doing things..."
+    },
+    "77": {
+        "「ならず者など　取るに足らない……か。|　いい視点だ。俺も　問題の根っこは|　別の所に　隠れているような気がしている。": "You're nothing but a riffraff. .... Okay... I|have a feeling that the root of the problem|lies elsewhere..."
+    },
+    "78": {
+        "「ああ　よく考えろ。 |　思考を止めず　最善の策を求める者だけが|　魔界を　生き抜くことができる。": "Yes, well... Only those who never stop|thinking and seek the best possible solution|can survive the demon world."
+    },
+    "79": {
+        "「……よし　いいだろう。 |　お前の思う通り　好きにするがいい。": "... All right, all right... I'll do whatever|you want me to do."
+    },
+    "80": {
+        "「この件に関しては　さっき会った |　元締めのジルガモットが　くわしいだろう。": "The man I just met, Zilgamot, knows a lot|about this..."
+    },
+    "81": {
+        "「俺のしもべとして　ふさわしい働きを|　期待してるぞ。今は　身体を休めておけ。|　明日からは別行動だ。": "I expect you to be a worthy servant of mine.|For now, you rest. Tomorrow..."
+    },
+    "82": {
+        "<pc>は　宿屋で　よく休んだ。": "<pc> I used to stay at the inn..."
+    },
+    "83": {
+        "そして　夜が明けた！": "And the dawn!"
+    },
+    "84": {
+        "「これでこそ　ファラザードのバザールだわ。 |　しもべさんのおかげで　ひと安心よ。": "Now that's what I call a Farazad bazaar...|Thanks to you, Mr. Shimobe..."
+    },
+    "85": {
+        "「ネエ　ネエ　ネエ～！|　アンタ　大活躍だったんだってェ！？|　ヤルジャン　しもべ！": "No, no, no, no! I heard you had a big day!|Yelp, shimobe!"
+    },
+    "86": {
+        "「なるほど。有能なるかな　しもべ殿………… |　ユシュカ様の目に　狂いなし。": "I... You're a very capable servant... Lady|Jushka's eyes are mad..."
+    },
+    "87": {
+        "「ふふ……しもべ呼ばわりは　お気に召さない？ |　これまでも　ユシュカに　さんざん|　振り回されてきたんでしょうし　当然よね。": "Hmm... You don't like it when I call you a|servant? I'm sure you've been pushed around a|lot by Jushka in the past, so..."
+    },
+    "88": {
+        "「でもね　ユシュカは　本当に|　価値のあるものにしか　興味を示さないの。|　まして　そばに置くものなら　なおさら……。": "But you see, Jushka is only interested in|things that are truly valuable. Especially if|it's going to be kept close by."
+    },
+    "89": {
+        "「あなた　よっぽど|　ユシュカに　気に入られているのよ。": "You're very much in Jushka's good graces..."
+    },
+    "90": {
+        "「おぉ～い　次の隊商が　到着するぞぉ。 |　今まで　遅れてた分が　一気に来るそうだ。": "The next group of soldiers is arriving...|We've been delayed so long, and now it's all|coming at once."
+    },
+    "91": {
+        "「ヤッベ！　はたらかにゃソンソン！|　また会おうゼ　しもべ！": "Oh, no! I've got to work! I'll see you soon,|Shimobe!"
+    },
+    "92": {
+        "「御用の際は　ごひいきに　しもべ殿…………。": "If you ever need anything, please do not|hesitate to contact me."
+    },
+    "93": {
+        "「ふふ。しもべ殿……ね。とはいえ |　大活躍したのに　あんまりな扱いよね？|　今度から　名前で呼ぶように　言っておくわ。": "Hmmm. Shimobeiden .... But that's not very|nice for someone who did so much for you, is|it? Tell her to call me by my first name next|<br>|time..."
+    },
+    "94": {
+        "「いい取り引きを　ありがとう。|　今度は　お客様としても　会いにきて。|　あなたなら　いつでも大歓迎よ。": "Thank you for your business. I'd like to meet|you as a customer. I'm sure you're always..."
+    },
+    "95": {
+        "<center>いまいましき　ユシュカのしもべへ|よくも　コケにしてくれたな。|おかげで　オレたちのプライドは　ズタズタだ。": "How dare you mock us, you miserable servants|of Jushka... Thanks to you, our pride has|been..."
+    },
+    "96": {
+        "<center>裏通りのアジトで　お前を待つ。|逃げられると　思うなよ！": "In a back alley hideaway, you... Don't think|you're gonna get away with this!"
+    },
+    "97": {
+        "<pc>は|謎の果たし状（だいじなもの）を　手に入れた！<me 60>": "<pc> I've got a mysterious letter of intent!<me 60>"
+    },
+    "98": {
+        "「ククク……。|　我らのアジトへ　ヨゥヨゥ　おいでなすったァ。": "Kkkkk... To our hideaway... Yo, yo, come|here..."
+    },
+    "99": {
+        "「アンタのこたァ　ずっと監視してたんだヨゥ。|　ユシュカと　バザールに現れた時からネィ……。": "You know, I've been watching you... Ever|since you showed up in the bazaar with|Yushka..."
+    },
+    "100": {
+        "「流れ者どもを　そそのかして　隊商を追いはぎィ|　ファラザードの息の根止める　親分の計画……|　ヨゥヨゥ　ジャマしてくれたなァ？": "My master's plan to entice the drifters,|burglarize the traders, and stop Farazad...|Yo, yo, what's up, man?"
+    },
+    "101": {
+        "「おやびん　おやびーん！|　例のヤツが　ノコノコきたよーお！": "Oh, dear. Oh, dear. It's that guy who came|running in here!"
+    },
+    "102": {
+        "「ガーッハッハッハッハ！！|　泣く子も黙る　シシカバブ団の首領ぉ……": "Ha-ha-ha! The leader of the shish-kabob|gang..."
+    },
+    "103": {
+        "「この　シシカバブさまに　たでついたこどぉ|　たあっぷり　後悔させでやるろぉおん！！": "I'm going to make you regret everything|you've done to this shish-kabob."
+    },
+    "104": {
+        "「もともどぉ　ここは　ザード遺跡ってぇ |　オデたち　盗賊団のすみかだぁ。|　そこを　今の魔王が　乗っ取りやがっだ。": "This place is called the Zard Ruins, and it's|where Odeh and his band of thieves live.|That's where the current Demon Lord took|<br>|over..."
+    },
+    "105": {
+        "「あんの魔王は　バカ野郎だぁ！|　オデたちのこと　なんにも　わがっちゃいねえ。": "That Demon Lord of yours is an idiot! He|doesn't know anything about Odette and the|others..."
+    },
+    "106": {
+        "「自由の国だ　なんだと　ほざきやがるがぁ |　けっぎょくは　アタマの切れるヤツが|　商売して　金稼いで　トクするだげ……。": "They say it's a free country, but in the end,|it's all about smart people doing business,|making money, and getting rich..."
+    },
+    "107": {
+        "「だっだら　オデたちも　自由にするど。|　こんな　ふざけた国はぁ|　全部　奪っで　ぶっ壊しでぇ…………": "Then we'll be free too... We'll take this|ridiculous country and tear it down..."
+    },
+    "108": {
+        "「この　オデが　王サマに |　なってやるんらよぉおおおおぉおお！！": "I'm going to become a king!"
+    },
+    "109": {
+        "「なるほど　そういうことか。": "I see. So..."
+    },
+    "110": {
+        "「こいつを　泳がせておいて　よかったぜ。|　大した元手もかからず|　アジトもホシも　一気に釣れたな。": "It's a good thing I let him swim... It didn't|take much money to catch all the fish..."
+    },
+    "111": {
+        "「ばかばかーッ！|　ユシュカには　気づかれないように|　おびき寄せろって　言ったじゃーん！": "Idiot! Idiot! I told you to lure Jushka in|unnoticed!"
+    },
+    "112": {
+        "「ゆ　ゆ　ゆ……ユシュカぁあ！！|　てんめぇ　よぐもぉっっ！！": "Yoo-hoo-hoo... Yushkaa! You're the only one|who can do it!"
+    },
+    "113": {
+        "「暴力に訴えるのは　好きじゃないんだがな……。": "I don't like to resort to violence, but..."
+    },
+    "114": {
+        "「うおおおおおおおおおっっ！！！": "Whoa, whoa, whoa, whoa!"
+    },
+    "115": {
+        "「コイツラ　マジ　ヤッベー！|　イカレタ　ツヨサ　ハンパネー！": "These guys are really bad! I can't wait to|see what they do to you!"
+    },
+    "116": {
+        "「オヨヨッ！？": "Oyoyo!"
+    },
+    "117": {
+        "「あらかたの賊は　つぶしたつもりだったが|　お前らみたいな　ヤンチャ坊主どもが|　まだ　残っていたか。": "I thought I'd taken out most of the bandits,|but there are still a few naughty boys like|you left..."
+    },
+    "118": {
+        "「俺のいない間に　やりたい放題 |　やっちまおうって　目論みだろうが……|　甘かったな。": "I know you're planning to do whatever you|want while I'm gone. Sweet..."
+    },
+    "119": {
+        "「たしかに　ここは　自由の都。|　だが　自由にしていいことと　悪いことがある。|　暴力に訴えるのは　悪いことのほうだ。": "It's true, this place is... But what is free|and what is not... And violence is a bad|thing..."
+    },
+    "120": {
+        "「この　世の中の常識…… |　他の連中にも　教えてやってくれるな？": "Common sense in this world... Can you tell|the others about it?"
+    },
+    "121": {
+        "「すすすすいやせんでしたァーーーーっ！！|　ヨゥヨゥ　お許しあれヨォーーーゥ！！！": "I'm so sorry...! Yo, yo, forgive me, yo!"
+    },
+    "122": {
+        "「やれやれ。手間かけさせやがって……": "You... You made me go through all that|trouble..."
+    },
+    "123": {
+        "「グワアアアアアアッッ！！": "Gwaaaaahhhh!"
+    },
+    "124": {
+        "「ほう……こいつは　意外と……。": "Oh... This is surprising..."
+    },
+    "125": {
+        "「ブファアアアアア！！|　オデは負げねえど　ユシュカァァ！！": "Bwaaaaaaah! You can't beat the odes, Yushkaa!"
+    },
+    "126": {
+        "「シシカバブといったな　デカいの。": "Like shish-kabob. De..."
+    },
+    "127": {
+        "「お前の　その体力と　頑丈さがあれば |　ファラザードの特攻隊長くらいには　なれるぞ！": "With your strength and sturdiness, you'd make|a great suicide captain for Farazad!"
+    },
+    "128": {
+        "「ばっ　ばっ　ばっ……！|　バカにしでんのがあああああああっっ！！": "Ba-ba-ba...! You're making fun of me!"
+    },
+    "129": {
+        "「こちらです　ナジーン殿！|　ジルガモットからの　通報では|　ここに　盗賊団のアジトがあると……。": "This way, Master Nazine! Zilgamot has|informed us that this is where the bandits|are holed up..."
+    },
+    "130": {
+        "「ぐっ……ファラザード軍めぇ……。": "Damn... Farazad's army..."
+    },
+    "131": {
+        "「覚えてろ　ユシュカぁ！|　いつか　オデが　ボコボコにしてやるんど！！": "Remember this, Eshka. One day I'll beat you|to a pulp..."
+    },
+    "132": {
+        "「賊どもは　まだ　近くにいる。|　速やかに追討せよ。": "The bandits are still close. I'll be right|behind you."
+    },
+    "133": {
+        "「はっ！": "Ha!"
+    },
+    "134": {
+        "「……お前たちは　盗賊団の者ではないな？": "... You don't belong to the bandits, do you?"
+    },
+    "135": {
+        "「こんな　品格にあふれた　盗賊がいるか？": "What kind of bandit would have such dignity?"
+    },
+    "136": {
+        "「本件に関わった者たちは|　この後　ファラザード城へ出頭し|　一部始終を　説明するように。": "All those involved in this matter will now|report to Farazad Castle and explain the|whole story..."
+    },
+    "137": {
+        "「俺たちは　ならず者を　成敗したんだぞ。|　少しは　ほめてくれたって　いいんだぜ？": "We've defeated the rogue... Why don't you|give us a little credit?"
+    },
+    "138": {
+        "「ファラザード城の正門は　中央広場にある。|　門兵のホルティンに　声をかければ|　城に入れるようにしておこう。": "The main entrance to Farazad Castle is in the|central square... If you speak to the|gatekeeper, Hortin, he will let you in..."
+    },
+    "139": {
+        "「あの　メタルスライムより　おカタいのが|　ファラザードの魔王の副官　ナジーン殿さ。": "The only thing worse than a metal slime is|Farazad's second-in-command, Nagy."
+    },
+    "140": {
+        "「さて。ご招待あずかったことだし|　いよいよ　ファラザード城へ……|　魔王様とのご対面といこうぜ。": "Well. Now that we've been invited, it's time|to go to Farazad Castle... To meet the Demon|Lord..."
+    },
+    "141": {
+        "「ゼクレスの魔王と　バルディスタの魔王を|　大審門の前に　引きずり出さんがため|　会談を取り付ける　ファラザードの使者……": "The Demon Lord of Zekres and the Demon Lord of Valdista| To drag him in front of the Grand Inquisitor| Farazad's emissary to set up a meeting"
+    },
+    "142": {
+        "「その正体は　魔界の南を統べる　新興国の魔王。|　……まあ　そういうことだ。": "Its true identity is that of an emerging|power in the south of the demon world... ...|Well, that's..."
+    },
+    "143": {
+        "「ユシュカは　自分の言葉で|　ふたりの魔王を説得すると　我を押し通した。|　私は　危険すぎると　反対したのだが……。": "Jushka said she would convince the two demon|lords with her own words, but I insisted. I|was against it, saying it was too dangerous."
+    },
+    "144": {
+        "「だから　素性は　隠し通しただろ。|　その辺の雑魚どもにバレたら　面倒なのは|　もちろん　俺だって　わかっていたさ。": "That's why I don't tell anyone who I am. Of|course, I know it'll be a problem if some|small fry find out..."
+    },
+    "145": {
+        "「しかし　この期に及んで　ご自分のしもべにまで|　隠し通していたのには　感心しませんね。": "But I'm impressed that you've managed to keep|this from even your own servants..."
+    },
+    "146": {
+        "「ファラザードに戻って　身の安全が確保できたら|　すぐにでも　伝えるつもりだったさ。": "As soon as I get back to Farazad and my|safety's secure, I'll tell them..."
+    },
+    "147": {
+        "「だが　バザールでは　問題が起きていて|　それどころじゃなくなったんだ。|　これは　留守をあずかる　お前の怠慢だぞ？": "But with all the trouble in the bazaar, I'm|afraid we're gonna have to... This is your|fault. You're not supposed to be here."
+    },
+    "148": {
+        "「お手をわずらわせ　申し訳ありません。|　ですが　こちらにも　事情がありまして……|　我が王の帰還を　待ちわびていたのですよ。": "I apologize for the inconvenience... But we|have our own problems. I have been awaiting|the return of my king..."
+    },
+    "149": {
+        "「ご存知の通り　新興国である我が国の兵力は |　充実しているとは言いがたく　国境の防衛と|　城下の警備……その両立に　苦慮しています。": "As you know, as an emerging nation, our|military is far from well-equipped to defend|our borders and guard our castles. We're|<br>|struggling to find a balance."
+    },
+    "150": {
+        "「あなたが外遊中に得た　豊富な経験をいかして |　この状況を打破する　目覚ましい政策を|　ぜひとも　ご教示いただけたらと……。": "I'm hoping that you can draw on the wealth of|experience you've gained during your travels|and come up with some remarkable policies|<br>|that will help us overcome this situation."
+    },
+    "151": {
+        "「彼女の　労をねぎらうのを|　どうぞ　お忘れなく。": "Please don't forget to congratulate her..."
+    },
+    "152": {
+        "「わかってるって！": "I know! I know!"
+    },
+    "153": {
+        "「ほら。これは　これまでの礼と……|　シシカバブ団を退治した　手間賃だ。|　遠慮なく　受け取っておけ。": "Here. This is a thank you for what you've|done so far... The hand that killed the|Shishkabob Gang... Feel free to take it..."
+    },
+    "154": {
+        "「ナジーン。後は　まかせるぞ。": "Na... I'll tell you what..."
+    },
+    "155": {
+        "「御意に。": "..."
+    },
+    "156": {
+        "「君の部屋は　１階の西側に　用意させよう。|　部屋の前には　侍女のウテンが　立っている。|　もしも　迷ったら　目印にするといい。": "Your room is on the west side of the first|floor. In front of your room stands the maid|of honor, Uten. If you get lost, I can point|<br>|you out..."
+    },
+    "157": {
+        "「……君とは　少し　話がしたい。|　私も　後で向かうから|　部屋で　待っていてもらえるだろうか。": "I... I need to talk to you for a minute. I'm|on my way, so if you could just wait in my|room..."
+    },
+    "158": {
+        "「ユシュカが　アストルティアから連れてきた|　君の件については　報告を受けていた。": "Jushka brought me from Astrutia. I've been|briefed on your case..."
+    },
+    "159": {
+        "「ユシュカと　血の契約を　交わしたこともな。|　……話したかったのは　そのことだ。": "I have made a blood pact with Jushka. ... I|just wanted to tell you that..."
+    },
+    "160": {
+        "「高位の魔族が　他者に　生き血を与えることで|　その生命と　運命を　分かちあう儀式だ。": "High ranking demons share their lives and|destiny by feeding their lifeblood to|others..."
+    },
+    "161": {
+        "「禁術とは　そんな　都合のよいものではない。": "The forbidden arts are such a convenient..."
+    },
+    "162": {
+        "「命さえ落としかねない　危険な賭けなのだ。|　まして　魔族ならぬ者に　血を与えるなど……|　はっきり言って　成功したのは　奇跡に近い。": "It's a dangerous gamble that could cost you|your life. And to give blood to someone who|isn't a demon... To put it bluntly, it's a|<br>|miracle we succeeded."
+    },
+    "163": {
+        "「あらためて　礼を言わせてほしい。|　君には　本当に感謝している。": "I just wanted to thank you again for... I|just want to thank you..."
+    },
+    "164": {
+        "「あいつは　型破りで　危うい所もある……。|　正直　会談の成功よりも　その身の無事こそが|　私にとっては　何より　価値あることなのだ。": "He's unorthodox. He's dangerous. Frankly, his|safety is more valuable to me than the|success of this meeting."
+    },
+    "165": {
+        "「死んだ魔王より　生きている使い魔 |　……とは言うが　アストルティアにも|　似たような言葉が　あるのだろう？": "A living messenger rather than a dead demon|lord. Isn't there a similar term in|Astruthia?"
+    },
+    "166": {
+        "「失礼します　ナジーン様！": "Excuse me, Miss Nazine!"
+    },
+    "167": {
+        "「帰ってこられたはずの　魔王様が|　また　どこかへ　姿を消されまして……。": "The Demon Lord had returned, but he|disappeared again."
+    },
+    "168": {
+        "「これから　私は　今後の公務について|　臨時の会議を　開かねばならない……。|　誰かが　迎えにいってくれると　ありがたいが。": "I'm going to have to hold a special meeting|to discuss my future official duties. It|would be nice if someone could pick me up..."
+    },
+    "169": {
+        "「魔界の南部は　砂漠に覆われていて|　豊かな実りなど　とても　期待できない。|　だから　古くから　交易が発達してきた。": ""
+    },
+    "170": {
+        "「砂漠の小国家群が　それぞれに隊商を組んで|　農作物や家畜　毛皮や織物など|　さまざまな品物を　取り引きする。": "A group of small nations in the desert, each|with their own merchant armies, trading in|crops, livestock, furs, textiles, and other|<br>|goods."
+    },
+    "171": {
+        "「俺も　もとは　宝石商の生まれだ。|　隊商の荷車が　ゆりかごみたいなものだった。": "I used to be a jeweler. A jeweler's cart is|like a cradle..."
+    },
+    "172": {
+        "「宝石は　富と権力の象徴だから |　俺が渡り歩いた国は　どこも活気にあふれ|　夢のような　栄華を極めていたものだ。": "Jewelry is a symbol of wealth and power, and|every country I've been to has been vibrant,|dreamy, glorious..."
+    },
+    "173": {
+        "「だが　そういう国ほど　おどろくくらい|　あっさりと　滅んでしまう。|　そんな光景を　幾度も見てきた……。": "But it's countries like that that fall so|easily. I've seen it happen so many times."
+    },
+    "174": {
+        "「侵略　内乱　あるいは　天災…… |　なんにせよ　そのきざしが現れた時|　奴らは　問題を先送りにする……。": "An invasion, a civil war, a natural|disaster... Whatever it is, at the first sign|of it, they'll put it off."
+    },
+    "175": {
+        "「そして　いつしか　積もり積もった |　災いの火種が　破滅を呼び寄せるのだ。": "And in time, the sparks of misfortune that|have built up will bring destruction..."
+    },
+    "176": {
+        "「思考を止めることは　死ぬことと同じだ。|　考え続け　新しいものを取り入れなければ|　この魔界で　生き残ることはできない。": "To stop thinking is to die. If you don't keep|thinking, if you don't keep bringing in new|things, you'll never survive in this demon|<br>|world."
+    },
+    "177": {
+        "「……だから　俺は|　今までの　魔界にはない方法で|　俺の理想郷を　築くことにした。": "... So I'm going to build my utopia in a way|that the demon world has never seen before."
+    },
+    "178": {
+        "「そう……今まで　どんな魔王も|　試したことのない　新たな方法で…………。": "So... It's a new method that no demon lord|has ever tried before."
+    },
+    "179": {
+        "「これが　砂の都ファラザード。|　俺の　自慢の国だ。": "This is Farah, the Sand City... I'm so|proud..."
+    },
+    "180": {
+        "「ここまで　国を大きくするのは　苦労したぞ。|　ジャリムバハ砂漠の小国家群を　あの手この手で|　統一しなきゃ　ならなかったからな。": "It's been a struggle to grow the country this|far. We had to unite all the small nations of|the Jalimbaha desert..."
+    },
+    "181": {
+        "「まだ　解決すべき問題は　ごまんとある。|　シシカバブ団みたいな連中は　ファラザードの|　闇の部分とも　言えるな……。": "We still have a lot of problems to solve...|People like the Shishkabab gang are the dark|side of Farazad..."
+    },
+    "182": {
+        "「だが　俺の野望は　ファラザードに留まらない。 |　この魔界は　もっと新しく　もっと刺激的な|　面白い世界にできる。": "But my ambition is not to stop at Farazad...|This magical world will be newer, more|exciting, more interesting..."
+    },
+    "183": {
+        "「それを　成しとげられるのは……|　大魔王になった　俺だけだ。": "The only one who can accomplish this is... I,|the Great Demon King..."
+    },
+    "184": {
+        "「お前のほうは　早く　元の身体に戻りたい |　一心だろうが　俺が　大魔王になるまでは|　キリキリ働いてもらうから　覚悟しろよ。": "I know you want to get back to your normal|body as soon as possible, but until I become|the Great Demon King, you'll have to work|<br>|your ass off."
+    },
+    "185": {
+        "「明朝　デモンマウンテンへ　出発だ。|　俺の　足手まといにならぬよう|　自分の部屋で　しっかり　休んでおけよ。": "Tomorrow morning, I'll take you to Demon|Mountain. I want you to stay in your room and|get some rest so you don't slow me down."
+    },
+    "186": {
+        "「至極　まっとうな進言をしてますよ　私は。|　私のアタマが　カタいのではなく|　あなたのアタマが　ゆるいのです。": "I'm making a perfectly legitimate point...|It's not my head that's too tight, it's your|head that's too loose."
+    },
+    "187": {
+        "「昨夜遅く　裏通りで　賊の掃討にあたっていた|　兵士たちを呼び集め　勝手に　任務を解き|　宴を開いて　飲めや歌えの　どんちゃん騒ぎ。": ""
+    },
+    "188": {
+        "「駆けつけてみれば　兵士だけでなく |　町の住民……挙句の果てに　おたずね者まで|　宴の輪に　くわわっていたようですが？": "When I arrived, I found not only soldiers but|also residents of the town... And to top it|all off, it seems that even the inquisitors|<br>|were part of the party?"
+    },
+    "189": {
+        "「あなたという人は……！ |　もう少し　魔王としての自覚を持って|　行動するようにと　あれほど言っているのに。": "You are...! I told you to act with a little|more awareness as the Demon Lord..."
+    },
+    "190": {
+        "「それから　ゼクレスと　バルディスタでの行動も |　決して　ほめられたものでは　ありませんよ。|　あなたの態度ひとつで　国家間のもめ事が……": "Also, your behavior with Zekres and Valdista|was less than commendable. Your behavior has|led to national conflicts..."
+    },
+    "191": {
+        "「あなたこそ　すっかり　寝坊したくせに。|　魔王が　しもべに　責任転嫁ですか……。": "You're the one who overslept... The Demon|Lord is shifting the blame to his servant..."
+    },
+    "192": {
+        "「昨日は　ザードの尖塔まで|　ユシュカを　呼びにいってくれたそうだな。|　手間をかけさせて　すまない。": "Yesterday, you went to the spire of the Zard|to call Jushka... I'm sorry to bother you..."
+    },
+    "193": {
+        "「これから　君たちは　ゲルヘナ幻野を北上し|　大審門を目指すことになる。|　君も　一度は　訪れているはずだ。": "From now on, you will travel north through|the Gehenna Fields to the Grand Inquisitor's|Gate... You've been here before..."
+    },
+    "194": {
+        "「ユシュカからの要請に応え　他国の魔王たちも |　大審門前の集落に　集まってくるだろう。|　門の先が　いよいよ　デモンマウンテンだ。": "In response to Yushka's request, Demon Lords|from other countries are gathering in the|village in front of the High Council Gate...|<br>|At the end of the gate, the Demon Mountain..."
+    },
+    "195": {
+        "「デモンマウンテンでは　大魔王の資格を問う |　さまざまな試練が　待っているそうだ。|　大審門が開く都度　試練の内容は変わるという。": ""
+    },
+    "196": {
+        "「もちろん　大魔王になろうとする魔族は |　三国の魔王だけに　限らないし|　候補者同士の争いも　しれつを極めるだろう。": "Of course, it's not just the three demon|lords who are trying to become great demon|lords, and the battles between the candidates|<br>|are extremely heated..."
+    },
+    "197": {
+        "「ふん……。 |　せいぜい　見極めてもらおうじゃないか。|　大魔王たらんとする俺の　器の大きさをな。": "Hmm... I'll let you judge for yourself... I'm|a big demon lord..."
+    },
+    "198": {
+        "「ナジーン　留守はまかせた。|　先に行ってるぞ！": "Najeev, I'm not home... I'm going first!"
+    },
+    "199": {
+        "「うわーーっ！　ユシュカ様っ！？": "Whoa! Master Jushka!"
+    },
+    "200": {
+        "「まーた　城の上から　飛び降りたんですかぁ？": "Did you just jump off the top of a castle?"
+    },
+    "201": {
+        "「あんな　行儀の悪い　大魔王がいるものか。|　まったく　いつまで経っても　自由な奴め……。": "There's a demon lord with such bad manners...|He's always been free..."
+    },
+    "202": {
+        "「……ともあれ　ユシュカが|　無茶なマネをしないよう|　しっかり　見張ってもらえるだろうか。": "... Anyway, you can keep an eye on Jushka to|make sure she doesn't do anything rash..."
+    },
+    "203": {
+        "「君が　ついていてくれれば|　安心して　留守をあずかれるというものだ。|　主のこと……よろしく頼む。": "If you're with me, I'll be able to leave|without worrying about... Lord... Please..."
+    },
+    "204": {
+        "「本当に　待たされたよ……。|　集まった連中が　うるさくて仕方なかった。": "I've been waiting a long time... I've been|waiting a long time."
+    },
+    "205": {
+        "「やはり　貴様が　ファラザードの魔王だったか。|　あまりに遅いので　もはや|　来ないものと　思っていたがな……。": "You're the Demon Lord of Farazad after all...|It's so late, I thought you'd never show|up..."
+    },
+    "206": {
+        "「悪い　悪い。": "Bad..."
+    },
+    "207": {
+        "「……それじゃ　さっそく　始めるとしよう。": "... Okay, let's get started."
+    },
+    "208": {
+        "<center>相克する　天運を持つ者　集いし時|大魔王への道は　開かれる。|今こそ　時は満ちた……。": "When those with conflicting destinies gather|together, the path to the Great Demon Lord|will open. The time is now..."
+    },
+    "209": {
+        "<center>王の試練を　乗り越え|いざ　頂へと　来たれ！！": "Come, overcome the trials of kings and reach|the summit!"
+    },
+    "210": {
+        "「いけェーーーーーーーッッ！！": "Let's go, let's go, let's go!"
+    },
+    "211": {
+        "「ウオオオオオオオオオオオオオオオオ|　オオオオオオオオオッッ！！！": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa,|whoa, whoa, whoa!"
+    },
+    "212": {
+        "「ハアアアアアッ！！": "Haaaaaaah!"
+    },
+    "213": {
+        "「この大矛を受け止める　覚悟のある者だけ |　登ってくるがいい！": "Only those who are prepared to bear the brunt|of this behemoth may ascend!"
+    },
+    "214": {
+        "「さて……俺たちも　行くとしよう。|　こんなところで　雑魚に構ってるヒマはない。": "Well... We should get going. I don't have|time for these little fish."
+    },
+    "215": {
+        "「あんれまあ……門が　開いてますじゃ。|　まいど　おおきに！": "Well... The gate is open... Thank you very|much."
+    },
+    "216": {
+        "「ウワアアアアーーーーーッッ！？": "Whaaaaaaaaaaaat!"
+    },
+    "217": {
+        "「どうやら　試練が　待ち受けているようだぞ。": "Apparently, there are trials ahead..."
+    },
+    "218": {
+        "「まだ　道のりは長そうだ。|　さっさと　先に進むとしよう。": "We still have a long way to go... If we just|keep moving..."
+    },
+    "219": {
+        "「おいおい……さびしいことを　言いなさんな。|　お互い　知らぬ仲じゃ　ないんだからよ。": "Oh, come on... You're gonna miss me. We're|not strangers to each other..."
+    },
+    "220": {
+        "「今日は　あの時の礼に|　ちょっとした　プレゼントを用意したのさ。|　きっと　気に入ると思うぜ……。": "I got you a little present today to thank you|for what you did. I think you'll like it."
+    },
+    "221": {
+        "「あばよ　魔王ユシュカ。": "Good-bye, Demon Lord Yu..."
+    },
+    "222": {
+        "「なっ……ヴァレリア様ッ！？": "What the... Lady Valeria!"
+    },
+    "223": {
+        "「大魔王の資格を問う試練に　手助けなど不要。 |　なぜ　命令を無視して　ついてきた？": "I'm trying to qualify as a demon lord, and|you're not helping. Why did you ignore my|orders and follow me?"
+    },
+    "224": {
+        "「いや　なんでって…………|　そりゃァ　心配だし………………なァ？": "No... Why? Because I'm worried about you...|What?"
+    },
+    "225": {
+        "「私のチカラが　信じられない者は|　そこに並べ……。": "Those who don't believe in my power, line up|there..."
+    },
+    "226": {
+        "「あの岩と同じように　たたき斬ってやる！": "I'll cut you down like that rock!"
+    },
+    "227": {
+        "「も…申し訳ございませんでしたァッッ！！": "I'm... I'm sorry, sir!"
+    },
+    "228": {
+        "「よう。助かったぜ　ヴァレリア。 |　よかったら　一緒に　上を目指さないか？": "Hey, man. Thanks for the help, Va... I was|wondering if you'd like to join me on the way|up."
+    },
+    "229": {
+        "「……斬られたいのか？": "... Do you want to be cut down?"
+    },
+    "230": {
+        "「同行すれば　お前の　かわいい部下たちに |　カラまれることはないだろうと　思ってな。": "I thought if I went with you, I wouldn't have|to deal with your pretty boys..."
+    },
+    "231": {
+        "「これで　一緒に行く理由は　なくなったな。": "Now there's no reason for me to go with|you..."
+    },
+    "232": {
+        "「……相変わらず　おっかないヤツだな。": "... Still the same old, same old..."
+    },
+    "233": {
+        "「いやはや　まったく……。|　しかし　これで　先へ進めますじゃ。": "Oh, no, no, no. But now we can move on..."
+    },
+    "234": {
+        "「まいど　おおきに！": "Thank you very much!"
+    },
+    "235": {
+        "「あんなのも　大魔王になろうとしてるのか……。": "That thing is trying to become a demon lord|too..."
+    },
+    "236": {
+        "「まあいい。俺たちも　行くぞ。": "Well... We're..."
+    },
+    "237": {
+        "「なんだって　こんなところに？|　おい　起きろ…………": "What the hell are you doing here? Hey, wake|up..."
+    },
+    "238": {
+        "「離れろ　ユシュカっ！！": "Get off me, Jushka!"
+    },
+    "239": {
+        "「アスバル！？": "Asbal!"
+    },
+    "240": {
+        "「ウウッ……ウグゥウウウ……|　タオス……タオス……タオス…………": "Ughhh Ughhhhh| Taos Taos Taos"
+    },
+    "241": {
+        "「オデ……ユシュカ　タオスゥゥ……|　ユシュ……ユシュカァァ……ァァア……！": "Ode... Yushka Taos... Yush... Yushkaa...|Ahh...!"
+    },
+    "242": {
+        "「お前に　復讐するために　はるばる|　デモンマウンテンまで　追いかけてきたらしい。": "I've followed you all the way to Demon|Mountain to exact my revenge."
+    },
+    "243": {
+        "「その復讐心を　母上に……|　エルガドーラに　利用されて|　やっかいな呪いを　かけられてしまったんだ。": "Your mother took her vengeance out on me.|Elgadora used her to cast a nasty curse on|me."
+    },
+    "244": {
+        "「奴の怒りが消えない限り|　呪いが　心と身体をむしばみ続け|　地獄の果てまでも　追ってくるだろう……。": "As long as his wrath remains unquenched, the|curse will continue to consume his mind and|body, chasing him to the ends of hell..."
+    },
+    "245": {
+        "「そいつは　ご苦労なことだ。": "Well, that's a relief."
+    },
+    "246": {
+        "「他人事みたいに言うな！ |　お前のせいで　面倒に巻き込まれたんだぞ|　ユシュカ！！": "Don't talk to me like I'm somebody else!|You're the one who got us into trouble,|Jushka!"
+    },
+    "247": {
+        "「ソコカ！？　ユシュカァァッ！！": "Sokoka! Yushkaaaa!"
+    },
+    "248": {
+        "「ユシュカ！　ユシュカ！　ユシュカ！！|　ユシュカァアアアアアア！！！": "Yushka! Yushka! Yushka! Yushkaaaaaaaaaa!"
+    },
+    "249": {
+        "「クッ……！": "Kuh...!"
+    },
+    "250": {
+        "「おい　シシカバブ！　どこを見てる。|　お前の相手は　そんな　やせっぽちか？": "Hey, shish-kabob! Where are you... Are you|such a skinny little thing?"
+    },
+    "251": {
+        "「魔王ユシュカは　この俺だ。|　かかってこい！！": "The demon king, Jushka... Come at me!"
+    },
+    "252": {
+        "「ユシュカァアアアアアアア！！！|　ブファアアアアアアアアアアア！！！！": "Yushkaaaaaaaa!!! Bwaaaaaaaaaaaaaaaaaaaa ！！！！"
+    },
+    "253": {
+        "「これで　少しは　アタマが冷えただろう。": "That should cool your head down a bit."
+    },
+    "254": {
+        "「ぐっ……ユシュカぁ……！|　オデは……まだまだ…………。": "Geez... Yushka...! Odette... She's still..."
+    },
+    "255": {
+        "「シシカバブ。 |　盗賊団の首領なんて　やめてしまえ。|　もっと　ふさわしい居場所を　与えてやる。": "Sissi... I don't want to be the leader of a|gang of thieves... Give him a more suitable|place..."
+    },
+    "256": {
+        "「…………どいつも……こいつもッ！": "... Always... And this one!"
+    },
+    "257": {
+        "「オデをッ！　バカにしやがってエエエエエ！！": "Ode! You're making fun of me!"
+    },
+    "258": {
+        "「なにを言っでも！　どう　がんばっでも！|　どうせバカだど　役立たずのクズだど|　笑われで　見下されてきたんど……！": ""
+    },
+    "259": {
+        "「だあれにも　わがるはずがねえ！|　のけものにされ　みじめなゴミ捨て場が|　帰る場所になっだ　オデたちの気持ちが……": ""
+    },
+    "260": {
+        "「お前みたいな　魔王なんかにッ！|　なんでも手に入れできた　魔王なんがにッ|　わかるもんがあああああっ！！": "A Demon Lord like you! I'm not going to do|it!"
+    },
+    "261": {
+        "「は…はなせぇ　ユシュカッ！|　お前なんがにぃ　情けをかげられだぐねえ！": "Ha... Let me go, Yushka! You're the only one|who can take mercy on me..."
+    },
+    "262": {
+        "「…………見捨てるものか。": "... Abandon..."
+    },
+    "263": {
+        "「シシカバブよ。お前が　持っている|　底なしの体力と　打たれ強さほど|　ファラザードのため　役立つものはない！": "Shishka... Nothing will serve Farazad better|than your bottomless stamina and unshakable|strength!"
+    },
+    "264": {
+        "「オ…オデが……役に立つ…………？": "O... Ode... Useful...?"
+    },
+    "265": {
+        "「今日から　お前を……|　ファラザード軍の特攻隊長に　任命する。|　盗賊団の仲間も　まとめて　俺のものになれ。": "From now on, you're... I'm making you the|suicide captain of Farazad's army... And all|the bandits are mine..."
+    },
+    "266": {
+        "「その代わり　俺が　お前に|　生きる意味と　居場所を与えてやる。": "In exchange, I will give you meaning and a|place to live."
+    },
+    "267": {
+        "「それが　契約だ。": "That's ..."
+    },
+    "268": {
+        "「………………け……いやぐ……！": "... No... No..."
+    },
+    "269": {
+        "「うっ！？　やばい……。": "Ugh! Oh no..."
+    },
+    "270": {
+        "「…………はあ。": "....."
+    },
+    "271": {
+        "「うぉおおん　うぉおおん……ユシュカァ！|　オデは　お前を　カン違いしてたど！": "Whoa, whoa, whoa... Yushkaa! Ode was wrong|about you!"
+    },
+    "272": {
+        "「こんな　アタマが悪いオデでも|　役に立つなんで　言ってぐれたのは|　ユシュカが　はじめてだァァ～～！！": "You're the first person to ever tell me that|even an idiot like me can be useful."
+    },
+    "273": {
+        "「あ……ああ……。|　俺が　大魔王になって帰るまで|　ファラザードを守ってくれ。": "Oh... Oh, no... I'll protect Farazad until I|return as the Great Demon King..."
+    },
+    "274": {
+        "「ガーーーーッハッハッハッハッハ！！！|　ガッテン承知ど！|　特攻隊長シシカバブさまに　まかせておぐど！": "Gaaaahhhh! I'll be damned! I'll leave you in|the hands of the suicide captain, Lord Shish-|kabob!"
+    },
+    "275": {
+        "「お前は　変わらないな……アスバル。|　自分の立場は後回しにして　誰かを助けちまう。|　まったく　魔王らしくはないが　悪くない。": "You haven't changed a bit... You don't... You|put your own life on the line to save someone|else's. I know it doesn't sound like a demon|<br>|king, but..."
+    },
+    "276": {
+        "「別に……そんなんじゃない。": "I'm not... It's just..."
+    },
+    "277": {
+        "「母が　シシカバブに呪いをかけたのは|　明らかに　お前たち　ファラザード勢を|　妨害するためだった。": "Obviously, my mother put a curse on the|shish-kabobs to thwart your Farazad army..."
+    },
+    "278": {
+        "「僕は　母の助けなんて借りなくても|　お前を倒して　大魔王になれるのに……|　余計なジャマをしてくれたものだ。": "I could've defeated you and become the Great|Demon King without my mother's help. But you|got in my way..."
+    },
+    "279": {
+        "「……一緒に　行かないのか？": "... You're not coming with me?"
+    },
+    "280": {
+        "「行くわけないだろ。|　僕たちは　大魔王の座を争う|　敵同士なんだから……。": "I'm not going... We're enemies vying for the|title of Great Demon King."
+    },
+    "281": {
+        "「ふい～っ。|　戦いに巻き込まれず　すみましたですじゃ。|　まさに　漁夫の利ですじゃ～。": "Well... You didn't get caught up in the|fighting. It was a fishing expedition..."
+    },
+    "282": {
+        "「まいど　おおきに！": "Thank you very much!"
+    },
+    "283": {
+        "「あいつ　ずっと|　ガケ下に　隠れてたのか……？": "He's been hiding under the racket all this|time...?"
+    },
+    "284": {
+        "「まあいい。俺たちも　行くぞ。": "Well... We're..."
+    },
+    "285": {
+        "「ヒィィ～！|　命ばかりは　お助けですじゃーーー！！": "Heee~! I'm only trying to save your life!"
+    },
+    "286": {
+        "「おおっ……これぞ　魔仙卿様のおみちびき！|　ワイは　旅の商人スッテンテン。|　道中　何度か　お目にかかりましたですじゃ。": "Oh, no... This is Lord Immortal's guidance.|I'm a traveling merchant... I've seen him|several times on the road..."
+    },
+    "287": {
+        "「大魔王になるために　デモンマウンテンを|　エッコラヤッコラ　登ってきたものの|　そろそろ　疲れも　出てくる頃……": "I'm going to Demon Mountain to become the Great Demon King| Ekkola, yakkola, yakkola| I'm sure you're getting tired"
+    },
+    "288": {
+        "「そこで　ここまで生き残った　みなさんで|　野営をしてはどうかと　考えたのですじゃ。": "So, we thought it would be a good idea to set|up camp with everyone who survived this|far..."
+    },
+    "289": {
+        "「ですが～！　この　お美しいかたが |　ワイを　おそろしいエモノで　テンツクツンと！": "But... This beautiful woman is going to make|me do terrible things to you!"
+    },
+    "290": {
+        "「当たり前だ。このような誘い|　競争相手をおとしいれる　罠に決まっている。": "Oh, my God. It's a trap, of course, to lure|the competition into..."
+    },
+    "291": {
+        "「めめめめ　めっそうもない！|　ワイは　何度も　みなさんに救われて|　運よく　ここまで　登ってこられたですじゃ。": "Oh, my gosh! I've been saved many times by|you all, and I'm lucky to have made it this|far..."
+    },
+    "292": {
+        "「こんな　非力なワイにできる　恩返しといえば|　ウットリするような　やすらぎのひとときを|　ドドーンと　提供することぐらい……。": "The only thing I can do to repay you for your|kindness is to offer you a moment of|relaxation that will make you fall in love|<br>|with me..."
+    },
+    "293": {
+        "「……よし。では　世話になろう。": "..... Thank you for your help."
+    },
+    "294": {
+        "「正気で　言ってるのか！？": "Are you out of your mind?"
+    },
+    "295": {
+        "「実際　ここまで来て　ヘトヘトだろ。|　この先で　待ち受ける試練を　考えれば|　体力を回復しておくに　越したことはない。": "In fact, we've come so far, we're exhausted.|Considering the ordeal that lies ahead, it's|best to regain your strength..."
+    },
+    "296": {
+        "「貴様ら……|　共謀しているのでは　あるまいな？": "You're not... You're not in cahoots with|them, are you?"
+    },
+    "297": {
+        "「気になるなら　見張っていたら　どうだ？ |　たき火のそばで　休むだけだぞ。": "If you're worried, why don't you keep an eye|on him? Resting by the fire..."
+    },
+    "298": {
+        "「その手には　乗らないよ……。|　いつも　そうやって　甘い言葉をささやいて|　自分の思い通りにしようとするんだ　お前は。": "I'm not going to play into your hands. You're|always whispering sweet nothings like that,|trying to get what you want."
+    },
+    "299": {
+        "「同感だ。|　ファラザードのやり方は　気に食わん。": "... I was wondering how Farazad..."
+    },
+    "300": {
+        "「そう　邪険にするな。|　これが　交易で生きてきた　俺のやり方なのさ。": "Yeah, it's just... That's how I've lived my|life, trading..."
+    },
+    "301": {
+        "「いつか　ゼクレスや　バルディスタとは |　大々的に交易をしたいと　考えている。|　長い目で見れば　お互いに　益はあるはずだ。": "One day, I hope to trade on a grand scale|with Zekres and Valdista. It would be|mutually beneficial in the long run..."
+    },
+    "302": {
+        "「……だが　目先の利益だけで　物事は動かない。|　昔　ゼクレスでは　それを思い知らされたな。|　あれは　大きな失敗だった……。": "... But short-term gain is not the only thing|that drives things. I was reminded of that a|long time ago at Zekres... That was a big|<br>|mistake..."
+    },
+    "303": {
+        "「アスバルとは　うまくやれると　思ってた。|　互いの益になる　取り引きをしたはずが……|　少し　すれ違っただけで　全部台無しだ。": "I thought Asbal and I could work things out.|I thought we had a mutually beneficial deal,|but... One little misunderstanding, and it's|<br>|all gone."
+    },
+    "304": {
+        "「ただ……自分でも　なんとなく感じてたんだ。|　俺の中で　何かが欠けてる。|　利益よりも　もっと重要な　何かが……。": "I just... I just feel like I'm... Something's|missing in me. Something more important than|profit, something..."
+    },
+    "305": {
+        "「その時　師匠に　大切なことを教わった。|　俺が　幼い頃から　世話になってる|　アストルティア出身の　ある旅人にな……。": "And then my master taught me something very|important. A traveler from Astrutia, who's|been with me since I was a child."
+    },
+    "306": {
+        "「師匠は　異郷の地アストルティアが|　発展してきた歴史を　語ってくれた。": "My master told me the history of the|development of the foreign land of Astrutia."
+    },
+    "307": {
+        "「そこでは　種族の異なる者たちが集まり|　それぞれの知識や文化が　混ざり合って|　ひとつの　大きな世界を築いたという。": "There, people of different races came|together, and their knowledge and cultures|mingled to create one great world..."
+    },
+    "308": {
+        "「考え方が違えば　ぶつかることもある。|　そんな時は　お互いに知恵を出しあって|　よりよい解決方法を　編み出すのだと……。": "If you think differently, you will come to|blows. And when they do, they're supposed to|share their wisdom with each other and come|<br>|up with a better solution."
+    },
+    "309": {
+        "「協調……。|　師匠の言う　それは　協調というものらしい。": "Cooperation... Master says it's called|cooperation..."
+    },
+    "310": {
+        "「魔界にはない概念だが……|　俺には　すぐ　わかった。": ""
+    },
+    "311": {
+        "「この魔界に　足りなかったのは |　他者を受け入れて　交ぜ合わせ|　新しい価値を　生み出すことだと。": "All that was missing in this demon world was|the ability to embrace others, to mingle, to|create new value..."
+    },
+    "312": {
+        "「たとえ　立場や利害が　違う相手でも|　協調することで　強く大きくなれる。そこに|　血統や権威　恐怖や暴力なんて　必要ないんだ。": "By working together, even when our interests|are different, we can grow stronger. There's|no need for bloodlines, authority, fear, or|<br>|violence..."
+    },
+    "313": {
+        "「どうだ……|　こんな考え方が　お前たちにできるか？|　新しいものを取り入れ　滅びを回避できるか？": "How about... Is this the kind of thinking|you're capable of? Can you embrace the new|and avoid destruction?"
+    },
+    "314": {
+        "「よくも　御託をべらべらと……。|　協調だと？　笑わせるな。": "How dare you babbling on and on about...|Cooperation? It's funny..."
+    },
+    "315": {
+        "「アストルティアには　まだまだ|　未知の可能性が　眠ってるに違いない。": "I'm sure there's still a lot of untapped|potential in Astrutia."
+    },
+    "316": {
+        "「そこで　向こうの世界に　行く方法を|　あれこれと　思案していたら……|　なんと　バルディスタが　門を開いてくれてな。": "So I was pondering how to get to the other|side... And then, lo and behold, Valdista|opened the gate..."
+    },
+    "317": {
+        "「礼が遅れた。感謝してるぞ　ヴァレリア。": "Thank you... I appreciate it, V..."
+    },
+    "318": {
+        "「……かの地に　侵攻した際|　何者かの手で妨害され|　我が軍は　撤退を余儀なくされた。": "... When our invasion was intercepted, our|forces were forced to retreat..."
+    },
+    "319": {
+        "「貴様のしわざか……大いに　納得した。": "You did this... I'm so glad."
+    },
+    "320": {
+        "「やめておいたほうがいい。|　ユシュカは　昔から　そういう奴なんだ。|　いちいち構うと　キリがないから。": "I don't think you should... Jushka has always|been like that... He's always been like that."
+    },
+    "321": {
+        "「……それにしても　君が　アストルティアに|　抜け駆けして行ってたなんて　僕も初耳だな。|　さぞや　楽しい旅だったんだろうね。": "I... I've never heard of you sneaking off to|Astridia. I'm sure you had a wonderful trip."
+    },
+    "322": {
+        "「いじけるなよ　アスバル。|　俺が大魔王になったら　夢は　すぐそこだ。|　今度こそ　俺たちと　アストルティアに行こう。": "Don't be afraid. When I become the Great|Satan, my dreams will come true... This time,|we'll be together in Astrutia..."
+    },
+    "323": {
+        "「お前なんかには　頼らない……。|　大魔王になるのは　この僕だ！": "I won't rely on you... I'm the one who will|become the Great Demon King!"
+    },
+    "324": {
+        "「ハッ。とんだ茶番だな。|　異郷の地は　我らバルディスタが　征服する。": "Huh. What a tea... We Valdistas will conquer|this foreign land..."
+    },
+    "325": {
+        "「先の侵攻で　奴らのチカラが|　どの程度のものかは　理解できた。": "After the last invasion, we've come to|understand the extent of their power."
+    },
+    "326": {
+        "「うわさの勇者姫も　期待していたほどの |　強さではなかったな……。": "The rumored heroic princess wasn't as strong|as I'd hoped..."
+    },
+    "327": {
+        "「……そういう油断が　命取りになる。|　アストルティアの　何を理解したというんだ？|　君こそ　考えが甘いんじゃないか。": "... That kind of carelessness can be fatal.|What do you understand about Astrutia? You're|the one who's not thinking straight."
+    },
+    "328": {
+        "「……大魔王になったら　こういう奴らを|　ひとつに　まとめなきゃならないんだ。|　まったく　ラクじゃないぜ。": "... If I become the Great Demon King, I'll|have to unite all these people... It's not|that easy..."
+    },
+    "329": {
+        "<pc>は　３人の魔王たちと|たき火のそばで　休んだ……。<me 64>": "<pc> I rested by the fire with the three demon|lords...<me 64>"
+    },
+    "330": {
+        "「起きたか。|　俺たちも　そろそろ　出発するぞ。": "Wake up. We're about to leave..."
+    },
+    "331": {
+        "「他の魔王様は　つい先ほど|　出発してしまいましたですじゃ。": "The other Demon Lords have just left..."
+    },
+    "332": {
+        "「ワイも　出発しますですじゃ。|　また　後で　お会いしましょうですじゃ～！": "I'm leaving too... I'll see you later..."
+    },
+    "333": {
+        "「……やはり　ただの |　無謀な挑戦者では　なかったな。": "... After all, he's not just a reckless|challenger..."
+    },
+    "334": {
+        "「左様ですじゃ。ひょうきんな|　旅の商人スッテンテンとは　仮の姿……": "So... The jovial traveling merchant,|Sutenten, in disguise..."
+    },
+    "335": {
+        "「その正体は　デモンマウンテンの門番|　デモンズゲイト。": "He is the gatekeeper of Demon Mountain."
+    },
+    "336": {
+        "「大審門を開いた　相克する天運を持つ者たち。|　この場所に至るまで　そのチカラを|　見定めてきたのだ……。": "I've opened the Grand Inquisitor's gate. I|have conflicting destinies. I've seen its|power all the way to this place..."
+    },
+    "337": {
+        "「そうか。もちろん　合格だろ？": "... Of course you passed, right?"
+    },
+    "338": {
+        "「これが　デモンマウンテン　最後の試練。|　我こそは　魔仙卿に会う　資格ありと|　証明してみせるがいい！": "This is the last of the Demon Mountain... Let|me prove to you that I am worthy of meeting|the Demon Lord!"
+    },
+    "339": {
+        "「絶対に　負けるわけにはいかない。 |　もし　大魔王に　なれなければ|　きっと母は　今度こそ　僕を…………": "I can't let that happen. If I don't become|the Great Demon King, my mother will make|me..."
+    },
+    "340": {
+        "「俺だけ　２体……？": "I'm the only one with two...?"
+    },
+    "341": {
+        "「ま　ちょうどいいハンデには　なるだろう。|　いくぞ！": "Well, it's a good handicap... Let's go!"
+    },
+    "342": {
+        "「見事……ッ！": ""
+    },
+    "343": {
+        "「相克する天運を持つ　みなさま…… |　どうぞ　この先へ　お進みくだされですじゃ。": "Ladies and gentlemen of conflicting|fortunes... Please proceed to the next|step..."
+    },
+    "344": {
+        "「……ようやく　魔仙卿との対面か。 |　試されているヒマなど　ないのだがな。": "... I've finally met Lord Immortal... I don't|have time to be tested..."
+    },
+    "345": {
+        "「魔界統一を果たし　乱世を終わらせるため|　闇の根源のチカラ……|　必ず　我が物としてやる。": "In order to unite the demon world and end|this turbulent world, the power of the dark|roots... I'll make it mine..."
+    },
+    "346": {
+        "「……ユシュカ。僕は　誰の指図も受けず|　自分のチカラで　自由を手に入れ|　望みをかなえてみせる。": "... You... I am free to do as I please, to do|as I please, to do as I please..."
+    },
+    "347": {
+        "「その時は　もう一度…………": "Then again"
+    },
+    "348": {
+        "「アスバル？　どうかしたか？": "Asval? What's wrong with you?"
+    },
+    "349": {
+        "「……さっきの戦いでは　だいぶ　消耗したな。|　だが　休んでる時間はないぞ。": "I'm sorry. I'm pretty worn out from the last|fight. But there's no time to rest."
+    },
+    "350": {
+        "「いよいよ　魔仙卿とのご対面だ。|　最後まで　ちゃんと　ついてこいよ！": "Now it's time to meet Lord Immortal... Follow|me to the end!"
+    },
+    "351": {
+        "「我が大矛の　サビになるがいい。": "The rusting of my pike..."
+    },
+    "352": {
+        "「常識にとらわれないのは　あなたの美徳ですが |　まわりに与える影響も　考えていただきたい。|　国家の平安を乱すようでは　本末転倒です。": "It's a virtue of yours to think outside the|box, but you must also consider the impact|you're having on those around you. If you|<br>|disturb the peace of the nation, you will end|up..."
+    },
+    "353": {
+        "「シシカバブ団の件……放置すれば　禍根が残る。": "The Shishkabob Gang... If left unchecked, it|could lead to..."
+    },
+    "354": {
+        "「これは　彼らだけの問題では　ありません。|　現状に　不満を持つ者どもが　納得できる答えを|　示してこその　統治者なのでは？": "This is not just about them... Isn't a ruler|supposed to provide answers that those who|are dissatisfied with the status quo can|<br>|understand?"
+    },
+    "355": {
+        "「ったく……お前は　いつも　正論ばかりだ。|　そんなことくらい　わかってるさ。|　俺だって　このままにするつもりはない。": "Oh, my God. You're always so right about|everything. I know what I'm doing. I'm not|gonna let it happen."
+    },
+    "356": {
+        "「……よしよし。 |　これなら　ナジーンも　文句は言えんだろ。|　あとは　あいつに　まかせるとしよう。": "... Hey... Najine can't complain about|this... I'll leave the rest to him..."
+    },
+    "357": {
+        "「彼の　労をねぎらうのを|　どうぞ　お忘れなく。": "Please don't forget to thank him for his|service."
+    },
+    "358": {
+        "「現状に　不満を持つ者どもが　納得できる答えを|　示してこその　統治者なのでは？": "Isn't a ruler supposed to provide answers|that those who are dissatisfied with the|status quo can understand?"
+    },
+    "359": {
+        "<pc>は　階段を上って|玉座の間へと　進んだ。": "<pc> Up the stairs to the throne room..."
+    },
+    "360": {
+        "「お帰りなさいませ。|　我が主　魔王ユシュカ。": "Welcome home... My Lord, Demon Lord Yu..."
+    }
+}
