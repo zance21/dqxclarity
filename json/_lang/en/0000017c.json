@@ -96,7 +96,7 @@
         "ゆっくりと回転する　巨大な装置の中で|不思議な色の　かがやく液体が|規則正しく　時を刻んでいるようだ。": "In the huge, slowly rotating device, a strange|colored glowing liquid seems to be ticking|away time."
     },
     "33": {
-        "深夜時間帯の錬金は　錬金釜の作動音が|近隣住民の眠りをさまたげるため　控えましょう。|　　　　　　　　　　　　　　　王都錬金術師組合": "Please refrain from alchemy at night as the|sound may disturb the sleep of the neighbors.|～ Royal City Alchemists' Guild"
+        "深夜時間帯の錬金は　錬金釜の作動音が|近隣住民の眠りをさまたげるため　控えましょう。|　　　　　　　　　　　　　　　王都錬金術師組合": "Please refrain from alchemy at night as the|sound may disturb the sleep of the neighbors.|～ Royal City Alchemists Guild"
     },
     "34": {
         "指針書への反抗は　罪悪の一種です！|定められた未来は　あなたを幸せに導きます。|すべてを　あるがまま　受け入れなさい。": "Rebellion against the guiding principles is a|form of sin! A predetermined future will lead|you to happiness. Accept everything as it is."
@@ -450,16 +450,16 @@
         "神秘的な巨石だ。|不思議な青い光が　水面のように|たえまなく　揺らめいている。": "It's a mystical megalith.|A mysterious blue light shimmers like the|surface of the water."
     },
     "151": {
-        "名所案内　カルサドラ火山|ドワチャッカ大陸で営まれる　文明の栄光を|大地の三闘士像は　静かに見つめている": "Guide to Places of Interest: The Calsadora Volcano, glory of Dwachakka Continent, is silently watched by the statues of the three warriors of the earth."
+        "名所案内　カルサドラ火山|ドワチャッカ大陸で営まれる　文明の栄光を|大地の三闘士像は　静かに見つめている": "Famous Places Guide: The Calsadora Volcano,|glory of Dwachakka Continent, is watched by|the statues of three warriors of the earth."
     },
     "152": {
-        "<left>ご迷惑を　おかけします。|<left>現在　地下掘削作業を　おこなっております。|<right>もぐら組　カルデア溶岩帯支部": ""
+        "<left>ご迷惑を　おかけします。|<left>現在　地下掘削作業を　おこなっております。|<right>もぐら組　カルデア溶岩帯支部": "We apologize for the inconvenience.|Excavation work is currently underway.|～ Mole Team, Chaldea Lava Belt Branch"
     },
     "153": {
-        "<center>帝都リサイクルステーション|生ゴミ厳禁！　再利用可能な資源だけ|下層に捨てましょう　帝都美化委員会": ""
+        "<center>帝都リサイクルステーション|生ゴミ厳禁！　再利用可能な資源だけ|下層に捨てましょう　帝都美化委員会": "        Imperial City Recycle Station|Food waste prohibited! Dump reusable resources|on lower level. City Beautification Board"
     },
     "154": {
-        "<center>帝都リサイクルステーション|警告！　下層への近道に　使わないでください|子供がマネをしています　帝都美化委員会": ""
+        "<center>帝都リサイクルステーション|警告！　下層への近道に　使わないでください|子供がマネをしています　帝都美化委員会": "        Imperial City Recycle Station|Warning! Don't use as shortcut to lower level,|children will copy. City Beautification Board"
     },
     "155": {
         "動力炉内の動力球の光が　明滅を始めたら|交換の合図です。光が　完全に消える前に|新品の動力球と　交換してください。": "When the light of the powerbulb in the power furnace starts to flicker, it's a sign to replace it. Replace the powerbulb with a new one before it goes out completely."
@@ -564,19 +564,19 @@
         "鉄格子の扉には　カギが　かかっている。|脱獄は　できないようだ。": "The barred door is locked.|There seems to be no way to escape."
     },
     "189": {
-        "永久時環が　ゆっくりと回転している……。|時渡りのチカラを　使い果たしたので|装置の中身は　からっぽだ。": ""
+        "永久時環が　ゆっくりと回転している……。|時渡りのチカラを　使い果たしたので|装置の中身は　からっぽだ。": "The perpetual time ring is slowly rotating....|The power of time travel has been exhausted,|so the device is empty."
     },
     "190": {
-        "未来を担う　見習い錬金術師　募集中！|新しい自分を　始めてみませんか？|　　　　　　　　　　　　　　　王都錬金術師組合": ""
+        "未来を担う　見習い錬金術師　募集中！|新しい自分を　始めてみませんか？|　　　　　　　　　　　　　　　王都錬金術師組合": "We're looking for apprentice alchemists for|the future! Would you like to start a new you?|～ Royal City Alchemists Guild"
     },
     "191": {
-        "貼り紙が　乱暴に　はがされた跡がある。|「オンディアヌ　もう二度と　君を忘れない」|と　掲示板のすみに　ナイフで刻まれていた。": ""
+        "貼り紙が　乱暴に　はがされた跡がある。|「オンディアヌ　もう二度と　君を忘れない」|と　掲示板のすみに　ナイフで刻まれていた。": "A piece of the bulletin board has been roughly|torn off. \"Ondian, I will never forget you.\"|was carved in the corner with a knife."
     },
     "192": {
-        "ようこそ　錬金術の都　エテーネ王国へ！|わたしたちは　旅人を歓迎します。|あなたに　とこしえの幸福があらんことを。": ""
+        "ようこそ　錬金術の都　エテーネ王国へ！|わたしたちは　旅人を歓迎します。|あなたに　とこしえの幸福があらんことを。": "Welcome to Ethene Kingdom, city of alchemy!|We welcome you, traveler. May the Goddess|bless you with everlasting happiness."
     },
     "193": {
-        "ここは　王都のみなさんの　いこいの広場です。|マナーを守って　大切に使ってください。|いつまでも楽しく　美しい広場にしましょう。": ""
+        "ここは　王都のみなさんの　いこいの広場です。|マナーを守って　大切に使ってください。|いつまでも楽しく　美しい広場にしましょう。": "This is a recreational area for everyone in|the Royal City. Please use with care. Let's|make it a fun and beautiful place forever."
     },
     "194": {
         "錬金術師メルクルの店　経営理念|王都キィンベルの　生活に寄りそい|新しい価値を発見し　美しい文化を錬金する": "Mercury the alchemist's shop is dedicated to|discovering new values and refining the|beautiful culture of the Royal City Kimbel."
@@ -588,10 +588,10 @@
         "錬金術師　ゼフの店|日用品から魔法生物まで　困った時は|当店へ　お気軽に　ご相談ください。": "Zeff the Alchemist's Shop. Please feel free to|contact us if you have any questions from|daily necessities to magical creatures."
     },
     "197": {
-        "ひどく　古びているが|かわいらしい表紙の日記帳が　置いてある。|最後のページには　こう書かれていた。|<br>|かわいい　かわいい　あたしのベビー！|あなたの人生が　とびっきり　ステキで|とびっきり　ハッピーなものに　なりますように！": ""
+        "ひどく　古びているが|かわいらしい表紙の日記帳が　置いてある。|最後のページには　こう書かれていた。|<br>|かわいい　かわいい　あたしのベビー！|あなたの人生が　とびっきり　ステキで|とびっきり　ハッピーなものに　なりますように！": "There is a diary with a very old but cute|cover. On the last page was written the|following.<br>|My sweet, sweet baby! May your life be the|most wonderful and the happiest it can be!"
     },
     "198": {
-        "<left>現在のアトラクションは『クイズ』です！|<left>整理券の配布は　こちらから。|<left>混雑時は　順番に　お並びください。": ""
+        "<left>現在のアトラクションは『クイズ』です！|<left>整理券の配布は　こちらから。|<left>混雑時は　順番に　お並びください。": "The current attraction is \"Quiz\"!|Numbered tickets will be distributed here.|Please line up in order during congestion."
     },
     "199": {
         "<center>『おみやげ　販売所』|<center>完売　次回入荷　未定": "               \"Souvenir Shop\"|  Sold out. Next shipment to be determined."
@@ -612,13 +612,13 @@
         "<center>ようこそ！|<center>宇宙で一番幸福な町　アルウェーンの町へ！|<center>入り口は　この先": "                   Welcome!|  To Alwane, happiest town in the universe!|             The entrance is just up ahead."
     },
     "205": {
-        "<center>この先　凶悪な魔物が　増加中|<center>進む場合は　慎重に": ""
+        "<center>この先　凶悪な魔物が　増加中|<center>進む場合は　慎重に": "     Increase of vicious monsters ahead.|            Proceed with caution."
     },
     "206": {
         "<center>↑ゴミ処理場　入り口": "↑ Garbage Plant Entry"
     },
     "207": {
-        "<left>これは　様々な困難を　乗り越えるため|皆のために　尽力した功績を称えて|作られた　ラグアス様の像である。<br>|<left>しかし　長らく　アルウェーンの象徴だった|この像だが　永世管理者　プクラス様に|廃棄しろと　指示されてしまった。<br>|<left>だが　アルウェーンの功労者たる|ラグアス様の像を　ないがしろにはできず|密かに　この小島へと　運びこんだ。<br>|<left>いつの日か　この像が|アルウェーンの町に戻ることを　願っている。": ""
+        "<left>これは　様々な困難を　乗り越えるため|皆のために　尽力した功績を称えて|作られた　ラグアス様の像である。<br>|<left>しかし　長らく　アルウェーンの象徴だった|この像だが　永世管理者　プクラス様に|廃棄しろと　指示されてしまった。<br>|<left>だが　アルウェーンの功労者たる|ラグアス様の像を　ないがしろにはできず|密かに　この小島へと　運びこんだ。<br>|<left>いつの日か　この像が|アルウェーンの町に戻ることを　願っている。": "This is a statue of Mr. Raguas, made in honor|of his efforts to help everyone overcome|various difficulties.<br>|However, this statue, which has long been a|symbol of Alwane, has been ordered to be|destroyed by Eternal Manager, Mr. Pukulas.<br>|But the statue of Mr. Raguas, who was a great|contributor to Alwane, could not be neglected,|so it was secretly brought to this small island.<br>|I hope that one day this statue will return to|Alwane Town."
     },
     "208": {
         "<left>この先　立入禁止区画|<left>用なき者は　近寄らぬこと": "No trespassing zone ahead.|Stay away if you have no business here."
@@ -630,7 +630,7 @@
         "<left>この先　研究区画|<left>関係者以外　立入禁止": "Research Area ahead|No entry except by authorized personnel."
     },
     "211": {
-        "<center>―　船内案内　―<br>|<center>正面にある　花のような建物が|<center>真上から見た　アルウェーンの町です。|<center>まわりには　自然遺産保護区が広がっています。": ""
+        "<center>―　船内案内　―<br>|<center>正面にある　花のような建物が|<center>真上から見た　アルウェーンの町です。|<center>まわりには　自然遺産保護区が広がっています。": "          ― On-board Information ―<br>|The building in front that looks like a flower|is Alwane Town as seen from above. The area is|surrounded by a natural heritage reserve."
     },
     "212": {
         "何か　難しい式が　表示されている。": "There's a complicated formula on the screen."
@@ -657,28 +657,28 @@
         "<center>きれいな水で|<center>身も心も　きれいに！": "                 Clean Water|         Cleanse your body and soul!"
     },
     "220": {
-        "<center>ー　プクランドの自然　ー<br>|<left>別名　花の民とも　呼ばれる　プクリポ族は|その名のとおり　花と緑に囲まれた|美しい大陸に　暮らしていました。<br>|<left>ここでは　プクランド大陸独自の|めずらしい花や　植物。|土着モンスターの標本を　展示しています。": ""
+        "<center>ー　プクランドの自然　ー<br>|<left>別名　花の民とも　呼ばれる　プクリポ族は|その名のとおり　花と緑に囲まれた|美しい大陸に　暮らしていました。<br>|<left>ここでは　プクランド大陸独自の|めずらしい花や　植物。|土着モンスターの標本を　展示しています。": "           ー Nature of Pukuland ー<br>|The Pukulipo people, also known as the Flower|People, live on a beautiful continent surrounded|by flowers and greenery as their name implies.<br>|Here you will find rare flowers and plants|unique to the continent of Pukland. Specimens|of indigenous monsters are on display."
     },
     "221": {
-        "<center>ー　プクランドの文化　ー<br>|<left>笑いと　芸を愛した　プクリポ族は|プクランド大陸に　多彩な文化や|独自の風習を　もたらしました。<br>|<left>ここでは　その　ごく一部を|展示品とともに　紹介していきます。": ""
+        "<center>ー　プクランドの文化　ー<br>|<left>笑いと　芸を愛した　プクリポ族は|プクランド大陸に　多彩な文化や|独自の風習を　もたらしました。<br>|<left>ここでは　その　ごく一部を|展示品とともに　紹介していきます。": "            ー Culture of Pukuland ー<br>|The Pukulipo people, with their love of|laughter and art, brought a variety of|cultures and customs to Pukuland Continent.<br>|In this section, we will introduce some of|them along with the exhibits."
     },
     "222": {
-        "<center>！　取扱い注意　！|アストルティア博物館　収蔵品|次回　展示入れ替えまで　厳重に保管のこと": ""
+        "<center>！　取扱い注意　！|アストルティア博物館　収蔵品|次回　展示入れ替えまで　厳重に保管のこと": "             ! Handle with care !|Please keep this in a safe place until it is|displayed in the Astoltia Museum again."
     },
     "223": {
-        "<pc>が　モニターに触れると|画面に『大いなる目覚め・１』が　表示された。<br>|永世管理者の複製体としての　権限を用いて|立入禁止区画へ　入ったが|冷眠室の設備故障を直す方法は　見つからない。<br>|その代わり　無限動力炉の設計のヒントとなった|増殖獣バイロゴーグの　細胞サンプルを|立入禁止区画で　発見した。<br>|永世管理者プクラスは　身体が弱い。|魔獣細胞の増殖力を　利用すれば|プクラスは　健康になれるかもしれない。<br>|冷眠室の修理方法を　探す間に|同じ　霊子構造を持つ　私の身体で　試して|成功したら　プクラスにも施術しよう。": ""
+        "<pc>が　モニターに触れると|画面に『大いなる目覚め・１』が　表示された。<br>|永世管理者の複製体としての　権限を用いて|立入禁止区画へ　入ったが|冷眠室の設備故障を直す方法は　見つからない。<br>|その代わり　無限動力炉の設計のヒントとなった|増殖獣バイロゴーグの　細胞サンプルを|立入禁止区画で　発見した。<br>|永世管理者プクラスは　身体が弱い。|魔獣細胞の増殖力を　利用すれば|プクラスは　健康になれるかもしれない。<br>|冷眠室の修理方法を　探す間に|同じ　霊子構造を持つ　私の身体で　試して|成功したら　プクラスにも施術しよう。": "When you touched the monitor,|\"The Great Awakening 1\"|appeared on the screen.<br>|Using my authority as a replicant of the|Eternal Manager, I entered the restricted|area, but found no way to fix the equipment<br>|malfunction in the cold room. Instead, I found|a cell sample of Multiplying Beast Biologog|that provided the inspiration for the design<br>|of the infinite power reactor in the|restricted area. Eternal Manager Pukulas is|physically weak. If I can harness the<br>|multiplying power of the beast's cells,|Pukulas might be able to get healthy. While|I'm looking for a way to repair the cold room,|I'll try it on my body, which has the same<br>|spirit structure, and if I'm successful, I'll|perform the procedure on Pukulas."
     },
     "224": {
-        "<pc>が　モニターに触れると|画面に『大いなる目覚め・２』が　表示された。<br>|増殖獣バイロゴーグの細胞は　偉大だ。|私は　ただの複製体を　超えるチカラと|プクラスをも超える知能を　手に入れた。<br>|いまや　資料を調べずとも|冷眠室など　簡単に修理できるが……|プクラスを目覚めさせるのは　しばらく待とう。<br>|それより私は　魔獣の細胞のチカラで|我が同胞を　助けたいのだ。複製体たちが|変貌せずとも　生きられるように……。": ""
+        "<pc>が　モニターに触れると|画面に『大いなる目覚め・２』が　表示された。<br>|増殖獣バイロゴーグの細胞は　偉大だ。|私は　ただの複製体を　超えるチカラと|プクラスをも超える知能を　手に入れた。<br>|いまや　資料を調べずとも|冷眠室など　簡単に修理できるが……|プクラスを目覚めさせるのは　しばらく待とう。<br>|それより私は　魔獣の細胞のチカラで|我が同胞を　助けたいのだ。複製体たちが|変貌せずとも　生きられるように……。": "When you touched the monitor,|\"The Great Awakening 2\"|appeared on the screen.<br>|The cells of the Multiplying Beast Biologog|are great. I have more power than a mere|replicant, and more intelligence than even<br>|Pukulas. Now I can easily repair the cold room|without having to look up the data...... but|I'll have to wait a while before I can wake up<br>|Pukulas. I want to use the power of the|beast's cells to help my people. To allow|replicants to live without transformation..."
     },
     "225": {
-        "<pc>が　モニターに触れると|画面に『大いなる目覚め・３』が　表示された。<br>|創造主は　はじめに　世界の光たる|無限動力炉を　創り……次に　世界そのものである|アルウェーンを　創られた。<br>|そして　最後に　この新世界で|原始種たる　プクリポたちに　仕える者として|我等　複製体たちを　創られたという。<br>|だが　冷眠室は故障し|その結果　私は　魔獣のチカラを得て|世界の真実を　知ったのだ。<br>|創造主は　我等を　原始種に仕える者として|作ったのではない。冷眠室の故障は　運命。|私を目覚めさせるための　創造主の導きだった。<br>|我等　複製体こそが　アルウェーンの新たなる主。|プクラスは　永遠の眠りにつき|我等が　アルウェーンを支配するのだ。<br>|……それこそが　創造主の望みなのだから。": ""
+        "<pc>が　モニターに触れると|画面に『大いなる目覚め・３』が　表示された。<br>|創造主は　はじめに　世界の光たる|無限動力炉を　創り……次に　世界そのものである|アルウェーンを　創られた。<br>|そして　最後に　この新世界で|原始種たる　プクリポたちに　仕える者として|我等　複製体たちを　創られたという。<br>|だが　冷眠室は故障し|その結果　私は　魔獣のチカラを得て|世界の真実を　知ったのだ。<br>|創造主は　我等を　原始種に仕える者として|作ったのではない。冷眠室の故障は　運命。|私を目覚めさせるための　創造主の導きだった。<br>|我等　複製体こそが　アルウェーンの新たなる主。|プクラスは　永遠の眠りにつき|我等が　アルウェーンを支配するのだ。<br>|……それこそが　創造主の望みなのだから。": "When you touched the monitor,|\"The Great Awakening 3\"|appeared on the screen.<br>|The Creator first created the Infinite Power|Reactor, the light of the world...... and then|created the world itself, Alwane. Finally, he<br>|created us replicants to serve the primitive|Pukulipo species in this new world. But the|cold room malfunctioned, and as a result, I<br>|gained the power of a demon beast and learned|the truth about the world. The Creator did not|create us to serve a primitive species. The<br>|cold room's malfunction was fate. It was the|Creator's way of waking me up. We replicants|are the new masters of Alwane. Pukulas will<br>|sleep eternally, and we will rule Alwane.|......for that is what the Creator desires."
     },
     "226": {
-        "<pc>が　モニターに触れると|画面いっぱいに　謎の文字列が　表示された。<br>|イア・タア　シンパッ・ケウ　イア・タア|シンパッ・ケウ　イア・タア　シンパッ・ケウ|イア・タア　シンパッ・ケウ……。": ""
+        "<pc>が　モニターに触れると|画面いっぱいに　謎の文字列が　表示された。<br>|イア・タア　シンパッ・ケウ　イア・タア|シンパッ・ケウ　イア・タア　シンパッ・ケウ|イア・タア　シンパッ・ケウ……。": "When you touched the monitor, a mysterious|string of characters filled the screen.<br>|Ia ta Shinpa Keu Ia ta Shinpa Keu Ia ta Shinpa|Keu Ia ta Shinpa Keu......"
     },
     "227": {
-        "ひどく　古びているが|かわいらしい表紙の日記帳が　置いてある。|最後のページには　こう書かれていた。<br>|かわいい　かわいい　あたしのベビー！|あなたの人生が　とびっきり　ステキで|とびっきり　ハッピーなものに　なりますように！": ""
+        "ひどく　古びているが|かわいらしい表紙の日記帳が　置いてある。|最後のページには　こう書かれていた。<br>|かわいい　かわいい　あたしのベビー！|あなたの人生が　とびっきり　ステキで|とびっきり　ハッピーなものに　なりますように！": "There is a diary with a very old but cute|cover. On the last page was written the|following.<br>|My sweet, sweet baby! May your life be the|most wonderful and the happiest it can be!"
     },
     "228": {
         "<center>開封された手紙が　置いてある……。|どうやら　パドレに宛てた　もののようだ。|<pc>は　手紙を読んだ。|<br>|ー　懐かしき友　パドレへ　ー|<br>|ようやく　かの疫病の影を|リンジャハルから　追い払うことができた。|これも　君がもたらしてくれた　宝珠のおかげだ。|<br>|そこで　近々　復興を祝う宴を開くことにした。|功労者である君に　ぜひ　出席してほしい。|ひさしぶりに　夜通し　飲み明かそう。|<br>|そういえば　君たち夫婦の間に|待望の　赤ちゃんが　生まれたそうだね。|……早く　会ってみたいな。|<br>|思い出の地　リンジャハルで|君たち　家族のことを　待っているよ。|　　　　　　　　忠実なる友　リンジャーラ": ""
