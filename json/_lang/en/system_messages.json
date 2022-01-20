@@ -2379,7 +2379,7 @@
         "ドラゴンクエストⅩ　オフライン版で|クリアしたバージョンと　異なるバージョンから|ゲームを開始しますが　本当によろしいですか？<yesno 2><break>": ""
     },
     "794": {
-        "本当に|<%sVERAPPEND>の|冒険から　ゲームを開始してもよろしいですか？<yesno 2><break>": ""
+        "本当に|<%sVERAPPEND>の|冒険から　ゲームを開始してもよろしいですか？<yesno 2><break>": "Are you sure you want to start the game with|the <%sVERAPPEND> adventure?<yesno 2><break>"
     },
     "795": {
         "冒険をする": ""
