@@ -108,7 +108,7 @@
         "「さあっ　こいつを　受け取ってくれ！": "Now, take this!"
     },
     "37": {
-        "「ちっ……。かばんが　いっぱいじゃねえか。|　コトは　一刻を争うってのに……！|　すぐに　かばんを　空けてきてくれ！": ""
+        "「ちっ……。かばんが　いっぱいじゃねえか。|　コトは　一刻を争うってのに……！|　すぐに　かばんを　空けてきてくれ！": "Bah... your bag's full.|We're pressed for time right now...!|Go empty your bag immediately!"
     },
     "38": {
         "<kyodai>は|メラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> received the Mellazo Fever Cure|Recipe!<me 60>"
@@ -126,7 +126,7 @@
         "「さあ　そのクスリを　オレにくれ！|　すぐに　リリオルに飲ませよう！": "Come on, give me that cure!|I'll have Lyriol take it right away!"
     },
     "43": {
-        "イッショウに|メラゾ熱のクスリを　渡しますか？<yesno><close>": ""
+        "イッショウに|メラゾ熱のクスリを　渡しますか？<yesno><close>": "Would you like to give Issho the Mellazo Fever|Cure?<yesno><close>"
     },
     "44": {
         "「お……おい　ジョーダンだよな？|　こいつは　オレの　たったひとりの娘なんだ！|　……だから頼む！　後生だ！<yesno><close>": "Th... This is some kind of joke, right? She's|my one and only daughter! ...Please, you've|got to help her! My lineage is at stake here!<yesno><close>"
