@@ -555,7 +555,7 @@
         "「あっ　そういえば　お客さんの郵便箱に|　旅人バザーから送った物が|　いっぱい　たまってるって　聞いてますよ。|<br>|「出品するなら　旅人バザーから|　郵便箱に送った物を　いくつか|　受け取ってから　お願いします。|<bw_break>": "Oh, by the way, I heard that your mailbox is|full of items that you sent from the|Traveler's Bazaar. If you're going to|<br>|exhibit, you'll need to receive some of the|items from the Traveler's Bazaar in your|mailbox.<bw_break>"
     },
     "186": {
-        "「どちらの商品を　お探しですか？|<break>": "What listings are you looking for?|<break>"
+        "「どちらの商品を　お探しですか？|<break>": "<speed=0>What are you looking for?|<break>"
     },
     "187": {
         "「申し訳ありませんが　そちらの商品は|　出品がございません。|　他の種類を　選んでください。|<break>": "I'm sorry, but we don't have any of those|items available. You can choose another|type...<break>"
@@ -1230,7 +1230,7 @@
         "「他にも　ご用はございますか？|<break>": "Anything else I can help you with?|<break>"
     },
     "411": {
-        "「どちらの商品を　お探しですか？|<break>": "What listings are you looking for?|<break>"
+        "「どちらの商品を　お探しですか？|<break>": "<speed=0>What are you looking for?|<break>"
     },
     "412": {
         "まだ何か　お買い上げなさいますか？|<bw_break>": "Would you still like to purchase something?<bw_break>"
@@ -1725,7 +1725,7 @@
         "「他にも　用はありますか？|<break>": "Anything else I can do for you?|<break>"
     },
     "576": {
-        "「どんな商品を　お探しですか？|<break>": "What listings are you looking for?|<break>"
+        "「どんな商品を　お探しですか？|<break>": "<speed=0>What are you looking for?|<break>"
     },
     "577": {
         "「くわしい条件を　教えてください！　|<end>": "Please tell me what the exact conditions are!<end>"
