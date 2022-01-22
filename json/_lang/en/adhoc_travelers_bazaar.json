@@ -360,7 +360,7 @@
         "「あら　<%sL_STORAGE>は|　空っぽのようですね。|<bw_break>": "Oh, looks like <%sL_STORAGE> is empty...<bw_break>"
     },
     "121": {
-        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "Thank you very much!|We look forward to seeing you again!|<turn_end>"
+        "「ありがとうございました。|　またのご来店を　お待ちしております。|<turn_end>": "<speed=0>Thank you very much!|We look forward to seeing you again!|<turn_end>"
     },
     "122": {
         "「いらっしゃいませ。|　旅人バザーへ　ようこそ。|　本日は　いかがなさいますか？|<break>": "Hello!|Welcome to the Traveler's Bazaar!|How can I help you today?|<break>"
@@ -378,7 +378,7 @@
         "「おやめになるのですね。|　では　他の物を出品いたしますか？|<break>": "You want to stop? Would you like to|sell something else?<break>"
     },
     "127": {
-        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
+        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "<speed=0>You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
     },
     "128": {
         "「こちらは　装備していれば|　戦いのときに　どうぐとして使っても|　効果がございます。|<bw_break>": "If you have it equipped, you can use it as a|weapon in battle...<bw_break>"
@@ -600,7 +600,7 @@
         "「……ああっ　その商品は　タッチの差で|　他の人に　売れてしまったようです。|　こういうこともございます。申し訳ありません。|<bw_break>": "... Oh, that item was sold to someone else by|the skin of its teeth... This can happen...|I'm sorry...<bw_break>"
     },
     "201": {
-        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
+        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "<speed=0>I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
     },
     "202": {
         "「……あら？|　うまく　出品できなかったようです。|<br>|「申し訳ありませんが　少し時間を置いてから|　また　試していただけますか。|<bw_break>": "... What? I couldn't get it to come up. I'm|sorry, but if you could give it some time and|try again...<bw_break>"
@@ -969,7 +969,7 @@
         "「いくつ　出品しますか？|<break>": "How many do you want to list?<break>"
     },
     "324": {
-        "「いくつ　出品いたしましょうか？|<break>": "How many should I list for you?|<break>"
+        "「いくつ　出品いたしましょうか？|<break>": "<speed=0>How many should I list for you?|<break>"
     },
     "325": {
         "「……むむ？|　旅人バザーが　混んでるみたいで|　商品が　うまく探せなかったようだ。|<br>|「申し訳ないが　少し時間を置いてから|　また　試してくれよ。|<bw_break>": "... Mmm? The traveler's bazaar seems to be|crowded, so I couldn't find the right|items... I'm sorry, but I'll try again in a|<br>|little while...<bw_break>"
@@ -1308,7 +1308,7 @@
         "「他に出品したい物は　ございますか？|<break>": "Do you have any other items you'd like to|sell?<break>"
     },
     "437": {
-        "「いくつ　出品いたしましょうか？|<break>": "How many should I list for you?|<break>"
+        "「いくつ　出品いたしましょうか？|<break>": "<speed=0>How many should I list for you?|<break>"
     },
     "438": {
         "「<%sL_URITAI_ITEM>を|　いくつ　出品いたしましょうか？|<break>": "How many <%sL_URITAI_ITEM> do you want to|sell?<break>"
@@ -1434,7 +1434,7 @@
         "申し訳ありませんが|お金が　足りないようです。|他の品物を　お選びください。|<bw_break>": "I'm sorry, but you don't have enough money.|Please choose a different item.<bw_break>"
     },
     "479": {
-        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
+        "「申し訳ありませんが　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　出品いただくことができません。|　ちがう物を　お選びください。|<break>": "<speed=0>I'm sorry, but there are no|<%sL_URITAI_ITEM><%sL_PLUSNUM> currently listed.|Please choose a different item.|<break>"
     },
     "480": {
         "「あら　その　<%sL_URITAI_ITEM><%sL_PLUSNUM>は|　お客さまが　ロックされた物のようですね。|　ロックを外してから　お持ちくださいませ。|<br>|「他に　出品したい物は　ございますか？|<break>": "Oh, it seems your <%sL_URITAI_ITEM><%sL_PLUSNUM>|is currently locked. Please unlock it before|trying to put it up for sale.|<br>|Is there anything else you'd like to sell?|<break>"
@@ -1521,7 +1521,7 @@
         "現在のプレイ環境では　この機能は|使用制限されています。正式なプレイ環境となれば|この機能も　お使いいただけます。": "This feature is restricted in the current|play environment... This feature will be|available once the game is officially..."
     },
     "508": {
-        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
+        "「<pc>さまは　あと<%nL_SYUPPIN>品|　出品できます。|　どちらを　出品なさいますか？|<break>": "<speed=0>You can sell <%dL_SYUPPIN> more items.|What would you like to sell?|<break>"
     },
     "509": {
         "<select_se_off>|旅人バザーについて|装備品について|<select_end><break>": "<select_se_off>|About Traveler's Bazaar|About Equipment|<select_end><break>"

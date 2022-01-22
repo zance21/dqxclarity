@@ -507,7 +507,7 @@
         "「ごめんなしゃい。|　<%sL_ADDRESS>しゃんの　ゆーびんばこが|　いっぱいで　おくれましぇんでちた。|<bw_break>": "Sorry... <%sL_ADDRESS>Your|mailbox is full and I can't finish...<bw_break>"
     },
     "170": {
-        "「ありあとうございまちた！|　またのおこちを　おまちしてましゅ！|<end>": "Thank you very much! We're looking forward to|seeing you again!<end>"
+        "「ありあとうございまちた！|　またのおこちを　おまちしてましゅ！|<end>": "<speed=0>Thank you very much! We're looking forward to|seeing you again!<end>"
     },
     "171": {
         "<pc>は　郵便箱から|<%nL_SEND_GOLD>ゴールドを　受け取った！|<end>": "<pc> received <%dL_SEND_GOLD> Gold from|the mailbox!<end>"
