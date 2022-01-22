@@ -33,7 +33,7 @@
         "<pipipi_off>|<%sL_ACCE_ITEM><%sL_PLUSNUM>に|<%sL_BONUS>の効果が付いた！|<br>|<pipipi_on>|「でっきた～♪　うまいこといったよ！|　君が　こいつを気に入ってくれるといいな！|<bw_break>": "<pipipi_off><%sL_ACCE_ITEM><%sL_PLUSNUM> now has|<%sL_BONUS> effect!<pipipi_on>It's working! It's working! I hope you like|it!<bw_break>"
     },
     "12": {
-        "<select_se_off>|合成チャレンジする|レベルボーナス確認|説明を聞く|<select_end>|<break>": "<select_se_off>|Synthesis Challenge|Check Level Bonus|Explanation|<select_end>|<break>"
+        "<select_se_off>|合成チャレンジする|レベルボーナス確認|説明を聞く|<select_end>|<break>": "<select_se_off>|Synthesize|Check Level Bonuses|Explanation|<select_end>|<break>"
     },
     "13": {
         "未使用テキスト": "unused text"
