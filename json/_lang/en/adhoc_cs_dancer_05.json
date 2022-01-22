@@ -1,284 +1,209 @@
 {
     "1": {
-        "「くッ……来たわね　<cs_pchero>。|　見ての通り　黒怨王は　もう……|　目覚める寸前よ……。": ""
+        "「待っていたわ　<pc>。": ""
     },
     "2": {
-        "「あなたが　来るまで　なんとか|　押さえ込んだけど……　もう……限界みたい。": "I tried to hold them off until you got here,|but... But now... I can't..."
+        "「じつは　黒怨王の封印が　予想以上に早く|　破られようと　しているみたいなの……。|　怨霊が　数を増やしているのも　そのせいだわ。": "It seems that the Black Grudge King's seal is|about to be broken sooner than expected...|That's why the grudge is growing in number..."
     },
     "3": {
-        "「ごめんなさい。ろくに練習も|　できなかったけど……こうなったら|　イチかバチか……ぶっつけ本番ね……。": "I'm sorry... I didn't get a chance to|practice, but... But I guess it's one thing|or another... We'll just do it."
+        "「まぁ……ともかく。この勢いだと　黒怨王が|　完全復活し　世界が　怨霊におおわれるのも|　時間の問題よ。だから　そうなる前に……": "Well... And... At this rate, it will only be|a matter of time before the Black Grudge King|returns and the world is covered in grudge-|<br>|laden spirits... So before that happens..."
     },
     "4": {
-        "「合図をしたら　この舞をやめるわ。|　そして　ヤツが解き放たれた　その瞬間……|　ふたり同時に　荒神の舞を放つのよ。": "When I give the signal, I'll do this dance...|And the moment he is unleashed... The two of|you will unleash the Aragami Dance..."
+        "「あなたには　黒怨王を倒すのに　必要な|　踊り子の　奥義を習得してほしいの。|　……やってくれるわよね？": "I want you to learn the secrets of the dancer|that you need to defeat the Black Grudge|King. ... You'll do it, won't you?"
     },
     "5": {
-        "「大丈夫。私たちなら……できるわ。|　さぁ…………いくわよッ！！": "... We could... And... Come on... Let's go!"
+        "「そうよね。私の合方だものね。|　聞くまでも　なかったわ……。": "It's... That's my partner... I didn't have to|ask..."
     },
     "6": {
-        "「はあああああッ……！": "Aahhhh...!"
+        "「じつは　その奥義を　習得するには|　わたしたち　踊り子の　守護神……|　踊り神さまの　護符が必要でね。": "The truth is, in order to learn its secrets,|we dancers need a guardian angel... We need a|talisman from the God of Dance..."
     },
     "7": {
-        "「除霊踊り……荒神のッ……": "The Exorcism Dance Aragami no K"
+        "「あなたには　それを手に入れてほしいの。|　これから　その方法を　説明するから|　よく聞いてちょうだい。": "And I want you to have it. I'm going to show|you how, and I want you to listen very|carefully..."
     },
     "8": {
-        "「待って。": "..."
+        "「まずは　ウェナ諸島　ジュレー島上層にいる|　<%sEV_QUE_NAME0>を　<%nEV_QUE_T_NUM0>匹　倒して。": "First, you'll find <%sEV_QUE_NAME0> on the|upper level of Juray Island, Wena Islands,|with <%nEV_QUE_T_NUM0>..."
     },
     "9": {
-        "「…………ファラン！！": "... Hwoarang!"
+        "「ただし　普通に　倒すだけじゃダメよ。|　敵に　おどりスキルの　ふういんのダンスを踊り|　その効果が　発動している状態で倒すの。": "But it's not just about defeating them.|You'll have to use your dancing skill, the|Winnings Dance, on the enemy while it's|<br>|active."
     },
     "10": {
-        "「やっぱり……シャーラなんだね。|　よかった……。あれから　３００年……。|　もう二度と　会えないと思っていたよ。": "I knew it... It's Sharla... Thank goodness...|It's been 300 years... I thought I'd never|see you again."
+        "「<%nEV_QUE_T_NUM0>匹　倒し終えた時　古き伝説のしぐさ……|　踊り神さまに　呼びかけるための|　特別な踊りが　身に付くはずよ。": ""
     },
     "11": {
-        "「ごめんなさい……ごめんなさい　ファラン。|　あの時は　ああするしか……。|　私……ずっと　後悔して……。": "I'm sorry. I'm sorry. I'm sorry. I'm sorry. I|had to do that. I... I've been regretting..."
+        "「その踊りを　ウェナ諸島　ラーディス王島の|　北部に点在する　９つの小舞台……その中で|　もっとも知恵から遠い舞台で　捧げれば……": "The dance was performed on the island of King Lardis in the Wena archipelago| Nine small stages scattered across the north Among them| If you dedicate it to a stage farthest from wisdom"
     },
     "12": {
-        "「いいさ……こうして　また会えたんだからね。|　それにしても　その姿は……。": "You know... It's nice to see you again. But|you look so..."
+        "「伝承の間への道が　開かれるわ。|　そこで　踊り神さまが　あなたの実力を|　認めれば　護符を　授けてくださるはずよ。": "The way to the Hall of Lore will open. There,|if the God of Dance recognizes your|abilities, he will grant you a talisman..."
     },
     "13": {
-        "「そうか……。この子は　僕ら一族の末孫。|　黒怨王を倒すために　自ら怨霊となり|　この時代の人間に　とりついたんだね……。": "Okay, so... This child is from our family...|In order to defeat the Black Grudge King, she|turned herself into a grudge and possessed|<br>|the people of this era..."
+        "「踊り神さまは　荒神さまの　異名を持つほど|　強く　激しいお方……。認めてもらうのは|　大変だけど……あなたなら　きっと大丈夫。": "The God of Dance is so strong and fierce that|he's nicknamed \"Aragami. It's hard to get her|to accept you, but... I'm sure you can..."
     },
     "14": {
-        "「そこまでして　ふたりの悲願を|　かなえようとするなんて……|　シャーラ……キミって人は　なんて……": "I'm not going to go to that much trouble to get what we both want| I can't believe you're trying to do this| Charla You are such a"
+        "「それじゃ……がんばってね。|　私も　あなたに負けないよう　修行してくるわ。|　決戦の日は　近いわよ！": "Okay, well... Good luck... I'll train myself|to be as good as you. The day of reckoning is|near!"
     },
     "15": {
-        "「……ナンテ　哀れナ奴ナンダ。": "... Nante, you poor thing..."
+        "「ありがとう。だけど　あなた……|　他の仕事が　つまってるみたいよ。|　さすがは　私の合方。人気も上々ね。": "There is... But you... I'm afraid I have|other work to do. That's what I'm talking|about. Popular..."
     },
     "16": {
-        "「オオオォォン……。ヨウヤク　始末デキルゾ。|　愚カデ　哀レナ　死ニゾコナイメ。|　今度コソ　邪魔ハ　サセヌ……。": "Oh, no... I'm gonna get rid of you... I'm|stupid, I'm sad, I'm dead... I won't let you|interfere with my..."
+        "「でも……本当にもう　時間がないの。|　だから　早く終わらせて|　また　戻ってきてちょうだい。": "But... I'm really running out of time. So|just finish up and come back for me."
     },
     "17": {
-        "「アトハ　貴様ダケダ……。|　憎キ　踊リ子ヨ。貴様サエ葬レバ|　イヨイヨ　我ガ野望ヲ　果タスコトガデキル。": "Ato ha, you're the only one. I hate you. I|dance. If I bury you, I'll be fine... if my|ambition is fulfilled..."
+        "「もう！　今さら　怖気づくなんて。|　それでも　あなた　私の合方なの？": "Oh, my God! Now you're scaring me... Are you|still my match?"
     },
     "18": {
-        "「生キトシ生ケルモノニ　怨霊ドモヲ|　トリツカセ……最後ノ１匹ニ　至ルマデ|　殺シ合ワセテ　クレヨウゾ！！": "I'm going to kill them all! Let's get to the|last one and kill them all together!"
+        "「まあ　いずれにせよ　そんな調子じゃ|　修行をこなすのは　無理そうね。|　気合いを入れて　出直してきなさい。": "Anyway, it's impossible for me to complete my|training like that... I'll get myself|together and come back..."
     },
     "19": {
-        "「オオオォォン……。哀レナ　踊リ子メ。|　誰モ……誰ニモ　我ヲ阻ムコト　カナワヌ……。|　霊魂スラ　ノコサズ　タタキツブシテクレル！": "Ooh-ohh... Lena, dance... No one... No one|can stop me. I will not be stopped by the|spirits of the dead."
+        "「…………信じてるわよ。": "... Trust me..."
     },
     "20": {
-        "「オオォォォ……ォォン……ア……アリエヌ。|　誰ニモ　トメラレヌ……。ォォォオオン。|　果タサレル……我ガ　野望ハ　果タサレル……。": "Ooh-ooh... Ooh... A... Aah... No one will|ever know... Ooh... It will be done... My|ambition will be fulfilled..."
+        "「ようこそ　踊り子チャン。おっと……|　これじゃあ　お顔が　見えないわネ。": "Welcome, dancer... Oh, no... I can't see your|face in this..."
     },
     "21": {
-        "「生キトシ生ケルモノハ……怨ミ　怨マレ……。|　殺シ合イ……死ニ絶エ……クチ果テル。|　邪魔ナド……": "What is alive is alive... A grudge, a|grudge... Killing each other... Deadly...|Kuch... You're in my way..."
+        "「なるほどネ。ウフフッ……ラブリィ<heart>|　ただ　いたずらに　腰をクネクネさせてる|　近頃の　腰抜けどもとは　違うようネ！": "I see... Uh-huh... Lovely.<heart>It's not like we're just a bunch of pussies|wiggling our hips for the sake of it these|days."
     },
     "22": {
-        "「オオオオァァ……ァァアアアアアア！": "Oh-ohh... Aaaaaaah!"
+        "「でも！　荒神の異名をもつ　このワタシ……|　踊り神ボニータの　ラブリィな荒ぶりィ。|　これに　腰を抜かさずに　いられるかしラ？": "But! I'm the one known as the Rough God.|Bonita the Dancing Goddess. How can you not|be bowled over by this?"
     },
     "23": {
-        "「<cs_pchero>！！　今よッ！！": "<cs_pchero>Now! Now!"
+        "「ラッララーラ　ラッラーララー！|　ラッラーラーラ　ラッラーララー！": "Rah-rah-rah-rah-rah-rah! Rah-rah-rah-rah-rah-|rah!"
     },
     "24": {
-        "「はあああああッ……！": "Aahhhh...!"
+        "「ピーヒャラピーヒャラ……！|　ズコズコドンドン……！": "Peek-a-boo, peek-a-boo...! Thump, thump,|thump..."
     },
     "25": {
-        "「除霊踊り……荒神の舞ッ…………！": "Exorcism dance... Dance of the gods..."
+        "「……オ・レ！！": "... Au revoir!"
     },
     "26": {
-        "「改めッ…………！！": "Again..."
+        "「…………。": "..."
     },
     "27": {
-        "「秘なる　対の舞……": "The Secret Dance of the Pair"
+        "「この勢いに　飲まれないなんてネ……。|　ウフフッ……ラブリィ<heart>|　あなたも　なかなかの　荒ぶりィ者ネ。": "I can't believe I haven't been swallowed up|by all this... Hmmm... Lovely.<heart>You're not so bad yourself."
     },
     "28": {
-        "「荒神連舞ッ！！": "Aragami renmai!"
+        "「いいワ。全力で　荒ぶってあげル。|　そして　荒ぶり比べで　私に勝ったなラ……|　奥義伝承者として……認めてあげるワ！": "... And you beat me at my own game. And you|beat me at my own game. You have defeated me.|I'll give you that!"
     },
     "29": {
-        "「ォォォンンァァァアアッ！！　怨ミ殺ス！|　１匹　残サズ…怨ミ…タタリ……|　殺ス…ァァアア！！": "Oh, no, no, no, no! Kill the grudge! One|left... Grudge... Tackle... Killing...|Aaaaah!"
+        "「かかってらっしゃイ！！|　オーーーレッ！！": "Come at me! Ooo-roh!"
     },
     "30": {
-        "「舞い散りなさい……。": "Flutter away..."
+        "「あららラ？　こりもせずに|　舞い戻ってくるとは　お馬鹿さんネ。|　でも……ウフフッ……ラブリィ<heart>": "Oh, my God. It's silly of you to come back|here uninvited. But... Hmm... Lovely.<heart>"
     },
     "31": {
-        "「私もすぐに行くからね……　ファラン。": "I'll be right there... Huh..."
+        "「あきらめの悪い子は　嫌いじゃないノ。|　何度だって　荒ぶり殺しにしてあげるワ。|　さあ！　かかってらしゃイ！": "I don't like girls who don't give up. I've|beaten them to death too many times... Come|on! Come and get me!"
     },
     "32": {
-        "「ようやく……　長い戦いに|　終止符を　打つことができたわ。": "At last... We can finally put an end to this|long war..."
+        "「オオオオオーーーレッ！！": "Oh-oh-oh-oh!"
     },
     "33": {
-        "「ずっと　黙っていて　ごめんなさい。|　そう。私は　シャーラ……３００年前に|　黒怨王を封印した　いにしえの踊り子。": "I'm sorry I didn't tell you... I'm... I'm|Shaara. I sealed away the Black Grudge King|300 years ago."
+        "「あっふ～ん……。この私が|　ここまで　コテンパンに|　荒ぶり負け　するなんテ……。": "Hmmm... I've been beaten to a pulp here..."
     },
     "34": {
-        "「３００年前……ヤツを浄化することに |　失敗した私は　終生　自分の無力を呪い……|　その結果　怨霊と成り果てたの。": "300 years ago... I failed to purify him, and|I cursed myself for the rest of my life for|my inability to do so. As a result, I became|<br>|a vengeful spirit..."
+        "「でもね。ウフフッ……ラブリィ<heart>|　負けちゃうの……じつは　三度目なノ。|　荒ぶり三振！　ワタシも　まだまだネ。": "... Woof... Lovely.<heart>I'm gonna lose... Actually, three times... I|struck out three times! I'm still..."
     },
     "35": {
-        "「人に　とりつけるだけのチカラをね。|　そして……　自分の悲願を果たすために|　末孫のラスタの身体に　とりついたの。": "It's just a chica that attaches to people.|And... To fulfill her own longing, she|attaches herself to her youngest grandson|<br>|Rasta's body..."
+        "「それにしても　あなたの　荒ぶりレベルは|　以前の　ふたりと比べても　なかなかのモノ。|　忘れないで。その荒ぶりこそが　踊りの真髄ヨ。": "Still, your level of violence is not quite as|high as the previous two... Forget it...|That's what makes the dance..."
     },
     "36": {
-        "「あの時　浄化に失敗したばかりに……|　あなたと　ナッチョス……ラスターシャにも|　ずいぶん迷惑を　かけてしまったわね……。": "I failed to purify you... You and Natchos...|I'm sorry I caused so much trouble for you|and Rastasya."
+        "「踊り子の　魂と肉体の荒ぶりは|　ラブリィなエナジィを　生み出すわ。|　生者を鼓舞し　怨霊を浄化するエナジィをネ。": "The ravages of the dancer's soul and body|create a lovely energy. The energy that|inspires the living and purifies the spirits|<br>|of the dead."
     },
     "37": {
-        "「……グワッハハハ！　水臭ぇこと言うなよ。": "... Gwahahahaha! You stink of water..."
+        "「そのエナジィで　みんなのテンションを|　アゲアゲに　しちゃうのが|　ワタシの授ける奥義……荒神の舞ヨ。": "I'm going to use that energy to raise|everyone's spirits, and that's what I'm going|to do. Aragami..."
     },
     "38": {
-        "「ナッチョス……！？": "Natchos...!"
+        "「さあ……約束どおり　アナタを|　その継承者として　認めてあげるワ。|　あれを　渡さなくっちゃネ。": "So... As promised, you are hereby recognized|as the heir to the... I have to give you|that..."
     },
     "39": {
-        "「自分が見込んだ　踊り子の要望には|　なんでも　お応えすんのが　オレの流儀だぜ。|　迷惑かけられた覚えなんてねぇよ。": "It's my style to do whatever the dancer I've|chosen requests... I don't remember anyone|bothering me..."
+        "「ガサゴソ……ガサゴソ……っト。|　あら？　どこの羽根に　仕舞ったかしラ。|　ガサゴソ……ガサ……ゴソッ……。": "Gasagosso... Rustle. ..... What? Where did I|put it? Rustle... Rustle... Rustle..."
     },
     "40": {
-        "「ふふっ。まったく　調子いいんだから。|　まあ……私も　ナッチョスには|　本当に　心から感謝してるんだけどね。": "... Oh, my God. I'm good. I'm good. Well...|I'm really grateful to Natchos, too."
+        "「あ……あン！　こんなところニ。|　よかっタ　よかっタ。あったわヨ。|　ハイ！　これを　受け取りなさイ。": "Oh... Ah! This is... Oh, thank goodness...|Oh... Hi! I'll take this..."
     },
     "41": {
-        "「怨霊と戦うばかりの　一生を送ってきた私に……|　お客さんの見守る　舞台で|　踊るよろこびを　教えてくれたんだもの。": ""
+        "荒神の護符（だいじなもの）を　受け取った！<me 60>": "I received a talisman from the gods!<me 60>"
     },
     "42": {
-        "「グワッハハハ！　オレも　伝説的なステージを|　プロデュースできて　ハピネス伝説だったぜ。|　こちらこそ　ありがとうよ！": "Gwahahahaha! I'm a legend in my own right.|I'm a legend in my own right. Thank you, too!"
+        "「あとは　合方となる踊り子に|　継承の儀を　執りおこなってもらえバ……|　奥義を　習得できるはずヨ。": "All that remains is for the dancer who will|be your partner to perform the ritual of|succession... You'll be able to learn the|<br>|secrets..."
     },
     "43": {
-        "「ふふっ……。できれば　このままずっと|　楽しく　踊り続けていきたいけど……。|　そろそろ　この身体を　返してあげなくちゃね。": "Hmm... I wish I could keep dancing like this|forever, but... But it's time to give this|body back to you..."
+        "「奥義を　必要としているということは|　黒怨王の復活は　近いのネ……。|　幸運を　祈っているワ……。": "If he needs our help, then the Black Grudge|King's return is imminent. I wish you luck."
     },
     "44": {
-        "「私の……シャーラの霊魂を|　この子の身体から　除霊してあげて。|　……あなたの踊りで。<yesno><close>": "My... I'm going to exorcise Shaara's spirit|from this child's body... ... Your...<yesno><close>"
+        "「それじゃあネ！　チャーオ<heart>": "Bye! Chao.<heart>"
     },
     "45": {
-        "「もちろん　私だって　名残惜しいのよ。|　でも　これ以上　この身体に　留まっていたら|　霊魂が　完全に　同化してしまうわ。": "Of course, I'm sorry to leave you. But if I|stay in this body any longer, my spirit will|be completely assimilated..."
+        "「おかえりなさい　<pc>。|　どうやら　踊り神さまに　認められることが|　できたようね……さすがだわ！": "Welcome home<pc> I'm sorry. It seems we've managed to gain the|approval of the god of dance... I'm so proud|of you!"
     },
     "46": {
-        "「そうなる前に　この身体を返してあげなきゃ。|　踊り子の幸せのために　戦ってきたんだもの。|　それを　奪ってしまっては　いけないでしょう？<yesno><close>": "Before that happens, I want my body back.|I've fought for this dancer's happiness. You|can't just take that away from her, can you?<yesno><close>"
+        "荒神の護符を　渡しますか？<yesno><close>": ""
     },
     "47": {
-        "「<cs_pchero>。そこまで　別れを惜しんで|　くれるなんて……。とっても　うれしいわ。": "<cs_pchero>I'm sorry. To be able to say goodbye to|someone like that... I'm so happy..."
+        "「護符は　持っているだけじゃ　意味がないわよ。|　私が　そのチカラを解放してあげるわ。|　だから　早く渡してちょうだい。": "The talisman is useless just to have it. I|have to unlock its power. So give it to me|quickly..."
     },
     "48": {
-        "「よかったわ……わかってくれて　ありがとう。|　ふふっ。今まで　さんざん除霊してきたけど……|　自分自身が　除霊されるなんて　はじめてよ。": "I'm glad you... I'm glad you understand.|I've... I've been exorcised so many times in|my life... I've never been exorcised myself."
+        "<pc>は　ラスターシャに|荒神の護符を　手渡した。": "<pc> will get Rustacia the amulet of the gods..."
     },
     "49": {
-        "「でもね　<cs_pchero>。あなたになら|　安心して　まかせることが　できるわ。|　だって……私が認めた　最高の合方だもの。": "But you know what?<cs_pchero>I'm sorry. If it's you, I can leave it to you|with peace of mind... Because... The best way|to combine the two that I've ever seen..."
+        "「それじゃあ　さっそくだけど……|　継承の儀式を　始めるわよ。": "So, without further ado... Let's begin the|ritual of succession..."
     },
     "50": {
-        "「さあ……<cs_pchero>。|　これが……本当に　最後の除霊踊りよ。|　あなたの手で……その伝説に幕を閉じて。": "Come on<cs_pchero>. This is... It's really the last exorcism...|With your own hands... The legend ends..."
+        "「荒ぶる神のチカラを　秘めたる護符よ……。|　継承を認められし者　<pc>に|　踊り子の深遠なる奥義を　授けたまえ……。": "A talisman that holds the power of a raging|god... The one who is allowed to inherit.<pc> Give me the profound wisdom of the dancer..."
     },
     "51": {
-        "「ありがとう　<cs_pchero>。|　とても　あたたかくて……|　心地よい　踊りだったわ……。": "Thank you<cs_pchero>It's so warm. It was so warm and... It was a|comfortable dance."
+        "「はあああああッ！！": "Haaaaaaah!"
     },
     "52": {
-        "「さよう……なら。": "Like this: ....."
+        "「……よし。継承成功ね。|　その荒神の舞が　放つエネルギー……|　それこそが　黒怨王を　倒すカギなのよ。": "..... Inheritance... The energy released by|this dance of the gods... That is the key to|defeating the Black Grudge King..."
     },
     "53": {
-        "「……いっちまったか。": "... I'm here..."
+        "「でも……　残念ながら　それだけでは|　ヤツを　完全に浄化することはできない。|　それを可能にする方法は　ただひとつ……。": "But... Unfortunately, it's not enough to|completely cleanse him... There's only one|way to do that..."
     },
     "54": {
-        "「さぁて……俺ぁ　ちょっくら　こいつを |　テントまで　運んでくらぁ。|　お前も　後で　来てくれよ！": "Okay, well... I'll just carry him to the tent|for a bit... You should come back later, too!"
+        "「荒神の舞を　ふたり同時に舞うことで|　そのチカラを増幅させる　究極の対の舞……|　荒神連舞を　完成させるしかないわ。": "Two people dancing the Aragami dance at the|same time will amplify its power, making it|the ultimate pair dance. The only way to|<br>|complete the Aragami Dance..."
     },
     "55": {
-        "「おぅ　ラスタ。調子はどうでぃ？": "Oh... How are you doing?"
+        "「私と　かつての合方でさえ　荒神連舞を|　完全に　極めることはできなかった……。": "Even I and my former partner could never|fully master the Aragami Dance..."
     },
     "56": {
-        "「まだ　ちょっと　頭がクラクラするけどね。|　だいぶ　よくなってきたわ。": "I'm still a little lightheaded... I'm feeling|much better."
+        "「けれど　あなたなら　荒神連舞のチカラに|　耐えられるはず！　今度こそ　究極の対の舞を|　モノにできると　確信してるわ！": "But I'm sure you can withstand the power of|the Aragami Dance! I'm confident that this|time, you'll be able to conquer the ultimate|<br>|pair dance!"
     },
     "57": {
-        "「あら　あなたは……<pc>……？": "Oh, you're<pc> ...？"
+        "「私はね……　<pc>。|　除霊踊りを舞うのは|　私たちで　終わりにしたいと思っているの。": "I'm<pc> I'm sorry. I'd like to finish the exorcism|dance with us..."
     },
     "58": {
-        "「……って　誰だっけ？　へんなの……。|　なぜか　名前がわかったけど　初対面よね？|　でも　どこかで　会ったような気も……。": "Who's... Who was that? That's weird. I don't|know why I recognized his name, but we've|never met before, have we? But I feel like|<br>|we've met before."
+        "「私の一族は　代々　黒怨王との戦いに|　身を投じ　戦いの中に散っていったわ……。|　それが　一族の使命であり　宿命でもあった。": "My family has been fighting the Black Grudge|King for generations, and we have been|scattered in the battle. It was our family's|<br>|mission, our destiny..."
     },
     "59": {
-        "「う～ん……やっぱ　わかんない！": "Hmmm... I still don't get it!"
+        "「でもね……やっぱり　仲間たちと|　楽しく踊ったり　舞台に立ったり……。|　そういう時間が　いちばん　幸せだったの。": "But you know... I'm happiest when I'm dancing|and performing with my friends. That's when|I'm happiest."
     },
     "60": {
-        "「グワッハハハ！　まあ仕方ねえか。|　やっぱ　ここ最近のこたぁ|　キレイサッパリ　忘れてるみてぇだな。": "Gwahahahaha! Oh well... I knew you'd|forgotten all about me these days..."
+        "「ご先祖様が聞いたら　怒るだろうけど……。|　今は　そういう踊り子が　増えていることが|　私　とても　うれしいの。だから……": "I'm sure my ancestors would be furious if|they heard that, but... I'm very happy that|there are more dancers like that now. So..."
     },
     "61": {
-        "「なんでも　ちょいと前に　ご先祖様の墓参りに|　行ったときから　記憶がねぇんだとよ。|　お前と出会う前……怨霊どもが　出始めた頃だ。": "I can't remember anything since I went to|visit my ancestors' graves a while ago...|Before I met you... The spirits started to|<br>|appear..."
+        "「世界中の　踊り子たちの幸せのためにも|　黒怨王は倒され　除霊踊りは　古い伝説として|　忘れ去られなければ　ならないのよ……。": "For the happiness of all the dancers of the|world, the Black Grudge King must be defeated|and the Expulsion Dance must be forgotten as|<br>|an old legend..."
     },
     "62": {
-        "「なに？　なに？　アタシの話？": "What? What? You're talking about me?"
+        "「それじゃ　あなたと共に　荒神の舞を|　舞える日を　楽しみにしているわ。|　お互い　がんばりましょう。": "Well then, I look forward to the day when I|can dance the Aragami dance with you... I'll|do my best..."
     },
     "63": {
-        "「まぁ……そんなとこよ。それより　どうでぃ？|　この　<pc>は　オレも見込んだ|　伝説級の踊り子だ。いっちょ　ユニットでも……": "Oh, my... Oh, no, no, no. What do you think?|This.<pc> I've got my eye on you. You're a legendary|dancer. I'm gonna need a unit."
+        "「……と思ったけど　これは　どういうこと？|　すでに　奥義に目覚めているじゃない。|　護符のチカラも借りずに　どうやって？": "I thought... But what does this mean? You've|already awakened to the secret... How can I|do that without the help of the talisman?"
     },
     "64": {
-        "「う～ん……伝説級の踊り子とユニットかぁ。|　確かに組んじゃえば　ラクして目立てそうだし|　いいかもなぁ……。う～ん……。": "I can't... Uniting with a legendary dancer...|It's true that if we team up, we'll be able|to stand out more easily. Hmm..."
+        "「まさか　荒神さまとの戦いの中で|　自然に目覚めた……とでもいうの？|　さすが　私の合方ね。底が　知れないわ。": "Don't tell me you're not awakened by nature|in the midst of a battle with the Aragami...|Is that what you're saying? That's my... I|<br>|know my depths..."
     },
     "65": {
-        "「でも……ごめんね。|　今はなんだか　ひとりで真剣に　踊りと|　向き合わなきゃいけない……そんな気分なの！": "But... I... Right now, I feel like I have to|face the dance alone, seriously... That's how|I feel!"
+        "「それほどの　実力の持ち主に|　喜んでもらえるかは　わからないけれど……|　これは　荒神様に認めてもらった　お祝いよ。": "I don't know if I can please someone of that|caliber, but... This is a gift from|Aragami..."
     },
     "66": {
-        "「だからアタシが　<pc>さんに|　負けないくらいの　伝説級の踊り子になれたら|　改めて誘ってほしいな！": "That's why I'm here<pc> I hope you'll invite me again when I've|become a legendary dancer who can compete|with you!"
+        "「さて　あなたが習得した奥義…… |　荒神の舞が放つ　エネルギー。|　それこそが　黒怨王を倒すカギなの。": "Now that you've mastered it... The dance of|the gods... That is the key to defeating the|Black Grudge King..."
     },
     "67": {
-        "「グワッハハハ！　そうかそうか。そういや|　さっき話した　レンドアのステージの件……|　本調子じゃないなら　断ってもいいんだぜ。": "Gwahahahaha! Well... You know, that thing I|told you about earlier with the Lendl|stage... If you're not feeling up to it, you|<br>|can say no..."
+        "「やつらに　とりつかれる人も　増える一方……。|　私も　仕事を減らして　除霊に回ってるけど|　このままじゃ　パン耳生活に　逆戻りだわ……。": "More and more people are getting possessed by|them. I've been cutting back on my work, and|I've been working on getting rid of them, but|<br>|I'm afraid I'll end up living like a bread|ear."
     },
     "68": {
-        "「てなわけで　バッチリ営業して|　伝説作ってくるから　引き受けちゃっといて！|　よっし！　練習　練習っと～♪": "So I'm going to go out there and make a|legend out of myself, so go ahead and accept|it! All right! Let's practice, practice,|<br>|practice."
+        "「言ってなかったけど……今までに|　踊り神さまから　認めてもらえたのは|　私と　かつての合方　ふたりしかいなかったの。": "I never told you... The only two people who|have ever been recognized by the God of Dance|are me and my former partner..."
     },
     "69": {
-        "「とまあ……どういうわけか　こっちのラスタまで|　踊りを愛する心に　目覚めちまったみたいでな。|　経営的にゃあ　大助かりなんだが……": "Well... Somehow, even the rastas here seem to|have awakened to the love of dancing... From|a business standpoint, it's a big help,|<br>|but..."
-    },
-    "70": {
-        "「だが　<pc>。あの　ラスタの合方を|　立派につとめあげた　お前の実力は　もはや|　超伝説級だ。ユニットに　こだわるこたぁねぇ。": "But<pc> I'm sorry. You've done a fine job of|combining the rasters, and your abilities|have become... You don't care about units..."
-    },
-    "71": {
-        "「踊る　<pc>伝説も　新章突入だな。|　超伝説級の踊り子らしく|　世界のステージで　はばたいてこいよ。": "dance (orig a hopping dance)<pc> A new chapter in the legend... As a super-|legendary dancer, I'll be flying across the|world stage..."
-    },
-    "72": {
-        "「オレに　気ぃつかってんのか？　よせやい。|　オレとお前の仲だろうが。正直に言ってみな。|　このテントは　お前には小さすぎるだろ？<yesno><close>": "You're not paying attention to me, are you?|Hey... You and me, we're friends. Honestly...|This tent is too small for you, right?<yesno><close>"
-    },
-    "73": {
-        "「確かに　多少無理して　大きめのテントを|　構えたのは　事実だ。居住性も　それなりよ。|　だが　そういうことを　言いたいんじゃねぇ。": "It's true that I pushed myself a little to|get a bigger tent, but... It's more|comfortable. But that's what I'm trying to|<br>|say..."
-    },
-    "74": {
-        "「……いいか。何度でも言うぞ。|　お前は　こんなとこに　おさまるタマじゃ|　ねぇよな……？　そうだよな……？<yesno><close>": "...... How many times have I told you... You|don't belong in a place like this, do you?|Isn't that right?<yesno><close>"
-    },
-    "75": {
-        "「そうだろうな。そう言うと思ってよ……|　じつは　お前に　せんべつを用意したんだ。|　伝説が新章に突入する　記念にな。": "Yeah, I... I knew you'd say that. In fact,|I've prepared a special treat for you... This|is the beginning of a new chapter in the|<br>|legend..."
-    },
-    "76": {
-        "「こいつぁ　オレ特製の　踊り子の証。|　お前が　超伝説級の踊り子であることを|　証明する　超伝説級のレアアイテムだぜ。": "This is my special dance... I'll prove you're|a super legendary dancer with a super|legendary rare item..."
-    },
-    "77": {
-        "「お前には　さんざん世話になったからな。|　これじゃあ　足りねぇくらいだが……。|　どうか　受け取ってくれよ。": "You've done so much for me... This isn't even|enough, but... Please accept it..."
-    },
-    "78": {
-        "「まぁ　お前といえども　世界のステージじゃ |　いろいろ　つれぇこともあるだろうがよ。|　そんな時は　思いだしてほしいんだ。": "Well, I'm sure you've been through some tough|times on the world stage... When that|happens, I want you to remember..."
-    },
-    "79": {
-        "「オレとお前と　もうひとりのラスタで作り上げた|　あの　伝説の日々を……な！": "You and I, the other Rasta, we created those|legendary days... Hey!"
-    },
-    "80": {
-        "「お前には　さんざん世話になったからな。|　これじゃあ　足りねぇくらいだが……。|　伝説の新章突入記念だ。受け取ってくんな。": "You've done so much for me... This isn't even|enough... A new chapter in the legend...|Please accept..."
-    },
-    "81": {
-        "「サセルモノカッッ！！": "Saselmonoka!"
-    },
-    "82": {
-        "「そもそも　お前はこんな|　ちっさなテントに　おさまるタマじゃねぇだろ？<yesno><close>": "You don't have the balls to fit in a little|tent like this in the first place, do you?<yesno><close>"
-    },
-    "83": {
-        "「……<cs_pchero>。": "<cs_pchero>。"
-    },
-    "84": {
-        "「ごめんなさい。ひとりで戦わせてしまって……！": "Sorry... For making you fight alone..."
-    },
-    "85": {
-        "「もう　好きにはさせないわよ！": "I'm not gonna let you do this anymore!"
-    },
-    "86": {
-        "「除霊踊り……嵐の舞ッ…………！": "The exorcism dance... Storm dance..."
-    },
-    "87": {
-        "「………………。": "..."
-    },
-    "88": {
-        "「そして……皮肉なものね。黒怨王の目覚めが |　近づくと　他の大勢の怨霊とともに|　私までもが　チカラを得たのよ……。": "And... Ironic... As the Black Grudge King's|awakening drew nearer, I, along with many|other spirits, became empowered..."
-    },
-    "89": {
-        "「バッチリ　営業こなしてくれた　おかげで|　借金完済伝説が　だいぶ近づいたしな！|　むしろ感謝してるくらいだぜ！": "You've done a great job in sales, and thanks|to you, I'm much closer to paying off my|debt! I'm rather grateful to you!"
-    },
-    "90": {
-        "「踊っている時の　楽しげな手拍子……。|　終演後の　鳴り止まぬ拍手に　アンコールの声。|　決して　忘れないわ……。ありがとう。": "The joyful clapping of hands as they|danced... The applause after the show was|unstoppable, and the encore... I'll never|<br>|forget... There's..."
-    },
-    "91": {
-        "「……最後に　お願いがあるの。": "... I have one last request..."
-    },
-    "92": {
-        "「踊り子としての　まっすぐな生きざま……。 |　ひたむきに　踊りを愛する心……。|　本当に　伝説的な踊り子だったな。": "The straightforward way of life of a|dancer... Her single-minded love of dance.|She is truly a legendary dancer..."
-    },
-    "93": {
-        "「ううん　大丈夫！　それにね……なんでだろ？|　ムショーに　舞台に立ちたくて　仕方ないの。|　この感じ……すっごく　ひさびさかも。": "No, I'm fine! Besides... I don't know why. I|just can't wait to get on stage. This|feeling... It's been so long..."
-    },
-    "94": {
-        "「あの通り　当分ソロでやるつもりらしくてよ。|　ちいっと残念だが……|　伝説の　踊り子ユニットは　解散だな。": "As you said, he's going solo for the time|being. It's a bit of a shame, but... The|legendary dancing unit has been disbanded..."
+        "「ふふっ……やっぱり　私の目に狂いは|　なかったようね。それじゃあ|　手に入れた　護符を　渡してちょうだい。": "Hmm... I knew I was right... Then give me the|talisman you got..."
     }
 }
