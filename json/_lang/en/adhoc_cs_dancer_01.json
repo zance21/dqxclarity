@@ -45,19 +45,19 @@
         "「………………。": "..."
     },
     "16": {
-        "「じつは　ラスタは今　合方……|　一緒に踊る　パートナーを探しててよ。|　ちいっとばかし　気が立ってんだ。": "The truth is, Rasta is looking for a partner|to dance with. She's just a little bit on edge."
+        "「じつは　ラスタは今　合方……|　一緒に踊る　パートナーを探しててよ。|　ちいっとばかし　気が立ってんだ。": "The truth is, Rasta is looking for a partner|to dance with. She's just a little bit on|edge."
     },
     "17": {
-        "「勝手に　志願してくる奴ぁ　多いが |　ろくな奴が　いなくてよ。プロデューサーとして|　チカラになれなくて　困ってたんだが……。": "We've had many people volunteer, but no one|has made the cut. As a manager, I struggled|to help and was in trouble..."
+        "「勝手に　志願してくる奴ぁ　多いが |　ろくな奴が　いなくてよ。プロデューサーとして|　チカラになれなくて　困ってたんだが……。": "We've had many people volunteer, but no one|has made the cut. As her manager,|I've struggled to find someone."
     },
     "18": {
         "「そこに現れた逸材が　お前ってわけよ。 |　今回は　ちぃっと　時期が早すぎたが……|　そのうち　きっと　認めてくれるさ。": "In time, I'm sure she'll recognize you.|It's just a little too early right now."
     },
     "19": {
-        "「他の奴にゃ　クチも聞かなかったんだから|　それに比べりゃあ　上出来よ。|　ちょっとばかし　ツンケンしすぎだけどな。": "Although you stand out from the other|volunteers, you do act a little ridiculous."
+        "「他の奴にゃ　クチも聞かなかったんだから|　それに比べりゃあ　上出来よ。|　ちょっとばかし　ツンケンしすぎだけどな。": "Although you stand out from the other|volunteers, you do look a little ridiculous."
     },
     "20": {
-        "「まあ　優れた合方と　ユニットを組むのは|　<pc>伝説　誕生への　近道だからよ。|　いまは　オレを信じて　芸をみがいてくんな。": "Forming a group with a superior partner|is a shortcut to becoming a|legend, <pc>. For now, trust me|and work on your art."
+        "「まあ　優れた合方と　ユニットを組むのは|　<pc>伝説　誕生への　近道だからよ。|　いまは　オレを信じて　芸をみがいてくんな。": "Forming a group with a legendary partner|is a shortcut to becoming a|legend yourself, <pc>. For now, trust me|<br>|and work on your art."
     },
     "21": {
         "「おっと！　まずは　転職しねぇと|　始まらねぇよな。グワッハハハ！": "Whoa! You'll need to change vocations|first to get started though. Gwahahaha!"
@@ -66,7 +66,7 @@
         "「なんと！　オレがバッチリ　ダーマ神殿に|　根回しして　もうすでに　転職できるように|　してあるんだぜ。プロデューサーっぽいだろ？": "So! I've already made arrangements with|the Dharma Temple so that you can change|vocations. So I'm your manager now, right?"
     },
     "23": {
-        "「なあに。礼には　およばねぇよ。|　踊り子プロデューサー　ひと筋２０年。|　これしきのこたぁ　朝メシ前だぜ！": "What? You don't have to thank me. I've|been a Dancer manager for 20 years! And|all of this before breakfast, too!"
+        "「なあに。礼には　およばねぇよ。|　踊り子プロデューサー　ひと筋２０年。|　これしきのこたぁ　朝メシ前だぜ！": "What? You don't have to thank me. I've|been a dance manager for 20 years. And|all of this before breakfast, too!"
     },
     "24": {
         "「そう思って　じつは　さっき |　ダーマ神殿まで　根回ししに|　行ってきたんだが……": "That's why I went to Dharma Temple earlier|to lay the groundwork..."
@@ -96,6 +96,6 @@
         "「……しかし　ちいっと前までは|　営業に行くのも　面倒がるような|　ものぐさ踊り子だったのになぁ……。": "You'll be happy to know she's not|the only one who's a bit of a jerk. Not too|long ago, I myself was a dancer who couldn't|<br>|be bothered to work."
     },
     "33": {
-        "「最近　人が変わったように　意識高くなってよ。|　踊りが達者なのは　もとからなんだが|　まったく　不思議なもんだぜ。グワッハハハ！": "I've certainly changed though. It's|strange, but I've always been a good dancer. Gwahahaha!"
+        "「最近　人が変わったように　意識高くなってよ。|　踊りが達者なのは　もとからなんだが|　まったく　不思議なもんだぜ。グワッハハハ！": "I've certainly changed though. It's|strange, but I've always been a good dancer.|Gwahahaha!"
     }
 }
