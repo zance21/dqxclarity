@@ -69,7 +69,7 @@
         "「<%sL_BAG_ITEM>は|　今　装備しているようですが|　本当に　交換しても　いいですか？|<yesno 2><break>": "Looks like <%sL_BAG_ITEM> is equipped now,|but are you sure you want to trade it?<yesno 2><break>"
     },
     "24": {
-        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to chip?<break>"
+        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to break down?|<break>"
     },
     "25": {
         "「ありがとうございました。|　また　来てくださいね。|<turn_end>": "Thank you... Please come again...<turn_end>"
@@ -117,7 +117,7 @@
         "「アクセサリー交換屋では　魔法の迷宮などで|　手に入る一部のアクセサリーを　その破片と|　交換するサービスを　おこなっています。|<br>|「交換に　手数料は　いただいてませんが|　アクセサリー復元屋で　破片から復元する際は|　ゴールドが必要になるので　ご注意くださいね。|<bw_break>": "The Accessory Exchanger is a service that|allows you to exchange some of the|accessories you find in the Labyrinth for|<br>|pieces of them. We don't charge a fee for|this service, but please note that you will|need gold to restore a piece of jewelry at|<br>|the Accessory Restorer...<bw_break>"
     },
     "40": {
-        "「こちらは　アクセサリー交換屋です。|　今日は　どういたしますか？|<break>": "This is accessory exchange... What can I do|for you today?<break>"
+        "「こちらは　アクセサリー交換屋です。|　今日は　どういたしますか？|<break>": "This is the Accessory Exchange Shop.|What can I do for you today?<break>"
     },
     "41": {
         "「他に　用事はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -330,7 +330,7 @@
         "「<%sL_BAG_ITEM>は|　今　装備しているようですが|　本当に　交換しても　いいですか？|<yesno 2><break>": "Looks like <%sL_BAG_ITEM> is equipped now,|but are you sure you want to trade it?<yesno 2><break>"
     },
     "111": {
-        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to chip?<break>"
+        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to break down?|<break>"
     },
     "112": {
         "「今の職業だと装備できないが　よいか？|　※未使用|<yesno><break>": "You can't equip it with your current|profession. Is that okay? Not used.<yesno><break>"
@@ -360,7 +360,7 @@
         "「この　<%sL_BAG_ITEM>を|　<%sL_GOODS_ITEM>と|　交換しても　いいですか？|<yesno 2><break>": "Can I trade this <%sL_BAG_ITEM> for|<%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "121": {
-        "<pipipi_on>|「どのアクセサリーを　破片にしますか？|<break>": "<pipipi_on>Which accessory would you like to chip?<break>"
+        "<pipipi_on>|「どのアクセサリーを　破片にしますか？|<break>": "<pipipi_on>Which accessory would you like to break down?<break>"
     },
     "122": {
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
@@ -393,7 +393,7 @@
         "「アクセサリー交換屋では　魔法の迷宮などで|　手に入る一部のアクセサリーを　その破片と|　交換するサービスを　おこなっています。|<br>|「交換に　手数料は　いただいてませんが|　アクセサリー復元屋で　破片から復元する際は|　ゴールドが必要になるので　ご注意くださいね。|<bw_break>": "The Accessory Exchanger is a service that|allows you to exchange some of the|accessories you find in the Labyrinth for|<br>|pieces of them. We don't charge a fee for|this service, but please note that you will|need gold to restore a piece of jewelry at|<br>|the Accessory Restorer...<bw_break>"
     },
     "132": {
-        "「こちらは　アクセサリー交換屋です。|　今日は　どういたしますか？|<break>": "This is accessory exchange... What can I do|for you today?<break>"
+        "「こちらは　アクセサリー交換屋です。|　今日は　どういたしますか？|<break>": "This is the Accessory Exchange Shop.|What can I do for you today?<break>"
     },
     "133": {
         "「他に　用事はありますか？|<break>": "Is there anything else I can do for you?<break>"
@@ -834,7 +834,7 @@
         "「<%sL_BAG_ITEM>は|　今　仲間モンスターが　装備しているようですが|　本当に　交換しても　いいですか？|<yesno 2><break>": "It looks like <%sL_BAG_ITEM> is currently|equipped by a fellow monster, are you sure|you want to trade it?<yesno 2><break>"
     },
     "279": {
-        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to chip?<break>"
+        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to break down?|<break>"
     },
     "280": {
         "「今の職業だと装備できないが　よいか？|　※未使用|<yesno><break>": "You can't equip it with your current|profession. Is that okay? Not used.<yesno><break>"
@@ -936,7 +936,7 @@
         "「<%sL_BAG_ITEM>は|　今　仲間モンスターが　装備しているようですが|　本当に　交換しても　いいですか？|<yesno 2><break>": "It looks like <%sL_BAG_ITEM> is currently|equipped by a fellow monster, are you sure|you want to trade it?<yesno 2><break>"
     },
     "313": {
-        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to chip?<break>"
+        "「どのアクセサリーを　破片にしますか？|<break>": "Which accessory would you like to break down?|<break>"
     },
     "314": {
         "「今の職業だと装備できないが　よいか？|　※未使用|<yesno><break>": "You can't equip it with your current|profession. Is that okay? Not used.<yesno><break>"
