@@ -453,13 +453,13 @@
         "「では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "I'll put you in the sobekuro...<bw_break>"
     },
     "152": {
-        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "Well... Okay, um... Is there anything else|you'd like to buy?<break>"
+        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "No problem. Are you interested in|purchasing anything else?|<break>"
     },
     "153": {
-        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "Well... Okay, um... Do you have anything else|you'd like to sell?<break>"
+        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "No problem. Are you interested in|selling anything else?|<break>"
     },
     "154": {
-        "「お買い上げですね。|　どれに　なさいますか？|<break>": "You're buying... Which one do you want?<break>"
+        "「お買い上げですね。|　どれに　なさいますか？|<break>": "Buying, huh? What would you like?|<break>"
     },
     "155": {
         "「どちらを　お売りいただけますか？|<break>": "Which one do you have for sale?<break>"
@@ -2028,13 +2028,13 @@
         "「ありがとうございます。|　では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you... Now, let's put him in the|sobekuro...<bw_break>"
     },
     "677": {
-        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "Well... Okay, um... Is there anything else|you'd like to buy?<break>"
+        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "No problem. Are you interested in|anything else?|<break>"
     },
     "678": {
-        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "Well... Okay, um... Do you have anything else|you'd like to sell?<break>"
+        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "No problem. Are you interested in|anything else?|<break>"
     },
     "679": {
-        "「お買い上げですね。|　どれに　なさいますか？|<break>": "You're buying... Which one do you want?<break>"
+        "「お買い上げですね。|　どれに　なさいますか？|<break>": "Buying, huh? What would you like?|<break>"
     },
     "680": {
         "「どちらを　お売りいただけますか？|<break>": "Which one do you have for sale?<break>"
@@ -6906,10 +6906,10 @@
         "「ありがとうございます。|　では　そうびぶくろの中に|　お入れしておきます。|<bw_break>": "Thank you... Now, let's put him in the|sobekuro...<bw_break>"
     },
     "2303": {
-        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "Well... Okay, um... Is there anything else|you'd like to buy?<break>"
+        "「そうですか。わかりました。|　他に買いたい物は　ございますか？|<break>": "No problem. Are you interested in|anything else?|<break>"
     },
     "2304": {
-        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "Well... Okay, um... Do you have anything else|you'd like to sell?<break>"
+        "「そうですか。わかりました。|　他に売りたい物は　ございますか？|<break>": "No problem. Are you interested in|anything else?|<break>"
     },
     "2305": {
         "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>": "<select_se_off>|<%sL_LIST_NAME_1>|<select_end><break>"
@@ -6930,7 +6930,7 @@
         "「再販屋では　以前手に入れたことのある物を|　格安で購入できます。|　（仮テキスト）|<bw_break>": "At resale shops, you can buy stuff you've|gotten before at a discount... (temporary|text)<bw_break>"
     },
     "2311": {
-        "「お買い上げですね。|　どれに　なさいますか？|<break>": "You're buying... Which one do you want?<break>"
+        "「お買い上げですね。|　どれに　なさいますか？|<break>": "Buying, huh? What would you like?|<break>"
     },
     "2312": {
         "「どちらを　お売りいただけますか？|<break>": "Which one do you have for sale?<break>"
