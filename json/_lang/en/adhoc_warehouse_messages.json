@@ -192,7 +192,7 @@
         "「お客さまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you, sir?<break>"
     },
     "65": {
-        "「何を　お返ししますか？|<bw_break>": "What can I get for you, sir?<bw_break>"
+        "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
     },
     "66": {
         "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
@@ -597,7 +597,7 @@
         "「お客さまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you, sir?<break>"
     },
     "200": {
-        "「何を　お返ししますか？|<bw_break>": "What can I get for you, sir?<bw_break>"
+        "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
     },
     "201": {
         "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
@@ -990,7 +990,7 @@
         "「おや　お客様からは　なにも|　おあずかりして　いませんが……。|<br>|「他にも　ご用はありますか？|<break>": "Well, we don't have anything for you, but...|Is there anything else I can do for you?<break>"
     },
     "331": {
-        "「何を　お返ししますか？|<break>": "What can I get for you, sir?<break>"
+        "「何を　お返ししますか？|<break>": "What can I get for you?|<bw_break>"
     },
     "332": {
         "「失礼ですが　お客さまは　現在|　あずけられる物を　お持ちではないようです。|<br>|「他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything to give away at this time. Is there|anything else I can do for you?<break>"
@@ -1383,7 +1383,7 @@
         "「あなたさまからは　何も|　お預かりしていないようです。|　他にも　ご用はありますか？|<break>": "I don't have anything for you... Is there|anything else I can do for you?<break>"
     },
     "462": {
-        "「何を　お返ししますか？|<bw_break>": "What can I get for you, sir?<bw_break>"
+        "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
     },
     "463": {
         "「失礼ながら　あなたさまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "With all due respect, sir, I don't think you|have anything to leave with us at the moment.|Is there anything else I can do for you?<break>"
@@ -1791,7 +1791,7 @@
         "<speed=0>|しかし　何も　預けていなかった！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I never deposited anything! Somehow,|through this urn, you can access your|belongings in the item vault and the gold|<br>|bank...<break>"
     },
     "598": {
-        "「何を　お返ししますか？|<bw_break>": "What can I get for you, sir?<bw_break>"
+        "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
     },
     "599": {
         "「失礼ですが　お客さまは　現在|　預けられる物を　お持ちではないようです。|　他にも　ご用はありますか？|<break>": "I'm sorry, sir, but I don't believe you have|anything that can be left with us at this|time. Is there anything else I can do for|<br>|you?<break>"
@@ -2235,7 +2235,7 @@
         "<speed=0>|正しい数が　入っていません！|<bw_break>": "<speed=0>You're not getting the right number!<bw_break>"
     },
     "746": {
-        "「何を　お返ししますか？|<bw_break>": "What can I get for you, sir?<bw_break>"
+        "「何を　お返ししますか？|<bw_break>": "What can I get for you?|<bw_break>"
     },
     "747": {
         "<speed=0>|しかし　何も　預けていなかった！|<br>|どういうわけか　このツボを通じて|アイテム倉庫と　ゴールド銀行にある|持ち物を　出し入れできるようだ。|<break>": "<speed=0>But I never deposited anything! Somehow,|through this urn, you can access your|belongings in the item vault and the gold|<br>|bank...<break>"

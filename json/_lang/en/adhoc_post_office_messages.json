@@ -99,7 +99,7 @@
         "「お荷物の送り先は　おひとりのみになります。|　どなたに　お送りしますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
     },
     "34": {
-        "「何を　お送りしますか？|<break>": "What can I get for you, sir?<break>"
+        "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
     },
     "35": {
         "「どちらを　ご覧になりますか？|<break>": "Which one would you like to see?<break>"
@@ -912,7 +912,7 @@
         "「お荷物の送り先は　おひとりのみになります。|　どなたに　お送りしますか？|<break>": "The package can only be sent to one person...|Who would you like to send it to?<break>"
     },
     "305": {
-        "「何を　お送りしますか？|<break>": "What can I get for you, sir?<break>"
+        "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
     },
     "306": {
         "未使用": "unused"
@@ -1233,7 +1233,7 @@
         "「どれを　送るんだ？|<break>": "Which one are you sending?<break>"
     },
     "412": {
-        "「何を　お送りしますか？|<break>": "What can I get for you, sir?<break>"
+        "「何を　お送りしますか？|<break>": "What would you like to send?|<break>"
     },
     "413": {
         "未使用": "unused"
