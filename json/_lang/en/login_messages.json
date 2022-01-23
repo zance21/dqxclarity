@@ -33,7 +33,7 @@
         "<%sPC>": "<%sPC>"
     },
     "12": {
-        "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
+        "<%n_YYYY>年<%n_MM>月<%n_DD>日まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
     },
     "13": {
         "（※削除予定）": "(*Planned Deletion)"
@@ -264,7 +264,7 @@
         "Crysta": ""
     },
     "89": {
-        "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%n_MM>/<%n_DD>/<%n_YYYY>"
+        "<%n_YYYY>年<%n_MM>月<%n_DD>日 まで": "Until <%02d_MM>/<%d_DD>/<%d_YYYY>"
     },
     "90": {
         "<%d_YYYY>年<%2d_MM>月<%2d_DD>日 まで": "Until <%2d_MM>/<%2d_DD>/<%d_YYYY>"
