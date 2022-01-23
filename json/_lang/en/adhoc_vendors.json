@@ -8040,7 +8040,7 @@
         "「ここで　受け取れる対象のものは|　『プレゼントを受け取る』の項目に|　『特典屋』の記載があるから　チェックしてね！|<br>|「それじゃ|　また　いつでも　来てね！|<turn_end>": "If you're eligible to receive a gift here,|it'll be listed as a \"Reward Shop\" in the|\"Receive Gifts\" section, so check it out!|<br>|Well then, please come back anytime!<turn_end>"
     },
     "2681": {
-        "「いらっしゃいませ！　ここは　<%sL_SHOP_KIND>だよ。| 『プレゼントを受け取る』で　受け取り済みの|　一部の特典を　無料で　差し上げちゃうよ！|<break>": "Welcome! This is <%sL_SHOP_KIND... I'm giving|away some of the gifts you've already|received for free!<break>"
+        "「いらっしゃいませ！　ここは　<%sL_SHOP_KIND>だよ。| 『プレゼントを受け取る』で　受け取り済みの|　一部の特典を　無料で　差し上げちゃうよ！|<break>": "Welcome! This is the <%sL_SHOP_KIND>.|I can give you presents that you've already|received for free!|<break>"
     },
     "2682": {
         "「このたび　素材屋では|　使い込み度が５０以上であれば　汗と涙の結晶を|　取りだせるように　なりました。|<br>|「ただし　取りだせる数は　１００の時よりも|　少なくなるので　ご注意ください。|　さて……。|<bw_break>": "If your level of use is 50 or higher, you can|now retrieve sweat and tear crystals from the|materials shop... However, the number of|<br>|crystals you can take will be lower than when|you have 100, so please be careful... Now...<bw_break>"
