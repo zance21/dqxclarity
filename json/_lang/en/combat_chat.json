@@ -5370,7 +5370,7 @@
         "リレミトゲートをしらべると ダンジョンから ぬけだせます。": "Use the purple gate to exit the dungeon."
     },
     "1791": {
-        "<%sB_ACTOR>は 何も 盗めなかった！": ""
+        "<%sB_ACTOR>は 何も 盗めなかった！": "<%sB_ACTOR> couldn't steal anything!"
     },
     "1792": {
         "<%sB_TARGET>は まんぞくそうに かえっていった！": ""
@@ -5922,7 +5922,7 @@
         "clarity_nt_char_1974": "clarity_nt_char_1974"
     },
     "1975": {
-        "しかし 何も 盗めなかった！": "But I couldn't steal anything!"
+        "しかし 何も 盗めなかった！": "But you couldn't steal anything!"
     },
     "1976": {
         "clarity_nt_char_1976": "clarity_nt_char_1976"
@@ -26835,7 +26835,7 @@
         "しかし \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ムシされた！": ""
     },
     "8946": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eからは 盗めなかった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eからは 盗めなかった！": "Couldn't steal from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e!"
     },
     "8947": {
         "clarity_nt_char_8947": "clarity_nt_char_8947"
@@ -26853,7 +26853,7 @@
         "clarity_nt_char_8951": "clarity_nt_char_8951"
     },
     "8952": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eからは 盗めなかった。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eからは 盗めなかった。": "Couldn't steal from \\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e."
     },
     "8953": {
         "clarity_nt_char_8953": "clarity_nt_char_8953"
