@@ -723,7 +723,7 @@
         "「ありがとうございましたっ！|<turn_end>": "Thank you very much!<turn_end>"
     },
     "242": {
-        "「いらっしゃいませ！|　こちらは　<%sL_SHOP_KIND>ですっ。|　今日は　どんなご用事ですか？|<break>": "Welcome! This is <%sL_SHOP_KIND>... What can|I do for you today?<break>"
+        "「いらっしゃいませ！|　こちらは　<%sL_SHOP_KIND>ですっ。|　今日は　どんなご用事ですか？|<break>": "Welcome! This is the <%sL_SHOP_KIND>.|What can I do for you today?<break>"
     },
     "243": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
@@ -10080,7 +10080,7 @@
         "「そう。残念ね。|　他に売りたい物は　あるの？|<bw_break>": "Well... Do you have anything else you'd like|to sell?<bw_break>"
     },
     "3361": {
-        "「いらっしゃいませ！|　こちらは　<%sL_SHOP_KIND>ですっ。|　今日は　どんなご用事ですか？|<break>": "Welcome! This is <%sL_SHOP_KIND>... What can|I do for you today?<break>"
+        "「いらっしゃいませ！|　こちらは　<%sL_SHOP_KIND>ですっ。|　今日は　どんなご用事ですか？|<break>": "Welcome! This is the <%sL_SHOP_KIND>.|What can I do for you today?<break>"
     },
     "3362": {
         "<select_se_off>|買いにきた|売りにきた|<select_end><break>": "<select_se_off>|Buy|Sell|<select_end><break>"
