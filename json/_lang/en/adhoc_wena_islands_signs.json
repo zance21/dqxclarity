@@ -474,7 +474,7 @@
         "<pc>は　石碑の文字を読んだ。|<br>|真実を追い　真実を求める者よ。|その真実に　立ち向かう勇気があるなら|先へと　歩を進めるがよい。": "You read the words on the stone monument.|<br>|Follow the truth, seek the truth.|If you have the courage to confront that|truth, then you may proceed."
     },
     "159": {
-        "<pc>は　石碑を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": ""
+        "<pc>は　石碑を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": "You tried to read the stone monument!|But you couldn't read it from the back.|<end>"
     },
     "160": {
         "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
