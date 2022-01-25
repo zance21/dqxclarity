@@ -456,7 +456,7 @@
         "ラニアッカ断層帯にある|古代の転送装置に　戻りますか？<yesno 2><close>": "Return to the ancient transporter in the Raniakka Fault Zone?<yesno 2><close>"
     },
     "153": {
-        "<left><pc>は|<left>石版に刻まれた文字を読んだ。|<bw_clear>|<center>ただ知るは　賢にあらず|<center>世界のすべてを　その目で見よ": "<left>You read the words carved on the tablet.|<bw_clear>|            Only knowing is not wise|    See the whole world with your own eyes"
+        "<left><pc>は|<left>石版に刻まれた文字を読んだ。|<bw_clear>|<center>ただ知るは　賢にあらず|<center>世界のすべてを　その目で見よ": "<left>You read the words engraved on the tablet.|<bw_clear>|            Only knowing is not wise|    See the whole world with your own eyes"
     },
     "154": {
         "こちらは　裏側だ。|<end>": "This is the back side.|<end>"
@@ -471,7 +471,7 @@
         "<left>役に立たないモノ　役に立たないヒト|<left>ガラクタ城まで　ぜひ来てください。|<right>城主ダストン": "<left>Useless things, useless people,|<left>please come to the junk castle.|～ Lord Duston"
     },
     "158": {
-        "<center>忘れ物リスト|<left>長ぐつ　３個　作業前かけ　１個|<left>ものすごく巨大なネジ　２個": "             Lost and Found List|<left>3 long boots, 1 work apron|<left>2 very large screws"
+        "<center>忘れ物リスト|<left>長ぐつ　３個　作業前かけ　１個|<left>ものすごく巨大なネジ　２個": "             Lost and Found List|<left>3 long boots, 1 work apron,|<left>2 very large screws."
     },
     "159": {
         "<left>三闘士像を臨む　美しい町|<left>岳都ガタラは　旅人を歓迎します！|<left>ただし　ガラクタ好きは　おことわり！": "<left>The city of Gatara, overlooking the statue of|<left>the three warriors, welcomes all travelers!|<left>But no junk lovers, please!"
@@ -522,7 +522,7 @@
         "<left>ここより地上に出て　辺りを見回してみよ。|<left>ラニアッカが誇る　切り立った山々が|<left>自然の神秘を　そなたらに教えてくれるだろう。": "<left>Go high up and look around.|<left>The sheer mountains, pride of Raniakka, will|<left>show you the mysteries of nature."
     },
     "175": {
-        "<pc>は|墓石に刻まれた文字を読んだ。|<bw_clear>|魂は　カルサドラの地の底に。|肉体は　ボロヌスの清き泉の底に。|天魔封印は　ついに果たされた。|<bw_clear>|全身全霊で　使命にあたり|故郷の地を踏むことなく|息絶えた　我が戦友たちよ。|<bw_clear>|絶望を抱きながら　奮い立つ必要はもうない。|呪われし運命より逃れ　豊かな時を生きる|子孫らを思い　安らかに眠りたまえ。": "You read the words carved on the tombstone.|<bw_clear>|The soul is in the depths of Calsadora's land.|The body is at the bottom of Boronus' spring.|The Heavenly Demon Seal was finally fulfilled.|<bw_clear>|My comrade in arms, who died without ever|stepping foot on your homeland. There is no|more need for you to be emboldened by despair.|<bw_clear>|May you rest in peace, knowing that your|descendants have escaped their cursed fate and|are living in prosperity."
+        "<pc>は|墓石に刻まれた文字を読んだ。|<bw_clear>|魂は　カルサドラの地の底に。|肉体は　ボロヌスの清き泉の底に。|天魔封印は　ついに果たされた。|<bw_clear>|全身全霊で　使命にあたり|故郷の地を踏むことなく|息絶えた　我が戦友たちよ。|<bw_clear>|絶望を抱きながら　奮い立つ必要はもうない。|呪われし運命より逃れ　豊かな時を生きる|子孫らを思い　安らかに眠りたまえ。": "You read the words engraved on the tombstone.|<bw_clear>|The soul is in the depths of Calsadora's land.|The body is at the bottom of Boronus' spring.|The Heavenly Demon Seal was finally fulfilled.|<bw_clear>|My comrade in arms, who died without ever|stepping foot on your homeland. There is no|more need for you to be emboldened by despair.|<bw_clear>|May you rest in peace, knowing that your|descendants have escaped their cursed fate and|are living in prosperity."
     },
     "176": {
         "<pc>は　石碑を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": "You tried to read the stone monument!|But you couldn't read it from the back.|<end>"

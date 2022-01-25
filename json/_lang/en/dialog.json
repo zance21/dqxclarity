@@ -9870,7 +9870,7 @@
         "<speed=0>|源世庫パニガルムから　脱出します。|収集品の中の　アイテムは　すべて消失しますが|よろしいですか？|<yesno2><close>": "<speed=0>|If you escape from Origin Vault Panigalm, all|of the items in your collection will|disappear. Are you sure?|<yesno2><close>"
     },
     "3291": {
-        "<speed=0>|それを　捨てるなんて　とんでもない！|捨てたいときは　不思議の魔塔にいる|札強化屋ラベローに　渡しましょう。": ""
+        "<speed=0>|それを　捨てるなんて　とんでもない！|捨てたいときは　不思議の魔塔にいる|札強化屋ラベローに　渡しましょう。": "<speed=0>|You can't throw this away! If you really want|to get rid of it, speak with Card Enhancer|Rabero in the Mysterious Tower."
     },
     "3292": {
         "clarity_nt_char_3292": "clarity_nt_char_3292"

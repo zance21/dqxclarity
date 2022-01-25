@@ -942,7 +942,7 @@
         "詩吟のほこら 入口": "Poetry Shrine Entry"
     },
     "315": {
-        "水環の間 入口": "W.Ring Room Entry"
+        "水環の間 入口": "Water Circle Entry"
     },
     "316": {
         "-": "-"
@@ -2568,7 +2568,7 @@
         "無の空洞 出口": "Naught Cave Exit"
     },
     "857": {
-        "水環の間 出口": "W.Ring Room Exit"
+        "水環の間 出口": "Water Circle Exit"
     },
     "858": {
         "詩吟のほこら 出口": "Poetry Shrine Exit"
@@ -6120,13 +6120,13 @@
         "小さなほら穴 入口": "Small Cave Entry"
     },
     "2041": {
-        "ダラリア砂岩遺跡 出口": "Galeria Sandstone Ruins Exit"
+        "ダラリア砂岩遺跡 出口": "Daleria Sandstone Ruins Exit"
     },
     "2042": {
         "崩れゆく虚室 出口": "Crumbling Chamber Exit"
     },
     "2043": {
-        "ダラリア砂岩遺跡 入口": "Galeria Sandstone Ruins Entry"
+        "ダラリア砂岩遺跡 入口": "Daleria Sandstone Ruins Entry"
     },
     "2044": {
         "崩れゆく虚室 入口": "Crumbling Chamber Entry"
@@ -12426,7 +12426,7 @@
         "clarity_nt_char_4142": "clarity_nt_char_4142"
     },
     "4143": {
-        "ルティアナの清泉 出口": "Luthiana's Spring Exit"
+        "ルティアナの清泉 出口": "Lutiana's Spring Exit"
     },
     "4144": {
         "神代の遺構 出口": "Ancient Remains Exit"
@@ -12435,7 +12435,7 @@
         "clarity_nt_char_4145": "clarity_nt_char_4145"
     },
     "4146": {
-        "ルティアナの清泉 入口": "Luthiana's Spring Entry"
+        "ルティアナの清泉 入口": "Lutiana's Spring Entry"
     },
     "4147": {
         "<%sW_MAP_NAME><%sW_DELIMITER>魔塔銀行屋": "<%sW_MAP_NAME><%sW_DELIMITER>Tower Bank"

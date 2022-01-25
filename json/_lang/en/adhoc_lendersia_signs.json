@@ -852,7 +852,7 @@
         "<center>↑滝を臨む集落|<right>ソーラリア峡谷→": "↑ Waterfall Village|→ Solaria Canyon"
     },
     "285": {
-        "<pc>は　石碑に刻まれた文字を　読んだ。": "You read the words carved on the stone|monument."
+        "<pc>は　石碑に刻まれた文字を　読んだ。": "You read the words engraved on the stone|monument."
     },
     "286": {
         "<center>←モンセロ奥の湯→|<left>成分　リホイミウム・キングイオン・オラクルの塩|<left>効能　じわじわと回復 ": "← → Moncello Inner Spring|Composition: Rehealium・Kingion・Oracle Salt|Benefits: Gradual Recovery"
@@ -918,106 +918,106 @@
         "返事がない……。|ただの　カカシのようだ。": "There's no reply.|It's just a scarecrow."
     },
     "307": {
-        "<left>来たれ！　学び舎　アスフェルド学園！|<left>個性あふれる　たくさんの学友たちと|<left>かけがえのない　学園生活を。": ""
+        "<left>来たれ！　学び舎　アスフェルド学園！|<left>個性あふれる　たくさんの学友たちと|<left>かけがえのない　学園生活を。": "Welcome! Asfeld Academy!|We hope you will enjoy your school life with|many unique friends."
     },
     "308": {
-        "<left>アスフェルド学園行きの列車は|<left>直通運転と　なっております。|<left>折り返し時の　乗りすごしには　ご注意ください。": ""
+        "<left>アスフェルド学園行きの列車は|<left>直通運転と　なっております。|<left>折り返し時の　乗りすごしには　ご注意ください。": "This train is a direct line to Asfeld Academy.|Please be careful not to miss the return trip|time."
     },
     "309": {
-        "<left>全生徒　完全個室！|<left>あなたの　快適な学園生活をサポートする|<left>学生寮　祈望館。": ""
+        "<left>全生徒　完全個室！|<left>あなたの　快適な学園生活をサポートする|<left>学生寮　祈望館。": "Student Private Rooms!|This is a dormitory that supports your|comfortable school life."
     },
     "310": {
-        "<left>グランゼドーラ駅行き列車の|<left>発車時刻が　貼りだされている。": ""
+        "<left>グランゼドーラ駅行き列車の|<left>発車時刻が　貼りだされている。": "The departure time of the train to the Gran|Zedora Station is posted on the wall."
     },
     "311": {
-        "<left>さまざまな　お知らせが掲載されている。": ""
+        "<left>さまざまな　お知らせが掲載されている。": "Various announcements are posted."
     },
     "312": {
-        "<left>サクラの季節に　なりました！|<left>入学　進級　おめでとうございます。|<left>実りある　よい１年を　おすごしくださいね。": ""
+        "<left>サクラの季節に　なりました！|<left>入学　進級　おめでとうございます。|<left>実りある　よい１年を　おすごしくださいね。": "It's cherry blossom season!|Congratulations on making it to the next|grade. I hope you have a fruitful year."
     },
     "313": {
-        "<left>気温の高い日が　続きそうです！|<left>通学時の　日よけ対策は　万全に。|<left>熱中症には　充分　気をつけましょう。": ""
+        "<left>気温の高い日が　続きそうです！|<left>通学時の　日よけ対策は　万全に。|<left>熱中症には　充分　気をつけましょう。": "It's going to be a very hot day!|Protect yourself from the sun while commuting|to school. Be careful of heat stroke."
     },
     "314": {
-        "<left>寒暖の差が　激しい季節に　なってきました！|<left>気候に合った服装を　心がけ|<left>体調管理を　しっかり　おこなっていきましょう。": ""
+        "<left>寒暖の差が　激しい季節に　なってきました！|<left>気候に合った服装を　心がけ|<left>体調管理を　しっかり　おこなっていきましょう。": "It's getting to be a season of extreme|temperature swings! Dress appropriately for|the weather and take good care of yourselves."
     },
     "315": {
-        "<left>雪道は　すべりやすく　たいへん危険です。|<left>登下校の際には　充分　ご注意ください。": ""
+        "<left>雪道は　すべりやすく　たいへん危険です。|<left>登下校の際には　充分　ご注意ください。": "Snowy roads are slippery and very dangerous.|Please take extra care on your way to and from|school."
     },
     "316": {
-        "<left>『アスフェルド学園　川柳コンテスト結果発表』と|<left>書かれた紙が　貼りだされている。|<left><pc>は　入選となった川柳を読んでみた。|<br>|<left>佳作：|<left>フェルマーク　見つけた人は　購買部！|<left>とりあえず　ピンチになったら　やきそばパン！|<br>|<left>優秀賞：|<left>友情の光をゲットだ　校庭だ！|<left>菜園で　しゃっきりレタスが　とれたっす|<br>|<left>大賞：|<left>あとまわ死　テスト期間に　あせるオレ": ""
+        "<left>『アスフェルド学園　川柳コンテスト結果発表』と|<left>書かれた紙が　貼りだされている。|<left><pc>は　入選となった川柳を読んでみた。|<br>|<left>佳作：|<left>フェルマーク　見つけた人は　購買部！|<left>とりあえず　ピンチになったら　やきそばパン！|<br>|<left>優秀賞：|<left>友情の光をゲットだ　校庭だ！|<left>菜園で　しゃっきりレタスが　とれたっす|<br>|<left>大賞：|<left>あとまわ死　テスト期間に　あせるオレ": "There was a piece of paper on the wall that|read, \"Asfeld Academy Senryu Contest Results\".|You read the poems that were selected.|<br>|Honerable Mentions:|<br>|If you come across|a Fel Mark, bring it to the|school shop right away!|<br>|For the time being,|whenever you're in a pinch,|yakisoba bread!|<br>|Merit Award:|<br>|It is in the school|yard where you will discover|the light of friendship.|<br>|The vegetable|garden has some crisp lettuce|that's growing in it.|<br>|First Prize:|<br>|I will die later.|I am in the middle of|a test period."
     },
     "317": {
-        "<left>『アスフェルド学園新聞　号外』|<left>昨日未明　校舎内で　ドルボードを使用した生徒が|<left>他生徒と接触し　ケガを負わせる事故が発生した！|<br>|<left>幸い　生徒のケガは軽傷で　済んだものの|<left>生徒会主導で　ドルボード使用に関する|<left>ルールの徹底呼びかけ運動が　おこなわれた。|<br>|<left>生徒会長　アイゼル氏は語る。|<left>「ルールってもんはさ　みんなが気持ちよく|<left>　過ごせるように　あるもんだろ？|<br>|<left>「全生徒が　ルールを守って|<left>　他人にも自分にも　優しい|<left>　アスフェルド学園に　していこうぜ！": ""
+        "<left>『アスフェルド学園新聞　号外』|<left>昨日未明　校舎内で　ドルボードを使用した生徒が|<left>他生徒と接触し　ケガを負わせる事故が発生した！|<br>|<left>幸い　生徒のケガは軽傷で　済んだものの|<left>生徒会主導で　ドルボード使用に関する|<left>ルールの徹底呼びかけ運動が　おこなわれた。|<br>|<left>生徒会長　アイゼル氏は語る。|<left>「ルールってもんはさ　みんなが気持ちよく|<left>　過ごせるように　あるもんだろ？|<br>|<left>「全生徒が　ルールを守って|<left>　他人にも自分にも　優しい|<left>　アスフェルド学園に　していこうぜ！": "\"Asfeld Academy News - Extra Issue\"|In the early hours of yesterday, a student|using a dolboard collided with another student|<br>|in the school building, resulting in injury!|Fortunately, the injuries to the students were|minor, but the student council led a campaign|<br>|to enforce the rules of dolboard use. Student|Council President Eisel said the following,|\"Rules are there so that everyone can have a|<br>|good time, right? Let's make Asfeld Academy a|place where all students follow the rules and|are kind to others and to themselves!\""
     },
     "318": {
-        "<left>クラス対抗の　さまざまな催しがあるようだ。": ""
+        "<left>クラス対抗の　さまざまな催しがあるようだ。": "There are a variety of class rivalry events."
     },
     "319": {
-        "<left>図書室の　新刊入荷リストのようだ。|<left><pc>の　見たこともない|<left>本の名前が　たくさん　並んでいる。|<br>|<left><pc>は|<left>『学園イケメン名鑑』『学園マドンナ名鑑』という|<left>タイトルの本が　とくに　気になった！": ""
+        "<left>図書室の　新刊入荷リストのようだ。|<left><pc>の　見たこともない|<left>本の名前が　たくさん　並んでいる。|<br>|<left><pc>は|<left>『学園イケメン名鑑』『学園マドンナ名鑑』という|<left>タイトルの本が　とくに　気になった！": "It looks like a list of new books in the|library. There are a lot of book names that|you've never seen before.|<br>|You were particularly interested in the books|titled \"School Hunk List\" and \"School Madonna|List\"."
     },
     "320": {
-        "<left>迷いスライム　探しています。|<left>僕の相棒　ツルりんが　行方不明になりました。|<left>特徴：ツルツルで　スベスベ。よく跳ねる。|<br>|<left>お心当たりのある方は|<left>Ⅱ‐スペーディオ　ハルベルまで！": ""
+        "<left>迷いスライム　探しています。|<left>僕の相棒　ツルりんが　行方不明になりました。|<left>特徴：ツルツルで　スベスベ。よく跳ねる。|<br>|<left>お心当たりのある方は|<left>Ⅱ‐スペーディオ　ハルベルまで！": "I'm looking for a lost slime.|My buddy Slippy has gone missing.|Features: Slippery and Smooth. Bounces well.|<br>|If you have any idea where he is please|contact Halbel at Ⅱ‐Wulfspade."
     },
     "321": {
-        "<left>『期間限定！　学割の　お知らせ』という題名で|<left>さまざまな　割引のリストが紹介されている。|<left>教師は　利用できない特典のようだ。": ""
+        "<left>『期間限定！　学割の　お知らせ』という題名で|<left>さまざまな　割引のリストが紹介されている。|<left>教師は　利用できない特典のようだ。": "There is a list of various discounts with the|title \"Limited time! Student Discount Notice\".|It seems this perk is unavailable to teachers."
     },
     "322": {
-        "<left>勉学！　部活！　寮生活！|<left>なんでも　そろう！|<left>購買部へ　ようこそ！！": ""
+        "<left>勉学！　部活！　寮生活！|<left>なんでも　そろう！|<left>購買部へ　ようこそ！！": "Studying! Club Activities! Dorm Life!|We've got everything!|Welcome to the school shop!!"
     },
     "323": {
-        "<left>ベホマン焼きそばパンは　人気商品につき|<left>おひとりさま　ひとつ限りの購入と|<left>させていただいております。ご了承ください。": ""
+        "<left>ベホマン焼きそばパンは　人気商品につき|<left>おひとりさま　ひとつ限りの購入と|<left>させていただいております。ご了承ください。": "Please note that only one Cureslime Yakisoba|Bread can be purchased per person due to its|popularity. Thank you for your understanding."
     },
     "324": {
-        "<left>学食の献立表のようだが|<left>内容が　古いままになっている！": ""
+        "<left>学食の献立表のようだが|<left>内容が　古いままになっている！": "There is a school cafeteria menu|but the contents are out of date!"
     },
     "325": {
-        "<left>３年生の進路相談会について　掲載されている。": ""
+        "<left>３年生の進路相談会について　掲載されている。": "There is an article about career consultation|for third-year students."
     },
     "326": {
-        "<left>生徒たちが　自由に　書き置きした|<left>メモのようだ。|<left><pc>は　ひとつを　読んでみた。|<br>|<left>合コン参加希望者　大大大ぼしゅー！|<left>ノリノリで刺激的な　学園生活を送りたいキミ！|<left>合コンキングまで　連絡ちょーだいねん<heart>": ""
+        "<left>生徒たちが　自由に　書き置きした|<left>メモのようだ。|<left><pc>は　ひとつを　読んでみた。|<br>|<left>合コン参加希望者　大大大ぼしゅー！|<left>ノリノリで刺激的な　学園生活を送りたいキミ！|<left>合コンキングまで　連絡ちょーだいねん<heart>": "It appears to be notes that the students have|freely jotted down.|You read one of them.|<br>|Those interested in coming to the party, it's|gonna be a very big bash. You want to live in|a fun and exciting school!|<br>|Please contact me, the Party King.<heart>"
     },
     "327": {
-        "<center>宝箱専門店　『パンドラボックス』|<center>小さな島で　営業中！|<center>お得な情報は　裏面をごらんください！": ""
+        "<center>宝箱専門店　『パンドラボックス』|<center>小さな島で　営業中！|<center>お得な情報は　裏面をごらんください！": "Treasure Chest Specialty Shop, \"Pandora's Box\"|        We are open on a small island!|       See back page for special deals!"
     },
     "328": {
-        "<left>アラハギーロ王家　御用達の宝箱　発売中！|<left>普通に開けることは　絶対に　できませんが……|<br>|<left>なんと！　『たいようのおどり』をすると開く|<left>エキゾチックな宝箱です！": ""
+        "<left>アラハギーロ王家　御用達の宝箱　発売中！|<left>普通に開けることは　絶対に　できませんが……|<br>|<left>なんと！　『たいようのおどり』をすると開く|<left>エキゾチックな宝箱です！": "The Arahagiro Royal Family treasure chest is|now on sale! You'll never be able to open it|normally, though...|<br>|What! It's an exotic treasure chest that opens|when you perform the \"Sun Dance\"!"
     },
     "329": {
-        "<left>なんの部活動に入ろうか　迷っている方は|<left>部室を訪ね　どんどん見学して|<left>話を聞いてみると　よいでしょう。|<br>|<left>優しい部長や　先輩たちが|<left>あなたの入部を　待っていますよ。|<left>レッツ　ブカツ　ライフ！！": ""
+        "<left>なんの部活動に入ろうか　迷っている方は|<left>部室を訪ね　どんどん見学して|<left>話を聞いてみると　よいでしょう。|<br>|<left>優しい部長や　先輩たちが|<left>あなたの入部を　待っていますよ。|<left>レッツ　ブカツ　ライフ！！": "If you're not sure what kind of club you want|to join, visit the club room and ask around.|The friendly manager and senior members are|<br>|waiting for you to join the club. Let's live a|club activity life."
     },
     "330": {
-        "<left>娯楽室での息抜きは　ほどほどに。": ""
+        "<left>娯楽室での息抜きは　ほどほどに。": "Relax in the rec room, but in moderation."
     },
     "331": {
-        "<left>各部室の掃除当番表が　貼りだされている。|<left>部員たちが　順番に掃除をするようだ。": ""
+        "<left>各部室の掃除当番表が　貼りだされている。|<left>部員たちが　順番に掃除をするようだ。": "The cleaning duty list for each clubroom is|posted on the wall. It seems like the club|staff take turns cleaning."
     },
     "332": {
-        "<left>廊下は　走らない！": ""
+        "<left>廊下は　走らない！": "No running in the hallways!"
     },
     "333": {
-        "<left>フフッ。この張り紙に　たどり着いたきみは|<left>学園内の至る所にある張り紙を|<left>すべて　調べてみたくなるに　ちがいない。|<br>|<left>第二本校舎２階　娯楽室横|<left>第一本校舎２階　中央東|<left>第二本校舎３階　生徒指導室横|<br>|<left>第一本校舎１階　食堂南側　向かって右|<left>　|<left>ヒント：冒頭を読む。": ""
+        "<left>フフッ。この張り紙に　たどり着いたきみは|<left>学園内の至る所にある張り紙を|<left>すべて　調べてみたくなるに　ちがいない。|<br>|<left>第二本校舎２階　娯楽室横|<left>第一本校舎２階　中央東|<left>第二本校舎３階　生徒指導室横|<br>|<left>第一本校舎１階　食堂南側　向かって右|<left>　|<left>ヒント：冒頭を読む。": "Huh. You came across this sign.|You must be tempted to check out all the|posters throughout the school.|<br>|Secondary School Building, Second Floor, next|to Rec Room.|<br>|Main School Building, Second Floor, Central|East.|<br>|Secondary School Building, Third Floor, next|to Student Guidance Office.|<br>|Main School Building, First Floor, south side|of the cafeteria, on the right.|<br>|Hint: Read the beginning."
     },
     "334": {
-        "<left>新入部員　歓迎のお知らせでござる。|<left>我が釣り部では　釣りへの情熱を持った生徒の|<left>入部を　いつでも　待っているのでござる。": ""
+        "<left>新入部員　歓迎のお知らせでござる。|<left>我が釣り部では　釣りへの情熱を持った生徒の|<left>入部を　いつでも　待っているのでござる。": "This is a welcome to new members of the club.|Our fishing club is always waiting for|students with a passion for fishing to join."
     },
     "335": {
-        "<left>旧校舎では　お静かに願います。|<left>事務室に　ご用の方は　１階廊下を直進ください。|<left>左手の奥の部屋が　事務室となります。": ""
+        "<left>旧校舎では　お静かに願います。|<left>事務室に　ご用の方は　１階廊下を直進ください。|<left>左手の奥の部屋が　事務室となります。": "Please be quiet in the old school building.|If you need to go to the office, please go|straight down the hallway on the first floor.|<br>|The office will be in the back room on the|left."
     },
     "336": {
-        "<left>張り紙が　古くなっている。|<left>ところどころ　文字が　かすれていて|<left>内容を　読むことは　できなかった。": ""
+        "<left>張り紙が　古くなっている。|<left>ところどころ　文字が　かすれていて|<left>内容を　読むことは　できなかった。": "The sign is out of date.|The writing was faint in some places, so you|couldn't read the contents."
     },
     "337": {
-        "<left>第一本校舎や　第二本校舎に　ない資料は|<left>資料室に　保管されていることが　あります。|<left>どうぞ　お気軽に　お問い合わせください。": ""
+        "<left>第一本校舎や　第二本校舎に　ない資料は|<left>資料室に　保管されていることが　あります。|<left>どうぞ　お気軽に　お問い合わせください。": "Documents not available at the Main and|Secondary School Buildings might be stored in|the Archives. Please feel free to contact us."
     },
     "338": {
-        "<left>害虫駆除のお願い。|<left>同好会の活動中　クモが出て　困っています。|<left>退治してくれた方に　１０フェルド　プレゼント！": ""
+        "<left>害虫駆除のお願い。|<left>同好会の活動中　クモが出て　困っています。|<left>退治してくれた方に　１０フェルド　プレゼント！": "Request for pest control.|I'm having spider trouble during club|activities. 10 Feld for each one exterminated!"
     },
     "339": {
-        "<left>バトエンしようぜ！|<left>きみの熱い魂を　バトルえんぴつに　こめるんだ！": ""
+        "<left>バトエンしようぜ！|<left>きみの熱い魂を　バトルえんぴつに　こめるんだ！": "Let's play Batoen!|Put your passionate spirit into your battle|pencils!"
     },
     "340": {
-        "空きビンのラベルには　クマとリスが|仲むつまじく　たわむれている絵が描かれている。": ""
+        "空きビンのラベルには　クマとリスが|仲むつまじく　たわむれている絵が描かれている。": "On the label of the empty bottle, there is a|picture of a bear and a squirrel playing|together."
     },
     "341": {
         "<center>↑トンネルを上った先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "↑ If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
@@ -1029,10 +1029,10 @@
         "<left>←左手のトンネルの先　ゴンドラ乗り場|<center>山奥の温泉を訪れる際は　ぜひご利用ください。": "← If you're visiting the Mountain Hot Spring,|use the gondola at the end of the tunnel."
     },
     "344": {
-        "じんわりと熱を持った　石がある。": ""
+        "じんわりと熱を持った　石がある。": "There is a stone that's slowly heating up."
     },
     "345": {
-        "岩肌の一部が　赤くなっている。": ""
+        "岩肌の一部が　赤くなっている。": "Part of the rock's surface has turned red."
     },
     "346": {
         "<right>飛竜の峰→|<center>緑の根っこを渡って　先へ進んでください。": "→ Dragon Peak|      Please cross over the green roots."

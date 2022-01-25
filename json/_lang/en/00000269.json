@@ -1,6 +1,6 @@
 {
     "1": {
-        "<pc>は　立札を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": ""
+        "<pc>は　立札を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "2": {
         "<left>預かり所": ""
@@ -84,7 +84,7 @@
         "<left>武器屋の　看板だ。": "<left>It's a weapon shop sign."
     },
     "29": {
-        "<pc>は　看板を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": ""
+        "<pc>は　看板を読んだ！|しかし　こちらからは　裏側で読むことができない|<end>": "You tried to read the sign.|But you're standing on the wrong side!|<end>"
     },
     "30": {
         "<left>道具屋の　看板だ。": "<left>It's an item shop sign."
