@@ -29,6 +29,10 @@ dialog_trigger = rb'\x8D\x4F\x04\x56\x89\x02\xE8....\x8B'
 # 2B CF 8B C6 41 89 0A 5F 5E 5D
 cutscene_trigger = rb'\x8B\xC6\x41\x89\x0A\x5F\x5E\x5D'
 
+# function that points to the on-screen text for "Story So Far". ecx points to the text  // this works, but breaks because of AC in combat
+# 8B 45 10 C6 44
+story_so_far_trigger = rb'\x8B\x45\x10\xC6\x44'
+
 # function that is triggered when a quest window opens. used for translating quest text
 # 8B 34 24 8D 64 24 04 8D 64 24 04 E9 ?? ?? ?? ?? 8D 64 24 FC 89 4C
 # quest_text_trigger = rb'\x8B\x34\x24\x8D\x64\x24\x04\x8D\x64\x24\x04\xE9....\x8D\x64\x24\xFC\x89\x4C' // this works, but breaks because of AC in combat
@@ -39,9 +43,18 @@ quest_text_trigger = rb'\x8D\x8E\x78\x04\x00\x00\xE8....\x5F'
 # BF 01 00 00 00 E9 ?? ?? ?? ?? 8D 64 24 FC 8D
 walkthrough_text = rb'\xBF\x01\x00\x00\x00\xE9....\x8D\x64\x24\xFC\x8D'
 
+# function triggered when an EVTX file is loaded into memory
+# 81 3E 45 56 54 58 74 47 8B 45 08 51 8B CC 89 01 FF 77 04 8B 47 14 51 8B CC 68
+evtx_load = rb'\x81\x3E\x45\x56\x54\x58\x74\x47\x8B\x45\x08\x51\x8B\xCC\x89\x01\xFF\x77\x04\x8B\x47\x14\x51\x8B\xCC\x68'
+
 # function that is triggered when a cutscene is about to occur.
 # 89 81 44 04 00 00 8B
 cutscene_start = rb'\x89\x81\x44\x04\x00\x00\x8B'
+
+# function where npc / player / monster names are passed through
+# 8D 64 24 04 8B 6C 24 FC 8D 64 24 08 FF 64 24 F8 68 ?? ?? ?? ?? 68 ?? ?? ?? ?? 8D 64 24 04 FF 64 24 FC 89 6C 24 FC
+# could use this someday to translate on the fly if AC ever gets figured out (instead of scanning)
+npc_name_trigger = rb'\x8D\x64\x24\x04\x8B\x6C\x24\xFC\x8D\x64\x24\x08\xFF\x64\x24\xF8\x68....\x68....\x8D\x64\x24\x04\xFF\x64\x24\xFC\x89\x6C\x24\xFC'
 
 #############################################
 # DQX functions / addresses that will likely
