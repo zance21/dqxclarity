@@ -131,3 +131,70 @@ except:
     """
 
     return str(shellcode)
+
+def load_evtx_shellcode(
+    edx_address: int
+) -> str:
+    '''
+    Returns shellcode for the evtx load hook.
+    edx_address: Address where INDX starts
+    '''
+    local_paths = dumps(sys.path).replace('\\', '\\\\')
+    working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
+
+    shellcode = fr"""
+import sys
+import os
+from traceback import format_exc
+from os import chdir
+
+local_paths = {local_paths}
+working_dir = {working_dir}
+sys.path = local_paths
+chdir(working_dir)
+
+try:
+    import logging
+    from hook import unpack_to_int
+    from clarity import write_adhoc_entry, query_csv
+    from memory import read_bytes
+    from signatures import index_pattern
+
+    def setup_logger(name, log_file, level=logging.INFO):
+        formatter = logging.Formatter('%(asctime)s %(message)s')
+        handler = logging.FileHandler(log_file, encoding='utf-8')
+        handler.setFormatter(formatter)
+
+        logger = logging.getLogger(name)
+        if (logger.hasHandlers()):
+            logger.handlers.clear()
+
+        logger.setLevel(level)
+        logger.addHandler(handler)
+
+        return logger
+
+    logger = setup_logger('out', 'out.log')
+
+    # get address values where text can be identified
+    indx_address = unpack_to_int({edx_address})[0]
+    logger.debug('adhoc file encountered :: checking if we have this file')
+    adhoc_bytes = read_bytes(indx_address, 64)
+    file = query_csv(adhoc_bytes)
+    if file:
+        adhoc_write = write_adhoc_entry(indx_address, str(adhoc_bytes.hex()))
+        if adhoc_write['success']:
+            logger.debug('Wrote adhoc file.')
+        elif adhoc_write['file'] is not None:
+            logger.debug('New cutscene adhoc file. Will write to new_adhoc_dumps if it does not already exist.')
+        elif adhoc_write['file'] is None:
+            logger.debug('This file already exists in new_adhoc_dumps. Needs merge into github.')
+        write_bytes(adhoc_address - 2, b'\x69')  # write our state byte so we know we already wrote this. nice.
+    else:
+        logger.debug('We already wrote this cutscene file. Ignoring.')
+except:
+    with open('out.log', 'a+') as f:
+        f.write(format_exc())
+    """
+
+    return str(shellcode)

@@ -19,7 +19,7 @@ from memory import (
     write_string,
     pattern_scan
 )
-from api_translate.dialog import translate_shellcode
+from api_translate.dialog import translate_shellcode, load_evtx_shellcode
 from api_translate.cutscene import cutscene_shellcode
 from api_translate.quest import quest_text_shellcode
 from api_translate.walkthrough import walkthrough_shellcode
@@ -107,7 +107,6 @@ def write_pre_hook_registers() -> dict:
     addresses_dict['reg_edi'] = reg_values + 20           # address that's in edi pre-hook
     addresses_dict['reg_ebp'] = reg_values + 24           # address that's in ebp pre-hook
     addresses_dict['reg_esp'] = reg_values + 28           # address that's in esp pre-hook
-
 
     return addresses_dict
 
@@ -370,7 +369,7 @@ def walkthrough_detour(debug: bool):
 def cutscene_started_detour():
     '''
     Hook an instruction that is triggered when a cutscene is starting to transition the screen.
-    When this happens, we should immediately unhook all hooks as checks start firing.
+    When this happens, we should immediately unhook all hooks as memory integrity checks start firing.
     This detour will initially do nothing as unhook code will be passed when all hooks are passed
     in activate_hooks.
     '''
@@ -387,6 +386,28 @@ def cutscene_started_detour():
 
     return detour
 
+def load_evtx():
+    '''
+    Detours function where EVTX files are written to memory so we can write our own copy.
+    Specifically, we detour when INDX is referenced as our hex_dict has these entries.
+    '''
+    bytes_to_steal = 6
+
+    pre_hook = write_pre_hook_registers()
+    edx = pre_hook['reg_edx']
+
+    shellcode = load_evtx_shellcode(edx)
+
+    detour = generic_detour(
+        inspect.currentframe().f_code.co_name,
+        pre_hook,
+        cutscene_trigger,
+        bytes_to_steal,
+        shellcode=shellcode
+    )
+
+    return detour
+
 def activate_hooks(debug: bool):
     '''
     Activates all hooks and kicks off hook manager.
@@ -399,7 +420,7 @@ def activate_hooks(debug: bool):
     hooks.append(cutscene_started_detour())
     hooks.append(translate_detour(debug))
     hooks.append(cutscene_detour())
-    hooks.append(quest_text_detour(debug)) #// leaving disabled until can figure out how to hide from checks
+    hooks.append(quest_text_detour(debug))
 
     # any hooks that need to perform unhooking should be defined here
     unhookers = ['cutscene_started_detour']
