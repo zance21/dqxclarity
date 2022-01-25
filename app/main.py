@@ -30,25 +30,15 @@ from hook import activate_hooks
                 help='''Scans for NPC names and changes them to their translated counterpart.''')
 @click.option('-u', '--disable-update-check', is_flag=True,
                 help='''Disables checking for updates on each launch.''')
-@click.option('-d', '--dump-game-data', is_flag=True,
-                help='''ADVANCED: Dumps all found game data and converts each file into nested json.
-                        Output found in `game_file_dumps` directory. Useful when the game patches.''')
-@click.option('-m', '--migrate-game-data', is_flag=True,
-                help='''ADVANCED: Migrates existing json files into new dumped files.
-                        Make sure you dump the game files first with `--dump-game-data`.
-                        Output can be found in the `hyde_json_merge/out` directory.
-                        You are responsible for reconciling differences.''')
 
-def blast_off(update_weblate=False, dump_game_data=False, migrate_game_data=False,
-            disable_update_check=False, communication_window=False, player_names=False,
-            npc_names=False, debug=False):
+def blast_off(update_weblate=False,
+            disable_update_check=False,
+            communication_window=False,
+            player_names=False,
+            npc_names=False,
+            debug=False
+):
     logger.warning('Getting started. DO NOT TOUCH THE GAME OR REMOVE YOUR MEMORY CARD.')
-    if dump_game_data:
-        dump_all_game_files()
-        sys.exit('Finished!')
-    if migrate_game_data:
-        migrate_translated_json_data()
-        sys.exit('Migrated!')
     if update_weblate:
         click.secho('Getting latest files...', fg='green')
         get_latest_from_weblate()
