@@ -47,24 +47,20 @@ def load_unload_hooks(hook_list: list, debug: bool):
 
     state = 1
     base_address = get_base_address()
-    loading_addr = get_ptr_address(base_address + loading_pointer, loading_offsets)
     cutscene_addr = pattern_scan(cutscene_pattern, module='DQXGame.exe') - 212
-    
-    logger.debug(f'Loading address: {hex(loading_addr)}')
+
     logger.debug(f'Cutscene address: {hex(cutscene_addr)}')
 
     while True:
-        time.sleep(0.01)
-        state_byte = read_bytes(loading_addr, 1)
-        cutscene_byte = read_bytes(cutscene_addr, 1)
-
         try:
-            if state_byte == b'\x00' and state == 1:  # loading screen. unhook
+            state_byte = read_bytes(get_ptr_address(base_address + loading_pointer, loading_offsets), 1)
+            cutscene_byte = read_bytes(cutscene_addr, 1)
+            if state_byte != b'\x01' and state == 1:  # loading screen. unhook
                 for hook in hook_list:
                     write_bytes(hook['detour_address'], hook['original_bytes'])
                 logger.debug('Hooks unloaded.')
                 state = 0
-            elif state_byte != b'\x00' and state == 0:  # we're ok to hook now
+            elif state_byte == b'\x01' and state == 0:  # we're ok to hook now
                 for hook in hook_list:
                     write_bytes(hook['detour_address'], hook['hook_bytes'])
                 logger.debug('Hooks loaded.')
@@ -96,7 +92,9 @@ def load_unload_hooks(hook_list: list, debug: bool):
                             write_bytes(hook['detour_address'], hook['original_bytes'])
                         state = 0
                         break
+            time.sleep(0.01)
         except:
             for hook in hook_list:
                 write_bytes(hook['detour_address'], hook['original_bytes'])
-            sys.exit()
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            break
