@@ -63,10 +63,10 @@
         "すべての花を　抜きました！|<end>": "All of the flowers were picked!|<end>"
     },
     "22": {
-        "畑の　すべての花を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want me to pull all the flowers from|the field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
+        "畑の　すべての花を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Pick all the flowers from the field and start|over?|<br>|<color_yellow>|Your seeds will not be returned. Any flower|fairies present will also leave.|<color_white>|<yesno 2><break>"
     },
     "23": {
-        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
+        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "Using fertilizer on a field can increase the|yield of flowers and crops.|<br>|\"Cowpat\" and \"Horse Manure\" can be used to|fertilize a field. You can only fertilize|once per day.|<br>|You can fertilize your own field and other|people's fields, too."
     },
     "24": {
         "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
