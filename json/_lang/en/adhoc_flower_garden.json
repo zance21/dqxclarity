@@ -3,43 +3,43 @@
         "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
     },
     "2": {
-        "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
+        "どの肥料を　使いますか？|<break>": "Use which fertilizer?<break>"
     },
     "3": {
-        "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
+        "この畑を　お世話した記録です。|<break>": "This is a record of care for this field.|<break>"
     },
     "4": {
-        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
+        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM>|on this field?|<yesno><break>"
     },
     "5": {
-        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
+        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to sow <%sL_ITEM>?|<yesno><break>"
     },
     "6": {
-        "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
+        "<%sL_ITEM>を　畑に使いました！|<end>": "Used <%sL_ITEM> on the field!|<end>"
     },
     "7": {
         "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
     },
     "8": {
-        "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
+        "すでにタネは　まかれています。|<end>": "Seeds have already been planted.|<end>"
     },
     "9": {
-        "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
+        "今日の分の肥料は　もう使っています。|<end>": "Fertilizer has already been used today.|<end>"
     },
     "10": {
-        "実行できませんでした。|<end>": "Unable to execute...<end>"
+        "実行できませんでした。|<end>": "Couldn't be executed.|<end>"
     },
     "11": {
-        "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
+        "順調に育っています。|水を　やりますか？|<yesno><break>": "They're growing nicely.|Water the field?|<yesno><break>"
     },
     "12": {
-        "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
+        "しおれている……。|水を　やりますか？|<yesno><break>": "They're wilting...|Water the field?|<yesno><break>"
     },
     "13": {
-        "花は　枯れてしまった……。|<end>": "The flowers have died...<end>"
+        "花は　枯れてしまった……。|<end>": "The flowers have withered away...|<end>"
     },
     "14": {
-        "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> has a beautiful flower!<end>"
+        "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is growing a|beautiful flower!|<end>"
     },
     "15": {
         "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
@@ -462,9 +462,9 @@
         "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "You can't use fertilizer right now. Please|wait a while and try again."
     },
     "155": {
-        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
+        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": "<pipipi_off><pc> received the E-Z Watering Can!|(Key Item)!|<me 60>|<bw_break>"
     },
     "156": {
-        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
+        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": "<pipipi_off><pc> received the E-Z Watering Can!|(Key Item)!|<me 60>|<bw_break>"
     }
 }
