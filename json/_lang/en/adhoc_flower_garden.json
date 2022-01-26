@@ -408,13 +408,13 @@
         "<%sL_ITEM>を　収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "<%sL_ITEM> has been harvested!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
     },
     "137": {
-        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "They're growing nicely.|<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Water the field?<yesno><break>"
     },
     "138": {
-        "めずらしい作物|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It's changed to the rare crop <%sL_ITEM>!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+        "めずらしい作物|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Changed to the rare crop, <%sL_ITEM>!|<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Water the field?<yesno><break>"
     },
     "139": {
-        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two rare <%sL_ITEM> have appeared.|<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Water the field?<yesno><break>"
     },
     "140": {
         "ふたつの作物が　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水をやりますか？|<yesno><break>": "We have two crops...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
