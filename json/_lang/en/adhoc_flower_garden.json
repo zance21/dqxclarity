@@ -372,7 +372,7 @@
         "しおれている作物があるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
     },
     "125": {
-        "すべての花を　摘みますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています。|<color_yellow>|<yesno><break>": "Do you want to pick all the flowers?<color_yellow>The flower fairies have come to this field,|doubling the yield...<color_yellow>|<yesno><break>"
+        "すべての花を　摘みますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています。|<color_yellow>|<yesno><break>": "Pick all of the flowers?|<color_yellow>|The flower fairies have come to your field|and have doubled the overall yield.|<color_yellow>|<yesno><break>"
     },
     "126": {
         "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
@@ -423,19 +423,19 @@
         "まだ芽が出ていないようだ。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "Looks like it hasn't sprouted yet.|<color_yellow>|The flower fairies have doubled the yield.|<color_yellow>|<color_white>|Water the field?|<yesno><break>"
     },
     "142": {
-        "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's wilting...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+        "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "They're wilting...|<color_yellow>|The flower fairies have doubled the yield.|<color_yellow>|<color_white>|Water the field?|<yesno><break>"
     },
     "143": {
-        "水がもう　あげられない状態まで|育っています。": ""
+        "水がもう　あげられない状態まで|育っています。": "The plants have grown to a point where they no|longer need water."
     },
     "144": {
-        "現在　肥料をあげることができません。": "Now I can fertilize it..."
+        "現在　肥料をあげることができません。": "You can't use fertilizer right now."
     },
     "145": {
-        "水がもう　あげられない状態まで|育っています。": ""
+        "水がもう　あげられない状態まで|育っています。": "The plants have grown to a point where they no|longer need water."
     },
     "146": {
-        "現在　肥料をあげることができません。": "Now I can fertilize it..."
+        "現在　肥料をあげることができません。": "You can't use fertilizer right now."
     },
     "147": {
         "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "Sprout Drops were sprinkled on the soil, so|the harvest has increased!"
@@ -444,22 +444,22 @@
         "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "Sprout Drops were sprinkled on the soil, so|the harvest has increased!"
     },
     "149": {
-        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops will increase the|overall yield by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>Harvest all of the flowers?|<yesno><break>"
+        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops have increased the|overall yield by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>|Pick all of the flowers?|<yesno><break>"
     },
     "150": {
-        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops will increase the|overall yield. Pick all of the flowers?|<yesno><break>"
+        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops have increased the|overall yield. Pick all of the flowers?|<yesno><break>"
     },
     "151": {
-        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての作物を　収穫しますか？|<yesno><break>": "Using the Sprout Drops will increase the|overall yield by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>Harvest all of the produce?|<yesno><break>"
+        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての作物を　収穫しますか？|<yesno><break>": "Using the Sprout Drops have increased the|overall yield by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>|Harvest all of the crops?|<yesno><break>"
     },
     "152": {
-        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての作物を　収穫しますか？|<yesno><break>": "Using the Sprout Drops will increase the|overall yield. Harvest all of the produce?|<yesno><break>"
+        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての作物を　収穫しますか？|<yesno><break>": "Using the Sprout Drops have increased the|overall yield. Harvest all of the crops?|<yesno><break>"
     },
     "153": {
-        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
+        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "You can't use fertilizer right now. Please|wait a while and try again."
     },
     "154": {
-        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
+        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "You can't use fertilizer right now. Please|wait a while and try again."
     },
     "155": {
         "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
