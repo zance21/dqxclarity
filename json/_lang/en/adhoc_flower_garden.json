@@ -1,470 +1,470 @@
 {
-  "1": {
-    "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
-  },
-  "2": {
-    "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
-  },
-  "3": {
-    "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
-  },
-  "4": {
-    "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
-  },
-  "5": {
-    "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
-  },
-  "6": {
-    "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
-  },
-  "7": {
-    "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
-  },
-  "8": {
-    "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
-  },
-  "9": {
-    "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
-  },
-  "10": {
-    "実行できませんでした。|<end>": "Unable to execute...<end>"
-  },
-  "11": {
-    "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
-  },
-  "12": {
-    "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
-  },
-  "13": {
-    "花は　枯れてしまった……。|<end>": "The flowers have died...<end>"
-  },
-  "14": {
-    "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> has a beautiful flower!<end>"
-  },
-  "15": {
-    "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
-  },
-  "16": {
-    "<%sL_ITEM>は|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has a beautiful flower!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "17": {
-    "花は　枯れてしまった……。|枯れてしまった花は　『やりなおす』から|摘むことができます。|<end>": "Flowers that have withered... Flowers that|have withered can be plucked from the|\"redo\"...<end>"
-  },
-  "18": {
-    "<%sL_ITEM>を　摘みました！|<end>": "I just picked <%sL_ITEM>!<end>"
-  },
-  "19": {
-    "枯れた花を　摘みました！|<end>": "I picked the dead flowers!<end>"
-  },
-  "20": {
-    "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "21": {
-    "すべての花を　抜きました！|<end>": "I pulled out all the flowers!<end>"
-  },
-  "22": {
-    "畑の　すべての花を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want me to pull all the flowers from|the field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
-  },
-  "23": {
-    "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
-  },
-  "24": {
-    "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
-  },
-  "25": {
-    "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "If you select \"Redo\", you can remove all the|plants in the field and start over... Once|you select \"Redo\", you can't put back what|<br>|you've removed... Please judge carefully...<bw_break>"
-  },
-  "26": {
-    "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
-  },
-  "27": {
-    "めずらしい色の花|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It turned into a flower of an unusual color,|<%sL_ITEM>! Do you want to water it?<yesno><break>"
-  },
-  "28": {
-    "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
-  },
-  "29": {
-    "畑には　何も植えられていない。|<end>": "There's nothing planted in the field...<end>"
-  },
-  "30": {
-    "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
-  },
-  "31": {
-    "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
-  },
-  "32": {
-    "タネを　もっていません。|<end>": "I have seeds...<end>"
-  },
-  "33": {
-    "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
-  },
-  "34": {
-    "収穫できませんでした。|<end>": "We can't harvest it...<end>"
-  },
-  "35": {
-    "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
-  },
-  "36": {
-    "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
-  },
-  "37": {
-    "すべての花を摘まないと|タネは　まけません。|<end>": "If we don't pick all the flowers, we can't|plant the seeds.<end>"
-  },
-  "38": {
-    "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
-  },
-  "39": {
-    "畑には　何も植えられていません。|<end>": "There's nothing planted in the field...<end>"
-  },
-  "40": {
-    "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
-  },
-  "41": {
-    "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "I can't pick flowers because my tool bag is|full.<end>"
-  },
-  "42": {
-    "花は　もう摘まれています。|<end>": "The flowers have already been picked...<end>"
-  },
-  "43": {
-    "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
-  },
-  "44": {
-    "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "45": {
-    "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> has two beautiful flowers!<end>"
-  },
-  "46": {
-    "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has two beautiful flowers!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "47": {
-    "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|水をやりますか？|<yesno><break>": "Two flowers of an unusual color, <%sL_ITEM>,|blooming... Do you want to water them?<yesno><break>"
-  },
-  "48": {
-    "ふたつの花が　咲きました。|水をやりますか？|<yesno><break>": "Two flowers blooming... Do you want me to|water them?<yesno><break>"
-  },
-  "49": {
-    "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
-  },
-  "50": {
-    "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
-  },
-  "51": {
-    "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
-  },
-  "52": {
-    "<%sL_ITEM>を　収穫しました！|<end>": "<%sL_ITEM> has been harvested!<end>"
-  },
-  "53": {
-    "枯れた作物を　摘みました！|<end>": "I picked the dead crop!<end>"
-  },
-  "54": {
-    "すべての作物を　抜きました！|<end>": "All the crops have been pulled!<end>"
-  },
-  "55": {
-    "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
-  },
-  "56": {
-    "作物は　もう収穫されています。|<end>": "The crops have already been harvested...<end>"
-  },
-  "57": {
-    "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
-  },
-  "58": {
-    "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
-  },
-  "59": {
-    "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
-  },
-  "60": {
-    "収穫できませんでした。|<end>": "We can't harvest it...<end>"
-  },
-  "61": {
-    "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
-  },
-  "62": {
-    "実行できませんでした。|<end>": "Unable to execute...<end>"
-  },
-  "63": {
-    "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
-  },
-  "64": {
-    "すべての作物を収穫しないと|タネは　まけません。|<end>": "We have to harvest all the crops before we|can plant the seeds.<end>"
-  },
-  "65": {
-    "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
-  },
-  "66": {
-    "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
-  },
-  "67": {
-    "タネを　もっていません。|<end>": "I have seeds...<end>"
-  },
-  "68": {
-    "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
-  },
-  "69": {
-    "畑には　何も植えられていません。|<end>": "There's nothing planted in the field...<end>"
-  },
-  "70": {
-    "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
-  },
-  "71": {
-    "どうぐかばんが　いっぱいのため|作物を収穫できません。|<end>": "I can't harvest any crops because my tool bag|is full...<end>"
-  },
-  "72": {
-    "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
-  },
-  "73": {
-    "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
-  },
-  "74": {
-    "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It's turned into a rare crop <%sL_ITEM>! Do|you want to water it?<yesno><break>"
-  },
-  "75": {
-    "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>... Do you want|to water them?<yesno><break>"
-  },
-  "76": {
-    "ふたつの作物が　できました。|水をやりますか？|<yesno><break>": "We have two crops... Do you want to water it?<yesno><break>"
-  },
-  "77": {
-    "<%sL_ITEM>は|元気な実を　実らせている！|<end>": "<%sL_ITEM> is bearing healthy fruit!<end>"
-  },
-  "78": {
-    "<%sL_ITEM>は|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is bearing healthy fruit!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "79": {
-    "めずらしい作物　|<%sL_ITEM>が|できている！|<end>": "An unusual crop <%sL_ITEM> has been created!<end>"
-  },
-  "80": {
-    "めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A rare crop of <%sL_ITEM> is growing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "81": {
-    "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が|実っている！|<end>": "What two rare crops <%sL_ITEM> are bearing!<end>"
-  },
-  "82": {
-    "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What two rare crops <%sL_ITEM> are bearing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "83": {
-    "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<end>"
-  },
-  "84": {
-    "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "85": {
-    "畑には　何も植えられていない。|<end>": "There's nothing planted in the field...<end>"
-  },
-  "86": {
-    "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
-  },
-  "87": {
-    "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
-  },
-  "88": {
-    "作物は　枯れてしまった……。|<end>": "The crops are dying...<end>"
-  },
-  "89": {
-    "作物は　枯れてしまった……。|枯れてしまった作物は　『やりなおす』から|摘むことができます。|<end>": "Crops that have withered... Crops that have|withered can be picked from the \"redo\"...<end>"
-  },
-  "90": {
-    "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
-  },
-  "91": {
-    "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
-  },
-  "92": {
-    "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "If you select \"Redo\", you can remove all the|plants in the field and start over... Once|you select \"Redo\", you can't put back what|<br>|you've removed... Please judge carefully...<bw_break>"
-  },
-  "93": {
-    "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
-  },
-  "94": {
-    "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
-  },
-  "95": {
-    "畑の　すべての作物を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want to pull all the crops out of the|field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
-  },
-  "96": {
-    "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
-  },
-  "97": {
-    "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
-  },
-  "98": {
-    "予備テキスト": "preliminary text"
-  },
-  "99": {
-    "予備テキスト": "preliminary text"
-  },
-  "100": {
-    "予備テキスト": "preliminary text"
-  },
-  "101": {
-    "予備テキスト": "preliminary text"
-  },
-  "102": {
-    "予備テキスト": "preliminary text"
-  },
-  "103": {
-    "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
-  },
-  "104": {
-    "予備テキスト": "preliminary text"
-  },
-  "105": {
-    "予備テキスト": "preliminary text"
-  },
-  "106": {
-    "予備テキスト": "preliminary text"
-  },
-  "107": {
-    "予備テキスト": "preliminary text"
-  },
-  "108": {
-    "予備テキスト": "preliminary text"
-  },
-  "109": {
-    "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
-  },
-  "110": {
-    "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "111": {
-    "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
-  },
-  "112": {
-    "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "113": {
-    "なんと　めずらしい作物|巨大なびっくりトマトが　実っている！": "What a rare crop, a giant surprise tomato!"
-  },
-  "114": {
-    "なんと　めずらしい作物|巨大なびっくりトマトが　実っている！|<br>|巨大なびっくりトマトからは　|びっくりトマトが　ふたつ　収穫できるようだ。|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What a rare crop, a giant surprise tomato! A|giant surprise tomato yields two surprise|tomatoes...<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "115": {
-    "なんと　めずらしい作物|巨大なびっくりトマトが　ふたつ実っている！": "What a rare crop, two giant surprise|tomatoes!"
-  },
-  "116": {
-    "なんと　めずらしい作物|巨大なびっくりトマトが　ふたつ実っている！|<br>|巨大なびっくりトマトからは　|びっくりトマトが　ふたつ　収穫できるようだ。|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What a rare crop, two giant surprise|tomatoes! From the giant surprise tomato, we|can harvest two surprise tomatoes...<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
-  },
-  "117": {
-    "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<end>"
-  },
-  "118": {
-    "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<end>"
-  },
-  "119": {
-    "すべての花を　摘みますか？|<yesno><break>": "Do you want to pick all the flowers?<yesno><break>"
-  },
-  "120": {
-    "すべての作物を　収穫しますか？|<yesno><break>": "Do you want to harvest all the crops?<yesno><break>"
-  },
-  "121": {
-    "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
-  },
-  "122": {
-    "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
-  },
-  "123": {
-    "しおれている作物が　あるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
-  },
-  "124": {
-    "しおれている作物があるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
-  },
-  "125": {
-    "すべての花を　摘みますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています。|<color_yellow>|<yesno><break>": "Do you want to pick all the flowers?<color_yellow>The flower fairies have come to this field,|doubling the yield...<color_yellow>|<yesno><break>"
-  },
-  "126": {
-    "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
-  },
-  "127": {
-    "すべての作物を　収穫しますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています！|<color_yellow>|<yesno><break>": "Do you want to harvest all the crops?<color_yellow>The flower fairies have come to this field,|doubling our harvest!<color_yellow>|<yesno><break>"
-  },
-  "128": {
-    "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
-  },
-  "129": {
-    "<%sL_ITEM>を　摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I just picked <%sL_ITEM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
-  },
-  "130": {
-    "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "131": {
-    "めずらしい色の花|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It turned into a flower <%sL_ITEM> of an|unusual color!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "132": {
-    "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two unusual colored flowers <%sL_ITEM>|bloom...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "133": {
-    "ふたつの花が　咲きました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水をやりますか？|<yesno><break>": "Two flowers blooming...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "134": {
-    "まだ芽が出ていないようだ。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "No buds yet...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "135": {
-    "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's wilting...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "136": {
-    "<%sL_ITEM>を　収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "<%sL_ITEM> has been harvested!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
-  },
-  "137": {
-    "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "138": {
-    "めずらしい作物|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It's changed to the rare crop <%sL_ITEM>!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "139": {
-    "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "140": {
-    "ふたつの作物が　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水をやりますか？|<yesno><break>": "We have two crops...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
-  },
-  "141": {
-    "まだ芽が出ていないようだ。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "No buds yet...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "142": {
-    "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's wilting...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
-  },
-  "143": {
-    "水がもう　あげられない状態まで|育っています。": ""
-  },
-  "144": {
-    "現在　肥料をあげることができません。": "Now I can fertilize it..."
-  },
-  "145": {
-    "水がもう　あげられない状態まで|育っています。": ""
-  },
-  "146": {
-    "現在　肥料をあげることができません。": "Now I can fertilize it..."
-  },
-  "147": {
-    "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
-  },
-  "148": {
-    "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
-  },
-  "149": {
-    "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての花を　摘みますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, we'll be able to harvest a little|more...<color_yellow>Plus, the flower fairies are here in this|field, so we've doubled our harvest!<color_yellow>|<color_white>Do you want to pick all the flowers?<yesno><break>"
-  },
-  "150": {
-    "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, the yield will increase... Do you|want to pick all the flowers?<yesno><break>"
-  },
-  "151": {
-    "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての作物を　収穫しますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, the harvest has increased a bit...<color_yellow>Plus, the flower fairies are here in this|field, so we've doubled our harvest!<color_yellow>|<color_white>Do you want to harvest all the crops?<yesno><break>"
-  },
-  "152": {
-    "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての作物を　収穫しますか？|<yesno><break>": "Now that we've sowed the Megumi no Shiro,|we'll be able to harvest more... Do you want|to harvest all the crops?<yesno><break>"
-  },
-  "153": {
-    "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
-  },
-  "154": {
-    "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
-  },
-  "155": {
-    "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
-  },
-  "156": {
-    "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
-  }
+    "1": {
+        "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
+    },
+    "2": {
+        "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
+    },
+    "3": {
+        "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
+    },
+    "4": {
+        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
+    },
+    "5": {
+        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
+    },
+    "6": {
+        "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
+    },
+    "7": {
+        "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
+    },
+    "8": {
+        "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
+    },
+    "9": {
+        "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
+    },
+    "10": {
+        "実行できませんでした。|<end>": "Unable to execute...<end>"
+    },
+    "11": {
+        "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
+    },
+    "12": {
+        "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
+    },
+    "13": {
+        "花は　枯れてしまった……。|<end>": "The flowers have died...<end>"
+    },
+    "14": {
+        "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> has a beautiful flower!<end>"
+    },
+    "15": {
+        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
+    },
+    "16": {
+        "<%sL_ITEM>は|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has a beautiful flower!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "17": {
+        "花は　枯れてしまった……。|枯れてしまった花は　『やりなおす』から|摘むことができます。|<end>": "Flowers that have withered... Flowers that|have withered can be plucked from the|\"redo\"...<end>"
+    },
+    "18": {
+        "<%sL_ITEM>を　摘みました！|<end>": "I just picked <%sL_ITEM>!<end>"
+    },
+    "19": {
+        "枯れた花を　摘みました！|<end>": "I picked the dead flowers!<end>"
+    },
+    "20": {
+        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "21": {
+        "すべての花を　抜きました！|<end>": "I pulled out all the flowers!<end>"
+    },
+    "22": {
+        "畑の　すべての花を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want me to pull all the flowers from|the field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
+    },
+    "23": {
+        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
+    },
+    "24": {
+        "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
+    },
+    "25": {
+        "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "If you select \"Redo\", you can remove all the|plants in the field and start over... Once|you select \"Redo\", you can't put back what|<br>|you've removed... Please judge carefully...<bw_break>"
+    },
+    "26": {
+        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
+    },
+    "27": {
+        "めずらしい色の花|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It turned into a flower of an unusual color,|<%sL_ITEM>! Do you want to water it?<yesno><break>"
+    },
+    "28": {
+        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
+    },
+    "29": {
+        "畑には　何も植えられていない。|<end>": "There's nothing currently planted here.|<end>"
+    },
+    "30": {
+        "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
+    },
+    "31": {
+        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
+    },
+    "32": {
+        "タネを　もっていません。|<end>": "I have seeds...<end>"
+    },
+    "33": {
+        "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
+    },
+    "34": {
+        "収穫できませんでした。|<end>": "We can't harvest it...<end>"
+    },
+    "35": {
+        "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
+    },
+    "36": {
+        "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
+    },
+    "37": {
+        "すべての花を摘まないと|タネは　まけません。|<end>": "If we don't pick all the flowers, we can't|plant the seeds.<end>"
+    },
+    "38": {
+        "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
+    },
+    "39": {
+        "畑には　何も植えられていません。|<end>": "There's nothing currently planted here.|<end>"
+    },
+    "40": {
+        "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
+    },
+    "41": {
+        "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "I can't pick flowers because my tool bag is|full.<end>"
+    },
+    "42": {
+        "花は　もう摘まれています。|<end>": "The flowers have already been picked...<end>"
+    },
+    "43": {
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
+    },
+    "44": {
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "45": {
+        "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!|<end>"
+    },
+    "46": {
+        "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!<color_yellow>Use \"Harvest All\" to collect them.<color_white>|<end>"
+    },
+    "47": {
+        "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|水をやりますか？|<yesno><break>": "Two flowers of an unusual color, <%sL_ITEM>,|blooming... Do you want to water them?<yesno><break>"
+    },
+    "48": {
+        "ふたつの花が　咲きました。|水をやりますか？|<yesno><break>": "Two flowers blooming... Do you want me to|water them?<yesno><break>"
+    },
+    "49": {
+        "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
+    },
+    "50": {
+        "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
+    },
+    "51": {
+        "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
+    },
+    "52": {
+        "<%sL_ITEM>を　収穫しました！|<end>": "<%sL_ITEM> has been harvested!<end>"
+    },
+    "53": {
+        "枯れた作物を　摘みました！|<end>": "I picked the dead crop!<end>"
+    },
+    "54": {
+        "すべての作物を　抜きました！|<end>": "All the crops have been pulled!<end>"
+    },
+    "55": {
+        "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
+    },
+    "56": {
+        "作物は　もう収穫されています。|<end>": "The crops have already been harvested...<end>"
+    },
+    "57": {
+        "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
+    },
+    "58": {
+        "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
+    },
+    "59": {
+        "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
+    },
+    "60": {
+        "収穫できませんでした。|<end>": "We can't harvest it...<end>"
+    },
+    "61": {
+        "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
+    },
+    "62": {
+        "実行できませんでした。|<end>": "Unable to execute...<end>"
+    },
+    "63": {
+        "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
+    },
+    "64": {
+        "すべての作物を収穫しないと|タネは　まけません。|<end>": "We have to harvest all the crops before we|can plant the seeds.<end>"
+    },
+    "65": {
+        "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
+    },
+    "66": {
+        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
+    },
+    "67": {
+        "タネを　もっていません。|<end>": "I have seeds...<end>"
+    },
+    "68": {
+        "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
+    },
+    "69": {
+        "畑には　何も植えられていません。|<end>": "There's nothing currently planted here.|<end>"
+    },
+    "70": {
+        "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
+    },
+    "71": {
+        "どうぐかばんが　いっぱいのため|作物を収穫できません。|<end>": "I can't harvest any crops because my tool bag|is full...<end>"
+    },
+    "72": {
+        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
+    },
+    "73": {
+        "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
+    },
+    "74": {
+        "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It's turned into a rare crop <%sL_ITEM>! Do|you want to water it?<yesno><break>"
+    },
+    "75": {
+        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>... Do you want|to water them?<yesno><break>"
+    },
+    "76": {
+        "ふたつの作物が　できました。|水をやりますか？|<yesno><break>": "We have two crops... Do you want to water it?<yesno><break>"
+    },
+    "77": {
+        "<%sL_ITEM>は|元気な実を　実らせている！|<end>": "<%sL_ITEM> is bearing healthy fruit!<end>"
+    },
+    "78": {
+        "<%sL_ITEM>は|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is bearing healthy fruit!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "79": {
+        "めずらしい作物　|<%sL_ITEM>が|できている！|<end>": "An unusual crop <%sL_ITEM> has been created!<end>"
+    },
+    "80": {
+        "めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A rare crop of <%sL_ITEM> is growing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "81": {
+        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が|実っている！|<end>": "What two rare crops <%sL_ITEM> are bearing!<end>"
+    },
+    "82": {
+        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What two rare crops <%sL_ITEM> are bearing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "83": {
+        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<end>"
+    },
+    "84": {
+        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "85": {
+        "畑には　何も植えられていない。|<end>": "There's nothing currently planted here.|<end>"
+    },
+    "86": {
+        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
+    },
+    "87": {
+        "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
+    },
+    "88": {
+        "作物は　枯れてしまった……。|<end>": "The crops are dying...<end>"
+    },
+    "89": {
+        "作物は　枯れてしまった……。|枯れてしまった作物は　『やりなおす』から|摘むことができます。|<end>": "Crops that have withered... Crops that have|withered can be picked from the \"redo\"...<end>"
+    },
+    "90": {
+        "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
+    },
+    "91": {
+        "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
+    },
+    "92": {
+        "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "If you select \"Redo\", you can remove all the|plants in the field and start over... Once|you select \"Redo\", you can't put back what|<br>|you've removed... Please judge carefully...<bw_break>"
+    },
+    "93": {
+        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
+    },
+    "94": {
+        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
+    },
+    "95": {
+        "畑の　すべての作物を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want to pull all the crops out of the|field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
+    },
+    "96": {
+        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
+    },
+    "97": {
+        "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
+    },
+    "98": {
+        "予備テキスト": "preliminary text"
+    },
+    "99": {
+        "予備テキスト": "preliminary text"
+    },
+    "100": {
+        "予備テキスト": "preliminary text"
+    },
+    "101": {
+        "予備テキスト": "preliminary text"
+    },
+    "102": {
+        "予備テキスト": "preliminary text"
+    },
+    "103": {
+        "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
+    },
+    "104": {
+        "予備テキスト": "preliminary text"
+    },
+    "105": {
+        "予備テキスト": "preliminary text"
+    },
+    "106": {
+        "予備テキスト": "preliminary text"
+    },
+    "107": {
+        "予備テキスト": "preliminary text"
+    },
+    "108": {
+        "予備テキスト": "preliminary text"
+    },
+    "109": {
+        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
+    },
+    "110": {
+        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "111": {
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
+    },
+    "112": {
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "113": {
+        "なんと　めずらしい作物|巨大なびっくりトマトが　実っている！": "What a rare crop, a giant surprise tomato!"
+    },
+    "114": {
+        "なんと　めずらしい作物|巨大なびっくりトマトが　実っている！|<br>|巨大なびっくりトマトからは　|びっくりトマトが　ふたつ　収穫できるようだ。|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What a rare crop, a giant surprise tomato! A|giant surprise tomato yields two surprise|tomatoes...<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "115": {
+        "なんと　めずらしい作物|巨大なびっくりトマトが　ふたつ実っている！": "What a rare crop, two giant surprise|tomatoes!"
+    },
+    "116": {
+        "なんと　めずらしい作物|巨大なびっくりトマトが　ふたつ実っている！|<br>|巨大なびっくりトマトからは　|びっくりトマトが　ふたつ　収穫できるようだ。|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What a rare crop, two giant surprise|tomatoes! From the giant surprise tomato, we|can harvest two surprise tomatoes...<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+    },
+    "117": {
+        "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<end>"
+    },
+    "118": {
+        "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<end>"
+    },
+    "119": {
+        "すべての花を　摘みますか？|<yesno><break>": "Do you want to pick all the flowers?<yesno><break>"
+    },
+    "120": {
+        "すべての作物を　収穫しますか？|<yesno><break>": "Do you want to harvest all the crops?<yesno><break>"
+    },
+    "121": {
+        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
+    },
+    "122": {
+        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
+    },
+    "123": {
+        "しおれている作物が　あるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
+    },
+    "124": {
+        "しおれている作物があるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
+    },
+    "125": {
+        "すべての花を　摘みますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています。|<color_yellow>|<yesno><break>": "Do you want to pick all the flowers?<color_yellow>The flower fairies have come to this field,|doubling the yield...<color_yellow>|<yesno><break>"
+    },
+    "126": {
+        "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+    },
+    "127": {
+        "すべての作物を　収穫しますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています！|<color_yellow>|<yesno><break>": "Do you want to harvest all the crops?<color_yellow>The flower fairies have come to this field,|doubling our harvest!<color_yellow>|<yesno><break>"
+    },
+    "128": {
+        "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+    },
+    "129": {
+        "<%sL_ITEM>を　摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I just picked <%sL_ITEM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+    },
+    "130": {
+        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "131": {
+        "めずらしい色の花|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It turned into a flower <%sL_ITEM> of an|unusual color!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "132": {
+        "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two unusual colored flowers <%sL_ITEM>|bloom...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "133": {
+        "ふたつの花が　咲きました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水をやりますか？|<yesno><break>": "Two flowers blooming...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "134": {
+        "まだ芽が出ていないようだ。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "No buds yet...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "135": {
+        "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's wilting...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "136": {
+        "<%sL_ITEM>を　収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "<%sL_ITEM> has been harvested!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+    },
+    "137": {
+        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "138": {
+        "めずらしい作物|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It's changed to the rare crop <%sL_ITEM>!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "139": {
+        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "140": {
+        "ふたつの作物が　できました。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水をやりますか？|<yesno><break>": "We have two crops...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
+    },
+    "141": {
+        "まだ芽が出ていないようだ。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "No buds yet...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "142": {
+        "しおれている……。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's wilting...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+    },
+    "143": {
+        "水がもう　あげられない状態まで|育っています。": ""
+    },
+    "144": {
+        "現在　肥料をあげることができません。": "Now I can fertilize it..."
+    },
+    "145": {
+        "水がもう　あげられない状態まで|育っています。": ""
+    },
+    "146": {
+        "現在　肥料をあげることができません。": "Now I can fertilize it..."
+    },
+    "147": {
+        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
+    },
+    "148": {
+        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
+    },
+    "149": {
+        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての花を　摘みますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, we'll be able to harvest a little|more...<color_yellow>Plus, the flower fairies are here in this|field, so we've doubled our harvest!<color_yellow>|<color_white>Do you want to pick all the flowers?<yesno><break>"
+    },
+    "150": {
+        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, the yield will increase... Do you|want to pick all the flowers?<yesno><break>"
+    },
+    "151": {
+        "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての作物を　収穫しますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, the harvest has increased a bit...<color_yellow>Plus, the flower fairies are here in this|field, so we've doubled our harvest!<color_yellow>|<color_white>Do you want to harvest all the crops?<yesno><break>"
+    },
+    "152": {
+        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての作物を　収穫しますか？|<yesno><break>": "Now that we've sowed the Megumi no Shiro,|we'll be able to harvest more... Do you want|to harvest all the crops?<yesno><break>"
+    },
+    "153": {
+        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
+    },
+    "154": {
+        "ただいま　肥料をあげることができません。|もうすこし待って　お試しください。": "I can't fertilize it right now... Please wait|a little longer and try..."
+    },
+    "155": {
+        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
+    },
+    "156": {
+        "<pipipi_off><pc>は|らくらくジョウロ（だいじなもの）を|手に入れた！|<me 60>|<bw_break>": ""
+    }
 }
