@@ -354,7 +354,7 @@
         "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<end>"
     },
     "119": {
-        "すべての花を　摘みますか？|<yesno><break>": "Do you want to pick all the flowers?<yesno><break>"
+        "すべての花を　摘みますか？|<yesno><break>": "Harvest all of the flowers?<yesno><break>"
     },
     "120": {
         "すべての作物を　収穫しますか？|<yesno><break>": "Do you want to harvest all the crops?<yesno><break>"
@@ -438,16 +438,16 @@
         "現在　肥料をあげることができません。": "Now I can fertilize it..."
     },
     "147": {
-        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
+        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "Sprout Drops were sprinkled on the soil, so|the harvest has increased!"
     },
     "148": {
-        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "There was a lot of Megumi no sizuku (water|drops), so we got a bigger harvest!"
+        "めぐみのしずくが　まかれていたので|収穫量が　増えました！": "Sprout Drops were sprinkled on the soil, so|the harvest has increased!"
     },
     "149": {
         "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops will increase the|harvest by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>Harvest all of the flowers?|<yesno><break>"
     },
     "150": {
-        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Now that the Megumi no Shizuku has been|planted, the yield will increase... Do you|want to pick all the flowers?<yesno><break>"
+        "めぐみのしずくが　まかれたので|収穫量が　増えています。|すべての花を　摘みますか？|<yesno><break>": "Using the Sprout Drops will increase the|overall yield. Pick all of the flowers?|<yesno><break>"
     },
     "151": {
         "めぐみのしずくが　まかれたので|収穫量が　少し増えています。|<br>|<color_yellow>|さらに　お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<color_white>|すべての作物を　収穫しますか？|<yesno><break>": "Using the Sprout Drops will increase the|harvest by a little bit.|<br>|<color_yellow>|Since the flower fairies are here, the harvest|will also be doubled!|<color_yellow>|<color_white>Harvest all of the produce?|<yesno><break>"
