@@ -39,28 +39,28 @@
         "花は　枯れてしまった……。|<end>": "The flowers have withered away...|<end>"
     },
     "14": {
-        "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is growing a|beautiful flower!|<end>"
+        "<%sL_ITEM>は|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is blooming|with a beautiful flower!|<end>"
     },
     "15": {
-        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
+        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It seems it hasn't sprouted yet.|Water the field?|<yesno><break>"
     },
     "16": {
-        "<%sL_ITEM>は|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has a beautiful flower!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "<%sL_ITEM>は|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming with|a beautiful flower!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "17": {
-        "花は　枯れてしまった……。|枯れてしまった花は　『やりなおす』から|摘むことができます。|<end>": "Flowers that have withered... Flowers that|have withered can be plucked from the|\"redo\"...<end>"
+        "花は　枯れてしまった……。|枯れてしまった花は　『やりなおす』から|摘むことができます。|<end>": "The flowers have withered away...|Use \"Replant\" to replace the withered flowers.|<end>"
     },
     "18": {
-        "<%sL_ITEM>を　摘みました！|<end>": "I just picked <%sL_ITEM>!<end>"
+        "<%sL_ITEM>を　摘みました！|<end>": "<%sL_ITEM> was picked!|<end>"
     },
     "19": {
-        "枯れた花を　摘みました！|<end>": "I picked the dead flowers!<end>"
+        "枯れた花を　摘みました！|<end>": "Picked the withered flowers!<end>"
     },
     "20": {
-        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|a flower of a rare color!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "21": {
-        "すべての花を　抜きました！|<end>": "I pulled out all the flowers!<end>"
+        "すべての花を　抜きました！|<end>": "All of the flowers were picked!|<end>"
     },
     "22": {
         "畑の　すべての花を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want me to pull all the flowers from|the field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
@@ -135,7 +135,7 @@
         "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!|<end>"
     },
     "46": {
-        "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!<color_yellow>Use \"Harvest All\" to collect them.<color_white>|<end>"
+        "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "47": {
         "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|水をやりますか？|<yesno><break>": "Two flowers of an unusual color, <%sL_ITEM>,|blooming... Do you want to water them?<yesno><break>"
