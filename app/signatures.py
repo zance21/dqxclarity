@@ -35,26 +35,20 @@ story_so_far_trigger = rb'\x8B\x45\x10\xC6\x44'
 
 # function that is triggered when a quest window opens. used for translating quest text
 # 8B 34 24 8D 64 24 04 8D 64 24 04 E9 ?? ?? ?? ?? 8D 64 24 FC 89 4C
-# quest_text_trigger = rb'\x8B\x34\x24\x8D\x64\x24\x04\x8D\x64\x24\x04\xE9....\x8D\x64\x24\xFC\x89\x4C' // this works, but breaks because of AC in combat
 quest_text_trigger = rb'\x8D\x8E\x78\x04\x00\x00\xE8....\x5F'
 
-# function that is triggered when walkthrough text is displayed on the screen.
+# function that is triggered when walkthrough text is displayed on the screen.  // this works, but breaks because of AC in combat
 # read what's at esi here to get the address where the text is. overwrite to have it on the screen
 # BF 01 00 00 00 E9 ?? ?? ?? ?? 8D 64 24 FC 8D
 walkthrough_text = rb'\xBF\x01\x00\x00\x00\xE9....\x8D\x64\x24\xFC\x8D'
 
-# function triggered when an EVTX file is loaded into memory
+# function triggered when an EVTX file is loaded into memory  // not yet implemented
 # 81 3E 45 56 54 58 74 47 8B 45 08 51 8B CC 89 01 FF 77 04 8B 47 14 51 8B CC 68
 evtx_load = rb'\x81\x3E\x45\x56\x54\x58\x74\x47\x8B\x45\x08\x51\x8B\xCC\x89\x01\xFF\x77\x04\x8B\x47\x14\x51\x8B\xCC\x68'
 
 # function that is triggered when a cutscene is about to occur.
 # 89 81 44 04 00 00 8B
 cutscene_start = rb'\x89\x81\x44\x04\x00\x00\x8B'
-
-# function where npc / player / monster names are passed through
-# 8D 64 24 04 8B 6C 24 FC 8D 64 24 08 FF 64 24 F8 68 ?? ?? ?? ?? 68 ?? ?? ?? ?? 8D 64 24 04 FF 64 24 FC 89 6C 24 FC
-# could use this someday to translate on the fly if AC ever gets figured out (instead of scanning)
-npc_name_trigger = rb'\x8D\x64\x24\x04\x8B\x6C\x24\xFC\x8D\x64\x24\x08\xFF\x64\x24\xF8\x68....\x68....\x8D\x64\x24\x04\xFF\x64\x24\xFC\x89\x6C\x24\xFC'
 
 #############################################
 # DQX functions / addresses that will likely
@@ -67,10 +61,10 @@ walkthrough_pattern = rb'\xA0...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00
 
 # Byte at this address changes for loading screens only. Not able to determine if you're in a cutscene.
 # You can figure out how to get *back* to this dynamic address by BP'ing at this AOB: 
-#      88 08 E9 ?? ?? ?? ?? E9 ?? ?? ?? ?? 68 ?? ?? ?? ?? C3 CC E9 ?? ?? ?? ?? 8D 8F F8 03 00 00 E9 ?? ?? ?? ?? CC
+#      C7 81 04 01 00 00 00 00 00 00
 # Read what's in [eax] and do a pointer scan against that address to get these values.
-loading_pointer = 0x01EEE4F4
-loading_offsets = [0x34, 0x158, 0x24, 0x68, 0x52C]
+loading_pointer = 0x01EEAA58
+loading_offsets = [0x8, 0x38, 0x4, 0x4, 0x4, 0x104]
 
 # The pattern shouldn't have to be adjusted, but the number of addresses to go backwards
 # to see if a cutscene is active will probably need to change.
@@ -79,17 +73,15 @@ loading_offsets = [0x34, 0x158, 0x24, 0x68, 0x52C]
 cutscene_pattern = rb'\x6F\x72\x69\x67\x69\x6E\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x6E\x61\x6D\x65'
 
 # pattern for npc/monsters to rename.
-# Every byte marked below will change. The rest stay the same.
-# monster: 8C 75 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
-# npc:     90 87 ?? ?? ?? ?? ?? ?? C8 75 ?? ?? E?
-npc_monster_byte_pattern = rb'[\x9C\x34][\x82\x94]......\x04\x9B..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+# monster: 10 82 ?? ?? ?? ?? ?? ?? 90 7B ?? ?? E?
+# npc:     04 94 ?? ?? ?? ?? ?? ?? 90 7B ?? ?? E?
+npc_monster_byte_pattern = rb'[\x10\x04][\x82\x94]......\x90\x7B..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 #                                ^ monster ^
 #                                    ^   npc   ^
 
 # pattern for player names to rename.
 # 00 00 00 00 00 48 ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
-player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x58..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-#                                                   ^  only this byte changes
+player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x08..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
 ########################################
 # DQX patterns of interest
