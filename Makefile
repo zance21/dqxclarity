@@ -13,6 +13,10 @@ build:
 	-rmdir /s /q .\build\dqxclarity\hook_mgmt\__pycache__
 	-rmdir /s /q .\build\dqxclarity\pymem\__pycache__
 	-rmdir /s /q .\build\dqxclarity\pymem\ressources\__pycache__
+	-rmdir /s /q .\app\bms\json
+	-rmdir /s /q .\app\bms\hyde_json_merge\src
+	-rmdir /s /q .\app\bms\hyde_json_merge\dst
+	-rmdir /s /q .\app\bms\hyde_json_merge\out
 	-del /F .\build\dqxclarity\out.log
 	-del /F .\build\dqxclarity\game_text.log
 	-rd /s/q .\build\dqxclarity\new_adhoc_dumps
@@ -20,6 +24,8 @@ build:
 	-rmdir /s /q .\build\dqxclarity\game_file_dumps
 	"C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /bin "C:\Program Files\AutoHotkey\Compiler\ANSI 32-bit.bin" /in ".\build\dqxclarity\clarity.ahk" /icon "imgs/dqxclarity.ico"
 	-del /F ".\build\dqxclarity\clarity.ahk"
+	-del /F ".\build\dqxclarity\DQXBypass.dll"
+	-del /F ".\build\dqxclarity\filelookup.py"
 
 release:
 	make clean
