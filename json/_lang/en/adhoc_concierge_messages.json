@@ -96,7 +96,7 @@
         "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
     },
     "33": {
-        "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "I'm not sure what to make of this. For the|10-round lucky draw, you'll need 10 of|those...|<select_se_off>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "34": {
         "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -189,13 +189,13 @@
         "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "Are you sure you want to use|<%sL_KOUKAN_ITEM>?<yesno><break>"
     },
     "64": {
-        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the lucky|draw?|<select_se_off>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "65": {
         "「では　他の賞品を　お選びください。|<break>": "Now, on to the other prizes...<break>"
     },
     "66": {
-        "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "I'm not sure what to make of this. For the|10-round lucky draw, you'll need 10 of|those...|<select_se_off 3>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "67": {
         "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
