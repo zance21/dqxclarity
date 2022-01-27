@@ -159,55 +159,55 @@
         "枯れた作物を　摘みました！|<end>": "The dead crops were harvested!|<end>"
     },
     "54": {
-        "すべての作物を　抜きました！|<end>": "All the crops have been pulled!<end>"
+        "すべての作物を　抜きました！|<end>": "Harvested all of the crops!|<end>"
     },
     "55": {
         "<%sL_ITEM>を　まきました！|<end>": "<%sL_ITEM> has been sown!<end>"
     },
     "56": {
-        "作物は　もう収穫されています。|<end>": "The crops have already been harvested...<end>"
+        "作物は　もう収穫されています。|<end>": "The crops have already been harvested.|<end>"
     },
     "57": {
-        "すでにタネは　まかれています。|<end>": "The seeds have already been planted...<end>"
+        "すでにタネは　まかれています。|<end>": "Seeds have already been planted.|<end>"
     },
     "58": {
-        "今日の分の肥料は　もう使っています。|<end>": "We've already used today's fertilizer...<end>"
+        "今日の分の肥料は　もう使っています。|<end>": "Fertilizer has already been used today.|<end>"
     },
     "59": {
-        "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
+        "肥料に使えるアイテムを　持っていません。|<end>": "You don't have any items that can be used as|fertilizer.<end>"
     },
     "60": {
-        "収穫できませんでした。|<end>": "We can't harvest it...<end>"
+        "収穫できませんでした。|<end>": "Couldn't harvest the field.|<end>"
     },
     "61": {
-        "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
+        "それは　肥料としては　使えません。|<end>": "You can't use that as fertilizer.<end>"
     },
     "62": {
-        "実行できませんでした。|<end>": "Unable to execute...<end>"
+        "実行できませんでした。|<end>": "Couldn't be executed.|<end>"
     },
     "63": {
-        "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
+        "しかし　今は　できなかった！|<end>": "But you can't right now!|<end>"
     },
     "64": {
-        "すべての作物を収穫しないと|タネは　まけません。|<end>": "We have to harvest all the crops before we|can plant the seeds.<end>"
+        "すべての作物を収穫しないと|タネは　まけません。|<end>": "You can't plant any seeds until all of the|crops have been harvested.|<end>"
     },
     "65": {
-        "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
+        "畑がないため　タネをまくことができません。|<end>": "You can't sow seeds without a field.|<end>"
     },
     "66": {
-        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
+        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "You don't have any fertilizer. Either \"Cowpat\"|or \"Horse Manure\" can be used to fertilize.|<end>"
     },
     "67": {
-        "タネを　もっていません。|<end>": "I have seeds...<end>"
+        "タネを　もっていません。|<end>": "You don't have any seeds.|<end>"
     },
     "68": {
-        "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
+        "この畑を　お世話してくれた人は　いません。|<end>": "No one has cared for this field yet.|<end>"
     },
     "69": {
         "畑には　何も植えられていません。|<end>": "There's nothing currently planted here.|<end>"
     },
     "70": {
-        "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
+        "家のオーナーしか　タネをまくことはできません。|<end>": "Only this house's owner can sow seeds.|<end>"
     },
     "71": {
         "どうぐかばんが　いっぱいのため|作物を収穫できません。|<end>": "I can't harvest any crops because my tool bag|is full...<end>"
