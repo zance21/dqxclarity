@@ -120,7 +120,7 @@
         "家のオーナーしか　タネをまくことはできません。|<end>": "Only this house's owner can sow seeds.|<end>"
     },
     "41": {
-        "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "You can't pick the flowers because your Item|Bag is full.|<end>"
+        "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "You can't pick the flowers because your item|bag is full.|<end>"
     },
     "42": {
         "花は　もう摘まれています。|<end>": "The flowers have already been picked.<end>"
@@ -210,13 +210,13 @@
         "家のオーナーしか　タネをまくことはできません。|<end>": "Only this house's owner can sow seeds.|<end>"
     },
     "71": {
-        "どうぐかばんが　いっぱいのため|作物を収穫できません。|<end>": "I can't harvest any crops because my tool bag|is full...<end>"
+        "どうぐかばんが　いっぱいのため|作物を収穫できません。|<end>": "You can't harvest the crops because your item|bag is full.|<end>"
     },
     "72": {
-        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "The use of fertilizer in the field can|increase the yield of flowers and crops...|Cow manure and horse manure are used to|<br>|fertilize the fields. You can only use one|fertilizer per day... You can use the|fertilizer on your own farm, or you can use|<br>|it on other people's farms...<bw_break>"
+        "畑に　肥料を使うことで|花や作物の収穫量を　増やすことができます。|<br>|畑の肥料には|「うしのふん」か「うまのふん」が　使えます。|使える肥料は　ひとり１日１個までです。|<br>|肥料は　自分の家の畑には　もちろん|人の畑に　使ってあげることもできます。|<bw_break>": "Using fertilizer on a field can increase the|yield of flowers and crops.|<br>|\"Cowpat\" and \"Horse Manure\" can be used to|fertilize a field. You can only fertilize|once per day.|<br>|You can fertilize your own field and other|people's fields, too."
     },
     "73": {
-        "順調に育っています。|水を　やりますか？|<yesno><break>": "It's growing well... Do you want me to water|it?<yesno><break>"
+        "順調に育っています。|水を　やりますか？|<yesno><break>": "They're growing nicely.|Water the field?|<yesno><break>"
     },
     "74": {
         "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It's turned into a rare crop <%sL_ITEM>! Do|you want to water it?<yesno><break>"
