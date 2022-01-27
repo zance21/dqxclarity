@@ -5481,28 +5481,28 @@
         "「<%sL_ITEM>ですねっ！こちらは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうかー？|<break>": "<%sL_ITEM>! When you use this,|your EXP and gold will be doubled for 30|minutes during \"Bonus Time\".|<br>|You currently have <%dL_CTIME> hours of Charge Time.|I can give you up to <%dL_MAXNUM> of those. How many|do you want?|<break>"
     },
     "1828": {
-        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　渡すぜ。|　それでいいかい？|<yesno><break>": "Energize <%nL_UTIME> time to <%sL_ITEM>|<%nL_GENKINUM><%sM_TANI> ... Is that enough?<yesno><break>"
+        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　渡すぜ。|　それでいいかい？|<yesno><break>": "You'd like to use <%dL_UTIME> of your Charge Hours|for <%dL_GENKINUM> <%sL_ITEM>?|<yesno><break>"
     },
     "1829": {
-        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡ししますわ。|　それでよろしいですか？|<yesno><break>": "We'll use the energy charge <%nL_UTIME> time|to give you <%sL_ITEM>|<%nL_GENKINUM><%sM_TANI>... Are you sure you|<br>|want to do that?<yesno><break>"
+        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡ししますわ。|　それでよろしいですか？|<yesno><break>": "You'd like to use <%dL_UTIME> of your Charge Hours|for <%dL_GENKINUM> <%sL_ITEM>?|<yesno><break>"
     },
     "1830": {
-        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　渡す。|　それでいいか？|<yesno><break>": "Spirited charge <%nL_UTIME> time to|<%sL_ITEM> <%nL_GENKINUM><%sM_TANI>... Is|that enough?<yesno><break>"
+        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　渡す。|　それでいいか？|<yesno><break>": "You'd like to use <%dL_UTIME> of your Charge Hours|for <%dL_GENKINUM> <%sL_ITEM>?|<yesno><break>"
     },
     "1831": {
-        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします！|　それでよろしいですか？|<yesno><break>": "I'll give you <%sL_ITEM> with|<%nL_GENKINUM><%sM_TANI> time to recharge|your energy <%nL_UTIME>! Are you sure about|<br>|that?<yesno><break>"
+        "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　お渡しします！|　それでよろしいですか？|<yesno><break>": "You'd like to use <%dL_UTIME> of your Charge Hours|for <%dL_GENKINUM> <%sL_ITEM>?|<yesno><break>"
     },
     "1832": {
-        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc>  got <%sL_ITEM> for <%dL_GENKINUM><%sM_TANI>!|<se_nots System 7>|<end>"
+        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_GENKINUM> <%sL_ITEM>!<se_nots System 7>|<end>"
     },
     "1833": {
-        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc>  got <%sL_ITEM> for <%dL_GENKINUM><%sM_TANI>!|<se_nots System 7>|<end>"
+        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_GENKINUM> <%sL_ITEM>!<se_nots System 7>|<end>"
     },
     "1834": {
-        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc>  got <%sL_ITEM> for <%dL_GENKINUM><%sM_TANI>!|<se_nots System 7>|<end>"
+        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_GENKINUM> <%sL_ITEM>!<se_nots System 7>|<end>"
     },
     "1835": {
-        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc>  got <%sL_ITEM> for <%dL_GENKINUM><%sM_TANI>!|<se_nots System 7>|<end>"
+        "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_GENKINUM> <%sL_ITEM>!<se_nots System 7>|<end>"
     },
     "1836": {
         "「現在の元気チャージは　<%nL_CTIME>時間だ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だぜ。|<bw_break>": "Current energy charge is <%nL_CTIME>... To|exchange <%sL_ITEM>, you need to have at|least <%nL_RATE> hours of energy charge...<bw_break>"
