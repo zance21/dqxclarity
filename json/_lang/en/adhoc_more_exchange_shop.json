@@ -315,7 +315,7 @@
         "「オレの名は　ジョーンズ。|　ニンゲン……黄金のアクセサリー　持ってるカ？|　オレ　交換してやるゾ……。|<break>": "My name is Jo... Ningen... Do you have the|golden trinket? I'll trade you...<break>"
     },
     "106": {
-        "「他に　用事　あるカ？|<break>": ""
+        "「他に　用事　あるカ？|<break>": "Is there anything else?|<break>"
     },
     "107": {
         "「アイテム交換するNPCです。|　よろしくです。|<bw_break>": "NP to exchange items... Good...<bw_break>"
@@ -2130,7 +2130,7 @@
         "「用件を　言ってみな。|<break>": "Tell me what you want...<break>"
     },
     "711": {
-        "「他に　用件は　あるか？|<break>": ""
+        "「他に　用件は　あるか？|<break>": "Is there anything else I can do?|<break>"
     },
     "712": {
         "「アイテム交換するNPCです。|　よろしくです。レグナード|<bw_break>": "NP to exchange items... Good... Regnard.<bw_break>"
