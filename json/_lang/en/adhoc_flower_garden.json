@@ -78,34 +78,34 @@
         "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in your field, you can grow|a variety of flowers and crops.|<br>|Sowing one seed sows it for the entire field,|and you get a total of eight sprouts.|<br>|The number of times fertilizer is used and the|number of people who water can affect the type|and yield of flowers and crops.|<bw_break>"
     },
     "27": {
-        "めずらしい色の花|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It turned into a flower of an unusual color,|<%sL_ITEM>! Do you want to water it?<yesno><break>"
+        "めずらしい色の花|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "<%sL_ITEM> changed into a|rare colored flower! Water the field?|<yesno><break>"
     },
     "28": {
-        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
+        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "<%sL_ITEM> is blooming a|rare colored flower!|<end>"
     },
     "29": {
         "畑には　何も植えられていない。|<end>": "There's nothing currently planted here.|<end>"
     },
     "30": {
-        "この畑を　お世話してくれた人は　いません。|<end>": "Whoever took care of this field...<end>"
+        "この畑を　お世話してくれた人は　いません。|<end>": "No one has cared for this field yet.|<end>"
     },
     "31": {
-        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "I have fertilizer. It's either cow manure or|horse manure...<end>"
+        "肥料を　持っていません。|肥料になるのは|「うしのふん」か　「うまのふん」です。|<end>": "You don't have any fertilizer. Either \"Cowpat\"|or \"Horse Manure\" can be used to fertilize.|<end>"
     },
     "32": {
-        "タネを　もっていません。|<end>": "I have seeds...<end>"
+        "タネを　もっていません。|<end>": "You don't have any seeds.|<end>"
     },
     "33": {
-        "肥料に使えるアイテムを　持っていません。|<end>": "I have a few items I can use for fertilizer.<end>"
+        "肥料に使えるアイテムを　持っていません。|<end>": "You don't have any items that can be used as|fertilizer.<end>"
     },
     "34": {
-        "収穫できませんでした。|<end>": "We can't harvest it...<end>"
+        "収穫できませんでした。|<end>": "Couldn't harvest the field.|<end>"
     },
     "35": {
-        "それは　肥料としては　使えません。|<end>": "It can be used as fertilizer...<end>"
+        "それは　肥料としては　使えません。|<end>": "You can't use that as fertilizer.<end>"
     },
     "36": {
-        "しかし　今は　できなかった！|<end>": "But now I couldn't!<end>"
+        "しかし　今は　できなかった！|<end>": "But you can't right now!|<end>"
     },
     "37": {
         "すべての花を摘まないと|タネは　まけません。|<end>": "If we don't pick all the flowers, we can't|plant the seeds.<end>"
