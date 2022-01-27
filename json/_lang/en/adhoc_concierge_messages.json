@@ -5529,43 +5529,43 @@
         "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying <%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1844": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|99 copies of <%sL_ITEM>... I'd like you to|use them, and then I'll get back to you.<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying 99 of <%sL_ITEM>.|Come again when you've used a few.|<bw_break>"
     },
     "1845": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|99 copies of <%sL_ITEM>... I'd like you to|use them, and then I'll get back to you.<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying 99 of <%sL_ITEM>.|Come again when you've used a few.|<bw_break>"
     },
     "1846": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|99 copies of <%sL_ITEM>... I'd like you to|use them, and then I'll get back to you.<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying 99 of <%sL_ITEM>.|Come again when you've used a few.|<bw_break>"
     },
     "1847": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|99 copies of <%sL_ITEM>... I'd like you to|use them, and then I'll get back to you.<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying 99 of <%sL_ITEM>.|Come again when you've used a few.|<bw_break>"
     },
     "1848": {
-        "「すまんが　つかうものが|　いっぱいで　持ちきれないようだぜ。|　整理してから　また　依頼してくれ。|<bw_break>": "I'm sorry, there's just too much stuff to|carry. I'll get it sorted out and get back to|you.<bw_break>"
+        "「すまんが　つかうものが|　いっぱいで　持ちきれないようだぜ。|　整理してから　また　依頼してくれ。|<bw_break>": "Sorry, but you're carrying too many items.|Please make some space and come back.|<bw_break>"
     },
     "1849": {
-        "「申し訳ありませんが　つかうものが|　いっぱいで　持ちきれないようですわ。|　整理してから　また　ご依頼ください。|<bw_break>": "I'm sorry, but there's just too much stuff|here for me to carry. I'd like you to take a|look around and see what you can find.<bw_break>"
+        "「申し訳ありませんが　つかうものが|　いっぱいで　持ちきれないようですわ。|　整理してから　また　ご依頼ください。|<bw_break>": "My apologies, but you're carrying too many|items. Please make some space and come back.|<bw_break>"
     },
     "1850": {
-        "「……つかうものが|　いっぱいで　持ちきれないようだ。|　整理してから　依頼しろ。|<bw_break>": "... I've got so much stuff I can't hold...|I'll sort it out and get back to you...<bw_break>"
+        "「……つかうものが|　いっぱいで　持ちきれないようだ。|　整理してから　依頼しろ。|<bw_break>": "...you're carrying too much stuff right now.|Make some space and come back.|<bw_break>"
     },
     "1851": {
-        "「申し訳ありませんが　つかうものが|　いっぱいで　持ちきれないようです。|　整理してから　また　ご依頼ください。|<bw_break>": "I'm sorry, there's just too much stuff to|carry. I'll get it sorted out and get back to|you.<bw_break>"
+        "「申し訳ありませんが　つかうものが|　いっぱいで　持ちきれないようです。|　整理してから　また　ご依頼ください。|<bw_break>": "My apologies, but you're carrying too many|items. Please make some space and come back.|<bw_break>"
     },
     "1852": {
-        "「<pc>は　<%nL_MEGURINOW>名と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっているな。|<bw_break>": "<pc> had a double crossing with a <%nL_MEGURINOW>|name and accumulated <%nL_MEGURIPOINT>|points...<bw_break>"
+        "「<pc>は　<%nL_MEGURINOW>名と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっているな。|<bw_break>": "Wowie zowie! You'll never see this!"
     },
     "1853": {
-        "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっておりますわ。|<bw_break>": "<pc> You've had a double pass with someone named|<%nL_MEGURINOW> and have accumulated|<%nL_MEGURIPOINT> points...<bw_break>"
+        "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっておりますわ。|<bw_break>": "wwwwwwwwwowwwwwwwwwwww dude "
     },
     "1854": {
-        "「<pc>は　<%nL_MEGURINOW>名と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっている。|<bw_break>": "<pc> has had a double crossing with a|<%nL_MEGURINOW> name and has accumulated|<%nL_MEGURIPOINT> points.<bw_break>"
+        "「<pc>は　<%nL_MEGURINOW>名と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっている。|<bw_break>": "double crossing? more like... double flossing"
     },
     "1855": {
-        "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっていますっ！|<bw_break>": "<pc> You've made a double pass with|<%nL_MEGURINOW> and you've accumulated|<%nL_MEGURIPOINT> points!<bw_break>"
+        "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっていますっ！|<bw_break>": "yeah, so uh... why?"
     },
     "1856": {
-        "「<pc>は　ダブルすれちがい報告は|　はじめてだな。簡単に　説明をするぜ。|<br>|「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ超便利ツール』を使って|　外の世界で　すれちがい通信をして……|<br>|「外の世界で　すれちがったやつと|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになるぜ！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　おれら　旅のコンシェルジュで|　ポイントに応じた　記念の品を交換できるぜ。|<br>|「『冒険者のおでかけ超便利ツール』の入手方法は|　目覚めし冒険者の広場を　確認してくれよな。|<br>|「じゃあ　さっそく……|<bw_break>": "<pc> This is the first time we've had a double|tracking report... A brief explanation...|Double StreetPass is a game where you use the|<br>|Nintendo 3DS \"Adventurer's Outing Tool\" to|communicate with other players in the outside|world. If you cross paths with the person you|<br>|crossed paths with in the outside world and|then cross paths with them again in this|world, you'll have achieved a Double Passing!|<br>|You'll earn points for each double pass, and|we at the Travel Concierge will exchange them|for a commemorative gift... To get your hands|<br>|on the Adventurer's Outing Tool, check out|the Awakened Adventurer's Square... Let's get|started.<bw_break>"
+        "「<pc>は　ダブルすれちがい報告は|　はじめてだな。簡単に　説明をするぜ。|<br>|「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ超便利ツール』を使って|　外の世界で　すれちがい通信をして……|<br>|「外の世界で　すれちがったやつと|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになるぜ！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　おれら　旅のコンシェルジュで|　ポイントに応じた　記念の品を交換できるぜ。|<br>|「『冒険者のおでかけ超便利ツール』の入手方法は|　目覚めし冒険者の広場を　確認してくれよな。|<br>|「じゃあ　さっそく……|<bw_break>": "You'll never ever double pass with anyone.|Because you have no friends."
     },
     "1857": {
         "「<pc>さまは　ダブルすれちがい報告は|　はじめてですね。それでは　簡単に|　ご説明を　させていただきますわ。|<br>|「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ超便利ツール』を使って|　外の世界で　すれちがい通信をしていただき……|<br>|「外の世界で　すれちがった方と|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになります！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　私ども　旅のコンシェルジュにて|　ポイントに応じた　記念の品を差し上げますわ。|<br>|「『冒険者のおでかけ超便利ツール』の入手方法は|　目覚めし冒険者の広場を　ご確認ください。|<br>|「それでは　さっそく……|<bw_break>": "<pc> This is your first double-passenger report...|I'll give you a brief explanation... Double|StreetPass is when you use the Nintendo 3DS|<br>|\"Adventurer's Outing Convenience Tool\" to|communicate with people you've met in the|outside world... If you and the person you|<br>|met in the outside world meet again in this|world, you'll have achieved a Double|StreetPass! You'll earn points for each|<br>|double crossing, and we at the Travel|Concierge will give you a commemorative gift|based on your points... For more information|<br>|on how to get your hands on the Adventurer's|Outing Tool, check out the Awakened|Adventurer's Square. And now...<bw_break>"
