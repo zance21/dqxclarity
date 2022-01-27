@@ -5505,19 +5505,19 @@
         "<pipipi_off><pc>は|<%sL_ITEM>を　<%dL_GENKINUM><%sM_TANI>　手に入れた！<se_nots System 7>|<end>": "<pipipi_off><pc> received <%dL_GENKINUM> <%sL_ITEM>!<se_nots System 7>|<end>"
     },
     "1836": {
-        "「現在の元気チャージは　<%nL_CTIME>時間だ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だぜ。|<bw_break>": "Current energy charge is <%nL_CTIME>... To|exchange <%sL_ITEM>, you need to have at|least <%nL_RATE> hours of energy charge...<bw_break>"
+        "「現在の元気チャージは　<%nL_CTIME>時間だ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だぜ。|<bw_break>": "You currently have <%dL_CTIME> Charge Hours. You'll|need at least <%dL_RATE> hours to exchange for the|<%sL_ITEM>.|<bw_break>"
     },
     "1837": {
-        "「現在の元気チャージは　<%nL_CTIME>時間ですわ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要ですわね。|<bw_break>": "The current energy charge is <%nL_CTIME>|hours... In order to replace <%sL_ITEM>, you|must have at least <%nL_RATE> hours of energy|<br>|charge...<bw_break>"
+        "「現在の元気チャージは　<%nL_CTIME>時間ですわ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要ですわね。|<bw_break>": "You currently have <%dL_CTIME> Charge Hours. You'll|need at least <%dL_RATE> hours to exchange for the|<%sL_ITEM>.|<bw_break>"
     },
     "1838": {
-        "「現在の元気チャージは　<%nL_CTIME>時間だ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だ。|<bw_break>": "Current Genki Charge is <%nL_CTIME>... To|exchange <%sL_ITEM>, you must have at least|<%nL_RATE> hours of charge...<bw_break>"
+        "「現在の元気チャージは　<%nL_CTIME>時間だ。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だ。|<bw_break>": "You currently have <%dL_CTIME> Charge Hours. You'll|need at least <%dL_RATE> hours to exchange for the|<%sL_ITEM>.|<bw_break>"
     },
     "1839": {
-        "「現在の元気チャージは　<%nL_CTIME>時間ですっ！|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要ですね。|<bw_break>": "Your current energy charge is <%nL_CTIME>|hours! To exchange <%sL_ITEM>, you need more|than <%nL_RATE> hours of energy charge...<bw_break>"
+        "「現在の元気チャージは　<%nL_CTIME>時間ですっ！|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要ですね。|<bw_break>": "You currently have <%dL_CTIME> Charge Hours! You'll|need at least <%dL_RATE> hours to exchange for the|<%sL_ITEM>.|<bw_break>"
     },
     "1840": {
-        "「すまんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているようだな。|　空きができたら　また　依頼してくれ。|<bw_break>": "Sorry, I already have <%sL_ITEM> in|<%nL_WHOLENUM><%sM_TANI>... I'll get back to|you when there's an opening...<bw_break>"
+        "「すまんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているようだな。|　空きができたら　また　依頼してくれ。|<bw_break>": "Sorry, but it seems you are already carrying|<%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1841": {
         "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですわね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|<%sL_ITEM> in your|<%nL_WHOLENUM><%sM_TANI>... I'd like you to|<br>|try it out and get back to me...<bw_break>"
