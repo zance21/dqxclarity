@@ -5520,10 +5520,10 @@
         "「すまんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているようだな。|　空きができたら　また　依頼してくれ。|<bw_break>": "Sorry, but it seems you are already carrying|<%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1841": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですわね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|<%sL_ITEM> in your|<%nL_WHOLENUM><%sM_TANI>... I'd like you to|<br>|try it out and get back to me...<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですわね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying <%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1842": {
-        "「……すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているような。|　空きができたら　依頼しろ。|<bw_break>": "... I already have <%sL_ITEM> in|<%nL_WHOLENUM><%sM_TANI>... I'll let you know|when it's available...<bw_break>"
+        "「……すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているような。|　空きができたら　依頼しろ。|<bw_break>": "...seems like you are already carrying|<%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1843": {
         "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but you already have <%sL_ITEM> in|<%nL_WHOLENUM><%sM_TANI>... I'd like you to|try it out and get back to me...<bw_break>"
