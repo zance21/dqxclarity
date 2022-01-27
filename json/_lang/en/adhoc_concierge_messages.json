@@ -1,12 +1,12 @@
 {
     "1": {
-        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
+        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "2": {
         "「お待たせいたしました！|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします！|<br>|「<pc>さまの　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てください！<bw_break>": "Sorry for the wait! We've got <%nL_WEEK>|weeks of support gold for you!<pc> Your current prestige level is|<%nL_SUPPORT_GOLD> gold... Please use it for|your adventures!<bw_break>"
     },
     "3": {
-        "「ご利用　ありがとうございました。|　充実した冒険ライフを　お過ごしください。|<end>": "Thank you for visiting... I hope you have a|wonderful adventure...<end>"
+        "「ご利用　ありがとうございました。|　充実した冒険ライフを　お過ごしください。|<end>": "Thank you for using our service. We hope you|have a wonderful adventure.|<end>"
     },
     "4": {
         "「おかえりなさいませ！|　世界宿屋協会提供　旅のコンシェルジュの|　サービスカウンターは　こちらです。<bw_break>": "Welcome back! Courtesy of the World|Association of Innkeepers, the service|counter of the Travel Concierge is here...<bw_break>"
@@ -354,7 +354,7 @@
         "「<%sM_OWNER><%sM_SAMA>に　ご案内させていただいた|　本日のガイドは　こちらになります。|<bw_break>": "<%sM_OWNER><%sM_SAMA> Here is your guide for|today...<bw_break>"
     },
     "119": {
-        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SA... Thank you for|visiting...<bw_break>"
+        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SAMA>,|thank you for always using our service.<bw_break>"
     },
     "120": {
         "「お待たせいたしました。|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします。|<br>|「<%sM_OWNER><%sM_SAMA>の　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てください。<bw_break>": "Thank you for your patience... <%nL_WEEK>|weeks worth of support gold... At your|current fame level of <%sM_OWNER><%sM_SAMA>,|<br>|that would be <%nL_SUPPORT_GOLD> gold... I|hope you find this useful...<bw_break>"
@@ -771,7 +771,7 @@
         "「ところで　<%sM_OWNER><%sM_SAMA>　聞いてください！|　今度から　新しいサービスが|　できるように　なったのです～。|<br>|「その名も　ビンゴ券プレゼントサービス！|　毎週金曜日に　カジノにあるビンゴコーナーで|　ご利用いただける券を　支給いたします。|<br>|「支給券は　３枚ですよ～。|　１枚で１回　ビンゴをお楽しみいただけます。|　ぜひ　やってみてくださいね～！": "By the way, <%sM_OWNER><%sM_SAMA> listen up!|From now on, we're offering a new service...|It's called the Bingo Ticket Giveaway! Every|<br>|Friday, we'll be giving away tickets that can|be used at the bingo tables in the casino...|You will receive three tickets. Each ticket|<br>|allows you to play bingo once... Please give|it a try!"
     },
     "258": {
-        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SA... Thank you for|visiting...<bw_break>"
+        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SAMA>,|thank you for always using our service.<bw_break>"
     },
     "259": {
         "「じゃじゃーん　お待たせしました～。|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします～。|<br>|「<%sM_OWNER><%sM_SAMA>の　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てくださいね～。<bw_break>": "Ta-da! Sorry to keep you waiting... I have|your <%nL_WEEK> of support gold for the|week... At your current fame level of|<br>|<%sM_OWNER><%sM_SAMA>, that's|<%nL_SUPPORT_GOLD> gold... I hope you find it|useful in your adventures...<bw_break>"
@@ -1149,7 +1149,7 @@
         "「ところで　<%sM_OWNER><%sM_SAMA>　聞いてください！|　今度から　新しいサービスが|　できるように　なったのです～。|<br>|「その名も　ビンゴ券プレゼントサービス！|　毎週金曜日に　カジノにあるビンゴコーナーで|　ご利用いただける券を　支給いたします。|<br>|「支給券は　３枚ですよ～。|　１枚で１回　ビンゴをお楽しみいただけます。|　ぜひ　やってみてくださいね～！": "By the way, <%sM_OWNER><%sM_SAMA> listen up!|From now on, we're offering a new service...|It's called the Bingo Ticket Giveaway! Every|<br>|Friday, we'll be giving away tickets that can|be used at the bingo tables in the casino...|You will receive three tickets. Each ticket|<br>|allows you to play bingo once... Please give|it a try!"
     },
     "384": {
-        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SA... Thank you for|visiting...<bw_break>"
+        "「<%sM_OWNER><%sM_SAMA>。|　いつも　ご利用ありがとうございます。<bw_break>": "<%sM_OWNER><%sM_SAMA>,|thank you for always using our service.<bw_break>"
     },
     "385": {
         "「じゃじゃーん　お待たせしました～。|　<%nL_WEEK>週間分の　サポートゴールドを|　お渡しいたします～。|<br>|「<%sM_OWNER><%sM_SAMA>の　現在の名声レベルですと|　<%nL_SUPPORT_GOLD>ゴールドに　なります。|　どうぞ　冒険にお役立てくださいね～。<bw_break>": "Ta-da! Sorry to keep you waiting... I have|your <%nL_WEEK> of support gold for the|week... At your current fame level of|<br>|<%sM_OWNER><%sM_SAMA>, that's|<%nL_SUPPORT_GOLD> gold... I hope you find it|useful in your adventures...<bw_break>"
@@ -5448,10 +5448,10 @@
         "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
     },
     "1817": {
-        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
+        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "1818": {
-        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
+        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "1819": {
         "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
@@ -5940,13 +5940,13 @@
         "「続けて　ふくびきを　するかい？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "1981": {
-        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the lucky|draw?|<select_se_off>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "1982": {
-        "「続けて　ふくびきを　するのか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to keep doing that?|<select_se_off>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「続けて　ふくびきを　するのか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to keep playing?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "1983": {
-        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the lucky|draw?|<select_se_off>|play a lucky draw|Play a 10-round lucky draw|See more prizes|<select_end><break>"
+        "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
     },
     "1984": {
         "「<%sL_ITEM>だな。これは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるぜ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM... When you use this, you'll have|10 minutes of \"Vitality Time\" and gain double|the experience and gold... If you have|<br>|<%nL_CTIME> time... I can give you <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
