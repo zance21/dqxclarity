@@ -219,7 +219,7 @@
         "順調に育っています。|水を　やりますか？|<yesno><break>": "They're growing nicely.|Water the field?|<yesno><break>"
     },
     "74": {
-        "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It's turned into a rare crop <%sL_ITEM>! Do|you want to water it?<yesno><break>"
+        "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "<%sL_ITEM> has grown|into a rare crop! Water the field?|<yesno><break>"
     },
     "75": {
         "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>... Do you want|to water them?<yesno><break>"
