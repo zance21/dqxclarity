@@ -264,7 +264,7 @@
         "「おや……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> Thank you. There's not enough room in the bag|to carry all the prizes... You'll need two|empty bags and one empty envelope... We'll|<br>|sort through your bag and bag, make the|necessary room, and come back...<bw_break>"
     },
     "89": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "90": {
         "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|<br>|「<pc>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you're a third-place or higher winner,|you'll receive a special Fukubiki ticket|<%nM_Hukubiki_Num>...<pc> I'll send your luck to my friends who've been|adventuring with me lately, as well, as|special coupons.<bw_break>"
@@ -447,7 +447,7 @@
         "「おや……<%sM_OWNER><%sM_SAMA>。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the bag to carry all the|prizes... You'll need two in your bag and one|<br>|in your bag of tricks... We'll sort through|your bag and bag, make the necessary room,|and come back...<bw_break>"
     },
     "150": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "151": {
         "「現在の元気チャージは　<%nL_CTIME>時間です。|　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要です。|<bw_break>": "Current energy charge is <%nL_CTIME>... In|order to exchange <%sL_ITEM>, you need to|have at least <%nL_RATE> hours of energy|<br>|charge...<bw_break>"
@@ -867,7 +867,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "290": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "291": {
         "「現在の元気チャージは　<%nL_CTIME>時間です。|　すみませんが　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要です～。|<bw_break>": "The current energy charge is <%nL_CTIME>|hours... I'm sorry, but in order to exchange|<%sL_ITEM>, you need to have at least|<br>|<%nL_RATE> hours of energy charge...<bw_break>"
@@ -1245,7 +1245,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "416": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "417": {
         "「現在の元気チャージは　<%nL_CTIME>時間です。|　すみませんが　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要です～。|<bw_break>": "The current energy charge is <%nL_CTIME>|hours... I'm sorry, but in order to exchange|<%sL_ITEM>, you need to have at least|<br>|<%nL_RATE> hours of energy charge...<bw_break>"
@@ -1623,7 +1623,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "542": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "543": {
         "「今の元気チャージは　<%nL_CTIME>時間だぞー。|　悪いけど　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だなー。|<bw_break>": "You have <%nL_CTIME> hours of charge right|now... I'm sorry, but in order to replace|<%sL_ITEM>, you need more than <%nL_RATE>|<br>|hours of energy charge...<bw_break>"
@@ -2001,7 +2001,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "668": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "669": {
         "「いまの元気チャージは　<%nL_CTIME>時間だよー。|　ごめんね！　<%sL_ITEM>を交換するには|　元気チャージが　<%nL_RATE>時間以上　必要なのー。|<bw_break>": "The energy charge now is <%nL_CTIME> time...|Sorry! In order to exchange <%sL_ITEM>, you|need more than <%nL_RATE> hours of energy|<br>|charge...<bw_break>"
@@ -2379,7 +2379,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "794": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "795": {
         "「今の元気チャージは　<%nL_CTIME>時間だな。|　<%sL_ITEM>を　交換するには|　元気チャージが　<%nL_RATE>時間以上　必要だぞ。|<bw_break>": "Your current charge is <%nL_CTIME> hours...|In order to exchange <%sL_ITEM>, you must|have at least <%nL_RATE> hours of energy|<br>|charge...<bw_break>"
@@ -2757,7 +2757,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "920": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "921": {
         "「今ある　元気チャージは　<%nL_CTIME>時間分。|　悪いけど　<%sL_ITEM>と交換するには|　元気チャージが　<%nL_RATE>時間分以上　必要だよ。|<bw_break>": "The amount of energy you have is|<%nL_CTIME>... I'm sorry, but in order to|trade for <%sL_ITEM>, you'll need to have at|<br>|least <%nL_RATE> hours of energy charge...<bw_break>"
@@ -3135,7 +3135,7 @@
         "「現在　ふくびき賞品の入れ替え中です。|　賞品の入れ替え中は　いっさいのふくびきが|　できません。|<br>|「大変申し訳ございませんが　今しばらく|　お待ちいただき　後ほど　あらためて|　お越しくださいますよう　お願いいたします。|<br>|「なお　ふくびき賞品の入れ替えには|　お時間をいただく場合も　ございます。|　あらかじめ　ご了承くださいませ。|<end>": "We're replacing the prizes. While we're|replacing the prizes, you won't be able to|take any more... We apologize for any|<br>|inconvenience this may cause, but please wait|a little while and come back later. Please|note that it may take some time for us to|<br>|change the prizes... Thank you for your|understanding.<end>"
     },
     "1046": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "1047": {
         "「今ある　元気チャージは　<%nL_CTIME>時間分。|　悪いけど　<%sL_ITEM>と交換するには|　元気チャージが　<%nL_RATE>時間分以上　必要なの。|<bw_break>": "The amount of energy you have is|<%nL_CTIME>... I'm sorry, but in order to|trade for <%sL_ITEM>, you'll need to have at|<br>|least <%nL_RATE> hours of energy charge...<bw_break>"
@@ -6201,16 +6201,16 @@
         "「あっ……<pc>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　そうびぶくろに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「そうびぶくろと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> Thank you. There's not enough room in my bag|to carry all the prizes... You'll need two|empty spaces in your bag and one empty space|<br>|in your sobi bag... We'll have to sort out|the jars and the bags, make the necessary|room, and then come back...<bw_break>"
     },
     "2068": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "2069": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "2070": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "2071": {
-        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|play a lucky draw|play a special lottery|<select_end>|<break>"
+        "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
     },
     "2072": {
         "「スペシャルふくびき券　１枚で|　１回　抽選ができるぜ。|　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|drawing... Would you like to win a special|prize?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
