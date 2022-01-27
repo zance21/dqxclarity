@@ -75,7 +75,7 @@
         "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "You can use \"Replant\" to remove any plants in|your field and start over.|<br>|However, you won't get back what you planted,|so please be careful.|<bw_break>"
     },
     "26": {
-        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
+        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in your field, you can grow|a variety of flowers and crops.|<br>|Sowing one seed sows it for the entire field,|and you get a total of eight sprouts.|<br>|The number of times fertilizer is used and the|number of people who water can affect the type|and yield of flowers and crops.|<bw_break>"
     },
     "27": {
         "めずらしい色の花|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "It turned into a flower of an unusual color,|<%sL_ITEM>! Do you want to water it?<yesno><break>"
