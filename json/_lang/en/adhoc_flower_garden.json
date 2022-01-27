@@ -108,28 +108,28 @@
         "しかし　今は　できなかった！|<end>": "But you can't right now!|<end>"
     },
     "37": {
-        "すべての花を摘まないと|タネは　まけません。|<end>": "If we don't pick all the flowers, we can't|plant the seeds.<end>"
+        "すべての花を摘まないと|タネは　まけません。|<end>": "You can't plant any seeds until all of the|flowers are picked.|<end>"
     },
     "38": {
-        "畑がないため　タネをまくことができません。|<end>": "I don't have a field, so I can't sow seeds...<end>"
+        "畑がないため　タネをまくことができません。|<end>": "You can't sow seeds without a field.|<end>"
     },
     "39": {
         "畑には　何も植えられていません。|<end>": "There's nothing currently planted here.|<end>"
     },
     "40": {
-        "家のオーナーしか　タネをまくことはできません。|<end>": "Only the owner of the house can sow the|seeds...<end>"
+        "家のオーナーしか　タネをまくことはできません。|<end>": "Only this house's owner can sow seeds.|<end>"
     },
     "41": {
-        "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "I can't pick flowers because my tool bag is|full.<end>"
+        "どうぐかばんが　いっぱいのため|花が摘めません。|<end>": "You can't pick the flowers because your Item|Bag is full.|<end>"
     },
     "42": {
-        "花は　もう摘まれています。|<end>": "The flowers have already been picked...<end>"
+        "花は　もう摘まれています。|<end>": "The flowers have already been picked.<end>"
     },
     "43": {
-        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Wow! <%sL_ITEM> is blooming|two rare colored flowers!|<end>"
     },
     "44": {
-        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Wow! <%sL_ITEM> is blooming|two rare colored flowers!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "45": {
         "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!|<end>"
@@ -138,25 +138,25 @@
         "<%sL_ITEM>は　なんと　ふたつの|きれいな花を　咲かせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|with two beautiful flowers!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "47": {
-        "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|水をやりますか？|<yesno><break>": "Two flowers of an unusual color, <%sL_ITEM>,|blooming... Do you want to water them?<yesno><break>"
+        "めずらしい色の花　<%sL_ITEM>が|ふたつ　咲きました。|水をやりますか？|<yesno><break>": "<%sL_ITEM> is blooming|two rare colored flowers. Water the field?|<yesno><break>"
     },
     "48": {
-        "ふたつの花が　咲きました。|水をやりますか？|<yesno><break>": "Two flowers blooming... Do you want me to|water them?<yesno><break>"
+        "ふたつの花が　咲きました。|水をやりますか？|<yesno><break>": "Two flowers are blooming. Water the field?|<yesno><break>"
     },
     "49": {
-        "どの肥料を　使いますか？|<break>": "Which fertilizer should I use?<break>"
+        "どの肥料を　使いますか？|<break>": "Use which fertilizer?<break>"
     },
     "50": {
-        "どのタネを　まきますか？|<break>": "Which seeds do you want to sow?<break>"
+        "どのタネを　まきますか？|<break>": "Which seed do you want to sow?<break>"
     },
     "51": {
-        "<%sL_ITEM>を　畑に使いました！|<end>": "I used <%sL_ITEM> on the field!<end>"
+        "<%sL_ITEM>を　畑に使いました！|<end>": "Used <%sL_ITEM> on the field!|<end>"
     },
     "52": {
-        "<%sL_ITEM>を　収穫しました！|<end>": "<%sL_ITEM> has been harvested!<end>"
+        "<%sL_ITEM>を　収穫しました！|<end>": "<%sL_ITEM> has been harvested!|<end>"
     },
     "53": {
-        "枯れた作物を　摘みました！|<end>": "I picked the dead crop!<end>"
+        "枯れた作物を　摘みました！|<end>": "The dead crops were harvested!|<end>"
     },
     "54": {
         "すべての作物を　抜きました！|<end>": "All the crops have been pulled!<end>"
