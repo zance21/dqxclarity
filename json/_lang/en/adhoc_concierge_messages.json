@@ -5526,7 +5526,7 @@
         "「……すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　持っているような。|　空きができたら　依頼しろ。|<bw_break>": "...seems like you are already carrying|<%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1843": {
-        "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but you already have <%sL_ITEM> in|<%nL_WHOLENUM><%sM_TANI>... I'd like you to|try it out and get back to me...<bw_break>"
+        "「申し訳ありませんが　すでに<%sL_ITEM>を|　<%nL_WHOLENUM><%sM_TANI>　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "My apologies, but it seems you are already|carrying <%dL_WHOLENUM> <%sL_ITEM>.|Come again when you have less than that.|<bw_break>"
     },
     "1844": {
         "「申し訳ありませんが　すでに<%sL_ITEM>を|　９９枚　お持ちのようですね。|　お使いになってから　また　ご依頼ください。|<bw_break>": "I'm sorry, but it looks like you already have|99 copies of <%sL_ITEM>... I'd like you to|use them, and then I'll get back to you.<bw_break>"
