@@ -5469,16 +5469,16 @@
         "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですかー？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you prefer?|<break>"
     },
     "1824": {
-        "「<%sL_ITEM>だな。これは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるぜ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM... When you use this, you'll have|30 minutes of \"Vitality Time\" to double your|experience and gold... If you have|<br>|<%nL_CTIME> time... I can give you <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
+        "「<%sL_ITEM>だな。これは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるぜ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM>? When you use this,|your EXP and gold will be doubled for 30|minutes.|<br>|With your current <%dL_CTIME> hours of Charge Time,|I can give you up to <%dL_MAXNUM> of those. How many|would you like?|<break>"
     },
     "1825": {
-        "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になりますわ。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>... If you use this, you'll have 30|minutes of \"Genki Time\", and your experience|and gold will be doubled... You currently|<br>|have <%nL_CTIME> hours of energy charge... I|can give you <%sL_ITEM> up to <%nL_MAXNUM>.<break>"
+        "「<%sL_ITEM>ですね。こちらは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になりますわ。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうか？|<break>": "<%sL_ITEM>? When you use this,|your EXP and gold will be doubled for 30|minutes.|<br>|With your current <%dL_CTIME> hours of Charge Time,|I can give you up to <%dL_MAXNUM> of those. How many|of those would you like?|<break>"
     },
     "1826": {
-        "「<%sL_ITEM>か。これは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるものだ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しい？|<break>": "<%sL_ITE... When you use this, you'll have 30|minutes of \"Vigor Time\", which means you'll|get double the experience and double the|<br>|gold... If you have <%nL_CTIME> time... You|can give <%sL_ITEM> up to <%nL_MAXNUM>. How|many do you want?<break>"
+        "「<%sL_ITEM>か。これは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるものだ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しい？|<break>": "<%sL_ITEM>? When you use this,|your EXP and gold will be doubled for 30|minutes during \"Bonus Time\".|<br>|With your current <%dL_CTIME> hours of Charge Time,|I can give you up to <%dL_MAXNUM> of those. How many|do you want?|<break>"
     },
     "1827": {
-        "「<%sL_ITEM>ですねっ！こちらは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうかー？|<break>": "That's <%sL_ITEM>! If you use this, you'll|get 30 minutes of \"Genki Time\" and double|your experience and gold... You currently|<br>|have <%nL_CTIME> hours of energy charge... If|you're looking for <%sL_ITEM>, I can give you|up to <%nL_MAXNUM>, but how many would you|<br>|like?<break>"
+        "「<%sL_ITEM>ですねっ！こちらは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になります。|<br>|「現在　元気チャージが　<%nL_CTIME>時間ございます。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　お渡しできますが|　いくつ　ご希望でしょうかー？|<break>": "<%sL_ITEM>! When you use this,|your EXP and gold will be doubled for 30|minutes during \"Bonus Time\".|<br>|You currently have <%dL_CTIME> hours of Charge Time.|I can give you up to <%dL_MAXNUM> of those. How many|do you want?|<break>"
     },
     "1828": {
         "「元気チャージ　<%nL_UTIME>時間を使って|　<%sL_ITEM>を　<%nL_GENKINUM><%sM_TANI>　渡すぜ。|　それでいいかい？|<yesno><break>": "Energize <%nL_UTIME> time to <%sL_ITEM>|<%nL_GENKINUM><%sM_TANI> ... Is that enough?<yesno><break>"
