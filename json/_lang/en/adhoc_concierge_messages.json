@@ -5445,7 +5445,7 @@
         "「もしも　旅の途中で　ふくびき券を|　手に入れましたら　こちらまでお持ちください！|　１枚につき１回　ふくびきをしていただけます。|<br>|「もちろん　当たるか当たらないかは　運しだい。|　新米の冒険者も　ベテランの冒険者も公平です。|　ぜひ　見事に　福を引き当ててくださいねっ！|<end>": "If you've picked up any coupons along your|journey, please bring them to us! Each ticket|will allow you to take one lucky draw... Of|<br>|course, whether you win or not is up to|you... Whether you're a newcomer or a|seasoned adventurer... I hope you'll be lucky|<br>|enough to win one!<end>"
     },
     "1816": {
-        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
+        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "1817": {
         "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
@@ -5454,19 +5454,19 @@
         "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "1819": {
-        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<pc> Thank you. Thank you for visiting...<bw_break>"
+        "「<pc>さま。|　いつも　ご利用ありがとうございます。<bw_break>": "<if_woman>Ms.<else>Mr.<endif> <pc>,|thank you for using our service.<bw_break>"
     },
     "1820": {
-        "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "I'm recharging my batteries in <%nL_CTIME>|time... Which one would you like to change|to?<break>"
+        "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you like?|<break>"
     },
     "1821": {
         "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
     },
     "1822": {
-        "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "I'm recharging my batteries in <%nL_CTIME>|time... Which one would you like to change|to?<break>"
+        "「いま　元気チャージが　<%nL_CTIME>時間あるな。|　どれに　変えたい？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you like?|<break>"
     },
     "1823": {
-        "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですかー？|<break>": "You have <%nL_CTIME> hours of energy left...|Which one would you like?<break>"
+        "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですかー？|<break>": "You currently have <%dL_CTIME> Charge Hours.|Which would you prefer?|<break>"
     },
     "1824": {
         "「<%sL_ITEM>だな。これは　使うと３０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるぜ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM... When you use this, you'll have|30 minutes of \"Vitality Time\" to double your|experience and gold... If you have|<br>|<%nL_CTIME> time... I can give you <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
