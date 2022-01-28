@@ -261,34 +261,34 @@
         "しおれている……。|水を　やりますか？|<yesno><break>": "They're wilting...|Water the field?|<yesno><break>"
     },
     "88": {
-        "作物は　枯れてしまった……。|<end>": "The crops are dying...<end>"
+        "作物は　枯れてしまった……。|<end>": "The crops have died...|<end>"
     },
     "89": {
-        "作物は　枯れてしまった……。|枯れてしまった作物は　『やりなおす』から|摘むことができます。|<end>": "Crops that have withered... Crops that have|withered can be picked from the \"redo\"...<end>"
+        "作物は　枯れてしまった……。|枯れてしまった作物は　『やりなおす』から|摘むことができます。|<end>": "The crops have died...|Use \"Replant\" to replace the dead crops.|<end>"
     },
     "90": {
-        "この畑を　お世話した記録です。|<break>": "I took care of this field...<break>"
+        "この畑を　お世話した記録です。|<break>": "This is a record of care for this field.|<break>"
     },
     "91": {
-        "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "In the \"Care Record\" section, you can see the|records of the people who have taken care of|your fields... You can save up to 50|<br>|records... If you have more than 50 records,|they'll be overwritten with the oldest ones.|When all the plants in the field are gone,|<br>|all the records are reset...<bw_break>"
+        "「お世話の記録」からは|これまでに　畑を　お世話してくれた人の記録を|見ることができます。|<br>|記録は　最大５０件まで保存されます。|５０件を超えた場合は|古いものから　上書きされていきます。|<br>|畑に植えた物が　すべてなくなると|記録は　すべてリセットされます。|<bw_break>": "\"Record of Care\" will allow you to view a|history of everyone who has interacted with|your field.|<br>|The latest 50 records will be displayed, and|any new records will remove the oldest one.|<br>|When the plants are harvested from the field,|any records will be reset.|<bw_break>"
     },
     "92": {
-        "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "If you select \"Redo\", you can remove all the|plants in the field and start over... Once|you select \"Redo\", you can't put back what|<br>|you've removed... Please judge carefully...<bw_break>"
+        "「やりなおす」を選ぶと|畑に植えている物を　すべて抜いて|最初から　やりなおすことができます。|<br>|一度　「やりなおす」を選ぶと|抜いてしまった物は　元に戻せません。|慎重に　判断してください。|<bw_break>": "You can use \"Replant\" to remove any plants in|your field and start over.|<br>|However, you won't get back what you planted,|so please be careful.|<bw_break>"
     },
     "93": {
-        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in the field, we can grow|flowers and crops... If you sow one seed, you|sow the same kind of seed in the whole field,|<br>|and you get eight sprouts in all. Even with|the same seed, the number of times you use|fertilizer and the number of people who water|<br>|it will affect the type of flowers and the|yield of the crop.<bw_break>"
+        "畑に　タネをまくことで|花や作物を育てることができます。|<br>|タネは　ひとつまけば　畑全体に|同じ種類のタネを　まいたことになり|全部で　８つの芽が出ます。|<br>|同じタネでも　使った肥料の回数や|水やりをしてくれた　人の数によって|花や作物の　種類や　収穫量が変わります。　|<bw_break>": "By sowing seeds in your field, you can grow|a variety of flowers and crops.|<br>|Sowing one seed sows it for the entire field,|and you get a total of eight sprouts.|<br>|The number of times fertilizer is used and the|number of people who water can affect the type|and yield of flowers and crops.|<bw_break>"
     },
     "94": {
-        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM> for this field?<yesno><break>"
+        "この畑に　<%sL_ITEM>を|使いますか？|<yesno><break>": "Do you want to use <%sL_ITEM>|on this field?|<yesno><break>"
     },
     "95": {
-        "畑の　すべての作物を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Do you want to pull all the crops out of the|field and start over?<color_yellow>If we start over, the seeds will come back...|When the flower fairy was here, she was|gone...<color_white>|<yesno 2><break>"
+        "畑の　すべての作物を抜いて|最初から　やりなおしますか？|<br>|<color_yellow>|やりなおすと　植えたタネは戻りません。|お花の妖精が来ていた時も　いなくなります。|<color_white>|<yesno 2><break>": "Pull all the crops from the field and start|over?|<br>|<color_yellow>|Your seeds will not be returned. Any flower|fairies present will also leave.|<color_white>|<yesno 2><break>"
     },
     "96": {
-        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to roll <%sL_ITEM>?<yesno><break>"
+        "<%sL_ITEM>を　まきますか？|<yesno><break>": "Do you want to sow <%sL_ITEM>?|<yesno><break>"
     },
     "97": {
-        "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
+        "枯れているので　肥料はあげられません。": "They're withered and can't be fertilized."
     },
     "98": {
         "予備テキスト": "preliminary text"
@@ -306,7 +306,7 @@
         "予備テキスト": "preliminary text"
     },
     "103": {
-        "枯れているので　肥料はあげられません。": "It's dying, so I can't fertilize it..."
+        "枯れているので　肥料はあげられません。": "They're withered and can't be fertilized."
     },
     "104": {
         "予備テキスト": "preliminary text"
@@ -324,16 +324,16 @@
         "予備テキスト": "preliminary text"
     },
     "109": {
-        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<end>"
+        "めずらしい色の花　|<%sL_ITEM>が|咲いている！|<end>": "<%sL_ITEM> is blooming a|rare colored flower!|<end>"
     },
     "110": {
-        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A flower of an unusual color <%sL_ITEM> is|blooming!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is blooming|a flower of a rare color!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "111": {
-        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<end>"
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が|咲いている！|<end>": "Wow! <%sL_ITEM> is blooming|two rare colored flowers!|<end>"
     },
     "112": {
-        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Oh my, there are two uniquely colored flowers|<%sL_ITEM> in bloom!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "なんと　ふたつの　めずらしい色の花|<%sL_ITEM>が　咲いている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Wow! <%sL_ITEM> is blooming|two rare colored flowers!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "113": {
         "なんと　めずらしい作物|巨大なびっくりトマトが　実っている！": "What a rare crop, a giant surprise tomato!"
