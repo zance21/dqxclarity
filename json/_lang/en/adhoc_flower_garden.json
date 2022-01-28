@@ -222,19 +222,19 @@
         "めずらしい作物|<%sL_ITEM>に　変化しました！|水をやりますか？|<yesno><break>": "<%sL_ITEM> has grown|into a rare crop! Water the field?|<yesno><break>"
     },
     "75": {
-        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|水をやりますか？|<yesno><break>": "Two unusual crops <%sL_ITEM>... Do you want|to water them?<yesno><break>"
+        "めずらしい作物　<%sL_ITEM>が|ふたつ　できました。|水をやりますか？|<yesno><break>": "<%sL_ITEM> has grown two|rare crops. Water the field?|<yesno><break>"
     },
     "76": {
-        "ふたつの作物が　できました。|水をやりますか？|<yesno><break>": "We have two crops... Do you want to water it?<yesno><break>"
+        "ふたつの作物が　できました。|水をやりますか？|<yesno><break>": "There are two crops growing.|Water the field?|<yesno><break>"
     },
     "77": {
         "<%sL_ITEM>は|元気な実を　実らせている！|<end>": "<%sL_ITEM> is bearing healthy fruit!<end>"
     },
     "78": {
-        "<%sL_ITEM>は|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is bearing healthy fruit!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "<%sL_ITEM>は|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is bearing healthy fruit!|<color_yellow>Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "79": {
-        "めずらしい作物　|<%sL_ITEM>が|できている！|<end>": "An unusual crop <%sL_ITEM> has been created!<end>"
+        "めずらしい作物　|<%sL_ITEM>が|できている！|<end>": "<%sL_ITEM> is growing into|a rare crop!|<end>"
     },
     "80": {
         "めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A rare crop of <%sL_ITEM> is growing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
