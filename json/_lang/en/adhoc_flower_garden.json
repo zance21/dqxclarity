@@ -237,28 +237,28 @@
         "めずらしい作物　|<%sL_ITEM>が|できている！|<end>": "<%sL_ITEM> is growing into|a rare crop!|<end>"
     },
     "80": {
-        "めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "A rare crop of <%sL_ITEM> is growing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> is growing into|a rare crop!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "81": {
-        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が|実っている！|<end>": "What two rare crops <%sL_ITEM> are bearing!<end>"
+        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が|実っている！|<end>": "Wow! <%sL_ITEM> is growing|two rare crops!|<end>"
     },
     "82": {
-        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "What two rare crops <%sL_ITEM> are bearing!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "なんと　ふたつの　めずらしい作物|<%sL_ITEM>が　実っている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "Wow! <%sL_ITEM> is growing|two rare crops!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "83": {
-        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<end>"
+        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<end>": "<%sL_ITEM> has produced two|very healthy fruits!|<end>"
     },
     "84": {
-        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has produced two very healthy|fruits!<color_yellow>You can harvest it from the \"Harvest in|Bulk\"...<color_white>|<end>"
+        "<%sL_ITEM>は　なんと　ふたつの|元気な実を　実らせている！|<color_yellow>|『まとめて収穫』から　収穫することができます。|<color_white>|<end>": "<%sL_ITEM> has produced two very|healthy fruits!|<color_yellow>|Use \"Harvest All\" to collect them.|<color_white>|<end>"
     },
     "85": {
         "畑には　何も植えられていない。|<end>": "There's nothing currently planted here.|<end>"
     },
     "86": {
-        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It hasn't sprouted yet... Do you want me to|water it?<yesno><break>"
+        "まだ芽が出ていないようだ。|水を　やりますか？|<yesno><break>": "It seems it hasn't sprouted yet.|Water the field?|<yesno><break>"
     },
     "87": {
-        "しおれている……。|水を　やりますか？|<yesno><break>": "It's wilting... Do you want me to water it?<yesno><break>"
+        "しおれている……。|水を　やりますか？|<yesno><break>": "They're wilting...|Water the field?|<yesno><break>"
     },
     "88": {
         "作物は　枯れてしまった……。|<end>": "The crops are dying...<end>"
