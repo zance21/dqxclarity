@@ -360,25 +360,25 @@
         "すべての作物を　収穫しますか？|<yesno><break>": "Harvest all the crops?|<yesno><break>"
     },
     "121": {
-        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
+        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where you can't use|any more fertilizer."
     },
     "122": {
-        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where I can't give it|any more fertilizer."
+        "肥料がもう　あげられない状態まで|育っています。": "It's grown to the point where you can't use|any more fertilizer."
     },
     "123": {
-        "しおれている作物が　あるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
+        "しおれている作物が　あるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so you can't|use \"Harvest All\".|<end>"
     },
     "124": {
-        "しおれている作物があるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so we can't|harvest them all at once...<end>"
+        "しおれている作物があるので|まとめて収穫は　できません。|<end>": "Some of the crops are wilting, so you can't|use \"Harvest All\".|<end>"
     },
     "125": {
         "すべての花を　摘みますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています。|<color_yellow>|<yesno><break>": "Pick all of the flowers?|<color_yellow>|The flower fairies have come to your field|and have doubled the overall yield.|<color_yellow>|<yesno><break>"
     },
     "126": {
-        "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I picked <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+        "<%sL_ITEM>を　<%nL_NUM>個摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "Picked <%dL_NUM> <%sL_ITEM>!|<color_yellow>|The flower fairies have come to your field|and have doubled the overall yield.|<color_yellow>|<end>"
     },
     "127": {
-        "すべての作物を　収穫しますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています！|<color_yellow>|<yesno><break>": "Do you want to harvest all the crops?<color_yellow>The flower fairies have come to this field,|doubling our harvest!<color_yellow>|<yesno><break>"
+        "すべての作物を　収穫しますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています！|<color_yellow>|<yesno><break>": "Harvest all the crops?|<color_yellow>|The flower fairies have come to your field|and have doubled the yield!|<color_yellow>|<yesno><break>"
     },
     "128": {
         "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
