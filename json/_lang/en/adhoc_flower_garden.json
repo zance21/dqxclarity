@@ -381,13 +381,13 @@
         "すべての作物を　収穫しますか？|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になっています！|<color_yellow>|<yesno><break>": "Harvest all the crops?|<color_yellow>|The flower fairies have come to your field|and have doubled the yield!|<color_yellow>|<yesno><break>"
     },
     "128": {
-        "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "We've harvested <%sL_ITEM> for <%nL_NUM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+        "<%sL_ITEM>を　<%nL_NUM>個収穫しました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "Harvested <%dL_NUM> <%sL_ITEM>!|<color_yellow>|The flower fairies have come to your field|and have doubled the overall yield!|<color_yellow>|<end>"
     },
     "129": {
-        "<%sL_ITEM>を　摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "I just picked <%sL_ITEM>!<color_yellow>Now that the flower fairy is here in this|field, we've doubled our harvest!<color_yellow>|<end>"
+        "<%sL_ITEM>を　摘みました！|<color_yellow>|お花の妖精が　この畑に来ているので|収穫量が　２倍になりました！|<color_yellow>|<end>": "Picked <%sL_ITEM>!|<color_yellow>|The flower fairies have come to your field|and have doubled the overall yield!|<color_yellow>|<end>"
     },
     "130": {
-        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "It's growing well...<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want me to water it?<yesno><break>"
+        "順調に育っています。|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|水を　やりますか？|<yesno><break>": "They're growing nicely.|<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Water the field?<yesno><break>"
     },
     "131": {
         "めずらしい色の花|<%sL_ITEM>に　変化しました！|<color_yellow>|お花の妖精効果で　収穫量が　２倍になります。|<color_yellow>|<color_white>|<br>|水をやりますか？|<yesno><break>": "It turned into a flower <%sL_ITEM> of an|unusual color!<color_yellow>The flower fairies have doubled the yield.<color_yellow>|<color_white>Do you want to water it?<yesno><break>"
