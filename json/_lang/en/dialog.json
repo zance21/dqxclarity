@@ -2268,7 +2268,7 @@
         "<speed=0>魔法の迷宮から|元の場所に　戻りますか？|ゴールドは　失いません。<yesno2><close>": "<speed=0>Leave the Magic Maze? You won't lose any gold.<yesno2><close>"
     },
     "757": {
-        "<speed=0>誘いを受けることができませんでした。": ""
+        "<speed=0>誘いを受けることができませんでした。": "<speed=0>Couldn't accept the invitation."
     },
     "758": {
         "<speed=0>返事ができる　さそいが　ありませんでした。": ""
