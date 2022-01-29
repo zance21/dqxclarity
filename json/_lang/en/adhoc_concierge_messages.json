@@ -3414,7 +3414,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1139": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1140": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3459,7 +3459,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1154": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1155": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3504,7 +3504,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1169": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1170": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3549,7 +3549,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1184": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1185": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3639,7 +3639,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1214": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1215": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3684,7 +3684,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1229": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1230": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3729,7 +3729,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1244": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1245": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -3774,7 +3774,7 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
     },
     "1259": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "1260": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
@@ -6732,25 +6732,25 @@
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
     },
     "2245": {
-        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
     },
     "2246": {
-        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
     },
     "2247": {
-        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
     },
     "2248": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "2249": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "2250": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "2251": {
-        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%sL_PRIZENAME> to <%dL_ITEMNUM>... Are you|sure?<yesno><break>"
+        "「<%sL_PRIZENAME>を　<%dL_ITEMNUM>個|　お渡しいたします。よろしいですか？|<yesno><break>": "<%dL_ITEMNUM> <%sL_PRIZENAME>|is what you want?|<yesno><break>"
     },
     "2252": {
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
