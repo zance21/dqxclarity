@@ -22992,7 +22992,7 @@
         "勝利時MP30回復": ""
     },
     "7665": {
-        "範囲内にいる|仲間のＨＰを|３５５～回復する": ""
+        "範囲内にいる|仲間のＨＰを|３５５～回復する": "Restore around 355 HP|to nearby allies."
     },
     "7666": {
         "clarity_nt_char_7666": "clarity_nt_char_7666"
@@ -23022,7 +23022,7 @@
         "clarity_nt_char_7674": "clarity_nt_char_7674"
     },
     "7675": {
-        "周囲の仲間を|生き返らせ|状態異常も治す": ""
+        "周囲の仲間を|生き返らせ|状態異常も治す": "Revives nearby allies|and heals bad|status effects."
     },
     "7676": {
         "clarity_nt_char_7676": "clarity_nt_char_7676"
@@ -23034,7 +23034,7 @@
         "clarity_nt_char_7678": "clarity_nt_char_7678"
     },
     "7679": {
-        "周囲の仲間の|攻撃と回復量が|増え呪文も早まる": ""
+        "周囲の仲間の|攻撃と回復量が|増え呪文も早まる": "Grant nearby allies|boosted attack, recovery,|and casting speed."
     },
     "7680": {
         "目にも止まらぬ|高速で２回攻撃し|守備力も下げる": "Two, quick strikes|that also lower|defense."
@@ -23589,7 +23589,7 @@
         "clarity_nt_char_7863": "clarity_nt_char_7863"
     },
     "7864": {
-        "死亡中の味方を|どこからでも|生き返らせる": ""
+        "死亡中の味方を|どこからでも|生き返らせる": "Revives a dead ally|from anywhere."
     },
     "7865": {
         "前方にすばやく|矢をはなち|ダメージを与える": ""
@@ -36678,7 +36678,7 @@
         "clarity_nt_char_12226": "clarity_nt_char_12226"
     },
     "12227": {
-        "範囲内にいる|仲間のＨＰを|２５５～回復する": ""
+        "範囲内にいる|仲間のＨＰを|２５５～回復する": "Restore around 255 HP|to nearby allies."
     },
     "12228": {
         "clarity_nt_char_12228": "clarity_nt_char_12228"
@@ -37878,7 +37878,7 @@
         "clarity_nt_char_12626": "clarity_nt_char_12626"
     },
     "12627": {
-        "周囲の仲間を回復|攻撃と回復量が|増え呪文も早まる": "Heals and boosts|attack, recovery,|and spell speed."
+        "周囲の仲間を回復|攻撃と回復量が|増え呪文も早まる": "Heals and boosts|attack, recovery,|and cast speed."
     },
     "12628": {
         "仲間ひとりを|生き返らせる|スティック専用": "A Wand spell|that revives|one ally."
