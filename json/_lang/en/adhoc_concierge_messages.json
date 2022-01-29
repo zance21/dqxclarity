@@ -177,7 +177,7 @@
         "「次は　<%nL_MEGURINEXT>ポイントを達成したら|　<%sL_ITEM>を　<%nL_ITEMNUM><%sL_TANI>|　差し上げましょう。|<bw_break>": "Next time you reach <%nL_MEGURINEXT> points,|we'll give you <%sL_ITEM> for|<%nL_ITEMNUM><%sL_TANI>...<bw_break>"
     },
     "60": {
-        "「では　ふくびき券<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me your lucky draw ticket...|I'm praying for a good luck...<end>"
+        "「では　ふくびき券<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me your <%dM_Hukubiki_Num> tickets.|I'll pray you'll have good luck.|<end>"
     },
     "61": {
         "「おめでとうございます！|　特等の　<%sL_PRIZENAME>が|　当たりました！|<bw><close>": "Congratulations! You've won first prize,|<%sL_PRIZENAME>!<bw><close>"
@@ -5037,16 +5037,16 @@
         "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "1680": {
-        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent will you be taking?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Playing the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "1681": {
-        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent will you be taking?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Playing the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "1682": {
-        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent will you be taking?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Playing the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "1683": {
-        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent will you be taking?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Playing the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "1684": {
         "「ごめんなさ～い。|　今のプレイ環境では　元気玉と　小元気玉の|　交換しか　できないんです～。|<bw_break>": "Sorry... With the way I'm playing right now,|I can only trade Genki-dama for little Genki-|dama...<bw_break>"
@@ -5892,7 +5892,7 @@
         "「では　ふくびき券を<%nM_Hukubiki_Num>枚　もらうぜ。|　見事に福が引けるといいな！|<end>": "I'll get you some tickets... I hope you get a|good luck!<end>"
     },
     "1965": {
-        "「では　ふくびき券<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me your lucky draw ticket...|I'm praying for a good luck...<end>"
+        "「では　ふくびき券<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me your <%dM_Hukubiki_Num> tickets.|I'll pray you'll have good luck.|<end>"
     },
     "1966": {
         "「では　ふくびき券を<%nM_Hukubiki_Num>枚　もらう。|　見事に福が引けるよう　祈ってやる。|<end>": "So, let's get some tickets... Pray for good|luck...<end>"
@@ -7392,7 +7392,7 @@
         "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent are you going to take?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Play the Wena Islands Snapshot|Play the Dwachakka continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
     },
     "2465": {
-        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent will you be taking?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Playing the Wena Islands Snapshot|Do the Dwachaqqa continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
+        "「どの大陸のふくびきを　いたしますか？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Play in which continent?|<select_se_off>|Ogreed Continent|Eltona Continent|Wena Islands|Dwachakka Continent|Pukuland Continent|Special Draw|<select_end>|<break>"
     },
     "2466": {
         "「どの大陸のふくびきを　するんだ？|<select_se_off>|オーグリード大陸のふくびきをする|エルトナ大陸のふくびきをする|ウェナ諸島のふくびきをする|ドワチャッカ大陸のふくびきをする|プクランド大陸のふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "Which continent are you going to take?|<select_se_off>|Play the Oogreed continent sweepstakes|Play the Eltona continental sweepstakes|Play the Wena Islands Snapshot|Play the Dwachakka continental sweepstakes|Play the Pukeland continental sweepstakes|play a special lottery|<select_end>|<break>"
