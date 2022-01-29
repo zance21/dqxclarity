@@ -3780,7 +3780,7 @@
         "「もちものがいっぱいで　お受け取りできません。|　残りの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「なお　お預かりしている賞品は|　もちものに　空きを作っていただければ|　いつでも　お受け取りいただけます。|<br>|「ただし　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承くださいませ。|<bw_break>": "We've got a lot of stuff to take care of...|The rest of the prizes are in the care of our|travel concierge... You can pick up your|<br>|prizes whenever you want, as long as you|leave some space in your inventory...|However, if you don't pick up all of your|<br>|prizes, you won't be able to win any of them.|Please understand that...<bw_break>"
     },
     "1261": {
-        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "You'll receive all the prizes|<pc> I have something for you... Please accept...<bw_break>"
+        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "1262": {
         "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
@@ -3801,7 +3801,7 @@
         "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
     },
     "1268": {
-        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The results have changed, and the grade you|won has been replaced by a better one!<bw_break>"
+        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
     },
     "1269": {
         "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<bw_break>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<bw_break>"
@@ -6705,31 +6705,31 @@
         "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<bw_break>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<bw_break>"
     },
     "2236": {
-        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The results have changed, and the grade you|won has been replaced by a better one!<bw_break>"
+        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
     },
     "2237": {
-        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The results have changed, and the grade you|won has been replaced by a better one!<bw_break>"
+        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
     },
     "2238": {
-        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The results have changed, and the grade you|won has been replaced by a better one!<bw_break>"
+        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
     },
     "2239": {
-        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The results have changed, and the grade you|won has been replaced by a better one!<bw_break>"
+        "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
     },
     "2240": {
-        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "You'll receive all the prizes|<pc> I have something for you... Please accept...<bw_break>"
+        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "2241": {
-        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "You'll receive all the prizes|<pc> I have something for you... Please accept...<bw_break>"
+        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "2242": {
-        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "You'll receive all the prizes|<pc> I have something for you... Please accept...<bw_break>"
+        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "2243": {
-        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "You'll receive all the prizes|<pc> I have something for you... Please accept...<bw_break>"
+        "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "2244": {
-        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "I'm sorry, but you won't be able to accept|all of the prizes because of a full inventory.|Please select the prizes you wish to receive.|<bw_break>"
     },
     "2245": {
         "「もちものに　空きがないため|　今回の賞品は　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of the prizes.|Please select your prize...<bw_break>"
