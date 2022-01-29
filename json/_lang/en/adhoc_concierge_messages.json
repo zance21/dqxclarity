@@ -3423,10 +3423,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER><%sM_SAMA>に　お渡しいたします。|　お受け取りください。|<bw_break>": "You can pick up all the prizes this time, so|please give them to <%sM_OWNER><%sM_SAMA>...|Please pick them up...<bw_break>"
     },
     "1142": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1143": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1144": {
         "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
@@ -3468,10 +3468,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER><%sM_SAMA>に　お渡しいたします。|　お受け取りください。|<bw_break>": "You can pick up all the prizes this time, so|please give them to <%sM_OWNER><%sM_SAMA>...|Please pick them up...<bw_break>"
     },
     "1157": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1158": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1159": {
         "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
@@ -3513,13 +3513,13 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
     },
     "1172": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1173": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1174": {
-        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There isn't enough room in your inventory to|receive all of your prizes. Please select|the prizes you'd like.|<bw_break>"
     },
     "1175": {
         "「もちものがいっぱいで　お受け取りできません。|　こちらの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「もちものに　空きを作っていただければ|　お預かり賞品を　お受け取りいただけます。|　空きを作って　またお越しください。|<br>|「なお　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承ください。|<bw_break>": "We've got a lot of stuff to take care of...|These prizes are kept at the Travel|Concierge... If you make room in your|<br>|luggage, you can pick up your prize... Please|make room and come back... If you don't pick|up all your prizes, you won't be able to win|<br>|any more... Please understand that...<bw_break>"
@@ -3558,13 +3558,13 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
     },
     "1187": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1188": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1189": {
-        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There isn't enough room in your inventory to|receive all of your prizes. Please select|the prizes you'd like.|<bw_break>"
     },
     "1190": {
         "「もちものがいっぱいで　お受け取りできません。|　こちらの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「もちものに　空きを作っていただければ|　お預かり賞品を　お受け取りいただけます。|　空きを作って　またお越しください。|<br>|「なお　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承ください。|<bw_break>": "We've got a lot of stuff to take care of...|These prizes are kept at the Travel|Concierge... If you make room in your|<br>|luggage, you can pick up your prize... Please|make room and come back... If you don't pick|up all your prizes, you won't be able to win|<br>|any more... Please understand that...<bw_break>"
@@ -3603,10 +3603,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER><%sM_SAMA>に　お渡しいたします。|　お受け取りください。|<bw_break>": "You can pick up all the prizes this time, so|please give them to <%sM_OWNER><%sM_SAMA>...|Please pick them up...<bw_break>"
     },
     "1202": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1203": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1204": {
         "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
@@ -3648,10 +3648,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
     },
     "1217": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1218": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1219": {
         "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
@@ -3693,10 +3693,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
     },
     "1232": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1233": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1234": {
         "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
@@ -3738,13 +3738,13 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<%sM_OWNER>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <%sM_OWNER>.|<bw_break>"
     },
     "1247": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1248": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1249": {
-        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There's not enough room in your bag to claim|all your prizes. Please select your prize...<bw_break>"
+        "「もちものに　空きがないため|　賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。　|<bw_break>": "There isn't enough room in your inventory to|receive all of your prizes. Please select|the prizes you'd like.|<bw_break>"
     },
     "1250": {
         "「もちものがいっぱいで　お受け取りできません。|　こちらの賞品は　旅のコンシェルジュで|　大切に　お預かりしておきます。|<br>|「もちものに　空きを作っていただければ|　お預かり賞品を　お受け取りいただけます。|　空きを作って　またお越しください。|<br>|「なお　お預かり賞品を　全て受け取らないと|　一切のふくびきは　できません。|　あらかじめ　ご了承ください。|<bw_break>": "We've got a lot of stuff to take care of...|These prizes are kept at the Travel|Concierge... If you make room in your|<br>|luggage, you can pick up your prize... Please|make room and come back... If you don't pick|up all your prizes, you won't be able to win|<br>|any more... Please understand that...<bw_break>"
@@ -3783,10 +3783,10 @@
         "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
     },
     "1262": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1263": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "1264": {
         "「もちものに　空きがないため|　お預かり賞品を　全て受け取れないようです。|　受け取る賞品を　お選びください。|<bw_break>": "We're sorry, but we don't have enough space|in our inventory to accept all of your|prizes. Please select your prize...<bw_break>"
@@ -4221,7 +4221,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1408": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1409": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4242,7 +4242,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1415": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1416": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4263,7 +4263,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1422": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1423": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4284,7 +4284,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1429": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1430": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4305,7 +4305,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1436": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1437": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4326,7 +4326,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1443": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1444": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4347,7 +4347,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1450": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1451": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -4368,7 +4368,7 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "1457": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "1458": {
         "「おや……<pc>さま。|　もちものの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャル１０連ふくびきは　|　どうぐかばんに　１つ　そうびぶくろに　１つ|　空きがないと　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから|　またお越しください。|<bw_break>": "Oh<pc> Thank you. I can't take all the prizes|because there's not enough room in my bag...|You need to have one empty space in your bag|<br>|and one empty space in your glove|compartment... We'll need to clean out your|bag and bag of firearms to make room for your|<br>|prize, then come back...<bw_break>"
@@ -6645,28 +6645,28 @@
         "「ところで　私ども　旅のコンシェルジュでは|　この度　新しいサービスを　始めましたので|　ご紹介させていただきます。|<br>|「その名も　１０連ふくびきサービス！|　今まで　１回ずつしかまわせなかった|　ふくびきが　１０回まとめてまわせます。|<br>|「１０連ふくびきは　１度に１０枚の|　ふくびき券を　いただきます。|　ふくびき補助券も　同時に使えます。|<br>|「当選した１０個の賞品は　その場で|　お渡ししますが　持ちきれない場合は|　旅のコンシェルジュが　お預かりいたします。|<br>|「ただし　お預かりした　すべての当選賞品を|　引き取っていただくまで　一切のふくびきは|　できなくなりますので　ご注意ください。|<end>": "By the way, I'd like to introduce a new|service we've started here at Travel|Concierge. It's called the \"10-Pack\" service!|<br>|It's a service that allows you to collect 10|coupons at once... We've got a lot of work to|do. You can also use your coupons at the same|<br>|time... We'll give you your 10 prizes on the|spot, but if you can't take them with you,|our travel concierge will take care of them|<br>|for you... However, please note that you will|not be able to win any more prizes until you|pick up all your prizes...<end>"
     },
     "2216": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "2217": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "2218": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "2219": {
-        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me 10 tickets... I'm praying|for a good luck...<end>"
+        "「では　ふくびき券１０枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Okay, please give me 10 of your tickets.|I pray that you will have good luck.|<end>"
     },
     "2220": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "2221": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "2222": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "2223": {
-        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of this|10-round lucky draw...<end>"
+        "「おめでとうございます！|　今回の　１０連ふくびきの結果は|　こちらになります。|<end>": "Congratulations! Here are the results of|your 10 Draw.|<end>"
     },
     "2224": {
         "「今回は　賞品を選べる等級が　当たりましたので|　今から賞品を　選んでください。|<break>": ""
