@@ -15,25 +15,25 @@
         "<pc>は　<%sEV_FEE_ACTION>を　覚えた！<me 71><bw_break>": "<pc> learned <%sEV_FEE_ACTION>!<me 71><bw_break>"
     },
     "6": {
-        "<pc>は|<%sEV_FEE_JOB>に　転職できるようになった！<me 71><bw_break>": ""
+        "<pc>は|<%sEV_FEE_JOB>に　転職できるようになった！<me 71><bw_break>": "<pc> can now change to the <%sEV_FEE_JOB>|vocation!<me 71><bw_break>"
     },
     "7": {
-        "クエスト『<%sEV_QUEST_NAME>』を|クリアしました！|　<update_quedate><open_irai>": ""
+        "クエスト『<%sEV_QUEST_NAME>』を|クリアしました！|　<update_quedate><open_irai>": "Success! The quest has been trangressed with|finesse!|<update_quedate><open_irai>"
     },
     "8": {
-        "しかし　持ち物が　いっぱいだった！|<%sEV_FEE_ITEM>は　旅のコンシェルジュに|送られた。町の宿屋で　受け取ろう！<bw_break>": ""
+        "しかし　持ち物が　いっぱいだった！|<%sEV_FEE_ITEM>は　旅のコンシェルジュに|送られた。町の宿屋で　受け取ろう！<bw_break>": "But your belongings were full! You can receive|the <%sEV_FEE_ITEM>|at a concierge in any inn!<bw_break>"
     },
     "9": {
-        "<pc>は|<%sEV_FEE_ITEM>を　手に入れた！<se_nots System 7><bw_break>": ""
+        "<pc>は|<%sEV_FEE_ITEM>を　手に入れた！<se_nots System 7><bw_break>": "<pc> received <%sEV_FEE_ITEM>!<se_nots System 7><bw_break>"
     },
     "10": {
-        "<pc>は|<%sEV_FEE_ITEM>を　<%nEV_FEE_ITEM_N>個　手に入れた！<se_nots System 7><bw_break>": ""
+        "<pc>は|<%sEV_FEE_ITEM>を　<%nEV_FEE_ITEM_N>個　手に入れた！<se_nots System 7><bw_break>": "<pc> received <%dEV_FEE_ITEM_N> <%sEV_FEE_ITEM>!<se_nots System 7><bw_break>"
     },
     "11": {
-        "<pc>は|<%sEV_FEE_EMOTE>を　使えるようになった！<me 71><bw_break>": ""
+        "<pc>は|<%sEV_FEE_EMOTE>を　使えるようになった！<me 71><bw_break>": "<pc> can now use the <%sEV_FEE_EMOTE>|emote!<me 71><bw_break>"
     },
     "12": {
-        "<pc>は|<%sEV_FEE_ITEM>を　手に入れた！<se_nots System 7>": ""
+        "<pc>は|<%sEV_FEE_ITEM>を　手に入れた！<se_nots System 7>": "<pc> received <%sEV_FEE_ITEM>!<se_nots System 7>"
     },
     "13": {
         "<pc>は|<%sEV_FEE_ITEM>を　<%nEV_FEE_ITEM_N>個　手に入れた！<se_nots System 7>": ""
