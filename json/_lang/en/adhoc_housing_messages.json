@@ -117,10 +117,10 @@
         "ここは　他の人が　すわっているので|今は　すわれません。|空いているところで　お試しください。|<br>|満席の場合は　空くまで　お待ちください。": "There are other people sitting here, so you|can't sit down now... Please try an open|seat... If it's full, please wait until a|<br>|seat is available..."
     },
     "40": {
-        "この庭具は　他の人が　つかっています。": "This garden tool was used by someone else..."
+        "この庭具は　他の人が　つかっています。": "This is being used by someone else right now."
     },
     "41": {
-        "<%sL_FURNITURE>がある。|この庭具は　他の人が　つかっています。": "<%sL_FURNITURE>... This garden tool was used|by someone else..."
+        "<%sL_FURNITURE>がある。|この庭具は　他の人が　つかっています。": "It's a <%sL_FURNITURE>.|Someone else is using it right now."
     },
     "42": {
         "これ以上　庭具を置けません。": "I can't put any more garden tools..."
