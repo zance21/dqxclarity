@@ -156,7 +156,7 @@
         "この庭具は　他の人が　つかっています。": "This is being used by someone else right now."
     },
     "53": {
-        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "I can't put any more <%sL_FURNITURE>...<end>"
+        "<%sL_FURNITURE>は|これ以上　置けません。|<end>": "<%sL_FURNITURE> cannot be placed|any longer.|<end>"
     },
     "54": {
         "ここに　庭具は　配置できません。|庭具は　平らなところに　置きましょう。": "The garden tools can be placed here... The|garden tools can be placed on a flat|surface..."
