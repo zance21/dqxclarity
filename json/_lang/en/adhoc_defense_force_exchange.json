@@ -18,40 +18,40 @@
         "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "I'm afraid you can't equip it in your current|profession, but that doesn't bother you, does|it?<yesno><break>"
     },
     "7": {
-        "「どの装備がいいか　選んでくれ。|<break>": ""
+        "「どの装備がいいか　選んでくれ。|<break>": "Please choose the equipment you'd like.|<break>"
     },
     "8": {
         "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
     },
     "9": {
-        "「また　いつでも　来るがいい。|<end>": "I'll be back any time...<end>"
+        "「また　いつでも　来るがいい。|<end>": "Please come back anytime.|<end>"
     },
     "10": {
         "「む……。貴公の　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "I can't... I can't take your envelope. It's|full. I'll come back when I have more room.<bw_break>"
     },
     "11": {
-        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": ""
+        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": "<select_se_off>|Create Equipment|Explanation|<select_end>|<close>"
     },
     "12": {
-        "「……よし　完成した。|　受け取るがいい。|<end>": "... Okay, it's done... I'll take that...<end>"
+        "「……よし　完成した。|　受け取るがいい。|<end>": "...Okay, I've created it. Here you go.|<end>"
     },
     "13": {
-        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
+        "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Please take your <%sL_GOODS_ITEM>.|<end>"
     },
     "14": {
-        "「では　生成を開始しよう。|　しばし　待ってくれ……。|<end>": "Let's start generating... Wait a minute...<end>"
+        "「では　生成を開始しよう。|　しばし　待ってくれ……。|<end>": "I'll start the creation process.|Please wait just a moment...|<end>"
     },
     "15": {
         "「何を生成したいのだ？|<break>": "What do you want to create?|<break>"
     },
     "16": {
-        "「<%sL_GOODS_ITEM>だな。|　すまないが　何の効果がつくかは　運次第だ。|　これを生成して　かまわないか？|<yesno2><break>": "<%sL_GOODS_ITEM... I'm sorry, but we're not|gonna know what it does. Do you mind if I|generate this for you?<yesno2><break>"
+        "「<%sL_GOODS_ITEM>だな。|　すまないが　何の効果がつくかは　運次第だ。|　これを生成して　かまわないか？|<yesno2><break>": "<%sL_GOODS_ITEM>? Apologies|in advance, but its effects will be random.|Do you want me to create this?|<yesno2><break>"
     },
     "17": {
-        "「他にも　何か　生成するか？|<break>": "Do you want to create something else?<break>"
+        "「他にも　何か　生成するか？|<break>": "Do you want to create something else?|<break>"
     },
     "18": {
-        "<pipipi_off>|<pc>は|<%sM_item><%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_item><%sM_plusnum>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sM_item><%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sM_item><%sM_plusnum>!|<se_nots System 7>|<end>"
     },
     "19": {
         "「これは一回しかあげることができぬシロモノだ！|<br>|「お持ちのアイテムを|　<%sL_GOODS_ITEM>と|　交換してよろしいですか？|<yesno><break>": "This is the kind of thing you can only give|once! May I trade your item for|<%sL_GOODS_ITEM>?<yesno><break>"
@@ -72,7 +72,7 @@
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
     },
     "25": {
-        "「また　いつでも　来るがいい。|<end>": "I'll be back any time...<end>"
+        "「また　いつでも　来るがいい。|<end>": "Please come back anytime.|<end>"
     },
     "26": {
         "「ここでは　貴公の持つ　防衛メダルと素材を使い|　武器や盾などの装備品を　生成できる。|<br>|「装備品には　錬金効果がつくのだが|　これは　私にも　何がつくか　わからない。|　貴公の運次第かもしれんな。|<br>|「なお　装備品は　より強力なものが|　追加されていく予定だが　その場合でも|　以前の装備品を選ぶことは　可能である。|<bw_break>": "This is where you use your defense medals and|materials to create weapons, shields, and|other equipment. Each piece of equipment has|<br>|an alchemical effect, but I don't know what|that effect is. It may depend on your luck.|More powerful equipment will be added in the|<br>|future, but you will still be able to choose|your old equipment...<bw_break>"
@@ -123,7 +123,7 @@
         "「他にも　何か　交換するかの？|<break>": "Is there anything else you'd like to trade?<break>"
     },
     "42": {
-        "「<%sL_GOODS_ITEM>だな。|　すまないが　何の効果がつくかは　運次第だ。|　これを生成して　かまわないか？|<yesno2><break>": "<%sL_GOODS_ITEM... I'm sorry, but we're not|gonna know what it does. Do you mind if I|generate this for you?<yesno2><break>"
+        "「<%sL_GOODS_ITEM>だな。|　すまないが　何の効果がつくかは　運次第だ。|　これを生成して　かまわないか？|<yesno2><break>": "<%sL_GOODS_ITEM>? Apologies|in advance, but its effects will be random.|Do you want me to create this?|<yesno2><break>"
     },
     "43": {
         "「宝珠ポイントを　使って|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個と|　交換するが　かまわないか？|<yesno2><break>": "Would you like to exchange your Jewel Points|for <%dL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno2><break>"
@@ -138,10 +138,10 @@
         "「では　<%sL_GOODS_ITEM>を|　お受取りください。|<end>": "Now, please pick up your <%sL_GOODS_ITEM>...<end>"
     },
     "47": {
-        "「また　いつでも　来るがよい。|<end>": "I'll be back any time...<end>"
+        "「また　いつでも　来るがよい。|<end>": "Please come back anytime.|<end>"
     },
     "48": {
-        "「また　いつでも　来るがよい。|<end>": "I'll be back any time...<end>"
+        "「また　いつでも　来るがよい。|<end>": "Please come back anytime.|<end>"
     },
     "49": {
         "<pipipi_off>|<pc>は|<%sM_item>　<%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_item> <%sM_plusnum>!|<se_nots System 7>|<end>"
