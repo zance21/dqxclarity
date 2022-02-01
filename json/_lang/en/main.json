@@ -31053,7 +31053,7 @@
         "ちから+300": "Strength +300"
     },
     "10352": {
-        "ちからが|３００増える": ""
+        "ちからが|３００増える": "Strength increased by 300."
     },
     "10353": {
         "ホイミ系効果+10%": "Heal Spells +10%"
@@ -31083,28 +31083,28 @@
         "蘇生時25%で魔力かくせい": "Channel Anger On Revive 25%"
     },
     "10362": {
-        "20%ターン消費なし": ""
+        "20%ターン消費なし": "Don't Use Turn 20%"
     },
     "10363": {
         "clarity_nt_char_10363": "clarity_nt_char_10363"
     },
     "10364": {
-        "蘇生時30%でバイキルト": ""
+        "蘇生時30%でバイキルト": "Oomphle On Revive 30%"
     },
     "10365": {
         "clarity_nt_char_10365": "clarity_nt_char_10365"
     },
     "10366": {
-        "蘇生時30%で魔力かくせい": ""
+        "蘇生時30%で魔力かくせい": "Channel Anger On Revive 30%"
     },
     "10367": {
-        "蘇生時30%で聖なる祈り": ""
+        "蘇生時30%で聖なる祈り": "Care Prayer On Revive 30%"
     },
     "10368": {
         "clarity_nt_char_10368": "clarity_nt_char_10368"
     },
     "10369": {
-        "蘇生時30%で早詠みの杖": ""
+        "蘇生時30%で早詠みの杖": "Faster Caster On Revive 30%"
     },
     "10370": {
         "clarity_nt_char_10370": "clarity_nt_char_10370"
@@ -31125,22 +31125,22 @@
         "clarity_nt_char_10375": "clarity_nt_char_10375"
     },
     "10376": {
-        "蘇生時３０％で|早詠みの杖が|かかる": ""
+        "蘇生時３０％で|早詠みの杖が|かかる": "30% chance to apply|Faster Caster on a|revive."
     },
     "10377": {
         "clarity_nt_char_10377": "clarity_nt_char_10377"
     },
     "10378": {
-        "蘇生時３０％で|聖なる祈りが|かかる": ""
+        "蘇生時３０％で|聖なる祈りが|かかる": "30% chance to apply|Care Prayer on a|revive."
     },
     "10379": {
         "clarity_nt_char_10379": "clarity_nt_char_10379"
     },
     "10380": {
-        "蘇生時３０％で|魔力かくせいが|かかる": ""
+        "蘇生時３０％で|魔力かくせいが|かかる": "30% chance to apply|Channel Anger on a|revive."
     },
     "10381": {
-        "蘇生時３０％で|バイキルトが|かかる": ""
+        "蘇生時３０％で|バイキルトが|かかる": "30% chance to apply|Oomphle on a revive."
     },
     "10382": {
         "clarity_nt_char_10382": "clarity_nt_char_10382"
@@ -31419,7 +31419,7 @@
         "clarity_nt_char_10473": "clarity_nt_char_10473"
     },
     "10474": {
-        "行動間隔が|１秒短くなる": ""
+        "行動間隔が|１秒短くなる": "Action interval|shortened 1 sec."
     },
     "10475": {
         "clarity_nt_char_10475": "clarity_nt_char_10475"
