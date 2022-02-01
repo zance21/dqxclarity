@@ -42,13 +42,13 @@
         "「では　生成を開始しよう。|　しばし　待ってくれ……。|<end>": "Let's start generating... Wait a minute...<end>"
     },
     "15": {
-        "「何を生成したいのだ？|<break>": "What do you want to generate?<break>"
+        "「何を生成したいのだ？|<break>": "What do you want to create?|<break>"
     },
     "16": {
         "「<%sL_GOODS_ITEM>だな。|　すまないが　何の効果がつくかは　運次第だ。|　これを生成して　かまわないか？|<yesno2><break>": "<%sL_GOODS_ITEM... I'm sorry, but we're not|gonna know what it does. Do you mind if I|generate this for you?<yesno2><break>"
     },
     "17": {
-        "「他にも　何か　生成するか？|<break>": "Do you want to generate something else?<break>"
+        "「他にも　何か　生成するか？|<break>": "Do you want to create something else?<break>"
     },
     "18": {
         "<pipipi_off>|<pc>は|<%sM_item><%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_item><%sM_plusnum>!|<se_nots System 7>|<end>"
