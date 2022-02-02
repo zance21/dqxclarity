@@ -420,19 +420,19 @@
         "「まあ　それはさておき　<pc>。|　ブロッゲンさまの手伝い　してくれるよね！？<yesno><close>": "Well, that's beside the point.|You WILL help him, won't you,|<pc>?!<yesno><close>"
     },
     "141": {
-        "「いいえ　とか　言うなっ！！": "HOW DARE YOU REFUSE?!"
+        "「いいえ　とか　言うなっ！！": "DON'T YOU DARE REFUSE!!"
     },
     "142": {
-        "「ブロッゲンさまが　気をつかって|　ルーラストーンをくれるって言ってるんだぞ？|　手伝うに　決まってるよねっ！？<yesno><close>": "Mr. Brogen's been very thoughtful. He's|offering me a rune stone. Of course I'll help|you!<yesno><close>"
+        "「ブロッゲンさまが　気をつかって|　ルーラストーンをくれるって言ってるんだぞ？|　手伝うに　決まってるよねっ！？<yesno><close>": "Master Broggen has been so thoughtful, and|even offered you a Zoomstone! So OBVIOUSLY|you'll assist him, RIGHT?!<yesno><close>"
     },
     "143": {
-        "「ブロッゲンさまが　先に　ルーラストーンを|　くださるそうでアール！": "Mr. Brogen will give us the Rulastone first,|Earl!"
+        "「ブロッゲンさまが　先に　ルーラストーンを|　くださるそうでアール！": "Then, before anything else, master Broggen|will give you the Zoomstone!"
     },
     "144": {
-        "「ぐう　ぐう……。": "Ugh. Ugh..."
+        "「ぐう　ぐう……。": "Snrrrk, snrrrk..."
     },
     "145": {
-        "<pc>は|ルーラストーンを　手に入れた！<me 60>": "<pc> got the ruler stone!<me 60>"
+        "<pc>は|ルーラストーンを　手に入れた！<me 60>": "<pc> received a Zoomstone!<me 60>"
     },
     "146": {
         "「報酬だけもらって　逃げちゃダメだよ！|　準備を整えたら　まっすぐ|　ホッツィ親方の家まで　来てよねっ！": "Don't just take the reward and run away! When|you're ready, come straight to Mr.|Hottentotsy's house."
