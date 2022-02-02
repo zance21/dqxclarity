@@ -30,7 +30,7 @@
         "メッセージを　入力してください。|<break>": "Please enter a message.|<break>"
     },
     "11": {
-        "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。": "Decide where to put your <%sL_FURNITURE>...|You can also put <%nL_AVAILABLE_NUM> garden|tools..."
+        "<%sL_FURNITURE>を置く場所を|決めてください。|あと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。": "Please decide where to place your|<%sL_FURNITURE>. You can place|<%dL_AVAILABLE_NUM> more pieces of decor."
     },
     "12": {
         "※上と統合しました。": "On and integrated..."
@@ -99,7 +99,7 @@
         "<%sL_FURNITURE>を　かたづけた。": "<%sL_FURNITURE> was taken."
     },
     "34": {
-        "メッセージのロックを　解除しました。": "Unlock the message..."
+        "メッセージのロックを　解除しました。": "Message has been unlocked."
     },
     "35": {
         "メッセージは　これでいいですか？|<yesno><break>": "Enter this message?|<yesno><break>"
