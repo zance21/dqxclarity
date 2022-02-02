@@ -83,8 +83,12 @@ def check_blacklist(file: str):
         the_bytes = f.seek(80)  # INDX starts at 0x80
         the_bytes = f.read(64)  # get unique bytes for hex dict. 64 is arbitrary
     
+    the_bytes = split_hex_into_spaces(the_bytes.hex())
+    
     if the_bytes in indx_blacklist:
         return True
+    else:
+        return False
 
 def __find_start_of_text(file: str) -> int:
     with open(f'dqx_out/{file}', 'rb') as f:
@@ -229,6 +233,8 @@ def dump_all_game_files():
             if start_addr is not None:
                 end_addr = find_first_match(start_addr, foot_pattern)
                 if end_addr is not None:
+                    if hex_result in indx_blacklist:
+                        continue
                     bytes_to_read = end_addr - start_addr
                     if bytes_to_read < 0:
                         continue
@@ -255,14 +261,14 @@ def dump_all_game_files():
 
                     json_data_ja = json.dumps(
                         jsondata_ja,
-                        indent=2,
+                        indent=4,
                         sort_keys=False,
                         ensure_ascii=False
                     )
 
                     json_data_en = json.dumps(
                         jsondata_en,
-                        indent=2,
+                        indent=4,
                         sort_keys=False,
                         ensure_ascii=False
                     )
@@ -315,7 +321,7 @@ if __name__ == '__main__':
             length=20) as bar:
         for file in listdir('dqx_out'):
             bar()
-            if query_csv(f'dqx_out/{file}'):  # if we dumped it from memory already, don't do double work
+            if query_csv(f'dqx_out/{file}', compare_type="filename"):  # if we dumped it from memory already, don't do double work
                 continue
 
             if check_blacklist(f'dqx_out/{file}'):
@@ -347,8 +353,8 @@ if __name__ == '__main__':
                 number += 1
 
             # format to actual json
-            json_data_ja = json.dumps(jsondata_ja, indent=2, sort_keys=False, ensure_ascii=False)
-            json_data_en = json.dumps(jsondata_en, indent=2, sort_keys=False, ensure_ascii=False)
+            json_data_ja = json.dumps(jsondata_ja, indent=4, sort_keys=False, ensure_ascii=False)
+            json_data_en = json.dumps(jsondata_en, indent=4, sort_keys=False, ensure_ascii=False)
 
             # write en and ja json to file
             json_file = path.splitext(file)[0] + '.json'
