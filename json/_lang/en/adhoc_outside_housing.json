@@ -372,28 +372,28 @@
         "庭具を置く場所を決めてください。マイタウン内に|置ける庭具は　庭具倉庫と合わせて２００個です。|あと<%nL_AVAILABLE_NUM>個の庭具を　置くことができます。|<break>": "Please decide where to put the garden decor. A|My Town can have a total of 200 placed,|including storage. You can place <%dL_AVAILABLE_NUM> more.|<break>"
     },
     "125": {
-        "<speed=0><%sL_FURNITURE>は|マイタウンの　オーナーしか|配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the|owner of a My Town..."
+        "<speed=0><%sL_FURNITURE>は|マイタウンの　オーナーしか|配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the|My Town's owner."
     },
     "126": {
-        "<speed=0><%sL_FURNITURE>は|マイタウンの　オーナーしか|配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the|owner of a My Town..."
+        "<speed=0><%sL_FURNITURE>は|マイタウンの　オーナーしか|配置することができません。": "<speed=0><%sL_FURNITURE> can only be placed by the|My Town's owner."
     },
     "127": {
-        "<speed=0><%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<speed=0><%sL_FURNITURE> can only be associated with|the owner of My Town..."
+        "<speed=0><%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<speed=0><%sL_FURNITURE> can only be removed|by the My Town's owner."
     },
     "128": {
-        "<speed=0><%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<speed=0><%sL_FURNITURE> can only be associated with|the owner of My Town..."
+        "<speed=0><%sL_FURNITURE>は　|マイタウンの　オーナーしか|かたづけられません。": "<speed=0><%sL_FURNITURE> can only be removed|by the My Town's owner."
     },
     "129": {
-        "<%sL_FURNITURE>は|マイタウンに　ひとつしか　置けません。|<end>": "There can only be one <%sL_FURNITURE> in my|town...<end>"
+        "<%sL_FURNITURE>は|マイタウンに　ひとつしか　置けません。|<end>": "There can only be one <%sL_FURNITURE>|placed in a My Town.|<end>"
     },
     "130": {
-        "<%sL_FURNITURE>は|マイタウンに　ひとつしか　置けません。|<end>": "There can only be one <%sL_FURNITURE> in my|town...<end>"
+        "<%sL_FURNITURE>は|マイタウンに　ひとつしか　置けません。|<end>": "There can only be one <%sL_FURNITURE>|placed in a My Town.|<end>"
     },
     "131": {
-        "<%sL_FURNITURE>は|マイタウン以外の庭には　置けません。|<end>": "You can't put <%sL_FURNITURE> in a garden|outside of My Town...<end>"
+        "<%sL_FURNITURE>は|マイタウン以外の庭には　置けません。|<end>": "You can't place <%sL_FURNITURE>|in a non-My Town garden.|<end>"
     },
     "132": {
-        "<%sL_FURNITURE>は|マイタウン以外の庭には　置けません。|<end>": "You can't put <%sL_FURNITURE> in a garden|outside of My Town...<end>"
+        "<%sL_FURNITURE>は|マイタウン以外の庭には　置けません。|<end>": "You can't place <%sL_FURNITURE>|in a non-My Town garden.|<end>"
     },
     "133": {
         "一時預かりぶくろに入っている　中身を|全て　取り出さないと　新たに　家具・庭具を|配置することができません。": "We need to remove all the contents from the|storage closet before we can place any new|furniture or garden equipment..."
