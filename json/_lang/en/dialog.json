@@ -6951,7 +6951,7 @@
         "<color_yellow>『冥海の光玉』の　説明です！|<br>|いにしえのゼルメアで　手に入る|冥海の光玉には　さまざまな装備品が|封印されています。|<br>|いにしえのゼルメアの　出口に到達することで|封印を解いて　中に入っている装備品を|取り出すことができます。|<br>|途中で　戦いに敗れたり|探索を中断すると　冥海の光玉は|失われてしまいます。|<br>|探索中に手に入れた　冥海の光玉は|メインコマンドを開き　『冥海の光玉を見る』から|確認することができます。": "<color_yellow>This will explain \"Abyss Orbs!\"|<br>|Abyss Orbs contain various pieces of|equipment, in which you find inside Zelmea.|<br>|If you manage to reach the Zelmea's exit, you|can break the seal on the orbs and receive|the equipment contained within.|<br>|However, if you fall in battle or leave early, you will|lose all of your orbs, so be careful.|<br>|You can check the orbs you've already obtained|with the \"View Abyss Orbs\" command."
     },
     "2318": {
-        "<speed=0>この時代　この場所からは|移動することが　できないようだ。|天井の無い場所で　使ってみよう。": ""
+        "<speed=0>この時代　この場所からは|移動することが　できないようだ。|天井の無い場所で　使ってみよう。": "<speed=0>You can't move from this place in this|era. Try using this in a place with no|ceiling."
     },
     "2319": {
         "キャラクターの　「顔アクセ」の<%sM_item1>の|表示がなくなり　マイコーデの「顔コーデ」の|<%sM_item2>を　表示します。": ""
@@ -8565,7 +8565,7 @@
         "<%sL_SERVER>　<%sL_AREA>|この場所に　移動しますか？<yesno 2><close>": "<%sL_SERVER>　<%sL_AREA>|Move to this location?<yesno 2><close>"
     },
     "2856": {
-        "<speed=0>この場所からは|移動できません。|天井の無い場所で　再度お試しください。": ""
+        "<speed=0>この場所からは|移動できません。|天井の無い場所で　再度お試しください。": "<speed=0>Can't warp from this location. Please try|again from a place with no ceiling."
     },
     "2857": {
         "<speed=0>|本宅の設定をしていないため　使えません。|いずれかの家の立て札で　本宅を設定してから|再度　お試しください。": ""
