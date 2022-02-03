@@ -1,62 +1,62 @@
 {
-  "1": {
-    "未使用|<break>": ""
-  },
-  "2": {
-    "未使用|<break>": ""
-  },
-  "3": {
-    "削除予定１": ""
-  },
-  "4": {
-    "削除予定２": ""
-  },
-  "5": {
-    "未使用|<break>": ""
-  },
-  "6": {
-    "「モンスターシールは楽しめていますか？|　さて　なにか　ボクに　ご用ですか？|<break>": ""
-  },
-  "7": {
-    "未使用|<break>": ""
-  },
-  "8": {
-    "未使用|<break>": ""
-  },
-  "9": {
-    "削除予定３": ""
-  },
-  "10": {
-    "削除予定４": ""
-  },
-  "11": {
-    "<select_se_off>|シールの確認|シャレマネの情報を聞く|説明を聞く|<select_end><break>": ""
-  },
-  "12": {
-    "未使用|<break>": ""
-  },
-  "13": {
-    "削除予定|<turn end>": ""
-  },
-  "14": {
-    "未使用|<break>": ""
-  },
-  "15": {
-    "未使用|<break>": ""
-  },
-  "16": {
-    "「一度　魔力を抽出した　シャレマネからは|　当分の間　新しいシールを|　作ることが　できません。<br>|「シャレマネは　時々　ふらっと|　どこかに現れるので　独特な姿の魔物を|　見つけたら　話しかけてみるのですよ！<br>|「シール台帳に　モンスターシールを|　登録していったら　きりのいいところで|　タケ家伝来の素敵なものを　差し上げますよ。<br>|「それと　シールを持てる数は|　１種類につき　９９枚までですから|　気をつけてください。<br>|「あと　これは　ウワサなのですが|　同じ種類のシールを　たくさん集めると|　シール台帳に　何かが起こるらしいですよ。<br>|「このあたりの説明は　いつでもしますので|　シールシーカーの先輩として　どんどん|　頼ってもらえると　うれしいのですよ！|<bw_break>": ""
-  },
-  "17": {
-    "未使用|<break>": ""
-  },
-  "18": {
-    "「スゴウデの　シールシーカーさん！|　なにか　ボクに　ご用ですか？|<break>": ""
-  },
-  "19": {
-    "「レキセン　シールシーカーさん！|　なにか　ボクに　ご用ですか？|<break>": ""
-  },
-  "20": {
-    "<select_se_off>|シールの確認|シャレマネの情報を聞く|シールを像に交換する|説明を聞く|<select_end><break>": ""
-  }
+    "1": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "2": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "3": {
+        "削除予定１": ""
+    },
+    "4": {
+        "削除予定２": ""
+    },
+    "5": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "6": {
+        "「モンスターシールは楽しめていますか？|　さて　なにか　ボクに　ご用ですか？|<break>": "I hope you're enjoying your monster stickers.|Now, can I help you with something?<break>"
+    },
+    "7": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "8": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "9": {
+        "削除予定３": ""
+    },
+    "10": {
+        "削除予定４": ""
+    },
+    "11": {
+        "<select_se_off>|シールの確認|シャレマネの情報を聞く|説明を聞く|<select_end><break>": ""
+    },
+    "12": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "13": {
+        "削除予定|<turn end>": ""
+    },
+    "14": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "15": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "16": {
+        "「一度　魔力を抽出した　シャレマネからは|　当分の間　新しいシールを|　作ることが　できません。<br>|「シャレマネは　時々　ふらっと|　どこかに現れるので　独特な姿の魔物を|　見つけたら　話しかけてみるのですよ！<br>|「シール台帳に　モンスターシールを|　登録していったら　きりのいいところで|　タケ家伝来の素敵なものを　差し上げますよ。<br>|「それと　シールを持てる数は|　１種類につき　９９枚までですから|　気をつけてください。<br>|「あと　これは　ウワサなのですが|　同じ種類のシールを　たくさん集めると|　シール台帳に　何かが起こるらしいですよ。<br>|「このあたりの説明は　いつでもしますので|　シールシーカーの先輩として　どんどん|　頼ってもらえると　うれしいのですよ！|<bw_break>": "Once the magic has been extracted, Shalemane|will be able to create new seals for the time|being... Shalemane sometimes appears out of|<br>|nowhere, so if you see a monster with a|unique appearance, talk to it! As you add|monster stickers to your sticker ledger,|<br>|you'll be rewarded at the end of the day with|a beautiful one from the Bamboo family... And|be careful, you can only have 99 stickers of|<br>|each type... Also, it's rumored that if you|collect too many of the same type of sticker,|something will happen to the sticker ledger.|<br>|I'm always happy to explain these things, so|as a senior sticker seeker, you can count on|me!<bw_break>"
+    },
+    "17": {
+        "未使用|<break>": "Not used|<break>"
+    },
+    "18": {
+        "「スゴウデの　シールシーカーさん！|　なにか　ボクに　ご用ですか？|<break>": "Mr. Seal Seeker of Skulduggery! Can I help|you with something?<break>"
+    },
+    "19": {
+        "「レキセン　シールシーカーさん！|　なにか　ボクに　ご用ですか？|<break>": "Mr. Lexcen Sealseeker! What can I do for you,|sir?<break>"
+    },
+    "20": {
+        "<select_se_off>|シールの確認|シャレマネの情報を聞く|シールを像に交換する|説明を聞く|<select_end><break>": ""
+    }
 }

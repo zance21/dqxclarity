@@ -1,14 +1,14 @@
 {
-  "1": {
-    "現在のそうびを　<%sM_item>に|変更します。|よろしいですか？|<select>|着替える|着替えない|<select_end>|<close>": ""
-  },
-  "2": {
-    "着替える　水着を持っていません。": ""
-  },
-  "3": {
-    "着替える　水着を選んでください。": ""
-  },
-  "4": {
-    "からだ下の　水着を選んでください。": ""
-  }
+    "1": {
+        "現在のそうびを　<%sM_item>に|変更します。|よろしいですか？|<select>|着替える|着替えない|<select_end>|<close>": "Change current item to <%sM_item>... Are you|sure?|<select>|change one's clothes|I'm not changing|<select_end>|<close>"
+    },
+    "2": {
+        "着替える　水着を持っていません。": "I need to change. I have a bathing suit..."
+    },
+    "3": {
+        "着替える　水着を選んでください。": "Pick out a bathing suit to change into..."
+    },
+    "4": {
+        "からだ下の　水着を選んでください。": ""
+    }
 }
