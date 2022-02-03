@@ -6,11 +6,6 @@ import requests
 from alive_progress import alive_bar
 from keys import api_keys
 
-service = 'deepl'
-pro = False
-api_key = api_keys  # list of api keys
-region_code = 'en'
-
 def deepl_translate(dialog_text, is_pro, api_key, region_code):
     '''Uses DeepL Translate to translate text to the specified language.'''
     if is_pro == 'True':
@@ -48,7 +43,6 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
     Does a bunch of text sanitization to handle tags seen in DQX, as well as automatically
     splitting the text up into chunks.
     '''
-    import sys
     output = re.sub('<br>', ' ', dialog_text)
     output = re.split('(<(?!%).+?>)', output)
     final_string = ''
@@ -151,8 +145,13 @@ def read_json_file(base_filename, region_code):
 def utf8_len(a_string):
     return len(a_string.encode('utf-8'))
 
+service = 'deepl'
+pro = False
+api_key = api_keys  # list of api keys
+region_code = 'en'
+
 file_list = [
-    'adhoc_flower_garden'
+    "adhoc_carriage_dialog"
 ]
 
 for the_file in file_list:
