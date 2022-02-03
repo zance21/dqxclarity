@@ -2,7 +2,6 @@ __pycache__
 venv
 .vscode
 build
-dist
 game_file_dumps
 **/dst
 **/out
@@ -18,3 +17,4 @@ app/json/_lang
 app/bms/json
 app/bms/hex_dict.csv
 app/DQXBypass.dll
+adhoc_parser/keys.py
