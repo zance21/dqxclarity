@@ -1,0 +1,140 @@
+{
+    "1": {
+        "「ふう。ようやく　着いたね。|　……さて　聖獣ダイキリンさまは|　どこらへんに　いるのかな？": "I can't believe it. Finally, we're here...|... Now, where can I find the Holy Beast|Daquirin?"
+    },
+    "2": {
+        "「あっ！　あれっ！": "Ah! Oh, no!"
+    },
+    "3": {
+        "<if_woman>「いい？　<cs_pchero>ちゃん。|　聖獣ダイキリンさまの弱点は　ドルマよ。|　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。|　聖獣ダイキリンさまの弱点は　ドルマよ。|　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>Okay?<cs_pchero>... The Holy Beast Daquirin's weakness is...|If you use your dolma spells, you'll have a|fighting chance!<else>Okay?<cs_pchero>I'm sorry. The Holy Beast Daquirin's weakness|is... If you use your dolma spells, you'll|have a fighting chance!<endif>"
+    },
+    "4": {
+        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！|　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！|　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>They're here! Oh, please!<cs_pchero>You! Don't let him get the better of you!<else>They're here! Oh, please!<cs_pchero>You! Don't let him get the better of you!<endif>"
+    },
+    "5": {
+        "「さあ　着いたわ。|　今度こそ　聖獣ダイキリンさまを倒して|　あなたの強さを　示してちょうだい！": "Here we go... This time, you will defeat the|Holy Beast Daquirin and show us how strong|you are!"
+    },
+    "6": {
+        "<if_woman>「いい？　<cs_pchero>ちゃん。|　聖獣ダイキリンさまの弱点は　ドルマよ。|　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。|　聖獣ダイキリンさまの弱点は　ドルマよ。|　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>Okay?<cs_pchero>... The Holy Beast Daquirin's weakness is...|If you use your dolma spells, you'll have a|fighting chance!<else>Okay?<cs_pchero>I'm sorry. The Holy Beast Daquirin's weakness|is... If you use your dolma spells, you'll|have a fighting chance!<endif>"
+    },
+    "7": {
+        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！|　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！|　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>They're here! Oh, please!<cs_pchero>You! Don't let him get the better of you!<else>They're here! Oh, please!<cs_pchero>You! Don't let him get the better of you!<endif>"
+    },
+    "8": {
+        "「ふおーーーっ！　ふぉっふぉっふぉーっ！|　参ったーっ！　わしの負けじゃあーっ！": "Whoo-hoo! Whoo-hoo-hoo-hoo! I'm beat! I've|lost!"
+    },
+    "9": {
+        "「いやはや　お前さん　強いのう～。|　本気を出した　わしに勝つとは|　たいしたヤツじゃあ。": "You're so strong... To beat me when I really|put my mind to it, you're quite a guy..."
+    },
+    "10": {
+        "「して　こんな所へ　わざわざ来るとは|　わしに　聞きたいことでもあるんかあ？|　ん～？": "So, if you've come all this way, is there|something you want to ask me? Hmm?"
+    },
+    "11": {
+        "「は…はじめまして　ダイキリンさまっ！|　私　賢者のアーニアといいまして……|　話を聞かせてもらいたいのは　私なんです！": "Ha... Greetings, Daikirin! My name is Ahnir|the Wise... I'm the one who wants to talk to|you!"
+    },
+    "12": {
+        "「なぬ？　用があるのは　嬢ちゃんのほうか。|　ふ～む。お前さんみたいなのが　いったい|　この　わしに　何を聞きたいんじゃあ？": "What is it? I'm here for you, miss... ...|What in the world does someone like you want|to ask me?"
+    },
+    "13": {
+        "「えーと……　私　大賢者になりたくて|　ダイキリンさまの　お話を聞きたかったんです。|　だから　昔の呪文とか　そういうのを教えて……": "Well... I wanted to become a great sage, and|I wanted to listen to the story of Lord|Daikirin... So please teach me old spells and|<br>|such..."
+    },
+    "14": {
+        "「んん～っ！？　いやっ　待て　待て～！|　嬢ちゃんが　大賢者になる？|　確かに　そう言ったのかあ？": "Hmm~? No, no, no, no! You're going to be a|great sage? Are you sure that's what she|said?"
+    },
+    "15": {
+        "「え？　は…はい。|　大賢者になるのが　小さいころからの夢で|　幼なじみとも　約束したんです。": "What? is ..... I've been dreaming of becoming|a great sage since I was a little girl, and I|promised my childhood friend..."
+    },
+    "16": {
+        "「ふぉっふぉ……。": "Whoa, whoa, whoa..."
+    },
+    "17": {
+        "「ぶおーっ！　ふぉふぉふぉふぉ！|　ぶふぉふぉふぉふぉ！　こりゃ　ケッサク！|　嬢ちゃんが　大賢者ーっ！": "Whoo-hoo! Whoo-hoo-hoo-hoo! Whoo-hoo-hoo-hoo!|Oh, no! You are the Great Sage!"
+    },
+    "18": {
+        "「な…何が　おかしいんですか！？": "What the... What's so funny?"
+    },
+    "19": {
+        "「ぶはぁ～。いやあ　すまん。すまんのう。|　嬢ちゃん　いいかあ　よ～く聞けよぉ？": "No... No, no, no... I'm sorry... Miss, listen|to me very carefully, okay?"
+    },
+    "20": {
+        "「お前さんには　心の闇が　いっさい見えん！": "I can't see any darkness in your heart!"
+    },
+    "21": {
+        "「心を持つ者ならば　皆　大なり小なり|　闇を抱えて　生きるのが　道理じゃが……|　どういうわけか　お前さんには　それがない。": "Everyone with a heart has a darkness in them,|big or small, but... But somehow, for you..."
+    },
+    "22": {
+        "「宇宙の理。その深遠に横たわるのが　闇じゃ。|　その闇を知らずに　賢者として|　大成しようなどとは　片腹痛いわ。": "Oh, my God. And in its depths lies... If you|don't know that darkness, you can't expect to|become a wise man."
+    },
+    "23": {
+        "<if_woman>「そこの　娘っ子なら　ともかく|　嬢ちゃんは　天地が　ひっくり返っても|　大賢者なんかに　なれんて……。<else>「そこの　ボウズなら　ともかく|　嬢ちゃんは　天地が　ひっくり返っても|　大賢者なんかに　なれんて……。<endif>": "<if_woman>I don't care if it's your daughter, she's not|going to become a great sage even if the|world turns upside down.<else>I don't care if you're Bowles, you're not|going to become the Great Sage even if the|world turns upside down.<endif>"
+    },
+    "24": {
+        "「……これ以上　話すのは　無駄なようじゃのう。|　それでは　わしは　失礼させてもらうでなあ。": "I'm sorry. I'm afraid there's no point in|discussing it further. Then I'll leave you to|it."
+    },
+    "25": {
+        "「そんな……。私は　大賢者になれない……？|　シェリルも　このことを知っていて|　あのとき　あきらめろって　言ったの……？": "Oh, no... I can't be the Great Sage...? Did|Cheryl know about this too and told me to|give up back then?"
+    },
+    "26": {
+        "「私　夢を　かなえるために|　今まで　がんばってきたのに……。|　こんな……こんなことって……。": "I've worked so hard to make my dreams come|true, but... But this... This is so..."
+    },
+    "27": {
+        "<if_woman>「<cs_pchero>ちゃん……　ごめん。|　私　どうしていいか　わからないよ……。|　とりあえず　王立研究院に戻ろう？<else>「<cs_pchero>くん……　ごめん。|　私　どうしていいか　わからないよ……。|　とりあえず　王立研究院に戻ろう？<endif>": "<if_woman><cs_pchero>Chan... I don't know... I don't know what to|do... Let's just go back to the Royal|Academy, okay?<else><cs_pchero>Kun... I don't know... I don't know what to|do... Let's just go back to the Royal|Academy, okay?<endif>"
+    },
+    "28": {
+        "「きっと　シェリルも|　このことを　知ってたんだね……。|　だから　井戸で会ったとき　あんなことを……。": "I'm sure Cheryl knew about this, too. That's|why she did what she did when we met at the|well."
+    },
+    "29": {
+        "「アーニア。お前に　手紙が届いたぞ。": "Oh, my God. I got a letter for you..."
+    },
+    "30": {
+        "「シェリルからだ……。": "It's Cheryl..."
+    },
+    "31": {
+        "「シェリルから手紙？　なんだろう……？|　読んでみますね。": "A letter from Cheryl? What is it...? I'll|read it..."
+    },
+    "32": {
+        "「……親愛なる友　アーニア。|　この間は　ひどいことを言って　すまなかった。|　ああでもしないと　自分を保てなかったのだ。": "... My dear friend, A... I'm sorry I was such|a jerk to you the other day. I had to do that|to keep myself together."
+    },
+    "33": {
+        "「アーニア……。今から　３年ほど前|　賢者になる試験の直前に　お前が　かかった|　ひどい病気のことを　覚えているだろうか。": "Ahnir... You remember that terrible sickness|you had about three years ago, just before|your exam to become a sage..."
+    },
+    "34": {
+        "「あれは　病気などではない……。|　賢者を志す者の心の闇に取り憑く|　呪いだったのだ……！": "That was not a disease... It was a curse that|haunts the dark heart of those who aspire to|be wise..."
+    },
+    "35": {
+        "「あのまま放っておけば　呪いのチカラにより|　お前の心は　完全に闇に支配されただろう。": "If you had been left alone, the power of the|curse would have completely taken over your|mind..."
+    },
+    "36": {
+        "「ひとたび　そうなってしまえば|　心を乗っとられ　二度と|　自分の心を　取り戻すことはできない……。": "Once that happens, it takes over your mind,|and you never get your mind back..."
+    },
+    "37": {
+        "「……私は　お前を救いたい　一心で|　お前の中に眠る　心の闇を　奪いとり|　その呪いを　引き受けたのだ……。": "... I wanted to save you so badly that I took|away the darkness that lay dormant within you|and took on the curse..."
+    },
+    "38": {
+        "「その時点で　お前と私の　夢は断たれた……。|　お前は　大賢者に必要な闇のチカラを失い|　私は　呪いによる破滅が　運命づけられたのだ。": "At that point, your dreams and mine were cut|short. You lost the power of darkness|necessary to become the Great Sage, and I was|<br>|doomed to destruction by the curse."
+    },
+    "39": {
+        "「……これが　真実だ。|　お前に　これだけは　伝えたかった。": "... This is... I just want you to know|that..."
+    },
+    "40": {
+        "「私は　呪いもろとも　この世を去る。|　……だが　アーニア。お前だけは　生きてくれ。|　それが　私の最後の願いだから……。": "I am the curse of this world... ... But|you... You will live... Because that is my|last wish..."
+    },
+    "41": {
+        "「シェリル……。そんな…そんな………！|　あのコが　おかしくなってしまったのは|　全部　私のせいだったの……！？": "Cheryl... Oh, no... No... It's all my fault|that she's gone crazy...?"
+    },
+    "42": {
+        "「私の　呪われた心の闇を|　奪ったために……。": "For taking the darkness from my accursed|heart..."
+    },
+    "43": {
+        "「……ダメ。このまま　シェリルを|　放っておくことなんて　できない。": "..... I can't just leave Cheryl like this..."
+    },
+    "44": {
+        "「大賢者になんて　なれなくていい！|　私は　絶対に　シェリルを救う方法を|　見つけだしてみせる……！": "I don't need to be the Great Sage! I will|definitely find a way to save Cheryl..."
+    },
+    "45": {
+        "<if_woman>「ねえ　<pc>ちゃん。|　しばらくしたら　また　私に|　チカラを貸してくれない？<else>「ねえ　<pc>くん。|　しばらくしたら　また　私に|　チカラを貸してくれない？<endif>": "<if_woman>Hey<pc>   So... In a little while, you'll be able to|help me again.<else>Hey<pc> Kun. After a while, will you lend me your|help again?<endif>"
+    },
+    "46": {
+        "<if_woman>「私　死に物狂いで　がんばるから！|　準備ができたら　賢者になって　来てほしいの。|　お願いね　<pc>ちゃん！<else>「私　死に物狂いで　がんばるから！|　準備ができたら　賢者になって　来てほしいの。|　お願いね　<pc>くん！<endif>": "<if_woman>I'll do my best! I'll do my best! When you're|ready, I want you to be a wiseass and come...|Please.<pc>   Hey!<else>I'll do my best! I'll do my best! When you're|ready, I want you to be a wiseass and come...|Please.<pc> Kun!<endif>"
+    }
+}
