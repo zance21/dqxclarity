@@ -13,10 +13,6 @@ build:
 	-rmdir /s /q .\build\dqxclarity\hook_mgmt\__pycache__
 	-rmdir /s /q .\build\dqxclarity\pymem\__pycache__
 	-rmdir /s /q .\build\dqxclarity\pymem\ressources\__pycache__
-	-rmdir /s /q .\app\bms\json
-	-rmdir /s /q .\app\bms\hyde_json_merge\src
-	-rmdir /s /q .\app\bms\hyde_json_merge\dst
-	-rmdir /s /q .\app\bms\hyde_json_merge\out
 	-del /F .\build\dqxclarity\out.log
 	-del /F .\build\dqxclarity\game_text.log
 	-rd /s/q .\build\dqxclarity\new_adhoc_dumps
@@ -24,8 +20,6 @@ build:
 	-rmdir /s /q .\build\dqxclarity\game_file_dumps
 	"C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /bin "C:\Program Files\AutoHotkey\Compiler\ANSI 32-bit.bin" /in ".\build\dqxclarity\clarity.ahk" /icon "imgs/dqxclarity.ico"
 	-del /F ".\build\dqxclarity\clarity.ahk"
-	-del /F ".\build\dqxclarity\DQXBypass.dll"
-	-del /F ".\build\dqxclarity\filelookup.py"
 
 release:
 	make clean
@@ -39,10 +33,15 @@ lint:
 	pylint --rcfile=.pylintrc app/
 
 clean:
-	if exist "build\" rd /s/q "build\"
-	if exist "dist\" rd /s/q "dist\"
-	if exist "app\game_file_dumps\" rd /s/q "app\game_file_dumps\"
-	if exist "dqxclarity.zip" del /F "dqxclarity.zip"
+	-rd /s/q "build\"
+	-rd /s/q "dist\"
+	-rd /s/q "app\game_file_dumps\"
+	-del /F "dqxclarity.zip"
+	-rd /s/q "app\bms\json"
+	-rd /s/q "app\bms\hyde_json_merge\src"
+	-rd /s/q "app\bms\hyde_json_merge\dst"
+	-rd /s/q "app\bms\hyde_json_merge\out"
+	-del /F "app\bms\hex_dict.csv"
 
 run:
 	git pull origin weblate
