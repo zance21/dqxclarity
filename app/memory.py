@@ -81,7 +81,7 @@ def write_string(address: int, text: str):
     '''
     Writes a string to memory at the given address.
     '''
-    return PYM_PROCESS.write_string(address, text)
+    return PYM_PROCESS.write_string(address, text + '\x00')
 
 def pattern_scan(
     pattern: bytes, *, module: str = None, return_multiple: bool = False) -> Union[list, int]:

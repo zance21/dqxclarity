@@ -8,10 +8,14 @@ import time
 import click
 from loguru import logger
 from pymem.exception import WinAPIError
-from clarity import (translate, get_latest_from_weblate,
+from clarity import (translate,
+    get_latest_from_weblate,
     scan_for_player_names,
     scan_for_npc_names,
-    check_for_updates, scan_for_adhoc_files)
+    check_for_updates,
+    scan_for_adhoc_files,
+    scan_for_walkthrough
+)
 from hook import activate_hooks
 
 @click.command()
@@ -53,6 +57,7 @@ def blast_off(update_weblate=False,
     try:
         if communication_window:
             Process(name='Hook loader', target=activate_hooks, args=(debug,)).start()
+            Process(name='Walkthrough scanner', target=scan_for_walkthrough, args=()).start()
         if player_names:
             Process(name='Player name scanner', target=scan_for_player_names, args=()).start()
         if npc_names:

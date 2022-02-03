@@ -11,6 +11,7 @@ from signatures import (
     quest_text_trigger,
     walkthrough_text,
     cutscene_start,
+    npc_indx_load
 )
 from memory import (
     dqx_mem,
@@ -386,7 +387,7 @@ def cutscene_started_detour():
 
     return detour
 
-def load_evtx():
+def load_indx_detour():
     '''
     Detours function where EVTX files are written to memory so we can write our own copy.
     Specifically, we detour when INDX is referenced as our hex_dict has these entries.
@@ -394,14 +395,14 @@ def load_evtx():
     bytes_to_steal = 6
 
     pre_hook = write_pre_hook_registers()
-    edx = pre_hook['reg_edx']
+    ecx = pre_hook['reg_ecx']
 
-    shellcode = load_evtx_shellcode(edx)
+    shellcode = load_evtx_shellcode(ecx)
 
     detour = generic_detour(
         inspect.currentframe().f_code.co_name,
         pre_hook,
-        cutscene_trigger,
+        npc_indx_load,
         bytes_to_steal,
         shellcode=shellcode
     )
@@ -421,6 +422,7 @@ def activate_hooks(debug: bool):
     hooks.append(translate_detour(debug))
     hooks.append(cutscene_detour())
     hooks.append(quest_text_detour(debug))
+    hooks.append(load_indx_detour())
 
     # any hooks that need to perform unhooking should be defined here
     unhookers = ['cutscene_started_detour']

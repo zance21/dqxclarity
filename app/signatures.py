@@ -42,9 +42,13 @@ quest_text_trigger = rb'\x8D\x8E\x78\x04\x00\x00\xE8....\x5F'
 # BF 01 00 00 00 E9 ?? ?? ?? ?? 8D 64 24 FC 8D
 walkthrough_text = rb'\xBF\x01\x00\x00\x00\xE9....\x8D\x64\x24\xFC\x8D'
 
-# function triggered when an EVTX file is loaded into memory  // not yet implemented
-# 81 3E 45 56 54 58 74 47 8B 45 08 51 8B CC 89 01 FF 77 04 8B 47 14 51 8B CC 68
-evtx_load = rb'\x81\x3E\x45\x56\x54\x58\x74\x47\x8B\x45\x08\x51\x8B\xCC\x89\x01\xFF\x77\x04\x8B\x47\x14\x51\x8B\xCC\x68'
+# function triggered when an EVTX file is loaded into memory (mostly merchants)
+# 83 C4 08 89 47 0C 85
+npc_indx_load = rb'\x83\xC4\x08\x89\x47\x0C\x85'
+
+# function triggered when an EVTX file is loaded into memory (mostly menus)
+# 81 38 ?? ?? ?? ?? 74 48
+menu_indx_load = rb"\x81\x38....\x74\x48"
 
 # function that is triggered when a cutscene is about to occur.
 # 89 81 44 04 00 00 8B
@@ -54,14 +58,10 @@ cutscene_start = rb'\x89\x81\x44\x04\x00\x00\x8B'
 # DQX functions / addresses that will likely
 # change after each patch.
 #############################################
-# Main walkthrough text that loads on login. I can't figure out what function loads this on login,
-# so scanning for this for now. AC is also preventing this from just being accessible via hooks.
-# A0 ?? ?? ?? 00 00 00 00 04 02 00 00 10 00 00 00 E?
-walkthrough_pattern = rb'\xA0...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-
 # Byte at this address changes for loading screens only. Not able to determine if you're in a cutscene.
 # You can figure out how to get *back* to this dynamic address by BP'ing at this AOB: 
-#      C7 81 04 01 00 00 00 00 00 00
+#      C7 81 04 01 00 00 00 00 00 00 00 -- writes 00 to address
+#      C7 81 04 01 00 00 00 00 00 00 01 -- writes 01 to address
 # Read what's in [eax] and do a pointer scan against that address to get these values.
 loading_pointer = 0x01EEAA58
 loading_offsets = [0x8, 0x38, 0x4, 0x4, 0x4, 0x104]
@@ -82,6 +82,11 @@ npc_monster_byte_pattern = rb'[\x10\x04][\x82\x94]......\x90\x7B..[\xE3\xE4\xE5\
 # pattern for player names to rename.
 # 00 00 00 00 00 48 ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
 player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x08..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+
+# Main walkthrough text that loads on login. I can't figure out what function loads this on login,
+# so scanning for this for now. AC is also preventing this from just being accessible via hooks.
+# A0 ?? ?? ?? 00 00 00 00 04 02 00 00 10 00 00 00 E?
+walkthrough_pattern = rb'\xA0...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
 ########################################
 # DQX patterns of interest

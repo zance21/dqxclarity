@@ -9,7 +9,6 @@ from os.path import exists
 import langdetect
 import re
 import sqlite3
-from clarity import read_json_file
 
 
 def deepl_translate(dialog_text, is_pro, api_key, region_code):
@@ -56,7 +55,7 @@ def translate(translation_service, is_pro, dialog_text, api_key, region_code):
     elif translation_service == 'google':
         return google_translate(dialog_text, api_key, region_code)
 
-def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key, region_code, text_width=45) -> str:
+def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key, region_code, text_width=45, max_lines=None) -> str:
     '''
     Does a bunch of text sanitization to handle tags seen in DQX, as well as automatically
     splitting the text up into chunks to be fed into the in-game dialog window.
@@ -90,7 +89,7 @@ def sanitized_dialog_translate(translation_service, is_pro, dialog_text, api_key
                     translation = translation.strip()
                     translation = re.sub('   ', ' ', translation)  # translation sometimes comes back with a strange number of spaces
                     translation = re.sub('  ', ' ', translation)
-                    translation = textwrap.fill(translation, width=text_width, replace_whitespace=False)
+                    translation = textwrap.fill(translation, width=text_width, replace_whitespace=False, max_lines=max_lines)
 
                     # figure out where to put <br> to break up text
                     count = 1
@@ -336,3 +335,7 @@ def detect_lang(text: str) -> bool:
             return True
     except langdetect.lang_detect_exception.LangDetectException:  # Could not detect language
         return False
+
+def read_json_file(file):
+    with open(file, 'r', encoding='utf-8') as json_data:
+        return json.loads(json_data.read())

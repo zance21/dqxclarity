@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-Functions used by main.py to perform various actions that manipulate memory.
-'''
-
 from pathlib import Path
 import csv
 import json
@@ -18,9 +14,18 @@ import pykakasi
 from loguru import logger
 import requests
 from errors import messageBoxFatalError
+import logging
+from translate import (
+    sqlite_read,
+    sqlite_write,
+    detect_lang,
+    determine_translation_service,
+    sanitized_dialog_translate
+)
 from memory import (
     read_bytes,
     read_string,
+    write_string,
     write_bytes,
     pattern_scan,
     get_start_of_game_text,
@@ -30,7 +35,8 @@ from signatures import (
     index_pattern,
     foot_pattern,
     npc_monster_byte_pattern,
-    player_name_byte_pattern
+    player_name_byte_pattern,
+    walkthrough_pattern
 )
 
 
@@ -167,7 +173,7 @@ def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
     csv_result = query_csv(hex_result)
     if csv_result:
         file = csv_result['file']
-        if 'adhoc' in file:
+        if file:
             hex_to_write = bytes.fromhex(generate_hex(file))
             index_address = find_first_match(start_addr, index_pattern)
             if index_address:
@@ -219,45 +225,49 @@ def scan_for_npc_names():
     logger.info('Starting NPC/monster name scanning.')
 
     while True:
-        index_list = pattern_scan(pattern=npc_monster_byte_pattern, return_multiple=True)
+        try:
+            index_list = pattern_scan(pattern=npc_monster_byte_pattern, return_multiple=True)
 
-        if index_list == []:
-            continue
-
-        for address in index_list:
-            if read_bytes(address, 2) == b'\x9C\x82':  # monsters
-                data = monster_data
-                name_addr = address + 12  # jump to name
-                end_addr = address + 12
-            elif read_bytes(address, 2) == b'\x34\x94':  # npcs
-                data = npc_data
-                name_addr = address + 12  # jump to name
-                end_addr = address + 12
-            else:
+            if index_list == []:
                 continue
 
-            name_hex = bytearray()
-            result = ''
-            while result != b'\x00':
-                result = read_bytes(end_addr, 1)
-                end_addr = end_addr + 1
-                if result == b'\x00':
-                    end_addr = end_addr - 1   # Remove the last 00
+            for address in index_list:
+                if read_bytes(address, 2) == b'\x10\x82':  # monsters
+                    data = monster_data
+                    name_addr = address + 12  # jump to name
+                    end_addr = address + 12
+                elif read_bytes(address, 2) == b'\x04\x94':  # npcs
+                    data = npc_data
+                    name_addr = address + 12  # jump to name
+                    end_addr = address + 12
+                else:
+                    continue
 
-                name_hex += result
+                name_hex = bytearray()
+                result = ''
+                while result != b'\x00':
+                    result = read_bytes(end_addr, 1)
+                    end_addr = end_addr + 1
+                    if result == b'\x00':
+                        end_addr = end_addr - 1   # Remove the last 00
 
-            name_hex = name_hex.rstrip(b'\x00')
-            try:
-                name = name_hex.decode('utf-8')
-            except UnicodeDecodeError:
-                continue
-            for item in data:
-                key, value = list(data[item].items())[0]
-                if re.search(f'^{name}+$', key):
-                    if value:
-                        write_bytes(name_addr, str.encode(value) + b'\x00')
-        
-        time.sleep(.01)
+                    name_hex += result
+
+                name_hex = name_hex.rstrip(b'\x00')
+                try:
+                    name = name_hex.decode('utf-8')
+                except UnicodeDecodeError:
+                    continue
+                for item in data:
+                    key, value = list(data[item].items())[0]
+                    if re.search(f'^{name}+$', key):
+                        if value:
+                            write_bytes(name_addr, str.encode(value) + b'\x00')
+            
+            time.sleep(.01)
+        except TypeError:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
 
 def scan_for_player_names():
     '''
@@ -269,21 +279,25 @@ def scan_for_player_names():
     logger.info('Starting player name scanning.')
 
     while True:
-        player_list = pattern_scan(pattern=player_name_byte_pattern, return_multiple=True)
-        if player_list == []:
-            continue
-
-        for address in player_list:
-            player_name_address = address + 17
-            try:
-                ja_player_name = read_string(player_name_address)
-            except UnicodeDecodeError:
+        try:
+            player_list = pattern_scan(pattern=player_name_byte_pattern, return_multiple=True)
+            if player_list == []:
                 continue
 
-            romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
-            write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
-            
-        time.sleep(.01)
+            for address in player_list:
+                player_name_address = address + 17
+                try:
+                    ja_player_name = read_string(player_name_address)
+                except UnicodeDecodeError:
+                    continue
+
+                romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
+                write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+                
+            time.sleep(.01)
+        except TypeError:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
 
 def scan_for_adhoc_files():
     '''
@@ -292,34 +306,85 @@ def scan_for_adhoc_files():
     logger.info('Starting adhoc file scanning.')
 
     while True:
-        index_list = pattern_scan(pattern=index_pattern, return_multiple=True)
+        try:
+            index_list = pattern_scan(pattern=index_pattern, return_multiple=True)
 
-        for index_address in index_list:
-            if read_bytes(index_address - 2, 1) != b'\x69':
-                hex_result = split_hex_into_spaces(str(read_bytes(index_address, 64).hex()))
-                csv_result = query_csv(hex_result)
-                if csv_result:
-                    file = csv_result['file']
-                    if 'adhoc_wd_' in file:
-                        hex_to_write = bytes.fromhex(generate_hex(file))
-                        text_address = get_start_of_game_text(index_address)
-                        if text_address:
-                            try:
-                                # this just tests that we can decode what we should be writing
-                                foot_address = find_first_match(text_address, foot_pattern)
-                                game_hex = read_bytes(text_address, foot_address - text_address)
-                                game_hex.decode('utf-8')
-                            except:
-                                continue
+            for index_address in index_list:
+                if read_bytes(index_address - 2, 1) != b'\x69':
+                    hex_result = split_hex_into_spaces(str(read_bytes(index_address, 64).hex()))
+                    csv_result = query_csv(hex_result)
+                    if csv_result:
+                        file = csv_result['file']
+                        if 'adhoc_wd_' in file:
+                            hex_to_write = bytes.fromhex(generate_hex(file))
+                            text_address = get_start_of_game_text(index_address)
+                            if text_address:
+                                try:
+                                    # this just tests that we can decode what we should be writing
+                                    foot_address = find_first_match(text_address, foot_pattern)
+                                    game_hex = read_bytes(text_address, foot_address - text_address)
+                                    game_hex.decode('utf-8')
+                                except:
+                                    continue
 
-                            # with the match we found, make sure the INDX is still here before we write
-                            if split_hex_into_spaces(str(read_bytes(index_address, 64).hex())) == hex_result:
-                                write_bytes(text_address, hex_to_write)
-                                write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
-                                logger.debug(f'Wrote {file} @ {hex(index_address)}')
-        else:
-            time.sleep(.01)
-            continue
+                                # with the match we found, make sure the INDX is still here before we write
+                                if split_hex_into_spaces(str(read_bytes(index_address, 64).hex())) == hex_result:
+                                    write_bytes(text_address, hex_to_write)
+                                    write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
+                                    logger.debug(f'Wrote {file} @ {hex(index_address)}')
+            else:
+                time.sleep(.01)
+                continue
+        except:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
+
+def scan_for_walkthrough():
+    '''
+    Scans for the walkthrough address and translates when found.
+    '''
+    api_details = determine_translation_service()
+    logger.info('Starting walkthrough scanning.')
+    
+    while True:
+        try:
+            if address := pattern_scan(pattern=walkthrough_pattern):
+                prev_text = ''
+                while True:
+                        if text := read_string(address + 16):
+                            if text != prev_text:
+                                prev_text = text
+                                if detect_lang(text):
+                                    result = sqlite_read(text, 'en', 'walkthrough')
+                                    if result:
+                                        write_string(address + 16, result)
+                                    else:
+                                        translated_text = sanitized_dialog_translate(
+                                            api_details['TranslateService'],
+                                            api_details['IsPro'], 
+                                            text,
+                                            api_details['TranslateKey'],
+                                            api_details['RegionCode'],
+                                            text_width=31,
+                                            max_lines=3
+                                        )
+                                        sqlite_write(
+                                            text,
+                                            'walkthrough',
+                                            translated_text,
+                                            api_details['RegionCode']
+                                        )
+                                        write_bytes(
+                                            address + 16,
+                                            translated_text.encode() + b'\x00'
+                                        )
+                            else:
+                                time.sleep(5)
+            else:
+                time.sleep(5)
+        except:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
 
 def dump_game_file(start_addr: int, num_bytes_to_read: int):
     '''
@@ -430,6 +495,23 @@ def split_hex_into_spaces(hex_str: str):
     '''
     spaced_str = " ".join(hex_str[i:i+2] for i in range(0, len(hex_str), 2))
     return spaced_str.upper()
+
+def setup_logger(name, log_file, func_name, level=logging.INFO):
+    '''
+    Sets up a logger for hook shellcode.
+    '''
+    formatter = logging.Formatter(f'%(asctime)s [{func_name}] >> %(message)s')
+    handler = logging.FileHandler(log_file, encoding='utf-8')
+    handler.setFormatter(formatter)
+
+    logger = logging.getLogger(name)
+    if (logger.hasHandlers()):
+        logger.handlers.clear()
+
+    logger.setLevel(level)
+    logger.addHandler(handler)
+
+    return logger
 
 def delete_folder(folder):
     '''Deletes a folder and all subfolders.'''
