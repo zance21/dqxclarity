@@ -19,7 +19,6 @@ def walkthrough_shellcode(
 
     shellcode = fr"""
 import sys
-import os
 from traceback import format_exc
 from os import chdir
 
@@ -32,7 +31,7 @@ sys.path = local_paths
 chdir(working_dir)
 
 try:
-    import logging
+    from clarity import setup_logger
     from hook import unpack_to_int
     from memory import (
         write_bytes,
@@ -44,24 +43,8 @@ try:
         detect_lang
     )
 
-    def setup_logger(name, log_file, level=logging.INFO):
-        formatter = logging.Formatter('%(asctime)s %(message)s')
-        handler = logging.FileHandler(log_file, encoding='utf-8')
-        handler.setFormatter(formatter)
-
-        logger = logging.getLogger(name)
-        if (logger.hasHandlers()):
-            logger.handlers.clear()
-
-        logger.setLevel(level)
-        logger.addHandler(handler)
-
-        return logger
-
-    logger = setup_logger('out', 'out.log')
-    if debug:
-        logger.setLevel(logging.DEBUG)
-    game_text_logger = setup_logger('gametext', 'game_text.log')
+    logger = setup_logger('out', 'out.log', 'walkthrough')
+    game_text_logger = setup_logger('gametext', 'game_text.log', 'game_text')
 
     walkthrough_addr = unpack_to_int({esi_address})[0]
     walkthrough_str = read_string(walkthrough_addr)
@@ -71,14 +54,12 @@ try:
         result = sqlite_read(walkthrough_str, '{api_region}', 'walkthrough')
 
         if result is not None:
-            logger.debug('found database entry. no translation needed')
+            logger.debug('Found database entry. No translation was needed.')
             write_bytes(walkthrough_addr, result.encode() + b'\x00')
         else:
-            logger.debug('translation needed. sending to {api_service}')
+            logger.debug('Translation is needed for ' + str(len(walkthrough_str)) + ' characters. Sending to {api_service}')
             translated_text = sanitized_dialog_translate('{api_service}', '{api_pro}', walkthrough_str, '{api_key}', '{api_region}', text_width=31)
-            logger.debug(translated_text)
             sqlite_write(walkthrough_str, 'walkthrough', translated_text, '{api_region}')
-            logger.debug('database record inserted.')
             write_bytes(walkthrough_addr, translated_text.encode() + b'\x00')
 except:
     with open('out.log', 'a+') as f:

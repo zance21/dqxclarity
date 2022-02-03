@@ -32,8 +32,8 @@ sys.path = local_paths
 chdir(working_dir)
 
 try:
-    import logging
     from hook import unpack_to_int
+    from clarity import setup_logger
     from memory import (
         write_bytes,
         read_string)
@@ -44,27 +44,10 @@ try:
         quest_translate
     )
 
-    def setup_logger(name, log_file, level=logging.INFO):
-        formatter = logging.Formatter('%(asctime)s %(message)s')
-        handler = logging.FileHandler(log_file, encoding='utf-8')
-        handler.setFormatter(formatter)
-
-        logger = logging.getLogger(name)
-        if (logger.hasHandlers()):
-            logger.handlers.clear()
-
-        logger.setLevel(level)
-        logger.addHandler(handler)
-
-        return logger
-
-    logger = setup_logger('out', 'out.log')
-    if debug:
-        logger.setLevel(logging.DEBUG)
-    game_text_logger = setup_logger('gametext', 'game_text.log')
+    logger = setup_logger('out', 'out.log', 'quest')
+    game_text_logger = setup_logger('gametext', 'game_text.log', 'game_text')
 
     quest_file = 'adhoc_wd_quests_requests'
-
     quest_addr = unpack_to_int({eax_address})[0]
 
     subquest_name_addr = quest_addr + 20
@@ -74,15 +57,10 @@ try:
     quest_repeat_rewards_addr = quest_addr + 744
 
     subquest_name_ja = read_string(subquest_name_addr)
-    logger.debug('Subquest: ' + str(subquest_name_ja))
     quest_name_ja = read_string(quest_name_addr)
-    logger.debug('Quest Name: ' + str(quest_name_ja))
     quest_desc_ja = read_string(quest_desc_addr)
-    logger.debug('Quest Description: ' + str(quest_desc_ja))
     quest_rewards_ja = read_string(quest_rewards_addr)
-    logger.debug('Quest Rewards: ' + str(quest_rewards_ja))
     quest_repeat_rewards_ja = read_string(quest_repeat_rewards_addr)
-    logger.debug('Quest Repeat Rewards: ' + str(quest_repeat_rewards_ja))
 
     if detect_lang(quest_desc_ja):
         if subquest_name_ja:
@@ -92,6 +70,7 @@ try:
         if quest_name_ja:
             quest_name_en = query_string_from_file(quest_name_ja, quest_file)
             if quest_name_en:
+                logger.info('Found quest address @ ' + str(hex(quest_name_addr)))
                 write_bytes(quest_name_addr, str.encode(quest_name_en) + b'\x00')
         if quest_rewards_ja:
             quest_rewards_en = clean_up_and_return_items(quest_rewards_ja)
