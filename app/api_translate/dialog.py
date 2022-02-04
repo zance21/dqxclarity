@@ -2,6 +2,7 @@ import sys
 import os
 from json import dumps
 
+
 def translate_shellcode(
     eax_address: int,
     ebx_address: int,
@@ -10,14 +11,15 @@ def translate_shellcode(
     api_pro: str,
     api_logging: str,
     api_region: str,
-    debug: bool) -> str:
-    '''
+    debug: bool,
+) -> str:
+    """
     Returns shellcode for the translate function hook.
     eax_address: Where text can be modified to be fed to the screen
     ebx_address: NPC name
-    '''
-    local_paths = dumps(sys.path).replace('\\', '\\\\')
-    working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
+    """
+    local_paths = dumps(sys.path).replace("\\", "\\\\")
+    working_dir = dumps(os.getcwd()).replace("\\", "\\\\")
 
     shellcode = fr"""
 import sys
@@ -104,14 +106,14 @@ except:
 
     return str(shellcode)
 
-def load_evtx_shellcode(
-    ecx_address: int) -> str:
-    '''
+
+def load_evtx_shellcode(ecx_address: int) -> str:
+    """
     Returns shellcode for the evtx load hook.
     ecx_address: Address where INDX starts
-    '''
-    local_paths = dumps(sys.path).replace('\\', '\\\\')
-    working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
+    """
+    local_paths = dumps(sys.path).replace("\\", "\\\\")
+    working_dir = dumps(os.getcwd()).replace("\\", "\\\\")
 
     shellcode = fr"""
 import sys

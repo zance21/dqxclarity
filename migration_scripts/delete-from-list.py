@@ -6,7 +6,7 @@ files = [
 ]
 
 for file in files:
-    if os.path.exists(f'json/_lang/en/{file}'):
-        os.remove(f'json/_lang/en/{file}')
-    if os.path.exists(f'json/_lang/ja/{file}'):
-        os.remove(f'json/_lang/ja/{file}')
+    if os.path.exists(f"json/_lang/en/{file}"):
+        os.remove(f"json/_lang/en/{file}")
+    if os.path.exists(f"json/_lang/ja/{file}"):
+        os.remove(f"json/_lang/ja/{file}")
