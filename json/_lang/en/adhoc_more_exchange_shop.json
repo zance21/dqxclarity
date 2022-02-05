@@ -3705,10 +3705,10 @@
         "<select_se_off>|交換する|説明を聞く|<select_end>|<break>": "<select_se_off>|Exchange|Explanation|<select_end>|<break>"
     },
     "1236": {
-        "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
+        "「では　受け取るがよい。|<end>": "Okay, please take it.|<end>"
     },
     "1237": {
-        "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
+        "「では　受け取るがよい。|<end>": "Okay, please take it.|<end>"
     },
     "1238": {
         "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -3717,7 +3717,7 @@
         "「さて　何を望む？|　どれも　今では　手に入らぬものばかりだぞ。|<break>": "What do you want now? Well, there's a lot of|things you can't get now.<break>"
     },
     "1240": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts|for the <%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "1241": {
         "<pipipi_on>|「ほかに　望むものはあるか？|<break>": "<pipipi_on>Is there anything else you want?<break>"

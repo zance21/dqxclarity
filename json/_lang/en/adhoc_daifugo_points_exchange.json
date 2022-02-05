@@ -30,7 +30,7 @@
         "「<%sL_ITEM>が　<%dL_NUM>個で|　トランプポイント　<%dL_POINT> Pだ。|　交換してもいいかい？|<yesno><break>": "<%sL_ITEM> for <%dL_NUM> playing card points|<%dL_POINT>... Can I trade you?<yesno><break>"
     },
     "11": {
-        "「じゃあ　受け取ってくれ。": "Okay, I'll take that..."
+        "「じゃあ　受け取ってくれ。": "Please take this."
     },
     "12": {
         "<pipipi_off>|トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！|<se_nots System 7>|<end>": "<pipipi_off>I got <%dL_ITEM> with my trump point|<%dL_POINT> P!|<se_nots System 7>|<end>"

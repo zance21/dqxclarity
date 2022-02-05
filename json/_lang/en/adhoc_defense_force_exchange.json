@@ -210,7 +210,7 @@
         "「交換する　お品モノの|　カテゴリは　どちらになりますか。|<bw_break>": "Which is the category of the item you're|exchanging...<bw_break>"
     },
     "71": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts|for the <%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "72": {
         "「さて　何を望む？|　どれも　今しか　手に入らないものばかりだぞ。|<break>": "Well then, which would you like? These are the|items I'm carrying now.|<break>"
@@ -219,7 +219,7 @@
         "<pipipi_on>|「ほかに　望むものはあるか？|<break>": "<pipipi_on>Is there anything else you want?<break>"
     },
     "74": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts|for the <%sL_GOODS_ITEM>?<yesno 2><break>"
     },
     "75": {
         "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？|<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts|for <%dL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno 2><break>"
@@ -231,7 +231,7 @@
         "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
     },
     "78": {
-        "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
+        "「では　受け取るがよい。|<end>": "Okay, please take it.|<end>"
     },
     "79": {
         "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The Champion Hearts you have earned are only|accepted here. In time, they will fade away.|<br>|I'll continue my journey to learn more. I|hope we may cross paths again.|<turn_end>"
