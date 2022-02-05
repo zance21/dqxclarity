@@ -27654,7 +27654,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ヘヴィチャージの効果が きえた！": ""
     },
     "9219": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 早詠みの杖の効果が きえた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 早詠みの杖の効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Faster Caster effect faded!"
     },
     "9220": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 神の息吹が とけた！": ""
