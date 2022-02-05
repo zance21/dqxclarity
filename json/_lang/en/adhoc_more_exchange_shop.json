@@ -3696,7 +3696,7 @@
         "「<%sL_GOODS_ITEM>は|　そなたの性別では　装備できぬようだが|　それでも　かまわんか？|<yesno 2><break>": "It appears that <%sL_GOODS_ITEM> cannot be|equipped for your gender, is that okay with|you?<yesno 2><break>"
     },
     "1233": {
-        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The Champion Hearts you have earned are only|accepted here. In time, they will fade away.|<br>|I'll continue my journey to learn more. I|hope we may cross paths again.|<turn_end>"
     },
     "1234": {
         "「ふむ？　そなた　そうびぶくろが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? There's too many of those bags for you|to take...<bw_break>"
@@ -3750,7 +3750,7 @@
         "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "My apologies. We're in the process of|preparing this, so please wait just a|little longer.|<bw_break>"
     },
     "1251": {
-        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The Champion Hearts you have earned are only|accepted here. In time, they will fade away.|<br>|I'll continue my journey to learn more. I|hope we may cross paths again.|<turn_end>"
     },
     "1252": {
         "「そなたが　この地の修練に挑めば|　修練を極め　覇者たる道を歩んだ証|　覇者の心が　手に入る。|<br>|「覇者の心と　引き換えで|　この修練の地で　かつて得られていたが|　今では手に入らなくなった報酬を　ゆずろう。|<bw_break>": "If you challenge the disciplines of this|place, you will receive the heart of a|champion, a sign that you have mastered your|<br>|craft and walked the path of supremacy. In|exchange for the heart of a champion, you|will receive a reward that was once yours,|<br>|but is no longer available to you.<bw_break>"

@@ -63,13 +63,13 @@
         "<pipipi_off>|<pc>は　<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
     },
     "22": {
-        "「む……。貴公の　どうぐかばんが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "No... Your kit's full. I can't take it. I'll|make room and come back...<bw_break>"
+        "「む……。貴公の　どうぐかばんが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "Mm... your item bag is full, so I can't give|this to you. Make some room and come back.|<bw_break>"
     },
     "23": {
-        "「<%sL_GOODS_ITEM>を　生成するには|　必要なものが　足りないようだな。|<bw_break>": "We're missing something we need to generate|<%sL_GOODS_ITEM>...<bw_break>"
+        "「<%sL_GOODS_ITEM>を　生成するには|　必要なものが　足りないようだな。|<bw_break>": "You don't have all of the items needed to|create the <%sL_GOODS_ITEM>.|<bw_break>"
     },
     "24": {
-        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "I'm sorry... We're in the process of|preparing it, so please wait a little|longer...<bw_break>"
+        "「申し訳ありません。|　ただ今　準備中なので|　もうしばらくお待ちください。|<bw_break>": "My apologies. We're in the process of|preparing this, so please wait just a|little longer.|<bw_break>"
     },
     "25": {
         "「また　いつでも　来るがいい。|<end>": "Please come back anytime.|<end>"
@@ -147,19 +147,19 @@
         "<pipipi_off>|<pc>は|<%sM_item>　<%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_item> <%sM_plusnum>!|<se_nots System 7>|<end>"
     },
     "50": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%nL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "51": {
-        "「む……。貴公の　どうぐかばんが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "No... Your kit's full. I can't take it. I'll|make room and come back...<bw_break>"
+        "「む……。貴公の　どうぐかばんが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "Mm... your item bag is full, so I can't give|this to you. Make some room and come back.|<bw_break>"
     },
     "52": {
         "「む……。おぬしの　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがよい。|<bw_break>": "Mm... your bag is full, so I can't give this|to you. Make some room and come back.|<bw_break>"
     },
     "53": {
-        "「<%sL_GOODS_ITEM>と　交換するには|　宝珠ポイントが　足りないようだな。|<bw_break>": "You don't have enough jewel points to trade|for <%sL_GOODS_ITEM>...<bw_break>"
+        "「<%sL_GOODS_ITEM>と　交換するには|　宝珠ポイントが　足りないようだな。|<bw_break>": "You don't have enough Jewel Points for the|<%sL_GOODS_ITEM>.<bw_break>"
     },
     "54": {
-        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped for your|gender, is that correct?<yesno 2><break>"
+        "「<%sL_GOODS_ITEM>は|　あなたの性別では|　装備できませんが　よろしいですか？|<yesno 2><break>": "<%sL_GOODS_ITEM> cannot be equipped by|your gender. Is that all right?|<yesno 2><break>"
     },
     "55": {
         "「今の職業では　装備できないようだが|　それでも　かまわないか？|<yesno><break>": "I'm afraid you can't equip it in your current|profession, but that doesn't bother you, does|it?<yesno><break>"
