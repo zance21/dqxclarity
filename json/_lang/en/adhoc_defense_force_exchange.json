@@ -153,7 +153,7 @@
         "「む……。貴公の　どうぐかばんが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "No... Your kit's full. I can't take it. I'll|make room and come back...<bw_break>"
     },
     "52": {
-        "「む……。おぬしの　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがよい。|<bw_break>": "No... I can't take your bag, it's full...|I'll come back later and make room...<bw_break>"
+        "「む……。おぬしの　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがよい。|<bw_break>": "Mm... your bag is full, so I can't give this|to you. Make some room and come back.|<bw_break>"
     },
     "53": {
         "「<%sL_GOODS_ITEM>と　交換するには|　宝珠ポイントが　足りないようだな。|<bw_break>": "You don't have enough jewel points to trade|for <%sL_GOODS_ITEM>...<bw_break>"
@@ -234,22 +234,22 @@
         "「では　受け取るがよい。|<end>": "Okay, I'll take that...<end>"
     },
     "79": {
-        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The Champion Hearts you have earned are only|accepted here. In time, they will fade away.|<br>|I'll continue my journey to learn more. I|hope we may cross paths again.|<turn_end>"
     },
     "80": {
-        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The champion's heart you have won here is|only good for this place. In time, it will be|lost. I will continue my quest to learn. And|<br>|perhaps we will meet again somewhere in the|future.<turn_end>"
+        "「そなたが　ここで手に入れた　覇者の心は|　今　この場所でしか　有効ではないものだ。|　時が来れば　失われてしまうぞ。|<br>|「わしは　修練を求め　旅を続けている。|　そなたとは　また　どこかで会うかもしれんな。|<turn_end>": "The Champion Hearts you have earned are only|accepted here. In time, they will fade away.|<br>|I'll continue my journey to learn more. I|hope we may cross paths again.|<turn_end>"
     },
     "81": {
-        "<pipipi_off>|<pc>は|<%sM_item>　<%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sM_item> <%sM_plusnum>!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sM_item>　<%sM_plusnum>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%sM_item> <%sM_plusnum>!|<se_nots System 7>|<end>"
     },
     "82": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%nL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "83": {
-        "「ふむ？　そなた　どうぐかばんが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? Your bag is full. You can't take it...<bw_break>"
+        "「ふむ？　そなた　どうぐかばんが|　いっぱいで　受け取れぬようだぞ。|<bw_break>": "Hmm? It seems your bag is full, so I can't|give this to you.<bw_break>"
     },
     "84": {
-        "「む……。おぬしの　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがよい。|<bw_break>": "No... I can't take your bag, it's full...|I'll come back later and make room...<bw_break>"
+        "「む……。おぬしの　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがよい。|<bw_break>": "Mm... your bag is full, so I can't give this|to you. Make some room and come back.|<bw_break>"
     },
     "85": {
         "「<%sL_GOODS_ITEM>を　交換するには|　必要なものが　足りないようだな。|<bw_break>": "I don't think I have what it takes to replace|<%sL_GOODS_ITEM>...<bw_break>"
