@@ -222,7 +222,7 @@
         "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> in exchange for|<%nL_KOUKAN_NUM> hearts of champions?<yesno 2><break>"
     },
     "75": {
-        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？|<yesno 2><break>": "You want <%sL_GOODS_ITEM> <%nL_GET_NUM>|pieces in exchange for <%nL_KOUKAN_NUM>|pieces of the Champion's Heart?<yesno 2><break>"
+        "「覇者の心　<%nL_KOUKAN_NUM>個と引き換えに|　<%sL_GOODS_ITEM>　<%nL_GET_NUM>個を望むのだな？|<yesno 2><break>": "You'd like to exchange <%dL_KOUKAN_NUM> Champion Hearts|for <%dL_GET_NUM> <%sL_GOODS_ITEM>?|<yesno 2><break>"
     },
     "76": {
         "「用意するので　お待ちください。|<bw_break>": "I'll have it ready for you in just a moment.<bw_break>"
@@ -390,10 +390,10 @@
         "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "131": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "132": {
-        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc>  got <%sL_GOODS_ITEM> <%dL_GET_NUM> pieces!|<se_nots System 7>|<end>"
+        "<pipipi_off>|<pc>は|<%sL_GOODS_ITEM>　<%dL_GET_NUM>個を|手に入れた！|<se_nots System 7>|<end>": "<pipipi_off>|<pc> received <%dL_GET_NUM> <%sL_GOODS_ITEM>!|<se_nots System 7>|<end>"
     },
     "133": {
         "「あら……？　どうぐかばんが　いっぱいで|　受け取れないようですね。|<bw_break>": "Oh, no... I can't seem to get it. My bag is|full.<bw_break>"
