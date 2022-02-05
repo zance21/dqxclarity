@@ -25560,7 +25560,7 @@
         "clarity_nt_char_8520": "clarity_nt_char_8520"
     },
     "8521": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 呪文をかきけす スペルガード！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに 呪文をかきけす スペルガード！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e blocked a spell with Spell Guard!"
     },
     "8522": {
         "clarity_nt_char_8522": "clarity_nt_char_8522"
@@ -28365,7 +28365,7 @@
         "clarity_nt_char_9455": "clarity_nt_char_9455"
     },
     "9456": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スペルガードが きえた。": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの スペルガードが きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Spell Guard faded."
     },
     "9457": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 火の紋章が きえた。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Fire Crest faded."
@@ -30048,7 +30048,7 @@
         "clarity_nt_char_10016": "clarity_nt_char_10016"
     },
     "10017": {
-        "スペルガードが|かかった！": ""
+        "スペルガードが|かかった！": "Gained Spell Guard!"
     },
     "10018": {
         "火の紋章を|つくりだした！": "Created a|Fire Crest!"
@@ -32550,7 +32550,7 @@
         "clarity_nt_char_10850": "clarity_nt_char_10850"
     },
     "10851": {
-        "スペルガードがきえた": ""
+        "スペルガードがきえた": "Spell Guard faded."
     },
     "10852": {
         "clarity_nt_char_10852": "clarity_nt_char_10852"
