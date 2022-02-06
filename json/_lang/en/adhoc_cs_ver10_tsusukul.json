@@ -9,7 +9,7 @@
         "「今日は　この学問の村　ツスクルが誇る|　若き天才　<pc>が……": "Today, the young genius,|<pc>, the pride of this academic|village of Tsusukul, was..."
     },
     "4": {
-        "「長年　待ち望まれた　古代呪文を|　復活させるかもしれないのですよ？": "Perhaps the long-awaited spell of old could|have been revived?"
+        "「長年　待ち望まれた　古代呪文を|　復活させるかもしれないのですよ？": "What if the long-awaited spell of old could|have been revived?"
     },
     "5": {
         "「滅びた呪文の復活は　今まで|　誰も成功させることが　できなかった|　とても　むずかしいこと。": "Restoring a lost spell is an extremely|difficult task that no one has ever been able|to pull off before."
@@ -30,13 +30,13 @@
         "「こ　これは……。": "Th-this is..."
     },
     "11": {
-        "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Just a little more...<else>Just a little more...<endif>"
+        "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Just a bit longer...<else>Almost there...<endif>"
     },
     "12": {
-        "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this ancient spell is revived, the land of|Eltona will not be in danger of being|destroyed..."
+        "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this ancient spell is revived, there'll be|no need to worry about the land of Eltona's|destruction any longer..."
     },
     "13": {
-        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>I can't!<else>Oh, shit!<endif>"
+        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh no!<else>No!<endif>"
     },
     "14": {
         "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<pc> Sama~! Teach me a little more about|studying~!"
