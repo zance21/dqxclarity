@@ -36,16 +36,16 @@
         "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this ancient spell is revived, there'll be|no need to worry about the land of Eltona's|destruction any longer..."
     },
     "13": {
-        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh no!<else>No!<endif>"
+        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh dear!<else>No!<endif>"
     },
     "14": {
-        "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<pc> Sama~! Teach me a little more about|studying~!"
+        "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<if_woman>Ms.<else>Mr.<endif> <pc>～～!!|Come help me study～～～!!"
     },
     "15": {
-        "「<pc>さまっ！？": "<pc> What the hell?"
+        "「<pc>さまっ！？": "<pc>?!"
     },
     "16": {
-        "「こ　こういうときは　ええと……": "In a situation like this, it's, uh"
+        "「こ　こういうときは　ええと……": "I-in this situation, I'm supposed to, uh..."
     },
     "17": {
         "「心臓……　停止……？": "Heart... Stop...?"
