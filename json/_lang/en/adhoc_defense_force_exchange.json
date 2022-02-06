@@ -30,7 +30,7 @@
         "「む……。貴公の　そうびぶくろが|　いっぱいで　受け取れないようだ。|　空きを作ってから　また来るがいい。|<bw_break>": "I can't... I can't take your envelope. It's|full. I'll come back when I have more room.<bw_break>"
     },
     "11": {
-        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": ""
+        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": "<select_se_off>|Create Equipment|Explanation|<select_end>|<close>"
     },
     "12": {
         "「……よし　完成した。|　受け取るがいい。|<end>": "...Okay, I've created it. Here you go.|<end>"
@@ -108,7 +108,7 @@
         "「他に　何か　用はあるか？|<break>": "Is there anything else I can do for you?<break>"
     },
     "37": {
-        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": ""
+        "<select_se_off>|装備を生成する|説明を聞く|<select_end>|<close>": "<select_se_off>|Create Equipment|Explanation|<select_end>|<close>"
     },
     "38": {
         "「まず　装備レベルを選んでくれ。|　貴公の選んだ　装備レベルの装備が|　生成されるからな。|<break>": "First, you choose your equipment level. The|equipment of your chosen level will be|generated.<break>"
