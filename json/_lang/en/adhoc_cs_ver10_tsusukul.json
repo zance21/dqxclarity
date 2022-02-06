@@ -33,7 +33,7 @@
         "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Just a bit longer...<else>Almost there...<endif>"
     },
     "12": {
-        "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this ancient spell is revived, there'll be|no need to worry about the land of Eltona's|destruction any longer..."
+        "「この古代呪文が　復活すれば|　エルトナの大地が　滅ぶ心配はなくなる……。": "If this spell is revived, there'll be no need|to worry about the land of Eltona's|destruction any longer..."
     },
     "13": {
         "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh dear!<else>No!<endif>"
