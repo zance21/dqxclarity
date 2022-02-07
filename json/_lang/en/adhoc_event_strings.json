@@ -1,53 +1,53 @@
 {
-  "1": {
-    "季節イベント": ""
-  },
-  "2": {
-    "clarity_nt_char_2": "clarity_nt_char_2"
-  },
-  "3": {
-    "クエスト": ""
-  },
-  "4": {
-    "clarity_nt_char_4": "clarity_nt_char_4"
-  },
-  "5": {
-    "イベント": ""
-  },
-  "6": {
-    "clarity_nt_char_6": "clarity_nt_char_6"
-  },
-  "7": {
-    "ストーリー": ""
-  },
-  "8": {
-    "限定イベント": ""
-  },
-  "9": {
-    "clarity_nt_char_9": "clarity_nt_char_9"
-  },
-  "10": {
-    "きせついべ": ""
-  },
-  "11": {
-    "げんていいべ": ""
-  },
-  "12": {
-    "clarity_nt_char_12": "clarity_nt_char_12"
-  },
-  "13": {
-    "いべんと": ""
-  },
-  "14": {
-    "clarity_nt_char_14": "clarity_nt_char_14"
-  },
-  "15": {
-    "くえすと": ""
-  },
-  "16": {
-    "clarity_nt_char_16": "clarity_nt_char_16"
-  },
-  "17": {
-    "すとり": ""
-  }
+    "1": {
+        "季節イベント": "Seasonal Events"
+    },
+    "2": {
+        "clarity_nt_char_2": "clarity_nt_char_2"
+    },
+    "3": {
+        "クエスト": "quest"
+    },
+    "4": {
+        "clarity_nt_char_4": "clarity_nt_char_4"
+    },
+    "5": {
+        "イベント": "Events"
+    },
+    "6": {
+        "clarity_nt_char_6": "clarity_nt_char_6"
+    },
+    "7": {
+        "ストーリー": "story"
+    },
+    "8": {
+        "限定イベント": "Limited Event"
+    },
+    "9": {
+        "clarity_nt_char_9": "clarity_nt_char_9"
+    },
+    "10": {
+        "きせついべ": "joint boarding"
+    },
+    "11": {
+        "げんていいべ": ""
+    },
+    "12": {
+        "clarity_nt_char_12": "clarity_nt_char_12"
+    },
+    "13": {
+        "いべんと": "hectoring"
+    },
+    "14": {
+        "clarity_nt_char_14": "clarity_nt_char_14"
+    },
+    "15": {
+        "くえすと": "house guest"
+    },
+    "16": {
+        "clarity_nt_char_16": "clarity_nt_char_16"
+    },
+    "17": {
+        "すとり": ""
+    }
 }

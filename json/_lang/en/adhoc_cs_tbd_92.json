@@ -1,158 +1,158 @@
 {
-  "1": {
-    "<pc>の　持っている|『超天遊戯－死の書－』が　光り始めた！": ""
-  },
-  "2": {
-    "白紙だったページに　文字が浮かびあがってくる。|<pc>とヤーンは　その文字を読んだ。": ""
-  },
-  "3": {
-    "修行も今回で　最後になるからの……。|これで終わりでは　ないぞ。": ""
-  },
-  "4": {
-    "ガタラ原野のどこかにある　グルグ地下道。|その奥の部屋の床に　魔獣の左角と|魔獣の右角を　突きたてるのじゃ。": ""
-  },
-  "5": {
-    "そこで　おぬしは　命をかけることになる。|不退転の決意で　この修行を果たせ。|途中で　投げだすことは許さぬ。": ""
-  },
-  "6": {
-    "「いよいよ　来たな～。|　ドワーフの国の　ガタラ原野にある洞くつが|　最後の修行の舞台に　なるみたいだぜ～。": ""
-  },
-  "7": {
-    "「そんじゃ～　はりきって|　修行を　果たしにいくとしようか～。|　もちろん　オレも　つきあうからさ～。": ""
-  },
-  "8": {
-    "「命をかけろって　言ってるくらいだからな～。|　何が起こるか　わからねえぜ？|　準備は　しっかりとしていけよ～。": ""
-  },
-  "9": {
-    "「安心しろって～！！　なんたって|　今回は　このオレが　ついてるからな～！": ""
-  },
-  "10": {
-    "「ここの床に　魔獣の左角と　魔獣の右角を|　突きたてれば　いいんだな～。": ""
-  },
-  "11": {
-    "「何が起こるか　お楽しみだな。|　よし　<cs_pchero>　始めるか～？<yesno><close>": ""
-  },
-  "12": {
-    "「おいおい。ビビッたのか？|　オレが　ついてるって言っただろ。|　いいから　さっさと　やれって～！<yesno><close>": ""
-  },
-  "13": {
-    "<cs_pchero>は　魔獣の左角と　魔獣の右角を|ふたつとも　床に突きたてた……。": ""
-  },
-  "14": {
-    "「ズギャアアアァァァッ！！": ""
-  },
-  "15": {
-    "「出やがった　出やがった～！|　コイツを倒せってことのようだぜ。": ""
-  },
-  "16": {
-    "「お～っと。アンタが倒さないと|　修行失敗ってことも　ありえるな～。": ""
-  },
-  "17": {
-    "「お手並み拝見と　いかせてもらうぜ。|　がんばってくれよ　<cs_pchero>～！": ""
-  },
-  "18": {
-    "「グリュウウ……！": ""
-  },
-  "19": {
-    "「<cs_pchero>　今度はイケるよな？|　アイツは　ヤル気マンマンみたいだぜ～。": ""
-  },
-  "20": {
-    "「ズッギャァァァン！！": ""
-  },
-  "21": {
-    "「やるじゃねえか～。ここまでの修行を|　こなしてきたチカラは　ダテじゃね～な。": ""
-  },
-  "22": {
-    "「これで　超天道士の名は|　アンタに継がれた……のか？|　死ぬ心配は　なくなったはずだよな～？": ""
-  },
-  "23": {
-    "「おいおい　<cs_pchero>。|　アンタ　手を抜いたんじゃね～だろうな？": ""
-  },
-  "24": {
-    "「あ～あ。結局　オレが　やっちまったか。|　<cs_pchero>　平気か～？|　死にそうだったり　しね～よな？": ""
-  },
-  "25": {
-    "「ギャリギャリギャリ……。": ""
-  },
-  "26": {
-    "「バカな？": ""
-  },
-  "27": {
-    "「コイツは　不死身の魔物なのか！|　だとしたら　コレは……マジでヤバいか？": ""
-  },
-  "28": {
-    "「その魔物は　強烈なショック状態に|　おとさないかぎり　倒すことはできないと|　超天道士様に　聞いたことがありますよ。": ""
-  },
-  "29": {
-    "「そういうことかよ……。": ""
-  },
-  "30": {
-    "「なんとかしないと　<cs_pchero>殿は|　本当に　死んでしまうかもしれませんね。": ""
-  },
-  "31": {
-    "「ガウラド～。お前　あの技がなきゃ|　コイツを倒せないのを　知ってたんだな。|　じ～さんの　仕込みってわけか？": ""
-  },
-  "32": {
-    "「はあ～。あの技は使いたくないのによ……。|　なによりも　じ～さんの思うツボってのが　|　気に入らね～んだが　しかたね～なあ。": ""
-  },
-  "33": {
-    "「それなら　食らえよ！|　超天道士直伝の必殺技！！": ""
-  },
-  "34": {
-    "「喝！！": ""
-  },
-  "35": {
-    "<cs_pchero>の　持っている|『超天遊戯－死の書－』が　光り始めた！": ""
-  },
-  "36": {
-    "「……よくぞ　最後の修行を果たした。|　ワシが残せるものは　これで　すべてじゃ。": ""
-  },
-  "37": {
-    "「超天道士の名は　おぬしが受け継ぐがいい。|　その技と心　そして教えと共に。": ""
-  },
-  "38": {
-    "「新たな超天道士の誕生と　新たな伝説の始まりを|　ワシは　あの世から見守るとしよう……か。|　じ～さん　死ぬことが　わかってたんだな……。": ""
-  },
-  "39": {
-    "「おみごとです　ヤーン様！": ""
-  },
-  "40": {
-    "「これで　あなたは|　名実ともに　超天道士の名を|　その身に　受け継いだのです！！": ""
-  },
-  "41": {
-    "「お前　もしかして　オレをハメたのか？|　<cs_pchero>が死ぬって話も|　ウソだったんじゃ　ね～だろうな？": ""
-  },
-  "42": {
-    "「人聞きが悪いですよ　ヤーン様。|　武闘家たる者　死の危険は|　いつ　いかなるときも　そばにあるのです。": ""
-  },
-  "43": {
-    "「やっちまったものは　しかたないな……。|　超天道士の名。もらうだけ　もらっとくよ。": ""
-  },
-  "44": {
-    "「<cs_pchero>に　超天道士の名を|　継いでもらおうって　オレの作戦は失敗だ。|　死の書は　このまま返してもらうぜ。": ""
-  },
-  "45": {
-    "<cs_pchero>は　ヤーンに|超天遊戯－死の書－を　返した。": ""
-  },
-  "46": {
-    "「オレのわがままで　アンタを|　つきあわせちまって　悪かったな～。": ""
-  },
-  "47": {
-    "「おわびと言っちゃ～アレだが|　さっきの技を　アンタにも　教えてやるよ。|　武闘家の必殺技　一喝っていうんだ。": ""
-  },
-  "48": {
-    "<cs_pchero>は　ヤーンの言葉に|耳をかたむけた……。": ""
-  },
-  "49": {
-    "「たいしたものじゃないが　コレを|　アンタに　贈らせてもらおう。": ""
-  },
-  "50": {
-    "「なあ～　今度　オレと勝負してくれよ。|　アンタとだったら　きっと|　いい闘いが　できると思うぜ～。": ""
-  },
-  "51": {
-    "「オレも　準備に取りかかるからさ～。|　武闘家になって　また　オレんとこへ来てくれ。|　それじゃ　またな　<cs_pchero>～。": ""
-  },
-  "52": {
-    "「ついに超天道士の復活が　なされた！|　どれだけ　この時を待ったのか……。": ""
-  }
+    "1": {
+        "<pc>の　持っている|『超天遊戯－死の書－』が　光り始めた！": "<pc> I'm sure you're not the only one."
+    },
+    "2": {
+        "白紙だったページに　文字が浮かびあがってくる。|<pc>とヤーンは　その文字を読んだ。": "The text appeared on a blank page...<pc> And Jahn said that the letters..."
+    },
+    "3": {
+        "修行も今回で　最後になるからの……。|これで終わりでは　ないぞ。": "This is the last of my training... This is|not the end..."
+    },
+    "4": {
+        "ガタラ原野のどこかにある　グルグ地下道。|その奥の部屋の床に　魔獣の左角と|魔獣の右角を　突きたてるのじゃ。": "Somewhere in the wilds of Gathara... In the|back room, on the floor, there's a|hexenbiest's left horn and a hexenbiest's|<br>|right horn..."
+    },
+    "5": {
+        "そこで　おぬしは　命をかけることになる。|不退転の決意で　この修行を果たせ。|途中で　投げだすことは許さぬ。": "So you will risk your life... You are|determined to do this. You can't just give|up..."
+    },
+    "6": {
+        "「いよいよ　来たな～。|　ドワーフの国の　ガタラ原野にある洞くつが|　最後の修行の舞台に　なるみたいだぜ～。": "Finally... It seems that a cave in the Gatara|Fields of Dwarf Country will be the setting|for the final training..."
+    },
+    "7": {
+        "「そんじゃ～　はりきって|　修行を　果たしにいくとしようか～。|　もちろん　オレも　つきあうからさ～。": "Well then, I'll go and fulfill my training...|Of course I'll go with you..."
+    },
+    "8": {
+        "「命をかけろって　言ってるくらいだからな～。|　何が起こるか　わからねえぜ？|　準備は　しっかりとしていけよ～。": "I'm talking about risking your life. You|never know what's gonna happen. We have to be|ready..."
+    },
+    "9": {
+        "「安心しろって～！！　なんたって|　今回は　このオレが　ついてるからな～！": "Don't worry~! I've got your back this time,|after all!"
+    },
+    "10": {
+        "「ここの床に　魔獣の左角と　魔獣の右角を|　突きたてれば　いいんだな～。": ""
+    },
+    "11": {
+        "「何が起こるか　お楽しみだな。|　よし　<cs_pchero>　始めるか～？<yesno><close>": "Let's see what happens... Okay, okay.<cs_pchero>Shall we begin?<yesno><close>"
+    },
+    "12": {
+        "「おいおい。ビビッたのか？|　オレが　ついてるって言っただろ。|　いいから　さっさと　やれって～！<yesno><close>": "Oh... You scared, huh? I told you I was with|you... Just get on with it!<yesno><close>"
+    },
+    "13": {
+        "<cs_pchero>は　魔獣の左角と　魔獣の右角を|ふたつとも　床に突きたてた……。": "<cs_pchero>A hexenbiest's left horn and a hexenbiest's|right horn both sticking out of the floor..."
+    },
+    "14": {
+        "「ズギャアアアァァァッ！！": "Zgaaaaah!"
+    },
+    "15": {
+        "「出やがった　出やがった～！|　コイツを倒せってことのようだぜ。": "He's out! He's out! I'm supposed to defeat|this thing..."
+    },
+    "16": {
+        "「お～っと。アンタが倒さないと|　修行失敗ってことも　ありえるな～。": "Oh... If you don't defeat him, he could fail|his training..."
+    },
+    "17": {
+        "「お手並み拝見と　いかせてもらうぜ。|　がんばってくれよ　<cs_pchero>～！": "Let me see what I can do. Good luck with|that.<cs_pchero>~!"
+    },
+    "18": {
+        "「グリュウウ……！": "Gryuuu...!"
+    },
+    "19": {
+        "「<cs_pchero>　今度はイケるよな？|　アイツは　ヤル気マンマンみたいだぜ～。": "<cs_pchero>You're gonna get it this time, right? He|looks like he's ready to go."
+    },
+    "20": {
+        "「ズッギャァァァン！！": "Zzzzzzzzzzzzz!"
+    },
+    "21": {
+        "「やるじゃねえか～。ここまでの修行を|　こなしてきたチカラは　ダテじゃね～な。": "You're good... You've been through so much|training, you've got the strength..."
+    },
+    "22": {
+        "「これで　超天道士の名は|　アンタに継がれた……のか？|　死ぬ心配は　なくなったはずだよな～？": "Now the name of the supernaturalist has been|passed on to you. Is that so? You don't have|to worry about dying, do you?"
+    },
+    "23": {
+        "「おいおい　<cs_pchero>。|　アンタ　手を抜いたんじゃね～だろうな？": "Whoa, whoa, whoa<cs_pchero>I'm sorry. You didn't cut corners, did you?"
+    },
+    "24": {
+        "「あ～あ。結局　オレが　やっちまったか。|　<cs_pchero>　平気か～？|　死にそうだったり　しね～よな？": "I... After all, I did it.<cs_pchero>Are you okay? You're not going to die, are|you?"
+    },
+    "25": {
+        "「ギャリギャリギャリ……。": "Gali gali gali..."
+    },
+    "26": {
+        "「バカな？": "Are you nuts?"
+    },
+    "27": {
+        "「コイツは　不死身の魔物なのか！|　だとしたら　コレは……マジでヤバいか？": "Is this thing an immortal demon? If so, then|this is... Is it really that bad?"
+    },
+    "28": {
+        "「その魔物は　強烈なショック状態に|　おとさないかぎり　倒すことはできないと|　超天道士様に　聞いたことがありますよ。": "I've heard from a supernaturalist that you|can't defeat a demon unless you put it into a|state of intense shock..."
+    },
+    "29": {
+        "「そういうことかよ……。": "That's what I'm talking about..."
+    },
+    "30": {
+        "「なんとかしないと　<cs_pchero>殿は|　本当に　死んでしまうかもしれませんね。": "We have to do something<cs_pchero>He might actually die..."
+    },
+    "31": {
+        "「ガウラド～。お前　あの技がなきゃ|　コイツを倒せないのを　知ってたんだな。|　じ～さんの　仕込みってわけか？": "Gau... You knew you couldn't defeat him|without that move... Is that what grandpa|made you do?"
+    },
+    "32": {
+        "「はあ～。あの技は使いたくないのによ……。|　なによりも　じ～さんの思うツボってのが　|　気に入らね～んだが　しかたね～なあ。": "... I don't want to use that technique... I|don't like the fact that I'm doing what my|father wants me to do, but I can't help it."
+    },
+    "33": {
+        "「それなら　食らえよ！|　超天道士直伝の必殺技！！": "Then take it! A special move straight from|the supertendents!"
+    },
+    "34": {
+        "「喝！！": "Blackmail!"
+    },
+    "35": {
+        "<cs_pchero>の　持っている|『超天遊戯－死の書－』が　光り始めた！": "<cs_pchero>I'm sure you're not the only one."
+    },
+    "36": {
+        "「……よくぞ　最後の修行を果たした。|　ワシが残せるものは　これで　すべてじゃ。": "... I'm so proud of you for completing your|final training... This is all I have left."
+    },
+    "37": {
+        "「超天道士の名は　おぬしが受け継ぐがいい。|　その技と心　そして教えと共に。": "You will inherit the name of the supernatural|mage. His skills, his mind, and his|teachings..."
+    },
+    "38": {
+        "「新たな超天道士の誕生と　新たな伝説の始まりを|　ワシは　あの世から見守るとしよう……か。|　じ～さん　死ぬことが　わかってたんだな……。": "I will watch the birth of a new|supernaturalist and the beginning of a new|legend from the afterlife. .... You knew you|<br>|were going to die, didn't you, old man?"
+    },
+    "39": {
+        "「おみごとです　ヤーン様！": "Well done, Master Jarn!"
+    },
+    "40": {
+        "「これで　あなたは|　名実ともに　超天道士の名を|　その身に　受け継いだのです！！": "You have now inherited the name of the|supernaturalist in both name and reality!"
+    },
+    "41": {
+        "「お前　もしかして　オレをハメたのか？|　<cs_pchero>が死ぬって話も|　ウソだったんじゃ　ね～だろうな？": "Did you, by any chance, set me up?<cs_pchero>I hope you weren't lying when you told me|that you were going to die."
+    },
+    "42": {
+        "「人聞きが悪いですよ　ヤーン様。|　武闘家たる者　死の危険は|　いつ　いかなるときも　そばにあるのです。": "I'm sorry to hear that. As a martial artist,|the threat of death is always and always|near..."
+    },
+    "43": {
+        "「やっちまったものは　しかたないな……。|　超天道士の名。もらうだけ　もらっとくよ。": "I can't help what I've done... Super|Tendou... I'll just take what I can get..."
+    },
+    "44": {
+        "「<cs_pchero>に　超天道士の名を|　継いでもらおうって　オレの作戦は失敗だ。|　死の書は　このまま返してもらうぜ。": "<cs_pchero>My plan is to have him take over the name of|the supernaturalist. If I return the Book of|the Dead as is..."
+    },
+    "45": {
+        "<cs_pchero>は　ヤーンに|超天遊戯－死の書－を　返した。": "<cs_pchero>I'm going to ask Jahn for the Book of the|Dead."
+    },
+    "46": {
+        "「オレのわがままで　アンタを|　つきあわせちまって　悪かったな～。": "I'm sorry I got you into this mess because I|was selfish..."
+    },
+    "47": {
+        "「おわびと言っちゃ～アレだが|　さっきの技を　アンタにも　教えてやるよ。|　武闘家の必殺技　一喝っていうんだ。": "As an apology, I'd like to share with you a|technique I just learned. The martial|artist's special move. It's called blackmail."
+    },
+    "48": {
+        "<cs_pchero>は　ヤーンの言葉に|耳をかたむけた……。": "<cs_pchero>He listened to Jahn's words..."
+    },
+    "49": {
+        "「たいしたものじゃないが　コレを|　アンタに　贈らせてもらおう。": "I know it's not much, but if I could give it|to you..."
+    },
+    "50": {
+        "「なあ～　今度　オレと勝負してくれよ。|　アンタとだったら　きっと|　いい闘いが　できると思うぜ～。": "You know, next time you want to fight me...|I'm sure we'll have a good fight..."
+    },
+    "51": {
+        "「オレも　準備に取りかかるからさ～。|　武闘家になって　また　オレんとこへ来てくれ。|　それじゃ　またな　<cs_pchero>～。": "I'll get ready. Become a martial artist and|come back to me. I'll see you later.<cs_pchero>~."
+    },
+    "52": {
+        "「ついに超天道士の復活が　なされた！|　どれだけ　この時を待ったのか……。": "At long last, the supernatural beings have|been resurrected! I don't know how long I've|waited for this..."
+    }
 }

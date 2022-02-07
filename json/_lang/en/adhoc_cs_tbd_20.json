@@ -1,275 +1,275 @@
 {
-  "1": {
-    "「……おばあちゃん？|　いったい　どうしたんです？": ""
-  },
-  "2": {
-    "「いいか　若いの？|　こたびの戦い　必ず　仲間の魔物とともに|　敵を倒してくるのだぞ。": ""
-  },
-  "3": {
-    "「おばあちゃん？　どうして……。|　ファーベルの命が　かかってるんですよ？|　今は　そんなこと言ってる場合じゃ……。": ""
-  },
-  "4": {
-    "「クラハさん。アンタは　だまってな。|　これはね　まもの使いの戦いなのさ。": ""
-  },
-  "5": {
-    "「すみません……　おばあちゃん。|　私なんかが　出過ぎたことを|　言ってしまって……。": ""
-  },
-  "6": {
-    "「それでは　<pc>さん。|　お手数ですが　魔物商人の所へ乗り込む時は|　必ず　仲間の魔物を連れていってください。": ""
-  },
-  "7": {
-    "「ファーベルのこと……|　くれぐれも　よろしくお願いしますね。": ""
-  },
-  "8": {
-    "「……キッズに　何するつもりだッ！": ""
-  },
-  "9": {
-    "「思いのほか　早く　かぎつけられちまったな。|　まあいい。こいつが変わっていく様を|　元飼い主に見せつけるのも　一興だろう。": ""
-  },
-  "10": {
-    "「変わっていく……？": ""
-  },
-  "11": {
-    "「キッズは　ただのドラゴンキッズじゃない。|　絶滅寸前の超希少な魔物……|　ゴールデンキングリザードの子供さ。": ""
-  },
-  "12": {
-    "「オレが作った　このクスリを使えば|　みるみるうちに成長し　そして|　オレの言いなりとなる最強の兵器と化す！": ""
-  },
-  "13": {
-    "「それで　キッズに|　レンドアを襲わせるのか……。": ""
-  },
-  "14": {
-    "「ああ　そうだ！　レンドア島壊滅は|　いわば　デモンストレーション！": ""
-  },
-  "15": {
-    "「これが成功すれば　魔物のチカラを求める|　裏社会の要人たちから　引く手あまた！|　我ら魔物商人は　巨万の富を得る！": ""
-  },
-  "16": {
-    "「ゆるせねえ……。|　魔物たちを　そんなふうに扱いやがって……。": ""
-  },
-  "17": {
-    "「ふっ。魔物は　元々　人間の敵でしかない存在。|　その魔物に　新たな価値を見出してやったことを|　ほめてほしいくらいだがな。": ""
-  },
-  "18": {
-    "「さあ　おしゃべりは終わりだ。|　そろそろ　ショーを始めようじゃないか。": ""
-  },
-  "19": {
-    "「じゃあな　キッズ……。": ""
-  },
-  "20": {
-    "「ガ…ギャギャガ……グァアアア……！": ""
-  },
-  "21": {
-    "「キッズーーーーーッ！！": ""
-  },
-  "22": {
-    "「グウォォォォオオオオ！！": ""
-  },
-  "23": {
-    "「美しい……。|　これが　ゴールデンキングリザード……。": ""
-  },
-  "24": {
-    "「お前らの好きにはさせねえ……。|　オレとキッズの絆……　取り戻してみせる！": ""
-  },
-  "25": {
-    "「うらぁぁぁぁぁ！！": ""
-  },
-  "26": {
-    "「ぐぁっ！！": ""
-  },
-  "27": {
-    "「ハーッハッハッハ！！　バカか！|　お前みたいなハンパ者が　この最強の魔物を|　手なずけられるワケが　なかろう！": ""
-  },
-  "28": {
-    "「……おや？": ""
-  },
-  "29": {
-    "「お前は　たしか　<cs_pchero>と言ったな。|　さしずめ　オレたちのレンドア島壊滅作戦を|　ぶち壊しにきたってところか。": ""
-  },
-  "30": {
-    "「残念だが　この通り　キッズは変身を果たした。|　部下たちも　今頃　商品ナンバー１３を放ち|　レンドア島急襲を開始していることだろう。": ""
-  },
-  "31": {
-    "「だが　せっかく　ここまで来たのだ！|　生まれ変わったキッズが　どれほどの実力を|　秘めているか　身をもって教えてやろう！！": ""
-  },
-  "32": {
-    "「いくぞぉぉぉ　まもの使い！！": ""
-  },
-  "33": {
-    "「こっけいだな　ファーベル。|　飼い犬……　いや　飼い魔物に|　手をかまれた気分は　どうだ？": ""
-  },
-  "34": {
-    "「こりずに　また来たのか　<cs_pchero>。|　圧倒的な実力差を　見せつけられても|　引き下がらないとは　愚かなヤツだ。": ""
-  },
-  "35": {
-    "「まあいい。レンドア島に乗り込む前に|　もう少し　ゴールデンキングリザードに|　準備運動をさせてやるとするか。": ""
-  },
-  "36": {
-    "「いくぞぉぉぉ　まもの使い！！": ""
-  },
-  "37": {
-    "「クッ。ゴールデンキングリザードが|　やられた……だと……？": ""
-  },
-  "38": {
-    "「<cs_pchero>さん！": ""
-  },
-  "39": {
-    "「ごめんなさい　こんな所まで。|　どうしても　ファーベルが心配で……": ""
-  },
-  "40": {
-    "「ああっ　ファーベルッ！！": ""
-  },
-  "41": {
-    "「あの目の色……。|　まさか　あれが　キッズなんですか……？|　なんてこと……。": ""
-  },
-  "42": {
-    "「おお！　なんという　生命力……。|　いけえぇっ　ゴールデンキングリザード！|　ここにいるヤツらを　皆殺しにしろ！": ""
-  },
-  "43": {
-    "「今のキッズは　単なる破壊の化身……。|　このまま　放っておけば|　たくさんの人が犠牲になるでしょう。": ""
-  },
-  "44": {
-    "「<cs_pchero>さん……　後生です。|　キッズを……楽にしてあげてください。": ""
-  },
-  "45": {
-    "「待って。母さん……。": ""
-  },
-  "46": {
-    "「ファーベル……？": ""
-  },
-  "47": {
-    "「オレと……": ""
-  },
-  "48": {
-    "「オレと　キッズの絆……": ""
-  },
-  "49": {
-    "「絶対に……取り戻してみせる……。": ""
-  },
-  "50": {
-    "「うおおおおおおぉぉぉぉぉぉ！！！": ""
-  },
-  "51": {
-    "「テキスト削除": ""
-  },
-  "52": {
-    "「ふふふ。|　あなたたちって　本当に　仲がいいのね。|　まるで　兄弟みたい。": ""
-  },
-  "53": {
-    "「あったりまえだろ！|　キッズとオレは　ずーっと　ずぅぅっと……": ""
-  },
-  "54": {
-    "「ずぅぅーーーーっと　一緒なんだからな！！": ""
-  },
-  "55": {
-    "「ウソ……だろ…………。": ""
-  },
-  "56": {
-    "「はは……。|　キッズが……キッズが　元に戻ったぞ！！|　やった　やった……やったーーー！！": ""
-  },
-  "57": {
-    "「チッ。ここは　ひとまず　退却か……。": ""
-  },
-  "58": {
-    "「うわぁぁぁぁッ！！": ""
-  },
-  "59": {
-    "「お　おばあちゃん！？": ""
-  },
-  "60": {
-    "「逃がさんぞ　この悪党め。|　魔物たちを好き勝手に　もてあそんだ罪|　たっぷり　つぐなわしてやる。": ""
-  },
-  "61": {
-    "「心配せんでも　お前さんの手下どもは|　もう　ふんじばって　レンドアに届けてきたわ。|　一緒に　地獄を見てきな。": ""
-  },
-  "62": {
-    "「ファーベル　それから　そこの若いの。": ""
-  },
-  "63": {
-    "「まもの使いの強さは　魔物との絆の強さ。|　……忘れるんじゃないよ　ふたりとも。": ""
-  },
-  "64": {
-    "「ファーベルッ！！": ""
-  },
-  "65": {
-    "「まったく　あなたって子はっ|　私が　どれだけ　心配したと……": ""
-  },
-  "66": {
-    "「ゴメン。": ""
-  },
-  "67": {
-    "「今までずっと　心配させて　ゴメン。|　オレ　ようやく　心が決まったよ。": ""
-  },
-  "68": {
-    "「オレ　なるよ。|　<cs_pchero>さんや　父さんみたいな|　かっこいい　まもの使いになる。": ""
-  },
-  "69": {
-    "「ファーベル…………。": ""
-  },
-  "70": {
-    "「ホントにもう　あなたって子は……。": ""
-  },
-  "71": {
-    "「へへ。母さん　こんなだし|　オレが　家まで送ってくよ。": ""
-  },
-  "72": {
-    "「……<cs_pchero>さん　今まで　ありがとう。|　アンタが　魔物との絆を教えてくれたから|　オレ　最後まで　踏ん張れたんだと思う……。": ""
-  },
-  "73": {
-    "「いつか　<cs_pchero>さんに　負けないくらい|　強い　まもの使いになってみせるから|　そん時は　お互いの魔物で　勝負しようぜ！": ""
-  },
-  "74": {
-    "「じゃあな　<cs_pchero>さん！|　オレは　先に行ってるよ！": ""
-  },
-  "75": {
-    "「先ほどは　なんだか　お恥ずかしいところを|　お見せして　申し訳ありませんでした。|　無事　戻ってこられたので　ご安心ください。": ""
-  },
-  "76": {
-    "「それでですね　<pc>さん……。|　こちらに戻ってくるなり　シガール様から|　一通　手紙が届いたのです。読みますね。": ""
-  },
-  "77": {
-    "「……ミセス・クラハ　そして　まもの使い。|　我が愛するレンドアを　魔物商人の魔の手より|　救ってくれたこと　心より　感謝申し上げる。": ""
-  },
-  "78": {
-    "「私は　まもの使いという職業に　海よりも深い|　感銘を受けた。この誇り高い職業の素晴らしさを|　世界中に　紹介していくことに尽力したい。": ""
-  },
-  "79": {
-    "「我がレンドアは　定期船と鉄道駅を有し|　多くの人々が行き交う　世界の交差路……。": ""
-  },
-  "80": {
-    "「貴君らの　かがやかしい功績は|　またたく間に　世界へと広まっていくであろう。|　　　　　　　　　　港町レンドア町長　シガール": ""
-  },
-  "81": {
-    "「……ついに　かなったんです。|　私と……夫の夢が。": ""
-  },
-  "82": {
-    "「ファーベルも　この手紙を読むと|　自分のことのように　よろこんでくれました。": ""
-  },
-  "83": {
-    "「今度は　自分が　夢をかなえる番だと言って|　キッズと　修業の旅に出てしまいましたが……。|　ホント　単純ですよね　あの子ったら。": ""
-  },
-  "84": {
-    "「<pc>さん……。私たちが|　ここまで来られたのは　あなたのおかげです。|　本当に　ありがとうございました。": ""
-  },
-  "85": {
-    "「あのきびしい　おばあちゃんも|　あなたのことを　一人前だと認め|　プレゼントを　用意してくださいました。": ""
-  },
-  "86": {
-    "「これは　真の　まもの使いが持つ|　まもの使いの証。シガール様からの報酬と|　一緒に　こちらを受け取ってください。": ""
-  },
-  "87": {
-    "「シガール様からの報酬と　一緒に|　どうか　こちらを受け取ってください。": ""
-  },
-  "88": {
-    "「……じつは　ここに　もうひとつ|　まもの使いの証があります。": ""
-  },
-  "89": {
-    "「これは　夫の　まもの使いの証。|　夫は　これをにぎりしめて　倒れていました。": ""
-  },
-  "90": {
-    "「いつか　ファーベルが　一人前の|　まもの使いになったら　渡してくれ……。|　私には　そう言ってるような気がしたのです。": ""
-  },
-  "91": {
-    "「次の　私の夢は　これをファーベルに渡すこと。|　<pc>さん　応援していてくださいね！": ""
-  }
+    "1": {
+        "「……おばあちゃん？|　いったい　どうしたんです？": "... Grandma? What's the matter with you?"
+    },
+    "2": {
+        "「いいか　若いの？|　こたびの戦い　必ず　仲間の魔物とともに|　敵を倒してくるのだぞ。": "Are you ready, young man? I'm going to fight|this war, and I'm going to defeat the enemy|with my fellow demons..."
+    },
+    "3": {
+        "「おばあちゃん？　どうして……。|　ファーベルの命が　かかってるんですよ？|　今は　そんなこと言ってる場合じゃ……。": "Grandma? Why are you... Fafner's life is at|stake. This is not the time..."
+    },
+    "4": {
+        "「クラハさん。アンタは　だまってな。|　これはね　まもの使いの戦いなのさ。": "Cla... You're not... This is a battle of|wizards..."
+    },
+    "5": {
+        "「すみません……　おばあちゃん。|　私なんかが　出過ぎたことを|　言ってしまって……。": "I'm sorry... Grandmother... I'm sorry I said|something so out of line..."
+    },
+    "6": {
+        "「それでは　<pc>さん。|　お手数ですが　魔物商人の所へ乗り込む時は|　必ず　仲間の魔物を連れていってください。": "In that case<pc> I'm sorry. I'm sorry to bother you, but when|you go to a demon merchant, be sure to take a|fellow demon with you..."
+    },
+    "7": {
+        "「ファーベルのこと……|　くれぐれも　よろしくお願いしますね。": "Fabel... Please take care of her for me."
+    },
+    "8": {
+        "「……キッズに　何するつもりだッ！": "... What are you doing to the kid?"
+    },
+    "9": {
+        "「思いのほか　早く　かぎつけられちまったな。|　まあいい。こいつが変わっていく様を|　元飼い主に見せつけるのも　一興だろう。": "They got to me faster than I thought. Yeah...|It'll be fun to show his former owner how|he's changing..."
+    },
+    "10": {
+        "「変わっていく……？": "It's changing...?"
+    },
+    "11": {
+        "「キッズは　ただのドラゴンキッズじゃない。|　絶滅寸前の超希少な魔物……|　ゴールデンキングリザードの子供さ。": "Kids are just dragon kids... A very rare and|nearly extinct demon... The Golden King|Lizard..."
+    },
+    "12": {
+        "「オレが作った　このクスリを使えば|　みるみるうちに成長し　そして|　オレの言いなりとなる最強の兵器と化す！": "If you use this drug I've created, you'll|grow up quickly and become the most powerful|weapon at my mercy!"
+    },
+    "13": {
+        "「それで　キッズに|　レンドアを襲わせるのか……。": "So you want the kids to attack Rendeau..."
+    },
+    "14": {
+        "「ああ　そうだ！　レンドア島壊滅は|　いわば　デモンストレーション！": "Oh, yes! The destruction of Lendoa Island was|a demonstration."
+    },
+    "15": {
+        "「これが成功すれば　魔物のチカラを求める|　裏社会の要人たちから　引く手あまた！|　我ら魔物商人は　巨万の富を得る！": ""
+    },
+    "16": {
+        "「ゆるせねえ……。|　魔物たちを　そんなふうに扱いやがって……。": "That's unforgivable... Treating those demons|like that..."
+    },
+    "17": {
+        "「ふっ。魔物は　元々　人間の敵でしかない存在。|　その魔物に　新たな価値を見出してやったことを|　ほめてほしいくらいだがな。": "Huh. Demons were originally just enemies of|humans... I just want to praise you for|giving it new value..."
+    },
+    "18": {
+        "「さあ　おしゃべりは終わりだ。|　そろそろ　ショーを始めようじゃないか。": "Now that we're done talking... Let's get this|show on the road..."
+    },
+    "19": {
+        "「じゃあな　キッズ……。": "Bye, kids..."
+    },
+    "20": {
+        "「ガ…ギャギャガ……グァアアア……！": "Gaga... Gaga... Gaaaah...!"
+    },
+    "21": {
+        "「キッズーーーーーッ！！": "Kids!"
+    },
+    "22": {
+        "「グウォォォォオオオオ！！": "Gwowowowow!"
+    },
+    "23": {
+        "「美しい……。|　これが　ゴールデンキングリザード……。": "Beautiful... This is the Golden King|Lizard..."
+    },
+    "24": {
+        "「お前らの好きにはさせねえ……。|　オレとキッズの絆……　取り戻してみせる！": "I'm not going to let you do this to me. The|bond between me and the kids... I'm gonna get|it back!"
+    },
+    "25": {
+        "「うらぁぁぁぁぁ！！": "Uraaah!"
+    },
+    "26": {
+        "「ぐぁっ！！": "Aah!"
+    },
+    "27": {
+        "「ハーッハッハッハ！！　バカか！|　お前みたいなハンパ者が　この最強の魔物を|　手なずけられるワケが　なかろう！": "Ha-ha-ha! You idiot! I'm not going to let you|get away with this!"
+    },
+    "28": {
+        "「……おや？": "... Hmm?"
+    },
+    "29": {
+        "「お前は　たしか　<cs_pchero>と言ったな。|　さしずめ　オレたちのレンドア島壊滅作戦を|　ぶち壊しにきたってところか。": "You, uh<cs_pchero>So you're saying... So you're saying you're|here to destroy our plan to destroy Lendoa|Island."
+    },
+    "30": {
+        "「残念だが　この通り　キッズは変身を果たした。|　部下たちも　今頃　商品ナンバー１３を放ち|　レンドア島急襲を開始していることだろう。": "Unfortunately, as you can see, the kid has|undergone a metamorphosis... I'm sure his men|have unleashed Item Number 13 and are|<br>|launching a raid on Lendoa Island..."
+    },
+    "31": {
+        "「だが　せっかく　ここまで来たのだ！|　生まれ変わったキッズが　どれほどの実力を|　秘めているか　身をもって教えてやろう！！": "But we've come this far! I'll show you|firsthand just how powerful a reborn kid can|be!"
+    },
+    "32": {
+        "「いくぞぉぉぉ　まもの使い！！": "Here we go... magicians!"
+    },
+    "33": {
+        "「こっけいだな　ファーベル。|　飼い犬……　いや　飼い魔物に|　手をかまれた気分は　どうだ？": "That's funny, fa... Your dog... How does it|feel to have your hand bitten by a demon?"
+    },
+    "34": {
+        "「こりずに　また来たのか　<cs_pchero>。|　圧倒的な実力差を　見せつけられても|　引き下がらないとは　愚かなヤツだ。": "So you're back for more<cs_pchero>I'm sorry. How could you be so foolish as to|refuse to back down when you've been shown|the overwhelming difference in strength?"
+    },
+    "35": {
+        "「まあいい。レンドア島に乗り込む前に|　もう少し　ゴールデンキングリザードに|　準備運動をさせてやるとするか。": "Well... I thought I'd give the Golden King|Lizard a little more prep work before we|boarded Lendore Island..."
+    },
+    "36": {
+        "「いくぞぉぉぉ　まもの使い！！": "Here we go... magicians!"
+    },
+    "37": {
+        "「クッ。ゴールデンキングリザードが|　やられた……だと……？": "Kuh. The Golden King Lizard has been killed.|What the...?"
+    },
+    "38": {
+        "「<cs_pchero>さん！": "<cs_pchero>Three!"
+    },
+    "39": {
+        "「ごめんなさい　こんな所まで。|　どうしても　ファーベルが心配で……": "I'm sorry. I just... I'm so worried about|Fabelle."
+    },
+    "40": {
+        "「ああっ　ファーベルッ！！": "Oh, Fabel!"
+    },
+    "41": {
+        "「あの目の色……。|　まさか　あれが　キッズなんですか……？|　なんてこと……。": "That eye color... No way. Is that a kid? Oh|my god..."
+    },
+    "42": {
+        "「おお！　なんという　生命力……。|　いけえぇっ　ゴールデンキングリザード！|　ここにいるヤツらを　皆殺しにしろ！": "Oh! What a life force... Come on, Golden King|Lizard! Kill everyone in here!"
+    },
+    "43": {
+        "「今のキッズは　単なる破壊の化身……。|　このまま　放っておけば|　たくさんの人が犠牲になるでしょう。": "These kids are nothing but destruction|incarnate. If they're left unchecked, they'll|kill a lot of people."
+    },
+    "44": {
+        "「<cs_pchero>さん……　後生です。|　キッズを……楽にしてあげてください。": "<cs_pchero>Three... After... Make the kid... Make him|comfortable..."
+    },
+    "45": {
+        "「待って。母さん……。": "... Mom..."
+    },
+    "46": {
+        "「ファーベル……？": "Fabel...?"
+    },
+    "47": {
+        "「オレと……": "Me and"
+    },
+    "48": {
+        "「オレと　キッズの絆……": "The bond between me and the kids"
+    },
+    "49": {
+        "「絶対に……取り戻してみせる……。": "I'm gonna get it back. I'm gonna get it back."
+    },
+    "50": {
+        "「うおおおおおおぉぉぉぉぉぉ！！！": "Whoa, whoa, whoa, whoa, whoa, whoa!"
+    },
+    "51": {
+        "「テキスト削除": "text deletion"
+    },
+    "52": {
+        "「ふふふ。|　あなたたちって　本当に　仲がいいのね。|　まるで　兄弟みたい。": "... You guys are so close. Like brothers..."
+    },
+    "53": {
+        "「あったりまえだろ！|　キッズとオレは　ずーっと　ずぅぅっと……": "It's obvious! The kids and I have been going|on and on and on..."
+    },
+    "54": {
+        "「ずぅぅーーーーっと　一緒なんだからな！！": "We'll be together forever!"
+    },
+    "55": {
+        "「ウソ……だろ…………。": "No... No..."
+    },
+    "56": {
+        "「はは……。|　キッズが……キッズが　元に戻ったぞ！！|　やった　やった……やったーーー！！": "Ha ha... The kids... The kid is back to|normal! Yes! Yes... Yay!"
+    },
+    "57": {
+        "「チッ。ここは　ひとまず　退却か……。": "Damn. I guess we'll have to retreat for|now..."
+    },
+    "58": {
+        "「うわぁぁぁぁッ！！": "Whoa!"
+    },
+    "59": {
+        "「お　おばあちゃん！？": "Grandma!"
+    },
+    "60": {
+        "「逃がさんぞ　この悪党め。|　魔物たちを好き勝手に　もてあそんだ罪|　たっぷり　つぐなわしてやる。": "I won't let you go, you... I'll take the|blame for what I've done to these demons."
+    },
+    "61": {
+        "「心配せんでも　お前さんの手下どもは|　もう　ふんじばって　レンドアに届けてきたわ。|　一緒に　地獄を見てきな。": "Don't worry, your boys are already on their|way to Lendah... We'll go through hell|together."
+    },
+    "62": {
+        "「ファーベル　それから　そこの若いの。": "Fabel, and then there's..."
+    },
+    "63": {
+        "「まもの使いの強さは　魔物との絆の強さ。|　……忘れるんじゃないよ　ふたりとも。": "A magician's strength is his bond with|demons. ... Don't forget, two..."
+    },
+    "64": {
+        "「ファーベルッ！！": "Favela!"
+    },
+    "65": {
+        "「まったく　あなたって子はっ|　私が　どれだけ　心配したと……": "God, you're such a bitch| You have no idea how worried I was about you"
+    },
+    "66": {
+        "「ゴメン。": "..."
+    },
+    "67": {
+        "「今までずっと　心配させて　ゴメン。|　オレ　ようやく　心が決まったよ。": "I've been so worried about you all this time.|I've finally made up my mind..."
+    },
+    "68": {
+        "「オレ　なるよ。|　<cs_pchero>さんや　父さんみたいな|　かっこいい　まもの使いになる。": "I ...<cs_pchero>He's a cool magician like you and Dad..."
+    },
+    "69": {
+        "「ファーベル…………。": "Fur Bell..."
+    },
+    "70": {
+        "「ホントにもう　あなたって子は……。": "Oh, my God, you are such a..."
+    },
+    "71": {
+        "「へへ。母さん　こんなだし|　オレが　家まで送ってくよ。": "Heh. Mom, it's like this. I'll take you|home..."
+    },
+    "72": {
+        "「……<cs_pchero>さん　今まで　ありがとう。|　アンタが　魔物との絆を教えてくれたから|　オレ　最後まで　踏ん張れたんだと思う……。": "<cs_pchero>Thank you for everything... You taught me how|to bond with demons, and that's why I was|able to hold on until the end..."
+    },
+    "73": {
+        "「いつか　<cs_pchero>さんに　負けないくらい|　強い　まもの使いになってみせるから|　そん時は　お互いの魔物で　勝負しようぜ！": "one day<cs_pchero>I'll be as strong as you, so let's play with|each other's demons!"
+    },
+    "74": {
+        "「じゃあな　<cs_pchero>さん！|　オレは　先に行ってるよ！": "Okay, bye<cs_pchero>Three! I'm going first!"
+    },
+    "75": {
+        "「先ほどは　なんだか　お恥ずかしいところを|　お見せして　申し訳ありませんでした。|　無事　戻ってこられたので　ご安心ください。": "I'm sorry for showing you such an|embarrassing scene earlier... Please be|relieved to know that I've returned safely..."
+    },
+    "76": {
+        "「それでですね　<pc>さん……。|　こちらに戻ってくるなり　シガール様から|　一通　手紙が届いたのです。読みますね。": "So<pc> Miss... As soon as I got back here, I|received a letter from Miss Sigal... It|read..."
+    },
+    "77": {
+        "「……ミセス・クラハ　そして　まもの使い。|　我が愛するレンドアを　魔物商人の魔の手より|　救ってくれたこと　心より　感謝申し上げる。": "... Mrs. Crach, and you. I thank you from the|bottom of my heart for rescuing my beloved|Lendore from the clutches of the demon|<br>|merchants."
+    },
+    "78": {
+        "「私は　まもの使いという職業に　海よりも深い|　感銘を受けた。この誇り高い職業の素晴らしさを|　世界中に　紹介していくことに尽力したい。": "I am more impressed with the profession of|magician than I am with the ocean... I am|committed to introducing the world to the|<br>|wonders of this proud profession..."
+    },
+    "79": {
+        "「我がレンドアは　定期船と鉄道駅を有し|　多くの人々が行き交う　世界の交差路……。": "Our city, Lendore, is a crossroads of the|world, with liners and a train station, and|many people come and go..."
+    },
+    "80": {
+        "「貴君らの　かがやかしい功績は|　またたく間に　世界へと広まっていくであろう。|　　　　　　　　　　港町レンドア町長　シガール": "In no time at all, your glorious exploits|will have spread throughout the world.|Mayor of the port city of Lendah, Sigal."
+    },
+    "81": {
+        "「……ついに　かなったんです。|　私と……夫の夢が。": "... It's finally happening. Me and... My|husband..."
+    },
+    "82": {
+        "「ファーベルも　この手紙を読むと|　自分のことのように　よろこんでくれました。": "When Fabel read this letter, she was as happy|as if it were her own..."
+    },
+    "83": {
+        "「今度は　自分が　夢をかなえる番だと言って|　キッズと　修業の旅に出てしまいましたが……。|　ホント　単純ですよね　あの子ったら。": "Now it's my turn to make my dream come|true... and I'm off on a training trip with|the kids. It's really simple, isn't it, that|<br>|kid..."
+    },
+    "84": {
+        "「<pc>さん……。私たちが|　ここまで来られたのは　あなたのおかげです。|　本当に　ありがとうございました。": "<pc> Miss... We've come this far because of you...|Thank you so much..."
+    },
+    "85": {
+        "「あのきびしい　おばあちゃんも|　あなたのことを　一人前だと認め|　プレゼントを　用意してくださいました。": "Even the strictest of grandmothers will|recognize you as one of their own and prepare|a gift for you..."
+    },
+    "86": {
+        "「これは　真の　まもの使いが持つ|　まもの使いの証。シガール様からの報酬と|　一緒に　こちらを受け取ってください。": "This is a true wizard's wizard's wizard.|Please accept this along with the reward from|Lord Sigal..."
+    },
+    "87": {
+        "「シガール様からの報酬と　一緒に|　どうか　こちらを受け取ってください。": "Please accept this along with the reward from|Lord Sigal..."
+    },
+    "88": {
+        "「……じつは　ここに　もうひとつ|　まもの使いの証があります。": "... Actually, there's one more thing here|that proves you're a magician..."
+    },
+    "89": {
+        "「これは　夫の　まもの使いの証。|　夫は　これをにぎりしめて　倒れていました。": "This is my husband's personal effects... My|husband was lying on the ground clutching|this..."
+    },
+    "90": {
+        "「いつか　ファーベルが　一人前の|　まもの使いになったら　渡してくれ……。|　私には　そう言ってるような気がしたのです。": "One day, when Fabelle's a full-fledged|magician, you'll give it to her. That's what|I thought she was saying."
+    },
+    "91": {
+        "「次の　私の夢は　これをファーベルに渡すこと。|　<pc>さん　応援していてくださいね！": "My next dream is to give this to Fabelle...<pc> I'm sure you'll have my back!"
+    }
 }

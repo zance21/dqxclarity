@@ -1,242 +1,242 @@
 {
-  "1": {
-    "「おお　<pc>か。|　オーディスならば　このところ|　ずっと　自分の部屋に　こもっておるぞ。": ""
-  },
-  "2": {
-    "「オーディスは　夜を徹して|　王家の古代文字を　学んでいるようなのだ。|　ラーディス王の石版を　読み解くためにな。": ""
-  },
-  "3": {
-    "「わらわは　あえて　手を貸していないが|　根を詰めすぎては　身体に悪い。|　<pc>殿。様子を見てやってはくれぬか。": ""
-  },
-  "4": {
-    "「ワシが　様子を見にいったこともあるが|　ジャマだからと　追い返されてしまってなあ。": ""
-  },
-  "5": {
-    "「父親として　苦労している息子のために|　何もできないのは　忍びないが|　ここは　<pc>に　まかせるぞ。": ""
-  },
-  "6": {
-    "「<pc>殿に　見てもらえれば|　わらわも　安心できる。|　オーディスのことを　よろしく頼む。": ""
-  },
-  "7": {
-    "「おお。<pc>君か……。": ""
-  },
-  "8": {
-    "「……僕は　やったぞ。|　この石版を　すべて　読み解くことができた。": ""
-  },
-  "9": {
-    "「ラーディス王が　歌を消し去らず|　あえて　封印することを選んだのは　なぜか？|　疑問に思っていたが　これで　わかった。": ""
-  },
-  "10": {
-    "「封印のことを　わざわざ　書き残したのは|　後に　それを解こうとする者が現れると|　予見していたからに　ちがいない。": ""
-  },
-  "11": {
-    "「これは　ラーディス王からの挑戦なんだ。|　男王を目指す者よ　封印を解けるものなら|　解いてみろ……。そう言っているんだ。": ""
-  },
-  "12": {
-    "「この石版には　こう書かれている。|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に葬ろう……。": ""
-  },
-  "13": {
-    "「この文章は　男王の唄う育みの歌を|　封印した場所を　示していると思うんだ。": ""
-  },
-  "14": {
-    "「君も知っているかもしれないが　シェルナーとは|　レーンという村の　結婚の立会人のことだ。": ""
-  },
-  "15": {
-    "「そのシェルナーが　男王の歌に|　どんな関係があるのかは　わからない。": ""
-  },
-  "16": {
-    "「だから　僕は　レーンの村に確かめにいく。|　<pc>君に　同行してもらいたいのだが|　来てくれるか？": ""
-  },
-  "17": {
-    "「ありがとう　<pc>君！|　君がいてくれて　本当に助かる。": ""
-  },
-  "18": {
-    "「ここから先は　調査員たちを使わずに|　僕と　<pc>君の　ふたりで|　ことを進めたいと思う。よろしく頼む。": ""
-  },
-  "19": {
-    "「そういえば　<pc>君は|　レーンの村の出身じゃなかったか？|　シェルナーについて　知っていることはないか？": ""
-  },
-  "20": {
-    "「……そうか。君は　アーシクとキールという|　夫婦のシェルナーをやったのか。|　だが　それ以上のことは　知らないのだな。": ""
-  },
-  "21": {
-    "「僕は　シェルナーのことを　レーンの村の者に|　手当たり次第に　聞いてみるつもりだ。|　君も　そうしてくれると　助かる。": ""
-  },
-  "22": {
-    "「では　すぐに出発するぞ。|　<pc>君も　レーンの村へ急いでくれ！": ""
-  },
-  "23": {
-    "「頼みを聞いてくれるのは　ありがたいが……。|　君は　かなりの数の頼まれごとを　|　引き受けているようだな。": ""
-  },
-  "24": {
-    "「先約があるならば　今は　あきらめよう。|　僕は　ここで　調査を続けるから|　また後で　来てほしい。": ""
-  },
-  "25": {
-    "「<pc>君ならば　僕の頼みを|　聞いてくれると思ったんだが……。": ""
-  },
-  "26": {
-    "「僕は　ここで　調査を続けるから|　気が変わったならば　また来てほしい。": ""
-  },
-  "27": {
-    "「おお。<pc>君か……。|　チカラを貸す気に　なってくれたか。": ""
-  },
-  "28": {
-    "「この石版には　こう書かれている。|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に葬ろう……。": ""
-  },
-  "29": {
-    "「君も知っているかもしれないが　シェルナーとは|　レーンという村の　結婚の立会人のことだ。": ""
-  },
-  "30": {
-    "「そのシェルナーが　男王の歌に|　どんな関係があるのかは　わからない。": ""
-  },
-  "31": {
-    "「だから　僕は　レーンの村に確かめにいく。|　<pc>君に　同行してもらいたいのだが|　来てくれるか？": ""
-  },
-  "32": {
-    "「おお　<pc>君。|　君も　この家に　来ていたか。": ""
-  },
-  "33": {
-    "「これは　おどろいた。本当に王子様だ。|　いったい　なんの用で　うちなんかに……。": ""
-  },
-  "34": {
-    "「この村の夫婦に　シェルナーというものについて|　聞いてまわっているところだ。|　あなたは　何か　知っていることはないか？": ""
-  },
-  "35": {
-    "「はあ……。シェルナーというのは|　この村に伝わる　ならわしで|　結婚する者の立会人をする……": ""
-  },
-  "36": {
-    "「それは　僕も知っている。|　もっと他に　シェルナーについて|　あなたが　知っていることはないか？": ""
-  },
-  "37": {
-    "「他に……ですか。むむむ……。": ""
-  },
-  "38": {
-    "「おおっ　あった　ありました！": ""
-  },
-  "39": {
-    "「死んだ祖父が　シェルナーをやったようで。|　今のシェルナーは　本来のシェルナーの姿じゃ|　ないという話を　聞いたことがあります。": ""
-  },
-  "40": {
-    "「おおっ　それは　興味深い話だ。|　ぜひ　聞かせてくれ！": ""
-  },
-  "41": {
-    "「祖父の話によれば　シェルナーってのは|　もともとは　このウェナ諸島を守る勇士に|　与えられる名前だったと　いうことなんです。": ""
-  },
-  "42": {
-    "「勇士になる者は　シエラ巡礼地って場所で|　儀式をしなきゃならないんだとか。": ""
-  },
-  "43": {
-    "「そんで　勇士には　シェルナーって名前が|　与えられたっていう　もっともらしい話でした。|　本当かどうかは　責任は持ちませんが。": ""
-  },
-  "44": {
-    "「オレが聞いたのは　こんなもんです。|　すみませんね　王子様。": ""
-  },
-  "45": {
-    "「いや　じゅうぶんだ。|　ありがとう。後で　礼を届けさせる。": ""
-  },
-  "46": {
-    "「いえいえ　お礼なんて　とんでもない！|　お役に立てたなら　光栄ですんで。": ""
-  },
-  "47": {
-    "「シエラ巡礼地というのは　実在している。|　たしか　この島の北にある場所が　そうだ。|　彼の話は　真実かもしれない。": ""
-  },
-  "48": {
-    "「ならば　ラーディス王の石版に書かれた|　シェルナーの五声というのも　シエラ巡礼地に|　関わりがあると　考えられるな。": ""
-  },
-  "49": {
-    "「さっそく　確かめにいってみよう！|　レーナム緑野の北東が　シエラ巡礼地のはずだ。|　<pc>君も　来てくれ！！": ""
-  },
-  "50": {
-    "「ここが　シエラ巡礼地か。|　はじめて来たが　何か|　不思議な感じのする所だな……。": ""
-  },
-  "51": {
-    "「僕は　ヴェリナードの王子　オーディス。|　あなたは　ここで　何をしている？": ""
-  },
-  "52": {
-    "「私は　ナフナー。|　五声の祈りを捧げる　シェルナーの案内人。|　だが　もはや　その役は終えた……。": ""
-  },
-  "53": {
-    "「シェルナーのチカラ……。|　それは　失われた　古のチカラ。|　そなたは　それを求めるのか？": ""
-  },
-  "54": {
-    "「ナフナー殿。僕は　シェルナーではなく|　王になるために　ここに来た。": ""
-  },
-  "55": {
-    "「シェルナーの五声とは|　何を指す言葉なのか　教えてくれないか？": ""
-  },
-  "56": {
-    "「五声とは　我らの発する声の持つチカラ。|　すなわち　『呼』『言』『歌』『哭』『呻』の|　五つの思いの表れなり。": ""
-  },
-  "57": {
-    "「『呼』『言』『歌』……。": ""
-  },
-  "58": {
-    "「五声の中には　『歌』があるんだな……。|　石版にあった　歌は　歌に葬るという言葉は|　これを指しているのだろうか。": ""
-  },
-  "59": {
-    "「五声の地は　シエラ巡礼地に　散らばる。|　巡礼者は　自らの足で　五声を求め|　儀式の後に　シェルナーとなる。　": ""
-  },
-  "60": {
-    "「……なるほど。五声の中の『歌』は|　このシエラ巡礼地に　あるということだな。|　ならば　それを探してみよう。": ""
-  },
-  "61": {
-    "「五声を伝える　五人の神官。|　彼らのひとりが　『歌』を伝えるだろう。": ""
-  },
-  "62": {
-    "「ありがとう　ナフナー殿。|　話を聞かせてくれて　感謝する。": ""
-  },
-  "63": {
-    "「このシエラ巡礼地のどこかに|　五声の中の　『歌』にまつわる場所がある。|　そこを探してみよう　<pc>君。": ""
-  },
-  "64": {
-    "「<pc>君。どうやら|　目的の場所を　見つけてくれたようだな。": ""
-  },
-  "65": {
-    "「ヴェリナードの王子　オーディスだ。|　あなたが　五声の『歌』を伝える神官か。": ""
-  },
-  "66": {
-    "「……いかにも。私はソヌーグ。|　五声の教えを　今に伝える者なり。": ""
-  },
-  "67": {
-    "「五声のひとつ　『歌』の声。|　言葉を音に乗せ　思いをつむぐ声なり。": ""
-  },
-  "68": {
-    "「あなたは　この言葉に心当たりはないだろうか？|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に　葬ろう……という言葉だ。": ""
-  },
-  "69": {
-    "「その言葉を　どのようにして　お知りになった？": ""
-  },
-  "70": {
-    "「最後の男王　ラーディス王が残した石版を|　手に入れたんだ。そこに書かれていた言葉だ。": ""
-  },
-  "71": {
-    "「僕は　王になるために|　封印された男王の育みの歌を　探している。|　知っていることを　教えてくれないか？": ""
-  },
-  "72": {
-    "「かつて　私の先祖が　時の王より命を受けた。|　男の王を目指す者　現れし時……。|　これを　渡すがよい……と。": ""
-  },
-  "73": {
-    "「今が　その時なり。|　これを　そなたに授けよう……。": ""
-  },
-  "74": {
-    "「やはり　ラーディス王は　男の王を|　目指す者が現れると　予見していたのか……。": ""
-  },
-  "75": {
-    "「…………おお……歌だ。|　僕の知らない歌が　書かれているぞ！！": ""
-  },
-  "76": {
-    "「歌の名は……導きの歌。|　聖なる加護を　諸島に導くという内容だ。|　男王の唄う育みの歌に　まちがいない！": ""
-  },
-  "77": {
-    "「まさか　こんなに　あっさりと|　見つかるとは　思っていなかった……。": ""
-  },
-  "78": {
-    "「この歌が　恵みの歌と　同じ効果を出せれば|　僕は　王になる資格を得たことになる！|　さっそく　城へ帰って　準備をしなければ。": ""
-  },
-  "79": {
-    "「<pc>君。いろいろと手伝ってもらい|　君には　感謝の言葉もない。|　報酬として　これを受け取ってほしい。": ""
-  },
-  "80": {
-    "「僕は　王となって　この諸島を守っていこう。|　かつて　シェルナーという勇士が|　そうしていたように……。": ""
-  }
+    "1": {
+        "「おお　<pc>か。|　オーディスならば　このところ|　ずっと　自分の部屋に　こもっておるぞ。": "oh!<pc> I guess. If it's Odis, he's been holed up in|his room lately."
+    },
+    "2": {
+        "「オーディスは　夜を徹して|　王家の古代文字を　学んでいるようなのだ。|　ラーディス王の石版を　読み解くためにな。": "It seems that Odis has been spending his|nights learning the ancient script of the|royal family... \"to decipher the tablet of|<br>|King Lardis..."
+    },
+    "3": {
+        "「わらわは　あえて　手を貸していないが|　根を詰めすぎては　身体に悪い。|　<pc>殿。様子を見てやってはくれぬか。": "I didn't want to help you, but if you put too|much pressure on yourself...<pc> Sir. Let me check on him..."
+    },
+    "4": {
+        "「ワシが　様子を見にいったこともあるが|　ジャマだからと　追い返されてしまってなあ。": "I once went to check on him, but he turned me|away because I was in his way..."
+    },
+    "5": {
+        "「父親として　苦労している息子のために|　何もできないのは　忍びないが|　ここは　<pc>に　まかせるぞ。": "As a father, I'm here for my struggling son| I'm sorry there's nothing I can do| This place<pc> I don't know."
+    },
+    "6": {
+        "「<pc>殿に　見てもらえれば|　わらわも　安心できる。|　オーディスのことを　よろしく頼む。": "<pc> I'm glad you're here, my lord. Please take|care of Odis."
+    },
+    "7": {
+        "「おお。<pc>君か……。": "Oh.<pc> You or..."
+    },
+    "8": {
+        "「……僕は　やったぞ。|　この石版を　すべて　読み解くことができた。": "I... I just... I've been trying to decipher|all these tablets..."
+    },
+    "9": {
+        "「ラーディス王が　歌を消し去らず|　あえて　封印することを選んだのは　なぜか？|　疑問に思っていたが　これで　わかった。": "Why did the Lardis king choose to seal the|song instead of erasing it? I've always|wondered, but now I know."
+    },
+    "10": {
+        "「封印のことを　わざわざ　書き残したのは|　後に　それを解こうとする者が現れると|　予見していたからに　ちがいない。": "The reason he went to the trouble of writing|down the seal must have been because he|foresaw that someone would try to break it|<br>|later."
+    },
+    "11": {
+        "「これは　ラーディス王からの挑戦なんだ。|　男王を目指す者よ　封印を解けるものなら|　解いてみろ……。そう言っているんだ。": "This is a challenge from King Lardis... \"To|the man-king, if you can break the seal,|break the seal... He said..."
+    },
+    "12": {
+        "「この石版には　こう書かれている。|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に葬ろう……。": "This tablet says... ... \"In the five voices|of Scherner, I... I'll bury the song in the|song..."
+    },
+    "13": {
+        "「この文章は　男王の唄う育みの歌を|　封印した場所を　示していると思うんだ。": "I believe this text indicates the location|where the nurturing song of the Man King was|sealed..."
+    },
+    "14": {
+        "「君も知っているかもしれないが　シェルナーとは|　レーンという村の　結婚の立会人のことだ。": "As you may know, Shelner was a marriage|witness in a village called Lane..."
+    },
+    "15": {
+        "「そのシェルナーが　男王の歌に|　どんな関係があるのかは　わからない。": "I don't know what this Scherner has to do|with the Man King's song..."
+    },
+    "16": {
+        "「だから　僕は　レーンの村に確かめにいく。|　<pc>君に　同行してもらいたいのだが|　来てくれるか？": "So I went to Lane's village to make sure...<pc> I'm gonna need you to come with me. Can you|do that?"
+    },
+    "17": {
+        "「ありがとう　<pc>君！|　君がいてくれて　本当に助かる。": "Thank you<pc> You! I'm so glad you're here."
+    },
+    "18": {
+        "「ここから先は　調査員たちを使わずに|　僕と　<pc>君の　ふたりで|　ことを進めたいと思う。よろしく頼む。": "From here on out, we don't use investigators| With me<pc> I'd like to work with you on this. I'll..."
+    },
+    "19": {
+        "「そういえば　<pc>君は|　レーンの村の出身じゃなかったか？|　シェルナーについて　知っていることはないか？": "which reminds me<pc> Aren't you from the village of Lane? Is there|anything you can tell us about Scherner?"
+    },
+    "20": {
+        "「……そうか。君は　アーシクとキールという|　夫婦のシェルナーをやったのか。|　だが　それ以上のことは　知らないのだな。": "...... You're a husband and wife sheriff for|Aasik and Kiel. But I don't know anything|more than that..."
+    },
+    "21": {
+        "「僕は　シェルナーのことを　レーンの村の者に|　手当たり次第に　聞いてみるつもりだ。|　君も　そうしてくれると　助かる。": "I'm gonna ask every person in Lane's village|what they know about Scherner. I was hoping|you could do the same."
+    },
+    "22": {
+        "「では　すぐに出発するぞ。|　<pc>君も　レーンの村へ急いでくれ！": "We'll be leaving soon.<pc> You, too. Hurry to Lane's village!"
+    },
+    "23": {
+        "「頼みを聞いてくれるのは　ありがたいが……。|　君は　かなりの数の頼まれごとを　|　引き受けているようだな。": "I appreciate the favor, but... But you've|done quite a few favors for me."
+    },
+    "24": {
+        "「先約があるならば　今は　あきらめよう。|　僕は　ここで　調査を続けるから|　また後で　来てほしい。": "If you have a prior engagement, now's not the|time. I'm going to continue my research here,|so come back later..."
+    },
+    "25": {
+        "「<pc>君ならば　僕の頼みを|　聞いてくれると思ったんだが……。": "<pc> I was hoping you might be able to do me a|favor."
+    },
+    "26": {
+        "「僕は　ここで　調査を続けるから|　気が変わったならば　また来てほしい。": "I'll continue my research here, so if you|change your mind, you can come back..."
+    },
+    "27": {
+        "「おお。<pc>君か……。|　チカラを貸す気に　なってくれたか。": "Oh.<pc> You... I was hoping you might be able to help|me."
+    },
+    "28": {
+        "「この石版には　こう書かれている。|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に葬ろう……。": "This tablet says... ... \"In the five voices|of Scherner, I... I'll bury the song in the|song..."
+    },
+    "29": {
+        "「君も知っているかもしれないが　シェルナーとは|　レーンという村の　結婚の立会人のことだ。": "As you may know, Shelner was a marriage|witness in a village called Lane..."
+    },
+    "30": {
+        "「そのシェルナーが　男王の歌に|　どんな関係があるのかは　わからない。": "I don't know what this Scherner has to do|with the Man King's song..."
+    },
+    "31": {
+        "「だから　僕は　レーンの村に確かめにいく。|　<pc>君に　同行してもらいたいのだが|　来てくれるか？": "So I went to Lane's village to make sure...<pc> I'm gonna need you to come with me. Can you|do that?"
+    },
+    "32": {
+        "「おお　<pc>君。|　君も　この家に　来ていたか。": "oh!<pc> You. You should come to this house..."
+    },
+    "33": {
+        "「これは　おどろいた。本当に王子様だ。|　いったい　なんの用で　うちなんかに……。": "This is scary... It's really the king... What|the hell are you doing here?"
+    },
+    "34": {
+        "「この村の夫婦に　シェルナーというものについて|　聞いてまわっているところだ。|　あなたは　何か　知っていることはないか？": "I've been asking around to this couple in the|village about something called Scherner... Do|you know anything about it?"
+    },
+    "35": {
+        "「はあ……。シェルナーというのは|　この村に伝わる　ならわしで|　結婚する者の立会人をする……": "Oh... It's a tradition in this village to|serve as a witness for those getting|married..."
+    },
+    "36": {
+        "「それは　僕も知っている。|　もっと他に　シェルナーについて|　あなたが　知っていることはないか？": "That's what I know... Is there anything else|you can tell us about Scherner?"
+    },
+    "37": {
+        "「他に……ですか。むむむ……。": "Another ...... Mmmm..."
+    },
+    "38": {
+        "「おおっ　あった　ありました！": "Oh, there it is! There it is!"
+    },
+    "39": {
+        "「死んだ祖父が　シェルナーをやったようで。|　今のシェルナーは　本来のシェルナーの姿じゃ|　ないという話を　聞いたことがあります。": "My late grandfather was a Shelterer... I've|heard people say that what we have now isn't|what he was."
+    },
+    "40": {
+        "「おおっ　それは　興味深い話だ。|　ぜひ　聞かせてくれ！": "Oh, that's interesting... I'd love to hear|it!"
+    },
+    "41": {
+        "「祖父の話によれば　シェルナーってのは|　もともとは　このウェナ諸島を守る勇士に|　与えられる名前だったと　いうことなんです。": "According to my grandfather, the name|\"Scherner\" was originally given to a brave|warrior who defended the Wenatchee Islands..."
+    },
+    "42": {
+        "「勇士になる者は　シエラ巡礼地って場所で|　儀式をしなきゃならないんだとか。": "If you're going to be a warrior, you have to|go to a place called the Sierra Pilgrimage|and do a ritual."
+    },
+    "43": {
+        "「そんで　勇士には　シェルナーって名前が|　与えられたっていう　もっともらしい話でした。|　本当かどうかは　責任は持ちませんが。": "And the hero was given the name of Scherner,|which is a very plausible story. I don't know|if that's true."
+    },
+    "44": {
+        "「オレが聞いたのは　こんなもんです。|　すみませんね　王子様。": "That's what I heard. I'm sorry, I..."
+    },
+    "45": {
+        "「いや　じゅうぶんだ。|　ありがとう。後で　礼を届けさせる。": "No, it's... There's... I'll thank you|later..."
+    },
+    "46": {
+        "「いえいえ　お礼なんて　とんでもない！|　お役に立てたなら　光栄ですんで。": "No, no, no, no, no, no, no, no, no. I'd be|honored if I could help you."
+    },
+    "47": {
+        "「シエラ巡礼地というのは　実在している。|　たしか　この島の北にある場所が　そうだ。|　彼の話は　真実かもしれない。": "The Sierra Pilgrimage is a real place... I|think there's a place north of the island...|Maybe he's telling the truth..."
+    },
+    "48": {
+        "「ならば　ラーディス王の石版に書かれた|　シェルナーの五声というのも　シエラ巡礼地に|　関わりがあると　考えられるな。": "If that's the case, then the five voices of|Scherner on the tablet of King Lardis could|have something to do with the pilgrimage to|<br>|the Sierra..."
+    },
+    "49": {
+        "「さっそく　確かめにいってみよう！|　レーナム緑野の北東が　シエラ巡礼地のはずだ。|　<pc>君も　来てくれ！！": "Let's go check it out! Northeast of Raynham|Green Fields is the Sierra Pilgrimage site...<pc> You, come with me!"
+    },
+    "50": {
+        "「ここが　シエラ巡礼地か。|　はじめて来たが　何か|　不思議な感じのする所だな……。": "This is the Sierra... I've never been here|before, but there's something magical about|this place..."
+    },
+    "51": {
+        "「僕は　ヴェリナードの王子　オーディス。|　あなたは　ここで　何をしている？": "I am the Prince of Verrinard. Oh... What are|you doing here?"
+    },
+    "52": {
+        "「私は　ナフナー。|　五声の祈りを捧げる　シェルナーの案内人。|　だが　もはや　その役は終えた……。": "I'm Na... I'm going to say the five-voice|prayer... But I'm done with that now."
+    },
+    "53": {
+        "「シェルナーのチカラ……。|　それは　失われた　古のチカラ。|　そなたは　それを求めるのか？": "The power of Scherner... It's a lost|ancient... Is that what you seek?"
+    },
+    "54": {
+        "「ナフナー殿。僕は　シェルナーではなく|　王になるために　ここに来た。": "Naf... I'm not here to be Shelnor. I'm here|to be king."
+    },
+    "55": {
+        "「シェルナーの五声とは|　何を指す言葉なのか　教えてくれないか？": "Would you mind telling me what Scherner's|five voices refer to?"
+    },
+    "56": {
+        "「五声とは　我らの発する声の持つチカラ。|　すなわち　『呼』『言』『歌』『哭』『呻』の|　五つの思いの表れなり。": ""
+    },
+    "57": {
+        "「『呼』『言』『歌』……。": "\"Call,\" \"Say,\" \"Sing\"..."
+    },
+    "58": {
+        "「五声の中には　『歌』があるんだな……。|　石版にあった　歌は　歌に葬るという言葉は|　これを指しているのだろうか。": "There's a song in the five voices... This is|what the tablet was referring to when it|said, \"A song is buried in a song."
+    },
+    "59": {
+        "「五声の地は　シエラ巡礼地に　散らばる。|　巡礼者は　自らの足で　五声を求め|　儀式の後に　シェルナーとなる。　": ""
+    },
+    "60": {
+        "「……なるほど。五声の中の『歌』は|　このシエラ巡礼地に　あるということだな。|　ならば　それを探してみよう。": "... ... The Song of the Five Voices is here|in the Sierra Pilgrimage. Then find it..."
+    },
+    "61": {
+        "「五声を伝える　五人の神官。|　彼らのひとりが　『歌』を伝えるだろう。": "Five voices, five people... One of them|conveys the Song..."
+    },
+    "62": {
+        "「ありがとう　ナフナー殿。|　話を聞かせてくれて　感謝する。": "Thank you, Naf... Thank you for sharing your|story with us."
+    },
+    "63": {
+        "「このシエラ巡礼地のどこかに|　五声の中の　『歌』にまつわる場所がある。|　そこを探してみよう　<pc>君。": "Somewhere in this Sierra pilgrimage site,|there is a place associated with the song of|the five voices. Let's try to find it.<pc> Jun."
+    },
+    "64": {
+        "「<pc>君。どうやら|　目的の場所を　見つけてくれたようだな。": "<pc> You. Apparently, you've found the place we're|looking for..."
+    },
+    "65": {
+        "「ヴェリナードの王子　オーディスだ。|　あなたが　五声の『歌』を伝える神官か。": "The Prince of Verrinard... You tell the song|in five voices..."
+    },
+    "66": {
+        "「……いかにも。私はソヌーグ。|　五声の教えを　今に伝える者なり。": "... I... I am So-and-so... I am So-and-so,|and I teach the Five Voices..."
+    },
+    "67": {
+        "「五声のひとつ　『歌』の声。|　言葉を音に乗せ　思いをつむぐ声なり。": "One of the five voices, \"Song... To put words|to sound, to bind thoughts together..."
+    },
+    "68": {
+        "「あなたは　この言葉に心当たりはないだろうか？|　……シェルナーの五声に　私は誓った。|　歌は　歌の中に　葬ろう……という言葉だ。": "Do any of these words ring a bell with you?|... \"In five voices of Scherner, I... \"Let|the song be buried in the song... I'm|<br>|gonna..."
+    },
+    "69": {
+        "「その言葉を　どのようにして　お知りになった？": "How did you come to know that word?"
+    },
+    "70": {
+        "「最後の男王　ラーディス王が残した石版を|　手に入れたんだ。そこに書かれていた言葉だ。": "I came across a tablet left by the last male|king, King Lardis. And on it was written..."
+    },
+    "71": {
+        "「僕は　王になるために|　封印された男王の育みの歌を　探している。|　知っていることを　教えてくれないか？": "I'm trying to find the sealed nurturing song|of a male king so I can become a king. Why|don't you tell me what you know?"
+    },
+    "72": {
+        "「かつて　私の先祖が　時の王より命を受けた。|　男の王を目指す者　現れし時……。|　これを　渡すがよい……と。": "Once, my ancestors were given life by the|King of Time. When the time came for a man to|be king... You may take this. ...."
+    },
+    "73": {
+        "「今が　その時なり。|　これを　そなたに授けよう……。": "And now... I give you this..."
+    },
+    "74": {
+        "「やはり　ラーディス王は　男の王を|　目指す者が現れると　予見していたのか……。": "After all, King Lardis had foreseen that|someone would come along who would want to be|king of men..."
+    },
+    "75": {
+        "「…………おお……歌だ。|　僕の知らない歌が　書かれているぞ！！": "... Oh, ..... There's a song in there I've|never heard of!"
+    },
+    "76": {
+        "「歌の名は……導きの歌。|　聖なる加護を　諸島に導くという内容だ。|　男王の唄う育みの歌に　まちがいない！": "The name of the song is... \"Guide... A holy|blessing to the Isles. It must be the|nurturing song of the Man King!"
+    },
+    "77": {
+        "「まさか　こんなに　あっさりと|　見つかるとは　思っていなかった……。": "I didn't expect it to be so easy to find..."
+    },
+    "78": {
+        "「この歌が　恵みの歌と　同じ効果を出せれば|　僕は　王になる資格を得たことになる！|　さっそく　城へ帰って　準備をしなければ。": "If this song has the same effect as the Song|of Grace, then I'm qualified to be king! Now,|I must return to the castle and prepare..."
+    },
+    "79": {
+        "「<pc>君。いろいろと手伝ってもらい|　君には　感謝の言葉もない。|　報酬として　これを受け取ってほしい。": "<pc> You. I just wanted to say thank you for all|your help. As a reward, you'll receive|this..."
+    },
+    "80": {
+        "「僕は　王となって　この諸島を守っていこう。|　かつて　シェルナーという勇士が|　そうしていたように……。": "I'm going to be a king and protect these|islands... As a brave warrior named Scherner|once did."
+    }
 }

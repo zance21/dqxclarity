@@ -1,113 +1,113 @@
 {
-  "1": {
-    "「おや……。あの者は……。|　我が城の　精鋭部隊の者か……。": ""
-  },
-  "2": {
-    "「ラグアス王子！　一大事であります！": ""
-  },
-  "3": {
-    "「エピステーサ丘陵を巡察している兵士から|　先ほど　報告が　ありました！": ""
-  },
-  "4": {
-    "「ここより西　エピステーサ丘陵の東にある|　ピテッザのほら穴に|　亡霊兵士が　現れたそうです！": ""
-  },
-  "5": {
-    "「亡霊兵士だって！？|　また　現れたのか！": ""
-  },
-  "6": {
-    "「多くの亡霊兵士が城を襲う　あの夢……。|　ぼくの見た夢が　もしも現実になるのなら|　亡霊兵士は　今後も現れるということか……。": ""
-  },
-  "7": {
-    "「民に　不安を与えるわけにはいかない！|　情報がもれないよう　お前たち精鋭部隊で|　亡霊兵士の　討伐に向かってくれ！": ""
-  },
-  "8": {
-    "「はっ！　おまかせください！": ""
-  },
-  "9": {
-    "「精鋭部隊は　いずれも|　メギストリス流剣術をマスターしている|　実力者たちばかりですが……": ""
-  },
-  "10": {
-    "「ぜひ　<pc>さんのチカラも|　貸していただきたい。": ""
-  },
-  "11": {
-    "「ここより西　エピステーサ丘陵の東にある|　ピテッザのほら穴へ行き　精鋭部隊と協力して|　亡霊兵士を　倒してくれませんか？": ""
-  },
-  "12": {
-    "「ありがとうございます！|　<pc>さんがいれば　不安はありません。|　それでは　よろしくお願いしますね。": ""
-  },
-  "13": {
-    "「ありがとうございます！|　……ですが　どうやら　頼まれごとを|　たくさん　抱えていらっしゃるようですね。": ""
-  },
-  "14": {
-    "「民の安全にも　関わりますので|　<pc>さんのチカラが　必要なんですが|　うーん……。困りましたね……。": ""
-  },
-  "15": {
-    "「ほかの用事が　終わったら|　また　ここに戻ってきてください。|　お待ちしてますよ　<pc>さん。": ""
-  },
-  "16": {
-    "「うーん……。そうですか。|　<pc>さんは　頼りになるので|　協力を　お願いしたいのですが……。": ""
-  },
-  "17": {
-    "「ムリに頼んでは失礼ですね。|　気が変わったら　また　来てください。|　ぼくは　ここで　お待ちしてます。": ""
-  },
-  "18": {
-    "「私たち…精鋭部隊が…敗れるとは……？|　な…なんという　強さだ……。": ""
-  },
-  "19": {
-    "「あの剣さばき　私たち…と似て…いる。|　メギストリス流剣術に…………。": ""
-  },
-  "20": {
-    "「我らハ　不屈ノ闘志を持つ豪傑……。|　我らヲ止めラレる者なド　おらヌ……。": ""
-  },
-  "21": {
-    "「我ラは　戦イ抜く……。|　愛すル家族ヲ　救いダすノダ……。": ""
-  },
-  "22": {
-    "「我ラは　戦イ抜く……。|　愛すル家族ヲ　救いダすノダ……。": ""
-  },
-  "23": {
-    "「おのレエエエ……。|　憎キ　フォステイルめ……。": ""
-  },
-  "24": {
-    "「パルカラス王ガ　フタタび|　号令ヲ　かけタ時……。|　我らハ進軍シ　愛すル家族ヲ　救いダす……。": ""
-  },
-  "25": {
-    "<cs_pchero>は|ボロボロの本（だいじなもの）を　手に入れた！<me 60>": ""
-  },
-  "26": {
-    "「これは　ずいぶんと古い本ですね。|　表紙に書かれている　題名を見るかぎり|　現代の文字では　ないようですが……。": ""
-  },
-  "27": {
-    "「うーむ……。これは……。|　昔　プクランド大陸で使われていた|　古代文字ですね。": ""
-  },
-  "28": {
-    "「以前　勉強していたので|　これくらいなら　ぼくでも　読めますよ。|　どれどれ……。": ""
-  },
-  "29": {
-    "「フォ……。ス……。テイル…伝……。|　フォステイル伝……？": ""
-  },
-  "30": {
-    "「こ…これは　もしや！": ""
-  },
-  "31": {
-    "「<pc>さん！|　この本は　もしかしたら　フォステイルの生涯が|　記された本かもしれませんよ！": ""
-  },
-  "32": {
-    "「５００年前　フォステイルが|　王国に仕官してから　王になるまでの歴史も|　この本になら　書かれているかもしれない……。": ""
-  },
-  "33": {
-    "「うーむ……。": ""
-  },
-  "34": {
-    "「本格的に　解読するとなると|　学者に頼まないと　ダメですね……。": ""
-  },
-  "35": {
-    "「よし……。学者たちを呼んで|　さっそく　解読させましょう。": ""
-  },
-  "36": {
-    "「亡霊を討伐し　貴重な本まで手に入れるとは|　さすがは　<pc>さんですね。|　どうぞ　これを受け取ってください。": ""
-  },
-  "37": {
-    "「これから　学者たちと協力して|　解読を行いますので　また　しばらくしたら|　来てください。よろしくお願いします。": ""
-  }
+    "1": {
+        "「おや……。あの者は……。|　我が城の　精鋭部隊の者か……。": "Oh... Is that... He's one of my castle's|elite troops."
+    },
+    "2": {
+        "「ラグアス王子！　一大事であります！": "Prince Raggedythe! It's important!"
+    },
+    "3": {
+        "「エピステーサ丘陵を巡察している兵士から|　先ほど　報告が　ありました！": "We just received a report from the soldiers|patrolling the Epistesa Hills!"
+    },
+    "4": {
+        "「ここより西　エピステーサ丘陵の東にある|　ピテッザのほら穴に|　亡霊兵士が　現れたそうです！": "A ghost soldier has appeared in the Pithetsa|Caves, west of here, east of the Epistesa|Hills!"
+    },
+    "5": {
+        "「亡霊兵士だって！？|　また　現れたのか！": "A ghost soldier? There you are again!"
+    },
+    "6": {
+        "「多くの亡霊兵士が城を襲う　あの夢……。|　ぼくの見た夢が　もしも現実になるのなら|　亡霊兵士は　今後も現れるということか……。": "I had a dream about a bunch of ghost soldiers|attacking a castle. If what I saw in my dream|is real, it means that the ghost soldiers|<br>|will continue to appear."
+    },
+    "7": {
+        "「民に　不安を与えるわけにはいかない！|　情報がもれないよう　お前たち精鋭部隊で|　亡霊兵士の　討伐に向かってくれ！": "We can't afford to unsettle the people! I|want you and your elite troops to take down|the Ghost Soldiers so that no information is|<br>|leaked!"
+    },
+    "8": {
+        "「はっ！　おまかせください！": "Ha! Leave it to me!"
+    },
+    "9": {
+        "「精鋭部隊は　いずれも|　メギストリス流剣術をマスターしている|　実力者たちばかりですが……": "All elite units| He is a master of the Megistris school of swordsmanship| They're all very capable, but"
+    },
+    "10": {
+        "「ぜひ　<pc>さんのチカラも|　貸していただきたい。": "certainly<pc> I'm going to need your help."
+    },
+    "11": {
+        "「ここより西　エピステーサ丘陵の東にある|　ピテッザのほら穴へ行き　精鋭部隊と協力して|　亡霊兵士を　倒してくれませんか？": "I need you to go to the Pithetsa Caves, east|of the Epistesa Hills, west of here, and work|with the elite troops to defeat the ghost|<br>|soldiers."
+    },
+    "12": {
+        "「ありがとうございます！|　<pc>さんがいれば　不安はありません。|　それでは　よろしくお願いしますね。": "Thank you!<pc> With you here, I don't have to worry about...|I look forward to working with you."
+    },
+    "13": {
+        "「ありがとうございます！|　……ですが　どうやら　頼まれごとを|　たくさん　抱えていらっしゃるようですね。": "Thank you! I know... But it seems you have a|lot of work to do."
+    },
+    "14": {
+        "「民の安全にも　関わりますので|　<pc>さんのチカラが　必要なんですが|　うーん……。困りましたね……。": "The safety of the public is also at stake|<pc> I'm going to need your help, but... I'm in|trouble..."
+    },
+    "15": {
+        "「ほかの用事が　終わったら|　また　ここに戻ってきてください。|　お待ちしてますよ　<pc>さん。": "When you're done with your other business,|you can come back here... I'll be waiting for|you.<pc> Three."
+    },
+    "16": {
+        "「うーん……。そうですか。|　<pc>さんは　頼りになるので|　協力を　お願いしたいのですが……。": "Hmm... Well...<pc> I know I can count on you, so I was hoping|you could help me."
+    },
+    "17": {
+        "「ムリに頼んでは失礼ですね。|　気が変わったら　また　来てください。|　ぼくは　ここで　お待ちしてます。": "I don't want to ask you to do anything you|don't want to do. If you change your mind,|please come back. I'll wait here..."
+    },
+    "18": {
+        "「私たち…精鋭部隊が…敗れるとは……？|　な…なんという　強さだ……。": "We... An elite force... Defeated...? Well...|What strength..."
+    },
+    "19": {
+        "「あの剣さばき　私たち…と似て…いる。|　メギストリス流剣術に…………。": "That sword play, we... Similar to .....|Megistris style sword fighting..."
+    },
+    "20": {
+        "「我らハ　不屈ノ闘志を持つ豪傑……。|　我らヲ止めラレる者なド　おらヌ……。": "We are great men of indomitable fighting|spirit. There is no one who can stop us..."
+    },
+    "21": {
+        "「我ラは　戦イ抜く……。|　愛すル家族ヲ　救いダすノダ……。": "I will fight to the bitter end... I will save|the family I love..."
+    },
+    "22": {
+        "「我ラは　戦イ抜く……。|　愛すル家族ヲ　救いダすノダ……。": "I will fight to the bitter end... I will save|the family I love..."
+    },
+    "23": {
+        "「おのレエエエ……。|　憎キ　フォステイルめ……。": "Oh, my dear... I hate you. I hate you. I hate|you."
+    },
+    "24": {
+        "「パルカラス王ガ　フタタび|　号令ヲ　かけタ時……。|　我らハ進軍シ　愛すル家族ヲ　救いダす……。": "When King Parka Raven gave the order... We|will march and save the families we love..."
+    },
+    "25": {
+        "<cs_pchero>は|ボロボロの本（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>I've got a tattered book!<me 60>"
+    },
+    "26": {
+        "「これは　ずいぶんと古い本ですね。|　表紙に書かれている　題名を見るかぎり|　現代の文字では　ないようですが……。": "This is a very old book... As far as I can|tell from the title on the cover, it's not in|modern script..."
+    },
+    "27": {
+        "「うーむ……。これは……。|　昔　プクランド大陸で使われていた|　古代文字ですね。": "Hmmm... This is... It's an ancient script|used on the continent of Pukland..."
+    },
+    "28": {
+        "「以前　勉強していたので|　これくらいなら　ぼくでも　読めますよ。|　どれどれ……。": "I've studied it before, so I can read this...|Let's see..."
+    },
+    "29": {
+        "「フォ……。ス……。テイル…伝……。|　フォステイル伝……？": "Fo... S... Tail... Den... Fosteilden...?"
+    },
+    "30": {
+        "「こ…これは　もしや！": "What the... What if it is?"
+    },
+    "31": {
+        "「<pc>さん！|　この本は　もしかしたら　フォステイルの生涯が|　記された本かもしれませんよ！": "<pc> Mr. Foster! This may be the book of|Fosthild's life!"
+    },
+    "32": {
+        "「５００年前　フォステイルが|　王国に仕官してから　王になるまでの歴史も|　この本になら　書かれているかもしれない……。": "This book may also contain the history of|Fosthild from the time she entered the|service of the kingdom 500 years ago until|<br>|she became king..."
+    },
+    "33": {
+        "「うーむ……。": "Hmmm..."
+    },
+    "34": {
+        "「本格的に　解読するとなると|　学者に頼まないと　ダメですね……。": "If I'm going to decipher it in earnest, I'm|going to have to call in the scholars..."
+    },
+    "35": {
+        "「よし……。学者たちを呼んで|　さっそく　解読させましょう。": "Okay... I'll call the scholars and have them|start deciphering..."
+    },
+    "36": {
+        "「亡霊を討伐し　貴重な本まで手に入れるとは|　さすがは　<pc>さんですね。|　どうぞ　これを受け取ってください。": "To slay a wraith and acquire a precious book| as one would expect<pc> Miss... Please, take this..."
+    },
+    "37": {
+        "「これから　学者たちと協力して|　解読を行いますので　また　しばらくしたら|　来てください。よろしくお願いします。": "I'll be working with my colleagues to|decipher the data, so please come back in a|little while. Please do."
+    }
 }

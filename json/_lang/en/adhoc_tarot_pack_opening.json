@@ -1,17 +1,17 @@
 {
     "1": {
-        "<pc>は|タロットパックを　開けようとした！|<br>|しかし　タロットカードを|これ以上　持ちきれないので|開けることが　できなかった！": ""
+        "<pc>は|タロットパックを　開けようとした！|<br>|しかし　タロットカードを|これ以上　持ちきれないので|開けることが　できなかった！": "<pc> He tried to open the tarot pack! But he|couldn't open it because he couldn't hold any|more tarot cards!"
     },
     "2": {
-        "<pc>は　タロットパックを開けた！": ""
+        "<pc>は　タロットパックを開けた！": "<pc> has opened his tarot pack!"
     },
     "3": {
-        "<pc>は|タロットパックを　<%nB_OPEN_NUM>個　開けた！": ""
+        "<pc>は|タロットパックを　<%nB_OPEN_NUM>個　開けた！": "<pc> has opened <%nB_OPEN_NUM> tarot packs!"
     },
     "4": {
-        "ランク<%sB_TAROT_RARE>のタロット|『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を手に入れた！<se_nots System 7><wait=400>": ""
+        "ランク<%sB_TAROT_RARE>のタロット|『<%sB_TAROT_ARCA>の<%sB_TAROT_MONS>』を手に入れた！<se_nots System 7><wait=400>": "I got a tarot of rank <%sB_TAROT_RARE>|\"<%sB_TAROT_MONS> of <%sB_TAROT_ARCA>\"!|<se_nots System 7><wait=400>"
     },
     "5": {
-        "<pc>は　タロットパックを開こうとした！|<br>|しかし　不思議なチカラで　開かない！|占い師に転職する　資格がなければ|パックを開くことは　できないようだ。": ""
+        "<pc>は　タロットパックを開こうとした！|<br>|しかし　不思議なチカラで　開かない！|占い師に転職する　資格がなければ|パックを開くことは　できないようだ。": "<pc> He tried to open the tarot pack! But by some|mysterious power, it wouldn't open! Unless|you're qualified to become a fortune teller,|<br>|you can't open the pack..."
     }
 }

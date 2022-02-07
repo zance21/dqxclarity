@@ -1,98 +1,98 @@
 {
-  "1": {
-    "「だ……れか　いませ……んか？<yesno><close>": ""
-  },
-  "2": {
-    "「……ああ。よ……やく　応えて……らえた。": ""
-  },
-  "3": {
-    "「シーバの鏡とは……２枚ひと組で|　遠く……はなれた相手と……会話できる|　魔法の…鏡なのです。": ""
-  },
-  "4": {
-    "「あなたは……<pc>さんで…すか。|　レベル３０以上の……魔法使いの方と|　お見受け……しました。": ""
-  },
-  "5": {
-    "「え…え。この鏡は……それなりの魔力を|　持った者に……しか　使えな…いのです。": ""
-  },
-  "6": {
-    "「ところで……私は　ウェ…ナ諸島に|　いるのですが……あなたは　ど…こで|　私の声を　聞いて……るのですか？": ""
-  },
-  "7": {
-    "「……ほほ…う。港町レンドアの…宿屋で…すか。|　それは　すば……らしい！": ""
-  },
-  "8": {
-    "「港町レンドアと…いうことは　鉄道を使えば|　オ……グリード大…陸の　ゲルト海…峡まで|　すぐじゃ……ないですか。": ""
-  },
-  "9": {
-    "「知りあった…ばかりの　あな…たに|　こんなこと頼む…のも　気が引けますが|　ひとつ　お願いが……るんです。": ""
-  },
-  "10": {
-    "「じつは　その　ゲルト海峡に出現す…る|　<%sEV_QUE_NAME0>に　イオでとどめをさすと|　魔導の石を　落とす……ですよ。": ""
-  },
-  "11": {
-    "「その　魔導の石を　手に入れて……|　もう一度　こ…の鏡に　話しかけて……|　もらえませ…んか？": ""
-  },
-  "12": {
-    "「おお。ありがとうござ…います。|　あなたは　すばらし……人だ！": ""
-  },
-  "13": {
-    "「くれぐれも　よろし……くお願いします。|　それでは　今日のとこ…ろは　|　こ……れで　失礼させていた……きますね。": ""
-  },
-  "14": {
-    "「おお。ありがとうござ…います。|　で…も　あなたは　たく…さんの|　頼まれご…とを　抱えているよ……ですね。": ""
-  },
-  "15": {
-    "「しかた……ありませんね。|　この件は　また今度……ということで。": ""
-  },
-  "16": {
-    "「そ…うですか。残念……です。|　もし　気が変わ……たら　また|　この鏡に　話しかけてみ……ください。": ""
-  },
-  "17": {
-    "「そ…れでは　その魔導の石を|　鏡に向か……て　かかげて…ください。|　こ…の鏡には　ステキな能力が　ある……です。": ""
-  },
-  "18": {
-    "「なんと　鏡自体の大き…さを超えな…モノなら|　鏡を通し…て　相手側に　送るこ……が|　できるんです…よ！": ""
-  },
-  "19": {
-    "魔導の石は　光に変わって|鏡の中に　吸い込まれていった！": ""
-  },
-  "20": {
-    "「ちゃん…と　届きまし…たよ。|　それでは　こちらか……も　今回のお礼……|　送らせてもら……ますね！": ""
-  },
-  "21": {
-    "「本当……あり……とうござい……た。|　あな……が　親切な……で……かったです。": ""
-  },
-  "22": {
-    "「あ…れ？　……を送っ……ら|　急に……声……れなくな…………したね。": ""
-  },
-  "23": {
-    "「こ……鏡は……古……から……調子が……。|　これ以……会話……には……。": ""
-  },
-  "24": {
-    "「……うですね。時が……たら……|　試し……しょう。……まで|　鏡の直しか…た……らべておきま……ね。": ""
-  },
-  "25": {
-    "「もしか……して　私の　お願い…を|　引き受けてく…れる気に　なりました…か？": ""
-  },
-  "26": {
-    "「私は……魔法使い…リュナン。|　たまたま　この…シーバの鏡を手に入れ……|　鏡の向こうの　あな…たに　話しかけて…ます。": ""
-  },
-  "27": {
-    "<pc>は　鏡のある客室に　泊まった。": ""
-  },
-  "28": {
-    "「……れか　い……か？": ""
-  },
-  "29": {
-    "<pc>は　鏡のある客室に　泊まった。": ""
-  },
-  "30": {
-    "「おや。あ…なたは　<pc>さん？|　ま…た　お会いできるとは……|　うれしい……ですね。": ""
-  },
-  "31": {
-    "<pc>は　鏡のある客室に　泊まった。": ""
-  },
-  "32": {
-    "「あ……あ。<pc>さん。|　約束の……魔導の石を……|　取ってきて……れたんで…すね。": ""
-  }
+    "1": {
+        "「だ……れか　いませ……んか？<yesno><close>": "No... Are any of you... No?<yesno><close>"
+    },
+    "2": {
+        "「……ああ。よ……やく　応えて……らえた。": "..... Yo... Yaku, please respond to ......"
+    },
+    "3": {
+        "「シーバの鏡とは……２枚ひと組で|　遠く……はなれた相手と……会話できる|　魔法の…鏡なのです。": "Sheba's mirror is... A pair of mirrors. To|speak with someone far away. A magic mirror.|A mirror..."
+    },
+    "4": {
+        "「あなたは……<pc>さんで…すか。|　レベル３０以上の……魔法使いの方と|　お見受け……しました。": "You are<pc> By three ..... Level 30+... I see you're a|wizard... I..."
+    },
+    "5": {
+        "「え…え。この鏡は……それなりの魔力を|　持った者に……しか　使えな…いのです。": "Eh .... This mirror... It can only be used by|someone with a certain amount of magic... It|can only be used by... I..."
+    },
+    "6": {
+        "「ところで……私は　ウェ…ナ諸島に|　いるのですが……あなたは　ど…こで|　私の声を　聞いて……るのですか？": "By the way... I'm in the Wen... I'm in the|Wenatchee Islands. I was wondering if you|could... Where can you hear me? Where are|<br>|you?"
+    },
+    "7": {
+        "「……ほほ…う。港町レンドアの…宿屋で…すか。|　それは　すば……らしい！": "... Hoho.... In the port town of Rendea... At|the inn ..... That's... It seems!"
+    },
+    "8": {
+        "「港町レンドアと…いうことは　鉄道を使えば|　オ……グリード大…陸の　ゲルト海…峡まで|　すぐじゃ……ないですか。": "The port city of Rendeau... Which means we|can take the train to... The Great Greedo...|On land, the Gelt Sea... It's not far from|<br>|the Gorge... No..."
+    },
+    "9": {
+        "「知りあった…ばかりの　あな…たに|　こんなこと頼む…のも　気が引けますが|　ひとつ　お願いが……るんです。": ""
+    },
+    "10": {
+        "「じつは　その　ゲルト海峡に出現す…る|　<%sEV_QUE_NAME0>に　イオでとどめをさすと|　魔導の石を　落とす……ですよ。": "The truth is, it appears in the Gelt|Strait... If you kill <%sEV_QUE_NAME0> with|Io, it will drop a magic stone. ......"
+    },
+    "11": {
+        "「その　魔導の石を　手に入れて……|　もう一度　こ…の鏡に　話しかけて……|　もらえませ…んか？": "I need to get my hands on that magic stone.|Talk to the mirror again... Talk to the|mirror. I can't get it... No?"
+    },
+    "12": {
+        "「おお。ありがとうござ…います。|　あなたは　すばらし……人だ！": "Oh. Thank you. ...... You are a wonderful...|People!"
+    },
+    "13": {
+        "「くれぐれも　よろし……くお願いします。|　それでは　今日のとこ…ろは　|　こ……れで　失礼させていた……きますね。": "I'd appreciate it if you would... Please...|And now for today... I'll leave you here...|And now, if you'll excuse me... I'm sorry..."
+    },
+    "14": {
+        "「おお。ありがとうござ…います。|　で…も　あなたは　たく…さんの|　頼まれご…とを　抱えているよ……ですね。": "Oh. Thank you. ...... And... Thank you.|You've got three requests... I've got a lot|of work to do. ......"
+    },
+    "15": {
+        "「しかた……ありませんね。|　この件は　また今度……ということで。": "I don't know. Yes... We'll talk about this|another time... I mean..."
+    },
+    "16": {
+        "「そ…うですか。残念……です。|　もし　気が変わ……たら　また|　この鏡に　話しかけてみ……ください。": "I... Ugh... Too bad. ..... If you change your|mind... If you change your mind... you can|talk to this mirror again... And..."
+    },
+    "17": {
+        "「そ…れでは　その魔導の石を|　鏡に向か……て　かかげて…ください。|　こ…の鏡には　ステキな能力が　ある……です。": "So... Then take that magic stone and hold it|up to the mirror... And hold it up... And...|This... This mirror has a wonderful ability:|<br>|....."
+    },
+    "18": {
+        "「なんと　鏡自体の大き…さを超えな…モノなら|　鏡を通し…て　相手側に　送るこ……が|　できるんです…よ！": ""
+    },
+    "19": {
+        "魔導の石は　光に変わって|鏡の中に　吸い込まれていった！": "The magic stone turned to light and was|sucked into the mirror!"
+    },
+    "20": {
+        "「ちゃん…と　届きまし…たよ。|　それでは　こちらか……も　今回のお礼……|　送らせてもら……ますね！": "Chan... And it arrived: ..... And now...|Thank you... I'll send it to you... Yes!"
+    },
+    "21": {
+        "「本当……あり……とうござい……た。|　あな……が　親切な……で……かったです。": "Really... There is... Thank you ....|You're... You... are... kind... And... So..."
+    },
+    "22": {
+        "「あ…れ？　……を送っ……ら|　急に……声……れなくな…………したね。": "Oh... What? ... I'll send you... And then|suddenly... Voice... I can't hear you. ......"
+    },
+    "23": {
+        "「こ……鏡は……古……から……調子が……。|　これ以……会話……には……。": "This... The mirror... Old... Since... Well...|No more... Conversation... I..."
+    },
+    "24": {
+        "「……うですね。時が……たら……|　試し……しょう。……まで|　鏡の直しか…た……らべておきま……ね。": "... Uh... When... When... Try .........|...until the mirror is straight... Ta... I'll|keep you posted. ...."
+    },
+    "25": {
+        "「もしか……して　私の　お願い…を|　引き受けてく…れる気に　なりました…か？": "Could you...? I was wondering... I feel like|you could... Are you ready to... Are you?"
+    },
+    "26": {
+        "「私は……魔法使い…リュナン。|　たまたま　この…シーバの鏡を手に入れ……|　鏡の向こうの　あな…たに　話しかけて…ます。": "I'm a... A wizard... I happen to be... I|happen to have this... I happen to have the|Mirror of Sheba. I'm a wizard. You can talk|<br>|to me at ....."
+    },
+    "27": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+    },
+    "28": {
+        "「……れか　い……か？": "... I'm not... Is it?"
+    },
+    "29": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+    },
+    "30": {
+        "「おや。あ…なたは　<pc>さん？|　ま…た　お会いできるとは……|　うれしい……ですね。": "Oh. Oh... Nataha.<pc> Three? I... I never thought I'd see you|again. I'm glad to see you. ......"
+    },
+    "31": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+    },
+    "32": {
+        "「あ……あ。<pc>さん。|　約束の……魔導の石を……|　取ってきて……れたんで…すね。": "あ....<pc> Three. The promised... The magic stone... Go|get it... At ....."
+    }
 }

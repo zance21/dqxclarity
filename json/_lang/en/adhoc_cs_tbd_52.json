@@ -1,356 +1,356 @@
 {
-  "1": {
-    "「突入は待ちたまえ　<pc>。": ""
-  },
-  "2": {
-    "「なにやら　中が騒がしいようだ。|　様子を見てくれ　ユナティ。": ""
-  },
-  "3": {
-    "「理由を答えろと　言っているんだ！|　なぜ　魔法戦士団を　キズつけた！！": ""
-  },
-  "4": {
-    "「ウソの取り引き情報で|　魔法戦士団を引きつけている間に　あんたが|　ドルワーム王国で　さわぎを起こす……。": ""
-  },
-  "5": {
-    "「そうやって　魔法戦士団の信用を落とすのが|　目的だったはずだろう！　なのに　彼らを|　攻撃するとは　どういうつもりだ！": ""
-  },
-  "6": {
-    "「キッヒッヒ。|　わしの商売をジャマするヤツは |　許さねえって　そんだけのことよ。": ""
-  },
-  "7": {
-    "「そういうことか……。|　つまり　あんたの妻が魔法戦士で|　任務で死んだっていうのも　ウソなんだな？": ""
-  },
-  "8": {
-    "「魔法戦士ってのは　殉職が多いからな。|　そうやって同情させりゃ　あんたが|　乗ってくるって　思っただけのことよ。": ""
-  },
-  "9": {
-    "「わしゃあ　花の独身貴族だ。キヒヒヒ。|　嫁なんかいたら　この仕事はできん。": ""
-  },
-  "10": {
-    "「……あんたは　もう　用済みだ。|　ちょうど　迎えが来てるぜえ？": ""
-  },
-  "11": {
-    "「待ってたぜ　魔法戦士団！|　裏切り者のノーランは　ここにいらぁ。|　タダでいいから　持ってけドロボー！": ""
-  },
-  "12": {
-    "「ノーランだけではない。|　貴様も連れていくぞ　魔物商人ザルギス。": ""
-  },
-  "13": {
-    "「おーっとっと。そいつは困る。|　仕事が　立て込んでるからなあ。|　キヒヒヒヒ……あばよ！": ""
-  },
-  "14": {
-    "「おのれ！　逃げるか！？": ""
-  },
-  "15": {
-    "「テキスト削除": ""
-  },
-  "16": {
-    "「衛士ノーラン！|　貴公を　国家反逆の罪で　捕縛する！": ""
-  },
-  "17": {
-    "「ノーラン。ザルギスのことを教えよ。|　あやつは　どこへ逃げた？　居所が　わかるか？": ""
-  },
-  "18": {
-    "「……ゴブル砂漠西。砂岩の洞くつの奥に|　魔物を集めて　取り引きの準備をしていました。|　おそらく　そこへ逃げこんだのでしょう。": ""
-  },
-  "19": {
-    "「貴公の言うことを　うのみにはできんが……。|　今は　その真偽を確かめている時間はないな。": ""
-  },
-  "20": {
-    "「このまま　向かいましょう。|　衛士ノーランは　私が監視します。": ""
-  },
-  "21": {
-    "「<pc>　追跡任務である。|　目標は　ゴブル砂漠西。砂岩の洞くつの奥だ。|　今度こそ　ザルギスを捕らえるのだ！": ""
-  },
-  "22": {
-    "「<cs_pchero>　遅いぞ。|　魔物商人ザルギスを　追いつめたところだ。": ""
-  },
-  "23": {
-    "「魔物商人ザルギス！　今度こそ　逃がさぬ。|　我が王国を　ゆるがさんとした悪事の数々|　断じて　許しがたい！！": ""
-  },
-  "24": {
-    "「ちっ……。こりゃあ　まずいな。|　商品の在庫が　心もとねえんだよなあ。": ""
-  },
-  "25": {
-    "「だが　ここで　あんたらだけでも|　消しておかないと　あとあと|　面倒なことに　なっちまいそうだな。": ""
-  },
-  "26": {
-    "「しかたねえ　大盤振るまいといくか。|　赤字覚悟で　プレミア付きの逸品！|　最強の商品を　見せてやらあ！！": ""
-  },
-  "27": {
-    "「むう！　こんな大物を　隠していたか……。": ""
-  },
-  "28": {
-    "「<cs_pchero>。いつもの作戦だ。|　貴公が　大物の相手をしている間に|　雑魚は　こちらで全滅させる。いいな？": ""
-  },
-  "29": {
-    "「キヒヒ……。作戦など　無意味よ。|　最強の名に恥じぬ　パワーを味わうがいい！": ""
-  },
-  "30": {
-    "「ギャォォォォン！！": ""
-  },
-  "31": {
-    "「テキスト削除": ""
-  },
-  "32": {
-    "「<cs_pchero>　間に合ったか！|　この戦いは　負けられないのだ。|　貴公には　大物の相手を　まかせる！！": ""
-  },
-  "33": {
-    "「魔法戦士ってえのは　本当に　しぶてえなあ。|　そんなに　最強商品と　遊びたいってんなら|　もういっぺん　サービスしてやるぜ！": ""
-  },
-  "34": {
-    "「ギャォォォォン！！": ""
-  },
-  "35": {
-    "「キヒヒ……。最強の商品が　やられるとはな。|　だが　まだ　終わりじゃねえからよ……。": ""
-  },
-  "36": {
-    "「まだ　魔物を隠しているのか？": ""
-  },
-  "37": {
-    "「ノーラン……てめえ……。": ""
-  },
-  "38": {
-    "「こいつを捕らえて　自首するつもりでした。": ""
-  },
-  "39": {
-    "「私が　魔法戦士団を　おとしいれたことは|　まぎれもない事実です。しかし……": ""
-  },
-  "40": {
-    "「魔法戦士団の壊滅を　望んだのではありません。|　ただ　魔法戦士団が信用を失い|　解散になればいいと　思っただけなんです……。": ""
-  },
-  "41": {
-    "「どうして！？　ノーラン兄ちゃん！|　どうして　そんなことを！？": ""
-  },
-  "42": {
-    "「ユナティ……。": ""
-  },
-  "43": {
-    "「ノーランよ。お前が　魔法戦士を|　忌避していたことは　わかっている。": ""
-  },
-  "44": {
-    "「だが　魔法戦士団の解散を願うまでに|　至った理由は　それだけではあるまい。|　語るがよい。長話になっても　構わんぞ。": ""
-  },
-  "45": {
-    "「………………。 ": ""
-  },
-  "46": {
-    "「……私が生まれた町は |　ウェナ諸島の　西のはずれに浮かぶ|　小さな島の　小さな町でした。": ""
-  },
-  "47": {
-    "「ヴェリナード王国のような　豊かな所では|　ありませんでしたが　一年中|　違う花が咲きほこる　美しい町でした。": ""
-  },
-  "48": {
-    "「私の父は　誇り高き魔法戦士で……|　父親同士が親友だった　ユナティとは|　幼い頃から　ずっと　一緒にいました。": ""
-  },
-  "49": {
-    "「そして　やはり魔法戦士だった　ユナティの父が|　任務の最中に　遠征地で命を落としたのは|　ユナティが　まだ４才のとき……。": ""
-  },
-  "50": {
-    "「父は　親友の娘である　ユナティを引き取り|　私とユナティは　本当の兄妹になりました。": ""
-  },
-  "51": {
-    "「子供のころ　魔法戦士として　遠い国で活躍する|　父の話を聞くのが　何よりも好きでした。|　私にとって　父は　まさに　英雄だった……。": ""
-  },
-  "52": {
-    "「そんな　ある日…………。|　あの　忌まわしい事件がおきたのです。": ""
-  },
-  "53": {
-    "「魔物の大群が　町中に現れ|　私とユナティは　何もできず|　家のすみで　母に抱かれていました。": ""
-  },
-  "54": {
-    "「父は　任務で遠征していて|　私たちは　ただ　ふるえながら|　父の助けを待つより　ありませんでした。": ""
-  },
-  "55": {
-    "「そのとき　私は　心の中で何度も思いました。": ""
-  },
-  "56": {
-    "「父は　必ず　来てくれる。|　母と私とユナティを　助けるために……と。": ""
-  },
-  "57": {
-    "「しかし……父は…………。": ""
-  },
-  "58": {
-    "「魔法戦士の誇りである　任務の完了を優先し|　そのまま　遠征地で　散りました。": ""
-  },
-  "59": {
-    "「私とユナティは　衛士に救われましたが |　母は　魔物に殺され……|　町も無残に　消え去りました。": ""
-  },
-  "60": {
-    "「だから　私は　魔法戦士には　なれなかった！ |　家族より　故郷より　任務を優先させる|　魔法戦士になど　なりたくもなかった！": ""
-  },
-  "61": {
-    "「ノーラン兄ちゃん！|　それは　ちがうわ！": ""
-  },
-  "62": {
-    "「お前の　その想いは　当然　わかっていた。|　だが　衛士となった　お前は　その呪縛から|　解き放たれていたはずではないか。": ""
-  },
-  "63": {
-    "「それが　なぜ今になって|　魔法戦士団の解散などを目論んだのだ。": ""
-  },
-  "64": {
-    "「それは…………。": ""
-  },
-  "65": {
-    "「……怖くなったのです。|　再び　愛すべき家族を|　失ってしまうのではないかと……。": ""
-  },
-  "66": {
-    "「魔法戦士は　危険すぎる。|　このままでは　ユナティまでも失ってしまう。|　死んでいった父と　同じように……。": ""
-  },
-  "67": {
-    "「だから　私は　思ったんです。|　魔法戦士団など　なくなってしまえばいいと。|　そうすれば　ユナティも死なずに済む……。": ""
-  },
-  "68": {
-    "「ちがう……。|　ちがうよ　ノーラン兄ちゃん。": ""
-  },
-  "69": {
-    "「魔法戦士が　遠くの地で戦うのは|　このウェナ諸島を守りたいっていう|　強い想いが　あるからなのよ。": ""
-  },
-  "70": {
-    "「その想いのためなら|　私は死ぬことなんて　怖くないの……。 ": ""
-  },
-  "71": {
-    "「母さんは　最期にオレに言った。": ""
-  },
-  "72": {
-    "「お父さんは　きっと今頃　遠くの場所で|　誰かを助けるために戦っている。そんな勇ましく|　優しい父親を持てて　お前は幸せだと……。": ""
-  },
-  "73": {
-    "「……だが　その言葉は|　オレの心を　楽にしてはくれなかった。": ""
-  },
-  "74": {
-    "「……オレは　今も　わからない！|　父さんも　母さんも　本当に幸せだったのか！": ""
-  },
-  "75": {
-    "「オレなら……オレなら　生きて|　愛する人を守りたい。そのためなら|　どんな卑怯なことでも　してみせる……。": ""
-  },
-  "76": {
-    "「衛士ノーラン。": ""
-  },
-  "77": {
-    "「我輩は　多くは語れぬが|　あの任務は　ウェナ諸島を守るため|　決して　失敗の許されぬ　任務だったのだ。": ""
-  },
-  "78": {
-    "「だがな……。そのような　任務の中でも|　貴公の父上は　家族を忘れたりしなかったぞ。": ""
-  },
-  "79": {
-    "「……貴公の父上は　最期に|　部下であった我輩に　この証を託したのだ。": ""
-  },
-  "80": {
-    "「貴公が　一人前の魔法戦士になったとき|　渡してほしいと　頼まれていた。|　今　渡すべきでは　ないかもしれぬが……。": ""
-  },
-  "81": {
-    "「魔法戦士の証……。": ""
-  },
-  "82": {
-    "「お父さんたちは　私とノーラン兄ちゃんが|　立派な魔法戦士になると思っていたのよ。": ""
-  },
-  "83": {
-    "「だから　危険な任務に　命をかけることも|　恐れなかった。私たちが　お父さんの願いを|　受け継いでくれると　信じていたから……。": ""
-  },
-  "84": {
-    "「ううっ……うっ……。": ""
-  },
-  "85": {
-    "「……<cs_pchero>。今回の任務は　終わった。|　衛士ノーランと　魔物商人ザルギスは|　我々が　ヴェリナード城へ連行する。": ""
-  },
-  "86": {
-    "「貴公も　魔法戦士団サロンへ来てくれ。|　任務　ご苦労であった！": ""
-  },
-  "87": {
-    "「その罪　まことに許しがたいが|　ノーランは　魔物商人ザルギスの巧言により|　利用されたことも　事実である。": ""
-  },
-  "88": {
-    "「ならば　情状酌量の余地はある。|　いたずらに　優秀な衛士を失うことは|　わらわの本意ではない。": ""
-  },
-  "89": {
-    "「魔法戦士団　副団長ユナティよ。": ""
-  },
-  "90": {
-    "「はっ！": ""
-  },
-  "91": {
-    "「ノーランとは　兄妹として育ったと聞く。|　この裁き。お前に　ゆだねよう。": ""
-  },
-  "92": {
-    "「……かしこまりました。": ""
-  },
-  "93": {
-    "「衛士ノーラン！": ""
-  },
-  "94": {
-    "「貴公は　魔物商人ザルギスと結託し|　魔法戦士団を　壊滅の危機に追い込んだ！": ""
-  },
-  "95": {
-    "「しかし！　魔物商人ザルギスによる巧言。 |　また　不幸な過去により　父母を亡くしたという|　生い立ちには　情状酌量の余地がある。": ""
-  },
-  "96": {
-    "「なにより　衛士として残した功績の大きさ。|　優秀な衛士を失うことを　避けたいという|　女王のお言葉は　まことに正しきご判断である。": ""
-  },
-  "97": {
-    "「……しかし！": ""
-  },
-  "98": {
-    "「一時とはいえ　国家を危機におとしいれ|　魔法戦士団を　キズつけるに至った　その行い|　断じて　許しがたし！　 ": ""
-  },
-  "99": {
-    "「よって　衛士ノーランを重罪人と裁定し |　永久に罪を償わせるべく　国外追放に処す！ ": ""
-  },
-  "100": {
-    "「生涯　このウェナ諸島に|　足を踏み入れることは　許さぬ！！": ""
-  },
-  "101": {
-    "「……それで　よいのか　ユナティ。": ""
-  },
-  "102": {
-    "「はい。魔法戦士の誇りにかけて。": ""
-  },
-  "103": {
-    "「衛士ノーランの処遇は決まった。|　これは　わらわの裁定として受け取るがいい。": ""
-  },
-  "104": {
-    "「心せよ　皆の者。": ""
-  },
-  "105": {
-    "「魔法戦士団は　我が左手であり|　衛士団は　我が右手であることを。": ""
-  },
-  "106": {
-    "「今後　このようなことは　起こらぬと|　わらわは　信じている。以上だ。": ""
-  },
-  "107": {
-    "「魔法戦士の誇り　見せてもらった。": ""
-  },
-  "108": {
-    "「フッ……。我輩から　言うことはない。": ""
-  },
-  "109": {
-    "「<pc>。貴公の活躍で|　大きな事件を　解決することができた。": ""
-  },
-  "110": {
-    "「貴公は　優れた魔法戦士となった。|　私が教えた者たちの中で　もっとも|　優秀と言えるだろう。": ""
-  },
-  "111": {
-    "「ゆえに　私は　ヴェリナード王立魔法戦士団|　副団長の権限により　貴公に　これを授けたい。": ""
-  },
-  "112": {
-    "「真に優れた魔法戦士にのみ|　与えることを許された　魔法戦士の証だ。|　さあ　受け取ってくれ。": ""
-  },
-  "113": {
-    "「それに　ふさわしい　報酬を用意した。|　さあ　受け取ってくれ。": ""
-  },
-  "114": {
-    "「アーベルク団長と　話したことを伝えよう。|　貴公は　本日をもって　魔法戦士団の|　団員としての任を　解かれることになった。": ""
-  },
-  "115": {
-    "「貴公は　魔法戦士団という|　ひとつの組織に　収まる器ではない。|　その目は　もっと遠くを見ているのだろう？": ""
-  },
-  "116": {
-    "「今後　貴公は　自身の判断で行動し|　世界を守るために　はたらいてほしい。|　期待しているぞ　魔法戦士　<pc>！": ""
-  },
-  "117": {
-    "<center>ヴェリナード城　女王の間で|女王ディオーレによって|衛士ノーランの裁きが　開始された……。": ""
-  },
-  "118": {
-    "「……話は　わかった。|　衛士ノーランは　我が魔法戦士団を|　危機に　おとしいれたということだな。": ""
-  }
+    "1": {
+        "「突入は待ちたまえ　<pc>。": "Wait to go in<pc> 。"
+    },
+    "2": {
+        "「なにやら　中が騒がしいようだ。|　様子を見てくれ　ユナティ。": "There's a lot of noise in there. Check it|out, Yoo..."
+    },
+    "3": {
+        "「理由を答えろと　言っているんだ！|　なぜ　魔法戦士団を　キズつけた！！": "I'm asking you to tell me why! Why did you|hurt the Warriors? !"
+    },
+    "4": {
+        "「ウソの取り引き情報で|　魔法戦士団を引きつけている間に　あんたが|　ドルワーム王国で　さわぎを起こす……。": "While you're attracting the Warlocks with|false trade information, you're causing a|ruckus in the kingdom of Dolworm..."
+    },
+    "5": {
+        "「そうやって　魔法戦士団の信用を落とすのが|　目的だったはずだろう！　なのに　彼らを|　攻撃するとは　どういうつもりだ！": "I thought the whole point of this was to|discredit the Warlords! So why are you|attacking them? !"
+    },
+    "6": {
+        "「キッヒッヒ。|　わしの商売をジャマするヤツは |　許さねえって　そんだけのことよ。": "No! I won't allow anyone to interfere with my|business. That's all I'm saying."
+    },
+    "7": {
+        "「そういうことか……。|　つまり　あんたの妻が魔法戦士で|　任務で死んだっていうのも　ウソなんだな？": "So... So you're lying about your wife being a|warrior and dying in the line of duty?"
+    },
+    "8": {
+        "「魔法戦士ってのは　殉職が多いからな。|　そうやって同情させりゃ　あんたが|　乗ってくるって　思っただけのことよ。": "Mage deaths are common. I just thought that|if I made you feel sorry for me, you'd come|on board."
+    },
+    "9": {
+        "「わしゃあ　花の独身貴族だ。キヒヒヒ。|　嫁なんかいたら　この仕事はできん。": "I'm a flower bachelor... Ki... If I had a|wife, this job would be..."
+    },
+    "10": {
+        "「……あんたは　もう　用済みだ。|　ちょうど　迎えが来てるぜえ？": "I'm sorry. You're not going anywhere. You've|just been picked up."
+    },
+    "11": {
+        "「待ってたぜ　魔法戦士団！|　裏切り者のノーランは　ここにいらぁ。|　タダでいいから　持ってけドロボー！": "We've been waiting for you, Legionnaires! The|traitor Nolan is here... Take it for free,|you piece of shit!"
+    },
+    "12": {
+        "「ノーランだけではない。|　貴様も連れていくぞ　魔物商人ザルギス。": "Nolan alone... I'm taking you with me, demon|trader..."
+    },
+    "13": {
+        "「おーっとっと。そいつは困る。|　仕事が　立て込んでるからなあ。|　キヒヒヒヒ……あばよ！": "Ooh... That guy... He's got a lot of work to|do... Khihihihihi... Goodbye!"
+    },
+    "14": {
+        "「おのれ！　逃げるか！？": "Hey! You're running away!"
+    },
+    "15": {
+        "「テキスト削除": "text deletion"
+    },
+    "16": {
+        "「衛士ノーラン！|　貴公を　国家反逆の罪で　捕縛する！": "Guardsman Nolan! You are under arrest for|treason!"
+    },
+    "17": {
+        "「ノーラン。ザルギスのことを教えよ。|　あやつは　どこへ逃げた？　居所が　わかるか？": "No... Zargis... Where did he go? Do you know|where he is?"
+    },
+    "18": {
+        "「……ゴブル砂漠西。砂岩の洞くつの奥に|　魔物を集めて　取り引きの準備をしていました。|　おそらく　そこへ逃げこんだのでしょう。": "... Gobble... Deep in a sandstone cave,|they're gathering demons, ready to strike a|deal. Maybe that's where he ran to."
+    },
+    "19": {
+        "「貴公の言うことを　うのみにはできんが……。|　今は　その真偽を確かめている時間はないな。": "I can't take your word for it, but... But now|is not the time to find out if they're true."
+    },
+    "20": {
+        "「このまま　向かいましょう。|　衛士ノーランは　私が監視します。": "We're on our way to... I've got eyes on|Nolan, the guard..."
+    },
+    "21": {
+        "「<pc>　追跡任務である。|　目標は　ゴブル砂漠西。砂岩の洞くつの奥だ。|　今度こそ　ザルギスを捕らえるのだ！": "<pc> Pursuit mission... Target: Gobble... A|sandstone cave... This time we must capture|Zargis!"
+    },
+    "22": {
+        "「<cs_pchero>　遅いぞ。|　魔物商人ザルギスを　追いつめたところだ。": "<cs_pchero>... You've hunted down the demon trader|Zargis..."
+    },
+    "23": {
+        "「魔物商人ザルギス！　今度こそ　逃がさぬ。|　我が王国を　ゆるがさんとした悪事の数々|　断じて　許しがたい！！": "Zargis the Demon Merchant! This time, he will|escape. The evil you've done to my kingdom is|unforgivable!"
+    },
+    "24": {
+        "「ちっ……。こりゃあ　まずいな。|　商品の在庫が　心もとねえんだよなあ。": "Oh, my... Oh, no... We don't have enough|merchandise in stock..."
+    },
+    "25": {
+        "「だが　ここで　あんたらだけでも|　消しておかないと　あとあと|　面倒なことに　なっちまいそうだな。": "But if we don't get rid of you guys here, we|might get into trouble later..."
+    },
+    "26": {
+        "「しかたねえ　大盤振るまいといくか。|　赤字覚悟で　プレミア付きの逸品！|　最強の商品を　見せてやらあ！！": "I don't have a choice. I'll give you a big|discount. I'm willing to take a loss on this|one. It's a premium product. Let's show them|<br>|what we've got!"
+    },
+    "27": {
+        "「むう！　こんな大物を　隠していたか……。": "Mmm! You're hiding something this big."
+    },
+    "28": {
+        "「<cs_pchero>。いつもの作戦だ。|　貴公が　大物の相手をしている間に|　雑魚は　こちらで全滅させる。いいな？": "<cs_pchero>. The usual... While you're dealing with the|big fish, we'll take care of the little fish.|All right?"
+    },
+    "29": {
+        "「キヒヒ……。作戦など　無意味よ。|　最強の名に恥じぬ　パワーを味わうがいい！": "Khihihi... There is no plan... You're the|strongest of them all!"
+    },
+    "30": {
+        "「ギャォォォォン！！": "Gahhhh!"
+    },
+    "31": {
+        "「テキスト削除": "text deletion"
+    },
+    "32": {
+        "「<cs_pchero>　間に合ったか！|　この戦いは　負けられないのだ。|　貴公には　大物の相手を　まかせる！！": "<cs_pchero>You're just in time! This is a battle we|cannot lose. This is a fight I cannot lose."
+    },
+    "33": {
+        "「魔法戦士ってえのは　本当に　しぶてえなあ。|　そんなに　最強商品と　遊びたいってんなら|　もういっぺん　サービスしてやるぜ！": "A magic warrior is a very stubborn man. If|you're so eager to play with the best of the|best, I'll give you one more chance!"
+    },
+    "34": {
+        "「ギャォォォォン！！": "Gahhhh!"
+    },
+    "35": {
+        "「キヒヒ……。最強の商品が　やられるとはな。|　だが　まだ　終わりじゃねえからよ……。": "Khihihi... Our most powerful product is about|to be destroyed... But it's not over yet..."
+    },
+    "36": {
+        "「まだ　魔物を隠しているのか？": "You're still hiding the demon?"
+    },
+    "37": {
+        "「ノーラン……てめえ……。": "Nolan... What the hell..."
+    },
+    "38": {
+        "「こいつを捕らえて　自首するつもりでした。": "We're gonna catch this guy and turn him in..."
+    },
+    "39": {
+        "「私が　魔法戦士団を　おとしいれたことは|　まぎれもない事実です。しかし……": "It's no secret that I've brought down the|League of Legends. But..."
+    },
+    "40": {
+        "「魔法戦士団の壊滅を　望んだのではありません。|　ただ　魔法戦士団が信用を失い|　解散になればいいと　思っただけなんです……。": "It wasn't that I wanted to see the Order|destroyed. I just wanted to see the Order|discredited and disbanded."
+    },
+    "41": {
+        "「どうして！？　ノーラン兄ちゃん！|　どうして　そんなことを！？": "Why? Brother Nolan! Why did you do that?"
+    },
+    "42": {
+        "「ユナティ……。": "Unathi..."
+    },
+    "43": {
+        "「ノーランよ。お前が　魔法戦士を|　忌避していたことは　わかっている。": "No, no, no. I know you've always had an|aversion to warriors."
+    },
+    "44": {
+        "「だが　魔法戦士団の解散を願うまでに|　至った理由は　それだけではあるまい。|　語るがよい。長話になっても　構わんぞ。": "But that's not the only reason I've come to|the point of wishing the Warriors away. I'll|tell you... I don't care if it's a long|<br>|story..."
+    },
+    "45": {
+        "「………………。 ": "..."
+    },
+    "46": {
+        "「……私が生まれた町は |　ウェナ諸島の　西のはずれに浮かぶ|　小さな島の　小さな町でした。": "... I was born in a small town on a small|island on the western edge of the Wenatchee|Islands..."
+    },
+    "47": {
+        "「ヴェリナード王国のような　豊かな所では|　ありませんでしたが　一年中|　違う花が咲きほこる　美しい町でした。": "It wasn't as rich as the Kingdom of Velinade,|but it was a beautiful city with different|flowers blooming all year round..."
+    },
+    "48": {
+        "「私の父は　誇り高き魔法戦士で……|　父親同士が親友だった　ユナティとは|　幼い頃から　ずっと　一緒にいました。": "My father was a proud warrior of magic. Our|fathers were best friends, and Unathi and I|have been together since we were children."
+    },
+    "49": {
+        "「そして　やはり魔法戦士だった　ユナティの父が|　任務の最中に　遠征地で命を落としたのは|　ユナティが　まだ４才のとき……。": "And Unathi's father, also a warrior, was|killed in the middle of an expedition when|Unathi was only four years old..."
+    },
+    "50": {
+        "「父は　親友の娘である　ユナティを引き取り|　私とユナティは　本当の兄妹になりました。": "My father took in Unathi, the daughter of his|best friend, and Unathi and I became real|siblings."
+    },
+    "51": {
+        "「子供のころ　魔法戦士として　遠い国で活躍する|　父の話を聞くのが　何よりも好きでした。|　私にとって　父は　まさに　英雄だった……。": "When I was a child, I loved nothing more than|to listen to my father tell stories of his|exploits as a magical warrior in faraway|<br>|lands. To me, he was a true hero."
+    },
+    "52": {
+        "「そんな　ある日…………。|　あの　忌まわしい事件がおきたのです。": "Then one day... The abominable incident|occurred..."
+    },
+    "53": {
+        "「魔物の大群が　町中に現れ|　私とユナティは　何もできず|　家のすみで　母に抱かれていました。": "A horde of demons had swept through the town,|and Unathi and I were helpless in the corner|of the house in my mother's arms."
+    },
+    "54": {
+        "「父は　任務で遠征していて|　私たちは　ただ　ふるえながら|　父の助けを待つより　ありませんでした。": "My father is away on a mission, and all we|can do is wait, trembling, for his help..."
+    },
+    "55": {
+        "「そのとき　私は　心の中で何度も思いました。": "At that moment, I kept going over and over in|my mind..."
+    },
+    "56": {
+        "「父は　必ず　来てくれる。|　母と私とユナティを　助けるために……と。": "My father will come... To help my mother and|me and Unathi. ...."
+    },
+    "57": {
+        "「しかし……父は…………。": "But... My father..."
+    },
+    "58": {
+        "「魔法戦士の誇りである　任務の完了を優先し|　そのまま　遠征地で　散りました。": "As a proud warrior, my priority is to|complete my mission."
+    },
+    "59": {
+        "「私とユナティは　衛士に救われましたが |　母は　魔物に殺され……|　町も無残に　消え去りました。": "Unathi and I were saved by the guards, but my|mother was killed by a demon. And the town|was wiped out."
+    },
+    "60": {
+        "「だから　私は　魔法戦士には　なれなかった！ |　家族より　故郷より　任務を優先させる|　魔法戦士になど　なりたくもなかった！": "That's why I couldn't be a magic warrior. I|didn't want to be a warrior who put my|mission before my family, before my home,|<br>|before everything!"
+    },
+    "61": {
+        "「ノーラン兄ちゃん！|　それは　ちがうわ！": "Brother Nolan! That's not right!"
+    },
+    "62": {
+        "「お前の　その想いは　当然　わかっていた。|　だが　衛士となった　お前は　その呪縛から|　解き放たれていたはずではないか。": "I understand your feelings, of course... But|when you became a guard, you should have been|free from that curse..."
+    },
+    "63": {
+        "「それが　なぜ今になって|　魔法戦士団の解散などを目論んだのだ。": "So why are you now plotting to disband the|Order of Magical Warriors?"
+    },
+    "64": {
+        "「それは…………。": "It's..."
+    },
+    "65": {
+        "「……怖くなったのです。|　再び　愛すべき家族を|　失ってしまうのではないかと……。": "... I'm scared... I was afraid that I would|lose my loving family again."
+    },
+    "66": {
+        "「魔法戦士は　危険すぎる。|　このままでは　ユナティまでも失ってしまう。|　死んでいった父と　同じように……。": "The warrior is dangerous. If we don't do|something, we'll lose Unathi, too. Like my|father who died."
+    },
+    "67": {
+        "「だから　私は　思ったんです。|　魔法戦士団など　なくなってしまえばいいと。|　そうすれば　ユナティも死なずに済む……。": "So I thought... If only the League of Magical|Warriors could disappear. Then Unathi|wouldn't have to die."
+    },
+    "68": {
+        "「ちがう……。|　ちがうよ　ノーラン兄ちゃん。": "No... No, brother Nolan..."
+    },
+    "69": {
+        "「魔法戦士が　遠くの地で戦うのは|　このウェナ諸島を守りたいっていう|　強い想いが　あるからなのよ。": "The reason why magic warriors fight in|faraway lands is because they want to protect|the Wena Islands."
+    },
+    "70": {
+        "「その想いのためなら|　私は死ぬことなんて　怖くないの……。 ": "I'm not afraid to die for that feeling."
+    },
+    "71": {
+        "「母さんは　最期にオレに言った。": "She gave me the last..."
+    },
+    "72": {
+        "「お父さんは　きっと今頃　遠くの場所で|　誰かを助けるために戦っている。そんな勇ましく|　優しい父親を持てて　お前は幸せだと……。": "I'm sure your father is in a faraway place|right now, fighting to save someone. I think|you're lucky to have such a brave and kind|<br>|father."
+    },
+    "73": {
+        "「……だが　その言葉は|　オレの心を　楽にしてはくれなかった。": "I'm sorry. But those words don't make me feel|any better."
+    },
+    "74": {
+        "「……オレは　今も　わからない！|　父さんも　母さんも　本当に幸せだったのか！": "I... I still don't know! I don't know if my|dad and my mom were really happy!"
+    },
+    "75": {
+        "「オレなら……オレなら　生きて|　愛する人を守りたい。そのためなら|　どんな卑怯なことでも　してみせる……。": "I would... I'd live to protect the people I|love. I'll do whatever it takes to protect|the people I love."
+    },
+    "76": {
+        "「衛士ノーラン。": "Guardino..."
+    },
+    "77": {
+        "「我輩は　多くは語れぬが|　あの任務は　ウェナ諸島を守るため|　決して　失敗の許されぬ　任務だったのだ。": "I can't tell you much, but that mission was|to protect the Wenatchee Islands, and it was|a mission that could not fail."
+    },
+    "78": {
+        "「だがな……。そのような　任務の中でも|　貴公の父上は　家族を忘れたりしなかったぞ。": "But you see... But even in the midst of such|a mission, your father never forgot his|family."
+    },
+    "79": {
+        "「……貴公の父上は　最期に|　部下であった我輩に　この証を託したのだ。": "... Your father, in his final moments,|entrusted this token to me, his servant."
+    },
+    "80": {
+        "「貴公が　一人前の魔法戦士になったとき|　渡してほしいと　頼まれていた。|　今　渡すべきでは　ないかもしれぬが……。": "You asked me to give it to you when you|became a full-fledged warrior. Perhaps I|shouldn't give it to you now, but..."
+    },
+    "81": {
+        "「魔法戦士の証……。": "The mark of a magic warrior..."
+    },
+    "82": {
+        "「お父さんたちは　私とノーラン兄ちゃんが|　立派な魔法戦士になると思っていたのよ。": "Our fathers thought that Brother Nolan and I|would make great warriors."
+    },
+    "83": {
+        "「だから　危険な任務に　命をかけることも|　恐れなかった。私たちが　お父さんの願いを|　受け継いでくれると　信じていたから……。": "That's why I'm not afraid to risk my life on|a dangerous mission... I believed that we|could carry on your father's work."
+    },
+    "84": {
+        "「ううっ……うっ……。": "Ugh... Ugh..."
+    },
+    "85": {
+        "「……<cs_pchero>。今回の任務は　終わった。|　衛士ノーランと　魔物商人ザルギスは|　我々が　ヴェリナード城へ連行する。": "<cs_pchero>This mission is over. This mission is over...|Nolan, the guard, and Zargis, the merchant,|will take us to Castle Verrinard."
+    },
+    "86": {
+        "「貴公も　魔法戦士団サロンへ来てくれ。|　任務　ご苦労であった！": "You, too, have come to the Warriors' Salon.|Thank you for your service!"
+    },
+    "87": {
+        "「その罪　まことに許しがたいが|　ノーランは　魔物商人ザルギスの巧言により|　利用されたことも　事実である。": "That crime is truly unforgivable, but it is|also true that Nolan was taken advantage of|by the wiles of the demon trader Zargis."
+    },
+    "88": {
+        "「ならば　情状酌量の余地はある。|　いたずらに　優秀な衛士を失うことは|　わらわの本意ではない。": "Then there are extenuating circumstances...|It is not my intention to unnecessarily lose|a good guard..."
+    },
+    "89": {
+        "「魔法戦士団　副団長ユナティよ。": "Magical Warriors, Vice Commander Yuna..."
+    },
+    "90": {
+        "「はっ！": "Ha!"
+    },
+    "91": {
+        "「ノーランとは　兄妹として育ったと聞く。|　この裁き。お前に　ゆだねよう。": "Nolan and I grew up as brother and sister...|I... I'm giving you..."
+    },
+    "92": {
+        "「……かしこまりました。": "... I'll be right with you."
+    },
+    "93": {
+        "「衛士ノーラン！": "Guardsman Nolan!"
+    },
+    "94": {
+        "「貴公は　魔物商人ザルギスと結託し|　魔法戦士団を　壊滅の危機に追い込んだ！": "You have colluded with the demon trader|Zarghis and brought the Legion to the brink|of destruction!"
+    },
+    "95": {
+        "「しかし！　魔物商人ザルギスによる巧言。 |　また　不幸な過去により　父母を亡くしたという|　生い立ちには　情状酌量の余地がある。": "But! The demon merchant Zargis... He's also|lost his parents due to an unfortunate|past... so there are extenuating|<br>|circumstances..."
+    },
+    "96": {
+        "「なにより　衛士として残した功績の大きさ。|　優秀な衛士を失うことを　避けたいという|　女王のお言葉は　まことに正しきご判断である。": "But most of all, I would like to thank you|for your service to the Guard. The queen's|decision not to lose her best guards is a|<br>|sound one..."
+    },
+    "97": {
+        "「……しかし！": "... But!"
+    },
+    "98": {
+        "「一時とはいえ　国家を危機におとしいれ|　魔法戦士団を　キズつけるに至った　その行い|　断じて　許しがたし！　 ": "You have put the nation in danger, even if|only temporarily, and you have wounded the|Legion of Magic, and that is unforgivable!"
+    },
+    "99": {
+        "「よって　衛士ノーランを重罪人と裁定し |　永久に罪を償わせるべく　国外追放に処す！ ": "Therefore, I hereby declare Guardsman Nolan a|felon and sentence him to be deported for|eternal damnation!"
+    },
+    "100": {
+        "「生涯　このウェナ諸島に|　足を踏み入れることは　許さぬ！！": "You will not set foot on the Wenatchee|Islands for the rest of your life!"
+    },
+    "101": {
+        "「……それで　よいのか　ユナティ。": "... I don't know if that's enough, Yu..."
+    },
+    "102": {
+        "「はい。魔法戦士の誇りにかけて。": "Yes, sir. In the pride of the warrior..."
+    },
+    "103": {
+        "「衛士ノーランの処遇は決まった。|　これは　わらわの裁定として受け取るがいい。": "I've decided what to do with the guard|Nolan... I'll take that as my ruling..."
+    },
+    "104": {
+        "「心せよ　皆の者。": "Mind..."
+    },
+    "105": {
+        "「魔法戦士団は　我が左手であり|　衛士団は　我が右手であることを。": "The Order of the Magi is my left hand, the|Order of the Guard is my right."
+    },
+    "106": {
+        "「今後　このようなことは　起こらぬと|　わらわは　信じている。以上だ。": "We believe that this will not happen again in|the future. ......"
+    },
+    "107": {
+        "「魔法戦士の誇り　見せてもらった。": "Let me see the pride of a warrior..."
+    },
+    "108": {
+        "「フッ……。我輩から　言うことはない。": "Hmm... I have something to say..."
+    },
+    "109": {
+        "「<pc>。貴公の活躍で|　大きな事件を　解決することができた。": "<pc> I'm sorry. You're going to solve a big case."
+    },
+    "110": {
+        "「貴公は　優れた魔法戦士となった。|　私が教えた者たちの中で　もっとも|　優秀と言えるだろう。": "You are a great warrior and a great wizard.|I'd say you're the best of all those I've|taught."
+    },
+    "111": {
+        "「ゆえに　私は　ヴェリナード王立魔法戦士団|　副団長の権限により　貴公に　これを授けたい。": "Therefore, by the authority of the Vice Lord|Commander of the Royal Order of Magical|Warriors of Velinade, I give you this..."
+    },
+    "112": {
+        "「真に優れた魔法戦士にのみ|　与えることを許された　魔法戦士の証だ。|　さあ　受け取ってくれ。": "Only the truly great warriors of magic are|allowed to give this gift. Now, take this..."
+    },
+    "113": {
+        "「それに　ふさわしい　報酬を用意した。|　さあ　受け取ってくれ。": "I'll give you what you deserve. Come on,|take..."
+    },
+    "114": {
+        "「アーベルク団長と　話したことを伝えよう。|　貴公は　本日をもって　魔法戦士団の|　団員としての任を　解かれることになった。": "This is to inform you that I have spoken with|Commander Arberg... You are hereby relieved|of your duties as a member of the Order of|<br>|the Magi..."
+    },
+    "115": {
+        "「貴公は　魔法戦士団という|　ひとつの組織に　収まる器ではない。|　その目は　もっと遠くを見ているのだろう？": "You are a vessel for a single organization,|the League of Magical Warriors. Your eyes see|farther than that, don't they?"
+    },
+    "116": {
+        "「今後　貴公は　自身の判断で行動し|　世界を守るために　はたらいてほしい。|　期待しているぞ　魔法戦士　<pc>！": "From now on, you will act on your own|judgment and work to protect the world. I|have high hopes for you, Mage.<pc> ！"
+    },
+    "117": {
+        "<center>ヴェリナード城　女王の間で|女王ディオーレによって|衛士ノーランの裁きが　開始された……。": "In the Queen's Chamber of the castle of|Verrinard, Queen Diole has begun the trial of|Nolan the Guard..."
+    },
+    "118": {
+        "「……話は　わかった。|　衛士ノーランは　我が魔法戦士団を|　危機に　おとしいれたということだな。": "I... The story is... The story is that Nolan|the Guard has put our Brotherhood of Magical|Warriors in danger."
+    }
 }

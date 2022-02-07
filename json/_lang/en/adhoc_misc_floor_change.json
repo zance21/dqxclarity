@@ -1,26 +1,26 @@
 {
-  "1": {
-    "下層へ行きますか？<yesno><close>": ""
-  },
-  "2": {
-    "上層へ行きますか？<yesno><close>": ""
-  },
-  "3": {
-    "トロッコに乗りますか？<yesno><close>": ""
-  },
-  "4": {
-    "王立研究院３階に移動しますか？<yesno><close>": ""
-  },
-  "5": {
-    "水晶宮３階に移動しますか？<yesno><close>": ""
-  },
-  "6": {
-    "騎士団棟３階に移動しますか？<yesno><close>": ""
-  },
-  "7": {
-    "キラキラ大風車塔の最上層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": ""
-  },
-  "8": {
-    "キラキラ大風車塔の下層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": ""
-  }
+    "1": {
+        "下層へ行きますか？<yesno><close>": ""
+    },
+    "2": {
+        "上層へ行きますか？<yesno><close>": ""
+    },
+    "3": {
+        "トロッコに乗りますか？<yesno><close>": "Do you want to take the trolley?<yesno><close>"
+    },
+    "4": {
+        "王立研究院３階に移動しますか？<yesno><close>": ""
+    },
+    "5": {
+        "水晶宮３階に移動しますか？<yesno><close>": ""
+    },
+    "6": {
+        "騎士団棟３階に移動しますか？<yesno><close>": ""
+    },
+    "7": {
+        "キラキラ大風車塔の最上層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "The elevator to the top of the glittering|great windmill tower... Do you want to press|the switch to move?<yesno><close>"
+    },
+    "8": {
+        "キラキラ大風車塔の下層へ行く|エレベーターがある。|スイッチを押して　移動しますか？<yesno><close>": "The elevator to the lower level of the|glittering great windmill tower... Would you|like to press the switch to move?<yesno><close>"
+    }
 }

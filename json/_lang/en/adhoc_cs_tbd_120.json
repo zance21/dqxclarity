@@ -1,188 +1,188 @@
 {
-  "1": {
-    "「今回の件……　魔軍師イッドが　大風車塔の|　儀式の間を汚したことで　眠っていた亡霊が|　よみがえったのではと　学者は推察してます。": ""
-  },
-  "2": {
-    "「……以前　解読したフォステイル伝は|　フォステイルを憎む　パルカラス王が　怨念で|　内容を　ねじ曲げたものだったのでしょうね。": ""
-  },
-  "3": {
-    "「ラ…ラグアス王子！|　一大事であります……！": ""
-  },
-  "4": {
-    "「なにごとだ！？": ""
-  },
-  "5": {
-    "「チョ…チョッピ荒野の　北部にある|　チューザー地下空洞に|　恐ろしい魔力を持つ亡霊が　現れました……。": ""
-  },
-  "6": {
-    "「我々…精鋭部隊が　数十人がかりで|　その亡霊と　戦いましたが……。|　あ…あんな化け物　見たことがありません！": ""
-  },
-  "7": {
-    "「手も足も　出ませんでした……。|　お…恐ろしい呪文の使い手です……。|　あの化け物を…放…置して……は……。": ""
-  },
-  "8": {
-    "「その身体で　よくぞ　ここまで……。|　あなたのような兵士が　いることを|　ぼくは　誇りに思います。": ""
-  },
-  "9": {
-    "「王子…から　そのような言葉を……。|　うう……。私…は　うれしい……。|　く…悔いは…ない……。": ""
-  },
-  "10": {
-    "「あなたのはたらきは　ムダにはしません……。|　どうか　やすらかに眠ってください……。": ""
-  },
-  "11": {
-    "「恐ろしい魔力を持つ亡霊……。|　いよいよ　悪夢が現実になるのか……。": ""
-  },
-  "12": {
-    "「その亡霊は　おそらく　パルカラス王でしょう。|　まもなく　何千もの亡霊兵士を従え|　この城に向けて　進軍を始めるはずです。": ""
-  },
-  "13": {
-    "「そうなれば　多くの犠牲者が出るでしょう。|　なんとしても　その前に|　パルカラス亡霊王を　倒さねばなりません。": ""
-  },
-  "14": {
-    "「パルカラス王は　フォステイルが現れるまでは|　プクランド大陸一と呼ばれた　魔術の使い手。|　並の者では　とても勝てませんが……。": ""
-  },
-  "15": {
-    "「かつて　この大陸を救ってくれた|　<pc>さんなら　必ず　勝てるはずです。|　ぼくは　あなたのチカラを信じています。": ""
-  },
-  "16": {
-    "「ここより南東　チョッピ荒野の北部にある|　チューザー地下空洞で　パルカラス亡霊王を倒し|　都を　守っていただけないでしょうか？": ""
-  },
-  "17": {
-    "「ありがとうございます！|　パルカラス亡霊王は　かなりの強敵のはずです！|　準備を　万端に整えてから　向かってください！": ""
-  },
-  "18": {
-    "「ありがとうございます！|　……ですが　どうやら　頼まれごとを|　たくさん　抱えていらっしゃるようですね。": ""
-  },
-  "19": {
-    "「都を守るためには　どうしても|　<pc>さんのチカラが　必要なんですが|　これは……。困りましたね……。": ""
-  },
-  "20": {
-    "「ほかの用事が　終わったら|　また　ここに戻ってきてください。|　お待ちしてますよ　<pc>さん。": ""
-  },
-  "21": {
-    "「くっ……。そうですか……。|　都を守るためには　<pc>さんのチカラが|　必要なんですが　困りましたね……。": ""
-  },
-  "22": {
-    "「このままでは　多くの犠牲者が……。|　いったい　どうすれば……。": ""
-  },
-  "23": {
-    "「余は　眠りに　ついていたのか……。|　この余を　眠りにつかせる者など|　天下広しといえど　ひとりしか　おらぬわ。": ""
-  },
-  "24": {
-    "「フォステイル。余に　盾突いた男め。|　こざかしい古代呪文を　使いおって……。|　これしきのことで　余を止めたつもりか。": ""
-  },
-  "25": {
-    "「笑止！！": ""
-  },
-  "26": {
-    "「フォステイル！　貴様の天下など３日も持たぬ！|　フハハハハ！　まだまだ未熟よ！！": ""
-  },
-  "27": {
-    "「余が　号令をかければ　貴様は終わる！|　不屈の闘志を持つ精鋭たちが　進軍を始めた時|　貴様の王国は　灰と化すのだあああーーーッ！！": ""
-  },
-  "28": {
-    "「……だが　その前に。": ""
-  },
-  "29": {
-    "「また　ゴミが入り込んできたようだ。|　貴様も　逆賊フォステイルの命令により|　余を　冥府へ　たたき落とそうというのか？<yesno><close>": ""
-  },
-  "30": {
-    "「面白い！　では　余興を楽しむとしよう。|　先ほどのゴミたちは　剣を振りまわしておったが|　余は　くだらん踊りなど　見たくはないのだ。": ""
-  },
-  "31": {
-    "「よいか！？　余を　楽しませるのだ！！|　貴様の持つ　すべてのチカラを見せてみよ！！|　出し惜しみは　無用！！　全力を尽くせい！！": ""
-  },
-  "32": {
-    "「フハハハハハ！！　また　貴様か！！|　愚か者め！！　せっかく助かった命を|　わざわざ　散らせにくるとはな！！": ""
-  },
-  "33": {
-    "「まあ　退屈しのぎに　ちょうどよいわ！！|　もう一度　相手をしてやろう！！": ""
-  },
-  "34": {
-    "「ヌオオオオオオオ……。|　か…身体が　もたぬのか……。": ""
-  },
-  "35": {
-    "「こ…これほどまでに　余を追いつめる者が|　逆賊フォステイル以外に　いたとは……。|　ヌオオ……。だが　これしきのことで……。": ""
-  },
-  "36": {
-    "「これしきのことで　余は止められぬぞ……。|　余の辞書に　敗北の二文字はない……。|　断じて　余は退かぬ。逃げぬ……。": ""
-  },
-  "37": {
-    "「この程度の苦痛うううううぅぅぅーーー！！|　逆賊フォステイルに　無理矢理に妻とされた|　余の娘の苦しみに比べればあああーーー！！": ""
-  },
-  "38": {
-    "「ぬおおおおおおおおおおーーーーーッ！！": ""
-  },
-  "39": {
-    "「その装束……。王家の者か……。|　貴様　何者だ？": ""
-  },
-  "40": {
-    "「パルカラス王よ。|　私は　現王のラグアスです。": ""
-  },
-  "41": {
-    "「貴様が　王だと……？|　なにを　言っているのだ……？": ""
-  },
-  "42": {
-    "「ご存知ないかもしれませんが|　あなたの生きた時代から|　すでに　５００年の時が過ぎました。": ""
-  },
-  "43": {
-    "「かつての王　フォステイルは……": ""
-  },
-  "44": {
-    "「城に残った兵士の家族を　丁重に扱い|　あなたの娘である　メギストリス姫にも|　惜しみない優しさを　注ぎました。": ""
-  },
-  "45": {
-    "「メギストリス姫は　フォステイルの深い愛情に|　心を打たれ　ふたりは結ばれたのです。|　こうして　メギストリス姫は王妃となりました。": ""
-  },
-  "46": {
-    "「なにを　バカなことを……。|　余は…余は　信じぬぞ……。": ""
-  },
-  "47": {
-    "「フォステイル王は……|　メギストリス王妃が　国の母として|　未来永劫に渡り　国民から愛されるように……": ""
-  },
-  "48": {
-    "「あなたの娘の名を　王国の名にしたのです。|　今の王国の名は……": ""
-  },
-  "49": {
-    "「メギストリス王国といいます。": ""
-  },
-  "50": {
-    "「オオオオオオオオオ……………。": ""
-  },
-  "51": {
-    "「メ…メギストリス王国だと……？|　余の娘が　国民から愛されるよう|　あの逆賊が　そこまでの配慮をしたのか……。": ""
-  },
-  "52": {
-    "「オオオオオオオオオ……………。|　魔術だけでなく　王としての器さえも|　奴のほうが　上だったということか…………。": ""
-  },
-  "53": {
-    "「む…無念…………。": ""
-  },
-  "54": {
-    "「怨念により　書き換えられた書には|　パルカラス王国への進軍と　書かれていました。": ""
-  },
-  "55": {
-    "「パルカラス王が　国名が変わったことを|　知らなかったためでしょう。ぼくは　そのことを|　パルカラス王に　伝えたかったのです。": ""
-  },
-  "56": {
-    "「王族も　民も　我が子を愛する心は|　皆　同じか……。": ""
-  },
-  "57": {
-    "「その深い愛情を　国民にも注ぐことができれば|　きっと　パルカラス王は|　偉大な王に　なっていたでしょうね。": ""
-  },
-  "58": {
-    "「……ありがとうございます　<cs_pchero>さん。|　あなたが　いなければ　メギストリスの都は|　いったい　どうなっていたことか……。": ""
-  },
-  "59": {
-    "「ぼくは　先に　城へ戻っていますので|　後で　メギストリスの都に来てください。": ""
-  },
-  "60": {
-    "「あなたの怨念が　内容を変えてしまった|　あの本に　パルカラス王国の名を見つけた時|　ぼくは　気づいたのです。": ""
-  },
-  "61": {
-    "「あの時代　この国の名が|　その名であるはずがなかった。|　つまり　あなたは　何も知らないのだと……。": ""
-  },
-  "62": {
-    "「余が……何も　知らぬ…だと？|　何を　言っておる……。": ""
-  }
+    "1": {
+        "「今回の件……　魔軍師イッドが　大風車塔の|　儀式の間を汚したことで　眠っていた亡霊が|　よみがえったのではと　学者は推察してます。": "This time... Scholars have speculated that|the demon warlord Yid's defilement of the|Great Windmill Tower's Ceremonial Chamber may|<br>|have brought back a sleeping ghost."
+    },
+    "2": {
+        "「……以前　解読したフォステイル伝は|　フォステイルを憎む　パルカラス王が　怨念で|　内容を　ねじ曲げたものだったのでしょうね。": "... The story of Fosthild that I deciphered|before was twisted by King Palcaras, who|hated Fosthild, out of spite."
+    },
+    "3": {
+        "「ラ…ラグアス王子！|　一大事であります……！": "La... Prince Ragus! It's important..."
+    },
+    "4": {
+        "「なにごとだ！？": "What the hell?"
+    },
+    "5": {
+        "「チョ…チョッピ荒野の　北部にある|　チューザー地下空洞に|　恐ろしい魔力を持つ亡霊が　現れました……。": "Cho... In the northern part of the Choppi|Wilderness, in the Chuser Caverns, a ghost|with terrible magical powers has appeared."
+    },
+    "6": {
+        "「我々…精鋭部隊が　数十人がかりで|　その亡霊と　戦いましたが……。|　あ…あんな化け物　見たことがありません！": "We... It took dozens of elite troops to fight|the ghost, but... But... I've never seen|anything like it!"
+    },
+    "7": {
+        "「手も足も　出ませんでした……。|　お…恐ろしい呪文の使い手です……。|　あの化け物を…放…置して……は……。": "There was nothing I could do... Oh... He's a|terrible spell caster... That monster... Let|it... Leave it... Is..."
+    },
+    "8": {
+        "「その身体で　よくぞ　ここまで……。|　あなたのような兵士が　いることを|　ぼくは　誇りに思います。": "I'm proud to have a soldier like you. I'm|proud to have a soldier like you..."
+    },
+    "9": {
+        "「王子…から　そのような言葉を……。|　うう……。私…は　うれしい……。|　く…悔いは…ない……。": "Prince... I've heard those words before.|Ugh... I'm... I'm so happy... And... I have|no regrets... No..."
+    },
+    "10": {
+        "「あなたのはたらきは　ムダにはしません……。|　どうか　やすらかに眠ってください……。": "Your work will not be in vain. Please rest in|peace..."
+    },
+    "11": {
+        "「恐ろしい魔力を持つ亡霊……。|　いよいよ　悪夢が現実になるのか……。": "A ghost with terrible magical powers... The|nightmare is about to come true..."
+    },
+    "12": {
+        "「その亡霊は　おそらく　パルカラス王でしょう。|　まもなく　何千もの亡霊兵士を従え|　この城に向けて　進軍を始めるはずです。": "That ghost is probably King Palcaras. Soon he|will march on this castle with thousands of|ghost soldiers..."
+    },
+    "13": {
+        "「そうなれば　多くの犠牲者が出るでしょう。|　なんとしても　その前に|　パルカラス亡霊王を　倒さねばなりません。": "If that happens, there will be many|casualties... But first, we must defeat the|ghost king, Parka Raven..."
+    },
+    "14": {
+        "「パルカラス王は　フォステイルが現れるまでは|　プクランド大陸一と呼ばれた　魔術の使い手。|　並の者では　とても勝てませんが……。": "King Palcaras was the greatest magician in|all of Pukland before Fosthild came along. No|ordinary mortal could defeat him."
+    },
+    "15": {
+        "「かつて　この大陸を救ってくれた|　<pc>さんなら　必ず　勝てるはずです。|　ぼくは　あなたのチカラを信じています。": "You once saved this continent|<pc> I'm sure you can win. I believe in your|power."
+    },
+    "16": {
+        "「ここより南東　チョッピ荒野の北部にある|　チューザー地下空洞で　パルカラス亡霊王を倒し|　都を　守っていただけないでしょうか？": "In the Chuser Caverns, southeast of here, in|the northern part of the Choppi Wilderness,|will you help us defeat the Ghost King|<br>|Palcaras and protect the city?"
+    },
+    "17": {
+        "「ありがとうございます！|　パルカラス亡霊王は　かなりの強敵のはずです！|　準備を　万端に整えてから　向かってください！": "Thank you! The Palkalas Ghost King is|supposed to be a very powerful enemy! Make|sure you're ready before you head out!"
+    },
+    "18": {
+        "「ありがとうございます！|　……ですが　どうやら　頼まれごとを|　たくさん　抱えていらっしゃるようですね。": "Thank you! I know... But it seems you have a|lot of work to do."
+    },
+    "19": {
+        "「都を守るためには　どうしても|　<pc>さんのチカラが　必要なんですが|　これは……。困りましたね……。": "In order to protect the city, we must|<pc> I'm going to need your help, but this is...|I'm in trouble..."
+    },
+    "20": {
+        "「ほかの用事が　終わったら|　また　ここに戻ってきてください。|　お待ちしてますよ　<pc>さん。": "When you're done with your other business,|you can come back here... I'll be waiting for|you.<pc> Three."
+    },
+    "21": {
+        "「くっ……。そうですか……。|　都を守るためには　<pc>さんのチカラが|　必要なんですが　困りましたね……。": "Damn... I see... In order to protect the|city...<pc> I'm going to need your help, but..."
+    },
+    "22": {
+        "「このままでは　多くの犠牲者が……。|　いったい　どうすれば……。": "If we don't do something, a lot of people|will die. I don't know what to do."
+    },
+    "23": {
+        "「余は　眠りに　ついていたのか……。|　この余を　眠りにつかせる者など|　天下広しといえど　ひとりしか　おらぬわ。": "I've been asleep... There is only one person|in the whole world who can make me fall|asleep..."
+    },
+    "24": {
+        "「フォステイル。余に　盾突いた男め。|　こざかしい古代呪文を　使いおって……。|　これしきのことで　余を止めたつもりか。": "Foss... You have defied me. You use a strange|ancient spell. You stop me for this..."
+    },
+    "25": {
+        "「笑止！！": "Stop laughing!"
+    },
+    "26": {
+        "「フォステイル！　貴様の天下など３日も持たぬ！|　フハハハハ！　まだまだ未熟よ！！": "Fosthild! Your reign will not last three|days! Ha ha ha ha! You're not ready!"
+    },
+    "27": {
+        "「余が　号令をかければ　貴様は終わる！|　不屈の闘志を持つ精鋭たちが　進軍を始めた時|　貴様の王国は　灰と化すのだあああーーーッ！！": "When I give the order, you're finished! Your|kingdom will be reduced to ashes when the|elites with indomitable fighting spirit begin|<br>|their march!"
+    },
+    "28": {
+        "「……だが　その前に。": "But... But I..."
+    },
+    "29": {
+        "「また　ゴミが入り込んできたようだ。|　貴様も　逆賊フォステイルの命令により|　余を　冥府へ　たたき落とそうというのか？<yesno><close>": "Another piece of trash has entered our|midst... Do you also wish to cast me down to|the Underworld at the behest of the renegade|<br>|Fosthild?<yesno><close>"
+    },
+    "30": {
+        "「面白い！　では　余興を楽しむとしよう。|　先ほどのゴミたちは　剣を振りまわしておったが|　余は　くだらん踊りなど　見たくはないのだ。": "Funny! Now, let's enjoy the entertainment.|Those trash were waving their swords around,|but I don't want to see any of that dancing|<br>|nonsense."
+    },
+    "31": {
+        "「よいか！？　余を　楽しませるのだ！！|　貴様の持つ　すべてのチカラを見せてみよ！！|　出し惜しみは　無用！！　全力を尽くせい！！": "All right? I want to be entertained! Show me|everything you've got. Show me everything|you've got! Give it everything you've got."
+    },
+    "32": {
+        "「フハハハハハ！！　また　貴様か！！|　愚か者め！！　せっかく助かった命を|　わざわざ　散らせにくるとはな！！": "Hahahahahaha! Not you again! You fool! You've|come all this way to destroy the life we|saved!"
+    },
+    "33": {
+        "「まあ　退屈しのぎに　ちょうどよいわ！！|　もう一度　相手をしてやろう！！": "Well, that's just what I needed to kill the|boredom! Let's play them again!"
+    },
+    "34": {
+        "「ヌオオオオオオオ……。|　か…身体が　もたぬのか……。": "Noooooooooooooo... I can't... The body can't|hold out..."
+    },
+    "35": {
+        "「こ…これほどまでに　余を追いつめる者が|　逆賊フォステイル以外に　いたとは……。|　ヌオオ……。だが　これしきのことで……。": "This... I didn't know there was anyone who|could hunt me down like this besides the|renegade Fosthild. Nooo... But this is the|<br>|least of it..."
+    },
+    "36": {
+        "「これしきのことで　余は止められぬぞ……。|　余の辞書に　敗北の二文字はない……。|　断じて　余は退かぬ。逃げぬ……。": "I will not be stopped by this. The word|\"defeat\" is not in my dictionary. I will|not... I will not run."
+    },
+    "37": {
+        "「この程度の苦痛うううううぅぅぅーーー！！|　逆賊フォステイルに　無理矢理に妻とされた|　余の娘の苦しみに比べればあああーーー！！": "This is the extent of my suffering...!|Compared to the suffering of my daughter, who|was forced to become my wife by the renegade|<br>|bandit Fosthild!"
+    },
+    "38": {
+        "「ぬおおおおおおおおおおーーーーーッ！！": "Nooooooooooooooooooooooo!"
+    },
+    "39": {
+        "「その装束……。王家の者か……。|　貴様　何者だ？": "Your attire... You're from the royal family.|Who are you?"
+    },
+    "40": {
+        "「パルカラス王よ。|　私は　現王のラグアスです。": "Palcala... I am the current king of Ragua..."
+    },
+    "41": {
+        "「貴様が　王だと……？|　なにを　言っているのだ……？": "You're a king? What are you talking about?"
+    },
+    "42": {
+        "「ご存知ないかもしれませんが|　あなたの生きた時代から|　すでに　５００年の時が過ぎました。": "You may not know this, but it's already been|500 years since your time..."
+    },
+    "43": {
+        "「かつての王　フォステイルは……": "The former king, Fosthild"
+    },
+    "44": {
+        "「城に残った兵士の家族を　丁重に扱い|　あなたの娘である　メギストリス姫にも|　惜しみない優しさを　注ぎました。": "You have treated the families of the soldiers|who remain in the castle with respect, and|you have lavished your kindness on your|<br>|daughter, Princess Megistris."
+    },
+    "45": {
+        "「メギストリス姫は　フォステイルの深い愛情に|　心を打たれ　ふたりは結ばれたのです。|　こうして　メギストリス姫は王妃となりました。": "Princess Megistris was touched by Fosthild's|deep affection, and they were united in love.|And so Princess Megistris became queen..."
+    },
+    "46": {
+        "「なにを　バカなことを……。|　余は…余は　信じぬぞ……。": "What are you talking about? I don't... I|don't believe..."
+    },
+    "47": {
+        "「フォステイル王は……|　メギストリス王妃が　国の母として|　未来永劫に渡り　国民から愛されるように……": "King Fosthild| Queen Megistris, Mother of the Nation| To be loved by the people for all eternity"
+    },
+    "48": {
+        "「あなたの娘の名を　王国の名にしたのです。|　今の王国の名は……": "I named my kingdom after your daughter... The|kingdom is now named..."
+    },
+    "49": {
+        "「メギストリス王国といいます。": "The Kingdom of Megistris..."
+    },
+    "50": {
+        "「オオオオオオオオオ……………。": "Oh-oh-oh-oh..."
+    },
+    "51": {
+        "「メ…メギストリス王国だと……？|　余の娘が　国民から愛されるよう|　あの逆賊が　そこまでの配慮をしたのか……。": "Meh... The Kingdom of Megistris? Did the|bandit go to such lengths to make sure my|daughter would be loved by the people?"
+    },
+    "52": {
+        "「オオオオオオオオオ……………。|　魔術だけでなく　王としての器さえも|　奴のほうが　上だったということか…………。": "Oh, wow, wow, wow... Not only was he better|at magic, but he was better at being a|king..."
+    },
+    "53": {
+        "「む…無念…………。": "MU... No idea..."
+    },
+    "54": {
+        "「怨念により　書き換えられた書には|　パルカラス王国への進軍と　書かれていました。": "The book, which was rewritten due to a|grudge, states that we must march on the|kingdom of Parcaras..."
+    },
+    "55": {
+        "「パルカラス王が　国名が変わったことを|　知らなかったためでしょう。ぼくは　そのことを|　パルカラス王に　伝えたかったのです。": "Because King Palcaras didn't know that the|country had changed. And I wanted to tell him|that..."
+    },
+    "56": {
+        "「王族も　民も　我が子を愛する心は|　皆　同じか……。": "Royalty and the people, they all love their|children the same, don't they?"
+    },
+    "57": {
+        "「その深い愛情を　国民にも注ぐことができれば|　きっと　パルカラス王は|　偉大な王に　なっていたでしょうね。": "If he could extend that same deep love to his|people, I'm sure King Palkaras would have|become a great king..."
+    },
+    "58": {
+        "「……ありがとうございます　<cs_pchero>さん。|　あなたが　いなければ　メギストリスの都は|　いったい　どうなっていたことか……。": " Thank you very much<cs_pchero>I'm sorry. If it weren't for you, I don't|know what the city of Megistris would be|like..."
+    },
+    "59": {
+        "「ぼくは　先に　城へ戻っていますので|　後で　メギストリスの都に来てください。": "I'm heading back to the castle now, so you'll|have to come back to the city of Megistris|later."
+    },
+    "60": {
+        "「あなたの怨念が　内容を変えてしまった|　あの本に　パルカラス王国の名を見つけた時|　ぼくは　気づいたのです。": "When I found the name of the Kingdom of|Palkalas in that book, I realized that your|grudge had altered its content."
+    },
+    "61": {
+        "「あの時代　この国の名が|　その名であるはずがなかった。|　つまり　あなたは　何も知らないのだと……。": "It couldn't have been the name of this|country back then. So you don't know anything|about it."
+    },
+    "62": {
+        "「余が……何も　知らぬ…だと？|　何を　言っておる……。": "I don't... I don't know anything about... You|don't know? What are you talking..."
+    }
 }

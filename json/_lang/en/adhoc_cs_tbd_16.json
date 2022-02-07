@@ -1,104 +1,104 @@
 {
-  "1": {
-    "「……<cs_pchero>さま。デモンシーサーを|　倒してくださったようですね。": ""
-  },
-  "2": {
-    "「それは……なんですか？": ""
-  },
-  "3": {
-    "「この盾の紋章は　ラッカラン島の島主|　ゴーレック氏に仕える　兵士である証……。|　私が持っていた盾と　同じ作り……。": ""
-  },
-  "4": {
-    "「<cs_pchero>さま……。|　私は………………": ""
-  },
-  "5": {
-    "<center>……かつて　私は　ラッカランの|ゴーレック氏に仕える　女兵士でした。": ""
-  },
-  "6": {
-    "<center>その頃　私は　同僚である|ランディという青年と　婚約を交わしたばかりで|共に暮らせる日を　心待ちにしていました。": ""
-  },
-  "7": {
-    "<center>ですが　任務で　モリナラ大森林を訪れた際|私たちは　あのデモンシーサーに襲われたのです。": ""
-  },
-  "8": {
-    "「ランディ……ランディ……。|　お願い　目を開けてちょうだい！|　ずっと一緒だって　約束したじゃない……！": ""
-  },
-  "9": {
-    "「…………。": ""
-  },
-  "10": {
-    "「あなた　ひとりを　死なせたりしないわ。|　この世で　結ばれないのなら|　せめて　あの世で　あなたと一緒に……": ""
-  },
-  "11": {
-    "「うぅ……っ。|　ひっく　ひっく……。": ""
-  },
-  "12": {
-    "「……誰っ！？": ""
-  },
-  "13": {
-    "「あ　あなたは……？|　どうして　子供が　こんな所に……？": ""
-  },
-  "14": {
-    "「ボ……ボク……。": ""
-  },
-  "15": {
-    "「ボク……帰らなくちゃいけなくて……。|　だけど　追いだされちゃったから|　ひとりじゃ　帰れなくて……。": ""
-  },
-  "16": {
-    "「……………………。": ""
-  },
-  "17": {
-    "「おねえちゃん　ボクといっしょに|　帰ってくれないかな。おねえちゃんと|　いっしょなら　ボク　きっと帰れるから。": ""
-  },
-  "18": {
-    "「そしたら　ボク……　おねえちゃんの頼み|　どんなことでも　きいてあげるから！": ""
-  },
-  "19": {
-    "「どんな……ことでも……？": ""
-  },
-  "20": {
-    "「……残念だけど　少し　遅かったみたいね。": ""
-  },
-  "21": {
-    "「もう呼びかけても　返事をしないの。|　息も　止まってしまった……。|　ランディは　助からないのよ……。": ""
-  },
-  "22": {
-    "「おねえちゃんの　願いは|　その人を　助けることなんだね？|　じゃあ……すこし待ってて。": ""
-  },
-  "23": {
-    "「う……うぅ……。": ""
-  },
-  "24": {
-    "「ラ…ランディ！？": ""
-  },
-  "25": {
-    "「これで　ボクといっしょに帰ってくれるよね？": ""
-  },
-  "26": {
-    "「あなたは………………。": ""
-  },
-  "27": {
-    "「ボクはね………………": ""
-  },
-  "28": {
-    "「……すべてを思いだしました。|　何が　私を　世告げの姫として|　動かしていたのか……。": ""
-  },
-  "29": {
-    "「……この盾は　私の婚約者　ランディの物。|　おそらく　魔物に襲われた時に|　落としてしまったのでしょう。": ""
-  },
-  "30": {
-    "「ランディが　その後　どうしているのか……。|　気がかりですが　私には　まだ|　世告げの姫として　成すべき任務があります。": ""
-  },
-  "31": {
-    "「この戦いさえ　終わらせることができれば|　私は　元の女兵士に戻れるでしょう。|　そうすれば　また　ランディと共に……。": ""
-  },
-  "32": {
-    "「これは　決戦をひかえた　<cs_pchero>さまへの|　はなむけであり　私からの　お礼でもあります。|　どうぞ　お受け取りくださいませ。": ""
-  },
-  "33": {
-    "「……そろそろ　メルエが|　<cs_pchero>さまの　訪れを|　待っていることでしょう。": ""
-  },
-  "34": {
-    "「彼女もまた　過去の記憶を失ったせいで|　心に　迷いを抱えているのかもしれません。|　どうか　よろしくお願いいたします。": ""
-  }
+    "1": {
+        "「……<cs_pchero>さま。デモンシーサーを|　倒してくださったようですね。": "<cs_pchero>Sir. I see you've defeated the Demon|Ceasar..."
+    },
+    "2": {
+        "「それは……なんですか？": "It's... What is it?"
+    },
+    "3": {
+        "「この盾の紋章は　ラッカラン島の島主|　ゴーレック氏に仕える　兵士である証……。|　私が持っていた盾と　同じ作り……。": "The crest on this shield identifies you as a|soldier in the service of Gorlek, Lord of the|island of Lackalang... It's the same make as|<br>|the shield I had..."
+    },
+    "4": {
+        "「<cs_pchero>さま……。|　私は………………": "<cs_pchero>Sir... I'm..."
+    },
+    "5": {
+        "<center>……かつて　私は　ラッカランの|ゴーレック氏に仕える　女兵士でした。": "... I was once a female soldier in the|service of Mr. Golek of Raqqaran..."
+    },
+    "6": {
+        "<center>その頃　私は　同僚である|ランディという青年と　婚約を交わしたばかりで|共に暮らせる日を　心待ちにしていました。": "At the time, I had just gotten engaged to a|young man named Randy, one of my co-workers,|and I was looking forward to the day when we|<br>|could live together."
+    },
+    "7": {
+        "<center>ですが　任務で　モリナラ大森林を訪れた際|私たちは　あのデモンシーサーに襲われたのです。": "But when we visited the Great Forest of|Molinarra on a mission, we were attacked by|that demon shether..."
+    },
+    "8": {
+        "「ランディ……ランディ……。|　お願い　目を開けてちょうだい！|　ずっと一緒だって　約束したじゃない……！": "Randy... Randy... Please, please, open your|eyes. You promised me that we would always be|together."
+    },
+    "9": {
+        "「…………。": "..."
+    },
+    "10": {
+        "「あなた　ひとりを　死なせたりしないわ。|　この世で　結ばれないのなら|　せめて　あの世で　あなたと一緒に……": "I won't let you die alone... If we can't be|united in this world, at least I can be with|you in the next."
+    },
+    "11": {
+        "「うぅ……っ。|　ひっく　ひっく……。": "Ugh. .... Hiccup, hiccup..."
+    },
+    "12": {
+        "「……誰っ！？": "... Who are you?"
+    },
+    "13": {
+        "「あ　あなたは……？|　どうして　子供が　こんな所に……？": "Are you...? How did a child get here?"
+    },
+    "14": {
+        "「ボ……ボク……。": "I'm... Bok..."
+    },
+    "15": {
+        "「ボク……帰らなくちゃいけなくて……。|　だけど　追いだされちゃったから|　ひとりじゃ　帰れなくて……。": "I... I had to go home. But I couldn't go home|alone because I was kicked out."
+    },
+    "16": {
+        "「……………………。": "..."
+    },
+    "17": {
+        "「おねえちゃん　ボクといっしょに|　帰ってくれないかな。おねえちゃんと|　いっしょなら　ボク　きっと帰れるから。": "Won't you come home with me, honey? I'm sure|I can come home with you..."
+    },
+    "18": {
+        "「そしたら　ボク……　おねえちゃんの頼み|　どんなことでも　きいてあげるから！": "And then I'll... I'll do whatever you ask!"
+    },
+    "19": {
+        "「どんな……ことでも……？": "Any...? Anything at all?"
+    },
+    "20": {
+        "「……残念だけど　少し　遅かったみたいね。": "... Unfortunately, we're a little late..."
+    },
+    "21": {
+        "「もう呼びかけても　返事をしないの。|　息も　止まってしまった……。|　ランディは　助からないのよ……。": "He doesn't respond to my calls... He's|stopped breathing... Randy's not gonna make|it."
+    },
+    "22": {
+        "「おねえちゃんの　願いは|　その人を　助けることなんだね？|　じゃあ……すこし待ってて。": "So, your wish is to help that person, right?|Then... Wait a bit..."
+    },
+    "23": {
+        "「う……うぅ……。": "Uh... Ugh..."
+    },
+    "24": {
+        "「ラ…ランディ！？": "La... Randy!"
+    },
+    "25": {
+        "「これで　ボクといっしょに帰ってくれるよね？": "Now you'll come home with me, won't you?"
+    },
+    "26": {
+        "「あなたは………………。": "You are..."
+    },
+    "27": {
+        "「ボクはね………………": "I'm just"
+    },
+    "28": {
+        "「……すべてを思いだしました。|　何が　私を　世告げの姫として|　動かしていたのか……。": "... I remember everything. I don't know what|drove me to be the princess of the world."
+    },
+    "29": {
+        "「……この盾は　私の婚約者　ランディの物。|　おそらく　魔物に襲われた時に|　落としてしまったのでしょう。": "... This shield belongs to my fiancée,|Rande... I think she dropped it when she was|attacked by a demon."
+    },
+    "30": {
+        "「ランディが　その後　どうしているのか……。|　気がかりですが　私には　まだ|　世告げの姫として　成すべき任務があります。": "I don't know how Randy's doing since... I'm|afraid I still have a duty to fulfill as|Princess of the Oracle..."
+    },
+    "31": {
+        "「この戦いさえ　終わらせることができれば|　私は　元の女兵士に戻れるでしょう。|　そうすれば　また　ランディと共に……。": "If I can just finish this fight, I can be a|soldier again... And then I can be with Randy|again..."
+    },
+    "32": {
+        "「これは　決戦をひかえた　<cs_pchero>さまへの|　はなむけであり　私からの　お礼でもあります。|　どうぞ　お受け取りくださいませ。": "This is the final battle of the day<cs_pchero>It's a gift to you, and my way of saying|thank you. Please accept..."
+    },
+    "33": {
+        "「……そろそろ　メルエが|　<cs_pchero>さまの　訪れを|　待っていることでしょう。": " It's time for Meruwe to go|<cs_pchero>I'm sure he's waiting for you."
+    },
+    "34": {
+        "「彼女もまた　過去の記憶を失ったせいで|　心に　迷いを抱えているのかもしれません。|　どうか　よろしくお願いいたします。": "She may also have lost her memory of the past|and is now lost in her own mind... Please|take care of her for me..."
+    }
 }

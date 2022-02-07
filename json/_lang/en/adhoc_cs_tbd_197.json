@@ -1,107 +1,107 @@
 {
-  "1": {
-    "「メギストリスの城から盗んだ　古文書によれば|　この部屋のどこかに……": ""
-  },
-  "2": {
-    "「おかしら！　誰か来ましたぜ！": ""
-  },
-  "3": {
-    "「うん……？　なんだ　おまえは！？|　俺様の邪魔を　するつもりなら|　ただじゃおかねえぞ！": ""
-  },
-  "4": {
-    "「まいった！|　だが　とどめは　ささないでくれ！": ""
-  },
-  "5": {
-    "「あんたが強いのは　よーくわかった！|　子分のことなら　煮ても焼いてもかまわねえ！|　だが　俺様だけは　許してくれ！": ""
-  },
-  "6": {
-    "「ひでえや　おかしら！": ""
-  },
-  "7": {
-    "「うるせえ！": ""
-  },
-  "8": {
-    "「俺様は　月の秘宝を手に入れるって夢を|　どうしても　かなえなくちゃならねえ！|　この古文書を盗んだのも　そのためだ！": ""
-  },
-  "9": {
-    "「古文書は　用が済んだら返すから|　どうか　俺様を|　許してくれよ！　な！　な！<yesno><close>": ""
-  },
-  "10": {
-    "「そんなこと　いわずにさ。|　俺様を　許してくれよ！　な！　な！<yesno><close>": ""
-  },
-  "11": {
-    "「ありがてえ！|　あんたのことは　忘れねえよ！": ""
-  },
-  "12": {
-    "「……よーし。|　それじゃ　この古文書どおり|　キラキラ大風車塔を　動かすぜ！": ""
-  },
-  "13": {
-    "「えーっと　操作方法は　５５ページ……。|　ん？　なんだこりゃ。": ""
-  },
-  "14": {
-    "「どうしたんですかい？　おかしら。": ""
-  },
-  "15": {
-    "「なんでえ！　カンジンの５５ページが|　破れちまって　ないじゃねえかっ！": ""
-  },
-  "16": {
-    "「おいっ！|　今すぐ　５５ページを見つけてくるか|　俺様に　ブン殴られるか　どっちか選べ！": ""
-  },
-  "17": {
-    "「ひっ！！": ""
-  },
-  "18": {
-    "「おかしらには　もう　ついていけねえよ！|　あっしは　カンダタ団を　抜けますぜ！": ""
-  },
-  "19": {
-    "「あっ　てめえ！　どこへ逃げる気だ！？|　待ちやがれい！！": ""
-  },
-  "20": {
-    "「待ってたんだなー。|　オイラたちの偽物は　見つかったのかー？": ""
-  },
-  "21": {
-    "<pc>は　ボラオに|メギストリス城に現れたという偽物は|カンダタだったことを　話した！": ""
-  },
-  "22": {
-    "「カンダタ？　あの　伝説の大盗賊の？": ""
-  },
-  "23": {
-    "「マジやべえ！！": ""
-  },
-  "24": {
-    "「やべぇ！　オレ　気分がダウナーすぎる……。|　カンダタさんといえば　盗賊中のマジ大盗賊。|　血も涙もねえ　服も着ねえ　恐ろしいお人。": ""
-  },
-  "25": {
-    "「オレたち　カンダタさんの名前をパクって|　ダンダダ団って　名乗ってる。|　このことがバレたら　地獄への片道切符……！": ""
-  },
-  "26": {
-    "「隠れてえ。マジ　隠れてえ……。|　ていうか　すべてを　忘れてえ。": ""
-  },
-  "27": {
-    "「バロのアニキ！　ボクたちダンダダ団が|　大盗賊カンダタさんと　名前が似ているのは|　偶然ってことに　しましょうよ！": ""
-  },
-  "28": {
-    "「ボクたち　ダンダダ団の名称は|　実在の盗賊とは　いっさい関係ありませんって|　言い張れば　きっと　大丈夫です！": ""
-  },
-  "29": {
-    "「マジ　それで　いくしかねえ……。": ""
-  },
-  "30": {
-    "「おいっ　テメー。|　今後　オレらの前で　カンダタさんの名前を|　クチに出したら　マジ殴る。テッテー的に。": ""
-  },
-  "31": {
-    "「えーっと　でも　偽物が逃げたんなら|　また　ケーキを買いに　行けるんだなー。|　オイラは　それで　満足なんだなー。": ""
-  },
-  "32": {
-    "「ありがとうー　助かったぞー。|　これは　お礼なんだなー。受け取ってくれー。": ""
-  },
-  "33": {
-    "「それにしても　大盗賊カンダタが|　探してる　月の秘宝って　なんだー？|　きっと　すごく　おいしいんだろうなー。": ""
-  },
-  "34": {
-    "「さ……さっきから聞いてりゃ|　あんまりにも　あんまりじゃないですか！": ""
-  },
-  "35": {
-    "「ああー　ハラペコになってきたー。|　今日からは　毎日　オルフェアの町に|　ケーキを買いに行くぞー。": ""
-  }
+    "1": {
+        "「メギストリスの城から盗んだ　古文書によれば|　この部屋のどこかに……": "According to an ancient document I stole from the castle of Megistris| Somewhere in this room"
+    },
+    "2": {
+        "「おかしら！　誰か来ましたぜ！": "Oh, my God! Someone's here!"
+    },
+    "3": {
+        "「うん……？　なんだ　おまえは！？|　俺様の邪魔を　するつもりなら|　ただじゃおかねえぞ！": "What the...? What the hell are you doing? If|you try to interfere with me, you'll get away|with it!"
+    },
+    "4": {
+        "「まいった！|　だが　とどめは　ささないでくれ！": "Oh, no! But don't stop there!"
+    },
+    "5": {
+        "「あんたが強いのは　よーくわかった！|　子分のことなら　煮ても焼いてもかまわねえ！|　だが　俺様だけは　許してくれ！": "I know you're strong! When it comes to my|henchmen, I don't care if you boil them or|burn them! But you can't do that to me!"
+    },
+    "6": {
+        "「ひでえや　おかしら！": "That's terrible. I wonder!"
+    },
+    "7": {
+        "「うるせえ！": "Shut the fuck up!"
+    },
+    "8": {
+        "「俺様は　月の秘宝を手に入れるって夢を|　どうしても　かなえなくちゃならねえ！|　この古文書を盗んだのも　そのためだ！": "I have to fulfill my dream of getting the|Moon's treasure! That's why I stole this|ancient document!"
+    },
+    "9": {
+        "「古文書は　用が済んだら返すから|　どうか　俺様を|　許してくれよ！　な！　な！<yesno><close>": "I'll return the old documents when I'm done,|so please forgive me! Hey! Hey!<yesno><close>"
+    },
+    "10": {
+        "「そんなこと　いわずにさ。|　俺様を　許してくれよ！　な！　な！<yesno><close>": "You don't have to... You'll have to forgive|me! Hey! Hey!<yesno><close>"
+    },
+    "11": {
+        "「ありがてえ！|　あんたのことは　忘れねえよ！": "Thank you! I'll never forget you!"
+    },
+    "12": {
+        "「……よーし。|　それじゃ　この古文書どおり|　キラキラ大風車塔を　動かすぜ！": "...... Well, then, as per this ancient|document, we'll be moving the glittering|great windmill tower!"
+    },
+    "13": {
+        "「えーっと　操作方法は　５５ページ……。|　ん？　なんだこりゃ。": "Let's see, page 55 for instructions... Hmm?|What the..."
+    },
+    "14": {
+        "「どうしたんですかい？　おかしら。": "What's the matter with you? Oh..."
+    },
+    "15": {
+        "「なんでえ！　カンジンの５５ページが|　破れちまって　ないじゃねえかっ！": "What? ! Page 55 of Kangin's book was ripped|out. It's not here!"
+    },
+    "16": {
+        "「おいっ！|　今すぐ　５５ページを見つけてくるか|　俺様に　ブン殴られるか　どっちか選べ！": "Hey! You can either go find page 55 right|now, or I can beat the shit out of you!"
+    },
+    "17": {
+        "「ひっ！！": "Whoa!"
+    },
+    "18": {
+        "「おかしらには　もう　ついていけねえよ！|　あっしは　カンダタ団を　抜けますぜ！": "I can't keep up with you anymore! I'm leaving|Candata!"
+    },
+    "19": {
+        "「あっ　てめえ！　どこへ逃げる気だ！？|　待ちやがれい！！": "Hey, you! Where do you think you're going?|Wait for me!"
+    },
+    "20": {
+        "「待ってたんだなー。|　オイラたちの偽物は　見つかったのかー？": "I've been waiting... Did you find our fakes?"
+    },
+    "21": {
+        "<pc>は　ボラオに|メギストリス城に現れたという偽物は|カンダタだったことを　話した！": "<pc> told Borao that the imposter who had appeared|at Castle Megistris was Kandata!"
+    },
+    "22": {
+        "「カンダタ？　あの　伝説の大盗賊の？": "Kandata? The legendary bandit?"
+    },
+    "23": {
+        "「マジやべえ！！": "That's really bad!"
+    },
+    "24": {
+        "「やべぇ！　オレ　気分がダウナーすぎる……。|　カンダタさんといえば　盗賊中のマジ大盗賊。|　血も涙もねえ　服も着ねえ　恐ろしいお人。": "Oh, no! I'm feeling too downer... Speaking of|Mr. Candata, he's a bandit... No blood, no|tears, no clothes, no fear..."
+    },
+    "25": {
+        "「オレたち　カンダタさんの名前をパクって|　ダンダダ団って　名乗ってる。|　このことがバレたら　地獄への片道切符……！": "We took Mr. Candata's name and called|ourselves the Danda-Dan... If they find out|about this, it's a one-way ticket to hell."
+    },
+    "26": {
+        "「隠れてえ。マジ　隠れてえ……。|　ていうか　すべてを　忘れてえ。": "Hide... I really want to hide. I mean, forget|everything..."
+    },
+    "27": {
+        "「バロのアニキ！　ボクたちダンダダ団が|　大盗賊カンダタさんと　名前が似ているのは|　偶然ってことに　しましょうよ！": "Barro no Aniki! Let's just say it's a|coincidence that our name is similar to that|of the great bandit, Kandata!"
+    },
+    "28": {
+        "「ボクたち　ダンダダ団の名称は|　実在の盗賊とは　いっさい関係ありませんって|　言い張れば　きっと　大丈夫です！": "I'm sure it'll be all right if you insist|that the name of our band has nothing to do|with actual bandits!"
+    },
+    "29": {
+        "「マジ　それで　いくしかねえ……。": "Seriously, we're gonna have to go with|that..."
+    },
+    "30": {
+        "「おいっ　テメー。|　今後　オレらの前で　カンダタさんの名前を|　クチに出したら　マジ殴る。テッテー的に。": "Hey... If you ever mention Mr. Candata's name|in front of us again... Tetteh..."
+    },
+    "31": {
+        "「えーっと　でも　偽物が逃げたんなら|　また　ケーキを買いに　行けるんだなー。|　オイラは　それで　満足なんだなー。": "Well, but if the fake one got away, then I|can go buy another cake... I'm happy with|that..."
+    },
+    "32": {
+        "「ありがとうー　助かったぞー。|　これは　お礼なんだなー。受け取ってくれー。": "Thank you for your help. This is a thank|you... Please take it..."
+    },
+    "33": {
+        "「それにしても　大盗賊カンダタが|　探してる　月の秘宝って　なんだー？|　きっと　すごく　おいしいんだろうなー。": "Anyway, what's this moon treasure the bandit|Kandata's looking for? It must be very|tasty..."
+    },
+    "34": {
+        "「さ……さっきから聞いてりゃ|　あんまりにも　あんまりじゃないですか！": "Well... If you've been listening, you've been|listening too much!"
+    },
+    "35": {
+        "「ああー　ハラペコになってきたー。|　今日からは　毎日　オルフェアの町に|　ケーキを買いに行くぞー。": "Oh, I'm so hungry... From today on, I'll be|going to the town of Orpheus every day to buy|a cake..."
+    }
 }

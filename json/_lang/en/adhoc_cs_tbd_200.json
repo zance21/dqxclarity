@@ -1,92 +1,92 @@
 {
-  "1": {
-    "「キハダさんっ。まだ　間に合います。|　やめるなんて言わずに　もう一度|　考え直してください！": ""
-  },
-  "2": {
-    "「げーっ　また来たのかよ　アンタ……。|　うるせえなぁ。おれっちは|　もう　木工職人になんざ　未練はねぇんだ！": ""
-  },
-  "3": {
-    "「郷里のお母さまが　ご病気で|　お金が必要だったのは　わかります……。": ""
-  },
-  "4": {
-    "「でも　うちに入門するとき　世界一の|　木工職人になって　お城に　家具を献上するのが|　夢だって　おっしゃっていたじゃないですか！": ""
-  },
-  "5": {
-    "「よう　邪魔するぜ　キハダさん。|　金が返せねぇなら　もういいかげん|　こっちに　身体　あずけてもらおうじゃねぇか。": ""
-  },
-  "6": {
-    "「うっ！　デュバルさん……。|　わかりました……。今　行きます。": ""
-  },
-  "7": {
-    "「待って！　あなたたちは　どなたです？|　うちの職人を　どこへ連れていく気ですか？": ""
-  },
-  "8": {
-    "「もう　いいんだ　カンナさん……。|　夢じゃ　食っていけねぇんだ。": ""
-  },
-  "9": {
-    "「ごちゃごちゃ言ってねーで　早く来い！|　テメーらみたいな　カビくせぇ木工職人じゃ|　利息分だって　払えねぇだろうが！": ""
-  },
-  "10": {
-    "「………………あ？": ""
-  },
-  "11": {
-    "「カビくさい……だと？|　ちょっと　聞き捨てならない言葉だね！！": ""
-  },
-  "12": {
-    "「……アタシは　素材にも　道具にも|　カビなんて生やさせたこたぁ　ありゃしないよ！|　職人の誇りにかけてね！！": ""
-  },
-  "13": {
-    "「アンタらこそ　今　自分のやってることに|　誇りが　あるってのかい！？|　胸張って　仕事してんのかい？　えぇ！？": ""
-  },
-  "14": {
-    "「キハダ！　アンタもアンタだよ！|　借金が苦しいからって　一度抱いた夢を|　捨てるなんて　情けない男だね！": ""
-  },
-  "15": {
-    "「カ……カンナさん……！？": ""
-  },
-  "16": {
-    "「ちょ……ちょっと　アニキ！|　ツバクロのアニキ～！！": ""
-  },
-  "17": {
-    "「なんじゃ　騒がしいのぅ。|　オメーらで　ちーたぁ片付けぇや……。": ""
-  },
-  "18": {
-    "「ん　んん！？|　……もしや　お嬢？　お嬢じゃろか？": ""
-  },
-  "19": {
-    "「おや　誰かと思ったら　ツバクロじゃないか。|　ひさしぶりだね。": ""
-  },
-  "20": {
-    "「フン……。一文無しで　じいさんに拾われて|　ギルドの　使い走りしてたアンタが　今じゃ|　アコギな商売で　デカい顔してるみたいだねぇ。": ""
-  },
-  "21": {
-    "「まぁいいさ。アンタなら　話が早いよ。|　これ　受け取ってくんな！　その代わり|　キハダの借金は　チャラにしておくれ。": ""
-  },
-  "22": {
-    "「こ……こりゃ　スミツボのオヤジさんが|　大事にしとった　家宝の木工刀じゃろ！？|　わしゃ　こげな貴重なモン　受け取れん！": ""
-  },
-  "23": {
-    "「今のアタシにとって　門弟よか|　大事なモンなんて　ないんでね。|　じいさんも　わかってくれるさ……。": ""
-  },
-  "24": {
-    "「カンナさん……。": ""
-  },
-  "25": {
-    "「まったく　お嬢には　かなわんのぉ。|　……ほいじゃ　こりゃあ|　わしが　いっとき　あずからせてもらいます。": ""
-  },
-  "26": {
-    "「ツバクロ　恩に着るよ……。": ""
-  },
-  "27": {
-    "「キハダ！　そこの　<pc>だって|　イチから　コツコツ　がんばってんだよ。": ""
-  },
-  "28": {
-    "「もう　<color_yellow><%sEV_SYOK_HOSI><color_white>以上の　<%sEV_SYOK_ITEM>まで|　作れるように　成長したんだ。|　アンタも　明日から　精進しな！": ""
-  },
-  "29": {
-    "「お嬢……。まるで　スミツボのオヤジさんが|　生き返ったかのようじゃったわ……。": ""
-  },
-  "30": {
-    "「キハダさん。アンタのこたぁ　目をつむるけぇ|　木工ギルドで働ける　幸せをかみしめて|　しっかり　仕事するとええ……。": ""
-  }
+    "1": {
+        "「キハダさんっ。まだ　間に合います。|　やめるなんて言わずに　もう一度|　考え直してください！": "Yellowfin... It's not too late... Don't tell|me you're quitting. Please reconsider!"
+    },
+    "2": {
+        "「げーっ　また来たのかよ　アンタ……。|　うるせえなぁ。おれっちは|　もう　木工職人になんざ　未練はねぇんだ！": "Geez, you're back again... Shut up... I'm not|interested in being a woodworker anymore!"
+    },
+    "3": {
+        "「郷里のお母さまが　ご病気で|　お金が必要だったのは　わかります……。": "I understand your mother was ill in your|hometown and you needed money..."
+    },
+    "4": {
+        "「でも　うちに入門するとき　世界一の|　木工職人になって　お城に　家具を献上するのが|　夢だって　おっしゃっていたじゃないですか！": "But when you first joined us, you said your|dream was to become the world's greatest|woodworker and present furniture to the|<br>|castle!"
+    },
+    "5": {
+        "「よう　邪魔するぜ　キハダさん。|　金が返せねぇなら　もういいかげん|　こっちに　身体　あずけてもらおうじゃねぇか。": "Hey, you interrupting me, Kiha... If you|can't return the money, then let's have your|body here for good..."
+    },
+    "6": {
+        "「うっ！　デュバルさん……。|　わかりました……。今　行きます。": "Ugh! Mr. Duvall... Yes, sir... I'm coming..."
+    },
+    "7": {
+        "「待って！　あなたたちは　どなたです？|　うちの職人を　どこへ連れていく気ですか？": "Wait! Who are you people? Where are you|taking our craftsmen?"
+    },
+    "8": {
+        "「もう　いいんだ　カンナさん……。|　夢じゃ　食っていけねぇんだ。": "It's okay, Kanna... I can't live on dreams..."
+    },
+    "9": {
+        "「ごちゃごちゃ言ってねーで　早く来い！|　テメーらみたいな　カビくせぇ木工職人じゃ|　利息分だって　払えねぇだろうが！": "Stop messing around and come quick! A bunch|of moldy woodworkers like you can't even pay|the interest!"
+    },
+    "10": {
+        "「………………あ？": "... Oh?"
+    },
+    "11": {
+        "「カビくさい……だと？|　ちょっと　聞き捨てならない言葉だね！！": "It's musty. What? I don't like the sound of|that!"
+    },
+    "12": {
+        "「……アタシは　素材にも　道具にも|　カビなんて生やさせたこたぁ　ありゃしないよ！|　職人の誇りにかけてね！！": "... I've never let mold grow on my materials|or tools. I'm a proud craftsman."
+    },
+    "13": {
+        "「アンタらこそ　今　自分のやってることに|　誇りが　あるってのかい！？|　胸張って　仕事してんのかい？　えぇ！？": "Are you guys proud of what you're doing right|now? Are you doing your job with pride? Huh?"
+    },
+    "14": {
+        "「キハダ！　アンタもアンタだよ！|　借金が苦しいからって　一度抱いた夢を|　捨てるなんて　情けない男だね！": "Kihada! You're just like me! You're a|pathetic man who throws away a dream he once|had just because he's in debt!"
+    },
+    "15": {
+        "「カ……カンナさん……！？": "Ka... Kanna-san...!"
+    },
+    "16": {
+        "「ちょ……ちょっと　アニキ！|　ツバクロのアニキ～！！": "Hey... Hey, Aniki! Mr. Tsubakuro's brother!"
+    },
+    "17": {
+        "「なんじゃ　騒がしいのぅ。|　オメーらで　ちーたぁ片付けぇや……。": "What's with all the noise... Why don't you|guys clean up your own mess..."
+    },
+    "18": {
+        "「ん　んん！？|　……もしや　お嬢？　お嬢じゃろか？": "Hmmm? Hmmm... Is that you, miss? Miss, is it?"
+    },
+    "19": {
+        "「おや　誰かと思ったら　ツバクロじゃないか。|　ひさしぶりだね。": "Oh, look who's here. It's Tsubakuro... It's|been a while."
+    },
+    "20": {
+        "「フン……。一文無しで　じいさんに拾われて|　ギルドの　使い走りしてたアンタが　今じゃ|　アコギな商売で　デカい顔してるみたいだねぇ。": "Hmm... You were penniless, your grandfather|took you in, you were running errands for the|guild, and now you're posing as a big shot in|<br>|some weird business..."
+    },
+    "21": {
+        "「まぁいいさ。アンタなら　話が早いよ。|　これ　受け取ってくんな！　その代わり|　キハダの借金は　チャラにしておくれ。": "Well... I'm sure you can... Don't take this!|In exchange, I'll clear your debt to|Kihada..."
+    },
+    "22": {
+        "「こ……こりゃ　スミツボのオヤジさんが|　大事にしとった　家宝の木工刀じゃろ！？|　わしゃ　こげな貴重なモン　受け取れん！": "This... This must be the family heirloom|wooden sword, treasured by the old man of|Sumitsubo! I can't accept something as|<br>|valuable as this!"
+    },
+    "23": {
+        "「今のアタシにとって　門弟よか|　大事なモンなんて　ないんでね。|　じいさんも　わかってくれるさ……。": "There's nothing more important to me now than|my pupil... I'm sure Grandpa will understand."
+    },
+    "24": {
+        "「カンナさん……。": "Kanna-san..."
+    },
+    "25": {
+        "「まったく　お嬢には　かなわんのぉ。|　……ほいじゃ　こりゃあ|　わしが　いっとき　あずからせてもらいます。": "You're no match for her... Well... Well,|then, I'll be your guest for a while..."
+    },
+    "26": {
+        "「ツバクロ　恩に着るよ……。": "Tsubakuro, I'm in your debt..."
+    },
+    "27": {
+        "「キハダ！　そこの　<pc>だって|　イチから　コツコツ　がんばってんだよ。": "Yellowfin! There.<pc> You know, you start from scratch, work your|way up..."
+    },
+    "28": {
+        "「もう　<color_yellow><%sEV_SYOK_HOSI><color_white>以上の　<%sEV_SYOK_ITEM>まで|　作れるように　成長したんだ。|　アンタも　明日から　精進しな！": "more<color_yellow><%sEV_SYOK_HOSI><color_white>I've grown up to be able to make|<%sEV_SYOK_ITEM>... You should start working|on yours tomorrow!"
+    },
+    "29": {
+        "「お嬢……。まるで　スミツボのオヤジさんが|　生き返ったかのようじゃったわ……。": "Miss... It was as if the old man with the|dart had come back to life."
+    },
+    "30": {
+        "「キハダさん。アンタのこたぁ　目をつむるけぇ|　木工ギルドで働ける　幸せをかみしめて|　しっかり　仕事するとええ……。": "Kiha... I'm going to turn a blind eye to what|you're doing, so you should just work hard|and savor the happiness of working for the|<br>|Woodworkers Guild..."
+    }
 }

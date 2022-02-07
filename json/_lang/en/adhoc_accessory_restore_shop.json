@@ -1,74 +1,74 @@
 {
-  "1": {
-    "「他にも　復元したい物……ある？|<yesno><break>": ""
-  },
-  "2": {
-    "「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　<%sL_ACCE_RST_ITEM>を　復元するのね……？|<yesno 2><break>": ""
-  },
-  "3": {
-    "「他に　したいこと……ある？|<break>": ""
-  },
-  "4": {
-    "「<%sL_ACCE_KKR_ITEM>で　何を復元するの？|<break>": ""
-  },
-  "5": {
-    "「<%sL_ACCE_KKR_ITEM>で　何を復元するの？|<break>": ""
-  },
-  "6": {
-    "「復元に使う素材アイテムは……どれにするの？|<break>": ""
-  },
-  "7": {
-    "「じゃ　復元に使うアイテムは……どれにする？|<break>": ""
-  },
-  "8": {
-    "「あの……。お金　足りてないよ。|<bw_break>": ""
-  },
-  "9": {
-    "「<%sL_ACCE_RST_ITEM>を　復元するには|　素材アイテムの数が　足りないね……。|<bw_break>": ""
-  },
-  "10": {
-    "「んーと……。|　今は　復元できる物……持ってないみたいだね。|<bw_break>": ""
-  },
-  "11": {
-    "「えっと……ありがとね。|　また　何かあったら……ミーネに会いに来て。|<turn_end>": ""
-  },
-  "12": {
-    "「こんにちは　アクセサリー復元屋のミーネだよ。|　同じアイテムの破片を　まとまった数|　渡してくれれば……元のカタチに　復元するよ。|<br>|「１回　<%nL_ACCE_RST_GOLD>ゴールドになるけど|　さっそく　復元チャレンジ……する？|<break>": ""
-  },
-  "13": {
-    "「こんにちは　アクセサリー復元屋のミーネだよ。|　１回　<%nL_ACCE_RST_GOLD>ゴールドになるけど|　復元チャレンジ……する？|<break>": ""
-  },
-  "14": {
-    "<pipipi_off>|<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|<%sL_ACCE_RST_ITEM>を　復元した！|<end>": ""
-  },
-  "15": {
-    "<pipipi_on>|「なかなか　素敵なカタチに……できたよ。|　<%sL_ACCE_RST_ITEM>　大切に　使ってね。|<bw_break>": ""
-  },
-  "16": {
-    "<select_se_off>|復元チャレンジする|説明を聞く|<select_end>|<break>": ""
-  },
-  "17": {
-    "「同じアクセサリーの破片を　まとまった数|　渡してくれれば……元のカタチに　復元するよ。|　１回につき　<%nL_ACCE_RST_GOLD>ゴールド　もらうね。|<bw_break>": ""
-  },
-  "18": {
-    "「それじゃあ　復元してみるね。|　作業中は　その……　静かに　お願いします。|<end>": ""
-  },
-  "19": {
-    "「<%sL_ACCE_RST_ITEM>を　復元しても|　そうびぶくろが　いっぱいで……持てないね。|<bw_break>": ""
-  },
-  "20": {
-    "「<%sL_ACCE_RST_ITEM>を　復元しても|　どうぐかばんが　いっぱいで……持てないね。|<bw_break>": ""
-  },
-  "21": {
-    "「んーと……　これは　やってみるまで|　どんな物になるか……わからなそう。|<br>|「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　復元チャレンジ……する？|<yesno 2><break>": ""
-  },
-  "22": {
-    "「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元するのね……？|<yesno 2><break>": ""
-  },
-  "23": {
-    "「<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元するには|　素材アイテムの数が　足りないね……。|<bw_break>": ""
-  },
-  "24": {
-    "<pipipi_off>|<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元した！|<end>": ""
-  }
+    "1": {
+        "「他にも　復元したい物……ある？|<yesno><break>": ""
+    },
+    "2": {
+        "「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　<%sL_ACCE_RST_ITEM>を　復元するのね……？|<yesno 2><break>": "It will cost <%nL_ACCE_RST_GOLD> gold, but|<%sL_ACCE_KKR_ITEM> <%nL_ACCE_KKR_NUM> will|restore <%sL_ACCE_RST_ITEM>...?<yesno 2><break>"
+    },
+    "3": {
+        "「他に　したいこと……ある？|<break>": ""
+    },
+    "4": {
+        "「<%sL_ACCE_KKR_ITEM>で　何を復元するの？|<break>": "What do you want to restore with|<%sL_ACCE_KKR_ITEM>?<break>"
+    },
+    "5": {
+        "「<%sL_ACCE_KKR_ITEM>で　何を復元するの？|<break>": "What do you want to restore with|<%sL_ACCE_KKR_ITEM>?<break>"
+    },
+    "6": {
+        "「復元に使う素材アイテムは……どれにするの？|<break>": ""
+    },
+    "7": {
+        "「じゃ　復元に使うアイテムは……どれにする？|<break>": ""
+    },
+    "8": {
+        "「あの……。お金　足りてないよ。|<bw_break>": "I need... I need more money.<bw_break>"
+    },
+    "9": {
+        "「<%sL_ACCE_RST_ITEM>を　復元するには|　素材アイテムの数が　足りないね……。|<bw_break>": "I don't think we have enough material items|to restore <%sL_ACCE_RST_ITEM>...<bw_break>"
+    },
+    "10": {
+        "「んーと……。|　今は　復元できる物……持ってないみたいだね。|<bw_break>": "Um... I don't think I have anything... I|don't think I have...<bw_break>"
+    },
+    "11": {
+        "「えっと……ありがとね。|　また　何かあったら……ミーネに会いに来て。|<turn_end>": "Well... There's... If anything else|happens... I'll go see Meereen...<turn_end>"
+    },
+    "12": {
+        "「こんにちは　アクセサリー復元屋のミーネだよ。|　同じアイテムの破片を　まとまった数|　渡してくれれば……元のカタチに　復元するよ。|<br>|「１回　<%nL_ACCE_RST_GOLD>ゴールドになるけど|　さっそく　復元チャレンジ……する？|<break>": "Hello. I'm Mee, an accessory restorer. All|you have to do is give me a bunch of pieces|of the same item... I can restore it to its|<br>|original form... It'll cost you one|<%nL_ACCE_RST_GOLD> gold, but I'll get right|to it. Do you want to?<break>"
+    },
+    "13": {
+        "「こんにちは　アクセサリー復元屋のミーネだよ。|　１回　<%nL_ACCE_RST_GOLD>ゴールドになるけど|　復元チャレンジ……する？|<break>": "Hello, Accessory Restorer Me... I've got one|<%nL_ACCE_RST_GOLD> gold, but it's a|restoration challenge... Do you want to?<break>"
+    },
+    "14": {
+        "<pipipi_off>|<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|<%sL_ACCE_RST_ITEM>を　復元した！|<end>": "<pipipi_off>Restored <%sL_ACCE_RST_ITEM> with|<%sL_ACCE_KKR_ITEM> <%nL_ACCE_KKR_NUM>|pieces!<end>"
+    },
+    "15": {
+        "<pipipi_on>|「なかなか　素敵なカタチに……できたよ。|　<%sL_ACCE_RST_ITEM>　大切に　使ってね。|<bw_break>": "<pipipi_on>It's a pretty nice shape. And...|<%sL_ACCE_RST_ITEM> Take good care of it...<bw_break>"
+    },
+    "16": {
+        "<select_se_off>|復元チャレンジする|説明を聞く|<select_end>|<break>": "<select_se_off>|Restore challenge|Listen to the explanation|<select_end>|<break>"
+    },
+    "17": {
+        "「同じアクセサリーの破片を　まとまった数|　渡してくれれば……元のカタチに　復元するよ。|　１回につき　<%nL_ACCE_RST_GOLD>ゴールド　もらうね。|<bw_break>": "If you could just give me a large enough|number of pieces of the same accessory...|I'll restore it to its original form... And|<br>|<%nL_ACCE_RST_GOLD> gold for each...<bw_break>"
+    },
+    "18": {
+        "「それじゃあ　復元してみるね。|　作業中は　その……　静かに　お願いします。|<end>": "Okay, well, I'm going to restore the... While|I'm working, I'm gonna... Quiet, please...<end>"
+    },
+    "19": {
+        "「<%sL_ACCE_RST_ITEM>を　復元しても|　そうびぶくろが　いっぱいで……持てないね。|<bw_break>": "Even after restoring <%sL_ACCE_RST_ITEM>, the|bag is still full. I can't hold it.<bw_break>"
+    },
+    "20": {
+        "「<%sL_ACCE_RST_ITEM>を　復元しても|　どうぐかばんが　いっぱいで……持てないね。|<bw_break>": "Even if I restore <%sL_ACCE_RST_ITEM>, my kit|is full... I can't...<bw_break>"
+    },
+    "21": {
+        "「んーと……　これは　やってみるまで|　どんな物になるか……わからなそう。|<br>|「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　復元チャレンジ……する？|<yesno 2><break>": "Well... I don't know what it's going to be|until I try it. I don't know... It'll cost|you <%nL_ACCE_RST_GOLD> gold, but I'll take|<br>|<%sL_ACCE_KKR_ITEM> <%nL_ACCE_KKR_NUM> for|the restore challenge... Do you want to?<yesno 2><break>"
+    },
+    "22": {
+        "「<%nL_ACCE_RST_GOLD>ゴールド　かかるけど|　<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|　<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元するのね……？|<yesno 2><break>": "It costs <%nL_ACCE_RST_GOLD> gold, but|<%sL_ACCE_KKR_ITEM> <%nL_ACCE_KKR_NUM> will|restore <%sL_ACCE_RST_ITEM>|<br>|<%nL_ACCE_NUM>...?<yesno 2><break>"
+    },
+    "23": {
+        "「<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元するには|　素材アイテムの数が　足りないね……。|<bw_break>": "There are not enough material items to|restore <%sL_ACCE_RST_ITEM> to|<%nL_ACCE_NUM>...<bw_break>"
+    },
+    "24": {
+        "<pipipi_off>|<%sL_ACCE_KKR_ITEM>　<%nL_ACCE_KKR_NUM>個で|<%sL_ACCE_RST_ITEM>を　<%nL_ACCE_NUM>個　復元した！|<end>": "<pipipi_off><%sL_ACCE_KKR_ITEM> <%nL_ACCE_KKR_NUM> with|<%sL_ACCE_RST_ITEM> <%nL_ACCE_NUM> restored!<end>"
+    }
 }

@@ -1,32 +1,32 @@
 {
-  "1": {
-    "「あっ……！": ""
-  },
-  "2": {
-    "「シェ…シェリル……！？": ""
-  },
-  "3": {
-    "「……そいつは　新しい賢者か？": ""
-  },
-  "4": {
-    "「う…ううん！|　まだ賢者には　なっていないの。|　でも　今　転職の試験を　終えてきて……。": ""
-  },
-  "5": {
-    "「そうか……。": ""
-  },
-  "6": {
-    "「彼女が　幼なじみの　シェリル。|　あのドゥラさまと　院長の座を争ったほど|　実力のある　賢者なの。": ""
-  },
-  "7": {
-    "「ドゥラさまと　シェリルのふたりで|　ドルワームの知を司る　賢狼の爪と牙……なんて|　呼ばれちゃうくらい　ホント　すごいコよ。": ""
-  },
-  "8": {
-    "「最近は　この研究院にも|　顔を　出さなくなったんだけど|　今日は　どうしたのかな……。": ""
-  },
-  "9": {
-    "<if_woman>「ああっ！　ごめんね　また話が脱線しちゃった！|　<pc>ちゃんが　試験をクリアしたこと|　ティーザさんに報告しとくから　安心して！<else>「ああっ！　ごめんね　また話が脱線しちゃった！|　<pc>くんが　試験をクリアしたこと|　ティーザさんに報告しとくから　安心して！<endif>": ""
-  },
-  "10": {
-    "<if_woman>「ティーザさんの所に行けば|　賢者に　転職できるようにしてくれるよ！|　おめでとう　<pc>ちゃん！<else>「ティーザさんの所に行けば|　賢者に　転職できるようにしてくれるよ！|　おめでとう　<pc>くん！<endif>": ""
-  }
+    "1": {
+        "「あっ……！": "Oh...!"
+    },
+    "2": {
+        "「シェ…シェリル……！？": "She... Cheryl...!"
+    },
+    "3": {
+        "「……そいつは　新しい賢者か？": "... Is that the new wise guy?"
+    },
+    "4": {
+        "「う…ううん！|　まだ賢者には　なっていないの。|　でも　今　転職の試験を　終えてきて……。": "Uh... No! I haven't become a sage yet. But|I've just finished a job interview..."
+    },
+    "5": {
+        "「そうか……。": "Well..."
+    },
+    "6": {
+        "「彼女が　幼なじみの　シェリル。|　あのドゥラさまと　院長の座を争ったほど|　実力のある　賢者なの。": "She was my childhood friend... She was so|powerful and wise that she competed with Lord|Dula for the position of Abbot."
+    },
+    "7": {
+        "「ドゥラさまと　シェリルのふたりで|　ドルワームの知を司る　賢狼の爪と牙……なんて|　呼ばれちゃうくらい　ホント　すごいコよ。": "Lady Dura and Cheryl, you two are the claws|and fangs of the wise wolf who controls the|knowledge of the dhole worm. The claws and|<br>|fangs of a wise wolf."
+    },
+    "8": {
+        "「最近は　この研究院にも|　顔を　出さなくなったんだけど|　今日は　どうしたのかな……。": "I haven't seen you at the institute lately,|but I wonder what happened today..."
+    },
+    "9": {
+        "<if_woman>「ああっ！　ごめんね　また話が脱線しちゃった！|　<pc>ちゃんが　試験をクリアしたこと|　ティーザさんに報告しとくから　安心して！<else>「ああっ！　ごめんね　また話が脱線しちゃった！|　<pc>くんが　試験をクリアしたこと|　ティーザさんに報告しとくから　安心して！<endif>": "<if_woman>Aah! Sorry, I got sidetracked again!<pc>   I'll report to Miss Teeza that you passed the|test, so don't worry!<else>Aah! Sorry, I got sidetracked again!<pc> I'll tell Teeza-san that you passed the test,|so don't worry!<endif>"
+    },
+    "10": {
+        "<if_woman>「ティーザさんの所に行けば|　賢者に　転職できるようにしてくれるよ！|　おめでとう　<pc>ちゃん！<else>「ティーザさんの所に行けば|　賢者に　転職できるようにしてくれるよ！|　おめでとう　<pc>くん！<endif>": "<if_woman>If you go to Tisa, she'll help you get a new|job as a sage! Congratulations.<pc>   Hey!<else>If you go to Tisa, she'll help you get a new|job as a sage! Congratulations.<pc> Kun!<endif>"
+    }
 }

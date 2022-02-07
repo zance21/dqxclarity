@@ -1,119 +1,119 @@
 {
-  "1": {
-    "「時の王者　<pc>さま。|　この光を　ご覧ください。": ""
-  },
-  "2": {
-    "「この光球こそが……　グレイナル叙事詩。": ""
-  },
-  "3": {
-    "「叙事詩といっても　じつは書ではなく |　かつての聖竜の　精神の残滓とでも呼ぶべき光が|　過去の出来事を　私たちに伝えてくれるのです。": ""
-  },
-  "4": {
-    "「それでは　叙事詩に問いかけてみましょう。 |　我らの　歩むべき道を。": ""
-  },
-  "5": {
-    "「……………………。": ""
-  },
-  "6": {
-    "「ロディアさま……？": ""
-  },
-  "7": {
-    "「これは……凍えきった光……。 |　幾星霜の年月を経たことで|　今は　眠りについているようです。": ""
-  },
-  "8": {
-    "「<pc>さま……。|　我ら　世告げの姫に受け継がれてきた|　伝承の中に　このようなものがございます。": ""
-  },
-  "9": {
-    "「グレイナル叙事詩を　眠りから覚ますのならば|　竜の火酒を　求めよ……。|　火酒は　炎の山の火トカゲが生むだろう。": ""
-  },
-  "10": {
-    "「炎の山の火トカゲとは|　ドワチャッカ大陸の　カルサドラ火山に生息する|　赤き魔物　<%sEV_QUE_NAME0>のことです。": ""
-  },
-  "11": {
-    "「どうか　その魔物を倒し|　竜の火酒を　手に入れてきてくださいまし。": ""
-  },
-  "12": {
-    "「……さすがは　<pc>さま。|　グレイナル叙事詩を　目覚めさせるための|　竜の火酒を　手に入れてきてくださいましたか。": ""
-  },
-  "13": {
-    "ロディアに　竜の火酒を　渡しますか？<yesno><close>": ""
-  },
-  "14": {
-    "「竜の火酒がなければ　グレイナル叙事詩を|　目覚めさせることはできません……。|　<pc>さま　お願いいたします。": ""
-  },
-  "15": {
-    "ロディアに　竜の火酒を　渡しますか？<yesno><close>": ""
-  },
-  "16": {
-    "<pc>は　ロディアに|竜の火酒を　渡した。": ""
-  },
-  "17": {
-    "「これが竜の火酒……|　強い魔力を感じます。": ""
-  },
-  "18": {
-    "「聖竜よ。竜の火酒を　捧げます。|　どうか　目をお覚ましください……。": ""
-  },
-  "19": {
-    "ロディアは　竜の火酒を泉に注いだ。": ""
-  },
-  "20": {
-    "<center>……長い…あまりにも長い眠りじゃった。": ""
-  },
-  "21": {
-    "「……聖竜グレイナルよ。 |　お目覚めを　待ち望んでおりました。": ""
-  },
-  "22": {
-    "<center>ふう…………。|ふたたび　災厄の時が訪れたか。": ""
-  },
-  "23": {
-    "<center>そして　そこの者よ。|貴様が　時の王者……であるか？": ""
-  },
-  "24": {
-    "<center>貴様が　災厄の王への道を開くために|わしを訪ねてきたこと|このグレイナル　すべて　お見通しである。": ""
-  },
-  "25": {
-    "<center>……思いだすのう。|初代王者と翔けた　あの空を。": ""
-  },
-  "26": {
-    "<center>できることなら　わしの翼で　貴様を|災厄の王が眠る地まで　導いてやりたいが|このような身体では　もはや飛べぬ。": ""
-  },
-  "27": {
-    "<center>災厄は　長き眠りの時代を経て|想像を絶するほどに|強大な存在へと　変わり果てている。": ""
-  },
-  "28": {
-    "<center>ふたりめの王者の言うとおり|もはや　王者ただひとりのチカラで|打ち滅ぼすことなど不可能。": ""
-  },
-  "29": {
-    "<center>ゆえに　わしが|貴様に　新たなチカラを授けてやろう。": ""
-  },
-  "30": {
-    "「これは……カギ……。": ""
-  },
-  "31": {
-    "<center>そのカギは　王者の資格を持つ者同士を|巡り合わせるためのもの。": ""
-  },
-  "32": {
-    "<center>名などない物だが……そうじゃな。|王者のカギとでも　名付けるとしよう。": ""
-  },
-  "33": {
-    "<center>そのカギに導かれ　集まった者同士が|同盟を組んだならば　８人のチカラを結集して|災厄の王に　挑むことができるじゃろう。": ""
-  },
-  "34": {
-    "<center>たとえ　ひとりでは敵わぬとも|８人の王者のチカラが集えば|かの災厄を　退けられるかもしれぬ。": ""
-  },
-  "35": {
-    "<center>さあ　行け　時の王者よ。|貴様自身の手で　地獄の門を開き|地獄の中を翔けてゆけ！": ""
-  },
-  "36": {
-    "<center>わしは　今一度　長き…長き眠りにつき|次代…の　到来…を待と…う……。": ""
-  },
-  "37": {
-    "「時の王者　<pc>さま……。|　私は　このカギを手に　落陽の草原へ戻り|　<pc>さまを　お待ちいたします。": ""
-  },
-  "38": {
-    "「ついに　災厄の王との決戦となります。 |　充分に備えて　いらしてください。|　どうか　こちらを戦いにお役立てくださいませ。": ""
-  },
-  "39": {
-    "「落陽の草原の　光の河……。|　そこより　地獄の門を開きましょう。": ""
-  }
+    "1": {
+        "「時の王者　<pc>さま。|　この光を　ご覧ください。": "The King of Time<pc> Sir. Look at this light..."
+    },
+    "2": {
+        "「この光球こそが……　グレイナル叙事詩。": "This glow ball is... Graynal..."
+    },
+    "3": {
+        "「叙事詩といっても　じつは書ではなく |　かつての聖竜の　精神の残滓とでも呼ぶべき光が|　過去の出来事を　私たちに伝えてくれるのです。": "An epic poem is not really a book, but rather|a glimmer of light, a residue of the spirit|of the holy dragons of old, telling us of|<br>|past events..."
+    },
+    "4": {
+        "「それでは　叙事詩に問いかけてみましょう。 |　我らの　歩むべき道を。": "So let's ask the epic question... \"Where|shall we go..."
+    },
+    "5": {
+        "「……………………。": "..."
+    },
+    "6": {
+        "「ロディアさま……？": "Lady Rodia...?"
+    },
+    "7": {
+        "「これは……凍えきった光……。 |　幾星霜の年月を経たことで|　今は　眠りについているようです。": "This is... A frozen light... After all these|years, it's asleep now."
+    },
+    "8": {
+        "「<pc>さま……。|　我ら　世告げの姫に受け継がれてきた|　伝承の中に　このようなものがございます。": "<pc> Oh, my... In the lore passed down to us, the|princesses of Sekigahara, there is something|like this..."
+    },
+    "9": {
+        "「グレイナル叙事詩を　眠りから覚ますのならば|　竜の火酒を　求めよ……。|　火酒は　炎の山の火トカゲが生むだろう。": "If you would awaken the epic of Grunal from|its slumber, seek the fire wine of the|dragon... \"The fire wine is made by the fire|<br>|lizards of the Mountain of Fire."
+    },
+    "10": {
+        "「炎の山の火トカゲとは|　ドワチャッカ大陸の　カルサドラ火山に生息する|　赤き魔物　<%sEV_QUE_NAME0>のことです。": "The Fire Lizard of the Flaming Mountain is a|red demon <%sEV_QUE_NAME0> that inhabits the|Kalsadra volcano on the continent of|<br>|Dwacha..."
+    },
+    "11": {
+        "「どうか　その魔物を倒し|　竜の火酒を　手に入れてきてくださいまし。": "Please go defeat that demon and get the|dragon's fire wine..."
+    },
+    "12": {
+        "「……さすがは　<pc>さま。|　グレイナル叙事詩を　目覚めさせるための|　竜の火酒を　手に入れてきてくださいましたか。": " As expected<pc> My Lord. Please go and get me the dragon's|fire wine to wake up the epicureans of|Graenal..."
+    },
+    "13": {
+        "ロディアに　竜の火酒を　渡しますか？<yesno><close>": "Do you want me to give Rodia the dragon's|fire wine?<yesno><close>"
+    },
+    "14": {
+        "「竜の火酒がなければ　グレイナル叙事詩を|　目覚めさせることはできません……。|　<pc>さま　お願いいたします。": "Without the Dragon's Fire Wine, we cannot|awaken the Graenal Epic...<pc> Sir, please..."
+    },
+    "15": {
+        "ロディアに　竜の火酒を　渡しますか？<yesno><close>": "Do you want me to give Rodia the dragon's|fire wine?<yesno><close>"
+    },
+    "16": {
+        "<pc>は　ロディアに|竜の火酒を　渡した。": "<pc> ...gave Rhodia the dragon's fire wine."
+    },
+    "17": {
+        "「これが竜の火酒……|　強い魔力を感じます。": ""
+    },
+    "18": {
+        "「聖竜よ。竜の火酒を　捧げます。|　どうか　目をお覚ましください……。": "... I offer you the Dragon's Fire Wine...|Please, wake up..."
+    },
+    "19": {
+        "ロディアは　竜の火酒を泉に注いだ。": "Rodia took the dragon's fire wine to the|spring."
+    },
+    "20": {
+        "<center>……長い…あまりにも長い眠りじゃった。": "... Too long... Too long a sleep..."
+    },
+    "21": {
+        "「……聖竜グレイナルよ。 |　お目覚めを　待ち望んでおりました。": "... Gray the holy dragon... I've been waiting|for you to wake up..."
+    },
+    "22": {
+        "<center>ふう…………。|ふたたび　災厄の時が訪れたか。": "Hmm... Once again, the time of disaster has|come..."
+    },
+    "23": {
+        "<center>そして　そこの者よ。|貴様が　時の王者……であるか？": "And there... You are the Time Lord... Are|you?"
+    },
+    "24": {
+        "<center>貴様が　災厄の王への道を開くために|わしを訪ねてきたこと|このグレイナル　すべて　お見通しである。": "You have come to me to pave the way for the|King of Mischief, and I know all about it..."
+    },
+    "25": {
+        "<center>……思いだすのう。|初代王者と翔けた　あの空を。": "... I remember... Flying with the first|champion..."
+    },
+    "26": {
+        "<center>できることなら　わしの翼で　貴様を|災厄の王が眠る地まで　導いてやりたいが|このような身体では　もはや飛べぬ。": "If I could, I would use my wings to guide you|to the land where the King of Misfortune|lies, but with a body like this, I'm afraid I|<br>|can't."
+    },
+    "27": {
+        "<center>災厄は　長き眠りの時代を経て|想像を絶するほどに|強大な存在へと　変わり果てている。": "A plague that, after a long period of|slumber, has transformed itself into a being|of unimaginable power."
+    },
+    "28": {
+        "<center>ふたりめの王者の言うとおり|もはや　王者ただひとりのチカラで|打ち滅ぼすことなど不可能。": "The second champion is right. No longer will|the power of one champion alone be enough to|destroy..."
+    },
+    "29": {
+        "<center>ゆえに　わしが|貴様に　新たなチカラを授けてやろう。": "Therefore, I will give you new powers..."
+    },
+    "30": {
+        "「これは……カギ……。": "This is... A key..."
+    },
+    "31": {
+        "<center>そのカギは　王者の資格を持つ者同士を|巡り合わせるためのもの。": "The key is to bring together those who are|qualified to be champions..."
+    },
+    "32": {
+        "<center>名などない物だが……そうじゃな。|王者のカギとでも　名付けるとしよう。": "It has no name, but... Well... The key of|champions, if you will."
+    },
+    "33": {
+        "<center>そのカギに導かれ　集まった者同士が|同盟を組んだならば　８人のチカラを結集して|災厄の王に　挑むことができるじゃろう。": "If we are guided by that key, if we gather|together and form an alliance, we can unite|the power of the eight of us and challenge|<br>|the King of Mischief..."
+    },
+    "34": {
+        "<center>たとえ　ひとりでは敵わぬとも|８人の王者のチカラが集えば|かの災厄を　退けられるかもしれぬ。": "Even if you can't defeat them alone, with the|power of eight champions, you might be able|to defeat their evil."
+    },
+    "35": {
+        "<center>さあ　行け　時の王者よ。|貴様自身の手で　地獄の門を開き|地獄の中を翔けてゆけ！": "Now, go, time... Open the gates of hell with|your own hands and fly through it!"
+    },
+    "36": {
+        "<center>わしは　今一度　長き…長き眠りにつき|次代…の　到来…を待と…う……。": "I have slept a long time... The long sleep of|the next generation. And wait... The next...|I..."
+    },
+    "37": {
+        "「時の王者　<pc>さま……。|　私は　このカギを手に　落陽の草原へ戻り|　<pc>さまを　お待ちいたします。": "The King of Time<pc>  Wander... I returned to the meadow of the|setting sun with this key in my hand.<pc> We are waiting for you..."
+    },
+    "38": {
+        "「ついに　災厄の王との決戦となります。 |　充分に備えて　いらしてください。|　どうか　こちらを戦いにお役立てくださいませ。": "At last, the battle with the King of|Mischief... Please come well prepared. I hope|you find this useful in your fight..."
+    },
+    "39": {
+        "「落陽の草原の　光の河……。|　そこより　地獄の門を開きましょう。": "\"A river of light in a meadow of falling|sunlight... From there, I will open the gates|of hell..."
+    }
 }

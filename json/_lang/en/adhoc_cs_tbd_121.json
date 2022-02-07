@@ -1,80 +1,80 @@
 {
-  "1": {
-    "「ここが　あやしいってワケかい？": ""
-  },
-  "2": {
-    "「なるほど。アンタ　カンが　さえてるね。|　確かに　お宝のにおいが　プンプンするよ。": ""
-  },
-  "3": {
-    "「よし！　それじゃ　今度は|　あたいのカンを　見せつけてやろうかね。": ""
-  },
-  "4": {
-    "「ここら辺に　ありそうな気が……。": ""
-  },
-  "5": {
-    "「よっしゃ！　見つけたよ！|　お宝　ムーンダイヤモンド！": ""
-  },
-  "6": {
-    "「待ちやがれーっ！": ""
-  },
-  "7": {
-    "「その　お宝は　オレたちのもんだー！！|　だまって　よこしやがれー！！|　キッキキーーー！！！": ""
-  },
-  "8": {
-    "「あねごっ！！": ""
-  },
-  "9": {
-    "「なんだい　こいつら！！|　お宝は　渡さないよっ！！": ""
-  },
-  "10": {
-    "「ダルルのあねごを　助けるんだ！|　行くぞ　<cs_pchero>！": ""
-  },
-  "11": {
-    "「やあ　<cs_pchero>。|　心配しなくても　ムーンダイヤモンドは|　まだ　この部屋にあるよ。": ""
-  },
-  "12": {
-    "「前回　魔物に襲われたとき|　とっさに　ムーンダイヤモンドを|　かくしておいたのさ。": ""
-  },
-  "13": {
-    "「ほらね　このとおりさ！": ""
-  },
-  "14": {
-    "「待ちやがれーっ！": ""
-  },
-  "15": {
-    "「そんな所に　かくしてやがったのかー！！|　だまって　そいつを　よこしやがれー！！|　キッキキーーー！！！": ""
-  },
-  "16": {
-    "「あねごっ！！": ""
-  },
-  "17": {
-    "「今度こそ　ダルルのあねごを　助けるんだ！|　行くぞ　<cs_pchero>！": ""
-  },
-  "18": {
-    "「……キキーッ！！|　オレたちに　たてつくとは　バカなヤツめっ！|　それっ　ヘッドに　ご報告だっ！": ""
-  },
-  "19": {
-    "「<cs_pchero>！　アンタ　強いんだねえ！|　やっぱ　あたいの目に|　くるいは　なかったようだよ！": ""
-  },
-  "20": {
-    "「ダルルのあねご。": ""
-  },
-  "21": {
-    "「さっきの魔物ですが……。|　あいつら　つむじ風の旅団かもしれませんぜ。": ""
-  },
-  "22": {
-    "「つむじ風の旅団……。|　あの　強盗を　なりわいにした|　魔物たちの盗賊集団ってやつかい？": ""
-  },
-  "23": {
-    "「単なる　うわさ話だと思ってたけど|　この目で　見ちまったんじゃあ|　ほうっては　おけないね。": ""
-  },
-  "24": {
-    "「よし　わかった。|　ガタラに戻ったら　やつらの情報を|　集めてみるとしよう。": ""
-  },
-  "25": {
-    "「ああ　<cs_pchero>　すまなかったね。|　なにはともあれ　アンタのおかげで|　ムーンダイヤモンドが　手に入ったよ。": ""
-  },
-  "26": {
-    "「今回の報酬は　ガタラの酒場で|　山分けするとしよう。|　あたいらは　先に戻って　待ってるからね。": ""
-  }
+    "1": {
+        "「ここが　あやしいってワケかい？": "So this is where it gets weird, huh?"
+    },
+    "2": {
+        "「なるほど。アンタ　カンが　さえてるね。|　確かに　お宝のにおいが　プンプンするよ。": "Hey... You have a hunch... You're right, it|smells like treasure..."
+    },
+    "3": {
+        "「よし！　それじゃ　今度は|　あたいのカンを　見せつけてやろうかね。": "Okay! Now I'll show you what I'm made of."
+    },
+    "4": {
+        "「ここら辺に　ありそうな気が……。": "I think it might be around here somewhere."
+    },
+    "5": {
+        "「よっしゃ！　見つけたよ！|　お宝　ムーンダイヤモンド！": "Yes! I found it! The Moon Diamond!"
+    },
+    "6": {
+        "「待ちやがれーっ！": "Wait for me!"
+    },
+    "7": {
+        "「その　お宝は　オレたちのもんだー！！|　だまって　よこしやがれー！！|　キッキキーーー！！！": "That treasure belongs to us! Shut up and give|it to me! Squeak squeak squeak!"
+    },
+    "8": {
+        "「あねごっ！！": "Aneigot!"
+    },
+    "9": {
+        "「なんだい　こいつら！！|　お宝は　渡さないよっ！！": "What's wrong with them? I'm not giving you|the treasure!"
+    },
+    "10": {
+        "「ダルルのあねごを　助けるんだ！|　行くぞ　<cs_pchero>！": "We're gonna save Darl's jaw! Let's go.<cs_pchero>！"
+    },
+    "11": {
+        "「やあ　<cs_pchero>。|　心配しなくても　ムーンダイヤモンドは|　まだ　この部屋にあるよ。": "Hi<cs_pchero>No, no, no. Don't worry, the Moon Diamond is|still in this room."
+    },
+    "12": {
+        "「前回　魔物に襲われたとき|　とっさに　ムーンダイヤモンドを|　かくしておいたのさ。": "The last time I was attacked by a demon, I|hid the Moon Diamond in my room..."
+    },
+    "13": {
+        "「ほらね　このとおりさ！": "See? That's what I'm talking about!"
+    },
+    "14": {
+        "「待ちやがれーっ！": "Wait for me!"
+    },
+    "15": {
+        "「そんな所に　かくしてやがったのかー！！|　だまって　そいつを　よこしやがれー！！|　キッキキーーー！！！": "You hid it in that place? ! Shut up and give|me that thing! Squeak squeak squeak!"
+    },
+    "16": {
+        "「あねごっ！！": "Aneigot!"
+    },
+    "17": {
+        "「今度こそ　ダルルのあねごを　助けるんだ！|　行くぞ　<cs_pchero>！": "This time, we're gonna save Darl's jaw! Let's|go.<cs_pchero>！"
+    },
+    "18": {
+        "「……キキーッ！！|　オレたちに　たてつくとは　バカなヤツめっ！|　それっ　ヘッドに　ご報告だっ！": "... Squeak! You're too stupid to stand up to|us! That's it, report to the head!"
+    },
+    "19": {
+        "「<cs_pchero>！　アンタ　強いんだねえ！|　やっぱ　あたいの目に|　くるいは　なかったようだよ！": "<cs_pchero>You're strong. You're so strong! It looks|like I wasn't wrong in the eyes after all!"
+    },
+    "20": {
+        "「ダルルのあねご。": "Darl's..."
+    },
+    "21": {
+        "「さっきの魔物ですが……。|　あいつら　つむじ風の旅団かもしれませんぜ。": "The demons from earlier... They might be the|Whirlwind Brigade..."
+    },
+    "22": {
+        "「つむじ風の旅団……。|　あの　強盗を　なりわいにした|　魔物たちの盗賊集団ってやつかい？": "The Whirlwind Brigade... The Whirlwind|Brigade... a band of demon thieves who make a|living out of robbery?"
+    },
+    "23": {
+        "「単なる　うわさ話だと思ってたけど|　この目で　見ちまったんじゃあ|　ほうっては　おけないね。": "I thought it was just a rumor, but now that|I've seen it with my own eyes, I can't let it|go..."
+    },
+    "24": {
+        "「よし　わかった。|　ガタラに戻ったら　やつらの情報を|　集めてみるとしよう。": "Okay, I... When we get back to Gatara, I'm|gonna try to get some intel on these guys."
+    },
+    "25": {
+        "「ああ　<cs_pchero>　すまなかったね。|　なにはともあれ　アンタのおかげで|　ムーンダイヤモンドが　手に入ったよ。": "Oh<cs_pchero>I'm sorry. I'm sorry. At any rate, thanks to|you, I have my moon diamond..."
+    },
+    "26": {
+        "「今回の報酬は　ガタラの酒場で|　山分けするとしよう。|　あたいらは　先に戻って　待ってるからね。": "This time, the reward is a split at the|tavern in Gara... We'll be waiting for you|back there..."
+    }
 }

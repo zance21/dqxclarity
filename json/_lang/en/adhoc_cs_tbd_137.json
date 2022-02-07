@@ -1,68 +1,68 @@
 {
-  "1": {
-    "「おお……　ツィム！　いいところに来ましたね。|　防具鍛冶ギルドに依頼した品を|　職人さんが　届けにきてくださいましたよ。": ""
-  },
-  "2": {
-    "「本当ですか！？": ""
-  },
-  "3": {
-    "「……すごい。|　素人のボクでもわかる　精巧さ……。|　これだけの品を作るとは　すばらしい才能だ。": ""
-  },
-  "4": {
-    "「よかったですね　ツィム。|　私は　所用を済ませてきますから|　ちゃんと　職人さんに　お礼を言うのですよ。": ""
-  },
-  "5": {
-    "「はいっ。ありがとうございます　神父。": ""
-  },
-  "6": {
-    "「あなたが　この品を作った　職人さんですね。|　お名前は……　そう　<pc>さんと|　おっしゃるのですか。": ""
-  },
-  "7": {
-    "「ボクは　どうしても知りたかったんです。|　あなたのように才能のある　ウデきき職人さんが|　今のギルドマスターを　どう思っているのか。": ""
-  },
-  "8": {
-    "「どうか　マスター・リリムのことを|　聞かせてくれませんか？　あの人は……|　防具鍛冶ギルドで　うまくやれているのですか？<yesno><close>": ""
-  },
-  "9": {
-    "「なるほど　そうですか……。|　では　あなたも　何か感じているのですね。": ""
-  },
-  "10": {
-    "「そうですか……。|　言っていることは　すこし変わっているけど|　それなりに　うまくやっていると……。": ""
-  },
-  "11": {
-    "「………………。": ""
-  },
-  "12": {
-    "「リリムは……　ボクの実姉です。|　１０年前　父を亡くしたとき|　ボクは　姉と生き別れ　それきりになりました。": ""
-  },
-  "13": {
-    "「ずっと　姉を探していて……　ようやく|　それらしき人物が　防具鍛冶ギルドで|　マスターをしていることを　つかんだのです。": ""
-  },
-  "14": {
-    "「聞けば　マスター・リリムは|　命が　終わる瞬間に生む　炎を使って|　防具を作る……なんて言っているとか。": ""
-  },
-  "15": {
-    "「……だとしたら　間違いないでしょう。|　リリムは　ボクの姉で……　そうやって|　誰かの命の炎を使い　防具を作っているのです。": ""
-  },
-  "16": {
-    "「それだけじゃないっ！|　ボクの推測が正しければ　父さんが死んだのは|　事故なんかじゃなく…………！": ""
-  },
-  "17": {
-    "「……す　すみません　取り乱して。": ""
-  },
-  "18": {
-    "「でも……　もし　あなたが|　防具鍛冶職人を続けるのなら　これからも|　姉の様子を　ボクに教えてくれませんか？": ""
-  },
-  "19": {
-    "「どうか……　どうか　お願いします。|　今日は　姉のことを聞かせてくれて……|　ありがとうございました。": ""
-  },
-  "20": {
-    "「……話は　終わったようですな。|　こんな呼びだし方をしてしまい|　お気を悪くされたのなら　申し訳ない……。": ""
-  },
-  "21": {
-    "「でも　ツィムのことは　私が保証しますよ。|　彼は信頼できる　とても優しい若者です。": ""
-  },
-  "22": {
-    "「だからこそ　彼に代わって|　依頼をしてやろうと思ったのです。|　悩んでいる彼の姿は　見るに忍びなくて……。": ""
-  }
+    "1": {
+        "「おお……　ツィム！　いいところに来ましたね。|　防具鍛冶ギルドに依頼した品を|　職人さんが　届けにきてくださいましたよ。": "Oh... Zim! We've come to the right place... A|craftsman is here to deliver the items I|requested from the armor smith guild..."
+    },
+    "2": {
+        "「本当ですか！？": "Are you sure?"
+    },
+    "3": {
+        "「……すごい。|　素人のボクでもわかる　精巧さ……。|　これだけの品を作るとは　すばらしい才能だ。": "...... I'm an amateur, but even I can see the|precision... It's amazing that they could|make something like this..."
+    },
+    "4": {
+        "「よかったですね　ツィム。|　私は　所用を済ませてきますから|　ちゃんと　職人さんに　お礼を言うのですよ。": "I'm glad... I have some business to attend|to, so I'll be sure to thank the craftsman..."
+    },
+    "5": {
+        "「はいっ。ありがとうございます　神父。": "... Thank you..."
+    },
+    "6": {
+        "「あなたが　この品を作った　職人さんですね。|　お名前は……　そう　<pc>さんと|　おっしゃるのですか。": "You are the craftsman who made this... Your|name is... Yes.<pc> You say you're..."
+    },
+    "7": {
+        "「ボクは　どうしても知りたかったんです。|　あなたのように才能のある　ウデきき職人さんが|　今のギルドマスターを　どう思っているのか。": "I really wanted to know... What does a|talented craftsman like you think of the|current guild master?"
+    },
+    "8": {
+        "「どうか　マスター・リリムのことを|　聞かせてくれませんか？　あの人は……|　防具鍛冶ギルドで　うまくやれているのですか？<yesno><close>": "Please, can you tell us about Master Lirim?|Is he... Is he doing well in the armor|smithing guild?<yesno><close>"
+    },
+    "9": {
+        "「なるほど　そうですか……。|　では　あなたも　何か感じているのですね。": "I see. I see. So you're feeling something,|too..."
+    },
+    "10": {
+        "「そうですか……。|　言っていることは　すこし変わっているけど|　それなりに　うまくやっていると……。": "I see... What you're saying is a little odd,|but you're doing okay."
+    },
+    "11": {
+        "「………………。": "..."
+    },
+    "12": {
+        "「リリムは……　ボクの実姉です。|　１０年前　父を亡くしたとき|　ボクは　姉と生き別れ　それきりになりました。": "Lilim... My parents... Ten years ago, when my|father died, I was separated from my sister|for the first time in my life."
+    },
+    "13": {
+        "「ずっと　姉を探していて……　ようやく|　それらしき人物が　防具鍛冶ギルドで|　マスターをしていることを　つかんだのです。": "I've been looking for my sister for years...|I finally found out that someone who looked|like her was the master of the armor smithing|<br>|guild..."
+    },
+    "14": {
+        "「聞けば　マスター・リリムは|　命が　終わる瞬間に生む　炎を使って|　防具を作る……なんて言っているとか。": "I was told that Master Lirim uses the flames|he creates at the moment his life ends to|create armor. He said..."
+    },
+    "15": {
+        "「……だとしたら　間違いないでしょう。|　リリムは　ボクの姉で……　そうやって|　誰かの命の炎を使い　防具を作っているのです。": "... If that's the case, I'm pretty sure...|Lilim is my sister. And she's using the fire|from someone else's life to make armor."
+    },
+    "16": {
+        "「それだけじゃないっ！|　ボクの推測が正しければ　父さんが死んだのは|　事故なんかじゃなく…………！": "That's not all. If I'm right, and I think I|am, then Dad didn't die in an accident."
+    },
+    "17": {
+        "「……す　すみません　取り乱して。": "I'm sorry. I'm sorry, I took..."
+    },
+    "18": {
+        "「でも……　もし　あなたが|　防具鍛冶職人を続けるのなら　これからも|　姉の様子を　ボクに教えてくれませんか？": "But... If you're going to continue working as|an armor smith, would you mind keeping me|updated on your sister's progress?"
+    },
+    "19": {
+        "「どうか……　どうか　お願いします。|　今日は　姉のことを聞かせてくれて……|　ありがとうございました。": "Please, please... Please, please, please...|Thank you for telling me about your sister|today. Thank you..."
+    },
+    "20": {
+        "「……話は　終わったようですな。|　こんな呼びだし方をしてしまい|　お気を悪くされたのなら　申し訳ない……。": "... I think we're done here. I'm sorry if I|offended you by calling you out like this..."
+    },
+    "21": {
+        "「でも　ツィムのことは　私が保証しますよ。|　彼は信頼できる　とても優しい若者です。": "But I can assure you that Zim is... He's a|trustworthy, very kind young man..."
+    },
+    "22": {
+        "「だからこそ　彼に代わって|　依頼をしてやろうと思ったのです。|　悩んでいる彼の姿は　見るに忍びなくて……。": "That's why I thought I'd make the request on|his behalf... I couldn't bear to see him in|such distress..."
+    }
 }

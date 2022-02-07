@@ -1,65 +1,65 @@
 {
-  "1": {
-    "「あー！　あいつですー！|　あいつが　手強い旅芸人ですよー！": ""
-  },
-  "2": {
-    "「フォッフォッフォ　感じます……。|　私の弟弟子ポルファンと　同じオーラを。": ""
-  },
-  "3": {
-    "「あなたは　ポルファンの弟子ですね。|　役立たずのゲイザーより　お強いようで。|　私　好きですよ。強い方が……。": ""
-  },
-  "4": {
-    "「でもね　残念です。私　嫌いなんですよ。|　くだらん芸をする　旅芸人っていうのがね……。|　なんと言いますかね。受けつけないんですよ。": ""
-  },
-  "5": {
-    "「もうね　好き嫌いの問題ではないです……。|　生理的にダメ。つまらん芸とか　ナンセンス。|　あれで笑える奴の神経が　理解できない……。": ""
-  },
-  "6": {
-    "「もうね　ホント世の中どうかしてますよ。|　どいつもこいつも　つまらん芸で笑ってるのに|　私のセンスが通用しないのは　狂ってますね。": ""
-  },
-  "7": {
-    "「で　結論。なにが言いたいのかというとですね。|　旅芸人は　この世から消えてください。|　消えないのなら　私が　殺してさしあげます。": ""
-  },
-  "8": {
-    "「キャッ　キャッ♪|　ボクたちも　殺したいですー♪": ""
-  },
-  "9": {
-    "「ボクたち　ルルルリーチ様の特訓で|　ちょー　強くなったぜー♪": ""
-  },
-  "10": {
-    "「殺し～♪　殺す～♪　殺せ～♪": ""
-  },
-  "11": {
-    "「私　好きなんですよ。命をかけた戦いが。|　芸も　似たようなものですよね？|　フォッフォッフォ。さあ　楽しみましょう。": ""
-  },
-  "12": {
-    "「あなた　また来たんですか？|　あれだけ　痛めつけてさしあげたのに|　まだ　私の愛のムチが　欲しいんですね？": ""
-  },
-  "13": {
-    "「フォッフォッフォ　うれしいです。|　私　好きなんですよ。弱い者をいたぶるのが。|　私の趣味に協力してくれるとは　素敵な方だ。": ""
-  },
-  "14": {
-    "「フォッフォッフォ。さあ　楽しませてください。|　私は　まだまだ　満足していませんから。": ""
-  },
-  "15": {
-    "「……フォッフォッフォ。お強いですね。|　しかし　悲しいことですが　才能ある者は|　この世から　差別されるのですよ。": ""
-  },
-  "16": {
-    "「私は　ポルファンより　才能がありましたが|　魔物の芸など　ウケるわけなく　どこへ行っても|　私の芸は　受け入れられませんでした……。": ""
-  },
-  "17": {
-    "「しかし　自分より才能のない多くの旅芸人が|　成功している……。私は絶望しましたよ。|　次第に　芸を恨むようになりましてねえ……。": ""
-  },
-  "18": {
-    "「フォッフォッフォ。才能が　あったところで|　世の中は　それを正しくは評価しませんよ？": ""
-  },
-  "19": {
-    "「あなたは　自分の才能が認められなくても|　くさらずに　笑いの道を極められますか？<yesno><close>": ""
-  },
-  "20": {
-    "「フォッフォッフォ。そうでしょうね……。|　そのように　強い心を持った旅芸人など|　この世に　いるわけがない……。": ""
-  },
-  "21": {
-    "「フォッフォッフォ。ムリですよ……。|　そのように　強い心を持った旅芸人など|　この世に　いるわけがない……。": ""
-  }
+    "1": {
+        "「あー！　あいつですー！|　あいつが　手強い旅芸人ですよー！": "Aah! That's him! He's a formidable traveling|entertainer!"
+    },
+    "2": {
+        "「フォッフォッフォ　感じます……。|　私の弟弟子ポルファンと　同じオーラを。": "Ffffff. I can feel it... It's the same as my|brother Porphan..."
+    },
+    "3": {
+        "「あなたは　ポルファンの弟子ですね。|　役立たずのゲイザーより　お強いようで。|　私　好きですよ。強い方が……。": "You are Porphan's apprentice... You are|stronger than the useless Gazer... I like...|Stronger..."
+    },
+    "4": {
+        "「でもね　残念です。私　嫌いなんですよ。|　くだらん芸をする　旅芸人っていうのがね……。|　なんと言いますかね。受けつけないんですよ。": "But, you know, the rest... I don't like it.|Traveling entertainers who do stupid|tricks... I don't know what to say... I can't|<br>|stand them..."
+    },
+    "5": {
+        "「もうね　好き嫌いの問題ではないです……。|　生理的にダメ。つまらん芸とか　ナンセンス。|　あれで笑える奴の神経が　理解できない……。": "It's not a matter of liking or disliking...|Physiologically... I don't understand... I|don't understand how anyone can laugh at|<br>|that..."
+    },
+    "6": {
+        "「もうね　ホント世の中どうかしてますよ。|　どいつもこいつも　つまらん芸で笑ってるのに|　私のセンスが通用しないのは　狂ってますね。": "I mean, what's wrong with the world? It's|crazy that my taste doesn't work when|everyone else is laughing at their boring|<br>|tricks."
+    },
+    "7": {
+        "「で　結論。なにが言いたいのかというとですね。|　旅芸人は　この世から消えてください。|　消えないのなら　私が　殺してさしあげます。": "So... I guess what I'm trying to say is...|Traveling entertainers must disappear from|this world... If they don't disappear, I'll|<br>|kill them myself..."
+    },
+    "8": {
+        "「キャッ　キャッ♪|　ボクたちも　殺したいですー♪": "♪ Ooh, ooh, ooh ♪| We want to kill you too"
+    },
+    "9": {
+        "「ボクたち　ルルルリーチ様の特訓で|　ちょー　強くなったぜー♪": "We were trained by Master Lulu Leach| I'm getting stronger"
+    },
+    "10": {
+        "「殺し～♪　殺す～♪　殺せ～♪": "♪ Kill, kill, kill, kill ♪"
+    },
+    "11": {
+        "「私　好きなんですよ。命をかけた戦いが。|　芸も　似たようなものですよね？|　フォッフォッフォ。さあ　楽しみましょう。": "I like to... The art of... The art is|similar, isn't it? Whoa, whoa, whoa. Now,|let's have some fun..."
+    },
+    "12": {
+        "「あなた　また来たんですか？|　あれだけ　痛めつけてさしあげたのに|　まだ　私の愛のムチが　欲しいんですね？": "You've come again? After all I've done to|you, you still want my whip, don't you?"
+    },
+    "13": {
+        "「フォッフォッフォ　うれしいです。|　私　好きなんですよ。弱い者をいたぶるのが。|　私の趣味に協力してくれるとは　素敵な方だ。": "Whoo-hoo-hoo! I'm so happy... I like to... I|like... tormenting the weak... It's nice of|you to help me with my hobby."
+    },
+    "14": {
+        "「フォッフォッフォ。さあ　楽しませてください。|　私は　まだまだ　満足していませんから。": "Fo-fo-fo... Come on, let's have some fun...|I'm still not satisfied..."
+    },
+    "15": {
+        "「……フォッフォッフォ。お強いですね。|　しかし　悲しいことですが　才能ある者は|　この世から　差別されるのですよ。": "... Fofo... You are strong... But sadly, the|gifted are discriminated against in this|world..."
+    },
+    "16": {
+        "「私は　ポルファンより　才能がありましたが|　魔物の芸など　ウケるわけなく　どこへ行っても|　私の芸は　受け入れられませんでした……。": "I was more talented than Porphan, but my|demon tricks were never popular, and wherever|I went, my tricks were never accepted..."
+    },
+    "17": {
+        "「しかし　自分より才能のない多くの旅芸人が|　成功している……。私は絶望しましたよ。|　次第に　芸を恨むようになりましてねえ……。": "But there are so many less talented and more|successful traveling entertainers out|there... I was in despair... I began to|<br>|resent my art."
+    },
+    "18": {
+        "「フォッフォッフォ。才能が　あったところで|　世の中は　それを正しくは評価しませんよ？": "Whoa... Even if you had talent, the world|wouldn't value it properly, you know?"
+    },
+    "19": {
+        "「あなたは　自分の才能が認められなくても|　くさらずに　笑いの道を極められますか？<yesno><close>": "Even if your talent is not recognized, will|you still be able to master the art of|laughter?<yesno><close>"
+    },
+    "20": {
+        "「フォッフォッフォ。そうでしょうね……。|　そのように　強い心を持った旅芸人など|　この世に　いるわけがない……。": "Fofo... I'm sure... There is no traveler on|earth with such a strong heart..."
+    },
+    "21": {
+        "「フォッフォッフォ。ムリですよ……。|　そのように　強い心を持った旅芸人など|　この世に　いるわけがない……。": "Fofo... It's impossible... There is no such|thing as a traveler with such a strong heart."
+    }
 }

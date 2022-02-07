@@ -1,71 +1,71 @@
 {
-  "1": {
-    "「さて　デルクロアの捕獲任務に向かうか。|　言っておくが　殺してはならんぞ。|　せいぜい　いたぶるだけにしておけ。": ""
-  },
-  "2": {
-    "「……うん？": ""
-  },
-  "3": {
-    "「キサマ！　偵察兵の報告にあった|　デルクロアの仲間だな！？": ""
-  },
-  "4": {
-    "「ちょうどいい！　アストルティアのサルが|　どれほどのものか　試してくれよう！": ""
-  },
-  "5": {
-    "「せっかく命拾いしたものを　わざわざ|　殺されに戻るとは　アストルティアのサルには|　学習能力というものが　ないらしい。": ""
-  },
-  "6": {
-    "「いいだろう！　そこまで死にたいのなら|　キサマの望みどおりに　してやるわ！": ""
-  },
-  "7": {
-    "「ガハッ……。我らが　敗れるとは|　キサマ　ただのサルではないな……。": ""
-  },
-  "8": {
-    "「クククク……。だが　残念だったな。": ""
-  },
-  "9": {
-    "「この世界に来た　本隊は　我らだけではない。|　……そう。隊長ゴルゴンザ殿が　すでに|　デルクロアの元に　向かっているはず……だ。": ""
-  },
-  "10": {
-    "「ああっ！　<pc>さん！|　大変なことが　起きたでンス！|　こっちに来るでンスよ！": ""
-  },
-  "11": {
-    "「うううう……。ご主人さまが|　ゴルゴンザに　さらわれてしまったでンス……。": ""
-  },
-  "12": {
-    "「この身を　盾としてでも|　ご主人さまを　助けたかったでンスが|　ボクは　ワケあって　戦えない身体なんでンス。": ""
-  },
-  "13": {
-    "「ただのタンスのフリをして　やり過ごすしか|　なかったでンスよ。情けないでンスね……。": ""
-  },
-  "14": {
-    "「そんなことより　ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンスよ！": ""
-  },
-  "15": {
-    "「でも　奴らが　魔界に戻るまでに|　ご主人さまを助け出せれば|　まだ　希望は　あるでンス……。": ""
-  },
-  "16": {
-    "「……<pc>さん。今回の　お礼でンス。|　これから　<pc>さんが強くなるのに|　役立ててくれれば　うれしいでンス。": ""
-  },
-  "17": {
-    "「そして　ご主人さまを助けるために |　準備ができたら　また　どうぐ使いになって|　ここに　戻ってきてほしいでンスよ。": ""
-  },
-  "18": {
-    "「うううう……。ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンス。": ""
-  },
-  "19": {
-    "「でも　まだ　希望は　あるでンスよ。|　奴らが　魔界に戻るには　時間があるでンス。": ""
-  },
-  "20": {
-    "「<pc>さん。しばらく修行して|　もっと強い　どうぐ使いになってから|　また　ここに戻ってくるでンスよ。": ""
-  },
-  "21": {
-    "「うううう……。ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンス。": ""
-  },
-  "22": {
-    "「でも　まだ　希望は　あるでンスよ。|　奴らが　魔界に戻るには　時間があるでンス。": ""
-  },
-  "23": {
-    "「<pc>さん。今のうちに修行して|　準備ができたら　また　どうぐ使いになって|　ここに　戻ってくるでンスよ。": ""
-  }
+    "1": {
+        "「さて　デルクロアの捕獲任務に向かうか。|　言っておくが　殺してはならんぞ。|　せいぜい　いたぶるだけにしておけ。": "Now, on to the mission to capture Delcroix...|Just so you know, we're not going to kill|him. At best, you'll torment him..."
+    },
+    "2": {
+        "「……うん？": "... Hmm?"
+    },
+    "3": {
+        "「キサマ！　偵察兵の報告にあった|　デルクロアの仲間だな！？": "Kisama! You're with the Delcroix that the|scouts reported!"
+    },
+    "4": {
+        "「ちょうどいい！　アストルティアのサルが|　どれほどのものか　試してくれよう！": "Just in time! Let's see what the monkeys of|Astrutia can do!"
+    },
+    "5": {
+        "「せっかく命拾いしたものを　わざわざ|　殺されに戻るとは　アストルティアのサルには|　学習能力というものが　ないらしい。": "The monkeys of Astrutia are incapable of|learning..."
+    },
+    "6": {
+        "「いいだろう！　そこまで死にたいのなら|　キサマの望みどおりに　してやるわ！": "All right! If you want to die so badly, I'll|give you what you want!"
+    },
+    "7": {
+        "「ガハッ……。我らが　敗れるとは|　キサマ　ただのサルではないな……。": "Gahhh... We've been defeated. You're more|than just a monkey..."
+    },
+    "8": {
+        "「クククク……。だが　残念だったな。": "Kkkkkkk... But unfortunately..."
+    },
+    "9": {
+        "「この世界に来た　本隊は　我らだけではない。|　……そう。隊長ゴルゴンザ殿が　すでに|　デルクロアの元に　向かっているはず……だ。": "We're the only ones who came to this world...|..... Captain Gorgonza should already be on|his way to Delcroix. ...."
+    },
+    "10": {
+        "「ああっ！　<pc>さん！|　大変なことが　起きたでンス！|　こっちに来るでンスよ！": "Aah!<pc> Three! Something terrible has happened! He's|coming this way!"
+    },
+    "11": {
+        "「うううう……。ご主人さまが|　ゴルゴンザに　さらわれてしまったでンス……。": "Uuuhhh... My master has been kidnapped by|Gorgonzha..."
+    },
+    "12": {
+        "「この身を　盾としてでも|　ご主人さまを　助けたかったでンスが|　ボクは　ワケあって　戦えない身体なんでンス。": "I wanted to use my body as a shield to save|my master, but I'm not fit to fight for some|reason."
+    },
+    "13": {
+        "「ただのタンスのフリをして　やり過ごすしか|　なかったでンスよ。情けないでンスね……。": "I had to pass the time pretending it was just|a wardrobe... It's so pathetic..."
+    },
+    "14": {
+        "「そんなことより　ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンスよ！": "That's not the point. Once the enhancement|drug is mass-produced by your master, the|ground troops may invade this world."
+    },
+    "15": {
+        "「でも　奴らが　魔界に戻るまでに|　ご主人さまを助け出せれば|　まだ　希望は　あるでンス……。": "But if we can save the master before they|return to the demon world, there's still|hope."
+    },
+    "16": {
+        "「……<pc>さん。今回の　お礼でンス。|　これから　<pc>さんが強くなるのに|　役立ててくれれば　うれしいでンス。": "<pc>  Thank you. Thank you for this... From now on<pc> I hope this will help you become stronger."
+    },
+    "17": {
+        "「そして　ご主人さまを助けるために |　準備ができたら　また　どうぐ使いになって|　ここに　戻ってきてほしいでンスよ。": "And when you're ready to help your master, I|want you to come back here as a messenger..."
+    },
+    "18": {
+        "「うううう……。ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンス。": "Uuuhhh... If master's hand mass-produces the|enhancement drug, the ground troops may|invade this world."
+    },
+    "19": {
+        "「でも　まだ　希望は　あるでンスよ。|　奴らが　魔界に戻るには　時間があるでンス。": "But there's still hope. There's still time|for them to return to the demon world."
+    },
+    "20": {
+        "「<pc>さん。しばらく修行して|　もっと強い　どうぐ使いになってから|　また　ここに戻ってくるでンスよ。": "<pc> I'll be back. I'll train for a while, become|a stronger tool user, and then come back|here..."
+    },
+    "21": {
+        "「うううう……。ご主人さまの手によって|　強化薬が量産されたら　地上制圧隊が|　この世界に　攻めてくるかもでンス。": "Ughhhh... If master's hand mass-produces the|enhancement drug, the ground troops may|invade this world."
+    },
+    "22": {
+        "「でも　まだ　希望は　あるでンスよ。|　奴らが　魔界に戻るには　時間があるでンス。": "But there's still hope. There's still time|for them to return to the demon world."
+    },
+    "23": {
+        "「<pc>さん。今のうちに修行して|　準備ができたら　また　どうぐ使いになって|　ここに　戻ってくるでンスよ。": "<pc> I'll be back. I'll train while I can, and|when I'm ready, I'll come back here as a|messenger..."
+    }
 }

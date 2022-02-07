@@ -1,119 +1,119 @@
 {
-  "1": {
-    "「また　会いましたね　<cs_pchero>さん。|　バトリンピック・予選のチェックポイントは|　こちらですよ。": ""
-  },
-  "2": {
-    "「お忘れですか？|　前に　月光の花を集めていただいた者ですよ。|　その節は　お世話になりました。": ""
-  },
-  "3": {
-    "「今は　こちらで　予選の係員を務めていますよ。|　<cs_pchero>さんとは　ここで|　再会できるんじゃないかと　思ってました。": ""
-  },
-  "4": {
-    "「あなたなら　きっと　決勝バトルを勝ち抜き|　優勝することも　夢ではないんでしょうね。": ""
-  },
-  "5": {
-    "「まあ　それも　予選を突破すればの話……": ""
-  },
-  "6": {
-    "「残念ながら　あなたが　闘士の割符を手に|　戻ることはないでしょう。": ""
-  },
-  "7": {
-    "「……あなたは　余計なことを知ってしまった。|　そんな　あなたに　生きていてもらっては|　困る方が　いらっしゃるのですよ。": ""
-  },
-  "8": {
-    "「先ほどは　まんまと　逃げられましたが|　やはり　ここで待っていれば　現れましたか。|　まったく　律儀なことですね。": ""
-  },
-  "9": {
-    "「今度こそ　逃がしませんよ。|　我が主のために　死んでもらいます！": ""
-  },
-  "10": {
-    "「どうやら　手助けの必要は　なかったようだな。": ""
-  },
-  "11": {
-    "「ああ。こいつ　逃げようとしてたんで|　ちょいとばかし　なでといたぜ。": ""
-  },
-  "12": {
-    "「しかし　アンタが　参加してるのを狙って|　こいつが　係員をやってたんなら|　この大会も　真っ当じゃなさそうだな……。": ""
-  },
-  "13": {
-    "「さて　それじゃ　オレは失礼する！|　……この男のことは　まかせてもらうぜ。|　一応　オレが　捕まえたんだからな。": ""
-  },
-  "14": {
-    "「アンタも　聞きたいこととかあるだろうが|　オレのほうの用件を　優先させてもらおう。|　……それと　こいつも　忘れんなよ！": ""
-  },
-  "15": {
-    "<cs_pchero>は|闘士の割符（だいじなもの）を　受け取った！<me 60>": ""
-  },
-  "16": {
-    "クラークに|闘士の割符を　渡した！": ""
-  },
-  "17": {
-    "「……確かに　これは　闘士の割符。|　これで　<pc>選手の予選は|　終了となります。": ""
-  },
-  "18": {
-    "「そして　同時に　第１回バトリンピックの|　予選全体も　終了とさせていただきます。|　じつは　あなたが　最後の選手だったのですよ。": ""
-  },
-  "19": {
-    "「そして　気になる　その結果は……": ""
-  },
-  "20": {
-    "「おめでとうございます！！|　あなたは　バトリンピック決勝バトル|　４人目の参加者として　勝ち残りました！": ""
-  },
-  "21": {
-    "「ほう。<pc>は　残ったのか。|　まずは　おめでとうと言わせてもらおう。": ""
-  },
-  "22": {
-    "「これは　セインズ選手。|　もしかして　予選結果を聞きにこられたので？": ""
-  },
-  "23": {
-    "「どうしても　落ち着かなくってな……。|　そろそろ　全参加者の予選が終わって|　結果も出てる頃だと　思ったんだが？": ""
-  },
-  "24": {
-    "「ンフフフ……。|　何を　心配することが　ありましょう？|　セインズ選手は　ダントツの１位突破ですよ。": ""
-  },
-  "25": {
-    "「わずか　４名だけの　決勝進出者の中に|　同じ　ジェイコフ氏の弟子が　ふたりもいるとは|　やはり　あの方は　優秀なのですねぇ。": ""
-  },
-  "26": {
-    "「オレは　元弟子だけどな。|　……っと　ウワサをすれば　なんとやらだ。": ""
-  },
-  "27": {
-    "「チッ……。|　まーた　余計なヤツがいるぜ。": ""
-  },
-  "28": {
-    "「……んで　どうだった　<pc>？|　予選は　無事　突破できたのか？": ""
-  },
-  "29": {
-    "「ンフフフ……。|　<pc>選手も　セインズ選手も|　見事　予選を突破なさいましたよ。": ""
-  },
-  "30": {
-    "「セインズも　参加してんのかよ……。|　まあ　とにかく　修行は達成できたわけだな。|　それなら　こいつを持ってけよ。": ""
-  },
-  "31": {
-    "「ところで　予選の順位は　どうだったんだ？|　セインズと　<pc>の|　どっちが　勝ったんだよ？": ""
-  },
-  "32": {
-    "「ンフフフ……。|　セインズ選手が　予選１位通過。|　<pc>選手が　予選４位通過ですね。": ""
-  },
-  "33": {
-    "「なにぃっ！？": ""
-  },
-  "34": {
-    "「クッ……　いい気になるなよ　セインズ！|　決勝では　必ず　<pc>が　テメーに|　ほえヅラかかせて　やるからなっ！！": ""
-  },
-  "35": {
-    "「まあ　予選なんて　しょせん　お遊び。|　バトルマスターの実力とは　関係ないからな。|　やっぱり　バトマスは　戦ってこそだろ？": ""
-  },
-  "36": {
-    "「もちろん　決勝バトルで　当たっても|　後輩相手に　負けるつもりなんて|　これっぽっちも　ないけどな！": ""
-  },
-  "37": {
-    "「……そういうワケだ　<pc>。|　決勝で戦えるのを　楽しみにしてるぜ。|　せいぜい　オレを失望させないでくれよ！": ""
-  },
-  "38": {
-    "「ンフフフ……。じつに　すばらしいっ！|　同じ師を持つ　ふたりのバトルマスターの間に|　飛びかう火花っ！　燃えますねぇ！": ""
-  },
-  "39": {
-    "「バトリンピック・決勝バトル……|　これは　がぜん　盛り上がってまいりましたよ！|　ンフフフ……。": ""
-  }
+    "1": {
+        "「また　会いましたね　<cs_pchero>さん。|　バトリンピック・予選のチェックポイントは|　こちらですよ。": "I've seen you again<cs_pchero>This is the first time I've done this. Here|are the checkpoints for the Battling Olympics|and Qualifiers..."
+    },
+    "2": {
+        "「お忘れですか？|　前に　月光の花を集めていただいた者ですよ。|　その節は　お世話になりました。": "Did you forget? The one who collected the|moonlight flowers before... Thank you for|your help..."
+    },
+    "3": {
+        "「今は　こちらで　予選の係員を務めていますよ。|　<cs_pchero>さんとは　ここで|　再会できるんじゃないかと　思ってました。": "I'm here now, working as a qualifier...<cs_pchero>I was wondering if this is where I could meet|you again."
+    },
+    "4": {
+        "「あなたなら　きっと　決勝バトルを勝ち抜き|　優勝することも　夢ではないんでしょうね。": "I'm sure you can make it through the final|battle and win the championship."
+    },
+    "5": {
+        "「まあ　それも　予選を突破すればの話……": "Well, that's if we make it past the qualifying round"
+    },
+    "6": {
+        "「残念ながら　あなたが　闘士の割符を手に|　戻ることはないでしょう。": "I'm afraid you'll never get the Warrior's|Mark back."
+    },
+    "7": {
+        "「……あなたは　余計なことを知ってしまった。|　そんな　あなたに　生きていてもらっては|　困る方が　いらっしゃるのですよ。": "... You know more than you should. There are|people who don't want you to live."
+    },
+    "8": {
+        "「先ほどは　まんまと　逃げられましたが|　やはり　ここで待っていれば　現れましたか。|　まったく　律儀なことですね。": "They got away from us earlier, but if we wait|here, they'll show up... You're so polite..."
+    },
+    "9": {
+        "「今度こそ　逃がしませんよ。|　我が主のために　死んでもらいます！": "I'm not letting you go this time... You will|die for my lord!"
+    },
+    "10": {
+        "「どうやら　手助けの必要は　なかったようだな。": "Apparently, he didn't need any help..."
+    },
+    "11": {
+        "「ああ。こいつ　逃げようとしてたんで|　ちょいとばかし　なでといたぜ。": "Oh. He was trying to escape, so I gave him a|little pat..."
+    },
+    "12": {
+        "「しかし　アンタが　参加してるのを狙って|　こいつが　係員をやってたんなら|　この大会も　真っ当じゃなさそうだな……。": "But if this guy was working as an attendant|just to get you to participate, then this|tournament doesn't seem legit..."
+    },
+    "13": {
+        "「さて　それじゃ　オレは失礼する！|　……この男のことは　まかせてもらうぜ。|　一応　オレが　捕まえたんだからな。": "Now, if you'll excuse me, I have to go.|I'll... I'll leave you to it. I've got him."
+    },
+    "14": {
+        "「アンタも　聞きたいこととかあるだろうが|　オレのほうの用件を　優先させてもらおう。|　……それと　こいつも　忘れんなよ！": "I'm sure you have questions you'd like to ask|me, too, but if you'll let me do my job|first... Don't forget this. And don't forget|<br>|about this guy!"
+    },
+    "15": {
+        "<cs_pchero>は|闘士の割符（だいじなもの）を　受け取った！<me 60>": "<cs_pchero>I've received the Warrior's Crack!<me 60>"
+    },
+    "16": {
+        "クラークに|闘士の割符を　渡した！": "I gave Clark the Warrior's Staff!"
+    },
+    "17": {
+        "「……確かに　これは　闘士の割符。|　これで　<pc>選手の予選は|　終了となります。": "... This is a fighter. Here.<pc> The qualifying rounds are over."
+    },
+    "18": {
+        "「そして　同時に　第１回バトリンピックの|　予選全体も　終了とさせていただきます。|　じつは　あなたが　最後の選手だったのですよ。": "And at the same time, the entire preliminary|round of the first Battling Olympics has come|to an end... In fact, you were the last|<br>|athlete..."
+    },
+    "19": {
+        "「そして　気になる　その結果は……": "And the results are"
+    },
+    "20": {
+        "「おめでとうございます！！|　あなたは　バトリンピック決勝バトル|　４人目の参加者として　勝ち残りました！": "Congratulations! You are the fourth|participant to win the Battling Finals!"
+    },
+    "21": {
+        "「ほう。<pc>は　残ったのか。|　まずは　おめでとうと言わせてもらおう。": "Ho.<pc> The rest of you... First of all, may I say|congratulations..."
+    },
+    "22": {
+        "「これは　セインズ選手。|　もしかして　予選結果を聞きにこられたので？": "This is Sain... Are you here to hear the|results of the qualifying round?"
+    },
+    "23": {
+        "「どうしても　落ち着かなくってな……。|　そろそろ　全参加者の予選が終わって|　結果も出てる頃だと　思ったんだが？": "I've been feeling a little restless, so... I|thought we'd have the results by now, after|all the participants had qualified."
+    },
+    "24": {
+        "「ンフフフ……。|　何を　心配することが　ありましょう？|　セインズ選手は　ダントツの１位突破ですよ。": "What's there to worry about? What have I got|to worry about? The Saints are in first place|by a landslide."
+    },
+    "25": {
+        "「わずか　４名だけの　決勝進出者の中に|　同じ　ジェイコフ氏の弟子が　ふたりもいるとは|　やはり　あの方は　優秀なのですねぇ。": "Only four people made it to the finals, and|two of them are Mr. Jacov's students, so he's|really good."
+    },
+    "26": {
+        "「オレは　元弟子だけどな。|　……っと　ウワサをすれば　なんとやらだ。": "I'm a former apprentice. I'm a former|student... I'm a former student."
+    },
+    "27": {
+        "「チッ……。|　まーた　余計なヤツがいるぜ。": "Damn... What the hell is wrong with me..."
+    },
+    "28": {
+        "「……んで　どうだった　<pc>？|　予選は　無事　突破できたのか？": ""
+    },
+    "29": {
+        "「ンフフフ……。|　<pc>選手も　セインズ選手も|　見事　予選を突破なさいましたよ。": "Nuh-uh...<pc> Both Sainsbury's and the other players have|made it through the qualifying round..."
+    },
+    "30": {
+        "「セインズも　参加してんのかよ……。|　まあ　とにかく　修行は達成できたわけだな。|　それなら　こいつを持ってけよ。": "I didn't know the Sains were in on this.|Anyway, I've accomplished my training... Then|I'll take this..."
+    },
+    "31": {
+        "「ところで　予選の順位は　どうだったんだ？|　セインズと　<pc>の|　どっちが　勝ったんだよ？": "So, how did we do in the preliminaries? Sains|and...<pc> Which one of us won?"
+    },
+    "32": {
+        "「ンフフフ……。|　セインズ選手が　予選１位通過。|　<pc>選手が　予選４位通過ですね。": "Nuh-uh... Sains qualified in the first|round...<pc> One of our players qualified in fourth|place..."
+    },
+    "33": {
+        "「なにぃっ！？": "What the hell?"
+    },
+    "34": {
+        "「クッ……　いい気になるなよ　セインズ！|　決勝では　必ず　<pc>が　テメーに|　ほえヅラかかせて　やるからなっ！！": "Crap... Don't get cocky, Sains! I'll see you|in the finals.<pc> I'm going to give you a big, fat smile!"
+    },
+    "35": {
+        "「まあ　予選なんて　しょせん　お遊び。|　バトルマスターの実力とは　関係ないからな。|　やっぱり　バトマスは　戦ってこそだろ？": "Well, you know, qualifying has nothing to do|with... It has nothing to do with how good a|battle master you are. After all, a|<br>|battlemaster is supposed to fight, right?"
+    },
+    "36": {
+        "「もちろん　決勝バトルで　当たっても|　後輩相手に　負けるつもりなんて|　これっぽっちも　ないけどな！": "Of course, even if we meet in the final|battle, I have no intention of losing to a|younger opponent!"
+    },
+    "37": {
+        "「……そういうワケだ　<pc>。|　決勝で戦えるのを　楽しみにしてるぜ。|　せいぜい　オレを失望させないでくれよ！": " That's how it works<pc> I'm looking forward to playing in the finals.|I'm looking forward to fighting in the|finals... Please don't let me down!"
+    },
+    "38": {
+        "「ンフフフ……。じつに　すばらしいっ！|　同じ師を持つ　ふたりのバトルマスターの間に|　飛びかう火花っ！　燃えますねぇ！": "It's amazing! It's really wonderful! Sparks|flying between two battlemasters who share|the same teacher! It's burning!"
+    },
+    "39": {
+        "「バトリンピック・決勝バトル……|　これは　がぜん　盛り上がってまいりましたよ！|　ンフフフ……。": "Battling in the finals... It's going to be so|exciting! I can't believe it."
+    }
 }

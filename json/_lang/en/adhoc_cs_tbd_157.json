@@ -1,68 +1,68 @@
 {
-  "1": {
-    "「イッツ　ア　エキシビションダーンス！|　アー　ユー　レディ？": ""
-  },
-  "2": {
-    "「１……２……１・２・３！": ""
-  },
-  "3": {
-    "「フウッ！！": ""
-  },
-  "4": {
-    "「エキシビション♪　エキシビション♪|　かなり・たのしい　エキシビション！": ""
-  },
-  "5": {
-    "「こ・ん・か・い・の・メ・イ・ンは……|　あ～あ～あ～♪": ""
-  },
-  "6": {
-    "「<pc>！": ""
-  },
-  "7": {
-    "「オオオオーーー！　<pc>だ！": ""
-  },
-  "8": {
-    "「レディース　アーンドゥ　ジェントルメーン！|　演芸グランプリの審査員による|　華麗なダンスを　お楽しみください！": ""
-  },
-  "9": {
-    "「では　<pc>！　どうぞ～～！": ""
-  },
-  "10": {
-    "しぐさ　『エンジョイダンス』を|踊りますか？<yesno><close>": ""
-  },
-  "11": {
-    "「……こら　<pc>。|　このままじゃ　あぶない空気になって|　みんな騒ぎだすぞ。はよ　踊るんじゃ。": ""
-  },
-  "12": {
-    "「ボクも　おどっちゃお～♪": ""
-  },
-  "13": {
-    "「わしも　わしも～♪": ""
-  },
-  "14": {
-    "会場は　おだやかな空気に包まれた。": ""
-  },
-  "15": {
-    "「うん。ヒマつぶしには　ちょうどいいね。": ""
-  },
-  "16": {
-    "「これにて　エキシビションは終了じゃ！|　みんな！　決勝戦で　また会おうね！": ""
-  },
-  "17": {
-    "「決勝戦は　こんな|　なごやかな空気には　ならんぞ！": ""
-  },
-  "18": {
-    "「フッ。よかろう。受けて立つわい。": ""
-  },
-  "19": {
-    "<%sEV_QUE_NAME0>を　<%nEV_QUE_S_NUM0>匹　たおした！|これで　<%nEV_QUE_T_NUM0>匹　たおしおわった！": ""
-  },
-  "20": {
-    "身体中の筋肉が　反応し|思わず　身体が動きだす。": ""
-  },
-  "21": {
-    "<pc>は|しぐさ『エンジョイダンス』を　覚えた！<me 71>": ""
-  },
-  "22": {
-    "<pc>は|しぐさ『エンジョイダンス』に　みがきをかけた！<me 71>": ""
-  }
+    "1": {
+        "「イッツ　ア　エキシビションダーンス！|　アー　ユー　レディ？": "It's an Exhibition Dances! Oh, you're a lady?"
+    },
+    "2": {
+        "「１……２……１・２・３！": "1... .2... One, two, three!"
+    },
+    "3": {
+        "「フウッ！！": "Whoo!"
+    },
+    "4": {
+        "「エキシビション♪　エキシビション♪|　かなり・たのしい　エキシビション！": "♪ Exhibition ♪ ♪ Exhibition ♪ Quite a fun|exhibition!"
+    },
+    "5": {
+        "「こ・ん・か・い・の・メ・イ・ンは……|　あ～あ～あ～♪": "This one's me-in| Oh, oh, oh ♪"
+    },
+    "6": {
+        "「<pc>！": "<pc> ！"
+    },
+    "7": {
+        "「オオオオーーー！　<pc>だ！": "Oooooohhh!<pc> No!"
+    },
+    "8": {
+        "「レディース　アーンドゥ　ジェントルメーン！|　演芸グランプリの審査員による|　華麗なダンスを　お楽しみください！": "Ladies and gentlemen! Enjoy a spectacular|dance performance by the judges of the Grand|Prix of Arts and Sciences!"
+    },
+    "9": {
+        "「では　<pc>！　どうぞ～～！": "well<pc> Please! Go ahead~!"
+    },
+    "10": {
+        "しぐさ　『エンジョイダンス』を|踊りますか？<yesno><close>": "Would you like to dance the \"Enjoy Dance\"|gesture?<yesno><close>"
+    },
+    "11": {
+        "「……こら　<pc>。|　このままじゃ　あぶない空気になって|　みんな騒ぎだすぞ。はよ　踊るんじゃ。": " Hey<pc> I'm sorry. If we don't do something, the|atmosphere will become dangerous, and people|will start screaming... Come on, dance..."
+    },
+    "12": {
+        "「ボクも　おどっちゃお～♪": "I'll dance too!"
+    },
+    "13": {
+        "「わしも　わしも～♪": "Me too, me too"
+    },
+    "14": {
+        "会場は　おだやかな空気に包まれた。": "The venue was filled with a peaceful|atmosphere..."
+    },
+    "15": {
+        "「うん。ヒマつぶしには　ちょうどいいね。": "Yeah. Just something to pass the time..."
+    },
+    "16": {
+        "「これにて　エキシビションは終了じゃ！|　みんな！　決勝戦で　また会おうね！": "This is the end of the exhibition! Hey, guys!|I'll see you in the finals!"
+    },
+    "17": {
+        "「決勝戦は　こんな|　なごやかな空気には　ならんぞ！": "It's not going to be this cozy in the finals!"
+    },
+    "18": {
+        "「フッ。よかろう。受けて立つわい。": "Huh. Yo... I'll take it..."
+    },
+    "19": {
+        "<%sEV_QUE_NAME0>を　<%nEV_QUE_S_NUM0>匹　たおした！|これで　<%nEV_QUE_T_NUM0>匹　たおしおわった！": "We've killed <%sEV_QUE_NAME0> of|<%nEV_QUE_S_NUM0>! We have now killed|<%nEV_QUE_T_NUM0>!"
+    },
+    "20": {
+        "身体中の筋肉が　反応し|思わず　身体が動きだす。": "Every muscle in my body reacted, and I|couldn't help but move..."
+    },
+    "21": {
+        "<pc>は|しぐさ『エンジョイダンス』を　覚えた！<me 71>": "<pc> I've learned the \"Enjoy Dance\" gesture!<me 71>"
+    },
+    "22": {
+        "<pc>は|しぐさ『エンジョイダンス』に　みがきをかけた！<me 71>": "<pc> I'm sure you've heard of it.<me 71>"
+    }
 }

@@ -1,272 +1,272 @@
 {
-  "1": {
-    "<if_woman>「ありがとう……　<pc>ちゃん……！|　この試練を　乗りこえたら……|　私も　大賢者に……なれる…よね……？<else>「ありがとう……　<pc>くん……！|　この試練を　乗りこえたら……|　私も　大賢者に……なれる…よね……？<endif>": ""
-  },
-  "2": {
-    "「アーニア！": ""
-  },
-  "3": {
-    "<if_woman>「シェリル……。私なら…大丈夫……。|　それよりも…今　<pc>ちゃんが|　一緒に　戦ってくれるって……。<else>「シェリル……。私なら…大丈夫……。|　それよりも…今　<pc>くんが|　一緒に　戦ってくれるって……。<endif>": ""
-  },
-  "4": {
-    "「行こう　カルサドラ火山へ……。|　呪いなんか　さっさと　おさらばして|　もとの私たちに　戻るのよ……。": ""
-  },
-  "5": {
-    "「ああ。そうだな……。": ""
-  },
-  "6": {
-    "「<pc>　それでは　よろしく頼む。|　われらの決戦の地　カルサドラ火山の入口は|　ゴブル砂漠東の　南東にある。": ""
-  },
-  "7": {
-    "「火山に入ったら　第１層を道なりに進み|　南側の空洞に行ってくれ。私は　術の準備のため|　ひと足先に　そちらに　向かっている。": ""
-  },
-  "8": {
-    "「……心の闇に目をつけた　呪いの主は|　狡猾で残忍な　強敵に　ちがいない。|　くれぐれも　用心して　来てくれ。": ""
-  },
-  "9": {
-    "「アーニアは　私が　カルサドラ火山まで|　連れていくから　心配いらん。|　キミは　敵を倒すことだけに集中しろ。": ""
-  },
-  "10": {
-    "「アーニアと　シェリル……。|　ふたりの　最後の戦いだ……！|　頼むぞ　<pc>！": ""
-  },
-  "11": {
-    "「来たか。<cs_pchero>。|　あれを　見てくれ……。": ""
-  },
-  "12": {
-    "「ぅぅ…うぐぐ……。我は　闇……。": ""
-  },
-  "13": {
-    "「グルワァァーーーー……！！": ""
-  },
-  "14": {
-    "「ここへ着くなり　アーニアが豹変してな。|　いよいよ　本当に　限界が来たらしい……。": ""
-  },
-  "15": {
-    "「シェリルッ！！　<cs_pchero>が　来たぞ！|　時間がない！　早く　術を　ほどこしてくれ！": ""
-  },
-  "16": {
-    "「アーニア　見ていてくれ……。|　私の手で　この呪われた運命に|　終止符を打つ……！": ""
-  },
-  "17": {
-    "「いくぞ…………。": ""
-  },
-  "18": {
-    "「ハアァァッッ！！！": ""
-  },
-  "19": {
-    "「グルルアァァァァーーーッッッ！！！": ""
-  },
-  "20": {
-    "「なっ……！　そんな……　術が効かない！？|　なぜだ！　私では　ダメなのか！？": ""
-  },
-  "21": {
-    "<center>ムハハハハハッ……。無駄だ　小娘。|貴様程度の魔力では　アーニアの心に根付いた|余を　引きずりだすことなどできぬて。": ""
-  },
-  "22": {
-    "「まさか　呪いの主が……！？": ""
-  },
-  "23": {
-    "<center>いかにも……。完全なる支配まで　あとわずか。|さあ　余に聞かせよ。闇賢者に堕ちた友に|なぶり殺しにされる　苦痛の叫びをなぁ！": ""
-  },
-  "24": {
-    "「ゥ…ウウ……。|　……シェ…リ…ル……。|　もういちど……　術を…使って……。": ""
-  },
-  "25": {
-    "「アーニア！？　アーニアなのか！": ""
-  },
-  "26": {
-    "<center>むぅ……？　アーニアめ　こしゃくな……。|まだ　余に　逆らうか……。": ""
-  },
-  "27": {
-    "「かろうじて　ヤツを…おさえているわ……。|　これが　ラストチャンスよ……。|　早く　もういちど…術を……。": ""
-  },
-  "28": {
-    "「ダメだ……。私の術なんて　無駄だ！|　きっと　また　失敗するに決まっている！|　私は……　無力なんだ！": ""
-  },
-  "29": {
-    "「ううん　シェリル……。|　あなたは　無力なんかじゃない……。|　それに……": ""
-  },
-  "30": {
-    "「私のことも　もうちょっと|　頼りにしてほしいな……。": ""
-  },
-  "31": {
-    "「そうか……。ふたりなら……。": ""
-  },
-  "32": {
-    "<center>グオオオオオォォォォォォ……ッッ！！": ""
-  },
-  "33": {
-    "「アーニアッ！　シェリルッ！！": ""
-  },
-  "34": {
-    "「プハァァァァ……ッッ！！！": ""
-  },
-  "35": {
-    "「チィィッ　ぬかったわ！|　アーニアに　まだ　こんなチカラが|　残っていようとは……！": ""
-  },
-  "36": {
-    "「貴様が　呪いの主か……！": ""
-  },
-  "37": {
-    "「ムハハハハハ……。いかにも……。|　余は　魔賢者アクバー……。|　この世に姿を現したのは　数百年ぶりぞ。": ""
-  },
-  "38": {
-    "「なぜ　アーニアに　とりついた！？|　貴様の目的は　なんだ！": ""
-  },
-  "39": {
-    "「ムァハハハ……。余に　とりつかれ|　狂気の世界に堕ちた　闇賢者たちは|　余の　忠実な　しもべと化す。": ""
-  },
-  "40": {
-    "「そうして　世界中の賢者を　闇賢者に変え|　余の支配する世界を　創造するのだ！|　それこそが　余の野望なり！": ""
-  },
-  "41": {
-    "「アーニアは　最高の駒になるはずだった……。|　今まで　闇賢者に堕ちた者を　はるかにしのぐ|　秘めたチカラを　持っていたからなぁ。": ""
-  },
-  "42": {
-    "「アーニアを　闇賢者にすれば|　野望の成就に　さらに近づいたというに……！|　シェリル……　貴様のせいで……！": ""
-  },
-  "43": {
-    "「ムァーハッハッハ！　だがな……|　じつは　アーニアよりも　優れた駒を|　すでに見つけておる……。": ""
-  },
-  "44": {
-    "「貴様のことだよ。<cs_pchero>……。": ""
-  },
-  "45": {
-    "「シェリルと　アーニアに宿っていたときから|　その秘めたるチカラに　目をつけておったのだ。|　貴様は　最凶の闇賢者となるはずぞ。": ""
-  },
-  "46": {
-    "「さあ！　余に　その心をよこせ！|　闇賢者へと　身を堕とし　余の腹心として|　仕えることを　誇りに思うがよい！": ""
-  },
-  "47": {
-    "「ムハハハハ……。なかなかやるな　シェリル。|　だが　そろそろ　貴様の相手も飽いてきたぞ。|　このまま　楽にしてやろう……。": ""
-  },
-  "48": {
-    "「ム……。": ""
-  },
-  "49": {
-    "「<cs_pchero>……。": ""
-  },
-  "50": {
-    "「ムハーッハッハ！　取り逃がしたかと思ったら|　貴様のほうから　のこのこ　やってくるとは！|　よいぞ　よいぞ！　そうこなくてはな！": ""
-  },
-  "51": {
-    "「さあ！　余に　その心をよこせ！|　闇賢者へと　身を堕とし　余の腹心として|　仕えることを　誇りに思うがよい！": ""
-  },
-  "52": {
-    "「なん…だと……？　余…が　敗北……？|　世界…創…造の……野望…が……。|　ゥグ……　ア　ア　ア……！": ""
-  },
-  "53": {
-    "「クバァァァァァーーーーッッ！！！": ""
-  },
-  "54": {
-    "「終わった……。|　私たちの戦いが　ついに……。": ""
-  },
-  "55": {
-    "「<cs_pchero>……。": ""
-  },
-  "56": {
-    "「…………………………。": ""
-  },
-  "57": {
-    "「す…すまない……。|　感謝の気持ちで　いっぱいなのだが……。": ""
-  },
-  "58": {
-    "「私は　アーニアと　ちがって|　こんなとき　なんて言葉をかけていいか|　わからないんだ。": ""
-  },
-  "59": {
-    "「とりあえず……　ありがとう。|　……で　いいだろうか？": ""
-  },
-  "60": {
-    "「アーニアなら　ティーザさんに連れられ|　ひと足先に　研究院に戻ったよ。|　チカラを使い果たし　危険な状態だったからな。": ""
-  },
-  "61": {
-    "「……思えば|　アーニアの呪いを　引き受けたときから|　私は　愚かな行為を繰り返していた……。": ""
-  },
-  "62": {
-    "「おのれを過信し　誰の言葉にも　耳を貸さず|　あまつさえ……　ただひとりの親友すらも|　信じられなかったのだから……。": ""
-  },
-  "63": {
-    "「まだ幼き　私とアーニアが|　王立研究院の門を　たたいたとき|　ティーザさんは　こう言った……。": ""
-  },
-  "64": {
-    "「あまたの愚かしさの先に|　まことの賢なる道が　ひらかれていると……。": ""
-  },
-  "65": {
-    "「アーニアは　知っていたのかもしれないな。|　その　愚かしさを越えるには|　信じ合える友が　必要だということを……。": ""
-  },
-  "66": {
-    "「……アーニアのことが　心配だ。|　すまないが　先に　研究院に戻っている。|　<cs_pchero>も　あとで来てくれ。": ""
-  },
-  "67": {
-    "「<cs_pchero>……。私は　幸せだ。|　こんな私を　待っていてくれる人が|　いるのだから……。": ""
-  },
-  "68": {
-    "<if_woman>「あっ！　<pc>ちゃん！<else>「あっ！　<pc>くん！<endif>": ""
-  },
-  "69": {
-    "「シェリルから　聞いたよ！|　呪いの主を　やっつけてくれたんだってね！|　私　それ聞いたら　元気になっちゃった！": ""
-  },
-  "70": {
-    "<if_woman>「やっぱり　<pc>ちゃんは　スゴイよ！|　ホントに　ホントに　ホンット～に！|　あなたに出会えて　よかったわっ！<else>「やっぱり　<pc>くんは　スゴイよ！|　ホントに　ホントに　ホンット～に！|　あなたに出会えて　よかったわっ！<endif>": ""
-  },
-  "71": {
-    "「<pc>。来ていたか……。": ""
-  },
-  "72": {
-    "「今しがた　緊急で　研究院会議が開かれてな。|　魔賢者アクバーの存在と　それを討ち滅ぼした|　キミの功績について　話し合ってきた。": ""
-  },
-  "73": {
-    "「賢者の未来を　おびやかす　魔賢者アクバーを|　見事　打ち滅ぼした　キミの功績を讃え……": ""
-  },
-  "74": {
-    "「名誉ある賢者にのみ贈られる　賢者の証を|　キミに授与することが　満場一致で決まったぞ！": ""
-  },
-  "75": {
-    "「本来なら　国を挙げ　式典を開くところだが|　忙しいキミの身を案じ　私が授与を命じられた。|　さあ　受け取るがよい！": ""
-  },
-  "76": {
-    "「王立研究院から　特別に贈られた|　この報酬を　受け取ってくれ。": ""
-  },
-  "77": {
-    "「<pc>よ。キミの活躍には|　本当に　目を　見張るものがあった。": ""
-  },
-  "78": {
-    "「だが　賢なる道の扉は　開かれたばかりだ。|　これに　おごることなく　宇宙の理を追究し|　賢者として　鍛錬を積んでくれ。": ""
-  },
-  "79": {
-    "「ねえ　シェリル……？|　あなた　研究院に戻ってくるんでしょ？|　また　一緒に勉強できるね！": ""
-  },
-  "80": {
-    "「いや……。|　私は　ここに戻るつもりはない。": ""
-  },
-  "81": {
-    "「そんな……！　どうしてっ！？|　一緒に　大賢者になるんじゃなかったの？|　まだ　何か　思いつめているのっ！？": ""
-  },
-  "82": {
-    "「ふっ。カン違いするな。|　大賢者になる夢を　あきらめたつもりはない。|　私は　ただ……": ""
-  },
-  "83": {
-    "「研究院の中と外で　別々のものを学びとり|　それを　互いに教え合っていくのが|　大賢者への近道だと　思ったのさ。": ""
-  },
-  "84": {
-    "「ふたりなら　できる……　だろ？": ""
-  },
-  "85": {
-    "「シェリル……。": ""
-  },
-  "86": {
-    "「そうだね。今の私たちなら　離れてたって|　同じ夢を　見られるはずだもん！": ""
-  },
-  "87": {
-    "「それでは　私は　行くよ。|　またな　アーニア……。": ""
-  },
-  "88": {
-    "「<pc>も……|　また　どこかで出会えると　いいな。": ""
-  },
-  "89": {
-    "「シェリルーーッ！": ""
-  },
-  "90": {
-    "「ありがとう！": ""
-  }
+    "1": {
+        "<if_woman>「ありがとう……　<pc>ちゃん……！|　この試練を　乗りこえたら……|　私も　大賢者に……なれる…よね……？<else>「ありがとう……　<pc>くん……！|　この試練を　乗りこえたら……|　私も　大賢者に……なれる…よね……？<endif>": "<if_woman>Thank you<pc>   Girl...! If I can survive this ordeal... I|will become a great sage. I can become...|Right?<else>Thank you<pc> Kun...! If I can survive this ordeal... I'll|become a great sage. I can become... Right?<endif>"
+    },
+    "2": {
+        "「アーニア！": "Ahnir!"
+    },
+    "3": {
+        "<if_woman>「シェリル……。私なら…大丈夫……。|　それよりも…今　<pc>ちゃんが|　一緒に　戦ってくれるって……。<else>「シェリル……。私なら…大丈夫……。|　それよりも…今　<pc>くんが|　一緒に　戦ってくれるって……。<endif>": "<if_woman>Cheryl... I can... I can... But more|importantly... Now.<pc>   You said you'd fight with me.<else>Cheryl... I can... I can... But more|importantly... Now.<pc> You said you'd fight with me.<endif>"
+    },
+    "4": {
+        "「行こう　カルサドラ火山へ……。|　呪いなんか　さっさと　おさらばして|　もとの私たちに　戻るのよ……。": "Let's go to Calzadora Volcano. Let's get rid|of this curse and go back to the way we|were..."
+    },
+    "5": {
+        "「ああ。そうだな……。": "Oh. Yeah, well..."
+    },
+    "6": {
+        "「<pc>　それでは　よろしく頼む。|　われらの決戦の地　カルサドラ火山の入口は|　ゴブル砂漠東の　南東にある。": "<pc> Let's see... The entrance to our final|battleground, Calzadora Volcano, is southeast|of the eastern Gobbowl Desert..."
+    },
+    "7": {
+        "「火山に入ったら　第１層を道なりに進み|　南側の空洞に行ってくれ。私は　術の準備のため|　ひと足先に　そちらに　向かっている。": "Once you're in the volcano, follow the first|level to the south cavity... I'll head there|ahead of you to prepare for the surgery."
+    },
+    "8": {
+        "「……心の闇に目をつけた　呪いの主は|　狡猾で残忍な　強敵に　ちがいない。|　くれぐれも　用心して　来てくれ。": "... The Lord of the Cursed, who has seen into|the darkness of our hearts, is a cunning,|cruel, and powerful enemy. Be careful. Come."
+    },
+    "9": {
+        "「アーニアは　私が　カルサドラ火山まで|　連れていくから　心配いらん。|　キミは　敵を倒すことだけに集中しろ。": "I'll take Ernesto to Calzadora Volcano. Don't|worry. You're only focused on defeating the|enemy."
+    },
+    "10": {
+        "「アーニアと　シェリル……。|　ふたりの　最後の戦いだ……！|　頼むぞ　<pc>！": "Arnea and Cheryl... This is their last fight.|Please.<pc> ！"
+    },
+    "11": {
+        "「来たか。<cs_pchero>。|　あれを　見てくれ……。": "...<cs_pchero>(speaking spanish) Look at that..."
+    },
+    "12": {
+        "「ぅぅ…うぐぐ……。我は　闇……。": "Ugh... Ugh... I am the darkness..."
+    },
+    "13": {
+        "「グルワァァーーーー……！！": "Grwaaaaaaaaa...!"
+    },
+    "14": {
+        "「ここへ着くなり　アーニアが豹変してな。|　いよいよ　本当に　限界が来たらしい……。": "As soon as we got here, Ernesto changed... I|think I've really reached my limit..."
+    },
+    "15": {
+        "「シェリルッ！！　<cs_pchero>が　来たぞ！|　時間がない！　早く　術を　ほどこしてくれ！": "Cheryl!<cs_pchero>They're coming! There's no time! You have to|do it quickly!"
+    },
+    "16": {
+        "「アーニア　見ていてくれ……。|　私の手で　この呪われた運命に|　終止符を打つ……！": "Arnea, watch me. With my own hands, I will|put an end to this cursed fate."
+    },
+    "17": {
+        "「いくぞ…………。": "Here we go..."
+    },
+    "18": {
+        "「ハアァァッッ！！！": "HAAAAGHHH!!!"
+    },
+    "19": {
+        "「グルルアァァァァーーーッッッ！！！": "Grrrrrrrr!"
+    },
+    "20": {
+        "「なっ……！　そんな……　術が効かない！？|　なぜだ！　私では　ダメなのか！？": "No...! No... The spell doesn't work! Why? !|Can't I do it?"
+    },
+    "21": {
+        "<center>ムハハハハハッ……。無駄だ　小娘。|貴様程度の魔力では　アーニアの心に根付いた|余を　引きずりだすことなどできぬて。": "Muhahahahahaha... It's useless. You can't|pull me out of my mind with your magic."
+    },
+    "22": {
+        "「まさか　呪いの主が……！？": ""
+    },
+    "23": {
+        "<center>いかにも……。完全なる支配まで　あとわずか。|さあ　余に聞かせよ。闇賢者に堕ちた友に|なぶり殺しにされる　苦痛の叫びをなぁ！": "It's just... We're on our way to total|domination. Now listen to me... Hear me|scream in agony as my fallen friend, the Dark|<br>|Sage, torments me to death!"
+    },
+    "24": {
+        "「ゥ…ウウ……。|　……シェ…リ…ル……。|　もういちど……　術を…使って……。": "Uh... Uh... ... She... Ri... Le... Let's try|this again... Use... Use..."
+    },
+    "25": {
+        "「アーニア！？　アーニアなのか！": "Ah-nia! You're Ahnir!"
+    },
+    "26": {
+        "<center>むぅ……？　アーニアめ　こしゃくな……。|まだ　余に　逆らうか……。": "Mmm...? Arnea, you dare... Still defying|me..."
+    },
+    "27": {
+        "「かろうじて　ヤツを…おさえているわ……。|　これが　ラストチャンスよ……。|　早く　もういちど…術を……。": "I can barely... I've got him... This is our|last chance... Come on, let's try again...|The spell..."
+    },
+    "28": {
+        "「ダメだ……。私の術なんて　無駄だ！|　きっと　また　失敗するに決まっている！|　私は……　無力なんだ！": "No, no... My techniques are useless! It's|bound to fail again! I'm... I'm powerless!"
+    },
+    "29": {
+        "「ううん　シェリル……。|　あなたは　無力なんかじゃない……。|　それに……": "No, Cheryl... You're not helpless... And..."
+    },
+    "30": {
+        "「私のことも　もうちょっと|　頼りにしてほしいな……。": "I'm hoping you can count on me a little|more..."
+    },
+    "31": {
+        "「そうか……。ふたりなら……。": "Well... We could..."
+    },
+    "32": {
+        "<center>グオオオオオォォォォォォ……ッッ！！": "Oh, no! Aah!"
+    },
+    "33": {
+        "「アーニアッ！　シェリルッ！！": "Ahnir! Cheryl!"
+    },
+    "34": {
+        "「プハァァァァ……ッッ！！！": "Puh-lease! Aah!"
+    },
+    "35": {
+        "「チィィッ　ぬかったわ！|　アーニアに　まだ　こんなチカラが|　残っていようとは……！": "Damn it, I didn't see that coming! I didn't|think Ahnia still had this kind of power..."
+    },
+    "36": {
+        "「貴様が　呪いの主か……！": "You are the one who cursed us."
+    },
+    "37": {
+        "「ムハハハハハ……。いかにも……。|　余は　魔賢者アクバー……。|　この世に姿を現したのは　数百年ぶりぞ。": "Muhahahahahaha... Indeed... I am Akbar the|Wise... I'm Akbar the Wise... and I've been|here for hundreds of years."
+    },
+    "38": {
+        "「なぜ　アーニアに　とりついた！？|　貴様の目的は　なんだ！": "Why have you taken up with Ernesto? What is|your purpose?"
+    },
+    "39": {
+        "「ムァハハハ……。余に　とりつかれ|　狂気の世界に堕ちた　闇賢者たちは|　余の　忠実な　しもべと化す。": "Mwahahahaha... The dark wise men who have|fallen into my clutches and fallen into|madness are my loyal servants."
+    },
+    "40": {
+        "「そうして　世界中の賢者を　闇賢者に変え|　余の支配する世界を　創造するのだ！|　それこそが　余の野望なり！": "I will turn all the wise men of the world|into dark wise men and create a world of my|own! That is my ambition!"
+    },
+    "41": {
+        "「アーニアは　最高の駒になるはずだった……。|　今まで　闇賢者に堕ちた者を　はるかにしのぐ|　秘めたチカラを　持っていたからなぁ。": "Arnea was supposed to be my best pawn. She|was to be the greatest pawn of all... the|only one who had ever possessed a hidden|<br>|power far greater than that of the Dark Sage."
+    },
+    "42": {
+        "「アーニアを　闇賢者にすれば|　野望の成就に　さらに近づいたというに……！|　シェリル……　貴様のせいで……！": "If we could just get Arnea to become the Dark|Sage, we'd be that much closer to fulfilling|our ambition. Cheryl... Because of you..."
+    },
+    "43": {
+        "「ムァーハッハッハ！　だがな……|　じつは　アーニアよりも　優れた駒を|　すでに見つけておる……。": "Mwah-ha-ha! But you see... In fact, I've|already found a pawn even better than|Ernesto."
+    },
+    "44": {
+        "「貴様のことだよ。<cs_pchero>……。": "You're...<cs_pchero>..."
+    },
+    "45": {
+        "「シェリルと　アーニアに宿っていたときから|　その秘めたるチカラに　目をつけておったのだ。|　貴様は　最凶の闇賢者となるはずぞ。": "Ever since you were in Cheryl and Ahnir's|bodies, I've had my eye on your secret power.|You will become the greatest dark wizard of|<br>|all."
+    },
+    "46": {
+        "「さあ！　余に　その心をよこせ！|　闇賢者へと　身を堕とし　余の腹心として|　仕えることを　誇りに思うがよい！": "Come on! Give me your heart! You may be proud|to serve me as my beloved servant!"
+    },
+    "47": {
+        "「ムハハハハ……。なかなかやるな　シェリル。|　だが　そろそろ　貴様の相手も飽いてきたぞ。|　このまま　楽にしてやろう……。": "Muhahahahaha... Not bad... But I've had|enough of you for a while now. I'll make it|easy for you..."
+    },
+    "48": {
+        "「ム……。": "ム..."
+    },
+    "49": {
+        "「<cs_pchero>……。": "<cs_pchero>..."
+    },
+    "50": {
+        "「ムハーッハッハ！　取り逃がしたかと思ったら|　貴様のほうから　のこのこ　やってくるとは！|　よいぞ　よいぞ！　そうこなくてはな！": "Mwahahaha! Just when I thought I'd let you|go, you come running out of here on your own!|Good, good, good! That's what I'm talking|<br>|about!"
+    },
+    "51": {
+        "「さあ！　余に　その心をよこせ！|　闇賢者へと　身を堕とし　余の腹心として|　仕えることを　誇りに思うがよい！": "Come on! Give me your heart! You may be proud|to serve me as my beloved servant!"
+    },
+    "52": {
+        "「なん…だと……？　余…が　敗北……？|　世界…創…造の……野望…が……。|　ゥグ……　ア　ア　ア……！": "What the...? What the...? I... Defeat...?|World... Creation... To create...|...ambition... of... Ugh... Ahh...!"
+    },
+    "53": {
+        "「クバァァァァァーーーーッッ！！！": "Kubaaaaahhhh!"
+    },
+    "54": {
+        "「終わった……。|　私たちの戦いが　ついに……。": "It's over... Our fight is finally..."
+    },
+    "55": {
+        "「<cs_pchero>……。": "<cs_pchero>..."
+    },
+    "56": {
+        "「…………………………。": "..."
+    },
+    "57": {
+        "「す…すまない……。|　感謝の気持ちで　いっぱいなのだが……。": "I'm... I'm sorry... I'm so grateful, but..."
+    },
+    "58": {
+        "「私は　アーニアと　ちがって|　こんなとき　なんて言葉をかけていいか|　わからないんだ。": "Unlike Ernesto, I don't know what to say to|her at a time like this."
+    },
+    "59": {
+        "「とりあえず……　ありがとう。|　……で　いいだろうか？": "Anyway... There is... Is... Is that okay?"
+    },
+    "60": {
+        "「アーニアなら　ティーザさんに連れられ|　ひと足先に　研究院に戻ったよ。|　チカラを使い果たし　危険な状態だったからな。": "If it was Ahnir, Miss Tessa would have taken|him back to the institute. She'd used up all|her strength. She was in danger."
+    },
+    "61": {
+        "「……思えば|　アーニアの呪いを　引き受けたときから|　私は　愚かな行為を繰り返していた……。": "... Looking back, ever since I took on|Arnea's curse, I've been repeating my|foolishness..."
+    },
+    "62": {
+        "「おのれを過信し　誰の言葉にも　耳を貸さず|　あまつさえ……　ただひとりの親友すらも|　信じられなかったのだから……。": "I was so sure of myself that I didn't listen|to a word anyone said. I couldn't even trust|my only friend."
+    },
+    "63": {
+        "「まだ幼き　私とアーニアが|　王立研究院の門を　たたいたとき|　ティーザさんは　こう言った……。": "When Ernesto and I were very young and|knocked on the door of the Royal Academy of|Sciences, Miss Tisa said..."
+    },
+    "64": {
+        "「あまたの愚かしさの先に|　まことの賢なる道が　ひらかれていると……。": "That beyond all the foolishness, a true and|wise path will open up..."
+    },
+    "65": {
+        "「アーニアは　知っていたのかもしれないな。|　その　愚かしさを越えるには|　信じ合える友が　必要だということを……。": "Perhaps Ernesto knew... Maybe she knew that|in order to overcome her stupidity, she|needed a friend she could trust."
+    },
+    "66": {
+        "「……アーニアのことが　心配だ。|　すまないが　先に　研究院に戻っている。|　<cs_pchero>も　あとで来てくれ。": "... I've been thinking about Ernesto... I'm|sorry, but I have to get back to the|institute...<cs_pchero>I'll be back later..."
+    },
+    "67": {
+        "「<cs_pchero>……。私は　幸せだ。|　こんな私を　待っていてくれる人が|　いるのだから……。": "<cs_pchero>... I'm... I've got people waiting for me|like this..."
+    },
+    "68": {
+        "<if_woman>「あっ！　<pc>ちゃん！<else>「あっ！　<pc>くん！<endif>": "<if_woman>Aah!<pc>   Hey!<else>Aah!<pc> Kun!<endif>"
+    },
+    "69": {
+        "「シェリルから　聞いたよ！|　呪いの主を　やっつけてくれたんだってね！|　私　それ聞いたら　元気になっちゃった！": "Cheryl told me about you! She told me that|you defeated the Lord of the Curse! I feel|better after hearing that!"
+    },
+    "70": {
+        "<if_woman>「やっぱり　<pc>ちゃんは　スゴイよ！|　ホントに　ホントに　ホンット～に！|　あなたに出会えて　よかったわっ！<else>「やっぱり　<pc>くんは　スゴイよ！|　ホントに　ホントに　ホンット～に！|　あなたに出会えて　よかったわっ！<endif>": "<if_woman>of course<pc>   You're amazing! Really, really, really,|really, really! I'm so glad I met you!<else>of course<pc> You're amazing! Really, really, really,|really, really! I'm so glad I met you!<endif>"
+    },
+    "71": {
+        "「<pc>。来ていたか……。": "<pc> You're here. You're here..."
+    },
+    "72": {
+        "「今しがた　緊急で　研究院会議が開かれてな。|　魔賢者アクバーの存在と　それを討ち滅ぼした|　キミの功績について　話し合ってきた。": "There was an emergency meeting of the|institute just now... We discussed the|existence of the sorceress Akbar and your|<br>|success in defeating her."
+    },
+    "73": {
+        "「賢者の未来を　おびやかす　魔賢者アクバーを|　見事　打ち滅ぼした　キミの功績を讃え……": "The sage Akbar threatens the future of the wise| In honor of your valiant efforts to destroy the"
+    },
+    "74": {
+        "「名誉ある賢者にのみ贈られる　賢者の証を|　キミに授与することが　満場一致で決まったぞ！": "It has been unanimously decided that you|shall receive the sage's badge, which is|reserved for the honorable and wise."
+    },
+    "75": {
+        "「本来なら　国を挙げ　式典を開くところだが|　忙しいキミの身を案じ　私が授与を命じられた。|　さあ　受け取るがよい！": "Normally, I would hold a ceremony for the|whole country, but since you're so busy, I've|ordered the awarding of the... Now take it!"
+    },
+    "76": {
+        "「王立研究院から　特別に贈られた|　この報酬を　受け取ってくれ。": "I have received this special reward from the|Royal Academy of Sciences..."
+    },
+    "77": {
+        "「<pc>よ。キミの活躍には|　本当に　目を　見張るものがあった。": "<pc> Hey. I'm really impressed with what you've|done."
+    },
+    "78": {
+        "「だが　賢なる道の扉は　開かれたばかりだ。|　これに　おごることなく　宇宙の理を追究し|　賢者として　鍛錬を積んでくれ。": "But the door to the path of the wise has been|opened... Do not let this deter you from your|pursuit of the truth of the universe... and|<br>|your training as a wise man."
+    },
+    "79": {
+        "「ねえ　シェリル……？|　あなた　研究院に戻ってくるんでしょ？|　また　一緒に勉強できるね！": "Hey, Cheryl...? You're coming back to the|Institute, aren't you? We can study together|again!"
+    },
+    "80": {
+        "「いや……。|　私は　ここに戻るつもりはない。": "No, I... I'm going to come back here..."
+    },
+    "81": {
+        "「そんな……！　どうしてっ！？|　一緒に　大賢者になるんじゃなかったの？|　まだ　何か　思いつめているのっ！？": "No, no, no, no! What are you doing? I thought|we were going to become the Great Sage|together? Do you still have something on your|<br>|mind?"
+    },
+    "82": {
+        "「ふっ。カン違いするな。|　大賢者になる夢を　あきらめたつもりはない。|　私は　ただ……": "Huh. Wrong... I thought I gave up on my dream|of becoming a great sage... I'm just..."
+    },
+    "83": {
+        "「研究院の中と外で　別々のものを学びとり|　それを　互いに教え合っていくのが|　大賢者への近道だと　思ったのさ。": "I believe the shortcut to becoming a great|sage is to learn different things inside and|outside the Institute, and to teach them to|<br>|each other."
+    },
+    "84": {
+        "「ふたりなら　できる……　だろ？": "We can do this. Can we?"
+    },
+    "85": {
+        "「シェリル……。": "Cheryl..."
+    },
+    "86": {
+        "「そうだね。今の私たちなら　離れてたって|　同じ夢を　見られるはずだもん！": "Well... Now that we're apart, we can dream|the same dreams!"
+    },
+    "87": {
+        "「それでは　私は　行くよ。|　またな　アーニア……。": "Okay, I'll... See you later, Ernesto."
+    },
+    "88": {
+        "「<pc>も……|　また　どこかで出会えると　いいな。": "<pc> I hope... I'm sure we'll meet again|somewhere."
+    },
+    "89": {
+        "「シェリルーーッ！": "Sherylou!"
+    },
+    "90": {
+        "「ありがとう！": "Thank you!"
+    }
 }

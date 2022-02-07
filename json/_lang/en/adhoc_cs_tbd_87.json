@@ -1,197 +1,197 @@
 {
-  "1": {
-    "「チィ～ッス。": ""
-  },
-  "2": {
-    "「おお　レーノス　ちょうどいいところに。|　お前さんと　<pc>で　組んで|　やってもらいたい仕事が　あるのじゃ。": ""
-  },
-  "3": {
-    "「はあっ？　この新米とぉ！？|　んなの　ユウギリに　任せときゃいいのに……。": ""
-  },
-  "4": {
-    "「先日　ユウギリからの報告で|　モリナラ大森林の樹木が　許可なく|　伐採されているらしいことが　判明した。": ""
-  },
-  "5": {
-    "「今回の任務は　この犯人を見つけだし|　不法な伐採を　やめさせることじゃ。|　ふたりで　協力して　がんばっさい！": ""
-  },
-  "6": {
-    "「……うーくっくっくっ。|　伐採をやめさせるよう　がんばっさい！|　……くっくっくっ。": ""
-  },
-  "7": {
-    "「オレひとりで　充分ですって。|　こんな新米　連れてったら　うまくいくものも|　いかなくなるってもんですよ。": ""
-  },
-  "8": {
-    "「ちゅーわけで　オレは　ひとりで行くからよ。|　お前は　お前で　好きにしな。": ""
-  },
-  "9": {
-    "「なんだ　あのレーノスってのは？|　いちいち　相棒のことを　半人前あつかいして|　ムカつく奴だなぁ。": ""
-  },
-  "10": {
-    "「おおかた　選ばれし　レンジャーである|　相棒に　シットしてるんだろうぜ。|　ハハン！　器の小せえ野郎だ。": ""
-  },
-  "11": {
-    "「まあまあ　スピルどの。|　レーノスは　あれで　優秀なレンジャー。|　彼なりの考えも　あるのでしょう。": ""
-  },
-  "12": {
-    "「……で　レーノスの奴は　ああ言っておったが|　お前さんは　どうする　<pc>？|　この任務　引き受けてくれるかね？": ""
-  },
-  "13": {
-    "「それでは　頼んだぞ。|　まずは　先日見つけたという　切り株が|　たくさんある場所へ　行くといいじゃろう。": ""
-  },
-  "14": {
-    "「では　頼んだぞ……と思ったら|　なんじゃ　その　頼まれごとの数は！？": ""
-  },
-  "15": {
-    "「それでは　仕事のひとつも　頼めんぞ！|　ええい。さっさと　手を空けてくるのじゃ！": ""
-  },
-  "16": {
-    "「選ばれし　レンジャーの任務としては|　役不足というわけか。強気じゃのう。|　部下が　テングになって　まいっテング！": ""
-  },
-  "17": {
-    "「……うーくっくっくっ。|　テングになって　まいっテング！|　……くっくっくっ。": ""
-  },
-  "18": {
-    "「やっぱり　お前も　来たのか。|　チッ！　オレひとりで　充分だってのに|　足手まとい付きとは　ロクでもねえ……。": ""
-  },
-  "19": {
-    "「おうおう　だまって聞いてりゃ|　さっきから　ずいぶんと　うちの相棒を|　こき下ろしてくれるじゃねえか。": ""
-  },
-  "20": {
-    "<if_woman>「たしかに　相棒は　ボンヤリしたとこもあるが|　このオレ様が　みとめた女だ。|　レンジャーの才能は　お前なんかより　上だぜ！<else>「たしかに　相棒は　ボンヤリしたとこもあるが|　このオレ様が　みとめた男だ。|　レンジャーの才能は　お前なんかより　上だぜ！<endif>": ""
-  },
-  "21": {
-    "「フン……こいつが　ウワサの精霊か。|　いい機会だ。ぜひとも　その才能ってやつを|　証明してもらおうじゃねーか。": ""
-  },
-  "22": {
-    "「今から　オレは　この広大な森の中から|　木を伐採した犯人を　見つけだすからよ。|　お前は　お前で　自力で探してみな。": ""
-  },
-  "23": {
-    "「それでもし　オレよりも先に|　犯人を見つけだすことが　できたなら|　お前のことを　認めてやってもいいぜ。": ""
-  },
-  "24": {
-    "「まあ　この森は　オレにとっちゃ|　庭みてーなもんだ。|　やる前から　勝負は見えてるけどな。": ""
-  },
-  "25": {
-    "「こうなりゃ　先に犯人を見つけだして|　あいつのハナを　明かしてやろうぜ！|　森の奥を　テッテーテキに　調査すんだ！": ""
-  },
-  "26": {
-    "「こらーっ！|　お前ら　何してやがる！！": ""
-  },
-  "27": {
-    "「やべえ！　レンジャー協会だっ！": ""
-  },
-  "28": {
-    "「……どうする　ズラかるか？": ""
-  },
-  "29": {
-    "「いや。いい機会だ。|　宣戦布告してやろうじゃないか。": ""
-  },
-  "30": {
-    "「オレたちは　伐採同盟。|　自らの自由意思で　森を切りひらき|　未来をも　切りひらく組織だ！": ""
-  },
-  "31": {
-    "「なーにが　伐採同盟だ！|　ようするに　無法者の集まりじゃねーか！": ""
-  },
-  "32": {
-    "「モリナラ大森林の自然を守る|　エルトナ・レンジャー協会　モリナラ支部の|　<cs_pchero>様が　とりしまってやる！": ""
-  },
-  "33": {
-    "「自然を守る……か。笑わせるな！|　森は　ヒトの侵入を拒む　危険な領域だ！|　そんなもの　守る必要など　ないっ！": ""
-  },
-  "34": {
-    "「な　なに　勝手なこと言ってやがる！|　森は　地上に生きる　すべての生物にとって|　かけがえのない場所だろーが！": ""
-  },
-  "35": {
-    "「……しょせん　わかりあえないか。|　やはり　貴様らとは　戦うしかないようだ。|　さあ　行けっ　伐採マシィィィン！！": ""
-  },
-  "36": {
-    "「また　レンジャー協会が　来やがったぜ！": ""
-  },
-  "37": {
-    "「……どうする？|　今度こそ　ズラかるか？": ""
-  },
-  "38": {
-    "「フン！　|　何度来ようと　けちらしてやるだけだ！|　さあ　行けっ　伐採マシィィィン！！": ""
-  },
-  "39": {
-    "「くそっ！|　伐採同盟の奴ら　相棒が　戦っている間に|　とっとと　逃げちまったようだぜ。": ""
-  },
-  "40": {
-    "「よっ！　ご苦労だったな。": ""
-  },
-  "41": {
-    "「今ごろ　やっと　ご到着かよ。|　オメーが　ノロノロしてる間に|　相棒は　犯人を見つけちまったぜ！": ""
-  },
-  "42": {
-    "「なーに　チョーシこいてやがる！|　お前らが　来たときには　オレは　とっくに|　ここに着いてて　身を潜めてたんだぜ。": ""
-  },
-  "43": {
-    "「……へっ？": ""
-  },
-  "44": {
-    "「連中のアジトをつきとめようと　隠れてたのに|　お前が　しゃしゃり出てきて　暴れやがるから|　どうなることかと　思ったぜ。": ""
-  },
-  "45": {
-    "「まっ　結局　ヤツらが　逃げだして|　後をつけれたから　アジトは判明したけどな。|　結果オーライってやつだ。": ""
-  },
-  "46": {
-    "「くっ……。じゃ　じゃあ　今すぐ|　そのアジトに　突入して|　伐採同盟の連中　とっちめてやろうぜ！": ""
-  },
-  "47": {
-    "「……ったく　これだから　シロートは。|　見たとこ　あいつらは　かなりの大人数だ。|　オレらだけで　つっこむとか　ありえねーよ。": ""
-  },
-  "48": {
-    "「とりあえず　アジトの場所を報告して|　後は　支部長の判断に　まかせんぞ。|　こいつは　オレたちの手に余るってーの。": ""
-  },
-  "49": {
-    "「む～っ。ただの　チャラい奴かと思ってたが|　なかなか　やるじゃねーか。|　……言ってることは　ムカつくけどな。": ""
-  },
-  "50": {
-    "「しかたねえ。あいつの言うとおり|　今は　支部に戻るとしよーぜ　相棒。": ""
-  },
-  "51": {
-    "「すでに　レーノスから　話は聞いておるぞ。": ""
-  },
-  "52": {
-    "「しかし　伐採同盟とはのう……。|　そんな同盟と戦うことになるなんて|　どう　命じたものか……。": ""
-  },
-  "53": {
-    "「……うーくっくっくっ。|　同盟と戦うのを　どう命じるか……|　くっくっくっ。": ""
-  },
-  "54": {
-    "「なんだ　よーやく　戻ったのか。|　ずいぶん　ごゆっくりだったな。": ""
-  },
-  "55": {
-    "「そうだ　支部長。|　例の任務は　こいつに任せちゃどうです？": ""
-  },
-  "56": {
-    "「……ふーむ　そうじゃのう。|　ユウギリだと　道に迷いそうじゃし|　<pc>が　適任かもしれんな。": ""
-  },
-  "57": {
-    "「じゃ　そういうことで！|　オレは　連中のアジトの|　見張りに　行ってきますよ。": ""
-  },
-  "58": {
-    "「なんだよ　例の任務って？": ""
-  },
-  "59": {
-    "「うむ。じつは　レーノスの報告から|　伐採同盟を　相手にするのに|　この支部だけでは　人手が足りぬと判断してな。": ""
-  },
-  "60": {
-    "「王都カミハルムイの　レンジャー本部に|　書状を出して　援軍を頼むことにしたんじゃ。": ""
-  },
-  "61": {
-    "「……で　その書状を届ける役目を|　<pc>に　頼もうということに|　なったわけじゃな。": ""
-  },
-  "62": {
-    "「遠いところ　すまんが　これを届けるまでを|　今回の任務とさせてもらおう。|　よろしく頼んだぞ　<pc>！": ""
-  },
-  "63": {
-    "<pc>は|ポランパンの書状（だいじなもの）を|受け取った！<me 60>": ""
-  },
-  "64": {
-    "「なーんか　相棒ってば　メンドーな仕事を|　押しつけられたみたいだなぁ。|　悪いけど　オレ様は　休ませてもらうぜ。": ""
-  },
-  "65": {
-    "「やれやれ　スピルどのは　手きびしいな。|　だが　このままでは　いつか　森の怒りが|　爆発する……それだけは　さけねばならん。": ""
-  }
+    "1": {
+        "「チィ～ッス。": "Chi..."
+    },
+    "2": {
+        "「おお　レーノス　ちょうどいいところに。|　お前さんと　<pc>で　組んで|　やってもらいたい仕事が　あるのじゃ。": "Oh, Renos, I was just thinking... With you.<pc> So, I need you to team up and do a job for|me..."
+    },
+    "3": {
+        "「はあっ？　この新米とぉ！？|　んなの　ユウギリに　任せときゃいいのに……。": "Huh? With this newbie? You should've left|that to Eugiri..."
+    },
+    "4": {
+        "「先日　ユウギリからの報告で|　モリナラ大森林の樹木が　許可なく|　伐採されているらしいことが　判明した。": "The other day, Eugiri reported that trees in|the Great Molinaru Forest were being cut down|without permission..."
+    },
+    "5": {
+        "「今回の任務は　この犯人を見つけだし|　不法な伐採を　やめさせることじゃ。|　ふたりで　協力して　がんばっさい！": "Our mission is to find this criminal and stop|his illegal logging. Let's work together and|do our best!"
+    },
+    "6": {
+        "「……うーくっくっくっ。|　伐採をやめさせるよう　がんばっさい！|　……くっくっくっ。": "... Woo-woo... Let's try to stop the logging!|... Uh-uh..."
+    },
+    "7": {
+        "「オレひとりで　充分ですって。|　こんな新米　連れてったら　うまくいくものも|　いかなくなるってもんですよ。": "I'm fine on my own... If I take a newbie like|this, things won't go so well..."
+    },
+    "8": {
+        "「ちゅーわけで　オレは　ひとりで行くからよ。|　お前は　お前で　好きにしな。": "That's why I'm going alone... You like it|when you're you..."
+    },
+    "9": {
+        "「なんだ　あのレーノスってのは？|　いちいち　相棒のことを　半人前あつかいして|　ムカつく奴だなぁ。": "What's with this Renos guy? He's the kind of|guy who pisses off his partner every time he|thinks he's half a man."
+    },
+    "10": {
+        "「おおかた　選ばれし　レンジャーである|　相棒に　シットしてるんだろうぜ。|　ハハン！　器の小せえ野郎だ。": "Most of them are chosen rangers, sittin'|around with their partners... Hahan! You|little..."
+    },
+    "11": {
+        "「まあまあ　スピルどの。|　レーノスは　あれで　優秀なレンジャー。|　彼なりの考えも　あるのでしょう。": "Well, well, well, Spi... He's a good Ren...|He's got his own agenda, so..."
+    },
+    "12": {
+        "「……で　レーノスの奴は　ああ言っておったが|　お前さんは　どうする　<pc>？|　この任務　引き受けてくれるかね？": " And that's what he said about Renos| What are you gonna do?<pc> Will you accept this assignment? Will you|accept this assignment?"
+    },
+    "13": {
+        "「それでは　頼んだぞ。|　まずは　先日見つけたという　切り株が|　たくさんある場所へ　行くといいじゃろう。": "Okay, so... First, we'll go to a place where|there are a lot of stumps that we found the|other day."
+    },
+    "14": {
+        "「では　頼んだぞ……と思ったら|　なんじゃ　その　頼まれごとの数は！？": "Well, I'm asking you... But then I thought,|what's with all the requests?"
+    },
+    "15": {
+        "「それでは　仕事のひとつも　頼めんぞ！|　ええい。さっさと　手を空けてくるのじゃ！": "You can't ask me to do a single thing! ...|Now, get your hands free!"
+    },
+    "16": {
+        "「選ばれし　レンジャーの任務としては|　役不足というわけか。強気じゃのう。|　部下が　テングになって　まいっテング！": "I'm not sure I'm up to the task of being a|chosen ranger. My men have become Teng. My|men have turned into Teng. Oh, my God, Teng!"
+    },
+    "17": {
+        "「……うーくっくっくっ。|　テングになって　まいっテング！|　……くっくっくっ。": "... Woo-hoo-hoo... I'll be Teng, I'll be|Teng! ... Ugh..."
+    },
+    "18": {
+        "「やっぱり　お前も　来たのか。|　チッ！　オレひとりで　充分だってのに|　足手まとい付きとは　ロクでもねえ……。": "I knew you'd come too. Damn it! I'm good on|my own, but you're slowing me down..."
+    },
+    "19": {
+        "「おうおう　だまって聞いてりゃ|　さっきから　ずいぶんと　うちの相棒を|　こき下ろしてくれるじゃねえか。": "If you'll just shut up and listen, you've|been putting my partner down quite a bit..."
+    },
+    "20": {
+        "<if_woman>「たしかに　相棒は　ボンヤリしたとこもあるが|　このオレ様が　みとめた女だ。|　レンジャーの才能は　お前なんかより　上だぜ！<else>「たしかに　相棒は　ボンヤリしたとこもあるが|　このオレ様が　みとめた男だ。|　レンジャーの才能は　お前なんかより　上だぜ！<endif>": "<if_woman>You're right, my partner may be a little on|the fuzzy side, but I've got to admit... He's|a better ranger than you are.<else>You're right, my partner may be a little on|the fuzzy side, but I've got to admit... He's|a better ranger than you are.<endif>"
+    },
+    "21": {
+        "「フン……こいつが　ウワサの精霊か。|　いい機会だ。ぜひとも　その才能ってやつを|　証明してもらおうじゃねーか。": "Hmm... This is the guy they're talking|about... Good... Let's see if he can prove|his talent..."
+    },
+    "22": {
+        "「今から　オレは　この広大な森の中から|　木を伐採した犯人を　見つけだすからよ。|　お前は　お前で　自力で探してみな。": "From now on, I'm going to find out who cut|down the trees in this vast forest. You, on|your own..."
+    },
+    "23": {
+        "「それでもし　オレよりも先に|　犯人を見つけだすことが　できたなら|　お前のことを　認めてやってもいいぜ。": "If you can find the culprit before I do, then|I'll give you credit..."
+    },
+    "24": {
+        "「まあ　この森は　オレにとっちゃ|　庭みてーなもんだ。|　やる前から　勝負は見えてるけどな。": "Well, this forest is like a garden to me. I|already know what I'm going to do."
+    },
+    "25": {
+        "「こうなりゃ　先に犯人を見つけだして|　あいつのハナを　明かしてやろうぜ！|　森の奥を　テッテーテキに　調査すんだ！": "Let's find out who did this before they do|and get to the bottom of it! We'll search the|depths of the forest like the dickens!"
+    },
+    "26": {
+        "「こらーっ！|　お前ら　何してやがる！！": "Hey! What the fuck are you doing?"
+    },
+    "27": {
+        "「やべえ！　レンジャー協会だっ！": "Oh, no! It's the Ranger Association!"
+    },
+    "28": {
+        "「……どうする　ズラかるか？": "... What do we do now?"
+    },
+    "29": {
+        "「いや。いい機会だ。|　宣戦布告してやろうじゃないか。": "No, no, no. Let's... Let's just declare|war..."
+    },
+    "30": {
+        "「オレたちは　伐採同盟。|　自らの自由意思で　森を切りひらき|　未来をも　切りひらく組織だ！": "We are a logging... We are an organization|that uses our own free will to cut down the|forest and create the future!"
+    },
+    "31": {
+        "「なーにが　伐採同盟だ！|　ようするに　無法者の集まりじゃねーか！": "What's the Logging Alliance? It's just a|bunch of outlaws!"
+    },
+    "32": {
+        "「モリナラ大森林の自然を守る|　エルトナ・レンジャー協会　モリナラ支部の|　<cs_pchero>様が　とりしまってやる！": "Protecting the Nature of the Great Molinarra Forest| The Molinarra Chapter of the Eltona Ranger Association|<cs_pchero>I'll take care of it!"
+    },
+    "33": {
+        "「自然を守る……か。笑わせるな！|　森は　ヒトの侵入を拒む　危険な領域だ！|　そんなもの　守る必要など　ないっ！": "Protecting Nature: .... Don't make me laugh!|The forest is a dangerous territory that|refuses to be invaded by humans! There is no|<br>|need to protect it!"
+    },
+    "34": {
+        "「な　なに　勝手なこと言ってやがる！|　森は　地上に生きる　すべての生物にとって|　かけがえのない場所だろーが！": "What the hell are you talking about? The|forest is an irreplaceable place for all life|on earth!"
+    },
+    "35": {
+        "「……しょせん　わかりあえないか。|　やはり　貴様らとは　戦うしかないようだ。|　さあ　行けっ　伐採マシィィィン！！": "... We can't understand each other. I'll have|to fight you all. Let's go! Let's go! Logging|machine!"
+    },
+    "36": {
+        "「また　レンジャー協会が　来やがったぜ！": "The Ranger Association's here again!"
+    },
+    "37": {
+        "「……どうする？|　今度こそ　ズラかるか？": "... What do we do now? What do we do now?"
+    },
+    "38": {
+        "「フン！　|　何度来ようと　けちらしてやるだけだ！|　さあ　行けっ　伐採マシィィィン！！": "Hmph! I don't care how many times they come,|I'm gonna kick their asses! Come on, let's|go! Logging machine!"
+    },
+    "39": {
+        "「くそっ！|　伐採同盟の奴ら　相棒が　戦っている間に|　とっとと　逃げちまったようだぜ。": "Damn it! The Logging Alliance got away while|my partner was fighting..."
+    },
+    "40": {
+        "「よっ！　ご苦労だったな。": "Hey! Good work..."
+    },
+    "41": {
+        "「今ごろ　やっと　ご到着かよ。|　オメーが　ノロノロしてる間に|　相棒は　犯人を見つけちまったぜ！": "By now, you've arrived... While you were|slowing down, your partner found the culprit."
+    },
+    "42": {
+        "「なーに　チョーシこいてやがる！|　お前らが　来たときには　オレは　とっくに|　ここに着いてて　身を潜めてたんだぜ。": "What the hell is wrong with you people? By|the time you guys got here, I was already|here, hiding..."
+    },
+    "43": {
+        "「……へっ？": "... Huh?"
+    },
+    "44": {
+        "「連中のアジトをつきとめようと　隠れてたのに|　お前が　しゃしゃり出てきて　暴れやがるから|　どうなることかと　思ったぜ。": "We've been hiding out, trying to find out|where they're hiding, and now you've come out|of the woodwork and gone berserk, and I'm|<br>|wondering what the hell is going on."
+    },
+    "45": {
+        "「まっ　結局　ヤツらが　逃げだして|　後をつけれたから　アジトは判明したけどな。|　結果オーライってやつだ。": "Well, eventually they got away, and we were|able to follow them, so we figured out where|they were... It's all good."
+    },
+    "46": {
+        "「くっ……。じゃ　じゃあ　今すぐ|　そのアジトに　突入して|　伐採同盟の連中　とっちめてやろうぜ！": "Damn... Then let's raid that hideout right|now and take out the logging alliance!"
+    },
+    "47": {
+        "「……ったく　これだから　シロートは。|　見たとこ　あいつらは　かなりの大人数だ。|　オレらだけで　つっこむとか　ありえねーよ。": "... That's why they're so white. I mean,|they're pretty big... I can't believe we're|the only ones..."
+    },
+    "48": {
+        "「とりあえず　アジトの場所を報告して|　後は　支部長の判断に　まかせんぞ。|　こいつは　オレたちの手に余るってーの。": "I'll just report the location of the hideout|and leave the rest to the branch manager's|discretion... This is too much for us to|<br>|handle..."
+    },
+    "49": {
+        "「む～っ。ただの　チャラい奴かと思ってたが|　なかなか　やるじゃねーか。|　……言ってることは　ムカつくけどな。": "I thought you were just a flirt, but... I|thought you were just a flirt, but you're|pretty good... It's... I don't like what|<br>|you're saying."
+    },
+    "50": {
+        "「しかたねえ。あいつの言うとおり|　今は　支部に戻るとしよーぜ　相棒。": "But... Maybe he's right. Maybe we should go|back to the chapter now..."
+    },
+    "51": {
+        "「すでに　レーノスから　話は聞いておるぞ。": "I've already spoken to Renesmee..."
+    },
+    "52": {
+        "「しかし　伐採同盟とはのう……。|　そんな同盟と戦うことになるなんて|　どう　命じたものか……。": "But the Logging Alliance... I don't know how|I'm supposed to fight such an alliance..."
+    },
+    "53": {
+        "「……うーくっくっくっ。|　同盟と戦うのを　どう命じるか……|　くっくっくっ。": "... Ugh... I don't know how to tell you to|fight the Alliance... Ugh..."
+    },
+    "54": {
+        "「なんだ　よーやく　戻ったのか。|　ずいぶん　ごゆっくりだったな。": "Oh, no. I'm finally back... You're taking|your time."
+    },
+    "55": {
+        "「そうだ　支部長。|　例の任務は　こいつに任せちゃどうです？": "Well... Why don't we just let him handle the|mission?"
+    },
+    "56": {
+        "「……ふーむ　そうじゃのう。|　ユウギリだと　道に迷いそうじゃし|　<pc>が　適任かもしれんな。": "... Hmm, yes... I'm afraid we'll get lost in|the woods.<pc> might be the right man for the job."
+    },
+    "57": {
+        "「じゃ　そういうことで！|　オレは　連中のアジトの|　見張りに　行ってきますよ。": "So that's it. I'm going to go keep an eye on|their hideout."
+    },
+    "58": {
+        "「なんだよ　例の任務って？": "What's with the mission?"
+    },
+    "59": {
+        "「うむ。じつは　レーノスの報告から|　伐採同盟を　相手にするのに|　この支部だけでは　人手が足りぬと判断してな。": "Hmm. As a matter of fact, based on Renos'|report, I've determined that this branch|alone is insufficient to deal with the|<br>|logging alliance..."
+    },
+    "60": {
+        "「王都カミハルムイの　レンジャー本部に|　書状を出して　援軍を頼むことにしたんじゃ。": "I've decided to send a letter to the ranger|headquarters in King's Landing, Kamikarmui,|asking for reinforcements..."
+    },
+    "61": {
+        "「……で　その書状を届ける役目を|　<pc>に　頼もうということに|　なったわけじゃな。": " And he was responsible for delivering the letter|<pc> So we've decided to ask..."
+    },
+    "62": {
+        "「遠いところ　すまんが　これを届けるまでを|　今回の任務とさせてもらおう。|　よろしく頼んだぞ　<pc>！": "I know you're a long way from home, but I'd|like to make this my mission until I get this|to you. I'm counting on you.<pc> ！"
+    },
+    "63": {
+        "<pc>は|ポランパンの書状（だいじなもの）を|受け取った！<me 60>": "<pc> received a letter from Polanpan!<me 60>"
+    },
+    "64": {
+        "「なーんか　相棒ってば　メンドーな仕事を|　押しつけられたみたいだなぁ。|　悪いけど　オレ様は　休ませてもらうぜ。": "I feel like I'm being forced to do something|annoying for my partner... I'm sorry, but if|you'll let me take a break..."
+    },
+    "65": {
+        "「やれやれ　スピルどのは　手きびしいな。|　だが　このままでは　いつか　森の怒りが|　爆発する……それだけは　さけねばならん。": "Oh, man. Spill is a handful... But if we|continue like this, one day the forest will|explode in anger. We can't let that happen."
+    }
 }

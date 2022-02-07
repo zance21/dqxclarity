@@ -1,83 +1,83 @@
 {
-  "1": {
-    "「ムニュムニュ……。だ～れ？|　ママなら　クスリをかいにいって|　いまは　いないけど……": ""
-  },
-  "2": {
-    "「あーっ！！　モーモンたんだーっ！": ""
-  },
-  "3": {
-    "「わーい　わーい！　こんなに　ちかくで|　モーモンたん　みるの　はじめてー！|　すごい　すごーい！": ""
-  },
-  "4": {
-    "<if_woman>「ねえねえ　おねえちゃん。|　このモーモンたん　おねえちゃんの？|　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。|　このモーモンたん　おにいちゃんの？|　どうして　つれあるいて　へいきなの？<endif>": ""
-  },
-  "5": {
-    "<if_woman>「……へえ～。おねえちゃん|　まものつかいっていう　おしごとしてるのね。|　なんか　かっこいいー！<else>「……へえ～。おにいちゃん|　まものつかいっていう　おしごとしてるのね。|　なんか　かっこいいー！<endif>": ""
-  },
-  "6": {
-    "「カーヤ。ただいまー。|　いい子に　して……": ""
-  },
-  "7": {
-    "「ぎゃーーーーーーーーッ！！|　魔物よーーーーーッ！！": ""
-  },
-  "8": {
-    "「カーヤ！　危険だわ！|　下がってなさい！": ""
-  },
-  "9": {
-    "「ママ　ちがうの。このコはね……": ""
-  },
-  "10": {
-    "「この魔物を　部屋に入れたのは　あなたね！？|　いったい　どういうつもり？|　魔物を連れて　さっさと出ていってちょうだい！": ""
-  },
-  "11": {
-    "「早く！": ""
-  },
-  "12": {
-    "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": ""
-  },
-  "13": {
-    "「いいぞ　ファーベル！|　剣を振る姿が　なかなか　サマになってきた。": ""
-  },
-  "14": {
-    "「よし　この辺で　ひと息入れよう。": ""
-  },
-  "15": {
-    "「アンタ……。|　前に　ウチの中で　会ったよな。|　たしか　<pc>って言ったっけ？": ""
-  },
-  "16": {
-    "「ハハァン。母さんが頼みごとをした|　まもの使いって　アンタだな？": ""
-  },
-  "17": {
-    "「それで　どうだった？|　モーモンで　女の子を元気づけるっていう|　母さんの作戦は　うまくいったかい？<yesno><close>": ""
-  },
-  "18": {
-    "「はははっ！　マジメに答えなくても|　その暗い顔を見れば　わかるよ。|　どうせ　追い返されて　帰ってきたんだろう？": ""
-  },
-  "19": {
-    "「魔物は　しょせん　魔物。|　怖がられて　きらわれて……|　それが　当然の存在だよ。": ""
-  },
-  "20": {
-    "「すまない。どうやら　ファーベルが|　失礼なことを言ったみたいだ。": ""
-  },
-  "21": {
-    "「……っと　自己紹介が　遅れたな。|　オレは　デイラー。旅のバトルマスターだ。": ""
-  },
-  "22": {
-    "「少し前に　ファーベルと知り合って|　ヤツに　剣を教えたりしている。|　まあ　いわゆる　師弟関係ってやつだ。": ""
-  },
-  "23": {
-    "「ファーベルは……|　どうやら　魔物がらみで|　つらい過去が　あるみたいなんだ。": ""
-  },
-  "24": {
-    "「だから　まもの使いを見ると|　つい　あんな態度を取ってしまうらしい。|　大目に見てやってくれ。": ""
-  },
-  "25": {
-    "「デイラーさん。いつまで　おしゃべりしてるの？|　今日は　お城の方まで　修行にいくんでしょ？|　早く　行こうよ。": ""
-  },
-  "26": {
-    "「ああ　そうだったな！|　わかった！　すぐ行くよ！": ""
-  },
-  "27": {
-    "「それじゃ　オレたちは　これで。": ""
-  }
+    "1": {
+        "「ムニュムニュ……。だ～れ？|　ママなら　クスリをかいにいって|　いまは　いないけど……": "Mmm, mm, mm. Who's there? My mom went to get|drugs. She's not here right now, but..."
+    },
+    "2": {
+        "「あーっ！！　モーモンたんだーっ！": "Aaah! It's Mormont!"
+    },
+    "3": {
+        "「わーい　わーい！　こんなに　ちかくで|　モーモンたん　みるの　はじめてー！|　すごい　すごーい！": "Yay, yay, yay! I've never seen Mormon this|close before! Wow, that's amazing!"
+    },
+    "4": {
+        "<if_woman>「ねえねえ　おねえちゃん。|　このモーモンたん　おねえちゃんの？|　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。|　このモーモンたん　おにいちゃんの？|　どうして　つれあるいて　へいきなの？<endif>": "<if_woman>Hey, hey, hey... This Mormont is your|sister's? How come you're not afraid to take|him along?<else>Hey, hey, hey... Is this Mormont one of|yours? How come you're not afraid to take me|with you?<endif>"
+    },
+    "5": {
+        "<if_woman>「……へえ～。おねえちゃん|　まものつかいっていう　おしごとしてるのね。|　なんか　かっこいいー！<else>「……へえ～。おにいちゃん|　まものつかいっていう　おしごとしてるのね。|　なんか　かっこいいー！<endif>": "<if_woman>...... I'm doing a job called \"mamono-|tsukai\"... That's so cool!<else>...... I'm doing a job called \"mamono-|tsukai\"... That's so cool!<endif>"
+    },
+    "6": {
+        "「カーヤ。ただいまー。|　いい子に　して……": "... Just... Just be a good boy and..."
+    },
+    "7": {
+        "「ぎゃーーーーーーーーッ！！|　魔物よーーーーーッ！！": "Geez! Demon!"
+    },
+    "8": {
+        "「カーヤ！　危険だわ！|　下がってなさい！": "Kaja! It's not safe! Stay back!"
+    },
+    "9": {
+        "「ママ　ちがうの。このコはね……": "Mom, I... This girl..."
+    },
+    "10": {
+        "「この魔物を　部屋に入れたのは　あなたね！？|　いったい　どういうつもり？|　魔物を連れて　さっさと出ていってちょうだい！": "You're the one who put this demon in my room!|What the hell are you doing? Why don't you|take the demon and get the hell out of here!"
+    },
+    "11": {
+        "「早く！": "Quickly!"
+    },
+    "12": {
+        "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": "<if_woman>I'm sorry... Hey, baby...<else>I'm sorry... Big brother...<endif>"
+    },
+    "13": {
+        "「いいぞ　ファーベル！|　剣を振る姿が　なかなか　サマになってきた。": "Good one, Fafner! The way she's swinging that|sword is pretty cool..."
+    },
+    "14": {
+        "「よし　この辺で　ひと息入れよう。": "Okay, let's take a break here."
+    },
+    "15": {
+        "「アンタ……。|　前に　ウチの中で　会ったよな。|　たしか　<pc>って言ったっけ？": "You... I've seen you in my house before... I|think.<pc> Did I say that?"
+    },
+    "16": {
+        "「ハハァン。母さんが頼みごとをした|　まもの使いって　アンタだな？": "Ha... You're the wizard my mother asked for,|aren't you?"
+    },
+    "17": {
+        "「それで　どうだった？|　モーモンで　女の子を元気づけるっていう|　母さんの作戦は　うまくいったかい？<yesno><close>": "So, how'd it go? Did your mother's plan to|cheer the girls up at Mormon work?<yesno><close>"
+    },
+    "18": {
+        "「はははっ！　マジメに答えなくても|　その暗い顔を見れば　わかるよ。|　どうせ　追い返されて　帰ってきたんだろう？": "Hahaha! Even if you don't take me seriously,|I can tell by your dark face... You were|turned away and came back anyway, right?"
+    },
+    "19": {
+        "「魔物は　しょせん　魔物。|　怖がられて　きらわれて……|　それが　当然の存在だよ。": "Demons are just... They're scared, they're|scared... That's the way it is."
+    },
+    "20": {
+        "「すまない。どうやら　ファーベルが|　失礼なことを言ったみたいだ。": "I don't know. Apparently, Fabelle said|something rude..."
+    },
+    "21": {
+        "「……っと　自己紹介が　遅れたな。|　オレは　デイラー。旅のバトルマスターだ。": "... I'm late to introduce myself. I'm De... A|traveling battlemouth..."
+    },
+    "22": {
+        "「少し前に　ファーベルと知り合って|　ヤツに　剣を教えたりしている。|　まあ　いわゆる　師弟関係ってやつだ。": "I met Fabel a while back, and I taught him|how to sword fight... I guess you could call|it a master-student relationship."
+    },
+    "23": {
+        "「ファーベルは……|　どうやら　魔物がらみで|　つらい過去が　あるみたいなんだ。": "Fabel... Apparently, Fabelle has a history|with demons..."
+    },
+    "24": {
+        "「だから　まもの使いを見ると|　つい　あんな態度を取ってしまうらしい。|　大目に見てやってくれ。": "That's why I act like that when I see a|magician... I'll cut him some slack..."
+    },
+    "25": {
+        "「デイラーさん。いつまで　おしゃべりしてるの？|　今日は　お城の方まで　修行にいくんでしょ？|　早く　行こうよ。": "Dayla... How much longer are we going to|talk? You're going to the castle today to|train, aren't you? Come on, let's go."
+    },
+    "26": {
+        "「ああ　そうだったな！|　わかった！　すぐ行くよ！": "Yes, you did! All right! I'll be right there!"
+    },
+    "27": {
+        "「それじゃ　オレたちは　これで。": "Okay, so we're..."
+    }
 }
