@@ -30,7 +30,7 @@
         "今　装備している装備品ですが|よろしいですか？|<yesno 2><close>": "The equipment you have now, if you don't|mind.<yesno 2><close>"
     },
     "11": {
-        "新品の装備品です！|他人に渡せなくなりますが　よろしいですか？|<yesno 2><close>": ""
+        "新品の装備品です！|他人に渡せなくなりますが　よろしいですか？|<yesno 2><close>": "It's brand-new equipment! You won't be able to|give it to anyone else, is that okay?|<yesno 2><close>"
     },
     "12": {
         "「あら？　私が装備できるものを|　持っていないみたい。|<end>": "What? You don't have anything I can equip you|with...<end>"
