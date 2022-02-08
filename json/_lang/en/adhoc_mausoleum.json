@@ -27,7 +27,7 @@
         "九": "9"
     },
     "10": {
-        "ここから　霊廟の前まで　移動できそうだ。|<break>": "From here, we can move to the front of the|mausoleum...<break>"
+        "ここから　霊廟の前まで　移動できそうだ。|<break>": "You can go to the front of the tomb from here.|<break>"
     },
     "11": {
         "第<%nEV_LUA_STRING1>の霊廟の前に　移動しますか？|<yesno><break>": ""
