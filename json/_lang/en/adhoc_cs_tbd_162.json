@@ -1,6 +1,6 @@
 {
     "1": {
-        "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": ""
+        "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": "<if_woman>That's great <pc>!|You're a woman who understands!<else>That's great <pc>!|You're a man who understands!<endif>"
     },
     "2": {
         "<if_woman>「ロマンの　わかる女だぜ！<else>「ロマンの　わかる男だぜ！<endif>": "<if_woman>I'm a woman who understands romance!<else>I'm a man who understands romance!<endif>"
