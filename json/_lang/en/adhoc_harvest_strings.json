@@ -18,12 +18,12 @@
         "水やりしました！": "It is watered!"
     },
     "7": {
-        "これだけの　クラスの仲間が|お世話してくれたようだ。|<break>": ""
+        "これだけの　クラスの仲間が|お世話してくれたようだ。|<break>": "It looks like a lot of my classmates have|helped me.|<break>"
     },
     "8": {
-        "レッスンチケットと|交換しますか？|<yesno><break>": ""
+        "レッスンチケットと|交換しますか？|<yesno><break>": "Will you exchange a Lesson Ticket for it?|<yesno><break>"
     },
     "9": {
-        "いくつ　交換しますか？|<break>": ""
+        "いくつ　交換しますか？|<break>": "How many would you like to trade?|<break>"
     }
 }
