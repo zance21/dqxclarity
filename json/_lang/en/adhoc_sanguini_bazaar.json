@@ -1,6 +1,6 @@
 {
     "1": {
-        "ダミー": "dummy"
+        "ダミー": "Dummy"
     },
     "2": {
         "<%sL_ITEM><%sL_PLUSNUM>は　装備できませんが|<%nL_GOUKEI>ゴールドで 買いますか？|所持金　<%nL_SYOZIGOLD>ゴールド|<yesno 2><break>": "You can't equip <%sL_ITEM><%sL_PLUSNUM>, but|you want to buy it with <%nL_GOUKEI> gold?|Possession <%nL_SYOZIGOLD> gold<yesno 2><break>"
