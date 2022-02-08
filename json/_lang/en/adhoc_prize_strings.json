@@ -6,6 +6,6 @@
         "「お渡しできる景品は　以上となりま～す。|　これで　全ての景品を受け取られました。|　おめでとうございます～！|<break>": "That's all the prizes we have to give away.|You have now received all of the prizes.|Congratulations!|<break>"
     },
     "3": {
-        "「次は　あと<%nL_FOPOINT>貯めると　なんと|　<%sL_FOITEM>を差し上げちゃいます！|　ぜひぜひ　がんばってくださいね！|<break>": ""
+        "「次は　あと<%nL_FOPOINT>貯めると　なんと|　<%sL_FOITEM>を差し上げちゃいます！|　ぜひぜひ　がんばってくださいね！|<break>": "If you accumulate <%nL_FOPOINT> points, next time|we'll give you the <%sL_FOITEM>!|Keep up the good work!|<break>"
     }
 }
