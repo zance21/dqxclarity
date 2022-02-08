@@ -132,25 +132,25 @@
         "「…………うむ。|　トーマにも　見せてやりたかったな。": "...Mm. I wish Toma were here to see this."
     },
     "45": {
-        "「さあさ　<pc>。|　次は　あなたが踊ってあげてください。": "come<pc> (speaking spanish) Next time, you can dance|for him..."
+        "「さあさ　<pc>。|　次は　あなたが踊ってあげてください。": "Come here, <pc>.|You can dance with her next."
     },
     "46": {
-        "<if_woman><center>できれば　会いたくなかったよ……姉ちゃん。<else><center>できれば　会いたくなかったよ……兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... My sister...<else>I wish I'd never met you... My brother...<endif>"
+        "<if_woman><center>できれば　会いたくなかったよ……姉ちゃん。<else><center>できれば　会いたくなかったよ……兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... Sister.<else>I wish I'd never met you... Brother.<endif>"
     },
     "47": {
-        "「………………あと　４人。": "... And..."
+        "「………………あと　４人。": "...Just 4 people left."
     },
     "48": {
-        "「アンルシア……！？": "Anglesea...!"
+        "「アンルシア……！？": "Anlucia...?!"
     },
     "49": {
-        "「その方々を　放しなさい！": "Let those people go!"
+        "「その方々を　放しなさい！": "Let them go!"
     },
     "50": {
-        "「アンルシア……そんな……！": "Unlucia... Oh, no...!"
+        "「アンルシア……そんな……！": "Anlucia, no...!"
     },
     "51": {
-        "「おいっ　ラグアスまで　消えちまったぞ！": "Hey, even Laguas is gone!"
+        "「おいっ　ラグアスまで　消えちまったぞ！": "Hey, Raguas is gone too!"
     },
     "52": {
         "「……皆の者　まずは落ちつけ。": "... Everyone, first things first..."
@@ -174,13 +174,13 @@
         "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... Your sister...<else>I wish I'd never met you... Brother...<endif>"
     },
     "59": {
-        "「………………あと　４人。": "... And..."
+        "「………………あと　４人。": "...Just 4 people left."
     },
     "60": {
-        "「………………あと　４人。": "... And..."
+        "「………………あと　４人。": "...Just 4 people left."
     },
     "61": {
-        "「………………あと　４人。": "... And..."
+        "「………………あと　４人。": "...Just 4 people left."
     },
     "62": {
         "「<pc>……これは　災いの始まりです。": "<pc> ... This is the beginning of disaster..."
