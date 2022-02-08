@@ -45,7 +45,7 @@
         "「……正直　あのケガは　ひどい。 |　キズが深すぎて　血が止まらないんだ。": "... Honestly, the injury... It was too deep.|I couldn't stop the bleeding."
     },
     "16": {
-        "「このままでは　村王の命は……。": ""
+        "「このままでは　村王の命は……。": "If this keeps up, the chief will be..."
     },
     "17": {
         "「私のせいよっ！|　もっと早く　この村に　帰ってきていれば！！": "It's my fault! If only I'd come back to this|village sooner!"
@@ -90,7 +90,7 @@
         "「マイユのやつ　相当　頭に血がのぼっているな。 |　あの村王の　容態を見たら|　無理もないことだろうが……。": "Mayu's blood is really boiling... I'm sure|it's understandable, seeing the condition of|the village king..."
     },
     "31": {
-        "「<pc>。|　ランドンフットの　南西まで|　マイユを　追いかけてくれないか。": "<pc> (speaking spanish) I need you to follow Maile|southwest of Landon Foot..."
+        "「<pc>。|　ランドンフットの　南西まで|　マイユを　追いかけてくれないか。": "I need you to follow Maille to the southwest|of Landfoot, <pc>."
     },
     "32": {
         "「今のマイユを　ひとりにするのは心配なんだ。|　それに　ゴズ渓谷の魔物たちは　強い。|　もしものことでも　あったら……。": "I don't want Mayu to be alone right now. And|the demons of Gozu Valley... If anything|should happen to her..."
@@ -612,7 +612,7 @@
         "「なんでも　相次ぐ　誘拐事件について|　重大なことを　<pc>どのに|　直接　お伝えしたいとのことであります！": "Anything to do with the rash of kidnappings| It's important<pc> He wants to tell you in person!"
     },
     "205": {
-        "「……行け　<pc>。|　お前のチカラが　必要とされているのだろう。|　あとのことは　わしに　まかせろ。": " Go<pc> (speaking spanish) Your help is needed...|I'll take care of the rest..."
+        "「……行け　<pc>。|　お前のチカラが　必要とされているのだろう。|　あとのことは　わしに　まかせろ。": "Go, <pc>... I'm sure they'll need|your help. Leave the rest to me."
     },
     "206": {
         "「ええ。私は　アロルドを看病するわ。 |　だから　あなたは　アンテロを追ってください。|　<pc>さん。": "Yeah. I'm taking care of arold... So you're|going after Antero...<pc> San."
