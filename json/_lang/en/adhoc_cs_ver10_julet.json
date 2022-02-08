@@ -9,10 +9,10 @@
         "「何か　ご用なの？　|　ここには　私しかいないよ。|　オトナの人も　いないから。": "What can I do for you? I'm the only one here.|There aren't any adults."
     },
     "4": {
-        "「……私の家族は　もう|　あの子しか　いないもの。": "...He's all I have left of my family."
+        "「……私の家族は　もう|　あの子しか　いないもの。": "...He's the only family I have left."
     },
     "5": {
-        "「私　これから　でかけるの。|　だから　出てって。": "I will be heading out shortly.|Please leave."
+        "「私　これから　でかけるの。|　だから　出てって。": "I'll be heading out shortly.|Please leave."
     },
     "6": {
         "「そうだ。あなたが　一人前の証を|　持ってるくらい　しっかりした人なら|　町長さんの所へ行くと　いいよ。": "Oh, that's right.|If you're strong enough to have a Mark of|Adulthood, you should go see the mayor."
@@ -24,10 +24,10 @@
         "「……その　ある人物というのは|　私の所に来ている　客人だ。": "...This person is a guest who's been coming to|my place."
     },
     "9": {
-        "「おお　キンナー殿。この　<pc>君が|　引き受けると　言ってくれましたぞ。": "Oh, Detective Kinner.|This is <pc>, who you said would|take care of things."
+        "「おお　キンナー殿。この　<pc>君が|　引き受けると　言ってくれましたぞ。": "Oh, Detective Kinner.|This is <pc>.|They said they'd take care of things."
     },
     "10": {
-        "「こちらは　ヴェリナード城から参られた|　キンナー殿だ。遺跡の調査員をしておられる。": "This is Mr. Kinnard from Verinard Castle.|He's a researcher at the ruins."
+        "「こちらは　ヴェリナード城から参られた|　キンナー殿だ。遺跡の調査員をしておられる。": "This is Mr. Kinner from Verinard Castle.|He's a researcher at the ruins."
     },
     "11": {
         "「どうも。ヴェリナード王立調査団の|　キンナーと申します。": "Greetings. My name is Kinner of the Verinard|Royal Investigative Unit."
