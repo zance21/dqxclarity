@@ -60,34 +60,34 @@
         "「さあ　思いだしてみてよ……。": "Come on, let's see if you can remember..."
     },
     "21": {
-        "<center>よお　<pc>……。": "yo!<pc> ..."
+        "<center>よお　<pc>……。": "Hey, <pc>..."
     },
     "22": {
-        "<center>ねえ　<pc>……。": "hey<pc> ..."
+        "<center>ねえ　<pc>……。": "Hey, <pc>..."
     },
     "23": {
-        "<if_woman><center>お姉ちゃん　お姉ちゃん……。<else><center>お兄ちゃん　お兄ちゃん……。<endif>": "<if_woman>Sis. Sis...<else>Big brother. Big brother...<endif>"
+        "<if_woman><center>お姉ちゃん　お姉ちゃん……。<else><center>お兄ちゃん　お兄ちゃん……。<endif>": "<if_woman>Sis... sis...<else>Bro... Bro...<endif>"
     },
     "24": {
-        "「<pc>さま　<pc>さま！": "<pc>  appearance<pc> Sir!"
+        "「<pc>さま　<pc>さま！": "<pc>, <pc>!"
     },
     "25": {
-        "「あの　大丈夫でございましょうか……？ |　ひどく　うなされておられた|　ご様子でしたので……。": "Are you all right, sir? You seemed to be|having a terrible nightmare..."
+        "「あの　大丈夫でございましょうか……？ |　ひどく　うなされておられた|　ご様子でしたので……。": "Are you all right...? It looked like you were|having a terrible nightmare..."
     },
     "26": {
-        "「ああ　そうでした！|　舞踏会の準備が　ととのったようでございます。": "Oh, yes! The preparations for the ball are|complete..."
+        "「ああ　そうでした！|　舞踏会の準備が　ととのったようでございます。": "Oh, that's right! The ballroom's preparations|seem to be in order."
     },
     "27": {
-        "「会場は　大広間となっております。|　この部屋をでて　まっすぐ進んだところにある|　入り口から　ご入場いただけますわ。": "The hall is a large room. You can enter from|the entrance straight ahead..."
+        "「会場は　大広間となっております。|　この部屋をでて　まっすぐ進んだところにある|　入り口から　ご入場いただけますわ。": "It's the Great Hall. You can get there from|the entrance straight ahead."
     },
     "28": {
-        "「よろしければ　ぜひ　アンルシアさまが|　この部屋のタンスに　用意された衣装を|　お召しになってくださいまし。": "If you'd be so kind, I'd like to show you|some of the outfits that Lady Anduleia has|prepared for you in the wardrobe in this|<br>|room."
+        "「よろしければ　ぜひ　アンルシアさまが|　この部屋のタンスに　用意された衣装を|　お召しになってくださいまし。": "If you don't mind, I'd like to show you some|outfits that Lady Anlucia has prepared for you|in this wardrobe."
     },
     "29": {
-        "「アンルシアさまは　<pc>さまとの |　舞踏会を　心待ちにしておられましたので。|　どうぞ　楽しいひと時を……。": "Lady Anne Lucia<pc> She was looking forward to the ball with you,|sir. I'm sure you'll have a wonderful time."
+        "「アンルシアさまは　<pc>さまとの |　舞踏会を　心待ちにしておられましたので。|　どうぞ　楽しいひと時を……。": "Lady Anlucia is much looking forward to the|ball with you, <pc>. Please|have a wonderful time..."
     },
     "30": {
-        "「おおっ　<pc>ではないか！": "oh!<pc> Isn't it!"
+        "「おおっ　<pc>ではないか！": "Oh! If it isn't <pc>!"
     },
     "31": {
         "「六種族の祭典へ　よくぞ　来てくれた！|　今宵は　大いに盛りあがろうぞ！": "Welcome to the Festival of the Six Tribes!|Let's have a great night!"
