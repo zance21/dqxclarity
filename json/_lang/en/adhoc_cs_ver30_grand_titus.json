@@ -42,19 +42,19 @@
         "「舞踏会まで　まだ時間があるみたいなの。|　申し訳ないけれど　少しだけ|　船の中で　ゆっくりしていてくれる？": "Seems like we still have a few hours before|the ball. Would you mind relaxing on the|ship for a while?"
     },
     "15": {
-        "「あなたのために　この船の２階にある|　特等室を　押さえておいたわ！|　そこのメイドさんが　案内してくれるはずよ。": "I've reserved a special room on the second|floor of this ship for you! The maid there|will show you..."
+        "「あなたのために　この船の２階にある|　特等室を　押さえておいたわ！|　そこのメイドさんが　案内してくれるはずよ。": "I've reserved a special room on the ship's|second floor just for you! The maid there|can show you around."
     },
     "16": {
-        "「それじゃあ　私は準備があるから……。|　ふふっ　また後でねっ！": "Well, I've got to get ready, so... I'll see|you later!"
+        "「それじゃあ　私は準備があるから……。|　ふふっ　また後でねっ！": "Well, I've got to get ready, so... I'll see|you around. Hehe!"
     },
     "17": {
-        "<if_woman><center>姉ちゃん　姉ちゃん……。<else><center>兄ちゃん　兄ちゃん……。<endif>": "<if_woman>Sis, Sis...<else>Brother, brother...<endif>"
+        "<if_woman><center>姉ちゃん　姉ちゃん……。<else><center>兄ちゃん　兄ちゃん……。<endif>": "<if_woman>Sis, sis...<else>Bro, bro...<endif>"
     },
     "18": {
-        "「こんなとこで昼寝なんて　のんきだなぁ。|　……しかも　まだ寝ぼけてるでしょ？": "I can't believe I'm taking a nap here. It's|so carefree. ... And you're still asleep,|right?"
+        "「こんなとこで昼寝なんて　のんきだなぁ。|　……しかも　まだ寝ぼけてるでしょ？": "I can't believe you're napping here.|And you're still asleep, right...?"
     },
     "19": {
-        "「じつの弟である　おいらの|　名前や姿も　忘れちゃってたりして。": "I forgot my brother's name, what he looked|like..."
+        "「じつの弟である　おいらの|　名前や姿も　忘れちゃってたりして。": "Maybe you've forgotten your sibling's name,|and even what they looked like."
     },
     "20": {
         "「さあ　思いだしてみてよ……。": "Come on, let's see if you can remember..."
