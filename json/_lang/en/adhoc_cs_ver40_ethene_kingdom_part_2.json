@@ -87,7 +87,7 @@
         "「……仕方あるまい。|　だが　そこで　おとなしくしていろよ！": "... I don't know... But you're gonna stay|right there!"
     },
     "30": {
-        "「……クオード　<pc>。|　私の声が　届いていますか？": " Quads<pc> (speaking spanish) Can you hear me?"
+        "「……クオード　<pc>。|　私の声が　届いていますか？": "Quard, <pc>...|Can you hear me?"
     },
     "31": {
         "「……これから　あなたたち　ふたりに|　大事な　使命を託します。|　私が言うことを　どうか　心にとめてください。": "... I'm going to entrust you both with a very|important mission... I hope you'll take what|I'm about to say..."
@@ -120,7 +120,7 @@
         "「だが　今　王宮に向かえとは|　簡単に　言ってくれる……。": "But it's easy for you to tell me to head for|the palace now..."
     },
     "41": {
-        "「<pc>。今の話を　聞いていただろう？|　至急　軍が管理する　転送の門まで来い。|　王宮へ至る道は　そこにしかない。": "<pc> (speaking spanish) Did you hear what I just|said? We need to get to the military-|controlled transporter gate... The way to the|<br>|palace is through there..."
+        "「<pc>。今の話を　聞いていただろう？|　至急　軍が管理する　転送の門まで来い。|　王宮へ至る道は　そこにしかない。": "Did you hear what I said, <pc>?|We need to go to the military transport gate.|It's the only way inside the palace."
     },
     "42": {
         "「転送の門の場所が　わからなかったら|　その辺にいる　兵士にでも　聞くがいい。|　俺は　先に行って　待っているからな。": "If you don't know where the transporter gate|is, ask any of the soldiers around. I'll go|ahead and wait for you."
@@ -456,7 +456,7 @@
         "「ええい！　くどいわ。いいかげんにしろっ！！": "Yeah, yeah! Fuck... Come on, man!"
     },
     "153": {
-        "「あー。くそっ。|　もう行くぞ　<pc>。ついてこい！": "Uh... We should go.<pc> (speaking spanish) Follow me!"
+        "「あー。くそっ。|　もう行くぞ　<pc>。ついてこい！": "Ah, crap... We gotta go, <pc>.|Follow me!"
     },
     "154": {
         "「<pc>さん。クオード様は　少々|　無茶をするところが　あります。|　どうか　道中　よろしく　お願いしますね。": "<pc> Miss. Master Quorde can be a bit reckless...|Please take care of him on the way..."
