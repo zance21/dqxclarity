@@ -162,16 +162,16 @@
         "「この舞踏会を襲ってくるとは　不敵な奴め。 |　賊の狙いは　我ら王族に　ちがいあるまいな。": "They must be fearless to be able to attack|this ball. Their goal must be to kidnap those|of royalty."
     },
     "55": {
-        "「アンルシア姫と　ラグアス王子……。|　もしや……若き王族が　狙われたのか？|　アストルティアの　未来を担う者が。": "Princess Anduleia and Prince Ragus... What|if... The young royals have been targeted?|The future of Astrutia..."
+        "「アンルシア姫と　ラグアス王子……。|　もしや……若き王族が　狙われたのか？|　アストルティアの　未来を担う者が。": "Anlucia and Raguas... What if... those who are|young and of royalty are being targeted?|Those who hold Astoltia's future..."
     },
     "56": {
-        "<center>できれば　会いたくなかったぜ……<pc>。": "I wish I'd never met you<pc> 。"
+        "<center>できれば　会いたくなかったぜ……<pc>。": "I wish I'd never met you... <pc> ."
     },
     "57": {
-        "<center>できれば　会いたくなかったわ……<pc>。": "I wish I'd never met you<pc> 。"
+        "<center>できれば　会いたくなかったわ……<pc>。": "I wish I'd never met you... <pc>."
     },
     "58": {
-        "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... Your sister...<else>I wish I'd never met you... Brother...<endif>"
+        "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman>I wish I'd never met you... Sister.<else>I wish I'd never met you... Brother.<endif>"
     },
     "59": {
         "「………………あと　４人。": "...Just 4 people left."
