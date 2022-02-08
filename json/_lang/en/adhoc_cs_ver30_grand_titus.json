@@ -90,10 +90,10 @@
         "「おおっ　<pc>ではないか！": "Oh! If it isn't <pc>!"
     },
     "31": {
-        "「六種族の祭典へ　よくぞ　来てくれた！|　今宵は　大いに盛りあがろうぞ！": "Welcome to the Festival of the Six Tribes!|Let's have a great night!"
+        "「六種族の祭典へ　よくぞ　来てくれた！|　今宵は　大いに盛りあがろうぞ！": "Welcome to the Festival of the Six Tribes!|Let's all enjoy ourselves tonight!"
     },
     "32": {
-        "「アンルシアも　そなたと舞踏会に出られる日を|　指折り数えては　楽しみにしておったよ。": "Anne Lucia is counting the days until she can|attend the ball with you."
+        "「アンルシアも　そなたと舞踏会に出られる日を|　指折り数えては　楽しみにしておったよ。": "Anlucia has been counting the days until she'd|be able to attend this ball with you."
     },
     "33": {
         "「今宵の祭典には　アストルティアの|　あまねく王を　招いておるのだ……。": "Tonight we invite all the kings of Astrotasia|to join us in our celebration."
@@ -264,7 +264,7 @@
         "「さあ　思いだしてみて……。": "Now, try to remember..."
     },
     "89": {
-        "「よかった　ちゃんと覚えててくれたんだ！": "Oh, good, you remembered me!"
+        "「よかった　ちゃんと覚えててくれたんだ！": "Oh, good! You did remember me!"
     },
     "90": {
         "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　姉ちゃんは|　どんな時も　おいらの姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　兄ちゃんは|　どんな時も　おいらの兄ちゃんだね！<endif>": "<if_woman>I thought I'd be forgotten, but you're always|my sister!<else>I was afraid you'd forget about me, but|you're still my big brother, no matter what!<endif>"
@@ -282,13 +282,13 @@
         "<if_woman>「おいらが　あんなつらい思いをしたのは|　全部　姉ちゃんのせいなんじゃないか……って。<else>「おいらが　あんなつらい思いをしたのは|　全部　兄ちゃんのせいなんじゃないか……って。<endif>": "<if_woman>Isn't it all your sister's fault that I had|such a hard time? .....<else>Isn't it all your fault that I had such a|hard time? .....<endif>"
     },
     "95": {
-        "「よかった　ちゃんと覚えててくれたんだな！": "Oh, good, you remembered me!"
+        "「よかった　ちゃんと覚えててくれたんだな！": "Oh, good! You did remember me!"
     },
     "96": {
         "「よかった　ちゃんと覚えててくれたのね！": "Thank goodness you remembered me so well!"
     },
     "97": {
-        "「よかった　ちゃんと覚えててくれたんだね！": "Oh, good. You remembered me well!"
+        "「よかった　ちゃんと覚えててくれたんだね！": "Oh, good! You did remember me!"
     },
     "98": {
         "<if_woman>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　オレの　かわいい妹だな！<else>「忘れられてたら　どうしようかと思ったけど|　やっぱり　<pc>は|　どんな時も　オレの　かわいい弟だな！<endif>": "<if_woman>I didn't know what I'd do if they forgot about me| also<pc>   You'll always be my little sister!<else>I didn't know what I'd do if they forgot about me| also<pc> You're always gonna be my little brother,|aren't you?<endif>"
