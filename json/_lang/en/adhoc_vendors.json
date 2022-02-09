@@ -10296,7 +10296,7 @@
         "「どの説明を　聞きますか？|<select_se_off 3>|汗と涙の結晶について|使い込み度について|取りだせる結晶の数|<select_end><break>": "Which explanation do you want to hear?|<select_se_off 3>|About Sweat & Tears Gems|About Usage|Number of Crystals Extracted|<select_end><break>"
     },
     "3433": {
-        "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": ""
+        "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": "Equipment that reaches a usage level of 50 or|higher will yield special crafting materials.|They're called Sweat & Tears Gems!|<br>|The equipment itself will disappear, but its|history of battles will form these gems, to be|passed on to the next piece of equipment!"
     },
     "3434": {
         "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　時々　装備品がキラキラと光り|　使い込み度が　上がることがあります！|<br>|「そして　使い込み度が　５０以上になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できますよ！|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください！|<bw_break>": "The usage level is a number that shows how|much your equipment has been used. Sometimes,|after you've fought a demon that's at least|<br>|as strong as you are, your equipment will|glow and your usage level will increase! And|once your usage level reaches 50, you'll be|<br>|able to extract crystals of sweat and tears|from your equipment... You can check the|current usage level by looking at the|<br>|equipment in detail! However, some items that|can't be crafted by craftsmen won't increase|your usage level, so be careful!<bw_break>"
@@ -10425,7 +10425,7 @@
         "「あなたには　お売りできる品物が|　一つも無いようですね。|　（仮テキスト）|<bw_break>": "It seems you don't have a single item for|sale... (temporary text)<bw_break>"
     },
     "3476": {
-        "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": ""
+        "「使い込み度が　５０以上になるほど使い込まれた|　装備品は　職人仕事に使える　特別な素材を|　取りだせます。それが　汗と涙の結晶です！|<br>|「装備品そのものは　なくなってしまいますが |　旅人たちが戦った証は　この汗と涙の結晶に|　引き継がれて　次の装備品の糧となるのです！|<bw_break>": "Equipment that reaches a usage level of 50 or|higher will yield special crafting materials.|They're called Sweat & Tears Gems!|<br>|The equipment itself will disappear, but its|history of battles will form these gems, to be|passed on to the next piece of equipment!"
     },
     "3477": {
         "「使い込み度とは　装備品が　どれくらい|　使い込まれたかを　示す数値です。|<br>|「自分と同格以上の強さの魔物と戦った後|　装備品がキラキラと光り|　使い込み度が　上がります！|<br>|「一度の戦闘で上がる　使い込み度の量は|　倒した魔物の数によって　変わりますよ！|<br>|「そして　使い込み度が　５０以上になった|　装備品からは　汗と涙の結晶を|　取りだせるようになるのです。|<br>|「今の使い込み度は　その装備品を|　くわしくみると　確認できますよ！|<br>|「ただし　職人が作れない装備品の中には|　使い込み度が　上がらないものもあるので|　そこは　ご注意ください。|<bw_break>": "The level of usage is a number that shows how|much your equipment has been used. After|fighting a demon of the same or greater|<br>|strength as you, your equipment will glow and|your usage level will increase! The amount of|usage increases in a single battle depends on|<br>|the number of demons you defeat! And when|your usage level reaches 50 or more, you'll|be able to extract crystals of sweat and|<br>|tears from your equipment... You can check|your current usage level by looking at the|equipment in detail! Note, however, that some|<br>|items that can't be made by craftsmen won't|increase your level of skill...<bw_break>"
