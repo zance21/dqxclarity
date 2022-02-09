@@ -7,31 +7,31 @@ from errors import (
     MemoryWriteError,
     PatternMultipleResults,
     FailedToReadAddress,
-    messageBoxFatalError,
+    messageBoxFatalError
 )
-from signatures import text_pattern, foot_pattern, index_pattern
-
+from signatures import (
+    text_pattern,
+    foot_pattern,
+    index_pattern
+)
 
 def dqx_mem():
-    """
+    '''
     Instantiates a pymem instance.
-    """
+    '''
     try:
-        return pymem.Pymem("DQXGame.exe")
+        return pymem.Pymem('DQXGame.exe')
     except pymem.exception.ProcessNotFound:
-        messageBoxFatalError(
-            "DQX not found", "Open DQX, get to the title screen and re-launch."
-        )
-
+        messageBoxFatalError('DQX not found', 'Open DQX, get to the title screen and re-launch.')
 
 def read_bytes(address: int, size: int):
-    """
+    '''
     Read n number of bytes at address.
 
     Args:
         address: The address to start at
         bytes_to_read: Number of bytes to read from start of address
-    """
+    '''
     if address is None:
         raise FailedToReadAddress(address)
 
@@ -43,15 +43,14 @@ def read_bytes(address: int, size: int):
     except pymem.exception.MemoryReadError:
         raise MemoryReadError(address)
 
-
 def write_bytes(address: int, value: bytes):
-    """
+    '''
     Write bytes to memory at address.
 
     Args:
         address: The address to write to
         value: The bytes to write
-    """
+    '''
     size = len(value)
 
     try:
@@ -59,39 +58,34 @@ def write_bytes(address: int, value: bytes):
     except pymem.exception.MemoryWriteError:
         raise MemoryWriteError(address)
 
-
 def read_int(address: int):
     return PYM_PROCESS.read_int(address)
 
-
 def read_string(address: int):
-    """
+    '''
     Reads a string from memory at the given address.
-    """
+    '''
     end_addr = address
 
     if end_addr is not None:
         while True:
             result = PYM_PROCESS.read_bytes(end_addr, 1)
             end_addr = end_addr + 1
-            if result == b"\x00":
+            if result == b'\x00':
                 bytes_to_read = end_addr - address
                 break
 
         return PYM_PROCESS.read_string(address, bytes_to_read)
 
-
 def write_string(address: int, text: str):
-    """
+    '''
     Writes a string to memory at the given address.
-    """
-    return PYM_PROCESS.write_string(address, text + "\x00")
-
+    '''
+    return PYM_PROCESS.write_string(address, text + '\x00')
 
 def pattern_scan(
-    pattern: bytes, *, module: str = None, return_multiple: bool = False
-) -> Union[list, int]:
-    """
+    pattern: bytes, *, module: str = None, return_multiple: bool = False) -> Union[list, int]:
+    '''
     Scan for a byte pattern.
 
     Args:
@@ -103,17 +97,14 @@ def pattern_scan(
         PatternMultipleResults: If the pattern returned multiple results and return_multple is False
     Returns:
         A list of results if return_multiple is True. Otherwise, one result.
-    """
+    '''
     if module:
         module = pymem.process.module_from_name(PYM_PROCESS.process_handle, module)
-        found_addresses = _scan_entire_module(
-            PYM_PROCESS.process_handle, module, pattern
-        )
+        found_addresses = _scan_entire_module(PYM_PROCESS.process_handle, module, pattern)
 
     else:
         found_addresses = _scan_all(
-            PYM_PROCESS.process_handle, pattern, return_multiple
-        )
+            PYM_PROCESS.process_handle, pattern, return_multiple)
 
     if (found_length := len(found_addresses)) == 0:
         if return_multiple:
@@ -127,12 +118,11 @@ def pattern_scan(
     else:
         return found_addresses[0]
 
-
 def scan_backwards(start_addr: int, pattern: bytes):
-    """
+    '''
     From start_addr, read bytes backwards until a pattern is found.
     Used primarily for finding the beginning of an adhoc file.
-    """
+    '''
     curr_addr = start_addr
     curr_bytes = bytes()
     segment_size = 120  # give us a buffer to read from
@@ -140,9 +130,7 @@ def scan_backwards(start_addr: int, pattern: bytes):
     loop_count = 1
     while True:
         curr_segment = read_bytes(curr_addr, segment_size)
-        curr_bytes = (
-            curr_segment + curr_bytes
-        )  # want the pattern to be read left to right, so prepending
+        curr_bytes = curr_segment + curr_bytes  # want the pattern to be read left to right, so prepending
         if len(curr_bytes) > segment_buffer_size:
             curr_bytes = curr_bytes[:-segment_size]  # keep our buffer reasonably sized
         if pattern in curr_bytes:  # found our match
@@ -153,13 +141,12 @@ def scan_backwards(start_addr: int, pattern: bytes):
         if loop_count * segment_size > 1000000:
             return False  # this scan is slow, so don't scan forever.
 
-
 def find_first_match(start_addr: int, pattern: bytes) -> int:
-    """
+    '''
     This is so dumb that this has to exist, but scan_pattern_page does not
     find patterns consistently, so we must read this byte by byte
     until we find a match. This works like scan backwards, but the other way around.
-    """
+    '''
     curr_addr = start_addr
     curr_bytes = bytes()
     segment_size = 120  # give us a buffer to read from
@@ -178,15 +165,14 @@ def find_first_match(start_addr: int, pattern: bytes) -> int:
         if loop_count * segment_size > 1000000:
             return False  # this scan is slow, so don't scan forever.
 
-
 def get_ptr_address(base, offsets):
-    """
+    '''
     Gets the address a pointer is pointing to.
 
     Args:
         base: Base of the pointer
         offsets: List of offsets
-    """
+    '''
     addr = PYM_PROCESS.read_int(base)
     for offset in offsets:
         if offset != offsets[-1]:
@@ -194,26 +180,25 @@ def get_ptr_address(base, offsets):
 
     return addr + offsets[-1]
 
-
-def get_base_address(name="DQXGame.exe") -> int:
-    """
+def get_base_address(name='DQXGame.exe') -> int:
+    '''
     Returns the base address of a module. Defaults to DQXGame.exe.
-    """
+    '''
     return pymem.process.module_from_name(PYM_PROCESS.process_handle, name).lpBaseOfDll
 
-
 def get_start_of_game_text(indx_address: int) -> int:
-    """
+    '''
     Returns the address of the first character of text from a loaded
     game file. This should be used when starting at an INDX address.
-    """
+    '''
     address = find_first_match(indx_address, text_pattern)
     loop_count = 1
     if address:
         address += 16  # skip passed all the junk bytes
         while True:  # skip passed the padded 00's
             result = read_bytes(address, 1)
-            if result != b"\x00":
+            if result != b'\x00':
+                address
                 break
             address += 1
             loop_count += 1
@@ -221,7 +206,6 @@ def get_start_of_game_text(indx_address: int) -> int:
                 return False
 
         return address
-
 
 def _scan_page_return_all(handle: int, address: int, pattern):
     mbi = pymem.memory.virtual_query(handle, address)
@@ -248,7 +232,6 @@ def _scan_page_return_all(handle: int, address: int, pattern):
 
     return next_region, found
 
-
 def _scan_entire_module(handle, module, pattern):
     base_address = module.lpBaseOfDll
     max_address = module.lpBaseOfDll + module.SizeOfImage
@@ -261,7 +244,6 @@ def _scan_entire_module(handle, module, pattern):
             found += page_found
 
     return found
-
 
 def _scan_all(handle: int, pattern: bytes, return_multiple: bool = False):
     next_region = 0
@@ -276,6 +258,5 @@ def _scan_all(handle: int, pattern: bytes, return_multiple: bool = False):
             break
 
     return found
-
 
 PYM_PROCESS = dqx_mem()

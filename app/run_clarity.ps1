@@ -1,4 +1,4 @@
-$ClarityFlags = "-wpnc"
+﻿$ClarityFlags = "-pnwc"
 
 $ErrorActionPreference="SilentlyContinue"
 Stop-Transcript | out-null

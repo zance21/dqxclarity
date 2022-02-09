@@ -2,15 +2,15 @@ import sys
 import os
 from json import dumps
 
-
-def cutscene_shellcode(edi_address: str) -> str:
-    """
+def cutscene_shellcode(
+    edi_address: str) -> str:
+    '''
     Returns shellcode for the cutscene file dump function hook.
 
     edi_address: Where adhoc text for cutscene can be found.
-    """
-    local_paths = dumps(sys.path).replace("\\", "\\\\")
-    working_dir = dumps(os.getcwd()).replace("\\", "\\\\")
+    '''
+    local_paths = dumps(sys.path).replace('\\', '\\\\')
+    working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
 
     shellcode = fr"""
 import sys

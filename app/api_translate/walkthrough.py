@@ -2,7 +2,6 @@ import sys
 import os
 from json import dumps
 
-
 def walkthrough_shellcode(
     esi_address: int,
     api_service: str,
@@ -10,14 +9,13 @@ def walkthrough_shellcode(
     api_pro: str,
     api_logging: str,
     api_region: str,
-    debug: bool,
-) -> str:
-    """
+    debug: bool) -> str:
+    '''
     Returns shellcode for the walkthrough function hook.
     ebx_address: Where text can be modified to be fed to the screen
-    """
-    local_paths = dumps(sys.path).replace("\\", "\\\\")
-    working_dir = dumps(os.getcwd()).replace("\\", "\\\\")
+    '''
+    local_paths = dumps(sys.path).replace('\\', '\\\\')
+    working_dir = dumps(os.getcwd()).replace('\\', '\\\\')
 
     shellcode = fr"""
 import sys
