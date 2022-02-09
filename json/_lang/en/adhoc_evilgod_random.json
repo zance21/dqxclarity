@@ -1,6 +1,6 @@
 {
     "1": {
-        "<pipipi_off>|戦禍の眷属を　撃破したが|戦いの中で　条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": ""
+        "<pipipi_off>|戦禍の眷属を　撃破したが|戦いの中で　条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": "<pipipi_off>|You defeated all of the War Allies, but failed|to meet three conditions in the battle, so you|withdrew from the Sky Prison.|<end>"
     },
     "2": {
         "<pipipi_off>|条件を３つ　達成できなかったので|天獄から　撤退した……。|<end>": "<pipipi_off>I failed to complete three of the|requirements, so I withdrew from Tengoku...<end>"
