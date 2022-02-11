@@ -180,64 +180,64 @@
         "「行け！　試験は　今　始まったのだ！！": "Now, go! The test has begun!!"
     },
     "61": {
-        "「ふむ。けっこう　けっこう。|　アサナギよ　カンペキな答えじゃったぞい。|　学びの庭で　しっかり学んできたようじゃな。": "Hmm. It's quite... Asanagi, that's a perfect|answer... It seems you've learned your lesson|in the garden of learning..."
+        "「ふむ。けっこう　けっこう。|　アサナギよ　カンペキな答えじゃったぞい。|　学びの庭で　しっかり学んできたようじゃな。": "Hmm. Very good, very good. That was a perfect|answer, Asanagi. It seems you've learned much|in your time at the Garden of Learning."
     },
     "62": {
-        "「これで　お前さんの知の試練は　終わりじゃ。|　学びの庭へ　戻りなさい。": "Your intellectual ordeal is now at an end.|Return to the Garden of Learning..."
+        "「これで　お前さんの知の試練は　終わりじゃ。|　学びの庭へ　戻りなさい。": "Your test of knowledge is now over.|You may return to the Garden of Learning."
     },
     "63": {
-        "「ありがとうございました。": "Thank you..."
+        "「ありがとうございました。": "Thank you very much."
     },
     "64": {
-        "「それでは　次…… |　誰が　知の試練を受けるのじゃ？": "So, next... Who will stand the test of|knowledge?"
+        "「それでは　次…… |　誰が　知の試練を受けるのじゃ？": "So, who's next...?|Who will take the test of knowledge?"
     },
     "65": {
         "「ふむ……。": "Hmm..."
     },
     "66": {
-        "「おお　<pc>ではないか。|　そんな所に　突っ立っておらんと|　こっちへ来い。": "oh!<pc> Well... Don't just stand there. I'll..."
+        "「おお　<pc>ではないか。|　そんな所に　突っ立っておらんと|　こっちへ来い。": "Oh, if it isn't <pc>.|Don't just stand there, come on over."
     },
     "67": {
-        "「<pc>よ。|　お前さんとは　いく晩も|　ここで　語り明かしたのう。": "<pc> Hey. You and I could sit here all night and|talk..."
+        "「<pc>よ。|　お前さんとは　いく晩も|　ここで　語り明かしたのう。": "<pc>.|You and I have spent many a night talking|here."
     },
     "68": {
-        "「そなたの知識のほど|　知の試練で　試すまでもないことは|　わしが　よう知っておる。": "I know that your knowledge is too great to be|tested by the test of knowledge."
+        "「そなたの知識のほど|　知の試練で　試すまでもないことは|　わしが　よう知っておる。": "I know for a fact that your intellect is far|past any need for this test of knowledge."
     },
     "69": {
-        "「どうじゃ　<pc>。|　お前さんのチカラなら　卒業は確実。|　最後の機会じゃ。わしの問いに答えておくれ。": "large and small buildings, esp shrines and temples<pc> . With your power, we can graduate... The|last chance... Answer my question..."
+        "「どうじゃ　<pc>。|　お前さんのチカラなら　卒業は確実。|　最後の機会じゃ。わしの問いに答えておくれ。": "How about it, <pc>?|With your skill, you're sure to graduate.|This is your last chance.|<br>|Please answer this question."
     },
     "70": {
-        "「では　いくぞ……。": "Okay, here we go..."
+        "「では　いくぞ……。": "Alright, let's begin..."
     },
     "71": {
-        "「我らエルフは　世界樹と　ともに生き|　ともに滅びる運命だという。|　これは　真実であろうか？<yesno><close>": "We Elves are destined to live with the World|Tree and die with it. Is there any truth to|this?<yesno><close>"
+        "「我らエルフは　世界樹と　ともに生き|　ともに滅びる運命だという。|　これは　真実であろうか？<yesno><close>": "It is said that our fate as Elves is to live|and die alongside Yggdrasil, the world tree.|Is this true?<yesno><close>"
     },
     "72": {
-        "「ふむふむ……　なるほど。|　では　次。": "Mmm-hmm... Well... So..."
+        "「ふむふむ……　なるほど。|　では　次。": "Hmm... I see.|Then, the next question."
     },
     "73": {
-        "「遠い昔……　空には|　ふたつの太陽が　のぼっていたという。|　これは　真実であろうか？<yesno><close>": "A long time ago... Two suns were rising in|the sky... Could this be true?<yesno><close>"
+        "「遠い昔……　空には|　ふたつの太陽が　のぼっていたという。|　これは　真実であろうか？<yesno><close>": "In the distant past... it is said that two|suns once rose in the sky. Is this true?<yesno><close>"
     },
     "74": {
-        "「ふむふむ……　なるほど。|　では　最後じゃ。": "Mmm-hmm... Well... Then, the best..."
+        "「ふむふむ……　なるほど。|　では　最後じゃ。": "Hmm... I see.|Well then, last question."
     },
     "75": {
-        "「この知恵の社から見える　光の河……|　聖なるものとも悪しきものとも　言われておる。|　<pc>は　聖なるものと思うかの？<yesno><close>": "From this shrine of wisdom, the River of|Light... Some say it's holy, some say it's|evil...<pc> Do you think that's holy?<yesno><close>"
+        "「この知恵の社から見える　光の河……|　聖なるものとも悪しきものとも　言われておる。|　<pc>は　聖なるものと思うかの？<yesno><close>": "The River of Light, seen from this Shrine of|Wisdom... is both said to be evil and holy.|Do you think it's holy, <pc>?<yesno><close>"
     },
     "76": {
-        "「そうか……。": "Well..."
+        "「そうか……。": "Alright..."
     },
     "77": {
-        "「いやあ　よかった！|　こんなに　めでたいことはない！": "Oh, my goodness! This is the best thing|that's ever happened to me!"
+        "「いやあ　よかった！|　こんなに　めでたいことはない！": "I'm so glad!|I've never been this happy before!"
     },
     "78": {
-        "「<pc>とは　長い間　ずっと議論を|　戦わせてきたが　最後の最後で|　わしと　まったく同じ意見になるとはのう！": "<pc> I've been arguing with you for a long time,|but I never thought we'd end up agreeing on|exactly the same thing!"
+        "「<pc>とは　長い間　ずっと議論を|　戦わせてきたが　最後の最後で|　わしと　まったく同じ意見になるとはのう！": "We've had heated debates over these things for|a long time now, <pc>, but to|think that in the end, your opinions are|<br>|exactly the same as mine!"
     },
     "79": {
-        "「これで　胸のつかえも下りた！|　<pc>と　意見がひとつになったのじゃ。|　これほど　心強いことはない。": "Now I can get it off my chest!<pc> And now that we're on the same page... I've|never been more encouraged..."
+        "「これで　胸のつかえも下りた！|　<pc>と　意見がひとつになったのじゃ。|　これほど　心強いことはない。": "What a load off my chest! I've finally come to|a consensus with <pc>.|Nothing could be more reassuring than that."
     },
     "80": {
-        "「<pc>よ。|　一人前となった　あかつきには|　ともに　飲み明かそうぞ！": "<pc> Hey! When you're on your own, we'll drink|together!"
+        "「<pc>よ。|　一人前となった　あかつきには|　ともに　飲み明かそうぞ！": "Hey, <pc>!|Once you've got your Mark of Adulthood, let's|drink together!"
     },
     "81": {
         "「おっと……　今は　知の試練の最中じゃったな。": "Whoa... I'm in the middle of a test of|knowledge..."
