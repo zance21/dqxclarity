@@ -1,11 +1,11 @@
 {
     "1": {
-        "扉には　カギが　かかっている。": "The door is locked..."
+        "扉には　カギが　かかっている。": "The door is locked tight!"
     },
     "2": {
-        "扉には　カギが　かかっている。|持っているカギでは　開けられなかった。": "The door is locked... I can't open it with|the key I have."
+        "扉には　カギが　かかっている。|持っているカギでは　開けられなかった。": "The door is locked tight!|You don't have the right key."
     },
     "3": {
-        "扉には　カギが　かかっている。|<br>|金のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Would you like to use|the key from the Golden Horn to open the|door?<yesno><close>"
+        "扉には　カギが　かかっている。|<br>|金のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked tight!|<br>|Do you want to open the door with the Gold|Shrine Key?<yesno><close>"
     }
 }
