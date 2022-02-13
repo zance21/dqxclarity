@@ -5,12 +5,12 @@ from loguru import logger
 from pymem.process import inject_dll, module_from_name
 from signatures import (
     dialog_trigger,
-    cutscene_trigger,
+#    cutscene_trigger,
     pyrun_simplestring,
     py_initialize_ex,
     quest_text_trigger,
     walkthrough_text,
-    cutscene_start,
+#    cutscene_start,
     npc_indx_load
 )
 from memory import (
@@ -21,7 +21,7 @@ from memory import (
     pattern_scan
 )
 from api_translate.dialog import translate_shellcode, load_evtx_shellcode
-from api_translate.cutscene import cutscene_shellcode
+#from api_translate.cutscene import cutscene_shellcode
 from api_translate.quest import quest_text_shellcode
 from api_translate.walkthrough import walkthrough_shellcode
 from hook_mgmt.hide_hooks import load_unload_hooks
@@ -288,26 +288,26 @@ def translate_detour(debug: bool):
 
     return detour
 
-def cutscene_detour():
-    '''
-    Hooks the cutscene dialog to translate text and write English instead.
-    '''
-    bytes_to_steal = 5
+#def cutscene_detour():
+#    '''
+#    Hooks the cutscene dialog to translate text and write English instead.
+#    '''
+#    bytes_to_steal = 5
 
-    pre_hook = write_pre_hook_registers()
-    edi = pre_hook['reg_edi']
+#    pre_hook = write_pre_hook_registers()
+#    edi = pre_hook['reg_edi']
 
-    shellcode = cutscene_shellcode(edi)
+#    shellcode = cutscene_shellcode(edi)
 
-    detour = generic_detour(
-        inspect.currentframe().f_code.co_name,
-        pre_hook,
-        cutscene_trigger,
-        bytes_to_steal,
-        shellcode=shellcode
-    )
-
-    return detour
+#    detour = generic_detour(
+#        inspect.currentframe().f_code.co_name,
+#        pre_hook,
+#        cutscene_trigger,
+#        bytes_to_steal,
+#        shellcode=shellcode
+#    )
+#
+#    return detour
 
 def quest_text_detour(debug: bool):
     '''
@@ -367,25 +367,25 @@ def walkthrough_detour(debug: bool):
 
     return detour
 
-def cutscene_started_detour():
-    '''
-    Hook an instruction that is triggered when a cutscene is starting to transition the screen.
-    When this happens, we should immediately unhook all hooks as memory integrity checks start firing.
-    This detour will initially do nothing as unhook code will be passed when all hooks are passed
-    in activate_hooks.
-    '''
-    bytes_to_steal = 6
-    pre_hook = write_pre_hook_registers()
-
-    detour = generic_detour(
-        inspect.currentframe().f_code.co_name,
-        pre_hook,
-        cutscene_start,
-        bytes_to_steal,
-        custom_bytecode=b'\x90'
-    )
-
-    return detour
+#def cutscene_started_detour():
+#   '''
+#    Hook an instruction that is triggered when a cutscene is starting to transition the screen.
+#    When this happens, we should immediately unhook all hooks as memory integrity checks start firing.
+#    This detour will initially do nothing as unhook code will be passed when all hooks are passed
+#    in activate_hooks.
+#    '''
+#    bytes_to_steal = 6
+#    pre_hook = write_pre_hook_registers()
+#
+#    detour = generic_detour(
+#        inspect.currentframe().f_code.co_name,
+#        pre_hook,
+#        cutscene_start,
+#        bytes_to_steal,
+#        custom_bytecode=b'\x90'
+#    )
+#
+#    return detour
 
 def load_indx_detour():
     '''
@@ -418,9 +418,9 @@ def activate_hooks(debug: bool):
     # activates all hooks. add any new hooks to this list
     hooks = []
     #hooks.append(walkthrough_detour(debug)) // leaving disabled until can figure out how to hide from checks
-    hooks.append(cutscene_started_detour())
+#    hooks.append(cutscene_started_detour())
     hooks.append(translate_detour(debug))
-    hooks.append(cutscene_detour())
+#    hooks.append(cutscene_detour())
     hooks.append(quest_text_detour(debug))
     hooks.append(load_indx_detour())
 

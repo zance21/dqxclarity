@@ -315,7 +315,7 @@ def scan_for_adhoc_files():
                     csv_result = query_csv(hex_result)
                     if csv_result:
                         file = csv_result['file']
-                        if 'adhoc_wd_' in file:
+                        if 'adhoc' in file:
                             hex_to_write = bytes.fromhex(generate_hex(file))
                             text_address = get_start_of_game_text(index_address)
                             if text_address:
@@ -379,9 +379,9 @@ def scan_for_walkthrough():
                                             translated_text.encode() + b'\x00'
                                         )
                             else:
-                                time.sleep(5)
+                                time.sleep(2)
             else:
-                time.sleep(5)
+                time.sleep(2)
         except:
             logger.warning('Cannot find DQX process. Must have closed? Exiting.')
             sys.exit()
