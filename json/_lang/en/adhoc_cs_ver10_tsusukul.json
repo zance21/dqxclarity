@@ -300,79 +300,79 @@
         "「<pc>　ここにいたのか。": "There you are, <pc>."
     },
     "101": {
-        "「これから　知の試練の|　合格者発表をするらしいぞ。|　全員　広場に　集まれってさ。": "We're about to announce the winners of the|Trials of Knowledge. Everyone, gather in the|square..."
+        "「これから　知の試練の|　合格者発表をするらしいぞ。|　全員　広場に　集まれってさ。": "They're about to announce who passed the test|of knowledge. Everyone's supposed to gather in|the square."
     },
     "102": {
-        "「それにしても　なんか変だな……。|　まあ　いいけど。": "Anyway, something's wrong... Well..."
+        "「それにしても　なんか変だな……。|　まあ　いいけど。": "But somehow, I have this feeling that|something odd's afoot...|Well, whatever."
     },
     "103": {
-        "「はあ……　帰ってきて　すぐ発表かあ。": "Oh... I'll be home soon..."
+        "「はあ……　帰ってきて　すぐ発表かあ。": "Sigh... They're announcing it when I just got|back."
     },
     "104": {
-        "「<pc>　来たか。": "<pc> ..."
+        "「<pc>　来たか。": "There you are <pc>."
     },
     "105": {
-        "「よし　全員　整列しろ！": "All right, everybody line up!"
+        "「よし　全員　整列しろ！": "Alright, everyone please line up!"
     },
     "106": {
-        "「皆　よく　がんばったな！|　お前たちの答え　確かに受け取った。": "Good job, everybody! I'll take your answers,|I promise."
+        "「皆　よく　がんばったな！|　お前たちの答え　確かに受け取った。": "Tremendous work, everyone!|I've received all of your answers."
     },
     "107": {
-        "「では　さっそく|　一次試験の合格者を　発表しよう！": "Let's begin by announcing who passed the|first round of exams!"
+        "「では　さっそく|　一次試験の合格者を　発表しよう！": "Then I'll get right to it by announcing who|passed the first round of exams!"
     },
     "108": {
-        "「<pc>！": "<pc> ！"
+        "「<pc>！": "<pc>!"
     },
     "109": {
         "「そして　キュウスケ！": "And Kyusuke!"
     },
     "110": {
-        "「以上！！": "Above!!!"
+        "「以上！！": "That is all!!"
     },
     "111": {
-        "「はじめて　知の試練に合格した|　<pc>と　アサナギは　前へ。": "For the first time, I passed the test of knowledge|<pc> And Asanagi..."
+        "「はじめて　知の試練に合格した|　<pc>と　アサナギは　前へ。": "The two who passed the test for the first|time, <pc> and Asanagi, please|step forward."
     },
     "112": {
-        "「知の試練に合格した証として　ふたりに|　ルーラストーンを授与する。使い方は|　寄宿舎の前にいる　ジアンに聞くといい。": "As a sign that you have passed the Trials of|Knowledge, you will both receive a ruler|stone... Jian will show you how to use it in|<br>|front of the boarding house."
+        "「知の試練に合格した証として　ふたりに|　ルーラストーンを授与する。使い方は|　寄宿舎の前にいる　ジアンに聞くといい。": "As a sign that you have passed the test of|knowledge, you both will receive a Zoomstone.|Ask Jian in front of the dorms how to use it."
     },
     "113": {
-        "<pc>は|ルーラストーンを　受け取った！<me 60>": "<pc> has received the Rulastone!<me 60>"
+        "<pc>は|ルーラストーンを　受け取った！<me 60>": "<pc> received a Zoomstone!<me 60>"
     },
     "114": {
-        "「合格者の３名は　巫女の館へ向かえ。 |　そこで　みそぎを受けた者から|　世界樹の丘へ　出発するように。": "The three who pass will go to the shrine of|the maiden... Those who have passed the|purification ceremony will go to the World|<br>|Tree Hill..."
+        "「合格者の３名は　巫女の館へ向かえ。 |　そこで　みそぎを受けた者から|　世界樹の丘へ　出発するように。": "The three who passed must now go to the|priestess' house. Then, once you've undergone|purification, please go to World Tree Hill."
     },
     "115": {
-        "「残りの者は　部屋に　戻りなさい。|　もう１年　修練の　やり直しだ！|　では　解散っ！！": "The rest of us will return to our chambers...|We have one more year of training ahead of|us! Then dismissed!"
+        "「残りの者は　部屋に　戻りなさい。|　もう１年　修練の　やり直しだ！|　では　解散っ！！": "The rest of you, return to your rooms. After|all, you need to get started on another year|of training! Dismissed!!"
     },
     "116": {
-        "「ううっ……。": "Ugh..."
+        "「ううっ……。": "Sniff..."
     },
     "117": {
-        "「やっぱり　ダメだったよ……|　ケキちゃん………。": "I knew it was a bad idea... Keki..."
+        "「やっぱり　ダメだったよ……|　ケキちゃん………。": "I knew it, it was pointless...|Keki..."
     },
     "118": {
-        "「私……　どうしたら　いいの……？": "I... How do I...?"
+        "「私……　どうしたら　いいの……？": "What... am I supposed to do now...?"
     },
     "119": {
-        "「うっ　うっ……。": "Ugh. Ugh..."
+        "「うっ　うっ……。": "*Hic, sniff*..."
     },
     "120": {
-        "「……………………。": "..."
+        "「……………………。": "........................"
     },
     "121": {
-        "「先に行く者と　残される者。|　試験とは　こういうものだ……。|　お前たちが　気に病む必要はない。": "The first to go, the last to stay... This is|what the test is all about. You don't have to|worry about it."
+        "「先に行く者と　残される者。|　試験とは　こういうものだ……。|　お前たちが　気に病む必要はない。": "Those who move forward, and those left in|their wake. That's what exams are all about...|Please don't worry yourself about it."
     },
     "122": {
-        "「傷心に　ひたっていては|　世界樹の丘へ　たどり着けぬぞ。|　さあ　行け　世界樹の若葉たちよ！": "We can't let our broken hearts take us to the|World Tree Hill... Go, go, young leaves of|the world tree!"
+        "「傷心に　ひたっていては|　世界樹の丘へ　たどり着けぬぞ。|　さあ　行け　世界樹の若葉たちよ！": "You'll never reach World Tree Hill with a|broken heart. Now, go forth, young leaves of|Yggdrasil!"
     },
     "123": {
-        "「<pc>さん！": "<pc> Three!"
+        "「<pc>さん！": "<pc>!"
     },
     "124": {
-        "「来てくださって　よかっただ。|　フウラさんが……。": "I'm so glad you're here... Mr. Fourah..."
+        "「来てくださって　よかっただ。|　フウラさんが……。": "I'm so glad you're here.|Fuura is..."
     },
     "125": {
-        "「うっ　ううっ……|　ひっく……　うえっ……。": "Ugh. Ugh... Hiccup... Ugh..."
+        "「うっ　ううっ……|　ひっく……　うえっ……。": "*Sob, sob*... *Hic*... Waah..."
     },
     "126": {
         "「やっぱり　私　バカなんだ……。|　もの覚えの悪い　ダメな子なんだ……。": "I'm such an idiot... I'm a bad kid who can't|remember anything."
