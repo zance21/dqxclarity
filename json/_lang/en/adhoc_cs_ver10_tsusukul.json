@@ -375,79 +375,79 @@
         "「うっ　ううっ……|　ひっく……　うえっ……。": "*Sob, sob*... *Hic*... Waah..."
     },
     "126": {
-        "「やっぱり　私　バカなんだ……。|　もの覚えの悪い　ダメな子なんだ……。": "I'm such an idiot... I'm a bad kid who can't|remember anything."
+        "「やっぱり　私　バカなんだ……。|　もの覚えの悪い　ダメな子なんだ……。": "I'm such an idiot...|I'm a bad kid who can't remember anything..."
     },
     "127": {
-        "「<pc>さまとも　アサナギとも|　キュウスケとも　全然|　アタマのできが　ちがうんだ……。": "<pc> I'm not like you, Asanagi, or Kyusuke at|all..."
+        "「<pc>さまとも　アサナギとも|　キュウスケとも　全然|　アタマのできが　ちがうんだ……。": "I'm not like you, or Asanagi, or Kyusuke..."
     },
     "128": {
-        "「フウラさん　元気さ出すだ。|　<pc>さんが　来てくれただよ！": "Mr. Fourah, how are you...<pc> You're here!"
+        "「フウラさん　元気さ出すだ。|　<pc>さんが　来てくれただよ！": "It's going to be okay, Fuura.|<pc>'s here!"
     },
     "129": {
-        "「<pc>さまが！？": "<pc> The Lord!"
+        "「<pc>さまが！？": "<pc>?!"
     },
     "130": {
-        "「<pc>さま　どうして……？": "<pc> Sir, why...?"
+        "「<pc>さま　どうして……？": "Why, <pc>...?"
     },
     "131": {
-        "「力の試練……　もう始まってるんでしょ？|　こんな所へ　来てる場合じゃないのに。": "Trials of strength... It's already started,|right? I don't think we should be here..."
+        "「力の試練……　もう始まってるんでしょ？|　こんな所へ　来てる場合じゃないのに。": "The test of strength... has already started,|right? This isn't the time for you to be here."
     },
     "132": {
-        "「私を　心配してくれたんだね。|　ごめんね……。": "You were worried about me. I'm sorry..."
+        "「私を　心配してくれたんだね。|　ごめんね……。": "You were worried about me, weren't you?|Sorry..."
     },
     "133": {
-        "「ありがとう　<pc>さま。|　私　もう大丈夫！": "Thank you<pc> sir. I'm okay now!"
+        "「ありがとう　<pc>さま。|　私　もう大丈夫！": "Thank you, <pc>.|I'm okay now!"
     },
     "134": {
-        "「あっ！　そうだ。|　この　<%sEV_ITEM>を　持っていって。": "Aah! ... I have this <%sEV_ITEM>..."
+        "「あっ！　そうだ。|　この　<%sEV_ITEM>を　持っていって。": "Oh, that's right!|Take this <%sEV_ITEM> with you."
     },
     "135": {
-        "<pc>は|<%sEV_ITEM>　５個を　受け取った！<se_nots System 7>": "<pc> has received <%sEV_ITEM> 5!|<se_nots System 7>"
+        "<pc>は|<%sEV_ITEM>　５個を　受け取った！<se_nots System 7>": "<pc>|received five <%sEV_ITEM>s!<se_nots System 7>"
     },
     "136": {
-        "「故郷の　お父さまが　送ってくれたんだけど|　私　ダメだったから……。|　代わりに　<pc>さまが　使って。": "My father back home sent it to me, but I|couldn't, so... Instead.<pc> Sir..."
+        "「故郷の　お父さまが　送ってくれたんだけど|　私　ダメだったから……。|　代わりに　<pc>さまが　使って。": "My dad back home sent these to me, but I|didn't get a chance to use them, so...|you can have it instead."
     },
     "137": {
-        "「<pc>さまは　勉強だけじゃなくて|　チカラも強いから　絶対|　力の試練にも　合格できるよ！": "<pc> You're not just good at studying, you're|strong too, so you can definitely pass the|trials of strength!"
+        "「<pc>さまは　勉強だけじゃなくて|　チカラも強いから　絶対|　力の試練にも　合格できるよ！": "<pc>, you're not just strong in|mind, you're strong in body too, so I know you|can pass the test of strength!"
     },
     "138": {
-        "「もう行って　<pc>さま。|　ありがとうね。|　私　ちょっと　風にあたってくる。": "Just go<pc> sir. Thank you... I got a little wind..."
+        "「もう行って　<pc>さま。|　ありがとうね。|　私　ちょっと　風にあたってくる。": "Go on then, <pc>.|And, thank you.|I'm going to go get some fresh air."
     },
     "139": {
-        "「よくいらっしゃいました。|　若き　世界樹の葉　<pc>よ。|　わたくしの名は　アザユミ……": "Welcome to the... The leaves of the young|world tree.<pc> Hi. My name is Azayumi..."
+        "「よくいらっしゃいました。|　若き　世界樹の葉　<pc>よ。|　わたくしの名は　アザユミ……": "Thank you for coming.|I am Azayumi, one of the Young Leaves of|Yggdrasil..."
     },
     "140": {
-        "「ユーチャーリン！　愛してるっ！！": "Eucharin! I love you!"
+        "「ユーチャーリン！　愛してるっ！！": "I love you, Eucharin!!"
     },
     "141": {
-        "「ふう……。キュウスケさんは|　まだ　中に　いらっしゃるのか。": "Hmm... Mr. Kyusuke is still inside..."
+        "「ふう……。キュウスケさんは|　まだ　中に　いらっしゃるのか。": "Sigh... Kyusuke's still in there?"
     },
     "142": {
-        "「キュウスケさん！|　みそぎは　終わられたのでしょう？|　すみやかに　世界樹の丘へ　ご出発ください！": "Mr. Kyusuke! You have finished your|purification ritual, haven't you? Please|depart for the Hill of the World Tree as soon|<br>|as possible!"
+        "「キュウスケさん！|　みそぎは　終わられたのでしょう？|　すみやかに　世界樹の丘へ　ご出発ください！": "Kyusuke! You've finished the purification|ritual already, haven't you? Please leave for|World Tree Hill immediately!"
     },
     "143": {
-        "「くうっ！　オレは　こうして　みそぎの間で|　ユーチャーリンに会うためだけに|　毎年　若葉の試みに　落第してるんだぞ！": "Damn it! I've been flunking the Wakaba Trials|every year just so I can meet Eucharin in the|Misogi Room!"
+        "「くうっ！　オレは　こうして　みそぎの間で|　ユーチャーリンに会うためだけに|　毎年　若葉の試みに　落第してるんだぞ！": "Rrgh! I'm been flunking the Trial of Young|Leaves every year just so I can meet Eucharin|in the Purification Chamber!"
     },
     "144": {
-        "「年に一度の　貴重な時間なんだから|　ゆっくり会わせてくれても　いいじゃねえか！": "It's only once a year, so why don't you just|let me see her slowly!"
+        "「年に一度の　貴重な時間なんだから|　ゆっくり会わせてくれても　いいじゃねえか！": "This chance only comes around once a year, so|why not give me a little longer, huh?!"
     },
     "145": {
-        "「キュウスケさん……！": "Mr. Kyusuke...!"
+        "「キュウスケさん……！": "Kyusuke...!"
     },
     "146": {
-        "「ああっ　ごめんよ。|　大きな声を　出したりして……。": "Oh, no... You know, if you scream too loud..."
+        "「ああっ　ごめんよ。|　大きな声を　出したりして……。": "Aah, sorry about that.|I'm causing a racket."
     },
     "147": {
-        "「そうだね　キミの立場を悪くしちゃいけない。|　残念だけど　おとなしく帰るよ……。": "You're right. I don't want to put you in a|position where you... I'm sorry, but I'm just|gonna go."
+        "「そうだね　キミの立場を悪くしちゃいけない。|　残念だけど　おとなしく帰るよ……。": "Sorry, I wouldn't want to put you in a bad|position. Unfortunately, it seems I must|quietly take my leave..."
     },
     "148": {
-        "「愛してるよ　ユーチャーリン。": "I love you, eucha..."
+        "「愛してるよ　ユーチャーリン。": "Love you, Eucharin."
     },
     "149": {
-        "「うれしい……　キュウスケさん。": "I'm so happy... Cuus..."
+        "「うれしい……　キュウスケさん。": "I'm so glad... Kyusuke."
     },
     "150": {
-        "「それじゃ　また来年なっ！|　アディオース！！": "See you next year! Adiós!"
+        "「それじゃ　また来年なっ！|　アディオース！！": "Well then, until next year!|Adiós!"
     },
     "151": {
         "「まったく　なげかわしい……。|　あのような者が　知の試練の合格者とは。": "What a pity... Such a man has passed the test|of knowledge..."
