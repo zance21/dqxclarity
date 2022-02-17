@@ -27,7 +27,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "10": {
-        "<speed=0>戦う相手が　いない！": "<speed=0>I have no one to fight!"
+        "<speed=0>戦う相手が　いない！": "<speed=0>You have no one to fight!"
     },
     "11": {
         "<speed=0><%sM_target>は　遠くにいるので|攻撃できない！": "<speed=0><%sM_target> is too far|away to attack!"
@@ -36,7 +36,7 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "13": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
+        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Suspend your adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
     },
     "14": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -54,7 +54,7 @@
         "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0><%sM_item> was thrown away!"
     },
     "19": {
-        "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But I couldn't read it from here."
+        "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But you couldn't read it from here."
     },
     "20": {
         "<speed=0>仲間に　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to invite."
@@ -78,16 +78,16 @@
         "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Invite <%sM_pc> to your party?|<yesno><close>"
     },
     "27": {
-        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>I've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s group? <yesno><close>"
+        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>You've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s party? <yesno><close>"
     },
     "28": {
-        "<speed=0>いまは　仲間を抜けられない！": "<speed=0>I can't leave my people now!"
+        "<speed=0>いまは　仲間を抜けられない！": "<speed=0>You can't leave your party now!"
     },
     "29": {
         "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0>You left the party!"
     },
     "30": {
-        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to disband the party? <yesno><close>"
+        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to disband the party?<yesno><close>"
     },
     "31": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -147,7 +147,7 @@
         "<speed=0><%sM_target>は　遠くにいるので|はなしかけられない！": "<speed=0><%sM_target> is too far away to talk to!"
     },
     "50": {
-        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": "<speed=0>There is no one nearby to perform <%sM_action>!"
+        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": "<speed=0>There is no one nearby to perform|<%sM_action>!"
     },
     "51": {
         "clarity_nt_char_51": "clarity_nt_char_51"
