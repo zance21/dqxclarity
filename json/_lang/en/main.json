@@ -21507,7 +21507,7 @@
         "clarity_nt_char_7169": "clarity_nt_char_7169"
     },
     "7170": {
-        "（<%sM_cook_kouka>）": ""
+        "（<%sM_cook_kouka>）": "(<%sM_cook_kouka>)"
     },
     "7171": {
         "clarity_nt_char_7171": "clarity_nt_char_7171"
@@ -21546,7 +21546,7 @@
         "clarity_nt_char_7182": "clarity_nt_char_7182"
     },
     "7183": {
-        "（設定されていません）": ""
+        "（設定されていません）": "(Not Set)"
     },
     "7184": {
         "伝説の料理（仮）": ""
@@ -21561,22 +21561,22 @@
         "clarity_nt_char_7187": "clarity_nt_char_7187"
     },
     "7188": {
-        "【文字の長さは明かされない】": ""
+        "【文字の長さは明かされない】": "[Word length won't be revealed.]"
     },
     "7189": {
         "clarity_nt_char_7189": "clarity_nt_char_7189"
     },
     "7190": {
-        "【なんの名前かは明かされない】": ""
+        "【なんの名前かは明かされない】": "[Name won't be revealed.]"
     },
     "7191": {
-        "<%sM_00>の<%sM_01>の神聖碑文": "<%sM_00>Holy tablet of <%sM_01>"
+        "<%sM_00>の<%sM_01>の神聖碑文": "<%sM_00> Sacred Scroll of <%sM_01>"
     },
     "7192": {
         "clarity_nt_char_7192": "clarity_nt_char_7192"
     },
     "7193": {
-        "<%sM_timei>で　<%sM_monster>を|倒す時　<%sM_01>が浮かびあがる。": ""
+        "<%sM_timei>で　<%sM_monster>を|倒す時　<%sM_01>が浮かびあがる。": "<%sM_01> will be revealed when|defeating <%sM_monster> at <%sM_timei>."
     },
     "7194": {
         "clarity_nt_char_7194": "clarity_nt_char_7194"
@@ -21585,16 +21585,16 @@
         "<%2dM_cal_MM>月<%2dM_cal_DD>日　<%2dM_hh>：<%02dM_mm>まで": "Until <%2dM_cal_MM>/<%2dM_cal_DD> at <%2dM_hh>:<%02dM_mm>"
     },
     "7196": {
-        "<%sM_pc>へ": ""
+        "<%sM_pc>へ": "To <%sM_pc>"
     },
     "7197": {
-        "<%sM_00>の<%sM_01>の神聖秘文": "<%sM_00>'s <%sM_01> Holy Secret"
+        "<%sM_00>の<%sM_01>の神聖秘文": "<%sM_00>'s <%sM_01> Sacred Text"
     },
     "7198": {
         "clarity_nt_char_7198": "clarity_nt_char_7198"
     },
     "7199": {
-        "よろしくね！": ""
+        "よろしくね！": "Good luck!"
     },
     "7200": {
         "clarity_nt_char_7200": "clarity_nt_char_7200"
@@ -21624,10 +21624,10 @@
         "氷": "I."
     },
     "7209": {
-        "【<%sM_00>である】": ""
+        "【<%sM_00>である】": "[<%sM_00>]"
     },
     "7210": {
-        "【これは<%sM_00>である】": ""
+        "【これは<%sM_00>である】": "[This is a <%sM_00>.]"
     },
     "7211": {
         "clarity_nt_char_7211": "clarity_nt_char_7211"
