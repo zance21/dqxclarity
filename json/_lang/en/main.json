@@ -21753,10 +21753,10 @@
         "デッキ<%sM_deck>を上書き": ""
     },
     "7252": {
-        "デッキのコピー": ""
+        "デッキのコピー": "Copy Deck"
     },
     "7253": {
-        "サジェ|　リルチェラ": "Sajay / Lilcherat"
+        "サジェ|　リルチェラ": "Sajay|Lilcherat"
     },
     "7254": {
         "clarity_nt_char_7254": "clarity_nt_char_7254"
@@ -21816,10 +21816,10 @@
         "clarity_nt_char_7272": "clarity_nt_char_7272"
     },
     "7273": {
-        "デッキ<%sM_deck>を選択中": ""
+        "デッキ<%sM_deck>を選択中": "Selected Deck <%sM_deck>"
     },
     "7274": {
-        "＋<%nM_point_num1>": ""
+        "＋<%nM_point_num1>": "+<%dM_point_num1>"
     },
     "7275": {
         "オンラインID": "Online ID"
@@ -21858,7 +21858,7 @@
         "clarity_nt_char_7286": "clarity_nt_char_7286"
     },
     "7287": {
-        "　　汝が　解き明かした　神聖秘文を|まわりに　大きく　聞こえる声で唱えよ！": ""
+        "　　汝が　解き明かした　神聖秘文を|まわりに　大きく　聞こえる声で唱えよ！": "　Chant the sacred text loudly|so that everyone nearby can hear!"
     },
     "7288": {
         "ＤＱＸポイントをチャージする": "Recharge DQX points."
