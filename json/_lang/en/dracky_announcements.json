@@ -2019,16 +2019,16 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 航海のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the voyage."
     },
     "674": {
-        "神聖秘文の一部が判明したようです": ""
+        "神聖秘文の一部が判明したようです": "Some of the sacred scroll was uncovered."
     },
     "675": {
         "clarity_nt_char_675": "clarity_nt_char_675"
     },
     "676": {
-        "だいじなものの万象流転の書をご確認ください": ""
+        "だいじなものの万象流転の書をご確認ください": "Check the Book of All Things!"
     },
     "677": {
-        "期限切れとなったので 神聖秘文が消えてしまいました": ""
+        "期限切れとなったので 神聖秘文が消えてしまいました": "The sacred text expired and vanished."
     },
     "678": {
         "神聖秘文の期限が切れるまで 残り<%dC_N1>分です": "<%dC_N1> minutes until secret spell expires."
