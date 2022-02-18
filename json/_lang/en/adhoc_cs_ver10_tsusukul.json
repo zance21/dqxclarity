@@ -39,7 +39,7 @@
         "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh dear!<else>No!<endif>"
     },
     "14": {
-        "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<if_woman>Ms.<else>Mr.<endif> <pc>～～!!|Come help me study～～～!!"
+        "「<pc>さま～～！！|　もうちょっとだけ　勉強教えて～～～！！": "<pc>～～!!|Come help me study～～～!!"
     },
     "15": {
         "「<pc>さまっ！？": "<pc>?!"
