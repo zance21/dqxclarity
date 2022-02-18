@@ -201,7 +201,7 @@
         "「<pc>よ。|　お前さんとは　いく晩も|　ここで　語り明かしたのう。": "<pc>.|You and I have spent many a night talking|here."
     },
     "68": {
-        "「そなたの知識のほど|　知の試練で　試すまでもないことは|　わしが　よう知っておる。": "I know for a fact that your intellect is far|past any need for this test of knowledge."
+        "「そなたの知識のほど|　知の試練で　試すまでもないことは|　わしが　よう知っておる。": "I know for a fact that your intellect is far|beyond any need for this test of knowledge."
     },
     "69": {
         "「どうじゃ　<pc>。|　お前さんのチカラなら　卒業は確実。|　最後の機会じゃ。わしの問いに答えておくれ。": "How about it, <pc>?|With your skill, you're sure to graduate.|This is your last chance.|<br>|Please answer this question."
@@ -279,7 +279,7 @@
         "「ほっ……本当！？": "R... really?"
     },
     "94": {
-        "「ありがとう　<pc>さま！|　もう　クヨクヨしないよ。|　<pc>さまが　いてくれるもん。": "Thank you, <pc>!|I won't dwell on it anymore, because I know|you're there for me."
+        "「ありがとう　<pc>さま！|　もう　クヨクヨしないよ。|　<pc>さまが　いてくれるもん。": "Thank you, <pc>!|I won't mope about it anymore, because I know|you're there for me."
     },
     "95": {
         "「うっ……。": "Sniff..."
@@ -294,7 +294,7 @@
         "「それって……　こんな暗い私とは|　友達でいたくないって　意味だよね？": "That means... you don't want to be friends|with me when I'm all gloomy like this, right?"
     },
     "99": {
-        "「わかった　元気出すよ！|　もう　クヨクヨしない。|　<pc>さまに　きらわれたくないもん！": "Alright, then I'll cheer up!|I won't dwell on it anymore, because I don't|want you to look down on me!"
+        "「わかった　元気出すよ！|　もう　クヨクヨしない。|　<pc>さまに　きらわれたくないもん！": "Alright, then I'll cheer up!|I won't mope about it anymore, because I don't|want you to look down on me!"
     },
     "100": {
         "「<pc>　ここにいたのか。": "There you are, <pc>."
@@ -354,7 +354,7 @@
         "「私……　どうしたら　いいの……？": "What... am I supposed to do now...?"
     },
     "119": {
-        "「うっ　うっ……。": "*Hic, sniff*..."
+        "「うっ　うっ……。": "*Hic, sob*..."
     },
     "120": {
         "「……………………。": "........................"
@@ -378,7 +378,7 @@
         "「やっぱり　私　バカなんだ……。|　もの覚えの悪い　ダメな子なんだ……。": "I'm such an idiot...|I'm a bad kid who can't remember anything..."
     },
     "127": {
-        "「<pc>さまとも　アサナギとも|　キュウスケとも　全然|　アタマのできが　ちがうんだ……。": "I'm not like you, or Asanagi, or Kyusuke..."
+        "「<pc>さまとも　アサナギとも|　キュウスケとも　全然|　アタマのできが　ちがうんだ……。": "I'm not like <pc>, or Asanagi, or|Kyusuke..."
     },
     "128": {
         "「フウラさん　元気さ出すだ。|　<pc>さんが　来てくれただよ！": "It's going to be okay, Fuura.|<pc>'s here!"
@@ -390,7 +390,7 @@
         "「<pc>さま　どうして……？": "Why, <pc>...?"
     },
     "131": {
-        "「力の試練……　もう始まってるんでしょ？|　こんな所へ　来てる場合じゃないのに。": "The test of strength... has already started,|right? This isn't the time for you to be here."
+        "「力の試練……　もう始まってるんでしょ？|　こんな所へ　来てる場合じゃないのに。": "The test of strength... has already started,|hasn't it? This isn't the time for you to be|here."
     },
     "132": {
         "「私を　心配してくれたんだね。|　ごめんね……。": "You were worried about me, weren't you?|Sorry..."
@@ -405,13 +405,13 @@
         "<pc>は|<%sEV_ITEM>　５個を　受け取った！<se_nots System 7>": "<pc>|received five <%sEV_ITEM>s!<se_nots System 7>"
     },
     "136": {
-        "「故郷の　お父さまが　送ってくれたんだけど|　私　ダメだったから……。|　代わりに　<pc>さまが　使って。": "My dad back home sent these to me, but I|didn't get a chance to use them, so...|you can have it instead."
+        "「故郷の　お父さまが　送ってくれたんだけど|　私　ダメだったから……。|　代わりに　<pc>さまが　使って。": "My dad back home sent these to me, but I|didn't get a chance to use them, so...|you can have them instead."
     },
     "137": {
         "「<pc>さまは　勉強だけじゃなくて|　チカラも強いから　絶対|　力の試練にも　合格できるよ！": "<pc>, you're not just strong in|mind, you're strong in body too, so I know you|can pass the test of strength!"
     },
     "138": {
-        "「もう行って　<pc>さま。|　ありがとうね。|　私　ちょっと　風にあたってくる。": "Go on then, <pc>.|And, thank you.|I'm going to go get some fresh air."
+        "「もう行って　<pc>さま。|　ありがとうね。|　私　ちょっと　風にあたってくる。": "Go on then, <pc>.|And thank you.|I'm going to go get some fresh air."
     },
     "139": {
         "「よくいらっしゃいました。|　若き　世界樹の葉　<pc>よ。|　わたくしの名は　アザユミ……": "Thank you for coming.|I am Azayumi, one of the Young Leaves of|Yggdrasil..."
@@ -513,7 +513,7 @@
         "「その地で　力の試練を受ける前に|　世界樹の朝つゆにて|　身のけがれを　はらいましょう。": "Before you undergo the test of strength, we|shall first cleanse you with the morning dew|of Yggdrasil, the World Tree."
     },
     "172": {
-        "「世界樹と　風の祝福が|　あなたと共に　ありますように……。": "May the blessings of the world tree and of the|wind be with you..."
+        "「世界樹と　風の祝福が|　あなたと共に　ありますように……。": "May the blessings of the World Tree and of the|wind be with you..."
     },
     "173": {
         "「どうぞ　お気をつけて。": "Please, take care."
