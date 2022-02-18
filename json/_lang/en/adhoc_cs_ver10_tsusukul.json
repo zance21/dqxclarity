@@ -120,7 +120,7 @@
         "「こんなモン　<pc>さんには|　まったく　必要のない物ですよ。|　へっへっへ……。": "This isn't something you'd need at all,|<pc>.|Heh-heh-heh..."
     },
     "41": {
-        "「では　私は　先を急ぎますので！|　アディオース！！！": "Well, I'd better be going.|Adiós!!!"
+        "「では　私は　先を急ぎますので！|　アディオース！！！": "Well, I'd better be going.|Adios!!!"
     },
     "42": {
         "「どうしよう……。|　あんなに　勉強したのに|　ドキドキして　全然　思いだせないの。": "What should I do...?|I've studied so hard, but I can't remember|anything because I'm so nervous."
@@ -132,13 +132,13 @@
         "「<pc>！": "<pc>!"
     },
     "45": {
-        "「うっ　イズヤノイ先生……！": "Oh no, it's Mr. Izuyanoi...!"
+        "「うっ　イズヤノイ先生……！": "Oh no, it's Professor Izuyanoi...!"
     },
     "46": {
         "「いよいよ　この日が来たな。": "Today's the day at last."
     },
     "47": {
-        "「今年の　若葉の試みには|　天才<pc>と　秀才アサナギが挑む。": "This year, the ones attempting the trial will|be our two geniuses,|<pc> and Asanagi."
+        "「今年の　若葉の試みには|　天才<pc>と　秀才アサナギが挑む。": "This year, the ones attempting the trial will|be our two geniuses, <pc> and|Asanagi."
     },
     "48": {
         "「この学びの庭の　創設以来|　はじめて　複数の合格者が出るのではないかと|　皆　楽しみにしているぞ！": "For the first time since the founding of the|Garden of Learning, we're expecting more than|one student to pass!"
@@ -162,7 +162,7 @@
         "「知を試す　一次試験と|　チカラを試す　二次試験……。": "The first is the test of knowledge, and the|second is the test of strength..."
     },
     "55": {
-        "「この双方に合格した者には|　一人前の証が授けられ|　学びの庭を　卒業となる。": "Those who pass both of these tests will receive a Mark of Adulthood and graduate from the Garden of Learning."
+        "「この双方に合格した者には|　一人前の証が授けられ|　学びの庭を　卒業となる。": "Those who pass both of these tests will|receive a Mark of Adulthood and graduate from|the Garden of Learning."
     },
     "56": {
         "「だが　残念ながら|　若葉の試みに　不合格だった者は|　また１年　修練の　やり直しだ！ ": "Unfortunately, however, those who fail the|trial will have to start your training all|over again and wait until next year!"
@@ -171,10 +171,10 @@
         "「……さて。前置きは　これくらいにして|　これより　一次試験を始めよう！": "...So, without further ado, let's begin the|first test!"
     },
     "58": {
-        "「お前たちには　このツスクルの村を出て|　知恵の社へ　行ってもらう。|　そこが　知の試練の会場である。": "Leave Tsusukul Village and go to the Shrine of|Wisdom. That is the site of the Trial of|Knowledge."
+        "「お前たちには　このツスクルの村を出て|　知恵の社へ　行ってもらう。|　そこが　知の試練の会場である。": "Leave Tsusukul Village and go to the Shrine of|Wisdom. That is the site of the test of|knowledge."
     },
     "59": {
-        "「村の外には　魔物がいるからな。|　知恵の社へ向かうことも　また|　お前たちに与えられた　ひとつの試練である！": "There are monsters outside the village.|Traveling to the Shrine of Wisdom is a test in|and of itself!"
+        "「村の外には　魔物がいるからな。|　知恵の社へ向かうことも　また|　お前たちに与えられた　ひとつの試練である！": "There are monsters outside the village.|Traveling to the Wisdom Altar is a test in and|of itself!"
     },
     "60": {
         "「行け！　試験は　今　始まったのだ！！": "Now, go! The test has begun!!"
@@ -792,10 +792,10 @@
         "「アサナギ！": "Asanagi!"
     },
     "265": {
-        "「はあ？": "Huhh?"
+        "「はあ？": "Huh?"
     },
     "266": {
-        "「だから！　<pc>さまが　死んでたのに|　生き返ったの！　なんだか　まるで|　別の魂が　身体の中に入ったみたいに！！": "So that's why! <pc> was dead, then|came back to life! It was as if another soul|had entered their body!!"
+        "「だから！　<pc>さまが　死んでたのに|　生き返ったの！　なんだか　まるで|　別の魂が　身体の中に入ったみたいに！！": "Understand? <pc> was dead, then|came back to life! It was as if another soul|had entered their body!!"
     },
     "267": {
         "「はいはい　わかった　わかった。": "Okay, okay. I get it, I get it already."
@@ -879,7 +879,7 @@
         "「あっ　<pc>さま！": "Oh! <pc>!"
     },
     "294": {
-        "「さあ　学びの徒よ！|　この庭で　学んできた　すべてを|　見せてもらおう！": "Now come, learners!|Let's see everything you've learned in this|Garden!"
+        "「さあ　学びの徒よ！|　この庭で　学んできた　すべてを|　見せてもらおう！": "Now, learners!|Let's see everything you've learned in this|Garden!"
     },
     "295": {
         "「ヒメア様の　お言葉|　しかと　胸に刻んでおくのですよ。|　では　みそぎの間へと　参りましょう。": "I'll be sure to keep Lady Himea's words close|to my heart. Now, let's go to the Purification|Chamber."
