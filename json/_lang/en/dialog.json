@@ -6627,7 +6627,7 @@
         "文字の長さ": "Length"
     },
     "2210": {
-        "いくつかの文字": "A Few Letters"
+        "いくつかの文字": "A few letters"
     },
     "2211": {
         "<%nEV_NUM>番目の文字": "Letter No. <%dEV_NUM>"
@@ -6636,10 +6636,10 @@
         "いずれかの文字": "Any of These Letters"
     },
     "2213": {
-        "文字の名前": "Letter Name"
+        "文字の名前": "Word Topic"
     },
     "2214": {
-        "？？？？？？についての言葉": "About ?????? Words"
+        "？？？？？？についての言葉": "???????"
     },
     "2215": {
         "地名": "Place"
@@ -6663,13 +6663,13 @@
         "アイテム名": "Item Name"
     },
     "2222": {
-        "文字の長さは<%nEV_LEN>文字": "Word is <%dEV_LEN> Characters"
+        "文字の長さは<%nEV_LEN>文字": "Word is <%dEV_LEN> Letters"
     },
     "2223": {
         "clarity_nt_char_2223": "clarity_nt_char_2223"
     },
     "2224": {
-        "文字の長さは？？文字": "Word is ?? Characters"
+        "文字の長さは？？文字": "Word is ?? Letters"
     },
     "2225": {
         "clarity_nt_char_2225": "clarity_nt_char_2225"
