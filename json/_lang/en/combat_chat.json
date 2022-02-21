@@ -5871,16 +5871,16 @@
         "clarity_nt_char_1957": "clarity_nt_char_1957"
     },
     "1958": {
-        "なんと <%sB_EXTRA>が あらわれた！": "what? <%sB_EXTRA> showed up!"
+        "なんと <%sB_EXTRA>が あらわれた！": "<%sB_EXTRA> showed up!"
     },
     "1959": {
-        "<%sB_EXTRA>が もどってきた！": ""
+        "<%sB_EXTRA>が もどってきた！": "<%sB_EXTRA> returned to normal!"
     },
     "1960": {
         "clarity_nt_char_1960": "clarity_nt_char_1960"
     },
     "1961": {
-        "クシャラミたちが あらわれた！": "The Kusharmis showed up!"
+        "クシャラミたちが あらわれた！": "Kusharmi and co. showed up!"
     },
     "1962": {
         "複数の禍の陣が あらわれた！": "There's several of them!"
@@ -5892,7 +5892,7 @@
         "手札を ひとつ前の状態に 戻した！": ""
     },
     "1965": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e acquires <%dB_VALUE> Exp Points received."
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%dB_VALUE> Pの経験値を かくとく！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e received <%dB_VALUE> EXP!"
     },
     "1966": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは <%sB_ACTION>の罠を しかけた。": ""
@@ -5961,10 +5961,10 @@
         "clarity_nt_char_1987": "clarity_nt_char_1987"
     },
     "1988": {
-        "しかし ＭＰが たりなかった。": ""
+        "しかし ＭＰが たりなかった。": "But you didn't have enough MP."
     },
     "1989": {
-        "しかし ＭＰが 足りなかった。": ""
+        "しかし ＭＰが 足りなかった。": "But you didn't have enough MP."
     },
     "1990": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは うまく 炎を はけなかった！": ""
