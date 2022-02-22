@@ -438,7 +438,7 @@
         "「ううっ　ううっ……。": "Waah, waaaaahh..."
     },
     "147": {
-        "「ヒューザ君…と言ったな？": "Huzer... you say?"
+        "「ヒューザ君…と言ったな？": "Hyuza... you say?"
     },
     "148": {
         "「その子ネコを　海に捨てるというのは|　考えなおしてもらえんか？": "Would you please reconsider dumping that|kitten into the ocean?"
@@ -558,7 +558,7 @@
         "「オレは　このガキを見張りながら連れていく。|　お前は　チビネコのほうを頼む。": "I'm gonna keep an eye on this kid.|You take care of the kitten."
     },
     "187": {
-        "<pc>は　ヒューザから|子ネコ（だいじなもの）を　受け取った！　<me 60>": "<pc>|received a kitten (Key Item) from Huzer!<me 60>"
+        "<pc>は　ヒューザから|子ネコ（だいじなもの）を　受け取った！　<me 60>": "<pc>|received a kitten (Key Item) from Hyuza!<me 60>"
     },
     "188": {
         "「ほら　行くぞ。|　絶対に　オレから離れるなよ？": "Come on, let's go.|Stay close, okay?"
@@ -825,79 +825,79 @@
         "「カンちがいすんなよ　町長。": "Don't get the wrong idea, mayor."
     },
     "276": {
-        "「もう　あのチビネコを探して|　この町に　来ることはないだろうが|　あいつらは　しょせん　魔物なんだぜ。": "I don't think they'll be coming to this town|looking for that little cat anymore, but|they're demons after all..."
+        "「もう　あのチビネコを探して|　この町に　来ることはないだろうが|　あいつらは　しょせん　魔物なんだぜ。": "I don't think they'll come to town looking for|that kitten anymore, but they're still|monsters, after all."
     },
     "277": {
-        "「確かにな。だが　町の周りから|　ネコの魔物が　いなくなっただけでも|　私には　ありがたいのだよ。": "Well... But just the fact that there are no|more cat demons around town is a blessing in|disguise."
+        "「確かにな。だが　町の周りから|　ネコの魔物が　いなくなっただけでも|　私には　ありがたいのだよ。": "Even so, the fact that there are no more cat|monsters in town is a blessing in and of|itself."
     },
     "278": {
-        "「このジュレットに住む者に　安心を与えるのが|　町長たる　私の役目なのだからな。": "As mayor, it is my job to make sure that the|people of Juliette feel safe..."
+        "「このジュレットに住む者に　安心を与えるのが|　町長たる　私の役目なのだからな。": "As mayor, it's my job to make sure that the|people of Julet feel safe."
     },
     "279": {
-        "「ふーん　そりゃ　ご立派なことで。": "Well, that's very impressive..."
+        "「ふーん　そりゃ　ご立派なことで。": "Hmph, how very magnanimous of you."
     },
     "280": {
-        "「君たちの　はたらきは　じつに見事だった。|　まさに　我が町のキーエンブレムを|　与えるに　ふさわしい。": "Your work is truly remarkable... You are|truly deserving of the key emblem of our|city..."
+        "「君たちの　はたらきは　じつに見事だった。|　まさに　我が町のキーエンブレムを|　与えるに　ふさわしい。": "You've done an outstanding job.|You are deserving of our town's Key Emblem."
     },
     "281": {
-        "「さあ　この青のキーエンブレムを|　受け取るがいい！": "Now take this blue key emblem!"
+        "「さあ　この青のキーエンブレムを|　受け取るがいい！": "Now, please receive the Blue Key Emblem!"
     },
     "282": {
-        "<pc>は|青のキーエンブレム（だいじなもの）を|受け取った！<me 72>": "<pc> has received a blue key emblem (a very|important one)!<me 72>"
+        "<pc>は|青のキーエンブレム（だいじなもの）を|受け取った！<me 72>": "<pc>|received the blue key emblem (Key Item)!<me 72>"
     },
     "283": {
-        "「もちろん　君にもだ。|　さあ　受け取ってくれ　ヒューザ君。": "Of course you... Come on, take it, Hugh..."
+        "「もちろん　君にもだ。|　さあ　受け取ってくれ　ヒューザ君。": "Of course, you get one too. Here, take it, Hyuza."
     },
     "284": {
-        "「いらねえ。": "い..."
+        "「いらねえ。": "Don't need it."
     },
     "285": {
-        "「なに？　しかし　このキーエンブレムがあれば|　他の国でも　信頼を得やすい。|　持っていて　損はないと思うが……。": "What? But with this key emblem, we can gain|the trust of other countries... It's a good|thing to have, I suppose."
+        "「なに？　しかし　このキーエンブレムがあれば|　他の国でも　信頼を得やすい。|　持っていて　損はないと思うが……。": "What? But with this Key Emblem, it's easy to|gain the trust of other countries. It's a very|useful thing to have..."
     },
     "286": {
-        "「オレは　そんなもんには　頼らない。|　自分のチカラで　人に認めさせてやる。　|　レーンの村を出たとき　そう決めたんだ。": "I'm not gonna rely on that. I'm going to use|my own strength to get people to accept me.|That's what I decided when I left Lane's|<br>|village."
+        "「オレは　そんなもんには　頼らない。|　自分のチカラで　人に認めさせてやる。　|　レーンの村を出たとき　そう決めたんだ。": "I'm not gonna rely on something like that.|I'll get people to accept me with my own|strength.|<br>|That's what I decided when I left Lane|Village."
     },
     "287": {
-        "「そうか……。ならば　無理にとは言わない。|　君の好きに　すればいい。": "Okay, well... Well, then I won't force you...|You can do whatever you want."
+        "「そうか……。ならば　無理にとは言わない。|　君の好きに　すればいい。": "I see...|Well, if that's the case, I won't force you.|Do as you please."
     },
     "288": {
-        "「<pc>　付き合ってくれて　ありがとよ。|　オレは　ちょっと寄るとこがあるから|　先に行くぜ。": "<pc> Thanks for hanging out with me. I've got to|make a quick stop, so..."
+        "「<pc>　付き合ってくれて　ありがとよ。|　オレは　ちょっと寄るとこがあるから|　先に行くぜ。": "Thanks for keeping me company,|<pc>. I've got to make a quick|stop, so I'll be heading out first."
     },
     "289": {
-        "「……変わった男だな　彼は。": "... You're a strange man..."
+        "「……変わった男だな　彼は。": "...What a strange man."
     },
     "290": {
-        "「君もまた　旅を続けるのだろう？": "You'll continue your journey, won't you?"
+        "「君もまた　旅を続けるのだろう？": "You're continue your journey, aren't you?"
     },
     "291": {
-        "「近くに来たなら　この町に立ち寄ってくれ。|　では　道中　気をつけてな。": "If you're ever in the area, stop by this|town... Okay, well, be careful on the way..."
+        "「近くに来たなら　この町に立ち寄ってくれ。|　では　道中　気をつけてな。": "If you're ever in the neighborhood, stop by|this town again. Take care."
     },
     "292": {
-        "「…………。": "..."
+        "「…………。": "............"
     },
     "293": {
-        "「お前は　自分に親がいねえのが|　さびしいからって　あのチビネコを|　ずっと　手元に置こうとしてたよな。": "You've been trying to keep that little cat|because you miss your parents..."
+        "「お前は　自分に親がいねえのが|　さびしいからって　あのチビネコを|　ずっと　手元に置こうとしてたよな。": "You've been trying to keep that kitten around|because you're lonely without your parents."
     },
     "294": {
-        "「今でも　そうしたいと思うか？": "Do you still want to do that?"
+        "「今でも　そうしたいと思うか？": "Is that still what you want?"
     },
     "295": {
-        "「…………。": "..."
+        "「…………。": "............"
     },
     "296": {
-        "「ううん　もう思わない。": "No, I thought..."
+        "「ううん　もう思わない。": "No, not anymore."
     },
     "297": {
-        "「頼れる相手がいるヤツは　そいつに頼ればいい。|　だが　いないヤツは……": "If you have someone you can rely on, you can|rely on them... But if you don't..."
+        "「頼れる相手がいるヤツは　そいつに頼ればいい。|　だが　いないヤツは……": "If you have someone to rely on, you can rely|on them. But if you don't, then..."
     },
     "298": {
-        "「自分が　強くなるしかねえんだ。|　誰にも頼らずに　生きていけるようにな。": "I'll be strong... I don't have to rely on|anyone else to survive..."
+        "「自分が　強くなるしかねえんだ。|　誰にも頼らずに　生きていけるようにな。": "You have to become strong yourself, so you can|live without relying on anyone else."
     },
     "299": {
         "「オレは　今まで　そうしてきた。|　これからも　そうやって生きていくつもりだ。": "That's what I've been doing... And that's how|I'll continue to live."
     },
     "300": {
-        "「うん……そうだね。": "Yeah, um... It's..."
+        "「うん……そうだね。": "Yeah... that's right."
     },
     "301": {
         "「別に　お前に　そうしろって|　言ってるわけじゃねえよ。カンちがいすんな。": "I'm not asking you to... I'm just saying..."
