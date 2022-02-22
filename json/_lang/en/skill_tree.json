@@ -1608,7 +1608,7 @@
         "全職業ですばやさ+10": "Natural Agility +10"
     },
     "537": {
-        "どうぐ倍化術（専）": "Item Doubling Tech (EX)"
+        "どうぐ倍化術（専）": "Double Dose (EX)"
     },
     "538": {
         "全職業できようさ+10": "Natural Deftness +10"
@@ -3858,7 +3858,7 @@
         "すばやさが　１０　増えた！": "Agility increased by 10!"
     },
     "1287": {
-        "どうぐ倍化術（専）の特技を　おぼえた！": "You learned Item Doubling Tech!"
+        "どうぐ倍化術（専）の特技を　おぼえた！": "You learned Double Dose!"
     },
     "1288": {
         "きようさが　１０　増えた！": "Deftness increased by 10!"
@@ -8643,7 +8643,7 @@
         "clarity_nt_char_2881": "clarity_nt_char_2881"
     },
     "2882": {
-        "【160P】1%テンション維持": "[160P] 1% Preserve Tension"
+        "【160P】1%テンション維持": "[160P] Maintain Tension 1%"
     },
     "2883": {
         "【170P】2%テンション維持": "[170P] Maintain Tension 2%"
@@ -11118,19 +11118,19 @@
         "clarity_nt_char_3706": "clarity_nt_char_3706"
     },
     "3707": {
-        "1%テンション維持（専）": "1% Preserve Tension (EX)"
+        "1%テンション維持（専）": "Maintain Tension 1% (EX)"
     },
     "3708": {
         "clarity_nt_char_3708": "clarity_nt_char_3708"
     },
     "3709": {
-        "2%テンション維持（専）": "2% Preserve Tension (EX)"
+        "2%テンション維持（専）": "Maintain Tension 2% (EX)"
     },
     "3710": {
         "clarity_nt_char_3710": "clarity_nt_char_3710"
     },
     "3711": {
-        "3%テンション維持（専）": "3% Preserve Tension (EX)"
+        "3%テンション維持（専）": "Maintain Tension 3% (EX)"
     },
     "3712": {
         "clarity_nt_char_3712": "clarity_nt_char_3712"
@@ -20394,7 +20394,7 @@
         "clarity_nt_char_6798": "clarity_nt_char_6798"
     },
     "6799": {
-        "どうぐ使い時　行動したとき|たまにどうぐ倍化術が　かかるようになった！": "You will sometimes gain Item Doubling Tech|when using an action as an Item Master!"
+        "どうぐ使い時　行動したとき|たまにどうぐ倍化術が　かかるようになった！": "You will sometimes gain Double Dose when|using an action as an Item Master!"
     },
     "6800": {
         "リバートハンドⅠ（専）の特技を　おぼえた！": "You learned Revert Hand Ⅰ!"
@@ -20505,13 +20505,13 @@
         "clarity_nt_char_6835": "clarity_nt_char_6835"
     },
     "6836": {
-        "行動時|どうぐ倍化術が|５％でかかる": "5% chance to get|Item Doubling|Tech on action."
+        "行動時|どうぐ倍化術が|５％でかかる": "5% chance to get|Double Dose on|an action."
     },
     "6837": {
         "clarity_nt_char_6837": "clarity_nt_char_6837"
     },
     "6838": {
-        "行動時|どうぐ倍化術が|１０％でかかる": "10% chance to get|Item Doubling|Tech on action."
+        "行動時|どうぐ倍化術が|１０％でかかる": "10% chance to get|Double Dose on|an action."
     },
     "6839": {
         "手札を一つ前の|状態に戻す|占い師専用特技": "Returns your hand|to its previous|state."
@@ -20736,7 +20736,7 @@
         "clarity_nt_char_6912": "clarity_nt_char_6912"
     },
     "6913": {
-        "どうぐ使い時　死亡したとき|たまにどうぐ範囲化術が　残るようになった！": "You will sometimes gain Item Doubling Tech|when you die as an Item Master!"
+        "どうぐ使い時　死亡したとき|たまにどうぐ範囲化術が　残るようになった！": "You will sometimes gain Double Dose when|you die as an Item Master!"
     },
     "6914": {
         "どうぐ使い時　死亡したとき|どうぐ範囲化術が　残るようになった！": "Your Item Range Tech will remain even|after dying as an Item Master!"
@@ -21558,25 +21558,25 @@
         "【200P】プレシャスレイン+5%": "[200P] Precious Rain +5%"
     },
     "7187": {
-        "【160P】50%で不滅のどうぐ倍化術": "[160P] Keep Item Doubling Tech 50%"
+        "【160P】50%で不滅のどうぐ倍化術": "[160P] Keep Double Dose 50%"
     },
     "7188": {
-        "【170P】75%で不滅のどうぐ倍化術": "[160P] Keep Item Doubling Tech 75%"
+        "【170P】75%で不滅のどうぐ倍化術": "[160P] Keep Double Dose 75%"
     },
     "7189": {
-        "【180P】100%で不滅のどうぐ倍化術": "[180P] Keep Item Doubling Tech 100%"
+        "【180P】100%で不滅のどうぐ倍化術": "[180P] Keep Double Dose 100%"
     },
     "7190": {
         "clarity_nt_char_7190": "clarity_nt_char_7190"
     },
     "7191": {
-        "【190P】100%で不滅のどうぐ倍化術": "[190P] Keep Item Doubling Tech 100%"
+        "【190P】100%で不滅のどうぐ倍化術": "[190P] Keep Double Dose 100%"
     },
     "7192": {
         "clarity_nt_char_7192": "clarity_nt_char_7192"
     },
     "7193": {
-        "【200P】100%で不滅のどうぐ倍化術": "[200P] Keep Item Doubling Tech 100%"
+        "【200P】100%で不滅のどうぐ倍化術": "[200P] Keep Double Dose 100%"
     },
     "7194": {
         "clarity_nt_char_7194": "clarity_nt_char_7194"
@@ -21786,13 +21786,13 @@
         "プレシャスレイン+5%": "Precious Rain +5%"
     },
     "7263": {
-        "50%不滅の道具倍化（専）": "Keep Item Doubling Tech 50% (EX)"
+        "50%不滅の道具倍化（専）": "Keep Double Dose 50% (EX)"
     },
     "7264": {
-        "75%不滅の道具倍化（専）": "Keep Item Doubling Tech 75% (EX)"
+        "75%不滅の道具倍化（専）": "Keep Double Dose 75% (EX)"
     },
     "7265": {
-        "100%不滅の道具倍化（専）": "Keep Item Doubling Tech 100% (EX)"
+        "100%不滅の道具倍化（専）": "Keep Double Dose 100% (EX)"
     },
     "7266": {
         "clarity_nt_char_7266": "clarity_nt_char_7266"
@@ -21933,7 +21933,7 @@
         "clarity_nt_char_7311": "clarity_nt_char_7311"
     },
     "7312": {
-        "どうぐ使い時　死亡したとき|どうぐ倍化術が　残るようになった！": "Your Item Doubling Tech will remain even|after dying as an Item Master!"
+        "どうぐ使い時　死亡したとき|どうぐ倍化術が　残るようになった！": "Your Double Dose will remain even after|dying as an Item Master!"
     },
     "7313": {
         "踊り子時　行動間隔が　短くなった！": "Action wait time decreased as a Dancer!"
@@ -22059,19 +22059,19 @@
         "賢者時|ダメージが|２％増える": "Damage +2%|when you're a|Sage."
     },
     "7354": {
-        "死亡時|どうぐ倍化術が|５０％で残る": "50% chance to|keep Item Double|Tech on death."
+        "死亡時|どうぐ倍化術が|５０％で残る": "50% chance to|keep Double Dose|on death."
     },
     "7355": {
         "clarity_nt_char_7355": "clarity_nt_char_7355"
     },
     "7356": {
-        "死亡時|どうぐ倍化術が|７５％で残る": "75% chance to|keep Item Double|Tech on death."
+        "死亡時|どうぐ倍化術が|７５％で残る": "75% chance to|keep Double Dose|on death."
     },
     "7357": {
         "clarity_nt_char_7357": "clarity_nt_char_7357"
     },
     "7358": {
-        "死亡時|どうぐ倍化術が|１００％で残る": "100% chance to|keep Item Double|Tech on death."
+        "死亡時|どうぐ倍化術が|１００％で残る": "100% chance to|keep Double Dose|on death."
     },
     "7359": {
         "踊り子時|行動間隔が|０．５秒短くなる": "Action Wait -0.5s|when you're a|Dancer."
@@ -22200,7 +22200,7 @@
         "プレシャスレインの強化": "Precious Rain Boost"
     },
     "7401": {
-        "不滅のどうぐ倍化術": "Keep Item Doubling Tech"
+        "不滅のどうぐ倍化術": "Keep Double Dose"
     },
     "7402": {
         "攻撃時ためる": "Tension On Attack"
@@ -22221,7 +22221,7 @@
         "きまぐれな行動の発動率": "Whimsical Action Rate"
     },
     "7408": {
-        "行動時|どうぐ倍化術が|１５％でかかる": "15% chance to get|Item Doubling|Tech on action."
+        "行動時|どうぐ倍化術が|１５％でかかる": "15% chance to get|Double Dose on|an action."
     },
     "7409": {
         "装備時呪文発動速度+4%": "Spell Cast Speed +4%"

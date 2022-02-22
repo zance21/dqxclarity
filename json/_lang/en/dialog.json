@@ -27,7 +27,7 @@
         "clarity_nt_char_9": "clarity_nt_char_9"
     },
     "10": {
-        "<speed=0>戦う相手が　いない！": "<speed=0>I have no one to fight!"
+        "<speed=0>戦う相手が　いない！": "<speed=0>You have no one to fight!"
     },
     "11": {
         "<speed=0><%sM_target>は　遠くにいるので|攻撃できない！": "<speed=0><%sM_target> is too far|away to attack!"
@@ -36,7 +36,7 @@
         "clarity_nt_char_12": "clarity_nt_char_12"
     },
     "13": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
+        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|よろしいですか？<yesno><close>": "<speed=0>Suspend your adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white><yesno><close>"
     },
     "14": {
         "clarity_nt_char_14": "clarity_nt_char_14"
@@ -54,7 +54,7 @@
         "<speed=0><%sM_item>を　投げ捨てた！": "<speed=0><%sM_item> was thrown away!"
     },
     "19": {
-        "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But I couldn't read it from here."
+        "<speed=0>しかし　ここからでは　読めなかった。": "<speed=0>But you couldn't read it from here."
     },
     "20": {
         "<speed=0>仲間に　さそえる相手が　近くにいません。": "<speed=0>There's nobody nearby to invite."
@@ -78,16 +78,16 @@
         "<speed=0><%sM_pc>を　仲間に　さそいますか？|<yesno><close>": "<speed=0>Invite <%sM_pc> to your party?|<yesno><close>"
     },
     "27": {
-        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>I've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s group? <yesno><close>"
+        "<speed=0><%sM_pc>に　仲間に誘われました。|<%sM_pc>の仲間に　入りますか？<yesno><close>": "<speed=0>You've been invited to join <%sM_pc>.|<Do you want to join <%sM_pc>'s party? <yesno><close>"
     },
     "28": {
-        "<speed=0>いまは　仲間を抜けられない！": "<speed=0>I can't leave my people now!"
+        "<speed=0>いまは　仲間を抜けられない！": "<speed=0>You can't leave your party now!"
     },
     "29": {
         "<speed=0><%sM_pc>は　仲間から抜けた！": "<speed=0>You left the party!"
     },
     "30": {
-        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to disband the party? <yesno><close>"
+        "<speed=0>パーティを　解散しますか？<yesno><close>": "<speed=0>Would you like to disband the party?<yesno><close>"
     },
     "31": {
         "clarity_nt_char_31": "clarity_nt_char_31"
@@ -147,7 +147,7 @@
         "<speed=0><%sM_target>は　遠くにいるので|はなしかけられない！": "<speed=0><%sM_target> is too far away to talk to!"
     },
     "50": {
-        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": "<speed=0>There is no one nearby to perform <%sM_action>!"
+        "<speed=0><%sM_action>を　となえる相手が|近くにいない！": "<speed=0>There is no one nearby to perform|<%sM_action>!"
     },
     "51": {
         "clarity_nt_char_51": "clarity_nt_char_51"
@@ -2601,7 +2601,7 @@
         "clarity_nt_char_867": "clarity_nt_char_867"
     },
     "868": {
-        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|サポート仲間となるように　酒場登録をしますか？<select>|登録して終了する|そのまま終了する|<select_end><close>": "<speed=0>Interrupt the adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white>Register as a support companion?<select>|Register and Exit|End Now|<select_end><close>"
+        "<speed=0>冒険を中断して　ゲームを終了します。|<color_yellow>※敵がいる場所では　10秒ほど　かかります。<color_white>|サポート仲間となるように　酒場登録をしますか？<select>|登録して終了する|そのまま終了する|<select_end><close>": "<speed=0>Suspend your adventure and end the game?|<color_yellow>*It takes 10 seconds in an area with monsters.|<color_white>Register as a support companion?<select>|Register and Exit|End Now|<select_end><close>"
     },
     "869": {
         "<speed=0>|絵葉書にした写真を　誰かに渡すと|あなたが渡した人から　いろいろな人の手に|渡る可能性がありますので　ご注意ください。": "<speed=0>Please note that by giving someone a|postcard, they will be able to show it to others,|so be careful."
@@ -6624,31 +6624,31 @@
         "<speed=0>今日はすでに　<%sM_monster>との戦いを|クリア済みのため　キュウサイポイントを|得ることはできませんが　行きますか？<yesno><close>": "<speed=0>You've already defeated <%sM_monster> today|and won't receive any Res-Cu Points. Do you|still want to battle them anyway?<yesno><close>"
     },
     "2209": {
-        "文字の長さ": ""
+        "文字の長さ": "Length"
     },
     "2210": {
-        "いくつかの文字": ""
+        "いくつかの文字": "A few letters"
     },
     "2211": {
-        "<%nEV_NUM>番目の文字": "<%nEV_NUM> Character"
+        "<%nEV_NUM>番目の文字": "Letter No. <%dEV_NUM>"
     },
     "2212": {
-        "いずれかの文字": ""
+        "いずれかの文字": "Any of These Letters"
     },
     "2213": {
-        "文字の名前": ""
+        "文字の名前": "Word Topic"
     },
     "2214": {
-        "？？？？？？についての言葉": ""
+        "？？？？？？についての言葉": "???????"
     },
     "2215": {
-        "地名": ""
+        "地名": "Place"
     },
     "2216": {
         "clarity_nt_char_2216": "clarity_nt_char_2216"
     },
     "2217": {
-        "モンスター名": ""
+        "モンスター名": "Monster's Name"
     },
     "2218": {
         "clarity_nt_char_2218": "clarity_nt_char_2218"
@@ -6663,13 +6663,13 @@
         "アイテム名": "Item Name"
     },
     "2222": {
-        "文字の長さは<%nEV_LEN>文字": ""
+        "文字の長さは<%nEV_LEN>文字": "Word is <%dEV_LEN> Letters"
     },
     "2223": {
         "clarity_nt_char_2223": "clarity_nt_char_2223"
     },
     "2224": {
-        "文字の長さは？？文字": ""
+        "文字の長さは？？文字": "Word is ?? Letters"
     },
     "2225": {
         "clarity_nt_char_2225": "clarity_nt_char_2225"
@@ -6696,49 +6696,49 @@
         "clarity_nt_char_2232": "clarity_nt_char_2232"
     },
     "2233": {
-        "炎うず巻く聖なる鳥": "Flame Engulfed Holy Bird"
+        "炎うず巻く聖なる鳥": "Fiery Holy Bird"
     },
     "2234": {
-        "氷にまぎれし聖なる者": "Holy One Covered in Ice"
+        "氷にまぎれし聖なる者": "Frozen Holy One"
     },
     "2235": {
         "clarity_nt_char_2235": "clarity_nt_char_2235"
     },
     "2236": {
-        "闇に唄う白面の隠者": "White Face Sings Dark Song"
+        "闇に唄う白面の隠者": "Dark Singing Hermit"
     },
     "2237": {
-        "水しぶき舞う海の精": "Splashing Spirit of the Sea"
+        "水しぶき舞う海の精": "Splashing Sea Spirit"
     },
     "2238": {
-        "嵐なき森に佇む獣の王": "Beast King in Stormless Forest"
+        "嵐なき森に佇む獣の王": "Stormless Beast King"
     },
     "2239": {
         "clarity_nt_char_2239": "clarity_nt_char_2239"
     },
     "2240": {
-        "天かける七色の橋": ""
+        "天かける七色の橋": "Rainbow Sky Bridge"
     },
     "2241": {
         "clarity_nt_char_2241": "clarity_nt_char_2241"
     },
     "2242": {
-        "悦びの浮き島": ""
+        "悦びの浮き島": "Floating Island"
     },
     "2243": {
         "clarity_nt_char_2243": "clarity_nt_char_2243"
     },
     "2244": {
-        "輝ける生命の群生": ""
+        "輝ける生命の群生": "Swarm of Life"
     },
     "2245": {
         "clarity_nt_char_2245": "clarity_nt_char_2245"
     },
     "2246": {
-        "水底にたゆたうもの": ""
+        "水底にたゆたうもの": "Undersea Dwellers"
     },
     "2247": {
-        "静かな蒼穹のほほえみ": ""
+        "静かな蒼穹のほほえみ": "Quiet Azure Smile"
     },
     "2248": {
         "clarity_nt_char_2248": "clarity_nt_char_2248"

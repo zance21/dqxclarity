@@ -948,7 +948,7 @@
         "clarity_nt_char_316": "clarity_nt_char_316"
     },
     "317": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eにより ふしぎなすれちがいを達成！": "Achieved a mysterious passing from \\s<%sC_PC>\\m<%sC_ID>\\!"
     },
     "318": {
         "<%sC_MONSTER>との戦いにさそわれました！": "Invited to fight <%sC_MONSTER>!"
@@ -2019,16 +2019,16 @@
         "\\s<%sC_PC>\\m<%sC_ID>\\eが 航海のさそいを 取り消しました": "\\s<%sC_PC>\\m<%sC_ID>\\e cancelled the voyage."
     },
     "674": {
-        "神聖秘文の一部が判明したようです": ""
+        "神聖秘文の一部が判明したようです": "Some of the sacred scroll was uncovered."
     },
     "675": {
         "clarity_nt_char_675": "clarity_nt_char_675"
     },
     "676": {
-        "だいじなものの万象流転の書をご確認ください": ""
+        "だいじなものの万象流転の書をご確認ください": "Check the Book of All Things!"
     },
     "677": {
-        "期限切れとなったので 神聖秘文が消えてしまいました": ""
+        "期限切れとなったので 神聖秘文が消えてしまいました": "The sacred text expired and vanished."
     },
     "678": {
         "神聖秘文の期限が切れるまで 残り<%dC_N1>分です": "<%dC_N1> minutes until secret spell expires."
@@ -2118,10 +2118,10 @@
         "clarity_nt_char_706": "clarity_nt_char_706"
     },
     "707": {
-        "これで すべての手がかりを解き明かしました": ""
+        "これで すべての手がかりを解き明かしました": "All of the clues have been solved!"
     },
     "708": {
-        "万象流転の書の 神聖秘文が消えてしまいました": ""
+        "万象流転の書の 神聖秘文が消えてしまいました": "The sacred text inside the Book vanished."
     },
     "709": {
         "clarity_nt_char_709": "clarity_nt_char_709"
@@ -2136,7 +2136,7 @@
         "clarity_nt_char_712": "clarity_nt_char_712"
     },
     "713": {
-        "週替わりクエスト達成！ 討伐隊員へ報告に行こう！": ""
+        "週替わりクエスト達成！ 討伐隊員へ報告に行こう！": "Weekly Quest Completed!"
     },
     "714": {
         "clarity_nt_char_714": "clarity_nt_char_714"
@@ -2184,7 +2184,7 @@
         "隠れスライム大会の誘いが 取り消されました": ""
     },
     "729": {
-        "ゾーマの城の攻略に さそわれました！": ""
+        "ゾーマの城の攻略に さそわれました！": "Invited to attack Zoma's Castle!"
     },
     "730": {
         "clarity_nt_char_730": "clarity_nt_char_730"
@@ -2196,7 +2196,7 @@
         "clarity_nt_char_732": "clarity_nt_char_732"
     },
     "733": {
-        "ゾーマの城の誘いが 取り消されました": ""
+        "ゾーマの城の誘いが 取り消されました": "Zoma's Castle invitation was declined."
     },
     "734": {
         "clarity_nt_char_734": "clarity_nt_char_734"
@@ -2316,31 +2316,31 @@
         "clarity_nt_char_772": "clarity_nt_char_772"
     },
     "773": {
-        "マップの南東に 物資を届けたぞ！": ""
+        "マップの南東に 物資を届けたぞ！": "Delivered supplies to the southeast!"
     },
     "774": {
         "clarity_nt_char_774": "clarity_nt_char_774"
     },
     "775": {
-        "マップの南西に 物資を届けたぞ！": ""
+        "マップの南西に 物資を届けたぞ！": "Delivered supplies to the northwest!"
     },
     "776": {
         "clarity_nt_char_776": "clarity_nt_char_776"
     },
     "777": {
-        "マップの北東に 物資を届けたぞ！": ""
+        "マップの北東に 物資を届けたぞ！": "Delivered supplies to the northeast!"
     },
     "778": {
         "clarity_nt_char_778": "clarity_nt_char_778"
     },
     "779": {
-        "マップの北西に 物資を届けたぞ！": ""
+        "マップの北西に 物資を届けたぞ！": "Delivered supplies to the southwest!"
     },
     "780": {
         "clarity_nt_char_780": "clarity_nt_char_780"
     },
     "781": {
-        "橋の中央に 物資を届けたぞ！": ""
+        "橋の中央に 物資を届けたぞ！": "Delivered supplies to the center bridge!"
     },
     "782": {
         "clarity_nt_char_782": "clarity_nt_char_782"
