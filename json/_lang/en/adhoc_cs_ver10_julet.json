@@ -567,7 +567,7 @@
         "「それじゃ　巨猫の巣とやらで　また会おう。|　遅れんなよ　<pc>！": "See ya at the Giant Cat's Nest.|Don't be late, <pc>!"
     },
     "190": {
-        "「キャット・リベリオよ。|　わらわの息子　ジュニアは|　まだ　見つからぬのかえ……。": "Cat Riberio.|My son, Catrick, still hasn't been found, has|he...?"
+        "「キャット・リベリオよ。|　わらわの息子　ジュニアは|　まだ　見つからぬのかえ……。": "Cat Riberio.|My son, Pawtrick, still hasn't been found, has|he...?"
     },
     "191": {
         "「ハッ……。申し訳ありませんニャ。": "Yeah... Forgive me, meow."
@@ -642,7 +642,7 @@
         "「おお　おお……。|　その目。その顔。その愛らしさ。|　見まごうはずもない……。": "Oohhhh...|Those eyes. That face. That loveliness.|There's no mistaking it...
     },
     "215": {
-        "「まさに　わらわの息子　ジュニア。|　よくぞ……よくぞ　生きていてくれた！": "It's my boy, Catrick.|You're still alive after all!"
+        "「まさに　わらわの息子　ジュニア。|　よくぞ……よくぞ　生きていてくれた！": "It's my boy, Pawtrick.|You're still alive after all!"
     },
     "216": {
         "「さあ　ジュニアを　我が元に！": "Come on, give him to me!"
@@ -675,79 +675,79 @@
         "「リベリオ……。そなた　なんということを！": "Riberio... How dare you?!"
     },
     "226": {
-        "「その計画も　キサマらのせいで　失敗ニャ。|　こうなったら　チカラ押しあるのみ！": "And now, because of you and your friends...|I'm going to have to push!"
+        "「その計画も　キサマらのせいで　失敗ニャ。|　こうなったら　チカラ押しあるのみ！": "But because of you lot, that plan failed,|meow. In that case, I'll just use brute force!"
     },
     "227": {
-        "「まずは　キサマらからだ。|　ジュニアとマンマーの始末は　その後ニャ！": "First, we'll take care of Kisama and... Then|we'll deal with Junior and Mumma. Meow!"
+        "「まずは　キサマらからだ。|　ジュニアとマンマーの始末は　その後ニャ！": "First, I'll start with you.|Then I'll deal with Pawtrick and Momma, meow!"
     },
     "228": {
-        "「こいつは　やべえぞ　<cs_pchero>。|　チビネコを　こっちに寄こせ。": "This is a bad idea<cs_pchero>Come here. Bring the little cat over here..."
+        "「こいつは　やべえぞ　<cs_pchero>。|　チビネコを　こっちに寄こせ。": "This guy's bad news, <cs_pchero>.|Bring the kitten over here."
     },
     "229": {
-        "<cs_pchero>は　ヒューザに|子ネコを　取り上げられた！": "<cs_pchero>Huza took the kitten from me!"
+        "<cs_pchero>は　ヒューザに|子ネコを　取り上げられた！": "Hyuza took the kitten from <cs_pchero>!"
     },
     "230": {
-        "「オレは　チビネコとソーミャを守る。|　ブタネコの相手は　お前に　まかせたぜ！": "I'm the little cat and Sawmya... I'll leave|you to deal with the piggy cats!"
+        "「オレは　チビネコとソーミャを守る。|　ブタネコの相手は　お前に　まかせたぜ！": "I'll protect the kitten and Somya.|I'll leave the hairball to you!"
     },
     "231": {
-        "「うおお　ブタネコって言うニャ～～～。|　血祭りに　あげてやるニャ～～～！！": "It's called a piggy cat... I'll bleed you to|death...!"
+        "「うおお　ブタネコって言うニャ～～～。|　血祭りに　あげてやるニャ～～～！！": "GROOOWWRRR!!! DON'T CALL ME HAIRBALL!!!|I'LL BEAT YOU TO A BLOODY PULP, MEOW!!!"
     },
     "232": {
-        "「<cs_pchero>　遅いぜ！": "<cs_pchero>You're late!"
+        "「<cs_pchero>　遅いぜ！": "<cs_pchero>, you're late!"
     },
     "233": {
-        "「むむっ　キサマ……。|　やっつけたと思ったら　まだ生きてたか。": "Mmm. Xama... Just when you thought you had|him, he's still alive..."
+        "「むむっ　キサマ……。|　やっつけたと思ったら　まだ生きてたか。": "Rrgh, this guy...|I thought I killed you, but it seems you're|still alive."
     },
     "234": {
-        "「残念だったな　ブタネコ。": "I'm sorry. Bu..."
+        "「残念だったな　ブタネコ。": "Sorry to disappoint, hairball."
     },
     "235": {
-        "「<cs_pchero>　こいつの相手を頼むぜ。|　子守りしながらじゃ　まともに戦えねえんだ。": "<cs_pchero>I can't fight this guy. I can't fight this|thing while I'm babysitting it."
+        "「<cs_pchero>　こいつの相手を頼むぜ。|　子守りしながらじゃ　まともに戦えねえんだ。": "I need you to take care of this,|<cs_pchero>.|I can't fight properly while babysitting."
     },
     "236": {
-        "「ふん　負け惜しみにしか　聞こえんニャ。|　どのみち　キサマらも　ジュニアも|　マンマーも……": "Huh. Sounds like a sore loser to me...|Anyway, you, Junior, and Mamma..."
+        "「ふん　負け惜しみにしか　聞こえんニャ。|　どのみち　キサマらも　ジュニアも|　マンマーも……": "Hmph, sounds like a poor loser to me, meow.|Regardless, you, Pawtrick, and Momma..."
     },
     "237": {
-        "「みーんな　オレさまが　ブッ倒してやる。|　カクゴするニャ～～～～！！": "I'm gonna take you all down... I'm gonna go|to ～～～～!"
+        "「みーんな　オレさまが　ブッ倒してやる。|　カクゴするニャ～～～～！！": "I'll take you all down.|Prepare yourself, meoooooooow!!"
     },
     "238": {
-        "「ぐむむむ……。キサマのようなヤツに|　このオレさまが　負けるとは……。": "Mmmmmmm... I can't believe I'm losing to a|guy like you..."
+        "「ぐむむむ……。キサマのようなヤツに|　このオレさまが　負けるとは……。": "Guhh... I can't believe I'm losing to someone|like you..."
     },
     "239": {
-        "「こうなったら　ジュニアだけでも|　道連れに　してくれるニャ！": "If I do this, Junior's the only one who can|take me on the road!"
+        "「こうなったら　ジュニアだけでも|　道連れに　してくれるニャ！": "Since it's come to this, I'll just take|Pawtrick with me!"
     },
     "240": {
-        "「きゃあああっ！": "Aah!"
+        "「きゃあああっ！": "Gyaaaaahh!"
     },
     "241": {
-        "「ぐうっ……キサマ……。": "Ugh... Kisama..."
+        "「ぐうっ……キサマ……。": "Guhh... You..."
     },
     "242": {
         "「あんた……。スジが通ってねえな！": "You... You're not making any sense!"
     },
     "243": {
-        "「ぐはあっ！": "Aah!"
+        "「ぐはあっ！": "Gwaaaahh!"
     },
     "244": {
-        "「……ネコを殺しちゃいけねえってな。|　死んだ　じいさんと　約束してるんだ。": "... Don't kill the cat... I promised my dead|grandpa..."
+        "「……ネコを殺しちゃいけねえってな。|　死んだ　じいさんと　約束してるんだ。": "I won't ever kill a cat.|That's what I promised my grandfather before|he died."
     },
     "245": {
-        "「今すぐ　ここから消えな……。": "You need to get out of here right now..."
+        "「今すぐ　ここから消えな……。": "Get out of here now..."
     },
     "246": {
-        "「ひ……ひぃぃぃ！": "Hee... Heee!"
+        "「ひ……ひぃぃぃ！": "E-eeeeeeepp!"
     },
     "247": {
-        "「ほら。お前の出番だぜ。": "Here. You're out..."
+        "「ほら。お前の出番だぜ。": "Look. It's your turn."
     },
     "248": {
-        "「でも　ヒューザ兄ちゃん……。|　この子は　私の……。私の家族……。": "But, brother Huza... This boy is my... My|family..."
+        "「でも　ヒューザ兄ちゃん……。|　この子は　私の……。私の家族……。": "But, Hyuza... This kitten is... my family..."
     },
     "249": {
-        "「親がいない　さびしさは|　お前が　いちばん　よく知ってるはずだろ？": "You know how much I miss my parents, don't|you?"
+        "「親がいない　さびしさは|　お前が　いちばん　よく知ってるはずだろ？": "You know what it's like to miss your parents|more than anyone, don't you?"
     },
     "250": {
-        "「そんなこと！": "Oh, my God!"
+        "「そんなこと！": "Good gracious!"
     },
     "251": {
         "「幼き　ウェディの者よ。|　そなたが　わらわのジュニアの命を|　救ってくれたのかえ？": "Young Weddy... You saved my Junior's life,|didn't you?"
