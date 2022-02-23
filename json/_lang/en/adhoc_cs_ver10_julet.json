@@ -579,7 +579,7 @@
         "「むむっ！？　何者ニャ　キサマは？": "Hhmmm?! And just who are you?"
     },
     "194": {
-        "「ここが　この猫島を治める女王|　キャット・マンマーさまの|　お部屋と知っての　ロウゼキか！？": "Don't you know this is the room of Cat Momma,|queen over all of Cat Island?!"
+        "「ここが　この猫島を治める女王|　キャット・マンマーさまの|　お部屋と知っての　ロウゼキか！？": "Don't you know that this is the room of Cat|Momma, queen of all of Cat Island?!"
     },
     "195": {
         "「マンマーさまは今　ご子息を失って|　おおいに　心を痛めておられる！|　お慈悲のあるうちに　立ち去るがいいニャ！": "Queen Momma is deeply grieved at the loss of|her son! Leave now while I'm still feeling|merciful, meow!"
@@ -618,7 +618,7 @@
         "「オレたちは　あんたらのお仲間を|　返しにきてやったんだ。": "We're here to return one of your people."
     },
     "207": {
-        "「おい　<cs_pchero>。|　あのチビネコを　このデカネコに見せてやれよ。": "Hey, <cs_pchero>.|Let's show that little cat to this big one."
+        "「おい　<cs_pchero>。|　あのチビネコを　このデカネコに見せてやれよ。": "Hey, <cs_pchero>.|Let's show the little cat to this big one."
     },
     "208": {
         "キャット・マンマーに　子ネコを　見せますか？<yesno><close>": "Would you like to show the kitten to Cat|Momma?<yesno><close>"
@@ -645,19 +645,19 @@
         "「まさに　わらわの息子　ジュニア。|　よくぞ……よくぞ　生きていてくれた！": "It's my boy, Catrick.|You're still alive after all!"
     },
     "216": {
-        "「さあ　ジュニアを　我が元に！": "Come on, give him to me!"
+        "「さあ　ジュニアを　我が元に！": "Come now, give him to me!"
     },
     "217": {
         "「返してやれよ　<cs_pchero>。": "Give him back, <cs_pchero>."
     },
     "218": {
-        "「ちょっと　待ったニャア！！": "Wait a minute, meow!!"
+        "「ちょっと　待ったニャア！！": "Wait just a minute, meow!!"
     },
     "219": {
         "「キサマら　なんてことをしてくれるニャ！|　オレさまの計画を　水のアワにする気か！？": "How dare you, meow?!|Are you trying to turn all my plans into kitty|litter?!"
     },
     "220": {
-        "「……計画とな？": "...Plan, huh?"
+        "「……計画とな？": "...Plans, huh?"
     },
     "221": {
         "「はっ　しまったニャ！": "OH NO, MEOW!"
@@ -681,7 +681,7 @@
         "「まずは　キサマらからだ。|　ジュニアとマンマーの始末は　その後ニャ！": "First, I'll start with you.|Then I'll deal with Catrick and Momma, meow!"
     },
     "228": {
-        "「こいつは　やべえぞ　<cs_pchero>。|　チビネコを　こっちに寄こせ。": "This guy's bad news, <cs_pchero>.|Bring the kitten over here."
+        "「こいつは　やべえぞ　<cs_pchero>。|　チビネコを　こっちに寄こせ。": "This guy's bad news, <cs_pchero>.|Give the kitten to me."
     },
     "229": {
         "<cs_pchero>は　ヒューザに|子ネコを　取り上げられた！": "Hyuza took the kitten from <cs_pchero>!"
@@ -723,13 +723,13 @@
         "「ぐうっ……キサマ……。": "Guhh... You..."
     },
     "242": {
-        "「あんた……。スジが通ってねえな！": "You... You're not making any sense!"
+        "「あんた……。スジが通ってねえな！": "You... you're off your rocker!"
     },
     "243": {
         "「ぐはあっ！": "Gwaaaahh!"
     },
     "244": {
-        "「……ネコを殺しちゃいけねえってな。|　死んだ　じいさんと　約束してるんだ。": "I won't ever kill a cat.|That's what I promised my grandfather before|he died."
+        "「……ネコを殺しちゃいけねえってな。|　死んだ　じいさんと　約束してるんだ。": "I'll never kill a cat.|That's what I promised my grandfather before|he died."
     },
     "245": {
         "「今すぐ　ここから消えな……。": "Get out of here now..."
@@ -738,7 +738,7 @@
         "「ひ……ひぃぃぃ！": "E-eeeeeeepp!"
     },
     "247": {
-        "「ほら。お前の出番だぜ。": "Look. It's your turn."
+        "「ほら。お前の出番だぜ。": "Look. You're up."
     },
     "248": {
         "「でも　ヒューザ兄ちゃん……。|　この子は　私の……。私の家族……。": "But, brother Hyuza... This kitten is...|my family..."
@@ -747,7 +747,7 @@
         "「親がいない　さびしさは|　お前が　いちばん　よく知ってるはずだろ？": "You know what it's like to miss your parents|more than anyone, don't you?"
     },
     "250": {
-        "「そんなこと！": "Good gracious!"
+        "「そんなこと！": "That's...!"
     },
     "251": {
         "「幼き　ウェディの者よ。|　そなたが　わらわのジュニアの命を|　救ってくれたのかえ？": "Young Weddie.|You're the one who saved my Catrick's life,|aren't you?"
@@ -759,16 +759,16 @@
         "「私の家族にするつもりだったの……。|　ごめんなさい……。": "I was going to make him my family...|I'm sorry..."
     },
     "254": {
-        "「あやまらなくてよい。すべては|　わらわの愚かな配下が　しでかしたこと。|　そなたに　落ち度はない。": "You have no need to apologize.|All of this was because of my foolish servant.|You're not the one at fault here."
+        "「あやまらなくてよい。すべては|　わらわの愚かな配下が　しでかしたこと。|　そなたに　落ち度はない。": "No need to apologize.|All of this was because of my foolish servant.|You're not the one at fault here."
     },
     "255": {
         "「そなたはジュニアに　わらわと変わらぬ愛を|　捧げてくれたのであろう？|　ならば　わらわは礼を言わねばならぬ。": "You've given Catrick the same love that I've|given him, haven't you? In that case, I must|thank you."
     },
     "256": {
-        "「この子を……返します。": "Now... please return him to me."
+        "「この子を……返します。": "Now... you can have him back."
     },
     "257": {
-        "「おお……ありがとう。|　わらわの息子……もう　離さぬぞえ。": "Oh, thank you. My son... I'll never lose you again."
+        "「おお……ありがとう。|　わらわの息子……もう　離さぬぞえ。": "Oh, thank you.|My son... I'll never lose you again."
     },
     "258": {
         "「…………。": "............"
@@ -783,7 +783,7 @@
         "「時に　そなたは　ヒューザと言ったな。": "Especially you, the one called Hyuza."
     },
     "262": {
-        "「……なんだよ？": "...What d'ya mean?"
+        "「……なんだよ？": "...What do you mean?"
     },
     "263": {
         "「わらわもな。先代と約束したのだ。|　ウェディの者を殺してはならぬ……とな。": "I, too, swore an oath with my predecessor.|I promised that I would never kill a Weddie."
@@ -807,19 +807,19 @@
         "「……うん。": "...Yeah."
     },
     "270": {
-        "「別れってのは　サッパリやるもんだ。|　ほら　行くぜ！": "Partings are best done quickly.|Come on, let's go!"
+        "「別れってのは　サッパリやるもんだ。|　ほら　行くぜ！": "Partings are best kept quick.|Come on, let's go!"
     },
     "271": {
         "「さようなら　私の……。|　ううん　さようなら　ジュニアちゃん！": "Goodbye, my... No. Goodbye, Catrick!"
     },
     "272": {
-        "「おお　<pc>君。|　話はヒューザ君から　先に聞かせてもらったぞ。": "Ohh, <pc>.|I already heard the story from Hyuza."
+        "「おお　<pc>君。|　話はヒューザ君から　先に聞かせてもらったぞ。": "Oh, <pc>.|I already heard the story from Hyuza."
     },
     "273": {
         "「無事に　子ネコを親ネコに|　返すことが　できたそうではないか！": "I heard you were able to return the kitten to|its parent safe and sound!"
     },
     "274": {
-        "「町の周りをうろついていた　ネコの魔物も|　すっかり　姿が見えなくなってな。|　これで町の者も　ひと安心というところだ。": "The cat monsters that've been prowling about|the town have all but disappeared. The|townspeople were relieved."
+        "「町の周りをうろついていた　ネコの魔物も|　すっかり　姿が見えなくなってな。|　これで町の者も　ひと安心というところだ。": "The cat monsters that've been prowling about|the town have completely vanished. The|townspeople are relieved."
     },
     "275": {
         "「カンちがいすんなよ　町長。": "Don't get the wrong idea, mayor."
@@ -837,16 +837,16 @@
         "「ふーん　そりゃ　ご立派なことで。": "Hmph, how very magnanimous of you."
     },
     "280": {
-        "「君たちの　はたらきは　じつに見事だった。|　まさに　我が町のキーエンブレムを|　与えるに　ふさわしい。": "You've done an outstanding job.|You are deserving of our town's Key Emblem."
+        "「君たちの　はたらきは　じつに見事だった。|　まさに　我が町のキーエンブレムを|　与えるに　ふさわしい。": "You've done an outstanding job.|You're deserving of our town's Key Emblem."
     },
     "281": {
-        "「さあ　この青のキーエンブレムを|　受け取るがいい！": "Now, please receive the Blue Key Emblem!"
+        "「さあ　この青のキーエンブレムを|　受け取るがいい！": "Now, please take the Blue Key Emblem!"
     },
     "282": {
-        "<pc>は|青のキーエンブレム（だいじなもの）を|受け取った！<me 72>": "<pc>|received the blue key emblem (Key Item)!<me 72>"
+        "<pc>は|青のキーエンブレム（だいじなもの）を|受け取った！<me 72>": "<pc>|received the Blue Key Emblem (Key Item)!<me 72>"
     },
     "283": {
-        "「もちろん　君にもだ。|　さあ　受け取ってくれ　ヒューザ君。": "Of course, you get one too. Here, take it, Hyuza."
+        "「もちろん　君にもだ。|　さあ　受け取ってくれ　ヒューザ君。": "Of course, you get one too.|Here, take it, Hyuza."
     },
     "284": {
         "「いらねえ。": "Don't need it."
@@ -912,7 +912,7 @@
         "「ちっ……。変なとこを見られちまったな。|　さっさと旅の続きに　戻るとしよう。": "Tch... You caught me at a weird time.|Let's just get back to our journeys."
     },
     "305": {
-        "「この世界は　広いからな。|　次に会えるのは　いつになるか|　わかったもんじゃねえ。": "This world's a big place.|Who knows when I'll see you again."
+        "「この世界は　広いからな。|　次に会えるのは　いつになるか|　わかったもんじゃねえ。": "The world's a big place.|Who knows when I'll see you again?"
     },
     "306": {
         "「そっちも元気に　やってくれ。|　まあ　殺しても死なねえ　お前なら|　どこに行っても　平気だろうがな。": "I'm sure you'll be fine.|You didn't die even when I killed you, so I'm|sure you'll be alright wherever you go."
@@ -924,7 +924,7 @@
         "「元気でね　ヒューザ兄ちゃん！！": "Take care, brother Hyuza!!"
     },
     "309": {
-        "「……兄ちゃんは　やめろ。": "...Cut that out, I'm not your brother."
+        "「……兄ちゃんは　やめろ。": "...Stop calling me that already."
     },
     "310": {
         "「うん！！": "Okay!!"
@@ -933,7 +933,7 @@
         "「私は　ヒューザ兄ちゃんみたいには|　なれないかもしれないけど……。": "I may not be able to be like brother Hyuza,|but..."
     },
     "312": {
-        "「ひとりでも　生きていけるように|　がんばってみるよ。": "I'll do my best to survive on my own..."
+        "「ひとりでも　生きていけるように|　がんばってみるよ。": "I'll do my best to survive on my own."
     },
     "313": {
         "「それで　大きくなって　いつか|　猫島にいる　あの子に会いにいくんだ。|　お友達になってもらいに！": "Then, one day, I'm going to grow up and meet|that kitten on Cat Island and ask him to be|my friend!"
