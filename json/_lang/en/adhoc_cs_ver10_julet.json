@@ -96,7 +96,7 @@
         "「何をしに来たんだか　知んねえが|　あの娘っ子に　町へ帰るように|　それとなく　言ってきておくんなさい。": "I don't know what she's doing here, but make|sure you tell that little girl to go back to|town."
     },
     "33": {
-        "「ほら……。ミルクを持ってきたよ。": "Here... I've brought you some milk."
+        "「ほら……。ミルクを持ってきたよ。": "Here... I brought you some milk."
     },
     "34": {
         "「あ……。": "Ah..."
@@ -123,7 +123,7 @@
         "「あわてないで。ゆっくり……だよ。": "Don't rush. Slowly, now..."
     },
     "42": {
-        "「みゃうみゃう……。": "Mroww..."
+        "「みゃうみゃう……。": "Meow..."
     },
     "43": {
         "「…………。": "............"
@@ -165,7 +165,7 @@
         "「あなたのおかげで　魔物に|　ジャマされることもなく　ここまで来れました！": "Thanks to you, I've made it this far without|being attacked by monsters!"
     },
     "56": {
-        "「さて……。この辺りには　何か|　異常な様子は　見当たらないでしょうか……。": "Now, then... Do you see anything out of the|ordinary around here...?"
+        "「さて……。この辺りには　何か|　異常な様子は　見当たらないでしょうか……。": "Now, then... Do you see anything unusual|around here...?"
     },
     "57": {
         "「ふむ……。遺跡そのものには|　異常は　なさそうに見えますねえ。": "Hmm... There doesn't seem to be anything|wrong with the ruins themselves..."
@@ -177,13 +177,13 @@
         "「説明しましょう！": "Allow me to explain!"
     },
     "60": {
-        "「この遺跡の奥には　波紋の音叉と呼ばれる|　大切なものが　納められているのです！": "In the depths of these ruins an important item|is housed called the Ripple Tuning Fork!"
+        "「この遺跡の奥には　波紋の音叉と呼ばれる|　大切なものが　納められているのです！": "In the depths of these ruins, an important|item called the Ripple Tuning Fork is housed!"
     },
     "61": {
-        "「ヴェリナードの女王　ディオーレさまが唄う|　恵みの歌のことは　ご存知ですか？": "Have you heard of the Song of Grace sung by|Diole, the Queen of the Verinard?"
+        "「ヴェリナードの女王　ディオーレさまが唄う|　恵みの歌のことは　ご存知ですか？": "Have you heard of the Song of Grace sung by|Diole, queen of the Verinard?"
     },
     "62": {
-        "「女王さまの恵みの歌によって　水は清められ|　この海の　すべての生きとし生けるものに|　守りの加護が　与えられるのです！": "The Queen's Song of Grace will purify the|waters and grant protection to every living|creature in this sea!"
+        "「女王さまの恵みの歌によって　水は清められ|　この海の　すべての生きとし生けるものに|　守りの加護が　与えられるのです！": "The queen's Song of Grace will purify the|waters and grant protection to every living|creature in the sea!"
     },
     "63": {
         "「そして　波紋の音叉は　その恵みの歌を|　諸島全体へと伝えるという　重大な役目を|　果たしているのですよ！": "And the Ripple Tuning Fork plays a vital role|in carrying that Song of Grace throughout the|archipelago!"
@@ -192,7 +192,7 @@
         "「恵みの歌の恩恵が　なくなれば|　ウェナ諸島に　何が起こるか……。": "What will happen to the Wena Islands if the|blessings of the Song of Grace are lost...?"
     },
     "65": {
-        "「こうしては　いられません。|　すぐに　奥へと向かいましょう！": "Something isn't right. We need to go further|in!"
+        "「こうしては　いられません。|　すぐに　奥へと向かいましょう！": "Something's wrong.|We need to go further in!"
     },
     "66": {
         "「<pc>さぁ～ん！": "<pc>～!"
@@ -210,7 +210,7 @@
         "「大変だ！　音叉の機能が|　完全に　止まってしまった！！": "Oh no! The tuning fork has completely stopped!"
     },
     "71": {
-        "「むむむむむ……。|　故障の原因は　わかりました。": "Hhhmmmmmmmmmmmmmmmm...|Okay, I know what caused the malfunction."
+        "「むむむむむ……。|　故障の原因は　わかりました。": "Hhmmmmmmm...|Okay, I know what caused the malfunction."
     },
     "72": {
         "「説明しましょう！": "Allow me to explain!"
@@ -225,7 +225,7 @@
         "「でも　ご安心ください。|　結晶牙は　幸いにも|　この遺跡の中で　得られるものなのです。": "But worry not. Fortunately, Crystal Fangs can|be found in these very ruins."
     },
     "76": {
-        "「……というわけで　<pc>さん。|　すみませんが　ちょっと戻って|　結晶牙を１本　手に入れてきてくれませんか？": " So<pc> Three. Excuse me, could you go back and get|me one of those crystalline fangs, please?"
+        "「……というわけで　<pc>さん。|　すみませんが　ちょっと戻って|　結晶牙を１本　手に入れてきてくれませんか？": " ...So, <pc>.|Would you mind going back and getting me one|of those Crystal Fangs?"
     },
     "77": {
         "「結晶牙は　この遺跡に出現する|　デスマエストロを倒すと　よく落としますから。": "Crystal Fangs are often dropped by the Death|Maestros that appear in these ruins."
@@ -237,7 +237,7 @@
         "「あっ　<pc>さん！|　どうです？　結晶牙は　手に入りましたか？": "Oh, <pc>!|How's it going?|Did you find a Crystal Fang?"
     },
     "80": {
-        "「それがあれば　すぐにでも|　音叉を直すことが　できるのです。|　結晶牙を　私に　くださいますか？<yesno><close>": "Can I have the Crystal Fang?|I can fix the tuning fork as soon as you give|it to me.<yesno><close>"
+        "「それがあれば　すぐにでも|　音叉を直すことが　できるのです。|　結晶牙を　私に　くださいますか？<yesno><close>": "Can I have it?|I can fix the tuning fork as soon as you give|it to me.<yesno><close>"
     },
     "81": {
         "「そうですか。まだ手に入っていないのですね。|　あまり　時間はないのです。|　なんとしても　間に合わせなくては……。": "Is that so? You don't have it yet, huh?|We don't have much time.|We have to make it in time at any cost..."
@@ -252,7 +252,7 @@
         "「結晶牙は　この遺跡に出現する|　デスマエストロを倒すと　よく落とします。|　１本でいいので　手に入れてきてください！": "Crystal Fangs are often dropped by the Death|Maestros that appear in these ruins.|You only need to find one of them!"
     },
     "85": {
-        "「おお　さすが　<pc>さんだ！": "Oh, you're here!"
+        "「おお　さすが　<pc>さんだ！": "Oh, great work, <pc>!"
     },
     "86": {
         "「これで　音叉を修理できます。|　ありがとうございます　<pc>さん！": "Now I can fix the tuning fork.|Thanks so much, <pc>!"
@@ -267,7 +267,7 @@
         "「ラーディス王は　王位を妻にゆずり|　その一生を　この神殿の建造に捧げたと|　伝えられていましてねえ。": "It's said that King Ladis gave up his throne|to his wife and devoted his life to building|this temple."
     },
     "90": {
-        "「波紋の音叉を守るため　あえて　このような所に|　神殿を造ったということなのですが……。|<br>|「それだけのために　こんな大がかりな建物を|　命がけで造ったとは　私には思えません。": "It's said that the temple was built in a place|like this on purpose to protect the Ripple|Tuning Fork...|<br>|But I don't think they risked their lives to|build an enormous place like this just for|that."
+        "「波紋の音叉を守るため　あえて　このような所に|　神殿を造ったということなのですが……。|<br>|「それだけのために　こんな大がかりな建物を|　命がけで造ったとは　私には思えません。": "Apparently the temple was built in a place|like this on purpose to protect the Ripple|Tuning Fork...|<br>|But I don't think they risked their lives to|build an enormous place like this just for|that."
     },
     "91": {
         "「何か　他の……大きな目的が|　あったのではないかと　私は推測しています。": "I suspect... that there was some other,|greater purpose behind it."
@@ -321,7 +321,7 @@
         "「む……。不満そうな顔だな。|　それでは　足りないというのか？": "Hmm... You don't seem pleased...|Is that not enough?"
     },
     "108": {
-        "「……ふむ　そうか。|　君は　キーエンブレムが　ほしかったのか。": "...Ahh, I see.|So you wanted the Key Emblem."
+        "「……ふむ　そうか。|　君は　キーエンブレムが　ほしかったのか。": "...Ahh, I see.|So you wanted a Key Emblem."
     },
     "109": {
         "「だが　いくら　町長である私の頼みとはいえ|　人の手助けをした程度で|　キーエンブレムを与えることは　できん。": "However, even though I'm the mayor, I can't|give you a Key Emblem for something small like|this."
@@ -336,10 +336,10 @@
         "「なにごとだ！？": "What's going on?!"
     },
     "113": {
-        "「た……大変だ　町長！！|　町の中にネコが　いやがったんだ！": "W... we have a problem!!|There's a cat in town!"
+        "「た……大変だ　町長！！|　町の中にネコが　いやがったんだ！": "W-we have a problem!!|There's a cat in town!"
     },
     "114": {
-        "「ソーミャだ！　あいつがネコを！！": "It's Somya! They have a cat!!"
+        "「ソーミャだ！　あいつがネコを！！": "It's Somya! She's got a cat!!"
     },
     "115": {
         "「なに！？　ソーミャと　ネコに|　なんの関係があるというのだ？": "What?! What's Somya got to do with the cats?"
@@ -369,25 +369,25 @@
         "「……ソーミャ　これは　なんだ？|　お前が　連れてきたというのか！？": "...Somya, what's going on?|Did you bring this thing here?!"
     },
     "124": {
-        "「うちの息子は　ネコの魔物に|　ケガを　させられたんだぞ。|　それを町の中に連れ込むなんて　許せねえ！": "My son was wounded by a cat monster...|I can't believe you brought one into our town!"
+        "「うちの息子は　ネコの魔物に|　ケガを　させられたんだぞ。|　それを町の中に連れ込むなんて　許せねえ！": "My son was wounded by a cat monster...|I can't believe she brought one into our town!"
     },
     "125": {
-        "「このところ　町の周りに|　やたら　ネコの魔物が　うろついているのは|　これが原因だったんじゃないんですか！？": "Is this why there've been so many cat monsters|skulking about town lately?!"
+        "「このところ　町の周りに|　やたら　ネコの魔物が　うろついているのは|　これが原因だったんじゃないんですか！？": "Is this why there've been so many cat monsters|skulking about the town lately?!"
     },
     "126": {
         "「きっと　そうだよ！|　このまま　放っておけないよ！！": "That has to be it! We can't just leave it|here like this!!"
     },
     "127": {
-        "「どうした　町長！？|　このチビネコを　なんとかしてくれよ！！": "What's the matter, mayor? Do something about|this little cat!"
+        "「どうした　町長！？|　このチビネコを　なんとかしてくれよ！！": "What's the matter, mayor? Do something about|this kitten!"
     },
     "128": {
         "「そ……そうだな。|　なんとかせねば　なるまいな。": "Th-that's right.|I have to do something about this."
     },
     "129": {
-        "「……ダメ。": "...Don't."
+        "「……ダメ。": "...Stop."
     },
     "130": {
-        "「……うっ。": "...*Sniff*."
+        "「……うっ。": "...Ack."
     },
     "131": {
         "「町長さん　しっかりしてくださいよ！": "Pull yourself together, mayor!"
@@ -399,28 +399,28 @@
         "「そ　そんなのは　オレの知ったことじゃない。|　町長が　煮るなり焼くなり　好きにすれば……": "Th-that's none of my business. The mayor can|boil it or roast it for all I care..."
     },
     "134": {
-        "「いやあああっ！": "NNOOOOOOO!"
+        "「いやあああっ！": "NNNOOOOOOOOOO!"
     },
     "135": {
-        "「むむむ……。": "Hhmmm..."
+        "「むむむ……。": "Hmmmm..."
     },
     "136": {
-        "「やれやれ……。見ちゃいらんねえな。": "Good grief...|Don't make me look at a sight like that."
+        "「やれやれ……。見ちゃいらんねえな。": "Good grief...|I can't watch this anymore."
     },
     "137": {
-        "「な……なんだね　君は？": "Wh-what's your name?"
+        "「な……なんだね　君は？": "Wh-who are you?"
     },
     "138": {
         "「ただの通りすがりさ。": "I'm just passing through."
     },
     "139": {
-        "「あんたらが　できねえってんなら|　オレが代わりに　こいつを|　海に　放り込んできてやるよ！": "If you lot can't do it, I'll just throw him|into the ocean FOR you!"
+        "「あんたらが　できねえってんなら|　オレが代わりに　こいつを|　海に　放り込んできてやるよ！": "If you lot can't do it, I'll just throw him|into the ocean for you!"
     },
     "140": {
         "「か　返して！！|　その子は　私の家族なのっ。": "G-GIVE HIM BACK!! He's my family..."
     },
     "141": {
-        "「はあ？　家族だ？|　バカ言ってんじゃねえよ。": "Huhhh? Family? Don't be an idiot."
+        "「はあ？　家族だ？|　バカ言ってんじゃねえよ。": "Huh? Family? Don't be an idiot."
     },
     "142": {
         "「おい　待て。本気なのか？": "Hey, wait. Are you serious?"
@@ -429,7 +429,7 @@
         "「当たり前だろ。": "Obviously."
     },
     "144": {
-        "「ま　まずは　私の家で話をしよう！|　それからでも　遅くはない！！": "L-let's talk about it at my place first then!|It's not too late!!"
+        "「ま　まずは　私の家で話をしよう！|　それからでも　遅くはない！！": "L-let's talk about it at my place first!|It's not too late!!"
     },
     "145": {
         "「ふん……。": "Hmph..."
@@ -438,7 +438,7 @@
         "「ううっ　ううっ……。": "Waah, waaaaahh..."
     },
     "147": {
-        "「ヒューザ君…と言ったな？": "Hyuza... you say?"
+        "「ヒューザ君…と言ったな？": "Hyuza... you said?"
     },
     "148": {
         "「その子ネコを　海に捨てるというのは|　考えなおしてもらえんか？": "Would you please reconsider dumping that|kitten into the ocean?"
@@ -450,10 +450,10 @@
         "「いやっ　そうではない。|　確かに　ソーミャは家族がおらず|　あの子の気持ちは　わからないでもないが……。": "Not at all. It's true that Somya doesn't have|a family, and I can't understand how she|feels, but..."
     },
     "151": {
-        "「ネコの魔物が　辺りをうろついていたのは|　その子ネコのせいかも　しれんのだ。|　町に置いておくわけには　いかない。": "Maybe that's why the cat monsters have been|prowling around the town. We can't just leave|it here."
+        "「ネコの魔物が　辺りをうろついていたのは|　その子ネコのせいかも　しれんのだ。|　町に置いておくわけには　いかない。": "Maybe this is why the cat monsters have been|prowling around the town. We can't just leave|it here."
     },
     "152": {
-        "「しかし　そいつを　海に捨てたことが|　やつらに　知られでもしたら|　どんな報復を受けるか　わからんのだ！": "But if they find out that I dumped it in the|ocean, who knows what they'll do to me?!"
+        "「しかし　そいつを　海に捨てたことが|　やつらに　知られでもしたら|　どんな報復を受けるか　わからんのだ！": "But if they found out that you dumped it in|the ocean, who knows what they'd do to me?!"
     },
     "153": {
         "「む……君も来てくれたのか。": "Hmm... You're here, too?"
@@ -468,7 +468,7 @@
         "「ふたりは　知り合いなのかね？": "You two know each other?"
     },
     "157": {
-        "「オレと　<pc>は|　シェルナーの座を　争った仲だぜ。": "WNot too long ago, me 'n <pc>|fought over the title of Shellner."
+        "「オレと　<pc>は|　シェルナーの座を　争った仲だぜ。": "Not too long ago, me 'n <pc>|fought over the title of Shellner."
     },
     "158": {
         "「おお　そうだったのか！|　ならば　あらためて　あいさつしておこう。|　私は　キールの父親のボーレンだ。": "Oh, I had no idea!|Allow me to introduce myself once more, then.|I'm Keel's father, Vollen."
@@ -510,10 +510,10 @@
         "「ならば　猫島という島に　向かうといい。|　そこでは　この地方のネコの魔物たちが|　集団で　暮らしているらしいのだ。": "Head to a place called Cat Island.|It's said that the cat monsters in this area|live there in groups."
     },
     "171": {
-        "「島の奥には　巨猫の巣と呼ばれる|　特別な場所があるとも　聞いている。|　そこに行けば　手がかりが得られるかもしれん。": "I heard there's an important place on the far|side of the island called the Giant Cat's|Nest. If we go there, we might find a clue."
+        "「島の奥には　巨猫の巣と呼ばれる|　特別な場所があるとも　聞いている。|　そこに行けば　手がかりが得られるかもしれん。": "I heard there's an important place on the far|side of the island called the Giant Cat's|Nest. If you go there, you might find a clue."
     },
     "172": {
-        "「ふん。アテがないよりは　マシだな。|　そこへ行ってみるとするか。": "Hmm. It's better than having no plan at all.|I'll go."
+        "「ふん。アテがないよりは　マシだな。|　そこへ行ってみるとするか。": "Hmph. Better than having no plan at all.|I'll go."
     },
     "173": {
         "「これは正式に　私からの依頼としよう。": "This is an official request from me."
@@ -528,7 +528,7 @@
         "「話は決まったな。|　<pc>　付き合ってもらうぜ。": "Alright, I think we're set.|Come on, <pc>."
     },
     "177": {
-        "「ダメ！！|　その子は　私が育てるの！": "STOP!!|I'm going to raise him!"
+        "「ダメ！！|　その子は　私が育てるの！": "Stop!!|I'm going to raise him!"
     },
     "178": {
         "「このガキ。立ち聞きしてやがったな？": "You little brat.|You were eavesdropping, weren't you?"
@@ -555,7 +555,7 @@
         "「<pc>。やっぱ　別行動にさせてくれ。|　荷物が　増えちまったからな。": "<pc>. Seems we have to split up.|We've got too much baggage to carry."
     },
     "186": {
-        "「オレは　このガキを見張りながら連れていく。|　お前は　チビネコのほうを頼む。": "I'm gonna keep an eye on this kid.|You take care of the kitten."
+        "「オレは　このガキを見張りながら連れていく。|　お前は　チビネコのほうを頼む。": "I'm gonna keep an eye on the kid.|You take care of the kitten."
     },
     "187": {
         "<pc>は　ヒューザから|子ネコ（だいじなもの）を　受け取った！　<me 60>": "<pc>|received a kitten (Key Item) from Hyuza!<me 60>"
@@ -564,7 +564,7 @@
         "「ほら　行くぞ。|　絶対に　オレから離れるなよ？": "Come on, let's go.|Stay close, okay?"
     },
     "189": {
-        "「それじゃ　巨猫の巣とやらで　また会おう。|　遅れんなよ　<pc>！": "See ya at the Giant Cat's Nest.|Don't be late, <pc>!"
+        "「それじゃ　巨猫の巣とやらで　また会おう。|　遅れんなよ　<pc>！": "See you at the Giant Cat's Nest.|Don't be late, <pc>!"
     },
     "190": {
         "「キャット・リベリオよ。|　わらわの息子　ジュニアは|　まだ　見つからぬのかえ……。": "Cat Riberio.|My son, Catrick, still hasn't been found, has|he...?"
