@@ -20478,16 +20478,16 @@
         "clarity_nt_char_6826": "clarity_nt_char_6826"
     },
     "6827": {
-        "枚までセット可": "Set Up To 1"
+        "枚までセット可": " Maximum"
     },
     "6828": {
-        "セット数": ""
+        "セット数": "No. Set"
     },
     "6829": {
         "clarity_nt_char_6829": "clarity_nt_char_6829"
     },
     "6830": {
-        "授業を受ける": ""
+        "授業を受ける": "Take Class"
     },
     "6831": {
         "clarity_nt_char_6831": "clarity_nt_char_6831"
@@ -23712,61 +23712,61 @@
         "clarity_nt_char_7904": "clarity_nt_char_7904"
     },
     "7905": {
-        "全て達成": ""
+        "全て達成": "All Cleared"
     },
     "7906": {
         "clarity_nt_char_7906": "clarity_nt_char_7906"
     },
     "7907": {
-        "９つ達成": "9 completed"
+        "９つ達成": "9 Cleared"
     },
     "7908": {
         "clarity_nt_char_7908": "clarity_nt_char_7908"
     },
     "7909": {
-        "８つ達成": "8 completed"
+        "８つ達成": "8 Cleared"
     },
     "7910": {
         "clarity_nt_char_7910": "clarity_nt_char_7910"
     },
     "7911": {
-        "７つ達成": "7 completed"
+        "７つ達成": "7 Cleared"
     },
     "7912": {
         "clarity_nt_char_7912": "clarity_nt_char_7912"
     },
     "7913": {
-        "６つ達成": "6 completed."
+        "６つ達成": "6 Cleared"
     },
     "7914": {
         "clarity_nt_char_7914": "clarity_nt_char_7914"
     },
     "7915": {
-        "５つ達成": "5 completed"
+        "５つ達成": "5 Cleared"
     },
     "7916": {
         "clarity_nt_char_7916": "clarity_nt_char_7916"
     },
     "7917": {
-        "４つ達成": "4 completed"
+        "４つ達成": "4 Cleared"
     },
     "7918": {
         "clarity_nt_char_7918": "clarity_nt_char_7918"
     },
     "7919": {
-        "３つ達成": "3 completed"
+        "３つ達成": "3 Cleared"
     },
     "7920": {
         "clarity_nt_char_7920": "clarity_nt_char_7920"
     },
     "7921": {
-        "２つ達成": "2 completed"
+        "２つ達成": "2 Cleared"
     },
     "7922": {
         "clarity_nt_char_7922": "clarity_nt_char_7922"
     },
     "7923": {
-        "１つ達成": "1 completed"
+        "１つ達成": "1 Cleared"
     },
     "7924": {
         "clarity_nt_char_7924": "clarity_nt_char_7924"
@@ -23853,13 +23853,13 @@
         "メレアーデのお部屋": "Mereade's Room"
     },
     "7952": {
-        "お部屋のネコのお世話": ""
+        "お部屋のネコのお世話": "Care for Cats"
     },
     "7953": {
         "clarity_nt_char_7953": "clarity_nt_char_7953"
     },
     "7954": {
-        "部屋のネコとお別れする": ""
+        "部屋のネコとお別れする": "Part with Cat"
     },
     "7955": {
         "お気に入りを決める": "Decide Favorite"
@@ -23868,7 +23868,7 @@
         "ネコの名前を変える": "Change Cat Name"
     },
     "7957": {
-        "特別なネコ缶をもらう": ""
+        "特別なネコ缶をもらう": "Get Special Cat Food"
     },
     "7958": {
         "clarity_nt_char_7958": "clarity_nt_char_7958"
@@ -23886,7 +23886,7 @@
         "clarity_nt_char_7962": "clarity_nt_char_7962"
     },
     "7963": {
-        "仲間を部屋に招くについて": ""
+        "仲間を部屋に招くについて": "About Inviting Party"
     },
     "7964": {
         "clarity_nt_char_7964": "clarity_nt_char_7964"
@@ -23910,28 +23910,28 @@
         "clarity_nt_char_7970": "clarity_nt_char_7970"
     },
     "7971": {
-        "お部屋のネコの数": ""
+        "お部屋のネコの数": "Cats in Room"
     },
     "7972": {
         "clarity_nt_char_7972": "clarity_nt_char_7972"
     },
     "7973": {
-        "体型：": ""
+        "体型：": "Shape:"
     },
     "7974": {
-        "体長：": ""
+        "体長：": "Length:"
     },
     "7975": {
-        "目：": ""
+        "目：": "Eyes:"
     },
     "7976": {
         "clarity_nt_char_7976": "clarity_nt_char_7976"
     },
     "7977": {
-        "がら：": ""
+        "がら：": "Nature:"
     },
     "7978": {
-        "毛の色：": ""
+        "毛の色：": "Hair Color:"
     },
     "7979": {
         "clarity_nt_char_7979": "clarity_nt_char_7979"
@@ -23982,19 +23982,19 @@
         "ネコ缶をセット": "Set Cat Food"
     },
     "7995": {
-        "他のネコ缶をセット": ""
+        "他のネコ缶をセット": "Set Other Cat Food"
     },
     "7996": {
-        "捕獲グッズをセット": ""
+        "捕獲グッズをセット": "Set Capture Tool"
     },
     "7997": {
-        "バッグのネコを見る": ""
+        "バッグのネコを見る": "View Cat Bag"
     },
     "7998": {
         "ネコ図鑑を見る": "View Cat Album"
     },
     "7999": {
-        "バッグのネコの数": ""
+        "バッグのネコの数": "Cats in Bag"
     },
     "8000": {
         "clarity_nt_char_8000": "clarity_nt_char_8000"
@@ -24003,7 +24003,7 @@
         "ネコ缶": "Cat Food"
     },
     "8002": {
-        "捕獲グッズ": ""
+        "捕獲グッズ": "Capture Tool"
     },
     "8003": {
         "ネコ缶を選ぶ": "Choose Cat Food"
@@ -24012,7 +24012,7 @@
         "clarity_nt_char_8004": "clarity_nt_char_8004"
     },
     "8005": {
-        "捕獲グッズを選ぶ": ""
+        "捕獲グッズを選ぶ": "Choose Capture Tool"
     },
     "8006": {
         "clarity_nt_char_8006": "clarity_nt_char_8006"
@@ -24024,16 +24024,16 @@
         "clarity_nt_char_8008": "clarity_nt_char_8008"
     },
     "8009": {
-        "メレアーデに渡したネコの種類": ""
+        "メレアーデに渡したネコの種類": "Types of Cats Given"
     },
     "8010": {
         "clarity_nt_char_8010": "clarity_nt_char_8010"
     },
     "8011": {
-        "生息域別に見る": ""
+        "生息域別に見る": "View By Habitat"
     },
     "8012": {
-        "全ネコを見る": ""
+        "全ネコを見る": "View All Cats"
     },
     "8013": {
         "clarity_nt_char_8013": "clarity_nt_char_8013"
@@ -24048,10 +24048,10 @@
         "clarity_nt_char_8016": "clarity_nt_char_8016"
     },
     "8017": {
-        "メレアーデに渡した数：": ""
+        "メレアーデに渡した数：": "Number Given"
     },
     "8018": {
-        "主な生息域：": ""
+        "主な生息域：": "Main Habitat"
     },
     "8019": {
         "clarity_nt_char_8019": "clarity_nt_char_8019"
@@ -24144,7 +24144,7 @@
         "イベント名": "Event Name"
     },
     "8049": {
-        "主催プレイヤー名": ""
+        "主催プレイヤー名": "Organizer Name"
     },
     "8050": {
         "clarity_nt_char_8050": "clarity_nt_char_8050"
@@ -24153,7 +24153,7 @@
         "写真を見る": "See Photo"
     },
     "8052": {
-        "イベント情報": ""
+        "イベント情報": "Event Info."
     },
     "8053": {
         "clarity_nt_char_8053": "clarity_nt_char_8053"
@@ -24195,7 +24195,7 @@
         "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>": ""
     },
     "8066": {
-        "<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": ""
+        "<%2nM_hh1>：<%02nM_mm1>～<%2nM_hh2>：<%02nM_mm2>": "<%2dM_hh1>：<%02dM_mm1>～<%2dM_hh2>：<%02dM_mm2>"
     },
     "8067": {
         "バトルから抜ける": "Leave Battle"
@@ -25017,22 +25017,22 @@
         "逆種別順に": "By Reverse"
     },
     "8340": {
-        "現在のポイント": ""
+        "現在のポイント": "Current Points"
     },
     "8341": {
-        "次のボーナスまで": ""
+        "次のボーナスまで": "Until Next Bonus"
     },
     "8342": {
         "clarity_nt_char_8342": "clarity_nt_char_8342"
     },
     "8343": {
-        "仲間を部屋に招く": ""
+        "仲間を部屋に招く": "Invite Party Inside"
     },
     "8344": {
         "clarity_nt_char_8344": "clarity_nt_char_8344"
     },
     "8345": {
-        "お招きする相手": ""
+        "お招きする相手": "Invite"
     },
     "8346": {
         "ネコ家具の思い出": "Cat Furniture Memories"
@@ -25041,10 +25041,10 @@
         "clarity_nt_char_8347": "clarity_nt_char_8347"
     },
     "8348": {
-        "かみの色２": ""
+        "かみの色２": "Hair Color 2"
     },
     "8349": {
-        "かみの色１": ""
+        "かみの色１": "Hair Color 1"
     },
     "8350": {
         "レアメタル針": "Rare Metal Needle"
@@ -27606,19 +27606,19 @@
         "第二の災いまで到達": "Reached 2nd Wave"
     },
     "9203": {
-        "記録なし": ""
+        "記録なし": "No records."
     },
     "9204": {
         "clarity_nt_char_9204": "clarity_nt_char_9204"
     },
     "9205": {
-        "渡したネコの種類": ""
+        "渡したネコの種類": "Types Given"
     },
     "9206": {
         "clarity_nt_char_9206": "clarity_nt_char_9206"
     },
     "9207": {
-        "メレアーデに渡したネコの数": ""
+        "メレアーデに渡したネコの数": "Cats Given"
     },
     "9208": {
         "紋章": "Crest"
@@ -27633,7 +27633,7 @@
         "clarity_nt_char_9211": "clarity_nt_char_9211"
     },
     "9212": {
-        "装備可能職業：<%sM_job>": "Job: <%sM_job>"
+        "装備可能職業：<%sM_job>": "Vocation: <%sM_job>"
     },
     "9213": {
         "clarity_nt_char_9213": "clarity_nt_char_9213"
@@ -27777,7 +27777,7 @@
         "clarity_nt_char_9259": "clarity_nt_char_9259"
     },
     "9260": {
-        "<%6dM_base_point>P×<%3dM_toubatsu>匹": ""
+        "<%6dM_base_point>P×<%3dM_toubatsu>匹": "<%6dM_base_point>P x <%3dM_toubatsu>"
     },
     "9261": {
         "clarity_nt_char_9261": "clarity_nt_char_9261"
@@ -28104,7 +28104,7 @@
         "clarity_nt_char_9368": "clarity_nt_char_9368"
     },
     "9369": {
-        "ベルト倉庫": "Belt Warehouse"
+        "ベルト倉庫": "Belt Storage"
     },
     "9370": {
         "選ぶ": "Pick"
@@ -28197,7 +28197,7 @@
         "clarity_nt_char_9399": "clarity_nt_char_9399"
     },
     "9400": {
-        "グレー": ""
+        "グレー": "Gray"
     },
     "9401": {
         "ホワイト": "White"

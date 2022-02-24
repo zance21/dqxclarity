@@ -2760,34 +2760,34 @@
         "封剣の門・天獄の誘いが時間切れになりました": "Sword Gate Heaven invitation timed out."
     },
     "921": {
-        "メレアーデの部屋へのお招きを 断られました": ""
+        "メレアーデの部屋へのお招きを 断られました": "Mereade's room invitation was declined."
     },
     "922": {
         "メレアーデの部屋へのお招きが 時間切れになりました": "Mereade's House invitation timed out."
     },
     "923": {
-        "メレアーデの部屋へのお招きを 取り消しました": ""
+        "メレアーデの部屋へのお招きを 取り消しました": "Mereade's room invitation was cancelled."
     },
     "924": {
         "clarity_nt_char_924": "clarity_nt_char_924"
     },
     "925": {
-        "メレアーデの部屋に お招きできませんでした": ""
+        "メレアーデの部屋に お招きできませんでした": "Couldn't invite to Mereade's room."
     },
     "926": {
-        "メレアーデの部屋から出たので お招きを取り消しました": ""
+        "メレアーデの部屋から出たので お招きを取り消しました": "Mereade's room invitation was cancelled."
     },
     "927": {
         "clarity_nt_char_927": "clarity_nt_char_927"
     },
     "928": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから メレアーデのお部屋に招かれました!": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから メレアーデのお部屋に招かれました!": "Mereade's room invitation from \\s<%sC_PC>\\m<%sC_ID>\\e!"
     },
     "929": {
         "clarity_nt_char_929": "clarity_nt_char_929"
     },
     "930": {
-        "エテーネの村から出たので　お招きを取り消しました": ""
+        "エテーネの村から出たので　お招きを取り消しました": "Invitation declined due to leaving Ethene."
     },
     "931": {
         "clarity_nt_char_931": "clarity_nt_char_931"
@@ -2967,7 +2967,7 @@
         "clarity_nt_char_989": "clarity_nt_char_989"
     },
     "990": {
-        "依頼書クエスト達成！ 討伐隊本部へ報告に行こう！": ""
+        "依頼書クエスト達成！ 討伐隊本部へ報告に行こう！": "Request Form Quest Completed!"
     },
     "991": {
         "clarity_nt_char_991": "clarity_nt_char_991"
@@ -2979,7 +2979,7 @@
         "clarity_nt_char_993": "clarity_nt_char_993"
     },
     "994": {
-        "ジュエル納めは動くと中断されてしまうから注意じゃぞ": ""
+        "ジュエル納めは動くと中断されてしまうから注意じゃぞ": "Don't move while depositing Jewels."
     },
     "995": {
         "ジュエルを拾ってトライロックに納める 忘れるでないぞ": "Don't forget to deposit those jewels!"
@@ -2988,10 +2988,10 @@
         "clarity_nt_char_996": "clarity_nt_char_996"
     },
     "997": {
-        "見事であったぞ さぁ旅の扉から戻ってくるのじゃ": ""
+        "見事であったぞ さぁ旅の扉から戻ってくるのじゃ": "Well done. Use the portal to return."
     },
     "998": {
-        "どうしたのじゃ ひとまず旅の扉から戻ってくるのじゃ": ""
+        "どうしたのじゃ ひとまず旅の扉から戻ってくるのじゃ": "What's wrong? Use the portal."
     },
     "999": {
         "５分以内に ハヤノキの樹液をボンツォに届けよう！": ""
@@ -3099,16 +3099,16 @@
         "clarity_nt_char_1033": "clarity_nt_char_1033"
     },
     "1034": {
-        "災壇に挑戦をする誘いを 断りました": ""
+        "災壇に挑戦をする誘いを 断りました": "Platform invitation was declined."
     },
     "1035": {
-        "災壇に挑戦する誘いを 取り消しました": ""
+        "災壇に挑戦する誘いを 取り消しました": "Platform invitation was cancelled."
     },
     "1036": {
         "clarity_nt_char_1036": "clarity_nt_char_1036"
     },
     "1037": {
-        "災壇に挑戦する誘いが 時間切れになりました": "Calamity Challenge invitation timed out."
+        "災壇に挑戦する誘いが 時間切れになりました": "Platform invitation timed out."
     },
     "1038": {
         "未使用のレベルアップアイテムがあります": ""
@@ -3129,34 +3129,34 @@
         "<%sC_PC>から フレンド登録を申し込まれました！": "Friend request received from <%sC_PC>!"
     },
     "1044": {
-        "仲間を抜けますか？": ""
+        "仲間を抜けますか？": "Leave the party?"
     },
     "1045": {
-        "ゲームマスターとの会話を　開始しますか？": ""
+        "ゲームマスターとの会話を　開始しますか？": "Begin talking to a GM?"
     },
     "1046": {
         "clarity_nt_char_1046": "clarity_nt_char_1046"
     },
     "1047": {
-        "チーム『<%sC_TEAM>』の|リーダーを引き受けますか？": ""
+        "チーム『<%sC_TEAM>』の|リーダーを引き受けますか？": "Become leader of "<%sC_TEAM>" Team?"
     },
     "1048": {
         "clarity_nt_char_1048": "clarity_nt_char_1048"
     },
     "1049": {
-        "<%sC_PC_LUA>は　<%dC_H>時間だけなら|仲間になれるそうです。どうしますか？": ""
+        "<%sC_PC_LUA>は　<%dC_H>時間だけなら|仲間になれるそうです。どうしますか？": "<%sC_PC_LUA> will join the party|for <%dC_H> hour(s). What do you want to do?"
     },
     "1050": {
         "clarity_nt_char_1050": "clarity_nt_char_1050"
     },
     "1051": {
-        "<%sC_PC_LUA>は　<%dC_M>分だけなら|仲間になれるそうです。どうしますか？": ""
+        "<%sC_PC_LUA>は　<%dC_M>分だけなら|仲間になれるそうです。どうしますか？": "<%sC_PC_LUA> will join the party|for <%dC_M> minute(s). What do you want to do?"
     },
     "1052": {
-        "<%sC_PC_LUA>は　<%dC_H>時間<%dC_H2>分だけなら|仲間になれるそうです。どうしますか？": ""
+        "<%sC_PC_LUA>は　<%dC_H>時間<%dC_H2>分だけなら|仲間になれるそうです。どうしますか？": "<%sC_PC_LUA> will join the party|for <%dC_H> hr. <%dC_H2> min.|What do you want to do?"
     },
     "1053": {
-        "仲間でいる時間を　延長しますか？": ""
+        "仲間でいる時間を　延長しますか？": "Extend your time in the party?"
     },
     "1054": {
         "clarity_nt_char_1054": "clarity_nt_char_1054"
@@ -3168,10 +3168,10 @@
         "魔法の迷宮に 行きますか？": "Go to the Magic Maze?"
     },
     "1057": {
-        "<%sC_PC>から チャットルームに招待されました！": ""
+        "<%sC_PC>から チャットルームに招待されました！": "Chat Room invitation from <%sC_PC>!"
     },
     "1058": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>": "From \\s<%sC_PC>\\m<%sC_ID>\\e|You've been invited to do a request quest!|Do you want to accept this request?|<select>|Accept|Decline|<select_end><break>"
+        "\\s<%sC_PC>\\m<%sC_ID>\\eから|依頼書クエストに　誘われました！|この依頼書クエストを　受けますか？|<select>|うける|やめる|<select_end><break>": "From Invited to a Request Form Quest from|\\s<%sC_PC>\\m<%sC_ID>\\e!|Do you want to accept this request?|<select>|Accept|Decline|<select_end><break>"
     },
     "1059": {
         "clarity_nt_char_1059": "clarity_nt_char_1059"
@@ -3180,7 +3180,7 @@
         "<%sC_PC_LUA>から パーティ同盟に さそわれました！": "Party alliance invite from <%sC_PC_LUA>!"
     },
     "1061": {
-        "<%sC_PC_LUA>から 錬金の依頼を 申し込まれました": ""
+        "<%sC_PC_LUA>から 錬金の依頼を 申し込まれました": "Alchemy Request from <%sC_PC_LUA>."
     },
     "1062": {
         "clarity_nt_char_1062": "clarity_nt_char_1062"
@@ -3189,10 +3189,10 @@
         "コロシアムに参加しますか？": "Go to the Coliseum?"
     },
     "1064": {
-        "<%sC_PC_LUA>からの　対戦を受けますか？": ""
+        "<%sC_PC_LUA>からの　対戦を受けますか？": "Accept a match from <%sC_PC_LUA>?"
     },
     "1065": {
-        "<%sC_PC_LUA>から 同盟相手に さそわれました！": ""
+        "<%sC_PC_LUA>から 同盟相手に さそわれました！": "Party alliance invitation from <%sC_PC_LUA>!"
     },
     "1066": {
         "スッパ党との戦いに 行きますか？": "Go and fight the Suppa Party?"
@@ -3201,13 +3201,13 @@
         "clarity_nt_char_1067": "clarity_nt_char_1067"
     },
     "1068": {
-        "クイズバトルに 行きますか？": ""
+        "クイズバトルに 行きますか？": "Go to the Quiz Battle?"
     },
     "1069": {
         "clarity_nt_char_1069": "clarity_nt_char_1069"
     },
     "1070": {
-        "バトルロードに参加しますか？": ""
+        "バトルロードに参加しますか？": "Go to the Battle Road?"
     },
     "1071": {
         "clarity_nt_char_1071": "clarity_nt_char_1071"
@@ -3225,7 +3225,7 @@
         "すごろくに 参加しますか？": "Play Sugoroku?"
     },
     "1076": {
-        "幻想画バトルに 行きますか？": ""
+        "幻想画バトルに 行きますか？": "Go to the Painting Battle?"
     },
     "1077": {
         "clarity_nt_char_1077": "clarity_nt_char_1077"
@@ -3240,7 +3240,7 @@
         "参加を　許可しますか？": ""
     },
     "1081": {
-        "<%sC_PC_LUA>のパーティに　参加しますか？": ""
+        "<%sC_PC_LUA>のパーティに　参加しますか？": "Join <%sC_PC_LUA>'s party?"
     },
     "1082": {
         "clarity_nt_char_1082": "clarity_nt_char_1082"
@@ -3249,13 +3249,13 @@
         "<%sC_PC_LUA>から パーティ同盟に 誘われました": "Party alliance invite from <%sC_PC_LUA>."
     },
     "1084": {
-        "<%sC_PC_LUA>から 同盟相手に 誘われました": ""
+        "<%sC_PC_LUA>から 同盟相手に 誘われました": "Alliance invite from <%sC_PC_LUA>."
     },
     "1085": {
-        "※参加人数が集まったら自動でパーティが組まれます。|※３分以内に集まらなければパーティは組まれません。": ""
+        "※参加人数が集まったら自動でパーティが組まれます。|※３分以内に集まらなければパーティは組まれません。": "※Party will form once everyone arrives.|※The party has 3 minutes to form."
     },
     "1086": {
-        "竜王の城に 行きますか？": ""
+        "竜王の城に 行きますか？": "Go to the Dragonlord's Castle?"
     },
     "1087": {
         "clarity_nt_char_1087": "clarity_nt_char_1087"
@@ -3264,7 +3264,7 @@
         "詩人の舞台での戦いに 行きますか？": "Go to the Twilight Poet Stage battle?"
     },
     "1089": {
-        "教練バトルに 行きますか？": ""
+        "教練バトルに 行きますか？": "Go to the training battle?"
     },
     "1090": {
         "パーティ同盟に 誘われました": "Invited to a party alliance."
@@ -3282,7 +3282,7 @@
         "隠れスライム大会に 参加しますか？": ""
     },
     "1095": {
-        "ゾーマの城に 行きますか？": ""
+        "ゾーマの城に 行きますか？": "Go to Zoma's Castle?"
     },
     "1096": {
         "<%sC_STR>の防衛戦に 参加しますか？": "Battle the <%sC_STR>?"
@@ -3327,7 +3327,7 @@
         "真夜中プリズランに 参加しますか？": "Go to Midnight Jailrun?"
     },
     "1110": {
-        "<%sC_PC_LUA>から遊ぶ仲間に さそわれました！": ""
+        "<%sC_PC_LUA>から遊ぶ仲間に さそわれました！": "Invited to play with <%sC_PC_LUA>!"
     },
     "1111": {
         "clarity_nt_char_1111": "clarity_nt_char_1111"
@@ -3336,7 +3336,7 @@
         "パーティ同盟を組んで 航海に参加しますか？": "Would you like to form a party alliance?"
     },
     "1113": {
-        "メレアーデの部屋に　行きますか？": ""
+        "メレアーデの部屋に　行きますか？": "Go to Mereade's room?"
     },
     "1114": {
         "clarity_nt_char_1114": "clarity_nt_char_1114"
@@ -3387,16 +3387,16 @@
         "<%sC_leader>からの　さそいは|すでに　取り消されています。": "Invitation from <%sC_leader>|has already been cancelled."
     },
     "1130": {
-        "チーム参加の　返事を送りました！": ""
+        "チーム参加の　返事を送りました！": "Sent reply to Team invite!"
     },
     "1131": {
         "clarity_nt_char_1131": "clarity_nt_char_1131"
     },
     "1132": {
-        "<%sC_PC_LUA>に　フレンド登録ＯＫの|返事を送った！": ""
+        "<%sC_PC_LUA>に　フレンド登録ＯＫの|返事を送った！": "Replied to <%sC_PC_LUA>'s|friend request!"
     },
     "1133": {
-        "しかし　パーティは　すでに解散していた！": ""
+        "しかし　パーティは　すでに解散していた！": "The party has already disbanded!"
     },
     "1134": {
         "clarity_nt_char_1134": "clarity_nt_char_1134"
@@ -3417,7 +3417,7 @@
         "clarity_nt_char_1139": "clarity_nt_char_1139"
     },
     "1140": {
-        "<%sC_PC_LUA>（<%sC_ID>）とは|すでにフレンドになっています。": ""
+        "<%sC_PC_LUA>（<%sC_ID>）とは|すでにフレンドになっています。": "You are already friends with|<%sC_PC_LUA> （<%sC_ID>）."
     },
     "1141": {
         "clarity_nt_char_1141": "clarity_nt_char_1141"
@@ -3696,7 +3696,7 @@
         "clarity_nt_char_1232": "clarity_nt_char_1232"
     },
     "1233": {
-        "参加しないことにしました。": ""
+        "参加しないことにしました。": "Decided not to go."
     },
     "1234": {
         "参加できないエリアにいる人がいるため　仲間に入れません！|少し　時間が経ってから　もう一度　返事をしてください。": ""
@@ -3711,7 +3711,7 @@
         "<%sC_PC_LUA>（<%sC_ID>）さんを|フレンドリストに登録出来ませんでした。|時間を置いて　もう一度お試しください。": ""
     },
     "1238": {
-        "今は　仲間を抜けることが　できない！": ""
+        "今は　仲間を抜けることが　できない！": "Can't leave the party now!"
     },
     "1239": {
         "clarity_nt_char_1239": "clarity_nt_char_1239"
@@ -3813,7 +3813,7 @@
         "真夜中プリズランに　参加しますか？": "Go to Midnight Jailrun?"
     },
     "1272": {
-        "バトルに 行きますか？": ""
+        "バトルに 行きますか？": "Go to the battle?"
     },
     "1273": {
         "銀甲の凶蟲兵団の防衛戦に　参加しますか？": "Battle the Silver Shell Corps.?"
@@ -3939,7 +3939,7 @@
         "clarity_nt_char_1313": "clarity_nt_char_1313"
     },
     "1314": {
-        "よかろう……。俺様の本気を　見せてやるイェイ！": ""
+        "よかろう……。俺様の本気を　見せてやるイェイ！": "So... I'll show you what I'm made of!"
     },
     "1315": {
         "\\s<%sC_PC>\\m<%sC_ID>\\eから スボバに 誘われました!": "Snowball Battle invite from \\s<%sC_PC>\\m<%sC_ID>\\e!"
@@ -3954,7 +3954,7 @@
         "clarity_nt_char_1318": "clarity_nt_char_1318"
     },
     "1319": {
-        "スボバに 参加しますか？": "Want to join the Snowball Battle?"
+        "スボバに 参加しますか？": "Go to the Snowball Battle?"
     },
     "1320": {
         "clarity_nt_char_1320": "clarity_nt_char_1320"
@@ -4155,7 +4155,7 @@
         "次の開催は 冒険者の広場の つよさ予報をチェック！": "See the Adventurer's Forecast for the next event!"
     },
     "1386": {
-        "バトルに必要な素材を消費しました": ""
+        "バトルに必要な素材を消費しました": "Materials required have been consumed."
     },
     "1387": {
         "clarity_nt_char_1387": "clarity_nt_char_1387"
@@ -4206,31 +4206,31 @@
         "パーティリーダー不在のため マップの外に出ます": "Leaving map due to no party leader."
     },
     "1403": {
-        "彩虹の粘塊兵団の防衛戦に さそわれました！": ""
+        "彩虹の粘塊兵団の防衛戦に さそわれました！": "Invited to battle Rainbow Sticky Corps.!"
     },
     "1404": {
-        "彩虹の粘塊兵団の防衛戦に 参加しますか？": ""
+        "彩虹の粘塊兵団の防衛戦に 参加しますか？": "Battle the Rainbow Sticky Corps.?"
     },
     "1405": {
         "clarity_nt_char_1405": "clarity_nt_char_1405"
     },
     "1406": {
-        "彩虹の粘塊兵団の防衛戦の　さそいを断った。": ""
+        "彩虹の粘塊兵団の防衛戦の　さそいを断った。": "Rainbow Sticky Corps. invitation declined."
     },
     "1407": {
-        "灰塵の竜鱗兵団の防衛戦に さそわれました！": ""
+        "灰塵の竜鱗兵団の防衛戦に さそわれました！": "Invited to battle Dragon Scale Corps.!"
     },
     "1408": {
-        "灰塵の竜鱗兵団の防衛戦に 参加しますか？": ""
+        "灰塵の竜鱗兵団の防衛戦に 参加しますか？": "Battle the Dragon Scale Corps.?"
     },
     "1409": {
         "clarity_nt_char_1409": "clarity_nt_char_1409"
     },
     "1410": {
-        "灰塵の竜鱗兵団の防衛戦の　さそいを断った。": ""
+        "灰塵の竜鱗兵団の防衛戦の　さそいを断った。": "Dragon Scale Corps. invitation declined."
     },
     "1411": {
-        "灰塵の竜鱗兵団の防衛戦に　参加しますか？": ""
+        "灰塵の竜鱗兵団の防衛戦に　参加しますか？": "Battle the Dragon Scale Corps.?"
     },
     "1412": {
         "clarity_nt_char_1412": "clarity_nt_char_1412"
@@ -4290,13 +4290,13 @@
         "いにしえのゼルメア地下20階の探索に さそわれました！": "Invited to explore Zelmea Underground Floor 20!"
     },
     "1431": {
-        "彩虹の粘塊兵団の防衛戦に　参加しますか？": ""
+        "彩虹の粘塊兵団の防衛戦に　参加しますか？": "Battle the Rainbow Sticky Corps.?"
     },
     "1432": {
         "clarity_nt_char_1432": "clarity_nt_char_1432"
     },
     "1433": {
-        "護りの盾アンルシアが 戦闘を一時離脱しました": ""
+        "護りの盾アンルシアが 戦闘を一時離脱しました": "Anlucia temporarily left the battle."
     },
     "1434": {
         "clarity_nt_char_1434": "clarity_nt_char_1434"
@@ -4323,13 +4323,13 @@
         "clarity_nt_char_1441": "clarity_nt_char_1441"
     },
     "1442": {
-        "何なんだおまえ強すぎでしょ！ あいつを倒せ！": ""
+        "何なんだおまえ強すぎでしょ！ あいつを倒せ！": "Wow, you're strong! Now beat this guy!"
     },
     "1443": {
         "clarity_nt_char_1443": "clarity_nt_char_1443"
     },
     "1444": {
-        "認めたくない！ 絶対ここで終わらせる いけぇ！": ""
+        "認めたくない！ 絶対ここで終わらせる いけぇ！": "No way! Let's end this now! Go!!"
     },
     "1445": {
         "船体破損部の修理完了！": "The hull has been repaired!"
@@ -4338,7 +4338,7 @@
         "エンジン破損部の修理完了！": "Completed repairs of the engine!"
     },
     "1447": {
-        "模擬戦のエントリーが 解除されました": ""
+        "模擬戦のエントリーが 解除されました": "Practice Battle entry was cancelled."
     },
     "1448": {
         "clarity_nt_char_1448": "clarity_nt_char_1448"
