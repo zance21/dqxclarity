@@ -2280,7 +2280,7 @@
         "<speed=0><%sM_pc>は　あと　<%dW_ADWAIT>分|さそいを　受けられません。": ""
     },
     "761": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　町や城の中からでなければ|返事が　届かないようだ。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　町や城の中からでなければ|返事が　届かないようだ。": "<speed=0>But nothing happened... It seems you have|to be in a town or castle to get it to work."
     },
     "762": {
         "clarity_nt_char_762": "clarity_nt_char_762"
@@ -2292,13 +2292,13 @@
         "clarity_nt_char_764": "clarity_nt_char_764"
     },
     "765": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　空の見える場所でなければ|返事が　届かないようだ。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　空の見える場所でなければ|返事が　届かないようだ。": "<speed=0>But nothing happened... it seems you need|a clear view of the sky to get it to work."
     },
     "766": {
         "clarity_nt_char_766": "clarity_nt_char_766"
     },
     "767": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　この世界からは|返事が　届かないようだ。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　この世界からは|返事が　届かないようだ。": "<speed=0>But nothing happened... it seems that|it won't work in this world."
     },
     "768": {
         "<speed=0>対象マップへの移動に　失敗しました。|現在のプレイ環境では　公開されていないマップの|可能性があります。<br>|くわしくは「目覚めし冒険者の広場」の|トピックスをご確認ください。|http://sqex.to/trial_topics": ""
@@ -6675,7 +6675,7 @@
         "clarity_nt_char_2225": "clarity_nt_char_2225"
     },
     "2226": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。|町の中で使おう。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。|町の中で使おう。": "<speed=0>But nothing happened... it seems you can't|use this here. Try using it inside a town."
     },
     "2227": {
         "<speed=0><color_yellow>シナリオ進行に影響されるため|この石を他のプレイヤーが使うには　一度|<%sW_MAP_NAME_R>に入る必要があります。<color_white>": ""
@@ -6987,7 +6987,7 @@
         "<speed=0>この時代では|エテーネルキューブが　使えないようだ。": "<speed=0>It seems that you can't use the Ethenel|Cube in this era."
     },
     "2330": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　この世界では使えないようだ。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　この世界では使えないようだ。": "<speed=0>But nothing happened... it seems you can't|use this while in this world."
     },
     "2331": {
         "<speed=0>このマッチングの誘いを受けるには|ヴェリナード城下町の　酒場に　|行く必要があります。": ""
@@ -7005,7 +7005,7 @@
         "<speed=0>このさそいを受けるには|謎の遺跡島で　いにしえのゼルメアについての|説明を受ける必要があります。": ""
     },
     "2336": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。": "<speed=0>But nothing happened... It seems you can't|use this here."
     },
     "2337": {
         "clarity_nt_char_2337": "clarity_nt_char_2337"
@@ -7014,7 +7014,7 @@
         "<speed=0><%sM_item>は　大砲が近くにある時に使おう！": ""
     },
     "2339": {
-        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。|空の見える場所で使おう。": ""
+        "<speed=0>しかし　何も起こらなかった……。|どうやら　ここでは使うことができないようだ。|空の見える場所で使おう。": "<speed=0>But nothing happened... It seems you can't|use this here. Try using it somewhere with|an open sky."
     },
     "2340": {
         "ふくびき券": "Lottery Ticket"
@@ -7059,7 +7059,7 @@
         "<speed=0>仲間が　見つかりませんでした。|サポート仲間だけのパーティになりますが|もう一度　仲間を探しますか？|<break>": "<speed=0>Couldn't find party members. This is a party|with only support members. Search again?|<break>"
     },
     "2354": {
-        "ドルボードに|乗車時の視点を|設定します": "Set viewpoint|when riding the|dolboard."
+        "ドルボードに|乗車時の視点を|設定します": "Set viewpoint|when riding a|dolboard."
     },
     "2355": {
         "clarity_nt_char_2355": "clarity_nt_char_2355"
