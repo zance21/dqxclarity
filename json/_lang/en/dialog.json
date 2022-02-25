@@ -7152,7 +7152,7 @@
         "<speed=0>ドルボード乗車時の　カメラを|『通常』に　設定しました。": "<speed=0>Dolboard camera set to \"Usual\"."
     },
     "2385": {
-        "<speed=0>ドルボード乗車時の　カメラを|『とおくから』に　設定しました。": ""
+        "<speed=0>ドルボード乗車時の　カメラを|『とおくから』に　設定しました。": "<speed=0>Dolboard camera set to \"Far\"."
     },
     "2386": {
         "clarity_nt_char_2386": "clarity_nt_char_2386"
@@ -7263,13 +7263,13 @@
         "clarity_nt_char_2421": "clarity_nt_char_2421"
     },
     "2422": {
-        "<speed=0>近くに　モンスターがいるようだ。|モンスターを倒すまで　この宝箱を|開けることは　できない！": ""
+        "<speed=0>近くに　モンスターがいるようだ。|モンスターを倒すまで　この宝箱を|開けることは　できない！": "There are monsters nearby. You can't open|the chest until they are all defeated!"
     },
     "2423": {
-        "しかし <%sM_item>は これ以上持てない！": ""
+        "しかし <%sM_item>は これ以上持てない！": "But you couldn't hold <%sM_item>|anymore!"
     },
     "2424": {
-        "ここでは　ついてクンを　連れ歩けません！": ""
+        "ここでは　ついてクンを　連れ歩けません！": "Can't bring out a pet here!"
     },
     "2425": {
         "clarity_nt_char_2425": "clarity_nt_char_2425"
@@ -7332,7 +7332,7 @@
         "clarity_nt_char_2444": "clarity_nt_char_2444"
     },
     "2445": {
-        "<speed=0>|このマッチングに参加するには　防具を５か所に|装備している必要があります。|防具を装備しているか　確認してください。": "<speed=0>|To participate, you must have armor equipped|in each of your 5 slots."
+        "<speed=0>|このマッチングに参加するには　防具を５か所に|装備している必要があります。|防具を装備しているか　確認してください。": "<speed=0>|To participate, you must have armor equipped|in each of your 5 body slots."
     },
     "2446": {
         "clarity_nt_char_2446": "clarity_nt_char_2446"
@@ -7344,7 +7344,7 @@
         "clarity_nt_char_2448": "clarity_nt_char_2448"
     },
     "2449": {
-        "その　<%sM_item>は　捧げています。": ""
+        "その　<%sM_item>は　捧げています。": "The <%sM_item> is being|offered."
     },
     "2450": {
         "clarity_nt_char_2450": "clarity_nt_char_2450"
@@ -7374,19 +7374,19 @@
         "clarity_nt_char_2458": "clarity_nt_char_2458"
     },
     "2459": {
-        "白黒２色の|写真を撮ります": ""
+        "白黒２色の|写真を撮ります": "Take a black|and white|photo."
     },
     "2460": {
         "フィルターなしで|いつも通りの|写真を撮ります": "Take a normal|photo with|no filter."
     },
     "2461": {
-        "懐かしい雰囲気の|写真を撮ります": ""
+        "懐かしい雰囲気の|写真を撮ります": "Take a nostalgic|looking photo."
     },
     "2462": {
         "clarity_nt_char_2462": "clarity_nt_char_2462"
     },
     "2463": {
-        "影絵のような|雰囲気の|写真を撮ります": ""
+        "影絵のような|雰囲気の|写真を撮ります": "Take a shadowy|looking photo."
     },
     "2464": {
         "ブレスダメージ減": "Breath Resist"
@@ -7404,7 +7404,7 @@
         "幻惑ガード": "Blind Guard"
     },
     "2469": {
-        "はどうガード": ""
+        "はどうガード": "Wave Guard"
     },
     "2470": {
         "clarity_nt_char_2470": "clarity_nt_char_2470"
@@ -7530,22 +7530,22 @@
         "clarity_nt_char_2510": "clarity_nt_char_2510"
     },
     "2511": {
-        "一番大きな|解像度で写真を|保存します": ""
+        "一番大きな|解像度で写真を|保存します": "Saves photos in|largest|resolution."
     },
     "2512": {
         "1280×720で|写真を保存します": "Saves photos in|1280x720|resolution."
     },
     "2513": {
-        "手前をぼかし|背景を|引き立てます": "Blur the|foreground to|enhance photo."
+        "手前をぼかし|背景を|引き立てます": "Blurs the|foreground to|enhance photo."
     },
     "2514": {
-        "奥をぼかし|自キャラ付近を|引き立てます": ""
+        "奥をぼかし|自キャラ付近を|引き立てます": "Blurs the|background to|enhance photo."
     },
     "2515": {
         "clarity_nt_char_2515": "clarity_nt_char_2515"
     },
     "2516": {
-        "調整せず|そのままの|写真を撮ります": ""
+        "調整せず|そのままの|写真を撮ります": "Take a plain|photo."
     },
     "2517": {
         "clarity_nt_char_2517": "clarity_nt_char_2517"
@@ -7560,7 +7560,7 @@
         "ピントを合わせる|奥行きの深さを|調整できます": "Adjust the|depth of|the camera."
     },
     "2521": {
-        "引き立てる|箇所を自由に|調整できます": ""
+        "引き立てる|箇所を自由に|調整できます": "Freely adjust|any of the|enhancements."
     },
     "2522": {
         "<speed=0>現在の解像度の設定では|写真サイズを設定することが　できません。": ""
@@ -7632,7 +7632,7 @@
         "clarity_nt_char_2544": "clarity_nt_char_2544"
     },
     "2545": {
-        "権利を使って|特別なネコ缶を|もらう": ""
+        "権利を使って|特別なネコ缶を|もらう": "Get special|cat food."
     },
     "2546": {
         "clarity_nt_char_2546": "clarity_nt_char_2546"
@@ -7680,7 +7680,7 @@
         "この　プレイヤーイベントの|イベント詳細は　文字数が多いため|表示されていない　箇所があります。|<br>|イベント詳細の　全文を確認したい場合は|目覚めし冒険者の広場を　ご利用ください。|<br>|ドラゴンクエストⅩ　目覚めし冒険者の広場|プレイヤーイベント告知ページ|https://sqex.to/DQXPE": ""
     },
     "2561": {
-        "レベルが足りないため　装備できない！": ""
+        "レベルが足りないため　装備できない！": "Not high enough level to equip this!"
     },
     "2562": {
         "clarity_nt_char_2562": "clarity_nt_char_2562"
@@ -7791,7 +7791,7 @@
         "第<%nNUM>回バトエン大会・後半戦": "Tournament No. <%dNUM> - 2nd Half"
     },
     "2598": {
-        "<speed=0>『ログイン表示する』以外の　設定にすると|ログイン状態を隠すために　一部メニューの|顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",|the face icon in some menus will not be|shown or updated in order to hide your status. <break>"
+        "<speed=0>『ログイン表示する』以外の　設定にすると|ログイン状態を隠すために　一部メニューの|顔アイコンの反映と更新が　行われなくなります。<break>": "<speed=0>If set to anything other than \"Show Login\",|your face icon in some menus will not be|shown or updated in order to hide your status.<break>"
     },
     "2599": {
         "パーティの仲間を|自分の部屋に|誘うことができる": "Invite party|members to|your room."
@@ -7827,25 +7827,25 @@
         "clarity_nt_char_2609": "clarity_nt_char_2609"
     },
     "2610": {
-        "<speed=0><%nM_timer>秒後に　自陣で復活します。<break>": ""
+        "<speed=0><%nM_timer>秒後に　自陣で復活します。<break>": "<speed=0>You'll revive at your camp in <%dM_timer> seconds.<break>"
     },
     "2611": {
         "clarity_nt_char_2611": "clarity_nt_char_2611"
     },
     "2612": {
-        "自陣": ""
+        "自陣": "Camp"
     },
     "2613": {
         "clarity_nt_char_2613": "clarity_nt_char_2613"
     },
     "2614": {
-        "<speed=0>ここからは復活出来ません！": ""
+        "<speed=0>ここからは復活出来ません！": "<speed=0>Can't revive from here!"
     },
     "2615": {
         "clarity_nt_char_2615": "clarity_nt_char_2615"
     },
     "2616": {
-        "？？？？？？？？？？？？？？？？": ""
+        "？？？？？？？？？？？？？？？？": "????????????????"
     },
     "2617": {
         "clarity_nt_char_2617": "clarity_nt_char_2617"
@@ -7893,7 +7893,7 @@
         "<speed=0>このマッチングに参加するには|閃光の神殿にいる　代理人に話しかけて|説明を聞く必要が　あります。": "<speed=0>To participate, you must first speak to an|Agent in the Flash Temple and listen to|their explanation."
     },
     "2632": {
-        "<speed=0>このさそいを受けるには|「目覚めし五つの種族」の　ストーリーを|クリアしている必要が　あります。": ""
+        "<speed=0>このさそいを受けるには|「目覚めし五つの種族」の　ストーリーを|クリアしている必要が　あります。": "<speed=0>To accept this invitation, you must first have|the \"Awakening of the Five Tribes\" story|cleared."
     },
     "2633": {
         "<speed=0>このマッチングに参加するには|パーティリーダーと　同じサーバーに|行く必要が　あります。": "<speed=0>In order to participate, you must first be|on the same server as the party leader."
