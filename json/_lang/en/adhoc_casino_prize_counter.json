@@ -9,7 +9,7 @@
     "「<%sL_COIN_PRIZE>のレシピは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno><break>": "It seems you've already learned that recipe.|Do you still want it?|<yesno><break>"
   },
   "4": {
-    "「<%sL_COIN_PRIZE>ですね。|　カジノコイン<%nL_PRICE>枚になりますが|　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? That will be|<%dL_PRICE>  Casino Coins, if you don't mind.<yesno><break>"
+    "「<%sL_COIN_PRIZE>ですね。|　カジノコイン<%nL_PRICE>枚になりますが|　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? That will be|<%dL_PRICE> Casino Coins, if you don't mind.<yesno><break>"
   },
   "5": {
     "「他にも　交換したい品は|　ございますか？|<yesno>": "Are there any other items you'd like to|exchange?<yesno>"
@@ -24,7 +24,7 @@
     "「申し訳ありませんが　<%sL_COIN_PRIZE>は|　これ以上　交換できません。|　ほかの品を　おえらびください。|<break>": "I'm sorry, but you can't exchange for any more|of <%sL_COIN_PRIZE>. Please choose|another item."
   },
   "9": {
-    "「では　<%sL_COIN_PRIZE>は|　これより　<pc>さんの物です！|<end>": "<%sL_COIN_PRIZE> now belongs|to <pc>!<end>"
+    "「では　<%sL_COIN_PRIZE>は|　これより　<pc>さんの物です！|<end>": "<%sL_COIN_PRIZE> now belongs|to you, <pc>!<end>"
   },
   "10": {
     "「<pc>さんは　現在　カジノコインを|　<%nL_MY_COIN>枚　お持ちです。|<br>|「この中に　欲しいものがございましたら|　カジノコインと　交換してさしあげます。|　ただし　青い文字の品物は　一度きりです。|<break>": "You currently have <%dL_MY_COIN> Casino Coins. If|there's anything here you're interested in,|I'll exchange it to you for Casino Coins.|<br>|However, items marked in blue can only be|exchanged for once.|<break>"
@@ -90,16 +90,16 @@
     "「ここは　カジノコインとひきかえに|　景品をおわたしする　交換所です。|<br>|「イベント用の　景品の交換は|　エントランス北側の　カウンターで|　受け付けておりますので　ご注意ください。|<bw_break>": "Here you can exchange your Casino Coins for|prizes.|<br>|Please note that event prizes must be|exchanged at the counter near the north-side|entrance.<bw_break>"
   },
   "31": {
-    "「<%sL_COIN_PRIZE>の　しぐさは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE> gesture. Please choose|another item.|<break>"
+    "「<%sL_COIN_PRIZE>の　しぐさは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the|<%sL_COIN_PRIZE>. Please choose|another item.|<break>"
   },
   "32": {
-    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE> pose. Please choose|another item.|<break>"
+    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Please choose|another item.|<break>"
   },
   "33": {
     "「<%sL_COIN_PRIZE>は|　すでに読んだことがあるので　交換できません。|　ほかの景品を　おえらびください。|<break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Please choose|another item.|<break>"
   },
   "34": {
-    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno 2><break>": "I see you've already learned the| <%sL_COIN_PRIZE> pose. Do you|still want it?|<yesno 2><break>"
+    "「<%sL_COIN_PRIZE>の　立ちかたは|　もう　覚えているようですが|　これで　よろしいですか？|<yesno 2><break>": "I see you've already learned the| <%sL_COIN_PRIZE>. Do you|still want it?|<yesno 2><break>"
   },
   "35": {
     "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換しますか？|<yesno 2><break>": "It seems you've already made a replica of that|item. Are you sure you still want it?|<yesno 2><break>"
