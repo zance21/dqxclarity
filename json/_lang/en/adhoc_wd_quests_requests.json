@@ -1,12 +1,12 @@
 {
     "1": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!"
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！": "I took the plunge and proposed to her, and|she said she'd marry me if I showed enough|courage to defeat {color=yellow}<%dEV_QUE_T_NUM0>匹{reset} {color=yellow}<%sEV_QUE_NAME0>{reset}. Please, anyone! Take them|down for me! My whole life depends on it!
     },
     "2": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　　　　依頼を　達成した！": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!   Request|fulfilled!"
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　　　　依頼を　達成した！": "I took the plunge and proposed to her, and|she said she'd marry me if I showed enough|courage to defeat {color=yellow}<%dEV_QUE_T_NUM0>匹{reset} {color=yellow}<%sEV_QUE_NAME0>{reset}. Please, anyone! Take them|down for me! My whole life depends on it!|　　　　　　　　　　　　Request fulfilled!
     },
     "3": {
-        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　現在　<%nEV_QUE_N_NUM0>匹倒している。": "I took the plunge and proposed to her... and|she said she'd marry me if I showed enough|courage to defeat all of them. I beg you...|<br>|Someone please go and defeat them for me! My|whole life depends on it!  I've now killed|<%nEV_QUE_N_NUM0>..."
+        "思い切って　彼女にプロポーズしたら|{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}　倒すくらいの|勇気を見せてくれたら　結婚してあげるって……。|お願いです。誰か　代わりに倒してきてください！|ボクの一生が　かかってるんです！|　　　　　　　　　　　現在　<%nEV_QUE_N_NUM0>匹倒している。": "I took the plunge and proposed to her, and|she said she'd marry me if I showed enough|courage to defeat {color=yellow}<%dEV_QUE_T_NUM0>匹{reset} {color=yellow}<%sEV_QUE_NAME0>{reset}. Please, anyone! Take them|down for me! My whole life depends on it!|　　　　　　　　　You've defeated <%dEV_QUE_N_NUM0> so far.
     },
     "4": {
         "やべえ　こえー。{color=yellow}<%sEV_QUE_NAME0>{reset}　こえー。|{color=yellow}<%sEV_QUE_NAME0>{reset}が　目の前に出てきたら|オレ　速攻で逃げる自信あるね。かなり　あるね。|やべえ　{color=yellow}<%sEV_QUE_NAME0>{reset}を　{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}も|倒せるヤツとかいんの？　いたら　そいつスゲー。": "Oh man. ... {I'm sure I'll run away as fast|as I can if <%sEV_QUE_NAME0>{reset} {If a|reset appeared in front of me, I'd be sure to|<br>|run away as soon as possible. I'm pretty|sure... Oh no! Is there anyone who can defeat|all those resets? If there is, that guy..."
@@ -81,37 +81,37 @@
         "カミさんの機嫌が悪くて　手がつけられんのよぅ。|聞きゃあ　{color=yellow}<%sEV_QUE_NAME0>{reset}に　大切に育てた花を|食われたんだと。すまんけど　{color=yellow}<%sEV_QUE_NAME0>{reset}を|{color=yellow}<%nEV_QUE_T_NUM0>匹{reset}ほど　倒してもらえんかなぁ。|そうすりゃあ　カミさんの気も収まるっぺ。|　　　　　　　　　　　現在　<%nEV_QUE_N_NUM0>匹倒している。": "My wife's in a bad mood. I can't do anything|about it. I heard that the flowers I took|such good care of were eaten by the... I'm|<br>|sorry, but I can't get you to kill as many of|them as I can. That'll make her feel better.|We've now killed <%EV_QUE_N_NUM0>..."
     },
     "28": {
-        "コリン": "choline"
+        "コリン": "Corin"
     },
     "29": {
         "ネポロ": "Napolo"
     },
     "30": {
-        "マイタコ": "My Octopus"
+        "マイタコ": "Maitako"
     },
     "31": {
-        "カザキリ": ""
+        "カザキリ": "Kazakiri"
     },
     "32": {
-        "サザナミ": "hazelnut"
+        "サザナミ": "Sazanami"
     },
     "33": {
-        "ボリパ": "BOLIPA"
+        "ボリパ": "Polipa"
     },
     "34": {
-        "こりん": ""
+        "こりん": "Corin"
     },
     "35": {
-        "ねぽろ": ""
+        "ねぽろ": "Napolo"
     },
     "36": {
-        "まいたこ": ""
+        "まいたこ": "Maitako"
     },
     "37": {
-        "かざきり": ""
+        "かざきり": "Nagikiri"
     },
     "38": {
-        "さざなみ": ""
+        "さざなみ": "Sazanami"
     },
     "39": {
         "ぼりぱ": ""
@@ -123,10 +123,10 @@
         "依頼書クエスト": "Request Form Quest"
     },
     "42": {
-        "・<%sIRAI_HOUSHU_ITEM>": "・<%sIRAI_HOUSHU_ITEM>"
+        "・<%sIRAI_HOUSHU_ITEM>": "<%sIRAI_HOUSHU_ITEM>"
     },
     "43": {
-        "<%nIRAI_HOUSHU_NUM>こ": "<%nIRAI_HOUSHU_NUM>こ"
+        "<%nIRAI_HOUSHU_NUM>こ": "<%dIRAI_HOUSHU_NUM>"
     },
     "44": {
         "新米アキタ": ""
@@ -1233,34 +1233,34 @@
         "討伐隊広報局": ""
     },
     "412": {
-        "討伐隊員プーレ": ""
+        "討伐隊員プーレ": "Strike Force Pure"
     },
     "413": {
-        "討伐隊員トトン": "Trooper Toton"
+        "討伐隊員トトン": "Strike Force Toton"
     },
     "414": {
-        "討伐隊員バンギ": ""
+        "討伐隊員バンギ": "Strike Force Bangi"
     },
     "415": {
-        "討伐隊員ヤキル": ""
+        "討伐隊員ヤキル": "Strike Force Yakiru"
     },
     "416": {
-        "討伐隊員アーリ": "Arri the Defeater"
+        "討伐隊員アーリ": "Strike Force Arri"
     },
     "417": {
-        "討伐隊員サジ": ""
+        "討伐隊員サジ": "Strike Force Saji"
     },
     "418": {
-        "グレン町内会": ""
+        "グレン町内会": "Glen Council"
     },
     "419": {
-        "ガタラ町内会": ""
+        "ガタラ町内会": "Gatara Council"
     },
     "420": {
-        "アズラン町内会": ""
+        "アズラン町内会": "Azlan Council"
     },
     "421": {
-        "アグラニ町内会": ""
+        "アグラニ町内会": "Agrani Council"
     },
     "422": {
         "料理人ホッコイ": "Chef Hokkoi"
@@ -1299,10 +1299,10 @@
         "郵便局員ココ": "Postman Koko"
     },
     "434": {
-        "魔法戦士団": ""
+        "魔法戦士団": "Armamentalists"
     },
     "435": {
-        "スライム": "slime"
+        "スライム": "Slime"
     },
     "436": {
         "スライムベス": "She-Slime"
@@ -1353,13 +1353,13 @@
         "道具屋シェリ": "Item Shop Sheri"
     },
     "452": {
-        "素材屋メドリ": ""
+        "素材屋メドリ": "Mat. Shop Medly"
     },
     "453": {
-        "素材屋セリナ": ""
+        "素材屋セリナ": "Mat. Shop Serina"
     },
     "454": {
-        "家具屋ポポ": ""
+        "家具屋ポポ": "Furn. Shop Popo"
     },
     "455": {
         "夢見るチョコラ": "Dreaming Chocolat"
@@ -1377,19 +1377,19 @@
         "恋するベティ": "Betty in Love"
     },
     "460": {
-        "恋するメリッサ": "Melissa in love"
+        "恋するメリッサ": "Melissa in Love"
     },
     "461": {
-        "わがままプーラ": "selfish Pula"
+        "わがままプーラ": "Selfish Puula"
     },
     "462": {
-        "わがままノンノ": "selfish nonono"
+        "わがままノンノ": "Selfish Nonno"
     },
     "463": {
         "けだるいリリー": "Lazy Lily"
     },
     "464": {
-        "けだるいメリー": "languid merry"
+        "けだるいメリー": "Languid Mary"
     },
     "465": {
         "けだるいエリー": "Cushy Ellie"
@@ -1407,28 +1407,28 @@
         "マダム・サリー": "Madame Sally"
     },
     "470": {
-        "ドロテア夫人": "Mrs Dorothea"
+        "ドロテア夫人": "Mrs. Dorothea"
     },
     "471": {
-        "エネット夫人": "Mrs Ennett"
+        "エネット夫人": "Mrs. Ennett"
     },
     "472": {
-        "ザーマス夫人": "Mrs Zermuth"
+        "ザーマス夫人": "Mrs. Zermuth"
     },
     "473": {
-        "アモンド夫人": "Mrs Almond"
+        "アモンド夫人": "Mrs. Almond"
     },
     "474": {
-        "エルンステ夫人": "Mrs Ernesto"
+        "エルンステ夫人": "Mrs. Ernesto"
     },
     "475": {
-        "ベアトリス夫人": "Mrs Beatrice"
+        "ベアトリス夫人": "Mrs. Beatrice"
     },
     "476": {
         "ポポナ": "Popona"
     },
     "477": {
-        "ミミ": ""
+        "ミミ": "Mimi"
     },
     "478": {
         "エイミー": "Amy"
@@ -1437,40 +1437,40 @@
         "シュガー": "Sugar"
     },
     "480": {
-        "ピピーナ": "PIPINA"
+        "ピピーナ": "Pipina"
     },
     "481": {
-        "ルル": ""
+        "ルル": "Lulu"
     },
     "482": {
-        "ククル": ""
+        "ククル": "Kukulu"
     },
     "483": {
-        "ネピー": "NEPY"
+        "ネピー": "Nepy"
     },
     "484": {
-        "キーノ": "kino"
+        "キーノ": "Kino"
     },
     "485": {
-        "タック": "tack"
+        "タック": "Tack"
     },
     "486": {
-        "ペルタ": "pelta"
+        "ペルタ": "Pelta"
     },
     "487": {
-        "トトリ": "birds"
+        "トトリ": "Totori"
     },
     "488": {
-        "ピスタ": "pista"
+        "ピスタ": "Pista"
     },
     "489": {
-        "ポリン": "porin"
+        "ポリン": "Porin"
     },
     "490": {
-        "リッキ": "ricochet"
+        "リッキ": "Rikki"
     },
     "491": {
-        "ハッピ": "happi"
+        "ハッピ": "Happi"
     },
     "492": {
         "シメじい": ""
@@ -1527,7 +1527,7 @@
         "せんしるーかす": "russet dregs"
     },
     "510": {
-        "さいきょうのおとこ": "strong man of the moment"
+        "さいきょうのおとこ": "strong man"
     },
     "511": {
         "うらないしはっけ": "diviner's feather"
@@ -7185,22 +7185,22 @@
         "心をつなぐ初仕事": "First Job, Connect Minds"
     },
     "2396": {
-        "かがやける期待の星": "Star Expected To Shine"
+        "かがやける期待の星": "Star Expected to Shine"
     },
     "2397": {
         "占い師たちの休日": "Fortune Teller's Holiday"
     },
     "2398": {
-        "死神は少女に寄り添う": "Reaper Is Close To The Girl"
+        "死神は少女に寄り添う": "Reaper is Close to the Girl"
     },
     "2399": {
-        "闇を見つめて": "Stare In Darkness"
+        "闇を見つめて": "Stare in Darkness"
     },
     "2400": {
         "まもの博士の研究レポート": "Monster Doctor Study Report"
     },
     "2401": {
-        "夢見る占い師たち": "Dreaming Fortunetellers"
+        "夢見る占い師たち": "Dreaming Fortune Tellers"
     },
     "2402": {
         "ふたりの未来": "Our Future"
@@ -7221,7 +7221,7 @@
         "流星の追憶": "Meteor Memory"
     },
     "2408": {
-        "無明の闇を照らせし者": "Light The Void's Darkness"
+        "無明の闇を照らせし者": "Light the Void's Darkness"
     },
     "2409": {
         "流星の追憶": "Meteor Memory"
@@ -7230,28 +7230,28 @@
         "無明の闇を照らせし者": "Light The Void's Darkness"
     },
     "2411": {
-        "氷の上のぬくもり": "Warmth On The Ice"
+        "氷の上のぬくもり": "Warmth on the Ice"
     },
     "2412": {
-        "美女たちの聖戦２０１６": "Beautiful Women's Crusade 2016"
+        "美女たちの聖戦２０１６": "Beauties Battle 2016"
     },
     "2413": {
         "氷の上のぬくもり": "Warmth On The Ice"
     },
     "2414": {
-        "美女たちの聖戦２０１６": "Beautiful Women's Crusade 2016"
+        "美女たちの聖戦２０１６": "Beauties Battle 2016"
     },
     "2415": {
         "炎のクール便": "Cold Fire Delivery"
     },
     "2416": {
-        "奈落より常世まで": "Abyss To The Real World"
+        "奈落より常世まで": "Abyss to the Real World"
     },
     "2417": {
         "炎のクール便": "Cold Fire Delivery"
     },
     "2418": {
-        "奈落より常世まで": "Abyss To The Real World"
+        "奈落より常世まで": "Abyss to the Real World"
     },
     "2419": {
         "ハードな便せん届けます": "Tough Letter Delivery"
@@ -7272,10 +7272,10 @@
         "ばあさんの愛情料理": "Grandma's Loving Cooking"
     },
     "2425": {
-        "強く生きると決めたから": "Decision To Stay Strong"
+        "強く生きると決めたから": "Decision to Stay Strong"
     },
     "2426": {
-        "強く生きると決めたから": "Decision To Stay Strong"
+        "強く生きると決めたから": "Decision to Stay Strong"
     },
     "2427": {
         "ジューンプライドの憂鬱": "The Melancholy of June Pride"
@@ -7308,10 +7308,10 @@
         "ベジセルクの奏演": "Vegiselk's Performance"
     },
     "2437": {
-        "ビーチで大公演！？": ""
+        "ビーチで大公演！？": "Beach Performance!?"
     },
     "2438": {
-        "夏宵メモワール": ""
+        "夏宵メモワール": "Summer Memoirs"
     },
     "2439": {
         "キュララな夏休み": "Curara Summer Vacation"
@@ -7323,10 +7323,10 @@
         "アストルティア★ラリー": "Astoltia★Rally"
     },
     "2442": {
-        "踊ってほしいんだヨゥ！": "I want you to dance!"
+        "踊ってほしいんだヨゥ！": "I Want You to Dance!"
     },
     "2443": {
-        "踊ってほしいんだヨゥ！": "I want you to dance!"
+        "踊ってほしいんだヨゥ！": "I Want You to Dance!"
     },
     "2444": {
         "グイッと青春の味": "The Taste of Youth"
@@ -7344,13 +7344,13 @@
         "芸術を求めて": "In Search of Art"
     },
     "2449": {
-        "酸いも甘いも辛いのも": ""
+        "酸いも甘いも辛いのも": "Sour, Sweet, Spicy"
     },
     "2450": {
         "芸術を求めて": "In Search of Art"
     },
     "2451": {
-        "酸いも甘いも辛いのも": ""
+        "酸いも甘いも辛いのも": "Sour, Sweet, Spicy"
     },
     "2452": {
         "もうひとつの楽園": "Another Paradise"
@@ -7374,73 +7374,73 @@
         "ひげのバレンタイン": "Bearded Valentine"
     },
     "2459": {
-        "赤点はもうヤバい！": "Red marks are already bad!"
+        "赤点はもうヤバい！": "Red Marks are Already Bad!"
     },
     "2460": {
         "新春にわにわトリオの乱！": "New Year Niwa Niwa Trio Rebellion!"
     },
     "2461": {
-        "赤点はもうヤバい！": "Red marks are already bad!"
+        "赤点はもうヤバい！": "Red Marks are Already Bad!"
     },
     "2462": {
         "新春にわにわトリオの乱！": "New Year Niwa Niwa Trio Rebellion!"
     },
     "2463": {
-        "わかめをたたえよ！": "Praise the seaweed!"
+        "わかめをたたえよ！": "Praise the Seaweed!"
     },
     "2464": {
-        "青春のカケラ": "A piece of youth"
+        "青春のカケラ": "A Piece of Youth"
     },
     "2465": {
-        "わかめをたたえよ！": "Praise the seaweed!"
+        "わかめをたたえよ！": "Praise the Seaweed!"
     },
     "2466": {
-        "青春のカケラ": "A piece of youth"
+        "青春のカケラ": "A Piece of Youth"
     },
     "2467": {
-        "クルクル・リサイクル！": "Kru Kru Recycling!"
+        "クルクル・リサイクル！": "Hard-working Recycling!"
     },
     "2468": {
-        "正しき資質": "proper quality"
+        "正しき資質": "Proper Quality"
     },
     "2469": {
-        "クルクル・リサイクル！": "Kru Kru Recycling!"
+        "クルクル・リサイクル！": "Hard-working Recycling!"
     },
     "2470": {
-        "正しき資質": "proper quality"
+        "正しき資質": "Proper Quality"
     },
     "2471": {
-        "ドキッ★合コン適性検査": "Doki★Meeting aptitude test"
+        "ドキッ★合コン適性検査": "Anxious Aptitude Test"
     },
     "2472": {
-        "彼女のノートの秘密": "The secret of her notebook"
+        "彼女のノートの秘密": "The Secret of Her Notebook"
     },
     "2473": {
-        "手袋にかけた想い": "Thoughts on the glove"
+        "手袋にかけた想い": "Feelings of the Gloves"
     },
     "2474": {
-        "ドキッ★合コン適性検査": "Doki★Meeting aptitude test"
+        "ドキッ★合コン適性検査": "Anxious Aptitude Test"
     },
     "2475": {
-        "彼女のノートの秘密": "The secret of her notebook"
+        "彼女のノートの秘密": "The Secret of Her Notebook"
     },
     "2476": {
-        "手袋にかけた想い": "Thoughts on the glove"
+        "手袋にかけた想い": "Feelings of the Gloves"
     },
     "2477": {
-        "ランチタイムはおまかせ": "Lunch time is up to you"
+        "ランチタイムはおまかせ": "Lunch Time Is Up to You"
     },
     "2478": {
-        "手作り弁当が食べたい！": "I want a homemade lunch!"
+        "手作り弁当が食べたい！": "I Want a Homemade Lunch!"
     },
     "2479": {
         "学内マドンナ頂上決戦": ""
     },
     "2480": {
-        "ランチタイムはおまかせ": "Lunch time is up to you"
+        "ランチタイムはおまかせ": "Lunch Time Is Up to You"
     },
     "2481": {
-        "手作り弁当が食べたい！": "I want a homemade lunch!"
+        "手作り弁当が食べたい！": "I Want a Homemade Lunch!"
     },
     "2482": {
         "学内マドンナ頂上決戦": ""
@@ -7452,7 +7452,7 @@
         "聖夜の支配者": "Christmas Eve King"
     },
     "2485": {
-        "急襲　星夜祭！": ""
+        "急襲　星夜祭！": "Star Festival Raid!"
     },
     "2486": {
         "お宝に魅せられて": "Fascinated By Treasure"
@@ -7470,7 +7470,7 @@
         "テラスのキューピッドさん": "Mr Cupid on the Terrace"
     },
     "2491": {
-        "テッケン部へ出発進行！": "We're off to the Tekken!"
+        "テッケン部へ出発進行！": "We're Off to The Tekken!"
     },
     "2492": {
         "闘争する芸術の夜明け": "Dawn of Struggling Art"
@@ -7479,7 +7479,7 @@
         "テラスのキューピッドさん": "Mr Cupid on the Terrace"
     },
     "2494": {
-        "おぞましき呪いの絵": "The horrible curse painting"
+        "おぞましき呪いの絵": "The Horrible curse Painting"
     },
     "2495": {
         "テッケン部へ出発進行！": "We're off to the Tekken!"
@@ -7488,7 +7488,7 @@
         "闘争する芸術の夜明け": "Dawn of Struggling Art"
     },
     "2497": {
-        "おぞましき呪いの絵": "The horrible curse painting"
+        "おぞましき呪いの絵": "The Horrible Curse Painting"
     },
     "2498": {
         "始めよう！バラ色冒険生活": "Let's Start! Rosy Adventure"
@@ -7497,13 +7497,13 @@
         "冒険者ゼミナール": "Adventurers Seminar"
     },
     "2500": {
-        "当選！メガルーラストーン": "Winning! Mega Zoomstone"
+        "当選！メガルーラストーン": "Winner! Mega Zoomstone"
     },
     "2501": {
         "ホイミントなホワイトデー": "Heal Mint White Day"
     },
     "2502": {
-        "スペシャルな石をアナタに": "A special stone for you"
+        "スペシャルな石をアナタに": "A Ppecial Stone For You"
     },
     "2503": {
         "ホイミントなホワイトデー": "Heal Mint White Day"
@@ -7512,7 +7512,7 @@
         "ドルボードブースト！": "Dolboard Boost!"
     },
     "2505": {
-        "おねがいチェルシー先生！": "Oh, please, Miss Chelsea!"
+        "おねがいチェルシー先生！": "Oh, Please, Miss Chelsea!"
     },
     "2506": {
         "四術師ガミルゴの祈り": "Skill Master Gamilgo's Wish"
@@ -7521,7 +7521,7 @@
         "リーネさんのセレブな日常": "Leanne's Celebrity Life"
     },
     "2508": {
-        "おねがいチェルシー先生！": "Oh, please, Miss Chelsea!"
+        "おねがいチェルシー先生！": "Oh, Please, Miss Chelsea!"
     },
     "2509": {
         "素敵なナイトクルージング": "Nice Night Cruising"
@@ -7533,13 +7533,13 @@
         "伝説の防具を求めて！": "Search For Legendary Armor!"
     },
     "2512": {
-        "キミはヒーローを見たか！": "Did you see the hero?"
+        "キミはヒーローを見たか！": "Did You See the Hero?!"
     },
     "2513": {
         "バブスラジャムパンの秘密": "Secrets of Babusra Jam Bread"
     },
     "2514": {
-        "キミはヒーローを見たか！": "Did you see the hero?"
+        "キミはヒーローを見たか！": "Did You See the Hero?!"
     },
     "2515": {
         "バブスラジャムパンの秘密": "Secrets of Babusra Jam Bread"
@@ -7575,7 +7575,7 @@
         "あまつちに雷鳴轟く": "Thunder Rumbles In The Sky"
     },
     "2526": {
-        "天地雷鳴士の式": ""
+        "天地雷鳴士の式": "Druid's Ceremony"
     },
     "2527": {
         "あまつちに雷鳴轟く": "Thunder Rumbles In The Sky"
@@ -7596,7 +7596,7 @@
         "真心いっぱいユニフォーム": "Uniforms Full of Sincerity"
     },
     "2533": {
-        "夜空にあまねく願い星": ""
+        "夜空にあまねく願い星": "Wishing Upon A Star"
     },
     "2534": {
         "吼えろ　トビアス！": "Howl, Tobias!"
@@ -7608,7 +7608,7 @@
         "真心いっぱいユニフォーム": "Uniforms Full of Sincerity"
     },
     "2537": {
-        "夜空にあまねく願い星": ""
+        "夜空にあまねく願い星": "Wishing Upon A Star"
     },
     "2538": {
         "そこに眠りし者たちは": "Those Who Sleep There"
@@ -7617,10 +7617,10 @@
         "そこに眠りし者たちは": "Those Who Sleep There"
     },
     "2540": {
-        "ビーチで大公演！？ 2017": ""
+        "ビーチで大公演！？ 2017": "Beach Performance?! 2017"
     },
     "2541": {
-        "夏宵メモワール 2017": ""
+        "夏宵メモワール 2017": "Summer Memoirs 2017"
     },
     "2542": {
         "キュララな夏休み 2017": "Curara Summer Vacation 2017"
@@ -7653,7 +7653,7 @@
         "星辰武王の審判": "Star War King's Trial"
     },
     "2552": {
-        "聖戦への導き": ""
+        "聖戦への導き": "Holy War Guidance"
     },
     "2553": {
         "お得な無料キャンペーン！": "Free Deal Promotion!"
@@ -7671,16 +7671,16 @@
         "むずかしい注文": "Difficult Orders"
     },
     "2558": {
-        "星夜を待ちながら": ""
+        "星夜を待ちながら": "Waiting for the Stars"
     },
     "2559": {
-        "舞い降りた奇跡": ""
+        "舞い降りた奇跡": "A Miracle that Landed"
     },
     "2560": {
         "新春わんわんワンだふる！": "New Year's Wandan Wandafuru!"
     },
     "2561": {
-        "時を巡る命題": ""
+        "時を巡る命題": "Thesis of Time"
     },
     "2562": {
         "星降る夜の再会": "Starry Night Reunion"
@@ -7716,7 +7716,7 @@
         "王都の小さな案内人": "Guide to The Royal City"
     },
     "2573": {
-        "美女たちの聖戦２０１８": "The Beauty Crusade 2018"
+        "美女たちの聖戦２０１８": "Beauties Battle 2018"
     },
     "2574": {
         "ナイトたちの血戦２０１８": "Blood War of the Knights 2018"
@@ -7737,7 +7737,7 @@
         "王都の小さな案内人": "Guide to The Royal City"
     },
     "2580": {
-        "美女たちの聖戦２０１８": "The Beauty Crusade 2018"
+        "美女たちの聖戦２０１８": "Beauties Battle 2018"
     },
     "2581": {
         "ナイトたちの血戦２０１８": "Blood War of the Knights 2018"
@@ -7761,7 +7761,7 @@
         "奇妙奇天烈な武器": "Odd and Strange Weapons"
     },
     "2588": {
-        "紅竜たちの記憶": ""
+        "紅竜たちの記憶": "Red Dragon's Memories"
     },
     "2589": {
         "はかなき星に光を": "Light on a Fleeting Star"
@@ -7839,7 +7839,7 @@
         "Re運命のウェディングベル": "Re: Wedding Bell of Fate"
     },
     "2614": {
-        "Re昏きブルーの男": ""
+        "Re昏きブルーの男": "Re: Blue Coma Man"
     },
     "2615": {
         "Re真実のフォーエバーラブ": "Re Truth Forever Love"
@@ -7905,7 +7905,7 @@
         "指先で触れる世界": "World At Your Fingertips"
     },
     "2636": {
-        "赤き大地の迷い人": ""
+        "赤き大地の迷い人": "Lost Man, Red Earth"
     },
     "2637": {
         "紅き落日の想い": "Thought of Red Sunset"
@@ -7932,7 +7932,7 @@
         "雪山の守り人": "Snow Mtn. Guard"
     },
     "2645": {
-        "遊び人のライフワーク": "The Life Work of a Playboy"
+        "遊び人のライフワーク": "A Gadabout's Life Work"
     },
     "2646": {
         "メレアーデのお部屋": "Mereade's Room"
@@ -7944,7 +7944,7 @@
         "イマドキの遊び人": "Trendy Gadabout"
     },
     "2649": {
-        "ゲルト・勇気の儀式": "Gert・Ritual of Courage"
+        "ゲルト・勇気の儀式": "Gert - Ritual of Courage"
     },
     "2650": {
         "便せんはペンよりも強し": "Paper Mightier Than The Pen"
@@ -8031,7 +8031,7 @@
         "ギルドマスターを超えて": "Beyond The Guildmaster"
     },
     "2678": {
-        "カムバックお月様！": "Come back moon!"
+        "カムバックお月様！": "Comeback Moon!"
     },
     "2679": {
         "理想の鍛錬法": "Ideal Training"
@@ -8040,10 +8040,10 @@
         "ペンダントを追って": "Follow The Pendant"
     },
     "2681": {
-        "すべての職人を総べる者": ""
+        "すべての職人を総べる者": "Craftman's Supervisor"
     },
     "2682": {
-        "カムバックお月様！": "Come back moon!"
+        "カムバックお月様！": "Comeback Moon!"
     },
     "2683": {
         "シックに着こなして": "Wear It Chicly"
@@ -8064,7 +8064,7 @@
         "妖精の古道具": "Fairy Antiques"
     },
     "2689": {
-        "美女たちの聖戦２０１９": "The Beauty Crusade 2019"
+        "美女たちの聖戦２０１９": "Beauties Battle 2019"
     },
     "2690": {
         "ナイトたちの血戦２０１９": "Blood War of the Knights 2019"
@@ -8082,7 +8082,7 @@
         "妖精の古道具": "Fairy Antiques"
     },
     "2695": {
-        "美女たちの聖戦２０１９": "The Beauty Crusade 2019"
+        "美女たちの聖戦２０１９": "Beauties Battle 2019"
     },
     "2696": {
         "ナイトたちの血戦２０１９": "Blood War of the Knights 2019"
@@ -8103,7 +8103,7 @@
         "手紙文化を取り戻そう！": "Bring Back Letter Culture!"
     },
     "2702": {
-        "壁画に刻まれた歴史": ""
+        "壁画に刻まれた歴史": "Engraved in History"
     },
     "2703": {
         "手紙文化を取り戻そう！": "Bring Back Letter Culture!"
@@ -8112,7 +8112,7 @@
         "ママはペコリア": "Mom is Pekoria"
     },
     "2705": {
-        "聖夜の反逆者": ""
+        "聖夜の反逆者": "Holy Night's Rebel"
     },
     "2706": {
         "聖夜の支配者": "Christmas Eve King"
@@ -8202,7 +8202,7 @@
         "小島に隠された秘密": "Secret Hidden on the Islet"
     },
     "2735": {
-        "キミとランラン春祭り": ""
+        "キミとランラン春祭り": "You & Ran Ran Spring Festival"
     },
     "2736": {
         "とても刺激的な解放": "A Very Exciting Release"
@@ -8232,7 +8232,7 @@
         "スイーツに染められて": "Dyed By Sweets"
     },
     "2745": {
-        "キミとランラン春祭り": ""
+        "キミとランラン春祭り": "You & Ran Ran Spring Festival"
     },
     "2746": {
         "迷子の迷子のエルフちゃん": "Lost Child Elf"
@@ -8346,7 +8346,7 @@
         "パクレ警部の現実": "Inspector Pakul's Facts"
     },
     "2783": {
-        "あまたの願いを求めて": "In search of more wishes"
+        "あまたの願いを求めて": "In Search of More Wishes"
     },
     "2784": {
         "えにし紡いで……": "Spinning Fate..."
@@ -8409,7 +8409,7 @@
         "突撃！隣りのオシャレさん": "Assault! Style Guy Next Door"
     },
     "2804": {
-        "ツリーは白銀に消ゆ": ""
+        "ツリーは白銀に消ゆ": "Tree's Disappearance"
     },
     "2805": {
         "つなぐ想いを未来へと": "Connect Thoughts to Future"
@@ -8418,7 +8418,7 @@
         "突撃！隣りのオシャレさん": "Assault! Style Guy Next Door"
     },
     "2807": {
-        "ツリーは白銀に消ゆ": ""
+        "ツリーは白銀に消ゆ": "Tree's Disappearance"
     },
     "2808": {
         "荒ぶる魔王の痛み": "Pain of the Demon King"
@@ -8439,7 +8439,7 @@
         "良薬はキケンな香り": "Good Medicine Smells Bad"
     },
     "2814": {
-        "美女たちの聖戦２０２０": "Beautiful Women's Crusade 2020"
+        "美女たちの聖戦２０２０": "Beauties Battle 2020"
     },
     "2815": {
         "ナイトたちの血戦２０２０": "Blood War of the Knights 2020"
@@ -8454,7 +8454,7 @@
         "天才と凡人と": "Genius & Ordinary"
     },
     "2819": {
-        "整理術は海を越えて": ""
+        "整理術は海を越えて": "Sea the Art of Organizing"
     },
     "2820": {
         "香りでたどる軌跡": "Follow the Track's Scent"
@@ -8487,19 +8487,19 @@
         "恐れる祭司長のなげき": "Cry of the Fearful Priest"
     },
     "2830": {
-        "弟子入りの条件": ""
+        "弟子入りの条件": "Apprentice's Terms"
     },
     "2831": {
-        "新春初詣バトル案内チュー": "New Year Hatsumode Battle Guide Chu"
+        "新春初詣バトル案内チュー": "New Year Shrine Battle Guide"
     },
     "2832": {
-        "新春初詣バトル案内チュー": "New Year Hatsumode Battle Guide Chu"
+        "新春初詣バトル案内チュー": "New Year Shrine Battle Guide"
     },
     "2833": {
-        "キミとランラン春祭り２": "Kimi to Ran Ran Spring Festival 2"
+        "キミとランラン春祭り２": "You & Ran Ran Spring Festival 2"
     },
     "2834": {
-        "キミとランラン春祭り２": "Kimi to Ran Ran Spring Festival 2"
+        "キミとランラン春祭り２": "You & Ran Ran Spring Festival 2"
     },
     "2835": {
         "ヨイ越しの絆": "Bonds over Yoi"
@@ -8538,10 +8538,10 @@
         "剣魔の背中": "Swrd Demon Back"
     },
     "2847": {
-        "キミとサメない夢を": ""
+        "キミとサメない夢を": "Shark-less Dreams"
     },
     "2848": {
-        "キミとサメない夢を": ""
+        "キミとサメない夢を": "Shark-less Dreams"
     },
     "2849": {
         "ケジメはあかく咲く": "The End Is In Sight"
@@ -8550,7 +8550,7 @@
         "ケジメはあかく咲く": "The End Is In Sight"
     },
     "2851": {
-        "そして審判が下る": ""
+        "そして審判が下る": "Then, Judgment Comes"
     },
     "2852": {
         "滅びの予兆": "Omen of Doom"
@@ -8634,7 +8634,7 @@
         "甘い言葉をささやいて": "Whisper Sweet Nothings To Me"
     },
     "2879": {
-        "天声を聞きし者": ""
+        "天声を聞きし者": "The Voices of Heaven"
     },
     "2880": {
         "最後の思い出": "Last Memories"
@@ -8655,7 +8655,7 @@
         "カワイ子ちゃんにご注意を": "Beware of Kawaiko"
     },
     "2886": {
-        "復讐の魔剣士": ""
+        "復讐の魔剣士": "DMN's Revenge"
     },
     "2887": {
         "黒き再会": "Blk. Reunion"
@@ -8715,10 +8715,10 @@
         "壱の五声は歌の声": "First of 5 Voices Sing"
     },
     "2906": {
-        "美女たちの聖戦２０２１": "Beautiful Women's Crusade 2021"
+        "美女たちの聖戦２０２１": "Beauties Battle 2021"
     },
     "2907": {
-        "美女たちの聖戦２０２１": "Beautiful Women's Crusade 2021"
+        "美女たちの聖戦２０２１": "Beauties Battle 2021"
     },
     "2908": {
         "バルディスタの為政者": "Valdista Statesman"
@@ -8784,16 +8784,16 @@
         "ワクワク温泉ライフ！？": "Exciting Hot Spring Life!"
     },
     "2929": {
-        "Reツリーは白銀に消ゆ": ""
+        "Reツリーは白銀に消ゆ": "Tree's Disappearance Again"
     },
     "2930": {
-        "Reツリーは白銀に消ゆ": ""
+        "Reツリーは白銀に消ゆ": "Tree's Disappearance Again"
     },
     "2931": {
         "謹賀新年★２０２１": "Happy New Year★2021"
     },
     "2932": {
-        "ようこそ星明の宮へ": ""
+        "ようこそ星明の宮へ": "Welcome to Star Shrine"
     },
     "2933": {
         "新春モー烈極めるモー攻撃": "New Year Mo Extreme Mo Attack"
@@ -8805,10 +8805,10 @@
         "淡い記憶を紐解いて": "Unraveling Faint Memories"
     },
     "2936": {
-        "幸せの証": ""
+        "幸せの証": "Happy Proof"
     },
     "2937": {
-        "幸せの証": ""
+        "幸せの証": "Happy Proof"
     },
     "2938": {
         "ハンコに押された背中": "Back Stamped With a Seal"
@@ -8895,40 +8895,40 @@
         "輝きの園": "Light Garden"
     },
     "2966": {
-        "キミとサメない夢を２": "Kimi to Same no Yume wo 2"
+        "キミとサメない夢を２": "Shark-less Dreams 2"
     },
     "2967": {
-        "キミとサメない夢を２": "Kimi to Same no Yume wo 2"
+        "キミとサメない夢を２": "Shark-less Dreams 2"
     },
     "2968": {
-        "海賊大募集！": ""
+        "海賊大募集！": "Pirates Wanted!"
     },
     "2969": {
-        "海賊大募集！": ""
+        "海賊大募集！": "Pirates Wanted!"
     },
     "2970": {
-        "海賊と海神の秘宝": ""
+        "海賊と海神の秘宝": "The Sea God's Treasure"
     },
     "2971": {
-        "戦いの残痕": ""
+        "戦いの残痕": "The Aftermath"
     },
     "2972": {
-        "おたからの地図": ""
+        "おたからの地図": "Treasure Map"
     },
     "2973": {
-        "暴虐の海賊団": ""
+        "暴虐の海賊団": "Pirates' Tyranny"
     },
     "2974": {
-        "共同戦線": ""
+        "共同戦線": "United Front"
     },
     "2975": {
-        "秘宝を我が手に": ""
+        "秘宝を我が手に": "Treasure in Hand"
     },
     "2976": {
-        "集え！カボチャのもとに２": "Gather Around The Pumpkin!2"
+        "集え！カボチャのもとに２": "Gather Round The Pumpkin! 2"
     },
     "2977": {
-        "集え！カボチャのもとに２": "Gather Around The Pumpkin!2"
+        "集え！カボチャのもとに２": "Gather Round The Pumpkin! 2"
     },
     "2978": {
         "剣魔と芸術家": "Swordsman & Artist"
@@ -8937,22 +8937,22 @@
         "剣魔と芸術家": "Swordsman & Artist"
     },
     "2980": {
-        "さらば愛しのシシカバブ！": "Farewell, Dear Shish-Kabob!"
+        "さらば愛しのシシカバブ！": "Farewell, Dear Shish-Kebab!"
     },
     "2981": {
-        "さらば愛しのシシカバブ！": "Farewell, Dear Shish-Kabob!"
+        "さらば愛しのシシカバブ！": "Farewell, Dear Shish-Kebab!"
     },
     "2982": {
-        "美女たちの聖戦２０２２": ""
+        "美女たちの聖戦２０２２": "Beauties Battle 2022"
     },
     "2983": {
-        "美女たちの聖戦２０２２": ""
+        "美女たちの聖戦２０２２": "Beauties Battle 2022"
     },
     "2984": {
-        "ナイトたちの血戦２０２２": ""
+        "ナイトたちの血戦２０２２": "Blood War of the Knights 2022"
     },
     "2985": {
-        "ナイトたちの血戦２０２２": ""
+        "ナイトたちの血戦２０２２": "Blood War of the Knights 2022"
     },
     "2986": {
         "バザールを護るもの": "Protecting the Bazaar"
@@ -8961,40 +8961,40 @@
         "バザールを護るもの": "Protecting the Bazaar"
     },
     "2988": {
-        "フォーリオンの空": ""
+        "フォーリオンの空": "Skies of Fourion"
     },
     "2989": {
-        "フォーリオンの空": ""
+        "フォーリオンの空": "Skies of Fourion"
     },
     "2990": {
-        "あの味の秘密": ""
+        "あの味の秘密": "That Secret Flavor"
     },
     "2991": {
-        "あの味の秘密": ""
+        "あの味の秘密": "That Secret Flavor"
     },
     "2992": {
-        "まめに働く天使たち": ""
+        "まめに働く天使たち": "Diligent Angels"
     },
     "2993": {
-        "まめに働く天使たち": ""
+        "まめに働く天使たち": "Diligent Angels"
     },
     "2994": {
-        "神様のお告げ": ""
+        "神様のお告げ": "Word of God"
     },
     "2995": {
-        "神様のお告げ": ""
+        "神様のお告げ": "Word of God"
     },
     "2996": {
         "奇門遁甲の式・弐": "2nd Divination Ceremony"
     },
     "2997": {
-        "天より降りそそぐ黄金の雨": ""
+        "天より降りそそぐ黄金の雨": "Golden Heavenly Rain"
     },
     "2998": {
-        "天より降りそそぐ黄金の雨": ""
+        "天より降りそそぐ黄金の雨": "Golden Heavenly Rain"
     },
     "2999": {
-        "肆の五声は哭の声": ""
+        "肆の五声は哭の声": "Four Crying Voices"
     },
     "3000": {
         "聖夜に燃ゆる聖火": "Fire Burns on Holy Night"
