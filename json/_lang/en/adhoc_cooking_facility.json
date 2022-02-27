@@ -93,7 +93,7 @@
     "<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
   },
   "32": {
-    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "quality (ease, difficulty) of production<color_yellow>★★★<color_white>I'm sorry, but I can't do that.<yesno><close>"
+    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to craft this item you have a|knack for in one shot? The item will not have|a quality of <color_yellow>★★★<color_white>.|<yesno><close>"
   },
   "33": {
     "ダブルたて返しを使うと　|縦横２マスにある　上下の具材を|入れ替えることができます。": "With the double flap, you can swap the top|and bottom ingredients in the two squares..."

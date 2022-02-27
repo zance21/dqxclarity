@@ -24,7 +24,7 @@
     "<pc>が使っていた|<%sL_SYOKUNIN_TOOL>は　限界がきて|こわれてしまった……。<end>": ""
   },
   "9": {
-    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "quality (ease, difficulty) of production<color_yellow>★★★<color_white>I'm sorry, but I can't do that.<yesno><close>"
+  "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to craft this item you have a|knack for in one shot? The item will not have|a quality of <color_yellow>★★★<color_white>.|<yesno><close>"
   },
   "10": {
     "<speed=0><pc>は　さいほうの　とくぎを|おぼえていない！": "<speed=0><pc> I don't know the best way to do it!"

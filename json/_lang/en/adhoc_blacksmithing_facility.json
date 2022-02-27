@@ -33,7 +33,7 @@
     "<%sL_CATEGORY_NAME>鍛冶を　続けますか？|<yesno><close>": "Continue <%sL_CATEGORY_NAME>smithing?|<yesno><close>"
   },
   "12": {
-    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "quality (ease, difficulty) of production<color_yellow>★★★<color_white>I'm sorry, but I can't do that.<yesno><close>"
+    "できのよさ<color_yellow>★★★<color_white>の物は　できませんが|いっぱつしあげをして　よろしいですか？|<yesno><close>": "Do you want to craft this item you have a|knack for in one shot? The item will not have|a quality of <color_yellow>★★★<color_white>.<yesno><close>"
   },
   "13": {
     "<%sL_RECIPE>は|『いっぱつしあげ』が　できます。|<select>|ふつうに作る|いっぱつしあげ|<select_end><break>": "<%sL_RECIPE> has a \"one shot raise\"...|<select>|cook conventionally|make-or-break job|<select_end><break>"
