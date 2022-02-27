@@ -27,10 +27,10 @@
     "「ハッ！": "Haa!"
   },
   "10": {
-    "「わたくし　ザンボアであります！": "I am called Zanboa!"
+    "「わたくし　ザンボアであります！": "I am Zanboa!"
   },
   "11": {
-    "「じつは……　先日も　王の命令で|　あなたのような　罪なき人を|　牢に入れたのですが　すぐに釈放されました！": "Actually... The other day, I had an innocent|man like you thrown in jail on the king's|orders, and he was released almost instantly!"
+    "「じつは……　先日も　王の命令で|　あなたのような　罪なき人を|　牢に入れたのですが　すぐに釈放されました！": "Actually... The other day, I had an innocent|person like you locked up on the king's orders|and they were released almost instantly!"
   },
   "12": {
     "「ですから　あなたも　すぐに|　出してもらえるのではないかと！|　こう思う次第であります！": "So I'm sure you'll be able to get out soon|too! That's what I think!"
@@ -120,127 +120,127 @@
     "「オォォォォ……　誰だ？|　われから　聖杯を　うばわんとする者は！？": "Oooooohhhhhhhh... Who's there?|Who dares to steal Lemur's Chalice from me?"
   },
   "41": {
-    "「……そうか　貴様|　ガートラントの追っ手だな？": "... So you're one of Gertlant's pursuers, are|you?"
+    "「……そうか　貴様|　ガートラントの追っ手だな？": "...I see.|You're with Gartlant, aren't you?"
   },
   "42": {
-    "「わが名は　剣士オーレン……。|　レムルの聖杯は　われに残された|　ただひとつの　希望！": "My name is Oren the Swordsman. Lemur's|chalice is my only hope!"
+    "「わが名は　剣士オーレン……。|　レムルの聖杯は　われに残された|　ただひとつの　希望！": "My name is Oren the Swordsman.|Lemur's Chalice is my last hope!"
   },
   "43": {
-    "「グオォォォォォ……………。": "Gu-o-o-o..."
+    "「グオォォォォォ……………。": "GUOOOOOOOOOOOOOOHH!!"
   },
   "44": {
-    "「わ…が………": "わが"
+    "「わ…が………": "My..."
   },
   "45": {
-    "「聖……杯……………。": "聖...杯..."
+    "「聖……杯……………。": "Cha... lice......"
   },
   "46": {
-    "<cs_pchero>は|レムルの聖杯（だいじなもの）を　手に入れた！<me_60>": "<cs_pchero>has won the Lemurian Chalice!<me_60>"
+    "<cs_pchero>は|レムルの聖杯（だいじなもの）を　手に入れた！<me_60>": "<cs_pchero>|obtained Lemur's Chalice (Key Item)!<me_60>"
   },
   "47": {
-    "「<pc>さんって　あなたでしょ？|　エイドスさまから　伝言を預かっているから|　読むわね？": "<pc> That's you, isn't it? I have a message for|you from Lord Eidos. Will you read it?"
+    "「<pc>さんって　あなたでしょ？|　エイドスさまから　伝言を預かっているから|　読むわね？": "<pc>, is that you?|I have a message for you from Sage Eidos.|I'll read it now."
   },
   "48": {
-    "「急で　すまぬが　旅立つことになった。|　<pc>なら　問題なく|　レムルの聖杯を　手に入れてくれたと思う。": "I'm sorry to leave on such short notice,|but...<pc> Then you'll have no problem getting your|hands on the Lemurian chalice..."
+    "「急で　すまぬが　旅立つことになった。|　<pc>なら　問題なく|　レムルの聖杯を　手に入れてくれたと思う。": "\"Forgive me for leaving on such short notice.|I'm sure you'll have no problem retrieving|Lemur's Chalice.\""
   },
   "49": {
-    "「次は　その聖杯を持って　はるか南東へ行け。|　グレン領東の南から　ゲルト海峡を南東に抜け|　ランドン山脈の南東から　雲上湖へ行くのじゃ。": ""
+    "「次は　その聖杯を持って　はるか南東へ行け。|　グレン領東の南から　ゲルト海峡を南東に抜け|　ランドン山脈の南東から　雲上湖へ行くのじゃ。": "\"Now, take the Chalice and go far to the|southeast. From the south of East Glen|Territory, go southeast through the Gelt|<br>|Strait to Sky Lake in the southeast part of|the Landon Mountains.\""
   },
   "50": {
-    "「そこには　グロリスの木という|　目には見えぬ　不思議な樹木が　そびえておる。|　その木が落とす　しずくを　持ち帰るのじゃ。": "There stands an invisible and mysterious tree|called the Gloris tree. And the drops that|the tree drops..."
+    "「そこには　グロリスの木という|　目には見えぬ　不思議な樹木が　そびえておる。|　その木が落とす　しずくを　持ち帰るのじゃ。": "\"There stands an invisible and mysterious tree|called the Gloris tree. Bring back the drops|from that tree.\""
   },
   "51": {
-    "「レムルの聖杯で　受けとめた|　グロリスのしずくだけが　魔瘴をはらえる。|　それを　王に飲ませれば　王は治るじゃろう。": "Only the drops of Gloris from Lemur's chalice|will keep the miasma at bay. If I can get the|king to drink it, he'll be cured."
+    "「レムルの聖杯で　受けとめた|　グロリスのしずくだけが　魔瘴をはらえる。|　それを　王に飲ませれば　王は治るじゃろう。": "\"Only the Gloris Drop, when drunk from Lemur's|Chalice, can repel the Demon Miasma.|Make the king drink it, and he'll be cured.\""
   },
   "52": {
-    "「ただ　雲上湖には　恐ろしい竜がおる。|　襲われぬように　気をつけてな。|　　　　　　　　　　　　　　　　　　エイドス": "It's just that there's a terrible dragon in|the lake above the clouds... We must be|careful not to be attacked...    Eidos."
+    "「ただ　雲上湖には　恐ろしい竜がおる。|　襲われぬように　気をつけてな。|　　　　　　　　　　　　　　　　　　エイドス": "\"Unfortunately, a terrible dragon resides in|the Sky Lake. Be careful not to be attacked.\"|　　　　　　　　　　　　　　　　　　Eidos"
   },
   "53": {
-    "「王を治すだなんて　さすが　エイドスさま！|　やっぱり　ステキ……。": "To heal a king, that's Lord Eidos! I knew you|were beautiful."
+    "「王を治すだなんて　さすが　エイドスさま！|　やっぱり　ステキ……。": "As expected, Eidos is going to cure the king!|He really is incredible..."
   },
   "54": {
-    "「きゃ～　いや～～ん！": "No, no, no, no, no!"
+    "「きゃ～　いや～～ん！": "Kya～ah, Nooooooooooo～～!"
   },
   "55": {
-    "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>got a drop of Gloris!<me_60>"
+    "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>|obtained the Gloris Drop (Key Item)!<me_60>"
   },
   "56": {
-    "「お待ちしておりました　<pc>さん！|　グロリスのしずくを　手に入れたのですね？": "We've been expecting you<pc> Three! You have the Droplets of Gloris, don't|you?"
+    "「お待ちしておりました　<pc>さん！|　グロリスのしずくを　手に入れたのですね？": "I've been expecting you, <pc>!|You've got the Gloris Drop, right?"
   },
   "57": {
-    "「エイドスさまから　話は　聞いています。|　それを　王に飲ませれば　王は治ると！": "Lord Eidos told me a story... He said if I|gave it to the king, he would be cured!"
+    "「エイドスさまから　話は　聞いています。|　それを　王に飲ませれば　王は治ると！": "Lord Eidos explained everything to me.|He said if we give it to the king, he'll be|cured!"
   },
   "58": {
-    "「さあ　そのグロリスのしずくを　私に。": "Now, that drop of Gloris..."
+    "「さあ　そのグロリスのしずくを　私に。": "Now, hand me the Gloris Drop."
   },
   "59": {
-    "「<pc>さん　ありがとうございました！|　王に　これを飲ませるのは　私たちの役目です。|　どうか　そこで見ていてください。": "<pc> Thank you, Your Majesty! It's our job to make|sure the King drinks this... Please, stay|where you are and watch..."
+    "「<pc>さん　ありがとうございました！|　王に　これを飲ませるのは　私たちの役目です。|　どうか　そこで見ていてください。": "Thank you so much, <pc>!|It's our responsibility to make the king drink|this. Please stay here and watch."
   },
   "60": {
-    "「ぐっ……　うう……。": "Ugh... Ugh..."
+    "「ぐっ……　うう……。": "Guh... Ughh..."
   },
   "61": {
-    "「貴様ら……|　いったい　なんのマネだ……！？": "You guys... What the hell are you doing?"
+    "「貴様ら……|　いったい　なんのマネだ……！？": "You...|What do you think you're doing?!"
   },
   "62": {
-    "「その　汚らわしい水を|　これ以上　われに　近づけたら……": "That filthy water| If you get any closer to me"
+    "「その　汚らわしい水を|　これ以上　われに　近づけたら……": "If you bring that filthy water any closer..."
   },
   "63": {
     "「命は　ないぞ！！": "You're dead!"
   },
   "64": {
-    "「ザンボア！|　早く　グロリスのしずくを　王に……！": "Zamboa! Quick, get the drop of Gloris to the|king."
+    "「ザンボア！|　早く　グロリスのしずくを　王に……！": "Zamboa!|Quick, get the Gloris Drop to the king."
   },
   "65": {
-    "「やめろ！！　やめるんだーーー！！|　ぐおおおおおおおお！！": "Stop! Don't do it! Oh, no, no, no, no!"
+    "「やめろ！！　やめるんだーーー！！|　ぐおおおおおおおお！！": "Stop!! DOOOOOONNNNN'Tーーー!|GGUUOOOOOOOOOOOOOOOOOHH!!"
   },
   "66": {
-    "「おお……　王よ……。|　元に　戻られたのですね！": "Oh... My king... You have returned to normal!"
+    "「おお……　王よ……。|　元に　戻られたのですね！": "Ohh...! My king...|You've returned to normal!"
   },
   "67": {
-    "「こんな　すがすがしい気分になれる日が|　また　来ようとは……。": "I never thought I'd feel this refreshed|again..."
+    "「こんな　すがすがしい気分になれる日が|　また　来ようとは……。": "I never thought I'd feel so refreshed again..."
   },
   "68": {
     "「ない！　ネックレスが……|　誰か　われのネックレスを　知らぬか？": "It's not here! My necklace... Does anyone|know where my necklace is?"
   },
   "69": {
-    "「おそれながら　ご報告させていただきます。|　王は　あのネックレスの呪いで|　死のふちを　さまよわれたのです。": "It is with great trepidation that I report...|That the King is on the brink of death,|cursed by the necklace..."
+    "「おそれながら　ご報告させていただきます。|　王は　あのネックレスの呪いで|　死のふちを　さまよわれたのです。": "I'm sorry to be the bearer of bad news.|That necklace's curse is what brought you to|the verge of death, my king."
   },
   "70": {
-    "「バカな！　あのネックレスは|　ガートラント城からの　友好の証として|　贈られた品に　入っていたのだぞ？": "Nonsense! That necklace was part of a gift|from the castle of Gartland as a token of|friendship."
+    "「バカな！　あのネックレスは|　ガートラント城からの　友好の証として|　贈られた品に　入っていたのだぞ？": "Nonsense! That necklace was part of a gift|from Gartlant Castle as a token of friendship,|wasn't it?"
   },
   "71": {
-    "「友好の証と見せかけて　呪いの品を送るなど|　そのような姑息なまねを|　ガートラントが　するはずがない！": "There's no way Gartrante would be so cunning|as to send a cursed gift under the guise of|friendship!"
+    "「友好の証と見せかけて　呪いの品を送るなど|　そのような姑息なまねを|　ガートラントが　するはずがない！": "There's no way Gartlant would be so cutthroat|as to send a cursed item under the guise of|friendship!"
   },
   "72": {
-    "「神父や僧侶にも　なすすべなく|　ただ　弱っていく王を　見守ることしか|　できなかった　ある日……": "No priest or priestess could do anything about it| All I can do is watch the king grow weaker and weaker| I couldn't One day"
+    "「神父や僧侶にも　なすすべなく|　ただ　弱っていく王を　見守ることしか|　できなかった　ある日……": "One day, when the priests could do nothing but|watch as the king's state deteriorated..."
   },
   "73": {
-    "「これは　魔瘴石のネックレスだ。|　あやうく　王は死ぬところだったと|　マリーンは　言いました。": "This is the neck of the miasma stone. Marlene|says it almost killed the king."
+    "「これは　魔瘴石のネックレスだ。|　あやうく　王は死ぬところだったと|　マリーンは　言いました。": "This is a necklace of Miasma Stone.|Malynn said that you almost died."
   },
   "74": {
-    "「そして　王に　いやしの術をかけ|　王の容態が　安定したのを確認すると……": "And cast a healing spell on the king| Once I'm sure the king's condition has stabilized"
+    "「そして　王に　いやしの術をかけ|　王の容態が　安定したのを確認すると……": "Then, after casting a healing spell on the|king and making sure his condition was|stable..."
   },
   "75": {
-    "「マリーンは　このネックレスは危険だと言って|　この国から　魔瘴石のネックレスを|　持ち去ってくれたのです。": "Marlene said the necklace was dangerous and|took the miasma necklace away from the|country..."
+    "「マリーンは　このネックレスは危険だと言って|　この国から　魔瘴石のネックレスを|　持ち去ってくれたのです。": "Malynn said that the necklace was dangerous|and took it out of the country."
   },
   "76": {
-    "「……ほうびと言えば　キーエンブレムだが。": "... Speaking of treats, the key emblem..."
+    "「……ほうびと言えば　キーエンブレムだが。": "...Speaking of gifts, this is the Key Emblem."
   },
   "77": {
-    "「なに！？|　われが　ガートラント城に　宣戦布告したと！？": "What? You think I've declared war on Castle|Gartland?"
+    "「なに！？|　われが　ガートラント城に　宣戦布告したと！？": "What?!|You think I declared war on Gartlant Castle?!"
   },
   "78": {
-    "「それが本当なら……|　この者の　はたらきがなければ　我が国は……。": "If that's true... If it weren't for the work|of this man, our country would be..."
+    "「それが本当なら……|　この者の　はたらきがなければ　我が国は……。": "If that's true...|Then if it weren't for this person's hard|work, our country would be..."
   },
   "79": {
-    "「そういうことならば　あいわかった！": "If that's the case, then I understand!"
+    "「そういうことならば　あいわかった！": "If that's the case, I understand!"
   },
   "80": {
-    "「<pc>よ！　心から感謝する！|　そなたの活躍　グレン城のキーエンブレムを|　与えるに値する　はたらきであった！": "<pc> Yo! I thank you from the bottom of my heart!|Your work here has been worthy of the key|emblem of Castle Grenn!"
+    "「<pc>よ！　心から感謝する！|　そなたの活躍　グレン城のキーエンブレムを|　与えるに値する　はたらきであった！": "<pc>! I thank you from the bottom|of my heart! Your work is worthy of this|castle's Key Emblem!"
   },
   "81": {
-    "「さあ　受け取るがいい！": "Come on, take it!"
+    "「さあ　受け取るがいい！": "Come, take it!"
   },
   "82": {
     "「その　黒のキーエンブレムは|　グレンの英雄であることを示すもの。|　他国でも　そなたのチカラの証となるだろう。": "That black key emblem identifies you as a|hero of the glen... A testament to your power|in other lands..."
