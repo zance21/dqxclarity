@@ -39,25 +39,25 @@
     "<%sL_RECIPE>を　作ります。|よろしいですか？|<yesno><close>": "Create <%sL_RECIPE>... Are you sure?<yesno><close>"
   },
   "14": {
-    "<speed=0><pc>は　木工のとくぎを|おぼえていない！": "<speed=0><pc> doesn't know how to use a woodworking tool!"
+    "<speed=0><pc>は　木工のとくぎを|おぼえていない！": "<speed=0>You don't know any Woodworking skills!"
   },
   "15": {
-    "<%sL_RECIPE>を作るには|素材が　足りません。<end>": "We don't have enough material to make|<%sL_RECIPE>...<end>"
+    "<%sL_RECIPE>を作るには|素材が　足りません。<end>": "You don't have enough materials to make|the <%sL_RECIPE>.<end>"
   },
   "16": {
-    "<%sL_RECIPE>を　作るには|<pc>の　木工職人レベルが|<%nL_HITUYOU_LV>以上　必要です。<end>": "To create a <%sL_RECIPE>, use the|<pc> Woodworker's level must be <%nL_HITUYOU_LV>|or higher...<end>"
+    "<%sL_RECIPE>を　作るには|<pc>の　木工職人レベルが|<%nL_HITUYOU_LV>以上　必要です。<end>": "To create the <%sL_RECIPE>,|your Woodworking level must be <%dL_HITUYOU_LV> or higher.<end>"
   },
   "17": {
-    "木工設備がある。|木工のレシピを　覚えれば|ここで　木工が　できそうだ。": ""
+    "木工設備がある。|木工のレシピを　覚えれば|ここで　木工が　できそうだ。": "It's a Woodworking facility. If you know any|recipes, you can craft them here."
   },
   "18": {
-    "<%sL_RECIPE>のレシピは|まだ　覚えていません。<end>": "I still don't remember the recipe for|<%sL_RECIPE>...<end>"
+    "<%sL_RECIPE>のレシピは|まだ　覚えていません。<end>": "You still don't know the|<%sL_RECIPE>.<end>"
   },
   "19": {
-    "作る物の種類を　選んでください。|<break>": ""
+    "作る物の種類を　選んでください。|<break>": "Please choose what you'd like to craft.|<break>"
   },
   "20": {
-    "現在　木工職人レベル<%dL_SYOKUNIN_LV>です。|何を作りますか？<break>": "Currently at woodworker level|<%dL_SYOKUNIN_LV... What do you want to make?<break>"
+    "現在　木工職人レベル<%dL_SYOKUNIN_LV>です。|何を作りますか？<break>": "Your current Woodworking level is <%dL_SYOKUNIN_LV>.|What do you want to craft?<break>"
   },
   "21": {
     "木工とは　素材となる木材を彫って|目的のアイテムを　作ることです。|<br>|木材を彫ると　少しずつ削られていきますので|成功ラインに沿うように　形を整えましょう。|完成品のできのよさは　この精度で決まります。|<br>|木工コマンドを実行するには　集中力が必要です。|集中力がなくなると　実行できなくなるので|ペース配分を考えて　コマンドを選びましょう。|<br>|彫る時は　マス目の下から上に向かって彫ります。|木目に沿っていないと　少ししか　削れませんので|作業台を回転させて　向きを調整してください。|<br>|なお　木工をしている途中に|通信エラーなどでゲームが中断した場合|素材は　すべて失われますので　ご注意ください。|<end>": "Woodworking is the process of carving a piece|of wood to create a desired item. As the wood|is carved, it is gradually shaved, so it is|<br>|shaped to follow the success line... The|quality of the finished product depends on|the accuracy of the... To execute a|<br>|woodworking command, you need to be able to|concentrate. If you lose your concentration,|you won't be able to do it, so pace yourself|<br>|and choose your commands... When you're|carving, you're carving from the bottom of|the grid to the top. If you're not following|<br>|the grain of the wood, you'll only be able to|carve a little, so rotate your workbench to|adjust the direction... Please note that if|<br>|the game is interrupted due to a|communication error while you are working on|a piece of wood, all the materials will be|<br>|lost.<end>"
@@ -234,9 +234,9 @@
     "マス<%sL_MASU_1>　表面固め　あと<%nL_MASU_TURN_1>ターン|マス<%sL_MASU_2>　表面固め　あと<%nL_MASU_TURN_2>ターン|マス<%sL_MASU_3>　表面固め　あと<%nL_MASU_TURN_3>ターン": "Mass <%sL_MASU_1> surface hardening And <%nL_MASU_TURN_1> turn|Mass <%sL_MASU_2> surface hardening And <%nL_MASU_TURN_2> turn|Mass <%sL_MASU_3> surface hardening And <%nL_MASU_TURN_3> turn"
   },
   "79": {
-    "<%nL_TURN>ターン目": "<%nL_TURN>turn 1"
+    "<%nL_TURN>ターン目": "Turn <%dL_TURN>"
   },
   "80": {
-    "<%nL_TURN>ターン目|素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": ""
+    "<%nL_TURN>ターン目|素材特性発動まで　あと<%nL_TOKUSEI_TURN>ターン": "Turn <%dL_TURN>|<%dL_TOKUSEI_TURN> turn(s) until material quality activation."
   }
 }

@@ -27084,7 +27084,7 @@
         "clarity_nt_char_9028": "clarity_nt_char_9028"
     },
     "9029": {
-        "錬金効果数：<%nM_num>": "Alch. Effects: <%nM_num>"
+        "錬金効果数：<%nM_num>": "Alch. Effects: <%dM_num>"
     },
     "9030": {
         "検索履歴": "History"
@@ -27153,7 +27153,7 @@
         "------P": ""
     },
     "9052": {
-        "敵軍選択": ""
+        "敵軍選択": "Select Army"
     },
     "9053": {
         "clarity_nt_char_9053": "clarity_nt_char_9053"
