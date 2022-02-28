@@ -3,7 +3,7 @@
     "「……………………。": "........................"
   },
   "2": {
-    "「だまされてたまるか！|　邪悪なニオイを　ぷんぷんさせた者めっ！": "I won't be deceived! You reek of evil!"
+    "「だまされてたまるか！|　邪悪なニオイを　ぷんぷんさせた者めっ！": "I won't be deceived!|You reek of evil!"
   },
   "3": {
     "「だまれ！　誰に向かって　クチをきいている！！": "Silence! Who do you think you're talking to?"
@@ -12,7 +12,7 @@
     "「ほほう　なるほど……。": "Ho-ho, I see..."
   },
   "5": {
-    "「…………ほう？": "...Ohh?"
+    "「…………ほう？": "...Oh?"
   },
   "6": {
     "「…………だが！！": "...However!!"
@@ -21,10 +21,10 @@
     "「こいつも　さっきの　ジジイと同じだ！|　牢に放り込んで　一生出すな！！": "He's just like the old man!|Lock him in a cell and throw away the key!"
   },
   "8": {
-    "「くそっ　頭が　割れそうに痛む……！|　ガートラントめ……。": "Ughh, feels like I just took a sledgehammer to|the head...!|You're Gartlant's..."
+    "「くそっ　頭が　割れそうに痛む……！|　ガートラントめ……。": "Ughh, feels like I just took a sledgehammer to|the head...!|That rotten Gartlant..."
   },
   "9": {
-    "「ハッ！": "Haa!"
+    "「ハッ！": "Yes, sir!"
   },
   "10": {
     "「わたくし　ザンボアであります！": "I am Zanboa!"
@@ -42,7 +42,7 @@
     "「お前たち　エテーネの民は|　冥王ネルゲルのやつに　相当|　ひどい目に　あわされたようじゃな。": "It seems that you people of Ethene suffered|quite a bitter fate at the hands of Dark Lord|Nergal."
   },
   "15": {
-    "「やはり　エイドスさまには|　おわかりなのですね！|　王が　以前のバグド王ではないと！": "Sage Eidos knows it too!|That man isn't the King Bagudo we know!"
+    "「やはり　エイドスさまには|　おわかりなのですね！|　王が　以前のバグド王ではないと！": "So you know it too!|That man isn't the King Bagudo we know!"
   },
   "16": {
     "「じつは……|　王は　先日まで　病に倒れていたのです。": "The truth is... The king was ill until the|other day..."
@@ -54,13 +54,13 @@
     "「ガートラントに戦争を仕掛けるなど|　たとえ　どんな理由があったとしても|　おっしゃらなかったはずなのに……。": "He never said anything about waging war on|Gartlant before, no matter what the reason..."
   },
   "19": {
-    "「いったい　王は　どうしてしまったのでしょう？|　あの頭痛さえ　治れば|　元の　優しい王に　戻るのでしょうか？": "What is wrong with the king?|Will be return to the kind and gentle king he|used to be once that headache is gone?"
+    "「いったい　王は　どうしてしまったのでしょう？|　あの頭痛さえ　治れば|　元の　優しい王に　戻るのでしょうか？": "What's wrong with the king?|Will be return to the kind and gentle king he|used to be once that headache is gone?"
   },
   "20": {
     "「王の頭痛を取りのぞく方法が|　ないわけでもないが……。": "Well, it's not that there isn't a way to get|rid of the king's headache, but..."
   },
   "21": {
-    "「ジダン兵士長よ。|　教えるのなら　そなたではなく|　この者のほうが　よさそうじゃ。": "Captain Zidane.|If you wish to teach, this person may be a|better fit for the job."
+    "「ジダン兵士長よ。|　教えるのなら　そなたではなく|　この者のほうが　よさそうじゃ。": "Lead Soldier Zidane.|If you wish for me to teach someone, this|person may be a better fit for the job."
   },
   "22": {
     "「お前の名は……|　そうか　<pc>というのか。": "Your name is...|<pc>, is it not?"
@@ -72,7 +72,7 @@
     "「この国を救う覚悟ができたなら|　わしを訪ねて　宿屋に来るがいい。|　……待っておるぞ。": "If you are ready to save this country, come|see me at the inn. ...I'll be waiting."
   },
   "25": {
-    "「あなただけが　頼りなんです。|　さあ　もう一度　返事を聞かせてください。": "You're the only one I can rely on.|Now, let me hear your reply again."
+    "「あなただけが　頼りなんです。|　さあ　もう一度　返事を聞かせてください。": "You're the only one I can rely on.|Now, please let me hear your reply again."
   },
   "26": {
     "「ありがとうございます！|　さすが　エイドスさまに見込まれた方！": "Thanks so much!|Sage Eidos was wise to choose you!"
@@ -147,19 +147,19 @@
     "「次は　その聖杯を持って　はるか南東へ行け。|　グレン領東の南から　ゲルト海峡を南東に抜け|　ランドン山脈の南東から　雲上湖へ行くのじゃ。": "\"Now, take the Chalice and go far to the|southeast. From the south of East Glen|Territory, go southeast through the Gelt|<br>|Strait to Sky Lake in the southeast part of|the Landon Mountains.\""
   },
   "50": {
-    "「そこには　グロリスの木という|　目には見えぬ　不思議な樹木が　そびえておる。|　その木が落とす　しずくを　持ち帰るのじゃ。": "\"There stands an invisible and mysterious tree|called the Gloris tree. Bring back the drops|from that tree.\""
+    "「そこには　グロリスの木という|　目には見えぬ　不思議な樹木が　そびえておる。|　その木が落とす　しずくを　持ち帰るのじゃ。": "\"There stands a mysterious invisible tree|called the Gloris Tree. Bring back a droplet|from that tree.\""
   },
   "51": {
     "「レムルの聖杯で　受けとめた|　グロリスのしずくだけが　魔瘴をはらえる。|　それを　王に飲ませれば　王は治るじゃろう。": "\"Only the Droplet of Gloris, when drunk from|Lemur's Chalice, can repel the Demon Miasma.|Make the king drink it, and he'll be cured.\""
   },
   "52": {
-    "「ただ　雲上湖には　恐ろしい竜がおる。|　襲われぬように　気をつけてな。|　　　　　　　　　　　　　　　　　　エイドス": "\"Unfortunately, a terrible dragon resides in|the Sky Lake. Be careful not to be attacked.\"|　　　　　　　　　　　　　　　　　　Eidos"
+    "「ただ　雲上湖には　恐ろしい竜がおる。|　襲われぬように　気をつけてな。|　　　　　　　　　　　　　　　　　　エイドス": "\"Unfortunately, a terrible dragon resides in|the Sky Lake. Be careful not to be attacked.\"|　　　　　　　　　　　　　　　　　　    Eidos"
   },
   "53": {
-    "「王を治すだなんて　さすが　エイドスさま！|　やっぱり　ステキ……。": "As expected, Eidos is going to cure the king!|He really is incredible..."
+    "「王を治すだなんて　さすが　エイドスさま！|　やっぱり　ステキ……。": "As expected, Eidos is going to cure the king!|He really is amazing..."
   },
   "54": {
-    "「きゃ～　いや～～ん！": "Kya～ah, Nooooooooooo～～!"
+    "「きゃ～　いや～～ん！": "Kyaa～, nooooooooooo～～!"
   },
   "55": {
     "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>|obtained the Droplet of Gloris (Key Item)!<me_60>"
@@ -258,13 +258,13 @@
     "「……本当に　よかった。|　このグレンの民に　つらい思いを|　させずにすんで……。": "...I'm truly grateful.|I'm relieved that the people of Glen don't|have to go through that..."
   },
   "87": {
-    "「バグド王　どうなさいました？|　エイドスさまが　来てくださったのですぞ。": "King Baghdad, what's going on?|Sage Eidos is here to see you."
+    "「バグド王　どうなさいました？|　エイドスさまが　来てくださったのですぞ。": "King Bagudo, what's going on?|Sage Eidos is here to see you."
   },
   "88": {
     "「エイドスだと……！？": "Sage Eidos...?!"
   },
   "89": {
-    "「バ…バグド王……！|　まさか　賢者エイドスさまのことが|　わからないのですか？": "K... King Bagudo...! Don't tell me you|don't remember Sage Eidos?"
+    "「バ…バグド王……！|　まさか　賢者エイドスさまのことが|　わからないのですか？": "K... King Bagudo...! Don't tell me you|don't recognize Sage Eidos?"
   },
   "90": {
     "「…………………。": "....................."
@@ -276,7 +276,7 @@
     "「バグド王め。|　難儀なことに　なっておるのう。": "King Bagudo.|This is a grave situation."
   },
   "93": {
-    "「……この国では|　こんな問題が　起こっておるのか。": "...Is this the problem this country is facing?"
+    "「……この国では|　こんな問題が　起こっておるのか。": "So this is the sort of problem this country is|facing?"
   },
   "94": {
     "「バグド王に　申し上げます！|　こちらの旅人が　グレン城の兵士になりたいと|　志願しております。": "Allow me to speak, King Bagudo!|This traveler has volunteered to work as a|soldier for Castle Glen."
