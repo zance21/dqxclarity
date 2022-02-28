@@ -150,7 +150,7 @@
     "「そこには　グロリスの木という|　目には見えぬ　不思議な樹木が　そびえておる。|　その木が落とす　しずくを　持ち帰るのじゃ。": "\"There stands an invisible and mysterious tree|called the Gloris tree. Bring back the drops|from that tree.\""
   },
   "51": {
-    "「レムルの聖杯で　受けとめた|　グロリスのしずくだけが　魔瘴をはらえる。|　それを　王に飲ませれば　王は治るじゃろう。": "\"Only the Gloris Drop, when drunk from Lemur's|Chalice, can repel the Demon Miasma.|Make the king drink it, and he'll be cured.\""
+    "「レムルの聖杯で　受けとめた|　グロリスのしずくだけが　魔瘴をはらえる。|　それを　王に飲ませれば　王は治るじゃろう。": "\"Only the Droplet of Gloris, when drunk from|Lemur's Chalice, can repel the Demon Miasma.|Make the king drink it, and he'll be cured.\""
   },
   "52": {
     "「ただ　雲上湖には　恐ろしい竜がおる。|　襲われぬように　気をつけてな。|　　　　　　　　　　　　　　　　　　エイドス": "\"Unfortunately, a terrible dragon resides in|the Sky Lake. Be careful not to be attacked.\"|　　　　　　　　　　　　　　　　　　Eidos"
@@ -162,16 +162,16 @@
     "「きゃ～　いや～～ん！": "Kya～ah, Nooooooooooo～～!"
   },
   "55": {
-    "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>|obtained the Gloris Drop (Key Item)!<me_60>"
+    "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>|obtained the Droplet of Gloris (Key Item)!<me_60>"
   },
   "56": {
-    "「お待ちしておりました　<pc>さん！|　グロリスのしずくを　手に入れたのですね？": "I've been expecting you, <pc>!|You've got the Gloris Drop, right?"
+    "「お待ちしておりました　<pc>さん！|　グロリスのしずくを　手に入れたのですね？": "I've been expecting you, <pc>!|You've got the Droplet of Gloris, right?"
   },
   "57": {
     "「エイドスさまから　話は　聞いています。|　それを　王に飲ませれば　王は治ると！": "Lord Eidos explained everything to me.|He said if we give it to the king, he'll be|cured!"
   },
   "58": {
-    "「さあ　そのグロリスのしずくを　私に。": "Now, hand me the Gloris Drop."
+    "「さあ　そのグロリスのしずくを　私に。": "Now, hand me the Droplet of Gloris."
   },
   "59": {
     "「<pc>さん　ありがとうございました！|　王に　これを飲ませるのは　私たちの役目です。|　どうか　そこで見ていてください。": "Thank you so much, <pc>!|It's our responsibility to make the king drink|this. Please stay here and watch."
@@ -189,7 +189,7 @@
     "「命は　ないぞ！！": "You're dead!"
   },
   "64": {
-    "「ザンボア！|　早く　グロリスのしずくを　王に……！": "Zamboa!|Quick, get the Gloris Drop to the king."
+    "「ザンボア！|　早く　グロリスのしずくを　王に……！": "Zanboa!|Quick, give the Droplet of Gloris to the king."
   },
   "65": {
     "「やめろ！！　やめるんだーーー！！|　ぐおおおおおおおお！！": "Stop!! DOOOOOONNNNN'Tーーー!|GGUUOOOOOOOOOOOOOOOOOHH!!"
@@ -240,154 +240,154 @@
     "「<pc>よ！　心から感謝する！|　そなたの活躍　グレン城のキーエンブレムを|　与えるに値する　はたらきであった！": "<pc>! I thank you from the bottom|of my heart! Your work is worthy of this|castle's Key Emblem!"
   },
   "81": {
-    "「さあ　受け取るがいい！": "Come, take it!"
+    "「さあ　受け取るがいい！": "Come on, take it!"
   },
   "82": {
-    "「その　黒のキーエンブレムは|　グレンの英雄であることを示すもの。|　他国でも　そなたのチカラの証となるだろう。": "That black key emblem identifies you as a|hero of the glen... A testament to your power|in other lands..."
+    "「その　黒のキーエンブレムは|　グレンの英雄であることを示すもの。|　他国でも　そなたのチカラの証となるだろう。": "That Black Key Emblem identifies you as a|hero of Glen... It'll serve as a testament to|your power in other lands."
   },
   "83": {
-    "「チグリ大臣よ。|　すぐに　おふれを出せ！": "Tigri... Send a signal now!"
+    "「チグリ大臣よ。|　すぐに　おふれを出せ！": "Minister Chigri. Send a message immediately!"
   },
   "84": {
-    "「ガートラントと　いくさは　やらん！|　皆　日々の暮らしに戻れ！　……とな。": "I won't do this to Gartrante and Ikusa! Get|back to your daily lives, people! ....."
+    "「ガートラントと　いくさは　やらん！|　皆　日々の暮らしに戻れ！　……とな。": "\"I won't go to war with Gartlant! Everyone, return to your daily lives!\""
   },
   "85": {
-    "「いくさが起きていれば|　多くの血が　このオーグリード大陸に|　流れるところであった……。": "If war had broken out, more blood would have|been spilled on the Aughrid continent..."
+    "「いくさが起きていれば|　多くの血が　このオーグリード大陸に|　流れるところであった……。": "If war had broken out, more blood would have|been spilled on the continent of Ogreed..."
   },
   "86": {
-    "「……本当に　よかった。|　このグレンの民に　つらい思いを|　させずにすんで……。": "... I'm so glad... I'm just glad that the|people of the glen don't have to go through|this..."
+    "「……本当に　よかった。|　このグレンの民に　つらい思いを|　させずにすんで……。": "...I'm truly grateful.|I'm relieved that the people of Glen don't|have to go through that..."
   },
   "87": {
-    "「バグド王　どうなさいました？|　エイドスさまが　来てくださったのですぞ。": "King Baghdad, what is it? Lord Eidos has come|to see me..."
+    "「バグド王　どうなさいました？|　エイドスさまが　来てくださったのですぞ。": "King Baghdad, what's going on?|Sage Eidos is here to see you."
   },
   "88": {
-    "「エイドスだと……！？": "Eidos...?"
+    "「エイドスだと……！？": "Sage Eidos...?!"
   },
   "89": {
-    "「バ…バグド王……！|　まさか　賢者エイドスさまのことが|　わからないのですか？": "Ba... King Baghdad...! Don't tell me you|don't know the wise Lord Eidos?"
+    "「バ…バグド王……！|　まさか　賢者エイドスさまのことが|　わからないのですか？": "K... King Bagudo...! Don't tell me you|don't remember Sage Eidos?"
   },
   "90": {
-    "「…………………。": "..."
+    "「…………………。": "....................."
   },
   "91": {
     "「そのジジイを　牢に放り込め！|　二度と　われに　顔を見せるなっ！！": "Throw the old man in jail! Don't you ever|show your face to me again!"
   },
   "92": {
-    "「バグド王め。|　難儀なことに　なっておるのう。": "Bug... I'm in a lot of trouble."
+    "「バグド王め。|　難儀なことに　なっておるのう。": "King Bagudo.|This is a grave situation."
   },
   "93": {
-    "「……この国では|　こんな問題が　起こっておるのか。": "... We have a problem here in this country..."
+    "「……この国では|　こんな問題が　起こっておるのか。": "...Is this the problem this country is facing?"
   },
   "94": {
-    "「バグド王に　申し上げます！|　こちらの旅人が　グレン城の兵士になりたいと|　志願しております。": "I give you King Baghdad! This traveler has|volunteered to be a soldier in Castle|Grenn..."
+    "「バグド王に　申し上げます！|　こちらの旅人が　グレン城の兵士になりたいと|　志願しております。": "Allow me to speak, King Bagudo!|This traveler has volunteered to work as a|soldier for Castle Glen."
   },
   "95": {
-    "「やっと　一人前の証を持つ者が　現れたか。|　なるほど。それなりに　ウデが立ちそうだな。": "At last, someone with the right|credentials... Oh... He's got some skill."
+    "「やっと　一人前の証を持つ者が　現れたか。|　なるほど。それなりに　ウデが立ちそうだな。": "So someone with a Mark of Adulthood has|finally shown up? I see.|They certainly seem to have some skill."
   },
   "96": {
     "「われの目を　ごまかせると思うか？|　我が国に　災いをもたらさんとする者め！！": "Do you think you can deceive me? You who seek|to bring misfortune to my country!"
   },
   "97": {
-    "「さ　さすがは　バグド王！|　ひと目で　この者の本質を　見抜かれるとは！": "That's King Baghdad! To think that you could|see the true nature of this man at a glance!"
+    "「さ　さすがは　バグド王！|　ひと目で　この者の本質を　見抜かれるとは！": "That's King Bagudo! To think that you could|see the true nature of this person at a|glance!"
   },
   "98": {
-    "「ええい！　そいつを早く牢に！|　われから遠ざけよ！": "Yeah, yeah! Get him in the cell! Get him away|from me!"
+    "「ええい！　そいつを早く牢に！|　われから遠ざけよ！": "Yeah! Throw them in prison!|Get them out of here!"
   },
   "99": {
-    "「さあ　来るんだ。": "Come on, let's..."
+    "「さあ　来るんだ。": "Come on."
   },
   "100": {
     "「こんな所で会うとは　奇遇じゃの。": "What a coincidence to meet you here..."
   },
   "101": {
-    "「ふむ……　先ほど　感じたとおり|　お前は　生き返しを受けた者じゃな。": "Hmm... I got the feeling earlier that you're|a survivor..."
+    "「ふむ……　先ほど　感じたとおり|　お前は　生き返しを受けた者じゃな。": "Hmm... As I sensed earlier, you're someone|who's been brought back to life."
   },
   "102": {
-    "「たいへん　申し訳ございませんでした。|　どうか　お許しください　エイドスさま。": "I'm so sorry... Please forgive me, Aide..."
+    "「たいへん　申し訳ございませんでした。|　どうか　お許しください　エイドスさま。": "This situation is completely inexcusable.|Please forgive me, Sage Eidos."
   },
   "103": {
-    "「顔を上げられよ　ジダン兵士長。|　今の王なら　わしに　あのような態度を取るのも|　仕方あるまい。": "Look at me, Zidane... It's no wonder the|current king behaves as he does towards me..."
+    "「顔を上げられよ　ジダン兵士長。|　今の王なら　わしに　あのような態度を取るのも|　仕方あるまい。": "Look at me, Lead Soldier Jidan.|It's no wonder that the current king behaves|towards me as he does."
   },
   "104": {
-    "「エイドスさま……！": "Lord Eidos...!"
+    "「エイドスさま……！": "Sage Eidos...!"
   },
   "105": {
-    "「バグド王のことは|　ヤツが　赤ん坊の頃から知っておる。|　このまま　見捨てようとは思わん。": "I've known King Baghdad since he was a|baby... I didn't think you'd just leave him|there."
+    "「バグド王のことは|　ヤツが　赤ん坊の頃から知っておる。|　このまま　見捨てようとは思わん。": "I've known King Bagudo since he was a baby.|I'm not just going to abandon him."
   },
   "106": {
-    "「じゃが　知ってのとおり　わしは忙しい。|　この国にも　いつまで滞在できるか|　わからん身じゃ。": "But, as you know, I... I don't know how long|I'll be able to stay in this country."
+    "「じゃが　知ってのとおり　わしは忙しい。|　この国にも　いつまで滞在できるか|　わからん身じゃ。": "But, as you know, I'm very busy.|I don't know how long I'll be able to stay in|this country."
   },
   "107": {
-    "「では　エイドスさま！|　私に　その方法を教えてください。|　王のためなら　どんなことでもします！": "Then, Lord Eidos! Show me how to... I'll do|anything for my king!"
+    "「では　エイドスさま！|　私に　その方法を教えてください。|　王のためなら　どんなことでもします！": "Then, Sage Eidos, please show me what to do!|I'll do anything to help the king!"
   },
   "108": {
-    "「お前の名は……|　たしか　<pc>じゃったな。": "Your name is| if I'm not mistaken<pc> So..."
+    "「お前の名は……|　たしか　<pc>じゃったな。": "Your name is...|<pc>, right?"
   },
   "109": {
-    "「王が今のままでは　このオーグリード大陸にて|　ひどい戦争が起こります。|　そうなれば　多くの民が　苦しむことになる！": "If the king continues as he is, there will be|a terrible war on the Augurid continent. And|when that happens, many of our people will|<br>|suffer!"
+    "「王が今のままでは　このオーグリード大陸にて|　ひどい戦争が起こります。|　そうなれば　多くの民が　苦しむことになる！": "If the king continues as he is, there will be|a terrible war on the Ogreed continent. If|that happens, many of our people will suffer!"
   },
   "110": {
-    "「<pc>さん　どうかお願いします。|　バグド王を　元に戻すため|　チカラを貸してください！<yesno><close>": "<pc> Mr. Baggins, please... I need your help to|restore King Baghdad to his former glory!<yesno><close>"
+    "「<pc>さん　どうかお願いします。|　バグド王を　元に戻すため|　チカラを貸してください！<yesno><close>": "<pc>, please.|I need your help to restore King Bagudo to his|former glory!<yesno><close>"
   },
   "111": {
-    "「けっして　誰にも渡さぬっ！！": "No one will ever get it!"
+    "「けっして　誰にも渡さぬっ！！": "I'll never give it to anyone!!"
   },
   "112": {
-    "<pc>は　ジダン兵士長に|グロリスのしずくが入った|レムルの聖杯を　渡した！": "<pc> has given Petty Officer Zidane the Lemurian|Chalice, containing the Drops of Gloris!"
+    "<pc>は　ジダン兵士長に|グロリスのしずくが入った|レムルの聖杯を　渡した！": "<pc> gave Petty Officer Jidan Lemur's|Chalice containing the Droplet of Gloris!"
   },
   "113": {
-    "「これで　バグド王を　元に戻せる……。": "Now we can undo King Baghdad..."
+    "「これで　バグド王を　元に戻せる……。": "Now we can heal King Bagudo..."
   },
   "114": {
-    "「う……　うう……。": "Uh... Ugh..."
+    "「う……　うう……。": "Uhh... Ugh..."
   },
   "115": {
-    "「お許しください　バグド王！": "Forgive me, King Baghdad!"
+    "「お許しください　バグド王！": "Forgive me, King Bagudo!"
   },
   "116": {
-    "「ぐおお！　貴様ら　許さんぞ！！": "Oh, no! I'll never forgive you!"
+    "「ぐおお！　貴様ら　許さんぞ！！": "Guoooooh! I'll never forgive you!"
   },
   "117": {
-    "「グァァァァァァァァァァ！！！": "Guaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
+    "「グァァァァァァァァァァ！！！": "GUAAAAAAAAAAAAAAAAAAH!"
   },
   "118": {
     "「ア……　アァァァァ……。": "Ah... Aaahhh..."
   },
   "119": {
-    "「ハァハァ……　ハァ……。": "Huh-uh... Huh..."
+    "「ハァハァ……　ハァ……。": "Haah, haah... Haah..."
   },
   "120": {
-    "「チグリ大臣か……|　われは　いったい……？": "Minister Tiggli... What am I...?"
+    "「チグリ大臣か……|　われは　いったい……？": "Minister Chigri... What on earth...?"
   },
   "121": {
-    "「信じられん……。": "I can't believe..."
+    "「信じられん……。": "Unbelievable..."
   },
   "122": {
-    "「あの　ひどい頭痛が　消えておる。|　永遠に続くかと思われた　あの頭痛が……。": "That terrible headache... gone. That headache|that seemed like it would last forever..."
+    "「あの　ひどい頭痛が　消えておる。|　永遠に続くかと思われた　あの頭痛が……。": "That terrible headache is gone.|It seemed like it would last forever..."
   },
   "123": {
-    "「なにっ！？": "What the hell?"
+    "「なにっ！？": "What?!
   },
   "124": {
-    "「ええ。私も　そう思います。|　おそらくは　ガートラント以外の何者かが|　王の　お命を狙ったのでしょう。": "Yeah. I thought so, too. Perhaps someone|other than Gartland wanted the king dead."
+    "「ええ。私も　そう思います。|　おそらくは　ガートラント以外の何者かが|　王の　お命を狙ったのでしょう。": "Yeah. I thought so, too. Perhaps someone|unaffiliated with Gartlant wanted the king|dead."
   },
   "125": {
-    "「……あの　忌まわしいネックレスは|　王の首から　決して離れず|　あやしい光を　たたえ続けていました。": "... The abominable necklace has never left|the king's neck, and it continues to cast a|foul light..."
+    "「……あの　忌まわしいネックレスは|　王の首から　決して離れず|　あやしい光を　たたえ続けていました。": "...That abominable necklace never left the|king's neck and continued to cast a foul|light on him."
   },
   "126": {
-    "「突然　とてつもなく大きな|　人間の女が　現れました。|　それが　あの賢者マリーンだったのです。": "Suddenly, a human woman of extraordinary size|appeared. And that woman was the wise|Marlene."
+    "「突然　とてつもなく大きな|　人間の女が　現れました。|　それが　あの賢者マリーンだったのです。": "Suddenly, a human woman of extraordinary size|appeared. That woman was Sage Malynn."
   },
   "127": {
-    "「ウワサは聞いた。|　王を助けたいなら　だまって見ていろと|　マリーンは言い……": "The rumor is... Marlene said if I wanted to|help the king, I had to keep my mouth shut."
+    "「ウワサは聞いた。|　王を助けたいなら　だまって見ていろと|　マリーンは言い……": "According to rumor, Sage Marlynn then said \"if|you want to help the king, just shut up and|watch\"..."
   },
   "128": {
-    "「彼女が呪文を唱えると　私たちが　何をしても|　はずせなかった　ネックレスが|　あっさりと　はずれたのです。": "She cast a spell, and the necklace that we|couldn't get off, no matter what we did, just|fell off."
+    "「彼女が呪文を唱えると　私たちが　何をしても|　はずせなかった　ネックレスが|　あっさりと　はずれたのです。": "She cast a spell, and the necklace that we|couldn't remove, no matter what we did, just|fell off."
   },
   "129": {
-    "「そうだったのか。|　あの名高い賢者マリーンが　われを……": "Yes... The famously wise Marlene..."
+    "「そうだったのか。|　あの名高い賢者マリーンが　われを……": "So that's what happened, is it?|Then Sage Malynn..."
   },
   "130": {
-    "「マリーンどのだけではありません。": "It's not just Marine which..."
+    "「マリーンどのだけではありません。": "It's not just Malynn."
   },
   "131": {
     "「王を　頭痛から解き放つため|　グロリスのしずくを　手に入れてくれたのが|　ここにいる　<pc>さん……": "To free the king from his headache| The one who got me the Gloris drops| You are here<pc> Miss"
