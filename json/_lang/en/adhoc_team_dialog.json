@@ -45,10 +45,10 @@
         "名前をみる": "See Name"
     },
     "16": {
-        "<%sM_speaker>「<%sM_chat>＞<%sM_listener>": "<%sM_speaker> "/<%sM_chat>→<%sM_listener>"/"
+        "<%sM_speaker>「<%sM_chat>＞<%sM_listener>": "<%sM_speaker> \"<%sM_chat>→<%sM_listener>\""
     },
     "17": {
-        "送信エラー！<%sM_speaker>「<%sM_chat>…": "Send Error! "/<%sM_speaker><%sM_chat>..."/"
+        "送信エラー！<%sM_speaker>「<%sM_chat>…": "Send Error! \"<%sM_speaker><%sM_chat>...\""
     },
     "18": {
         "送信エラー！": "Send Error!"
@@ -72,7 +72,7 @@
         "通信エラーが発生しました。": "A communication error has occurred."
     },
     "25": {
-        "// 現在の時間 <%2nM_hour>：<%02nM_minute>（リアル時間）": "// Current Time: <%2dM_hour>:<%02nM_minute> JST (Real Time)"
+        "// 現在の時間 <%2nM_hour>：<%02nM_minute>（リアル時間）": "// Current Time: <%2dM_hour>:<%02dM_minute> JST (Real Time)"
     },
     "26": {
         "コメントは　ありません。": "Has a comment."
