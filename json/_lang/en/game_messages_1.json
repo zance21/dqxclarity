@@ -237,7 +237,7 @@
         "旅人バザーで <%sM_item><%sM_plusnum>を <%dM_gold> Gで買った！": "Bought <%sM_plusnum> <%sM_item> from the Bazaar for <%dM_gold> G!"
     },
     "80": {
-        "<%sM_recipe>のレシピを おぼえた！": "<%sM_recipe> recipe was memorized!"
+        "<%sM_recipe>のレシピを おぼえた！": "<%sM_recipe> recipe was learned!"
     },
     "81": {
         "預かり所から <%sM_item><%sM_plusnum>を 取り出した。": "You took out <%sM_item><%sM_plusnum> from storage."
@@ -4086,7 +4086,7 @@
         "clarity_nt_char_1362": "clarity_nt_char_1362"
     },
     "1363": {
-        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "You spent <%dL_POINT> Card Points to get <%sL_ITEM>!"
+        "トランプポイント <%dL_POINT> Pを使って|<%sL_ITEM>を　手にいれた！": "You spent <%dL_POINT> Card Points to get|<%sL_ITEM>!"
     },
     "1364": {
         "対戦相手      ランク             使うトランプ": ""
@@ -4113,31 +4113,31 @@
         "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>】": ""
     },
     "1372": {
-        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": ""
+        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": "<%sM_ChatError>：<%sM_speaker>[<%sM_chat>]→<%sM_listener>"
     },
     "1373": {
-        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": ""
+        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】→<%sM_listener>"
     },
     "1374": {
         "clarity_nt_char_1374": "clarity_nt_char_1374"
     },
     "1375": {
-        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】": ""
+        "<%sM_ChatError>：<%sM_speaker>【<%sM_chat>…】": "<%sM_ChatError>：<%sM_speaker>[<%sM_chat>...]"
     },
     "1376": {
         "clarity_nt_char_1376": "clarity_nt_char_1376"
     },
     "1377": {
-        "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": ""
+        "<%sM_speaker>【<%sM_chat>…】＞ <%sM_listener>": "<%sM_speaker>[<%sM_chat>...]→<%sM_listener>"
     },
     "1378": {
         "clarity_nt_char_1378": "clarity_nt_char_1378"
     },
     "1379": {
-        "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": ""
+        "<%sM_speaker>【<%sM_chat>】＞ <%sM_listener>": "<%sM_speaker>[<%sM_chat>]→<%sM_listener>"
     },
     "1380": {
-        "\\s<%sC_PC>\\m<%sC_ID>\\e【<%sM_chat>】": ""
+        "\\s<%sC_PC>\\m<%sC_ID>\\e【<%sM_chat>】": "\\s<%sC_PC>\\m<%sC_ID>\\e[<%sM_chat>]"
     },
     "1381": {
         "clarity_nt_char_1381": "clarity_nt_char_1381"
@@ -4215,7 +4215,7 @@
         "[バトル結果]": ""
     },
     "1406": {
-        "<%sL_ITEM>が　レプリカになった！": "Made of a replica of <%sL_ITEM>!"
+        "<%sL_ITEM>が　レプリカになった！": "Made of a replica of|<%sL_ITEM>!"
     },
     "1407": {
         "<%sM_item>を <%dM_item_num><%sM_tani> 手に入れた！": "<%sM_item> received <%dM_item_num><%sM_tani>!"
