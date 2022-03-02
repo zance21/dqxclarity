@@ -1,15 +1,15 @@
 {
   "1": {
-    "「おいっ！　グランゼドーラに行けねえって|　どういうこった！？": "Hey! What do you mean we can't go to|Granzedorra?"
+    "「おいっ！　グランゼドーラに行けねえって|　どういうこった！？": "What do you mean we can't go to|Gran Zedora?"
   },
   "2": {
-    "「先ほどから　説明している通り|　この門は　グランゼドーラ王国の王女|　アンルシアさまの　ご命令で　閉ざしている。": "As I've already explained, these gates are|closed by order of the Princess of the|Kingdom of Granzedorra, Princess Anrushia..."
+    "「先ほどから　説明している通り|　この門は　グランゼドーラ王国の王女|　アンルシアさまの　ご命令で　閉ざしている。": "As I've already explained, the gates are|closed by order of Princess Anlucia of|Gran Zedora."
   },
   "3": {
-    "「何者であろうと　通すわけにはゆかぬ。": "Whoever you are, we can't let you through..."
+    "「何者であろうと　通すわけにはゆかぬ。": "No matter who you are, we can't let you|through."
   },
   "4": {
-    "「頼む！　やっと　レンダーシアに|　戻れたところなんだ。|　グランゼドーラの……　家族に会わせてくれ！": "Please! We've barely made it back to|Lendershere... Granzedorra... I want to see|my family!"
+    "「頼む！　やっと　レンダーシアに|　戻れたところなんだ。|　グランゼドーラの……　家族に会わせてくれ！": "Please! We've barely made it back to|Lendersia... I want to see my family!"
   },
   "5": {
     "「どんな理由があろうとも　絶対に通さぬ！！": "I will not let you pass, no matter what the|reason!"
@@ -18,25 +18,25 @@
     "「………………。": "..."
   },
   "7": {
-    "「……ふむ。グランゼドーラへの門は|　閉ざされているようですね。": "..... The gates to the Granzedoras seem to be|closed..."
+    "「……ふむ。グランゼドーラへの門は|　閉ざされているようですね。": "...The gates to Gran Zedora seem to be|closed."
   },
   "8": {
-    "「また　会いましたね。<pc>さん。": "I'll see you soon...<pc> San."
+    "「また　会いましたね。<pc>さん。": "We meet again <pc>."
   },
   "9": {
-    "「<pc>さんは　グランゼドーラ王国の|　姫に　会いにいくのでしたね……。|　ならば　あの門を越える方法を教えましょう。": "<pc> You are going to meet the Princess of|Granzedorra... Then I'll show you how to get|past that gate..."
+    "「<pc>さんは　グランゼドーラ王国の|　姫に　会いにいくのでしたね……。|　ならば　あの門を越える方法を教えましょう。": "<pc> Since you want to meet the|Princess of Gran Zedora, I'll tell you how|to get past the gates."
   },
   "10": {
-    "「レンダーシアには　グランゼドーラ王国の他に|　メルサンディという村　セレドという町|　さらに　アラハギーロという国が　あります。": "In addition to the Kingdom of Granzedorra,|there is a village called Mersandi, a town|called Cerredo, and a country called|<br>|Alahaguilo..."
+    "「レンダーシアには　グランゼドーラ王国の他に|　メルサンディという村　セレドという町|　さらに　アラハギーロという国が　あります。": "In addition to the Kingdom of Gran Zedora,|there is a village called Mersandi, a town|called Cerredo, and a country called|<br>|Alahaguilo, in this land."
   },
   "11": {
-    "「あなたは　それらの地をめぐり|　３匹の蝶を探すのです。": "You're going to go through those lands,|looking for those three butterflies..."
+    "「あなたは　それらの地をめぐり|　３匹の蝶を探すのです。": "You must go to those places,|and look for three butterflies."
   },
   "12": {
-    "「それぞれの場所で手に入れた|　３匹の蝶とともに　ここへ戻った時|　グランゼドーラへの道は　開かれるでしょう。": "When you return here with the three|butterflies you've acquired at each of these|locations, the path to Granzedorra will be|<br>|open to you..."
+    "「それぞれの場所で手に入れた|　３匹の蝶とともに　ここへ戻った時|　グランゼドーラへの道は　開かれるでしょう。": "When you return here with the three|butterflies from each of these|locations, the path to Gran Zedora will open."
   },
   "13": {
-    "「<pc>さん。": "<pc> San."
+    "「<pc>さん。": "<pc>"
   },
   "14": {
     "「お元気そうで　何よりです。": "I'm so glad you're okay."
@@ -117,6 +117,6 @@
     "<pc>は　クロウズに|蝶のかみかざりと　こはくの宝珠と|パピヨンブレスを　渡した！": "<pc> gave Clowes the Butterfly Talisman, the Amber|Pearl and the Papillon Bracelet!"
   },
   "40": {
-    "「それでは　<pc>さん。|　いずれ　また……。": "in which case<pc> three. I'll see you soon..."
+    "「それでは　<pc>さん。|　いずれ　また……。": "I'll see you then <pc>"
   }
 }
