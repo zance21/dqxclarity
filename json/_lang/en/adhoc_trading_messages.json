@@ -3,31 +3,31 @@
     "<%sL_PC>との取り引きを　やめますか？|<yesno><close>": "Stop trading with <%sL_PC>?|<yesno><close>"
   },
   "2": {
-    "<%sL_ITEM>を　取り下げますか？|<yesno><break>": "Do you want to take down <%sL_ITEM>?<yesno><break>"
+    "<%sL_ITEM>を　取り下げますか？|<yesno><break>": "Do you want to remove <%sL_ITEM>?|<yesno><break>"
   },
   "3": {
     "自分から相手に渡す物を　選択します。|<color_yellow>|※相手が選んだ物にも　カーソルが移動できます。|「くわしくみる」で　しっかり確認しましょう。|<color_white>|<break>": "Please choose the items you'd like to trade.|<color_yellow>|※You can also move the cursor to the other|player's items and examine them.|<color_white>|<break>"
   },
   "4": {
-    "渡すアイテムの|種類を　選んでください。|<break>": "Please select the type of item you'd like to|give...<break>"
+    "渡すアイテムの|種類を　選んでください。|<break>": "Please select the type of item you'd like to|trade.<break>"
   },
   "5": {
-    "この内容で　取り引きをします。|よろしいですか？|<yesno><break>": "I'd like to make a deal with you on this...|May I?<yesno><break>"
+    "この内容で　取り引きをします。|よろしいですか？|<yesno><break>": "Make a trade with these items?|<yesno><break>"
   },
   "6": {
-    "エラーのため　トレードできませんでした。|もう一度　お試しください。|<end>": "Unable to trade due to an error... Please try|again...<end>"
+    "エラーのため　トレードできませんでした。|もう一度　お試しください。|<end>": "Unable to trade due to an error. Please try|again.<end>"
   },
   "7": {
-    "<%sL_PC>との取り引きが　成立しました！|<end>": "A deal has been made with <%sL_PC>!<end>"
+    "<%sL_PC>との取り引きが　成立しました！|<end>": "Trade with <%sL_PC> was|successful!<end>"
   },
   "8": {
     "<%sL_STORAGE>には　渡せる物が　ありません。|<bw_break>": "<%sL_STORAGE> has something to give...<bw_break>"
   },
   "9": {
-    "<%sL_COIN>を　持っていません。|<bw_break>": "I have <%sL_COIN>...<bw_break>"
+    "<%sL_COIN>を　持っていません。|<bw_break>": "You don't have <%sL_COIN>.<bw_break>"
   },
   "10": {
-    "<%sL_PC>との取り引きを　やめました。|<end>": "I'll stop doing business with <%sL_PC>...<end>"
+    "<%sL_PC>との取り引きを　やめました。|<end>": "Stopped trading with|<%sL_PC>.<end>"
   },
   "11": {
     "<%sL_ITEM>を　取り消しました。|<end>": "Undo <%sL_ITEM>...<end>"
@@ -78,7 +78,7 @@
     "<%sL_ITEM>を　<%nL_NUM>個　取り出した。|<end>": "Received <%dL_NUM> <%sL_ITEM> by trade.|<end>"
   },
   "27": {
-    "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%dL_GOLD> Gold was cancelled.|<end>"
+    "<%nL_GOLD>ゴールドを　取り消しました。|<end>": "<%dL_GOLD> Gold was removed.|<end>"
   },
   "28": {
     "<%nL_GOLD>ゴールドを　取り下げますか？|<yesno><break>": "Withdraw <%dL_GOLD> Gold?|<yesno><break>"
