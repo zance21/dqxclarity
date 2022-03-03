@@ -1569,13 +1569,13 @@
         "clarity_nt_char_523": "clarity_nt_char_523"
     },
     "524": {
-        "<%sM_pc>に　取り引きを　申し込みますか？|<yesno><close>": ""
+        "<%sM_pc>に　取り引きを　申し込みますか？|<yesno><close>": "Request a trade with <%sM_pc>?|<yesno><close>"
     },
     "525": {
-        "このモンスターとは 戦えなかった！": ""
+        "このモンスターとは 戦えなかった！": "Couldn't fight this monster!"
     },
     "526": {
-        "送信者 <%sM_pc>": ""
+        "送信者 <%sM_pc>": "Sender <%sM_pc>"
     },
     "527": {
         "clarity_nt_char_527": "clarity_nt_char_527"
