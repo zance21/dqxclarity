@@ -1,9 +1,9 @@
 {
   "1": {
-    "<%sCAS_gambler>は|宿屋のマスに　止まった！": "<%sCAS_gambler> stopped on an|Inn Space!"
+    "<%sCAS_gambler>は|宿屋のマスに　止まった！": "<%sCAS_gambler> landed on an|Inn Space!"
   },
   "2": {
-    "<%sCAS_gambler>は|教会のマスに　止まった！": "<%sCAS_gambler> stopped on a|Church Space!"
+    "<%sCAS_gambler>は|教会のマスに　止まった！": "<%sCAS_gambler> landed on a|Church Space!"
   },
   "3": {
     "モンスターが　あらわれた！": "A monster draws near!"
@@ -366,25 +366,25 @@
     "グラコスがあらわれた！": "Gracos draws near!"
   },
   "123": {
-    "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターの　動きを封じてくれます！": "Anlucia joins your party|<br>|Every 5 turns, Anlucia will stop enemies|in their tracks by using the light of the|hero!"
+    "アンルシアが　仲間に加わった！|<br>|アンルシアは　５ターンに１度|勇者の光を　放つことで|モンスターの　動きを封じてくれます！": "Anlucia joins the party!|<br>|Every 5 turns, Anlucia will stop enemies|in their tracks by using the light of the|hero!"
   },
   "124": {
     "clarity_nt_char_124": "clarity_nt_char_124"
   },
   "125": {
-    "エステラが　仲間に加わった！|<br>|エステラは　３ターンに１度|竜気の結晶を　召喚して|全てのダメージから　身を守ってくれます！": "Estella joins your party|<br>|Every 3 turns, Estella will summon a|dragonic spirit crystal to shield you from|all damage!"
+    "エステラが　仲間に加わった！|<br>|エステラは　３ターンに１度|竜気の結晶を　召喚して|全てのダメージから　身を守ってくれます！": "Estella joins the party!|<br>|Every 3 turns, Estella will summon a|dragonic spirit crystal to shield you from|all damage!"
   },
   "126": {
     "clarity_nt_char_126": "clarity_nt_char_126"
   },
   "127": {
-    "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": "Hyuza joined your party!|<br>|Every 3 turns, Hyuza will grant the entire|party a Critical Claim effect!"
+    "ヒューザが　仲間に加わった！|<br>|ヒューザは　３ターンに１度|仲間全員に　会心必中の効果を|与えてくれます！": "Hyuza joins the party!|<br>|Every 3 turns, Hyuza will grant the entire|party a Critical Claim effect!"
   },
   "128": {
-    "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": "Zankrone joined your party!|<br>|Every 2 turns, Zankrone will increase the|entire party's tension by 1 stage!"
+    "ザンクローネが　仲間に加わった！|<br>|ザンクローネは　２ターンに１度|仲間全員の　テンションを|１段階　アップしてくれます！": "Zankrone joins the party!|<br>|Every 2 turns, Zankrone will increase the|entire party's tension by 1 stage!"
   },
   "129": {
-    "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphi joined the party!|<br>|Every turn, Seraphi will cast Multiheal to|heal the entire party!"
+    "セラフィが　仲間に加わった！|<br>|セラフィは　毎ターン|ベホマラーを　となえて|仲間全員を　回復してくれます！": "Seraphi joins the party!|<br>|Every turn, Seraphi will cast Multiheal to|heal the entire party!"
   },
   "130": {
     "clarity_nt_char_130": "clarity_nt_char_130"
@@ -1389,7 +1389,7 @@
     "clarity_nt_char_463": "clarity_nt_char_463"
   },
   "464": {
-    "アンルシアは|勇者の光を　溜めはじめた！|次のターン　勇者の光を　放つようだ！": "Anlucia has begun to store the hero's light!|Next turn, the heroic light will shine forth!"
+    "アンルシアは|勇者の光を　溜めはじめた！|次のターン　勇者の光を　放つようだ！": "Anlucia began accumulating a heroic light!|Next turn, the heroic light will shine forth!"
   },
   "465": {
     "<%sCAS_gambler>は　ねむっている！": "<%sCAS_gambler> is asleep!"
@@ -1443,7 +1443,7 @@
     "clarity_nt_char_481": "clarity_nt_char_481"
   },
   "482": {
-    "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovered <%nCAS_value> HP!"
+    "<%sCAS_gambler>のＨＰが　<%nCAS_value>回復した！": "<%sCAS_gambler> recovered <%dCAS_value> HP!"
   },
   "483": {
     "clarity_nt_char_483": "clarity_nt_char_483"
