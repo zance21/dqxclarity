@@ -6,7 +6,7 @@
     "「うん　それに……。": "Yeah, besides..."
   },
   "3": {
-    "「あのガラクタ城に住む　ダストン氏は|　キーエンブレムを　ゆずってくれるような|　人物じゃなかったしね。": "Duston, the guy who lives in that run-down|castle, isn't the kind of guy who would give|up his Key Emblem..."
+    "「あのガラクタ城に住む　ダストン氏は|　キーエンブレムを　ゆずってくれるような|　人物じゃなかったしね。": "Duston, the guy who lives in Junk Castle,|isn't the kind of guy who would give up his|Key Emblem..."
   },
   "4": {
     "「うむ……仕方がない。|　他の町で　名を上げるとするか。": "Hmm... No helping it.|Guess we'll make a name for ourselves|somewhere else."
@@ -15,10 +15,10 @@
     "「天知る！　地知る！　人ぞ知る！": "The eyes of justice shine brightest in|darkness!"
   },
   "6": {
-    "「美少女怪盗ポイックリン！|　華麗に　任務完了でございますわっ！": "The beautiful thief, Poiclin! My mission|has been accomplished brilliantly!"
+    "「美少女怪盗ポイックリン！|　華麗に　任務完了でございますわっ！": "The beautiful lady thief, Poiclin!|My mission has been accomplished brilliantly!"
   },
   "7": {
-    "「あれは……？": "Is that...?"
+    "「あれは……？": "Hmm...?"
   },
   "8": {
     "「待ってくださーい！": "Hold it right there!"
@@ -63,7 +63,7 @@
     "「あぎゃぎゃぎゃ……　なんですよッ！！": "(*Grumble-mumble-mmph!*)...|Well, WHO IS IT THEN?!"
   },
   "22": {
-    "「そうですね　ダストンさま。": "Right, Mr. Duston."
+    "「そうですね　ダストンさま。": "It's like this, Mr. Duston."
   },
   "23": {
     "「ポイックリンが盗んでいった　緑の石板は|　ダストンさまが　三日三晩　掘って見つけた|　たいへん　めずらしいガラクタでした！": "The Green Tablet that Poiclin stole was a rare|piece of garbage that Mr. Duston found after|digging for three days and three nights!"
@@ -75,10 +75,10 @@
     "「おっしゃる通りです　ダストンさま。": "Indeed, Mr. Duston."
   },
   "26": {
-    "「このガラクタ城ばかり　３度も狙い|　ダストンさまの　とっておきの宝物ばかりを|　盗むなんて　ひどすぎます！": "This is the third time she's targeted this|ramshackle castle and stolen all of|Mr. Duston's most prized possessions."
+    "「このガラクタ城ばかり　３度も狙い|　ダストンさまの　とっておきの宝物ばかりを|　盗むなんて　ひどすぎます！": "This is the third time she's targeted Junk|Castle and stolen all of Mr. Duston's most|prized possessions."
   },
   "27": {
-    "「ポイックリンめ！|　いったい　なんの恨みがあって|　この城にばかり……。": "Poiclin!|What kinda beef do you have with me that keeps|bringing you back to this castle...?"
+    "「ポイックリンめ！|　いったい　なんの恨みがあって|　この城にばかり……。": "That rotten Poiclin!|What kind of grudge does she have against|Mr. Duston...?"
   },
   "28": {
     "「……ああっ。|　こんなとき　チリさんがいてくれれば|　あっという間に　解決してくださるのに。": "...If only Chili were here to help us in a|time like this. She'd solve all our problems|in a heartbeat."
@@ -102,7 +102,7 @@
     "「なんですってッ！？|　……ふがっ！": "Are you serious?!|...GRRAH!"
   },
   "35": {
-    "「キ…キーふぇンブレムなんて|　ひゃくに立たないもの……|　あげるわふぇ　ないじゃないふぇすかッ！！": "Th-thrr's no way I'd evrr grrve up somethnng|as unimportnnt as a (huff!) K-Key Emblemmm to|some'n who hasn't evnn don' anythin' usefull!!"
+    "「キ…キーふぇンブレムなんて|　ひゃくに立たないもの……|　あげるわふぇ　ないじゃないふぇすかッ！！": "Th-thrr's no way I'd evrr grrve up somethnng|as unimportnnt as a (huff!) K-Key Emblummm to|some'n who hasn't evnn don' anythin' usefull!!"
   },
   "36": {
     "「ダストンさまっ！|　この方　一人前の証を|　持っていらっしゃいますよ！！": "Mr. Duston!|They have a Mark of Adulthood!!"
@@ -126,7 +126,7 @@
     "「今日からアンタは　わしの助手|　ポツコン２号ですッ！！": "From now on, you're my assistant: Junker #2!"
   },
   "43": {
-    "「出動ですッ　ポツコン２号！|　なんとしてでも　ポイックリンから|　緑の石板を　奪い返すんですよッ！！": "Let's move out, Junker #2!|We'll do whatever it takes to get the green|tablet back from Poiclin!"
+    "「出動ですッ　ポツコン２号！|　なんとしてでも　ポイックリンから|　緑の石板を　奪い返すんですよッ！！": "Let's move out, Junker #2!|We have to get the Green Tablet back from|Poiclin at all costs!"
   },
   "44": {
     "「ダストンさまー！|　ポイックリンが消えたのは　北東の方角ですー！": "Mr. Duston!|Poiclin disappeared to the northeast!"
@@ -198,7 +198,7 @@
     "「……そう。<pc>っていうのね。|　どこかで見た顔だと思ったら|　あのとき　ガラクタ城の前にいた人じゃない。": "...That's right. You're <pc>.|I thought I'd seen your face somewhere, but|you're not the one who I saw in front of Junk|<br>|Castle back then."
   },
   "67": {
-    "「残念だけど　緑の石板は|　マグマの中に捨てちゃったわ。|　もう二度と　誰も　手にできないように！": "Sorry, but I had to throw the Green Tablet|into the magma... So that no one can ever get|their hands on it again!"
+    "「残念だけど　緑の石板は|　マグマの中に捨てちゃったわ。|　もう二度と　誰も　手にできないように！": "Sorry, but I had to throw the Green Tablet|into the magma... so that no one can ever get|their hands on it again!"
   },
   "68": {
     "「あの石板はね……|　ウルベア地下遺跡の奥にある|　扉を開けるための　カギだったの。": "That tablet... is a key to open a door at the|back of the Urbea Underground Ruins."
@@ -207,25 +207,25 @@
     "「そんな石板が　手元にあれば|　いつか　あの人は扉を開けてしまう。|　それだけは　させるわけにはいかないから！": "If he had that tablet, he would eventually|open that door. I can't let that happen!"
   },
   "70": {
-    "「くぷぷぷぷ……！": "Gweh-he-he-heh...!"
+    "「くぷぷぷぷ……！": "Gweh-heh-heh...!"
   },
   "71": {
-    "「してやったりですよッ！": "We've done it!"
+    "「してやったりですよッ！": "I've done it!"
   },
   "72": {
     "「ポイックリンのヤツも|　まさか　わしが　カベに張りついているとは|　思わなかったようですねえッ！": "Poiclin never expected that I'd be stuck to|the wall, did she?!"
   },
   "73": {
-    "「なんですか　ポツコン２号ッ？|　その　しらーっとした目は！！": "What is it, Junker #2? What's with the blank|stare?"
+    "「なんですか　ポツコン２号ッ？|　その　しらーっとした目は！！": "What is it, Junker #2?|What's with the blank stare?"
   },
   "74": {
-    "「ははあ……　なるほど。|　さっきの　ポイックリンの話を|　気にしてるんですねッ？": "Hahaa... I get it.|You're worried about what Poiclin said, aren't|you?"
+    "「ははあ……　なるほど。|　さっきの　ポイックリンの話を|　気にしてるんですねッ？": "Haha... I get it.|You're worried about what Poiclin said, aren't|you?"
   },
   "75": {
     "「この石板は　残念ながら|　使えるものでしたが……。": "Unfortunately, it seems like this tablet's|useful after all..."
   },
   "76": {
-    "「これを使って　開けられる|　ウルベア地下遺跡の扉の先には　きっと|　さらなるガラクタが　眠っているんですよ！": "But I'm sure there's even more junk lying|beyond the door in the Urbea Underground Ruins|which this can open!"
+    "「これを使って　開けられる|　ウルベア地下遺跡の扉の先には　きっと|　さらなるガラクタが　眠っているんですよ！": "But I'm sure there's even more junk lying|beyond the door in the Urbea Underground|Ruins!"
   },
   "77": {
     "「わしのカンは　ハズれたことがねえです！|　この緑の石板ちゃんは　必ず　わしを|　ガラクタの元へ　導いてくれますよッ！！": "My instincts have never been wrong! I'm sure|this Green Tablet will lead me to more junk!!"
@@ -291,7 +291,7 @@
     "「天知る！　地知る！　人ぞ知る！": "The eyes of justice shine brightest in|darkness!"
   },
   "98": {
-    "「美少女怪盗ポイックリン！|　華麗に　参上でございますわっ！": "The beautiful thief, Poiclin!|Arriving in all her splendor!"
+    "「美少女怪盗ポイックリン！|　華麗に　参上でございますわっ！": "The beautiful lady thief, Poiclin!|Arriving in all her splendor!"
   },
   "99": {
     "「ああっ　こんなこと|　してる場合じゃないのにっ！": "Gah, this isn't the time for that!"
@@ -357,7 +357,7 @@
     "「そ　そうよ！　だって………。": "Y-yeah! Because..."
   },
   "120": {
-    "「く～～～っ！|　わしは　自分の命なんかよりも|　ガラクタの方が　ずーっと大事なんですッ！！": "Urrrgh~!|I value this junk way more than my own life!!"
+    "「く～～～っ！|　わしは　自分の命なんかよりも|　ガラクタの方が　ずーっと大事なんですッ！！": "Urrrgh～!|I value this junk way more than my own life!!"
   },
   "121": {
     "「命のが大事だなんて　甘っちょろい価値観に|　わしを　はめ込まないでくださいッ！|　余計なコトしねえでくだせいッ！！": "Don't do something unnecessary like involving|me in your mushy-gushy ideals about the value|of life!!"
@@ -384,7 +384,7 @@
     "「お礼に　お父さんの持っている|　キーエンブレムを　あげたらどうかな？": "Why don't you give them your Key Emblem as|thanks?"
   },
   "129": {
-    "「なんですって！？": "Excuse me?!"
+    "「なんですって！？": "Come again?!"
   },
   "130": {
     "「あれは　わしの命より大切なガラクタですよ！|　あれほど　意味のないシロモノなんて|　そうそう……": "That's a piece of junk that's worth more than|my life! There aren't many things that are as|useless as that is..."
@@ -429,7 +429,7 @@
     "「さあ　急いで　ここから出て！": "Come on, hurry up and get out of here!"
   },
   "144": {
-    "「この部屋のことは　まだ|　ドルワーム王国にある　王立研究院でも|　ちゃんと解明できていないの。": "The Royal Academy of Research in the Kingdom|of Dolworm has yet to properly understand|this room..."
+    "「この部屋のことは　まだ|　ドルワーム王国にある　王立研究院でも|　ちゃんと解明できていないの。": "The Royal Academy of Research in the Kingdom|of Dolworm doesn't fully understand this room|yet."
   },
   "145": {
     "「何かあるといけないから|　緑の石板は　私が　あずかるわね！": "I'll take the Green Tablet in case anything|goes wrong!"
@@ -447,10 +447,10 @@
     "「あっ　ポツコン２号さんっ！！": "Ah, Junker #2!"
   },
   "150": {
-    "「おおっ　よく来てくれましたね　ポツコン２号！": "Oh, thank you so much for coming, Junker #2!"
+    "「おおっ　よく来てくれましたね　ポツコン２号！": "Oh, thanks for coming, Junker #2!"
   },
   "151": {
-    "「いったい　なんの用ですか？": "What do YOU want?"
+    "「いったい　なんの用ですか？": "What do you want?"
   },
   "152": {
     "「………………？": "..................?"
@@ -474,7 +474,7 @@
     "「むむむ……？|　なんのことだか　サーッパリですよ。": "Hhhmmmm...?|I don't know what you're talking about."
   },
   "159": {
-    "「知っているなら|　ポツコンが探してあげるですよッ！": "If you know what it is, then go find it, Junker!"
+    "「知っているなら|　ポツコンが探してあげるですよッ！": "If you know what it is, then go find it,|Junker!"
   },
   "160": {
     "「はいっ　ダストンさま！": "Yes, Mr. Duston!"
@@ -483,7 +483,7 @@
     "「ダストンさまは　ガラクタじゃない物のことは|　すぐ忘れてしまうんですよ。": "Mr. Duston forgets everything that's not|junk..."
   },
   "162": {
-    "「でも　今回は　忘れるの早かったな。|　チリさんのことは　なんだかんだ言って|　ずーっと覚えていらっしゃるのに。": "But this time, I think he forgot way too soon.|He's going to remember Chili for a long time."
+    "「でも　今回は　忘れるの早かったな。|　チリさんのことは　なんだかんだ言って|　ずーっと覚えていらっしゃるのに。": "But this time you forgot way too soon.|After all, you remembered Chili for a really|long time."
   },
   "163": {
     "「ポツコン！|　そんな余計なことを言ってしまうヤツは！！": "Junker!|Don't say unnecessary stuff like that!!"
@@ -504,7 +504,7 @@
     "「ポツコン２号！|　アンタは　ただのデキのいい　お人ですから|　もう　わしの助手じゃねえです。": "Junker #2!|You're a good person, so you're not my|assistant anymore."
   },
   "169": {
-    "「さあ　用がねえなら帰ってくだせぇ！|　だけど　いつでも　ガラクタ城に|　遊びにきて　いいですからねッ！！": "Now, if you don't have anymore business here,|go home! But you can come visit me at the Junk|Castle anytime you want!!"
+    "「さあ　用がねえなら帰ってくだせぇ！|　だけど　いつでも　ガラクタ城に|　遊びにきて　いいですからねッ！！": "Now, if you don't have any more business here,|go home! But you can come visit us at the Junk|Castle anytime you want!!"
   },
   "170": {
     "「…………む？": "...Hmm?"
@@ -516,28 +516,28 @@
     "「まさか……！": "No way...!"
   },
   "173": {
-    "「いいや　その目は　ウソつきの目です！|　ウソつきさんの目ですよッ！！": "No, those are the eyes of a liar!!"
+    "「いいや　その目は　ウソつきの目です！|　ウソつきさんの目ですよッ！！": "No, those are the eyes of a liar!!|You're lying through your teeth!!"
   },
   "174": {
     "「なんて　ヒドイ人ですッ！|　ガラクタ好きを　よそおって|　わしを　だますなんて……": "You're a horrible person!|How dare you deceive me by pretending to be a|fellow fan of junk..."
   },
   "175": {
-    "「あびゃびゃびゃびゃーー！！！": "(Grrgh, mrrgh, mmph*)ー!!!"
+    "「あびゃびゃびゃびゃーー！！！": "HRRGAAAAAAAAAAAHー!!!"
   },
   "176": {
-    "「わしとガラクタの仲だけは|　誰にも　ジャマさせねえです……！": "No one messes with me an my junk...!"
+    "「わしとガラクタの仲だけは|　誰にも　ジャマさせねえです……！": "No one messes with me and my junk...!"
   },
   "177": {
-    "「ダメーーー！！": "NO WAYーーー!!"
+    "「ダメーーー！！": "DON'Tー!!"
   },
   "178": {
-    "「やったですかッ！？": "Did you do it?!"
+    "「やったですかッ！？": "Did I do it?!"
   },
   "179": {
-    "「間に合わなかった……。": "I couldn't make it in time..."
+    "「間に合わなかった……。": "I didn't make it in time..."
   },
   "180": {
-    "「いいえ……　この先　何があろうと|　絶対に　あの人を守ってみせる！": "No...|No matter what happens in the future, I'll|protect him!"
+    "「いいえ……　この先　何があろうと|　絶対に　あの人を守ってみせる！": "No... No matter what happens now, I'll protect|him!"
   },
   "181": {
     "「お願い　<cs_pchero>！|　あなたも　チカラを貸して！！": "Please, <cs_pchero>!|I need your help!"
@@ -570,13 +570,13 @@
     "「これは　太古の帝国　ウルベアで|　開発された　ウルベア魔神兵。": "That's the Urbea Aztech, developed in the|ancient Urbea Empire."
   },
   "191": {
-    "「生身で勝てる相手じゃないわっ！|　早く　逃げて！！": "You're flesh and blood, there's no way you can|beat it! Get out of here!!"
+    "「生身で勝てる相手じゃないわっ！|　早く　逃げて！！": "You're flesh and blood.|There's no way you can beat it!|Get out of here!!"
   },
   "192": {
-    "「ぐぬぬ……！": "Owie oww...!"
+    "「ぐぬぬ……！": "Ggh...!"
   },
   "193": {
-    "「侵入者　ハイジョ　ハイジョ……。": "[INTRUDER:_ERADICATE]|[INTRUDER:_ERADICATE]"
+    "「侵入者　ハイジョ　ハイジョ……。": "[INTRUDER:_ERADICATE...]|[INTRUDER:_ERADICATE...]"
   },
   "194": {
     "「ポツコン２号！": "Junker #2!"
@@ -585,13 +585,13 @@
     "「命令ですッ！|　あの魔神兵を倒すんですよッ！": "Beat the Urbea Aztech!|That's an order!"
   },
   "196": {
-    "「そしたら　石板を奪おうとした罪は|　忘れてあげますッ！！": "Then, I'll forget that you ever tried to steal|the tablet!"
+    "「そしたら　石板を奪おうとした罪は|　忘れてあげますッ！！": "Then I'll forget that you ever tried to steal|the tablet!"
   },
   "197": {
-    "「機能テイシ……　キノウ停止………。|　ウルベア帝国……　永遠ナレ……。": "[INSPECT:_FUNCTION]...[FUNCTION_HALTED]...|[THE_UR_bEA_EMPiRE]...|[iS______etERn_a__llllll]..."
+    "「機能テイシ……　キノウ停止………。|　ウルベア帝国……　永遠ナレ……。": "[INSPECT:_FUNCTION...]|[FUNCTION_HALTED...]|<br>|[THE_UR_bEA_EMPiRE...]|[iS______etERn_a__llllll.. .]"
   },
   "198": {
-    "「ここを出たら　必ず　ガラクタ城へ行ってね。|　お父さんが　キーエンブレムのことを|　忘れてしまう前に。": "When we leave, we need to go to the Junk|Castle, okay? Dad forgot the Key Emblem."
+    "「ここを出たら　必ず　ガラクタ城へ行ってね。|　お父さんが　キーエンブレムのことを|　忘れてしまう前に。": "When you leave, you need to go to the Junk|Castle, okay? Dad forgot the Key Emblem."
   },
   "199": {
     "「わしは　一度　ガラクタ城へ戻りますッ！|　あんな大量のガラクタ　持ちきれないんで|　ポツコンを連れて　出直すことにしますよッ！": "I'm going back to the Junk Castle!|I can't carry this much junk with me, so I'll|have to head back with Junker."
@@ -603,7 +603,7 @@
     "「じゃあね　<pc>。|　あの　わからず屋にも　よろしく伝えておいて！": "See ya, <pc>.|Give my regards to that dunce!"
   },
   "202": {
-    "「……あ。それで　伝言の続きなんですが|　ウルベア地下遺跡は　町を出て|　西の山沿いに進んだ先に　あるそうです。": "...Ah. So, to repeat the message, the Urbea|Underground Ruins are located west of town|along the mountains."
+    "「……あ。それで　伝言の続きなんですが|　ウルベア地下遺跡は　町を出て|　西の山沿いに進んだ先に　あるそうです。": "...Uhh. So, to repeat the message, the Urbea|Underground Ruins are located west of town|along the mountains."
   },
   "203": {
     "「ただ　入り口が少し　わかりづらいようなので|　最後は　努力と根性で　探しあててください。|　それでは　ダストンさまを頼みましたよ！": "Unfortunately, the entrance is a little hard|to find, so you'll have to put in a little|elbow grease.|<br>|Now then, please help Mr. Duston!"
@@ -615,7 +615,7 @@
     "「あの人が　古代兵器を目覚めさせてしまう前に|　緑の石板を　奪い返さないと……！": "We have to get the Green Tablet back before|he wakes up the ancient weapon."
   },
   "206": {
-    "「急ぎましょう　<pc>！|　あの人は　この先を　右に曲がっていったわ！|　そこから地下を目指せば　追いつけるはずよ！": "He went around that corner over there!|If we go there, we can catch up with him!"
+    "「急ぎましょう　<pc>！|　あの人は　この先を　右に曲がっていったわ！|　そこから地下を目指せば　追いつけるはずよ！": "He went around that corner over there!|If we follow, we can catch up with him!"
   },
   "207": {
     "「あら　あなたは　たしか……。": "Oh, you must be..."
@@ -624,6 +624,6 @@
     "「以前　ドルワームを救ってくれた|　<pc>って　旅人さんよね？|　どうして　こんな所に……。": "You're the person who saved Dolworm.|You're a traveler, right?|Why'd you come here...?"
   },
   "209": {
-    "「そっか……。|　あの人に頼まれて　私のことを追ってきたのね？": "I get it...|He asked you to come after me, didn't he?"
+    "「そっか……。|　あの人に頼まれて　私のことを追ってきたのね？": "Is that so...?|He asked you to come after me, didn't he?"
   }
 }
