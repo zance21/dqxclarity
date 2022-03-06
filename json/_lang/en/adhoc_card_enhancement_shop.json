@@ -1,6 +1,6 @@
 {
     "1": {
-        "「よく　来てくれたね。ここは　札強化屋だ。|　今日は　どんなご用かな？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|不思議のカードをわたす|説明を聞く|<select_end><break>": "You come here often... This is a strong|bill... What can I do for you today?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effects that are attached|Get a wonder card|Give away the mystery card|Listen to the explanation|<select_end><break>"
+        "「よく　来てくれたね。ここは　札強化屋だ。|　今日は　どんなご用かな？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|不思議のカードをわたす|説明を聞く|<select_end><break>": "Good to see you. You can enhance your card|here. What can I do for you today?|<select_se_off>|Add Effects|Enhance Effects|Erase Effects|Get Card|Return Card|Explanation|<select_end><break>"
     },
     "2": {
         "予備テキスト": "preliminary text"
@@ -15,19 +15,19 @@
         "「効果を付けたいカードは　どれだい？|<break>": "Which card do you want to add the effect to?<break>"
     },
     "6": {
-        "「この中から　付けたい効果を|　選んでくれるかな。|<break>": "You can choose any of these effects you|want...<break>"
+        "「この中から　付けたい効果を|　選んでくれるかな。|<break>": "Which effect do you want to add?<break>"
     },
     "7": {
-        "「<%sL_ADD_KOUKA>だね。|　必要な素材を　消費して|　効果を　追加するけど　いいかな？|<yesno_2><break>": "<%sL_ADD_KOUKA... I'm going to add an effect|by consuming the necessary materials, is that|okay?<yesno_2><break>"
+        "「<%sL_ADD_KOUKA>だね。|　必要な素材を　消費して|　効果を　追加するけど　いいかな？|<yesno_2><break>": "<%sL_ADD_KOUKA>? I'll take your|materials and add the effect. That good with|you?<yesno_2><break>"
     },
     "8": {
-        "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> with the|effect of <%sL_ADD_KOUKA>!<end>"
+        "<pipipi_off>|<%sL_WATASITA_ITEM><%sM_plusnum>に|<%sL_ADD_KOUKA>の　効果を付けた！|<end>": "<pipipi_off><%sL_WATASITA_ITEM><%sM_plusnum> had the effect of|<%sL_ADD_KOUKA> added!<end>"
     },
     "9": {
-        "「このカードは　ロックされているね。|　本当に　効果を付けても　いいかい？|<yesno_2><break>": "This card is locked... Are you sure you don't|want me to put an effect on it?<yesno_2><break>"
+        "「このカードは　ロックされているね。|　本当に　効果を付けても　いいかい？|<yesno_2><break>": "This card is locked. You sure it's okay to put|to put an effect on it?<yesno_2><break>"
     },
     "10": {
-        "「他に　用はあるかい？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|不思議のカードをわたす|説明を聞く|<select_end><break>": "Is there anything else I can do for you?|<select_se_off>|add an effect|Growing Effectiveness|Erase the effects that are attached|Get a wonder card|Give away the mystery card|Listen to the explanation|<select_end><break>"
+        "「他に　用はあるかい？|<select_se_off>|効果を付ける|効果を成長させる|付いている効果を消す|不思議のカードをもらう|不思議のカードをわたす|説明を聞く|<select_end><break>": "Is there anything else I can do for you?|<select_se_off>|Add Effects|Enhance Effects|Remove Effects|Obtain Card|Return Card|Explanation|<select_end><break>"
     },
     "11": {
         "「効果を消したいカードは　どれだい？|<break>": "Which card do you want to remove the effect|from?<break>"
@@ -141,6 +141,6 @@
         "<pipipi_off>|<%sL_MODORU_ITEM>が　<%nL_MODORU_TIP>枚　戻ってきた！|<se_nots System 7>|<end>": "<pipipi_off><%sL_MODORU_ITEM> is back to|<%nL_MODORU_TIP>!|<se_nots System 7>|<end>"
     },
     "48": {
-        "「装備中のものは　回収できないよ。|<bw_break>": "I can't retrieve what's in my gear.<bw_break>"
+        "「装備中のものは　回収できないよ。|<bw_break>": "I can't take something you have equipped.<bw_break>"
     }
 }

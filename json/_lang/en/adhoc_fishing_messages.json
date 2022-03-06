@@ -57,7 +57,7 @@
     "釣れるもの|<select_se_off>|魚　通常|魚　大物|魚　超大物|宝箱|<select_end><break>": "Catch options|<select_se_off>|Usual Fish|Big Fish|Super Fish|Chest|<select_end><break>"
   },
   "20": {
-    "<select_se_off>|さおを引く|全力で引く|暗黒引き|まじん引き|マヒャド引き|ルアー覚醒|あきらめる|釣り上げる|逃げられる|<select_end><break>": "<select_se_off>|Pull the worm|All your might|Dark pull|Majestic Pull|Mahyad pull|Lure awakening|Give up|Fish up|Run away|<select_end><break>"
+    "<select_se_off>|さおを引く|全力で引く|暗黒引き|まじん引き|マヒャド引き|ルアー覚醒|あきらめる|釣り上げる|逃げられる|<select_end><break>": "<select_se_off>|Reel Rod|Full Power Reel|Dark pull|Majestic Pull|Mahyad pull|Lure awakening|Give up|Fish up|Run away|<select_end><break>"
   },
   "21": {
     "宝箱を　釣り上げた！|<bw_break>": "You caught a treasure chest!<bw_break>"
@@ -75,7 +75,7 @@
     "<%.1fL_DISTANCE>メートル引き寄せた！": "<%.1fL_DISTANCE> meters reeled!"
   },
   "26": {
-    "<%.1fL_DISTANCE>メートル離れた！": "<%.1fL_DISTANCE> meters away!"
+    "<%.1fL_DISTANCE>メートル離れた！": "Swam <%.1fL_DISTANCE> meters away!"
   },
   "27": {
     "くいつき度が　<%dL_KUITUKIDO>減った！": "Bite level decreased by <%dL_KUITUKIDO>!"
