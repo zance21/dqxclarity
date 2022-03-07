@@ -9150,13 +9150,13 @@
         "clarity_nt_char_3050": "clarity_nt_char_3050"
     },
     "3051": {
-        "<speed=0>フレンドに　さそうことができる|相手が　いませんでした。": ""
+        "<speed=0>フレンドに　さそうことができる|相手が　いませんでした。": "<speed=0>There's no one to add as a friend."
     },
     "3052": {
-        "<speed=0>フレンドに　さそう相手を　選んでください。<break>": ""
+        "<speed=0>フレンドに　さそう相手を　選んでください。<break>": "<speed=0>Please choose a player to add as a friend.<break>""
     },
     "3053": {
-        "<speed=0><%sM_pc>には　参照できる|フレンドが　いません。": ""
+        "<speed=0><%sM_pc>には　参照できる|フレンドが　いません。": "<speed=0><%sM_pc> has no friends to|invite from."
     },
     "3054": {
         "<speed=0>フレンド情報を　取得中です。|しばらくお待ちください。<break>": "<speed=0>Retreiving friend data. Please wait.<break>"
@@ -9180,7 +9180,7 @@
         "® ": ""
     },
     "3061": {
-        "素材・未鑑定アイテム": "Mats - Unidentified"
+        "素材・未鑑定アイテム": "Mats./Unidentified"
     },
     "3062": {
         "clarity_nt_char_3062": "clarity_nt_char_3062"
@@ -9228,7 +9228,7 @@
         "clarity_nt_char_3076": "clarity_nt_char_3076"
     },
     "3077": {
-        "作成Lv": "Crf Lv"
+        "作成Lv": "Craft Lv"
     },
     "3078": {
         "clarity_nt_char_3078": "clarity_nt_char_3078"
@@ -9411,7 +9411,7 @@
         "clarity_nt_char_3137": "clarity_nt_char_3137"
     },
     "3138": {
-        "他の<%sM_PTMember>を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for other members..."
+        "他の<%sM_PTMember>を 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for other members...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "3139": {
         "12時間につき": "Per 12 Hrs."
@@ -25128,7 +25128,7 @@
         "ポイントを交換する": "Redeem Points"
     },
     "8377": {
-        "勲章をセットする": "Set Medals"
+        "勲章をセットする": "Set Badge"
     },
     "8378": {
         "clarity_nt_char_8378": "clarity_nt_char_8378"
@@ -25164,7 +25164,7 @@
         "clarity_nt_char_8388": "clarity_nt_char_8388"
     },
     "8389": {
-        "勲章一覧": "Medal List"
+        "勲章一覧": "Badge List"
     },
     "8390": {
         "clarity_nt_char_8390": "clarity_nt_char_8390"
@@ -30120,13 +30120,13 @@
         "clarity_nt_char_10040": "clarity_nt_char_10040"
     },
     "10041": {
-        "第<%nM_00>回": "#<%nM_00>"
+        "第<%nM_00>回": "#<%dM_00>"
     },
     "10042": {
         "clarity_nt_char_10042": "clarity_nt_char_10042"
     },
     "10043": {
-        "自分のランクを見る": ""
+        "自分のランクを見る": "View Your Rank"
     },
     "10044": {
         "最初の倉庫": "Warehouse 1"
@@ -30267,7 +30267,7 @@
         "近距離自動選択": "Target Closest"
     },
     "10090": {
-        "ビンゴランキング": ""
+        "ビンゴランキング": "Bingo Ranking"
     },
     "10091": {
         "clarity_nt_char_10091": "clarity_nt_char_10091"
@@ -30327,13 +30327,13 @@
         "clarity_nt_char_10109": "clarity_nt_char_10109"
     },
     "10110": {
-        "記録した見た目に戻す": ""
+        "記録した見た目に戻す": "Restore Saved Look"
     },
     "10111": {
         "clarity_nt_char_10111": "clarity_nt_char_10111"
     },
     "10112": {
-        "選んだ見た目を戻す": ""
+        "選んだ見た目を戻す": "Restore Chosen Look"
     },
     "10113": {
         "選んだ姿見を記録する": "Record Selected"
@@ -30504,7 +30504,7 @@
         "clarity_nt_char_10168": "clarity_nt_char_10168"
     },
     "10169": {
-        "何が起こるか　わかりません。": ""
+        "何が起こるか　わかりません。": "Don't know what will happen."
     },
     "10170": {
         "clarity_nt_char_10170": "clarity_nt_char_10170"
@@ -30513,7 +30513,7 @@
         "結晶を取りだす": "Extract Gear"
     },
     "10172": {
-        "錬金付与": ""
+        "錬金付与": "Alch. Grant"
     },
     "10173": {
         "clarity_nt_char_10173": "clarity_nt_char_10173"
@@ -30582,19 +30582,19 @@
         "clarity_nt_char_10194": "clarity_nt_char_10194"
     },
     "10195": {
-        "ジャンプする": ""
+        "ジャンプする": "Jump"
     },
     "10196": {
         "clarity_nt_char_10196": "clarity_nt_char_10196"
     },
     "10197": {
-        "装備スキルを見る": ""
+        "装備スキルを見る": "View Gear Skills"
     },
     "10198": {
         "clarity_nt_char_10198": "clarity_nt_char_10198"
     },
     "10199": {
-        "装備スキル": ""
+        "装備スキル": "Gear Skills"
     },
     "10200": {
         "装備を見る": "View Equips"
@@ -30624,7 +30624,7 @@
         "現在地": "Current"
     },
     "10209": {
-        "イベント会場<%nM_00>": "Event Area <%nM_00>"
+        "イベント会場<%nM_00>": "Event Area <%dM_00>"
     },
     "10210": {
         "clarity_nt_char_10210": "clarity_nt_char_10210"
