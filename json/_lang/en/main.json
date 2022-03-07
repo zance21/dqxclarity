@@ -25599,7 +25599,7 @@
         "clarity_nt_char_8533": "clarity_nt_char_8533"
     },
     "8534": {
-        "答えの合計": ""
+        "答えの合計": "Total Answers"
     },
     "8535": {
         "撃破玉とは": "Attack Orbs"
@@ -25614,31 +25614,31 @@
         "clarity_nt_char_8538": "clarity_nt_char_8538"
     },
     "8539": {
-        "第<%nM_00>回対抗戦　前半": "Competition #<%nM_00> - 1st Half"
+        "第<%nM_00>回対抗戦　前半": "Competition #<%dM_00> - 1st Half"
     },
     "8540": {
         "clarity_nt_char_8540": "clarity_nt_char_8540"
     },
     "8541": {
-        "第<%nM_00>回対抗戦　集計期間": ""
+        "第<%nM_00>回対抗戦　集計期間": "Competition #<%dM_00> - Rivalry"
     },
     "8542": {
         "clarity_nt_char_8542": "clarity_nt_char_8542"
     },
     "8543": {
-        "第<%nM_00>回対抗戦　後半": "Competition #<%nM_00> - 2nd Half"
+        "第<%nM_00>回対抗戦　後半": "Competition #<%dM_00> - 2nd Half"
     },
     "8544": {
         "clarity_nt_char_8544": "clarity_nt_char_8544"
     },
     "8545": {
-        "第<%nM_00>回対抗戦　準備期間": ""
+        "第<%nM_00>回対抗戦　準備期間": "Competition #<%dM_00> - Preparation"
     },
     "8546": {
         "clarity_nt_char_8546": "clarity_nt_char_8546"
     },
     "8547": {
-        "対抗戦　シーズンオフ": ""
+        "対抗戦　シーズンオフ": "Competition Off-season"
     },
     "8548": {
         "clarity_nt_char_8548": "clarity_nt_char_8548"
@@ -25647,7 +25647,7 @@
         "職業ランクとは": ""
     },
     "8550": {
-        "<%sM_CLEARBONUS>": ""
+        "<%sM_CLEARBONUS>": "<%sM_CLEARBONUS>"
     },
     "8551": {
         "clarity_nt_char_8551": "clarity_nt_char_8551"
@@ -25668,7 +25668,7 @@
         "回可能": "Times"
     },
     "8557": {
-        "他のメンバーがそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for other members..."
+        "他のメンバーがそろうのを 待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for other members...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
     },
     "8558": {
         "clarity_nt_char_8558": "clarity_nt_char_8558"
@@ -25686,7 +25686,7 @@
         "clarity_nt_char_8562": "clarity_nt_char_8562"
     },
     "8563": {
-        "開催期間：次回大型アップデートまで": "Event Period: Until The Next Major Update"
+        "開催期間：次回大型アップデートまで": "Event Period: Until Next Major Update"
     },
     "8564": {
         "公式バトルの個人記録": "Official Battle Records"

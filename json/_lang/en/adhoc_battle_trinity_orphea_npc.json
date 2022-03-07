@@ -3,31 +3,31 @@
     "「……何やら　問題が　起きているようだ。|　すこし　時間をおいてから　来るがよい。|　コフーーー……。|<end>": "... I think we have a problem. I'll come back|in a little while... Kofoo...<end>"
   },
   "2": {
-    "「……私に　何の用だ？|<break>": "... What do you want from me?<break>"
+    "「……私に　何の用だ？|<break>": "...What do you want?<break>"
   },
   "3": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "4": {
     "「練習試合では　所属チームを選ぶことができる。|　貴様は　どちらを選ぶのだ……？|<break>": "In practice games, you get to choose your|team. Which team will you choose?<break>"
   },
   "5": {
-    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|At my club|In any club|<select_end>|<break>"
+    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|My Club|Any Club|<select_end>|<break>"
   },
   "6": {
     "「……貴様　パーティを組んでるな？|　バトルトリニティへの　参加は|　パーティリーダーが　行うのだ……。|<br>|「パーティリーダーに　頼むか|　ひとりになって　ふたたび　来るがよい……。|　コフーーー……。|<bw_break>": "... You have a party, don't you?|Participation in the Battle Trinity is the|responsibility of the party leader. You can|<br>|either ask the party leader, or you can come|back alone... Kofoo...<bw_break>"
   },
   "7": {
-    "「……ならば　立ち去るがよい。|　コフーーー……。|<end>": "... Then I'll walk away... Kofoo...<end>"
+    "「……ならば　立ち去るがよい。|　コフーーー……。|<end>": "...Then go away. Cough...<end>"
   },
   "8": {
-    "「……これが　貴様の実績だ。|<end>": "... This is your...<end>"
+    "「……これが　貴様の実績だ。|<end>": "...These're your badges.<end>"
   },
   "9": {
-    "「……私に　何の用だ？|<break>": "... What do you want from me?<break>"
+    "「……私に　何の用だ？|<break>": "...What do you want?<break>"
   },
   "10": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "11": {
     "「今は　準備期間だ。|　ポイント交換は　できぬのだ……。|<bw_break>": "I'm ready. You can't redeem points...<bw_break>"
@@ -54,7 +54,7 @@
     "「今日は　何するですか！？|<break>": "What are you going to do today?<break>"
   },
   "19": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "20": {
     "「練習試合は　所属するチームを選べるですヨ！|　どっちが　いいです？|<break>": "You get to choose which team you want to play|for! Which one do you want to play for?<break>"
@@ -75,7 +75,7 @@
     "「今日は　何するですか！？|<break>": "What are you going to do today?<break>"
   },
   "26": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "27": {
     "「むむむ！　今は　準備期間なので|　ポイント交換は　できないですヨ！|<bw_break>": "Mmm! You can't redeem points right now|because we're in the preparation phase!<bw_break>"
@@ -102,7 +102,7 @@
     "「さあ　どうするんだ？|<break>": "What do we do now?<break>"
   },
   "35": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "36": {
     "「練習試合では　所属するチームを選べるが|　どちらが　よいかな？|<break>": "In practice games, you can choose which team|to play for. Which would you prefer?|<break>"
@@ -123,7 +123,7 @@
     "「さあ　どうするんだ？|<break>": "What do we do now?<break>"
   },
   "42": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "43": {
     "「すまないな。|　今は　準備期間だから|　ポイント交換は　できないんだ。|<bw_break>": "Sorry... I can't redeem my points right now|because I'm in the middle of a...<bw_break>"
@@ -132,13 +132,13 @@
     "「他に　用はあるかい？|<break>": "Is there anything else you need?|<break>"
   },
   "45": {
-    "「これが　キミが獲得した　勲章だ！|<break>": "This is the medal you've earned!<break>"
+    "「これが　キミが獲得した　勲章だ！|<break>": "These are the badges you've earned!<break>"
   },
   "46": {
-    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc>  has set the medal for <%sL_Bdg_name>!<se Joutyu_SE 24><pipipi_on>|<end>"
+    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc> set the <%sL_Bdg_name> Badge!<se Joutyu_SE 24><pipipi_on>|<end>"
   },
   "47": {
-    "「この勲章を　セットするのかい？|<yesno><close>": "Are you going to set this medal?<yesno><close>"
+    "「この勲章を　セットするのかい？|<yesno><close>": "Are you going to set this badge?<yesno><close>"
   },
   "48": {
     "「む？　キミは　まだ|　勲章を　持ってないようだが……。|<bw_break>": "No? You don't seem to have a medal yet.<bw_break>"
@@ -150,28 +150,28 @@
     "「さあ！　どうしよっか？|<break>": "Come on! What do we do now?<break>"
   },
   "51": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "52": {
     "「練習試合では　所属するチームを選べるよ！|　どっちが　いいかなあ？|<break>": "In practice, you get to choose which team you|play for! Which one do you prefer?<break>"
   },
   "53": {
-    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|At my club|In any club|<select_end>|<break>"
+    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|My Club|Any club|<select_end>|<break>"
   },
   "54": {
     "「あれれ～？　パーティ組んでるのかなあ？|　バトルトリニティへの　参加はね～|　パーティリーダーが　やるんだよ！|<br>|「パーティリーダーに　お願いするか|　ひとりになって　また　来てね！|<bw_break>": "Huh? Are we forming a party? Participation in|the Battle Trinity is the responsibility of|the party leader. You can either ask the|<br>|party leader for help, or be left alone and|come back later!<bw_break>"
   },
   "55": {
-    "「また　来てよね！|<end>": "You have to come back!<end>"
+    "「また　来てよね！|<end>": "Come back soon!<end>"
   },
   "56": {
-    "「これが　<pc>さんの実績だよお！|<end>": "This is the<pc> It's your achievement!<end>"
+    "「これが　<pc>さんの実績だよお！|<end>": "These areyour achievements!<end>"
   },
   "57": {
     "「さあ！　どうしよっか？|<break>": "Come on! What do we do now?<break>"
   },
   "58": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "59": {
     "「あれれ～？|　今は　準備期間だから|　ポイント交換は　できないよ～？|<bw_break>": "Huh~? We're in the preparation period, so we|can't exchange points right now~?<bw_break>"
@@ -180,10 +180,10 @@
     "「他に　用はあるかな～？|<break>": "Anything else I can do for you?|<break>"
   },
   "61": {
-    "「これが　<pc>さんが|　獲得した　勲章だよ～。|<break>": "This is the<pc> The Medal of Honor won by Mr...<break>"
+    "「これが　<pc>さんが|　獲得した　勲章だよ～。|<break>": "These are the Badges you've won!<break>"
   },
   "62": {
-    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc>  has set the medal for <%sL_Bdg_name>!<se Joutyu_SE 24><pipipi_on>|<end>"
+    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc> set the <%sL_Bdg_name> Badge!<se Joutyu_SE 24><pipipi_on>|<end>"
   },
   "63": {
     "「この勲章を　セットするんだね～？|<yesno><close>": "You're going to set this medal, aren't you?<yesno><close>"
@@ -198,7 +198,7 @@
     "「ねえ……　どうする？|<break>": "Hey... What do we do now?<break>"
   },
   "67": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "68": {
     "「練習試合では　所属するチームを選べるの。|　どちらが　いいかしら？|<break>": "At practice, you get to choose your team...|Which one do you prefer?<break>"
@@ -219,7 +219,7 @@
     "「ねえ……　どうする？|<break>": "Hey... What do we do now?<break>"
   },
   "74": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|Exchange for prizes|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
   },
   "75": {
     "「あら？|　今は　準備期間だから|　ポイント交換は　できないわよ～。|<bw_break>": "What? Well, we're still in the prep phase, so|you can't redeem your points...<bw_break>"
@@ -243,7 +243,7 @@
     "「……私に　何の用だ？|<break>": "... What do you want from me?<break>"
   },
   "82": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|<select_end>|<break>"
   },
   "83": {
     "「では　我らが勝利のため　戦うのだ……。|　コフーーー……。|<end>": "Then we will fight for our victory... Kung|Fu...<end>"
@@ -264,7 +264,7 @@
     "「今日は　何するですか！？|<break>": "What are you going to do today?<break>"
   },
   "89": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|<select_end>|<break>"
   },
   "90": {
     "「オッス！　それじゃ|　対抗戦……　はりきっていくですネ！|<end>": "Hey! And now for the showdown... Let's go for|it!<end>"
@@ -285,7 +285,7 @@
     "「さあ　どうするんだ？|<break>": "What do we do now?<break>"
   },
   "96": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|<select_end>|<break>"
   },
   "97": {
     "「では　対抗戦の始まりだ！|　……共に　勝利を　勝ち取ろうぞ！|<end>": "Then let the rivalry begin! ... Together, we|can win this thing!<end>"
@@ -306,7 +306,7 @@
     "「さあ！　どうしよっか？|<break>": "Come on! What do we do now?<break>"
   },
   "103": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|<select_end>|<break>"
   },
   "104": {
     "「それじゃ　対抗戦だよ！|　敵を　ボッコボコにしてやろうね！|<end>": "All right, let's go to war! We're going to|beat the crap out of them!<end>"
@@ -327,7 +327,7 @@
     "「ねえ……　どうする？|<break>": "Hey... What do we do now?<break>"
   },
   "110": {
-    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice games|play against (a team)|Check your occupation|Check the results|Set the Medal of Honor|Receive special rewards|<select_end>|<break>"
+    "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|<select_end>|<break>"
   },
   "111": {
     "「さあ　対抗戦　始まるわよ！|　楽しんでいきましょ～！|<end>": "Let's get this rivalry started! Let's have|some fun!<end>"
