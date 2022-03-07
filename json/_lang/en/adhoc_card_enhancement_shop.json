@@ -99,7 +99,7 @@
         "「不思議のカードを　もらっていくかい？|<yesno><break>": "Do you want to take the wonder card?<yesno><break>"
     },
     "34": {
-        "<%sL_GET_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "I got <%sL_GET_ITEM>!|<se_nots System 7>|<end>"
+        "<%sL_GET_ITEM>を　手に入れた！|<se_nots System 7>|<end>": "Received <%sL_GET_ITEM>!|<se_nots System 7>|<end>"
     },
     "35": {
         "※未使用": "*Not used"
