@@ -42,7 +42,7 @@
     "今　受けている達人クエストを　キャンセルして|この達人クエストを　受けますか？|<yesno 2><close>": "Would you like to cancel your currently|accepted Master Quest in order to accept a|new one?|<yesno 2><close>"
   },
   "15": {
-    "この達人クエストを　受けますか？|<yesno><close>": "Which quest will you accept?|<yesno><close>"
+    "この達人クエストを　受けますか？|<yesno><close>": "Accept this Master Quest?|<yesno><close>"
   },
   "16": {
     "「受注したクエストは　『さくせん』の|　『達人のオーブ』で　いつでも確認できるぞ。|　達成したら　また　ここに戻ってくるがよい。|<bw_break>": "You can check your accepted quest under the|\"Master Orb\" menu in \"Misc.\". When you've|completed it, you should come back to me.|<bw_break>"

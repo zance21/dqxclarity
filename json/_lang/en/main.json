@@ -11643,7 +11643,7 @@
         "clarity_nt_char_3881": "clarity_nt_char_3881"
     },
     "3882": {
-        "<%sM_item>をあげました！": "I gave you <%sM_item>!"
+        "<%sM_item>をあげました！": "Gave <%sM_item>!"
     },
     "3883": {
         "レア度アップ水をあげました！": "Watered with rarity up!"
@@ -11676,13 +11676,13 @@
         "(3)コゼットの依頼中": "(3)During Cosette's request"
     },
     "3893": {
-        "(2)災厄の王討伐後": "(2)After defeating KoM"
+        "(2)災厄の王討伐後": "(2)After defeating KoC"
     },
     "3894": {
         "clarity_nt_char_3894": "clarity_nt_char_3894"
     },
     "3895": {
-        "(1)災厄の王討伐前": "(1)Before defeating KoM"
+        "(1)災厄の王討伐前": "(1)Before defeating KoC"
     },
     "3896": {
         "clarity_nt_char_3896": "clarity_nt_char_3896"
@@ -11739,7 +11739,7 @@
         "主な活動日": "Active Days"
     },
     "3914": {
-        "<%nM_memmin>～<%nM_memmax>": ""
+        "<%nM_memmin>～<%nM_memmax>": "<%dM_memmin>～<%dM_memmax>"
     },
     "3915": {
         "主な活動時間": "Active Times"
@@ -11964,10 +11964,10 @@
         "釣れる場所": "Where To Fish"
     },
     "3989": {
-        "釣り上げた<%sM_world>のさかなの種類": "Types of Fish Caught At <%sM_world>"
+        "釣り上げた<%sM_world>のさかなの種類": "Types Caught At <%sM_world>"
     },
     "3990": {
-        "釣り上げた<%sM_type>の種類": "Type of <%sM_type> Caught"
+        "釣り上げた<%sM_type>の種類": "<%sM_type> Types Caught"
     },
     "3991": {
         "clarity_nt_char_3991": "clarity_nt_char_3991"
@@ -12042,7 +12042,7 @@
         "セット効果": "Set Effects"
     },
     "4015": {
-        "装備できる仲間モンスター": "Monsters Usable By"
+        "装備できる仲間モンスター": "Equippable Monsters"
     },
     "4016": {
         "clarity_nt_char_4016": "clarity_nt_char_4016"
@@ -12111,7 +12111,7 @@
         "clarity_nt_char_4037": "clarity_nt_char_4037"
     },
     "4038": {
-        "仲間にした数": "# Scouted"
+        "仲間にした数": "No. Scouted"
     },
     "4039": {
         "clarity_nt_char_4039": "clarity_nt_char_4039"
@@ -12144,16 +12144,16 @@
         "装備できる仲間モンスターを見る": "Show Which Monsters Can Equip"
     },
     "4049": {
-        "淡水魚": ""
+        "淡水魚": "Freshwatr"
     },
     "4050": {
-        "海水魚": "Sea Fish"
+        "海水魚": "Saltwater"
     },
     "4051": {
-        "甲殻類": ""
+        "甲殻類": "Shellfish"
     },
     "4052": {
-        "頭足類": ""
+        "頭足類": "Mollusc"
     },
     "4053": {
         "<%sM_sakaname>": ""
@@ -12645,7 +12645,7 @@
         "<%sM_mon>　無制限部門": "<%sM_mon> Unlimited"
     },
     "4216": {
-        "主な生息水域": ""
+        "主な生息水域": "Main Habitat"
     },
     "4217": {
         "clarity_nt_char_4217": "clarity_nt_char_4217"
@@ -14145,7 +14145,7 @@
         "clarity_nt_char_4715": "clarity_nt_char_4715"
     },
     "4716": {
-        "降りる": "Dismount"
+        "降りる": "Descend"
     },
     "4717": {
         "立ち位置決定": "Set Position"
