@@ -357,7 +357,7 @@
         "しまう": "Store"
     },
     "120": {
-        "あける": ""
+        "あける": "Open"
     },
     "121": {
         "ベッドの使用": "Use of Beds"
@@ -366,7 +366,7 @@
         "clarity_nt_char_122": "clarity_nt_char_122"
     },
     "123": {
-        "売り物を設定する": ""
+        "売り物を設定する": "Put up Sale"
     },
     "124": {
         "clarity_nt_char_124": "clarity_nt_char_124"
@@ -390,7 +390,7 @@
         "ねころがる": "Lie Down"
     },
     "131": {
-        "庭をいじる": ""
+        "庭をいじる": "Tidy Up"
     },
     "132": {
         "配置中の庭具": "Move Furniture"
@@ -528,7 +528,7 @@
         "clarity_nt_char_176": "clarity_nt_char_176"
     },
     "177": {
-        "高さをかえる": ""
+        "高さをかえる": "Change Height"
     },
     "178": {
         "clarity_nt_char_178": "clarity_nt_char_178"
@@ -549,13 +549,13 @@
         "いれる": "Put In"
     },
     "184": {
-        "きせかえする": ""
+        "きせかえする": "Change Clothes"
     },
     "185": {
         "clarity_nt_char_185": "clarity_nt_char_185"
     },
     "186": {
-        "一発チェンジ": ""
+        "一発チェンジ": "Quick Change"
     },
     "187": {
         "clarity_nt_char_187": "clarity_nt_char_187"
@@ -576,7 +576,7 @@
         "自分の家の石の使用": "My House Zoomstone Use"
     },
     "193": {
-        "一発チェンジ2": ""
+        "一発チェンジ2": "Quick Change 2"
     },
     "194": {
         "ひきだす": "Draw Out"
@@ -612,10 +612,10 @@
         "モーモンバザー・依頼書中心": "Sanguini Bazaar - Request Form Center"
     },
     "205": {
-        "おくりもの": ""
+        "おくりもの": "Present"
     },
     "206": {
-        "さかなをだす": ""
+        "さかなをだす": "Serve Fish"
     },
     "207": {
         "clarity_nt_char_207": "clarity_nt_char_207"
@@ -702,7 +702,7 @@
         "伝言を登録する": "Register Message"
     },
     "235": {
-        "しめる": ""
+        "しめる": "Close"
     },
     "236": {
         "ポーズ変更": "Change Pose"

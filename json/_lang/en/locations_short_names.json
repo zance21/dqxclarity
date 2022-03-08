@@ -7557,7 +7557,7 @@
         "<%sW_MAP_NAME><%sW_DELIMITER>トンネル": "<%sW_MAP_NAME><%sW_DELIMITER>Tunnel"
     },
     "2520": {
-        "水の中では 傘装備・釣り具が非表示・使用不能になります。": "Umbrella equipment and fishing gear will be hidden and unusable in the water."
+        "水の中では 傘装備・釣り具が非表示・使用不能になります。": "Umbrella equipment and fishing gear will be hidden and|unusable in the water."
     },
     "2521": {
         "clarity_nt_char_2521": "clarity_nt_char_2521"
@@ -8025,7 +8025,7 @@
         "clarity_nt_char_2675": "clarity_nt_char_2675"
     },
     "2676": {
-        "恵みの園 出口": "Grace Land Exit"
+        "恵みの園 出口": "Grace Garden Exit"
     },
     "2677": {
         "終着の星域 出口": "End Star Area Exit"
