@@ -1308,10 +1308,10 @@
         "しかし 持ち物が いっぱいだった！": "But your bag was full."
     },
     "437": {
-        "<speed=0>みやぶれるものが　近くにありません。": ""
+        "<speed=0>みやぶれるものが　近くにありません。": "There's nothing nearby to see through."
     },
     "438": {
-        "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": ""
+        "<speed=0>サポート仲間が　死んでいるので|復活の呪文が　使えない！": "<speed=0>You can't use a resurrection spell　because|your support party is dead!"
     },
     "439": {
         "<speed=0>入力した内容を取り消して　元に戻しますか？<yesno 2><close>": "<speed=0>Cancel any changes you've made?<yesno><close>"
