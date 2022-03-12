@@ -1,72 +1,72 @@
 {
     "1": {
-        "権限がありません。": "You have the authority..."
+        "権限がありません。": "You don't have authority."
     },
     "2": {
-        "何をしますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|説明をみる|<select_end><break>": "What do you want to do?|<select_se_off>|go fishing|fish in a fishing pond|fish in a fishtank|let loose a fish|Record of Fishing Pond|See description|<select_end><break>"
+        "何をしますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|説明をみる|<select_end><break>": "What do you want to do?|<select_se_off>|Fish Here|Check Fish|Put in Fish|Let Fish Go|Fishing Pond Record|Explanation|<select_end><break>"
     },
     "3": {
-        "権限がありません。": "You have the authority..."
+        "権限がありません。": "You don't have authority."
     },
     "4": {
-        "何をしますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|説明をみる|<select_end><break>": "What do you want to do?|<select_se_off>|go fishing|fish in a fishing pond|fish in a fishtank|let loose a fish|Record of Fishing Pond|See description|<select_end><break>"
+        "何をしますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|説明をみる|<select_end><break>": "What do you want to do?|<select_se_off>|Fish Here|Check Fish|Put in Fish|Let Fish Go|Fishing Pond Record|Explanation|<select_end><break><break>"
     },
     "5": {
-        "どの説明を　見ますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|<select_end><break>": "Which description would you like to see?|<select_se_off>|go fishing|fish in a fishing pond|fish in a fishtank|let loose a fish|Record of Fishing Pond|<select_end><break>"
+        "どの説明を　見ますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|<select_end><break>": "View which explanation?|<select_se_off>|Fish Here|Check Fish|Put in Fish|Let Fish Go|Fishing Pond Record|<select_end><break>"
     },
     "6": {
-        "どの説明を　見ますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|<select_end><break>": "Which description would you like to see?|<select_se_off>|go fishing|fish in a fishing pond|fish in a fishtank|let loose a fish|Record of Fishing Pond|<select_end><break>"
+        "どの説明を　見ますか？|<select_se_off>|釣りをする|釣り堀のさかな|さかなを入れる|さかなを逃がす|釣り堀の記録|<select_end><break>": "View which explanation?|<select_se_off>|Fish Here|Check Fish|Put in Fish|Let Fish Go|Fishing Pond Record|<select_end><break>"
     },
     "7": {
-        "この　さかなは　釣りバトル中のため|逃がせません。": "This fish is in the middle of a fishing|battle, so we can't let it go..."
+        "この　さかなは　釣りバトル中のため|逃がせません。": "This fish is in the middle of a fishing|battle, so it can't be let go."
     },
     "8": {
-        "権限がありません。": "You have the authority..."
+        "権限がありません。": "You don't have authority."
     },
     "9": {
-        "釣り堀に　さかなが　いっぱいなので　|入れることは　できません。|": "The fishing pond is full of fish, so we can't|let them in..."
+        "釣り堀に　さかなが　いっぱいなので　|入れることは　できません。|": "The fish pond is full, so you can't put in|any more fish."
     },
     "10": {
-        "釣り堀に　入れる　さかなが　いません。": "There are no fish in the pond..."
+        "釣り堀に　入れる　さかなが　いません。": "There aren't any fish in the pond."
     },
     "11": {
-        "さかなぶくろが　いっぱいです。|釣りをする場合は　ふくろに　空きを　|作ってください。": "There's a lot of fish in this bag. If you|want to fish, you'll need to make room in|your bag..."
+        "さかなぶくろが　いっぱいです。|釣りをする場合は　ふくろに　空きを　|作ってください。": "Your fish bag is full. You'll have to make|room if you want to fish here."
     },
     "12": {
-        "本当に　<%sM_item>を|逃がしますか？ |<yesno><break>": "Do you really want to let <%sM_item> go?<yesno><break>"
+        "本当に　<%sM_item>を|逃がしますか？ |<yesno><break>": "Really let the <%sM_item> go?<yesno><break>"
     },
     "13": {
         "どの　さかなを　逃がしますか？|<break>": "Which fish do you want to let go?<break>"
     },
     "14": {
-        "<%sM_item>を　逃がした！": "You let <%sM_item> go!"
+        "<%sM_item>を　逃がした！": "Let the <%sM_item> go!"
     },
     "15": {
-        "入れた　さかなは　二度と取り出すことが　|できません。|本当に　<%sM_item>を　入れますか？ |<yesno><break>": "Once the fish are in, they can never be|retrieved... Are you sure you want to put|<%sM_item> in there?<yesno><break>"
+        "入れた　さかなは　二度と取り出すことが　|できません。|本当に　<%sM_item>を　入れますか？ |<yesno><break>": "Once put in, you can't take the fish back out.|Really put in the <%sM_item>?<yesno><break>"
     },
     "16": {
-        "どの　さかなを　入れますか？|<break>": "Which fish would you like to add?<break>"
+        "どの　さかなを　入れますか？|<break>": "Put in which fish?<break>"
     },
     "17": {
-        "<%sM_item>を　入れた！": "I put in <%sM_item>!"
+        "<%sM_item>を　入れた！": "Put in the <%sM_item>!"
     },
     "18": {
-        "この　さかなは　釣りバトル中のため|逃がせません。": "This fish is in the middle of a fishing|battle, so we can't let it go..."
+        "この　さかなは　釣りバトル中のため|逃がせません。": "This fish is in the middle of a fishing|battle, so you can't let it go.
     },
     "19": {
-        "権限がありません。": "You have the authority..."
+        "権限がありません。": "You don't have authority."
     },
     "20": {
-        "釣り堀に　さかなが　いっぱいなので　|入れることは　できません。|": "The fishing pond is full of fish, so we can't|let them in..."
+        "釣り堀に　さかなが　いっぱいなので　|入れることは　できません。|": "The fish pond is full, so you can't put in|any more fish."
     },
     "21": {
-        "釣り堀に　入れる　さかなが　いません。": "There are no fish in the pond..."
+        "釣り堀に　入れる　さかなが　いません。": "There aren't any fish in the pond."
     },
     "22": {
-        "さかなぶくろが　いっぱいです。|釣りをする場合は　ふくろに　空きを　|作ってください。": "There's a lot of fish in this bag. If you|want to fish, you'll need to make room in|your bag..."
+        "さかなぶくろが　いっぱいです。|釣りをする場合は　ふくろに　空きを　|作ってください。": "Your fish bag is full. You'll have to make|room if you want to fish here."
     },
     "23": {
-        "本当に　<%sM_item>を|逃がしますか？ |<yesno><break>": "Do you really want to let <%sM_item> go?<yesno><break>"
+        "本当に　<%sM_item>を|逃がしますか？ |<yesno><break>": "Really let the <%sM_item> go?<yesno><break>"
     },
     "24": {
         "どの　さかなを　逃がしますか？|<break>": "Which fish do you want to let go?<break>"
@@ -75,22 +75,22 @@
         "<%sM_item>を　逃がした！": "You let <%sM_item> go!"
     },
     "26": {
-        "入れた　さかなは　二度と取り出すことが　|できません。|本当に　<%sM_item>を　入れますか？ |<yesno><break>": "Once the fish is in, it can never be|retrieved... Are you sure you want to put|<%sM_item> in there?<yesno><break>"
+        "入れた　さかなは　二度と取り出すことが　|できません。|本当に　<%sM_item>を　入れますか？ |<yesno><break>": "Once put in, you can't take the fish back out.|Really put in the <%sM_item>?<yesno><break>"
     },
     "27": {
         "どの　さかなを　入れますか？|<break>": "Which fish would you like to add?<break>"
     },
     "28": {
-        "<%sM_item>を　入れた！": "I put in <%sM_item>!"
+        "<%sM_item>を　入れた！": "Put in <%sM_item>!"
     },
     "29": {
-        "釣り堀を　利用した人は|まだ　いません。": "No one's used the fishing pond yet."
+        "釣り堀を　利用した人は|まだ　いません。": "No one's used the fish pond yet."
     },
     "30": {
-        "釣り堀を　利用した人は|まだ　いません。": "No one's used the fishing pond yet."
+        "釣り堀を　利用した人は|まだ　いません。": "No one's used the fish pond yet."
     },
     "31": {
-        "不要な　さかなを　逃がすことができます。|ただし　この釣り堀の　オーナーのみと　|なっております。": "We can release unwanted fish... But only the|owner of this fishing pond..."
+        "不要な　さかなを　逃がすことができます。|ただし　この釣り堀の　オーナーのみと　|なっております。": "Only the fish pond's owner can release fish."
     },
     "32": {
         "この釣り堀にいる　さかなを　表示します。": "I'll show you the fish in this fishing pond."

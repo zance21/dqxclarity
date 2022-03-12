@@ -1005,10 +1005,10 @@
         "clarity_nt_char_335": "clarity_nt_char_335"
     },
     "336": {
-        "1日1回だけ蘇生できる": ""
+        "1日1回だけ蘇生できる": "Can revive you once per day"
     },
     "337": {
-        "消費ＭＰが 25%になる確率アップ": ""
+        "消費ＭＰが 25%になる確率アップ": "Chance of 25% MP Cost"
     },
     "338": {
         "周りへの攻撃が2回になる": ""
@@ -1044,10 +1044,10 @@
         "誘うおどりガード+100%": ""
     },
     "349": {
-        "死者の世界の　魔物の姿が見える": ""
+        "死者の世界の　魔物の姿が見える": "Invisible monsters become visible"
     },
     "350": {
-        "同帽子いればＬｖ19以下は経験値2倍": ""
+        "同帽子いればＬｖ19以下は経験値2倍": "Doubles EXP at Level 19 or below"
     },
     "351": {
         "clarity_nt_char_351": "clarity_nt_char_351"
@@ -1059,22 +1059,22 @@
         "clarity_nt_char_353": "clarity_nt_char_353"
     },
     "354": {
-        "ゴールドの消費量アップ(試合無効)": ""
+        "ゴールドの消費量アップ(試合無効)": "Gold Consumption Up (No PvP)"
     },
     "355": {
-        "ゴールドを使う特技の威力アップ(試合無効)": ""
+        "ゴールドを使う特技の威力アップ(試合無効)": "Gold-costing Skill Boost (No PvP)"
     },
     "356": {
         "たまに　同じ特技を2回行う(試合無効)": "Rarely Use Skill Twice (No PvP)"
     },
     "357": {
-        "地中にいる　魔物の姿が見える": ""
+        "地中にいる　魔物の姿が見える": "Underground monsters become visible"
     },
     "358": {
         "clarity_nt_char_358": "clarity_nt_char_358"
     },
     "359": {
-        "呪文を受けた時　たまにＭＰ回復(試合無効)": ""
+        "呪文を受けた時　たまにＭＰ回復(試合無効)": "Rarely Gain MP on Cast (No PvP)"
     },
     "360": {
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%で必殺チャージ": "Battle Start Special Charge <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
@@ -1155,7 +1155,7 @@
         "clarity_nt_char_385": "clarity_nt_char_385"
     },
     "386": {
-        "転生モンスター出現率 1.1倍(試合無効)": ""
+        "転生モンスター出現率 1.1倍(試合無効)": "Rarified Enemy Rate 1.1x (No PvP)"
     },
     "387": {
         "ごくまれに　魔物がエンゼルハーツを落とす": "Monsters very rarely drop Angel Hearts"
@@ -1221,7 +1221,7 @@
         "絆時 100%でためる": "Tension Up On Bond 100%"
     },
     "408": {
-        "なつき度により主人に絆の力発動": "Invokes a bond based on happiness level."
+        "なつき度により主人に絆の力発動": "Invokes a bond based on happiness level"
     },
     "409": {
         "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でターン消費なし(試合無効)": "Don't Use Turn <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>% (No PvP)"
@@ -1269,7 +1269,7 @@
         "開戦時 <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%でリベホイム": "Battle Start Remoreheal <%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "424": {
-        "ラピッドステッキの効果時間+<%sB_renkin1>秒": "Rapid Stick Time +<%sB_renkin1> s"
+        "ラピッドステッキの効果時間+<%sB_renkin1>秒": "Rapid Stick Time +<%sB_renkin1>s"
     },
     "425": {
         "clarity_nt_char_425": "clarity_nt_char_425"
@@ -1278,7 +1278,7 @@
         "いてつくはどうガード +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%": "Disruptive Wave Guard +<%sB_renkin1><%sB_kakko><%sB_plusminus><%sB_renkindiff><%sB_kokka>%"
     },
     "427": {
-        "呪文回復量アップの効果時間+<%sB_renkin1>秒": ""
+        "呪文回復量アップの効果時間+<%sB_renkin1>秒": "Spell Recovery Effect Time +<%sB_renkin1>s"
     },
     "428": {
         "clarity_nt_char_428": "clarity_nt_char_428"
@@ -1326,7 +1326,7 @@
         "たまに　魔物がフワフワわたアメを落とす": "Monsters often drop Fluffy Cotton Candy"
     },
     "443": {
-        "射程距離 +<%sB_renkin1>ｍ": ""
+        "射程距離 +<%sB_renkin1>ｍ": "Range +<%sB_renkin1>m"
     },
     "444": {
         "clarity_nt_char_444": "clarity_nt_char_444"
@@ -1362,7 +1362,7 @@
         "clarity_nt_char_454": "clarity_nt_char_454"
     },
     "455": {
-        "タロットでたまにテンション維持(試合無効)": ""
+        "タロットでたまにテンション維持(試合無効)": "Tarot May Maintain Tension (No PvP)"
     },
     "456": {
         "行動時 <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%でバイシオン": "Oomph On Action <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"

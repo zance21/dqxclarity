@@ -5499,7 +5499,7 @@
         "clarity_nt_char_1833": "clarity_nt_char_1833"
     },
     "1834": {
-        "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|マッチングの誘いをうけるには|指定マップ内の　入り口付近にいる|必要があります。": ""
+        "<speed=0>パーティ同盟の　さそいを受けましたが|条件を　満たしていませんでした。<br>|マッチングの誘いをうけるには|指定マップ内の　入り口付近にいる|必要があります。": "Received a party alliance invitation, but you|didn't meet the requirements.|<br>|To be matched, you must be closer to the|entrance."
     },
     "1835": {
         "<speed=0>このマッチングに参加することができません。|つれている仲間モンスターのレベル|もしくは　転生回数が条件を満たしていません。": "<speed=0>Unable to participate in matching. Either monster level or|number of reincarnations is too low."
