@@ -4113,7 +4113,7 @@
         "逃げだすには|まだ 早いろぉおおん！！": "It's too early to run|awaaaay!!!"
     },
     "1372": {
-        "いくぞ！": ""
+        "いくぞ！": "Let's go!"
     },
     "1373": {
         "clarity_nt_char_1373": "clarity_nt_char_1373"
@@ -4158,7 +4158,7 @@
         "clarity_nt_char_1386": "clarity_nt_char_1386"
     },
     "1387": {
-        "ララララ～♪ルルルル～♪": ""
+        "ララララ～♪ルルルル～♪": "Lalala...♪|Lululu...♪"
     },
     "1388": {
         "clarity_nt_char_1388": "clarity_nt_char_1388"
@@ -4191,7 +4191,7 @@
         "しかけた<%sB_ACTION>の効果は 消えてしまった！": ""
     },
     "1398": {
-        "<%sB_ACTOR>の <%sB_ACTION>！！": ""
+        "<%sB_ACTOR>の <%sB_ACTION>！！": "<%sB_ACTOR>'s <%sB_ACTION>!!"
     },
     "1399": {
         "<%sB_ACTOR>は <%sB_TARGET_RPL>に おはらいをした！": "<%sB_ACTOR> used Benediction on <%sB_TARGET_RPL>!"
@@ -4212,7 +4212,7 @@
         "会  心  必  中 ！！": "Critical Claim!!"
     },
     "1405": {
-        "ミ ラ ク ル ゾ ー ン ！！": ""
+        "ミ ラ ク ル ゾ ー ン ！！": "0 Zone!!"
     },
     "1406": {
         "clarity_nt_char_1406": "clarity_nt_char_1406"
@@ -4230,13 +4230,13 @@
         "clarity_nt_char_1410": "clarity_nt_char_1410"
     },
     "1411": {
-        "パ ラ デ ィ ン ガ ー ド ！！": ""
+        "パ ラ デ ィ ン ガ ー ド ！！": "Knight Watch!!"
     },
     "1412": {
         "clarity_nt_char_1412": "clarity_nt_char_1412"
     },
     "1413": {
-        "モ ン ス タ ー ゾ ー ン ！！": ""
+        "モ ン ス タ ー ゾ ー ン ！！": "Shocking Twist!!"
     },
     "1414": {
         "clarity_nt_char_1414": "clarity_nt_char_1414"
@@ -4284,7 +4284,7 @@
         "clarity_nt_char_1428": "clarity_nt_char_1428"
     },
     "1429": {
-        "ビ ー ス ト モ ー ド ！！": ""
+        "ビ ー ス ト モ ー ド ！！": "Beast Mode!!"
     },
     "1430": {
         "clarity_nt_char_1430": "clarity_nt_char_1430"
@@ -4440,7 +4440,7 @@
         "<%sB_TARGET>の 秘めたちからを 解放した！": "<%sB_TARGET>'s secrets were unleashed!"
     },
     "1481": {
-        "パ ル プ ン テ ！！": ""
+        "パ ル プ ン テ ！！": "Hocus Pocus!!"
     },
     "1482": {
         "clarity_nt_char_1482": "clarity_nt_char_1482"
@@ -4491,13 +4491,13 @@
         "clarity_nt_char_1497": "clarity_nt_char_1497"
     },
     "1498": {
-        "デスパワー ブースト！！": ""
+        "デスパワー ブースト！！": "Death Power Boost!!"
     },
     "1499": {
         "clarity_nt_char_1499": "clarity_nt_char_1499"
     },
     "1500": {
-        "魔結晶は 刺激を受けて 爆発した！": ""
+        "魔結晶は 刺激を受けて 爆発した！": "The crystals exploded from stimulus!"
     },
     "1501": {
         "<%sB_TARGET>は 死霊兵ガテリアンに 狙われやすくなった！": ""
@@ -4527,7 +4527,7 @@
         "<%sB_TARGET>は 自慢の歌声を披露した！": ""
     },
     "1510": {
-        "サファイアボムが 自動で発生するようになった！": ""
+        "サファイアボムが 自動で発生するようになった！": "Sapphire Bombs now occur automatically!"
     },
     "1511": {
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を ふりかざした！": ""
@@ -4581,7 +4581,7 @@
         "clarity_nt_char_1527": "clarity_nt_char_1527"
     },
     "1528": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのＭＰに <%dB_VALUE>のダメージ！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eのＭＰに <%dB_VALUE>のダメージ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e lost <%dB_VALUE> MP!"
     },
     "1529": {
         "かいしんの <%sB_ACTION>！": "Critical <%sB_ACTION>!"
@@ -4593,7 +4593,7 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＭＰが <%dB_VALUE>回復した！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e recovered <%dB_VALUE> MP!"
     },
     "1532": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>した！": ""
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>した！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e did <%sB_ACTION>!"
     },
     "1533": {
         "clarity_nt_char_1533": "clarity_nt_char_1533"
@@ -4737,7 +4737,7 @@
         "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>を 食べた！": ""
     },
     "1580": {
-        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りの傘を とりだした！近くの誰かに 電撃攻撃！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e took out their favorite umbrella! Electric attack on someone nearby!"
+        "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eが お気に入りの傘を とりだした！近くの誰かに 電撃攻撃！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e took out their favorite umbrella!|Electric attack on someone nearby!"
     },
     "1581": {
         "clarity_nt_char_1581": "clarity_nt_char_1581"
@@ -8484,7 +8484,7 @@
         "clarity_nt_char_2828": "clarity_nt_char_2828"
     },
     "2829": {
-        "モンスターゾーン": "Disco Tech"
+        "モンスターゾーン": "Shocking Twist"
     },
     "2830": {
         "clarity_nt_char_2830": "clarity_nt_char_2830"
@@ -8514,7 +8514,7 @@
         "clarity_nt_char_2838": "clarity_nt_char_2838"
     },
     "2839": {
-        "ステルス": ""
+        "ステルス": "Stealth"
     },
     "2840": {
         "clarity_nt_char_2840": "clarity_nt_char_2840"
@@ -24033,13 +24033,13 @@
         "clarity_nt_char_8011": "clarity_nt_char_8011"
     },
     "8012": {
-        "<%sB_ACTOR>が <%sB_EXTRA>を盗んだ！ 勝利時ボーナス確定！": ""
+        "<%sB_ACTOR>が <%sB_EXTRA>を盗んだ！ 勝利時ボーナス確定！": "<%sB_ACTOR> stole <%sB_EXTRA>!"
     },
     "8013": {
         "clarity_nt_char_8013": "clarity_nt_char_8013"
     },
     "8014": {
-        "<%sB_ACTOR>が 何かを盗みとった！ 勝利時ボーナス確定！": ""
+        "<%sB_ACTOR>が 何かを盗みとった！ 勝利時ボーナス確定！": "<%sB_ACTOR> stole something!"
     },
     "8015": {
         "<%sB_TARGET>はもらえる経験値が ふえた！": "<%sB_TARGET>'s EXP value increased!"
@@ -24048,13 +24048,13 @@
         "clarity_nt_char_8016": "clarity_nt_char_8016"
     },
     "8017": {
-        "温泉の効能で ＨＰが 少しずつ回復するようになった！": ""
+        "温泉の効能で ＨＰが 少しずつ回復するようになった！": "HP recovering over time from the hot springs!"
     },
     "8018": {
         "clarity_nt_char_8018": "clarity_nt_char_8018"
     },
     "8019": {
-        "<%sB_TARGET>から お宝ゲット確定！！": ""
+        "<%sB_TARGET>から お宝ゲット確定！！": "Guaranteed treasure from <%sB_TARGET>!"
     },
     "8020": {
         "clarity_nt_char_8020": "clarity_nt_char_8020"
@@ -24543,16 +24543,16 @@
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは まぼろしに つつまれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is surrounded by illusions!"
     },
     "8182": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 目が くらんだ！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 目が くらんだ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blinded!"
     },
     "8183": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 目に すなが はいった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 目に すなが はいった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blinded by sand!"
     },
     "8184": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 目に スミが はいった！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの 目に スミが はいった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e was blinded by ink!"
     },
     "8185": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪文を ふうじこめられた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪文を ふうじこめられた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's spells were sealed!"
     },
     "8186": {
         "clarity_nt_char_8186": "clarity_nt_char_8186"
@@ -26565,10 +26565,10 @@
         "clarity_nt_char_8855": "clarity_nt_char_8855"
     },
     "8856": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを わらわせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを わらわせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e laughed!"
     },
     "8857": {
-        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを こおりつかせた！": ""
+        "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eを こおりつかせた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e froze!"
     },
     "8858": {
         "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに とりはだを たたせた！": ""
@@ -31065,7 +31065,7 @@
         "clarity_nt_char_10355": "clarity_nt_char_10355"
     },
     "10356": {
-        "わらわせた！": ""
+        "わらわせた！": "Laughed!"
     },
     "10357": {
         "clarity_nt_char_10357": "clarity_nt_char_10357"
@@ -31116,7 +31116,7 @@
         "スミで目をくらませた！": "Blinded by ink!"
     },
     "10373": {
-        "呪文を|ふうじこめた！": ""
+        "呪文を|ふうじこめた！": "Spells are sealed!"
     },
     "10374": {
         "もうどくをかけた！": "Deeply poisoned!"
@@ -31128,28 +31128,28 @@
         "魅了した！": "Charmed!"
     },
     "10377": {
-        "呪いをかけた！": ""
+        "呪いをかけた！": "Cursed!"
     },
     "10378": {
-        "最大ＨＰ小ダウンの|呪いをかけた！": ""
+        "最大ＨＰ小ダウンの|呪いをかけた！": "Max HP down|from the curse!"
     },
     "10379": {
-        "ＨＰがへっていく|呪いをかけた！": ""
+        "ＨＰがへっていく|呪いをかけた！": "HP decreasing|from the curse!"
     },
     "10380": {
         "clarity_nt_char_10380": "clarity_nt_char_10380"
     },
     "10381": {
-        "ＨＰとＭＰがへっていく|呪いをかけた！": ""
+        "ＨＰとＭＰがへっていく|呪いをかけた！": "HP/MP decreasing|from the curse!"
     },
     "10382": {
-        "最大ＨＰ大ダウンの|呪いをかけた！": ""
+        "最大ＨＰ大ダウンの|呪いをかけた！": "Max HP down|from the curse!"
     },
     "10383": {
-        "特技を|ふうじこめた！": ""
+        "特技を|ふうじこめた！": "Skills are sealed!"
     },
     "10384": {
-        "ブレスを|ふうじこめた！": ""
+        "ブレスを|ふうじこめた！": "Breath skills|are sealed!"
     },
     "10385": {
         "clarity_nt_char_10385": "clarity_nt_char_10385"
@@ -33666,7 +33666,7 @@
         "clarity_nt_char_11222": "clarity_nt_char_11222"
     },
     "11223": {
-        "こうげき力アップ|効果時間延長！": "Attack Up effect|time extended!"
+        "こうげき力アップ|効果時間延長！": "Attack up effect|time extended!"
     },
     "11224": {
         "clarity_nt_char_11224": "clarity_nt_char_11224"
@@ -33717,7 +33717,7 @@
         "clarity_nt_char_11239": "clarity_nt_char_11239"
     },
     "11240": {
-        "さらに|まぼろしにつつまれた！": "Further surrounded|by illusions!"
+        "さらに|まぼろしにつつまれた！": "Surrounded by|more illusions!"
     },
     "11241": {
         "さらに|目がくらんだ！": "Dazzled further!"
@@ -33729,19 +33729,19 @@
         "clarity_nt_char_11243": "clarity_nt_char_11243"
     },
     "11244": {
-        "さらに|目にスミがはいった！": ""
+        "さらに|目にスミがはいった！": "Blinded by more|ink!"
     },
     "11245": {
         "clarity_nt_char_11245": "clarity_nt_char_11245"
     },
     "11246": {
-        "さらに|呪文をふうじこめられた！": ""
+        "さらに|呪文をふうじこめられた！": "Spells are|sealed further!"
     },
     "11247": {
         "clarity_nt_char_11247": "clarity_nt_char_11247"
     },
     "11248": {
-        "さらに|もうどくにおかされた！": ""
+        "さらに|もうどくにおかされた！": "Even more poisoned!"
     },
     "11249": {
         "さらに|どくにかかった！": "Further poisoned!"
@@ -33753,7 +33753,7 @@
         "テンションバーンの|効果時間延長！": "Feel the Burn|duration extended!"
     },
     "11252": {
-        "ボディーガードに|守られた！": ""
+        "ボディーガードに|守られた！": "Protected by|a Body Guard!"
     },
     "11253": {
         "clarity_nt_char_11253": "clarity_nt_char_11253"
@@ -33786,19 +33786,19 @@
         "身かわし率アップの|効果時間延長！": "Dodge rate up effect|time extended!"
     },
     "11263": {
-        "ヘヴィチャージの|効果時間延長！": ""
+        "ヘヴィチャージの|効果時間延長！": "Heavy Charge effect|extended!"
     },
     "11264": {
         "clarity_nt_char_11264": "clarity_nt_char_11264"
     },
     "11265": {
-        "重さアップの|効果時間延長！": ""
+        "重さアップの|効果時間延長！": "Weight up effect|extended!"
     },
     "11266": {
         "clarity_nt_char_11266": "clarity_nt_char_11266"
     },
     "11267": {
-        "重さダウンの|効果時間延長！": ""
+        "重さダウンの|効果時間延長！": "Weight down effect|extended!"
     },
     "11268": {
         "clarity_nt_char_11268": "clarity_nt_char_11268"
@@ -33825,28 +33825,28 @@
         "魔導の書の|効果時間延長！": ""
     },
     "11276": {
-        "能力アップの|効果時間延長！": ""
+        "能力アップの|効果時間延長！": "Skill up effect|extended!"
     },
     "11277": {
         "clarity_nt_char_11277": "clarity_nt_char_11277"
     },
     "11278": {
-        "最大ＨＰアップの|効果時間延長！": ""
+        "最大ＨＰアップの|効果時間延長！": "Max HP up effect|extended!"
     },
     "11279": {
         "clarity_nt_char_11279": "clarity_nt_char_11279"
     },
     "11280": {
-        "さらに特技を|ふうじこめられた！": ""
+        "さらに特技を|ふうじこめられた！": "Skills are further|sealed!"
     },
     "11281": {
         "clarity_nt_char_11281": "clarity_nt_char_11281"
     },
     "11282": {
-        "さらにブレスを|ふうじこめられた！": ""
+        "さらにブレスを|ふうじこめられた！": "Breath skills are|further sealed!"
     },
     "11283": {
-        "さらに怒らなくなった！": ""
+        "さらに怒らなくなった！": "Even less angry!"
     },
     "11284": {
         "炎と氷の耐性アップの|効果時間延長！": "Fire/ice resistance up|effect extended!"
@@ -33870,7 +33870,7 @@
         "clarity_nt_char_11290": "clarity_nt_char_11290"
     },
     "11291": {
-        "ゴールドフロアが|出現する！": ""
+        "ゴールドフロアが|出現する！": "Gold Floor appeared!"
     },
     "11292": {
         "clarity_nt_char_11292": "clarity_nt_char_11292"

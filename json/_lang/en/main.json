@@ -6552,7 +6552,7 @@
         "クレジットカードを変更する": ""
     },
     "2185": {
-        "<%nM_landaddress2>　<%nM_landaddress3>番地": "<%nM_landaddress2> <%nM_landaddress3>"
+        "<%nM_landaddress2>　<%nM_landaddress3>番地": "<%dM_landaddress2> <%dM_landaddress3>"
     },
     "2186": {
         "<%nM_Slot>キャラコース": "<%dM_Slot> Characters"
@@ -6561,7 +6561,7 @@
         "clarity_nt_char_2187": "clarity_nt_char_2187"
     },
     "2188": {
-        "送信相手": ""
+        "送信相手": "Sender"
     },
     "2189": {
         "clarity_nt_char_2189": "clarity_nt_char_2189"
@@ -6615,7 +6615,7 @@
         "clarity_nt_char_2205": "clarity_nt_char_2205"
     },
     "2206": {
-        "記号": ""
+        "記号": "Symbol"
     },
     "2207": {
         "clarity_nt_char_2207": "clarity_nt_char_2207"
@@ -6714,7 +6714,7 @@
         "元気チャージ(上限440時間)": "Energy Charge (440h. Max)"
     },
     "2239": {
-        "？？": ""
+        "？？": "??"
     },
     "2240": {
         "clarity_nt_char_2240": "clarity_nt_char_2240"
@@ -6726,7 +6726,7 @@
         "clarity_nt_char_2242": "clarity_nt_char_2242"
     },
     "2243": {
-        "タイトルにもどる": ""
+        "タイトルにもどる": "Return to Title"
     },
     "2244": {
         "clarity_nt_char_2244": "clarity_nt_char_2244"

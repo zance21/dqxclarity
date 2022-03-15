@@ -6351,34 +6351,34 @@
         "<speed=0>|『マイコーデの拡張』の|登録状況が　変更されたため|このコーデ枠は　ご利用いただけなくなりました。": ""
     },
     "2118": {
-        "<speed=0>いくつ渡しますか？<break>": ""
+        "<speed=0>いくつ渡しますか？<break>": "<speed=0>Give how many?<break>"
     },
     "2119": {
-        "<speed=0>いくら渡しますか？<break>": ""
+        "<speed=0>いくら渡しますか？<break>": "<speed=0>Give how much?<break>"
     },
     "2120": {
-        "ドルボードは　燃料切れだった！|学園外で　ドルセリンをチャージすれば|30分間　乗れるようになります。": "The dolboard is out of fuel!|Use Dolsoline to charge the tank for 30 minutes."
+        "ドルボードは　燃料切れだった！|学園外で　ドルセリンをチャージすれば|30分間　乗れるようになります。": "Your dolboard is out of fuel!|Use Dolsoline to charge the tank for 30|minutes."
     },
     "2121": {
-        "悪魔のカード": ""
+        "悪魔のカード": "Devil Card"
     },
     "2122": {
         "clarity_nt_char_2122": "clarity_nt_char_2122"
     },
     "2123": {
-        "死神のカード": ""
+        "死神のカード": "Reaper Card"
     },
     "2124": {
         "clarity_nt_char_2124": "clarity_nt_char_2124"
     },
     "2125": {
-        "太陽のカード": ""
+        "太陽のカード": "Sun Card"
     },
     "2126": {
         "clarity_nt_char_2126": "clarity_nt_char_2126"
     },
     "2127": {
-        "審判のカード": ""
+        "審判のカード": "Judgment Card"
     },
     "2128": {
         "clarity_nt_char_2128": "clarity_nt_char_2128"
@@ -6390,16 +6390,16 @@
         "力のカード": "Power Card"
     },
     "2131": {
-        "月のカード": ""
+        "月のカード": "Moon Card"
     },
     "2132": {
-        "<pipipi_mid>|「今の舞台の　台本はこれだ。 |　ベジセルクの戦詩を紡ぐため |　キミの雄姿を　ボクに見せておくれ。|<bw_break>": ""
+        "<pipipi_mid>|「今の舞台の　台本はこれだ。 |　ベジセルクの戦詩を紡ぐため |　キミの雄姿を　ボクに見せておくれ。|<bw_break>": "<pipipi_mid>|Here's the current play's script. Show me your|gallant figure so that we may weave an epic|Vegiserk poem!|<bw_break>"
     },
     "2133": {
         "clarity_nt_char_2133": "clarity_nt_char_2133"
     },
     "2134": {
-        "<speed=0>|レンタル衣装の枠と|マイコーデの枠の入れ替えは　できません！": ""
+        "<speed=0>|レンタル衣装の枠と|マイコーデの枠の入れ替えは　できません！": "<speed=0>|You can't swap your Rental Outfit slot with|a glamour slot!"
     },
     "2135": {
         "clarity_nt_char_2135": "clarity_nt_char_2135"
@@ -6426,7 +6426,7 @@
         "<speed=0>|これまでのおはなしに|『行き先をみる』機能が　追加されました。|冒険の旅に　お役立てください！": ""
     },
     "2143": {
-        "<speed=0>|今　装備している　服装です！|<end>": ""
+        "<speed=0>|今　装備している　服装です！|<end>": "<speed=0>|That's what you're wearing now!|<end>"
     },
     "2144": {
         "clarity_nt_char_2144": "clarity_nt_char_2144"
