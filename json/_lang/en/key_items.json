@@ -42,7 +42,7 @@
         "clarity_nt_char_14": "clarity_nt_char_14"
     },
     "15": {
-        "暗黒大樹の葉": "GrtDrk Tree Leaves"
+        "暗黒大樹の葉": "Dark Tree Leaves"
     },
     "16": {
         "clarity_nt_char_16": "clarity_nt_char_16"
@@ -69,7 +69,7 @@
         "clarity_nt_char_23": "clarity_nt_char_23"
     },
     "24": {
-        "水の入ったツボ": "Water-Filled Jar"
+        "水の入ったツボ": "Water-filled Jar"
     },
     "25": {
         "氷鳥のはね": "Icebird Feather"
@@ -195,7 +195,7 @@
         "clarity_nt_char_65": "clarity_nt_char_65"
     },
     "66": {
-        "ネコマンマの実": "Necomamma Fruit"
+        "ネコマンマの実": "Necomanma Fruit"
     },
     "67": {
         "ソーミャ宛ての手紙": "Letter to Somya"
@@ -213,7 +213,7 @@
         "clarity_nt_char_71": "clarity_nt_char_71"
     },
     "72": {
-        "プク印のぬり薬": "Puku Marked Medicine"
+        "プク印のぬり薬": "Puku-marked Medicine"
     },
     "73": {
         "神秘の水": "Mystic Water"
@@ -351,7 +351,7 @@
         "clarity_nt_char_117": "clarity_nt_char_117"
     },
     "118": {
-        "ニブルヘイムのカギ": "Key to Nibleheim"
+        "ニブルヘイムのカギ": "Key to Nibelheim"
     },
     "119": {
         "三闘士のオノ": "Triad Axe"
@@ -519,7 +519,7 @@
         "フレアパウダー": "Flare Powder"
     },
     "174": {
-        "プクベリー": "Puku Berry"
+        "プクベリー": "Pukuberry"
     },
     "175": {
         "とうぞくのカギ": "Thief's Key"
@@ -648,7 +648,7 @@
         "clarity_nt_char_216": "clarity_nt_char_216"
     },
     "217": {
-        "闘戦士の証": "Fighter Cert."
+        "闘戦士の証": "Fighter's Proof"
     },
     "218": {
         "慈愛の光": "Mercy Light"
@@ -657,7 +657,7 @@
         "clarity_nt_char_219": "clarity_nt_char_219"
     },
     "220": {
-        "ガミルゴの護符": "Amulet of Gamilgo"
+        "ガミルゴの護符": "Gamilgo Amulet"
     },
     "221": {
         "黄昏の果実": "Dusk Fruit"
@@ -1284,7 +1284,7 @@
         "ホーローの研究成果": "Hollow's Research Results"
     },
     "429": {
-        "ワルド水源の水": "Wald Outfall Water"
+        "ワルド水源の水": "Wald Headwaters Water"
     },
     "430": {
         "ローヌ樹林帯の草": "Rhone Woodland Grass"
@@ -1374,7 +1374,7 @@
         "魔光レンズ": "Magic Lens"
     },
     "459": {
-        "幻日の鏡": "SundogMirror"
+        "幻日の鏡": "Sun Mirror"
     },
     "460": {
         "clarity_nt_char_460": "clarity_nt_char_460"
@@ -1935,7 +1935,7 @@
         "青いナミダ": "Blue Namida"
     },
     "646": {
-        "緑のカラ": ""
+        "緑のカラ": "Green Color"
     },
     "647": {
         "clarity_nt_char_647": "clarity_nt_char_647"
@@ -1968,7 +1968,7 @@
         "clarity_nt_char_656": "clarity_nt_char_656"
     },
     "657": {
-        "魔塔のカギ": ""
+        "魔塔のカギ": "Tower Key"
     },
     "658": {
         "被験者パス": "Subject Pass"
@@ -2043,7 +2043,7 @@
         "clarity_nt_char_681": "clarity_nt_char_681"
     },
     "682": {
-        "甲竜のヒゲ": ""
+        "甲竜のヒゲ": "Dragon Whisker"
     },
     "683": {
         "幸せのご近所バトン": "Happy Neighborhood Baton"
@@ -2127,13 +2127,13 @@
         "花咲浪漫衣装券": ""
     },
     "710": {
-        "豊炎の実": ""
+        "豊炎の実": "Rich Fruit"
     },
     "711": {
         "clarity_nt_char_711": "clarity_nt_char_711"
     },
     "712": {
-        "奇岩の呪符": ""
+        "奇岩の呪符": "Stone Spellbook"
     },
     "713": {
         "サルファバル鉱": "Sulphubal Ore"
@@ -2145,13 +2145,13 @@
         "闇の解錠の円盤": "Dark Unlocking Disk"
     },
     "716": {
-        "スラマオイルＳ": ""
+        "スラマオイルＳ": "Slime Oil S"
     },
     "717": {
-        "スラマオイルＬ": ""
+        "スラマオイルＬ": "Slime Oil L"
     },
     "718": {
-        "くさった指輪": ""
+        "くさった指輪": "Rotten Ring"
     },
     "719": {
         "clarity_nt_char_719": "clarity_nt_char_719"
@@ -2208,16 +2208,16 @@
         "海底デイジーの花束": "Undersea Daisy Bouquet"
     },
     "737": {
-        "棒きれ": ""
+        "棒きれ": "Wood"
     },
     "738": {
-        "神ヤスリ": ""
+        "神ヤスリ": "Divine File"
     },
     "739": {
         "clarity_nt_char_739": "clarity_nt_char_739"
     },
     "740": {
-        "津魔妖神": ""
+        "津魔妖神": "Squid Stick"
     },
     "741": {
         "clarity_nt_char_741": "clarity_nt_char_741"

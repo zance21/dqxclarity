@@ -516,7 +516,7 @@
         "<left>←道なり　メルサンディ村": "← Road to Melsandy Village"
     },
     "173": {
-        "<left>←メルサンディ村|<right>ワルド水源→|<center>↓ローヌ樹林帯": "← Melsandy Village|→ Wald Outfall|↓ Rhone Forest Belt"
+        "<left>←メルサンディ村|<right>ワルド水源→|<center>↓ローヌ樹林帯": "← Melsandy Village|→ Wald Headwaters|↓ Rhone Forest Belt"
     },
     "174": {
         "<left>←こもれびの広場|<right>メルン水車郷→": "← Sunbeam Square|→ Melun Waterwheel"
@@ -660,16 +660,16 @@
         "<center>↑アラハギーロ地方": "↑ Arahagiro Region"
     },
     "221": {
-        "<center>↑アラハギーロ地方|<center>↓ワルド水源": "↑ Arahagiro Region|↓ Wald Outfall"
+        "<center>↑アラハギーロ地方|<center>↓ワルド水源": "↑ Arahagiro Region|↓ Wald Headwaters"
     },
     "222": {
-        "<center>↑ピラミッド|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Pyramid|← Jyra Jungle|← Wald Outfall"
+        "<center>↑ピラミッド|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Pyramid|← Jyra Jungle|← Wald Headwaters"
     },
     "223": {
-        "<center>↑不思議の魔塔|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Mysterious Tower|← Jyra Jungle|← Wald Outfall"
+        "<center>↑不思議の魔塔|<left>←ジャイラ密林|<left>←ワルド水源": "↑ Mysterious Tower|← Jyra Jungle|← Wald Headwaters"
     },
     "224": {
-        "<left>←ワルド水源|<right>ジャイラ密林→|<center>↓アラハギーロ地方": "← Wald Outfall|→ Jyra Jungle|↓ Arahagiro Region"
+        "<left>←ワルド水源|<right>ジャイラ密林→|<center>↓アラハギーロ地方": "← Wald Headwaters|→ Jyra Jungle|↓ Arahagiro Region"
     },
     "225": {
         "<center>↑ジャイラ密林": "↑ Jyra Jungle"
@@ -678,10 +678,10 @@
         "<center>この先　不思議の魔塔|<center>神聖な場所につき　近づくべからず|<center>アラハギーロ王より": "            Mysterious Tower ahead|  This is a sacred place so do not approach.|             From Arahagiro King"
     },
     "227": {
-        "<left>←ジャイラ密林|<left>←ワルド水源|<center>↓アラハギーロ地方": "← Jyra Jungle|← Wald Outfall|↓ Arahagiro Region"
+        "<left>←ジャイラ密林|<left>←ワルド水源|<center>↓アラハギーロ地方": "← Jyra Jungle|← Wald Headwaters|↓ Arahagiro Region"
     },
     "228": {
-        "<center>↑ワルド水源|<center>↓アラハギーロ地方": "↑ Wald Outfall|↓ Arahagiro Region"
+        "<center>↑ワルド水源|<center>↓アラハギーロ地方": "↑ Wald Headwaters|↓ Arahagiro Region"
     },
     "229": {
         "<center>↑デフェル荒野": "↑ Defel Wilderness"
