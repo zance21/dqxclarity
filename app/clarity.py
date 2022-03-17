@@ -315,7 +315,7 @@ def scan_for_adhoc_files():
                     csv_result = query_csv(hex_result)
                     if csv_result:
                         file = csv_result['file']
-                        if 'adhoc' in file:
+                        if 'adhoc_wd_' in file:
                             hex_to_write = bytes.fromhex(generate_hex(file))
                             text_address = get_start_of_game_text(index_address)
                             if text_address:
@@ -332,8 +332,25 @@ def scan_for_adhoc_files():
                                     write_bytes(text_address, hex_to_write)
                                     write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
                                     logger.debug(f'Wrote {file} @ {hex(index_address)}')
+                        elif 'adhoc_cs_' in file:
+                            hex_to_write = bytes.fromhex(generate_hex(file))
+                            text_address = get_start_of_game_text(index_address)
+                            if text_address:
+                                try:
+                                    # this just tests that we can decode what we should be writing
+                                    foot_address = find_first_match(text_address, foot_pattern)
+                                    game_hex = read_bytes(text_address, foot_address - text_address)
+                                    game_hex.decode('utf-8')
+                                except:
+                                    continue
+
+                                # with the match we found, make sure the INDX is still here before we write
+                                if split_hex_into_spaces(str(read_bytes(index_address, 64).hex())) == hex_result:
+                                    write_bytes(text_address, hex_to_write)
+                                    write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
+                                    logger.debug(f'Wrote {file} @ {hex(index_address)}')                                                                        
             else:
-                time.sleep(.01)
+                time.sleep(.001)
                 continue
         except:
             logger.warning('Cannot find DQX process. Must have closed? Exiting.')
@@ -379,9 +396,9 @@ def scan_for_walkthrough():
                                             translated_text.encode() + b'\x00'
                                         )
                             else:
-                                time.sleep(2)
+                                time.sleep(.5)
             else:
-                time.sleep(2)
+                time.sleep(.5)
         except:
             logger.warning('Cannot find DQX process. Must have closed? Exiting.')
             sys.exit()
