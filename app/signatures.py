@@ -63,8 +63,8 @@ cutscene_start = rb'\x89\x81\x44\x04\x00\x00\x8B'
 #      C7 81 04 01 00 00 00 00 00 00 00 -- writes 00 to address
 #      C7 81 04 01 00 00 00 00 00 00 01 -- writes 01 to address
 # Read what's in [eax] and do a pointer scan against that address to get these values.
-loading_pointer = 0x01EEAA58
-loading_offsets = [0x8, 0x38, 0x4, 0x4, 0x4, 0x104]
+loading_pointer = 0x01F3DACC
+loading_offsets = [0x8, 0x30, 0x8, 0x8, 0x8, 0x104]
 
 # The pattern shouldn't have to be adjusted, but the number of addresses to go backwards
 # to see if a cutscene is active will probably need to change.
