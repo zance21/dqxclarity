@@ -73,20 +73,21 @@ loading_offsets = [0x8, 0x30, 0x8, 0x8, 0x8, 0x104]
 cutscene_pattern = rb'\x6F\x72\x69\x67\x69\x6E\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x6E\x61\x6D\x65'
 
 # pattern for npc/monsters to rename.
-# monster: 10 82 ?? ?? ?? ?? ?? ?? 90 7B ?? ?? E?
-# npc:     04 94 ?? ?? ?? ?? ?? ?? 90 7B ?? ?? E?
-npc_monster_byte_pattern = rb'[\x10\x04][\x82\x94]......\x90\x7B..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+# monster: 58 A7 ?? ?? ?? ?? ?? ?? FC A9 ?? ?? E?
+# npc:     78 B9 ?? ?? ?? ?? ?? ?? FC A9 ?? ?? E?
+npc_monster_byte_pattern = rb'[\x58\x78][\xA7\xB9]......\xFC\xA9..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 #                                ^ monster ^
 #                                    ^   npc   ^
 
 # pattern for player names to rename.
-# 00 00 00 00 00 48 ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
-player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x08..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+# 00 00 00 00 00 58 ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
+player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x58..\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+#                                                   ^ only this byte will ever change. ezpz
 
 # Main walkthrough text that loads on login. I can't figure out what function loads this on login,
 # so scanning for this for now. AC is also preventing this from just being accessible via hooks.
-# A0 ?? ?? ?? 00 00 00 00 04 02 00 00 10 00 00 00 E?
-walkthrough_pattern = rb'\xA0...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+# 20 ?? ?? ?? 00 00 00 00 04 02 00 00 10 00 00 00 E?
+walkthrough_pattern = rb'\x20...\x00\x00\x00\x00\x04\x02\x00\x00\x10\x00\x00\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
 
 ########################################
 # DQX patterns of interest
