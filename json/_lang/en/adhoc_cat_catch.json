@@ -27,8 +27,7 @@
         "ここでは　ネコをつかまえられないようだ……。|違う場所で　使ってみよう！|<end>": "t doesn't seem like you can catch cats here.|Try using it somewhere else!|<end>"
     },
     "10": {
-        "ここでは　ネコをつかまえられないようだ……。|ネコバッグは　新エテーネの村の屋外で|使ってみよう。|<end>": "It doesn't seem like you can catch cats here.|
-		Try using the Cat Bag inside New Ethene|Village.|<end>"
+        "ここでは　ネコをつかまえられないようだ……。|ネコバッグは　新エテーネの村の屋外で|使ってみよう。|<end>": "It doesn't seem like you can catch cats here.|Try using the Cat Bag inside New Ethene|Village.|<end>"
     },
     "11": {
         "<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）と|お別れしますか？|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>": "Do you want to part with <%sL_CAT_TYPE_NAME>|(<%sL_CAT_COLOR>) (<%sL_CAT_SIZE> Size)?|<yesno 2>|<case 1>|<break>|<case 2>|<close>|<case_cancel>|<close>|<case_end>"
