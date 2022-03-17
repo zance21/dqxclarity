@@ -23928,7 +23928,7 @@
         "clarity_nt_char_7976": "clarity_nt_char_7976"
     },
     "7977": {
-        "がら：": "Nature:"
+        "がら：": "Type:"
     },
     "7978": {
         "毛の色：": "Hair Color:"
@@ -24003,16 +24003,16 @@
         "ネコ缶": "Cat Food"
     },
     "8002": {
-        "捕獲グッズ": "Capture Tool"
+        "捕獲グッズ": "Catch Tool"
     },
     "8003": {
-        "ネコ缶を選ぶ": "Choose Cat Food"
+        "ネコ缶を選ぶ": "Choose Food"
     },
     "8004": {
         "clarity_nt_char_8004": "clarity_nt_char_8004"
     },
     "8005": {
-        "捕獲グッズを選ぶ": "Choose Capture Tool"
+        "捕獲グッズを選ぶ": "Choose Catch Tool"
     },
     "8006": {
         "clarity_nt_char_8006": "clarity_nt_char_8006"
@@ -24048,10 +24048,10 @@
         "clarity_nt_char_8016": "clarity_nt_char_8016"
     },
     "8017": {
-        "メレアーデに渡した数：": "Number Given"
+        "メレアーデに渡した数：": "Number Given:"
     },
     "8018": {
-        "主な生息域：": "Main Habitat"
+        "主な生息域：": "Main Habitat:"
     },
     "8019": {
         "clarity_nt_char_8019": "clarity_nt_char_8019"
@@ -24159,7 +24159,7 @@
         "clarity_nt_char_8053": "clarity_nt_char_8053"
     },
     "8054": {
-        "<%sM_pc>のプレイヤーイベント": "<%sM_pc>'s Player Events"
+        "<%sM_pc>のプレイヤーイベント": "<%sM_pc>'s Player Event"
     },
     "8055": {
         "clarity_nt_char_8055": "clarity_nt_char_8055"
@@ -24255,7 +24255,7 @@
         "プリズランポイント": "Jailrun Points"
     },
     "8086": {
-        "ステータスきりかえ": ""
+        "ステータスきりかえ": "Change Status"
     },
     "8087": {
         "覇者の心": "Hearts"
