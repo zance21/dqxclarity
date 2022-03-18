@@ -1,71 +1,71 @@
 {
-    "1": {
-        "「任務の報告に　参上いたしました。": "I'm here to report for duty..."
-    },
-    "2": {
-        "「魔法戦士ベスコーと　グリーダの両名は|　ガートラント王国での　魔物討伐任務を完了し|　ただいま　帰還いたしました。": "The magical warriors Vesco and Greeda have|completed their mission to defeat the demons|in the Kingdom of Gartland, and have now|<br>|returned home."
-    },
-    "3": {
-        "「フッ……ご苦労だった！|　ふたりには　あらためて　任務が与えられる。": "Huh... Good work! You two have been given|another mission..."
-    },
-    "4": {
-        "「ユナティ！　後は　まかせるぞ。": "Unathi! The rest is..."
-    },
-    "5": {
-        "「貴公は　しばし　ここで待機してくれ。": "You wait here for a moment."
-    },
-    "6": {
-        "「任務完了の報は　聞いた。|　次の任務を　ふたりに伝えよう。": "When the mission is complete... I'll let you|two know what the next mission is."
-    },
-    "7": {
-        "「ベスコー殿は　ドワチャッカ大陸の|　ドルワーム水晶宮へ　向かってほしい。|　王立騎士団から　支援要請があった。": "Lord Bescoe is on his way to the Crystal|Palace of Dorworm on the continent of Dowa|Chakka... The Royal Knights have requested|<br>|assistance..."
-    },
-    "8": {
-        "「グリーダ殿は　オーグリード大陸へ飛び|　グレン城の武器鍛冶ギルドへ　向かえ。|　要人護衛の依頼が来ている。以上である。": "Lord Greedo flew to the continent of Aughrid|to the Weaponsmith's Guild in Glenn Castle.|I've been asked to escort a dignitary... That|<br>|is all."
-    },
-    "9": {
-        "「謹んで　受理いたします。|　ベスコー及び　グリーダの両名は|　ただちに　任務に出発させていただきます。": "Respectfully yours, sir. Bescoe and Greida|are to depart for their duties immediately."
-    },
-    "10": {
-        "「見ていたな　<pc>？|　我々は　各国からの要請に応じて　任務を帯び|　世界中へ　派遣されるのだ。": "You've been watching<pc> What's going on? We've been sent around the|world on missions at the request of various|nations..."
-    },
-    "11": {
-        "「女王ディオーレ様の恵みのお心は|　ウェナ諸島を越え　世界へ向けられている。|　それを体現するのが　我ら　魔法戦士団である。": "Queen Diole's gracious heart reaches beyond|the Wena Islands to the world. And we, the|Magical Order of Warriors, are the embodiment|<br>|of this."
-    },
-    "12": {
-        "「ゆえに　魔法戦士となる者には|　我が国の代表に　ふさわしい|　容姿と礼節が　求められるのだが……。": "Therefore, it is expected that any would-be|warrior must possess the appearance and|manners befitting a representative of our|<br>|nation."
-    },
-    "13": {
-        "「ふむ……。貴公は　容姿に関しては|　まあ　問題なしと言っていいだろう。|　礼節は　これから先　学んでいけばよい。": "Hmm... As for your appearance, I'd say you're|in good hands. Civility is something you will|learn in the future."
-    },
-    "14": {
-        "「では　貴公へ　試験の内容を伝えよう。|　これは試験だが　すでに魔法戦士の|　最初の任務として　受け取るがよい。": "And now, to tell you the nature of the test.|This is a test, but I've already accepted it|as my first assignment as a magical warrior."
-    },
-    "15": {
-        "「貴公はこれより　ヴェリナード領南にいる|　<%sEV_QUE_NAME0>を　魔結界を|　一度　使ってから　<%nEV_QUE_T_NUM0>匹　討伐せよ！": "You will now use your demon ward once on|<%sEV_QUE_NAME0> in the south of the|Verrinard realm, and then kill|<br>|<%nEV_QUE_T_NUM0>!"
-    },
-    "16": {
-        "「このとき　その戦闘に|　勝利する必要があることを　忘れてはならない。|　逃げたり　負けたりしたら　数に入らないぞ。": "Now, remember, you need to win the battle. If|you run or lose, you don't count."
-    },
-    "17": {
-        "「これは　魔法戦士の素養を見るための|　伝統的な試験と　なっているのだ。|　さあ　受ける気は　あるか？": "This has become a traditional test to see if|a warrior has what it takes to be a wizard.|Now, are you ready to take it?"
-    },
-    "18": {
-        "「よし。ならば　すぐに出発せよ。|　魔法戦士は　任務を受けた瞬間から|　その完了に向けて　動かなくてはならない。": "Good. I'll be right out. From the moment a|warrior receives a mission, he must work|toward its completion."
-    },
-    "19": {
-        "「そして　与えられた任務を誇りとし|　完了に向けて　全身全霊を傾けるのだ。": "And I'm proud of the task I've been given,|and I will devote every ounce of my being to|its completion..."
-    },
-    "20": {
-        "「……いや　待て。|　貴公は　すでに　多くの任務を抱えているな。": "... No, no, no. You've already got a lot on|your plate."
-    },
-    "21": {
-        "「多くの任務を　同時に進めるというのは|　魔法戦士には　ふさわしくない　やり方だ。|　他の任務を　終わらせてくるのだな。": "It is unbecoming of a warrior to have so many|tasks to complete at once. I'll go finish my|other duties."
-    },
-    "22": {
-        "「……そうか　残念なことだ。|　この任務を果たす自信がないというなら|　しかたがあるまい。": "... Well, I'm sorry... If you're not sure|you're up to the task, then so be it..."
-    },
-    "23": {
-        "「自分を信じることが　できぬ者は|　魔法戦士の素養なしと　心得よ。": "If you can't believe in yourself, you're not|a warrior."
-    }
+  "1": {
+    "「任務の報告に　参上いたしました。": "I'm here to report for duty..."
+  },
+  "2": {
+    "「魔法戦士ベスコーと　グリーダの両名は|　ガートラント王国での　魔物討伐任務を完了し|　ただいま　帰還いたしました。": "The magical warriors Vesco and Greeda have|completed their mission to defeat the demons|in the Kingdom of Gartland, and have now|<br>|returned home."
+  },
+  "3": {
+    "「フッ……ご苦労だった！|　ふたりには　あらためて　任務が与えられる。": "Huh... Good work! You two have been given|another mission..."
+  },
+  "4": {
+    "「ユナティ！　後は　まかせるぞ。": "Unathi! The rest is..."
+  },
+  "5": {
+    "「貴公は　しばし　ここで待機してくれ。": "You wait here for a moment."
+  },
+  "6": {
+    "「任務完了の報は　聞いた。|　次の任務を　ふたりに伝えよう。": "When the mission is complete... I'll let you|two know what the next mission is."
+  },
+  "7": {
+    "「ベスコー殿は　ドワチャッカ大陸の|　ドルワーム水晶宮へ　向かってほしい。|　王立騎士団から　支援要請があった。": "Lord Bescoe is on his way to the Crystal|Palace of Dorworm on the continent of Dowa|Chakka... The Royal Knights have requested|<br>|assistance..."
+  },
+  "8": {
+    "「グリーダ殿は　オーグリード大陸へ飛び|　グレン城の武器鍛冶ギルドへ　向かえ。|　要人護衛の依頼が来ている。以上である。": "Lord Greedo flew to the continent of Aughrid|to the Weaponsmith's Guild in Glenn Castle.|I've been asked to escort a dignitary... That|<br>|is all."
+  },
+  "9": {
+    "「謹んで　受理いたします。|　ベスコー及び　グリーダの両名は|　ただちに　任務に出発させていただきます。": "Respectfully yours, sir. Bescoe and Greida|are to depart for their duties immediately."
+  },
+  "10": {
+    "「見ていたな　<pc>？|　我々は　各国からの要請に応じて　任務を帯び|　世界中へ　派遣されるのだ。": "You've been watching<pc> What's going on? We've been sent around the|world on missions at the request of various|nations..."
+  },
+  "11": {
+    "「女王ディオーレ様の恵みのお心は|　ウェナ諸島を越え　世界へ向けられている。|　それを体現するのが　我ら　魔法戦士団である。": "Queen Diole's gracious heart reaches beyond|the Wena Islands to the world. And we, the|Magical Order of Warriors, are the embodiment|<br>|of this."
+  },
+  "12": {
+    "「ゆえに　魔法戦士となる者には|　我が国の代表に　ふさわしい|　容姿と礼節が　求められるのだが……。": "Therefore, it is expected that any would-be|warrior must possess the appearance and|manners befitting a representative of our|<br>|nation."
+  },
+  "13": {
+    "「ふむ……。貴公は　容姿に関しては|　まあ　問題なしと言っていいだろう。|　礼節は　これから先　学んでいけばよい。": "Hmm... As for your appearance, I'd say you're|in good hands. Civility is something you will|learn in the future."
+  },
+  "14": {
+    "「では　貴公へ　試験の内容を伝えよう。|　これは試験だが　すでに魔法戦士の|　最初の任務として　受け取るがよい。": "And now, to tell you the nature of the test.|This is a test, but I've already accepted it|as my first assignment as a magical warrior."
+  },
+  "15": {
+    "「貴公はこれより　ヴェリナード領南にいる|　<%sEV_QUE_NAME0>を　魔結界を|　一度　使ってから　<%nEV_QUE_T_NUM0>匹　討伐せよ！": "You will now use your demon ward once on|<%sEV_QUE_NAME0> in the south of the|Verrinard realm, and then kill|<br>|<%nEV_QUE_T_NUM0>!"
+  },
+  "16": {
+    "「このとき　その戦闘に|　勝利する必要があることを　忘れてはならない。|　逃げたり　負けたりしたら　数に入らないぞ。": "Now, remember, you need to win the battle. If|you run or lose, you don't count."
+  },
+  "17": {
+    "「これは　魔法戦士の素養を見るための|　伝統的な試験と　なっているのだ。|　さあ　受ける気は　あるか？": "This has become a traditional test to see if|a warrior has what it takes to be a wizard.|Now, are you ready to take it?"
+  },
+  "18": {
+    "「よし。ならば　すぐに出発せよ。|　魔法戦士は　任務を受けた瞬間から|　その完了に向けて　動かなくてはならない。": "Good. I'll be right out. From the moment a|warrior receives a mission, he must work|toward its completion."
+  },
+  "19": {
+    "「そして　与えられた任務を誇りとし|　完了に向けて　全身全霊を傾けるのだ。": "And I'm proud of the task I've been given,|and I will devote every ounce of my being to|its completion..."
+  },
+  "20": {
+    "「……いや　待て。|　貴公は　すでに　多くの任務を抱えているな。": "... No, no, no. You've already got a lot on|your plate."
+  },
+  "21": {
+    "「多くの任務を　同時に進めるというのは|　魔法戦士には　ふさわしくない　やり方だ。|　他の任務を　終わらせてくるのだな。": "It is unbecoming of a warrior to have so many|tasks to complete at once. I'll go finish my|other duties."
+  },
+  "22": {
+    "「……そうか　残念なことだ。|　この任務を果たす自信がないというなら|　しかたがあるまい。": "... Well, I'm sorry... If you're not sure|you're up to the task, then so be it..."
+  },
+  "23": {
+    "「自分を信じることが　できぬ者は|　魔法戦士の素養なしと　心得よ。": "If you can't believe in yourself, you're not|a warrior."
+  }
 }

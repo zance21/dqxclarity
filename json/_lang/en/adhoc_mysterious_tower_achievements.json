@@ -1,80 +1,143 @@
 {
-    "1": {
-        "１０階を突破した": "Clear 10F"
-    },
-    "2": {
-        "clarity_nt_char_2": "clarity_nt_char_2"
-    },
-    "3": {
-        "２０階を突破した": "Clear 20F"
-    },
-    "4": {
-        "clarity_nt_char_4": "clarity_nt_char_4"
-    },
-    "5": {
-        "３０階を突破した": "Clear 30F"
-    },
-    "6": {
-        "clarity_nt_char_6": "clarity_nt_char_6"
-    },
-    "7": {
-        "レア装備を宝箱から５種類入手した": "Found 5 Rare Equipment"
-    },
-    "8": {
-        "clarity_nt_char_8": "clarity_nt_char_8"
-    },
-    "9": {
-        "進化か錬金を１０回した": "Evolve or Alchemize 10 Times"
-    },
-    "10": {
-        "なぞを５個解いた": "Solved 5 Mysteries"
-    },
-    "11": {
-        "clarity_nt_char_11": "clarity_nt_char_11"
-    },
-    "12": {
-        "なぞを１０個解いた": "Solved 10 Mysteries"
-    },
-    "13": {
-        "なぞを１５個解いた": "Solved 15 Mysteries"
-    },
-    "14": {
-        "なぞを２０個解いた": "Solved 20 Mysteries"
-    },
-    "15": {
-        "なぞを２４個解いた": "Solved 24 Mysteries"
-    },
-    "16": {
-        "進化か錬金を５０回した": "Evolve or Alchemize 50 Times"
-    },
-    "17": {
-        "進化か錬金を１００回した": "Evolve or Alchemize 100 Times"
-    },
-    "18": {
-        "clarity_nt_char_18": "clarity_nt_char_18"
-    },
-    "19": {
-        "１００００ゴールド預けた": "Deposited 10,000 Gold"
-    },
-    "20": {
-        "clarity_nt_char_20": "clarity_nt_char_20"
-    },
-    "21": {
-        "１０００００ゴールド預けた": "Deposited 100,000 Gold"
-    },
-    "22": {
-        "レベル１０になった": "Reach Level 10"
-    },
-    "23": {
-        "レベル２０になった": "Reach Level 20"
-    },
-    "24": {
-        "レベル３０になった": "Reach Level 30"
-    },
-    "25": {
-        "チャレンジフロアで勝利した": "Clear Challenge Floor"
-    },
-    "26": {
-        "ショップフロアに行った": "Visited Shop Floor"
-    }
+  "1": {
+    "１０階を突破した": "Clear 10F"
+  },
+  "2": {
+    "clarity_nt_char_2": "clarity_nt_char_2"
+  },
+  "3": {
+    "２０階を突破した": "Clear 20F"
+  },
+  "4": {
+    "clarity_nt_char_4": "clarity_nt_char_4"
+  },
+  "5": {
+    "３０階を突破した": "Clear 30F"
+  },
+  "6": {
+    "clarity_nt_char_6": "clarity_nt_char_6"
+  },
+  "7": {
+    "レア装備を宝箱から５種類入手した": "Found 5 Rare Equipment"
+  },
+  "8": {
+    "clarity_nt_char_8": "clarity_nt_char_8"
+  },
+  "9": {
+    "進化か錬金を１０回した": "Evolve or Alchemize 10 Times"
+  },
+  "10": {
+    "なぞを５個解いた": "Solved 5 Mysteries"
+  },
+  "11": {
+    "clarity_nt_char_11": "clarity_nt_char_11"
+  },
+  "12": {
+    "なぞを１０個解いた": "Solved 10 Mysteries"
+  },
+  "13": {
+    "なぞを１５個解いた": "Solved 15 Mysteries"
+  },
+  "14": {
+    "なぞを２０個解いた": "Solved 20 Mysteries"
+  },
+  "15": {
+    "なぞを２４個解いた": "Solved 24 Mysteries"
+  },
+  "16": {
+    "進化か錬金を５０回した": "Evolve or Alchemize 50 Times"
+  },
+  "17": {
+    "進化か錬金を１００回した": "Evolve or Alchemize 100 Times"
+  },
+  "18": {
+    "clarity_nt_char_18": "clarity_nt_char_18"
+  },
+  "19": {
+    "１００００ゴールド預けた": "Deposited 10,000 Gold"
+  },
+  "20": {
+    "clarity_nt_char_20": "clarity_nt_char_20"
+  },
+  "21": {
+    "１０００００ゴールド預けた": "Deposited 100,000 Gold"
+  },
+  "22": {
+    "レベル１０になった": "Reach Level 10"
+  },
+  "23": {
+    "レベル２０になった": "Reach Level 20"
+  },
+  "24": {
+    "レベル３０になった": "Reach Level 30"
+  },
+  "25": {
+    "チャレンジフロアで勝利した": "Clear Challenge Floor"
+  },
+  "26": {
+    "ショップフロアに行った": "Visited Shop Floor"
+  },
+  "27": {
+    "４０階を突破した": ""
+  },
+  "28": {
+    "clarity_nt_char_28": "clarity_nt_char_28"
+  },
+  "29": {
+    "魔塔装備ランク５の片手剣を作った": ""
+  },
+  "30": {
+    "clarity_nt_char_30": "clarity_nt_char_30"
+  },
+  "31": {
+    "魔塔装備ランク５の足防具を作った": ""
+  },
+  "32": {
+    "clarity_nt_char_32": "clarity_nt_char_32"
+  },
+  "33": {
+    "魔塔装備ランク５の両手剣を作った": ""
+  },
+  "34": {
+    "clarity_nt_char_34": "clarity_nt_char_34"
+  },
+  "35": {
+    "魔塔装備ランク５のウデ防具を作った": ""
+  },
+  "36": {
+    "レベル３５になった": ""
+  },
+  "37": {
+    "魔塔装備ランク５の両手杖を作った": ""
+  },
+  "38": {
+    "clarity_nt_char_38": "clarity_nt_char_38"
+  },
+  "39": {
+    "なぞを２８個解いた": ""
+  },
+  "40": {
+    "レア装備を宝箱から７種類入手した": ""
+  },
+  "41": {
+    "clarity_nt_char_41": "clarity_nt_char_41"
+  },
+  "42": {
+    "魔塔装備ランク５の盾を作った": ""
+  },
+  "43": {
+    "clarity_nt_char_43": "clarity_nt_char_43"
+  },
+  "44": {
+    "魔塔装備ランク５のアタマ防具を作った": ""
+  },
+  "45": {
+    "clarity_nt_char_45": "clarity_nt_char_45"
+  },
+  "46": {
+    "魔塔装備ランク５のからだ上防具を作った": ""
+  },
+  "47": {
+    "魔塔装備ランク５のからだ下防具を作った": ""
+  }
 }

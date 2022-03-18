@@ -1,203 +1,203 @@
 {
-    "1": {
-        "「ガハハハハッ。よう　魔法戦士団。|　例の魔物の件だが　朗報だぞ。": "Gahahaha... Hey, magic... About that demon|thing... good..."
-    },
-    "2": {
-        "「何か　わかったのか？": "What did you find out?"
-    },
-    "3": {
-        "「タップペンギーを　棲息地から|　遠く　はなれた場所で目撃し　後をつけて|　やつらが集まる洞くつを　発見しました。": "We saw Tappenguy far from its habitat,|followed it to a cave where it congregated..."
-    },
-    "4": {
-        "「そこは　彼らが暮らすには|　まったく　適していない場所です。|　自然に　そこへ移動するなど　ありえません。": "It's a completely unsuitable place for them|to live. There's no way they'd naturally move|there."
-    },
-    "5": {
-        "「……ということだ。どう見る？　魔法戦士団。": "... What do you see? How do you see it?|Magic..."
-    },
-    "6": {
-        "「魔物を動かした　なんらかの要因があると|　言いたいのか　ザイナー？": "Are you trying to tell me that there's some|kind of factor that's driving this demon,|Zayner?"
-    },
-    "7": {
-        "「かもしれん。本格的に調査を始めたい。|　たまには　魔法戦士団も|　オレらの仕事に　加わろうって気はないか？": "Maybe... I'll start a full-scale|investigation. Wouldn't it be nice if the|Warriors could join us in our work for a|<br>|change?"
-    },
-    "8": {
-        "「ここは　<pc>を行かせましょう。|　適任かと　思われます。": "This place<pc> I'll send... I think you're the man for the|job."
-    },
-    "9": {
-        "「……お前らに　手伝う気があるなら|　ジュレリア地下廃坑の　水環の間へ来い。|　衛士団からは　ノーランが行く。": "... If you'd like to help me, you'll find me|in the water chamber of the abandoned mine|beneath Jurelia. From the Guard, Nolan..."
-    },
-    "10": {
-        "「誰も来なくても　調査は　開始するからな。|　言いたいことは以上だ。失礼するぞ！": "Even if no one shows up, we'll start the|investigation... I just want to say... Excuse|me!"
-    },
-    "11": {
-        "「<pc>。話は聞いていたな？|　この報告　気になるのは　確かだ。|　貴公に　任務として　行ってもらおう。": "<pc> . You've heard the stories, right? This|report concerns me... I was wondering if you|could go on a mission..."
-    },
-    "12": {
-        "「タップペンギーの　異常行動の|　原因を　突きとめてくるのだ。|　これは調査任務だ。やってくれるか？": "We need to find out what's causing|Tappenguy's abnormal behavior. This is an|investigation... Will you do it?"
-    },
-    "13": {
-        "「今回の任務は　私も同行しよう。|　なんらかの　手がかりが得られたら|　すぐに　次の行動を決めなければならない。": "I'm going with you on this mission. As soon|as we have some kind of a lead, we'll have to|decide what to do next."
-    },
-    "14": {
-        "「ジュレー島の　ジュレリア地下廃坑へ潜入。|　水環の間を見つけだし　調査を開始せよ。": "The abandoned underground mines of Jurelia on|Jurassic Island... I found the water ring and|opened a survey..."
-    },
-    "15": {
-        "「む……。どうやら　貴公は|　多くの任務を　抱えているようだな。": "No... Apparently, you have a lot of work to|do."
-    },
-    "16": {
-        "「魔法戦士は　ひとつの任務に|　集中できる状態を　保たねばならない。|　他の任務を　果たしてくるがいい。": "A warrior must be able to focus on one|mission at a time. I have other tasks to|complete."
-    },
-    "17": {
-        "「……それは　困ったな。|　他の魔法戦士は　他国へ出払っていて|　頼める者が　いないのだ。": "... That's a problem. The other warriors are|out of the country. There's no one I can ask."
-    },
-    "18": {
-        "「……まだ　そんなこと言ってるの？": "... Are you still talking like that?"
-    },
-    "19": {
-        "「ノーラン兄ちゃん……。": "Brother Nolan..."
-    },
-    "20": {
-        "「……いいかげん　魔法戦士になる決心を|　つけたら　どうなの？": "I'm sorry. Why don't you just decide to|become a warrior?"
-    },
-    "21": {
-        "「何度も言ってるだろ。|　オレは　魔法戦士になる気はない。": "How many times have I told you... I'm going|to be a warrior."
-    },
-    "22": {
-        "「小さいときの約束……。|　ふたりで　魔法戦士になろうって……|　忘れたわけじゃないよね？": ""
-    },
-    "23": {
-        "「その話は　もうやめてくれ　ユナティ。|　それよりも　調査任務を始めよう。|　タップペンギーは　この奥にいる。": "I don't want to talk about it, Yu... Let's|just get on with the mission. Tappenguy is in|the back..."
-    },
-    "24": {
-        "「遅かったな　<pc>。|　……貴公。今の話を　聞いていたか？<yesno><close>": ""
-    },
-    "25": {
-        "「……まあいい。もし　何か|　聞いたのならば　忘れることだ。": "... Well... If you've heard anything, forget|it..."
-    },
-    "26": {
-        "「<pc>。ノーランに続くぞ！": "<pc> . Let's follow Nolan!"
-    },
-    "27": {
-        "「貴様　何者だ？　ここで　何をしている！？": "Who the hell are you? What the hell are you|doing here?"
-    },
-    "28": {
-        "「へいっ　らっしぇい！！|　……って　なんでぇ　客じゃねえみてーだな？": "Hey, come on! ... Why, you don't look like a|customer, do you?"
-    },
-    "29": {
-        "「私は　ヴェリナード王立魔法戦士団|　副団長のユナティである。": "I am Unathi, second-in-command of the Royal|Order of Magical Warriors of Velinade..."
-    },
-    "30": {
-        "「魔法戦士団……？　てめぇらかあ！|　うちの商品ナンバー３を　壊しまくってんのは。|　おかげで　客の評判が　ガタ落ちだってんだ！": "The Order of the Magical Warrior...? Oh, you|guys! You've been destroying our number three|product. You've ruined our reputation with|<br>|the customers!"
-    },
-    "31": {
-        "「まさか……。この魔物たちを|　よその国に　売っているのか？": "You're not... You're selling all these demons|to other countries?"
-    },
-    "32": {
-        "「おうよ。魔物を調教して　売りさばくのよ。|　わしゃあ　ザルギスってモンだ。|　魔物商人とでも　呼んでくれ！": "... I train demons to sell. I'm Zargis...|Call me a demon merchant!"
-    },
-    "33": {
-        "「しかしなあ……。この倉庫を見つけられちゃあ|　商売上がったりだよなあ。|　てめぇらにゃ　死んでもらうっきゃねーな。": "But you know... If they find this warehouse,|we'll be in business... I'll just have to let|you all die..."
-    },
-    "34": {
-        "「新商品のナンバー７を　試させてもらうぜ。|　出荷準備も整って　バリバリの売れ筋よ。|　気に入ってくれるよな。キヒヒ……。": "I'm trying out the new number seven. It's|ready to ship and selling like hotcakes.|You're gonna love it... Khihihi..."
-    },
-    "35": {
-        "「わしゃあ　伝票を書かなきゃいかんから|　先に　帰らせてもらうぜい。": "I have to fill out some forms, so I'll be|leaving first..."
-    },
-    "36": {
-        "「あいつは　私が追います！|　ここを　お願いしますっ。": "I'll go after him! Here, please..."
-    },
-    "37": {
-        "「<cs_pchero>！　貴公は　魔物の相手を頼む。|　私は　ノーランの援護に行く！！": "<cs_pchero>You're a demon. You're dealing with a demon.|I'm going to cover Nolan!"
-    },
-    "38": {
-        "「シャギャーン！！": "Shagyaan!"
-    },
-    "39": {
-        "「<cs_pchero>　どこへ行っていた？|　この魔物たちの相手を　頼んだはずだぞ。": "<cs_pchero>Where the hell have you been? I asked you to|take care of these demons."
-    },
-    "40": {
-        "「ノーランが　魔物商人ザルギスを追っている。|　私は　その援護に行かなくてはならない。|　ここは　まかせたからな！": "Nolan's in pursuit of the demon trader|Zargis. I'll have to go cover for him. You're|in good hands here!"
-    },
-    "41": {
-        "「シャギャーン！！": "Shagyaan!"
-    },
-    "42": {
-        "「よくやった　<cs_pchero>。|　魔物の群れは　討伐したようだな。": "Well done<cs_pchero>I'm sorry. We've defeated the demon horde..."
-    },
-    "43": {
-        "「だが　すまない。|　魔物商人ザルギスは　逃してしまったのだ。": "But... The demon merchant Zarghis missed..."
-    },
-    "44": {
-        "「衛士ノーラン！　なぜ　私が追いつくまで|　ザルギスを　足止めできなかったのだ！": "Guard Nolan! Why couldn't you have stopped|Zargis before I caught up with you!"
-    },
-    "45": {
-        "「申し訳ありません。追いつめはしたのですが|　ザルギスが　新たな魔物を呼びだし……。|　その対処に　手こずってしまいました。": "I'm so sorry... We caught up with it, but|Zargis summoned a new demon... I had a hard|time dealing with it..."
-    },
-    "46": {
-        "「……今から追っても　間に合うまい。|　この一連の事件が　あの男のしわざだと|　わかっただけでも　よしとするしかないか。": "I'm not sure. If we go after him now, we'll|never get there in time. If we can just find|out that he's behind all of this, we'll be|<br>|okay."
-    },
-    "47": {
-        "「待ってください。あの男は　逃げる際に|　手がかりとなる言葉を　残していきました。": "Wait, wait, wait. The man left a clue behind|as he fled..."
-    },
-    "48": {
-        "「ふむ……。ならば　それを|　アーベルク団長の前で　報告してほしい。|　我々は　早急に　手を打つ必要がある。": "Hmm... Well, then you'll have to report it to|Commander Arberg. We'll need to take|immediate..."
-    },
-    "49": {
-        "「……わかりました。|　後ほど　アーベルク団長に　報告に参ります。": "... I understand. I'll report to Commander|Arberg later."
-    },
-    "50": {
-        "「<cs_pchero>　ご苦労だった。|　残念な点はあったが　調査任務は終わりだ。|　ヴェリナード城へ戻り　私の所へ来い。": "<cs_pchero>Thank you for your time. Despite my|disappointment, my research mission is over.|I will return to Castle Verrinard and take my|<br>|place..."
-    },
-    "51": {
-        "「衛士ノーラン　ジュレリア地下廃坑|　水環の間の調査報告に　参りました。": ""
-    },
-    "52": {
-        "「ご苦労。貴公は　魔物商人ザルギスが|　逃げる際の言葉を　聞いたそうだな。|　一言一句もらさず　我々に　伝えよ。": "... You have heard the words of the demon|merchant Zargis as he fled. Every word, every|word, for us."
-    },
-    "53": {
-        "「はい。ザルギスは　なんらかの地下組織に|　商品ナンバー７と呼ぶ　ウェナ諸島の魔物を|　大量に　売りこんだ模様です。": "Yes, sir. Zargis has sold a large number of|the Wenna Islands' demons, which she calls|Merchandise Number 7, to some underground|<br>|organization."
-    },
-    "54": {
-        "「オーグリード大陸での　取り引きの予定が近い。|　その準備に追われている……と言っていました。": "We have a deal to make on the Augurid|continent. I've been busy preparing for it...|I was saying..."
-    },
-    "55": {
-        "「なるほど……。そのせいで|　うかつに　姿を見せたということか。": "So... That's why you were so careless to show|yourself..."
-    },
-    "56": {
-        "「その魔物が　大挙して　暴れることがあれば|　国際問題となるは　必至か。|　魔法戦士を召集して　対策を講じねばなるまい。": "If that monster gets out of control, we'll|have an international problem on our hands.|We'll have to call in the warriors and take|<br>|action."
-    },
-    "57": {
-        "「それは　この国を守るため……ですか？": "It's to protect this country... Is it?"
-    },
-    "58": {
-        "「この国を守るのは　衛士団の役目ではないか。|　我々には　国外で起こる事件を|　未然に防ぐという　重要な任務があるのだ。": "It's not the Guard's job to protect this|country. We have an important mission, to|prevent any incidents from happening outside|<br>|the country."
-    },
-    "59": {
-        "「魔法戦士団は　オーグリード大陸に飛び|　取り引き現場を　押さえにいくのだ。": "The Warriors flew to the continent of Aughrid|to intercept a deal..."
-    },
-    "60": {
-        "「……失礼しました。|　衛士団は　ザルギスの行方を追います。": "... Excuse me... The Guardsmen are trying to|track down Zargis..."
-    },
-    "61": {
-        "「ノーランめ　相変わらずか。|　そういえば　貴公は　ノーランのことを|　よく　知らないのだったな。": "Nolan, you're still the same... Come to think|of it, you don't know Nolan that well..."
-    },
-    "62": {
-        "「……かつて　魔法戦士団にとって|　最大の任務と呼ばれる　ひどい事件があった。|　魔物が組織となって　世界中の町を襲ったのだ。": "... It was once called the greatest mission|of the League of Magical Warriors. A group of|demons attacked towns all over the world..."
-    },
-    "63": {
-        "「その時は　このヴェリナードも標的となり|　あるひとつの町が　魔物に壊滅させられた。|　……ノーランの故郷だった町だ。": "And when it did, it targeted the city of|Velinade, and one of its towns was destroyed|by a demon. ... Nolan's hometown..."
-    },
-    "64": {
-        "「やつの母は　その事件で亡くなり……。|　魔法戦士だった父は　任務で他の国にいて|　家族を助けることが　できなかった。": "His mother died in the incident. His father,|a warrior, was in another country on a|mission, unable to help his family."
-    },
-    "65": {
-        "「ノーランは　死なずに済んだが|　この出来事が　あやつの|　魔法戦士になる決心を　鈍らせているのだ。": "Nolan escaped death, but this incident has|dulled his resolve to become a warrior."
-    },
-    "66": {
-        "「<pc>。任務　ご苦労だった。|　私は　他の魔法戦士に連絡を取り|　取り引きを防ぐ策を　練らねばならない。": "Thank you for your service,|<pc>. I will contact the other|Armamentalists about a plan to stop this|<br>|deal from taking place."
-    },
-    "67": {
-        "「しばらく　時間がほしい。|　貴公は　さらに　優美たる魔法戦士を目指し|　修行を続けてくれ。": "It's been a while. You will continue your|training to become a more graceful warrior of|magic."
-    }
+  "1": {
+    "「ガハハハハッ。よう　魔法戦士団。|　例の魔物の件だが　朗報だぞ。": "Gahahaha... Hey, magic... About that demon|thing... good..."
+  },
+  "2": {
+    "「何か　わかったのか？": "What did you find out?"
+  },
+  "3": {
+    "「タップペンギーを　棲息地から|　遠く　はなれた場所で目撃し　後をつけて|　やつらが集まる洞くつを　発見しました。": "We saw Tappenguy far from its habitat,|followed it to a cave where it congregated..."
+  },
+  "4": {
+    "「そこは　彼らが暮らすには|　まったく　適していない場所です。|　自然に　そこへ移動するなど　ありえません。": "It's a completely unsuitable place for them|to live. There's no way they'd naturally move|there."
+  },
+  "5": {
+    "「……ということだ。どう見る？　魔法戦士団。": "... What do you see? How do you see it?|Magic..."
+  },
+  "6": {
+    "「魔物を動かした　なんらかの要因があると|　言いたいのか　ザイナー？": "Are you trying to tell me that there's some|kind of factor that's driving this demon,|Zayner?"
+  },
+  "7": {
+    "「かもしれん。本格的に調査を始めたい。|　たまには　魔法戦士団も|　オレらの仕事に　加わろうって気はないか？": "Maybe... I'll start a full-scale|investigation. Wouldn't it be nice if the|Warriors could join us in our work for a|<br>|change?"
+  },
+  "8": {
+    "「ここは　<pc>を行かせましょう。|　適任かと　思われます。": "This place<pc> I'll send... I think you're the man for the|job."
+  },
+  "9": {
+    "「……お前らに　手伝う気があるなら|　ジュレリア地下廃坑の　水環の間へ来い。|　衛士団からは　ノーランが行く。": "... If you'd like to help me, you'll find me|in the water chamber of the abandoned mine|beneath Jurelia. From the Guard, Nolan..."
+  },
+  "10": {
+    "「誰も来なくても　調査は　開始するからな。|　言いたいことは以上だ。失礼するぞ！": "Even if no one shows up, we'll start the|investigation... I just want to say... Excuse|me!"
+  },
+  "11": {
+    "「<pc>。話は聞いていたな？|　この報告　気になるのは　確かだ。|　貴公に　任務として　行ってもらおう。": "<pc> . You've heard the stories, right? This|report concerns me... I was wondering if you|could go on a mission..."
+  },
+  "12": {
+    "「タップペンギーの　異常行動の|　原因を　突きとめてくるのだ。|　これは調査任務だ。やってくれるか？": "We need to find out what's causing|Tappenguy's abnormal behavior. This is an|investigation... Will you do it?"
+  },
+  "13": {
+    "「今回の任務は　私も同行しよう。|　なんらかの　手がかりが得られたら|　すぐに　次の行動を決めなければならない。": "I'm going with you on this mission. As soon|as we have some kind of a lead, we'll have to|decide what to do next."
+  },
+  "14": {
+    "「ジュレー島の　ジュレリア地下廃坑へ潜入。|　水環の間を見つけだし　調査を開始せよ。": "The abandoned underground mines of Jurelia on|Jurassic Island... I found the water ring and|opened a survey..."
+  },
+  "15": {
+    "「む……。どうやら　貴公は|　多くの任務を　抱えているようだな。": "No... Apparently, you have a lot of work to|do."
+  },
+  "16": {
+    "「魔法戦士は　ひとつの任務に|　集中できる状態を　保たねばならない。|　他の任務を　果たしてくるがいい。": "A warrior must be able to focus on one|mission at a time. I have other tasks to|complete."
+  },
+  "17": {
+    "「……それは　困ったな。|　他の魔法戦士は　他国へ出払っていて|　頼める者が　いないのだ。": "... That's a problem. The other warriors are|out of the country. There's no one I can ask."
+  },
+  "18": {
+    "「……まだ　そんなこと言ってるの？": "... Are you still talking like that?"
+  },
+  "19": {
+    "「ノーラン兄ちゃん……。": "Brother Nolan..."
+  },
+  "20": {
+    "「……いいかげん　魔法戦士になる決心を|　つけたら　どうなの？": "I'm sorry. Why don't you just decide to|become a warrior?"
+  },
+  "21": {
+    "「何度も言ってるだろ。|　オレは　魔法戦士になる気はない。": "How many times have I told you... I'm going|to be a warrior."
+  },
+  "22": {
+    "「小さいときの約束……。|　ふたりで　魔法戦士になろうって……|　忘れたわけじゃないよね？": ""
+  },
+  "23": {
+    "「その話は　もうやめてくれ　ユナティ。|　それよりも　調査任務を始めよう。|　タップペンギーは　この奥にいる。": "I don't want to talk about it, Yu... Let's|just get on with the mission. Tappenguy is in|the back..."
+  },
+  "24": {
+    "「遅かったな　<pc>。|　……貴公。今の話を　聞いていたか？<yesno><close>": ""
+  },
+  "25": {
+    "「……まあいい。もし　何か|　聞いたのならば　忘れることだ。": "... Well... If you've heard anything, forget|it..."
+  },
+  "26": {
+    "「<pc>。ノーランに続くぞ！": "<pc> . Let's follow Nolan!"
+  },
+  "27": {
+    "「貴様　何者だ？　ここで　何をしている！？": "Who the hell are you? What the hell are you|doing here?"
+  },
+  "28": {
+    "「へいっ　らっしぇい！！|　……って　なんでぇ　客じゃねえみてーだな？": "Hey, come on! ... Why, you don't look like a|customer, do you?"
+  },
+  "29": {
+    "「私は　ヴェリナード王立魔法戦士団|　副団長のユナティである。": "I am Unathi, second-in-command of the Royal|Order of Magical Warriors of Velinade..."
+  },
+  "30": {
+    "「魔法戦士団……？　てめぇらかあ！|　うちの商品ナンバー３を　壊しまくってんのは。|　おかげで　客の評判が　ガタ落ちだってんだ！": "The Order of the Magical Warrior...? Oh, you|guys! You've been destroying our number three|product. You've ruined our reputation with|<br>|the customers!"
+  },
+  "31": {
+    "「まさか……。この魔物たちを|　よその国に　売っているのか？": "You're not... You're selling all these demons|to other countries?"
+  },
+  "32": {
+    "「おうよ。魔物を調教して　売りさばくのよ。|　わしゃあ　ザルギスってモンだ。|　魔物商人とでも　呼んでくれ！": "... I train demons to sell. I'm Zargis...|Call me a demon merchant!"
+  },
+  "33": {
+    "「しかしなあ……。この倉庫を見つけられちゃあ|　商売上がったりだよなあ。|　てめぇらにゃ　死んでもらうっきゃねーな。": "But you know... If they find this warehouse,|we'll be in business... I'll just have to let|you all die..."
+  },
+  "34": {
+    "「新商品のナンバー７を　試させてもらうぜ。|　出荷準備も整って　バリバリの売れ筋よ。|　気に入ってくれるよな。キヒヒ……。": "I'm trying out the new number seven. It's|ready to ship and selling like hotcakes.|You're gonna love it... Khihihi..."
+  },
+  "35": {
+    "「わしゃあ　伝票を書かなきゃいかんから|　先に　帰らせてもらうぜい。": "I have to fill out some forms, so I'll be|leaving first..."
+  },
+  "36": {
+    "「あいつは　私が追います！|　ここを　お願いしますっ。": "I'll go after him! Here, please..."
+  },
+  "37": {
+    "「<cs_pchero>！　貴公は　魔物の相手を頼む。|　私は　ノーランの援護に行く！！": "<cs_pchero>You're a demon. You're dealing with a demon.|I'm going to cover Nolan!"
+  },
+  "38": {
+    "「シャギャーン！！": "Shagyaan!"
+  },
+  "39": {
+    "「<cs_pchero>　どこへ行っていた？|　この魔物たちの相手を　頼んだはずだぞ。": "<cs_pchero>Where the hell have you been? I asked you to|take care of these demons."
+  },
+  "40": {
+    "「ノーランが　魔物商人ザルギスを追っている。|　私は　その援護に行かなくてはならない。|　ここは　まかせたからな！": "Nolan's in pursuit of the demon trader|Zargis. I'll have to go cover for him. You're|in good hands here!"
+  },
+  "41": {
+    "「シャギャーン！！": "Shagyaan!"
+  },
+  "42": {
+    "「よくやった　<cs_pchero>。|　魔物の群れは　討伐したようだな。": "Well done<cs_pchero>I'm sorry. We've defeated the demon horde..."
+  },
+  "43": {
+    "「だが　すまない。|　魔物商人ザルギスは　逃してしまったのだ。": "But... The demon merchant Zarghis missed..."
+  },
+  "44": {
+    "「衛士ノーラン！　なぜ　私が追いつくまで|　ザルギスを　足止めできなかったのだ！": "Guard Nolan! Why couldn't you have stopped|Zargis before I caught up with you!"
+  },
+  "45": {
+    "「申し訳ありません。追いつめはしたのですが|　ザルギスが　新たな魔物を呼びだし……。|　その対処に　手こずってしまいました。": "I'm so sorry... We caught up with it, but|Zargis summoned a new demon... I had a hard|time dealing with it..."
+  },
+  "46": {
+    "「……今から追っても　間に合うまい。|　この一連の事件が　あの男のしわざだと|　わかっただけでも　よしとするしかないか。": "I'm not sure. If we go after him now, we'll|never get there in time. If we can just find|out that he's behind all of this, we'll be|<br>|okay."
+  },
+  "47": {
+    "「待ってください。あの男は　逃げる際に|　手がかりとなる言葉を　残していきました。": "Wait, wait, wait. The man left a clue behind|as he fled..."
+  },
+  "48": {
+    "「ふむ……。ならば　それを|　アーベルク団長の前で　報告してほしい。|　我々は　早急に　手を打つ必要がある。": "Hmm... Well, then you'll have to report it to|Commander Arberg. We'll need to take|immediate..."
+  },
+  "49": {
+    "「……わかりました。|　後ほど　アーベルク団長に　報告に参ります。": "... I understand. I'll report to Commander|Arberg later."
+  },
+  "50": {
+    "「<cs_pchero>　ご苦労だった。|　残念な点はあったが　調査任務は終わりだ。|　ヴェリナード城へ戻り　私の所へ来い。": "<cs_pchero>Thank you for your time. Despite my|disappointment, my research mission is over.|I will return to Castle Verrinard and take my|<br>|place..."
+  },
+  "51": {
+    "「衛士ノーラン　ジュレリア地下廃坑|　水環の間の調査報告に　参りました。": ""
+  },
+  "52": {
+    "「ご苦労。貴公は　魔物商人ザルギスが|　逃げる際の言葉を　聞いたそうだな。|　一言一句もらさず　我々に　伝えよ。": "... You have heard the words of the demon|merchant Zargis as he fled. Every word, every|word, for us."
+  },
+  "53": {
+    "「はい。ザルギスは　なんらかの地下組織に|　商品ナンバー７と呼ぶ　ウェナ諸島の魔物を|　大量に　売りこんだ模様です。": "Yes, sir. Zargis has sold a large number of|the Wenna Islands' demons, which she calls|Merchandise Number 7, to some underground|<br>|organization."
+  },
+  "54": {
+    "「オーグリード大陸での　取り引きの予定が近い。|　その準備に追われている……と言っていました。": "We have a deal to make on the Augurid|continent. I've been busy preparing for it...|I was saying..."
+  },
+  "55": {
+    "「なるほど……。そのせいで|　うかつに　姿を見せたということか。": "So... That's why you were so careless to show|yourself..."
+  },
+  "56": {
+    "「その魔物が　大挙して　暴れることがあれば|　国際問題となるは　必至か。|　魔法戦士を召集して　対策を講じねばなるまい。": "If that monster gets out of control, we'll|have an international problem on our hands.|We'll have to call in the warriors and take|<br>|action."
+  },
+  "57": {
+    "「それは　この国を守るため……ですか？": "It's to protect this country... Is it?"
+  },
+  "58": {
+    "「この国を守るのは　衛士団の役目ではないか。|　我々には　国外で起こる事件を|　未然に防ぐという　重要な任務があるのだ。": "It's not the Guard's job to protect this|country. We have an important mission, to|prevent any incidents from happening outside|<br>|the country."
+  },
+  "59": {
+    "「魔法戦士団は　オーグリード大陸に飛び|　取り引き現場を　押さえにいくのだ。": "The Warriors flew to the continent of Aughrid|to intercept a deal..."
+  },
+  "60": {
+    "「……失礼しました。|　衛士団は　ザルギスの行方を追います。": "... Excuse me... The Guardsmen are trying to|track down Zargis..."
+  },
+  "61": {
+    "「ノーランめ　相変わらずか。|　そういえば　貴公は　ノーランのことを|　よく　知らないのだったな。": "Nolan, you're still the same... Come to think|of it, you don't know Nolan that well..."
+  },
+  "62": {
+    "「……かつて　魔法戦士団にとって|　最大の任務と呼ばれる　ひどい事件があった。|　魔物が組織となって　世界中の町を襲ったのだ。": "... It was once called the greatest mission|of the League of Magical Warriors. A group of|demons attacked towns all over the world..."
+  },
+  "63": {
+    "「その時は　このヴェリナードも標的となり|　あるひとつの町が　魔物に壊滅させられた。|　……ノーランの故郷だった町だ。": "And when it did, it targeted the city of|Velinade, and one of its towns was destroyed|by a demon. ... Nolan's hometown..."
+  },
+  "64": {
+    "「やつの母は　その事件で亡くなり……。|　魔法戦士だった父は　任務で他の国にいて|　家族を助けることが　できなかった。": "His mother died in the incident. His father,|a warrior, was in another country on a|mission, unable to help his family."
+  },
+  "65": {
+    "「ノーランは　死なずに済んだが|　この出来事が　あやつの|　魔法戦士になる決心を　鈍らせているのだ。": "Nolan escaped death, but this incident has|dulled his resolve to become a warrior."
+  },
+  "66": {
+    "「<pc>。任務　ご苦労だった。|　私は　他の魔法戦士に連絡を取り|　取り引きを防ぐ策を　練らねばならない。": "Thank you for your service,|<pc>. I will contact the other|Armamentalists about a plan to stop this|<br>|deal from taking place."
+  },
+  "67": {
+    "「しばらく　時間がほしい。|　貴公は　さらに　優美たる魔法戦士を目指し|　修行を続けてくれ。": "It's been a while. You will continue your|training to become a more graceful warrior of|magic."
+  }
 }

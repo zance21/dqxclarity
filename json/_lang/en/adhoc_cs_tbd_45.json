@@ -1,167 +1,167 @@
 {
-    "1": {
-        "「よう。<pc>さんじゃねえか。": "Yo.<pc> Three..."
-    },
-    "2": {
-        "「あんときは　世話になったな。|　アンタらのおかげで　悪の道から|　足を洗うことが　できたぜ。": "Thank you for everything you did for me.|Thanks to you, I'm off the bad side."
-    },
-    "3": {
-        "「……ところで　アンタ|　親父の試練で　ここまで来たんだろ？|　だとしたら　今のままじゃ　まずいぜ～。": "So... By the way, you came all this way|because of my father's ordeal, right? Well,|if that's the case, then..."
-    },
-    "4": {
-        "「親父は　かいとうの仮面を装備して|　ここに来いって　言ってなかったか？|　それなのに　アンタ　装備してねえじゃん。": "Didn't my father tell you to come here|equipped with the mask of the Caped Crusader?|And yet, you're not equipped..."
-    },
-    "5": {
-        "「さいわい　ギャスモンのヤツも|　まだ　現れてねえ。サササっと戻って|　かいとうの仮面を　装備してきな。": "Fortunately, Gathamon hasn't shown up yet...|I'll just go back and equip the mask..."
-    },
-    "6": {
-        "「よう。<cs_pchero>さんじゃねえか。": "Yo.<cs_pchero>Three..."
-    },
-    "7": {
-        "「……おっ　親父の言いつけどおり|　かいとうの仮面を　装備してきたようだな。": "... Oh, I did what my father told me to do,|and I'm wearing the mask of the Capricorn..."
-    },
-    "8": {
-        "「あとは　ギャスモンとの戦闘中に|　ギャスモンハートを　盗みとってから|　とどめをさせば　いいんだったな。": "All you have to do is steal the Gathmon Heart|during a battle with Gathmon, and then finish|him off..."
-    },
-    "9": {
-        "「……む？": "... No?"
-    },
-    "10": {
-        "「現れやがったな　ギャスモン！": "There you are, Gathamon!"
-    },
-    "11": {
-        "「あの野郎には　借りがあるからよ|　本当は　この手で　引導を渡してやりてえが……|　<cs_pchero>さん　あとは　まかせたぜ！": "Because I owe that son of a bitch| I'd really like to hand him over to you, but|<cs_pchero>I'll take care of the rest!"
-    },
-    "12": {
-        "「親父を超える　盗賊王……。|　アンタなら　なれる！　がんばってくれ！": "You can be more than your father, King of|Thieves... You can do it! Good luck!"
-    },
-    "13": {
-        "「ホウホウホウ……。クックック……。|　汝ハ　ちから二　アフレテイルナ。|　ドウダ　我ト　手ヲ組マヌカ？": "Hou-ho-ho... Kkkkkkk... You have the power|to... What are you doing to help me?"
-    },
-    "14": {
-        "「……イヤ　答エヲ　待ツコトナド出来ヌ。|　ソレホドマデニ　見事ナ器ヨ……。|　汝ノ　ちからガ　欲シイ……。": "Don't... No, no, no. Don't wait for an|answer. You are a magnificent vessel. I want|your power."
-    },
-    "15": {
-        "「欲シイ　欲シイ　ソノちからガ　欲シイ……！|<br>|「コノママ　汝ノ身体二|　憑依シテクレルワァァァァ！！！": "I want it, I want it, I want it, I want it, I|want it, I want it, I want it... My mother,|she possesses your body!"
-    },
-    "16": {
-        "「<cs_pchero>さん　戻ってきてくれたか！": "<cs_pchero>Mr. Bigelow, you're back!"
-    },
-    "17": {
-        "「前回は　惜しかったな。|　今度こそ　ギャスモンの野郎を仕留めて|　試練クリアと　いこうじゃねえか。": "Last time was a close call. This time, we're|going to take down that son of a bitch|Gath'mon and complete the trials."
-    },
-    "18": {
-        "「いいかい？　ヤツに　とどめをさす前に|　ちゃんと　ギャスモンハートを盗むんだぜ。|　そこんとこ　忘れないでくれよな。": "You know what? Before we finish him off, we|have to steal the Gath's heart... Don't|forget that..."
-    },
-    "19": {
-        "「……む！": "... No!"
-    },
-    "20": {
-        "「来たぞ！　ヤツだ！|　今度こそ頼むぜ　<cs_pchero>さん！": "It's coming! It's him! Come on, this time.<cs_pchero>Three!"
-    },
-    "21": {
-        "「クックック……。良カッタ。|　モウ　会エナイカト　思ッテイタ……。": "Kkkkk... Good... I thought I'd never see you|again..."
-    },
-    "22": {
-        "「汝ノヨウナ　見事ナ器|　取リ逃ガスワケニハ　イカヌ……。": "I can't let you get away with something as|beautiful as this."
-    },
-    "23": {
-        "「欲シイ　欲シイ　ソノちからガ　欲シイ……！": ""
-    },
-    "24": {
-        "「今度コソ　汝ノ身体二|　憑依シテクレルワァァァァ！！！": "The next time I see you, you will be|possessed!"
-    },
-    "25": {
-        "「や…やったか！？": "Oh, my... You did it!"
-    },
-    "26": {
-        "「我ガ肉体ハ　仮ノモノ……。|　ユエニ　肉体ヲ　何度　滅ボシテモ|　無駄ダ……。": "My body is only temporary. You can destroy my|body as many times as you like, but it will|be useless."
-    },
-    "27": {
-        "「クックック……。マタ　会オウ。|　スバラシキ器ノ　持チ主ヨ……。": "Cooke... Mata... I've got a very beautiful|vessel..."
-    },
-    "28": {
-        "「そうか……。ギャスモンハートを盗まないと|　ヤツは　完全に倒せないんだったな……。": "So... He can't be completely defeated without|stealing the Gath'mon Heart..."
-    },
-    "29": {
-        "「なあ　<cs_pchero>さんよ。|　ここは　アンタのウデの見せどころだぜ。": "hey<cs_pchero>... This is where you show your skills..."
-    },
-    "30": {
-        "「あいつに　ぬすむを使って　ギャスモンハートを|　盗んでから　とどめをさすんだ！|　アンタならできる！　次こそは　頼むぜ！": "We'll use the blackmail on him, steal the|Gath'mon Heart, and then finish him off! You|can do it! Next time, please!"
-    },
-    "31": {
-        "<cs_pchero>は|ギャスモンハート（だいじなもの）を盗んで|ギャスモンに　とどめをさした！": "<cs_pchero>You're the only one who can save the world!"
-    },
-    "32": {
-        "「シ…シマッタ……。|　我ガ心　奪ワレタカ……。|　コノママデハ……　ウッ…ウグッ……。": "Shh... Shimmer... My heart has been stolen...|You're my mother... Ugh... Ugh..."
-    },
-    "33": {
-        "「ウゴォァァァァァァァ！！！": "Ugghhhh!"
-    },
-    "34": {
-        "「やったな！　<cs_pchero>さん！|　アンタ　やっぱり　すげえや！": "You did it!<cs_pchero>You! You're amazing after all!"
-    },
-    "35": {
-        "「……この間までの　オレは|　さっきのギャスモンと　同じだった。|　欲望に負け　自分を見失っていたんだ。": "I... The last time I saw you, I was just like|Gathamon. I lost sight of myself..."
-    },
-    "36": {
-        "「オレは　それが　間違っていると思わなかった。|　盗賊ってのは　みんな　自分の欲のために|　動いてるんだって　思ってたからな。": "I don't think that's wrong. I thought all|bandits were motivated by their own greed."
-    },
-    "37": {
-        "「でもよ。<cs_pchero>さん　アンタは違う。|　アンタは　自分のためじゃなく　誰かを助けたり|　守ったりするために　盗賊をやってんだな。": "...<cs_pchero>You... You're a bandit, not for yourself, but|to help and protect others..."
-    },
-    "38": {
-        "「親父も　きっと|　そうだったんだよな……。": "I'm sure that's what happened to my father..."
-    },
-    "39": {
-        "「さて　ギャスモンも　いなくなったことだし|　オレは　アンタみたいな　盗賊を目指して|　修行の旅に出るぜ。": "Now that Gathmon's gone, I'm going on a|training trip to become a thief like you..."
-    },
-    "40": {
-        "「じゃあな　<cs_pchero>さん。|　縁があったら　また会おうや！": "Okay, bye<cs_pchero>I'll see you soon! Let's meet again if we get|lucky!"
-    },
-    "41": {
-        "「ああ　そうだ！　親父には|　試練をクリアしたって　報告しとくからよ。|　ちゃんと　ガタラの町に戻るんだぜー！": "Oh, yeah! I'll let my dad know you've|completed your ordeal... I'll tell him you're|going back to Gatara!"
-    },
-    "42": {
-        "「やれやれ。かなわないね　アンタには。": "I can't... I'm no match for you, Ann..."
-    },
-    "43": {
-        "「マスク・ド・ムーチョが　用意した試練を|　あっさり　こなしちまうなんてさ。": "You've easily completed the ordeal that|Masque de Mucho has prepared for you."
-    },
-    "44": {
-        "「<pc>　アンタは　旅の盗賊だ。|　ひとつの町に　とどまらないのも　知っている。": "<pc> I know you're a traveler. I know you don't|stay in one town..."
-    },
-    "45": {
-        "「だから　あたいらは|　アンタを　引き止めたりしないよ。|　むしろ　アンタの活躍を　もっと見たいのさ。": "That's why we don't want to keep you around.|We'd rather see more of you."
-    },
-    "46": {
-        "「……でもね　<pc>。|　これだけは　覚えといておくれ。|　アンタは　ダルル盗賊団の誇りだよ。": "But But<pc> I'm sorry. Just remember this... You're the|pride of the Darul Bandits..."
-    },
-    "47": {
-        "「あたいらも　いつか　アンタに|　追いつけるよう　このガタラを守りながら|　ウデを　みがいていくからね。": "We're going to protect this Gatara and|improve our skills so that one day we can|catch up with you..."
-    },
-    "48": {
-        "「ブデチョ……　いや　ムーチョさんも|　あたいらに　協力してくれるはずさ。": "Boudrecho... No, Mr. Mucho will cooperate|with us..."
-    },
-    "49": {
-        "「いや……　ワシが　してやれることは|　もう　何もないだろう。": "No, there's... There's nothing more I can do|for you."
-    },
-    "50": {
-        "「義の心は　揺らぐことなく|　若い　お前たちに　受け継がれたのだからな。|　これほど　うれしいことはない。": "The spirit of righteousness has been passed|down to you, young men, without wavering.|I've never been happier."
-    },
-    "51": {
-        "「ムーチョさん……。": "Mr. Mucho..."
-    },
-    "52": {
-        "「頼りにしてるぞ！　ダルル盗賊団！": "We're counting on you! Darul bandits!"
-    },
-    "53": {
-        "「ああ！": "Aah!"
-    },
-    "54": {
-        "「それから　ギャスモンハートは|　ひとつあれば　充分だ。１個　盗んだら|　ギャスモンを倒すことに　専念しな。": "And if you have one Gath'mon heart... If you|steal one, you'll have to defeat the|Gathmons."
-    },
-    "55": {
-        "「いいかい？　ギャスモンハートは|　ひとつあれば　充分だ。１個　盗んだら|　ギャスモンを倒すことに　専念しな。": "You know what? One Gath'mon heart is all you|need. If you steal one, you'll have to defeat|the Gathmons."
-    }
+  "1": {
+    "「よう。<pc>さんじゃねえか。": "Yo.<pc> Three..."
+  },
+  "2": {
+    "「あんときは　世話になったな。|　アンタらのおかげで　悪の道から|　足を洗うことが　できたぜ。": "Thank you for everything you did for me.|Thanks to you, I'm off the bad side."
+  },
+  "3": {
+    "「……ところで　アンタ|　親父の試練で　ここまで来たんだろ？|　だとしたら　今のままじゃ　まずいぜ～。": "So... By the way, you came all this way|because of my father's ordeal, right? Well,|if that's the case, then..."
+  },
+  "4": {
+    "「親父は　かいとうの仮面を装備して|　ここに来いって　言ってなかったか？|　それなのに　アンタ　装備してねえじゃん。": "Didn't my father tell you to come here|equipped with the mask of the Caped Crusader?|And yet, you're not equipped..."
+  },
+  "5": {
+    "「さいわい　ギャスモンのヤツも|　まだ　現れてねえ。サササっと戻って|　かいとうの仮面を　装備してきな。": "Fortunately, Gathamon hasn't shown up yet...|I'll just go back and equip the mask..."
+  },
+  "6": {
+    "「よう。<cs_pchero>さんじゃねえか。": "Yo.<cs_pchero>Three..."
+  },
+  "7": {
+    "「……おっ　親父の言いつけどおり|　かいとうの仮面を　装備してきたようだな。": "... Oh, I did what my father told me to do,|and I'm wearing the mask of the Capricorn..."
+  },
+  "8": {
+    "「あとは　ギャスモンとの戦闘中に|　ギャスモンハートを　盗みとってから|　とどめをさせば　いいんだったな。": "All you have to do is steal the Gathmon Heart|during a battle with Gathmon, and then finish|him off..."
+  },
+  "9": {
+    "「……む？": "... No?"
+  },
+  "10": {
+    "「現れやがったな　ギャスモン！": "There you are, Gathamon!"
+  },
+  "11": {
+    "「あの野郎には　借りがあるからよ|　本当は　この手で　引導を渡してやりてえが……|　<cs_pchero>さん　あとは　まかせたぜ！": "Because I owe that son of a bitch| I'd really like to hand him over to you, but|<cs_pchero>I'll take care of the rest!"
+  },
+  "12": {
+    "「親父を超える　盗賊王……。|　アンタなら　なれる！　がんばってくれ！": "You can be more than your father, King of|Thieves... You can do it! Good luck!"
+  },
+  "13": {
+    "「ホウホウホウ……。クックック……。|　汝ハ　ちから二　アフレテイルナ。|　ドウダ　我ト　手ヲ組マヌカ？": "Hou-ho-ho... Kkkkkkk... You have the power|to... What are you doing to help me?"
+  },
+  "14": {
+    "「……イヤ　答エヲ　待ツコトナド出来ヌ。|　ソレホドマデニ　見事ナ器ヨ……。|　汝ノ　ちからガ　欲シイ……。": "Don't... No, no, no. Don't wait for an|answer. You are a magnificent vessel. I want|your power."
+  },
+  "15": {
+    "「欲シイ　欲シイ　ソノちからガ　欲シイ……！|<br>|「コノママ　汝ノ身体二|　憑依シテクレルワァァァァ！！！": "I want it, I want it, I want it, I want it, I|want it, I want it, I want it... My mother,|she possesses your body!"
+  },
+  "16": {
+    "「<cs_pchero>さん　戻ってきてくれたか！": "<cs_pchero>Mr. Bigelow, you're back!"
+  },
+  "17": {
+    "「前回は　惜しかったな。|　今度こそ　ギャスモンの野郎を仕留めて|　試練クリアと　いこうじゃねえか。": "Last time was a close call. This time, we're|going to take down that son of a bitch|Gath'mon and complete the trials."
+  },
+  "18": {
+    "「いいかい？　ヤツに　とどめをさす前に|　ちゃんと　ギャスモンハートを盗むんだぜ。|　そこんとこ　忘れないでくれよな。": "You know what? Before we finish him off, we|have to steal the Gath's heart... Don't|forget that..."
+  },
+  "19": {
+    "「……む！": "... No!"
+  },
+  "20": {
+    "「来たぞ！　ヤツだ！|　今度こそ頼むぜ　<cs_pchero>さん！": "It's coming! It's him! Come on, this time.<cs_pchero>Three!"
+  },
+  "21": {
+    "「クックック……。良カッタ。|　モウ　会エナイカト　思ッテイタ……。": "Kkkkk... Good... I thought I'd never see you|again..."
+  },
+  "22": {
+    "「汝ノヨウナ　見事ナ器|　取リ逃ガスワケニハ　イカヌ……。": "I can't let you get away with something as|beautiful as this."
+  },
+  "23": {
+    "「欲シイ　欲シイ　ソノちからガ　欲シイ……！": ""
+  },
+  "24": {
+    "「今度コソ　汝ノ身体二|　憑依シテクレルワァァァァ！！！": "The next time I see you, you will be|possessed!"
+  },
+  "25": {
+    "「や…やったか！？": "Oh, my... You did it!"
+  },
+  "26": {
+    "「我ガ肉体ハ　仮ノモノ……。|　ユエニ　肉体ヲ　何度　滅ボシテモ|　無駄ダ……。": "My body is only temporary. You can destroy my|body as many times as you like, but it will|be useless."
+  },
+  "27": {
+    "「クックック……。マタ　会オウ。|　スバラシキ器ノ　持チ主ヨ……。": "Cooke... Mata... I've got a very beautiful|vessel..."
+  },
+  "28": {
+    "「そうか……。ギャスモンハートを盗まないと|　ヤツは　完全に倒せないんだったな……。": "So... He can't be completely defeated without|stealing the Gath'mon Heart..."
+  },
+  "29": {
+    "「なあ　<cs_pchero>さんよ。|　ここは　アンタのウデの見せどころだぜ。": "hey<cs_pchero>... This is where you show your skills..."
+  },
+  "30": {
+    "「あいつに　ぬすむを使って　ギャスモンハートを|　盗んでから　とどめをさすんだ！|　アンタならできる！　次こそは　頼むぜ！": "We'll use the blackmail on him, steal the|Gath'mon Heart, and then finish him off! You|can do it! Next time, please!"
+  },
+  "31": {
+    "<cs_pchero>は|ギャスモンハート（だいじなもの）を盗んで|ギャスモンに　とどめをさした！": "<cs_pchero>You're the only one who can save the world!"
+  },
+  "32": {
+    "「シ…シマッタ……。|　我ガ心　奪ワレタカ……。|　コノママデハ……　ウッ…ウグッ……。": "Shh... Shimmer... My heart has been stolen...|You're my mother... Ugh... Ugh..."
+  },
+  "33": {
+    "「ウゴォァァァァァァァ！！！": "Ugghhhh!"
+  },
+  "34": {
+    "「やったな！　<cs_pchero>さん！|　アンタ　やっぱり　すげえや！": "You did it!<cs_pchero>You! You're amazing after all!"
+  },
+  "35": {
+    "「……この間までの　オレは|　さっきのギャスモンと　同じだった。|　欲望に負け　自分を見失っていたんだ。": "I... The last time I saw you, I was just like|Gathamon. I lost sight of myself..."
+  },
+  "36": {
+    "「オレは　それが　間違っていると思わなかった。|　盗賊ってのは　みんな　自分の欲のために|　動いてるんだって　思ってたからな。": "I don't think that's wrong. I thought all|bandits were motivated by their own greed."
+  },
+  "37": {
+    "「でもよ。<cs_pchero>さん　アンタは違う。|　アンタは　自分のためじゃなく　誰かを助けたり|　守ったりするために　盗賊をやってんだな。": "...<cs_pchero>You... You're a bandit, not for yourself, but|to help and protect others..."
+  },
+  "38": {
+    "「親父も　きっと|　そうだったんだよな……。": "I'm sure that's what happened to my father..."
+  },
+  "39": {
+    "「さて　ギャスモンも　いなくなったことだし|　オレは　アンタみたいな　盗賊を目指して|　修行の旅に出るぜ。": "Now that Gathmon's gone, I'm going on a|training trip to become a thief like you..."
+  },
+  "40": {
+    "「じゃあな　<cs_pchero>さん。|　縁があったら　また会おうや！": "Okay, bye<cs_pchero>I'll see you soon! Let's meet again if we get|lucky!"
+  },
+  "41": {
+    "「ああ　そうだ！　親父には|　試練をクリアしたって　報告しとくからよ。|　ちゃんと　ガタラの町に戻るんだぜー！": "Oh, yeah! I'll let my dad know you've|completed your ordeal... I'll tell him you're|going back to Gatara!"
+  },
+  "42": {
+    "「やれやれ。かなわないね　アンタには。": "I can't... I'm no match for you, Ann..."
+  },
+  "43": {
+    "「マスク・ド・ムーチョが　用意した試練を|　あっさり　こなしちまうなんてさ。": "You've easily completed the ordeal that|Masque de Mucho has prepared for you."
+  },
+  "44": {
+    "「<pc>　アンタは　旅の盗賊だ。|　ひとつの町に　とどまらないのも　知っている。": "<pc> I know you're a traveler. I know you don't|stay in one town..."
+  },
+  "45": {
+    "「だから　あたいらは|　アンタを　引き止めたりしないよ。|　むしろ　アンタの活躍を　もっと見たいのさ。": "That's why we don't want to keep you around.|We'd rather see more of you."
+  },
+  "46": {
+    "「……でもね　<pc>。|　これだけは　覚えといておくれ。|　アンタは　ダルル盗賊団の誇りだよ。": "But But<pc> I'm sorry. Just remember this... You're the|pride of the Darul Bandits..."
+  },
+  "47": {
+    "「あたいらも　いつか　アンタに|　追いつけるよう　このガタラを守りながら|　ウデを　みがいていくからね。": "We're going to protect this Gatara and|improve our skills so that one day we can|catch up with you..."
+  },
+  "48": {
+    "「ブデチョ……　いや　ムーチョさんも|　あたいらに　協力してくれるはずさ。": "Boudrecho... No, Mr. Mucho will cooperate|with us..."
+  },
+  "49": {
+    "「いや……　ワシが　してやれることは|　もう　何もないだろう。": "No, there's... There's nothing more I can do|for you."
+  },
+  "50": {
+    "「義の心は　揺らぐことなく|　若い　お前たちに　受け継がれたのだからな。|　これほど　うれしいことはない。": "The spirit of righteousness has been passed|down to you, young men, without wavering.|I've never been happier."
+  },
+  "51": {
+    "「ムーチョさん……。": "Mr. Mucho..."
+  },
+  "52": {
+    "「頼りにしてるぞ！　ダルル盗賊団！": "We're counting on you! Darul bandits!"
+  },
+  "53": {
+    "「ああ！": "Aah!"
+  },
+  "54": {
+    "「それから　ギャスモンハートは|　ひとつあれば　充分だ。１個　盗んだら|　ギャスモンを倒すことに　専念しな。": "And if you have one Gath'mon heart... If you|steal one, you'll have to defeat the|Gathmons."
+  },
+  "55": {
+    "「いいかい？　ギャスモンハートは|　ひとつあれば　充分だ。１個　盗んだら|　ギャスモンを倒すことに　専念しな。": "You know what? One Gath'mon heart is all you|need. If you steal one, you'll have to defeat|the Gathmons."
+  }
 }

@@ -1,35 +1,35 @@
 {
-    "1": {
-        "<%sM_ACTIVE_SLIME>に　|レース中の作戦を伝えます。|よろしいですか？|<yesno><close>": "Tell <%sM_ACTIVE_SLIME> what you're doing|during the race... Are you sure?<yesno><close>"
-    },
-    "2": {
-        "レース中に使うとくぎが　設定されていません。|本当に　よろしいですか？|<yesno2><close>": "There's a spell set to use during the race...|Are you sure you want to do this?<yesno2><close>"
-    },
-    "3": {
-        "ＭＰが　足りない！": "We need more MP!"
-    },
-    "4": {
-        "リザーブ３": "Reserve 3"
-    },
-    "5": {
-        "リザーブ４": "Reserve 4"
-    },
-    "6": {
-        "リザーブ５": "Reserve 5"
-    },
-    "7": {
-        "リザーブ６": "Reserve 6"
-    },
-    "8": {
-        "<%sM_ACTIVE_SLIME>との　作戦タイムは|時間切れになりました。|<end>": "The mission time with <%sM_ACTIVE_SLIME> has|expired...<end>"
-    },
-    "9": {
-        "まだ　他のプレイヤーが|レース中の作戦を　考えています。|<end>": ""
-    },
-    "10": {
-        "スライムレースの　遊び方の説明です！|<br>|スライムレースでは　レースが始まる前に|どこで　どのとくぎを使うか|さくせんを　立てることができます。|<br>|先頭のスライムは　一定距離を走るごとに|１つずつ　とくぎを　使っていきます。|<br>|後ろのスライムは　先頭のスライムに合わせて|同時に　とくぎを使います。|<br>|また　育成レースでは　さくせんを立てるときに|競走相手のさくせんを　チェックできますので|うまく　活用してくださいね。|<br>|自分のスライムが|どこで　どのとくぎを使うのか　上手に指示をして|レースの勝利を　目指しましょう！|<end>": "This is an explanation of how to play Slime|Race! In a slime race, before the race|starts, you make a plan of where you're going|<br>|to use your special moves... The first slime|in the race will use one special move at a|time over a certain distance... The slime in|<br>|the back of the pack uses its spells at the|same time as the lead slime. Also, in a|training race, you can check your opponent's|<br>|strategy when you make a strategy, so make|good use of it. Give your slime good|instructions on where and which move to use|<br>|in order to win the race!<end>"
-    },
-    "11": {
-        "とくぎ「<%sCAS_tokugi>」は|覚えているだけで　常に効果があります。": "Remembering <%sCAS_tokugi> is always|effective..."
-    }
+  "1": {
+    "<%sM_ACTIVE_SLIME>に　|レース中の作戦を伝えます。|よろしいですか？|<yesno><close>": "Tell <%sM_ACTIVE_SLIME> what you're doing|during the race... Are you sure?<yesno><close>"
+  },
+  "2": {
+    "レース中に使うとくぎが　設定されていません。|本当に　よろしいですか？|<yesno2><close>": "There's a spell set to use during the race...|Are you sure you want to do this?<yesno2><close>"
+  },
+  "3": {
+    "ＭＰが　足りない！": "We need more MP!"
+  },
+  "4": {
+    "リザーブ３": "Reserve 3"
+  },
+  "5": {
+    "リザーブ４": "Reserve 4"
+  },
+  "6": {
+    "リザーブ５": "Reserve 5"
+  },
+  "7": {
+    "リザーブ６": "Reserve 6"
+  },
+  "8": {
+    "<%sM_ACTIVE_SLIME>との　作戦タイムは|時間切れになりました。|<end>": "The mission time with <%sM_ACTIVE_SLIME> has|expired...<end>"
+  },
+  "9": {
+    "まだ　他のプレイヤーが|レース中の作戦を　考えています。|<end>": ""
+  },
+  "10": {
+    "スライムレースの　遊び方の説明です！|<br>|スライムレースでは　レースが始まる前に|どこで　どのとくぎを使うか|さくせんを　立てることができます。|<br>|先頭のスライムは　一定距離を走るごとに|１つずつ　とくぎを　使っていきます。|<br>|後ろのスライムは　先頭のスライムに合わせて|同時に　とくぎを使います。|<br>|また　育成レースでは　さくせんを立てるときに|競走相手のさくせんを　チェックできますので|うまく　活用してくださいね。|<br>|自分のスライムが|どこで　どのとくぎを使うのか　上手に指示をして|レースの勝利を　目指しましょう！|<end>": "This is an explanation of how to play Slime|Race! In a slime race, before the race|starts, you make a plan of where you're going|<br>|to use your special moves... The first slime|in the race will use one special move at a|time over a certain distance... The slime in|<br>|the back of the pack uses its spells at the|same time as the lead slime. Also, in a|training race, you can check your opponent's|<br>|strategy when you make a strategy, so make|good use of it. Give your slime good|instructions on where and which move to use|<br>|in order to win the race!<end>"
+  },
+  "11": {
+    "とくぎ「<%sCAS_tokugi>」は|覚えているだけで　常に効果があります。": "Remembering <%sCAS_tokugi> is always|effective..."
+  }
 }

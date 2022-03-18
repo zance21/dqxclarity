@@ -2854,5 +2854,209 @@
   },
   "952": {
     "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>|In your current form, you cannot set the|Fairy Mirror's saved appearance.|<br>|You need to match the same race and gender|with that of your human form."
+  },
+  "953": {
+    "「あら？　<%sL_NAME>は　あなたのヘアカラーと|　同じ色よ。他のカラーを　選んでみてね。|<end>": "Oh? <%sL_NAME> is the same color|as your hair color.|Try choosing a different color.|<end>"
+  },
+  "954": {
+    "「ヘアカラーを　<%sL_NAME>に　変えるのね。|　今回は無料サービスよ♪　この色でいいかしら？|<yesno><break>": "You're changing your hair color to <%sL_NAME>.|This time it's a free service. ♪|Is this the right color for you?|<yesno><break>"
+  },
+  "955": {
+    "「じゃあ　どのヘアカラーにするのかしら？|<end>": "So which hair color are we going to use?<end>"
+  },
+  "956": {
+    "「オッケー　まかせてっ！|　あなたのヘアカラーを|　ステキに　イメチェンしてあげる♪|<end>": "Okay, leave it to me!|I'll give your hair color a nice makeover. ♪|<end>"
+  },
+  "957": {
+    "「いらっしゃいませ！|　美容院　サロン・フェリシアへ　ようこそ♪|　当店の　ご利用かしら？|<yesno><break>": "Welcome!|Welcome to Felicia's Beauty Salon.♪|Do you want to use our store?|<yesno><break>"
+  },
+  "958": {
+    "「あら？　<%sM_item>を　持っているのね。|　髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「それを使えば　お会計のゴールドが|　１回　無料になるわよ♪|　さっそく　使っちゃうかしら？|<yesno 2><break>": "Oh? I see you have <%sM_item>. If you want|to change the gloss of your hair, you'll have|to pay extra for the Glossy Rinse....|<br>|But if you use it, it will be for free once. ♪|Will you use it right away?|<yesno 2><break>"
+  },
+  "959": {
+    "「オッケー！　では　その券は|　こちらに　いただきますね♪|<bw_break>": "Okay!|I'll take that ticket. ♪|<bw_break>"
+  },
+  "960": {
+    "「わかったわ。|　その券は　いつでも使えるから|　大事にしておいてね♪|<bw_break>": "All right.|You can use that ticket anytime you want.|So keep it safe. ♪|<bw_break>"
+  },
+  "961": {
+    "<pipipi_off><speed=0>|どのような姿がいいか　イメージして|選んでください。|<end>": ""
+  },
+  "962": {
+    "<pipipi_off><speed=0>|料金は　かかりません。|これでよろしいですか？|<yesno><break>": ""
+  },
+  "963": {
+    "<pipipi_off><speed=0>|料金は　かかりません。|これでよろしいですか？|<yesno><break>": ""
+  },
+  "964": {
+    "<pipipi_off><speed=0>|元の姿と　同じです。|もう一度　どんな姿か　選んでください。|<end>": ""
+  },
+  "965": {
+    "「あら？　お金が　足りないみたい。|　もう一度　なりたい姿を　選んでくれるかしら？|<end>": "Oh? It seems that you dont have enough gold.|Will you choose what you want again?|<end>"
+  },
+  "966": {
+    "<pipipi_off><speed=0>|もう一度　どのような姿がいいか　イメージして|選んでください。|<end>": ""
+  },
+  "967": {
+    "<pipipi_off><speed=0>|<kyodai>を|この姿に　変更します。|<end>": ""
+  },
+  "968": {
+    "「ほら！　バッチリ　イメチェンできたわ。|　とっても似合っているわ♪|<bw_break>": "Look! You got a complete makeover.|It looks really good on you. ♪|<bw_break>"
+  },
+  "969": {
+    "「まあ！　とっても似合っているわ。|　そのヘアカラーにして　正解ね♪　|<bw_break>": "Oh my God! It looks really good on you.|Your new hair color looks fabulous. ♪|<bw_break>"
+  },
+  "970": {
+    "「まあ！　とっても似合っているわ。|　その髪型にして　よかったね♪　|<bw_break>": "Oh my God! It looks really good on you.| I'm glad you decided on that hairstyle. ♪|<bw_break>"
+  },
+  "971": {
+    "「うん。いい感じね！|　その目の色　とっても魅力的よ♪|<bw_break>": "Yeah. That's a good look.|The color of your eyes is very attractive. ♪|<bw_break>"
+  },
+  "972": {
+    "「やだ。見違えちゃった！|　すごくいい雰囲気よ♪|<bw_break>": "Oh! you look different!|Now you have a very nice aura. ♪|<bw_break>"
+  },
+  "973": {
+    "「うん。かなり印象が　変わったわね！|　今のあなたも　とってもステキよ♪|<bw_break>": "Yes. You've changed your impression a lot!|You look beautiful now. ♪|<bw_break>"
+  },
+  "974": {
+    "「あら！すっごく素敵！|　そのりんかく　とびきりセクシーね♪|<bw_break>": "Oh! You look amazing!|You're so sexy. ♪|<bw_break>"
+  },
+  "975": {
+    "「うん。すっごく素敵！|　そのおおきさ　すっごく可愛いわ♪|<bw_break>": "Yeah. It's so nice! You're so big. You're so|cute.<bw_break>"
+  },
+  "976": {
+    "「まあ！　とっても似合っているわ。|　そのしろめの色にして　よかったね♪|<bw_break>": "Oh, my God! You look so... I'm so glad we|went with that white color.<bw_break>"
+  },
+  "977": {
+    "<pipipi_off><speed=0>|<kyodai>の|見た目を変えるのを　やめますか？|<yesno><break>": ""
+  },
+  "978": {
+    "<pipipi_off><speed=0>|<kyodai>の|見た目を　変更しました！|<end>": ""
+  },
+  "979": {
+    "<pipipi_off><speed=0>|『見た目を変える』から　いつでも|<kyodai>の姿を　変更できます。|<end>": ""
+  },
+  "980": {
+    "「それじゃあ　この券を　お返しするわ。|　また持ってきてね。|<bw_break>": "I'll return this ticket to you then.|Please bring it again sometime.|<bw_break>"
+  },
+  "981": {
+    "「うふふ。ところで　お客さま♪|　じつは　サロン・フェリシア　グループで|　新サービスを始めたので　お知らせいたします！|<bw_break>": "Oh my god! dear customer ♪|I'd like to announce that we've started a|new service at Salon Felicia Group!|<bw_break>"
+  },
+  "982": {
+    "「これからは　どこの美容院でも|　髪型を　変更できるようになりました♪|　気分を変えたいときは　髪型を変えちゃおう♪|<bw_break>": "From now on you can change your hairstyle at|any Beauty Salon ♪ so when you want to change|your mood let's change your hairstyle. ♪|<bw_break>"
+  },
+  "983": {
+    "「これからは　美容院で|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "You can now change your eyes color|at the Beauty Salon! Please try it|when you want to change your eyes color. ♪|<bw_break>"
+  },
+  "984": {
+    "「さらに　美容院で　|　目の色も　変更できるようになりました！|　気分を変えたい時に　ぜひ試してみてね♪|<bw_break>": "And now you can even change|your eye color at the beauty salon!|Try it when you want to change your look. ♪|<bw_break>"
+  },
+  "985": {
+    "「これからは　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": "From now on, you can change|the color of your hair at the hair salon!|I'm going to change you're aura completely. ♪|<bw_break>"
+  },
+  "986": {
+    "「そして　美容院で|　はだの色も　変更できるようになりました！|　思い切って　雰囲気を　がらっと変えてみよう♪|<bw_break>": "And now you can change|the color of your hair at the hair salon!|Let's change you're aura aura drastically. .♪|<bw_break>"
+  },
+  "987": {
+    "「これからは　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": "You can now change|your face at the beauty salon!|Let's transform you into something cool! ♪|<bw_break>"
+  },
+  "988": {
+    "「そして　美容院で|　顔も　変更できるようになりました！|　クールに　キュートに　変身しちゃおう♪|<bw_break>": "And now you can change|your face at the beauty salon!|Let's change you into something cool. ♪|<bw_break>"
+  },
+  "989": {
+    "「これからは　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": "From now on, you can also|change your contour at the beauty salon!|Let's surprise everyone with a bold change. ♪|<bw_break>"
+  },
+  "990": {
+    "「そして　美容院で|　りんかくも　変更できるようになりました！|　大胆なイメチェンで　みんなを驚かせちゃおう♪|<bw_break>": "And now you can change|your contour at the beauty salon!|Let's surprise everyone with a bold change. ♪|<bw_break>"
+  },
+  "991": {
+    "「これからは　美容院で|　おおきさも　変更できるようになりました！|　パパッと一瞬で　さらに素敵になっちゃおう♪|<bw_break>": "From now on, you can change the size of your|hair at the hair salon! Let's become even|more beautiful in a flash.<bw_break>"
+  },
+  "992": {
+    "「そして　美容院で|　おおきさも　変更できるようになりました！|　パパッと一瞬で　さらに素敵になっちゃおう♪|<bw_break>": "And now you can change the size of your hair|at the hair salon! Let's make you look even|better in a flash.<bw_break>"
+  },
+  "993": {
+    "仮装メイク術の　有効期間を|過ぎているようです。|現在の姿では　美容院を利用できません。": "You're past the expiration date for your|disguise makeover... You can't go to a beauty|parlor in your current form..."
+  },
+  "994": {
+    "仮装メイク術の　有効期間が　残り <%dL_REST_MIN>分です。|美容院での変更中に　有効期間を過ぎると|変更は無効となります。ご注意ください。": ""
+  },
+  "995": {
+    "仮装メイク術の　有効期間を過ぎたため|今回の　仮装メイクした姿での変更が|無効になりました。": "As the disguise and makeup technique has|expired, this change of appearance is no|longer valid."
+  },
+  "996": {
+    "美容院での変更中に　仮装メイク術の|有効期間を過ぎたため|変更が無効になりました。|<br>|元の種族の姿に　戻ってから|あらためて　ご来店ください。|<end>": "While you were in the beauty parlor, your|disguise makeover expired, so the change was|invalidated. Please come back when you've|<br>|regained your original form...<end>"
+  },
+  "997": {
+    "「あら？　やめちゃうの？": "What? Are you quitting?"
+  },
+  "998": {
+    "「それじゃあ　また来てね♪": "Well, come back later"
+  },
+  "999": {
+    "「準備中。|<end>": "In preparation.|<end>"
+  },
+  "1000": {
+    "<pipipi_off><speed=0>|その髪型だと　ヘアカラーは変えられません。|<end>": "<pipipi_off><speed=0>With your hair like that, you can't change|your hair color...<end>"
+  },
+  "1001": {
+    "「あら。<%sM_item>と　<%sM_item2>を|　持っているのね。|<br>|「髪のツヤを　変えるなら　ツヤめきリンスを|　別で　いただくことになるけど……|<br>|「その　どっちかを使って|　お会計のゴールドを　１回だけ無料にしちゃう？|<yesno 2><close>": "Oops. I have <%sM_item> and <%sM_item2>... If|you want to change the shine on your hair,|you'll have to pay extra for the shine rinse,|<br>|but... Would you like to use one of those to|get one free gold on your bill?<yesno 2><close>"
+  },
+  "1002": {
+    "「どっちの券を　使うのかしら？|<select_se_off>|美容院無料券|美容院優待券|<select_end><close>": ""
+  },
+  "1003": {
+    "「まあ！　とっても似合っているわ。|　そのくちべにの色にして　よかったね♪　|<bw_break>": "Oh, my God! You look so... I'm glad you chose|that color for your lips<bw_break>"
+  },
+  "1004": {
+    "「はい！　くちべにを　きれいに落としましたよ♪|<bw_break>": "Yes, sir! I cleaned off your lips...<bw_break>"
+  },
+  "1005": {
+    "「かみのいろを　２つ　カラーリングできる髪型が|　『かみがた』に　ラインナップされました！|<br>|「よかったら　『かみがた』の中から|　『２色ＯＫ』マークの　髪型を選んで|　好きな色に　カラーリングしてみてね！|<bw_break>": "There are now hairstyles that allow you to|color two of your hair colors! If you'd like,|you can choose a hairstyle marked \"Two Colors|<br>|OK\" and color it any color you like!<bw_break>"
+  },
+  "1006": {
+    "「この　かみがたで変えられるヘアカラーは|　ひとつだけだから　かみの色２の代金は|　合計金額には　入れないでおくわね。|<bw_break>": "There's only one hair color that can be|changed with this hair type, so please don't|include the price of hair color 2 in your|<br>|total...<bw_break>"
+  },
+  "1007": {
+    "<pipipi_off><speed=0>|かみの色２は　『２色ＯＫ』マークのついた|髪形でしか　カラーリングできません。|<end>": "<pipipi_off><speed=0>God's Color 2 can only be colored with hair|styles marked \"2 colors allowed.\"<end>"
+  },
+  "1008": {
+    "仮装メイク術の　有効期間が　残り <%dL_REST_SEC>秒なので|美容院を　利用できません。|<br>|元の種族の姿に　戻るか|再度　仮装メイク術を　ご利用になってから|あらためて　ご来店ください。|<end>": "Your disguise makeover expires in|<%dL_REST_SEC> seconds, so you can't use the|beauty salon... You can either return to your|<br>|original form, or use the masquerade make-up|technique again, and then come back...<end>"
+  },
+  "1009": {
+    "<pipipi_off><speed=0>|料金は　かかりません。|これでよろしいですか？|<yesno><break>": ""
+  },
+  "1010": {
+    "髪のツヤを変えるには|ツヤめきリンスが　<%dL_METAL>こ必要になります。|よろしいですか？|<yesno><break>": "To change the shine of your hair, you'll need|a shine rinse <%dL_METAL>... Are you sure?<yesno><break>"
+  },
+  "1011": {
+    "<pipipi_off><speed=0>|ツヤめきリンスが　不足しています。|もう一度　どんな姿か　お選びください。|<end>": "<pipipi_off><speed=0>I don't have enough luster rinse... Let's see|what you look like again...<end>"
+  },
+  "1012": {
+    "「あら？　髪のツヤだけ変えるのね。|　それなら　元々ゴールドは　かからないから|　<%sM_item>は　あとで　お返しするわね。": "What? I just want to change the shine on my|hair. Well, that's not worth the gold, so|I'll give you the <%sM_item> back later..."
+  },
+  "1013": {
+    "<pipipi_off><speed=0>|ツヤを戻してもよろしいですか？|<yesno_2><break>": ""
+  },
+  "1014": {
+    "<color_yellow>|ツヤめきリンスは|ＤＱＸショップなどで　入手できます。|<br>|プレイヤー専用サイト|目覚めし冒険者の広場ドラゴンクエストＸショップ|https://sqex.to/dqxshop|<end>": "<color_yellow>You can get it at the DQX Shop... Player's|Site Dragon Quest X Shop:|https://sqex.to/dqxshop<end>"
+  },
+  "1015": {
+    "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別・魔族の姿と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>In my current form, I can set the appearance|of a fairy... You'll need to match your race,|gender, demon form, and, in the case of your|<br>|human form, your physique..."
+  },
+  "1016": {
+    "<speed=0>|今の姿では　妖精の姿見の見た目を|セットできません。|<br>|種族・性別と|人間の姿の場合は　体格を|合わせる必要があります。": "<speed=0>|In your current form, you cannot set the|Fairy Mirror's saved appearance.|<br>|You need to match the same race and gender|with that of your human form."
+  },
+  "1017": {
+    "「妖精の姿見の見た目を|　セットしても　いいかしら？|<yesno><close>": "Do you mind if I set the look of the elfin|visage?<yesno><close>"
+  },
+  "1018": {
+    "「できる限り　セットしてみたけれど…|　未解放のものは　セットできなかったわ。": "I tried to set as many as I could, but... But|I can't set the unreleased ones."
+  },
+  "1019": {
+    "「セットした　見た目を|　元に戻しちゃうけど　いいかしら？|<yesno><break>": "I'm going to undo the look that you set, if|that's okay.<yesno><break>"
+  },
+  "1020": {
+    "「残念だけど　このサービスは|　妖精の姿見を　持ってる人しか|　使えないの。": "I'm sorry, but this service is only available|to those who own a fairy vision..."
   }
 }

@@ -1,215 +1,215 @@
 {
-    "1": {
-        "「もう来ていたか　<pc>君。|　相変わらず　早いな。": "You're already here<pc> You. As usual..."
-    },
-    "2": {
-        "「詩歌の守り手は　あのときのまま|　動かなくなっているようだ……。": "The guardian of the poem seems to have become|as immobile as he was then..."
-    },
-    "3": {
-        "「詩歌の守り手よ　聞こえるか！？|　ヴェリナード王国の王子　オーディスだ！": "Keeper of the Poetry, do you hear me? This is|Odys, prince of the kingdom of Verrinard!"
-    },
-    "4": {
-        "「今日は聞きたいことがあって　ここに来た！|　どうか　僕の呼びかけに　応えてくれ！！": "I'm here today to ask you something! Please,|answer my call!"
-    },
-    "5": {
-        "「…………頼む。|　応えてくれ　詩歌の守り手よ……。": "..... Respond, O guardian of poetry..."
-    },
-    "6": {
-        "どこからともなく　声が聞こえる……。": "Out of nowhere, I hear voices..."
-    },
-    "7": {
-        "<center>……王家の血を引きし者よ。|我に　何用があるのか？": "... I have royal blood... What do you want|from me?"
-    },
-    "8": {
-        "「おおっ　応えてくれたか！|　詩歌の守り手よ　教えてほしいことがある！！": "Oh, you've answered me! Guardian of Poetry, I|have something to teach you!"
-    },
-    "9": {
-        "「恵みの歌には　男王のために用意された|　別の歌があると　僕は知った。": "I believe that the Song of Grace has another|song prepared for the Man King, and I..."
-    },
-    "10": {
-        "「だが　その歌は　最後の男王|　ラーディス王によって　封印されたんだ。|　封印の場所を知っていたら　教えてほしい！": "But that song was sealed away by the last|male king, King Lardis. If you know where the|seal is, please tell me!"
-    },
-    "11": {
-        "<center>我に刻まれるは　永遠……刹那……|そして……　女王が唄いし　恵みの歌のみなり。": "Etched in my mind is eternity... A moment...|And then... The queen sang a song of grace..."
-    },
-    "12": {
-        "「……あなたは　詩歌を守り　伝える役目を|　持っているはずだ。知らないはずがない。": "... You're the one who's supposed to keep the|poem alive. You're the one who's supposed to|pass it on. You don't know..."
-    },
-    "13": {
-        "<center>……我に刻まれし　ひとつの歌。|かつて　時の王により　消された歌。": "... The one who was carved into me. Once|erased by the Time Lord..."
-    },
-    "14": {
-        "「……やはり　知っているんだな。|　ならば　教えてくれ　詩歌の守り手よ！": "... I knew it. I knew it. Then tell me,|Guardian of Poetry!"
-    },
-    "15": {
-        "<center>ジュレー島……。ジュレリア地下廃坑……。|そこにある　詩吟のほこらを　目指すがよい。|我が知ることは　それのみなり……。": "Juray Island... The abandoned underground|mines of Jurelia... I will go there, to the|Hollow of the Poet... It's all I know."
-    },
-    "16": {
-        "「ありがとう　詩歌の守り手よ。|　僕は　その歌の封印を見つけだし|　真に詩歌を継ぐ者となると　改めて誓おう。": "Thank you, Guardian of Poetry... I will find|the seal of that song and become the true|heir of poetry, once again..."
-    },
-    "17": {
-        "<center>我が名は　詩歌の守り手……。|歌を見守り　歌を育む者なり……。": "I am the keeper of poetry... I am the one who|watches over the songs, the one who nurtures|them..."
-    },
-    "18": {
-        "「さあ　<pc>君。|　詩歌の守り手が　教えてくれた|　ジュレリア地下廃坑の　詩吟のほこらへ行こう！": "Come on<pc> You. The Guardian of Poetry has taught us to|go to the Hollow of Poetry in the abandoned|underground mines of Jurelia!"
-    },
-    "19": {
-        "「詩歌の守り手が　教えてくれた　ほこらは|　ここに　まちがいなさそうだ。": "The keeper of the poem told me that the cave|must be here."
-    },
-    "20": {
-        "「……だが　何もないようだな。|　男王の歌が　ここに封印されているようには|　とても　見えないが……。": "... But there's nothing... It doesn't look|like the Man King's song is sealed up in|here, but..."
-    },
-    "21": {
-        "「むっ　待て　<cs_pchero>君！|　何かが　いるぞ！！": "No, wait<cs_pchero>You! There's something in here!"
-    },
-    "22": {
-        "「何者だ。お前たち。": "...お..."
-    },
-    "23": {
-        "「帰れ。用がなければ。": "Go home. I have no business..."
-    },
-    "24": {
-        "「僕は　ヴェリナード王国の王子　オーディス。|　封印された男王の歌を探して　ここに来た。": "I am O, Prince of the Kingdom of Verrinard...|I'm looking for the sealed song of the Man-|King. I'm here..."
-    },
-    "25": {
-        "「解かせない。封印は。": "Solve Kak ......"
-    },
-    "26": {
-        "「約束した。ラーディスと。": "About... Lade..."
-    },
-    "27": {
-        "「……ここで正解だったようだ。|　こいつらは　ラーディス王が置いた|　封印の守り手というわけか。": "... I was right here... These men are called|the Seal Guardians, placed here by King|Lardis..."
-    },
-    "28": {
-        "「どうしても　歌の封印を解かせないというなら|　ここから先は　実力行使ということになる。|　平和的な交渉は　望めそうもないか？": "If you insist on unsealing the song, then|we'll have to use force from here on out. You|don't think we can negotiate peacefully?"
-    },
-    "29": {
-        "「排除する。封印を解くというなら。": "Exclusion... Breaking the seal..."
-    },
-    "30": {
-        "「去るがいい。死にたくなければ。": "I'm leaving. I don't want to die..."
-    },
-    "31": {
-        "「……どうやら　話し合いは　できそうにないな。": "... I don't think we can talk about this."
-    },
-    "32": {
-        "「君が　こいつらを引きつけている間に|　僕は　歌が封印されている場所を探そう。": "While you're attracting these guys, I'm|trying to find the place where the song is|sealed."
-    },
-    "33": {
-        "「ここは　まかせたぞ　<cs_pchero>君！": "You're in good hands here<cs_pchero>June!"
-    },
-    "34": {
-        "「ウキョキョキョ！！": "Ukyoukyoukyou!"
-    },
-    "35": {
-        "「イキャキャキャ！！": "Yik Yak Yak!"
-    },
-    "36": {
-        "「また来たのか。お前たち。": "I'll be back... Oh..."
-    },
-    "37": {
-        "「帰れ。命が惜しくば。": "Go home. Spare my life..."
-    },
-    "38": {
-        "「僕は　歌が封印されている場所を探す。|　ここは　まかせたぞ　<cs_pchero>君！": "I am the place where the song is sealed...|You got this.<cs_pchero>June!"
-    },
-    "39": {
-        "「おお　倒してくれたか　<cs_pchero>君。|　さすが　頼りになるな！": "Oh, you beat me<cs_pchero>You. That's what I'm talking about!"
-    },
-    "40": {
-        "「しかし　歌が封印されているような場所は|　どこにも　見つからなかった。|　こいつらに　聞いてみよう。": "But I can't find any place where the song is|sealed... Ask these..."
-    },
-    "41": {
-        "「……封印の守り手よ。|　男王の歌は　どこに封印されている？|　今すぐに　教えるんだ！": "... The Keeper of the Seal... Where is the|Man King's song sealed? You must tell me now!"
-    },
-    "42": {
-        "「……ここには　ない。男王の歌は。": "... Here is the... The Man King..."
-    },
-    "43": {
-        "「……知らない。封印の場所は。": "... Knowledge... The seal..."
-    },
-    "44": {
-        "「そんなはずはない！！|　詩歌の守り手は　ここに行けと言ったんだ！": "It can't be! The Guardian of Poetry told us|to go here!"
-    },
-    "45": {
-        "「我々に言った。ラーディスは。": "We have... Rade..."
-    },
-    "46": {
-        "「これを渡せ。男の王を目指す者に。": "This... I'm going to be king of the men..."
-    },
-    "47": {
-        "「クキャキャキャキャ！|　フキョキョキョキョキョ！！": "C'mon, c'mon, c'mon! Fukyokyokyokyok!"
-    },
-    "48": {
-        "「……これは　石版か。|　何か　文字が書かれているな。|　かなり古い　王家の文字のようだ。": "... This is... It's got some writing on it...|It's very old. It's royal writing..."
-    },
-    "49": {
-        "「封印の場所が　書かれているかもしれない。|　城へ戻って　解読することにしよう。": "It may contain the location of the seal...|I'll have to go back to the castle and|decipher it."
-    },
-    "50": {
-        "「<cs_pchero>君への謝礼も　渡さないとな。|　すまないが　ヴェリナード城へ来てくれ。": "<cs_pchero>I'm not even going to give you your fee. I'm|sorry, but you must come to Castle Verrinard."
-    },
-    "51": {
-        "「ラーディス王……。僕は絶対に|　封印された男王の歌を　見つけてみせるぞ。": "King Lardis... I will find the sealed song of|the Man-King..."
-    },
-    "52": {
-        "「<pc>君。よく来てくれた。|　今　各地に　調査に行った者から|　報告を受けていたところだ。": "<pc> You. You're here. I've just been briefed by|someone who's been out investigating..."
-    },
-    "53": {
-        "「……残念ながら　彼らの方に収穫はなかった。|　だが　<pc>君のおかげで|　僕は　この石版を手に入れたんだ！": "... Unfortunately, they didn't harvest|anything. But...<pc> You're the reason I have this tablet in the|first place!"
-    },
-    "54": {
-        "「君が来るまで　読むのを待っていたんだ。|　今から読み上げる。みんなも聞いてほしい。": "I've been waiting to read it until you|came... I'm reading it now... You should all|listen..."
-    },
-    "55": {
-        "<center>私の名は　ラーディス。|ヴェリナードの国王である。": "My name is Ra... King of the Verrinard..."
-    },
-    "56": {
-        "<center>私は　王位を　妻ヴェリーナにゆずり|王であることを辞すると　今ここに誓う。": "I hereby relinquish the throne to my wife,|Verina, and resign my position as king."
-    },
-    "57": {
-        "<center>その決意の証として　私の唄う歌を封じよう。|今後　ヴェリナード王国において|男が王位に就くことは　まかりならぬ。": "As a sign of my resolve, I have sealed my|song... From now on, no man will ever ascend|the throne in the kingdom of Verrinard..."
-    },
-    "58": {
-        "「セーリアの言っていたことが真実だと|　これで証明されたな……。|　男王の歌は　ラーディス王に封印されたんだ。": "This proves that what Celia said is true...|The Man-King's Song was sealed away by King|Lardis..."
-    },
-    "59": {
-        "「だが　なぜ　ラーディス王は|　自分が　王位を退いただけでなく|　その後も　男が王になることを禁じたんだ……？": "But why did King Lardis not only abdicate his|throne, but also forbid any man from becoming|king after that...?"
-    },
-    "60": {
-        "「それは……わかりません。": "It's... I know..."
-    },
-    "61": {
-        "「石版には　まだ続きの文字がある。|　そこに答えが　書いてあるかもしれないな。": "There are more words on the tablet... Maybe|there's an answer in there..."
-    },
-    "62": {
-        "「……し……えな……。言葉……。|　ダメだ。難しくて　僕には読めない……。": "... Shh... No... Words... I can't... It's too|hard for me to read..."
-    },
-    "63": {
-        "「ならば　わらわが読もう。": "Then I'll..."
-    },
-    "64": {
-        "「いいえ！　母上の手は借りません。|　これは　僕自身のチカラで|　やらなければならないことです！": "No! No! I need your help... This is something|I have to do on my own!"
-    },
-    "65": {
-        "「大丈夫です　母上。|　僕は　必ず　この石版を読み解き|　封印された男王の歌を　見つけだします！": "Don't worry... I will decipher this tablet|and find the sealed song of the Man King!"
-    },
-    "66": {
-        "「だが　オーディスよ。その決意。|　命をかけることに　なるかもしれぬぞ。": "But, Orde... I mean... It could cost you your|life."
-    },
-    "67": {
-        "「もとより　覚悟の上。|　ですが　死ぬわけには　まいりません。|　僕は　王になるのですから！！": "I've always been... But I can't die. I'm|going to be a king!"
-    },
-    "68": {
-        "「……わかった。|　ならば　わらわは　何もせぬ。": "... I... Then what am I..."
-    },
-    "69": {
-        "「<pc>君。石版の続きを読むには|　すこし　時間が　かかりそうだ。": "<pc> You. It'll take a while to read the rest of|the tablet..."
-    },
-    "70": {
-        "「今回の謝礼を　渡しておこう。|　遠くまで　つきあってもらい　感謝する。": ""
-    },
-    "71": {
-        "「石版の文字を読み解いたとき|　また　君のチカラを貸してもらうかもしれない。|　そのときは　よろしく頼む！": "When I figure out what's on the tablet, I may|need your help again. When that happens, I'll|be counting on you!"
-    }
+  "1": {
+    "「もう来ていたか　<pc>君。|　相変わらず　早いな。": "You're already here<pc> You. As usual..."
+  },
+  "2": {
+    "「詩歌の守り手は　あのときのまま|　動かなくなっているようだ……。": "The guardian of the poem seems to have become|as immobile as he was then..."
+  },
+  "3": {
+    "「詩歌の守り手よ　聞こえるか！？|　ヴェリナード王国の王子　オーディスだ！": "Keeper of the Poetry, do you hear me? This is|Odys, prince of the kingdom of Verrinard!"
+  },
+  "4": {
+    "「今日は聞きたいことがあって　ここに来た！|　どうか　僕の呼びかけに　応えてくれ！！": "I'm here today to ask you something! Please,|answer my call!"
+  },
+  "5": {
+    "「…………頼む。|　応えてくれ　詩歌の守り手よ……。": "..... Respond, O guardian of poetry..."
+  },
+  "6": {
+    "どこからともなく　声が聞こえる……。": "Out of nowhere, I hear voices..."
+  },
+  "7": {
+    "<center>……王家の血を引きし者よ。|我に　何用があるのか？": "... I have royal blood... What do you want|from me?"
+  },
+  "8": {
+    "「おおっ　応えてくれたか！|　詩歌の守り手よ　教えてほしいことがある！！": "Oh, you've answered me! Guardian of Poetry, I|have something to teach you!"
+  },
+  "9": {
+    "「恵みの歌には　男王のために用意された|　別の歌があると　僕は知った。": "I believe that the Song of Grace has another|song prepared for the Man King, and I..."
+  },
+  "10": {
+    "「だが　その歌は　最後の男王|　ラーディス王によって　封印されたんだ。|　封印の場所を知っていたら　教えてほしい！": "But that song was sealed away by the last|male king, King Lardis. If you know where the|seal is, please tell me!"
+  },
+  "11": {
+    "<center>我に刻まれるは　永遠……刹那……|そして……　女王が唄いし　恵みの歌のみなり。": "Etched in my mind is eternity... A moment...|And then... The queen sang a song of grace..."
+  },
+  "12": {
+    "「……あなたは　詩歌を守り　伝える役目を|　持っているはずだ。知らないはずがない。": "... You're the one who's supposed to keep the|poem alive. You're the one who's supposed to|pass it on. You don't know..."
+  },
+  "13": {
+    "<center>……我に刻まれし　ひとつの歌。|かつて　時の王により　消された歌。": "... The one who was carved into me. Once|erased by the Time Lord..."
+  },
+  "14": {
+    "「……やはり　知っているんだな。|　ならば　教えてくれ　詩歌の守り手よ！": "... I knew it. I knew it. Then tell me,|Guardian of Poetry!"
+  },
+  "15": {
+    "<center>ジュレー島……。ジュレリア地下廃坑……。|そこにある　詩吟のほこらを　目指すがよい。|我が知ることは　それのみなり……。": "Juray Island... The abandoned underground|mines of Jurelia... I will go there, to the|Hollow of the Poet... It's all I know."
+  },
+  "16": {
+    "「ありがとう　詩歌の守り手よ。|　僕は　その歌の封印を見つけだし|　真に詩歌を継ぐ者となると　改めて誓おう。": "Thank you, Guardian of Poetry... I will find|the seal of that song and become the true|heir of poetry, once again..."
+  },
+  "17": {
+    "<center>我が名は　詩歌の守り手……。|歌を見守り　歌を育む者なり……。": "I am the keeper of poetry... I am the one who|watches over the songs, the one who nurtures|them..."
+  },
+  "18": {
+    "「さあ　<pc>君。|　詩歌の守り手が　教えてくれた|　ジュレリア地下廃坑の　詩吟のほこらへ行こう！": "Come on<pc> You. The Guardian of Poetry has taught us to|go to the Hollow of Poetry in the abandoned|underground mines of Jurelia!"
+  },
+  "19": {
+    "「詩歌の守り手が　教えてくれた　ほこらは|　ここに　まちがいなさそうだ。": "The keeper of the poem told me that the cave|must be here."
+  },
+  "20": {
+    "「……だが　何もないようだな。|　男王の歌が　ここに封印されているようには|　とても　見えないが……。": "... But there's nothing... It doesn't look|like the Man King's song is sealed up in|here, but..."
+  },
+  "21": {
+    "「むっ　待て　<cs_pchero>君！|　何かが　いるぞ！！": "No, wait<cs_pchero>You! There's something in here!"
+  },
+  "22": {
+    "「何者だ。お前たち。": "...お..."
+  },
+  "23": {
+    "「帰れ。用がなければ。": "Go home. I have no business..."
+  },
+  "24": {
+    "「僕は　ヴェリナード王国の王子　オーディス。|　封印された男王の歌を探して　ここに来た。": "I am O, Prince of the Kingdom of Verrinard...|I'm looking for the sealed song of the Man-|King. I'm here..."
+  },
+  "25": {
+    "「解かせない。封印は。": "Solve Kak ......"
+  },
+  "26": {
+    "「約束した。ラーディスと。": "About... Lade..."
+  },
+  "27": {
+    "「……ここで正解だったようだ。|　こいつらは　ラーディス王が置いた|　封印の守り手というわけか。": "... I was right here... These men are called|the Seal Guardians, placed here by King|Lardis..."
+  },
+  "28": {
+    "「どうしても　歌の封印を解かせないというなら|　ここから先は　実力行使ということになる。|　平和的な交渉は　望めそうもないか？": "If you insist on unsealing the song, then|we'll have to use force from here on out. You|don't think we can negotiate peacefully?"
+  },
+  "29": {
+    "「排除する。封印を解くというなら。": "Exclusion... Breaking the seal..."
+  },
+  "30": {
+    "「去るがいい。死にたくなければ。": "I'm leaving. I don't want to die..."
+  },
+  "31": {
+    "「……どうやら　話し合いは　できそうにないな。": "... I don't think we can talk about this."
+  },
+  "32": {
+    "「君が　こいつらを引きつけている間に|　僕は　歌が封印されている場所を探そう。": "While you're attracting these guys, I'm|trying to find the place where the song is|sealed."
+  },
+  "33": {
+    "「ここは　まかせたぞ　<cs_pchero>君！": "You're in good hands here<cs_pchero>June!"
+  },
+  "34": {
+    "「ウキョキョキョ！！": "Ukyoukyoukyou!"
+  },
+  "35": {
+    "「イキャキャキャ！！": "Yik Yak Yak!"
+  },
+  "36": {
+    "「また来たのか。お前たち。": "I'll be back... Oh..."
+  },
+  "37": {
+    "「帰れ。命が惜しくば。": "Go home. Spare my life..."
+  },
+  "38": {
+    "「僕は　歌が封印されている場所を探す。|　ここは　まかせたぞ　<cs_pchero>君！": "I am the place where the song is sealed...|You got this.<cs_pchero>June!"
+  },
+  "39": {
+    "「おお　倒してくれたか　<cs_pchero>君。|　さすが　頼りになるな！": "Oh, you beat me<cs_pchero>You. That's what I'm talking about!"
+  },
+  "40": {
+    "「しかし　歌が封印されているような場所は|　どこにも　見つからなかった。|　こいつらに　聞いてみよう。": "But I can't find any place where the song is|sealed... Ask these..."
+  },
+  "41": {
+    "「……封印の守り手よ。|　男王の歌は　どこに封印されている？|　今すぐに　教えるんだ！": "... The Keeper of the Seal... Where is the|Man King's song sealed? You must tell me now!"
+  },
+  "42": {
+    "「……ここには　ない。男王の歌は。": "... Here is the... The Man King..."
+  },
+  "43": {
+    "「……知らない。封印の場所は。": "... Knowledge... The seal..."
+  },
+  "44": {
+    "「そんなはずはない！！|　詩歌の守り手は　ここに行けと言ったんだ！": "It can't be! The Guardian of Poetry told us|to go here!"
+  },
+  "45": {
+    "「我々に言った。ラーディスは。": "We have... Rade..."
+  },
+  "46": {
+    "「これを渡せ。男の王を目指す者に。": "This... I'm going to be king of the men..."
+  },
+  "47": {
+    "「クキャキャキャキャ！|　フキョキョキョキョキョ！！": "C'mon, c'mon, c'mon! Fukyokyokyokyok!"
+  },
+  "48": {
+    "「……これは　石版か。|　何か　文字が書かれているな。|　かなり古い　王家の文字のようだ。": "... This is... It's got some writing on it...|It's very old. It's royal writing..."
+  },
+  "49": {
+    "「封印の場所が　書かれているかもしれない。|　城へ戻って　解読することにしよう。": "It may contain the location of the seal...|I'll have to go back to the castle and|decipher it."
+  },
+  "50": {
+    "「<cs_pchero>君への謝礼も　渡さないとな。|　すまないが　ヴェリナード城へ来てくれ。": "<cs_pchero>I'm not even going to give you your fee. I'm|sorry, but you must come to Castle Verrinard."
+  },
+  "51": {
+    "「ラーディス王……。僕は絶対に|　封印された男王の歌を　見つけてみせるぞ。": "King Lardis... I will find the sealed song of|the Man-King..."
+  },
+  "52": {
+    "「<pc>君。よく来てくれた。|　今　各地に　調査に行った者から|　報告を受けていたところだ。": "<pc> You. You're here. I've just been briefed by|someone who's been out investigating..."
+  },
+  "53": {
+    "「……残念ながら　彼らの方に収穫はなかった。|　だが　<pc>君のおかげで|　僕は　この石版を手に入れたんだ！": "... Unfortunately, they didn't harvest|anything. But...<pc> You're the reason I have this tablet in the|first place!"
+  },
+  "54": {
+    "「君が来るまで　読むのを待っていたんだ。|　今から読み上げる。みんなも聞いてほしい。": "I've been waiting to read it until you|came... I'm reading it now... You should all|listen..."
+  },
+  "55": {
+    "<center>私の名は　ラーディス。|ヴェリナードの国王である。": "My name is Ra... King of the Verrinard..."
+  },
+  "56": {
+    "<center>私は　王位を　妻ヴェリーナにゆずり|王であることを辞すると　今ここに誓う。": "I hereby relinquish the throne to my wife,|Verina, and resign my position as king."
+  },
+  "57": {
+    "<center>その決意の証として　私の唄う歌を封じよう。|今後　ヴェリナード王国において|男が王位に就くことは　まかりならぬ。": "As a sign of my resolve, I have sealed my|song... From now on, no man will ever ascend|the throne in the kingdom of Verrinard..."
+  },
+  "58": {
+    "「セーリアの言っていたことが真実だと|　これで証明されたな……。|　男王の歌は　ラーディス王に封印されたんだ。": "This proves that what Celia said is true...|The Man-King's Song was sealed away by King|Lardis..."
+  },
+  "59": {
+    "「だが　なぜ　ラーディス王は|　自分が　王位を退いただけでなく|　その後も　男が王になることを禁じたんだ……？": "But why did King Lardis not only abdicate his|throne, but also forbid any man from becoming|king after that...?"
+  },
+  "60": {
+    "「それは……わかりません。": "It's... I know..."
+  },
+  "61": {
+    "「石版には　まだ続きの文字がある。|　そこに答えが　書いてあるかもしれないな。": "There are more words on the tablet... Maybe|there's an answer in there..."
+  },
+  "62": {
+    "「……し……えな……。言葉……。|　ダメだ。難しくて　僕には読めない……。": "... Shh... No... Words... I can't... It's too|hard for me to read..."
+  },
+  "63": {
+    "「ならば　わらわが読もう。": "Then I'll..."
+  },
+  "64": {
+    "「いいえ！　母上の手は借りません。|　これは　僕自身のチカラで|　やらなければならないことです！": "No! No! I need your help... This is something|I have to do on my own!"
+  },
+  "65": {
+    "「大丈夫です　母上。|　僕は　必ず　この石版を読み解き|　封印された男王の歌を　見つけだします！": "Don't worry... I will decipher this tablet|and find the sealed song of the Man King!"
+  },
+  "66": {
+    "「だが　オーディスよ。その決意。|　命をかけることに　なるかもしれぬぞ。": "But, Orde... I mean... It could cost you your|life."
+  },
+  "67": {
+    "「もとより　覚悟の上。|　ですが　死ぬわけには　まいりません。|　僕は　王になるのですから！！": "I've always been... But I can't die. I'm|going to be a king!"
+  },
+  "68": {
+    "「……わかった。|　ならば　わらわは　何もせぬ。": "... I... Then what am I..."
+  },
+  "69": {
+    "「<pc>君。石版の続きを読むには|　すこし　時間が　かかりそうだ。": "<pc> You. It'll take a while to read the rest of|the tablet..."
+  },
+  "70": {
+    "「今回の謝礼を　渡しておこう。|　遠くまで　つきあってもらい　感謝する。": ""
+  },
+  "71": {
+    "「石版の文字を読み解いたとき|　また　君のチカラを貸してもらうかもしれない。|　そのときは　よろしく頼む！": "When I figure out what's on the tablet, I may|need your help again. When that happens, I'll|be counting on you!"
+  }
 }

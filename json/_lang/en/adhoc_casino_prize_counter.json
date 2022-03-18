@@ -48,7 +48,7 @@
     "<pipipi_off><pc>は|<%sL_COIN_PRIZE>を　手に入れた！|<se_nots System 7>|<end>": "<pipipi_off><pc> received <%sL_COIN_PRIZE>!|<se_nots System 7>|<end>"
   },
   "17": {
-  "「<%sL_COIN_PRIZE>ですね、|　これは　<%sL_SYOKUNIN>でないと|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This recipe can|only be created by <%sL_SYOKUNIN>. Is|that all right?|<yesno><break>"
+    "「<%sL_COIN_PRIZE>ですね、|　これは　<%sL_SYOKUNIN>でないと|　作れないレシピですが　よろしいですか？|<yesno><break>": "<%sL_COIN_PRIZE>? This recipe can|only be created by <%sL_SYOKUNIN>. Is|that all right?|<yesno><break>"
   },
   "18": {
     "「<%sL_COIN_PRIZE>を　交換するには|　カジノコインの枚数が足りません。|　他の景品をおえらびください。|<break>": "You don't have enough Casino Coins to exchange|for that. Please choose another item.|<break>"
@@ -69,7 +69,7 @@
     "「他にも　交換したい品は|　ございますか？|<break>": "Is there anything else you'd like to exchange|for?<break>"
   },
   "24": {
-  "「<%sL_COIN_PRIZE>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "It seems you already know <%sL_COIN_PRIZE>.|Do you still want it?|<yesno><break>"
+    "「<%sL_COIN_PRIZE>は|　すでに　読んだことがあるようですが|　よろしいですか？|<yesno><break>": "It seems you already know <%sL_COIN_PRIZE>.|Do you still want it?|<yesno><break>"
   },
   "25": {
     "「<%sL_COIN_PRIZE>は|　取り引き不可の　スカウトの書ですが|　交換しても　よろしいですか？|<yesno 2><break>": "<%sL_COIN_PRIZE> is a Scout Book|you can't trade to others. Is that all right?|<yesno 2><break>"

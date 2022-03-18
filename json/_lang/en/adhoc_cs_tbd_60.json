@@ -1,353 +1,353 @@
 {
-    "1": {
-        "「……そんなんで　ホントに　大丈夫かよ！？": "... Are you sure you're okay with that?"
-    },
-    "2": {
-        "「とにかく　人手が必要なの！|　お願いっ！　私たちにチカラを貸して！": "I just need some help! Please! We need your|help!"
-    },
-    "3": {
-        "「でもねぇ……。": "But you know..."
-    },
-    "4": {
-        "「……しょうがねえ。|　オマエを信じて　協力してやるよ。|　手はず通りに　動けばいいんだな。": "... I... We'll trust you. We'll work|together. We'll stick to the plan..."
-    },
-    "5": {
-        "「シメールさん　ありがとう！": "Thank you, Mr. Simmer!"
-    },
-    "6": {
-        "「<pc>さん！　来てくれたのね。": "<pc> Three! Come..."
-    },
-    "7": {
-        "「このままだと　きっとまた　ヒョッヒョマンが|　ゴリウスさんを操って　<pc>さんを|　狙ってくるから　迎え撃つ作戦を練ってたの。": "If we don't do something, I'm sure we'll have another Hyukkoman on our hands| Manipulate Mr Gorius<pc> So we've been working on a plan to|intercept..."
-    },
-    "8": {
-        "「今の父には　剣も　呪文も効きませんから|　霊体を相手に　戦う方法について|　いろいろと　調べてみたのです。": "Swords and spells won't work on my father|now, so I've been doing a lot of research on|how to fight a spirit..."
-    },
-    "9": {
-        "「そうしたら　セラフィさんが|　霊を実体化させて　とどめておく|　魔法陣の存在を　突き止めてくれたんですよ！": "Then, Seraphy discovered the existence of a|magic circle that materializes spirits and|holds them in place!"
-    },
-    "10": {
-        "「でもね　その魔法陣を描く材料が|　今のところ　全然　足りてないんだ。": "But we don't have enough materials to draw|those magic circles at the moment."
-    },
-    "11": {
-        "「材料さえ　集めることができれば|　魔法陣を描いて　ゴリウスさんの怨霊を|　迎え撃つことができるのに……。": "If I could only gather the materials, I could|draw a magic circle and intercept Mr. Gorius'|grudge."
-    },
-    "12": {
-        "「それで　悪いんだけど　その材料を集めるのを|　<pc>さんにも　手伝ってもらいたいの。|　どうかな？　お願いできる？": "So, if you'll excuse me, I need to gather those materials|<pc> I'm gonna need your help. What do you think?|Can you do that?"
-    },
-    "13": {
-        "「ありがとう！　<pc>さんに|　集めてきてほしいのは　具象の霊灰って材料よ。|　全部で　５個　集めてほしいんだ。": "Thank you!<pc> I'd like you to go and collect the ashes... I|want you to collect five in total."
-    },
-    "14": {
-        "「こっちの世界の　アラハギーロ地方にいる|　<%sEV_QUE_NAME0>を　倒すと|　手に入るらしいわ。": "You can get it by defeating <%sEV_QUE_NAME0>|in the Arahaguillo region of this world..."
-    },
-    "15": {
-        "「<pc>さん　ご迷惑をおかけしますが|　どうか　よろしくお願いします……。": "<pc> I apologize for any inconvenience this may|cause, and thank you for your cooperation."
-    },
-    "16": {
-        "「じゃあ　私たちは　ここで|　他の準備をして　待ってるわ。|　手に入ったら　戻ってきてね！": "Okay, we'll just stay here and wait for the|others to be ready... Come back when you have|it!"
-    },
-    "17": {
-        "「ホント！？　あっ　でも……|　<pc>さん　他の人からの頼まれごとも|　いっぱい　引き受けてるんじゃない？": "Really? But...<pc> I'm sure you're taking care of a lot of other|people's business, aren't you?"
-    },
-    "18": {
-        "「私たち　ここで　待ってるから|　用事が終わったら　来てくれる？": "We'll wait here for you, and when you're|done, you can come by."
-    },
-    "19": {
-        "「そっか……。これをまかせられるの|　<pc>さんしか　いないんだけどな……。": "I see... I can handle this.<pc> You're the only one I can think of..."
-    },
-    "20": {
-        "「私たち　ここで待ってるから|　また　気が変わったら　来てね。": "We'll be here waiting for you, and if you|change your mind..."
-    },
-    "21": {
-        "「<pc>さん！　来てくれたのね。": "<pc> Three! Come..."
-    },
-    "22": {
-        "「私たち　ゴリウスさんの怨霊を|　迎え撃つ　効果的な方法を見つけたの！": "We've found an effective way to intercept Mr.|Gorius' grudge!"
-    },
-    "23": {
-        "「それはね　ゴリウスさんを　特別な魔法陣で|　実体化させて　剣や　呪文が効くようにしてから|　戦うって方法なんだ。": "That is, we can make Mr. Gorius materialize|in a special magic circle so that his sword|and spells will work, and then we can fight|<br>|him."
-    },
-    "24": {
-        "「でも　その魔法陣を描く材料が　全然|　足りてないの。材料さえ集められれば|　魔法陣を描くことが　できるのに……。": "But I don't have enough materials to draw the|magic circle. If I could just gather the|materials, I could draw the magic circle..."
-    },
-    "25": {
-        "「それで　悪いんだけど　その材料を集めるのを|　<pc>さんにも　手伝ってもらいたいの。|　どうかな？　お願いできる？": "So, if you'll excuse me, I need to gather those materials|<pc> I'm gonna need your help. What do you think?|Can you do that?"
-    },
-    "26": {
-        "「魔法陣を　描くための材料で|　<pc>さんに　集めてきてもらいたいのは|　具象の霊灰を　５個だよ。": "It's the material I used to draw the magic circle|<pc> I want you to go and collect the ashes of the|five..."
-    },
-    "27": {
-        "「こっちの世界の　アラハギーロ地方にいる|　<%sEV_QUE_NAME0>を　倒すと|　具象の霊灰が　手に入るみたい。": "If you defeat <%sEV_QUE_NAME0> in the|Arahaguillo region of the world over here,|you'll get the Spirit Ashes of Embodiment..."
-    },
-    "28": {
-        "「材料が集まれば　魔法陣で|　ゴリウスさんの怨霊を　実体化させて|　戦うことができると思うの。": "If we can gather enough materials, we can use|the magic circle to make Mr. Gorius' grudge|materialize and fight him."
-    },
-    "29": {
-        "「私たちは　ここで準備してるから|　具象の霊灰を　手に入れたら　戻ってきて！|　お願いね　<pc>さん！": "We're setting up here, so when you get the|concrete ash, come back! Please.<pc> Three!"
-    },
-    "30": {
-        "「あ　<pc>さん！　おかえりなさい。|　お願いした　具象の霊灰を|　持ってきてくれたのね。": ""
-    },
-    "31": {
-        "「他の材料は　全部　集まったの！|　あと必要なのは　その具象の霊灰だけよ。|　じゃあ　私に　渡してくれる？<yesno><close>": "I've gathered all the other materials! All I|need now is the ashes of that thing... Can|you give it to me?<yesno><close>"
-    },
-    "32": {
-        "「そんな！　それがないと　魔法陣が描けないわ。|　<pc>さん　意地悪しないで……|　私に　具象の霊灰を渡してくれる？<yesno><close>": "Oh, no! Without it, I can't draw the magic|circle...<pc> Miss, don't be mean... Can you give me the|ashes of the figurine?<yesno><close>"
-    },
-    "33": {
-        "<pc>は　セラフィに|具象の霊灰を　渡した。": "<pc> ...will give Seraphy the ashes of the|figurative..."
-    },
-    "34": {
-        "「ありがとう！　これがあれば|　ゴリウスさんの怨霊を実体化させる　魔法陣を|　描くことができるわ……。": "Thank you! With this, I can draw a magic|circle to materialize Mr. Gorius' grudge..."
-    },
-    "35": {
-        "「セラフィ！　手はず通り|　格闘場の　闘いの広間を　使えるように|　ハナシ　つけといてやったぜ。": "Seraphim! Make sure she has access to the|fighting pits in the arena as planned."
-    },
-    "36": {
-        "「シメールさん　ありがとう！": "Thank you, Mr. Simmer!"
-    },
-    "37": {
-        "「じゃあ　作戦を説明するわね。": "Then I'll explain the plan..."
-    },
-    "38": {
-        "「あのヒョッヒョマンは　ゴリウスさんの怨霊を|　操って　また　<pc>さんを|　狙いに来る……っていうのは　知ってるよね。": "That hyo-ho man has a grudge against Mr Gorius| Manipulate it Again<pc> I know they're coming for you. I know that..."
-    },
-    "39": {
-        "「だから　格闘場の　闘いの広間へ|　<pc>さんが　来てくれれば|　アイツを　おびき寄せることができるわ！": "That's why we're going to the fighting pits of the arena|<pc> If you come, we can lure him away!"
-    },
-    "40": {
-        "「その闘いの広間に　魔法陣を描いておいて|　ゴリウスさんの怨霊が来たら|　実体化させてやれば　迎え撃てるはずよ。": "I've painted a magic circle in the hall of|the fight, and if Mr. Gorius' grudge comes, I|can make it materialize and intercept it..."
-    },
-    "41": {
-        "「じゃあ　作戦開始ね！|　<pc>さん　準備ができたら|　格闘場の闘いの広間へ　来てね。": "Then let's get to work!<pc> When you're ready, we'll go to the fight room|of the arena..."
-    },
-    "42": {
-        "「<cs_pchero>さん。|　魔法陣の準備は　バッチリできてるよ。": "<cs_pchero>I'm ready. The magic circle is all set..."
-    },
-    "43": {
-        "「父は　現れるでしょうか……。": "I wonder if my father will show up."
-    },
-    "44": {
-        "「きっと　来るわ。": "I'm sure..."
-    },
-    "45": {
-        "「お待たせしていたようですね。|　ヒョーッヒョッヒョ。": "I'm sorry you had to wait so long... Hee-|hee..."
-    },
-    "46": {
-        "「……出たわね　ヒョッヒョマン。": "... There you go. Hi-hi-hi."
-    },
-    "47": {
-        "「ヒョヒョッ？　ほう……。|　霊を実体化させる　魔法陣とは|　足りないアタマで　必死に考えたようですね。": "Hee-hee? Oh... A magic circle that makes|spirits materialize... that's what my|inadequate brain was struggling to come up|<br>|with."
-    },
-    "48": {
-        "「しかし　こんな小細工など|　今のゴリウス君なら　ものともせず|　あなたたちを　たたきのめしてくるでしょう。": "But I'm sure Mr. Gorius will be more than|happy to take this little trick down on you."
-    },
-    "49": {
-        "「いきますよ　ゴリウス君！": "Here we go, Mr. Gorius!"
-    },
-    "50": {
-        "「グオォォォ……。グオオォォォォ！！": "Gu-o-o-o-o... Goooooooooo...!"
-    },
-    "51": {
-        "「セラフィ！　応援に来てやったぞ。": "Seraphim! Come and cheer me up..."
-    },
-    "52": {
-        "「いけ　セラフィ！|　<cs_pchero>！！|　怨霊どもを　ぶっとばせ！": "Come on, Seraph!<cs_pchero>Let's go! Let's beat the bastards!"
-    },
-    "53": {
-        "「え……　どうして　みんな……。|　ここは危険よ！　早く離れてっ！！": "What... Why are you all... It's not safe|here! Get out of here!"
-    },
-    "54": {
-        "「オレたちだって　手伝ったんだから|　最後まで　見届けさせろよ。": "I mean, we're the ones who helped him. We're|the ones who have to see this through."
-    },
-    "55": {
-        "「…………。": "..."
-    },
-    "56": {
-        "「ヒョーッヒョッヒョ！|　もうすぐ　自分たちも滅ぼされるというのに|　いい気なものですねぇ。": "Whoo-hoo-hoo-hoo! It's good to know that|we're about to be destroyed..."
-    },
-    "57": {
-        "「そんなことは　させないわ！": "I won't let you do this!"
-    },
-    "58": {
-        "「ヒョヒョ！　このゴリウス君のパワーを見ても|　そんなこと　言ってられますかねぇ。|　まずは　<cs_pchero>ッ！　あなたからです！！": "Hee-hee! I can't believe I'm saying that when|I see the power of this Mr. Goliath... First|things first.<cs_pchero>Oh, my God! It's you!"
-    },
-    "59": {
-        "「グオォォォォォォォ！！": "Gu-o-o-o-o-o-o!"
-    },
-    "60": {
-        "「<cs_pchero>さん！　来てくれたのね。": "<cs_pchero>Three! Come..."
-    },
-    "61": {
-        "「ヒョーッヒョッヒョ。|　またもや　やられに来るとは　愚かですねぇ。": "Hee-hee... I was foolish to think you'd come|here to be beaten up again."
-    },
-    "62": {
-        "「何度でも　たたきのめし　ゴリウス君の性能を|　思い知らせてさしあげましょう！": "I'll beat you again and again, and show you|what Mr. Gorius is capable of!"
-    },
-    "63": {
-        "「ゴリウス君　いきますよ！": "Mr. Gorius, here we go!"
-    },
-    "64": {
-        "「グオォォォォォォォ！！": "Gu-o-o-o-o-o-o!"
-    },
-    "65": {
-        "「お　おのれ　またしても　私の最高傑作を……。|　くっ　こうなったら……。": "Oh, no! Once again, my masterpiece... Oh,|God, I'm gonna..."
-    },
-    "66": {
-        "「ヒョヒョッ……。|　怨念のチカラを　限界以上に引きだし|　呪いを暴走させてやりましたよ。": "Hee-hee... I'll draw out the power of the|grudge beyond its limits and let the curse|run wild..."
-    },
-    "67": {
-        "「この呪いに触れた者は　瞬時に|　心臓が凍りつき　死に絶えるでしょう……。": "Anyone who comes into contact with this curse|will instantly freeze to death..."
-    },
-    "68": {
-        "「ヒョーッヒョッヒョ！　|　やがて　このチカラは|　レンダーシア全土をも包みこむ……。": "Whoo-hoo-hoo! In time, this power will|envelop all of Rendershia..."
-    },
-    "69": {
-        "「このまま　なすすべなく|　すべて凍りつき　破滅していくがいい……。|　ヒョーッヒョヒョヒョヒョ……": "I hope you have no choice but to freeze and|destroy everything in your path... Hee-hee,|hee-hee, hee-hee..."
-    },
-    "70": {
-        "「グルアァァァァァァァァ！！": "Gluaaaaaah!"
-    },
-    "71": {
-        "「このままじゃ　まずいわ……。|　<cs_pchero>さん　どうしようっ！？": "We can't go on like this.<cs_pchero>What should I do?"
-    },
-    "72": {
-        "「セラフィさん　大丈夫です。|　今度こそ　父を止めてみせます。": "Mr. Seraphim, you can... I'm going to stop my|father this time."
-    },
-    "73": {
-        "「タジウスさん！？": "Mr. Tazius!"
-    },
-    "74": {
-        "<pipipi_high>「……キーキー！": "<pipipi_high>... Squeak!"
-    },
-    "75": {
-        "「みんな……　来てくれたのか！": "Guys... You're here!"
-    },
-    "76": {
-        "「父さん……　もう　やめましょう。": "Dad, I... I don't want to..."
-    },
-    "77": {
-        "「ベルムドォ……|　……ベルムドォォォオオ！！": "Belumdoo... ... Belumdo...!"
-    },
-    "78": {
-        "「……父さん。|　ベルムドを　復讐に駆り立てたのは|　あなた自身では　ありませんか！": "...... You are the one who drove Vermud to|revenge, aren't you?"
-    },
-    "79": {
-        "「ですが　兵士長。あなたが　魔物の命を|　盾にしても　国と民を　守ろうとしていたこと|　私たちは　皆　知っています。": "But... We all know that you tried to protect|your country and people, even with the life|of a demon as a shield."
-    },
-    "80": {
-        "「そうです！　悪評に　まみれようとも|　国を守ることを優先した　あなたを|　オレは　尊敬しています！": "That's right! I respect you for prioritizing|the defense of your country, even if you're|surrounded by bad publicity!"
-    },
-    "81": {
-        "「厳しいけれど　あなたは誰よりも強かった……。|　自らの怨念になど　負けないでください。|　あなたなら　おのれに打ち勝てるはずです！": "You were tough, but you were stronger than|anyone. Don't let your grudge get the better|of you. I know you can defeat yourself!"
-    },
-    "82": {
-        "「ううっ……　へいしちょおぉ……。|　もう一度　アンタの強さ……|　アンタの雄姿を　オラに見せてくれよぉぉ！": "Ugh... Hey, hey, hey... Show me your|strength... Show me your strength."
-    },
-    "83": {
-        "「父さん！　犯した過ちを償いましょう。|　そして　憎しみの連鎖を　断つのです。": "Father! I will atone for the wrongs I have|done... And break the cycle of hatred..."
-    },
-    "84": {
-        "「……ウ　ウウゥゥゥ……。|　ウゥゥゥ　ウ　ウアアアアーーー！！": "... Uh-uh-uh... Uh-uh... uh-uh... uh-uh!"
-    },
-    "85": {
-        "「父さん……！": "Dad...!"
-    },
-    "86": {
-        "「……皆　すまなかった。": "I'm... I'm sorry, guys."
-    },
-    "87": {
-        "「アラハギーロを守るためには　人に恨まれても|　しかたないと思っていた……。そんな心が|　いつしか　私を　鬼にしていたのだな……。": "In order to protect Araguilo, I thought it|was no use having people hate me. That's what|made me a demon..."
-    },
-    "88": {
-        "「犠牲になった命のために……|　私たちも　父さんと共に　いきます。": "For the lives that were sacrificed... We're|with you."
-    },
-    "89": {
-        "「もう本当に　終わるのだな……。|　なんと　長い戦いであったことか……": "It's really over now... What a long battle|it's been..."
-    },
-    "90": {
-        "「セラフィさん　<cs_pchero>さん……。|　ありがとうございました……": "Ms Seraphy<cs_pchero>Thank you... Thank you very much..."
-    },
-    "91": {
-        "「……タジウスさんっ！": "... Mr. Tazius!"
-    },
-    "92": {
-        "「……<cs_pchero>さん。|　私　わからないよ……。": "<cs_pchero>San. I don't know..."
-    },
-    "93": {
-        "「アラハギーロを守りたいって気持ちは|　誰もが　おんなじだったのに　どうして|　こんな　悲しい結末になっちゃったんだろう。": "We all wanted the same thing, to protect|Araguilo, so why did it have to end so|sadly..."
-    },
-    "94": {
-        "「……アイツらは　長く　悲しい戦いの日々から|　ようやく　解き放たれることが　できたのさ。|　オマエたちの　おかげでな。": "... They were finally able to break free from|their long and sad struggle... You guys..."
-    },
-    "95": {
-        "「……えっ？|　もしかして　また　何かあったのかな。|　<cs_pchero>さん。城下町に行ってみよう！": "... What? Could it be that something happened|again...<cs_pchero>San. Let's go to the castle town!"
-    },
-    "96": {
-        "「……えっ　なに？　どうしたの？": "... What? What? What's going on?"
-    },
-    "97": {
-        "「セラフィ！　やってくれたじゃねーか！": "Seraphim! You've done it!"
-    },
-    "98": {
-        "「あんがとね！　アラハギーロを守ってくれて。": "Thank you! Protect the Arachnid..."
-    },
-    "99": {
-        "「おー　<cs_pchero>！|　オメーも　なかなか　がんばってたな。": "Ooh<cs_pchero>You're doing great. You're doing great."
-    },
-    "100": {
-        "「ありがとう　セラフィ！": "Thank you, Seraph!"
-    },
-    "101": {
-        "「おつかれさま！": "Good night!"
-    },
-    "102": {
-        "「そんな……　あれは　<cs_pchero>さんや|　タジウスさんの　おかげだよ！|　私は　ちょっと手伝っただけで……": "Oh, no Oh, my God<cs_pchero>Thanks to you and Tazius! I was just helping|out."
-    },
-    "103": {
-        "「……なぁ　セラフィ。|　じつは　みんなで　考えてたんだけどさ……": "... Hey, Se... You know, we were all|thinking..."
-    },
-    "104": {
-        "「オマエ　オレたちのリーダーになって|　この国を　引っぱっていってくれないか？": "Will you become our leader and lead this|country?"
-    },
-    "105": {
-        "「えっ……": "What the"
-    },
-    "106": {
-        "「この国のために　必死になってるオマエを見て|　思ったんだ。この国をまとめられるのは|　オマエしか　いないんじゃないかって……。": "When I saw you working so hard for this|country, I thought... I think you're the only|one who can hold this country together."
-    },
-    "107": {
-        "「待って待って！　ム…ムリだよ！|　私に　リーダーなんか……": "Wait, wait, wait! I can't... I can't! I'm not|a leader."
-    },
-    "108": {
-        "「この国を守るのが　オマエの夢なんだろ？|　だったら　きっちり　リーダーになって|　その夢　真正面から貫いてみやがれ！": "It's your dream to protect this country,|isn't it? If that's the case, then why don't|you become a leader and carry out that dream|<br>|head-on!"
-    },
-    "109": {
-        "「……うん　わかった。": "... Yeah..."
-    },
-    "110": {
-        "「リーダーとか　ガラじゃないけど……|　これからも　このアラハギーロと|　みんなを守るために　私　がんばるね！": "I'm not a leader or a gala, but... I'll|continue to do my best to protect this|Arahaguillo and everyone here!"
-    },
-    "111": {
-        "「<cs_pchero>さん。そういうわけで|　私　ここのリーダーになっちゃうみたい。": "<cs_pchero>I'm going to be the leader here. That's why|I'm going to be the leader here..."
-    },
-    "112": {
-        "「……あっ　そうだ！|　とりあえず　リーダーの初仕事として|　<cs_pchero>さんに　お礼を　渡さなきゃね！": "... Oh, that's right! Anyway, as the leader's|first task.<cs_pchero>I'll have to give it to you!"
-    },
-    "113": {
-        "「これまで　ずーっと　<cs_pchero>さんには|　頼りっぱなしだったけど　これからは|　町のみんなと協力して　ここを守っていくわ。": "All this time<cs_pchero>I've always relied on you, but from now on,|I'm going to work with everyone in town to|protect this place..."
-    },
-    "114": {
-        "「今まで　本当にありがとね！|　私たちの作る　新しい国に　期待してて！": "Thank you so much for everything! We're|building a new country, and you can count on|it!"
-    },
-    "115": {
-        "「えええ！？": "Eeee!"
-    },
-    "116": {
-        "「なぁ……セラフィ。|　ちょっと　城下町まで来てくれよ。 |　話しておきたいことが　あるんだ。": "Hey... Se... I was wondering if you could|come down to the castle town... There's|something I need to tell you..."
-    },
-    "117": {
-        "「そう　悲しむなよ。セラフィ。": "So sad... Se..."
-    }
+  "1": {
+    "「……そんなんで　ホントに　大丈夫かよ！？": "... Are you sure you're okay with that?"
+  },
+  "2": {
+    "「とにかく　人手が必要なの！|　お願いっ！　私たちにチカラを貸して！": "I just need some help! Please! We need your|help!"
+  },
+  "3": {
+    "「でもねぇ……。": "But you know..."
+  },
+  "4": {
+    "「……しょうがねえ。|　オマエを信じて　協力してやるよ。|　手はず通りに　動けばいいんだな。": "... I... We'll trust you. We'll work|together. We'll stick to the plan..."
+  },
+  "5": {
+    "「シメールさん　ありがとう！": "Thank you, Mr. Simmer!"
+  },
+  "6": {
+    "「<pc>さん！　来てくれたのね。": "<pc> Three! Come..."
+  },
+  "7": {
+    "「このままだと　きっとまた　ヒョッヒョマンが|　ゴリウスさんを操って　<pc>さんを|　狙ってくるから　迎え撃つ作戦を練ってたの。": "If we don't do something, I'm sure we'll have another Hyukkoman on our hands| Manipulate Mr Gorius<pc> So we've been working on a plan to|intercept..."
+  },
+  "8": {
+    "「今の父には　剣も　呪文も効きませんから|　霊体を相手に　戦う方法について|　いろいろと　調べてみたのです。": "Swords and spells won't work on my father|now, so I've been doing a lot of research on|how to fight a spirit..."
+  },
+  "9": {
+    "「そうしたら　セラフィさんが|　霊を実体化させて　とどめておく|　魔法陣の存在を　突き止めてくれたんですよ！": "Then, Seraphy discovered the existence of a|magic circle that materializes spirits and|holds them in place!"
+  },
+  "10": {
+    "「でもね　その魔法陣を描く材料が|　今のところ　全然　足りてないんだ。": "But we don't have enough materials to draw|those magic circles at the moment."
+  },
+  "11": {
+    "「材料さえ　集めることができれば|　魔法陣を描いて　ゴリウスさんの怨霊を|　迎え撃つことができるのに……。": "If I could only gather the materials, I could|draw a magic circle and intercept Mr. Gorius'|grudge."
+  },
+  "12": {
+    "「それで　悪いんだけど　その材料を集めるのを|　<pc>さんにも　手伝ってもらいたいの。|　どうかな？　お願いできる？": "So, if you'll excuse me, I need to gather those materials|<pc> I'm gonna need your help. What do you think?|Can you do that?"
+  },
+  "13": {
+    "「ありがとう！　<pc>さんに|　集めてきてほしいのは　具象の霊灰って材料よ。|　全部で　５個　集めてほしいんだ。": "Thank you!<pc> I'd like you to go and collect the ashes... I|want you to collect five in total."
+  },
+  "14": {
+    "「こっちの世界の　アラハギーロ地方にいる|　<%sEV_QUE_NAME0>を　倒すと|　手に入るらしいわ。": "You can get it by defeating <%sEV_QUE_NAME0>|in the Arahaguillo region of this world..."
+  },
+  "15": {
+    "「<pc>さん　ご迷惑をおかけしますが|　どうか　よろしくお願いします……。": "<pc> I apologize for any inconvenience this may|cause, and thank you for your cooperation."
+  },
+  "16": {
+    "「じゃあ　私たちは　ここで|　他の準備をして　待ってるわ。|　手に入ったら　戻ってきてね！": "Okay, we'll just stay here and wait for the|others to be ready... Come back when you have|it!"
+  },
+  "17": {
+    "「ホント！？　あっ　でも……|　<pc>さん　他の人からの頼まれごとも|　いっぱい　引き受けてるんじゃない？": "Really? But...<pc> I'm sure you're taking care of a lot of other|people's business, aren't you?"
+  },
+  "18": {
+    "「私たち　ここで　待ってるから|　用事が終わったら　来てくれる？": "We'll wait here for you, and when you're|done, you can come by."
+  },
+  "19": {
+    "「そっか……。これをまかせられるの|　<pc>さんしか　いないんだけどな……。": "I see... I can handle this.<pc> You're the only one I can think of..."
+  },
+  "20": {
+    "「私たち　ここで待ってるから|　また　気が変わったら　来てね。": "We'll be here waiting for you, and if you|change your mind..."
+  },
+  "21": {
+    "「<pc>さん！　来てくれたのね。": "<pc> Three! Come..."
+  },
+  "22": {
+    "「私たち　ゴリウスさんの怨霊を|　迎え撃つ　効果的な方法を見つけたの！": "We've found an effective way to intercept Mr.|Gorius' grudge!"
+  },
+  "23": {
+    "「それはね　ゴリウスさんを　特別な魔法陣で|　実体化させて　剣や　呪文が効くようにしてから|　戦うって方法なんだ。": "That is, we can make Mr. Gorius materialize|in a special magic circle so that his sword|and spells will work, and then we can fight|<br>|him."
+  },
+  "24": {
+    "「でも　その魔法陣を描く材料が　全然|　足りてないの。材料さえ集められれば|　魔法陣を描くことが　できるのに……。": "But I don't have enough materials to draw the|magic circle. If I could just gather the|materials, I could draw the magic circle..."
+  },
+  "25": {
+    "「それで　悪いんだけど　その材料を集めるのを|　<pc>さんにも　手伝ってもらいたいの。|　どうかな？　お願いできる？": "So, if you'll excuse me, I need to gather those materials|<pc> I'm gonna need your help. What do you think?|Can you do that?"
+  },
+  "26": {
+    "「魔法陣を　描くための材料で|　<pc>さんに　集めてきてもらいたいのは|　具象の霊灰を　５個だよ。": "It's the material I used to draw the magic circle|<pc> I want you to go and collect the ashes of the|five..."
+  },
+  "27": {
+    "「こっちの世界の　アラハギーロ地方にいる|　<%sEV_QUE_NAME0>を　倒すと|　具象の霊灰が　手に入るみたい。": "If you defeat <%sEV_QUE_NAME0> in the|Arahaguillo region of the world over here,|you'll get the Spirit Ashes of Embodiment..."
+  },
+  "28": {
+    "「材料が集まれば　魔法陣で|　ゴリウスさんの怨霊を　実体化させて|　戦うことができると思うの。": "If we can gather enough materials, we can use|the magic circle to make Mr. Gorius' grudge|materialize and fight him."
+  },
+  "29": {
+    "「私たちは　ここで準備してるから|　具象の霊灰を　手に入れたら　戻ってきて！|　お願いね　<pc>さん！": "We're setting up here, so when you get the|concrete ash, come back! Please.<pc> Three!"
+  },
+  "30": {
+    "「あ　<pc>さん！　おかえりなさい。|　お願いした　具象の霊灰を|　持ってきてくれたのね。": ""
+  },
+  "31": {
+    "「他の材料は　全部　集まったの！|　あと必要なのは　その具象の霊灰だけよ。|　じゃあ　私に　渡してくれる？<yesno><close>": "I've gathered all the other materials! All I|need now is the ashes of that thing... Can|you give it to me?<yesno><close>"
+  },
+  "32": {
+    "「そんな！　それがないと　魔法陣が描けないわ。|　<pc>さん　意地悪しないで……|　私に　具象の霊灰を渡してくれる？<yesno><close>": "Oh, no! Without it, I can't draw the magic|circle...<pc> Miss, don't be mean... Can you give me the|ashes of the figurine?<yesno><close>"
+  },
+  "33": {
+    "<pc>は　セラフィに|具象の霊灰を　渡した。": "<pc> ...will give Seraphy the ashes of the|figurative..."
+  },
+  "34": {
+    "「ありがとう！　これがあれば|　ゴリウスさんの怨霊を実体化させる　魔法陣を|　描くことができるわ……。": "Thank you! With this, I can draw a magic|circle to materialize Mr. Gorius' grudge..."
+  },
+  "35": {
+    "「セラフィ！　手はず通り|　格闘場の　闘いの広間を　使えるように|　ハナシ　つけといてやったぜ。": "Seraphim! Make sure she has access to the|fighting pits in the arena as planned."
+  },
+  "36": {
+    "「シメールさん　ありがとう！": "Thank you, Mr. Simmer!"
+  },
+  "37": {
+    "「じゃあ　作戦を説明するわね。": "Then I'll explain the plan..."
+  },
+  "38": {
+    "「あのヒョッヒョマンは　ゴリウスさんの怨霊を|　操って　また　<pc>さんを|　狙いに来る……っていうのは　知ってるよね。": "That hyo-ho man has a grudge against Mr Gorius| Manipulate it Again<pc> I know they're coming for you. I know that..."
+  },
+  "39": {
+    "「だから　格闘場の　闘いの広間へ|　<pc>さんが　来てくれれば|　アイツを　おびき寄せることができるわ！": "That's why we're going to the fighting pits of the arena|<pc> If you come, we can lure him away!"
+  },
+  "40": {
+    "「その闘いの広間に　魔法陣を描いておいて|　ゴリウスさんの怨霊が来たら|　実体化させてやれば　迎え撃てるはずよ。": "I've painted a magic circle in the hall of|the fight, and if Mr. Gorius' grudge comes, I|can make it materialize and intercept it..."
+  },
+  "41": {
+    "「じゃあ　作戦開始ね！|　<pc>さん　準備ができたら|　格闘場の闘いの広間へ　来てね。": "Then let's get to work!<pc> When you're ready, we'll go to the fight room|of the arena..."
+  },
+  "42": {
+    "「<cs_pchero>さん。|　魔法陣の準備は　バッチリできてるよ。": "<cs_pchero>I'm ready. The magic circle is all set..."
+  },
+  "43": {
+    "「父は　現れるでしょうか……。": "I wonder if my father will show up."
+  },
+  "44": {
+    "「きっと　来るわ。": "I'm sure..."
+  },
+  "45": {
+    "「お待たせしていたようですね。|　ヒョーッヒョッヒョ。": "I'm sorry you had to wait so long... Hee-|hee..."
+  },
+  "46": {
+    "「……出たわね　ヒョッヒョマン。": "... There you go. Hi-hi-hi."
+  },
+  "47": {
+    "「ヒョヒョッ？　ほう……。|　霊を実体化させる　魔法陣とは|　足りないアタマで　必死に考えたようですね。": "Hee-hee? Oh... A magic circle that makes|spirits materialize... that's what my|inadequate brain was struggling to come up|<br>|with."
+  },
+  "48": {
+    "「しかし　こんな小細工など|　今のゴリウス君なら　ものともせず|　あなたたちを　たたきのめしてくるでしょう。": "But I'm sure Mr. Gorius will be more than|happy to take this little trick down on you."
+  },
+  "49": {
+    "「いきますよ　ゴリウス君！": "Here we go, Mr. Gorius!"
+  },
+  "50": {
+    "「グオォォォ……。グオオォォォォ！！": "Gu-o-o-o-o... Goooooooooo...!"
+  },
+  "51": {
+    "「セラフィ！　応援に来てやったぞ。": "Seraphim! Come and cheer me up..."
+  },
+  "52": {
+    "「いけ　セラフィ！|　<cs_pchero>！！|　怨霊どもを　ぶっとばせ！": "Come on, Seraph!<cs_pchero>Let's go! Let's beat the bastards!"
+  },
+  "53": {
+    "「え……　どうして　みんな……。|　ここは危険よ！　早く離れてっ！！": "What... Why are you all... It's not safe|here! Get out of here!"
+  },
+  "54": {
+    "「オレたちだって　手伝ったんだから|　最後まで　見届けさせろよ。": "I mean, we're the ones who helped him. We're|the ones who have to see this through."
+  },
+  "55": {
+    "「…………。": "..."
+  },
+  "56": {
+    "「ヒョーッヒョッヒョ！|　もうすぐ　自分たちも滅ぼされるというのに|　いい気なものですねぇ。": "Whoo-hoo-hoo-hoo! It's good to know that|we're about to be destroyed..."
+  },
+  "57": {
+    "「そんなことは　させないわ！": "I won't let you do this!"
+  },
+  "58": {
+    "「ヒョヒョ！　このゴリウス君のパワーを見ても|　そんなこと　言ってられますかねぇ。|　まずは　<cs_pchero>ッ！　あなたからです！！": "Hee-hee! I can't believe I'm saying that when|I see the power of this Mr. Goliath... First|things first.<cs_pchero>Oh, my God! It's you!"
+  },
+  "59": {
+    "「グオォォォォォォォ！！": "Gu-o-o-o-o-o-o!"
+  },
+  "60": {
+    "「<cs_pchero>さん！　来てくれたのね。": "<cs_pchero>Three! Come..."
+  },
+  "61": {
+    "「ヒョーッヒョッヒョ。|　またもや　やられに来るとは　愚かですねぇ。": "Hee-hee... I was foolish to think you'd come|here to be beaten up again."
+  },
+  "62": {
+    "「何度でも　たたきのめし　ゴリウス君の性能を|　思い知らせてさしあげましょう！": "I'll beat you again and again, and show you|what Mr. Gorius is capable of!"
+  },
+  "63": {
+    "「ゴリウス君　いきますよ！": "Mr. Gorius, here we go!"
+  },
+  "64": {
+    "「グオォォォォォォォ！！": "Gu-o-o-o-o-o-o!"
+  },
+  "65": {
+    "「お　おのれ　またしても　私の最高傑作を……。|　くっ　こうなったら……。": "Oh, no! Once again, my masterpiece... Oh,|God, I'm gonna..."
+  },
+  "66": {
+    "「ヒョヒョッ……。|　怨念のチカラを　限界以上に引きだし|　呪いを暴走させてやりましたよ。": "Hee-hee... I'll draw out the power of the|grudge beyond its limits and let the curse|run wild..."
+  },
+  "67": {
+    "「この呪いに触れた者は　瞬時に|　心臓が凍りつき　死に絶えるでしょう……。": "Anyone who comes into contact with this curse|will instantly freeze to death..."
+  },
+  "68": {
+    "「ヒョーッヒョッヒョ！　|　やがて　このチカラは|　レンダーシア全土をも包みこむ……。": "Whoo-hoo-hoo! In time, this power will|envelop all of Rendershia..."
+  },
+  "69": {
+    "「このまま　なすすべなく|　すべて凍りつき　破滅していくがいい……。|　ヒョーッヒョヒョヒョヒョ……": "I hope you have no choice but to freeze and|destroy everything in your path... Hee-hee,|hee-hee, hee-hee..."
+  },
+  "70": {
+    "「グルアァァァァァァァァ！！": "Gluaaaaaah!"
+  },
+  "71": {
+    "「このままじゃ　まずいわ……。|　<cs_pchero>さん　どうしようっ！？": "We can't go on like this.<cs_pchero>What should I do?"
+  },
+  "72": {
+    "「セラフィさん　大丈夫です。|　今度こそ　父を止めてみせます。": "Mr. Seraphim, you can... I'm going to stop my|father this time."
+  },
+  "73": {
+    "「タジウスさん！？": "Mr. Tazius!"
+  },
+  "74": {
+    "<pipipi_high>「……キーキー！": "<pipipi_high>... Squeak!"
+  },
+  "75": {
+    "「みんな……　来てくれたのか！": "Guys... You're here!"
+  },
+  "76": {
+    "「父さん……　もう　やめましょう。": "Dad, I... I don't want to..."
+  },
+  "77": {
+    "「ベルムドォ……|　……ベルムドォォォオオ！！": "Belumdoo... ... Belumdo...!"
+  },
+  "78": {
+    "「……父さん。|　ベルムドを　復讐に駆り立てたのは|　あなた自身では　ありませんか！": "...... You are the one who drove Vermud to|revenge, aren't you?"
+  },
+  "79": {
+    "「ですが　兵士長。あなたが　魔物の命を|　盾にしても　国と民を　守ろうとしていたこと|　私たちは　皆　知っています。": "But... We all know that you tried to protect|your country and people, even with the life|of a demon as a shield."
+  },
+  "80": {
+    "「そうです！　悪評に　まみれようとも|　国を守ることを優先した　あなたを|　オレは　尊敬しています！": "That's right! I respect you for prioritizing|the defense of your country, even if you're|surrounded by bad publicity!"
+  },
+  "81": {
+    "「厳しいけれど　あなたは誰よりも強かった……。|　自らの怨念になど　負けないでください。|　あなたなら　おのれに打ち勝てるはずです！": "You were tough, but you were stronger than|anyone. Don't let your grudge get the better|of you. I know you can defeat yourself!"
+  },
+  "82": {
+    "「ううっ……　へいしちょおぉ……。|　もう一度　アンタの強さ……|　アンタの雄姿を　オラに見せてくれよぉぉ！": "Ugh... Hey, hey, hey... Show me your|strength... Show me your strength."
+  },
+  "83": {
+    "「父さん！　犯した過ちを償いましょう。|　そして　憎しみの連鎖を　断つのです。": "Father! I will atone for the wrongs I have|done... And break the cycle of hatred..."
+  },
+  "84": {
+    "「……ウ　ウウゥゥゥ……。|　ウゥゥゥ　ウ　ウアアアアーーー！！": "... Uh-uh-uh... Uh-uh... uh-uh... uh-uh!"
+  },
+  "85": {
+    "「父さん……！": "Dad...!"
+  },
+  "86": {
+    "「……皆　すまなかった。": "I'm... I'm sorry, guys."
+  },
+  "87": {
+    "「アラハギーロを守るためには　人に恨まれても|　しかたないと思っていた……。そんな心が|　いつしか　私を　鬼にしていたのだな……。": "In order to protect Araguilo, I thought it|was no use having people hate me. That's what|made me a demon..."
+  },
+  "88": {
+    "「犠牲になった命のために……|　私たちも　父さんと共に　いきます。": "For the lives that were sacrificed... We're|with you."
+  },
+  "89": {
+    "「もう本当に　終わるのだな……。|　なんと　長い戦いであったことか……": "It's really over now... What a long battle|it's been..."
+  },
+  "90": {
+    "「セラフィさん　<cs_pchero>さん……。|　ありがとうございました……": "Ms Seraphy<cs_pchero>Thank you... Thank you very much..."
+  },
+  "91": {
+    "「……タジウスさんっ！": "... Mr. Tazius!"
+  },
+  "92": {
+    "「……<cs_pchero>さん。|　私　わからないよ……。": "<cs_pchero>San. I don't know..."
+  },
+  "93": {
+    "「アラハギーロを守りたいって気持ちは|　誰もが　おんなじだったのに　どうして|　こんな　悲しい結末になっちゃったんだろう。": "We all wanted the same thing, to protect|Araguilo, so why did it have to end so|sadly..."
+  },
+  "94": {
+    "「……アイツらは　長く　悲しい戦いの日々から|　ようやく　解き放たれることが　できたのさ。|　オマエたちの　おかげでな。": "... They were finally able to break free from|their long and sad struggle... You guys..."
+  },
+  "95": {
+    "「……えっ？|　もしかして　また　何かあったのかな。|　<cs_pchero>さん。城下町に行ってみよう！": "... What? Could it be that something happened|again...<cs_pchero>San. Let's go to the castle town!"
+  },
+  "96": {
+    "「……えっ　なに？　どうしたの？": "... What? What? What's going on?"
+  },
+  "97": {
+    "「セラフィ！　やってくれたじゃねーか！": "Seraphim! You've done it!"
+  },
+  "98": {
+    "「あんがとね！　アラハギーロを守ってくれて。": "Thank you! Protect the Arachnid..."
+  },
+  "99": {
+    "「おー　<cs_pchero>！|　オメーも　なかなか　がんばってたな。": "Ooh<cs_pchero>You're doing great. You're doing great."
+  },
+  "100": {
+    "「ありがとう　セラフィ！": "Thank you, Seraph!"
+  },
+  "101": {
+    "「おつかれさま！": "Good night!"
+  },
+  "102": {
+    "「そんな……　あれは　<cs_pchero>さんや|　タジウスさんの　おかげだよ！|　私は　ちょっと手伝っただけで……": "Oh, no Oh, my God<cs_pchero>Thanks to you and Tazius! I was just helping|out."
+  },
+  "103": {
+    "「……なぁ　セラフィ。|　じつは　みんなで　考えてたんだけどさ……": "... Hey, Se... You know, we were all|thinking..."
+  },
+  "104": {
+    "「オマエ　オレたちのリーダーになって|　この国を　引っぱっていってくれないか？": "Will you become our leader and lead this|country?"
+  },
+  "105": {
+    "「えっ……": "What the"
+  },
+  "106": {
+    "「この国のために　必死になってるオマエを見て|　思ったんだ。この国をまとめられるのは|　オマエしか　いないんじゃないかって……。": "When I saw you working so hard for this|country, I thought... I think you're the only|one who can hold this country together."
+  },
+  "107": {
+    "「待って待って！　ム…ムリだよ！|　私に　リーダーなんか……": "Wait, wait, wait! I can't... I can't! I'm not|a leader."
+  },
+  "108": {
+    "「この国を守るのが　オマエの夢なんだろ？|　だったら　きっちり　リーダーになって|　その夢　真正面から貫いてみやがれ！": "It's your dream to protect this country,|isn't it? If that's the case, then why don't|you become a leader and carry out that dream|<br>|head-on!"
+  },
+  "109": {
+    "「……うん　わかった。": "... Yeah..."
+  },
+  "110": {
+    "「リーダーとか　ガラじゃないけど……|　これからも　このアラハギーロと|　みんなを守るために　私　がんばるね！": "I'm not a leader or a gala, but... I'll|continue to do my best to protect this|Arahaguillo and everyone here!"
+  },
+  "111": {
+    "「<cs_pchero>さん。そういうわけで|　私　ここのリーダーになっちゃうみたい。": "<cs_pchero>I'm going to be the leader here. That's why|I'm going to be the leader here..."
+  },
+  "112": {
+    "「……あっ　そうだ！|　とりあえず　リーダーの初仕事として|　<cs_pchero>さんに　お礼を　渡さなきゃね！": "... Oh, that's right! Anyway, as the leader's|first task.<cs_pchero>I'll have to give it to you!"
+  },
+  "113": {
+    "「これまで　ずーっと　<cs_pchero>さんには|　頼りっぱなしだったけど　これからは|　町のみんなと協力して　ここを守っていくわ。": "All this time<cs_pchero>I've always relied on you, but from now on,|I'm going to work with everyone in town to|protect this place..."
+  },
+  "114": {
+    "「今まで　本当にありがとね！|　私たちの作る　新しい国に　期待してて！": "Thank you so much for everything! We're|building a new country, and you can count on|it!"
+  },
+  "115": {
+    "「えええ！？": "Eeee!"
+  },
+  "116": {
+    "「なぁ……セラフィ。|　ちょっと　城下町まで来てくれよ。 |　話しておきたいことが　あるんだ。": "Hey... Se... I was wondering if you could|come down to the castle town... There's|something I need to tell you..."
+  },
+  "117": {
+    "「そう　悲しむなよ。セラフィ。": "So sad... Se..."
+  }
 }

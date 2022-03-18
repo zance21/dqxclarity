@@ -3,7 +3,7 @@
     "「……何やら　問題が　起きているようだ。|　すこし　時間をおいてから　来るがよい。|　コフーーー……。|<end>": "... I think we have a problem. I'll come back|in a little while... Kofoo...<end>"
   },
   "2": {
-    "「……私に　何の用だ？|<break>": "...What do you want?<break>"
+    "「……私に　何の用だ？|<break>": "... What do you want from me?<break>"
   },
   "3": {
     "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
@@ -12,7 +12,7 @@
     "「練習試合では　所属チームを選ぶことができる。|　貴様は　どちらを選ぶのだ……？|<break>": "In practice games, you get to choose your|team. Which team will you choose?<break>"
   },
   "5": {
-    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|My Club|Any Club|<select_end>|<break>"
+    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|At my club|In any club|<select_end>|<break>"
   },
   "6": {
     "「……貴様　パーティを組んでるな？|　バトルトリニティへの　参加は|　パーティリーダーが　行うのだ……。|<br>|「パーティリーダーに　頼むか|　ひとりになって　ふたたび　来るがよい……。|　コフーーー……。|<bw_break>": "... You have a party, don't you?|Participation in the Battle Trinity is the|responsibility of the party leader. You can|<br>|either ask the party leader, or you can come|back alone... Kofoo...<bw_break>"
@@ -24,7 +24,7 @@
     "「……これが　貴様の実績だ。|<end>": "...These're your badges.<end>"
   },
   "9": {
-    "「……私に　何の用だ？|<break>": "...What do you want?<break>"
+    "「……私に　何の用だ？|<break>": "... What do you want from me?<break>"
   },
   "10": {
     "<select_se_off>|練習試合をする|対抗戦をする|職業を確認する|実績を確認する|勲章をセットする|特別報酬を受け取る|景品と交換する|<select_end>|<break>": "<select_se_off>|Practice Match|Enter Battle|Check Vocations|View Achievements|Set Badge|Receive Rewards|Redeem Points|<select_end>|<break>"
@@ -135,7 +135,7 @@
     "「これが　キミが獲得した　勲章だ！|<break>": "These are the badges you've earned!<break>"
   },
   "46": {
-    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc> set the <%sL_Bdg_name> Badge!<se Joutyu_SE 24><pipipi_on>|<end>"
+    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc>  has set the medal for <%sL_Bdg_name>!<se Joutyu_SE 24><pipipi_on>|<end>"
   },
   "47": {
     "「この勲章を　セットするのかい？|<yesno><close>": "Are you going to set this badge?<yesno><close>"
@@ -156,7 +156,7 @@
     "「練習試合では　所属するチームを選べるよ！|　どっちが　いいかなあ？|<break>": "In practice, you get to choose which team you|play for! Which one do you prefer?<break>"
   },
   "53": {
-    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|My Club|Any club|<select_end>|<break>"
+    "<select_se_off>|自分のクラブで|どのクラブでも|<select_end>|<break>": "<select_se_off>|At my club|In any club|<select_end>|<break>"
   },
   "54": {
     "「あれれ～？　パーティ組んでるのかなあ？|　バトルトリニティへの　参加はね～|　パーティリーダーが　やるんだよ！|<br>|「パーティリーダーに　お願いするか|　ひとりになって　また　来てね！|<bw_break>": "Huh? Are we forming a party? Participation in|the Battle Trinity is the responsibility of|the party leader. You can either ask the|<br>|party leader for help, or be left alone and|come back later!<bw_break>"
@@ -183,7 +183,7 @@
     "「これが　<pc>さんが|　獲得した　勲章だよ～。|<break>": "These are the Badges you've won!<break>"
   },
   "62": {
-    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc> set the <%sL_Bdg_name> Badge!<se Joutyu_SE 24><pipipi_on>|<end>"
+    "<pipipi_off><pc>は　<%sL_Bdg_name>の勲章を|セットした！<se Joutyu_SE 24><pipipi_on>|<end>": "<pipipi_off><pc>  has set the medal for <%sL_Bdg_name>!<se Joutyu_SE 24><pipipi_on>|<end>"
   },
   "63": {
     "「この勲章を　セットするんだね～？|<yesno><close>": "You're going to set this medal, aren't you?<yesno><close>"

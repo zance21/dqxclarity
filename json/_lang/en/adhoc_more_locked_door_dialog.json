@@ -1,20 +1,20 @@
 {
-    "1": {
-        "扉には　カギが　かかっている。": "The door is locked..."
-    },
-    "2": {
-        "扉には　カギが　かかっている。|持っているカギでは　開けられなかった。": "The door is locked... I can't open it with|the key I have."
-    },
-    "3": {
-        "扉には　カギが　かかっている。|<br>|白のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Do you want to open the|door with the key from the white door?<yesno><close>"
-    },
-    "4": {
-        "扉には　カギが　かかっている。|<br>|灰のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Would you like to open|the door with the key from the ash chalice?<yesno><close>"
-    },
-    "5": {
-        "扉には　カギが　かかっている。|<br>|黒のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Would you like to open|the door with the key from the black|doorpost?<yesno><close>"
-    },
-    "6": {
-        "中に　魔物のいる気配がする……。|<br>|扉の先にいる魔物と　戦いますか？<yesno><close>": "I think there's a demon inside... Do you want|to fight the demon that's behind the door?<yesno><close>"
-    }
+  "1": {
+    "扉には　カギが　かかっている。": "The door is locked..."
+  },
+  "2": {
+    "扉には　カギが　かかっている。|持っているカギでは　開けられなかった。": "The door is locked... I can't open it with|the key I have."
+  },
+  "3": {
+    "扉には　カギが　かかっている。|<br>|白のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Do you want to open the|door with the key from the white door?<yesno><close>"
+  },
+  "4": {
+    "扉には　カギが　かかっている。|<br>|灰のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Would you like to open|the door with the key from the ash chalice?<yesno><close>"
+  },
+  "5": {
+    "扉には　カギが　かかっている。|<br>|黒のほこらのカギを使って　扉を開けますか？<yesno><close>": "The door is locked... Would you like to open|the door with the key from the black|doorpost?<yesno><close>"
+  },
+  "6": {
+    "中に　魔物のいる気配がする……。|<br>|扉の先にいる魔物と　戦いますか？<yesno><close>": "I think there's a demon inside... Do you want|to fight the demon that's behind the door?<yesno><close>"
+  }
 }

@@ -1,176 +1,176 @@
 {
-    "1": {
-        "「たっ　助けてくれーーー！！": "I need your help!"
-    },
-    "2": {
-        "「ぷっ……": "Pfft"
-    },
-    "3": {
-        "「ギャーッハッハッハ！": "Gah-hah-hah!"
-    },
-    "4": {
-        "「いやあ　ワリーワリー。|　魔物以外と　からむの　ひさしぶりでよ。|　つい　おフザケが　すぎちまったぜ。": "Oh, Wally... It's been a while since I've|messed with anyone other than demons. I'm|sorry, I was just..."
-    },
-    "5": {
-        "「オレの名は　チャムール。|　そして　こいつらは　オレの仕事仲間だ。": "My name is Cha... And these guys are my work."
-    },
-    "6": {
-        "「そう……。この　オレこそが|　悪名高き　つむじ風の旅団を束ねる|　ヘッドなんだなあ。": "So... I'm the head of the infamous Whirlwind|Brigade..."
-    },
-    "7": {
-        "「おいおい。そう構えるなよ。|　アンタも　盗賊なんだろ？|　同業者同士　仲良くいこうじゃねえか。": "Oh... That's it... You're a bandit too,|aren't you? Let's get along in the same|business..."
-    },
-    "8": {
-        "「アンタが　ここに来た理由も　察しがつくぜ。|　おおかた　ブデチョのオヤジに|　なんか頼まれて　やってきたんだろう？": "I have an idea why you're here. I know why|you're here. You're probably here because|Boudreau asked you to."
-    },
-    "9": {
-        "「へっへっへ　図星だな？|　確かに　あいつが大事にしていたもんは|　オレがあずかっている。": "You got that right, didn't you? You're right.|I'm the one who took care of the things he|cared about..."
-    },
-    "10": {
-        "「すぐに返してやっても　いいんだが……|　それじゃあ　イマイチ　面白くねえよなあ？": "I'd give it right back to you, but... But|that wouldn't be much fun, would it?"
-    },
-    "11": {
-        "「どうだ？　ひとつ　アンタのウデ前|　オレに　見せちゃくれないか？|　義賊ってヤツの　ウデ前をよ……。<yesno><close>": "What do you think? Why don't you show me your|skills? Let's see what a bandit can do...<yesno><close>"
-    },
-    "12": {
-        "「おいおい。それじゃ　いつまでたっても|　ブデチョが探してるもんは　手に入らねえぞ？": "Oh... You'll never get what you're looking|for, will you?"
-    },
-    "13": {
-        "「よしよし。いい返事だ。|　それじゃあ　アンタには　ぬすむを使って|　魔物から　お宝を盗ってきてもらうかな。": "Good... Okay... You'll have to use your|stealth to steal the treasure from the|demon..."
-    },
-    "14": {
-        "「盗んでくるのは　ウェナ諸島の|　ヴェリナード領南にいる　<%sEV_QUE_NAME0>が|　持っている　黄金ホタテだ。": "We're going to steal a golden horn from|<%sEV_QUE_NAME0> in the Wena Isles, south of|Verrinard territory."
-    },
-    "15": {
-        "「ぬすむを成功させ　戦闘に勝ち　黄金ホタテを|　手に入れたら　また　ここに戻ってくるんだぜ。|　ブデチョの探してるもん　返してやるからよ。": "Once I've successfully completed the stealth|trick, won the battle, and gotten the golden|scallop, I'll come back here... I'll give|<br>|Bdecho back what he's looking for..."
-    },
-    "16": {
-        "「おう。どうしたんだ？|　オレの言ったことを　やってこない限り|　ブデチョが探してるもんは　返さねえぞ。": "Oh. What's going on? As long as you don't do|what I say, you'll get what Boudreau's|looking for."
-    },
-    "17": {
-        "「いいか？　ウェナ諸島の|　ヴェリナード領南で　<%sEV_QUE_NAME0>から|　黄金ホタテを　盗ってきな。": "Okay? In the Wenatchee Islands, south of|Verrinard territory, I stole a golden scallop|from <%sEV_QUE_NAME0>..."
-    },
-    "18": {
-        "「ぬすむを成功させ　戦闘に勝ち　黄金ホタテを|　手に入れたら　また　ここに戻ってくるんだぜ。|　ブデチョの探してるもん　返してやるからよ。": "Once I've successfully completed the stealth|trick, won the battle, and gotten the golden|scallop, I'll come back here... I'll give|<br>|Bdecho back what he's looking for..."
-    },
-    "19": {
-        "「……へっへっへ　オレはよ。|　アンタみてえな　正義をふりかざした|　義賊のウデ前ってのを　見てみてえんだ。": "... Heh heh heh... I'd like to see a|righteous bandit like you..."
-    },
-    "20": {
-        "「おっ　早かったじゃねえか。|　どうだ　目当てのもんは　手に入ったか？": "You're early... How'd it go? Did you get what|you were looking for?"
-    },
-    "21": {
-        "チャムールに　黄金ホタテを　渡しますか？<yesno><close>": "Would you like to give Chamour the golden|scallop?<yesno><close>"
-    },
-    "22": {
-        "「おいおい。それじゃ　いつまでたっても|　ブデチョが探してるもんは　手に入らねえぞ？": "Oh... You'll never get what you're looking|for, will you?"
-    },
-    "23": {
-        "<pc>は　チャムールに|黄金ホタテを　渡した。": "<pc> ...gave Chamour the golden scallop..."
-    },
-    "24": {
-        "「ほう　なかなか　やるじゃねえか。|　こいつは　盗もうったって|　そう簡単にはいかねえ　シロモノだぜ。": "That's pretty good. This one's not so easy to|steal, Shiromo..."
-    },
-    "25": {
-        "「アンタ……　いいウデ前だな。|　うちに　入らねえか？|　義賊なんかしてたんじゃ　もったいねえよ。<yesno><close>": "You're... You have a nice face. Why don't you|come join us? It's a waste of time to be a|bandit...<yesno><close>"
-    },
-    "26": {
-        "「ギャッハッハッハ！　ジョークだよ　ジョーク！|　オレは　かたぎを気取ったヤツとなんか|　仕事はしねえって　決めてんだ。": "Gah-hah! It's a joke! It's a joke! I've|decided that I won't work with anyone who|thinks they're a..."
-    },
-    "27": {
-        "「でもよ　約束は守るぜ。|　オルゴールの中身は　ブデチョのオヤジに|　ちゃんと　返してやるよ。": "But you promised... I promised that I'd|return the contents of the music box to|Bdecho's father."
-    },
-    "28": {
-        "「しかも　出血大サービスだ。|　このオレが　ヤツの所へ行って|　直接　手渡ししてやろうじゃねえか。": "And he's bleeding out. I'll go to him and|hand it to him myself..."
-    },
-    "29": {
-        "「……ブデチョの野郎。|　こいつを見せても　ピンとこない盗賊を|　わざわざ　よこしたみたいだからな……。": "... Bdecho... It's like you sent a bandit who|doesn't get it."
-    },
-    "30": {
-        "「ヤツの化けの皮　はがしてやるから|　アンタも　見にこいよ。|　見ものだぜ～。": "I'm gonna rip his skin off, and you're gonna|see... Watch..."
-    },
-    "31": {
-        "「ギャーハッハッハッハ……！": "Ha-ha-ha-ha...!"
-    },
-    "32": {
-        "「ジャマするぜ～。": "I'll get out of your way."
-    },
-    "33": {
-        "「チャ…チャムール……。|　やはり　お前が……。": "Cha... Chamour... I knew it was you..."
-    },
-    "34": {
-        "「よう　親父　ひさしぶりだな。|　……だらしなく　ブクブク太ってるとこ見ると|　あれから　ロクな生活してねえみたいだな。": "Hey, Dad. Long time no see... It's been a|while. The way he's getting fat, it looks|like he hasn't been living well since then..."
-    },
-    "35": {
-        "「おらよっ！　母さんのオルゴールに入ってた|　これ　返してやらぁ。": "Hey! This was in Mom's music box. I want it|back."
-    },
-    "36": {
-        "<if_woman>「自分の正体が　バレないよう|　そこの　ねえちゃん　使うなんて|　ダサダサなんだよ　アンタは……。<else>「自分の正体が　バレないよう|　そこの　あんちゃん　使うなんて|　ダサダサなんだよ　アンタは……。<endif>": "<if_woman>It's so tacky to use a girl like you to keep|your identity a secret, you...<else>It's tacky to use a girl like you to keep|your identity a secret, but you...<endif>"
-    },
-    "37": {
-        "「なんとか言ったらどうだ！|　天下の盗賊王……|　マスク・ド・ムーチョさんよおっ！！": "Why don't you say something! The king of|thieves... Mask de Mouchou!"
-    },
-    "38": {
-        "「……オレは　知ってて|　オルゴールを　奪わせたわけじゃないぜ？|　ただ　母さんの思い出が　ほしかっただけさ。": "I... I didn't knowingly let you take that|music box from me, okay? I just wanted to|have a memory of my mom."
-    },
-    "39": {
-        "「だから　あのオルゴールから|　そいつが出てきたときは|　さすがに　自分の目を　うたがったぜ。": "That's why, when that thing came out of the|music box, I couldn't help but feel my eyes|glaze over."
-    },
-    "40": {
-        "「その　かいとうの仮面は　ムーチョの|　トレードマーク……。まさか　自分の父親が|　あの　マスク・ド・ムーチョだったなんてなあ！": "That sugar mask is Mucio's trademark... I|never thought my father was the mask de|Mucho!"
-    },
-    "41": {
-        "「チャムール…………。": "Chamour..."
-    },
-    "42": {
-        "「さわるんじゃねえ！　この偽善者がっ！！": "Get your hands off me! You hypocrite!"
-    },
-    "43": {
-        "「オレは……　あの日のこと|　一生　忘れねえからな……！": "I... I'll never forget that day."
-    },
-    "44": {
-        "「チャムール！！": "Chamour!"
-    },
-    "45": {
-        "「……すまない。聞かせてもらったよ。": "... So... Let me ask you..."
-    },
-    "46": {
-        "「アンタが　あの伝説の義賊|　マスク・ド・ムーチョだったなんて……。|　今の話　本当なのかい……！？": "I didn't know you were the legendary bandit,|Masque de Mucho. Is it true what you say?"
-    },
-    "47": {
-        "「やれやれ……。|　聞かれてしまっては　しょうがない。": "Oh, dear... I'm sorry you had to hear that..."
-    },
-    "48": {
-        "「いかにも　ワシが　マスク・ド・ムーチョさ。|　ガタラの町長の家に　盗みに入って以来|　もう何年も　仕事はしてないがな。": "You're right. I'm the masked one. I haven't|had a job in years, not since I robbed the|mayor of Gathara."
-    },
-    "49": {
-        "「もしかして　チャムールの言っていた|　あの日ってのは……。マスク・ド・ムーチョの|　最後の　仕事の日のことなのかい……？": "Could it be that the day that Chamour was|talking about... Was that the day Chamour was|talking about... the last day of Masque de|<br>|Mucho's work?"
-    },
-    "50": {
-        "「ああ　そうだ。|　町長の家に盗みに入った　あの日な……。|　ワシは……": "Yeah, well... That day we broke into the|mayor's house... I was..."
-    },
-    "51": {
-        "「ワシは　チャムールの母親を|　見殺しにしてしまったんだ……。": "I left Chamour's mother to die..."
-    },
-    "52": {
-        "「……いったい　何があったんだい？": "... What the hell happened to you?"
-    },
-    "53": {
-        "「それについては　もう　何も言いたくはない。|　ともかく……": "I don't want to say anything else about it.|Anyway..."
-    },
-    "54": {
-        "「それ以来　あやつは　義賊を憎むようになった。|　義を　かかげた者が　なぜ|　母を見殺しにしたのか　と……。": "Ever since then, he's hated the righteous|bandits. He wondered why the righteous one|had left his mother for dead."
-    },
-    "55": {
-        "「そして　義賊を　偽善者と呼び|　マスク・ド・ムーチョへの復讐を誓って|　行方を　くらませてしまったのだ……。": "He called the bandits hypocrites, swore|vengeance on Masque de Mucho, and|disappeared..."
-    },
-    "56": {
-        "「弁解の余地は　ない。|　あやつを　悪の道へと進ませたのは|　まぎれもなく　ワシなんだ……。": "There's no excuse. I'm the one who set him on|the path to evil."
-    },
-    "57": {
-        "「とんでもないことが　わかっちまったね……。|　とりあえず　あたいは　酒場に戻るから|　アンタも　あとで来ておくれよ。": "I'm going back to the bar. Anyway, I'm going|back to the bar, so you can come back|later..."
-    },
-    "58": {
-        "「ビビった？　ビビったか？": "Did I scare you? You freaked out?"
-    }
+  "1": {
+    "「たっ　助けてくれーーー！！": "I need your help!"
+  },
+  "2": {
+    "「ぷっ……": "Pfft"
+  },
+  "3": {
+    "「ギャーッハッハッハ！": "Gah-hah-hah!"
+  },
+  "4": {
+    "「いやあ　ワリーワリー。|　魔物以外と　からむの　ひさしぶりでよ。|　つい　おフザケが　すぎちまったぜ。": "Oh, Wally... It's been a while since I've|messed with anyone other than demons. I'm|sorry, I was just..."
+  },
+  "5": {
+    "「オレの名は　チャムール。|　そして　こいつらは　オレの仕事仲間だ。": "My name is Cha... And these guys are my work."
+  },
+  "6": {
+    "「そう……。この　オレこそが|　悪名高き　つむじ風の旅団を束ねる|　ヘッドなんだなあ。": "So... I'm the head of the infamous Whirlwind|Brigade..."
+  },
+  "7": {
+    "「おいおい。そう構えるなよ。|　アンタも　盗賊なんだろ？|　同業者同士　仲良くいこうじゃねえか。": "Oh... That's it... You're a bandit too,|aren't you? Let's get along in the same|business..."
+  },
+  "8": {
+    "「アンタが　ここに来た理由も　察しがつくぜ。|　おおかた　ブデチョのオヤジに|　なんか頼まれて　やってきたんだろう？": "I have an idea why you're here. I know why|you're here. You're probably here because|Boudreau asked you to."
+  },
+  "9": {
+    "「へっへっへ　図星だな？|　確かに　あいつが大事にしていたもんは|　オレがあずかっている。": "You got that right, didn't you? You're right.|I'm the one who took care of the things he|cared about..."
+  },
+  "10": {
+    "「すぐに返してやっても　いいんだが……|　それじゃあ　イマイチ　面白くねえよなあ？": "I'd give it right back to you, but... But|that wouldn't be much fun, would it?"
+  },
+  "11": {
+    "「どうだ？　ひとつ　アンタのウデ前|　オレに　見せちゃくれないか？|　義賊ってヤツの　ウデ前をよ……。<yesno><close>": "What do you think? Why don't you show me your|skills? Let's see what a bandit can do...<yesno><close>"
+  },
+  "12": {
+    "「おいおい。それじゃ　いつまでたっても|　ブデチョが探してるもんは　手に入らねえぞ？": "Oh... You'll never get what you're looking|for, will you?"
+  },
+  "13": {
+    "「よしよし。いい返事だ。|　それじゃあ　アンタには　ぬすむを使って|　魔物から　お宝を盗ってきてもらうかな。": "Good... Okay... You'll have to use your|stealth to steal the treasure from the|demon..."
+  },
+  "14": {
+    "「盗んでくるのは　ウェナ諸島の|　ヴェリナード領南にいる　<%sEV_QUE_NAME0>が|　持っている　黄金ホタテだ。": "We're going to steal a golden horn from|<%sEV_QUE_NAME0> in the Wena Isles, south of|Verrinard territory."
+  },
+  "15": {
+    "「ぬすむを成功させ　戦闘に勝ち　黄金ホタテを|　手に入れたら　また　ここに戻ってくるんだぜ。|　ブデチョの探してるもん　返してやるからよ。": "Once I've successfully completed the stealth|trick, won the battle, and gotten the golden|scallop, I'll come back here... I'll give|<br>|Bdecho back what he's looking for..."
+  },
+  "16": {
+    "「おう。どうしたんだ？|　オレの言ったことを　やってこない限り|　ブデチョが探してるもんは　返さねえぞ。": "Oh. What's going on? As long as you don't do|what I say, you'll get what Boudreau's|looking for."
+  },
+  "17": {
+    "「いいか？　ウェナ諸島の|　ヴェリナード領南で　<%sEV_QUE_NAME0>から|　黄金ホタテを　盗ってきな。": "Okay? In the Wenatchee Islands, south of|Verrinard territory, I stole a golden scallop|from <%sEV_QUE_NAME0>..."
+  },
+  "18": {
+    "「ぬすむを成功させ　戦闘に勝ち　黄金ホタテを|　手に入れたら　また　ここに戻ってくるんだぜ。|　ブデチョの探してるもん　返してやるからよ。": "Once I've successfully completed the stealth|trick, won the battle, and gotten the golden|scallop, I'll come back here... I'll give|<br>|Bdecho back what he's looking for..."
+  },
+  "19": {
+    "「……へっへっへ　オレはよ。|　アンタみてえな　正義をふりかざした|　義賊のウデ前ってのを　見てみてえんだ。": "... Heh heh heh... I'd like to see a|righteous bandit like you..."
+  },
+  "20": {
+    "「おっ　早かったじゃねえか。|　どうだ　目当てのもんは　手に入ったか？": "You're early... How'd it go? Did you get what|you were looking for?"
+  },
+  "21": {
+    "チャムールに　黄金ホタテを　渡しますか？<yesno><close>": "Would you like to give Chamour the golden|scallop?<yesno><close>"
+  },
+  "22": {
+    "「おいおい。それじゃ　いつまでたっても|　ブデチョが探してるもんは　手に入らねえぞ？": "Oh... You'll never get what you're looking|for, will you?"
+  },
+  "23": {
+    "<pc>は　チャムールに|黄金ホタテを　渡した。": "<pc> ...gave Chamour the golden scallop..."
+  },
+  "24": {
+    "「ほう　なかなか　やるじゃねえか。|　こいつは　盗もうったって|　そう簡単にはいかねえ　シロモノだぜ。": "That's pretty good. This one's not so easy to|steal, Shiromo..."
+  },
+  "25": {
+    "「アンタ……　いいウデ前だな。|　うちに　入らねえか？|　義賊なんかしてたんじゃ　もったいねえよ。<yesno><close>": "You're... You have a nice face. Why don't you|come join us? It's a waste of time to be a|bandit...<yesno><close>"
+  },
+  "26": {
+    "「ギャッハッハッハ！　ジョークだよ　ジョーク！|　オレは　かたぎを気取ったヤツとなんか|　仕事はしねえって　決めてんだ。": "Gah-hah! It's a joke! It's a joke! I've|decided that I won't work with anyone who|thinks they're a..."
+  },
+  "27": {
+    "「でもよ　約束は守るぜ。|　オルゴールの中身は　ブデチョのオヤジに|　ちゃんと　返してやるよ。": "But you promised... I promised that I'd|return the contents of the music box to|Bdecho's father."
+  },
+  "28": {
+    "「しかも　出血大サービスだ。|　このオレが　ヤツの所へ行って|　直接　手渡ししてやろうじゃねえか。": "And he's bleeding out. I'll go to him and|hand it to him myself..."
+  },
+  "29": {
+    "「……ブデチョの野郎。|　こいつを見せても　ピンとこない盗賊を|　わざわざ　よこしたみたいだからな……。": "... Bdecho... It's like you sent a bandit who|doesn't get it."
+  },
+  "30": {
+    "「ヤツの化けの皮　はがしてやるから|　アンタも　見にこいよ。|　見ものだぜ～。": "I'm gonna rip his skin off, and you're gonna|see... Watch..."
+  },
+  "31": {
+    "「ギャーハッハッハッハ……！": "Ha-ha-ha-ha...!"
+  },
+  "32": {
+    "「ジャマするぜ～。": "I'll get out of your way."
+  },
+  "33": {
+    "「チャ…チャムール……。|　やはり　お前が……。": "Cha... Chamour... I knew it was you..."
+  },
+  "34": {
+    "「よう　親父　ひさしぶりだな。|　……だらしなく　ブクブク太ってるとこ見ると|　あれから　ロクな生活してねえみたいだな。": "Hey, Dad. Long time no see... It's been a|while. The way he's getting fat, it looks|like he hasn't been living well since then..."
+  },
+  "35": {
+    "「おらよっ！　母さんのオルゴールに入ってた|　これ　返してやらぁ。": "Hey! This was in Mom's music box. I want it|back."
+  },
+  "36": {
+    "<if_woman>「自分の正体が　バレないよう|　そこの　ねえちゃん　使うなんて|　ダサダサなんだよ　アンタは……。<else>「自分の正体が　バレないよう|　そこの　あんちゃん　使うなんて|　ダサダサなんだよ　アンタは……。<endif>": "<if_woman>It's so tacky to use a girl like you to keep|your identity a secret, you...<else>It's tacky to use a girl like you to keep|your identity a secret, but you...<endif>"
+  },
+  "37": {
+    "「なんとか言ったらどうだ！|　天下の盗賊王……|　マスク・ド・ムーチョさんよおっ！！": "Why don't you say something! The king of|thieves... Mask de Mouchou!"
+  },
+  "38": {
+    "「……オレは　知ってて|　オルゴールを　奪わせたわけじゃないぜ？|　ただ　母さんの思い出が　ほしかっただけさ。": "I... I didn't knowingly let you take that|music box from me, okay? I just wanted to|have a memory of my mom."
+  },
+  "39": {
+    "「だから　あのオルゴールから|　そいつが出てきたときは|　さすがに　自分の目を　うたがったぜ。": "That's why, when that thing came out of the|music box, I couldn't help but feel my eyes|glaze over."
+  },
+  "40": {
+    "「その　かいとうの仮面は　ムーチョの|　トレードマーク……。まさか　自分の父親が|　あの　マスク・ド・ムーチョだったなんてなあ！": "That sugar mask is Mucio's trademark... I|never thought my father was the mask de|Mucho!"
+  },
+  "41": {
+    "「チャムール…………。": "Chamour..."
+  },
+  "42": {
+    "「さわるんじゃねえ！　この偽善者がっ！！": "Get your hands off me! You hypocrite!"
+  },
+  "43": {
+    "「オレは……　あの日のこと|　一生　忘れねえからな……！": "I... I'll never forget that day."
+  },
+  "44": {
+    "「チャムール！！": "Chamour!"
+  },
+  "45": {
+    "「……すまない。聞かせてもらったよ。": "... So... Let me ask you..."
+  },
+  "46": {
+    "「アンタが　あの伝説の義賊|　マスク・ド・ムーチョだったなんて……。|　今の話　本当なのかい……！？": "I didn't know you were the legendary bandit,|Masque de Mucho. Is it true what you say?"
+  },
+  "47": {
+    "「やれやれ……。|　聞かれてしまっては　しょうがない。": "Oh, dear... I'm sorry you had to hear that..."
+  },
+  "48": {
+    "「いかにも　ワシが　マスク・ド・ムーチョさ。|　ガタラの町長の家に　盗みに入って以来|　もう何年も　仕事はしてないがな。": "You're right. I'm the masked one. I haven't|had a job in years, not since I robbed the|mayor of Gathara."
+  },
+  "49": {
+    "「もしかして　チャムールの言っていた|　あの日ってのは……。マスク・ド・ムーチョの|　最後の　仕事の日のことなのかい……？": "Could it be that the day that Chamour was|talking about... Was that the day Chamour was|talking about... the last day of Masque de|<br>|Mucho's work?"
+  },
+  "50": {
+    "「ああ　そうだ。|　町長の家に盗みに入った　あの日な……。|　ワシは……": "Yeah, well... That day we broke into the|mayor's house... I was..."
+  },
+  "51": {
+    "「ワシは　チャムールの母親を|　見殺しにしてしまったんだ……。": "I left Chamour's mother to die..."
+  },
+  "52": {
+    "「……いったい　何があったんだい？": "... What the hell happened to you?"
+  },
+  "53": {
+    "「それについては　もう　何も言いたくはない。|　ともかく……": "I don't want to say anything else about it.|Anyway..."
+  },
+  "54": {
+    "「それ以来　あやつは　義賊を憎むようになった。|　義を　かかげた者が　なぜ|　母を見殺しにしたのか　と……。": "Ever since then, he's hated the righteous|bandits. He wondered why the righteous one|had left his mother for dead."
+  },
+  "55": {
+    "「そして　義賊を　偽善者と呼び|　マスク・ド・ムーチョへの復讐を誓って|　行方を　くらませてしまったのだ……。": "He called the bandits hypocrites, swore|vengeance on Masque de Mucho, and|disappeared..."
+  },
+  "56": {
+    "「弁解の余地は　ない。|　あやつを　悪の道へと進ませたのは|　まぎれもなく　ワシなんだ……。": "There's no excuse. I'm the one who set him on|the path to evil."
+  },
+  "57": {
+    "「とんでもないことが　わかっちまったね……。|　とりあえず　あたいは　酒場に戻るから|　アンタも　あとで来ておくれよ。": "I'm going back to the bar. Anyway, I'm going|back to the bar, so you can come back|later..."
+  },
+  "58": {
+    "「ビビった？　ビビったか？": "Did I scare you? You freaked out?"
+  }
 }

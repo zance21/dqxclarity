@@ -1,158 +1,158 @@
 {
-    "1": {
-        "「よく来てくれたでンス。 |　どうぐ使いとして　さらに強くなったようで|　さすがは　<pc>さんでンスね。": "Thank you for coming... It seems you've grown|even stronger as a tool user.<pc> I'm sorry."
-    },
-    "2": {
-        "「ちょっと　お話が　あるでンスから|　こっちへ　来てほしいでンスよ。": "I'd like to have a word with you, and I'd|like you to come over here..."
-    },
-    "3": {
-        "「ご主人さまをさらった　隊長ゴルゴンザでンスが|　当分は　魔界に戻れないと思うでンス。": "Captain Gorgonzha, who kidnapped my master,|won't be able to return to the demon world|for a while..."
-    },
-    "4": {
-        "「というのも　魔界に戻るためには|　魔界へ通じる門を開く必要が　あるでンスが|　これには　けっこう時間が　かかるでンス。": "In order to return to the demon world, you|need to open the gate to the demon world, but|this will take some time..."
-    },
-    "5": {
-        "「今頃　奴らは　この世界のどこかで|　魔界への門を　開いているはずでンスよ……。": "They should be opening the gates to the demon|world somewhere in this world by now."
-    },
-    "6": {
-        "「この間に　ご主人さまを　助けなくては|　ならないでンスが　今の　<pc>さんでは|　ゴルゴンザには　勝てないでンス……。": "We have to save the master while we can| Don't be<pc> You can't beat Gorgonzha, Hans..."
-    },
-    "7": {
-        "「でも　ご主人さまが編み出した|　どうぐ使いの必殺技を　習得すれば|　きっと　勝機が出てくるはずでンスよ……。": "But if you can master the special tool-using|techniques master has devised, you'll have a|better chance of winning..."
-    },
-    "8": {
-        "「お願いでンス　<pc>さん。|　ゴルゴンザに勝つために　必殺技を|　習得してもらえないでンスか？": "Please<pc> I'm sorry. Can you learn a special move to|defeat Gorgonza?"
-    },
-    "9": {
-        "「魔物を従えている状態で|　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を|　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "I want you to kill <%sEV_QUE_NAME0>|<%nEV_QUE_T_NUM0> of <%sEV_QUE_NAME0> in the|Gobble Desert West and other areas with|<br>|demons in tow..."
-    },
-    "10": {
-        "「必殺技を習得するには　この特訓が|　どうしても　必要になるでンス。|　それでは　よろしくでンスよ。": "You'll need this training to master your|special moves. I'll see you later."
-    },
-    "11": {
-        "「ご主人さまが編み出した　どうぐ使いの必殺技を|　習得すれば　隊長ゴルゴンザとの戦いにも|　勝機が　生まれるはずでンス。": "If I can master the special moves my master|has created for me, I'll have a fighting|chance against Captain Gorgonza..."
-    },
-    "12": {
-        "「ただ　その前に　必殺技習得の準備として|　やってきてほしいことが　あるでンスよ。": "But before you do that, there's something I|want you to do to prepare for your special|move."
-    },
-    "13": {
-        "「魔物を従えている状態で|　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を|　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "I want you to kill <%sEV_QUE_NAME0>|<%nEV_QUE_T_NUM0> of <%sEV_QUE_NAME0> in the|Gobble Desert West and other areas with|<br>|demons in tow..."
-    },
-    "14": {
-        "「必殺技を習得するには　この特訓が|　どうしても　必要になるでンスよ……。|　<pc>さん。よろしくでンス。": "You'll need this training to master your|special moves.<pc> Hi. Nice to meet you..."
-    },
-    "15": {
-        "「おお！　特訓をこなしたでンスね！|　では　最後の仕上げでンスよ！": "Oh! You've done your training! Now for the|final touches!"
-    },
-    "16": {
-        "「<pc>さん！　マスターキーを|　取り出してもらってもいいでンスか！？<yesno><close>": "<pc> Sir! Can you get the master key out of my|hand?<yesno><close>"
-    },
-    "17": {
-        "<pc>は|マスターキーを　取り出した！": "<pc> has retrieved the master key!"
-    },
-    "18": {
-        "「<pc>さんが　特訓をこなしたおかげで|　キーに　パワーが　たまったでンス。|　おかげで　リミッターが　解除されたでンスよ。": "<pc> Thanks to your training, the key has been|filled with power. And now the limiter has|been released."
-    },
-    "19": {
-        "「さあ　その　マスターキーを使って|　ボクの二段目の引き出しを　開くでンス。|　その中にある物を　取り出すでンスよ。": "Now, I'm going to use that master key to open|my second drawer... And take out whatever's|in there."
-    },
-    "20": {
-        "<pc>は　タンスの引き出しを開け|中に入っていた本を　取り出した！": "<pc> He opened the drawer of the dresser and took|out the book that was inside!"
-    },
-    "21": {
-        "「その本は　ご主人さまが長年の研究の末に|　編み出したという　どうぐ使いの必殺技の|　習得方法が書かれた　マニュアルでンス。": "That book is a manual on how to master the|special moves of a potion wielder, written by|the master after years of research..."
-    },
-    "22": {
-        "「その本を読めば　どうぐ使いの必殺技が|　習得できるはずでンスよ。": "If you read that book, you should be able to|learn all the tricks of the trade..."
-    },
-    "23": {
-        "<pc>は|『どうぐ使い必殺技マニュアル』と|書かれた本を　読んだ。": "<pc> I've been looking for a book called \"A Manual|of Special Moves for Pawns.\""
-    },
-    "24": {
-        "「テキスト削除": "text deletion"
-    },
-    "25": {
-        "「その必殺技があれば　隊長ゴルゴンザとの|　戦いを　優位に進められるはずでンス。": "With that special move, you'll have the upper|hand in the fight against Captain Gorgonza..."
-    },
-    "26": {
-        "「……と言いたいところでンスが|　すでに　必殺技を習得してるようでンスね。|　では　代わりに　これをどうぞでンス。": "... I'd like to say I've already mastered a|special move, but... So here's one for you..."
-    },
-    "27": {
-        "「前に　ご主人さまには　夢があると言ったのを|　覚えてるでンスか？": "Remember when I told you that master has|dreams?"
-    },
-    "28": {
-        "「じつは　隊長ゴルゴンザを倒すことこそが|　ご主人さまの夢だったでンスよ。|　そして　それは　ボクの夢でもあるでンス。": "In fact, it was Master's dream to defeat|Captain Gorgonzha. And it's also my dream..."
-    },
-    "29": {
-        "タンスが　自分の戸棚を開けると|なんと　たくさんの　どうぐが飛び出した！": "When the wardrobe opened its own cupboard,|out popped a whole bunch of stuff!"
-    },
-    "30": {
-        "「ボクの中には　ご主人さまが集めてた|　アストルティアで使われている　どうぐが|　たくさん　収納されてるでンスよ。": "I've got a lot of stuff in there that|Master's been collecting, stuff that's used|in Astrutia."
-    },
-    "31": {
-        "「魔界にいた頃から　ご主人さまは|　この世界の住人が作った　どうぐを|　集めることが　趣味だったでンス。": "Ever since he was in the demon world,|Master's hobby has been collecting tools made|by the inhabitants of this world..."
-    },
-    "32": {
-        "「この世界のどうぐに魅せられた　ご主人さまは|　やがて　好きが高じて　どうぐの能力を引き出す|　研究に　のめり込んでいったでンスよ……。": "The master was fascinated by the animals of|this world, and eventually his love for them|led him to research their abilities..."
-    },
-    "33": {
-        "「だけど　魔界の連中は　意味のない研究などせず|　強化薬の開発を続けるよう　いつもいつも|　ご主人さまに　強く言っていたでンス……。": "But those in the demon world were always|urging their masters to continue developing|potions instead of doing meaningless|<br>|research, right?"
-    },
-    "34": {
-        "「ある日　ご主人さまは　自分の研究の価値を|　証明すべく　どうぐを使った　自作の戦闘兵器で|　ゴルゴンザに　勝負を挑んだでンス。": "One day, master wanted to prove the value of|his research, so he challenged Gorgonza to a|battle using a weapon of his own creation..."
-    },
-    "35": {
-        "「その戦闘兵器こそが　このボク……|　バトルガジェット１号　タンスだったでンスよ。": "And that weapon of war is me. Battle Gadget|One. It was a chest of drawers."
-    },
-    "36": {
-        "「ボクは　ご主人さまの期待に応えようと|　隊長ゴルゴンザと戦ったでンスが　ボロボロに|　負け　二度と戦えない身体になったでンス……。": "I tried to live up to my master's|expectations by fighting Captain Gorgonza,|but I was beaten to a pulp and my body could|<br>|never fight again."
-    },
-    "37": {
-        "「敗北を喫した　ご主人さまは　アイツに勝つには|　どうぐの扱いに長けた　アストルティアの住人に|　チカラを借りるしかないと判断したでンス。": "The master, defeated, decided that the only|way to defeat him was to enlist the help of|the inhabitants of Astrutia, who were skilled|<br>|in the use of tools..."
-    },
-    "38": {
-        "「そして　ご主人さまとボクは　この世界に来て|　最初に出会った者に　キーを与えたでンス。|　……それが　<pc>さんだったでンスよ。": "And the master and I gave the key to the|first person we met when we came into this|world... ... The key.<pc> It was you, sir..."
-    },
-    "39": {
-        "「<pc>さん……。ご主人さまの研究を|　カケラも理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "<pc> Miss... I want that Titan who didn't even try|to understand a shred of his master's|research to show me how strong a tool user|<br>|can be..."
-    },
-    "40": {
-        "「今のうちに　修行して |　あの巨人を倒す　心の準備ができたら|　また　ここに戻ってきてほしいでンスよ。": "I want you to train now, and come back here|when you're ready to defeat that Titan..."
-    },
-    "41": {
-        "「ボクは　それまでに|　奴らの居場所を　探しておくでンス。": "I'm going to find out where they are by then."
-    },
-    "42": {
-        "「ご主人さまは　隊長ゴルゴンザを倒すという夢を|　<pc>さんに　託したでンスよ。|　それは　ボクの夢でもあるでンス……。": "Master dreams of defeating Captain Gorgonzha|<pc> I entrusted it to you. It's my dream, too..."
-    },
-    "43": {
-        "「ご主人さまの研究の価値を　カケラも|　理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "I want you to show that giant, who refused to|understand even a shred of the value of|Master's research, just how powerful a tool|<br>|user he is..."
-    },
-    "44": {
-        "「修行して　もっと強い　どうぐ使いになったら|　また　ここに戻ってきてほしいでンスよ。|　それまでに　奴らの居場所を探しておくでンス！": "I hope you'll come back here when you've|trained and become a stronger potion user...|In the meantime, we'll find out where they|<br>|are."
-    },
-    "45": {
-        "「ご主人さまは　隊長ゴルゴンザを倒すという夢を|　<pc>さんに　託したでンスよ。|　それは　ボクの夢でもあるでンス……。": "Master dreams of defeating Captain Gorgonzha|<pc> I entrusted it to you. It's my dream, too..."
-    },
-    "46": {
-        "「ご主人さまの研究の価値を　カケラも|　理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "I want you to show that giant, who refused to|understand even a shred of the value of|Master's research, just how powerful a tool|<br>|user he is..."
-    },
-    "47": {
-        "「あの巨人を倒す　心の準備ができたら|　また　ここに戻ってきてほしいでンスよ。|　それまでに　奴らの居場所を探しておくでンス！": "I hope you'll come back here when you're|ready to defeat those Titans. In the|meantime, I'll find out where they are!"
-    },
-    "48": {
-        "「おお！　ありがたいでンス！|　では　必殺技を習得するための準備として|　やってきてほしいことが　あるでンスよ。": "Oh! Thank you! Now, there's something I want|you to do to prepare for the special move..."
-    },
-    "49": {
-        "「おお！　ありがたいでンス！|　ありがたいでンスが…………": "Oh! Thank you! Thank you, but..."
-    },
-    "50": {
-        "「<pc>さんは　頼まれごとで|　いっぱいでンスね……。でも　急ぎでンスから|　早く　そっちを片付けてくるでンスよ！": "<pc> You've got a lot of work to do... But I'm in|a hurry, so I'll just go take care of that!"
-    },
-    "51": {
-        "「そうでンスか……。でも　この世界で|　頼れるのは　<pc>さんだけでンス。|　ボクは　信じて　待ってるでンスよ。": "So... But in this world, the only thing you|can count on...<pc> Just you. I'm waiting for you to trust me."
-    },
-    "52": {
-        "「最後の仕上げには　マスターキーが|　どうしても　必要なんでンス。|　ツベコベ言わずに　さっさと出すでンス。": "I really need the master key for the final|touches, so... I'm gonna get it out of here."
-    }
+  "1": {
+    "「よく来てくれたでンス。 |　どうぐ使いとして　さらに強くなったようで|　さすがは　<pc>さんでンスね。": "Thank you for coming... It seems you've grown|even stronger as a tool user.<pc> I'm sorry."
+  },
+  "2": {
+    "「ちょっと　お話が　あるでンスから|　こっちへ　来てほしいでンスよ。": "I'd like to have a word with you, and I'd|like you to come over here..."
+  },
+  "3": {
+    "「ご主人さまをさらった　隊長ゴルゴンザでンスが|　当分は　魔界に戻れないと思うでンス。": "Captain Gorgonzha, who kidnapped my master,|won't be able to return to the demon world|for a while..."
+  },
+  "4": {
+    "「というのも　魔界に戻るためには|　魔界へ通じる門を開く必要が　あるでンスが|　これには　けっこう時間が　かかるでンス。": "In order to return to the demon world, you|need to open the gate to the demon world, but|this will take some time..."
+  },
+  "5": {
+    "「今頃　奴らは　この世界のどこかで|　魔界への門を　開いているはずでンスよ……。": "They should be opening the gates to the demon|world somewhere in this world by now."
+  },
+  "6": {
+    "「この間に　ご主人さまを　助けなくては|　ならないでンスが　今の　<pc>さんでは|　ゴルゴンザには　勝てないでンス……。": "We have to save the master while we can| Don't be<pc> You can't beat Gorgonzha, Hans..."
+  },
+  "7": {
+    "「でも　ご主人さまが編み出した|　どうぐ使いの必殺技を　習得すれば|　きっと　勝機が出てくるはずでンスよ……。": "But if you can master the special tool-using|techniques master has devised, you'll have a|better chance of winning..."
+  },
+  "8": {
+    "「お願いでンス　<pc>さん。|　ゴルゴンザに勝つために　必殺技を|　習得してもらえないでンスか？": "Please<pc> I'm sorry. Can you learn a special move to|defeat Gorgonza?"
+  },
+  "9": {
+    "「魔物を従えている状態で|　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を|　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "I want you to kill <%sEV_QUE_NAME0>|<%nEV_QUE_T_NUM0> of <%sEV_QUE_NAME0> in the|Gobble Desert West and other areas with|<br>|demons in tow..."
+  },
+  "10": {
+    "「必殺技を習得するには　この特訓が|　どうしても　必要になるでンス。|　それでは　よろしくでンスよ。": "You'll need this training to master your|special moves. I'll see you later."
+  },
+  "11": {
+    "「ご主人さまが編み出した　どうぐ使いの必殺技を|　習得すれば　隊長ゴルゴンザとの戦いにも|　勝機が　生まれるはずでンス。": "If I can master the special moves my master|has created for me, I'll have a fighting|chance against Captain Gorgonza..."
+  },
+  "12": {
+    "「ただ　その前に　必殺技習得の準備として|　やってきてほしいことが　あるでンスよ。": "But before you do that, there's something I|want you to do to prepare for your special|move."
+  },
+  "13": {
+    "「魔物を従えている状態で|　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を|　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "I want you to kill <%sEV_QUE_NAME0>|<%nEV_QUE_T_NUM0> of <%sEV_QUE_NAME0> in the|Gobble Desert West and other areas with|<br>|demons in tow..."
+  },
+  "14": {
+    "「必殺技を習得するには　この特訓が|　どうしても　必要になるでンスよ……。|　<pc>さん。よろしくでンス。": "You'll need this training to master your|special moves.<pc> Hi. Nice to meet you..."
+  },
+  "15": {
+    "「おお！　特訓をこなしたでンスね！|　では　最後の仕上げでンスよ！": "Oh! You've done your training! Now for the|final touches!"
+  },
+  "16": {
+    "「<pc>さん！　マスターキーを|　取り出してもらってもいいでンスか！？<yesno><close>": "<pc> Sir! Can you get the master key out of my|hand?<yesno><close>"
+  },
+  "17": {
+    "<pc>は|マスターキーを　取り出した！": "<pc> has retrieved the master key!"
+  },
+  "18": {
+    "「<pc>さんが　特訓をこなしたおかげで|　キーに　パワーが　たまったでンス。|　おかげで　リミッターが　解除されたでンスよ。": "<pc> Thanks to your training, the key has been|filled with power. And now the limiter has|been released."
+  },
+  "19": {
+    "「さあ　その　マスターキーを使って|　ボクの二段目の引き出しを　開くでンス。|　その中にある物を　取り出すでンスよ。": "Now, I'm going to use that master key to open|my second drawer... And take out whatever's|in there."
+  },
+  "20": {
+    "<pc>は　タンスの引き出しを開け|中に入っていた本を　取り出した！": "<pc> He opened the drawer of the dresser and took|out the book that was inside!"
+  },
+  "21": {
+    "「その本は　ご主人さまが長年の研究の末に|　編み出したという　どうぐ使いの必殺技の|　習得方法が書かれた　マニュアルでンス。": "That book is a manual on how to master the|special moves of a potion wielder, written by|the master after years of research..."
+  },
+  "22": {
+    "「その本を読めば　どうぐ使いの必殺技が|　習得できるはずでンスよ。": "If you read that book, you should be able to|learn all the tricks of the trade..."
+  },
+  "23": {
+    "<pc>は|『どうぐ使い必殺技マニュアル』と|書かれた本を　読んだ。": "<pc> I've been looking for a book called \"A Manual|of Special Moves for Pawns.\""
+  },
+  "24": {
+    "「テキスト削除": "text deletion"
+  },
+  "25": {
+    "「その必殺技があれば　隊長ゴルゴンザとの|　戦いを　優位に進められるはずでンス。": "With that special move, you'll have the upper|hand in the fight against Captain Gorgonza..."
+  },
+  "26": {
+    "「……と言いたいところでンスが|　すでに　必殺技を習得してるようでンスね。|　では　代わりに　これをどうぞでンス。": "... I'd like to say I've already mastered a|special move, but... So here's one for you..."
+  },
+  "27": {
+    "「前に　ご主人さまには　夢があると言ったのを|　覚えてるでンスか？": "Remember when I told you that master has|dreams?"
+  },
+  "28": {
+    "「じつは　隊長ゴルゴンザを倒すことこそが|　ご主人さまの夢だったでンスよ。|　そして　それは　ボクの夢でもあるでンス。": "In fact, it was Master's dream to defeat|Captain Gorgonzha. And it's also my dream..."
+  },
+  "29": {
+    "タンスが　自分の戸棚を開けると|なんと　たくさんの　どうぐが飛び出した！": "When the wardrobe opened its own cupboard,|out popped a whole bunch of stuff!"
+  },
+  "30": {
+    "「ボクの中には　ご主人さまが集めてた|　アストルティアで使われている　どうぐが|　たくさん　収納されてるでンスよ。": "I've got a lot of stuff in there that|Master's been collecting, stuff that's used|in Astrutia."
+  },
+  "31": {
+    "「魔界にいた頃から　ご主人さまは|　この世界の住人が作った　どうぐを|　集めることが　趣味だったでンス。": "Ever since he was in the demon world,|Master's hobby has been collecting tools made|by the inhabitants of this world..."
+  },
+  "32": {
+    "「この世界のどうぐに魅せられた　ご主人さまは|　やがて　好きが高じて　どうぐの能力を引き出す|　研究に　のめり込んでいったでンスよ……。": "The master was fascinated by the animals of|this world, and eventually his love for them|led him to research their abilities..."
+  },
+  "33": {
+    "「だけど　魔界の連中は　意味のない研究などせず|　強化薬の開発を続けるよう　いつもいつも|　ご主人さまに　強く言っていたでンス……。": "But those in the demon world were always|urging their masters to continue developing|potions instead of doing meaningless|<br>|research, right?"
+  },
+  "34": {
+    "「ある日　ご主人さまは　自分の研究の価値を|　証明すべく　どうぐを使った　自作の戦闘兵器で|　ゴルゴンザに　勝負を挑んだでンス。": "One day, master wanted to prove the value of|his research, so he challenged Gorgonza to a|battle using a weapon of his own creation..."
+  },
+  "35": {
+    "「その戦闘兵器こそが　このボク……|　バトルガジェット１号　タンスだったでンスよ。": "And that weapon of war is me. Battle Gadget|One. It was a chest of drawers."
+  },
+  "36": {
+    "「ボクは　ご主人さまの期待に応えようと|　隊長ゴルゴンザと戦ったでンスが　ボロボロに|　負け　二度と戦えない身体になったでンス……。": "I tried to live up to my master's|expectations by fighting Captain Gorgonza,|but I was beaten to a pulp and my body could|<br>|never fight again."
+  },
+  "37": {
+    "「敗北を喫した　ご主人さまは　アイツに勝つには|　どうぐの扱いに長けた　アストルティアの住人に|　チカラを借りるしかないと判断したでンス。": "The master, defeated, decided that the only|way to defeat him was to enlist the help of|the inhabitants of Astrutia, who were skilled|<br>|in the use of tools..."
+  },
+  "38": {
+    "「そして　ご主人さまとボクは　この世界に来て|　最初に出会った者に　キーを与えたでンス。|　……それが　<pc>さんだったでンスよ。": "And the master and I gave the key to the|first person we met when we came into this|world... ... The key.<pc> It was you, sir..."
+  },
+  "39": {
+    "「<pc>さん……。ご主人さまの研究を|　カケラも理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "<pc> Miss... I want that Titan who didn't even try|to understand a shred of his master's|research to show me how strong a tool user|<br>|can be..."
+  },
+  "40": {
+    "「今のうちに　修行して |　あの巨人を倒す　心の準備ができたら|　また　ここに戻ってきてほしいでンスよ。": "I want you to train now, and come back here|when you're ready to defeat that Titan..."
+  },
+  "41": {
+    "「ボクは　それまでに|　奴らの居場所を　探しておくでンス。": "I'm going to find out where they are by then."
+  },
+  "42": {
+    "「ご主人さまは　隊長ゴルゴンザを倒すという夢を|　<pc>さんに　託したでンスよ。|　それは　ボクの夢でもあるでンス……。": "Master dreams of defeating Captain Gorgonzha|<pc> I entrusted it to you. It's my dream, too..."
+  },
+  "43": {
+    "「ご主人さまの研究の価値を　カケラも|　理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "I want you to show that giant, who refused to|understand even a shred of the value of|Master's research, just how powerful a tool|<br>|user he is..."
+  },
+  "44": {
+    "「修行して　もっと強い　どうぐ使いになったら|　また　ここに戻ってきてほしいでンスよ。|　それまでに　奴らの居場所を探しておくでンス！": "I hope you'll come back here when you've|trained and become a stronger potion user...|In the meantime, we'll find out where they|<br>|are."
+  },
+  "45": {
+    "「ご主人さまは　隊長ゴルゴンザを倒すという夢を|　<pc>さんに　託したでンスよ。|　それは　ボクの夢でもあるでンス……。": "Master dreams of defeating Captain Gorgonzha|<pc> I entrusted it to you. It's my dream, too..."
+  },
+  "46": {
+    "「ご主人さまの研究の価値を　カケラも|　理解しようとしなかった　あの巨人に|　どうぐ使いの強さを　示してほしいでンス。": "I want you to show that giant, who refused to|understand even a shred of the value of|Master's research, just how powerful a tool|<br>|user he is..."
+  },
+  "47": {
+    "「あの巨人を倒す　心の準備ができたら|　また　ここに戻ってきてほしいでンスよ。|　それまでに　奴らの居場所を探しておくでンス！": "I hope you'll come back here when you're|ready to defeat those Titans. In the|meantime, I'll find out where they are!"
+  },
+  "48": {
+    "「おお！　ありがたいでンス！|　では　必殺技を習得するための準備として|　やってきてほしいことが　あるでンスよ。": "Oh! Thank you! Now, there's something I want|you to do to prepare for the special move..."
+  },
+  "49": {
+    "「おお！　ありがたいでンス！|　ありがたいでンスが…………": "Oh! Thank you! Thank you, but..."
+  },
+  "50": {
+    "「<pc>さんは　頼まれごとで|　いっぱいでンスね……。でも　急ぎでンスから|　早く　そっちを片付けてくるでンスよ！": "<pc> You've got a lot of work to do... But I'm in|a hurry, so I'll just go take care of that!"
+  },
+  "51": {
+    "「そうでンスか……。でも　この世界で|　頼れるのは　<pc>さんだけでンス。|　ボクは　信じて　待ってるでンスよ。": "So... But in this world, the only thing you|can count on...<pc> Just you. I'm waiting for you to trust me."
+  },
+  "52": {
+    "「最後の仕上げには　マスターキーが|　どうしても　必要なんでンス。|　ツベコベ言わずに　さっさと出すでンス。": "I really need the master key for the final|touches, so... I'm gonna get it out of here."
+  }
 }

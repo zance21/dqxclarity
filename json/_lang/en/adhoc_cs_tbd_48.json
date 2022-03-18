@@ -1,275 +1,275 @@
 {
-    "1": {
-        "「ぐへへ……すげえ。こいつは　すげえ。|　こんなもんが　床下に　隠されてたなんて。|　これって　先生のかな……。うへへ……。": "Geez. ...... This is... There's something|hidden under the floor... I wonder if this is|the teacher's... Geez..."
-    },
-    "2": {
-        "「あんちゃん……。|　オ…オイラ　なんだか　ムズムズしちまう……。": "You... I... I'm feeling a little itchy..."
-    },
-    "3": {
-        "「……なんだ　<pc>か。|　先生かと思ったぜ。おどろかせやがって。": " What?<pc> I thought you were a teacher. I thought you|were a teacher... You scared me..."
-    },
-    "4": {
-        "「……なんだ　先生かと思ったぜ。|　おどろかせやがって。": "I thought... What? I thought you were a|teacher... You scared the shit out of me."
-    },
-    "5": {
-        "「へへ……　じつは　掃除してたら|　すげえもんが　出てきてよう。|　な　お前も　ちょっとだけ見る？<yesno><close>": "Heh... Actually, when I was cleaning, I found|something amazing... Do you want to take a|look?<yesno><close>"
-    },
-    "6": {
-        "「じゃあ　いいや。|　おい　コノタ。早く　続きを見ようぜ。": "Okay, well... Hey, hey, hey. I can't wait to|see the rest of it."
-    },
-    "7": {
-        "「待ってよ　あんちゃん。|　オイラ　まだ　ちゃんと見れてないよ……。": "Wait, wait, wait. I haven't had a chance to|look at it properly yet..."
-    },
-    "8": {
-        "「生涯をかけて　君を幸せにしたい。|　神代の間にて　願いが　天に通じたなら|　約束の　あの丘へ向かおう。": "I will spend my whole life making you|happy... If my wish is answered by the|heavens, I will go to that hill where I was|<br>|promised..."
-    },
-    "9": {
-        "「そして　永遠を約束する　誓いの盃を|　ふたりで　交わそう……だってさ！": "And we will exchange vows of eternity|together... That's right!"
-    },
-    "10": {
-        "「あんたたち……。|　こんな時だっていうのに　ずいぶん楽しそうね。": "You guys... You guys are having so much fun|at a time like this..."
-    },
-    "11": {
-        "「あら　<pc>さん！　来てたのね。": "rough<pc> Three! Come..."
-    },
-    "12": {
-        "「大変なのよ。じつは　ヒメア様が|　重い病を　わずらってしまって……。": "I'm sorry. Actually, Himea is very ill..."
-    },
-    "13": {
-        "「あら……　あなたは　旅の方かしら。": "Oh, my... You're a traveler..."
-    },
-    "14": {
-        "「今　このツスクルの村は　大変なの。|　村を統べる　巫女ヒメア様が|　重い病を　わずらってしまって……。": "The village of Tuskul is in great distress.|The village's leader, the priestess Himea,|has been stricken with a serious illness..."
-    },
-    "15": {
-        "「ヒメア様は　５００年も生きておられる|　尊い巫女さまなのよ。病に倒れるなんて|　これまで　一度も　なかったのに。": "Himea-sama is a noble miko who has lived for|500 years... She's never fallen ill before..."
-    },
-    "16": {
-        "「それで今　ヒメア様を助けるために|　従者の方が　ウデききの旅人を　探しているの。|　よかったら　あなたも　手を貸して。": "And now, in order to help Himea, the squire|is looking for a skilled traveler. If you'd|like to help, you can..."
-    },
-    "17": {
-        "「おひさしぶりです。同室だった　アカシです！|　まさか　<pc>さんの |　お手伝いをできる日が　来るなんて……。": "Long time no see... My roommate, Akashi! No|way.<pc> I never thought I'd see the day when I'd be|able to help you."
-    },
-    "18": {
-        "「あたし　精一杯　がんばります！|　薬の調合なら　まかせてくださいね。": "I'll do my best! If you need me to mix a|potion, let me know..."
-    },
-    "19": {
-        "「あなたは……　ハイ　<pc>さんですね。|　<pc>さんの　お役に立てるよう|　あたし　精一杯　がんばりますね！": "You are Hi<pc>  Three...<pc> I'll do my best to be of help to you!"
-    },
-    "20": {
-        "「さっそく　知恵の社に　向かいましょう。|　知恵の社は　この村を出て|　ずっと　西に行った所にある　お社です。": "Let's go to the Shrine of Wisdom... The|Shrine of Wisdom is just outside the village,|far to the west..."
-    },
-    "21": {
-        "「ふうふう……　やっと　追いつきました。|　知恵の社に到着ですね。さっそく|　手分けして　薬学の書を探しましょう。": "Well, well, well... I'm finally catching|up... Arriving at the Wisdom Shrine... We|quickly split up to look for the book on|<br>|pharmacology..."
-    },
-    "22": {
-        "「あっ……！！": "Oh, my God!"
-    },
-    "23": {
-        "「ハジカ先生……。": "Hajika-sensei..."
-    },
-    "24": {
-        "「あっ……　ハイ　その……。|　<pc>さんと　一緒に　ヒメア様の|　お薬を　用意することになったんです……。": "Oh... Hi, um...<pc> I've been assigned to work with you to|prepare medicine for HIMEA..."
-    },
-    "25": {
-        "「は……ハイっ　先生！！": "Huh... Hi, Doctor!"
-    },
-    "26": {
-        "「<pc>さ～～ん！　ありましたよ！": "<pc> Hey! It's here!"
-    },
-    "27": {
-        "「ほらっ　見てください　薬学の書です！|　………って　あれ？|　その本が　どうかしましたか？": "Look, look, it's a pharmacology book! ...|Huh? What's wrong with that book?"
-    },
-    "28": {
-        "「へえ……　不思議な本ですね。|　封印が　かかっていて|　中が読めないように　なってるみたい。": "Huh... Mysterious book... It's sealed so you|can't read what's inside."
-    },
-    "29": {
-        "「なんだか　気になるし|　学びの庭に持ちかえって|　後で　調べてみましょう。ねっ？": "I'm curious about it, so I'll take it back to|the study garden and check it out later...|You know?"
-    },
-    "30": {
-        "「……さて。それより今は　薬学の書です。|　この本によれば　仙者の霊薬を作るには|　おおみみずの化石が　必要だそうです。": "..... I'm more interested in pharmacology...|According to this book, in order to make the|elixir of the Immortals, you need the|<br>|fossilized remains of a great worm..."
-    },
-    "31": {
-        "「おおみみずの化石とは　キリカ草原などにいる|　<%sEV_QUE_NAME0>が　時々落とす品です。|　<pc>さんは　それを調達してください。": "Fossils of Giant Worm are occasionally|dropped by <%sEV_QUE_NAME0> in the Kirika|Grasslands...<pc> I'm sure you can get it for me."
-    },
-    "32": {
-        "「あたしは　薬の調合の　準備をしておきます。 |　化石が手に入ったら　あたしの部屋……|　ツスクルの村の寄宿舎で　待ってますね！": "I'm getting ready to mix a potion... When I|get the fossil, I'll be waiting for you in my|room... I'll be waiting for you at the|<br>|dormitory in the village of Tuskul!"
-    },
-    "33": {
-        "「えっ！！　あたしも……ですか？": "What? Me too... Is it?"
-    },
-    "34": {
-        "「そんな……　あたしは|　まだ一人前じゃないのに　ヒメア様に|　お会いするなんて　おそれ多いです……。 ": "Oh no... I'm not even a full-fledged human|yet, and I'm afraid to meet you, Himea-|sama..."
-    },
-    "35": {
-        "「それでは　次は　お待ちかね……|　知恵の社で見つけた本の封印を|　解いてみましょう！": "And now for the next part... Let's break the|seal on the book we found in the Wisdom|Shrine!"
-    },
-    "36": {
-        "「うはっ！！": "Whoa!"
-    },
-    "37": {
-        "「うえっへっへ……　じつはな。|　オレ　ラブレターを見つけちゃったんだよ。|　すんげえ　ボロボロの　古いやつ。": "Heh heh heh... I... I found a love letter...|It's really tattered and old..."
-    },
-    "38": {
-        "「ちげえよ　あんちゃん！|　見つけたのは　オイラだろ！": "No, no, no, no! I'm the one who found you!"
-    },
-    "39": {
-        "「ひゅーっ！！　ケツが　かゆくなるぜ！": "Whoo! My ass is itching!"
-    },
-    "40": {
-        "「くわしい話は　この学びの庭を出て　東……|　村はずれにある　ヒメア様の　お屋敷にいる|　従者のヨンジャさまに　聞くといいわ。": "For more information, leave the garden of|learning and go to the east. Ask the squire,|Yeong-ja, at Himeha's house on the outskirts|<br>|of the village..."
-    },
-    "41": {
-        "「では　そなたの手伝いとして|　学徒のアカシを　同行させよう。|　まだ年若い娘だが　役に立つはずだ。": "Now, I've brought my student, Akash, with me|to help you... She's a young girl, but she'll|be useful..."
-    },
-    "42": {
-        "「さっそく　知恵の社に　向かいましょう。|　<pc>さんなら　わかりますよね。|　村から　西へ行った所にある　お社です。": "We'll head for the Shrine of Wisdom...<pc> I'm sure you can understand... It's just west|of the village."
-    },
-    "43": {
-        "「はじめまして。お手伝いの　アカシです。|　えっと……　まだまだ　修行中の身ですが|　薬の調合なら　まかせてください。": "First... My helper, Aca... Well... I'm still|in training, but if you need help mixing|medicine..."
-    },
-    "44": {
-        "「準備が　できたら　すぐに追いかけますから|　<pc>さんは　先に|　知恵の社に　向かってください。": "I'll be right behind you when you're ready|<pc> The three of you will go to the Wisdom Shrine|first..."
-    },
-    "45": {
-        "「<pc>さーん！": "<pc> Come on!"
-    },
-    "46": {
-        "「……おや。アカシ君じゃないか。|　こんな所で会うとは　めずらしいね。|　なにか　探しものでも？": "..... Akash... I never thought I'd see you|here, but... What are you looking for?"
-    },
-    "47": {
-        "「それは　大役だね。|　落ち着いて　いつも通りに　がんばりなさい。|　日々の努力は　君を裏切ったりしないよ。": "It's a big... Just stay calm, and try to do|your best, like you always do. Your daily|efforts will not fail you."
-    },
-    "48": {
-        "「………………。": "..."
-    },
-    "49": {
-        "「ハッ！！　す　すみません。|　……今のは　学びの庭に　最近いらっしゃった|　新任の　ハジカ先生です。": "Ha! Sumi... I'm sorry... The one you're|looking at is the newest addition to the|Garden of Learning, Ms. Hajika."
-    },
-    "50": {
-        "「ハジカ先生は　すごいんですよ！|　薬学から　古代文字まで　なんにでも精通してて|　知らないことなんて　ないんですから。": "Dr. Hadjika is amazing! She knows everything|from pharmacology to ancient script. There's|nothing she doesn't know..."
-    },
-    "51": {
-        "「もう　他の先生も　目を白黒させてるくらい。|　ああいう人を　天才っていうんでしょうね。": "The other teachers are all staring at him.|People like that are called geniuses..."
-    },
-    "52": {
-        "「……と　ごめんなさい！|　そんなことより　早く|　薬学の書を　探さなくちゃですね。": "... I'm sorry! I can't wait to find that book|on pharmacology."
-    },
-    "53": {
-        "「それじゃ　あたしは　１階を探してみます。|　<pc>さんは　２階の本棚を|　調べてみてください。": "Okay, I'm going to check the first floor...<pc> If you could check the bookshelves on the|second floor..."
-    },
-    "54": {
-        "<pc>は　本を読もうとした。|しかし　不思議なチカラで|本は　かたく　閉ざされているようだ。": "<pc> I'll read a book... But for some mysterious|reason, the book is locked up tight..."
-    },
-    "55": {
-        "「ふっふっふ。でも　まかせてください！|　だいぶ　封印が弱まってるみたいですし|　これくらいなら　あたしにも　解けそうです。": "Huh... But please leave it to me! The seal|seems to have weakened quite a bit, and I|think I can break it like this..."
-    },
-    "56": {
-        "<pc>は|封印のかかった本（だいじなもの）を|手に入れた！<me 60>": "<pc> I've got the sealed book!<me 60>"
-    },
-    "57": {
-        "「おおっ　仙者の霊薬が　完成したのか！|　よくやってくれたな　<pc>　アカシ。": "Oh, the Immortal's elixir is complete! You've|done well.<pc> ..."
-    },
-    "58": {
-        "「さあ　ついてきなさい。|　その霊薬は　そなたたちの手で|　ヒメア様に　お渡しするといい。": "Now follow me... The elixir will be delivered|to HIMEA-sama with your own hands..."
-    },
-    "59": {
-        "「遠慮は無用だ。|　そなたも　苦労して　霊薬を作ったのだろう？|　さあ　モタモタするな。": "Don't be shy. You went to a lot of trouble to|make the elixir, didn't you? I don't know..."
-    },
-    "60": {
-        "「巫女ヒメア様が　お倒れになるなど|　５００年間　一度として　なかったこと……。|　村の者にまで　不安が広がっている。": "Never in 500 years had the miko Himeia fallen|ill. Even the villagers were worried..."
-    },
-    "61": {
-        "「だが　この霊薬があれば　もう心配はいらん。 |　心から　礼を言うぞ。": "But with this elixir, you'll never have to|worry... I thank you from the bottom of my|heart..."
-    },
-    "62": {
-        "「ヒメア様！　<pc>と　アカシが|　仙者の霊薬を　持ってまいりました！": "Lady Himea!<pc> And Akash has brought me the elixir of the|Immortals!"
-    },
-    "63": {
-        "「……お入りなさい。": "... Come in..."
-    },
-    "64": {
-        "「ケホッコホッ……　そうですか。|　私のために　仙者の霊薬を……。": "Kehokkoho... So... The elixir of the|Immortals for me..."
-    },
-    "65": {
-        "「しかし　仙者の霊薬では|　この病を　治すことはできません。": "But the Immortal's elixir can't cure this|disease."
-    },
-    "66": {
-        "「風たちが　告げているのです。|　私の役割が　終わるのだと……。": "The winds are telling me... That my role in|this world is ending."
-    },
-    "67": {
-        "「私の命は　もう　まもなく尽きるでしょう。|　これは　５００年前に　決まった|　避けることのできぬ　さだめなのです。": "My life will soon be over. This is the|inevitable fate that was decided 500 years|ago..."
-    },
-    "68": {
-        "「……しかし　そなたたちの　優しさは|　この身体に　しみわたりました。|　礼を言いましょう。<pc>　アカシ。": "... But your kindness has soaked into my|body... I thank you...<pc> ..."
-    },
-    "69": {
-        "「私のことは　案ずるに　およびません。 |　さあ　お行きなさい。": "You can't worry about me... There you go..."
-    },
-    "70": {
-        "「すまなかったな　ふたりとも……。 |　用意してもらった　仙者の霊薬は|　私が引き取ろう。": "I'm sorry, you two... The elixir of the|Immortals you prepared for me, I'll take..."
-    },
-    "71": {
-        "「心ばかりの品だが　この　<%sEV_FEE_ITEM_A>を|　受け取ってくれ。アカシに　預けておくから|　後で　ふたりで分けるといい。": "It's a small gift, but I'll take this|<%sEV_FEE_ITEM_A>... I'll leave it with|Akash, and we can share it later."
-    },
-    "72": {
-        "「役割が　終わるって……。|　ヒメア様が　死んじゃうってことでしょうか。|　まさか……そんなわけ　ないですよね。": "The end of my role... It means that Himea-|sama is dead. No way... That can't be..."
-    },
-    "73": {
-        "「あっ　そうだ！|　そういえば　知恵の社で見つけた|　不思議な本を　持ってきてたんでしたっけ。": "Oh, yes! By the way, I brought that|mysterious book I found at the Wisdom|Company..."
-    },
-    "74": {
-        "「ねえ　<pc>さん。|　あの本の　封印を解いて　読んでみましょうよ。": "Hey<pc> I've unsealed that book. I unsealed that book|and read it..."
-    },
-    "75": {
-        "「ヨンジャさまから　いただいた|　<%sEV_FEE_ITEM_A>も　分けたいし|　あたしの部屋に　行きましょう。": "I also want to share the <%sEV_FEE_ITEM_A>|that Miss Youngja gave me, so I'm going to my|room..."
-    },
-    "76": {
-        "「来ましたね　<pc>さん。|　まずは　ヨンジャさまから　いただいた|　<%sEV_FEE_ITEM_A>を　分けっこしましょうか。": ""
-    },
-    "77": {
-        "「ハイ　どうぞ！|　これが　<pc>さんの分です。": "Hi, come in! There you go.<pc> Mr...."
-    },
-    "78": {
-        "「おいっ　チビのアカシ！|　オレたち　すげえ物　見つけちまったんだ！|　な・ん・と　年代物の　ラブレターだぜ！": "Hey, little Akash! We've found something|amazing! It's a vintage love letter!"
-    },
-    "79": {
-        "「床下から　大発見したんだぜ！": "They found something under the floor!"
-    },
-    "80": {
-        "「ふうん。でも　あたしたちだって|　とっても　いいもの　見つけたんですから。|　ねー？　<pc>さん！": "But... But we found something really nice|too... See?<pc> Three!"
-    },
-    "81": {
-        "「あ……　できた！！|　<pc>さん　見てください！|　本が　開きましたよ！": "Oh... It's done!<pc> Look, Mr. Daley! The book is open!"
-    },
-    "82": {
-        "「はぁーん？　その本が　オレたちが見つけた |　ラブレターに匹敵する　いいものってわけ？|　じゃあ　読んでみろよ。": "Huh? That book is as good as the love letters|we found? Then read it..."
-    },
-    "83": {
-        "「それじゃ　読みますね。ええと……|　エルトナの東端　ツスクルの村の地下には|　大いなるチカラを秘めし　神代の間が存在する。": "Okay, well, read... Well... On the eastern|edge of Eltona, beneath the village of|Tuskul, lies a sacred chamber that holds|<br>|great power."
-    },
-    "84": {
-        "「かの地では　古来より　大がかりな秘術が|　行われてきた。あの部屋は　エルフの歴史であり|　大いなる財産なのだ。": "There have been great mysteries practiced in|these lands since ancient times. That room is|the history of the elves and a great|<br>|treasure."
-    },
-    "85": {
-        "「その神代の間を……ざす……とは|　あの方は　ご乱心　なされ……ろうか。": "Throughout that divine time... It is... What|do you mean? He's in trouble. ......"
-    },
-    "86": {
-        "「……だそうです。|　これ以上は　ボロボロで|　とても　読めそうにありませんね。": "... So... I don't think I can read any|further, it's so tattered..."
-    },
-    "87": {
-        "「ツスクルの村に　地下があるって？|　そんなの　聞いたことないぞ。|　おいおい……これ　すごい発見なんじゃないか？": "The village of Tskul has a basement? I've|never heard of such a thing... Oh, come on...|Isn't this a great discovery?"
-    },
-    "88": {
-        "「地下に眠る　謎の部屋　神代の間……。|　その存在を知って　オレは　震えたね。|　こいつは　冒険の始まりだって。": ""
-    },
-    "89": {
-        "「……でも　それが|　とんだ　大まちがいだったのさ。": "But... But that was a huge mistake..."
-    },
-    "90": {
-        "「この時の　オレに|　なにか　言ってやれるもんなら|　オレは　こう言ってやりたいね。": "If I could have said anything to you at that|time, I would have said..."
-    },
-    "91": {
-        "「神代の間には　関わるな……ってな。": "Stay out of it during the time of the gods:|......"
-    }
+  "1": {
+    "「ぐへへ……すげえ。こいつは　すげえ。|　こんなもんが　床下に　隠されてたなんて。|　これって　先生のかな……。うへへ……。": "Geez. ...... This is... There's something|hidden under the floor... I wonder if this is|the teacher's... Geez..."
+  },
+  "2": {
+    "「あんちゃん……。|　オ…オイラ　なんだか　ムズムズしちまう……。": "You... I... I'm feeling a little itchy..."
+  },
+  "3": {
+    "「……なんだ　<pc>か。|　先生かと思ったぜ。おどろかせやがって。": " What?<pc> I thought you were a teacher. I thought you|were a teacher... You scared me..."
+  },
+  "4": {
+    "「……なんだ　先生かと思ったぜ。|　おどろかせやがって。": "I thought... What? I thought you were a|teacher... You scared the shit out of me."
+  },
+  "5": {
+    "「へへ……　じつは　掃除してたら|　すげえもんが　出てきてよう。|　な　お前も　ちょっとだけ見る？<yesno><close>": "Heh... Actually, when I was cleaning, I found|something amazing... Do you want to take a|look?<yesno><close>"
+  },
+  "6": {
+    "「じゃあ　いいや。|　おい　コノタ。早く　続きを見ようぜ。": "Okay, well... Hey, hey, hey. I can't wait to|see the rest of it."
+  },
+  "7": {
+    "「待ってよ　あんちゃん。|　オイラ　まだ　ちゃんと見れてないよ……。": "Wait, wait, wait. I haven't had a chance to|look at it properly yet..."
+  },
+  "8": {
+    "「生涯をかけて　君を幸せにしたい。|　神代の間にて　願いが　天に通じたなら|　約束の　あの丘へ向かおう。": "I will spend my whole life making you|happy... If my wish is answered by the|heavens, I will go to that hill where I was|<br>|promised..."
+  },
+  "9": {
+    "「そして　永遠を約束する　誓いの盃を|　ふたりで　交わそう……だってさ！": "And we will exchange vows of eternity|together... That's right!"
+  },
+  "10": {
+    "「あんたたち……。|　こんな時だっていうのに　ずいぶん楽しそうね。": "You guys... You guys are having so much fun|at a time like this..."
+  },
+  "11": {
+    "「あら　<pc>さん！　来てたのね。": "rough<pc> Three! Come..."
+  },
+  "12": {
+    "「大変なのよ。じつは　ヒメア様が|　重い病を　わずらってしまって……。": "I'm sorry. Actually, Himea is very ill..."
+  },
+  "13": {
+    "「あら……　あなたは　旅の方かしら。": "Oh, my... You're a traveler..."
+  },
+  "14": {
+    "「今　このツスクルの村は　大変なの。|　村を統べる　巫女ヒメア様が|　重い病を　わずらってしまって……。": "The village of Tuskul is in great distress.|The village's leader, the priestess Himea,|has been stricken with a serious illness..."
+  },
+  "15": {
+    "「ヒメア様は　５００年も生きておられる|　尊い巫女さまなのよ。病に倒れるなんて|　これまで　一度も　なかったのに。": "Himea-sama is a noble miko who has lived for|500 years... She's never fallen ill before..."
+  },
+  "16": {
+    "「それで今　ヒメア様を助けるために|　従者の方が　ウデききの旅人を　探しているの。|　よかったら　あなたも　手を貸して。": "And now, in order to help Himea, the squire|is looking for a skilled traveler. If you'd|like to help, you can..."
+  },
+  "17": {
+    "「おひさしぶりです。同室だった　アカシです！|　まさか　<pc>さんの |　お手伝いをできる日が　来るなんて……。": "Long time no see... My roommate, Akashi! No|way.<pc> I never thought I'd see the day when I'd be|able to help you."
+  },
+  "18": {
+    "「あたし　精一杯　がんばります！|　薬の調合なら　まかせてくださいね。": "I'll do my best! If you need me to mix a|potion, let me know..."
+  },
+  "19": {
+    "「あなたは……　ハイ　<pc>さんですね。|　<pc>さんの　お役に立てるよう|　あたし　精一杯　がんばりますね！": "You are Hi<pc>  Three...<pc> I'll do my best to be of help to you!"
+  },
+  "20": {
+    "「さっそく　知恵の社に　向かいましょう。|　知恵の社は　この村を出て|　ずっと　西に行った所にある　お社です。": "Let's go to the Shrine of Wisdom... The|Shrine of Wisdom is just outside the village,|far to the west..."
+  },
+  "21": {
+    "「ふうふう……　やっと　追いつきました。|　知恵の社に到着ですね。さっそく|　手分けして　薬学の書を探しましょう。": "Well, well, well... I'm finally catching|up... Arriving at the Wisdom Shrine... We|quickly split up to look for the book on|<br>|pharmacology..."
+  },
+  "22": {
+    "「あっ……！！": "Oh, my God!"
+  },
+  "23": {
+    "「ハジカ先生……。": "Hajika-sensei..."
+  },
+  "24": {
+    "「あっ……　ハイ　その……。|　<pc>さんと　一緒に　ヒメア様の|　お薬を　用意することになったんです……。": "Oh... Hi, um...<pc> I've been assigned to work with you to|prepare medicine for HIMEA..."
+  },
+  "25": {
+    "「は……ハイっ　先生！！": "Huh... Hi, Doctor!"
+  },
+  "26": {
+    "「<pc>さ～～ん！　ありましたよ！": "<pc> Hey! It's here!"
+  },
+  "27": {
+    "「ほらっ　見てください　薬学の書です！|　………って　あれ？|　その本が　どうかしましたか？": "Look, look, it's a pharmacology book! ...|Huh? What's wrong with that book?"
+  },
+  "28": {
+    "「へえ……　不思議な本ですね。|　封印が　かかっていて|　中が読めないように　なってるみたい。": "Huh... Mysterious book... It's sealed so you|can't read what's inside."
+  },
+  "29": {
+    "「なんだか　気になるし|　学びの庭に持ちかえって|　後で　調べてみましょう。ねっ？": "I'm curious about it, so I'll take it back to|the study garden and check it out later...|You know?"
+  },
+  "30": {
+    "「……さて。それより今は　薬学の書です。|　この本によれば　仙者の霊薬を作るには|　おおみみずの化石が　必要だそうです。": "..... I'm more interested in pharmacology...|According to this book, in order to make the|elixir of the Immortals, you need the|<br>|fossilized remains of a great worm..."
+  },
+  "31": {
+    "「おおみみずの化石とは　キリカ草原などにいる|　<%sEV_QUE_NAME0>が　時々落とす品です。|　<pc>さんは　それを調達してください。": "Fossils of Giant Worm are occasionally|dropped by <%sEV_QUE_NAME0> in the Kirika|Grasslands...<pc> I'm sure you can get it for me."
+  },
+  "32": {
+    "「あたしは　薬の調合の　準備をしておきます。 |　化石が手に入ったら　あたしの部屋……|　ツスクルの村の寄宿舎で　待ってますね！": "I'm getting ready to mix a potion... When I|get the fossil, I'll be waiting for you in my|room... I'll be waiting for you at the|<br>|dormitory in the village of Tuskul!"
+  },
+  "33": {
+    "「えっ！！　あたしも……ですか？": "What? Me too... Is it?"
+  },
+  "34": {
+    "「そんな……　あたしは|　まだ一人前じゃないのに　ヒメア様に|　お会いするなんて　おそれ多いです……。 ": "Oh no... I'm not even a full-fledged human|yet, and I'm afraid to meet you, Himea-|sama..."
+  },
+  "35": {
+    "「それでは　次は　お待ちかね……|　知恵の社で見つけた本の封印を|　解いてみましょう！": "And now for the next part... Let's break the|seal on the book we found in the Wisdom|Shrine!"
+  },
+  "36": {
+    "「うはっ！！": "Whoa!"
+  },
+  "37": {
+    "「うえっへっへ……　じつはな。|　オレ　ラブレターを見つけちゃったんだよ。|　すんげえ　ボロボロの　古いやつ。": "Heh heh heh... I... I found a love letter...|It's really tattered and old..."
+  },
+  "38": {
+    "「ちげえよ　あんちゃん！|　見つけたのは　オイラだろ！": "No, no, no, no! I'm the one who found you!"
+  },
+  "39": {
+    "「ひゅーっ！！　ケツが　かゆくなるぜ！": "Whoo! My ass is itching!"
+  },
+  "40": {
+    "「くわしい話は　この学びの庭を出て　東……|　村はずれにある　ヒメア様の　お屋敷にいる|　従者のヨンジャさまに　聞くといいわ。": "For more information, leave the garden of|learning and go to the east. Ask the squire,|Yeong-ja, at Himeha's house on the outskirts|<br>|of the village..."
+  },
+  "41": {
+    "「では　そなたの手伝いとして|　学徒のアカシを　同行させよう。|　まだ年若い娘だが　役に立つはずだ。": "Now, I've brought my student, Akash, with me|to help you... She's a young girl, but she'll|be useful..."
+  },
+  "42": {
+    "「さっそく　知恵の社に　向かいましょう。|　<pc>さんなら　わかりますよね。|　村から　西へ行った所にある　お社です。": "We'll head for the Shrine of Wisdom...<pc> I'm sure you can understand... It's just west|of the village."
+  },
+  "43": {
+    "「はじめまして。お手伝いの　アカシです。|　えっと……　まだまだ　修行中の身ですが|　薬の調合なら　まかせてください。": "First... My helper, Aca... Well... I'm still|in training, but if you need help mixing|medicine..."
+  },
+  "44": {
+    "「準備が　できたら　すぐに追いかけますから|　<pc>さんは　先に|　知恵の社に　向かってください。": "I'll be right behind you when you're ready|<pc> The three of you will go to the Wisdom Shrine|first..."
+  },
+  "45": {
+    "「<pc>さーん！": "<pc> Come on!"
+  },
+  "46": {
+    "「……おや。アカシ君じゃないか。|　こんな所で会うとは　めずらしいね。|　なにか　探しものでも？": "..... Akash... I never thought I'd see you|here, but... What are you looking for?"
+  },
+  "47": {
+    "「それは　大役だね。|　落ち着いて　いつも通りに　がんばりなさい。|　日々の努力は　君を裏切ったりしないよ。": "It's a big... Just stay calm, and try to do|your best, like you always do. Your daily|efforts will not fail you."
+  },
+  "48": {
+    "「………………。": "..."
+  },
+  "49": {
+    "「ハッ！！　す　すみません。|　……今のは　学びの庭に　最近いらっしゃった|　新任の　ハジカ先生です。": "Ha! Sumi... I'm sorry... The one you're|looking at is the newest addition to the|Garden of Learning, Ms. Hajika."
+  },
+  "50": {
+    "「ハジカ先生は　すごいんですよ！|　薬学から　古代文字まで　なんにでも精通してて|　知らないことなんて　ないんですから。": "Dr. Hadjika is amazing! She knows everything|from pharmacology to ancient script. There's|nothing she doesn't know..."
+  },
+  "51": {
+    "「もう　他の先生も　目を白黒させてるくらい。|　ああいう人を　天才っていうんでしょうね。": "The other teachers are all staring at him.|People like that are called geniuses..."
+  },
+  "52": {
+    "「……と　ごめんなさい！|　そんなことより　早く|　薬学の書を　探さなくちゃですね。": "... I'm sorry! I can't wait to find that book|on pharmacology."
+  },
+  "53": {
+    "「それじゃ　あたしは　１階を探してみます。|　<pc>さんは　２階の本棚を|　調べてみてください。": "Okay, I'm going to check the first floor...<pc> If you could check the bookshelves on the|second floor..."
+  },
+  "54": {
+    "<pc>は　本を読もうとした。|しかし　不思議なチカラで|本は　かたく　閉ざされているようだ。": "<pc> I'll read a book... But for some mysterious|reason, the book is locked up tight..."
+  },
+  "55": {
+    "「ふっふっふ。でも　まかせてください！|　だいぶ　封印が弱まってるみたいですし|　これくらいなら　あたしにも　解けそうです。": "Huh... But please leave it to me! The seal|seems to have weakened quite a bit, and I|think I can break it like this..."
+  },
+  "56": {
+    "<pc>は|封印のかかった本（だいじなもの）を|手に入れた！<me 60>": "<pc> I've got the sealed book!<me 60>"
+  },
+  "57": {
+    "「おおっ　仙者の霊薬が　完成したのか！|　よくやってくれたな　<pc>　アカシ。": "Oh, the Immortal's elixir is complete! You've|done well.<pc> ..."
+  },
+  "58": {
+    "「さあ　ついてきなさい。|　その霊薬は　そなたたちの手で|　ヒメア様に　お渡しするといい。": "Now follow me... The elixir will be delivered|to HIMEA-sama with your own hands..."
+  },
+  "59": {
+    "「遠慮は無用だ。|　そなたも　苦労して　霊薬を作ったのだろう？|　さあ　モタモタするな。": "Don't be shy. You went to a lot of trouble to|make the elixir, didn't you? I don't know..."
+  },
+  "60": {
+    "「巫女ヒメア様が　お倒れになるなど|　５００年間　一度として　なかったこと……。|　村の者にまで　不安が広がっている。": "Never in 500 years had the miko Himeia fallen|ill. Even the villagers were worried..."
+  },
+  "61": {
+    "「だが　この霊薬があれば　もう心配はいらん。 |　心から　礼を言うぞ。": "But with this elixir, you'll never have to|worry... I thank you from the bottom of my|heart..."
+  },
+  "62": {
+    "「ヒメア様！　<pc>と　アカシが|　仙者の霊薬を　持ってまいりました！": "Lady Himea!<pc> And Akash has brought me the elixir of the|Immortals!"
+  },
+  "63": {
+    "「……お入りなさい。": "... Come in..."
+  },
+  "64": {
+    "「ケホッコホッ……　そうですか。|　私のために　仙者の霊薬を……。": "Kehokkoho... So... The elixir of the|Immortals for me..."
+  },
+  "65": {
+    "「しかし　仙者の霊薬では|　この病を　治すことはできません。": "But the Immortal's elixir can't cure this|disease."
+  },
+  "66": {
+    "「風たちが　告げているのです。|　私の役割が　終わるのだと……。": "The winds are telling me... That my role in|this world is ending."
+  },
+  "67": {
+    "「私の命は　もう　まもなく尽きるでしょう。|　これは　５００年前に　決まった|　避けることのできぬ　さだめなのです。": "My life will soon be over. This is the|inevitable fate that was decided 500 years|ago..."
+  },
+  "68": {
+    "「……しかし　そなたたちの　優しさは|　この身体に　しみわたりました。|　礼を言いましょう。<pc>　アカシ。": "... But your kindness has soaked into my|body... I thank you...<pc> ..."
+  },
+  "69": {
+    "「私のことは　案ずるに　およびません。 |　さあ　お行きなさい。": "You can't worry about me... There you go..."
+  },
+  "70": {
+    "「すまなかったな　ふたりとも……。 |　用意してもらった　仙者の霊薬は|　私が引き取ろう。": "I'm sorry, you two... The elixir of the|Immortals you prepared for me, I'll take..."
+  },
+  "71": {
+    "「心ばかりの品だが　この　<%sEV_FEE_ITEM_A>を|　受け取ってくれ。アカシに　預けておくから|　後で　ふたりで分けるといい。": "It's a small gift, but I'll take this|<%sEV_FEE_ITEM_A>... I'll leave it with|Akash, and we can share it later."
+  },
+  "72": {
+    "「役割が　終わるって……。|　ヒメア様が　死んじゃうってことでしょうか。|　まさか……そんなわけ　ないですよね。": "The end of my role... It means that Himea-|sama is dead. No way... That can't be..."
+  },
+  "73": {
+    "「あっ　そうだ！|　そういえば　知恵の社で見つけた|　不思議な本を　持ってきてたんでしたっけ。": "Oh, yes! By the way, I brought that|mysterious book I found at the Wisdom|Company..."
+  },
+  "74": {
+    "「ねえ　<pc>さん。|　あの本の　封印を解いて　読んでみましょうよ。": "Hey<pc> I've unsealed that book. I unsealed that book|and read it..."
+  },
+  "75": {
+    "「ヨンジャさまから　いただいた|　<%sEV_FEE_ITEM_A>も　分けたいし|　あたしの部屋に　行きましょう。": "I also want to share the <%sEV_FEE_ITEM_A>|that Miss Youngja gave me, so I'm going to my|room..."
+  },
+  "76": {
+    "「来ましたね　<pc>さん。|　まずは　ヨンジャさまから　いただいた|　<%sEV_FEE_ITEM_A>を　分けっこしましょうか。": ""
+  },
+  "77": {
+    "「ハイ　どうぞ！|　これが　<pc>さんの分です。": "Hi, come in! There you go.<pc> Mr...."
+  },
+  "78": {
+    "「おいっ　チビのアカシ！|　オレたち　すげえ物　見つけちまったんだ！|　な・ん・と　年代物の　ラブレターだぜ！": "Hey, little Akash! We've found something|amazing! It's a vintage love letter!"
+  },
+  "79": {
+    "「床下から　大発見したんだぜ！": "They found something under the floor!"
+  },
+  "80": {
+    "「ふうん。でも　あたしたちだって|　とっても　いいもの　見つけたんですから。|　ねー？　<pc>さん！": "But... But we found something really nice|too... See?<pc> Three!"
+  },
+  "81": {
+    "「あ……　できた！！|　<pc>さん　見てください！|　本が　開きましたよ！": "Oh... It's done!<pc> Look, Mr. Daley! The book is open!"
+  },
+  "82": {
+    "「はぁーん？　その本が　オレたちが見つけた |　ラブレターに匹敵する　いいものってわけ？|　じゃあ　読んでみろよ。": "Huh? That book is as good as the love letters|we found? Then read it..."
+  },
+  "83": {
+    "「それじゃ　読みますね。ええと……|　エルトナの東端　ツスクルの村の地下には|　大いなるチカラを秘めし　神代の間が存在する。": "Okay, well, read... Well... On the eastern|edge of Eltona, beneath the village of|Tuskul, lies a sacred chamber that holds|<br>|great power."
+  },
+  "84": {
+    "「かの地では　古来より　大がかりな秘術が|　行われてきた。あの部屋は　エルフの歴史であり|　大いなる財産なのだ。": "There have been great mysteries practiced in|these lands since ancient times. That room is|the history of the elves and a great|<br>|treasure."
+  },
+  "85": {
+    "「その神代の間を……ざす……とは|　あの方は　ご乱心　なされ……ろうか。": "Throughout that divine time... It is... What|do you mean? He's in trouble. ......"
+  },
+  "86": {
+    "「……だそうです。|　これ以上は　ボロボロで|　とても　読めそうにありませんね。": "... So... I don't think I can read any|further, it's so tattered..."
+  },
+  "87": {
+    "「ツスクルの村に　地下があるって？|　そんなの　聞いたことないぞ。|　おいおい……これ　すごい発見なんじゃないか？": "The village of Tskul has a basement? I've|never heard of such a thing... Oh, come on...|Isn't this a great discovery?"
+  },
+  "88": {
+    "「地下に眠る　謎の部屋　神代の間……。|　その存在を知って　オレは　震えたね。|　こいつは　冒険の始まりだって。": ""
+  },
+  "89": {
+    "「……でも　それが|　とんだ　大まちがいだったのさ。": "But... But that was a huge mistake..."
+  },
+  "90": {
+    "「この時の　オレに|　なにか　言ってやれるもんなら|　オレは　こう言ってやりたいね。": "If I could have said anything to you at that|time, I would have said..."
+  },
+  "91": {
+    "「神代の間には　関わるな……ってな。": "Stay out of it during the time of the gods:|......"
+  }
 }

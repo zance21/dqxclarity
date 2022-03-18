@@ -1,161 +1,161 @@
 {
-    "1": {
-        "「コペロー！　私たちは　外に行くわよ。|　早く　いらっしゃい！！": "Copello! We're going outside... Come on, come|on, come on, come on!"
-    },
-    "2": {
-        "「わかってるってー　かーちゃん。": "I know, I know. I just..."
-    },
-    "3": {
-        "「それじゃ　私とコペローは　家を空けるわ。|　後は　あなたに　まかせたわよ。": "All right, me and Coppelot will be out of the|house. I'll leave the rest to you."
-    },
-    "4": {
-        "<center>そして　しばらく　時が流れた……。": "And then some time passed..."
-    },
-    "5": {
-        "「クンクン……。|　いいニオイが　するでヤンス……。": "Smell... It smells so good..."
-    },
-    "6": {
-        "「ミャッハーーー。|　これは　うまそうでヤンスーーー！": "Myach... This looks so good!"
-    },
-    "7": {
-        "「しめしめ。誰も　いねえでヤンスね……。": "I... There's no one here..."
-    },
-    "8": {
-        "「こいつは　いただいていくでヤンス。": "I'll take that..."
-    },
-    "9": {
-        "ネコの魔物を　捕まえますか？<yesno><close>": "Do you want to catch a cat demon?<yesno><close>"
-    },
-    "10": {
-        "犯罪を見逃すなんて　とんでもない！": "You can't let a crime go unpunished!"
-    },
-    "11": {
-        "ネコの魔物を　捕まえますか？<yesno><close>": "Do you want to catch a cat demon?<yesno><close>"
-    },
-    "12": {
-        "「ミャギャッ！　見つかったでヤンスーーー！！": "Meowgawd! They've found us, Yancey!"
-    },
-    "13": {
-        "「何か　騒がしいみたいだけど|　もしかして　犯人が……": "There seems to be a lot of noise| Is it possible that the killer"
-    },
-    "14": {
-        "「あー　ネコだー。ネコネコー。": "Oh, cat... Cat..."
-    },
-    "15": {
-        "「……ダメに　決まってるでしょう？|　お仕置きしてあげるわ！！": "... No, of course not. I'll punish you!"
-    },
-    "16": {
-        "「ミャギャーーー！！": "Myagya!"
-    },
-    "17": {
-        "「捕まるわけには　いかねえんでヤンス……。": "I can't get caught, so..."
-    },
-    "18": {
-        "「アッシにゃあ　ラーディス王島の小屋で|　ハラを空かせて　待っている旦那が|　いるんでえヤンスーーー！！": "I have a husband waiting for me in a hut on|the island of King Ladis with an empty|stomach."
-    },
-    "19": {
-        "「あなたが　さっさと　捕まえてくれないから|　逃げられちゃったじゃない！": "He got away because you didn't catch him fast|enough!"
-    },
-    "20": {
-        "「……こうなったら　私の代わりに|　あなたに　ラーディス王島の小屋まで|　行ってもらうしかないわね。": "... I'm going to have to ask you to go to the|cabin on King Ladis Island instead of me."
-    },
-    "21": {
-        "「町の南側から　ミューズ海岸に出て　さらに南に|　ラーディス王島行きの　カヌー乗り場があるわ。|　あのネコの魔物に　お仕置きしてきて！": "From the south side of town, you'll come to|Muse Beach, and further south you'll find a|canoe stop for King Lardis Island... Go|<br>|punish that cat demon!"
-    },
-    "22": {
-        "「ひいぃっ！　ネコの魔物！？": "Heeey! A feline demon!"
-    },
-    "23": {
-        "「後生でヤンス。見逃してくれでヤンスーーー！": "In later life... You're missing out!"
-    },
-    "24": {
-        "「旦那……。食べ物を　持ってきたでヤンス。": "Sir... I brought you some food..."
-    },
-    "25": {
-        "「これを食べて　すこしでも|　元気を　取り戻してほしいでヤンスよ。": "I hope you'll eat this and regain some of|your energy..."
-    },
-    "26": {
-        "「ミャギャッ！　ここまで　追ってくるとは|　思わなかったでヤンス！！": "Meowgawd! I didn't think you'd follow me this|far!"
-    },
-    "27": {
-        "「アッシを　捕まえようってんなら|　やめといたほうが　いいでヤンスよ！": "If you're trying to catch me, you'd better|not!"
-    },
-    "28": {
-        "「こちらは　猫魔族界　最強の剣豪と名高い|　キャット・リベリオさまでヤンス！": "This is Cat Rebellion, the most powerful|swordsman in the Cat demon world!"
-    },
-    "29": {
-        "「そして　何を隠そう　アッシは|　そのイチの子分　ミャルジさまなのでヤンス！": "And to top it all off, I'm his henchman,|Myarji-sama!"
-    },
-    "30": {
-        "「早く出ていかねえと|　痛い目を　見ちまうでヤンスよ！？": "If you don't get out of here soon, you're|going to get hurt."
-    },
-    "31": {
-        "「待てニャ……。": "Wait, Nya..."
-    },
-    "32": {
-        "「ミャミャ……？|　どうしたでヤンスか　リベリオの旦那。": "Mya-mya...? What's the matter, Riberio?"
-    },
-    "33": {
-        "「……コヤツは　オレを倒したヤツだニャ。|　名は　たしか……　<pc>……。": "He's the one who... This is the guy who beat|me... I think his name is...<pc> ..."
-    },
-    "34": {
-        "「ミャギィッ！　リベリオの旦那を倒した！？|　それじゃ　マンマーさまの息子を|　助けたっていう……。": "Myagi! You defeated Riberio's husband! So|you're saying you saved Lady Munmer's son..."
-    },
-    "35": {
-        "「それミャあ　ここで　リベンジと|　いくでヤンスか　リベリオの旦那！": "Well, let's get some revenge here, shall we,|Mr. Riberio?"
-    },
-    "36": {
-        "「……リベンジとか　めんどくさいニャ。|　もう　どうでも　いいのニャ……。": "... I can't be bothered with revenge... It|doesn't matter anymore."
-    },
-    "37": {
-        "「リベリオの旦那……。": "Riberio's husband..."
-    },
-    "38": {
-        "「申し訳ありませんでヤンした！|　アッシが　盗みをはたらいたことは|　このとおり　あやまるでヤンス！！": "I'm sorry, Jan! As you can see, I'm sorry for|what I did!"
-    },
-    "39": {
-        "「……じつは　リベリオの旦那は|　やる気ってものを　なくしちまって|　ごらんの有り様なんでヤンス。": "... The truth is, Riberio's husband has lost|all motivation, and as you can see..."
-    },
-    "40": {
-        "「アッシが　面倒を見ねえと　いかんのでヤンス。|　お仕置きなら　なんでも受けるんで|　それで　ゆるしてほしいのでヤンス！": "I have to take care of her, so... I'll take|whatever punishment you want, and I hope|you'll forgive me!"
-    },
-    "41": {
-        "ミャルジに　お仕置きをしますか？<yesno><close>": "Do you want me to punish Myarj?<yesno><close>"
-    },
-    "42": {
-        "「ミャ！　それじゃあ　ダメでヤンス。|　きっちり　お仕置きを受けねえと|　罪をつぐなったことに　ならねえでヤンス！": "Miah! You can't do that... If you don't get|what you deserve, you'll never get what you|deserve!"
-    },
-    "43": {
-        "ミャルジに　お仕置きをしますか？<yesno><close>": "Do you want me to punish Myarj?<yesno><close>"
-    },
-    "44": {
-        "「ありがとミャー。|　もう盗みはしねえと　誓うでヤンスよ！|　さあ　お仕置きを　どうぞ！！　　": "Thank you... I swear I'll never steal again!|Go ahead, take your punishment!"
-    },
-    "45": {
-        "「ミャギャーーーーーー！": "Meagyaa!"
-    },
-    "46": {
-        "「効いたでヤンス……。": "It worked..."
-    },
-    "47": {
-        "「これで　ゆるしてもらえたでヤンスよね。|　ありがとうでヤンス　<pc>さま。": "Now you're forgiven, Jan... Thank you.<pc> Dear."
-    },
-    "48": {
-        "「……ハラが減ったニャー。ミャルジよ。|　食い物を　用意してくれニャ。": "... Harrah's is down... Miah... I'll get you|something to eat..."
-    },
-    "49": {
-        "「すみミャせん　リベリオの旦那。|　たった今　盗みはしないと誓ったんで|　食い物は　獲物を狩るしかねえでヤンスよ。": "I'm sorry, Liberio... I just swore an oath|not to steal, so we'll have to hunt for our|food..."
-    },
-    "50": {
-        "「リベリオの旦那も　行きましょうでヤンス。|　すこしは　身体を動かさないと|　ブタネコに　なっちまうでヤンスよ……。": "Let's go, Mr. Silverio... If you don't move|your body a little, you'll turn into a piggy|cat..."
-    },
-    "51": {
-        "「むう……。そうか……？": "Mmm... Is that so...?"
-    },
-    "52": {
-        "「それミャー　<pc>さま。|　町の人に　もう盗みはしねえと|　伝えておいてほしいでヤンス。": "Meow<pc> Sir. Please tell the townspeople that I won't|steal anymore."
-    },
-    "53": {
-        "「そう言えば　町の外にいる商人さんの馬車が|　ラーディス王島にも　行くようになったそうよ。|　それを使えば　楽なんじゃないかしら？": "Oh, by the way, the merchant's carriage|outside of town now goes to King Lardis|Island... Wouldn't it be easier to use that?"
-    }
+  "1": {
+    "「コペロー！　私たちは　外に行くわよ。|　早く　いらっしゃい！！": "Copello! We're going outside... Come on, come|on, come on, come on!"
+  },
+  "2": {
+    "「わかってるってー　かーちゃん。": "I know, I know. I just..."
+  },
+  "3": {
+    "「それじゃ　私とコペローは　家を空けるわ。|　後は　あなたに　まかせたわよ。": "All right, me and Coppelot will be out of the|house. I'll leave the rest to you."
+  },
+  "4": {
+    "<center>そして　しばらく　時が流れた……。": "And then some time passed..."
+  },
+  "5": {
+    "「クンクン……。|　いいニオイが　するでヤンス……。": "Smell... It smells so good..."
+  },
+  "6": {
+    "「ミャッハーーー。|　これは　うまそうでヤンスーーー！": "Myach... This looks so good!"
+  },
+  "7": {
+    "「しめしめ。誰も　いねえでヤンスね……。": "I... There's no one here..."
+  },
+  "8": {
+    "「こいつは　いただいていくでヤンス。": "I'll take that..."
+  },
+  "9": {
+    "ネコの魔物を　捕まえますか？<yesno><close>": "Do you want to catch a cat demon?<yesno><close>"
+  },
+  "10": {
+    "犯罪を見逃すなんて　とんでもない！": "You can't let a crime go unpunished!"
+  },
+  "11": {
+    "ネコの魔物を　捕まえますか？<yesno><close>": "Do you want to catch a cat demon?<yesno><close>"
+  },
+  "12": {
+    "「ミャギャッ！　見つかったでヤンスーーー！！": "Meowgawd! They've found us, Yancey!"
+  },
+  "13": {
+    "「何か　騒がしいみたいだけど|　もしかして　犯人が……": "There seems to be a lot of noise| Is it possible that the killer"
+  },
+  "14": {
+    "「あー　ネコだー。ネコネコー。": "Oh, cat... Cat..."
+  },
+  "15": {
+    "「……ダメに　決まってるでしょう？|　お仕置きしてあげるわ！！": "... No, of course not. I'll punish you!"
+  },
+  "16": {
+    "「ミャギャーーー！！": "Myagya!"
+  },
+  "17": {
+    "「捕まるわけには　いかねえんでヤンス……。": "I can't get caught, so..."
+  },
+  "18": {
+    "「アッシにゃあ　ラーディス王島の小屋で|　ハラを空かせて　待っている旦那が|　いるんでえヤンスーーー！！": "I have a husband waiting for me in a hut on|the island of King Ladis with an empty|stomach."
+  },
+  "19": {
+    "「あなたが　さっさと　捕まえてくれないから|　逃げられちゃったじゃない！": "He got away because you didn't catch him fast|enough!"
+  },
+  "20": {
+    "「……こうなったら　私の代わりに|　あなたに　ラーディス王島の小屋まで|　行ってもらうしかないわね。": "... I'm going to have to ask you to go to the|cabin on King Ladis Island instead of me."
+  },
+  "21": {
+    "「町の南側から　ミューズ海岸に出て　さらに南に|　ラーディス王島行きの　カヌー乗り場があるわ。|　あのネコの魔物に　お仕置きしてきて！": "From the south side of town, you'll come to|Muse Beach, and further south you'll find a|canoe stop for King Lardis Island... Go|<br>|punish that cat demon!"
+  },
+  "22": {
+    "「ひいぃっ！　ネコの魔物！？": "Heeey! A feline demon!"
+  },
+  "23": {
+    "「後生でヤンス。見逃してくれでヤンスーーー！": "In later life... You're missing out!"
+  },
+  "24": {
+    "「旦那……。食べ物を　持ってきたでヤンス。": "Sir... I brought you some food..."
+  },
+  "25": {
+    "「これを食べて　すこしでも|　元気を　取り戻してほしいでヤンスよ。": "I hope you'll eat this and regain some of|your energy..."
+  },
+  "26": {
+    "「ミャギャッ！　ここまで　追ってくるとは|　思わなかったでヤンス！！": "Meowgawd! I didn't think you'd follow me this|far!"
+  },
+  "27": {
+    "「アッシを　捕まえようってんなら|　やめといたほうが　いいでヤンスよ！": "If you're trying to catch me, you'd better|not!"
+  },
+  "28": {
+    "「こちらは　猫魔族界　最強の剣豪と名高い|　キャット・リベリオさまでヤンス！": "This is Cat Rebellion, the most powerful|swordsman in the Cat demon world!"
+  },
+  "29": {
+    "「そして　何を隠そう　アッシは|　そのイチの子分　ミャルジさまなのでヤンス！": "And to top it all off, I'm his henchman,|Myarji-sama!"
+  },
+  "30": {
+    "「早く出ていかねえと|　痛い目を　見ちまうでヤンスよ！？": "If you don't get out of here soon, you're|going to get hurt."
+  },
+  "31": {
+    "「待てニャ……。": "Wait, Nya..."
+  },
+  "32": {
+    "「ミャミャ……？|　どうしたでヤンスか　リベリオの旦那。": "Mya-mya...? What's the matter, Riberio?"
+  },
+  "33": {
+    "「……コヤツは　オレを倒したヤツだニャ。|　名は　たしか……　<pc>……。": "He's the one who... This is the guy who beat|me... I think his name is...<pc> ..."
+  },
+  "34": {
+    "「ミャギィッ！　リベリオの旦那を倒した！？|　それじゃ　マンマーさまの息子を|　助けたっていう……。": "Myagi! You defeated Riberio's husband! So|you're saying you saved Lady Munmer's son..."
+  },
+  "35": {
+    "「それミャあ　ここで　リベンジと|　いくでヤンスか　リベリオの旦那！": "Well, let's get some revenge here, shall we,|Mr. Riberio?"
+  },
+  "36": {
+    "「……リベンジとか　めんどくさいニャ。|　もう　どうでも　いいのニャ……。": "... I can't be bothered with revenge... It|doesn't matter anymore."
+  },
+  "37": {
+    "「リベリオの旦那……。": "Riberio's husband..."
+  },
+  "38": {
+    "「申し訳ありませんでヤンした！|　アッシが　盗みをはたらいたことは|　このとおり　あやまるでヤンス！！": "I'm sorry, Jan! As you can see, I'm sorry for|what I did!"
+  },
+  "39": {
+    "「……じつは　リベリオの旦那は|　やる気ってものを　なくしちまって|　ごらんの有り様なんでヤンス。": "... The truth is, Riberio's husband has lost|all motivation, and as you can see..."
+  },
+  "40": {
+    "「アッシが　面倒を見ねえと　いかんのでヤンス。|　お仕置きなら　なんでも受けるんで|　それで　ゆるしてほしいのでヤンス！": "I have to take care of her, so... I'll take|whatever punishment you want, and I hope|you'll forgive me!"
+  },
+  "41": {
+    "ミャルジに　お仕置きをしますか？<yesno><close>": "Do you want me to punish Myarj?<yesno><close>"
+  },
+  "42": {
+    "「ミャ！　それじゃあ　ダメでヤンス。|　きっちり　お仕置きを受けねえと|　罪をつぐなったことに　ならねえでヤンス！": "Miah! You can't do that... If you don't get|what you deserve, you'll never get what you|deserve!"
+  },
+  "43": {
+    "ミャルジに　お仕置きをしますか？<yesno><close>": "Do you want me to punish Myarj?<yesno><close>"
+  },
+  "44": {
+    "「ありがとミャー。|　もう盗みはしねえと　誓うでヤンスよ！|　さあ　お仕置きを　どうぞ！！　　": "Thank you... I swear I'll never steal again!|Go ahead, take your punishment!"
+  },
+  "45": {
+    "「ミャギャーーーーーー！": "Meagyaa!"
+  },
+  "46": {
+    "「効いたでヤンス……。": "It worked..."
+  },
+  "47": {
+    "「これで　ゆるしてもらえたでヤンスよね。|　ありがとうでヤンス　<pc>さま。": "Now you're forgiven, Jan... Thank you.<pc> Dear."
+  },
+  "48": {
+    "「……ハラが減ったニャー。ミャルジよ。|　食い物を　用意してくれニャ。": "... Harrah's is down... Miah... I'll get you|something to eat..."
+  },
+  "49": {
+    "「すみミャせん　リベリオの旦那。|　たった今　盗みはしないと誓ったんで|　食い物は　獲物を狩るしかねえでヤンスよ。": "I'm sorry, Liberio... I just swore an oath|not to steal, so we'll have to hunt for our|food..."
+  },
+  "50": {
+    "「リベリオの旦那も　行きましょうでヤンス。|　すこしは　身体を動かさないと|　ブタネコに　なっちまうでヤンスよ……。": "Let's go, Mr. Silverio... If you don't move|your body a little, you'll turn into a piggy|cat..."
+  },
+  "51": {
+    "「むう……。そうか……？": "Mmm... Is that so...?"
+  },
+  "52": {
+    "「それミャー　<pc>さま。|　町の人に　もう盗みはしねえと|　伝えておいてほしいでヤンス。": "Meow<pc> Sir. Please tell the townspeople that I won't|steal anymore."
+  },
+  "53": {
+    "「そう言えば　町の外にいる商人さんの馬車が|　ラーディス王島にも　行くようになったそうよ。|　それを使えば　楽なんじゃないかしら？": "Oh, by the way, the merchant's carriage|outside of town now goes to King Lardis|Island... Wouldn't it be easier to use that?"
+  }
 }

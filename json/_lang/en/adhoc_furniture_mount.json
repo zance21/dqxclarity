@@ -1,23 +1,23 @@
 {
-    "1": {
-        "<%sL_MOUNT>を|<%sL_FURNITURE>から|はずしますか？|<yesno 2><break>": "Do you want to remove <%sL_MOUNT> from|<%sL_FURNITURE>?<yesno 2><break>"
-    },
-    "2": {
-        "<%sL_MOUNT>を　<%sL_FURNITURE>に|設定しますか？|<yesno><break>": "Do you want to set <%sL_MOUNT> to|<%sL_FURNITURE>?<yesno><break>"
-    },
-    "3": {
-        "<pc>は　<%sL_MOUNT>を|<%sL_FURNITURE>から　はずした。|土台を消していた場合は　自動で表示されます。|<br>|ドルステーションにかざっている|ドルボードのカラーを　最新版にしたい時は|もう一度かざると　反映されます。": "<pc> If <%sL_MOUNT> is set to <%sL_FURNITURE>,|then <%sL_MOUNT> is set to <%sL_FURNITURE>.|If you've erased the base, it will|<br>|automatically appear... When I want to change|the color of the dollar board on the dollar|station to the latest version, I have to move|<br>|it again..."
-    },
-    "4": {
-        "<pc>は　<%sL_MOUNT>を|<%sL_FURNITURE>に　設定した！": "<pc> has set <%sL_MOUNT> to <%sL_FURNITURE>!"
-    },
-    "5": {
-        "設定できる　ドルボードを|持っていません。": "I have a dollar board that I can set up..."
-    },
-    "6": {
-        "ドルボードを|はずせませんでした。": "I can't get the dollar board off..."
-    },
-    "7": {
-        "ドルボードを|設定できませんでした。": "Cannot set dollar board..."
-    }
+  "1": {
+    "<%sL_MOUNT>を|<%sL_FURNITURE>から|はずしますか？|<yesno 2><break>": "Do you want to remove <%sL_MOUNT> from|<%sL_FURNITURE>?<yesno 2><break>"
+  },
+  "2": {
+    "<%sL_MOUNT>を　<%sL_FURNITURE>に|設定しますか？|<yesno><break>": "Do you want to set <%sL_MOUNT> to|<%sL_FURNITURE>?<yesno><break>"
+  },
+  "3": {
+    "<pc>は　<%sL_MOUNT>を|<%sL_FURNITURE>から　はずした。|土台を消していた場合は　自動で表示されます。|<br>|ドルステーションにかざっている|ドルボードのカラーを　最新版にしたい時は|もう一度かざると　反映されます。": "<pc> If <%sL_MOUNT> is set to <%sL_FURNITURE>,|then <%sL_MOUNT> is set to <%sL_FURNITURE>.|If you've erased the base, it will|<br>|automatically appear... When I want to change|the color of the dollar board on the dollar|station to the latest version, I have to move|<br>|it again..."
+  },
+  "4": {
+    "<pc>は　<%sL_MOUNT>を|<%sL_FURNITURE>に　設定した！": "<pc> has set <%sL_MOUNT> to <%sL_FURNITURE>!"
+  },
+  "5": {
+    "設定できる　ドルボードを|持っていません。": "I have a dollar board that I can set up..."
+  },
+  "6": {
+    "ドルボードを|はずせませんでした。": "I can't get the dollar board off..."
+  },
+  "7": {
+    "ドルボードを|設定できませんでした。": "Cannot set dollar board..."
+  }
 }

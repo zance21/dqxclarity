@@ -1,179 +1,179 @@
 {
-    "1": {
-        "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": "<if_woman>That's great <pc>!|You're a woman who understands!<else>That's great <pc>!|You're a man who understands!<endif>"
-    },
-    "2": {
-        "<if_woman>「ロマンの　わかる女だぜ！<else>「ロマンの　わかる男だぜ！<endif>": "<if_woman>I'm a woman who understands romance!<else>I'm a man who understands romance!<endif>"
-    },
-    "3": {
-        "「これより　若葉の探検隊の　結成だ！！": "This is the formation of the Wakaba|Expedition!"
-    },
-    "4": {
-        "「ちょ……　ちょっと　待ってくださいよ！": "Wait... Wait, wait, wait, wait!"
-    },
-    "5": {
-        "「あの封印された書物は　あたしと|　<pc>さんが　見つけたんですよ。|　３人だけでなんて　ズルイです……。": "That sealed book is with me|<pc> You found it. It's not fair that it's just|the three of us..."
-    },
-    "6": {
-        "「フンッ。ようし　いいだろう！|　それでは　チビのアカシを加えて|　改めて　若葉の探検隊の　結成である！！": "... All right, that's enough. Then let's add|little Akash to the mix and form the Wakaba|Expedition!"
-    },
-    "7": {
-        "「よく聞け　隊員たちよ！|　我々の目的は　この村の地下にあるという|　謎の部屋　神代の間の　発見だ。": "Listen up, troops! Our objective is to find|the mysterious room beneath this village, the|Hall of the Gods."
-    },
-    "8": {
-        "「隊員１号！": "Team member #1!"
-    },
-    "9": {
-        "「２号！": "Number 2!"
-    },
-    "10": {
-        "「そして　３号！": "And number three!"
-    },
-    "11": {
-        "「すぐに　聞き込みに出発せよ！|　諸君らの　はたらきに　期待しているぞ！": "Let's start canvassing right away! We're|counting on you!"
-    },
-    "12": {
-        "「へえ……　これが　知恵の社で見つかった|　封印された書物なのかい？": "Hmm... Is this the sealed book found in the|Wisdom Shrine?"
-    },
-    "13": {
-        "「は　はいっ！　ハジカ先生。|　その……　先生なら　この本が|　どれくらい古い物なのか　わかると思って……。": "Yes, yes! Haji... I thought... I thought you|might be able to tell me how old this book|is..."
-    },
-    "14": {
-        "「これは……？": "Is this...?"
-    },
-    "15": {
-        "「あっ　<pc>さん！|　シシノタに　コノタも。": "oh!<pc> Oh, my God! Sinnota, Ko..."
-    },
-    "16": {
-        "「……なるほど　状況は　わかった。|　君たち探検隊の　ヒントになるような助言が|　私に　できるかは　わからないが……。": "I see. I see. I see what's going on. I don't|know if I can give you any advice that might|help your expedition, but..."
-    },
-    "17": {
-        "「この書物に　ほどこされていた|　封印の術式と　劣化具合から言って　およそ|　３００年前の物と見て　まちがいないだろう。": "Based on the sealing techniques and the|deterioration of the book, it's safe to say|that it's approximately 300 years old..."
-    },
-    "18": {
-        "「……３００年前といえば　このツスクルの村に|　学びの庭が　つくられた時代のはず。|　じつに興味深い一致だと　思わないかね？": "... Three hundred years ago, when the garden|of learning was built here in the village of|Tskul. Quite an interesting coincidence,|<br>|don't you think?"
-    },
-    "19": {
-        "「つまり……学びの庭が　つくられたころには|　まだ　神代の間が　使われていたってことに|　なるんでしょうか……。": "In other words... When the Garden of Learning|was built, the Jindai-no-Ma was still in|use..."
-    },
-    "20": {
-        "「それにしても　すごいじゃないか。|　<pc>君といったか……|　よく　こんな本を見つけたね。": "But still, it's amazing.<pc> I think you said... I often find books like|this..."
-    },
-    "21": {
-        "「はんっ！　こっちだって　負けてないぜ！ |　先生　見てくれよ！　これ　コノタが見つけた|　超年代物の　ナイスな　ラブレターなんだぜ！": "Huh! I'm not letting you down either! Hey,|Doc, check this out! This is a very nice|vintage love letter that Konota found!"
-    },
-    "22": {
-        "「イカしてるんだぜ！": "It's cool, man!"
-    },
-    "23": {
-        "「あっ　そうだ！！　思いだしましたよ！ ": "Oh, yes! I just remembered!"
-    },
-    "24": {
-        "「授業で習ったことなんですが……|　３００年前の　学びの庭の建設には|　ある建築家の一族が　たずさわっているんです。": "I learned something in class... 300 years|ago, a family of architects were involved in|the construction of the Garden of Learning..."
-    },
-    "25": {
-        "「一族の名は　ドン家。 |　ドワチャッカ大陸の　ドルワーム王国に|　今も続く　名門建築家の　一族です。": "The name of the family is... One of the most|prestigious architects in the Dorworm Kingdom|of Dwacha..."
-    },
-    "26": {
-        "「その　ドン家を訪ねれば　当時の|　村の記録が　残っているかもしれません。|　神代の間についても　なにか　わかるかも！": "If we visit the Don family, they might have|some records of the village from that time...|It might even tell us something about the|<br>|Jindai Room!"
-    },
-    "27": {
-        "「どうです？　名推理じゃありませんか？": "What do you think? Isn't that a good guess?"
-    },
-    "28": {
-        "「まあ　悪くないアイディアだ。|　隊員たちよ！　さっそくドルワームに出発せよ！|　建築家の　ドン家とやらを　訪ねるのだ！": "Well, that's not a bad idea... Attention,|troops! Let's go to Dorworm! We're going to|visit the Don family, the architects!"
-    },
-    "29": {
-        "「隊長は　この学びの庭で　報告を待つ。|　諸君らの　はたらきに　期待しているぞ！": "The captain reports to this garden of|learning... I'm counting on you to do your|part!"
-    },
-    "30": {
-        "「はいはい　偉大な建築家　ドン・パパチョなら|　ワシのことだけども。ははあ……|　ツスクルの村の　謎の部屋を　探してるって？": "Yes, yes, yes, the great architect Don|Pappacho would be me... Yes, yes, yes. You're|looking for a mysterious room in the village|<br>|of Tuskul?"
-    },
-    "31": {
-        "「そりゃまた　オツなことを　してるねえ。|　いいよ　いいよ。昔の図面とか|　なにか残ってるでしょ。探したげる。": "That's very sweet of you to do... Okay... Do|you have any old drawings or... I'm looking|for..."
-    },
-    "32": {
-        "「はい　おまたせ。|　これが　３００年前に描かれた|　学びの庭の　設計図さ。": "Yes... This is the design of the Garden of|Learning, painted 300 years ago."
-    },
-    "33": {
-        "「たしかに　当時　ツスクルの村の地下には |　神代の間って部屋が　あったみたいだねえ。 ": "It's true that at that time, there was a room|in the basement of Tuskul village called the|\"Divine Age Room."
-    },
-    "34": {
-        "「ほ……　ほんとですか！？！": "Ho... Are you sure?"
-    },
-    "35": {
-        "「昔　ツスクルの村の地下には|　迷宮が　広がっていたらしいね。|　その奥に　神代の間はあったっぽいよ。": "There was once a labyrinth beneath the|village of Tuskul... And in the depths of the|labyrinth was the Hall of the Gods..."
-    },
-    "36": {
-        "「学びの庭は　その迷宮の真上に建てられた。|　そして　迷宮の入り口は|　職員宿舎の中に　残されたようだけども。": "The Garden of Learning was built directly|above the labyrinth... And the entrance to|the labyrinth seems to have been left in the|<br>|staff quarters..."
-    },
-    "37": {
-        "「それが　ここ……。|　桜の間って呼ばれてる　部屋みたいよ。": "It's called the... It's called the Cherry|Blossom Room. It's a room..."
-    },
-    "38": {
-        "「さ　桜の間だって！？ ": "The cherry blossom room?"
-    },
-    "39": {
-        "「桜の間は……　妙なウワサが絶えないから |　使われなくなったっていう|　いわくつきの部屋なんです。": "The cherry blossom room... The cherry blossom|room is said to have been abandoned because|of a strange rumor..."
-    },
-    "40": {
-        "「あ　あの部屋だけは　ダメだ！|　あそこに行くのは　絶対ヤバイって！！|　だって……！　オイラも　見たんだよ……。 ": "Oh, no, not that room! You can't go in there!|I mean... I saw it too."
-    },
-    "41": {
-        "「お……　女の幽霊を…………。": "Oh... The ghost of a woman..."
-    },
-    "42": {
-        "「あははっ！　そんなの　見まちがいですよ。|　そんなことより　神代の間の　ありかが|　ついに　判明したんですよ！": "Ha-ha-ha! You're mistaken... That's not|important. We finally found out where the|Hall of the Gods is!"
-    },
-    "43": {
-        "「さあ　はやく　学びの庭に　帰りましょう。|　シシノタに　教えてあげなくちゃ！": "Now, quickly, back to the Garden of|Learning... I have to teach Shishinota!"
-    },
-    "44": {
-        "「ないっ！　ないない！|　たしかに　ここに置いたのに|　どこに　いっちまったんだよ……！": "No! It's not here! I'm sure I put it here,|but where did it go...?"
-    },
-    "45": {
-        "「あんちゃーん　なにやってんだ？": "What are you doing?"
-    },
-    "46": {
-        "「す…すまん　コノタ。 |　オレたちの宝が…… |　ラブレターが　消えちまった。 ": "I'm... I'm sorry... Our treasure... The love|letters disappeared..."
-    },
-    "47": {
-        "「ええええ～～！！　なんでだよ！|　あんちゃんの　アホンダラ！！|　この　スライム脳！": "EEEEEEE~! Why? ! You idiot! You slime brain!"
-    },
-    "48": {
-        "「うるせえバカ！　もう　いいだろ。|　今じゃ　神代の間が　ブームなんだから。|　………で　ドルワームで収穫は　あったのかよ？": "Shut up, you idiot! I'm done. The Jindai-no-|Ma is the boom now... So... So, any luck with|the dollar worm?"
-    },
-    "49": {
-        "「そうか　そうか。でかしたぞ　隊員たち！|　職員宿舎にある　桜の間が　神代の間へ続く|　地下迷宮の入り口に　なってるってワケか。": "Well... Well done, troopers! The cherry|blossom room in the staff quarters is the|entrance to an underground labyrinth that|<br>|leads to the Jindai room..."
-    },
-    "50": {
-        "「ダ……ダメだよ。やめよう　あんちゃん！|　あの部屋には　女の幽霊が　出るんだって！|　オイラは　ほんとに見たんだ！！ ": "Da... Da... Don't do this, Anny! I heard|there's a female ghost in that room! I really|saw her!"
-    },
-    "51": {
-        "「ハイハイ　お前のことだから|　どうせ　なにかと　見まちがえたんだろ。": "You're the one who mistook it for something|else..."
-    },
-    "52": {
-        "「諸君！　まずは　長旅ご苦労であった！|　君たちの優秀な　はたらきにより|　ついに　神代の間の入り口が　明らかになった。": "Gentlemen! First of all, thank you for your|long journey! Thanks to your excellent work,|the entrance to the Hall of the Gods has|<br>|finally been revealed..."
-    },
-    "53": {
-        "「諸君らの　功績をたたえ|　これを授けよう。受け取れい！": "In recognition of your achievements, I give|you this... Take it!"
-    },
-    "54": {
-        "「はっはっは。おどろいたか。|　ちゃーんと報酬を　用意しておいたのだ。|　これも　隊長のつとめだからな！": "Oh, my... Surprise... I've prepared a reward|for you... This is also the duty of the|captain!"
-    },
-    "55": {
-        "「さて。まずは　長旅の疲れを　いやすがよい。|　充分に休んだら　また探検に出発しよう！|　それでは　解散ッ！": "Now. First, let's soak away the fatigue of|our long journey... After a good rest, let's|go exploring again! Then let's disperse!"
-    },
-    "56": {
-        "「ちがうんだ……　ちがうんだよ。|　オイラ　本当に　幽霊を見たんだ……。": "No, it's not... No, no... I really saw a|ghost..."
-    },
-    "57": {
-        "「あの雨の日……オイラは|　授業をサボって　昼寝でもしようと思って|　桜の間に　近づいたんだ。": "That rainy day... I decided to skip class and|take a nap, so I walked up among the cherry|blossoms..."
-    },
-    "58": {
-        "「そしたら　その時　ちょうど雷が落ちて……": "And then, just as lightning struck"
-    },
-    "59": {
-        "「窓に　白い女の顔が|　浮かんでるのが　見えたんだ……。": "I saw a white woman's face floating in the|window..."
-    }
+  "1": {
+    "<if_woman>「さっすが　<pc>！|　話の　わかる女だぜ！<else>「さっすが　<pc>！|　話の　わかる男だぜ！<endif>": "<if_woman>That's great <pc>!|You're a woman who understands!<else>That's great <pc>!|You're a man who understands!<endif>"
+  },
+  "2": {
+    "<if_woman>「ロマンの　わかる女だぜ！<else>「ロマンの　わかる男だぜ！<endif>": "<if_woman>I'm a woman who understands romance!<else>I'm a man who understands romance!<endif>"
+  },
+  "3": {
+    "「これより　若葉の探検隊の　結成だ！！": "This is the formation of the Wakaba|Expedition!"
+  },
+  "4": {
+    "「ちょ……　ちょっと　待ってくださいよ！": "Wait... Wait, wait, wait, wait!"
+  },
+  "5": {
+    "「あの封印された書物は　あたしと|　<pc>さんが　見つけたんですよ。|　３人だけでなんて　ズルイです……。": "That sealed book is with me|<pc> You found it. It's not fair that it's just|the three of us..."
+  },
+  "6": {
+    "「フンッ。ようし　いいだろう！|　それでは　チビのアカシを加えて|　改めて　若葉の探検隊の　結成である！！": "... All right, that's enough. Then let's add|little Akash to the mix and form the Wakaba|Expedition!"
+  },
+  "7": {
+    "「よく聞け　隊員たちよ！|　我々の目的は　この村の地下にあるという|　謎の部屋　神代の間の　発見だ。": "Listen up, troops! Our objective is to find|the mysterious room beneath this village, the|Hall of the Gods."
+  },
+  "8": {
+    "「隊員１号！": "Team member #1!"
+  },
+  "9": {
+    "「２号！": "Number 2!"
+  },
+  "10": {
+    "「そして　３号！": "And number three!"
+  },
+  "11": {
+    "「すぐに　聞き込みに出発せよ！|　諸君らの　はたらきに　期待しているぞ！": "Let's start canvassing right away! We're|counting on you!"
+  },
+  "12": {
+    "「へえ……　これが　知恵の社で見つかった|　封印された書物なのかい？": "Hmm... Is this the sealed book found in the|Wisdom Shrine?"
+  },
+  "13": {
+    "「は　はいっ！　ハジカ先生。|　その……　先生なら　この本が|　どれくらい古い物なのか　わかると思って……。": "Yes, yes! Haji... I thought... I thought you|might be able to tell me how old this book|is..."
+  },
+  "14": {
+    "「これは……？": "Is this...?"
+  },
+  "15": {
+    "「あっ　<pc>さん！|　シシノタに　コノタも。": "oh!<pc> Oh, my God! Sinnota, Ko..."
+  },
+  "16": {
+    "「……なるほど　状況は　わかった。|　君たち探検隊の　ヒントになるような助言が|　私に　できるかは　わからないが……。": "I see. I see. I see what's going on. I don't|know if I can give you any advice that might|help your expedition, but..."
+  },
+  "17": {
+    "「この書物に　ほどこされていた|　封印の術式と　劣化具合から言って　およそ|　３００年前の物と見て　まちがいないだろう。": "Based on the sealing techniques and the|deterioration of the book, it's safe to say|that it's approximately 300 years old..."
+  },
+  "18": {
+    "「……３００年前といえば　このツスクルの村に|　学びの庭が　つくられた時代のはず。|　じつに興味深い一致だと　思わないかね？": "... Three hundred years ago, when the garden|of learning was built here in the village of|Tskul. Quite an interesting coincidence,|<br>|don't you think?"
+  },
+  "19": {
+    "「つまり……学びの庭が　つくられたころには|　まだ　神代の間が　使われていたってことに|　なるんでしょうか……。": "In other words... When the Garden of Learning|was built, the Jindai-no-Ma was still in|use..."
+  },
+  "20": {
+    "「それにしても　すごいじゃないか。|　<pc>君といったか……|　よく　こんな本を見つけたね。": "But still, it's amazing.<pc> I think you said... I often find books like|this..."
+  },
+  "21": {
+    "「はんっ！　こっちだって　負けてないぜ！ |　先生　見てくれよ！　これ　コノタが見つけた|　超年代物の　ナイスな　ラブレターなんだぜ！": "Huh! I'm not letting you down either! Hey,|Doc, check this out! This is a very nice|vintage love letter that Konota found!"
+  },
+  "22": {
+    "「イカしてるんだぜ！": "It's cool, man!"
+  },
+  "23": {
+    "「あっ　そうだ！！　思いだしましたよ！ ": "Oh, yes! I just remembered!"
+  },
+  "24": {
+    "「授業で習ったことなんですが……|　３００年前の　学びの庭の建設には|　ある建築家の一族が　たずさわっているんです。": "I learned something in class... 300 years|ago, a family of architects were involved in|the construction of the Garden of Learning..."
+  },
+  "25": {
+    "「一族の名は　ドン家。 |　ドワチャッカ大陸の　ドルワーム王国に|　今も続く　名門建築家の　一族です。": "The name of the family is... One of the most|prestigious architects in the Dorworm Kingdom|of Dwacha..."
+  },
+  "26": {
+    "「その　ドン家を訪ねれば　当時の|　村の記録が　残っているかもしれません。|　神代の間についても　なにか　わかるかも！": "If we visit the Don family, they might have|some records of the village from that time...|It might even tell us something about the|<br>|Jindai Room!"
+  },
+  "27": {
+    "「どうです？　名推理じゃありませんか？": "What do you think? Isn't that a good guess?"
+  },
+  "28": {
+    "「まあ　悪くないアイディアだ。|　隊員たちよ！　さっそくドルワームに出発せよ！|　建築家の　ドン家とやらを　訪ねるのだ！": "Well, that's not a bad idea... Attention,|troops! Let's go to Dorworm! We're going to|visit the Don family, the architects!"
+  },
+  "29": {
+    "「隊長は　この学びの庭で　報告を待つ。|　諸君らの　はたらきに　期待しているぞ！": "The captain reports to this garden of|learning... I'm counting on you to do your|part!"
+  },
+  "30": {
+    "「はいはい　偉大な建築家　ドン・パパチョなら|　ワシのことだけども。ははあ……|　ツスクルの村の　謎の部屋を　探してるって？": "Yes, yes, yes, the great architect Don|Pappacho would be me... Yes, yes, yes. You're|looking for a mysterious room in the village|<br>|of Tuskul?"
+  },
+  "31": {
+    "「そりゃまた　オツなことを　してるねえ。|　いいよ　いいよ。昔の図面とか|　なにか残ってるでしょ。探したげる。": "That's very sweet of you to do... Okay... Do|you have any old drawings or... I'm looking|for..."
+  },
+  "32": {
+    "「はい　おまたせ。|　これが　３００年前に描かれた|　学びの庭の　設計図さ。": "Yes... This is the design of the Garden of|Learning, painted 300 years ago."
+  },
+  "33": {
+    "「たしかに　当時　ツスクルの村の地下には |　神代の間って部屋が　あったみたいだねえ。 ": "It's true that at that time, there was a room|in the basement of Tuskul village called the|\"Divine Age Room."
+  },
+  "34": {
+    "「ほ……　ほんとですか！？！": "Ho... Are you sure?"
+  },
+  "35": {
+    "「昔　ツスクルの村の地下には|　迷宮が　広がっていたらしいね。|　その奥に　神代の間はあったっぽいよ。": "There was once a labyrinth beneath the|village of Tuskul... And in the depths of the|labyrinth was the Hall of the Gods..."
+  },
+  "36": {
+    "「学びの庭は　その迷宮の真上に建てられた。|　そして　迷宮の入り口は|　職員宿舎の中に　残されたようだけども。": "The Garden of Learning was built directly|above the labyrinth... And the entrance to|the labyrinth seems to have been left in the|<br>|staff quarters..."
+  },
+  "37": {
+    "「それが　ここ……。|　桜の間って呼ばれてる　部屋みたいよ。": "It's called the... It's called the Cherry|Blossom Room. It's a room..."
+  },
+  "38": {
+    "「さ　桜の間だって！？ ": "The cherry blossom room?"
+  },
+  "39": {
+    "「桜の間は……　妙なウワサが絶えないから |　使われなくなったっていう|　いわくつきの部屋なんです。": "The cherry blossom room... The cherry blossom|room is said to have been abandoned because|of a strange rumor..."
+  },
+  "40": {
+    "「あ　あの部屋だけは　ダメだ！|　あそこに行くのは　絶対ヤバイって！！|　だって……！　オイラも　見たんだよ……。 ": "Oh, no, not that room! You can't go in there!|I mean... I saw it too."
+  },
+  "41": {
+    "「お……　女の幽霊を…………。": "Oh... The ghost of a woman..."
+  },
+  "42": {
+    "「あははっ！　そんなの　見まちがいですよ。|　そんなことより　神代の間の　ありかが|　ついに　判明したんですよ！": "Ha-ha-ha! You're mistaken... That's not|important. We finally found out where the|Hall of the Gods is!"
+  },
+  "43": {
+    "「さあ　はやく　学びの庭に　帰りましょう。|　シシノタに　教えてあげなくちゃ！": "Now, quickly, back to the Garden of|Learning... I have to teach Shishinota!"
+  },
+  "44": {
+    "「ないっ！　ないない！|　たしかに　ここに置いたのに|　どこに　いっちまったんだよ……！": "No! It's not here! I'm sure I put it here,|but where did it go...?"
+  },
+  "45": {
+    "「あんちゃーん　なにやってんだ？": "What are you doing?"
+  },
+  "46": {
+    "「す…すまん　コノタ。 |　オレたちの宝が…… |　ラブレターが　消えちまった。 ": "I'm... I'm sorry... Our treasure... The love|letters disappeared..."
+  },
+  "47": {
+    "「ええええ～～！！　なんでだよ！|　あんちゃんの　アホンダラ！！|　この　スライム脳！": "EEEEEEE~! Why? ! You idiot! You slime brain!"
+  },
+  "48": {
+    "「うるせえバカ！　もう　いいだろ。|　今じゃ　神代の間が　ブームなんだから。|　………で　ドルワームで収穫は　あったのかよ？": "Shut up, you idiot! I'm done. The Jindai-no-|Ma is the boom now... So... So, any luck with|the dollar worm?"
+  },
+  "49": {
+    "「そうか　そうか。でかしたぞ　隊員たち！|　職員宿舎にある　桜の間が　神代の間へ続く|　地下迷宮の入り口に　なってるってワケか。": "Well... Well done, troopers! The cherry|blossom room in the staff quarters is the|entrance to an underground labyrinth that|<br>|leads to the Jindai room..."
+  },
+  "50": {
+    "「ダ……ダメだよ。やめよう　あんちゃん！|　あの部屋には　女の幽霊が　出るんだって！|　オイラは　ほんとに見たんだ！！ ": "Da... Da... Don't do this, Anny! I heard|there's a female ghost in that room! I really|saw her!"
+  },
+  "51": {
+    "「ハイハイ　お前のことだから|　どうせ　なにかと　見まちがえたんだろ。": "You're the one who mistook it for something|else..."
+  },
+  "52": {
+    "「諸君！　まずは　長旅ご苦労であった！|　君たちの優秀な　はたらきにより|　ついに　神代の間の入り口が　明らかになった。": "Gentlemen! First of all, thank you for your|long journey! Thanks to your excellent work,|the entrance to the Hall of the Gods has|<br>|finally been revealed..."
+  },
+  "53": {
+    "「諸君らの　功績をたたえ|　これを授けよう。受け取れい！": "In recognition of your achievements, I give|you this... Take it!"
+  },
+  "54": {
+    "「はっはっは。おどろいたか。|　ちゃーんと報酬を　用意しておいたのだ。|　これも　隊長のつとめだからな！": "Oh, my... Surprise... I've prepared a reward|for you... This is also the duty of the|captain!"
+  },
+  "55": {
+    "「さて。まずは　長旅の疲れを　いやすがよい。|　充分に休んだら　また探検に出発しよう！|　それでは　解散ッ！": "Now. First, let's soak away the fatigue of|our long journey... After a good rest, let's|go exploring again! Then let's disperse!"
+  },
+  "56": {
+    "「ちがうんだ……　ちがうんだよ。|　オイラ　本当に　幽霊を見たんだ……。": "No, it's not... No, no... I really saw a|ghost..."
+  },
+  "57": {
+    "「あの雨の日……オイラは|　授業をサボって　昼寝でもしようと思って|　桜の間に　近づいたんだ。": "That rainy day... I decided to skip class and|take a nap, so I walked up among the cherry|blossoms..."
+  },
+  "58": {
+    "「そしたら　その時　ちょうど雷が落ちて……": "And then, just as lightning struck"
+  },
+  "59": {
+    "「窓に　白い女の顔が|　浮かんでるのが　見えたんだ……。": "I saw a white woman's face floating in the|window..."
+  }
 }

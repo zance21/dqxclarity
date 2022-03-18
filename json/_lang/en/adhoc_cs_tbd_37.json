@@ -1,158 +1,158 @@
 {
-    "1": {
-        "「おお　<pc>か。|　よく来てくれたな。": "oh!<pc> I see. You come here often..."
-    },
-    "2": {
-        "「村王に　用だったか？|　残念だが　村王は　このところ不在がちでな。|　また　来てもらえるか。": "You wanted to see the Village King? I'm|sorry, but the Village King has been absent|for some time... You'll have to come back..."
-    },
-    "3": {
-        "「いや……。ちょっと待ってくれるか。": "No, no, no. Just give me a second..."
-    },
-    "4": {
-        "「じつは　村王が　不在がちなことについて|　相談があるのだ……。": "Actually, I'd like to consult with the|Village King about his frequent absences..."
-    },
-    "5": {
-        "「<pc>が　雪山から|　村王を　救出してくれた日から|　どうも村王は　様子が　おかしくてな。": ""
-    },
-    "6": {
-        "「先日の儀式のように　子供たちに何かを教えたり|　自分の役目を　人に引き継いだり|　次々に　身の回りの整理を　始めていてな……。": "I've been teaching my children things,|passing on my duties to others, like the|ritual I did the other day, and I've started|<br>|organizing my life one thing after another..."
-    },
-    "7": {
-        "「最初は　トシを気にされてのことかと|　見守っていたが　最近は　それも　少々|　行き過ぎではないかと　感じるほどなのだ。": "At first, I thought he was concerned about|his age, but lately, I've felt that he's gone|a little too far..."
-    },
-    "8": {
-        "「まるで……村王は　この村を|　出ていこうとでもしているのではないかと|　思うほどに……。": "It was as if... It's as if the village king|is trying to leave this village."
-    },
-    "9": {
-        "「思いすごしであれば　よいのだが|　<pc>には　村王が　村を不在にして|　何をしているのかを　調べてほしいのだ。": "I hope it's all in vain|<pc> I want you to find out what the village king|has been doing away from the village."
-    },
-    "10": {
-        "「それさえわかれば　私も　安心できる。|　もちろん　村王には　内密の上でだが|　やってもらえるだろうか？": "I'd feel a lot better if I knew that. Of|course, we'll have to keep this a secret from|the village king, but will you do it?"
-    },
-    "11": {
-        "「おおっ　本当か！　恩に着るぞ！": "Oh, really? ! I'm in your debt!"
-    },
-    "12": {
-        "「そういうことなら　まずは　村人たちから|　目撃情報を集めるのが　よいだろう。|　村王は　どこにいても　目立つからな。": "If that's the case, we'd better start|gathering sightings from the villagers... A|village king stands out no matter where he|<br>|is."
-    },
-    "13": {
-        "「それでは　よろしく頼んだぞ！": "I'll see you soon!"
-    },
-    "14": {
-        "「おおっ　恩に着るぞ……と言いたいところだが|　どうやら　今は　頼まれごとが|　いっぱいのようだな……。": "Oh, I'm in your debt... I'd say you owe me a|favor, but it looks like you've got a lot on|your plate right now."
-    },
-    "15": {
-        "「無理強いはできんが|　できるなら　手を空けてきて|　私の頼みを　聞いてほしいところだ。": ""
-    },
-    "16": {
-        "「そ　そうか……。|　では　気が変わったら　また来てくれ。|　取りかえしのつかないことになる前にな……。": "Okay, well... Well, if you change your mind,|I'll come back... Before it's too late..."
-    },
-    "17": {
-        "「おお　<pc>。|　また来てくれたか。|　私の頼みを　聞いてくれるのだな？": "oh!<pc> I'll be back. You'll come back... You'll do|what I ask, won't you?"
-    },
-    "18": {
-        "「<pc>が　雪山から|　村王を　救出してくれた日から|　どうも村王は　様子が　おかしくてな。": ""
-    },
-    "19": {
-        "「次々に　身辺整理を始められ|　まるで……村王は　この村から出ていこうとでも|　お考えなのではないかと　思うほどに……。": "One by one, they began to arrange their|affairs, as if... It was as if the village|king was thinking of leaving the village."
-    },
-    "20": {
-        "「<pc>には　村王が　何をしているのかを|　調べてほしいのだ。もちろん　村王には|　内密の上でな。やってもらえるか？": "<pc> I want you to find out what the Village King|is up to... Of course, we'd like you to keep|it a secret... Will you do it?"
-    },
-    "21": {
-        "「おお　<pc>。|　村王が　何をしているかは|　まだ調査中のようだな。": ""
-    },
-    "22": {
-        "「調査の基本は足だ！　とにかく　村人たちから|　目撃情報を集めるのが　よいだろう。|　村王は　どこにいても　目立つからな。": "It's all about feet! Anyway, we should|collect sightings from the villagers... A|village king stands out no matter where he|<br>|is."
-    },
-    "23": {
-        "「私も　ずいぶん　トシをとりました。|　……なにしろ　あれから２０年です。": "I'm getting old... ... After all, it's been|20 years since..."
-    },
-    "24": {
-        "「あなたの血を引く息子が　極限まで|　きたえあげて……　わしを　殺しにきます。|　きっと　想像を絶する強さでしょうな。": "Your son, your son's blood, he's been working|himself to the bone. He wanted to kill me. He|must have been unimaginably strong."
-    },
-    "25": {
-        "「わしは　逃げも隠れもしません。|　今　持っている　すべてのチカラで|　ただ　受けて立つのみです……。": "I will neither run nor hide... I'll just take|it with everything I've got."
-    },
-    "26": {
-        "「おお　<pc>……か？|　こんな所で　いったい何を……": "oh!<pc> ... What? What the hell are you doing here?"
-    },
-    "27": {
-        "「……なるほど。|　おおかた　ギュランのやつが探させたのだろう。|　まったく　あいつは　心配性だな。": "... I don't know. It's mostly Gulan's|fault... I'm so worried about him..."
-    },
-    "28": {
-        "「ギュランは　子供の頃から　身体が弱かった。|　だが　生来の負けず嫌いでな。|　身体が弱い分　とにかく熱心に勉強した。": "Güran has always been weak, even as a child.|But he's always had a competitive streak. So|he studied hard..."
-    },
-    "29": {
-        "「そのかいあって　今では　オーガの中では|　飛び抜けて　アタマがいい。わしは　あいつの|　そんなところを気に入って　側近にした。": "And now, thanks to his efforts, he's the|smartest ogre I've ever met. That's what I|like about him. He's my aide."
-    },
-    "30": {
-        "「しかし……　ギュランに|　心配をかけたのは　無理もなかったか……。": "But... I suppose I had every right to worry|about you."
-    },
-    "31": {
-        "「<pc>よ。この墓はな　わしが若い頃|　互いに切磋琢磨した　兄貴分の墓なのだ。": "<pc> Hey. This grave is the grave of a brother|with whom I had a friendly competition when|we were young."
-    },
-    "32": {
-        "「名を　ガガベスといった。|　わしなどよりも　はるかに強く　史上最強の|　チャンピオンと呼ばれた　村の英雄だった。": "His name was Gargabeth. He was much stronger|than I was, and was called the greatest|champion of all time... the hero of his|<br>|village."
-    },
-    "33": {
-        "「わしは　何度　挑んでも|　まったく　ガガベスに　歯が立たなかった。|　だが　ある日の　試合でのことだ……。": "No matter how many times I tried, I was no|match for Gaga Beth. But then one day, in a|match..."
-    },
-    "34": {
-        "「わしの拳が　吸い込まれるように|　ガガベスの　みぞおちに入ってしまった……。": "My fist was sucked into Gabe's gut..."
-    },
-    "35": {
-        "「それは　ただの幸運な一撃に過ぎなかった。|　だが　ガガベスは　その一撃によって|　そのまま　武闘場の上で　この世を去ったのだ。": "It was just a lucky shot... But it was a blow|that caused Gargabez to leave this world on|the battlefield..."
-    },
-    "36": {
-        "「あまりのことに　わしは唖然としていたが|　新たなチャンピオンの誕生に|　村の人々は　沸き返った。": "I was stunned by the news, but the people of|the village were thrilled to have a new|champion..."
-    },
-    "37": {
-        "「当時のランガーオ村は　なによりも|　勝つことこそが　尊ばれた時代だったのだ。": "In those days, the village of Langao was a|place where winning was the most important|thing..."
-    },
-    "38": {
-        "「そして　敗者には　残酷な仕打ちが与えられた。|　英雄だったガガベスの地位は|　死によって　一瞬にして　地に墜ちた。": "And the losers are dealt a cruel blow...|Gagabeth's status as a hero was destroyed in|an instant by death."
-    },
-    "39": {
-        "「ガガベスには　奥さんと　息子がいたが|　それ以来　弱き者の家族として　しいたげられ|　ひどく貧しい生活を　強いられたと聞く……。": "I'm told that Gabez had a wife and a son, but|since then they've been reduced to a family|of weaklings and forced to live in abject|<br>|poverty..."
-    },
-    "40": {
-        "「苦労がたたってか　奥さんは　数年後になくなり|　息子が　ひとり残された。": "His wife died a few years later, leaving him|with a son..."
-    },
-    "41": {
-        "「その息子の名は　ガガイ……。|　当時　まだ６才だったガガイは|　ある日　わしの前に来て　こう言った。": "His name was Gagai... He was only six years|old at the time, but one day he came to me|and said..."
-    },
-    "42": {
-        "「いつか　必ず　お前を殺す。|　そのために　どんなことでもする……とな。": "One day, I promise you... I'll do whatever it|takes to make that happen. ....."
-    },
-    "43": {
-        "「……今から　２０年前のことだ。|　ガガイは　そのまま村を出ていき　ずっと|　生きているかどうかさえ　わからなかった。": "... Twenty years ago now... Gagai left the|village, and we don't even know if he's still|alive..."
-    },
-    "44": {
-        "「そして　お前に助けてもらった　あの日……|　そのガガイから　手紙が来たのだ。": "And the day you saved my life... I got a|letter from that gagai..."
-    },
-    "45": {
-        "「手紙には　ただ一言　こう書いてあった。|　お前を　殺しにいく……とな。": "The only thing he wrote in his letter was...|I'm coming to kill you. ....."
-    },
-    "46": {
-        "「わしは老いたが　逃げも隠れもせん。|　むしろ　こちらから　ガガイの所に|　出向いていこうと思っているのだ。": "I'm old, but I can't run and hide... I'd|rather go to Gagai's place myself..."
-    },
-    "47": {
-        "「勝つことは　難しいだろう……。|　だが　わしは　持てるチカラの　すべてをかけて|　やつとの勝負に　臨まねばならん。": "It's going to be hard to beat him. But I'll|have to give it everything I've got to beat|him."
-    },
-    "48": {
-        "「いらぬ心配は　かけたくない。|　このことは　ギュランや　村の連中には|　どうか　だまっていてくれ。": "I didn't mean to worry you... Please don't|tell Guillain or the others in the village|about this..."
-    },
-    "49": {
-        "「これが　わしの最後の戦いだ。": "This is the last of my..."
-    },
-    "50": {
-        "「すっかり　長話になってしまったな。|　さあ　村へ帰ろう。": "It's a long story... Now, to the village..."
-    },
-    "51": {
-        "「ギュランには　わしの方から|　うまいこと言っておく。とにかく|　ここでのことは　だまっていてくれ。": "I'll tell you what... Anyway, I'll keep my|mouth shut about what happened here..."
-    },
-    "52": {
-        "「これは　わしとお前の　約束だ。|　よいな？　ガハハハ！": "This is between you and me... Okay? Ha-ha-ha!"
-    }
+  "1": {
+    "「おお　<pc>か。|　よく来てくれたな。": "oh!<pc> I see. You come here often..."
+  },
+  "2": {
+    "「村王に　用だったか？|　残念だが　村王は　このところ不在がちでな。|　また　来てもらえるか。": "You wanted to see the Village King? I'm|sorry, but the Village King has been absent|for some time... You'll have to come back..."
+  },
+  "3": {
+    "「いや……。ちょっと待ってくれるか。": "No, no, no. Just give me a second..."
+  },
+  "4": {
+    "「じつは　村王が　不在がちなことについて|　相談があるのだ……。": "Actually, I'd like to consult with the|Village King about his frequent absences..."
+  },
+  "5": {
+    "「<pc>が　雪山から|　村王を　救出してくれた日から|　どうも村王は　様子が　おかしくてな。": ""
+  },
+  "6": {
+    "「先日の儀式のように　子供たちに何かを教えたり|　自分の役目を　人に引き継いだり|　次々に　身の回りの整理を　始めていてな……。": "I've been teaching my children things,|passing on my duties to others, like the|ritual I did the other day, and I've started|<br>|organizing my life one thing after another..."
+  },
+  "7": {
+    "「最初は　トシを気にされてのことかと|　見守っていたが　最近は　それも　少々|　行き過ぎではないかと　感じるほどなのだ。": "At first, I thought he was concerned about|his age, but lately, I've felt that he's gone|a little too far..."
+  },
+  "8": {
+    "「まるで……村王は　この村を|　出ていこうとでもしているのではないかと|　思うほどに……。": "It was as if... It's as if the village king|is trying to leave this village."
+  },
+  "9": {
+    "「思いすごしであれば　よいのだが|　<pc>には　村王が　村を不在にして|　何をしているのかを　調べてほしいのだ。": "I hope it's all in vain|<pc> I want you to find out what the village king|has been doing away from the village."
+  },
+  "10": {
+    "「それさえわかれば　私も　安心できる。|　もちろん　村王には　内密の上でだが|　やってもらえるだろうか？": "I'd feel a lot better if I knew that. Of|course, we'll have to keep this a secret from|the village king, but will you do it?"
+  },
+  "11": {
+    "「おおっ　本当か！　恩に着るぞ！": "Oh, really? ! I'm in your debt!"
+  },
+  "12": {
+    "「そういうことなら　まずは　村人たちから|　目撃情報を集めるのが　よいだろう。|　村王は　どこにいても　目立つからな。": "If that's the case, we'd better start|gathering sightings from the villagers... A|village king stands out no matter where he|<br>|is."
+  },
+  "13": {
+    "「それでは　よろしく頼んだぞ！": "I'll see you soon!"
+  },
+  "14": {
+    "「おおっ　恩に着るぞ……と言いたいところだが|　どうやら　今は　頼まれごとが|　いっぱいのようだな……。": "Oh, I'm in your debt... I'd say you owe me a|favor, but it looks like you've got a lot on|your plate right now."
+  },
+  "15": {
+    "「無理強いはできんが|　できるなら　手を空けてきて|　私の頼みを　聞いてほしいところだ。": ""
+  },
+  "16": {
+    "「そ　そうか……。|　では　気が変わったら　また来てくれ。|　取りかえしのつかないことになる前にな……。": "Okay, well... Well, if you change your mind,|I'll come back... Before it's too late..."
+  },
+  "17": {
+    "「おお　<pc>。|　また来てくれたか。|　私の頼みを　聞いてくれるのだな？": "oh!<pc> I'll be back. You'll come back... You'll do|what I ask, won't you?"
+  },
+  "18": {
+    "「<pc>が　雪山から|　村王を　救出してくれた日から|　どうも村王は　様子が　おかしくてな。": ""
+  },
+  "19": {
+    "「次々に　身辺整理を始められ|　まるで……村王は　この村から出ていこうとでも|　お考えなのではないかと　思うほどに……。": "One by one, they began to arrange their|affairs, as if... It was as if the village|king was thinking of leaving the village."
+  },
+  "20": {
+    "「<pc>には　村王が　何をしているのかを|　調べてほしいのだ。もちろん　村王には|　内密の上でな。やってもらえるか？": "<pc> I want you to find out what the Village King|is up to... Of course, we'd like you to keep|it a secret... Will you do it?"
+  },
+  "21": {
+    "「おお　<pc>。|　村王が　何をしているかは|　まだ調査中のようだな。": ""
+  },
+  "22": {
+    "「調査の基本は足だ！　とにかく　村人たちから|　目撃情報を集めるのが　よいだろう。|　村王は　どこにいても　目立つからな。": "It's all about feet! Anyway, we should|collect sightings from the villagers... A|village king stands out no matter where he|<br>|is."
+  },
+  "23": {
+    "「私も　ずいぶん　トシをとりました。|　……なにしろ　あれから２０年です。": "I'm getting old... ... After all, it's been|20 years since..."
+  },
+  "24": {
+    "「あなたの血を引く息子が　極限まで|　きたえあげて……　わしを　殺しにきます。|　きっと　想像を絶する強さでしょうな。": "Your son, your son's blood, he's been working|himself to the bone. He wanted to kill me. He|must have been unimaginably strong."
+  },
+  "25": {
+    "「わしは　逃げも隠れもしません。|　今　持っている　すべてのチカラで|　ただ　受けて立つのみです……。": "I will neither run nor hide... I'll just take|it with everything I've got."
+  },
+  "26": {
+    "「おお　<pc>……か？|　こんな所で　いったい何を……": "oh!<pc> ... What? What the hell are you doing here?"
+  },
+  "27": {
+    "「……なるほど。|　おおかた　ギュランのやつが探させたのだろう。|　まったく　あいつは　心配性だな。": "... I don't know. It's mostly Gulan's|fault... I'm so worried about him..."
+  },
+  "28": {
+    "「ギュランは　子供の頃から　身体が弱かった。|　だが　生来の負けず嫌いでな。|　身体が弱い分　とにかく熱心に勉強した。": "Güran has always been weak, even as a child.|But he's always had a competitive streak. So|he studied hard..."
+  },
+  "29": {
+    "「そのかいあって　今では　オーガの中では|　飛び抜けて　アタマがいい。わしは　あいつの|　そんなところを気に入って　側近にした。": "And now, thanks to his efforts, he's the|smartest ogre I've ever met. That's what I|like about him. He's my aide."
+  },
+  "30": {
+    "「しかし……　ギュランに|　心配をかけたのは　無理もなかったか……。": "But... I suppose I had every right to worry|about you."
+  },
+  "31": {
+    "「<pc>よ。この墓はな　わしが若い頃|　互いに切磋琢磨した　兄貴分の墓なのだ。": "<pc> Hey. This grave is the grave of a brother|with whom I had a friendly competition when|we were young."
+  },
+  "32": {
+    "「名を　ガガベスといった。|　わしなどよりも　はるかに強く　史上最強の|　チャンピオンと呼ばれた　村の英雄だった。": "His name was Gargabeth. He was much stronger|than I was, and was called the greatest|champion of all time... the hero of his|<br>|village."
+  },
+  "33": {
+    "「わしは　何度　挑んでも|　まったく　ガガベスに　歯が立たなかった。|　だが　ある日の　試合でのことだ……。": "No matter how many times I tried, I was no|match for Gaga Beth. But then one day, in a|match..."
+  },
+  "34": {
+    "「わしの拳が　吸い込まれるように|　ガガベスの　みぞおちに入ってしまった……。": "My fist was sucked into Gabe's gut..."
+  },
+  "35": {
+    "「それは　ただの幸運な一撃に過ぎなかった。|　だが　ガガベスは　その一撃によって|　そのまま　武闘場の上で　この世を去ったのだ。": "It was just a lucky shot... But it was a blow|that caused Gargabez to leave this world on|the battlefield..."
+  },
+  "36": {
+    "「あまりのことに　わしは唖然としていたが|　新たなチャンピオンの誕生に|　村の人々は　沸き返った。": "I was stunned by the news, but the people of|the village were thrilled to have a new|champion..."
+  },
+  "37": {
+    "「当時のランガーオ村は　なによりも|　勝つことこそが　尊ばれた時代だったのだ。": "In those days, the village of Langao was a|place where winning was the most important|thing..."
+  },
+  "38": {
+    "「そして　敗者には　残酷な仕打ちが与えられた。|　英雄だったガガベスの地位は|　死によって　一瞬にして　地に墜ちた。": "And the losers are dealt a cruel blow...|Gagabeth's status as a hero was destroyed in|an instant by death."
+  },
+  "39": {
+    "「ガガベスには　奥さんと　息子がいたが|　それ以来　弱き者の家族として　しいたげられ|　ひどく貧しい生活を　強いられたと聞く……。": "I'm told that Gabez had a wife and a son, but|since then they've been reduced to a family|of weaklings and forced to live in abject|<br>|poverty..."
+  },
+  "40": {
+    "「苦労がたたってか　奥さんは　数年後になくなり|　息子が　ひとり残された。": "His wife died a few years later, leaving him|with a son..."
+  },
+  "41": {
+    "「その息子の名は　ガガイ……。|　当時　まだ６才だったガガイは|　ある日　わしの前に来て　こう言った。": "His name was Gagai... He was only six years|old at the time, but one day he came to me|and said..."
+  },
+  "42": {
+    "「いつか　必ず　お前を殺す。|　そのために　どんなことでもする……とな。": "One day, I promise you... I'll do whatever it|takes to make that happen. ....."
+  },
+  "43": {
+    "「……今から　２０年前のことだ。|　ガガイは　そのまま村を出ていき　ずっと|　生きているかどうかさえ　わからなかった。": "... Twenty years ago now... Gagai left the|village, and we don't even know if he's still|alive..."
+  },
+  "44": {
+    "「そして　お前に助けてもらった　あの日……|　そのガガイから　手紙が来たのだ。": "And the day you saved my life... I got a|letter from that gagai..."
+  },
+  "45": {
+    "「手紙には　ただ一言　こう書いてあった。|　お前を　殺しにいく……とな。": "The only thing he wrote in his letter was...|I'm coming to kill you. ....."
+  },
+  "46": {
+    "「わしは老いたが　逃げも隠れもせん。|　むしろ　こちらから　ガガイの所に|　出向いていこうと思っているのだ。": "I'm old, but I can't run and hide... I'd|rather go to Gagai's place myself..."
+  },
+  "47": {
+    "「勝つことは　難しいだろう……。|　だが　わしは　持てるチカラの　すべてをかけて|　やつとの勝負に　臨まねばならん。": "It's going to be hard to beat him. But I'll|have to give it everything I've got to beat|him."
+  },
+  "48": {
+    "「いらぬ心配は　かけたくない。|　このことは　ギュランや　村の連中には|　どうか　だまっていてくれ。": "I didn't mean to worry you... Please don't|tell Guillain or the others in the village|about this..."
+  },
+  "49": {
+    "「これが　わしの最後の戦いだ。": "This is the last of my..."
+  },
+  "50": {
+    "「すっかり　長話になってしまったな。|　さあ　村へ帰ろう。": "It's a long story... Now, to the village..."
+  },
+  "51": {
+    "「ギュランには　わしの方から|　うまいこと言っておく。とにかく|　ここでのことは　だまっていてくれ。": "I'll tell you what... Anyway, I'll keep my|mouth shut about what happened here..."
+  },
+  "52": {
+    "「これは　わしとお前の　約束だ。|　よいな？　ガハハハ！": "This is between you and me... Okay? Ha-ha-ha!"
+  }
 }

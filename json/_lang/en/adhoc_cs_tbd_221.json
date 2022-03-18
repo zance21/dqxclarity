@@ -1,152 +1,152 @@
 {
-    "1": {
-        "「修行にかこつけて　また　何か|　<pc>に　ロクでもないことを|　させようとしてんじゃないでしょうね？": "I'm going to do something else for my training|<pc> I don't think you're trying to get me to do|something stupid, are you?"
-    },
-    "2": {
-        "「……チッ！|　うるせーのが　来やがった。": "... Shit! Shut the fuck up."
-    },
-    "3": {
-        "「<pc>。この間みたいに|　借金のカタに　売られそうになったりしたら|　オレに　相談してくれよ。": "<pc> I'm sorry. If you're about to be sold to pay|off a debt like the other day, you can talk|to me..."
-    },
-    "4": {
-        "「ちげえって！　今回は　なんと|　<pc>のファンからの　ご指名で|　仕事の依頼が　飛び込んだのさ。": "No, no, no! This time...<pc> I've been getting a lot of calls from fans of|my work."
-    },
-    "5": {
-        "「……ふむ。名前も名乗らずに　呼びだして|　仕事の内容も　現地で説明か……|　ずいぶん　ウサン臭い　依頼だな。": "..... He didn't even tell me his name, just|called me up and told me what he was doing.|I'm not sure what to make of that."
-    },
-    "6": {
-        "「まあ　むこうにも都合が　あるのかもな？|　それより　ご指名で　仕事を依頼してくる|　ファンができるなんて　たいしたもんだ！": "Well, maybe they have their own reasons, huh?|Anyway, it's great to have an admirer who's|willing to give you a job!"
-    },
-    "7": {
-        "「とりあえず　依頼人に会ってみて|　あんまり　怪しい依頼なら　断ればいいさ。|　<pc>が　自分で　判断するといい。": "Just meet the client, and if the request|seems too suspicious, just turn it down.<pc> But I'll be the judge of that."
-    },
-    "8": {
-        "「……ぐぬぬっ。おのれ　セインズ。|　これじゃ　誰が　<pc>の師匠か|　わかんねーじゃねえか！": "... You... Hey, Se... Who the hell is this?<pc> I don't even know if you're the master of"
-    },
-    "9": {
-        "「おお　これは　<pc>選手。|　このような遠方まで　よく来てくださいました。": "Oh, look at that<pc> Players. Thank you for coming to such a|distant place..."
-    },
-    "10": {
-        "「私は　ワケあって名前は　明らかにできない|　さる人物の　代理人を務める者です。|　ええ。あなたのファンだという方のことですよ。": "I'm representing someone whose name escapes|me for some reason. ... Someone who claims to|be a fan of yours..."
-    },
-    "11": {
-        "「では　さっそく　仕事の話に入りましょう。|　今回の依頼は　難しいものではないのですが|　バトルマスターにしか　できないもので……。": "Let's get down to business... This request is|not a difficult one, but it is one that only|a battlemaster can fulfill..."
-    },
-    "12": {
-        "「そこで　我が主の意向により|　あなたに　白羽の矢が立ったというわけです。": "And so, it is my Lord's wish that you should|be the one..."
-    },
-    "13": {
-        "「この洞くつに出現する　<%sEV_QUE_NAME0>は|　とうこん討ちを使って　とどめをさされた時だけ|　月光の花という　めずらしい花を落とします。": "The <%sEV_QUE_NAME0> that appears in this|cave only drops a rare flower called the|Moonlight Flower when it is struck down with|<br>|the..."
-    },
-    "14": {
-        "「この花には　赤　白　青の３色がありまして。|　あなたへの依頼というのは　この３色の花を　|　すべて　集めてほしいというものなのです。": "This flower comes in three colors, red, white|and blue. Your request is to collect all the|flowers of these three colors."
-    },
-    "15": {
-        "「報酬には　<%sEV_FEE_ITEM_A>という|　バトルマスター専用の|　ヘッドバンドを　用意しております。": "For your reward, we've prepared a special|Battlemaster headband called|<%sEV_FEE_ITEM_A>..."
-    },
-    "16": {
-        "「おお　ありがとうございます！|　さすがは　我が主の見込んだ方ですな。": "Oh, thank you! That's my Lord's|expectation..."
-    },
-    "17": {
-        "「それでは　私は　いったん　|　失礼させていただきます。|　いろいろと　忙しい身でしてね。": "Now, if you'll excuse me... I have a lot on|my plate..."
-    },
-    "18": {
-        "「月光の花が　３色　集まった頃に|　また　ここへ来ますので　あなたも|　こちらまで　戻ってきてください。": "I'll come back here when the three colors of|moonlight have gathered, so please come back|here too..."
-    },
-    "19": {
-        "「それでは　また後ほど。|　くれぐれも　よろしくお願いしますよ。": "See you soon. I look forward to working with|you again."
-    },
-    "20": {
-        "「おお　ありがとうございます！|　……と言いたいところですが　どうやら|　他に依頼を　たくさん　抱えている様子。": "Oh, thank you! I'd say... I'd like to say so,|but apparently I have many other requests..."
-    },
-    "21": {
-        "「さすがは　我が主の見込んだ方。|　引く手あまたということですな。": "That's what my Lord expects... I'm sure he'll|be very popular..."
-    },
-    "22": {
-        "「さあ　はやく　他の頼みごとを片付けてきて|　また　ここまで　来てくださいね。": "Now, go take care of your other business and|come back here..."
-    },
-    "23": {
-        "「なんと！　それは　困りましたな。|　私も　主の手前　断られたからといって|　はい　そうですかとは　退けないのですが……": "Oh, my God! That's troubling... I can't say|no to the Lord just because he refuses,|but..."
-    },
-    "24": {
-        "「しかし　ここで　にらみあってても仕方ない。|　もし　考えが変わったら　また　来てください。|　私は　それを信じて　待っていますよ。": "But we can't just sit here and stare at each|other... If you change your mind, please come|back... I'll be waiting for you..."
-    },
-    "25": {
-        "「おお。来てくださったということは|　今度こそ　我が主からの依頼を|　引き受けてくれるつもりなのですね？": "Oh. Since you're here, I take it you'll be|accepting my master's request this time?"
-    },
-    "26": {
-        "「この洞くつに出現する　<%sEV_QUE_NAME0>は|　とうこん討ちを使って　とどめをさされた時だけ|　月光の花という　めずらしい花を落とします。": "The <%sEV_QUE_NAME0> that appears in this|cave only drops a rare flower called the|Moonlight Flower when it is struck down with|<br>|the..."
-    },
-    "27": {
-        "「この花には　赤　白　青の３色がありまして。|　あなたへの依頼というのは　この３色の花を　|　すべて　集めてほしいというものなのです。": "This flower comes in three colors, red, white|and blue. Your request is to collect all the|flowers of these three colors."
-    },
-    "28": {
-        "「報酬には　<%sEV_FEE_ITEM_A>という|　バトルマスター専用の|　ヘッドバンドを　用意しております。": "For your reward, we've prepared a special|Battlemaster headband called|<%sEV_FEE_ITEM_A>..."
-    },
-    "29": {
-        "「どうやら　３色の　月光の花を|　集めてきていただけたようですね。|　さあ　こちらに　お渡しください。": "It seems you've collected three colors of|moonlight flowers... Now, give them to me..."
-    },
-    "30": {
-        "<pc>は　代理人に|３色の　月光の花を　渡した！": "<pc> gave the agent three different colors of|moonlight flowers!"
-    },
-    "31": {
-        "「……確かに　受け取りました。|　これで　貴重な花束が　作れますよ。|　フフフフ……。": "... I'm sure I'll get it. Now you can make|your precious bouquet... Mmm-hmm..."
-    },
-    "32": {
-        "「それでは　こちらが　約束の報酬です。|　どうぞ　お受け取り下さい。": "Okay, this is the promised news. Please, take|this..."
-    },
-    "33": {
-        "「では　私は　これで|　失礼させていただきます。|　なにせ　忙しい身でしてね。": "Now, if you'll excuse me... I'm a very busy|man..."
-    },
-    "34": {
-        "「ガル……ガルルル……！": "Gul... Garrrrr...!"
-    },
-    "35": {
-        "「ガルルル……！　グルワーーッ！！": "Gululu...! Grrrr!"
-    },
-    "36": {
-        "「ちょいと　待ちなっ！": "Wait a minute!"
-    },
-    "37": {
-        "「どうも　こいつら　正気じゃねーみてえだ。|　今は　下手に刺激しないほうが　いい！": "Thank you. These people are out of their|minds. I don't think it's a good idea to|provoke them right now."
-    },
-    "38": {
-        "「……なるほど。アンタから臭ってくる|　独特の香りが　デンタザウルスを|　コーフンさせてるみたいだな。": "... I... It seems that the unique scent|coming from you is making the Dentasaurus|happy..."
-    },
-    "39": {
-        "「とりあえず　緊急措置だ！|　悪く思うなよ。": "Anyway, emergency measures! No offense..."
-    },
-    "40": {
-        "仮面バスターは　<pc>に|どくどくヘドロを　振りかけた！": "The masked buster is<pc> He sprinkled sludge on it!"
-    },
-    "41": {
-        "辺りに　きつい臭いが広がって|デンタザウルスたちは|クモの子を散らすように　逃げていった！": "The smell spread like wildfire, and the|Dentasaurus fled like spiders!"
-    },
-    "42": {
-        "「……ほう　月光の花集めね。|　そんな仕事を　頼まれてたのか。": "... The moonlight flowers... I've been asked|to do something like that..."
-    },
-    "43": {
-        "「そういえば　聞いたことがあるぜ。|　３色の　月光の花の香りが　混じると|　デンタザウルスを　呼び寄せるってな。": "You know, I've heard that... The scent of the|three colors of moonlight flowers, when mixed|together, will attract Dentasaurus..."
-    },
-    "44": {
-        "「おまけに　デンタザウルスってのは|　本来　この辺りには　いない魔物だ。|　どこから　まぎれ込んだのやら……。": "And on top of that, there's a Dentasaurus|that's not supposed to be around here. I|don't know how they got in here."
-    },
-    "45": {
-        "「どうやら　アンタ　何か面倒ごとに|　巻き込まれたみたいだな。|　こりゃ　陰謀の臭いが　プンプンするぜ。": "It looks like you've gotten yourself into|some kind of trouble. I'm getting a whiff of|a conspiracy here."
-    },
-    "46": {
-        "「だが　まずは　どくどくヘドロの臭いを|　どうにかすべきだな。ここにいると　|　鼻がひん曲がりそうなんで　オレは退散するよ。": "But first, we need to get rid of that|dreadful smell of sludge. I'm afraid my nose|is going to get twisted if I stay here, so|<br>|I'm going to leave..."
-    },
-    "47": {
-        "「……どうでしょう？|　３色の月光の花　集めてもらえますか？": "... What do you think? Can you collect the|three colors of moonlight flowers?"
-    },
-    "48": {
-        "「報酬には　<%sEV_FEE_ITEM_A>を|　用意しております。どうでしょう？|　３色の月光の花　集めてもらえますか？": "We'll have <%sEV_FEE_ITEM_A> for the|reward... What do you think? Can you collect|the three colors of moonlight flowers?"
-    },
-    "49": {
-        "「……どうでしょう？|　３色の月光の花　集めてもらえますか？": "... What do you think? Can you collect the|three colors of moonlight flowers?"
-    },
-    "50": {
-        "「報酬には　<%sEV_FEE_ITEM_A>を|　用意しております。どうでしょう？|　３色の月光の花　集めてもらえますか？": "We'll have <%sEV_FEE_ITEM_A> for the|reward... What do you think? Can you collect|the three colors of moonlight flowers?"
-    }
+  "1": {
+    "「修行にかこつけて　また　何か|　<pc>に　ロクでもないことを|　させようとしてんじゃないでしょうね？": "I'm going to do something else for my training|<pc> I don't think you're trying to get me to do|something stupid, are you?"
+  },
+  "2": {
+    "「……チッ！|　うるせーのが　来やがった。": "... Shit! Shut the fuck up."
+  },
+  "3": {
+    "「<pc>。この間みたいに|　借金のカタに　売られそうになったりしたら|　オレに　相談してくれよ。": "<pc> I'm sorry. If you're about to be sold to pay|off a debt like the other day, you can talk|to me..."
+  },
+  "4": {
+    "「ちげえって！　今回は　なんと|　<pc>のファンからの　ご指名で|　仕事の依頼が　飛び込んだのさ。": "No, no, no! This time...<pc> I've been getting a lot of calls from fans of|my work."
+  },
+  "5": {
+    "「……ふむ。名前も名乗らずに　呼びだして|　仕事の内容も　現地で説明か……|　ずいぶん　ウサン臭い　依頼だな。": "..... He didn't even tell me his name, just|called me up and told me what he was doing.|I'm not sure what to make of that."
+  },
+  "6": {
+    "「まあ　むこうにも都合が　あるのかもな？|　それより　ご指名で　仕事を依頼してくる|　ファンができるなんて　たいしたもんだ！": "Well, maybe they have their own reasons, huh?|Anyway, it's great to have an admirer who's|willing to give you a job!"
+  },
+  "7": {
+    "「とりあえず　依頼人に会ってみて|　あんまり　怪しい依頼なら　断ればいいさ。|　<pc>が　自分で　判断するといい。": "Just meet the client, and if the request|seems too suspicious, just turn it down.<pc> But I'll be the judge of that."
+  },
+  "8": {
+    "「……ぐぬぬっ。おのれ　セインズ。|　これじゃ　誰が　<pc>の師匠か|　わかんねーじゃねえか！": "... You... Hey, Se... Who the hell is this?<pc> I don't even know if you're the master of"
+  },
+  "9": {
+    "「おお　これは　<pc>選手。|　このような遠方まで　よく来てくださいました。": "Oh, look at that<pc> Players. Thank you for coming to such a|distant place..."
+  },
+  "10": {
+    "「私は　ワケあって名前は　明らかにできない|　さる人物の　代理人を務める者です。|　ええ。あなたのファンだという方のことですよ。": "I'm representing someone whose name escapes|me for some reason. ... Someone who claims to|be a fan of yours..."
+  },
+  "11": {
+    "「では　さっそく　仕事の話に入りましょう。|　今回の依頼は　難しいものではないのですが|　バトルマスターにしか　できないもので……。": "Let's get down to business... This request is|not a difficult one, but it is one that only|a battlemaster can fulfill..."
+  },
+  "12": {
+    "「そこで　我が主の意向により|　あなたに　白羽の矢が立ったというわけです。": "And so, it is my Lord's wish that you should|be the one..."
+  },
+  "13": {
+    "「この洞くつに出現する　<%sEV_QUE_NAME0>は|　とうこん討ちを使って　とどめをさされた時だけ|　月光の花という　めずらしい花を落とします。": "The <%sEV_QUE_NAME0> that appears in this|cave only drops a rare flower called the|Moonlight Flower when it is struck down with|<br>|the..."
+  },
+  "14": {
+    "「この花には　赤　白　青の３色がありまして。|　あなたへの依頼というのは　この３色の花を　|　すべて　集めてほしいというものなのです。": "This flower comes in three colors, red, white|and blue. Your request is to collect all the|flowers of these three colors."
+  },
+  "15": {
+    "「報酬には　<%sEV_FEE_ITEM_A>という|　バトルマスター専用の|　ヘッドバンドを　用意しております。": "For your reward, we've prepared a special|Battlemaster headband called|<%sEV_FEE_ITEM_A>..."
+  },
+  "16": {
+    "「おお　ありがとうございます！|　さすがは　我が主の見込んだ方ですな。": "Oh, thank you! That's my Lord's|expectation..."
+  },
+  "17": {
+    "「それでは　私は　いったん　|　失礼させていただきます。|　いろいろと　忙しい身でしてね。": "Now, if you'll excuse me... I have a lot on|my plate..."
+  },
+  "18": {
+    "「月光の花が　３色　集まった頃に|　また　ここへ来ますので　あなたも|　こちらまで　戻ってきてください。": "I'll come back here when the three colors of|moonlight have gathered, so please come back|here too..."
+  },
+  "19": {
+    "「それでは　また後ほど。|　くれぐれも　よろしくお願いしますよ。": "See you soon. I look forward to working with|you again."
+  },
+  "20": {
+    "「おお　ありがとうございます！|　……と言いたいところですが　どうやら|　他に依頼を　たくさん　抱えている様子。": "Oh, thank you! I'd say... I'd like to say so,|but apparently I have many other requests..."
+  },
+  "21": {
+    "「さすがは　我が主の見込んだ方。|　引く手あまたということですな。": "That's what my Lord expects... I'm sure he'll|be very popular..."
+  },
+  "22": {
+    "「さあ　はやく　他の頼みごとを片付けてきて|　また　ここまで　来てくださいね。": "Now, go take care of your other business and|come back here..."
+  },
+  "23": {
+    "「なんと！　それは　困りましたな。|　私も　主の手前　断られたからといって|　はい　そうですかとは　退けないのですが……": "Oh, my God! That's troubling... I can't say|no to the Lord just because he refuses,|but..."
+  },
+  "24": {
+    "「しかし　ここで　にらみあってても仕方ない。|　もし　考えが変わったら　また　来てください。|　私は　それを信じて　待っていますよ。": "But we can't just sit here and stare at each|other... If you change your mind, please come|back... I'll be waiting for you..."
+  },
+  "25": {
+    "「おお。来てくださったということは|　今度こそ　我が主からの依頼を|　引き受けてくれるつもりなのですね？": "Oh. Since you're here, I take it you'll be|accepting my master's request this time?"
+  },
+  "26": {
+    "「この洞くつに出現する　<%sEV_QUE_NAME0>は|　とうこん討ちを使って　とどめをさされた時だけ|　月光の花という　めずらしい花を落とします。": "The <%sEV_QUE_NAME0> that appears in this|cave only drops a rare flower called the|Moonlight Flower when it is struck down with|<br>|the..."
+  },
+  "27": {
+    "「この花には　赤　白　青の３色がありまして。|　あなたへの依頼というのは　この３色の花を　|　すべて　集めてほしいというものなのです。": "This flower comes in three colors, red, white|and blue. Your request is to collect all the|flowers of these three colors."
+  },
+  "28": {
+    "「報酬には　<%sEV_FEE_ITEM_A>という|　バトルマスター専用の|　ヘッドバンドを　用意しております。": "For your reward, we've prepared a special|Battlemaster headband called|<%sEV_FEE_ITEM_A>..."
+  },
+  "29": {
+    "「どうやら　３色の　月光の花を|　集めてきていただけたようですね。|　さあ　こちらに　お渡しください。": "It seems you've collected three colors of|moonlight flowers... Now, give them to me..."
+  },
+  "30": {
+    "<pc>は　代理人に|３色の　月光の花を　渡した！": "<pc> gave the agent three different colors of|moonlight flowers!"
+  },
+  "31": {
+    "「……確かに　受け取りました。|　これで　貴重な花束が　作れますよ。|　フフフフ……。": "... I'm sure I'll get it. Now you can make|your precious bouquet... Mmm-hmm..."
+  },
+  "32": {
+    "「それでは　こちらが　約束の報酬です。|　どうぞ　お受け取り下さい。": "Okay, this is the promised news. Please, take|this..."
+  },
+  "33": {
+    "「では　私は　これで|　失礼させていただきます。|　なにせ　忙しい身でしてね。": "Now, if you'll excuse me... I'm a very busy|man..."
+  },
+  "34": {
+    "「ガル……ガルルル……！": "Gul... Garrrrr...!"
+  },
+  "35": {
+    "「ガルルル……！　グルワーーッ！！": "Gululu...! Grrrr!"
+  },
+  "36": {
+    "「ちょいと　待ちなっ！": "Wait a minute!"
+  },
+  "37": {
+    "「どうも　こいつら　正気じゃねーみてえだ。|　今は　下手に刺激しないほうが　いい！": "Thank you. These people are out of their|minds. I don't think it's a good idea to|provoke them right now."
+  },
+  "38": {
+    "「……なるほど。アンタから臭ってくる|　独特の香りが　デンタザウルスを|　コーフンさせてるみたいだな。": "... I... It seems that the unique scent|coming from you is making the Dentasaurus|happy..."
+  },
+  "39": {
+    "「とりあえず　緊急措置だ！|　悪く思うなよ。": "Anyway, emergency measures! No offense..."
+  },
+  "40": {
+    "仮面バスターは　<pc>に|どくどくヘドロを　振りかけた！": "The masked buster is<pc> He sprinkled sludge on it!"
+  },
+  "41": {
+    "辺りに　きつい臭いが広がって|デンタザウルスたちは|クモの子を散らすように　逃げていった！": "The smell spread like wildfire, and the|Dentasaurus fled like spiders!"
+  },
+  "42": {
+    "「……ほう　月光の花集めね。|　そんな仕事を　頼まれてたのか。": "... The moonlight flowers... I've been asked|to do something like that..."
+  },
+  "43": {
+    "「そういえば　聞いたことがあるぜ。|　３色の　月光の花の香りが　混じると|　デンタザウルスを　呼び寄せるってな。": "You know, I've heard that... The scent of the|three colors of moonlight flowers, when mixed|together, will attract Dentasaurus..."
+  },
+  "44": {
+    "「おまけに　デンタザウルスってのは|　本来　この辺りには　いない魔物だ。|　どこから　まぎれ込んだのやら……。": "And on top of that, there's a Dentasaurus|that's not supposed to be around here. I|don't know how they got in here."
+  },
+  "45": {
+    "「どうやら　アンタ　何か面倒ごとに|　巻き込まれたみたいだな。|　こりゃ　陰謀の臭いが　プンプンするぜ。": "It looks like you've gotten yourself into|some kind of trouble. I'm getting a whiff of|a conspiracy here."
+  },
+  "46": {
+    "「だが　まずは　どくどくヘドロの臭いを|　どうにかすべきだな。ここにいると　|　鼻がひん曲がりそうなんで　オレは退散するよ。": "But first, we need to get rid of that|dreadful smell of sludge. I'm afraid my nose|is going to get twisted if I stay here, so|<br>|I'm going to leave..."
+  },
+  "47": {
+    "「……どうでしょう？|　３色の月光の花　集めてもらえますか？": "... What do you think? Can you collect the|three colors of moonlight flowers?"
+  },
+  "48": {
+    "「報酬には　<%sEV_FEE_ITEM_A>を|　用意しております。どうでしょう？|　３色の月光の花　集めてもらえますか？": "We'll have <%sEV_FEE_ITEM_A> for the|reward... What do you think? Can you collect|the three colors of moonlight flowers?"
+  },
+  "49": {
+    "「……どうでしょう？|　３色の月光の花　集めてもらえますか？": "... What do you think? Can you collect the|three colors of moonlight flowers?"
+  },
+  "50": {
+    "「報酬には　<%sEV_FEE_ITEM_A>を|　用意しております。どうでしょう？|　３色の月光の花　集めてもらえますか？": "We'll have <%sEV_FEE_ITEM_A> for the|reward... What do you think? Can you collect|the three colors of moonlight flowers?"
+  }
 }

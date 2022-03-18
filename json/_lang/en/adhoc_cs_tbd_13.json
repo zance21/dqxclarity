@@ -1,170 +1,170 @@
 {
-    "1": {
-        "「……む？|　そこにいるのは　<pc>ではないか。": "... No? There you are.<pc> So..."
-    },
-    "2": {
-        "「……ふむ。ここは　ひとつ|　<pc>に　頼むとしよう。|　それでよいな　スピンドル？": "..... Here is one.<pc> I'll ask... Is that all right, Spindle?"
-    },
-    "3": {
-        "「陛下の思し召しのままに……。|　それでは　私は　負傷兵たちの様子を|　見てくるとしましょう。": "As you wish, Your Majesty. Then I will go and|check on the wounded soldiers."
-    },
-    "4": {
-        "「よく来てくれた　<pc>。|　じつは　ちょっとした問題が起こっていてな。|　お前さんに　頼みたいことがあるのだ。": "Thank you for coming<pc> I'm sorry. Actually, there's a little|problem... I've got a favor to ask you..."
-    },
-    "5": {
-        "「マグナスよ。|　くわしい説明を　してやってくれ。": "Mag... I'll give you a full explanation..."
-    },
-    "6": {
-        "「<pc>さんは　ガズバランの牙のことを|　ご存知でしたな。先日の魔物狩りの際に|　王を狙った　不届きな秘密結社のことです。": "<pc> You know about Ghazbalan's fangs... I'm sure|you've heard of the secret society of misfits|who targeted the king during the recent demon|<br>|hunt..."
-    },
-    "7": {
-        "「私は　あれから　連中のアジトを調べだし|　一網打尽に　捕らえるべく　その洞くつに|　精鋭部隊の一団を　送り込んだのです。": "Since then, I've tracked down their hideout|and sent a team of elite troops into that|cave to capture them once and for all."
-    },
-    "8": {
-        "「しかし　兵士たちが　踏み込んでも|　洞くつ内に　ヤツらの姿はなく|　代わりに　多数の魔物に　襲われたのです。": "But when the soldiers stepped into the cave,|there was no sign of them, and instead, they|were attacked by a multitude of demons..."
-    },
-    "9": {
-        "「こちらの不意打ちのはずが　ガズバランの牙は|　知っていたかのように　ワナを張っていました。|　完全に　してやられたのです。": "This was supposed to be a surprise attack,|but Ghazbalan's fangs were trapped, as if he|knew... I've been completely outwitted."
-    },
-    "10": {
-        "「思いがけない襲撃に　兵士たちは　総崩れ。|　ほとんどの兵士は　なんとか　脱出しましたが|　今も　２名の兵士が　取り残されています。": "The soldiers were unexpectedly attacked...|Most of them managed to escape, but there are|still two soldiers left behind..."
-    },
-    "11": {
-        "「すぐにも　彼らの救出に向かいたいのですが|　我が軍が受けたダメージも　深刻でして|　助けにいこうにも……という状況なのです。": "I'd like to go and rescue them right away,|but our forces have sustained too much damage|to be able to... I'm sorry."
-    },
-    "12": {
-        "「そこでだ　<pc>よ。|　お前さんに　この２名の兵士の救出を|　頼みたいというわけじゃ。": "There<pc> Yeah. I need you to help me rescue these two|soldiers."
-    },
-    "13": {
-        "「ガズバランの牙のアジトは　グレン領西の|　南西にある　グレゴールの洞くつじゃ。|　どうか　引き受けてはくれまいか？": "Ghazvalan's Fang's hideout is in the|southwest of western Gulen territory, in the|caves of Gregor... Please, will you take this|<br>|on?"
-    },
-    "14": {
-        "「さすがは　<pc>じゃ。|　お前さんなら　引き受けてくれると|　信じていたぞ！": "as one would expect<pc> Bye. I knew you'd take care of this!"
-    },
-    "15": {
-        "「取り残された兵士たちは　今も|　暗い洞くつで　助けを待っているはず。|　一刻も早く　救出してやってくれ。": "The soldiers who were left behind are still|waiting in the dark caves for help. We have|to get them out of here as soon as possible."
-    },
-    "16": {
-        "「さすがは　<pc>。|　……と言いたいところだが　どうやら|　お前さん　予定が　いっぱいのようじゃな。": "as one would expect<pc> ... I would say... I'd say that, but it looks|like you're all booked up..."
-    },
-    "17": {
-        "「２名の兵士の命が　かかっておるのじゃ！|　できるだけ早く　頼まれごとを片付けて|　また　ここに来てくれよ！": "Two soldiers' lives are at stake! As soon as|possible, finish what you've been asked to do|and come back here!"
-    },
-    "18": {
-        "「<pc>ともあろう者の言葉とは|　とても　思えんな。": "<pc> I don't think that's the word of a fellow..."
-    },
-    "19": {
-        "「おくびょう風に吹かれるとは……|　呪術師マリーンを倒した　あの勇敢な若者は|　どこへ　行ってしまったのじゃろうか？": "What a time to be blown about by a puny|wind... Where has that brave young man gone|who defeated the sorceress Marlene?"
-    },
-    "20": {
-        "「た……助けが　来たのか？": "Oh, my... Did you get help?"
-    },
-    "21": {
-        "「あ…あなたは……！？|　この間の……　マリーン事件を解決した|　ガートラントの英雄　<pc>さん！": "Oh... What are you...? The other day... The|hero of Gartland who solved the Marine case.<pc> Three!"
-    },
-    "22": {
-        "「さすがは……グロスナー王。|　最高の助っ人を……送ってくれたワケだ。": "That's what I'm talking about. Gross... I|have the best help... You sent me..."
-    },
-    "23": {
-        "「……<pc>さん。|　よかったら　どくけしそうと　まんげつそうを|　ゆずっていただけないだろうか？": "<pc> I'm sorry. If you don't mind, I was wondering|if you'd be willing to give me the Dokkeshi-|so and Mangetsu-so."
-    },
-    "24": {
-        "「私は　毒に冒されて　これ以上　歩けないし|　ジブラは　身体がマヒして……動けないのです。": "I'm too poisoned to walk any further, and|Zibra's body is paralyzed... I can't move..."
-    },
-    "25": {
-        "兵士たちに　どくけしそうと　|まんげつそうを　渡しますか？<yesno><close>": "Do you want me to give the soldiers the|dokkeshiso and the mangetsuso?<yesno><close>"
-    },
-    "26": {
-        "「助けにきてもらって……悪いが|　オレたち　このままじゃ動くことも|　ままならないんだ……。": "I'm sorry you had to come. I'm sorry, but we|can't move like this."
-    },
-    "27": {
-        "「もし　持ってないなら　両方そろえてから|　もう１回　ここまで　来てくれよ。": "If you don't have them, get them both, then|come back here one more time..."
-    },
-    "28": {
-        "<pc>は　兵士たちに|どくけしそうと　まんげつそうを　渡した！": "<pc> I'm sure you've heard of it."
-    },
-    "29": {
-        "「おお……　ありがてえ！": "Oh... Thank you!"
-    },
-    "30": {
-        "「毒さえ……抜けてくれれば……。": "If only... I could get rid of the poison."
-    },
-    "31": {
-        "デオルドは　どくけしそうを使い|ジブラは　まんげつそうを使って　回復した！": "Deordo used Doku Keshi-so and Zibra used|Mangetsu-so to recover!"
-    },
-    "32": {
-        "「ああ。すっかり　回復したぜ！|　これなら　あとは　自力で脱出できそうだ。": "Oh. I'm all healed up! Now I just need to get|out of here on my own..."
-    },
-    "33": {
-        "「ありがとうございます　<pc>さん。|　私たちは　もう　大丈夫です！": "Thank you very much<pc> It's okay. We're okay now!"
-    },
-    "34": {
-        "「ガートラント城までは　ふたりで戻れますので|　<pc>さんも　お気をつけて。|　それでは　お先に失礼しますね！": "We can return to Gartrante Castle together|<pc> You, too, take care. If you'll excuse me, I|have to go!"
-    },
-    "35": {
-        "<pc>は　どくけしそうしか|持っていなかった。": "<pc> The only thing I have is a poisonous pistol."
-    },
-    "36": {
-        "「そう……か。相棒とは　ここまで|　はげまし合いながら　やってきたんだ……。|　一方だけが　助かるつもりはねえ。": "Yeah. .... You know, my partner and I, we've|been through so much together... I don't want|to be the one to save the day."
-    },
-    "37": {
-        "「悪いが　両方そろえてから|　もう１回　ここまで　来てくれよ。": "I'm sorry, but once we have both of them,|we're gonna have to come back here and..."
-    },
-    "38": {
-        "<pc>は　どくけしそうも|まんげつそうも　持っていなかった。": "<pc> I don't have a doodlebug, and I don't have a|crescent moon."
-    },
-    "39": {
-        "「助けにきてもらって……悪いが|　オレたち　このままじゃ動くことも|　ままならないんだよ……。": "I'm sorry you had to come and save us. I'm|sorry, but we can't move like this."
-    },
-    "40": {
-        "「どくけしそうと　まんげつそうを|　両方そろえてから|　もう１回　ここまで　来てくれ。": "I've got both the dokketsu-sou and the|mangetsu-sou, and I've come this far one more|time..."
-    },
-    "41": {
-        "「よお……あんたか。|　生きてるうちに　また会えて　うれしいぜ。": "Hey... Oh... It's nice to see you again while|you're still alive."
-    },
-    "42": {
-        "「……<pc>さん。どくけしそうと|　まんげつそうは……　手に入りましたか？": "<pc> I'm not sure. The dokkeshi plant and the|mangetsu plant... Did you get them?"
-    },
-    "43": {
-        "「おお　帰ったか　<pc>！|　今　ちょうど　ジブラと　デオルドから|　報告を受けていたところだ。": "Oh, you're back<pc> Oh, my God. I was just getting a report from|Zibra and Deordo."
-    },
-    "44": {
-        "「我々が　こうして無事　帰ってこれたのは|　すべて　<pc>さんのおかげです。": "The reason we're back in one piece| All<pc> Thank you..."
-    },
-    "45": {
-        "「無事の帰還　なによりであった。|　下がってよいぞ　ジブラ。デオルド。": "I'm glad you're back safe and sound. You may|step back... De..."
-    },
-    "46": {
-        "「ハッ！！": "Ha!"
-    },
-    "47": {
-        "「ふたりには　充分な休養を　とらせましょう。": "I'll make sure they get plenty of rest."
-    },
-    "48": {
-        "「よくやってくれた　<pc>。|　お前のおかげで　貴重な兵士たちの命が|　失われずに　すんだのだ。": "You've done well<pc> Thanks to you... Thanks to you, precious|soldiers' lives were not lost..."
-    },
-    "49": {
-        "「ガートラントの王として　礼を言おう。|　それと　ほうびもな……。|　さあ　これを　受け取ってくれ！": "As King of the Gartland, I'd like to thank|you... And a reward. Now, take this!"
-    },
-    "50": {
-        "「兵士たちが　助かったのは　めでたいが……|　これで　問題が　片付いたわけではない。|　今後の対策を　考えねばならんの。": "I'm glad the soldiers survived, but... But|that doesn't mean the problem is solved.|We'll have to figure out what to do next."
-    },
-    "51": {
-        "「ガズバランの牙……ですな。|　ヤツら　どうやって　こちらの作戦を|　知り得たのか……？": "Ghazbaran's Fang: ...... How did they know|our plan...?"
-    },
-    "52": {
-        "「今回のことで　ガズバランの牙という組織が|　油断ならぬ相手であることが　よくわかった。|　……だが　ヤツらは　ひとつのミスを犯した。": "This time, we've learned that Gazbalan's Fang|is a tricky opponent... ... But they only|have to make one mistake..."
-    },
-    "53": {
-        "「それは　このガートラント国王　グロスナーを|　本気にさせたことだ！": "That's what made this King Grosvenor of|Gartland take you seriously!"
-    },
-    "54": {
-        "「……わしは　決して　ヤツらを許さぬ。|　これは　わしと　ガズバランの牙との戦争だ！": "I... I will never let them... This is a war|between me and the fangs of Ghazbalan!"
-    },
-    "55": {
-        "<pc>は　まんげつそうしか|持っていなかった。": "<pc> The only thing I've got is a crescent moon."
-    },
-    "56": {
-        "どくけしそうは　周辺にいる　グールが落とし|まんげつそうは　この洞くつの近くで|採れるようだ。ふたつを　そろえよう！": "The ghouls in the area will drop off the|poisonous pestle, and the Mangektetsu pestle|can be found near this cave. I'll get you two|<br>|together!"
-    }
+  "1": {
+    "「……む？|　そこにいるのは　<pc>ではないか。": "... No? There you are.<pc> So..."
+  },
+  "2": {
+    "「……ふむ。ここは　ひとつ|　<pc>に　頼むとしよう。|　それでよいな　スピンドル？": "..... Here is one.<pc> I'll ask... Is that all right, Spindle?"
+  },
+  "3": {
+    "「陛下の思し召しのままに……。|　それでは　私は　負傷兵たちの様子を|　見てくるとしましょう。": "As you wish, Your Majesty. Then I will go and|check on the wounded soldiers."
+  },
+  "4": {
+    "「よく来てくれた　<pc>。|　じつは　ちょっとした問題が起こっていてな。|　お前さんに　頼みたいことがあるのだ。": "Thank you for coming<pc> I'm sorry. Actually, there's a little|problem... I've got a favor to ask you..."
+  },
+  "5": {
+    "「マグナスよ。|　くわしい説明を　してやってくれ。": "Mag... I'll give you a full explanation..."
+  },
+  "6": {
+    "「<pc>さんは　ガズバランの牙のことを|　ご存知でしたな。先日の魔物狩りの際に|　王を狙った　不届きな秘密結社のことです。": "<pc> You know about Ghazbalan's fangs... I'm sure|you've heard of the secret society of misfits|who targeted the king during the recent demon|<br>|hunt..."
+  },
+  "7": {
+    "「私は　あれから　連中のアジトを調べだし|　一網打尽に　捕らえるべく　その洞くつに|　精鋭部隊の一団を　送り込んだのです。": "Since then, I've tracked down their hideout|and sent a team of elite troops into that|cave to capture them once and for all."
+  },
+  "8": {
+    "「しかし　兵士たちが　踏み込んでも|　洞くつ内に　ヤツらの姿はなく|　代わりに　多数の魔物に　襲われたのです。": "But when the soldiers stepped into the cave,|there was no sign of them, and instead, they|were attacked by a multitude of demons..."
+  },
+  "9": {
+    "「こちらの不意打ちのはずが　ガズバランの牙は|　知っていたかのように　ワナを張っていました。|　完全に　してやられたのです。": "This was supposed to be a surprise attack,|but Ghazbalan's fangs were trapped, as if he|knew... I've been completely outwitted."
+  },
+  "10": {
+    "「思いがけない襲撃に　兵士たちは　総崩れ。|　ほとんどの兵士は　なんとか　脱出しましたが|　今も　２名の兵士が　取り残されています。": "The soldiers were unexpectedly attacked...|Most of them managed to escape, but there are|still two soldiers left behind..."
+  },
+  "11": {
+    "「すぐにも　彼らの救出に向かいたいのですが|　我が軍が受けたダメージも　深刻でして|　助けにいこうにも……という状況なのです。": "I'd like to go and rescue them right away,|but our forces have sustained too much damage|to be able to... I'm sorry."
+  },
+  "12": {
+    "「そこでだ　<pc>よ。|　お前さんに　この２名の兵士の救出を|　頼みたいというわけじゃ。": "There<pc> Yeah. I need you to help me rescue these two|soldiers."
+  },
+  "13": {
+    "「ガズバランの牙のアジトは　グレン領西の|　南西にある　グレゴールの洞くつじゃ。|　どうか　引き受けてはくれまいか？": "Ghazvalan's Fang's hideout is in the|southwest of western Gulen territory, in the|caves of Gregor... Please, will you take this|<br>|on?"
+  },
+  "14": {
+    "「さすがは　<pc>じゃ。|　お前さんなら　引き受けてくれると|　信じていたぞ！": "as one would expect<pc> Bye. I knew you'd take care of this!"
+  },
+  "15": {
+    "「取り残された兵士たちは　今も|　暗い洞くつで　助けを待っているはず。|　一刻も早く　救出してやってくれ。": "The soldiers who were left behind are still|waiting in the dark caves for help. We have|to get them out of here as soon as possible."
+  },
+  "16": {
+    "「さすがは　<pc>。|　……と言いたいところだが　どうやら|　お前さん　予定が　いっぱいのようじゃな。": "as one would expect<pc> ... I would say... I'd say that, but it looks|like you're all booked up..."
+  },
+  "17": {
+    "「２名の兵士の命が　かかっておるのじゃ！|　できるだけ早く　頼まれごとを片付けて|　また　ここに来てくれよ！": "Two soldiers' lives are at stake! As soon as|possible, finish what you've been asked to do|and come back here!"
+  },
+  "18": {
+    "「<pc>ともあろう者の言葉とは|　とても　思えんな。": "<pc> I don't think that's the word of a fellow..."
+  },
+  "19": {
+    "「おくびょう風に吹かれるとは……|　呪術師マリーンを倒した　あの勇敢な若者は|　どこへ　行ってしまったのじゃろうか？": "What a time to be blown about by a puny|wind... Where has that brave young man gone|who defeated the sorceress Marlene?"
+  },
+  "20": {
+    "「た……助けが　来たのか？": "Oh, my... Did you get help?"
+  },
+  "21": {
+    "「あ…あなたは……！？|　この間の……　マリーン事件を解決した|　ガートラントの英雄　<pc>さん！": "Oh... What are you...? The other day... The|hero of Gartland who solved the Marine case.<pc> Three!"
+  },
+  "22": {
+    "「さすがは……グロスナー王。|　最高の助っ人を……送ってくれたワケだ。": "That's what I'm talking about. Gross... I|have the best help... You sent me..."
+  },
+  "23": {
+    "「……<pc>さん。|　よかったら　どくけしそうと　まんげつそうを|　ゆずっていただけないだろうか？": "<pc> I'm sorry. If you don't mind, I was wondering|if you'd be willing to give me the Dokkeshi-|so and Mangetsu-so."
+  },
+  "24": {
+    "「私は　毒に冒されて　これ以上　歩けないし|　ジブラは　身体がマヒして……動けないのです。": "I'm too poisoned to walk any further, and|Zibra's body is paralyzed... I can't move..."
+  },
+  "25": {
+    "兵士たちに　どくけしそうと　|まんげつそうを　渡しますか？<yesno><close>": "Do you want me to give the soldiers the|dokkeshiso and the mangetsuso?<yesno><close>"
+  },
+  "26": {
+    "「助けにきてもらって……悪いが|　オレたち　このままじゃ動くことも|　ままならないんだ……。": "I'm sorry you had to come. I'm sorry, but we|can't move like this."
+  },
+  "27": {
+    "「もし　持ってないなら　両方そろえてから|　もう１回　ここまで　来てくれよ。": "If you don't have them, get them both, then|come back here one more time..."
+  },
+  "28": {
+    "<pc>は　兵士たちに|どくけしそうと　まんげつそうを　渡した！": "<pc> I'm sure you've heard of it."
+  },
+  "29": {
+    "「おお……　ありがてえ！": "Oh... Thank you!"
+  },
+  "30": {
+    "「毒さえ……抜けてくれれば……。": "If only... I could get rid of the poison."
+  },
+  "31": {
+    "デオルドは　どくけしそうを使い|ジブラは　まんげつそうを使って　回復した！": "Deordo used Doku Keshi-so and Zibra used|Mangetsu-so to recover!"
+  },
+  "32": {
+    "「ああ。すっかり　回復したぜ！|　これなら　あとは　自力で脱出できそうだ。": "Oh. I'm all healed up! Now I just need to get|out of here on my own..."
+  },
+  "33": {
+    "「ありがとうございます　<pc>さん。|　私たちは　もう　大丈夫です！": "Thank you very much<pc> It's okay. We're okay now!"
+  },
+  "34": {
+    "「ガートラント城までは　ふたりで戻れますので|　<pc>さんも　お気をつけて。|　それでは　お先に失礼しますね！": "We can return to Gartrante Castle together|<pc> You, too, take care. If you'll excuse me, I|have to go!"
+  },
+  "35": {
+    "<pc>は　どくけしそうしか|持っていなかった。": "<pc> The only thing I have is a poisonous pistol."
+  },
+  "36": {
+    "「そう……か。相棒とは　ここまで|　はげまし合いながら　やってきたんだ……。|　一方だけが　助かるつもりはねえ。": "Yeah. .... You know, my partner and I, we've|been through so much together... I don't want|to be the one to save the day."
+  },
+  "37": {
+    "「悪いが　両方そろえてから|　もう１回　ここまで　来てくれよ。": "I'm sorry, but once we have both of them,|we're gonna have to come back here and..."
+  },
+  "38": {
+    "<pc>は　どくけしそうも|まんげつそうも　持っていなかった。": "<pc> I don't have a doodlebug, and I don't have a|crescent moon."
+  },
+  "39": {
+    "「助けにきてもらって……悪いが|　オレたち　このままじゃ動くことも|　ままならないんだよ……。": "I'm sorry you had to come and save us. I'm|sorry, but we can't move like this."
+  },
+  "40": {
+    "「どくけしそうと　まんげつそうを|　両方そろえてから|　もう１回　ここまで　来てくれ。": "I've got both the dokketsu-sou and the|mangetsu-sou, and I've come this far one more|time..."
+  },
+  "41": {
+    "「よお……あんたか。|　生きてるうちに　また会えて　うれしいぜ。": "Hey... Oh... It's nice to see you again while|you're still alive."
+  },
+  "42": {
+    "「……<pc>さん。どくけしそうと|　まんげつそうは……　手に入りましたか？": "<pc> I'm not sure. The dokkeshi plant and the|mangetsu plant... Did you get them?"
+  },
+  "43": {
+    "「おお　帰ったか　<pc>！|　今　ちょうど　ジブラと　デオルドから|　報告を受けていたところだ。": "Oh, you're back<pc> Oh, my God. I was just getting a report from|Zibra and Deordo."
+  },
+  "44": {
+    "「我々が　こうして無事　帰ってこれたのは|　すべて　<pc>さんのおかげです。": "The reason we're back in one piece| All<pc> Thank you..."
+  },
+  "45": {
+    "「無事の帰還　なによりであった。|　下がってよいぞ　ジブラ。デオルド。": "I'm glad you're back safe and sound. You may|step back... De..."
+  },
+  "46": {
+    "「ハッ！！": "Ha!"
+  },
+  "47": {
+    "「ふたりには　充分な休養を　とらせましょう。": "I'll make sure they get plenty of rest."
+  },
+  "48": {
+    "「よくやってくれた　<pc>。|　お前のおかげで　貴重な兵士たちの命が|　失われずに　すんだのだ。": "You've done well<pc> Thanks to you... Thanks to you, precious|soldiers' lives were not lost..."
+  },
+  "49": {
+    "「ガートラントの王として　礼を言おう。|　それと　ほうびもな……。|　さあ　これを　受け取ってくれ！": "As King of the Gartland, I'd like to thank|you... And a reward. Now, take this!"
+  },
+  "50": {
+    "「兵士たちが　助かったのは　めでたいが……|　これで　問題が　片付いたわけではない。|　今後の対策を　考えねばならんの。": "I'm glad the soldiers survived, but... But|that doesn't mean the problem is solved.|We'll have to figure out what to do next."
+  },
+  "51": {
+    "「ガズバランの牙……ですな。|　ヤツら　どうやって　こちらの作戦を|　知り得たのか……？": "Ghazbaran's Fang: ...... How did they know|our plan...?"
+  },
+  "52": {
+    "「今回のことで　ガズバランの牙という組織が|　油断ならぬ相手であることが　よくわかった。|　……だが　ヤツらは　ひとつのミスを犯した。": "This time, we've learned that Gazbalan's Fang|is a tricky opponent... ... But they only|have to make one mistake..."
+  },
+  "53": {
+    "「それは　このガートラント国王　グロスナーを|　本気にさせたことだ！": "That's what made this King Grosvenor of|Gartland take you seriously!"
+  },
+  "54": {
+    "「……わしは　決して　ヤツらを許さぬ。|　これは　わしと　ガズバランの牙との戦争だ！": "I... I will never let them... This is a war|between me and the fangs of Ghazbalan!"
+  },
+  "55": {
+    "<pc>は　まんげつそうしか|持っていなかった。": "<pc> The only thing I've got is a crescent moon."
+  },
+  "56": {
+    "どくけしそうは　周辺にいる　グールが落とし|まんげつそうは　この洞くつの近くで|採れるようだ。ふたつを　そろえよう！": "The ghouls in the area will drop off the|poisonous pestle, and the Mangektetsu pestle|can be found near this cave. I'll get you two|<br>|together!"
+  }
 }

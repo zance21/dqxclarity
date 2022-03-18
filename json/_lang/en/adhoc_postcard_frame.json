@@ -1,32 +1,32 @@
 {
-    "1": {
-        "どの絵葉書を|<%sL_FURNITURE>に　設定しますか？|<break>": "Which postcard should be set to|<%sL_FURNITURE>?<break>"
-    },
-    "2": {
-        "この絵葉書を|<%sL_FURNITURE>から|はずしますか？|<yesno 2><break>": "Do you want to remove this postcard from|<%sL_FURNITURE>?<yesno 2><break>"
-    },
-    "3": {
-        "この絵葉書を <%sL_FURNITURE>に|設定しますか？|<yesno><break>": "Do you want to set this postcard to|<%sL_FURNITURE>?<yesno><break>"
-    },
-    "4": {
-        "<pc>は　絵葉書を|<%sL_FURNITURE>から　はずした。": "<pc> is a postcard from <%sL_FURNITURE>..."
-    },
-    "5": {
-        "<pc>は　絵葉書を|<%sL_FURNITURE>に　設定した！": "<pc> set the postcard to <%sL_FURNITURE>!"
-    },
-    "6": {
-        "絵葉書を　持っていません。|かざれる絵葉書は　『書いた手紙』に|入っている絵葉書のみとなります。": "I have a postcard... The only postcards you|can hang up are the ones in the \"Letters I've|Written\"..."
-    },
-    "7": {
-        "絵葉書を　はずせませんでした。": "I can't take the postcards off..."
-    },
-    "8": {
-        "絵葉書を　設定できませんでした。": "I can't set up a postcard..."
-    },
-    "9": {
-        "絵葉書を　取得できなかったので|表示できません。": "I couldn't get the postcard, so I couldn't|display it..."
-    },
-    "10": {
-        "写真が　削除されているため|この絵葉書は　設定できません。": "Because the photo has been deleted, we can't|set up this postcard..."
-    }
+  "1": {
+    "どの絵葉書を|<%sL_FURNITURE>に　設定しますか？|<break>": "Which postcard should be set to|<%sL_FURNITURE>?<break>"
+  },
+  "2": {
+    "この絵葉書を|<%sL_FURNITURE>から|はずしますか？|<yesno 2><break>": "Do you want to remove this postcard from|<%sL_FURNITURE>?<yesno 2><break>"
+  },
+  "3": {
+    "この絵葉書を <%sL_FURNITURE>に|設定しますか？|<yesno><break>": "Do you want to set this postcard to|<%sL_FURNITURE>?<yesno><break>"
+  },
+  "4": {
+    "<pc>は　絵葉書を|<%sL_FURNITURE>から　はずした。": "<pc> is a postcard from <%sL_FURNITURE>..."
+  },
+  "5": {
+    "<pc>は　絵葉書を|<%sL_FURNITURE>に　設定した！": "<pc> set the postcard to <%sL_FURNITURE>!"
+  },
+  "6": {
+    "絵葉書を　持っていません。|かざれる絵葉書は　『書いた手紙』に|入っている絵葉書のみとなります。": "I have a postcard... The only postcards you|can hang up are the ones in the \"Letters I've|Written\"..."
+  },
+  "7": {
+    "絵葉書を　はずせませんでした。": "I can't take the postcards off..."
+  },
+  "8": {
+    "絵葉書を　設定できませんでした。": "I can't set up a postcard..."
+  },
+  "9": {
+    "絵葉書を　取得できなかったので|表示できません。": "I couldn't get the postcard, so I couldn't|display it..."
+  },
+  "10": {
+    "写真が　削除されているため|この絵葉書は　設定できません。": "Because the photo has been deleted, we can't|set up this postcard..."
+  }
 }

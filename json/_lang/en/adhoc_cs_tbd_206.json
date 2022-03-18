@@ -1,80 +1,80 @@
 {
-    "1": {
-        "「これがあれば　清めの儀式ができる。|　正式な儀式など　もう何年ぶりになるだろうな。": "With this, we can perform the purification|ritual... It's been years since we've had a|formal ceremony."
-    },
-    "2": {
-        "「では　わしは　さっそく|　村の武闘場へ　行くとしよう。|　<pc>も　後で　見にくるといい。": "So, I'll be heading to the village's fighting|pits...<pc> I'll be back later to take a look."
-    },
-    "3": {
-        "「これを逃すと　次にやるのが　いつになるか|　わからんからな。ガハハ！": "If I miss this, I don't know when I'll do it|again... Gahaha!"
-    },
-    "4": {
-        "「この場所で　我らを見守る　戦いの神よ……。|　今日の勝者に　さらなる強者との出会いを。|　敗者には　ふたたび戦いに向かう勇気を。": "In this place, O God of war, who watches over|us all... To the victor of this day, meet the|mighty... To the loser, we go to war again..."
-    },
-    "5": {
-        "「そして　その両者に|　死を恐れず　勇ましく　戦い抜いたことへの|　惜しみなき　賛辞を与えたまえ……。": "And to both of them, let us give unreserved|praise for bravely fighting to the death..."
-    },
-    "6": {
-        "「これで　清めの儀式は終わりだ。": "Now the purification ritual is over..."
-    },
-    "7": {
-        "「すっげー！|　いつもは　お祈りだけの　短いやつだから|　こんな本格的なの　はじめて見たー！": "It's amazing! Usually it's just a short|prayer, but this is the first time I've seen|something this real!"
-    },
-    "8": {
-        "「戦いの前に　毎回　これをやるのが本当なのだ。|　最近は　すっかり略式ばかりになっているがな。": "It's really important to do this every time|before a fight. I've been doing a lot of|short form lately..."
-    },
-    "9": {
-        "「ねえねえ　そんおー！|　お塩を　ブワワワアってするのは　どうして？": "Hey, hey, hey, hey, hey! Why do you make salt|go bwah bwah bwah?"
-    },
-    "10": {
-        "「この場所で　戦いの果てに死んでいった者たちの|　魂を鎮めるためだ。……そして　我らを|　見守ってくれるよう　祈りを込めているのだ。": "It is here that we repose the souls of those|who have died in battle. ...... And we pray|that they will watch over us..."
-    },
-    "11": {
-        "「……かつて　神が見守る　この武闘場では|　毎日のように　想像を絶する|　激しい死闘が　繰り広げられていた。": "... Once upon a time, in the eyes of the|gods, this arena was the scene of daily|battles of unimaginable ferocity."
-    },
-    "12": {
-        "「より強い者を生みだし　さらなる高みを目指す。|　それが　このランガーオ村の教えだったためだ。": "\"To create the stronger, the higher... That's|what this village of Langau taught us."
-    },
-    "13": {
-        "「そのために……　勝者には　すべてが与えられ|　敗者は　残酷なまでに　すべてを　うばわれた。|　それが村のためであると　誰もが信じていた。": "That's why... The winner gets everything, and|the loser is cruelly deprived of everything.|Everyone believed it was for the good of the|<br>|village."
-    },
-    "14": {
-        "「だが　今は…………": "But now"
-    },
-    "15": {
-        "「ハイハイハイ！！　オイラ知ってる！": "Hi, hi, hi! I know you!"
-    },
-    "16": {
-        "「今は　勝ったほうだけじゃなくて|　負けたほうにも　ケイイを払うんだよねっ！": "Now it's not just the winner who pays, but|the loser too!"
-    },
-    "17": {
-        "「……その通りだ。": "... I mean..."
-    },
-    "18": {
-        "「死への恐怖に打ち勝ち　勇気を持って|　戦った両者を　等しく敬え。|　それが　今の　この村の教えだ。": "The two sides that fought so valiantly|against the fear of death... That's what this|village is now."
-    },
-    "19": {
-        "「ランガーオ村の　子供たちよ！|　さっき見た儀式とともに　その教えを|　決して忘れずに　強く　大きくなるのだ！": "Children of the village of Langao! Along with|the ritual you just witnessed, never forget|its teachings and grow strong!"
-    },
-    "20": {
-        "「<pc>　見ていたか。|　この村の子供たちは|　なかなか　たくましいだろう。": "<pc> Look... The children of this village are very|strong..."
-    },
-    "21": {
-        "「敗者にも　勝者と同じように敬意を払う……。|　子供たちが　そのことを|　わかってくれていれば　大丈夫だ。": "Respect the losers just as much as the|winners. If only the children understood|that."
-    },
-    "22": {
-        "「きっと　この村を　正しい未来へと|　導いてくれるだろう……。": "I'm sure they will lead this village to the|right future..."
-    },
-    "23": {
-        "「おっと　いかん。|　<pc>に　塩を採ってきてもらった|　礼を　まだ　していなかったな。": "Whoa...<pc> I haven't thanked you yet for getting the|salt for me..."
-    },
-    "24": {
-        "「遅くなって　すまなかったな！|　さあ　受け取ってくれ！": "Sorry I'm late! Come on, take it!"
-    },
-    "25": {
-        "「おお　<pc>。|　村王ならば　村の武闘場で|　清めの儀式を　おこなっているぞ。": ""
-    },
-    "26": {
-        "「村王は　エゼソルトを　採ってきてくれた|　<pc>にも　見せたいらしいので|　ぜひ　行ってみるといい。": "The village king brought me some eze-salt|<pc> I'm sure they'd love to show it to you."
-    }
+  "1": {
+    "「これがあれば　清めの儀式ができる。|　正式な儀式など　もう何年ぶりになるだろうな。": "With this, we can perform the purification|ritual... It's been years since we've had a|formal ceremony."
+  },
+  "2": {
+    "「では　わしは　さっそく|　村の武闘場へ　行くとしよう。|　<pc>も　後で　見にくるといい。": "So, I'll be heading to the village's fighting|pits...<pc> I'll be back later to take a look."
+  },
+  "3": {
+    "「これを逃すと　次にやるのが　いつになるか|　わからんからな。ガハハ！": "If I miss this, I don't know when I'll do it|again... Gahaha!"
+  },
+  "4": {
+    "「この場所で　我らを見守る　戦いの神よ……。|　今日の勝者に　さらなる強者との出会いを。|　敗者には　ふたたび戦いに向かう勇気を。": "In this place, O God of war, who watches over|us all... To the victor of this day, meet the|mighty... To the loser, we go to war again..."
+  },
+  "5": {
+    "「そして　その両者に|　死を恐れず　勇ましく　戦い抜いたことへの|　惜しみなき　賛辞を与えたまえ……。": "And to both of them, let us give unreserved|praise for bravely fighting to the death..."
+  },
+  "6": {
+    "「これで　清めの儀式は終わりだ。": "Now the purification ritual is over..."
+  },
+  "7": {
+    "「すっげー！|　いつもは　お祈りだけの　短いやつだから|　こんな本格的なの　はじめて見たー！": "It's amazing! Usually it's just a short|prayer, but this is the first time I've seen|something this real!"
+  },
+  "8": {
+    "「戦いの前に　毎回　これをやるのが本当なのだ。|　最近は　すっかり略式ばかりになっているがな。": "It's really important to do this every time|before a fight. I've been doing a lot of|short form lately..."
+  },
+  "9": {
+    "「ねえねえ　そんおー！|　お塩を　ブワワワアってするのは　どうして？": "Hey, hey, hey, hey, hey! Why do you make salt|go bwah bwah bwah?"
+  },
+  "10": {
+    "「この場所で　戦いの果てに死んでいった者たちの|　魂を鎮めるためだ。……そして　我らを|　見守ってくれるよう　祈りを込めているのだ。": "It is here that we repose the souls of those|who have died in battle. ...... And we pray|that they will watch over us..."
+  },
+  "11": {
+    "「……かつて　神が見守る　この武闘場では|　毎日のように　想像を絶する|　激しい死闘が　繰り広げられていた。": "... Once upon a time, in the eyes of the|gods, this arena was the scene of daily|battles of unimaginable ferocity."
+  },
+  "12": {
+    "「より強い者を生みだし　さらなる高みを目指す。|　それが　このランガーオ村の教えだったためだ。": "\"To create the stronger, the higher... That's|what this village of Langau taught us."
+  },
+  "13": {
+    "「そのために……　勝者には　すべてが与えられ|　敗者は　残酷なまでに　すべてを　うばわれた。|　それが村のためであると　誰もが信じていた。": "That's why... The winner gets everything, and|the loser is cruelly deprived of everything.|Everyone believed it was for the good of the|<br>|village."
+  },
+  "14": {
+    "「だが　今は…………": "But now"
+  },
+  "15": {
+    "「ハイハイハイ！！　オイラ知ってる！": "Hi, hi, hi! I know you!"
+  },
+  "16": {
+    "「今は　勝ったほうだけじゃなくて|　負けたほうにも　ケイイを払うんだよねっ！": "Now it's not just the winner who pays, but|the loser too!"
+  },
+  "17": {
+    "「……その通りだ。": "... I mean..."
+  },
+  "18": {
+    "「死への恐怖に打ち勝ち　勇気を持って|　戦った両者を　等しく敬え。|　それが　今の　この村の教えだ。": "The two sides that fought so valiantly|against the fear of death... That's what this|village is now."
+  },
+  "19": {
+    "「ランガーオ村の　子供たちよ！|　さっき見た儀式とともに　その教えを|　決して忘れずに　強く　大きくなるのだ！": "Children of the village of Langao! Along with|the ritual you just witnessed, never forget|its teachings and grow strong!"
+  },
+  "20": {
+    "「<pc>　見ていたか。|　この村の子供たちは|　なかなか　たくましいだろう。": "<pc> Look... The children of this village are very|strong..."
+  },
+  "21": {
+    "「敗者にも　勝者と同じように敬意を払う……。|　子供たちが　そのことを|　わかってくれていれば　大丈夫だ。": "Respect the losers just as much as the|winners. If only the children understood|that."
+  },
+  "22": {
+    "「きっと　この村を　正しい未来へと|　導いてくれるだろう……。": "I'm sure they will lead this village to the|right future..."
+  },
+  "23": {
+    "「おっと　いかん。|　<pc>に　塩を採ってきてもらった|　礼を　まだ　していなかったな。": "Whoa...<pc> I haven't thanked you yet for getting the|salt for me..."
+  },
+  "24": {
+    "「遅くなって　すまなかったな！|　さあ　受け取ってくれ！": "Sorry I'm late! Come on, take it!"
+  },
+  "25": {
+    "「おお　<pc>。|　村王ならば　村の武闘場で|　清めの儀式を　おこなっているぞ。": ""
+  },
+  "26": {
+    "「村王は　エゼソルトを　採ってきてくれた|　<pc>にも　見せたいらしいので|　ぜひ　行ってみるといい。": "The village king brought me some eze-salt|<pc> I'm sure they'd love to show it to you."
+  }
 }

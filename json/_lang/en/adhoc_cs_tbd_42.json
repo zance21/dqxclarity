@@ -1,101 +1,101 @@
 {
-    "1": {
-        "「おきゃくさんでは　ないのよ。|　テティはね　ほんきできたの！": "You're not a customer... Teti is a real|person!"
-    },
-    "2": {
-        "<if_woman>「おねえちゃん　みててね。|　テティ　あそこから|　ロープなしで　とびおりるよ！<else>「おにいちゃん　みててね。|　テティ　あそこから|　ロープなしで　とびおりるよ！<endif>": "<if_woman>Hey, sweetie, look... Tetty, I'm going to|jump down from there without ropes!<else>Grandpa, look... Teti, I'm going to jump down|from there without ropes!<endif>"
-    },
-    "3": {
-        "「ふぇ……こんなに　たかいの……？": "Huh... It's so high...?"
-    },
-    "4": {
-        "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
-    },
-    "5": {
-        "「とびおりるよ～～～！": "I'm jumping down!"
-    },
-    "6": {
-        "「あぶなーーーーーい！！": "It's dangerous!"
-    },
-    "7": {
-        "「みたみた？　やっぱり　テティは |　たすかっちゃうんだよ～！": "Did you see that? I knew it! Teti is going to|love you!"
-    },
-    "8": {
-        "「ロープを付けずに　飛び降りるとは……。|　おじょうちゃん　あんな危険なこと|　二度としちゃダメだよ！": "Jumping off without a rope... Ojou-chan,|don't ever do anything dangerous like that|again!"
-    },
-    "9": {
-        "「もう！　テティは　だいじょうぶなんだもん！": "Oh, my God! Teti's gonna be okay!"
-    },
-    "10": {
-        "「つぎはね……プ　プクリッポ地方？　ってとこの|　むらさき色の　きりが　モクモクしてる|　け…けがにの谷底に　連れてってほしいの！": "Next time... The Pukulippo region? I want you|to take me to the bottom of the valley of the|bees... I want you to take me to the bottom|<br>|of the valley of the beetles!"
-    },
-    "11": {
-        "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
-    },
-    "12": {
-        "「そこにはね　コワ～イ魔物がいるのよ！|　よろしく　おねがいします！": "There's a really scary monster out there! I'm|counting on you!"
-    },
-    "13": {
-        "「ヴェルギャーーーーーー！！": "Verger!"
-    },
-    "14": {
-        "「あいつが　コワ～イ魔物なのね……。": "He's the scary one, isn't he?"
-    },
-    "15": {
-        "<if_woman>「おねえちゃん　みててね。|　テティ　あいつを　ひとりでやっつけるよ！<else>「おにいちゃん　みててね。|　テティ　あいつを　ひとりでやっつけるよ！<endif>": "<if_woman>Hey, girl... Teti, I'm gonna take him down by|myself!<else>Hey, big guy... Teti, I'll take him down|alone!<endif>"
-    },
-    "16": {
-        "<if_woman>「おねえちゃん　おそいよ～。みててね。|　テティ　今度こそ　あいつを　やっつけるよ！<else>「おにいちゃん　おそいよ～。みててね。|　テティ　今度こそ　あいつを　やっつけるよ！<endif>": "<if_woman>You're my sister. I... Teti, this time I'm|going to kill him!<else>Hey, big guy... Mi... Teti, this time I'm|going to kill him!<endif>"
-    },
-    "17": {
-        "「だいじょうぶ！　テティは　ぜったい|　だいじょうぶだから　みてて！": "I'm okay! Tetty's gonna be okay. Watch me!"
-    },
-    "18": {
-        "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
-    },
-    "19": {
-        "「かかっておいでー！！": "Come and get me!"
-    },
-    "20": {
-        "「きゃっ！": "Yikes!"
-    },
-    "21": {
-        "「ヴェルギャアアアァァァァア！！": "Vergaaaaah!"
-    },
-    "22": {
-        "<if_woman>「おねえちゃんが　たおしてくれたのね……？|　そっか～　そういうことか～！|　だから　テティは　しなないんだ！<else>「おにいちゃんが　たおしてくれたのね……？|　そっか～　そういうことか～！|　だから　テティは　しなないんだ！<endif>": "<if_woman>You saved me, didn't you? I see... So that's|why! That's why Teti won't die!<else>You saved me, didn't you, big brother? I|see... So that's why! That's why Teti won't|die!<endif>"
-    },
-    "23": {
-        "「あのね　あのね……|　テティが転んだのは　ぐうぜんじゃないんだよ。": "You know what? You know what? It's not a|coincidence that Teti fell..."
-    },
-    "24": {
-        "「テティはね　ぜったいに　しなないの。|　どんなことがあっても|　ぜったいに　まもられるのよ！": "Tetty, you're never gonna... No matter what|happens, you will be protected!"
-    },
-    "25": {
-        "「だって………………": "Because"
-    },
-    "26": {
-        "「だって！　シスター・サテラが|　そういったんだもん！": "Because! Because Sister Satera said so!"
-    },
-    "27": {
-        "「町のみんなは……　シスター・サテラのこと |　ウソの予言をした　わるい人だっていうの。|　そんなことないって　何回もいったのに……。": "Everyone in town... That Sister Saterra was a|bad person who made a false prophecy... I|told them over and over again..."
-    },
-    "28": {
-        "「だから　テティは|　シスター・サテラの予言が　ホントウだって|　みんなに　しんじてもらいたくって……": "So, Teti| Sister Satera's prophecy is true| I just wanted you all to know that"
-    },
-    "29": {
-        "「どうしても　やらなきゃいけない……|　って思ったの！": "I just had to do it. I just had to!"
-    },
-    "30": {
-        "<if_woman>「……おねえちゃんのおかげで|　シスター・サテラが　のこしてくれた予言が|　ホントウだったって　みんなに伝えられるよ！<else>「……おにいちゃんのおかげで|　シスター・サテラが　のこしてくれた予言が|　ホントウだったって　みんなに伝えられるよ！<endif>": "<if_woman>... Thanks to you, I can tell everyone that|the prophecy Sister Saterra gave me was true!<else>... Thanks to you, I can tell everyone that|the prophecy Sister Satera gave me was true!<endif>"
-    },
-    "31": {
-        "「テティを　ここまで　連れてきてくれて|　ありがとう……。|　お礼に　テティのたからもの　あげるね！": "Thank you for bringing Teti here... I'll give|you something from Teti's collection to thank|you!"
-    },
-    "32": {
-        "「テティは　レンドア島の教会で|　シスター・サテラが　帰るのを　まってるね！": "Teti's at the church on Lendoa Island,|waiting for Sister Satera to come home!"
-    },
-    "33": {
-        "バジエドは　テティの足に|バンジーの命綱を　引っかけた！": "Basiedo has hooked a bungee lifeline to|Teti's leg!"
-    }
+  "1": {
+    "「おきゃくさんでは　ないのよ。|　テティはね　ほんきできたの！": "You're not a customer... Teti is a real|person!"
+  },
+  "2": {
+    "<if_woman>「おねえちゃん　みててね。|　テティ　あそこから|　ロープなしで　とびおりるよ！<else>「おにいちゃん　みててね。|　テティ　あそこから|　ロープなしで　とびおりるよ！<endif>": "<if_woman>Hey, sweetie, look... Tetty, I'm going to|jump down from there without ropes!<else>Grandpa, look... Teti, I'm going to jump down|from there without ropes!<endif>"
+  },
+  "3": {
+    "「ふぇ……こんなに　たかいの……？": "Huh... It's so high...?"
+  },
+  "4": {
+    "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
+  },
+  "5": {
+    "「とびおりるよ～～～！": "I'm jumping down!"
+  },
+  "6": {
+    "「あぶなーーーーーい！！": "It's dangerous!"
+  },
+  "7": {
+    "「みたみた？　やっぱり　テティは |　たすかっちゃうんだよ～！": "Did you see that? I knew it! Teti is going to|love you!"
+  },
+  "8": {
+    "「ロープを付けずに　飛び降りるとは……。|　おじょうちゃん　あんな危険なこと|　二度としちゃダメだよ！": "Jumping off without a rope... Ojou-chan,|don't ever do anything dangerous like that|again!"
+  },
+  "9": {
+    "「もう！　テティは　だいじょうぶなんだもん！": "Oh, my God! Teti's gonna be okay!"
+  },
+  "10": {
+    "「つぎはね……プ　プクリッポ地方？　ってとこの|　むらさき色の　きりが　モクモクしてる|　け…けがにの谷底に　連れてってほしいの！": "Next time... The Pukulippo region? I want you|to take me to the bottom of the valley of the|bees... I want you to take me to the bottom|<br>|of the valley of the beetles!"
+  },
+  "11": {
+    "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
+  },
+  "12": {
+    "「そこにはね　コワ～イ魔物がいるのよ！|　よろしく　おねがいします！": "There's a really scary monster out there! I'm|counting on you!"
+  },
+  "13": {
+    "「ヴェルギャーーーーーー！！": "Verger!"
+  },
+  "14": {
+    "「あいつが　コワ～イ魔物なのね……。": "He's the scary one, isn't he?"
+  },
+  "15": {
+    "<if_woman>「おねえちゃん　みててね。|　テティ　あいつを　ひとりでやっつけるよ！<else>「おにいちゃん　みててね。|　テティ　あいつを　ひとりでやっつけるよ！<endif>": "<if_woman>Hey, girl... Teti, I'm gonna take him down by|myself!<else>Hey, big guy... Teti, I'll take him down|alone!<endif>"
+  },
+  "16": {
+    "<if_woman>「おねえちゃん　おそいよ～。みててね。|　テティ　今度こそ　あいつを　やっつけるよ！<else>「おにいちゃん　おそいよ～。みててね。|　テティ　今度こそ　あいつを　やっつけるよ！<endif>": "<if_woman>You're my sister. I... Teti, this time I'm|going to kill him!<else>Hey, big guy... Mi... Teti, this time I'm|going to kill him!<endif>"
+  },
+  "17": {
+    "「だいじょうぶ！　テティは　ぜったい|　だいじょうぶだから　みてて！": "I'm okay! Tetty's gonna be okay. Watch me!"
+  },
+  "18": {
+    "「テティは　どうしても　やらなきゃいけないの！": "Teti has to do this!"
+  },
+  "19": {
+    "「かかっておいでー！！": "Come and get me!"
+  },
+  "20": {
+    "「きゃっ！": "Yikes!"
+  },
+  "21": {
+    "「ヴェルギャアアアァァァァア！！": "Vergaaaaah!"
+  },
+  "22": {
+    "<if_woman>「おねえちゃんが　たおしてくれたのね……？|　そっか～　そういうことか～！|　だから　テティは　しなないんだ！<else>「おにいちゃんが　たおしてくれたのね……？|　そっか～　そういうことか～！|　だから　テティは　しなないんだ！<endif>": "<if_woman>You saved me, didn't you? I see... So that's|why! That's why Teti won't die!<else>You saved me, didn't you, big brother? I|see... So that's why! That's why Teti won't|die!<endif>"
+  },
+  "23": {
+    "「あのね　あのね……|　テティが転んだのは　ぐうぜんじゃないんだよ。": "You know what? You know what? It's not a|coincidence that Teti fell..."
+  },
+  "24": {
+    "「テティはね　ぜったいに　しなないの。|　どんなことがあっても|　ぜったいに　まもられるのよ！": "Tetty, you're never gonna... No matter what|happens, you will be protected!"
+  },
+  "25": {
+    "「だって………………": "Because"
+  },
+  "26": {
+    "「だって！　シスター・サテラが|　そういったんだもん！": "Because! Because Sister Satera said so!"
+  },
+  "27": {
+    "「町のみんなは……　シスター・サテラのこと |　ウソの予言をした　わるい人だっていうの。|　そんなことないって　何回もいったのに……。": "Everyone in town... That Sister Saterra was a|bad person who made a false prophecy... I|told them over and over again..."
+  },
+  "28": {
+    "「だから　テティは|　シスター・サテラの予言が　ホントウだって|　みんなに　しんじてもらいたくって……": "So, Teti| Sister Satera's prophecy is true| I just wanted you all to know that"
+  },
+  "29": {
+    "「どうしても　やらなきゃいけない……|　って思ったの！": "I just had to do it. I just had to!"
+  },
+  "30": {
+    "<if_woman>「……おねえちゃんのおかげで|　シスター・サテラが　のこしてくれた予言が|　ホントウだったって　みんなに伝えられるよ！<else>「……おにいちゃんのおかげで|　シスター・サテラが　のこしてくれた予言が|　ホントウだったって　みんなに伝えられるよ！<endif>": "<if_woman>... Thanks to you, I can tell everyone that|the prophecy Sister Saterra gave me was true!<else>... Thanks to you, I can tell everyone that|the prophecy Sister Satera gave me was true!<endif>"
+  },
+  "31": {
+    "「テティを　ここまで　連れてきてくれて|　ありがとう……。|　お礼に　テティのたからもの　あげるね！": "Thank you for bringing Teti here... I'll give|you something from Teti's collection to thank|you!"
+  },
+  "32": {
+    "「テティは　レンドア島の教会で|　シスター・サテラが　帰るのを　まってるね！": "Teti's at the church on Lendoa Island,|waiting for Sister Satera to come home!"
+  },
+  "33": {
+    "バジエドは　テティの足に|バンジーの命綱を　引っかけた！": "Basiedo has hooked a bungee lifeline to|Teti's leg!"
+  }
 }

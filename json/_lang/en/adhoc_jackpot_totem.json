@@ -1,35 +1,35 @@
 {
-    "1": {
-        "<speed=0>ジャックポットトーテムだ。|現在の　ジャックポット獲得枚数は|<%dL_COIN>枚のようだ。|<select_se_off>|当たった人をみる|<select_end>|<close>": "<speed=0>Jackpot To... The current jackpot is|<%dL_COIN>...|<select_se_off>|See who won|<select_end>|<close>"
-    },
-    "2": {
-        "<speed=0>ジャックポットトーテムだ。|現在の　ジャックポット獲得枚数は|<%dL_COIN>枚のようだ。|<select_se_off>|当たった人をみる|公開情報を変更する|<select_end>|<close>": "<speed=0>Jackpot To... The current jackpot is|<%dL_COIN>...|<select_se_off>|See who won|Change public information|<select_end>|<close>"
-    },
-    "3": {
-        "<speed=0>センターホールの　ジャックポットトーテムに|記録される情報を　設定してください。|<color_yellow>|※ジャックポットトーテムで後から変更できます。|<color_white>|<break>": "<speed=0>Set the information to be recorded on the|jackpot totem in the center hall...<color_yellow>The jackpot totem can be changed later...<color_white>|<break>"
-    },
-    "4": {
-        "<speed=0>キャラ名や　ひとことコメントは|ジャックポットトーテムで　公開されます。|入力した内容を　反映して　よろしいですか？|<yesno><close>": "<speed=0>Your character's name and commentary will be|published in the Jackpot Totem... Are you|sure you want to reflect what you've entered?<yesno><close>"
-    },
-    "5": {
-        "<speed=0>ジャックポットを　獲得した人は|まだ　いないようだ……。|<end>": "<speed=0>I don't think anyone's won the jackpot yet...<end>"
-    },
-    "6": {
-        "<speed=0>「公開しない」の場合　ジャックポットトーテムに|キャラ名やひとことコメントは　表示されません。|設定を反映して　よろしいですか？|<yesno><close>": "<speed=0>If you choose not to publish, your|character's name and commentary will not|appear on the Jackpot Totem... Are you sure|<br>|you want to reflect this setting?<yesno><close>"
-    },
-    "7": {
-        "<speed=0>公開情報の変更を　やめますか？|<yesno><close>": ""
-    },
-    "8": {
-        "<speed=0>通信エラーのため　変更できませんでした。|時間を置いてから　もう一度　お試しください。|<end>": "<speed=0>Unable to change due to communication error.|Please wait a moment and try again...<end>"
-    },
-    "9": {
-        "<speed=0>設定を反映しました。|ジャックポットトーテムの|『当たった人をみる』でご確認ください。|<end>": "<speed=0>It reflects the settings... See the Jackpot|Totem's \"See who won\"...<end>"
-    },
-    "10": {
-        "ジャックポット獲得しました！": "We've won the jackpot!"
-    },
-    "11": {
-        "<speed=0>通信エラーのため　履歴の情報を|取得できませんでした。|ジャックポットトーテムで　ご確認ください。|<end>": "<speed=0>Due to a communication error, we're unable to|retrieve any historical information. Please|check the Jackpot Totem...<end>"
-    }
+  "1": {
+    "<speed=0>ジャックポットトーテムだ。|現在の　ジャックポット獲得枚数は|<%dL_COIN>枚のようだ。|<select_se_off>|当たった人をみる|<select_end>|<close>": "<speed=0>Jackpot To... The current jackpot is|<%dL_COIN>...|<select_se_off>|See who won|<select_end>|<close>"
+  },
+  "2": {
+    "<speed=0>ジャックポットトーテムだ。|現在の　ジャックポット獲得枚数は|<%dL_COIN>枚のようだ。|<select_se_off>|当たった人をみる|公開情報を変更する|<select_end>|<close>": "<speed=0>Jackpot To... The current jackpot is|<%dL_COIN>...|<select_se_off>|See who won|Change public information|<select_end>|<close>"
+  },
+  "3": {
+    "<speed=0>センターホールの　ジャックポットトーテムに|記録される情報を　設定してください。|<color_yellow>|※ジャックポットトーテムで後から変更できます。|<color_white>|<break>": "<speed=0>Set the information to be recorded on the|jackpot totem in the center hall...<color_yellow>The jackpot totem can be changed later...<color_white>|<break>"
+  },
+  "4": {
+    "<speed=0>キャラ名や　ひとことコメントは|ジャックポットトーテムで　公開されます。|入力した内容を　反映して　よろしいですか？|<yesno><close>": "<speed=0>Your character's name and commentary will be|published in the Jackpot Totem... Are you|sure you want to reflect what you've entered?<yesno><close>"
+  },
+  "5": {
+    "<speed=0>ジャックポットを　獲得した人は|まだ　いないようだ……。|<end>": "<speed=0>I don't think anyone's won the jackpot yet...<end>"
+  },
+  "6": {
+    "<speed=0>「公開しない」の場合　ジャックポットトーテムに|キャラ名やひとことコメントは　表示されません。|設定を反映して　よろしいですか？|<yesno><close>": "<speed=0>If you choose not to publish, your|character's name and commentary will not|appear on the Jackpot Totem... Are you sure|<br>|you want to reflect this setting?<yesno><close>"
+  },
+  "7": {
+    "<speed=0>公開情報の変更を　やめますか？|<yesno><close>": ""
+  },
+  "8": {
+    "<speed=0>通信エラーのため　変更できませんでした。|時間を置いてから　もう一度　お試しください。|<end>": "<speed=0>Unable to change due to communication error.|Please wait a moment and try again...<end>"
+  },
+  "9": {
+    "<speed=0>設定を反映しました。|ジャックポットトーテムの|『当たった人をみる』でご確認ください。|<end>": "<speed=0>It reflects the settings... See the Jackpot|Totem's \"See who won\"...<end>"
+  },
+  "10": {
+    "ジャックポット獲得しました！": "We've won the jackpot!"
+  },
+  "11": {
+    "<speed=0>通信エラーのため　履歴の情報を|取得できませんでした。|ジャックポットトーテムで　ご確認ください。|<end>": "<speed=0>Due to a communication error, we're unable to|retrieve any historical information. Please|check the Jackpot Totem...<end>"
+  }
 }

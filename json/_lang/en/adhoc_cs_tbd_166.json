@@ -1,131 +1,131 @@
 {
-    "1": {
-        "「大臣サマっ！　見つかりました！|　オーレンと会話する方法を　発見したのデス！": "Minister! We have found it! We've found a way|to talk to Oren!"
-    },
-    "2": {
-        "「おお　でかしたぞ！|　<pc>どのが　来ているときに|　見つかるとは　まさに　天の導きよな。": "Oh, you did it!<pc> To be found when all the others are here,|it's a godsend."
-    },
-    "3": {
-        "「……して　その方法とは　どんなものじゃ？|　ちゃっちゃと　説明するがよいぞ。": "... So, what's the plan? I'll explain in a|moment."
-    },
-    "4": {
-        "「おほっ！　了解しました。|　それでは……。": "Whoa! Got it... And now..."
-    },
-    "5": {
-        "「さる呪術書によれば　魔物となった亡者は|　生者への憎悪によって　我を忘れ|　正気を失った状態なのだそうデス。": "There is a book of sorcery that says that a|demon who has become a deceased person has|lost his mind through hatred of the living."
-    },
-    "6": {
-        "「彼らと　会話をしたいなら|　まず　正気を取り戻させなくては|　ならないとのこと。": "If you want to have a conversation with them,|you're going to have to bring them to their|senses..."
-    },
-    "7": {
-        "「そのためには　<%sEV_QUE_NAME0>が|　よく落とす　鎮魂のロウソクという|　呪具が必要なのだそうデス。": "To do so, he needs a spell called the Requiem|Candle, which is often dropped by|<%sEV_QUE_NAME0>..."
-    },
-    "8": {
-        "「鎮魂のロウソクに灯る|　明かりを見れば　魔物となった亡者は|　正気を　取り戻すのだとか……。": "It is said that the light of a requiem candle|can bring a demon back to life."
-    },
-    "9": {
-        "「……ふむ。<%sEV_QUE_NAME0>といえば|　ドワチャッカ大陸の　カルサドラ火山にいるが|　手に入れるには　骨が折れるな……。": "..... Speaking of <%sEV_QUE_NAME0>, he's in|the Kalsadra volcano on the continent of|Dwachaqa, but he's a pain in the ass to get|<br>|your hands on..."
-    },
-    "10": {
-        "「……なるほど　よくわかった。|　ご苦労だったな　ダンデル。|　もう　下がってよいぞ。": "... I see. I see. I'm sorry for your loss,|Da... You need to get back..."
-    },
-    "11": {
-        "「おっほ！　ありがとうございますデス！|　では　ワタクシは　これにて……。": "Whoa! Thank you very much! I'll leave you to|it..."
-    },
-    "12": {
-        "「<pc>どの。|　話は　聞いての通りです。": "<pc> Which one? You've heard the stories..."
-    },
-    "13": {
-        "「あらためて　お願いしましょう。|　どうか　<%sEV_QUE_NAME0>が　よく落とす|　鎮魂のロウソクを　取ってきてくだされ。": "Once again, please... Please fetch me the|requiem candle that <%sEV_QUE_NAME0> often|drops..."
-    },
-    "14": {
-        "「そして　そのまま　ベコン渓谷の奥地|　妖剣士の塚まで　おもむき|　ロウソクに　火を灯してください。": "And then we'll go to the mound of the|sorcerer deep in the Bekong Valley and light|a candle..."
-    },
-    "15": {
-        "「妖剣士オーレンと話して　奴が　どうして|　レムルの聖杯を　求めているのかを|　聞きだしてきてほしいのです！": "I want you to talk to Oren the Swordmaster|and find out why he's asking for the Lemurian|Chalice!"
-    },
-    "16": {
-        "「この件は　オーレンとも　エイドスさまとも|　因縁の深い　<pc>どのでなければ|　果たせぬと思うのですよ。": "I've been talking to Oren and Mr Eidos about this| closely related to<pc> I don't think I can accomplish anything|without which..."
-    },
-    "17": {
-        "<if_woman>「おお　引き受けてくださるか！|　さすがは　<pc>どの。|　いざという時　頼りになる　ナイスギャル！<else>「おお　引き受けてくださるか！|　さすがは　<pc>どの。|　いざという時　頼りになる　ナイスガイ！<endif>": "<if_woman>Oh, you'll do it! You're the man.<pc>   Which. A nice gal you can count on in times|of need!<else>Oh, you'll do it! You're the man.<pc> Which one? A nice guy you can count on in|times of need!<endif>"
-    },
-    "18": {
-        "「では　くれぐれも　お願いします。|　<%sEV_QUE_NAME0>は　ドワチャッカ大陸の|　カルサドラ火山に　棲息しているはずですぞ！": "Now, please, please... <%sEV_QUE_NAME0> is|supposed to be living in the volcano Kalsadra|on the continent of Dwachaqa!"
-    },
-    "19": {
-        "「お気持ちは　うれしいのですが|　どうやら　他の方からの頼まれごとで|　お忙しい　ご様子ですな。": "I appreciate the sentiment, but it seems|you're busy with other requests."
-    },
-    "20": {
-        "「どうか　先に　そちらを片付けてから|　また　私に　話しかけてくだされ。": "Please, take care of that first, and then you|can talk to me again..."
-    },
-    "21": {
-        "「……むむう　残念ですなぁ。|　<pc>どのになら　安心して|　仕事を　まかせられるのに……。": "... I'm sorry...<pc> I don't know which one of you I can trust|with my work."
-    },
-    "22": {
-        "「また　気が変わりましたら|　いつでも　私に　話しかけてくだされ。": "If you change your mind again, you can always|talk to me..."
-    },
-    "23": {
-        "「オォォォォ……　誰だ？|　われから　聖杯を　奪わんとする者は！？": "Whoa, whoa, whoa... Who is it? Who dares to|take the Holy Grail from me?"
-    },
-    "24": {
-        "「……そうか　貴様|　ガートラントの追っ手だな？": "... So you're one of Gertlant's men, are you?"
-    },
-    "25": {
-        "「わが名は　剣士オーレン……。|　レムルの聖杯は　われに残された|　ただひとつの　希望！": "My name is Oren the Swordsman. Lemur's|chalice is my only hope!"
-    },
-    "26": {
-        "「けっして　誰にも渡さぬっ！！": "I'll never let anyone take it from me!"
-    },
-    "27": {
-        "鎮魂のロウソクに　火を灯しますか？<yesno><close>": "Would you like to light a requiem candle?<yesno><close>"
-    },
-    "28": {
-        "「オォォォォ　来るな　来るなっ！|　来るなぁぁぁっ！！！": "Ooh-ooh, don't come here. Don't come here!|Get away from me!"
-    },
-    "29": {
-        "<pc>は　鎮魂のロウソクに|火を灯した。": "<pc> will light a requiem candle..."
-    },
-    "30": {
-        "あたたかい光が　辺りを　つつんでいく……。": "A warm glow was filling the area..."
-    },
-    "31": {
-        "「オォォォォ……。|　こ　ここは？　私は……？": "Whoa, whoa, whoa... Where am I? Am I...?"
-    },
-    "32": {
-        "「……………………。": "..."
-    },
-    "33": {
-        "「……そうだ。ここは　ベコン渓谷。|　新しい魔瘴の吹き溜まりを　調査するため|　私は　部下たちと共に　この渓谷に来たのだ。": "...... This is Beko... I came to this valley|with my men to investigate a new miasma|reservoir..."
-    },
-    "34": {
-        "「……だが　調査地点に　たどり着く前に|　突然　吹きだした魔瘴に　部下たちが|　巻き込まれて……　うううっ。": "... But before we could reach the|investigation point, the demon miasma|suddenly burst forth, and my men were caught|<br>|up in it... Oh..."
-    },
-    "35": {
-        "「捨て置けと　言っておいたのに……|　ずいぶん　余計なことをしてくれたようだな。": "I told you to leave it. You've gone to a lot|of trouble..."
-    },
-    "36": {
-        "「……やれやれ。|　もしやと思って　来てみたが……|　こうなってしまっては　是非もない。": "... I thought... I came here to see if I|could help you, but... I'm sorry you had to|go through that."
-    },
-    "37": {
-        "「エ……ド…ス？　エイ…ドスなのか？|　そうだ　私は　お前に……　うううっ。": "E... Do... S? A... You're a doss? Yes, I'm|giving you... Uh..."
-    },
-    "38": {
-        "「ほれ。オーレンも　混乱しておる。|　今は　そっとしておいてやってくれ。": "Here. Oren's confused... Let's just leave him|alone for now."
-    },
-    "39": {
-        "「お前さんたちの　知りたいことは|　いずれ　わしから　話してやるから……|　とりあえず　ここは　わしに　まかせてくれ。": "I'll tell you what you want to know. For now,|leave this to me..."
-    },
-    "40": {
-        "「チグリ大臣にも　そう伝えておけ。|　さあ　そうと決まったら|　さっさと　グレン城に戻るのじゃ。": "I'll tell Minister Tiggly that. Now that|that's settled, we'll head back to Castle|Glenn..."
-    },
-    "41": {
-        "「なんじゃ？　また来たのか！": "What is it? You're here again!"
-    },
-    "42": {
-        "「今のオーレンは　お前さんと|　話せるような状態ではない。": "Oren is not in any condition to talk to you|right now."
-    },
-    "43": {
-        "「いいから　グレン城に　戻っておれ！|　お前さんたちの　知りたいことなら|　いずれ　わしが行って　話してやるわい。": "Just go back to Castle Glenn! If there's|anything you want to know, I'll come and tell|you..."
-    }
+  "1": {
+    "「大臣サマっ！　見つかりました！|　オーレンと会話する方法を　発見したのデス！": "Minister! We have found it! We've found a way|to talk to Oren!"
+  },
+  "2": {
+    "「おお　でかしたぞ！|　<pc>どのが　来ているときに|　見つかるとは　まさに　天の導きよな。": "Oh, you did it!<pc> To be found when all the others are here,|it's a godsend."
+  },
+  "3": {
+    "「……して　その方法とは　どんなものじゃ？|　ちゃっちゃと　説明するがよいぞ。": "... So, what's the plan? I'll explain in a|moment."
+  },
+  "4": {
+    "「おほっ！　了解しました。|　それでは……。": "Whoa! Got it... And now..."
+  },
+  "5": {
+    "「さる呪術書によれば　魔物となった亡者は|　生者への憎悪によって　我を忘れ|　正気を失った状態なのだそうデス。": "There is a book of sorcery that says that a|demon who has become a deceased person has|lost his mind through hatred of the living."
+  },
+  "6": {
+    "「彼らと　会話をしたいなら|　まず　正気を取り戻させなくては|　ならないとのこと。": "If you want to have a conversation with them,|you're going to have to bring them to their|senses..."
+  },
+  "7": {
+    "「そのためには　<%sEV_QUE_NAME0>が|　よく落とす　鎮魂のロウソクという|　呪具が必要なのだそうデス。": "To do so, he needs a spell called the Requiem|Candle, which is often dropped by|<%sEV_QUE_NAME0>..."
+  },
+  "8": {
+    "「鎮魂のロウソクに灯る|　明かりを見れば　魔物となった亡者は|　正気を　取り戻すのだとか……。": "It is said that the light of a requiem candle|can bring a demon back to life."
+  },
+  "9": {
+    "「……ふむ。<%sEV_QUE_NAME0>といえば|　ドワチャッカ大陸の　カルサドラ火山にいるが|　手に入れるには　骨が折れるな……。": "..... Speaking of <%sEV_QUE_NAME0>, he's in|the Kalsadra volcano on the continent of|Dwachaqa, but he's a pain in the ass to get|<br>|your hands on..."
+  },
+  "10": {
+    "「……なるほど　よくわかった。|　ご苦労だったな　ダンデル。|　もう　下がってよいぞ。": "... I see. I see. I'm sorry for your loss,|Da... You need to get back..."
+  },
+  "11": {
+    "「おっほ！　ありがとうございますデス！|　では　ワタクシは　これにて……。": "Whoa! Thank you very much! I'll leave you to|it..."
+  },
+  "12": {
+    "「<pc>どの。|　話は　聞いての通りです。": "<pc> Which one? You've heard the stories..."
+  },
+  "13": {
+    "「あらためて　お願いしましょう。|　どうか　<%sEV_QUE_NAME0>が　よく落とす|　鎮魂のロウソクを　取ってきてくだされ。": "Once again, please... Please fetch me the|requiem candle that <%sEV_QUE_NAME0> often|drops..."
+  },
+  "14": {
+    "「そして　そのまま　ベコン渓谷の奥地|　妖剣士の塚まで　おもむき|　ロウソクに　火を灯してください。": "And then we'll go to the mound of the|sorcerer deep in the Bekong Valley and light|a candle..."
+  },
+  "15": {
+    "「妖剣士オーレンと話して　奴が　どうして|　レムルの聖杯を　求めているのかを|　聞きだしてきてほしいのです！": "I want you to talk to Oren the Swordmaster|and find out why he's asking for the Lemurian|Chalice!"
+  },
+  "16": {
+    "「この件は　オーレンとも　エイドスさまとも|　因縁の深い　<pc>どのでなければ|　果たせぬと思うのですよ。": "I've been talking to Oren and Mr Eidos about this| closely related to<pc> I don't think I can accomplish anything|without which..."
+  },
+  "17": {
+    "<if_woman>「おお　引き受けてくださるか！|　さすがは　<pc>どの。|　いざという時　頼りになる　ナイスギャル！<else>「おお　引き受けてくださるか！|　さすがは　<pc>どの。|　いざという時　頼りになる　ナイスガイ！<endif>": "<if_woman>Oh, you'll do it! You're the man.<pc>   Which. A nice gal you can count on in times|of need!<else>Oh, you'll do it! You're the man.<pc> Which one? A nice guy you can count on in|times of need!<endif>"
+  },
+  "18": {
+    "「では　くれぐれも　お願いします。|　<%sEV_QUE_NAME0>は　ドワチャッカ大陸の|　カルサドラ火山に　棲息しているはずですぞ！": "Now, please, please... <%sEV_QUE_NAME0> is|supposed to be living in the volcano Kalsadra|on the continent of Dwachaqa!"
+  },
+  "19": {
+    "「お気持ちは　うれしいのですが|　どうやら　他の方からの頼まれごとで|　お忙しい　ご様子ですな。": "I appreciate the sentiment, but it seems|you're busy with other requests."
+  },
+  "20": {
+    "「どうか　先に　そちらを片付けてから|　また　私に　話しかけてくだされ。": "Please, take care of that first, and then you|can talk to me again..."
+  },
+  "21": {
+    "「……むむう　残念ですなぁ。|　<pc>どのになら　安心して|　仕事を　まかせられるのに……。": "... I'm sorry...<pc> I don't know which one of you I can trust|with my work."
+  },
+  "22": {
+    "「また　気が変わりましたら|　いつでも　私に　話しかけてくだされ。": "If you change your mind again, you can always|talk to me..."
+  },
+  "23": {
+    "「オォォォォ……　誰だ？|　われから　聖杯を　奪わんとする者は！？": "Whoa, whoa, whoa... Who is it? Who dares to|take the Holy Grail from me?"
+  },
+  "24": {
+    "「……そうか　貴様|　ガートラントの追っ手だな？": "... So you're one of Gertlant's men, are you?"
+  },
+  "25": {
+    "「わが名は　剣士オーレン……。|　レムルの聖杯は　われに残された|　ただひとつの　希望！": "My name is Oren the Swordsman. Lemur's|chalice is my only hope!"
+  },
+  "26": {
+    "「けっして　誰にも渡さぬっ！！": "I'll never let anyone take it from me!"
+  },
+  "27": {
+    "鎮魂のロウソクに　火を灯しますか？<yesno><close>": "Would you like to light a requiem candle?<yesno><close>"
+  },
+  "28": {
+    "「オォォォォ　来るな　来るなっ！|　来るなぁぁぁっ！！！": "Ooh-ooh, don't come here. Don't come here!|Get away from me!"
+  },
+  "29": {
+    "<pc>は　鎮魂のロウソクに|火を灯した。": "<pc> will light a requiem candle..."
+  },
+  "30": {
+    "あたたかい光が　辺りを　つつんでいく……。": "A warm glow was filling the area..."
+  },
+  "31": {
+    "「オォォォォ……。|　こ　ここは？　私は……？": "Whoa, whoa, whoa... Where am I? Am I...?"
+  },
+  "32": {
+    "「……………………。": "..."
+  },
+  "33": {
+    "「……そうだ。ここは　ベコン渓谷。|　新しい魔瘴の吹き溜まりを　調査するため|　私は　部下たちと共に　この渓谷に来たのだ。": "...... This is Beko... I came to this valley|with my men to investigate a new miasma|reservoir..."
+  },
+  "34": {
+    "「……だが　調査地点に　たどり着く前に|　突然　吹きだした魔瘴に　部下たちが|　巻き込まれて……　うううっ。": "... But before we could reach the|investigation point, the demon miasma|suddenly burst forth, and my men were caught|<br>|up in it... Oh..."
+  },
+  "35": {
+    "「捨て置けと　言っておいたのに……|　ずいぶん　余計なことをしてくれたようだな。": "I told you to leave it. You've gone to a lot|of trouble..."
+  },
+  "36": {
+    "「……やれやれ。|　もしやと思って　来てみたが……|　こうなってしまっては　是非もない。": "... I thought... I came here to see if I|could help you, but... I'm sorry you had to|go through that."
+  },
+  "37": {
+    "「エ……ド…ス？　エイ…ドスなのか？|　そうだ　私は　お前に……　うううっ。": "E... Do... S? A... You're a doss? Yes, I'm|giving you... Uh..."
+  },
+  "38": {
+    "「ほれ。オーレンも　混乱しておる。|　今は　そっとしておいてやってくれ。": "Here. Oren's confused... Let's just leave him|alone for now."
+  },
+  "39": {
+    "「お前さんたちの　知りたいことは|　いずれ　わしから　話してやるから……|　とりあえず　ここは　わしに　まかせてくれ。": "I'll tell you what you want to know. For now,|leave this to me..."
+  },
+  "40": {
+    "「チグリ大臣にも　そう伝えておけ。|　さあ　そうと決まったら|　さっさと　グレン城に戻るのじゃ。": "I'll tell Minister Tiggly that. Now that|that's settled, we'll head back to Castle|Glenn..."
+  },
+  "41": {
+    "「なんじゃ？　また来たのか！": "What is it? You're here again!"
+  },
+  "42": {
+    "「今のオーレンは　お前さんと|　話せるような状態ではない。": "Oren is not in any condition to talk to you|right now."
+  },
+  "43": {
+    "「いいから　グレン城に　戻っておれ！|　お前さんたちの　知りたいことなら|　いずれ　わしが行って　話してやるわい。": "Just go back to Castle Glenn! If there's|anything you want to know, I'll come and tell|you..."
+  }
 }

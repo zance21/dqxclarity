@@ -1,128 +1,128 @@
 {
-    "1": {
-        "<pipipi_low>「やっているね　<pc>くん。|　私も　聞き込みしてみたのだが|　残念ながら　収穫は　なかったよ。": "<pipipi_low>You're doing it<pc> I've been asking around. I've been asking|around, but unfortunately, the harvest isn't|coming in..."
-    },
-    "2": {
-        "「なんじゃ。ルベカの探偵ごっこか。|　子守唄について　聞きたいとは|　何を　調べているのやら。": "What? Rubeka's detective... She wants to know|about the lullaby."
-    },
-    "3": {
-        "「バーバサさんは　声が聞こえるとか|　闇に呑まれるとか　そういう歌詞の|　子守唄を　知りませんか？": "Mr. Barbasa, do you know of any lullabies|with lyrics about hearing voices or being|swallowed by the darkness?"
-    },
-    "4": {
-        "「おお　それは　あの歌のことじゃな。|　ルベカが　小さいころに|　唄ってやったことが　ある気がするのう。": "Oh, you mean that song... I think I sang it|to Rubeka when she was little..."
-    },
-    "5": {
-        "<center>ねーむれ～　よい子よ　ねーむれ～。|ねーむれ～　今すぐ　ねーむれ～。|ねむらーないと　聞こえてくーる～♪": "I'm going to sleep. Sleep, sleep... I can't|hear you unless you're asleep..."
-    },
-    "6": {
-        "「昔は　よう唄われとったんじゃが|　子供たちが　気味悪がってのう。|　いつの間にか　唄われないようになったんじゃ。": "It used to be sung a lot, but the kids|thought it was creepy... Somewhere along the|line, it stopped being sung..."
-    },
-    "7": {
-        "「おまえが死ぬ。命の輝きが　闇に呑まれる……。|　そうよ。この子守唄だわ……。": "You... The glow of life is swallowed by|darkness... ... It's a lullaby."
-    },
-    "8": {
-        "「バーバサさん　その子守唄について|　他に　知っていることは　ありませんか！？": "Ms. Barbasa, is there anything else you can|tell us about that lullaby?"
-    },
-    "9": {
-        "「はて……。これを　唄ってくれた母が|　昔　この村に立ち寄った　旅の詩人が作ったと|　言っておったような……。": "Well... I think my mother, who sang it to me,|said it was written by a traveling poet who|stopped by this village a long time ago..."
-    },
-    "10": {
-        "「その詩人は　世界を旅して回り|　旅先で聞いた出来事なんかを　もとにして|　歌を作っておったらしいぞ。": "The poet traveled the world and wrote songs|based on what he heard in his travels..."
-    },
-    "11": {
-        "「……ということは　この子守唄にも |　もとになった出来事か何かが|　あったってことよね？": "So... So you're saying that there was an|event or something that inspired this|lullaby?"
-    },
-    "12": {
-        "「おそらく　その詩人は　レーンの村の次は|　新たな歌の題材を探して　ジュレットの町にでも|　行ったんじゃないかのう。": "Perhaps the poet went to the village of Lane|and then to the town of Jourette, looking for|a new subject for his song."
-    },
-    "13": {
-        "「それじゃ　ジュレットのお年寄りなら|　その詩人のことを　知ってる人がいる|　可能性があるか……。": "Then there's a chance that some of the older|people in Juliette might know the poet..."
-    },
-    "14": {
-        "「ん～……。ちょっと　頼りない情報だけど |　ジュレットの町の　お年寄りにも聞き込みして|　旅の詩人のことを　調べてくれるかな。 ": "Hmm... I know it's a bit unreliable, but you|could also canvass the elderly in the town of|Jourette, see if they know anything about a|<br>|traveling poet..."
-    },
-    "15": {
-        "「私も行くけど　だまって出かけると|　お父さん　うるさいから　外出許可とってくる。|　<pc>は　先に向かっててね。": "I'd go with you, but your dad's too picky to|let me go out without asking, so I asked|permission...<pc> We're heading to the..."
-    },
-    "16": {
-        "「……これからは　この女の子のことを|　調べていこうと思うの。|　そのときは　また　チカラを貸してね。": "... I'm going to start looking into this|girl... If that happens, I'll need your help|again..."
-    },
-    "17": {
-        "「だけど今は　早く家に帰って　休みたいわ。|　<pc>くん　またね……。": "But for now, I just want to go home, rest...<pc> I'll see you later..."
-    },
-    "18": {
-        "<center>おまえが死ぬと～　聞こえる　あの声～。|命の～　輝きが　闇に呑まれるーと～。|だーから　よいー子よ～♪": "When you die... I can hear it. The glow of|life is swallowed up by darkness... So, my|child..."
-    },
-    "19": {
-        "<center>名前を～　呼ばれる　その前ーに～。|ねーむれ～　今すぐ　ねーむれ～♪": "Before you say my name... Sleep... now...|sleep... now..."
-    },
-    "20": {
-        "「昔を思いだして　ちょっと　唄ってみようかね。": "I'm going to sing a little song that reminds|me of the old days..."
-    },
-    "21": {
-        "<pipipi_low>「むむっ。もしかして　何か|　手がかりを見つけたのかね　<pc>くん。": "<pipipi_low>... Maybe you've found a clue.<pc> I'll be back."
-    },
-    "22": {
-        "「ちょっと　私に貸して。読んでみるから！": "Hey, let me... I'll read it to you!"
-    },
-    "23": {
-        "「……ジュレットの町。立ち並ぶ貝がらの家。|　浜辺に集う恋人たち。愛の歌。別れの歌。|　香る潮風。海の歌……。": "... Julep... The shells standing in a row...|Love gathering on the beach: ......|Another... Scent... Song of the sea..."
-    },
-    "24": {
-        "「ふむふむ……。このノートには|　歌の題材に　なりそうなものが |　書かれてるみたいね。": "Hmmm... In this notebook, there are things|that could be the subject of a song..."
-    },
-    "25": {
-        "「あっ　そういうことね！": "Oh, you mean that!"
-    },
-    "26": {
-        "「この真実　いただきます！": "I'll take this truth!"
-    },
-    "27": {
-        "「これは　重要な手がかりよ！|　よく　見つけだしてくれたわ。|　これは　お礼だから　とっておいてね。": "This is an important clue! I'm glad you found|it. This is for you. You can keep it."
-    },
-    "28": {
-        "「これが　レーンの村に来た　詩人のノートなら |　あの子守唄のもとになった出来事も|　書かれているはず！　それを　見つければ……。": "If this is the notebook of the poet who came|to Lane's village, it must contain the events|that inspired that lullaby! If we can find|<br>|it..."
-    },
-    "29": {
-        "「あったわ……。": "There it is..."
-    },
-    "30": {
-        "「……レーンの村。興味深い話。|　死を呼ぶ少女。恐れる村人。": "... Ray... Interest... Call of death...|Fear..."
-    },
-    "31": {
-        "「……名前を呼ばれて　死ぬ村人。|　少女が使う　死の言葉とは……。": "... Call me by my name. Death... A girl uses|the language of death..."
-    },
-    "32": {
-        "「…………が死ぬ。命の輝き　闇に呑まれる。": "...... The glow of life, consumed by|darkness..."
-    },
-    "33": {
-        "「これって　やっぱり……。|　あれは　空耳なんかじゃ　なかったんだわ……。": "I knew it... It wasn't just an earsore."
-    },
-    "34": {
-        "「……あのね　<pc>。|　変なことを言うようだけど　聞いてほしいの。": " You know what?<pc> I'm sorry. I know this is going to sound|crazy, but I need you to listen..."
-    },
-    "35": {
-        "「私のアタマの中でね。|　ときどき　女の子の声が　聞こえるの。": "My head... Sometimes I hear a girl's voice..."
-    },
-    "36": {
-        "「…………が死ぬ。|　命の輝きが　闇に呑まれる……って。": "...... The glow of life is swallowed up by|darkness: ....."
-    },
-    "37": {
-        "「なんだか　気味が悪いし……。|　ただの空耳だって　思うようにしてた。　　": "It's kind of creepy. And I'm starting to|think I'm just hearing things."
-    },
-    "38": {
-        "「だけど　古い村人名簿から|　女の子の名前が　消されてるのを見たとき|　すごく　イヤな予感がして……。": "But when I saw that a girl's name had been|erased from the old villager list, I had a|really bad feeling..."
-    },
-    "39": {
-        "「昔　聴いた子守唄に　アタマの中の声と|　同じ言葉があったのを　思いだしたの！": "I remembered a lullaby I heard once that had|the same words as the voice in my head!"
-    },
-    "40": {
-        "「私のアタマの中に　聞こえるのは|　たぶん　この女の子の声なんだよ……。": "Maybe it's this girl's voice I'm hearing in|my head..."
-    },
-    "41": {
-        "「なんで　私に話しかけるの？|　この女の子は　いったい　何者なの！？": "Why are you talking to me? Who the hell is|this girl?"
-    },
-    "42": {
-        "「村人名簿からも　名前が消されてるなんて|　この女の子は　どうなったの……。": "What happened to the girl whose name was|erased from the village register?"
-    }
+  "1": {
+    "<pipipi_low>「やっているね　<pc>くん。|　私も　聞き込みしてみたのだが|　残念ながら　収穫は　なかったよ。": "<pipipi_low>You're doing it<pc> I've been asking around. I've been asking|around, but unfortunately, the harvest isn't|coming in..."
+  },
+  "2": {
+    "「なんじゃ。ルベカの探偵ごっこか。|　子守唄について　聞きたいとは|　何を　調べているのやら。": "What? Rubeka's detective... She wants to know|about the lullaby."
+  },
+  "3": {
+    "「バーバサさんは　声が聞こえるとか|　闇に呑まれるとか　そういう歌詞の|　子守唄を　知りませんか？": "Mr. Barbasa, do you know of any lullabies|with lyrics about hearing voices or being|swallowed by the darkness?"
+  },
+  "4": {
+    "「おお　それは　あの歌のことじゃな。|　ルベカが　小さいころに|　唄ってやったことが　ある気がするのう。": "Oh, you mean that song... I think I sang it|to Rubeka when she was little..."
+  },
+  "5": {
+    "<center>ねーむれ～　よい子よ　ねーむれ～。|ねーむれ～　今すぐ　ねーむれ～。|ねむらーないと　聞こえてくーる～♪": "I'm going to sleep. Sleep, sleep... I can't|hear you unless you're asleep..."
+  },
+  "6": {
+    "「昔は　よう唄われとったんじゃが|　子供たちが　気味悪がってのう。|　いつの間にか　唄われないようになったんじゃ。": "It used to be sung a lot, but the kids|thought it was creepy... Somewhere along the|line, it stopped being sung..."
+  },
+  "7": {
+    "「おまえが死ぬ。命の輝きが　闇に呑まれる……。|　そうよ。この子守唄だわ……。": "You... The glow of life is swallowed by|darkness... ... It's a lullaby."
+  },
+  "8": {
+    "「バーバサさん　その子守唄について|　他に　知っていることは　ありませんか！？": "Ms. Barbasa, is there anything else you can|tell us about that lullaby?"
+  },
+  "9": {
+    "「はて……。これを　唄ってくれた母が|　昔　この村に立ち寄った　旅の詩人が作ったと|　言っておったような……。": "Well... I think my mother, who sang it to me,|said it was written by a traveling poet who|stopped by this village a long time ago..."
+  },
+  "10": {
+    "「その詩人は　世界を旅して回り|　旅先で聞いた出来事なんかを　もとにして|　歌を作っておったらしいぞ。": "The poet traveled the world and wrote songs|based on what he heard in his travels..."
+  },
+  "11": {
+    "「……ということは　この子守唄にも |　もとになった出来事か何かが|　あったってことよね？": "So... So you're saying that there was an|event or something that inspired this|lullaby?"
+  },
+  "12": {
+    "「おそらく　その詩人は　レーンの村の次は|　新たな歌の題材を探して　ジュレットの町にでも|　行ったんじゃないかのう。": "Perhaps the poet went to the village of Lane|and then to the town of Jourette, looking for|a new subject for his song."
+  },
+  "13": {
+    "「それじゃ　ジュレットのお年寄りなら|　その詩人のことを　知ってる人がいる|　可能性があるか……。": "Then there's a chance that some of the older|people in Juliette might know the poet..."
+  },
+  "14": {
+    "「ん～……。ちょっと　頼りない情報だけど |　ジュレットの町の　お年寄りにも聞き込みして|　旅の詩人のことを　調べてくれるかな。 ": "Hmm... I know it's a bit unreliable, but you|could also canvass the elderly in the town of|Jourette, see if they know anything about a|<br>|traveling poet..."
+  },
+  "15": {
+    "「私も行くけど　だまって出かけると|　お父さん　うるさいから　外出許可とってくる。|　<pc>は　先に向かっててね。": "I'd go with you, but your dad's too picky to|let me go out without asking, so I asked|permission...<pc> We're heading to the..."
+  },
+  "16": {
+    "「……これからは　この女の子のことを|　調べていこうと思うの。|　そのときは　また　チカラを貸してね。": "... I'm going to start looking into this|girl... If that happens, I'll need your help|again..."
+  },
+  "17": {
+    "「だけど今は　早く家に帰って　休みたいわ。|　<pc>くん　またね……。": "But for now, I just want to go home, rest...<pc> I'll see you later..."
+  },
+  "18": {
+    "<center>おまえが死ぬと～　聞こえる　あの声～。|命の～　輝きが　闇に呑まれるーと～。|だーから　よいー子よ～♪": "When you die... I can hear it. The glow of|life is swallowed up by darkness... So, my|child..."
+  },
+  "19": {
+    "<center>名前を～　呼ばれる　その前ーに～。|ねーむれ～　今すぐ　ねーむれ～♪": "Before you say my name... Sleep... now...|sleep... now..."
+  },
+  "20": {
+    "「昔を思いだして　ちょっと　唄ってみようかね。": "I'm going to sing a little song that reminds|me of the old days..."
+  },
+  "21": {
+    "<pipipi_low>「むむっ。もしかして　何か|　手がかりを見つけたのかね　<pc>くん。": "<pipipi_low>... Maybe you've found a clue.<pc> I'll be back."
+  },
+  "22": {
+    "「ちょっと　私に貸して。読んでみるから！": "Hey, let me... I'll read it to you!"
+  },
+  "23": {
+    "「……ジュレットの町。立ち並ぶ貝がらの家。|　浜辺に集う恋人たち。愛の歌。別れの歌。|　香る潮風。海の歌……。": "... Julep... The shells standing in a row...|Love gathering on the beach: ......|Another... Scent... Song of the sea..."
+  },
+  "24": {
+    "「ふむふむ……。このノートには|　歌の題材に　なりそうなものが |　書かれてるみたいね。": "Hmmm... In this notebook, there are things|that could be the subject of a song..."
+  },
+  "25": {
+    "「あっ　そういうことね！": "Oh, you mean that!"
+  },
+  "26": {
+    "「この真実　いただきます！": "I'll take this truth!"
+  },
+  "27": {
+    "「これは　重要な手がかりよ！|　よく　見つけだしてくれたわ。|　これは　お礼だから　とっておいてね。": "This is an important clue! I'm glad you found|it. This is for you. You can keep it."
+  },
+  "28": {
+    "「これが　レーンの村に来た　詩人のノートなら |　あの子守唄のもとになった出来事も|　書かれているはず！　それを　見つければ……。": "If this is the notebook of the poet who came|to Lane's village, it must contain the events|that inspired that lullaby! If we can find|<br>|it..."
+  },
+  "29": {
+    "「あったわ……。": "There it is..."
+  },
+  "30": {
+    "「……レーンの村。興味深い話。|　死を呼ぶ少女。恐れる村人。": "... Ray... Interest... Call of death...|Fear..."
+  },
+  "31": {
+    "「……名前を呼ばれて　死ぬ村人。|　少女が使う　死の言葉とは……。": "... Call me by my name. Death... A girl uses|the language of death..."
+  },
+  "32": {
+    "「…………が死ぬ。命の輝き　闇に呑まれる。": "...... The glow of life, consumed by|darkness..."
+  },
+  "33": {
+    "「これって　やっぱり……。|　あれは　空耳なんかじゃ　なかったんだわ……。": "I knew it... It wasn't just an earsore."
+  },
+  "34": {
+    "「……あのね　<pc>。|　変なことを言うようだけど　聞いてほしいの。": " You know what?<pc> I'm sorry. I know this is going to sound|crazy, but I need you to listen..."
+  },
+  "35": {
+    "「私のアタマの中でね。|　ときどき　女の子の声が　聞こえるの。": "My head... Sometimes I hear a girl's voice..."
+  },
+  "36": {
+    "「…………が死ぬ。|　命の輝きが　闇に呑まれる……って。": "...... The glow of life is swallowed up by|darkness: ....."
+  },
+  "37": {
+    "「なんだか　気味が悪いし……。|　ただの空耳だって　思うようにしてた。　　": "It's kind of creepy. And I'm starting to|think I'm just hearing things."
+  },
+  "38": {
+    "「だけど　古い村人名簿から|　女の子の名前が　消されてるのを見たとき|　すごく　イヤな予感がして……。": "But when I saw that a girl's name had been|erased from the old villager list, I had a|really bad feeling..."
+  },
+  "39": {
+    "「昔　聴いた子守唄に　アタマの中の声と|　同じ言葉があったのを　思いだしたの！": "I remembered a lullaby I heard once that had|the same words as the voice in my head!"
+  },
+  "40": {
+    "「私のアタマの中に　聞こえるのは|　たぶん　この女の子の声なんだよ……。": "Maybe it's this girl's voice I'm hearing in|my head..."
+  },
+  "41": {
+    "「なんで　私に話しかけるの？|　この女の子は　いったい　何者なの！？": "Why are you talking to me? Who the hell is|this girl?"
+  },
+  "42": {
+    "「村人名簿からも　名前が消されてるなんて|　この女の子は　どうなったの……。": "What happened to the girl whose name was|erased from the village register?"
+  }
 }

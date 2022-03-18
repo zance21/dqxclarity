@@ -601,5 +601,104 @@
   },
   "201": {
     "「マスタースキルポイントを　割り振るのですね？|　ポイントは　各職業のスキルごとに覚えるため|　他職業には反映されないので　ご注意ください。|<end>": "You want to allocate your Master Skill Points?|Please remember that the points allocated per|vocation and skill line are separate.|<end>"
+  },
+  "202": {
+    "clarity_nt_char_202": "clarity_nt_char_202"
+  },
+  "203": {
+    "clarity_nt_char_203": "clarity_nt_char_203"
+  },
+  "204": {
+    "clarity_nt_char_204": "clarity_nt_char_204"
+  },
+  "205": {
+    "clarity_nt_char_205": "clarity_nt_char_205"
+  },
+  "206": {
+    "clarity_nt_char_206": "clarity_nt_char_206"
+  },
+  "207": {
+    "clarity_nt_char_207": "clarity_nt_char_207"
+  },
+  "208": {
+    "clarity_nt_char_208": "clarity_nt_char_208"
+  },
+  "209": {
+    "clarity_nt_char_209": "clarity_nt_char_209"
+  },
+  "210": {
+    "clarity_nt_char_210": "clarity_nt_char_210"
+  },
+  "211": {
+    "clarity_nt_char_211": "clarity_nt_char_211"
+  },
+  "212": {
+    "clarity_nt_char_212": "clarity_nt_char_212"
+  },
+  "213": {
+    "clarity_nt_char_213": "clarity_nt_char_213"
+  },
+  "214": {
+    "clarity_nt_char_214": "clarity_nt_char_214"
+  },
+  "215": {
+    "clarity_nt_char_215": "clarity_nt_char_215"
+  },
+  "216": {
+    "clarity_nt_char_216": "clarity_nt_char_216"
+  },
+  "217": {
+    "clarity_nt_char_217": "clarity_nt_char_217"
+  },
+  "218": {
+    "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<break>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<break>"
+  },
+  "219": {
+    "この状態で　マスタースキルを反映しますか？|<color_yellow><%sM_job>の時のみ　反映されます。|※割り振り状態は　職業別に保存されます。|<yesno><close>": "Do you want your current Master Skill Point|to be copied?<color_yellow>*This will only be copied to <%sM_job>.|Each vocation has its own assignment.|<yesno><close>"
+  },
+  "220": {
+    "スキルポイントの　振り分けを中止します。|よろしいですか？<yesno 2><close>": "You want to cancel the allocation of your|skill points?<yesno 2><close>"
+  },
+  "221": {
+    "マスタースキルポイントが　<%sc_point>Ｐ　戻った！": "<%sc_point> Master Skill Point(s) have been returned!"
+  },
+  "222": {
+    "clarity_nt_char_222": "clarity_nt_char_222"
+  },
+  "223": {
+    "clarity_nt_char_223": "clarity_nt_char_223"
+  },
+  "224": {
+    "clarity_nt_char_224": "clarity_nt_char_224"
+  },
+  "225": {
+    "clarity_nt_char_225": "clarity_nt_char_225"
+  },
+  "226": {
+    "clarity_nt_char_226": "clarity_nt_char_226"
+  },
+  "227": {
+    "clarity_nt_char_227": "clarity_nt_char_227"
+  },
+  "228": {
+    "clarity_nt_char_228": "clarity_nt_char_228"
+  },
+  "229": {
+    "「<%sM_job>の　マスタースキルを|　割り振ります。どのスキルに割り振りますか？|<break>": "You'll allocate the Master Skills of|<%sM_job>. Which skill line do you want|to allocate?|<break>"
+  },
+  "230": {
+    "clarity_nt_char_230": "clarity_nt_char_230"
+  },
+  "231": {
+    "clarity_nt_char_231": "clarity_nt_char_231"
+  },
+  "232": {
+    "clarity_nt_char_232": "clarity_nt_char_232"
+  },
+  "233": {
+    "「どのスキルに　マスタースキルポイントを|　割り振りますか？|<break>": "Which skill line do you want to allocate|Master Skill Points to?|<break>"
+  },
+  "234": {
+    "「マスタースキルポイントの|　振り分けは　完了しました。|　さあ　お行きなさい。|<end>": "Master Skill Point allocation has been|completed. Now, you may go.|<end>"
   }
 }

@@ -1,230 +1,230 @@
 {
-    "1": {
-        "「ナ～イス　<cs_pchero>。": "Nice<cs_pchero>。"
-    },
-    "2": {
-        "「魔瘴だらけね……。": "That's a lot of miasma..."
-    },
-    "3": {
-        "「今のところ　被害は　たいしたことないけど|　もし　この魔瘴が|　外にまで　もれたりしたら……。": "So far the damage isn't too bad, but if this|miasma were to spread to the outside world..."
-    },
-    "4": {
-        "「誰！？　誰かいるの！？": "Who is it? Who's there!"
-    },
-    "5": {
-        "「ま…魔瘴の中から！？": "Ma... From the miasma!"
-    },
-    "6": {
-        "「あ…あんた　もしかして|　魔瘴の中にいたの！？": "Oh... Were you really in the middle of the|miasma?"
-    },
-    "7": {
-        "「顔色が　悪いみたいだけど|　本当に大丈夫なの？": "You look a little pale. Are you sure you're|okay?"
-    },
-    "8": {
-        "「大丈夫そうね……。常識的に考えれば|　魔瘴の中になんていたら　すぐに死に至るのに|　なんなの　この子は……。": "You look fine... Common sense tells us that|being in the middle of a demon miasma will|kill you in no time, but what's wrong with|<br>|her?"
-    },
-    "9": {
-        "「ねぇねぇ。|　名前だけでも　教えてくんない？": "Hey, uh... Can you at least tell me your|name?"
-    },
-    "10": {
-        "「ボクは　エルフじゃない……。|　家に帰らせて……。": "I'm not an elf. I have to go home."
-    },
-    "11": {
-        "「それ　聞きあきた。|　じゃあさ　家はどこなの？": "I'm sorry. So, where do you live?"
-    },
-    "12": {
-        "魔瘴が　辺りに立ち込めている。|これ以上　先に進むのは危険なようだ。": "There's a miasma in the air. It's too|dangerous to go any further..."
-    },
-    "13": {
-        "「よく来たな　<pc>。|　ちょうどいい。近くへ　来るがよい。": "How did you get here?<pc> . Just... Come closer. Come closer."
-    },
-    "14": {
-        "「じつはな　最近　この王都カミハルムイで|　身体の不調を訴える者が　多発しているのだ。": ""
-    },
-    "15": {
-        "「今　ひとりの博士に|　原因を　探ってもらってるとこでな。|　そなたにも　博士の話を聞いてもらいたい。": "I've been working with one of the doctors to|figure out what's going on. I'd like you to|listen to what he has to say."
-    },
-    "16": {
-        "「しかし　遅いな。|　もう　そろそろ来ると思うのだが……。": "But... I'm sure it'll be here soon."
-    },
-    "17": {
-        "「やれやれ　やっと来たか。|　若き天才博士の　お出ましだな。": "Well, well, well. Finally... The young genius|is here..."
-    },
-    "18": {
-        "「うう……。しくじった～。|　うっかり　寝坊しちゃったわ。": "Ugh... I screwed up... I accidentally|overslept..."
-    },
-    "19": {
-        "「紹介しよう　<pc>。|　魔瘴研究者の　ハネツキ博士だ。": "Let me introduce you<pc> I'm sorry. The miasma researcher, Hanetski..."
-    },
-    "20": {
-        "「おおっと　あなたが　<pc>か。|　ウワサは聞いてるわよ。|　王都を守った　英雄でしょ？": "Oh, my God You<pc> I don't know. I've heard rumors... You're the|hero who defended King's Landing."
-    },
-    "21": {
-        "「あたし　ハネツキ。|　以後　よろしく～。": "I'm Ha... I'll see you later..."
-    },
-    "22": {
-        "「で　ハネツキ博士よ。|　なにか　わかったのか？": "So, Hanetski... Did you find out anything?"
-    },
-    "23": {
-        "「はい。大気中の魔瘴濃度が　増加しています。|　王都近くに　魔瘴が発生したためでしょう。": ""
-    },
-    "24": {
-        "「魔瘴は　濃度が　うすくても|　身体に影響を及ぼしますので　体調を崩す者が|　続出しているのは　これが原因かと思われます。": "Even if the concentration of the miasma is|low, it can still affect the body, which is|probably the reason why so many people are|<br>|getting sick..."
-    },
-    "25": {
-        "「なるほどな。|　して　魔瘴の発生場所は　どこだ？": "Yes... So, where does the miasma originate?"
-    },
-    "26": {
-        "「はい。そのことですが……": "Yes, sir. About that..."
-    },
-    "27": {
-        "「発生場所を　はっきりさせるには|　現地まで　目視確認に行く必要があります。|　護衛を　お貸しいただけないでしょうか。": "We'll have to go out there and visually|confirm the location of the outbreak. I was|wondering if you could lend me an escort..."
-    },
-    "28": {
-        "「ふむ。護衛か……それならば　ここに|　うってつけの人物が　おるではないか。": "Hmm. An escort... If that's the case, there's|someone here who's perfect for the job..."
-    },
-    "29": {
-        "「王都を救ってくれた　<pc>よ。|　ハネツキ博士の護衛を　やってもらえぬか？<yesno><close>": "You saved King's Landing<pc> Hello. Will you be Dr. Hanetski's bodyguard?<yesno><close>"
-    },
-    "30": {
-        "「そなたなら　安心して　まかせられるのだ。|　そう言わずに　頼む。": "I can leave you in peace. Don't say that."
-    },
-    "31": {
-        "「うむ。感謝するぞ　<pc>。": "Mm-hmm. I appreciate it.<pc> 。"
-    },
-    "32": {
-        "「では　<pc>に|　護衛を　まかせよう。|　それでいいな？　ハネツキ博士よ。": "well<pc> I'll send an escort to... Is that okay?|Hanetski..."
-    },
-    "33": {
-        "「やっりー！|　英雄が　護衛についてくれるなんて|　ラッキーだわ！": "Yay! We're so lucky to have a hero as our|escort!"
-    },
-    "34": {
-        "「っと　すいません。問題ありません。": "I'm sorry... There's a problem..."
-    },
-    "35": {
-        "「よし。では　<pc>よ。|　あとは　ハネツキ博士から聞いてくれ。": "Okay. Okay.<pc> I'm sorry. And Dr. Hanetzki told me..."
-    },
-    "36": {
-        "「ええと　さっそくで悪いんだけど……": "Uh, sorry to barge in on you like this, but"
-    },
-    "37": {
-        "「魔瘴の発生場所を　突き止めて|　どれくらいの被害が　出ているのか|　ちょっくら　調べたいの。": "I'm going to find out where the miasma|originates and see how much damage it|causes..."
-    },
-    "38": {
-        "「街道沿いは　兵士が　チェックしてるし|　発生してるとしたら　たぶん|　洞くつとか　人目につかないとこよ。": "Soldiers are checking the streets, and if|there's an outbreak, it's probably in a cave,|out of sight..."
-    },
-    "39": {
-        "「北だけ　ほかに比べて　魔瘴濃度が高めだから|　位置的に　カミハルムイ領北の北の辺りかもね。": "The demon miasma concentration is higher in|the north than in the other areas, so it's|located north of the Kamikarumui territory..."
-    },
-    "40": {
-        "「そこまで行く間　あなたに|　護衛を　お願いしたいんだけど|　どう？　やってくれるわよね？": "I was wondering if you could be my bodyguard|on the way there. You'll do it, won't you?"
-    },
-    "41": {
-        "「サンキュー。それじゃ　目的地に|　着くまでの間　あたしは　こっそりと|　あなたの後を　ついてくわね。": "Sun... Well then, until we get to our|destination, I'm going to secretly follow|you..."
-    },
-    "42": {
-        "「あなたが　出発するまでの間|　あたしは　ひとまず　部屋に戻ってるわ。": "I'll just go back to my room until you|leave..."
-    },
-    "43": {
-        "「あたしの部屋は　この城の東の方。|　厨房の近くだから　よろしく～。": "My room is in the castle... It's near the|kitchen, so..."
-    },
-    "44": {
-        "「サンキュー。それじゃ　目的地に|　着くまでの間　あたしは　こっそりと|　あなたの後を　ついてくわね。": "Sun... Well then, until we get to our|destination, I'm going to secretly follow|you..."
-    },
-    "45": {
-        "「……って　あなた　ほかの人たちの|　頼まれごとを　たくさん抱えてるみたいね。|　先に　そっちを片付けてきて　大丈夫よ。": "I mean... You're doing a lot of work for|other people. Why don't you go take care of|that first, and then we can..."
-    },
-    "46": {
-        "「おお？　そっかー。|　んー　どうしよっかなあ。": "Oh? Well... What should I do..."
-    },
-    "47": {
-        "「ホント言うと　あたし　忙しいから|　手伝ってくれると　うれしいんだけどね。|　気が向いたら　戻ってきて。": "To tell you the truth, I'm kind of busy, so|it'd be nice if you could help me. I'll come|back when I feel like it."
-    },
-    "48": {
-        "「よかった　また来てくれたわね。": "Good. Come again..."
-    },
-    "49": {
-        "「魔瘴の発生場所を　突き止めて|　どれくらいの被害が　出ているのか|　ちょっくら　調べたいの。": "I'm going to find out where the miasma|originates and see how much damage it|causes..."
-    },
-    "50": {
-        "「街道沿いは　兵士が　チェックしてるし|　発生してるとしたら　たぶん|　洞くつとか　人目につかないとこよ。": "Soldiers are checking the streets, and if|there's an outbreak, it's probably in a cave,|out of sight..."
-    },
-    "51": {
-        "「北だけ　ほかに比べて　魔瘴濃度が高めだから|　位置的に　カミハルムイ領北の北の辺りかもね。": "The demon miasma concentration is higher in|the north than in the other areas, so it's|located north of the Kamikarumui territory..."
-    },
-    "52": {
-        "「そこまで行く間　あなたに|　護衛を　お願いしたいんだけど|　どう？　やってくれるわよね？": "I was wondering if you could be my bodyguard|on the way there. You'll do it, won't you?"
-    },
-    "53": {
-        "「ギギギギギギーーー！": "Giggity giggity giggity!"
-    },
-    "54": {
-        "「魔物を倒してくれて　助かったわ。|　中に入れなくて　困ってたのよ。": "Thank you for helping me defeat the demon. I|can't get inside. I'm having trouble..."
-    },
-    "55": {
-        "「ここが　発生場所か。|　まいったわ。想像以上の量ね。": "This is where it happened... No... More than|I thought..."
-    },
-    "56": {
-        "「ヒッ……！|　こ…殺さないで！": "Hee...! Don't... Please don't kill me!"
-    },
-    "57": {
-        "「ヒッ……！　や…やめて！|　こわいことしないで……！": "Hee...! No... Stop! Don't be scared."
-    },
-    "58": {
-        "「大丈夫よ。なにもしないから。|　あたし　ハネツキっていうの。|　ねぇ　あんたの名前は？": "Big... Don't do anything... My name is|Hanetski. What's your name?"
-    },
-    "59": {
-        "「ボクは　エルフじゃない……。": "I'm not an elf."
-    },
-    "60": {
-        "「ははーん　な～んだ。": "Hahaha..."
-    },
-    "61": {
-        "「あんた　ハラ減ってんの？|　お姉ちゃんが　おいしいモノ作るからさ。|　一緒に　王都まで行こうよ。ねっ？": "Are you hungry? My sister makes delicious|food... We'll go to King's Landing|together... Right?"
-    },
-    "62": {
-        "「こ…こわいことしないで。": "Scary... I'm scared..."
-    },
-    "63": {
-        "「あはは。なんも　しないって。|　さあ　行くわよ。": "... Don't do anything. Come on, let's go..."
-    },
-    "64": {
-        "「そうだ　<cs_pchero>。|　後で　あたしの部屋に来てね。|　お礼するからさ。よろしく～。": "That's right<cs_pchero>Later. You can come to my room later... I'll|thank you... Please..."
-    },
-    "65": {
-        "「ダメ。言わない。|　知らない人に　家を教えちゃダメって|　パパに　言われたから。": "No, no, no. I told... My dad said I shouldn't|tell strangers where I live, so..."
-    },
-    "66": {
-        "「はぁ。こりゃ　ダメだ……。": "Huh. This is no good..."
-    },
-    "67": {
-        "「あっ。<pc>じゃん。": "Oh.<pc> ..."
-    },
-    "68": {
-        "「護衛してくれて　ありがとね。|　これは　あたしからの　お礼よ。": "Thank you for guarding me. This is from me."
-    },
-    "69": {
-        "「おかげで　魔瘴の発生場所が　わかったけど|　それよりも　おどろいたのは|　あの子が　魔瘴の中から出てきたことね。": "Thanks to you, I was able to find out where|the miasma originated, but what was more|amazing was that she came out of the|<br>|miasma..."
-    },
-    "70": {
-        "「どうして　魔瘴が　平気なのかしら。|　どこから来たのかも　気になるし|　いろいろ　興味深い子ね……。": "Why is she so immune to the miasma? I'm|curious where she came from. She's|interesting in so many ways."
-    },
-    "71": {
-        "「あの子のこととか　魔瘴のこととか|　じっくり　腰をすえて　調べてみたいの。": "I'll have to sit down and do some research on|her and the demon miasma..."
-    },
-    "72": {
-        "「それが終わったら　あたしの研究を|　また　手伝ってもらうかもしれないから|　そん時は　よろしくね～。": "When I'm done with that, you might be able to|help me with my research again, so if you|do..."
-    },
-    "73": {
-        "「だ～か～ら～。|　それは　もう聞いたって。": "But... You already told me..."
-    },
-    "74": {
-        "「ボ…ボク　わからない……。": "I don't... I don't know..."
-    },
-    "75": {
-        "「はぁ。こりゃ　ダメだ……。|　この子　何者なのかしら。": "Huh. This is no good... Who is this girl..."
-    },
-    "76": {
-        "「あっ。<pc>じゃん。|　ごめんね。今　取り込み中だからさ|　しばらくしてから　来てね。": "Oh.<pc> ... I'm... I'm in the middle of something, so|I'll see you in a minute."
-    }
+  "1": {
+    "「ナ～イス　<cs_pchero>。": "Nice<cs_pchero>。"
+  },
+  "2": {
+    "「魔瘴だらけね……。": "That's a lot of miasma..."
+  },
+  "3": {
+    "「今のところ　被害は　たいしたことないけど|　もし　この魔瘴が|　外にまで　もれたりしたら……。": "So far the damage isn't too bad, but if this|miasma were to spread to the outside world..."
+  },
+  "4": {
+    "「誰！？　誰かいるの！？": "Who is it? Who's there!"
+  },
+  "5": {
+    "「ま…魔瘴の中から！？": "Ma... From the miasma!"
+  },
+  "6": {
+    "「あ…あんた　もしかして|　魔瘴の中にいたの！？": "Oh... Were you really in the middle of the|miasma?"
+  },
+  "7": {
+    "「顔色が　悪いみたいだけど|　本当に大丈夫なの？": "You look a little pale. Are you sure you're|okay?"
+  },
+  "8": {
+    "「大丈夫そうね……。常識的に考えれば|　魔瘴の中になんていたら　すぐに死に至るのに|　なんなの　この子は……。": "You look fine... Common sense tells us that|being in the middle of a demon miasma will|kill you in no time, but what's wrong with|<br>|her?"
+  },
+  "9": {
+    "「ねぇねぇ。|　名前だけでも　教えてくんない？": "Hey, uh... Can you at least tell me your|name?"
+  },
+  "10": {
+    "「ボクは　エルフじゃない……。|　家に帰らせて……。": "I'm not an elf. I have to go home."
+  },
+  "11": {
+    "「それ　聞きあきた。|　じゃあさ　家はどこなの？": "I'm sorry. So, where do you live?"
+  },
+  "12": {
+    "魔瘴が　辺りに立ち込めている。|これ以上　先に進むのは危険なようだ。": "There's a miasma in the air. It's too|dangerous to go any further..."
+  },
+  "13": {
+    "「よく来たな　<pc>。|　ちょうどいい。近くへ　来るがよい。": "How did you get here?<pc> . Just... Come closer. Come closer."
+  },
+  "14": {
+    "「じつはな　最近　この王都カミハルムイで|　身体の不調を訴える者が　多発しているのだ。": ""
+  },
+  "15": {
+    "「今　ひとりの博士に|　原因を　探ってもらってるとこでな。|　そなたにも　博士の話を聞いてもらいたい。": "I've been working with one of the doctors to|figure out what's going on. I'd like you to|listen to what he has to say."
+  },
+  "16": {
+    "「しかし　遅いな。|　もう　そろそろ来ると思うのだが……。": "But... I'm sure it'll be here soon."
+  },
+  "17": {
+    "「やれやれ　やっと来たか。|　若き天才博士の　お出ましだな。": "Well, well, well. Finally... The young genius|is here..."
+  },
+  "18": {
+    "「うう……。しくじった～。|　うっかり　寝坊しちゃったわ。": "Ugh... I screwed up... I accidentally|overslept..."
+  },
+  "19": {
+    "「紹介しよう　<pc>。|　魔瘴研究者の　ハネツキ博士だ。": "Let me introduce you<pc> I'm sorry. The miasma researcher, Hanetski..."
+  },
+  "20": {
+    "「おおっと　あなたが　<pc>か。|　ウワサは聞いてるわよ。|　王都を守った　英雄でしょ？": "Oh, my God You<pc> I don't know. I've heard rumors... You're the|hero who defended King's Landing."
+  },
+  "21": {
+    "「あたし　ハネツキ。|　以後　よろしく～。": "I'm Ha... I'll see you later..."
+  },
+  "22": {
+    "「で　ハネツキ博士よ。|　なにか　わかったのか？": "So, Hanetski... Did you find out anything?"
+  },
+  "23": {
+    "「はい。大気中の魔瘴濃度が　増加しています。|　王都近くに　魔瘴が発生したためでしょう。": ""
+  },
+  "24": {
+    "「魔瘴は　濃度が　うすくても|　身体に影響を及ぼしますので　体調を崩す者が|　続出しているのは　これが原因かと思われます。": "Even if the concentration of the miasma is|low, it can still affect the body, which is|probably the reason why so many people are|<br>|getting sick..."
+  },
+  "25": {
+    "「なるほどな。|　して　魔瘴の発生場所は　どこだ？": "Yes... So, where does the miasma originate?"
+  },
+  "26": {
+    "「はい。そのことですが……": "Yes, sir. About that..."
+  },
+  "27": {
+    "「発生場所を　はっきりさせるには|　現地まで　目視確認に行く必要があります。|　護衛を　お貸しいただけないでしょうか。": "We'll have to go out there and visually|confirm the location of the outbreak. I was|wondering if you could lend me an escort..."
+  },
+  "28": {
+    "「ふむ。護衛か……それならば　ここに|　うってつけの人物が　おるではないか。": "Hmm. An escort... If that's the case, there's|someone here who's perfect for the job..."
+  },
+  "29": {
+    "「王都を救ってくれた　<pc>よ。|　ハネツキ博士の護衛を　やってもらえぬか？<yesno><close>": "You saved King's Landing<pc> Hello. Will you be Dr. Hanetski's bodyguard?<yesno><close>"
+  },
+  "30": {
+    "「そなたなら　安心して　まかせられるのだ。|　そう言わずに　頼む。": "I can leave you in peace. Don't say that."
+  },
+  "31": {
+    "「うむ。感謝するぞ　<pc>。": "Mm-hmm. I appreciate it.<pc> 。"
+  },
+  "32": {
+    "「では　<pc>に|　護衛を　まかせよう。|　それでいいな？　ハネツキ博士よ。": "well<pc> I'll send an escort to... Is that okay?|Hanetski..."
+  },
+  "33": {
+    "「やっりー！|　英雄が　護衛についてくれるなんて|　ラッキーだわ！": "Yay! We're so lucky to have a hero as our|escort!"
+  },
+  "34": {
+    "「っと　すいません。問題ありません。": "I'm sorry... There's a problem..."
+  },
+  "35": {
+    "「よし。では　<pc>よ。|　あとは　ハネツキ博士から聞いてくれ。": "Okay. Okay.<pc> I'm sorry. And Dr. Hanetzki told me..."
+  },
+  "36": {
+    "「ええと　さっそくで悪いんだけど……": "Uh, sorry to barge in on you like this, but"
+  },
+  "37": {
+    "「魔瘴の発生場所を　突き止めて|　どれくらいの被害が　出ているのか|　ちょっくら　調べたいの。": "I'm going to find out where the miasma|originates and see how much damage it|causes..."
+  },
+  "38": {
+    "「街道沿いは　兵士が　チェックしてるし|　発生してるとしたら　たぶん|　洞くつとか　人目につかないとこよ。": "Soldiers are checking the streets, and if|there's an outbreak, it's probably in a cave,|out of sight..."
+  },
+  "39": {
+    "「北だけ　ほかに比べて　魔瘴濃度が高めだから|　位置的に　カミハルムイ領北の北の辺りかもね。": "The demon miasma concentration is higher in|the north than in the other areas, so it's|located north of the Kamikarumui territory..."
+  },
+  "40": {
+    "「そこまで行く間　あなたに|　護衛を　お願いしたいんだけど|　どう？　やってくれるわよね？": "I was wondering if you could be my bodyguard|on the way there. You'll do it, won't you?"
+  },
+  "41": {
+    "「サンキュー。それじゃ　目的地に|　着くまでの間　あたしは　こっそりと|　あなたの後を　ついてくわね。": "Sun... Well then, until we get to our|destination, I'm going to secretly follow|you..."
+  },
+  "42": {
+    "「あなたが　出発するまでの間|　あたしは　ひとまず　部屋に戻ってるわ。": "I'll just go back to my room until you|leave..."
+  },
+  "43": {
+    "「あたしの部屋は　この城の東の方。|　厨房の近くだから　よろしく～。": "My room is in the castle... It's near the|kitchen, so..."
+  },
+  "44": {
+    "「サンキュー。それじゃ　目的地に|　着くまでの間　あたしは　こっそりと|　あなたの後を　ついてくわね。": "Sun... Well then, until we get to our|destination, I'm going to secretly follow|you..."
+  },
+  "45": {
+    "「……って　あなた　ほかの人たちの|　頼まれごとを　たくさん抱えてるみたいね。|　先に　そっちを片付けてきて　大丈夫よ。": "I mean... You're doing a lot of work for|other people. Why don't you go take care of|that first, and then we can..."
+  },
+  "46": {
+    "「おお？　そっかー。|　んー　どうしよっかなあ。": "Oh? Well... What should I do..."
+  },
+  "47": {
+    "「ホント言うと　あたし　忙しいから|　手伝ってくれると　うれしいんだけどね。|　気が向いたら　戻ってきて。": "To tell you the truth, I'm kind of busy, so|it'd be nice if you could help me. I'll come|back when I feel like it."
+  },
+  "48": {
+    "「よかった　また来てくれたわね。": "Good. Come again..."
+  },
+  "49": {
+    "「魔瘴の発生場所を　突き止めて|　どれくらいの被害が　出ているのか|　ちょっくら　調べたいの。": "I'm going to find out where the miasma|originates and see how much damage it|causes..."
+  },
+  "50": {
+    "「街道沿いは　兵士が　チェックしてるし|　発生してるとしたら　たぶん|　洞くつとか　人目につかないとこよ。": "Soldiers are checking the streets, and if|there's an outbreak, it's probably in a cave,|out of sight..."
+  },
+  "51": {
+    "「北だけ　ほかに比べて　魔瘴濃度が高めだから|　位置的に　カミハルムイ領北の北の辺りかもね。": "The demon miasma concentration is higher in|the north than in the other areas, so it's|located north of the Kamikarumui territory..."
+  },
+  "52": {
+    "「そこまで行く間　あなたに|　護衛を　お願いしたいんだけど|　どう？　やってくれるわよね？": "I was wondering if you could be my bodyguard|on the way there. You'll do it, won't you?"
+  },
+  "53": {
+    "「ギギギギギギーーー！": "Giggity giggity giggity!"
+  },
+  "54": {
+    "「魔物を倒してくれて　助かったわ。|　中に入れなくて　困ってたのよ。": "Thank you for helping me defeat the demon. I|can't get inside. I'm having trouble..."
+  },
+  "55": {
+    "「ここが　発生場所か。|　まいったわ。想像以上の量ね。": "This is where it happened... No... More than|I thought..."
+  },
+  "56": {
+    "「ヒッ……！|　こ…殺さないで！": "Hee...! Don't... Please don't kill me!"
+  },
+  "57": {
+    "「ヒッ……！　や…やめて！|　こわいことしないで……！": "Hee...! No... Stop! Don't be scared."
+  },
+  "58": {
+    "「大丈夫よ。なにもしないから。|　あたし　ハネツキっていうの。|　ねぇ　あんたの名前は？": "Big... Don't do anything... My name is|Hanetski. What's your name?"
+  },
+  "59": {
+    "「ボクは　エルフじゃない……。": "I'm not an elf."
+  },
+  "60": {
+    "「ははーん　な～んだ。": "Hahaha..."
+  },
+  "61": {
+    "「あんた　ハラ減ってんの？|　お姉ちゃんが　おいしいモノ作るからさ。|　一緒に　王都まで行こうよ。ねっ？": "Are you hungry? My sister makes delicious|food... We'll go to King's Landing|together... Right?"
+  },
+  "62": {
+    "「こ…こわいことしないで。": "Scary... I'm scared..."
+  },
+  "63": {
+    "「あはは。なんも　しないって。|　さあ　行くわよ。": "... Don't do anything. Come on, let's go..."
+  },
+  "64": {
+    "「そうだ　<cs_pchero>。|　後で　あたしの部屋に来てね。|　お礼するからさ。よろしく～。": "That's right<cs_pchero>Later. You can come to my room later... I'll|thank you... Please..."
+  },
+  "65": {
+    "「ダメ。言わない。|　知らない人に　家を教えちゃダメって|　パパに　言われたから。": "No, no, no. I told... My dad said I shouldn't|tell strangers where I live, so..."
+  },
+  "66": {
+    "「はぁ。こりゃ　ダメだ……。": "Huh. This is no good..."
+  },
+  "67": {
+    "「あっ。<pc>じゃん。": "Oh.<pc> ..."
+  },
+  "68": {
+    "「護衛してくれて　ありがとね。|　これは　あたしからの　お礼よ。": "Thank you for guarding me. This is from me."
+  },
+  "69": {
+    "「おかげで　魔瘴の発生場所が　わかったけど|　それよりも　おどろいたのは|　あの子が　魔瘴の中から出てきたことね。": "Thanks to you, I was able to find out where|the miasma originated, but what was more|amazing was that she came out of the|<br>|miasma..."
+  },
+  "70": {
+    "「どうして　魔瘴が　平気なのかしら。|　どこから来たのかも　気になるし|　いろいろ　興味深い子ね……。": "Why is she so immune to the miasma? I'm|curious where she came from. She's|interesting in so many ways."
+  },
+  "71": {
+    "「あの子のこととか　魔瘴のこととか|　じっくり　腰をすえて　調べてみたいの。": "I'll have to sit down and do some research on|her and the demon miasma..."
+  },
+  "72": {
+    "「それが終わったら　あたしの研究を|　また　手伝ってもらうかもしれないから|　そん時は　よろしくね～。": "When I'm done with that, you might be able to|help me with my research again, so if you|do..."
+  },
+  "73": {
+    "「だ～か～ら～。|　それは　もう聞いたって。": "But... You already told me..."
+  },
+  "74": {
+    "「ボ…ボク　わからない……。": "I don't... I don't know..."
+  },
+  "75": {
+    "「はぁ。こりゃ　ダメだ……。|　この子　何者なのかしら。": "Huh. This is no good... Who is this girl..."
+  },
+  "76": {
+    "「あっ。<pc>じゃん。|　ごめんね。今　取り込み中だからさ|　しばらくしてから　来てね。": "Oh.<pc> ... I'm... I'm in the middle of something, so|I'll see you in a minute."
+  }
 }

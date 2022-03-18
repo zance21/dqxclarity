@@ -1,173 +1,173 @@
 {
-    "1": {
-        "試合終了！|<break>": "Game over!<break>"
-    },
-    "2": {
-        "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
-    },
-    "3": {
-        "最多得票者は　<%sC_PC2>と|<%sC_PC3>でした！": "The highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
-    },
-    "4": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>と|<%sC_PC3>でした！|<se_nots System 7>": "<%dC_N1> people voted me best player! The|highest vote-getters were <%sC_PC2> and|<%sC_PC3>!|<se_nots System 7>"
-    },
-    "5": {
-        "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
-    },
-    "6": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！|<se_nots System 7>": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!|<se_nots System 7>"
-    },
-    "7": {
-        "最多得票者は　あなたでした！！": "The highest vote-getter was you!"
-    },
-    "8": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　あなたでした！！|<me 71>": "<%dC_N1> people have voted you the best|player! You were the one who got the most|votes!<me 71>"
-    },
-    "9": {
-        "相手パーティの最多得票者は　<%sC_PC2>です！": "The other party with the most votes is|<%sC_PC2>!"
-    },
-    "10": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The other party with the most|votes is <%sC_PC2>!|<se_nots System 7>"
-    },
-    "11": {
-        "味方パーティの最多得票者は　<%sC_PC2>です！": "The party with the most votes on our side is|<%sC_PC2>!"
-    },
-    "12": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　<%sC_PC2>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The party with the most votes on|their side is <%sC_PC2>!|<se_nots System 7>"
-    },
-    "13": {
-        "相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "The opponent party with the most votes is|<%sC_PC2>! The allied party with the most|votes is <%sC_PC3>!"
-    },
-    "14": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　あなたでした！|<me 71>": "<%dC_N1> people have voted for you by a total|of <%dC_VOTE>! You were the one who got the|most votes for your party!<me 71>"
-    },
-    "15": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The opponent party with the most|votes is <%sC_PC2>! The allied party with the|<br>|most votes is <%sC_PC3>!|<se_nots System 7>"
-    },
-    "16": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　あなたでした！|<me 71>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! <%dC_PC2> has received the most|votes for the other party! You have received|<br>|the most votes from the allied party!<me 71>"
-    },
-    "17": {
-        "ファーストアタックボーナスとして|<%dL_FA_EXP> Pの　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_FA_EXP> P's <%sC_colosseumexp> as a|first attack bonus!|<se_nots System 7>"
-    },
-    "18": {
-        "ラストアタックボーナスとして|<%dL_LA_EXP> Pの　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_LA_EXP> P's <%sC_colosseumexp> as a|last attack bonus!|<se_nots System 7>"
-    },
-    "19": {
-        "<%dL_EXP> Pの　<%sC_colosseumexp>を失った。": "<%dL_EXP> Pの <%sC_colosseumexp>を..."
-    },
-    "20": {
-        "<%dL_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "I got <%dL_EXP> <%sL_UNIT>|<%sC_colosseumexp>!|<se_nots System 7>"
-    },
-    "21": {
-        "勝利報酬の　宝箱が出現した！|<break>": "The treasure chest of victory has appeared!<break>"
-    },
-    "22": {
-        "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
-    },
-    "23": {
-        "最多得票者は　<%sC_PC2>と　<%sC_PC3>でした！": "The highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
-    },
-    "24": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>と　<%sC_PC3>でした！": "<%dC_N1> people voted me best player! The|highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
-    },
-    "25": {
-        "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
-    },
-    "26": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!"
-    },
-    "27": {
-        "最多得票者は　あなたでした！！": "The highest vote-getter was you!"
-    },
-    "28": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　あなたでした！！": "<%dC_N1> people have voted you the best|player! You were the one who got the most|votes!"
-    },
-    "29": {
-        "相手パーティの最多得票者は　<%sC_PC2>です！": "The other party with the most votes is|<%sC_PC2>!"
-    },
-    "30": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|相手パーティの最多得票者は　<%sC_PC2>です！": "<%dC_N1> has voted you the best player! The|other party with the most votes is <%sC_PC2>!"
-    },
-    "31": {
-        "味方パーティの最多得票者は　<%sC_PC2>です！": "The party with the most votes on our side is|<%sC_PC2>!"
-    },
-    "32": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　<%sC_PC2>です！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The party with the most votes on|their side is <%sC_PC2>!"
-    },
-    "33": {
-        "相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "The opponent party with the most votes is|<%sC_PC2>! The allied party with the most|votes is <%sC_PC3>!"
-    },
-    "34": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　あなたでした！": "<%dC_N1> people have voted for you by a total|of <%dC_VOTE>! You were the one who got the|most votes for your party!"
-    },
-    "35": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The opponent party with the most|votes is <%sC_PC2>! The allied party with the|<br>|most votes is <%sC_PC3>!"
-    },
-    "36": {
-        "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　あなたでした！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! <%dC_PC2> has received the most|votes for the other party! You have received|<br>|the most votes from the allied party!"
-    },
-    "37": {
-        "ファーストアタックボーナスとして|<%dL_FA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_FA_EXP> P's <%sC_colosseumexp> as a|first attack bonus!"
-    },
-    "38": {
-        "ラストアタックボーナスとして|<%dL_LA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_LA_EXP> P's <%sC_colosseumexp> as a|last attack bonus!"
-    },
-    "39": {
-        "<%dL_EXP> Pの　<%sC_colosseumexp>を失った。": "<%dL_EXP> Pの <%sC_colosseumexp>を..."
-    },
-    "40": {
-        "<%dL_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！": "I got <%dL_EXP> <%sL_UNIT>|<%sC_colosseumexp>!"
-    },
-    "41": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!"
-    },
-    "42": {
-        "バトルで　もっとも活躍したと思う相手に|相手パーティ　味方パーティの順に|『ベストプレイヤー投票』をしてください！": "Vote for the best player, in order of|opposing party, allied party, and so on, who|you think did the best in the battle!"
-    },
-    "43": {
-        "お疲れ様でした。|旅の扉が現れているので　一定時間以内に|そちらから　退出してください。": "Thank you for your time. The door to your|journey has been opened, and you will need to|exit through it within a certain time."
-    },
-    "44": {
-        "相手パーティへの投票は　１回の投票で|<color_yellow>３票<color_white>入ります。|<%sC_PC2>に　投票しますか？|<yesno><close>": "You can only vote for the other party once|<color_yellow>３票<color_white>Enter... Would you like to vote for|<%sC_PC2>?<yesno><close>"
-    },
-    "45": {
-        "すでに　投票を終えています。": "We've already finished voting..."
-    },
-    "46": {
-        "<%sC_PC2>に　投票しました！": "<%sC_PC2> has been voted in!"
-    },
-    "47": {
-        "<%sC_PC2>に　投票しました！|続けて　味方のパーティに投票できます。": "I've voted for <%sC_PC2>! Go on, vote for|your party's ally..."
-    },
-    "48": {
-        "自分に投票することは　できません。": "You can't vote for yourself..."
-    },
-    "49": {
-        "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！|<se_nots System 7>": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!|<se_nots System 7>"
-    },
-    "50": {
-        "味方パーティへの投票は　１回の投票で|<color_yellow>１票<color_white>入ります。|<%sC_PC2>に　投票しますか？|<yesno><close>": "You can only vote for your party's ally once|<color_yellow>one vote<color_white>Enter... Would you like to vote for|<%sC_PC2>?<yesno><close>"
-    },
-    "51": {
-        "強敵ボーナスとして|<%dL_RA_EXP> Pの　<%sC_colosseumexp>を手に入れた！<se_nots System 7>": "Got <%dL_RA_EXP> P's <%sC_colosseumexp> as a|strong enemy bonus!|<se_nots System 7>"
-    },
-    "52": {
-        "強敵ボーナスとして <%dL_RA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_RA_EXP> P's <%sC_colosseumexp> as a|strong enemy bonus!"
-    },
-    "53": {
-        "トリックボーナスとして|<%dL_KC_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_KC_EXP> <%sL_UNIT>|<%sC_colosseumexp> as a trick bonus!|<se_nots System 7>"
-    },
-    "54": {
-        "トリックボーナスとして|<%dL_KC_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！": "Got <%dL_KC_EXP> <%sL_UNIT>|<%sC_colosseumexp> as a trick bonus!"
-    },
-    "55": {
-        "勝利ボーナスとして|10 この　栄光のかけらを手に入れた！<se_nots System 7>": "As a victory bonus, I got 10 of these shards|of glory!|<se_nots System 7>"
-    },
-    "56": {
-        "<color_yellow>仮　バトルグランプリ開催時間外のため|ただいまの試合は無効となります。|ポイント変動しません。|<break>": "<color_yellow>I'm sorry, but this match has been canceled.|Points will change...<break>"
-    },
-    "57": {
-        "<color_yellow>仮　バトルグランプリ開催時間外のため|ただいまの試合は無効となります。|ポイント変動しません。|<break>": "<color_yellow>I'm sorry, but this match has been canceled.|Points will change...<break>"
-    }
+  "1": {
+    "試合終了！|<break>": "Game over!<break>"
+  },
+  "2": {
+    "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
+  },
+  "3": {
+    "最多得票者は　<%sC_PC2>と|<%sC_PC3>でした！": "The highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
+  },
+  "4": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>と|<%sC_PC3>でした！|<se_nots System 7>": "<%dC_N1> people voted me best player! The|highest vote-getters were <%sC_PC2> and|<%sC_PC3>!|<se_nots System 7>"
+  },
+  "5": {
+    "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
+  },
+  "6": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！|<se_nots System 7>": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!|<se_nots System 7>"
+  },
+  "7": {
+    "最多得票者は　あなたでした！！": "The highest vote-getter was you!"
+  },
+  "8": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　あなたでした！！|<me 71>": "<%dC_N1> people have voted you the best|player! You were the one who got the most|votes!<me 71>"
+  },
+  "9": {
+    "相手パーティの最多得票者は　<%sC_PC2>です！": "The other party with the most votes is|<%sC_PC2>!"
+  },
+  "10": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The other party with the most|votes is <%sC_PC2>!|<se_nots System 7>"
+  },
+  "11": {
+    "味方パーティの最多得票者は　<%sC_PC2>です！": "The party with the most votes on our side is|<%sC_PC2>!"
+  },
+  "12": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　<%sC_PC2>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The party with the most votes on|their side is <%sC_PC2>!|<se_nots System 7>"
+  },
+  "13": {
+    "相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "The opponent party with the most votes is|<%sC_PC2>! The allied party with the most|votes is <%sC_PC3>!"
+  },
+  "14": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　あなたでした！|<me 71>": "<%dC_N1> people have voted for you by a total|of <%dC_VOTE>! You were the one who got the|most votes for your party!<me 71>"
+  },
+  "15": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！|<se_nots System 7>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The opponent party with the most|votes is <%sC_PC2>! The allied party with the|<br>|most votes is <%sC_PC3>!|<se_nots System 7>"
+  },
+  "16": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　あなたでした！|<me 71>": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! <%dC_PC2> has received the most|votes for the other party! You have received|<br>|the most votes from the allied party!<me 71>"
+  },
+  "17": {
+    "ファーストアタックボーナスとして|<%dL_FA_EXP> Pの　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_FA_EXP> P's <%sC_colosseumexp> as a|first attack bonus!|<se_nots System 7>"
+  },
+  "18": {
+    "ラストアタックボーナスとして|<%dL_LA_EXP> Pの　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_LA_EXP> P's <%sC_colosseumexp> as a|last attack bonus!|<se_nots System 7>"
+  },
+  "19": {
+    "<%dL_EXP> Pの　<%sC_colosseumexp>を失った。": "<%dL_EXP> Pの <%sC_colosseumexp>を..."
+  },
+  "20": {
+    "<%dL_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "I got <%dL_EXP> <%sL_UNIT>|<%sC_colosseumexp>!|<se_nots System 7>"
+  },
+  "21": {
+    "勝利報酬の　宝箱が出現した！|<break>": "The treasure chest of victory has appeared!<break>"
+  },
+  "22": {
+    "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
+  },
+  "23": {
+    "最多得票者は　<%sC_PC2>と　<%sC_PC3>でした！": "The highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
+  },
+  "24": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>と　<%sC_PC3>でした！": "<%dC_N1> people voted me best player! The|highest vote-getters were <%sC_PC2> and|<%sC_PC3>!"
+  },
+  "25": {
+    "最多得票者は　<%sC_PC2>でした！": "The highest vote-getter was <%sC_PC2>!"
+  },
+  "26": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!"
+  },
+  "27": {
+    "最多得票者は　あなたでした！！": "The highest vote-getter was you!"
+  },
+  "28": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　あなたでした！！": "<%dC_N1> people have voted you the best|player! You were the one who got the most|votes!"
+  },
+  "29": {
+    "相手パーティの最多得票者は　<%sC_PC2>です！": "The other party with the most votes is|<%sC_PC2>!"
+  },
+  "30": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|相手パーティの最多得票者は　<%sC_PC2>です！": "<%dC_N1> has voted you the best player! The|other party with the most votes is <%sC_PC2>!"
+  },
+  "31": {
+    "味方パーティの最多得票者は　<%sC_PC2>です！": "The party with the most votes on our side is|<%sC_PC2>!"
+  },
+  "32": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　<%sC_PC2>です！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The party with the most votes on|their side is <%sC_PC2>!"
+  },
+  "33": {
+    "相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "The opponent party with the most votes is|<%sC_PC2>! The allied party with the most|votes is <%sC_PC3>!"
+  },
+  "34": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|味方パーティの最多得票者は　あなたでした！": "<%dC_N1> people have voted for you by a total|of <%dC_VOTE>! You were the one who got the|most votes for your party!"
+  },
+  "35": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　<%sC_PC3>です！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! The opponent party with the most|votes is <%sC_PC2>! The allied party with the|<br>|most votes is <%sC_PC3>!"
+  },
+  "36": {
+    "<%dC_N1>人から　合計<%dC_VOTE>票　投票されました！|相手パーティの最多得票者は　<%sC_PC2>です！|味方パーティの最多得票者は　あなたでした！": "<%dC_N1> people have voted for a total of|<%dC_VOTE>! <%dC_PC2> has received the most|votes for the other party! You have received|<br>|the most votes from the allied party!"
+  },
+  "37": {
+    "ファーストアタックボーナスとして|<%dL_FA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_FA_EXP> P's <%sC_colosseumexp> as a|first attack bonus!"
+  },
+  "38": {
+    "ラストアタックボーナスとして|<%dL_LA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_LA_EXP> P's <%sC_colosseumexp> as a|last attack bonus!"
+  },
+  "39": {
+    "<%dL_EXP> Pの　<%sC_colosseumexp>を失った。": "<%dL_EXP> Pの <%sC_colosseumexp>を..."
+  },
+  "40": {
+    "<%dL_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！": "I got <%dL_EXP> <%sL_UNIT>|<%sC_colosseumexp>!"
+  },
+  "41": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!"
+  },
+  "42": {
+    "バトルで　もっとも活躍したと思う相手に|相手パーティ　味方パーティの順に|『ベストプレイヤー投票』をしてください！": "Vote for the best player, in order of|opposing party, allied party, and so on, who|you think did the best in the battle!"
+  },
+  "43": {
+    "お疲れ様でした。|旅の扉が現れているので　一定時間以内に|そちらから　退出してください。": "Thank you for your time. The door to your|journey has been opened, and you will need to|exit through it within a certain time."
+  },
+  "44": {
+    "相手パーティへの投票は　１回の投票で|<color_yellow>３票<color_white>入ります。|<%sC_PC2>に　投票しますか？|<yesno><close>": "You can only vote for the other party once|<color_yellow>３票<color_white>Enter... Would you like to vote for|<%sC_PC2>?<yesno><close>"
+  },
+  "45": {
+    "すでに　投票を終えています。": "We've already finished voting..."
+  },
+  "46": {
+    "<%sC_PC2>に　投票しました！": "<%sC_PC2> has been voted in!"
+  },
+  "47": {
+    "<%sC_PC2>に　投票しました！|続けて　味方のパーティに投票できます。": "I've voted for <%sC_PC2>! Go on, vote for|your party's ally..."
+  },
+  "48": {
+    "自分に投票することは　できません。": "You can't vote for yourself..."
+  },
+  "49": {
+    "<%dC_N1>人から　ベストプレイヤー投票をされました！|最多得票者は　<%sC_PC2>でした！|<se_nots System 7>": "<%dC_N1> has been voted best player! The|highest vote-getter was <%sC_PC2>!|<se_nots System 7>"
+  },
+  "50": {
+    "味方パーティへの投票は　１回の投票で|<color_yellow>１票<color_white>入ります。|<%sC_PC2>に　投票しますか？|<yesno><close>": "You can only vote for your party's ally once|<color_yellow>one vote<color_white>Enter... Would you like to vote for|<%sC_PC2>?<yesno><close>"
+  },
+  "51": {
+    "強敵ボーナスとして|<%dL_RA_EXP> Pの　<%sC_colosseumexp>を手に入れた！<se_nots System 7>": "Got <%dL_RA_EXP> P's <%sC_colosseumexp> as a|strong enemy bonus!|<se_nots System 7>"
+  },
+  "52": {
+    "強敵ボーナスとして <%dL_RA_EXP> Pの　<%sC_colosseumexp>を手に入れた！": "Got <%dL_RA_EXP> P's <%sC_colosseumexp> as a|strong enemy bonus!"
+  },
+  "53": {
+    "トリックボーナスとして|<%dL_KC_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！|<se_nots System 7>": "Got <%dL_KC_EXP> <%sL_UNIT>|<%sC_colosseumexp> as a trick bonus!|<se_nots System 7>"
+  },
+  "54": {
+    "トリックボーナスとして|<%dL_KC_EXP> <%sL_UNIT>の　<%sC_colosseumexp>を手に入れた！": "Got <%dL_KC_EXP> <%sL_UNIT>|<%sC_colosseumexp> as a trick bonus!"
+  },
+  "55": {
+    "勝利ボーナスとして|10 この　栄光のかけらを手に入れた！<se_nots System 7>": "As a victory bonus, I got 10 of these shards|of glory!|<se_nots System 7>"
+  },
+  "56": {
+    "<color_yellow>仮　バトルグランプリ開催時間外のため|ただいまの試合は無効となります。|ポイント変動しません。|<break>": "<color_yellow>I'm sorry, but this match has been canceled.|Points will change...<break>"
+  },
+  "57": {
+    "<color_yellow>仮　バトルグランプリ開催時間外のため|ただいまの試合は無効となります。|ポイント変動しません。|<break>": "<color_yellow>I'm sorry, but this match has been canceled.|Points will change...<break>"
+  }
 }

@@ -1,185 +1,185 @@
 {
-    "1": {
-        "<cs_pchero>は|ニーベルのゆびわ（だいじなもの）を|手に入れた！<me 60>": "<cs_pchero>I've got Nibel's Cradle!<me 60>"
-    },
-    "2": {
-        "<center>……待っ……　れ……": " Wait Wait"
-    },
-    "3": {
-        "「巨人族よ！　ボクの声が　聞こえるか？<yesno><close>": "Giant people! Can you hear my voice?<yesno><close>"
-    },
-    "4": {
-        "「おお！　聞こえているか！|　どうやら術は　成功したようだな！": "Oh! You can hear me! Looks like the trick|worked!"
-    },
-    "5": {
-        "「おどろかせて　すまない。|　今のは　ボクと　巨人族であるキミが|　言葉を交わせるようにするための術だったんだ。": "I'm sorry to scare you. That was just a trick|to get me and you, the giant, to talk to each|other."
-    },
-    "6": {
-        "「ボクの名は　シグルド！|　世界の均衡を守るべく戦う　ヴァルハラの戦士！": "My name is Sigurd! I am a warrior of|Valhalla, fighting to protect the balance of|the world!"
-    },
-    "7": {
-        "「キミの名は……　そうか　<cs_pchero>か！|　ボクの想像どおり　猛々しく　美しい名前だ。": "Your name is Okay<cs_pchero>Oh, my God! It's just as fierce and beautiful|as I imagined it would be."
-    },
-    "8": {
-        "「勇猛な巨人族　<cs_pchero>よ！|　キミは　気づいているか？|　我らの世界の均衡が　崩れ始めていることに。": "A tribe of brave giants<cs_pchero>Hey! Have you noticed? The balance of our|world is beginning to shift."
-    },
-    "9": {
-        "「ボクは　それを食い止めるために　長い旅を|　していたが　その途中で　先ほどの巨鳥に捕まり|　この巣に　囚われてしまったんだ。": "I've been on a long journey to stop it, but|along the way, I've been captured by this|giant bird and trapped in this nest."
-    },
-    "10": {
-        "「テキスト削除": "text deletion"
-    },
-    "11": {
-        "「まったく　とんだ目にあったが|　これも　<cs_pchero>に　出会うための|　運命だったのかもしれない。": "It's been a hell of a ride| You know what?<cs_pchero>Maybe it was my destiny to meet..."
-    },
-    "12": {
-        "「キミに　相談したいことがあるんだ。|　すまないが　仲間の待つ　ヴァルハラの館へ|　ボクを　連れていってくれないだろうか？<yesno><close>": "There's something I need to talk to you|about. I'm sorry, but I was wondering if you|could take me to Valhalla where my friends|<br>|are waiting.<yesno><close>"
-    },
-    "13": {
-        "「……なんだって？|　キミは　人に頼まれて　巨鳥に奪われた指輪を|　取り返しにきていたのか。": "... What is it? You've been sent by someone|to retrieve a ring that was stolen by a giant|bird."
-    },
-    "14": {
-        "「それなら　優先すべきは　その使命だな。|　まずは　その指輪を　持ち主に届けよう！": "Then our priority is to use it... First, we|must get the ring to its rightful owner!"
-    },
-    "15": {
-        "「勇猛な巨人族　<cs_pchero>よ！|　ボクの足では　移動するのに　時間がかかる。|　キミの　かばんに　入らせてもらうぞ。": "A tribe of brave giants<cs_pchero>No! It's gonna take me a while to get around|on my own. I'll just put it in your bag."
-    },
-    "16": {
-        "<cs_pchero>は|戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>got Sigurd the Warrior!<me 60>"
-    },
-    "17": {
-        "かばんの中から　シグルドの声が聞こえる。": "I heard Sigurd's voice in my bag..."
-    },
-    "18": {
-        "「どうやら　これで|　キミの使命は　済んだようだな！": "Looks like your mission is over!"
-    },
-    "19": {
-        "「それでは　すまないが　ボクの仲間が待つ|　ヴァルハラの館へ　向かってくれ！": "Now, if you'll excuse me, I need you to make|your way to the halls of Valhalla, where my|friends await."
-    },
-    "20": {
-        "「じつは　幸運なことに　ヴァルハラの館は|　この　巨人族の町にあるんだ！": "Fortunately, Valhalla's mansion is right here|in the city of the giants!"
-    },
-    "21": {
-        "「あの階段を上がれば　巨人族の住まう|　特別　大きな家がある。そこに入って|　右手にある　桃色の扉の部屋を目指してくれ！": "If you go up those stairs, you'll come to a|special, large house inhabited by giants...|Go in there and to the right, to the room|<br>|with the peach-colored door!"
-    },
-    "22": {
-        "「皆！　遅くなって　すまない！|　ボクだ！　今　帰ったぞ！！": "Hey, guys! Sorry I'm late! It's me! I just|got home!"
-    },
-    "23": {
-        "「おおっ　シグルド様！！|　よくぞ……　ご無事で　お帰りになりました！": "Oh, Master Sigurd! Well... You've returned|safely!"
-    },
-    "24": {
-        "「おケガが　ねえようで　なによりです。|　アッシらは　皆　シグルド様の　お帰りを|　首を長くして　お待ちしておりやした。": "I'm glad he's not hurt. We've all been|waiting for Sigurd's return for a long time."
-    },
-    "25": {
-        "「ところで　その巨人族は……？": "By the way, this Titan race...?"
-    },
-    "26": {
-        "「あの者の　視線をあびても|　身体が動く！　ということは…………": "I can move my body even when that thing is|staring at me! So that means..."
-    },
-    "27": {
-        "「シグルド様！　ついに巨人族の戦士に|　ふさわしき者を　このヴァルハラの館へと|　お連れになったのですな！": "Master Sigurd! At last you have brought a|worthy warrior of the giant race to the halls|of Valhalla!"
-    },
-    "28": {
-        "「<pc>。我々　ヴァルハラの戦士は|　先ほどの術の　かかっていない　巨人族の|　視線をあびると　身体が動かなくなるんだ。": "<pc> I'm sorry. We warriors of Valhalla can't move|our bodies when we're under the gaze of the|unarmed giants..."
-    },
-    "29": {
-        "「これは　我々が　世の理に背いたゆえの制約。|　ヴァルハラの戦士は　もとは皆|　戦いのうちに　命を落とした戦士なのだ。": "This is because we have disobeyed the laws of|the world. The warriors of Valhalla were all|warriors who lost their lives in battle..."
-    },
-    "30": {
-        "「テキスト削除": "text deletion"
-    },
-    "31": {
-        "「さあ！　キミを　このヴァルハラの館へ|　招いた理由を話そう。": "Come on! I invited you to Valhalla for a|reason."
-    },
-    "32": {
-        "<center>キミたち　巨人族は　知らないだろう。|世界は　調停者オーディンと呼ばれる|大いなる存在に　支配されていることを。": "You giants do not know... The world is ruled|by a great being called Odin the Mediator."
-    },
-    "33": {
-        "<center>万物は　調停者オーディンにより|その形　その在り方を　さだめられ|存在を　許されているのだ。": "All things were created by Odin, the|Mediator, to shape and shape and shape and|shape and shape and shape and shape and shape|<br>|and shape."
-    },
-    "34": {
-        "<center>その　オーディンの　かたわらには|我らの主であり　世界の均衡を保つチカラを持つ|天命の戦乙女の姿が　常に　あった。": "I'm sure you'll be able to figure out what's|going on."
-    },
-    "35": {
-        "<center>しかし……　調停者オーディンは|突如　天命の戦乙女を　いずこかへ連れ去り|自ら　世界の均衡を　崩し始めた。": "But then... Suddenly, Odin the Mediator took|the Maiden of Heaven and destroyed the|balance of the world himself."
-    },
-    "36": {
-        "<center>オーディンは……|この世界を　闇に葬ろうとしているのだ。": "Odin... Odin is about to bury this world in|darkness."
-    },
-    "37": {
-        "「……我々は　ヴァルハラの戦士だ！|　必ずや　我らが主　天命の戦乙女を奪還し|　世界の均衡を　取り戻す！": "... We are the warriors of Valhalla! We will|reclaim our master, the Maiden of Heaven, and|restore balance to the world!"
-    },
-    "38": {
-        "「テキスト削除": "text deletion"
-    },
-    "39": {
-        "「天命の戦乙女の　行方を探すためには|　三賢人と呼ばれる方々の　おチカラを|　借りねばなりません。": "In order to find the whereabouts of the|Maiden of Heaven, we must rely on the help of|the so-called Three Wise Men..."
-    },
-    "40": {
-        "「三賢人とは　英知の結晶……。世界の均衡を|　より堅牢なものとする　チカラを持つ方々ですが|　その居場所は　つかめておりません……。": "The Three Wise Men are the crystallization of|wisdom... They have the power to make the|world's equilibrium more secure, but we have|<br>|yet to locate them."
-    },
-    "41": {
-        "「テキスト削除": "text deletion"
-    },
-    "42": {
-        "「勇猛なる巨人族　<pc>よ！|　このヴァルハラの館には　古来より|　ある言い伝えが　語り継がれている。": "A tribe of brave giants<pc> No! In the halls of Valhalla, there is a|legend that has been passed down for|centuries..."
-    },
-    "43": {
-        "「世界の均衡が　崩れかけし時|　選ばれたる巨人族の戦士が　我らの道標となり|　世界を　闇から救うだろう……と。": "When the balance of the world is on the verge|of collapse, a chosen warrior of the Titan|race will be our beacon and save the world|<br>|from darkness. ...."
-    },
-    "44": {
-        "「ボクは　あの巨鳥と戦うキミを見て　確信した！|　巨人族の戦士に　ふさわしき者は|　キミのほかに　いない……！": "I saw you fight that giant bird and I knew|for sure! There's no one better to be a Titan|warrior than you..."
-    },
-    "45": {
-        "「<pc>！　我ら　ヴァルハラの戦士の|　道標になってくれ！　盟友の契りを結び|　巨人族の戦士となって　ともに　戦ってくれ！<yesno><close>": "<pc> You are a beacon! Be a beacon for us, the|warriors of Valhalla! Make us allies, become|warriors of the giant race, and fight with|<br>|us!<yesno><close>"
-    },
-    "46": {
-        "「しかし　このままでは　世界は|　闇に　葬り去られてしまう！|　頼む……キミのチカラが　必要なのだ！": "But if we don't, the world will be left in|darkness! Please... I need your help!"
-    },
-    "47": {
-        "「ありがとう　<pc>！|　キミなら　そう言ってくれると　信じていた！": "Thank you<pc> I knew it! I knew you'd say that. I knew|you'd say that!"
-    },
-    "48": {
-        "<if_woman>「皆　しかと見よ！|　彼女こそが　我らの道標となる|　巨人族の戦士　<pc>である！！<else>「皆　しかと見よ！|　彼こそが　我らの道標となる|　巨人族の戦士　<pc>である！！<endif>": "<if_woman>Behold her! She is our beacon, the warrior of|the giant race.<pc>   It is!<else>Behold him! He is the warrior of the giant|race who will be our guide.<pc> It is!<endif>"
-    },
-    "49": {
-        "「心強き　盟友を得た今|　我らの勝利は　約束されたも同然だ！": "Now that we have a strong ally, our victory|is as good as assured!"
-    },
-    "50": {
-        "「おぉおおおぉおおおーーー！！": "Oooohhhh!"
-    },
-    "51": {
-        "「フッ　バカバカしい。|　付き合っていられませんね。": "You idiot... I can't keep up with you..."
-    },
-    "52": {
-        "「愚鈍な巨人族ごときが|　調停者オーディンを相手に|　何が　できるというのです？": "What could a simpleton of the Titan race|possibly do against Odin the Mediator?"
-    },
-    "53": {
-        "「ハーゲン！　てめえ　クチを慎め！！": "Hagen! You watch your mouth!"
-    },
-    "54": {
-        "「よせ　フロッティ！": "No, Flotilla!"
-    },
-    "55": {
-        "「ハーゲンよ。キミの　戦士としての能力は|　ボクも買っている……。しかし　盟友となった|　<pc>を　愚弄することは　許さん！": "Har... I've seen what you can do as a|warrior. But you've become an ally.<pc> I will not allow you to taunt me!"
-    },
-    "56": {
-        "「さあ　巨人族の戦士　<pc>よ！|　粗末な品だが　これを受け取ってくれ。|　すこしは　キミの助けに　なるだろう。": "Come on, warrior of the giant race<pc> Hey! I know it's not much, but if you could|just take this... I thought it might help you|a little."
-    },
-    "57": {
-        "「我々は　全力を尽くして|　三賢人の居場所を　探しだしてみせる！": "We will do everything in our power to locate|the Three Wise Men!"
-    },
-    "58": {
-        "「何か　わかったことがあれば　しらせよう。|　それまでは　休息を取っていてくれ！": "I'll let you know if I learn anything... In|the meantime, I suggest you get some rest!"
-    },
-    "59": {
-        "「巨人族の戦士　<pc>よ！|　今　ボクたちは　全力を尽くして|　三賢人の居場所を　探しているところだ。": "Warrior of the Giant Race<pc> Hey! Right now, we're doing everything we can|to locate the Three Wise Men."
-    },
-    "60": {
-        "「何か　わかったことがあれば　しらせよう。|　それまでは　休息を取っていてくれ！": "I'll let you know if I learn anything... In|the meantime, I suggest you get some rest!"
-    },
-    "61": {
-        "「おぉおおおぉおおおーーー！！": "Oooohhhh!"
-    }
+  "1": {
+    "<cs_pchero>は|ニーベルのゆびわ（だいじなもの）を|手に入れた！<me 60>": "<cs_pchero>I've got Nibel's Cradle!<me 60>"
+  },
+  "2": {
+    "<center>……待っ……　れ……": " Wait Wait"
+  },
+  "3": {
+    "「巨人族よ！　ボクの声が　聞こえるか？<yesno><close>": "Giant people! Can you hear my voice?<yesno><close>"
+  },
+  "4": {
+    "「おお！　聞こえているか！|　どうやら術は　成功したようだな！": "Oh! You can hear me! Looks like the trick|worked!"
+  },
+  "5": {
+    "「おどろかせて　すまない。|　今のは　ボクと　巨人族であるキミが|　言葉を交わせるようにするための術だったんだ。": "I'm sorry to scare you. That was just a trick|to get me and you, the giant, to talk to each|other."
+  },
+  "6": {
+    "「ボクの名は　シグルド！|　世界の均衡を守るべく戦う　ヴァルハラの戦士！": "My name is Sigurd! I am a warrior of|Valhalla, fighting to protect the balance of|the world!"
+  },
+  "7": {
+    "「キミの名は……　そうか　<cs_pchero>か！|　ボクの想像どおり　猛々しく　美しい名前だ。": "Your name is Okay<cs_pchero>Oh, my God! It's just as fierce and beautiful|as I imagined it would be."
+  },
+  "8": {
+    "「勇猛な巨人族　<cs_pchero>よ！|　キミは　気づいているか？|　我らの世界の均衡が　崩れ始めていることに。": "A tribe of brave giants<cs_pchero>Hey! Have you noticed? The balance of our|world is beginning to shift."
+  },
+  "9": {
+    "「ボクは　それを食い止めるために　長い旅を|　していたが　その途中で　先ほどの巨鳥に捕まり|　この巣に　囚われてしまったんだ。": "I've been on a long journey to stop it, but|along the way, I've been captured by this|giant bird and trapped in this nest."
+  },
+  "10": {
+    "「テキスト削除": "text deletion"
+  },
+  "11": {
+    "「まったく　とんだ目にあったが|　これも　<cs_pchero>に　出会うための|　運命だったのかもしれない。": "It's been a hell of a ride| You know what?<cs_pchero>Maybe it was my destiny to meet..."
+  },
+  "12": {
+    "「キミに　相談したいことがあるんだ。|　すまないが　仲間の待つ　ヴァルハラの館へ|　ボクを　連れていってくれないだろうか？<yesno><close>": "There's something I need to talk to you|about. I'm sorry, but I was wondering if you|could take me to Valhalla where my friends|<br>|are waiting.<yesno><close>"
+  },
+  "13": {
+    "「……なんだって？|　キミは　人に頼まれて　巨鳥に奪われた指輪を|　取り返しにきていたのか。": "... What is it? You've been sent by someone|to retrieve a ring that was stolen by a giant|bird."
+  },
+  "14": {
+    "「それなら　優先すべきは　その使命だな。|　まずは　その指輪を　持ち主に届けよう！": "Then our priority is to use it... First, we|must get the ring to its rightful owner!"
+  },
+  "15": {
+    "「勇猛な巨人族　<cs_pchero>よ！|　ボクの足では　移動するのに　時間がかかる。|　キミの　かばんに　入らせてもらうぞ。": "A tribe of brave giants<cs_pchero>No! It's gonna take me a while to get around|on my own. I'll just put it in your bag."
+  },
+  "16": {
+    "<cs_pchero>は|戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>got Sigurd the Warrior!<me 60>"
+  },
+  "17": {
+    "かばんの中から　シグルドの声が聞こえる。": "I heard Sigurd's voice in my bag..."
+  },
+  "18": {
+    "「どうやら　これで|　キミの使命は　済んだようだな！": "Looks like your mission is over!"
+  },
+  "19": {
+    "「それでは　すまないが　ボクの仲間が待つ|　ヴァルハラの館へ　向かってくれ！": "Now, if you'll excuse me, I need you to make|your way to the halls of Valhalla, where my|friends await."
+  },
+  "20": {
+    "「じつは　幸運なことに　ヴァルハラの館は|　この　巨人族の町にあるんだ！": "Fortunately, Valhalla's mansion is right here|in the city of the giants!"
+  },
+  "21": {
+    "「あの階段を上がれば　巨人族の住まう|　特別　大きな家がある。そこに入って|　右手にある　桃色の扉の部屋を目指してくれ！": "If you go up those stairs, you'll come to a|special, large house inhabited by giants...|Go in there and to the right, to the room|<br>|with the peach-colored door!"
+  },
+  "22": {
+    "「皆！　遅くなって　すまない！|　ボクだ！　今　帰ったぞ！！": "Hey, guys! Sorry I'm late! It's me! I just|got home!"
+  },
+  "23": {
+    "「おおっ　シグルド様！！|　よくぞ……　ご無事で　お帰りになりました！": "Oh, Master Sigurd! Well... You've returned|safely!"
+  },
+  "24": {
+    "「おケガが　ねえようで　なによりです。|　アッシらは　皆　シグルド様の　お帰りを|　首を長くして　お待ちしておりやした。": "I'm glad he's not hurt. We've all been|waiting for Sigurd's return for a long time."
+  },
+  "25": {
+    "「ところで　その巨人族は……？": "By the way, this Titan race...?"
+  },
+  "26": {
+    "「あの者の　視線をあびても|　身体が動く！　ということは…………": "I can move my body even when that thing is|staring at me! So that means..."
+  },
+  "27": {
+    "「シグルド様！　ついに巨人族の戦士に|　ふさわしき者を　このヴァルハラの館へと|　お連れになったのですな！": "Master Sigurd! At last you have brought a|worthy warrior of the giant race to the halls|of Valhalla!"
+  },
+  "28": {
+    "「<pc>。我々　ヴァルハラの戦士は|　先ほどの術の　かかっていない　巨人族の|　視線をあびると　身体が動かなくなるんだ。": "<pc> I'm sorry. We warriors of Valhalla can't move|our bodies when we're under the gaze of the|unarmed giants..."
+  },
+  "29": {
+    "「これは　我々が　世の理に背いたゆえの制約。|　ヴァルハラの戦士は　もとは皆|　戦いのうちに　命を落とした戦士なのだ。": "This is because we have disobeyed the laws of|the world. The warriors of Valhalla were all|warriors who lost their lives in battle..."
+  },
+  "30": {
+    "「テキスト削除": "text deletion"
+  },
+  "31": {
+    "「さあ！　キミを　このヴァルハラの館へ|　招いた理由を話そう。": "Come on! I invited you to Valhalla for a|reason."
+  },
+  "32": {
+    "<center>キミたち　巨人族は　知らないだろう。|世界は　調停者オーディンと呼ばれる|大いなる存在に　支配されていることを。": "You giants do not know... The world is ruled|by a great being called Odin the Mediator."
+  },
+  "33": {
+    "<center>万物は　調停者オーディンにより|その形　その在り方を　さだめられ|存在を　許されているのだ。": "All things were created by Odin, the|Mediator, to shape and shape and shape and|shape and shape and shape and shape and shape|<br>|and shape."
+  },
+  "34": {
+    "<center>その　オーディンの　かたわらには|我らの主であり　世界の均衡を保つチカラを持つ|天命の戦乙女の姿が　常に　あった。": "I'm sure you'll be able to figure out what's|going on."
+  },
+  "35": {
+    "<center>しかし……　調停者オーディンは|突如　天命の戦乙女を　いずこかへ連れ去り|自ら　世界の均衡を　崩し始めた。": "But then... Suddenly, Odin the Mediator took|the Maiden of Heaven and destroyed the|balance of the world himself."
+  },
+  "36": {
+    "<center>オーディンは……|この世界を　闇に葬ろうとしているのだ。": "Odin... Odin is about to bury this world in|darkness."
+  },
+  "37": {
+    "「……我々は　ヴァルハラの戦士だ！|　必ずや　我らが主　天命の戦乙女を奪還し|　世界の均衡を　取り戻す！": "... We are the warriors of Valhalla! We will|reclaim our master, the Maiden of Heaven, and|restore balance to the world!"
+  },
+  "38": {
+    "「テキスト削除": "text deletion"
+  },
+  "39": {
+    "「天命の戦乙女の　行方を探すためには|　三賢人と呼ばれる方々の　おチカラを|　借りねばなりません。": "In order to find the whereabouts of the|Maiden of Heaven, we must rely on the help of|the so-called Three Wise Men..."
+  },
+  "40": {
+    "「三賢人とは　英知の結晶……。世界の均衡を|　より堅牢なものとする　チカラを持つ方々ですが|　その居場所は　つかめておりません……。": "The Three Wise Men are the crystallization of|wisdom... They have the power to make the|world's equilibrium more secure, but we have|<br>|yet to locate them."
+  },
+  "41": {
+    "「テキスト削除": "text deletion"
+  },
+  "42": {
+    "「勇猛なる巨人族　<pc>よ！|　このヴァルハラの館には　古来より|　ある言い伝えが　語り継がれている。": "A tribe of brave giants<pc> No! In the halls of Valhalla, there is a|legend that has been passed down for|centuries..."
+  },
+  "43": {
+    "「世界の均衡が　崩れかけし時|　選ばれたる巨人族の戦士が　我らの道標となり|　世界を　闇から救うだろう……と。": "When the balance of the world is on the verge|of collapse, a chosen warrior of the Titan|race will be our beacon and save the world|<br>|from darkness. ...."
+  },
+  "44": {
+    "「ボクは　あの巨鳥と戦うキミを見て　確信した！|　巨人族の戦士に　ふさわしき者は|　キミのほかに　いない……！": "I saw you fight that giant bird and I knew|for sure! There's no one better to be a Titan|warrior than you..."
+  },
+  "45": {
+    "「<pc>！　我ら　ヴァルハラの戦士の|　道標になってくれ！　盟友の契りを結び|　巨人族の戦士となって　ともに　戦ってくれ！<yesno><close>": "<pc> You are a beacon! Be a beacon for us, the|warriors of Valhalla! Make us allies, become|warriors of the giant race, and fight with|<br>|us!<yesno><close>"
+  },
+  "46": {
+    "「しかし　このままでは　世界は|　闇に　葬り去られてしまう！|　頼む……キミのチカラが　必要なのだ！": "But if we don't, the world will be left in|darkness! Please... I need your help!"
+  },
+  "47": {
+    "「ありがとう　<pc>！|　キミなら　そう言ってくれると　信じていた！": "Thank you<pc> I knew it! I knew you'd say that. I knew|you'd say that!"
+  },
+  "48": {
+    "<if_woman>「皆　しかと見よ！|　彼女こそが　我らの道標となる|　巨人族の戦士　<pc>である！！<else>「皆　しかと見よ！|　彼こそが　我らの道標となる|　巨人族の戦士　<pc>である！！<endif>": "<if_woman>Behold her! She is our beacon, the warrior of|the giant race.<pc>   It is!<else>Behold him! He is the warrior of the giant|race who will be our guide.<pc> It is!<endif>"
+  },
+  "49": {
+    "「心強き　盟友を得た今|　我らの勝利は　約束されたも同然だ！": "Now that we have a strong ally, our victory|is as good as assured!"
+  },
+  "50": {
+    "「おぉおおおぉおおおーーー！！": "Oooohhhh!"
+  },
+  "51": {
+    "「フッ　バカバカしい。|　付き合っていられませんね。": "You idiot... I can't keep up with you..."
+  },
+  "52": {
+    "「愚鈍な巨人族ごときが|　調停者オーディンを相手に|　何が　できるというのです？": "What could a simpleton of the Titan race|possibly do against Odin the Mediator?"
+  },
+  "53": {
+    "「ハーゲン！　てめえ　クチを慎め！！": "Hagen! You watch your mouth!"
+  },
+  "54": {
+    "「よせ　フロッティ！": "No, Flotilla!"
+  },
+  "55": {
+    "「ハーゲンよ。キミの　戦士としての能力は|　ボクも買っている……。しかし　盟友となった|　<pc>を　愚弄することは　許さん！": "Har... I've seen what you can do as a|warrior. But you've become an ally.<pc> I will not allow you to taunt me!"
+  },
+  "56": {
+    "「さあ　巨人族の戦士　<pc>よ！|　粗末な品だが　これを受け取ってくれ。|　すこしは　キミの助けに　なるだろう。": "Come on, warrior of the giant race<pc> Hey! I know it's not much, but if you could|just take this... I thought it might help you|a little."
+  },
+  "57": {
+    "「我々は　全力を尽くして|　三賢人の居場所を　探しだしてみせる！": "We will do everything in our power to locate|the Three Wise Men!"
+  },
+  "58": {
+    "「何か　わかったことがあれば　しらせよう。|　それまでは　休息を取っていてくれ！": "I'll let you know if I learn anything... In|the meantime, I suggest you get some rest!"
+  },
+  "59": {
+    "「巨人族の戦士　<pc>よ！|　今　ボクたちは　全力を尽くして|　三賢人の居場所を　探しているところだ。": "Warrior of the Giant Race<pc> Hey! Right now, we're doing everything we can|to locate the Three Wise Men."
+  },
+  "60": {
+    "「何か　わかったことがあれば　しらせよう。|　それまでは　休息を取っていてくれ！": "I'll let you know if I learn anything... In|the meantime, I suggest you get some rest!"
+  },
+  "61": {
+    "「おぉおおおぉおおおーーー！！": "Oooohhhh!"
+  }
 }

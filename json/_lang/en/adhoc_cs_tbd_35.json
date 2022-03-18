@@ -1,272 +1,272 @@
 {
-    "1": {
-        "「リウ老師……。|　そなたは　いったい　どこにいるのじゃ……。": "Master Liu... I don't know where the hell you|are."
-    },
-    "2": {
-        "「う～む……。そうやって　ぼんやりしながら|　一日中　何もしねえ　アンタは|　史上最強の　役立たずでごぜえますなッ！": "Hmmm... You're the most useless person ever,|sitting around all day doing nothing!"
-    },
-    "3": {
-        "「よしッ！　決定ッ！|　アンタ　ポツコン３号ッ！": "Yes! It's decided! You are POTUSCON 3!"
-    },
-    "4": {
-        "「ポツコン３号？　よく　わからぬが……|　おぬし　今　余を　役立たずと申したな！？|　無礼者！　世が世なら　討ち首ものぞよ！": "POTUSCON 3? I don't know, but... Did you just|call me useless? Rude! In a world like ours,|you'd be beheaded."
-    },
-    "5": {
-        "「このような時代に　来ることがなければ|　余は　今ごろ　たいそうな技術を|　リウ老師に　教え込まれていたはずじゃ！": "If I hadn't come to this time, Master Liu|would have taught me a great many skills by|now!"
-    },
-    "6": {
-        "「そうじゃ！　リウ老師は　言っておった！|　余が　成人した　あかつきには|　とっておきの技術を　教えてくれるとな！": "That's right! Master Liu said! When I come of|age, he's going to teach me some of his most|valuable skills!"
-    },
-    "7": {
-        "「あのときの約束さえ　果たされていたら……": "If only that promise had been fulfilled"
-    },
-    "8": {
-        "「<pc>！": "<pc> ！"
-    },
-    "9": {
-        "「よかった！　<pc>　ここに　いたのね。|　あなたが　ガラクタ城にいるって|　町の人に聞いて　急いで　駆けつけたのよ！": "Thank God!<pc> There you are... The townspeople told me you|were in the junk castle, so I rushed over|there!"
-    },
-    "10": {
-        "「カルサドラ火山で　大変なことが起きてるの！": "There's something terrible happening at|Calzadora Volcano!"
-    },
-    "11": {
-        "「火山を調査している　学者さんの話によると|　魔物の大群が　火山に押し寄せて|　儀式めいたことをしてるらしいのよ！": "According to the scholars who study|volcanoes, hordes of demons are coming to the|volcano and doing ritualistic things!"
-    },
-    "12": {
-        "「そ…その話　まことかえッ！？": "That... You're telling the truth?"
-    },
-    "13": {
-        "「え……。な…なに　この子……？|　お父さん　また　子供を拾ってきたの？": "Uh... What the... What's this kid...? Dad,|did you pick up another child?"
-    },
-    "14": {
-        "「今の話は　本当よ。|　私も　遠巻きにだけど　鳥っぽい魔物が|　火口付近に集まっているのを　この目で見たわ。": "What I'm talking about now... I, too, saw a|bird-like creature gathering near the crater|from afar."
-    },
-    "15": {
-        "「<pc>よ　聞いたかえ！？|　グルヤンラシュじゃ！|　ついに　きゃつが　動きだしたのじゃ！": "<pc> Did you hear what I said? It's Gurjarash!|It's Gurjarash! He's on the move!"
-    },
-    "16": {
-        "「グ…グルヤン……？　何　それ？": "Gu... Gul'Yang...? What's that?"
-    },
-    "17": {
-        "「くわしく　説明している時間はない！|　カルサドラ火山こそ　きゃつの新たな根城じゃ！|　そこで謀り事を　めぐらせてるのは　明白ぞ！": "There's no time to go into detail! Calzadora|Volcano is Kyatsu's new stronghold! It's|obvious they're staging a plot there!"
-    },
-    "18": {
-        "「あなたの言っていることは|　よく　わからないけど……。|　不吉な予感がするのは　確かよ。": "I don't know what you're talking about,|but... I have a bad feeling about this..."
-    },
-    "19": {
-        "「だから　すぐにでも　火口付近に行って|　あやしい儀式を　止めたいんだけど……。|　空でも飛べないかぎり　あそこには行けないの。": "So I'd like to get over to the crater right|now and stop this weird ritual, but... Unless|you can fly, you can't go there."
-    },
-    "20": {
-        "「ねえ！　<pc>　お願い！|　カルサドラ火山の　火口付近に行く方法を|　私と　一緒に　探してくれない？<yesno><close>": "Hey!<pc> Please! I need you to find a way to get to|the crater of Calzadora Volcano with me.<yesno><close>"
-    },
-    "21": {
-        "「そう言わずに　お願いよ！|　私　ひとりでは　間に合わないかもしれないわ！|　すでに　結構な数の魔物が　集まっているの！": "Don't say that. Please! I might not be able|to make it alone! There's already quite a few|of them here!"
-    },
-    "22": {
-        "「ありがとう　<pc>！|　外から　火口付近に行くのは　ムリみたいだから|　火山の中から行けないか　確かめてみましょう！": "Thank you<pc> I'm sorry. It looks like there's no way to|get to the crater from the outside, so let's|see if we can't get there from inside the|<br>|volcano!"
-    },
-    "23": {
-        "「溶岩の流れる洞くつを　進むことになるけど|　ほかに方法が　思いつかないわ！|　それじゃ　私は　先に行っているわね！": "We'll have to go through a lava flow cave,|but I don't see any other way! Well, I guess|I'll just be on my way!"
-    },
-    "24": {
-        "「待たれよ！": "Wait for me!"
-    },
-    "25": {
-        "「溶岩の流れる洞くつを行くなど　みすみす|　死ににいくようなものじゃ。そなたのような|　かよわき乙女が　なぜ危険を冒すのじゃ！？": "To walk through a lava-flowing cave is like|dying without knowing it... Why would a|maiden of your stature take such a risk?"
-    },
-    "26": {
-        "「私たちの世界が　危険にさらされてるのよ？|　私たちの手で　なんとかするのが当然じゃない。": "Our world is in danger, okay? It's in our|hands to do something about it."
-    },
-    "27": {
-        "「………………………………。": "..."
-    },
-    "28": {
-        "「……そうか。|　じゃがな　どれだけ　そなたが　がんばっても|　カルサドラ火山の火口には　たどりつけぬ！": "...... But no matter how hard you try, you'll|never reach the crater of Calzadora!"
-    },
-    "29": {
-        "「カルサドラ火山の火口……。|　そこは　かつて　ガテリア皇国の民が|　儀式に使っていた　神聖な場所じゃった。": "The crater of Calzadora Volcano... It was|once a sacred place used by the people of the|Empire of Gateria for rituals..."
-    },
-    "30": {
-        "「そのため　他国の者が　火口に立ち入らぬよう|　徒歩で行ける道は　すべて封じたのじゃ。": "That's why we've blocked off all roads|accessible on foot, so that no one from other|countries can enter the crater..."
-    },
-    "31": {
-        "「なんですって！？|　そんなことをしたら　その儀式にだって|　みんな　行けないじゃない！": "What? If we do that, we can't even go to the|ceremony!"
-    },
-    "32": {
-        "「ふっふっふ。心配には及ばぬ。|　なぜならば……": "Hmm... I'm not worried about... Because..."
-    },
-    "33": {
-        "「ガテリアの民は　道を封じる前に|　火口への転送装置を　作っておいたからな！": "Because the people of Gateria built a|transporter to the crater before they blocked|the way!"
-    },
-    "34": {
-        "「火口への転送装置？|　そんなモノが……。": "A transporter to the crater? Something like|that..."
-    },
-    "35": {
-        "「転送装置は　技術的には高度なものだが|　作り自体は単純なものである！　あれならば|　この時代でも　動かすことができよう！": "The transporter is technically advanced, but|it's simple to build! It should be able to|operate in this day and age!"
-    },
-    "36": {
-        "「よしッ！　それでは　<pc>よ！|　転送装置を動かす　起動器具……|　三闘士のオノを　持ってまいれッ！！": "All right! All right, then.<pc> No! The activation device that powers the|transporter... Take the machete of the|triumvirate and go!"
-    },
-    "37": {
-        "「………………………………。": "..."
-    },
-    "38": {
-        "「……コホン。<pc>よ。もったいぶらずに|　持ってくるのじゃ。三闘士のオノくらいなら|　さすがに　この時代にも　あるじゃろう？<yesno><close>": "......<pc> I'll bring it. Don't be shy. I'll bring it...|The machetes of the three warriors are as|common as they come in this age, aren't they?<yesno><close>"
-    },
-    "39": {
-        "「なに言ってんですッ！　元ポツコン２号ッ！|　そんな名前のもん　うちには　ねえですよッ！|　見たことも　聞いたこともねえですッ！": "What are you talking about? Ex-POTUS 2! We|don't have a name like that! I've never seen|or heard of it!"
-    },
-    "40": {
-        "「な　なんじゃとッ！？|　三闘士のオノすら　この時代には|　ないと申すかッ！！": "What the hell? Not even the machetes of the|three warriors are available in this age!"
-    },
-    "41": {
-        "「なんということじゃ……。|　たったひとつの道が　断たれてしもうた……。|　もう　おしまいじゃ……。": "What a mess... Only one path has been cut|off... It's over..."
-    },
-    "42": {
-        "「……ちょっと。": "...ち..."
-    },
-    "43": {
-        "「なに　あきらめてるのよ！？|　ないなら　作ればいいじゃない！": "Why are you giving up? If you don't have it,|why don't you make it?"
-    },
-    "44": {
-        "「さ　三闘士のオノを作るじゃと？|　単純な作りのものゆえ　作れるかもしれぬが|　自分で作るなど　聞いたことがないぞ。": "You want me to make you a sannou no machete?|It's simple enough that you might be able to|make one, but I've never heard of making one|<br>|yourself..."
-    },
-    "45": {
-        "「できるかもしれないことは|　あきらめずに　やってみるのよ。|　道を　切りひらくには　それしかないの。": "Don't give up on what you might be able to|do. It's the only way to create a path..."
-    },
-    "46": {
-        "「………………………………。": "..."
-    },
-    "47": {
-        "「さあ　そのオノのこと　くわしく教えて。|　今　頼れるのは　それを知ってる|　あなたしかいないんだから。": "Now, tell me more about that axe... You're|the only one who knows about it now..."
-    },
-    "48": {
-        "「う　うむ。それでは……|　そちたちにも　三闘士のオノを作るため|　手伝ってもらうとするぞよ。": "Uh... Well then... We'll need your help to|make the machetes for the three warriors."
-    },
-    "49": {
-        "「<pc>。そちは　魔導の歯車と|　古代の戦刃というモノを　手に入れてまいれ。|　いずれも　オノを作るのに欠かせぬ材料じゃ。": "<pc> I'm sorry. You have a magic wheel and an|ancient war blade. both of which are|essential for making machetes..."
-    },
-    "50": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
-    },
-    "51": {
-        "「ひとまず　その　ふたつさえあれば|　三闘士のオノの原型が　できるはずじゃ。|　どうじゃ？　やってくれるか？": "If we can just get those two things, we can|make the prototype for the sannin axe... What|do you think? Will you do it?"
-    },
-    "52": {
-        "「うむ！　ふたつの材料を手に入れたら|　ガラクタ城に　戻ってくるのじゃぞ。": "Mmm! Once we have the two ingredients, we'll|return to the junk castle..."
-    },
-    "53": {
-        "「そなたは　<pc>が帰ってくるまで|　ここで　余の手伝いをしてたもれ。|　オノを作るには　何かと準備が必要なのでな。": "You are<pc> I'll stay here and help with the rest|until... Making a axe requires a lot of|preparation..."
-    },
-    "54": {
-        "「余に　三闘士のオノが作れるかは　わからぬ。|　……だが　そなたの言うように|　自分のチカラを信じて　やってみるぞよ。": "I don't know if I can make a machete... I|don't know... But like you said, I believe in|my own strength and I will try."
-    },
-    "55": {
-        "「うん。お願いね。|　私たちも　信じてるよ。": "Yeah. We... We also believe..."
-    },
-    "56": {
-        "「不思議な子ね。|　火山のことや　昔のことを知ってたりして。|　でも　そのおかげで　助かったわ。": "I wonder... I knew about the volcano, about|the past... But it helped me..."
-    },
-    "57": {
-        "「それじゃ　<pc>。|　三闘士のオノを　みんなで作りましょう！": "All right, then<pc> Let's make a trident! Let's make a trident|for everyone!"
-    },
-    "58": {
-        "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は|　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> and <%sEV_QUE_NAME1> both|appear in the Great Forest of Morinara..."
-    },
-    "59": {
-        "「……ムムッ！|　そちは　下々の者の依頼を　たくさん抱えており|　余の頼みは　受けられぬようじゃな。": "... Mmm! You have so many requests from your|people that you cannot accept mine."
-    },
-    "60": {
-        "「……残念じゃが　仕方がない。|　ほかの依頼を片付けたら　余を手伝ってたもれ。|　頼りにしてるぞよ！": "... I'm sorry, but I don't have a choice.|You'll have to help me when I'm done with my|other projects. I'm counting on you!"
-    },
-    "61": {
-        "「……なんと！　余が　やる気を出したというに|　そちは　手を貸してくれぬと申すか！|　見損なったぞよ　<pc>！": "... What? Now that I'm motivated, you refuse|to help me! I've failed you.<pc> ！"
-    },
-    "62": {
-        "「とはいえ　頼れるのは　そちしか　おらぬ。|　そう言わずに　手を貸してくれぬか。|　余は　ここにおるでな。また来てたもれ。": "But you're the only one I can count on. Don't|say that. Help me... I'll stay here... Come|back..."
-    },
-    "63": {
-        "「おお　<pc>よ！|　転送装置を動かす　三闘士のオノを作るため|　余の手伝いをしてくれる気になったかえ？": "oh!<pc> Hey! Are you ready to help me make a triad of|machetes to power the transporter?"
-    },
-    "64": {
-        "「グルヤンラシュが　謀り事をめぐらす|　カルサドラ火山の　火口付近に行くには|　古代の転送装置を使う以外　道がないのじゃ。": "The only way to get to the crater of Kalsadra|volcano, where Gul'yan Rush is plotting, is|to use an ancient teleportation device..."
-    },
-    "65": {
-        "「三闘士のオノを作るために　必要な材料は|　魔導の歯車と　古代の戦刃の　ふたつ。|　そちには　これを集めてきてもらいたい。": "To make the machetes of the three warriors,|we need a magic gear and an ancient war|blade. I need you to gather these for me..."
-    },
-    "66": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
-    },
-    "67": {
-        "「ひとまず　その　ふたつさえあれば|　三闘士のオノの原型が　できるはずじゃ。|　どうじゃ？　やってくれるか？": "If we can just get those two things, we can|make the prototype for the sannin axe... What|do you think? Will you do it?"
-    },
-    "68": {
-        "「グルヤンラシュが　謀り事をめぐらす|　カルサドラ火山の　火口付近に行くには|　古代の転送装置を使う以外　道がないのじゃ。": "The only way to get to the crater of Kalsadra|volcano, where Gul'yan Rush is plotting, is|to use an ancient teleportation device..."
-    },
-    "69": {
-        "「その転送装置を動かす　三闘士のオノを作るため|　そちには　魔導の歯車と　古代の戦刃という|　ふたつの材料を　集めてきてもらおう。": "In order to make the machetes that will power|the transporter, I need you to gather two|materials, a magic gear and an ancient war|<br>|blade."
-    },
-    "70": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
-    },
-    "71": {
-        "「ふたつの材料を手に入れたら|　ガラクタ城に　戻ってきてたもれ。|　余は　それまで　ほかの準備をしていよう。": "Once we have the two ingredients, we'll|return to the junk castle... In the meantime,|I have other things to do."
-    },
-    "72": {
-        "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は|　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> and <%sEV_QUE_NAME1> both|appear in the Great Forest of Morinara..."
-    },
-    "73": {
-        "「おお　<pc>よ！|　よくぞ　戻った！|　頼んだ品は　手に入れてきたかえ？": "oh!<pc> Hey! You're back! Did you get what I asked|for?"
-    },
-    "74": {
-        "ビャン・ダオに|魔導の歯車と　古代の戦刃を　渡しますか？<yesno><close>": "Do you want me to give Byan Dao the magic|wheel and the ancient war blade?<yesno><close>"
-    },
-    "75": {
-        "「これこれ　<pc>。|　余は　そちの　おちょくりに興じるほど|　ヒマを　持てあましておらぬぞえ？": "such and such<pc> What? I don't have enough time to play with|you, do I?"
-    },
-    "76": {
-        "<pc>は　ビャン・ダオに|魔導の歯車と　古代の戦刃を　渡した！": "<pc> has given Biang Dao the magic gear and the|ancient war blade!"
-    },
-    "77": {
-        "「うむ！　これじゃ　これじゃ！|　大儀であったな　<pc>よ！|　さあ　ほうびを受け取るがよい！": "Mmm! That's it! That's it! You've done a|great service.<pc> Yes! Now take your reward!"
-    },
-    "78": {
-        "「……では　転送装置の起動器具|　三闘士のオノを　作ってみるとしよう。": "So... I'll make you a trident to activate the|transporter."
-    },
-    "79": {
-        "「ダストン殿。|　ここにある物を　使ってもよいかの？": "Das... Do you mind if I use some of this|stuff?"
-    },
-    "80": {
-        "「なっ！　ここにあるのは　どれも役に立たねえ|　ガラクタばかりでごぜえますッ！|　使おうったって　そうはいかねえですよッ！": "What? All of this is just useless junk! Even|if you try to use them, it won't work!"
-    },
-    "81": {
-        "「ふふふ……　何を申すか。ここにある物からは|　失われた文明の息吹を　感じるぞよ。|　三闘士のオノの部品に　うってつけじゃ。": "Hmmm... What the... What I see here is the|breath of a lost civilization... The parts of|a trident..."
-    },
-    "82": {
-        "「はじめて出会ったときは|　うす汚れた　ただの貧民かと思ったが……。|　ダストン殿は　まっこと　お目が高い。": "When I first met him, I thought he was just a|dirty, poor man... But Lord Daston, he's just|so..."
-    },
-    "83": {
-        "「や…やめてくだせえ！|　ほめられるようなことをした覚えはねえですッ！|　使えるもんなら　使ってみやがれですよッ！": "No... Please stop it! I don't remember doing|anything to be praised! If you can use it, go|ahead and use it!"
-    },
-    "84": {
-        "「よし！　それでは　リウ老師直伝の技術で|　この物たちに　命を吹き込み|　三闘士のオノへと　生まれ変わらせてみせよう！": "Yes! Then let's use Master Liu's skills to|bring these things to life and turn them into|the machetes of the three warriors!"
-    },
-    "85": {
-        "「……というわけで　<pc>よ。|　オノの完成まで　少し時間が　かかるじゃろう。|　しばらくしたら　また　戻ってきてたもれ。": " So<pc> I'll be back. It's going to take a while to|finish the axe. I'll be back in a while."
-    },
-    "86": {
-        "「がんばってね　ビャンくん。|　あなたなら　きっと　できるよ！": "Good luck, Vya... I know you can do it!"
-    },
-    "87": {
-        "「それはそうと……。": "Oh, well..."
-    },
-    "88": {
-        "「さっきから　気になっていたんだけど|　あなた　いったい　何者？|　どうして　そんなに昔のことに　くわしいの？": "I've been wondering... who the hell are you?|How do you know so much about the past?"
-    },
-    "89": {
-        "「余か？　余は…………": "I am? I'm..."
-    },
-    "90": {
-        "「信じていた父に　見捨てられ……|　復讐にしか　生き場所を求められぬ|　あわれな男じゃよ……。": "Abandoned by the father I trusted. I am a|miserable man who seeks only revenge."
-    }
+  "1": {
+    "「リウ老師……。|　そなたは　いったい　どこにいるのじゃ……。": "Master Liu... I don't know where the hell you|are."
+  },
+  "2": {
+    "「う～む……。そうやって　ぼんやりしながら|　一日中　何もしねえ　アンタは|　史上最強の　役立たずでごぜえますなッ！": "Hmmm... You're the most useless person ever,|sitting around all day doing nothing!"
+  },
+  "3": {
+    "「よしッ！　決定ッ！|　アンタ　ポツコン３号ッ！": "Yes! It's decided! You are POTUSCON 3!"
+  },
+  "4": {
+    "「ポツコン３号？　よく　わからぬが……|　おぬし　今　余を　役立たずと申したな！？|　無礼者！　世が世なら　討ち首ものぞよ！": "POTUSCON 3? I don't know, but... Did you just|call me useless? Rude! In a world like ours,|you'd be beheaded."
+  },
+  "5": {
+    "「このような時代に　来ることがなければ|　余は　今ごろ　たいそうな技術を|　リウ老師に　教え込まれていたはずじゃ！": "If I hadn't come to this time, Master Liu|would have taught me a great many skills by|now!"
+  },
+  "6": {
+    "「そうじゃ！　リウ老師は　言っておった！|　余が　成人した　あかつきには|　とっておきの技術を　教えてくれるとな！": "That's right! Master Liu said! When I come of|age, he's going to teach me some of his most|valuable skills!"
+  },
+  "7": {
+    "「あのときの約束さえ　果たされていたら……": "If only that promise had been fulfilled"
+  },
+  "8": {
+    "「<pc>！": "<pc> ！"
+  },
+  "9": {
+    "「よかった！　<pc>　ここに　いたのね。|　あなたが　ガラクタ城にいるって|　町の人に聞いて　急いで　駆けつけたのよ！": "Thank God!<pc> There you are... The townspeople told me you|were in the junk castle, so I rushed over|there!"
+  },
+  "10": {
+    "「カルサドラ火山で　大変なことが起きてるの！": "There's something terrible happening at|Calzadora Volcano!"
+  },
+  "11": {
+    "「火山を調査している　学者さんの話によると|　魔物の大群が　火山に押し寄せて|　儀式めいたことをしてるらしいのよ！": "According to the scholars who study|volcanoes, hordes of demons are coming to the|volcano and doing ritualistic things!"
+  },
+  "12": {
+    "「そ…その話　まことかえッ！？": "That... You're telling the truth?"
+  },
+  "13": {
+    "「え……。な…なに　この子……？|　お父さん　また　子供を拾ってきたの？": "Uh... What the... What's this kid...? Dad,|did you pick up another child?"
+  },
+  "14": {
+    "「今の話は　本当よ。|　私も　遠巻きにだけど　鳥っぽい魔物が|　火口付近に集まっているのを　この目で見たわ。": "What I'm talking about now... I, too, saw a|bird-like creature gathering near the crater|from afar."
+  },
+  "15": {
+    "「<pc>よ　聞いたかえ！？|　グルヤンラシュじゃ！|　ついに　きゃつが　動きだしたのじゃ！": "<pc> Did you hear what I said? It's Gurjarash!|It's Gurjarash! He's on the move!"
+  },
+  "16": {
+    "「グ…グルヤン……？　何　それ？": "Gu... Gul'Yang...? What's that?"
+  },
+  "17": {
+    "「くわしく　説明している時間はない！|　カルサドラ火山こそ　きゃつの新たな根城じゃ！|　そこで謀り事を　めぐらせてるのは　明白ぞ！": "There's no time to go into detail! Calzadora|Volcano is Kyatsu's new stronghold! It's|obvious they're staging a plot there!"
+  },
+  "18": {
+    "「あなたの言っていることは|　よく　わからないけど……。|　不吉な予感がするのは　確かよ。": "I don't know what you're talking about,|but... I have a bad feeling about this..."
+  },
+  "19": {
+    "「だから　すぐにでも　火口付近に行って|　あやしい儀式を　止めたいんだけど……。|　空でも飛べないかぎり　あそこには行けないの。": "So I'd like to get over to the crater right|now and stop this weird ritual, but... Unless|you can fly, you can't go there."
+  },
+  "20": {
+    "「ねえ！　<pc>　お願い！|　カルサドラ火山の　火口付近に行く方法を|　私と　一緒に　探してくれない？<yesno><close>": "Hey!<pc> Please! I need you to find a way to get to|the crater of Calzadora Volcano with me.<yesno><close>"
+  },
+  "21": {
+    "「そう言わずに　お願いよ！|　私　ひとりでは　間に合わないかもしれないわ！|　すでに　結構な数の魔物が　集まっているの！": "Don't say that. Please! I might not be able|to make it alone! There's already quite a few|of them here!"
+  },
+  "22": {
+    "「ありがとう　<pc>！|　外から　火口付近に行くのは　ムリみたいだから|　火山の中から行けないか　確かめてみましょう！": "Thank you<pc> I'm sorry. It looks like there's no way to|get to the crater from the outside, so let's|see if we can't get there from inside the|<br>|volcano!"
+  },
+  "23": {
+    "「溶岩の流れる洞くつを　進むことになるけど|　ほかに方法が　思いつかないわ！|　それじゃ　私は　先に行っているわね！": "We'll have to go through a lava flow cave,|but I don't see any other way! Well, I guess|I'll just be on my way!"
+  },
+  "24": {
+    "「待たれよ！": "Wait for me!"
+  },
+  "25": {
+    "「溶岩の流れる洞くつを行くなど　みすみす|　死ににいくようなものじゃ。そなたのような|　かよわき乙女が　なぜ危険を冒すのじゃ！？": "To walk through a lava-flowing cave is like|dying without knowing it... Why would a|maiden of your stature take such a risk?"
+  },
+  "26": {
+    "「私たちの世界が　危険にさらされてるのよ？|　私たちの手で　なんとかするのが当然じゃない。": "Our world is in danger, okay? It's in our|hands to do something about it."
+  },
+  "27": {
+    "「………………………………。": "..."
+  },
+  "28": {
+    "「……そうか。|　じゃがな　どれだけ　そなたが　がんばっても|　カルサドラ火山の火口には　たどりつけぬ！": "...... But no matter how hard you try, you'll|never reach the crater of Calzadora!"
+  },
+  "29": {
+    "「カルサドラ火山の火口……。|　そこは　かつて　ガテリア皇国の民が|　儀式に使っていた　神聖な場所じゃった。": "The crater of Calzadora Volcano... It was|once a sacred place used by the people of the|Empire of Gateria for rituals..."
+  },
+  "30": {
+    "「そのため　他国の者が　火口に立ち入らぬよう|　徒歩で行ける道は　すべて封じたのじゃ。": "That's why we've blocked off all roads|accessible on foot, so that no one from other|countries can enter the crater..."
+  },
+  "31": {
+    "「なんですって！？|　そんなことをしたら　その儀式にだって|　みんな　行けないじゃない！": "What? If we do that, we can't even go to the|ceremony!"
+  },
+  "32": {
+    "「ふっふっふ。心配には及ばぬ。|　なぜならば……": "Hmm... I'm not worried about... Because..."
+  },
+  "33": {
+    "「ガテリアの民は　道を封じる前に|　火口への転送装置を　作っておいたからな！": "Because the people of Gateria built a|transporter to the crater before they blocked|the way!"
+  },
+  "34": {
+    "「火口への転送装置？|　そんなモノが……。": "A transporter to the crater? Something like|that..."
+  },
+  "35": {
+    "「転送装置は　技術的には高度なものだが|　作り自体は単純なものである！　あれならば|　この時代でも　動かすことができよう！": "The transporter is technically advanced, but|it's simple to build! It should be able to|operate in this day and age!"
+  },
+  "36": {
+    "「よしッ！　それでは　<pc>よ！|　転送装置を動かす　起動器具……|　三闘士のオノを　持ってまいれッ！！": "All right! All right, then.<pc> No! The activation device that powers the|transporter... Take the machete of the|triumvirate and go!"
+  },
+  "37": {
+    "「………………………………。": "..."
+  },
+  "38": {
+    "「……コホン。<pc>よ。もったいぶらずに|　持ってくるのじゃ。三闘士のオノくらいなら|　さすがに　この時代にも　あるじゃろう？<yesno><close>": "......<pc> I'll bring it. Don't be shy. I'll bring it...|The machetes of the three warriors are as|common as they come in this age, aren't they?<yesno><close>"
+  },
+  "39": {
+    "「なに言ってんですッ！　元ポツコン２号ッ！|　そんな名前のもん　うちには　ねえですよッ！|　見たことも　聞いたこともねえですッ！": "What are you talking about? Ex-POTUS 2! We|don't have a name like that! I've never seen|or heard of it!"
+  },
+  "40": {
+    "「な　なんじゃとッ！？|　三闘士のオノすら　この時代には|　ないと申すかッ！！": "What the hell? Not even the machetes of the|three warriors are available in this age!"
+  },
+  "41": {
+    "「なんということじゃ……。|　たったひとつの道が　断たれてしもうた……。|　もう　おしまいじゃ……。": "What a mess... Only one path has been cut|off... It's over..."
+  },
+  "42": {
+    "「……ちょっと。": "...ち..."
+  },
+  "43": {
+    "「なに　あきらめてるのよ！？|　ないなら　作ればいいじゃない！": "Why are you giving up? If you don't have it,|why don't you make it?"
+  },
+  "44": {
+    "「さ　三闘士のオノを作るじゃと？|　単純な作りのものゆえ　作れるかもしれぬが|　自分で作るなど　聞いたことがないぞ。": "You want me to make you a sannou no machete?|It's simple enough that you might be able to|make one, but I've never heard of making one|<br>|yourself..."
+  },
+  "45": {
+    "「できるかもしれないことは|　あきらめずに　やってみるのよ。|　道を　切りひらくには　それしかないの。": "Don't give up on what you might be able to|do. It's the only way to create a path..."
+  },
+  "46": {
+    "「………………………………。": "..."
+  },
+  "47": {
+    "「さあ　そのオノのこと　くわしく教えて。|　今　頼れるのは　それを知ってる|　あなたしかいないんだから。": "Now, tell me more about that axe... You're|the only one who knows about it now..."
+  },
+  "48": {
+    "「う　うむ。それでは……|　そちたちにも　三闘士のオノを作るため|　手伝ってもらうとするぞよ。": "Uh... Well then... We'll need your help to|make the machetes for the three warriors."
+  },
+  "49": {
+    "「<pc>。そちは　魔導の歯車と|　古代の戦刃というモノを　手に入れてまいれ。|　いずれも　オノを作るのに欠かせぬ材料じゃ。": "<pc> I'm sorry. You have a magic wheel and an|ancient war blade. both of which are|essential for making machetes..."
+  },
+  "50": {
+    "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
+  },
+  "51": {
+    "「ひとまず　その　ふたつさえあれば|　三闘士のオノの原型が　できるはずじゃ。|　どうじゃ？　やってくれるか？": "If we can just get those two things, we can|make the prototype for the sannin axe... What|do you think? Will you do it?"
+  },
+  "52": {
+    "「うむ！　ふたつの材料を手に入れたら|　ガラクタ城に　戻ってくるのじゃぞ。": "Mmm! Once we have the two ingredients, we'll|return to the junk castle..."
+  },
+  "53": {
+    "「そなたは　<pc>が帰ってくるまで|　ここで　余の手伝いをしてたもれ。|　オノを作るには　何かと準備が必要なのでな。": "You are<pc> I'll stay here and help with the rest|until... Making a axe requires a lot of|preparation..."
+  },
+  "54": {
+    "「余に　三闘士のオノが作れるかは　わからぬ。|　……だが　そなたの言うように|　自分のチカラを信じて　やってみるぞよ。": "I don't know if I can make a machete... I|don't know... But like you said, I believe in|my own strength and I will try."
+  },
+  "55": {
+    "「うん。お願いね。|　私たちも　信じてるよ。": "Yeah. We... We also believe..."
+  },
+  "56": {
+    "「不思議な子ね。|　火山のことや　昔のことを知ってたりして。|　でも　そのおかげで　助かったわ。": "I wonder... I knew about the volcano, about|the past... But it helped me..."
+  },
+  "57": {
+    "「それじゃ　<pc>。|　三闘士のオノを　みんなで作りましょう！": "All right, then<pc> Let's make a trident! Let's make a trident|for everyone!"
+  },
+  "58": {
+    "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は|　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> and <%sEV_QUE_NAME1> both|appear in the Great Forest of Morinara..."
+  },
+  "59": {
+    "「……ムムッ！|　そちは　下々の者の依頼を　たくさん抱えており|　余の頼みは　受けられぬようじゃな。": "... Mmm! You have so many requests from your|people that you cannot accept mine."
+  },
+  "60": {
+    "「……残念じゃが　仕方がない。|　ほかの依頼を片付けたら　余を手伝ってたもれ。|　頼りにしてるぞよ！": "... I'm sorry, but I don't have a choice.|You'll have to help me when I'm done with my|other projects. I'm counting on you!"
+  },
+  "61": {
+    "「……なんと！　余が　やる気を出したというに|　そちは　手を貸してくれぬと申すか！|　見損なったぞよ　<pc>！": "... What? Now that I'm motivated, you refuse|to help me! I've failed you.<pc> ！"
+  },
+  "62": {
+    "「とはいえ　頼れるのは　そちしか　おらぬ。|　そう言わずに　手を貸してくれぬか。|　余は　ここにおるでな。また来てたもれ。": "But you're the only one I can count on. Don't|say that. Help me... I'll stay here... Come|back..."
+  },
+  "63": {
+    "「おお　<pc>よ！|　転送装置を動かす　三闘士のオノを作るため|　余の手伝いをしてくれる気になったかえ？": "oh!<pc> Hey! Are you ready to help me make a triad of|machetes to power the transporter?"
+  },
+  "64": {
+    "「グルヤンラシュが　謀り事をめぐらす|　カルサドラ火山の　火口付近に行くには|　古代の転送装置を使う以外　道がないのじゃ。": "The only way to get to the crater of Kalsadra|volcano, where Gul'yan Rush is plotting, is|to use an ancient teleportation device..."
+  },
+  "65": {
+    "「三闘士のオノを作るために　必要な材料は|　魔導の歯車と　古代の戦刃の　ふたつ。|　そちには　これを集めてきてもらいたい。": "To make the machetes of the three warriors,|we need a magic gear and an ancient war|blade. I need you to gather these for me..."
+  },
+  "66": {
+    "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
+  },
+  "67": {
+    "「ひとまず　その　ふたつさえあれば|　三闘士のオノの原型が　できるはずじゃ。|　どうじゃ？　やってくれるか？": "If we can just get those two things, we can|make the prototype for the sannin axe... What|do you think? Will you do it?"
+  },
+  "68": {
+    "「グルヤンラシュが　謀り事をめぐらす|　カルサドラ火山の　火口付近に行くには|　古代の転送装置を使う以外　道がないのじゃ。": "The only way to get to the crater of Kalsadra|volcano, where Gul'yan Rush is plotting, is|to use an ancient teleportation device..."
+  },
+  "69": {
+    "「その転送装置を動かす　三闘士のオノを作るため|　そちには　魔導の歯車と　古代の戦刃という|　ふたつの材料を　集めてきてもらおう。": "In order to make the machetes that will power|the transporter, I need you to gather two|materials, a magic gear and an ancient war|<br>|blade."
+  },
+  "70": {
+    "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。|　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば|　落とすことがあるでな。": "May I? The Cogwheel of Magic can be found in|<%sEV_QUE_NAM... The ancient war blade can be|dropped by defeating <%sEV_QUE_NAME1>..."
+  },
+  "71": {
+    "「ふたつの材料を手に入れたら|　ガラクタ城に　戻ってきてたもれ。|　余は　それまで　ほかの準備をしていよう。": "Once we have the two ingredients, we'll|return to the junk castle... In the meantime,|I have other things to do."
+  },
+  "72": {
+    "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は|　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> and <%sEV_QUE_NAME1> both|appear in the Great Forest of Morinara..."
+  },
+  "73": {
+    "「おお　<pc>よ！|　よくぞ　戻った！|　頼んだ品は　手に入れてきたかえ？": "oh!<pc> Hey! You're back! Did you get what I asked|for?"
+  },
+  "74": {
+    "ビャン・ダオに|魔導の歯車と　古代の戦刃を　渡しますか？<yesno><close>": "Do you want me to give Byan Dao the magic|wheel and the ancient war blade?<yesno><close>"
+  },
+  "75": {
+    "「これこれ　<pc>。|　余は　そちの　おちょくりに興じるほど|　ヒマを　持てあましておらぬぞえ？": "such and such<pc> What? I don't have enough time to play with|you, do I?"
+  },
+  "76": {
+    "<pc>は　ビャン・ダオに|魔導の歯車と　古代の戦刃を　渡した！": "<pc> has given Biang Dao the magic gear and the|ancient war blade!"
+  },
+  "77": {
+    "「うむ！　これじゃ　これじゃ！|　大儀であったな　<pc>よ！|　さあ　ほうびを受け取るがよい！": "Mmm! That's it! That's it! You've done a|great service.<pc> Yes! Now take your reward!"
+  },
+  "78": {
+    "「……では　転送装置の起動器具|　三闘士のオノを　作ってみるとしよう。": "So... I'll make you a trident to activate the|transporter."
+  },
+  "79": {
+    "「ダストン殿。|　ここにある物を　使ってもよいかの？": "Das... Do you mind if I use some of this|stuff?"
+  },
+  "80": {
+    "「なっ！　ここにあるのは　どれも役に立たねえ|　ガラクタばかりでごぜえますッ！|　使おうったって　そうはいかねえですよッ！": "What? All of this is just useless junk! Even|if you try to use them, it won't work!"
+  },
+  "81": {
+    "「ふふふ……　何を申すか。ここにある物からは|　失われた文明の息吹を　感じるぞよ。|　三闘士のオノの部品に　うってつけじゃ。": "Hmmm... What the... What I see here is the|breath of a lost civilization... The parts of|a trident..."
+  },
+  "82": {
+    "「はじめて出会ったときは|　うす汚れた　ただの貧民かと思ったが……。|　ダストン殿は　まっこと　お目が高い。": "When I first met him, I thought he was just a|dirty, poor man... But Lord Daston, he's just|so..."
+  },
+  "83": {
+    "「や…やめてくだせえ！|　ほめられるようなことをした覚えはねえですッ！|　使えるもんなら　使ってみやがれですよッ！": "No... Please stop it! I don't remember doing|anything to be praised! If you can use it, go|ahead and use it!"
+  },
+  "84": {
+    "「よし！　それでは　リウ老師直伝の技術で|　この物たちに　命を吹き込み|　三闘士のオノへと　生まれ変わらせてみせよう！": "Yes! Then let's use Master Liu's skills to|bring these things to life and turn them into|the machetes of the three warriors!"
+  },
+  "85": {
+    "「……というわけで　<pc>よ。|　オノの完成まで　少し時間が　かかるじゃろう。|　しばらくしたら　また　戻ってきてたもれ。": " So<pc> I'll be back. It's going to take a while to|finish the axe. I'll be back in a while."
+  },
+  "86": {
+    "「がんばってね　ビャンくん。|　あなたなら　きっと　できるよ！": "Good luck, Vya... I know you can do it!"
+  },
+  "87": {
+    "「それはそうと……。": "Oh, well..."
+  },
+  "88": {
+    "「さっきから　気になっていたんだけど|　あなた　いったい　何者？|　どうして　そんなに昔のことに　くわしいの？": "I've been wondering... who the hell are you?|How do you know so much about the past?"
+  },
+  "89": {
+    "「余か？　余は…………": "I am? I'm..."
+  },
+  "90": {
+    "「信じていた父に　見捨てられ……|　復讐にしか　生き場所を求められぬ|　あわれな男じゃよ……。": "Abandoned by the father I trusted. I am a|miserable man who seeks only revenge."
+  }
 }

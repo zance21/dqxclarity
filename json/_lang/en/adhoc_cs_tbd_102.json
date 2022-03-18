@@ -1,341 +1,341 @@
 {
-    "1": {
-        "「ミャハハッ。<pc>さま。|　リベリオの旦那のことを　心配して|　来てくれたんでヤンスね。": "Miah...<pc> Sir. You came to see me because you're|worried about my husband in Riverio."
-    },
-    "2": {
-        "「……むおっ！！|　いい考えが　ひらめいたニャ！！": "... Whoa! I've got an idea!"
-    },
-    "3": {
-        "「<pc>じゃ　ダメだったのニャー。|　マンマーさまの心を　動かすのに|　もっといい素材があることに　気づいたのニャ！": "<pc> That didn't work... I realized I had better|material to move Mamma's heart!"
-    },
-    "4": {
-        "「そうニャ……。あの娘を使うのニャ。": "Yeah, meow. I'll use her."
-    },
-    "5": {
-        "「ミャハッ！　そいつは　いい考えでヤンス。|　さっすが　リベリオの旦那でヤンス～！！": "Mwah! That's a good idea... That's right,|he's Liberio's husband!"
-    },
-    "6": {
-        "「……で　その娘って　誰でヤンスか？": "So... So who's the girl?"
-    },
-    "7": {
-        "「ジュレットの町にいる　ウェディの娘ニャ。|　名は　たしか……ソーミャなのニャ！！": "Wendy's in the town of Juliette. I think his|name is... My name is Sawmya!"
-    },
-    "8": {
-        "「オレが海に流した　ジュニアを助けた娘ニャ。|　あの娘に　とりなしてもらえば|　マンマーさまも　ゆるしてくれるはずニャ！": "I saved Junior from being thrown overboard...|If I could just get her to intercede, maybe|Mamma would forgive me!"
-    },
-    "9": {
-        "「ミャギャ！　待つでヤンス！|　リベリオの旦那が　ウェディの町に行ったら|　大騒ぎどころじゃ　済まないでヤンスよ！！": "Meowgia! Wait for me! If Riverio's husband|goes to Weddy's town, we'll be in for a world|of hurt!"
-    },
-    "10": {
-        "「む……それも　そうだニャ。|　じゃあ　どうすれば　いいかニャ……。": "No... That's true... Then what should I do?"
-    },
-    "11": {
-        "「<pc>　チカラを貸してほしいニャ。|　礼も用意するから　頼むニャ。": "<pc> I need your help... I'll make you a thank|you..."
-    },
-    "12": {
-        "「ジュレットの町へ行って　ソーミャを|　ここに　連れてきてほしいのニャ。|　<pc>　やってくれるよニャ？": "I need you to go to the town of Jourette and|bring Sawmya here...<pc> You'll do it, won't you, Nyah?"
-    },
-    "13": {
-        "「キサマ　ホントに　いいヤツなのニャー！！|　恩に着まくるのニャー。": "Kisama, you're such a good guy! I owe him so|much..."
-    },
-    "14": {
-        "「ソーミャのことは　まかせたのニャ。|　オレたちは　客のために|　食い物の用意を　してくるのニャ。": "We'll take care of Sawmya. We're gonna go get|some food for the guests."
-    },
-    "15": {
-        "「ミャハッ。がってんでヤンス！": "Mi... I'll be back!"
-    },
-    "16": {
-        "「あニャ？　<pc>は　しこたま|　頼まれごとを　抱えているようだニャ。": "Meow?<pc> I'm afraid you have a lot of work to do."
-    },
-    "17": {
-        "「それが　終わったらでいいニャ。|　オレたちは　食い物でも　探してくるニャ。": "And when we're done... We're gonna find some|food."
-    },
-    "18": {
-        "「そんニャー……。オレが　ソーミャを|　連れだすわけには　いかないのニャー。": "No, no... I can't take Sawmya away from you."
-    },
-    "19": {
-        "「<pc>の　気が変わるまで|　オレたちは　食い物でも　探しにいくニャ……。": "<pc> We're going to look for food until you change|your mind..."
-    },
-    "20": {
-        "「ミャッ？　<pc>さま。|　アッシからも　お願いしヤンス。|　旦那の頼みを　聞いてほしいでヤンス。": "Meow?<pc> Thank you. I'd like to ask you a favor... I|need you to do something for my husband."
-    },
-    "21": {
-        "「マンマーさまに　とりなしてもらうために|　オレは　どうあっても　ソーミャという娘の|　チカラを借りなければ　ならないのニャ。": "In order for Mamma to intercede, I must, at|all costs, enlist the help of a girl named|Sawmya..."
-    },
-    "22": {
-        "「ジュレットの町へ行って　ソーミャを|　ここに　連れてきてほしいニャ。|　<pc>　やってくれるよニャ？": "I want you to go to the town of Jourette and|bring Sawmya here...<pc> You'll do it, won't you, Nyah?"
-    },
-    "23": {
-        "「ミャハッ。<pc>さま。|　リベリオの旦那は　狩りに|　がんばりすぎて　お疲れなのでヤンス。": "ミ...<pc> Sir. Riverio's husband has been working too|hard on the hunt, and he's tired, so..."
-    },
-    "24": {
-        "「リベリオの旦那が　マンマーさまの|　おゆるしを得るために　ソーミャお嬢さんを|　ここに　連れてきてほしいのでヤンスよ。<open_irai>": "Master Liberio would like you to bring Miss|Saumya here to obtain Lord Mamma's|forgiveness, so...<open_irai>"
-    },
-    "25": {
-        "<close_irai>「よろしく　お願いするでヤンス！！": "<close_irai>Nice to meet you, too, Yance!"
-    },
-    "26": {
-        "「客のために　うまい獲物を狩らニャー。|　ミャルジ　行くのニャ……。": "I'm going to hunt some good game for my|clients... Melezi, you're leaving..."
-    },
-    "27": {
-        "「ミャッハー。<pc>さま。|　ソーミャお嬢さんを　連れてきたんでヤンスね？": "Miah...<pc> Sir. You've brought Miss Saumya with you,|haven't you?"
-    },
-    "28": {
-        "「おおっ　来てくれたのかニャ！": "Oh, you're here, Meow!"
-    },
-    "29": {
-        "「きゃっ！": "Yikes!"
-    },
-    "30": {
-        "「ミャああ～　ダメでヤンスよ　旦那。|　女の子を　怖がらせちゃあ～。": "Oh, no, no, no, no, no, no. You're scaring|the girl..."
-    },
-    "31": {
-        "「ミャッミャ。失礼しヤンした　お嬢さん。|　アッシは　悪いネコじゃないでヤンスから|　どうか　ご安心を……。": "Mya... I'm sorry, I'm sorry... I'm not a bad|cat, so please don't worry..."
-    },
-    "32": {
-        "「汚い所ですが　どうぞでヤンス。|　ささっ　ずずずいっと　中へ。": "It's a messy place, but please... Quickly,|quickly..."
-    },
-    "33": {
-        "「女の子は　このように扱わないと|　ダメなんでヤンスよ　リベリオの旦那～。": "Girls need to be treated like this, you know."
-    },
-    "34": {
-        "「おおー　さすがは　ミャルジ。|　スーパー・ジェントルキャットだニャ！": "Oh, that's Mi... Super Gentle Cat!"
-    },
-    "35": {
-        "「オレを　覚えているかニャ？|　マンマーさまの家来だった　リベリオだニャ。": "Do you remember me? I was Lady Mamma's|servant, Liberio."
-    },
-    "36": {
-        "「……忘れるわけない！|　ジュニアちゃんに　ひどいことしたもん！！": "... I'll never forget! I did terrible things|to Junior!"
-    },
-    "37": {
-        "「そっ　それについては　反省してるのニャ！|　オレが　まちがっていたのニャ……。": "Yeah, I'm sorry about that. I've been|wrong..."
-    },
-    "38": {
-        "「今は　改心したのニャ。|　マンマーさまの所へ　帰りたいのニャ。|　チカラを　貸してほしいのニャ！": "Now that I'm a changed man... I want to go|home to my mamma... I need your help!"
-    },
-    "39": {
-        "「……本当に　もう悪いことしない？": "...really, no more bad stuff?"
-    },
-    "40": {
-        "「もちろんニャとも！|　だから　マンマーさまに　オレのことを|　ゆるしてやれと　言ってほしいのニャ。": "Of course I do! So please tell Mamma to|forgive me..."
-    },
-    "41": {
-        "「…………やだ。": "....."
-    },
-    "42": {
-        "「ニャッ！？　そこをなんとか！|　なんでもしますニャ。お願いしますニャ！": "Meow! Get out of there! I'll do anything...|Please, meow!"
-    },
-    "43": {
-        "「………………。": "..."
-    },
-    "44": {
-        "「……アッシ　町で盗みをしてたときに|　小耳に　はさんだことが　ありヤンしてね……。": "I overheard something. I overheard something|when I was stealing in town..."
-    },
-    "45": {
-        "「お嬢さんは　ご両親が行方知れずで|　たった　ひとりで　暮らしてなさるとか。": "Your daughter's parents are missing and she's|living alone."
-    },
-    "46": {
-        "「おお　なんと　かわいそうニャ……。|　じゃあ　こうしようニャ！": "Oh, poor meow... Let's do this!"
-    },
-    "47": {
-        "「オレが　両親の行方を探してやるニャ。|　見つけたら　そっちのチカラを貸してもらう。|　ギブ・アンド・テイクというヤツなのニャ！": "I'm gonna find my parents... And when you|find them, you're gonna have to help me find|them. It's all about give and take!"
-    },
-    "48": {
-        "「……そんなの必要ない。|　だから　余計なことをしないで！": "... You don't have to... So don't do anything|you don't have to!"
-    },
-    "49": {
-        "「ニャッ？　それは　変だニャ。|　家族みんなで　いっしょに暮らしたほうが|　いいに決まってるニャ！": "Meow? That's weird... It's always better to|live together as a family."
-    },
-    "50": {
-        "「だまって　待っていればいいのニャ。|　オレの手にかかれば　両親のひとりや　ふたり|　すぐに　見つかるのニャー！！": "All you have to do is shut up and wait... If|I had my way, I'd find one or two parents in|a heartbeat!"
-    },
-    "51": {
-        "「…………じゃあ　勝手に探せば　いいよ。": "I'll... Well, why don't you go look for|yourself?"
-    },
-    "52": {
-        "「そうニャとも。勝手に探してみせるのニャ。|　これで決まり！　決まりなのニャ！！": "Yes, Ni... I'll see what I can find... It's|settled! It's settled!"
-    },
-    "53": {
-        "「ミャルジ！　さっそく　探しにいくのニャ！！|　おまえは　その辺の洞くつとか　見てこいニャ。": "Melezi! Let's go look for him! You go look in|the caves around here..."
-    },
-    "54": {
-        "「ミャーサー！": "Meowther!"
-    },
-    "55": {
-        "「<pc>！　心の友よ！！|　キサマにも　手伝ってもらうのニャ。|　町や城の担当は　キサマなのニャ。": "<pc> My heart! My dear friend! I'm going to need|some help from Kisama. You're in charge of|the town and the castle."
-    },
-    "56": {
-        "「では　ソーミャの両親探し　スタートなのニャ。|　オレは　ハラ減ったので|　食い物を　探しにいってくるニャー。": "Let's start looking for Sawmya's parents...|I'm hungry, so I'm going to go look for some|food..."
-    },
-    "57": {
-        "「あのネコたちに　見つかるわけないよね……。|　私だって　自分の親のこと　知らないんだよ。": "There's no way those cats will find us. I|don't even know my own parents..."
-    },
-    "58": {
-        "「私が　知ってるのは　ヴェリナードの城下町に|　引っ越していった　ソネーゼおばさんが|　赤ん坊の私を　拾ってくれたってことだけ……。": "All I know is that my Aunt Sonnese picked me|up as a baby when she moved to the castle|town of Velinade..."
-    },
-    "59": {
-        "「私……。ジュレットの町へ　帰るね。": "I... To the town of Juliet..."
-    },
-    "60": {
-        "「ミャハー。<pc>さま。|　ソーミャお嬢さんの両親のことは|　何か　わかったでヤンスかね？": "ミ...<pc> Sir. Did you find out anything about your|daughter's parents, Mr. Sawmya?"
-    },
-    "61": {
-        "「……ミャ？　ヴェリナードの城下町に|　ソーミャお嬢さんを拾った　ソネーゼっていう|　おばさんが　いるんでヤンスか！": "... Mya? In the castle town of Velinade,|there's an aunt named Sonese who found Miss|Sawmya."
-    },
-    "62": {
-        "「むうう。食いすぎで　動けない……ニャ。": "... Too much food. I can't move. ....."
-    },
-    "63": {
-        "「リベリオの旦那は　あの調子でヤンスし……。|　ソネーゼおばさんに　お嬢さんの両親のことを|　聞いてみてほしいでヤンス！<open_irai>": "That's what I'm talking about. Ask Aunt|Sonnese about your daughter's parents.<open_irai>"
-    },
-    "64": {
-        "<close_irai>「アッシたちも　できるだけのことは|　してみるでヤンスから。": "<close_irai>We'll do what we can to help..."
-    },
-    "65": {
-        "「リベリオの旦那！|　ソーミャの両親を　探しにいくでヤンスよ！|　ほら　しっかりするでヤンスー！！": "Mr. Liberio! We're going to find Sawmya's|parents! Come on, you can do it, Yansyu!"
-    },
-    "66": {
-        "「む……。わかったニャ。行くのニャ。": "I don't... I know... I'll go..."
-    },
-    "67": {
-        "「ミャハー。<pc>さま。|　何か　持ってきたでヤンスね？|　手がかりが　見つかったでヤンスか！": "ミ...<pc> Sir. You've got something for me, haven't|you? Have you found a clue?"
-    },
-    "68": {
-        "「おおっ　でかしたニャ。心の友よ！！|　それで　何を見つけてきたのニャ？|　よこすニャ。オレに　よこすニャ！": "Oh, great... My dear friend! So what have you|found? Give me... Give it to me!"
-    },
-    "69": {
-        "<pc>は　キャット・リベリオに|ソーミャ宛ての手紙を　うばわれた！": "<pc> Cat Riverio has stolen the letter to Sawmya!"
-    },
-    "70": {
-        "「……ソーミャの両親が　残した手紙とニャ？|　コイツは　すばらしい手がかりニャー！": "... The letter that Sawmya's parents left for|her? That's a great clue. Meow!"
-    },
-    "71": {
-        "「すぐに　ソーミャを連れてくるのニャ。|　この手紙を見せれば　イチコロなのニャ。": "I'll get Sawmya right away. I'll show him|this letter and he'll be happy."
-    },
-    "72": {
-        "「<pc>さまは　お疲れでヤンしょ？|　アッシが　ひとっ走り　行ってくるでヤンス。|　もう　ドジは踏まねえでヤンスから。": "<pc> I'm sure you're tired, aren't you? I'll go|for a run... Don't make any more mistakes..."
-    },
-    "73": {
-        "「何が書いてあるのか　気になるニャー。|　中を見たら　ダメかニャあ。": "I'm curious to see what's on it. I'm not|supposed to look inside."
-    },
-    "74": {
-        "「そうニャ！　手紙の中身が　ちがってたら|　ソーミャが　ガッカリするから　確認するニャ。|　うむ。これは　必要なことなのニャ。": "Yes! I have to make sure that the letter is|the right one, because if it's not, then|Sawmya will be disappointed. I'll check...|<br>|This is necessary..."
-    },
-    "75": {
-        "「ニャにニャに……。|　愛する娘　ソーミャへ……。": "Meow, meow, meow... To my beloved daughter,|Sawmya..."
-    },
-    "76": {
-        "「……私と　君の母である　アリーネは|　恩ある人物のために　レンダーシアへと|　旅立たねば　ならなくなった。": "... I and your mother, Aline, had to travel|to Renderosia to attend to a benefactor..."
-    },
-    "77": {
-        "「おそらく　危険な旅になる。|　君を　連れていくことはできないが|　用が済んだら　すぐに君のもとへ帰るつもりだ。": "Perhaps a dangerous journey. I can't take you|with me, but as soon as I'm done, I'll be on|my way back to you."
-    },
-    "78": {
-        "「だが　もし……。君が　君自身のチカラで|　この手紙を読めるほど　成長したとき|　私たちが　帰っていなかったとしたら……。": "But what if... If we hadn't come back when|you were old enough to read this letter on|your own..."
-    },
-    "79": {
-        "「……そのとき　私たちは|　この世にいないと　思ってほしい……。": "... And when we do, I want you to think that|we're not here."
-    },
-    "80": {
-        "「これは　遺書じゃないのかニャ？|　ふたりは　もう死んでるってことニャ？|　こんなの　ソーミャに教えられないのニャ……。": "Isn't this a suicide note? Doesn't that mean|they're already dead? I can't tell Sawmya|about this..."
-    },
-    "81": {
-        "「うおーん　うおーん！！": "Whoa, whoa, whoa, whoa!"
-    },
-    "82": {
-        "「……オレの親も　早くに死んだのニャよ。|　オレが　突然変異の巨猫族として|　生まれたために　苦労をかけたせいで……。": "... My parents died early. I was born a|mutated giant cat, so I had a lot of|trouble..."
-    },
-    "83": {
-        "「そうニャ……。オレは　忘れてたのニャ。|　親子の愛って　ヤツをニャ……。": "Yeah, meow. I'd forgotten... The love between|a parent and child..."
-    },
-    "84": {
-        "「マンマーさまの息子を　殺そうとしてたなんて|　オレは　なんと　極悪なネコだったのニャー！！": "I was going to kill Lord Mamma's son... what|an evil cat I was!"
-    },
-    "85": {
-        "「ミャヘッ？　リベリオの旦那。|　何を叫んでるんでヤンス？": "Miah-heh? Liberio... What are you shouting|about?"
-    },
-    "86": {
-        "「ニャッ！？　ニャんでもないのニャ。": "Meow! It's nothing..."
-    },
-    "87": {
-        "「お嬢さん　どうぞでヤンス。": "Ma'am, please..."
-    },
-    "88": {
-        "「ささっ　リベリオの旦那。|　お嬢さんに　あの手紙……": "Come on, Liberio... That letter to your|daughter..."
-    },
-    "89": {
-        "「……ソーミャちゃーん。悪いんだけどニャー。|　両親の手がかりが　見つかったっていうのは|　カンちがいだったのニャよー。": "... Sawmya... I'm sorry, but... I'm sorry,|but I thought you said you had a lead on my|parents."
-    },
-    "90": {
-        "「…………何か　隠してる。": "... Something to hide..."
-    },
-    "91": {
-        "「ニャッ！　ニャにも　隠してないのニャ。": "Meow! I'm not hiding anything..."
-    },
-    "92": {
-        "「…………ウソ。": "....."
-    },
-    "93": {
-        "「ウソじゃないのニャ！": "I'm not lying, Nya!"
-    },
-    "94": {
-        "「これ……。私に宛てた手紙……？": "Is this... A letter to me?"
-    },
-    "95": {
-        "「しまったニャ。読んじゃダメなのニャー！": "Oh, no... I can't read this!"
-    },
-    "96": {
-        "「………………。": "..."
-    },
-    "97": {
-        "「お父さんと　お母さんは……。": "Your father and mother..."
-    },
-    "98": {
-        "「ちっ　ちがうのニャ！　それは　アレなのニャ。|　あまりにも　手がかりが見つからなくて|　苦しまぎれに　オレが書いた手紙なのニャ！": "No, no, no, no! It's just... It's a letter I|wrote in desperation because I couldn't find|any clues!"
-    },
-    "99": {
-        "「……もう　いいよ。そんなウソ　つかなくても。": "... Don't... Don't lie to me."
-    },
-    "100": {
-        "「ニャ……。すまんのニャ。": "Meow... Sorry..."
-    },
-    "101": {
-        "「帰ってこれないのには　理由があるのニャ。|　きっと　まだ　どこかで生きてるのニャー！|　気を落としちゃ　ダメなのニャ！！": "There's a reason he hasn't come back... He's|still out there somewhere! Don't lose heart!"
-    },
-    "102": {
-        "「……ありがとう。私　平気だから。|　ひとりでも　ちゃんと生きてくって|　決めたから……だいじょうぶだよ。": "... I'm... I'm fine... I've decided to live|on my own... I'm fine..."
-    },
-    "103": {
-        "「……ごめんなさい。私　今日は帰る。|　この手紙　もらっていいよね。": "I'm... I'm sorry... I got this letter|today... I got this letter..."
-    },
-    "104": {
-        "「もっ　もちろんニャとも。": "Of course, Ni..."
-    },
-    "105": {
-        "「……それじゃ　さようなら。": "... Okay, bye..."
-    },
-    "106": {
-        "「あの娘　強いんだニャあ……。|　ひとりで生きていくって　大変ニャのに。": "She's so strong... It's hard to live on your|own..."
-    },
-    "107": {
-        "「……思えば　オレは　いつも誰かに頼って|　生きてきた気がするのニャ。": "I... Looking back, I feel like I've always|depended on someone else for my survival."
-    },
-    "108": {
-        "「そうニャよ。オレ自身が　やる気を見せて|　がんばらないと　マンマーさまには|　きっと　認めてもらえないのニャ。": "Well... If I don't show my motivation and|work hard, Mamma will not approve..."
-    },
-    "109": {
-        "「だが　オレは　何をすればいいニャ……。|　考える時間が必要そうだニャ。": "But I don't know what I'm supposed to do. I|need time to think."
-    },
-    "110": {
-        "「<pc>。手伝いは　もういいニャ。|　礼を　受け取ってほしいのニャ。　　　": "<pc> I'm done helping. I'm done helping you. I|want you to accept my thanks..."
-    },
-    "111": {
-        "「オレの考えが　まとまった頃に|　ここに来て　話を聞いてほしいニャ。|　よろしく　頼むニャ　<pc>。": "I want you to come here and listen to me when|I've got my mind made up. I'm counting on|you.<pc> 。"
-    },
-    "112": {
-        "「ミャルジよ。オマエの意見も聞きたいニャ。|　外を歩きながら　話をしようニャ。": "Miah... I want to hear what you have to say.|Let's walk outside and talk..."
-    },
-    "113": {
-        "「わかったでヤンス。リベリオの旦那。": "All right, so... Liberio..."
-    }
+  "1": {
+    "「ミャハハッ。<pc>さま。|　リベリオの旦那のことを　心配して|　来てくれたんでヤンスね。": "Miah...<pc> Sir. You came to see me because you're|worried about my husband in Riverio."
+  },
+  "2": {
+    "「……むおっ！！|　いい考えが　ひらめいたニャ！！": "... Whoa! I've got an idea!"
+  },
+  "3": {
+    "「<pc>じゃ　ダメだったのニャー。|　マンマーさまの心を　動かすのに|　もっといい素材があることに　気づいたのニャ！": "<pc> That didn't work... I realized I had better|material to move Mamma's heart!"
+  },
+  "4": {
+    "「そうニャ……。あの娘を使うのニャ。": "Yeah, meow. I'll use her."
+  },
+  "5": {
+    "「ミャハッ！　そいつは　いい考えでヤンス。|　さっすが　リベリオの旦那でヤンス～！！": "Mwah! That's a good idea... That's right,|he's Liberio's husband!"
+  },
+  "6": {
+    "「……で　その娘って　誰でヤンスか？": "So... So who's the girl?"
+  },
+  "7": {
+    "「ジュレットの町にいる　ウェディの娘ニャ。|　名は　たしか……ソーミャなのニャ！！": "Wendy's in the town of Juliette. I think his|name is... My name is Sawmya!"
+  },
+  "8": {
+    "「オレが海に流した　ジュニアを助けた娘ニャ。|　あの娘に　とりなしてもらえば|　マンマーさまも　ゆるしてくれるはずニャ！": "I saved Junior from being thrown overboard...|If I could just get her to intercede, maybe|Mamma would forgive me!"
+  },
+  "9": {
+    "「ミャギャ！　待つでヤンス！|　リベリオの旦那が　ウェディの町に行ったら|　大騒ぎどころじゃ　済まないでヤンスよ！！": "Meowgia! Wait for me! If Riverio's husband|goes to Weddy's town, we'll be in for a world|of hurt!"
+  },
+  "10": {
+    "「む……それも　そうだニャ。|　じゃあ　どうすれば　いいかニャ……。": "No... That's true... Then what should I do?"
+  },
+  "11": {
+    "「<pc>　チカラを貸してほしいニャ。|　礼も用意するから　頼むニャ。": "<pc> I need your help... I'll make you a thank|you..."
+  },
+  "12": {
+    "「ジュレットの町へ行って　ソーミャを|　ここに　連れてきてほしいのニャ。|　<pc>　やってくれるよニャ？": "I need you to go to the town of Jourette and|bring Sawmya here...<pc> You'll do it, won't you, Nyah?"
+  },
+  "13": {
+    "「キサマ　ホントに　いいヤツなのニャー！！|　恩に着まくるのニャー。": "Kisama, you're such a good guy! I owe him so|much..."
+  },
+  "14": {
+    "「ソーミャのことは　まかせたのニャ。|　オレたちは　客のために|　食い物の用意を　してくるのニャ。": "We'll take care of Sawmya. We're gonna go get|some food for the guests."
+  },
+  "15": {
+    "「ミャハッ。がってんでヤンス！": "Mi... I'll be back!"
+  },
+  "16": {
+    "「あニャ？　<pc>は　しこたま|　頼まれごとを　抱えているようだニャ。": "Meow?<pc> I'm afraid you have a lot of work to do."
+  },
+  "17": {
+    "「それが　終わったらでいいニャ。|　オレたちは　食い物でも　探してくるニャ。": "And when we're done... We're gonna find some|food."
+  },
+  "18": {
+    "「そんニャー……。オレが　ソーミャを|　連れだすわけには　いかないのニャー。": "No, no... I can't take Sawmya away from you."
+  },
+  "19": {
+    "「<pc>の　気が変わるまで|　オレたちは　食い物でも　探しにいくニャ……。": "<pc> We're going to look for food until you change|your mind..."
+  },
+  "20": {
+    "「ミャッ？　<pc>さま。|　アッシからも　お願いしヤンス。|　旦那の頼みを　聞いてほしいでヤンス。": "Meow?<pc> Thank you. I'd like to ask you a favor... I|need you to do something for my husband."
+  },
+  "21": {
+    "「マンマーさまに　とりなしてもらうために|　オレは　どうあっても　ソーミャという娘の|　チカラを借りなければ　ならないのニャ。": "In order for Mamma to intercede, I must, at|all costs, enlist the help of a girl named|Sawmya..."
+  },
+  "22": {
+    "「ジュレットの町へ行って　ソーミャを|　ここに　連れてきてほしいニャ。|　<pc>　やってくれるよニャ？": "I want you to go to the town of Jourette and|bring Sawmya here...<pc> You'll do it, won't you, Nyah?"
+  },
+  "23": {
+    "「ミャハッ。<pc>さま。|　リベリオの旦那は　狩りに|　がんばりすぎて　お疲れなのでヤンス。": "ミ...<pc> Sir. Riverio's husband has been working too|hard on the hunt, and he's tired, so..."
+  },
+  "24": {
+    "「リベリオの旦那が　マンマーさまの|　おゆるしを得るために　ソーミャお嬢さんを|　ここに　連れてきてほしいのでヤンスよ。<open_irai>": "Master Liberio would like you to bring Miss|Saumya here to obtain Lord Mamma's|forgiveness, so...<open_irai>"
+  },
+  "25": {
+    "<close_irai>「よろしく　お願いするでヤンス！！": "<close_irai>Nice to meet you, too, Yance!"
+  },
+  "26": {
+    "「客のために　うまい獲物を狩らニャー。|　ミャルジ　行くのニャ……。": "I'm going to hunt some good game for my|clients... Melezi, you're leaving..."
+  },
+  "27": {
+    "「ミャッハー。<pc>さま。|　ソーミャお嬢さんを　連れてきたんでヤンスね？": "Miah...<pc> Sir. You've brought Miss Saumya with you,|haven't you?"
+  },
+  "28": {
+    "「おおっ　来てくれたのかニャ！": "Oh, you're here, Meow!"
+  },
+  "29": {
+    "「きゃっ！": "Yikes!"
+  },
+  "30": {
+    "「ミャああ～　ダメでヤンスよ　旦那。|　女の子を　怖がらせちゃあ～。": "Oh, no, no, no, no, no, no. You're scaring|the girl..."
+  },
+  "31": {
+    "「ミャッミャ。失礼しヤンした　お嬢さん。|　アッシは　悪いネコじゃないでヤンスから|　どうか　ご安心を……。": "Mya... I'm sorry, I'm sorry... I'm not a bad|cat, so please don't worry..."
+  },
+  "32": {
+    "「汚い所ですが　どうぞでヤンス。|　ささっ　ずずずいっと　中へ。": "It's a messy place, but please... Quickly,|quickly..."
+  },
+  "33": {
+    "「女の子は　このように扱わないと|　ダメなんでヤンスよ　リベリオの旦那～。": "Girls need to be treated like this, you know."
+  },
+  "34": {
+    "「おおー　さすがは　ミャルジ。|　スーパー・ジェントルキャットだニャ！": "Oh, that's Mi... Super Gentle Cat!"
+  },
+  "35": {
+    "「オレを　覚えているかニャ？|　マンマーさまの家来だった　リベリオだニャ。": "Do you remember me? I was Lady Mamma's|servant, Liberio."
+  },
+  "36": {
+    "「……忘れるわけない！|　ジュニアちゃんに　ひどいことしたもん！！": "... I'll never forget! I did terrible things|to Junior!"
+  },
+  "37": {
+    "「そっ　それについては　反省してるのニャ！|　オレが　まちがっていたのニャ……。": "Yeah, I'm sorry about that. I've been|wrong..."
+  },
+  "38": {
+    "「今は　改心したのニャ。|　マンマーさまの所へ　帰りたいのニャ。|　チカラを　貸してほしいのニャ！": "Now that I'm a changed man... I want to go|home to my mamma... I need your help!"
+  },
+  "39": {
+    "「……本当に　もう悪いことしない？": "...really, no more bad stuff?"
+  },
+  "40": {
+    "「もちろんニャとも！|　だから　マンマーさまに　オレのことを|　ゆるしてやれと　言ってほしいのニャ。": "Of course I do! So please tell Mamma to|forgive me..."
+  },
+  "41": {
+    "「…………やだ。": "....."
+  },
+  "42": {
+    "「ニャッ！？　そこをなんとか！|　なんでもしますニャ。お願いしますニャ！": "Meow! Get out of there! I'll do anything...|Please, meow!"
+  },
+  "43": {
+    "「………………。": "..."
+  },
+  "44": {
+    "「……アッシ　町で盗みをしてたときに|　小耳に　はさんだことが　ありヤンしてね……。": "I overheard something. I overheard something|when I was stealing in town..."
+  },
+  "45": {
+    "「お嬢さんは　ご両親が行方知れずで|　たった　ひとりで　暮らしてなさるとか。": "Your daughter's parents are missing and she's|living alone."
+  },
+  "46": {
+    "「おお　なんと　かわいそうニャ……。|　じゃあ　こうしようニャ！": "Oh, poor meow... Let's do this!"
+  },
+  "47": {
+    "「オレが　両親の行方を探してやるニャ。|　見つけたら　そっちのチカラを貸してもらう。|　ギブ・アンド・テイクというヤツなのニャ！": "I'm gonna find my parents... And when you|find them, you're gonna have to help me find|them. It's all about give and take!"
+  },
+  "48": {
+    "「……そんなの必要ない。|　だから　余計なことをしないで！": "... You don't have to... So don't do anything|you don't have to!"
+  },
+  "49": {
+    "「ニャッ？　それは　変だニャ。|　家族みんなで　いっしょに暮らしたほうが|　いいに決まってるニャ！": "Meow? That's weird... It's always better to|live together as a family."
+  },
+  "50": {
+    "「だまって　待っていればいいのニャ。|　オレの手にかかれば　両親のひとりや　ふたり|　すぐに　見つかるのニャー！！": "All you have to do is shut up and wait... If|I had my way, I'd find one or two parents in|a heartbeat!"
+  },
+  "51": {
+    "「…………じゃあ　勝手に探せば　いいよ。": "I'll... Well, why don't you go look for|yourself?"
+  },
+  "52": {
+    "「そうニャとも。勝手に探してみせるのニャ。|　これで決まり！　決まりなのニャ！！": "Yes, Ni... I'll see what I can find... It's|settled! It's settled!"
+  },
+  "53": {
+    "「ミャルジ！　さっそく　探しにいくのニャ！！|　おまえは　その辺の洞くつとか　見てこいニャ。": "Melezi! Let's go look for him! You go look in|the caves around here..."
+  },
+  "54": {
+    "「ミャーサー！": "Meowther!"
+  },
+  "55": {
+    "「<pc>！　心の友よ！！|　キサマにも　手伝ってもらうのニャ。|　町や城の担当は　キサマなのニャ。": "<pc> My heart! My dear friend! I'm going to need|some help from Kisama. You're in charge of|the town and the castle."
+  },
+  "56": {
+    "「では　ソーミャの両親探し　スタートなのニャ。|　オレは　ハラ減ったので|　食い物を　探しにいってくるニャー。": "Let's start looking for Sawmya's parents...|I'm hungry, so I'm going to go look for some|food..."
+  },
+  "57": {
+    "「あのネコたちに　見つかるわけないよね……。|　私だって　自分の親のこと　知らないんだよ。": "There's no way those cats will find us. I|don't even know my own parents..."
+  },
+  "58": {
+    "「私が　知ってるのは　ヴェリナードの城下町に|　引っ越していった　ソネーゼおばさんが|　赤ん坊の私を　拾ってくれたってことだけ……。": "All I know is that my Aunt Sonnese picked me|up as a baby when she moved to the castle|town of Velinade..."
+  },
+  "59": {
+    "「私……。ジュレットの町へ　帰るね。": "I... To the town of Juliet..."
+  },
+  "60": {
+    "「ミャハー。<pc>さま。|　ソーミャお嬢さんの両親のことは|　何か　わかったでヤンスかね？": "ミ...<pc> Sir. Did you find out anything about your|daughter's parents, Mr. Sawmya?"
+  },
+  "61": {
+    "「……ミャ？　ヴェリナードの城下町に|　ソーミャお嬢さんを拾った　ソネーゼっていう|　おばさんが　いるんでヤンスか！": "... Mya? In the castle town of Velinade,|there's an aunt named Sonese who found Miss|Sawmya."
+  },
+  "62": {
+    "「むうう。食いすぎで　動けない……ニャ。": "... Too much food. I can't move. ....."
+  },
+  "63": {
+    "「リベリオの旦那は　あの調子でヤンスし……。|　ソネーゼおばさんに　お嬢さんの両親のことを|　聞いてみてほしいでヤンス！<open_irai>": "That's what I'm talking about. Ask Aunt|Sonnese about your daughter's parents.<open_irai>"
+  },
+  "64": {
+    "<close_irai>「アッシたちも　できるだけのことは|　してみるでヤンスから。": "<close_irai>We'll do what we can to help..."
+  },
+  "65": {
+    "「リベリオの旦那！|　ソーミャの両親を　探しにいくでヤンスよ！|　ほら　しっかりするでヤンスー！！": "Mr. Liberio! We're going to find Sawmya's|parents! Come on, you can do it, Yansyu!"
+  },
+  "66": {
+    "「む……。わかったニャ。行くのニャ。": "I don't... I know... I'll go..."
+  },
+  "67": {
+    "「ミャハー。<pc>さま。|　何か　持ってきたでヤンスね？|　手がかりが　見つかったでヤンスか！": "ミ...<pc> Sir. You've got something for me, haven't|you? Have you found a clue?"
+  },
+  "68": {
+    "「おおっ　でかしたニャ。心の友よ！！|　それで　何を見つけてきたのニャ？|　よこすニャ。オレに　よこすニャ！": "Oh, great... My dear friend! So what have you|found? Give me... Give it to me!"
+  },
+  "69": {
+    "<pc>は　キャット・リベリオに|ソーミャ宛ての手紙を　うばわれた！": "<pc> Cat Riverio has stolen the letter to Sawmya!"
+  },
+  "70": {
+    "「……ソーミャの両親が　残した手紙とニャ？|　コイツは　すばらしい手がかりニャー！": "... The letter that Sawmya's parents left for|her? That's a great clue. Meow!"
+  },
+  "71": {
+    "「すぐに　ソーミャを連れてくるのニャ。|　この手紙を見せれば　イチコロなのニャ。": "I'll get Sawmya right away. I'll show him|this letter and he'll be happy."
+  },
+  "72": {
+    "「<pc>さまは　お疲れでヤンしょ？|　アッシが　ひとっ走り　行ってくるでヤンス。|　もう　ドジは踏まねえでヤンスから。": "<pc> I'm sure you're tired, aren't you? I'll go|for a run... Don't make any more mistakes..."
+  },
+  "73": {
+    "「何が書いてあるのか　気になるニャー。|　中を見たら　ダメかニャあ。": "I'm curious to see what's on it. I'm not|supposed to look inside."
+  },
+  "74": {
+    "「そうニャ！　手紙の中身が　ちがってたら|　ソーミャが　ガッカリするから　確認するニャ。|　うむ。これは　必要なことなのニャ。": "Yes! I have to make sure that the letter is|the right one, because if it's not, then|Sawmya will be disappointed. I'll check...|<br>|This is necessary..."
+  },
+  "75": {
+    "「ニャにニャに……。|　愛する娘　ソーミャへ……。": "Meow, meow, meow... To my beloved daughter,|Sawmya..."
+  },
+  "76": {
+    "「……私と　君の母である　アリーネは|　恩ある人物のために　レンダーシアへと|　旅立たねば　ならなくなった。": "... I and your mother, Aline, had to travel|to Renderosia to attend to a benefactor..."
+  },
+  "77": {
+    "「おそらく　危険な旅になる。|　君を　連れていくことはできないが|　用が済んだら　すぐに君のもとへ帰るつもりだ。": "Perhaps a dangerous journey. I can't take you|with me, but as soon as I'm done, I'll be on|my way back to you."
+  },
+  "78": {
+    "「だが　もし……。君が　君自身のチカラで|　この手紙を読めるほど　成長したとき|　私たちが　帰っていなかったとしたら……。": "But what if... If we hadn't come back when|you were old enough to read this letter on|your own..."
+  },
+  "79": {
+    "「……そのとき　私たちは|　この世にいないと　思ってほしい……。": "... And when we do, I want you to think that|we're not here."
+  },
+  "80": {
+    "「これは　遺書じゃないのかニャ？|　ふたりは　もう死んでるってことニャ？|　こんなの　ソーミャに教えられないのニャ……。": "Isn't this a suicide note? Doesn't that mean|they're already dead? I can't tell Sawmya|about this..."
+  },
+  "81": {
+    "「うおーん　うおーん！！": "Whoa, whoa, whoa, whoa!"
+  },
+  "82": {
+    "「……オレの親も　早くに死んだのニャよ。|　オレが　突然変異の巨猫族として|　生まれたために　苦労をかけたせいで……。": "... My parents died early. I was born a|mutated giant cat, so I had a lot of|trouble..."
+  },
+  "83": {
+    "「そうニャ……。オレは　忘れてたのニャ。|　親子の愛って　ヤツをニャ……。": "Yeah, meow. I'd forgotten... The love between|a parent and child..."
+  },
+  "84": {
+    "「マンマーさまの息子を　殺そうとしてたなんて|　オレは　なんと　極悪なネコだったのニャー！！": "I was going to kill Lord Mamma's son... what|an evil cat I was!"
+  },
+  "85": {
+    "「ミャヘッ？　リベリオの旦那。|　何を叫んでるんでヤンス？": "Miah-heh? Liberio... What are you shouting|about?"
+  },
+  "86": {
+    "「ニャッ！？　ニャんでもないのニャ。": "Meow! It's nothing..."
+  },
+  "87": {
+    "「お嬢さん　どうぞでヤンス。": "Ma'am, please..."
+  },
+  "88": {
+    "「ささっ　リベリオの旦那。|　お嬢さんに　あの手紙……": "Come on, Liberio... That letter to your|daughter..."
+  },
+  "89": {
+    "「……ソーミャちゃーん。悪いんだけどニャー。|　両親の手がかりが　見つかったっていうのは|　カンちがいだったのニャよー。": "... Sawmya... I'm sorry, but... I'm sorry,|but I thought you said you had a lead on my|parents."
+  },
+  "90": {
+    "「…………何か　隠してる。": "... Something to hide..."
+  },
+  "91": {
+    "「ニャッ！　ニャにも　隠してないのニャ。": "Meow! I'm not hiding anything..."
+  },
+  "92": {
+    "「…………ウソ。": "....."
+  },
+  "93": {
+    "「ウソじゃないのニャ！": "I'm not lying, Nya!"
+  },
+  "94": {
+    "「これ……。私に宛てた手紙……？": "Is this... A letter to me?"
+  },
+  "95": {
+    "「しまったニャ。読んじゃダメなのニャー！": "Oh, no... I can't read this!"
+  },
+  "96": {
+    "「………………。": "..."
+  },
+  "97": {
+    "「お父さんと　お母さんは……。": "Your father and mother..."
+  },
+  "98": {
+    "「ちっ　ちがうのニャ！　それは　アレなのニャ。|　あまりにも　手がかりが見つからなくて|　苦しまぎれに　オレが書いた手紙なのニャ！": "No, no, no, no! It's just... It's a letter I|wrote in desperation because I couldn't find|any clues!"
+  },
+  "99": {
+    "「……もう　いいよ。そんなウソ　つかなくても。": "... Don't... Don't lie to me."
+  },
+  "100": {
+    "「ニャ……。すまんのニャ。": "Meow... Sorry..."
+  },
+  "101": {
+    "「帰ってこれないのには　理由があるのニャ。|　きっと　まだ　どこかで生きてるのニャー！|　気を落としちゃ　ダメなのニャ！！": "There's a reason he hasn't come back... He's|still out there somewhere! Don't lose heart!"
+  },
+  "102": {
+    "「……ありがとう。私　平気だから。|　ひとりでも　ちゃんと生きてくって|　決めたから……だいじょうぶだよ。": "... I'm... I'm fine... I've decided to live|on my own... I'm fine..."
+  },
+  "103": {
+    "「……ごめんなさい。私　今日は帰る。|　この手紙　もらっていいよね。": "I'm... I'm sorry... I got this letter|today... I got this letter..."
+  },
+  "104": {
+    "「もっ　もちろんニャとも。": "Of course, Ni..."
+  },
+  "105": {
+    "「……それじゃ　さようなら。": "... Okay, bye..."
+  },
+  "106": {
+    "「あの娘　強いんだニャあ……。|　ひとりで生きていくって　大変ニャのに。": "She's so strong... It's hard to live on your|own..."
+  },
+  "107": {
+    "「……思えば　オレは　いつも誰かに頼って|　生きてきた気がするのニャ。": "I... Looking back, I feel like I've always|depended on someone else for my survival."
+  },
+  "108": {
+    "「そうニャよ。オレ自身が　やる気を見せて|　がんばらないと　マンマーさまには|　きっと　認めてもらえないのニャ。": "Well... If I don't show my motivation and|work hard, Mamma will not approve..."
+  },
+  "109": {
+    "「だが　オレは　何をすればいいニャ……。|　考える時間が必要そうだニャ。": "But I don't know what I'm supposed to do. I|need time to think."
+  },
+  "110": {
+    "「<pc>。手伝いは　もういいニャ。|　礼を　受け取ってほしいのニャ。　　　": "<pc> I'm done helping. I'm done helping you. I|want you to accept my thanks..."
+  },
+  "111": {
+    "「オレの考えが　まとまった頃に|　ここに来て　話を聞いてほしいニャ。|　よろしく　頼むニャ　<pc>。": "I want you to come here and listen to me when|I've got my mind made up. I'm counting on|you.<pc> 。"
+  },
+  "112": {
+    "「ミャルジよ。オマエの意見も聞きたいニャ。|　外を歩きながら　話をしようニャ。": "Miah... I want to hear what you have to say.|Let's walk outside and talk..."
+  },
+  "113": {
+    "「わかったでヤンス。リベリオの旦那。": "All right, so... Liberio..."
+  }
 }

@@ -1,137 +1,137 @@
 {
-    "1": {
-        "<pc>の　持っている|『超天遊戯－参の書－』が　光り始めた！": "<pc> I'm sure you're not the only one."
-    },
-    "2": {
-        "白紙だったページに　文字が浮かびあがってくる。|<pc>は　その文字を読んだ。": "The text appeared on a blank page...<pc> The letters are..."
-    },
-    "3": {
-        "なんじゃ　ここも見つかってしまったか。|……まあよいわ。修行の続きといくぞ。|武器に頼りすぎの武闘家に　カツを入れてやろう。": "What? They found this place too... ...|Well... I'm going to continue my training...|I'm a martial artist who relies too much on|<br>|weapons."
-    },
-    "4": {
-        "この辺りをうろつく魔物　<%sEV_QUE_NAME0>を|素手で　倒してくるんじゃ。|武器はもちろん　盾も装備しては　ならんぞ！": "I'm going to slay the demons that roam around|here with my bare hands. No weapons, no|shields, nothing!"
-    },
-    "5": {
-        "それと　聞きあきたかもしれんが　素手で倒したら|その戦いを勝って終わらせなければ　ならんでな。|では　<%nEV_QUE_T_NUM0>匹ほど　やっつけてくるんじゃ！": "And if you've heard this before, if you beat|them with your bare hands, you have to win|the fight to end it... Then you'll have to|<br>|kill a few of them!"
-    },
-    "6": {
-        "「やはり……。修行を進めていたのは|　ヤーン様ではなく　あなたでしたか。": "I knew it... It wasn't Master Jahn who was|promoting the training, but you."
-    },
-    "7": {
-        "「先日は　ごあいさつできず　失礼しました。|　私はヤーン様の従者　ガウラドと申します。|　以後　お見知りおきを。": "I'm sorry I didn't get a chance to say hello|the other day, but... I am Gaurad, squire to|Lord Jahn... May I present..."
-    },
-    "8": {
-        "「きっと　あなたは　何も知らされずに|　その修行を　やっているのでしょうね。": "I'm sure you're doing this without any|knowledge of what you're doing."
-    },
-    "9": {
-        "「超天道士の名を継ぐための修行を|　他人にやらせるとは……。|　まったく　ヤーン様は　何をお考えか。": "To have someone else train me to become a|supernaturalist... What the hell is Master|Jahn doing..."
-    },
-    "10": {
-        "「私も超天道士にあこがれ　弟子入りを望んだ者。|　代われるものなら　代わりたいというのに……。": "I, too, have longed to be a supernaturalist.|I wish to be an apprentice. I wish I could|take his place, but I can't."
-    },
-    "11": {
-        "「いや　失礼しました……。|　それでは　また　お会いしましょう。": "No, I'm sorry... I'll see you soon..."
-    },
-    "12": {
-        "「<pc>殿が　そのような顔をなさるのは|　私のせいです　ヤーン様。": "<pc> It's my fault that you look that way, Your|Highness."
-    },
-    "13": {
-        "「ガウラド？　なんだ～　どういうことだ。|　次の本を　持ってきてくれたんじゃないのか～？": "Gaurad? What the...? I thought you were|bringing me my next book."
-    },
-    "14": {
-        "「私が　次の書を持ってきたとして|　その書の修行を果たすのは　あなたではなく|　<pc>殿というわけですか。": "Suppose I bring you the next book| It is not for you to fulfill the practice of the book|<pc> So you're Tono..."
-    },
-    "15": {
-        "「あちゃ～。バレちまったのか～。": "Oh, no. I've been found out..."
-    },
-    "16": {
-        "「あなたは　伝説の武闘家である　超天道士様が|　その生涯で　唯一の弟子と認めた　お方。": "You are the only disciple that the legendary|martial artist, Lord Choutendou, has ever had|in his life."
-    },
-    "17": {
-        "「だというのに　超天道士様の死後|　あなたは　遊んでばかり……。": "And yet, since the death of the supernatural|masters, you've been playing around..."
-    },
-    "18": {
-        "「そのあなたが　ようやく|　超天道士様の名を継ぐ覚悟を決めたのかと|　私は　よろこんでおりましたのに……。": "I was delighted to see that you had finally|decided to take on the name of the|supernatural master..."
-    },
-    "19": {
-        "「何度も　言ってきたはずだ。|　オレは超天道士の名になんか　興味ない。|　だから　コイツに継いでもらおうと思ってな～。": "I've told you many times... I don't like the|name \"supernaturalist. That's why I've|decided to let him take over."
-    },
-    "20": {
-        "「悪いな～　<pc>。|　だますつもりじゃ　なかったんだ。": "I'm sorry<pc> I didn't mean to trick you. I didn't mean to|deceive you..."
-    },
-    "21": {
-        "「アンタは　オレよりも　超天道士の名を継ぐのに|　ふさわしいヤツだと　思ったんだよ。": "I thought you were more worthy of the|Supernatural name than I..."
-    },
-    "22": {
-        "「それは　まちがいです。|　あなたは　<pc>殿を　大変なことに|　巻き込んでしまわれたのですよ。": "It's a town... You...<pc> I'm afraid you've gotten him into a lot of|trouble."
-    },
-    "23": {
-        "「まちがい～？　巻き込んだって　何にだよ？": "What's wrong? I got you involved in what?"
-    },
-    "24": {
-        "「このままでは　死にます。": "If I don't do something, I'm gonna die."
-    },
-    "25": {
-        "「はあ～？　なんで死ぬんだよ。": "Huh? Why are you dying..."
-    },
-    "26": {
-        "「次の書……最後の書の名は　死の書。|　生きるか死ぬかの　死の文字を冠する書です。": "The next book... The last book is called...|...which bears the word \"death."
-    },
-    "27": {
-        "「だが　修行を進めているのは　コイツだぜ～。|　ということは　死ぬのは　コイツだろ？": "But he's the one who's doing the training...|Which means he's the one who's going to die,|right?"
-    },
-    "28": {
-        "「そうです。<pc>殿は|　超天遊戯の書の修行を　後戻りの|　できないところまで　進めてしまわれた……。": "そ...<pc> Tono has advanced his training in the Book of|Super Heavenly Games to a point where there|is no turning back."
-    },
-    "29": {
-        "「参の書までの修行を終えた　<pc>殿は |　すでに　超天道士様のチカラの多くが|　身に備わった状態にあります。": "I have completed my training up to the Book of Three<pc> Tono has already acquired much of the power|of the supernatural masters..."
-    },
-    "30": {
-        "「その状態の者が　最後の修行を果たせず|　超天道士の名を継げなかった場合|　内なるチカラの暴走に　肉体が耐えきれず……": ""
-    },
-    "31": {
-        "「行きつく先は……死あるのみ。|　<pc>殿が　その運命から|　逃れることは　できないのです。": "I'm going to end up... Death...<pc> There is no way for you to escape that|fate..."
-    },
-    "32": {
-        "「……わかった。オレが　なんとかする。|　死の書をよこせ　ガウラド。": "... Oh, my... I'll... I'll... Give me the|Book of the Dead, Ga..."
-    },
-    "33": {
-        "「私は持っていません。死の書が　どこにあるかは|　ご自身で探されると　よいでしょう。": "I don't have it... You'll have to find out|for yourself where the Book of the Dead is."
-    },
-    "34": {
-        "「超天道士様の弟子である　ヤーン様ならば|　見つけるのは　たやすいことかと。": "Master Jahn, a disciple of the supernatural|masters, should be easy to find."
-    },
-    "35": {
-        "「では　私は　これで。": "So I'll just..."
-    },
-    "36": {
-        "「今の話を　信じられないって顔してるな～。": "You look like you can't believe what you're|hearing..."
-    },
-    "37": {
-        "「ガウラドは　ウソをつかない男だ。|　なによりも　あの超天道士の　じ～さんなら|　やりかねないぜ～。": "Gaurad would never lie to me. But most of|all, the old man, the supernaturalist..."
-    },
-    "38": {
-        "「ヤベ～。昔の記憶が　よみがえってきやがる。|　オレも　いろいろ　ひで～目にあったもんさ。": "... It's bringing back old memories. I've|been through a lot, too..."
-    },
-    "39": {
-        "「……まあ～　それは　置いといてだ。|　とにかく　アンタには　修行を|　続けてもらわなきゃ　ならないみたいだ。": "... I'll leave it at that. Anyway, I guess|you'll have to continue your training..."
-    },
-    "40": {
-        "「いい装備がなきゃ　きついかもしれね～。|　コレを　受け取っておいてくれ。": "If you don't have the right gear, you might|have a tough time... I'll take that."
-    },
-    "41": {
-        "「役に立つかは　わからね～が|　コレを　受け取っておいてくれ。": "I don't know if this is gonna help you, but|you should take this..."
-    },
-    "42": {
-        "「オレは　死の書を探してみる。|　心当たりも　あるっちゃ～　あるんだ。": "I'm looking for the Book of the Dead... I|think I know what it is."
-    },
-    "43": {
-        "「すぐに　見つけてくるからさ。|　後で　武闘家になって　また来てくれ。|　すまないな～　<pc>……。": "I'll find you soon... I'll come back later as|a martial artist... I'm sorry.<pc> ..."
-    },
-    "44": {
-        "「マジかよ…………。": "Seriously..."
-    },
-    "45": {
-        "「責任は　ヤーン様にあるのですよ。|　超天道士の名とは　それほどに|　重たいものなのです。": "The responsibility lies with Master Jahn. The|name of the supernaturalist is such a heavy|burden..."
-    }
+  "1": {
+    "<pc>の　持っている|『超天遊戯－参の書－』が　光り始めた！": "<pc> I'm sure you're not the only one."
+  },
+  "2": {
+    "白紙だったページに　文字が浮かびあがってくる。|<pc>は　その文字を読んだ。": "The text appeared on a blank page...<pc> The letters are..."
+  },
+  "3": {
+    "なんじゃ　ここも見つかってしまったか。|……まあよいわ。修行の続きといくぞ。|武器に頼りすぎの武闘家に　カツを入れてやろう。": "What? They found this place too... ...|Well... I'm going to continue my training...|I'm a martial artist who relies too much on|<br>|weapons."
+  },
+  "4": {
+    "この辺りをうろつく魔物　<%sEV_QUE_NAME0>を|素手で　倒してくるんじゃ。|武器はもちろん　盾も装備しては　ならんぞ！": "I'm going to slay the demons that roam around|here with my bare hands. No weapons, no|shields, nothing!"
+  },
+  "5": {
+    "それと　聞きあきたかもしれんが　素手で倒したら|その戦いを勝って終わらせなければ　ならんでな。|では　<%nEV_QUE_T_NUM0>匹ほど　やっつけてくるんじゃ！": "And if you've heard this before, if you beat|them with your bare hands, you have to win|the fight to end it... Then you'll have to|<br>|kill a few of them!"
+  },
+  "6": {
+    "「やはり……。修行を進めていたのは|　ヤーン様ではなく　あなたでしたか。": "I knew it... It wasn't Master Jahn who was|promoting the training, but you."
+  },
+  "7": {
+    "「先日は　ごあいさつできず　失礼しました。|　私はヤーン様の従者　ガウラドと申します。|　以後　お見知りおきを。": "I'm sorry I didn't get a chance to say hello|the other day, but... I am Gaurad, squire to|Lord Jahn... May I present..."
+  },
+  "8": {
+    "「きっと　あなたは　何も知らされずに|　その修行を　やっているのでしょうね。": "I'm sure you're doing this without any|knowledge of what you're doing."
+  },
+  "9": {
+    "「超天道士の名を継ぐための修行を|　他人にやらせるとは……。|　まったく　ヤーン様は　何をお考えか。": "To have someone else train me to become a|supernaturalist... What the hell is Master|Jahn doing..."
+  },
+  "10": {
+    "「私も超天道士にあこがれ　弟子入りを望んだ者。|　代われるものなら　代わりたいというのに……。": "I, too, have longed to be a supernaturalist.|I wish to be an apprentice. I wish I could|take his place, but I can't."
+  },
+  "11": {
+    "「いや　失礼しました……。|　それでは　また　お会いしましょう。": "No, I'm sorry... I'll see you soon..."
+  },
+  "12": {
+    "「<pc>殿が　そのような顔をなさるのは|　私のせいです　ヤーン様。": "<pc> It's my fault that you look that way, Your|Highness."
+  },
+  "13": {
+    "「ガウラド？　なんだ～　どういうことだ。|　次の本を　持ってきてくれたんじゃないのか～？": "Gaurad? What the...? I thought you were|bringing me my next book."
+  },
+  "14": {
+    "「私が　次の書を持ってきたとして|　その書の修行を果たすのは　あなたではなく|　<pc>殿というわけですか。": "Suppose I bring you the next book| It is not for you to fulfill the practice of the book|<pc> So you're Tono..."
+  },
+  "15": {
+    "「あちゃ～。バレちまったのか～。": "Oh, no. I've been found out..."
+  },
+  "16": {
+    "「あなたは　伝説の武闘家である　超天道士様が|　その生涯で　唯一の弟子と認めた　お方。": "You are the only disciple that the legendary|martial artist, Lord Choutendou, has ever had|in his life."
+  },
+  "17": {
+    "「だというのに　超天道士様の死後|　あなたは　遊んでばかり……。": "And yet, since the death of the supernatural|masters, you've been playing around..."
+  },
+  "18": {
+    "「そのあなたが　ようやく|　超天道士様の名を継ぐ覚悟を決めたのかと|　私は　よろこんでおりましたのに……。": "I was delighted to see that you had finally|decided to take on the name of the|supernatural master..."
+  },
+  "19": {
+    "「何度も　言ってきたはずだ。|　オレは超天道士の名になんか　興味ない。|　だから　コイツに継いでもらおうと思ってな～。": "I've told you many times... I don't like the|name \"supernaturalist. That's why I've|decided to let him take over."
+  },
+  "20": {
+    "「悪いな～　<pc>。|　だますつもりじゃ　なかったんだ。": "I'm sorry<pc> I didn't mean to trick you. I didn't mean to|deceive you..."
+  },
+  "21": {
+    "「アンタは　オレよりも　超天道士の名を継ぐのに|　ふさわしいヤツだと　思ったんだよ。": "I thought you were more worthy of the|Supernatural name than I..."
+  },
+  "22": {
+    "「それは　まちがいです。|　あなたは　<pc>殿を　大変なことに|　巻き込んでしまわれたのですよ。": "It's a town... You...<pc> I'm afraid you've gotten him into a lot of|trouble."
+  },
+  "23": {
+    "「まちがい～？　巻き込んだって　何にだよ？": "What's wrong? I got you involved in what?"
+  },
+  "24": {
+    "「このままでは　死にます。": "If I don't do something, I'm gonna die."
+  },
+  "25": {
+    "「はあ～？　なんで死ぬんだよ。": "Huh? Why are you dying..."
+  },
+  "26": {
+    "「次の書……最後の書の名は　死の書。|　生きるか死ぬかの　死の文字を冠する書です。": "The next book... The last book is called...|...which bears the word \"death."
+  },
+  "27": {
+    "「だが　修行を進めているのは　コイツだぜ～。|　ということは　死ぬのは　コイツだろ？": "But he's the one who's doing the training...|Which means he's the one who's going to die,|right?"
+  },
+  "28": {
+    "「そうです。<pc>殿は|　超天遊戯の書の修行を　後戻りの|　できないところまで　進めてしまわれた……。": "そ...<pc> Tono has advanced his training in the Book of|Super Heavenly Games to a point where there|is no turning back."
+  },
+  "29": {
+    "「参の書までの修行を終えた　<pc>殿は |　すでに　超天道士様のチカラの多くが|　身に備わった状態にあります。": "I have completed my training up to the Book of Three<pc> Tono has already acquired much of the power|of the supernatural masters..."
+  },
+  "30": {
+    "「その状態の者が　最後の修行を果たせず|　超天道士の名を継げなかった場合|　内なるチカラの暴走に　肉体が耐えきれず……": ""
+  },
+  "31": {
+    "「行きつく先は……死あるのみ。|　<pc>殿が　その運命から|　逃れることは　できないのです。": "I'm going to end up... Death...<pc> There is no way for you to escape that|fate..."
+  },
+  "32": {
+    "「……わかった。オレが　なんとかする。|　死の書をよこせ　ガウラド。": "... Oh, my... I'll... I'll... Give me the|Book of the Dead, Ga..."
+  },
+  "33": {
+    "「私は持っていません。死の書が　どこにあるかは|　ご自身で探されると　よいでしょう。": "I don't have it... You'll have to find out|for yourself where the Book of the Dead is."
+  },
+  "34": {
+    "「超天道士様の弟子である　ヤーン様ならば|　見つけるのは　たやすいことかと。": "Master Jahn, a disciple of the supernatural|masters, should be easy to find."
+  },
+  "35": {
+    "「では　私は　これで。": "So I'll just..."
+  },
+  "36": {
+    "「今の話を　信じられないって顔してるな～。": "You look like you can't believe what you're|hearing..."
+  },
+  "37": {
+    "「ガウラドは　ウソをつかない男だ。|　なによりも　あの超天道士の　じ～さんなら|　やりかねないぜ～。": "Gaurad would never lie to me. But most of|all, the old man, the supernaturalist..."
+  },
+  "38": {
+    "「ヤベ～。昔の記憶が　よみがえってきやがる。|　オレも　いろいろ　ひで～目にあったもんさ。": "... It's bringing back old memories. I've|been through a lot, too..."
+  },
+  "39": {
+    "「……まあ～　それは　置いといてだ。|　とにかく　アンタには　修行を|　続けてもらわなきゃ　ならないみたいだ。": "... I'll leave it at that. Anyway, I guess|you'll have to continue your training..."
+  },
+  "40": {
+    "「いい装備がなきゃ　きついかもしれね～。|　コレを　受け取っておいてくれ。": "If you don't have the right gear, you might|have a tough time... I'll take that."
+  },
+  "41": {
+    "「役に立つかは　わからね～が|　コレを　受け取っておいてくれ。": "I don't know if this is gonna help you, but|you should take this..."
+  },
+  "42": {
+    "「オレは　死の書を探してみる。|　心当たりも　あるっちゃ～　あるんだ。": "I'm looking for the Book of the Dead... I|think I know what it is."
+  },
+  "43": {
+    "「すぐに　見つけてくるからさ。|　後で　武闘家になって　また来てくれ。|　すまないな～　<pc>……。": "I'll find you soon... I'll come back later as|a martial artist... I'm sorry.<pc> ..."
+  },
+  "44": {
+    "「マジかよ…………。": "Seriously..."
+  },
+  "45": {
+    "「責任は　ヤーン様にあるのですよ。|　超天道士の名とは　それほどに|　重たいものなのです。": "The responsibility lies with Master Jahn. The|name of the supernaturalist is such a heavy|burden..."
+  }
 }

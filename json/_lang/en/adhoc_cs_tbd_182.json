@@ -1,101 +1,101 @@
 {
-    "1": {
-        "「ありがとうございます　<cs_pchero>さま。|　おかげで　無事に　たどり着けました。": "Thank you very much<cs_pchero>Thank you. Thanks to you, we made it|safely..."
-    },
-    "2": {
-        "「この地が　巨竜の霊丘と呼ばれているのは|　見てのとおり　巨大な竜の骨が|　静かに　眠る地だからです。": ""
-    },
-    "3": {
-        "「かつて　天空を治めたという白銀の竜が|　このアストルティアに墜ち　屍となった姿と|　伝承に　うたわれております。": "Tradition has it that the silver dragon that|once ruled the skies crashed here in Astrutia|and became a corpse."
-    },
-    "4": {
-        "「この地を　儀式の舞台と選んだのは|　その竜の聖なるチカラを　借りるため。|　儀式の成功に　必要なチカラなのです。": "I chose this place as the setting for my|ritual because of the holy power of the|dragon. The power necessary for the success|<br>|of the ritual..."
-    },
-    "5": {
-        "「それでは　ロディアさまの魂を呼び寄せる|　目覚めの儀式を　とりおこないましょう。": "We will now perform the awakening ritual to|invoke the spirit of Lady Rodia."
-    },
-    "6": {
-        "「何が起こるか　わかりません。|　<cs_pchero>さまは　儀式の間|　私たちを守ってくださるよう　お願いします。": "I don't know what's going to happen.<cs_pchero>The Lord asks that you protect us during the|ritual."
-    },
-    "7": {
-        "世告げの姫たちは　太古の祭壇の上で|手を取り合い　儀式を始めた……。": "The heraldic princesses joined hands on an|ancient altar and began a ritual..."
-    },
-    "8": {
-        "「我ら　世告げの姫の主導者たる|　導きのロディアよ。|　目覚めの時は　すでに来たれり……。": "We, the herald princess, are led by our|guide, Rodhe... The time of awakening has|already come..."
-    },
-    "9": {
-        "「願わくば　その魂よ。|　はるかな大地で待つ身に　降臨せよ……。": "I wish... Descend upon me as I wait in the|farthest reaches of the earth."
-    },
-    "10": {
-        "「導きのロディアよ　目覚めたまえ。|　世告げの時は　すでに来たれり……。": "Awake, Rhodia, my guide... The hour of|reckoning has come."
-    },
-    "11": {
-        "世告げの姫たちの身体に|白い光が集まっていく……。": "White light gathered on the bodies of the|princesses of the world..."
-    },
-    "12": {
-        "しかし　突然　その光が　はじけ飛んだ！": "But all of a sudden, that light just burst|out!"
-    },
-    "13": {
-        "「こ　これは……！？|　なんということでしょう……。": "This is...! What a surprise..."
-    },
-    "14": {
-        "「<cs_pchero>さま。儀式は失敗しました。|　ロディアさまの魂は今　呼び寄せることが|　できない状態にあるようです。": "<cs_pchero>Sir. The ritual has failed... Lady Rodia's|soul is now in a state that cannot be|summoned."
-    },
-    "15": {
-        "「こうなれば　シュゼたちが作った結界の中まで|　直接　迎えにいくしかありません。|　<cs_pchero>さまも　同行をお願いします。": "If this happens, we'll have to go directly to|the wards Shuze and the others have created|to pick them up...<cs_pchero>I'm going to need you to come with me."
-    },
-    "16": {
-        "「それでは　まいりましょう……。": "Okay, let's go..."
-    },
-    "17": {
-        "「世告げの姫を　マッサツせよ。|　すべて　マッサツせよ……。": "Massacre the princess... Massacre all of|them."
-    },
-    "18": {
-        "「……結界の中に　魔物が！？|　ロディアさまの魂は……？": "... There's a demon inside the wards! Lord|Rodia's soul..."
-    },
-    "19": {
-        "「マッサツ……せよ！": "Massatsu... Sek yo!"
-    },
-    "20": {
-        "「……なんとしても　魔物を倒し|　ロディアさまの魂を　救わなくてはなりません！|　行きましょう　<cs_pchero>さま！": "... At all costs, we must defeat the demon|and save the soul of Lady Rodia! We must go.<cs_pchero>Sir!"
-    },
-    "21": {
-        "「世告げの姫を　マッサツせよ。|　マッサツ……せよ！": "The princess of the world... Massatsu... Come|on!"
-    },
-    "22": {
-        "「テキスト削除": "text deletion"
-    },
-    "23": {
-        "「私は　導きのロディア。": "I am the guiding lo..."
-    },
-    "24": {
-        "「邪悪なる者の魔の手から　救いだしてくださり|　感謝いたします　<cs_pchero>さま。": "You saved us from the clutches of the evil one| Thank you, sir<cs_pchero>Dear."
-    },
-    "25": {
-        "「今の魔物は　何者なのでしょうか？": "Who are these demons now?"
-    },
-    "26": {
-        "「……くわしくは　わかりませんが|　私たち　世告げの姫の行動を邪魔するために|　遣わされた者と見て　まちがいないでしょう。": "... I don't know the specifics, but it's safe|to assume that he's been sent to interfere|with us, the princesses of the world..."
-    },
-    "27": {
-        "「シュゼとテルナも　あの魔物に襲われ|　命を落としたようです……。|　ですが　悲しんでいる時間はありません。": "It seems that Shuze and Terna were also|attacked by the demon and lost their lives...|But there's no time to grieve..."
-    },
-    "28": {
-        "「私たちには　滅びの時を迎えるまでに|　やらなければならないことが|　まだ　残されているのです。": "We still have a lot of work to do before we|meet our demise."
-    },
-    "29": {
-        "「……<cs_pchero>さま。これからも|　あなたのチカラが　必要となるでしょう。|　どうか　ザマ烽火台へ来てください……。": "<cs_pchero>Thank you. We will need your help... Please,|come to Zama Beacon..."
-    },
-    "30": {
-        "ロディアの魂は　いずこかへと|飛び去っていった……。": "Rodia's soul has flown away..."
-    },
-    "31": {
-        "「<cs_pchero>さま。|　ロディアさまを　救っていただき|　本当に　ありがとうございました。": "<cs_pchero>Thank you. Thank you so much for saving Ms.|Rodia's life."
-    },
-    "32": {
-        "「こちらは　私たちからの　お礼です。|　どうか　お受け取りください。": "This is our gift to you. Please accept|this..."
-    },
-    "33": {
-        "「それぞれの役目を果たすため　私たちは|　自分たちの　あるべき場所に戻ります。|　それでは……。": "To do our part, we must return to where we|belong... So..."
-    }
+  "1": {
+    "「ありがとうございます　<cs_pchero>さま。|　おかげで　無事に　たどり着けました。": "Thank you very much<cs_pchero>Thank you. Thanks to you, we made it|safely..."
+  },
+  "2": {
+    "「この地が　巨竜の霊丘と呼ばれているのは|　見てのとおり　巨大な竜の骨が|　静かに　眠る地だからです。": ""
+  },
+  "3": {
+    "「かつて　天空を治めたという白銀の竜が|　このアストルティアに墜ち　屍となった姿と|　伝承に　うたわれております。": "Tradition has it that the silver dragon that|once ruled the skies crashed here in Astrutia|and became a corpse."
+  },
+  "4": {
+    "「この地を　儀式の舞台と選んだのは|　その竜の聖なるチカラを　借りるため。|　儀式の成功に　必要なチカラなのです。": "I chose this place as the setting for my|ritual because of the holy power of the|dragon. The power necessary for the success|<br>|of the ritual..."
+  },
+  "5": {
+    "「それでは　ロディアさまの魂を呼び寄せる|　目覚めの儀式を　とりおこないましょう。": "We will now perform the awakening ritual to|invoke the spirit of Lady Rodia."
+  },
+  "6": {
+    "「何が起こるか　わかりません。|　<cs_pchero>さまは　儀式の間|　私たちを守ってくださるよう　お願いします。": "I don't know what's going to happen.<cs_pchero>The Lord asks that you protect us during the|ritual."
+  },
+  "7": {
+    "世告げの姫たちは　太古の祭壇の上で|手を取り合い　儀式を始めた……。": "The heraldic princesses joined hands on an|ancient altar and began a ritual..."
+  },
+  "8": {
+    "「我ら　世告げの姫の主導者たる|　導きのロディアよ。|　目覚めの時は　すでに来たれり……。": "We, the herald princess, are led by our|guide, Rodhe... The time of awakening has|already come..."
+  },
+  "9": {
+    "「願わくば　その魂よ。|　はるかな大地で待つ身に　降臨せよ……。": "I wish... Descend upon me as I wait in the|farthest reaches of the earth."
+  },
+  "10": {
+    "「導きのロディアよ　目覚めたまえ。|　世告げの時は　すでに来たれり……。": "Awake, Rhodia, my guide... The hour of|reckoning has come."
+  },
+  "11": {
+    "世告げの姫たちの身体に|白い光が集まっていく……。": "White light gathered on the bodies of the|princesses of the world..."
+  },
+  "12": {
+    "しかし　突然　その光が　はじけ飛んだ！": "But all of a sudden, that light just burst|out!"
+  },
+  "13": {
+    "「こ　これは……！？|　なんということでしょう……。": "This is...! What a surprise..."
+  },
+  "14": {
+    "「<cs_pchero>さま。儀式は失敗しました。|　ロディアさまの魂は今　呼び寄せることが|　できない状態にあるようです。": "<cs_pchero>Sir. The ritual has failed... Lady Rodia's|soul is now in a state that cannot be|summoned."
+  },
+  "15": {
+    "「こうなれば　シュゼたちが作った結界の中まで|　直接　迎えにいくしかありません。|　<cs_pchero>さまも　同行をお願いします。": "If this happens, we'll have to go directly to|the wards Shuze and the others have created|to pick them up...<cs_pchero>I'm going to need you to come with me."
+  },
+  "16": {
+    "「それでは　まいりましょう……。": "Okay, let's go..."
+  },
+  "17": {
+    "「世告げの姫を　マッサツせよ。|　すべて　マッサツせよ……。": "Massacre the princess... Massacre all of|them."
+  },
+  "18": {
+    "「……結界の中に　魔物が！？|　ロディアさまの魂は……？": "... There's a demon inside the wards! Lord|Rodia's soul..."
+  },
+  "19": {
+    "「マッサツ……せよ！": "Massatsu... Sek yo!"
+  },
+  "20": {
+    "「……なんとしても　魔物を倒し|　ロディアさまの魂を　救わなくてはなりません！|　行きましょう　<cs_pchero>さま！": "... At all costs, we must defeat the demon|and save the soul of Lady Rodia! We must go.<cs_pchero>Sir!"
+  },
+  "21": {
+    "「世告げの姫を　マッサツせよ。|　マッサツ……せよ！": "The princess of the world... Massatsu... Come|on!"
+  },
+  "22": {
+    "「テキスト削除": "text deletion"
+  },
+  "23": {
+    "「私は　導きのロディア。": "I am the guiding lo..."
+  },
+  "24": {
+    "「邪悪なる者の魔の手から　救いだしてくださり|　感謝いたします　<cs_pchero>さま。": "You saved us from the clutches of the evil one| Thank you, sir<cs_pchero>Dear."
+  },
+  "25": {
+    "「今の魔物は　何者なのでしょうか？": "Who are these demons now?"
+  },
+  "26": {
+    "「……くわしくは　わかりませんが|　私たち　世告げの姫の行動を邪魔するために|　遣わされた者と見て　まちがいないでしょう。": "... I don't know the specifics, but it's safe|to assume that he's been sent to interfere|with us, the princesses of the world..."
+  },
+  "27": {
+    "「シュゼとテルナも　あの魔物に襲われ|　命を落としたようです……。|　ですが　悲しんでいる時間はありません。": "It seems that Shuze and Terna were also|attacked by the demon and lost their lives...|But there's no time to grieve..."
+  },
+  "28": {
+    "「私たちには　滅びの時を迎えるまでに|　やらなければならないことが|　まだ　残されているのです。": "We still have a lot of work to do before we|meet our demise."
+  },
+  "29": {
+    "「……<cs_pchero>さま。これからも|　あなたのチカラが　必要となるでしょう。|　どうか　ザマ烽火台へ来てください……。": "<cs_pchero>Thank you. We will need your help... Please,|come to Zama Beacon..."
+  },
+  "30": {
+    "ロディアの魂は　いずこかへと|飛び去っていった……。": "Rodia's soul has flown away..."
+  },
+  "31": {
+    "「<cs_pchero>さま。|　ロディアさまを　救っていただき|　本当に　ありがとうございました。": "<cs_pchero>Thank you. Thank you so much for saving Ms.|Rodia's life."
+  },
+  "32": {
+    "「こちらは　私たちからの　お礼です。|　どうか　お受け取りください。": "This is our gift to you. Please accept|this..."
+  },
+  "33": {
+    "「それぞれの役目を果たすため　私たちは|　自分たちの　あるべき場所に戻ります。|　それでは……。": "To do our part, we must return to where we|belong... So..."
+  }
 }

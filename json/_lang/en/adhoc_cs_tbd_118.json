@@ -1,74 +1,74 @@
 {
-    "1": {
-        "<pc>の　持っている|『超天遊戯－弐の書－』が　光り始めた！": "<pc> I'm sure you're not the only one."
-    },
-    "2": {
-        "白紙だったページに　文字が浮かびあがってくる。|<pc>は　その文字を読んだ。": "The text appeared on a blank page...<pc> The letters are..."
-    },
-    "3": {
-        "見つけられてしもうたか。くやしいのう……。|まあ　よいわ。見つけた　ほうびに|きっつい修行を　与えてしんぜよう。": "They found me... That's too bad... Well... As|a reward for finding you, I'm going to give|you a severe beating..."
-    },
-    "4": {
-        "ためるを使って　テンションを上げた状態で|<%sEV_QUE_NAME0>　<%nEV_QUE_T_NUM0>匹に　とどめをさせ！|ヤツらは　この塔の外　風車の丘にいるぞ。": "Use the Retractor to raise the tension, and|let the <%sEV_QUE_NAME0> <%nEV_QUE_T_NUM0>s|finish them off! They're outside this tower,|<br>|on Windmill Hill..."
-    },
-    "5": {
-        "前にも書いたが　とどめをさしたら|その戦いから　逃げたり　負けたりせんように。|ちゃーんと　勝たなきゃいかんからな？": "As I said before, once you've made your|decision, you can't run away from the fight|or lose... You have to win, right?"
-    },
-    "6": {
-        "「こちらにいたのですか　ヤーン様……。|　探すのに　骨が折れましたよ。": "There you are, Master Jahn... I'm having|trouble finding you..."
-    },
-    "7": {
-        "「ん～？　言わなかったっけ　オレ。|　この町で　修行をやるって～。": "Hmm? Didn't I tell you... I'm going to train|in this town..."
-    },
-    "8": {
-        "「この方は　どなたですか？|　はじめて見る方のようですが……。": "Who is this person? I don't think I've ever|seen you before..."
-    },
-    "9": {
-        "「この町で知り合った　ダチの　<pc>だ。|　コイツも武闘家なんで　話が合っちゃってさ～。": "I met a friend of mine here in town<pc> That's right. He's a martial artist too, so|we're on the same page..."
-    },
-    "10": {
-        "「ご友人……ですか。そんなものを作るとは|　ずいぶんと　余裕が　おありのようですね。": "Your friend ...... You can't afford to make|something like that..."
-    },
-    "11": {
-        "「いいじゃねえかよ～　そのくらい。|　今まで　修行ばっかりで　友だちを|　作ってるヒマなんか　なかったんだからさ～。": "That's great~ You know... I've been so busy|training that I didn't have time to make|friends..."
-    },
-    "12": {
-        "「そんな話はいいんだよ。|　それより　例のモノは|　持ってきてくれたんだろうな～？": "I don't want to talk about that... Anyway, I|hope you brought me that thing..."
-    },
-    "13": {
-        "「ええ。言いつけのとおり|　超天遊戯の参の書を　お持ちしました。": "Yes. As instructed, I bring you the Book of|the Councillor of the Super Heavenly Games..."
-    },
-    "14": {
-        "「お～っ　ありがとよ。参の書は受け取ったぜ。|　ほら　用が済んだら　さっさと帰った帰った～。": "Oh, there it is... I'll take your letter...|I'm done here, I'm going home."
-    },
-    "15": {
-        "「では　私は失礼します。": "Now, if you'll excuse me..."
-    },
-    "16": {
-        "「ああ～。アイツは　ガウラドっていうんだ。|　昔っから　オレの世話をしてくれててさ。|　見た目はゴツいけど　いいヤツなんだぜ～。": "... His name's Gaurad. He's been taking care|of me for a long time. He looks tough, but|he's a good guy..."
-    },
-    "17": {
-        "「おっと　いけね～。忘れるとこだったぜ～。": "Oops, I almost forgot... I almost forgot..."
-    },
-    "18": {
-        "「修行を果たした　ごほうびをあげなきゃな。|　この装備は　アンタに似合うと思うぜ～。": "Let's give him a reward for all his hard|work. I think you'd look good in this gear."
-    },
-    "19": {
-        "「修行を果たした　ごほうびをあげなきゃな。|　えんりょせずに　受け取ってくれ～。": "I'm giving you a reward for all your hard|work... Don't be shy. Just take it."
-    },
-    "20": {
-        "「……とまあ～　こうして　参の書も|　手に入ったわけなんだが～。|　もちろん　修行を続けるよな　<pc>。": "... So that's how I got the Book of the Three|Sacred Treasures... Of course you'll continue|your training.<pc> 。"
-    },
-    "21": {
-        "「ざっと見たところ　次の修行も|　アンタなら　なんとか　なるんじゃないかと|　思うんだけどな～。": "From what I saw, I think you'll be able to|handle your next training..."
-    },
-    "22": {
-        "「すぐにやれとは　言わね～さ。|　こういうのは　タイミングが重要なんだ。|　武闘家になるのを忘れずに　後で来てくれよ～！": "I'm not saying do it right away. Timing is|everything in these things... Don't forget to|become a martial artist. Come back later!"
-    },
-    "23": {
-        "「もう少し……。もう少しだ。|　アイツなら　この本の修行も|　きっと　超えるだろう。": "A little more... More... I'm sure he can|surpass the training in this book..."
-    },
-    "24": {
-        "「そうすれば　オレは……。": "And then I'll..."
-    }
+  "1": {
+    "<pc>の　持っている|『超天遊戯－弐の書－』が　光り始めた！": "<pc> I'm sure you're not the only one."
+  },
+  "2": {
+    "白紙だったページに　文字が浮かびあがってくる。|<pc>は　その文字を読んだ。": "The text appeared on a blank page...<pc> The letters are..."
+  },
+  "3": {
+    "見つけられてしもうたか。くやしいのう……。|まあ　よいわ。見つけた　ほうびに|きっつい修行を　与えてしんぜよう。": "They found me... That's too bad... Well... As|a reward for finding you, I'm going to give|you a severe beating..."
+  },
+  "4": {
+    "ためるを使って　テンションを上げた状態で|<%sEV_QUE_NAME0>　<%nEV_QUE_T_NUM0>匹に　とどめをさせ！|ヤツらは　この塔の外　風車の丘にいるぞ。": "Use the Retractor to raise the tension, and|let the <%sEV_QUE_NAME0> <%nEV_QUE_T_NUM0>s|finish them off! They're outside this tower,|<br>|on Windmill Hill..."
+  },
+  "5": {
+    "前にも書いたが　とどめをさしたら|その戦いから　逃げたり　負けたりせんように。|ちゃーんと　勝たなきゃいかんからな？": "As I said before, once you've made your|decision, you can't run away from the fight|or lose... You have to win, right?"
+  },
+  "6": {
+    "「こちらにいたのですか　ヤーン様……。|　探すのに　骨が折れましたよ。": "There you are, Master Jahn... I'm having|trouble finding you..."
+  },
+  "7": {
+    "「ん～？　言わなかったっけ　オレ。|　この町で　修行をやるって～。": "Hmm? Didn't I tell you... I'm going to train|in this town..."
+  },
+  "8": {
+    "「この方は　どなたですか？|　はじめて見る方のようですが……。": "Who is this person? I don't think I've ever|seen you before..."
+  },
+  "9": {
+    "「この町で知り合った　ダチの　<pc>だ。|　コイツも武闘家なんで　話が合っちゃってさ～。": "I met a friend of mine here in town<pc> That's right. He's a martial artist too, so|we're on the same page..."
+  },
+  "10": {
+    "「ご友人……ですか。そんなものを作るとは|　ずいぶんと　余裕が　おありのようですね。": "Your friend ...... You can't afford to make|something like that..."
+  },
+  "11": {
+    "「いいじゃねえかよ～　そのくらい。|　今まで　修行ばっかりで　友だちを|　作ってるヒマなんか　なかったんだからさ～。": "That's great~ You know... I've been so busy|training that I didn't have time to make|friends..."
+  },
+  "12": {
+    "「そんな話はいいんだよ。|　それより　例のモノは|　持ってきてくれたんだろうな～？": "I don't want to talk about that... Anyway, I|hope you brought me that thing..."
+  },
+  "13": {
+    "「ええ。言いつけのとおり|　超天遊戯の参の書を　お持ちしました。": "Yes. As instructed, I bring you the Book of|the Councillor of the Super Heavenly Games..."
+  },
+  "14": {
+    "「お～っ　ありがとよ。参の書は受け取ったぜ。|　ほら　用が済んだら　さっさと帰った帰った～。": "Oh, there it is... I'll take your letter...|I'm done here, I'm going home."
+  },
+  "15": {
+    "「では　私は失礼します。": "Now, if you'll excuse me..."
+  },
+  "16": {
+    "「ああ～。アイツは　ガウラドっていうんだ。|　昔っから　オレの世話をしてくれててさ。|　見た目はゴツいけど　いいヤツなんだぜ～。": "... His name's Gaurad. He's been taking care|of me for a long time. He looks tough, but|he's a good guy..."
+  },
+  "17": {
+    "「おっと　いけね～。忘れるとこだったぜ～。": "Oops, I almost forgot... I almost forgot..."
+  },
+  "18": {
+    "「修行を果たした　ごほうびをあげなきゃな。|　この装備は　アンタに似合うと思うぜ～。": "Let's give him a reward for all his hard|work. I think you'd look good in this gear."
+  },
+  "19": {
+    "「修行を果たした　ごほうびをあげなきゃな。|　えんりょせずに　受け取ってくれ～。": "I'm giving you a reward for all your hard|work... Don't be shy. Just take it."
+  },
+  "20": {
+    "「……とまあ～　こうして　参の書も|　手に入ったわけなんだが～。|　もちろん　修行を続けるよな　<pc>。": "... So that's how I got the Book of the Three|Sacred Treasures... Of course you'll continue|your training.<pc> 。"
+  },
+  "21": {
+    "「ざっと見たところ　次の修行も|　アンタなら　なんとか　なるんじゃないかと|　思うんだけどな～。": "From what I saw, I think you'll be able to|handle your next training..."
+  },
+  "22": {
+    "「すぐにやれとは　言わね～さ。|　こういうのは　タイミングが重要なんだ。|　武闘家になるのを忘れずに　後で来てくれよ～！": "I'm not saying do it right away. Timing is|everything in these things... Don't forget to|become a martial artist. Come back later!"
+  },
+  "23": {
+    "「もう少し……。もう少しだ。|　アイツなら　この本の修行も|　きっと　超えるだろう。": "A little more... More... I'm sure he can|surpass the training in this book..."
+  },
+  "24": {
+    "「そうすれば　オレは……。": "And then I'll..."
+  }
 }

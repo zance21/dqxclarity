@@ -1,44 +1,44 @@
 {
-    "1": {
-        "手札がいっぱいで　渡せなかったカードが|捨てられた。": "The cards I couldn't give you because my hand|was too full were discarded."
-    },
-    "2": {
-        "手札がいっぱいで　受け取れなかったカードが|捨てられた。": "If your hand is full and you don't receive a|card, you discard it."
-    },
-    "3": {
-        "トランプポイントを　<%dL_tp> P|獲得しました！": "You've earned <%dL_tp> P trump points!"
-    },
-    "4": {
-        "段位戦ポイントを　<%dL_normal_rp> P|獲得しました！": "You've earned <%dL_normal_rp> P rank battle|points!"
-    },
-    "5": {
-        "<%sL_rank>　に昇段しました！": "I've been promoted to <%sL_rank>!"
-    },
-    "6": {
-        "段位戦ポイントを　<%dL_normal_rp> P|失いました。": "Lose <%dL_normal_rp> P Dan Battle Points..."
-    },
-    "7": {
-        "大富豪を　中断して|元のマップに　戻りますか？|<yesno><break>": ""
-    },
-    "8": {
-        "<%sL_rank>　に降段しました。": "Descend to <%sL_rank>..."
-    },
-    "9": {
-        "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減少しません。": "Since <%sL_rank> does not result in a|demotion, your dan ranking points will not|decrease any further..."
-    },
-    "10": {
-        "決定戦ポイントを　<%dL_gp_rp> P|獲得しました！": "You've earned <%dL_gp_rp> P decision points!"
-    },
-    "11": {
-        "<%sL_gp_rank>ランクに　ランクアップしました！": "You've been upgraded to <%sL_gp_rank> rank!"
-    },
-    "12": {
-        "決定戦ポイントを　<%dL_gp_rp> P|失いました。": "<%dL_gp_rp> P lost decision points..."
-    },
-    "13": {
-        "決定戦ポイントは　これ以上　減少しません。": "Your decision points will be reduced no|further."
-    },
-    "14": {
-        "参加していた大富豪は　終了しました。": "The millionaire I was participating in is no|longer..."
-    }
+  "1": {
+    "手札がいっぱいで　渡せなかったカードが|捨てられた。": "The cards I couldn't give you because my hand|was too full were discarded."
+  },
+  "2": {
+    "手札がいっぱいで　受け取れなかったカードが|捨てられた。": "If your hand is full and you don't receive a|card, you discard it."
+  },
+  "3": {
+    "トランプポイントを　<%dL_tp> P|獲得しました！": "You've earned <%dL_tp> P trump points!"
+  },
+  "4": {
+    "段位戦ポイントを　<%dL_normal_rp> P|獲得しました！": "You've earned <%dL_normal_rp> P rank battle|points!"
+  },
+  "5": {
+    "<%sL_rank>　に昇段しました！": "I've been promoted to <%sL_rank>!"
+  },
+  "6": {
+    "段位戦ポイントを　<%dL_normal_rp> P|失いました。": "Lose <%dL_normal_rp> P Dan Battle Points..."
+  },
+  "7": {
+    "大富豪を　中断して|元のマップに　戻りますか？|<yesno><break>": ""
+  },
+  "8": {
+    "<%sL_rank>　に降段しました。": "Descend to <%sL_rank>..."
+  },
+  "9": {
+    "<%sL_rank>では　降段しないため　これ以上|段位戦ポイントが　減少しません。": "Since <%sL_rank> does not result in a|demotion, your dan ranking points will not|decrease any further..."
+  },
+  "10": {
+    "決定戦ポイントを　<%dL_gp_rp> P|獲得しました！": "You've earned <%dL_gp_rp> P decision points!"
+  },
+  "11": {
+    "<%sL_gp_rank>ランクに　ランクアップしました！": "You've been upgraded to <%sL_gp_rank> rank!"
+  },
+  "12": {
+    "決定戦ポイントを　<%dL_gp_rp> P|失いました。": "<%dL_gp_rp> P lost decision points..."
+  },
+  "13": {
+    "決定戦ポイントは　これ以上　減少しません。": "Your decision points will be reduced no|further."
+  },
+  "14": {
+    "参加していた大富豪は　終了しました。": "The millionaire I was participating in is no|longer..."
+  }
 }

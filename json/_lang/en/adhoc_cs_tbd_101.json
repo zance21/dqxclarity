@@ -1,140 +1,140 @@
 {
-    "1": {
-        "「よう　ジェイコフ。|　その若いのが　ウワサの新しい弟子かい？": "Hey, J... Is that the young one the new|protégé they're talking about?"
-    },
-    "2": {
-        "「これは　これは　ゴードンさん。|　相変わらず　お元気そうで　なによりですな。|　で　今日は　どういった　ご用向きで……？": "Well, well, well, Gord... I'm glad to see|you're as healthy as ever... So, what can I|do for you today?"
-    },
-    "3": {
-        "「んだぁっ！？|　テメーは　アニキに聞かれたことにだけ|　答えてりゃあいいんじゃ！！": "What? All you have to do is answer the|questions you're asked!"
-    },
-    "4": {
-        "「ハハ……　こりゃ　すみません。|　ええ。おっしゃる通り　こいつが|　新しい弟子の　<pc>ですわ。": "Hahaha... This is... It's... You're right.|This is my new apprentice.<pc> ..."
-    },
-    "5": {
-        "「ほらっ。オメーも　ゴードンさんに|　ごあいさつしねえか！": "... Why don't you go say hello to Mr. Gordon?"
-    },
-    "6": {
-        "「ああ　いい　いい。……で　約束通り|　こいつを　モンスター勝ち抜きバトルの|　リングに上げるってことで　いいんだな？": "Yeah, okay. ...... So, we're going to put him|in the ring for the battle of the monsters as|promised, right?"
-    },
-    "7": {
-        "「はい　それはもう！　こいつが　戦って|　借金が　チャラになるんなら|　何百回でも　何千回でも　戦わせますよ。": "Yes, that's it! I'll let him fight you a|hundred times, a thousand times, if that'll|make the debt go away..."
-    },
-    "8": {
-        "「あんたも　カネにだらしない師匠を|　持っちまって　災難だよなぁ。|　ククク……。心から　同情するよ。": "It's a shame you have a money-grubbing master|like me... Kukkuk... My heart goes out to|you..."
-    },
-    "9": {
-        "「モンスター勝ち抜きバトルってーと|　ブランドン様のペットたちと　戦うのかよ？|　あーあ　かわいそーになぁ……。": "A battle of monsters against Brandon's pets?|Oh, you poor thing."
-    },
-    "10": {
-        "「……いいだろう。こいつなら|　中年バトルマスターを戦わせるより|　客も　呼べるだろうしな。": "... Okay... This guy's gonna bring in more|customers than a bunch of middle-aged|battlemasters."
-    },
-    "11": {
-        "「せいぜい　いい仕事をして　盛り上げてくれよ。|　受け付けは　いつも通り　クラークに|　まかせてあるから　あいつを通してくれ。": "Do your best to keep things interesting. As|usual, I've put Clark in charge of the|reception, so I'll let him..."
-    },
-    "12": {
-        "「全国１０００万のコロシアムファンの皆さま|　たいへん　お待たせしました！|　本日も　流血の宴の　幕が切って落とされます！": "To the 10 million fans of the Colosseum,|we've been waiting a long time! The curtain|has come down on another bloody feast today!"
-    },
-    "13": {
-        "「コロシアムの裏名物　モンスター勝ち抜き戦！|　今夜の挑戦者は　若きバトルマスター|　<pc>選手です。": "The Colosseum's backstage specialty, a battle|of the monsters! Tonight's challenger is a|young battle master.<pc> 選..."
-    },
-    "14": {
-        "<if_woman>「はたして　彼女は　無事に|　リングを下りることが　できるのか？|　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に|　リングを下りることが　できるのか？|　運命の時は　刻一刻と　近づいています。<endif>": "<if_woman>Will she be able to get out of the ring in|one piece? The time of destiny is drawing|nearer by the minute...<else>Will he be able to get out of the ring in one|piece? His fate is drawing nearer by the|minute...<endif>"
-    },
-    "15": {
-        "「見事　イエティを倒した|　<pc>選手。あと１勝。|　あと１勝すれば　勝利の栄光は　君のものだ！": "You've defeated the Yeti|<pc> Players. Oh... One more win, and the glory of|victory will be yours!"
-    },
-    "16": {
-        "<if_woman>「しかし　立ちはだかるカベは　あまりに高い。|　３回戦の相手は　よろいのきし。|　この絶望的な相手に　彼女は　どう戦うのか！？<else>「しかし　立ちはだかるカベは　あまりに高い。|　３回戦の相手は　よろいのきし。|　この絶望的な相手に　彼は　どう戦うのか！？<endif>": "<if_woman>But there's not much that can stand in the|way... In the third round, she's up against|the Yoroi... How will she fight this|<br>|desperate opponent?<else>But there's not much that can stand in the|way... In the third round, he's up against|the Yoroi... How will he fight this desperate|<br>|opponent?<endif>"
-    },
-    "17": {
-        "「それでは　バトル開始ですっ！！": "Let the battle begin!"
-    },
-    "18": {
-        "「なんと！　なんと！　なんと！|　今日のバトルが　始まる前に|　誰が　この結果を　予想したでしょう！？": "Oh, my God! Oh, my God! Oh, no! Before|today's battle began, who would have|predicted this outcome?"
-    },
-    "19": {
-        "「私は　今　新たなコロシアムの伝説の誕生に|　立ち会っているのかもしれません。|　感動をありがとう　<pc>選手！": "I think I may be witnessing the birth of a|new Coliseum legend. Thank you for the|inspiration.<pc> Players!"
-    },
-    "20": {
-        "「お～っと！　これは　アクシデントだっ！！": "Oh, no! This is an accident!"
-    },
-    "21": {
-        "「ただいま入った情報では|　控えで用意していた　モンスター３体が|　オリを破って　逃げだしたもようです。": "I've just received word that three of the|monsters we had in reserve have broken|through their cages and escaped."
-    },
-    "22": {
-        "「まずいぞ！　まずいぞぉ！|　<pc>選手　あぶなぁ～～～い！！": "This is not good! This is not good!<pc> Players, watch out!"
-    },
-    "23": {
-        "「こ　これは　いったい……？": "What the hell is this?"
-    },
-    "24": {
-        "「これは　いったい　どうしたことだ！？|　突如　現れた　仮面の男が　３体の魔物を|　一瞬にして　倒してしまいました！": "What the heck is going on here? A masked man|appeared out of nowhere and defeated the|three demons in an instant!"
-    },
-    "25": {
-        "「……と　とにかく　サプライズ続きの|　本日の　モンスター勝ち抜き戦でしたが|　この辺りで　失礼させていただきます！": "... Anyway, we've had a lot of surprises in|today's Monster Elimination Round, but I'll|leave you guys to it!"
-    },
-    "26": {
-        "「ンフフフフ……。|　じつに　見事な　勝ちっぷりでしたねぇ。|　私　あなたのファンになってしまいましたよ。": "Mm-hmm... That was quite a victory... I've|become a fan of yours..."
-    },
-    "27": {
-        "「それにしても　あの仮面の男……|　どうやら　バトルマスターだったようなので|　略して　仮面バスターと　呼びましょうか。": "Anyway, that masked man... It seems he was a|battle master, so we'll call him Masked|Buster for short..."
-    },
-    "28": {
-        "「彼は　いったい　何者なんでしょうねぇ？|　あの後　係員たちが　探したのですが|　どこにも　見当たらなかったそうですよ。": "Who the hell is he? The attendants looked for|him after that, but couldn't find him|anywhere..."
-    },
-    "29": {
-        "「あれほどの実力を持ちながら|　正体を隠し　姿をくらますなんて|　よほど　後ろ暗い人物なんでしょうか？": "How can someone so powerful hide his true|identity and then disappear? Is he really|that shady?"
-    },
-    "30": {
-        "「ンフフフフ……。|　あなたといい　仮面バスターといい|　やはり　コロシアムは　刺激的ですねぇ。": "Mm-hmm... You, Mask Buster... the Coliseum is|exciting..."
-    },
-    "31": {
-        "「おお　よくやってくれたな！|　オメーの活躍は見せてもらってたぜ。|　おかげで　借金は帳消しだ。グフフフ……。": "Oh, you've done well. I've seen you in|action... Thanks to you, I'm in debt...|Guffaw..."
-    },
-    "32": {
-        "「これは　師匠からの　ごほうびだ。|　ありがたく　受け取るがいいぞ。": "This is a gift from my master. I'm grateful|for it."
-    },
-    "33": {
-        "「オメーの　はたらきには|　これからも期待してるからな。|　オレの言うことを　よーく聞くんだぜ。": "I'm counting on you to keep up your good|work. You listen to me."
-    },
-    "34": {
-        "「いきなり　モンスター勝ち抜き戦に|　放り込むなんて　相変わらず|　弟子使いが　荒いようですね。": "You're throwing me into a battle of monsters,|and you're still using me as a pupil..."
-    },
-    "35": {
-        "「ゲゲッ！　テメーは　セインズ……。|　今さら　何しに現れやがった！？": "Geez! You're Sainz... What the hell are you|doing here?"
-    },
-    "36": {
-        "「あんたが　新しい弟子をとったと聞いて|　様子を見にきたんですよ。|　元弟子として　ほうっておけなくてね。": "I heard you took on a new apprentice, so I|came to check on you... As your former|apprentice, I can't leave you alone..."
-    },
-    "37": {
-        "「お前さんが　<pc>か。|　モンスター勝ち抜き戦　見せてもらったよ。|　なかなか　筋は　いいみたいだな。": "You<pc> I don't know. Let's see what the monsters can|do... The plot seems pretty good..."
-    },
-    "38": {
-        "「しかし　こんな師匠を持っちまって|　苦労するよなぁ……オレなんて|　途中で　投げだしちまったもんな。": "But it must be hard to have a master like|him... I gave up halfway through..."
-    },
-    "39": {
-        "「まあ　何かあったら　この不肖の先輩が|　相談にのるからよ。|　くじけずに　がんばってくれよな。": "Well, if you ever need help, this unworthy|senior will be there for you... Don't be|discouraged, just hang in there."
-    },
-    "40": {
-        "「……ケッ！　|　師匠不孝モンが　先輩風　吹かせやがって！": "... Damn it! Master, you filthy fool! You're|acting like a senior!"
-    },
-    "41": {
-        "「ああ　胸クソ悪い。|　今日はもう　寝ちまうことにするぜ！": "Oh, my heart... I think I'm going to sleep|now!"
-    },
-    "42": {
-        "「１回戦の相手は　あばれこまいぬ。|　この残忍かつ　凶暴な魔物を相手に|　<pc>選手は　どう戦うのか？": "In the first round, we'll be facing off|against the Abarekko. Against this brutal and|vicious demon.<pc> How will the players fight?"
-    },
-    "43": {
-        "「それでは　バトル開始ですっ！！": "Let the battle begin!"
-    },
-    "44": {
-        "「見事　あばれこまいぬを倒した|　<pc>選手。|　しかし　その苦難は　まだまだ続きます。": "I've just defeated a rampaging komainu|<pc> The players. But the hardships still|continue..."
-    },
-    "45": {
-        "<if_woman>「２回戦の相手は　イエティ。|　この　恐るべき怪物を相手に|　はたして　彼女の技は　通じるのかっ！？<else>「２回戦の相手は　イエティ。|　この　恐るべき怪物を相手に|　はたして　彼の技は　通じるのかっ！？<endif>": "<if_woman>Her second round opponent, Lee... Will her|skills hold up against this fearsome monster?<else>His second round opponent, Lee... Will his|skills hold up against this fearsome monster?<endif>"
-    },
-    "46": {
-        "「それでは　バトル開始ですっ！！": "Let the battle begin!"
-    }
+  "1": {
+    "「よう　ジェイコフ。|　その若いのが　ウワサの新しい弟子かい？": "Hey, J... Is that the young one the new|protégé they're talking about?"
+  },
+  "2": {
+    "「これは　これは　ゴードンさん。|　相変わらず　お元気そうで　なによりですな。|　で　今日は　どういった　ご用向きで……？": "Well, well, well, Gord... I'm glad to see|you're as healthy as ever... So, what can I|do for you today?"
+  },
+  "3": {
+    "「んだぁっ！？|　テメーは　アニキに聞かれたことにだけ|　答えてりゃあいいんじゃ！！": "What? All you have to do is answer the|questions you're asked!"
+  },
+  "4": {
+    "「ハハ……　こりゃ　すみません。|　ええ。おっしゃる通り　こいつが|　新しい弟子の　<pc>ですわ。": "Hahaha... This is... It's... You're right.|This is my new apprentice.<pc> ..."
+  },
+  "5": {
+    "「ほらっ。オメーも　ゴードンさんに|　ごあいさつしねえか！": "... Why don't you go say hello to Mr. Gordon?"
+  },
+  "6": {
+    "「ああ　いい　いい。……で　約束通り|　こいつを　モンスター勝ち抜きバトルの|　リングに上げるってことで　いいんだな？": "Yeah, okay. ...... So, we're going to put him|in the ring for the battle of the monsters as|promised, right?"
+  },
+  "7": {
+    "「はい　それはもう！　こいつが　戦って|　借金が　チャラになるんなら|　何百回でも　何千回でも　戦わせますよ。": "Yes, that's it! I'll let him fight you a|hundred times, a thousand times, if that'll|make the debt go away..."
+  },
+  "8": {
+    "「あんたも　カネにだらしない師匠を|　持っちまって　災難だよなぁ。|　ククク……。心から　同情するよ。": "It's a shame you have a money-grubbing master|like me... Kukkuk... My heart goes out to|you..."
+  },
+  "9": {
+    "「モンスター勝ち抜きバトルってーと|　ブランドン様のペットたちと　戦うのかよ？|　あーあ　かわいそーになぁ……。": "A battle of monsters against Brandon's pets?|Oh, you poor thing."
+  },
+  "10": {
+    "「……いいだろう。こいつなら|　中年バトルマスターを戦わせるより|　客も　呼べるだろうしな。": "... Okay... This guy's gonna bring in more|customers than a bunch of middle-aged|battlemasters."
+  },
+  "11": {
+    "「せいぜい　いい仕事をして　盛り上げてくれよ。|　受け付けは　いつも通り　クラークに|　まかせてあるから　あいつを通してくれ。": "Do your best to keep things interesting. As|usual, I've put Clark in charge of the|reception, so I'll let him..."
+  },
+  "12": {
+    "「全国１０００万のコロシアムファンの皆さま|　たいへん　お待たせしました！|　本日も　流血の宴の　幕が切って落とされます！": "To the 10 million fans of the Colosseum,|we've been waiting a long time! The curtain|has come down on another bloody feast today!"
+  },
+  "13": {
+    "「コロシアムの裏名物　モンスター勝ち抜き戦！|　今夜の挑戦者は　若きバトルマスター|　<pc>選手です。": "The Colosseum's backstage specialty, a battle|of the monsters! Tonight's challenger is a|young battle master.<pc> 選..."
+  },
+  "14": {
+    "<if_woman>「はたして　彼女は　無事に|　リングを下りることが　できるのか？|　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に|　リングを下りることが　できるのか？|　運命の時は　刻一刻と　近づいています。<endif>": "<if_woman>Will she be able to get out of the ring in|one piece? The time of destiny is drawing|nearer by the minute...<else>Will he be able to get out of the ring in one|piece? His fate is drawing nearer by the|minute...<endif>"
+  },
+  "15": {
+    "「見事　イエティを倒した|　<pc>選手。あと１勝。|　あと１勝すれば　勝利の栄光は　君のものだ！": "You've defeated the Yeti|<pc> Players. Oh... One more win, and the glory of|victory will be yours!"
+  },
+  "16": {
+    "<if_woman>「しかし　立ちはだかるカベは　あまりに高い。|　３回戦の相手は　よろいのきし。|　この絶望的な相手に　彼女は　どう戦うのか！？<else>「しかし　立ちはだかるカベは　あまりに高い。|　３回戦の相手は　よろいのきし。|　この絶望的な相手に　彼は　どう戦うのか！？<endif>": "<if_woman>But there's not much that can stand in the|way... In the third round, she's up against|the Yoroi... How will she fight this|<br>|desperate opponent?<else>But there's not much that can stand in the|way... In the third round, he's up against|the Yoroi... How will he fight this desperate|<br>|opponent?<endif>"
+  },
+  "17": {
+    "「それでは　バトル開始ですっ！！": "Let the battle begin!"
+  },
+  "18": {
+    "「なんと！　なんと！　なんと！|　今日のバトルが　始まる前に|　誰が　この結果を　予想したでしょう！？": "Oh, my God! Oh, my God! Oh, no! Before|today's battle began, who would have|predicted this outcome?"
+  },
+  "19": {
+    "「私は　今　新たなコロシアムの伝説の誕生に|　立ち会っているのかもしれません。|　感動をありがとう　<pc>選手！": "I think I may be witnessing the birth of a|new Coliseum legend. Thank you for the|inspiration.<pc> Players!"
+  },
+  "20": {
+    "「お～っと！　これは　アクシデントだっ！！": "Oh, no! This is an accident!"
+  },
+  "21": {
+    "「ただいま入った情報では|　控えで用意していた　モンスター３体が|　オリを破って　逃げだしたもようです。": "I've just received word that three of the|monsters we had in reserve have broken|through their cages and escaped."
+  },
+  "22": {
+    "「まずいぞ！　まずいぞぉ！|　<pc>選手　あぶなぁ～～～い！！": "This is not good! This is not good!<pc> Players, watch out!"
+  },
+  "23": {
+    "「こ　これは　いったい……？": "What the hell is this?"
+  },
+  "24": {
+    "「これは　いったい　どうしたことだ！？|　突如　現れた　仮面の男が　３体の魔物を|　一瞬にして　倒してしまいました！": "What the heck is going on here? A masked man|appeared out of nowhere and defeated the|three demons in an instant!"
+  },
+  "25": {
+    "「……と　とにかく　サプライズ続きの|　本日の　モンスター勝ち抜き戦でしたが|　この辺りで　失礼させていただきます！": "... Anyway, we've had a lot of surprises in|today's Monster Elimination Round, but I'll|leave you guys to it!"
+  },
+  "26": {
+    "「ンフフフフ……。|　じつに　見事な　勝ちっぷりでしたねぇ。|　私　あなたのファンになってしまいましたよ。": "Mm-hmm... That was quite a victory... I've|become a fan of yours..."
+  },
+  "27": {
+    "「それにしても　あの仮面の男……|　どうやら　バトルマスターだったようなので|　略して　仮面バスターと　呼びましょうか。": "Anyway, that masked man... It seems he was a|battle master, so we'll call him Masked|Buster for short..."
+  },
+  "28": {
+    "「彼は　いったい　何者なんでしょうねぇ？|　あの後　係員たちが　探したのですが|　どこにも　見当たらなかったそうですよ。": "Who the hell is he? The attendants looked for|him after that, but couldn't find him|anywhere..."
+  },
+  "29": {
+    "「あれほどの実力を持ちながら|　正体を隠し　姿をくらますなんて|　よほど　後ろ暗い人物なんでしょうか？": "How can someone so powerful hide his true|identity and then disappear? Is he really|that shady?"
+  },
+  "30": {
+    "「ンフフフフ……。|　あなたといい　仮面バスターといい|　やはり　コロシアムは　刺激的ですねぇ。": "Mm-hmm... You, Mask Buster... the Coliseum is|exciting..."
+  },
+  "31": {
+    "「おお　よくやってくれたな！|　オメーの活躍は見せてもらってたぜ。|　おかげで　借金は帳消しだ。グフフフ……。": "Oh, you've done well. I've seen you in|action... Thanks to you, I'm in debt...|Guffaw..."
+  },
+  "32": {
+    "「これは　師匠からの　ごほうびだ。|　ありがたく　受け取るがいいぞ。": "This is a gift from my master. I'm grateful|for it."
+  },
+  "33": {
+    "「オメーの　はたらきには|　これからも期待してるからな。|　オレの言うことを　よーく聞くんだぜ。": "I'm counting on you to keep up your good|work. You listen to me."
+  },
+  "34": {
+    "「いきなり　モンスター勝ち抜き戦に|　放り込むなんて　相変わらず|　弟子使いが　荒いようですね。": "You're throwing me into a battle of monsters,|and you're still using me as a pupil..."
+  },
+  "35": {
+    "「ゲゲッ！　テメーは　セインズ……。|　今さら　何しに現れやがった！？": "Geez! You're Sainz... What the hell are you|doing here?"
+  },
+  "36": {
+    "「あんたが　新しい弟子をとったと聞いて|　様子を見にきたんですよ。|　元弟子として　ほうっておけなくてね。": "I heard you took on a new apprentice, so I|came to check on you... As your former|apprentice, I can't leave you alone..."
+  },
+  "37": {
+    "「お前さんが　<pc>か。|　モンスター勝ち抜き戦　見せてもらったよ。|　なかなか　筋は　いいみたいだな。": "You<pc> I don't know. Let's see what the monsters can|do... The plot seems pretty good..."
+  },
+  "38": {
+    "「しかし　こんな師匠を持っちまって|　苦労するよなぁ……オレなんて|　途中で　投げだしちまったもんな。": "But it must be hard to have a master like|him... I gave up halfway through..."
+  },
+  "39": {
+    "「まあ　何かあったら　この不肖の先輩が|　相談にのるからよ。|　くじけずに　がんばってくれよな。": "Well, if you ever need help, this unworthy|senior will be there for you... Don't be|discouraged, just hang in there."
+  },
+  "40": {
+    "「……ケッ！　|　師匠不孝モンが　先輩風　吹かせやがって！": "... Damn it! Master, you filthy fool! You're|acting like a senior!"
+  },
+  "41": {
+    "「ああ　胸クソ悪い。|　今日はもう　寝ちまうことにするぜ！": "Oh, my heart... I think I'm going to sleep|now!"
+  },
+  "42": {
+    "「１回戦の相手は　あばれこまいぬ。|　この残忍かつ　凶暴な魔物を相手に|　<pc>選手は　どう戦うのか？": "In the first round, we'll be facing off|against the Abarekko. Against this brutal and|vicious demon.<pc> How will the players fight?"
+  },
+  "43": {
+    "「それでは　バトル開始ですっ！！": "Let the battle begin!"
+  },
+  "44": {
+    "「見事　あばれこまいぬを倒した|　<pc>選手。|　しかし　その苦難は　まだまだ続きます。": "I've just defeated a rampaging komainu|<pc> The players. But the hardships still|continue..."
+  },
+  "45": {
+    "<if_woman>「２回戦の相手は　イエティ。|　この　恐るべき怪物を相手に|　はたして　彼女の技は　通じるのかっ！？<else>「２回戦の相手は　イエティ。|　この　恐るべき怪物を相手に|　はたして　彼の技は　通じるのかっ！？<endif>": "<if_woman>Her second round opponent, Lee... Will her|skills hold up against this fearsome monster?<else>His second round opponent, Lee... Will his|skills hold up against this fearsome monster?<endif>"
+  },
+  "46": {
+    "「それでは　バトル開始ですっ！！": "Let the battle begin!"
+  }
 }

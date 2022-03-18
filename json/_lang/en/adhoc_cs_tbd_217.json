@@ -1,197 +1,197 @@
 {
-    "1": {
-        "「なにぶん　昔のことだからねえ。|　こんなものしか　なかったよ。": "I know it was a long time ago, but... This is|the only thing I could find..."
-    },
-    "2": {
-        "<pipipi_low>「首尾はどうかな　<pc>くん？|　おっ　手がかりが　出てきたようだね！": "<pipipi_low>I don't know about the tail<pc> Huh? Oh, I think we've got a lead!"
-    },
-    "3": {
-        "「これは　結婚式の出席者の　一覧だね。|　あれれ？　私の　おばあちゃんの名前がある。|　関係は……新婦側の親族？": "This is one of the attendees of the|wedding... Huh? My grandma's name... Is she|related to... A relative of the bride's?"
-    },
-    "4": {
-        "「ああ～　そういえば　私の　おばあちゃんと|　ダーリアさんは　姉妹だって話を|　前に聞いたような……。": "Oh, by the way, I think I heard that my|grandma and Dahlia are sisters before..."
-    },
-    "5": {
-        "「あっ　名前の消されてる所がある！": "Oh, there's a name that's been deleted!"
-    },
-    "6": {
-        "「これ　やっぱり　あの女の子かな？|　確認してみたほうが　よさそうだね。": "Do you think this is the girl after all? I'd|better check it out."
-    },
-    "7": {
-        "「ラージャ神父。この出席者の一覧から|　名前が消されている　村人がいます。|　これは　１０歳くらいの女の子……ですか？": "Raj... There's a villager whose name is|missing from this list of attendees... This|is a girl, about 10 years old... Is it?"
-    },
-    "8": {
-        "「……知らないほうがいい。": "... You don't want to know..."
-    },
-    "9": {
-        "「どうして　隠すんですか？|　それは　もしかして……。": "Why are you hiding it? Could it be because..."
-    },
-    "10": {
-        "「その女の子が　死の言葉を使う|　女の子だからですか？": "Because the girl is the one who uses the word|\"death\"?"
-    },
-    "11": {
-        "「ル　ルベカ！|　なぜ　それを！？": "Le Lubeka! Why did you do that?"
-    },
-    "12": {
-        "「やっぱり　そうなんだ……。|　じつは　私のアタマの中に　その女の子の声……|　死の言葉が　聞こえてくるんです。": "That's what I thought. The truth is, I can|hear the girl's voice in my head... I can|hear the words of death..."
-    },
-    "13": {
-        "「……ああ　なんということだ。|　今になって　そんなことが　起ころうとは……。": "... Oh, my God... I never thought it would|happen now."
-    },
-    "14": {
-        "「我々は　あの少女のことを　忘れようとした。 |　しかし　それは　許されぬことなのか。|　神よ。語れと申されるのですな……。": "We'll forget about the girl. But we can't|allow that. ... You want me to tell you..."
-    },
-    "15": {
-        "「教えてくれますね？": "You'll tell me, won't you?"
-    },
-    "16": {
-        "「……わかった。|　私が　先代より　聞かされた話を伝えよう。": "... I... I'm going to tell you a story that I|heard from my predecessor..."
-    },
-    "17": {
-        "「……昔。この村に　赤子が拾われてきた。|　時が過ぎ　赤子は１０歳の少女へと成長した。": ".... A baby was found in this village... Over|time, the baby grew into a 10-year-old|girl..."
-    },
-    "18": {
-        "「ある日　少女が村人の名を呼び　死ぬと言った。|　数日して　その村人が事故で死んだ。": ""
-    },
-    "19": {
-        "「名前を呼ばれ　死んでいく村人は|　ひとり……また　ひとりと増えていった。": "One by one, the villagers died as their names|were called. And one by one..."
-    },
-    "20": {
-        "「村人たちは　恐れた。|　次に　少女に名を呼ばれるのは|　自分かもしれない……と。": "The villagers... The next time a girl calls|your name, it might be you. ...."
-    },
-    "21": {
-        "「……そして　レグとダーリアの結婚式を|　間近に控えた　ある日のことだ。|　その少女は……": "... And then one day, just before Reg and|Dahlia's wedding... The girl..."
-    },
-    "22": {
-        "「ダーリアが死ぬ……と告げたのだ。": "Dahlia dies... Dahlia is dying..."
-    },
-    "23": {
-        "「人々の恐れは　一気に　怒りへ変わった！|　少女を捕らえた村人は　むりやり薬を飲ませ|　二度と　言葉を発せられぬようにしたのだ！": "The people's fear turned to anger! The|villagers captured the girl and forced her to|take a potion so she would never speak again!"
-    },
-    "24": {
-        "「声をうばわれた少女は　その後|　村人たちによって　どこか遠い地に|　閉じ込められたという。 ": "The girl who was stripped of her voice was|then locked away by the villagers in a|faraway land..."
-    },
-    "25": {
-        "「だが……。結婚式の前の日。": "But... The wedding..."
-    },
-    "26": {
-        "「少女は　慰霊の浜に　姿を現した！|　そして　身を清めようと海に入った |　ダーリアのもとへ　駆け寄り…… ": "The girl appeared on the beach of|consolation! Then she ran to Dahlia, who had|gone into the water to cleanse herself."
-    },
-    "27": {
-        "「ダーリアを　海に沈めたのだ。": "We have to get Dahlia out of the water..."
-    },
-    "28": {
-        "「そんな……ダーリアさんは|　その女の子に　殺されたってこと？": "Oh, no... Are you saying that Mr. Dahlia was|killed by that girl?"
-    },
-    "29": {
-        "「あの……。その子の名前は……？": "Um... What's the boy's name...?"
-    },
-    "30": {
-        "「……それは　言えぬ。": "... That's ..."
-    },
-    "31": {
-        "「その名を告げれば |　私のアタマの中にも　死の言葉が|　ひびくことになるかもしれぬ……。": "If I tell you his name, you may hear the|words of death echoing in my head..."
-    },
-    "32": {
-        "「……なら　せめて　その子が|　閉じ込められたっていう場所だけでも|　教えてもらえませんか？": "So... Then can you at least tell us where the|child was locked up?"
-    },
-    "33": {
-        "「コルット地方にある　浜辺の洞くつの奥だ……。|　今はもう　誰かが　いるはずもない。": "It's deep in a cave on the beach in the Korut|region... There must be someone there now..."
-    },
-    "34": {
-        "「ダーリアさんは　やっぱり|　海で　おぼれたんじゃ　なかったんだね……。": "Mr. Dahlia didn't drown in the ocean after|all..."
-    },
-    "35": {
-        "「だけど　どうして？|　１０歳の女の子が　どんな理由があって|　ダーリアさんを　殺したりするの……？": "But why? What kind of a 10-year-old girl|would kill Miss Dahlia for any reason...?"
-    },
-    "36": {
-        "「私　もっと　その女の子のことを知りたい。": "I'd like to get to know the girl better."
-    },
-    "37": {
-        "「でも　今ある　手がかりは　その子が|　閉じ込められてたっていう洞くつだけよね。|　とにかく　そこへ　行ってみようと思うの。": "But the only clue we have now is the cave|where the boy was locked up. Anyway, that's|where we're going."
-    },
-    "38": {
-        "「コルット地方にある　浜辺の洞くつの奥よ。|　私は　ちょっと　家の掃除を頼まれてるから|　それが　終わったら　行くね！": "A cave on a beach in the Korut region... I've|got some house cleaning to do, so I'll be|there when it's done!"
-    },
-    "39": {
-        "「遅くなって　ごめんね。|　テーブルの汚れが　なかなか　取れなくて。": "I'm sorry I'm late. I'm having trouble|getting the stains off the table."
-    },
-    "40": {
-        "「ちょっ……。なんで　魔物がいるの？|　このままじゃ　調べられないよ。": "Wait... Why is there a demon here? We can't|just keep checking..."
-    },
-    "41": {
-        "「あっ　そうだ。少女探偵ルベカちゃんには|　<cs_pchero>っていう　優秀な助手がいたんだ。|　あの魔物を　片付けちゃって！": "Oh... For the girl detective, Rubeka.<cs_pchero>I have an excellent assistant... You have to|get rid of that demon!"
-    },
-    "42": {
-        "「じゃあ　<cs_pchero>　よろしくね！": "then<cs_pchero>Nice to meet you!"
-    },
-    "43": {
-        "「あの魔物　まだ　いるね……。": "That demon's still out there..."
-    },
-    "44": {
-        "「私は　ここを　どうしても調べたいの。|　魔物を　片付けちゃってくれるかな？": "I really need to check this place out. Can|you help me get rid of this demon?"
-    },
-    "45": {
-        "「じゃあ　<cs_pchero>　よろしくね！": "then<cs_pchero>Nice to meet you!"
-    },
-    "46": {
-        "「さすがだね　<cs_pchero>。|　頼りになる助手がいて　助かったわ。": ""
-    },
-    "47": {
-        "「ラージャ神父の話が本当なら　あの女の子は|　ここに　閉じ込められていたのね……。": "If Father Raja's story is true, then the girl|was locked up in here..."
-    },
-    "48": {
-        "「人がいた跡とか　ないみたい。|　手がかりは　何も残ってないのかな……。": "There are no signs of human habitation. I|don't know if there are any clues left."
-    },
-    "49": {
-        "「あれ？　何かが……。": "What is it? Something's..."
-    },
-    "50": {
-        "「<cs_pchero>　こっちへ来て！": "<cs_pchero>Come here!"
-    },
-    "51": {
-        "「うん……。この辺り。": "Mm... It's..."
-    },
-    "52": {
-        "「なんだろう？　よく　わからないけど|　何かを　感じるの……。": "What is it? I don't know, but I feel|something..."
-    },
-    "53": {
-        "「……ひゃあっ！！": "... Aah!"
-    },
-    "54": {
-        "「あわわわ……。": "Aww..."
-    },
-    "55": {
-        "「聞こえたの！　あの女の子の声が……。|　まちがいないよ。聞いたことのある声だもん。|　それに…………": "I heard it! I heard that girl's voice... No,|no, no. I've heard that voice before. And..."
-    },
-    "56": {
-        "「まさか……|　あれが　あの子の名前だったなんて……。": "I never thought... I didn't know that was her|name."
-    },
-    "57": {
-        "「……ううん。なんでもないわ。": "...... Anything..."
-    },
-    "58": {
-        "「ラージャ神父の　言ったとおりよ。|　あの女の子は　ここに|　閉じ込められていたんだわ……。": "Father Raja said... That girl was locked up|in here..."
-    },
-    "59": {
-        "「……なんだか　とても　疲れちゃった。|　今日は　この辺で　終わりにしよう？": "I'm... I feel so tired... Shall we call it a|day?"
-    },
-    "60": {
-        "「<cs_pchero>だって　魔物と戦って　|　きっと　疲れてるはずだよね。": "<cs_pchero>I'm sure you're tired from fighting the|demon."
-    },
-    "61": {
-        "「一緒に　来てくれて　ありがとう。|　ちゃんと　お礼は　持ってきてあるんだ。|　受け取ってね。": "Thank you for coming with me. I brought you a|thank-you note. I'll..."
-    },
-    "62": {
-        "「それじゃ　私は　レーンの村に帰るよ。|　続きは　疲れが取れてからにしたいの。": "Okay, I'm going to go to Lane's village...|I'll tell you the rest of the story when I'm|less tired."
-    },
-    "63": {
-        "「<cs_pchero>も　ゆっくり　休んで。|　これからも　手伝ってもらうんだから。": "<cs_pchero>Slowly... I'm gonna need your help..."
-    },
-    "64": {
-        "「ブロォォォォム！！": "Bro-oh-oh-oh-oh!"
-    },
-    "65": {
-        "「ブロォォォォム！！": "Bro-oh-oh-oh-oh!"
-    }
+  "1": {
+    "「なにぶん　昔のことだからねえ。|　こんなものしか　なかったよ。": "I know it was a long time ago, but... This is|the only thing I could find..."
+  },
+  "2": {
+    "<pipipi_low>「首尾はどうかな　<pc>くん？|　おっ　手がかりが　出てきたようだね！": "<pipipi_low>I don't know about the tail<pc> Huh? Oh, I think we've got a lead!"
+  },
+  "3": {
+    "「これは　結婚式の出席者の　一覧だね。|　あれれ？　私の　おばあちゃんの名前がある。|　関係は……新婦側の親族？": "This is one of the attendees of the|wedding... Huh? My grandma's name... Is she|related to... A relative of the bride's?"
+  },
+  "4": {
+    "「ああ～　そういえば　私の　おばあちゃんと|　ダーリアさんは　姉妹だって話を|　前に聞いたような……。": "Oh, by the way, I think I heard that my|grandma and Dahlia are sisters before..."
+  },
+  "5": {
+    "「あっ　名前の消されてる所がある！": "Oh, there's a name that's been deleted!"
+  },
+  "6": {
+    "「これ　やっぱり　あの女の子かな？|　確認してみたほうが　よさそうだね。": "Do you think this is the girl after all? I'd|better check it out."
+  },
+  "7": {
+    "「ラージャ神父。この出席者の一覧から|　名前が消されている　村人がいます。|　これは　１０歳くらいの女の子……ですか？": "Raj... There's a villager whose name is|missing from this list of attendees... This|is a girl, about 10 years old... Is it?"
+  },
+  "8": {
+    "「……知らないほうがいい。": "... You don't want to know..."
+  },
+  "9": {
+    "「どうして　隠すんですか？|　それは　もしかして……。": "Why are you hiding it? Could it be because..."
+  },
+  "10": {
+    "「その女の子が　死の言葉を使う|　女の子だからですか？": "Because the girl is the one who uses the word|\"death\"?"
+  },
+  "11": {
+    "「ル　ルベカ！|　なぜ　それを！？": "Le Lubeka! Why did you do that?"
+  },
+  "12": {
+    "「やっぱり　そうなんだ……。|　じつは　私のアタマの中に　その女の子の声……|　死の言葉が　聞こえてくるんです。": "That's what I thought. The truth is, I can|hear the girl's voice in my head... I can|hear the words of death..."
+  },
+  "13": {
+    "「……ああ　なんということだ。|　今になって　そんなことが　起ころうとは……。": "... Oh, my God... I never thought it would|happen now."
+  },
+  "14": {
+    "「我々は　あの少女のことを　忘れようとした。 |　しかし　それは　許されぬことなのか。|　神よ。語れと申されるのですな……。": "We'll forget about the girl. But we can't|allow that. ... You want me to tell you..."
+  },
+  "15": {
+    "「教えてくれますね？": "You'll tell me, won't you?"
+  },
+  "16": {
+    "「……わかった。|　私が　先代より　聞かされた話を伝えよう。": "... I... I'm going to tell you a story that I|heard from my predecessor..."
+  },
+  "17": {
+    "「……昔。この村に　赤子が拾われてきた。|　時が過ぎ　赤子は１０歳の少女へと成長した。": ".... A baby was found in this village... Over|time, the baby grew into a 10-year-old|girl..."
+  },
+  "18": {
+    "「ある日　少女が村人の名を呼び　死ぬと言った。|　数日して　その村人が事故で死んだ。": ""
+  },
+  "19": {
+    "「名前を呼ばれ　死んでいく村人は|　ひとり……また　ひとりと増えていった。": "One by one, the villagers died as their names|were called. And one by one..."
+  },
+  "20": {
+    "「村人たちは　恐れた。|　次に　少女に名を呼ばれるのは|　自分かもしれない……と。": "The villagers... The next time a girl calls|your name, it might be you. ...."
+  },
+  "21": {
+    "「……そして　レグとダーリアの結婚式を|　間近に控えた　ある日のことだ。|　その少女は……": "... And then one day, just before Reg and|Dahlia's wedding... The girl..."
+  },
+  "22": {
+    "「ダーリアが死ぬ……と告げたのだ。": "Dahlia dies... Dahlia is dying..."
+  },
+  "23": {
+    "「人々の恐れは　一気に　怒りへ変わった！|　少女を捕らえた村人は　むりやり薬を飲ませ|　二度と　言葉を発せられぬようにしたのだ！": "The people's fear turned to anger! The|villagers captured the girl and forced her to|take a potion so she would never speak again!"
+  },
+  "24": {
+    "「声をうばわれた少女は　その後|　村人たちによって　どこか遠い地に|　閉じ込められたという。 ": "The girl who was stripped of her voice was|then locked away by the villagers in a|faraway land..."
+  },
+  "25": {
+    "「だが……。結婚式の前の日。": "But... The wedding..."
+  },
+  "26": {
+    "「少女は　慰霊の浜に　姿を現した！|　そして　身を清めようと海に入った |　ダーリアのもとへ　駆け寄り…… ": "The girl appeared on the beach of|consolation! Then she ran to Dahlia, who had|gone into the water to cleanse herself."
+  },
+  "27": {
+    "「ダーリアを　海に沈めたのだ。": "We have to get Dahlia out of the water..."
+  },
+  "28": {
+    "「そんな……ダーリアさんは|　その女の子に　殺されたってこと？": "Oh, no... Are you saying that Mr. Dahlia was|killed by that girl?"
+  },
+  "29": {
+    "「あの……。その子の名前は……？": "Um... What's the boy's name...?"
+  },
+  "30": {
+    "「……それは　言えぬ。": "... That's ..."
+  },
+  "31": {
+    "「その名を告げれば |　私のアタマの中にも　死の言葉が|　ひびくことになるかもしれぬ……。": "If I tell you his name, you may hear the|words of death echoing in my head..."
+  },
+  "32": {
+    "「……なら　せめて　その子が|　閉じ込められたっていう場所だけでも|　教えてもらえませんか？": "So... Then can you at least tell us where the|child was locked up?"
+  },
+  "33": {
+    "「コルット地方にある　浜辺の洞くつの奥だ……。|　今はもう　誰かが　いるはずもない。": "It's deep in a cave on the beach in the Korut|region... There must be someone there now..."
+  },
+  "34": {
+    "「ダーリアさんは　やっぱり|　海で　おぼれたんじゃ　なかったんだね……。": "Mr. Dahlia didn't drown in the ocean after|all..."
+  },
+  "35": {
+    "「だけど　どうして？|　１０歳の女の子が　どんな理由があって|　ダーリアさんを　殺したりするの……？": "But why? What kind of a 10-year-old girl|would kill Miss Dahlia for any reason...?"
+  },
+  "36": {
+    "「私　もっと　その女の子のことを知りたい。": "I'd like to get to know the girl better."
+  },
+  "37": {
+    "「でも　今ある　手がかりは　その子が|　閉じ込められてたっていう洞くつだけよね。|　とにかく　そこへ　行ってみようと思うの。": "But the only clue we have now is the cave|where the boy was locked up. Anyway, that's|where we're going."
+  },
+  "38": {
+    "「コルット地方にある　浜辺の洞くつの奥よ。|　私は　ちょっと　家の掃除を頼まれてるから|　それが　終わったら　行くね！": "A cave on a beach in the Korut region... I've|got some house cleaning to do, so I'll be|there when it's done!"
+  },
+  "39": {
+    "「遅くなって　ごめんね。|　テーブルの汚れが　なかなか　取れなくて。": "I'm sorry I'm late. I'm having trouble|getting the stains off the table."
+  },
+  "40": {
+    "「ちょっ……。なんで　魔物がいるの？|　このままじゃ　調べられないよ。": "Wait... Why is there a demon here? We can't|just keep checking..."
+  },
+  "41": {
+    "「あっ　そうだ。少女探偵ルベカちゃんには|　<cs_pchero>っていう　優秀な助手がいたんだ。|　あの魔物を　片付けちゃって！": "Oh... For the girl detective, Rubeka.<cs_pchero>I have an excellent assistant... You have to|get rid of that demon!"
+  },
+  "42": {
+    "「じゃあ　<cs_pchero>　よろしくね！": "then<cs_pchero>Nice to meet you!"
+  },
+  "43": {
+    "「あの魔物　まだ　いるね……。": "That demon's still out there..."
+  },
+  "44": {
+    "「私は　ここを　どうしても調べたいの。|　魔物を　片付けちゃってくれるかな？": "I really need to check this place out. Can|you help me get rid of this demon?"
+  },
+  "45": {
+    "「じゃあ　<cs_pchero>　よろしくね！": "then<cs_pchero>Nice to meet you!"
+  },
+  "46": {
+    "「さすがだね　<cs_pchero>。|　頼りになる助手がいて　助かったわ。": ""
+  },
+  "47": {
+    "「ラージャ神父の話が本当なら　あの女の子は|　ここに　閉じ込められていたのね……。": "If Father Raja's story is true, then the girl|was locked up in here..."
+  },
+  "48": {
+    "「人がいた跡とか　ないみたい。|　手がかりは　何も残ってないのかな……。": "There are no signs of human habitation. I|don't know if there are any clues left."
+  },
+  "49": {
+    "「あれ？　何かが……。": "What is it? Something's..."
+  },
+  "50": {
+    "「<cs_pchero>　こっちへ来て！": "<cs_pchero>Come here!"
+  },
+  "51": {
+    "「うん……。この辺り。": "Mm... It's..."
+  },
+  "52": {
+    "「なんだろう？　よく　わからないけど|　何かを　感じるの……。": "What is it? I don't know, but I feel|something..."
+  },
+  "53": {
+    "「……ひゃあっ！！": "... Aah!"
+  },
+  "54": {
+    "「あわわわ……。": "Aww..."
+  },
+  "55": {
+    "「聞こえたの！　あの女の子の声が……。|　まちがいないよ。聞いたことのある声だもん。|　それに…………": "I heard it! I heard that girl's voice... No,|no, no. I've heard that voice before. And..."
+  },
+  "56": {
+    "「まさか……|　あれが　あの子の名前だったなんて……。": "I never thought... I didn't know that was her|name."
+  },
+  "57": {
+    "「……ううん。なんでもないわ。": "...... Anything..."
+  },
+  "58": {
+    "「ラージャ神父の　言ったとおりよ。|　あの女の子は　ここに|　閉じ込められていたんだわ……。": "Father Raja said... That girl was locked up|in here..."
+  },
+  "59": {
+    "「……なんだか　とても　疲れちゃった。|　今日は　この辺で　終わりにしよう？": "I'm... I feel so tired... Shall we call it a|day?"
+  },
+  "60": {
+    "「<cs_pchero>だって　魔物と戦って　|　きっと　疲れてるはずだよね。": "<cs_pchero>I'm sure you're tired from fighting the|demon."
+  },
+  "61": {
+    "「一緒に　来てくれて　ありがとう。|　ちゃんと　お礼は　持ってきてあるんだ。|　受け取ってね。": "Thank you for coming with me. I brought you a|thank-you note. I'll..."
+  },
+  "62": {
+    "「それじゃ　私は　レーンの村に帰るよ。|　続きは　疲れが取れてからにしたいの。": "Okay, I'm going to go to Lane's village...|I'll tell you the rest of the story when I'm|less tired."
+  },
+  "63": {
+    "「<cs_pchero>も　ゆっくり　休んで。|　これからも　手伝ってもらうんだから。": "<cs_pchero>Slowly... I'm gonna need your help..."
+  },
+  "64": {
+    "「ブロォォォォム！！": "Bro-oh-oh-oh-oh!"
+  },
+  "65": {
+    "「ブロォォォォム！！": "Bro-oh-oh-oh-oh!"
+  }
 }

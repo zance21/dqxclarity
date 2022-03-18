@@ -1,77 +1,77 @@
 {
-    "1": {
-        "どこからか　声が聞こえてくる……。": "I can hear voices coming from somewhere..."
-    },
-    "2": {
-        "<center>余は　第７代ウルベア皇帝ボラングムニス。|そなたは　王者の座を目指せし者だな。": "I am Bolang, seventh Emperor of Urbea... I am|the seventh Emperor of Urbea."
-    },
-    "3": {
-        "<center>余は　三闘士のハンマーを|つねに　手元に置くことで　守ってきた。|そう。世を去った　今でもだ。": "I keep the hammer of the triads close at hand|for protection. ...... Now that I've left|this world..."
-    },
-    "4": {
-        "<center>だが　それも今日までのこと……。|王者の座を目指せし者よ。|三闘士のハンマーを　今ここに　授けよう。": "But that's only until today... Now you are|the champion... I give you the hammer of the|triumvirate."
-    },
-    "5": {
-        "<pc>は|三闘士のハンマー（だいじなもの）を|受け取った！<me 60>": "<pc> has received the hammer of the triumvirate!<me 60>"
-    },
-    "6": {
-        "<center>かつて　大いなる災いが　この地を襲いし時|我らドワーフの民は　他の種族に先んじて|戦い　そして　死んでいった……。": "Once upon a time, when a great plague ravaged|this land, we Dwarves fought and died before|the rest of our race..."
-    },
-    "7": {
-        "<center>だが　それは　無駄死にではない。|ドワーフたちの屍が築いた道は|やがて　王者の道となったのだから。": "But they died in vain. The path that the|corpses of the dwarves forged became the path|of champions..."
-    },
-    "8": {
-        "<center>……これで　余の役目も終わった。|ウルベアの民の待つ場所へと還れる。|さらばだ。王者の座を目指せし者よ……。": "... I'm done here. I will take my place among|the people of Urbea... And... To the place|where the people of Urbea await."
-    },
-    "9": {
-        "「おお　<pc>よ。|　三闘士のハンマーと　三闘士のオノを|　ついに　その手にしたようじゃな。": "oh!<pc> I've got it. It looks like you finally have|the hammer of the triad and the machete of|the triad in your hands."
-    },
-    "10": {
-        "「……ほう。古代ウルベアの皇帝は|　死後も　三闘士のハンマーを|　守り続けていたとな……。": "..... The emperor of ancient Urbea was said|to have kept the hammer of the Triad even|after his death."
-    },
-    "11": {
-        "「おお……今は亡き　ウルベアの皇帝よ。|　そなたの思い。同じく国を治める者として|　痛いほど　わかりますぞ……。": "Oh... The late, great Urbear... You... As a|fellow countryman, I know all too well..."
-    },
-    "12": {
-        "「……<pc>よ。|　じつは　わしも　ウルベアの皇帝と同じなのだ。": "<pc> Yes. The truth is, I'm just like the Emperor|of Urbea..."
-    },
-    "13": {
-        "「いずれ　災厄が　世界を襲ったとき|　王者の座を目指す者が　三闘士の盾を求め|　現れると聞かされて　わしは育った。": "I was told that in time, when disaster|strikes the world, those who seek the throne|will come seeking the shield of the|<br>|triumvirate, and I..."
-    },
-    "14": {
-        "「国王となったとき　わしは　命に代えても|　この盾を守ると誓いを立て　以来|　片時も離さずに　こうして身につけておる。": "When I became king, I swore an oath to|protect this shield at all costs, and I've|worn it ever since."
-    },
-    "15": {
-        "「では　<pc>よ。|　この三闘士の盾を　そなたに授けようぞ！": ""
-    },
-    "16": {
-        "<pc>は|三闘士の盾（だいじなもの）を　受け取った！<me 60>": "<pc> has received the shield of the triumvirate!<me 60>"
-    },
-    "17": {
-        "「三闘の神殿の入り口は　ラニアッカ断層帯の|　オノの祭壇　ハンマーの祭壇　そして盾の祭壇に|　囲まれた　三闘の祭壇にあるとされておる。": ""
-    },
-    "18": {
-        "「三闘士の神器を持ち　その祭壇を訪れれば|　必ずや　三闘の神殿の入り口が開く！": ""
-    },
-    "19": {
-        "「三闘士のハンマーと盾は　古代から伝わるもの。|　時代を経て　かなり　傷んでおるようじゃ。|　これが　最後の役目となるであろう……。": "The hammers and shields of the Three Masters|have been handed down since ancient times.|They've seen a lot of wear and tear over the|<br>|years. This will be their last service."
-    },
-    "20": {
-        "「見事　王者の盾を手に入れたならば|　わしのもとへ　戻ってきてほしい。|　頼んだぞ　<pc>よ！": "Now that you have your champion's shield,|come back to me... I'm counting on you.<pc> No!"
-    },
-    "21": {
-        "<cs_pchero>は　三闘の祭壇を調べた。": "<cs_pchero>The three fighting altars are..."
-    },
-    "22": {
-        "<cs_pchero>の持っている|三闘士のオノ　三闘士のハンマー　三闘士の盾が|共鳴するかのように　ふるえはじめた。": ""
-    },
-    "23": {
-        "三闘士のハンマーと　三闘士の盾は|ボロボロに　崩れ去ってしまった……。": "The hammer of the triads and the shield of|the triads have fallen to pieces..."
-    },
-    "24": {
-        "<cs_pchero>のもとに　天から|光に包まれた武具が　降りてきた。": "<cs_pchero>And then, from the heavens, a lighted armor|descended..."
-    },
-    "25": {
-        "<cs_pchero>は|王者の盾（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>I've got the king's shield!<me 60>"
-    }
+  "1": {
+    "どこからか　声が聞こえてくる……。": "I can hear voices coming from somewhere..."
+  },
+  "2": {
+    "<center>余は　第７代ウルベア皇帝ボラングムニス。|そなたは　王者の座を目指せし者だな。": "I am Bolang, seventh Emperor of Urbea... I am|the seventh Emperor of Urbea."
+  },
+  "3": {
+    "<center>余は　三闘士のハンマーを|つねに　手元に置くことで　守ってきた。|そう。世を去った　今でもだ。": "I keep the hammer of the triads close at hand|for protection. ...... Now that I've left|this world..."
+  },
+  "4": {
+    "<center>だが　それも今日までのこと……。|王者の座を目指せし者よ。|三闘士のハンマーを　今ここに　授けよう。": "But that's only until today... Now you are|the champion... I give you the hammer of the|triumvirate."
+  },
+  "5": {
+    "<pc>は|三闘士のハンマー（だいじなもの）を|受け取った！<me 60>": "<pc> has received the hammer of the triumvirate!<me 60>"
+  },
+  "6": {
+    "<center>かつて　大いなる災いが　この地を襲いし時|我らドワーフの民は　他の種族に先んじて|戦い　そして　死んでいった……。": "Once upon a time, when a great plague ravaged|this land, we Dwarves fought and died before|the rest of our race..."
+  },
+  "7": {
+    "<center>だが　それは　無駄死にではない。|ドワーフたちの屍が築いた道は|やがて　王者の道となったのだから。": "But they died in vain. The path that the|corpses of the dwarves forged became the path|of champions..."
+  },
+  "8": {
+    "<center>……これで　余の役目も終わった。|ウルベアの民の待つ場所へと還れる。|さらばだ。王者の座を目指せし者よ……。": "... I'm done here. I will take my place among|the people of Urbea... And... To the place|where the people of Urbea await."
+  },
+  "9": {
+    "「おお　<pc>よ。|　三闘士のハンマーと　三闘士のオノを|　ついに　その手にしたようじゃな。": "oh!<pc> I've got it. It looks like you finally have|the hammer of the triad and the machete of|the triad in your hands."
+  },
+  "10": {
+    "「……ほう。古代ウルベアの皇帝は|　死後も　三闘士のハンマーを|　守り続けていたとな……。": "..... The emperor of ancient Urbea was said|to have kept the hammer of the Triad even|after his death."
+  },
+  "11": {
+    "「おお……今は亡き　ウルベアの皇帝よ。|　そなたの思い。同じく国を治める者として|　痛いほど　わかりますぞ……。": "Oh... The late, great Urbear... You... As a|fellow countryman, I know all too well..."
+  },
+  "12": {
+    "「……<pc>よ。|　じつは　わしも　ウルベアの皇帝と同じなのだ。": "<pc> Yes. The truth is, I'm just like the Emperor|of Urbea..."
+  },
+  "13": {
+    "「いずれ　災厄が　世界を襲ったとき|　王者の座を目指す者が　三闘士の盾を求め|　現れると聞かされて　わしは育った。": "I was told that in time, when disaster|strikes the world, those who seek the throne|will come seeking the shield of the|<br>|triumvirate, and I..."
+  },
+  "14": {
+    "「国王となったとき　わしは　命に代えても|　この盾を守ると誓いを立て　以来|　片時も離さずに　こうして身につけておる。": "When I became king, I swore an oath to|protect this shield at all costs, and I've|worn it ever since."
+  },
+  "15": {
+    "「では　<pc>よ。|　この三闘士の盾を　そなたに授けようぞ！": ""
+  },
+  "16": {
+    "<pc>は|三闘士の盾（だいじなもの）を　受け取った！<me 60>": "<pc> has received the shield of the triumvirate!<me 60>"
+  },
+  "17": {
+    "「三闘の神殿の入り口は　ラニアッカ断層帯の|　オノの祭壇　ハンマーの祭壇　そして盾の祭壇に|　囲まれた　三闘の祭壇にあるとされておる。": ""
+  },
+  "18": {
+    "「三闘士の神器を持ち　その祭壇を訪れれば|　必ずや　三闘の神殿の入り口が開く！": ""
+  },
+  "19": {
+    "「三闘士のハンマーと盾は　古代から伝わるもの。|　時代を経て　かなり　傷んでおるようじゃ。|　これが　最後の役目となるであろう……。": "The hammers and shields of the Three Masters|have been handed down since ancient times.|They've seen a lot of wear and tear over the|<br>|years. This will be their last service."
+  },
+  "20": {
+    "「見事　王者の盾を手に入れたならば|　わしのもとへ　戻ってきてほしい。|　頼んだぞ　<pc>よ！": "Now that you have your champion's shield,|come back to me... I'm counting on you.<pc> No!"
+  },
+  "21": {
+    "<cs_pchero>は　三闘の祭壇を調べた。": "<cs_pchero>The three fighting altars are..."
+  },
+  "22": {
+    "<cs_pchero>の持っている|三闘士のオノ　三闘士のハンマー　三闘士の盾が|共鳴するかのように　ふるえはじめた。": ""
+  },
+  "23": {
+    "三闘士のハンマーと　三闘士の盾は|ボロボロに　崩れ去ってしまった……。": "The hammer of the triads and the shield of|the triads have fallen to pieces..."
+  },
+  "24": {
+    "<cs_pchero>のもとに　天から|光に包まれた武具が　降りてきた。": "<cs_pchero>And then, from the heavens, a lighted armor|descended..."
+  },
+  "25": {
+    "<cs_pchero>は|王者の盾（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero>I've got the king's shield!<me 60>"
+  }
 }

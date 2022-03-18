@@ -1,98 +1,98 @@
 {
-    "1": {
-        "「これは　これは……。|　めずらしい方が　お見えになりましたね。": "Well, well, well... We have an unusual|visitor..."
-    },
-    "2": {
-        "「……ロロップ神父さま。": "... Lollop God..."
-    },
-    "3": {
-        "「ぼくの　先祖である|　フォステイル王は　５００年前に|　大変な　あやまちを犯していたようです。": "My ancestor, King Fosthild, made a terrible|mistake 500 years ago."
-    },
-    "4": {
-        "「同じ血をひく　ぼくが|　フォステイル王の罪を　ざんげしますので|　どうか　聞いていただけないでしょうか？": "I am of the same blood, and I intend to|expiate the sins of King Fosthild, so would|you please listen to me?"
-    },
-    "5": {
-        "「民であろうと　王であろうと|　神の前では　皆　迷える子羊です。|　よろしい。聞きましょう。": "Whether you're a citizen, a king, or a lost|child before God... No... Listen..."
-    },
-    "6": {
-        "「ありがとうございます。では……。": "Thank you... Now..."
-    },
-    "7": {
-        "「……うん？　王子　お待ちを。|　王子から　邪悪な怨念を感じます。": "... What? Prince... I sense an evil grudge in|the prince."
-    },
-    "8": {
-        "「えっ？　ぼくからですか？": "What? Is it from me?"
-    },
-    "9": {
-        "「いえ……。失礼……。|　王子からでは　ありませんね。|　怨念を感じるのは……": "No, no, no. I'm sorry. It's not the prince.|It's just that I feel a..."
-    },
-    "10": {
-        "「王子が　持っている本です。|　その本から　感じますね……。|　それも　かなり強い怨念です……。": "The prince has it. I can feel it in that|book. And it's a very strong grudge."
-    },
-    "11": {
-        "「この本から　怨念が……。|　本の持ち主だった　亡霊の怨念なのか……。": "I'm getting a grudge from this book. I don't|know if it's the grudge of the ghost who|owned the book..."
-    },
-    "12": {
-        "「神父さまの　おチカラで|　怨念を　浄化できませんか？": "Can't you use your power to purge the grudge,|Father?"
-    },
-    "13": {
-        "「……これほどに　強い怨念となると|　私では　どうすることもできません。|　もっと強い　聖なるチカラが必要でしょう。": "... If the grudge is this strong, there's|nothing I can do. I need a stronger, more|holy power."
-    },
-    "14": {
-        "「メギストリス領の西に位置する|　エピステーサ丘陵に　聖地パサラン団子山という|　大きな山があるのを　ご存知ですか？": "Did you know that in the Epistesa Hills, west|of Megistris territory, there is a large|mountain called Pasaran Dumpling Mountain?"
-    },
-    "15": {
-        "「そのふもとに　聖なるチカラの集まる岩があると|　聞いたことがあります。そこに　本を置けば |　怨念を　浄化できるかもしれませんね。": "I've heard that there's a rock at the foot of|the mountain where holy power is gathered...|If you put a book on it, it might be able to|<br>|purify your grudge..."
-    },
-    "16": {
-        "「なるほど……。わかりました。|　神父さま　ありがとうございます。": "I see... I understand... Thank you, Father..."
-    },
-    "17": {
-        "「<pc>さん。|　振り回して　申し訳ないのですが……": "<pc> San. I apologize for swinging by, but..."
-    },
-    "18": {
-        "「ひとつ　お願いがあります。|　怨念が誰のものなのか　わかりませんが|　ぼくは　この怨念を晴らしたい。": "I have a favor to ask. I don't know whose|grudge it is, but I'd like to get rid of it."
-    },
-    "19": {
-        "「ざんげは　後で行いますので|　その聖なる岩へ行き　この本の怨念を|　浄化していただけませんか？<yesno><close>": "I'll do the cleansing later, so why don't you|go to that sacred rock and purify the grudge|of this book?<yesno><close>"
-    },
-    "20": {
-        "「エピステーサ丘陵は　屈強な魔物が多く|　ほかの者を向かわせても　歯が立ちません。|　ぼくは　この怨念を晴らしたいのです。": "The Epistesa Hills are full of powerful|demons, and even if I sent others against|them, they'd be no match for me. I want to|<br>|get rid of this grudge."
-    },
-    "21": {
-        "「ありがとうございます。|　では　この本を　受け取ってください。": "Thank you... Now, please accept this book..."
-    },
-    "22": {
-        "<pc>は　ラグアス王子から|フォステイル伝（だいじなもの）を|受け取った！<me 60>": "<pc> has received the Fosteil message from Prince|Ragus!<me 60>"
-    },
-    "23": {
-        "「ぼくは　城で　お待ちしております。|　お願いしますね　<pc>さん。": "I'll be waiting for you at the castle.|Please.<pc> Three."
-    },
-    "24": {
-        "フォステイル伝に　宿っていた怨念が|聖なるチカラにより　浄化された！": "The grudge that resided in the Fosteilden has|been cleansed by the power of holiness!"
-    },
-    "25": {
-        "「なるほど……。以前あった　まがまがしい気配が|　今は　この本から　消え去っていますね……。": "I see... Any hint of the glamour that was|there before is now gone from this book."
-    },
-    "26": {
-        "「おや……？　これは……。": "Oh...? This is..."
-    },
-    "27": {
-        "「内容が　変わっている……！？": "The content has changed...?"
-    },
-    "28": {
-        "「学者のように　スラスラ読むことはできませんが|　内容が変わったことは　ぼくでも　わかります！|　いったい　なにが……！？": "I can't read like a scholar, but even I can|tell that the content has changed. What the|hell...?"
-    },
-    "29": {
-        "「だめだ……。くわしいことは|　学者に　調べてもらわないと……。": "No... I'm gonna have to get a scientist to|look into this."
-    },
-    "30": {
-        "「……すいません。<pc>さん。|　そういえば　お礼が　まだでしたね。|　どうぞ　これを受け取ってください。": "... Water...<pc> Thank you. By the way, I haven't thanked|you... Please accept this..."
-    },
-    "31": {
-        "「なにが起きてるのか　わかりませんが|　これから　学者たちと協力して|　解読を始めてみます。": "I don't know what's going on, but I'm going|to start working with the scientists to|decipher..."
-    },
-    "32": {
-        "「おそらく　時間が　かかりますので|　また　しばらくしたら来てください。|　よろしくお願いします。": "It'll probably take some time, so please come|back in a while. Please do."
-    }
+  "1": {
+    "「これは　これは……。|　めずらしい方が　お見えになりましたね。": "Well, well, well... We have an unusual|visitor..."
+  },
+  "2": {
+    "「……ロロップ神父さま。": "... Lollop God..."
+  },
+  "3": {
+    "「ぼくの　先祖である|　フォステイル王は　５００年前に|　大変な　あやまちを犯していたようです。": "My ancestor, King Fosthild, made a terrible|mistake 500 years ago."
+  },
+  "4": {
+    "「同じ血をひく　ぼくが|　フォステイル王の罪を　ざんげしますので|　どうか　聞いていただけないでしょうか？": "I am of the same blood, and I intend to|expiate the sins of King Fosthild, so would|you please listen to me?"
+  },
+  "5": {
+    "「民であろうと　王であろうと|　神の前では　皆　迷える子羊です。|　よろしい。聞きましょう。": "Whether you're a citizen, a king, or a lost|child before God... No... Listen..."
+  },
+  "6": {
+    "「ありがとうございます。では……。": "Thank you... Now..."
+  },
+  "7": {
+    "「……うん？　王子　お待ちを。|　王子から　邪悪な怨念を感じます。": "... What? Prince... I sense an evil grudge in|the prince."
+  },
+  "8": {
+    "「えっ？　ぼくからですか？": "What? Is it from me?"
+  },
+  "9": {
+    "「いえ……。失礼……。|　王子からでは　ありませんね。|　怨念を感じるのは……": "No, no, no. I'm sorry. It's not the prince.|It's just that I feel a..."
+  },
+  "10": {
+    "「王子が　持っている本です。|　その本から　感じますね……。|　それも　かなり強い怨念です……。": "The prince has it. I can feel it in that|book. And it's a very strong grudge."
+  },
+  "11": {
+    "「この本から　怨念が……。|　本の持ち主だった　亡霊の怨念なのか……。": "I'm getting a grudge from this book. I don't|know if it's the grudge of the ghost who|owned the book..."
+  },
+  "12": {
+    "「神父さまの　おチカラで|　怨念を　浄化できませんか？": "Can't you use your power to purge the grudge,|Father?"
+  },
+  "13": {
+    "「……これほどに　強い怨念となると|　私では　どうすることもできません。|　もっと強い　聖なるチカラが必要でしょう。": "... If the grudge is this strong, there's|nothing I can do. I need a stronger, more|holy power."
+  },
+  "14": {
+    "「メギストリス領の西に位置する|　エピステーサ丘陵に　聖地パサラン団子山という|　大きな山があるのを　ご存知ですか？": "Did you know that in the Epistesa Hills, west|of Megistris territory, there is a large|mountain called Pasaran Dumpling Mountain?"
+  },
+  "15": {
+    "「そのふもとに　聖なるチカラの集まる岩があると|　聞いたことがあります。そこに　本を置けば |　怨念を　浄化できるかもしれませんね。": "I've heard that there's a rock at the foot of|the mountain where holy power is gathered...|If you put a book on it, it might be able to|<br>|purify your grudge..."
+  },
+  "16": {
+    "「なるほど……。わかりました。|　神父さま　ありがとうございます。": "I see... I understand... Thank you, Father..."
+  },
+  "17": {
+    "「<pc>さん。|　振り回して　申し訳ないのですが……": "<pc> San. I apologize for swinging by, but..."
+  },
+  "18": {
+    "「ひとつ　お願いがあります。|　怨念が誰のものなのか　わかりませんが|　ぼくは　この怨念を晴らしたい。": "I have a favor to ask. I don't know whose|grudge it is, but I'd like to get rid of it."
+  },
+  "19": {
+    "「ざんげは　後で行いますので|　その聖なる岩へ行き　この本の怨念を|　浄化していただけませんか？<yesno><close>": "I'll do the cleansing later, so why don't you|go to that sacred rock and purify the grudge|of this book?<yesno><close>"
+  },
+  "20": {
+    "「エピステーサ丘陵は　屈強な魔物が多く|　ほかの者を向かわせても　歯が立ちません。|　ぼくは　この怨念を晴らしたいのです。": "The Epistesa Hills are full of powerful|demons, and even if I sent others against|them, they'd be no match for me. I want to|<br>|get rid of this grudge."
+  },
+  "21": {
+    "「ありがとうございます。|　では　この本を　受け取ってください。": "Thank you... Now, please accept this book..."
+  },
+  "22": {
+    "<pc>は　ラグアス王子から|フォステイル伝（だいじなもの）を|受け取った！<me 60>": "<pc> has received the Fosteil message from Prince|Ragus!<me 60>"
+  },
+  "23": {
+    "「ぼくは　城で　お待ちしております。|　お願いしますね　<pc>さん。": "I'll be waiting for you at the castle.|Please.<pc> Three."
+  },
+  "24": {
+    "フォステイル伝に　宿っていた怨念が|聖なるチカラにより　浄化された！": "The grudge that resided in the Fosteilden has|been cleansed by the power of holiness!"
+  },
+  "25": {
+    "「なるほど……。以前あった　まがまがしい気配が|　今は　この本から　消え去っていますね……。": "I see... Any hint of the glamour that was|there before is now gone from this book."
+  },
+  "26": {
+    "「おや……？　これは……。": "Oh...? This is..."
+  },
+  "27": {
+    "「内容が　変わっている……！？": "The content has changed...?"
+  },
+  "28": {
+    "「学者のように　スラスラ読むことはできませんが|　内容が変わったことは　ぼくでも　わかります！|　いったい　なにが……！？": "I can't read like a scholar, but even I can|tell that the content has changed. What the|hell...?"
+  },
+  "29": {
+    "「だめだ……。くわしいことは|　学者に　調べてもらわないと……。": "No... I'm gonna have to get a scientist to|look into this."
+  },
+  "30": {
+    "「……すいません。<pc>さん。|　そういえば　お礼が　まだでしたね。|　どうぞ　これを受け取ってください。": "... Water...<pc> Thank you. By the way, I haven't thanked|you... Please accept this..."
+  },
+  "31": {
+    "「なにが起きてるのか　わかりませんが|　これから　学者たちと協力して|　解読を始めてみます。": "I don't know what's going on, but I'm going|to start working with the scientists to|decipher..."
+  },
+  "32": {
+    "「おそらく　時間が　かかりますので|　また　しばらくしたら来てください。|　よろしくお願いします。": "It'll probably take some time, so please come|back in a while. Please do."
+  }
 }

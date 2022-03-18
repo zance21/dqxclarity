@@ -1,113 +1,113 @@
 {
-    "1": {
-        "「聞こ……えま…すか？<yesno><close>": "Listen... Can I... Do you mind?<yesno><close>"
-    },
-    "2": {
-        "「あ…あ　その声……は　<pc>さ…ん。|　お元気で……たか？": "Oh That voice Huh?<pc> Sa.... How are you... How are you?"
-    },
-    "3": {
-        "「こ…うして　会話は…できますが|　あいかわ……ず　雑…音が　ひど……ですね。": "I... I can talk to him... I can talk to you,|but it's... It's just... The sound is awful.|......"
-    },
-    "4": {
-        "「じつは…私　あれ…から　しらべ……んです。|　この…シーバの鏡のメンテ…ナンスの方法…を。": "The truth is... I, uh... From ...... This...|Sheba's mirror maintenance... How to nance|it: ...."
-    },
-    "5": {
-        "「その…方法という……は　魔物に…|　マホトラを使って……あるアイテムに…|　<%nEV_QUE_T_NUM0>ＭＰ分の魔力をためる…というものです。": "It's called... The way... To a demon... To|use the Mahoutorah... A certain item...|<%nEV_QUE_T_NUM0> to store MP worth of|<br>|magic... to an item..."
-    },
-    "6": {
-        "「ただ……勝たな…と　その戦い…で　ためた分は|　無効…す。今後の…スムーズ…な会話のた…めに|　どうか　頼まれて……くれませんか？": ""
-    },
-    "7": {
-        "「ありが……うございます。|　それ…では　まず　これを……|　受け取っ……ください。": "Thank you... Thank you... Well... Let's start|with this... I'll take it... Take it..."
-    },
-    "8": {
-        "「今から…送るのは　シーバの鏡…を|　メンテナンス…するのに　欠かせ…いものです。|　その名も……メイジダスター！": "Now... I'm sending you Sheba's mirror... is|essential to the maintenance of... To|maintain... It's called... It's called...|<br>|Mage Duster!"
-    },
-    "9": {
-        "<pc>は　|メイジダスター（だいじなもの）を　受け取った！<me 60>": "<pc> received a mage duster!<me 60>"
-    },
-    "10": {
-        "「メイジダスターは　魔力を吸…収して|　こすった…モノに　その魔力をあた…える|　特別な…魔法の布……。": "The mage duster sucks the magic out of you.|It absorbs magic and rubs it in. To put its|magic on things A special... Magic Cloth"
-    },
-    "11": {
-        "「マホトラで…<%nEV_QUE_T_NUM0>ＭＰの魔力を…ためたら|　シーバの…鏡を　こすって…ください。|　そう…すれば　鏡は直るはず……です。": "Mahoutola... <%nEV_QUE_T_NUM0>MP's magic...|Sheba's... Rub the mirror... Rub... And|then... That should fix the mirror. ....."
-    },
-    "12": {
-        "「くれぐれも　よろし……くお願いします。|　では　今日のとこ…ろは　|　こ……れで　失礼させていた……きますね。": "I'd appreciate it if you would... Please...|And now for today... I'll leave you... And|now, if you'll excuse me... I'm sorry..."
-    },
-    "13": {
-        "「ありが……うございます。|　で…も　あなたは　たく…さんの|　頼まれご…とを　抱えているよ……ですね。": "Thank you... Thank you... And... But you're|still... You've got a lot of work to do. I've|got a lot of work to do. ......"
-    },
-    "14": {
-        "「しかた……ありませんね。|　この件は　また今度……ということで。": "I don't know. Yes... We'll talk about this|another time... I mean..."
-    },
-    "15": {
-        "「そ…うですか。残念……です。|　もし　気が変わ……たら　また|　この鏡に　話しかけてみ……ください。": "I... Ugh... Too bad. ..... If you change your|mind... If you change your mind... you can|talk to this mirror again... And..."
-    },
-    "16": {
-        "「もしか……して　シーバの…鏡の|　メンテナンスをして…ほしいという頼みを|　引き受けてく…れる　気になりました…か？": "What if... I don't know. Sheba's... Sheba's|mirror maintenance... I was wondering if|you'd be interested in... I'm ready... You|<br>|think?"
-    },
-    "17": {
-        "「そ…れでは　そのダスター……で|　シーバの鏡を　こす……てみてください。<yesno><close>": "So... So I'm gonna get that duster... To|scrub Sheba's mirror. Try it...<yesno><close>"
-    },
-    "18": {
-        "「……す…みませ……雑音…が多く…て|　聞き…とれな……。おねが……します。|　ダスターで　鏡を　こす……てみてください。<yesno><close>": "... I'm... I don't see... Noise... So much|noise... I can't hear... I can't... Please...|...... Can you scrub the mirror with a|<br>|duster? I can't...<yesno><close>"
-    },
-    "19": {
-        "<pc>は　メイジダスターで|はげしく　鏡をこすってみた！": "<pc> I'm not sure if this is a good idea or not."
-    },
-    "20": {
-        "メイジダスターは　魔力を使い果たし|ボロボロに　くずれさった。": "The mage duster has been drained of its|magic, and it's falling apart."
-    },
-    "21": {
-        "「…………。": "..."
-    },
-    "22": {
-        "「どうです　ちゃんと聞こえますか？<yesno><close>": "What do you think? Can you hear me?<yesno><close>"
-    },
-    "23": {
-        "「ああ　うまくいったようですね！|　すっかり　声が　クリアに聞こえるように|　なりましたよ。": "Oh, it seems to have worked! I can hear you|perfectly now."
-    },
-    "24": {
-        "「本当に　ありがとうございます。|　お礼と言っては　なんですが|　これを　受け取ってください。": "Thank you so much... I don't know if I should|be thanking you, but if you'll accept this..."
-    },
-    "25": {
-        "「この　シーバの鏡を手に入れてから|　毎晩のように　語りかけてきたのですが|　応えてくれたのは　あなただけでした。": "I've been talking to you every night since I|got this mirror of Sheba's, and you're the|only one who's responded..."
-    },
-    "26": {
-        "「<pc>さんは　いい人ですね。|　私は　だんだん　あなたのことが|　気になってきましたよ。": "<pc> You're a good person... I'm getting more and|more interested in you..."
-    },
-    "27": {
-        "「考えてみれば　こうして　会話しているのに|　私たちは　おたがいの顔すら|　知らないんですよね……。": "Come to think of it, even though we're|talking like this, we don't even know each|other's faces..."
-    },
-    "28": {
-        "「偶然が与えてくれた　出会いとはいえ……|　フフフ……じつに　奇妙な関係ですね。": "Even though it was a chance encounter...|Hmm... It's a very strange relationship..."
-    },
-    "29": {
-        "「……おっと。もう　こんな時間だ。|　すっかり　会話に夢中になってしまいました。|　よろしければ　また　お話ししましょう。": "...... I'm so... I've been so absorbed in our|conversation... I'd like to talk to you again|if you don't mind."
-    },
-    "30": {
-        "「今回は　私ばかり|　話してしまいましたから……": "Only me this time| I told him, so"
-    },
-    "31": {
-        "「次は　もっと　あなたの話を|　聞きたいですね。|　それでは　今日のところは　これで！": "Next time, I'd like to hear more of what you|have to say... Well, that's it for today."
-    },
-    "32": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
-    },
-    "33": {
-        "「……えま……か？": "... Oh, my God. What?"
-    },
-    "34": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
-    },
-    "35": {
-        "「お……や。<pc>さん？|　ま…た　来て……くれたんですね。": "お....<pc> Three? Well... You came... You... you came."
-    },
-    "36": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
-    },
-    "37": {
-        "「あ……あ。<pc>さん。|　どう…やら　メイジダスターに……|　魔力を　ためて……きてくれたようですね。": "あ....<pc> San. How about... Oh, no. The mage duster...|I've been saving my magic... It seems you've|come..."
-    }
+  "1": {
+    "「聞こ……えま…すか？<yesno><close>": "Listen... Can I... Do you mind?<yesno><close>"
+  },
+  "2": {
+    "「あ…あ　その声……は　<pc>さ…ん。|　お元気で……たか？": "Oh That voice Huh?<pc> Sa.... How are you... How are you?"
+  },
+  "3": {
+    "「こ…うして　会話は…できますが|　あいかわ……ず　雑…音が　ひど……ですね。": "I... I can talk to him... I can talk to you,|but it's... It's just... The sound is awful.|......"
+  },
+  "4": {
+    "「じつは…私　あれ…から　しらべ……んです。|　この…シーバの鏡のメンテ…ナンスの方法…を。": "The truth is... I, uh... From ...... This...|Sheba's mirror maintenance... How to nance|it: ...."
+  },
+  "5": {
+    "「その…方法という……は　魔物に…|　マホトラを使って……あるアイテムに…|　<%nEV_QUE_T_NUM0>ＭＰ分の魔力をためる…というものです。": "It's called... The way... To a demon... To|use the Mahoutorah... A certain item...|<%nEV_QUE_T_NUM0> to store MP worth of|<br>|magic... to an item..."
+  },
+  "6": {
+    "「ただ……勝たな…と　その戦い…で　ためた分は|　無効…す。今後の…スムーズ…な会話のた…めに|　どうか　頼まれて……くれませんか？": ""
+  },
+  "7": {
+    "「ありが……うございます。|　それ…では　まず　これを……|　受け取っ……ください。": "Thank you... Thank you... Well... Let's start|with this... I'll take it... Take it..."
+  },
+  "8": {
+    "「今から…送るのは　シーバの鏡…を|　メンテナンス…するのに　欠かせ…いものです。|　その名も……メイジダスター！": "Now... I'm sending you Sheba's mirror... is|essential to the maintenance of... To|maintain... It's called... It's called...|<br>|Mage Duster!"
+  },
+  "9": {
+    "<pc>は　|メイジダスター（だいじなもの）を　受け取った！<me 60>": "<pc> received a mage duster!<me 60>"
+  },
+  "10": {
+    "「メイジダスターは　魔力を吸…収して|　こすった…モノに　その魔力をあた…える|　特別な…魔法の布……。": "The mage duster sucks the magic out of you.|It absorbs magic and rubs it in. To put its|magic on things A special... Magic Cloth"
+  },
+  "11": {
+    "「マホトラで…<%nEV_QUE_T_NUM0>ＭＰの魔力を…ためたら|　シーバの…鏡を　こすって…ください。|　そう…すれば　鏡は直るはず……です。": "Mahoutola... <%nEV_QUE_T_NUM0>MP's magic...|Sheba's... Rub the mirror... Rub... And|then... That should fix the mirror. ....."
+  },
+  "12": {
+    "「くれぐれも　よろし……くお願いします。|　では　今日のとこ…ろは　|　こ……れで　失礼させていた……きますね。": "I'd appreciate it if you would... Please...|And now for today... I'll leave you... And|now, if you'll excuse me... I'm sorry..."
+  },
+  "13": {
+    "「ありが……うございます。|　で…も　あなたは　たく…さんの|　頼まれご…とを　抱えているよ……ですね。": "Thank you... Thank you... And... But you're|still... You've got a lot of work to do. I've|got a lot of work to do. ......"
+  },
+  "14": {
+    "「しかた……ありませんね。|　この件は　また今度……ということで。": "I don't know. Yes... We'll talk about this|another time... I mean..."
+  },
+  "15": {
+    "「そ…うですか。残念……です。|　もし　気が変わ……たら　また|　この鏡に　話しかけてみ……ください。": "I... Ugh... Too bad. ..... If you change your|mind... If you change your mind... you can|talk to this mirror again... And..."
+  },
+  "16": {
+    "「もしか……して　シーバの…鏡の|　メンテナンスをして…ほしいという頼みを|　引き受けてく…れる　気になりました…か？": "What if... I don't know. Sheba's... Sheba's|mirror maintenance... I was wondering if|you'd be interested in... I'm ready... You|<br>|think?"
+  },
+  "17": {
+    "「そ…れでは　そのダスター……で|　シーバの鏡を　こす……てみてください。<yesno><close>": "So... So I'm gonna get that duster... To|scrub Sheba's mirror. Try it...<yesno><close>"
+  },
+  "18": {
+    "「……す…みませ……雑音…が多く…て|　聞き…とれな……。おねが……します。|　ダスターで　鏡を　こす……てみてください。<yesno><close>": "... I'm... I don't see... Noise... So much|noise... I can't hear... I can't... Please...|...... Can you scrub the mirror with a|<br>|duster? I can't...<yesno><close>"
+  },
+  "19": {
+    "<pc>は　メイジダスターで|はげしく　鏡をこすってみた！": "<pc> I'm not sure if this is a good idea or not."
+  },
+  "20": {
+    "メイジダスターは　魔力を使い果たし|ボロボロに　くずれさった。": "The mage duster has been drained of its|magic, and it's falling apart."
+  },
+  "21": {
+    "「…………。": "..."
+  },
+  "22": {
+    "「どうです　ちゃんと聞こえますか？<yesno><close>": "What do you think? Can you hear me?<yesno><close>"
+  },
+  "23": {
+    "「ああ　うまくいったようですね！|　すっかり　声が　クリアに聞こえるように|　なりましたよ。": "Oh, it seems to have worked! I can hear you|perfectly now."
+  },
+  "24": {
+    "「本当に　ありがとうございます。|　お礼と言っては　なんですが|　これを　受け取ってください。": "Thank you so much... I don't know if I should|be thanking you, but if you'll accept this..."
+  },
+  "25": {
+    "「この　シーバの鏡を手に入れてから|　毎晩のように　語りかけてきたのですが|　応えてくれたのは　あなただけでした。": "I've been talking to you every night since I|got this mirror of Sheba's, and you're the|only one who's responded..."
+  },
+  "26": {
+    "「<pc>さんは　いい人ですね。|　私は　だんだん　あなたのことが|　気になってきましたよ。": "<pc> You're a good person... I'm getting more and|more interested in you..."
+  },
+  "27": {
+    "「考えてみれば　こうして　会話しているのに|　私たちは　おたがいの顔すら|　知らないんですよね……。": "Come to think of it, even though we're|talking like this, we don't even know each|other's faces..."
+  },
+  "28": {
+    "「偶然が与えてくれた　出会いとはいえ……|　フフフ……じつに　奇妙な関係ですね。": "Even though it was a chance encounter...|Hmm... It's a very strange relationship..."
+  },
+  "29": {
+    "「……おっと。もう　こんな時間だ。|　すっかり　会話に夢中になってしまいました。|　よろしければ　また　お話ししましょう。": "...... I'm so... I've been so absorbed in our|conversation... I'd like to talk to you again|if you don't mind."
+  },
+  "30": {
+    "「今回は　私ばかり|　話してしまいましたから……": "Only me this time| I told him, so"
+  },
+  "31": {
+    "「次は　もっと　あなたの話を|　聞きたいですね。|　それでは　今日のところは　これで！": "Next time, I'd like to hear more of what you|have to say... Well, that's it for today."
+  },
+  "32": {
+    "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+  },
+  "33": {
+    "「……えま……か？": "... Oh, my God. What?"
+  },
+  "34": {
+    "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+  },
+  "35": {
+    "「お……や。<pc>さん？|　ま…た　来て……くれたんですね。": "お....<pc> Three? Well... You came... You... you came."
+  },
+  "36": {
+    "<pc>は　鏡のある客室に　泊まった。": "<pc> I'm staying in a room with a mirror."
+  },
+  "37": {
+    "「あ……あ。<pc>さん。|　どう…やら　メイジダスターに……|　魔力を　ためて……きてくれたようですね。": "あ....<pc> San. How about... Oh, no. The mage duster...|I've been saving my magic... It seems you've|come..."
+  }
 }

@@ -1,77 +1,77 @@
 {
-    "1": {
-        "「そこにおるのは　<pc>か？": "There you are<pc> Is it?"
-    },
-    "2": {
-        "「……フム。ここに来たということは|　さては　お前さん　妖剣士オーレンのことを|　調べておるのじゃな？<yesno><close>": "..... If you've come here, then you're|looking into Oren the Swordmaster, aren't|you?<yesno><close>"
-    },
-    "3": {
-        "「……いや　みなまで言うな。|　どうせ　チグリ大臣あたりの差し金であろう。": "... No, no, no, no. It was Minister Tiggli's|idea..."
-    },
-    "4": {
-        "「お前さんに　忠告しておこう！|　悪いことは言わんから　オーレンのことは|　捨て置くがよい。": "I'm gonna give you some advice. I'm not gonna|say anything bad, but I'm gonna leave Oren|out of this."
-    },
-    "5": {
-        "「そんなもの　調べるだけ　時間のムダ。|　決して　真実には　たどり着けぬ。|　チグリ大臣にも　そう伝えておけ！": "It's not worth the time. You'll never find|the truth... Tell that to Minister Tiggly!"
-    },
-    "6": {
-        "ダンデルは　歴史書を解読するため|部屋から　飛びだしていった！": "Dandel ran out of the room to decipher the|history book!"
-    },
-    "7": {
-        "「どうやら　ダンデルからの依頼を|　果たしてくれたようですな。": "Apparently, he's done what Dandel asked him|to do..."
-    },
-    "8": {
-        "「それでは　報酬は　私のほうから|　お渡ししておきましょう。|　どうぞ　これを　受け取ってくだされ。": "Then I'll give you your reward. Please accept|this..."
-    },
-    "9": {
-        "<pc>は　チグリ大臣に|エイドスからの忠告を伝えた。": "<pc> Minister Tigri has been advised by Eidos..."
-    },
-    "10": {
-        "「……なんと！　洞くつの前に|　エイドスさまが　現れて　そんなことを……。": "... Oh, my God! Lord Eidos appeared in front|of the cave and said..."
-    },
-    "11": {
-        "「う～む。じつに　不可解ですな。|　いったい　エイドスさまは　オーレンの|　何を知っているのじゃろうか……。": "... I really don't understand... I wonder|what Lord Eidos knows about Oren..."
-    },
-    "12": {
-        "「見つかったのデス！！": "They found Death!"
-    },
-    "13": {
-        "「やはり　４７巻でしたっ！|　オーレンの名前を発見したのデス！": "I knew it! It was volume 47! I found Oren's|name!"
-    },
-    "14": {
-        "「おお　でかしたぞ！|　……して　妖剣士オーレンとは|　いったい　何者だったのじゃ？": "Oh, you did it! Well... So, who was Oren the|Swordmaster, anyway?"
-    },
-    "15": {
-        "「おっほ！　|　これは　大臣サマ。来ておられたのデスか！？": "Whoa! This is a big... You're here?"
-    },
-    "16": {
-        "「……オッホン！|　それでは　妖剣士オーレンの半生を|　語らせていただきましょう。": "... Oh, no! Now, let me tell you about the|life of the demon swordsman Oren..."
-    },
-    "17": {
-        "「生前の彼は　グレン城に仕える騎士であり|　剣聖オーレンと呼ばれる　英雄だったそうデス。|　……そう。ある事件が　起こるまでは。": "Before he died, he was a knight in the|service of the castle of Guren, a hero known|as the Sword Saint Oren... ..... There's an|<br>|incident..."
-    },
-    "18": {
-        "「ある時　オーレンは　ベコン渓谷を|　調査するという任務を負って|　部下を引きつれ　グレン城を出発しました。": "One day, Oren left Castle Glenn with his men,|tasked with surveying the Bekong Valley..."
-    },
-    "19": {
-        "「ところが　彼は　その途中で姿をくらまし|　次に　ガートラントの　さる大商人宅に|　姿を現しました。": "But he disappears on his way, and then turns|up at the home of a wealthy merchant in|Gartland..."
-    },
-    "20": {
-        "「そして　信じられないことに　オーレンは|　大商人をおそって　その持ち物であった|　レムルの聖杯と　商人の娘を強奪したのデス。": "And then, unbelievably, Oren raided a large|merchant and robbed him of his possessions,|the Lemurian Chalice and the merchant's|<br>|daughter..."
-    },
-    "21": {
-        "「この事件は　グレン　ガートラント両国の|　関係を悪化させ　やがて　戦争へと発展する|　引き金となりました。": "This incident soured relations between the|two nations of Glenn and Gartland and|triggered a war that would eventually..."
-    },
-    "22": {
-        "「以来　オーレンは　国を裏切った逆賊。|　戦争を引き起こした大罪人として|　表の歴史では　語られなくなったのデス。": "Since then, Oren became a traitor who betrayed|his country. His death is no longer mentioned|in history as a fiend who caused the war."
-    },
-    "23": {
-        "「……いやはや　妖剣士オーレンとは|　とんでもない悪党だったのデスな。|　魔物になるのも　うなずける話デス。": "... Oren the Demon Swordsman was one hell of|a villain... No wonder he became a demon..."
-    },
-    "24": {
-        "「むむう……。|　今の話を聞いて　ますます|　わからなくなってきましたわい。": "Mmm... Listening to what you just said, I'm|getting more and more confused..."
-    },
-    "25": {
-        "「エイドスさまは　どうして|　そんな悪党を　のさばらせておくのか……？": "Why would Lord Eidos allow such a scoundrel|to flourish?"
-    }
+  "1": {
+    "「そこにおるのは　<pc>か？": "There you are<pc> Is it?"
+  },
+  "2": {
+    "「……フム。ここに来たということは|　さては　お前さん　妖剣士オーレンのことを|　調べておるのじゃな？<yesno><close>": "..... If you've come here, then you're|looking into Oren the Swordmaster, aren't|you?<yesno><close>"
+  },
+  "3": {
+    "「……いや　みなまで言うな。|　どうせ　チグリ大臣あたりの差し金であろう。": "... No, no, no, no. It was Minister Tiggli's|idea..."
+  },
+  "4": {
+    "「お前さんに　忠告しておこう！|　悪いことは言わんから　オーレンのことは|　捨て置くがよい。": "I'm gonna give you some advice. I'm not gonna|say anything bad, but I'm gonna leave Oren|out of this."
+  },
+  "5": {
+    "「そんなもの　調べるだけ　時間のムダ。|　決して　真実には　たどり着けぬ。|　チグリ大臣にも　そう伝えておけ！": "It's not worth the time. You'll never find|the truth... Tell that to Minister Tiggly!"
+  },
+  "6": {
+    "ダンデルは　歴史書を解読するため|部屋から　飛びだしていった！": "Dandel ran out of the room to decipher the|history book!"
+  },
+  "7": {
+    "「どうやら　ダンデルからの依頼を|　果たしてくれたようですな。": "Apparently, he's done what Dandel asked him|to do..."
+  },
+  "8": {
+    "「それでは　報酬は　私のほうから|　お渡ししておきましょう。|　どうぞ　これを　受け取ってくだされ。": "Then I'll give you your reward. Please accept|this..."
+  },
+  "9": {
+    "<pc>は　チグリ大臣に|エイドスからの忠告を伝えた。": "<pc> Minister Tigri has been advised by Eidos..."
+  },
+  "10": {
+    "「……なんと！　洞くつの前に|　エイドスさまが　現れて　そんなことを……。": "... Oh, my God! Lord Eidos appeared in front|of the cave and said..."
+  },
+  "11": {
+    "「う～む。じつに　不可解ですな。|　いったい　エイドスさまは　オーレンの|　何を知っているのじゃろうか……。": "... I really don't understand... I wonder|what Lord Eidos knows about Oren..."
+  },
+  "12": {
+    "「見つかったのデス！！": "They found Death!"
+  },
+  "13": {
+    "「やはり　４７巻でしたっ！|　オーレンの名前を発見したのデス！": "I knew it! It was volume 47! I found Oren's|name!"
+  },
+  "14": {
+    "「おお　でかしたぞ！|　……して　妖剣士オーレンとは|　いったい　何者だったのじゃ？": "Oh, you did it! Well... So, who was Oren the|Swordmaster, anyway?"
+  },
+  "15": {
+    "「おっほ！　|　これは　大臣サマ。来ておられたのデスか！？": "Whoa! This is a big... You're here?"
+  },
+  "16": {
+    "「……オッホン！|　それでは　妖剣士オーレンの半生を|　語らせていただきましょう。": "... Oh, no! Now, let me tell you about the|life of the demon swordsman Oren..."
+  },
+  "17": {
+    "「生前の彼は　グレン城に仕える騎士であり|　剣聖オーレンと呼ばれる　英雄だったそうデス。|　……そう。ある事件が　起こるまでは。": "Before he died, he was a knight in the|service of the castle of Guren, a hero known|as the Sword Saint Oren... ..... There's an|<br>|incident..."
+  },
+  "18": {
+    "「ある時　オーレンは　ベコン渓谷を|　調査するという任務を負って|　部下を引きつれ　グレン城を出発しました。": "One day, Oren left Castle Glenn with his men,|tasked with surveying the Bekong Valley..."
+  },
+  "19": {
+    "「ところが　彼は　その途中で姿をくらまし|　次に　ガートラントの　さる大商人宅に|　姿を現しました。": "But he disappears on his way, and then turns|up at the home of a wealthy merchant in|Gartland..."
+  },
+  "20": {
+    "「そして　信じられないことに　オーレンは|　大商人をおそって　その持ち物であった|　レムルの聖杯と　商人の娘を強奪したのデス。": "And then, unbelievably, Oren raided a large|merchant and robbed him of his possessions,|the Lemurian Chalice and the merchant's|<br>|daughter..."
+  },
+  "21": {
+    "「この事件は　グレン　ガートラント両国の|　関係を悪化させ　やがて　戦争へと発展する|　引き金となりました。": "This incident soured relations between the|two nations of Glenn and Gartland and|triggered a war that would eventually..."
+  },
+  "22": {
+    "「以来　オーレンは　国を裏切った逆賊。|　戦争を引き起こした大罪人として|　表の歴史では　語られなくなったのデス。": "Since then, Oren became a traitor who betrayed|his country. His death is no longer mentioned|in history as a fiend who caused the war."
+  },
+  "23": {
+    "「……いやはや　妖剣士オーレンとは|　とんでもない悪党だったのデスな。|　魔物になるのも　うなずける話デス。": "... Oren the Demon Swordsman was one hell of|a villain... No wonder he became a demon..."
+  },
+  "24": {
+    "「むむう……。|　今の話を聞いて　ますます|　わからなくなってきましたわい。": "Mmm... Listening to what you just said, I'm|getting more and more confused..."
+  },
+  "25": {
+    "「エイドスさまは　どうして|　そんな悪党を　のさばらせておくのか……？": "Why would Lord Eidos allow such a scoundrel|to flourish?"
+  }
 }

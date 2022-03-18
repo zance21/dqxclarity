@@ -90,13 +90,13 @@
     "「おや……<pc>さま。|　どうぐかばんの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「ふくびきは　どうぐかばんに　２つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oh<pc> I'm sorry. There's not enough room in the|glove compartment to carry all the prizes...|You'll need two empty bags and one empty|<br>|envelope... We'll sort through your trinkets|and your bag to make room, then come back...<bw_break>"
   },
   "31": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "32": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
   },
   "33": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "34": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -117,7 +117,7 @@
     "「次は　<%nL_MEGURINEXT>ポイントを達成したら|　<%sL_ITEM>を　差し上げましょう。|<bw_break>": "Next time you reach <%nL_MEGURINEXT> points,|we'll give you <%sL_ITEM>...<bw_break>"
   },
   "40": {
-    "「<pc>さまは　ダブルすれちがい報告は|　はじめてですね。それでは　簡単に|　ご説明を　させていただきます。|<br>|「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ超便利ツール』を使って|　外の世界で　すれちがい通信をしていただき……|<br>|「外の世界で　すれちがった方と|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになります！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　私ども　旅のコンシェルジュにて|　ポイントに応じた　記念の品を差し上げます。|<br>|「『冒険者のおでかけ超便利ツール』の入手方法は|　目覚めし冒険者の広場を　ご確認ください。|<br>|「それでは　さっそく……|<bw_break>": "<pc> This is your first double-passenger report...|I'll give you a brief explanation... Double|StreetPass is a game where you use the|<br>|Nintendo 3DS \"Adventurer's Outing Tool\" to|communicate with people you've met in the|outside world. If you and the person you met|<br>|in the outside world meet again in this|world, you'll have achieved a Double|StreetPass! You'll earn points for each|<br>|double crossing, and we at the Travel|Concierge will give you a commemorative gift|based on your points. For more information on|<br>|how to get your hands on the Adventurer's|Outing Tool, check out the Awakened|Adventurer's Square... And now...<bw_break>"
+    "「<pc>さまは　ダブルすれちがい報告は|　はじめてですね。それでは　簡単に|　ご説明を　させていただきます。|<br>|「ダブルすれちがいとは　ニンテンドー３ＤＳの|　『冒険者のおでかけ超便利ツール』を使って|　外の世界で　すれちがい通信をしていただき……|<br>|「外の世界で　すれちがった方と|　この世界にて　再び　すれちがうと|　ダブルすれちがいを　達成したことになります！|<br>|「ダブルすれちがい達成で　ポイントが貯まり|　私ども　旅のコンシェルジュにて|　ポイントに応じた　記念の品を差し上げます。|<br>|「しかし　『冒険者のおでかけ超便利ツール』は|　|<br>|「それでは　さっそく……|<bw_break>": ""
   },
   "41": {
     "「<pc>さまは　<%nL_MEGURINOW>名の方と|　ダブルすれちがいを　果たして|　<%nL_MEGURIPOINT>ポイント　たまっております。|<bw_break>": "<pc> You've had a double pass with someone named|<%nL_MEGURINOW> and you've accumulated|<%nL_MEGURIPOINT> points.<bw_break>"
@@ -189,13 +189,13 @@
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "Are you sure you want to use|<%sL_KOUKAN_ITEM>?<yesno><break>"
   },
   "64": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "65": {
     "「では　他の賞品を　お選びください。|<break>": "Now, on to the other prizes...<break>"
   },
   "66": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "67": {
     "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
@@ -267,7 +267,7 @@
     "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
   },
   "90": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|<br>|「<pc>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you're a third-place or higher winner,|you'll receive a special Fukubiki ticket|<%nM_Hukubiki_Num>...<pc> I'll send your luck to my friends who've been|adventuring with me lately, as well, as|special coupons.<bw_break>"
+    "「<se_nots System 7>幸運の　ダブルチャンスとして|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚|　差し上げます。さらに……|<bw_break>": ""
   },
   "91": {
     "「確認したところ　<pc>さまには|　スペシャルふくびき券を　受け取れる|　フレンドのかたが　いないようですね。|<bw_break>": "I checked<pc> I'm afraid you don't have any friends who can|give you special coupons...<bw_break>"
@@ -288,19 +288,19 @@
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますね。|<end>": "Now, please give me the special coupon... I'm|praying for a good luck...<end>"
   },
   "97": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "98": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "99": {
     "「ふくびきの新しいサービス……|　スペシャルふくびきについて　ご説明します。|<br>|「通常のふくびきで　３等以上を獲得されますと|　幸運のダブルチャンスとして|　スペシャルふくびき券　２枚を進呈いたします。|<br>|「スペシャルふくびき券は　１枚で１回|　１０枚で１０回まとめて　特別な報酬の|　スペシャルふくびきに　挑戦できるチケット。|<br>|「さらに　スペシャルふくびき券　獲得の際には|　最近　一緒に冒険した　最大１２名のフレンドに|　幸運のおすそ分けが　起こるのです！|<br>|「なんと　フレンドの方たちにも|　スペシャルふくびき券を　１枚ずつ|　郵送させていただくという　出血大サービス！|<br>|「もちろん　このサービスにより|　<pc>さまの　スペシャルふくびき券が|　減ることはありませんので　ご安心ください。|<br>|「なお　スペシャルふくびき券の　おすそわけは|　サポート仲間にした　フレンドも|　対象となります。|<br>|「通常のふくびきで　３等以上を獲得されましたら|　フレンドの皆様とともに　スペシャルふくびきで|　さらなる福を　引き当ててください。|<end>": "New Lucky Draw Service... Explanation of the|Special Luck Draw... If you win the third|prize or more in the regular Lucky Draw, you|<br>|will receive two Special Lucky Draw tickets|as a lucky double chance... One Special Luck|Ticket gives you one chance to win a special|<br>|prize, and 10 Special Luck Tickets give you|10 chances to win a special prize... What's|more, when you earn a Special Luck Ticket,|<br>|you'll be able to share your good fortune|with up to 12 of your friends who've been|adventuring with you recently! What's more,|<br>|we'll even mail each of your friends a|Special Discount Coupon, a bloody great|service! Of course, with this service<pc> I'm sure you've heard of it. Please note that|you can share your Special Lucky Draw tickets|with friends you've made into supporters...|<br>|If you've won third prize or more in the|regular lottery, you and your friends can win|even more in the special lottery...<end>"
   },
   "100": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　<%nL_Hukubiki_Num>枚ずつを　郵送いたします。|<bw_break>": "You can choose up to 12 of your most recent|friends to receive <%nL_Hukubiki_Num> special|coupons in the mail.<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "101": {
-    "「郵送される　スペシャルふくびき券は|　ふくびき当選者様ごとに　手紙は１通だけ送られ|　受け取るまで　追加されていきます。|<br>|「そして　今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|「郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Each lucky winner will receive one of these|special coupons in the mail, and they'll be|added to your account until you receive them.|<br>|And here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "102": {
     "スペシャルふくびき券を郵送できたフレンド": "Friends who were able to mail special coupon tickets"
@@ -309,7 +309,7 @@
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
   },
   "104": {
-    "「<pc>さま　お待ちください！|　３等以上の　当選となりますので|　こちらを　差し上げます。|<bw_break>": "<pc> Ladies and gentlemen, please wait! If you're|a third or higher prize winner, you'll|receive this...<bw_break>"
+    "「<se_nots System 20><pc>さま　お待ちください！|　３等以上の　当選となりましたので……|<bw_break>": ""
   },
   "105": {
     "「前回のふくびきが　正常に終了しなかったので|　前回の途中から　ふくびきを再開します。|<end>": "The last round didn't finish properly, so|we're going to have to restart it from where|we left off...<end>"
@@ -405,7 +405,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "136": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "137": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -417,13 +417,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "140": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "141": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "142": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "143": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -609,13 +609,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "204": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER><%sM_SAMA>の　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons...|<%sM_OWNER><%sM_SAMA>'s friends who've been|<br>|adventuring with us lately will also receive|a Special Luck Ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "205": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "206": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "207": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -648,10 +648,10 @@
     "<%sPC_NAME_A>にスペシャルふくびき券を郵送しました。": "Mail a special coupon ticket to|<%sPC_NAME_A>..."
   },
   "217": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "218": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "219": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the bag to hold all the|prizes... You need one empty space in your|<br>|bag and one empty space in your bag to win|the special prize. We'll sort out your bag|and bag, make the necessary space, and come|<br>|back...<bw_break>"
@@ -822,7 +822,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "275": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "276": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -834,13 +834,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "279": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "280": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "281": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "282": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -1041,13 +1041,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "348": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER><%sM_SAMA>の　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons...|<%sM_OWNER><%sM_SAMA>'s friends who've been|<br>|adventuring with us lately will also receive|a Special Luck Ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "349": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "350": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "351": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -1083,10 +1083,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "362": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "363": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "364": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the bag to hold all the|prizes... You need one empty space in your|<br>|bag and one empty space in your bag to win|the special prize. We'll sort out your bag|and bag, make the necessary space, and come|<br>|back...<bw_break>"
@@ -1200,7 +1200,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "401": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "402": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -1212,13 +1212,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "405": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "406": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "407": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "408": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -1419,13 +1419,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "474": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER><%sM_SAMA>の　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons...|<%sM_OWNER><%sM_SAMA>'s friends who've been|<br>|adventuring with us lately will also receive|a Special Luck Ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "475": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "476": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "477": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -1461,10 +1461,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "488": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "489": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "490": {
     "「おや……<%sM_OWNER><%sM_SAMA>。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER><%sM_SA... There's not|enough room in the bag to hold all the|prizes... You need one empty space in your|<br>|bag and one empty space in your bag to win|the special prize. We'll sort out your bag|and bag, make the necessary space, and come|<br>|back...<bw_break>"
@@ -1578,7 +1578,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "527": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "528": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -1590,13 +1590,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "531": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "532": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "533": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "534": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -1797,13 +1797,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "600": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons... <If you've|been adventuring with us lately, we'd like to|<br>|send you a special lucky draw ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "601": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "602": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "603": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -1839,10 +1839,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "614": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "615": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "616": {
     "「おや……<%sM_OWNER>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the bag for all the prizes... You can only|win a special prize if you have one empty bag|<br>|in your bag and one empty bag in your pack...|We'll sort out your bag and bag, make the|necessary space, and come back...<bw_break>"
@@ -1956,7 +1956,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "653": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "654": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -1968,13 +1968,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "657": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "658": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "659": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "660": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -2175,13 +2175,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "726": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons... <If you've|been adventuring with us lately, we'd like to|<br>|send you a special lucky draw ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "727": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "728": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "729": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -2217,10 +2217,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "740": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "741": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "742": {
     "「おや……<%sM_OWNER>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the bag for all the prizes... You can only|win a special prize if you have one empty bag|<br>|in your bag and one empty bag in your pack...|We'll sort out your bag and bag, make the|necessary space, and come back...<bw_break>"
@@ -2334,7 +2334,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "779": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "780": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -2346,13 +2346,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "783": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "784": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "785": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "786": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -2553,13 +2553,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "852": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons... <If you've|been adventuring with us lately, we'd like to|<br>|send you a special lucky draw ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "853": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "854": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "855": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -2595,10 +2595,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "866": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "867": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "868": {
     "「おや……<%sM_OWNER>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the bag for all the prizes... You can only|win a special prize if you have one empty bag|<br>|in your bag and one empty bag in your pack...|We'll sort out your bag and bag, make the|necessary space, and come back...<bw_break>"
@@ -2712,7 +2712,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "905": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "906": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -2724,13 +2724,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "909": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "910": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "911": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "912": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -2931,13 +2931,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "978": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons... <If you've|been adventuring with us lately, we'd like to|<br>|send you a special lucky draw ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "979": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "980": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "981": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -2973,10 +2973,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "992": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "993": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "994": {
     "「おや……<%sM_OWNER>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the bag for all the prizes... You can only|win a special prize if you have one empty bag|<br>|in your bag and one empty bag in your pack...|We'll sort out your bag and bag, make the|necessary space, and come back...<bw_break>"
@@ -3090,7 +3090,7 @@
     "「ただ今　期間限定の賞品を|　ご用意しております。くわしくは|　『賞品をくわしく見る』から　ご覧ください！|<bw_break>": "We're giving away a limited-time prize... For|more details, please click on the \"Prize|Details\" link!<bw_break>"
   },
   "1031": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "1032": {
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
@@ -3102,13 +3102,13 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "1035": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1036": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 2>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 2>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1037": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1038": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -3309,13 +3309,13 @@
     "「元気玉　小元気玉　超元気玉について|　ご説明させていただきます。|<br>|「いずれも　使うと一定時間　元気タイムになり|　獲得経験値やゴールドが　２倍になるという|　不思議な宝珠です。|<br>|「続いて　特訓元気玉について|　ご説明させていただきます。|<br>|「特訓元気玉は　１０分間　特訓元気タイムになり|　特訓で得られる　特訓スタンプが　|　２倍になる不思議な宝珠です。|<br>|「ただし　２倍になるのは　特訓スタンプのみで|　獲得経験値やゴールド　職人経験値や|　釣り経験値などは　２倍になりません。|<br>|「どの元気玉も　冒険を中断していた時間の|　『元気チャージ』と交換します。元気チャージは|　最大４４０時間まで　貯まります！|<br>|「元気チャージは　すべての冒険の書で共通です。|　異なる冒険の書であっても　冒険をしている間は|　元気チャージされませんので　ご注意ください。|<br>|「各元気玉を使うと　元気タイムが始まりますが|　冒険を中断している間は　残り時間は|　減りませんので　うまくご活用くださいませ。|<end>": "Let me explain about Genki-Dama, Small Genki-|Dama, and Super Genki-Dama... When you use|any of them, you'll enter a certain period of|<br>|time, and your experience and gold will be|doubled. Next, let me explain about the|special training balls... It's a mysterious|<br>|treasure that doubles the amount of training|stamps you can get from training... However,|only the training stamps are doubled, not the|<br>|experience, gold, craftsman experience, or|fishing experience... Each Genki-dama can be|exchanged for a \"Genki-Recharge\" for the time|<br>|you've been out of the game. You can|accumulate up to 440 hours of Recharge! Genki|Charges are shared across all Adventure|<br>|Books... Please note that even if you use|different Adventure Books, you won't be able|to recharge while you're adventuring. When|<br>|you use each Genki-dama, the Genki Time|starts, but the remaining time does not|decrease while you are not adventuring, so|<br>|use it well...<end>"
   },
   "1104": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　２枚を　差し上げます。|<br>|「<%sM_OWNER>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you've won the third prize or more, we'll|give you two special coupons... <If you've|been adventuring with us lately, we'd like to|<br>|send you a special lucky draw ticket...<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "1105": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　１枚ずつを　郵送いたします。|<bw_break>": "I've chosen up to twelve of my most recent|friends and sent them each one of these|special coupons...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたします。|<bw_break>": ""
   },
   "1106": {
-    "「今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Here's a list of all the friends who were|able to get their special coupons in the mail|this time... Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "1107": {
     "「フレンドの方とともに　スペシャルふくびきで|　さらなる幸せを　つかんでください！|<bw_break>": "You and your friends can win a special lucky|draw to make you even happier!<bw_break>"
@@ -3351,10 +3351,10 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eにスペシャルふくびき券を郵送しました。": "\\s<%sC_PC>\\m<%sC_ID>\\e mailed special coupon|tickets to ..."
   },
   "1118": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|play a special lottery|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|スペシャルふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1119": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|play a special lottery|Play the Special 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|スペシャルふくびきをする|スペシャル１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1120": {
     "「おや……<%sM_OWNER>さま。|　そうびぶくろの　空きが足りないため|　賞品が当たっても　持ちきれませんよ。|<br>|「スペシャルふくびきは　どうぐかばんに　１つ|　そうびぶくろに　１つ　空きがないと|　できません。|<br>|「どうぐかばんと　そうびぶくろを整理して|　必要な空きを作ってから　またお越しください。|<bw_break>": "Oya... <%sM_OWNER... There's not enough room|in the bag for all the prizes... You can only|win a special prize if you have one empty bag|<br>|in your bag and one empty bag in your pack...|We'll sort out your bag and bag, make the|necessary space, and come back...<bw_break>"
@@ -3441,7 +3441,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1148": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1149": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3486,7 +3486,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1163": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1164": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3531,7 +3531,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1178": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1179": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3576,7 +3576,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1193": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1194": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3621,7 +3621,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1208": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1209": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3666,7 +3666,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1223": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1224": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3711,7 +3711,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1238": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1239": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3756,7 +3756,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1253": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<end>"
+    "「おや　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<end>": ""
   },
   "1254": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<end>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<end>"
@@ -3801,7 +3801,7 @@
     "「１０連ふくびき賞品を　お預かりしています。|　お預かり賞品を　全て受け取っていただかないと|　ふくびきはできませんので　ご注意ください。|<bw_break>": "I've got a 10-round lucky draw prize...|Please note that you can't start the lucky|draw until you've received all your prizes.<bw_break>"
   },
   "1268": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
   },
   "1269": {
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<bw_break>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<bw_break>"
@@ -5661,40 +5661,40 @@
     "「こんなに多くの方と　すれちがえるなんて……。|　これ以上　お渡しできるものは　ございませんが|　わたし　とても感服いたしましたっ！|<bw_break>": "I can't believe I've crossed paths with so|many of you. There's nothing more I can give|you, but I'm so impressed!<bw_break>"
   },
   "1888": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1889": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1890": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1891": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You will|need 10 tickets for the 10 draw!|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1892": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1893": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1894": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw.|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1895": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off 3>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "1 draw uses 1 ticket or <%dM_Hukubiki_H_Num> coupons. You need|10 tickets for the 10 draw!|<select_se_off 3>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1896": {
-    "「くわしく見たい賞品を　選んでくれ。|<break>": "Select the prize you'd like to see in full...<break>"
+    "「くわしく見たい賞品を　選んでくれ。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれているぜ。|<break>": ""
   },
   "1897": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びください。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "1898": {
-    "「くわしく見たい賞品を　選びやがれ。|<break>": "Select the prize you wish to view in full...<break>"
+    "「くわしく見たい賞品を　選びやがれ。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれているな。|<break>": ""
   },
   "1899": {
-    "「くわしく見たい賞品を　お選びください。|<break>": "Choose the prize you'd like to see in more|detail...<break>"
+    "「くわしく見たい賞品を　お選びくださいっ！|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれています。|<break>": ""
   },
   "1900": {
     "「すまないが|　ふくびき券を　持っていないようだな。|<bw_break>": "I'm sorry, I don't have a coupon...<bw_break>"
@@ -5904,13 +5904,13 @@
     "「おめでとう！　<%nL_TOU>等が当たったぜ！|　次の中から　<%sL_PRIZENAME>を|　選んでくれ。|<break>": "Congrats! You've just won <%nL_TOU>! Choose|<%sL_PRIZENAME> from the following...<break>"
   },
   "1969": {
-    "「おめでとうございます！　<%nL_TOU>等が当たりましたわ！|　次の中から　<%sL_PRIZENAME>を|　お選びくださいませ。|<break>": "Congratulations! You've won a <%nL_TOU>!|Please choose <%sL_PRIZENAME> from the|following...<break>"
+    "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びくださいませ。|<break>": ""
   },
   "1970": {
     "「おう　<%nL_TOU>等が当たったようだな。|　次の中から　<%sL_PRIZENAME>を|　選んでくれ。|<break>": "Oh, I won <%nL_TOU> and others... Choose|<%sL_PRIZENAME> from the following...<break>"
   },
   "1971": {
-    "「おめでとうございます！　<%nL_TOU>等が当たりましたっ！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You've won <%nL_TOU> and|more! Please choose <%sL_PRIZENAME> from the|following...<break>"
+    "「おめでとうございます！　<%nL_TOU>等が当たりました！|　次の中から　<%sL_PRIZENAME>を|　お選びください。|<break>": "Congratulations! You've won <%nL_TOU> and|more! Please choose <%sL_PRIZENAME> from the|following...<break>"
   },
   "1972": {
     "「<%sL_KOUKAN_ITEM>で　でいいか？|<yesno><break>": "Can I use <%sL_KOUKAN_ITEM>?<yesno><break>"
@@ -5937,16 +5937,16 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, on to the other prizes...<break>"
   },
   "1980": {
-    "「続けて　ふくびきを　するかい？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきを　するかい？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1981": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1982": {
-    "「続けて　ふくびきを　するのか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to keep playing?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきを　するのか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1983": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to play again?|<select_se_off>|Single Draw|10 Draw|View Prizes|<select_end><break>"
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1984": {
     "「<%sL_ITEM>だな。これは　使うと１０分間|　元気タイムになり　獲得経験値やゴールドが|　２倍になるぜ。|<br>|「いま　元気チャージが　<%nL_CTIME>時間あるな。|　<%sL_ITEM>なら　<%nL_MAXNUM>個まで　渡せるが|　いくつ　欲しいんだ？|<break>": "<%sL_ITEM... When you use this, you'll have|10 minutes of \"Vitality Time\" and gain double|the experience and gold... If you have|<br>|<%nL_CTIME> time... I can give you <%sL_ITEM>|up to <%nL_MAXNUM>. How many do you want?<break>"
@@ -6213,28 +6213,28 @@
     "<select_se_off>|ふくびきをする|スペシャルふくびきをする|<select_end>|<break>": "<select_se_off>|Regular Draw|Special Draw|<select_end>|<break>"
   },
   "2072": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができるぜ。|　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|drawing... Would you like to win a special|prize?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができるぜ。|　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2073": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|draw... Would you like to play the special|lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2074": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができる。|　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special coupon is good for one drawing...|You're doing the special draw?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができる。|　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2075": {
-    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "One special lottery ticket is good for one|drawing... Would you like to play the special|lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「スペシャルふくびき券　１枚で|　１回　抽選ができます。|　スペシャルふくびきを　いたしますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2076": {
-    "「続けて　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to go on and do the special draw?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきを　するかい？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2077": {
-    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2078": {
-    "「続けて　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Do you want to keep playing the special|lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきを　するのか？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2079": {
-    "「続けて　スペシャルふくびきをされますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|賞品をくわしく見る|<select_end><break>": "Would you like to continue playing the|special lottery?|<select_se_off>|Play the SP Lottery|Play the SP 10-Ren Fukubiki|See more prizes|<select_end><break>"
+    "「続けて　スペシャルふくびきをされますかっ？|<select_se_off>|ＳＰふくびきをする|ＳＰ１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "2080": {
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　もらうぜ。|　見事に福が引けるといいな！|<end>": "I'll give you a special lucky draw ticket...|I hope you get a good luck!<end>"
@@ -6249,40 +6249,40 @@
     "「では　スペシャルふくびき券|　<%nM_Hukubiki_Num>枚を　いただきます。|　見事に福が引けるよう　お祈りしてますねっ！|<end>": "We've got a special lucky draw ticket for|you... I'm praying that you'll be blessed!<end>"
   },
   "2084": {
-    "「３等以上の　当選になるから|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚あげよう。|<br>|「<pc>の　この幸運を|　最近　一緒に冒険した　フレンドにも|　スペシャルふくびき券として　送っておくぜ。|<bw_break>": "You'll get a third prize or better, so you'll|get a special Fukubiki ticket...<pc> I'm going to send these special coupons to|all my friends who've been adventuring with|me lately.<bw_break>"
+    "「３等以上の　当選になるから|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚あげよう。|　それと……|<bw_break>": ""
   },
   "2085": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|<br>|「<pc>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you're a third-place or higher winner,|you'll receive a special Fukubiki ticket|<%nM_Hukubiki_Num>...<pc> I'll send your luck to my friends who've been|adventuring with me lately, as well, as|special coupons.<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　さらに……|<bw_break>": ""
   },
   "2086": {
-    "「３等以上の　当選だな。|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚やる。|<br>|「<pc>の　この幸運を|　最近　一緒に冒険した　フレンドにも|　スペシャルふくびき券として　送っておく。|<bw_break>": "Third prize and above... Special Fukubiki|Ticket for <%nM_Hukubiki_Num>...<pc> I'm sending these special coupons to all my|friends who've been adventuring with me|lately.<bw_break>"
+    "「３等以上の　当選になるから|　スペシャルふくびき券を　<%nM_Hukubiki_Num>枚やる。|　それと……|<bw_break>": ""
   },
   "2087": {
-    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|<br>|「<pc>さまの　この幸運を|　最近　一緒に冒険した　フレンドの方にも|　スペシャルふくびき券として　お送りします。|<bw_break>": "If you're a third-place or higher winner,|you'll receive a special Fukubiki ticket|<%nM_Hukubiki_Num>...<pc> I'll send your luck to my friends who've been|adventuring with me lately, as well, as|special coupons.<bw_break>"
+    "「３等以上の　当選となりますので|　スペシャルふくびき券　<%nM_Hukubiki_Num>枚を　差し上げます。|　そしてなんと……|<bw_break>": ""
   },
   "2088": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　<%nL_Hukubiki_Num>枚ずつを　送っておくぜ。|<bw_break>": "I'm going to choose up to 12 of my most|recent friends and send them each a|<%nL_Hukubiki_Num> Special Fukubiki Ticket...<bw_break>"
+    "「フレンドから　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　送っておくぜ。|<bw_break>": ""
   },
   "2089": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　<%nL_Hukubiki_Num>枚ずつを　郵送いたしますわ。|<bw_break>": "We've chosen up to 12 of your most recent|friends to receive a Special Fukubiki Ticket|<%nL_Hukubiki_Num> each...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送いたしますわ。|<bw_break>": ""
   },
   "2090": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　<%nL_Hukubiki_Num>枚ずつを　送っておく。|<bw_break>": "I've chosen up to 12 of my most recent|friends to send <%nL_Hukubiki_Num> special|coupons to...<bw_break>"
+    "「フレンドから　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　送っておく。|<bw_break>": ""
   },
   "2091": {
-    "「最近いっしょに冒険した　フレンドから順に|　最大で　１２名を選び　スペシャルふくびき券|　<%nL_Hukubiki_Num>枚ずつを　郵送いたしますっ。|<bw_break>": "We've chosen up to 12 of your most recent|friends to receive a Special Fukubiki Ticket|<%nL_Hukubiki_Num> each...<bw_break>"
+    "「フレンドの方から　最近いっしょに冒険した順に|　最大１２名選び　おすそ分けで　<%nM_Hukubiki_Num>枚|　スペシャルふくびき券を　郵送しちゃいますっ。|<bw_break>": ""
   },
   "2092": {
-    "「郵送される　スペシャルふくびき券は|　ふくびき当選者ごとに　手紙は１通だけ送られ|　受け取るまで　追加されていくぜ。|<br>|「そして　今回　スペシャルふくびき券を|　郵送できた　フレンドは　こちらになるぜ。|<br>|「郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意してくれよな。|<end><bw_break>": "Each lucky winner will receive one of these|special coupons in the mail, and they'll keep|adding to it until you receive yours. And for|<br>|those of you who were able to mail in your|special coupons, here they are... I didn't|mail them to any friends whose mailboxes were|<br>|full, so please be careful...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだぜ。|<br>|「１回のふくびきごとに　郵便を１通　送るぜ。|「郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意してくれよな。|<end><bw_break>": ""
   },
   "2093": {
-    "「郵送される　スペシャルふくびき券は|　ふくびき当選者様ごとに　手紙は１通だけ送られ|　受け取るまで　追加されていきますわ。|<br>|「そして　今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります。|<br>|「郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Each lucky winner will receive one of these|special coupons in the mail, and more will be|added until they're received. And here's a|<br>|list of all the friends who were able to get|their special coupons in the mail this|time... Please note that we haven't mailed|<br>|any of your friends whose mailboxes were|full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになりますわ。|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": ""
   },
   "2094": {
-    "「郵送される　スペシャルふくびき券は|　ふくびき当選者ごとに　手紙は１通だけ送られ|　受け取るまで　追加されていく。|<br>|「そして　今回　スペシャルふくびき券を|　郵送できた　フレンドは　こいつらだ。|<br>|「郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意するんだな。|<end><bw_break>": "The special coupons are sent out in the mail,|and each lucky winner only gets one letter,|and they'll keep adding to it until they|<br>|receive... And this time, the friends who|were able to receive a special coupon in the|mail are these... I didn't mail it to any of|<br>|my friends whose mailboxes were full, so be|careful...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドは　こいつらだ。|<br>|「１回のふくびきごとに　郵便を１通　送った。|　郵便箱がいっぱいだった　フレンドには|　郵送していないから　注意するんだな。|<end><bw_break>": ""
   },
   "2095": {
-    "「郵送される　スペシャルふくびき券は|　ふくびき当選者様ごとに　手紙は１通だけ送られ|　受け取るまで　追加されていきます。|<br>|「そして　今回　スペシャルふくびき券を|　郵送できた　フレンドの皆様は|　こちらになります！|<br>|「郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承ください。|<end><bw_break>": "Each lucky winner will receive one of these|special coupons in the mail, and they'll be|added to your account until you receive them.|<br>|And here's a list of all the friends who were|able to receive their special coupons in the|mail this time! Please note that we haven't|<br>|mailed any of your friends whose mailboxes|were full...<end><bw_break>"
+    "「今回　スペシャルふくびき券を　郵送できた|　フレンドの皆様は　こちらになります！|<br>|「１回のふくびきごとに　郵便は１通届きます。|　郵便箱がいっぱいだった　フレンドの方には|　郵送しておりませんので　ご了承くださいっ。|<end><bw_break>": ""
   },
   "2096": {
     "「確認したが　<pc>には|　スペシャルふくびき券を　受け取れる|　フレンドが　いないようだな。|<bw_break>": "I checked<pc> I don't have any friends who can give me|special coupons...<bw_break>"
@@ -6705,16 +6705,16 @@
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<bw_break>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<bw_break>"
   },
   "2236": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
   },
   "2237": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
   },
   "2238": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
   },
   "2239": {
-    "「ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わりましたよ！|<bw_break>": "The draw results have changed! A grade you|won has been replaced with a higher one!|<bw_break>"
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
   },
   "2240": {
     "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
@@ -7486,5 +7486,239 @@
   },
   "2496": {
     "「そのアイテムは　すでに|　レプリカに　なっているようですが|　本当に　交換してよろしいですか？|<yesno 2><break>": "It appears that the item has already been|replicated, but are you sure you want to|trade it?<yesno 2><break>"
+  },
+  "2497": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2498": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2499": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2500": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2501": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2502": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2503": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2504": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2505": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2506": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2507": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2508": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2509": {
+    "「あらかじめ設定で　賞品を受け取る等級を|　お選びください。|<break>": ""
+  },
+  "2510": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2511": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2512": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2513": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2514": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2515": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2516": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2517": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2518": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2519": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2520": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2521": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2522": {
+    "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
+  },
+  "2523": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2524": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2525": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2526": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2527": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2528": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2529": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2530": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2531": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2532": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2533": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2534": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2535": {
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+  },
+  "2536": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2537": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2538": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2539": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2540": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2541": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2542": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2543": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2544": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2545": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2546": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2547": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2548": {
+    "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
+  },
+  "2549": {
+    "「ふくびきを引いた時の|　演出の長さを　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2550": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2551": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2552": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2553": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2554": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2555": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2556": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2557": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2558": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2559": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2560": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2561": {
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+  },
+  "2562": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<bw_break>": ""
+  },
+  "2563": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2564": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2565": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2566": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2567": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2568": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2569": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2570": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2571": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2572": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2573": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+  },
+  "2574": {
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
   }
 }

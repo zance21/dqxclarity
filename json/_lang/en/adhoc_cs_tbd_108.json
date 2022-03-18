@@ -1,191 +1,191 @@
 {
-    "1": {
-        "「そ　村王……！　お戻りか！？": "So, the village king... You're back!"
-    },
-    "2": {
-        "「いや　<pc>だったか……。|　おどろかせて　すまなかった。|　だが　いいところに来てくれたな。": "No<pc> I'm sorry. I'm sorry to scare you. But you've|come to the right place..."
-    },
-    "3": {
-        "「じつは　村王クリフゲーンさまが|　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "The village king, Lord Cliffe Gane, went into|the snowy mountains to look for a villager|who was late returning and never came back."
-    },
-    "4": {
-        "「ちがったか……。お前は　旅の者だな。|　ふむ。<pc>というのか。": "I'm sorry. You're a traveler... ...<pc> I'm sorry."
-    },
-    "5": {
-        "「じつは　このランガーオ村の村王である|　クリフゲーンさまが　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "The king of this village, Lord Cliffhanger,|went to the snow-covered mountains to look|for a villager who was late coming home, and|<br>|never came back."
-    },
-    "6": {
-        "「村王は　お父さんを　探しにいったの！": "The Village King has gone to find his father!"
-    },
-    "7": {
-        "「お父さんが帰ってこないのって　私が言ったら|　すぐに連れ戻してくるから　お前は|　心配しないで待ってろ　ガハハって……。": "If I tell you that your father isn't coming|home, I'll bring him right back, and you can|just wait and not worry."
-    },
-    "8": {
-        "「村の者が　雪山から戻らないときに|　村王が捜索に行くのは　よくあることだが|　これほど帰りが遅いのは　はじめてなのだ。": "It's not uncommon for the village king to go|searching for the villagers when they don't|return from the snowy mountains, but I've|<br>|never seen him return so late..."
-    },
-    "9": {
-        "「考えたくはないが……　村王の身に|　何か　あったのかもしれん。すまないが|　村王を探しに　雪山に行ってくれないか！？": ""
-    },
-    "10": {
-        "「おおっ　本当か！　恩に着るぞ！": "Oh, really? ! I'm in your debt!"
-    },
-    "11": {
-        "「お父さんは　今日は|　ラギ雪原の方に行くって　言ってました。|　町で売れる素材を　採るんだって……。": "Dad said we're going to the Ragi Snowfield|today. He said he was going to gather|materials to sell in town..."
-    },
-    "12": {
-        "「村王にも　そう伝えたから|　そっちの方に行けば|　きっと　ふたりに　会えるはずです！": "That's what I've told the village king, so|I'm sure we'll see each other over there!"
-    },
-    "13": {
-        "「ラギ雪原は　ランガーオ山地の東端から|　北へ抜けた所にある　厳しい雪原だ。|　そこへ行くなら　これを持っていってくれ。": "The Ragi Snowfield is just north of the|eastern edge of the Langao Mountains, and is|a harsh... If you're going there, take|<br>|this..."
-    },
-    "14": {
-        "<pc>は|ヌーク草（だいじなもの）を　手に入れた！<me_60>": "<pc> I've got some nookweed!<me_60>"
-    },
-    "15": {
-        "「それは　雪山で体力をうばわれぬよう|　身体を　あたためるための　薬草の一種だ。": "It's a medicinal herb used to warm the body|so that it doesn't lose its strength in the|snowy mountains."
-    },
-    "16": {
-        "「もしも　村王や　フウミの父親が|　寒さで弱っていたら　それを食べさせてくれ。|　よろしく頼んだぞ。": "If the village king or Fumi's father were|weak from the cold, we could feed them...|Please..."
-    },
-    "17": {
-        "「<pc>さん！　お父さんと|　村王のことを　よろしくお願いします！": "<pc> Hello! Please take care of your father and|the Village King!"
-    },
-    "18": {
-        "「おおっ　恩に着るぞ……と言いたいところだが|　どうやら　今は　頼まれごとが|　いっぱいのようだな……。": "Oh, I'm in your debt... I'd say you owe me a|favor, but it looks like you have a lot of|favors to do right now."
-    },
-    "19": {
-        "「無理強いはできんが　こちらも急を要する。|　できるなら　手を空けてきて|　私の頼みを　聞いてほしいところだ。": "I don't want to impose, but it's urgent. I|was wondering if you'd be so kind as to make|yourself available and do me a favor."
-    },
-    "20": {
-        "「そ　そうか……。|　こうなったら　村王が　無事に戻られることを|　天に祈るよりほかにないな……。": "I see... I can only pray to the heavens that|the Village King will return safely..."
-    },
-    "21": {
-        "「おお　<pc>よ……。|　また来てくれたのだな。": "oh!<pc> Hey... You're here again..."
-    },
-    "22": {
-        "「もう一度　頼もう。|　村王が　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "Once again... The village king went into the|snowy mountains to look for a villager who|was late coming home, and he never came back."
-    },
-    "23": {
-        "「村の者が　雪山から戻らないときに|　村王が捜索に行くのは　よくあることだが|　これほど帰りが遅いのは　はじめてなのだ。": "It's not uncommon for the village king to go|searching for the villagers when they don't|return from the snowy mountains, but I've|<br>|never seen him return so late..."
-    },
-    "24": {
-        "「考えたくはないが……　村王の身に|　何か　あったのかもしれん。すまないが|　村王を探しに　雪山に行ってくれないか！？": ""
-    },
-    "25": {
-        "「おお　<pc>！|　村王と　フウミの父親は　見つかったのか！？": "oh!<pc> What? Did you find the village king and|Fumi's father?"
-    },
-    "26": {
-        "「そうか。まだか……。|　いや　急かして　すまない。": "... I'm not ready. No, no, no. I'm sorry."
-    },
-    "27": {
-        "「村王と　フウミの父親は|　ラギ雪原の方に　向かったと思われる。|　そちらを　重点的に探してみてくれ。": "I think the village king and Fumi's father|are headed for the Ragi snowfield. I'll focus|my search there..."
-    },
-    "28": {
-        "「頼りは　お前だけなのだ。|　よろしく頼むぞ。": "You're my only hope. Nice to meet you."
-    },
-    "29": {
-        "「<pc>さん！　お父さんと|　村王のことを　よろしくお願いします！": "<pc> Hello! Please take care of your father and|the Village King!"
-    },
-    "30": {
-        "「お…お前は……。": "Oh... You're..."
-    },
-    "31": {
-        "「<pc>……？　まさか　わしは|　幻覚を　見ているんじゃないだろうな……。": "<pc> ...? I hope I'm not hallucinating..."
-    },
-    "32": {
-        "「わしを　助けにきたのか……。": "You've come to save me..."
-    },
-    "33": {
-        "「……目を覚ませ　クーガ。|　どうやら　神さまは　まだ|　わしらを　死なせてくれんらしいぞ。": "... Wake up. Apparently, the gods haven't let|us die yet."
-    },
-    "34": {
-        "「いかんな……。寒さで　意識を|　失ってしまっている。何か　身体を|　あたためる物が　あればよいのだが……。": "No, no, no. The cold has knocked me|unconscious. I wish I had something to keep|me warm..."
-    },
-    "35": {
-        "村王クリフゲーンに|ヌーク草を　渡しますか？<yesno><close>": ""
-    },
-    "36": {
-        "「お前は　村から来たのだろう？|　だったら　ランガーオ村の者から|　何か　あずかっては　いないか？": "You're from the village, aren't you? If|you're from the village, don't you have|anything to give from the people of Langao?"
-    },
-    "37": {
-        "<pc>は　村王クリフゲーンに|ヌーク草を　渡した。": "<pc> ...to the village king, Cliffe Gane, for|Nookweed."
-    },
-    "38": {
-        "「おお　ヌーク草を持ってきてくれたか！|　よし！　これさえあれば！": "Oh, you brought the nookweed! All right! All|I need is this!"
-    },
-    "39": {
-        "「さあ　クーガ。|　これを　食べるんだ。": "Here... Here, eat this..."
-    },
-    "40": {
-        "「……………………。": "..."
-    },
-    "41": {
-        "「うっはあああああ～～～～っ！！": "Oooohhhh ～～～～!"
-    },
-    "42": {
-        "「さすが　効果絶大だな。|　よし　わしも　ひとクチいただこう。": "That's what I'm talking about. Okay, I'll|take a hit."
-    },
-    "43": {
-        "「いやあ　ありがとうございました。|　おかげで　血が沸き立つくらい|　全身ポカポカです。これなら　村まで帰れます！": "Oh, thank you... Thanks to you, my blood is|boiling all over... I can make it back to the|village!"
-    },
-    "44": {
-        "「村王も　ありがとうございました。|　もし　村王が岩陰に運んでくれなかったら|　今頃　凍え死んでいたかもしれません……。": "Thank you, Village King... If it wasn't for|the Village King carrying me to the shade of|the rocks, I might have frozen to death by|<br>|now..."
-    },
-    "45": {
-        "「ガハハ！　わしに　礼はいらん！|　わしも　寒さに体力をうばわれて|　ここまで運ぶのが　精一杯だったのだ。": "Gahaha! Don't thank me! I, too, was so weak|from the cold I could barely carry myself up|here..."
-    },
-    "46": {
-        "「ヌーク草も持たずに　雪山に来るとは|　わしも　うかつだったわ。|　いや　それより……": "I'd be foolish to come to the snowy mountains|without nook grass... No, more importantly..."
-    },
-    "47": {
-        "「この　わしが　雪山で動けなくなる日が|　来るとはな……。": "I never thought the day would come when I'd|be stuck in the snow..."
-    },
-    "48": {
-        "「いやいや。そんなこと言ってる場合ではない。|　ヌーク草の　効果が切れる前に|　わしらも　村に戻るとしよう！": "I don't... We don't have time for this...|We'd better get back to the village before|the Nuke Weed wears off!"
-    },
-    "49": {
-        "「ガハハ！　<pc>よ！|　お前には　礼をせねばな！|　村に戻ったら　わしの家まで来てくれ！": "Gahaha!<pc> Hey! I have you to thank for this! When you|get back to the village, come to my house!"
-    },
-    "50": {
-        "「おっ　<pc>　戻ったか！|　ガハハ！　待っていたぞ！": "Whoa<pc> You're back! Ha ha ha! I've been waiting for|you!"
-    },
-    "51": {
-        "「お前が　村に来てくれて　助かった！|　もし　お前が　いなかったらと思うと|　ぞっとするぞ！　ガハハハ！": "I'm so glad you came to our village! I|shudder to think what we would have done if|you hadn't been there! Ga-ha-ha!"
-    },
-    "52": {
-        "「<pc>さん　ありがとうございました。|　おかげで　お父さんも　村王も|　無事に　帰ってきてくれました。": "<pc> Thank you very much... Thanks to you, Father|and the King of the village have returned|safely..."
-    },
-    "53": {
-        "「採取の帰りに　急に吹雪が強くなりまして……。|　雪山には　慣れているつもりだったのですが|　まったく　面目ありません。": "On the way back from collecting, the blizzard|suddenly got stronger... I thought I was|accustomed to snow-covered mountains, but|<br>|it's a shame..."
-    },
-    "54": {
-        "「まあ　みんな無事で　なによりだ！|　そうだ　ギュラン。忘れないうちに|　あれを　<pc>に　渡してくれ。": "Well, I'm glad everyone's okay! Hey, Gee...|Oh, before I forget.<pc> I'll give it to..."
-    },
-    "55": {
-        "「これは　私と村王からの　心ばかりの　お礼だ。|　受け取ってくれ。": "This is a heartfelt gift from me and the|village king... We received..."
-    },
-    "56": {
-        "「では　私たちは　これで。": "So, we're..."
-    },
-    "57": {
-        "「<pc>さん！|　今度　うちにも　遊びにきてくださいね！": "<pc> Thank you! Please come visit us sometime!"
-    },
-    "58": {
-        "「今　この村の　若くて強い連中は|　みんな　修行の旅に出ている。その間くらいは|　しっかり　村を守ろうと思ったのだが……": "Right now, all the young and strong people in|this village are on a training trip... I|thought I'd protect the village for the time|<br>|being, but..."
-    },
-    "59": {
-        "「……わしも　トシをとったということか。|　どうやら　もう　若い頃と|　同じようには　いかんようだ……。": "... I've grown old. Apparently, I'm not the|same person I was when I was young."
-    },
-    "60": {
-        "「そういえば　村王。|　村王が　村を離れられている間に|　こんな手紙が　届いておりましたぞ。": "By the way... While the King was away from|the village, we received this letter..."
-    },
-    "61": {
-        "「おお。わしにか？|　わしに手紙など　めずらしいな。": "Oh. Is that for me? It's no trouble to write|to me..."
-    },
-    "62": {
-        "「そうか。あいつが　来るか……。": "... He's coming..."
-    },
-    "63": {
-        "「きっと……　強くなったのだろうな。": "It must be... I'm stronger..."
-    }
+  "1": {
+    "「そ　村王……！　お戻りか！？": "So, the village king... You're back!"
+  },
+  "2": {
+    "「いや　<pc>だったか……。|　おどろかせて　すまなかった。|　だが　いいところに来てくれたな。": "No<pc> I'm sorry. I'm sorry to scare you. But you've|come to the right place..."
+  },
+  "3": {
+    "「じつは　村王クリフゲーンさまが|　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "The village king, Lord Cliffe Gane, went into|the snowy mountains to look for a villager|who was late returning and never came back."
+  },
+  "4": {
+    "「ちがったか……。お前は　旅の者だな。|　ふむ。<pc>というのか。": "I'm sorry. You're a traveler... ...<pc> I'm sorry."
+  },
+  "5": {
+    "「じつは　このランガーオ村の村王である|　クリフゲーンさまが　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "The king of this village, Lord Cliffhanger,|went to the snow-covered mountains to look|for a villager who was late coming home, and|<br>|never came back."
+  },
+  "6": {
+    "「村王は　お父さんを　探しにいったの！": "The Village King has gone to find his father!"
+  },
+  "7": {
+    "「お父さんが帰ってこないのって　私が言ったら|　すぐに連れ戻してくるから　お前は|　心配しないで待ってろ　ガハハって……。": "If I tell you that your father isn't coming|home, I'll bring him right back, and you can|just wait and not worry."
+  },
+  "8": {
+    "「村の者が　雪山から戻らないときに|　村王が捜索に行くのは　よくあることだが|　これほど帰りが遅いのは　はじめてなのだ。": "It's not uncommon for the village king to go|searching for the villagers when they don't|return from the snowy mountains, but I've|<br>|never seen him return so late..."
+  },
+  "9": {
+    "「考えたくはないが……　村王の身に|　何か　あったのかもしれん。すまないが|　村王を探しに　雪山に行ってくれないか！？": ""
+  },
+  "10": {
+    "「おおっ　本当か！　恩に着るぞ！": "Oh, really? ! I'm in your debt!"
+  },
+  "11": {
+    "「お父さんは　今日は|　ラギ雪原の方に行くって　言ってました。|　町で売れる素材を　採るんだって……。": "Dad said we're going to the Ragi Snowfield|today. He said he was going to gather|materials to sell in town..."
+  },
+  "12": {
+    "「村王にも　そう伝えたから|　そっちの方に行けば|　きっと　ふたりに　会えるはずです！": "That's what I've told the village king, so|I'm sure we'll see each other over there!"
+  },
+  "13": {
+    "「ラギ雪原は　ランガーオ山地の東端から|　北へ抜けた所にある　厳しい雪原だ。|　そこへ行くなら　これを持っていってくれ。": "The Ragi Snowfield is just north of the|eastern edge of the Langao Mountains, and is|a harsh... If you're going there, take|<br>|this..."
+  },
+  "14": {
+    "<pc>は|ヌーク草（だいじなもの）を　手に入れた！<me_60>": "<pc> I've got some nookweed!<me_60>"
+  },
+  "15": {
+    "「それは　雪山で体力をうばわれぬよう|　身体を　あたためるための　薬草の一種だ。": "It's a medicinal herb used to warm the body|so that it doesn't lose its strength in the|snowy mountains."
+  },
+  "16": {
+    "「もしも　村王や　フウミの父親が|　寒さで弱っていたら　それを食べさせてくれ。|　よろしく頼んだぞ。": "If the village king or Fumi's father were|weak from the cold, we could feed them...|Please..."
+  },
+  "17": {
+    "「<pc>さん！　お父さんと|　村王のことを　よろしくお願いします！": "<pc> Hello! Please take care of your father and|the Village King!"
+  },
+  "18": {
+    "「おおっ　恩に着るぞ……と言いたいところだが|　どうやら　今は　頼まれごとが|　いっぱいのようだな……。": "Oh, I'm in your debt... I'd say you owe me a|favor, but it looks like you have a lot of|favors to do right now."
+  },
+  "19": {
+    "「無理強いはできんが　こちらも急を要する。|　できるなら　手を空けてきて|　私の頼みを　聞いてほしいところだ。": "I don't want to impose, but it's urgent. I|was wondering if you'd be so kind as to make|yourself available and do me a favor."
+  },
+  "20": {
+    "「そ　そうか……。|　こうなったら　村王が　無事に戻られることを|　天に祈るよりほかにないな……。": "I see... I can only pray to the heavens that|the Village King will return safely..."
+  },
+  "21": {
+    "「おお　<pc>よ……。|　また来てくれたのだな。": "oh!<pc> Hey... You're here again..."
+  },
+  "22": {
+    "「もう一度　頼もう。|　村王が　帰りの遅い村人を探しに|　雪山に行ったまま　戻ってこないのだ。": "Once again... The village king went into the|snowy mountains to look for a villager who|was late coming home, and he never came back."
+  },
+  "23": {
+    "「村の者が　雪山から戻らないときに|　村王が捜索に行くのは　よくあることだが|　これほど帰りが遅いのは　はじめてなのだ。": "It's not uncommon for the village king to go|searching for the villagers when they don't|return from the snowy mountains, but I've|<br>|never seen him return so late..."
+  },
+  "24": {
+    "「考えたくはないが……　村王の身に|　何か　あったのかもしれん。すまないが|　村王を探しに　雪山に行ってくれないか！？": ""
+  },
+  "25": {
+    "「おお　<pc>！|　村王と　フウミの父親は　見つかったのか！？": "oh!<pc> What? Did you find the village king and|Fumi's father?"
+  },
+  "26": {
+    "「そうか。まだか……。|　いや　急かして　すまない。": "... I'm not ready. No, no, no. I'm sorry."
+  },
+  "27": {
+    "「村王と　フウミの父親は|　ラギ雪原の方に　向かったと思われる。|　そちらを　重点的に探してみてくれ。": "I think the village king and Fumi's father|are headed for the Ragi snowfield. I'll focus|my search there..."
+  },
+  "28": {
+    "「頼りは　お前だけなのだ。|　よろしく頼むぞ。": "You're my only hope. Nice to meet you."
+  },
+  "29": {
+    "「<pc>さん！　お父さんと|　村王のことを　よろしくお願いします！": "<pc> Hello! Please take care of your father and|the Village King!"
+  },
+  "30": {
+    "「お…お前は……。": "Oh... You're..."
+  },
+  "31": {
+    "「<pc>……？　まさか　わしは|　幻覚を　見ているんじゃないだろうな……。": "<pc> ...? I hope I'm not hallucinating..."
+  },
+  "32": {
+    "「わしを　助けにきたのか……。": "You've come to save me..."
+  },
+  "33": {
+    "「……目を覚ませ　クーガ。|　どうやら　神さまは　まだ|　わしらを　死なせてくれんらしいぞ。": "... Wake up. Apparently, the gods haven't let|us die yet."
+  },
+  "34": {
+    "「いかんな……。寒さで　意識を|　失ってしまっている。何か　身体を|　あたためる物が　あればよいのだが……。": "No, no, no. The cold has knocked me|unconscious. I wish I had something to keep|me warm..."
+  },
+  "35": {
+    "村王クリフゲーンに|ヌーク草を　渡しますか？<yesno><close>": ""
+  },
+  "36": {
+    "「お前は　村から来たのだろう？|　だったら　ランガーオ村の者から|　何か　あずかっては　いないか？": "You're from the village, aren't you? If|you're from the village, don't you have|anything to give from the people of Langao?"
+  },
+  "37": {
+    "<pc>は　村王クリフゲーンに|ヌーク草を　渡した。": "<pc> ...to the village king, Cliffe Gane, for|Nookweed."
+  },
+  "38": {
+    "「おお　ヌーク草を持ってきてくれたか！|　よし！　これさえあれば！": "Oh, you brought the nookweed! All right! All|I need is this!"
+  },
+  "39": {
+    "「さあ　クーガ。|　これを　食べるんだ。": "Here... Here, eat this..."
+  },
+  "40": {
+    "「……………………。": "..."
+  },
+  "41": {
+    "「うっはあああああ～～～～っ！！": "Oooohhhh ～～～～!"
+  },
+  "42": {
+    "「さすが　効果絶大だな。|　よし　わしも　ひとクチいただこう。": "That's what I'm talking about. Okay, I'll|take a hit."
+  },
+  "43": {
+    "「いやあ　ありがとうございました。|　おかげで　血が沸き立つくらい|　全身ポカポカです。これなら　村まで帰れます！": "Oh, thank you... Thanks to you, my blood is|boiling all over... I can make it back to the|village!"
+  },
+  "44": {
+    "「村王も　ありがとうございました。|　もし　村王が岩陰に運んでくれなかったら|　今頃　凍え死んでいたかもしれません……。": "Thank you, Village King... If it wasn't for|the Village King carrying me to the shade of|the rocks, I might have frozen to death by|<br>|now..."
+  },
+  "45": {
+    "「ガハハ！　わしに　礼はいらん！|　わしも　寒さに体力をうばわれて|　ここまで運ぶのが　精一杯だったのだ。": "Gahaha! Don't thank me! I, too, was so weak|from the cold I could barely carry myself up|here..."
+  },
+  "46": {
+    "「ヌーク草も持たずに　雪山に来るとは|　わしも　うかつだったわ。|　いや　それより……": "I'd be foolish to come to the snowy mountains|without nook grass... No, more importantly..."
+  },
+  "47": {
+    "「この　わしが　雪山で動けなくなる日が|　来るとはな……。": "I never thought the day would come when I'd|be stuck in the snow..."
+  },
+  "48": {
+    "「いやいや。そんなこと言ってる場合ではない。|　ヌーク草の　効果が切れる前に|　わしらも　村に戻るとしよう！": "I don't... We don't have time for this...|We'd better get back to the village before|the Nuke Weed wears off!"
+  },
+  "49": {
+    "「ガハハ！　<pc>よ！|　お前には　礼をせねばな！|　村に戻ったら　わしの家まで来てくれ！": "Gahaha!<pc> Hey! I have you to thank for this! When you|get back to the village, come to my house!"
+  },
+  "50": {
+    "「おっ　<pc>　戻ったか！|　ガハハ！　待っていたぞ！": "Whoa<pc> You're back! Ha ha ha! I've been waiting for|you!"
+  },
+  "51": {
+    "「お前が　村に来てくれて　助かった！|　もし　お前が　いなかったらと思うと|　ぞっとするぞ！　ガハハハ！": "I'm so glad you came to our village! I|shudder to think what we would have done if|you hadn't been there! Ga-ha-ha!"
+  },
+  "52": {
+    "「<pc>さん　ありがとうございました。|　おかげで　お父さんも　村王も|　無事に　帰ってきてくれました。": "<pc> Thank you very much... Thanks to you, Father|and the King of the village have returned|safely..."
+  },
+  "53": {
+    "「採取の帰りに　急に吹雪が強くなりまして……。|　雪山には　慣れているつもりだったのですが|　まったく　面目ありません。": "On the way back from collecting, the blizzard|suddenly got stronger... I thought I was|accustomed to snow-covered mountains, but|<br>|it's a shame..."
+  },
+  "54": {
+    "「まあ　みんな無事で　なによりだ！|　そうだ　ギュラン。忘れないうちに|　あれを　<pc>に　渡してくれ。": "Well, I'm glad everyone's okay! Hey, Gee...|Oh, before I forget.<pc> I'll give it to..."
+  },
+  "55": {
+    "「これは　私と村王からの　心ばかりの　お礼だ。|　受け取ってくれ。": "This is a heartfelt gift from me and the|village king... We received..."
+  },
+  "56": {
+    "「では　私たちは　これで。": "So, we're..."
+  },
+  "57": {
+    "「<pc>さん！|　今度　うちにも　遊びにきてくださいね！": "<pc> Thank you! Please come visit us sometime!"
+  },
+  "58": {
+    "「今　この村の　若くて強い連中は|　みんな　修行の旅に出ている。その間くらいは|　しっかり　村を守ろうと思ったのだが……": "Right now, all the young and strong people in|this village are on a training trip... I|thought I'd protect the village for the time|<br>|being, but..."
+  },
+  "59": {
+    "「……わしも　トシをとったということか。|　どうやら　もう　若い頃と|　同じようには　いかんようだ……。": "... I've grown old. Apparently, I'm not the|same person I was when I was young."
+  },
+  "60": {
+    "「そういえば　村王。|　村王が　村を離れられている間に|　こんな手紙が　届いておりましたぞ。": "By the way... While the King was away from|the village, we received this letter..."
+  },
+  "61": {
+    "「おお。わしにか？|　わしに手紙など　めずらしいな。": "Oh. Is that for me? It's no trouble to write|to me..."
+  },
+  "62": {
+    "「そうか。あいつが　来るか……。": "... He's coming..."
+  },
+  "63": {
+    "「きっと……　強くなったのだろうな。": "It must be... I'm stronger..."
+  }
 }

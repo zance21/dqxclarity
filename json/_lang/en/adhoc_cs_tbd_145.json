@@ -1,236 +1,236 @@
 {
-    "1": {
-        "「お前さんのおかげで　準備も　ととのった。|　いよいよ　伐採同盟と対決！": "Thanks to you, we're ready... It's time to|face the logging alliance!"
-    },
-    "2": {
-        "「……と言いたいところだが|　じつは　困ったことが　起こってのう。": "I would say... I'd like to say that I've got|a problem, but I've got a problem."
-    },
-    "3": {
-        "「見張りに出ていった　ユウギリが|　いつまでたっても　戻らんので|　レーノスに　様子を見にいかせたんじゃ。": "Eugiri had gone out to keep watch, but he|didn't come back for a long time, so I sent|Renos to check on him..."
-    },
-    "4": {
-        "「そしたら　ケガを負った様子のユウギリが|　伐採同盟のアジトに　連れ込まれるところを|　目撃したというのじゃ。": "Then he saw an injured Yugiri being taken to|the Logging Alliance's hideout..."
-    },
-    "5": {
-        "「もうすぐ　本部の援軍も　来るというのに|　ユウギリを　人質に取られていては|　手が出せない……　どうしたもんかのう？": "Headquarters' reinforcements will be here|soon, but we can't do anything if they've got|Yugi hostage... What should we do?"
-    },
-    "6": {
-        "「支部長！|　同盟の連中　動きだしましたぜ！": "Branch Chief! The Alliance is on the move!"
-    },
-    "7": {
-        "「今度は　えらく　気合いの入った様子の出発だ。|　連中　本格的に伐採を　始めるつもりだぜ！": "Now he's looking very determined... They're|going to start logging in earnest!"
-    },
-    "8": {
-        "「うむむむむ……。": "Mmmmmmm..."
-    },
-    "9": {
-        "「よし　こうしよう！|　わしは　ここに残り　本部からの援軍が|　来るのを　待っておる。": "All right, here's the deal! I'll stay here|and wait for reinforcements to arrive from|headquarters."
-    },
-    "10": {
-        "「そして　彼らが到着したら|　伐採同盟の連中が　向かった先に|　行ってもらうことにしよう！": "And when they arrive, we'll have them go|where the logging allies are headed!"
-    },
-    "11": {
-        "「レーノスと　<pc>。|　お前さんたちは　ヤツらのアジトに潜入し|　囚われのユウギリを　救いだすのじゃ！": "With Lenos<pc> I'm sorry. You'll have to infiltrate their|hideout and rescue the captive Yugiri!"
-    },
-    "12": {
-        "「今なら　アジトに使われている|　森外れのほら穴の守りも　うすいはず。|　どうじゃ　この任務　引き受けてくれるか？": "Now, the cave on the outskirts of the forest|that they're using as a hideout is well|guarded. What do you say? Are you up for this|<br>|assignment?"
-    },
-    "13": {
-        "「では　頼んだぞ　レーノス。<pc>。|　今回ばかりは　わしも　ダジャレ無しの|　マジモードじゃ！": "Well, good luck, Le...<pc> No pun intended. For once, I'm in serious|mode, no pun intended!"
-    },
-    "14": {
-        "「よし！　伐採同盟のアジトは|　モリナラ大森林の奥にある　森外れのほら穴だ。|　オレは　先に行く！　お前もついてこい！": "All right! The Logging Alliance's hideout is|on the edge of the forest, deep in the Great|Forest of Molinarra. I'll go first! You|<br>|follow me!"
-    },
-    "15": {
-        "「では　頼んだぞ……と思ったら|　なんじゃ　その　頼まれごとの数は！？": "Well, I'm asking you... But then I thought,|what's with all the requests?"
-    },
-    "16": {
-        "「それでは　仕事のひとつも　頼めんぞ！|　ええい。さっさと　手を空けてくるのじゃ！": "You can't ask me to do a single thing! ...|Now, get your hands free!"
-    },
-    "17": {
-        "「チッ！　これだから　シロートはよ。|　もういい。オレは　ひとりでも行く！|　お前は　お前で　好きにしろっ！": "Damn it! That's why Shiloh... I'm... I'll go|alone! You do what you do!"
-    },
-    "18": {
-        "「いい作戦だと　思うんじゃがのう。|　いったい　何が気に入らないと言うんじゃ？": "I think it's a good plan. What the hell is|wrong with you?"
-    },
-    "19": {
-        "「チッ！　こんなときに　ビビリかよ。|　もういい。オレは　ひとりでも行く！|　お前は　お前で　好きにしろっ！": "Shit! At a time like this, Vivi... I'll...|I'll go alone! You do what you want!"
-    },
-    "20": {
-        "「あんた方　こんなところまで|　なんの用で　来なすったのかね？": "What brings you all this way?"
-    },
-    "21": {
-        "「なんの用か……だと！？|　お前たちに　囚われた仲間を|　助けにきたに　決まってんだろーが！": "What do you want... What? Of course we're|here to save our friends who are trapped by|you!"
-    },
-    "22": {
-        "「お仲間が　囚われて……？": "Your friends are trapped...?"
-    },
-    "23": {
-        "「トボけてんじゃねえ！|　ここが　伐採同盟のアジトで|　オメーらが　その一員なのは　わかってんだ！": "Don't play dumb! I know this is a Logging|Alliance hideout, and I know you're part of|it!"
-    },
-    "24": {
-        "「なんだよ　オメーら！！": "What is wrong with you people?!!"
-    },
-    "25": {
-        "「じいちゃんを　いじめるなっ！": "Don't pick on Grandpa!"
-    },
-    "26": {
-        "「……いかにも　わしらは　伐採同盟を|　名乗っております。しかし　その実体は|　ジジイや子供を抱えた　難民の集団ですじゃ。": "... We call ourselves the Logging Alliance.|But we're really just a bunch of refugees|with old men and children."
-    },
-    "27": {
-        "「わしらは　もともと　このエルトナ大陸に|　移民してきた　木こりの集団でしてな。|　ある森の開拓を生業に　暮らしておりました。": "We are a group of lumberjacks who originally|immigrated to the continent of Eltona. We|made our living cultivating a certain forest."
-    },
-    "28": {
-        "「ところが　その森が　魔瘴に侵されましてな。|　生活の糧を失った　わしらは　モリナラ大森林に|　手を着けるしかなかったのですじゃ。": "But then the forest was attacked by a miasma.|We lost our livelihood and had no choice but|to turn to the Great Molinarra Forest."
-    },
-    "29": {
-        "「……あんたらの事情は　わかったけどな。|　うちの仲間を　さらっておいて|　一方的な被害者ヅラは　いただけないぜ。": "... I understand your situation... I don't|understand how you can kidnap one of my|people and then act like you're the victim."
-    },
-    "30": {
-        "「待ってくださいっ！": "Wait!"
-    },
-    "31": {
-        "「その人たちは　私を　さらったりなんて|　してませんよぅ。|　ただ　助けてくれただけなんです！": "They didn't kidnap me... They were just|trying to help!"
-    },
-    "32": {
-        "「無事だったのか　ユウギリ。|　……いったい　どういうことだよ？": "You're safe, Yu... ... What the hell is going|on?"
-    },
-    "33": {
-        "「私　このアジトを見張る任務の途中で|　魔物に襲われて　ケガしちゃったんです。|　それで　ここの人たちに　介抱されて……。": "I was attacked by a demon on my way to guard|this hideout, and I got hurt... So the people|here took care of me..."
-    },
-    "34": {
-        "「どうやら　そのときの様子を見られて|　誤解なさったようですな。|　……まあ　無理もないことですが。": "Apparently, you misunderstood me because you|saw what I did... ... Well, it's|understandable..."
-    },
-    "35": {
-        "「伐採同盟の人たち　悪い人じゃないんです。|　おたがい　相手の事情を　知らなかっただけで|　話し合えば　きっと　なんとかなりますよ！": "The people from the Logging Alliance aren't|bad people. It's just that we didn't know|what was going on with each other, and I'm|<br>|sure we can work it out if we talk it out!"
-    },
-    "36": {
-        "「悪いが　そりゃもう　遅いってもんだぜ。|　今ごろ　本部からの援軍と　同盟の連中で|　一大決戦が　始まってんじゃねえか？": "I'm sorry, but it's a little late for that...|Isn't there a huge battle going on right now|between the reinforcements from HQ and the|<br>|Alliance?"
-    },
-    "37": {
-        "「そ　そんなぁ……。|　いや！　こうしちゃいられません！|　そんなの　絶対止めなくちゃ　ダメですよ！": "Oh, no... No! We can't do this! You have to|stop this! You have to stop this!"
-    },
-    "38": {
-        "「オレたちでか？|　んなの無理に決まってんだろ！|　もし　止められるヤツが　いるとしたら……": "By us? Of course it's impossible! If there's|anyone who can stop us..."
-    },
-    "39": {
-        "「そこの　選ばれし　レンジャーだけだろうぜ。": "Only a select few rangers out there..."
-    },
-    "40": {
-        "「……そうね。|　<pc>なら　もしかして……。": "......<pc> Then maybe..."
-    },
-    "41": {
-        "「とにかく　同盟の人たちを追いましょ！|　たぶん　前に　彼らが伐採を行っていた|　モリナラ広場に　行ってるはずです！": "Anyway, let's go after those allies! Maybe|they've been to Molinaro Square before, where|they've been logging!"
-    },
-    "42": {
-        "「これでも　期待してるんだからよ……|　裏切らないでくれよな。": "I'm still counting on you... Please don't|betray me..."
-    },
-    "43": {
-        "「……やれやれ　頼られる立場ってのは|　つらいもんだな　相棒。": "... Well, it's tough to be in a position|where you're dependent on others..."
-    },
-    "44": {
-        "「それにしても　今日の森は|　どーも　ザワザワしてんだよな……。|　なんだか　落ち着かなくって　いけねーや。": "Anyway, today's forest seems to be on edge...|I feel so unsettled, I can't..."
-    },
-    "45": {
-        "「みんな　やめてーっ！！|　話し合えば　きっと　わかりあえるよっ！": "Stop it, everyone! If we talk, we can|understand each other!"
-    },
-    "46": {
-        "「……いや　様子が　おかしいぜ。": "I... No, you look..."
-    },
-    "47": {
-        "「ピッピピピピピピピピピピピピピピピピピピ。|　ギュオン！　ギュオォォォォォォン！！": "Beep, beep, beep, beep, beep, beep... Gyu-on!|Gyu-oh-oh-oh!"
-    },
-    "48": {
-        "「な　なんだ　コイツ！？|　突然　おかしな動きを……。": "What the hell is this thing? All of a sudden,|it's acting weird."
-    },
-    "49": {
-        "「くそっ！　言うこと　聞きゃあしねえ。|　ブッ壊れちまった……。": "Oh, shit! If you don't listen to me... It's|broken."
-    },
-    "50": {
-        "「ギュオォォォン！！": "Gee-ohh!"
-    },
-    "51": {
-        "「ピッピピピピピピピピピピピピピピピピピピ。|　ギュオン！　ギュオォォォォォォン！！": "Beep, beep, beep, beep, beep, beep... Gyu-on!|Gyu-oh-oh-oh!"
-    },
-    "52": {
-        "「ギュオォォォン！！": "Gee-ohh!"
-    },
-    "53": {
-        "「ピピ……ガ……ガガガガ……。": "Pi... Ga... Ga-ga-ga..."
-    },
-    "54": {
-        "伐採マシン改は　森に　つっこみ|大爆発した！": "The logging machine crashes into the forest|and explodes!"
-    },
-    "55": {
-        "「あわわわわ……。|　モリナラ大森林が　燃えちゃうっ！": "Aww... The Great Molinaro Forest is on fire!"
-    },
-    "56": {
-        "「オメーらっ　争うのは　後だ！|　今は　協力して　森を炎から　守るぞ！": "You guys, we can fight later! For now, we|must work together to save the forest from|the flames!"
-    },
-    "57": {
-        "「ヤベえぜ　こりゃ。|　何かが…………くるっっ！！": "Oh, shit. Oh, shit. Something's... It's|coming!"
-    },
-    "58": {
-        "<center>……ヒトよ。|ここは　お前たちの領域に非ず。": "...... This is your domain..."
-    },
-    "59": {
-        "そのとき　モリナラ大森林の中を|一陣の風が　吹きぬけた。": "Just then, a gust of wind blew through the|forest..."
-    },
-    "60": {
-        "その突風は　燃えさかる炎を　消しとめ|辺り一帯に　深い静寂を　もたらした。": "That gust of wind extinguished the burning|flames and created a deep silence in the|area..."
-    },
-    "61": {
-        "「……怒りだ。": "......"
-    },
-    "62": {
-        "「このモリナラ大森林に宿る　精霊たちの|　はげしい　怒りと　憎しみが|　今の風を吹かせたんだ……。": "It is the fury and hatred of the spirits that|dwell in the great forest of Molinara that|has caused this wind to blow..."
-    },
-    "63": {
-        "「戦っちゃいけねえぞ　相棒！|　こいつらは　レーノスや　ユウギリ嬢ちゃんの|　変わり果てた姿なんだから……。": "Don't fight them, buddy! They're the|transformed versions of Renos and Miss|Eugiri."
-    },
-    "64": {
-        "「森の怒りにふれた者は　すべて|　森の魔物に　姿を変えられちまうんだ！": "Anyone who comes in contact with the wrath of|the forest will be transformed into a forest|demon!"
-    },
-    "65": {
-        "「……そうだ　支部長に報告しようぜ！|　あの　おっさんなら　なんとかする方法を|　知ってるかもしれねえしな。": "... Yeah, let's go talk to the branch|manager! That old man might know how to do|something..."
-    },
-    "66": {
-        "「わしらのことは　気になさらず|　早く　行って　争いを止めてくだされ！": "Don't worry about us, just go and stop the|fighting!"
-    },
-    "67": {
-        "「た　大変だ　支部長のおっさん！|　森の精霊たちが　怒りだして|　みんな　じんめんじゅに　なっちまったぁ！": "Oh no! The old branch manager! The spirits in|the forest got angry and they've all turned|into human beings!"
-    },
-    "68": {
-        "「……やはり　先ほど感じた|　異様な　森のざわめきは|　そういうことであったか。": "... After all, that's what the strange|buzzing in the forest I felt earlier was all|about..."
-    },
-    "69": {
-        "「モリナラの自然を守って　３０年。|　この日の来ないことを　祈っておったが|　そうか　レーノスと　ユウギリまで……。": "To protect the nature of the Molinaras... I|was praying that this day would never come,|but it has, until Renos and Eungiris..."
-    },
-    "70": {
-        "「知ってたのかよ　おっさん！？|　もしかして　どうしたら　あいつらを|　元に戻せるかも　見当ついてんのか？": "You knew about this, didn't you, old man? Do|you have any idea how we might be able to get|these guys back?"
-    },
-    "71": {
-        "「方法が　ないわけではない……はずじゃ。|　だが　それは　危険をともなう。|　簡単に　教えていいものではないのじゃ。": "Not that there isn't a way... But... But it's|a risk... It's not something that should be|taught easily."
-    },
-    "72": {
-        "「おっさんの部下だって　巻き込まれてんのに|　そんなこと言ってる場合かよ！|　……じゃあ　どうすりゃいいんだ！？": "His men are involved in this too. This is no|time to be talking like that! ... Then what|should we do?"
-    },
-    "73": {
-        "「そうじゃな。<pc>が　 |　充分にチカラをつけ　時が満ちたら|　カミハルムイの本部へ　行くのじゃ。": "So...<pc> But when I'm strong enough and the time is|right, I'll go to Kamihalmui's|headquarters..."
-    },
-    "74": {
-        "「そのとき　お前さんに　資格ありと|　本部が認めれば　精霊たちの怒りを|　鎮める方法を　教えてもらえるじゃろう。": "At that time, if Headquarters deems you|qualified, you can teach us how to calm the|spirits' anger..."
-    },
-    "75": {
-        "「とにかく　今は　どうにもならん。|　とりあえず　これを受け取りなさい。": "Anyway, I can't help you right now. I'll just|take this..."
-    },
-    "76": {
-        "「<pc>が　森の怒りから逃れられたのは|　その身体に　スピルどのを宿す|　選ばれし　レンジャーだったからじゃろう。": "<pc> But I was able to escape the wrath of the|forest because I was the chosen ranger with|the spell in my body."
-    },
-    "77": {
-        "「その　お前さんならば　きっと|　今の状況も　どうにか　できる……。|　わしは　そう信じておるぞ。": "I'm sure you can handle the current|situation. I believe so..."
-    },
-    "78": {
-        "「ここにいても　あいつらを|　助けることはできそうにねえ……。|　くやしいけど　今は　戻ろうぜ　相棒。": "I don't think we can help them even if we|stay here. I'm sorry, but for now, let's go|back..."
-    }
+  "1": {
+    "「お前さんのおかげで　準備も　ととのった。|　いよいよ　伐採同盟と対決！": "Thanks to you, we're ready... It's time to|face the logging alliance!"
+  },
+  "2": {
+    "「……と言いたいところだが|　じつは　困ったことが　起こってのう。": "I would say... I'd like to say that I've got|a problem, but I've got a problem."
+  },
+  "3": {
+    "「見張りに出ていった　ユウギリが|　いつまでたっても　戻らんので|　レーノスに　様子を見にいかせたんじゃ。": "Eugiri had gone out to keep watch, but he|didn't come back for a long time, so I sent|Renos to check on him..."
+  },
+  "4": {
+    "「そしたら　ケガを負った様子のユウギリが|　伐採同盟のアジトに　連れ込まれるところを|　目撃したというのじゃ。": "Then he saw an injured Yugiri being taken to|the Logging Alliance's hideout..."
+  },
+  "5": {
+    "「もうすぐ　本部の援軍も　来るというのに|　ユウギリを　人質に取られていては|　手が出せない……　どうしたもんかのう？": "Headquarters' reinforcements will be here|soon, but we can't do anything if they've got|Yugi hostage... What should we do?"
+  },
+  "6": {
+    "「支部長！|　同盟の連中　動きだしましたぜ！": "Branch Chief! The Alliance is on the move!"
+  },
+  "7": {
+    "「今度は　えらく　気合いの入った様子の出発だ。|　連中　本格的に伐採を　始めるつもりだぜ！": "Now he's looking very determined... They're|going to start logging in earnest!"
+  },
+  "8": {
+    "「うむむむむ……。": "Mmmmmmm..."
+  },
+  "9": {
+    "「よし　こうしよう！|　わしは　ここに残り　本部からの援軍が|　来るのを　待っておる。": "All right, here's the deal! I'll stay here|and wait for reinforcements to arrive from|headquarters."
+  },
+  "10": {
+    "「そして　彼らが到着したら|　伐採同盟の連中が　向かった先に|　行ってもらうことにしよう！": "And when they arrive, we'll have them go|where the logging allies are headed!"
+  },
+  "11": {
+    "「レーノスと　<pc>。|　お前さんたちは　ヤツらのアジトに潜入し|　囚われのユウギリを　救いだすのじゃ！": "With Lenos<pc> I'm sorry. You'll have to infiltrate their|hideout and rescue the captive Yugiri!"
+  },
+  "12": {
+    "「今なら　アジトに使われている|　森外れのほら穴の守りも　うすいはず。|　どうじゃ　この任務　引き受けてくれるか？": "Now, the cave on the outskirts of the forest|that they're using as a hideout is well|guarded. What do you say? Are you up for this|<br>|assignment?"
+  },
+  "13": {
+    "「では　頼んだぞ　レーノス。<pc>。|　今回ばかりは　わしも　ダジャレ無しの|　マジモードじゃ！": "Well, good luck, Le...<pc> No pun intended. For once, I'm in serious|mode, no pun intended!"
+  },
+  "14": {
+    "「よし！　伐採同盟のアジトは|　モリナラ大森林の奥にある　森外れのほら穴だ。|　オレは　先に行く！　お前もついてこい！": "All right! The Logging Alliance's hideout is|on the edge of the forest, deep in the Great|Forest of Molinarra. I'll go first! You|<br>|follow me!"
+  },
+  "15": {
+    "「では　頼んだぞ……と思ったら|　なんじゃ　その　頼まれごとの数は！？": "Well, I'm asking you... But then I thought,|what's with all the requests?"
+  },
+  "16": {
+    "「それでは　仕事のひとつも　頼めんぞ！|　ええい。さっさと　手を空けてくるのじゃ！": "You can't ask me to do a single thing! ...|Now, get your hands free!"
+  },
+  "17": {
+    "「チッ！　これだから　シロートはよ。|　もういい。オレは　ひとりでも行く！|　お前は　お前で　好きにしろっ！": "Damn it! That's why Shiloh... I'm... I'll go|alone! You do what you do!"
+  },
+  "18": {
+    "「いい作戦だと　思うんじゃがのう。|　いったい　何が気に入らないと言うんじゃ？": "I think it's a good plan. What the hell is|wrong with you?"
+  },
+  "19": {
+    "「チッ！　こんなときに　ビビリかよ。|　もういい。オレは　ひとりでも行く！|　お前は　お前で　好きにしろっ！": "Shit! At a time like this, Vivi... I'll...|I'll go alone! You do what you want!"
+  },
+  "20": {
+    "「あんた方　こんなところまで|　なんの用で　来なすったのかね？": "What brings you all this way?"
+  },
+  "21": {
+    "「なんの用か……だと！？|　お前たちに　囚われた仲間を|　助けにきたに　決まってんだろーが！": "What do you want... What? Of course we're|here to save our friends who are trapped by|you!"
+  },
+  "22": {
+    "「お仲間が　囚われて……？": "Your friends are trapped...?"
+  },
+  "23": {
+    "「トボけてんじゃねえ！|　ここが　伐採同盟のアジトで|　オメーらが　その一員なのは　わかってんだ！": "Don't play dumb! I know this is a Logging|Alliance hideout, and I know you're part of|it!"
+  },
+  "24": {
+    "「なんだよ　オメーら！！": "What is wrong with you people?!!"
+  },
+  "25": {
+    "「じいちゃんを　いじめるなっ！": "Don't pick on Grandpa!"
+  },
+  "26": {
+    "「……いかにも　わしらは　伐採同盟を|　名乗っております。しかし　その実体は|　ジジイや子供を抱えた　難民の集団ですじゃ。": "... We call ourselves the Logging Alliance.|But we're really just a bunch of refugees|with old men and children."
+  },
+  "27": {
+    "「わしらは　もともと　このエルトナ大陸に|　移民してきた　木こりの集団でしてな。|　ある森の開拓を生業に　暮らしておりました。": "We are a group of lumberjacks who originally|immigrated to the continent of Eltona. We|made our living cultivating a certain forest."
+  },
+  "28": {
+    "「ところが　その森が　魔瘴に侵されましてな。|　生活の糧を失った　わしらは　モリナラ大森林に|　手を着けるしかなかったのですじゃ。": "But then the forest was attacked by a miasma.|We lost our livelihood and had no choice but|to turn to the Great Molinarra Forest."
+  },
+  "29": {
+    "「……あんたらの事情は　わかったけどな。|　うちの仲間を　さらっておいて|　一方的な被害者ヅラは　いただけないぜ。": "... I understand your situation... I don't|understand how you can kidnap one of my|people and then act like you're the victim."
+  },
+  "30": {
+    "「待ってくださいっ！": "Wait!"
+  },
+  "31": {
+    "「その人たちは　私を　さらったりなんて|　してませんよぅ。|　ただ　助けてくれただけなんです！": "They didn't kidnap me... They were just|trying to help!"
+  },
+  "32": {
+    "「無事だったのか　ユウギリ。|　……いったい　どういうことだよ？": "You're safe, Yu... ... What the hell is going|on?"
+  },
+  "33": {
+    "「私　このアジトを見張る任務の途中で|　魔物に襲われて　ケガしちゃったんです。|　それで　ここの人たちに　介抱されて……。": "I was attacked by a demon on my way to guard|this hideout, and I got hurt... So the people|here took care of me..."
+  },
+  "34": {
+    "「どうやら　そのときの様子を見られて|　誤解なさったようですな。|　……まあ　無理もないことですが。": "Apparently, you misunderstood me because you|saw what I did... ... Well, it's|understandable..."
+  },
+  "35": {
+    "「伐採同盟の人たち　悪い人じゃないんです。|　おたがい　相手の事情を　知らなかっただけで|　話し合えば　きっと　なんとかなりますよ！": "The people from the Logging Alliance aren't|bad people. It's just that we didn't know|what was going on with each other, and I'm|<br>|sure we can work it out if we talk it out!"
+  },
+  "36": {
+    "「悪いが　そりゃもう　遅いってもんだぜ。|　今ごろ　本部からの援軍と　同盟の連中で|　一大決戦が　始まってんじゃねえか？": "I'm sorry, but it's a little late for that...|Isn't there a huge battle going on right now|between the reinforcements from HQ and the|<br>|Alliance?"
+  },
+  "37": {
+    "「そ　そんなぁ……。|　いや！　こうしちゃいられません！|　そんなの　絶対止めなくちゃ　ダメですよ！": "Oh, no... No! We can't do this! You have to|stop this! You have to stop this!"
+  },
+  "38": {
+    "「オレたちでか？|　んなの無理に決まってんだろ！|　もし　止められるヤツが　いるとしたら……": "By us? Of course it's impossible! If there's|anyone who can stop us..."
+  },
+  "39": {
+    "「そこの　選ばれし　レンジャーだけだろうぜ。": "Only a select few rangers out there..."
+  },
+  "40": {
+    "「……そうね。|　<pc>なら　もしかして……。": "......<pc> Then maybe..."
+  },
+  "41": {
+    "「とにかく　同盟の人たちを追いましょ！|　たぶん　前に　彼らが伐採を行っていた|　モリナラ広場に　行ってるはずです！": "Anyway, let's go after those allies! Maybe|they've been to Molinaro Square before, where|they've been logging!"
+  },
+  "42": {
+    "「これでも　期待してるんだからよ……|　裏切らないでくれよな。": "I'm still counting on you... Please don't|betray me..."
+  },
+  "43": {
+    "「……やれやれ　頼られる立場ってのは|　つらいもんだな　相棒。": "... Well, it's tough to be in a position|where you're dependent on others..."
+  },
+  "44": {
+    "「それにしても　今日の森は|　どーも　ザワザワしてんだよな……。|　なんだか　落ち着かなくって　いけねーや。": "Anyway, today's forest seems to be on edge...|I feel so unsettled, I can't..."
+  },
+  "45": {
+    "「みんな　やめてーっ！！|　話し合えば　きっと　わかりあえるよっ！": "Stop it, everyone! If we talk, we can|understand each other!"
+  },
+  "46": {
+    "「……いや　様子が　おかしいぜ。": "I... No, you look..."
+  },
+  "47": {
+    "「ピッピピピピピピピピピピピピピピピピピピ。|　ギュオン！　ギュオォォォォォォン！！": "Beep, beep, beep, beep, beep, beep... Gyu-on!|Gyu-oh-oh-oh!"
+  },
+  "48": {
+    "「な　なんだ　コイツ！？|　突然　おかしな動きを……。": "What the hell is this thing? All of a sudden,|it's acting weird."
+  },
+  "49": {
+    "「くそっ！　言うこと　聞きゃあしねえ。|　ブッ壊れちまった……。": "Oh, shit! If you don't listen to me... It's|broken."
+  },
+  "50": {
+    "「ギュオォォォン！！": "Gee-ohh!"
+  },
+  "51": {
+    "「ピッピピピピピピピピピピピピピピピピピピ。|　ギュオン！　ギュオォォォォォォン！！": "Beep, beep, beep, beep, beep, beep... Gyu-on!|Gyu-oh-oh-oh!"
+  },
+  "52": {
+    "「ギュオォォォン！！": "Gee-ohh!"
+  },
+  "53": {
+    "「ピピ……ガ……ガガガガ……。": "Pi... Ga... Ga-ga-ga..."
+  },
+  "54": {
+    "伐採マシン改は　森に　つっこみ|大爆発した！": "The logging machine crashes into the forest|and explodes!"
+  },
+  "55": {
+    "「あわわわわ……。|　モリナラ大森林が　燃えちゃうっ！": "Aww... The Great Molinaro Forest is on fire!"
+  },
+  "56": {
+    "「オメーらっ　争うのは　後だ！|　今は　協力して　森を炎から　守るぞ！": "You guys, we can fight later! For now, we|must work together to save the forest from|the flames!"
+  },
+  "57": {
+    "「ヤベえぜ　こりゃ。|　何かが…………くるっっ！！": "Oh, shit. Oh, shit. Something's... It's|coming!"
+  },
+  "58": {
+    "<center>……ヒトよ。|ここは　お前たちの領域に非ず。": "...... This is your domain..."
+  },
+  "59": {
+    "そのとき　モリナラ大森林の中を|一陣の風が　吹きぬけた。": "Just then, a gust of wind blew through the|forest..."
+  },
+  "60": {
+    "その突風は　燃えさかる炎を　消しとめ|辺り一帯に　深い静寂を　もたらした。": "That gust of wind extinguished the burning|flames and created a deep silence in the|area..."
+  },
+  "61": {
+    "「……怒りだ。": "......"
+  },
+  "62": {
+    "「このモリナラ大森林に宿る　精霊たちの|　はげしい　怒りと　憎しみが|　今の風を吹かせたんだ……。": "It is the fury and hatred of the spirits that|dwell in the great forest of Molinara that|has caused this wind to blow..."
+  },
+  "63": {
+    "「戦っちゃいけねえぞ　相棒！|　こいつらは　レーノスや　ユウギリ嬢ちゃんの|　変わり果てた姿なんだから……。": "Don't fight them, buddy! They're the|transformed versions of Renos and Miss|Eugiri."
+  },
+  "64": {
+    "「森の怒りにふれた者は　すべて|　森の魔物に　姿を変えられちまうんだ！": "Anyone who comes in contact with the wrath of|the forest will be transformed into a forest|demon!"
+  },
+  "65": {
+    "「……そうだ　支部長に報告しようぜ！|　あの　おっさんなら　なんとかする方法を|　知ってるかもしれねえしな。": "... Yeah, let's go talk to the branch|manager! That old man might know how to do|something..."
+  },
+  "66": {
+    "「わしらのことは　気になさらず|　早く　行って　争いを止めてくだされ！": "Don't worry about us, just go and stop the|fighting!"
+  },
+  "67": {
+    "「た　大変だ　支部長のおっさん！|　森の精霊たちが　怒りだして|　みんな　じんめんじゅに　なっちまったぁ！": "Oh no! The old branch manager! The spirits in|the forest got angry and they've all turned|into human beings!"
+  },
+  "68": {
+    "「……やはり　先ほど感じた|　異様な　森のざわめきは|　そういうことであったか。": "... After all, that's what the strange|buzzing in the forest I felt earlier was all|about..."
+  },
+  "69": {
+    "「モリナラの自然を守って　３０年。|　この日の来ないことを　祈っておったが|　そうか　レーノスと　ユウギリまで……。": "To protect the nature of the Molinaras... I|was praying that this day would never come,|but it has, until Renos and Eungiris..."
+  },
+  "70": {
+    "「知ってたのかよ　おっさん！？|　もしかして　どうしたら　あいつらを|　元に戻せるかも　見当ついてんのか？": "You knew about this, didn't you, old man? Do|you have any idea how we might be able to get|these guys back?"
+  },
+  "71": {
+    "「方法が　ないわけではない……はずじゃ。|　だが　それは　危険をともなう。|　簡単に　教えていいものではないのじゃ。": "Not that there isn't a way... But... But it's|a risk... It's not something that should be|taught easily."
+  },
+  "72": {
+    "「おっさんの部下だって　巻き込まれてんのに|　そんなこと言ってる場合かよ！|　……じゃあ　どうすりゃいいんだ！？": "His men are involved in this too. This is no|time to be talking like that! ... Then what|should we do?"
+  },
+  "73": {
+    "「そうじゃな。<pc>が　 |　充分にチカラをつけ　時が満ちたら|　カミハルムイの本部へ　行くのじゃ。": "So...<pc> But when I'm strong enough and the time is|right, I'll go to Kamihalmui's|headquarters..."
+  },
+  "74": {
+    "「そのとき　お前さんに　資格ありと|　本部が認めれば　精霊たちの怒りを|　鎮める方法を　教えてもらえるじゃろう。": "At that time, if Headquarters deems you|qualified, you can teach us how to calm the|spirits' anger..."
+  },
+  "75": {
+    "「とにかく　今は　どうにもならん。|　とりあえず　これを受け取りなさい。": "Anyway, I can't help you right now. I'll just|take this..."
+  },
+  "76": {
+    "「<pc>が　森の怒りから逃れられたのは|　その身体に　スピルどのを宿す|　選ばれし　レンジャーだったからじゃろう。": "<pc> But I was able to escape the wrath of the|forest because I was the chosen ranger with|the spell in my body."
+  },
+  "77": {
+    "「その　お前さんならば　きっと|　今の状況も　どうにか　できる……。|　わしは　そう信じておるぞ。": "I'm sure you can handle the current|situation. I believe so..."
+  },
+  "78": {
+    "「ここにいても　あいつらを|　助けることはできそうにねえ……。|　くやしいけど　今は　戻ろうぜ　相棒。": "I don't think we can help them even if we|stay here. I'm sorry, but for now, let's go|back..."
+  }
 }
