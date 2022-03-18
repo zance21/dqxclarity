@@ -6,13 +6,14 @@ from multiprocessing import Process
 import sys
 import time
 import click
+import logging
 from loguru import logger
 from pymem.exception import WinAPIError
 from clarity import (translate,
     get_latest_from_weblate,
+    check_for_updates,
     scan_for_player_names,
     scan_for_npc_names,
-    check_for_updates,
     scan_for_adhoc_files,
     scan_for_walkthrough
 )
@@ -42,12 +43,19 @@ def blast_off(update_weblate=False,
             npc_names=False,
             debug=False
 ):
-    logger.warning('Getting started. DO NOT TOUCH THE GAME OR REMOVE YOUR MEMORY CARD.')
+    logging.basicConfig(
+        format='%(message)s'
+        )
+
+    logging.warning('\nGetting started. DO NOT TOUCH THE GAME OR REMOVE YOUR MEMORY CARD.\n')
+
+    logging.warning('Checking DQXclarity repo for updates...')
+    
+    check_for_updates()
+    
     if update_weblate:
         click.secho('Getting latest files...', fg='green')
         get_latest_from_weblate()
-    if not disable_update_check:
-        check_for_updates()
     if not debug:
         logger.remove()
         logger.add(sys.stderr, level="INFO")
@@ -67,7 +75,7 @@ def blast_off(update_weblate=False,
         sys.exit(click.secho('Can\'t find DQX process. Exiting.', fg='red'))
 
     time.sleep(2)
-    logger.info('Done! Keep this window open (minimize it) and have fun on your adventure!')
+    logging.warning('\nDone! Keep this window open (minimize it) and have fun on your adventure!')
 
 if __name__ == '__main__':
     blast_off()
