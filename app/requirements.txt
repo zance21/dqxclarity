@@ -1,0 +1,6 @@
+alive-progress==2.1.0
+click==8.0.1
+requests==2.26.0
+loguru==0.5.3
+langdetect==1.0.9
+pykakasi==2.2.1

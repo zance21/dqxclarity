@@ -12,6 +12,12 @@ import random
 from alive_progress import alive_bar
 import pykakasi
 from loguru import logger
+import logging
+
+logging.basicConfig(
+    format='%(message)s'
+    )
+
 import requests
 from errors import messageBoxFatalError
 import logging
@@ -161,6 +167,8 @@ def translate():
                         continue
 
                     write_bytes(text_address, hex_to_write)
+
+    logging.warning('')
 
 def write_adhoc_entry(start_addr: int, hex_str: str) -> dict:
     '''
@@ -452,22 +460,21 @@ def check_for_updates():
     '''
     Checks github for updates.
     '''
-    url = 'https://raw.githubusercontent.com/Sevithian/dqxclarity/main/sha'
-
-    exe_sha = False
-    if exe_sha is False:
-        return
+    url = 'https://raw.githubusercontent.com/Sevithian/dqxclarity/weblate/version.update'
+    verfile = open('version.update','r')
+    curVer = verfile.read()
+    verfile.close()
 
     try:
         github_request = requests.get(url)
     except requests.exceptions.RequestException as e:
-        logger.warning(f'Failed to check latest version. Running anyways.\nMessage: {e}')
+        logging.warning(f'Failed to check latest version. Running anyways.\nMessage: {e}')
         return
 
-    if github_request.text != exe_sha:
-        logger.info('An update is available at https://github.com/Sevithian/dqxclarity/releases', fg='green')
+    if github_request.text != curVer:
+        logging.warning('\nAn update is available at https://github.com/Sevithian/dqxclarity/releases\n')
     else:
-        logger.info('Up to date!')
+        logging.warning('\nUp to date!\n')
   
     return
 
@@ -517,7 +524,7 @@ def setup_logger(name, log_file, func_name, level=logging.INFO):
     '''
     Sets up a logger for hook shellcode.
     '''
-    formatter = logging.Formatter(f'%(asctime)s [{func_name}] >> %(message)s')
+    formatter = logging.Formatter('%(message)s')
     handler = logging.FileHandler(log_file, encoding='utf-8')
     handler.setFormatter(formatter)
 
