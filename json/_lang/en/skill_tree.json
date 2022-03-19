@@ -4233,7 +4233,7 @@
     "魂狩りの特技を　おぼえた！": "You learned Soul Hunt!"
   },
   "1412": {
-    "鎌での攻撃時　会心のいちげきが|出やすくなった！": "It's now easier to get a critical hit|when a Sickle is equipped!"
+    "鎌での攻撃時　会心のいちげきが|出やすくなった！": "It's now easier to get a critical hit|when equipped with a Sickle!"
   },
   "1413": {
     "clarity_nt_char_1413": "clarity_nt_char_1413"
@@ -4269,7 +4269,7 @@
     "ハデスの宴の特技を　おぼえた！": "You learned Feast of Hades!"
   },
   "1424": {
-    "鎌装備時に　呪文を唱えた時|魔力が　暴走しやすくなった！": "It's now easier for spells to go haywire|with a Sickle equipped!"
+    "鎌装備時に　呪文を唱えた時|魔力が　暴走しやすくなった！": "It's now easier for spells to go haywire|when equipped with a Sickle!"
   },
   "1425": {
     "clarity_nt_char_1425": "clarity_nt_char_1425"
@@ -22770,7 +22770,7 @@
     "clarity_nt_char_7590": "clarity_nt_char_7590"
   },
   "7591": {
-    "片手剣装備時の|行動間隔が　短くなった！": ""
+    "片手剣装備時の|行動間隔が　短くなった！": "Action interval shortened when equipped|with a Sword!"
   },
   "7592": {
     "clarity_nt_char_7592": "clarity_nt_char_7592"
@@ -24816,133 +24816,133 @@
     "コーラルレインの呪文を おぼえた！": "You learned Coral Grief!"
   },
   "8273": {
-    "【190P】特技のダメージ+30": ""
+    "【190P】特技のダメージ+30": "[190P] Skill Damage +30"
   },
   "8274": {
     "clarity_nt_char_8274": "clarity_nt_char_8274"
   },
   "8275": {
-    "【200P】特技のダメージ+30": ""
+    "【200P】特技のダメージ+30": "[200P] Skill Damage +30"
   },
   "8276": {
     "clarity_nt_char_8276": "clarity_nt_char_8276"
   },
   "8277": {
-    "【160P】二刀の極意": ""
+    "【160P】二刀の極意": "[160P] Dual Mastery"
   },
   "8278": {
-    "【170P】二刀の極意": ""
+    "【170P】二刀の極意": "[170P] Dual Mastery"
   },
   "8279": {
-    "【180P】二刀の極意": ""
+    "【180P】二刀の極意": "[180P] Dual Mastery"
   },
   "8280": {
-    "【190P】二刀の極意": ""
+    "【190P】二刀の極意": "[190P] Dual Mastery"
   },
   "8281": {
-    "【200P】二刀の極意": ""
+    "【200P】二刀の極意": "[200P] Dual Mastery"
   },
   "8282": {
-    "【160P】特技のダメージ+20": ""
+    "【160P】特技のダメージ+20": "[160P] Skill Damage +20"
   },
   "8283": {
     "clarity_nt_char_8283": "clarity_nt_char_8283"
   },
   "8284": {
-    "【170P】特技のダメージ+40": ""
+    "【170P】特技のダメージ+40": "[170P] Skill Damage +40"
   },
   "8285": {
     "clarity_nt_char_8285": "clarity_nt_char_8285"
   },
   "8286": {
-    "【180P】特技のダメージ+60": ""
+    "【180P】特技のダメージ+60": "[180P] Skill Damage +60"
   },
   "8287": {
     "clarity_nt_char_8287": "clarity_nt_char_8287"
   },
   "8288": {
-    "【190P】特技のダメージ+60": ""
+    "【190P】特技のダメージ+60": "[190P] Skill Damage +60"
   },
   "8289": {
     "clarity_nt_char_8289": "clarity_nt_char_8289"
   },
   "8290": {
-    "【200P】特技のダメージ+60": ""
+    "【200P】特技のダメージ+60": "[200P] Skill Damage +60"
   },
   "8291": {
     "clarity_nt_char_8291": "clarity_nt_char_8291"
   },
   "8292": {
-    "【160P】二刀の極意Ⅰ": ""
+    "【160P】二刀の極意Ⅰ": "[160P] Dual Mastery Ⅰ"
   },
   "8293": {
     "clarity_nt_char_8293": "clarity_nt_char_8293"
   },
   "8294": {
-    "【170P】二刀の極意Ⅰ": ""
+    "【170P】二刀の極意Ⅰ": "[170P] Dual Mastery Ⅰ"
   },
   "8295": {
     "clarity_nt_char_8295": "clarity_nt_char_8295"
   },
   "8296": {
-    "【180P】二刀の極意Ⅰ": ""
+    "【180P】二刀の極意Ⅰ": "[180P] Dual Mastery Ⅰ"
   },
   "8297": {
     "clarity_nt_char_8297": "clarity_nt_char_8297"
   },
   "8298": {
-    "【190P】二刀の極意Ⅱ": ""
+    "【190P】二刀の極意Ⅱ": "[190P] Dual Mastery Ⅱ"
   },
   "8299": {
     "clarity_nt_char_8299": "clarity_nt_char_8299"
   },
   "8300": {
-    "【200P】二刀の極意Ⅱ": ""
+    "【200P】二刀の極意Ⅱ": "[200P] Dual Mastery Ⅱ"
   },
   "8301": {
     "clarity_nt_char_8301": "clarity_nt_char_8301"
   },
   "8302": {
-    "特技のダメージ+10": ""
+    "特技のダメージ+10": "Skill Damage +10"
   },
   "8303": {
     "clarity_nt_char_8303": "clarity_nt_char_8303"
   },
   "8304": {
-    "特技のダメージ+20": ""
+    "特技のダメージ+20": "Skill Damage +10"
   },
   "8305": {
     "clarity_nt_char_8305": "clarity_nt_char_8305"
   },
   "8306": {
-    "特技のダメージ+30": ""
+    "特技のダメージ+30": "Skill Damage +30"
   },
   "8307": {
     "clarity_nt_char_8307": "clarity_nt_char_8307"
   },
   "8308": {
-    "二刀の極意": ""
+    "二刀の極意": "Dual Mastery"
   },
   "8309": {
-    "特技のダメージ+40": ""
+    "特技のダメージ+40": "Skill Damage +40"
   },
   "8310": {
     "clarity_nt_char_8310": "clarity_nt_char_8310"
   },
   "8311": {
-    "特技のダメージ+60": ""
+    "特技のダメージ+60": "Skill Damage +60"
   },
   "8312": {
     "clarity_nt_char_8312": "clarity_nt_char_8312"
   },
   "8313": {
-    "二刀の極意Ⅰ": ""
+    "二刀の極意Ⅰ": "Dual Mastery Ⅰ"
   },
   "8314": {
     "clarity_nt_char_8314": "clarity_nt_char_8314"
   },
   "8315": {
-    "二刀の極意Ⅱ": ""
+    "二刀の極意Ⅱ": "Dual Mastery Ⅱ"
   },
   "8316": {
     "clarity_nt_char_8316": "clarity_nt_char_8316"
@@ -24966,81 +24966,81 @@
     "clarity_nt_char_8322": "clarity_nt_char_8322"
   },
   "8323": {
-    "右手に片手剣装備時|左手の攻撃力が　あがった！": ""
+    "右手に片手剣装備時|左手の攻撃力が　あがった！": "Left hand attack increased when equipped|with a right hand Sword!"
   },
   "8324": {
-    "両手剣装備時　特技の威力が　２０　増えた！": ""
+    "両手剣装備時　特技の威力が　２０　増えた！": "Skill power increased by 20 when equipped|with a Claymore!"
   },
   "8325": {
-    "両手剣装備時　特技の威力が　４０　増えた！": ""
+    "両手剣装備時　特技の威力が　４０　増えた！": "Skill power increased by 40 when equipped|with a Claymore!"
   },
   "8326": {
-    "両手剣装備時　特技の威力が　６０　増えた！": ""
+    "両手剣装備時　特技の威力が　６０　増えた！": "Skill power increased by 60 when equipped|with a Claymore!"
   },
   "8327": {
-    "右手にハンマー装備時|左手の攻撃力が　あがった！": ""
+    "右手にハンマー装備時|左手の攻撃力が　あがった！": "Left hand attack increased when equipped|with a right hand Hammer!"
   },
   "8328": {
     "clarity_nt_char_8328": "clarity_nt_char_8328"
   },
   "8329": {
-    "右手に片手剣時|特技の威力が|１０増える": ""
+    "右手に片手剣時|特技の威力が|１０増える": "Skill Power +10|when using a|R. H. Sword."
   },
   "8330": {
     "clarity_nt_char_8330": "clarity_nt_char_8330"
   },
   "8331": {
-    "右手に片手剣時|特技の威力が|２０増える": ""
+    "右手に片手剣時|特技の威力が|２０増える": "Skill Power +20|when using a|R. H. Sword."
   },
   "8332": {
     "clarity_nt_char_8332": "clarity_nt_char_8332"
   },
   "8333": {
-    "右手に片手剣時|特技の威力が|３０増える": ""
+    "右手に片手剣時|特技の威力が|３０増える": "Skill Power +30|when using a|R. H. Sword."
   },
   "8334": {
     "clarity_nt_char_8334": "clarity_nt_char_8334"
   },
   "8335": {
-    "右手に片手剣時|左手の攻撃力が|少しあがる": ""
+    "右手に片手剣時|左手の攻撃力が|少しあがる": "L. H. attack up|slightly with|a R. H. Sword."
   },
   "8336": {
-    "両手剣装備時|特技の威力が|２０増える": ""
+    "両手剣装備時|特技の威力が|２０増える": "Skill Power +20|when a Claymore|is equipped."
   },
   "8337": {
-    "両手剣装備時|特技の威力が|４０増える": ""
+    "両手剣装備時|特技の威力が|４０増える": "Skill Power +40|when a Claymore|is equipped."
   },
   "8338": {
-    "両手剣装備時|特技の威力が|６０増える": ""
+    "両手剣装備時|特技の威力が|６０増える": "Skill Power +60|when a Claymore|is equipped."
   },
   "8339": {
-    "右手にハンマー時|左手の攻撃力が|少しあがる": ""
+    "右手にハンマー時|左手の攻撃力が|少しあがる": "L. H. attack up|slightly with|a R. H. Hammer."
   },
   "8340": {
     "clarity_nt_char_8340": "clarity_nt_char_8340"
   },
   "8341": {
-    "右手にハンマー時|左手の攻撃力が|あがる": ""
+    "右手にハンマー時|左手の攻撃力が|あがる": "L. H. attack up|when using|a R. H. Hammer."
   },
   "8342": {
     "clarity_nt_char_8342": "clarity_nt_char_8342"
   },
   "8343": {
-    "ドラゴン系の敵に|威力を発揮する|竜殺しの剣技": ""
+    "ドラゴン系の敵に|威力を発揮する|竜殺しの剣技": "A slash that's|effective|versus dragons."
   },
   "8344": {
-    "ゾンビ系の敵に|威力を発揮する|聖なる技": ""
+    "ゾンビ系の敵に|威力を発揮する|聖なる技": "A sacred attack|deals more damage|to Zombie-types."
   },
   "8345": {
     "clarity_nt_char_8345": "clarity_nt_char_8345"
   },
   "8346": {
-    "敵１体を|たまに混乱させる|ムチさばき": ""
+    "敵１体を|たまに混乱させる|ムチさばき": "A strike that|sometimes causes|confusion."
   },
   "8347": {
-    "怪人系の敵に|威力を発揮する|はげしいムチ攻撃": ""
+    "怪人系の敵に|威力を発揮する|はげしいムチ攻撃": "A strike that's|effective versus|Humanoid-types."
   },
   "8348": {
-    "鳥系の敵に|威力を発揮する|あざやかな弓の技": ""
+    "鳥系の敵に|威力を発揮する|あざやかな弓の技": "A shot that deals|extra damage|to Bird-types."
   }
 }

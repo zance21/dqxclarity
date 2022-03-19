@@ -2646,7 +2646,7 @@
     "撮った枚数": "Shots Taken"
   },
   "883": {
-    "<%nM_maisuu>枚": "<%nM_maisuu>"
+    "<%nM_maisuu>枚": "<%dM_maisuu>"
   },
   "884": {
     "送られた日": "Date Sent"
@@ -3768,7 +3768,7 @@
     "<%sM_renkinkouka>": ""
   },
   "1257": {
-    "全<%nM_sagasugoukei>品": "Total <%nM_sagasugoukei>"
+    "全<%nM_sagasugoukei>品": "Total <%dM_sagasugoukei>"
   },
   "1258": {
     "clarity_nt_char_1258": "clarity_nt_char_1258"
@@ -3948,7 +3948,7 @@
     "clarity_nt_char_1316": "clarity_nt_char_1316"
   },
   "1317": {
-    "<%nM_00>": ""
+    "<%nM_00>": <%dM_00>""
   },
   "1318": {
     "clarity_nt_char_1318": "clarity_nt_char_1318"
@@ -5046,13 +5046,13 @@
     "clarity_nt_char_1682": "clarity_nt_char_1682"
   },
   "1683": {
-    "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": "<%nL_MONTH>/<%nL_DAY> <%nL_H>:<%nL_M>"
+    "<%nL_MONTH>月<%nL_DAY>日<%nL_H>時<%nL_M>分": "<%dL_MONTH>/<%dL_DAY> <%dL_H>:<%dL_M>"
   },
   "1684": {
     "clarity_nt_char_1684": "clarity_nt_char_1684"
   },
   "1685": {
-    "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2> <%nM_landaddress3>"
+    "<%sM_landaddress2>　<%nM_landaddress3>番地": "<%sM_landaddress2> <%dM_landaddress3>"
   },
   "1686": {
     "<%nM_landaddress4>丁目": "Block <%dM_landaddress4>"
@@ -5061,7 +5061,7 @@
     "clarity_nt_char_1687": "clarity_nt_char_1687"
   },
   "1688": {
-    "～<%nM_lv>": ""
+    "～<%nM_lv>": "～<%dM_lv>"
   },
   "1689": {
     "－－－": ""
@@ -10830,7 +10830,7 @@
     "さかな": "Fish"
   },
   "3611": {
-    "所持数<%nM_syozisuu>匹": "Stock: <%nM_syozisuu>"
+    "所持数<%nM_syozisuu>匹": "Stock: <%dM_syozisuu>"
   },
   "3612": {
     "clarity_nt_char_3612": "clarity_nt_char_3612"
@@ -19011,7 +19011,7 @@
     "clarity_nt_char_6337": "clarity_nt_char_6337"
   },
   "6338": {
-    "後<%nM_test5>個": "<%nM_test5> Left"
+    "後<%nM_test5>個": "<%dM_test5> Left"
   },
   "6339": {
     "幸せのおすそわけ": ""
@@ -22524,7 +22524,7 @@
     "clarity_nt_char_7508": "clarity_nt_char_7508"
   },
   "7509": {
-    "<%nM_Num>/<%nM_Max>種": "<%nM_Num>/<%nM_Max>"
+    "<%nM_Num>/<%nM_Max>種": "<%dM_Num>/<%dM_Max>"
   },
   "7510": {
     "clarity_nt_char_7510": "clarity_nt_char_7510"
@@ -22533,7 +22533,7 @@
     "未討伐": ""
   },
   "7512": {
-    "討伐": ""
+    "討伐": "Subj."
   },
   "7513": {
     "clarity_nt_char_7513": "clarity_nt_char_7513"
@@ -22929,7 +22929,7 @@
     "clarity_nt_char_7643": "clarity_nt_char_7643"
   },
   "7644": {
-    "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%nM_NUM> Zelmea Crests.<yesno><close>"
+    "<speed=0>ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%dM_NUM> Zelmea Crests.<yesno><close>"
   },
   "7645": {
     "<speed=0>ほかの冒険者と　パーティを組んでいる時は|参加する人の数だけ　ゼルメアの聖紋が必要です。|<br>|ゼルメアの聖紋を　<%nM_NUM>個使って|装備レベル<%nM_LV>の防具が　手に入る|地下<%nM_FLOOR>階に　行きますか？<yesno><close>": "<speed=0>While partied with other players, you will|need as many Zelmea Crests as there are|participants.|<br>|Would you like to go to B<%dM_FLOOR>F of Zelmea|where you can receive equipment of level <%dM_LV>?|This will cost <%dM_NUM> Zelmea Crests.<yesno><close>"
@@ -23547,7 +23547,7 @@
     "clarity_nt_char_7849": "clarity_nt_char_7849"
   },
   "7850": {
-    "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個": "<%nL_NUM> <%sL_PRIZE_ITEM_S>"
+    "<%sL_PRIZE_ITEM_S>　<%nL_NUM>個": "<%dL_NUM> <%sL_PRIZE_ITEM_S>"
   },
   "7851": {
     "妖精の姿見のカラーをセットする": "Set Fairy Mirror's Coloring"
@@ -24513,13 +24513,13 @@
     "clarity_nt_char_8171": "clarity_nt_char_8171"
   },
   "8172": {
-    "(<%nM_score_1>回)": "(<%nM_score_1>)"
+    "(<%nM_score_1>回)": "(<%dM_score_1>)"
   },
   "8173": {
     "clarity_nt_char_8173": "clarity_nt_char_8173"
   },
   "8174": {
-    "(<%nM_score_2>人)": "(<%nM_score_2>)"
+    "(<%nM_score_2>人)": "(<%dM_score_2>)"
   },
   "8175": {
     "clarity_nt_char_8175": "clarity_nt_char_8175"
@@ -25542,7 +25542,7 @@
     "勢力ランキング": ""
   },
   "8515": {
-    "第<%nM_00>回対抗戦": "Competition #<%nM_00>"
+    "第<%nM_00>回対抗戦": "Competition #<%dM_00>"
   },
   "8516": {
     "なでる": "Stroke"
@@ -26112,10 +26112,10 @@
     "空き数": ""
   },
   "8705": {
-    "格納数<%nM_num>こ": "No. Stores: <%nM_num>"
+    "格納数<%nM_num>こ": "No. Stores: <%dM_num>"
   },
   "8706": {
-    "配置中": ""
+    "配置中": "Deploying"
   },
   "8707": {
     "庭具をつかうものに戻す": ""
@@ -26814,7 +26814,7 @@
     "クラブボーナス一覧": "Club Bonus List"
   },
   "8939": {
-    "第<%nM_00>回　順位表": "#6 Rankings"
+    "第<%nM_00>回　順位表": "No. <%dM_00> Rankings"
   },
   "8940": {
     "clarity_nt_char_8940": "clarity_nt_char_8940"
@@ -27642,7 +27642,7 @@
     "clarity_nt_char_9214": "clarity_nt_char_9214"
   },
   "9215": {
-    "装備レベル：<%nM_equip_level_min>～<%nM_equip_level_max>": "Equipment Lv.: <%nM_equip_level_min>～<%nM_equip_level_max>"
+    "装備レベル：<%nM_equip_level_min>～<%nM_equip_level_max>": "Equipment Lv.: <%dM_equip_level_min>～<%dM_equip_level_max>"
   },
   "9216": {
     "作った人の名前：<%sM_tukuttahito>": "Crafter's Name: <%sM_tukuttahito>"
@@ -28449,19 +28449,19 @@
     "clarity_nt_char_9483": "clarity_nt_char_9483"
   },
   "9484": {
-    "段位戦ポイント：": "Rank Points :"
+    "段位戦ポイント：": "Rank Points:"
   },
   "9485": {
     "clarity_nt_char_9485": "clarity_nt_char_9485"
   },
   "9486": {
-    "<%nM_00>ゲーム目": "<%nM_00> Games"
+    "<%nM_00>ゲーム目": "Game <%dM_00>"
   },
   "9487": {
     "clarity_nt_char_9487": "clarity_nt_char_9487"
   },
   "9488": {
-    "<%nM_00>ゲーム目の結果": ""
+    "<%nM_00>ゲーム目の結果": "Game <%dM_00> Results"
   },
   "9489": {
     "獲得トランプポイント：": "Earned Card Points:"
@@ -29178,7 +29178,7 @@
     "clarity_nt_char_9726": "clarity_nt_char_9726"
   },
   "9727": {
-    "<%nM_num>回": "<%nM_num>"
+    "<%nM_num>回": "<%dM_num>"
   },
   "9728": {
     "clarity_nt_char_9728": "clarity_nt_char_9728"
@@ -29190,7 +29190,7 @@
     "clarity_nt_char_9730": "clarity_nt_char_9730"
   },
   "9731": {
-    "ゲーム回数　<%nM_00>回": "# of Games <%nM_00>"
+    "ゲーム回数　<%nM_00>回": "# of Games <%dM_00>"
   },
   "9732": {
     "報酬受け取り：娯楽島ラッカラン　大富豪協会員プゴルまで": "Claim Reward: See Tycoon Club Member Pugol in Luckland"
@@ -29934,7 +29934,7 @@
     "倉庫内の数": ""
   },
   "9979": {
-    "Lv<%nM_lv>": ""
+    "Lv<%nM_lv>": "Lv<%dM_lv>"
   },
   "9980": {
     "clarity_nt_char_9980": "clarity_nt_char_9980"
@@ -30075,7 +30075,7 @@
     "種族を選ぶ": "Type"
   },
   "10026": {
-    "カスタム衣装<%nM_00>": ""
+    "カスタム衣装<%nM_00>": "Custom <%dM_00>"
   },
   "10027": {
     "clarity_nt_char_10027": "clarity_nt_char_10027"
@@ -31878,7 +31878,7 @@
     "clarity_nt_char_10626": "clarity_nt_char_10626"
   },
   "10627": {
-    "必要数/所持数": ""
+    "必要数/所持数": "Need/Have"
   },
   "10628": {
     "詳細版で表示": "Detail View"
@@ -31926,7 +31926,7 @@
     "魔塔装備ランク<%dM_rank>": "Equip. Rank <%dM_rank>"
   },
   "10643": {
-    "レア": ""
+    "レア": "Rare"
   },
   "10644": {
     "clarity_nt_char_10644": "clarity_nt_char_10644"
@@ -31962,13 +31962,13 @@
     "武器ランク": "Weapon Rank"
   },
   "10655": {
-    "消費ＭＰ<%3dM_mp>Ｐ": ""
+    "消費ＭＰ<%3dM_mp>Ｐ": "MP Cost <%3dM_mp>"
   },
   "10656": {
     "clarity_nt_char_10656": "clarity_nt_char_10656"
   },
   "10657": {
-    "チャージ<%3dM_sec>秒": ""
+    "チャージ<%3dM_sec>秒": "Charge <%3dM_sec> sec."
   },
   "10658": {
     "探査メニュー": "Explore Menu"
@@ -32076,13 +32076,13 @@
     "左手にそうび(非表示)": "L. H. Equip (Hide)"
   },
   "10693": {
-    "右手にそうび(表示)": ""
+    "右手にそうび(表示)": "R. H. Equip (Show)"
   },
   "10694": {
     "clarity_nt_char_10694": "clarity_nt_char_10694"
   },
   "10695": {
-    "右手にそうび(非表示)": ""
+    "右手にそうび(非表示)": "R. H. Equip (Hide)"
   },
   "10696": {
     "--/--": ""
@@ -32607,13 +32607,13 @@
     "clarity_nt_char_10869": "clarity_nt_char_10869"
   },
   "10870": {
-    "まとめて選択": ""
+    "まとめて選択": "Select All"
   },
   "10871": {
     "clarity_nt_char_10871": "clarity_nt_char_10871"
   },
   "10872": {
-    "ロスターのお題": ""
+    "ロスターのお題": "Roster's Theme"
   },
   "10873": {
     "黄昏の奏戦記": ""
@@ -32652,19 +32652,19 @@
     "clarity_nt_char_10884": "clarity_nt_char_10884"
   },
   "10885": {
-    "大魔王の代筆家": ""
+    "大魔王の代筆家": "Ghost Writer"
   },
   "10886": {
-    "源世庫パニガルム": ""
+    "源世庫パニガルム": "Origin Vault Panigalm"
   },
   "10887": {
     "clarity_nt_char_10887": "clarity_nt_char_10887"
   },
   "10888": {
-    "あらかじめ設定": ""
+    "あらかじめ設定": "Advance Setting"
   },
   "10889": {
-    "あらかじめ設定を見る": ""
+    "あらかじめ設定を見る": "View Advance Setting"
   },
   "10890": {
     "clarity_nt_char_10890": "clarity_nt_char_10890"
@@ -32757,10 +32757,10 @@
     "せんれきから見せている": ""
   },
   "10920": {
-    "習得レベル": "Learned Level"
+    "習得レベル": "Learned Lv"
   },
   "10921": {
-    "とくぎ・じゅもんの一覧": ""
+    "とくぎ・じゅもんの一覧": "Skill/Spell List"
   },
   "10922": {
     "あめ２": ""
