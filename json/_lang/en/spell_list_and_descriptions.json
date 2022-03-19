@@ -1293,7 +1293,7 @@
     "全職ちから+5": "Strength +5"
   },
   "432": {
-    "クイックアーツ": ""
+    "クイックアーツ": "Quick Arts"
   },
   "433": {
     "もろば斬り": "Double-Edged"
@@ -4764,16 +4764,16 @@
     "毒に呪文ダメアップ": "Spell Damage To Poisoned Up"
   },
   "1589": {
-    "武器ガード率+6%": ""
+    "武器ガード率+6%": "Parry Rate +6%"
   },
   "1590": {
-    "会心時ダメージ+50": ""
+    "会心時ダメージ+50": "Critical Damage +50"
   },
   "1591": {
     "clarity_nt_char_1591": "clarity_nt_char_1591"
   },
   "1592": {
-    "特技の効果範囲+1ｍ": ""
+    "特技の効果範囲+1ｍ": "Skill Range +1m"
   },
   "1593": {
     "clarity_nt_char_1593": "clarity_nt_char_1593"
@@ -4803,31 +4803,31 @@
     "clarity_nt_char_1601": "clarity_nt_char_1601"
   },
   "1602": {
-    "かいふく魔力+10": ""
+    "かいふく魔力+10": "Mag. Mending +10"
   },
   "1603": {
-    "かいふく魔力+15": ""
+    "かいふく魔力+15": "Mag. Mending +15"
   },
   "1604": {
-    "こうげき魔力+15": ""
+    "こうげき魔力+15": "Mag. Might +15"
   },
   "1605": {
-    "行動間隔わずかに短縮": ""
+    "行動間隔わずかに短縮": "Action Interval Down"
   },
   "1606": {
     "clarity_nt_char_1606": "clarity_nt_char_1606"
   },
   "1607": {
-    "こうげき魔力+25": ""
+    "こうげき魔力+25": "Mag. Might +25"
   },
   "1608": {
-    "占技・天輪殺": ""
+    "占技・天輪殺": "Divine Harmony"
   },
   "1609": {
     "clarity_nt_char_1609": "clarity_nt_char_1609"
   },
   "1610": {
-    "こうげき力+55": ""
+    "こうげき力+55": "Attack +55"
   },
   "1611": {
     "clarity_nt_char_1611": "clarity_nt_char_1611"
@@ -4839,16 +4839,16 @@
     "clarity_nt_char_1613": "clarity_nt_char_1613"
   },
   "1614": {
-    "攻撃時10%で魔導の書": ""
+    "攻撃時10%で魔導の書": "Magic Book On Attack 10%"
   },
   "1615": {
-    "月と星の成功率アップ": ""
+    "月と星の成功率アップ": "Sun/Moon Success Up"
   },
   "1616": {
     "clarity_nt_char_1616": "clarity_nt_char_1616"
   },
   "1617": {
-    "月と星の出現時間延長": ""
+    "月と星の出現時間延長": "Sun/Moon Extension"
   },
   "1618": {
     "clarity_nt_char_1618": "clarity_nt_char_1618"
@@ -4857,13 +4857,13 @@
     "行動時5%でテンション": "Tension On Action 5%"
   },
   "1620": {
-    "タロット回復量アップ": ""
+    "タロット回復量アップ": "Tarot Recovery Up"
   },
   "1621": {
     "clarity_nt_char_1621": "clarity_nt_char_1621"
   },
   "1622": {
-    "かいふく魔力+25": ""
+    "かいふく魔力+25": "Mag. Mending +25"
   },
   "1623": {
     "ダークマター": "Dark Matter"
@@ -4998,112 +4998,112 @@
     "鎌装備時|闇攻撃ダメージが|５％増える": "Dark Damage +5%|when a Sickle|is equipped."
   },
   "1667": {
-    "片手剣装備時の|行動間隔が|少し短くなる": ""
+    "片手剣装備時の|行動間隔が|少し短くなる": "Action wait down|slightly when|using a Sword."
   },
   "1668": {
     "clarity_nt_char_1668": "clarity_nt_char_1668"
   },
   "1669": {
-    "片手剣装備時に|６％で武器ガード|できるようになる": ""
+    "片手剣装備時に|６％で武器ガード|できるようになる": "Parry Rate +6%|when a Sword|is equipped."
   },
   "1670": {
-    "片手剣装備時の|会心時ダメージが|５０増える": ""
+    "片手剣装備時の|会心時ダメージが|５０増える": "Crit. Damage +50|when a Sword|is equipped."
   },
   "1671": {
     "clarity_nt_char_1671": "clarity_nt_char_1671"
   },
   "1672": {
-    "両手剣装備時の|こうげき力が|２５増える": ""
+    "両手剣装備時の|こうげき力が|２５増える": "Attack +25|when a Claymore|is equipped."
   },
   "1673": {
     "clarity_nt_char_1673": "clarity_nt_char_1673"
   },
   "1674": {
-    "ハンマー装備時の|特技が少し遠くの|敵まで当たる": ""
+  "ハンマー装備時の|特技が少し遠くの|敵まで当たる": "Skill range up|slightly when|using a Hammer."
   },
   "1675": {
     "clarity_nt_char_1675": "clarity_nt_char_1675"
   },
   "1676": {
-    "片手剣装備時の|こうげき魔力が|１０増える": ""
+    "片手剣装備時の|こうげき魔力が|１０増える": "Mag. Might +10|when a Sword|is equipped."
   },
   "1677": {
-    "片手剣装備時の|かいふく魔力が|１０増える": ""
+    "片手剣装備時の|かいふく魔力が|１０増える": "Mag. Mending +15|when a Sword|is equipped."
   },
   "1678": {
-    "片手剣装備時の|かいふく魔力が|１５増える": ""
+    "片手剣装備時の|かいふく魔力が|１５増える": "Mag. Mending +15|when a Sword|is equipped."
   },
   "1679": {
-    "片手剣装備時の|こうげき魔力が|１５増える": ""
+    "片手剣装備時の|こうげき魔力が|１５増える": "Mag. Might +15|when a Sword|is equipped."
   },
   "1680": {
-    "片手剣装備時|戦闘中のチャージ|時間を１０秒短縮": ""
+    "片手剣装備時|戦闘中のチャージ|時間を１０秒短縮": "CT -10 sec.|when a Sword|is equipped."
   },
   "1681": {
     "clarity_nt_char_1681": "clarity_nt_char_1681"
   },
   "1682": {
-    "片手剣装備時の|行動間隔が|わずかに短くなる": ""
+    "片手剣装備時の|行動間隔が|わずかに短くなる": "Action wait|down when a Sword|is equipped."
   },
   "1683": {
     "clarity_nt_char_1683": "clarity_nt_char_1683"
   },
   "1684": {
-    "片手剣装備時の|こうげき力が|５０増える": ""
+    "片手剣装備時の|こうげき力が|５０増える": "Attack +50|when a Sword|is equipped."
   },
   "1685": {
     "clarity_nt_char_1685": "clarity_nt_char_1685"
   },
   "1686": {
-    "棍装備時の|こうげき魔力が|１５増える": ""
+    "棍装備時の|こうげき魔力が|１５増える": "Mag. Might +15|when a Rod|is equipped."
   },
   "1687": {
-    "棍装備時に|タロットが与える|ダメージ量アップ": ""
+    "棍装備時に|タロットが与える|ダメージ量アップ": "Tarot damage|up when a Rod|is equipped."
   },
   "1688": {
-    "棍装備時の|こうげき魔力が|２５増える": ""
+    "棍装備時の|こうげき魔力が|２５増える": "Mag. Might +25|when a Rod|is equipped."
   },
   "1689": {
-    "敵１体に強烈な|ダメージを与えて|タロットも強化": ""
+    "敵１体に強烈な|ダメージを与えて|タロットも強化": "Intense damage to|one enemy and|boosts Tarots."
   },
   "1690": {
     "clarity_nt_char_1690": "clarity_nt_char_1690"
   },
   "1691": {
-    "棍装備時の|こうげき力が|５５増える": ""
+    "棍装備時の|こうげき力が|５５増える": "Attack +55|when a Rod|is equipped."
   },
   "1692": {
     "clarity_nt_char_1692": "clarity_nt_char_1692"
   },
   "1693": {
-    "ムチ攻撃時たまに|相手のしゅび力を|下げる": ""
+    "ムチ攻撃時たまに|相手のしゅび力を|下げる": "May lower defense|when attacking|with a Whip."
   },
   "1694": {
-    "ムチ装備時に|月と星の成功率が|すこし上がる": ""
+    "ムチ装備時に|月と星の成功率が|すこし上がる": "Moon/Star success|up when using|a Whip."
   },
   "1695": {
     "clarity_nt_char_1695": "clarity_nt_char_1695"
   },
   "1696": {
-    "ムチ攻撃時たまに|敵のこうげき力を|下げる": ""
+    "ムチ攻撃時たまに|敵のこうげき力を|下げる": "May lower attack|when attacking|with a Whip."
   },
   "1697": {
-    "ムチ装備時に|月と星の魔法陣の|出現時間が増える": ""
+    "ムチ装備時に|月と星の魔法陣の|出現時間が増える": "Moon/Star circle|time up when|using a Whip."
   },
   "1698": {
     "clarity_nt_char_1698": "clarity_nt_char_1698"
   },
   "1699": {
-    "弓装備時に|回復タロットの|効果量がアップ": ""
+    "弓装備時に|回復タロットの|効果量がアップ": "Recovery Tarot|effects up when|using a Bow."
   },
   "1700": {
-    "弓装備時の|かいふく魔力が|１５増える": ""
+    "弓装備時の|かいふく魔力が|１５増える": "Mag. Mending +15|when a Bow|is a equipped."
   },
   "1701": {
-    "弓装備時の|かいふく魔力が|２５増える": ""
+    "弓装備時の|かいふく魔力が|２５増える": "Mag. Mending +25|when a Bow|is a equipped."
   },
   "1702": {
-    "弓装備時の|こうげき力が|４０増える": ""
+    "弓装備時の|こうげき力が|４０増える": "Mag. Might +40|when a Bow|is a equipped."
   },
   "1703": {
     "clarity_nt_char_1703": "clarity_nt_char_1703"
@@ -5139,16 +5139,16 @@
     "攻撃時ＨＰ回復と|武器ガード率上昇|効果がつく": "Increased parry|rate and attacks|recover HP."
   },
   "1714": {
-    "棍装備時の|こうげき魔力が|１０増える": ""
+    "棍装備時の|こうげき魔力が|１０増える": "Mag. Might +10|when a Rod|is equipped."
   },
   "1715": {
-    "ムチ攻撃時たまに|相手が悪い効果に|かかりやすくなる": ""
+    "ムチ攻撃時たまに|相手が悪い効果に|かかりやすくなる": "Status effects|more likely when|using a Whip."
   },
   "1716": {
     "clarity_nt_char_1716": "clarity_nt_char_1716"
   },
   "1717": {
-    "弓装備時の|かいふく魔力が|１０増える": ""
+    "弓装備時の|かいふく魔力が|１０増える": "Mag. Mending +10|when a Bow|is equipped."
   },
   "1718": {
     "魔の波動を消費し|自己強化|魔剣士専用特技": "Consume Wave|gauge to power|yourself up."
@@ -5409,7 +5409,7 @@
     "コーラルレイン": "Coral Grief"
   },
   "1804": {
-    "レミラーマ": ""
+    "レミラーマ": "Snoop"
   },
   "1805": {
     "大砲設置": "Cannon ?"

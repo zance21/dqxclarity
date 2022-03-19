@@ -6993,13 +6993,13 @@
     "一緒に冒険した時間": "Time Adventured Together"
   },
   "2332": {
-    "（ ": ""
+    "（ ": "("
   },
   "2333": {
     "clarity_nt_char_2333": "clarity_nt_char_2333"
   },
   "2334": {
-    "） ": ""
+    "） ": ")"
   },
   "2335": {
     "clarity_nt_char_2335": "clarity_nt_char_2335"
@@ -7710,7 +7710,7 @@
     "clarity_nt_char_2570": "clarity_nt_char_2570"
   },
   "2571": {
-    "（連打:45度）": "  (2 Tap: 45°)"
+    "（連打:45度）": "  (2x: 45°)"
   },
   "2572": {
     "clarity_nt_char_2572": "clarity_nt_char_2572"
@@ -16173,16 +16173,16 @@
     "clarity_nt_char_5391": "clarity_nt_char_5391"
   },
   "5392": {
-    "レベルを上げる": ""
+    "レベルを上げる": "Raise Level"
   },
   "5393": {
-    "レベルを下げる": ""
+    "レベルを下げる": "Lower Level"
   },
   "5394": {
     "（ <%dM_00>P 使用中 ）": ""
   },
   "5395": {
-    "次の強化：": ""
+    "次の強化：": "Next Boost:"
   },
   "5396": {
     "これ以上強化できません": ""
@@ -16191,7 +16191,7 @@
     "あなたの<kyodai_rel3>の　体型を選んでください": "Please select your sibling's body shape."
   },
   "5398": {
-    "あなたの<kyodai_rel3>の　名前と姿を思い出してください": ""
+    "あなたの<kyodai_rel3>の　名前と姿を思い出してください": "Please choose their name and appearance."
   },
   "5399": {
     "<%sM_00>のちから": "Power of <%sM_00>"
@@ -16200,13 +16200,13 @@
     "clarity_nt_char_5400": "clarity_nt_char_5400"
   },
   "5401": {
-    "セットする": ""
+    "セットする": "Set"
   },
   "5402": {
     "なにについて？": "About what?"
   },
   "5403": {
-    "宝珠について": ""
+    "宝珠について": "About Jewels"
   },
   "5404": {
     "clarity_nt_char_5404": "clarity_nt_char_5404"
@@ -20709,7 +20709,7 @@
     "錬金効果（<%sM_renkinkouka>）": "Alch. Eff. (<%sM_renkinkouka>)"
   },
   "6904": {
-    "（<%sM_renkinkouka>）": ""
+    "（<%sM_renkinkouka>）": ")"
   },
   "6905": {
     "フェスアクセ": ""
@@ -22197,7 +22197,7 @@
     "自分／": "Myself/"
   },
   "7400": {
-    "パーティ": ""
+    "パーティ": "Party"
   },
   "7401": {
     "clarity_nt_char_7401": "clarity_nt_char_7401"
@@ -26331,7 +26331,7 @@
     "製品版ログイン（Shift+F4でデバッグログインに戻る）": ""
   },
   "8778": {
-    "選択": ""
+    "選択": "Choice"
   },
   "8779": {
     "clarity_nt_char_8779": "clarity_nt_char_8779"
@@ -26352,13 +26352,13 @@
     "clarity_nt_char_8784": "clarity_nt_char_8784"
   },
   "8785": {
-    "背景": ""
+    "背景": "Back"
   },
   "8786": {
     "clarity_nt_char_8786": "clarity_nt_char_8786"
   },
   "8787": {
-    "山": ""
+    "山": "Mtn"
   },
   "8788": {
     "[<%sM_chikei>]": ""
@@ -26412,13 +26412,13 @@
     "clarity_nt_char_8804": "clarity_nt_char_8804"
   },
   "8805": {
-    "パーティ仲間の": "Party"
+    "パーティ仲間の": "Party's"
   },
   "8806": {
-    "サポート仲間の": ""
+    "サポート仲間の": "Support's"
   },
   "8807": {
-    "チームの": "Team Members"
+    "チームの": "Team's"
   },
   "8808": {
     "clarity_nt_char_8808": "clarity_nt_char_8808"
@@ -26475,7 +26475,7 @@
     "clarity_nt_char_8825": "clarity_nt_char_8825"
   },
   "8826": {
-    "タウンストーン": ""
+    "タウンストーン": "Town Stone"
   },
   "8827": {
     "限定アイテムを交換する": ""
@@ -26568,10 +26568,10 @@
     "ニャンコインセール": "Cat Coin Sale"
   },
   "8857": {
-    "第<%nM_Num>弾": ""
+    "第<%nM_Num>弾": "No. <%dM_Num>"
   },
   "8858": {
-    "第<%dM_Num>弾": ""
+    "第<%dM_Num>弾": "No. <%dM_Num>"
   },
   "8859": {
     "パック選択": "Packs"
@@ -32562,7 +32562,7 @@
     "clarity_nt_char_10854": "clarity_nt_char_10854"
   },
   "10855": {
-    "6th 天星の英雄たち": ""
+    "6th 天星の英雄たち": "6th Heroes of the Heavens"
   },
   "10856": {
     "４周年の極致": "4th Year Test"
@@ -32640,13 +32640,13 @@
     "clarity_nt_char_10880": "clarity_nt_char_10880"
   },
   "10881": {
-    "ピラミッド": ""
+    "ピラミッド": "Pyramid"
   },
   "10882": {
-    "邪神の宮殿": ""
+    "邪神の宮殿": "Evil God Palace"
   },
   "10883": {
-    "万魔の塔": ""
+    "万魔の塔": "Banma Tower"
   },
   "10884": {
     "clarity_nt_char_10884": "clarity_nt_char_10884"
@@ -32715,22 +32715,22 @@
     "白文字": ""
   },
   "10906": {
-    "ウェルカム中のフレンドのマイタウンへ": ""
+    "ウェルカム中のフレンドのマイタウンへ": "To Welcoming Friend My Town"
   },
   "10907": {
     "clarity_nt_char_10907": "clarity_nt_char_10907"
   },
   "10908": {
-    "ウェルカム中のチームのマイタウンへ": ""
+    "ウェルカム中のチームのマイタウンへ": "To Welcoming Team My Town"
   },
   "10909": {
-    "ショップポイント": ""
+    "ショップポイント": "Shop Points"
   },
   "10910": {
     "clarity_nt_char_10910": "clarity_nt_char_10910"
   },
   "10911": {
-    "自分の家": ""
+    "自分の家": "Your House"
   },
   "10912": {
     "clarity_nt_char_10912": "clarity_nt_char_10912"
@@ -32757,7 +32757,7 @@
     "せんれきから見せている": ""
   },
   "10920": {
-    "習得レベル": ""
+    "習得レベル": "Learned Level"
   },
   "10921": {
     "とくぎ・じゅもんの一覧": ""
@@ -32775,7 +32775,7 @@
     "clarity_nt_char_10925": "clarity_nt_char_10925"
   },
   "10926": {
-    "<%sL_ITEM><%nL_ITEMNUM>こ": ""
+    "<%sL_ITEM><%nL_ITEMNUM>こ": "<%sL_ITEM> <%dL_ITEMNUM>"
   },
   "10927": {
     "clarity_nt_char_10927": "clarity_nt_char_10927"
@@ -32793,7 +32793,7 @@
     "clarity_nt_char_10931": "clarity_nt_char_10931"
   },
   "10932": {
-    "おさかな表示設定": ""
+    "おさかな表示設定": "Fish Display"
   },
   "10933": {
     "clarity_nt_char_10933": "clarity_nt_char_10933"
@@ -32802,10 +32802,10 @@
     "おぼえるスキルはありません": ""
   },
   "10935": {
-    "総資産": ""
+    "総資産": "Assets"
   },
   "10936": {
-    "中サイズ": ""
+    "中サイズ": "M Size"
   },
   "10937": {
     "clarity_nt_char_10937": "clarity_nt_char_10937"
@@ -32865,7 +32865,7 @@
     "筆頭研究員の服": ""
   },
   "10956": {
-    "エテーネの服": ""
+    "エテーネの服": "Ethene Clothes"
   },
   "10957": {
     "clarity_nt_char_10957": "clarity_nt_char_10957"
@@ -32943,13 +32943,13 @@
     "clarity_nt_char_10981": "clarity_nt_char_10981"
   },
   "10982": {
-    "<%nM_bunsi>／<%nM_bunbo>こ": ""
+    "<%nM_bunsi>／<%nM_bunbo>こ": "<%dM_bunsi>/<%dM_bunbo>"
   },
   "10983": {
     "clarity_nt_char_10983": "clarity_nt_char_10983"
   },
   "10984": {
-    "アクセ": ""
+    "アクセ": "Acc."
   },
   "10985": {
     "<%sM_skill>を習得": ""
@@ -33015,22 +33015,22 @@
     "錬金効果＋３の装備のみ出現": ""
   },
   "11006": {
-    "からだ": ""
+    "からだ": "Body"
   },
   "11007": {
-    "カード": ""
+    "カード": "Card"
   },
   "11008": {
-    "不思議なカード": ""
+    "不思議なカード": "Mysterious Card"
   },
   "11009": {
-    "赤のラクリマ": ""
+    "赤のラクリマ": "Red Lacrima"
   },
   "11010": {
     "clarity_nt_char_11010": "clarity_nt_char_11010"
   },
   "11011": {
-    "厭悪の果実": ""
+    "厭悪の果実": "Bad Fruit"
   },
   "11012": {
     "1500ＤＱＸポイント　　　　（1500円）": ""
@@ -33042,46 +33042,46 @@
     "アカウント内で受け取り済み": ""
   },
   "11015": {
-    "ボス一覧をみる": ""
+    "ボス一覧をみる": "View Boss List"
   },
   "11016": {
     "<%nM_ainori>人目<%sM_sax>": ""
   },
   "11017": {
-    "<speed=0>|<%sM_03><%sM_04>に　挑戦しますか？|<yesno><close>": ""
+    "<speed=0>|<%sM_03><%sM_04>に　挑戦しますか？|<yesno><close>": "<speed=0>|<speed=0>|Challenge <%sM_03> <%sM_04>?|<yesno><close>"
   },
   "11018": {
     "clarity_nt_char_11018": "clarity_nt_char_11018"
   },
   "11019": {
-    "<speed=0>|８人同盟バトルで|<%sM_03><%sM_04>に　挑戦しますか？<yesno><close>": ""
+    "<speed=0>|８人同盟バトルで|<%sM_03><%sM_04>に　挑戦しますか？<yesno><close>": "Challenge <%sM_03> <%sM_04>|in a 8 player party?<yesno><close>"
   },
   "11020": {
     "clarity_nt_char_11020": "clarity_nt_char_11020"
   },
   "11021": {
-    "<speed=0>|４人パーティバトルで|<%sM_03><%sM_04>に　挑戦しますか？<yesno><close>": ""
+    "<speed=0>|４人パーティバトルで|<%sM_03><%sM_04>に　挑戦しますか？<yesno><close>": "Challenge <%sM_03> <%sM_04>|in a 4 player party?<yesno><close>"
   },
   "11022": {
     "clarity_nt_char_11022": "clarity_nt_char_11022"
   },
   "11023": {
-    "特訓中": ""
+    "特訓中": "Training"
   },
   "11024": {
-    "パーティ内で同じ職業の|編成を禁止する制限です。": ""
+    "パーティ内で同じ職業の|編成を禁止する制限です。": "A party cannot have more than|1 of the same vocation."
   },
   "11025": {
     "clarity_nt_char_11025": "clarity_nt_char_11025"
   },
   "11026": {
-    "装備制限": ""
+    "装備制限": "Equip. Limit"
   },
   "11027": {
     "clarity_nt_char_11027": "clarity_nt_char_11027"
   },
   "11028": {
-    "レベル制限": ""
+    "レベル制限": "Level Limit"
   },
   "11029": {
     "必要レベル<%dL_LEVEL>以上": ""
@@ -33096,9 +33096,9 @@
     "clarity_nt_char_11032": "clarity_nt_char_11032"
   },
   "11033": {
-    "ボスの切り替え": ""
+    "ボスの切り替え": "Switch Boss"
   },
   "11034": {
-    "大嵐メダル": ""
+    "大嵐メダル": "Storm Medal"
   }
 }

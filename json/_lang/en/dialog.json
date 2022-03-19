@@ -9999,22 +9999,22 @@
     "clarity_nt_char_3333": "clarity_nt_char_3333"
   },
   "3334": {
-    "定期更新される|コンテンツを|確認できます": ""
+    "定期更新される|コンテンツを|確認できます": "Check out|new content|updates."
   },
   "3335": {
-    "<speed=0>このコンテンツは　移動先が　ありません。": ""
+    "<speed=0>このコンテンツは　移動先が　ありません。": "<speed=0>This content has no destination."
   },
   "3336": {
     "<speed=0>現在　確認できるコンテンツは　ありません。|冒険を進めることで　遊べるコンテンツは|増えていきます。": ""
   },
   "3337": {
-    "<speed=0>コンテンツの　近くの場所間まで　移動しますか？<yesno><close>": ""
+    "<speed=0>コンテンツの　近くの場所間まで　移動しますか？<yesno><close>": "<speed=0>Move to this content's location?<yesno><close>"
   },
   "3338": {
     "clarity_nt_char_3338": "clarity_nt_char_3338"
   },
   "3339": {
-    "モンスターの|スキルポイントの|ふりわけをします": ""
+    "モンスターの|スキルポイントの|ふりわけをします": "Assign skill|points to|monsters."
   },
   "3340": {
     "clarity_nt_char_3340": "clarity_nt_char_3340"
@@ -10047,19 +10047,19 @@
     "clarity_nt_char_3349": "clarity_nt_char_3349"
   },
   "3350": {
-    "参加していた大富豪に　復帰できます。|復帰しますか？|<yesno><close>": ""
+    "参加していた大富豪に　復帰できます。|復帰しますか？|<yesno><close>": "Do you want to return to the Tycoon game|you were participating in?|<yesno><close>"
   },
   "3351": {
-    "<speed=0>どの説明を　見ますか？|<select>|空・時間|やめる|<select_end>|<close>": ""
+    "<speed=0>どの説明を　見ますか？|<select>|空・時間|やめる|<select_end>|<close>": "<speed=0>View which explanation?|<select>|Space Time|Cancel|<select_end>|<close>"
   },
   "3352": {
-    "<speed=0><%sM_item>|<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>": ""
+    "<speed=0><%sM_item>|<color_yellow><%sM_size>ｃｍ　<%sM_rank><color_white>": "<speed=0><%sM_item>|<color_yellow><%sM_size> cm　<%sM_rank><color_white>"
   },
   "3353": {
     "clarity_nt_char_3353": "clarity_nt_char_3353"
   },
   "3354": {
-    "<speed=0><%sM_item>|<%sM_size>ｃｍ": ""
+    "<speed=0><%sM_item>|<%sM_size>ｃｍ": "<speed=0><%sM_item>|<%sM_size> cm"
   },
   "3355": {
     "clarity_nt_char_3355": "clarity_nt_char_3355"
@@ -10092,19 +10092,19 @@
     "clarity_nt_char_3364": "clarity_nt_char_3364"
   },
   "3365": {
-    "<speed=0>|源世庫パニガルムの　簡易探査に向かいます。|よろしいですか？|<yesno2><close>": ""
+    "<speed=0>|源世庫パニガルムの　簡易探査に向かいます。|よろしいですか？|<yesno2><close>": "<speed=0>|Do you want to go on a simple exploration in|Origin Vault Panigalm?|<yesno2><close>"
   },
   "3366": {
     "clarity_nt_char_3366": "clarity_nt_char_3366"
   },
   "3367": {
-    "<speed=0>|簡易探査モードでは　通常時と比べて|レッドログ以外のパニガログが内容変更されます。": ""
+    "<speed=0>|簡易探査モードでは　通常時と比べて|レッドログ以外のパニガログが内容変更されます。": "<speed=0>|In simple exploration mode, the contents of|all Panilogs except Red are changed."
   },
   "3368": {
-    "<speed=0>|簡易探査モードでは　通常時と比べて|レッドログ以外のパニガログが内容変更されます。|また　源世の聖標を　使用することができません。|<break>": ""
+    "<speed=0>|簡易探査モードでは　通常時と比べて|レッドログ以外のパニガログが内容変更されます。|また　源世の聖標を　使用することができません。|<break>": "<speed=0>|In simple exploration mode, the contents of|all Panilogs except Red are changed. Also,|Sacred Marks cannot be used.|<break>"
   },
   "3369": {
-    "<speed=0><%sM_SKILL>は|レベル<%dL_LEVEL>で習得します。": ""
+    "<speed=0><%sM_SKILL>は|レベル<%dL_LEVEL>で習得します。": "<speed=0><%sM_SKILL> is learned at level <%dL_LEVEL>."
   },
   "3370": {
     "<speed=0>|条件が変更されたため|移動が　キャンセルされました。|もう一度　お試しください。": ""
@@ -10122,16 +10122,16 @@
     "<speed=0>このドルボードは　２人乗りです。": "<speed=0>This dolboard is for 2 people."
   },
   "3375": {
-    "<%sL_PC>の使える|<%sL_SKILL_NAME>設備が　近くにないため|ここで　錬金はできません。": ""
+    "<%sL_PC>の使える|<%sL_SKILL_NAME>設備が　近くにないため|ここで　錬金はできません。": "You cannot use alchemy here because there|is no <%sL_SKILL_NAME> facility nearby."
   },
   "3376": {
     "clarity_nt_char_3376": "clarity_nt_char_3376"
   },
   "3377": {
-    "このコンテンツは　開催終了しましたので|目的の設定が　できなくなりました。|これに合わせて　仲間募集もキャンセルしました。": ""
+    "このコンテンツは　開催終了しましたので|目的の設定が　できなくなりました。|これに合わせて　仲間募集もキャンセルしました。": "This content is no longer available as the|event has ended. Party search has been|cancelled."
   },
   "3378": {
-    "<speed=0>はじめて　<%sM_Badge>バッジを|手に入れた！|<se_nots System 7>": ""
+    "<speed=0>はじめて　<%sM_Badge>バッジを|手に入れた！|<se_nots System 7>": "<speed=0>Received your first <%sM_Badge>|Badge!|<se_nots System 7>"
   },
   "3379": {
     "はじめて　<%sM_Badge>バッジを　手に入れた！": "Received your first <%sM_Badge>|Badge!"
