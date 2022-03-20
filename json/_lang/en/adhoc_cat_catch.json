@@ -42,7 +42,7 @@
     "<pc>は　ネコと　お別れしようとしたが|メレアーデが待っているのを　思いだした。|<br>|ネコバッグの中にいる　ネコを|メレアーデに　渡しにいこう！|<end>": "<pc> was about to let the cat go,|but then remembered to bring it to Mereade.|<br>|Go bring the cat to Mereade!"
   },
   "15": {
-    "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）を|つかまえた！|<se_nots System 7><br>|はじめて　出会ったネコだ！|<end>": "<pc> caught a <%sL_CAT_TYPE_NAME> (<%sL_CAT_COLOR>)|of <%sL_CAT_SIZE> size!|<se_nots System 7>It's the first cat you'ce caught!<end>"
+  "<pc>は　<%sL_CAT_SIZE>サイズの|<%sL_CAT_TYPE_NAME>（<%sL_CAT_COLOR>）を|つかまえた！|<se_nots System 7><br>|はじめて　出会ったネコだ！|<end>": "<pc> caught a <%sL_CAT_TYPE_NAME> (<%sL_CAT_COLOR>)|of <%sL_CAT_SIZE> size!|<se_nots System 7>It's the first cat of this type you've caught!|<end>"
   },
   "16": {
     "つかまえたネコ|場所：<%sL_CAT_AREA>|種類：<%sL_CAT_TYPE> <%sL_CAT_SEX><%sL_CAT_SIZE>|色： <%sL_CAT_COLOR> <%sL_EYE_COLOR>|性格：<%sL_CAT_CHAR>|<end>": "Caught Cat|Place: <%sL_CAT_AREA>|Type: <%sL_CAT_TYPE> <%sL_CAT_SEX><%sL_CAT_SIZE>|Color: <%sL_CAT_COLOR> <%sL_EYE_COLOR>|Personality: <%sL_CAT_CHAR>|<end>"

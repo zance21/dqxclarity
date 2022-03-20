@@ -9897,7 +9897,7 @@
     "clarity_nt_char_3299": "clarity_nt_char_3299"
   },
   "3300": {
-    "<speed=0>|いまは　確認できません！": ""
+    "<speed=0>|いまは　確認できません！": "<speed=0>|You can't confirm now!"
   },
   "3301": {
     "clarity_nt_char_3301": "clarity_nt_char_3301"
@@ -9912,7 +9912,7 @@
     "clarity_nt_char_3304": "clarity_nt_char_3304"
   },
   "3305": {
-    "<speed=0>|ここでは　できません！": ""
+    "<speed=0>|ここでは　できません！": "<speed=0>|You can't do that here!"
   },
   "3306": {
     "<speed=0>追加パッケージ|「天星の英雄たち」の|プレイ権利が　ありません。|<br>|この先を　プレイしたい場合は|追加パッケージの　プレイ権利を　|入手してください。": ""
@@ -9945,7 +9945,7 @@
     "<speed=0>追加パッケージ|「天星の英雄たち」が|インストールされていません。|<br>|このマップへ　移動したい場合は|追加パッケージの　インストールをしてください。": ""
   },
   "3316": {
-    "<speed=0>|ここでは　使えないようだ。": ""
+    "<speed=0>|ここでは　使えないようだ。": "<speed=0>|It doesn't seem to work here."
   },
   "3317": {
     "モニターの画質の変更は　メニューを閉じたあとの|映像の再読み込み後に　反映されます。|ご注意ください。": "Please note that monitor quality changes will|be reflected after the menu is closed and the|video reloads."
@@ -9966,7 +9966,7 @@
     "clarity_nt_char_3322": "clarity_nt_char_3322"
   },
   "3323": {
-    "<speed=0>|「収集品」についての　説明です。|<br>|ダンジョンで得たパニガログは　解凍することで|どんなアイテムか　判別することができます。|なお　解凍は毎回　自動で行われます。|<br>|解凍した収集品は　そのままだと持ち帰れません。|「ぜんぶとる」　もしくは　収集品を個別に選んで|持ち帰るようにしてください。": ""
+    "<speed=0>|「収集品」についての　説明です。|<br>|ダンジョンで得たパニガログは　解凍することで|どんなアイテムか　判別することができます。|なお　解凍は毎回　自動で行われます。|<br>|解凍した収集品は　そのままだと持ち帰れません。|「ぜんぶとる」　もしくは　収集品を個別に選んで|持ち帰るようにしてください。": "<speed=0>|I'll explain the items you can collect.|<br>|The Panilogs you collect can be decrypted|to see what's contained inside. They'll be|decrypted automatically.|<br>|Make sure to use "Take All" or select the|individual decrypted items you want to take|with you."
   },
   "3324": {
     "解凍した収集品は　そのままだと持ち帰れません。|「ぜんぶとる」　もしくは　収集品を個別に選んで|持ち帰るようにしてください。|<end>": ""
