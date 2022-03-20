@@ -189,7 +189,7 @@
     "「<%sL_KOUKAN_ITEM>で　よろしいですか？|<yesno><break>": "Are you sure you want to use|<%sL_KOUKAN_ITEM>?<yesno><break>"
   },
   "64": {
-    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "Do you want to play again?|<select_se_off>|Single Draw|10 Draw|Advance Setting|Animation Setting|View Prizes|<select_end><break>"
   },
   "65": {
     "「では　他の賞品を　お選びください。|<break>": "Now, on to the other prizes...<break>"
@@ -7566,43 +7566,43 @@
     "「あらかじめ設定をする　賞品を選んでください。|<color_yellow>|　冒険者のおでかけ超便利ツールの　ふくびきの|　あらかじめ設定とは別なので　ご注意ください。|<color_white>|<break>": ""
   },
   "2523": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2524": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2525": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2526": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2527": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2528": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2529": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2530": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2531": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2532": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2533": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2534": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2535": {
-    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": ""
+    "「あらかじめ設定で　<%sL_PRIZENAME>を|　設定しておりますが　そのまま受け取りますか？|　それとも　賞品を選びなおしますか？|<select_se_off>|そのまま受け取る|賞品を選びなおす|<select_end><break>": "You have <%sL_PRIZENAME> preset|as a prize choice. Or would you like to|select your prize instead?|<select_se_off>|Select As Is|Choose Prize|<select_end><break>"
   },
   "2536": {
     "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
@@ -7644,81 +7644,81 @@
     "「ふくびきの景品が　新しく更新されましたね！|　あわせて　あらかじめ設定も　未設定に|　変更されましたので　ご確認ください。|<bw_break>": ""
   },
   "2549": {
-    "「ふくびきを引いた時の|　演出の長さを　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出の長さを　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2550": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2551": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2552": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2553": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2554": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2555": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2556": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2557": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2558": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2559": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2560": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2561": {
-    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": ""
+    "「ふくびきを引いた時の|　演出方法を　変えられます。|　お好みに合わせて　設定してください。|<break>": "You can choose the speed of the drawing|animation here.|<break>"
   },
   "2562": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<bw_break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<bw_break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2563": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2564": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2565": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2566": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2567": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2568": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2569": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2570": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2571": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2572": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2573": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   },
   "2574": {
-    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": ""
+    "「あっ。そちらの等級は　賞品がひとつだけなので|　あらかじめ設定は　不要ですね。|<break>": "You don't need to pre-set the prize since|you'll only be getting one.|<bw_break>"
   }
 }
