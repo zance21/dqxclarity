@@ -2325,13 +2325,13 @@
     "<%sB_ACTOR>の 必殺技！": "<%sB_ACTOR>'s Special!"
   },
   "776": {
-    "バナナトラップを しかけた！": ""
+    "バナナトラップを しかけた！": "Set a banana trap!"
   },
   "777": {
     "clarity_nt_char_777": "clarity_nt_char_777"
   },
   "778": {
-    "<%sB_TARGET>は バナナをふんだ！": ""
+    "<%sB_TARGET>は バナナをふんだ！": "<%sB_TARGET>　stepped on a banana!"
   },
   "779": {
     "clarity_nt_char_779": "clarity_nt_char_779"
@@ -16593,10 +16593,10 @@
     "clarity_nt_char_5531": "clarity_nt_char_5531"
   },
   "5532": {
-    "トライバースト": ""
+    "トライバースト": "Triburst"
   },
   "5533": {
-    "闇の呪縛": ""
+    "闇の呪縛": "Dark Curse"
   },
   "5534": {
     "clarity_nt_char_5534": "clarity_nt_char_5534"
@@ -16608,10 +16608,10 @@
     "真・時獄の開門": "True Open Time Cage"
   },
   "5537": {
-    "ウルベアの迅雷": ""
+    "ウルベアの迅雷": "Urbea Thunderbolt"
   },
   "5538": {
-    "ガトリング": ""
+    "ガトリング": "Gatling"
   },
   "5539": {
     "ネイルレーザー": "Nail Laser"
@@ -16719,13 +16719,13 @@
     "ツイスター": "Twister"
   },
   "5574": {
-    "ヒーリングミスト": ""
+    "ヒーリングミスト": "Healing Mist"
   },
   "5575": {
     "clarity_nt_char_5575": "clarity_nt_char_5575"
   },
   "5576": {
-    "８９０バスター": ""
+    "８９０バスター": "890 Buster"
   },
   "5577": {
     "死毒の旋風": "Poison Tornado"
@@ -16740,28 +16740,28 @@
     "ザオトーン": "Seal Zing"
   },
   "5581": {
-    "ダウン攻撃": ""
+    "ダウン攻撃": "Attack Down"
   },
   "5582": {
     "ザオトーン・アビス": "Seal Zing Abyss"
   },
   "5583": {
-    "ゴーレム召喚": "Golem Summon"
+    "ゴーレム召喚": "Summon Golem"
   },
   "5584": {
     "clarity_nt_char_5584": "clarity_nt_char_5584"
   },
   "5585": {
-    "ばくだんいわ召喚": ""
+    "ばくだんいわ召喚": "Summon Kamikazee Rock"
   },
   "5586": {
     "clarity_nt_char_5586": "clarity_nt_char_5586"
   },
   "5587": {
-    "メタルスライム召喚": ""
+    "メタルスライム召喚": "Summon Metal Slime"
   },
   "5588": {
-    "終末の到来": ""
+    "終末の到来": "End's Coming"
   },
   "5589": {
     "円陣殺": "Kill Zone"
@@ -16800,28 +16800,28 @@
     "閃光のやいばⅢ": "Flashing Blade Ⅲ"
   },
   "5601": {
-    "防魔の法": "Demon Ward"
+    "防魔の法": "Magic Ward"
   },
   "5602": {
     "clarity_nt_char_5602": "clarity_nt_char_5602"
   },
   "5603": {
-    "防魔の法Ⅱ": "Demon Ward Ⅱ"
+    "防魔の法Ⅱ": "Magic Ward Ⅱ"
   },
   "5604": {
-    "防魔の法Ⅲ": "Demon Ward Ⅲ"
+    "防魔の法Ⅲ": "Magic Ward Ⅲ"
   },
   "5605": {
-    "隠形の法": "Invisibility"
+    "隠形の法": "Vanish"
   },
   "5606": {
     "clarity_nt_char_5606": "clarity_nt_char_5606"
   },
   "5607": {
-    "隠形の法Ⅱ": "InvisibilityⅡ"
+    "隠形の法Ⅱ": "Vanish Ⅱ"
   },
   "5608": {
-    "隠形の法Ⅲ": "InvisibilityⅢ"
+    "隠形の法Ⅲ": "Vanish Ⅲ"
   },
   "5609": {
     "たいあたりⅡ": "Body Slam Ⅱ"
@@ -17736,7 +17736,7 @@
     "clarity_nt_char_5912": "clarity_nt_char_5912"
   },
   "5913": {
-    "ジュエルショット": ""
+    "ジュエルショット": "Jewel Shot Ⅱ"
   },
   "5914": {
     "clarity_nt_char_5914": "clarity_nt_char_5914"
@@ -17754,7 +17754,7 @@
     "ブルートラップ": "Blue Trap"
   },
   "5919": {
-    "レッドトラップ": ""
+    "レッドトラップ": "Red Trap"
   },
   "5920": {
     "ジェルプレッシャー": "Gel Pressure"
@@ -17772,7 +17772,7 @@
     "clarity_nt_char_5924": "clarity_nt_char_5924"
   },
   "5925": {
-    "マグマリザーブ": ""
+    "マグマリザーブ": "Magma Reserve"
   },
   "5926": {
     "黒い炎が ほとばしる！": ""
@@ -17787,7 +17787,7 @@
     "clarity_nt_char_5929": "clarity_nt_char_5929"
   },
   "5930": {
-    "スパークボール": ""
+    "スパークボール": "Spark Ball"
   },
   "5931": {
     "エメラルドビーム": "Emerald Beam"
@@ -17811,7 +17811,7 @@
     "clarity_nt_char_5937": "clarity_nt_char_5937"
   },
   "5938": {
-    "テールテンペスト": ""
+    "テールテンペスト": "Tail Tempest"
   },
   "5939": {
     "clarity_nt_char_5939": "clarity_nt_char_5939"
@@ -17856,7 +17856,7 @@
     "アイスクエイク": "Icequake"
   },
   "5953": {
-    "ナイトメアゾーン": ""
+    "ナイトメアゾーン": "Nightmare Zone"
   },
   "5954": {
     "clarity_nt_char_5954": "clarity_nt_char_5954"
@@ -17913,7 +17913,7 @@
     "clarity_nt_char_5971": "clarity_nt_char_5971"
   },
   "5972": {
-    "小さくなる": ""
+    "小さくなる": "Shrink"
   },
   "5973": {
     "死霊召喚": "Summon Dead"
@@ -17952,7 +17952,7 @@
     "雪床開放！": ""
   },
   "5985": {
-    "バブルブレス": ""
+    "バブルブレス": "Bubble Breath"
   },
   "5986": {
     "clarity_nt_char_5986": "clarity_nt_char_5986"
@@ -17961,7 +17961,7 @@
     "ホーンライトニング": "Horn Lightning"
   },
   "5988": {
-    "ハイドロスプラッシュ": ""
+    "ハイドロスプラッシュ": "Hydro Splash"
   },
   "5989": {
     "clarity_nt_char_5989": "clarity_nt_char_5989"
@@ -17973,10 +17973,10 @@
     "clarity_nt_char_5991": "clarity_nt_char_5991"
   },
   "5992": {
-    "ヒートアップモード": ""
+    "ヒートアップモード": "Heat-up Mode"
   },
   "5993": {
-    "砂嵐": ""
+    "砂嵐": "Sand"
   },
   "5994": {
     "clarity_nt_char_5994": "clarity_nt_char_5994"
@@ -18093,7 +18093,7 @@
     "clarity_nt_char_6031": "clarity_nt_char_6031"
   },
   "6032": {
-    "ダーティショット": ""
+    "ダーティショット": "Dirty Shot"
   },
   "6033": {
     "clarity_nt_char_6033": "clarity_nt_char_6033"
@@ -18126,7 +18126,7 @@
     "臭いハナ息": ""
   },
   "6043": {
-    "ヒップドロップ": ""
+    "ヒップドロップ": "Hip Drop"
   },
   "6044": {
     "突撃十文字　左右": ""
@@ -18156,7 +18156,7 @@
     "clarity_nt_char_6052": "clarity_nt_char_6052"
   },
   "6053": {
-    "カースジャグリング": ""
+    "カースジャグリング": "Curse Juggling"
   },
   "6054": {
     "びっくりボックス": "Trap Box"
@@ -18240,13 +18240,13 @@
     "clarity_nt_char_6080": "clarity_nt_char_6080"
   },
   "6081": {
-    "アクアスロー": ""
+    "アクアスロー": "Aqua Throw"
   },
   "6082": {
     "clarity_nt_char_6082": "clarity_nt_char_6082"
   },
   "6083": {
-    "ハイドロウェーブ": ""
+    "ハイドロウェーブ": "Hydro Wave"
   },
   "6084": {
     "clarity_nt_char_6084": "clarity_nt_char_6084"
@@ -23427,19 +23427,19 @@
     "clarity_nt_char_7809": "clarity_nt_char_7809"
   },
   "7810": {
-    "移動速度1.6倍": ""
+    "移動速度1.6倍": "Movement Speed 1.6x"
   },
   "7811": {
     "clarity_nt_char_7811": "clarity_nt_char_7811"
   },
   "7812": {
-    "移動速度1.3倍": ""
+    "移動速度1.3倍": "Movement Speed 1.3x"
   },
   "7813": {
     "clarity_nt_char_7813": "clarity_nt_char_7813"
   },
   "7814": {
-    "移動速度1.5倍": ""
+    "移動速度1.5倍": "Movement Speed 1.5x"
   },
   "7815": {
     "clarity_nt_char_7815": "clarity_nt_char_7815"
@@ -23484,13 +23484,13 @@
     "clarity_nt_char_7828": "clarity_nt_char_7828"
   },
   "7829": {
-    "氷をまとった棍で|敵１体を|４回　打ちつける": ""
+    "氷をまとった棍で|敵１体を|４回　打ちつける": "Hit an enemy|with an ice clad|rod four times."
   },
   "7830": {
     "clarity_nt_char_7830": "clarity_nt_char_7830"
   },
   "7831": {
-    "氷をまとった棍で|敵１体を　４回|激しく打ちつける": ""
+    "氷をまとった棍で|敵１体を　４回|激しく打ちつける": "Strike an enemy|with an ice clad|rod four times."
   },
   "7832": {
     "棍を振りまわし|前方の　敵を|なぎはらう": ""
@@ -23517,7 +23517,7 @@
     "チャージタイム-30秒": "Charge Time -30 sec."
   },
   "7840": {
-    "物質系ダメージ+30%": ""
+    "物質系ダメージ+30%": "Material-type Damage +30%"
   },
   "7841": {
     "チャージタイム-20秒": "Charge Time -20 sec."
@@ -24078,7 +24078,7 @@
     "シビれがきえた": "Paralysis faded."
   },
   "8027": {
-    "<%sB_TARGET>は バナナですべって すっころんだ！": ""
+    "<%sB_TARGET>は バナナですべって すっころんだ！": "<%sB_TARGET>　slipped on the banana and fell!"
   },
   "8028": {
     "clarity_nt_char_8028": "clarity_nt_char_8028"
@@ -24594,7 +24594,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは つきとばされた！": ""
   },
   "8199": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは バナナですべって すっころんだ！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは バナナですべって すっころんだ！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e slipped on the banana and fell!"
   },
   "8200": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは クモノに かかった！": ""

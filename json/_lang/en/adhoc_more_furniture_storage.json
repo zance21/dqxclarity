@@ -36,28 +36,28 @@
     "<speed=0><%sL_VAULT_TYPE>には　これ以上|<%sL_ITEM_NAME><%sL_PLUSNUM>を　しまえません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE> contains no more|<%sL_ITEM_NAME><%sL_PLUSNUM>...<bw_break>"
   },
   "13": {
-    "<speed=0><%sL_VAULT_TYPE>には　これ以上|アイテムをしまうことが　できません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE> can't hold any more items...<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>には　これ以上|アイテムをしまうことが　できません。|<bw_break>": "<speed=0><%sL_VAULT_TYPE> can't hold any more items.<bw_break>"
   },
   "14": {
     "<speed=0>収納家具の利用権限がないため|収納家具は　使えません。": ""
   },
   "15": {
-    "<speed=0>この家のオーナーではないため|屋根ウラ収納は　使えません。": "<speed=0>I'm not the owner of this house, so I can't|use the storage space under the roof."
+    "<speed=0>この家のオーナーではないため|屋根ウラ収納は　使えません。": "<speed=0>You are not the house owner and cannot|access the house storage."
   },
   "16": {
-    "<speed=0><%sL_VAULT_TYPE>には　何もありません。|<bw_break>": "<speed=0>There's nothing in <%sL_VAULT_TYPE>...<bw_break>"
+    "<speed=0><%sL_VAULT_TYPE>には　何もありません。|<bw_break>": "<speed=0>There's nothing in the <%sL_VAULT_TYPE>.<bw_break>"
   },
   "17": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<break>": "<speed=0><%sL_PC_NICK> is the same as <%sL_FURNITURE>|in ...<break>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　開いた。|<break>": "<speed=0><%sL_PC_NICK> opened the <%sL_FURNITURE>.<break>"
   },
   "18": {
-    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　のぞきこんだ。|<break>": "<speed=0><%sL_PC_NICK> peeks at <%sL_FURNITURE>...<break>"
+    "<speed=0><%sL_PC_NICK>は|<%sL_FURNITURE>を　のぞきこんだ。|<break>": "<speed=0><%sL_PC_NICK> looked through the <%sL_FURNITURE>.<break>"
   },
   "19": {
-    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off>|しまう|取りだす|<select_end><break>": "<speed=0>I can't put my things away. I can't get to|them. What do you want to do?|<select_se_off>|put an end to|take out|<select_end><break>"
+    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off>|しまう|取りだす|<select_end><break>": "<speed=0>You can deposit or retrieve your stored items.|What do you want to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
   },
   "20": {
-    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off 2>|しまう|取りだす|<select_end><break>": "<speed=0>I can't put my things away. I can't get to|them. What do you want to do?|<select_se_off 2>|put an end to|take out|<select_end><break>"
+    "<speed=0>|持ち物を　しまったり　取りだせます。|どうしますか？|<select_se_off 2>|しまう|取りだす|<select_end><break>": "<speed=0>You can deposit or retrieve your stored items.|What do you want to do?|<select_se_off>|Deposit|Retrieve|<select_end><break>"
   },
   "21": {
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|他の人に　わたすことができないアイテムのため|他人の家の収納家具には　しまえません。|<bw_break>": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> is an item that|can't be given away to others, so it can't be|stored in someone else's storage furniture...<bw_break>"
@@ -69,7 +69,7 @@
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>は　|屋根ウラ収納や　収納家具に|入れることは　できません。": "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM> cannot be placed|in roof storage or storage furniture..."
   },
   "24": {
-    "<speed=0>予期せぬエラーにより|動作を完了することが　できませんでした。": "<speed=0>Unable to complete the operation due to an|unexpected error..."
+    "<speed=0>予期せぬエラーにより|動作を完了することが　できませんでした。": "<speed=0>Unable to complete the operation due to an|unexpected error."
   },
   "25": {
     "<speed=0><%sL_ITEM_NAME><%sL_PLUSNUM>を　しまうことが|できませんでした。": "<speed=0>I can't put <%sL_ITEM_NAME><%sL_PLUSNUM>|away..."
