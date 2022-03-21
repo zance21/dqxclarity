@@ -248,6 +248,10 @@ def scan_for_npc_names():
                     data = npc_data
                     name_addr = address + 12  # jump to name
                     end_addr = address + 12
+                elif read_bytes(address, 2) == b'\xC0\xA9':  # AI
+                    data = 'AI_NAME'
+                    name_addr = address + 12  # jump to name
+                    end_addr = address + 12
                 else:
                     continue
 
@@ -266,11 +270,16 @@ def scan_for_npc_names():
                     name = name_hex.decode('utf-8')
                 except UnicodeDecodeError:
                     continue
-                for item in data:
-                    key, value = list(data[item].items())[0]
-                    if re.search(f'^{name}+$', key):
-                        if value:
-                            write_bytes(name_addr, str.encode(value) + b'\x00')
+                
+                if data == "AI_NAME":
+                    romaji_name = kks.convert(name)[0]['hepburn'].capitalize()
+                    write_bytes(name_addr, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+                else:
+                    for item in data:
+                        key, value = list(data[item].items())[0]
+                        if re.search(f'^{name}+$', key):
+                            if value:
+                                write_bytes(name_addr, str.encode(value) + b'\x00')
             
             time.sleep(.01)
         except TypeError:

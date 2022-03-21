@@ -75,9 +75,11 @@ cutscene_pattern = rb'\x6F\x72\x69\x67\x69\x6E\x00\x00\x00\x00\x00\x00\x00\x00\x
 # pattern for npc/monsters to rename.
 # monster: 58 A7 ?? ?? ?? ?? ?? ?? FC A9 ?? ?? E?
 # npc:     78 B9 ?? ?? ?? ?? ?? ?? FC A9 ?? ?? E?
-npc_monster_byte_pattern = rb'[\x58\x78][\xA7\xB9]......\xFC\xA9..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-#                                ^ monster ^
-#                                    ^   npc   ^
+# AI:      C0 A9 ?? ?? ?? ?? ?? ?? FC A9 ?? ?? E?
+npc_monster_byte_pattern = rb'[\x58\x78\xC0][\xA7\xB9\xA9]......\xFC\xA9..[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
+#                                ^ monster     ^
+#                                    ^   npc       ^
+#                                        ^     ai      ^
 
 # pattern for player names to rename.
 # 00 00 00 00 00 58 0C ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
