@@ -21273,13 +21273,13 @@
     "clarity_nt_char_7091": "clarity_nt_char_7091"
   },
   "7092": {
-    "棍装備時の　こうげき魔力が　１０　増えた！": ""
+    "棍装備時の　こうげき魔力が　１０　増えた！": "Magical Might increased by 10 when|equipped with a Rod!"
   },
   "7093": {
-    "ムチ攻撃時　たまに相手が|悪い効果に　かかりやすくなった！": ""
+    "ムチ攻撃時　たまに相手が|悪い効果に　かかりやすくなった！": "It's now easier to inflict status effects|when attacking with a Whip!"
   },
   "7094": {
-    "弓装備時の　かいふく魔力が　１０　増えた！": ""
+    "弓装備時の　かいふく魔力が　１０　増えた！": "Magical Mending increased by 10 when|equipped with a Bow!"
   },
   "7095": {
     "スティック装備時に|４％の確率で　ＭＰを消費しなくなった！": "You now have a 4% chance to not use MP|when equipped with a Wand!"
@@ -21303,25 +21303,25 @@
     "鉄甲斬・改の威力が　あがった！": "Scrap Mettle's power increased!"
   },
   "7102": {
-    "闇のヴェール（専）": "Dark Veil"
+    "闇のヴェール（専）": "Dark Veil (EX)"
   },
   "7103": {
-    "邪炎波（専）": "Evil Wave"
+    "邪炎波（専）": "Evil Wave (EX)"
   },
   "7104": {
     "clarity_nt_char_7104": "clarity_nt_char_7104"
   },
   "7105": {
-    "いてつくはどう（専）": "Disruptive Wave"
+    "いてつくはどう（専）": "Disruptive Wave (EX)"
   },
   "7106": {
     "clarity_nt_char_7106": "clarity_nt_char_7106"
   },
   "7107": {
-    "暗黒連撃（専）": "Dark Barrage"
+    "暗黒連撃（専）": "Dark Barrage (EX)"
   },
   "7108": {
-    "闇の加護（専）": "Dark Gift"
+    "闇の加護（専）": "Dark Gift (EX)"
   },
   "7109": {
     "行動時5%でテンション（専）": "Tension Up After Action +5%"
@@ -21330,10 +21330,10 @@
     "clarity_nt_char_7110": "clarity_nt_char_7110"
   },
   "7111": {
-    "ダークマター（専）": "Dark Matter"
+    "ダークマター（専）": "Dark Matter (EX)"
   },
   "7112": {
-    "波動解放（専）": "Wave Release"
+    "波動解放（専）": "Wave Release (EX)"
   },
   "7113": {
     "錬魔の秘法": "Demonic Method"
@@ -21348,7 +21348,7 @@
     "鎌装備時の　こうげき魔力が　４０　増えた！": "Magical Might increased by 40 when|equipped with a Sickle!"
   },
   "7117": {
-    "鎌装備時に　闇攻撃ダメージが　５％増えた！": "Dark attack damage with a Sickle|equipped increased by 5%!"
+    "鎌装備時に　闇攻撃ダメージが　５％増えた！": "Dark attack damage increased by 5%|with a Sickle equipped!"
   },
   "7118": {
     "鉄甲斬・改の強化": "Scrap Mettle Boost"
@@ -21978,22 +21978,22 @@
     "clarity_nt_char_7326": "clarity_nt_char_7326"
   },
   "7327": {
-    "デスマスター時|こうげき魔力が　２０　増えた！": "Mag. Might increased by 20 as a Death Master!"
+    "デスマスター時|こうげき魔力が　２０　増えた！": "Magical Might increased by 20|as a Death Master!"
   },
   "7328": {
-    "デスマスター時|こうげき魔力が　３０　増えた！": "Mag. Might increased by 30 as a Death Master!"
+    "デスマスター時|こうげき魔力が　３０　増えた！": "Magical Might increased by 30|as a Death Master!"
   },
   "7329": {
-    "デスマスター時|こうげき魔力が　４０　増えた！": "Mag. Might increased by 40 as a Death Master!"
+    "デスマスター時|こうげき魔力が　４０　増えた！": "Magical Might increased by 40|as a Death Master!"
   },
   "7330": {
-    "デスマスター時|かいふく魔力が　２０　増えた！": "Mag. Mending increased by 20 as a Death Master!"
+    "デスマスター時|かいふく魔力が　２０　増えた！": "Magical Mending increased by 20|as a Death Master!"
   },
   "7331": {
-    "デスマスター時|かいふく魔力が　３０　増えた！": "Mag. Mending increased by 30 as a Death Master!"
+    "デスマスター時|かいふく魔力が　３０　増えた！": "Magical Mending increased by 30|as a Death Master!"
   },
   "7332": {
-    "デスマスター時|かいふく魔力が　４０　増えた！": "Mag. Mending increased by 40 as a Death Master!"
+    "デスマスター時|かいふく魔力が　４０　増えた！": "Magical Mending increased by 40|as a Death Master!"
   },
   "7333": {
     "戦士時|みのまもりが|１０増える": "Resilience +10|when you're|a Warrior."
@@ -22896,58 +22896,58 @@
     "煉獄魔斬Ⅲ": "Demon Edge Ⅲ"
   },
   "7633": {
-    "片手剣装備時の　こうげき魔力が　１０　増えた！": ""
+    "片手剣装備時の　こうげき魔力が　１０　増えた！": "Magical Might increased by 10 when|equipped with a Sword!"
   },
   "7634": {
-    "片手剣装備時の　かいふく魔力が　１０　増えた！": ""
+    "片手剣装備時の　かいふく魔力が　１０　増えた！": "Magical Mending increased by 10 when|equipped with a Sword!"
   },
   "7635": {
-    "片手剣装備時の　かいふく魔力が　１５　増えた！": ""
+    "片手剣装備時の　かいふく魔力が　１５　増えた！": "Magical Mending increased by 15 when|equipped with a Sword!"
   },
   "7636": {
-    "片手剣装備時の　こうげき魔力が　１５　増えた！": ""
+    "片手剣装備時の　こうげき魔力が　１５　増えた！": "Magical Might increased by 15 when|equipped with a Sword!"
   },
   "7637": {
-    "片手剣装備時の　チャージ時間が|１０秒　短縮されるようになった！": ""
+    "片手剣装備時の　チャージ時間が|１０秒　短縮されるようになった！": "Charge time reduced by 10 seconds when|equipped with a Sword!"
   },
   "7638": {
     "clarity_nt_char_7638": "clarity_nt_char_7638"
   },
   "7639": {
-    "片手剣装備時の|行動間隔が　わずかに短くなった！": ""
+    "片手剣装備時の|行動間隔が　わずかに短くなった！": "Action interval is shortened when|equipped with a Sword!"
   },
   "7640": {
     "clarity_nt_char_7640": "clarity_nt_char_7640"
   },
   "7641": {
-    "片手剣装備時の　こうげき力が　５０　増えた！": ""
+    "片手剣装備時の　こうげき力が　５０　増えた！": "Attack increased by 50 when equipped|with a Sword!"
   },
   "7642": {
     "clarity_nt_char_7642": "clarity_nt_char_7642"
   },
   "7643": {
-    "棍装備時の　こうげき魔力が　１５　増えた！": ""
+    "棍装備時の　こうげき魔力が　１５　増えた！": "Magical Might increased by 15 when|equipped with a Rod!"
   },
   "7644": {
-    "棍装備時|攻撃タロットの　ダメージ量が増えた！": ""
+    "棍装備時|攻撃タロットの　ダメージ量が増えた！": "Tarot damage is increased when equipped|with a Rod!"
   },
   "7645": {
-    "棍装備時の　こうげき魔力が　２５　増えた！": ""
+    "棍装備時の　こうげき魔力が　２５　増えた！": "Magical Might increased by 25 when|equipped with a Rod!"
   },
   "7646": {
-    "占技・天輪殺の特技を　おぼえた！": ""
+    "占技・天輪殺の特技を　おぼえた！": "You learned Divine Harmony!"
   },
   "7647": {
     "clarity_nt_char_7647": "clarity_nt_char_7647"
   },
   "7648": {
-    "棍装備時の　こうげき力が　５５　増えた！": ""
+    "棍装備時の　こうげき力が　５５　増えた！": "Attack increased by 55 when equipped|with a Rod!"
   },
   "7649": {
     "clarity_nt_char_7649": "clarity_nt_char_7649"
   },
   "7650": {
-    "ムチ攻撃時　たまに相手の|しゅび力を下げられるようになった！": ""
+    "ムチ攻撃時　たまに相手の|しゅび力を下げられるようになった！": "You'll now sometimes lower defense when|attacking with a Whip!"
   },
   "7651": {
     "clarity_nt_char_7651": "clarity_nt_char_7651"
@@ -22959,25 +22959,25 @@
     "clarity_nt_char_7653": "clarity_nt_char_7653"
   },
   "7654": {
-    "ムチ攻撃時　たまに敵の|こうげき力を下げられるようになった！": ""
+    "ムチ攻撃時　たまに敵の|こうげき力を下げられるようになった！": "You'll now sometimes lower attack when|attacking with a Whip!"
   },
   "7655": {
     "clarity_nt_char_7655": "clarity_nt_char_7655"
   },
   "7656": {
-    "ムチ装備時に　月と星の魔法陣の|出現時間が　すこし長くなった！": ""
+    "ムチ装備時に　月と星の魔法陣の|出現時間が　すこし長くなった！": "Sun/Moon circle duration increased slightly|when equipped with a Whip!"
   },
   "7657": {
-    "弓装備時|回復タロットの　効果量が増えた！": ""
+    "弓装備時|回復タロットの　効果量が増えた！": "Recovery Tarot effects increased when|equipped with a Bow!"
   },
   "7658": {
-    "弓装備時の　かいふく魔力が　１５　増えた！": ""
+    "弓装備時の　かいふく魔力が　１５　増えた！": "Magical Mending increased by 15 when|equipped with a Bow!"
   },
   "7659": {
-    "弓装備時の　かいふく魔力が　２５　増えた！": ""
+    "弓装備時の　かいふく魔力が　２５　増えた！": "Magical Mending increased by 25 when|equipped with a Bow!"
   },
   "7660": {
-    "弓装備時の　こうげき力が　４０　増えた！": ""
+    "弓装備時の　こうげき力が　４０　増えた！": "Magical Might increased by 40 when|equipped with a Bow!"
   },
   "7661": {
     "clarity_nt_char_7661": "clarity_nt_char_7661"
@@ -23001,49 +23001,49 @@
     "スティック装備時の|こうげき魔力が　６０　増えた！": "Magical Might increased by 60 when|equipped with a Wand!"
   },
   "7668": {
-    "【160P】占技・天輪殺+6%": ""
+    "【160P】占技・天輪殺+6%": "[160P] Divine Harmony +6%"
   },
   "7669": {
-    "【170P】占技・天輪殺+8%": ""
+    "【170P】占技・天輪殺+8%": "[170P] Divine Harmony +8%"
   },
   "7670": {
-    "【180P】占技・天輪殺+10%": ""
+    "【180P】占技・天輪殺+10%": "[180P] Divine Harmony +10%"
   },
   "7671": {
     "clarity_nt_char_7671": "clarity_nt_char_7671"
   },
   "7672": {
-    "【190P】占技・天輪殺+10%": ""
+    "【190P】占技・天輪殺+10%": "[190P] Divine Harmony +10%"
   },
   "7673": {
     "clarity_nt_char_7673": "clarity_nt_char_7673"
   },
   "7674": {
-    "【200P】占技・天輪殺+10%": ""
+    "【200P】占技・天輪殺+10%": "[200P] Divine Harmony +10%"
   },
   "7675": {
     "clarity_nt_char_7675": "clarity_nt_char_7675"
   },
   "7676": {
-    "占技・天輪殺+6%": ""
+    "占技・天輪殺+6%": "Divine Harmony +6%"
   },
   "7677": {
-    "占技・天輪殺+8%": ""
+    "占技・天輪殺+8%": "Divine Harmony +8%"
   },
   "7678": {
-    "占技・天輪殺+10%": ""
+    "占技・天輪殺+10%": "Divine Harmony +10%"
   },
   "7679": {
     "clarity_nt_char_7679": "clarity_nt_char_7679"
   },
   "7680": {
-    "占技・天輪殺の威力が　あがった！": ""
+    "占技・天輪殺の威力が　あがった！": "Divine Harmony's power increased!"
   },
   "7681": {
     "clarity_nt_char_7681": "clarity_nt_char_7681"
   },
   "7682": {
-    "占技・天輪殺の強化": ""
+    "占技・天輪殺の強化": "Divine Harmony Boost"
   },
   "7683": {
     "死霊覚醒術Ⅰ（専）": "Awaken Spirit Ⅰ (EX)"
