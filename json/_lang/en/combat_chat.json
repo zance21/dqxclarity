@@ -24426,7 +24426,7 @@
     "clarity_nt_char_8142": "clarity_nt_char_8142"
   },
   "8143": {
-    "<%sB_TARGET>は 身を守っている。": ""
+    "<%sB_TARGET>は 身を守っている。": "<%sB_TARGET> is defending."
   },
   "8144": {
     "clarity_nt_char_8144": "clarity_nt_char_8144"
@@ -24660,7 +24660,7 @@
     "clarity_nt_char_8220": "clarity_nt_char_8220"
   },
   "8221": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 身を守っている。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 身を守っている。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e is defending."
   },
   "8222": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは こうげきにそなえ 身を守った。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e braced themselves for an attack."
@@ -24669,7 +24669,7 @@
     "clarity_nt_char_8223": "clarity_nt_char_8223"
   },
   "8224": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 身を守った。": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは やいばのぼうぎょで 身を守った。": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e defended with Pincushion."
   },
   "8225": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージが 少なくなった！": ""
@@ -24705,7 +24705,7 @@
     "clarity_nt_char_8235": "clarity_nt_char_8235"
   },
   "8236": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ボディーガードが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e A bodyguard has rolled up!"
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eに ボディーガードが あらわれた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's bodyguard showed up!"
   },
   "8237": {
     "clarity_nt_char_8237": "clarity_nt_char_8237"
