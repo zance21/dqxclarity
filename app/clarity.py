@@ -227,6 +227,9 @@ def scan_for_npc_names():
     Continuously scans the DQXGame process for known addresses
     that are related to a specific pattern to translate names.
     '''
+    
+    kks = pykakasi.kakasi()
+    
     npc_data = read_json_file('json/_lang/en/npc_names.json')
     monster_data = read_json_file('json/_lang/en/monsters.json')
 
