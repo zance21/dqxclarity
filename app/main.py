@@ -13,6 +13,7 @@ from clarity import (translate,
     get_latest_from_weblate,
     check_for_updates,
     scan_for_player_names,
+    scan_for_menu_ai_names
     scan_for_npc_names,
     scan_for_adhoc_files,
     scan_for_walkthrough
@@ -68,6 +69,7 @@ def blast_off(update_weblate=False,
             Process(name='Walkthrough scanner', target=scan_for_walkthrough, args=()).start()
         if player_names:
             Process(name='Player name scanner', target=scan_for_player_names, args=()).start()
+            Process(name='Player name scanner 2', target=scan_for_menu_ai_names, args=()).start()
         if npc_names:
             Process(name='NPC scanner', target=scan_for_npc_names, args=()).start()
         Process(name='Adhoc scanner', target=scan_for_adhoc_files, args=()).start()

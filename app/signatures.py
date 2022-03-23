@@ -84,7 +84,11 @@ npc_monster_byte_pattern = rb'[\x58\x78\xC0][\xA7\xB9\xA9]......\xFC\xA9..[\xE3\
 # pattern for player names to rename.
 # 00 00 00 00 00 58 0C ?? 01 ?? ?? ?? ?? ?? ?? ?? 01 E?
 player_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x58\x0C.\x01.......\x01[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'
-#                                                   
+#
+
+# pattern for menu ai to rename.
+# 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? 1B ?? ?? ?? 00 00 00 ?? 00 00 00 00 00 ?? 00 E?
+menu_ai_name_byte_pattern = rb'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00.\x1B...\x00\x00\x00.\x00\x00\x00\x00\x00.\x00[\xE3\xE4\xE5\xE6\xE7\xE8\xE9]'                                                   
 
 # Main walkthrough text that loads on login. I can't figure out what function loads this on login,
 # so scanning for this for now. AC is also preventing this from just being accessible via hooks.

@@ -41,6 +41,7 @@ from signatures import (
     index_pattern,
     foot_pattern,
     npc_monster_byte_pattern,
+    menu_ai_name_byte_pattern,
     player_name_byte_pattern,
     walkthrough_pattern
 )
@@ -313,6 +314,38 @@ def scan_for_player_names():
 
                 romaji_name = kks.convert(ja_player_name)[0]['hepburn'].capitalize()
                 write_bytes(player_name_address, b'\x04' + romaji_name.encode('utf-8') + b'\x00')
+                
+            time.sleep(.01)
+        except TypeError:
+            logger.warning('Cannot find DQX process. Must have closed? Exiting.')
+            sys.exit()
+        
+    
+    
+def scan_for_menu_ai_names():
+    '''
+    Continuously scans the DQXGame process for known addresses
+    that are related to a specific pattern to translate player names.
+    '''
+    kks = pykakasi.kakasi()
+
+    logger.info('Starting menu ai name scanning.')
+
+    while True:
+        try:
+            name_list = pattern_scan(pattern=menu_ai_name_byte_pattern, return_multiple=True)
+            if name_list == []:
+                continue
+
+            for address in name_list:
+                ai_name_address = address + 56
+                try:
+                    ja_ai_name = read_string(ai_name_address)
+                except UnicodeDecodeError:
+                    continue
+
+                romaji_ai_name = kks.convert(ja_ai_name)[0]['hepburn'].capitalize()
+                write_bytes(ai_name_address, romaji_ai_name.encode('utf-8') + b'\x00')
                 
             time.sleep(.01)
         except TypeError:
