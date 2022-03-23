@@ -13,7 +13,7 @@ from clarity import (translate,
     get_latest_from_weblate,
     check_for_updates,
     scan_for_player_names,
-    scan_for_menu_ai_names
+    scan_for_menu_ai_names,
     scan_for_npc_names,
     scan_for_adhoc_files,
     scan_for_walkthrough
@@ -23,6 +23,8 @@ from hook import activate_hooks
 @click.command()
 @click.option('-v', '--debug', is_flag=True,
                 help='''Turns on additional logging to console.''')
+@click.option('-s', '--cutscenes', is_flag=True,
+                help='''Translates cutscenes.''')
 @click.option('-w', '--update-weblate', is_flag=True,
                 help='''Grabs the latest files from the weblate branch and then translates.''')
 @click.option('-c', '--communication-window', is_flag=True,

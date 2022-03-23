@@ -356,7 +356,14 @@ def scan_for_adhoc_files():
     '''
     Scans for specific adhoc files that have yet to have a hook written for them.
     '''
+    cutscenes = False
+    
     logger.info('Starting adhoc file scanning.')
+    
+    with open('defaults.pref') as f:
+        if 's' in f.read():
+            cutscenes = True
+            logger.info('Cutscene translations enabled.')
 
     while True:
         try:
@@ -385,7 +392,7 @@ def scan_for_adhoc_files():
                                     write_bytes(text_address, hex_to_write)
                                     write_bytes(index_address - 2, b'\x69')  # our mark that we wrote here so we don't write again. nice.
                                     logger.debug(f'Wrote {file} @ {hex(index_address)}')
-                        elif 'adhoc_cs_' in file:
+                        elif ('adhoc_cs_' in file) and (cutscenes == True):
                             hex_to_write = bytes.fromhex(generate_hex(file))
                             text_address = get_start_of_game_text(index_address)
                             if text_address:
