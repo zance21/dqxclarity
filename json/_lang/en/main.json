@@ -4200,7 +4200,7 @@
     "かくとくアイテム：": "Items Dropped:"
   },
   "1401": {
-    "倒した数：": "Kills:"
+    "倒した数：": "Slain:"
   },
   "1402": {
     "まめちしき": "Trivia"
@@ -30999,13 +30999,13 @@
     "<%sM_dek> <%sM_dekName>": ""
   },
   "10334": {
-    "<%sM_dek> デッキを上書き": ""
+    "<%sM_dek> デッキを上書き": "<%sM_dek> Copy Here"
   },
   "10335": {
-    "<%sM_dek> <%sM_dekName>のタロット数": ""
+    "<%sM_dek> <%sM_dekName>のタロット数": "<%sM_dek> <%sM_dekName>'s Size"
   },
   "10336": {
-    "<%sM_dek> <%sM_dekName>を選択中": ""
+    "<%sM_dek> <%sM_dekName>を選択中": "<%sM_dek> <%sM_dekName> Selected"
   },
   "10337": {
     "まだ　なぞが解明されていません": ""
@@ -31227,7 +31227,7 @@
     "レプリカ庭具を配置": "Place Replicas"
   },
   "10410": {
-    "収納": ""
+    "収納": "Crop"
   },
   "10411": {
     "clarity_nt_char_10411": "clarity_nt_char_10411"
@@ -31362,7 +31362,7 @@
     "最終更新時間 <tm%dM_TIME>月<td%dM_TIME>日<th%2dM_TIME>:<ti%02dM_TIME>": "Last Updated <tm%dM_TIME>/<td%dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
   },
   "10455": {
-    "の町": ""
+    "の町": " Home"
   },
   "10456": {
     "clarity_nt_char_10456": "clarity_nt_char_10456"
@@ -31542,7 +31542,7 @@
     "clarity_nt_char_10514": "clarity_nt_char_10514"
   },
   "10515": {
-    "レベル上限": ""
+    "レベル上限": "Level Limit"
   },
   "10516": {
     "成長に必要な素材": "Materials Needed"
@@ -31584,13 +31584,13 @@
     "clarity_nt_char_10528": "clarity_nt_char_10528"
   },
   "10529": {
-    "広場": ""
+    "広場": "Plaza"
   },
   "10530": {
     "clarity_nt_char_10530": "clarity_nt_char_10530"
   },
   "10531": {
-    "装飾": ""
+    "装飾": "Decor"
   },
   "10532": {
     "clarity_nt_char_10532": "clarity_nt_char_10532"
