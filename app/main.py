@@ -42,6 +42,7 @@ from hook import activate_hooks
 def blast_off(update_weblate=False,
             disable_update_check=False,
             communication_window=False,
+            cutscenes=False,
             player_names=False,
             npc_names=False,
             debug=False
