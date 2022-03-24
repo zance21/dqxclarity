@@ -9,7 +9,7 @@
     "「だまれ！　誰に向かって　クチをきいている！！": "Silence! Who do you think you're talking to?"
   },
   "4": {
-    "「ほほう　なるほど……。": "Ho-ho, I see..."
+    "「ほほう　なるほど……。": "Hoho, I see..."
   },
   "5": {
     "「…………ほう？": "...Oh?"
@@ -87,7 +87,7 @@
     "「時間がない。率直に言おう。|　バグド王の様子が　おかしいのは|　悪しき瘴気　魔瘴に侵されているからじゃ。": "Time is of the essence. I will be frank.|The reason King Bagudo is acting strangely is|because he is affected by the Demon Miasma."
   },
   "30": {
-    "「わしや　お前に　あれほど|　はげしい嫌悪を示したのは　わしらの中の|　聖なるチカラに　感づいたためじゃろう。": "The reason why he took such a violent dislike|to you and me was because he sensed in us a|divine power."
+    "「わしや　お前に　あれほど|　はげしい嫌悪を示したのは　わしらの中の|　聖なるチカラに　感づいたためじゃろう。": "He took such an intense dislike to you and I|because he sensed a divine power in us."
   },
   "31": {
     "「魔瘴のことは　知っておるな？|　あの　まがまがしき悪魔の霧のことじゃ。": "You know of the Demon Miasma, don't you?|That abominable dark mist."
@@ -159,7 +159,7 @@
     "「王を治すだなんて　さすが　エイドスさま！|　やっぱり　ステキ……。": "As expected, Eidos is going to cure the king!|He really is amazing..."
   },
   "54": {
-    "「きゃ～　いや～～ん！": "Kyaa～, nooooooooooo～～!"
+    "「きゃ～　いや～～ん！": "Kyaa～! What am I saying～～?"
   },
   "55": {
     "<cs_pchero>は|グロリスのしずく（だいじなもの）を|手に入れた！<me_60>": "<cs_pchero>|obtained the Droplet of Gloris (Key Item)!<me_60>"
@@ -174,7 +174,7 @@
     "「さあ　そのグロリスのしずくを　私に。": "Now, hand me the Droplet of Gloris."
   },
   "59": {
-    "「<pc>さん　ありがとうございました！|　王に　これを飲ませるのは　私たちの役目です。|　どうか　そこで見ていてください。": "You have my thanks, <pc>!|It's our responsibility to make the king drink|this. Please stay here and watch."
+    "「<pc>さん　ありがとうございました！|　王に　これを飲ませるのは　私たちの役目です。|　どうか　そこで見ていてください。": "You have my thanks, <pc>!|It's our responsibility to make the king drink|this. Please stay back and watch."
   },
   "60": {
     "「ぐっ……　うう……。": "Guh... Ughh..."
@@ -204,7 +204,7 @@
     "「ない！　ネックレスが……|　誰か　われのネックレスを　知らぬか？": "It's not here! My necklace... Does anyone|know where my necklace is?"
   },
   "69": {
-    "「おそれながら　ご報告させていただきます。|　王は　あのネックレスの呪いで|　死のふちを　さまよわれたのです。": "I'm sorry to be the bearer of bad news.|That necklace's curse is the very thing that|brought you to the verge of death, my king."
+    "「おそれながら　ご報告させていただきます。|　王は　あのネックレスの呪いで|　死のふちを　さまよわれたのです。": "I'm sorry to be the bearer of bad news.|That necklace's curse is the very thing that|brought you to the brink of death, my king."
   },
   "70": {
     "「バカな！　あのネックレスは|　ガートラント城からの　友好の証として|　贈られた品に　入っていたのだぞ？": "Nonsense! That necklace was part of a gift|from Gartlant Castle as a token of friendship,|wasn't it?"
@@ -213,7 +213,7 @@
     "「友好の証と見せかけて　呪いの品を送るなど|　そのような姑息なまねを|　ガートラントが　するはずがない！": "There's no way Gartlant would be so cutthroat|as to send a cursed item under the guise of|friendship!"
   },
   "72": {
-    "「神父や僧侶にも　なすすべなく|　ただ　弱っていく王を　見守ることしか|　できなかった　ある日……": "One day, when the priests could do nothing but|watch as the king's state deteriorated..."
+    "「神父や僧侶にも　なすすべなく|　ただ　弱っていく王を　見守ることしか|　できなかった　ある日……": "One day, when the priests could do nothing but|watch as your state deteriorated..."
   },
   "73": {
     "「これは　魔瘴石のネックレスだ。|　あやうく　王は死ぬところだったと|　マリーンは　言いました。": "This is a necklace of Miasma Stone.|Malynn said that you almost died."
@@ -300,7 +300,7 @@
     "「こんな所で会うとは　奇遇じゃの。": "What a coincidence to meet you here..."
   },
   "101": {
-    "「ふむ……　先ほど　感じたとおり|　お前は　生き返しを受けた者じゃな。": "Hmm... As I sensed earlier, you're someone|who's been brought back to life."
+    "「ふむ……　先ほど　感じたとおり|　お前は　生き返しを受けた者じゃな。": "Hmm... As I sensed earlier, you've been|brought back to life, haven't you?"
   },
   "102": {
     "「たいへん　申し訳ございませんでした。|　どうか　お許しください　エイドスさま。": "This situation is completely inexcusable.|Please forgive me, Sage Eidos."
@@ -369,7 +369,7 @@
     "「なにっ！？": "What?!"
   },
   "124": {
-    "「ええ。私も　そう思います。|　おそらくは　ガートラント以外の何者かが|　王の　お命を狙ったのでしょう。": "Yeah. I thought so, too. Perhaps someone|unaffiliated with Gartlant wanted the king|dead."
+    "「ええ。私も　そう思います。|　おそらくは　ガートラント以外の何者かが|　王の　お命を狙ったのでしょう。": "Yes. I thought so too.|Perhaps someone unaffiliated with Gartlant|wanted the king dead."
   },
   "125": {
     "「……あの　忌まわしいネックレスは|　王の首から　決して離れず|　あやしい光を　たたえ続けていました。": "...That abominable necklace never left your|neck and continually casted a sinister light|upon you."
@@ -390,7 +390,7 @@
     "「マリーンどのだけではありません。": "It's not just Malynn."
   },
   "131": {
-    "「王を　頭痛から解き放つため|　グロリスのしずくを　手に入れてくれたのが|　ここにいる　<pc>さん……": "Here's <pc>, the person who got|the Droplet of Gloris to free the king from|his headache..."
+    "「王を　頭痛から解き放つため|　グロリスのしずくを　手に入れてくれたのが|　ここにいる　<pc>さん……": "This person here is <pc>, who got|the Droplet of Gloris to free the king from|his headache..."
   },
   "132": {
     "「そして　この<pc>さんに|　王を治すための知恵を　授けたのは|　あのエイドスさまなのです。": "Furthermore, Sage Eidos was the one who gave|<pc> the knowledge required to|heal you."
@@ -420,7 +420,7 @@
     "「かしこまりました！": "Yes, sir!"
   },
   "141": {
-    "「そして　何より……|　オーガ同士に　取り返しのつかない|　憎しみ合いを　させずにすんで……。": "Most importantly of all...|you saved the ogres from pursuing an|irrevocable hatred..."
+    "「そして　何より……|　オーガ同士に　取り返しのつかない|　憎しみ合いを　させずにすんで……。": "And most importantly of all...|you saved the ogres from pursuing an|irrevocable hatred..."
   },
   "142": {
     "「オォォォォ……　誰だ？|　われから　聖杯を　うばわんとする者は！？": "Ooooooooooooohhhhh... Who's there?|Who dares steal the Chalice from me?"
