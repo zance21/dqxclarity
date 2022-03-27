@@ -16968,16 +16968,16 @@
     "clarity_nt_char_5656": "clarity_nt_char_5656"
   },
   "5657": {
-    "旅芸人時|呪文の威力と|回復が５増える": "Spell/Skill|Recovery +5 as a|Minstrel."
+    "旅芸人時|呪文の威力と|回復が５増える": "Spell Power/|Recovery +5 as a|Minstrel."
   },
   "5658": {
-    "旅芸人時|呪文の威力と|回復が１０増える": "Spell/Skill|Recovery +10 as a|Minstrel."
+    "旅芸人時|呪文の威力と|回復が１０増える": "Spell Power/|Recovery +10 as a|Minstrel."
   },
   "5659": {
     "clarity_nt_char_5659": "clarity_nt_char_5659"
   },
   "5660": {
-    "旅芸人時|呪文の威力と|回復が２０増える": "Spell/Skill|Recovery +20 as a|Minstrel."
+    "旅芸人時|呪文の威力と|回復が２０増える": "Spell Power/|Recovery +20 as a|Minstrel."
   },
   "5661": {
     "clarity_nt_char_5661": "clarity_nt_char_5661"
@@ -17400,16 +17400,16 @@
     "仲間のダメージを|大きくいやす雨|賢者専用特技": "Rain that greatly|heals damage|allies take."
   },
   "5801": {
-    "賢者時|呪文の威力と|回復が５増える": "Spell/Skill|Recovery +5 as a|Sage."
+    "賢者時|呪文の威力と|回復が５増える": "Spell Power/|Recovery +5 as a|Sage."
   },
   "5802": {
     "clarity_nt_char_5802": "clarity_nt_char_5802"
   },
   "5803": {
-    "賢者時|呪文の威力と|回復が１０増える": "Spell/Skill|Recovery +10 as a|Sage."
+    "賢者時|呪文の威力と|回復が１０増える": "Spell Power/|Recovery +10 as a|Sage."
   },
   "5804": {
-    "賢者時|呪文の威力と|回復が２０増える": "Spell/Skill|Recovery +20 as a|Sage."
+    "賢者時|呪文の威力と|回復が２０増える": "Spell Power/|Recovery +20 as a|Sage."
   },
   "5805": {
     "賢者時|呪文ぼうそう率が|０．５％増える": "Haywire Rate|+0.5% when you're|a Sage."
@@ -17505,16 +17505,16 @@
     "スパスタ時|特技の会心率が|１．２％増える": "Skill Crit. Rate|+1.2% when you're|a Superstar."
   },
   "5836": {
-    "スパスタ時|呪文の威力と|回復が５増える": "Spell/Skill|Recovery +5 as a|Superstar."
+    "スパスタ時|呪文の威力と|回復が５増える": "Spell Power/|Recovery +5 as a|Superstar."
   },
   "5837": {
     "clarity_nt_char_5837": "clarity_nt_char_5837"
   },
   "5838": {
-    "スパスタ時|呪文の威力と|回復が１０増える": "Spell/Skill|Recovery +10 as a|Superstar."
+    "スパスタ時|呪文の威力と|回復が１０増える": "Spell Power/|Recovery +10 as a|Superstar."
   },
   "5839": {
-    "スパスタ時|呪文の威力と|回復が２０増える": "Spell/Skill|Recovery +20 as a|Superstar."
+    "スパスタ時|呪文の威力と|回復が２０増える": "Spell Power/|Recovery +20 as a|Superstar."
   },
   "5840": {
     "スパスタ時|受けるダメージを|３減らす": "Damage Taken -3|when you're a|Superstar."
@@ -19299,7 +19299,7 @@
     "clarity_nt_char_6433": "clarity_nt_char_6433"
   },
   "6434": {
-    "呪文の威力と回復強化": "Spell/Skill Recovery Boost"
+    "呪文の威力と回復強化": "Spell Power/Recovery Boost"
   },
   "6435": {
     "clarity_nt_char_6435": "clarity_nt_char_6435"
@@ -19902,10 +19902,10 @@
     "【200P】特技の回復量+20": "[200P] Skill Recovery +20"
   },
   "6635": {
-    "【190P】呪文の威力と回復+20": "[190P] Spell/Skill Recovery +20"
+    "【190P】呪文の威力と回復+20": "[190P] Spell Power/Recovery +20"
   },
   "6636": {
-    "【200P】呪文の威力と回復+20": "[200P] Spell/Skill Recovery +20"
+    "【200P】呪文の威力と回復+20": "[200P] Spell Power/Recovery +20"
   },
   "6637": {
     "古今無双Ⅰ": "Kokon Musou Ⅰ"
@@ -24327,7 +24327,7 @@
     "散弾ショット（専）": "Buckshot (EX)"
   },
   "8110": {
-    "銃撃時2%でターン無し（専）": "2% Free Turn On Shoot (EX)"
+    "銃撃時2%でターン無し（専）": "Free Turn On Shoot 2% (EX)"
   },
   "8111": {
     "clarity_nt_char_8111": "clarity_nt_char_8111"
@@ -24336,7 +24336,7 @@
     "砲撃ブースト（専）": "Ballistic Boost (EX)"
   },
   "8113": {
-    "銃撃時5%でテンション（専）": "5% Tension On Shoot (EX)"
+    "銃撃時5%でテンション（専）": "Tension On Shoot 5% (EX)"
   },
   "8114": {
     "clarity_nt_char_8114": "clarity_nt_char_8114"
@@ -24426,25 +24426,25 @@
     "メイルストロムの呪文を おぼえた！": "You learned Maelstrom!"
   },
   "8143": {
-    "【160P】特技のダメージ+10": ""
+    "【160P】特技のダメージ+10": "[160P] Skill Damage +10"
   },
   "8144": {
     "clarity_nt_char_8144": "clarity_nt_char_8144"
   },
   "8145": {
-    "【170P】特技のダメージ+20": ""
+    "【170P】特技のダメージ+20": "[170P] Skill Damage +20"
   },
   "8146": {
     "clarity_nt_char_8146": "clarity_nt_char_8146"
   },
   "8147": {
-    "【180P】特技のダメージ+30": ""
+    "【180P】特技のダメージ+30": "[180P] Skill Damage +30"
   },
   "8148": {
     "clarity_nt_char_8148": "clarity_nt_char_8148"
   },
   "8149": {
-    "レミラーマの呪文を おぼえた！": ""
+    "レミラーマの呪文を おぼえた！": "You learned Snoop!"
   },
   "8150": {
     "バギムーチョの呪文を おぼえた！": "You learned Kaswooshle!"

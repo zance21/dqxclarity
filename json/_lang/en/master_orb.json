@@ -1815,37 +1815,37 @@
     "clarity_nt_char_605": "clarity_nt_char_605"
   },
   "606": {
-    "ギガスラッシュの真髄": ""
+    "ギガスラッシュの真髄": "Essence of Gigaslash"
   },
   "607": {
     "clarity_nt_char_607": "clarity_nt_char_607"
   },
   "608": {
-    "ギガブレイクの真髄": ""
+    "ギガブレイクの真髄": "Essence of Gigagash"
   },
   "609": {
-    "復讐の攻撃呪文威力アップ": ""
+    "復讐の攻撃呪文威力アップ": "Attack/Spell Up Revenge"
   },
   "610": {
     "clarity_nt_char_610": "clarity_nt_char_610"
   },
   "611": {
-    "ベギラゴンの瞬き": ""
+    "ベギラゴンの瞬き": "Blink of Kasizz"
   },
   "612": {
     "clarity_nt_char_612": "clarity_nt_char_612"
   },
   "613": {
-    "ギラグレイドの瞬き": ""
+    "ギラグレイドの瞬き": "Blink of Kasizzle"
   },
   "614": {
-    "マダンテの瞬き": ""
+    "マダンテの瞬き": "Blink of Magic Burst"
   },
   "615": {
-    "占技・天輪殺の極意": ""
+    "占技・天輪殺の極意": "Secret of Divine Harmony"
   },
   "616": {
-    "占技・天輪殺の真髄": ""
+    "占技・天輪殺の真髄": "Divine Harmony Essence"
   },
   "617": {
     "テンション時ダメージ+20": "Damage During Tension +20"
@@ -13683,19 +13683,19 @@
     "真・やいばくだき成功率+30%": "True Attack Attacker Success +30%"
   },
   "4562": {
-    "おはらいの発動速度+10%": "Benediction Activation +10%"
+    "おはらいの発動速度+10%": "Benediction Speed +10%"
   },
   "4563": {
-    "おはらいの発動速度+15%": "Benediction Activation +15%"
+    "おはらいの発動速度+15%": "Benediction Speed +15%"
   },
   "4564": {
-    "おはらいの発動速度+20%": "Benediction Activation +20%"
+    "おはらいの発動速度+20%": "Benediction Speed +20%"
   },
   "4565": {
-    "おはらいの発動速度+25%": "Benediction Activation +25%"
+    "おはらいの発動速度+25%": "Benediction Speed +25%"
   },
   "4566": {
-    "おはらいの発動速度+30%": "Benediction Activation +30%"
+    "おはらいの発動速度+30%": "Benediction Speed +30%"
   },
   "4567": {
     "マホトラのころも効果+10秒": "Magic Cloak Time +10s"
@@ -13728,31 +13728,31 @@
     "clarity_nt_char_4576": "clarity_nt_char_4576"
   },
   "4577": {
-    "聖女の守りの発動速度+10%": "Alma Mater Action Speed +10%"
+    "聖女の守りの発動速度+10%": "Alma Mater Speed +10%"
   },
   "4578": {
     "clarity_nt_char_4578": "clarity_nt_char_4578"
   },
   "4579": {
-    "聖女の守りの発動速度+15%": "Alma Mater Action Speed +15%"
+    "聖女の守りの発動速度+15%": "Alma Mater Speed +15%"
   },
   "4580": {
     "clarity_nt_char_4580": "clarity_nt_char_4580"
   },
   "4581": {
-    "聖女の守りの発動速度+20%": "Alma Mater Action Speed +20%"
+    "聖女の守りの発動速度+20%": "Alma Mater Speed +20%"
   },
   "4582": {
     "clarity_nt_char_4582": "clarity_nt_char_4582"
   },
   "4583": {
-    "聖女の守りの発動速度+25%": "Alma Mater Action Speed +25%"
+    "聖女の守りの発動速度+25%": "Alma Mater Speed +25%"
   },
   "4584": {
     "clarity_nt_char_4584": "clarity_nt_char_4584"
   },
   "4585": {
-    "聖女の守りの発動速度+30%": "Alma Mater Action Speed +30%"
+    "聖女の守りの発動速度+30%": "Alma Mater Speed +30%"
   },
   "4586": {
     "clarity_nt_char_4586": "clarity_nt_char_4586"
@@ -20975,7 +20975,7 @@
   "6992": {
     "メイルストロムの詠唱速度+9%": "Maelstrom Cast Speed +9%"
   },
-  "6993": {
+  "6993": { 
     "メイルストロムの詠唱速度+12%": "Maelstrom Cast Speed +12%"
   },
   "6994": {
@@ -20994,13 +20994,13 @@
     "clarity_nt_char_6998": "clarity_nt_char_6998"
   },
   "6999": {
-    "テンション時のデュアルカッターの|ダメージが２０増える（ブーメラン専用）": "Twomerang damage during tension is|increased by 20. (Boomerang Only)"
+    "テンション時のデュアルカッターの|ダメージが２０増える（ブーメラン専用）": "Damage of Twomerang during tension is|increased by 20. (Boomerang Only)"
   },
   "7000": {
     "clarity_nt_char_7000": "clarity_nt_char_7000"
   },
   "7001": {
-    "テンション時のデュアルブレイカーの|ダメージが５０増える（ブーメラン専用）": "Double Down damage during tension is|increased by 50. (Boomerang Only)"
+    "テンション時のデュアルブレイカーの|ダメージが５０増える（ブーメラン専用）": "Damage of Double Down during tension is|increased by 50. (Boomerang Only)"
   },
   "7002": {
     "黒炎帝の斬撃のダメージが１％増える|（魔剣士専用）": "Blackfire Slash damage is increased|by 1%. (DMN Only)"
@@ -21036,225 +21036,225 @@
     "clarity_nt_char_7012": "clarity_nt_char_7012"
   },
   "7013": {
-    "占技・天輪殺の威力+4%": ""
+    "占技・天輪殺の威力+4%": "Divine Harmony Power +4%"
   },
   "7014": {
     "clarity_nt_char_7014": "clarity_nt_char_7014"
   },
   "7015": {
-    "味方死亡時３％攻撃呪文威力アップ": ""
+    "味方死亡時３％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 3%"
   },
   "7016": {
     "clarity_nt_char_7016": "clarity_nt_char_7016"
   },
   "7017": {
-    "味方死亡時６％攻撃呪文威力アップ": ""
+    "味方死亡時６％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 6%"
   },
   "7018": {
     "clarity_nt_char_7018": "clarity_nt_char_7018"
   },
   "7019": {
-    "味方死亡時９％攻撃呪文威力アップ": ""
+    "味方死亡時９％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 9%"
   },
   "7020": {
     "clarity_nt_char_7020": "clarity_nt_char_7020"
   },
   "7021": {
-    "味方死亡時１２％攻撃呪文威力アップ": ""
+    "味方死亡時１２％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 12%"
   },
   "7022": {
-    "味方死亡時１５％攻撃呪文威力アップ": ""
+    "味方死亡時１５％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 15%"
   },
   "7023": {
-    "味方死亡時１８％攻撃呪文威力アップ": ""
+    "味方死亡時１８％攻撃呪文威力アップ": "Atk/Spl Up If Ally Dies 18%"
   },
   "7024": {
-    "テンション時のギガスラッシュの|ダメージが２０増える（片手剣専用）": ""
+    "テンション時のギガスラッシュの|ダメージが２０増える（片手剣専用）": "Damage of Gigaslash during tension|increased by 20. (Sword Only)"
   },
   "7025": {
-    "テンション時のギガブレイクの|ダメージが５０増える（片手剣専用）": ""
+    "テンション時のギガブレイクの|ダメージが５０増える（片手剣専用）": "Damage of Gigagash during tension|increased by 50. (Sword Only)"
   },
   "7026": {
     "clarity_nt_char_7026": "clarity_nt_char_7026"
   },
   "7027": {
-    "味方死亡時３％の確率で|自分に攻撃呪文威力アップがかかる": ""
+    "味方死亡時３％の確率で|自分に攻撃呪文威力アップがかかる": "3% chance to gain attack/spell up when|one of your party members die."
   },
   "7028": {
     "clarity_nt_char_7028": "clarity_nt_char_7028"
   },
   "7029": {
-    "味方死亡時6%呪文威力アップ": ""
+    "味方死亡時6%呪文威力アップ": "Spell Up If Ally Dies 6%"
   },
   "7030": {
     "clarity_nt_char_7030": "clarity_nt_char_7030"
   },
   "7031": {
-    "味方死亡時9%呪文威力アップ": ""
+    "味方死亡時9%呪文威力アップ": "Spell Up If Ally Dies 9%"
   },
   "7032": {
     "clarity_nt_char_7032": "clarity_nt_char_7032"
   },
   "7033": {
-    "味方死亡時12%呪文威力アップ": ""
+    "味方死亡時12%呪文威力アップ": "Spell Up If Ally Dies 12%"
   },
   "7034": {
-    "味方死亡時15%呪文威力アップ": ""
+    "味方死亡時15%呪文威力アップ": "Spell Up If Ally Dies 15%"
   },
   "7035": {
-    "味方死亡時18%呪文威力アップ": ""
+    "味方死亡時18%呪文威力アップ": "Spell Up If Ally Dies 18%"
   },
   "7036": {
-    "イオマータの瞬き": ""
+    "イオマータの瞬き": "Blink of Kablam"
   },
   "7037": {
     "clarity_nt_char_7037": "clarity_nt_char_7037"
   },
   "7038": {
-    "イオマータの詠唱速度+2%": ""
+    "イオマータの詠唱速度+2%": "Kablam Speed +2%"
   },
   "7039": {
-    "ベギラゴンの詠唱速度+2%": ""
+    "ベギラゴンの詠唱速度+2%": "Kasizz Speed +2%"
   },
   "7040": {
-    "ギラグレイドの詠唱速度+3%": ""
+    "ギラグレイドの詠唱速度+3%": "Kasizzle Speed +2%"
   },
   "7041": {
     "clarity_nt_char_7041": "clarity_nt_char_7041"
   },
   "7042": {
-    "マダンテの詠唱速度+3%": ""
+    "マダンテの詠唱速度+3%": "Magic Burst Speed +3%"
   },
   "7043": {
     "clarity_nt_char_7043": "clarity_nt_char_7043"
   },
   "7044": {
-    "イオマータの詠唱速度が２％アップする": ""
+    "イオマータの詠唱速度が２％アップする": "Kablam cast speed increased by 2%."
   },
   "7045": {
     "clarity_nt_char_7045": "clarity_nt_char_7045"
   },
   "7046": {
-    "ベギラゴンの詠唱速度が２％アップする": ""
+    "ベギラゴンの詠唱速度が２％アップする": "Kasizz cast speed increased by 2%."
   },
   "7047": {
     "clarity_nt_char_7047": "clarity_nt_char_7047"
   },
   "7048": {
-    "ギラグレイドの詠唱速度が３％アップする": ""
+    "ギラグレイドの詠唱速度が３％アップする": "Kasizzle cast speed increased by 3%."
   },
   "7049": {
-    "マダンテの詠唱速度が３％アップする": ""
+    "マダンテの詠唱速度が３％アップする": "Magic Burst cast speed increased by 3%."
   },
   "7050": {
-    "イオマータの詠唱速度+4%": ""
+    "イオマータの詠唱速度+4%": "Kablam Speed +4%"
   },
   "7051": {
-    "イオマータの詠唱速度+6%": ""
+    "イオマータの詠唱速度+6%": "Kablam Speed +6%"
   },
   "7052": {
-    "イオマータの詠唱速度+8%": ""
+    "イオマータの詠唱速度+8%": "Kablam Speed +8%"
   },
   "7053": {
-    "イオマータの詠唱速度+10%": ""
+    "イオマータの詠唱速度+10%": "Kablam Speed +10%"
   },
   "7054": {
     "clarity_nt_char_7054": "clarity_nt_char_7054"
   },
   "7055": {
-    "イオマータの詠唱速度+12%": ""
+    "イオマータの詠唱速度+12%": "Kablam Speed +12%"
   },
   "7056": {
     "clarity_nt_char_7056": "clarity_nt_char_7056"
   },
   "7057": {
-    "ベギラゴンの詠唱速度+4%": ""
+    "ベギラゴンの詠唱速度+4%": "Kasizz Speed +4%"
   },
   "7058": {
-    "ベギラゴンの詠唱速度+6%": ""
+    "ベギラゴンの詠唱速度+6%": "Kasizz Speed +6%"
   },
   "7059": {
-    "ベギラゴンの詠唱速度+8%": ""
+    "ベギラゴンの詠唱速度+8%": "Kasizz Speed +8%"
   },
   "7060": {
-    "ベギラゴンの詠唱速度+10%": ""
+    "ベギラゴンの詠唱速度+10%": "Kasizz Speed +10%"
   },
   "7061": {
     "clarity_nt_char_7061": "clarity_nt_char_7061"
   },
   "7062": {
-    "ベギラゴンの詠唱速度+12%": ""
+    "ベギラゴンの詠唱速度+12%": "Kasizz Speed +12%"
   },
   "7063": {
     "clarity_nt_char_7063": "clarity_nt_char_7063"
   },
   "7064": {
-    "ギラグレイドの詠唱速度+6%": ""
+    "ギラグレイドの詠唱速度+6%": "Kasizzle Speed +6%"
   },
   "7065": {
     "clarity_nt_char_7065": "clarity_nt_char_7065"
   },
   "7066": {
-    "ギラグレイドの詠唱速度+9%": ""
+    "ギラグレイドの詠唱速度+9%": "Kasizzle Speed +9%"
   },
   "7067": {
     "clarity_nt_char_7067": "clarity_nt_char_7067"
   },
   "7068": {
-    "ギラグレイドの詠唱速度+12%": ""
+    "ギラグレイドの詠唱速度+12%": "Kasizzle Speed +12%"
   },
   "7069": {
-    "ギラグレイドの詠唱速度+15%": ""
+    "ギラグレイドの詠唱速度+15%": "Kasizzle Speed +15%"
   },
   "7070": {
-    "ギラグレイドの詠唱速度+18%": ""
+    "ギラグレイドの詠唱速度+18%": "Kasizzle Speed +18%"
   },
   "7071": {
-    "マダンテの詠唱速度+6%": ""
+    "マダンテの詠唱速度+6%": "Magic Burst Speed +6%"
   },
   "7072": {
     "clarity_nt_char_7072": "clarity_nt_char_7072"
   },
   "7073": {
-    "マダンテの詠唱速度+9%": ""
+    "マダンテの詠唱速度+9%": "Magic Burst Speed +9%"
   },
   "7074": {
     "clarity_nt_char_7074": "clarity_nt_char_7074"
   },
   "7075": {
-    "マダンテの詠唱速度+12%": ""
+    "マダンテの詠唱速度+12%": "Magic Burst Speed +12%"
   },
   "7076": {
-    "マダンテの詠唱速度+15%": ""
+    "マダンテの詠唱速度+15%": "Magic Burst Speed +15%"
   },
   "7077": {
-    "マダンテの詠唱速度+18%": ""
+    "マダンテの詠唱速度+18%": "Magic Burst Speed +18%"
   },
   "7078": {
-    "占技・天輪殺のダメージが４％増える|（棍専用）": ""
+    "占技・天輪殺のダメージが４％増える|（棍専用）": "Damage of Divine Harmony increased|by 4%. (Rod Only)"
   },
   "7079": {
-    "テンション時の占技・天輪殺の|ダメージが５０増える（棍専用）": ""
+    "テンション時の占技・天輪殺の|ダメージが５０増える（棍専用）": "Damage of Divine Harmony during tension|increased by 50. (Rod Only)"
   },
   "7080": {
     "clarity_nt_char_7080": "clarity_nt_char_7080"
   },
   "7081": {
-    "占技・天輪殺の威力+8%": ""
+    "占技・天輪殺の威力+8%": "Divine Harmony Power +8%"
   },
   "7082": {
     "clarity_nt_char_7082": "clarity_nt_char_7082"
   },
   "7083": {
-    "占技・天輪殺の威力+12%": ""
+    "占技・天輪殺の威力+12%": "Divine Harmony Power +12%"
   },
   "7084": {
-    "占技・天輪殺の威力+16%": ""
+    "占技・天輪殺の威力+16%": "Divine Harmony Power +16%"
   },
   "7085": {
-    "占技・天輪殺の威力+20%": ""
+    "占技・天輪殺の威力+20%": "Divine Harmony Power +20%"
   },
   "7086": {
-    "占技・天輪殺の威力+24%": ""
+    "占技・天輪殺の威力+24%": "Divine Harmony Power +24%"
   }
 }

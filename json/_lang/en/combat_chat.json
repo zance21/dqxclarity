@@ -1131,10 +1131,10 @@
     "clarity_nt_char_377": "clarity_nt_char_377"
   },
   "378": {
-    "錬金をはじめた……": ""
+    "錬金をはじめた……": "Started alchemizing..."
   },
   "379": {
-    "あなたのチカラを|私がいただきます！": ""
+    "あなたのチカラを|私がいただきます！": "I will have your|power!"
   },
   "380": {
     "clarity_nt_char_380": "clarity_nt_char_380"
@@ -1146,7 +1146,7 @@
     "clarity_nt_char_382": "clarity_nt_char_382"
   },
   "383": {
-    "うなれ 大波よ": ""
+    "うなれ 大波よ": "O giant wave!"
   },
   "384": {
     "逆巻け 荒波よ": ""
@@ -1236,7 +1236,7 @@
     "clarity_nt_char_412": "clarity_nt_char_412"
   },
   "413": {
-    "集え！魔力よ！": ""
+    "集え！魔力よ！": "Come, magic!"
   },
   "414": {
     "もう一息だ！|気を引き締めろ！": "Almost there!|Stay strong!"
@@ -1245,7 +1245,7 @@
     "今助ける！": "I'll help!"
   },
   "416": {
-    "正気に戻れ！": ""
+    "正気に戻れ！": "Get a grip!"
   },
   "417": {
     "clarity_nt_char_417": "clarity_nt_char_417"
@@ -19602,7 +19602,7 @@
     "魍魎飛ばし": ""
   },
   "6535": {
-    "レミラーマ": ""
+    "レミラーマ": "Snoop"
   },
   "6536": {
     "暗闇の旋風": ""
@@ -21039,7 +21039,7 @@
     "巨大なバクダンで|敵をふっとばす|盗賊専用特技": "Blow away enemies|with a huge|bomb."
   },
   "7014": {
-    "近くの宝の場所を|地図上でしらせる|盗賊専用特技": "Show nearby|treasures on|your map."
+    "近くの宝の場所を|地図上でしらせる|盗賊専用特技": "Reveal nearby|treasures on|your map."
   },
   "7015": {
     "clarity_nt_char_7015": "clarity_nt_char_7015"
@@ -23892,19 +23892,19 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは からだが シビれた！": ""
   },
   "7965": {
-    "一心不乱の一撃を|敵１体にくり出す|武闘家専用特技": ""
+    "一心不乱の一撃を|敵１体にくり出す|武闘家専用特技": "Delivers a|critical blow to|an enemy."
   },
   "7966": {
-    "まもるつよさだけ|攻撃力が上昇する|パラディン専用": ""
+    "まもるつよさだけ|攻撃力が上昇する|パラディン専用": "Attack increases|based on|your defense."
   },
   "7967": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは スタンゾーンが一度だけ 使えるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e can now use Stun Zone one time!"
   },
   "7968": {
-    "手札を一つ前の|状態に戻す|占い師専用特技": ""
+    "手札を一つ前の|状態に戻す|占い師専用特技": "Returns your hand|to its previous|state."
   },
   "7969": {
-    "古今無双の|４回攻撃|バトマス専用特技": ""
+    "古今無双の|４回攻撃|バトマス専用特技": "Deals 4|very strong|attacks."
   },
   "7970": {
     "周囲にバイキルト|まもりのきり効果|レンジャー専用": ""
@@ -23937,7 +23937,7 @@
     "clarity_nt_char_7979": "clarity_nt_char_7979"
   },
   "7980": {
-    "八門崩絶": "Gun Blasts"
+    "八門崩絶": "Six Gates"
   },
   "7981": {
     "clarity_nt_char_7981": "clarity_nt_char_7981"
@@ -35808,13 +35808,13 @@
     "ピエロ＆デビル呼び": ""
   },
   "11937": {
-    "ナイトメアハント": ""
+    "ナイトメアハント": "Nightmare Hunt"
   },
   "11938": {
     "clarity_nt_char_11938": "clarity_nt_char_11938"
   },
   "11939": {
-    "ストーンブレイク": ""
+    "ストーンブレイク": "Stone Break"
   },
   "11940": {
     "clarity_nt_char_11940": "clarity_nt_char_11940"
@@ -35880,13 +35880,13 @@
     "clarity_nt_char_11960": "clarity_nt_char_11960"
   },
   "11961": {
-    "メラガイアー準備": ""
+    "メラガイアー準備": "Prep Kafrizzle"
   },
   "11962": {
     "clarity_nt_char_11962": "clarity_nt_char_11962"
   },
   "11963": {
-    "ハリケーンダイブ": ""
+    "ハリケーンダイブ": "Hurricane Dive"
   },
   "11964": {
     "clarity_nt_char_11964": "clarity_nt_char_11964"
@@ -35931,19 +35931,19 @@
     "邪念波": ""
   },
   "11978": {
-    "ベホマラー準備": ""
+    "ベホマラー準備": "Prep Multiheal"
   },
   "11979": {
-    "ピオリム準備": ""
+    "ピオリム準備": "Prep Acceleratle"
   },
   "11980": {
     "clarity_nt_char_11980": "clarity_nt_char_11980"
   },
   "11981": {
-    "水流が 押し寄せてくる気配がする！": ""
+    "水流が 押し寄せてくる気配がする！": "I feel the water rushing|in!"
   },
   "11982": {
-    "砂塵のテンペスト": ""
+    "砂塵のテンペスト": "Sandy Tempest"
   },
   "11983": {
     "clarity_nt_char_11983": "clarity_nt_char_11983"
@@ -36006,7 +36006,7 @@
     "clarity_nt_char_12002": "clarity_nt_char_12002"
   },
   "12003": {
-    "羅刹爆震": "Earth Quake"
+    "羅刹爆震": "Evil Quake"
   },
   "12004": {
     "clarity_nt_char_12004": "clarity_nt_char_12004"
@@ -36045,10 +36045,10 @@
     "clarity_nt_char_12015": "clarity_nt_char_12015"
   },
   "12016": {
-    "タイラントアックス": ""
+    "タイラントアックス": "Tyrant Axe"
   },
   "12017": {
-    "聖母の慈愛": ""
+    "聖母の慈愛": "Lady's Charity"
   },
   "12018": {
     "羅刹王の覇道": "Fiend's Mastery"
@@ -36111,7 +36111,7 @@
     "この グラコスさまの|腹のたしに してやろう！": "I, the Great Gracos,|shall have my fill!"
   },
   "12038": {
-    "ふたたび 戦えぬほどに|うちくだいてくれるわっ！": "I'll crush you so hard,|you can no longer fight!"
+    "ふたたび 戦えぬほどに|うちくだいてくれるわっ！": "I'll crush you so hard,|you can fight no longer!"
   },
   "12039": {
     "clarity_nt_char_12039": "clarity_nt_char_12039"
@@ -36162,7 +36162,7 @@
     "この グラコスさまの 腹のたしに してやろう！": "I, the Great Gracos, shall have my fill!"
   },
   "12055": {
-    "ふたたび 戦えぬほどに うちくだいてくれるわっ！": "I'll crush you so hard, you can no longer fight!"
+    "ふたたび 戦えぬほどに うちくだいてくれるわっ！": "I'll crush you so hard, you can fight no longer!"
   },
   "12056": {
     "clarity_nt_char_12056": "clarity_nt_char_12056"
@@ -36192,10 +36192,10 @@
     "clarity_nt_char_12064": "clarity_nt_char_12064"
   },
   "12065": {
-    "なにもしない1": ""
+    "なにもしない1": "Nothing 1"
   },
   "12066": {
-    "なにもしない2": ""
+    "なにもしない2": "Nothing 2"
   },
   "12067": {
     "超暴走魔法陣・零": "Super Ring of Ruin Zero"
@@ -38094,7 +38094,7 @@
     "clarity_nt_char_12698": "clarity_nt_char_12698"
   },
   "12699": {
-    "咎人の邪岩": ""
+    "咎人の邪岩": "Ungodly Stone"
   },
   "12700": {
     "煉獄魔斬Ⅲ": "Demon Edge Ⅲ"
@@ -38103,28 +38103,28 @@
     "ギガジャベリン": "Giga Javelin"
   },
   "12702": {
-    "クロスプラッシュ": ""
+    "クロスプラッシュ": "Cross Splash"
   },
   "12703": {
     "clarity_nt_char_12703": "clarity_nt_char_12703"
   },
   "12704": {
-    "スプラッシュダメージ": ""
+    "スプラッシュダメージ": "Splash Damage"
   },
   "12705": {
     "clarity_nt_char_12705": "clarity_nt_char_12705"
   },
   "12706": {
-    "ぶきみなおたけび": ""
+    "ぶきみなおたけび": "Spooky Roar"
   },
   "12707": {
     "clarity_nt_char_12707": "clarity_nt_char_12707"
   },
   "12708": {
-    "近くの宝の場所を|地図上でしらせる": ""
+    "近くの宝の場所を|地図上でしらせる": "Reveal nearby|treasures on|your map."
   },
   "12709": {
-    "衣解除": ""
+    "衣解除": "Undress"
   },
   "12710": {
     "仲間呼び（ホ）": ""
@@ -38163,7 +38163,7 @@
     "clarity_nt_char_12721": "clarity_nt_char_12721"
   },
   "12722": {
-    "カラミティ・ブレイク": ""
+    "カラミティ・ブレイク": "Calamity Break"
   },
   "12723": {
     "clarity_nt_char_12723": "clarity_nt_char_12723"
@@ -38193,25 +38193,25 @@
     "clarity_nt_char_12731": "clarity_nt_char_12731"
   },
   "12732": {
-    "メ": ""
+    "メ": "Ka"
   },
   "12733": {
-    "ガ": ""
+    "ガ": "Mi"
   },
   "12734": {
-    "ン": ""
+    "ン": "Ka"
   },
   "12735": {
-    "テ": ""
+    "テ": "Zee"
   },
   "12736": {
-    "サークルカタストロフ": ""
+    "サークルカタストロフ": "Circle Catastrophe"
   },
   "12737": {
     "clarity_nt_char_12737": "clarity_nt_char_12737"
   },
   "12738": {
-    "サークルディザスター": ""
+    "サークルディザスター": "Circle Disaster"
   },
   "12739": {
     "clarity_nt_char_12739": "clarity_nt_char_12739"
@@ -38220,7 +38220,7 @@
     "閃熱のチカラを|剣に宿して|敵を斬りつける": ""
   },
   "12741": {
-    "移動速度と|攻撃力を上げる|バトマス専用特技": ""
+    "移動速度と|攻撃力を上げる|バトマス専用特技": "Increases attack|and movement|speed."
   },
   "12742": {
     "clarity_nt_char_12742": "clarity_nt_char_12742"
@@ -38238,7 +38238,7 @@
     "ドーナツ呼び２": ""
   },
   "12747": {
-    "ハクオウに絶望が襲う……！": ""
+    "ハクオウに絶望が襲う……！": "Despair strikes|Hakou...!"
   },
   "12748": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 呪文で与えるダメージが アップした！": ""
@@ -38256,7 +38256,7 @@
     "clarity_nt_char_12752": "clarity_nt_char_12752"
   },
   "12753": {
-    "呪文でダメージアップの|効果がきえた": ""
+    "呪文でダメージアップの|効果がきえた": "Spell damage up|effect faded."
   },
   "12754": {
     "clarity_nt_char_12754": "clarity_nt_char_12754"
@@ -38286,7 +38286,7 @@
     "clarity_nt_char_12762": "clarity_nt_char_12762"
   },
   "12763": {
-    "サークルカラミティ": ""
+    "サークルカラミティ": "Circle Calamity"
   },
   "12764": {
     "鬼火": ""
@@ -38319,13 +38319,13 @@
     "clarity_nt_char_12773": "clarity_nt_char_12773"
   },
   "12774": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゾディアックコードの効果が きえた！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ゾディアックコードの効果が きえた！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's Zodiac Code effect faded!"
   },
   "12775": {
-    "タロットに一定時間|オーラが宿りつづける！": ""
+    "タロットに一定時間|オーラが宿りつづける！": "Will mantain|Tarot aura!"
   },
   "12776": {
-    "ゾディアックコードの|効果がきえた": ""
+    "ゾディアックコードの|効果がきえた": "Zodiac Code effect|faded."
   },
   "12777": {
     "<%sB_TARGET>は 激しい耳鳴りに 襲われた！": ""
@@ -38376,7 +38376,7 @@
     "clarity_nt_char_12792": "clarity_nt_char_12792"
   },
   "12793": {
-    "……炎が消えた！": ""
+    "……炎が消えた！": "...put out the fire!"
   },
   "12794": {
     "clarity_nt_char_12794": "clarity_nt_char_12794"
@@ -38559,7 +38559,7 @@
     "海魔神のうなり": ""
   },
   "12854": {
-    "メカニカルインパクト": ""
+    "メカニカルインパクト": "Mechanical Impact"
   },
   "12855": {
     "clarity_nt_char_12855": "clarity_nt_char_12855"
@@ -38610,7 +38610,7 @@
     "呪毒のいき": ""
   },
   "12871": {
-    "しっぽ攻撃": ""
+    "しっぽ攻撃": "Tail Attack"
   },
   "12872": {
     "仲間呼び(アンドレアル)": ""
@@ -38658,10 +38658,10 @@
     "泥沼ポンプ": ""
   },
   "12887": {
-    "ぐっ……！": ""
+    "ぐっ……！": "Guh...!"
   },
   "12888": {
-    "うぅ……！": ""
+    "うぅ……！": "Ugh...!"
   },
   "12889": {
     "ブラストウェーブ": "Blast Wave"
@@ -38670,7 +38670,7 @@
     "clarity_nt_char_12890": "clarity_nt_char_12890"
   },
   "12891": {
-    "相棒呼び": ""
+    "相棒呼び": "Call Ally"
   },
   "12892": {
     "clarity_nt_char_12892": "clarity_nt_char_12892"
@@ -38688,7 +38688,7 @@
     "clarity_nt_char_12896": "clarity_nt_char_12896"
   },
   "12897": {
-    "王牙衝": ""
+    "王牙衝": "King Fang"
   },
   "12898": {
     "闘神の咆哮": ""
@@ -38700,7 +38700,7 @@
     "ガートラントの暁光": "Dawn of Gartlant"
   },
   "12901": {
-    "ガートラントの黄昏": ""
+    "ガートラントの黄昏": "Twilight of Gartlant"
   },
   "12902": {
     "悪神の咆哮": "Fiend's Roar"
@@ -38742,7 +38742,7 @@
     "clarity_nt_char_12914": "clarity_nt_char_12914"
   },
   "12915": {
-    "浄化のコラール": ""
+    "浄化のコラール": "Purify Chorale"
   },
   "12916": {
     "灰幻の世界": ""
@@ -38772,7 +38772,7 @@
     "clarity_nt_char_12924": "clarity_nt_char_12924"
   },
   "12925": {
-    "かいしんのいちげき": "Critical Hit!"
+    "かいしんのいちげき": "Critical hit!"
   },
   "12926": {
     "仲間ひとりに|チカラみなぎる|ふしぎなベホイム": ""
