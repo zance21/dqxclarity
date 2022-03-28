@@ -29712,7 +29712,7 @@
     "心層の迷宮について": "About Mind Maze"
   },
   "9905": {
-    "心の輝きで復活する": ""
+    "心の輝きで復活する": "Revive with Heart Energy"
   },
   "9906": {
     "紅葉２": "Leaves 2"
@@ -29721,7 +29721,7 @@
     "紅葉１": "Leaves 1"
   },
   "9908": {
-    "心の輝きについて": ""
+    "心の輝きについて": "About Heart Energy"
   },
   "9909": {
     "clarity_nt_char_9909": "clarity_nt_char_9909"
@@ -29742,13 +29742,13 @@
     "clarity_nt_char_9914": "clarity_nt_char_9914"
   },
   "9915": {
-    "人物で": ""
+    "人物で": "Person"
   },
   "9916": {
-    "内容で": ""
+    "内容で": "Content"
   },
   "9917": {
-    "パックで": "In The Pack"
+    "パックで": "From Pack"
   },
   "9918": {
     "clarity_nt_char_9918": "clarity_nt_char_9918"
@@ -29823,7 +29823,7 @@
     "　　　　　　　リアルな副賞獲得のチャンス！|詳しくはhttps://sqex.to/dqxfishing2021 をご覧ください。": "　　　　　Your chance to win a real life prize!|Please visit https://sqex.to/dqxfishing2021 for details."
   },
   "9942": {
-    "応募しない": ""
+    "応募しない": "Don't Apply"
   },
   "9943": {
     "<null_star><null_star><null_star><null_star><half_star>": ""
@@ -29892,7 +29892,7 @@
     "個別に報告": "Single"
   },
   "9965": {
-    "依頼について": ""
+    "依頼について": "About Requests"
   },
   "9966": {
     "clarity_nt_char_9966": "clarity_nt_char_9966"
@@ -29916,13 +29916,13 @@
     "心層の迷宮の遊び方": ""
   },
   "9973": {
-    "人間（小）": ""
+    "人間（小）": "Human (Small)"
   },
   "9974": {
     "人間（大）": "Human (Large)"
   },
   "9975": {
-    "<speed=0>参加条件を　満たしていないため|移動できません。": ""
+    "<speed=0>参加条件を　満たしていないため|移動できません。": "<speed=0>Cannot move due to not meeting entry|requirements."
   },
   "9976": {
     "★の数でみる": "By No. of ★"
@@ -29931,7 +29931,7 @@
     "clarity_nt_char_9977": "clarity_nt_char_9977"
   },
   "9978": {
-    "倉庫内の数": ""
+    "倉庫内の数": "No. Storage"
   },
   "9979": {
     "Lv<%nM_lv>": "Lv<%dM_lv>"
@@ -29964,7 +29964,7 @@
     "clarity_nt_char_9988": "clarity_nt_char_9988"
   },
   "9989": {
-    "評価なし": ""
+    "評価なし": "Not Rated"
   },
   "9990": {
     "clarity_nt_char_9990": "clarity_nt_char_9990"
@@ -29976,13 +29976,13 @@
     "clarity_nt_char_9992": "clarity_nt_char_9992"
   },
   "9993": {
-    "極箱たまに": ""
+    "極箱たまに": "Sometimes"
   },
   "9994": {
     "極箱確定 ": "Certain "
   },
   "9995": {
-    "対戦する": ""
+    "対戦する": "Compete"
   },
   "9996": {
     "clarity_nt_char_9996": "clarity_nt_char_9996"
@@ -30036,7 +30036,7 @@
     "clarity_nt_char_10012": "clarity_nt_char_10012"
   },
   "10013": {
-    "配置する": ""
+    "配置する": "Place"
   },
   "10014": {
     "clarity_nt_char_10014": "clarity_nt_char_10014"
@@ -30183,13 +30183,13 @@
     "<tm%2dM_TIME>月<td%2dM_TIME>日 <th%2dM_TIME>：<ti%02dM_TIME>": "<tm%2dM_TIME>/<td%2dM_TIME> <th%2dM_TIME>:<ti%02dM_TIME>"
   },
   "10062": {
-    "カスタム衣装を表示": ""
+    "カスタム衣装を表示": "View Custom Outfits"
   },
   "10063": {
     "今の衣装を表示": ""
   },
   "10064": {
-    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME>": ""
+    "<ty%dM_TIME>/<tm%2dM_TIME>/<td%2dM_TIME>": "<tm%2dM_TIME>/<td%2dM_TIME>/<ty%dM_TIME>"
   },
   "10065": {
     "clarity_nt_char_10065": "clarity_nt_char_10065"
@@ -32880,22 +32880,22 @@
     "clarity_nt_char_10960": "clarity_nt_char_10960"
   },
   "10961": {
-    "とくぎ優先": ""
+    "とくぎ優先": "By Skill"
   },
   "10962": {
-    "とくぎ順": ""
+    "とくぎ順": "By Skill"
   },
   "10963": {
     "clarity_nt_char_10963": "clarity_nt_char_10963"
   },
   "10964": {
-    "じゅもん優先": ""
+    "じゅもん優先": "By Spell"
   },
   "10965": {
     "clarity_nt_char_10965": "clarity_nt_char_10965"
   },
   "10966": {
-    "じゅもん順": ""
+    "じゅもん順": "By Spell"
   },
   "10967": {
     "習得する錬金効果": ""
@@ -32904,37 +32904,37 @@
     "clarity_nt_char_10968": "clarity_nt_char_10968"
   },
   "10969": {
-    "そうびの詳細": ""
+    "そうびの詳細": "Equip Details"
   },
   "10970": {
     "clarity_nt_char_10970": "clarity_nt_char_10970"
   },
   "10971": {
-    "同乗者設定": ""
+    "同乗者設定": "Passenger"
   },
   "10972": {
-    "持っているそうび": ""
+    "持っているそうび": "Your Equipment"
   },
   "10973": {
     "clarity_nt_char_10973": "clarity_nt_char_10973"
   },
   "10974": {
-    "持っているそうびを見る": ""
+    "持っているそうびを見る": "View Your Equips"
   },
   "10975": {
     "解放の扉を見る": ""
   },
   "10976": {
-    "そうび交換を見る": ""
+    "そうび交換を見る": "View Equip Exchange"
   },
   "10977": {
     "clarity_nt_char_10977": "clarity_nt_char_10977"
   },
   "10978": {
-    "簡易探査モード": ""
+    "簡易探査モード": "Simple Mode"
   },
   "10979": {
-    "探索の極意": ""
+    "探索の極意": "Explore Bonus"
   },
   "10980": {
     "　　　簡易探査モードでは　通常時と比べて|レッドログ以外のパニガログが内容変更されます。": ""
@@ -32994,25 +32994,25 @@
     "clarity_nt_char_10998": "clarity_nt_char_10998"
   },
   "10999": {
-    "探索開始時　海神のうろこ３個追加": ""
+    "探索開始時　海神のうろこ３個追加": "Begin with 3 Scales"
   },
   "11000": {
     "clarity_nt_char_11000": "clarity_nt_char_11000"
   },
   "11001": {
-    "持ち帰り可能な装備数２個追加": ""
+    "持ち帰り可能な装備数２個追加": "Can Take 2 Extra Equips"
   },
   "11002": {
     "clarity_nt_char_11002": "clarity_nt_char_11002"
   },
   "11003": {
-    "探索の極意　なし": ""
+    "探索の極意　なし": "None"
   },
   "11004": {
     "clarity_nt_char_11004": "clarity_nt_char_11004"
   },
   "11005": {
-    "錬金効果＋３の装備のみ出現": ""
+    "錬金効果＋３の装備のみ出現": "Find All +3 Equipment"
   },
   "11006": {
     "からだ": "Body"
