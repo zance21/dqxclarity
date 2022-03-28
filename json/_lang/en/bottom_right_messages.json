@@ -12,7 +12,7 @@
     "clarity_nt_char_4": "clarity_nt_char_4"
   },
   "5": {
-    "<%nC_NUMBER1>時間<%nC_NUMBER2>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1>hr. <%nC_NUMBER2>min.!"
+    "<%nC_NUMBER1>時間<%nC_NUMBER2>分だけ|仲間に加わった！": "Joined the party for|<%dC_NUMBER1> hr. <%dC_NUMBER2> min.!"
   },
   "6": {
     "clarity_nt_char_6": "clarity_nt_char_6"
@@ -48,13 +48,13 @@
     "<%sC_STR1>|の錬金が大成功した！": "<%sC_STR1>|was a great success!"
   },
   "17": {
-    "<%nC_NUMBER1>時間だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> hours!"
+    "<%nC_NUMBER1>時間だけ|仲間に加わった！": "Joined the party for|<%dC_NUMBER1> hours!"
   },
   "18": {
     "clarity_nt_char_18": "clarity_nt_char_18"
   },
   "19": {
-    "<%nC_NUMBER1>分だけ|仲間に加わった！": "Joined the party for <%nC_NUMBER1> minutes!"
+    "<%nC_NUMBER1>分だけ|仲間に加わった！": "Joined the party for|<%dC_NUMBER1> minutes!"
   },
   "20": {
     "準備完了！": "Ready!"
@@ -129,7 +129,7 @@
     "clarity_nt_char_43": "clarity_nt_char_43"
   },
   "44": {
-    "クエストのさそいを|受けた！": "Accepted the|quest!"
+    "クエストのさそいを|受けた！": "Quest invitation|accepted!"
   },
   "45": {
     "clarity_nt_char_45": "clarity_nt_char_45"
@@ -144,7 +144,7 @@
     "ドルボードの燃料が|切れた": "Dolboard tank|is empty."
   },
   "49": {
-    "ドルセリンを|使った！": "Dolsoline used!"
+    "ドルセリンを|使った！": "Used Dolsoline!"
   },
   "50": {
     "<%sC_STR1>行": "To <%sC_STR1>"
