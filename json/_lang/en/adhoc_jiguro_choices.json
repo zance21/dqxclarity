@@ -1,6 +1,6 @@
 {
   "1": {
-    "「ぬぬ？　考え直しますかな。|　聖紋と引き換えにさずける　探索の極意を|　ひとつ　選んでくだされ。|<break>": "Hmm? Changed your mind? Please choose one|of the exploration secrets I'll give you|in exchange for crests."
+    "「ぬぬ？　考え直しますかな。|　聖紋と引き換えにさずける　探索の極意を|　ひとつ　選んでくだされ。|<break>": "Hmm? Changed your mind? Please choose one|of the exploration secrets I'll give you|in exchange for crests.|<break>"
   },
   "2": {
     "<select_se_off>|探索開始時　海神のうろこ３個追加|錬金効果＋３の装備のみ出現|持ち帰り可能な装備数２個追加|説明を聞く|やめる|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case 4>|<break>|<case 5>|<break>|<case_cancel>|<break>|<case_end>": "<select_se_off>|Begin with 3 Scales|Find All +3 Equipment|Can Take 2 Extra Equips|Explanation|Cancel|<select_end>|<case 1>|<close>|<case 2>|<close>|<case 3>|<close>|<case 4>|<break>|<case 5>|<break>|<case_cancel>|<break>|<case_end>"

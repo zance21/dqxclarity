@@ -2355,7 +2355,7 @@
     "カジノレイド祭りが <%dC_N1>分後に 終了します": ""
   },
   "786": {
-    "ゼルメア地下１階Lv<%dC_NUM>の探索に さそわれました！": ""
+    "ゼルメア地下１階Lv<%dC_NUM>の探索に さそわれました！": "Invited to explore Zelmea B1F Lv. <%dC_NUM>!"
   },
   "787": {
     "clarity_nt_char_787": "clarity_nt_char_787"
@@ -2487,7 +2487,7 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eが バトエンの誘いを取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e's Batoen invite was cancelled."
   },
   "830": {
-    "ゼルメアの聖紋の使用者が入れなかったため 退出します": ""
+    "ゼルメアの聖紋の使用者が入れなかったため 退出します": "Zelmea Crest user failed to enter."
   },
   "831": {
     "clarity_nt_char_831": "clarity_nt_char_831"
@@ -2691,16 +2691,16 @@
     "clarity_nt_char_897": "clarity_nt_char_897"
   },
   "898": {
-    "ゼルメア地下５階Lv<%dC_NUM>の探索に さそわれました！": ""
+    "ゼルメア地下５階Lv<%dC_NUM>の探索に さそわれました！": "Invited to explore Zelmea B5F Lv. <%dC_NUM>!"
   },
   "899": {
     "clarity_nt_char_899": "clarity_nt_char_899"
   },
   "900": {
-    "ゼルメア地下10階Lv<%dC_NUM>の探索に さそわれました！": ""
+    "ゼルメア地下10階Lv<%dC_NUM>の探索に さそわれました！": "Invited to explore Zelmea B10F Lv. <%dC_NUM>!"
   },
   "901": {
-    "ゼルメア地下15階Lv<%dC_NUM>の探索に さそわれました！": ""
+    "ゼルメア地下15階Lv<%dC_NUM>の探索に さそわれました！": "Invited to explore Zelmea B15F Lv. <%dC_NUM>!"
   },
   "902": {
     "ラストスパート！": "Final area! Go for it!"
@@ -4281,7 +4281,7 @@
     "clarity_nt_char_1427": "clarity_nt_char_1427"
   },
   "1428": {
-    "ゼルメア地下20階Lv<%dC_NUM>の探索に さそわれました！": ""
+    "ゼルメア地下20階Lv<%dC_NUM>の探索に さそわれました！": "Invited to explore Zelmea B20F Lv. <%dC_NUM>!"
   },
   "1429": {
     "彩虹の粘塊兵団の防衛戦に　参加しますか？": "Battle the Rainbow Sticky Corps.?"
@@ -4425,7 +4425,7 @@
     "clarity_nt_char_1475": "clarity_nt_char_1475"
   },
   "1476": {
-    "時間利用券の残り時間 あと<%dC_M>分です！": ""
+    "時間利用券の残り時間 あと<%dC_M>分です！": "<%dC_M> min. left on your ticket!"
   },
   "1477": {
     "clarity_nt_char_1477": "clarity_nt_char_1477"
