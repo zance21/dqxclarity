@@ -1944,7 +1944,7 @@
     "clarity_nt_char_648": "clarity_nt_char_648"
   },
   "649": {
-    "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%の確率でダメージ10%反射": ""
+    "<%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%の確率でダメージ10%反射": "Reflect 10% of Damage Taken <%sB_renkin1>.<%sB_renkin2><%sB_kakko><%sB_plusminus><%sB_renkindiff1><%sB_decimalpoint><%sB_renkindiff2><%sB_kokka>%"
   },
   "650": {
     "clarity_nt_char_650": "clarity_nt_char_650"
@@ -5787,7 +5787,7 @@
     "盾ガード時 ？%で眠り": "Sleep On Shield Block +?%"
   },
   "1930": {
-    "？%の確率でダメージ10%反射": "10% Damage Reflect ?%"
+    "？%の確率でダメージ10%反射": "Reflect 10% of Damage Taken ?%"
   },
   "1931": {
     "状態異常系の成功率 +？%": "Status Effect Success +?%"
