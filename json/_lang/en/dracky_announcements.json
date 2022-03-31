@@ -1227,7 +1227,7 @@
     "しばらくお待ちください": ""
   },
   "410": {
-    "！！！！！！との戦いに さそわれました！": ""
+    "！！！！！！との戦いに さそわれました！": "Invited to fight !!!!!!!"
   },
   "411": {
     "clarity_nt_char_411": "clarity_nt_char_411"
@@ -1461,13 +1461,13 @@
     "チャレンジバトルの期間を過ぎた為 バトルを中止しました": ""
   },
   "488": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eから 幻想画バトルに さそわれました！": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eから 幻想画バトルに さそわれました！": "Invitation to Fantasy Art Battle from \\s<%sC_PC>\\m<%sC_ID>\\e!"
   },
   "489": {
     "幻想画バトルへのさそいが 時間切れになりました": "Fantasy Art Battle invitation timed out."
   },
   "490": {
-    "\\s<%sC_PC>\\m<%sC_ID>\\eが 幻想画バトルへのさそいを　取り消した": ""
+    "\\s<%sC_PC>\\m<%sC_ID>\\eが 幻想画バトルへのさそいを　取り消した": "\\s<%sC_PC>\\m<%sC_ID>\\e declined Fantasy Art Battle."
   },
   "491": {
     "clarity_nt_char_491": "clarity_nt_char_491"
@@ -3222,7 +3222,7 @@
     "すごろくに 参加しますか？": "Play Sugoroku?"
   },
   "1075": {
-    "幻想画バトルに 行きますか？": "Go to the Painting Battle?"
+    "幻想画バトルに 行きますか？": "Go to the Fantasy Art Battle?"
   },
   "1076": {
     "clarity_nt_char_1076": "clarity_nt_char_1076"
@@ -3747,7 +3747,7 @@
     "<%sM_monster>との戦いに|行きますか？": "Go and fight|<%sM_monster>?"
   },
   "1250": {
-    "！！！！！！との戦いに|行きますか？": ""
+    "！！！！！！との戦いに|行きますか？": "Go and fight !!!!!!?"
   },
   "1251": {
     "clarity_nt_char_1251": "clarity_nt_char_1251"
@@ -4512,16 +4512,16 @@
     "\\s<%sC_PC>\\m<%sC_ID>\\eに 模擬戦を 断られました": ""
   },
   "1505": {
-    "ウォータースライダーに誘われました！": ""
+    "ウォータースライダーに誘われました！": "Invited to Water Slider!"
   },
   "1506": {
     "clarity_nt_char_1506": "clarity_nt_char_1506"
   },
   "1507": {
-    "ウォータースライダーに 参加しますか？": ""
+    "ウォータースライダーに 参加しますか？": "Go to Water Slider?"
   },
   "1508": {
-    "ウォータースライダーの　さそいを断った。": ""
+    "ウォータースライダーの　さそいを断った。": "Water Slider invitation was declined."
   },
   "1509": {
     "clarity_nt_char_1509": "clarity_nt_char_1509"
