@@ -6951,13 +6951,13 @@
     "キャラクターの　「顔アクセ」の<%sM_item1>の|表示がなくなり　マイコーデの「顔コーデ」の|<%sM_item2>を　表示します。": ""
   },
   "2318": {
-    "<speed=0><%sM_item>を　１個消費して|死亡から<%nM_timer>秒後に　このエリア内の|復活ポイントで復活します。|<break>": ""
+    "<speed=0><%sM_item>を　１個消費して|死亡から<%nM_timer>秒後に　このエリア内の|復活ポイントで復活します。|<break>": "<speed=0>You'll use 1 <%sM_item> to revive|at the start point in <%dM_timer> seconds.|<break>"
   },
   "2319": {
     "clarity_nt_char_2319": "clarity_nt_char_2319"
   },
   "2320": {
-    "<speed=0><%sM_item>を　持っていないので|<%sM_item>による　復活はできません。|<break>": ""
+    "<speed=0><%sM_item>を　持っていないので|<%sM_item>による　復活はできません。|<break>": "<speed=0>You don't have any <%sM_item>,|so you can't revive.|<break>"
   },
   "2321": {
     "<speed=0>|顔アクセサリーが|２個　表示できるようになりました！|<br>|２個目の　顔アクセサリーを　新しい装備枠|『顔コーデ』に装備することで　『顔アクセ』の|アクセサリーと一緒に　表示することができます。|<br>|メガネとメガネのように　表示位置が|重なるものを　装備した場合　『顔コーデ』が|優先的に　表示されます。|<br>|また　『顔コーデ』に装備した|顔アクセサリーは　見た目のみ反映され|つよさに影響しないので　ご注意ください。|<br>|様々な　顔アクセサリーを組み合わせて|ぜひ　自分好みの見た目探しを|お楽しみください！": ""
@@ -9432,7 +9432,7 @@
     "バトル中の|操作方法の|設定ができます": "Change method|operation|during battle."
   },
   "3145": {
-    "<speed=0><%nM_timer>秒後に　このエリア内の|復活ポイントで復活します。|<break>": ""
+    "<speed=0><%nM_timer>秒後に　このエリア内の|復活ポイントで復活します。|<break>": "<speed=0>You'll revive at the start point in|<%dM_timer> seconds.|<break>"
   },
   "3146": {
     "<speed=0>仲間が　見つかりませんでした。|先生とのパーティになりますが|もう一度　仲間を探しますか？|<break>": ""

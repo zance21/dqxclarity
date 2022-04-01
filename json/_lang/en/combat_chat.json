@@ -1431,7 +1431,7 @@
     "本当は働きたいのでショウ|ワタクシには分かりマス！": ""
   },
   "478": {
-    "<%sB_ACTOR>は|ほんきをだした！": ""
+    "<%sB_ACTOR>は|ほんきをだした！": "<%sB_ACTOR>|got serious!"
   },
   "479": {
     "<%sB_TARGET_RPL>に|<%sB_ACTION>をしてあげた！": ""
@@ -5124,7 +5124,7 @@
     "clarity_nt_char_1708": "clarity_nt_char_1708"
   },
   "1709": {
-    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ほんきをだした！": ""
+    "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは ほんきをだした！": "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\e got serious!"
   },
   "1710": {
     "\\s<%sB_ACTOR>\\m<%sB_ACTOR_ID>\\eは <%sB_ACTION>をしてあげた！": ""
@@ -25203,7 +25203,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 開戦時 天使の守りがかかるようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e gained Goddess' Grace at battle start!"
   },
   "8402": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは うけるダメージと 与えるダメージが 少なくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's taken and dealt damage reduced slightly!"
   },
   "8403": {
     "clarity_nt_char_8403": "clarity_nt_char_8403"
@@ -25416,7 +25416,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 仲間モンスターとの 絆を感じた！": ""
   },
   "8473": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが アップした！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが アップした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage dealt increased!"
   },
   "8474": {
     "clarity_nt_char_8474": "clarity_nt_char_8474"
@@ -25533,7 +25533,7 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは みとれやすくなった！": ""
   },
   "8512": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが 少なくなった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが 少なくなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's dealt damage reduced slightly!"
   },
   "8513": {
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは ダメージで ＨＰが回復するようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now restore HP from damage!"
@@ -25545,7 +25545,7 @@
     "clarity_nt_char_8515": "clarity_nt_char_8515"
   },
   "8516": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰが回復する！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの ＨＰとＭＰが回復する！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's HP and MP was recovered!"
   },
   "8517": {
     "clarity_nt_char_8517": "clarity_nt_char_8517"
@@ -25554,10 +25554,10 @@
     "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 期間中たまに七夕依頼書が ドロップするようになった！": ""
   },
   "8519": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの チャージ時間が 短くなった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの チャージ時間が 短くなった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's charge time was shortened!"
   },
   "8520": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 強モードボスから オーブが 必ず手に入るようになった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 強モードボスから オーブが 必ず手に入るようになった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e will now surely receive an Orb from a Hard Boss!"
   },
   "8521": {
     "clarity_nt_char_8521": "clarity_nt_char_8521"
@@ -26037,13 +26037,13 @@
     "clarity_nt_char_8679": "clarity_nt_char_8679"
   },
   "8680": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが 少しアップした！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eは 与えるダメージが 少しアップした！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's damage dealt increased slightly!"
   },
   "8681": {
     "clarity_nt_char_8681": "clarity_nt_char_8681"
   },
   "8682": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が 半分になった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの コマンド間隔が 半分になった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's command interval was halved!"
   },
   "8683": {
     "clarity_nt_char_8683": "clarity_nt_char_8683"
@@ -26943,7 +26943,7 @@
     "clarity_nt_char_8981": "clarity_nt_char_8981"
   },
   "8982": {
-    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションは あがらなかった！": ""
+    "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\eの テンションは あがらなかった！": "\\s<%sB_TARGET>\\m<%sB_TARGET_ID>\\e's tension didn't go up!"
   },
   "8983": {
     "clarity_nt_char_8983": "clarity_nt_char_8983"
