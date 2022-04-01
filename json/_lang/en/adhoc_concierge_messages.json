@@ -96,7 +96,7 @@
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
   },
   "33": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break> "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "34": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
@@ -195,7 +195,7 @@
     "「では　他の賞品を　お選びください。|<break>": "Now, on to the other prizes...<break>"
   },
   "66": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "67": {
     "「現在　元気チャージが　<%nL_CTIME>時間ございます。|　どちらを　ご希望ですか？|<break>": "You currently have <%nL_CTIME> hours of|energy left... Which one would you like?<break>"
@@ -417,10 +417,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "140": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "141": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "142": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -834,10 +834,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "279": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "280": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "281": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -1212,10 +1212,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "405": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "406": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "407": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -1590,10 +1590,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "531": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "532": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "533": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -1968,10 +1968,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "657": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "658": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "659": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -2346,10 +2346,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "783": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "784": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "785": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -2724,10 +2724,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "909": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "910": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "911": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -3102,10 +3102,10 @@
     "「では　ふくびき補助券を　お持ちなので|　ふくびき券の代わりに　<%nM_Hukubiki_Num>枚いただきます。|　見事に福が引けるよう　がんばってくださいね。|<end>": "So, since you have a coupon, instead of a|coupon, I'll give you a <%nM_Hukubiki_Num>.|Good luck with your luck...<end>"
   },
   "1035": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1036": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1037": {
     "「続けて　ふくびきをされますか？|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
@@ -5664,25 +5664,25 @@
     "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
   },
   "1889": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1890": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1891": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times!|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1892": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1893": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですわ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1894": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができるぜ。|　１０連ふくびきは　その１０回分が必要だ。|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1895": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": ""
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要ですっ！|<select_se_off 5>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off 5>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "1896": {
     "「くわしく見たい賞品を　選んでくれ。|　黄色文字になっている　等級は|　あらかじめ設定で　賞品が選ばれているぜ。|<break>": ""
@@ -6705,16 +6705,16 @@
     "「おめでとうございます！|　今回の　１０連ふくびきの結果は……|　おや？　まだ続きがあるみたいですよ！|<bw_break>": "Congratulations! The results of this 10-round|lucky draw... Hmm? It looks like there's more|to come!<bw_break>"
   },
   "2236": {
-    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": "Here are the results of your 10 Draw. It|looks like the results changed, and you won a|higher ranked prize!|<bw_break>"
   },
   "2237": {
-    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": "Here are the results of your 10 Draw. It|looks like the results changed, and you won a|higher ranked prize!|<bw_break>"
   },
   "2238": {
-    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": "Here are the results of your 10 Draw. It|looks like the results changed, and you won a|higher ranked prize!|<bw_break>"
   },
   "2239": {
-    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": ""
+    "「１０連ふくびきの　結果はこちらになります。|　ふくびき結果が変化して　当たった等級が|　よりよい等級に　変わったようですね！|<bw_break>": "Here are the results of your 10 Draw. It|looks like the results changed, and you won a|higher ranked prize!|<bw_break>"
   },
   "2240": {
     "「今回の賞品は　全てお受け取りいただけますので|　<pc>さまに　お渡しいたします。|　お受け取りください。|<bw_break>": "All prizes have been accepted. Please take|your prizes, <pc>.|<bw_break>"
