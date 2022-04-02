@@ -104,7 +104,7 @@ def get_latest_from_weblate():
 
     # download zip from github
     try:
-        url = 'https://github.com/Sevithian/dqxclarity/archive/refs/heads/weblate.zip'
+        url = 'https://github.com/xshobux/dqxclarity/archive/refs/heads/weblate.zip'
         r = requests.get(url, timeout=15)
     except:
         messageBoxFatalError('Timeout', 'Timed out trying to reach github.com. Relaunch Clarity without "Pull latest files from weblate" and try again.')
@@ -512,7 +512,7 @@ def check_for_updates():
     '''
     Checks github for updates.
     '''
-    url = 'https://raw.githubusercontent.com/Sevithian/dqxclarity/weblate/version.update'
+    url = 'https://raw.githubusercontent.com/xshobux/dqxclarity/weblate/version.update'
     verfile = open('version.update','r')
     curVer = verfile.read()
     verfile.close()
@@ -524,7 +524,7 @@ def check_for_updates():
         return
 
     if github_request.text != curVer:
-        logging.warning('\nAn update is available at https://github.com/Sevithian/dqxclarity/releases\n')
+        logging.warning('\nAn update is available at https://github.com/xshobux/dqxclarity/releases\n')
     else:
         logging.warning('\nUp to date!\n')
   
