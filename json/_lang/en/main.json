@@ -7641,7 +7641,7 @@
     "clarity_nt_char_2547": "clarity_nt_char_2547"
   },
   "2548": {
-    "買える土地": ""
+    "買える土地": "Buyable Land"
   },
   "2549": {
     "土地": "Plot"
@@ -8325,7 +8325,7 @@
     "clarity_nt_char_2775": "clarity_nt_char_2775"
   },
   "2776": {
-    "切らない": ""
+    "切らない": "Unfinished"
   },
   "2777": {
     "clarity_nt_char_2777": "clarity_nt_char_2777"
@@ -8526,7 +8526,7 @@
     "ドラゴンクエストＸの冒険に役立つヒント集です。|お得な情報もあるので　ぜひご活用ください。": ""
   },
   "2843": {
-    "すれちがいポイント": ""
+    "すれちがいポイント": "Passing Point"
   },
   "2844": {
     "<%sM_skill><se_nots System 7>": "<%sM_skill><se_nots System 7>"
@@ -9489,7 +9489,7 @@
     "clarity_nt_char_3163": "clarity_nt_char_3163"
   },
   "3164": {
-    "読み込み中…": "Loading news…"
+    "読み込み中…": "Loading news..."
   },
   "3165": {
     "clarity_nt_char_3165": "clarity_nt_char_3165"
@@ -10566,7 +10566,7 @@
     "パーティ同盟の誘いに 返事しています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Responding to party alliance invitation...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
   },
   "3523": {
-    "<%sM_TargetParty>からの 返事を待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for response from <%sM_TargetParty> <%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
+    "<%sM_TargetParty>からの 返事を待っています<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>": "Waiting for response from <%sM_TargetParty>...<%sM_3PLeader1><%sM_3PLeader2><%sM_3PLeader3>"
   },
   "3524": {
     "参加する": "Accept"
@@ -10653,7 +10653,7 @@
     "clarity_nt_char_3551": "clarity_nt_char_3551"
   },
   "3552": {
-    "依頼の内容": ""
+    "依頼の内容": "Requests"
   },
   "3553": {
     "小元気玉：": "Bonus Orb S:"
@@ -11022,13 +11022,13 @@
     "clarity_nt_char_3674": "clarity_nt_char_3674"
   },
   "3675": {
-    "最大人数は？": "Maximum Members?"
+    "最大人数は？": "Maximum members?"
   },
   "3676": {
     "clarity_nt_char_3676": "clarity_nt_char_3676"
   },
   "3677": {
-    "最小人数は？": "Mininum Members?"
+    "最小人数は？": "Mininum members?"
   },
   "3678": {
     "clarity_nt_char_3678": "clarity_nt_char_3678"
@@ -12180,7 +12180,7 @@
     "clarity_nt_char_4060": "clarity_nt_char_4060"
   },
   "4061": {
-    "【追加部屋＋１】": ""
+    "【追加部屋＋１】": "[Extra Room +1]"
   },
   "4062": {
     "clarity_nt_char_4062": "clarity_nt_char_4062"
@@ -13194,10 +13194,10 @@
     "clarity_nt_char_4398": "clarity_nt_char_4398"
   },
   "4399": {
-    "（タイトルを入力してください）": ""
+    "（タイトルを入力してください）": "(Please enter title.)"
   },
   "4400": {
-    "いつ？": ""
+    "いつ？": "When?"
   },
   "4401": {
     "前回の最低落札金額": "Last Lowest Winning Bid"
@@ -13494,13 +13494,13 @@
     "優待券の使用枠": "Ticket Use Limit"
   },
   "4499": {
-    "優待券": ""
+    "優待券": "Tickets"
   },
   "4500": {
     "つかわない": "Don't Use"
   },
   "4501": {
-    "職人用": ""
+    "職人用": "For Craft"
   },
   "4502": {
     "職人ツール": "Crafter's Tool"
@@ -13836,31 +13836,31 @@
     "<%nM_befYY>年<%2nM_befMM>月<%2nM_befDD>日 ～ <%nM_aftYY>年<%2nM_aftMM>月<%2nM_aftDD>日": "<%2dM_befMM>/<%2dM_befDD>/<%dM_befYY> - <%2dM_aftMM>/<%2dM_aftDD>/<%dM_aftYY>"
   },
   "4613": {
-    "勝利回数": ""
+    "勝利回数": "Victories"
   },
   "4614": {
     "clarity_nt_char_4614": "clarity_nt_char_4614"
   },
   "4615": {
-    "最大連勝回数": ""
+    "最大連勝回数": "Consecutive Wins"
   },
   "4616": {
     "clarity_nt_char_4616": "clarity_nt_char_4616"
   },
   "4617": {
-    "撃破した回数": ""
+    "撃破した回数": "Times Defeated"
   },
   "4618": {
     "clarity_nt_char_4618": "clarity_nt_char_4618"
   },
   "4619": {
-    "蘇生した回数": ""
+    "蘇生した回数": "Times Revived"
   },
   "4620": {
     "clarity_nt_char_4620": "clarity_nt_char_4620"
   },
   "4621": {
-    "獲得票数": ""
+    "獲得票数": "No. Votes"
   },
   "4622": {
     "clarity_nt_char_4622": "clarity_nt_char_4622"
@@ -13968,7 +13968,7 @@
     "clarity_nt_char_4656": "clarity_nt_char_4656"
   },
   "4657": {
-    "獲得したコイン": ""
+    "獲得したコイン": "Earned Coins"
   },
   "4658": {
     "大陸：": ""
@@ -14328,13 +14328,13 @@
     "倉庫の拡張": "Expand Storage"
   },
   "4777": {
-    "オプション変更の最終確認": ""
+    "オプション変更の最終確認": "Final Confirmation"
   },
   "4778": {
     "clarity_nt_char_4778": "clarity_nt_char_4778"
   },
   "4779": {
-    "オプションプランを変える": ""
+    "オプションプランを変える": "Change Option Plan"
   },
   "4780": {
     "clarity_nt_char_4780": "clarity_nt_char_4780"
@@ -14709,7 +14709,7 @@
     "clarity_nt_char_4903": "clarity_nt_char_4903"
   },
   "4904": {
-    "No.<%03nM_number>": "No.<%03nM_number>"
+    "No.<%03nM_number>": "#<%03dM_number>"
   },
   "4905": {
     "特殊効果": "Special"
@@ -14904,7 +14904,7 @@
     "clarity_nt_char_4968": "clarity_nt_char_4968"
   },
   "4969": {
-    "捧げるもの": ""
+    "捧げるもの": "Offering"
   },
   "4970": {
     "輝石効果はありません": "No augite effects."
@@ -15030,7 +15030,7 @@
     "特訓スキルポイント（最大 <%dM_tokkun_sp_max> P）": "Sp. Training SP (Max <%dM_tokkun_sp_max> P)"
   },
   "5011": {
-    "ランキングの集計が終わるまで　お待ちください": ""
+    "ランキングの集計が終わるまで　お待ちください": "Please wait for the rankings."
   },
   "5012": {
     "clarity_nt_char_5012": "clarity_nt_char_5012"
@@ -15237,7 +15237,7 @@
     "今いるエリアを見る": "View Current Area"
   },
   "5080": {
-    "モンスター選択リスト": ""
+    "モンスター選択リスト": "Monster List"
   },
   "5081": {
     "clarity_nt_char_5081": "clarity_nt_char_5081"
@@ -15264,7 +15264,7 @@
     "clarity_nt_char_5088": "clarity_nt_char_5088"
   },
   "5089": {
-    "６．": ""
+    "６．": "6."
   },
   "5090": {
     "clarity_nt_char_5090": "clarity_nt_char_5090"
@@ -15456,7 +15456,7 @@
     "どうぐかばんの素材のみ使用": "Only using carried materials."
   },
   "5153": {
-    "預かり所・屋根ウラの素材使用": ""
+    "預かり所・屋根ウラの素材使用": "Only using storage materials."
   },
   "5154": {
     "clarity_nt_char_5154": "clarity_nt_char_5154"
@@ -15558,7 +15558,7 @@
     "clarity_nt_char_5186": "clarity_nt_char_5186"
   },
   "5187": {
-    "おひねり！": "Bid!"
+    "おひねり！": "Tip!"
   },
   "5188": {
     "０": "0"
@@ -15675,7 +15675,7 @@
     "バザー通知": "Bazaar Notice"
   },
   "5226": {
-    "おひねり特典未入手": "No Bids Received"
+    "おひねり特典未入手": "No Tips Received"
   },
   "5227": {
     "<%sM_bui>のみ表示へ": "Show Only <%sM_bui>"
