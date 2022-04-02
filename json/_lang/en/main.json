@@ -11931,10 +11931,10 @@
     "経験値": "EXP"
   },
   "3978": {
-    "最小サイズ": "Smallest Size"
+    "最小サイズ": "Smallest"
   },
   "3979": {
-    "最大サイズ": "Biggest Size"
+    "最大サイズ": "Biggest"
   },
   "3980": {
     "釣った数": "No. Caught"
@@ -32535,7 +32535,7 @@
     "源世の聖標": "Sacred Mark"
   },
   "10846": {
-    "本店の掲載順に": ""
+    "本店の掲載順に": "By List Order"
   },
   "10847": {
     "成長完了予定": "Finishes Growing"
@@ -32622,19 +32622,19 @@
     "clarity_nt_char_10874": "clarity_nt_char_10874"
   },
   "10875": {
-    "週替わり討伐": ""
+    "週替わり討伐": "Weekly Quest"
   },
   "10876": {
     "clarity_nt_char_10876": "clarity_nt_char_10876"
   },
   "10877": {
-    "週替わり討伐・偽": ""
+    "週替わり討伐・偽": "Weekly Quest (False)"
   },
   "10878": {
     "clarity_nt_char_10878": "clarity_nt_char_10878"
   },
   "10879": {
-    "週替わり討伐・真": ""
+    "週替わり討伐・真": "Weekly Quest (True)"
   },
   "10880": {
     "clarity_nt_char_10880": "clarity_nt_char_10880"
@@ -32670,7 +32670,7 @@
     "clarity_nt_char_10890": "clarity_nt_char_10890"
   },
   "10891": {
-    "賞品リストを見る": ""
+    "賞品リストを見る": "View Prize List"
   },
   "10892": {
     "clarity_nt_char_10892": "clarity_nt_char_10892"
@@ -32709,7 +32709,7 @@
     "黒文字": ""
   },
   "10904": {
-    "フィルム風": ""
+    "フィルム風": "Film Style"
   },
   "10905": {
     "白文字": ""
@@ -32799,40 +32799,40 @@
     "clarity_nt_char_10933": "clarity_nt_char_10933"
   },
   "10934": {
-    "おぼえるスキルはありません": ""
+    "おぼえるスキルはありません": "No skills to learn."
   },
   "10935": {
     "総資産": "Assets"
   },
   "10936": {
-    "中サイズ": "M Size"
+    "中サイズ": "Middle"
   },
   "10937": {
     "clarity_nt_char_10937": "clarity_nt_char_10937"
   },
   "10938": {
-    "魚をみせる": ""
+    "魚をみせる": "Show Fish"
   },
   "10939": {
-    "強化する項目": ""
+    "強化する項目": "Item to Boost"
   },
   "10940": {
     "clarity_nt_char_10940": "clarity_nt_char_10940"
   },
   "10941": {
-    "属性ダメージ強化": ""
+    "属性ダメージ強化": "Attribute Damage Boost"
   },
   "10942": {
     "clarity_nt_char_10942": "clarity_nt_char_10942"
   },
   "10943": {
-    "種族ダメージ強化": ""
+    "種族ダメージ強化": "Family Damage Boost"
   },
   "10944": {
     "clarity_nt_char_10944": "clarity_nt_char_10944"
   },
   "10945": {
-    "生徒": ""
+    "生徒": "Pupil"
   },
   "10946": {
     "clarity_nt_char_10946": "clarity_nt_char_10946"
@@ -32853,13 +32853,13 @@
     "clarity_nt_char_10951": "clarity_nt_char_10951"
   },
   "10952": {
-    "<kyodai>に|着せる衣装を|選択してください。": ""
+    "<kyodai>に|着せる衣装を|選択してください。": "Select an outfit|for|<kyodai>."
   },
   "10953": {
     "clarity_nt_char_10953": "clarity_nt_char_10953"
   },
   "10954": {
-    "新エテーネの服": ""
+    "新エテーネの服": "New Ethene Clothes"
   },
   "10955": {
     "筆頭研究員の服": ""
@@ -32871,7 +32871,7 @@
     "clarity_nt_char_10957": "clarity_nt_char_10957"
   },
   "10958": {
-    "乗車中": ""
+    "乗車中": "On Train"
   },
   "10959": {
     "全員シャッフルして乗せる": ""
