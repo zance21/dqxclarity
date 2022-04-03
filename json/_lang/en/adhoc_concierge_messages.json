@@ -96,7 +96,7 @@
     "「申し訳ありませんが|　ふくびき券を　お持ちでないようです。|<bw_break>": "I'm sorry, sir, but you don't have a|coupon...<bw_break>"
   },
   "33": {
-    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break> "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
+    "「ふくびき券１枚か　ふくびき補助券<%nM_Hukubiki_H_Num>枚で|　１回抽選ができます。|　１０連ふくびきは　その１０回分が必要です。|<select_se_off>|ふくびきをする|１０連ふくびきをする|あらかじめ設定|演出の長さ設定|賞品をくわしく見る|<select_end><break>": "1 Lottery Ticket or <%dM_Hukubiki_H_Num> Lottery Coupons are|needed to draw once. 10 are needed to draw 10|times.|<select_se_off>|Single Draw|10 Draw|Advance Draw|Animation Setting|Explanation|<select_end><break>"
   },
   "34": {
     "「おめでとうございます！|　<%nL_TOU>等の　<%sL_PRIZENAME>が|　当たりました！|<break>": "Congratulations! You've won a <%sL_PRIZENAME>|such as <%nL_TOU>!<break>"
