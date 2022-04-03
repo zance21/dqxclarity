@@ -498,13 +498,13 @@
     "「そいじゃあ　お先にっ！": "Well, after you!"
   },
   "167": {
-    "「<cs_pchero>　待たせたな。": "<cs_pchero>Wait..."
+    "「<cs_pchero>　待たせたな。": "<cs_pchero>, Wait..."
   },
   "168": {
-    "「……今なら　思いだすことができる。|　この王家の庭は　姉上が好んだ場所であった。|　幼き頃　ここで　ふたりで遊んだものだ……。": "I... I can remember now... This royal garden|was your sister's favorite place. We used to|play here together as children."
+    "「……今なら　思いだすことができる。|　この王家の庭は　姉上が好んだ場所であった。|　幼き頃　ここで　ふたりで遊んだものだ……。": "I... I can remember now... This royal garden|was my sister's favorite place. We used to|play here together as children."
   },
   "169": {
-    "「あの子が　なぜ　聖地のチカラを|　我が物としようとしたのか|　ずっと　わからずにいたのですが……": "How did she know about the power of the Holy Land?| You tried to take it for yourself| I've been trying to figure it out for a while, but"
+    "「あの子が　なぜ　聖地のチカラを|　我が物としようとしたのか|　ずっと　わからずにいたのですが……": "How did she know about the power of the Holy|Land?, I tried to find it myself, but.."
   },
   "170": {
     "「ニコロイより　リタの部屋にあった日記を|　見せてもらって　ようやく　得心が行きました。": "When Nikolai showed me the diary that was in|Rita's room, I finally understood..."
@@ -540,16 +540,16 @@
     "テキスト削除": "text deletion"
   },
   "181": {
-    "「では　<cs_pchero>よ。|　これより　聖地へと入るとしよう。": "well<cs_pchero>Yes. Now, as we enter the sanctuary..."
+    "「では　<cs_pchero>よ。|　これより　聖地へと入るとしよう。": "Well, <cs_pchero>. We can enter the sanctuary..."
   },
   "182": {
-    "「さあ　ニコロイ。|　黄金の指輪を　泉に投げ入れなさい。|　聖地への扉を　開きましょう。": "Now, Ni... I cast the Golden Ring into the|Fountain... \"and open the gates to the Holy|Land..."
+    "「さあ　ニコロイ。|　黄金の指輪を　泉に投げ入れなさい。|　聖地への扉を　開きましょう。": "Now, Nicoloi, cast the Golden Ring into the|fountain and that should open the gates to the|Holy Land..."
   },
   "183": {
     "「はい　母上。": "Yes..."
   },
   "184": {
-    "「ここが　聖地……？": "This is the holy of holies...?"
+    "「ここが　聖地……？": "This is the Holy Land.?"
   },
   "185": {
     "「なんと美しい所だ……。|　これで　聖なるチカラが　失われているとは|　とても思えぬが……。": "What a beautiful place... I don't think it's|lost any of its sacred power, but..."
@@ -558,7 +558,7 @@
     "「あの　ひときわ大きな　白い木は……？|　もしや　聖地への入り口を　ふさいでいるのか？": "That big, white tree... What if it's blocking|the entrance to the Holy Land?"
   },
   "187": {
-    "「母上　いったい　あの木は……": "Mother, what the hell is that tree"
+    "「母上　いったい　あの木は……": "Mother, what is that tree?"
   },
   "188": {
     "「ぐあっ……！": "Aah...!"
@@ -573,7 +573,7 @@
     "「だまされやすいのは　父親ゆずりなのかねえ？": "Do you think it's in your father's blood that|you're gullible?"
   },
   "192": {
-    "「は　母上！？": "Hagoromo!?"
+    "「は　母上！？": "What is the meaning of this, Mother?"
   },
   "193": {
     "「この５０年……　なんと　長かったことだろう！|　あの　小生意気な　リタのおかげで|　ずいぶんと　時間が　かかってしまったが……": "Fifty years... How long it's been! It's been|a long time, thanks to that cheeky little|Rita, but..."
@@ -591,28 +591,28 @@
     "「私の　愛しい　ニコロイ坊や。|　この母に会えて　うれしかったかい？|　家族を取り戻せたとでも　思ったかい？": "My dear Nicoloi... Were you happy to see your|mother? Did you feel like you had your family|back?"
   },
   "198": {
-    "「ふふふ……。お前の　病弱な母なら|　とっくの昔に　この世を去ったよ。|　殺したのは　この私。": "Mmm... Your sickly mother would have left|this world a long time ago... I killed her..."
+    "「ふふふ……。お前の　病弱な母なら|　とっくの昔に　この世を去ったよ。|　殺したのは　この私。": "Mmm... Your sickly mother left|this world a long time ago... I killed her..."
   },
   "199": {
     "「私は　お前の母親になりすまして|　この城に入り込んだのさ。聖地の扉を開くための|　黄金の指輪を　手にするためにな。": "I have entered this castle in the guise of|your mother... To obtain the golden ring that|would open the door to the Holy Land..."
   },
   "200": {
-    "「だが　あのリタだけは|　私の正体に　気づいてしまった。": "But Rita, she's the only one who knows who I|am."
+    "「だが　あのリタだけは|　私の正体に　気づいてしまった。": "But Rita, she's the only one who knows who saw|through my clever deception."
   },
   "201": {
-    "「たかが小娘ひとりの抵抗など　取るに足らぬと|　放っておいたのが　私の　あやまちだった。": "It was my mistake to think that the|resistance of a mere girl was|insignificant..."
+    "「たかが小娘ひとりの抵抗など　取るに足らぬと|　放っておいたのが　私の　あやまちだった。": "It was my mistake to think that her|power was insignificant..."
   },
   "202": {
-    "「自分の命と引き換えにして　この私を|　５０年もの間　この地に封じ込めたのさ！！": "You traded your life to keep me here for 50|years!"
+    "「自分の命と引き換えにして　この私を|　５０年もの間　この地に封じ込めたのさ！！": "She traded your life to keep me here for 50|years!"
   },
   "203": {
     "「お前たちには　礼を言わねばなるまい。|　私を　封印から解き放ち|　この聖地にまで　手引きしてくれたのだから。": "I must thank you both. You freed me from the|seal and brought me to this holy place."
   },
   "204": {
-    "「さあ　チカラのかぎり　泣き叫ぶがよい。|　お前たちの悲鳴は　この大陸に産まれ落ちる|　破滅と暗黒の　産声となるであろう！": "Now, I will cry out with all my might... Your|screams will be the birth of doom and gloom|on this continent!"
+    "「さあ　チカラのかぎり　泣き叫ぶがよい。|　お前たちの悲鳴は　この大陸に産まれ落ちる|　破滅と暗黒の　産声となるであろう！": "Now, I will crush you with all my might... Your|screams will be the birth of doom and gloom|on this continent!"
   },
   "205": {
-    "「<cs_pchero>　戻ったか！": "<cs_pchero>You're back!"
+    "「<cs_pchero>　戻ったか！": "<cs_pchero>, You're back!"
   },
   "206": {
     "「今度は　しっかり　頼むぜっ！！": "This time, I'm counting on you!"
@@ -672,7 +672,7 @@
     "「わかりました。|　伝えます……。必ず……！": "I understand... I'll tell him."
   },
   "225": {
-    "「お父さま……　お母さま……|　リタも　おそばへ参ります………。": "Father... Mother... I will be reunited with you..."
+    "「お父さま……　お母さま……|　リタも　おそばへ参ります………。": "Father, Mother, I will be reunited with you..."
   },
   "226": {
     "「ニコロイ……　あなたのことだけは……": "Nicolai, You're the only one left."
@@ -708,7 +708,7 @@
     "「ふっ……。|　まったく　お前には　かなわんな。": "Hmm... You're a real piece of work, aren't|you?"
   },
   "237": {
-    "「キュウスケ　<cs_pchero>。|　お前たちには　何度　礼を言っても足りぬ。": "Kyusuke, <cs_pchero>... I can't tell you how many times I've|thanked you..."
+    "「キュウスケ　<cs_pchero>。|　お前たちには　何度　礼を言っても足りぬ。": "Kyusuke, <cs_pchero>, I can't tell you how many|times I've thanked you..."
   },
   "238": {
     "「共に　カミハルムイ城へ戻ろうではないか。|　そこで　あらためて礼をしよう。|　待っているからな。": "Let us return together to the castle of|Kamiharmui... And there I will thank you|again... I'll be waiting..."
@@ -867,10 +867,10 @@
     "「じいさん……。": "Grandpa..."
   },
   "290": {
-    "「それが　白き者の　さだめなのか……|　あの娘は　ひとりで　私を追いだそうとした。|　母が殺されたことさえ　誰にも告げずにね。": "Is that the fate of the white man? She'll|send me away alone... She will tell no one|that my mother was murdered..."
+    "「それが　白き者の　さだめなのか……|　あの娘は　ひとりで　私を追いだそうとした。|　母が殺されたことさえ　誰にも告げずにね。": "Was that Rita's Fate? That She'll|send me away alone... Telling no one|that her mother was murdered..."
   },
   "291": {
-    "「あの娘……！　私が　アタマの弱い|　ナシュロイ王を殺して　ようやく|　黄金の指輪を　手に入れたというのに……！": "That girl... Just when I thought I'd killed|the weak king of Nasharoi and finally gotten|my hands on the golden ring..."
+    "「あの娘……！　私が　アタマの弱い|　ナシュロイ王を殺して　ようやく|　黄金の指輪を　手に入れたというのに……！": "That girl... Just when I thought I'd killed|the weak King Nasharoi and finally gotten|my hands on the golden ring..."
   },
   "292": {
     "「だが　もうよい！|　私の望みは　今こそ　かなう！|　エルトナ大陸の心臓は　我が手にあるのだ！": "But no more! My hope is now fulfilled! The|heart of Eltona is in my hands!"
