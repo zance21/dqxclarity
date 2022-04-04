@@ -1,12 +1,12 @@
 {
   "1": {
-    "「旅の者よ。城に入るのは　しばし待たれよ。": "Traveler! Please wait a bit to enter the|castle..."
+    "「旅の者よ。城に入るのは　しばし待たれよ。": "Traveler! Please wait a while to enter the|castle..."
   },
   "2": {
-    "「今から　女王ディオーレさまが|　恵みの歌を　お唄いになられるところだ。|　旅の記念に　ぜひ聴いていくがよい。": "Queen Diole is about to sing a song of|blessing. You should hear it as a memento for|your journey."
+    "「今から　女王ディオーレさまが|　恵みの歌を　お唄いになられるところだ。|　旅の記念に　ぜひ聴いていくがよい。": "Queen Diole is about to sing the Song of|Grace. You should hear it as a memento for|your journey."
   },
   "3": {
-    "<center>|……海に生まれ　海に生きる。|それが我ら　ウェディの民。": "... Born of the sea, by the sea... That's who|we are, Weddie."
+    "<center>|……海に生まれ　海に生きる。|それが我ら　ウェディの民。": "...Born of the sea, by the sea. That's who|we are, Weddie."
   },
   "4": {
 	"<center>|大いなる海の神よ。|我らの命　我らの思い|守りたまえ　清めたまえ……。": "O great God of the sea! |Protect our lives, our throughts,|and purify us."
@@ -15,7 +15,7 @@
     "「あの歌は　恵みの歌と言ってな。|　この辺りの水という水に　聖なる加護を|　与えてくれる　ありがたいものなんだよ。": "That song is called the Song of Grace. It's|a blessing that gives holy blessing to the|water around here."
   },
   "6": {
-    "「女王ディオーレさまは　相変わらず|　氷のような冷たい　お顔をしておられる。": "Queen Diole still looks as cold as ice."
+    "「女王ディオーレさまは　相変わらず|　氷のような冷たい　お顔をしておられる。": "Queen Diole's face still looks as cold as ice."
   },
   "7": {
     "「女王には息子……つまり　王子がいてな。|　ふたりの仲が　うまくいってないという|　ウワサがあるんだ。": "The Queen has a son... I mean, the prince.|There have been rumors that the two of them|are not getting along."
@@ -36,13 +36,13 @@
     "「あひゃっ！": "Aah!"
   },
   "13": {
-    "「グルルゥ……。|　ギャワンギャワン！": "Grulu... Gawan Gawan!"
+    "「グルルゥ……。|　ギャワンギャワン！": "Grrrr... Bark Bark!"
   },
   "14": {
-    "「痛い　痛いっ。": "Ouch..."
+    "「痛い　痛いっ。": "YOUCH!!"
   },
   "15": {
-    "「うひぃっ。": "Whew."
+    "「うひぃっ。": "AAH!"
   },
   "16": {
     "「母上。なぜ　禁断の地の存在を|　僕に　教えてくれなかったのですか？　": "Mother. Why didn't you tell me about the|Forbidden Lands?"
@@ -63,16 +63,16 @@
     "「必要ないと言った！": "I already said NO!"
   },
   "22": {
-    "「ま　まあまあ　落ち着いて。": "Okay, okay, I'll calm down."
+    "「ま　まあまあ　落ち着いて。": "Okay, Calm down you two."
   },
   "23": {
-    "「オーディスも　もう子供ではない。|　いろいろと考えてるのだよ　ディオーレ。|　だから　その……。": "Odis is just a kid. He's... He's got a lot on|his mind, Di... So, uh..."
+    "「オーディスも　もう子供ではない。|　いろいろと考えてるのだよ　ディオーレ。|　だから　その……。": "Odis is just a kid. He's got a lot on|his mind, Diole. So, uh..."
   },
   "24": {
     "「君は　旅の人のようだな。|　僕の名は　オーディス。|　このヴェリナード王国の王子だ。": "You seem to be a traveler. My name|is Odis. I am the Prince of|the Kingdom of Verinard."
   },
   "25": {
-    "「……もしや　君は一人前の証を得て|　旅をしているんじゃないか？<yesno><close>": "If you're on your own, that means| you earned the right to travel, yes?<yesno><close>"
+    "「……もしや　君は一人前の証を得て|　旅をしているんじゃないか？<yesno><close>": "If you're on your own, that means| you earned the Mark of Adulthood, yes?<yesno><close>"
   },
   "26": {
     "「これは　僕にとって重要なことなんだ。|　君が　一人前の証を持っているなら|　正直に　そうだと答えてくれないか？<yesno><close>": "This is important to me, so... If you're a|man of your word, can you honestly tell me|that you are?<yesno><close>"
@@ -954,13 +954,13 @@
     "「今から　女王ディオーレさまが|　恵みの歌を　お唄いになられるところだ。|　旅の記念に　ぜひ聴いていくがよい。": "Queen Diole is about to sing a song of|blessing. I'd like to hear it as a memento of|my journey."
   },
   "319": {
-    "<center>……海に生まれ　海に生きる。|それが我ら　ウェディの民。": "... Born of the sea, by the sea... That's who|we are, Wede..."
+    "<center>|……海に生まれ　海に生きる。|それが我ら　ウェディの民。": "...Born of the sea, by the sea. That's who|we are, Weddie."
   },
   "320": {
-    "<center>母なる海に祈りを捧げ|我らは求める　神の恵みを。": "We pray to the Mother Sea, and we seek|God's..."
+    "母なる海に祈りを捧げ|我らは求める　神の恵みを。": "      We pray to the Mother Sea and|seek God's grace."
   },
   "321": {
-    "<center>大いなる海の神よ。|我らの命　我らの思い|守りたまえ　清めたまえ……。": "The great sea... Our lives, our thoughts,|protect us, cleanse us..."
+    "<center>|大いなる海の神よ。|我らの命　我らの思い|守りたまえ　清めたまえ……。": "O great God of the sea! |Protect our lives, our throughts,|and purify us."
   },
   "322": {
     "「ああ……。今日の恵みの歌は|　とっても　優しい感じだったわね……。": "Oh... Today's song of grace was so sweet..."
@@ -981,7 +981,7 @@
     "「そうか。それは　ありがたい。": "It's... It's, uh..."
   },
   "328": {
-    "<center>|母なる海に祈りを捧げ|我らは求める　神の恵みを。": "We pray to the Mother Sea, and we seek|God's..."
+    "母なる海に祈りを捧げ|我らは求める　神の恵みを。": "      We pray to the Mother Sea and|seek God's grace."
   },
   "329": {
     "「王子さまの見立てに　まちがいないでしょう。|　この方は　大きなチカラと　なってくれると|　私も　思いますわ。": "I'm sure the prince is right. And I know that|he will be a great help to us all."
